@@ -201,7 +201,7 @@
   </div>
   <p class="table-note">Select a column heading to sort. Marble rank and sorting use full precision.</p>
   <p id="schedule-strength-note" class="table-note">SOS is the average marble balance of opponents at this season snapshot. Each game counts once. A large win can lower an opponent's balance and reduce your SOS.</p>
-  <p id="combined-ranking-note" class="table-note">Combined score weights marble percentile 80% and SOS percentile 20% among teams with both values.</p>
+  <p id="combined-ranking-note" class="table-note">Combined score is 80% of the marble balance plus 20% of SOS marbles.</p>
   <p id="tournament-honors-key" class="table-note" hidden><span class="tournament-honor" aria-hidden="true">●</span> Final Four <span class="tournament-honor is-champion" aria-hidden="true">●</span> Champion · on-court results; hover for title-status notes.</p>
 </section>
 <section id="team-panel" class="team-panel" aria-labelledby="team-name">
@@ -524,24 +524,10 @@ function updateRankingSelection(){
   }
 }
 const eligibleForCombined = teams.filter(team => strengthByTeam.get(team.id) !== null);
-function rankingPercentiles(eligible, value) {
-  const ordered = [...eligible].sort((a, b) => value(a) - value(b));
-  const result = new Map();
-  for (let start = 0; start < ordered.length;) {
-    let end = start + 1;
-    while (end < ordered.length && value(ordered[end]) === value(ordered[start])) end++;
-    const percentile = ordered.length === 1 ? 50 : 100 * (start + end - 1) / (2 * (ordered.length - 1));
-    for (let i = start; i < end; i++) result.set(ordered[i].id, percentile);
-    start = end;
-  }
-  return result;
-}
-const marblePercentiles = rankingPercentiles(eligibleForCombined, team => team.balance);
-const schedulePercentiles = rankingPercentiles(eligibleForCombined, team => strengthByTeam.get(team.id));
 const combinedByTeam = new Map(eligibleForCombined.map(team => [
-  team.id, .8 * marblePercentiles.get(team.id) + .2 * schedulePercentiles.get(team.id),
+  team.id, .8 * team.balance + .2 * strengthByTeam.get(team.id),
 ]));
-const combinedFormat = new Intl.NumberFormat("en-US", {minimumFractionDigits: 1, maximumFractionDigits: 1});
+const combinedFormat = new Intl.NumberFormat("en-US", {minimumFractionDigits: 2, maximumFractionDigits: 2});
 const rankingSortButtons = [...document.querySelectorAll("[data-rank-sort]")];
 let rankingSort = {key: "rank", direction: 1};
 const rankingPageSize = 15;
