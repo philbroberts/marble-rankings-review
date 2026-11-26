@@ -124,6 +124,15 @@
 .reseeded-control{margin-top:8px;width:fit-content;cursor:pointer}
 #reseeded-note{font-size:12px;margin:5px 0 0}
 body[data-reseeded] .rule-strip span:first-child{display:none}
+
+.ranking-table tr[data-combined-band]:not([aria-current=true]):not(:hover){background:var(--combined-band)}
+.ranking-table tr[data-combined-band="1"]{--combined-band:#f4eae4}
+.ranking-table tr[data-combined-band="2"]{--combined-band:#f6f0e9}
+.ranking-table tr[data-combined-band="3"]{--combined-band:#eef1eb}
+.ranking-table tr[data-combined-band="4"]{--combined-band:#eaf0e9}
+.ranking-table tr[data-combined-band="5"]{--combined-band:#e5eee6}
+.ranking-table tr[data-combined-band="6"]{--combined-band:#e0ebe3}
+.ranking-table tr[data-combined-band="7"]{--combined-band:#d9e8df}
 </style>
 </head>
 <body>
@@ -187,7 +196,7 @@ body[data-reseeded] .rule-strip span:first-child{display:none}
   </div>
   <p class="table-note">Select a column heading to sort. Small italic numbers show season rank for each metric.</p>
   <p id="schedule-strength-note" class="table-note">SOS is the average marble balance of opponents at this season snapshot. Each included game counts once.</p>
-  <p id="combined-ranking-note" class="table-note">Combined score adds the marble balance and SOS marbles.</p>
+  <p id="combined-ranking-note" class="table-note">Combined score adds the marble balance and SOS marbles. Shading groups scores into two bands below 100 and five at or above 100, based on this season's distribution.</p>
   <p id="tournament-honors-key" class="table-note" hidden><span class="tournament-honor" aria-hidden="true">●</span> Final Four <span class="tournament-honor is-champion" aria-hidden="true">●</span> Champion · on-court results; hover for title-status notes.</p>
 </section>
 <section id="team-panel" class="team-panel" aria-labelledby="team-name">
@@ -558,6 +567,13 @@ const eligibleForCombined = teams.filter(team => strengthByTeam.get(team.id) !==
 const combinedByTeam = new Map(eligibleForCombined.map(team => [
   team.id, team.balance + strengthByTeam.get(team.id),
 ]));
+// Split each side of 100 into quantile bands, keeping equal scores together.
+const combinedBands=new Map();
+for(const [atLeast100,count,offset] of [[false,2,0],[true,5,2]]){
+  const values=[...combinedByTeam.values()].filter(value=>(value>=100)===atLeast100).sort((a,b)=>a-b);
+  const limits=Array.from({length:count-1},(_,i)=>values[Math.ceil((i+1)*values.length/count)-1]);
+  for(const value of values)combinedBands.set(value,1+offset+limits.filter(limit=>value>limit).length);
+}
 function metricRanks(values){
   const ordered=[...values].filter(Number.isFinite).sort((a,b)=>b-a);
   const ranks=new Map();
@@ -627,6 +643,8 @@ function renderRankings(){
     }
     cell.append(button);row.append(cell,rankedCell(fmt(team.balance),team.balance,marbleRanks,"number "+tone(team.balance)));
     const combined = combinedByTeam.get(team.id);
+    const band=combinedBands.get(combined);
+    if(band!==undefined)row.dataset.combinedBand=band;
     const strength = strengthByTeam.get(team.id);
     row.append(rankedCell(strength === null ? "\u2014" : fmt(strength),strength,sosRanks));
     row.append(rankedCell(combined === undefined ? "\u2014" : combinedFormat.format(combined),combined,combinedRanks));
