@@ -133,6 +133,9 @@ body[data-reseeded] .rule-strip span:first-child{display:none}
 .ranking-table tr[data-combined-band="5"]{--combined-band:#e5eee6}
 .ranking-table tr[data-combined-band="6"]{--combined-band:#e0ebe3}
 .ranking-table tr[data-combined-band="7"]{--combined-band:#d9e8df}
+
+.ranking-selection-tools{display:flex;align-items:center;justify-content:flex-end;flex-wrap:wrap;gap:4px 8px}
+#ranking-clear{min-height:30px;padding:4px 7px}
 </style>
 </head>
 <body>
@@ -177,7 +180,7 @@ body[data-reseeded] .rule-strip span:first-child{display:none}
 
 <main class="workspace">
 <section class="rankings" aria-labelledby="rankings-title">
-  <div class="section-heading"><h2 id="rankings-title">Season rankings</h2><span id="team-count" class="muted"></span></div>
+  <div class="section-heading"><h2 id="rankings-title">Season rankings</h2><div class="ranking-selection-tools"><span id="team-count" class="muted"></span><button type="button" class="secondary" id="ranking-clear">Clear selection</button></div></div>
   <label for="search" class="sr-only">Find a team in this season</label>
   <input id="search" type="search" placeholder="Find a team…" autocomplete="off">
   <div class="rank-scroll">
@@ -309,6 +312,7 @@ const node = (tag,cls,text) => { const el=document.createElement(tag);if(cls)el.
 let selectedId = new URLSearchParams(location.hash.slice(1)).get("team");
 if(!D.teams[selectedId])selectedId=teams[0].id;
 let history = [], selectedGame = -1;
+let rankingSelected = true;
 const batchCounts = new Map();
 function scheduleStrength(team) {
   if (!team.history.length) return null;
@@ -557,8 +561,9 @@ $("scope").textContent=numFormat.format(teams.length)+" teams · "+numFormat.for
 $("build-note").textContent="Saved model snapshot: "+new Date(D.baseline_at).toLocaleString("en-US",{dateStyle:"medium",timeStyle:"short",timeZone:"UTC"})+" UTC. Values are displayed rounded; calculations and CSV exports retain their saved precision.";
 
 function updateRankingSelection(){
+  $("ranking-clear").disabled=!rankingSelected;
   for(const row of $("rankings-body").rows){
-    const current=row.dataset.team===selectedId;
+    const current=rankingSelected&&row.dataset.team===selectedId;
     row.setAttribute("aria-current",String(current));
     row.querySelector("button").setAttribute("aria-pressed",String(current));
   }
@@ -672,13 +677,22 @@ $("ranking-next").addEventListener("click",()=>{
   rankingPage++;
   renderRankings();
 });
+function clearRankingSelection(){
+  rankingSelected=false;
+  updateRankingSelection();
+  clearTrend();
+}
+$("ranking-clear").addEventListener("click",clearRankingSelection);
 $("rankings-body").addEventListener("click",event=>{
   const button=event.target.closest("button[data-team]");
-  if(button)selectTeam(button.dataset.team,true);
+  if(!button)return;
+  if(rankingSelected&&button.dataset.team===selectedId)clearRankingSelection();
+  else selectTeam(button.dataset.team,true);
 });
 function selectTeam(id,scroll=false){
   if(!D.teams[id])return;
   selectedId=id;
+  rankingSelected=true;
   history=D.teams[id].history.map(values=>Object.fromEntries(columns.map((name,index)=>[name,values[index]])));
   selectedGame=history.length-1;
   batchCounts.clear();
