@@ -541,7 +541,7 @@ const combinedRanks=metricRanks(combinedByTeam.values());
 function rankedCell(label,value,ranks,cls="number"){
   const cell=node("td",cls,label),rank=ranks.get(value);
   if(rank!==undefined){
-    const note=node("small","metric-rank","#"+rank);
+    const note=node("small","metric-rank",String(rank));
     note.title="Rank "+rank+" in this season";
     cell.append(note);
   }
