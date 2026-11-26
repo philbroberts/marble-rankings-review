@@ -120,6 +120,10 @@
 @media(max-width:460px){.ranking-table th,.ranking-table td{padding-inline:3px}.ranking-table th{letter-spacing:0}.ranking-table td.number{font-size:12px;white-space:normal}}
 
 .ranking-table td.number{white-space:normal}.metric-rank{display:inline-block;margin-inline-start:.33em;color:#62717a;font-size:.75em;font-style:italic}
+
+.reseeded-control{margin-top:8px;width:fit-content;cursor:pointer}
+#reseeded-note{font-size:12px;margin:5px 0 0}
+body[data-reseeded] .rule-strip span:first-child{display:none}
 </style>
 <style>
 .review-nav{display:flex;align-items:center;flex-wrap:wrap;gap:8px 18px;font:600 13px/1.4 system-ui}
@@ -169,6 +173,8 @@
     <label for="season">Season</label>
     <select id="season" aria-describedby="snapshot"></select>
     <p id="snapshot" class="muted"></p>
+    <label class="reseeded-control"><input id="reseeded" type="checkbox" aria-describedby="reseeded-note"> Re-seeded</label>
+    <p id="reseeded-note" class="muted" hidden>Experimental replay from each team's saved balance for this season. It uses results from the same season, so it is retrospective. Result likelihood is unavailable for this view.</p>
   </div>
 </section>
 <div class="rule-strip">
@@ -212,7 +218,7 @@
     <div class="balance"><span class="balance-label">Marble balance</span><strong id="team-balance"></strong></div>
   </div>
   <p id="team-expectation" class="expectation"></p>
-  <div class="chart-heading"><h3>Balance through the season</h3><span>Zero is the starting line</span></div>
+  <div class="chart-heading"><h3>Balance through the season</h3><span id="opening-note">Zero is the starting line</span></div>
   <div id="balance-chart" class="chart"></div>
   <section class="explanation" aria-labelledby="explain-title">
     <div class="explain-heading"><h3 id="explain-title">Inside a marble transfer</h3><span id="explain-game"></span></div>
@@ -270,6 +276,50 @@ if(forwardLegacyConference())return;
 const $ = id => document.getElementById(id);
 $("conferences-link").href="conferences-"+D.season+".html";
 const columns = D.history_columns;
+const reseeded = new URLSearchParams(location.search).get("reseeded")==="1";
+const openingBalance = new Map(Object.values(D.teams).map(team=>[team.id,reseeded?team.balance:0]));
+function replayFromOpeningBalances(){
+  const c=Object.fromEntries(columns.map((name,i)=>[name,i]));
+  const balances=new Map(openingBalance);
+  const batches=new Map();
+  for(const team of Object.values(D.teams)){
+    for(const row of team.history){
+      const key=row[c.date]+"|"+row[c.update_group];
+      if(!batches.has(key))batches.set(key,[]);
+      batches.get(key).push([team.id,row]);
+    }
+  }
+  for(const key of [...batches.keys()].sort()){
+    const values=[...balances.values()].sort((a,b)=>a-b);
+    const position=(values.length-1)*.75;
+    const i=Math.floor(position);
+    const cutoff=values[i]+(position-i)*(values[Math.ceil(position)]-values[i]);
+    const rows=batches.get(key),changes=new Map();
+    for(const [id,row] of rows){
+      const before=balances.get(id),opponentBefore=balances.get(row[c.opponent]);
+      const expected=(before-opponentBefore)/10+row[c.home_advantage];
+      const change=row[c.actual]-expected;
+      row[c.before]=before;
+      row[c.opponent_before]=opponentBefore;
+      row[c.expected]=expected;
+      row[c.change]=change;
+      row[c.opponent_top_quartile]=opponentBefore>cutoff;
+      row[c.pregame_quartile_cutoff]=cutoff;
+      row[c.result_tail_probability]=null;
+      row[c.probability_prior_games]=null;
+      changes.set(id,(changes.get(id)||0)+change);
+    }
+    for(const [id,change] of changes)balances.set(id,balances.get(id)+change);
+    for(const [id,row] of rows)row[c.after]=balances.get(id);
+  }
+  const ranked=Object.values(D.teams).sort((a,b)=>balances.get(b.id)-balances.get(a.id)||a.rank-b.rank);
+  ranked.forEach((team,i)=>{
+    team.balance=balances.get(team.id);
+    team.rank=i+1;
+  });
+}
+if(reseeded)replayFromOpeningBalances();
+
 const teams = Object.values(D.teams).sort((a,b)=>a.rank-b.rank);
 const signedFormat = new Intl.NumberFormat("en-US",{minimumFractionDigits:1,maximumFractionDigits:1,signDisplay:"exceptZero"});
 const preciseFormat = new Intl.NumberFormat("en-US",{minimumFractionDigits:2,maximumFractionDigits:2,signDisplay:"exceptZero"});
@@ -307,7 +357,7 @@ const trendEnd=dayValue(D.as_of);
 function trendValue(series,day){
   let low=0,high=series.points.length;
   while(low<high){const mid=(low+high)>>1;if(series.points[mid].day<=day)low=mid+1;else high=mid;}
-  return low?series.points[low-1].value:0;
+  return low?series.points[low-1].value:openingBalance.get(series.team.id);
 }
 function syncTrendSelection(){
   if(!trendReady)return;
@@ -407,7 +457,7 @@ function renderTrendZones(svg,el,x,pad,width,height){
 function renderTrend(){
   const box=$("season-trend"),width=Math.max(280,box.clientWidth),height=box.clientHeight;
   const pad={l:57,r:20,t:57,b:42},plotW=width-pad.l-pad.r,plotH=height-pad.t-pad.b;
-  const values=dailyTrends.flatMap(s=>s.points.map(p=>p.value));
+  const values=dailyTrends.flatMap(s=>[openingBalance.get(s.team.id),...s.points.map(p=>p.value)]);
   let low=Math.min(0,...values),high=Math.max(0,...values);
   const spread=Math.max(20,high-low);low-=spread*.06;high+=spread*.06;
   const x=day=>pad.l+(day-trendStart)/Math.max(dayMs,trendEnd-trendStart)*plotW;
@@ -435,7 +485,7 @@ function renderTrend(){
   svg.append(el("text",{x:pad.l+plotW/2,y:height-3,"text-anchor":"middle"},"Calendar date · daily closing balances"));
   trendPaths=new Map();
   for(const series of dailyTrends){
-    let d="M"+x(trendStart).toFixed(2)+" "+y(0).toFixed(2);
+    let d="M"+x(trendStart).toFixed(2)+" "+y(openingBalance.get(series.team.id)).toFixed(2);
     for(const point of series.points)d+=" H"+x(point.day).toFixed(2)+" V"+y(point.value).toFixed(2);
     d+=" H"+x(trendEnd).toFixed(2);
     const path=el("path",{d,stroke:series.team.primary_color,"data-team":series.team.id,class:"trend-series"});
@@ -507,8 +557,21 @@ for(const season of D.available_seasons){
   option.value=season;option.selected=season===D.season;$("season").append(option);
 }
 $("season").addEventListener("change",()=>{
-  location.assign("season-"+$("season").value+".html#team="+encodeURIComponent(selectedId));
+  location.assign("season-"+$("season").value+".html"+(reseeded?"?reseeded=1":"")+"#team="+encodeURIComponent(selectedId));
 });
+$("reseeded").checked=reseeded;
+$("reseeded").addEventListener("change",()=>{
+  const url=new URL(location.href);
+  if($("reseeded").checked)url.searchParams.set("reseeded","1");
+  else url.searchParams.delete("reseeded");
+  location.assign(url.href);
+});
+if(reseeded){
+  document.body.dataset.reseeded="true";
+  $("reseeded-note").hidden=false;
+  document.querySelector(".review-example")?.setAttribute("hidden","");
+  $("opening-note").textContent="Starts from the saved season balance";
+}
 $("snapshot").textContent=(D.in_progress?"In progress · ":"")+"Through "+calendarDate(D.as_of,true);
 if(D.historical_extension){
   $("historical-source").hidden=false;
@@ -877,7 +940,8 @@ function renderCalculation(){
 function renderChart(){
   const width=Math.max(270,Math.round($("balance-chart").clientWidth)),height=$("balance-chart").clientHeight;
   const pad={l:58,r:20,t:history.length?38:18,b:42},plotW=width-pad.l-pad.r,plotH=height-pad.t-pad.b;
-  const points=[{game:0,balance:0,label:"Season start · 0 marbles",id:""}];
+  const opening=openingBalance.get(selectedId);
+  const points=[{game:0,balance:opening,label:"Season start: "+precise(opening)+" marbles",id:""}];
   history.forEach((row,index)=>{
     if(index+1<history.length&&history[index+1].update_group===row.update_group)return;
     points.push({game:index+1,balance:row.after,id:row.game_id,
@@ -891,7 +955,7 @@ function renderChart(){
   const svgNode=(tag,attrs={},text)=>{const el=document.createElementNS(ns,tag);for(const [key,value]of Object.entries(attrs))el.setAttribute(key,value);if(text!==undefined)el.textContent=text;return el;};
   const svg=svgNode("svg",{viewBox:"0 0 "+width+" "+height,role:"img","aria-labelledby":"chart-title chart-desc"});
   svg.append(svgNode("title",{id:"chart-title"},"Marble balance for "+D.teams[selectedId].name));
-  svg.append(svgNode("desc",{id:"chart-desc"},"Starts at zero and ends at "+precise(D.teams[selectedId].balance)+" marbles after "+history.length+" included games. Markers show closing balances; daily batches close together."));
+  svg.append(svgNode("desc",{id:"chart-desc"},"Starts at "+precise(opening)+" and ends at "+precise(D.teams[selectedId].balance)+" marbles after "+history.length+" included games. Markers show closing balances; daily batches close together."));
   for(const section of ledgerSections()){
     const left=section.start?x(section.start+.5):x(0),right=section.end<history.length?x(section.end+.5):x(history.length);
     if(section.start){
@@ -936,7 +1000,7 @@ $("download").addEventListener("click",()=>{
   const lines=[header, ...history.map(row=>[seasonLabel(D.season),D.teams[selectedId].name,row.game_id,row.date,D.teams[row.opponent].name,row.venue,row.points_for,row.points_against,row.expected,row.actual,row.change,row.before,row.opponent_before,row.after,row.chronology,row.result_tail_probability??"",row.probability_prior_games??""])];
   const blob=new Blob(["\uFEFF"+lines.map(line=>line.map(csvCell).join(",")).join("\r\n")],{type:"text/csv;charset=utf-8"});
   const url=URL.createObjectURL(blob),a=node("a");a.href=url;
-  a.download="marble-"+D.season+"-"+selectedId+".csv";
+  a.download="marble-"+D.season+"-"+selectedId+(reseeded?"-reseeded":"")+".csv";
   document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);
 });
 new ResizeObserver(()=>{if(history.length||selectedId){renderChart();renderCalculation();renderLedgerDistribution();}}).observe($("balance-chart"));
