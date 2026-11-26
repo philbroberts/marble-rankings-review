@@ -1,0 +1,1266 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,84,Indiana,1987-11-28,22.0,included_game_day
+1988,84,Indiana,1987-12-01,33.8,included_game_day
+1988,84,Indiana,1987-12-05,28.445999999999998,included_game_day
+1988,84,Indiana,1987-12-08,27.845869999999998,included_game_day
+1988,84,Indiana,1987-12-11,49.408116,included_game_day
+1988,84,Indiana,1987-12-12,49.62197957,included_game_day
+1988,84,Indiana,1987-12-15,73.021321613,included_game_day
+1988,84,Indiana,1987-12-19,57.3565963117,included_game_day
+1988,84,Indiana,1987-12-28,80.88806172743,included_game_day
+1988,84,Indiana,1987-12-29,90.1111476507527,included_game_day
+1988,84,Indiana,1988-01-06,82.30179484584076,included_game_day
+1988,84,Indiana,1988-01-11,73.82467751117251,included_game_day
+1988,84,Indiana,1988-01-14,65.85700466259736,included_game_day
+1988,84,Indiana,1988-01-16,61.31994908962522,included_game_day
+1988,84,Indiana,1988-01-24,56.65071588764248,included_game_day
+1988,84,Indiana,1988-01-27,64.18049372306376,included_game_day
+1988,84,Indiana,1988-01-30,70.96466087588797,included_game_day
+1988,84,Indiana,1988-02-04,91.27074083095394,included_game_day
+1988,84,Indiana,1988-02-06,98.63665092311496,included_game_day
+1988,84,Indiana,1988-02-11,111.35286580380843,included_game_day
+1988,84,Indiana,1988-02-13,99.63518660025788,included_game_day
+1988,84,Indiana,1988-02-18,124.6219357975082,included_game_day
+1988,84,Indiana,1988-02-21,120.03237064239855,included_game_day
+1988,84,Indiana,1988-02-24,119.88298550983043,included_game_day
+1988,84,Indiana,1988-02-29,110.4113496456083,included_game_day
+1988,84,Indiana,1988-03-05,107.05141053720715,included_game_day
+1988,84,Indiana,1988-03-10,104.13862668751717,included_game_day
+1988,84,Indiana,1988-03-12,134.71925581379156,included_game_day
+1988,84,Indiana,1988-03-18,121.5443676818078,included_game_day
+1989,84,Indiana,1988-11-18,32.0,included_game_day
+1989,84,Indiana,1988-11-20,38.7,included_game_day
+1989,84,Indiana,1988-11-23,14.508500000000002,included_game_day
+1989,84,Indiana,1988-11-25,0.7926500000000019,included_game_day
+1989,84,Indiana,1988-11-29,20.713385000000002,included_game_day
+1989,84,Indiana,1988-12-03,-3.6904534999999967,included_game_day
+1989,84,Indiana,1988-12-06,-10.189758149999998,included_game_day
+1989,84,Indiana,1988-12-09,3.5595466650000027,included_game_day
+1989,84,Indiana,1988-12-10,18.4170204985,included_game_day
+1989,84,Indiana,1988-12-14,47.87051325815,included_game_day
+1989,84,Indiana,1988-12-17,65.096981232335,included_game_day
+1989,84,Indiana,1988-12-20,84.5963187241015,included_game_day
+1989,84,Indiana,1988-12-28,111.52820506177135,included_game_day
+1989,84,Indiana,1988-12-29,112.07648898133587,included_game_day
+1989,84,Indiana,1989-01-04,119.14764712404367,included_game_day
+1989,84,Indiana,1989-01-09,119.94509835957665,included_game_day
+1989,84,Indiana,1989-01-14,121.48142905029252,included_game_day
+1989,84,Indiana,1989-01-19,120.94478848451652,included_game_day
+1989,84,Indiana,1989-01-21,126.43497378860324,included_game_day
+1989,84,Indiana,1989-01-23,137.10087967856276,included_game_day
+1989,84,Indiana,1989-01-28,131.86605317955048,included_game_day
+1989,84,Indiana,1989-01-30,143.09015721756174,included_game_day
+1989,84,Indiana,1989-02-04,138.645577584529,included_game_day
+1989,84,Indiana,1989-02-09,144.21753689354196,included_game_day
+1989,84,Indiana,1989-02-12,135.7043409100749,included_game_day
+1989,84,Indiana,1989-02-19,137.2798686671715,included_game_day
+1989,84,Indiana,1989-02-23,142.00956588986506,included_game_day
+1989,84,Indiana,1989-02-25,149.68116991611495,included_game_day
+1989,84,Indiana,1989-03-01,153.51074367850214,included_game_day
+1989,84,Indiana,1989-03-05,148.77663091675163,included_game_day
+1989,84,Indiana,1989-03-09,152.40389014906918,included_game_day
+1989,84,Indiana,1989-03-11,134.05309033801865,included_game_day
+1989,84,Indiana,1989-03-17,138.19109262207323,included_game_day
+1989,84,Indiana,1989-03-19,160.34682297126665,included_game_day
+1989,84,Indiana,1989-03-23,146.23561678613797,included_game_day
+1990,84,Indiana,1989-11-25,8.0,included_game_day
+1990,84,Indiana,1989-11-28,15.2,included_game_day
+1990,84,Indiana,1989-12-02,15.84,included_game_day
+1990,84,Indiana,1989-12-05,20.8548,included_game_day
+1990,84,Indiana,1989-12-08,43.218434,included_game_day
+1990,84,Indiana,1989-12-09,58.196568034,included_game_day
+1990,84,Indiana,1989-12-16,60.4405638016,included_game_day
+1990,84,Indiana,1989-12-23,102.47675823643999,included_game_day
+1990,84,Indiana,1989-12-27,114.987014054247,included_game_day
+1990,84,Indiana,1989-12-28,139.93807432693305,included_game_day
+1990,84,Indiana,1990-01-04,129.8151332386068,included_game_day
+1990,84,Indiana,1990-01-08,126.36144055112317,included_game_day
+1990,84,Indiana,1990-01-11,134.15268892316288,included_game_day
+1990,84,Indiana,1990-01-13,124.75897493773616,included_game_day
+1990,84,Indiana,1990-01-18,122.59700828996496,included_game_day
+1990,84,Indiana,1990-01-24,98.28478640061718,included_game_day
+1990,84,Indiana,1990-01-28,86.07815717774467,included_game_day
+1990,84,Indiana,1990-02-01,102.7786329914346,included_game_day
+1990,84,Indiana,1990-02-04,100.21116431026056,included_game_day
+1990,84,Indiana,1990-02-08,95.13129234706389,included_game_day
+1990,84,Indiana,1990-02-10,104.98848086886512,included_game_day
+1990,84,Indiana,1990-02-17,140.6553055489989,included_game_day
+1990,84,Indiana,1990-02-19,118.89375629360394,included_game_day
+1990,84,Indiana,1990-02-25,117.1123607401104,included_game_day
+1990,84,Indiana,1990-03-01,109.97846000212324,included_game_day
+1990,84,Indiana,1990-03-03,110.56436160437019,included_game_day
+1990,84,Indiana,1990-03-08,117.54857101609021,included_game_day
+1990,84,Indiana,1990-03-10,110.1518711051063,included_game_day
+1990,84,Indiana,1990-03-15,100.30715175017087,included_game_day
+1991,84,Indiana,1990-11-23,22.0,included_game_day
+1991,84,Indiana,1990-11-24,24.5,included_game_day
+1991,84,Indiana,1990-11-25,22.09,included_game_day
+1991,84,Indiana,1990-11-28,23.9677,included_game_day
+1991,84,Indiana,1990-12-01,41.570930000000004,included_game_day
+1991,84,Indiana,1990-12-04,52.48893700000001,included_game_day
+1991,84,Indiana,1990-12-07,79.07596330000001,included_game_day
+1991,84,Indiana,1990-12-08,99.83490278000001,included_game_day
+1991,84,Indiana,1990-12-15,117.046632142,included_game_day
+1991,84,Indiana,1990-12-18,111.6391501195,included_game_day
+1991,84,Indiana,1990-12-21,110.86473180124,included_game_day
+1991,84,Indiana,1990-12-27,121.919297136549,included_game_day
+1991,84,Indiana,1990-12-28,148.7093472247164,included_game_day
+1991,84,Indiana,1991-01-02,171.89639341846473,included_game_day
+1991,84,Indiana,1991-01-05,189.48514540813562,included_game_day
+1991,84,Indiana,1991-01-14,183.9111107684473,included_game_day
+1991,84,Indiana,1991-01-19,193.40708394410075,included_game_day
+1991,84,Indiana,1991-01-21,184.71752001283147,included_game_day
+1991,84,Indiana,1991-01-24,182.2935151804171,included_game_day
+1991,84,Indiana,1991-01-26,200.87241958483006,included_game_day
+1991,84,Indiana,1991-01-30,200.13665536163015,included_game_day
+1991,84,Indiana,1991-02-03,198.6333583354565,included_game_day
+1991,84,Indiana,1991-02-07,205.27289334238264,included_game_day
+1991,84,Indiana,1991-02-10,204.53933828027604,included_game_day
+1991,84,Indiana,1991-02-17,202.59949204444635,included_game_day
+1991,84,Indiana,1991-02-21,183.56081298092275,included_game_day
+1991,84,Indiana,1991-02-24,199.1503920797398,included_game_day
+1991,84,Indiana,1991-02-28,194.94454627092153,included_game_day
+1991,84,Indiana,1991-03-02,196.1834704004161,included_game_day
+1991,84,Indiana,1991-03-07,192.7406931289813,included_game_day
+1991,84,Indiana,1991-03-10,194.55199073533453,included_game_day
+1991,84,Indiana,1991-03-14,194.752968138002,included_game_day
+1991,84,Indiana,1991-03-16,206.26196556470057,included_game_day
+1991,84,Indiana,1991-03-21,184.14904461112104,included_game_day
+1992,84,Indiana,1991-11-15,-15.0,included_game_day
+1992,84,Indiana,1991-11-30,9.579999999999998,included_game_day
+1992,84,Indiana,1991-12-03,36.742,included_game_day
+1992,84,Indiana,1991-12-07,33.546549999999996,included_game_day
+1992,84,Indiana,1991-12-10,66.6493206,included_game_day
+1992,84,Indiana,1991-12-13,97.53350051999999,included_game_day
+1992,84,Indiana,1991-12-14,135.46437534199998,included_game_day
+1992,84,Indiana,1991-12-21,136.19402790779998,included_game_day
+1992,84,Indiana,1991-12-27,140.76915031701998,included_game_day
+1992,84,Indiana,1991-12-28,173.90315023164328,included_game_day
+1992,84,Indiana,1992-01-04,191.86438488627363,included_game_day
+1992,84,Indiana,1992-01-09,225.21971763331013,included_game_day
+1992,84,Indiana,1992-01-11,228.51070525274264,included_game_day
+1992,84,Indiana,1992-01-14,225.72467201577135,included_game_day
+1992,84,Indiana,1992-01-18,242.5689496577514,included_game_day
+1992,84,Indiana,1992-01-21,239.7541654196774,included_game_day
+1992,84,Indiana,1992-01-28,260.4778876382575,included_game_day
+1992,84,Indiana,1992-02-01,228.89074593161698,included_game_day
+1992,84,Indiana,1992-02-04,223.77729250964154,included_game_day
+1992,84,Indiana,1992-02-09,226.77713063788383,included_game_day
+1992,84,Indiana,1992-02-12,210.88182876376428,included_game_day
+1992,84,Indiana,1992-02-15,215.16546524227368,included_game_day
+1992,84,Indiana,1992-02-19,233.6285423451615,included_game_day
+1992,84,Indiana,1992-02-23,232.93479180080172,included_game_day
+1992,84,Indiana,1992-03-01,220.4892480250397,included_game_day
+1992,84,Indiana,1992-03-04,219.38576525415652,included_game_day
+1992,84,Indiana,1992-03-08,202.17450971410148,included_game_day
+1992,84,Indiana,1992-03-12,208.844876240983,included_game_day
+1992,84,Indiana,1992-03-15,195.60697879577162,included_game_day
+1992,84,Indiana,1992-03-19,217.98247662133355,included_game_day
+1992,84,Indiana,1992-03-21,221.38765238741365,included_game_day
+1992,84,Indiana,1992-03-26,221.68122261496134,included_game_day
+1992,84,Indiana,1992-03-28,240.25185105172326,included_game_day
+1992,84,Indiana,1992-04-04,233.2414154159437,included_game_day
+1993,84,Indiana,1992-11-18,20.0,included_game_day
+1993,84,Indiana,1992-11-20,26.3,included_game_day
+1993,84,Indiana,1992-11-25,28.7818,included_game_day
+1993,84,Indiana,1992-11-27,32.90562,included_game_day
+1993,84,Indiana,1992-12-05,25.415058,included_game_day
+1993,84,Indiana,1992-12-08,31.6145522,included_game_day
+1993,84,Indiana,1992-12-11,71.05309697999999,included_game_day
+1993,84,Indiana,1992-12-12,100.32870528199999,included_game_day
+1993,84,Indiana,1992-12-19,110.96674775379999,included_game_day
+1993,84,Indiana,1992-12-23,124.29465557841999,included_game_day
+1993,84,Indiana,1992-12-27,149.101891260578,included_game_day
+1993,84,Indiana,1992-12-28,160.61919823452018,included_game_day
+1993,84,Indiana,1993-01-03,151.71650999800238,included_game_day
+1993,84,Indiana,1993-01-06,159.44348602468648,included_game_day
+1993,84,Indiana,1993-01-09,187.91354483891203,included_game_day
+1993,84,Indiana,1993-01-12,189.54695631177066,included_game_day
+1993,84,Indiana,1993-01-16,183.17019180663584,included_game_day
+1993,84,Indiana,1993-01-19,178.80218227691583,included_game_day
+1993,84,Indiana,1993-01-24,189.2630050948337,included_game_day
+1993,84,Indiana,1993-01-27,180.476132563719,included_game_day
+1993,84,Indiana,1993-01-30,186.2538171579974,included_game_day
+1993,84,Indiana,1993-02-06,192.8189601558457,included_game_day
+1993,84,Indiana,1993-02-09,176.65785914094485,included_game_day
+1993,84,Indiana,1993-02-14,172.4095167384946,included_game_day
+1993,84,Indiana,1993-02-17,179.96016918824344,included_game_day
+1993,84,Indiana,1993-02-21,182.44583096117938,included_game_day
+1993,84,Indiana,1993-02-23,166.9520789761281,included_game_day
+1993,84,Indiana,1993-02-27,175.2338668007362,included_game_day
+1993,84,Indiana,1993-03-04,181.42733914451907,included_game_day
+1993,84,Indiana,1993-03-10,201.39332502984317,included_game_day
+1993,84,Indiana,1993-03-14,192.46997955013418,included_game_day
+1993,84,Indiana,1993-03-19,222.74320683689808,included_game_day
+1993,84,Indiana,1993-03-21,212.37900492743157,included_game_day
+1993,84,Indiana,1993-03-25,217.5342399803806,included_game_day
+1993,84,Indiana,1993-03-27,206.68893390244295,included_game_day
+1994,84,Indiana,1993-11-27,-2.5,included_game_day
+1994,84,Indiana,1993-12-04,13.7,included_game_day
+1994,84,Indiana,1993-12-07,30.509,included_game_day
+1994,84,Indiana,1993-12-10,64.41230999999999,included_game_day
+1994,84,Indiana,1993-12-11,76.579978,included_game_day
+1994,84,Indiana,1993-12-18,75.59066259,included_game_day
+1994,84,Indiana,1993-12-22,79.1505187228,included_game_day
+1994,84,Indiana,1993-12-27,84.42143534336537,included_game_day
+1994,84,Indiana,1993-12-28,89.22314091401013,included_game_day
+1994,84,Indiana,1994-01-08,89.48970217640061,included_game_day
+1994,84,Indiana,1994-01-11,104.59782825348407,included_game_day
+1994,84,Indiana,1994-01-16,110.19662439387932,included_game_day
+1994,84,Indiana,1994-01-18,108.59972177084188,included_game_day
+1994,84,Indiana,1994-01-22,104.20302652845534,included_game_day
+1994,84,Indiana,1994-01-26,114.8968190480585,included_game_day
+1994,84,Indiana,1994-01-30,109.9806104289854,included_game_day
+1994,84,Indiana,1994-02-02,104.0235780609655,included_game_day
+1994,84,Indiana,1994-02-05,110.40520141768677,included_game_day
+1994,84,Indiana,1994-02-08,89.45474645893712,included_game_day
+1994,84,Indiana,1994-02-12,86.86372617582751,included_game_day
+1994,84,Indiana,1994-02-19,91.30890638329477,included_game_day
+1994,84,Indiana,1994-02-24,97.12880994500381,included_game_day
+1994,84,Indiana,1994-02-27,54.3110082349584,included_game_day
+1994,84,Indiana,1994-03-01,60.966472324194,included_game_day
+1994,84,Indiana,1994-03-06,59.08054285403546,included_game_day
+1994,84,Indiana,1994-03-09,51.193930972352504,included_game_day
+1994,84,Indiana,1994-03-12,64.93971068535069,included_game_day
+1994,84,Indiana,1994-03-18,85.54414659481868,included_game_day
+1994,84,Indiana,1994-03-20,100.50810662858913,included_game_day
+1994,84,Indiana,1994-03-25,92.30087821478335,included_game_day
+1995,84,Indiana,1994-11-21,-5.0,included_game_day
+1995,84,Indiana,1994-11-23,-22.78,included_game_day
+1995,84,Indiana,1994-11-29,-18.002000000000002,included_game_day
+1995,84,Indiana,1994-12-03,6.298199999999998,included_game_day
+1995,84,Indiana,1994-12-07,9.014613999999998,included_game_day
+1995,84,Indiana,1994-12-09,18.6684166,included_game_day
+1995,84,Indiana,1994-12-10,28.45191494,included_game_day
+1995,84,Indiana,1994-12-17,47.359200446,included_game_day
+1995,84,Indiana,1994-12-21,61.492674300400004,included_game_day
+1995,84,Indiana,1994-12-28,95.17775581359001,included_game_day
+1995,84,Indiana,1994-12-29,114.34025926196,included_game_day
+1995,84,Indiana,1995-01-03,97.94199657191783,included_game_day
+1995,84,Indiana,1995-01-07,89.83590343868897,included_game_day
+1995,84,Indiana,1995-01-11,94.96522669899186,included_game_day
+1995,84,Indiana,1995-01-14,85.60833282438387,included_game_day
+1995,84,Indiana,1995-01-18,91.79642104869612,included_game_day
+1995,84,Indiana,1995-01-24,72.1839621076474,included_game_day
+1995,84,Indiana,1995-01-28,70.74882619399123,included_game_day
+1995,84,Indiana,1995-01-31,63.896188413130375,included_game_day
+1995,84,Indiana,1995-02-04,69.52405837116243,included_game_day
+1995,84,Indiana,1995-02-08,63.4465780974276,included_game_day
+1995,84,Indiana,1995-02-12,72.6107984021263,included_game_day
+1995,84,Indiana,1995-02-14,78.48607414796453,included_game_day
+1995,84,Indiana,1995-02-19,67.43344226879199,included_game_day
+1995,84,Indiana,1995-02-25,77.74210463456009,included_game_day
+1995,84,Indiana,1995-03-02,77.89791365748981,included_game_day
+1995,84,Indiana,1995-03-05,78.21125099912095,included_game_day
+1995,84,Indiana,1995-03-08,79.99643305629165,included_game_day
+1995,84,Indiana,1995-03-12,111.37350836986997,included_game_day
+1995,84,Indiana,1995-03-17,102.03774079142993,included_game_day
+1996,84,Indiana,1995-11-24,-4.0,included_game_day
+1996,84,Indiana,1995-11-25,-35.59,included_game_day
+1996,84,Indiana,1995-11-28,-14.231000000000002,included_game_day
+1996,84,Indiana,1995-12-02,-19.7279,included_game_day
+1996,84,Indiana,1995-12-08,-4.401510000000002,included_game_day
+1996,84,Indiana,1995-12-09,6.773881109999998,included_game_day
+1996,84,Indiana,1995-12-16,6.060903098999999,included_game_day
+1996,84,Indiana,1995-12-20,40.7908403691,included_game_day
+1996,84,Indiana,1995-12-23,39.1079600074,included_game_day
+1996,84,Indiana,1995-12-29,71.64437104496,included_game_day
+1996,84,Indiana,1995-12-30,85.8487814367868,included_game_day
+1996,84,Indiana,1996-01-04,73.40671673440959,included_game_day
+1996,84,Indiana,1996-01-06,88.90870033642359,included_game_day
+1996,84,Indiana,1996-01-10,108.51461188855382,included_game_day
+1996,84,Indiana,1996-01-13,122.12138998027716,included_game_day
+1996,84,Indiana,1996-01-16,120.32187939719053,included_game_day
+1996,84,Indiana,1996-01-23,133.65066223092754,included_game_day
+1996,84,Indiana,1996-01-27,124.70168358931168,included_game_day
+1996,84,Indiana,1996-01-30,124.84419696011145,included_game_day
+1996,84,Indiana,1996-02-04,141.367020360715,included_game_day
+1996,84,Indiana,1996-02-06,148.40873898167422,included_game_day
+1996,84,Indiana,1996-02-11,122.17492735370858,included_game_day
+1996,84,Indiana,1996-02-14,139.419874037272,included_game_day
+1996,84,Indiana,1996-02-18,132.81560671736514,included_game_day
+1996,84,Indiana,1996-02-25,130.46399722329767,included_game_day
+1996,84,Indiana,1996-02-28,138.34773449728527,included_game_day
+1996,84,Indiana,1996-03-02,138.34617675475832,included_game_day
+1996,84,Indiana,1996-03-06,145.1927877832065,included_game_day
+1996,84,Indiana,1996-03-10,133.3873576422121,included_game_day
+1996,84,Indiana,1996-03-15,115.147079430579,included_game_day
+1997,84,Indiana,1996-11-15,7.0,included_game_day
+1997,84,Indiana,1996-11-20,13.3,included_game_day
+1997,84,Indiana,1996-11-22,25.27,included_game_day
+1997,84,Indiana,1996-11-27,25.768,included_game_day
+1997,84,Indiana,1996-11-29,44.3662,included_game_day
+1997,84,Indiana,1996-12-02,46.08958,included_game_day
+1997,84,Indiana,1996-12-07,14.403641999999998,included_game_day
+1997,84,Indiana,1996-12-10,27.5533178,included_game_day
+1997,84,Indiana,1996-12-13,52.209748321999996,included_game_day
+1997,84,Indiana,1996-12-14,56.9470271898,included_game_day
+1997,84,Indiana,1996-12-21,67.83646384992,included_game_day
+1997,84,Indiana,1996-12-23,64.485929695928,included_game_day
+1997,84,Indiana,1996-12-27,67.6226129935932,included_game_day
+1997,84,Indiana,1996-12-28,88.32273000187988,included_game_day
+1997,84,Indiana,1997-01-02,98.90959884021665,included_game_day
+1997,84,Indiana,1997-01-04,85.50978097782816,included_game_day
+1997,84,Indiana,1997-01-08,89.02772759102987,included_game_day
+1997,84,Indiana,1997-01-15,79.68075652794873,included_game_day
+1997,84,Indiana,1997-01-18,60.31202754924245,included_game_day
+1997,84,Indiana,1997-01-21,64.57801285402961,included_game_day
+1997,84,Indiana,1997-01-26,76.15371501613436,included_game_day
+1997,84,Indiana,1997-01-30,67.47555127676536,included_game_day
+1997,84,Indiana,1997-02-02,61.668716913954896,included_game_day
+1997,84,Indiana,1997-02-04,62.041597360118445,included_game_day
+1997,84,Indiana,1997-02-08,73.33343079830739,included_game_day
+1997,84,Indiana,1997-02-11,86.57827781781259,included_game_day
+1997,84,Indiana,1997-02-16,96.24854203721321,included_game_day
+1997,84,Indiana,1997-02-18,89.11827670063906,included_game_day
+1997,84,Indiana,1997-02-22,90.82325269024622,included_game_day
+1997,84,Indiana,1997-03-01,97.4223906199145,included_game_day
+1997,84,Indiana,1997-03-05,96.35794186954757,included_game_day
+1997,84,Indiana,1997-03-08,92.81075631624999,included_game_day
+1997,84,Indiana,1997-03-13,70.9869612942772,included_game_day
+1998,84,Indiana,1997-11-14,-3.4,included_game_day
+1998,84,Indiana,1997-11-20,17.840000000000003,included_game_day
+1998,84,Indiana,1997-11-28,2.0560000000000027,included_game_day
+1998,84,Indiana,1997-11-30,27.071649,included_game_day
+1998,84,Indiana,1997-12-03,35.4422841,included_game_day
+1998,84,Indiana,1997-12-06,37.528612966000004,included_game_day
+1998,84,Indiana,1997-12-09,48.055054297000005,included_game_day
+1998,84,Indiana,1997-12-12,56.818850708300005,included_game_day
+1998,84,Indiana,1997-12-13,58.673362086000004,included_game_day
+1998,84,Indiana,1997-12-22,71.3960966836385,included_game_day
+1998,84,Indiana,1997-12-27,80.62499499100436,included_game_day
+1998,84,Indiana,1997-12-28,85.27055383395665,included_game_day
+1998,84,Indiana,1997-12-31,76.22804174904077,included_game_day
+1998,84,Indiana,1998-01-03,75.00628401415302,included_game_day
+1998,84,Indiana,1998-01-06,96.40347888508221,included_game_day
+1998,84,Indiana,1998-01-10,97.556132192414,included_game_day
+1998,84,Indiana,1998-01-14,110.66856802133202,included_game_day
+1998,84,Indiana,1998-01-18,117.79358383858062,included_game_day
+1998,84,Indiana,1998-01-25,123.19532189005612,included_game_day
+1998,84,Indiana,1998-01-28,111.223045513481,included_game_day
+1998,84,Indiana,1998-01-31,116.78416059699383,included_game_day
+1998,84,Indiana,1998-02-04,127.52887598620524,included_game_day
+1998,84,Indiana,1998-02-10,130.54603688651702,included_game_day
+1998,84,Indiana,1998-02-14,131.87829364360283,included_game_day
+1998,84,Indiana,1998-02-19,119.87596445542806,included_game_day
+1998,84,Indiana,1998-02-22,72.39429839821754,included_game_day
+1998,84,Indiana,1998-02-24,65.64736575695495,included_game_day
+1998,84,Indiana,1998-02-28,60.09582484256714,included_game_day
+1998,84,Indiana,1998-03-05,59.42829323659391,included_game_day
+1998,84,Indiana,1998-03-06,61.636268090859616,included_game_day
+1998,84,Indiana,1998-03-12,72.54664229796856,included_game_day
+1998,84,Indiana,1998-03-14,71.19587615400928,included_game_day
+1999,84,Indiana,1998-11-07,14.0,included_game_day
+1999,84,Indiana,1998-11-08,33.0,included_game_day
+1999,84,Indiana,1998-11-14,32.7,included_game_day
+1999,84,Indiana,1998-11-18,64.43,included_game_day
+1999,84,Indiana,1998-11-23,62.587,included_game_day
+1999,84,Indiana,1998-11-24,60.5277,included_game_day
+1999,84,Indiana,1998-11-25,47.842710000000004,included_game_day
+1999,84,Indiana,1998-12-01,47.7859142,included_game_day
+1999,84,Indiana,1998-12-05,44.61647188,included_game_day
+1999,84,Indiana,1998-12-08,38.993905358,included_game_day
+1999,84,Indiana,1998-12-11,59.0129167706,included_game_day
+1999,84,Indiana,1998-12-12,81.92960678874,included_game_day
+1999,84,Indiana,1998-12-20,122.1734230229994,included_game_day
+1999,84,Indiana,1998-12-27,167.72731524380322,included_game_day
+1999,84,Indiana,1998-12-28,161.29554582915893,included_game_day
+1999,84,Indiana,1998-12-31,142.05567971662268,included_game_day
+1999,84,Indiana,1999-01-03,138.08362939501168,included_game_day
+1999,84,Indiana,1999-01-05,115.55121486064047,included_game_day
+1999,84,Indiana,1999-01-09,101.43525352481201,included_game_day
+1999,84,Indiana,1999-01-13,97.35572867846818,included_game_day
+1999,84,Indiana,1999-01-16,110.86496341935023,included_game_day
+1999,84,Indiana,1999-01-24,97.0207847950613,included_game_day
+1999,84,Indiana,1999-01-26,88.86681545484205,included_game_day
+1999,84,Indiana,1999-01-31,90.03654062808187,included_game_day
+1999,84,Indiana,1999-02-03,103.71953651936553,included_game_day
+1999,84,Indiana,1999-02-09,92.26628423766077,included_game_day
+1999,84,Indiana,1999-02-13,101.04826670835553,included_game_day
+1999,84,Indiana,1999-02-17,99.3104653898207,included_game_day
+1999,84,Indiana,1999-02-21,90.71572524879531,included_game_day
+1999,84,Indiana,1999-02-24,94.33640547371027,included_game_day
+1999,84,Indiana,1999-02-27,97.9024803551588,included_game_day
+1999,84,Indiana,1999-03-05,76.21864615727883,included_game_day
+1999,84,Indiana,1999-03-11,95.3651951069766,included_game_day
+1999,84,Indiana,1999-03-13,77.59399624178022,included_game_day
+2000,84,Indiana,1999-11-19,11.0,included_game_day
+2000,84,Indiana,1999-11-26,18.9,included_game_day
+2000,84,Indiana,1999-11-30,31.892989999999998,included_game_day
+2000,84,Indiana,1999-12-04,38.509822,included_game_day
+2000,84,Indiana,1999-12-07,46.8348498,included_game_day
+2000,84,Indiana,1999-12-10,84.739627156,included_game_day
+2000,84,Indiana,1999-12-11,69.08290202411,included_game_day
+2000,84,Indiana,1999-12-18,82.282988779699,included_game_day
+2000,84,Indiana,1999-12-21,93.2783573154401,included_game_day
+2000,84,Indiana,1999-12-27,121.44463635162879,included_game_day
+2000,84,Indiana,1999-12-28,142.81626692799782,included_game_day
+2000,84,Indiana,2000-01-05,136.96216439796015,included_game_day
+2000,84,Indiana,2000-01-08,135.7999972452788,included_game_day
+2000,84,Indiana,2000-01-11,130.96362741827437,included_game_day
+2000,84,Indiana,2000-01-15,145.6571632640967,included_game_day
+2000,84,Indiana,2000-01-18,131.4561613994871,included_game_day
+2000,84,Indiana,2000-01-22,125.19497844976934,included_game_day
+2000,84,Indiana,2000-01-25,149.54871574548136,included_game_day
+2000,84,Indiana,2000-02-02,148.47805378006228,included_game_day
+2000,84,Indiana,2000-02-05,149.44895702772203,included_game_day
+2000,84,Indiana,2000-02-09,136.55215422432016,included_game_day
+2000,84,Indiana,2000-02-13,146.74889542214237,included_game_day
+2000,84,Indiana,2000-02-19,130.34164673285875,included_game_day
+2000,84,Indiana,2000-02-22,110.76310439607687,included_game_day
+2000,84,Indiana,2000-02-26,116.65439672438433,included_game_day
+2000,84,Indiana,2000-02-29,129.73277669839018,included_game_day
+2000,84,Indiana,2000-03-05,126.0657309516414,included_game_day
+2000,84,Indiana,2000-03-10,125.79381284081998,included_game_day
+2000,84,Indiana,2000-03-17,103.5498870450251,included_game_day
+2001,84,Indiana,2000-11-14,9.0,included_game_day
+2001,84,Indiana,2000-11-17,14.7,included_game_day
+2001,84,Indiana,2000-11-22,7.236,included_game_day
+2001,84,Indiana,2000-11-24,-6.741600000000001,included_game_day
+2001,84,Indiana,2000-11-29,-5.049304000000001,included_game_day
+2001,84,Indiana,2000-12-02,16.8646264,included_game_day
+2001,84,Indiana,2000-12-05,34.60080376,included_game_day
+2001,84,Indiana,2000-12-08,52.243992383999995,included_game_day
+2001,84,Indiana,2000-12-09,58.6900915356,included_game_day
+2001,84,Indiana,2000-12-16,64.11584890804,included_game_day
+2001,84,Indiana,2000-12-18,53.599310869536,included_game_day
+2001,84,Indiana,2000-12-22,40.1067596649224,included_game_day
+2001,84,Indiana,2000-12-28,68.68853219082926,included_game_day
+2001,84,Indiana,2000-12-29,66.33157215846346,included_game_day
+2001,84,Indiana,2001-01-04,64.46819977298503,included_game_day
+2001,84,Indiana,2001-01-07,72.20754024721326,included_game_day
+2001,84,Indiana,2001-01-09,60.32341970614975,included_game_day
+2001,84,Indiana,2001-01-17,64.77815328451798,included_game_day
+2001,84,Indiana,2001-01-20,64.61251874751346,included_game_day
+2001,84,Indiana,2001-01-23,76.80906278483559,included_game_day
+2001,84,Indiana,2001-01-27,75.89975947610303,included_game_day
+2001,84,Indiana,2001-01-31,84.14480929858966,included_game_day
+2001,84,Indiana,2001-02-03,91.09965862612479,included_game_day
+2001,84,Indiana,2001-02-11,89.93868351887942,included_game_day
+2001,84,Indiana,2001-02-14,101.62265308450966,included_game_day
+2001,84,Indiana,2001-02-17,98.19404423409964,included_game_day
+2001,84,Indiana,2001-02-20,100.32068435897556,included_game_day
+2001,84,Indiana,2001-02-24,128.4934078681754,included_game_day
+2001,84,Indiana,2001-02-28,152.65153271009038,included_game_day
+2001,84,Indiana,2001-03-03,162.09847354244218,included_game_day
+2001,84,Indiana,2001-03-09,166.57124168663424,included_game_day
+2001,84,Indiana,2001-03-10,168.83948507912635,included_game_day
+2001,84,Indiana,2001-03-11,158.2624462700787,included_game_day
+2001,84,Indiana,2001-03-15,146.95452172323672,included_game_day
+2002,84,Indiana Hoosiers,2001-11-18,8.1,included_game_day
+2002,84,Indiana Hoosiers,2001-11-24,15.816999999999998,included_game_day
+2002,84,Indiana Hoosiers,2001-11-28,28.435299999999998,included_game_day
+2002,84,Indiana Hoosiers,2001-12-01,18.55362,included_game_day
+2002,84,Indiana Hoosiers,2001-12-04,28.9012381,included_game_day
+2002,84,Indiana Hoosiers,2001-12-08,43.662991313000006,included_game_day
+2002,84,Indiana Hoosiers,2001-12-15,43.0949742247,included_game_day
+2002,84,Indiana Hoosiers,2001-12-22,28.926608828737002,included_game_day
+2002,84,Indiana Hoosiers,2002-01-02,45.88677413498624,included_game_day
+2002,84,Indiana Hoosiers,2002-01-05,42.14970474408749,included_game_day
+2002,84,Indiana Hoosiers,2002-01-08,59.54123291087354,included_game_day
+2002,84,Indiana Hoosiers,2002-01-13,80.20956439007556,included_game_day
+2002,84,Indiana Hoosiers,2002-01-19,81.42751544315519,included_game_day
+2002,84,Indiana Hoosiers,2002-01-23,107.22820336383934,included_game_day
+2002,84,Indiana Hoosiers,2002-01-26,138.84377951314553,included_game_day
+2002,84,Indiana Hoosiers,2002-01-31,138.70702592464377,included_game_day
+2002,84,Indiana Hoosiers,2002-02-02,122.194551376536,included_game_day
+2002,84,Indiana Hoosiers,2002-02-05,142.19476452767572,included_game_day
+2002,84,Indiana Hoosiers,2002-02-09,146.4830577196686,included_game_day
+2002,84,Indiana Hoosiers,2002-02-17,155.36450723771486,included_game_day
+2002,84,Indiana Hoosiers,2002-02-20,152.97183211921927,included_game_day
+2002,84,Indiana Hoosiers,2002-02-24,146.78522098943048,included_game_day
+2002,84,Indiana Hoosiers,2002-02-26,139.017214749588,included_game_day
+2002,84,Indiana Hoosiers,2002-03-02,136.29178276137998,included_game_day
+2002,84,Indiana Hoosiers,2002-03-08,141.80667437332897,included_game_day
+2002,84,Indiana Hoosiers,2002-03-09,129.61699905235787,included_game_day
+2002,84,Indiana Hoosiers,2002-03-14,139.44889781670727,included_game_day
+2002,84,Indiana Hoosiers,2002-03-16,140.90880589700515,included_game_day
+2002,84,Indiana Hoosiers,2002-03-21,156.43152075870802,included_game_day
+2002,84,Indiana Hoosiers,2002-03-23,166.16866020505861,included_game_day
+2002,84,Indiana Hoosiers,2002-03-30,180.01149186276487,included_game_day
+2002,84,Indiana Hoosiers,2002-04-01,173.7473731706533,included_game_day
+2003,84,Indiana Hoosiers,2002-11-25,10.0,included_game_day
+2003,84,Indiana Hoosiers,2002-11-26,15.16,included_game_day
+2003,84,Indiana Hoosiers,2002-11-27,19.573999999999998,included_game_day
+2003,84,Indiana Hoosiers,2002-12-01,40.0189,included_game_day
+2003,84,Indiana Hoosiers,2002-12-03,48.33491,included_game_day
+2003,84,Indiana Hoosiers,2002-12-07,71.532319,included_game_day
+2003,84,Indiana Hoosiers,2002-12-09,85.44364565000001,included_game_day
+2003,84,Indiana Hoosiers,2002-12-14,83.093279112,included_game_day
+2003,84,Indiana Hoosiers,2002-12-21,76.8814480163,included_game_day
+2003,84,Indiana Hoosiers,2002-12-28,61.17534107594,included_game_day
+2003,84,Indiana Hoosiers,2002-12-31,69.17273700017999,included_game_day
+2003,84,Indiana Hoosiers,2003-01-04,69.68320625049557,included_game_day
+2003,84,Indiana Hoosiers,2003-01-08,71.60622748874104,included_game_day
+2003,84,Indiana Hoosiers,2003-01-11,58.08695042596314,included_game_day
+2003,84,Indiana Hoosiers,2003-01-15,64.07347241586062,included_game_day
+2003,84,Indiana Hoosiers,2003-01-18,75.5111631366874,included_game_day
+2003,84,Indiana Hoosiers,2003-01-21,86.09852545633723,included_game_day
+2003,84,Indiana Hoosiers,2003-01-25,68.19876348138817,included_game_day
+2003,84,Indiana Hoosiers,2003-01-28,66.05810035652007,included_game_day
+2003,84,Indiana Hoosiers,2003-02-01,60.95442266296829,included_game_day
+2003,84,Indiana Hoosiers,2003-02-05,42.9997987493931,included_game_day
+2003,84,Indiana Hoosiers,2003-02-08,39.93866703455373,included_game_day
+2003,84,Indiana Hoosiers,2003-02-12,54.13840529045033,included_game_day
+2003,84,Indiana Hoosiers,2003-02-15,52.55443347788936,included_game_day
+2003,84,Indiana Hoosiers,2003-02-19,71.78249239351312,included_game_day
+2003,84,Indiana Hoosiers,2003-02-25,55.39784088155268,included_game_day
+2003,84,Indiana Hoosiers,2003-03-01,54.201030986005584,included_game_day
+2003,84,Indiana Hoosiers,2003-03-04,57.6729845158456,included_game_day
+2003,84,Indiana Hoosiers,2003-03-08,41.5244611618907,included_game_day
+2003,84,Indiana Hoosiers,2003-03-13,58.60564247872678,included_game_day
+2003,84,Indiana Hoosiers,2003-03-14,68.87700641367405,included_game_day
+2003,84,Indiana Hoosiers,2003-03-15,81.63736664966403,included_game_day
+2003,84,Indiana Hoosiers,2003-03-21,83.33843428846188,included_game_day
+2003,84,Indiana Hoosiers,2003-03-23,75.53956145127195,included_game_day
+2004,84,Indiana Hoosiers,2003-11-21,4.0,included_game_day
+2004,84,Indiana Hoosiers,2003-11-24,-4.6,included_game_day
+2004,84,Indiana Hoosiers,2003-11-29,-1.5848999999999993,included_game_day
+2004,84,Indiana Hoosiers,2003-12-02,-24.602559999999997,included_game_day
+2004,84,Indiana Hoosiers,2003-12-06,-29.143597299999996,included_game_day
+2004,84,Indiana Hoosiers,2003-12-10,-20.352864875999998,included_game_day
+2004,84,Indiana Hoosiers,2003-12-13,-8.760259987999998,included_game_day
+2004,84,Indiana Hoosiers,2003-12-20,-44.288184684200004,included_game_day
+2004,84,Indiana Hoosiers,2003-12-23,-24.861935427080002,included_game_day
+2004,84,Indiana Hoosiers,2003-12-29,-14.021333079808302,included_game_day
+2004,84,Indiana Hoosiers,2004-01-03,-23.99513130291747,included_game_day
+2004,84,Indiana Hoosiers,2004-01-06,-42.42737321915278,included_game_day
+2004,84,Indiana Hoosiers,2004-01-11,-26.026843551924483,included_game_day
+2004,84,Indiana Hoosiers,2004-01-17,-14.564497359418429,included_game_day
+2004,84,Indiana Hoosiers,2004-01-20,-2.717145951454004,included_game_day
+2004,84,Indiana Hoosiers,2004-01-24,5.1338707881269485,included_game_day
+2004,84,Indiana Hoosiers,2004-01-27,13.940294613354963,included_game_day
+2004,84,Indiana Hoosiers,2004-01-31,7.939053243791225,included_game_day
+2004,84,Indiana Hoosiers,2004-02-03,11.794771543748,included_game_day
+2004,84,Indiana Hoosiers,2004-02-07,8.516215011497827,included_game_day
+2004,84,Indiana Hoosiers,2004-02-11,23.459616830190896,included_game_day
+2004,84,Indiana Hoosiers,2004-02-14,13.8285147254989,included_game_day
+2004,84,Indiana Hoosiers,2004-02-18,5.933497025958523,included_game_day
+2004,84,Indiana Hoosiers,2004-02-21,-4.156034542337224,included_game_day
+2004,84,Indiana Hoosiers,2004-02-25,-2.5084848719492188,included_game_day
+2004,84,Indiana Hoosiers,2004-03-03,4.695118117773398,included_game_day
+2004,84,Indiana Hoosiers,2004-03-06,-4.025465517314919,included_game_day
+2004,84,Indiana Hoosiers,2004-03-11,6.638544792974243,included_game_day
+2004,84,Indiana Hoosiers,2004-03-12,7.812434623308659,included_game_day
+2005,84,Indiana Hoosiers,2004-11-23,3.1,included_game_day
+2005,84,Indiana Hoosiers,2004-11-27,0.77,included_game_day
+2005,84,Indiana Hoosiers,2004-12-01,-1.6923950999999993,included_game_day
+2005,84,Indiana Hoosiers,2004-12-04,3.126764410000001,included_game_day
+2005,84,Indiana Hoosiers,2004-12-08,-6.858058170999998,included_game_day
+2005,84,Indiana Hoosiers,2004-12-11,-9.986542572999998,included_game_day
+2005,84,Indiana Hoosiers,2004-12-19,-8.071800316389998,included_game_day
+2005,84,Indiana Hoosiers,2004-12-22,-5.613849308662998,included_game_day
+2005,84,Indiana Hoosiers,2004-12-28,4.838921878839302,included_game_day
+2005,84,Indiana Hoosiers,2004-12-31,11.38142219929744,included_game_day
+2005,84,Indiana Hoosiers,2005-01-02,22.340599891724693,included_game_day
+2005,84,Indiana Hoosiers,2005-01-05,2.0344292548679945,included_game_day
+2005,84,Indiana Hoosiers,2005-01-08,23.171449120897194,included_game_day
+2005,84,Indiana Hoosiers,2005-01-15,25.275513921771736,included_game_day
+2005,84,Indiana Hoosiers,2005-01-19,33.81123780865352,included_game_day
+2005,84,Indiana Hoosiers,2005-01-22,42.44001636251708,included_game_day
+2005,84,Indiana Hoosiers,2005-01-26,44.519326423720855,included_game_day
+2005,84,Indiana Hoosiers,2005-01-29,35.6108586929817,included_game_day
+2005,84,Indiana Hoosiers,2005-02-02,30.395261787007737,included_game_day
+2005,84,Indiana Hoosiers,2005-02-06,35.95189609244534,included_game_day
+2005,84,Indiana Hoosiers,2005-02-12,52.28992042596351,included_game_day
+2005,84,Indiana Hoosiers,2005-02-15,45.52167597026043,included_game_day
+2005,84,Indiana Hoosiers,2005-02-20,48.53246893039822,included_game_day
+2005,84,Indiana Hoosiers,2005-02-22,61.696978396341635,included_game_day
+2005,84,Indiana Hoosiers,2005-02-27,72.64073291776361,included_game_day
+2005,84,Indiana Hoosiers,2005-03-01,78.09049218622653,included_game_day
+2005,84,Indiana Hoosiers,2005-03-05,92.2689991895018,included_game_day
+2005,84,Indiana Hoosiers,2005-03-11,69.43372369043945,included_game_day
+2005,84,Indiana Hoosiers,2005-03-16,62.42548542527916,included_game_day
+2006,84,Indiana Hoosiers,2005-11-18,31.0,included_game_day
+2006,84,Indiana Hoosiers,2005-11-21,62.4,included_game_day
+2006,84,Indiana Hoosiers,2005-11-26,81.2166,included_game_day
+2006,84,Indiana Hoosiers,2005-11-30,70.14088,included_game_day
+2006,84,Indiana Hoosiers,2005-12-03,73.113547396,included_game_day
+2006,84,Indiana Hoosiers,2005-12-06,64.5539420564,included_game_day
+2006,84,Indiana Hoosiers,2005-12-10,95.69944013676,included_game_day
+2006,84,Indiana Hoosiers,2005-12-19,105.885300919684,included_game_day
+2006,84,Indiana Hoosiers,2005-12-23,123.29960920082276,included_game_day
+2006,84,Indiana Hoosiers,2005-12-31,139.43412205904988,included_game_day
+2006,84,Indiana Hoosiers,2006-01-03,137.41191001050206,included_game_day
+2006,84,Indiana Hoosiers,2006-01-07,134.4721648754541,included_game_day
+2006,84,Indiana Hoosiers,2006-01-11,116.36383890391869,included_game_day
+2006,84,Indiana Hoosiers,2006-01-17,117.03225683856053,included_game_day
+2006,84,Indiana Hoosiers,2006-01-21,113.62053808553321,included_game_day
+2006,84,Indiana Hoosiers,2006-01-24,98.4045359934945,included_game_day
+2006,84,Indiana Hoosiers,2006-01-29,72.9893171974558,included_game_day
+2006,84,Indiana Hoosiers,2006-02-01,73.05367063449377,included_game_day
+2006,84,Indiana Hoosiers,2006-02-04,72.10759475888909,included_game_day
+2006,84,Indiana Hoosiers,2006-02-08,57.07829727086782,included_game_day
+2006,84,Indiana Hoosiers,2006-02-11,55.62714525116513,included_game_day
+2006,84,Indiana Hoosiers,2006-02-15,49.98239429224516,included_game_day
+2006,84,Indiana Hoosiers,2006-02-19,48.92585900043531,included_game_day
+2006,84,Indiana Hoosiers,2006-02-22,46.64060526966389,included_game_day
+2006,84,Indiana Hoosiers,2006-02-26,55.914649780498664,included_game_day
+2006,84,Indiana Hoosiers,2006-03-01,63.6679627811708,included_game_day
+2006,84,Indiana Hoosiers,2006-03-04,69.66586748517832,included_game_day
+2006,84,Indiana Hoosiers,2006-03-10,78.51146057405714,included_game_day
+2006,84,Indiana Hoosiers,2006-03-11,86.7130508439996,included_game_day
+2006,84,Indiana Hoosiers,2006-03-16,86.83711203260347,included_game_day
+2006,84,Indiana Hoosiers,2006-03-18,77.82186861403841,included_game_day
+2007,84,Indiana Hoosiers,2006-11-13,22.9,included_game_day
+2007,84,Indiana Hoosiers,2006-11-14,23.38,included_game_day
+2007,84,Indiana Hoosiers,2006-11-17,24.782,included_game_day
+2007,84,Indiana Hoosiers,2006-11-19,38.3238,included_game_day
+2007,84,Indiana Hoosiers,2006-11-28,44.2492032,included_game_day
+2007,84,Indiana Hoosiers,2006-12-02,52.380324079999994,included_game_day
+2007,84,Indiana Hoosiers,2006-12-06,95.71060332118999,included_game_day
+2007,84,Indiana Hoosiers,2006-12-09,86.670749769781,included_game_day
+2007,84,Indiana Hoosiers,2006-12-17,90.1913094462949,included_game_day
+2007,84,Indiana Hoosiers,2006-12-20,85.8984113139937,included_game_day
+2007,84,Indiana Hoosiers,2006-12-22,110.05461415046643,included_game_day
+2007,84,Indiana Hoosiers,2006-12-30,107.58464172973203,included_game_day
+2007,84,Indiana Hoosiers,2007-01-02,105.61927154977177,included_game_day
+2007,84,Indiana Hoosiers,2007-01-07,124.69816282420386,included_game_day
+2007,84,Indiana Hoosiers,2007-01-10,144.9432115008667,included_game_day
+2007,84,Indiana Hoosiers,2007-01-13,150.7035998477698,included_game_day
+2007,84,Indiana Hoosiers,2007-01-16,146.382499899271,included_game_day
+2007,84,Indiana Hoosiers,2007-01-20,150.8182164061532,included_game_day
+2007,84,Indiana Hoosiers,2007-01-23,138.92879185079255,included_game_day
+2007,84,Indiana Hoosiers,2007-01-27,145.89618567825576,included_game_day
+2007,84,Indiana Hoosiers,2007-01-31,149.56596356444098,included_game_day
+2007,84,Indiana Hoosiers,2007-02-03,139.52768203104068,included_game_day
+2007,84,Indiana Hoosiers,2007-02-10,136.08103809399913,included_game_day
+2007,84,Indiana Hoosiers,2007-02-15,123.27167434444459,included_game_day
+2007,84,Indiana Hoosiers,2007-02-17,116.26427895990605,included_game_day
+2007,84,Indiana Hoosiers,2007-02-21,113.10925191050343,included_game_day
+2007,84,Indiana Hoosiers,2007-02-24,110.76812257277518,included_game_day
+2007,84,Indiana Hoosiers,2007-02-28,107.10432781202915,included_game_day
+2007,84,Indiana Hoosiers,2007-03-03,125.56366321305381,included_game_day
+2007,84,Indiana Hoosiers,2007-03-09,115.84270810262946,included_game_day
+2007,84,Indiana Hoosiers,2007-03-15,123.43446622929363,included_game_day
+2007,84,Indiana Hoosiers,2007-03-17,122.76985207921544,included_game_day
+2008,84,Indiana Hoosiers,2007-11-12,17.0,included_game_day
+2008,84,Indiana Hoosiers,2007-11-18,65.6406,included_game_day
+2008,84,Indiana Hoosiers,2007-11-20,81.96854,included_game_day
+2008,84,Indiana Hoosiers,2007-11-23,89.599686,included_game_day
+2008,84,Indiana Hoosiers,2007-11-24,73.3808628,included_game_day
+2008,84,Indiana Hoosiers,2007-11-27,71.24258652,included_game_day
+2008,84,Indiana Hoosiers,2007-12-01,82.167187168,included_game_day
+2008,84,Indiana Hoosiers,2007-12-03,79.0523684512,included_game_day
+2008,84,Indiana Hoosiers,2007-12-08,92.67621579818,included_game_day
+2008,84,Indiana Hoosiers,2007-12-15,125.44042617040199,included_game_day
+2008,84,Indiana Hoosiers,2007-12-22,123.81890506873978,included_game_day
+2008,84,Indiana Hoosiers,2007-12-29,136.49742064377133,included_game_day
+2008,84,Indiana Hoosiers,2008-01-02,129.59347725014277,included_game_day
+2008,84,Indiana Hoosiers,2008-01-08,130.86001075224056,included_game_day
+2008,84,Indiana Hoosiers,2008-01-13,122.36007525067765,included_game_day
+2008,84,Indiana Hoosiers,2008-01-17,128.73874950450676,included_game_day
+2008,84,Indiana Hoosiers,2008-01-20,133.15913000512842,included_game_day
+2008,84,Indiana Hoosiers,2008-01-23,139.75913225566444,included_game_day
+2008,84,Indiana Hoosiers,2008-01-26,129.20629822946208,included_game_day
+2008,84,Indiana Hoosiers,2008-01-31,118.59123410214318,included_game_day
+2008,84,Indiana Hoosiers,2008-02-03,112.21014908903175,included_game_day
+2008,84,Indiana Hoosiers,2008-02-07,114.48267245291072,included_game_day
+2008,84,Indiana Hoosiers,2008-02-10,122.20868650367828,included_game_day
+2008,84,Indiana Hoosiers,2008-02-13,118.26469325710391,included_game_day
+2008,84,Indiana Hoosiers,2008-02-16,132.45419668584105,included_game_day
+2008,84,Indiana Hoosiers,2008-02-19,136.48747762405762,included_game_day
+2008,84,Indiana Hoosiers,2008-02-23,124.7188126271924,included_game_day
+2008,84,Indiana Hoosiers,2008-02-26,120.63118998903866,included_game_day
+2008,84,Indiana Hoosiers,2008-03-02,93.09727334480479,included_game_day
+2008,84,Indiana Hoosiers,2008-03-05,101.91154239615173,included_game_day
+2008,84,Indiana Hoosiers,2008-03-09,89.01250587243952,included_game_day
+2008,84,Indiana Hoosiers,2008-03-14,84.2777418971804,included_game_day
+2008,84,Indiana Hoosiers,2008-03-21,71.31847692806019,included_game_day
+2009,84,Indiana Hoosiers,2008-11-15,15.0,included_game_day
+2009,84,Indiana Hoosiers,2008-11-18,12.2,included_game_day
+2009,84,Indiana Hoosiers,2008-11-24,-23.199,included_game_day
+2009,84,Indiana Hoosiers,2008-11-25,-50.5201,included_game_day
+2009,84,Indiana Hoosiers,2008-11-30,-31.675728,included_game_day
+2009,84,Indiana Hoosiers,2008-12-03,-41.279545483,included_game_day
+2009,84,Indiana Hoosiers,2008-12-06,-45.3402977147,included_game_day
+2009,84,Indiana Hoosiers,2008-12-10,-30.73384851708,included_game_day
+2009,84,Indiana Hoosiers,2008-12-13,-35.458147197711995,included_game_day
+2009,84,Indiana Hoosiers,2008-12-22,-48.5233915951808,included_game_day
+2009,84,Indiana Hoosiers,2008-12-28,-53.02889084827646,included_game_day
+2009,84,Indiana Hoosiers,2009-01-03,-43.537252405622326,included_game_day
+2009,84,Indiana Hoosiers,2009-01-07,-42.11284355157328,included_game_day
+2009,84,Indiana Hoosiers,2009-01-10,-54.80342872877205,included_game_day
+2009,84,Indiana Hoosiers,2009-01-13,-64.53355952033512,included_game_day
+2009,84,Indiana Hoosiers,2009-01-17,-65.79368272563653,included_game_day
+2009,84,Indiana Hoosiers,2009-01-25,-58.7297828877842,included_game_day
+2009,84,Indiana Hoosiers,2009-01-28,-45.91871695206746,included_game_day
+2009,84,Indiana Hoosiers,2009-01-31,-49.15799813751386,included_game_day
+2009,84,Indiana Hoosiers,2009-02-04,-36.51829551528247,included_game_day
+2009,84,Indiana Hoosiers,2009-02-07,-43.966805794631696,included_game_day
+2009,84,Indiana Hoosiers,2009-02-10,-37.67408140040109,included_game_day
+2009,84,Indiana Hoosiers,2009-02-15,-39.2837354557618,included_game_day
+2009,84,Indiana Hoosiers,2009-02-19,-45.26298410882708,included_game_day
+2009,84,Indiana Hoosiers,2009-02-21,-39.24408501689274,included_game_day
+2009,84,Indiana Hoosiers,2009-02-25,-57.96463177604554,included_game_day
+2009,84,Indiana Hoosiers,2009-02-28,-47.219608262745595,included_game_day
+2009,84,Indiana Hoosiers,2009-03-03,-36.437287842304606,included_game_day
+2009,84,Indiana Hoosiers,2009-03-08,-44.28713345157898,included_game_day
+2009,84,Indiana Hoosiers,2009-03-12,-51.239568523712805,included_game_day
+2010,84,Indiana Hoosiers,2009-11-13,20.0,included_game_day
+2010,84,Indiana Hoosiers,2009-11-16,20.6,included_game_day
+2010,84,Indiana Hoosiers,2009-11-19,6.190000000000001,included_game_day
+2010,84,Indiana Hoosiers,2009-11-20,-3.464199999999998,included_game_day
+2010,84,Indiana Hoosiers,2009-11-22,-5.633479999999999,included_game_day
+2010,84,Indiana Hoosiers,2009-11-28,11.146668000000002,included_game_day
+2010,84,Indiana Hoosiers,2009-12-01,-0.16187689999999932,included_game_day
+2010,84,Indiana Hoosiers,2009-12-08,15.177625297,included_game_day
+2010,84,Indiana Hoosiers,2009-12-12,1.7461108521500002,included_game_day
+2010,84,Indiana Hoosiers,2009-12-19,11.271943332436202,included_game_day
+2010,84,Indiana Hoosiers,2009-12-22,3.0832327890670825,included_game_day
+2010,84,Indiana Hoosiers,2009-12-28,35.87232584124504,included_game_day
+2010,84,Indiana Hoosiers,2009-12-31,39.18085517186147,included_game_day
+2010,84,Indiana Hoosiers,2010-01-06,23.26246670278058,included_game_day
+2010,84,Indiana Hoosiers,2010-01-09,19.89887118902824,included_game_day
+2010,84,Indiana Hoosiers,2010-01-14,2.068267584537381,included_game_day
+2010,84,Indiana Hoosiers,2010-01-17,14.983913064521975,included_game_day
+2010,84,Indiana Hoosiers,2010-01-21,26.4146440015519,included_game_day
+2010,84,Indiana Hoosiers,2010-01-24,5.499366671312181,included_game_day
+2010,84,Indiana Hoosiers,2010-01-30,13.830860474448128,included_game_day
+2010,84,Indiana Hoosiers,2010-02-04,20.295164281439988,included_game_day
+2010,84,Indiana Hoosiers,2010-02-07,12.389763327305758,included_game_day
+2010,84,Indiana Hoosiers,2010-02-10,5.445110997679112,included_game_day
+2010,84,Indiana Hoosiers,2010-02-13,-5.487111911787629,included_game_day
+2010,84,Indiana Hoosiers,2010-02-16,-11.27963893772949,included_game_day
+2010,84,Indiana Hoosiers,2010-02-20,-20.29475667349127,included_game_day
+2010,84,Indiana Hoosiers,2010-02-25,-40.08499780354613,included_game_day
+2010,84,Indiana Hoosiers,2010-02-28,-47.73805311361313,included_game_day
+2010,84,Indiana Hoosiers,2010-03-03,-44.76817899133556,included_game_day
+2010,84,Indiana Hoosiers,2010-03-06,-30.14247877421511,included_game_day
+2010,84,Indiana Hoosiers,2010-03-11,-38.44191860051875,included_game_day
+2011,84,Indiana Hoosiers,2010-11-12,25.0,included_game_day
+2011,84,Indiana Hoosiers,2010-11-14,42.5,included_game_day
+2011,84,Indiana Hoosiers,2010-11-16,52.35,included_game_day
+2011,84,Indiana Hoosiers,2010-11-21,57.215,included_game_day
+2011,84,Indiana Hoosiers,2010-11-23,62.328500000000005,included_game_day
+2011,84,Indiana Hoosiers,2010-11-26,87.58370000000001,included_game_day
+2011,84,Indiana Hoosiers,2010-12-01,74.17036415400001,included_game_day
+2011,84,Indiana Hoosiers,2010-12-04,82.7618941486,included_game_day
+2011,84,Indiana Hoosiers,2010-12-11,68.09753060070001,included_game_day
+2011,84,Indiana Hoosiers,2010-12-17,79.50032224568501,included_game_day
+2011,84,Indiana Hoosiers,2010-12-19,107.2774656159499,included_game_day
+2011,84,Indiana Hoosiers,2010-12-22,93.81589996656102,included_game_day
+2011,84,Indiana Hoosiers,2010-12-23,82.46757351419423,included_game_day
+2011,84,Indiana Hoosiers,2010-12-27,61.78099762304855,included_game_day
+2011,84,Indiana Hoosiers,2010-12-31,55.84085979328893,included_game_day
+2011,84,Indiana Hoosiers,2011-01-04,54.22923827819071,included_game_day
+2011,84,Indiana Hoosiers,2011-01-09,45.74838338267416,included_game_day
+2011,84,Indiana Hoosiers,2011-01-15,62.967326629264555,included_game_day
+2011,84,Indiana Hoosiers,2011-01-20,62.55410037943379,included_game_day
+2011,84,Indiana Hoosiers,2011-01-23,47.69808939018648,included_game_day
+2011,84,Indiana Hoosiers,2011-01-27,53.26347540586893,included_game_day
+2011,84,Indiana Hoosiers,2011-01-30,56.259672789616815,included_game_day
+2011,84,Indiana Hoosiers,2011-02-02,59.086594178385134,included_game_day
+2011,84,Indiana Hoosiers,2011-02-05,53.27115336496851,included_game_day
+2011,84,Indiana Hoosiers,2011-02-08,49.59684757070145,included_game_day
+2011,84,Indiana Hoosiers,2011-02-12,50.916381131886354,included_game_day
+2011,84,Indiana Hoosiers,2011-02-19,41.29800611234209,included_game_day
+2011,84,Indiana Hoosiers,2011-02-23,39.3357272925781,included_game_day
+2011,84,Indiana Hoosiers,2011-02-27,34.39988353271022,included_game_day
+2011,84,Indiana Hoosiers,2011-03-03,32.694472309171786,included_game_day
+2011,84,Indiana Hoosiers,2011-03-05,17.75561583637685,included_game_day
+2011,84,Indiana Hoosiers,2011-03-10,17.232084134147783,included_game_day
+2012,84,Indiana Hoosiers,2011-11-11,27.0,included_game_day
+2012,84,Indiana Hoosiers,2011-11-13,46.3,included_game_day
+2012,84,Indiana Hoosiers,2011-11-16,65.67,included_game_day
+2012,84,Indiana Hoosiers,2011-11-19,82.574,included_game_day
+2012,84,Indiana Hoosiers,2011-11-21,93.8586,included_game_day
+2012,84,Indiana Hoosiers,2011-11-27,97.088831,included_game_day
+2012,84,Indiana Hoosiers,2011-11-30,104.4388009,included_game_day
+2012,84,Indiana Hoosiers,2011-12-04,124.19639383,included_game_day
+2012,84,Indiana Hoosiers,2011-12-10,122.54166143100001,included_game_day
+2012,84,Indiana Hoosiers,2011-12-17,123.72566529333001,included_game_day
+2012,84,Indiana Hoosiers,2011-12-19,160.73114021208397,included_game_day
+2012,84,Indiana Hoosiers,2011-12-22,174.09323494347487,included_game_day
+2012,84,Indiana Hoosiers,2011-12-28,159.21082034735895,included_game_day
+2012,84,Indiana Hoosiers,2011-12-31,161.45834584942605,included_game_day
+2012,84,Indiana Hoosiers,2012-01-05,151.58925839149177,included_game_day
+2012,84,Indiana Hoosiers,2012-01-08,147.48835694971189,included_game_day
+2012,84,Indiana Hoosiers,2012-01-12,130.95915436717112,included_game_day
+2012,84,Indiana Hoosiers,2012-01-15,122.50903218931873,included_game_day
+2012,84,Indiana Hoosiers,2012-01-18,114.61559848931554,included_game_day
+2012,84,Indiana Hoosiers,2012-01-22,119.87632777599387,included_game_day
+2012,84,Indiana Hoosiers,2012-01-26,116.99469147843293,included_game_day
+2012,84,Indiana Hoosiers,2012-01-29,120.29657977329185,included_game_day
+2012,84,Indiana Hoosiers,2012-02-01,108.00866962810447,included_game_day
+2012,84,Indiana Hoosiers,2012-02-04,123.81149131568614,included_game_day
+2012,84,Indiana Hoosiers,2012-02-09,127.89962648258124,included_game_day
+2012,84,Indiana Hoosiers,2012-02-15,122.96114851972578,included_game_day
+2012,84,Indiana Hoosiers,2012-02-19,104.56774997130935,included_game_day
+2012,84,Indiana Hoosiers,2012-02-22,107.4955131002594,included_game_day
+2012,84,Indiana Hoosiers,2012-02-26,125.93091626671597,included_game_day
+2012,84,Indiana Hoosiers,2012-02-28,145.23869929061738,included_game_day
+2012,84,Indiana Hoosiers,2012-03-04,150.49958234765086,included_game_day
+2012,84,Indiana Hoosiers,2012-03-08,153.51463710672917,included_game_day
+2012,84,Indiana Hoosiers,2012-03-09,142.99100750717076,included_game_day
+2012,84,Indiana Hoosiers,2012-03-15,153.09559226693406,included_game_day
+2012,84,Indiana Hoosiers,2012-03-17,149.64625968804188,included_game_day
+2012,84,Indiana Hoosiers,2012-03-23,142.2174405086057,included_game_day
+2013,84,Indiana Hoosiers,2012-11-09,40.0,included_game_day
+2013,84,Indiana Hoosiers,2012-11-12,59.0,included_game_day
+2013,84,Indiana Hoosiers,2012-11-15,103.9,included_game_day
+2013,84,Indiana Hoosiers,2012-11-19,104.99300000000001,included_game_day
+2013,84,Indiana Hoosiers,2012-11-20,106.0956,included_game_day
+2013,84,Indiana Hoosiers,2012-11-25,139.74204,included_game_day
+2013,84,Indiana Hoosiers,2012-11-27,153.791316,included_game_day
+2013,84,Indiana Hoosiers,2012-12-01,166.58300167,included_game_day
+2013,84,Indiana Hoosiers,2012-12-08,180.17697303109998,included_game_day
+2013,84,Indiana Hoosiers,2012-12-15,165.29451625335798,included_game_day
+2013,84,Indiana Hoosiers,2012-12-19,181.90972544243718,included_game_day
+2013,84,Indiana Hoosiers,2012-12-21,192.4866905232129,included_game_day
+2013,84,Indiana Hoosiers,2012-12-28,196.51580536240172,included_game_day
+2013,84,Indiana Hoosiers,2012-12-31,195.46445476953937,included_game_day
+2013,84,Indiana Hoosiers,2013-01-07,202.15656150252553,included_game_day
+2013,84,Indiana Hoosiers,2013-01-12,200.58217066857975,included_game_day
+2013,84,Indiana Hoosiers,2013-01-15,184.40751795677176,included_game_day
+2013,84,Indiana Hoosiers,2013-01-20,180.6146913464784,included_game_day
+2013,84,Indiana Hoosiers,2013-01-23,179.01810162419935,included_game_day
+2013,84,Indiana Hoosiers,2013-01-27,174.11671094231733,included_game_day
+2013,84,Indiana Hoosiers,2013-01-30,203.64860181033976,included_game_day
+2013,84,Indiana Hoosiers,2013-02-02,207.13921831612572,included_game_day
+2013,84,Indiana Hoosiers,2013-02-07,192.89095985561013,included_game_day
+2013,84,Indiana Hoosiers,2013-02-10,203.34480265416525,included_game_day
+2013,84,Indiana Hoosiers,2013-02-13,209.68076146382396,included_game_day
+2013,84,Indiana Hoosiers,2013-02-16,215.18491889211168,included_game_day
+2013,84,Indiana Hoosiers,2013-02-19,215.56719616336807,included_game_day
+2013,84,Indiana Hoosiers,2013-02-26,199.8502496623786,included_game_day
+2013,84,Indiana Hoosiers,2013-03-02,200.16905391984426,included_game_day
+2013,84,Indiana Hoosiers,2013-03-05,181.27941835364052,included_game_day
+2013,84,Indiana Hoosiers,2013-03-10,179.72562015229806,included_game_day
+2013,84,Indiana Hoosiers,2013-03-15,186.06014203477056,included_game_day
+2013,84,Indiana Hoosiers,2013-03-16,168.8284546247916,included_game_day
+2013,84,Indiana Hoosiers,2013-03-22,175.5096434835952,included_game_day
+2013,84,Indiana Hoosiers,2013-03-24,172.32014628679386,included_game_day
+2013,84,Indiana Hoosiers,2013-03-28,159.82225750172591,included_game_day
+2014,84,Indiana Hoosiers,2013-11-08,25.0,included_game_day
+2014,84,Indiana Hoosiers,2013-11-12,20.9,included_game_day
+2014,84,Indiana Hoosiers,2013-11-15,60.55,included_game_day
+2014,84,Indiana Hoosiers,2013-11-17,69.035,included_game_day
+2014,84,Indiana Hoosiers,2013-11-21,80.0226,included_game_day
+2014,84,Indiana Hoosiers,2013-11-22,77.14486,included_game_day
+2014,84,Indiana Hoosiers,2013-11-26,99.46783599999999,included_game_day
+2014,84,Indiana Hoosiers,2013-12-03,82.17808446,included_game_day
+2014,84,Indiana Hoosiers,2013-12-07,86.11950031699999,included_game_day
+2014,84,Indiana Hoosiers,2013-12-10,98.38056441629999,included_game_day
+2014,84,Indiana Hoosiers,2013-12-14,87.81132628375042,included_game_day
+2014,84,Indiana Hoosiers,2013-12-20,81.71051060064417,included_game_day
+2014,84,Indiana Hoosiers,2013-12-22,86.31923085892765,included_game_day
+2014,84,Indiana Hoosiers,2013-12-31,84.76379440841399,included_game_day
+2014,84,Indiana Hoosiers,2014-01-04,70.49554858157929,included_game_day
+2014,84,Indiana Hoosiers,2014-01-11,72.16322045518581,included_game_day
+2014,84,Indiana Hoosiers,2014-01-14,81.03335561730073,included_game_day
+2014,84,Indiana Hoosiers,2014-01-18,62.24313925982145,included_game_day
+2014,84,Indiana Hoosiers,2014-01-21,70.72411535154257,included_game_day
+2014,84,Indiana Hoosiers,2014-01-26,75.0486997868095,included_game_day
+2014,84,Indiana Hoosiers,2014-01-30,70.03074098016207,included_game_day
+2014,84,Indiana Hoosiers,2014-02-02,85.98264169529445,included_game_day
+2014,84,Indiana Hoosiers,2014-02-08,81.51567418099543,included_game_day
+2014,84,Indiana Hoosiers,2014-02-12,73.52399734425579,included_game_day
+2014,84,Indiana Hoosiers,2014-02-15,55.0744606212139,included_game_day
+2014,84,Indiana Hoosiers,2014-02-22,59.74675873510273,included_game_day
+2014,84,Indiana Hoosiers,2014-02-25,60.47069732545736,included_game_day
+2014,84,Indiana Hoosiers,2014-02-27,72.98424186914652,included_game_day
+2014,84,Indiana Hoosiers,2014-03-02,83.39873289027399,included_game_day
+2014,84,Indiana Hoosiers,2014-03-05,69.59002012925414,included_game_day
+2014,84,Indiana Hoosiers,2014-03-08,77.57997626362155,included_game_day
+2014,84,Indiana Hoosiers,2014-03-13,66.35502043767367,included_game_day
+2015,84,Indiana Hoosiers,2014-11-14,48.0,included_game_day
+2015,84,Indiana Hoosiers,2014-11-17,57.1,included_game_day
+2015,84,Indiana Hoosiers,2014-11-20,56.76,included_game_day
+2015,84,Indiana Hoosiers,2014-11-22,57.263999999999996,included_game_day
+2015,84,Indiana Hoosiers,2014-11-24,49.903999999999996,included_game_day
+2015,84,Indiana Hoosiers,2014-11-28,46.990739999999995,included_game_day
+2015,84,Indiana Hoosiers,2014-12-02,54.801072999999995,included_game_day
+2015,84,Indiana Hoosiers,2014-12-06,84.0128684,included_game_day
+2015,84,Indiana Hoosiers,2014-12-09,68.5714744493,included_game_day
+2015,84,Indiana Hoosiers,2014-12-13,82.45922673137,included_game_day
+2015,84,Indiana Hoosiers,2014-12-20,92.06237268422899,included_game_day
+2015,84,Indiana Hoosiers,2014-12-22,96.21286362891249,included_game_day
+2015,84,Indiana Hoosiers,2014-12-27,89.1664287562471,included_game_day
+2015,84,Indiana Hoosiers,2014-12-31,91.04758880744923,included_game_day
+2015,84,Indiana Hoosiers,2015-01-05,74.25679746896564,included_game_day
+2015,84,Indiana Hoosiers,2015-01-10,84.06345689026972,included_game_day
+2015,84,Indiana Hoosiers,2015-01-13,78.30102523893947,included_game_day
+2015,84,Indiana Hoosiers,2015-01-18,87.79586955184374,included_game_day
+2015,84,Indiana Hoosiers,2015-01-22,107.00851770027654,included_game_day
+2015,84,Indiana Hoosiers,2015-01-25,101.76155603388627,included_game_day
+2015,84,Indiana Hoosiers,2015-01-28,85.05601977376477,included_game_day
+2015,84,Indiana Hoosiers,2015-01-31,79.41304256845339,included_game_day
+2015,84,Indiana Hoosiers,2015-02-03,77.86227634468962,included_game_day
+2015,84,Indiana Hoosiers,2015-02-08,73.480294972762,included_game_day
+2015,84,Indiana Hoosiers,2015-02-11,73.77376763743726,included_game_day
+2015,84,Indiana Hoosiers,2015-02-15,92.33561781362963,included_game_day
+2015,84,Indiana Hoosiers,2015-02-19,85.96913975540559,included_game_day
+2015,84,Indiana Hoosiers,2015-02-22,106.0745964646267,included_game_day
+2015,84,Indiana Hoosiers,2015-02-25,96.93429259833971,included_game_day
+2015,84,Indiana Hoosiers,2015-03-03,82.53310477767167,included_game_day
+2015,84,Indiana Hoosiers,2015-03-07,81.36661398152951,included_game_day
+2015,84,Indiana Hoosiers,2015-03-12,92.06637954644455,included_game_day
+2015,84,Indiana Hoosiers,2015-03-13,85.15037702542743,included_game_day
+2015,84,Indiana Hoosiers,2015-03-20,84.71178709123865,included_game_day
+2016,84,Indiana Hoosiers,2015-11-13,36.0,included_game_day
+2016,84,Indiana Hoosiers,2015-11-16,51.8,included_game_day
+2016,84,Indiana Hoosiers,2015-11-19,68.036,included_game_day
+2016,84,Indiana Hoosiers,2015-11-23,57.2494,included_game_day
+2016,84,Indiana Hoosiers,2015-11-24,60.388960000000004,included_game_day
+2016,84,Indiana Hoosiers,2015-11-25,52.607364000000004,included_game_day
+2016,84,Indiana Hoosiers,2015-11-30,77.0149435,included_game_day
+2016,84,Indiana Hoosiers,2015-12-02,60.17901715,included_game_day
+2016,84,Indiana Hoosiers,2015-12-05,89.121104435,included_game_day
+2016,84,Indiana Hoosiers,2015-12-09,101.93752233970001,included_game_day
+2016,84,Indiana Hoosiers,2015-12-12,129.30583282393002,included_game_day
+2016,84,Indiana Hoosiers,2015-12-19,131.20918364858701,included_game_day
+2016,84,Indiana Hoosiers,2015-12-22,133.97829551400287,included_game_day
+2016,84,Indiana Hoosiers,2015-12-30,127.52464229888426,included_game_day
+2016,84,Indiana Hoosiers,2016-01-02,131.18119490964068,included_game_day
+2016,84,Indiana Hoosiers,2016-01-05,121.74728650819638,included_game_day
+2016,84,Indiana Hoosiers,2016-01-10,139.85424378178638,included_game_day
+2016,84,Indiana Hoosiers,2016-01-16,131.22849625215193,included_game_day
+2016,84,Indiana Hoosiers,2016-01-19,151.8138657349221,included_game_day
+2016,84,Indiana Hoosiers,2016-01-23,173.40938181673872,included_game_day
+2016,84,Indiana Hoosiers,2016-01-26,163.80251417306874,included_game_day
+2016,84,Indiana Hoosiers,2016-01-30,148.71569967289076,included_game_day
+2016,84,Indiana Hoosiers,2016-02-02,160.79814392135393,included_game_day
+2016,84,Indiana Hoosiers,2016-02-06,143.45977273515018,included_game_day
+2016,84,Indiana Hoosiers,2016-02-11,149.3874849832279,included_game_day
+2016,84,Indiana Hoosiers,2016-02-14,136.1540742695404,included_game_day
+2016,84,Indiana Hoosiers,2016-02-17,143.53190391239556,included_game_day
+2016,84,Indiana Hoosiers,2016-02-20,143.37296721639825,included_game_day
+2016,84,Indiana Hoosiers,2016-02-25,161.02298718867112,included_game_day
+2016,84,Indiana Hoosiers,2016-03-01,161.82895647928592,included_game_day
+2016,84,Indiana Hoosiers,2016-03-06,173.61730339219295,included_game_day
+2016,84,Indiana Hoosiers,2016-03-11,160.8234529509848,included_game_day
+2016,84,Indiana Hoosiers,2016-03-17,174.15157729537157,included_game_day
+2016,84,Indiana Hoosiers,2016-03-19,182.36224789385133,included_game_day
+2016,84,Indiana Hoosiers,2016-03-25,169.28913405964482,included_game_day
+2017,84,Indiana Hoosiers,2016-11-11,4.0,included_game_day
+2017,84,Indiana Hoosiers,2016-11-16,22.53,included_game_day
+2017,84,Indiana Hoosiers,2016-11-19,55.597,included_game_day
+2017,84,Indiana Hoosiers,2016-11-22,49.009,included_game_day
+2017,84,Indiana Hoosiers,2016-11-27,61.1258628,included_game_day
+2017,84,Indiana Hoosiers,2016-11-30,73.37898852000001,included_game_day
+2017,84,Indiana Hoosiers,2016-12-02,83.55845253800001,included_game_day
+2017,84,Indiana Hoosiers,2016-12-04,100.16259488420002,included_game_day
+2017,84,Indiana Hoosiers,2016-12-10,126.40079891722002,included_game_day
+2017,84,Indiana Hoosiers,2016-12-17,118.46964515787101,included_game_day
+2017,84,Indiana Hoosiers,2016-12-19,141.17408307142352,included_game_day
+2017,84,Indiana Hoosiers,2016-12-22,149.03278775128496,included_game_day
+2017,84,Indiana Hoosiers,2016-12-28,126.51953749010937,included_game_day
+2017,84,Indiana Hoosiers,2016-12-31,111.67756914571243,included_game_day
+2017,84,Indiana Hoosiers,2017-01-03,106.48889732297671,included_game_day
+2017,84,Indiana Hoosiers,2017-01-07,112.94089300839484,included_game_day
+2017,84,Indiana Hoosiers,2017-01-10,109.80487358265594,included_game_day
+2017,84,Indiana Hoosiers,2017-01-15,115.24449258812554,included_game_day
+2017,84,Indiana Hoosiers,2017-01-18,116.68221769129985,included_game_day
+2017,84,Indiana Hoosiers,2017-01-21,116.79747249596042,included_game_day
+2017,84,Indiana Hoosiers,2017-01-26,85.83131084502202,included_game_day
+2017,84,Indiana Hoosiers,2017-01-29,78.89496072447324,included_game_day
+2017,84,Indiana Hoosiers,2017-02-01,80.23902098261647,included_game_day
+2017,84,Indiana Hoosiers,2017-02-05,86.69340430106115,included_game_day
+2017,84,Indiana Hoosiers,2017-02-09,87.17248813184484,included_game_day
+2017,84,Indiana Hoosiers,2017-02-12,74.85915904475185,included_game_day
+2017,84,Indiana Hoosiers,2017-02-15,78.64217153864138,included_game_day
+2017,84,Indiana Hoosiers,2017-02-21,71.95915997062441,included_game_day
+2017,84,Indiana Hoosiers,2017-02-25,69.51650476474178,included_game_day
+2017,84,Indiana Hoosiers,2017-02-28,70.01105004641454,included_game_day
+2017,84,Indiana Hoosiers,2017-03-04,76.7521667078054,included_game_day
+2017,84,Indiana Hoosiers,2017-03-09,99.42162258335875,included_game_day
+2017,84,Indiana Hoosiers,2017-03-10,91.11087332917533,included_game_day
+2018,84,Indiana Hoosiers,2017-11-10,-24.0,included_game_day
+2018,84,Indiana Hoosiers,2017-11-12,-16.2,included_game_day
+2018,84,Indiana Hoosiers,2017-11-15,-25.189999999999998,included_game_day
+2018,84,Indiana Hoosiers,2017-11-19,-9.438999999999998,included_game_day
+2018,84,Indiana Hoosiers,2017-11-22,4.982830000000002,included_game_day
+2018,84,Indiana Hoosiers,2017-11-24,23.015247000000002,included_game_day
+2018,84,Indiana Hoosiers,2017-11-29,17.3451628,included_game_day
+2018,84,Indiana Hoosiers,2017-12-02,10.417279879999999,included_game_day
+2018,84,Indiana Hoosiers,2017-12-04,21.575467428,included_game_day
+2018,84,Indiana Hoosiers,2017-12-09,19.81888514141,included_game_day
+2018,84,Indiana Hoosiers,2017-12-16,29.536607365658,included_game_day
+2018,84,Indiana Hoosiers,2017-12-18,2.567930295322398,included_game_day
+2018,84,Indiana Hoosiers,2017-12-21,26.47192226187346,included_game_day
+2018,84,Indiana Hoosiers,2017-12-29,37.33805097516522,included_game_day
+2018,84,Indiana Hoosiers,2018-01-02,29.170167865307988,included_game_day
+2018,84,Indiana Hoosiers,2018-01-06,42.29015713527329,included_game_day
+2018,84,Indiana Hoosiers,2018-01-09,49.68555693114024,included_game_day
+2018,84,Indiana Hoosiers,2018-01-14,69.31511354851372,included_game_day
+2018,84,Indiana Hoosiers,2018-01-19,54.626990375480744,included_game_day
+2018,84,Indiana Hoosiers,2018-01-22,59.11954116759627,included_game_day
+2018,84,Indiana Hoosiers,2018-01-24,57.2350739900782,included_game_day
+2018,84,Indiana Hoosiers,2018-01-28,63.80635666424251,included_game_day
+2018,84,Indiana Hoosiers,2018-01-30,59.40862591269229,included_game_day
+2018,84,Indiana Hoosiers,2018-02-03,65.47068722196428,included_game_day
+2018,84,Indiana Hoosiers,2018-02-05,85.5557104590051,included_game_day
+2018,84,Indiana Hoosiers,2018-02-09,101.23472125883521,included_game_day
+2018,84,Indiana Hoosiers,2018-02-14,101.03851482900849,included_game_day
+2018,84,Indiana Hoosiers,2018-02-17,99.72878648141817,included_game_day
+2018,84,Indiana Hoosiers,2018-02-20,93.66188950769055,included_game_day
+2018,84,Indiana Hoosiers,2018-02-23,92.85200286635629,included_game_day
+2018,84,Indiana Hoosiers,2018-03-01,76.71064007266503,included_game_day
+2019,84,Indiana Hoosiers,2018-11-06,46.0,included_game_day
+2019,84,Indiana Hoosiers,2018-11-09,80.1,included_game_day
+2019,84,Indiana Hoosiers,2018-11-14,96.88,included_game_day
+2019,84,Indiana Hoosiers,2018-11-18,90.554,included_game_day
+2019,84,Indiana Hoosiers,2018-11-20,92.0798,included_game_day
+2019,84,Indiana Hoosiers,2018-11-23,88.22114,included_game_day
+2019,84,Indiana Hoosiers,2018-11-27,71.54794050000001,included_game_day
+2019,84,Indiana Hoosiers,2018-12-01,69.389272101,included_game_day
+2019,84,Indiana Hoosiers,2018-12-04,71.39940049890001,included_game_day
+2019,84,Indiana Hoosiers,2018-12-08,70.86928213071,included_game_day
+2019,84,Indiana Hoosiers,2018-12-15,74.66270304746901,included_game_day
+2019,84,Indiana Hoosiers,2018-12-19,92.0411333667364,included_game_day
+2019,84,Indiana Hoosiers,2018-12-22,107.10997392866263,included_game_day
+2019,84,Indiana Hoosiers,2019-01-03,101.74339720529096,included_game_day
+2019,84,Indiana Hoosiers,2019-01-06,95.623450356292,included_game_day
+2019,84,Indiana Hoosiers,2019-01-11,97.78113626874448,included_game_day
+2019,84,Indiana Hoosiers,2019-01-14,81.33085710475336,included_game_day
+2019,84,Indiana Hoosiers,2019-01-19,73.33439011460177,included_game_day
+2019,84,Indiana Hoosiers,2019-01-22,66.59016507786934,included_game_day
+2019,84,Indiana Hoosiers,2019-01-25,45.555869249576396,included_game_day
+2019,84,Indiana Hoosiers,2019-01-30,37.33286323665863,included_game_day
+2019,84,Indiana Hoosiers,2019-02-02,59.53767530639471,included_game_day
+2019,84,Indiana Hoosiers,2019-02-07,56.70464620698252,included_game_day
+2019,84,Indiana Hoosiers,2019-02-10,52.13696507205232,included_game_day
+2019,84,Indiana Hoosiers,2019-02-16,34.04373310766414,included_game_day
+2019,84,Indiana Hoosiers,2019-02-19,39.721287171356,included_game_day
+2019,84,Indiana Hoosiers,2019-02-22,42.60450276784794,included_game_day
+2019,84,Indiana Hoosiers,2019-02-26,49.019051574886376,included_game_day
+2019,84,Indiana Hoosiers,2019-03-02,59.74327631302907,included_game_day
+2019,84,Indiana Hoosiers,2019-03-07,79.7917312144188,included_game_day
+2019,84,Indiana Hoosiers,2019-03-10,90.58019118863888,included_game_day
+2019,84,Indiana Hoosiers,2019-03-14,81.35684124281315,included_game_day
+2019,84,Indiana Hoosiers,2019-03-19,84.95873912894837,included_game_day
+2019,84,Indiana Hoosiers,2019-03-23,84.46545840191249,included_game_day
+2019,84,Indiana Hoosiers,2019-03-26,72.15529437589358,included_game_day
+2020,84,Indiana Hoosiers,2019-11-05,30.0,included_game_day
+2020,84,Indiana Hoosiers,2019-11-09,35.0,included_game_day
+2020,84,Indiana Hoosiers,2019-11-12,52.6,included_game_day
+2020,84,Indiana Hoosiers,2019-11-16,81.035,included_game_day
+2020,84,Indiana Hoosiers,2019-11-20,91.0925,included_game_day
+2020,84,Indiana Hoosiers,2019-11-25,96.969725,included_game_day
+2020,84,Indiana Hoosiers,2019-11-30,99.14732975,included_game_day
+2020,84,Indiana Hoosiers,2019-12-03,111.626799535,included_game_day
+2020,84,Indiana Hoosiers,2019-12-07,84.88530760750001,included_game_day
+2020,84,Indiana Hoosiers,2019-12-10,85.76243937835001,included_game_day
+2020,84,Indiana Hoosiers,2019-12-13,77.42100371587262,included_game_day
+2020,84,Indiana Hoosiers,2019-12-21,78.40873934482488,included_game_day
+2020,84,Indiana Hoosiers,2019-12-29,69.03150467065375,included_game_day
+2020,84,Indiana Hoosiers,2020-01-04,59.37090567313942,included_game_day
+2020,84,Indiana Hoosiers,2020-01-08,56.35729698107603,included_game_day
+2020,84,Indiana Hoosiers,2020-01-11,71.6517063428711,included_game_day
+2020,84,Indiana Hoosiers,2020-01-15,69.1912841253989,included_game_day
+2020,84,Indiana Hoosiers,2020-01-18,74.2845673998369,included_game_day
+2020,84,Indiana Hoosiers,2020-01-23,82.44166059998975,included_game_day
+2020,84,Indiana Hoosiers,2020-01-26,81.8836060838958,included_game_day
+2020,84,Indiana Hoosiers,2020-01-29,72.53232522533513,included_game_day
+2020,84,Indiana Hoosiers,2020-02-01,68.6591157860222,included_game_day
+2020,84,Indiana Hoosiers,2020-02-08,60.03593978576497,included_game_day
+2020,84,Indiana Hoosiers,2020-02-13,72.76558352992033,included_game_day
+2020,84,Indiana Hoosiers,2020-02-16,56.64373424624417,included_game_day
+2020,84,Indiana Hoosiers,2020-02-19,75.35528719121048,included_game_day
+2020,84,Indiana Hoosiers,2020-02-23,86.00872966070581,included_game_day
+2020,84,Indiana Hoosiers,2020-02-27,82.43262627183017,included_game_day
+2020,84,Indiana Hoosiers,2020-03-01,86.25656292813615,included_game_day
+2020,84,Indiana Hoosiers,2020-03-04,89.5027188362787,included_game_day
+2020,84,Indiana Hoosiers,2020-03-07,85.34023803168188,included_game_day
+2020,84,Indiana Hoosiers,2020-03-11,96.4869897410081,included_game_day
+2021,84,Indiana Hoosiers,2020-11-25,27.0,included_game_day
+2021,84,Indiana Hoosiers,2020-11-30,49.1,included_game_day
+2021,84,Indiana Hoosiers,2020-12-01,25.42,included_game_day
+2021,84,Indiana Hoosiers,2020-12-02,40.685,included_game_day
+2021,84,Indiana Hoosiers,2020-12-09,39.6011,included_game_day
+2021,84,Indiana Hoosiers,2020-12-13,66.332664,included_game_day
+2021,84,Indiana Hoosiers,2020-12-19,66.81179915999999,included_game_day
+2021,84,Indiana Hoosiers,2020-12-23,56.328061244,included_game_day
+2021,84,Indiana Hoosiers,2020-12-26,56.443993575129994,included_game_day
+2021,84,Indiana Hoosiers,2020-12-30,51.916645935786995,included_game_day
+2021,84,Indiana Hoosiers,2021-01-04,56.69678558417989,included_game_day
+2021,84,Indiana Hoosiers,2021-01-07,57.4236288795176,included_game_day
+2021,84,Indiana Hoosiers,2021-01-10,59.18550678568687,included_game_day
+2021,84,Indiana Hoosiers,2021-01-14,43.098104990819735,included_game_day
+2021,84,Indiana Hoosiers,2021-01-21,69.15360485216056,included_game_day
+2021,84,Indiana Hoosiers,2021-01-24,57.09292475724246,included_game_day
+2021,84,Indiana Hoosiers,2021-02-02,55.730456006594146,included_game_day
+2021,84,Indiana Hoosiers,2021-02-07,59.81522355388355,included_game_day
+2021,84,Indiana Hoosiers,2021-02-10,60.49129152784527,included_game_day
+2021,84,Indiana Hoosiers,2021-02-13,50.008377480530356,included_game_day
+2021,84,Indiana Hoosiers,2021-02-17,56.091181838238256,included_game_day
+2021,84,Indiana Hoosiers,2021-02-20,39.704610519339354,included_game_day
+2021,84,Indiana Hoosiers,2021-02-24,33.05575438294748,included_game_day
+2021,84,Indiana Hoosiers,2021-02-27,27.275992533082402,included_game_day
+2021,84,Indiana Hoosiers,2021-03-02,24.068705921891915,included_game_day
+2021,84,Indiana Hoosiers,2021-03-06,25.12696908394367,included_game_day
+2021,84,Indiana Hoosiers,2021-03-11,15.332100147982606,included_game_day
+2022,84,Indiana Hoosiers,2021-11-09,3.0,included_game_day
+2022,84,Indiana Hoosiers,2021-11-12,36.7,included_game_day
+2022,84,Indiana Hoosiers,2021-11-17,38.78,included_game_day
+2022,84,Indiana Hoosiers,2021-11-21,66.30199999999999,included_game_day
+2022,84,Indiana Hoosiers,2021-11-23,88.18536999999999,included_game_day
+2022,84,Indiana Hoosiers,2021-11-27,89.09952999999999,included_game_day
+2022,84,Indiana Hoosiers,2021-11-30,80.78398697499999,included_game_day
+2022,84,Indiana Hoosiers,2021-12-04,85.17223590949999,included_game_day
+2022,84,Indiana Hoosiers,2021-12-08,81.94399534875,included_game_day
+2022,84,Indiana Hoosiers,2021-12-12,98.250849562405,included_game_day
+2022,84,Indiana Hoosiers,2021-12-18,96.8733463591385,included_game_day
+2022,84,Indiana Hoosiers,2021-12-22,98.72335753543359,included_game_day
+2022,84,Indiana Hoosiers,2022-01-02,90.62827529652303,included_game_day
+2022,84,Indiana Hoosiers,2022-01-06,102.59364601185337,included_game_day
+2022,84,Indiana Hoosiers,2022-01-09,106.5899848956077,included_game_day
+2022,84,Indiana Hoosiers,2022-01-13,100.69868610649806,included_game_day
+2022,84,Indiana Hoosiers,2022-01-17,96.15286933449651,included_game_day
+2022,84,Indiana Hoosiers,2022-01-20,100.68918969892341,included_game_day
+2022,84,Indiana Hoosiers,2022-01-23,76.54564275981427,included_game_day
+2022,84,Indiana Hoosiers,2022-01-26,87.22891962382695,included_game_day
+2022,84,Indiana Hoosiers,2022-01-29,100.713452881357,included_game_day
+2022,84,Indiana Hoosiers,2022-02-05,82.38626526669421,included_game_day
+2022,84,Indiana Hoosiers,2022-02-08,75.75380201207898,included_game_day
+2022,84,Indiana Hoosiers,2022-02-12,63.55574110438409,included_game_day
+2022,84,Indiana Hoosiers,2022-02-15,55.71060047609099,included_game_day
+2022,84,Indiana Hoosiers,2022-02-21,53.51463808757463,included_game_day
+2022,84,Indiana Hoosiers,2022-02-24,60.36406624536009,included_game_day
+2022,84,Indiana Hoosiers,2022-02-27,63.8002081469377,included_game_day
+2022,84,Indiana Hoosiers,2022-03-02,58.94651981240099,included_game_day
+2022,84,Indiana Hoosiers,2022-03-05,66.01739379765738,included_game_day
+2022,84,Indiana Hoosiers,2022-03-10,74.14614741726305,included_game_day
+2022,84,Indiana Hoosiers,2022-03-11,80.28511071958947,included_game_day
+2022,84,Indiana Hoosiers,2022-03-12,87.32387912202147,included_game_day
+2022,84,Indiana Hoosiers,2022-03-15,92.91097339653885,included_game_day
+2022,84,Indiana Hoosiers,2022-03-17,67.41103573146069,included_game_day
+2023,84,Indiana Hoosiers,2022-11-07,32.0,included_game_day
+2023,84,Indiana Hoosiers,2022-11-10,75.0,included_game_day
+2023,84,Indiana Hoosiers,2022-11-18,76.434,included_game_day
+2023,84,Indiana Hoosiers,2022-11-20,95.2087,included_game_day
+2023,84,Indiana Hoosiers,2022-11-23,98.37643,included_game_day
+2023,84,Indiana Hoosiers,2022-11-25,123.0159266,included_game_day
+2023,84,Indiana Hoosiers,2022-11-30,124.40980741999999,included_game_day
+2023,84,Indiana Hoosiers,2022-12-03,108.607149943,included_game_day
+2023,84,Indiana Hoosiers,2022-12-07,115.262998370642,included_game_day
+2023,84,Indiana Hoosiers,2022-12-10,96.71303626744779,included_game_day
+2023,84,Indiana Hoosiers,2022-12-17,79.16214180828402,included_game_day
+2023,84,Indiana Hoosiers,2022-12-20,84.21737334112927,included_game_day
+2023,84,Indiana Hoosiers,2022-12-23,84.47340002890371,included_game_day
+2023,84,Indiana Hoosiers,2023-01-05,82.18484214579983,included_game_day
+2023,84,Indiana Hoosiers,2023-01-08,78.1684228775296,included_game_day
+2023,84,Indiana Hoosiers,2023-01-11,59.63480513799894,included_game_day
+2023,84,Indiana Hoosiers,2023-01-14,73.03721372486899,included_game_day
+2023,84,Indiana Hoosiers,2023-01-19,95.25392597650799,included_game_day
+2023,84,Indiana Hoosiers,2023-01-22,104.03643593329832,included_game_day
+2023,84,Indiana Hoosiers,2023-01-25,99.13817874243622,included_game_day
+2023,84,Indiana Hoosiers,2023-01-28,111.63345285454444,included_game_day
+2023,84,Indiana Hoosiers,2023-01-31,101.26494562605758,included_game_day
+2023,84,Indiana Hoosiers,2023-02-04,107.84009716581872,included_game_day
+2023,84,Indiana Hoosiers,2023-02-07,112.29301561486467,included_game_day
+2023,84,Indiana Hoosiers,2023-02-11,112.93561916678568,included_game_day
+2023,84,Indiana Hoosiers,2023-02-15,110.4871263709568,included_game_day
+2023,84,Indiana Hoosiers,2023-02-18,109.33628729002903,included_game_day
+2023,84,Indiana Hoosiers,2023-02-21,95.03765871061866,included_game_day
+2023,84,Indiana Hoosiers,2023-02-25,110.24507518504453,included_game_day
+2023,84,Indiana Hoosiers,2023-02-28,81.80799505355304,included_game_day
+2023,84,Indiana Hoosiers,2023-03-05,82.22905804134815,included_game_day
+2023,84,Indiana Hoosiers,2023-03-10,94.74367744510255,included_game_day
+2023,84,Indiana Hoosiers,2023-03-11,88.83334740724726,included_game_day
+2023,84,Indiana Hoosiers,2023-03-17,100.93284881585544,included_game_day
+2023,84,Indiana Hoosiers,2023-03-19,84.49917796741667,included_game_day
+2024,84,Indiana Hoosiers,2023-11-07,3.0,included_game_day
+2024,84,Indiana Hoosiers,2023-11-12,4.57,included_game_day
+2024,84,Indiana Hoosiers,2023-11-16,7.854,included_game_day
+2024,84,Indiana Hoosiers,2023-11-19,-4.2487,included_game_day
+2024,84,Indiana Hoosiers,2023-11-20,4.321839999999999,included_game_day
+2024,84,Indiana Hoosiers,2023-11-26,20.799203999999996,included_game_day
+2024,84,Indiana Hoosiers,2023-12-01,31.661141287999996,included_game_day
+2024,84,Indiana Hoosiers,2023-12-05,37.041910015199996,included_game_day
+2024,84,Indiana Hoosiers,2023-12-09,12.176539652539997,included_game_day
+2024,84,Indiana Hoosiers,2023-12-16,11.688545553439996,included_game_day
+2024,84,Indiana Hoosiers,2023-12-19,8.681339147495997,included_game_day
+2024,84,Indiana Hoosiers,2023-12-21,20.591477733501698,included_game_day
+2024,84,Indiana Hoosiers,2023-12-29,28.408920580999464,included_game_day
+2024,84,Indiana Hoosiers,2024-01-03,19.661366417295532,included_game_day
+2024,84,Indiana Hoosiers,2024-01-06,30.57103118501263,included_game_day
+2024,84,Indiana Hoosiers,2024-01-09,24.085413643449726,included_game_day
+2024,84,Indiana Hoosiers,2024-01-12,39.22647389397574,included_game_day
+2024,84,Indiana Hoosiers,2024-01-16,25.181500072625635,included_game_day
+2024,84,Indiana Hoosiers,2024-01-19,24.287598345173503,included_game_day
+2024,84,Indiana Hoosiers,2024-01-27,30.31609663682573,included_game_day
+2024,84,Indiana Hoosiers,2024-01-30,39.01094369057393,included_game_day
+2024,84,Indiana Hoosiers,2024-02-03,21.630015170484096,included_game_day
+2024,84,Indiana Hoosiers,2024-02-06,29.29729669509182,included_game_day
+2024,84,Indiana Hoosiers,2024-02-10,26.908997248941798,included_game_day
+2024,84,Indiana Hoosiers,2024-02-18,26.269531711273583,included_game_day
+2024,84,Indiana Hoosiers,2024-02-21,15.077339819706076,included_game_day
+2024,84,Indiana Hoosiers,2024-02-24,12.766866751461848,included_game_day
+2024,84,Indiana Hoosiers,2024-02-27,19.82688068612934,included_game_day
+2024,84,Indiana Hoosiers,2024-03-03,34.39503505905793,included_game_day
+2024,84,Indiana Hoosiers,2024-03-06,53.70387819268643,included_game_day
+2024,84,Indiana Hoosiers,2024-03-10,56.611480918621254,included_game_day
+2024,84,Indiana Hoosiers,2024-03-14,59.32724008118648,included_game_day
+2024,84,Indiana Hoosiers,2024-03-15,37.59150182034195,included_game_day
+2025,84,Indiana Hoosiers,2024-11-06,16.0,included_game_day
+2025,84,Indiana Hoosiers,2024-11-10,42.2,included_game_day
+2025,84,Indiana Hoosiers,2024-11-16,54.464,included_game_day
+2025,84,Indiana Hoosiers,2024-11-21,57.0536,included_game_day
+2025,84,Indiana Hoosiers,2024-11-27,28.1233907,included_game_day
+2025,84,Indiana Hoosiers,2024-11-28,20.20162793,included_game_day
+2025,84,Indiana Hoosiers,2024-11-29,37.686845635,included_game_day
+2025,84,Indiana Hoosiers,2024-12-03,55.3514268123,included_game_day
+2025,84,Indiana Hoosiers,2024-12-06,66.64085198847,included_game_day
+2025,84,Indiana Hoosiers,2024-12-09,72.17836277452301,included_game_day
+2025,84,Indiana Hoosiers,2024-12-13,55.260370227640706,included_game_day
+2025,84,Indiana Hoosiers,2024-12-21,55.609186683108334,included_game_day
+2025,84,Indiana Hoosiers,2024-12-29,56.64300155711069,included_game_day
+2025,84,Indiana Hoosiers,2025-01-02,63.36019052040456,included_game_day
+2025,84,Indiana Hoosiers,2025-01-05,78.55637977387534,included_game_day
+2025,84,Indiana Hoosiers,2025-01-08,87.61025051071445,included_game_day
+2025,84,Indiana Hoosiers,2025-01-11,67.17300227820039,included_game_day
+2025,84,Indiana Hoosiers,2025-01-14,50.092046541360375,included_game_day
+2025,84,Indiana Hoosiers,2025-01-17,58.589771095352674,included_game_day
+2025,84,Indiana Hoosiers,2025-01-22,55.53728567854154,included_game_day
+2025,84,Indiana Hoosiers,2025-01-26,61.61034372700938,included_game_day
+2025,84,Indiana Hoosiers,2025-01-31,70.43398444730602,included_game_day
+2025,84,Indiana Hoosiers,2025-02-04,69.53054817992385,included_game_day
+2025,84,Indiana Hoosiers,2025-02-08,68.4512802668507,included_game_day
+2025,84,Indiana Hoosiers,2025-02-11,83.78196841876007,included_game_day
+2025,84,Indiana Hoosiers,2025-02-14,83.18609275345926,included_game_day
+2025,84,Indiana Hoosiers,2025-02-23,101.58808594860145,included_game_day
+2025,84,Indiana Hoosiers,2025-02-26,98.88698672636275,included_game_day
+2025,84,Indiana Hoosiers,2025-03-01,109.06722900934307,included_game_day
+2025,84,Indiana Hoosiers,2025-03-04,103.68936483038154,included_game_day
+2025,84,Indiana Hoosiers,2025-03-08,105.83840572489522,included_game_day
+2025,84,Indiana Hoosiers,2025-03-13,93.89208208213599,included_game_day
+2026,84,Indiana Hoosiers,2025-11-05,44.0,included_game_day
+2026,84,Indiana Hoosiers,2025-11-09,65.97,included_game_day
+2026,84,Indiana Hoosiers,2025-11-12,88.33500000000001,included_game_day
+2026,84,Indiana Hoosiers,2025-11-16,81.40150000000001,included_game_day
+2026,84,Indiana Hoosiers,2025-11-20,84.13279800000001,included_game_day
+2026,84,Indiana Hoosiers,2025-11-25,95.50972820000001,included_game_day
+2026,84,Indiana Hoosiers,2025-11-29,122.76861777170001,included_game_day
+2026,84,Indiana Hoosiers,2025-12-03,105.72773433253,included_game_day
+2026,84,Indiana Hoosiers,2025-12-06,100.93850812587701,included_game_day
+2026,84,Indiana Hoosiers,2025-12-09,134.56293158755932,included_game_day
+2026,84,Indiana Hoosiers,2025-12-13,122.63337919194808,included_game_day
+2026,84,Indiana Hoosiers,2025-12-20,116.3493773374872,included_game_day
+2026,84,Indiana Hoosiers,2025-12-22,124.94804510970029,included_game_day
+2026,84,Indiana Hoosiers,2026-01-04,127.87204298838132,included_game_day
+2026,84,Indiana Hoosiers,2026-01-07,136.493498628432,included_game_day
+2026,84,Indiana Hoosiers,2026-01-10,126.81471909738791,included_game_day
+2026,84,Indiana Hoosiers,2026-01-13,110.3074350376688,included_game_day
+2026,84,Indiana Hoosiers,2026-01-17,93.7654259080241,included_game_day
+2026,84,Indiana Hoosiers,2026-01-20,94.911764367893,included_game_day
+2026,84,Indiana Hoosiers,2026-01-23,112.12699585919268,included_game_day
+2026,84,Indiana Hoosiers,2026-01-27,118.16492060025948,included_game_day
+2026,84,Indiana Hoosiers,2026-01-31,121.20428481553893,included_game_day
+2026,84,Indiana Hoosiers,2026-02-03,112.59473217130875,included_game_day
+2026,84,Indiana Hoosiers,2026-02-07,110.0305006865483,included_game_day
+2026,84,Indiana Hoosiers,2026-02-09,115.86884751669291,included_game_day
+2026,84,Indiana Hoosiers,2026-02-15,106.49581048656958,included_game_day
+2026,84,Indiana Hoosiers,2026-02-20,86.99335378088044,included_game_day
+2026,84,Indiana Hoosiers,2026-02-24,75.02039539987275,included_game_day
+2026,84,Indiana Hoosiers,2026-03-01,68.50588046252285,included_game_day
+2026,84,Indiana Hoosiers,2026-03-04,97.30046068642316,included_game_day
+2026,84,Indiana Hoosiers,2026-03-07,91.40548235961506,included_game_day
+2026,84,Indiana Hoosiers,2026-03-11,74.7185290220846,included_game_day
+2027,84,Indiana Hoosiers,2026-11-02,31.0,included_game_day
+2027,84,Indiana Hoosiers,2026-11-05,43.6,included_game_day
+2027,84,Indiana Hoosiers,2026-11-09,48.32,included_game_day
+2027,84,Indiana Hoosiers,2026-11-12,63.358000000000004,included_game_day
+2027,84,Indiana Hoosiers,2026-11-17,66.24429,included_game_day
+2027,84,Indiana Hoosiers,2026-11-20,76.270331,included_game_day

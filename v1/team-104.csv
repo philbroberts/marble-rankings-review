@@ -1,0 +1,1183 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,104,Boston Univ,1987-11-27,-2.0,included_game_day
+1988,104,Boston Univ,1987-11-28,19.73,included_game_day
+1988,104,Boston Univ,1987-12-01,17.757,included_game_day
+1988,104,Boston Univ,1987-12-03,26.381300000000003,included_game_day
+1988,104,Boston Univ,1987-12-08,2.1811700000000016,included_game_day
+1988,104,Boston Univ,1987-12-10,23.105553,included_game_day
+1988,104,Boston Univ,1987-12-12,31.6870087,included_game_day
+1988,104,Boston Univ,1987-12-22,19.024977164550002,included_game_day
+1988,104,Boston Univ,1987-12-23,23.294755003295002,included_game_day
+1988,104,Boston Univ,1988-01-06,34.43972437494351,included_game_day
+1988,104,Boston Univ,1988-01-09,42.967565482435404,included_game_day
+1988,104,Boston Univ,1988-01-14,39.33371225943471,included_game_day
+1988,104,Boston Univ,1988-01-16,33.83209197997627,included_game_day
+1988,104,Boston Univ,1988-01-21,34.85949537530428,included_game_day
+1988,104,Boston Univ,1988-01-23,24.38203503923189,included_game_day
+1988,104,Boston Univ,1988-01-26,49.32770015792687,included_game_day
+1988,104,Boston Univ,1988-01-30,52.71591286227426,included_game_day
+1988,104,Boston Univ,1988-02-03,52.003975554316234,included_game_day
+1988,104,Boston Univ,1988-02-05,50.9320161704469,included_game_day
+1988,104,Boston Univ,1988-02-09,50.201275986316645,included_game_day
+1988,104,Boston Univ,1988-02-13,62.142087582468875,included_game_day
+1988,104,Boston Univ,1988-02-18,51.485926949776186,included_game_day
+1988,104,Boston Univ,1988-02-20,43.09623202872839,included_game_day
+1988,104,Boston Univ,1988-02-23,19.182835911162282,included_game_day
+1988,104,Boston Univ,1988-02-27,7.052119017109398,included_game_day
+1988,104,Boston Univ,1988-03-02,24.078637854749978,included_game_day
+1988,104,Boston Univ,1988-03-05,45.51258836098102,included_game_day
+1988,104,Boston Univ,1988-03-09,44.09987542932491,included_game_day
+1988,104,Boston Univ,1988-03-10,52.388861404375945,included_game_day
+1988,104,Boston Univ,1988-03-11,57.00746513603299,included_game_day
+1988,104,Boston Univ,1988-03-17,51.76436790729771,included_game_day
+1989,104,Boston Univ,1988-11-26,2.0,included_game_day
+1989,104,Boston Univ,1988-11-30,6.8,included_game_day
+1989,104,Boston Univ,1988-12-03,8.629999999999999,included_game_day
+1989,104,Boston Univ,1988-12-05,17.268,included_game_day
+1989,104,Boston Univ,1988-12-07,13.19896,included_game_day
+1989,104,Boston Univ,1988-12-09,5.230193999999999,included_game_day
+1989,104,Boston Univ,1988-12-10,18.337259567,included_game_day
+1989,104,Boston Univ,1988-12-29,-5.5838567156900005,included_game_day
+1989,104,Boston Univ,1988-12-30,10.81510550935597,included_game_day
+1989,104,Boston Univ,1989-01-04,4.926753046737373,included_game_day
+1989,104,Boston Univ,1989-01-07,23.36285654515013,included_game_day
+1989,104,Boston Univ,1989-01-11,28.06148096846239,included_game_day
+1989,104,Boston Univ,1989-01-14,31.496061524562528,included_game_day
+1989,104,Boston Univ,1989-01-17,43.69167121039847,included_game_day
+1989,104,Boston Univ,1989-01-21,54.53105763033717,included_game_day
+1989,104,Boston Univ,1989-01-27,39.82347764494055,included_game_day
+1989,104,Boston Univ,1989-01-30,45.003129323477054,included_game_day
+1989,104,Boston Univ,1989-02-02,59.3748853375517,included_game_day
+1989,104,Boston Univ,1989-02-04,76.0057799294156,included_game_day
+1989,104,Boston Univ,1989-02-08,68.22952990464788,included_game_day
+1989,104,Boston Univ,1989-02-11,72.00852988483369,included_game_day
+1989,104,Boston Univ,1989-02-15,67.08564830770507,included_game_day
+1989,104,Boston Univ,1989-02-18,69.28188391896546,included_game_day
+1989,104,Boston Univ,1989-02-23,47.097992075994675,included_game_day
+1989,104,Boston Univ,1989-02-25,39.63030618329776,included_game_day
+1989,104,Boston Univ,1989-03-01,47.95783717314574,included_game_day
+1989,104,Boston Univ,1989-03-04,45.92200981196976,included_game_day
+1989,104,Boston Univ,1989-03-09,72.69511418109056,included_game_day
+1989,104,Boston Univ,1989-03-10,87.13050224663752,included_game_day
+1989,104,Boston Univ,1989-03-11,91.13225811940777,included_game_day
+1990,104,Boston Univ,1989-11-25,10.0,included_game_day
+1990,104,Boston Univ,1989-11-27,-2.6999999999999993,included_game_day
+1990,104,Boston Univ,1989-11-29,-0.9299999999999993,included_game_day
+1990,104,Boston Univ,1989-12-02,-19.837,included_game_day
+1990,104,Boston Univ,1989-12-08,-11.8233,included_game_day
+1990,104,Boston Univ,1989-12-09,-17.4471653,included_game_day
+1990,104,Boston Univ,1989-12-23,-28.4188926402527,included_game_day
+1990,104,Boston Univ,1989-12-27,-38.39305202473743,included_game_day
+1990,104,Boston Univ,1989-12-28,-30.930222370197686,included_game_day
+1990,104,Boston Univ,1989-12-29,-32.79466430094592,included_game_day
+1990,104,Boston Univ,1990-01-04,-9.477755462213366,included_game_day
+1990,104,Boston Univ,1990-01-06,-4.55943588812993,included_game_day
+1990,104,Boston Univ,1990-01-10,-15.633448689973914,included_game_day
+1990,104,Boston Univ,1990-01-17,-11.198955792930125,included_game_day
+1990,104,Boston Univ,1990-01-20,-1.5832859028241124,included_game_day
+1990,104,Boston Univ,1990-01-27,8.299921643108977,included_game_day
+1990,104,Boston Univ,1990-01-31,7.303563301271005,included_game_day
+1990,104,Boston Univ,1990-02-03,16.407965994979868,included_game_day
+1990,104,Boston Univ,1990-02-07,27.16546299337512,included_game_day
+1990,104,Boston Univ,1990-02-10,23.325347220609792,included_game_day
+1990,104,Boston Univ,1990-02-14,23.590108471709488,included_game_day
+1990,104,Boston Univ,1990-02-17,15.35652571068639,included_game_day
+1990,104,Boston Univ,1990-02-21,2.000701835327952,included_game_day
+1990,104,Boston Univ,1990-02-25,6.3160427350412025,included_game_day
+1990,104,Boston Univ,1990-02-28,-3.5137535962906856,included_game_day
+1990,104,Boston Univ,1990-03-03,-8.245712110347153,included_game_day
+1990,104,Boston Univ,1990-03-06,-12.627054971776081,included_game_day
+1990,104,Boston Univ,1990-03-07,2.9096537665282067,included_game_day
+1990,104,Boston Univ,1990-03-08,14.917956894466817,included_game_day
+1990,104,Boston Univ,1990-03-15,5.272381238947233,included_game_day
+1991,104,Boston Univ,1990-11-23,-25.0,included_game_day
+1991,104,Boston Univ,1990-11-24,-15.0,included_game_day
+1991,104,Boston Univ,1990-11-28,-24.09,included_game_day
+1991,104,Boston Univ,1990-12-04,-13.64015,included_game_day
+1991,104,Boston Univ,1990-12-07,-12.0033932,included_game_day
+1991,104,Boston Univ,1990-12-10,-28.097313909999997,included_game_day
+1991,104,Boston Univ,1990-12-15,-34.400280279,included_game_day
+1991,104,Boston Univ,1990-12-22,-72.72835913033,included_game_day
+1991,104,Boston Univ,1990-12-28,-65.4218032517344,included_game_day
+1991,104,Boston Univ,1990-12-29,-61.69618296401477,included_game_day
+1991,104,Boston Univ,1991-01-02,-94.17275981144729,included_game_day
+1991,104,Boston Univ,1991-01-05,-84.37443440484414,included_game_day
+1991,104,Boston Univ,1991-01-12,-85.93021327080203,included_game_day
+1991,104,Boston Univ,1991-01-16,-81.51316146895029,included_game_day
+1991,104,Boston Univ,1991-01-19,-67.1115054327434,included_game_day
+1991,104,Boston Univ,1991-01-22,-80.37559484966768,included_game_day
+1991,104,Boston Univ,1991-01-26,-85.13975111209409,included_game_day
+1991,104,Boston Univ,1991-01-30,-94.44772355750922,included_game_day
+1991,104,Boston Univ,1991-02-01,-78.83197066538379,included_game_day
+1991,104,Boston Univ,1991-02-04,-81.468706612373,included_game_day
+1991,104,Boston Univ,1991-02-09,-98.38091375408833,included_game_day
+1991,104,Boston Univ,1991-02-11,-98.73664900571305,included_game_day
+1991,104,Boston Univ,1991-02-16,-98.10780301356118,included_game_day
+1991,104,Boston Univ,1991-02-19,-80.10360802744174,included_game_day
+1991,104,Boston Univ,1991-02-23,-62.961110053220274,included_game_day
+1991,104,Boston Univ,1991-02-26,-79.16675388245747,included_game_day
+1991,104,Boston Univ,1991-03-03,-73.63765659865597,included_game_day
+1991,104,Boston Univ,1991-03-05,-49.186427508814276,included_game_day
+1991,104,Boston Univ,1991-03-06,-60.216903129229614,included_game_day
+1992,104,Boston Univ,1991-11-26,-2.9,included_game_day
+1992,104,Boston Univ,1991-12-04,-6.8959779999999995,included_game_day
+1992,104,Boston Univ,1991-12-08,-4.508880199999999,included_game_day
+1992,104,Boston Univ,1991-12-13,-35.39306012,included_game_day
+1992,104,Boston Univ,1991-12-27,-32.83105013171,included_game_day
+1992,104,Boston Univ,1991-12-28,-40.35715190262392,included_game_day
+1992,104,Boston Univ,1992-01-02,-46.600998102219734,included_game_day
+1992,104,Boston Univ,1992-01-06,-42.9645372956355,included_game_day
+1992,104,Boston Univ,1992-01-10,-44.994043711237325,included_game_day
+1992,104,Boston Univ,1992-01-13,-35.13572866697049,included_game_day
+1992,104,Boston Univ,1992-01-16,-34.93434376034662,included_game_day
+1992,104,Boston Univ,1992-01-21,-27.932147826887068,included_game_day
+1992,104,Boston Univ,1992-01-24,-54.60782521359932,included_game_day
+1992,104,Boston Univ,1992-01-25,-81.22051968766816,included_game_day
+1992,104,Boston Univ,1992-01-30,-112.50319498217411,included_game_day
+1992,104,Boston Univ,1992-02-01,-107.06092476871706,included_game_day
+1992,104,Boston Univ,1992-02-05,-91.07726389810767,included_game_day
+1992,104,Boston Univ,1992-02-08,-92.94946175167559,included_game_day
+1992,104,Boston Univ,1992-02-11,-87.86294250825217,included_game_day
+1992,104,Boston Univ,1992-02-13,-78.95150953236927,included_game_day
+1992,104,Boston Univ,1992-02-16,-91.63891238988558,included_game_day
+1992,104,Boston Univ,1992-02-22,-116.5602923448229,included_game_day
+1992,104,Boston Univ,1992-02-23,-113.87074247102362,included_game_day
+1992,104,Boston Univ,1992-02-27,-98.52894101717615,included_game_day
+1992,104,Boston Univ,1992-02-29,-100.06171651689077,included_game_day
+1992,104,Boston Univ,1992-03-02,-116.35299854297546,included_game_day
+1992,104,Boston Univ,1992-03-07,-117.14758639036214,included_game_day
+1993,104,Boston Univ,1992-12-01,0.0,included_game_day
+1993,104,Boston Univ,1992-12-05,-0.6799999999999997,included_game_day
+1993,104,Boston Univ,1992-12-08,-16.945,included_game_day
+1993,104,Boston Univ,1992-12-10,-25.250500000000002,included_game_day
+1993,104,Boston Univ,1992-12-16,-30.568885,included_game_day
+1993,104,Boston Univ,1992-12-27,-47.8479309478,included_game_day
+1993,104,Boston Univ,1992-12-30,-70.484060456402,included_game_day
+1993,104,Boston Univ,1993-01-02,-87.6666588295368,included_game_day
+1993,104,Boston Univ,1993-01-05,-123.31729298842804,included_game_day
+1993,104,Boston Univ,1993-01-09,-117.66188531598385,included_game_day
+1993,104,Boston Univ,1993-01-14,-107.63457918767574,included_game_day
+1993,104,Boston Univ,1993-01-16,-103.04852626203281,included_game_day
+1993,104,Boston Univ,1993-01-19,-111.0110837860191,included_game_day
+1993,104,Boston Univ,1993-01-22,-98.96746675996764,included_game_day
+1993,104,Boston Univ,1993-01-24,-101.65533096188955,included_game_day
+1993,104,Boston Univ,1993-01-28,-96.31200897939178,included_game_day
+1993,104,Boston Univ,1993-01-30,-87.47631191150006,included_game_day
+1993,104,Boston Univ,1993-02-02,-86.1470672734618,included_game_day
+1993,104,Boston Univ,1993-02-06,-86.260182995011,included_game_day
+1993,104,Boston Univ,1993-02-11,-75.38228147278852,included_game_day
+1993,104,Boston Univ,1993-02-13,-65.68828815193955,included_game_day
+1993,104,Boston Univ,1993-02-19,-65.03323843619658,included_game_day
+1993,104,Boston Univ,1993-02-21,-73.02159220224719,included_game_day
+1993,104,Boston Univ,1993-02-25,-82.6724238750237,included_game_day
+1993,104,Boston Univ,1993-02-27,-96.45750615680906,included_game_day
+1993,104,Boston Univ,1993-03-03,-116.51183835635561,included_game_day
+1993,104,Boston Univ,1993-03-06,-116.53566379896135,included_game_day
+1994,104,Boston Univ,1993-11-26,12.0,included_game_day
+1994,104,Boston Univ,1993-11-29,17.8,included_game_day
+1994,104,Boston Univ,1993-12-03,5.667000000000002,included_game_day
+1994,104,Boston Univ,1993-12-04,-7.106699999999998,included_game_day
+1994,104,Boston Univ,1993-12-08,-7.337429999999999,included_game_day
+1994,104,Boston Univ,1993-12-22,7.082532352,included_game_day
+1994,104,Boston Univ,1993-12-29,2.6845909632790006,included_game_day
+1994,104,Boston Univ,1993-12-30,-3.1515492477788998,included_game_day
+1994,104,Boston Univ,1994-01-03,-19.908429719466827,included_game_day
+1994,104,Boston Univ,1994-01-08,11.733745721489854,included_game_day
+1994,104,Boston Univ,1994-01-13,-0.1871964818053371,included_game_day
+1994,104,Boston Univ,1994-01-15,-4.53956652634028,included_game_day
+1994,104,Boston Univ,1994-01-18,-22.58374070910657,included_game_day
+1994,104,Boston Univ,1994-01-21,-32.70097119817541,included_game_day
+1994,104,Boston Univ,1994-01-23,-31.26709295274477,included_game_day
+1994,104,Boston Univ,1994-01-27,-33.81015118983085,included_game_day
+1994,104,Boston Univ,1994-01-29,-18.9272631180985,included_game_day
+1994,104,Boston Univ,1994-02-01,-20.280616505977882,included_game_day
+1994,104,Boston Univ,1994-02-05,-37.32665080288099,included_game_day
+1994,104,Boston Univ,1994-02-10,-47.21529800860605,included_game_day
+1994,104,Boston Univ,1994-02-12,-41.92985769541755,included_game_day
+1994,104,Boston Univ,1994-02-18,-41.80353716027286,included_game_day
+1994,104,Boston Univ,1994-02-20,-24.80195689058752,included_game_day
+1994,104,Boston Univ,1994-02-24,-35.980106337207715,included_game_day
+1994,104,Boston Univ,1994-02-26,-54.07346726275705,included_game_day
+1994,104,Boston Univ,1994-03-01,-53.93952291076857,included_game_day
+1994,104,Boston Univ,1994-03-05,-57.89353855660549,included_game_day
+1995,104,Boston Univ,1994-11-25,-1.0,included_game_day
+1995,104,Boston Univ,1994-11-29,-21.89,included_game_day
+1995,104,Boston Univ,1994-12-02,-2.7010000000000005,included_game_day
+1995,104,Boston Univ,1994-12-05,17.9621,included_game_day
+1995,104,Boston Univ,1994-12-10,-15.7595174,included_game_day
+1995,104,Boston Univ,1994-12-12,-2.946892160000001,included_game_day
+1995,104,Boston Univ,1994-12-22,5.301792572099998,included_game_day
+1995,104,Boston Univ,1994-12-28,-3.2321083716100016,included_game_day
+1995,104,Boston Univ,1994-12-29,-12.268794948135,included_game_day
+1995,104,Boston Univ,1994-12-30,-8.115684648707749,included_game_day
+1995,104,Boston Univ,1995-01-05,-13.798786534570624,included_game_day
+1995,104,Boston Univ,1995-01-09,-11.589528674961423,included_game_day
+1995,104,Boston Univ,1995-01-12,-18.297966542454237,included_game_day
+1995,104,Boston Univ,1995-01-14,-22.02901395518812,included_game_day
+1995,104,Boston Univ,1995-01-20,-22.25123331636772,included_game_day
+1995,104,Boston Univ,1995-01-22,-29.10286095537139,included_game_day
+1995,104,Boston Univ,1995-01-26,-20.978989413308803,included_game_day
+1995,104,Boston Univ,1995-01-28,-2.266930677009597,included_game_day
+1995,104,Boston Univ,1995-01-30,12.720905485777017,included_game_day
+1995,104,Boston Univ,1995-02-02,8.768678554115134,included_game_day
+1995,104,Boston Univ,1995-02-04,-11.641670048794364,included_game_day
+1995,104,Boston Univ,1995-02-09,-17.389267199299038,included_game_day
+1995,104,Boston Univ,1995-02-11,-23.489772515718304,included_game_day
+1995,104,Boston Univ,1995-02-15,-0.39877501060222187,included_game_day
+1995,104,Boston Univ,1995-02-17,1.6136768382016307,included_game_day
+1995,104,Boston Univ,1995-02-19,9.026979300509831,included_game_day
+1995,104,Boston Univ,1995-02-23,16.68210481449178,included_game_day
+1995,104,Boston Univ,1995-02-25,18.76035179741495,included_game_day
+1995,104,Boston Univ,1995-02-28,14.71444916933579,included_game_day
+1995,104,Boston Univ,1995-03-02,22.213729498284238,included_game_day
+1995,104,Boston Univ,1995-03-03,23.55959699265434,included_game_day
+1996,104,Boston Univ,1995-11-25,1.0,included_game_day
+1996,104,Boston Univ,1995-11-30,-8.49,included_game_day
+1996,104,Boston Univ,1995-12-08,-6.50108,included_game_day
+1996,104,Boston Univ,1995-12-10,-9.106845,included_game_day
+1996,104,Boston Univ,1995-12-13,-1.0839813199999995,included_game_day
+1996,104,Boston Univ,1995-12-21,10.677454455,included_game_day
+1996,104,Boston Univ,1995-12-23,9.413107652599999,included_game_day
+1996,104,Boston Univ,1995-12-28,22.277420713140998,included_game_day
+1996,104,Boston Univ,1995-12-29,19.163260643743897,included_game_day
+1996,104,Boston Univ,1996-01-04,20.527406008652406,included_game_day
+1996,104,Boston Univ,1996-01-06,24.484157212504424,included_game_day
+1996,104,Boston Univ,1996-01-09,24.727700532167013,included_game_day
+1996,104,Boston Univ,1996-01-11,13.07593664243057,included_game_day
+1996,104,Boston Univ,1996-01-13,-7.8411187515125,included_game_day
+1996,104,Boston Univ,1996-01-18,-2.0199806048313604,included_game_day
+1996,104,Boston Univ,1996-01-20,-11.938922203860253,included_game_day
+1996,104,Boston Univ,1996-01-23,-22.21251597078567,included_game_day
+1996,104,Boston Univ,1996-01-26,-1.1203098733162413,included_game_day
+1996,104,Boston Univ,1996-01-28,13.823121035858797,included_game_day
+1996,104,Boston Univ,1996-02-01,18.731061871266164,included_game_day
+1996,104,Boston Univ,1996-02-04,24.39165688799435,included_game_day
+1996,104,Boston Univ,1996-02-08,22.221169121484834,included_game_day
+1996,104,Boston Univ,1996-02-10,14.764999532761923,included_game_day
+1996,104,Boston Univ,1996-02-17,26.172176765488846,included_game_day
+1996,104,Boston Univ,1996-02-22,38.225512410619665,included_game_day
+1996,104,Boston Univ,1996-02-24,38.96351555415855,included_game_day
+1996,104,Boston Univ,1996-03-02,41.11738287923244,included_game_day
+1996,104,Boston Univ,1996-03-03,36.27579585521102,included_game_day
+1996,104,Boston Univ,1996-03-07,39.148449116375275,included_game_day
+1997,104,Boston Univ,1996-11-22,31.0,included_game_day
+1997,104,Boston Univ,1996-11-23,28.6,included_game_day
+1997,104,Boston Univ,1996-11-30,30.740000000000002,included_game_day
+1997,104,Boston Univ,1996-12-06,48.79395,included_game_day
+1997,104,Boston Univ,1996-12-08,50.9084072,included_game_day
+1997,104,Boston Univ,1996-12-10,58.27815148,included_game_day
+1997,104,Boston Univ,1996-12-12,59.903632332,included_game_day
+1997,104,Boston Univ,1996-12-23,58.35668652258,included_game_day
+1997,104,Boston Univ,1996-12-27,71.084884721122,included_game_day
+1997,104,Boston Univ,1996-12-28,84.16359387622259,included_game_day
+1997,104,Boston Univ,1997-01-02,76.96073113798033,included_game_day
+1997,104,Boston Univ,1997-01-04,66.98607074002334,included_game_day
+1997,104,Boston Univ,1997-01-10,60.14792792851001,included_game_day
+1997,104,Boston Univ,1997-01-12,58.72535834543844,included_game_day
+1997,104,Boston Univ,1997-01-16,71.72819376149346,included_game_day
+1997,104,Boston Univ,1997-01-18,62.773233026847144,included_game_day
+1997,104,Boston Univ,1997-01-21,58.64734429284025,included_game_day
+1997,104,Boston Univ,1997-01-24,59.73778425366755,included_game_day
+1997,104,Boston Univ,1997-01-26,54.63974056259549,included_game_day
+1997,104,Boston Univ,1997-02-01,62.39917177283108,included_game_day
+1997,104,Boston Univ,1997-02-07,71.11685545856716,included_game_day
+1997,104,Boston Univ,1997-02-09,41.074105060909744,included_game_day
+1997,104,Boston Univ,1997-02-13,36.736376666668676,included_game_day
+1997,104,Boston Univ,1997-02-15,34.79992409635613,included_game_day
+1997,104,Boston Univ,1997-02-20,21.836517985683372,included_game_day
+1997,104,Boston Univ,1997-02-23,24.944332946113537,included_game_day
+1997,104,Boston Univ,1997-03-01,37.986073183701734,included_game_day
+1997,104,Boston Univ,1997-03-02,42.65414574446603,included_game_day
+1997,104,Boston Univ,1997-03-07,51.061514363384966,included_game_day
+1997,104,Boston Univ,1997-03-14,30.652018175485917,included_game_day
+1998,104,Boston Univ,1997-11-17,-8.2,included_game_day
+1998,104,Boston Univ,1997-11-25,-4.842999999999999,included_game_day
+1998,104,Boston Univ,1997-11-30,-30.5827,included_game_day
+1998,104,Boston Univ,1997-12-06,-32.84613905,included_game_day
+1998,104,Boston Univ,1997-12-10,-11.677376928999998,included_game_day
+1998,104,Boston Univ,1997-12-12,-1.5127180160999991,included_game_day
+1998,104,Boston Univ,1997-12-22,0.23522218194700084,included_game_day
+1998,104,Boston Univ,1997-12-27,-1.0968742895746995,included_game_day
+1998,104,Boston Univ,1997-12-28,8.125733779836619,included_game_day
+1998,104,Boston Univ,1998-01-02,11.815430221857467,included_game_day
+1998,104,Boston Univ,1998-01-04,20.610616491314232,included_game_day
+1998,104,Boston Univ,1998-01-08,21.31078935090684,included_game_day
+1998,104,Boston Univ,1998-01-10,12.222522059167561,included_game_day
+1998,104,Boston Univ,1998-01-16,21.88691344405438,included_game_day
+1998,104,Boston Univ,1998-01-18,22.089521863645455,included_game_day
+1998,104,Boston Univ,1998-01-22,41.68797777774853,included_game_day
+1998,104,Boston Univ,1998-01-25,27.850104246269073,included_game_day
+1998,104,Boston Univ,1998-01-29,19.57061485981516,included_game_day
+1998,104,Boston Univ,1998-01-31,12.238982383959966,included_game_day
+1998,104,Boston Univ,1998-02-03,6.657708959022951,included_game_day
+1998,104,Boston Univ,1998-02-05,16.203047477247456,included_game_day
+1998,104,Boston Univ,1998-02-08,23.923211110077037,included_game_day
+1998,104,Boston Univ,1998-02-12,17.878304533955593,included_game_day
+1998,104,Boston Univ,1998-02-14,29.238238191359265,included_game_day
+1998,104,Boston Univ,1998-02-17,23.320626197791512,included_game_day
+1998,104,Boston Univ,1998-02-19,23.053640552320125,included_game_day
+1998,104,Boston Univ,1998-02-21,28.57872711793803,included_game_day
+1998,104,Boston Univ,1998-02-28,35.26916379165497,included_game_day
+1998,104,Boston Univ,1998-03-01,34.00448309569575,included_game_day
+1998,104,Boston Univ,1998-03-07,28.271608470061206,included_game_day
+1999,104,Boston Univ,1998-11-17,-18.0,included_game_day
+1999,104,Boston Univ,1998-11-22,-34.35,included_game_day
+1999,104,Boston Univ,1998-11-27,-44.91449,included_game_day
+1999,104,Boston Univ,1998-11-30,-40.363041,included_game_day
+1999,104,Boston Univ,1998-12-05,-36.944082,included_game_day
+1999,104,Boston Univ,1998-12-08,-27.087880986000002,included_game_day
+1999,104,Boston Univ,1998-12-22,-8.656990240070002,included_game_day
+1999,104,Boston Univ,1998-12-28,-40.308208719932665,included_game_day
+1999,104,Boston Univ,1998-12-29,-19.43542161021308,included_game_day
+1999,104,Boston Univ,1999-01-03,-17.008179911981916,included_game_day
+1999,104,Boston Univ,1999-01-05,-8.669024051249664,included_game_day
+1999,104,Boston Univ,1999-01-10,-21.638119869656954,included_game_day
+1999,104,Boston Univ,1999-01-12,2.2186199669004303,included_game_day
+1999,104,Boston Univ,1999-01-15,-3.682755690692357,included_game_day
+1999,104,Boston Univ,1999-01-17,-13.307343065362211,included_game_day
+1999,104,Boston Univ,1999-01-22,-24.9096205404856,included_game_day
+1999,104,Boston Univ,1999-01-24,-49.32455059209278,included_game_day
+1999,104,Boston Univ,1999-01-29,-24.702629588924026,included_game_day
+1999,104,Boston Univ,1999-01-31,-39.864499552213985,included_game_day
+1999,104,Boston Univ,1999-02-04,-33.386608841666984,included_game_day
+1999,104,Boston Univ,1999-02-06,-34.93587120966676,included_game_day
+1999,104,Boston Univ,1999-02-10,-45.35905996209771,included_game_day
+1999,104,Boston Univ,1999-02-13,-41.59846658656318,included_game_day
+1999,104,Boston Univ,1999-02-15,-48.12792316220995,included_game_day
+1999,104,Boston Univ,1999-02-19,-29.391019949463328,included_game_day
+1999,104,Boston Univ,1999-02-21,-44.56143423213792,included_game_day
+1999,104,Boston Univ,1999-02-26,-62.7421149083509,included_game_day
+2000,104,Boston Univ,1999-11-19,-13.0,included_game_day
+2000,104,Boston Univ,1999-11-20,-31.6,included_game_day
+2000,104,Boston Univ,1999-11-22,-36.44,included_game_day
+2000,104,Boston Univ,1999-11-30,-48.0544,included_game_day
+2000,104,Boston Univ,1999-12-02,-59.97185,included_game_day
+2000,104,Boston Univ,1999-12-07,-55.234617,included_game_day
+2000,104,Boston Univ,1999-12-09,-74.005352929,included_game_day
+2000,104,Boston Univ,1999-12-11,-62.8041884361,included_game_day
+2000,104,Boston Univ,1999-12-28,-79.413071232763,included_game_day
+2000,104,Boston Univ,1999-12-29,-76.8758152964357,included_game_day
+2000,104,Boston Univ,2000-01-02,-90.04970100438263,included_game_day
+2000,104,Boston Univ,2000-01-04,-89.21296685773578,included_game_day
+2000,104,Boston Univ,2000-01-08,-74.56207462800725,included_game_day
+2000,104,Boston Univ,2000-01-11,-74.29297298625342,included_game_day
+2000,104,Boston Univ,2000-01-14,-66.27892645865276,included_game_day
+2000,104,Boston Univ,2000-01-16,-67.09524901277757,included_game_day
+2000,104,Boston Univ,2000-01-20,-68.95203932325398,included_game_day
+2000,104,Boston Univ,2000-01-23,-67.05145886578146,included_game_day
+2000,104,Boston Univ,2000-01-28,-68.95705313705614,included_game_day
+2000,104,Boston Univ,2000-01-30,-67.87807147222168,included_game_day
+2000,104,Boston Univ,2000-02-10,-64.6129285073982,included_game_day
+2000,104,Boston Univ,2000-02-12,-72.11461190587605,included_game_day
+2000,104,Boston Univ,2000-02-14,-64.98926105086916,included_game_day
+2000,104,Boston Univ,2000-02-17,-91.59912158365093,included_game_day
+2000,104,Boston Univ,2000-02-19,-84.19649386707559,included_game_day
+2000,104,Boston Univ,2000-02-24,-89.97675232218697,included_game_day
+2000,104,Boston Univ,2000-02-26,-93.22805582762481,included_game_day
+2000,104,Boston Univ,2000-03-03,-63.39987618986129,included_game_day
+2000,104,Boston Univ,2000-03-04,-64.30746715124958,included_game_day
+2001,104,Boston Univ,2000-11-17,16.0,included_game_day
+2001,104,Boston Univ,2000-11-21,18.4,included_game_day
+2001,104,Boston Univ,2000-11-24,21.459999999999997,included_game_day
+2001,104,Boston Univ,2000-11-25,10.871999999999996,included_game_day
+2001,104,Boston Univ,2000-12-05,-0.8052130000000037,included_game_day
+2001,104,Boston Univ,2000-12-09,5.521142599999997,included_game_day
+2001,104,Boston Univ,2000-12-12,22.478538518999997,included_game_day
+2001,104,Boston Univ,2000-12-14,-1.5504985898110029,included_game_day
+2001,104,Boston Univ,2000-12-21,4.690914041344998,included_game_day
+2001,104,Boston Univ,2000-12-28,-9.149721363168503,included_game_day
+2001,104,Boston Univ,2001-01-02,-16.78197982752921,included_game_day
+2001,104,Boston Univ,2001-01-05,-6.731882189175076,included_game_day
+2001,104,Boston Univ,2001-01-07,-24.911576063356186,included_game_day
+2001,104,Boston Univ,2001-01-11,-22.975428636934417,included_game_day
+2001,104,Boston Univ,2001-01-13,-21.97735877553302,included_game_day
+2001,104,Boston Univ,2001-01-20,-26.081831190923506,included_game_day
+2001,104,Boston Univ,2001-01-22,-6.856944311511743,included_game_day
+2001,104,Boston Univ,2001-01-26,-11.663391216313896,included_game_day
+2001,104,Boston Univ,2001-01-28,-23.852854205032838,included_game_day
+2001,104,Boston Univ,2001-02-03,-37.40352400662224,included_game_day
+2001,104,Boston Univ,2001-02-08,-4.636444510193684,included_game_day
+2001,104,Boston Univ,2001-02-10,-24.4360386299269,included_game_day
+2001,104,Boston Univ,2001-02-15,-0.5624479544065757,included_game_day
+2001,104,Boston Univ,2001-02-17,-17.28306522780603,included_game_day
+2001,104,Boston Univ,2001-02-20,-4.8579975172346845,included_game_day
+2001,104,Boston Univ,2001-02-23,11.486381054730161,included_game_day
+2001,104,Boston Univ,2001-02-25,9.301219135431989,included_game_day
+2001,104,Boston Univ,2001-03-03,4.55308959999345,included_game_day
+2002,104,Boston University Terriers,2001-11-14,-23.3,included_game_day
+2002,104,Boston University Terriers,2001-11-18,-34.97,included_game_day
+2002,104,Boston University Terriers,2001-11-25,-23.533,included_game_day
+2002,104,Boston University Terriers,2001-11-28,-20.58669,included_game_day
+2002,104,Boston University Terriers,2001-12-01,-3.294225000000001,included_game_day
+2002,104,Boston University Terriers,2001-12-04,4.2553673,included_game_day
+2002,104,Boston University Terriers,2001-12-08,-14.63663927,included_game_day
+2002,104,Boston University Terriers,2001-12-12,4.293862257000001,included_game_day
+2002,104,Boston University Terriers,2001-12-22,0.7479487162080805,included_game_day
+2002,104,Boston University Terriers,2001-12-28,5.990424932341172,included_game_day
+2002,104,Boston University Terriers,2001-12-29,-2.9409987241654143,included_game_day
+2002,104,Boston University Terriers,2002-01-02,-7.308970619102073,included_game_day
+2002,104,Boston University Terriers,2002-01-05,-10.416327230604901,included_game_day
+2002,104,Boston University Terriers,2002-01-07,1.3531327250751612,included_game_day
+2002,104,Boston University Terriers,2002-01-10,4.184693970507395,included_game_day
+2002,104,Boston University Terriers,2002-01-12,26.13456458745052,included_game_day
+2002,104,Boston University Terriers,2002-01-20,30.121746780539254,included_game_day
+2002,104,Boston University Terriers,2002-01-24,34.584124527619224,included_game_day
+2002,104,Boston University Terriers,2002-01-26,30.23961843933951,included_game_day
+2002,104,Boston University Terriers,2002-01-29,17.463429149951033,included_game_day
+2002,104,Boston University Terriers,2002-02-02,17.535374360014806,included_game_day
+2002,104,Boston University Terriers,2002-02-08,19.48286049071319,included_game_day
+2002,104,Boston University Terriers,2002-02-14,15.656483772985553,included_game_day
+2002,104,Boston University Terriers,2002-02-16,12.407882506149637,included_game_day
+2002,104,Boston University Terriers,2002-02-21,6.0747461582880895,included_game_day
+2002,104,Boston University Terriers,2002-02-24,8.708562007588634,included_game_day
+2002,104,Boston University Terriers,2002-03-02,9.686148246430315,included_game_day
+2002,104,Boston University Terriers,2002-03-03,7.756521368020242,included_game_day
+2002,104,Boston University Terriers,2002-03-09,26.908916904898938,included_game_day
+2002,104,Boston University Terriers,2002-03-15,8.779517765311393,included_game_day
+2003,104,Boston University Terriers,2002-11-18,-1.0,included_game_day
+2003,104,Boston University Terriers,2002-11-23,23.0,included_game_day
+2003,104,Boston University Terriers,2002-11-26,1.6999999999999993,included_game_day
+2003,104,Boston University Terriers,2002-11-30,14.559999999999999,included_game_day
+2003,104,Boston University Terriers,2002-12-03,23.991999999999997,included_game_day
+2003,104,Boston University Terriers,2002-12-05,7.498459999999998,included_game_day
+2003,104,Boston University Terriers,2002-12-11,-8.695609651000002,included_game_day
+2003,104,Boston University Terriers,2002-12-13,8.9129847731,included_game_day
+2003,104,Boston University Terriers,2002-12-21,-9.09836702071,included_game_day
+2003,104,Boston University Terriers,2002-12-28,14.6799141267309,included_game_day
+2003,104,Boston University Terriers,2002-12-30,12.85362450184881,included_game_day
+2003,104,Boston University Terriers,2003-01-04,12.912621725625836,included_game_day
+2003,104,Boston University Terriers,2003-01-08,10.508766245074021,included_game_day
+2003,104,Boston University Terriers,2003-01-11,11.412190825478309,included_game_day
+2003,104,Boston University Terriers,2003-01-15,16.51313449855425,included_game_day
+2003,104,Boston University Terriers,2003-01-18,16.45947547888949,included_game_day
+2003,104,Boston University Terriers,2003-01-22,36.42827267536549,included_game_day
+2003,104,Boston University Terriers,2003-01-25,25.27475229042542,included_game_day
+2003,104,Boston University Terriers,2003-01-29,35.90916729312234,included_game_day
+2003,104,Boston University Terriers,2003-02-05,47.62652792938372,included_game_day
+2003,104,Boston University Terriers,2003-02-09,47.49406220660273,included_game_day
+2003,104,Boston University Terriers,2003-02-11,36.90158917398504,included_game_day
+2003,104,Boston University Terriers,2003-02-15,34.07504260134495,included_game_day
+2003,104,Boston University Terriers,2003-02-19,39.362458644667534,included_game_day
+2003,104,Boston University Terriers,2003-02-22,32.463929273536266,included_game_day
+2003,104,Boston University Terriers,2003-02-26,28.190493611085476,included_game_day
+2003,104,Boston University Terriers,2003-03-02,37.576677300044906,included_game_day
+2003,104,Boston University Terriers,2003-03-09,34.99115315819291,included_game_day
+2003,104,Boston University Terriers,2003-03-10,36.791885541282575,included_game_day
+2003,104,Boston University Terriers,2003-03-15,31.73379406452848,included_game_day
+2003,104,Boston University Terriers,2003-03-19,32.19543401569229,included_game_day
+2004,104,Boston University Terriers,2003-11-22,1.0,included_game_day
+2004,104,Boston University Terriers,2003-11-25,-16.7,included_game_day
+2004,104,Boston University Terriers,2003-11-29,-31.4707,included_game_day
+2004,104,Boston University Terriers,2003-12-01,-8.626830000000002,included_game_day
+2004,104,Boston University Terriers,2003-12-03,-2.5890470000000017,included_game_day
+2004,104,Boston University Terriers,2003-12-09,34.8711139,included_game_day
+2004,104,Boston University Terriers,2003-12-22,26.244002748400796,included_game_day
+2004,104,Boston University Terriers,2003-12-28,30.872044351630716,included_game_day
+2004,104,Boston University Terriers,2003-12-30,35.35857181959727,included_game_day
+2004,104,Boston University Terriers,2004-01-02,31.426004625476676,included_game_day
+2004,104,Boston University Terriers,2004-01-04,41.915937971305766,included_game_day
+2004,104,Boston University Terriers,2004-01-07,45.7413456698536,included_game_day
+2004,104,Boston University Terriers,2004-01-10,38.76964598579447,included_game_day
+2004,104,Boston University Terriers,2004-01-14,40.72445733959709,included_game_day
+2004,104,Boston University Terriers,2004-01-17,31.43909204367565,included_game_day
+2004,104,Boston University Terriers,2004-01-21,30.204068629035042,included_game_day
+2004,104,Boston University Terriers,2004-01-24,30.579547869727335,included_game_day
+2004,104,Boston University Terriers,2004-01-28,34.43901965642719,included_game_day
+2004,104,Boston University Terriers,2004-02-01,33.097917553469586,included_game_day
+2004,104,Boston University Terriers,2004-02-04,44.45442516617311,included_game_day
+2004,104,Boston University Terriers,2004-02-07,66.69534598582032,included_game_day
+2004,104,Boston University Terriers,2004-02-12,64.12610249577611,included_game_day
+2004,104,Boston University Terriers,2004-02-15,74.8932998426665,included_game_day
+2004,104,Boston University Terriers,2004-02-18,84.12651143352161,included_game_day
+2004,104,Boston University Terriers,2004-02-22,87.98114206703129,included_game_day
+2004,104,Boston University Terriers,2004-02-26,79.22645397384434,included_game_day
+2004,104,Boston University Terriers,2004-02-29,87.35298344750737,included_game_day
+2004,104,Boston University Terriers,2004-03-06,65.11606165364744,included_game_day
+2004,104,Boston University Terriers,2004-03-17,36.28629469455632,included_game_day
+2005,104,Boston University Terriers,2004-11-20,-13.0,included_game_day
+2005,104,Boston University Terriers,2004-11-24,2.0999999999999996,included_game_day
+2005,104,Boston University Terriers,2004-11-27,20.89,included_game_day
+2005,104,Boston University Terriers,2004-11-30,24.616381,included_game_day
+2005,104,Boston University Terriers,2004-12-04,37.2696089,included_game_day
+2005,104,Boston University Terriers,2004-12-07,71.62310634100001,included_game_day
+2005,104,Boston University Terriers,2004-12-11,69.06364984779671,included_game_day
+2005,104,Boston University Terriers,2004-12-14,76.98098173831704,included_game_day
+2005,104,Boston University Terriers,2004-12-23,80.00787301951434,included_game_day
+2005,104,Boston University Terriers,2004-12-28,71.1565082700508,included_game_day
+2005,104,Boston University Terriers,2005-01-02,72.73646999976013,included_game_day
+2005,104,Boston University Terriers,2005-01-06,107.85211577070149,included_game_day
+2005,104,Boston University Terriers,2005-01-09,105.60836229351688,included_game_day
+2005,104,Boston University Terriers,2005-01-13,100.10267195869406,included_game_day
+2005,104,Boston University Terriers,2005-01-16,90.99812034358366,included_game_day
+2005,104,Boston University Terriers,2005-01-19,84.05174748479179,included_game_day
+2005,104,Boston University Terriers,2005-01-22,90.49497623045501,included_game_day
+2005,104,Boston University Terriers,2005-01-26,90.40499246120127,included_game_day
+2005,104,Boston University Terriers,2005-01-30,81.97588562976276,included_game_day
+2005,104,Boston University Terriers,2005-02-02,83.46409433544548,included_game_day
+2005,104,Boston University Terriers,2005-02-05,87.02149428173777,included_game_day
+2005,104,Boston University Terriers,2005-02-09,87.24729147035754,included_game_day
+2005,104,Boston University Terriers,2005-02-12,93.69175331629091,included_game_day
+2005,104,Boston University Terriers,2005-02-16,82.2715476017341,included_game_day
+2005,104,Boston University Terriers,2005-02-20,63.47479620135295,included_game_day
+2005,104,Boston University Terriers,2005-02-24,63.7937529028419,included_game_day
+2005,104,Boston University Terriers,2005-02-27,42.28786285645156,included_game_day
+2005,104,Boston University Terriers,2005-03-05,30.00251386007445,included_game_day
+2005,104,Boston University Terriers,2005-03-16,5.710356107175311,included_game_day
+2006,104,Boston University Terriers,2005-11-14,-14.0,included_game_day
+2006,104,Boston University Terriers,2005-11-22,-18.2,included_game_day
+2006,104,Boston University Terriers,2005-11-26,-21.5,included_game_day
+2006,104,Boston University Terriers,2005-11-29,-31.7175,included_game_day
+2006,104,Boston University Terriers,2005-12-02,-33.760998,included_game_day
+2006,104,Boston University Terriers,2005-12-06,-21.31180436,included_game_day
+2006,104,Boston University Terriers,2005-12-08,-3.983949524,included_game_day
+2006,104,Boston University Terriers,2005-12-10,1.3131745284000003,included_game_day
+2006,104,Boston University Terriers,2005-12-12,-14.34743030644,included_game_day
+2006,104,Boston University Terriers,2005-12-22,0.937676520486999,included_game_day
+2006,104,Boston University Terriers,2005-12-28,-0.7581822025117013,included_game_day
+2006,104,Boston University Terriers,2005-12-29,4.0919093919060625,included_game_day
+2006,104,Boston University Terriers,2006-01-02,4.816460439032831,included_game_day
+2006,104,Boston University Terriers,2006-01-05,4.023834396884451,included_game_day
+2006,104,Boston University Terriers,2006-01-12,-3.907538394596381,included_game_day
+2006,104,Boston University Terriers,2006-01-15,-8.898848924056937,included_game_day
+2006,104,Boston University Terriers,2006-01-19,-4.152251152283005,included_game_day
+2006,104,Boston University Terriers,2006-01-22,-4.490608688788761,included_game_day
+2006,104,Boston University Terriers,2006-01-25,2.726581413071062,included_game_day
+2006,104,Boston University Terriers,2006-01-29,-8.821288886054596,included_game_day
+2006,104,Boston University Terriers,2006-02-01,-19.441828924298303,included_game_day
+2006,104,Boston University Terriers,2006-02-04,-23.5558204674395,included_game_day
+2006,104,Boston University Terriers,2006-02-08,-16.707564356782946,included_game_day
+2006,104,Boston University Terriers,2006-02-14,-33.01992037062951,included_game_day
+2006,104,Boston University Terriers,2006-02-19,-36.07452072093625,included_game_day
+2006,104,Boston University Terriers,2006-02-23,-25.557157599667335,included_game_day
+2006,104,Boston University Terriers,2006-02-26,-6.678705096551035,included_game_day
+2006,104,Boston University Terriers,2006-03-04,-14.57798731227202,included_game_day
+2007,104,Boston University Terriers,2006-11-10,-16.0,included_game_day
+2007,104,Boston University Terriers,2006-11-14,-7.300000000000001,included_game_day
+2007,104,Boston University Terriers,2006-11-18,-16.33,included_game_day
+2007,104,Boston University Terriers,2006-11-21,-37.32192,included_game_day
+2007,104,Boston University Terriers,2006-11-25,-23.528728,included_game_day
+2007,104,Boston University Terriers,2006-11-27,-32.1535468,included_game_day
+2007,104,Boston University Terriers,2006-12-02,-1.2314221200000013,included_game_day
+2007,104,Boston University Terriers,2006-12-06,0.7820008199999986,included_game_day
+2007,104,Boston University Terriers,2006-12-22,-11.84558082414507,included_game_day
+2007,104,Boston University Terriers,2006-12-28,-3.9627933117889285,included_game_day
+2007,104,Boston University Terriers,2006-12-29,-6.1430728010832505,included_game_day
+2007,104,Boston University Terriers,2007-01-03,-9.997113173279143,included_game_day
+2007,104,Boston University Terriers,2007-01-06,-13.69390265864777,included_game_day
+2007,104,Boston University Terriers,2007-01-09,-18.72030687019482,included_game_day
+2007,104,Boston University Terriers,2007-01-11,-4.837977349371789,included_game_day
+2007,104,Boston University Terriers,2007-01-13,12.273694161505746,included_game_day
+2007,104,Boston University Terriers,2007-01-18,3.2223054040719266,included_game_day
+2007,104,Boston University Terriers,2007-01-21,0.6658744916608779,included_game_day
+2007,104,Boston University Terriers,2007-01-24,-4.170983089564703,included_game_day
+2007,104,Boston University Terriers,2007-01-31,8.852188369919332,included_game_day
+2007,104,Boston University Terriers,2007-02-03,5.166575200988905,included_game_day
+2007,104,Boston University Terriers,2007-02-05,0.9934623026189415,included_game_day
+2007,104,Boston University Terriers,2007-02-08,5.487036347740609,included_game_day
+2007,104,Boston University Terriers,2007-02-11,-3.1476855466893596,included_game_day
+2007,104,Boston University Terriers,2007-02-15,1.2056960164943202,included_game_day
+2007,104,Boston University Terriers,2007-02-18,-7.916537102371889,included_game_day
+2007,104,Boston University Terriers,2007-02-22,-8.062200194950684,included_game_day
+2007,104,Boston University Terriers,2007-02-25,-9.748395419005512,included_game_day
+2007,104,Boston University Terriers,2007-03-03,-7.8896271151363475,included_game_day
+2007,104,Boston University Terriers,2007-03-04,-15.326177574725701,included_game_day
+2008,104,Boston University Terriers,2007-11-09,8.0,included_game_day
+2008,104,Boston University Terriers,2007-11-14,-1.5999999999999996,included_game_day
+2008,104,Boston University Terriers,2007-11-17,-11.869,included_game_day
+2008,104,Boston University Terriers,2007-11-19,-20.6941,included_game_day
+2008,104,Boston University Terriers,2007-11-25,-38.66369,included_game_day
+2008,104,Boston University Terriers,2007-11-27,-49.604141,included_game_day
+2008,104,Boston University Terriers,2007-12-01,-52.6801689,included_game_day
+2008,104,Boston University Terriers,2007-12-04,-45.084439464,included_game_day
+2008,104,Boston University Terriers,2007-12-11,-30.430832808060998,included_game_day
+2008,104,Boston University Terriers,2007-12-22,-45.16548371824407,included_game_day
+2008,104,Boston University Terriers,2007-12-29,-39.9743750446153,included_game_day
+2008,104,Boston University Terriers,2008-01-02,-32.25617314511614,included_game_day
+2008,104,Boston University Terriers,2008-01-06,-49.78263495623135,included_game_day
+2008,104,Boston University Terriers,2008-01-09,-41.734688062763155,included_game_day
+2008,104,Boston University Terriers,2008-01-12,-48.641917335510485,included_game_day
+2008,104,Boston University Terriers,2008-01-16,-56.18143751739574,included_game_day
+2008,104,Boston University Terriers,2008-01-22,-73.27431354916646,included_game_day
+2008,104,Boston University Terriers,2008-01-25,-81.97396919716445,included_game_day
+2008,104,Boston University Terriers,2008-01-30,-71.44188473049238,included_game_day
+2008,104,Boston University Terriers,2008-02-02,-50.01423286523887,included_game_day
+2008,104,Boston University Terriers,2008-02-09,-51.46797892679883,included_game_day
+2008,104,Boston University Terriers,2008-02-12,-24.50753761414911,included_game_day
+2008,104,Boston University Terriers,2008-02-14,-17.557519862926895,included_game_day
+2008,104,Boston University Terriers,2008-02-17,-12.831296421515551,included_game_day
+2008,104,Boston University Terriers,2008-02-20,-5.787003292930148,included_game_day
+2008,104,Boston University Terriers,2008-02-23,-4.883494843436046,included_game_day
+2008,104,Boston University Terriers,2008-02-28,21.105837117198508,included_game_day
+2008,104,Boston University Terriers,2008-03-02,10.13453302117953,included_game_day
+2008,104,Boston University Terriers,2008-03-08,14.357489744364347,included_game_day
+2008,104,Boston University Terriers,2008-03-09,1.5359136119800212,included_game_day
+2009,104,Boston University Terriers,2008-11-14,-8.0,included_game_day
+2009,104,Boston University Terriers,2008-11-18,-3.8,included_game_day
+2009,104,Boston University Terriers,2008-11-22,-4.51,included_game_day
+2009,104,Boston University Terriers,2008-11-25,7.9947,included_game_day
+2009,104,Boston University Terriers,2008-11-29,1.3835999999999995,included_game_day
+2009,104,Boston University Terriers,2008-12-03,21.753402,included_game_day
+2009,104,Boston University Terriers,2008-12-06,10.76609874,included_game_day
+2009,104,Boston University Terriers,2008-12-10,14.8371388581,included_game_day
+2009,104,Boston University Terriers,2008-12-13,17.40344934789,included_game_day
+2009,104,Boston University Terriers,2008-12-21,9.880489074898,included_game_day
+2009,104,Boston University Terriers,2008-12-29,-18.060050738093665,included_game_day
+2009,104,Boston University Terriers,2009-01-02,-42.81999421227923,included_game_day
+2009,104,Boston University Terriers,2009-01-08,-36.72911655427829,included_game_day
+2009,104,Boston University Terriers,2009-01-11,-8.649497493528422,included_game_day
+2009,104,Boston University Terriers,2009-01-14,-21.883367195445036,included_game_day
+2009,104,Boston University Terriers,2009-01-17,1.142328517356951,included_game_day
+2009,104,Boston University Terriers,2009-01-19,-1.1741256178037842,included_game_day
+2009,104,Boston University Terriers,2009-01-22,-8.584690703687105,included_game_day
+2009,104,Boston University Terriers,2009-01-25,1.8046065267961637,included_game_day
+2009,104,Boston University Terriers,2009-01-31,23.638758270202583,included_game_day
+2009,104,Boston University Terriers,2009-02-02,35.97948545715943,included_game_day
+2009,104,Boston University Terriers,2009-02-05,37.511745851681454,included_game_day
+2009,104,Boston University Terriers,2009-02-07,48.567864342488704,included_game_day
+2009,104,Boston University Terriers,2009-02-11,26.490157478036224,included_game_day
+2009,104,Boston University Terriers,2009-02-14,21.406809124360326,included_game_day
+2009,104,Boston University Terriers,2009-02-18,10.495992535034908,included_game_day
+2009,104,Boston University Terriers,2009-02-21,10.846910691208972,included_game_day
+2009,104,Boston University Terriers,2009-02-26,9.969832173216492,included_game_day
+2009,104,Boston University Terriers,2009-03-01,2.8082681361819333,included_game_day
+2009,104,Boston University Terriers,2009-03-07,-6.445116351071343,included_game_day
+2010,104,Boston University Terriers,2009-11-13,-6.0,included_game_day
+2010,104,Boston University Terriers,2009-11-17,-17.68,included_game_day
+2010,104,Boston University Terriers,2009-11-19,-20.352,included_game_day
+2010,104,Boston University Terriers,2009-11-20,-10.6978,included_game_day
+2010,104,Boston University Terriers,2009-11-22,-23.60532,included_game_day
+2010,104,Boston University Terriers,2009-11-25,-19.252788,included_game_day
+2010,104,Boston University Terriers,2009-11-29,-24.8069992,included_game_day
+2010,104,Boston University Terriers,2009-12-02,-43.225838280000005,included_game_day
+2010,104,Boston University Terriers,2009-12-06,-31.543150057100007,included_game_day
+2010,104,Boston University Terriers,2009-12-12,-14.709806332890007,included_game_day
+2010,104,Boston University Terriers,2009-12-22,-11.330663642953006,included_game_day
+2010,104,Boston University Terriers,2009-12-29,-15.938060215127114,included_game_day
+2010,104,Boston University Terriers,2010-01-02,-27.404662412065093,included_game_day
+2010,104,Boston University Terriers,2010-01-07,-19.944011615733583,included_game_day
+2010,104,Boston University Terriers,2010-01-09,-8.985155255293462,included_game_day
+2010,104,Boston University Terriers,2010-01-12,-9.975766287706689,included_game_day
+2010,104,Boston University Terriers,2010-01-14,-3.639969480163164,included_game_day
+2010,104,Boston University Terriers,2010-01-17,-16.137106047951228,included_game_day
+2010,104,Boston University Terriers,2010-01-19,-1.9482459308495184,included_game_day
+2010,104,Boston University Terriers,2010-01-24,8.096529939863176,included_game_day
+2010,104,Boston University Terriers,2010-01-27,8.890341299949755,included_game_day
+2010,104,Boston University Terriers,2010-01-30,-5.0912271557144475,included_game_day
+2010,104,Boston University Terriers,2010-02-04,12.330726801683577,included_game_day
+2010,104,Boston University Terriers,2010-02-06,21.129599818025028,included_game_day
+2010,104,Boston University Terriers,2010-02-09,17.479937614861832,included_game_day
+2010,104,Boston University Terriers,2010-02-13,7.23228310951389,included_game_day
+2010,104,Boston University Terriers,2010-02-17,39.77148987447961,included_game_day
+2010,104,Boston University Terriers,2010-02-20,45.955046022812965,included_game_day
+2010,104,Boston University Terriers,2010-02-27,59.24165956819721,included_game_day
+2010,104,Boston University Terriers,2010-03-06,85.1682172259598,included_game_day
+2010,104,Boston University Terriers,2010-03-07,84.08071710556575,included_game_day
+2010,104,Boston University Terriers,2010-03-13,70.93488503374128,included_game_day
+2010,104,Boston University Terriers,2010-03-17,88.14406307525246,included_game_day
+2010,104,Boston University Terriers,2010-03-22,86.16966140612197,included_game_day
+2010,104,Boston University Terriers,2010-03-24,77.64069482423791,included_game_day
+2011,104,Boston University Terriers,2010-11-12,1.0,included_game_day
+2011,104,Boston University Terriers,2010-11-16,9.9,included_game_day
+2011,104,Boston University Terriers,2010-11-17,0.4800000000000004,included_game_day
+2011,104,Boston University Terriers,2010-11-19,13.399999999999999,included_game_day
+2011,104,Boston University Terriers,2010-11-22,11.984499999999999,included_game_day
+2011,104,Boston University Terriers,2010-11-23,19.90395,included_game_day
+2011,104,Boston University Terriers,2010-11-27,19.218754999999998,included_game_day
+2011,104,Boston University Terriers,2010-11-30,-8.055004500000003,included_game_day
+2011,104,Boston University Terriers,2010-12-04,-7.344716340000002,included_game_day
+2011,104,Boston University Terriers,2010-12-09,-12.041061362900003,included_game_day
+2011,104,Boston University Terriers,2010-12-11,-19.257387099600003,included_game_day
+2011,104,Boston University Terriers,2010-12-21,-16.4291678740855,included_game_day
+2011,104,Boston University Terriers,2010-12-29,-14.895514194041542,included_game_day
+2011,104,Boston University Terriers,2010-12-31,-28.552752378248673,included_game_day
+2011,104,Boston University Terriers,2011-01-02,-36.099099951509125,included_game_day
+2011,104,Boston University Terriers,2011-01-04,-33.69482216730875,included_game_day
+2011,104,Boston University Terriers,2011-01-09,-21.95074645955877,included_game_day
+2011,104,Boston University Terriers,2011-01-15,-19.218054473015886,included_game_day
+2011,104,Boston University Terriers,2011-01-17,-33.94442746587167,included_game_day
+2011,104,Boston University Terriers,2011-01-20,-34.45553107793296,included_game_day
+2011,104,Boston University Terriers,2011-01-22,-34.75671213025083,included_game_day
+2011,104,Boston University Terriers,2011-01-26,-42.87511881149365,included_game_day
+2011,104,Boston University Terriers,2011-01-29,-53.15635027497294,included_game_day
+2011,104,Boston University Terriers,2011-02-01,-38.38142473493777,included_game_day
+2011,104,Boston University Terriers,2011-02-04,-21.3324416304852,included_game_day
+2011,104,Boston University Terriers,2011-02-10,-3.9758912363993915,included_game_day
+2011,104,Boston University Terriers,2011-02-12,-1.7292907389968768,included_game_day
+2011,104,Boston University Terriers,2011-02-15,15.784828352155987,included_game_day
+2011,104,Boston University Terriers,2011-02-19,19.477382461979317,included_game_day
+2011,104,Boston University Terriers,2011-02-24,15.089366616168821,included_game_day
+2011,104,Boston University Terriers,2011-02-27,23.562057417392566,included_game_day
+2011,104,Boston University Terriers,2011-03-05,22.13072498844744,included_game_day
+2011,104,Boston University Terriers,2011-03-06,17.82258824342749,included_game_day
+2011,104,Boston University Terriers,2011-03-12,14.808157946280001,included_game_day
+2011,104,Boston University Terriers,2011-03-18,14.26765580861527,included_game_day
+2012,104,Boston University Terriers,2011-11-11,-11.0,included_game_day
+2012,104,Boston University Terriers,2011-11-13,-42.9,included_game_day
+2012,104,Boston University Terriers,2011-11-20,-41.611,included_game_day
+2012,104,Boston University Terriers,2011-11-25,-35.95514,included_game_day
+2012,104,Boston University Terriers,2011-11-26,-24.029851999999998,included_game_day
+2012,104,Boston University Terriers,2011-11-27,-14.205099999999998,included_game_day
+2012,104,Boston University Terriers,2011-11-30,-9.878154799999997,included_game_day
+2012,104,Boston University Terriers,2011-12-03,1.3821269400000027,included_game_day
+2012,104,Boston University Terriers,2011-12-07,1.1468394192000027,included_game_day
+2012,104,Boston University Terriers,2011-12-10,-20.52782512312,included_game_day
+2012,104,Boston University Terriers,2011-12-13,-37.191921453998,included_game_day
+2012,104,Boston University Terriers,2011-12-22,-49.140161599276865,included_game_day
+2012,104,Boston University Terriers,2011-12-29,-48.78573075525273,included_game_day
+2012,104,Boston University Terriers,2011-12-31,-46.324265942303725,included_game_day
+2012,104,Boston University Terriers,2012-01-05,-53.53017437003576,included_game_day
+2012,104,Boston University Terriers,2012-01-08,-48.00300344218053,included_game_day
+2012,104,Boston University Terriers,2012-01-11,-31.33405127388526,included_game_day
+2012,104,Boston University Terriers,2012-01-14,-21.642496912818235,included_game_day
+2012,104,Boston University Terriers,2012-01-16,-7.48225028779704,included_game_day
+2012,104,Boston University Terriers,2012-01-19,-7.1959113242789945,included_game_day
+2012,104,Boston University Terriers,2012-01-22,9.803616556017392,included_game_day
+2012,104,Boston University Terriers,2012-01-24,24.05411224395581,included_game_day
+2012,104,Boston University Terriers,2012-01-27,19.226554404227794,included_game_day
+2012,104,Boston University Terriers,2012-02-01,15.98592903477452,included_game_day
+2012,104,Boston University Terriers,2012-02-04,15.661648507593329,included_game_day
+2012,104,Boston University Terriers,2012-02-06,18.4507855277685,included_game_day
+2012,104,Boston University Terriers,2012-02-09,21.19482430533663,included_game_day
+2012,104,Boston University Terriers,2012-02-15,7.645543957303618,included_game_day
+2012,104,Boston University Terriers,2012-02-19,-1.8063609921279884,included_game_day
+2012,104,Boston University Terriers,2012-02-22,8.583729579234598,included_game_day
+2012,104,Boston University Terriers,2012-02-25,4.733841123261557,included_game_day
+2012,104,Boston University Terriers,2012-03-03,-11.346069641516875,included_game_day
+2013,104,Boston University Terriers,2012-11-09,2.0,included_game_day
+2013,104,Boston University Terriers,2012-11-12,-3.2,included_game_day
+2013,104,Boston University Terriers,2012-11-17,-19.88,included_game_day
+2013,104,Boston University Terriers,2012-11-20,-14.440999999999999,included_game_day
+2013,104,Boston University Terriers,2012-11-24,-11.212579999999999,included_game_day
+2013,104,Boston University Terriers,2012-11-28,14.604878000000003,included_game_day
+2013,104,Boston University Terriers,2012-12-01,22.283235000000005,included_game_day
+2013,104,Boston University Terriers,2012-12-06,24.169365700000004,included_game_day
+2013,104,Boston University Terriers,2012-12-11,25.329555488200004,included_game_day
+2013,104,Boston University Terriers,2012-12-16,23.849345410300003,included_game_day
+2013,104,Boston University Terriers,2012-12-22,25.378148138930232,included_game_day
+2013,104,Boston University Terriers,2012-12-28,13.335455204139722,included_game_day
+2013,104,Boston University Terriers,2012-12-29,31.79428922073499,included_game_day
+2013,104,Boston University Terriers,2013-01-02,19.79322221246767,included_game_day
+2013,104,Boston University Terriers,2013-01-05,8.697915958170451,included_game_day
+2013,104,Boston University Terriers,2013-01-08,17.035238780862258,included_game_day
+2013,104,Boston University Terriers,2013-01-12,24.979609387580673,included_game_day
+2013,104,Boston University Terriers,2013-01-15,5.475276544238152,included_game_day
+2013,104,Boston University Terriers,2013-01-19,11.67046491070424,included_game_day
+2013,104,Boston University Terriers,2013-01-23,20.72439256683346,included_game_day
+2013,104,Boston University Terriers,2013-01-26,15.64170386796035,included_game_day
+2013,104,Boston University Terriers,2013-02-02,5.5265478484675405,included_game_day
+2013,104,Boston University Terriers,2013-02-05,3.590115467036526,included_game_day
+2013,104,Boston University Terriers,2013-02-09,11.776582743626204,included_game_day
+2013,104,Boston University Terriers,2013-02-12,22.930402806172964,included_game_day
+2013,104,Boston University Terriers,2013-02-17,24.570577049806293,included_game_day
+2013,104,Boston University Terriers,2013-02-20,32.15626212250204,included_game_day
+2013,104,Boston University Terriers,2013-02-23,30.261935976910028,included_game_day
+2013,104,Boston University Terriers,2013-02-28,18.55139776325892,included_game_day
+2013,104,Boston University Terriers,2013-03-19,15.191039979787824,included_game_day
+2014,104,Boston University Terriers,2013-11-10,3.0,included_game_day
+2014,104,Boston University Terriers,2013-11-13,23.3,included_game_day
+2014,104,Boston University Terriers,2013-11-17,12.715000000000002,included_game_day
+2014,104,Boston University Terriers,2013-11-22,-1.5685999999999982,included_game_day
+2014,104,Boston University Terriers,2013-11-23,10.549160000000002,included_game_day
+2014,104,Boston University Terriers,2013-11-24,20.57996,included_game_day
+2014,104,Boston University Terriers,2013-11-30,15.2905336,included_game_day
+2014,104,Boston University Terriers,2013-12-02,24.43064024,included_game_day
+2014,104,Boston University Terriers,2013-12-07,15.1414789657,included_game_day
+2014,104,Boston University Terriers,2013-12-11,12.994591016694,included_game_day
+2014,104,Boston University Terriers,2013-12-15,3.8958854134326,included_game_day
+2014,104,Boston University Terriers,2013-12-21,16.42798303820799,included_game_day
+2014,104,Boston University Terriers,2013-12-29,13.843752385900174,included_game_day
+2014,104,Boston University Terriers,2014-01-02,20.366308587206575,included_game_day
+2014,104,Boston University Terriers,2014-01-05,23.068421896696453,included_game_day
+2014,104,Boston University Terriers,2014-01-07,36.49257014257482,included_game_day
+2014,104,Boston University Terriers,2014-01-11,40.75961670771966,included_game_day
+2014,104,Boston University Terriers,2014-01-15,40.9776736928029,included_game_day
+2014,104,Boston University Terriers,2014-01-20,43.49455669761882,included_game_day
+2014,104,Boston University Terriers,2014-01-22,15.43975232511853,included_game_day
+2014,104,Boston University Terriers,2014-01-25,19.006869545713656,included_game_day
+2014,104,Boston University Terriers,2014-01-29,18.758345585331668,included_game_day
+2014,104,Boston University Terriers,2014-02-01,9.267086339258064,included_game_day
+2014,104,Boston University Terriers,2014-02-05,14.637071413121747,included_game_day
+2014,104,Boston University Terriers,2014-02-08,40.80333134508749,included_game_day
+2014,104,Boston University Terriers,2014-02-12,41.210839406320716,included_game_day
+2014,104,Boston University Terriers,2014-02-15,49.11659642373906,included_game_day
+2014,104,Boston University Terriers,2014-02-19,53.775210259641845,included_game_day
+2014,104,Boston University Terriers,2014-02-23,35.04893237792409,included_game_day
+2014,104,Boston University Terriers,2014-02-26,34.08540019958797,included_game_day
+2014,104,Boston University Terriers,2014-03-01,39.79952958971946,included_game_day
+2014,104,Boston University Terriers,2014-03-05,68.92563633642007,included_game_day
+2014,104,Boston University Terriers,2014-03-08,79.37043656996151,included_game_day
+2014,104,Boston University Terriers,2014-03-12,52.603362170645596,included_game_day
+2014,104,Boston University Terriers,2014-03-19,48.64800585167481,included_game_day
+2015,104,Boston University Terriers,2014-11-16,-6.0,included_game_day
+2015,104,Boston University Terriers,2014-11-19,3.41,included_game_day
+2015,104,Boston University Terriers,2014-11-21,-10.232999999999999,included_game_day
+2015,104,Boston University Terriers,2014-11-25,-14.359699999999998,included_game_day
+2015,104,Boston University Terriers,2014-11-30,-27.4923,included_game_day
+2015,104,Boston University Terriers,2014-12-03,-24.9628984,included_game_day
+2015,104,Boston University Terriers,2014-12-06,-37.75043287,included_game_day
+2015,104,Boston University Terriers,2014-12-08,-39.399712820999994,included_game_day
+2015,104,Boston University Terriers,2014-12-14,-37.43910529653999,included_game_day
+2015,104,Boston University Terriers,2014-12-20,-42.463291277949,included_game_day
+2015,104,Boston University Terriers,2014-12-31,-36.215373788492585,included_game_day
+2015,104,Boston University Terriers,2015-01-03,-18.868969252724607,included_game_day
+2015,104,Boston University Terriers,2015-01-07,-11.836912113782104,included_game_day
+2015,104,Boston University Terriers,2015-01-10,-15.335507549405039,included_game_day
+2015,104,Boston University Terriers,2015-01-14,-20.86876848861393,included_game_day
+2015,104,Boston University Terriers,2015-01-18,-29.309450800717094,included_game_day
+2015,104,Boston University Terriers,2015-01-21,-26.364953045442096,included_game_day
+2015,104,Boston University Terriers,2015-01-24,-43.30679602610028,included_game_day
+2015,104,Boston University Terriers,2015-01-29,-41.906384006516156,included_game_day
+2015,104,Boston University Terriers,2015-01-31,-39.635553736575744,included_game_day
+2015,104,Boston University Terriers,2015-02-04,-41.5211275339964,included_game_day
+2015,104,Boston University Terriers,2015-02-09,-20.444006225005708,included_game_day
+2015,104,Boston University Terriers,2015-02-11,-29.199042433223163,included_game_day
+2015,104,Boston University Terriers,2015-02-14,-20.783637759973036,included_game_day
+2015,104,Boston University Terriers,2015-02-18,-10.326076153567367,included_game_day
+2015,104,Boston University Terriers,2015-02-22,-15.674894898294177,included_game_day
+2015,104,Boston University Terriers,2015-02-25,-18.037101289490124,included_game_day
+2015,104,Boston University Terriers,2015-02-28,-31.658824908587178,included_game_day
+2015,104,Boston University Terriers,2015-03-05,-54.59019269261406,included_game_day
+2016,104,Boston University Terriers,2015-11-13,-6.0,included_game_day
+2016,104,Boston University Terriers,2015-11-16,-4.4,included_game_day
+2016,104,Boston University Terriers,2015-11-19,-16.78,included_game_day
+2016,104,Boston University Terriers,2015-11-21,-2.3150000000000013,included_game_day
+2016,104,Boston University Terriers,2015-11-24,-14.258500000000002,included_game_day
+2016,104,Boston University Terriers,2015-11-28,-2.764750000000001,included_game_day
+2016,104,Boston University Terriers,2015-12-02,-26.596826,included_game_day
+2016,104,Boston University Terriers,2015-12-08,-32.205246496,included_game_day
+2016,104,Boston University Terriers,2015-12-10,-10.449670043200001,included_game_day
+2016,104,Boston University Terriers,2015-12-13,-0.6707408059780011,included_game_day
+2016,104,Boston University Terriers,2015-12-19,-13.714604922608002,included_game_day
+2016,104,Boston University Terriers,2015-12-21,-16.23513074454165,included_game_day
+2016,104,Boston University Terriers,2015-12-30,-30.680532311390067,included_game_day
+2016,104,Boston University Terriers,2016-01-02,-39.63482224649863,included_game_day
+2016,104,Boston University Terriers,2016-01-06,-56.84419966384236,included_game_day
+2016,104,Boston University Terriers,2016-01-09,-40.94933085299633,included_game_day
+2016,104,Boston University Terriers,2016-01-13,-36.36564541081347,included_game_day
+2016,104,Boston University Terriers,2016-01-18,-39.79944958414678,included_game_day
+2016,104,Boston University Terriers,2016-01-20,-40.58364925162256,included_game_day
+2016,104,Boston University Terriers,2016-01-23,-41.23043018349868,included_game_day
+2016,104,Boston University Terriers,2016-01-27,-26.420520622052766,included_game_day
+2016,104,Boston University Terriers,2016-01-31,-26.92566139518962,included_game_day
+2016,104,Boston University Terriers,2016-02-03,-10.810577192872543,included_game_day
+2016,104,Boston University Terriers,2016-02-06,-10.449522025841722,included_game_day
+2016,104,Boston University Terriers,2016-02-10,0.37034491538998715,included_game_day
+2016,104,Boston University Terriers,2016-02-13,4.486983776489531,included_game_day
+2016,104,Boston University Terriers,2016-02-17,1.6837018217419706,included_game_day
+2016,104,Boston University Terriers,2016-02-21,-14.418664892598837,included_game_day
+2016,104,Boston University Terriers,2016-02-23,-29.174961903783064,included_game_day
+2016,104,Boston University Terriers,2016-02-27,-24.692534379473543,included_game_day
+2016,104,Boston University Terriers,2016-03-03,-38.329223876263626,included_game_day
+2016,104,Boston University Terriers,2016-03-16,-29.079299646784133,included_game_day
+2016,104,Boston University Terriers,2016-03-21,-38.226384195182526,included_game_day
+2017,104,Boston University Terriers,2016-11-11,-7.0,included_game_day
+2017,104,Boston University Terriers,2016-11-18,-6.1899999999999995,included_game_day
+2017,104,Boston University Terriers,2016-11-19,17.029000000000003,included_game_day
+2017,104,Boston University Terriers,2016-11-20,29.901000000000003,included_game_day
+2017,104,Boston University Terriers,2016-11-28,17.672800000000002,included_game_day
+2017,104,Boston University Terriers,2016-11-30,15.223975000000001,included_game_day
+2017,104,Boston University Terriers,2016-12-03,13.7377169,included_game_day
+2017,104,Boston University Terriers,2016-12-07,-2.0713464960000003,included_game_day
+2017,104,Boston University Terriers,2016-12-10,-16.20539567127,included_game_day
+2017,104,Boston University Terriers,2016-12-18,-14.266523621533,included_game_day
+2017,104,Boston University Terriers,2016-12-21,-16.50120466859146,included_game_day
+2017,104,Boston University Terriers,2016-12-30,-12.912098079664618,included_game_day
+2017,104,Boston University Terriers,2017-01-02,4.531078870456321,included_game_day
+2017,104,Boston University Terriers,2017-01-05,21.472937626401688,included_game_day
+2017,104,Boston University Terriers,2017-01-08,29.45231282104273,included_game_day
+2017,104,Boston University Terriers,2017-01-11,27.245875563905425,included_game_day
+2017,104,Boston University Terriers,2017-01-16,14.191831232208491,included_game_day
+2017,104,Boston University Terriers,2017-01-18,-6.117317842336869,included_game_day
+2017,104,Boston University Terriers,2017-01-21,-9.531555722193588,included_game_day
+2017,104,Boston University Terriers,2017-01-25,-14.893170000965394,included_game_day
+2017,104,Boston University Terriers,2017-01-30,9.963885023827487,included_game_day
+2017,104,Boston University Terriers,2017-02-02,0.9898431641510737,included_game_day
+2017,104,Boston University Terriers,2017-02-05,1.6306814921627737,included_game_day
+2017,104,Boston University Terriers,2017-02-08,-1.641769757614087,included_game_day
+2017,104,Boston University Terriers,2017-02-11,8.622813367528884,included_game_day
+2017,104,Boston University Terriers,2017-02-15,7.805467159058103,included_game_day
+2017,104,Boston University Terriers,2017-02-19,-10.226101565413636,included_game_day
+2017,104,Boston University Terriers,2017-02-22,-22.600482526961287,included_game_day
+2017,104,Boston University Terriers,2017-02-25,-17.16121556471437,included_game_day
+2017,104,Boston University Terriers,2017-03-02,-19.322367967199483,included_game_day
+2017,104,Boston University Terriers,2017-03-05,-19.09741428457405,included_game_day
+2018,104,Boston University Terriers,2017-11-10,-9.0,included_game_day
+2018,104,Boston University Terriers,2017-11-13,-25.2,included_game_day
+2018,104,Boston University Terriers,2017-11-19,-37.519999999999996,included_game_day
+2018,104,Boston University Terriers,2017-11-22,-28.314479999999996,included_game_day
+2018,104,Boston University Terriers,2017-11-29,-25.756132709999996,included_game_day
+2018,104,Boston University Terriers,2017-12-05,-24.377727147999995,included_game_day
+2018,104,Boston University Terriers,2017-12-08,-18.322053373199996,included_game_day
+2018,104,Boston University Terriers,2017-12-13,-22.421203316252996,included_game_day
+2018,104,Boston University Terriers,2017-12-17,-34.620983648567695,included_game_day
+2018,104,Boston University Terriers,2017-12-21,-41.28994994692093,included_game_day
+2018,104,Boston University Terriers,2017-12-29,-29.296402986830635,included_game_day
+2018,104,Boston University Terriers,2018-01-02,-16.86716077208598,included_game_day
+2018,104,Boston University Terriers,2018-01-05,-19.82247541751047,included_game_day
+2018,104,Boston University Terriers,2018-01-08,-13.84451153429957,included_game_day
+2018,104,Boston University Terriers,2018-01-11,-2.2964520718714176,included_game_day
+2018,104,Boston University Terriers,2018-01-14,8.39357796757672,included_game_day
+2018,104,Boston University Terriers,2018-01-17,-15.503526324631947,included_game_day
+2018,104,Boston University Terriers,2018-01-20,-6.44473497117006,included_game_day
+2018,104,Boston University Terriers,2018-01-24,-4.302390705906946,included_game_day
+2018,104,Boston University Terriers,2018-01-28,-12.683295032235078,included_game_day
+2018,104,Boston University Terriers,2018-01-31,-9.456203594056898,included_game_day
+2018,104,Boston University Terriers,2018-02-03,-16.32835738863092,included_game_day
+2018,104,Boston University Terriers,2018-02-07,-27.432710294718802,included_game_day
+2018,104,Boston University Terriers,2018-02-10,-46.93482620559101,included_game_day
+2018,104,Boston University Terriers,2018-02-14,-53.186952348183155,included_game_day
+2018,104,Boston University Terriers,2018-02-17,-64.42705494862622,included_game_day
+2018,104,Boston University Terriers,2018-02-21,-46.44590111213573,included_game_day
+2018,104,Boston University Terriers,2018-02-24,-44.88482002623387,included_game_day
+2018,104,Boston University Terriers,2018-03-01,-30.71621655588579,included_game_day
+2018,104,Boston University Terriers,2018-03-04,-48.64334843464728,included_game_day
+2019,104,Boston University Terriers,2018-11-06,6.0,included_game_day
+2019,104,Boston University Terriers,2018-11-09,-3.5999999999999996,included_game_day
+2019,104,Boston University Terriers,2018-11-14,9.66,included_game_day
+2019,104,Boston University Terriers,2018-11-17,-9.219000000000001,included_game_day
+2019,104,Boston University Terriers,2018-11-21,-25.799400000000002,included_game_day
+2019,104,Boston University Terriers,2018-11-23,-25.316470000000002,included_game_day
+2019,104,Boston University Terriers,2018-11-28,2.495759899999996,included_game_day
+2019,104,Boston University Terriers,2018-12-01,5.886557509999998,included_game_day
+2019,104,Boston University Terriers,2018-12-04,20.9875769427,included_game_day
+2019,104,Boston University Terriers,2018-12-13,10.613806023941999,included_game_day
+2019,104,Boston University Terriers,2018-12-15,15.4632429215478,included_game_day
+2019,104,Boston University Terriers,2018-12-21,-5.831105171517372,included_game_day
+2019,104,Boston University Terriers,2019-01-02,-14.382566570963457,included_game_day
+2019,104,Boston University Terriers,2019-01-05,-7.39190937162111,included_game_day
+2019,104,Boston University Terriers,2019-01-09,-18.59074110956685,included_game_day
+2019,104,Boston University Terriers,2019-01-12,-13.503142121046011,included_game_day
+2019,104,Boston University Terriers,2019-01-16,-24.77645928159011,included_game_day
+2019,104,Boston University Terriers,2019-01-19,-45.581069695288164,included_game_day
+2019,104,Boston University Terriers,2019-01-23,-49.138268634138285,included_game_day
+2019,104,Boston University Terriers,2019-01-26,-55.65577827991726,included_game_day
+2019,104,Boston University Terriers,2019-01-30,-43.44145169558044,included_game_day
+2019,104,Boston University Terriers,2019-02-02,-24.97882314686002,included_game_day
+2019,104,Boston University Terriers,2019-02-06,-40.371222748360736,included_game_day
+2019,104,Boston University Terriers,2019-02-09,-35.27687225493157,included_game_day
+2019,104,Boston University Terriers,2019-02-13,-42.02311555780424,included_game_day
+2019,104,Boston University Terriers,2019-02-16,-44.56854348061264,included_game_day
+2019,104,Boston University Terriers,2019-02-18,-31.20060920923933,included_game_day
+2019,104,Boston University Terriers,2019-02-23,-28.025314534365773,included_game_day
+2019,104,Boston University Terriers,2019-02-27,-27.6570818627632,included_game_day
+2019,104,Boston University Terriers,2019-03-02,-38.24276323827236,included_game_day
+2019,104,Boston University Terriers,2019-03-05,-32.16374644660115,included_game_day
+2019,104,Boston University Terriers,2019-03-07,-32.8289861904761,included_game_day
+2020,104,Boston University Terriers,2019-11-05,-8.0,included_game_day
+2020,104,Boston University Terriers,2019-11-13,-18.215,included_game_day
+2020,104,Boston University Terriers,2019-11-16,-5.9975000000000005,included_game_day
+2020,104,Boston University Terriers,2019-11-19,11.971849999999998,included_game_day
+2020,104,Boston University Terriers,2019-11-22,-8.524715000000002,included_game_day
+2020,104,Boston University Terriers,2019-11-26,-31.198663500000002,included_game_day
+2020,104,Boston University Terriers,2019-11-27,-38.2635815,included_game_day
+2020,104,Boston University Terriers,2019-12-04,-33.7950209247,included_game_day
+2020,104,Boston University Terriers,2019-12-07,-37.77473029153,included_game_day
+2020,104,Boston University Terriers,2019-12-14,-33.657004018319896,included_game_day
+2020,104,Boston University Terriers,2019-12-21,-15.584714793277804,included_game_day
+2020,104,Boston University Terriers,2019-12-29,-14.18511116826867,included_game_day
+2020,104,Boston University Terriers,2020-01-02,-12.740792108846332,included_game_day
+2020,104,Boston University Terriers,2020-01-05,-14.224207720387493,included_game_day
+2020,104,Boston University Terriers,2020-01-08,-2.660942111666907,included_game_day
+2020,104,Boston University Terriers,2020-01-11,10.375607110995238,included_game_day
+2020,104,Boston University Terriers,2020-01-13,40.722913284277425,included_game_day
+2020,104,Boston University Terriers,2020-01-18,34.168115236522475,included_game_day
+2020,104,Boston University Terriers,2020-01-22,24.993213920602727,included_game_day
+2020,104,Boston University Terriers,2020-01-25,29.207842285671973,included_game_day
+2020,104,Boston University Terriers,2020-01-29,30.902437638239512,included_game_day
+2020,104,Boston University Terriers,2020-02-01,47.89249529083247,included_game_day
+2020,104,Boston University Terriers,2020-02-05,58.16425455178811,included_game_day
+2020,104,Boston University Terriers,2020-02-08,45.680913717778935,included_game_day
+2020,104,Boston University Terriers,2020-02-10,27.4510815556953,included_game_day
+2020,104,Boston University Terriers,2020-02-15,47.55963566163457,included_game_day
+2020,104,Boston University Terriers,2020-02-19,41.90258554158557,included_game_day
+2020,104,Boston University Terriers,2020-02-23,37.58617283343392,included_game_day
+2020,104,Boston University Terriers,2020-02-26,28.228291278214137,included_game_day
+2020,104,Boston University Terriers,2020-02-29,22.08304282876295,included_game_day
+2020,104,Boston University Terriers,2020-03-05,17.908493486369007,included_game_day
+2020,104,Boston University Terriers,2020-03-08,13.62896902098148,included_game_day
+2020,104,Boston University Terriers,2020-03-11,25.65821097280999,included_game_day
+2021,104,Boston University Terriers,2021-01-04,10.0,included_game_day
+2021,104,Boston University Terriers,2021-01-05,3.0,included_game_day
+2021,104,Boston University Terriers,2021-01-09,-4.33552394,included_game_day
+2021,104,Boston University Terriers,2021-01-10,-47.203943092,included_game_day
+2021,104,Boston University Terriers,2021-01-16,-66.888028212,included_game_day
+2021,104,Boston University Terriers,2021-01-17,-73.635296308,included_game_day
+2021,104,Boston University Terriers,2021-01-23,-54.939325412399995,included_game_day
+2021,104,Boston University Terriers,2021-01-24,-41.982548695919995,included_game_day
+2021,104,Boston University Terriers,2021-02-13,-57.12986400648592,included_game_day
+2021,104,Boston University Terriers,2021-02-14,-40.24771625493865,included_game_day
+2021,104,Boston University Terriers,2021-02-17,-29.74199805370084,included_game_day
+2021,104,Boston University Terriers,2021-02-20,-22.46010280830142,included_game_day
+2021,104,Boston University Terriers,2021-02-21,-21.634586611981888,included_game_day
+2021,104,Boston University Terriers,2021-02-24,-37.34187168116834,included_game_day
+2021,104,Boston University Terriers,2021-02-27,-19.66018286034212,included_game_day
+2021,104,Boston University Terriers,2021-02-28,-19.51483180368114,included_game_day
+2021,104,Boston University Terriers,2021-03-03,-16.088767877996354,included_game_day
+2021,104,Boston University Terriers,2021-03-06,-8.98293679433928,included_game_day
+2022,104,Boston University Terriers,2021-11-09,-6.0,included_game_day
+2022,104,Boston University Terriers,2021-11-16,-5.36,included_game_day
+2022,104,Boston University Terriers,2021-11-18,0.9489999999999998,included_game_day
+2022,104,Boston University Terriers,2021-11-21,15.1773,included_game_day
+2022,104,Boston University Terriers,2021-11-22,25.571350000000002,included_game_day
+2022,104,Boston University Terriers,2021-11-24,31.286105,included_game_day
+2022,104,Boston University Terriers,2021-11-28,24.2711628,included_game_day
+2022,104,Boston University Terriers,2021-12-01,22.4441651353,included_game_day
+2022,104,Boston University Terriers,2021-12-04,18.953327465770002,included_game_day
+2022,104,Boston University Terriers,2021-12-08,23.888010513273002,included_game_day
+2022,104,Boston University Terriers,2021-12-11,25.1305351801432,included_game_day
+2022,104,Boston University Terriers,2021-12-18,15.339559239806432,included_game_day
+2022,104,Boston University Terriers,2022-01-01,5.608115320826496,included_game_day
+2022,104,Boston University Terriers,2022-01-04,-1.5716904618195864,included_game_day
+2022,104,Boston University Terriers,2022-01-07,-14.87985769972185,included_game_day
+2022,104,Boston University Terriers,2022-01-10,6.055750001688896,included_game_day
+2022,104,Boston University Terriers,2022-01-13,-5.844485262747183,included_game_day
+2022,104,Boston University Terriers,2022-01-16,-13.572109253018402,included_game_day
+2022,104,Boston University Terriers,2022-01-19,7.838044118915365,included_game_day
+2022,104,Boston University Terriers,2022-01-22,6.216520430516499,included_game_day
+2022,104,Boston University Terriers,2022-01-26,22.87226975203913,included_game_day
+2022,104,Boston University Terriers,2022-01-28,25.457776431738075,included_game_day
+2022,104,Boston University Terriers,2022-01-31,3.61033596640619,included_game_day
+2022,104,Boston University Terriers,2022-02-05,8.826807655271868,included_game_day
+2022,104,Boston University Terriers,2022-02-09,0.046328452377672136,included_game_day
+2022,104,Boston University Terriers,2022-02-12,5.078344375799805,included_game_day
+2022,104,Boston University Terriers,2022-02-16,11.574481550010198,included_game_day
+2022,104,Boston University Terriers,2022-02-19,-0.1691280248310818,included_game_day
+2022,104,Boston University Terriers,2022-02-23,8.469525234915675,included_game_day
+2022,104,Boston University Terriers,2022-02-26,-11.70653143898777,included_game_day
+2022,104,Boston University Terriers,2022-03-03,-5.572540632244945,included_game_day
+2022,104,Boston University Terriers,2022-03-06,-7.871572009020172,included_game_day
+2022,104,Boston University Terriers,2022-03-20,-4.402963305798602,included_game_day
+2022,104,Boston University Terriers,2022-03-21,-28.632081824989214,included_game_day
+2023,104,Boston University Terriers,2022-11-07,6.0,included_game_day
+2023,104,Boston University Terriers,2022-11-11,-17.8,included_game_day
+2023,104,Boston University Terriers,2022-11-17,13.879999999999999,included_game_day
+2023,104,Boston University Terriers,2022-11-20,21.604999999999997,included_game_day
+2023,104,Boston University Terriers,2022-11-26,8.768399999999998,included_game_day
+2023,104,Boston University Terriers,2022-11-27,-12.841995500000001,included_game_day
+2023,104,Boston University Terriers,2022-11-28,-20.4101795,included_game_day
+2023,104,Boston University Terriers,2022-12-02,-11.178473848200001,included_game_day
+2023,104,Boston University Terriers,2022-12-07,-11.040969204380001,included_game_day
+2023,104,Boston University Terriers,2022-12-10,-5.867042768742001,included_game_day
+2023,104,Boston University Terriers,2022-12-13,-6.054367359933222,included_game_day
+2023,104,Boston University Terriers,2022-12-21,-4.857584167268129,included_game_day
+2023,104,Boston University Terriers,2022-12-30,-25.42250776592687,included_game_day
+2023,104,Boston University Terriers,2023-01-02,-14.652024859517017,included_game_day
+2023,104,Boston University Terriers,2023-01-05,-17.744606820815186,included_game_day
+2023,104,Boston University Terriers,2023-01-08,-11.258438376393093,included_game_day
+2023,104,Boston University Terriers,2023-01-11,-8.315028496592964,included_game_day
+2023,104,Boston University Terriers,2023-01-14,-17.992357892683124,included_game_day
+2023,104,Boston University Terriers,2023-01-18,-36.05132152882613,included_game_day
+2023,104,Boston University Terriers,2023-01-21,-31.19217973494144,included_game_day
+2023,104,Boston University Terriers,2023-01-23,-41.400886667402816,included_game_day
+2023,104,Boston University Terriers,2023-01-29,-45.949863084030966,included_game_day
+2023,104,Boston University Terriers,2023-02-01,-63.16766409859202,included_game_day
+2023,104,Boston University Terriers,2023-02-04,-61.12509912936154,included_game_day
+2023,104,Boston University Terriers,2023-02-08,-53.74625442802432,included_game_day
+2023,104,Boston University Terriers,2023-02-11,-52.06537096880782,included_game_day
+2023,104,Boston University Terriers,2023-02-15,-52.23147761134922,included_game_day
+2023,104,Boston University Terriers,2023-02-18,-38.72526250531775,included_game_day
+2023,104,Boston University Terriers,2023-02-22,-27.04196195691776,included_game_day
+2023,104,Boston University Terriers,2023-02-25,-27.750714500942838,included_game_day
+2023,104,Boston University Terriers,2023-03-02,-25.18499076067668,included_game_day
+2024,104,Boston University Terriers,2023-11-06,-6.0,included_game_day
+2024,104,Boston University Terriers,2023-11-10,-27.1,included_game_day
+2024,104,Boston University Terriers,2023-11-14,-33.156,included_game_day
+2024,104,Boston University Terriers,2023-11-16,-17.749399999999998,included_game_day
+2024,104,Boston University Terriers,2023-11-21,-36.91126,included_game_day
+2024,104,Boston University Terriers,2023-11-29,-43.3822222,included_game_day
+2024,104,Boston University Terriers,2023-12-02,-14.04519449,included_game_day
+2024,104,Boston University Terriers,2023-12-06,-23.4232143659,included_game_day
+2024,104,Boston University Terriers,2023-12-10,-7.916593504882002,included_game_day
+2024,104,Boston University Terriers,2023-12-13,-17.6273275144318,included_game_day
+2024,104,Boston University Terriers,2023-12-22,-26.13010814456132,included_game_day
+2024,104,Boston University Terriers,2023-12-30,-16.513190582178318,included_game_day
+2024,104,Boston University Terriers,2024-01-03,-13.664123160324204,included_game_day
+2024,104,Boston University Terriers,2024-01-06,-32.86775632653286,included_game_day
+2024,104,Boston University Terriers,2024-01-10,-30.287135054914085,included_game_day
+2024,104,Boston University Terriers,2024-01-13,-30.972235674826948,included_game_day
+2024,104,Boston University Terriers,2024-01-17,-53.15570392828354,included_game_day
+2024,104,Boston University Terriers,2024-01-20,-60.20673701112729,included_game_day
+2024,104,Boston University Terriers,2024-01-24,-74.46835205288976,included_game_day
+2024,104,Boston University Terriers,2024-01-27,-51.819139929980814,included_game_day
+2024,104,Boston University Terriers,2024-01-29,-56.4097940809102,included_game_day
+2024,104,Boston University Terriers,2024-02-03,-55.895945597856795,included_game_day
+2024,104,Boston University Terriers,2024-02-07,-58.67402420750197,included_game_day
+2024,104,Boston University Terriers,2024-02-10,-36.306346748190954,included_game_day
+2024,104,Boston University Terriers,2024-02-14,-51.40146167820858,included_game_day
+2024,104,Boston University Terriers,2024-02-17,-49.96741392216305,included_game_day
+2024,104,Boston University Terriers,2024-02-21,-29.899899432134276,included_game_day
+2024,104,Boston University Terriers,2024-02-25,-35.82656294830556,included_game_day
+2024,104,Boston University Terriers,2024-02-28,-27.034470852716826,included_game_day
+2024,104,Boston University Terriers,2024-03-02,-28.253887692979237,included_game_day
+2024,104,Boston University Terriers,2024-03-07,-24.69796132732389,included_game_day
+2024,104,Boston University Terriers,2024-03-10,-29.64644945773928,included_game_day
+2025,104,Boston University Terriers,2024-11-04,-11.0,included_game_day
+2025,104,Boston University Terriers,2024-11-08,-21.62,included_game_day
+2025,104,Boston University Terriers,2024-11-11,-45.338,included_game_day
+2025,104,Boston University Terriers,2024-11-16,-17.736,included_game_day
+2025,104,Boston University Terriers,2024-11-19,-26.161,included_game_day
+2025,104,Boston University Terriers,2024-11-23,-21.105927,included_game_day
+2025,104,Boston University Terriers,2024-11-24,-14.002004300000001,included_game_day
+2025,104,Boston University Terriers,2024-12-01,-26.63728417,included_game_day
+2025,104,Boston University Terriers,2024-12-07,-21.096531327260003,included_game_day
+2025,104,Boston University Terriers,2024-12-13,-20.71177075841,included_game_day
+2025,104,Boston University Terriers,2024-12-21,-28.218368133741524,included_game_day
+2025,104,Boston University Terriers,2024-12-29,-21.176050652192004,included_game_day
+2025,104,Boston University Terriers,2025-01-02,-35.123180010796794,included_game_day
+2025,104,Boston University Terriers,2025-01-05,-32.77224032940036,included_game_day
+2025,104,Boston University Terriers,2025-01-08,-31.587699809107804,included_game_day
+2025,104,Boston University Terriers,2025-01-11,-67.10384195503138,included_game_day
+2025,104,Boston University Terriers,2025-01-15,-64.28515901853893,included_game_day
+2025,104,Boston University Terriers,2025-01-18,-65.93627523501485,included_game_day
+2025,104,Boston University Terriers,2025-01-22,-76.78411607907975,included_game_day
+2025,104,Boston University Terriers,2025-01-25,-73.73136133268859,included_game_day
+2025,104,Boston University Terriers,2025-01-27,-65.87028212744075,included_game_day
+2025,104,Boston University Terriers,2025-02-01,-66.55778451966596,included_game_day
+2025,104,Boston University Terriers,2025-02-05,-42.62200344020833,included_game_day
+2025,104,Boston University Terriers,2025-02-08,-62.65047553918315,included_game_day
+2025,104,Boston University Terriers,2025-02-12,-70.63024788461487,included_game_day
+2025,104,Boston University Terriers,2025-02-15,-66.60338159202166,included_game_day
+2025,104,Boston University Terriers,2025-02-19,-69.91314475426147,included_game_day
+2025,104,Boston University Terriers,2025-02-22,-66.40024048684731,included_game_day
+2025,104,Boston University Terriers,2025-02-26,-50.77420687742785,included_game_day
+2025,104,Boston University Terriers,2025-03-01,-50.84295218631748,included_game_day
+2025,104,Boston University Terriers,2025-03-06,-59.120694810448384,included_game_day
+2026,104,Boston University Terriers,2025-11-03,4.0,included_game_day
+2026,104,Boston University Terriers,2025-11-07,-15.399999999999999,included_game_day
+2026,104,Boston University Terriers,2025-11-12,-6.252999999999998,included_game_day
+2026,104,Boston University Terriers,2025-11-15,-25.9797,included_game_day
+2026,104,Boston University Terriers,2025-11-18,-24.894240000000003,included_game_day
+2026,104,Boston University Terriers,2025-11-22,-19.890580000000003,included_game_day
+2026,104,Boston University Terriers,2025-11-25,-19.874581400000004,included_game_day
+2026,104,Boston University Terriers,2025-11-29,-23.981880840000002,included_game_day
+2026,104,Boston University Terriers,2025-12-06,-31.868992411647003,included_game_day
+2026,104,Boston University Terriers,2025-12-10,-51.0730141466025,included_game_day
+2026,104,Boston University Terriers,2025-12-13,-58.77596179869578,included_game_day
+2026,104,Boston University Terriers,2025-12-21,-50.37382625739243,included_game_day
+2026,104,Boston University Terriers,2025-12-31,-47.407221322425414,included_game_day
+2026,104,Boston University Terriers,2026-01-03,-51.06769882806877,included_game_day
+2026,104,Boston University Terriers,2026-01-07,-32.86367129793098,included_game_day
+2026,104,Boston University Terriers,2026-01-10,-31.4383699910779,included_game_day
+2026,104,Boston University Terriers,2026-01-14,-40.06583158142969,included_game_day
+2026,104,Boston University Terriers,2026-01-17,-59.31557570795245,included_game_day
+2026,104,Boston University Terriers,2026-01-21,-60.221619044344514,included_game_day
+2026,104,Boston University Terriers,2026-01-24,-53.75302765357363,included_game_day
+2026,104,Boston University Terriers,2026-01-28,-57.034499088655146,included_game_day
+2026,104,Boston University Terriers,2026-01-31,-65.07853523507173,included_game_day
+2026,104,Boston University Terriers,2026-02-02,-56.52510771544665,included_game_day
+2026,104,Boston University Terriers,2026-02-07,-51.49282258781797,included_game_day
+2026,104,Boston University Terriers,2026-02-11,-37.048775592155906,included_game_day
+2026,104,Boston University Terriers,2026-02-14,-34.31808305657479,included_game_day
+2026,104,Boston University Terriers,2026-02-16,-8.10013246714945,included_game_day
+2026,104,Boston University Terriers,2026-02-22,-13.83678020352912,included_game_day
+2026,104,Boston University Terriers,2026-02-25,-9.37631286475932,included_game_day
+2026,104,Boston University Terriers,2026-02-28,-6.055815296688584,included_game_day
+2026,104,Boston University Terriers,2026-03-05,-10.399417242231994,included_game_day
+2026,104,Boston University Terriers,2026-03-08,0.4680565181216636,included_game_day
+2026,104,Boston University Terriers,2026-03-11,-15.511397173937002,included_game_day
+2027,104,Boston University Terriers,2026-11-02,5.0,included_game_day
+2027,104,Boston University Terriers,2026-11-06,11.8,included_game_day
+2027,104,Boston University Terriers,2026-11-09,-0.3099999999999987,included_game_day
+2027,104,Boston University Terriers,2026-11-15,12.174700000000001,included_game_day
+2027,104,Boston University Terriers,2026-11-18,16.27533,included_game_day
+2027,104,Boston University Terriers,2026-11-21,6.700416000000001,included_game_day

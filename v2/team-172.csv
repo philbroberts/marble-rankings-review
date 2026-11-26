@@ -1,0 +1,1012 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,172,Cornell,1987-12-02,5.2,included_game_day
+1988,172,Cornell,1987-12-07,-21.03311,included_game_day
+1988,172,Cornell,1987-12-12,-16.0898549,included_game_day
+1988,172,Cornell,1987-12-28,-12.2484892469,included_game_day
+1988,172,Cornell,1987-12-29,-17.31758066436,included_game_day
+1988,172,Cornell,1988-01-03,-28.09331377028471,included_game_day
+1988,172,Cornell,1988-01-05,-27.324532275757676,included_game_day
+1988,172,Cornell,1988-01-09,-23.093689321541785,included_game_day
+1988,172,Cornell,1988-01-11,-24.929236017974333,included_game_day
+1988,172,Cornell,1988-01-15,-39.880280615959,included_game_day
+1988,172,Cornell,1988-01-16,-21.954870341495187,included_game_day
+1988,172,Cornell,1988-01-19,-61.0755617827943,included_game_day
+1988,172,Cornell,1988-01-23,-53.4406009844979,included_game_day
+1988,172,Cornell,1988-01-25,-28.539360223617876,included_game_day
+1988,172,Cornell,1988-01-30,-9.757477999502832,included_game_day
+1988,172,Cornell,1988-02-05,-1.8793484711296635,included_game_day
+1988,172,Cornell,1988-02-06,-2.364208475251189,included_game_day
+1988,172,Cornell,1988-02-12,-2.4601775039857365,included_game_day
+1988,172,Cornell,1988-02-13,-1.1273389435676258,included_game_day
+1988,172,Cornell,1988-02-19,5.232246721809194,included_game_day
+1988,172,Cornell,1988-02-20,23.03289037010513,included_game_day
+1988,172,Cornell,1988-02-26,22.15088262999795,included_game_day
+1988,172,Cornell,1988-02-27,15.297335408332035,included_game_day
+1988,172,Cornell,1988-03-04,4.831507158878775,included_game_day
+1988,172,Cornell,1988-03-05,-13.159408635022935,included_game_day
+1988,172,Cornell,1988-03-18,-31.82745548970877,included_game_day
+1989,172,Cornell,1988-11-28,-15.90235,included_game_day
+1989,172,Cornell,1988-12-02,-55.6944565,included_game_day
+1989,172,Cornell,1988-12-03,-66.03561085,included_game_day
+1989,172,Cornell,1988-12-27,-66.60696446838796,included_game_day
+1989,172,Cornell,1988-12-29,-79.23140895154916,included_game_day
+1989,172,Cornell,1989-01-03,-83.87034302449425,included_game_day
+1989,172,Cornell,1989-01-07,-88.01587579234685,included_game_day
+1989,172,Cornell,1989-01-09,-72.38745421812779,included_game_day
+1989,172,Cornell,1989-01-13,-89.288644001411,included_game_day
+1989,172,Cornell,1989-01-14,-91.81485118956186,included_game_day
+1989,172,Cornell,1989-01-21,-103.60655356430178,included_game_day
+1989,172,Cornell,1989-01-23,-111.4851089139733,included_game_day
+1989,172,Cornell,1989-01-28,-108.0563166729395,included_game_day
+1989,172,Cornell,1989-01-30,-101.49826301180154,included_game_day
+1989,172,Cornell,1989-02-03,-113.80635305647769,included_game_day
+1989,172,Cornell,1989-02-04,-129.33187036020786,included_game_day
+1989,172,Cornell,1989-02-10,-117.83010758505668,included_game_day
+1989,172,Cornell,1989-02-11,-119.07040266137702,included_game_day
+1989,172,Cornell,1989-02-17,-117.59222485594601,included_game_day
+1989,172,Cornell,1989-02-18,-92.94470349200714,included_game_day
+1989,172,Cornell,1989-02-24,-97.6355895770401,included_game_day
+1989,172,Cornell,1989-02-25,-87.14827486444861,included_game_day
+1989,172,Cornell,1989-03-03,-89.89926449394206,included_game_day
+1989,172,Cornell,1989-03-04,-84.57165350305206,included_game_day
+1990,172,Cornell,1989-11-27,0.7999999999999998,included_game_day
+1990,172,Cornell,1989-11-29,-46.980000000000004,included_game_day
+1990,172,Cornell,1989-12-02,-68.2757,included_game_day
+1990,172,Cornell,1989-12-05,-55.907430000000005,included_game_day
+1990,172,Cornell,1989-12-23,-55.20274211619,included_game_day
+1990,172,Cornell,1989-12-24,-72.38016515973,included_game_day
+1990,172,Cornell,1989-12-29,-87.0890487797432,included_game_day
+1990,172,Cornell,1990-01-02,-95.06732584453137,included_game_day
+1990,172,Cornell,1990-01-06,-75.18399062453726,included_game_day
+1990,172,Cornell,1990-01-12,-74.18745384264227,included_game_day
+1990,172,Cornell,1990-01-13,-69.30787837728954,included_game_day
+1990,172,Cornell,1990-01-16,-41.50837091788434,included_game_day
+1990,172,Cornell,1990-01-20,-47.76016897580081,included_game_day
+1990,172,Cornell,1990-01-23,-51.379645161725435,included_game_day
+1990,172,Cornell,1990-01-27,-58.778423552012036,included_game_day
+1990,172,Cornell,1990-01-29,-64.01175295352601,included_game_day
+1990,172,Cornell,1990-02-02,-59.87723622260851,included_game_day
+1990,172,Cornell,1990-02-03,-55.84591918848727,included_game_day
+1990,172,Cornell,1990-02-09,-50.76753300016977,included_game_day
+1990,172,Cornell,1990-02-10,-53.94788849673604,included_game_day
+1990,172,Cornell,1990-02-16,-51.9734132859076,included_game_day
+1990,172,Cornell,1990-02-17,-38.05212669169258,included_game_day
+1990,172,Cornell,1990-02-23,-40.17616090768315,included_game_day
+1990,172,Cornell,1990-02-24,-43.9331456669154,included_game_day
+1990,172,Cornell,1990-03-02,-52.57623808471297,included_game_day
+1990,172,Cornell,1990-03-03,-63.02072464629799,included_game_day
+1991,172,Cornell,1990-11-26,-27.0,included_game_day
+1991,172,Cornell,1990-11-29,-22.25,included_game_day
+1991,172,Cornell,1990-12-01,-38.744,included_game_day
+1991,172,Cornell,1990-12-04,-23.8072,included_game_day
+1991,172,Cornell,1990-12-07,-10.22342,included_game_day
+1991,172,Cornell,1990-12-08,2.8563452,included_game_day
+1991,172,Cornell,1990-12-29,7.714292,included_game_day
+1991,172,Cornell,1991-01-03,-28.324987394213295,included_game_day
+1991,172,Cornell,1991-01-07,-41.679237808359176,included_game_day
+1991,172,Cornell,1991-01-11,-53.87178928610642,included_game_day
+1991,172,Cornell,1991-01-12,-44.75499012318281,included_game_day
+1991,172,Cornell,1991-01-19,-56.166403996046,included_game_day
+1991,172,Cornell,1991-01-21,-49.6709069900312,included_game_day
+1991,172,Cornell,1991-01-26,-48.50914851500787,included_game_day
+1991,172,Cornell,1991-02-01,-44.43421339162664,included_game_day
+1991,172,Cornell,1991-02-02,-59.24793556190462,included_game_day
+1991,172,Cornell,1991-02-08,-92.49683216308188,included_game_day
+1991,172,Cornell,1991-02-09,-84.49421381277054,included_game_day
+1991,172,Cornell,1991-02-15,-96.90141750292874,included_game_day
+1991,172,Cornell,1991-02-16,-87.85566212344976,included_game_day
+1991,172,Cornell,1991-02-22,-99.09621876556821,included_game_day
+1991,172,Cornell,1991-02-23,-90.49060362899107,included_game_day
+1991,172,Cornell,1991-03-01,-103.26715696039024,included_game_day
+1991,172,Cornell,1991-03-02,-97.41808727991503,included_game_day
+1992,172,Cornell,1991-11-23,-7.0,included_game_day
+1992,172,Cornell,1991-11-26,-10.3,included_game_day
+1992,172,Cornell,1991-12-01,-44.941,included_game_day
+1992,172,Cornell,1991-12-07,-44.75255,included_game_day
+1992,172,Cornell,1991-12-23,-70.03970546306,included_game_day
+1992,172,Cornell,1991-12-30,-49.708916016754,included_game_day
+1992,172,Cornell,1992-01-04,-37.27196578466402,included_game_day
+1992,172,Cornell,1992-01-07,-43.170763071723165,included_game_day
+1992,172,Cornell,1992-01-14,-43.42150063953225,included_game_day
+1992,172,Cornell,1992-01-18,-45.875744142837746,included_game_day
+1992,172,Cornell,1992-01-20,-62.360478856949676,included_game_day
+1992,172,Cornell,1992-01-25,-78.99697150821743,included_game_day
+1992,172,Cornell,1992-01-31,-79.25269293137183,included_game_day
+1992,172,Cornell,1992-02-01,-74.58131533280026,included_game_day
+1992,172,Cornell,1992-02-07,-71.1838485941843,included_game_day
+1992,172,Cornell,1992-02-08,-69.05449942384479,included_game_day
+1992,172,Cornell,1992-02-14,-58.52872626706696,included_game_day
+1992,172,Cornell,1992-02-15,-42.13006439710337,included_game_day
+1992,172,Cornell,1992-02-21,-33.688319066634726,included_game_day
+1992,172,Cornell,1992-02-22,-22.10252060246485,included_game_day
+1992,172,Cornell,1992-02-24,-29.573779789816058,included_game_day
+1992,172,Cornell,1992-02-28,-47.68423624461265,included_game_day
+1992,172,Cornell,1992-02-29,-51.53432373693274,included_game_day
+1992,172,Cornell,1992-03-06,-37.384096728107124,included_game_day
+1992,172,Cornell,1992-03-07,-47.52544887224536,included_game_day
+1993,172,Cornell,1992-12-01,-29.0,included_game_day
+1993,172,Cornell,1992-12-05,-21.2,included_game_day
+1993,172,Cornell,1992-12-21,-21.747593023999997,included_game_day
+1993,172,Cornell,1992-12-29,-24.533493188779996,included_game_day
+1993,172,Cornell,1992-12-30,2.6693495047780047,included_game_day
+1993,172,Cornell,1993-01-02,9.298083457008724,included_game_day
+1993,172,Cornell,1993-01-04,-10.165423951379266,included_game_day
+1993,172,Cornell,1993-01-09,-13.931276557491017,included_game_day
+1993,172,Cornell,1993-01-12,-8.837023041059352,included_game_day
+1993,172,Cornell,1993-01-16,-21.84336732260863,included_game_day
+1993,172,Cornell,1993-01-19,-16.46700023246816,included_game_day
+1993,172,Cornell,1993-01-23,-25.409712366721628,included_game_day
+1993,172,Cornell,1993-01-29,-26.341296598209198,included_game_day
+1993,172,Cornell,1993-01-30,-20.1668518972312,included_game_day
+1993,172,Cornell,1993-02-01,-10.445908565608036,included_game_day
+1993,172,Cornell,1993-02-05,-9.077682110855374,included_game_day
+1993,172,Cornell,1993-02-06,11.178770054154036,included_game_day
+1993,172,Cornell,1993-02-12,0.3631681491039451,included_game_day
+1993,172,Cornell,1993-02-13,6.954848047376114,included_game_day
+1993,172,Cornell,1993-02-19,15.274023361052967,included_game_day
+1993,172,Cornell,1993-02-20,12.72165827556444,included_game_day
+1993,172,Cornell,1993-02-26,10.84721565661877,included_game_day
+1993,172,Cornell,1993-02-27,11.415776822674918,included_game_day
+1993,172,Cornell,1993-03-05,13.613930450275156,included_game_day
+1993,172,Cornell,1993-03-06,26.537790134817623,included_game_day
+1994,172,Cornell,1993-11-27,-47.9,included_game_day
+1994,172,Cornell,1993-12-01,-72.97,included_game_day
+1994,172,Cornell,1993-12-04,-96.262,included_game_day
+1994,172,Cornell,1993-12-20,-100.207646309,included_game_day
+1994,172,Cornell,1993-12-29,-91.2051347044,included_game_day
+1994,172,Cornell,1993-12-30,-87.03845374409762,included_game_day
+1994,172,Cornell,1994-01-05,-87.65807928733064,included_game_day
+1994,172,Cornell,1994-01-08,-69.64550356715485,included_game_day
+1994,172,Cornell,1994-01-10,-81.50372705121895,included_game_day
+1994,172,Cornell,1994-01-15,-87.90633240990002,included_game_day
+1994,172,Cornell,1994-01-18,-102.23633002513571,included_game_day
+1994,172,Cornell,1994-01-22,-116.40797088687259,included_game_day
+1994,172,Cornell,1994-01-28,-119.82741044832981,included_game_day
+1994,172,Cornell,1994-01-29,-118.3767685590067,included_game_day
+1994,172,Cornell,1994-02-04,-126.17342966047987,included_game_day
+1994,172,Cornell,1994-02-05,-115.49508550430724,included_game_day
+1994,172,Cornell,1994-02-11,-89.0979091441136,included_game_day
+1994,172,Cornell,1994-02-12,-69.89956255534906,included_game_day
+1994,172,Cornell,1994-02-18,-68.13641015479442,included_game_day
+1994,172,Cornell,1994-02-19,-82.52584666577914,included_game_day
+1994,172,Cornell,1994-02-25,-79.26821145570958,included_game_day
+1994,172,Cornell,1994-02-26,-73.73051576726377,included_game_day
+1994,172,Cornell,1994-03-06,-75.80613139507403,included_game_day
+1994,172,Cornell,1994-03-07,-92.26859155717028,included_game_day
+1995,172,Cornell,1994-11-26,-8.0,included_game_day
+1995,172,Cornell,1994-12-02,-34.16,included_game_day
+1995,172,Cornell,1994-12-03,-31.566999999999997,included_game_day
+1995,172,Cornell,1994-12-17,-40.42782672999999,included_game_day
+1995,172,Cornell,1994-12-19,-31.764559156999994,included_game_day
+1995,172,Cornell,1994-12-29,-26.474013025765295,included_game_day
+1995,172,Cornell,1994-12-31,-52.223591358311765,included_game_day
+1995,172,Cornell,1995-01-04,-59.61950386718523,included_game_day
+1995,172,Cornell,1995-01-09,-71.44207384650707,included_game_day
+1995,172,Cornell,1995-01-14,-70.05613640388025,included_game_day
+1995,172,Cornell,1995-01-17,-64.44199909319394,included_game_day
+1995,172,Cornell,1995-01-21,-54.89466287016111,included_game_day
+1995,172,Cornell,1995-01-23,-67.62332334082959,included_game_day
+1995,172,Cornell,1995-01-27,-69.53726222207207,included_game_day
+1995,172,Cornell,1995-01-28,-79.35987442621143,included_game_day
+1995,172,Cornell,1995-02-03,-96.5137438422083,included_game_day
+1995,172,Cornell,1995-02-04,-88.29543919133202,included_game_day
+1995,172,Cornell,1995-02-10,-97.30763062673819,included_game_day
+1995,172,Cornell,1995-02-11,-108.71163520910815,included_game_day
+1995,172,Cornell,1995-02-17,-134.2308126576275,included_game_day
+1995,172,Cornell,1995-02-18,-121.58062837515557,included_game_day
+1995,172,Cornell,1995-02-24,-120.07247770340578,included_game_day
+1995,172,Cornell,1995-02-25,-141.36599085759417,included_game_day
+1995,172,Cornell,1995-03-03,-149.3551649396005,included_game_day
+1995,172,Cornell,1995-03-04,-156.22186962005787,included_game_day
+1996,172,Cornell,1995-11-27,-8.1,included_game_day
+1996,172,Cornell,1995-12-01,-10.29,included_game_day
+1996,172,Cornell,1995-12-02,-4.7139999999999995,included_game_day
+1996,172,Cornell,1995-12-06,8.2012,included_game_day
+1996,172,Cornell,1995-12-16,-6.9352326909999995,included_game_day
+1996,172,Cornell,1995-12-30,-12.887278454911929,included_game_day
+1996,172,Cornell,1996-01-02,-56.25800086369774,included_game_day
+1996,172,Cornell,1996-01-06,-70.03405221022521,included_game_day
+1996,172,Cornell,1996-01-12,-75.63440613021989,included_game_day
+1996,172,Cornell,1996-01-13,-80.8715571714264,included_game_day
+1996,172,Cornell,1996-01-15,-86.60178456086408,included_game_day
+1996,172,Cornell,1996-01-20,-77.97513830736014,included_game_day
+1996,172,Cornell,1996-01-22,-80.84550687872003,included_game_day
+1996,172,Cornell,1996-01-27,-70.65715301878089,included_game_day
+1996,172,Cornell,1996-02-02,-74.06190391197963,included_game_day
+1996,172,Cornell,1996-02-03,-63.159038487199886,included_game_day
+1996,172,Cornell,1996-02-09,-73.96589904719082,included_game_day
+1996,172,Cornell,1996-02-10,-58.58479528744701,included_game_day
+1996,172,Cornell,1996-02-16,-54.25412551015224,included_game_day
+1996,172,Cornell,1996-02-17,-54.05506868343862,included_game_day
+1996,172,Cornell,1996-02-23,-56.499103287115474,included_game_day
+1996,172,Cornell,1996-02-24,-53.154612755582825,included_game_day
+1996,172,Cornell,1996-02-27,-49.42932114514743,included_game_day
+1996,172,Cornell,1996-03-01,-56.832181563570444,included_game_day
+1996,172,Cornell,1996-03-02,-63.43619984698874,included_game_day
+1997,172,Cornell,1996-11-26,3.5999999999999996,included_game_day
+1997,172,Cornell,1996-11-30,5.72,included_game_day
+1997,172,Cornell,1996-12-06,-4.751219999999999,included_game_day
+1997,172,Cornell,1996-12-07,20.675072,included_game_day
+1997,172,Cornell,1996-12-14,-2.5473982,included_game_day
+1997,172,Cornell,1996-12-28,-16.479685406119998,included_game_day
+1997,172,Cornell,1996-12-29,-2.2699999331579974,included_game_day
+1997,172,Cornell,1997-01-03,11.579846069249582,included_game_day
+1997,172,Cornell,1997-01-06,9.15210191710145,included_game_day
+1997,172,Cornell,1997-01-10,6.939030806376708,included_game_day
+1997,172,Cornell,1997-01-11,-2.5103945998870625,included_game_day
+1997,172,Cornell,1997-01-14,5.444538274008982,included_game_day
+1997,172,Cornell,1997-01-18,12.31551148295412,included_game_day
+1997,172,Cornell,1997-01-21,-0.5961682077427728,included_game_day
+1997,172,Cornell,1997-01-25,1.0588017177127682,included_game_day
+1997,172,Cornell,1997-01-31,-21.33734152658397,included_game_day
+1997,172,Cornell,1997-02-01,-16.12769768894824,included_game_day
+1997,172,Cornell,1997-02-07,-1.8893885590146589,included_game_day
+1997,172,Cornell,1997-02-08,0.08477453590443584,included_game_day
+1997,172,Cornell,1997-02-14,-19.716571376927792,included_game_day
+1997,172,Cornell,1997-02-15,-18.666027433520092,included_game_day
+1997,172,Cornell,1997-02-21,-17.49804513004533,included_game_day
+1997,172,Cornell,1997-02-22,-22.17113425719443,included_game_day
+1997,172,Cornell,1997-02-28,-39.495540310221195,included_game_day
+1997,172,Cornell,1997-03-01,-45.452233721860814,included_game_day
+1998,172,Cornell,1997-11-17,-15.0,included_game_day
+1998,172,Cornell,1997-11-24,-15.7,included_game_day
+1998,172,Cornell,1997-11-28,-20.6454,included_game_day
+1998,172,Cornell,1997-12-05,-23.802307,included_game_day
+1998,172,Cornell,1997-12-06,-37.717223454,included_game_day
+1998,172,Cornell,1997-12-20,-42.678077298507,included_game_day
+1998,172,Cornell,1997-12-28,-40.83699169120865,included_game_day
+1998,172,Cornell,1997-12-29,-44.502539072223534,included_game_day
+1998,172,Cornell,1998-01-03,-60.402365504678095,included_game_day
+1998,172,Cornell,1998-01-09,-51.82135752147183,included_game_day
+1998,172,Cornell,1998-01-10,-50.23535093418164,included_game_day
+1998,172,Cornell,1998-01-13,-45.15152350400559,included_game_day
+1998,172,Cornell,1998-01-17,-42.83560233560473,included_game_day
+1998,172,Cornell,1998-01-24,-39.65997873269732,included_game_day
+1998,172,Cornell,1998-01-26,-39.17961994148503,included_game_day
+1998,172,Cornell,1998-01-30,-46.789221609868235,included_game_day
+1998,172,Cornell,1998-01-31,-50.655591306079444,included_game_day
+1998,172,Cornell,1998-02-06,-47.759677694521365,included_game_day
+1998,172,Cornell,1998-02-07,-64.17881470843967,included_game_day
+1998,172,Cornell,1998-02-13,-66.979595123599,included_game_day
+1998,172,Cornell,1998-02-14,-46.50451122206921,included_game_day
+1998,172,Cornell,1998-02-20,-44.54834830592266,included_game_day
+1998,172,Cornell,1998-02-21,-49.717234303451804,included_game_day
+1998,172,Cornell,1998-02-27,-42.62131318761474,included_game_day
+1998,172,Cornell,1998-02-28,-40.306580801772164,included_game_day
+1999,172,Cornell,1998-11-17,-5.9,included_game_day
+1999,172,Cornell,1998-11-21,1.8099999999999996,included_game_day
+1999,172,Cornell,1998-11-27,-8.571000000000002,included_game_day
+1999,172,Cornell,1998-11-28,-4.938300000000002,included_game_day
+1999,172,Cornell,1998-12-04,-16.7395359,included_game_day
+1999,172,Cornell,1998-12-05,-28.132209363999998,included_game_day
+1999,172,Cornell,1998-12-12,-30.234124298355997,included_game_day
+1999,172,Cornell,1998-12-20,-12.435152020574996,included_game_day
+1999,172,Cornell,1998-12-30,-7.076032378982034,included_game_day
+1999,172,Cornell,1999-01-02,-15.48111821521369,included_game_day
+1999,172,Cornell,1999-01-08,-33.459005518100454,included_game_day
+1999,172,Cornell,1999-01-09,-48.56043702588711,included_game_day
+1999,172,Cornell,1999-01-16,-35.54098548440433,included_game_day
+1999,172,Cornell,1999-01-18,-54.48196516115162,included_game_day
+1999,172,Cornell,1999-01-23,-63.17230596029067,included_game_day
+1999,172,Cornell,1999-01-29,-78.91247972225854,included_game_day
+1999,172,Cornell,1999-01-30,-76.08411210168134,included_game_day
+1999,172,Cornell,1999-02-05,-66.74897323492947,included_game_day
+1999,172,Cornell,1999-02-06,-39.97509719343458,included_game_day
+1999,172,Cornell,1999-02-12,-42.68898092624497,included_game_day
+1999,172,Cornell,1999-02-13,-27.381742317804978,included_game_day
+1999,172,Cornell,1999-02-19,-40.3546740191254,included_game_day
+1999,172,Cornell,1999-02-20,-35.80782166522697,included_game_day
+1999,172,Cornell,1999-02-26,-42.39021836791165,included_game_day
+1999,172,Cornell,1999-02-27,-25.544050181653763,included_game_day
+2000,172,Cornell,1999-11-21,13.5,included_game_day
+2000,172,Cornell,1999-11-23,4.589,included_game_day
+2000,172,Cornell,1999-11-27,5.210100000000001,included_game_day
+2000,172,Cornell,1999-11-29,-2.510909999999999,included_game_day
+2000,172,Cornell,1999-12-03,-6.774798999999999,included_game_day
+2000,172,Cornell,1999-12-04,-10.2607961,included_game_day
+2000,172,Cornell,1999-12-21,-10.42498843,included_game_day
+2000,172,Cornell,1999-12-22,-19.458992146857707,included_game_day
+2000,172,Cornell,1999-12-30,-22.658518914755636,included_game_day
+2000,172,Cornell,2000-01-04,-26.63686595484791,included_game_day
+2000,172,Cornell,2000-01-08,-19.51052255584079,included_game_day
+2000,172,Cornell,2000-01-14,-35.33798070318008,included_game_day
+2000,172,Cornell,2000-01-22,-39.999947221051514,included_game_day
+2000,172,Cornell,2000-01-28,-50.679020059598,included_game_day
+2000,172,Cornell,2000-01-29,-48.92634988080927,included_game_day
+2000,172,Cornell,2000-02-04,-57.92603123055903,included_game_day
+2000,172,Cornell,2000-02-05,-64.66603916661234,included_game_day
+2000,172,Cornell,2000-02-08,-68.27457765006142,included_game_day
+2000,172,Cornell,2000-02-11,-64.35829312272412,included_game_day
+2000,172,Cornell,2000-02-12,-72.13966042598314,included_game_day
+2000,172,Cornell,2000-02-18,-63.581671006404775,included_game_day
+2000,172,Cornell,2000-02-19,-84.46765391004553,included_game_day
+2000,172,Cornell,2000-02-25,-79.75087822845688,included_game_day
+2000,172,Cornell,2000-02-26,-72.46006227623057,included_game_day
+2000,172,Cornell,2000-03-03,-82.03635704140359,included_game_day
+2000,172,Cornell,2000-03-04,-95.95123078075748,included_game_day
+2001,172,Cornell,2000-11-18,-13.0,included_game_day
+2001,172,Cornell,2000-11-24,-38.36,included_game_day
+2001,172,Cornell,2000-11-25,-39.324,included_game_day
+2001,172,Cornell,2000-11-29,-25.851416,included_game_day
+2001,172,Cornell,2000-12-09,-46.4272927,included_game_day
+2001,172,Cornell,2000-12-16,-51.314045572059,included_game_day
+2001,172,Cornell,2000-12-22,-65.2075161894641,included_game_day
+2001,172,Cornell,2000-12-29,-74.57899341224382,included_game_day
+2001,172,Cornell,2000-12-30,-90.56333844252262,included_game_day
+2001,172,Cornell,2001-01-03,-73.53396721461205,included_game_day
+2001,172,Cornell,2001-01-06,-67.76627430008409,included_game_day
+2001,172,Cornell,2001-01-12,-86.89210887060341,included_game_day
+2001,172,Cornell,2001-01-13,-91.79877251972134,included_game_day
+2001,172,Cornell,2001-01-20,-88.38129290686757,included_game_day
+2001,172,Cornell,2001-01-27,-88.97728117834211,included_game_day
+2001,172,Cornell,2001-01-29,-86.86762481672736,included_game_day
+2001,172,Cornell,2001-02-02,-88.86300302340291,included_game_day
+2001,172,Cornell,2001-02-03,-93.89510819264804,included_game_day
+2001,172,Cornell,2001-02-09,-83.05717610911192,included_game_day
+2001,172,Cornell,2001-02-10,-110.51482574585111,included_game_day
+2001,172,Cornell,2001-02-16,-107.66893698582393,included_game_day
+2001,172,Cornell,2001-02-17,-83.78274204389754,included_game_day
+2001,172,Cornell,2001-02-23,-81.73408396878699,included_game_day
+2001,172,Cornell,2001-02-24,-92.1056667547571,included_game_day
+2001,172,Cornell,2001-03-02,-93.24716663065212,included_game_day
+2001,172,Cornell,2001-03-03,-94.74100277708247,included_game_day
+2002,172,Cornell Big Red,2001-11-16,-14.0,included_game_day
+2002,172,Cornell Big Red,2001-11-19,-35.7,included_game_day
+2002,172,Cornell Big Red,2001-11-26,-42.99369,included_game_day
+2002,172,Cornell Big Red,2001-11-29,-45.067692,included_game_day
+2002,172,Cornell Big Red,2001-12-01,-55.9178218,included_game_day
+2002,172,Cornell Big Red,2001-12-05,-65.31181658,included_game_day
+2002,172,Cornell Big Red,2001-12-08,-85.40797809200001,included_game_day
+2002,172,Cornell Big Red,2001-12-22,-74.22292529520001,included_game_day
+2002,172,Cornell Big Red,2001-12-28,-79.13640024848821,included_game_day
+2002,172,Cornell Big Red,2001-12-29,-81.12365184318975,included_game_day
+2002,172,Cornell Big Red,2002-01-02,-89.87372156887862,included_game_day
+2002,172,Cornell Big Red,2002-01-05,-62.2706867174888,included_game_day
+2002,172,Cornell Big Red,2002-01-11,-64.43866855299952,included_game_day
+2002,172,Cornell Big Red,2002-01-12,-55.36326447636435,included_game_day
+2002,172,Cornell Big Red,2002-01-19,-65.50908285527198,included_game_day
+2002,172,Cornell Big Red,2002-01-26,-75.62573755839809,included_game_day
+2002,172,Cornell Big Red,2002-02-01,-71.85389713460762,included_game_day
+2002,172,Cornell Big Red,2002-02-02,-82.42692606107279,included_game_day
+2002,172,Cornell Big Red,2002-02-08,-90.20375868553238,included_game_day
+2002,172,Cornell Big Red,2002-02-09,-81.48361805629227,included_game_day
+2002,172,Cornell Big Red,2002-02-15,-85.21876958351407,included_game_day
+2002,172,Cornell Big Red,2002-02-16,-82.21424493956093,included_game_day
+2002,172,Cornell Big Red,2002-02-22,-81.51559192275784,included_game_day
+2002,172,Cornell Big Red,2002-02-23,-68.91045416903243,included_game_day
+2002,172,Cornell Big Red,2002-03-01,-63.785255801636154,included_game_day
+2002,172,Cornell Big Red,2002-03-02,-74.54971422740256,included_game_day
+2003,172,Cornell Big Red,2002-11-22,9.0,included_game_day
+2003,172,Cornell Big Red,2002-11-26,-7.699999999999999,included_game_day
+2003,172,Cornell Big Red,2002-12-04,-23.617976,included_game_day
+2003,172,Cornell Big Red,2002-12-06,-38.1991784,included_game_day
+2003,172,Cornell Big Red,2002-12-08,-60.15401483,included_game_day
+2003,172,Cornell Big Red,2002-12-28,-66.79256127800001,included_game_day
+2003,172,Cornell Big Red,2002-12-30,-66.25531272961311,included_game_day
+2003,172,Cornell Big Red,2003-01-03,-45.560082597438196,included_game_day
+2003,172,Cornell Big Red,2003-01-05,-40.698253548776066,included_game_day
+2003,172,Cornell Big Red,2003-01-08,-55.914935925477934,included_game_day
+2003,172,Cornell Big Red,2003-01-13,-65.45948358605888,included_game_day
+2003,172,Cornell Big Red,2003-01-18,-59.277641185602185,included_game_day
+2003,172,Cornell Big Red,2003-01-21,-56.00120857051737,included_game_day
+2003,172,Cornell Big Red,2003-01-25,-56.383377911660496,included_game_day
+2003,172,Cornell Big Red,2003-01-31,-70.87117435431544,included_game_day
+2003,172,Cornell Big Red,2003-02-01,-99.3079494246584,included_game_day
+2003,172,Cornell Big Red,2003-02-07,-85.50396100939429,included_game_day
+2003,172,Cornell Big Red,2003-02-08,-93.79810322559318,included_game_day
+2003,172,Cornell Big Red,2003-02-14,-96.99377531876766,included_game_day
+2003,172,Cornell Big Red,2003-02-15,-71.81252940026914,included_game_day
+2003,172,Cornell Big Red,2003-02-21,-79.94215823628474,included_game_day
+2003,172,Cornell Big Red,2003-02-22,-75.25334120441953,included_game_day
+2003,172,Cornell Big Red,2003-02-28,-69.25052734203021,included_game_day
+2003,172,Cornell Big Red,2003-03-01,-87.57118360160429,included_game_day
+2003,172,Cornell Big Red,2003-03-07,-83.05522512343589,included_game_day
+2003,172,Cornell Big Red,2003-03-08,-80.14452369232376,included_game_day
+2004,172,Cornell Big Red,2003-11-23,-19.53,included_game_day
+2004,172,Cornell Big Red,2003-11-25,-28.177,included_game_day
+2004,172,Cornell Big Red,2003-11-29,-16.4803,included_game_day
+2004,172,Cornell Big Red,2003-12-05,-27.04357,included_game_day
+2004,172,Cornell Big Red,2003-12-07,-6.818516299999999,included_game_day
+2004,172,Cornell Big Red,2003-12-20,-9.443820959,included_game_day
+2004,172,Cornell Big Red,2003-12-29,-12.1463876637479,included_game_day
+2004,172,Cornell Big Red,2003-12-31,-8.015032377647941,included_game_day
+2004,172,Cornell Big Red,2004-01-03,-3.776633439193146,included_game_day
+2004,172,Cornell Big Red,2004-01-06,4.674476402412401,included_game_day
+2004,172,Cornell Big Red,2004-01-09,2.4229789147236405,included_game_day
+2004,172,Cornell Big Red,2004-01-17,16.590804014833417,included_game_day
+2004,172,Cornell Big Red,2004-01-20,8.461113961858294,included_game_day
+2004,172,Cornell Big Red,2004-01-24,15.608343047243627,included_game_day
+2004,172,Cornell Big Red,2004-01-30,21.290986480390103,included_game_day
+2004,172,Cornell Big Red,2004-01-31,19.71177376970928,included_game_day
+2004,172,Cornell Big Red,2004-02-06,32.83973793664626,included_game_day
+2004,172,Cornell Big Red,2004-02-07,9.79796603173683,included_game_day
+2004,172,Cornell Big Red,2004-02-13,2.677136018006852,included_game_day
+2004,172,Cornell Big Red,2004-02-14,-20.853213447181375,included_game_day
+2004,172,Cornell Big Red,2004-02-20,-10.981770355049957,included_game_day
+2004,172,Cornell Big Red,2004-02-21,-26.962819451648045,included_game_day
+2004,172,Cornell Big Red,2004-02-27,-29.142670132365406,included_game_day
+2004,172,Cornell Big Red,2004-02-28,-31.88848896895946,included_game_day
+2004,172,Cornell Big Red,2004-03-05,-35.84144858002095,included_game_day
+2004,172,Cornell Big Red,2004-03-06,-37.972132784566035,included_game_day
+2005,172,Cornell Big Red,2004-11-19,-1.0,included_game_day
+2005,172,Cornell Big Red,2004-11-20,-8.336,included_game_day
+2005,172,Cornell Big Red,2004-11-23,-20.912399999999998,included_game_day
+2005,172,Cornell Big Red,2004-12-01,-21.343559999999997,included_game_day
+2005,172,Cornell Big Red,2004-12-04,-16.817919399999997,included_game_day
+2005,172,Cornell Big Red,2004-12-06,-20.661537959999997,included_game_day
+2005,172,Cornell Big Red,2004-12-18,-34.6517804321,included_game_day
+2005,172,Cornell Big Red,2004-12-20,-30.303114407979997,included_game_day
+2005,172,Cornell Big Red,2004-12-28,-39.53614407938869,included_game_day
+2005,172,Cornell Big Red,2005-01-02,-34.199418703965556,included_game_day
+2005,172,Cornell Big Red,2005-01-04,-18.445692085740465,included_game_day
+2005,172,Cornell Big Red,2005-01-09,-24.499353643659397,included_game_day
+2005,172,Cornell Big Red,2005-01-15,-26.166681920626157,included_game_day
+2005,172,Cornell Big Red,2005-01-22,5.473465413830713,included_game_day
+2005,172,Cornell Big Red,2005-01-29,-11.347971783308694,included_game_day
+2005,172,Cornell Big Red,2005-01-30,-15.951991552092336,included_game_day
+2005,172,Cornell Big Red,2005-02-04,-16.3263821694887,included_game_day
+2005,172,Cornell Big Red,2005-02-05,-16.377500278648096,included_game_day
+2005,172,Cornell Big Red,2005-02-11,-4.425477840956395,included_game_day
+2005,172,Cornell Big Red,2005-02-12,-7.4417824211817845,included_game_day
+2005,172,Cornell Big Red,2005-02-18,-22.93904054279901,included_game_day
+2005,172,Cornell Big Red,2005-02-19,-14.362488724785159,included_game_day
+2005,172,Cornell Big Red,2005-02-25,-26.740201431481694,included_game_day
+2005,172,Cornell Big Red,2005-02-26,-23.631172481685553,included_game_day
+2005,172,Cornell Big Red,2005-03-04,-36.53507565930411,included_game_day
+2005,172,Cornell Big Red,2005-03-05,-16.422315412484462,included_game_day
+2006,172,Cornell Big Red,2005-11-08,24.0,included_game_day
+2006,172,Cornell Big Red,2005-11-09,22.4,included_game_day
+2006,172,Cornell Big Red,2005-11-19,11.159999999999998,included_game_day
+2006,172,Cornell Big Red,2005-11-22,20.107999999999997,included_game_day
+2006,172,Cornell Big Red,2005-11-26,17.532199999999996,included_game_day
+2006,172,Cornell Big Red,2005-11-29,3.1694999999999958,included_game_day
+2006,172,Cornell Big Red,2005-12-02,-11.863650000000003,included_game_day
+2006,172,Cornell Big Red,2005-12-04,-15.987377000000002,included_game_day
+2006,172,Cornell Big Red,2005-12-17,-52.231015075,included_game_day
+2006,172,Cornell Big Red,2005-12-20,-19.3275644354,included_game_day
+2006,172,Cornell Big Red,2005-12-30,-33.3089360333316,included_game_day
+2006,172,Cornell Big Red,2006-01-02,-29.858298473437195,included_game_day
+2006,172,Cornell Big Red,2006-01-09,-31.572920145046826,included_game_day
+2006,172,Cornell Big Red,2006-01-13,-63.94684943803746,included_game_day
+2006,172,Cornell Big Red,2006-01-14,-53.91130230318231,included_game_day
+2006,172,Cornell Big Red,2006-01-21,-58.479564995678,included_game_day
+2006,172,Cornell Big Red,2006-01-28,-33.13417514967455,included_game_day
+2006,172,Cornell Big Red,2006-02-03,-25.404321087268784,included_game_day
+2006,172,Cornell Big Red,2006-02-04,-22.99507381514891,included_game_day
+2006,172,Cornell Big Red,2006-02-10,-22.75717206300748,included_game_day
+2006,172,Cornell Big Red,2006-02-11,-31.066533606430326,included_game_day
+2006,172,Cornell Big Red,2006-02-17,-43.188892839769835,included_game_day
+2006,172,Cornell Big Red,2006-02-18,-45.202037103394815,included_game_day
+2006,172,Cornell Big Red,2006-02-24,-42.89613353102303,included_game_day
+2006,172,Cornell Big Red,2006-02-25,-54.70971925205397,included_game_day
+2006,172,Cornell Big Red,2006-03-03,-25.28305727180521,included_game_day
+2006,172,Cornell Big Red,2006-03-04,-21.831721322149697,included_game_day
+2007,172,Cornell Big Red,2006-11-10,6.0,included_game_day
+2007,172,Cornell Big Red,2006-11-13,7.3,included_game_day
+2007,172,Cornell Big Red,2006-11-17,-11.759999999999998,included_game_day
+2007,172,Cornell Big Red,2006-11-21,3.9670000000000023,included_game_day
+2007,172,Cornell Big Red,2006-11-25,6.065400000000002,included_game_day
+2007,172,Cornell Big Red,2006-11-28,-1.4776979999999984,included_game_day
+2007,172,Cornell Big Red,2006-12-01,4.508189500000001,included_game_day
+2007,172,Cornell Big Red,2006-12-02,1.549297875100001,included_game_day
+2007,172,Cornell Big Red,2006-12-16,-4.427325406809999,included_game_day
+2007,172,Cornell Big Red,2006-12-22,-10.786552113859788,included_game_day
+2007,172,Cornell Big Red,2006-12-30,-16.199477955874006,included_game_day
+2007,172,Cornell Big Red,2007-01-03,-7.446176844668901,included_game_day
+2007,172,Cornell Big Red,2007-01-07,-7.850979766676566,included_game_day
+2007,172,Cornell Big Red,2007-01-12,-27.360896199013407,included_game_day
+2007,172,Cornell Big Red,2007-01-13,-6.262050482863604,included_game_day
+2007,172,Cornell Big Red,2007-01-20,-0.8555181293906022,included_game_day
+2007,172,Cornell Big Red,2007-01-27,-1.530292246612201,included_game_day
+2007,172,Cornell Big Red,2007-02-02,8.170657105638039,included_game_day
+2007,172,Cornell Big Red,2007-02-03,1.8348311212642,included_game_day
+2007,172,Cornell Big Red,2007-02-09,-3.1952904639815634,included_game_day
+2007,172,Cornell Big Red,2007-02-10,-1.6488531469829133,included_game_day
+2007,172,Cornell Big Red,2007-02-16,2.6025043809653234,included_game_day
+2007,172,Cornell Big Red,2007-02-17,-1.616108913715213,included_game_day
+2007,172,Cornell Big Red,2007-02-23,-8.9452952589888,included_game_day
+2007,172,Cornell Big Red,2007-02-24,4.50733603458457,included_game_day
+2007,172,Cornell Big Red,2007-03-02,-12.186467518592819,included_game_day
+2007,172,Cornell Big Red,2007-03-03,3.3673490492639164,included_game_day
+2008,172,Cornell Big Red,2007-11-10,1.0,included_game_day
+2008,172,Cornell Big Red,2007-11-17,-8.6,included_game_day
+2008,172,Cornell Big Red,2007-11-20,1.8690000000000015,included_game_day
+2008,172,Cornell Big Red,2007-11-25,7.384400000000001,included_game_day
+2008,172,Cornell Big Red,2007-11-27,4.151282,included_game_day
+2008,172,Cornell Big Red,2007-12-01,-2.5858513,included_game_day
+2008,172,Cornell Big Red,2007-12-19,-15.5078590451849,included_game_day
+2008,172,Cornell Big Red,2007-12-22,-17.356992003282308,included_game_day
+2008,172,Cornell Big Red,2007-12-29,-0.17671406109778331,included_game_day
+2008,172,Cornell Big Red,2007-12-31,3.02707920778451,included_game_day
+2008,172,Cornell Big Red,2008-01-06,8.4384013783982,included_game_day
+2008,172,Cornell Big Red,2008-01-15,22.526875704362606,included_game_day
+2008,172,Cornell Big Red,2008-01-26,38.20889546687941,included_game_day
+2008,172,Cornell Big Red,2008-02-01,50.02690031150193,included_game_day
+2008,172,Cornell Big Red,2008-02-02,63.883968695270184,included_game_day
+2008,172,Cornell Big Red,2008-02-08,58.98024320353187,included_game_day
+2008,172,Cornell Big Red,2008-02-09,53.95482776334619,included_game_day
+2008,172,Cornell Big Red,2008-02-15,45.459505174770285,included_game_day
+2008,172,Cornell Big Red,2008-02-16,42.34341724277822,included_game_day
+2008,172,Cornell Big Red,2008-02-22,52.36823625526756,included_game_day
+2008,172,Cornell Big Red,2008-02-23,56.66899829607245,included_game_day
+2008,172,Cornell Big Red,2008-02-29,52.595676783509944,included_game_day
+2008,172,Cornell Big Red,2008-03-01,71.63696753174031,included_game_day
+2008,172,Cornell Big Red,2008-03-07,63.48950773628833,included_game_day
+2008,172,Cornell Big Red,2008-03-08,59.565450746013084,included_game_day
+2008,172,Cornell Big Red,2008-03-20,43.59611623979321,included_game_day
+2009,172,Cornell Big Red,2008-11-14,7.0,included_game_day
+2009,172,Cornell Big Red,2008-11-17,-4.0,included_game_day
+2009,172,Cornell Big Red,2008-11-18,2.6289999999999996,included_game_day
+2009,172,Cornell Big Red,2008-11-22,-9.9339,included_game_day
+2009,172,Cornell Big Red,2008-11-24,13.278150000000002,included_game_day
+2009,172,Cornell Big Red,2008-11-25,17.92362,included_game_day
+2009,172,Cornell Big Red,2008-11-30,-0.9207520000000002,included_game_day
+2009,172,Cornell Big Red,2008-12-03,-1.612616599999999,included_game_day
+2009,172,Cornell Big Red,2008-12-06,-11.25836314,included_game_day
+2009,172,Cornell Big Red,2008-12-20,-3.4774532888795697,included_game_day
+2009,172,Cornell Big Red,2008-12-22,0.47509094498138804,included_game_day
+2009,172,Cornell Big Red,2008-12-29,28.41563075797305,included_game_day
+2009,172,Cornell Big Red,2008-12-31,23.098551830268107,included_game_day
+2009,172,Cornell Big Red,2009-01-06,20.209738397532814,included_game_day
+2009,172,Cornell Big Red,2009-01-12,34.01065189236188,included_game_day
+2009,172,Cornell Big Red,2009-01-17,42.140565741084444,included_game_day
+2009,172,Cornell Big Red,2009-01-24,41.6444968200625,included_game_day
+2009,172,Cornell Big Red,2009-01-30,61.711989466325875,included_game_day
+2009,172,Cornell Big Red,2009-01-31,77.47481218441848,included_game_day
+2009,172,Cornell Big Red,2009-02-06,51.920010978496364,included_game_day
+2009,172,Cornell Big Red,2009-02-07,60.004244123578744,included_game_day
+2009,172,Cornell Big Red,2009-02-13,65.48075778398504,included_game_day
+2009,172,Cornell Big Red,2009-02-14,50.844904090853454,included_game_day
+2009,172,Cornell Big Red,2009-02-20,34.57546932251687,included_game_day
+2009,172,Cornell Big Red,2009-02-21,66.55076329808354,included_game_day
+2009,172,Cornell Big Red,2009-02-27,77.00879213058228,included_game_day
+2009,172,Cornell Big Red,2009-02-28,67.31434618150541,included_game_day
+2009,172,Cornell Big Red,2009-03-06,76.90043089435375,included_game_day
+2009,172,Cornell Big Red,2009-03-07,71.55993027190473,included_game_day
+2009,172,Cornell Big Red,2009-03-20,62.397939510235965,included_game_day
+2010,172,Cornell Big Red,2009-11-14,7.0,included_game_day
+2010,172,Cornell Big Red,2009-11-18,20.9,included_game_day
+2010,172,Cornell Big Red,2009-11-20,7.7669999999999995,included_game_day
+2010,172,Cornell Big Red,2009-11-24,4.891769999999999,included_game_day
+2010,172,Cornell Big Red,2009-11-27,18.842093,included_game_day
+2010,172,Cornell Big Red,2009-11-28,21.1033017,included_game_day
+2010,172,Cornell Big Red,2009-11-29,29.8026161,included_game_day
+2010,172,Cornell Big Red,2009-12-02,38.017291490000005,included_game_day
+2010,172,Cornell Big Red,2009-12-06,41.09285796100001,included_game_day
+2010,172,Cornell Big Red,2009-12-20,37.570222262165004,included_game_day
+2010,172,Cornell Big Red,2009-12-21,48.02532676550585,included_game_day
+2010,172,Cornell Big Red,2009-12-29,50.48144031811304,included_game_day
+2010,172,Cornell Big Red,2010-01-02,53.251803312168605,included_game_day
+2010,172,Cornell Big Red,2010-01-06,66.89776001305788,included_game_day
+2010,172,Cornell Big Red,2010-01-08,63.54647573470017,included_game_day
+2010,172,Cornell Big Red,2010-01-16,71.3962254403452,included_game_day
+2010,172,Cornell Big Red,2010-01-23,88.67602520486125,included_game_day
+2010,172,Cornell Big Red,2010-01-29,102.46341600359823,included_game_day
+2010,172,Cornell Big Red,2010-01-30,134.320968460528,included_game_day
+2010,172,Cornell Big Red,2010-02-05,131.8459314401468,included_game_day
+2010,172,Cornell Big Red,2010-02-06,120.1603644458194,included_game_day
+2010,172,Cornell Big Red,2010-02-12,84.97813904081771,included_game_day
+2010,172,Cornell Big Red,2010-02-13,86.45839621711872,included_game_day
+2010,172,Cornell Big Red,2010-02-19,94.64946307506676,included_game_day
+2010,172,Cornell Big Red,2010-02-20,94.35692617134897,included_game_day
+2010,172,Cornell Big Red,2010-02-26,88.17041434561787,included_game_day
+2010,172,Cornell Big Red,2010-02-27,88.75413374650877,included_game_day
+2010,172,Cornell Big Red,2010-03-05,97.5065691249916,included_game_day
+2010,172,Cornell Big Red,2010-03-06,106.09133670370973,included_game_day
+2010,172,Cornell Big Red,2010-03-19,121.13556545184196,included_game_day
+2010,172,Cornell Big Red,2010-03-21,142.4014336084878,included_game_day
+2010,172,Cornell Big Red,2010-03-25,132.26152940241508,included_game_day
+2011,172,Cornell Big Red,2010-11-12,7.0,included_game_day
+2011,172,Cornell Big Red,2010-11-14,-15.0,included_game_day
+2011,172,Cornell Big Red,2010-11-17,-4.1,included_game_day
+2011,172,Cornell Big Red,2010-11-19,-8.19,included_game_day
+2011,172,Cornell Big Red,2010-11-22,-6.9479999999999995,included_game_day
+2011,172,Cornell Big Red,2010-11-27,-6.262804999999999,included_game_day
+2011,172,Cornell Big Red,2010-11-30,-18.553865378999998,included_game_day
+2011,172,Cornell Big Red,2010-12-04,-14.685637841099997,included_game_day
+2011,172,Cornell Big Red,2010-12-18,-19.467936605896398,included_game_day
+2011,172,Cornell Big Red,2010-12-20,-30.05026661848526,included_game_day
+2011,172,Cornell Big Red,2010-12-29,-32.95015620580526,included_game_day
+2011,172,Cornell Big Red,2010-12-30,-22.996941568758313,included_game_day
+2011,172,Cornell Big Red,2011-01-03,-30.95079576763275,included_game_day
+2011,172,Cornell Big Red,2011-01-08,-27.109281762553174,included_game_day
+2011,172,Cornell Big Red,2011-01-15,-25.99488375817773,included_game_day
+2011,172,Cornell Big Red,2011-01-22,-31.103365354677372,included_game_day
+2011,172,Cornell Big Red,2011-01-28,-38.72328659398951,included_game_day
+2011,172,Cornell Big Red,2011-01-29,-48.011224304051794,included_game_day
+2011,172,Cornell Big Red,2011-02-04,-41.257604067298644,included_game_day
+2011,172,Cornell Big Red,2011-02-05,-24.565123346471495,included_game_day
+2011,172,Cornell Big Red,2011-02-11,-12.43932490254927,included_game_day
+2011,172,Cornell Big Red,2011-02-12,-9.440962987535958,included_game_day
+2011,172,Cornell Big Red,2011-02-18,-20.036387095087846,included_game_day
+2011,172,Cornell Big Red,2011-02-19,-11.017708825584974,included_game_day
+2011,172,Cornell Big Red,2011-02-25,-19.84953667567051,included_game_day
+2011,172,Cornell Big Red,2011-02-26,-12.060971227967482,included_game_day
+2011,172,Cornell Big Red,2011-03-04,-5.662956888083746,included_game_day
+2011,172,Cornell Big Red,2011-03-05,4.742897199825153,included_game_day
+2012,172,Cornell Big Red,2011-11-11,-18.0,included_game_day
+2012,172,Cornell Big Red,2011-11-14,-4.9,included_game_day
+2012,172,Cornell Big Red,2011-11-16,-10.01,included_game_day
+2012,172,Cornell Big Red,2011-11-20,-11.299,included_game_day
+2012,172,Cornell Big Red,2011-11-22,-15.5991,included_game_day
+2012,172,Cornell Big Red,2011-11-27,-18.48565,included_game_day
+2012,172,Cornell Big Red,2011-12-03,-10.144554935999999,included_game_day
+2012,172,Cornell Big Red,2011-12-17,-7.518077258219998,included_game_day
+2012,172,Cornell Big Red,2011-12-19,-1.739423446141977,included_game_day
+2012,172,Cornell Big Red,2011-12-21,-5.08996735771465,included_game_day
+2012,172,Cornell Big Red,2011-12-28,-12.694644233171845,included_game_day
+2012,172,Cornell Big Red,2011-12-31,-9.721950866714993,included_game_day
+2012,172,Cornell Big Red,2012-01-03,-14.742073618179239,included_game_day
+2012,172,Cornell Big Red,2012-01-13,-6.946718667795127,included_game_day
+2012,172,Cornell Big Red,2012-01-14,-22.610790073369856,included_game_day
+2012,172,Cornell Big Red,2012-01-21,-23.39507383593079,included_game_day
+2012,172,Cornell Big Red,2012-01-28,-20.02250084597954,included_game_day
+2012,172,Cornell Big Red,2012-02-03,-15.504358888673249,included_game_day
+2012,172,Cornell Big Red,2012-02-04,-7.7058525413150125,included_game_day
+2012,172,Cornell Big Red,2012-02-10,-8.526495556823711,included_game_day
+2012,172,Cornell Big Red,2012-02-11,-12.176616252692499,included_game_day
+2012,172,Cornell Big Red,2012-02-17,-13.601213748710332,included_game_day
+2012,172,Cornell Big Red,2012-02-18,-24.334139590877115,included_game_day
+2012,172,Cornell Big Red,2012-02-24,-23.383263144148703,included_game_day
+2012,172,Cornell Big Red,2012-02-25,-47.6279727860136,included_game_day
+2012,172,Cornell Big Red,2012-03-02,-40.865554926462785,included_game_day
+2012,172,Cornell Big Red,2012-03-03,-36.34083913866049,included_game_day
+2013,172,Cornell Big Red,2012-11-10,5.0,included_game_day
+2013,172,Cornell Big Red,2012-11-14,-1.7999999999999998,included_game_day
+2013,172,Cornell Big Red,2012-11-16,-8.0,included_game_day
+2013,172,Cornell Big Red,2012-11-18,-34.951,included_game_day
+2013,172,Cornell Big Red,2012-11-20,-36.188900000000004,included_game_day
+2013,172,Cornell Big Red,2012-11-23,-10.308400000000002,included_game_day
+2013,172,Cornell Big Red,2012-11-24,-13.966490000000002,included_game_day
+2013,172,Cornell Big Red,2012-11-28,-38.067223500000004,included_game_day
+2013,172,Cornell Big Red,2012-12-01,-33.95708725,included_game_day
+2013,172,Cornell Big Red,2012-12-17,-38.971471464653,included_game_day
+2013,172,Cornell Big Red,2012-12-19,-60.8626273033977,included_game_day
+2013,172,Cornell Big Red,2012-12-22,-62.39143003202793,included_game_day
+2013,172,Cornell Big Red,2012-12-28,-50.81735740432859,included_game_day
+2013,172,Cornell Big Red,2012-12-30,-51.19428944227713,included_game_day
+2013,172,Cornell Big Red,2013-01-02,-57.69700704469053,included_game_day
+2013,172,Cornell Big Red,2013-01-06,-46.59706948140757,included_game_day
+2013,172,Cornell Big Red,2013-01-19,-52.880103463334315,included_game_day
+2013,172,Cornell Big Red,2013-01-26,-39.90653064887571,included_game_day
+2013,172,Cornell Big Red,2013-02-01,-46.44498834541062,included_game_day
+2013,172,Cornell Big Red,2013-02-02,-41.60725442052843,included_game_day
+2013,172,Cornell Big Red,2013-02-08,-39.02160295658887,included_game_day
+2013,172,Cornell Big Red,2013-02-10,-19.444025334596628,included_game_day
+2013,172,Cornell Big Red,2013-02-15,-8.49595210706853,included_game_day
+2013,172,Cornell Big Red,2013-02-16,-6.412838876472991,included_game_day
+2013,172,Cornell Big Red,2013-02-22,-20.73591910693331,included_game_day
+2013,172,Cornell Big Red,2013-02-23,-35.0110602483815,included_game_day
+2013,172,Cornell Big Red,2013-03-01,-59.34617158012439,included_game_day
+2013,172,Cornell Big Red,2013-03-02,-67.30932355263711,included_game_day
+2013,172,Cornell Big Red,2013-03-08,-77.87625605189635,included_game_day
+2013,172,Cornell Big Red,2013-03-09,-72.34253871919336,included_game_day
+2014,172,Cornell Big Red,2013-11-08,-19.0,included_game_day
+2014,172,Cornell Big Red,2013-11-10,-23.3,included_game_day
+2014,172,Cornell Big Red,2013-11-13,-36.09,included_game_day
+2014,172,Cornell Big Red,2013-11-15,-70.144,included_game_day
+2014,172,Cornell Big Red,2013-11-20,-85.14160000000001,included_game_day
+2014,172,Cornell Big Red,2013-11-22,-82.17534,included_game_day
+2014,172,Cornell Big Red,2013-11-25,-92.18579600000001,included_game_day
+2014,172,Cornell Big Red,2013-11-29,-93.41830397000001,included_game_day
+2014,172,Cornell Big Red,2013-12-01,-109.92099157300001,included_game_day
+2014,172,Cornell Big Red,2013-12-07,-120.9601956324,included_game_day
+2014,172,Cornell Big Red,2013-12-22,-125.8099956590619,included_game_day
+2014,172,Cornell Big Red,2013-12-28,-120.65365597023671,included_game_day
+2014,172,Cornell Big Red,2014-01-04,-125.67151020757144,included_game_day
+2014,172,Cornell Big Red,2014-01-18,-113.74730087215738,included_game_day
+2014,172,Cornell Big Red,2014-01-25,-116.20793340382613,included_game_day
+2014,172,Cornell Big Red,2014-01-31,-113.31513528403117,included_game_day
+2014,172,Cornell Big Red,2014-02-01,-104.5188299027331,included_game_day
+2014,172,Cornell Big Red,2014-02-07,-104.14467880762646,included_game_day
+2014,172,Cornell Big Red,2014-02-08,-108.57877105037129,included_game_day
+2014,172,Cornell Big Red,2014-02-14,-102.22532729849215,included_game_day
+2014,172,Cornell Big Red,2014-02-15,-110.31543658133876,included_game_day
+2014,172,Cornell Big Red,2014-02-21,-117.36172822611414,included_game_day
+2014,172,Cornell Big Red,2014-02-22,-112.89715480428535,included_game_day
+2014,172,Cornell Big Red,2014-02-28,-113.20778595648613,included_game_day
+2014,172,Cornell Big Red,2014-03-01,-114.12611774985827,included_game_day
+2014,172,Cornell Big Red,2014-03-07,-142.08511395933172,included_game_day
+2014,172,Cornell Big Red,2014-03-08,-141.84227292431402,included_game_day
+2015,172,Cornell Big Red,2014-11-14,11.0,included_game_day
+2015,172,Cornell Big Red,2014-11-16,7.0,included_game_day
+2015,172,Cornell Big Red,2014-11-18,9.1,included_game_day
+2015,172,Cornell Big Red,2014-11-20,-14.15,included_game_day
+2015,172,Cornell Big Red,2014-11-21,-12.222000000000001,included_game_day
+2015,172,Cornell Big Red,2014-11-23,-16.4107,included_game_day
+2015,172,Cornell Big Red,2014-11-26,-9.660229999999999,included_game_day
+2015,172,Cornell Big Red,2014-11-29,0.05776400000000237,included_game_day
+2015,172,Cornell Big Red,2014-12-06,7.699114500000002,included_game_day
+2015,172,Cornell Big Red,2014-12-21,-4.040009253583499,included_game_day
+2015,172,Cornell Big Red,2014-12-23,15.310380396163353,included_game_day
+2015,172,Cornell Big Red,2014-12-28,4.175727949949604,included_game_day
+2015,172,Cornell Big Red,2014-12-31,-1.1665975186709314,included_game_day
+2015,172,Cornell Big Red,2015-01-03,-10.57514998211091,included_game_day
+2015,172,Cornell Big Red,2015-01-08,-6.588503895663584,included_game_day
+2015,172,Cornell Big Red,2015-01-17,-11.432776540641031,included_game_day
+2015,172,Cornell Big Red,2015-01-24,3.691805343377011,included_game_day
+2015,172,Cornell Big Red,2015-01-30,4.515674465479439,included_game_day
+2015,172,Cornell Big Red,2015-01-31,-4.15616336193378,included_game_day
+2015,172,Cornell Big Red,2015-02-06,-13.307200896979678,included_game_day
+2015,172,Cornell Big Red,2015-02-07,-4.898663396472033,included_game_day
+2015,172,Cornell Big Red,2015-02-13,6.759457978783143,included_game_day
+2015,172,Cornell Big Red,2015-02-14,-7.036322400845185,included_game_day
+2015,172,Cornell Big Red,2015-02-20,-7.6263033684807535,included_game_day
+2015,172,Cornell Big Red,2015-02-21,-9.575444634601727,included_game_day
+2015,172,Cornell Big Red,2015-02-27,3.0758896858881624,included_game_day
+2015,172,Cornell Big Red,2015-02-28,-11.29326067227614,included_game_day
+2015,172,Cornell Big Red,2015-03-06,-18.30927376484332,included_game_day
+2015,172,Cornell Big Red,2015-03-07,-26.828413499908027,included_game_day
+2016,172,Cornell Big Red,2015-11-13,-32.0,included_game_day
+2016,172,Cornell Big Red,2015-11-16,-21.2,included_game_day
+2016,172,Cornell Big Red,2015-11-18,-7.51,included_game_day
+2016,172,Cornell Big Red,2015-11-21,-28.948999999999998,included_game_day
+2016,172,Cornell Big Red,2015-11-25,-67.0541,included_game_day
+2016,172,Cornell Big Red,2015-11-29,-63.92549,included_game_day
+2016,172,Cornell Big Red,2015-12-01,-60.017425,included_game_day
+2016,172,Cornell Big Red,2015-12-05,-45.612640620200004,included_game_day
+2016,172,Cornell Big Red,2015-12-19,-55.8569850552522,included_game_day
+2016,172,Cornell Big Red,2015-12-23,-56.38452183316831,included_game_day
+2016,172,Cornell Big Red,2015-12-28,-46.09780277281371,included_game_day
+2016,172,Cornell Big Red,2016-01-02,-45.99553045788092,included_game_day
+2016,172,Cornell Big Red,2016-01-06,-41.550290716189096,included_game_day
+2016,172,Cornell Big Red,2016-01-16,-37.25358102765847,included_game_day
+2016,172,Cornell Big Red,2016-01-23,-46.81621327683397,included_game_day
+2016,172,Cornell Big Red,2016-01-29,-25.63195231614545,included_game_day
+2016,172,Cornell Big Red,2016-01-30,-19.114317211922987,included_game_day
+2016,172,Cornell Big Red,2016-02-05,-26.191429413743837,included_game_day
+2016,172,Cornell Big Red,2016-02-06,-41.963092404183065,included_game_day
+2016,172,Cornell Big Red,2016-02-12,-61.60428171593603,included_game_day
+2016,172,Cornell Big Red,2016-02-13,-68.80751546893259,included_game_day
+2016,172,Cornell Big Red,2016-02-19,-79.30048629557069,included_game_day
+2016,172,Cornell Big Red,2016-02-20,-79.50898967459752,included_game_day
+2016,172,Cornell Big Red,2016-02-26,-83.6735556925491,included_game_day
+2016,172,Cornell Big Red,2016-02-27,-76.41316449969206,included_game_day
+2016,172,Cornell Big Red,2016-03-04,-86.37657610116418,included_game_day
+2016,172,Cornell Big Red,2016-03-05,-81.46644968141618,included_game_day
+2017,172,Cornell Big Red,2016-11-11,-3.0,included_game_day
+2017,172,Cornell Big Red,2016-11-13,-10.7,included_game_day
+2017,172,Cornell Big Red,2016-11-16,-19.13,included_game_day
+2017,172,Cornell Big Red,2016-11-20,-9.825,included_game_day
+2017,172,Cornell Big Red,2016-11-22,-20.7363,included_game_day
+2017,172,Cornell Big Red,2016-11-26,-37.228840899999994,included_game_day
+2017,172,Cornell Big Red,2016-11-30,-32.285280699999994,included_game_day
+2017,172,Cornell Big Red,2016-12-17,-44.645638182649996,included_game_day
+2017,172,Cornell Big Red,2016-12-19,-40.849165019794796,included_game_day
+2017,172,Cornell Big Red,2016-12-22,-44.481814313586796,included_game_day
+2017,172,Cornell Big Red,2016-12-23,-28.057962526258144,included_game_day
+2017,172,Cornell Big Red,2016-12-27,-41.69093075176512,included_game_day
+2017,172,Cornell Big Red,2016-12-29,-47.38585278059373,included_game_day
+2017,172,Cornell Big Red,2017-01-02,-49.81709303429376,included_game_day
+2017,172,Cornell Big Red,2017-01-14,-53.28290838380621,included_game_day
+2017,172,Cornell Big Red,2017-01-21,-41.055560663416166,included_game_day
+2017,172,Cornell Big Red,2017-01-27,-43.26723460253734,included_game_day
+2017,172,Cornell Big Red,2017-01-28,-35.36586579712623,included_game_day
+2017,172,Cornell Big Red,2017-02-03,-49.02269216218246,included_game_day
+2017,172,Cornell Big Red,2017-02-04,-49.4429331095249,included_game_day
+2017,172,Cornell Big Red,2017-02-10,-43.007479726317996,included_game_day
+2017,172,Cornell Big Red,2017-02-12,-56.46346627091836,included_game_day
+2017,172,Cornell Big Red,2017-02-17,-48.50796544254787,included_game_day
+2017,172,Cornell Big Red,2017-02-18,-47.92810292843165,included_game_day
+2017,172,Cornell Big Red,2017-02-24,-45.37896568518323,included_game_day
+2017,172,Cornell Big Red,2017-02-25,-49.42778090963485,included_game_day
+2017,172,Cornell Big Red,2017-03-03,-68.49970843262841,included_game_day
+2017,172,Cornell Big Red,2017-03-04,-48.79451545413063,included_game_day
+2018,172,Cornell Big Red,2017-11-10,-29.0,included_game_day
+2018,172,Cornell Big Red,2017-11-13,-17.7,included_game_day
+2018,172,Cornell Big Red,2017-11-16,-24.83,included_game_day
+2018,172,Cornell Big Red,2017-11-19,-39.637,included_game_day
+2018,172,Cornell Big Red,2017-11-24,-33.858157,included_game_day
+2018,172,Cornell Big Red,2017-11-27,-20.4074413,included_game_day
+2018,172,Cornell Big Red,2017-12-02,-34.944359381,included_game_day
+2018,172,Cornell Big Red,2017-12-16,-33.101585694266696,included_game_day
+2018,172,Cornell Big Red,2017-12-20,-29.11947857066003,included_game_day
+2018,172,Cornell Big Red,2017-12-23,-35.74498466395521,included_game_day
+2018,172,Cornell Big Red,2017-12-28,-32.77689696344983,included_game_day
+2018,172,Cornell Big Red,2017-12-30,-37.50329549497268,included_game_day
+2018,172,Cornell Big Red,2018-01-12,-34.95290273714602,included_game_day
+2018,172,Cornell Big Red,2018-01-13,-62.45719326880952,included_game_day
+2018,172,Cornell Big Red,2018-01-20,-83.15857658035492,included_game_day
+2018,172,Cornell Big Red,2018-01-27,-78.71968322959124,included_game_day
+2018,172,Cornell Big Red,2018-02-02,-79.03978767865944,included_game_day
+2018,172,Cornell Big Red,2018-02-03,-77.25865701828323,included_game_day
+2018,172,Cornell Big Red,2018-02-09,-50.19860760788899,included_game_day
+2018,172,Cornell Big Red,2018-02-10,-52.73344752995432,included_game_day
+2018,172,Cornell Big Red,2018-02-16,-46.14554509103735,included_game_day
+2018,172,Cornell Big Red,2018-02-17,-48.37899299814642,included_game_day
+2018,172,Cornell Big Red,2018-02-23,-49.57728650711232,included_game_day
+2018,172,Cornell Big Red,2018-02-24,-46.732844322746814,included_game_day
+2018,172,Cornell Big Red,2018-03-02,-45.80668290339848,included_game_day
+2018,172,Cornell Big Red,2018-03-03,-34.29616939764493,included_game_day
+2018,172,Cornell Big Red,2018-03-10,-45.68613256011503,included_game_day
+2019,172,Cornell Big Red,2018-11-06,14.0,included_game_day
+2019,172,Cornell Big Red,2018-11-11,-5.670000000000002,included_game_day
+2019,172,Cornell Big Red,2018-11-15,-24.733,included_game_day
+2019,172,Cornell Big Red,2018-11-17,-4.575700000000001,included_game_day
+2019,172,Cornell Big Red,2018-11-20,-16.55789,included_game_day
+2019,172,Cornell Big Red,2018-11-28,-9.951673,included_game_day
+2019,172,Cornell Big Red,2018-12-01,-8.65513326,included_game_day
+2019,172,Cornell Big Red,2018-12-16,-9.964344621019999,included_game_day
+2019,172,Cornell Big Red,2018-12-17,-6.367325335387999,included_game_day
+2019,172,Cornell Big Red,2018-12-19,-10.467545036899267,included_game_day
+2019,172,Cornell Big Red,2018-12-22,-30.82396829126264,included_game_day
+2019,172,Cornell Big Red,2018-12-30,-27.207213932446365,included_game_day
+2019,172,Cornell Big Red,2019-01-02,-44.01351136677335,included_game_day
+2019,172,Cornell Big Red,2019-01-09,-29.61522740502439,included_game_day
+2019,172,Cornell Big Red,2019-01-19,-30.647117343300383,included_game_day
+2019,172,Cornell Big Red,2019-01-26,-29.472629293921173,included_game_day
+2019,172,Cornell Big Red,2019-02-01,-19.057887907849825,included_game_day
+2019,172,Cornell Big Red,2019-02-02,-28.555836196309066,included_game_day
+2019,172,Cornell Big Red,2019-02-08,-21.81540568624972,included_game_day
+2019,172,Cornell Big Red,2019-02-09,-6.8956025177368865,included_game_day
+2019,172,Cornell Big Red,2019-02-15,-3.8158706222920324,included_game_day
+2019,172,Cornell Big Red,2019-02-16,-5.761964291353513,included_game_day
+2019,172,Cornell Big Red,2019-02-22,-12.094913815044643,included_game_day
+2019,172,Cornell Big Red,2019-02-23,-26.427431777566447,included_game_day
+2019,172,Cornell Big Red,2019-03-01,-37.1404520458663,included_game_day
+2019,172,Cornell Big Red,2019-03-02,-53.96653433303494,included_game_day
+2019,172,Cornell Big Red,2019-03-08,-34.28746164146327,included_game_day
+2019,172,Cornell Big Red,2019-03-09,-21.661441597449244,included_game_day
+2019,172,Cornell Big Red,2019-03-19,-29.471314134375014,included_game_day
+2020,172,Cornell Big Red,2019-11-05,17.0,included_game_day
+2020,172,Cornell Big Red,2019-11-10,16.95,included_game_day
+2020,172,Cornell Big Red,2019-11-13,8.905,included_game_day
+2020,172,Cornell Big Red,2019-11-16,-6.0105,included_game_day
+2020,172,Cornell Big Red,2019-11-20,-20.13245,included_game_day
+2020,172,Cornell Big Red,2019-11-23,-20.734061999999998,included_game_day
+2020,172,Cornell Big Red,2019-11-26,-27.957367299999998,included_game_day
+2020,172,Cornell Big Red,2019-12-07,-28.642766861,included_game_day
+2020,172,Cornell Big Red,2019-12-11,-32.2743075824,included_game_day
+2020,172,Cornell Big Red,2019-12-22,-35.4550316955909,included_game_day
+2020,172,Cornell Big Red,2019-12-29,-51.48378057921997,included_game_day
+2020,172,Cornell Big Red,2020-01-18,-62.713499422299236,included_game_day
+2020,172,Cornell Big Red,2020-01-25,-51.697274496762645,included_game_day
+2020,172,Cornell Big Red,2020-01-31,-56.6994585321903,included_game_day
+2020,172,Cornell Big Red,2020-02-01,-54.13836079118015,included_game_day
+2020,172,Cornell Big Red,2020-02-08,-39.0749873315911,included_game_day
+2020,172,Cornell Big Red,2020-02-09,-43.79115763290863,included_game_day
+2020,172,Cornell Big Red,2020-02-14,-54.30285312619294,included_game_day
+2020,172,Cornell Big Red,2020-02-15,-71.85287338956567,included_game_day
+2020,172,Cornell Big Red,2020-02-21,-60.181591346168474,included_game_day
+2020,172,Cornell Big Red,2020-02-22,-40.35469318985912,included_game_day
+2020,172,Cornell Big Red,2020-02-28,-53.21674724911373,included_game_day
+2020,172,Cornell Big Red,2020-02-29,-56.605126303800475,included_game_day
+2020,172,Cornell Big Red,2020-03-06,-60.74129380396447,included_game_day
+2020,172,Cornell Big Red,2020-03-07,-44.248326780061895,included_game_day
+2021,172,Cornell Big Red,2021-04-05,0,zero_game_snapshot
+2022,172,Cornell Big Red,2021-11-09,10.0,included_game_day
+2022,172,Cornell Big Red,2021-11-12,13.9,included_game_day
+2022,172,Cornell Big Red,2021-11-16,20.02,included_game_day
+2022,172,Cornell Big Red,2021-11-22,9.8594,included_game_day
+2022,172,Cornell Big Red,2021-11-24,16.86046,included_game_day
+2022,172,Cornell Big Red,2021-11-29,29.176610675,included_game_day
+2022,172,Cornell Big Red,2021-12-03,33.31399655925,included_game_day
+2022,172,Cornell Big Red,2021-12-08,6.276331116475003,included_game_day
+2022,172,Cornell Big Red,2021-12-29,0.5096278062905135,included_game_day
+2022,172,Cornell Big Red,2022-01-02,2.517527619585496,included_game_day
+2022,172,Cornell Big Red,2022-01-07,-12.120981425735913,included_game_day
+2022,172,Cornell Big Red,2022-01-08,-7.3025748509605615,included_game_day
+2022,172,Cornell Big Red,2022-01-15,-33.59981141243511,included_game_day
+2022,172,Cornell Big Red,2022-01-22,-18.49708636646709,included_game_day
+2022,172,Cornell Big Red,2022-01-30,-11.452077617606722,included_game_day
+2022,172,Cornell Big Red,2022-02-04,-7.319790350220965,included_game_day
+2022,172,Cornell Big Red,2022-02-05,-15.071215151815483,included_game_day
+2022,172,Cornell Big Red,2022-02-09,-16.669265637923928,included_game_day
+2022,172,Cornell Big Red,2022-02-12,-21.556658528949715,included_game_day
+2022,172,Cornell Big Red,2022-02-18,-34.15193381152208,included_game_day
+2022,172,Cornell Big Red,2022-02-19,-34.89432903680363,included_game_day
+2022,172,Cornell Big Red,2022-02-26,-26.00916366221388,included_game_day
+2022,172,Cornell Big Red,2022-03-05,-20.90851569042423,included_game_day
+2022,172,Cornell Big Red,2022-03-12,-14.471295004668388,included_game_day
+2023,172,Cornell Big Red,2022-11-07,1.0,included_game_day
+2023,172,Cornell Big Red,2022-11-14,8.0,included_game_day
+2023,172,Cornell Big Red,2022-11-22,11.696,included_game_day
+2023,172,Cornell Big Red,2022-11-25,22.0848,included_game_day
+2023,172,Cornell Big Red,2022-12-01,29.28290833,included_game_day
+2023,172,Cornell Big Red,2022-12-04,24.629891954,included_game_day
+2023,172,Cornell Big Red,2022-12-07,30.4646563871,included_game_day
+2023,172,Cornell Big Red,2022-12-17,18.76488277059279,included_game_day
+2023,172,Cornell Big Red,2022-12-20,39.817903947371335,included_game_day
+2023,172,Cornell Big Red,2022-12-22,51.31715828901978,included_game_day
+2023,172,Cornell Big Red,2022-12-29,51.914364798909915,included_game_day
+2023,172,Cornell Big Red,2023-01-01,55.46117328686023,included_game_day
+2023,172,Cornell Big Red,2023-01-06,67.27587127825008,included_game_day
+2023,172,Cornell Big Red,2023-01-07,56.197814420006594,included_game_day
+2023,172,Cornell Big Red,2023-01-13,64.48537364523673,included_game_day
+2023,172,Cornell Big Red,2023-01-16,68.42460695707685,included_game_day
+2023,172,Cornell Big Red,2023-01-21,60.49745196710147,included_game_day
+2023,172,Cornell Big Red,2023-01-28,59.14317763268462,included_game_day
+2023,172,Cornell Big Red,2023-02-03,53.41573897780793,included_game_day
+2023,172,Cornell Big Red,2023-02-04,47.686819280188374,included_game_day
+2023,172,Cornell Big Red,2023-02-11,34.48120608957704,included_game_day
+2023,172,Cornell Big Red,2023-02-17,37.570920822809626,included_game_day
+2023,172,Cornell Big Red,2023-02-18,14.207806686432825,included_game_day
+2023,172,Cornell Big Red,2023-02-25,7.48442559206161,included_game_day
+2023,172,Cornell Big Red,2023-03-04,7.078935148462865,included_game_day
+2023,172,Cornell Big Red,2023-03-11,-2.9324665474258556,included_game_day
+2024,172,Cornell Big Red,2023-11-06,9.0,included_game_day
+2024,172,Cornell Big Red,2023-11-11,16.2,included_game_day
+2024,172,Cornell Big Red,2023-11-15,13.2,included_game_day
+2024,172,Cornell Big Red,2023-11-19,25.398,included_game_day
+2024,172,Cornell Big Red,2023-11-20,35.4726,included_game_day
+2024,172,Cornell Big Red,2023-11-29,31.3928405,included_game_day
+2024,172,Cornell Big Red,2023-12-02,31.996207209999998,included_game_day
+2024,172,Cornell Big Red,2023-12-05,20.244944202539997,included_game_day
+2024,172,Cornell Big Red,2023-12-19,28.207889330107797,included_game_day
+2024,172,Cornell Big Red,2023-12-22,28.959496991230008,included_game_day
+2024,172,Cornell Big Red,2023-12-30,35.269777776745116,included_game_day
+2024,172,Cornell Big Red,2024-01-02,27.768989089216657,included_game_day
+2024,172,Cornell Big Red,2024-01-09,34.22083448300835,included_game_day
+2024,172,Cornell Big Red,2024-01-15,44.86087139680383,included_game_day
+2024,172,Cornell Big Red,2024-01-20,40.0668159584013,included_game_day
+2024,172,Cornell Big Red,2024-01-27,56.61810579213168,included_game_day
+2024,172,Cornell Big Red,2024-02-02,46.8501570763608,included_game_day
+2024,172,Cornell Big Red,2024-02-03,54.4800538603633,included_game_day
+2024,172,Cornell Big Red,2024-02-10,56.80733413970895,included_game_day
+2024,172,Cornell Big Red,2024-02-16,57.590899257010484,included_game_day
+2024,172,Cornell Big Red,2024-02-17,47.068324108026964,included_game_day
+2024,172,Cornell Big Red,2024-02-23,48.67998206026894,included_game_day
+2024,172,Cornell Big Red,2024-02-24,33.78670465699947,included_game_day
+2024,172,Cornell Big Red,2024-03-01,35.62674527642198,included_game_day
+2024,172,Cornell Big Red,2024-03-02,40.19432622526249,included_game_day
+2024,172,Cornell Big Red,2024-03-09,57.7314402723906,included_game_day
+2024,172,Cornell Big Red,2024-03-16,46.10284347432658,included_game_day
+2024,172,Cornell Big Red,2024-03-19,50.680182880586656,included_game_day
+2025,172,Cornell Big Red,2024-11-08,-1.0,included_game_day
+2025,172,Cornell Big Red,2024-11-12,-11.29,included_game_day
+2025,172,Cornell Big Red,2024-11-16,-5.539999999999999,included_game_day
+2025,172,Cornell Big Red,2024-11-21,-18.6005,included_game_day
+2025,172,Cornell Big Red,2024-11-25,-3.591850000000001,included_game_day
+2025,172,Cornell Big Red,2024-11-27,-9.1127115,included_game_day
+2025,172,Cornell Big Red,2024-12-04,17.7136237908,included_game_day
+2025,172,Cornell Big Red,2024-12-08,36.12731636056,included_game_day
+2025,172,Cornell Big Red,2024-12-10,46.682657459544004,included_game_day
+2025,172,Cornell Big Red,2024-12-22,37.119531031826604,included_game_day
+2025,172,Cornell Big Red,2024-12-30,20.31468420221269,included_game_day
+2025,172,Cornell Big Red,2025-01-11,33.273031696266,included_game_day
+2025,172,Cornell Big Red,2025-01-18,36.118069762346174,included_game_day
+2025,172,Cornell Big Red,2025-01-20,23.913052494269298,included_game_day
+2025,172,Cornell Big Red,2025-01-25,34.9951662646115,included_game_day
+2025,172,Cornell Big Red,2025-01-31,37.84293240217428,included_game_day
+2025,172,Cornell Big Red,2025-02-01,41.836142787465946,included_game_day
+2025,172,Cornell Big Red,2025-02-08,30.587796684488108,included_game_day
+2025,172,Cornell Big Red,2025-02-14,22.46181673173472,included_game_day
+2025,172,Cornell Big Red,2025-02-15,-14.876949990359982,included_game_day
+2025,172,Cornell Big Red,2025-02-21,-2.96248137328587,included_game_day
+2025,172,Cornell Big Red,2025-02-22,4.350059051315362,included_game_day
+2025,172,Cornell Big Red,2025-02-28,25.76939650733371,included_game_day
+2025,172,Cornell Big Red,2025-03-02,49.35954112084323,included_game_day
+2025,172,Cornell Big Red,2025-03-08,50.98366355722812,included_game_day
+2025,172,Cornell Big Red,2025-03-15,65.83663157595527,included_game_day
+2025,172,Cornell Big Red,2025-03-16,61.472191456485646,included_game_day
+2026,172,Cornell Big Red,2025-11-07,-5.9,included_game_day
+2026,172,Cornell Big Red,2025-11-09,-13.48,included_game_day
+2026,172,Cornell Big Red,2025-11-13,5.777999999999999,included_game_day
+2026,172,Cornell Big Red,2025-11-18,7.1395,included_game_day
+2026,172,Cornell Big Red,2025-11-20,3.8706700000000005,included_game_day
+2026,172,Cornell Big Red,2025-11-30,29.572906404,included_game_day
+2026,172,Cornell Big Red,2025-12-02,18.7267928306,included_game_day
+2026,172,Cornell Big Red,2025-12-03,7.4279099236400015,included_game_day
+2026,172,Cornell Big Red,2025-12-07,0.33594539134600154,included_game_day
+2026,172,Cornell Big Red,2025-12-21,5.6254434721696365,included_game_day
+2026,172,Cornell Big Red,2025-12-29,2.8111614090014827,included_game_day
+2026,172,Cornell Big Red,2026-01-05,-0.783111054668006,included_game_day
+2026,172,Cornell Big Red,2026-01-10,-15.66226432298173,included_game_day
+2026,172,Cornell Big Red,2026-01-17,-41.42949030334997,included_game_day
+2026,172,Cornell Big Red,2026-01-19,-13.726140948505929,included_game_day
+2026,172,Cornell Big Red,2026-01-24,-0.47832199249185514,included_game_day
+2026,172,Cornell Big Red,2026-01-30,18.495566941701263,included_game_day
+2026,172,Cornell Big Red,2026-01-31,2.714484997104366,included_game_day
+2026,172,Cornell Big Red,2026-02-07,25.762270995985347,included_game_day
+2026,172,Cornell Big Red,2026-02-13,49.50555991386894,included_game_day
+2026,172,Cornell Big Red,2026-02-14,42.10566746932693,included_game_day
+2026,172,Cornell Big Red,2026-02-21,18.7681191872155,included_game_day
+2026,172,Cornell Big Red,2026-02-27,23.943846109480795,included_game_day
+2026,172,Cornell Big Red,2026-02-28,19.686814444891255,included_game_day
+2026,172,Cornell Big Red,2026-03-07,36.175685734431404,included_game_day
+2026,172,Cornell Big Red,2026-03-14,28.50241681564721,included_game_day
+2027,172,Cornell Big Red,2026-11-02,-2.0,included_game_day
+2027,172,Cornell Big Red,2026-11-05,-8.0,included_game_day
+2027,172,Cornell Big Red,2026-11-11,-25.36,included_game_day
+2027,172,Cornell Big Red,2026-11-18,-24.47424,included_game_day
+2027,172,Cornell Big Red,2026-11-21,-0.15303980000000195,included_game_day

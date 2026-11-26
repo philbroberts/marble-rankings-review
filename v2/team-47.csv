@@ -1,0 +1,1111 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,47,Howard,1987-12-04,11.3003,included_game_day
+1988,47,Howard,1987-12-05,-2.9937299999999993,included_game_day
+1988,47,Howard,1987-12-08,-5.344357,included_game_day
+1988,47,Howard,1987-12-19,-13.404551399999999,included_game_day
+1988,47,Howard,1987-12-28,-22.6390579369,included_game_day
+1988,47,Howard,1988-01-05,-36.846120785378936,included_game_day
+1988,47,Howard,1988-01-09,-34.632578056208686,included_game_day
+1988,47,Howard,1988-01-11,-32.906177883519874,included_game_day
+1988,47,Howard,1988-01-14,-24.32265406780853,included_game_day
+1988,47,Howard,1988-01-16,-47.2859092920689,included_game_day
+1988,47,Howard,1988-01-18,-58.15242551140117,included_game_day
+1988,47,Howard,1988-01-26,-44.0689769995186,included_game_day
+1988,47,Howard,1988-01-28,-44.65438644626359,included_game_day
+1988,47,Howard,1988-02-02,-38.79624620139958,included_game_day
+1988,47,Howard,1988-02-06,-33.542441348019544,included_game_day
+1988,47,Howard,1988-02-08,-33.41549224543451,included_game_day
+1988,47,Howard,1988-02-10,-26.07374662218951,included_game_day
+1988,47,Howard,1988-02-13,-33.64365669035885,included_game_day
+1988,47,Howard,1988-02-16,-45.68676135258541,included_game_day
+1988,47,Howard,1988-02-20,-51.108500610512515,included_game_day
+1988,47,Howard,1988-02-22,-55.68876772238772,included_game_day
+1988,47,Howard,1988-02-25,-50.159947372031596,included_game_day
+1988,47,Howard,1988-02-27,-56.47277526006247,included_game_day
+1988,47,Howard,1988-03-03,-52.52303757048717,included_game_day
+1988,47,Howard,1988-03-04,-36.75444985116158,included_game_day
+1989,47,Howard,1988-11-26,-18.7,included_game_day
+1989,47,Howard,1988-12-03,-17.42,included_game_day
+1989,47,Howard,1988-12-16,-38.1344,included_game_day
+1989,47,Howard,1988-12-17,-37.34872846253,included_game_day
+1989,47,Howard,1988-12-28,-45.3953301248325,included_game_day
+1989,47,Howard,1988-12-29,-41.56144660902625,included_game_day
+1989,47,Howard,1989-01-05,-43.230589584637194,included_game_day
+1989,47,Howard,1989-01-07,-28.166348038942843,included_game_day
+1989,47,Howard,1989-01-09,-42.352073267948114,included_game_day
+1989,47,Howard,1989-01-14,-68.98462131611957,included_game_day
+1989,47,Howard,1989-01-18,-65.89107912309858,included_game_day
+1989,47,Howard,1989-01-21,-75.60780555974812,included_game_day
+1989,47,Howard,1989-01-23,-74.08984697261282,included_game_day
+1989,47,Howard,1989-01-25,-67.77703488628788,included_game_day
+1989,47,Howard,1989-01-28,-77.33011525365876,included_game_day
+1989,47,Howard,1989-01-30,-70.62346327273606,included_game_day
+1989,47,Howard,1989-02-03,-78.87902692264724,included_game_day
+1989,47,Howard,1989-02-11,-92.98617744930522,included_game_day
+1989,47,Howard,1989-02-13,-84.26524905677681,included_game_day
+1989,47,Howard,1989-02-15,-90.33128037982999,included_game_day
+1989,47,Howard,1989-02-18,-88.4593532307477,included_game_day
+1989,47,Howard,1989-02-20,-82.44162092624562,included_game_day
+1989,47,Howard,1989-02-25,-87.19129928949704,included_game_day
+1989,47,Howard,1989-03-03,-89.09247676187972,included_game_day
+1990,47,Howard,1989-11-28,-16.0,included_game_day
+1990,47,Howard,1989-12-02,-28.4222,included_game_day
+1990,47,Howard,1989-12-05,-22.92278,included_game_day
+1990,47,Howard,1989-12-08,-26.112802,included_game_day
+1990,47,Howard,1989-12-09,-57.33663346,included_game_day
+1990,47,Howard,1989-12-15,-74.662294223,included_game_day
+1990,47,Howard,1989-12-16,-60.5547270303,included_game_day
+1990,47,Howard,1989-12-18,-62.75291532727,included_game_day
+1990,47,Howard,1989-12-27,-59.08694682426534,included_game_day
+1990,47,Howard,1989-12-29,-74.43032845080602,included_game_day
+1990,47,Howard,1989-12-30,-66.19302081420301,included_game_day
+1990,47,Howard,1990-01-06,-53.68989203278271,included_game_day
+1990,47,Howard,1990-01-08,-61.24654642121405,included_game_day
+1990,47,Howard,1990-01-13,-67.36745704064273,included_game_day
+1990,47,Howard,1990-01-17,-66.00574897539536,included_game_day
+1990,47,Howard,1990-01-22,-68.78219275144733,included_game_day
+1990,47,Howard,1990-01-25,-68.03583780035186,included_game_day
+1990,47,Howard,1990-01-27,-89.85975845264585,included_game_day
+1990,47,Howard,1990-01-29,-76.29668824677763,included_game_day
+1990,47,Howard,1990-02-01,-73.3550444508951,included_game_day
+1990,47,Howard,1990-02-03,-66.71386489087152,included_game_day
+1990,47,Howard,1990-02-07,-59.813976097947815,included_game_day
+1990,47,Howard,1990-02-12,-61.021197965328575,included_game_day
+1990,47,Howard,1990-02-14,-79.88733001269188,included_game_day
+1990,47,Howard,1990-02-17,-83.339563896235,included_game_day
+1990,47,Howard,1990-02-19,-90.44080385335481,included_game_day
+1990,47,Howard,1990-02-24,-101.60877402074506,included_game_day
+1990,47,Howard,1990-03-01,-108.3460931090396,included_game_day
+1991,47,Howard,1990-11-23,-31.0,included_game_day
+1991,47,Howard,1990-11-24,-25.9,included_game_day
+1991,47,Howard,1990-11-27,-23.71,included_game_day
+1991,47,Howard,1990-12-03,-23.28581,included_game_day
+1991,47,Howard,1990-12-08,-9.401639000000001,included_game_day
+1991,47,Howard,1990-12-12,-17.0834281,included_game_day
+1991,47,Howard,1990-12-15,-18.134699873000002,included_game_day
+1991,47,Howard,1990-12-18,-38.2564468857,included_game_day
+1991,47,Howard,1990-12-28,-36.024130606682,included_game_day
+1991,47,Howard,1990-12-29,-41.11865316831076,included_game_day
+1991,47,Howard,1991-01-02,-30.66043035576575,included_game_day
+1991,47,Howard,1991-01-05,-28.359303800107178,included_game_day
+1991,47,Howard,1991-01-07,-32.946448925024356,included_game_day
+1991,47,Howard,1991-01-12,-35.231051350881884,included_game_day
+1991,47,Howard,1991-01-16,-47.40642641044866,included_game_day
+1991,47,Howard,1991-01-21,-57.972274260410884,included_game_day
+1991,47,Howard,1991-01-24,-42.4783758209536,included_game_day
+1991,47,Howard,1991-01-26,-47.6526216331509,included_game_day
+1991,47,Howard,1991-01-28,-61.332534834535494,included_game_day
+1991,47,Howard,1991-01-31,-46.26972277832128,included_game_day
+1991,47,Howard,1991-02-02,-52.12138515958057,included_game_day
+1991,47,Howard,1991-02-06,-51.94183705084444,included_game_day
+1991,47,Howard,1991-02-11,-48.270831610679814,included_game_day
+1991,47,Howard,1991-02-13,-29.794649417232087,included_game_day
+1991,47,Howard,1991-02-16,-37.97343757737996,included_game_day
+1991,47,Howard,1991-02-18,-36.949876661897044,included_game_day
+1991,47,Howard,1991-02-23,-28.82684513257624,included_game_day
+1991,47,Howard,1991-02-28,-28.221199019169582,included_game_day
+1992,47,Howard,1991-11-23,-26.0,included_game_day
+1992,47,Howard,1991-11-26,-33.7,included_game_day
+1992,47,Howard,1991-11-30,-65.0421,included_game_day
+1992,47,Howard,1991-12-04,-69.44894000000001,included_game_day
+1992,47,Howard,1991-12-06,-49.553219000000006,included_game_day
+1992,47,Howard,1991-12-14,-91.1064021,included_game_day
+1992,47,Howard,1991-12-16,-98.88226884,included_game_day
+1992,47,Howard,1991-12-21,-87.65293494529999,included_game_day
+1992,47,Howard,1991-12-30,-81.17184115596999,included_game_day
+1992,47,Howard,1992-01-02,-86.503208713797,included_game_day
+1992,47,Howard,1992-01-04,-73.1855721268259,included_game_day
+1992,47,Howard,1992-01-06,-72.78071733336598,included_game_day
+1992,47,Howard,1992-01-11,-74.47868276708022,included_game_day
+1992,47,Howard,1992-01-16,-59.675162296921066,included_game_day
+1992,47,Howard,1992-01-20,-67.77086893438835,included_game_day
+1992,47,Howard,1992-01-23,-52.5699988795343,included_game_day
+1992,47,Howard,1992-01-25,-42.80424443682479,included_game_day
+1992,47,Howard,1992-01-27,-44.594126963081024,included_game_day
+1992,47,Howard,1992-02-01,-38.576300221087784,included_game_day
+1992,47,Howard,1992-02-06,-25.000874324336955,included_game_day
+1992,47,Howard,1992-02-10,-26.01760788090028,included_game_day
+1992,47,Howard,1992-02-12,-39.87739724620015,included_game_day
+1992,47,Howard,1992-02-15,-39.60673637766662,included_game_day
+1992,47,Howard,1992-02-17,-38.08058445062847,included_game_day
+1992,47,Howard,1992-02-22,-40.78660841063718,included_game_day
+1992,47,Howard,1992-02-27,-36.77382220711614,included_game_day
+1992,47,Howard,1992-03-05,-49.97600013704267,included_game_day
+1992,47,Howard,1992-03-06,-45.66040965681684,included_game_day
+1992,47,Howard,1992-03-07,-44.91493167045693,included_game_day
+1992,47,Howard,1992-03-20,-52.548865445345264,included_game_day
+1993,47,Howard,1992-12-05,-13.8,included_game_day
+1993,47,Howard,1992-12-10,-31.028000000000002,included_game_day
+1993,47,Howard,1992-12-12,-56.6366,included_game_day
+1993,47,Howard,1992-12-17,-56.529803,included_game_day
+1993,47,Howard,1992-12-19,-72.4943127,included_game_day
+1993,47,Howard,1992-12-23,-93.81628143,included_game_day
+1993,47,Howard,1993-01-02,-112.9771845936,included_game_day
+1993,47,Howard,1993-01-09,-99.1786342237118,included_game_day
+1993,47,Howard,1993-01-11,-98.26088703232385,included_game_day
+1993,47,Howard,1993-01-14,-105.17975842870567,included_game_day
+1993,47,Howard,1993-01-16,-101.32316385462691,included_game_day
+1993,47,Howard,1993-01-18,-91.10168553187225,included_game_day
+1993,47,Howard,1993-01-21,-85.66185601251048,included_game_day
+1993,47,Howard,1993-01-25,-90.9202903492721,included_game_day
+1993,47,Howard,1993-01-28,-69.63377512519753,included_game_day
+1993,47,Howard,1993-01-30,-80.6655898243047,included_game_day
+1993,47,Howard,1993-02-01,-92.60389928633967,included_game_day
+1993,47,Howard,1993-02-06,-92.25384202122869,included_game_day
+1993,47,Howard,1993-02-11,-94.12321979683854,included_game_day
+1993,47,Howard,1993-02-15,-101.80314232078025,included_game_day
+1993,47,Howard,1993-02-18,-121.15917210221943,included_game_day
+1993,47,Howard,1993-02-20,-126.00961095814904,included_game_day
+1993,47,Howard,1993-02-22,-113.75535577149046,included_game_day
+1993,47,Howard,1993-02-27,-118.44501922643576,included_game_day
+1993,47,Howard,1993-03-03,-108.39330641474737,included_game_day
+1993,47,Howard,1993-03-04,-100.44408189378552,included_game_day
+1994,47,Howard,1993-11-30,-21.2,included_game_day
+1994,47,Howard,1993-12-07,-30.0073,included_game_day
+1994,47,Howard,1993-12-10,-32.36387,included_game_day
+1994,47,Howard,1993-12-11,-5.601211669999998,included_game_day
+1994,47,Howard,1993-12-17,-10.394488181699998,included_game_day
+1994,47,Howard,1993-12-21,-45.86062980183,included_game_day
+1994,47,Howard,1994-01-05,-48.47687797511007,included_game_day
+1994,47,Howard,1994-01-08,-51.19814657165857,included_game_day
+1994,47,Howard,1994-01-10,-66.06935220050158,included_game_day
+1994,47,Howard,1994-01-13,-44.94374768957135,included_game_day
+1994,47,Howard,1994-01-15,-49.00752106205962,included_game_day
+1994,47,Howard,1994-01-20,-24.45862490805923,included_game_day
+1994,47,Howard,1994-01-24,-21.844013999711876,included_game_day
+1994,47,Howard,1994-01-31,-12.89302894201242,included_game_day
+1994,47,Howard,1994-02-03,-17.11528621465287,included_game_day
+1994,47,Howard,1994-02-05,-31.49309203276523,included_game_day
+1994,47,Howard,1994-02-10,-47.83186062623942,included_game_day
+1994,47,Howard,1994-02-14,-53.68671910538521,included_game_day
+1994,47,Howard,1994-02-17,-57.910667226978966,included_game_day
+1994,47,Howard,1994-02-19,-44.52356689256061,included_game_day
+1994,47,Howard,1994-02-21,-48.92433971695756,included_game_day
+1994,47,Howard,1994-02-24,-63.63220092384649,included_game_day
+1994,47,Howard,1994-02-28,-90.41877274062786,included_game_day
+1994,47,Howard,1994-03-05,-97.1634897415799,included_game_day
+1994,47,Howard,1994-03-09,-96.5806591652737,included_game_day
+1995,47,Howard,1994-11-26,-6.0,included_game_day
+1995,47,Howard,1994-11-28,-38.9,included_game_day
+1995,47,Howard,1994-11-30,-24.009999999999998,included_game_day
+1995,47,Howard,1994-12-03,-37.397,included_game_day
+1995,47,Howard,1994-12-07,-63.29725,included_game_day
+1995,47,Howard,1994-12-09,-68.639567,included_game_day
+1995,47,Howard,1994-12-10,-94.2623523,included_game_day
+1995,47,Howard,1994-12-17,-89.33106007,included_game_day
+1995,47,Howard,1995-01-03,-96.35777097670001,included_game_day
+1995,47,Howard,1995-01-05,-85.41393377302026,included_game_day
+1995,47,Howard,1995-01-07,-90.23376612348113,included_game_day
+1995,47,Howard,1995-01-11,-77.0480712483824,included_game_day
+1995,47,Howard,1995-01-16,-73.4952587232836,included_game_day
+1995,47,Howard,1995-01-21,-70.73667694919189,included_game_day
+1995,47,Howard,1995-01-23,-90.70164858166994,included_game_day
+1995,47,Howard,1995-01-26,-90.02383201341746,included_game_day
+1995,47,Howard,1995-01-29,-104.216003681466,included_game_day
+1995,47,Howard,1995-02-01,-101.43298212069274,included_game_day
+1995,47,Howard,1995-02-04,-96.19991331063244,included_game_day
+1995,47,Howard,1995-02-06,-101.56928497696637,included_game_day
+1995,47,Howard,1995-02-08,-100.49152444649084,included_game_day
+1995,47,Howard,1995-02-11,-93.75864391070955,included_game_day
+1995,47,Howard,1995-02-13,-92.83502293362974,included_game_day
+1995,47,Howard,1995-02-16,-103.80291894418785,included_game_day
+1995,47,Howard,1995-02-22,-113.86383209183701,included_game_day
+1995,47,Howard,1995-02-25,-129.4441522308664,included_game_day
+1995,47,Howard,1995-03-01,-124.66459863965497,included_game_day
+1996,47,Howard,1995-11-27,-13.0,included_game_day
+1996,47,Howard,1995-12-02,-41.483000000000004,included_game_day
+1996,47,Howard,1995-12-04,-42.444570000000006,included_game_day
+1996,47,Howard,1995-12-06,-51.514313,included_game_day
+1996,47,Howard,1995-12-09,-60.9858907,included_game_day
+1996,47,Howard,1995-12-16,-93.13150174,included_game_day
+1996,47,Howard,1995-12-22,-100.83804189530001,included_game_day
+1996,47,Howard,1996-01-03,-97.08299684404724,included_game_day
+1996,47,Howard,1996-01-06,-101.82853272235657,included_game_day
+1996,47,Howard,1996-01-13,-100.73701826285028,included_game_day
+1996,47,Howard,1996-01-15,-102.66506550657998,included_game_day
+1996,47,Howard,1996-01-18,-110.88031729993537,included_game_day
+1996,47,Howard,1996-01-20,-118.31917835300298,included_game_day
+1996,47,Howard,1996-01-25,-124.55662058495369,included_game_day
+1996,47,Howard,1996-01-27,-121.13188270837757,included_game_day
+1996,47,Howard,1996-01-29,-111.83275193745517,included_game_day
+1996,47,Howard,1996-02-02,-92.92578114743563,included_game_day
+1996,47,Howard,1996-02-05,-97.9922583696106,included_game_day
+1996,47,Howard,1996-02-08,-77.139075001412,included_game_day
+1996,47,Howard,1996-02-10,-65.06695143717637,included_game_day
+1996,47,Howard,1996-02-12,-78.01305096125677,included_game_day
+1996,47,Howard,1996-02-17,-80.44204415429213,included_game_day
+1996,47,Howard,1996-02-19,-83.08686760558375,included_game_day
+1996,47,Howard,1996-02-22,-78.43000492351197,included_game_day
+1996,47,Howard,1996-02-24,-101.36707458980048,included_game_day
+1996,47,Howard,1996-02-29,-109.71673032283128,included_game_day
+1997,47,Howard,1996-11-26,-35.0,included_game_day
+1997,47,Howard,1996-12-03,-54.36,included_game_day
+1997,47,Howard,1996-12-07,-61.30731,included_game_day
+1997,47,Howard,1996-12-14,-74.134686426,included_game_day
+1997,47,Howard,1996-12-17,-102.8147557834,included_game_day
+1997,47,Howard,1996-12-28,-107.27968010395,included_game_day
+1997,47,Howard,1996-12-29,-110.751039252157,included_game_day
+1997,47,Howard,1997-01-11,-113.74543499088303,included_game_day
+1997,47,Howard,1997-01-13,-116.20123294301784,included_game_day
+1997,47,Howard,1997-01-18,-110.36945349571035,included_game_day
+1997,47,Howard,1997-01-20,-125.83467542077084,included_game_day
+1997,47,Howard,1997-01-23,-112.5362829921812,included_game_day
+1997,47,Howard,1997-01-25,-103.89156311843637,included_game_day
+1997,47,Howard,1997-01-27,-95.64198002831397,included_game_day
+1997,47,Howard,1997-01-30,-103.75697443066555,included_game_day
+1997,47,Howard,1997-02-01,-110.92843572154669,included_game_day
+1997,47,Howard,1997-02-03,-126.02078172701668,included_game_day
+1997,47,Howard,1997-02-08,-140.8449150673105,included_game_day
+1997,47,Howard,1997-02-10,-151.98028330768503,included_game_day
+1997,47,Howard,1997-02-13,-163.05059990329758,included_game_day
+1997,47,Howard,1997-02-15,-145.32391701114926,included_game_day
+1997,47,Howard,1997-02-17,-139.9705514137197,included_game_day
+1997,47,Howard,1997-02-22,-108.10917510663278,included_game_day
+1997,47,Howard,1997-02-24,-102.09061070797753,included_game_day
+1997,47,Howard,1997-03-01,-107.38499601388388,included_game_day
+1997,47,Howard,1997-03-03,-111.10593130006032,included_game_day
+1998,47,Howard,1997-11-14,-34.0,included_game_day
+1998,47,Howard,1997-11-15,-24.0,included_game_day
+1998,47,Howard,1997-11-18,-30.6,included_game_day
+1998,47,Howard,1997-11-28,-55.6081,included_game_day
+1998,47,Howard,1997-11-29,-60.810264000000004,included_game_day
+1998,47,Howard,1997-12-06,-64.8688776,included_game_day
+1998,47,Howard,1997-12-11,-66.03519984,included_game_day
+1998,47,Howard,1997-12-13,-62.19750294952,included_game_day
+1998,47,Howard,1997-12-20,-92.988759544568,included_game_day
+1998,47,Howard,1998-01-03,-88.16814774895872,included_game_day
+1998,47,Howard,1998-01-05,-73.15074605628236,included_game_day
+1998,47,Howard,1998-01-10,-73.50083287582733,included_game_day
+1998,47,Howard,1998-01-12,-86.72467739902652,included_game_day
+1998,47,Howard,1998-01-17,-99.25723224093552,included_game_day
+1998,47,Howard,1998-01-19,-98.27187731703589,included_game_day
+1998,47,Howard,1998-01-24,-104.4800158894451,included_game_day
+1998,47,Howard,1998-01-26,-109.90546953394755,included_game_day
+1998,47,Howard,1998-01-31,-99.42284662927221,included_game_day
+1998,47,Howard,1998-02-02,-116.97715470517171,included_game_day
+1998,47,Howard,1998-02-07,-120.51725165043341,included_game_day
+1998,47,Howard,1998-02-09,-119.71971981207966,included_game_day
+1998,47,Howard,1998-02-14,-117.23950444742924,included_game_day
+1998,47,Howard,1998-02-21,-130.09814825146177,included_game_day
+1998,47,Howard,1998-02-23,-131.22664626006895,included_game_day
+1998,47,Howard,1998-02-26,-126.10981170454572,included_game_day
+1998,47,Howard,1998-02-28,-143.78468622749122,included_game_day
+1998,47,Howard,1998-03-03,-146.6234857658587,included_game_day
+1998,47,Howard,1998-03-04,-145.01308502203668,included_game_day
+1999,47,Howard,1998-11-14,-12.0,included_game_day
+1999,47,Howard,1998-11-18,-30.6,included_game_day
+1999,47,Howard,1998-11-21,-47.64,included_game_day
+1999,47,Howard,1998-11-25,-62.46,included_game_day
+1999,47,Howard,1998-12-01,-106.695921,included_game_day
+1999,47,Howard,1998-12-04,-108.3176489,included_game_day
+1999,47,Howard,1998-12-07,-105.70506005,included_game_day
+1999,47,Howard,1998-12-14,-120.845755904876,included_game_day
+1999,47,Howard,1998-12-22,-137.52109711954841,included_game_day
+1999,47,Howard,1998-12-27,-155.45945883947078,included_game_day
+1999,47,Howard,1999-01-02,-163.475100049853,included_game_day
+1999,47,Howard,1999-01-04,-173.60885955145434,included_game_day
+1999,47,Howard,1999-01-09,-162.09577995688142,included_game_day
+1999,47,Howard,1999-01-11,-146.27195953210742,included_game_day
+1999,47,Howard,1999-01-16,-151.0433210933712,included_game_day
+1999,47,Howard,1999-01-18,-143.52668688728133,included_game_day
+1999,47,Howard,1999-01-23,-153.51511281759974,included_game_day
+1999,47,Howard,1999-01-25,-157.14897729582975,included_game_day
+1999,47,Howard,1999-01-30,-172.29296647480962,included_game_day
+1999,47,Howard,1999-02-01,-163.021852385698,included_game_day
+1999,47,Howard,1999-02-06,-162.29391505836077,included_game_day
+1999,47,Howard,1999-02-08,-196.3329843512251,included_game_day
+1999,47,Howard,1999-02-13,-196.7619366039109,included_game_day
+1999,47,Howard,1999-02-15,-188.44080726176372,included_game_day
+1999,47,Howard,1999-02-20,-185.27524641162873,included_game_day
+1999,47,Howard,1999-02-22,-179.61342985637935,included_game_day
+1999,47,Howard,1999-03-01,-192.04371372797934,included_game_day
+2000,47,Howard,1999-11-20,-41.0,included_game_day
+2000,47,Howard,1999-12-01,-47.327899,included_game_day
+2000,47,Howard,1999-12-03,-63.1041151,included_game_day
+2000,47,Howard,1999-12-04,-80.44468359,included_game_day
+2000,47,Howard,1999-12-06,-110.440925231,included_game_day
+2000,47,Howard,1999-12-21,-141.05832731889998,included_game_day
+2000,47,Howard,1999-12-27,-137.3874466360769,included_game_day
+2000,47,Howard,1999-12-29,-124.84719594857529,included_game_day
+2000,47,Howard,2000-01-02,-135.04017611816215,included_game_day
+2000,47,Howard,2000-01-08,-123.51354100120275,included_game_day
+2000,47,Howard,2000-01-10,-128.73074385898747,included_game_day
+2000,47,Howard,2000-01-15,-133.41399913342826,included_game_day
+2000,47,Howard,2000-01-20,-136.54790551854805,included_game_day
+2000,47,Howard,2000-01-22,-150.07117617051696,included_game_day
+2000,47,Howard,2000-01-24,-159.01348438600886,included_game_day
+2000,47,Howard,2000-01-26,-156.79790454319794,included_game_day
+2000,47,Howard,2000-01-31,-161.24942055211613,included_game_day
+2000,47,Howard,2000-02-02,-159.18166985346625,included_game_day
+2000,47,Howard,2000-02-05,-176.78511773362737,included_game_day
+2000,47,Howard,2000-02-07,-184.46710873758613,included_game_day
+2000,47,Howard,2000-02-12,-201.739718056299,included_game_day
+2000,47,Howard,2000-02-14,-212.67505837636207,included_game_day
+2000,47,Howard,2000-02-19,-223.49128817530686,included_game_day
+2000,47,Howard,2000-02-21,-213.12879409223788,included_game_day
+2000,47,Howard,2000-02-26,-208.82584340607087,included_game_day
+2000,47,Howard,2000-03-01,-205.9027866616833,included_game_day
+2000,47,Howard,2000-03-03,-230.16488829468048,included_game_day
+2000,47,Howard,2000-03-06,-236.4861656379933,included_game_day
+2001,47,Howard,2000-11-17,-21.0,included_game_day
+2001,47,Howard,2000-11-19,-32.9,included_game_day
+2001,47,Howard,2000-11-24,-64.18,included_game_day
+2001,47,Howard,2000-11-25,-66.168,included_game_day
+2001,47,Howard,2000-11-29,-76.94120000000001,included_game_day
+2001,47,Howard,2000-12-02,-71.55976000000001,included_game_day
+2001,47,Howard,2000-12-04,-71.71400400000002,included_game_day
+2001,47,Howard,2000-12-06,-72.44604530000001,included_game_day
+2001,47,Howard,2000-12-12,-62.45438423241001,included_game_day
+2001,47,Howard,2000-12-16,-76.92203421129,included_game_day
+2001,47,Howard,2001-01-03,-133.1882194846172,included_game_day
+2001,47,Howard,2001-01-08,-130.3766862758505,included_game_day
+2001,47,Howard,2001-01-13,-130.8638909344062,included_game_day
+2001,47,Howard,2001-01-15,-118.09216662779366,included_game_day
+2001,47,Howard,2001-01-20,-112.73120799439599,included_game_day
+2001,47,Howard,2001-01-22,-100.25513840812258,included_game_day
+2001,47,Howard,2001-01-27,-87.17736272340784,included_game_day
+2001,47,Howard,2001-01-29,-90.53040060434705,included_game_day
+2001,47,Howard,2001-01-31,-95.99918883018752,included_game_day
+2001,47,Howard,2001-02-03,-101.2344580047698,included_game_day
+2001,47,Howard,2001-02-05,-112.31541446424721,included_game_day
+2001,47,Howard,2001-02-12,-126.54845475828256,included_game_day
+2001,47,Howard,2001-02-17,-127.07859052263827,included_game_day
+2001,47,Howard,2001-02-19,-115.25695504435171,included_game_day
+2001,47,Howard,2001-02-24,-107.608901521957,included_game_day
+2001,47,Howard,2001-02-26,-119.83843449658686,included_game_day
+2001,47,Howard,2001-03-01,-123.37545066204055,included_game_day
+2001,47,Howard,2001-03-06,-125.73440588532159,included_game_day
+2002,47,Howard Bison,2001-11-16,11.0,included_game_day
+2002,47,Howard Bison,2001-11-21,-31.58,included_game_day
+2002,47,Howard Bison,2001-11-24,-37.562,included_game_day
+2002,47,Howard Bison,2001-11-26,-4.105799999999995,included_game_day
+2002,47,Howard Bison,2001-11-29,-13.680249999999996,included_game_day
+2002,47,Howard Bison,2001-12-01,-6.118684999999996,included_game_day
+2002,47,Howard Bison,2001-12-03,-12.964830499999996,included_game_day
+2002,47,Howard Bison,2001-12-10,-7.461000289999996,included_game_day
+2002,47,Howard Bison,2001-12-15,10.371362339000003,included_game_day
+2002,47,Howard Bison,2001-12-17,3.3969165332160056,included_game_day
+2002,47,Howard Bison,2001-12-30,-2.1326271157855947,included_game_day
+2002,47,Howard Bison,2002-01-05,-0.39019034706112965,included_game_day
+2002,47,Howard Bison,2002-01-07,4.332768598923773,included_game_day
+2002,47,Howard Bison,2002-01-12,-2.068526453450205,included_game_day
+2002,47,Howard Bison,2002-01-14,-7.364756865678674,included_game_day
+2002,47,Howard Bison,2002-01-19,-14.958785760063844,included_game_day
+2002,47,Howard Bison,2002-01-21,-30.485177326259944,included_game_day
+2002,47,Howard Bison,2002-01-28,-22.926216791071525,included_game_day
+2002,47,Howard Bison,2002-02-02,-33.49740315899789,included_game_day
+2002,47,Howard Bison,2002-02-04,-28.026612428005073,included_game_day
+2002,47,Howard Bison,2002-02-09,-35.41613167465533,included_game_day
+2002,47,Howard Bison,2002-02-11,-26.855756480737064,included_game_day
+2002,47,Howard Bison,2002-02-16,-26.44385219564525,included_game_day
+2002,47,Howard Bison,2002-02-18,-32.26778100628965,included_game_day
+2002,47,Howard Bison,2002-02-23,-31.065659360578227,included_game_day
+2002,47,Howard Bison,2002-02-25,-24.599989765731458,included_game_day
+2002,47,Howard Bison,2002-03-02,-36.493924681116994,included_game_day
+2002,47,Howard Bison,2002-03-07,-24.547969292920257,included_game_day
+2002,47,Howard Bison,2002-03-08,-13.319497546034295,included_game_day
+2002,47,Howard Bison,2002-03-09,-22.899149362029007,included_game_day
+2003,47,Howard Bison,2002-11-22,1.0,included_game_day
+2003,47,Howard Bison,2002-11-26,4.37,included_game_day
+2003,47,Howard Bison,2002-12-01,-13.567999999999998,included_game_day
+2003,47,Howard Bison,2002-12-03,-17.034399999999998,included_game_day
+2003,47,Howard Bison,2002-12-07,-39.154775,included_game_day
+2003,47,Howard Bison,2002-12-09,-34.3317093,included_game_day
+2003,47,Howard Bison,2002-12-20,-41.3835954212,included_game_day
+2003,47,Howard Bison,2002-12-29,-25.137520907461997,included_game_day
+2003,47,Howard Bison,2002-12-30,-21.684240120014607,included_game_day
+2003,47,Howard Bison,2003-01-06,-25.81178511124198,included_game_day
+2003,47,Howard Bison,2003-01-08,-34.81565224442214,included_game_day
+2003,47,Howard Bison,2003-01-11,-34.46249527323176,included_game_day
+2003,47,Howard Bison,2003-01-13,-47.0124645233889,included_game_day
+2003,47,Howard Bison,2003-01-18,-52.74940945886434,included_game_day
+2003,47,Howard Bison,2003-01-21,-30.391669961978355,included_game_day
+2003,47,Howard Bison,2003-01-27,-39.41186344369957,included_game_day
+2003,47,Howard Bison,2003-01-30,-40.64453636746211,included_game_day
+2003,47,Howard Bison,2003-02-01,-46.60664125424828,included_game_day
+2003,47,Howard Bison,2003-02-03,-32.928727992093904,included_game_day
+2003,47,Howard Bison,2003-02-08,-21.669616186745095,included_game_day
+2003,47,Howard Bison,2003-02-10,-10.410575020945242,included_game_day
+2003,47,Howard Bison,2003-02-15,4.190353739340285,included_game_day
+2003,47,Howard Bison,2003-02-18,5.615637979158961,included_game_day
+2003,47,Howard Bison,2003-02-22,-3.3305949608478906,included_game_day
+2003,47,Howard Bison,2003-02-24,2.2691636654304324,included_game_day
+2003,47,Howard Bison,2003-03-03,-6.126074628874828,included_game_day
+2003,47,Howard Bison,2003-03-06,-21.816263733174672,included_game_day
+2003,47,Howard Bison,2003-03-10,-32.36841501661455,included_game_day
+2003,47,Howard Bison,2003-03-12,-24.460371613284785,included_game_day
+2003,47,Howard Bison,2003-03-14,-31.918238357281346,included_game_day
+2004,47,Howard Bison,2003-11-21,15.0,included_game_day
+2004,47,Howard Bison,2003-11-23,8.4,included_game_day
+2004,47,Howard Bison,2003-11-25,-7.24,included_game_day
+2004,47,Howard Bison,2003-12-03,-5.8048,included_game_day
+2004,47,Howard Bison,2003-12-06,-11.1865249,included_game_day
+2004,47,Howard Bison,2003-12-08,-16.6893329,included_game_day
+2004,47,Howard Bison,2003-12-13,-22.81154861,included_game_day
+2004,47,Howard Bison,2003-12-20,-41.378274871,included_game_day
+2004,47,Howard Bison,2003-12-30,-46.58571262765602,included_game_day
+2004,47,Howard Bison,2004-01-05,-27.159140536043786,included_game_day
+2004,47,Howard Bison,2004-01-10,-47.69724917970229,included_game_day
+2004,47,Howard Bison,2004-01-12,-57.41957172119586,included_game_day
+2004,47,Howard Bison,2004-01-14,-58.39448423229327,included_game_day
+2004,47,Howard Bison,2004-01-17,-66.54019336147788,included_game_day
+2004,47,Howard Bison,2004-01-19,-65.49186638121867,included_game_day
+2004,47,Howard Bison,2004-01-24,-69.83526367214506,included_game_day
+2004,47,Howard Bison,2004-01-26,-78.04713173742357,included_game_day
+2004,47,Howard Bison,2004-01-31,-86.3069965103582,included_game_day
+2004,47,Howard Bison,2004-02-02,-87.10967428240791,included_game_day
+2004,47,Howard Bison,2004-02-09,-94.67642127254616,included_game_day
+2004,47,Howard Bison,2004-02-14,-87.45552445860362,included_game_day
+2004,47,Howard Bison,2004-02-16,-85.13114921813381,included_game_day
+2004,47,Howard Bison,2004-02-21,-98.88531762074852,included_game_day
+2004,47,Howard Bison,2004-02-23,-119.04364221064839,included_game_day
+2004,47,Howard Bison,2004-02-28,-114.77831456156292,included_game_day
+2004,47,Howard Bison,2004-03-01,-121.52229792142454,included_game_day
+2004,47,Howard Bison,2004-03-04,-121.55574250185492,included_game_day
+2004,47,Howard Bison,2004-03-08,-116.72128734960143,included_game_day
+2005,47,Howard Bison,2004-11-19,-8.0,included_game_day
+2005,47,Howard Bison,2004-11-20,-30.2,included_game_day
+2005,47,Howard Bison,2004-11-22,-13.18,included_game_day
+2005,47,Howard Bison,2004-11-29,-20.71413,included_game_day
+2005,47,Howard Bison,2004-12-04,-20.953577000000003,included_game_day
+2005,47,Howard Bison,2004-12-06,-3.9874348100000034,included_game_day
+2005,47,Howard Bison,2004-12-12,-15.732753644580004,included_game_day
+2005,47,Howard Bison,2004-12-18,-30.857388351438285,included_game_day
+2005,47,Howard Bison,2004-12-22,-25.559308442021884,included_game_day
+2005,47,Howard Bison,2004-12-30,-38.38375380691012,included_game_day
+2005,47,Howard Bison,2005-01-08,-41.57643396297,included_game_day
+2005,47,Howard Bison,2005-01-10,-62.74626887995612,included_game_day
+2005,47,Howard Bison,2005-01-15,-71.34007286992365,included_game_day
+2005,47,Howard Bison,2005-01-17,-82.05717131057146,included_game_day
+2005,47,Howard Bison,2005-01-22,-88.34872661032365,included_game_day
+2005,47,Howard Bison,2005-01-24,-126.00442186511593,included_game_day
+2005,47,Howard Bison,2005-01-29,-150.97318494515372,included_game_day
+2005,47,Howard Bison,2005-01-31,-146.17091361308812,included_game_day
+2005,47,Howard Bison,2005-02-03,-140.55399112851228,included_game_day
+2005,47,Howard Bison,2005-02-07,-168.73523951635485,included_game_day
+2005,47,Howard Bison,2005-02-12,-169.47419370488663,included_game_day
+2005,47,Howard Bison,2005-02-14,-160.65435737572582,included_game_day
+2005,47,Howard Bison,2005-02-19,-156.1916284447926,included_game_day
+2005,47,Howard Bison,2005-02-21,-158.76023601444976,included_game_day
+2005,47,Howard Bison,2005-02-26,-148.85548719431958,included_game_day
+2005,47,Howard Bison,2005-02-28,-145.07471454603655,included_game_day
+2005,47,Howard Bison,2005-03-05,-141.7437532482587,included_game_day
+2005,47,Howard Bison,2005-03-07,-157.03043772758065,included_game_day
+2006,47,Howard Bison,2005-11-23,-9.0,included_game_day
+2006,47,Howard Bison,2005-11-25,-38.75324,included_game_day
+2006,47,Howard Bison,2005-11-26,-67.77915999999999,included_game_day
+2006,47,Howard Bison,2005-12-05,-77.06191553999999,included_game_day
+2006,47,Howard Bison,2005-12-10,-71.01515724599999,included_game_day
+2006,47,Howard Bison,2005-12-12,-78.59992303969999,included_game_day
+2006,47,Howard Bison,2005-12-20,-100.55065208893083,included_game_day
+2006,47,Howard Bison,2005-12-29,-90.35381290354427,included_game_day
+2006,47,Howard Bison,2005-12-30,-86.2309876983307,included_game_day
+2006,47,Howard Bison,2006-01-02,-73.98508134596858,included_game_day
+2006,47,Howard Bison,2006-01-05,-80.84934489336058,included_game_day
+2006,47,Howard Bison,2006-01-07,-78.94180580547949,included_game_day
+2006,47,Howard Bison,2006-01-09,-90.35005131081158,included_game_day
+2006,47,Howard Bison,2006-01-14,-103.27066798443656,included_game_day
+2006,47,Howard Bison,2006-01-21,-100.4109600090351,included_game_day
+2006,47,Howard Bison,2006-01-23,-94.14667757418475,included_game_day
+2006,47,Howard Bison,2006-01-28,-95.78769427196279,included_game_day
+2006,47,Howard Bison,2006-01-30,-112.54646168300685,included_game_day
+2006,47,Howard Bison,2006-02-04,-112.18802329848953,included_game_day
+2006,47,Howard Bison,2006-02-06,-117.08014065237987,included_game_day
+2006,47,Howard Bison,2006-02-11,-115.00151866658082,included_game_day
+2006,47,Howard Bison,2006-02-18,-129.30549529731533,included_game_day
+2006,47,Howard Bison,2006-02-20,-110.69004201714102,included_game_day
+2006,47,Howard Bison,2006-02-25,-91.43037247991873,included_game_day
+2006,47,Howard Bison,2006-02-27,-90.43085456022116,included_game_day
+2006,47,Howard Bison,2006-03-01,-80.93667824904225,included_game_day
+2006,47,Howard Bison,2006-03-04,-85.44074694166544,included_game_day
+2006,47,Howard Bison,2006-03-07,-75.07575723279395,included_game_day
+2006,47,Howard Bison,2006-03-08,-79.83440898123287,included_game_day
+2007,47,Howard Bison,2006-11-10,-28.0,included_game_day
+2007,47,Howard Bison,2006-11-11,-47.8,included_game_day
+2007,47,Howard Bison,2006-11-12,-35.699999999999996,included_game_day
+2007,47,Howard Bison,2006-11-21,-34.800999999999995,included_game_day
+2007,47,Howard Bison,2006-11-25,-31.083399999999994,included_game_day
+2007,47,Howard Bison,2006-11-27,-24.463649999999994,included_game_day
+2007,47,Howard Bison,2006-12-02,-19.022670364899994,included_game_day
+2007,47,Howard Bison,2006-12-04,-13.807321142509995,included_game_day
+2007,47,Howard Bison,2006-12-06,-22.129707941158998,included_game_day
+2007,47,Howard Bison,2006-12-09,-20.274791943593097,included_game_day
+2007,47,Howard Bison,2006-12-19,-33.54815059360069,included_game_day
+2007,47,Howard Bison,2006-12-21,-58.08776569639138,included_game_day
+2007,47,Howard Bison,2006-12-29,-67.34535769719461,included_game_day
+2007,47,Howard Bison,2006-12-30,-63.56303093519004,included_game_day
+2007,47,Howard Bison,2007-01-06,-67.17793118053756,included_game_day
+2007,47,Howard Bison,2007-01-08,-64.97427457769565,included_game_day
+2007,47,Howard Bison,2007-01-13,-68.0005484827751,included_game_day
+2007,47,Howard Bison,2007-01-20,-75.3957636816883,included_game_day
+2007,47,Howard Bison,2007-01-22,-88.10999229206918,included_game_day
+2007,47,Howard Bison,2007-01-27,-96.61965046139,included_game_day
+2007,47,Howard Bison,2007-01-29,-108.71731466777801,included_game_day
+2007,47,Howard Bison,2007-02-03,-115.65528410850615,included_game_day
+2007,47,Howard Bison,2007-02-05,-106.7130813248709,included_game_day
+2007,47,Howard Bison,2007-02-10,-122.24168007794466,included_game_day
+2007,47,Howard Bison,2007-02-17,-118.64957397826409,included_game_day
+2007,47,Howard Bison,2007-02-19,-117.44940632689547,included_game_day
+2007,47,Howard Bison,2007-02-24,-116.53807694739271,included_game_day
+2007,47,Howard Bison,2007-02-26,-131.0812221117067,included_game_day
+2007,47,Howard Bison,2007-02-28,-126.3049704539643,included_game_day
+2007,47,Howard Bison,2007-03-03,-137.69887783354577,included_game_day
+2007,47,Howard Bison,2007-03-06,-140.81563075750663,included_game_day
+2008,47,Howard Bison,2007-11-09,-67.0,included_game_day
+2008,47,Howard Bison,2007-11-14,-94.84,included_game_day
+2008,47,Howard Bison,2007-11-17,-70.256,included_game_day
+2008,47,Howard Bison,2007-11-20,-60.650400000000005,included_game_day
+2008,47,Howard Bison,2007-11-23,-67.01324,included_game_day
+2008,47,Howard Bison,2007-11-24,-78.51822,included_game_day
+2008,47,Howard Bison,2007-11-27,-66.181563,included_game_day
+2008,47,Howard Bison,2007-12-01,-95.59451569999999,included_game_day
+2008,47,Howard Bison,2007-12-04,-93.88183734599998,included_game_day
+2008,47,Howard Bison,2007-12-08,-121.74500324079999,included_game_day
+2008,47,Howard Bison,2007-12-20,-134.25419839494998,included_game_day
+2008,47,Howard Bison,2007-12-22,-155.87704226967787,included_game_day
+2008,47,Howard Bison,2007-12-28,-182.10275438899765,included_game_day
+2008,47,Howard Bison,2007-12-29,-178.52917080273124,included_game_day
+2008,47,Howard Bison,2008-01-12,-180.95338453503544,included_game_day
+2008,47,Howard Bison,2008-01-14,-172.84600923946974,included_game_day
+2008,47,Howard Bison,2008-01-21,-164.11524071074916,included_game_day
+2008,47,Howard Bison,2008-01-26,-169.1479624447318,included_game_day
+2008,47,Howard Bison,2008-01-28,-164.3557682597973,included_game_day
+2008,47,Howard Bison,2008-02-02,-169.25979929534336,included_game_day
+2008,47,Howard Bison,2008-02-04,-168.61598564868484,included_game_day
+2008,47,Howard Bison,2008-02-09,-170.94937922665832,included_game_day
+2008,47,Howard Bison,2008-02-11,-182.43556314702388,included_game_day
+2008,47,Howard Bison,2008-02-16,-182.07749308140546,included_game_day
+2008,47,Howard Bison,2008-02-18,-192.5374079354638,included_game_day
+2008,47,Howard Bison,2008-02-23,-174.67937156949253,included_game_day
+2008,47,Howard Bison,2008-02-25,-185.95247203729716,included_game_day
+2008,47,Howard Bison,2008-03-01,-171.94187779302396,included_game_day
+2008,47,Howard Bison,2008-03-03,-167.74714343820636,included_game_day
+2008,47,Howard Bison,2008-03-06,-165.86065992596684,included_game_day
+2008,47,Howard Bison,2008-03-11,-156.24159286852537,included_game_day
+2009,47,Howard Bison,2008-11-14,-1.0,included_game_day
+2009,47,Howard Bison,2008-11-16,-10.4,included_game_day
+2009,47,Howard Bison,2008-11-19,-15.21,included_game_day
+2009,47,Howard Bison,2008-11-22,-44.8709,included_game_day
+2009,47,Howard Bison,2008-11-25,-57.88381,included_game_day
+2009,47,Howard Bison,2008-12-01,-80.25830579999999,included_game_day
+2009,47,Howard Bison,2008-12-06,-76.46107731999999,included_game_day
+2009,47,Howard Bison,2008-12-20,-102.77216707943398,included_game_day
+2009,47,Howard Bison,2008-12-22,-114.32395890832397,included_game_day
+2009,47,Howard Bison,2008-12-29,-132.28368335613504,included_game_day
+2009,47,Howard Bison,2008-12-30,-125.75228436717845,included_game_day
+2009,47,Howard Bison,2008-12-31,-137.00323885173754,included_game_day
+2009,47,Howard Bison,2009-01-03,-132.66786437453024,included_game_day
+2009,47,Howard Bison,2009-01-10,-132.5848694206892,included_game_day
+2009,47,Howard Bison,2009-01-12,-136.47540551838586,included_game_day
+2009,47,Howard Bison,2009-01-17,-125.70661501204567,included_game_day
+2009,47,Howard Bison,2009-01-19,-113.38595127272714,included_game_day
+2009,47,Howard Bison,2009-01-24,-119.763016710779,included_game_day
+2009,47,Howard Bison,2009-01-26,-120.6825885027837,included_game_day
+2009,47,Howard Bison,2009-01-31,-117.49719390950462,included_game_day
+2009,47,Howard Bison,2009-02-02,-106.76415650752271,included_game_day
+2009,47,Howard Bison,2009-02-07,-106.07035318264688,included_game_day
+2009,47,Howard Bison,2009-02-09,-89.58395919606298,included_game_day
+2009,47,Howard Bison,2009-02-14,-97.4315568894663,included_game_day
+2009,47,Howard Bison,2009-02-16,-103.52220844968163,included_game_day
+2009,47,Howard Bison,2009-02-18,-98.62519642545378,included_game_day
+2009,47,Howard Bison,2009-02-23,-88.3382066093358,included_game_day
+2009,47,Howard Bison,2009-02-28,-92.67090747863409,included_game_day
+2009,47,Howard Bison,2009-03-02,-101.33999666016798,included_game_day
+2009,47,Howard Bison,2009-03-05,-108.26990619741122,included_game_day
+2009,47,Howard Bison,2009-03-10,-121.30350494157358,included_game_day
+2010,47,Howard Bison,2009-11-13,-20.0,included_game_day
+2010,47,Howard Bison,2009-11-17,-22.6,included_game_day
+2010,47,Howard Bison,2009-11-20,-25.1,included_game_day
+2010,47,Howard Bison,2009-11-21,-48.7367,included_game_day
+2010,47,Howard Bison,2009-11-22,-63.12466,included_game_day
+2010,47,Howard Bison,2009-11-25,-80.296095,included_game_day
+2010,47,Howard Bison,2009-11-28,-85.3109655,included_game_day
+2010,47,Howard Bison,2009-12-01,-86.29919865,included_game_day
+2010,47,Howard Bison,2009-12-05,-74.27627331949999,included_game_day
+2010,47,Howard Bison,2009-12-19,-99.425038739695,included_game_day
+2010,47,Howard Bison,2009-12-22,-104.71844520820059,included_game_day
+2010,47,Howard Bison,2009-12-29,-117.4963251190471,included_game_day
+2010,47,Howard Bison,2009-12-30,-141.8618918168073,included_game_day
+2010,47,Howard Bison,2010-01-02,-139.9040691104835,included_game_day
+2010,47,Howard Bison,2010-01-04,-127.69127067332968,included_game_day
+2010,47,Howard Bison,2010-01-09,-149.57946458318497,included_game_day
+2010,47,Howard Bison,2010-01-11,-138.1439488610605,included_game_day
+2010,47,Howard Bison,2010-01-16,-122.78283014594425,included_game_day
+2010,47,Howard Bison,2010-01-18,-110.16813020986073,included_game_day
+2010,47,Howard Bison,2010-01-23,-122.58883596810745,included_game_day
+2010,47,Howard Bison,2010-01-25,-116.29169353281812,included_game_day
+2010,47,Howard Bison,2010-01-30,-115.00919618126225,included_game_day
+2010,47,Howard Bison,2010-02-01,-113.70631479579566,included_game_day
+2010,47,Howard Bison,2010-02-06,-115.87507841950469,included_game_day
+2010,47,Howard Bison,2010-02-08,-115.73083757207316,included_game_day
+2010,47,Howard Bison,2010-02-13,-105.52684748628305,included_game_day
+2010,47,Howard Bison,2010-02-15,-126.79580570440044,included_game_day
+2010,47,Howard Bison,2010-02-20,-129.05852019194765,included_game_day
+2010,47,Howard Bison,2010-02-22,-130.37736537762862,included_game_day
+2010,47,Howard Bison,2010-02-27,-132.18860500993358,included_game_day
+2010,47,Howard Bison,2010-03-04,-165.85228193839538,included_game_day
+2010,47,Howard Bison,2010-03-09,-167.96212635647973,included_game_day
+2011,47,Howard Bison,2010-11-12,-1.0,included_game_day
+2011,47,Howard Bison,2010-11-14,-33.9,included_game_day
+2011,47,Howard Bison,2010-11-19,-62.2,included_game_day
+2011,47,Howard Bison,2010-11-21,-73.51,included_game_day
+2011,47,Howard Bison,2010-11-23,-78.25580000000001,included_game_day
+2011,47,Howard Bison,2010-11-27,-83.35696066000001,included_game_day
+2011,47,Howard Bison,2010-12-01,-91.54469143400001,included_game_day
+2011,47,Howard Bison,2010-12-04,-91.82342833060001,included_game_day
+2011,47,Howard Bison,2010-12-07,-97.66908441604001,included_game_day
+2011,47,Howard Bison,2010-12-22,-86.72250017378177,included_game_day
+2011,47,Howard Bison,2010-12-28,-88.24968200582788,included_game_day
+2011,47,Howard Bison,2011-01-02,-121.81017241882944,included_game_day
+2011,47,Howard Bison,2011-01-04,-127.31327221029014,included_game_day
+2011,47,Howard Bison,2011-01-08,-129.17604787728774,included_game_day
+2011,47,Howard Bison,2011-01-10,-149.66248844587187,included_game_day
+2011,47,Howard Bison,2011-01-15,-158.88721989099926,included_game_day
+2011,47,Howard Bison,2011-01-17,-164.4080385646972,included_game_day
+2011,47,Howard Bison,2011-01-22,-163.37150359858984,included_game_day
+2011,47,Howard Bison,2011-01-24,-157.4216715865958,included_game_day
+2011,47,Howard Bison,2011-01-29,-154.45520489441068,included_game_day
+2011,47,Howard Bison,2011-01-31,-143.88745803451135,included_game_day
+2011,47,Howard Bison,2011-02-05,-147.9565401956409,included_game_day
+2011,47,Howard Bison,2011-02-07,-135.55498976742115,included_game_day
+2011,47,Howard Bison,2011-02-12,-145.37920635177565,included_game_day
+2011,47,Howard Bison,2011-02-14,-143.31685549770066,included_game_day
+2011,47,Howard Bison,2011-02-19,-134.3692874571236,included_game_day
+2011,47,Howard Bison,2011-02-21,-129.63863356251082,included_game_day
+2011,47,Howard Bison,2011-02-26,-138.06391380121477,included_game_day
+2011,47,Howard Bison,2011-03-03,-141.95258795478938,included_game_day
+2011,47,Howard Bison,2011-03-09,-149.4110775558293,included_game_day
+2012,47,Howard Bison,2011-11-11,-12.0,included_game_day
+2012,47,Howard Bison,2011-11-16,-19.25,included_game_day
+2012,47,Howard Bison,2011-11-21,-20.8907,included_game_day
+2012,47,Howard Bison,2011-11-26,-18.561251999999996,included_game_day
+2012,47,Howard Bison,2011-11-29,-23.8629318,included_game_day
+2012,47,Howard Bison,2011-12-04,-43.57990873999999,included_game_day
+2012,47,Howard Bison,2011-12-06,-37.432293488899994,included_game_day
+2012,47,Howard Bison,2011-12-10,-34.92272994820999,included_game_day
+2012,47,Howard Bison,2011-12-12,-39.05502224795699,included_game_day
+2012,47,Howard Bison,2011-12-15,-46.21958551913029,included_game_day
+2012,47,Howard Bison,2011-12-19,-83.22506043788425,included_game_day
+2012,47,Howard Bison,2011-12-22,-70.89465134101735,included_game_day
+2012,47,Howard Bison,2011-12-29,-107.14618109647111,included_game_day
+2012,47,Howard Bison,2011-12-31,-119.36191755685894,included_game_day
+2012,47,Howard Bison,2012-01-04,-121.50815188602391,included_game_day
+2012,47,Howard Bison,2012-01-07,-111.98857104007554,included_game_day
+2012,47,Howard Bison,2012-01-09,-118.01815944197004,included_game_day
+2012,47,Howard Bison,2012-01-14,-122.99482122802537,included_game_day
+2012,47,Howard Bison,2012-01-16,-132.27682822673395,included_game_day
+2012,47,Howard Bison,2012-01-28,-137.05977027760704,included_game_day
+2012,47,Howard Bison,2012-01-30,-131.12192066978437,included_game_day
+2012,47,Howard Bison,2012-02-04,-142.3890273538802,included_game_day
+2012,47,Howard Bison,2012-02-06,-122.47688383407466,included_game_day
+2012,47,Howard Bison,2012-02-11,-121.08220559651781,included_game_day
+2012,47,Howard Bison,2012-02-13,-122.86913244753678,included_game_day
+2012,47,Howard Bison,2012-02-18,-106.54010174601592,included_game_day
+2012,47,Howard Bison,2012-02-20,-108.78125810690439,included_game_day
+2012,47,Howard Bison,2012-02-25,-112.49814241148466,included_game_day
+2012,47,Howard Bison,2012-03-06,-108.08525729352674,included_game_day
+2012,47,Howard Bison,2012-03-07,-109.32333235298229,included_game_day
+2013,47,Howard Bison,2012-11-15,-23.58,included_game_day
+2013,47,Howard Bison,2012-11-17,-34.471,included_game_day
+2013,47,Howard Bison,2012-11-20,-43.28189999999999,included_game_day
+2013,47,Howard Bison,2012-11-21,-43.3993,included_game_day
+2013,47,Howard Bison,2012-11-27,-51.216871999999995,included_game_day
+2013,47,Howard Bison,2012-12-01,-53.2849079703,included_game_day
+2013,47,Howard Bison,2012-12-04,-49.51915987327,included_game_day
+2013,47,Howard Bison,2012-12-06,-48.959739962943,included_game_day
+2013,47,Howard Bison,2012-12-15,-48.202570927648694,included_game_day
+2013,47,Howard Bison,2012-12-19,-52.83713753924083,included_game_day
+2013,47,Howard Bison,2012-12-21,-65.18626285707225,included_game_day
+2013,47,Howard Bison,2012-12-28,-72.07620462990762,included_game_day
+2013,47,Howard Bison,2012-12-29,-90.53503864650288,included_game_day
+2013,47,Howard Bison,2013-01-05,-75.20137932732167,included_game_day
+2013,47,Howard Bison,2013-01-12,-77.45592670938275,included_game_day
+2013,47,Howard Bison,2013-01-14,-80.9538589208099,included_game_day
+2013,47,Howard Bison,2013-01-19,-94.52331928155706,included_game_day
+2013,47,Howard Bison,2013-01-21,-114.89147605515784,included_game_day
+2013,47,Howard Bison,2013-01-23,-125.74113267673833,included_game_day
+2013,47,Howard Bison,2013-02-02,-129.1033335786828,included_game_day
+2013,47,Howard Bison,2013-02-04,-122.93620756190356,included_game_day
+2013,47,Howard Bison,2013-02-09,-107.39476089570996,included_game_day
+2013,47,Howard Bison,2013-02-11,-102.76354937615277,included_game_day
+2013,47,Howard Bison,2013-02-16,-100.54023387290579,included_game_day
+2013,47,Howard Bison,2013-02-18,-108.66185976601817,included_game_day
+2013,47,Howard Bison,2013-02-23,-119.00664658068301,included_game_day
+2013,47,Howard Bison,2013-02-25,-116.0096813733535,included_game_day
+2013,47,Howard Bison,2013-03-02,-115.83956335160728,included_game_day
+2013,47,Howard Bison,2013-03-12,-123.29952362268432,included_game_day
+2014,47,Howard Bison,2013-11-13,-18.5,included_game_day
+2014,47,Howard Bison,2013-11-15,-44.65,included_game_day
+2014,47,Howard Bison,2013-11-17,-64.645,included_game_day
+2014,47,Howard Bison,2013-11-21,-64.5549,included_game_day
+2014,47,Howard Bison,2013-11-25,-69.95639700000001,included_game_day
+2014,47,Howard Bison,2013-11-26,-75.21580360000002,included_game_day
+2014,47,Howard Bison,2013-11-30,-73.83676004000002,included_game_day
+2014,47,Howard Bison,2013-12-04,-85.49751775900002,included_game_day
+2014,47,Howard Bison,2013-12-07,-110.79019896910002,included_game_day
+2014,47,Howard Bison,2013-12-11,-112.15300997451801,included_game_day
+2014,47,Howard Bison,2013-12-14,-117.55240035903282,included_game_day
+2014,47,Howard Bison,2013-12-15,-112.23701707412954,included_game_day
+2014,47,Howard Bison,2013-12-17,-118.08960305818358,included_game_day
+2014,47,Howard Bison,2013-12-29,-122.94919068959308,included_game_day
+2014,47,Howard Bison,2014-01-04,-117.64780894051732,included_game_day
+2014,47,Howard Bison,2014-01-13,-116.89697086194676,included_game_day
+2014,47,Howard Bison,2014-01-18,-87.16922816580868,included_game_day
+2014,47,Howard Bison,2014-01-25,-73.97358980533089,included_game_day
+2014,47,Howard Bison,2014-01-27,-86.92405976795479,included_game_day
+2014,47,Howard Bison,2014-02-01,-90.58368006432764,included_game_day
+2014,47,Howard Bison,2014-02-03,-88.12382591962806,included_game_day
+2014,47,Howard Bison,2014-02-08,-92.87988095571404,included_game_day
+2014,47,Howard Bison,2014-02-10,-110.1262240180186,included_game_day
+2014,47,Howard Bison,2014-02-15,-122.58038384289912,included_game_day
+2014,47,Howard Bison,2014-02-22,-116.62425906599415,included_game_day
+2014,47,Howard Bison,2014-02-24,-116.37628219286896,included_game_day
+2014,47,Howard Bison,2014-03-01,-105.07169924984655,included_game_day
+2014,47,Howard Bison,2014-03-03,-118.02096183147599,included_game_day
+2014,47,Howard Bison,2014-03-06,-115.06772200433608,included_game_day
+2014,47,Howard Bison,2014-03-11,-111.16954666095175,included_game_day
+2014,47,Howard Bison,2014-03-12,-137.55724242602955,included_game_day
+2015,47,Howard Bison,2014-11-14,-32.0,included_game_day
+2015,47,Howard Bison,2014-11-18,-34.8,included_game_day
+2015,47,Howard Bison,2014-11-20,-38.98,included_game_day
+2015,47,Howard Bison,2014-11-25,-21.043999999999997,included_game_day
+2015,47,Howard Bison,2014-12-02,-32.922948999999996,included_game_day
+2015,47,Howard Bison,2014-12-06,-30.752558798999996,included_game_day
+2015,47,Howard Bison,2014-12-07,-49.3463625814,included_game_day
+2015,47,Howard Bison,2014-12-13,-52.28857824226,included_game_day
+2015,47,Howard Bison,2014-12-15,-46.645921395857,included_game_day
+2015,47,Howard Bison,2014-12-17,-43.5732722725963,included_game_day
+2015,47,Howard Bison,2014-12-23,-26.43266235897451,included_game_day
+2015,47,Howard Bison,2014-12-28,-40.708689117637654,included_game_day
+2015,47,Howard Bison,2015-01-08,-44.69533520408498,included_game_day
+2015,47,Howard Bison,2015-01-10,-53.19166767072486,included_game_day
+2015,47,Howard Bison,2015-01-12,-60.73798063950715,included_game_day
+2015,47,Howard Bison,2015-01-24,-62.11562592421362,included_game_day
+2015,47,Howard Bison,2015-01-26,-58.25287647581497,included_game_day
+2015,47,Howard Bison,2015-01-31,-51.02312524597747,included_game_day
+2015,47,Howard Bison,2015-02-02,-40.95202177422482,included_game_day
+2015,47,Howard Bison,2015-02-07,-36.23907163978982,included_game_day
+2015,47,Howard Bison,2015-02-09,-40.4998048344359,included_game_day
+2015,47,Howard Bison,2015-02-14,-25.568689129630897,included_game_day
+2015,47,Howard Bison,2015-02-16,-32.74777079711983,included_game_day
+2015,47,Howard Bison,2015-02-21,-37.94859197425993,included_game_day
+2015,47,Howard Bison,2015-02-23,-31.63570393696125,included_game_day
+2015,47,Howard Bison,2015-02-28,-37.05544223121565,included_game_day
+2015,47,Howard Bison,2015-03-02,-35.66066789732052,included_game_day
+2015,47,Howard Bison,2015-03-04,-35.933793733686386,included_game_day
+2015,47,Howard Bison,2015-03-12,-41.476095658413406,included_game_day
+2016,47,Howard Bison,2015-11-14,-3.0,included_game_day
+2016,47,Howard Bison,2015-11-15,-11.7,included_game_day
+2016,47,Howard Bison,2015-11-23,-9.565999999999999,included_game_day
+2016,47,Howard Bison,2015-11-25,8.584590000000002,included_game_day
+2016,47,Howard Bison,2015-11-28,11.518931000000002,included_game_day
+2016,47,Howard Bison,2015-12-05,2.157246530000002,included_game_day
+2016,47,Howard Bison,2015-12-07,2.9076392697100015,included_game_day
+2016,47,Howard Bison,2015-12-09,-18.757969200561,included_game_day
+2016,47,Howard Bison,2015-12-12,-21.9535766286249,included_game_day
+2016,47,Howard Bison,2015-12-19,-17.955272064961413,included_game_day
+2016,47,Howard Bison,2015-12-22,-35.75157568636027,included_game_day
+2016,47,Howard Bison,2015-12-28,-40.203243733094126,included_game_day
+2016,47,Howard Bison,2016-01-02,-61.54313304096269,included_game_day
+2016,47,Howard Bison,2016-01-06,-65.98837278265451,included_game_day
+2016,47,Howard Bison,2016-01-09,-65.39836944989227,included_game_day
+2016,47,Howard Bison,2016-01-11,-68.52661739167652,included_game_day
+2016,47,Howard Bison,2016-01-16,-69.6804857614237,included_game_day
+2016,47,Howard Bison,2016-01-26,-72.85421642748415,included_game_day
+2016,47,Howard Bison,2016-01-30,-94.37448675378812,included_game_day
+2016,47,Howard Bison,2016-02-01,-109.1566721022747,included_game_day
+2016,47,Howard Bison,2016-02-06,-110.63229359378444,included_game_day
+2016,47,Howard Bison,2016-02-08,-109.49527454257021,included_game_day
+2016,47,Howard Bison,2016-02-13,-133.07317686551934,included_game_day
+2016,47,Howard Bison,2016-02-16,-128.48219035089812,included_game_day
+2016,47,Howard Bison,2016-02-20,-137.71426944935774,included_game_day
+2016,47,Howard Bison,2016-02-22,-140.35459207032545,included_game_day
+2016,47,Howard Bison,2016-02-24,-133.29540818917798,included_game_day
+2016,47,Howard Bison,2016-02-27,-121.42800075605545,included_game_day
+2016,47,Howard Bison,2016-02-29,-129.63237111179274,included_game_day
+2016,47,Howard Bison,2016-03-08,-125.00850205815803,included_game_day
+2017,47,Howard Bison,2016-11-11,-15.0,included_game_day
+2017,47,Howard Bison,2016-11-14,-40.1,included_game_day
+2017,47,Howard Bison,2016-11-18,-56.47,included_game_day
+2017,47,Howard Bison,2016-11-19,-71.303,included_game_day
+2017,47,Howard Bison,2016-11-27,-75.520588,included_game_day
+2017,47,Howard Bison,2016-12-03,-57.6902972,included_game_day
+2017,47,Howard Bison,2016-12-07,-70.22435610800001,included_game_day
+2017,47,Howard Bison,2016-12-10,-77.98456682308,included_game_day
+2017,47,Howard Bison,2016-12-14,-88.2507601742634,included_game_day
+2017,47,Howard Bison,2016-12-22,-93.69331222037026,included_game_day
+2017,47,Howard Bison,2016-12-27,-111.7219359637148,included_game_day
+2017,47,Howard Bison,2016-12-30,-117.27361831711936,included_game_day
+2017,47,Howard Bison,2017-01-04,-133.0764102437373,included_game_day
+2017,47,Howard Bison,2017-01-07,-136.56516983103518,included_game_day
+2017,47,Howard Bison,2017-01-14,-119.54805414851974,included_game_day
+2017,47,Howard Bison,2017-01-16,-136.24376752901165,included_game_day
+2017,47,Howard Bison,2017-01-21,-119.18411300293167,included_game_day
+2017,47,Howard Bison,2017-01-23,-136.34144422969734,included_game_day
+2017,47,Howard Bison,2017-01-28,-138.3684936018157,included_game_day
+2017,47,Howard Bison,2017-01-30,-149.7927244606191,included_game_day
+2017,47,Howard Bison,2017-02-04,-154.50293696942984,included_game_day
+2017,47,Howard Bison,2017-02-06,-154.7489809068746,included_game_day
+2017,47,Howard Bison,2017-02-11,-156.6863264883312,included_game_day
+2017,47,Howard Bison,2017-02-13,-150.69392189817904,included_game_day
+2017,47,Howard Bison,2017-02-18,-126.83201401084722,included_game_day
+2017,47,Howard Bison,2017-02-20,-122.11964068897046,included_game_day
+2017,47,Howard Bison,2017-02-25,-121.7889989141078,included_game_day
+2017,47,Howard Bison,2017-02-27,-111.81410170474689,included_game_day
+2017,47,Howard Bison,2017-03-02,-120.10847608943277,included_game_day
+2017,47,Howard Bison,2017-03-06,-116.05184554913674,included_game_day
+2017,47,Howard Bison,2017-03-09,-109.71552932179891,included_game_day
+2017,47,Howard Bison,2017-03-10,-120.87863232651827,included_game_day
+2018,47,Howard Bison,2017-11-10,-6.0,included_game_day
+2018,47,Howard Bison,2017-11-12,-13.8,included_game_day
+2018,47,Howard Bison,2017-11-14,-43.92,included_game_day
+2018,47,Howard Bison,2017-11-18,-45.117000000000004,included_game_day
+2018,47,Howard Bison,2017-11-20,-52.9063,included_game_day
+2018,47,Howard Bison,2017-11-22,-69.95877,included_game_day
+2018,47,Howard Bison,2017-11-27,-79.792795,included_game_day
+2018,47,Howard Bison,2017-12-04,-87.68506350999999,included_game_day
+2018,47,Howard Bison,2017-12-07,-84.59484212219999,included_game_day
+2018,47,Howard Bison,2017-12-09,-90.40036749458,included_game_day
+2018,47,Howard Bison,2017-12-18,-75.3745202138631,included_game_day
+2018,47,Howard Bison,2017-12-21,-81.35010354935429,included_game_day
+2018,47,Howard Bison,2017-12-22,-76.2974494003208,included_game_day
+2018,47,Howard Bison,2017-12-29,-92.63287168529084,included_game_day
+2018,47,Howard Bison,2018-01-03,-102.03615021730168,included_game_day
+2018,47,Howard Bison,2018-01-06,-110.27948361848738,included_game_day
+2018,47,Howard Bison,2018-01-13,-112.06737277729684,included_game_day
+2018,47,Howard Bison,2018-01-15,-111.09819305189455,included_game_day
+2018,47,Howard Bison,2018-01-20,-100.29222616449009,included_game_day
+2018,47,Howard Bison,2018-01-22,-96.83620353795429,included_game_day
+2018,47,Howard Bison,2018-01-27,-89.91915592815377,included_game_day
+2018,47,Howard Bison,2018-02-03,-94.86909814950282,included_game_day
+2018,47,Howard Bison,2018-02-05,-130.55817474209255,included_game_day
+2018,47,Howard Bison,2018-02-08,-139.56686295453164,included_game_day
+2018,47,Howard Bison,2018-02-12,-117.62010423300993,included_game_day
+2018,47,Howard Bison,2018-02-17,-124.53928754937053,included_game_day
+2018,47,Howard Bison,2018-02-19,-134.8229262030066,included_game_day
+2018,47,Howard Bison,2018-02-24,-122.91245370644016,included_game_day
+2018,47,Howard Bison,2018-02-26,-124.07605513002865,included_game_day
+2018,47,Howard Bison,2018-03-01,-116.51833243075761,included_game_day
+2018,47,Howard Bison,2018-03-06,-129.1541160746659,included_game_day
+2019,47,Howard Bison,2018-11-16,10.009,included_game_day
+2019,47,Howard Bison,2018-11-19,-1.5441000000000003,included_game_day
+2019,47,Howard Bison,2018-11-23,-20.26176,included_game_day
+2019,47,Howard Bison,2018-11-24,-19.986928,included_game_day
+2019,47,Howard Bison,2018-12-04,-32.0008764329,included_game_day
+2019,47,Howard Bison,2018-12-08,-28.16950074611,included_game_day
+2019,47,Howard Bison,2018-12-14,-35.230732435313996,included_game_day
+2019,47,Howard Bison,2018-12-16,-35.127519414300096,included_game_day
+2019,47,Howard Bison,2018-12-20,-52.832947997093484,included_game_day
+2019,47,Howard Bison,2018-12-22,-56.98095287600414,included_game_day
+2019,47,Howard Bison,2018-12-29,-80.31342291670373,included_game_day
+2019,47,Howard Bison,2019-01-05,-94.92476826441558,included_game_day
+2019,47,Howard Bison,2019-01-07,-57.63789206830684,included_game_day
+2019,47,Howard Bison,2019-01-12,-70.04487453700303,included_game_day
+2019,47,Howard Bison,2019-01-15,-77.53873606864634,included_game_day
+2019,47,Howard Bison,2019-01-19,-71.04902334849098,included_game_day
+2019,47,Howard Bison,2019-01-21,-80.01274635588749,included_game_day
+2019,47,Howard Bison,2019-01-26,-87.66664129532948,included_game_day
+2019,47,Howard Bison,2019-01-28,-86.07177860664035,included_game_day
+2019,47,Howard Bison,2019-02-02,-85.75004739476113,included_game_day
+2019,47,Howard Bison,2019-02-09,-75.58181846945216,included_game_day
+2019,47,Howard Bison,2019-02-11,-63.0834541666082,included_game_day
+2019,47,Howard Bison,2019-02-16,-70.96255286441679,included_game_day
+2019,47,Howard Bison,2019-02-18,-79.8048978883348,included_game_day
+2019,47,Howard Bison,2019-02-23,-80.5512643364909,included_game_day
+2019,47,Howard Bison,2019-02-25,-73.8731504781564,included_game_day
+2019,47,Howard Bison,2019-03-02,-70.17285226302113,included_game_day
+2019,47,Howard Bison,2019-03-07,-58.50004650394496,included_game_day
+2019,47,Howard Bison,2019-03-14,-49.851588103584646,included_game_day
+2019,47,Howard Bison,2019-03-15,-53.80297597009552,included_game_day
+2019,47,Howard Bison,2019-03-20,-56.9814015298485,included_game_day
+2020,47,Howard Bison,2019-11-09,-12.1,included_game_day
+2020,47,Howard Bison,2019-11-12,-34.45,included_game_day
+2020,47,Howard Bison,2019-11-15,-56.075,included_game_day
+2020,47,Howard Bison,2019-11-17,-87.93125,included_game_day
+2020,47,Howard Bison,2019-11-21,-107.76127500000001,included_game_day
+2020,47,Howard Bison,2019-11-23,-123.03844450000001,included_game_day
+2020,47,Howard Bison,2019-11-26,-126.06130005000001,included_game_day
+2020,47,Howard Bison,2019-11-30,-136.807572845,included_game_day
+2020,47,Howard Bison,2019-12-05,-124.1909197418,included_game_day
+2020,47,Howard Bison,2019-12-14,-135.92291802362,included_game_day
+2020,47,Howard Bison,2019-12-22,-125.99642154333141,included_game_day
+2020,47,Howard Bison,2019-12-30,-133.82313765980825,included_game_day
+2020,47,Howard Bison,2020-01-04,-146.93744629013673,included_game_day
+2020,47,Howard Bison,2020-01-06,-167.2060568668414,included_game_day
+2020,47,Howard Bison,2020-01-11,-163.9137093277594,included_game_day
+2020,47,Howard Bison,2020-01-13,-164.3070891598511,included_game_day
+2020,47,Howard Bison,2020-01-18,-160.81240029474728,included_game_day
+2020,47,Howard Bison,2020-01-20,-154.27210889085006,included_game_day
+2020,47,Howard Bison,2020-01-25,-152.08200253362097,included_game_day
+2020,47,Howard Bison,2020-01-27,-150.85705802992302,included_game_day
+2020,47,Howard Bison,2020-02-01,-151.77480044383455,included_game_day
+2020,47,Howard Bison,2020-02-03,-158.91290650260294,included_game_day
+2020,47,Howard Bison,2020-02-08,-151.95041562658204,included_game_day
+2020,47,Howard Bison,2020-02-10,-157.63105762291696,included_game_day
+2020,47,Howard Bison,2020-02-22,-146.37375795331087,included_game_day
+2020,47,Howard Bison,2020-02-24,-147.1380935663522,included_game_day
+2020,47,Howard Bison,2020-02-29,-163.35162900642808,included_game_day
+2020,47,Howard Bison,2020-03-02,-164.9965956561068,included_game_day
+2020,47,Howard Bison,2020-03-05,-176.8401746208367,included_game_day
+2020,47,Howard Bison,2020-03-10,-162.3044920226403,included_game_day
+2020,47,Howard Bison,2020-03-11,-158.324884430441,included_game_day
+2021,47,Howard Bison,2020-11-26,-17.0,included_game_day
+2021,47,Howard Bison,2020-11-28,-30.130000000000003,included_game_day
+2021,47,Howard Bison,2020-12-06,-53.0253,included_game_day
+2021,47,Howard Bison,2020-12-18,-49.17667944,included_game_day
+2022,47,Howard Bison,2021-11-13,13.7,included_game_day
+2022,47,Howard Bison,2021-11-16,-0.6000000000000014,included_game_day
+2022,47,Howard Bison,2021-11-20,-10.738000000000001,included_game_day
+2022,47,Howard Bison,2021-11-21,-8.9646,included_game_day
+2022,47,Howard Bison,2021-11-26,-13.75346,included_game_day
+2022,47,Howard Bison,2021-11-30,-19.72154393,included_game_day
+2022,47,Howard Bison,2021-12-04,4.466161889000002,included_game_day
+2022,47,Howard Bison,2021-12-15,-3.017076683764638,included_game_day
+2022,47,Howard Bison,2021-12-18,16.6974635428661,included_game_day
+2022,47,Howard Bison,2021-12-21,10.123958972974094,included_game_day
+2022,47,Howard Bison,2022-01-15,1.8064567120189086,included_game_day
+2022,47,Howard Bison,2022-01-17,1.444253061296786,included_game_day
+2022,47,Howard Bison,2022-01-22,5.25630125944172,included_game_day
+2022,47,Howard Bison,2022-01-24,1.0617816416115895,included_game_day
+2022,47,Howard Bison,2022-01-29,1.6771314803296242,included_game_day
+2022,47,Howard Bison,2022-01-31,-6.366459690631496,included_game_day
+2022,47,Howard Bison,2022-02-05,-6.863072516434018,included_game_day
+2022,47,Howard Bison,2022-02-07,-16.635303256965464,included_game_day
+2022,47,Howard Bison,2022-02-12,-22.413316108806992,included_game_day
+2022,47,Howard Bison,2022-02-14,-16.85801090927592,included_game_day
+2022,47,Howard Bison,2022-02-19,-22.147927544463617,included_game_day
+2022,47,Howard Bison,2022-02-21,-36.442151173657265,included_game_day
+2022,47,Howard Bison,2022-02-26,-31.665803096436157,included_game_day
+2022,47,Howard Bison,2022-02-28,-27.460223522232145,included_game_day
+2022,47,Howard Bison,2022-03-03,-41.332465704365035,included_game_day
+2022,47,Howard Bison,2022-03-09,-48.21172815458828,included_game_day
+2023,47,Howard Bison,2022-11-07,-29.0,included_game_day
+2023,47,Howard Bison,2022-11-11,-33.1,included_game_day
+2023,47,Howard Bison,2022-11-15,-50.96,included_game_day
+2023,47,Howard Bison,2022-11-18,-53.276,included_game_day
+2023,47,Howard Bison,2022-11-19,-48.4099,included_game_day
+2023,47,Howard Bison,2022-11-21,-67.9417,included_game_day
+2023,47,Howard Bison,2022-11-26,-61.147535999999995,included_game_day
+2023,47,Howard Bison,2022-11-30,-92.54169019999999,included_game_day
+2023,47,Howard Bison,2022-12-03,-96.31094984199999,included_game_day
+2023,47,Howard Bison,2022-12-11,-95.24580955768998,included_game_day
+2023,47,Howard Bison,2022-12-13,-78.10224480532098,included_game_day
+2023,47,Howard Bison,2022-12-18,-52.45715371988888,included_game_day
+2023,47,Howard Bison,2022-12-21,-50.71107647913661,included_game_day
+2023,47,Howard Bison,2022-12-29,-58.5202663885279,included_game_day
+2023,47,Howard Bison,2023-01-07,-47.06777272912881,included_game_day
+2023,47,Howard Bison,2023-01-09,-52.98779899273127,included_game_day
+2023,47,Howard Bison,2023-01-14,-43.820548311210395,included_game_day
+2023,47,Howard Bison,2023-01-21,-13.947081684851593,included_game_day
+2023,47,Howard Bison,2023-01-23,-13.854485605818295,included_game_day
+2023,47,Howard Bison,2023-01-28,-13.64586355336294,included_game_day
+2023,47,Howard Bison,2023-01-30,-0.8251513243656756,included_game_day
+2023,47,Howard Bison,2023-02-11,-6.9918141068481265,included_game_day
+2023,47,Howard Bison,2023-02-13,-2.495301161176024,included_game_day
+2023,47,Howard Bison,2023-02-18,-5.234127386815712,included_game_day
+2023,47,Howard Bison,2023-02-20,-24.723307400907828,included_game_day
+2023,47,Howard Bison,2023-02-25,-26.286036737693237,included_game_day
+2023,47,Howard Bison,2023-02-27,-28.20300615634856,included_game_day
+2023,47,Howard Bison,2023-03-02,-7.175218535994997,included_game_day
+2023,47,Howard Bison,2023-03-08,18.41467244720283,included_game_day
+2023,47,Howard Bison,2023-03-10,33.45563535162596,included_game_day
+2023,47,Howard Bison,2023-03-11,31.893661311434176,included_game_day
+2023,47,Howard Bison,2023-03-16,14.948481157811354,included_game_day
+2024,47,Howard Bison,2023-11-06,9.0,included_game_day
+2024,47,Howard Bison,2023-11-09,10.0,included_game_day
+2024,47,Howard Bison,2023-11-12,-7.66,included_game_day
+2024,47,Howard Bison,2023-11-14,-1.604,included_game_day
+2024,47,Howard Bison,2023-11-18,-17.7395,included_game_day
+2024,47,Howard Bison,2023-11-20,-19.480544000000002,included_game_day
+2024,47,Howard Bison,2023-11-25,-11.711935500000003,included_game_day
+2024,47,Howard Bison,2023-11-28,-10.597161950000002,included_game_day
+2024,47,Howard Bison,2023-12-11,-17.23473524125,included_game_day
+2024,47,Howard Bison,2023-12-16,-27.772054571970003,included_game_day
+2024,47,Howard Bison,2023-12-17,-34.48067795320341,included_game_day
+2024,47,Howard Bison,2023-12-20,-40.17052072999907,included_game_day
+2024,47,Howard Bison,2023-12-30,-28.187171898756134,included_game_day
+2024,47,Howard Bison,2024-01-03,-35.2352714605403,included_game_day
+2024,47,Howard Bison,2024-01-06,-50.60381594004264,included_game_day
+2024,47,Howard Bison,2024-01-08,-48.61571511436444,included_game_day
+2024,47,Howard Bison,2024-01-13,-46.201418611095654,included_game_day
+2024,47,Howard Bison,2024-01-20,-49.62069874003673,included_game_day
+2024,47,Howard Bison,2024-01-27,-59.97272566961894,included_game_day
+2024,47,Howard Bison,2024-01-29,-48.124733923625136,included_game_day
+2024,47,Howard Bison,2024-02-03,-57.04619881261915,included_game_day
+2024,47,Howard Bison,2024-02-05,-50.17041306636309,included_game_day
+2024,47,Howard Bison,2024-02-17,-42.3367896403915,included_game_day
+2024,47,Howard Bison,2024-02-19,-53.66101912489778,included_game_day
+2024,47,Howard Bison,2024-02-24,-55.109095563465075,included_game_day
+2024,47,Howard Bison,2024-02-26,-58.47147475095872,included_game_day
+2024,47,Howard Bison,2024-03-02,-57.7446546101521,included_game_day
+2024,47,Howard Bison,2024-03-04,-40.06664155637951,included_game_day
+2024,47,Howard Bison,2024-03-07,-56.47997758855186,included_game_day
+2024,47,Howard Bison,2024-03-14,-45.81374130125216,included_game_day
+2024,47,Howard Bison,2024-03-15,-36.947714261325785,included_game_day
+2024,47,Howard Bison,2024-03-16,-34.03379692764755,included_game_day
+2024,47,Howard Bison,2024-03-19,-36.08707795091541,included_game_day
+2025,47,Howard Bison,2024-11-04,-27.0,included_game_day
+2025,47,Howard Bison,2024-11-08,-36.8,included_game_day
+2025,47,Howard Bison,2024-11-13,-30.562999999999995,included_game_day
+2025,47,Howard Bison,2024-11-18,-20.066699999999997,included_game_day
+2025,47,Howard Bison,2024-11-24,-27.170622699999996,included_game_day
+2025,47,Howard Bison,2024-11-25,-44.52009473,included_game_day
+2025,47,Howard Bison,2024-11-30,-50.671666556999995,included_game_day
+2025,47,Howard Bison,2024-12-08,-48.79735290559999,included_game_day
+2025,47,Howard Bison,2024-12-14,-39.601153888306996,included_game_day
+2025,47,Howard Bison,2024-12-17,-40.283909666380275,included_game_day
+2025,47,Howard Bison,2024-12-28,-49.73615262315974,included_game_day
+2025,47,Howard Bison,2025-01-01,-64.99167184520567,included_game_day
+2025,47,Howard Bison,2025-01-04,-60.09377249460016,included_game_day
+2025,47,Howard Bison,2025-01-11,-62.72057848006764,included_game_day
+2025,47,Howard Bison,2025-01-13,-58.0010878207751,included_game_day
+2025,47,Howard Bison,2025-01-25,-65.15956161988508,included_game_day
+2025,47,Howard Bison,2025-02-01,-65.39418283350071,included_game_day
+2025,47,Howard Bison,2025-02-03,-86.40688987546113,included_game_day
+2025,47,Howard Bison,2025-02-08,-81.8104484336249,included_game_day
+2025,47,Howard Bison,2025-02-10,-66.57734282901777,included_game_day
+2025,47,Howard Bison,2025-02-15,-81.73372506393403,included_game_day
+2025,47,Howard Bison,2025-02-17,-69.72688513411357,included_game_day
+2025,47,Howard Bison,2025-02-22,-60.71486048210466,included_game_day
+2025,47,Howard Bison,2025-02-24,-79.14017920580953,included_game_day
+2025,47,Howard Bison,2025-03-01,-80.99458206433096,included_game_day
+2025,47,Howard Bison,2025-03-03,-77.20455467377012,included_game_day
+2025,47,Howard Bison,2025-03-06,-84.53692243819023,included_game_day
+2025,47,Howard Bison,2025-03-13,-85.52515074941515,included_game_day
+2026,47,Howard Bison,2025-11-03,-24.0,included_game_day
+2026,47,Howard Bison,2025-11-09,-30.95,included_game_day
+2026,47,Howard Bison,2025-11-13,-30.3536,included_game_day
+2026,47,Howard Bison,2025-11-19,-34.97864,included_game_day
+2026,47,Howard Bison,2025-11-22,-26.475534,included_game_day
+2026,47,Howard Bison,2025-11-23,-40.5496826,included_game_day
+2026,47,Howard Bison,2025-11-29,-45.68328297,included_game_day
+2026,47,Howard Bison,2025-12-09,-38.142494667957,included_game_day
+2026,47,Howard Bison,2025-12-13,-31.029152742461303,included_game_day
+2026,47,Howard Bison,2025-12-16,-18.864487546612175,included_game_day
+2026,47,Howard Bison,2025-12-20,-7.969191705873957,included_game_day
+2026,47,Howard Bison,2025-12-30,-16.89449439912738,included_game_day
+2026,47,Howard Bison,2026-01-03,-30.59274592788182,included_game_day
+2026,47,Howard Bison,2026-01-10,-45.59523809134642,included_game_day
+2026,47,Howard Bison,2026-01-12,-29.822166021711283,included_game_day
+2026,47,Howard Bison,2026-01-17,-20.553292336632428,included_game_day
+2026,47,Howard Bison,2026-01-24,-38.42058453700008,included_game_day
+2026,47,Howard Bison,2026-01-31,-17.79456787666973,included_game_day
+2026,47,Howard Bison,2026-02-02,-15.477039652957572,included_game_day
+2026,47,Howard Bison,2026-02-07,-3.605622716714727,included_game_day
+2026,47,Howard Bison,2026-02-09,-5.350871980130632,included_game_day
+2026,47,Howard Bison,2026-02-14,6.68766762693749,included_game_day
+2026,47,Howard Bison,2026-02-16,24.204250516704022,included_game_day
+2026,47,Howard Bison,2026-02-21,37.70840483021118,included_game_day
+2026,47,Howard Bison,2026-02-28,50.801396096001056,included_game_day
+2026,47,Howard Bison,2026-03-02,46.05539347550599,included_game_day
+2026,47,Howard Bison,2026-03-05,43.82815792009231,included_game_day
+2026,47,Howard Bison,2026-03-13,42.84680139466145,included_game_day
+2026,47,Howard Bison,2026-03-14,30.996194586596978,included_game_day
+2026,47,Howard Bison,2026-03-17,36.713483138990334,included_game_day
+2026,47,Howard Bison,2026-03-19,34.222106080296,included_game_day
+2027,47,Howard Bison,2026-11-02,-7.0,included_game_day
+2027,47,Howard Bison,2026-11-05,3.9000000000000004,included_game_day
+2027,47,Howard Bison,2026-11-09,-9.67,included_game_day
+2027,47,Howard Bison,2026-11-12,-4.663,included_game_day
+2027,47,Howard Bison,2026-11-14,8.1252,included_game_day
+2027,47,Howard Bison,2026-11-18,2.14431,included_game_day

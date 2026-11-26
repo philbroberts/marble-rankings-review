@@ -1,0 +1,1275 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,275,Wisconsin,1987-11-28,6.0,included_game_day
+1988,275,Wisconsin,1987-12-01,12.4,included_game_day
+1988,275,Wisconsin,1987-12-03,7.16,included_game_day
+1988,275,Wisconsin,1987-12-05,14.044,included_game_day
+1988,275,Wisconsin,1987-12-08,13.8179,included_game_day
+1988,275,Wisconsin,1987-12-10,19.01198,included_game_day
+1988,275,Wisconsin,1987-12-12,8.086952,included_game_day
+1988,275,Wisconsin,1987-12-28,-20.1053676186,included_game_day
+1988,275,Wisconsin,1987-12-29,-11.21669637036,included_game_day
+1988,275,Wisconsin,1988-01-03,0.21283478824130064,included_game_day
+1988,275,Wisconsin,1988-01-07,4.10578927346731,included_game_day
+1988,275,Wisconsin,1988-01-09,4.147949025421047,included_game_day
+1988,275,Wisconsin,1988-01-14,12.115621873996194,included_game_day
+1988,275,Wisconsin,1988-01-16,3.7282887745575284,included_game_day
+1988,275,Wisconsin,1988-01-21,12.717103029584232,included_game_day
+1988,275,Wisconsin,1988-01-25,8.900243981000234,included_game_day
+1988,275,Wisconsin,1988-01-30,24.019897296105835,included_game_day
+1988,275,Wisconsin,1988-02-03,13.141707376343422,included_game_day
+1988,275,Wisconsin,1988-02-08,5.199474685857258,included_game_day
+1988,275,Wisconsin,1988-02-11,5.085763472795662,included_game_day
+1988,275,Wisconsin,1988-02-13,-12.59347714750633,included_game_day
+1988,275,Wisconsin,1988-02-21,-11.461480683282542,included_game_day
+1988,275,Wisconsin,1988-02-24,-11.312095550714433,included_game_day
+1988,275,Wisconsin,1988-02-28,-2.9518647605738284,included_game_day
+1988,275,Wisconsin,1988-03-03,-17.138071806635068,included_game_day
+1988,275,Wisconsin,1988-03-05,-13.869458267993,included_game_day
+1988,275,Wisconsin,1988-03-10,-26.778972021520318,included_game_day
+1988,275,Wisconsin,1988-03-12,-19.72033184998829,included_game_day
+1989,275,Wisconsin,1988-11-26,24.0,included_game_day
+1989,275,Wisconsin,1988-12-02,37.074,included_game_day
+1989,275,Wisconsin,1988-12-03,52.181799999999996,included_game_day
+1989,275,Wisconsin,1988-12-05,52.163619999999995,included_game_day
+1989,275,Wisconsin,1988-12-07,34.734908,included_game_day
+1989,275,Wisconsin,1988-12-10,44.8139172,included_game_day
+1989,275,Wisconsin,1988-12-12,46.60740088,included_game_day
+1989,275,Wisconsin,1988-12-30,65.84938014303,included_game_day
+1989,275,Wisconsin,1989-01-04,72.24081125703319,included_game_day
+1989,275,Wisconsin,1989-01-07,75.58842135790047,included_game_day
+1989,275,Wisconsin,1989-01-12,62.75839174238718,included_game_day
+1989,275,Wisconsin,1989-01-14,56.11502339253251,included_game_day
+1989,275,Wisconsin,1989-01-19,56.65166395830851,included_game_day
+1989,275,Wisconsin,1989-01-21,71.81192715051851,included_game_day
+1989,275,Wisconsin,1989-01-26,72.06694564042347,included_game_day
+1989,275,Wisconsin,1989-01-28,69.50109633747435,included_game_day
+1989,275,Wisconsin,1989-02-02,72.6793936357908,included_game_day
+1989,275,Wisconsin,1989-02-08,76.72034832423844,included_game_day
+1989,275,Wisconsin,1989-02-11,89.46230116889211,included_game_day
+1989,275,Wisconsin,1989-02-15,89.4491744186774,included_game_day
+1989,275,Wisconsin,1989-02-18,113.43213715549284,included_game_day
+1989,275,Wisconsin,1989-02-25,101.6273067129755,included_game_day
+1989,275,Wisconsin,1989-03-02,97.37165540240788,included_game_day
+1989,275,Wisconsin,1989-03-04,105.04922323992704,included_game_day
+1989,275,Wisconsin,1989-03-09,101.4219640076095,included_game_day
+1989,275,Wisconsin,1989-03-11,89.32875284007262,included_game_day
+1989,275,Wisconsin,1989-03-15,85.02622404015676,included_game_day
+1989,275,Wisconsin,1989-03-21,75.59978258892461,included_game_day
+1990,275,Wisconsin,1989-11-24,-19.0,included_game_day
+1990,275,Wisconsin,1989-11-25,-6.800000000000001,included_game_day
+1990,275,Wisconsin,1989-11-26,-0.8200000000000003,included_game_day
+1990,275,Wisconsin,1989-12-01,4.262,included_game_day
+1990,275,Wisconsin,1989-12-02,12.721799999999998,included_game_day
+1990,275,Wisconsin,1989-12-04,10.340619999999998,included_game_day
+1990,275,Wisconsin,1989-12-07,35.278558,included_game_day
+1990,275,Wisconsin,1989-12-09,43.447036,included_game_day
+1990,275,Wisconsin,1989-12-28,47.122024955922896,included_game_day
+1990,275,Wisconsin,1989-12-29,53.27394532911176,included_game_day
+1990,275,Wisconsin,1990-01-04,48.46647419390048,included_game_day
+1990,275,Wisconsin,1990-01-06,46.80510048477778,included_game_day
+1990,275,Wisconsin,1990-01-11,46.11621628051142,included_game_day
+1990,275,Wisconsin,1990-01-13,34.045426707559116,included_game_day
+1990,275,Wisconsin,1990-01-17,35.60181034223543,included_game_day
+1990,275,Wisconsin,1990-01-22,45.72095236004505,included_game_day
+1990,275,Wisconsin,1990-01-25,44.979336766230524,included_game_day
+1990,275,Wisconsin,1990-01-27,43.08291531464401,included_game_day
+1990,275,Wisconsin,1990-02-01,26.382439500954078,included_game_day
+1990,275,Wisconsin,1990-02-03,15.607995631769622,included_game_day
+1990,275,Wisconsin,1990-02-08,26.804615501111705,included_game_day
+1990,275,Wisconsin,1990-02-10,39.88462632959988,included_game_day
+1990,275,Wisconsin,1990-02-15,31.05447820799359,included_game_day
+1990,275,Wisconsin,1990-02-17,36.830626517666445,included_game_day
+1990,275,Wisconsin,1990-02-19,53.75010227157737,included_game_day
+1990,275,Wisconsin,1990-02-22,62.660152864655544,included_game_day
+1990,275,Wisconsin,1990-03-01,65.8374760245928,included_game_day
+1990,275,Wisconsin,1990-03-03,65.25157442234584,included_game_day
+1990,275,Wisconsin,1990-03-08,44.260548456338974,included_game_day
+1991,275,Wisconsin,1990-11-24,5.0,included_game_day
+1991,275,Wisconsin,1990-12-01,22.261,included_game_day
+1991,275,Wisconsin,1990-12-04,8.0439,included_game_day
+1991,275,Wisconsin,1990-12-11,4.573118479999998,included_game_day
+1991,275,Wisconsin,1990-12-15,1.8360859689999982,included_game_day
+1991,275,Wisconsin,1990-12-22,27.584839196502,included_game_day
+1991,275,Wisconsin,1990-12-31,24.46298566303889,included_game_day
+1991,275,Wisconsin,1991-01-05,36.59655991216908,included_game_day
+1991,275,Wisconsin,1991-01-07,44.601975443758846,included_game_day
+1991,275,Wisconsin,1991-01-10,33.66603693018825,included_game_day
+1991,275,Wisconsin,1991-01-12,20.199123877433497,included_game_day
+1991,275,Wisconsin,1991-01-17,33.384870393827754,included_game_day
+1991,275,Wisconsin,1991-01-19,28.61738164881221,included_game_day
+1991,275,Wisconsin,1991-01-24,40.29128001589504,included_game_day
+1991,275,Wisconsin,1991-01-26,63.51477735283095,included_game_day
+1991,275,Wisconsin,1991-01-30,64.25054157603086,included_game_day
+1991,275,Wisconsin,1991-02-02,55.76563752981117,included_game_day
+1991,275,Wisconsin,1991-02-09,59.183352683570284,included_game_day
+1991,275,Wisconsin,1991-02-14,66.5119663767268,included_game_day
+1991,275,Wisconsin,1991-02-16,69.36760360255829,included_game_day
+1991,275,Wisconsin,1991-02-21,66.04415919883995,included_game_day
+1991,275,Wisconsin,1991-02-24,52.239676599171226,included_game_day
+1991,275,Wisconsin,1991-02-28,47.333787565867176,included_game_day
+1991,275,Wisconsin,1991-03-02,46.09486343637261,included_game_day
+1991,275,Wisconsin,1991-03-06,53.29028629816606,included_game_day
+1991,275,Wisconsin,1991-03-09,44.48110516409973,included_game_day
+1991,275,Wisconsin,1991-03-13,50.727308933340865,included_game_day
+1991,275,Wisconsin,1991-03-18,41.09817901966219,included_game_day
+1992,275,Wisconsin,1991-11-23,19.0,included_game_day
+1992,275,Wisconsin,1991-11-25,22.6,included_game_day
+1992,275,Wisconsin,1991-11-30,33.44,included_game_day
+1992,275,Wisconsin,1991-12-03,23.842999999999996,included_game_day
+1992,275,Wisconsin,1991-12-05,40.926432999999996,included_game_day
+1992,275,Wisconsin,1991-12-07,65.1782897,included_game_day
+1992,275,Wisconsin,1991-12-11,46.71731062999999,included_game_day
+1992,275,Wisconsin,1991-12-13,53.41107010699999,included_game_day
+1992,275,Wisconsin,1991-12-21,42.181736212299995,included_game_day
+1992,275,Wisconsin,1991-12-27,29.204818923582373,included_game_day
+1992,275,Wisconsin,1991-12-28,58.203344060030396,included_game_day
+1992,275,Wisconsin,1991-12-29,52.35164636420168,included_game_day
+1992,275,Wisconsin,1992-01-04,73.66790314506335,included_game_day
+1992,275,Wisconsin,1992-01-08,68.12959382763523,included_game_day
+1992,275,Wisconsin,1992-01-11,64.83860620820272,included_game_day
+1992,275,Wisconsin,1992-01-15,61.692691136643305,included_game_day
+1992,275,Wisconsin,1992-01-22,54.20407542279448,included_game_day
+1992,275,Wisconsin,1992-01-25,46.507257032023574,included_game_day
+1992,275,Wisconsin,1992-01-29,49.2066917165789,included_game_day
+1992,275,Wisconsin,1992-02-02,55.912789083610846,included_game_day
+1992,275,Wisconsin,1992-02-05,53.53343610926275,included_game_day
+1992,275,Wisconsin,1992-02-08,39.8836988541143,included_game_day
+1992,275,Wisconsin,1992-02-12,34.963909049995536,included_game_day
+1992,275,Wisconsin,1992-02-15,38.87359313757578,included_game_day
+1992,275,Wisconsin,1992-02-20,52.870891494714385,included_game_day
+1992,275,Wisconsin,1992-02-26,74.78966688251536,included_game_day
+1992,275,Wisconsin,1992-02-29,65.49685699260512,included_game_day
+1992,275,Wisconsin,1992-03-04,47.580427415786275,included_game_day
+1992,275,Wisconsin,1992-03-07,48.878174982916775,included_game_day
+1992,275,Wisconsin,1992-03-12,42.207808456035245,included_game_day
+1992,275,Wisconsin,1992-03-14,26.739827559676257,included_game_day
+1993,275,Wisconsin,1992-12-01,1.0,included_game_day
+1993,275,Wisconsin,1992-12-05,3.0,included_game_day
+1993,275,Wisconsin,1992-12-08,21.956,included_game_day
+1993,275,Wisconsin,1992-12-12,15.049499999999998,included_game_day
+1993,275,Wisconsin,1992-12-14,36.43625,included_game_day
+1993,275,Wisconsin,1992-12-23,53.0130953,included_game_day
+1993,275,Wisconsin,1992-12-29,68.331175562,included_game_day
+1993,275,Wisconsin,1992-12-31,80.23102914379,included_game_day
+1993,275,Wisconsin,1993-01-02,95.217997245569,included_game_day
+1993,275,Wisconsin,1993-01-09,71.77684861467228,included_game_day
+1993,275,Wisconsin,1993-01-13,57.09854209291276,included_game_day
+1993,275,Wisconsin,1993-01-16,67.65837530871495,included_game_day
+1993,275,Wisconsin,1993-01-20,72.74193476953491,included_game_day
+1993,275,Wisconsin,1993-01-23,77.56462502595362,included_game_day
+1993,275,Wisconsin,1993-01-27,71.83447994998181,included_game_day
+1993,275,Wisconsin,1993-01-30,71.0508147397008,included_game_day
+1993,275,Wisconsin,1993-02-03,73.19326265695315,included_game_day
+1993,275,Wisconsin,1993-02-10,64.41339293022973,included_game_day
+1993,275,Wisconsin,1993-02-13,60.013770039937846,included_game_day
+1993,275,Wisconsin,1993-02-18,53.26893997044762,included_game_day
+1993,275,Wisconsin,1993-02-20,43.73998120824971,included_game_day
+1993,275,Wisconsin,1993-02-24,50.61647815635964,included_game_day
+1993,275,Wisconsin,1993-02-28,57.59936487938518,included_game_day
+1993,275,Wisconsin,1993-03-03,42.61956318789198,included_game_day
+1993,275,Wisconsin,1993-03-06,27.455118658580993,included_game_day
+1993,275,Wisconsin,1993-03-10,12.159870232753423,included_game_day
+1993,275,Wisconsin,1993-03-14,21.083215712462398,included_game_day
+1993,275,Wisconsin,1993-03-17,17.559294978969493,included_game_day
+1994,275,Wisconsin,1993-11-27,19.0,included_game_day
+1994,275,Wisconsin,1993-12-04,43.769999999999996,included_game_day
+1994,275,Wisconsin,1993-12-08,53.68138999999999,included_game_day
+1994,275,Wisconsin,1993-12-11,55.85568299999999,included_game_day
+1994,275,Wisconsin,1993-12-13,73.98794826999999,included_game_day
+1994,275,Wisconsin,1993-12-23,94.08137343422999,included_game_day
+1994,275,Wisconsin,1993-12-27,94.177902381624,included_game_day
+1994,275,Wisconsin,1993-12-29,96.34971756536808,included_game_day
+1994,275,Wisconsin,1994-01-02,110.12124937511227,included_game_day
+1994,275,Wisconsin,1994-01-06,122.53986094875701,included_game_day
+1994,275,Wisconsin,1994-01-08,127.45631502399071,included_game_day
+1994,275,Wisconsin,1994-01-12,90.9068676949062,included_game_day
+1994,275,Wisconsin,1994-01-15,99.0536155247505,included_game_day
+1994,275,Wisconsin,1994-01-19,89.74320825230043,included_game_day
+1994,275,Wisconsin,1994-01-25,99.29782209730344,included_game_day
+1994,275,Wisconsin,1994-01-29,97.49974659348283,included_game_day
+1994,275,Wisconsin,1994-02-02,118.97500923263362,included_game_day
+1994,275,Wisconsin,1994-02-05,98.71424022105089,included_game_day
+1994,275,Wisconsin,1994-02-09,101.98863502609149,included_game_day
+1994,275,Wisconsin,1994-02-12,70.35630941786965,included_game_day
+1994,275,Wisconsin,1994-02-16,78.2406670659397,included_game_day
+1994,275,Wisconsin,1994-02-19,67.2703642808781,included_game_day
+1994,275,Wisconsin,1994-02-26,62.11428481937102,included_game_day
+1994,275,Wisconsin,1994-03-02,80.31016264049526,included_game_day
+1994,275,Wisconsin,1994-03-05,68.76602682787475,included_game_day
+1994,275,Wisconsin,1994-03-09,88.65172810233437,included_game_day
+1994,275,Wisconsin,1994-03-12,74.90594838933619,included_game_day
+1994,275,Wisconsin,1994-03-17,90.06556175382948,included_game_day
+1994,275,Wisconsin,1994-03-19,80.86369308711416,included_game_day
+1995,275,Wisconsin,1994-11-26,20.0,included_game_day
+1995,275,Wisconsin,1994-11-30,16.72,included_game_day
+1995,275,Wisconsin,1994-12-03,17.048,included_game_day
+1995,275,Wisconsin,1994-12-06,30.0327,included_game_day
+1995,275,Wisconsin,1994-12-10,14.366429999999998,included_game_day
+1995,275,Wisconsin,1994-12-14,28.708119339999996,included_game_day
+1995,275,Wisconsin,1994-12-23,41.5050674412,included_game_day
+1995,275,Wisconsin,1994-12-27,33.686826853883,included_game_day
+1995,275,Wisconsin,1994-12-31,27.678205820060697,included_game_day
+1995,275,Wisconsin,1995-01-04,16.881065239629237,included_game_day
+1995,275,Wisconsin,1995-01-07,24.987158372858097,included_game_day
+1995,275,Wisconsin,1995-01-11,45.857667084903326,included_game_day
+1995,275,Wisconsin,1995-01-14,51.403154337713815,included_game_day
+1995,275,Wisconsin,1995-01-21,47.81963314697115,included_game_day
+1995,275,Wisconsin,1995-01-26,38.50518201177217,included_game_day
+1995,275,Wisconsin,1995-01-28,43.26980550490571,included_game_day
+1995,275,Wisconsin,1995-02-01,44.22851347183181,included_game_day
+1995,275,Wisconsin,1995-02-04,56.751428532018494,included_game_day
+1995,275,Wisconsin,1995-02-11,57.99679817915412,included_game_day
+1995,275,Wisconsin,1995-02-15,55.834297396634824,included_game_day
+1995,275,Wisconsin,1995-02-19,51.57371795504335,included_game_day
+1995,275,Wisconsin,1995-02-22,46.6394630035779,included_game_day
+1995,275,Wisconsin,1995-02-26,45.521436241131966,included_game_day
+1995,275,Wisconsin,1995-02-28,46.25346009739283,included_game_day
+1995,275,Wisconsin,1995-03-04,46.06307157082796,included_game_day
+1995,275,Wisconsin,1995-03-08,44.27788951365726,included_game_day
+1995,275,Wisconsin,1995-03-11,29.177998162840815,included_game_day
+1996,275,Wisconsin,1995-11-20,-8.0,included_game_day
+1996,275,Wisconsin,1995-11-21,-19.1,included_game_day
+1996,275,Wisconsin,1995-11-28,11.809999999999999,included_game_day
+1996,275,Wisconsin,1995-12-02,8.889,included_game_day
+1996,275,Wisconsin,1995-12-05,14.6601,included_game_day
+1996,275,Wisconsin,1995-12-09,-3.6820810999999978,included_game_day
+1996,275,Wisconsin,1995-12-11,2.7265700100000014,included_game_day
+1996,275,Wisconsin,1995-12-14,18.780041398999998,included_game_day
+1996,275,Wisconsin,1995-12-23,40.7899820571,included_game_day
+1996,275,Wisconsin,1995-12-28,62.68888790195,included_game_day
+1996,275,Wisconsin,1995-12-31,72.358369797755,included_game_day
+1996,275,Wisconsin,1996-01-03,74.84908706465842,included_game_day
+1996,275,Wisconsin,1996-01-07,54.96781585772584,included_game_day
+1996,275,Wisconsin,1996-01-10,35.361904305595615,included_game_day
+1996,275,Wisconsin,1996-01-13,53.8726990566101,included_game_day
+1996,275,Wisconsin,1996-01-17,58.71591448884167,included_game_day
+1996,275,Wisconsin,1996-01-20,43.7194584860419,included_game_day
+1996,275,Wisconsin,1996-01-24,50.07181017611645,included_game_day
+1996,275,Wisconsin,1996-01-31,38.02324878572942,included_game_day
+1996,275,Wisconsin,1996-02-03,48.711989852597924,included_game_day
+1996,275,Wisconsin,1996-02-07,20.66571437915675,included_game_day
+1996,275,Wisconsin,1996-02-10,19.16119375206852,included_game_day
+1996,275,Wisconsin,1996-02-17,21.007785974861424,included_game_day
+1996,275,Wisconsin,1996-02-21,-2.318385693834056,included_game_day
+1996,275,Wisconsin,1996-02-24,26.474342662790395,included_game_day
+1996,275,Wisconsin,1996-02-28,28.33215707201577,included_game_day
+1996,275,Wisconsin,1996-03-02,28.333714814542724,included_game_day
+1996,275,Wisconsin,1996-03-06,35.23511202010126,included_game_day
+1996,275,Wisconsin,1996-03-09,32.17696260944862,included_game_day
+1996,275,Wisconsin,1996-03-13,46.45307853618915,included_game_day
+1996,275,Wisconsin,1996-03-18,29.782214466318962,included_game_day
+1997,275,Wisconsin,1996-11-23,3.0,included_game_day
+1997,275,Wisconsin,1996-11-30,30.060000000000002,included_game_day
+1997,275,Wisconsin,1996-12-04,37.054,included_game_day
+1997,275,Wisconsin,1996-12-07,46.94952,included_game_day
+1997,275,Wisconsin,1996-12-10,54.09462,included_game_day
+1997,275,Wisconsin,1996-12-14,64.798795,included_game_day
+1997,275,Wisconsin,1996-12-23,56.43246637,included_game_day
+1997,275,Wisconsin,1996-12-26,67.13074207999,included_game_day
+1997,275,Wisconsin,1996-12-31,67.8407932773796,included_game_day
+1997,275,Wisconsin,1997-01-02,64.91142021633178,included_game_day
+1997,275,Wisconsin,1997-01-04,78.31123807872027,included_game_day
+1997,275,Wisconsin,1997-01-09,66.9192880873497,included_game_day
+1997,275,Wisconsin,1997-01-11,46.91796959432668,included_game_day
+1997,275,Wisconsin,1997-01-18,59.53017578064992,included_game_day
+1997,275,Wisconsin,1997-01-22,53.11337777454415,included_game_day
+1997,275,Wisconsin,1997-01-25,79.70171562546085,included_game_day
+1997,275,Wisconsin,1997-01-29,79.57725231256917,included_game_day
+1997,275,Wisconsin,1997-02-01,59.4245512174936,included_game_day
+1997,275,Wisconsin,1997-02-06,68.56830079211944,included_game_day
+1997,275,Wisconsin,1997-02-08,75.43892029418834,included_game_day
+1997,275,Wisconsin,1997-02-12,91.83514299310954,included_game_day
+1997,275,Wisconsin,1997-02-15,105.51411473514978,included_game_day
+1997,275,Wisconsin,1997-02-19,100.41834110438215,included_game_day
+1997,275,Wisconsin,1997-02-26,99.44951087649179,included_game_day
+1997,275,Wisconsin,1997-03-01,76.77790311624526,included_game_day
+1997,275,Wisconsin,1997-03-05,77.84235186661218,included_game_day
+1997,275,Wisconsin,1997-03-08,82.53156155544715,included_game_day
+1997,275,Wisconsin,1997-03-14,66.02104633548848,included_game_day
+1998,275,Wisconsin,1997-11-14,-8.0,included_game_day
+1998,275,Wisconsin,1997-11-18,3.8000000000000007,included_game_day
+1998,275,Wisconsin,1997-11-24,-0.4900000000000002,included_game_day
+1998,275,Wisconsin,1997-11-28,-3.85759,included_game_day
+1998,275,Wisconsin,1997-11-29,9.238609,included_game_day
+1998,275,Wisconsin,1997-11-30,23.1284481,included_game_day
+1998,275,Wisconsin,1997-12-06,10.38376742,included_game_day
+1998,275,Wisconsin,1997-12-09,12.989145978,included_game_day
+1998,275,Wisconsin,1997-12-13,5.37612880933,included_game_day
+1998,275,Wisconsin,1997-12-20,11.4119483478737,included_game_day
+1998,275,Wisconsin,1997-12-23,17.42562144498223,included_game_day
+1998,275,Wisconsin,1997-12-27,23.896843091361212,included_game_day
+1998,275,Wisconsin,1997-12-31,18.0003139634419,included_game_day
+1998,275,Wisconsin,1998-01-03,21.325835962881705,included_game_day
+1998,275,Wisconsin,1998-01-08,10.620404092427883,included_game_day
+1998,275,Wisconsin,1998-01-14,31.154976663434013,included_game_day
+1998,275,Wisconsin,1998-01-17,48.59628446235824,included_game_day
+1998,275,Wisconsin,1998-01-21,41.81096435333564,included_game_day
+1998,275,Wisconsin,1998-01-25,36.40922630186014,included_game_day
+1998,275,Wisconsin,1998-01-27,32.01200075149893,included_game_day
+1998,275,Wisconsin,1998-01-31,24.372140507989613,included_game_day
+1998,275,Wisconsin,1998-02-03,25.950232255069924,included_game_day
+1998,275,Wisconsin,1998-02-07,25.464610421005915,included_game_day
+1998,275,Wisconsin,1998-02-11,16.398387536158054,included_game_day
+1998,275,Wisconsin,1998-02-14,16.788495164450026,included_game_day
+1998,275,Wisconsin,1998-02-18,10.70110181443228,included_game_day
+1998,275,Wisconsin,1998-02-21,11.77364247942715,included_game_day
+1998,275,Wisconsin,1998-02-25,-0.2747828890063193,included_game_day
+1998,275,Wisconsin,1998-02-28,12.135945620793004,included_game_day
+1998,275,Wisconsin,1998-03-05,17.330557632444332,included_game_day
+1998,275,Wisconsin,1998-03-06,24.76469233188533,included_game_day
+1999,275,Wisconsin,1998-11-14,34.0,included_game_day
+1999,275,Wisconsin,1998-11-16,39.6,included_game_day
+1999,275,Wisconsin,1998-11-20,22.14,included_game_day
+1999,275,Wisconsin,1998-11-21,31.7048,included_game_day
+1999,275,Wisconsin,1998-11-22,67.20222,included_game_day
+1999,275,Wisconsin,1998-11-28,67.704548,included_game_day
+1999,275,Wisconsin,1998-12-02,72.9490029,included_game_day
+1999,275,Wisconsin,1998-12-05,89.68118579,included_game_day
+1999,275,Wisconsin,1998-12-09,94.639160543,included_game_day
+1999,275,Wisconsin,1998-12-12,89.8849673747,included_game_day
+1999,275,Wisconsin,1998-12-15,86.5251135990146,included_game_day
+1999,275,Wisconsin,1998-12-23,98.56898334407774,included_game_day
+1999,275,Wisconsin,1998-12-27,112.3528775071487,included_game_day
+1999,275,Wisconsin,1998-12-30,100.56714200904956,included_game_day
+1999,275,Wisconsin,1999-01-02,94.3254152860836,included_game_day
+1999,275,Wisconsin,1999-01-06,111.75940295864811,included_game_day
+1999,275,Wisconsin,1999-01-10,111.86463943130533,included_game_day
+1999,275,Wisconsin,1999-01-13,110.057830138214,included_game_day
+1999,275,Wisconsin,1999-01-16,116.52400011516436,included_game_day
+1999,275,Wisconsin,1999-01-20,127.49852747072735,included_game_day
+1999,275,Wisconsin,1999-01-23,147.22554829734418,included_game_day
+1999,275,Wisconsin,1999-01-30,146.86649954091857,included_game_day
+1999,275,Wisconsin,1999-02-03,133.1835036496349,included_game_day
+1999,275,Wisconsin,1999-02-06,123.55959922421354,included_game_day
+1999,275,Wisconsin,1999-02-10,128.72921141536852,included_game_day
+1999,275,Wisconsin,1999-02-13,127.18336801810197,included_game_day
+1999,275,Wisconsin,1999-02-21,129.18297358602456,included_game_day
+1999,275,Wisconsin,1999-02-24,123.7330496075885,included_game_day
+1999,275,Wisconsin,1999-02-27,98.86820849037076,included_game_day
+1999,275,Wisconsin,1999-03-05,111.6244955820084,included_game_day
+1999,275,Wisconsin,1999-03-06,101.95577605224503,included_game_day
+1999,275,Wisconsin,1999-03-12,88.10999906479091,included_game_day
+2000,275,Wisconsin,1999-11-12,11.0,included_game_day
+2000,275,Wisconsin,1999-11-13,-4.699999999999999,included_game_day
+2000,275,Wisconsin,1999-11-20,2.7700000000000005,included_game_day
+2000,275,Wisconsin,1999-11-23,25.893,included_game_day
+2000,275,Wisconsin,1999-11-30,15.7065,included_game_day
+2000,275,Wisconsin,1999-12-03,32.89113,included_game_day
+2000,275,Wisconsin,1999-12-07,47.6360829,included_game_day
+2000,275,Wisconsin,1999-12-08,63.711012343,included_game_day
+2000,275,Wisconsin,1999-12-11,60.0291023767,included_game_day
+2000,275,Wisconsin,1999-12-14,52.56412426903,included_game_day
+2000,275,Wisconsin,1999-12-23,58.443619112837006,included_game_day
+2000,275,Wisconsin,1999-12-29,74.27524162762111,included_game_day
+2000,275,Wisconsin,2000-01-05,80.12934415765878,included_game_day
+2000,275,Wisconsin,2000-01-08,88.124005242296,included_game_day
+2000,275,Wisconsin,2000-01-13,85.80329627678391,included_game_day
+2000,275,Wisconsin,2000-01-15,78.06265680149212,included_game_day
+2000,275,Wisconsin,2000-01-19,64.1393981597094,included_game_day
+2000,275,Wisconsin,2000-01-22,90.77532425649082,included_game_day
+2000,275,Wisconsin,2000-01-26,99.20834331604446,included_game_day
+2000,275,Wisconsin,2000-01-29,82.22800017390354,included_game_day
+2000,275,Wisconsin,2000-02-02,86.96460022288076,included_game_day
+2000,275,Wisconsin,2000-02-05,84.0219700863055,included_game_day
+2000,275,Wisconsin,2000-02-12,72.33190578436266,included_game_day
+2000,275,Wisconsin,2000-02-16,76.9309977063984,included_game_day
+2000,275,Wisconsin,2000-02-19,85.3842039299793,included_game_day
+2000,275,Wisconsin,2000-02-23,91.68393030849715,included_game_day
+2000,275,Wisconsin,2000-03-01,93.06231923090238,included_game_day
+2000,275,Wisconsin,2000-03-05,96.72936497765116,included_game_day
+2000,275,Wisconsin,2000-03-09,91.23489508793693,included_game_day
+2000,275,Wisconsin,2000-03-10,106.54738722818693,included_game_day
+2000,275,Wisconsin,2000-03-11,107.84968269274253,included_game_day
+2000,275,Wisconsin,2000-03-16,115.45352294050497,included_game_day
+2000,275,Wisconsin,2000-03-18,124.1783919593617,included_game_day
+2000,275,Wisconsin,2000-03-23,141.00983222541308,included_game_day
+2000,275,Wisconsin,2000-03-25,143.77272640026504,included_game_day
+2000,275,Wisconsin,2000-04-01,141.07856532665252,included_game_day
+2001,275,Wisconsin,2000-11-21,-2.99,included_game_day
+2001,275,Wisconsin,2000-11-25,-4.986000000000001,included_game_day
+2001,275,Wisconsin,2000-11-29,-3.8219000000000003,included_game_day
+2001,275,Wisconsin,2000-12-02,11.892161300000001,included_game_day
+2001,275,Wisconsin,2000-12-06,19.82940693,included_game_day
+2001,275,Wisconsin,2000-12-09,34.157358047,included_game_day
+2001,275,Wisconsin,2000-12-14,41.6134589583,included_game_day
+2001,275,Wisconsin,2000-12-16,42.05116591947,included_game_day
+2001,275,Wisconsin,2000-12-23,45.24380945590513,included_game_day
+2001,275,Wisconsin,2000-12-30,47.69784830367914,included_game_day
+2001,275,Wisconsin,2001-01-04,49.56122068915757,included_game_day
+2001,275,Wisconsin,2001-01-06,49.143137719071945,included_game_day
+2001,275,Wisconsin,2001-01-10,53.61964927855122,included_game_day
+2001,275,Wisconsin,2001-01-13,58.25237899552036,included_game_day
+2001,275,Wisconsin,2001-01-16,72.48654534750389,included_game_day
+2001,275,Wisconsin,2001-01-24,87.02767238227639,included_game_day
+2001,275,Wisconsin,2001-01-27,84.50625900530741,included_game_day
+2001,275,Wisconsin,2001-01-30,65.6792335134315,included_game_day
+2001,275,Wisconsin,2001-02-03,80.70451154638731,included_game_day
+2001,275,Wisconsin,2001-02-07,98.20888446508496,included_game_day
+2001,275,Wisconsin,2001-02-10,96.31434990929276,included_game_day
+2001,275,Wisconsin,2001-02-13,105.31681820608348,included_game_day
+2001,275,Wisconsin,2001-02-18,112.2945773464303,included_game_day
+2001,275,Wisconsin,2001-02-21,112.04791945097418,included_game_day
+2001,275,Wisconsin,2001-02-24,83.87519594177431,included_game_day
+2001,275,Wisconsin,2001-02-27,87.43591763230899,included_game_day
+2001,275,Wisconsin,2001-03-03,86.8261549843628,included_game_day
+2001,275,Wisconsin,2001-03-09,82.35338684017074,included_game_day
+2001,275,Wisconsin,2001-03-15,81.18945646304181,included_game_day
+2002,275,Wisconsin Badgers,2001-11-17,-2.0,included_game_day
+2002,275,Wisconsin Badgers,2001-11-25,-8.651,included_game_day
+2002,275,Wisconsin Badgers,2001-11-28,-7.0089,included_game_day
+2002,275,Wisconsin Badgers,2001-12-01,2.608529999999999,included_game_day
+2002,275,Wisconsin Badgers,2001-12-03,-3.3126553000000003,included_game_day
+2002,275,Wisconsin Badgers,2001-12-08,8.44316431,included_game_day
+2002,275,Wisconsin Badgers,2001-12-10,10.03291763398,included_game_day
+2002,275,Wisconsin Badgers,2001-12-15,15.948505520582,included_game_day
+2002,275,Wisconsin Badgers,2001-12-22,37.6815374459988,included_game_day
+2002,275,Wisconsin Badgers,2001-12-27,38.56924812748592,included_game_day
+2002,275,Wisconsin Badgers,2001-12-29,38.39072482410756,included_game_day
+2002,275,Wisconsin Badgers,2002-01-02,39.921465568145834,included_game_day
+2002,275,Wisconsin Badgers,2002-01-05,51.37109673099885,included_game_day
+2002,275,Wisconsin Badgers,2002-01-09,44.459302019588705,included_game_day
+2002,275,Wisconsin Badgers,2002-01-12,48.88071764214603,included_game_day
+2002,275,Wisconsin Badgers,2002-01-16,56.320944409355754,included_game_day
+2002,275,Wisconsin Badgers,2002-01-19,61.05900112770808,included_game_day
+2002,275,Wisconsin Badgers,2002-01-23,37.98399709761844,included_game_day
+2002,275,Wisconsin Badgers,2002-01-26,28.548968060787857,included_game_day
+2002,275,Wisconsin Badgers,2002-01-30,23.571610325294,included_game_day
+2002,275,Wisconsin Badgers,2002-02-02,12.956135383284671,included_game_day
+2002,275,Wisconsin Badgers,2002-02-06,21.24979024520745,included_game_day
+2002,275,Wisconsin Badgers,2002-02-09,51.67754596626482,included_game_day
+2002,275,Wisconsin Badgers,2002-02-16,65.14028401625691,included_game_day
+2002,275,Wisconsin Badgers,2002-02-19,67.84101274964246,included_game_day
+2002,275,Wisconsin Badgers,2002-02-27,76.42882920523313,included_game_day
+2002,275,Wisconsin Badgers,2002-03-08,70.14895053394257,included_game_day
+2002,275,Wisconsin Badgers,2002-03-15,75.02423684824635,included_game_day
+2002,275,Wisconsin Badgers,2002-03-17,58.2536843216118,included_game_day
+2003,275,Wisconsin Badgers,2002-11-15,23.0,included_game_day
+2003,275,Wisconsin Badgers,2002-11-16,46.0,included_game_day
+2003,275,Wisconsin Badgers,2002-11-23,49.4,included_game_day
+2003,275,Wisconsin Badgers,2002-11-30,64.584,included_game_day
+2003,275,Wisconsin Badgers,2002-12-04,46.2122,included_game_day
+2003,275,Wisconsin Badgers,2002-12-07,59.263470000000005,included_game_day
+2003,275,Wisconsin Badgers,2002-12-11,94.757852373,included_game_day
+2003,275,Wisconsin Badgers,2002-12-14,84.6425482557,included_game_day
+2003,275,Wisconsin Badgers,2002-12-21,94.74363903013001,included_game_day
+2003,275,Wisconsin Badgers,2002-12-23,103.239600392048,included_game_day
+2003,275,Wisconsin Badgers,2003-01-02,106.55777257976514,included_game_day
+2003,275,Wisconsin Badgers,2003-01-04,114.16917872298254,included_game_day
+2003,275,Wisconsin Badgers,2003-01-08,108.20909062086962,included_game_day
+2003,275,Wisconsin Badgers,2003-01-11,108.28589456640249,included_game_day
+2003,275,Wisconsin Badgers,2003-01-15,115.73559028282762,included_game_day
+2003,275,Wisconsin Badgers,2003-01-18,110.80772317731186,included_game_day
+2003,275,Wisconsin Badgers,2003-01-22,118.21203161676385,included_game_day
+2003,275,Wisconsin Badgers,2003-01-29,121.22755489553214,included_game_day
+2003,275,Wisconsin Badgers,2003-02-01,134.18529227439853,included_game_day
+2003,275,Wisconsin Badgers,2003-02-05,116.80379402911787,included_game_day
+2003,275,Wisconsin Badgers,2003-02-08,123.05969537028524,included_game_day
+2003,275,Wisconsin Badgers,2003-02-11,128.2986871648406,included_game_day
+2003,275,Wisconsin Badgers,2003-02-15,129.88265897740158,included_game_day
+2003,275,Wisconsin Badgers,2003-02-19,113.29062932783563,included_game_day
+2003,275,Wisconsin Badgers,2003-02-22,116.52226276690239,included_game_day
+2003,275,Wisconsin Badgers,2003-02-26,141.45649767906775,included_game_day
+2003,275,Wisconsin Badgers,2003-03-02,146.73028307966086,included_game_day
+2003,275,Wisconsin Badgers,2003-03-05,145.1554151321869,included_game_day
+2003,275,Wisconsin Badgers,2003-03-14,122.21302030835616,included_game_day
+2003,275,Wisconsin Badgers,2003-03-20,121.70858159533294,included_game_day
+2003,275,Wisconsin Badgers,2003-03-22,118.78676492206078,included_game_day
+2003,275,Wisconsin Badgers,2003-03-27,126.36626584000737,included_game_day
+2004,275,Wisconsin Badgers,2003-11-21,14.0,included_game_day
+2004,275,Wisconsin Badgers,2003-11-25,43.2,included_game_day
+2004,275,Wisconsin Badgers,2003-11-29,50.300000000000004,included_game_day
+2004,275,Wisconsin Badgers,2003-12-02,46.7567,included_game_day
+2004,275,Wisconsin Badgers,2003-12-06,67.18204990000001,included_game_day
+2004,275,Wisconsin Badgers,2003-12-10,71.40608081,included_game_day
+2004,275,Wisconsin Badgers,2003-12-13,81.78925703620001,included_game_day
+2004,275,Wisconsin Badgers,2003-12-20,78.33642339958001,included_game_day
+2004,275,Wisconsin Badgers,2003-12-27,95.17541228323802,included_game_day
+2004,275,Wisconsin Badgers,2003-12-30,81.31100845254998,included_game_day
+2004,275,Wisconsin Badgers,2004-01-03,101.68244953472947,included_game_day
+2004,275,Wisconsin Badgers,2004-01-06,120.11469145096478,included_game_day
+2004,275,Wisconsin Badgers,2004-01-10,118.08695331369381,included_game_day
+2004,275,Wisconsin Badgers,2004-01-14,114.69077422371001,included_game_day
+2004,275,Wisconsin Badgers,2004-01-21,114.95726649231962,included_game_day
+2004,275,Wisconsin Badgers,2004-01-24,130.95555511390705,included_game_day
+2004,275,Wisconsin Badgers,2004-01-28,130.45170909779026,included_game_day
+2004,275,Wisconsin Badgers,2004-02-04,126.21565057527958,included_game_day
+2004,275,Wisconsin Badgers,2004-02-07,97.59296252408704,included_game_day
+2004,275,Wisconsin Badgers,2004-02-11,96.06244254702798,included_game_day
+2004,275,Wisconsin Badgers,2004-02-14,112.32512965168166,included_game_day
+2004,275,Wisconsin Badgers,2004-02-18,107.44518912080657,included_game_day
+2004,275,Wisconsin Badgers,2004-02-22,91.3039565949234,included_game_day
+2004,275,Wisconsin Badgers,2004-02-25,94.48425164719617,included_game_day
+2004,275,Wisconsin Badgers,2004-02-29,124.80645825524981,included_game_day
+2004,275,Wisconsin Badgers,2004-03-02,127.48928176689023,included_game_day
+2004,275,Wisconsin Badgers,2004-03-06,136.20986540197856,included_game_day
+2004,275,Wisconsin Badgers,2004-03-12,133.2118849841967,included_game_day
+2004,275,Wisconsin Badgers,2004-03-13,127.05535873296573,included_game_day
+2004,275,Wisconsin Badgers,2004-03-14,145.70280605531477,included_game_day
+2004,275,Wisconsin Badgers,2004-03-19,149.03438912636483,included_game_day
+2004,275,Wisconsin Badgers,2004-03-21,148.4880091865954,included_game_day
+2005,275,Wisconsin Badgers,2004-11-20,27.61,included_game_day
+2005,275,Wisconsin Badgers,2004-11-23,33.949,included_game_day
+2005,275,Wisconsin Badgers,2004-11-27,20.359499999999997,included_game_day
+2005,275,Wisconsin Badgers,2004-11-30,27.649903,included_game_day
+2005,275,Wisconsin Badgers,2004-12-04,36.33129459,included_game_day
+2005,275,Wisconsin Badgers,2004-12-07,39.38902007,included_game_day
+2005,275,Wisconsin Badgers,2004-12-11,33.810822163,included_game_day
+2005,275,Wisconsin Badgers,2004-12-15,62.597135674869996,included_game_day
+2005,275,Wisconsin Badgers,2004-12-23,83.49290057908374,included_game_day
+2005,275,Wisconsin Badgers,2004-12-27,105.63854565556356,included_game_day
+2005,275,Wisconsin Badgers,2004-12-29,114.34679050899203,included_game_day
+2005,275,Wisconsin Badgers,2005-01-05,113.40462791516,included_game_day
+2005,275,Wisconsin Badgers,2005-01-08,92.26760804913081,included_game_day
+2005,275,Wisconsin Badgers,2005-01-11,96.74488735358774,included_game_day
+2005,275,Wisconsin Badgers,2005-01-16,101.58253151683704,included_game_day
+2005,275,Wisconsin Badgers,2005-01-22,109.63398125552412,included_game_day
+2005,275,Wisconsin Badgers,2005-01-25,100.97049879619388,included_game_day
+2005,275,Wisconsin Badgers,2005-01-29,117.91320888919924,included_game_day
+2005,275,Wisconsin Badgers,2005-02-02,117.7003604002194,included_game_day
+2005,275,Wisconsin Badgers,2005-02-05,107.2306985027978,included_game_day
+2005,275,Wisconsin Badgers,2005-02-09,103.94611313242017,included_game_day
+2005,275,Wisconsin Badgers,2005-02-12,102.47574594702695,included_game_day
+2005,275,Wisconsin Badgers,2005-02-16,113.9372859053171,included_game_day
+2005,275,Wisconsin Badgers,2005-02-24,108.07031231701092,included_game_day
+2005,275,Wisconsin Badgers,2005-02-27,117.1383256023928,included_game_day
+2005,275,Wisconsin Badgers,2005-03-01,111.68856633392988,included_game_day
+2005,275,Wisconsin Badgers,2005-03-05,110.42723192322896,included_game_day
+2005,275,Wisconsin Badgers,2005-03-11,114.85358247448207,included_game_day
+2005,275,Wisconsin Badgers,2005-03-12,113.05474469898688,included_game_day
+2005,275,Wisconsin Badgers,2005-03-13,111.11078733399394,included_game_day
+2005,275,Wisconsin Badgers,2005-03-18,106.84696099379946,included_game_day
+2005,275,Wisconsin Badgers,2005-03-20,108.88987715241822,included_game_day
+2005,275,Wisconsin Badgers,2005-03-25,119.63900542752424,included_game_day
+2005,275,Wisconsin Badgers,2005-03-27,125.63088093458184,included_game_day
+2006,275,Wisconsin Badgers,2005-11-18,26.0,included_game_day
+2006,275,Wisconsin Badgers,2005-11-19,26.4,included_game_day
+2006,275,Wisconsin Badgers,2005-11-21,25.9,included_game_day
+2006,275,Wisconsin Badgers,2005-11-26,57.33,included_game_day
+2006,275,Wisconsin Badgers,2005-11-29,54.894071,included_game_day
+2006,275,Wisconsin Badgers,2005-12-03,59.5895029,included_game_day
+2006,275,Wisconsin Badgers,2005-12-07,68.013711642,included_game_day
+2006,275,Wisconsin Badgers,2005-12-10,76.9677940918,included_game_day
+2006,275,Wisconsin Badgers,2005-12-12,75.57387380062,included_game_day
+2006,275,Wisconsin Badgers,2005-12-15,72.593153217478,included_game_day
+2006,275,Wisconsin Badgers,2005-12-28,89.08881849052602,included_game_day
+2006,275,Wisconsin Badgers,2005-12-31,85.91661729808861,included_game_day
+2006,275,Wisconsin Badgers,2006-01-05,97.00638397175196,included_game_day
+2006,275,Wisconsin Badgers,2006-01-08,111.04888632601285,included_game_day
+2006,275,Wisconsin Badgers,2006-01-10,108.72107187227532,included_game_day
+2006,275,Wisconsin Badgers,2006-01-14,113.51512791002722,included_game_day
+2006,275,Wisconsin Badgers,2006-01-18,106.73751725621584,included_game_day
+2006,275,Wisconsin Badgers,2006-01-21,88.23220629838143,included_game_day
+2006,275,Wisconsin Badgers,2006-01-25,107.81620183600754,included_game_day
+2006,275,Wisconsin Badgers,2006-01-28,101.15497555756014,included_game_day
+2006,275,Wisconsin Badgers,2006-01-31,87.27692592748112,included_game_day
+2006,275,Wisconsin Badgers,2006-02-04,71.81461987867634,included_game_day
+2006,275,Wisconsin Badgers,2006-02-08,86.84391736669761,included_game_day
+2006,275,Wisconsin Badgers,2006-02-11,102.65899717728291,included_game_day
+2006,275,Wisconsin Badgers,2006-02-15,110.2242891014166,included_game_day
+2006,275,Wisconsin Badgers,2006-02-23,94.87022263045718,included_game_day
+2006,275,Wisconsin Badgers,2006-02-26,94.63436036198425,included_game_day
+2006,275,Wisconsin Badgers,2006-03-02,88.18162491250351,included_game_day
+2006,275,Wisconsin Badgers,2006-03-04,78.12179837396641,included_game_day
+2006,275,Wisconsin Badgers,2006-03-10,69.2762052850876,included_game_day
+2006,275,Wisconsin Badgers,2006-03-17,53.92014886088131,included_game_day
+2007,275,Wisconsin Badgers,2006-11-12,21.0,included_game_day
+2007,275,Wisconsin Badgers,2006-11-15,31.5,included_game_day
+2007,275,Wisconsin Badgers,2006-11-19,72.65,included_game_day
+2007,275,Wisconsin Badgers,2006-11-21,69.95960000000001,included_game_day
+2007,275,Wisconsin Badgers,2006-11-24,66.58304000000001,included_game_day
+2007,275,Wisconsin Badgers,2006-11-25,73.32626400000001,included_game_day
+2007,275,Wisconsin Badgers,2006-11-28,80.2685656,included_game_day
+2007,275,Wisconsin Badgers,2006-12-02,78.82169094,included_game_day
+2007,275,Wisconsin Badgers,2006-12-04,75.348554076,included_game_day
+2007,275,Wisconsin Badgers,2006-12-09,82.56198265714,included_game_day
+2007,275,Wisconsin Badgers,2006-12-13,85.29027629712812,included_game_day
+2007,275,Wisconsin Badgers,2006-12-16,96.6612834227554,included_game_day
+2007,275,Wisconsin Badgers,2006-12-23,116.89553055053112,included_game_day
+2007,275,Wisconsin Badgers,2006-12-27,149.30535106274823,included_game_day
+2007,275,Wisconsin Badgers,2006-12-31,157.23148741943527,included_game_day
+2007,275,Wisconsin Badgers,2007-01-06,163.15107877904913,included_game_day
+2007,275,Wisconsin Badgers,2007-01-09,161.59307004536805,included_game_day
+2007,275,Wisconsin Badgers,2007-01-13,155.01754611917954,included_game_day
+2007,275,Wisconsin Badgers,2007-01-17,149.36856275798309,included_game_day
+2007,275,Wisconsin Badgers,2007-01-20,152.9858303240457,included_game_day
+2007,275,Wisconsin Badgers,2007-01-24,156.94326363531002,included_game_day
+2007,275,Wisconsin Badgers,2007-01-28,162.59396454010792,included_game_day
+2007,275,Wisconsin Badgers,2007-01-31,158.9241866539227,included_game_day
+2007,275,Wisconsin Badgers,2007-02-03,157.44762720284916,included_game_day
+2007,275,Wisconsin Badgers,2007-02-07,157.9656715510947,included_game_day
+2007,275,Wisconsin Badgers,2007-02-10,160.76745926445736,included_game_day
+2007,275,Wisconsin Badgers,2007-02-14,160.60985526238284,included_game_day
+2007,275,Wisconsin Badgers,2007-02-17,169.02273831638362,included_game_day
+2007,275,Wisconsin Badgers,2007-02-20,159.09776278492112,included_game_day
+2007,275,Wisconsin Badgers,2007-02-25,160.8382946543091,included_game_day
+2007,275,Wisconsin Badgers,2007-03-03,156.36950684053107,included_game_day
+2007,275,Wisconsin Badgers,2007-03-09,162.66283467431032,included_game_day
+2007,275,Wisconsin Badgers,2007-03-10,166.20405792880274,included_game_day
+2007,275,Wisconsin Badgers,2007-03-11,151.52456403006147,included_game_day
+2007,275,Wisconsin Badgers,2007-03-16,151.34493554241422,included_game_day
+2007,275,Wisconsin Badgers,2007-03-18,139.14970443608422,included_game_day
+2008,275,Wisconsin Badgers,2007-11-11,25.0,included_game_day
+2008,275,Wisconsin Badgers,2007-11-15,68.2,included_game_day
+2008,275,Wisconsin Badgers,2007-11-16,106.88,included_game_day
+2008,275,Wisconsin Badgers,2007-11-17,121.47999999999999,included_game_day
+2008,275,Wisconsin Badgers,2007-11-24,130.337,included_game_day
+2008,275,Wisconsin Badgers,2007-11-27,105.05844427999999,included_game_day
+2008,275,Wisconsin Badgers,2007-12-03,116.652599852,included_game_day
+2008,275,Wisconsin Badgers,2007-12-08,104.1958831668,included_game_day
+2008,275,Wisconsin Badgers,2007-12-12,112.695098248362,included_game_day
+2008,275,Wisconsin Badgers,2007-12-15,117.6757873545678,included_game_day
+2008,275,Wisconsin Badgers,2007-12-22,118.98352921133883,included_game_day
+2008,275,Wisconsin Badgers,2007-12-29,122.37112196904273,included_game_day
+2008,275,Wisconsin Badgers,2008-01-02,126.43430597210978,included_game_day
+2008,275,Wisconsin Badgers,2008-01-05,125.22706838501024,included_game_day
+2008,275,Wisconsin Badgers,2008-01-10,123.07524475741039,included_game_day
+2008,275,Wisconsin Badgers,2008-01-15,145.2827236188896,included_game_day
+2008,275,Wisconsin Badgers,2008-01-22,128.39041885397202,included_game_day
+2008,275,Wisconsin Badgers,2008-01-26,123.05565695627305,included_game_day
+2008,275,Wisconsin Badgers,2008-01-31,133.67072108359196,included_game_day
+2008,275,Wisconsin Badgers,2008-02-03,147.9987836751726,included_game_day
+2008,275,Wisconsin Badgers,2008-02-06,145.8585842664836,included_game_day
+2008,275,Wisconsin Badgers,2008-02-09,132.76875403793468,included_game_day
+2008,275,Wisconsin Badgers,2008-02-13,136.71274728450905,included_game_day
+2008,275,Wisconsin Badgers,2008-02-16,135.14037938277175,included_game_day
+2008,275,Wisconsin Badgers,2008-02-20,147.24474797819252,included_game_day
+2008,275,Wisconsin Badgers,2008-02-24,149.08895223013278,included_game_day
+2008,275,Wisconsin Badgers,2008-02-28,157.5559601541958,included_game_day
+2008,275,Wisconsin Badgers,2008-03-05,174.81876204362177,included_game_day
+2008,275,Wisconsin Badgers,2008-03-08,170.1196792395345,included_game_day
+2008,275,Wisconsin Badgers,2008-03-14,171.61239666329507,included_game_day
+2008,275,Wisconsin Badgers,2008-03-15,169.40320807478923,included_game_day
+2008,275,Wisconsin Badgers,2008-03-16,173.66463176123005,included_game_day
+2008,275,Wisconsin Badgers,2008-03-20,179.68372848573946,included_game_day
+2008,275,Wisconsin Badgers,2008-03-22,192.04804322680735,included_game_day
+2008,275,Wisconsin Badgers,2008-03-28,173.29105597719257,included_game_day
+2009,275,Wisconsin Badgers,2008-11-16,3.3,included_game_day
+2009,275,Wisconsin Badgers,2008-11-18,30.336000000000002,included_game_day
+2009,275,Wisconsin Badgers,2008-11-21,30.302400000000002,included_game_day
+2009,275,Wisconsin Badgers,2008-11-23,44.36416,included_game_day
+2009,275,Wisconsin Badgers,2008-11-24,24.883543999999997,included_game_day
+2009,275,Wisconsin Badgers,2008-11-29,38.5675136,included_game_day
+2009,275,Wisconsin Badgers,2008-12-01,40.9618629,included_game_day
+2009,275,Wisconsin Badgers,2008-12-06,43.96615792,included_game_day
+2009,275,Wisconsin Badgers,2008-12-09,36.0857631238,included_game_day
+2009,275,Wisconsin Badgers,2008-12-13,52.586576071821995,included_game_day
+2009,275,Wisconsin Badgers,2008-12-20,50.25382604891439,included_game_day
+2009,275,Wisconsin Badgers,2008-12-23,45.01688941496004,included_game_day
+2009,275,Wisconsin Badgers,2008-12-31,61.75640476520579,included_game_day
+2009,275,Wisconsin Badgers,2009-01-03,63.50818743818202,included_game_day
+2009,275,Wisconsin Badgers,2009-01-07,89.40580642351868,included_game_day
+2009,275,Wisconsin Badgers,2009-01-11,80.47612541057458,included_game_day
+2009,275,Wisconsin Badgers,2009-01-15,74.16400582897505,included_game_day
+2009,275,Wisconsin Badgers,2009-01-21,68.2339896350652,included_game_day
+2009,275,Wisconsin Badgers,2009-01-24,71.07847741933742,included_game_day
+2009,275,Wisconsin Badgers,2009-01-27,72.58458234164961,included_game_day
+2009,275,Wisconsin Badgers,2009-01-31,69.98310516085128,included_game_day
+2009,275,Wisconsin Badgers,2009-02-05,83.37448013954545,included_game_day
+2009,275,Wisconsin Badgers,2009-02-08,93.57391155767645,included_game_day
+2009,275,Wisconsin Badgers,2009-02-11,100.2477398243871,included_game_day
+2009,275,Wisconsin Badgers,2009-02-14,100.92377801358546,included_game_day
+2009,275,Wisconsin Badgers,2009-02-19,106.90302666665073,included_game_day
+2009,275,Wisconsin Badgers,2009-02-22,101.5347186665678,included_game_day
+2009,275,Wisconsin Badgers,2009-03-01,100.31704462157353,included_game_day
+2009,275,Wisconsin Badgers,2009-03-04,95.0642560649516,included_game_day
+2009,275,Wisconsin Badgers,2009-03-08,102.91410167422599,included_game_day
+2009,275,Wisconsin Badgers,2009-03-13,95.58766714734978,included_game_day
+2009,275,Wisconsin Badgers,2009-03-20,99.33900769690179,included_game_day
+2009,275,Wisconsin Badgers,2009-03-22,90.6290468988855,included_game_day
+2010,275,Wisconsin Badgers,2009-11-15,26.0,included_game_day
+2010,275,Wisconsin Badgers,2009-11-18,35.7,included_game_day
+2010,275,Wisconsin Badgers,2009-11-24,26.62159,included_game_day
+2010,275,Wisconsin Badgers,2009-11-25,39.003771,included_game_day
+2010,275,Wisconsin Badgers,2009-12-02,48.1323429,included_game_day
+2010,275,Wisconsin Badgers,2009-12-05,68.16971561,included_game_day
+2010,275,Wisconsin Badgers,2009-12-09,65.458390328,included_game_day
+2010,275,Wisconsin Badgers,2009-12-12,74.40300214179999,included_game_day
+2010,275,Wisconsin Badgers,2009-12-16,109.30879044192,included_game_day
+2010,275,Wisconsin Badgers,2009-12-23,105.8380580529801,included_game_day
+2010,275,Wisconsin Badgers,2009-12-27,124.98393169833457,included_game_day
+2010,275,Wisconsin Badgers,2009-12-31,144.85387280584965,included_game_day
+2010,275,Wisconsin Badgers,2010-01-03,156.75941706145446,included_game_day
+2010,275,Wisconsin Badgers,2010-01-06,150.31555546491217,included_game_day
+2010,275,Wisconsin Badgers,2010-01-09,154.7313370242236,included_game_day
+2010,275,Wisconsin Badgers,2010-01-13,158.31627814177384,included_game_day
+2010,275,Wisconsin Badgers,2010-01-16,148.50044367840204,included_game_day
+2010,275,Wisconsin Badgers,2010-01-20,143.94889937543198,included_game_day
+2010,275,Wisconsin Badgers,2010-01-24,137.3400585876679,included_game_day
+2010,275,Wisconsin Badgers,2010-01-28,136.76877897231097,included_game_day
+2010,275,Wisconsin Badgers,2010-02-02,151.5351961079152,included_game_day
+2010,275,Wisconsin Badgers,2010-02-06,164.33409262289882,included_game_day
+2010,275,Wisconsin Badgers,2010-02-09,146.1228819030117,included_game_day
+2010,275,Wisconsin Badgers,2010-02-13,157.05510481247842,included_game_day
+2010,275,Wisconsin Badgers,2010-02-18,136.11222468938666,included_game_day
+2010,275,Wisconsin Badgers,2010-02-21,131.8028320259601,included_game_day
+2010,275,Wisconsin Badgers,2010-02-25,151.59307315601495,included_game_day
+2010,275,Wisconsin Badgers,2010-03-03,162.53751628099855,included_game_day
+2010,275,Wisconsin Badgers,2010-03-07,172.56660284828666,included_game_day
+2010,275,Wisconsin Badgers,2010-03-12,158.58987210211714,included_game_day
+2010,275,Wisconsin Badgers,2010-03-19,153.79424701830035,included_game_day
+2010,275,Wisconsin Badgers,2010-03-21,132.52837886165452,included_game_day
+2011,275,Wisconsin Badgers,2010-11-14,37.4,included_game_day
+2011,275,Wisconsin Badgers,2010-11-16,62.66,included_game_day
+2011,275,Wisconsin Badgers,2010-11-20,63.384,included_game_day
+2011,275,Wisconsin Badgers,2010-11-25,71.9416,included_game_day
+2011,275,Wisconsin Badgers,2010-11-26,77.3134434,included_game_day
+2011,275,Wisconsin Badgers,2010-11-28,72.21522906,included_game_day
+2011,275,Wisconsin Badgers,2010-12-01,103.826947494,included_game_day
+2011,275,Wisconsin Badgers,2010-12-04,104.2131831446,included_game_day
+2011,275,Wisconsin Badgers,2010-12-08,109.55071193154,included_game_day
+2011,275,Wisconsin Badgers,2010-12-11,115.471436398292,included_game_day
+2011,275,Wisconsin Badgers,2010-12-13,112.3012399567412,included_game_day
+2011,275,Wisconsin Badgers,2010-12-23,118.99938987968908,included_game_day
+2011,275,Wisconsin Badgers,2010-12-28,117.36844993628193,included_game_day
+2011,275,Wisconsin Badgers,2011-01-02,109.30989034221517,included_game_day
+2011,275,Wisconsin Badgers,2011-01-05,116.82704392421515,included_game_day
+2011,275,Wisconsin Badgers,2011-01-11,112.3972961067534,included_game_day
+2011,275,Wisconsin Badgers,2011-01-15,118.83506413095692,included_game_day
+2011,275,Wisconsin Badgers,2011-01-20,119.2482903807877,included_game_day
+2011,275,Wisconsin Badgers,2011-01-23,153.15772010155914,included_game_day
+2011,275,Wisconsin Badgers,2011-01-29,143.44348842809805,included_game_day
+2011,275,Wisconsin Badgers,2011-02-01,146.00844476078692,included_game_day
+2011,275,Wisconsin Badgers,2011-02-06,158.3272247393862,included_game_day
+2011,275,Wisconsin Badgers,2011-02-09,153.16926495121112,included_game_day
+2011,275,Wisconsin Badgers,2011-02-12,157.20052372576654,included_game_day
+2011,275,Wisconsin Badgers,2011-02-16,150.7677877479208,included_game_day
+2011,275,Wisconsin Badgers,2011-02-20,149.25359145831987,included_game_day
+2011,275,Wisconsin Badgers,2011-02-23,146.09197838874653,included_game_day
+2011,275,Wisconsin Badgers,2011-02-27,147.3457712973259,included_game_day
+2011,275,Wisconsin Badgers,2011-03-03,149.05118252086433,included_game_day
+2011,275,Wisconsin Badgers,2011-03-06,128.11685747584653,included_game_day
+2011,275,Wisconsin Badgers,2011-03-11,119.6095547798934,included_game_day
+2011,275,Wisconsin Badgers,2011-03-17,137.4325189290212,included_game_day
+2011,275,Wisconsin Badgers,2011-03-19,142.00361453275906,included_game_day
+2011,275,Wisconsin Badgers,2011-03-24,131.6273689244373,included_game_day
+2012,275,Wisconsin Badgers,2011-11-12,51.0,included_game_day
+2012,275,Wisconsin Badgers,2011-11-16,70.6,included_game_day
+2012,275,Wisconsin Badgers,2011-11-19,95.53999999999999,included_game_day
+2012,275,Wisconsin Badgers,2011-11-22,128.4019,included_game_day
+2012,275,Wisconsin Badgers,2011-11-25,138.41951,included_game_day
+2012,275,Wisconsin Badgers,2011-11-26,148.724509,included_game_day
+2012,275,Wisconsin Badgers,2011-11-30,141.604158,included_game_day
+2012,275,Wisconsin Badgers,2011-12-03,129.28962312000002,included_game_day
+2012,275,Wisconsin Badgers,2011-12-07,140.23433882220002,included_game_day
+2012,275,Wisconsin Badgers,2011-12-10,140.84549217498002,included_game_day
+2012,275,Wisconsin Badgers,2011-12-13,139.216903942738,included_game_day
+2012,275,Wisconsin Badgers,2011-12-15,152.10328259414422,included_game_day
+2012,275,Wisconsin Badgers,2011-12-23,159.0009293799134,included_game_day
+2012,275,Wisconsin Badgers,2011-12-27,172.68957971721164,included_game_day
+2012,275,Wisconsin Badgers,2011-12-31,150.5483235026981,included_game_day
+2012,275,Wisconsin Badgers,2012-01-03,145.62911429864312,included_game_day
+2012,275,Wisconsin Badgers,2012-01-08,124.32985874158055,included_game_day
+2012,275,Wisconsin Badgers,2012-01-12,128.28604379831603,included_game_day
+2012,275,Wisconsin Badgers,2012-01-15,118.87367173064612,included_game_day
+2012,275,Wisconsin Badgers,2012-01-18,130.42924910230545,included_game_day
+2012,275,Wisconsin Badgers,2012-01-22,131.05996480038436,included_game_day
+2012,275,Wisconsin Badgers,2012-01-26,133.94160109794532,included_game_day
+2012,275,Wisconsin Badgers,2012-01-31,129.77967619618641,included_game_day
+2012,275,Wisconsin Badgers,2012-02-04,129.23558030616954,included_game_day
+2012,275,Wisconsin Badgers,2012-02-09,134.721972262952,included_game_day
+2012,275,Wisconsin Badgers,2012-02-16,128.8492653327333,included_game_day
+2012,275,Wisconsin Badgers,2012-02-19,124.69674599454676,included_game_day
+2012,275,Wisconsin Badgers,2012-02-23,118.96912755348987,included_game_day
+2012,275,Wisconsin Badgers,2012-02-26,130.45931413646005,included_game_day
+2012,275,Wisconsin Badgers,2012-02-28,126.7547968826509,included_game_day
+2012,275,Wisconsin Badgers,2012-03-04,128.278341111145,included_game_day
+2012,275,Wisconsin Badgers,2012-03-09,138.80197071070342,included_game_day
+2012,275,Wisconsin Badgers,2012-03-10,129.6106891016067,included_game_day
+2012,275,Wisconsin Badgers,2012-03-15,148.9647427352454,included_game_day
+2012,275,Wisconsin Badgers,2012-03-17,152.72845316344063,included_game_day
+2012,275,Wisconsin Badgers,2012-03-22,152.269750231799,included_game_day
+2013,275,Wisconsin Badgers,2012-11-11,37.0,included_game_day
+2013,275,Wisconsin Badgers,2012-11-14,22.490000000000002,included_game_day
+2013,275,Wisconsin Badgers,2012-11-18,49.441,included_game_day
+2013,275,Wisconsin Badgers,2012-11-20,80.9049,included_game_day
+2013,275,Wisconsin Badgers,2012-11-23,70.86176999999999,included_game_day
+2013,275,Wisconsin Badgers,2012-11-24,75.10724599999999,included_game_day
+2013,275,Wisconsin Badgers,2012-11-28,63.890207399999994,included_game_day
+2013,275,Wisconsin Badgers,2012-12-02,85.75547417,included_game_day
+2013,275,Wisconsin Badgers,2012-12-04,111.41043101599999,included_game_day
+2013,275,Wisconsin Badgers,2012-12-08,97.20432297439999,included_game_day
+2013,275,Wisconsin Badgers,2012-12-12,94.86051008535999,included_game_day
+2013,275,Wisconsin Badgers,2012-12-22,93.90256916561361,included_game_day
+2013,275,Wisconsin Badgers,2012-12-29,108.74030075306294,included_game_day
+2013,275,Wisconsin Badgers,2013-01-03,103.58976979154495,included_game_day
+2013,275,Wisconsin Badgers,2013-01-06,101.0029176784165,included_game_day
+2013,275,Wisconsin Badgers,2013-01-12,118.83564355049974,included_game_day
+2013,275,Wisconsin Badgers,2013-01-15,135.01029626230775,included_game_day
+2013,275,Wisconsin Badgers,2013-01-19,131.29692129629666,included_game_day
+2013,275,Wisconsin Badgers,2013-01-22,123.37550724175028,included_game_day
+2013,275,Wisconsin Badgers,2013-01-26,121.56922336330292,included_game_day
+2013,275,Wisconsin Badgers,2013-01-29,116.39895457628256,included_game_day
+2013,275,Wisconsin Badgers,2013-02-03,119.53869670235893,included_game_day
+2013,275,Wisconsin Badgers,2013-02-06,118.43667842915288,included_game_day
+2013,275,Wisconsin Badgers,2013-02-09,124.4590393722428,included_game_day
+2013,275,Wisconsin Badgers,2013-02-14,120.54089711062292,included_game_day
+2013,275,Wisconsin Badgers,2013-02-17,139.99590945976104,included_game_day
+2013,275,Wisconsin Badgers,2013-02-20,159.12044722193454,included_game_day
+2013,275,Wisconsin Badgers,2013-02-26,172.7757062824809,included_game_day
+2013,275,Wisconsin Badgers,2013-03-03,143.11038649406694,included_game_day
+2013,275,Wisconsin Badgers,2013-03-07,130.96890589621836,included_game_day
+2013,275,Wisconsin Badgers,2013-03-10,123.90324171508902,included_game_day
+2013,275,Wisconsin Badgers,2013-03-15,133.7432679349809,included_game_day
+2013,275,Wisconsin Badgers,2013-03-16,150.97495534495988,included_game_day
+2013,275,Wisconsin Badgers,2013-03-17,145.13387960701587,included_game_day
+2013,275,Wisconsin Badgers,2013-03-22,131.6789622536732,included_game_day
+2014,275,Wisconsin Badgers,2013-11-08,11.0,included_game_day
+2014,275,Wisconsin Badgers,2013-11-12,13.4,included_game_day
+2014,275,Wisconsin Badgers,2013-11-16,18.060000000000002,included_game_day
+2014,275,Wisconsin Badgers,2013-11-19,31.254,included_game_day
+2014,275,Wisconsin Badgers,2013-11-21,47.7216,included_game_day
+2014,275,Wisconsin Badgers,2013-11-23,49.39614,included_game_day
+2014,275,Wisconsin Badgers,2013-11-26,57.91902,included_game_day
+2014,275,Wisconsin Badgers,2013-11-27,67.168552,included_game_day
+2014,275,Wisconsin Badgers,2013-12-04,82.549429699,included_game_day
+2014,275,Wisconsin Badgers,2013-12-07,82.9787614737,included_game_day
+2014,275,Wisconsin Badgers,2013-12-11,100.55053379928,included_game_day
+2014,275,Wisconsin Badgers,2013-12-14,114.339692568362,included_game_day
+2014,275,Wisconsin Badgers,2013-12-28,124.55089840835547,included_game_day
+2014,275,Wisconsin Badgers,2014-01-02,143.69830058944237,included_game_day
+2014,275,Wisconsin Badgers,2014-01-05,144.6871883317324,included_game_day
+2014,275,Wisconsin Badgers,2014-01-08,160.864572076335,included_game_day
+2014,275,Wisconsin Badgers,2014-01-14,151.9944369142201,included_game_day
+2014,275,Wisconsin Badgers,2014-01-18,139.11561856442634,included_game_day
+2014,275,Wisconsin Badgers,2014-01-22,122.57703131586828,included_game_day
+2014,275,Wisconsin Badgers,2014-01-25,133.0103608327032,included_game_day
+2014,275,Wisconsin Badgers,2014-01-29,107.993176641329,included_game_day
+2014,275,Wisconsin Badgers,2014-02-01,103.9107627601443,included_game_day
+2014,275,Wisconsin Badgers,2014-02-04,112.80864987485944,included_game_day
+2014,275,Wisconsin Badgers,2014-02-09,115.0434165813313,included_game_day
+2014,275,Wisconsin Badgers,2014-02-13,116.1170683298585,included_game_day
+2014,275,Wisconsin Badgers,2014-02-16,135.4215057511271,included_game_day
+2014,275,Wisconsin Badgers,2014-02-22,146.98614463864902,included_game_day
+2014,275,Wisconsin Badgers,2014-02-25,146.2622060482944,included_game_day
+2014,275,Wisconsin Badgers,2014-03-02,144.36597691173162,included_game_day
+2014,275,Wisconsin Badgers,2014-03-05,137.39143118968596,included_game_day
+2014,275,Wisconsin Badgers,2014-03-09,126.56431987482691,included_game_day
+2014,275,Wisconsin Badgers,2014-03-14,148.42525571583212,included_game_day
+2014,275,Wisconsin Badgers,2014-03-15,138.25970904376425,included_game_day
+2014,275,Wisconsin Badgers,2014-03-20,170.28041483699965,included_game_day
+2014,275,Wisconsin Badgers,2014-03-22,173.77278446232822,included_game_day
+2014,275,Wisconsin Badgers,2014-03-27,189.81322040858475,included_game_day
+2014,275,Wisconsin Badgers,2014-03-29,192.5974237282945,included_game_day
+2014,275,Wisconsin Badgers,2014-04-05,187.69198227370615,included_game_day
+2015,275,Wisconsin Badgers,2014-11-14,28.0,included_game_day
+2015,275,Wisconsin Badgers,2014-11-16,66.2,included_game_day
+2015,275,Wisconsin Badgers,2014-11-19,80.58,included_game_day
+2015,275,Wisconsin Badgers,2014-11-22,95.121,included_game_day
+2015,275,Wisconsin Badgers,2014-11-26,113.4889,included_game_day
+2015,275,Wisconsin Badgers,2014-11-27,108.31014,included_game_day
+2015,275,Wisconsin Badgers,2014-11-28,117.007896,included_game_day
+2015,275,Wisconsin Badgers,2014-12-03,107.21280610000001,included_game_day
+2015,275,Wisconsin Badgers,2014-12-06,110.83372684000001,included_game_day
+2015,275,Wisconsin Badgers,2014-12-10,138.81540713380002,included_game_day
+2015,275,Wisconsin Badgers,2014-12-13,157.53046712042,included_game_day
+2015,275,Wisconsin Badgers,2014-12-22,162.93360859914662,included_game_day
+2015,275,Wisconsin Badgers,2014-12-28,160.54735062941094,included_game_day
+2015,275,Wisconsin Badgers,2014-12-31,163.45509552864468,included_game_day
+2015,275,Wisconsin Badgers,2015-01-04,177.57306397927195,included_game_day
+2015,275,Wisconsin Badgers,2015-01-07,170.07411218449852,included_game_day
+2015,275,Wisconsin Badgers,2015-01-11,150.7357983188306,included_game_day
+2015,275,Wisconsin Badgers,2015-01-15,152.48687656780322,included_game_day
+2015,275,Wisconsin Badgers,2015-01-20,175.72442567555797,included_game_day
+2015,275,Wisconsin Badgers,2015-01-24,169.92320355604906,included_game_day
+2015,275,Wisconsin Badgers,2015-01-31,173.9053803308157,included_game_day
+2015,275,Wisconsin Badgers,2015-02-03,175.45614655457945,included_game_day
+2015,275,Wisconsin Badgers,2015-02-07,172.56394278491163,included_game_day
+2015,275,Wisconsin Badgers,2015-02-10,171.9053822704606,included_game_day
+2015,275,Wisconsin Badgers,2015-02-15,179.5217719517901,included_game_day
+2015,275,Wisconsin Badgers,2015-02-18,178.08508368285428,included_game_day
+2015,275,Wisconsin Badgers,2015-02-21,173.8443706041421,included_game_day
+2015,275,Wisconsin Badgers,2015-02-24,160.33650193326181,included_game_day
+2015,275,Wisconsin Badgers,2015-03-01,160.31378111977992,included_game_day
+2015,275,Wisconsin Badgers,2015-03-05,168.83194324773527,included_game_day
+2015,275,Wisconsin Badgers,2015-03-08,194.09862712984247,included_game_day
+2015,275,Wisconsin Badgers,2015-03-13,191.90572133967726,included_game_day
+2015,275,Wisconsin Badgers,2015-03-14,202.74586711922805,included_game_day
+2015,275,Wisconsin Badgers,2015-03-15,206.6015051976295,included_game_day
+2015,275,Wisconsin Badgers,2015-03-20,203.60795521606985,included_game_day
+2015,275,Wisconsin Badgers,2015-03-22,199.31792255701177,included_game_day
+2015,275,Wisconsin Badgers,2015-03-26,201.3116137972525,included_game_day
+2015,275,Wisconsin Badgers,2015-03-28,212.36461843409882,included_game_day
+2015,275,Wisconsin Badgers,2015-04-04,222.9482748495434,included_game_day
+2015,275,Wisconsin Badgers,2015-04-06,219.4825351656434,included_game_day
+2016,275,Wisconsin Badgers,2015-11-13,-5.0,included_game_day
+2016,275,Wisconsin Badgers,2015-11-15,18.0,included_game_day
+2016,275,Wisconsin Badgers,2015-11-17,27.2,included_game_day
+2016,275,Wisconsin Badgers,2015-11-22,29.009999999999998,included_game_day
+2016,275,Wisconsin Badgers,2015-11-25,35.024,included_game_day
+2016,275,Wisconsin Badgers,2015-11-29,21.2041,included_game_day
+2016,275,Wisconsin Badgers,2015-12-02,35.3969331,included_game_day
+2016,275,Wisconsin Badgers,2015-12-05,45.00571094,included_game_day
+2016,275,Wisconsin Badgers,2015-12-09,37.944076366,included_game_day
+2016,275,Wisconsin Badgers,2015-12-12,36.358726436599994,included_game_day
+2016,275,Wisconsin Badgers,2015-12-15,44.629733491460996,included_game_day
+2016,275,Wisconsin Badgers,2015-12-23,41.675944856433695,included_game_day
+2016,275,Wisconsin Badgers,2015-12-29,44.72507693044908,included_game_day
+2016,275,Wisconsin Badgers,2016-01-02,56.84211089519771,included_game_day
+2016,275,Wisconsin Badgers,2016-01-05,66.276019296642,included_game_day
+2016,275,Wisconsin Badgers,2016-01-09,66.61803489061354,included_game_day
+2016,275,Wisconsin Badgers,2016-01-12,67.28942835757722,included_game_day
+2016,275,Wisconsin Badgers,2016-01-17,72.58444313616917,included_game_day
+2016,275,Wisconsin Badgers,2016-01-21,77.34070538003893,included_game_day
+2016,275,Wisconsin Badgers,2016-01-26,86.94757302370891,included_game_day
+2016,275,Wisconsin Badgers,2016-01-31,90.15023729240067,included_game_day
+2016,275,Wisconsin Badgers,2016-02-04,95.9783926404511,included_game_day
+2016,275,Wisconsin Badgers,2016-02-10,102.16068115861583,included_game_day
+2016,275,Wisconsin Badgers,2016-02-13,123.56817742432472,included_game_day
+2016,275,Wisconsin Badgers,2016-02-18,121.24003853789627,included_game_day
+2016,275,Wisconsin Badgers,2016-02-21,116.64371947136634,included_game_day
+2016,275,Wisconsin Badgers,2016-02-24,128.65440906387448,included_game_day
+2016,275,Wisconsin Badgers,2016-02-28,132.56071954319674,included_game_day
+2016,275,Wisconsin Badgers,2016-03-02,136.14211231102482,included_game_day
+2016,275,Wisconsin Badgers,2016-03-06,129.21740254184118,included_game_day
+2016,275,Wisconsin Badgers,2016-03-10,108.99954040813341,included_game_day
+2016,275,Wisconsin Badgers,2016-03-18,110.10083833250815,included_game_day
+2016,275,Wisconsin Badgers,2016-03-20,116.14444351554154,included_game_day
+2016,275,Wisconsin Badgers,2016-03-25,108.2542925524931,included_game_day
+2017,275,Wisconsin Badgers,2016-11-11,29.0,included_game_day
+2017,275,Wisconsin Badgers,2016-11-15,17.5,included_game_day
+2017,275,Wisconsin Badgers,2016-11-17,30.75,included_game_day
+2017,275,Wisconsin Badgers,2016-11-21,38.745,included_game_day
+2017,275,Wisconsin Badgers,2016-11-22,53.3505,included_game_day
+2017,275,Wisconsin Badgers,2016-11-23,44.49567999999999,included_game_day
+2017,275,Wisconsin Badgers,2016-11-27,77.149925,included_game_day
+2017,275,Wisconsin Badgers,2016-11-29,91.6101475,included_game_day
+2017,275,Wisconsin Badgers,2016-12-03,104.74725384999999,included_game_day
+2017,275,Wisconsin Badgers,2016-12-07,120.3895642,included_game_day
+2017,275,Wisconsin Badgers,2016-12-10,128.6881414974,included_game_day
+2017,275,Wisconsin Badgers,2016-12-14,125.01847165472,included_game_day
+2017,275,Wisconsin Badgers,2016-12-23,152.7606928504957,included_game_day
+2017,275,Wisconsin Badgers,2016-12-27,159.79085091835535,included_game_day
+2017,275,Wisconsin Badgers,2017-01-03,164.97952274109105,included_game_day
+2017,275,Wisconsin Badgers,2017-01-08,155.3631848014298,included_game_day
+2017,275,Wisconsin Badgers,2017-01-12,166.77437532938146,included_game_day
+2017,275,Wisconsin Badgers,2017-01-17,157.6828399691857,included_game_day
+2017,275,Wisconsin Badgers,2017-01-21,155.45205747678656,included_game_day
+2017,275,Wisconsin Badgers,2017-01-24,169.40986147755862,included_game_day
+2017,275,Wisconsin Badgers,2017-01-28,159.48742442081812,included_game_day
+2017,275,Wisconsin Badgers,2017-01-31,164.7828541670633,included_game_day
+2017,275,Wisconsin Badgers,2017-02-05,158.32847084861862,included_game_day
+2017,275,Wisconsin Badgers,2017-02-09,149.03258205341206,included_game_day
+2017,275,Wisconsin Badgers,2017-02-12,133.22987383522488,included_game_day
+2017,275,Wisconsin Badgers,2017-02-16,129.54213908650317,included_game_day
+2017,275,Wisconsin Badgers,2017-02-19,136.13327063929347,included_game_day
+2017,275,Wisconsin Badgers,2017-02-23,120.45939871992859,included_game_day
+2017,275,Wisconsin Badgers,2017-02-26,109.66491472560915,included_game_day
+2017,275,Wisconsin Badgers,2017-03-02,100.66775989943721,included_game_day
+2017,275,Wisconsin Badgers,2017-03-05,116.31413004152452,included_game_day
+2017,275,Wisconsin Badgers,2017-03-10,124.62487929570794,included_game_day
+2017,275,Wisconsin Badgers,2017-03-11,150.1558969577793,included_game_day
+2017,275,Wisconsin Badgers,2017-03-12,137.2345391265691,included_game_day
+2017,275,Wisconsin Badgers,2017-03-16,143.61287631904517,included_game_day
+2017,275,Wisconsin Badgers,2017-03-18,153.49845800541058,included_game_day
+2017,275,Wisconsin Badgers,2017-03-24,156.32497821271642,included_game_day
+2018,275,Wisconsin Badgers,2017-11-10,32.0,included_game_day
+2018,275,Wisconsin Badgers,2017-11-12,52.5,included_game_day
+2018,275,Wisconsin Badgers,2017-11-16,41.08,included_game_day
+2018,275,Wisconsin Badgers,2017-11-20,37.482,included_game_day
+2018,275,Wisconsin Badgers,2017-11-21,32.60754,included_game_day
+2018,275,Wisconsin Badgers,2017-11-24,50.465626,included_game_day
+2018,275,Wisconsin Badgers,2017-11-27,46.2639395,included_game_day
+2018,275,Wisconsin Badgers,2017-12-02,15.29591242,included_game_day
+2018,275,Wisconsin Badgers,2017-12-04,25.349869802,included_game_day
+2018,275,Wisconsin Badgers,2017-12-06,26.0962586578,included_game_day
+2018,275,Wisconsin Badgers,2017-12-09,3.6747258480769993,included_game_day
+2018,275,Wisconsin Badgers,2017-12-13,6.4469534886263,included_game_day
+2018,275,Wisconsin Badgers,2017-12-23,17.03001185686317,included_game_day
+2018,275,Wisconsin Badgers,2017-12-27,3.8952600070096466,included_game_day
+2018,275,Wisconsin Badgers,2017-12-30,25.659219876592942,included_game_day
+2018,275,Wisconsin Badgers,2018-01-02,33.82710298645017,included_game_day
+2018,275,Wisconsin Badgers,2018-01-05,32.304441477874086,included_game_day
+2018,275,Wisconsin Badgers,2018-01-09,34.32207310822274,included_game_day
+2018,275,Wisconsin Badgers,2018-01-16,27.77851413365891,included_game_day
+2018,275,Wisconsin Badgers,2018-01-19,52.539255636498524,included_game_day
+2018,275,Wisconsin Badgers,2018-01-23,36.0590328200837,included_game_day
+2018,275,Wisconsin Badgers,2018-01-26,39.200361863877006,included_game_day
+2018,275,Wisconsin Badgers,2018-01-29,31.549387867067377,included_game_day
+2018,275,Wisconsin Badgers,2018-02-01,24.482279212269354,included_game_day
+2018,275,Wisconsin Badgers,2018-02-04,30.246652167412158,included_game_day
+2018,275,Wisconsin Badgers,2018-02-08,45.54141449132895,included_game_day
+2018,275,Wisconsin Badgers,2018-02-11,38.00504725397675,included_game_day
+2018,275,Wisconsin Badgers,2018-02-15,53.438947149764886,included_game_day
+2018,275,Wisconsin Badgers,2018-02-19,54.97802180148761,included_game_day
+2018,275,Wisconsin Badgers,2018-02-22,64.54015614459594,included_game_day
+2018,275,Wisconsin Badgers,2018-02-25,68.54930035317022,included_game_day
+2018,275,Wisconsin Badgers,2018-03-01,75.50591179914862,included_game_day
+2018,275,Wisconsin Badgers,2018-03-02,83.0175660214102,included_game_day
+2019,275,Wisconsin Badgers,2018-11-06,19.0,included_game_day
+2019,275,Wisconsin Badgers,2018-11-13,29.939999999999998,included_game_day
+2019,275,Wisconsin Badgers,2018-11-17,58.516,included_game_day
+2019,275,Wisconsin Badgers,2018-11-21,70.7894,included_game_day
+2019,275,Wisconsin Badgers,2018-11-22,88.27326,included_game_day
+2019,275,Wisconsin Badgers,2018-11-23,82.10479199999999,included_game_day
+2019,275,Wisconsin Badgers,2018-11-27,87.36725479999998,included_game_day
+2019,275,Wisconsin Badgers,2018-11-30,93.58051991999999,included_game_day
+2019,275,Wisconsin Badgers,2018-12-03,90.9157778012,included_game_day
+2019,275,Wisconsin Badgers,2018-12-08,85.70289859008,included_game_day
+2019,275,Wisconsin Badgers,2018-12-13,98.494919629154,included_game_day
+2019,275,Wisconsin Badgers,2018-12-22,113.31264326794137,included_game_day
+2019,275,Wisconsin Badgers,2018-12-29,99.02158644905654,included_game_day
+2019,275,Wisconsin Badgers,2019-01-03,84.62866515783686,included_game_day
+2019,275,Wisconsin Badgers,2019-01-06,103.13314994377644,included_game_day
+2019,275,Wisconsin Badgers,2019-01-11,94.73956222054034,included_game_day
+2019,275,Wisconsin Badgers,2019-01-14,95.76986835532273,included_game_day
+2019,275,Wisconsin Badgers,2019-01-19,106.95080071700295,included_game_day
+2019,275,Wisconsin Badgers,2019-01-23,113.99487687992038,included_game_day
+2019,275,Wisconsin Badgers,2019-01-26,120.85902567032934,included_game_day
+2019,275,Wisconsin Badgers,2019-01-29,131.76542344595,included_game_day
+2019,275,Wisconsin Badgers,2019-02-01,134.6603596089692,included_game_day
+2019,275,Wisconsin Badgers,2019-02-06,135.36393764765364,included_game_day
+2019,275,Wisconsin Badgers,2019-02-09,128.90969221256435,included_game_day
+2019,275,Wisconsin Badgers,2019-02-12,121.47791783889159,included_game_day
+2019,275,Wisconsin Badgers,2019-02-18,119.02704345321469,included_game_day
+2019,275,Wisconsin Badgers,2019-02-23,116.74999083823232,included_game_day
+2019,275,Wisconsin Badgers,2019-02-26,110.33544203119388,included_game_day
+2019,275,Wisconsin Badgers,2019-03-02,110.29851864149275,included_game_day
+2019,275,Wisconsin Badgers,2019-03-07,121.74509529634597,included_game_day
+2019,275,Wisconsin Badgers,2019-03-10,122.47860601123882,included_game_day
+2019,275,Wisconsin Badgers,2019-03-15,118.98417988977451,included_game_day
+2019,275,Wisconsin Badgers,2019-03-16,111.66468384934737,included_game_day
+2019,275,Wisconsin Badgers,2019-03-22,95.16974118457456,included_game_day
+2020,275,Wisconsin Badgers,2019-11-05,-2.0,included_game_day
+2020,275,Wisconsin Badgers,2019-11-08,6.0,included_game_day
+2020,275,Wisconsin Badgers,2019-11-13,21.57,included_game_day
+2020,275,Wisconsin Badgers,2019-11-17,36.115,included_game_day
+2020,275,Wisconsin Badgers,2019-11-21,44.816500000000005,included_game_day
+2020,275,Wisconsin Badgers,2019-11-25,34.02465600000001,included_game_day
+2020,275,Wisconsin Badgers,2019-11-26,22.466061700000008,included_game_day
+2020,275,Wisconsin Badgers,2019-12-04,14.211880260000006,included_game_day
+2020,275,Wisconsin Badgers,2019-12-07,40.95337218750001,included_game_day
+2020,275,Wisconsin Badgers,2019-12-11,38.18012344209901,included_game_day
+2020,275,Wisconsin Badgers,2019-12-21,47.737349000505816,included_game_day
+2020,275,Wisconsin Badgers,2019-12-28,72.81685417863405,included_game_day
+2020,275,Wisconsin Badgers,2019-12-31,94.28169463186396,included_game_day
+2020,275,Wisconsin Badgers,2020-01-03,106.03962723199317,included_game_day
+2020,275,Wisconsin Badgers,2020-01-08,101.18174300618382,included_game_day
+2020,275,Wisconsin Badgers,2020-01-11,112.67711784415087,included_game_day
+2020,275,Wisconsin Badgers,2020-01-14,110.9259977753479,included_game_day
+2020,275,Wisconsin Badgers,2020-01-17,104.80705351157206,included_game_day
+2020,275,Wisconsin Badgers,2020-01-21,105.82943151994895,included_game_day
+2020,275,Wisconsin Badgers,2020-01-24,88.05265848162549,included_game_day
+2020,275,Wisconsin Badgers,2020-01-27,88.5680930625488,included_game_day
+2020,275,Wisconsin Badgers,2020-02-01,94.401533507589,included_game_day
+2020,275,Wisconsin Badgers,2020-02-05,78.4901365280769,included_game_day
+2020,275,Wisconsin Badgers,2020-02-09,90.99891546271601,included_game_day
+2020,275,Wisconsin Badgers,2020-02-15,102.51320413833146,included_game_day
+2020,275,Wisconsin Badgers,2020-02-18,104.17777618435994,included_game_day
+2020,275,Wisconsin Badgers,2020-02-23,108.14985285604057,included_game_day
+2020,275,Wisconsin Badgers,2020-02-27,122.56231172312084,included_game_day
+2020,275,Wisconsin Badgers,2020-03-01,118.80184619939205,included_game_day
+2020,275,Wisconsin Badgers,2020-03-04,117.8779107903104,included_game_day
+2020,275,Wisconsin Badgers,2020-03-07,122.04039159490722,included_game_day
+2021,275,Wisconsin Badgers,2020-11-25,7.0,included_game_day
+2021,275,Wisconsin Badgers,2020-11-27,33.4,included_game_day
+2021,275,Wisconsin Badgers,2020-12-01,64.36,included_game_day
+2021,275,Wisconsin Badgers,2020-12-04,63.159,included_game_day
+2021,275,Wisconsin Badgers,2020-12-09,67.76506,included_game_day
+2021,275,Wisconsin Badgers,2020-12-15,75.35106900000001,included_game_day
+2021,275,Wisconsin Badgers,2020-12-19,107.5331621,included_game_day
+2021,275,Wisconsin Badgers,2020-12-22,108.5508723,included_game_day
+2021,275,Wisconsin Badgers,2020-12-25,112.77932306999999,included_game_day
+2021,275,Wisconsin Badgers,2020-12-28,97.30200438236,included_game_day
+2021,275,Wisconsin Badgers,2020-12-31,103.96521853755699,included_game_day
+2021,275,Wisconsin Badgers,2021-01-07,103.23837524221928,included_game_day
+2021,275,Wisconsin Badgers,2021-01-12,84.39072831645423,included_game_day
+2021,275,Wisconsin Badgers,2021-01-15,87.65183055650917,included_game_day
+2021,275,Wisconsin Badgers,2021-01-20,92.91602644476873,included_game_day
+2021,275,Wisconsin Badgers,2021-01-23,77.64822695960416,included_game_day
+2021,275,Wisconsin Badgers,2021-01-27,84.05958173369592,included_game_day
+2021,275,Wisconsin Badgers,2021-01-30,71.84062804527616,included_game_day
+2021,275,Wisconsin Badgers,2021-02-02,82.06546509454036,included_game_day
+2021,275,Wisconsin Badgers,2021-02-06,73.34198918522709,included_game_day
+2021,275,Wisconsin Badgers,2021-02-10,77.4468661421739,included_game_day
+2021,275,Wisconsin Badgers,2021-02-14,72.71998394322776,included_game_day
+2021,275,Wisconsin Badgers,2021-02-18,60.66940928072012,included_game_day
+2021,275,Wisconsin Badgers,2021-02-21,75.34380716202494,included_game_day
+2021,275,Wisconsin Badgers,2021-02-27,71.0891835142034,included_game_day
+2021,275,Wisconsin Badgers,2021-03-02,72.5960895173374,included_game_day
+2021,275,Wisconsin Badgers,2021-03-07,80.00294587524732,included_game_day
+2021,275,Wisconsin Badgers,2021-03-11,76.71671428604779,included_game_day
+2021,275,Wisconsin Badgers,2021-03-12,78.97082253129567,included_game_day
+2021,275,Wisconsin Badgers,2021-03-19,106.47341721713653,included_game_day
+2021,275,Wisconsin Badgers,2021-03-21,97.37578800589681,included_game_day
+2022,275,Wisconsin Badgers,2021-11-09,20.0,included_game_day
+2022,275,Wisconsin Badgers,2021-11-12,52.3,included_game_day
+2022,275,Wisconsin Badgers,2021-11-15,42.01,included_game_day
+2022,275,Wisconsin Badgers,2021-11-22,53.87392,included_game_day
+2022,275,Wisconsin Badgers,2021-11-23,56.927548,included_game_day
+2022,275,Wisconsin Badgers,2021-11-24,61.337904200000004,included_game_day
+2022,275,Wisconsin Badgers,2021-12-01,65.43268228000001,included_game_day
+2022,275,Wisconsin Badgers,2021-12-04,72.88983030200001,included_game_day
+2022,275,Wisconsin Badgers,2021-12-08,76.11807086275,included_game_day
+2022,275,Wisconsin Badgers,2021-12-11,59.8949665039255,included_game_day
+2022,275,Wisconsin Badgers,2021-12-15,52.055631216579954,included_game_day
+2022,275,Wisconsin Badgers,2021-12-29,48.35918115443891,included_game_day
+2022,275,Wisconsin Badgers,2022-01-03,64.93725419921539,included_game_day
+2022,275,Wisconsin Badgers,2022-01-06,76.35278117758159,included_game_day
+2022,275,Wisconsin Badgers,2022-01-09,77.33236556835425,included_game_day
+2022,275,Wisconsin Badgers,2022-01-13,83.89387890581476,included_game_day
+2022,275,Wisconsin Badgers,2022-01-18,90.28730821580373,included_game_day
+2022,275,Wisconsin Badgers,2022-01-21,74.49429938411501,included_game_day
+2022,275,Wisconsin Badgers,2022-01-27,74.02350296155193,included_game_day
+2022,275,Wisconsin Badgers,2022-01-30,72.80447610575989,included_game_day
+2022,275,Wisconsin Badgers,2022-02-02,66.65304284231202,included_game_day
+2022,275,Wisconsin Badgers,2022-02-05,63.14186696651671,included_game_day
+2022,275,Wisconsin Badgers,2022-02-08,76.54534762969598,included_game_day
+2022,275,Wisconsin Badgers,2022-02-12,65.1043348214531,included_game_day
+2022,275,Wisconsin Badgers,2022-02-15,72.94947544974619,included_game_day
+2022,275,Wisconsin Badgers,2022-02-20,86.88467574592124,included_game_day
+2022,275,Wisconsin Badgers,2022-02-23,83.3114323587229,included_game_day
+2022,275,Wisconsin Badgers,2022-02-26,91.30608707459487,included_game_day
+2022,275,Wisconsin Badgers,2022-03-01,94.45599514019153,included_game_day
+2022,275,Wisconsin Badgers,2022-03-06,82.77329284412566,included_game_day
+2022,275,Wisconsin Badgers,2022-03-11,74.60599205893035,included_game_day
+2022,275,Wisconsin Badgers,2022-03-18,81.74120157166793,included_game_day
+2022,275,Wisconsin Badgers,2022-03-20,73.48743018017606,included_game_day
+2023,275,Wisconsin Badgers,2022-11-07,23.0,included_game_day
+2023,275,Wisconsin Badgers,2022-11-11,31.4,included_game_day
+2023,275,Wisconsin Badgers,2022-11-15,31.049999999999997,included_game_day
+2023,275,Wisconsin Badgers,2022-11-23,31.581799999999998,included_game_day
+2023,275,Wisconsin Badgers,2022-11-24,32.6482777,included_game_day
+2023,275,Wisconsin Badgers,2022-11-25,36.23920313,included_game_day
+2023,275,Wisconsin Badgers,2022-11-29,32.163960397,included_game_day
+2023,275,Wisconsin Badgers,2022-12-03,44.7339274875,included_game_day
+2023,275,Wisconsin Badgers,2022-12-06,53.03314345734999,included_game_day
+2023,275,Wisconsin Badgers,2022-12-11,62.663356482782376,included_game_day
+2023,275,Wisconsin Badgers,2022-12-15,70.06688293340414,included_game_day
+2023,275,Wisconsin Badgers,2022-12-30,64.0032233066298,included_game_day
+2023,275,Wisconsin Badgers,2023-01-03,54.554122120922685,included_game_day
+2023,275,Wisconsin Badgers,2023-01-07,49.280764050972145,included_game_day
+2023,275,Wisconsin Badgers,2023-01-10,43.6588910066994,included_game_day
+2023,275,Wisconsin Badgers,2023-01-14,30.256482419829354,included_game_day
+2023,275,Wisconsin Badgers,2023-01-17,34.36742050002179,included_game_day
+2023,275,Wisconsin Badgers,2023-01-23,38.648809562990564,included_game_day
+2023,275,Wisconsin Badgers,2023-01-25,26.548315642805708,included_game_day
+2023,275,Wisconsin Badgers,2023-01-28,20.871171987197123,included_game_day
+2023,275,Wisconsin Badgers,2023-02-02,34.94361936361843,included_game_day
+2023,275,Wisconsin Badgers,2023-02-05,31.954195603256718,included_game_day
+2023,275,Wisconsin Badgers,2023-02-08,41.88842887075975,included_game_day
+2023,275,Wisconsin Badgers,2023-02-11,30.023026549694173,included_game_day
+2023,275,Wisconsin Badgers,2023-02-14,36.82836865294013,included_game_day
+2023,275,Wisconsin Badgers,2023-02-18,37.87875252921644,included_game_day
+2023,275,Wisconsin Badgers,2023-02-22,51.4242505028339,included_game_day
+2023,275,Wisconsin Badgers,2023-02-26,51.20983214121665,included_game_day
+2023,275,Wisconsin Badgers,2023-03-02,53.27928962514014,included_game_day
+2023,275,Wisconsin Badgers,2023-03-05,51.286230387022705,included_game_day
+2023,275,Wisconsin Badgers,2023-03-08,42.753140735639526,included_game_day
+2023,275,Wisconsin Badgers,2023-03-14,61.87054546596248,included_game_day
+2023,275,Wisconsin Badgers,2023-03-19,66.07084677978939,included_game_day
+2023,275,Wisconsin Badgers,2023-03-21,76.34028672312216,included_game_day
+2023,275,Wisconsin Badgers,2023-03-28,79.96857917504762,included_game_day
+2024,275,Wisconsin Badgers,2023-11-06,26.0,included_game_day
+2024,275,Wisconsin Badgers,2023-11-10,13.9,included_game_day
+2024,275,Wisconsin Badgers,2023-11-14,4.65,included_game_day
+2024,275,Wisconsin Badgers,2023-11-17,10.158000000000001,included_game_day
+2024,275,Wisconsin Badgers,2023-11-20,39.5487,included_game_day
+2024,275,Wisconsin Badgers,2023-11-22,46.785799999999995,included_game_day
+2024,275,Wisconsin Badgers,2023-11-27,55.291079999999994,included_game_day
+2024,275,Wisconsin Badgers,2023-12-02,66.64952098399999,included_game_day
+2024,275,Wisconsin Badgers,2023-12-05,83.18616898559999,included_game_day
+2024,275,Wisconsin Badgers,2023-12-09,67.99249742004,included_game_day
+2024,275,Wisconsin Badgers,2023-12-14,73.362773132789,included_game_day
+2024,275,Wisconsin Badgers,2023-12-22,86.14520193708464,included_game_day
+2024,275,Wisconsin Badgers,2024-01-02,93.39224861310562,included_game_day
+2024,275,Wisconsin Badgers,2024-01-06,105.02111706256147,included_game_day
+2024,275,Wisconsin Badgers,2024-01-10,117.30384028898027,included_game_day
+2024,275,Wisconsin Badgers,2024-01-13,117.03685500154587,included_game_day
+2024,275,Wisconsin Badgers,2024-01-16,106.24248279810432,included_game_day
+2024,275,Wisconsin Badgers,2024-01-19,107.13638452555645,included_game_day
+2024,275,Wisconsin Badgers,2024-01-23,107.4864154310056,included_game_day
+2024,275,Wisconsin Badgers,2024-01-26,121.98824803807254,included_game_day
+2024,275,Wisconsin Badgers,2024-02-01,110.96688963589597,included_game_day
+2024,275,Wisconsin Badgers,2024-02-04,108.12771325786215,included_game_day
+2024,275,Wisconsin Badgers,2024-02-07,94.83805819925355,included_game_day
+2024,275,Wisconsin Badgers,2024-02-10,69.78813348622894,included_game_day
+2024,275,Wisconsin Badgers,2024-02-13,71.49575733917693,included_game_day
+2024,275,Wisconsin Badgers,2024-02-17,71.31321091130445,included_game_day
+2024,275,Wisconsin Badgers,2024-02-20,73.36700609813676,included_game_day
+2024,275,Wisconsin Badgers,2024-02-27,66.30699216346926,included_game_day
+2024,275,Wisconsin Badgers,2024-03-02,61.87590388298929,included_game_day
+2024,275,Wisconsin Badgers,2024-03-07,69.36643004854712,included_game_day
+2024,275,Wisconsin Badgers,2024-03-10,74.19164993655468,included_game_day
+2024,275,Wisconsin Badgers,2024-03-14,104.39410602142662,included_game_day
+2024,275,Wisconsin Badgers,2024-03-15,113.6990765468443,included_game_day
+2024,275,Wisconsin Badgers,2024-03-16,119.51974207450228,included_game_day
+2024,275,Wisconsin Badgers,2024-03-17,116.70646715629215,included_game_day
+2024,275,Wisconsin Badgers,2024-03-22,104.79873614762701,included_game_day
+2025,275,Wisconsin Badgers,2024-11-04,21.0,included_game_day
+2025,275,Wisconsin Badgers,2024-11-07,27.9,included_game_day
+2025,275,Wisconsin Badgers,2024-11-10,51.41,included_game_day
+2025,275,Wisconsin Badgers,2024-11-15,66.069,included_game_day
+2025,275,Wisconsin Badgers,2024-11-18,60.39108,included_game_day
+2025,275,Wisconsin Badgers,2024-11-22,71.736654,included_game_day
+2025,275,Wisconsin Badgers,2024-11-24,82.024533,included_game_day
+2025,275,Wisconsin Badgers,2024-11-30,78.22305882,included_game_day
+2025,275,Wisconsin Badgers,2024-12-03,74.505279938,included_game_day
+2025,275,Wisconsin Badgers,2024-12-07,67.09505674496,included_game_day
+2025,275,Wisconsin Badgers,2024-12-10,70.35604729370401,included_game_day
+2025,275,Wisconsin Badgers,2024-12-14,76.23898691506973,included_game_day
+2025,275,Wisconsin Badgers,2024-12-22,82.2775409721724,included_game_day
+2025,275,Wisconsin Badgers,2025-01-03,114.64616669205517,included_game_day
+2025,275,Wisconsin Badgers,2025-01-06,122.89132024552521,included_game_day
+2025,275,Wisconsin Badgers,2025-01-10,128.6904504231975,included_game_day
+2025,275,Wisconsin Badgers,2025-01-14,123.8436550518737,included_game_day
+2025,275,Wisconsin Badgers,2025-01-18,139.26297147239939,included_game_day
+2025,275,Wisconsin Badgers,2025-01-21,137.1001804103445,included_game_day
+2025,275,Wisconsin Badgers,2025-01-26,155.11660363068583,included_game_day
+2025,275,Wisconsin Badgers,2025-01-29,149.62442407909245,included_game_day
+2025,275,Wisconsin Badgers,2025-02-01,151.39962177348434,included_game_day
+2025,275,Wisconsin Badgers,2025-02-04,152.30305804086652,included_game_day
+2025,275,Wisconsin Badgers,2025-02-08,157.0932156444195,included_game_day
+2025,275,Wisconsin Badgers,2025-02-15,171.08454861729615,included_game_day
+2025,275,Wisconsin Badgers,2025-02-18,185.2651167497639,included_game_day
+2025,275,Wisconsin Badgers,2025-02-22,168.07792998017862,included_game_day
+2025,275,Wisconsin Badgers,2025-02-25,176.14587215528832,included_game_day
+2025,275,Wisconsin Badgers,2025-03-02,170.53710683809177,included_game_day
+2025,275,Wisconsin Badgers,2025-03-05,168.0562036847009,included_game_day
+2025,275,Wisconsin Badgers,2025-03-08,143.41162736725335,included_game_day
+2025,275,Wisconsin Badgers,2025-03-13,145.92498930641557,included_game_day
+2025,275,Wisconsin Badgers,2025-03-14,162.25967963348586,included_game_day
+2025,275,Wisconsin Badgers,2025-03-15,168.01437046961664,included_game_day
+2025,275,Wisconsin Badgers,2025-03-16,156.8068650869529,included_game_day
+2025,275,Wisconsin Badgers,2025-03-20,164.4774913436276,included_game_day
+2025,275,Wisconsin Badgers,2025-03-22,162.58755517977602,included_game_day
+2026,275,Wisconsin Badgers,2025-11-03,29.0,included_game_day
+2026,275,Wisconsin Badgers,2025-11-07,49.8,included_game_day
+2026,275,Wisconsin Badgers,2025-11-11,73.62,included_game_day
+2026,275,Wisconsin Badgers,2025-11-17,89.156,included_game_day
+2026,275,Wisconsin Badgers,2025-11-21,60.934200000000004,included_game_day
+2026,275,Wisconsin Badgers,2025-11-27,80.9993734,included_game_day
+2026,275,Wisconsin Badgers,2025-11-28,68.01609519,included_game_day
+2026,275,Wisconsin Badgers,2025-12-03,76.653304951,included_game_day
+2026,275,Wisconsin Badgers,2025-12-06,88.73095472099999,included_game_day
+2026,275,Wisconsin Badgers,2025-12-10,61.14153329656699,included_game_day
+2026,275,Wisconsin Badgers,2025-12-19,53.111250413248584,included_game_day
+2026,275,Wisconsin Badgers,2025-12-22,63.53068047180562,included_game_day
+2026,275,Wisconsin Badgers,2025-12-30,73.3720834177742,included_game_day
+2026,275,Wisconsin Badgers,2026-01-03,64.59820610682016,included_game_day
+2026,275,Wisconsin Badgers,2026-01-06,73.0196111945388,included_game_day
+2026,275,Wisconsin Badgers,2026-01-10,96.15509575634044,included_game_day
+2026,275,Wisconsin Badgers,2026-01-13,98.98443920308114,included_game_day
+2026,275,Wisconsin Badgers,2026-01-17,93.90235879703546,included_game_day
+2026,275,Wisconsin Badgers,2026-01-22,114.94757165865713,included_game_day
+2026,275,Wisconsin Badgers,2026-01-25,103.49691324742281,included_game_day
+2026,275,Wisconsin Badgers,2026-01-28,99.55339585011623,included_game_day
+2026,275,Wisconsin Badgers,2026-01-31,106.95241732370415,included_game_day
+2026,275,Wisconsin Badgers,2026-02-07,109.51664880846461,included_game_day
+2026,275,Wisconsin Badgers,2026-02-10,124.25240752035295,included_game_day
+2026,275,Wisconsin Badgers,2026-02-13,146.84621226071965,included_game_day
+2026,275,Wisconsin Badgers,2026-02-17,127.99318199282052,included_game_day
+2026,275,Wisconsin Badgers,2026-02-22,136.38867928816722,included_game_day
+2026,275,Wisconsin Badgers,2026-02-25,112.66913353532073,included_game_day
+2026,275,Wisconsin Badgers,2026-02-28,129.29195435064722,included_game_day
+2026,275,Wisconsin Badgers,2026-03-04,146.57894501410914,included_game_day
+2026,275,Wisconsin Badgers,2026-03-07,155.38566909417688,included_game_day
+2026,275,Wisconsin Badgers,2026-03-12,149.20285567206702,included_game_day
+2026,275,Wisconsin Badgers,2026-03-13,156.7462631685342,included_game_day
+2026,275,Wisconsin Badgers,2026-03-14,162.15819135663648,included_game_day
+2026,275,Wisconsin Badgers,2026-03-19,153.67341100528697,included_game_day
+2027,275,Wisconsin Badgers,2026-11-02,4.0,included_game_day
+2027,275,Wisconsin Badgers,2026-11-06,9.6,included_game_day
+2027,275,Wisconsin Badgers,2026-11-10,52.422000000000004,included_game_day
+2027,275,Wisconsin Badgers,2026-11-15,47.314800000000005,included_game_day
+2027,275,Wisconsin Badgers,2026-11-19,40.33243,included_game_day
+2027,275,Wisconsin Badgers,2026-11-20,26.031394000000002,included_game_day

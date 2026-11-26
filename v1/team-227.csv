@@ -1,0 +1,1208 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,227,Rhode Island,1987-11-27,28.0,included_game_day
+1988,227,Rhode Island,1987-11-28,33.4,included_game_day
+1988,227,Rhode Island,1987-12-01,61.459999999999994,included_game_day
+1988,227,Rhode Island,1987-12-09,68.082,included_game_day
+1988,227,Rhode Island,1987-12-12,59.81991699999999,included_game_day
+1988,227,Rhode Island,1987-12-19,79.14234173999999,included_game_day
+1988,227,Rhode Island,1987-12-23,75.69095139628999,included_game_day
+1988,227,Rhode Island,1987-12-26,76.71802637534635,included_game_day
+1988,227,Rhode Island,1987-12-30,63.72976619561172,included_game_day
+1988,227,Rhode Island,1987-12-31,65.25962020576281,included_game_day
+1988,227,Rhode Island,1988-01-07,57.20994199739468,included_game_day
+1988,227,Rhode Island,1988-01-09,69.98370506009121,included_game_day
+1988,227,Rhode Island,1988-01-12,73.36021509993444,included_game_day
+1988,227,Rhode Island,1988-01-16,75.24606437245353,included_game_day
+1988,227,Rhode Island,1988-01-18,100.47334197074687,included_game_day
+1988,227,Rhode Island,1988-01-23,93.45074668427252,included_game_day
+1988,227,Rhode Island,1988-01-26,109.04294799321812,included_game_day
+1988,227,Rhode Island,1988-01-28,101.95101655167542,included_game_day
+1988,227,Rhode Island,1988-01-31,95.0018210510392,included_game_day
+1988,227,Rhode Island,1988-02-04,95.03156601724912,included_game_day
+1988,227,Rhode Island,1988-02-07,96.78520611172027,included_game_day
+1988,227,Rhode Island,1988-02-09,76.81738766571925,included_game_day
+1988,227,Rhode Island,1988-02-13,86.11646417756081,included_game_day
+1988,227,Rhode Island,1988-02-18,58.60779489616974,included_game_day
+1988,227,Rhode Island,1988-02-20,69.1651649476733,included_game_day
+1988,227,Rhode Island,1988-02-25,76.94775204971958,included_game_day
+1988,227,Rhode Island,1988-02-27,84.34910178102413,included_game_day
+1988,227,Rhode Island,1988-03-02,81.4327703085294,included_game_day
+1988,227,Rhode Island,1988-03-07,96.97604447555057,included_game_day
+1988,227,Rhode Island,1988-03-08,96.66545852979654,included_game_day
+1988,227,Rhode Island,1988-03-10,98.62942033395146,included_game_day
+1988,227,Rhode Island,1988-03-17,108.74911067759997,included_game_day
+1988,227,Rhode Island,1988-03-19,119.65919735912917,included_game_day
+1988,227,Rhode Island,1988-03-24,124.67719368335815,included_game_day
+1989,227,Rhode Island,1988-11-30,3.957,included_game_day
+1989,227,Rhode Island,1988-12-03,-3.0347,included_game_day
+1989,227,Rhode Island,1988-12-06,-3.97933,included_game_day
+1989,227,Rhode Island,1988-12-10,4.6591783000000015,included_game_day
+1989,227,Rhode Island,1988-12-21,-10.738646680349998,included_game_day
+1989,227,Rhode Island,1988-12-22,6.613926008941501,included_game_day
+1989,227,Rhode Island,1989-01-03,-0.8184371600101699,included_game_day
+1989,227,Rhode Island,1989-01-05,-7.964026238927542,included_game_day
+1989,227,Rhode Island,1989-01-07,-10.93007964377021,included_game_day
+1989,227,Rhode Island,1989-01-10,-3.3378309241204978,included_game_day
+1989,227,Rhode Island,1989-01-12,-21.572643926337662,included_game_day
+1989,227,Rhode Island,1989-01-14,-11.512334343947671,included_game_day
+1989,227,Rhode Island,1989-01-19,-16.956190268201595,included_game_day
+1989,227,Rhode Island,1989-01-22,-31.5704751575448,included_game_day
+1989,227,Rhode Island,1989-01-26,-11.98212981184599,included_game_day
+1989,227,Rhode Island,1989-01-28,-11.374465415171734,included_game_day
+1989,227,Rhode Island,1989-02-02,-9.78628191149737,included_game_day
+1989,227,Rhode Island,1989-02-04,8.935694330086756,included_game_day
+1989,227,Rhode Island,1989-02-06,14.282711737737593,included_game_day
+1989,227,Rhode Island,1989-02-09,26.88835814344502,included_game_day
+1989,227,Rhode Island,1989-02-12,16.743539376187275,included_game_day
+1989,227,Rhode Island,1989-02-16,11.943328297405266,included_game_day
+1989,227,Rhode Island,1989-02-19,2.3009789932688403,included_game_day
+1989,227,Rhode Island,1989-02-23,-10.876713439779971,included_game_day
+1989,227,Rhode Island,1989-02-25,12.251589843449741,included_game_day
+1989,227,Rhode Island,1989-03-01,8.598457512447396,included_game_day
+1989,227,Rhode Island,1989-03-05,-3.13500051571941,included_game_day
+1990,227,Rhode Island,1989-11-28,32.0,included_game_day
+1990,227,Rhode Island,1989-12-02,22.508,included_game_day
+1990,227,Rhode Island,1989-12-05,13.6346706,included_game_day
+1990,227,Rhode Island,1989-12-09,17.44264964,included_game_day
+1990,227,Rhode Island,1989-12-27,13.010789905149998,included_game_day
+1990,227,Rhode Island,1989-12-28,-5.183121779981491,included_game_day
+1990,227,Rhode Island,1989-12-31,6.882133964457658,included_game_day
+1990,227,Rhode Island,1990-01-03,15.389138522202314,included_game_day
+1990,227,Rhode Island,1990-01-06,29.09856839897509,included_game_day
+1990,227,Rhode Island,1990-01-09,20.391746840103373,included_game_day
+1990,227,Rhode Island,1990-01-11,7.360753910117568,included_game_day
+1990,227,Rhode Island,1990-01-14,23.89204259062557,included_game_day
+1990,227,Rhode Island,1990-01-17,30.904911211247736,included_game_day
+1990,227,Rhode Island,1990-01-20,18.520015466256396,included_game_day
+1990,227,Rhode Island,1990-01-24,16.764620252216872,included_game_day
+1990,227,Rhode Island,1990-01-27,11.15590575204958,included_game_day
+1990,227,Rhode Island,1990-01-30,16.04541981008618,included_game_day
+1990,227,Rhode Island,1990-02-03,36.641735192688685,included_game_day
+1990,227,Rhode Island,1990-02-06,41.15505900552433,included_game_day
+1990,227,Rhode Island,1990-02-08,37.581966593462084,included_game_day
+1990,227,Rhode Island,1990-02-15,39.624549625536616,included_game_day
+1990,227,Rhode Island,1990-02-18,36.123707137689,included_game_day
+1990,227,Rhode Island,1990-02-20,32.47461773746823,included_game_day
+1990,227,Rhode Island,1990-02-22,40.37875509162761,included_game_day
+1990,227,Rhode Island,1990-02-24,14.986375480574335,included_game_day
+1990,227,Rhode Island,1990-02-28,16.427868576824416,included_game_day
+1990,227,Rhode Island,1990-03-04,16.512440634909197,included_game_day
+1991,227,Rhode Island,1990-12-01,10.0591,included_game_day
+1991,227,Rhode Island,1990-12-04,26.36999,included_game_day
+1991,227,Rhode Island,1990-12-08,36.7051781,included_game_day
+1991,227,Rhode Island,1990-12-22,18.552259166899997,included_game_day
+1991,227,Rhode Island,1990-12-28,26.314744750209996,included_game_day
+1991,227,Rhode Island,1990-12-29,13.911575989641998,included_game_day
+1991,227,Rhode Island,1991-01-03,25.011455796857796,included_game_day
+1991,227,Rhode Island,1991-01-05,33.59219165272656,included_game_day
+1991,227,Rhode Island,1991-01-09,14.40531982948636,included_game_day
+1991,227,Rhode Island,1991-01-12,6.587919670172342,included_game_day
+1991,227,Rhode Island,1991-01-14,5.584290331846889,included_game_day
+1991,227,Rhode Island,1991-01-17,-3.425098281681871,included_game_day
+1991,227,Rhode Island,1991-01-19,-13.327062890989358,included_game_day
+1991,227,Rhode Island,1991-01-21,-38.67404863408831,included_game_day
+1991,227,Rhode Island,1991-01-24,-31.20756320432361,included_game_day
+1991,227,Rhode Island,1991-01-26,-24.597514754737283,included_game_day
+1991,227,Rhode Island,1991-01-28,-34.04032951535908,included_game_day
+1991,227,Rhode Island,1991-02-01,-26.39132958423872,included_game_day
+1991,227,Rhode Island,1991-02-05,-38.49177949417364,included_game_day
+1991,227,Rhode Island,1991-02-07,-49.25616557804943,included_game_day
+1991,227,Rhode Island,1991-02-09,-50.82178621988894,included_game_day
+1991,227,Rhode Island,1991-02-14,-70.06922189658953,included_game_day
+1991,227,Rhode Island,1991-02-16,-54.43015679571167,included_game_day
+1991,227,Rhode Island,1991-02-19,-34.484931592170504,included_game_day
+1991,227,Rhode Island,1991-02-23,-37.249954762365206,included_game_day
+1991,227,Rhode Island,1991-02-27,-44.50682941880326,included_game_day
+1991,227,Rhode Island,1991-03-02,-53.483864673502836,included_game_day
+1992,227,Rhode Island,1991-11-23,27.0,included_game_day
+1992,227,Rhode Island,1991-11-26,27.3,included_game_day
+1992,227,Rhode Island,1991-11-30,32.041,included_game_day
+1992,227,Rhode Island,1991-12-04,59.87321,included_game_day
+1992,227,Rhode Island,1991-12-07,54.1939,included_game_day
+1992,227,Rhode Island,1991-12-21,54.25122536,included_game_day
+1992,227,Rhode Island,1991-12-27,61.717182548,included_game_day
+1992,227,Rhode Island,1991-12-28,68.93451305999042,included_game_day
+1992,227,Rhode Island,1992-01-02,80.69414413888,included_game_day
+1992,227,Rhode Island,1992-01-04,76.81144402392884,included_game_day
+1992,227,Rhode Island,1992-01-09,99.52336296809287,included_game_day
+1992,227,Rhode Island,1992-01-11,94.11422944228704,included_game_day
+1992,227,Rhode Island,1992-01-17,103.46083474759853,included_game_day
+1992,227,Rhode Island,1992-01-20,86.4878139071333,included_game_day
+1992,227,Rhode Island,1992-01-23,91.83683272409522,included_game_day
+1992,227,Rhode Island,1992-01-26,101.33457485087308,included_game_day
+1992,227,Rhode Island,1992-01-30,94.20950650774459,included_game_day
+1992,227,Rhode Island,1992-02-01,103.47025371900602,included_game_day
+1992,227,Rhode Island,1992-02-06,93.64726183847938,included_game_day
+1992,227,Rhode Island,1992-02-09,93.45260539264248,included_game_day
+1992,227,Rhode Island,1992-02-12,82.74786945455627,included_game_day
+1992,227,Rhode Island,1992-02-18,101.77630231704691,included_game_day
+1992,227,Rhode Island,1992-02-22,91.45613410249932,included_game_day
+1992,227,Rhode Island,1992-02-25,80.45284085688128,included_game_day
+1992,227,Rhode Island,1992-02-27,68.41907554630923,included_game_day
+1992,227,Rhode Island,1992-02-29,86.42894039863009,included_game_day
+1992,227,Rhode Island,1992-03-04,87.50301216363853,included_game_day
+1992,227,Rhode Island,1992-03-08,86.59199193368197,included_game_day
+1992,227,Rhode Island,1992-03-09,81.83908628724589,included_game_day
+1992,227,Rhode Island,1992-03-18,85.90201186937801,included_game_day
+1992,227,Rhode Island,1992-03-23,86.23785751203118,included_game_day
+1992,227,Rhode Island,1992-03-27,75.3934825746516,included_game_day
+1993,227,Rhode Island,1992-12-01,29.0,included_game_day
+1993,227,Rhode Island,1992-12-05,38.980000000000004,included_game_day
+1993,227,Rhode Island,1992-12-08,46.736000000000004,included_game_day
+1993,227,Rhode Island,1992-12-15,44.2524,included_game_day
+1993,227,Rhode Island,1992-12-23,64.560461258,included_game_day
+1993,227,Rhode Island,1992-12-29,59.414903332200005,included_game_day
+1993,227,Rhode Island,1992-12-30,59.22324249665,included_game_day
+1993,227,Rhode Island,1993-01-02,53.108165918783,included_game_day
+1993,227,Rhode Island,1993-01-06,50.44259254080604,included_game_day
+1993,227,Rhode Island,1993-01-09,57.12329693289883,included_game_day
+1993,227,Rhode Island,1993-01-11,65.61853063678322,included_game_day
+1993,227,Rhode Island,1993-01-14,75.8387368445781,included_game_day
+1993,227,Rhode Island,1993-01-16,70.81366048696546,included_game_day
+1993,227,Rhode Island,1993-01-19,63.48163757295186,included_game_day
+1993,227,Rhode Island,1993-01-23,54.89548500259048,included_game_day
+1993,227,Rhode Island,1993-01-25,77.15981392656961,included_game_day
+1993,227,Rhode Island,1993-01-27,77.01131832952893,included_game_day
+1993,227,Rhode Island,1993-01-30,90.82623143895437,included_game_day
+1993,227,Rhode Island,1993-02-03,75.30403737717224,included_game_day
+1993,227,Rhode Island,1993-02-07,83.73072869178243,included_game_day
+1993,227,Rhode Island,1993-02-13,81.35471707576899,included_game_day
+1993,227,Rhode Island,1993-02-15,75.25424928796872,included_game_day
+1993,227,Rhode Island,1993-02-20,84.24246594461943,included_game_day
+1993,227,Rhode Island,1993-02-23,79.9515609512814,included_game_day
+1993,227,Rhode Island,1993-02-27,76.33377806957027,included_game_day
+1993,227,Rhode Island,1993-03-04,77.36310290261714,included_game_day
+1993,227,Rhode Island,1993-03-07,89.18656276905465,included_game_day
+1993,227,Rhode Island,1993-03-08,65.71719045251947,included_game_day
+1993,227,Rhode Island,1993-03-18,71.43085327947023,included_game_day
+1993,227,Rhode Island,1993-03-20,42.0745072199875,included_game_day
+1994,227,Rhode Island,1993-12-01,-3.7299999999999995,included_game_day
+1994,227,Rhode Island,1993-12-06,14.692212999999999,included_game_day
+1994,227,Rhode Island,1993-12-08,30.292991699999998,included_game_day
+1994,227,Rhode Island,1993-12-11,47.00444253,included_game_day
+1994,227,Rhode Island,1993-12-29,40.06693505552,included_game_day
+1994,227,Rhode Island,1993-12-30,44.53687069372193,included_game_day
+1994,227,Rhode Island,1994-01-03,45.86307679546247,included_game_day
+1994,227,Rhode Island,1994-01-05,40.81652938710012,included_game_day
+1994,227,Rhode Island,1994-01-08,46.111717664762324,included_game_day
+1994,227,Rhode Island,1994-01-11,40.4378948100691,included_game_day
+1994,227,Rhode Island,1994-01-15,20.58874846396923,included_game_day
+1994,227,Rhode Island,1994-01-19,0.8248921242942764,included_game_day
+1994,227,Rhode Island,1994-01-22,1.5650487911213702,included_game_day
+1994,227,Rhode Island,1994-01-25,10.042692563178134,included_game_day
+1994,227,Rhode Island,1994-01-30,-4.127644346687447,included_game_day
+1994,227,Rhode Island,1994-02-01,6.248653972387935,included_game_day
+1994,227,Rhode Island,1994-02-03,8.891942375238692,included_game_day
+1994,227,Rhode Island,1994-02-05,1.7510897716837297,included_game_day
+1994,227,Rhode Island,1994-02-08,0.18500080397960073,included_game_day
+1994,227,Rhode Island,1994-02-10,7.320633205322896,included_game_day
+1994,227,Rhode Island,1994-02-13,20.312838872452502,included_game_day
+1994,227,Rhode Island,1994-02-17,0.035922035551216425,included_game_day
+1994,227,Rhode Island,1994-02-21,0.015143859261060655,included_game_day
+1994,227,Rhode Island,1994-02-24,4.139728259179053,included_game_day
+1994,227,Rhode Island,1994-02-26,2.513824107620589,included_game_day
+1994,227,Rhode Island,1994-03-02,12.669757992641975,included_game_day
+1994,227,Rhode Island,1994-03-06,8.794505100659084,included_game_day
+1995,227,Rhode Island,1994-11-28,16.1,included_game_day
+1995,227,Rhode Island,1994-11-30,27.880000000000003,included_game_day
+1995,227,Rhode Island,1994-12-03,27.730100000000004,included_game_day
+1995,227,Rhode Island,1994-12-07,29.449460000000002,included_game_day
+1995,227,Rhode Island,1994-12-11,11.192294000000004,included_game_day
+1995,227,Rhode Island,1994-12-27,2.297604995600004,included_game_day
+1995,227,Rhode Island,1994-12-28,19.430157567538004,included_game_day
+1995,227,Rhode Island,1994-12-31,1.020552844027204,included_game_day
+1995,227,Rhode Island,1995-01-04,-2.473321062502216,included_game_day
+1995,227,Rhode Island,1995-01-07,-10.9259863707248,included_game_day
+1995,227,Rhode Island,1995-01-10,-9.962540009083689,included_game_day
+1995,227,Rhode Island,1995-01-14,-24.9195133479393,included_game_day
+1995,227,Rhode Island,1995-01-19,-25.985373855268186,included_game_day
+1995,227,Rhode Island,1995-01-24,-35.21680830043978,included_game_day
+1995,227,Rhode Island,1995-01-28,-34.78256019218922,included_game_day
+1995,227,Rhode Island,1995-02-02,-34.609796812826865,included_game_day
+1995,227,Rhode Island,1995-02-04,-21.941225301284696,included_game_day
+1995,227,Rhode Island,1995-02-07,-22.668250512763,included_game_day
+1995,227,Rhode Island,1995-02-10,-33.58633699713171,included_game_day
+1995,227,Rhode Island,1995-02-12,-39.68313477666673,included_game_day
+1995,227,Rhode Island,1995-02-15,-22.000476467878507,included_game_day
+1995,227,Rhode Island,1995-02-18,-36.27358677270766,included_game_day
+1995,227,Rhode Island,1995-02-21,-23.94739612795965,included_game_day
+1995,227,Rhode Island,1995-02-23,-10.793416728355258,included_game_day
+1995,227,Rhode Island,1995-02-25,-10.912997100291033,included_game_day
+1995,227,Rhode Island,1995-02-28,-6.330148895349126,included_game_day
+1995,227,Rhode Island,1995-03-04,-22.009691778493384,included_game_day
+1996,227,Rhode Island,1995-11-25,21.0,included_game_day
+1996,227,Rhode Island,1995-11-28,46.9,included_game_day
+1996,227,Rhode Island,1995-12-02,76.386,included_game_day
+1996,227,Rhode Island,1995-12-05,76.9743,included_game_day
+1996,227,Rhode Island,1995-12-09,61.79987,included_game_day
+1996,227,Rhode Island,1995-12-13,51.516943,included_game_day
+1996,227,Rhode Island,1995-12-16,49.755761977,included_game_day
+1996,227,Rhode Island,1995-12-27,64.750313729678,included_game_day
+1996,227,Rhode Island,1995-12-28,42.704581901792366,included_game_day
+1996,227,Rhode Island,1995-12-29,54.245640254742966,included_game_day
+1996,227,Rhode Island,1996-01-02,57.62621696065395,included_game_day
+1996,227,Rhode Island,1996-01-06,77.38227248097485,included_game_day
+1996,227,Rhode Island,1996-01-14,67.46306788601875,included_game_day
+1996,227,Rhode Island,1996-01-17,70.76196202223143,included_game_day
+1996,227,Rhode Island,1996-01-20,75.14319535157169,included_game_day
+1996,227,Rhode Island,1996-01-25,70.02861109110808,included_game_day
+1996,227,Rhode Island,1996-01-27,75.19486491845794,included_game_day
+1996,227,Rhode Island,1996-01-30,64.17211462487984,included_game_day
+1996,227,Rhode Island,1996-02-03,58.23892374813444,included_game_day
+1996,227,Rhode Island,1996-02-06,62.291315157173166,included_game_day
+1996,227,Rhode Island,1996-02-11,56.5956486569985,included_game_day
+1996,227,Rhode Island,1996-02-13,60.64806860998936,included_game_day
+1996,227,Rhode Island,1996-02-17,71.66855105944256,included_game_day
+1996,227,Rhode Island,1996-02-20,73.74373907551941,included_game_day
+1996,227,Rhode Island,1996-02-23,57.013971334688826,included_game_day
+1996,227,Rhode Island,1996-02-26,54.83955974649595,included_game_day
+1996,227,Rhode Island,1996-02-29,57.981137260595716,included_game_day
+1996,227,Rhode Island,1996-03-02,69.7240328838086,included_game_day
+1996,227,Rhode Island,1996-03-06,88.52134019408506,included_game_day
+1996,227,Rhode Island,1996-03-07,93.05533882618674,included_game_day
+1996,227,Rhode Island,1996-03-08,82.93171101596542,included_game_day
+1996,227,Rhode Island,1996-03-13,79.67396623462334,included_game_day
+1996,227,Rhode Island,1996-03-19,81.8821220677637,included_game_day
+1996,227,Rhode Island,1996-03-21,67.16404346460641,included_game_day
+1997,227,Rhode Island,1996-11-23,37.0,included_game_day
+1997,227,Rhode Island,1996-11-27,29.2,included_game_day
+1997,227,Rhode Island,1996-11-30,71.19,included_game_day
+1997,227,Rhode Island,1996-12-04,95.05879999999999,included_game_day
+1997,227,Rhode Island,1996-12-10,109.92751,included_game_day
+1997,227,Rhode Island,1996-12-17,94.4341742378,included_game_day
+1997,227,Rhode Island,1996-12-23,95.98112004721999,included_game_day
+1997,227,Rhode Island,1996-12-29,101.44711055728798,included_game_day
+1997,227,Rhode Island,1996-12-30,93.8904230463854,included_game_day
+1997,227,Rhode Island,1997-01-02,79.53071990022377,included_game_day
+1997,227,Rhode Island,1997-01-04,102.991360078,included_game_day
+1997,227,Rhode Island,1997-01-07,106.86733584673047,included_game_day
+1997,227,Rhode Island,1997-01-11,99.16637229843658,included_game_day
+1997,227,Rhode Island,1997-01-16,91.25752079313088,included_game_day
+1997,227,Rhode Island,1997-01-18,111.12852210817468,included_game_day
+1997,227,Rhode Island,1997-01-21,101.91555166220893,included_game_day
+1997,227,Rhode Island,1997-01-25,104.49139602117688,included_game_day
+1997,227,Rhode Island,1997-01-28,93.45051074297218,included_game_day
+1997,227,Rhode Island,1997-02-02,89.45371230449778,included_game_day
+1997,227,Rhode Island,1997-02-06,107.77587750261196,included_game_day
+1997,227,Rhode Island,1997-02-08,98.10888306057628,included_game_day
+1997,227,Rhode Island,1997-02-11,116.95436461679094,included_game_day
+1997,227,Rhode Island,1997-02-16,114.57752742261226,included_game_day
+1997,227,Rhode Island,1997-02-20,115.32688896548866,included_game_day
+1997,227,Rhode Island,1997-02-26,119.04432748108326,included_game_day
+1997,227,Rhode Island,1997-03-01,128.79764209527914,included_game_day
+1997,227,Rhode Island,1997-03-06,122.00084420109903,included_game_day
+1997,227,Rhode Island,1997-03-07,123.65299691638651,included_game_day
+1997,227,Rhode Island,1997-03-08,121.0367592763341,included_game_day
+1997,227,Rhode Island,1997-03-13,110.5496866573629,included_game_day
+1998,227,Rhode Island,1997-11-17,4.6,included_game_day
+1998,227,Rhode Island,1997-11-19,-2.24,included_game_day
+1998,227,Rhode Island,1997-11-30,23.499699999999997,included_game_day
+1998,227,Rhode Island,1997-12-03,35.2530873,included_game_day
+1998,227,Rhode Island,1997-12-09,40.91396637,included_game_day
+1998,227,Rhode Island,1997-12-13,52.180160246,included_game_day
+1998,227,Rhode Island,1997-12-22,51.363636443122104,included_game_day
+1998,227,Rhode Island,1997-12-29,57.74704084155667,included_game_day
+1998,227,Rhode Island,1997-12-30,55.69231812442914,included_game_day
+1998,227,Rhode Island,1998-01-04,67.29089882130563,included_game_day
+1998,227,Rhode Island,1998-01-06,79.78096176391138,included_game_day
+1998,227,Rhode Island,1998-01-10,72.55167584278777,included_game_day
+1998,227,Rhode Island,1998-01-13,74.94795409647804,included_game_day
+1998,227,Rhode Island,1998-01-15,86.02153013913922,included_game_day
+1998,227,Rhode Island,1998-01-17,78.58699860377378,included_game_day
+1998,227,Rhode Island,1998-01-22,74.83032361564608,included_game_day
+1998,227,Rhode Island,1998-01-25,76.66718981335246,included_game_day
+1998,227,Rhode Island,1998-01-29,59.4485609915204,included_game_day
+1998,227,Rhode Island,1998-02-01,55.334294172207315,included_game_day
+1998,227,Rhode Island,1998-02-03,64.56622035766836,included_game_day
+1998,227,Rhode Island,1998-02-07,68.87429359299709,included_game_day
+1998,227,Rhode Island,1998-02-08,64.45376709374898,included_game_day
+1998,227,Rhode Island,1998-02-10,77.97451939368406,included_game_day
+1998,227,Rhode Island,1998-02-14,73.34933032900292,included_game_day
+1998,227,Rhode Island,1998-02-18,82.03110634836321,included_game_day
+1998,227,Rhode Island,1998-02-21,74.28788219189772,included_game_day
+1998,227,Rhode Island,1998-02-24,79.15289261750101,included_game_day
+1998,227,Rhode Island,1998-02-28,78.59536963493979,included_game_day
+1998,227,Rhode Island,1998-03-05,91.25806389715437,included_game_day
+1998,227,Rhode Island,1998-03-06,81.8213117299751,included_game_day
+1998,227,Rhode Island,1998-03-13,108.55186248531152,included_game_day
+1998,227,Rhode Island,1998-03-15,126.77253427561348,included_game_day
+1998,227,Rhode Island,1998-03-20,126.75129127099937,included_game_day
+1998,227,Rhode Island,1998-03-22,127.82624180194756,included_game_day
+1999,227,Rhode Island,1998-11-09,-1.0,included_game_day
+1999,227,Rhode Island,1998-11-10,10.0,included_game_day
+1999,227,Rhode Island,1998-11-14,-13.3,included_game_day
+1999,227,Rhode Island,1998-11-19,-31.970000000000002,included_game_day
+1999,227,Rhode Island,1998-11-24,-17.774500000000003,included_game_day
+1999,227,Rhode Island,1998-11-28,-18.276828000000002,included_game_day
+1999,227,Rhode Island,1998-12-02,-6.542146200000001,included_game_day
+1999,227,Rhode Island,1998-12-05,-4.855124236000002,included_game_day
+1999,227,Rhode Island,1998-12-12,13.295928686699998,included_game_day
+1999,227,Rhode Island,1998-12-23,23.378731107737458,included_game_day
+1999,227,Rhode Island,1998-12-27,23.061408657791326,included_game_day
+1999,227,Rhode Island,1998-12-29,21.360218402250663,included_game_day
+1999,227,Rhode Island,1998-12-30,25.093276296902786,included_game_day
+1999,227,Rhode Island,1999-01-03,31.020587357021817,included_game_day
+1999,227,Rhode Island,1999-01-10,53.27783167681676,included_game_day
+1999,227,Rhode Island,1999-01-13,57.65156884087071,included_game_day
+1999,227,Rhode Island,1999-01-16,52.49061406287374,included_game_day
+1999,227,Rhode Island,1999-01-21,55.15785385221873,included_game_day
+1999,227,Rhode Island,1999-01-23,46.72747236333733,included_game_day
+1999,227,Rhode Island,1999-01-27,53.77104462385917,included_game_day
+1999,227,Rhode Island,1999-01-30,56.1390072472779,included_game_day
+1999,227,Rhode Island,1999-02-04,66.4318442382895,included_game_day
+1999,227,Rhode Island,1999-02-06,56.92507326788028,included_game_day
+1999,227,Rhode Island,1999-02-10,63.28072104871626,included_game_day
+1999,227,Rhode Island,1999-02-13,59.20360557075312,included_game_day
+1999,227,Rhode Island,1999-02-16,63.57380631479924,included_game_day
+1999,227,Rhode Island,1999-02-21,66.40995121102397,included_game_day
+1999,227,Rhode Island,1999-02-24,54.0799422519934,included_game_day
+1999,227,Rhode Island,1999-02-28,46.12666400945368,included_game_day
+1999,227,Rhode Island,1999-03-04,71.821529658741,included_game_day
+1999,227,Rhode Island,1999-03-05,89.13959699157606,included_game_day
+1999,227,Rhode Island,1999-03-06,96.21261746067057,included_game_day
+1999,227,Rhode Island,1999-03-12,85.4570914621158,included_game_day
+2000,227,Rhode Island,1999-11-21,-28.0,included_game_day
+2000,227,Rhode Island,1999-11-26,-33.7,included_game_day
+2000,227,Rhode Island,1999-11-27,-29.770000000000003,included_game_day
+2000,227,Rhode Island,1999-11-28,-23.288000000000004,included_game_day
+2000,227,Rhode Island,1999-12-01,-12.447200000000004,included_game_day
+2000,227,Rhode Island,1999-12-03,-29.63183,included_game_day
+2000,227,Rhode Island,1999-12-07,-44.22227,included_game_day
+2000,227,Rhode Island,1999-12-11,-56.7168044187,included_game_day
+2000,227,Rhode Island,1999-12-14,-45.114185599829995,included_game_day
+2000,227,Rhode Island,1999-12-18,-43.04335546984699,included_game_day
+2000,227,Rhode Island,1999-12-28,-46.433831763916196,included_game_day
+2000,227,Rhode Island,1999-12-29,-44.901992388484146,included_game_day
+2000,227,Rhode Island,2000-01-05,-75.31897097504634,included_game_day
+2000,227,Rhode Island,2000-01-09,-63.78732529248412,included_game_day
+2000,227,Rhode Island,2000-01-11,-75.1767401113453,included_game_day
+2000,227,Rhode Island,2000-01-15,-56.340613165692844,included_game_day
+2000,227,Rhode Island,2000-01-18,-41.519170184336645,included_game_day
+2000,227,Rhode Island,2000-01-22,-70.95334267132742,included_game_day
+2000,227,Rhode Island,2000-01-25,-78.94346441309419,included_game_day
+2000,227,Rhode Island,2000-01-29,-103.34653635852155,included_game_day
+2000,227,Rhode Island,2000-02-01,-116.19883976564189,included_game_day
+2000,227,Rhode Island,2000-02-05,-125.0083489057595,included_game_day
+2000,227,Rhode Island,2000-02-08,-129.80107913461842,included_game_day
+2000,227,Rhode Island,2000-02-12,-121.71198520500464,included_game_day
+2000,227,Rhode Island,2000-02-16,-117.78684468265578,included_game_day
+2000,227,Rhode Island,2000-02-19,-118.63952585973878,included_game_day
+2000,227,Rhode Island,2000-02-22,-123.29148887937751,included_game_day
+2000,227,Rhode Island,2000-02-26,-127.81543318650344,included_game_day
+2000,227,Rhode Island,2000-03-04,-125.79130433802406,included_game_day
+2000,227,Rhode Island,2000-03-08,-120.25350334121691,included_game_day
+2001,227,Rhode Island,2000-11-18,20.7,included_game_day
+2001,227,Rhode Island,2000-11-20,13.68,included_game_day
+2001,227,Rhode Island,2000-11-22,2.3119999999999994,included_game_day
+2001,227,Rhode Island,2000-11-25,-17.1372,included_game_day
+2001,227,Rhode Island,2000-12-02,-35.54840059,included_game_day
+2001,227,Rhode Island,2000-12-06,-46.188550258999996,included_game_day
+2001,227,Rhode Island,2000-12-09,-50.290539220099994,included_game_day
+2001,227,Rhode Island,2000-12-11,-45.943037360089996,included_game_day
+2001,227,Rhode Island,2000-12-16,-35.735534884081,included_game_day
+2001,227,Rhode Island,2000-12-26,-32.6741381892208,included_game_day
+2001,227,Rhode Island,2000-12-28,-26.225148676173127,included_game_day
+2001,227,Rhode Island,2000-12-30,-37.23959546009795,included_game_day
+2001,227,Rhode Island,2001-01-06,-55.99765038470868,included_game_day
+2001,227,Rhode Island,2001-01-10,-63.93272566528305,included_game_day
+2001,227,Rhode Island,2001-01-13,-72.76338828651178,included_game_day
+2001,227,Rhode Island,2001-01-17,-72.02136263660235,included_game_day
+2001,227,Rhode Island,2001-01-21,-95.34641587204366,included_game_day
+2001,227,Rhode Island,2001-01-24,-88.80666463452786,included_game_day
+2001,227,Rhode Island,2001-01-27,-81.82361161632573,included_game_day
+2001,227,Rhode Island,2001-01-30,-105.2560215493484,included_game_day
+2001,227,Rhode Island,2001-02-04,-114.26735599572737,included_game_day
+2001,227,Rhode Island,2001-02-06,-118.45241936441153,included_game_day
+2001,227,Rhode Island,2001-02-10,-113.1833719324183,included_game_day
+2001,227,Rhode Island,2001-02-14,-133.47142453752895,included_game_day
+2001,227,Rhode Island,2001-02-17,-122.28532642132126,included_game_day
+2001,227,Rhode Island,2001-02-20,-118.2192452280616,included_game_day
+2001,227,Rhode Island,2001-02-28,-105.52892997500336,included_game_day
+2001,227,Rhode Island,2001-03-03,-91.9809101786271,included_game_day
+2001,227,Rhode Island,2001-03-07,-103.27090035946942,included_game_day
+2002,227,Rhode Island Rams,2001-11-20,-18.0,included_game_day
+2002,227,Rhode Island Rams,2001-11-24,-15.14,included_game_day
+2002,227,Rhode Island Rams,2001-11-27,-11.446000000000002,included_game_day
+2002,227,Rhode Island Rams,2001-11-29,-10.698900000000002,included_game_day
+2002,227,Rhode Island Rams,2001-12-04,-31.797713,included_game_day
+2002,227,Rhode Island Rams,2001-12-08,-44.1699293,included_game_day
+2002,227,Rhode Island Rams,2001-12-11,-44.10784428682,included_game_day
+2002,227,Rhode Island Rams,2001-12-15,-31.961066274538,included_game_day
+2002,227,Rhode Island Rams,2001-12-22,-33.823146616758216,included_game_day
+2002,227,Rhode Island Rams,2001-12-28,-39.431183659926575,included_game_day
+2002,227,Rhode Island Rams,2002-01-06,-50.302241689629355,included_game_day
+2002,227,Rhode Island Rams,2002-01-09,-56.43530740189987,included_game_day
+2002,227,Rhode Island Rams,2002-01-12,-62.896842892815066,included_game_day
+2002,227,Rhode Island Rams,2002-01-20,-76.64044563938882,included_game_day
+2002,227,Rhode Island Rams,2002-01-23,-80.9028249053832,included_game_day
+2002,227,Rhode Island Rams,2002-01-26,-57.789487343408126,included_game_day
+2002,227,Rhode Island Rams,2002-01-31,-56.31086519216953,included_game_day
+2002,227,Rhode Island Rams,2002-02-02,-42.144919121477656,included_game_day
+2002,227,Rhode Island Rams,2002-02-06,-67.89041638362522,included_game_day
+2002,227,Rhode Island Rams,2002-02-09,-69.58840907285524,included_game_day
+2002,227,Rhode Island Rams,2002-02-16,-59.07774320740027,included_game_day
+2002,227,Rhode Island Rams,2002-02-20,-54.450135840310544,included_game_day
+2002,227,Rhode Island Rams,2002-02-23,-58.718315835648134,included_game_day
+2002,227,Rhode Island Rams,2002-02-27,-60.14177219777723,included_game_day
+2002,227,Rhode Island Rams,2002-03-02,-46.14869178612754,included_game_day
+2002,227,Rhode Island Rams,2002-03-06,-47.54346356824208,included_game_day
+2003,227,Rhode Island Rams,2002-11-22,16.0,included_game_day
+2003,227,Rhode Island Rams,2002-11-26,14.5,included_game_day
+2003,227,Rhode Island Rams,2002-11-30,9.151,included_game_day
+2003,227,Rhode Island Rams,2002-12-04,-13.6161,included_game_day
+2003,227,Rhode Island Rams,2002-12-07,-3.451810179999999,included_game_day
+2003,227,Rhode Island Rams,2002-12-09,8.665593838000001,included_game_day
+2003,227,Rhode Island Rams,2002-12-14,7.166905703200001,included_game_day
+2003,227,Rhode Island Rams,2002-12-21,-0.18191660711999802,included_game_day
+2003,227,Rhode Island Rams,2002-12-23,6.7198229635920015,included_game_day
+2003,227,Rhode Island Rams,2002-12-31,17.9110285017098,included_game_day
+2003,227,Rhode Island Rams,2003-01-05,15.16099422738494,included_game_day
+2003,227,Rhode Island Rams,2003-01-08,28.872419419588887,included_game_day
+2003,227,Rhode Island Rams,2003-01-11,27.60043729835161,included_game_day
+2003,227,Rhode Island Rams,2003-01-15,34.440317036507054,included_game_day
+2003,227,Rhode Island Rams,2003-01-19,39.47519333221358,included_game_day
+2003,227,Rhode Island Rams,2003-01-22,28.62888735908579,included_game_day
+2003,227,Rhode Island Rams,2003-01-29,26.74114018030918,included_game_day
+2003,227,Rhode Island Rams,2003-02-01,22.390135871469397,included_game_day
+2003,227,Rhode Island Rams,2003-02-05,23.64815908265557,included_game_day
+2003,227,Rhode Island Rams,2003-02-08,23.136793533684553,included_game_day
+2003,227,Rhode Island Rams,2003-02-12,30.914924977024516,included_game_day
+2003,227,Rhode Island Rams,2003-02-15,21.404561230222562,included_game_day
+2003,227,Rhode Island Rams,2003-02-19,21.944927836764354,included_game_day
+2003,227,Rhode Island Rams,2003-02-22,24.442270045350956,included_game_day
+2003,227,Rhode Island Rams,2003-02-26,16.576278327596665,included_game_day
+2003,227,Rhode Island Rams,2003-03-02,13.68637787624034,included_game_day
+2003,227,Rhode Island Rams,2003-03-08,16.123022983168568,included_game_day
+2003,227,Rhode Island Rams,2003-03-10,9.072339068711152,included_game_day
+2003,227,Rhode Island Rams,2003-03-13,2.285317472218507,included_game_day
+2003,227,Rhode Island Rams,2003-03-19,6.784018333604653,included_game_day
+2003,227,Rhode Island Rams,2003-03-25,4.083867913885687,included_game_day
+2004,227,Rhode Island Rams,2003-11-21,9.0,included_game_day
+2004,227,Rhode Island Rams,2003-11-25,13.55,included_game_day
+2004,227,Rhode Island Rams,2003-11-26,38.034000000000006,included_game_day
+2004,227,Rhode Island Rams,2003-11-30,33.037600000000005,included_game_day
+2004,227,Rhode Island Rams,2003-12-03,32.437340000000006,included_game_day
+2004,227,Rhode Island Rams,2003-12-06,39.50215600000001,included_game_day
+2004,227,Rhode Island Rams,2003-12-14,51.529151500000005,included_game_day
+2004,227,Rhode Island Rams,2003-12-21,69.976697547,included_game_day
+2004,227,Rhode Island Rams,2003-12-23,72.9306597125,included_game_day
+2004,227,Rhode Island Rams,2003-12-28,69.04433865188,included_game_day
+2004,227,Rhode Island Rams,2003-12-30,96.09109159353599,included_game_day
+2004,227,Rhode Island Rams,2004-01-01,86.64459660677518,included_game_day
+2004,227,Rhode Island Rams,2004-01-04,83.4444419988074,included_game_day
+2004,227,Rhode Island Rams,2004-01-07,83.76198874922565,included_game_day
+2004,227,Rhode Island Rams,2004-01-11,64.68189457008376,included_game_day
+2004,227,Rhode Island Rams,2004-01-14,56.364310409379044,included_game_day
+2004,227,Rhode Island Rams,2004-01-17,47.51830785118838,included_game_day
+2004,227,Rhode Island Rams,2004-01-21,26.327917167578015,included_game_day
+2004,227,Rhode Island Rams,2004-01-24,38.63010398326223,included_game_day
+2004,227,Rhode Island Rams,2004-01-31,23.139638737730667,included_game_day
+2004,227,Rhode Island Rams,2004-02-04,25.901798384252885,included_game_day
+2004,227,Rhode Island Rams,2004-02-07,22.897884972232973,included_game_day
+2004,227,Rhode Island Rams,2004-02-11,4.77064849209032,included_game_day
+2004,227,Rhode Island Rams,2004-02-14,11.555728703704531,included_game_day
+2004,227,Rhode Island Rams,2004-02-18,18.087421885118392,included_game_day
+2004,227,Rhode Island Rams,2004-02-22,27.897309549307522,included_game_day
+2004,227,Rhode Island Rams,2004-02-25,32.058786685394374,included_game_day
+2004,227,Rhode Island Rams,2004-02-28,42.22660283592842,included_game_day
+2004,227,Rhode Island Rams,2004-03-03,49.30898393625711,included_game_day
+2004,227,Rhode Island Rams,2004-03-10,50.285597891717316,included_game_day
+2004,227,Rhode Island Rams,2004-03-11,26.818392062736287,included_game_day
+2004,227,Rhode Island Rams,2004-03-17,55.6481590218274,included_game_day
+2004,227,Rhode Island Rams,2004-03-19,50.57154039530099,included_game_day
+2005,227,Rhode Island Rams,2004-11-19,4.89,included_game_day
+2005,227,Rhode Island Rams,2004-11-23,-1.5990000000000002,included_game_day
+2005,227,Rhode Island Rams,2004-11-26,-8.8291,included_game_day
+2005,227,Rhode Island Rams,2004-11-28,-21.84619,included_game_day
+2005,227,Rhode Island Rams,2004-11-30,-25.572571,included_game_day
+2005,227,Rhode Island Rams,2004-12-04,-25.71929865,included_game_day
+2005,227,Rhode Island Rams,2004-12-08,-19.321209043,included_game_day
+2005,227,Rhode Island Rams,2004-12-11,-29.5490901648,included_game_day
+2005,227,Rhode Island Rams,2004-12-27,-39.5583630652969,included_game_day
+2005,227,Rhode Island Rams,2004-12-30,-38.12379162385511,included_game_day
+2005,227,Rhode Island Rams,2005-01-02,-34.416911098440146,included_game_day
+2005,227,Rhode Island Rams,2005-01-05,-41.71344780063611,included_game_day
+2005,227,Rhode Island Rams,2005-01-08,-42.87387262898952,included_game_day
+2005,227,Rhode Island Rams,2005-01-15,-47.510878416082285,included_game_day
+2005,227,Rhode Island Rams,2005-01-19,-39.71324344549258,included_game_day
+2005,227,Rhode Island Rams,2005-01-22,-56.68111883687822,included_game_day
+2005,227,Rhode Island Rams,2005-01-27,-59.480806949516484,included_game_day
+2005,227,Rhode Island Rams,2005-02-02,-64.0615300221317,included_game_day
+2005,227,Rhode Island Rams,2005-02-05,-65.61198030013412,included_game_day
+2005,227,Rhode Island Rams,2005-02-09,-69.72968080291177,included_game_day
+2005,227,Rhode Island Rams,2005-02-12,-80.77039113068791,included_game_day
+2005,227,Rhode Island Rams,2005-02-15,-91.39052624085662,included_game_day
+2005,227,Rhode Island Rams,2005-02-20,-82.3252084584416,included_game_day
+2005,227,Rhode Island Rams,2005-02-26,-64.30616838449907,included_game_day
+2005,227,Rhode Island Rams,2005-03-02,-48.54188340761664,included_game_day
+2005,227,Rhode Island Rams,2005-03-05,-68.43580517503602,included_game_day
+2005,227,Rhode Island Rams,2005-03-09,-68.39710550567271,included_game_day
+2006,227,Rhode Island Rams,2005-11-19,3.0,included_game_day
+2006,227,Rhode Island Rams,2005-11-22,-9.1,included_game_day
+2006,227,Rhode Island Rams,2005-11-26,6.325000000000001,included_game_day
+2006,227,Rhode Island Rams,2005-11-29,16.5425,included_game_day
+2006,227,Rhode Island Rams,2005-12-03,22.425983600000002,included_game_day
+2006,227,Rhode Island Rams,2005-12-06,24.851738340000004,included_game_day
+2006,227,Rhode Island Rams,2005-12-10,15.591291036000005,included_game_day
+2006,227,Rhode Island Rams,2005-12-17,12.298451711300004,included_game_day
+2006,227,Rhode Island Rams,2005-12-22,22.678635086184244,included_game_day
+2006,227,Rhode Island Rams,2005-12-27,0.11737428054128074,included_game_day
+2006,227,Rhode Island Rams,2005-12-31,-16.463906068605837,included_game_day
+2006,227,Rhode Island Rams,2006-01-04,-17.432792610167944,included_game_day
+2006,227,Rhode Island Rams,2006-01-07,-14.338819378559378,included_game_day
+2006,227,Rhode Island Rams,2006-01-14,-9.196273859449914,included_game_day
+2006,227,Rhode Island Rams,2006-01-18,-0.07674695119170849,included_game_day
+2006,227,Rhode Island Rams,2006-01-21,8.814031448877138,included_game_day
+2006,227,Rhode Island Rams,2006-01-25,14.578368336033682,included_game_day
+2006,227,Rhode Island Rams,2006-01-28,6.886485579476913,included_game_day
+2006,227,Rhode Island Rams,2006-02-01,-1.0037457631393298,included_game_day
+2006,227,Rhode Island Rams,2006-02-04,2.469853196852978,included_game_day
+2006,227,Rhode Island Rams,2006-02-08,-0.657984422344497,included_game_day
+2006,227,Rhode Island Rams,2006-02-12,1.4207789797382002,included_game_day
+2006,227,Rhode Island Rams,2006-02-18,0.9439716960860522,included_game_day
+2006,227,Rhode Island Rams,2006-02-22,-3.052831668072228,included_game_day
+2006,227,Rhode Island Rams,2006-02-25,-8.238995806381805,included_game_day
+2006,227,Rhode Island Rams,2006-03-01,4.175937461408125,included_game_day
+2006,227,Rhode Island Rams,2006-03-04,17.996946976586564,included_game_day
+2006,227,Rhode Island Rams,2006-03-08,-11.082689045853147,included_game_day
+2007,227,Rhode Island Rams,2006-11-13,-6.0,included_game_day
+2007,227,Rhode Island Rams,2006-11-17,-8.4,included_game_day
+2007,227,Rhode Island Rams,2006-11-19,6.8553,included_game_day
+2007,227,Rhode Island Rams,2006-11-25,-7.966550000000002,included_game_day
+2007,227,Rhode Island Rams,2006-11-28,11.454995,included_game_day
+2007,227,Rhode Island Rams,2006-12-02,-10.5688247,included_game_day
+2007,227,Rhode Island Rams,2006-12-05,-11.527284907,included_game_day
+2007,227,Rhode Island Rams,2006-12-09,-10.3733677988,included_game_day
+2007,227,Rhode Island Rams,2006-12-16,-15.49381562145069,included_game_day
+2007,227,Rhode Island Rams,2006-12-22,-2.8662339773056207,included_game_day
+2007,227,Rhode Island Rams,2006-12-27,-26.152412500803003,included_game_day
+2007,227,Rhode Island Rams,2006-12-30,-17.96874631396231,included_game_day
+2007,227,Rhode Island Rams,2007-01-03,-19.152626406211645,included_game_day
+2007,227,Rhode Island Rams,2007-01-07,-19.18719158689854,included_game_day
+2007,227,Rhode Island Rams,2007-01-10,-19.060575577428644,included_game_day
+2007,227,Rhode Island Rams,2007-01-13,-3.6358839086582773,included_game_day
+2007,227,Rhode Island Rams,2007-01-17,-2.6862602009586904,included_game_day
+2007,227,Rhode Island Rams,2007-01-20,8.946822812987088,included_game_day
+2007,227,Rhode Island Rams,2007-01-24,13.897264374186935,included_game_day
+2007,227,Rhode Island Rams,2007-01-27,12.427147612464054,included_game_day
+2007,227,Rhode Island Rams,2007-02-03,16.611885213952753,included_game_day
+2007,227,Rhode Island Rams,2007-02-08,1.3053107425850925,included_game_day
+2007,227,Rhode Island Rams,2007-02-11,26.72389000909112,included_game_day
+2007,227,Rhode Island Rams,2007-02-14,40.35111174005048,included_game_day
+2007,227,Rhode Island Rams,2007-02-17,50.498758777253876,included_game_day
+2007,227,Rhode Island Rams,2007-02-21,35.40702712153502,included_game_day
+2007,227,Rhode Island Rams,2007-02-24,18.1518323753166,included_game_day
+2007,227,Rhode Island Rams,2007-03-03,10.22273019198959,included_game_day
+2007,227,Rhode Island Rams,2007-03-08,11.891765166109362,included_game_day
+2007,227,Rhode Island Rams,2007-03-09,35.56004127498716,included_game_day
+2007,227,Rhode Island Rams,2007-03-10,31.809472490743403,included_game_day
+2008,227,Rhode Island Rams,2007-11-09,27.0,included_game_day
+2008,227,Rhode Island Rams,2007-11-14,42.32,included_game_day
+2008,227,Rhode Island Rams,2007-11-16,43.902,included_game_day
+2008,227,Rhode Island Rams,2007-11-17,50.549800000000005,included_game_day
+2008,227,Rhode Island Rams,2007-11-18,54.66702000000001,included_game_day
+2008,227,Rhode Island Rams,2007-11-21,50.07681800000001,included_game_day
+2008,227,Rhode Island Rams,2007-11-24,64.58353620000001,included_game_day
+2008,227,Rhode Island Rams,2007-11-28,77.50570158000001,included_game_day
+2008,227,Rhode Island Rams,2007-12-01,77.77590662200001,included_game_day
+2008,227,Rhode Island Rams,2007-12-04,90.17437038380001,included_game_day
+2008,227,Rhode Island Rams,2007-12-08,89.25607418732001,included_game_day
+2008,227,Rhode Island Rams,2007-12-22,94.64141183062377,included_game_day
+2008,227,Rhode Island Rams,2007-12-28,103.06566279126217,included_game_day
+2008,227,Rhode Island Rams,2007-12-29,100.41693489151412,included_game_day
+2008,227,Rhode Island Rams,2008-01-02,115.40210608601662,included_game_day
+2008,227,Rhode Island Rams,2008-01-09,106.78553652487518,included_game_day
+2008,227,Rhode Island Rams,2008-01-13,105.25178881939715,included_game_day
+2008,227,Rhode Island Rams,2008-01-17,87.02536965152737,included_game_day
+2008,227,Rhode Island Rams,2008-01-23,83.61465176786811,included_game_day
+2008,227,Rhode Island Rams,2008-01-26,86.91340007714624,included_game_day
+2008,227,Rhode Island Rams,2008-01-30,90.28074528002013,included_game_day
+2008,227,Rhode Island Rams,2008-02-02,96.27192295844844,included_game_day
+2008,227,Rhode Island Rams,2008-02-07,94.03701110986498,included_game_day
+2008,227,Rhode Island Rams,2008-02-10,88.7352575711267,included_game_day
+2008,227,Rhode Island Rams,2008-02-13,85.65605781309907,included_game_day
+2008,227,Rhode Island Rams,2008-02-18,83.23484665910328,included_game_day
+2008,227,Rhode Island Rams,2008-02-21,70.06807785066026,included_game_day
+2008,227,Rhode Island Rams,2008-02-24,60.890327965267964,included_game_day
+2008,227,Rhode Island Rams,2008-02-27,37.588072095065854,included_game_day
+2008,227,Rhode Island Rams,2008-03-01,46.955434402077714,included_game_day
+2008,227,Rhode Island Rams,2008-03-08,35.00632760458579,included_game_day
+2008,227,Rhode Island Rams,2008-03-12,36.447042166592254,included_game_day
+2008,227,Rhode Island Rams,2008-03-18,37.31952425906968,included_game_day
+2009,227,Rhode Island Rams,2008-11-14,-1.0,included_game_day
+2009,227,Rhode Island Rams,2008-11-16,5.640000000000001,included_game_day
+2009,227,Rhode Island Rams,2008-11-20,29.476,included_game_day
+2009,227,Rhode Island Rams,2008-11-22,32.5184,included_game_day
+2009,227,Rhode Island Rams,2008-11-25,43.51046,included_game_day
+2009,227,Rhode Island Rams,2008-11-28,50.837328,included_game_day
+2009,227,Rhode Island Rams,2008-11-29,40.5232066,included_game_day
+2009,227,Rhode Island Rams,2008-12-03,50.96668294,included_game_day
+2009,227,Rhode Island Rams,2008-12-06,51.8717325513,included_game_day
+2009,227,Rhode Island Rams,2008-12-09,73.61309487834001,included_game_day
+2009,227,Rhode Island Rams,2008-12-13,71.394989783146,included_game_day
+2009,227,Rhode Island Rams,2008-12-20,66.5081262570264,included_game_day
+2009,227,Rhode Island Rams,2008-12-30,64.77752486772826,included_game_day
+2009,227,Rhode Island Rams,2009-01-03,89.94098726722514,included_game_day
+2009,227,Rhode Island Rams,2009-01-06,86.56330389264548,included_game_day
+2009,227,Rhode Island Rams,2009-01-10,77.03758348808199,included_game_day
+2009,227,Rhode Island Rams,2009-01-15,74.72578592560478,included_game_day
+2009,227,Rhode Island Rams,2009-01-18,88.04263439815387,included_game_day
+2009,227,Rhode Island Rams,2009-01-21,81.79706191551148,included_game_day
+2009,227,Rhode Island Rams,2009-01-25,78.99725239338925,included_game_day
+2009,227,Rhode Island Rams,2009-01-28,85.7105043967845,included_game_day
+2009,227,Rhode Island Rams,2009-01-31,86.84622361612115,included_game_day
+2009,227,Rhode Island Rams,2009-02-05,86.91541677566393,included_game_day
+2009,227,Rhode Island Rams,2009-02-08,83.90433888606636,included_game_day
+2009,227,Rhode Island Rams,2009-02-11,78.11946523623811,included_game_day
+2009,227,Rhode Island Rams,2009-02-14,79.05551624275095,included_game_day
+2009,227,Rhode Island Rams,2009-02-18,87.63688451684745,included_game_day
+2009,227,Rhode Island Rams,2009-02-21,86.48067328929241,included_game_day
+2009,227,Rhode Island Rams,2009-02-25,81.62609668959858,included_game_day
+2009,227,Rhode Island Rams,2009-03-01,85.53963502825033,included_game_day
+2009,227,Rhode Island Rams,2009-03-07,73.80828776617179,included_game_day
+2009,227,Rhode Island Rams,2009-03-12,68.13479076280956,included_game_day
+2009,227,Rhode Island Rams,2009-03-17,79.21972753345261,included_game_day
+2009,227,Rhode Island Rams,2009-03-19,66.8953742821621,included_game_day
+2010,227,Rhode Island Rams,2009-11-18,23.53,included_game_day
+2010,227,Rhode Island Rams,2009-11-22,33.532,included_game_day
+2010,227,Rhode Island Rams,2009-11-24,48.7088,included_game_day
+2010,227,Rhode Island Rams,2009-11-28,54.114031999999995,included_game_day
+2010,227,Rhode Island Rams,2009-12-02,53.157686299999995,included_game_day
+2010,227,Rhode Island Rams,2009-12-05,54.597617912,included_game_day
+2010,227,Rhode Island Rams,2009-12-08,57.3490980199,included_game_day
+2010,227,Rhode Island Rams,2009-12-10,51.35789987581,included_game_day
+2010,227,Rhode Island Rams,2009-12-13,64.485418872649,included_game_day
+2010,227,Rhode Island Rams,2009-12-20,64.7765694120842,included_game_day
+2010,227,Rhode Island Rams,2009-12-29,60.86423711881863,included_game_day
+2010,227,Rhode Island Rams,2010-01-02,67.23335409474493,included_game_day
+2010,227,Rhode Island Rams,2010-01-05,73.75605805328563,included_game_day
+2010,227,Rhode Island Rams,2010-01-10,67.55569215503412,included_game_day
+2010,227,Rhode Island Rams,2010-01-13,80.46232638979546,included_game_day
+2010,227,Rhode Island Rams,2010-01-16,84.13086467205227,included_game_day
+2010,227,Rhode Island Rams,2010-01-20,81.40381039582705,included_game_day
+2010,227,Rhode Island Rams,2010-01-23,73.96818650995806,included_game_day
+2010,227,Rhode Island Rams,2010-01-26,77.62433286624805,included_game_day
+2010,227,Rhode Island Rams,2010-01-30,74.9456762500402,included_game_day
+2010,227,Rhode Island Rams,2010-02-02,78.80412032114666,included_game_day
+2010,227,Rhode Island Rams,2010-02-06,74.27822436663365,included_game_day
+2010,227,Rhode Island Rams,2010-02-10,70.50432472630456,included_game_day
+2010,227,Rhode Island Rams,2010-02-13,51.296313064453074,included_game_day
+2010,227,Rhode Island Rams,2010-02-17,47.723899804300764,included_game_day
+2010,227,Rhode Island Rams,2010-02-20,52.90933600282618,included_game_day
+2010,227,Rhode Island Rams,2010-02-27,41.57816175242466,included_game_day
+2010,227,Rhode Island Rams,2010-03-03,60.80382208786236,included_game_day
+2010,227,Rhode Island Rams,2010-03-06,52.17590661898479,included_game_day
+2010,227,Rhode Island Rams,2010-03-09,51.57227553717151,included_game_day
+2010,227,Rhode Island Rams,2010-03-12,69.27869085314886,included_game_day
+2010,227,Rhode Island Rams,2010-03-13,60.95069781081345,included_game_day
+2010,227,Rhode Island Rams,2010-03-17,68.51449178827582,included_game_day
+2010,227,Rhode Island Rams,2010-03-22,67.04582123263559,included_game_day
+2010,227,Rhode Island Rams,2010-03-24,81.81115061851824,included_game_day
+2010,227,Rhode Island Rams,2010-03-30,80.74884038935917,included_game_day
+2011,227,Rhode Island Rams,2010-11-08,-5.0,included_game_day
+2011,227,Rhode Island Rams,2010-11-16,18.2,included_game_day
+2011,227,Rhode Island Rams,2010-11-19,28.1326,included_game_day
+2011,227,Rhode Island Rams,2010-11-20,32.52444,included_game_day
+2011,227,Rhode Island Rams,2010-11-21,19.308439999999997,included_game_day
+2011,227,Rhode Island Rams,2010-11-24,23.323596,included_game_day
+2011,227,Rhode Island Rams,2010-11-27,31.940376399999998,included_game_day
+2011,227,Rhode Island Rams,2010-12-04,24.377122809999996,included_game_day
+2011,227,Rhode Island Rams,2010-12-08,36.128046900399994,included_game_day
+2011,227,Rhode Island Rams,2010-12-11,29.710920212953994,included_game_day
+2011,227,Rhode Island Rams,2010-12-18,34.0619822472586,included_game_day
+2011,227,Rhode Island Rams,2010-12-22,31.798082286034997,included_game_day
+2011,227,Rhode Island Rams,2010-12-29,34.25217473276286,included_game_day
+2011,227,Rhode Island Rams,2011-01-03,15.68082995538996,included_game_day
+2011,227,Rhode Island Rams,2011-01-09,-14.492357281160857,included_game_day
+2011,227,Rhode Island Rams,2011-01-13,2.392347599601621,included_game_day
+2011,227,Rhode Island Rams,2011-01-16,-0.7720379499709447,included_game_day
+2011,227,Rhode Island Rams,2011-01-19,4.222434238771369,included_game_day
+2011,227,Rhode Island Rams,2011-01-22,-2.917208625746908,included_game_day
+2011,227,Rhode Island Rams,2011-01-26,2.919818942518604,included_game_day
+2011,227,Rhode Island Rams,2011-01-30,-4.773027114057088,included_game_day
+2011,227,Rhode Island Rams,2011-02-02,3.6619466547945283,included_game_day
+2011,227,Rhode Island Rams,2011-02-05,1.7892492876462303,included_game_day
+2011,227,Rhode Island Rams,2011-02-09,16.309153444934907,included_game_day
+2011,227,Rhode Island Rams,2011-02-12,10.808611052601092,included_game_day
+2011,227,Rhode Island Rams,2011-02-19,-2.4675633302781446,included_game_day
+2011,227,Rhode Island Rams,2011-02-23,12.544309379017694,included_game_day
+2011,227,Rhode Island Rams,2011-02-26,37.771916433069286,included_game_day
+2011,227,Rhode Island Rams,2011-03-02,20.781352350376523,included_game_day
+2011,227,Rhode Island Rams,2011-03-05,16.751851910709235,included_game_day
+2011,227,Rhode Island Rams,2011-03-08,25.489315729531263,included_game_day
+2011,227,Rhode Island Rams,2011-03-11,21.419314851969432,included_game_day
+2011,227,Rhode Island Rams,2011-03-16,32.599166033141984,included_game_day
+2011,227,Rhode Island Rams,2011-03-21,22.70953939148054,included_game_day
+2012,227,Rhode Island Rams,2011-11-11,1.0,included_game_day
+2012,227,Rhode Island Rams,2011-11-15,-2.91,included_game_day
+2012,227,Rhode Island Rams,2011-11-20,-17.719,included_game_day
+2012,227,Rhode Island Rams,2011-11-25,-6.702260000000001,included_game_day
+2012,227,Rhode Island Rams,2011-11-26,-18.627548,included_game_day
+2012,227,Rhode Island Rams,2011-11-27,-41.11422,included_game_day
+2012,227,Rhode Island Rams,2011-11-30,-47.280381500000004,included_game_day
+2012,227,Rhode Island Rams,2011-12-04,-48.311380050000004,included_game_day
+2012,227,Rhode Island Rams,2011-12-07,-53.550688699960006,included_game_day
+2012,227,Rhode Island Rams,2011-12-10,-69.366422042764,included_game_day
+2012,227,Rhode Island Rams,2011-12-18,-65.8398777139676,included_game_day
+2012,227,Rhode Island Rams,2011-12-23,-77.75894606765708,included_game_day
+2012,227,Rhode Island Rams,2011-12-29,-50.344888781065706,included_game_day
+2012,227,Rhode Island Rams,2011-12-30,-51.575211823300705,included_game_day
+2012,227,Rhode Island Rams,2012-01-02,-41.704189958152696,included_game_day
+2012,227,Rhode Island Rams,2012-01-07,-55.04126678727624,included_game_day
+2012,227,Rhode Island Rams,2012-01-11,-57.86420268965261,included_game_day
+2012,227,Rhode Island Rams,2012-01-14,-58.80971792343256,included_game_day
+2012,227,Rhode Island Rams,2012-01-18,-54.12753476924406,included_game_day
+2012,227,Rhode Island Rams,2012-01-21,-51.3146915812349,included_game_day
+2012,227,Rhode Island Rams,2012-01-25,-48.25874787271325,included_game_day
+2012,227,Rhode Island Rams,2012-01-28,-29.09267546578156,included_game_day
+2012,227,Rhode Island Rams,2012-02-01,-17.9206084177508,included_game_day
+2012,227,Rhode Island Rams,2012-02-04,-26.58155074788566,included_game_day
+2012,227,Rhode Island Rams,2012-02-08,-32.56064461841976,included_game_day
+2012,227,Rhode Island Rams,2012-02-11,-33.74231024717532,included_game_day
+2012,227,Rhode Island Rams,2012-02-15,-37.70294155434449,included_game_day
+2012,227,Rhode Island Rams,2012-02-18,-44.41643883994638,included_game_day
+2012,227,Rhode Island Rams,2012-02-25,-28.12964825578353,included_game_day
+2012,227,Rhode Island Rams,2012-02-29,-14.98977367095626,included_game_day
+2012,227,Rhode Island Rams,2012-03-03,-11.97832156513125,included_game_day
+2013,227,Rhode Island Rams,2012-11-09,-15.0,included_game_day
+2013,227,Rhode Island Rams,2012-11-12,-28.0,included_game_day
+2013,227,Rhode Island Rams,2012-11-17,-34.3,included_game_day
+2013,227,Rhode Island Rams,2012-11-18,-32.643299999999996,included_game_day
+2013,227,Rhode Island Rams,2012-11-23,-33.418929999999996,included_game_day
+2013,227,Rhode Island Rams,2012-11-25,-22.372546999999997,included_game_day
+2013,227,Rhode Island Rams,2012-11-28,-24.673814299999997,included_game_day
+2013,227,Rhode Island Rams,2012-12-01,-13.163365869999996,included_game_day
+2013,227,Rhode Island Rams,2012-12-06,-19.889462806999997,included_game_day
+2013,227,Rhode Island Rams,2012-12-15,4.8159031558000045,included_game_day
+2013,227,Rhode Island Rams,2012-12-22,2.8298650265930014,included_game_day
+2013,227,Rhode Island Rams,2012-12-27,-8.78612626441376,included_game_day
+2013,227,Rhode Island Rams,2013-01-04,-2.5905942460447315,included_game_day
+2013,227,Rhode Island Rams,2013-01-09,1.9368953446746904,included_game_day
+2013,227,Rhode Island Rams,2013-01-12,-4.2791900233489235,included_game_day
+2013,227,Rhode Island Rams,2013-01-19,7.968311480599282,included_game_day
+2013,227,Rhode Island Rams,2013-01-23,6.200356108531151,included_game_day
+2013,227,Rhode Island Rams,2013-01-26,-2.480617342556684,included_game_day
+2013,227,Rhode Island Rams,2013-01-30,0.18064361799207873,included_game_day
+2013,227,Rhode Island Rams,2013-02-02,3.964065574243124,included_game_day
+2013,227,Rhode Island Rams,2013-02-06,-18.66279970957597,included_game_day
+2013,227,Rhode Island Rams,2013-02-09,-24.757088902513146,included_game_day
+2013,227,Rhode Island Rams,2013-02-13,-17.379712870413027,included_game_day
+2013,227,Rhode Island Rams,2013-02-16,-12.857596164456556,included_game_day
+2013,227,Rhode Island Rams,2013-02-20,-24.27583306489878,included_game_day
+2013,227,Rhode Island Rams,2013-02-24,-22.927451787842543,included_game_day
+2013,227,Rhode Island Rams,2013-03-02,-16.44002469892468,included_game_day
+2013,227,Rhode Island Rams,2013-03-06,-44.52409232275021,included_game_day
+2013,227,Rhode Island Rams,2013-03-09,-47.739827459836256,included_game_day
+2014,227,Rhode Island Rams,2013-11-08,17.0,included_game_day
+2014,227,Rhode Island Rams,2013-11-11,-11.899999999999999,included_game_day
+2014,227,Rhode Island Rams,2013-11-15,-1.0599999999999987,included_game_day
+2014,227,Rhode Island Rams,2013-11-19,-17.071939999999998,included_game_day
+2014,227,Rhode Island Rams,2013-11-23,-13.601125999999997,included_game_day
+2014,227,Rhode Island Rams,2013-11-25,-2.4685333999999983,included_game_day
+2014,227,Rhode Island Rams,2013-11-26,-10.135692059999998,included_game_day
+2014,227,Rhode Island Rams,2013-11-30,-12.763083553999998,included_game_day
+2014,227,Rhode Island Rams,2013-12-05,-11.706460445299998,included_game_day
+2014,227,Rhode Island Rams,2013-12-08,-10.96345743377,included_game_day
+2014,227,Rhode Island Rams,2013-12-22,-2.302987528755928,included_game_day
+2014,227,Rhode Island Rams,2013-12-28,-14.476786447724798,included_game_day
+2014,227,Rhode Island Rams,2014-01-02,0.838253291672526,included_game_day
+2014,227,Rhode Island Rams,2014-01-04,16.27984272687104,included_game_day
+2014,227,Rhode Island Rams,2014-01-07,20.152793024909585,included_game_day
+2014,227,Rhode Island Rams,2014-01-11,14.015506080557056,included_game_day
+2014,227,Rhode Island Rams,2014-01-15,10.729441769852524,included_game_day
+2014,227,Rhode Island Rams,2014-01-18,8.209601469893046,included_game_day
+2014,227,Rhode Island Rams,2014-01-22,11.637205791893749,included_game_day
+2014,227,Rhode Island Rams,2014-01-25,25.399367078788863,included_game_day
+2014,227,Rhode Island Rams,2014-02-01,15.59107016963115,included_game_day
+2014,227,Rhode Island Rams,2014-02-06,12.156926580536904,included_game_day
+2014,227,Rhode Island Rams,2014-02-09,11.153538410154134,included_game_day
+2014,227,Rhode Island Rams,2014-02-12,13.334534536936035,included_game_day
+2014,227,Rhode Island Rams,2014-02-15,-5.222331592365398,included_game_day
+2014,227,Rhode Island Rams,2014-02-19,-4.643604163835714,included_game_day
+2014,227,Rhode Island Rams,2014-02-22,14.768811721672403,included_game_day
+2014,227,Rhode Island Rams,2014-02-26,21.15830374201574,included_game_day
+2014,227,Rhode Island Rams,2014-03-01,43.755770166344746,included_game_day
+2014,227,Rhode Island Rams,2014-03-05,43.291018945622035,included_game_day
+2014,227,Rhode Island Rams,2014-03-13,41.41693365616459,included_game_day
+2015,227,Rhode Island Rams,2014-11-16,9.6,included_game_day
+2015,227,Rhode Island Rams,2014-11-22,12.692,included_game_day
+2015,227,Rhode Island Rams,2014-11-27,-3.9200000000000017,included_game_day
+2015,227,Rhode Island Rams,2014-11-28,16.780772,included_game_day
+2015,227,Rhode Island Rams,2014-11-30,14.060367099999999,included_game_day
+2015,227,Rhode Island Rams,2014-12-06,45.861898159,included_game_day
+2015,227,Rhode Island Rams,2014-12-10,39.06361063315,included_game_day
+2015,227,Rhode Island Rams,2014-12-13,65.705797439835,included_game_day
+2015,227,Rhode Island Rams,2014-12-20,70.4303043812641,included_game_day
+2015,227,Rhode Island Rams,2014-12-31,78.62002335696886,included_game_day
+2015,227,Rhode Island Rams,2015-01-03,81.71183917223796,included_game_day
+2015,227,Rhode Island Rams,2015-01-07,70.1759185201261,included_game_day
+2015,227,Rhode Island Rams,2015-01-10,63.336445251771174,included_game_day
+2015,227,Rhode Island Rams,2015-01-13,59.467156611061725,included_game_day
+2015,227,Rhode Island Rams,2015-01-17,54.36507421733056,included_game_day
+2015,227,Rhode Island Rams,2015-01-22,61.58239465547614,included_game_day
+2015,227,Rhode Island Rams,2015-01-25,59.89028642393073,included_game_day
+2015,227,Rhode Island Rams,2015-01-28,52.711904571037735,included_game_day
+2015,227,Rhode Island Rams,2015-01-31,53.738284700606066,included_game_day
+2015,227,Rhode Island Rams,2015-02-08,65.79724778519797,included_game_day
+2015,227,Rhode Island Rams,2015-02-11,60.718590955773166,included_game_day
+2015,227,Rhode Island Rams,2015-02-14,60.32035303965898,included_game_day
+2015,227,Rhode Island Rams,2015-02-18,70.73712979673107,included_game_day
+2015,227,Rhode Island Rams,2015-02-21,77.84385673512426,included_game_day
+2015,227,Rhode Island Rams,2015-02-25,76.22153527859876,included_game_day
+2015,227,Rhode Island Rams,2015-02-28,76.89628129155756,included_game_day
+2015,227,Rhode Island Rams,2015-03-03,63.07579089788144,included_game_day
+2015,227,Rhode Island Rams,2015-03-07,64.22714739043141,included_game_day
+2015,227,Rhode Island Rams,2015-03-13,78.54702942795025,included_game_day
+2015,227,Rhode Island Rams,2015-03-14,74.40848755208954,included_game_day
+2015,227,Rhode Island Rams,2015-03-17,80.5480682536583,included_game_day
+2015,227,Rhode Island Rams,2015-03-22,72.75071657814816,included_game_day
+2016,227,Rhode Island Rams,2015-11-13,20.0,included_game_day
+2016,227,Rhode Island Rams,2015-11-17,15.19,included_game_day
+2016,227,Rhode Island Rams,2015-11-21,37.471,included_game_day
+2016,227,Rhode Island Rams,2015-11-24,41.6243,included_game_day
+2016,227,Rhode Island Rams,2015-11-25,17.164309999999997,included_game_day
+2016,227,Rhode Island Rams,2015-11-29,35.506429999999995,included_game_day
+2016,227,Rhode Island Rams,2015-12-02,45.670691999999995,included_game_day
+2016,227,Rhode Island Rams,2015-12-05,40.271530590199994,included_game_day
+2016,227,Rhode Island Rams,2015-12-08,50.92341682917999,included_game_day
+2016,227,Rhode Island Rams,2015-12-13,50.16419396836199,included_game_day
+2016,227,Rhode Island Rams,2015-12-19,49.12379820095579,included_game_day
+2016,227,Rhode Island Rams,2015-12-22,46.03839673748186,included_game_day
+2016,227,Rhode Island Rams,2015-12-30,44.23180115899548,included_game_day
+2016,227,Rhode Island Rams,2016-01-02,60.28935320986358,included_game_day
+2016,227,Rhode Island Rams,2016-01-05,68.8789943019186,included_game_day
+2016,227,Rhode Island Rams,2016-01-10,65.42379546829238,included_game_day
+2016,227,Rhode Island Rams,2016-01-13,63.38917623822711,included_game_day
+2016,227,Rhode Island Rams,2016-01-16,58.93483155186495,included_game_day
+2016,227,Rhode Island Rams,2016-01-22,59.3317094486114,included_game_day
+2016,227,Rhode Island Rams,2016-01-27,65.09706887394833,included_game_day
+2016,227,Rhode Island Rams,2016-01-30,55.520839490174666,included_game_day
+2016,227,Rhode Island Rams,2016-02-02,43.29974642656996,included_game_day
+2016,227,Rhode Island Rams,2016-02-06,50.96452803414277,included_game_day
+2016,227,Rhode Island Rams,2016-02-09,55.30213222982923,included_game_day
+2016,227,Rhode Island Rams,2016-02-12,55.62829365356649,included_game_day
+2016,227,Rhode Island Rams,2016-02-16,47.98762338036582,included_game_day
+2016,227,Rhode Island Rams,2016-02-20,42.970821810973916,included_game_day
+2016,227,Rhode Island Rams,2016-02-23,34.20100310235812,included_game_day
+2016,227,Rhode Island Rams,2016-02-27,50.693352375076216,included_game_day
+2016,227,Rhode Island Rams,2016-03-03,59.180890813849544,included_game_day
+2016,227,Rhode Island Rams,2016-03-05,53.45238157064419,included_game_day
+2016,227,Rhode Island Rams,2016-03-10,41.7118794306168,included_game_day
+2017,227,Rhode Island Rams,2016-11-11,20.0,included_game_day
+2017,227,Rhode Island Rams,2016-11-14,52.8,included_game_day
+2017,227,Rhode Island Rams,2016-11-16,49.65,included_game_day
+2017,227,Rhode Island Rams,2016-11-19,54.114999999999995,included_game_day
+2017,227,Rhode Island Rams,2016-11-20,45.1474,included_game_day
+2017,227,Rhode Island Rams,2016-11-25,46.02279,included_game_day
+2017,227,Rhode Island Rams,2016-11-29,43.79043206,included_game_day
+2017,227,Rhode Island Rams,2016-12-03,44.259244494,included_game_day
+2017,227,Rhode Island Rams,2016-12-06,50.941165506800004,included_game_day
+2017,227,Rhode Island Rams,2016-12-10,52.52429073542,included_game_day
+2017,227,Rhode Island Rams,2016-12-18,53.8028646981027,included_game_day
+2017,227,Rhode Island Rams,2016-12-22,55.09918232044943,included_game_day
+2017,227,Rhode Island Rams,2016-12-30,79.37830198782851,included_game_day
+2017,227,Rhode Island Rams,2017-01-03,100.03205836621476,included_game_day
+2017,227,Rhode Island Rams,2017-01-06,99.6229153766893,included_game_day
+2017,227,Rhode Island Rams,2017-01-12,76.26377864809236,included_game_day
+2017,227,Rhode Island Rams,2017-01-15,71.28738850569043,included_game_day
+2017,227,Rhode Island Rams,2017-01-21,85.62238393599651,included_game_day
+2017,227,Rhode Island Rams,2017-01-25,72.03464024170471,included_game_day
+2017,227,Rhode Island Rams,2017-01-28,78.9576985397871,included_game_day
+2017,227,Rhode Island Rams,2017-01-31,81.09420400012178,included_game_day
+2017,227,Rhode Island Rams,2017-02-03,93.71295342044127,included_game_day
+2017,227,Rhode Island Rams,2017-02-07,95.46504514510735,included_game_day
+2017,227,Rhode Island Rams,2017-02-10,92.75040696813286,included_game_day
+2017,227,Rhode Island Rams,2017-02-15,66.86760778439694,included_game_day
+2017,227,Rhode Island Rams,2017-02-18,71.55190273912899,included_game_day
+2017,227,Rhode Island Rams,2017-02-21,78.57255745313185,included_game_day
+2017,227,Rhode Island Rams,2017-02-25,88.02921492598153,included_game_day
+2017,227,Rhode Island Rams,2017-03-01,98.43074017044702,included_game_day
+2017,227,Rhode Island Rams,2017-03-04,92.46143146518963,included_game_day
+2017,227,Rhode Island Rams,2017-03-10,98.68387762785592,included_game_day
+2017,227,Rhode Island Rams,2017-03-11,118.73081748301706,included_game_day
+2017,227,Rhode Island Rams,2017-03-12,124.4247113867473,included_game_day
+2017,227,Rhode Island Rams,2017-03-17,135.7127924668441,included_game_day
+2017,227,Rhode Island Rams,2017-03-19,136.48390948861342,included_game_day
+2018,227,Rhode Island Rams,2017-11-10,21.0,included_game_day
+2018,227,Rhode Island Rams,2017-11-13,17.0,included_game_day
+2018,227,Rhode Island Rams,2017-11-19,35.122,included_game_day
+2018,227,Rhode Island Rams,2017-11-23,38.1749,included_game_day
+2018,227,Rhode Island Rams,2017-11-24,28.205329,included_game_day
+2018,227,Rhode Island Rams,2017-11-28,47.32869619,included_game_day
+2018,227,Rhode Island Rams,2017-12-02,52.392049201,included_game_day
+2018,227,Rhode Island Rams,2017-12-06,50.516269006899996,included_game_day
+2018,227,Rhode Island Rams,2017-12-16,49.64887258621,included_game_day
+2018,227,Rhode Island Rams,2017-12-21,50.13059349717609,included_game_day
+2018,227,Rhode Island Rams,2017-12-27,62.773965914469166,included_game_day
+2018,227,Rhode Island Rams,2017-12-30,68.1644742063279,included_game_day
+2018,227,Rhode Island Rams,2018-01-03,72.83250417266203,included_game_day
+2018,227,Rhode Island Rams,2018-01-06,88.09984707463762,included_game_day
+2018,227,Rhode Island Rams,2018-01-09,88.40118485517445,included_game_day
+2018,227,Rhode Island Rams,2018-01-13,97.23648168434893,included_game_day
+2018,227,Rhode Island Rams,2018-01-17,106.55866714870082,included_game_day
+2018,227,Rhode Island Rams,2018-01-20,115.62875666555631,included_game_day
+2018,227,Rhode Island Rams,2018-01-24,118.95828904310423,included_game_day
+2018,227,Rhode Island Rams,2018-01-27,108.62495249252426,included_game_day
+2018,227,Rhode Island Rams,2018-01-30,97.38905889448299,included_game_day
+2018,227,Rhode Island Rams,2018-02-02,105.40249766971007,included_game_day
+2018,227,Rhode Island Rams,2018-02-09,116.03964882786543,included_game_day
+2018,227,Rhode Island Rams,2018-02-13,119.50987937787025,included_game_day
+2018,227,Rhode Island Rams,2018-02-16,115.91741612668112,included_game_day
+2018,227,Rhode Island Rams,2018-02-20,107.41193478632228,included_game_day
+2018,227,Rhode Island Rams,2018-02-23,118.8765050058918,included_game_day
+2018,227,Rhode Island Rams,2018-02-27,74.71876427562309,included_game_day
+2018,227,Rhode Island Rams,2018-03-02,77.92297774107871,included_game_day
+2018,227,Rhode Island Rams,2018-03-09,79.79626824264665,included_game_day
+2018,227,Rhode Island Rams,2018-03-10,81.15890828890599,included_game_day
+2018,227,Rhode Island Rams,2018-03-11,83.46074777286523,included_game_day
+2018,227,Rhode Island Rams,2018-03-15,84.99594362189166,included_game_day
+2018,227,Rhode Island Rams,2018-03-17,71.89163058585805,included_game_day
+2019,227,Rhode Island Rams,2018-11-06,31.0,included_game_day
+2019,227,Rhode Island Rams,2018-11-13,21.11,included_game_day
+2019,227,Rhode Island Rams,2018-11-16,17.68,included_game_day
+2019,227,Rhode Island Rams,2018-11-24,2.8945399999999992,included_game_day
+2019,227,Rhode Island Rams,2018-11-28,23.166382,included_game_day
+2019,227,Rhode Island Rams,2018-12-01,16.370761289999997,included_game_day
+2019,227,Rhode Island Rams,2018-12-08,36.958878011399996,included_game_day
+2019,227,Rhode Island Rams,2018-12-16,51.399599402784,included_game_day
+2019,227,Rhode Island Rams,2018-12-22,43.010466932346986,included_game_day
+2019,227,Rhode Island Rams,2018-12-24,47.40231036974494,included_game_day
+2019,227,Rhode Island Rams,2018-12-25,36.996411114573135,included_game_day
+2019,227,Rhode Island Rams,2018-12-30,32.817935477591476,included_game_day
+2019,227,Rhode Island Rams,2019-01-06,29.63893544419182,included_game_day
+2019,227,Rhode Island Rams,2019-01-09,39.53687392043512,included_game_day
+2019,227,Rhode Island Rams,2019-01-13,18.945837638426905,included_game_day
+2019,227,Rhode Island Rams,2019-01-16,26.491186879957958,included_game_day
+2019,227,Rhode Island Rams,2019-01-19,33.87292738454508,included_game_day
+2019,227,Rhode Island Rams,2019-01-23,40.52768653599287,included_game_day
+2019,227,Rhode Island Rams,2019-01-27,29.72092971331095,included_game_day
+2019,227,Rhode Island Rams,2019-01-30,27.42316039551284,included_game_day
+2019,227,Rhode Island Rams,2019-02-02,34.80461598986839,included_game_day
+2019,227,Rhode Island Rams,2019-02-06,24.56941744436365,included_game_day
+2019,227,Rhode Island Rams,2019-02-09,-5.266735203852303,included_game_day
+2019,227,Rhode Island Rams,2019-02-16,-14.71296165438204,included_game_day
+2019,227,Rhode Island Rams,2019-02-19,-32.64346174558675,included_game_day
+2019,227,Rhode Island Rams,2019-02-22,-36.412530254845194,included_game_day
+2019,227,Rhode Island Rams,2019-02-26,-15.077511735892813,included_game_day
+2019,227,Rhode Island Rams,2019-03-01,0.5305706674758994,included_game_day
+2019,227,Rhode Island Rams,2019-03-05,3.3834924416989196,included_game_day
+2019,227,Rhode Island Rams,2019-03-09,14.285157150716794,included_game_day
+2019,227,Rhode Island Rams,2019-03-14,29.25869408400549,included_game_day
+2019,227,Rhode Island Rams,2019-03-15,45.53553187796337,included_game_day
+2019,227,Rhode Island Rams,2019-03-16,29.311433886240387,included_game_day
+2020,227,Rhode Island Rams,2019-11-05,8.0,included_game_day
+2020,227,Rhode Island Rams,2019-11-09,-5.699999999999999,included_game_day
+2020,227,Rhode Island Rams,2019-11-15,6.984,included_game_day
+2020,227,Rhode Island Rams,2019-11-19,7.9655000000000005,included_game_day
+2020,227,Rhode Island Rams,2019-11-22,19.480310000000003,included_game_day
+2020,227,Rhode Island Rams,2019-11-24,8.820307000000003,included_game_day
+2020,227,Rhode Island Rams,2019-11-27,13.900308300000003,included_game_day
+2020,227,Rhode Island Rams,2019-12-01,17.07266552,included_game_day
+2020,227,Rhode Island Rams,2019-12-06,30.5285849069,included_game_day
+2020,227,Rhode Island Rams,2019-12-21,32.286693912959,included_game_day
+2020,227,Rhode Island Rams,2019-12-29,51.171559199098695,included_game_day
+2020,227,Rhode Island Rams,2020-01-02,36.18260977982462,included_game_day
+2020,227,Rhode Island Rams,2020-01-05,26.75162071235578,included_game_day
+2020,227,Rhode Island Rams,2020-01-08,36.825777282269655,included_game_day
+2020,227,Rhode Island Rams,2020-01-11,54.492244858724874,included_game_day
+2020,227,Rhode Island Rams,2020-01-15,53.71513403282362,included_game_day
+2020,227,Rhode Island Rams,2020-01-18,46.502595716413865,included_game_day
+2020,227,Rhode Island Rams,2020-01-22,66.39217577367988,included_game_day
+2020,227,Rhode Island Rams,2020-01-25,70.90552519888625,included_game_day
+2020,227,Rhode Island Rams,2020-01-28,79.77088715565756,included_game_day
+2020,227,Rhode Island Rams,2020-01-31,91.82095073853155,included_game_day
+2020,227,Rhode Island Rams,2020-02-04,80.6203163891831,included_game_day
+2020,227,Rhode Island Rams,2020-02-08,104.41158791574694,included_game_day
+2020,227,Rhode Island Rams,2020-02-11,96.46574465358172,included_game_day
+2020,227,Rhode Island Rams,2020-02-15,92.79259018685481,included_game_day
+2020,227,Rhode Island Rams,2020-02-22,93.87545263836384,included_game_day
+2020,227,Rhode Island Rams,2020-02-26,82.17707667534651,included_game_day
+2020,227,Rhode Island Rams,2020-03-01,65.90180456351146,included_game_day
+2020,227,Rhode Island Rams,2020-03-04,43.03880763189528,included_game_day
+2020,227,Rhode Island Rams,2020-03-07,42.56369849513394,included_game_day
+2021,227,Rhode Island Rams,2020-11-25,-6.0,included_game_day
+2021,227,Rhode Island Rams,2020-11-26,-11.3,included_game_day
+2021,227,Rhode Island Rams,2020-11-28,5.829999999999998,included_game_day
+2021,227,Rhode Island Rams,2020-11-29,18.723999999999997,included_game_day
+2021,227,Rhode Island Rams,2020-12-02,29.219599999999996,included_game_day
+2021,227,Rhode Island Rams,2020-12-09,24.613539999999997,included_game_day
+2021,227,Rhode Island Rams,2020-12-13,22.216786999999997,included_game_day
+2021,227,Rhode Island Rams,2020-12-18,9.623576199999997,included_game_day
+2021,227,Rhode Island Rams,2020-12-30,12.803402653299997,included_game_day
+2021,227,Rhode Island Rams,2021-01-03,10.618578636710998,included_game_day
+2021,227,Rhode Island Rams,2021-01-06,8.156407513476598,included_game_day
+2021,227,Rhode Island Rams,2021-01-09,33.10827353585205,included_game_day
+2021,227,Rhode Island Rams,2021-01-13,33.674701080080105,included_game_day
+2021,227,Rhode Island Rams,2021-01-16,48.068553734320176,included_game_day
+2021,227,Rhode Island Rams,2021-01-20,43.12159406785299,included_game_day
+2021,227,Rhode Island Rams,2021-01-24,38.69429936646149,included_game_day
+2021,227,Rhode Island Rams,2021-01-27,48.15374069239743,included_game_day
+2021,227,Rhode Island Rams,2021-01-30,38.82473342975635,included_game_day
+2021,227,Rhode Island Rams,2021-02-03,37.07185777485902,included_game_day
+2021,227,Rhode Island Rams,2021-02-06,20.54490207599444,included_game_day
+2021,227,Rhode Island Rams,2021-02-10,21.06367258240884,included_game_day
+2021,227,Rhode Island Rams,2021-02-16,21.02697433301266,included_game_day
+2021,227,Rhode Island Rams,2021-02-21,12.28469561023557,included_game_day
+2021,227,Rhode Island Rams,2021-02-27,2.8893234576395255,included_game_day
+2021,227,Rhode Island Rams,2021-03-04,-4.746726611616635,included_game_day
+2022,227,Rhode Island Rams,2021-11-09,6.0,included_game_day
+2022,227,Rhode Island Rams,2021-11-12,21.4,included_game_day
+2022,227,Rhode Island Rams,2021-11-17,28.203,included_game_day
+2022,227,Rhode Island Rams,2021-11-20,19.4902,included_game_day
+2022,227,Rhode Island Rams,2021-11-21,26.38351,included_game_day
+2022,227,Rhode Island Rams,2021-11-23,23.863259,included_game_day
+2022,227,Rhode Island Rams,2021-11-27,55.6692731,included_game_day
+2022,227,Rhode Island Rams,2021-12-01,62.18956783,included_game_day
+2022,227,Rhode Island Rams,2021-12-04,49.55958056075,included_game_day
+2022,227,Rhode Island Rams,2021-12-07,48.091923239555,included_game_day
+2022,227,Rhode Island Rams,2021-12-13,65.1119048056205,included_game_day
+2022,227,Rhode Island Rams,2022-01-08,66.41826561727109,included_game_day
+2022,227,Rhode Island Rams,2022-01-12,70.48522729148841,included_game_day
+2022,227,Rhode Island Rams,2022-01-15,79.1282204639609,included_game_day
+2022,227,Rhode Island Rams,2022-01-19,67.53852829828776,included_game_day
+2022,227,Rhode Island Rams,2022-01-22,50.11488209767515,included_game_day
+2022,227,Rhode Island Rams,2022-01-25,39.42296109773662,included_game_day
+2022,227,Rhode Island Rams,2022-01-28,44.98533052450132,included_game_day
+2022,227,Rhode Island Rams,2022-02-02,36.830793713858014,included_game_day
+2022,227,Rhode Island Rams,2022-02-05,16.97800154300518,included_game_day
+2022,227,Rhode Island Rams,2022-02-08,13.05027872779457,included_game_day
+2022,227,Rhode Island Rams,2022-02-12,22.529513587309957,included_game_day
+2022,227,Rhode Island Rams,2022-02-14,22.92370405788751,included_game_day
+2022,227,Rhode Island Rams,2022-02-19,12.407817358144346,included_game_day
+2022,227,Rhode Island Rams,2022-02-22,3.4642010225925475,included_game_day
+2022,227,Rhode Island Rams,2022-02-26,6.390156967397566,included_game_day
+2022,227,Rhode Island Rams,2022-03-02,4.5190990897333405,included_game_day
+2022,227,Rhode Island Rams,2022-03-05,-3.204813648834498,included_game_day
+2022,227,Rhode Island Rams,2022-03-09,-10.655236246768201,included_game_day
+2022,227,Rhode Island Rams,2022-03-10,-9.12587241023489,included_game_day
+2023,227,Rhode Island Rams,2022-11-07,-8.0,included_game_day
+2023,227,Rhode Island Rams,2022-11-12,-16.1,included_game_day
+2023,227,Rhode Island Rams,2022-11-15,-10.790000000000001,included_game_day
+2023,227,Rhode Island Rams,2022-11-21,-25.332,included_game_day
+2023,227,Rhode Island Rams,2022-11-22,-22.439500000000002,included_game_day
+2023,227,Rhode Island Rams,2022-11-23,-10.068502900000002,included_game_day
+2023,227,Rhode Island Rams,2022-11-27,-9.732934610000003,included_game_day
+2023,227,Rhode Island Rams,2022-12-03,-23.831207532,included_game_day
+2023,227,Rhode Island Rams,2022-12-07,-24.2296706699,included_game_day
+2023,227,Rhode Island Rams,2022-12-10,-17.32207931963,included_game_day
+2023,227,Rhode Island Rams,2022-12-13,-10.295907776702476,included_game_day
+2023,227,Rhode Island Rams,2022-12-18,-17.842778973636296,included_game_day
+2023,227,Rhode Island Rams,2022-12-31,-21.981328276411183,included_game_day
+2023,227,Rhode Island Rams,2023-01-04,-18.81217827286952,included_game_day
+2023,227,Rhode Island Rams,2023-01-07,-21.231164736013447,included_game_day
+2023,227,Rhode Island Rams,2023-01-11,-21.371684817828104,included_game_day
+2023,227,Rhode Island Rams,2023-01-14,-26.648879099955032,included_game_day
+2023,227,Rhode Island Rams,2023-01-17,-24.952672812405563,included_game_day
+2023,227,Rhode Island Rams,2023-01-21,-29.85607621440917,included_game_day
+2023,227,Rhode Island Rams,2023-01-25,-16.822228641840937,included_game_day
+2023,227,Rhode Island Rams,2023-01-28,-21.85015949857685,included_game_day
+2023,227,Rhode Island Rams,2023-02-01,-29.313723328228896,included_game_day
+2023,227,Rhode Island Rams,2023-02-07,-24.75596327088523,included_game_day
+2023,227,Rhode Island Rams,2023-02-11,-28.25909137540286,included_game_day
+2023,227,Rhode Island Rams,2023-02-15,-21.718093332025408,included_game_day
+2023,227,Rhode Island Rams,2023-02-18,-50.616528593660604,included_game_day
+2023,227,Rhode Island Rams,2023-02-22,-61.724768392794275,included_game_day
+2023,227,Rhode Island Rams,2023-02-25,-52.63350795434198,included_game_day
+2023,227,Rhode Island Rams,2023-03-01,-47.561932457733676,included_game_day
+2023,227,Rhode Island Rams,2023-03-04,-57.87343984195361,included_game_day
+2023,227,Rhode Island Rams,2023-03-07,-72.93823649658503,included_game_day
+2024,227,Rhode Island Rams,2023-11-06,8.0,included_game_day
+2024,227,Rhode Island Rams,2023-11-09,15.6,included_game_day
+2024,227,Rhode Island Rams,2023-11-14,26.939999999999998,included_game_day
+2024,227,Rhode Island Rams,2023-11-18,14.128999999999998,included_game_day
+2024,227,Rhode Island Rams,2023-11-19,-5.860400000000002,included_game_day
+2024,227,Rhode Island Rams,2023-11-26,-4.180310000000002,included_game_day
+2024,227,Rhode Island Rams,2023-12-02,-9.796925500000002,included_game_day
+2024,227,Rhode Island Rams,2023-12-06,-17.8796078341,included_game_day
+2024,227,Rhode Island Rams,2023-12-10,-27.293930253776,included_game_day
+2024,227,Rhode Island Rams,2023-12-16,-32.5287174529275,included_game_day
+2024,227,Rhode Island Rams,2023-12-21,-42.59531698283205,included_game_day
+2024,227,Rhode Island Rams,2023-12-30,-29.01827605855742,included_game_day
+2024,227,Rhode Island Rams,2024-01-03,-14.982098020773535,included_game_day
+2024,227,Rhode Island Rams,2024-01-09,-4.9950454828103386,included_game_day
+2024,227,Rhode Island Rams,2024-01-13,12.115340636476356,included_game_day
+2024,227,Rhode Island Rams,2024-01-17,-15.822089817771348,included_game_day
+2024,227,Rhode Island Rams,2024-01-20,-36.57503245925772,included_game_day
+2024,227,Rhode Island Rams,2024-01-24,-39.15606016228175,included_game_day
+2024,227,Rhode Island Rams,2024-01-27,-36.004745314170336,included_game_day
+2024,227,Rhode Island Rams,2024-01-31,-34.71973075726296,included_game_day
+2024,227,Rhode Island Rams,2024-02-03,-45.96923857455167,included_game_day
+2024,227,Rhode Island Rams,2024-02-06,-16.327290785850128,included_game_day
+2024,227,Rhode Island Rams,2024-02-11,-7.670986916625964,included_game_day
+2024,227,Rhode Island Rams,2024-02-18,-13.849609805646654,included_game_day
+2024,227,Rhode Island Rams,2024-02-21,-16.90940370149721,included_game_day
+2024,227,Rhode Island Rams,2024-02-25,-37.052747141120044,included_game_day
+2024,227,Rhode Island Rams,2024-02-28,-45.207589683524276,included_game_day
+2024,227,Rhode Island Rams,2024-03-02,-50.63101345451014,included_game_day
+2024,227,Rhode Island Rams,2024-03-06,-63.758683532210554,included_game_day
+2024,227,Rhode Island Rams,2024-03-09,-47.01622889469102,included_game_day
+2024,227,Rhode Island Rams,2024-03-12,-47.24687533565794,included_game_day
+2025,227,Rhode Island Rams,2024-11-04,35.0,included_game_day
+2025,227,Rhode Island Rams,2024-11-08,40.4,included_game_day
+2025,227,Rhode Island Rams,2024-11-20,44.406,included_game_day
+2025,227,Rhode Island Rams,2024-11-24,76.412989,included_game_day
+2025,227,Rhode Island Rams,2024-11-27,70.7058162,included_game_day
+2025,227,Rhode Island Rams,2024-11-28,66.949218536,included_game_day
+2025,227,Rhode Island Rams,2024-12-02,66.6197783824,included_game_day
+2025,227,Rhode Island Rams,2024-12-07,67.08592154581,included_game_day
+2025,227,Rhode Island Rams,2024-12-10,61.628962582689,included_game_day
+2025,227,Rhode Island Rams,2024-12-15,60.1495692997001,included_game_day
+2025,227,Rhode Island Rams,2024-12-21,61.93186211392354,included_game_day
+2025,227,Rhode Island Rams,2024-12-31,47.491866407893745,included_game_day
+2025,227,Rhode Island Rams,2025-01-04,50.13769084711345,included_game_day
+2025,227,Rhode Island Rams,2025-01-08,39.13259384707152,included_game_day
+2025,227,Rhode Island Rams,2025-01-11,38.600014678615416,included_game_day
+2025,227,Rhode Island Rams,2025-01-15,32.05936081478088,included_game_day
+2025,227,Rhode Island Rams,2025-01-18,30.727526262018124,included_game_day
+2025,227,Rhode Island Rams,2025-01-21,11.93072893798648,included_game_day
+2025,227,Rhode Island Rams,2025-01-25,4.193242996646601,included_game_day
+2025,227,Rhode Island Rams,2025-01-29,7.81504027303963,included_game_day
+2025,227,Rhode Island Rams,2025-02-05,8.375666260728647,included_game_day
+2025,227,Rhode Island Rams,2025-02-08,3.0745708107492007,included_game_day
+2025,227,Rhode Island Rams,2025-02-12,4.718222061205655,included_game_day
+2025,227,Rhode Island Rams,2025-02-15,10.185782900068522,included_game_day
+2025,227,Rhode Island Rams,2025-02-22,-0.3926881936705531,included_game_day
+2025,227,Rhode Island Rams,2025-02-26,-5.88035489306572,included_game_day
+2025,227,Rhode Island Rams,2025-03-01,-7.488131301825626,included_game_day
+2025,227,Rhode Island Rams,2025-03-05,-11.730393547410085,included_game_day
+2025,227,Rhode Island Rams,2025-03-08,-0.2806824369122758,included_game_day
+2025,227,Rhode Island Rams,2025-03-12,-24.12091354851403,included_game_day
+2026,227,Rhode Island Rams,2025-11-03,28.0,included_game_day
+2026,227,Rhode Island Rams,2025-11-07,8.2,included_game_day
+2026,227,Rhode Island Rams,2025-11-11,27.15,included_game_day
+2026,227,Rhode Island Rams,2025-11-14,36.385,included_game_day
+2026,227,Rhode Island Rams,2025-11-18,51.5158,included_game_day
+2026,227,Rhode Island Rams,2025-11-24,39.254692,included_game_day
+2026,227,Rhode Island Rams,2025-11-25,51.8915668,included_game_day
+2026,227,Rhode Island Rams,2025-11-26,62.895826729,included_game_day
+2026,227,Rhode Island Rams,2025-12-02,62.0330490038,included_game_day
+2026,227,Rhode Island Rams,2025-12-06,43.75319447532,included_game_day
+2026,227,Rhode Island Rams,2025-12-09,40.827596013288,included_game_day
+2026,227,Rhode Island Rams,2025-12-16,44.22191090883356,included_game_day
+2026,227,Rhode Island Rams,2025-12-22,44.197325156862554,included_game_day
+2026,227,Rhode Island Rams,2025-12-31,26.227022867709934,included_game_day
+2026,227,Rhode Island Rams,2026-01-03,20.295387239998014,included_game_day
+2026,227,Rhode Island Rams,2026-01-07,2.0815651874100496,included_game_day
+2026,227,Rhode Island Rams,2026-01-10,32.037845089719,included_game_day
+2026,227,Rhode Island Rams,2026-01-14,25.46002625562019,included_game_day
+2026,227,Rhode Island Rams,2026-01-21,31.042364544790498,included_game_day
+2026,227,Rhode Island Rams,2026-01-24,40.639376573095866,included_game_day
+2026,227,Rhode Island Rams,2026-01-27,50.24919203681803,included_game_day
+2026,227,Rhode Island Rams,2026-02-01,35.565599142465686,included_game_day
+2026,227,Rhode Island Rams,2026-02-07,33.75155060009063,included_game_day
+2026,227,Rhode Island Rams,2026-02-10,34.364614429158024,included_game_day
+2026,227,Rhode Island Rams,2026-02-14,26.203437001631418,included_game_day
+2026,227,Rhode Island Rams,2026-02-17,44.242003277858686,included_game_day
+2026,227,Rhode Island Rams,2026-02-21,26.58284248737123,included_game_day
+2026,227,Rhode Island Rams,2026-02-26,8.755866348615488,included_game_day
+2026,227,Rhode Island Rams,2026-02-28,3.1162056262094078,included_game_day
+2026,227,Rhode Island Rams,2026-03-04,13.715165461549525,included_game_day
+2026,227,Rhode Island Rams,2026-03-07,4.24553742460372,included_game_day
+2026,227,Rhode Island Rams,2026-03-12,-1.484245442367623,included_game_day
+2027,227,Rhode Island Rams,2026-11-03,41.0,included_game_day
+2027,227,Rhode Island Rams,2026-11-07,53.7,included_game_day
+2027,227,Rhode Island Rams,2026-11-10,48.641000000000005,included_game_day
+2027,227,Rhode Island Rams,2026-11-12,56.3449,included_game_day
+2027,227,Rhode Island Rams,2026-11-15,54.24441,included_game_day
+2027,227,Rhode Island Rams,2026-11-20,45.790509,included_game_day
+2027,227,Rhode Island Rams,2026-11-22,58.735452,included_game_day

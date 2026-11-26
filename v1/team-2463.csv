@@ -1,0 +1,1023 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1991,2463,CS Northridge,1990-11-23,-21.0,included_game_day
+1991,2463,CS Northridge,1990-11-24,-40.9,included_game_day
+1991,2463,CS Northridge,1990-11-26,-91.81,included_game_day
+1991,2463,CS Northridge,1990-12-01,-73.059,included_game_day
+1991,2463,CS Northridge,1990-12-06,-99.51132,included_game_day
+1991,2463,CS Northridge,1990-12-08,-115.826837,included_game_day
+1991,2463,CS Northridge,1990-12-12,-120.164234737,included_game_day
+1991,2463,CS Northridge,1990-12-14,-99.4744335875,included_game_day
+1991,2463,CS Northridge,1990-12-28,-108.55706496672026,included_game_day
+1991,2463,CS Northridge,1990-12-29,-105.97336198309081,included_game_day
+1991,2463,CS Northridge,1991-01-02,-91.74106761134843,included_game_day
+1991,2463,CS Northridge,1991-01-05,-91.09733466161912,included_game_day
+1991,2463,CS Northridge,1991-01-14,-68.39810721052766,included_game_day
+1991,2463,CS Northridge,1991-01-15,-48.685833881819406,included_game_day
+1991,2463,CS Northridge,1991-01-17,-58.70147029641153,included_game_day
+1991,2463,CS Northridge,1991-01-23,-76.97187786051705,included_game_day
+1991,2463,CS Northridge,1991-01-28,-63.06443619750292,included_game_day
+1991,2463,CS Northridge,1991-01-31,-82.70389720554992,included_game_day
+1991,2463,CS Northridge,1991-02-04,-80.36455454505654,included_game_day
+1991,2463,CS Northridge,1991-02-08,-92.64824576567433,included_game_day
+1991,2463,CS Northridge,1991-02-11,-106.06057359634842,included_game_day
+1991,2463,CS Northridge,1991-02-14,-119.91515334981793,included_game_day
+1991,2463,CS Northridge,1991-02-20,-105.39455417406468,included_game_day
+1991,2463,CS Northridge,1991-02-23,-112.92637417053557,included_game_day
+1991,2463,CS Northridge,1991-03-01,-121.70502391625925,included_game_day
+1991,2463,CS Northridge,1991-03-05,-126.6486991946876,included_game_day
+1992,2463,CS Northridge,1991-11-22,-12.0,included_game_day
+1992,2463,CS Northridge,1991-11-24,-13.8,included_game_day
+1992,2463,CS Northridge,1991-11-25,-42.019999999999996,included_game_day
+1992,2463,CS Northridge,1991-11-29,-43.998,included_game_day
+1992,2463,CS Northridge,1991-12-04,-48.2012,included_game_day
+1992,2463,CS Northridge,1991-12-07,-54.870423,included_game_day
+1992,2463,CS Northridge,1991-12-13,-67.982931148,included_game_day
+1992,2463,CS Northridge,1991-12-14,-71.5769050332,included_game_day
+1992,2463,CS Northridge,1991-12-21,-83.41309855988001,included_game_day
+1992,2463,CS Northridge,1991-12-22,-93.087140203892,included_game_day
+1992,2463,CS Northridge,1991-12-28,-83.1838999813508,included_game_day
+1992,2463,CS Northridge,1992-01-03,-76.36436144024823,included_game_day
+1992,2463,CS Northridge,1992-01-04,-77.86308566728823,included_game_day
+1992,2463,CS Northridge,1992-01-14,-69.86396430679379,included_game_day
+1992,2463,CS Northridge,1992-01-18,-75.03760968511729,included_game_day
+1992,2463,CS Northridge,1992-01-22,-68.38519125552712,included_game_day
+1992,2463,CS Northridge,1992-01-25,-66.41331092920909,included_game_day
+1992,2463,CS Northridge,1992-01-27,-78.26534594714535,included_game_day
+1992,2463,CS Northridge,1992-01-31,-78.2369888071695,included_game_day
+1992,2463,CS Northridge,1992-02-08,-75.07835471058695,included_game_day
+1992,2463,CS Northridge,1992-02-10,-69.4962613647887,included_game_day
+1992,2463,CS Northridge,1992-02-15,-50.805761148283636,included_game_day
+1992,2463,CS Northridge,1992-02-18,-38.996744549223834,included_game_day
+1992,2463,CS Northridge,1992-02-22,-42.317893941927274,included_game_day
+1992,2463,CS Northridge,1992-02-29,-49.36272337646188,included_game_day
+1992,2463,CS Northridge,1992-03-03,-65.2672808255386,included_game_day
+1993,2463,CS Northridge,1992-12-01,-7.0,included_game_day
+1993,2463,CS Northridge,1992-12-04,-10.3,included_game_day
+1993,2463,CS Northridge,1992-12-05,-10.93,included_game_day
+1993,2463,CS Northridge,1992-12-09,2.7430000000000003,included_game_day
+1993,2463,CS Northridge,1992-12-11,-3.2313,included_game_day
+1993,2463,CS Northridge,1992-12-12,-2.88757,included_game_day
+1993,2463,CS Northridge,1992-12-19,-10.920353799999999,included_game_day
+1993,2463,CS Northridge,1992-12-22,-9.852995587999999,included_game_day
+1993,2463,CS Northridge,1992-12-28,-14.0690559292,included_game_day
+1993,2463,CS Northridge,1992-12-30,-11.501678623217,included_game_day
+1993,2463,CS Northridge,1993-01-05,-6.38689099860438,included_game_day
+1993,2463,CS Northridge,1993-01-09,-11.970030167298631,included_game_day
+1993,2463,CS Northridge,1993-01-17,-14.677672044549944,included_game_day
+1993,2463,CS Northridge,1993-01-19,-24.60118223712223,included_game_day
+1993,2463,CS Northridge,1993-01-25,-27.372198571701457,included_game_day
+1993,2463,CS Northridge,1993-01-30,-48.86466418785766,included_game_day
+1993,2463,CS Northridge,1993-02-03,-43.65974347378132,included_game_day
+1993,2463,CS Northridge,1993-02-06,-49.177753582617356,included_game_day
+1993,2463,CS Northridge,1993-02-10,-59.871670263618256,included_game_day
+1993,2463,CS Northridge,1993-02-13,-54.235510869878446,included_game_day
+1993,2463,CS Northridge,1993-02-18,-51.37197279934125,included_game_day
+1993,2463,CS Northridge,1993-02-20,-58.63514456525423,included_game_day
+1993,2463,CS Northridge,1993-02-23,-69.32920849003506,included_game_day
+1993,2463,CS Northridge,1993-02-26,-56.89675033389443,included_game_day
+1993,2463,CS Northridge,1993-03-02,-81.71294256851475,included_game_day
+1994,2463,CS Northridge,1993-11-26,-28.0,included_game_day
+1994,2463,CS Northridge,1993-11-27,-59.3,included_game_day
+1994,2463,CS Northridge,1993-11-30,-63.37,included_game_day
+1994,2463,CS Northridge,1993-12-03,-68.103,included_game_day
+1994,2463,CS Northridge,1993-12-04,-60.70269999999999,included_game_day
+1994,2463,CS Northridge,1993-12-08,-65.86143,included_game_day
+1994,2463,CS Northridge,1993-12-11,-77.045287,included_game_day
+1994,2463,CS Northridge,1993-12-17,-85.7130783,included_game_day
+1994,2463,CS Northridge,1993-12-21,-88.91378217,included_game_day
+1994,2463,CS Northridge,1993-12-27,-89.07902426870001,included_game_day
+1994,2463,CS Northridge,1993-12-28,-95.14770592921471,included_game_day
+1994,2463,CS Northridge,1994-01-04,-75.3048001623365,included_game_day
+1994,2463,CS Northridge,1994-01-08,-64.89751461684484,included_game_day
+1994,2463,CS Northridge,1994-01-11,-83.55503491331694,included_game_day
+1994,2463,CS Northridge,1994-01-17,-89.83884942418439,included_game_day
+1994,2463,CS Northridge,1994-01-29,-98.4714607391824,included_game_day
+1994,2463,CS Northridge,1994-01-31,-105.81131269367121,included_game_day
+1994,2463,CS Northridge,1994-02-05,-99.3400334027956,included_game_day
+1994,2463,CS Northridge,1994-02-07,-106.6580177820158,included_game_day
+1994,2463,CS Northridge,1994-02-10,-98.31549689681367,included_game_day
+1994,2463,CS Northridge,1994-02-12,-94.73725761808225,included_game_day
+1994,2463,CS Northridge,1994-02-19,-65.02594285645631,included_game_day
+1994,2463,CS Northridge,1994-02-24,-69.34410807550724,included_game_day
+1994,2463,CS Northridge,1994-02-26,-90.14339732635486,included_game_day
+1994,2463,CS Northridge,1994-03-03,-73.8987360454917,included_game_day
+1995,2463,CS Northridge,1994-11-26,-20.0,included_game_day
+1995,2463,CS Northridge,1994-11-29,-24.0,included_game_day
+1995,2463,CS Northridge,1994-12-03,-47.063500000000005,included_game_day
+1995,2463,CS Northridge,1994-12-06,-38.957150000000006,included_game_day
+1995,2463,CS Northridge,1994-12-09,-33.77359940000001,included_game_day
+1995,2463,CS Northridge,1994-12-19,-81.68456474150001,included_game_day
+1995,2463,CS Northridge,1994-12-21,-99.59965982165001,included_game_day
+1995,2463,CS Northridge,1994-12-28,-97.699523883485,included_game_day
+1995,2463,CS Northridge,1994-12-29,-101.1886108147365,included_game_day
+1995,2463,CS Northridge,1995-01-03,-108.02742982507165,included_game_day
+1995,2463,CS Northridge,1995-01-09,-110.33219403139513,included_game_day
+1995,2463,CS Northridge,1995-01-12,-116.19046962951812,included_game_day
+1995,2463,CS Northridge,1995-01-20,-120.09868313497444,included_game_day
+1995,2463,CS Northridge,1995-01-22,-116.07832872046433,included_game_day
+1995,2463,CS Northridge,1995-01-25,-143.55963868363258,included_game_day
+1995,2463,CS Northridge,1995-02-02,-122.96473903486225,included_game_day
+1995,2463,CS Northridge,1995-02-06,-118.12969369591923,included_game_day
+1995,2463,CS Northridge,1995-02-11,-127.98451181102647,included_game_day
+1995,2463,CS Northridge,1995-02-15,-144.59617710491477,included_game_day
+1995,2463,CS Northridge,1995-02-18,-118.10913996214421,included_game_day
+1995,2463,CS Northridge,1995-02-22,-77.53956551896857,included_game_day
+1995,2463,CS Northridge,1995-02-25,-73.97447396024353,included_game_day
+1995,2463,CS Northridge,1995-02-28,-75.77897994374061,included_game_day
+1995,2463,CS Northridge,1995-03-01,-85.46067130261677,included_game_day
+1995,2463,CS Northridge,1995-03-10,-89.96028231071725,included_game_day
+1995,2463,CS Northridge,1995-03-11,-77.38451966514242,included_game_day
+1996,2463,CS Northridge,1995-11-25,-21.0,included_game_day
+1996,2463,CS Northridge,1995-11-28,-37.8,included_game_day
+1996,2463,CS Northridge,1995-12-02,-37.3491,included_game_day
+1996,2463,CS Northridge,1995-12-05,-46.1331,included_game_day
+1996,2463,CS Northridge,1995-12-08,-60.23929,included_game_day
+1996,2463,CS Northridge,1995-12-09,-61.686611,included_game_day
+1996,2463,CS Northridge,1995-12-16,-61.471690798,included_game_day
+1996,2463,CS Northridge,1995-12-19,-79.5810251092,included_game_day
+1996,2463,CS Northridge,1995-12-22,-73.52529418728,included_game_day
+1996,2463,CS Northridge,1995-12-29,-83.135274524513,included_game_day
+1996,2463,CS Northridge,1995-12-30,-72.08831604268275,included_game_day
+1996,2463,CS Northridge,1996-01-15,-98.54230268403668,included_game_day
+1996,2463,CS Northridge,1996-01-17,-114.11204465384814,included_game_day
+1996,2463,CS Northridge,1996-01-24,-126.01092739969353,included_game_day
+1996,2463,CS Northridge,1996-01-27,-116.1022033721002,included_game_day
+1996,2463,CS Northridge,1996-01-30,-131.50842683753078,included_game_day
+1996,2463,CS Northridge,1996-02-01,-126.00255894356077,included_game_day
+1996,2463,CS Northridge,1996-02-06,-122.78262785355524,included_game_day
+1996,2463,CS Northridge,1996-02-10,-129.81195235130696,included_game_day
+1996,2463,CS Northridge,1996-02-14,-101.6112844605704,included_game_day
+1996,2463,CS Northridge,1996-02-17,-111.05005275353591,included_game_day
+1996,2463,CS Northridge,1996-02-24,-128.16484719710488,included_game_day
+1996,2463,CS Northridge,1996-02-27,-110.84060042797435,included_game_day
+1996,2463,CS Northridge,1996-03-01,-111.07570972312563,included_game_day
+1997,2463,CS Northridge,1996-11-23,1.0,included_game_day
+1997,2463,CS Northridge,1996-11-30,-0.5,included_game_day
+1997,2463,CS Northridge,1996-12-03,-19.85,included_game_day
+1997,2463,CS Northridge,1996-12-12,-29.305010000000003,included_game_day
+1997,2463,CS Northridge,1996-12-16,-26.7288850762,included_game_day
+1997,2463,CS Northridge,1996-12-19,-13.24603447658,included_game_day
+1997,2463,CS Northridge,1996-12-21,-3.434858458922001,included_game_day
+1997,2463,CS Northridge,1996-12-23,8.6098367051702,included_game_day
+1997,2463,CS Northridge,1996-12-29,-8.766989974662,included_game_day
+1997,2463,CS Northridge,1997-01-04,-5.749142415905658,included_game_day
+1997,2463,CS Northridge,1997-01-09,-20.76704943864273,included_game_day
+1997,2463,CS Northridge,1997-01-11,-30.11406005780769,included_game_day
+1997,2463,CS Northridge,1997-01-15,-5.948826406197643,included_game_day
+1997,2463,CS Northridge,1997-01-16,-3.453330334192083,included_game_day
+1997,2463,CS Northridge,1997-01-24,-5.1328380421193005,included_game_day
+1997,2463,CS Northridge,1997-02-01,-10.52242476597732,included_game_day
+1997,2463,CS Northridge,1997-02-06,-14.113015292078174,included_game_day
+1997,2463,CS Northridge,1997-02-08,-20.64544025013425,included_game_day
+1997,2463,CS Northridge,1997-02-13,-23.075018582487303,included_game_day
+1997,2463,CS Northridge,1997-02-20,-6.155390769862866,included_game_day
+1997,2463,CS Northridge,1997-02-22,-15.372809990581466,included_game_day
+1997,2463,CS Northridge,1997-02-27,-8.976894926276415,included_game_day
+1997,2463,CS Northridge,1997-03-01,-21.878665353104676,included_game_day
+1997,2463,CS Northridge,1997-03-06,-3.380313724703452,included_game_day
+1997,2463,CS Northridge,1997-03-07,13.613090854061515,included_game_day
+1997,2463,CS Northridge,1997-03-08,15.00773710587827,included_game_day
+1998,2463,CS Northridge,1997-11-16,-3.0,included_game_day
+1998,2463,CS Northridge,1997-11-20,-11.7,included_game_day
+1998,2463,CS Northridge,1997-11-29,5.989000000000001,included_game_day
+1998,2463,CS Northridge,1997-12-02,8.26923,included_game_day
+1998,2463,CS Northridge,1997-12-06,14.07817,included_game_day
+1998,2463,CS Northridge,1997-12-15,8.396677291500001,included_game_day
+1998,2463,CS Northridge,1997-12-17,3.6843376182600016,included_game_day
+1998,2463,CS Northridge,1997-12-22,-16.210942592553,included_game_day
+1998,2463,CS Northridge,1998-01-05,-23.469217120759488,included_game_day
+1998,2463,CS Northridge,1998-01-08,-25.146945907201353,included_game_day
+1998,2463,CS Northridge,1998-01-11,-14.412222736573382,included_game_day
+1998,2463,CS Northridge,1998-01-15,-14.22127437902224,included_game_day
+1998,2463,CS Northridge,1998-01-17,-11.017734870571646,included_game_day
+1998,2463,CS Northridge,1998-01-22,0.007833138358707359,included_game_day
+1998,2463,CS Northridge,1998-01-31,9.383663596170036,included_game_day
+1998,2463,CS Northridge,1998-02-06,-11.088971535798597,included_game_day
+1998,2463,CS Northridge,1998-02-07,10.718100840430369,included_game_day
+1998,2463,CS Northridge,1998-02-12,-7.171339935564456,included_game_day
+1998,2463,CS Northridge,1998-02-19,-12.122396882413025,included_game_day
+1998,2463,CS Northridge,1998-02-21,23.661527766147845,included_game_day
+1998,2463,CS Northridge,1998-02-25,23.381025967315264,included_game_day
+1998,2463,CS Northridge,1998-02-28,26.068653267470168,included_game_day
+1998,2463,CS Northridge,1998-03-05,26.760808485499854,included_game_day
+1998,2463,CS Northridge,1998-03-06,29.88638792839513,included_game_day
+1999,2463,CS Northridge,1998-11-14,21.0,included_game_day
+1999,2463,CS Northridge,1998-11-17,4.710000000000001,included_game_day
+1999,2463,CS Northridge,1998-11-22,-8.001,included_game_day
+1999,2463,CS Northridge,1998-11-28,-2.1609,included_game_day
+1999,2463,CS Northridge,1998-12-03,9.3772821,included_game_day
+1999,2463,CS Northridge,1998-12-04,20.501441659999998,included_game_day
+1999,2463,CS Northridge,1998-12-11,24.0499722058,included_game_day
+1999,2463,CS Northridge,1998-12-12,17.88906440152,included_game_day
+1999,2463,CS Northridge,1998-12-19,6.882167282868,included_game_day
+1999,2463,CS Northridge,1998-12-22,20.585550475841202,included_game_day
+1999,2463,CS Northridge,1999-01-02,8.365393104520727,included_game_day
+1999,2463,CS Northridge,1999-01-04,-2.9066122628403193,included_game_day
+1999,2463,CS Northridge,1999-01-07,-4.567913131847714,included_game_day
+1999,2463,CS Northridge,1999-01-09,-18.965161365799688,included_game_day
+1999,2463,CS Northridge,1999-01-14,-18.87752360078389,included_game_day
+1999,2463,CS Northridge,1999-01-17,-11.397701649623695,included_game_day
+1999,2463,CS Northridge,1999-01-20,-11.310155370002853,included_game_day
+1999,2463,CS Northridge,1999-01-21,0.27733280845554376,included_game_day
+1999,2463,CS Northridge,1999-01-28,-2.3053686015874018,included_game_day
+1999,2463,CS Northridge,1999-02-06,2.9495603838617432,included_game_day
+1999,2463,CS Northridge,1999-02-11,-6.510413296139766,included_game_day
+1999,2463,CS Northridge,1999-02-13,15.698684368017695,included_game_day
+1999,2463,CS Northridge,1999-02-18,10.589208395079549,included_game_day
+1999,2463,CS Northridge,1999-02-20,20.81060023037494,included_game_day
+1999,2463,CS Northridge,1999-02-25,9.365734211464584,included_game_day
+1999,2463,CS Northridge,1999-02-27,30.914088440625992,included_game_day
+1999,2463,CS Northridge,1999-03-04,28.133708146716856,included_game_day
+2000,2463,CS Northridge,1999-11-19,-11.0,included_game_day
+2000,2463,CS Northridge,1999-11-30,-1.2305799999999998,included_game_day
+2000,2463,CS Northridge,1999-12-04,-9.302522,included_game_day
+2000,2463,CS Northridge,1999-12-06,0.6397122900000003,included_game_day
+2000,2463,CS Northridge,1999-12-11,8.202888161,included_game_day
+2000,2463,CS Northridge,1999-12-20,11.4158942598,included_game_day
+2000,2463,CS Northridge,1999-12-22,8.264337296429,included_game_day
+2000,2463,CS Northridge,1999-12-28,12.2511363448831,included_game_day
+2000,2463,CS Northridge,1999-12-30,25.745750752920735,included_game_day
+2000,2463,CS Northridge,2000-01-02,23.109686158880606,included_game_day
+2000,2463,CS Northridge,2000-01-06,18.921043311475508,included_game_day
+2000,2463,CS Northridge,2000-01-08,32.102166134716484,included_game_day
+2000,2463,CS Northridge,2000-01-13,15.165019094784412,included_game_day
+2000,2463,CS Northridge,2000-01-15,13.463862118683611,included_game_day
+2000,2463,CS Northridge,2000-01-20,19.740467964736798,included_game_day
+2000,2463,CS Northridge,2000-01-22,25.609593790524087,included_game_day
+2000,2463,CS Northridge,2000-01-27,41.14883171049544,included_game_day
+2000,2463,CS Northridge,2000-01-29,17.868956752579024,included_game_day
+2000,2463,CS Northridge,2000-02-03,8.439932021003795,included_game_day
+2000,2463,CS Northridge,2000-02-12,1.9645566591880321,included_game_day
+2000,2463,CS Northridge,2000-02-17,5.414010171715472,included_game_day
+2000,2463,CS Northridge,2000-02-19,27.138225863993064,included_game_day
+2000,2463,CS Northridge,2000-02-24,23.189346708401125,included_game_day
+2000,2463,CS Northridge,2000-02-26,17.00931439757013,included_game_day
+2000,2463,CS Northridge,2000-03-02,27.397676341667605,included_game_day
+2000,2463,CS Northridge,2000-03-04,36.396796467713166,included_game_day
+2000,2463,CS Northridge,2000-03-09,39.74545275584513,included_game_day
+2000,2463,CS Northridge,2000-03-10,53.7905462332142,included_game_day
+2000,2463,CS Northridge,2000-03-11,49.332776634377396,included_game_day
+2001,2463,CS Northridge,2000-11-19,11.9,included_game_day
+2001,2463,CS Northridge,2000-11-21,18.14,included_game_day
+2001,2463,CS Northridge,2000-11-25,19.41,included_game_day
+2001,2463,CS Northridge,2000-12-01,20.99624,included_game_day
+2001,2463,CS Northridge,2000-12-02,19.0024023,included_game_day
+2001,2463,CS Northridge,2000-12-05,14.61574647,included_game_day
+2001,2463,CS Northridge,2000-12-07,16.433909672,included_game_day
+2001,2463,CS Northridge,2000-12-18,31.370545010861,included_game_day
+2001,2463,CS Northridge,2000-12-21,24.860897534747004,included_game_day
+2001,2463,CS Northridge,2000-12-22,17.157595296691312,included_game_day
+2001,2463,CS Northridge,2000-12-23,10.619584267102432,included_game_day
+2001,2463,CS Northridge,2001-01-04,22.026210599260384,included_game_day
+2001,2463,CS Northridge,2001-01-06,26.230814094607858,included_game_day
+2001,2463,CS Northridge,2001-01-11,25.56228662327161,included_game_day
+2001,2463,CS Northridge,2001-01-13,35.57991624599802,included_game_day
+2001,2463,CS Northridge,2001-01-18,43.397338797763716,included_game_day
+2001,2463,CS Northridge,2001-01-20,21.470495087002536,included_game_day
+2001,2463,CS Northridge,2001-01-25,31.801906190698105,included_game_day
+2001,2463,CS Northridge,2001-01-27,38.73269790798121,included_game_day
+2001,2463,CS Northridge,2001-01-31,48.73276822545232,included_game_day
+2001,2463,CS Northridge,2001-02-01,51.45946506619791,included_game_day
+2001,2463,CS Northridge,2001-02-08,42.46195868155223,included_game_day
+2001,2463,CS Northridge,2001-02-17,40.49623292917582,included_game_day
+2001,2463,CS Northridge,2001-02-22,53.25338594104504,included_game_day
+2001,2463,CS Northridge,2001-02-24,63.037051081180536,included_game_day
+2001,2463,CS Northridge,2001-03-01,63.96000776749432,included_game_day
+2001,2463,CS Northridge,2001-03-03,60.419194245589104,included_game_day
+2001,2463,CS Northridge,2001-03-09,68.23977805482681,included_game_day
+2001,2463,CS Northridge,2001-03-10,76.0355194892559,included_game_day
+2001,2463,CS Northridge,2001-03-16,59.980945004114716,included_game_day
+2002,2463,Cal State Northridge Matadors,2001-11-17,-13.0,included_game_day
+2002,2463,Cal State Northridge Matadors,2001-11-26,-46.4562,included_game_day
+2002,2463,Cal State Northridge Matadors,2001-12-01,-48.69858,included_game_day
+2002,2463,Cal State Northridge Matadors,2001-12-06,-61.203882,included_game_day
+2002,2463,Cal State Northridge Matadors,2001-12-08,-58.781966929999996,included_game_day
+2002,2463,Cal State Northridge Matadors,2001-12-16,-65.72509817699999,included_game_day
+2002,2463,Cal State Northridge Matadors,2001-12-20,-70.42843342929999,included_game_day
+2002,2463,Cal State Northridge Matadors,2001-12-22,-67.26474746148999,included_game_day
+2002,2463,Cal State Northridge Matadors,2001-12-27,-66.78571950379639,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-01-02,-77.50016548056472,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-01-05,-58.978790663663844,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-01-10,-54.21125641878938,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-01-12,-40.025756717133845,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-01-17,-23.252029105834943,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-01-19,-10.400636668844667,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-01-24,7.845561987520961,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-01-26,14.83754327815125,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-01-31,5.115898403153848,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-02-07,-6.264410756552808,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-02-09,-4.676676320755362,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-02-14,-2.5181990569222634,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-02-16,-19.998903068376244,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-02-21,-9.565934637059822,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-02-23,-2.716857488130696,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-02-28,6.137642331960242,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-03-02,16.70830269530663,included_game_day
+2002,2463,Cal State Northridge Matadors,2002-03-07,9.030714102667481,included_game_day
+2003,2463,Cal State Northridge Matadors,2002-11-22,-1.0,included_game_day
+2003,2463,Cal State Northridge Matadors,2002-11-24,8.1,included_game_day
+2003,2463,Cal State Northridge Matadors,2002-11-25,4.989999999999999,included_game_day
+2003,2463,Cal State Northridge Matadors,2002-12-01,22.927999999999997,included_game_day
+2003,2463,Cal State Northridge Matadors,2002-12-04,29.464199999999998,included_game_day
+2003,2463,Cal State Northridge Matadors,2002-12-14,45.710860589999996,included_game_day
+2003,2463,Cal State Northridge Matadors,2002-12-19,40.044445224899995,included_game_day
+2003,2463,Cal State Northridge Matadors,2002-12-22,30.639915177739994,included_game_day
+2003,2463,Cal State Northridge Matadors,2002-12-28,25.846364354530493,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-01-02,9.110378190796983,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-01-04,-5.328212093914464,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-01-11,-6.143887989014087,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-01-16,-20.06403729633019,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-01-18,1.0813948446320047,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-01-22,-1.9659757654959211,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-01-25,4.111548412553278,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-01-30,-13.627979343627713,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-02-01,-18.12760960422389,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-02-08,-8.117710450856693,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-02-13,-15.966949460595274,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-02-15,-20.98208033380684,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-02-20,-19.72556201486809,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-02-22,-17.86499657294176,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-02-27,-16.830183013458786,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-03-01,-14.150358392972798,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-03-06,-17.63473682464465,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-03-08,-6.884708626530379,included_game_day
+2003,2463,Cal State Northridge Matadors,2003-03-13,-5.081349726930606,included_game_day
+2004,2463,Cal State Northridge Matadors,2003-11-25,-7.7,included_game_day
+2004,2463,Cal State Northridge Matadors,2003-11-30,-11.43,included_game_day
+2004,2463,Cal State Northridge Matadors,2003-12-03,-3.7428,included_game_day
+2004,2463,Cal State Northridge Matadors,2003-12-06,-8.06815726,included_game_day
+2004,2463,Cal State Northridge Matadors,2003-12-19,-14.959100912599999,included_game_day
+2004,2463,Cal State Northridge Matadors,2003-12-22,1.31653184494,included_game_day
+2004,2463,Cal State Northridge Matadors,2003-12-30,21.2004968964063,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-01-03,26.51732185257162,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-01-05,14.95400951116606,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-01-08,-8.06163443298487,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-01-10,5.992638654525422,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-01-15,-0.9939139381580757,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-01-17,-16.66239012223865,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-01-22,-21.698658874788595,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-01-24,-17.177704149135998,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-01-31,-22.02764541632947,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-02-05,-17.742516790706166,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-02-07,-10.903200957222072,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-02-12,-25.090669828794212,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-02-14,-29.806437319992643,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-02-19,-16.799292461291568,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-02-21,-5.949878160554192,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-02-28,-2.8124141035966392,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-03-04,-8.890479007014722,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-03-06,-41.45055001338599,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-03-10,-32.49860681848301,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-03-11,-21.064731815579137,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-03-12,-5.597117960322398,included_game_day
+2004,2463,Cal State Northridge Matadors,2004-03-14,4.167542630044769,included_game_day
+2005,2463,Cal State Northridge Matadors,2004-11-20,-7.0,included_game_day
+2005,2463,Cal State Northridge Matadors,2004-11-23,-24.23,included_game_day
+2005,2463,Cal State Northridge Matadors,2004-11-26,-31.4,included_game_day
+2005,2463,Cal State Northridge Matadors,2004-11-27,-10.411999999999999,included_game_day
+2005,2463,Cal State Northridge Matadors,2004-11-30,-19.5758,included_game_day
+2005,2463,Cal State Northridge Matadors,2004-12-04,-10.884584610000001,included_game_day
+2005,2463,Cal State Northridge Matadors,2004-12-13,-17.665440140199998,included_game_day
+2005,2463,Cal State Northridge Matadors,2004-12-28,-20.51423677919171,included_game_day
+2005,2463,Cal State Northridge Matadors,2004-12-30,-10.191847772904158,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-01-02,7.575844125762792,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-01-06,24.737002867155837,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-01-08,37.64105822346085,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-01-13,32.7853385662289,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-01-15,38.23178147461565,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-01-20,22.882931244871546,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-01-22,21.186943910583707,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-01-27,19.265714921267055,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-01-29,37.50583501308787,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-02-03,25.077302611494158,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-02-05,38.076503637877664,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-02-10,33.337654926824044,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-02-12,34.56037718424981,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-02-16,39.17037392174653,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-02-19,41.20911109132181,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-02-26,36.8844696768745,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-02-28,50.62685128462873,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-03-03,49.767330943460564,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-03-05,49.38241598598842,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-03-10,56.87735414860994,included_game_day
+2005,2463,Cal State Northridge Matadors,2005-03-11,63.26069929848117,included_game_day
+2006,2463,Cal State Northridge Matadors,2005-11-20,8.0,included_game_day
+2006,2463,Cal State Northridge Matadors,2005-11-22,8.9,included_game_day
+2006,2463,Cal State Northridge Matadors,2005-11-25,-8.24,included_game_day
+2006,2463,Cal State Northridge Matadors,2005-11-26,-6.91609,included_game_day
+2006,2463,Cal State Northridge Matadors,2005-12-04,-26.8846504,included_game_day
+2006,2463,Cal State Northridge Matadors,2005-12-07,-35.4122907604,included_game_day
+2006,2463,Cal State Northridge Matadors,2005-12-17,-28.72762508868,included_game_day
+2006,2463,Cal State Northridge Matadors,2005-12-28,-40.35211684260014,included_game_day
+2006,2463,Cal State Northridge Matadors,2005-12-30,-45.85456628322993,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-01-07,-49.70958262650237,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-01-09,-40.10124660980274,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-01-13,-47.23629162160156,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-01-15,-50.86344287212341,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-01-19,-46.904724386564986,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-01-26,-29.03224091874912,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-01-28,-47.06499709536749,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-02-02,-65.892716097443,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-02-04,-75.73643974951187,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-02-09,-54.76012425386147,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-02-11,-67.40644894753032,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-02-14,-57.70169266854295,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-02-18,-60.89898512332051,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-02-22,-73.64363538562937,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-02-25,-65.83935559547645,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-03-02,-61.798741452651484,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-03-04,-66.92797630707065,included_game_day
+2006,2463,Cal State Northridge Matadors,2006-03-08,-66.35280697242445,included_game_day
+2007,2463,Cal State Northridge Matadors,2006-11-10,28.0,included_game_day
+2007,2463,Cal State Northridge Matadors,2006-11-11,18.1,included_game_day
+2007,2463,Cal State Northridge Matadors,2006-11-12,23.5,included_game_day
+2007,2463,Cal State Northridge Matadors,2006-11-18,20.032,included_game_day
+2007,2463,Cal State Northridge Matadors,2006-11-20,-0.6112000000000002,included_game_day
+2007,2463,Cal State Northridge Matadors,2006-11-25,-18.291050000000002,included_game_day
+2007,2463,Cal State Northridge Matadors,2006-12-03,-15.571946700000002,included_game_day
+2007,2463,Cal State Northridge Matadors,2006-12-09,-25.361414992100002,included_game_day
+2007,2463,Cal State Northridge Matadors,2006-12-16,-34.107942723694,included_game_day
+2007,2463,Cal State Northridge Matadors,2006-12-30,-36.82019769405092,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-01-04,-29.79205728663271,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-01-06,-25.9392758266001,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-01-11,-19.935747575066603,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-01-13,-9.721337645294643,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-01-18,-20.041232804028,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-01-21,-20.4366665623345,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-01-25,-33.489938377648144,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-01-27,-48.28231577003207,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-02-01,-42.29390144081931,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-02-03,-44.250200858021536,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-02-08,-32.055198904621626,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-02-10,-30.60556155154759,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-02-14,-27.44938130592454,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-02-17,-45.21355960459917,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-02-20,-48.87410441072244,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-02-24,-47.062270087275955,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-03-01,-52.745048530294625,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-03-03,-60.12715818163157,included_game_day
+2007,2463,Cal State Northridge Matadors,2007-03-07,-78.48243858448615,included_game_day
+2008,2463,Cal State Northridge Matadors,2007-11-10,8.0,included_game_day
+2008,2463,Cal State Northridge Matadors,2007-11-17,14.39,included_game_day
+2008,2463,Cal State Northridge Matadors,2007-11-21,21.8923,included_game_day
+2008,2463,Cal State Northridge Matadors,2007-11-28,33.838988,included_game_day
+2008,2463,Cal State Northridge Matadors,2007-11-30,18.5074512,included_game_day
+2008,2463,Cal State Northridge Matadors,2007-12-01,23.493964226,included_game_day
+2008,2463,Cal State Northridge Matadors,2007-12-05,30.2830338344,included_game_day
+2008,2463,Cal State Northridge Matadors,2007-12-08,11.8519403548,included_game_day
+2008,2463,Cal State Northridge Matadors,2007-12-22,1.66351350354536,included_game_day
+2008,2463,Cal State Northridge Matadors,2007-12-28,8.601589902459859,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-01-03,24.542255286789434,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-01-05,33.050592527415745,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-01-10,53.88888122318519,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-01-12,64.11177451369143,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-01-16,52.61415102044453,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-01-22,32.74362836408076,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-01-26,58.457831307167424,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-01-31,51.51612990579363,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-02-02,38.676666956931875,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-02-07,34.053159166826774,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-02-09,42.8023540667578,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-02-16,36.76119275408533,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-02-20,30.18534706484321,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-02-23,27.632881701611794,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-02-28,42.65122400227335,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-03-01,25.12080661441448,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-03-06,10.568387294485007,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-03-08,30.385293200326725,included_game_day
+2008,2463,Cal State Northridge Matadors,2008-03-14,18.596049492628403,included_game_day
+2009,2463,Cal State Northridge Matadors,2008-11-18,-13.9,included_game_day
+2009,2463,Cal State Northridge Matadors,2008-11-21,-14.08,included_game_day
+2009,2463,Cal State Northridge Matadors,2008-11-24,-14.6825,included_game_day
+2009,2463,Cal State Northridge Matadors,2008-11-29,-22.31899,included_game_day
+2009,2463,Cal State Northridge Matadors,2008-12-01,-27.730091,included_game_day
+2009,2463,Cal State Northridge Matadors,2008-12-07,-33.96187864,included_game_day
+2009,2463,Cal State Northridge Matadors,2008-12-09,-9.3912752771,included_game_day
+2009,2463,Cal State Northridge Matadors,2008-12-18,13.985774021166097,included_game_day
+2009,2463,Cal State Northridge Matadors,2008-12-22,5.376176200258518,included_game_day
+2009,2463,Cal State Northridge Matadors,2008-12-29,34.51030940285522,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-01-02,23.003918181267757,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-01-05,20.485204377101958,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-01-14,28.666198096701063,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-01-17,24.388433613526068,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-01-21,10.846008013108136,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-01-24,22.70669263605484,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-01-29,22.240517562714462,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-01-31,29.57612231881669,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-02-05,35.30839980971906,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-02-11,36.375508050643795,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-02-14,41.92429224882492,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-02-18,14.266818058396819,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-02-21,12.800454482457926,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-02-25,12.271059218404508,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-02-28,27.79860835070145,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-03-05,52.323996614134686,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-03-07,45.846866072385154,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-03-13,45.284823203261844,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-03-15,46.0274833338108,included_game_day
+2009,2463,Cal State Northridge Matadors,2009-03-19,52.287997847045105,included_game_day
+2010,2463,Cal State Northridge Matadors,2009-11-13,-22.0,included_game_day
+2010,2463,Cal State Northridge Matadors,2009-11-16,-37.8,included_game_day
+2010,2463,Cal State Northridge Matadors,2009-11-17,-32.43,included_game_day
+2010,2463,Cal State Northridge Matadors,2009-11-23,-27.394,included_game_day
+2010,2463,Cal State Northridge Matadors,2009-11-24,-14.97933,included_game_day
+2010,2463,Cal State Northridge Matadors,2009-11-30,-10.422397,included_game_day
+2010,2463,Cal State Northridge Matadors,2009-12-03,-6.4174872999999995,included_game_day
+2010,2463,Cal State Northridge Matadors,2009-12-06,-8.53699827,included_game_day
+2010,2463,Cal State Northridge Matadors,2009-12-08,-10.472818465,included_game_day
+2010,2463,Cal State Northridge Matadors,2009-12-18,-23.94268441042,included_game_day
+2010,2463,Cal State Northridge Matadors,2009-12-22,-50.209198087878,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-01-02,-49.946100333159634,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-01-04,-58.877982204381084,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-01-07,-63.5182720149982,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-01-11,-52.87904647522386,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-01-14,-40.34564050834862,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-01-16,-28.22289267350267,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-01-19,-34.86811017684699,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-01-23,-33.61926409295997,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-01-28,-36.80122055463983,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-01-30,-28.919187978957293,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-02-04,-13.017642585494777,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-02-06,-24.280736159100055,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-02-10,-28.016939811362306,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-02-13,-31.404812713194723,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-02-17,-33.33270801073534,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-02-20,-40.94469677546498,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-02-24,-36.08682421460176,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-02-27,-42.93782836583918,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-03-04,-39.99111285419264,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-03-06,-55.07863842279922,included_game_day
+2010,2463,Cal State Northridge Matadors,2010-03-10,-62.15797161509965,included_game_day
+2011,2463,Cal State Northridge Matadors,2010-11-12,-30.0,included_game_day
+2011,2463,Cal State Northridge Matadors,2010-11-16,-41.0,included_game_day
+2011,2463,Cal State Northridge Matadors,2010-11-25,-51.265,included_game_day
+2011,2463,Cal State Northridge Matadors,2010-11-26,-22.69909,included_game_day
+2011,2463,Cal State Northridge Matadors,2010-11-28,-34.6259941,included_game_day
+2011,2463,Cal State Northridge Matadors,2010-12-02,-35.27182343,included_game_day
+2011,2463,Cal State Northridge Matadors,2010-12-04,-35.598293727,included_game_day
+2011,2463,Cal State Northridge Matadors,2010-12-18,-29.7199127395693,included_game_day
+2011,2463,Cal State Northridge Matadors,2010-12-22,-50.5530052432394,included_game_day
+2011,2463,Cal State Northridge Matadors,2010-12-28,-58.77021880623635,included_game_day
+2011,2463,Cal State Northridge Matadors,2010-12-30,-49.68247149156088,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-01-05,-54.445364384147474,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-01-08,-59.177908034303115,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-01-13,-67.87739875705216,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-01-15,-42.765547524514176,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-01-19,-55.484681134162514,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-01-22,-39.71030930330918,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-01-27,-28.65914988205336,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-01-29,-20.832613781722422,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-02-03,-24.819164153333908,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-02-05,-18.996752296533238,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-02-10,-16.697859128142227,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-02-12,-31.21306723923938,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-02-16,-45.71733059998565,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-02-19,-34.14746342366884,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-02-24,-25.056506574301146,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-03-03,-37.57828183120482,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-03-05,-27.097670176981232,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-03-10,-7.174352250350005,included_game_day
+2011,2463,Cal State Northridge Matadors,2011-03-11,-25.711506965850102,included_game_day
+2012,2463,Cal State Northridge Matadors,2011-11-11,-4.0,included_game_day
+2012,2463,Cal State Northridge Matadors,2011-11-15,-19.6,included_game_day
+2012,2463,Cal State Northridge Matadors,2011-11-19,-54.84,included_game_day
+2012,2463,Cal State Northridge Matadors,2011-11-26,-70.17055620000001,included_game_day
+2012,2463,Cal State Northridge Matadors,2011-11-30,-72.42456058,included_game_day
+2012,2463,Cal State Northridge Matadors,2011-12-03,-75.565164822,included_game_day
+2012,2463,Cal State Northridge Matadors,2011-12-10,-63.6444902499,included_game_day
+2012,2463,Cal State Northridge Matadors,2011-12-22,-75.02996670384348,included_game_day
+2012,2463,Cal State Northridge Matadors,2011-12-29,-83.33019208972284,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-01-02,-66.28493311481064,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-01-07,-70.00056327062715,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-01-12,-93.69603140201869,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-01-14,-95.79130451170549,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-01-19,-88.67820750323611,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-01-21,-120.16790414519417,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-01-26,-112.06461584374024,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-01-28,-93.80640498167115,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-02-02,-100.77400243894105,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-02-04,-86.5002876861025,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-02-09,-94.93931270104233,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-02-11,-84.83481271502194,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-02-15,-67.53774370130046,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-02-18,-76.73717329121861,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-02-22,-79.14973876156205,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-02-25,-82.98595521465118,included_game_day
+2012,2463,Cal State Northridge Matadors,2012-02-29,-80.87607617416441,included_game_day
+2013,2463,Cal State Northridge Matadors,2012-11-09,3.0,included_game_day
+2013,2463,Cal State Northridge Matadors,2012-11-12,15.1,included_game_day
+2013,2463,Cal State Northridge Matadors,2012-11-15,19.689999999999998,included_game_day
+2013,2463,Cal State Northridge Matadors,2012-11-16,22.160999999999998,included_game_day
+2013,2463,Cal State Northridge Matadors,2012-11-17,38.599999999999994,included_game_day
+2013,2463,Cal State Northridge Matadors,2012-11-18,43.478289999999994,included_game_day
+2013,2463,Cal State Northridge Matadors,2012-11-24,31.562880999999994,included_game_day
+2013,2463,Cal State Northridge Matadors,2012-11-29,7.760257899999992,included_game_day
+2013,2463,Cal State Northridge Matadors,2012-12-08,4.291374043499993,included_game_day
+2013,2463,Cal State Northridge Matadors,2012-12-21,16.922459946474493,included_game_day
+2013,2463,Cal State Northridge Matadors,2012-12-30,15.67758398841635,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-01-03,-0.10582151862274536,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-01-05,-19.96680328321367,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-01-09,-28.031592247584527,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-01-12,-32.26502575975022,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-01-17,-38.7508561516265,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-01-19,-48.349878204801236,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-01-24,-38.730332752425454,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-01-26,-43.39581720373431,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-01-31,-30.392456813372448,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-02-02,-14.472578735334922,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-02-07,-7.544344348539929,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-02-09,-14.310735872995746,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-02-14,-16.761164818651604,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-02-16,-24.557364127109807,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-02-23,-28.21714281608098,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-02-28,-48.81478723817347,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-03-02,-61.696870927376196,included_game_day
+2013,2463,Cal State Northridge Matadors,2013-03-07,-46.46516698560275,included_game_day
+2014,2463,Cal State Northridge Matadors,2013-11-12,-14.0,included_game_day
+2014,2463,Cal State Northridge Matadors,2013-11-16,-26.740000000000002,included_game_day
+2014,2463,Cal State Northridge Matadors,2013-11-21,-26.503,included_game_day
+2014,2463,Cal State Northridge Matadors,2013-11-22,-24.36788,included_game_day
+2014,2463,Cal State Northridge Matadors,2013-11-23,-35.12964,included_game_day
+2014,2463,Cal State Northridge Matadors,2013-11-26,-46.77796,included_game_day
+2014,2463,Cal State Northridge Matadors,2013-12-03,-26.245431191,included_game_day
+2014,2463,Cal State Northridge Matadors,2013-12-05,-31.6535818452,included_game_day
+2014,2463,Cal State Northridge Matadors,2013-12-20,-29.5435740731,included_game_day
+2014,2463,Cal State Northridge Matadors,2013-12-22,-21.453312054131402,included_game_day
+2014,2463,Cal State Northridge Matadors,2013-12-27,-20.737920211277014,included_game_day
+2014,2463,Cal State Northridge Matadors,2013-12-30,-16.398284683575522,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-01-02,-20.54469965901393,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-01-09,-18.20959529406181,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-01-11,-15.306405402805032,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-01-16,-19.938745762209393,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-01-18,-26.75619698574085,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-01-23,-21.801793127628294,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-01-25,-32.21929120455351,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-01-30,-33.380657281480865,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-02-02,-36.9141982407841,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-02-06,-43.090638038484684,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-02-08,-38.3934344304986,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-02-13,-47.771293918941794,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-02-15,-31.581194348548703,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-02-18,-38.09845180308198,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-02-22,-27.210195554368163,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-02-27,-26.797532278047484,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-03-01,-27.81786647082623,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-03-06,-17.225201786054363,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-03-13,-11.184225479507905,included_game_day
+2014,2463,Cal State Northridge Matadors,2014-03-15,-5.163696823111776,included_game_day
+2015,2463,Cal State Northridge Matadors,2014-11-14,-18.0,included_game_day
+2015,2463,Cal State Northridge Matadors,2014-11-16,-29.2,included_game_day
+2015,2463,Cal State Northridge Matadors,2014-11-19,-26.83,included_game_day
+2015,2463,Cal State Northridge Matadors,2014-11-22,-20.473999999999997,included_game_day
+2015,2463,Cal State Northridge Matadors,2014-11-23,-23.492599999999996,included_game_day
+2015,2463,Cal State Northridge Matadors,2014-11-26,-31.389339999999997,included_game_day
+2015,2463,Cal State Northridge Matadors,2014-11-29,-38.579346,included_game_day
+2015,2463,Cal State Northridge Matadors,2014-12-02,-42.8773514,included_game_day
+2015,2463,Cal State Northridge Matadors,2014-12-04,-43.15171626,included_game_day
+2015,2463,Cal State Northridge Matadors,2014-12-17,-54.031989035995,included_game_day
+2015,2463,Cal State Northridge Matadors,2014-12-20,-64.8253288546505,included_game_day
+2015,2463,Cal State Northridge Matadors,2014-12-23,-66.67015692649194,included_game_day
+2015,2463,Cal State Northridge Matadors,2014-12-29,-62.473188145022746,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-01-02,-50.56572310899527,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-01-07,-50.53106916015537,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-01-10,-56.75986142906718,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-01-15,-33.005333741672075,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-01-17,-23.939929014720683,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-01-22,-54.26889235352145,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-01-24,-55.99505994010333,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-01-29,-63.5019087068216,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-01-31,-62.92012932260059,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-02-05,-75.3541084024724,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-02-07,-78.12950079525193,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-02-12,-73.08352958707378,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-02-14,-75.50470987157738,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-02-21,-69.51093163360406,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-02-26,-62.74592477496006,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-02-28,-54.8646053539055,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-03-05,-57.81713699599527,included_game_day
+2015,2463,Cal State Northridge Matadors,2015-03-12,-50.23309734873428,included_game_day
+2016,2463,Cal State Northridge Matadors,2015-11-13,-9.0,included_game_day
+2016,2463,Cal State Northridge Matadors,2015-11-14,-2.3,included_game_day
+2016,2463,Cal State Northridge Matadors,2015-11-15,-7.1,included_game_day
+2016,2463,Cal State Northridge Matadors,2015-11-23,-33.7263,included_game_day
+2016,2463,Cal State Northridge Matadors,2015-11-25,-31.491670000000003,included_game_day
+2016,2463,Cal State Northridge Matadors,2015-11-29,-58.2649716,included_game_day
+2016,2463,Cal State Northridge Matadors,2015-12-05,-71.84843762,included_game_day
+2016,2463,Cal State Northridge Matadors,2015-12-07,-68.503622054,included_game_day
+2016,2463,Cal State Northridge Matadors,2015-12-17,-55.252717214805905,included_game_day
+2016,2463,Cal State Northridge Matadors,2015-12-23,-68.91264829563531,included_game_day
+2016,2463,Cal State Northridge Matadors,2015-12-29,-69.09034510758778,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-01-02,-59.8676198463979,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-01-06,-71.59723017148114,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-01-09,-52.85453971141595,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-01-14,-50.60999836955364,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-01-16,-56.36640296839712,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-01-21,-52.91811789606807,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-01-23,-56.720409415229476,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-01-27,-58.27261455853779,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-02-03,-49.07427431785669,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-02-06,-41.461043985218225,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-02-10,-37.87104965409262,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-02-13,-37.81494843749924,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-02-18,-33.72554238858205,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-02-20,-25.47085706123878,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-02-25,-38.10580386162607,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-02-27,-35.50906997711275,included_game_day
+2016,2463,Cal State Northridge Matadors,2016-03-05,-41.72694742520286,included_game_day
+2017,2463,Cal State Northridge Matadors,2016-11-13,-8.4,included_game_day
+2017,2463,Cal State Northridge Matadors,2016-11-15,-30.560000000000002,included_game_day
+2017,2463,Cal State Northridge Matadors,2016-11-19,-27.494,included_game_day
+2017,2463,Cal State Northridge Matadors,2016-11-24,-43.2606,included_game_day
+2017,2463,Cal State Northridge Matadors,2016-11-25,-54.08537,included_game_day
+2017,2463,Cal State Northridge Matadors,2016-11-27,-66.48212699999999,included_game_day
+2017,2463,Cal State Northridge Matadors,2016-12-03,-64.52073985,included_game_day
+2017,2463,Cal State Northridge Matadors,2016-12-05,-59.2243955362,included_game_day
+2017,2463,Cal State Northridge Matadors,2016-12-10,-58.04015574079,included_game_day
+2017,2463,Cal State Northridge Matadors,2016-12-21,-62.971154886471,included_game_day
+2017,2463,Cal State Northridge Matadors,2016-12-29,-49.0579551617143,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-01-04,-48.1549280012628,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-01-07,-39.79292867603775,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-01-11,-33.349688166052026,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-01-14,-37.32237268477615,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-01-18,-40.427372539344056,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-01-21,-68.4749633174028,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-01-25,-46.399998474031214,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-01-28,-38.8931736807782,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-02-01,-34.47853209842418,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-02-04,-42.72212629111274,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-02-11,-33.421326049344344,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-02-15,-55.01899628365929,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-02-23,-59.60244092272289,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-02-25,-51.81885271744462,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-03-02,-55.456961947563315,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-03-04,-64.44776321838017,included_game_day
+2017,2463,Cal State Northridge Matadors,2017-03-09,-73.64040423503366,included_game_day
+2018,2463,Cal State Northridge Matadors,2017-11-13,-13.0,included_game_day
+2018,2463,Cal State Northridge Matadors,2017-11-18,-13.574,included_game_day
+2018,2463,Cal State Northridge Matadors,2017-11-21,-28.1446,included_game_day
+2018,2463,Cal State Northridge Matadors,2017-11-22,-31.94118,included_game_day
+2018,2463,Cal State Northridge Matadors,2017-11-28,-47.587443,included_game_day
+2018,2463,Cal State Northridge Matadors,2017-12-03,-60.11471145,included_game_day
+2018,2463,Cal State Northridge Matadors,2017-12-06,-64.217438505,included_game_day
+2018,2463,Cal State Northridge Matadors,2017-12-09,-79.2180115063,included_game_day
+2018,2463,Cal State Northridge Matadors,2017-12-17,-97.81827833003837,included_game_day
+2018,2463,Cal State Northridge Matadors,2017-12-19,-97.11180228692453,included_game_day
+2018,2463,Cal State Northridge Matadors,2017-12-23,-105.70195398971718,included_game_day
+2018,2463,Cal State Northridge Matadors,2017-12-30,-94.72389271082199,included_game_day
+2018,2463,Cal State Northridge Matadors,2018-01-06,-108.77138718059636,included_game_day
+2018,2463,Cal State Northridge Matadors,2018-01-10,-111.6413153516099,included_game_day
+2018,2463,Cal State Northridge Matadors,2018-01-13,-123.47663107092251,included_game_day
+2018,2463,Cal State Northridge Matadors,2018-01-17,-105.3923709460514,included_game_day
+2018,2463,Cal State Northridge Matadors,2018-01-20,-86.19887192453274,included_game_day
+2018,2463,Cal State Northridge Matadors,2018-01-25,-81.12291793562468,included_game_day
+2018,2463,Cal State Northridge Matadors,2018-01-27,-82.86915620866384,included_game_day
+2018,2463,Cal State Northridge Matadors,2018-02-01,-83.5061633729733,included_game_day
+2018,2463,Cal State Northridge Matadors,2018-02-03,-92.82047953238828,included_game_day
+2018,2463,Cal State Northridge Matadors,2018-02-07,-99.5312032143357,included_game_day
+2018,2463,Cal State Northridge Matadors,2018-02-10,-84.18330700920845,included_game_day
+2018,2463,Cal State Northridge Matadors,2018-02-14,-94.91539420430753,included_game_day
+2018,2463,Cal State Northridge Matadors,2018-02-17,-100.84275079210863,included_game_day
+2018,2463,Cal State Northridge Matadors,2018-02-22,-102.9391756482804,included_game_day
+2018,2463,Cal State Northridge Matadors,2018-02-24,-103.30923585074058,included_game_day
+2018,2463,Cal State Northridge Matadors,2018-02-28,-122.36053981605674,included_game_day
+2019,2463,Cal State Northridge Matadors,2018-11-06,-6.0,included_game_day
+2019,2463,Cal State Northridge Matadors,2018-11-13,-16.0,included_game_day
+2019,2463,Cal State Northridge Matadors,2018-11-17,-22.25,included_game_day
+2019,2463,Cal State Northridge Matadors,2018-11-20,-22.285,included_game_day
+2019,2463,Cal State Northridge Matadors,2018-11-27,-23.096657,included_game_day
+2019,2463,Cal State Northridge Matadors,2018-12-01,-45.155236474,included_game_day
+2019,2463,Cal State Northridge Matadors,2018-12-03,-28.3436201266,included_game_day
+2019,2463,Cal State Northridge Matadors,2018-12-09,-32.39734844274,included_game_day
+2019,2463,Cal State Northridge Matadors,2018-12-16,-33.830147178114196,included_game_day
+2019,2463,Cal State Northridge Matadors,2018-12-19,-56.0404408109316,included_game_day
+2019,2463,Cal State Northridge Matadors,2018-12-22,-51.26212288454507,included_game_day
+2019,2463,Cal State Northridge Matadors,2018-12-23,-45.43360791788099,included_game_day
+2019,2463,Cal State Northridge Matadors,2018-12-29,-41.48149404474521,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-01-01,-38.8554079895126,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-01-05,-37.85303986371947,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-01-09,-35.33063830236289,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-01-12,-31.265924050817276,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-01-17,-35.823907047629575,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-01-19,-39.62062455831277,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-01-23,-25.933652141814548,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-01-30,-26.628773994512407,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-02-02,-16.23204883264078,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-02-06,-13.854743275830934,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-02-13,-28.00341732682356,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-02-16,-33.593570670033145,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-02-20,-33.025871141767475,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-02-23,-27.981022534402754,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-02-27,-35.41447744523184,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-03-03,-19.62810583837072,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-03-07,-21.770423955747297,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-03-09,-18.61690507761581,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-03-14,-18.650426677085296,included_game_day
+2019,2463,Cal State Northridge Matadors,2019-03-19,-15.096550344512952,included_game_day
+2020,2463,Cal State Northridge Matadors,2019-11-05,-17.0,included_game_day
+2020,2463,Cal State Northridge Matadors,2019-11-09,-39.3,included_game_day
+2020,2463,Cal State Northridge Matadors,2019-11-12,-51.379999999999995,included_game_day
+2020,2463,Cal State Northridge Matadors,2019-11-15,-87.42599999999999,included_game_day
+2020,2463,Cal State Northridge Matadors,2019-11-17,-103.95339999999999,included_game_day
+2020,2463,Cal State Northridge Matadors,2019-11-24,-105.42499999999998,included_game_day
+2020,2463,Cal State Northridge Matadors,2019-11-25,-96.43964999999999,included_game_day
+2020,2463,Cal State Northridge Matadors,2019-11-30,-90.50886879999999,included_game_day
+2020,2463,Cal State Northridge Matadors,2019-12-04,-69.41249332999999,included_game_day
+2020,2463,Cal State Northridge Matadors,2019-12-06,-65.04208319199999,included_game_day
+2020,2463,Cal State Northridge Matadors,2019-12-11,-69.08392599680599,included_game_day
+2020,2463,Cal State Northridge Matadors,2019-12-15,-61.58229747989539,included_game_day
+2020,2463,Cal State Northridge Matadors,2019-12-28,-80.7757450923117,included_game_day
+2020,2463,Cal State Northridge Matadors,2019-12-31,-71.03891254513573,included_game_day
+2020,2463,Cal State Northridge Matadors,2020-01-08,-60.60727287807011,included_game_day
+2020,2463,Cal State Northridge Matadors,2020-01-11,-79.53441071054975,included_game_day
+2020,2463,Cal State Northridge Matadors,2020-01-16,-58.764567788834114,included_game_day
+2020,2463,Cal State Northridge Matadors,2020-01-18,-61.795651909759,included_game_day
+2020,2463,Cal State Northridge Matadors,2020-01-22,-43.61411728240251,included_game_day
+2020,2463,Cal State Northridge Matadors,2020-01-25,-47.9577251945552,included_game_day
+2020,2463,Cal State Northridge Matadors,2020-01-30,-35.195018627520525,included_game_day
+2020,2463,Cal State Northridge Matadors,2020-02-02,-33.79203990376441,included_game_day
+2020,2463,Cal State Northridge Matadors,2020-02-08,-34.81496100803333,included_game_day
+2020,2463,Cal State Northridge Matadors,2020-02-13,-33.77414660981861,included_game_day
+2020,2463,Cal State Northridge Matadors,2020-02-15,-40.71717026972393,included_game_day
+2020,2463,Cal State Northridge Matadors,2020-02-22,-58.125665198186546,included_game_day
+2020,2463,Cal State Northridge Matadors,2020-02-26,-49.140697080690245,included_game_day
+2020,2463,Cal State Northridge Matadors,2020-02-29,-47.181978636763596,included_game_day
+2020,2463,Cal State Northridge Matadors,2020-03-04,-31.44101450197886,included_game_day
+2020,2463,Cal State Northridge Matadors,2020-03-07,-30.733156304202645,included_game_day
+2021,2463,Cal State Northridge Matadors,2020-11-28,-5.0,included_game_day
+2021,2463,Cal State Northridge Matadors,2020-11-30,9.7,included_game_day
+2021,2463,Cal State Northridge Matadors,2020-12-12,17.679147999999998,included_game_day
+2021,2463,Cal State Northridge Matadors,2020-12-15,5.3767131999999975,included_game_day
+2021,2463,Cal State Northridge Matadors,2020-12-19,-24.74413068,included_game_day
+2021,2463,Cal State Northridge Matadors,2020-12-28,-22.269717612,included_game_day
+2021,2463,Cal State Northridge Matadors,2021-01-16,-18.53728740442992,included_game_day
+2021,2463,Cal State Northridge Matadors,2021-01-17,-24.551343238373857,included_game_day
+2021,2463,Cal State Northridge Matadors,2021-01-22,-67.31429817714029,included_game_day
+2021,2463,Cal State Northridge Matadors,2021-01-23,-68.52466212815342,included_game_day
+2021,2463,Cal State Northridge Matadors,2021-01-29,-75.59349941387762,included_game_day
+2021,2463,Cal State Northridge Matadors,2021-01-30,-62.24856924245699,included_game_day
+2021,2463,Cal State Northridge Matadors,2021-02-05,-57.87950871558273,included_game_day
+2021,2463,Cal State Northridge Matadors,2021-02-06,-69.38426029408332,included_game_day
+2021,2463,Cal State Northridge Matadors,2021-02-19,-65.7972492470162,included_game_day
+2021,2463,Cal State Northridge Matadors,2021-02-20,-53.9276404093625,included_game_day
+2021,2463,Cal State Northridge Matadors,2021-02-26,-68.77941442285345,included_game_day
+2021,2463,Cal State Northridge Matadors,2021-02-27,-51.660833633646206,included_game_day
+2021,2463,Cal State Northridge Matadors,2021-03-05,-46.240719325344585,included_game_day
+2021,2463,Cal State Northridge Matadors,2021-03-06,-38.904627878703295,included_game_day
+2021,2463,Cal State Northridge Matadors,2021-03-09,-62.46008762231502,included_game_day
+2022,2463,Cal State Northridge Matadors,2021-11-09,-37.0,included_game_day
+2022,2463,Cal State Northridge Matadors,2021-11-13,-46.3,included_game_day
+2022,2463,Cal State Northridge Matadors,2021-11-19,-49.19,included_game_day
+2022,2463,Cal State Northridge Matadors,2021-11-20,-45.541,included_game_day
+2022,2463,Cal State Northridge Matadors,2021-11-28,-32.287631399999995,included_game_day
+2022,2463,Cal State Northridge Matadors,2021-12-04,-40.335069749999995,included_game_day
+2022,2463,Cal State Northridge Matadors,2021-12-07,-63.702976326299996,included_game_day
+2022,2463,Cal State Northridge Matadors,2021-12-10,-73.91387883936599,included_game_day
+2022,2463,Cal State Northridge Matadors,2021-12-18,-70.31172592836239,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-01-01,-70.2461617670379,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-01-08,-58.057435192670376,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-01-13,-63.08356568163571,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-01-15,-75.39872661752804,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-01-20,-88.92453382954668,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-01-22,-92.94558809358551,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-01-25,-114.92527741396958,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-01-27,-104.73907034142192,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-02-03,-108.75660458937828,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-02-05,-104.04512465190443,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-02-10,-93.52312924717445,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-02-12,-80.55902210640174,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-02-17,-86.02357206142146,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-02-19,-87.11015457701852,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-02-24,-99.1606479116162,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-02-26,-107.50963018995958,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-03-01,-98.57118703098185,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-03-05,-113.73985632676047,included_game_day
+2022,2463,Cal State Northridge Matadors,2022-03-08,-122.23231261322637,included_game_day
+2023,2463,Cal State Northridge Matadors,2022-11-12,-4.0,included_game_day
+2023,2463,Cal State Northridge Matadors,2022-11-15,-8.030000000000001,included_game_day
+2023,2463,Cal State Northridge Matadors,2022-11-21,-7.193000000000001,included_game_day
+2023,2463,Cal State Northridge Matadors,2022-11-23,-23.735390000000002,included_game_day
+2023,2463,Cal State Northridge Matadors,2022-11-29,-22.564926,included_game_day
+2023,2463,Cal State Northridge Matadors,2022-12-07,-26.626272819,included_game_day
+2023,2463,Cal State Northridge Matadors,2022-12-10,-37.9089043723,included_game_day
+2023,2463,Cal State Northridge Matadors,2022-12-19,-40.1891638767097,included_game_day
+2023,2463,Cal State Northridge Matadors,2022-12-22,-34.660843348290456,included_game_day
+2023,2463,Cal State Northridge Matadors,2022-12-29,-43.24318874058503,included_game_day
+2023,2463,Cal State Northridge Matadors,2022-12-31,-50.811764713271344,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-01-05,-61.218117399488904,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-01-07,-76.41934469406131,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-01-11,-79.5749940757026,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-01-14,-85.62598840976733,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-01-16,-77.8472385893695,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-01-19,-81.41935845748992,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-01-21,-71.2233820048353,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-01-26,-80.71377352880893,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-01-28,-91.5620668773594,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-02-04,-75.57182216477953,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-02-09,-86.4030703439472,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-02-11,-77.3690032532161,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-02-15,-76.6211086109699,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-02-18,-84.92993436562391,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-02-20,-98.33505664731945,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-02-23,-90.33444859288268,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-02-25,-85.05918479647767,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-03-02,-103.78425840396694,included_game_day
+2023,2463,Cal State Northridge Matadors,2023-03-07,-103.79474603570326,included_game_day
+2024,2463,Cal State Northridge Matadors,2023-11-06,-6.0,included_game_day
+2024,2463,Cal State Northridge Matadors,2023-11-09,-1.5999999999999996,included_game_day
+2024,2463,Cal State Northridge Matadors,2023-11-14,9.847,included_game_day
+2024,2463,Cal State Northridge Matadors,2023-11-21,-10.944440000000002,included_game_day
+2024,2463,Cal State Northridge Matadors,2023-11-24,10.127514999999997,included_game_day
+2024,2463,Cal State Northridge Matadors,2023-11-29,17.607975389999996,included_game_day
+2024,2463,Cal State Northridge Matadors,2023-12-02,11.993015028099997,included_game_day
+2024,2463,Cal State Northridge Matadors,2023-12-11,11.595417104251997,included_game_day
+2024,2463,Cal State Northridge Matadors,2023-12-19,20.048505079249196,included_game_day
+2024,2463,Cal State Northridge Matadors,2023-12-22,23.916303150517045,included_game_day
+2024,2463,Cal State Northridge Matadors,2023-12-28,28.275974507271968,included_game_day
+2024,2463,Cal State Northridge Matadors,2023-12-30,46.98593971470732,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-01-06,50.146982692395206,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-01-11,30.963886592453445,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-01-13,25.39932709460817,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-01-18,-8.646890285634324,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-01-20,-29.569882886907966,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-01-25,-39.975332664584386,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-01-27,-29.785039665161882,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-02-01,-37.26408939784274,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-02-03,-34.48335989482743,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-02-08,-31.309850464971113,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-02-10,-15.641687723129657,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-02-15,-9.409108743975542,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-02-17,-24.05589881905165,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-02-22,-26.661390486822057,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-02-24,-18.560968771829483,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-02-29,-37.88364600288212,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-03-02,-42.330926473544224,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-03-06,-35.41240094152208,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-03-13,-31.84843389577025,included_game_day
+2024,2463,Cal State Northridge Matadors,2024-03-14,-33.319219384130946,included_game_day
+2025,2463,Cal State Northridge Matadors,2024-11-04,-11.0,included_game_day
+2025,2463,Cal State Northridge Matadors,2024-11-06,15.0,included_game_day
+2025,2463,Cal State Northridge Matadors,2024-11-16,25.5827,included_game_day
+2025,2463,Cal State Northridge Matadors,2024-11-24,26.822057,included_game_day
+2025,2463,Cal State Northridge Matadors,2024-11-25,49.8361113,included_game_day
+2025,2463,Cal State Northridge Matadors,2024-11-27,35.6853353,included_game_day
+2025,2463,Cal State Northridge Matadors,2024-11-30,40.4364898,included_game_day
+2025,2463,Cal State Northridge Matadors,2024-12-05,25.341824308999996,included_game_day
+2025,2463,Cal State Northridge Matadors,2024-12-07,35.679973196,included_game_day
+2025,2463,Cal State Northridge Matadors,2024-12-18,17.8102571214778,included_game_day
+2025,2463,Cal State Northridge Matadors,2024-12-21,22.398671527694322,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-01-02,46.57993058952163,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-01-04,45.54640140798212,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-01-09,35.30599238702162,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-01-11,27.813703647863626,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-01-16,51.366066936594706,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-01-23,43.94948522553355,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-01-25,27.902309756002303,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-01-30,35.142516823116964,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-02-01,49.683164364381454,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-02-06,50.2093841381445,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-02-08,38.77050385691437,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-02-15,32.31762401716518,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-02-20,50.72368223917724,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-02-22,48.888615970590955,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-02-27,51.6438652297047,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-03-01,72.01628715954601,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-03-06,53.660650257126605,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-03-08,48.28554119144831,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-03-13,37.50918296197638,included_game_day
+2025,2463,Cal State Northridge Matadors,2025-03-18,24.266023349842428,included_game_day
+2026,2463,Cal State Northridge Matadors,2025-11-06,-26.0,included_game_day
+2026,2463,Cal State Northridge Matadors,2025-11-09,-15.44,included_game_day
+2026,2463,Cal State Northridge Matadors,2025-11-11,-33.705999999999996,included_game_day
+2026,2463,Cal State Northridge Matadors,2025-11-16,-23.76994,included_game_day
+2026,2463,Cal State Northridge Matadors,2025-11-26,-35.407256,included_game_day
+2026,2463,Cal State Northridge Matadors,2025-11-28,-65.00675369999999,included_game_day
+2026,2463,Cal State Northridge Matadors,2025-12-04,-43.61732702999999,included_game_day
+2026,2463,Cal State Northridge Matadors,2025-12-06,-48.876381272779994,included_game_day
+2026,2463,Cal State Northridge Matadors,2025-12-10,-44.69849360756199,included_game_day
+2026,2463,Cal State Northridge Matadors,2025-12-13,-16.965073425926793,included_game_day
+2026,2463,Cal State Northridge Matadors,2025-12-22,-11.97905211844448,included_game_day
+2026,2463,Cal State Northridge Matadors,2025-12-27,-9.439489322877858,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-01-01,-15.091645135480055,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-01-03,-7.5409144205073755,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-01-08,-9.136020597877412,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-01-10,-14.038492027775465,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-01-15,-2.3592332731394254,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-01-17,-16.147828332595942,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-01-24,-25.49998400295622,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-01-29,-11.12459496811722,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-01-31,5.217197742893509,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-02-05,3.245389992461389,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-02-07,6.250047587388018,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-02-14,32.70762532548565,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-02-19,37.32428556866635,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-02-21,32.66301678280489,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-02-26,29.56338656606949,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-02-28,13.00040834119008,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-03-05,3.5393135855300066,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-03-07,-14.83608532990759,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-03-12,-1.402804673293586,included_game_day
+2026,2463,Cal State Northridge Matadors,2026-03-13,-10.520152699865326,included_game_day
+2027,2463,Cal State Northridge Matadors,2026-11-04,-9.0,included_game_day
+2027,2463,Cal State Northridge Matadors,2026-11-06,-22.6,included_game_day
+2027,2463,Cal State Northridge Matadors,2026-11-17,-30.563900000000004,included_game_day
+2027,2463,Cal State Northridge Matadors,2026-11-20,-37.30397000000001,included_game_day

@@ -1,0 +1,1108 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,2501,Portland,1987-11-28,-8.0,included_game_day
+1988,2501,Portland,1987-12-02,-23.6,included_game_day
+1988,2501,Portland,1987-12-05,-34.314,included_game_day
+1988,2501,Portland,1987-12-10,-47.2926,included_game_day
+1988,2501,Portland,1987-12-12,-61.04368,included_game_day
+1988,2501,Portland,1987-12-22,-61.424412000000004,included_game_day
+1988,2501,Portland,1987-12-26,-89.8116357013383,included_game_day
+1988,2501,Portland,1987-12-27,-79.11074904420447,included_game_day
+1988,2501,Portland,1987-12-28,-74.8853833797078,included_game_day
+1988,2501,Portland,1988-01-02,-72.01146375824621,included_game_day
+1988,2501,Portland,1988-01-15,-78.2266781186834,included_game_day
+1988,2501,Portland,1988-01-16,-79.50922603000073,included_game_day
+1988,2501,Portland,1988-01-21,-91.22576141999528,included_game_day
+1988,2501,Portland,1988-01-23,-93.2590682782981,included_game_day
+1988,2501,Portland,1988-01-29,-86.88571376494035,included_game_day
+1988,2501,Portland,1988-01-30,-64.88506031055613,included_game_day
+1988,2501,Portland,1988-02-04,-73.14399434451185,included_game_day
+1988,2501,Portland,1988-02-06,-67.38890001138446,included_game_day
+1988,2501,Portland,1988-02-11,-86.78482454488255,included_game_day
+1988,2501,Portland,1988-02-13,-87.35205693565713,included_game_day
+1988,2501,Portland,1988-02-17,-84.59485499862728,included_game_day
+1988,2501,Portland,1988-02-20,-83.38909344900341,included_game_day
+1988,2501,Portland,1988-02-25,-80.78525272449255,included_game_day
+1988,2501,Portland,1988-02-27,-79.40496444332611,included_game_day
+1988,2501,Portland,1988-03-05,-63.920816479757775,included_game_day
+1989,2501,Portland,1988-11-26,-44.0,included_game_day
+1989,2501,Portland,1988-11-28,-54.43,included_game_day
+1989,2501,Portland,1988-12-01,-58.887,included_game_day
+1989,2501,Portland,1988-12-06,-66.3983,included_game_day
+1989,2501,Portland,1988-12-09,-66.28160000000001,included_game_day
+1989,2501,Portland,1988-12-10,-82.96024770000001,included_game_day
+1989,2501,Portland,1988-12-17,-82.97089743000001,included_game_day
+1989,2501,Portland,1988-12-19,-96.380103187,included_game_day
+1989,2501,Portland,1988-12-22,-108.5187628683,included_game_day
+1989,2501,Portland,1988-12-29,-106.0627094758085,included_game_day
+1989,2501,Portland,1988-12-30,-111.08703698439874,included_game_day
+1989,2501,Portland,1989-01-09,-122.4579697023265,included_game_day
+1989,2501,Portland,1989-01-13,-120.69979225695012,included_game_day
+1989,2501,Portland,1989-01-14,-107.0586298780331,included_game_day
+1989,2501,Portland,1989-01-20,-100.31004134512445,included_game_day
+1989,2501,Portland,1989-01-21,-100.06195252866334,included_game_day
+1989,2501,Portland,1989-01-25,-105.71119125405872,included_game_day
+1989,2501,Portland,1989-01-28,-110.23058223437502,included_game_day
+1989,2501,Portland,1989-02-03,-118.3516736519541,included_game_day
+1989,2501,Portland,1989-02-04,-108.30352433348578,included_game_day
+1989,2501,Portland,1989-02-10,-100.26500487871112,included_game_day
+1989,2501,Portland,1989-02-11,-90.44868932239716,included_game_day
+1989,2501,Portland,1989-02-17,-123.8564034938718,included_game_day
+1989,2501,Portland,1989-02-18,-122.88466999821486,included_game_day
+1989,2501,Portland,1989-02-24,-143.4365287286761,included_game_day
+1989,2501,Portland,1989-02-25,-140.6391884910056,included_game_day
+1989,2501,Portland,1989-03-04,-151.40131630086918,included_game_day
+1990,2501,Portland,1989-11-24,-20.0,included_game_day
+1990,2501,Portland,1989-11-27,-16.0,included_game_day
+1990,2501,Portland,1989-11-29,-31.4,included_game_day
+1990,2501,Portland,1989-12-01,-64.25999999999999,included_game_day
+1990,2501,Portland,1989-12-02,-73.61599999999999,included_game_day
+1990,2501,Portland,1989-12-06,-70.03539999999998,included_game_day
+1990,2501,Portland,1989-12-09,-62.29059299999999,included_game_day
+1990,2501,Portland,1989-12-15,-75.2666491167,included_game_day
+1990,2501,Portland,1989-12-19,-93.16843255503,included_game_day
+1990,2501,Portland,1989-12-22,-95.58896125532699,included_game_day
+1990,2501,Portland,1989-12-23,-106.28767637479429,included_game_day
+1990,2501,Portland,1990-01-02,-99.83805927932721,included_game_day
+1990,2501,Portland,1990-01-11,-98.62541044473603,included_game_day
+1990,2501,Portland,1990-01-13,-84.2029781962979,included_game_day
+1990,2501,Portland,1990-01-19,-70.08476269181553,included_game_day
+1990,2501,Portland,1990-01-20,-74.91863439622938,included_game_day
+1990,2501,Portland,1990-01-25,-82.78573175976047,included_game_day
+1990,2501,Portland,1990-01-27,-64.26082866129873,included_game_day
+1990,2501,Portland,1990-02-01,-76.0808024029003,included_game_day
+1990,2501,Portland,1990-02-03,-84.70154659923602,included_game_day
+1990,2501,Portland,1990-02-08,-60.34817168571418,included_game_day
+1990,2501,Portland,1990-02-10,-61.36850438613696,included_game_day
+1990,2501,Portland,1990-02-14,-57.007990586746764,included_game_day
+1990,2501,Portland,1990-02-17,-47.519579547234606,included_game_day
+1990,2501,Portland,1990-02-23,-57.938440975084404,included_game_day
+1990,2501,Portland,1990-02-24,-46.10572303557729,included_game_day
+1990,2501,Portland,1990-03-03,-46.54513635719131,included_game_day
+1991,2501,Portland,1990-11-24,-32.0,included_game_day
+1991,2501,Portland,1990-11-26,-33.02,included_game_day
+1991,2501,Portland,1990-11-29,-38.718,included_game_day
+1991,2501,Portland,1990-12-08,-44.475464,included_game_day
+1991,2501,Portland,1990-12-15,-40.18520056,included_game_day
+1991,2501,Portland,1990-12-18,-39.127011554999996,included_game_day
+1991,2501,Portland,1990-12-20,-37.8990610595,included_game_day
+1991,2501,Portland,1990-12-22,-57.056274942550004,included_game_day
+1991,2501,Portland,1990-12-29,-65.4319591347769,included_game_day
+1991,2501,Portland,1990-12-31,-64.2012718456592,included_game_day
+1991,2501,Portland,1991-01-05,-76.3348460947894,included_game_day
+1991,2501,Portland,1991-01-07,-63.314454236035765,included_game_day
+1991,2501,Portland,1991-01-11,-63.52210964593934,included_game_day
+1991,2501,Portland,1991-01-12,-53.6662650602001,included_game_day
+1991,2501,Portland,1991-01-16,-47.1775796303225,included_game_day
+1991,2501,Portland,1991-01-19,-39.98663128642042,included_game_day
+1991,2501,Portland,1991-01-24,-41.2917488785417,included_game_day
+1991,2501,Portland,1991-01-26,-38.41780813545279,included_game_day
+1991,2501,Portland,1991-01-31,-56.118655540981656,included_game_day
+1991,2501,Portland,1991-02-02,-81.17331993081405,included_game_day
+1991,2501,Portland,1991-02-07,-88.31034281124164,included_game_day
+1991,2501,Portland,1991-02-09,-115.16605250013808,included_game_day
+1991,2501,Portland,1991-02-15,-119.65062025125522,included_game_day
+1991,2501,Portland,1991-02-16,-121.847518856173,included_game_day
+1991,2501,Portland,1991-02-21,-124.96461240142733,included_game_day
+1991,2501,Portland,1991-02-23,-115.65924801703463,included_game_day
+1991,2501,Portland,1991-03-02,-131.40448186094093,included_game_day
+1992,2501,Portland,1991-11-26,11.0,included_game_day
+1992,2501,Portland,1991-11-30,0.16000000000000014,included_game_day
+1992,2501,Portland,1991-12-04,-18.17927,included_game_day
+1992,2501,Portland,1991-12-07,-25.003248,included_game_day
+1992,2501,Portland,1991-12-14,-31.1072027,included_game_day
+1992,2501,Portland,1991-12-22,-20.20233021,included_game_day
+1992,2501,Portland,1992-01-04,2.2185819480186133,included_game_day
+1992,2501,Portland,1992-01-05,10.451260256229851,included_game_day
+1992,2501,Portland,1992-01-08,13.54445997689676,included_game_day
+1992,2501,Portland,1992-01-11,7.705447899097533,included_game_day
+1992,2501,Portland,1992-01-16,3.2390767465751367,included_game_day
+1992,2501,Portland,1992-01-18,-16.37357144079443,included_game_day
+1992,2501,Portland,1992-01-23,-26.064349525741044,included_game_day
+1992,2501,Portland,1992-01-25,-28.22074396569471,included_game_day
+1992,2501,Portland,1992-01-29,-33.62378679707961,included_game_day
+1992,2501,Portland,1992-02-01,-32.94622106218753,included_game_day
+1992,2501,Portland,1992-02-06,-26.466573876713376,included_game_day
+1992,2501,Portland,1992-02-08,-24.793647435229715,included_game_day
+1992,2501,Portland,1992-02-14,-38.455306282042784,included_game_day
+1992,2501,Portland,1992-02-15,-47.109271899910524,included_game_day
+1992,2501,Portland,1992-02-20,-56.43127807604399,included_game_day
+1992,2501,Portland,1992-02-22,-58.307042444561475,included_game_day
+1992,2501,Portland,1992-02-28,-62.209777585561206,included_game_day
+1992,2501,Portland,1992-02-29,-59.271830038034736,included_game_day
+1992,2501,Portland,1992-03-07,-59.71016761585807,included_game_day
+1993,2501,Portland,1992-12-01,-6.0,included_game_day
+1993,2501,Portland,1992-12-07,13.759,included_game_day
+1993,2501,Portland,1992-12-12,0.4580000000000002,included_game_day
+1993,2501,Portland,1992-12-19,-28.1378,included_game_day
+1993,2501,Portland,1992-12-21,-53.07042594,included_game_day
+1993,2501,Portland,1992-12-30,-47.5201681515,included_game_day
+1993,2501,Portland,1993-01-02,-65.236007840112,included_game_day
+1993,2501,Portland,1993-01-05,-54.17009526262336,included_game_day
+1993,2501,Portland,1993-01-09,-61.76335214765103,included_game_day
+1993,2501,Portland,1993-01-11,-61.73774711398437,included_game_day
+1993,2501,Portland,1993-01-15,-70.11083140275628,included_game_day
+1993,2501,Portland,1993-01-16,-67.9463591402074,included_game_day
+1993,2501,Portland,1993-01-21,-66.84904330164787,included_game_day
+1993,2501,Portland,1993-01-23,-69.05838769941931,included_game_day
+1993,2501,Portland,1993-01-27,-74.97774135841588,included_game_day
+1993,2501,Portland,1993-01-30,-65.71322428561314,included_game_day
+1993,2501,Portland,1993-02-05,-81.46346304618315,included_game_day
+1993,2501,Portland,1993-02-06,-89.050162583335,included_game_day
+1993,2501,Portland,1993-02-11,-96.11952221305647,included_game_day
+1993,2501,Portland,1993-02-13,-95.71994490855823,included_game_day
+1993,2501,Portland,1993-02-18,-88.57129362541872,included_game_day
+1993,2501,Portland,1993-02-20,-91.48298431281387,included_game_day
+1993,2501,Portland,1993-02-25,-100.21932919816464,included_game_day
+1993,2501,Portland,1993-02-27,-99.9861800165361,included_game_day
+1993,2501,Portland,1993-03-06,-104.8415830621201,included_game_day
+1994,2501,Portland,1993-11-25,53.0,included_game_day
+1994,2501,Portland,1993-11-27,35.19,included_game_day
+1994,2501,Portland,1993-12-03,33.661,included_game_day
+1994,2501,Portland,1993-12-04,9.541800000000002,included_game_day
+1994,2501,Portland,1993-12-07,25.58762,included_game_day
+1994,2501,Portland,1993-12-18,5.979961267,included_game_day
+1994,2501,Portland,1993-12-21,5.0364093403000005,included_game_day
+1994,2501,Portland,1993-12-27,-5.38775225473,included_game_day
+1994,2501,Portland,1993-12-28,-15.23551974848765,included_game_day
+1994,2501,Portland,1993-12-31,-14.55193960164205,included_game_day
+1994,2501,Portland,1994-01-03,-24.987614860924147,included_game_day
+1994,2501,Portland,1994-01-05,-49.20505619633164,included_game_day
+1994,2501,Portland,1994-01-13,-36.19674972639428,included_game_day
+1994,2501,Portland,1994-01-15,-36.27059312345153,included_game_day
+1994,2501,Portland,1994-01-21,-19.534524557440015,included_game_day
+1994,2501,Portland,1994-01-22,-37.2017910925417,included_game_day
+1994,2501,Portland,1994-01-27,-29.335604320623045,included_game_day
+1994,2501,Portland,1994-01-29,-27.829220861616374,included_game_day
+1994,2501,Portland,1994-02-04,-28.635725117594504,included_game_day
+1994,2501,Portland,1994-02-05,-41.69143657916554,included_game_day
+1994,2501,Portland,1994-02-10,-55.13600574842236,included_game_day
+1994,2501,Portland,1994-02-12,-39.22339100246546,included_game_day
+1994,2501,Portland,1994-02-16,-50.76393645873931,included_game_day
+1994,2501,Portland,1994-02-19,-41.996372823758385,included_game_day
+1994,2501,Portland,1994-02-24,-29.53975870023564,included_game_day
+1994,2501,Portland,1994-02-26,-30.10724666263459,included_game_day
+1994,2501,Portland,1994-03-05,-31.81235538536857,included_game_day
+1995,2501,Portland,1994-11-25,-5.0,included_game_day
+1995,2501,Portland,1994-11-26,14.8,included_game_day
+1995,2501,Portland,1994-11-28,9.15,included_game_day
+1995,2501,Portland,1994-12-03,9.3855,included_game_day
+1995,2501,Portland,1994-12-10,18.36465,included_game_day
+1995,2501,Portland,1994-12-17,39.0072503806,included_game_day
+1995,2501,Portland,1994-12-21,43.31119304754,included_game_day
+1995,2501,Portland,1994-12-29,34.265004696856,included_game_day
+1995,2501,Portland,1994-12-30,30.502325154685405,included_game_day
+1995,2501,Portland,1995-01-07,5.8238234260214945,included_game_day
+1995,2501,Portland,1995-01-12,8.76709626081666,included_game_day
+1995,2501,Portland,1995-01-14,18.149647327474742,included_game_day
+1995,2501,Portland,1995-01-19,33.78773468341275,included_game_day
+1995,2501,Portland,1995-01-21,56.232742480137475,included_game_day
+1995,2501,Portland,1995-01-27,30.188748717517257,included_game_day
+1995,2501,Portland,1995-01-28,18.0863637678155,included_game_day
+1995,2501,Portland,1995-02-02,26.875553704767007,included_game_day
+1995,2501,Portland,1995-02-04,27.677106152976545,included_game_day
+1995,2501,Portland,1995-02-10,21.318348111544175,included_game_day
+1995,2501,Portland,1995-02-11,22.862663129062895,included_game_day
+1995,2501,Portland,1995-02-15,15.652590527396013,included_game_day
+1995,2501,Portland,1995-02-18,21.884532446062508,included_game_day
+1995,2501,Portland,1995-02-23,15.077349514697154,included_game_day
+1995,2501,Portland,1995-02-25,4.980679053410686,included_game_day
+1995,2501,Portland,1995-03-04,9.451307097690677,included_game_day
+1995,2501,Portland,1995-03-05,13.378501577570926,included_game_day
+1995,2501,Portland,1995-03-06,9.140100259638505,included_game_day
+1996,2501,Portland,1995-11-25,6.0,included_game_day
+1996,2501,Portland,1995-11-30,12.9109,included_game_day
+1996,2501,Portland,1995-12-07,23.4051,included_game_day
+1996,2501,Portland,1995-12-16,37.07034911,included_game_day
+1996,2501,Portland,1995-12-20,22.3564345123,included_game_day
+1996,2501,Portland,1995-12-22,14.886518321770001,included_game_day
+1996,2501,Portland,1995-12-29,34.926869654234,included_game_day
+1996,2501,Portland,1995-12-30,50.6614504073116,included_game_day
+1996,2501,Portland,1996-01-03,47.99501857950184,included_game_day
+1996,2501,Portland,1996-01-06,41.78723335858321,included_game_day
+1996,2501,Portland,1996-01-12,51.793450030861386,included_game_day
+1996,2501,Portland,1996-01-13,33.454014754159736,included_game_day
+1996,2501,Portland,1996-01-18,18.877269241585953,included_game_day
+1996,2501,Portland,1996-01-20,24.213031313376177,included_game_day
+1996,2501,Portland,1996-01-24,5.845360779448949,included_game_day
+1996,2501,Portland,1996-01-27,9.151224352307167,included_game_day
+1996,2501,Portland,1996-02-02,15.61039841203185,included_game_day
+1996,2501,Portland,1996-02-03,10.319563712057416,included_game_day
+1996,2501,Portland,1996-02-08,28.08689595207787,included_game_day
+1996,2501,Portland,1996-02-10,31.810451439623428,included_game_day
+1996,2501,Portland,1996-02-15,20.25368804689496,included_game_day
+1996,2501,Portland,1996-02-17,-4.454823814788558,included_game_day
+1996,2501,Portland,1996-02-22,8.429544769239033,included_game_day
+1996,2501,Portland,1996-02-24,-4.179531249817522,included_game_day
+1996,2501,Portland,1996-03-02,1.211743381834827,included_game_day
+1996,2501,Portland,1996-03-03,16.58320323144211,included_game_day
+1996,2501,Portland,1996-03-04,30.041883113573093,included_game_day
+1996,2501,Portland,1996-03-15,5.591928263175532,included_game_day
+1997,2501,Portland,1996-11-26,-14.0,included_game_day
+1997,2501,Portland,1996-11-29,-8.6,included_game_day
+1997,2501,Portland,1996-11-30,-20.625,included_game_day
+1997,2501,Portland,1996-12-14,-24.4505687,included_game_day
+1997,2501,Portland,1996-12-18,-39.571863320000006,included_game_day
+1997,2501,Portland,1996-12-21,-37.10994498800001,included_game_day
+1997,2501,Portland,1996-12-27,-26.15727480887201,included_game_day
+1997,2501,Portland,1996-12-28,-34.61415545385161,included_game_day
+1997,2501,Portland,1997-01-02,-42.19738778432519,included_game_day
+1997,2501,Portland,1997-01-04,-26.516609246284368,included_game_day
+1997,2501,Portland,1997-01-09,-27.927729650877883,included_game_day
+1997,2501,Portland,1997-01-11,-40.428060692841946,included_game_day
+1997,2501,Portland,1997-01-16,-28.92414509098535,included_game_day
+1997,2501,Portland,1997-01-18,-34.70070689835882,included_game_day
+1997,2501,Portland,1997-01-23,-37.908303375950894,included_game_day
+1997,2501,Portland,1997-01-25,-32.27419547421337,included_game_day
+1997,2501,Portland,1997-01-31,-41.76690915282335,included_game_day
+1997,2501,Portland,1997-02-01,-34.38002699850643,included_game_day
+1997,2501,Portland,1997-02-05,-38.31522234149101,included_game_day
+1997,2501,Portland,1997-02-08,-52.46337861587867,included_game_day
+1997,2501,Portland,1997-02-13,-56.00146007223565,included_game_day
+1997,2501,Portland,1997-02-15,-56.74308401665003,included_game_day
+1997,2501,Portland,1997-02-21,-56.577908726142496,included_game_day
+1997,2501,Portland,1997-02-22,-58.685444990625115,included_game_day
+1997,2501,Portland,1997-03-01,-63.98880631665363,included_game_day
+1998,2501,Portland,1997-11-18,14.0,included_game_day
+1998,2501,Portland,1997-11-25,3.045,included_game_day
+1998,2501,Portland,1997-11-29,5.9226,included_game_day
+1998,2501,Portland,1997-12-03,1.6403400000000001,included_game_day
+1998,2501,Portland,1997-12-15,10.01296215,included_game_day
+1998,2501,Portland,1997-12-18,-0.49692968400000126,included_game_day
+1998,2501,Portland,1997-12-20,-11.202159612200001,included_game_day
+1998,2501,Portland,1997-12-28,-14.058652351380001,included_game_day
+1998,2501,Portland,1998-01-09,-31.887558564510694,included_game_day
+1998,2501,Portland,1998-01-10,-30.896299058082008,included_game_day
+1998,2501,Portland,1998-01-15,-27.870321707900356,included_game_day
+1998,2501,Portland,1998-01-17,-23.182253734888263,included_game_day
+1998,2501,Portland,1998-01-22,-6.431799356478592,included_game_day
+1998,2501,Portland,1998-01-24,-8.137010448356932,included_game_day
+1998,2501,Portland,1998-01-29,6.274027985879869,included_game_day
+1998,2501,Portland,1998-01-31,14.235063618139824,included_game_day
+1998,2501,Portland,1998-02-06,7.603892123947787,included_game_day
+1998,2501,Portland,1998-02-07,-12.433526240302356,included_game_day
+1998,2501,Portland,1998-02-11,-16.480395284302766,included_game_day
+1998,2501,Portland,1998-02-14,-21.717890519503094,included_game_day
+1998,2501,Portland,1998-02-19,-27.446496116987753,included_game_day
+1998,2501,Portland,1998-02-21,-32.986472124064484,included_game_day
+1998,2501,Portland,1998-02-28,-45.34670572541745,included_game_day
+1999,2501,Portland,1998-11-20,-3.51,included_game_day
+1999,2501,Portland,1998-11-21,5.351000000000001,included_game_day
+1999,2501,Portland,1998-11-24,4.8859,included_game_day
+1999,2501,Portland,1998-11-30,14.020309999999998,included_game_day
+1999,2501,Portland,1998-12-08,-0.9678408660000013,included_game_day
+1999,2501,Portland,1998-12-12,-15.7553807732,included_game_day
+1999,2501,Portland,1998-12-19,24.40024289917926,included_game_day
+1999,2501,Portland,1998-12-22,3.90615745161654,included_game_day
+1999,2501,Portland,1998-12-30,1.7495375149801395,included_game_day
+1999,2501,Portland,1999-01-02,-10.34190154136952,included_game_day
+1999,2501,Portland,1999-01-07,-22.020095093081288,included_game_day
+1999,2501,Portland,1999-01-09,-29.693611116271597,included_game_day
+1999,2501,Portland,1999-01-13,-59.310939161164875,included_game_day
+1999,2501,Portland,1999-01-16,-51.00480159707949,included_game_day
+1999,2501,Portland,1999-01-22,-49.06492349755313,included_game_day
+1999,2501,Portland,1999-01-23,-53.43539979720235,included_game_day
+1999,2501,Portland,1999-01-28,-43.93178083692173,included_game_day
+1999,2501,Portland,1999-01-30,-47.687797037078056,included_game_day
+1999,2501,Portland,1999-02-04,-63.14247153892538,included_game_day
+1999,2501,Portland,1999-02-06,-78.73536842251022,included_game_day
+1999,2501,Portland,1999-02-11,-79.2096859293781,included_game_day
+1999,2501,Portland,1999-02-13,-91.73623216126654,included_game_day
+1999,2501,Portland,1999-02-19,-93.90656340778105,included_game_day
+1999,2501,Portland,1999-02-20,-74.53100611379183,included_game_day
+1999,2501,Portland,1999-02-27,-76.78580577270174,included_game_day
+2000,2501,Portland,1999-11-23,-8.9,included_game_day
+2000,2501,Portland,1999-11-27,3.289999999999999,included_game_day
+2000,2501,Portland,1999-11-30,-4.869,included_game_day
+2000,2501,Portland,1999-12-04,1.561966,included_game_day
+2000,2501,Portland,1999-12-07,0.7151149399999999,included_game_day
+2000,2501,Portland,1999-12-11,-14.982489454,included_game_day
+2000,2501,Portland,1999-12-17,-15.3982969612,included_game_day
+2000,2501,Portland,1999-12-22,-12.3713877202436,included_game_day
+2000,2501,Portland,1999-12-30,-14.381324120389854,included_game_day
+2000,2501,Portland,2000-01-03,-21.877334550434266,included_game_day
+2000,2501,Portland,2000-01-13,-34.40129809831071,included_game_day
+2000,2501,Portland,2000-01-15,-20.989178580985943,included_game_day
+2000,2501,Portland,2000-01-20,-38.44205563008495,included_game_day
+2000,2501,Portland,2000-01-23,-40.48203756001767,included_game_day
+2000,2501,Portland,2000-01-26,-36.67281650347291,included_game_day
+2000,2501,Portland,2000-01-29,-45.6254396582371,included_game_day
+2000,2501,Portland,2000-02-03,-42.290855398867386,included_game_day
+2000,2501,Portland,2000-02-05,-37.984814791073845,included_game_day
+2000,2501,Portland,2000-02-11,-41.539982304839015,included_game_day
+2000,2501,Portland,2000-02-12,-48.86075063989918,included_game_day
+2000,2501,Portland,2000-02-17,-50.58215273938699,included_game_day
+2000,2501,Portland,2000-02-19,-43.710808752383755,included_game_day
+2000,2501,Portland,2000-02-25,-51.91011501610231,included_game_day
+2000,2501,Portland,2000-02-27,-42.3392438591036,included_game_day
+2000,2501,Portland,2000-03-04,-34.20232688267325,included_game_day
+2001,2501,Portland,2000-11-24,-3.0,included_game_day
+2001,2501,Portland,2000-11-28,-2.3979999999999997,included_game_day
+2001,2501,Portland,2000-12-02,-14.92249,included_game_day
+2001,2501,Portland,2000-12-05,-10.503941,included_game_day
+2001,2501,Portland,2000-12-09,-17.9298996,included_game_day
+2001,2501,Portland,2000-12-16,-5.126638533289999,included_game_day
+2001,2501,Portland,2000-12-19,-21.641434173961002,included_game_day
+2001,2501,Portland,2000-12-29,-28.18504214035337,included_game_day
+2001,2501,Portland,2000-12-30,-37.465921743909085,included_game_day
+2001,2501,Portland,2001-01-12,-25.683593800277958,included_game_day
+2001,2501,Portland,2001-01-13,-24.28769342661234,included_game_day
+2001,2501,Portland,2001-01-17,-31.591661188045475,included_game_day
+2001,2501,Portland,2001-01-20,-24.434835397191982,included_game_day
+2001,2501,Portland,2001-01-25,-36.692525315880545,included_game_day
+2001,2501,Portland,2001-01-27,-41.5747778113841,included_game_day
+2001,2501,Portland,2001-02-02,-52.2305403622627,included_game_day
+2001,2501,Portland,2001-02-03,-55.52164902961974,included_game_day
+2001,2501,Portland,2001-02-09,-61.99640579102676,included_game_day
+2001,2501,Portland,2001-02-11,-63.65754914216487,included_game_day
+2001,2501,Portland,2001-02-15,-89.89437282663944,included_game_day
+2001,2501,Portland,2001-02-17,-95.33698548437371,included_game_day
+2001,2501,Portland,2001-02-22,-74.14093478349889,included_game_day
+2001,2501,Portland,2001-02-24,-73.365167880978,included_game_day
+2001,2501,Portland,2001-03-03,-67.02593866747351,included_game_day
+2002,2501,Portland Pilots,2001-11-17,5.0,included_game_day
+2002,2501,Portland Pilots,2001-11-21,-5.300000000000001,included_game_day
+2002,2501,Portland Pilots,2001-11-25,-41.650999999999996,included_game_day
+2002,2501,Portland Pilots,2001-11-28,-30.295899999999996,included_game_day
+2002,2501,Portland Pilots,2001-12-02,-18.989259999999998,included_game_day
+2002,2501,Portland Pilots,2001-12-05,-21.0419597,included_game_day
+2002,2501,Portland Pilots,2001-12-08,-22.04446773,included_game_day
+2002,2501,Portland Pilots,2001-12-15,-17.490326672000002,included_game_day
+2002,2501,Portland Pilots,2001-12-20,-17.9154564968,included_game_day
+2002,2501,Portland Pilots,2001-12-21,-38.0079765443213,included_game_day
+2002,2501,Portland Pilots,2001-12-22,-26.573725901284973,included_game_day
+2002,2501,Portland Pilots,2001-12-29,-33.39060360323648,included_game_day
+2002,2501,Portland Pilots,2002-01-02,-34.81885656811569,included_game_day
+2002,2501,Portland Pilots,2002-01-05,-36.48120507621219,included_game_day
+2002,2501,Portland Pilots,2002-01-11,-34.15465789806211,included_game_day
+2002,2501,Portland Pilots,2002-01-13,-48.188141267791735,included_game_day
+2002,2501,Portland Pilots,2002-01-18,-50.690087999432755,included_game_day
+2002,2501,Portland Pilots,2002-01-19,-59.69054174773919,included_game_day
+2002,2501,Portland Pilots,2002-01-24,-57.80631701559302,included_game_day
+2002,2501,Portland Pilots,2002-01-26,-64.36034075212217,included_game_day
+2002,2501,Portland Pilots,2002-01-30,-78.4769257190354,included_game_day
+2002,2501,Portland Pilots,2002-02-02,-74.770193692566,included_game_day
+2002,2501,Portland Pilots,2002-02-07,-88.2708591114089,included_game_day
+2002,2501,Portland Pilots,2002-02-09,-96.15897366054519,included_game_day
+2002,2501,Portland Pilots,2002-02-14,-89.15035152999592,included_game_day
+2002,2501,Portland Pilots,2002-02-16,-88.02383376594267,included_game_day
+2002,2501,Portland Pilots,2002-02-18,-93.40378384584609,included_game_day
+2002,2501,Portland Pilots,2002-02-22,-93.6573397504241,included_game_day
+2002,2501,Portland Pilots,2002-02-23,-99.36618202593829,included_game_day
+2003,2501,Portland Pilots,2002-11-27,1.1,included_game_day
+2003,2501,Portland Pilots,2002-11-30,8.88,included_game_day
+2003,2501,Portland Pilots,2002-12-04,-13.869099999999998,included_game_day
+2003,2501,Portland Pilots,2002-12-07,-21.51729,included_game_day
+2003,2501,Portland Pilots,2002-12-14,-53.6367729,included_game_day
+2003,2501,Portland Pilots,2002-12-17,-56.654496393079995,included_game_day
+2003,2501,Portland Pilots,2002-12-21,-56.192770217771994,included_game_day
+2003,2501,Portland Pilots,2002-12-23,-41.7855692083768,included_game_day
+2003,2501,Portland Pilots,2002-12-28,-35.59296024171852,included_game_day
+2003,2501,Portland Pilots,2002-12-30,-32.40043711614967,included_game_day
+2003,2501,Portland Pilots,2003-01-04,-41.627908994538714,included_game_day
+2003,2501,Portland Pilots,2003-01-06,-23.46650644082797,included_game_day
+2003,2501,Portland Pilots,2003-01-09,-35.78627088345816,included_game_day
+2003,2501,Portland Pilots,2003-01-11,-32.11003103237507,included_game_day
+2003,2501,Portland Pilots,2003-01-17,-40.23290839159232,included_game_day
+2003,2501,Portland Pilots,2003-01-18,-46.25852447475593,included_game_day
+2003,2501,Portland Pilots,2003-01-24,-38.77039881232152,included_game_day
+2003,2501,Portland Pilots,2003-01-30,-13.701551593503389,included_game_day
+2003,2501,Portland Pilots,2003-02-01,-15.910350607437843,included_game_day
+2003,2501,Portland Pilots,2003-02-06,-31.06648819270014,included_game_day
+2003,2501,Portland Pilots,2003-02-08,-46.054846431683075,included_game_day
+2003,2501,Portland Pilots,2003-02-13,-58.92829018343069,included_game_day
+2003,2501,Portland Pilots,2003-02-15,-67.70817102442616,included_game_day
+2003,2501,Portland Pilots,2003-02-19,-42.47303475309303,included_game_day
+2003,2501,Portland Pilots,2003-02-27,-51.410237469239696,included_game_day
+2003,2501,Portland Pilots,2003-03-01,-35.21840511732326,included_game_day
+2003,2501,Portland Pilots,2003-03-07,-41.480487399448904,included_game_day
+2004,2501,Portland Pilots,2003-11-21,-13.0,included_game_day
+2004,2501,Portland Pilots,2003-11-25,0.6999999999999993,included_game_day
+2004,2501,Portland Pilots,2003-11-29,0.9299999999999997,included_game_day
+2004,2501,Portland Pilots,2003-12-01,9.837,included_game_day
+2004,2501,Portland Pilots,2003-12-04,23.8333,included_game_day
+2004,2501,Portland Pilots,2003-12-06,23.84497,included_game_day
+2004,2501,Portland Pilots,2003-12-14,-10.324832249999996,included_game_day
+2004,2501,Portland Pilots,2003-12-16,-12.410551813299996,included_game_day
+2004,2501,Portland Pilots,2003-12-19,-26.831909760399995,included_game_day
+2004,2501,Portland Pilots,2003-12-22,-41.1184997372023,included_game_day
+2004,2501,Portland Pilots,2003-12-28,-26.30882097876507,included_game_day
+2004,2501,Portland Pilots,2003-12-31,-25.760460636736532,included_game_day
+2004,2501,Portland Pilots,2004-01-03,-31.475981144758343,included_game_day
+2004,2501,Portland Pilots,2004-01-10,-35.93556357180269,included_game_day
+2004,2501,Portland Pilots,2004-01-12,-19.557267935511693,included_game_day
+2004,2501,Portland Pilots,2004-01-15,-35.78746456749104,included_game_day
+2004,2501,Portland Pilots,2004-01-17,-26.73160314554896,included_game_day
+2004,2501,Portland Pilots,2004-01-23,-26.92856184714047,included_game_day
+2004,2501,Portland Pilots,2004-01-29,-35.869303946330795,included_game_day
+2004,2501,Portland Pilots,2004-01-31,-25.69319439775431,included_game_day
+2004,2501,Portland Pilots,2004-02-05,-14.371263575715714,included_game_day
+2004,2501,Portland Pilots,2004-02-07,-21.044311507174925,included_game_day
+2004,2501,Portland Pilots,2004-02-12,-28.06879859063035,included_game_day
+2004,2501,Portland Pilots,2004-02-14,-38.35625177786341,included_game_day
+2004,2501,Portland Pilots,2004-02-18,-23.9729260620353,included_game_day
+2004,2501,Portland Pilots,2004-02-26,-32.66202926129328,included_game_day
+2004,2501,Portland Pilots,2004-02-28,-30.218923472644306,included_game_day
+2004,2501,Portland Pilots,2004-03-05,-38.01461864794801,included_game_day
+2005,2501,Portland Pilots,2004-11-19,-6.0,included_game_day
+2005,2501,Portland Pilots,2004-11-20,0.5,included_game_day
+2005,2501,Portland Pilots,2004-11-21,10.15,included_game_day
+2005,2501,Portland Pilots,2004-11-29,30.75143,included_game_day
+2005,2501,Portland Pilots,2004-12-01,26.47928,included_game_day
+2005,2501,Portland Pilots,2004-12-04,38.117426699999996,included_game_day
+2005,2501,Portland Pilots,2004-12-06,44.991304029999995,included_game_day
+2005,2501,Portland Pilots,2004-12-11,42.209369726999995,included_game_day
+2005,2501,Portland Pilots,2004-12-18,32.1046362891,included_game_day
+2005,2501,Portland Pilots,2004-12-20,34.65304801520872,included_game_day
+2005,2501,Portland Pilots,2004-12-22,38.07956499296966,included_game_day
+2005,2501,Portland Pilots,2004-12-28,17.931930655970596,included_game_day
+2005,2501,Portland Pilots,2004-12-30,24.38179399300244,included_game_day
+2005,2501,Portland Pilots,2005-01-02,49.685455983131746,included_game_day
+2005,2501,Portland Pilots,2005-01-06,33.04415389145235,included_game_day
+2005,2501,Portland Pilots,2005-01-08,16.70947424322307,included_game_day
+2005,2501,Portland Pilots,2005-01-13,25.725018485480177,included_game_day
+2005,2501,Portland Pilots,2005-01-16,36.014458463986074,included_game_day
+2005,2501,Portland Pilots,2005-01-20,2.870344951166615,included_game_day
+2005,2501,Portland Pilots,2005-01-22,4.1714375901308784,included_game_day
+2005,2501,Portland Pilots,2005-01-29,3.693616103203455,included_game_day
+2005,2501,Portland Pilots,2005-02-03,17.832594047260073,included_game_day
+2005,2501,Portland Pilots,2005-02-05,18.607395022443775,included_game_day
+2005,2501,Portland Pilots,2005-02-10,22.005819225007283,included_game_day
+2005,2501,Portland Pilots,2005-02-12,16.919456358838172,included_game_day
+2005,2501,Portland Pilots,2005-02-17,10.013054312118427,included_game_day
+2005,2501,Portland Pilots,2005-02-19,-8.312986906319178,included_game_day
+2005,2501,Portland Pilots,2005-02-24,-17.60070258736465,included_game_day
+2005,2501,Portland Pilots,2005-03-04,-16.619858321205864,included_game_day
+2006,2501,Portland Pilots,2005-11-10,-17.0,included_game_day
+2006,2501,Portland Pilots,2005-11-11,-50.4,included_game_day
+2006,2501,Portland Pilots,2005-11-20,-33.16,included_game_day
+2006,2501,Portland Pilots,2005-11-26,-54.903999999999996,included_game_day
+2006,2501,Portland Pilots,2005-11-28,-60.18917999999999,included_game_day
+2006,2501,Portland Pilots,2005-12-03,-57.016955059999994,included_game_day
+2006,2501,Portland Pilots,2005-12-07,-36.463376493999995,included_game_day
+2006,2501,Portland Pilots,2005-12-10,-22.504486096599997,included_game_day
+2006,2501,Portland Pilots,2005-12-17,-27.720487130739997,included_game_day
+2006,2501,Portland Pilots,2005-12-19,-25.248160694569997,included_game_day
+2006,2501,Portland Pilots,2005-12-22,-12.338993073390752,included_game_day
+2006,2501,Portland Pilots,2005-12-28,-33.24254563772762,included_game_day
+2006,2501,Portland Pilots,2005-12-30,-29.191092719706198,included_game_day
+2006,2501,Portland Pilots,2006-01-07,-34.09599454194898,included_game_day
+2006,2501,Portland Pilots,2006-01-09,-23.953307999926743,included_game_day
+2006,2501,Portland Pilots,2006-01-14,-43.41011357369423,included_game_day
+2006,2501,Portland Pilots,2006-01-16,-44.59705788103491,included_game_day
+2006,2501,Portland Pilots,2006-01-21,-51.77932371956829,included_game_day
+2006,2501,Portland Pilots,2006-01-23,-48.11074834296496,included_game_day
+2006,2501,Portland Pilots,2006-01-28,-48.203998385948424,included_game_day
+2006,2501,Portland Pilots,2006-02-04,-58.063359330066625,included_game_day
+2006,2501,Portland Pilots,2006-02-06,-84.29750342744887,included_game_day
+2006,2501,Portland Pilots,2006-02-13,-84.89213104706195,included_game_day
+2006,2501,Portland Pilots,2006-02-18,-71.80200680915551,included_game_day
+2006,2501,Portland Pilots,2006-02-20,-46.72659896030047,included_game_day
+2006,2501,Portland Pilots,2006-02-25,-48.91146311023624,included_game_day
+2006,2501,Portland Pilots,2006-02-27,-28.733074450149672,included_game_day
+2006,2501,Portland Pilots,2006-03-03,-27.52121866832421,included_game_day
+2007,2501,Portland Pilots,2006-11-10,-14.0,included_game_day
+2007,2501,Portland Pilots,2006-11-11,-13.0,included_game_day
+2007,2501,Portland Pilots,2006-11-12,-21.7,included_game_day
+2007,2501,Portland Pilots,2006-11-17,-22.59,included_game_day
+2007,2501,Portland Pilots,2006-11-19,-23.801,included_game_day
+2007,2501,Portland Pilots,2006-11-22,-47.9058,included_game_day
+2007,2501,Portland Pilots,2006-11-27,-60.94322,included_game_day
+2007,2501,Portland Pilots,2006-11-29,-58.983827,included_game_day
+2007,2501,Portland Pilots,2006-12-02,-61.320740809,included_game_day
+2007,2501,Portland Pilots,2006-12-05,-76.6532107431,included_game_day
+2007,2501,Portland Pilots,2006-12-09,-93.36980169879,included_game_day
+2007,2501,Portland Pilots,2006-12-16,-99.622271777787,included_game_day
+2007,2501,Portland Pilots,2006-12-19,-92.1493259228003,included_game_day
+2007,2501,Portland Pilots,2006-12-22,-83.09252448943415,included_game_day
+2007,2501,Portland Pilots,2006-12-28,-85.56932699451805,included_game_day
+2007,2501,Portland Pilots,2007-01-06,-77.40912560516061,included_game_day
+2007,2501,Portland Pilots,2007-01-08,-66.01104178347667,included_game_day
+2007,2501,Portland Pilots,2007-01-13,-71.40856313444883,included_game_day
+2007,2501,Portland Pilots,2007-01-15,-75.24869976159201,included_game_day
+2007,2501,Portland Pilots,2007-01-23,-75.27421770437539,included_game_day
+2007,2501,Portland Pilots,2007-01-27,-74.89120416114096,included_game_day
+2007,2501,Portland Pilots,2007-01-29,-74.16778924185428,included_game_day
+2007,2501,Portland Pilots,2007-02-03,-86.84138942462066,included_game_day
+2007,2501,Portland Pilots,2007-02-05,-69.39249382658087,included_game_day
+2007,2501,Portland Pilots,2007-02-10,-83.77830475816646,included_game_day
+2007,2501,Portland Pilots,2007-02-12,-69.65637074620352,included_game_day
+2007,2501,Portland Pilots,2007-02-19,-72.2107297107504,included_game_day
+2007,2501,Portland Pilots,2007-02-24,-68.99505645089168,included_game_day
+2007,2501,Portland Pilots,2007-02-26,-62.9198752898896,included_game_day
+2007,2501,Portland Pilots,2007-03-02,-50.53674651394826,included_game_day
+2007,2501,Portland Pilots,2007-03-03,-85.04195610936748,included_game_day
+2008,2501,Portland Pilots,2007-11-09,-4.0,included_game_day
+2008,2501,Portland Pilots,2007-11-10,-16.4,included_game_day
+2008,2501,Portland Pilots,2007-11-11,-5.699999999999999,included_game_day
+2008,2501,Portland Pilots,2007-11-17,-27.34,included_game_day
+2008,2501,Portland Pilots,2007-11-24,-4.473209999999998,included_game_day
+2008,2501,Portland Pilots,2007-11-25,-10.230778999999998,included_game_day
+2008,2501,Portland Pilots,2007-11-28,-18.7129521,included_game_day
+2008,2501,Portland Pilots,2007-12-01,-35.39335198,included_game_day
+2008,2501,Portland Pilots,2007-12-07,-28.024606497,included_game_day
+2008,2501,Portland Pilots,2007-12-15,-25.587725765028,included_game_day
+2008,2501,Portland Pilots,2007-12-17,-36.5633044661692,included_game_day
+2008,2501,Portland Pilots,2007-12-21,-30.171377282060924,included_game_day
+2008,2501,Portland Pilots,2008-01-02,-46.57708249498279,included_game_day
+2008,2501,Portland Pilots,2008-01-05,-46.87105971615293,included_game_day
+2008,2501,Portland Pilots,2008-01-12,-37.01769392561896,included_game_day
+2008,2501,Portland Pilots,2008-01-14,-49.85769472576713,included_game_day
+2008,2501,Portland Pilots,2008-01-21,-51.22166512916985,included_game_day
+2008,2501,Portland Pilots,2008-01-25,-44.54399768107447,included_game_day
+2008,2501,Portland Pilots,2008-01-28,-64.47653111181808,included_game_day
+2008,2501,Portland Pilots,2008-02-02,-81.26239295053455,included_game_day
+2008,2501,Portland Pilots,2008-02-04,-71.08601933173637,included_game_day
+2008,2501,Portland Pilots,2008-02-09,-70.79677026812503,included_game_day
+2008,2501,Portland Pilots,2008-02-11,-79.44923670574082,included_game_day
+2008,2501,Portland Pilots,2008-02-16,-82.83719512125927,included_game_day
+2008,2501,Portland Pilots,2008-02-18,-92.36416588272111,included_game_day
+2008,2501,Portland Pilots,2008-02-25,-94.12853157595369,included_game_day
+2008,2501,Portland Pilots,2008-03-01,-79.54527539966394,included_game_day
+2008,2501,Portland Pilots,2008-03-03,-76.81342395631853,included_game_day
+2008,2501,Portland Pilots,2008-03-07,-80.0335248651947,included_game_day
+2009,2501,Portland Pilots,2008-11-15,3.0,included_game_day
+2009,2501,Portland Pilots,2008-11-18,1.4,included_game_day
+2009,2501,Portland Pilots,2008-11-21,13.430000000000001,included_game_day
+2009,2501,Portland Pilots,2008-11-23,17.713,included_game_day
+2009,2501,Portland Pilots,2008-11-29,14.1783,included_game_day
+2009,2501,Portland Pilots,2008-12-03,3.281129,included_game_day
+2009,2501,Portland Pilots,2008-12-06,4.2915551,included_game_day
+2009,2501,Portland Pilots,2008-12-13,5.955235447,included_game_day
+2009,2501,Portland Pilots,2008-12-16,3.7863379764323994,included_game_day
+2009,2501,Portland Pilots,2008-12-20,1.7099146316660891,included_game_day
+2009,2501,Portland Pilots,2008-12-22,13.261706460556082,included_game_day
+2009,2501,Portland Pilots,2008-12-27,15.80917995024697,included_game_day
+2009,2501,Portland Pilots,2008-12-28,7.66892950119712,included_game_day
+2009,2501,Portland Pilots,2008-12-30,6.079640830909606,included_game_day
+2009,2501,Portland Pilots,2009-01-04,3.516938229963899,included_game_day
+2009,2501,Portland Pilots,2009-01-10,0.04162992639049978,included_game_day
+2009,2501,Portland Pilots,2009-01-15,10.065921009272348,included_game_day
+2009,2501,Portland Pilots,2009-01-17,4.176351045363687,included_game_day
+2009,2501,Portland Pilots,2009-01-22,9.372840725017042,included_game_day
+2009,2501,Portland Pilots,2009-01-24,13.916813381227612,included_game_day
+2009,2501,Portland Pilots,2009-01-29,23.116355413461015,included_game_day
+2009,2501,Portland Pilots,2009-01-31,46.76006457417499,included_game_day
+2009,2501,Portland Pilots,2009-02-05,38.63257829303133,included_game_day
+2009,2501,Portland Pilots,2009-02-12,34.699869340183795,included_game_day
+2009,2501,Portland Pilots,2009-02-14,28.857436353723557,included_game_day
+2009,2501,Portland Pilots,2009-02-19,44.02457915331148,included_game_day
+2009,2501,Portland Pilots,2009-02-21,29.05789156652822,included_game_day
+2009,2501,Portland Pilots,2009-02-26,20.795929299856944,included_game_day
+2009,2501,Portland Pilots,2009-02-28,19.973982841627894,included_game_day
+2009,2501,Portland Pilots,2009-03-07,32.292262268940846,included_game_day
+2009,2501,Portland Pilots,2009-03-08,25.628886846527504,included_game_day
+2009,2501,Portland Pilots,2009-03-18,23.262874599694996,included_game_day
+2010,2501,Portland Pilots,2009-11-14,9.0,included_game_day
+2010,2501,Portland Pilots,2009-11-17,20.2,included_game_day
+2010,2501,Portland Pilots,2009-11-21,29.71,included_game_day
+2010,2501,Portland Pilots,2009-11-26,55.3909,included_game_day
+2010,2501,Portland Pilots,2009-11-27,63.52475,included_game_day
+2010,2501,Portland Pilots,2009-11-29,45.405652599999996,included_game_day
+2010,2501,Portland Pilots,2009-12-02,27.826643139999998,included_game_day
+2010,2501,Portland Pilots,2009-12-06,11.606157856,included_game_day
+2010,2501,Portland Pilots,2009-12-12,18.8496040679,included_game_day
+2010,2501,Portland Pilots,2009-12-19,-9.108329052859002,included_game_day
+2010,2501,Portland Pilots,2009-12-22,23.077817878571896,included_game_day
+2010,2501,Portland Pilots,2009-12-28,20.84755601658491,included_game_day
+2010,2501,Portland Pilots,2010-01-02,27.670084909918884,included_game_day
+2010,2501,Portland Pilots,2010-01-09,25.984938326866402,included_game_day
+2010,2501,Portland Pilots,2010-01-14,32.65749929783685,included_game_day
+2010,2501,Portland Pilots,2010-01-16,37.393474692966805,included_game_day
+2010,2501,Portland Pilots,2010-01-21,70.73584272909201,included_game_day
+2010,2501,Portland Pilots,2010-01-23,73.67622793386539,included_game_day
+2010,2501,Portland Pilots,2010-01-28,80.64753787585815,included_game_day
+2010,2501,Portland Pilots,2010-01-30,93.12150224488221,included_game_day
+2010,2501,Portland Pilots,2010-02-04,66.7072662044639,included_game_day
+2010,2501,Portland Pilots,2010-02-11,66.60029057299477,included_game_day
+2010,2501,Portland Pilots,2010-02-13,70.45173800322702,included_game_day
+2010,2501,Portland Pilots,2010-02-18,77.67853556274159,included_game_day
+2010,2501,Portland Pilots,2010-02-20,63.21094652940597,included_game_day
+2010,2501,Portland Pilots,2010-02-25,64.74258260946925,included_game_day
+2010,2501,Portland Pilots,2010-02-27,62.189468240499096,included_game_day
+2010,2501,Portland Pilots,2010-03-06,67.19628660263471,included_game_day
+2010,2501,Portland Pilots,2010-03-07,55.07519707777906,included_game_day
+2010,2501,Portland Pilots,2010-03-17,46.14886654872204,included_game_day
+2011,2501,Portland Pilots,2010-11-12,17.0,included_game_day
+2011,2501,Portland Pilots,2010-11-13,26.6,included_game_day
+2011,2501,Portland Pilots,2010-11-14,36.3,included_game_day
+2011,2501,Portland Pilots,2010-11-19,0.6699999999999946,included_game_day
+2011,2501,Portland Pilots,2010-11-20,15.520999999999995,included_game_day
+2011,2501,Portland Pilots,2010-11-23,2.2308999999999966,included_game_day
+2011,2501,Portland Pilots,2010-11-27,12.642809999999997,included_game_day
+2011,2501,Portland Pilots,2010-11-30,18.629529999999995,included_game_day
+2011,2501,Portland Pilots,2010-12-03,25.969384500999997,included_game_day
+2011,2501,Portland Pilots,2010-12-06,15.892219991799998,included_game_day
+2011,2501,Portland Pilots,2010-12-11,19.00532702335,included_game_day
+2011,2501,Portland Pilots,2010-12-18,28.2506084920233,included_game_day
+2011,2501,Portland Pilots,2010-12-22,37.73828478547279,included_game_day
+2011,2501,Portland Pilots,2010-12-27,32.11904263065132,included_game_day
+2011,2501,Portland Pilots,2010-12-31,32.96510192459648,included_game_day
+2011,2501,Portland Pilots,2011-01-08,28.356201472890994,included_game_day
+2011,2501,Portland Pilots,2011-01-13,22.18680805706631,included_game_day
+2011,2501,Portland Pilots,2011-01-15,27.282846318027794,included_game_day
+2011,2501,Portland Pilots,2011-01-20,21.20978855594938,included_game_day
+2011,2501,Portland Pilots,2011-01-22,10.92223107439451,included_game_day
+2011,2501,Portland Pilots,2011-01-27,13.922532358198445,included_game_day
+2011,2501,Portland Pilots,2011-01-29,36.10682650476346,included_game_day
+2011,2501,Portland Pilots,2011-02-03,34.863020879744894,included_game_day
+2011,2501,Portland Pilots,2011-02-05,41.38732114608378,included_game_day
+2011,2501,Portland Pilots,2011-02-10,35.121940688900416,included_game_day
+2011,2501,Portland Pilots,2011-02-12,55.446501222953174,included_game_day
+2011,2501,Portland Pilots,2011-02-17,38.13432544958428,included_game_day
+2011,2501,Portland Pilots,2011-02-19,43.32253502179812,included_game_day
+2011,2501,Portland Pilots,2011-02-24,40.08569917648194,included_game_day
+2011,2501,Portland Pilots,2011-02-26,31.383381784704262,included_game_day
+2011,2501,Portland Pilots,2011-03-04,20.139864709505858,included_game_day
+2011,2501,Portland Pilots,2011-03-16,9.574594200095797,included_game_day
+2012,2501,Portland Pilots,2011-11-12,5.0,included_game_day
+2012,2501,Portland Pilots,2011-11-13,8.1,included_game_day
+2012,2501,Portland Pilots,2011-11-14,-18.200000000000003,included_game_day
+2012,2501,Portland Pilots,2011-11-20,-28.841,included_game_day
+2012,2501,Portland Pilots,2011-11-22,-33.956900000000005,included_game_day
+2012,2501,Portland Pilots,2011-11-26,-39.293257000000004,included_game_day
+2012,2501,Portland Pilots,2011-12-03,-44.72657997,included_game_day
+2012,2501,Portland Pilots,2011-12-07,-50.27083223262,included_game_day
+2012,2501,Portland Pilots,2011-12-10,-63.137088365058005,included_game_day
+2012,2501,Portland Pilots,2011-12-17,-76.9137662792582,included_game_day
+2012,2501,Portland Pilots,2011-12-19,-81.25186978270168,included_game_day
+2012,2501,Portland Pilots,2011-12-22,-84.93750791231211,included_game_day
+2012,2501,Portland Pilots,2011-12-28,-105.52027567251562,included_game_day
+2012,2501,Portland Pilots,2012-01-05,-89.55740374236774,included_game_day
+2012,2501,Portland Pilots,2012-01-07,-76.84015164532285,included_game_day
+2012,2501,Portland Pilots,2012-01-12,-101.8838137390461,included_game_day
+2012,2501,Portland Pilots,2012-01-14,-83.62873836015417,included_game_day
+2012,2501,Portland Pilots,2012-01-19,-102.27172103623062,included_game_day
+2012,2501,Portland Pilots,2012-01-21,-94.71490044448466,included_game_day
+2012,2501,Portland Pilots,2012-01-26,-90.8773622106854,included_game_day
+2012,2501,Portland Pilots,2012-01-28,-78.74303009493734,included_game_day
+2012,2501,Portland Pilots,2012-02-02,-69.76499542396981,included_game_day
+2012,2501,Portland Pilots,2012-02-04,-75.86164787355223,included_game_day
+2012,2501,Portland Pilots,2012-02-09,-83.51041290340918,included_game_day
+2012,2501,Portland Pilots,2012-02-16,-77.91598061969536,included_game_day
+2012,2501,Portland Pilots,2012-02-18,-81.02808649362753,included_game_day
+2012,2501,Portland Pilots,2012-02-23,-96.93592949173801,included_game_day
+2012,2501,Portland Pilots,2012-02-25,-84.19413043145072,included_game_day
+2012,2501,Portland Pilots,2012-02-29,-79.05832860179463,included_game_day
+2012,2501,Portland Pilots,2012-03-01,-88.54847594611039,included_game_day
+2013,2501,Portland Pilots,2012-11-10,-26.0,included_game_day
+2013,2501,Portland Pilots,2012-11-15,-23.9,included_game_day
+2013,2501,Portland Pilots,2012-11-18,-38.71,included_game_day
+2013,2501,Portland Pilots,2012-11-21,-17.569000000000003,included_game_day
+2013,2501,Portland Pilots,2012-11-25,-25.16272,included_game_day
+2013,2501,Portland Pilots,2012-12-01,-29.906832350000002,included_game_day
+2013,2501,Portland Pilots,2012-12-04,-29.766004075,included_game_day
+2013,2501,Portland Pilots,2012-12-08,-45.68907311232,included_game_day
+2013,2501,Portland Pilots,2012-12-17,-26.236209849728002,included_game_day
+2013,2501,Portland Pilots,2012-12-19,-22.3531740445482,included_game_day
+2013,2501,Portland Pilots,2012-12-22,-31.0661604890418,included_game_day
+2013,2501,Portland Pilots,2012-12-23,-19.772698013859912,included_game_day
+2013,2501,Portland Pilots,2012-12-29,-32.1913639997816,included_game_day
+2013,2501,Portland Pilots,2013-01-03,-37.894886033815226,included_game_day
+2013,2501,Portland Pilots,2013-01-05,-38.32270379952604,included_game_day
+2013,2501,Portland Pilots,2013-01-12,-29.221747031815966,included_game_day
+2013,2501,Portland Pilots,2013-01-17,-38.74765280447532,included_game_day
+2013,2501,Portland Pilots,2013-01-19,-50.74828520868221,included_game_day
+2013,2501,Portland Pilots,2013-01-24,-53.58926169293666,included_game_day
+2013,2501,Portland Pilots,2013-01-26,-58.77526228352796,included_game_day
+2013,2501,Portland Pilots,2013-01-31,-65.39755212350232,included_game_day
+2013,2501,Portland Pilots,2013-02-02,-79.58879431301388,included_game_day
+2013,2501,Portland Pilots,2013-02-07,-72.1864971146851,included_game_day
+2013,2501,Portland Pilots,2013-02-09,-74.47019382035853,included_game_day
+2013,2501,Portland Pilots,2013-02-14,-59.014286708833254,included_game_day
+2013,2501,Portland Pilots,2013-02-16,-56.549223173565935,included_game_day
+2013,2501,Portland Pilots,2013-02-21,-49.89816342579959,included_game_day
+2013,2501,Portland Pilots,2013-02-23,-56.8959452908844,included_game_day
+2013,2501,Portland Pilots,2013-03-02,-56.87002262578365,included_game_day
+2013,2501,Portland Pilots,2013-03-06,-67.32875561158626,included_game_day
+2014,2501,Portland Pilots,2013-11-08,14.0,included_game_day
+2014,2501,Portland Pilots,2013-11-13,8.64,included_game_day
+2014,2501,Portland Pilots,2013-11-18,0.49070000000000036,included_game_day
+2014,2501,Portland Pilots,2013-11-21,10.012630000000001,included_game_day
+2014,2501,Portland Pilots,2013-11-22,24.219937,included_game_day
+2014,2501,Portland Pilots,2013-11-23,12.253481,included_game_day
+2014,2501,Portland Pilots,2013-11-27,26.2864809,included_game_day
+2014,2501,Portland Pilots,2013-12-01,43.20435281,included_game_day
+2014,2501,Portland Pilots,2013-12-07,56.885048352,included_game_day
+2014,2501,Portland Pilots,2013-12-15,41.486428916799994,included_game_day
+2014,2501,Portland Pilots,2013-12-20,58.620857101614995,included_game_day
+2014,2501,Portland Pilots,2013-12-21,74.78567982123825,included_game_day
+2014,2501,Portland Pilots,2013-12-28,57.13198485901623,included_game_day
+2014,2501,Portland Pilots,2013-12-30,39.38494632628849,included_game_day
+2014,2501,Portland Pilots,2014-01-02,42.259231233271514,included_game_day
+2014,2501,Portland Pilots,2014-01-04,31.232230474254507,included_game_day
+2014,2501,Portland Pilots,2014-01-09,46.59695518694134,included_game_day
+2014,2501,Portland Pilots,2014-01-16,57.823333454473506,included_game_day
+2014,2501,Portland Pilots,2014-01-18,44.27179888116356,included_game_day
+2014,2501,Portland Pilots,2014-01-23,50.75459012121592,included_game_day
+2014,2501,Portland Pilots,2014-01-25,41.14547273387476,included_game_day
+2014,2501,Portland Pilots,2014-01-29,28.316170890356965,included_game_day
+2014,2501,Portland Pilots,2014-02-01,39.82407004131523,included_game_day
+2014,2501,Portland Pilots,2014-02-05,45.16146128363175,included_game_day
+2014,2501,Portland Pilots,2014-02-13,39.67757880337989,included_game_day
+2014,2501,Portland Pilots,2014-02-15,46.43168937843841,included_game_day
+2014,2501,Portland Pilots,2014-02-20,44.0195202508217,included_game_day
+2014,2501,Portland Pilots,2014-02-22,34.31265434409431,included_game_day
+2014,2501,Portland Pilots,2014-02-27,31.91589522921716,included_game_day
+2014,2501,Portland Pilots,2014-03-01,27.233244206793863,included_game_day
+2014,2501,Portland Pilots,2014-03-06,17.7995510285381,included_game_day
+2015,2501,Portland Pilots,2014-11-16,8.0,included_game_day
+2015,2501,Portland Pilots,2014-11-22,25.6,included_game_day
+2015,2501,Portland Pilots,2014-11-28,25.7011,included_game_day
+2015,2501,Portland Pilots,2014-11-29,30.578325,included_game_day
+2015,2501,Portland Pilots,2014-11-30,19.459605,included_game_day
+2015,2501,Portland Pilots,2014-12-03,26.264865399999998,included_game_day
+2015,2501,Portland Pilots,2014-12-06,14.984025803999998,included_game_day
+2015,2501,Portland Pilots,2014-12-14,18.23792100387,included_game_day
+2015,2501,Portland Pilots,2014-12-17,16.947720807373,included_game_day
+2015,2501,Portland Pilots,2014-12-20,33.110272534378296,included_game_day
+2015,2501,Portland Pilots,2014-12-27,41.40437411621347,included_game_day
+2015,2501,Portland Pilots,2014-12-29,37.52279369542909,included_game_day
+2015,2501,Portland Pilots,2015-01-03,32.96033759447529,included_game_day
+2015,2501,Portland Pilots,2015-01-08,39.95669369390701,included_game_day
+2015,2501,Portland Pilots,2015-01-10,20.07412381612741,included_game_day
+2015,2501,Portland Pilots,2015-01-15,3.002171117065881,included_game_day
+2015,2501,Portland Pilots,2015-01-17,7.4052061750101785,included_game_day
+2015,2501,Portland Pilots,2015-01-22,3.5513381491835787,included_game_day
+2015,2501,Portland Pilots,2015-01-24,-3.7306820003246415,included_game_day
+2015,2501,Portland Pilots,2015-01-29,-1.1474640192753185,included_game_day
+2015,2501,Portland Pilots,2015-02-05,14.837013371242552,included_game_day
+2015,2501,Portland Pilots,2015-02-07,33.42165760268513,included_game_day
+2015,2501,Portland Pilots,2015-02-12,46.43757850450797,included_game_day
+2015,2501,Portland Pilots,2015-02-14,38.303651190146155,included_game_day
+2015,2501,Portland Pilots,2015-02-19,25.838044920868363,included_game_day
+2015,2501,Portland Pilots,2015-02-21,18.75396515145574,included_game_day
+2015,2501,Portland Pilots,2015-02-26,12.431832483065463,included_game_day
+2015,2501,Portland Pilots,2015-02-28,-0.8774071324485746,included_game_day
+2015,2501,Portland Pilots,2015-03-07,24.255462300276328,included_game_day
+2015,2501,Portland Pilots,2015-03-09,19.819167783613437,included_game_day
+2015,2501,Portland Pilots,2015-03-18,7.240466945383167,included_game_day
+2016,2501,Portland Pilots,2015-11-15,-11.1,included_game_day
+2016,2501,Portland Pilots,2015-11-22,17.009999999999998,included_game_day
+2016,2501,Portland Pilots,2015-11-24,39.891999999999996,included_game_day
+2016,2501,Portland Pilots,2015-11-27,21.375579999999996,included_game_day
+2016,2501,Portland Pilots,2015-11-28,20.805534999999995,included_game_day
+2016,2501,Portland Pilots,2015-12-02,29.053381499999997,included_game_day
+2016,2501,Portland Pilots,2015-12-05,14.057871269999996,included_game_day
+2016,2501,Portland Pilots,2015-12-08,5.240757047899997,included_game_day
+2016,2501,Portland Pilots,2015-12-12,9.911607423109997,included_game_day
+2016,2501,Portland Pilots,2015-12-18,0.065221822518998,included_game_day
+2016,2501,Portland Pilots,2015-12-19,3.980711001830198,included_game_day
+2016,2501,Portland Pilots,2015-12-21,29.54157734713608,included_game_day
+2016,2501,Portland Pilots,2015-12-23,32.77302931281753,included_game_day
+2016,2501,Portland Pilots,2015-12-31,17.355077458555623,included_game_day
+2016,2501,Portland Pilots,2016-01-02,9.439211944397297,included_game_day
+2016,2501,Portland Pilots,2016-01-09,9.285507286060517,included_game_day
+2016,2501,Portland Pilots,2016-01-14,-12.128211056183575,included_game_day
+2016,2501,Portland Pilots,2016-01-16,-1.3029675527422828,included_game_day
+2016,2501,Portland Pilots,2016-01-21,-10.821599016443816,included_game_day
+2016,2501,Portland Pilots,2016-01-23,-8.136456129624584,included_game_day
+2016,2501,Portland Pilots,2016-01-28,-22.656817556365105,included_game_day
+2016,2501,Portland Pilots,2016-01-30,-34.21409074875223,included_game_day
+2016,2501,Portland Pilots,2016-02-04,-20.586529870653557,included_game_day
+2016,2501,Portland Pilots,2016-02-06,-7.0038362000980765,included_game_day
+2016,2501,Portland Pilots,2016-02-11,-21.331802142541875,included_game_day
+2016,2501,Portland Pilots,2016-02-18,-15.485529378541994,included_game_day
+2016,2501,Portland Pilots,2016-02-20,-6.0851150751692185,included_game_day
+2016,2501,Portland Pilots,2016-02-25,-5.400841612675199,included_game_day
+2016,2501,Portland Pilots,2016-02-27,-19.89016174358771,included_game_day
+2016,2501,Portland Pilots,2016-03-05,-28.508510210562115,included_game_day
+2017,2501,Portland Pilots,2016-11-11,13.0,included_game_day
+2017,2501,Portland Pilots,2016-11-15,27.7,included_game_day
+2017,2501,Portland Pilots,2016-11-24,10.581699999999998,included_game_day
+2017,2501,Portland Pilots,2016-11-25,1.9470599999999987,included_game_day
+2017,2501,Portland Pilots,2016-11-27,14.343817,included_game_day
+2017,2501,Portland Pilots,2016-12-03,1.072049247999999,included_game_day
+2017,2501,Portland Pilots,2016-12-05,-6.8919881218000025,included_game_day
+2017,2501,Portland Pilots,2016-12-16,-5.9723238560180025,included_game_day
+2017,2501,Portland Pilots,2016-12-18,-3.6710179815484025,included_game_day
+2017,2501,Portland Pilots,2016-12-20,-7.9135777405525625,included_game_day
+2017,2501,Portland Pilots,2016-12-22,-14.141752987529287,included_game_day
+2017,2501,Portland Pilots,2016-12-29,-8.369214437966912,included_game_day
+2017,2501,Portland Pilots,2016-12-31,-4.788651419273707,included_game_day
+2017,2501,Portland Pilots,2017-01-05,-29.40891104019026,included_game_day
+2017,2501,Portland Pilots,2017-01-12,-58.65494202292948,included_game_day
+2017,2501,Portland Pilots,2017-01-14,-58.24565343581848,included_game_day
+2017,2501,Portland Pilots,2017-01-19,-71.4882119838747,included_game_day
+2017,2501,Portland Pilots,2017-01-21,-60.81998921855396,included_game_day
+2017,2501,Portland Pilots,2017-01-23,-56.28541100629736,included_game_day
+2017,2501,Portland Pilots,2017-01-26,-74.59515190268931,included_game_day
+2017,2501,Portland Pilots,2017-01-28,-87.98059646291463,included_game_day
+2017,2501,Portland Pilots,2017-02-02,-96.10511137077872,included_game_day
+2017,2501,Portland Pilots,2017-02-04,-87.23225473766614,included_game_day
+2017,2501,Portland Pilots,2017-02-09,-70.30758505264083,included_game_day
+2017,2501,Portland Pilots,2017-02-11,-66.52001885743105,included_game_day
+2017,2501,Portland Pilots,2017-02-16,-81.47078347142826,included_game_day
+2017,2501,Portland Pilots,2017-02-18,-87.50765520759211,included_game_day
+2017,2501,Portland Pilots,2017-02-23,-96.01425220083557,included_game_day
+2017,2501,Portland Pilots,2017-02-25,-94.21143108087207,included_game_day
+2017,2501,Portland Pilots,2017-03-03,-87.76917418490129,included_game_day
+2017,2501,Portland Pilots,2017-03-04,-85.90267709573473,included_game_day
+2018,2501,Portland Pilots,2017-11-11,-8.0,included_game_day
+2018,2501,Portland Pilots,2017-11-23,-26.55724,included_game_day
+2018,2501,Portland Pilots,2017-11-24,-41.714715999999996,included_game_day
+2018,2501,Portland Pilots,2017-11-26,-52.14825689999999,included_game_day
+2018,2501,Portland Pilots,2017-12-03,-59.658177579,included_game_day
+2018,2501,Portland Pilots,2017-12-06,-70.43588210109999,included_game_day
+2018,2501,Portland Pilots,2017-12-09,-62.02413925508999,included_game_day
+2018,2501,Portland Pilots,2017-12-16,-66.30918075988099,included_game_day
+2018,2501,Portland Pilots,2017-12-19,-56.39431423407579,included_game_day
+2018,2501,Portland Pilots,2017-12-21,-52.900882204869596,included_game_day
+2018,2501,Portland Pilots,2017-12-28,-61.89858421840121,included_game_day
+2018,2501,Portland Pilots,2017-12-30,-80.36481806224488,included_game_day
+2018,2501,Portland Pilots,2018-01-04,-77.74938690478955,included_game_day
+2018,2501,Portland Pilots,2018-01-06,-74.90261004404817,included_game_day
+2018,2501,Portland Pilots,2018-01-11,-93.50628585489399,included_game_day
+2018,2501,Portland Pilots,2018-01-13,-100.90783400340496,included_game_day
+2018,2501,Portland Pilots,2018-01-18,-78.7647383472839,included_game_day
+2018,2501,Portland Pilots,2018-01-20,-64.71603466855443,included_game_day
+2018,2501,Portland Pilots,2018-01-25,-60.69748911184295,included_game_day
+2018,2501,Portland Pilots,2018-01-27,-54.94117582484391,included_game_day
+2018,2501,Portland Pilots,2018-02-01,-53.3015411500704,included_game_day
+2018,2501,Portland Pilots,2018-02-03,-52.871041772527924,included_game_day
+2018,2501,Portland Pilots,2018-02-08,-46.78860213032837,included_game_day
+2018,2501,Portland Pilots,2018-02-10,-39.57838914251673,included_game_day
+2018,2501,Portland Pilots,2018-02-15,-54.379873689964526,included_game_day
+2018,2501,Portland Pilots,2018-02-17,-52.34992450223566,included_game_day
+2018,2501,Portland Pilots,2018-02-22,-57.71494308004931,included_game_day
+2018,2501,Portland Pilots,2018-02-24,-66.17004753910508,included_game_day
+2018,2501,Portland Pilots,2018-03-02,-69.79967312138304,included_game_day
+2019,2501,Portland Pilots,2018-11-09,-15.0,included_game_day
+2019,2501,Portland Pilots,2018-11-10,-18.5,included_game_day
+2019,2501,Portland Pilots,2018-11-17,-12.25,included_game_day
+2019,2501,Portland Pilots,2018-11-21,1.4280000000000008,included_game_day
+2019,2501,Portland Pilots,2018-11-23,-0.08598000000000017,included_game_day
+2019,2501,Portland Pilots,2018-11-24,-22.24998,included_game_day
+2019,2501,Portland Pilots,2018-11-28,-35.508228200000005,included_game_day
+2019,2501,Portland Pilots,2018-12-05,-40.991624900000005,included_game_day
+2019,2501,Portland Pilots,2018-12-08,-30.054849636600004,included_game_day
+2019,2501,Portland Pilots,2018-12-15,-46.137682879471,included_game_day
+2019,2501,Portland Pilots,2018-12-17,-51.4608747804479,included_game_day
+2019,2501,Portland Pilots,2018-12-21,-41.68662063788542,included_game_day
+2019,2501,Portland Pilots,2018-12-29,-52.3159433401662,included_game_day
+2019,2501,Portland Pilots,2019-01-05,-53.623652566365635,included_game_day
+2019,2501,Portland Pilots,2019-01-10,-65.67194395411502,included_game_day
+2019,2501,Portland Pilots,2019-01-12,-70.7056771991516,included_game_day
+2019,2501,Portland Pilots,2019-01-17,-84.96762744583714,included_game_day
+2019,2501,Portland Pilots,2019-01-19,-80.25300133338988,included_game_day
+2019,2501,Portland Pilots,2019-01-24,-81.70837825250945,included_game_day
+2019,2501,Portland Pilots,2019-01-26,-75.70587925224075,included_game_day
+2019,2501,Portland Pilots,2019-01-31,-93.30059439713806,included_game_day
+2019,2501,Portland Pilots,2019-02-02,-90.38555854769736,included_game_day
+2019,2501,Portland Pilots,2019-02-07,-114.23036371950005,included_game_day
+2019,2501,Portland Pilots,2019-02-09,-120.99167657358652,included_game_day
+2019,2501,Portland Pilots,2019-02-16,-109.32010911907327,included_game_day
+2019,2501,Portland Pilots,2019-02-21,-100.65150458070731,included_game_day
+2019,2501,Portland Pilots,2019-02-23,-91.60818032713169,included_game_day
+2019,2501,Portland Pilots,2019-02-28,-85.15775239233389,included_game_day
+2019,2501,Portland Pilots,2019-03-02,-95.77304168171304,included_game_day
+2019,2501,Portland Pilots,2019-03-07,-103.23828256565793,included_game_day
+2020,2501,Portland Pilots,2019-11-08,-5.4,included_game_day
+2020,2501,Portland Pilots,2019-11-10,14.24,included_game_day
+2020,2501,Portland Pilots,2019-11-16,18.534,included_game_day
+2020,2501,Portland Pilots,2019-11-20,25.748199999999997,included_game_day
+2020,2501,Portland Pilots,2019-11-23,25.676381,included_game_day
+2020,2501,Portland Pilots,2019-12-01,20.4548859,included_game_day
+2020,2501,Portland Pilots,2019-12-04,-0.6414895699999974,included_game_day
+2020,2501,Portland Pilots,2019-12-07,-4.701934954949998,included_game_day
+2020,2501,Portland Pilots,2019-12-16,-10.247995739255,included_game_day
+2020,2501,Portland Pilots,2019-12-19,-31.0546043264395,included_game_day
+2020,2501,Portland Pilots,2019-12-22,-45.880482117051656,included_game_day
+2020,2501,Portland Pilots,2019-12-23,-56.028930418536916,included_game_day
+2020,2501,Portland Pilots,2019-12-25,-62.15807151906901,included_game_day
+2020,2501,Portland Pilots,2020-01-02,-56.931619404281975,included_game_day
+2020,2501,Portland Pilots,2020-01-04,-39.09234165861525,included_game_day
+2020,2501,Portland Pilots,2020-01-11,-47.14229586956408,included_game_day
+2020,2501,Portland Pilots,2020-01-16,-52.113013182711555,included_game_day
+2020,2501,Portland Pilots,2020-01-18,-65.83724841139558,included_game_day
+2020,2501,Portland Pilots,2020-01-23,-72.29083090369699,included_game_day
+2020,2501,Portland Pilots,2020-01-25,-72.3427418935934,included_game_day
+2020,2501,Portland Pilots,2020-01-30,-74.14671262597476,included_game_day
+2020,2501,Portland Pilots,2020-02-01,-92.00420921198003,included_game_day
+2020,2501,Portland Pilots,2020-02-06,-104.4979463891207,included_game_day
+2020,2501,Portland Pilots,2020-02-08,-104.20424470029442,included_game_day
+2020,2501,Portland Pilots,2020-02-13,-107.75970495892982,included_game_day
+2020,2501,Portland Pilots,2020-02-20,-105.62758491115504,included_game_day
+2020,2501,Portland Pilots,2020-02-22,-107.80803693744011,included_game_day
+2020,2501,Portland Pilots,2020-02-27,-104.46264575306995,included_game_day
+2020,2501,Portland Pilots,2020-02-29,-96.39159755156322,included_game_day
+2020,2501,Portland Pilots,2020-03-05,-101.93475899035785,included_game_day
+2021,2501,Portland Pilots,2020-11-25,-15.0,included_game_day
+2021,2501,Portland Pilots,2020-12-05,-3.5,included_game_day
+2021,2501,Portland Pilots,2020-12-10,0.7447470000000003,included_game_day
+2021,2501,Portland Pilots,2020-12-19,-30.4749764956,included_game_day
+2021,2501,Portland Pilots,2020-12-22,-28.71564784604,included_game_day
+2021,2501,Portland Pilots,2020-12-30,-42.841278478636,included_game_day
+2021,2501,Portland Pilots,2021-01-07,-54.87993776074176,included_game_day
+2021,2501,Portland Pilots,2021-01-09,-65.0702973179286,included_game_day
+2021,2501,Portland Pilots,2021-01-14,-72.58252946652865,included_game_day
+2021,2501,Portland Pilots,2021-01-16,-81.86286892517202,included_game_day
+2021,2501,Portland Pilots,2021-01-21,-91.6126239818079,included_game_day
+2021,2501,Portland Pilots,2021-01-23,-97.593300583427,included_game_day
+2021,2501,Portland Pilots,2021-01-25,-115.93037019438293,included_game_day
+2021,2501,Portland Pilots,2021-02-04,-145.80480062391658,included_game_day
+2021,2501,Portland Pilots,2021-02-06,-156.14806673170565,included_game_day
+2021,2501,Portland Pilots,2021-02-11,-166.1454066247117,included_game_day
+2021,2501,Portland Pilots,2021-02-20,-177.13804986087146,included_game_day
+2021,2501,Portland Pilots,2021-03-04,-169.65992400860424,included_game_day
+2022,2501,Portland Pilots,2021-11-09,-13.0,included_game_day
+2022,2501,Portland Pilots,2021-11-13,-12.05,included_game_day
+2022,2501,Portland Pilots,2021-11-18,-7.301000000000001,included_game_day
+2022,2501,Portland Pilots,2021-11-20,-2.251050000000001,included_game_day
+2022,2501,Portland Pilots,2021-11-23,15.374055,included_game_day
+2022,2501,Portland Pilots,2021-11-26,9.7844795,included_game_day
+2022,2501,Portland Pilots,2021-11-27,11.97744025,included_game_day
+2022,2501,Portland Pilots,2021-11-28,15.24438545,included_game_day
+2022,2501,Portland Pilots,2021-12-03,1.006462505,included_game_day
+2022,2501,Portland Pilots,2021-12-13,-3.933870722937,included_game_day
+2022,2501,Portland Pilots,2021-12-15,-25.2728719916813,included_game_day
+2022,2501,Portland Pilots,2021-12-17,-38.99186764764717,included_game_day
+2022,2501,Portland Pilots,2021-12-19,-31.029399187787053,included_game_day
+2022,2501,Portland Pilots,2021-12-22,-18.74437884540464,included_game_day
+2022,2501,Portland Pilots,2022-01-13,-20.881969688633752,included_game_day
+2022,2501,Portland Pilots,2022-01-15,-2.832750341895462,included_game_day
+2022,2501,Portland Pilots,2022-01-17,-13.374347849429748,included_game_day
+2022,2501,Portland Pilots,2022-01-22,-14.48089466014582,included_game_day
+2022,2501,Portland Pilots,2022-01-27,-14.69948248886491,included_game_day
+2022,2501,Portland Pilots,2022-01-29,-20.393594587086213,included_game_day
+2022,2501,Portland Pilots,2022-02-03,-31.290553709998463,included_game_day
+2022,2501,Portland Pilots,2022-02-05,-24.272379761627853,included_game_day
+2022,2501,Portland Pilots,2022-02-08,-8.657840602931365,included_game_day
+2022,2501,Portland Pilots,2022-02-12,-4.866642279252411,included_game_day
+2022,2501,Portland Pilots,2022-02-17,21.195659427933755,included_game_day
+2022,2501,Portland Pilots,2022-02-19,10.235709224601951,included_game_day
+2022,2501,Portland Pilots,2022-02-24,10.319183038349,included_game_day
+2022,2501,Portland Pilots,2022-02-26,6.200650351710129,included_game_day
+2022,2501,Portland Pilots,2022-03-04,18.011866812720548,included_game_day
+2022,2501,Portland Pilots,2022-03-06,-0.46408098269159126,included_game_day
+2022,2501,Portland Pilots,2022-03-19,12.381644409834706,included_game_day
+2022,2501,Portland Pilots,2022-03-26,6.405297520759757,included_game_day
+2023,2501,Portland Pilots,2022-11-09,30.8,included_game_day
+2023,2501,Portland Pilots,2022-11-11,31.72,included_game_day
+2023,2501,Portland Pilots,2022-11-14,22.048,included_game_day
+2023,2501,Portland Pilots,2022-11-17,34.9822,included_game_day
+2023,2501,Portland Pilots,2022-11-19,18.90478,included_game_day
+2023,2501,Portland Pilots,2022-11-24,13.260402,included_game_day
+2023,2501,Portland Pilots,2022-11-25,25.6448118,included_game_day
+2023,2501,Portland Pilots,2022-11-27,24.564141199999998,included_game_day
+2023,2501,Portland Pilots,2022-12-03,37.197757823299995,included_game_day
+2023,2501,Portland Pilots,2022-12-05,17.614600667269993,included_game_day
+2023,2501,Portland Pilots,2022-12-10,46.055601530542994,included_game_day
+2023,2501,Portland Pilots,2022-12-17,27.094010813840587,included_game_day
+2023,2501,Portland Pilots,2022-12-22,15.576142204984656,included_game_day
+2023,2501,Portland Pilots,2022-12-29,-5.465781117287843,included_game_day
+2023,2501,Portland Pilots,2022-12-31,-10.130833491838876,included_game_day
+2023,2501,Portland Pilots,2023-01-07,-38.535329555647266,included_game_day
+2023,2501,Portland Pilots,2023-01-12,-28.829311664985116,included_game_day
+2023,2501,Portland Pilots,2023-01-14,-53.02898186414592,included_game_day
+2023,2501,Portland Pilots,2023-01-19,-48.81337456880054,included_game_day
+2023,2501,Portland Pilots,2023-01-21,-35.66642327430753,included_game_day
+2023,2501,Portland Pilots,2023-01-26,-42.654049479400655,included_game_day
+2023,2501,Portland Pilots,2023-01-28,-45.48739137152847,included_game_day
+2023,2501,Portland Pilots,2023-02-02,-22.348529026340387,included_game_day
+2023,2501,Portland Pilots,2023-02-04,-24.106465168968384,included_game_day
+2023,2501,Portland Pilots,2023-02-09,-18.110563623662856,included_game_day
+2023,2501,Portland Pilots,2023-02-11,-22.62290105447656,included_game_day
+2023,2501,Portland Pilots,2023-02-18,-37.1903108837642,included_game_day
+2023,2501,Portland Pilots,2023-02-23,-30.15997069579118,included_game_day
+2023,2501,Portland Pilots,2023-02-25,-31.72783139893084,included_game_day
+2023,2501,Portland Pilots,2023-03-02,-14.628540778756221,included_game_day
+2023,2501,Portland Pilots,2023-03-03,-16.485654483944984,included_game_day
+2024,2501,Portland Pilots,2023-11-06,2.0,included_game_day
+2024,2501,Portland Pilots,2023-11-12,7.52,included_game_day
+2024,2501,Portland Pilots,2023-11-15,-6.231999999999999,included_game_day
+2024,2501,Portland Pilots,2023-11-18,-20.9123,included_game_day
+2024,2501,Portland Pilots,2023-11-28,-14.413159999999998,included_game_day
+2024,2501,Portland Pilots,2023-12-01,-5.450368099999999,included_game_day
+2024,2501,Portland Pilots,2023-12-03,-28.1351376,included_game_day
+2024,2501,Portland Pilots,2023-12-07,-35.4826733212,included_game_day
+2024,2501,Portland Pilots,2023-12-09,-20.972307164579995,included_game_day
+2024,2501,Portland Pilots,2023-12-16,-41.38422793848349,included_game_day
+2024,2501,Portland Pilots,2023-12-21,-44.71910458070311,included_game_day
+2024,2501,Portland Pilots,2023-12-23,-58.219432709504375,included_game_day
+2024,2501,Portland Pilots,2023-12-24,-56.24696757033753,included_game_day
+2024,2501,Portland Pilots,2024-01-06,-51.451687992120696,included_game_day
+2024,2501,Portland Pilots,2024-01-11,-78.38189123581485,included_game_day
+2024,2501,Portland Pilots,2024-01-13,-84.39621115907018,included_game_day
+2024,2501,Portland Pilots,2024-01-20,-85.86347981454044,included_game_day
+2024,2501,Portland Pilots,2024-01-23,-93.2158151106588,included_game_day
+2024,2501,Portland Pilots,2024-01-25,-108.66571282057681,included_game_day
+2024,2501,Portland Pilots,2024-01-27,-103.53736739763619,included_game_day
+2024,2501,Portland Pilots,2024-02-01,-98.98565910440506,included_game_day
+2024,2501,Portland Pilots,2024-02-03,-95.5461850203044,included_game_day
+2024,2501,Portland Pilots,2024-02-07,-101.76709423747914,included_game_day
+2024,2501,Portland Pilots,2024-02-10,-103.5339542717375,included_game_day
+2024,2501,Portland Pilots,2024-02-15,-99.6620958264467,included_game_day
+2024,2501,Portland Pilots,2024-02-17,-115.02458898644213,included_game_day
+2024,2501,Portland Pilots,2024-02-22,-113.53616735625847,included_game_day
+2024,2501,Portland Pilots,2024-02-29,-96.40409925319929,included_game_day
+2024,2501,Portland Pilots,2024-03-02,-79.76232683257,included_game_day
+2024,2501,Portland Pilots,2024-03-08,-65.44890889606657,included_game_day
+2024,2501,Portland Pilots,2024-03-10,-73.47608842053991,included_game_day
+2025,2501,Portland Pilots,2024-11-09,-44.0,included_game_day
+2025,2501,Portland Pilots,2024-11-12,-42.72,included_game_day
+2025,2501,Portland Pilots,2024-11-16,-35.739,included_game_day
+2025,2501,Portland Pilots,2024-11-21,-38.422,included_game_day
+2025,2501,Portland Pilots,2024-11-22,-49.59589,included_game_day
+2025,2501,Portland Pilots,2024-11-24,-72.4262136,included_game_day
+2025,2501,Portland Pilots,2024-12-01,-64.23686350999999,included_game_day
+2025,2501,Portland Pilots,2024-12-06,-72.32663531429999,included_game_day
+2025,2501,Portland Pilots,2024-12-10,-79.01009779684999,included_game_day
+2025,2501,Portland Pilots,2024-12-18,-93.582332046934,included_game_day
+2025,2501,Portland Pilots,2024-12-21,-80.10812327286278,included_game_day
+2025,2501,Portland Pilots,2024-12-28,-85.45600470452719,included_game_day
+2025,2501,Portland Pilots,2024-12-30,-76.15001513880347,included_game_day
+2025,2501,Portland Pilots,2025-01-02,-83.74983680313213,included_game_day
+2025,2501,Portland Pilots,2025-01-04,-94.15938273880374,included_game_day
+2025,2501,Portland Pilots,2025-01-09,-84.05070103139369,included_game_day
+2025,2501,Portland Pilots,2025-01-16,-84.96365253053679,included_game_day
+2025,2501,Portland Pilots,2025-01-18,-90.97455838309921,included_game_day
+2025,2501,Portland Pilots,2025-01-23,-82.75701041327558,included_game_day
+2025,2501,Portland Pilots,2025-01-25,-108.50871621344946,included_game_day
+2025,2501,Portland Pilots,2025-01-30,-120.51340051358383,included_game_day
+2025,2501,Portland Pilots,2025-02-01,-87.52693206174357,included_game_day
+2025,2501,Portland Pilots,2025-02-06,-119.10609101318074,included_game_day
+2025,2501,Portland Pilots,2025-02-13,-92.02430845672657,included_game_day
+2025,2501,Portland Pilots,2025-02-15,-77.0965448979598,included_game_day
+2025,2501,Portland Pilots,2025-02-19,-62.7387310910016,included_game_day
+2025,2501,Portland Pilots,2025-02-22,-50.698373262241375,included_game_day
+2025,2501,Portland Pilots,2025-02-27,-36.68503391400475,included_game_day
+2025,2501,Portland Pilots,2025-03-01,-41.85852567517413,included_game_day
+2025,2501,Portland Pilots,2025-03-07,-60.50211620150535,included_game_day
+2026,2501,Portland Pilots,2025-11-06,1.9000000000000004,included_game_day
+2026,2501,Portland Pilots,2025-11-09,3.62,included_game_day
+2026,2501,Portland Pilots,2025-11-15,-28.794999999999998,included_game_day
+2026,2501,Portland Pilots,2025-11-21,-14.97909,included_game_day
+2026,2501,Portland Pilots,2025-11-22,-21.704228999999998,included_game_day
+2026,2501,Portland Pilots,2025-11-23,-33.330613,included_game_day
+2026,2501,Portland Pilots,2025-11-26,-17.6517657,included_game_day
+2026,2501,Portland Pilots,2025-12-01,-30.629327447999998,included_game_day
+2026,2501,Portland Pilots,2025-12-14,-16.9140854632,included_game_day
+2026,2501,Portland Pilots,2025-12-17,-34.214485514467256,included_game_day
+2026,2501,Portland Pilots,2025-12-22,-45.52776180829791,included_game_day
+2026,2501,Portland Pilots,2025-12-28,-49.43138745813316,included_game_day
+2026,2501,Portland Pilots,2025-12-30,-48.01849883566038,included_game_day
+2026,2501,Portland Pilots,2026-01-02,-51.086739195408725,included_game_day
+2026,2501,Portland Pilots,2026-01-04,-45.29829083446833,included_game_day
+2026,2501,Portland Pilots,2026-01-08,-40.587860879346124,included_game_day
+2026,2501,Portland Pilots,2026-01-10,-37.13507992171367,included_game_day
+2026,2501,Portland Pilots,2026-01-14,-43.47095007186392,included_game_day
+2026,2501,Portland Pilots,2026-01-17,-24.50437071819,included_game_day
+2026,2501,Portland Pilots,2026-01-24,-19.077580107612448,included_game_day
+2026,2501,Portland Pilots,2026-01-28,-34.555972280603726,included_game_day
+2026,2501,Portland Pilots,2026-01-31,-56.588840677651625,included_game_day
+2026,2501,Portland Pilots,2026-02-04,-29.189225548362582,included_game_day
+2026,2501,Portland Pilots,2026-02-07,-28.565351947322785,included_game_day
+2026,2501,Portland Pilots,2026-02-11,-41.33532023830518,included_game_day
+2026,2501,Portland Pilots,2026-02-18,-57.567031782031776,included_game_day
+2026,2501,Portland Pilots,2026-02-21,-59.08729558961734,included_game_day
+2026,2501,Portland Pilots,2026-02-25,-73.90163471616853,included_game_day
+2026,2501,Portland Pilots,2026-02-28,-63.52504347455091,included_game_day
+2026,2501,Portland Pilots,2026-03-05,-54.36010432063466,included_game_day
+2026,2501,Portland Pilots,2026-03-06,-42.441352500918796,included_game_day
+2026,2501,Portland Pilots,2026-03-07,-55.86361535656727,included_game_day
+2027,2501,Portland Pilots,2026-11-06,-4.0,included_game_day
+2027,2501,Portland Pilots,2026-11-09,6.859999999999999,included_game_day
+2027,2501,Portland Pilots,2026-11-13,-3.524000000000001,included_game_day
+2027,2501,Portland Pilots,2026-11-18,4.1445799999999995,included_game_day
+2027,2501,Portland Pilots,2026-11-21,-11.488394000000001,included_game_day
+2027,2501,Portland Pilots,2026-11-22,-26.1112556,included_game_day

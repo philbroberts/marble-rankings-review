@@ -1,0 +1,1030 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,2643,Citadel,1987-11-27,-28.0,included_game_day
+1988,2643,Citadel,1987-11-28,-13.4,included_game_day
+1988,2643,Citadel,1987-12-02,-24.060000000000002,included_game_day
+1988,2643,Citadel,1987-12-05,-30.707,included_game_day
+1988,2643,Citadel,1987-12-17,-46.784244650000005,included_game_day
+1988,2643,Citadel,1988-01-04,-57.49059356976703,included_game_day
+1988,2643,Citadel,1988-01-07,-54.1009850534688,included_game_day
+1988,2643,Citadel,1988-01-09,-60.495767294199716,included_game_day
+1988,2643,Citadel,1988-01-21,-70.72159601233898,included_game_day
+1988,2643,Citadel,1988-01-23,-80.43598621347981,included_game_day
+1988,2643,Citadel,1988-01-25,-91.42318319908593,included_game_day
+1988,2643,Citadel,1988-01-30,-91.30810719733158,included_game_day
+1988,2643,Citadel,1988-02-01,-90.32586481765362,included_game_day
+1988,2643,Citadel,1988-02-06,-96.82865063722113,included_game_day
+1988,2643,Citadel,1988-02-08,-96.01687540466226,included_game_day
+1988,2643,Citadel,1988-02-10,-104.06982964838244,included_game_day
+1988,2643,Citadel,1988-02-13,-97.48315313912248,included_game_day
+1988,2643,Citadel,1988-02-15,-109.09309739005991,included_game_day
+1988,2643,Citadel,1988-02-20,-110.29244982586746,included_game_day
+1988,2643,Citadel,1988-02-22,-92.89048962128636,included_game_day
+1988,2643,Citadel,1988-02-24,-99.10418937278693,included_game_day
+1988,2643,Citadel,1988-02-27,-77.3589663184735,included_game_day
+1988,2643,Citadel,1988-02-29,-73.60940332169372,included_game_day
+1988,2643,Citadel,1988-03-04,-102.29216949898968,included_game_day
+1989,2643,Citadel,1988-11-26,-35.5,included_game_day
+1989,2643,Citadel,1988-11-28,-42.95,included_game_day
+1989,2643,Citadel,1988-12-01,-27.545,included_game_day
+1989,2643,Citadel,1988-12-19,-36.8404015,included_game_day
+1989,2643,Citadel,1988-12-20,-1.1385357297499965,included_game_day
+1989,2643,Citadel,1989-01-07,0.562375055264777,included_game_day
+1989,2643,Citadel,1989-01-09,-0.7395247213224767,included_game_day
+1989,2643,Citadel,1989-01-14,2.7865136492043536,included_game_day
+1989,2643,Citadel,1989-01-21,-4.930140817445453,included_game_day
+1989,2643,Citadel,1989-01-23,9.426573580025506,included_game_day
+1989,2643,Citadel,1989-01-25,-7.813652950647951,included_game_day
+1989,2643,Citadel,1989-01-28,-13.644859754316423,included_game_day
+1989,2643,Citadel,1989-01-30,11.063702696794719,included_game_day
+1989,2643,Citadel,1989-02-02,1.1308240556378806,included_game_day
+1989,2643,Citadel,1989-02-04,-6.816500817946556,included_game_day
+1989,2643,Citadel,1989-02-06,-5.2874761571844004,included_game_day
+1989,2643,Citadel,1989-02-11,0.3475825951271627,included_game_day
+1989,2643,Citadel,1989-02-13,-8.614068739373693,included_game_day
+1989,2643,Citadel,1989-02-18,-4.267294566084255,included_game_day
+1989,2643,Citadel,1989-02-20,10.881133768472663,included_game_day
+1989,2643,Citadel,1989-02-22,20.29994892153326,included_game_day
+1989,2643,Citadel,1989-02-25,15.01106573110912,included_game_day
+1989,2643,Citadel,1989-02-27,8.546384340673916,included_game_day
+1989,2643,Citadel,1989-03-03,1.9861233878774973,included_game_day
+1990,2643,Citadel,1989-11-28,-19.555,included_game_day
+1990,2643,Citadel,1989-12-06,-17.6135,included_game_day
+1990,2643,Citadel,1989-12-09,-32.93785,included_game_day
+1990,2643,Citadel,1990-01-03,-49.90932090155482,included_game_day
+1990,2643,Citadel,1990-01-06,-34.39933100459266,included_game_day
+1990,2643,Citadel,1990-01-08,-20.487708410781458,included_game_day
+1990,2643,Citadel,1990-01-13,-48.596905456937094,included_game_day
+1990,2643,Citadel,1990-01-15,-71.46180739244261,included_game_day
+1990,2643,Citadel,1990-01-20,-56.444339740543825,included_game_day
+1990,2643,Citadel,1990-01-22,-41.58097666029008,included_game_day
+1990,2643,Citadel,1990-01-27,-60.23562532619272,included_game_day
+1990,2643,Citadel,1990-01-29,-64.23710218201403,included_game_day
+1990,2643,Citadel,1990-02-03,-61.84129481454028,included_game_day
+1990,2643,Citadel,1990-02-05,-59.59098290182921,included_game_day
+1990,2643,Citadel,1990-02-07,-54.83241387343134,included_game_day
+1990,2643,Citadel,1990-02-10,-45.679465368317665,included_game_day
+1990,2643,Citadel,1990-02-12,-50.291703096432535,included_game_day
+1990,2643,Citadel,1990-02-14,-53.678010021044734,included_game_day
+1990,2643,Citadel,1990-02-17,-48.099197602551286,included_game_day
+1990,2643,Citadel,1990-02-19,-44.22717770014178,included_game_day
+1990,2643,Citadel,1990-02-22,-41.72204715011277,included_game_day
+1990,2643,Citadel,1990-02-24,-40.18786412906955,included_game_day
+1990,2643,Citadel,1990-02-26,-43.38902638472696,included_game_day
+1990,2643,Citadel,1990-03-02,-51.786327774398956,included_game_day
+1991,2643,Citadel,1990-11-24,-21.0,included_game_day
+1991,2643,Citadel,1990-11-28,-25.558,included_game_day
+1991,2643,Citadel,1990-12-06,-32.1892,included_game_day
+1991,2643,Citadel,1990-12-30,-32.44864813444984,included_game_day
+1991,2643,Citadel,1991-01-05,-44.39623849636648,included_game_day
+1991,2643,Citadel,1991-01-07,-61.10894108142118,included_game_day
+1991,2643,Citadel,1991-01-12,-65.20699507309385,included_game_day
+1991,2643,Citadel,1991-01-14,-66.69336419137181,included_game_day
+1991,2643,Citadel,1991-01-16,-77.98151774769488,included_game_day
+1991,2643,Citadel,1991-01-19,-87.92679506684036,included_game_day
+1991,2643,Citadel,1991-01-21,-93.5515654566403,included_game_day
+1991,2643,Citadel,1991-01-23,-83.71101709469274,included_game_day
+1991,2643,Citadel,1991-01-26,-89.28392464283914,included_game_day
+1991,2643,Citadel,1991-01-28,-92.77095493734353,included_game_day
+1991,2643,Citadel,1991-01-31,-92.87759955216028,included_game_day
+1991,2643,Citadel,1991-02-02,-105.33633305563845,included_game_day
+1991,2643,Citadel,1991-02-04,-108.1136616803629,included_game_day
+1991,2643,Citadel,1991-02-09,-119.85257043441823,included_game_day
+1991,2643,Citadel,1991-02-11,-130.92134776922185,included_game_day
+1991,2643,Citadel,1991-02-16,-121.85594427365692,included_game_day
+1991,2643,Citadel,1991-02-18,-156.43296931749745,included_game_day
+1991,2643,Citadel,1991-02-23,-146.29004686672582,included_game_day
+1991,2643,Citadel,1991-02-25,-121.38499599977757,included_game_day
+1991,2643,Citadel,1991-03-01,-126.37981830134825,included_game_day
+1992,2643,Citadel,1991-11-24,-36.0,included_game_day
+1992,2643,Citadel,1991-11-25,-66.9,included_game_day
+1992,2643,Citadel,1991-11-29,-53.510000000000005,included_game_day
+1992,2643,Citadel,1991-11-30,-78.23500000000001,included_game_day
+1992,2643,Citadel,1991-12-02,-85.18790000000001,included_game_day
+1992,2643,Citadel,1991-12-05,-82.43911000000001,included_game_day
+1992,2643,Citadel,1991-12-09,-55.13829900000001,included_game_day
+1992,2643,Citadel,1991-12-18,-78.44990254100001,included_game_day
+1992,2643,Citadel,1992-01-11,-70.330303164224,included_game_day
+1992,2643,Citadel,1992-01-13,-83.4922676713695,included_game_day
+1992,2643,Citadel,1992-01-18,-97.57795298331135,included_game_day
+1992,2643,Citadel,1992-01-25,-98.67033857390831,included_game_day
+1992,2643,Citadel,1992-01-27,-106.22258765372933,included_game_day
+1992,2643,Citadel,1992-02-01,-98.6958162319431,included_game_day
+1992,2643,Citadel,1992-02-03,-107.09692091911727,included_game_day
+1992,2643,Citadel,1992-02-08,-107.79973180063843,included_game_day
+1992,2643,Citadel,1992-02-10,-107.67406437877278,included_game_day
+1992,2643,Citadel,1992-02-15,-83.10180176683289,included_game_day
+1992,2643,Citadel,1992-02-17,-71.11367254843279,included_game_day
+1992,2643,Citadel,1992-02-19,-66.76784754603956,included_game_day
+1992,2643,Citadel,1992-02-22,-91.26766676468537,included_game_day
+1992,2643,Citadel,1992-02-24,-85.99734243235054,included_game_day
+1992,2643,Citadel,1992-02-29,-85.30566251478366,included_game_day
+1992,2643,Citadel,1992-03-02,-85.13653347188769,included_game_day
+1992,2643,Citadel,1992-03-06,-104.54512433311999,included_game_day
+1993,2643,Citadel,1992-12-02,2.0,included_game_day
+1993,2643,Citadel,1992-12-05,1.6,included_game_day
+1993,2643,Citadel,1992-12-07,-30.729999999999997,included_game_day
+1993,2643,Citadel,1992-12-13,-46.157,included_game_day
+1993,2643,Citadel,1992-12-19,-53.59112999999999,included_game_day
+1993,2643,Citadel,1993-01-02,-52.11811361501999,included_game_day
+1993,2643,Citadel,1993-01-05,-60.050487005517994,included_game_day
+1993,2643,Citadel,1993-01-09,-70.25331476130759,included_game_day
+1993,2643,Citadel,1993-01-10,-83.69642094329731,included_game_day
+1993,2643,Citadel,1993-01-16,-76.9847226006157,included_game_day
+1993,2643,Citadel,1993-01-17,-77.77475497532984,included_game_day
+1993,2643,Citadel,1993-01-20,-81.88649310490354,included_game_day
+1993,2643,Citadel,1993-01-23,-75.61048789638724,included_game_day
+1993,2643,Citadel,1993-01-24,-97.05461356229003,included_game_day
+1993,2643,Citadel,1993-01-27,-86.9154371747207,included_game_day
+1993,2643,Citadel,1993-01-30,-80.91911728731908,included_game_day
+1993,2643,Citadel,1993-02-06,-71.40898241544122,included_game_day
+1993,2643,Citadel,1993-02-07,-58.45563698864656,included_game_day
+1993,2643,Citadel,1993-02-10,-58.40079025999209,included_game_day
+1993,2643,Citadel,1993-02-13,-47.28847713672036,included_game_day
+1993,2643,Citadel,1993-02-14,-59.894852892996354,included_game_day
+1993,2643,Citadel,1993-02-20,-40.88915311241293,included_game_day
+1993,2643,Citadel,1993-02-21,-36.72759106370315,included_game_day
+1993,2643,Citadel,1993-02-25,-34.2496397968759,included_game_day
+1993,2643,Citadel,1993-02-27,-41.22777443479217,included_game_day
+1993,2643,Citadel,1993-02-28,-31.418810793420775,included_game_day
+1993,2643,Citadel,1993-03-05,-59.7685809465703,included_game_day
+1994,2643,Citadel,1993-12-01,-10.9,included_game_day
+1994,2643,Citadel,1993-12-04,-10.651990000000001,included_game_day
+1994,2643,Citadel,1993-12-09,-9.538391,included_game_day
+1994,2643,Citadel,1993-12-18,-13.8884702,included_game_day
+1994,2643,Citadel,1993-12-29,2.636591020000001,included_game_day
+1994,2643,Citadel,1994-01-05,-3.7636673748633065,included_game_day
+1994,2643,Citadel,1994-01-08,-23.264289112766612,included_game_day
+1994,2643,Citadel,1994-01-10,-31.186432468147082,included_game_day
+1994,2643,Citadel,1994-01-15,-26.27667081580961,included_game_day
+1994,2643,Citadel,1994-01-17,-39.46591038228125,included_game_day
+1994,2643,Citadel,1994-01-19,-31.502710047657303,included_game_day
+1994,2643,Citadel,1994-01-22,-26.355391949418753,included_game_day
+1994,2643,Citadel,1994-01-24,-23.39637707223079,included_game_day
+1994,2643,Citadel,1994-01-26,-36.644386311285146,included_game_day
+1994,2643,Citadel,1994-01-29,-42.7542072439154,included_game_day
+1994,2643,Citadel,1994-02-05,-40.786398229183625,included_game_day
+1994,2643,Citadel,1994-02-07,-45.41284504912222,included_game_day
+1994,2643,Citadel,1994-02-10,-39.12795307593977,included_game_day
+1994,2643,Citadel,1994-02-12,-25.523466734385792,included_game_day
+1994,2643,Citadel,1994-02-15,-37.79172138840651,included_game_day
+1994,2643,Citadel,1994-02-19,-60.48203017836911,included_game_day
+1994,2643,Citadel,1994-02-21,-41.074548445637966,included_game_day
+1994,2643,Citadel,1994-02-26,-58.759166881009136,included_game_day
+1994,2643,Citadel,1994-02-28,-64.62335892990791,included_game_day
+1994,2643,Citadel,1994-03-03,-69.96780814859909,included_game_day
+1995,2643,Citadel,1994-11-29,5.0,included_game_day
+1995,2643,Citadel,1994-12-03,-14.649000000000001,included_game_day
+1995,2643,Citadel,1994-12-06,-24.293100000000003,included_game_day
+1995,2643,Citadel,1994-12-18,-22.173509960000004,included_game_day
+1995,2643,Citadel,1994-12-20,-35.502514988,included_game_day
+1995,2643,Citadel,1994-12-29,-29.4619680729,included_game_day
+1995,2643,Citadel,1994-12-30,-23.0614262656092,included_game_day
+1995,2643,Citadel,1995-01-04,-21.27004498304828,included_game_day
+1995,2643,Citadel,1995-01-14,-55.26839806789549,included_game_day
+1995,2643,Citadel,1995-01-17,-47.6245870163092,included_game_day
+1995,2643,Citadel,1995-01-21,-66.87929325113329,included_game_day
+1995,2643,Citadel,1995-01-23,-78.12930186149092,included_game_day
+1995,2643,Citadel,1995-01-28,-72.35906219996879,included_game_day
+1995,2643,Citadel,1995-01-30,-82.42330413700078,included_game_day
+1995,2643,Citadel,1995-02-04,-95.73514351337232,included_game_day
+1995,2643,Citadel,1995-02-06,-83.73201283988159,included_game_day
+1995,2643,Citadel,1995-02-11,-79.30214036246734,included_game_day
+1995,2643,Citadel,1995-02-14,-75.66787397960549,included_game_day
+1995,2643,Citadel,1995-02-18,-95.63090217889354,included_game_day
+1995,2643,Citadel,1995-02-20,-83.55477544055874,included_game_day
+1995,2643,Citadel,1995-02-23,-70.83761428041032,included_game_day
+1995,2643,Citadel,1995-02-25,-89.64776859327358,included_game_day
+1995,2643,Citadel,1995-02-27,-95.83636651247832,included_game_day
+1995,2643,Citadel,1995-03-03,-108.76373211199117,included_game_day
+1996,2643,Citadel,1995-11-30,6.4749,included_game_day
+1996,2643,Citadel,1995-12-05,-15.704989,included_game_day
+1996,2643,Citadel,1995-12-08,-36.476390099999996,included_game_day
+1996,2643,Citadel,1995-12-09,-57.00779009,included_game_day
+1996,2643,Citadel,1995-12-21,-96.325117171,included_game_day
+1996,2643,Citadel,1996-01-03,-99.5460155082127,included_game_day
+1996,2643,Citadel,1996-01-10,-91.1199021783787,included_game_day
+1996,2643,Citadel,1996-01-13,-75.36023517633464,included_game_day
+1996,2643,Citadel,1996-01-15,-66.44168510799283,included_game_day
+1996,2643,Citadel,1996-01-20,-62.44512685342114,included_game_day
+1996,2643,Citadel,1996-01-22,-51.4532112873129,included_game_day
+1996,2643,Citadel,1996-01-25,-50.632061009514906,included_game_day
+1996,2643,Citadel,1996-01-27,-62.80952753829193,included_game_day
+1996,2643,Citadel,1996-01-29,-83.322566695882,included_game_day
+1996,2643,Citadel,1996-02-03,-115.32944461868507,included_game_day
+1996,2643,Citadel,1996-02-05,-142.34840876641383,included_game_day
+1996,2643,Citadel,1996-02-10,-133.78825474164995,included_game_day
+1996,2643,Citadel,1996-02-12,-135.71605020407657,included_game_day
+1996,2643,Citadel,1996-02-17,-133.5135563009048,included_game_day
+1996,2643,Citadel,1996-02-19,-127.30212081688292,included_game_day
+1996,2643,Citadel,1996-02-24,-136.0046640320869,included_game_day
+1996,2643,Citadel,1996-02-26,-125.36119954048776,included_game_day
+1996,2643,Citadel,1996-02-29,-126.30763347950248,included_game_day
+1997,2643,Citadel,1996-11-25,-34.4,included_game_day
+1997,2643,Citadel,1996-11-30,-19.832,included_game_day
+1997,2643,Citadel,1996-12-07,-19.3416,included_game_day
+1997,2643,Citadel,1996-12-12,-2.17802,included_game_day
+1997,2643,Citadel,1996-12-21,-0.6010404629020005,included_game_day
+1997,2643,Citadel,1996-12-30,-6.9606468766628,included_game_day
+1997,2643,Citadel,1997-01-02,-20.158179817239798,included_game_day
+1997,2643,Citadel,1997-01-06,-7.851333096627219,included_game_day
+1997,2643,Citadel,1997-01-11,-8.716945200399923,included_game_day
+1997,2643,Citadel,1997-01-13,-9.945165188923044,included_game_day
+1997,2643,Citadel,1997-01-18,-31.479356873556426,included_game_day
+1997,2643,Citadel,1997-01-20,-51.7669130155132,included_game_day
+1997,2643,Citadel,1997-01-25,-69.89963528954071,included_game_day
+1997,2643,Citadel,1997-01-27,-73.6922977478635,included_game_day
+1997,2643,Citadel,1997-02-01,-76.0987056568383,included_game_day
+1997,2643,Citadel,1997-02-03,-70.25011341693532,included_game_day
+1997,2643,Citadel,1997-02-08,-58.122264679971224,included_game_day
+1997,2643,Citadel,1997-02-10,-56.71775522430657,included_game_day
+1997,2643,Citadel,1997-02-15,-31.79654513315504,included_game_day
+1997,2643,Citadel,1997-02-17,-39.42706321027797,included_game_day
+1997,2643,Citadel,1997-02-20,-53.81617441359229,included_game_day
+1997,2643,Citadel,1997-02-22,-39.90408126613381,included_game_day
+1997,2643,Citadel,1997-02-28,-54.173968990443825,included_game_day
+1998,2643,Citadel,1997-11-17,-16.0,included_game_day
+1998,2643,Citadel,1997-11-21,-30.0,included_game_day
+1998,2643,Citadel,1997-11-25,-10.386600000000001,included_game_day
+1998,2643,Citadel,1997-12-03,-12.030547860000002,included_game_day
+1998,2643,Citadel,1997-12-06,-17.36996484,included_game_day
+1998,2643,Citadel,1997-12-09,-9.621505496000001,included_game_day
+1998,2643,Citadel,1997-12-13,-1.7380583254000008,included_game_day
+1998,2643,Citadel,1998-01-03,-12.608974950150053,included_game_day
+1998,2643,Citadel,1998-01-05,3.999551387519677,included_game_day
+1998,2643,Citadel,1998-01-10,-11.442957677980273,included_game_day
+1998,2643,Citadel,1998-01-12,-4.386260857407967,included_game_day
+1998,2643,Citadel,1998-01-17,-3.153199319579686,included_game_day
+1998,2643,Citadel,1998-01-19,2.6530219715403867,included_game_day
+1998,2643,Citadel,1998-01-21,-11.563798353686117,included_game_day
+1998,2643,Citadel,1998-01-26,-18.32931466221448,included_game_day
+1998,2643,Citadel,1998-01-31,1.609068163231015,included_game_day
+1998,2643,Citadel,1998-02-02,-10.2164589782855,included_game_day
+1998,2643,Citadel,1998-02-07,-32.458759300453025,included_game_day
+1998,2643,Citadel,1998-02-09,-43.61616852878265,included_game_day
+1998,2643,Citadel,1998-02-14,-34.23063439661221,included_game_day
+1998,2643,Citadel,1998-02-16,-40.53084797477679,included_game_day
+1998,2643,Citadel,1998-02-21,-49.559055416267654,included_game_day
+1998,2643,Citadel,1998-02-27,-40.94313181976746,included_game_day
+1998,2643,Citadel,1998-02-28,-42.292448006303644,included_game_day
+1999,2643,Citadel,1998-11-20,-16.54,included_game_day
+1999,2643,Citadel,1998-11-28,-22.723,included_game_day
+1999,2643,Citadel,1998-12-02,-20.254267077999998,included_game_day
+1999,2643,Citadel,1998-12-05,-41.5810323702,included_game_day
+1999,2643,Citadel,1998-12-08,-57.48936496918,included_game_day
+1999,2643,Citadel,1998-12-21,-48.411823801962,included_game_day
+1999,2643,Citadel,1998-12-29,-55.981673849342585,included_game_day
+1999,2643,Citadel,1999-01-04,-70.60121173874528,included_game_day
+1999,2643,Citadel,1999-01-09,-77.41554407439543,included_game_day
+1999,2643,Citadel,1999-01-11,-101.39751338161622,included_game_day
+1999,2643,Citadel,1999-01-13,-111.45223637852197,included_game_day
+1999,2643,Citadel,1999-01-16,-113.329576410565,included_game_day
+1999,2643,Citadel,1999-01-18,-107.95087874088702,included_game_day
+1999,2643,Citadel,1999-01-23,-92.24585693624928,included_game_day
+1999,2643,Citadel,1999-01-25,-95.15456111573661,included_game_day
+1999,2643,Citadel,1999-01-30,-84.06165592763183,included_game_day
+1999,2643,Citadel,1999-02-01,-91.408889690679,included_game_day
+1999,2643,Citadel,1999-02-06,-98.6121815078854,included_game_day
+1999,2643,Citadel,1999-02-09,-98.43280223348417,included_game_day
+1999,2643,Citadel,1999-02-13,-103.97765287439839,included_game_day
+1999,2643,Citadel,1999-02-15,-116.91955241396391,included_game_day
+1999,2643,Citadel,1999-02-20,-124.47213084412782,included_game_day
+1999,2643,Citadel,1999-02-25,-128.3164184648061,included_game_day
+2000,2643,Citadel,1999-11-21,-12.9,included_game_day
+2000,2643,Citadel,1999-11-23,-23.310000000000002,included_game_day
+2000,2643,Citadel,1999-11-27,-36.179,included_game_day
+2000,2643,Citadel,1999-12-03,-44.1218,included_game_day
+2000,2643,Citadel,1999-12-04,-55.4571117,included_game_day
+2000,2643,Citadel,1999-12-08,-65.62306583,included_game_day
+2000,2643,Citadel,1999-12-21,-79.754090208833,included_game_day
+2000,2643,Citadel,1999-12-23,-76.79187306932977,included_game_day
+2000,2643,Citadel,1999-12-30,-92.61168787751497,included_game_day
+2000,2643,Citadel,2000-01-03,-120.9826703557089,included_game_day
+2000,2643,Citadel,2000-01-08,-98.36450484835228,included_game_day
+2000,2643,Citadel,2000-01-10,-85.63862018907999,included_game_day
+2000,2643,Citadel,2000-01-15,-80.30885655603808,included_game_day
+2000,2643,Citadel,2000-01-17,-87.07042572167019,included_game_day
+2000,2643,Citadel,2000-01-22,-92.44779540974604,included_game_day
+2000,2643,Citadel,2000-01-24,-116.01796153228226,included_game_day
+2000,2643,Citadel,2000-01-31,-118.48332019963529,included_game_day
+2000,2643,Citadel,2000-02-05,-97.28648023813084,included_game_day
+2000,2643,Citadel,2000-02-07,-93.56059359192795,included_game_day
+2000,2643,Citadel,2000-02-12,-97.14975881599074,included_game_day
+2000,2643,Citadel,2000-02-14,-108.38333892679856,included_game_day
+2000,2643,Citadel,2000-02-19,-105.475808060307,included_game_day
+2000,2643,Citadel,2000-02-21,-94.09219095156578,included_game_day
+2000,2643,Citadel,2000-02-26,-101.32290598417305,included_game_day
+2000,2643,Citadel,2000-03-02,-110.64186997322719,included_game_day
+2001,2643,Citadel,2000-11-25,-3.71,included_game_day
+2001,2643,Citadel,2000-12-02,-2.9318999999999997,included_game_day
+2001,2643,Citadel,2000-12-05,-7.120372,included_game_day
+2001,2643,Citadel,2000-12-18,9.499996084620001,included_game_day
+2001,2643,Citadel,2000-12-22,-7.656631500097291,included_game_day
+2001,2643,Citadel,2000-12-29,23.78415125811755,included_game_day
+2001,2643,Citadel,2000-12-30,20.369453568159837,included_game_day
+2001,2643,Citadel,2001-01-03,16.272751634248415,included_game_day
+2001,2643,Citadel,2001-01-06,-0.18498089161894526,included_game_day
+2001,2643,Citadel,2001-01-08,-11.366448366778572,included_game_day
+2001,2643,Citadel,2001-01-13,-3.407626823273657,included_game_day
+2001,2643,Citadel,2001-01-15,-24.792834444076085,included_game_day
+2001,2643,Citadel,2001-01-20,-40.178091430533506,included_game_day
+2001,2643,Citadel,2001-01-22,-35.402794432003205,included_game_day
+2001,2643,Citadel,2001-01-27,-34.203190179181526,included_game_day
+2001,2643,Citadel,2001-01-29,-40.85988742077893,included_game_day
+2001,2643,Citadel,2001-02-03,-40.516746001135594,included_game_day
+2001,2643,Citadel,2001-02-05,-40.06778119605866,included_game_day
+2001,2643,Citadel,2001-02-10,-32.13930229609407,included_game_day
+2001,2643,Citadel,2001-02-12,-23.40667842159858,included_game_day
+2001,2643,Citadel,2001-02-17,-12.217403997543215,included_game_day
+2001,2643,Citadel,2001-02-19,-27.43773950914208,included_game_day
+2001,2643,Citadel,2001-02-25,-21.367609032224493,included_game_day
+2001,2643,Citadel,2001-03-01,-39.24207053568859,included_game_day
+2002,2643,The Citadel Bulldogs,2001-11-23,-0.38899999999999935,included_game_day
+2002,2643,The Citadel Bulldogs,2001-11-26,-0.015499999999999403,included_game_day
+2002,2643,The Citadel Bulldogs,2001-11-29,32.30088000000001,included_game_day
+2002,2643,The Citadel Bulldogs,2001-12-01,19.48285200000001,included_game_day
+2002,2643,The Citadel Bulldogs,2001-12-08,32.41001198000001,included_game_day
+2002,2643,The Citadel Bulldogs,2001-12-20,21.794119889528005,included_game_day
+2002,2643,The Citadel Bulldogs,2001-12-29,20.393882285868603,included_game_day
+2002,2643,The Citadel Bulldogs,2002-01-02,23.262655498377832,included_game_day
+2002,2643,The Citadel Bulldogs,2002-01-05,33.45624279924701,included_game_day
+2002,2643,The Citadel Bulldogs,2002-01-07,19.736789761601244,included_game_day
+2002,2643,The Citadel Bulldogs,2002-01-12,26.847598310342583,included_game_day
+2002,2643,The Citadel Bulldogs,2002-01-14,28.868351544199058,included_game_day
+2002,2643,The Citadel Bulldogs,2002-01-19,30.7847580319248,included_game_day
+2002,2643,The Citadel Bulldogs,2002-01-21,22.5336734812805,included_game_day
+2002,2643,The Citadel Bulldogs,2002-01-26,7.268565768401061,included_game_day
+2002,2643,The Citadel Bulldogs,2002-01-28,-0.6904307515457218,included_game_day
+2002,2643,The Citadel Bulldogs,2002-02-02,-3.4013314309927196,included_game_day
+2002,2643,The Citadel Bulldogs,2002-02-04,0.05153192772994153,included_game_day
+2002,2643,The Citadel Bulldogs,2002-02-09,-7.069971472188065,included_game_day
+2002,2643,The Citadel Bulldogs,2002-02-11,-17.43043048913944,included_game_day
+2002,2643,The Citadel Bulldogs,2002-02-16,-21.48565627781353,included_game_day
+2002,2643,The Citadel Bulldogs,2002-02-18,-3.196690368023585,included_game_day
+2002,2643,The Citadel Bulldogs,2002-02-23,-4.168813988077845,included_game_day
+2002,2643,The Citadel Bulldogs,2002-02-28,-4.2855169440642165,included_game_day
+2002,2643,The Citadel Bulldogs,2002-03-01,-13.151253971041971,included_game_day
+2003,2643,The Citadel Bulldogs,2002-11-25,-2.1,included_game_day
+2003,2643,The Citadel Bulldogs,2002-11-27,-45.93,included_game_day
+2003,2643,The Citadel Bulldogs,2002-12-02,-57.4895,included_game_day
+2003,2643,The Citadel Bulldogs,2002-12-05,-42.63297,included_game_day
+2003,2643,The Citadel Bulldogs,2002-12-21,-59.949911342920004,included_game_day
+2003,2643,The Citadel Bulldogs,2002-12-30,-57.00774645987079,included_game_day
+2003,2643,The Citadel Bulldogs,2003-01-02,-62.78857093908571,included_game_day
+2003,2643,The Citadel Bulldogs,2003-01-05,-68.51647755501546,included_game_day
+2003,2643,The Citadel Bulldogs,2003-01-11,-66.73122558072897,included_game_day
+2003,2643,The Citadel Bulldogs,2003-01-13,-81.99385704607359,included_game_day
+2003,2643,The Citadel Bulldogs,2003-01-18,-67.7304429305126,included_game_day
+2003,2643,The Citadel Bulldogs,2003-01-21,-60.55997489291273,included_game_day
+2003,2643,The Citadel Bulldogs,2003-01-25,-71.57427254173732,included_game_day
+2003,2643,The Citadel Bulldogs,2003-01-27,-77.5838280971973,included_game_day
+2003,2643,The Citadel Bulldogs,2003-02-01,-75.23844136248726,included_game_day
+2003,2643,The Citadel Bulldogs,2003-02-03,-62.13677978846576,included_game_day
+2003,2643,The Citadel Bulldogs,2003-02-08,-66.6586638551154,included_game_day
+2003,2643,The Citadel Bulldogs,2003-02-10,-63.97660532921187,included_game_day
+2003,2643,The Citadel Bulldogs,2003-02-15,-68.8149557653195,included_game_day
+2003,2643,The Citadel Bulldogs,2003-02-17,-82.3324055644728,included_game_day
+2003,2643,The Citadel Bulldogs,2003-02-22,-82.99875340365736,included_game_day
+2003,2643,The Citadel Bulldogs,2003-02-24,-98.87153165800461,included_game_day
+2003,2643,The Citadel Bulldogs,2003-03-01,-102.12343484472058,included_game_day
+2003,2643,The Citadel Bulldogs,2003-03-05,-100.18255861854551,included_game_day
+2004,2643,The Citadel Bulldogs,2003-11-28,-17.469,included_game_day
+2004,2643,The Citadel Bulldogs,2003-12-01,-31.620440000000002,included_game_day
+2004,2643,The Citadel Bulldogs,2003-12-03,-55.580617000000004,included_game_day
+2004,2643,The Citadel Bulldogs,2003-12-09,-61.6685553,included_game_day
+2004,2643,The Citadel Bulldogs,2003-12-17,-98.4178575624,included_game_day
+2004,2643,The Citadel Bulldogs,2003-12-22,-105.56728030206,included_game_day
+2004,2643,The Citadel Bulldogs,2003-12-30,-116.2889408521129,included_game_day
+2004,2643,The Citadel Bulldogs,2004-01-02,-91.91477828558615,included_game_day
+2004,2643,The Citadel Bulldogs,2004-01-06,-108.75617864810313,included_game_day
+2004,2643,The Citadel Bulldogs,2004-01-10,-118.22419412617724,included_game_day
+2004,2643,The Citadel Bulldogs,2004-01-17,-138.87142716122176,included_game_day
+2004,2643,The Citadel Bulldogs,2004-01-19,-140.22133104417384,included_game_day
+2004,2643,The Citadel Bulldogs,2004-01-24,-134.80227555176722,included_game_day
+2004,2643,The Citadel Bulldogs,2004-01-26,-153.63469112817177,included_game_day
+2004,2643,The Citadel Bulldogs,2004-01-31,-160.92913953980047,included_game_day
+2004,2643,The Citadel Bulldogs,2004-02-03,-166.5491494122936,included_game_day
+2004,2643,The Citadel Bulldogs,2004-02-07,-173.43667774149475,included_game_day
+2004,2643,The Citadel Bulldogs,2004-02-09,-173.27910541177835,included_game_day
+2004,2643,The Citadel Bulldogs,2004-02-14,-171.3726216091513,included_game_day
+2004,2643,The Citadel Bulldogs,2004-02-16,-174.21584499746524,included_game_day
+2004,2643,The Citadel Bulldogs,2004-02-21,-164.66534497347126,included_game_day
+2004,2643,The Citadel Bulldogs,2004-02-23,-149.61270851313031,included_game_day
+2004,2643,The Citadel Bulldogs,2004-02-28,-133.50822507550902,included_game_day
+2004,2643,The Citadel Bulldogs,2004-03-03,-130.74118818736434,included_game_day
+2005,2643,The Citadel Bulldogs,2004-11-20,10.0,included_game_day
+2005,2643,The Citadel Bulldogs,2004-11-26,-25.15,included_game_day
+2005,2643,The Citadel Bulldogs,2004-12-15,-17.661956249731,included_game_day
+2005,2643,The Citadel Bulldogs,2004-12-17,-29.2610780537003,included_game_day
+2005,2643,The Citadel Bulldogs,2004-12-21,-31.015474787302267,included_game_day
+2005,2643,The Citadel Bulldogs,2004-12-30,-19.675725275142312,included_game_day
+2005,2643,The Citadel Bulldogs,2005-01-05,-21.805485782992754,included_game_day
+2005,2643,The Citadel Bulldogs,2005-01-08,-15.466037708281057,included_game_day
+2005,2643,The Citadel Bulldogs,2005-01-10,-8.6254070953072,included_game_day
+2005,2643,The Citadel Bulldogs,2005-01-15,-29.40052916216372,included_game_day
+2005,2643,The Citadel Bulldogs,2005-01-17,-25.461119367317146,included_game_day
+2005,2643,The Citadel Bulldogs,2005-01-22,-40.48548883360106,included_game_day
+2005,2643,The Citadel Bulldogs,2005-01-24,-37.917368984201424,included_game_day
+2005,2643,The Citadel Bulldogs,2005-01-29,-53.95675812518138,included_game_day
+2005,2643,The Citadel Bulldogs,2005-01-31,-66.42229409842119,included_game_day
+2005,2643,The Citadel Bulldogs,2005-02-03,-75.46436752620164,included_game_day
+2005,2643,The Citadel Bulldogs,2005-02-07,-76.20634982748795,included_game_day
+2005,2643,The Citadel Bulldogs,2005-02-10,-75.99277921449475,included_game_day
+2005,2643,The Citadel Bulldogs,2005-02-14,-97.55428987958226,included_game_day
+2005,2643,The Citadel Bulldogs,2005-02-17,-113.11126613563175,included_game_day
+2005,2643,The Citadel Bulldogs,2005-02-19,-122.00789312284547,included_game_day
+2005,2643,The Citadel Bulldogs,2005-02-22,-116.86310121441934,included_game_day
+2005,2643,The Citadel Bulldogs,2005-02-26,-134.56427234372026,included_game_day
+2005,2643,The Citadel Bulldogs,2005-03-02,-127.40839057363658,included_game_day
+2006,2643,The Citadel Bulldogs,2005-11-18,-17.0,included_game_day
+2006,2643,The Citadel Bulldogs,2005-11-19,-41.6,included_game_day
+2006,2643,The Citadel Bulldogs,2005-11-20,-29.700000000000003,included_game_day
+2006,2643,The Citadel Bulldogs,2005-11-26,-23.64,included_game_day
+2006,2643,The Citadel Bulldogs,2005-12-01,-41.270324,included_game_day
+2006,2643,The Citadel Bulldogs,2005-12-18,-65.0788254605,included_game_day
+2006,2643,The Citadel Bulldogs,2005-12-20,-90.6278005964036,included_game_day
+2006,2643,The Citadel Bulldogs,2005-12-31,-92.9233613291232,included_game_day
+2006,2643,The Citadel Bulldogs,2006-01-04,-121.40761867803347,included_game_day
+2006,2643,The Citadel Bulldogs,2006-01-07,-129.07316370621425,included_game_day
+2006,2643,The Citadel Bulldogs,2006-01-10,-147.24054287737,included_game_day
+2006,2643,The Citadel Bulldogs,2006-01-14,-140.15710016107798,included_game_day
+2006,2643,The Citadel Bulldogs,2006-01-16,-152.66792597054862,included_game_day
+2006,2643,The Citadel Bulldogs,2006-01-21,-157.3019105504496,included_game_day
+2006,2643,The Citadel Bulldogs,2006-01-23,-164.50712449712066,included_game_day
+2006,2643,The Citadel Bulldogs,2006-01-28,-156.909902129321,included_game_day
+2006,2643,The Citadel Bulldogs,2006-01-30,-157.2139908325125,included_game_day
+2006,2643,The Citadel Bulldogs,2006-02-04,-153.35447769735245,included_game_day
+2006,2643,The Citadel Bulldogs,2006-02-07,-158.85254555065697,included_game_day
+2006,2643,The Citadel Bulldogs,2006-02-11,-165.94205129332187,included_game_day
+2006,2643,The Citadel Bulldogs,2006-02-13,-153.99432502332712,included_game_day
+2006,2643,The Citadel Bulldogs,2006-02-16,-161.76721363798822,included_game_day
+2006,2643,The Citadel Bulldogs,2006-02-20,-173.12496489799372,included_game_day
+2006,2643,The Citadel Bulldogs,2006-02-22,-167.83130396996486,included_game_day
+2006,2643,The Citadel Bulldogs,2006-02-25,-145.8901435084066,included_game_day
+2006,2643,The Citadel Bulldogs,2006-03-02,-119.2572026129191,included_game_day
+2006,2643,The Citadel Bulldogs,2006-03-03,-108.16634310483809,included_game_day
+2007,2643,The Citadel Bulldogs,2006-11-12,-25.810000000000002,included_game_day
+2007,2643,The Citadel Bulldogs,2006-11-13,-42.229,included_game_day
+2007,2643,The Citadel Bulldogs,2006-11-16,-45.6061,included_game_day
+2007,2643,The Citadel Bulldogs,2006-11-19,-56.10749,included_game_day
+2007,2643,The Citadel Bulldogs,2006-11-21,-64.018801,included_game_day
+2007,2643,The Citadel Bulldogs,2006-11-27,-75.66826089999999,included_game_day
+2007,2643,The Citadel Bulldogs,2006-12-02,-77.48429551,included_game_day
+2007,2643,The Citadel Bulldogs,2006-12-04,-76.32315338449,included_game_day
+2007,2643,The Citadel Bulldogs,2006-12-18,-87.51058578855199,included_game_day
+2007,2643,The Citadel Bulldogs,2006-12-20,-92.66865711065964,included_game_day
+2007,2643,The Citadel Bulldogs,2007-01-03,-86.95611818403506,included_game_day
+2007,2643,The Citadel Bulldogs,2007-01-06,-80.11561783057421,included_game_day
+2007,2643,The Citadel Bulldogs,2007-01-09,-85.0590281718529,included_game_day
+2007,2643,The Citadel Bulldogs,2007-01-13,-77.87714432861323,included_game_day
+2007,2643,The Citadel Bulldogs,2007-01-16,-86.12305898203883,included_game_day
+2007,2643,The Citadel Bulldogs,2007-01-20,-82.45808732139314,included_game_day
+2007,2643,The Citadel Bulldogs,2007-01-22,-77.1517475463525,included_game_day
+2007,2643,The Citadel Bulldogs,2007-01-27,-102.36729735329975,included_game_day
+2007,2643,The Citadel Bulldogs,2007-02-03,-112.16449369095977,included_game_day
+2007,2643,The Citadel Bulldogs,2007-02-05,-110.0216558652923,included_game_day
+2007,2643,The Citadel Bulldogs,2007-02-10,-132.20504635092456,included_game_day
+2007,2643,The Citadel Bulldogs,2007-02-12,-139.129435912542,included_game_day
+2007,2643,The Citadel Bulldogs,2007-02-17,-148.82225739837313,included_game_day
+2007,2643,The Citadel Bulldogs,2007-02-19,-156.4720391766679,included_game_day
+2007,2643,The Citadel Bulldogs,2007-02-22,-142.98424634801341,included_game_day
+2007,2643,The Citadel Bulldogs,2007-02-24,-137.4276918492071,included_game_day
+2007,2643,The Citadel Bulldogs,2007-02-28,-138.50219500785644,included_game_day
+2008,2643,The Citadel Bulldogs,2007-11-12,-55.8,included_game_day
+2008,2643,The Citadel Bulldogs,2007-11-15,-82.02,included_game_day
+2008,2643,The Citadel Bulldogs,2007-11-20,-92.1764,included_game_day
+2008,2643,The Citadel Bulldogs,2007-11-26,-85.931383,included_game_day
+2008,2643,The Citadel Bulldogs,2007-12-01,-90.49420373,included_game_day
+2008,2643,The Citadel Bulldogs,2007-12-13,-96.568831617038,included_game_day
+2008,2643,The Citadel Bulldogs,2007-12-20,-98.8034976863302,included_game_day
+2008,2643,The Citadel Bulldogs,2008-01-03,-104.45252059494506,included_game_day
+2008,2643,The Citadel Bulldogs,2008-01-05,-108.84515040021844,included_game_day
+2008,2643,The Citadel Bulldogs,2008-01-07,-121.73681769132769,included_game_day
+2008,2643,The Citadel Bulldogs,2008-01-12,-132.99960612628564,included_game_day
+2008,2643,The Citadel Bulldogs,2008-01-14,-144.0269784341788,included_game_day
+2008,2643,The Citadel Bulldogs,2008-01-24,-140.98779106623996,included_game_day
+2008,2643,The Citadel Bulldogs,2008-01-26,-136.86637873632847,included_game_day
+2008,2643,The Citadel Bulldogs,2008-01-30,-133.13746439996302,included_game_day
+2008,2643,The Citadel Bulldogs,2008-02-04,-132.12261505160333,included_game_day
+2008,2643,The Citadel Bulldogs,2008-02-09,-118.03642470563011,included_game_day
+2008,2643,The Citadel Bulldogs,2008-02-11,-121.60443408324774,included_game_day
+2008,2643,The Citadel Bulldogs,2008-02-14,-112.83928251663288,included_game_day
+2008,2643,The Citadel Bulldogs,2008-02-16,-112.2532492608776,included_game_day
+2008,2643,The Citadel Bulldogs,2008-02-20,-123.88202107323765,included_game_day
+2008,2643,The Citadel Bulldogs,2008-02-23,-133.53702482097336,included_game_day
+2008,2643,The Citadel Bulldogs,2008-02-28,-143.08320502701048,included_game_day
+2008,2643,The Citadel Bulldogs,2008-03-01,-144.90807562646694,included_game_day
+2008,2643,The Citadel Bulldogs,2008-03-07,-148.81542324986592,included_game_day
+2009,2643,The Citadel Bulldogs,2008-11-16,-20.0,included_game_day
+2009,2643,The Citadel Bulldogs,2008-11-20,-41.33,included_game_day
+2009,2643,The Citadel Bulldogs,2008-11-25,-32.114599999999996,included_game_day
+2009,2643,The Citadel Bulldogs,2008-11-29,-37.91338,included_game_day
+2009,2643,The Citadel Bulldogs,2008-11-30,-26.807235,included_game_day
+2009,2643,The Citadel Bulldogs,2008-12-04,-18.6680672,included_game_day
+2009,2643,The Citadel Bulldogs,2008-12-06,-21.291787944,included_game_day
+2009,2643,The Citadel Bulldogs,2008-12-15,-42.27733781497,included_game_day
+2009,2643,The Citadel Bulldogs,2008-12-17,-41.490962413942995,included_game_day
+2009,2643,The Citadel Bulldogs,2008-12-20,-38.135946062974384,included_game_day
+2009,2643,The Citadel Bulldogs,2009-01-03,-38.567658489792855,included_game_day
+2009,2643,The Citadel Bulldogs,2009-01-08,-34.051661946942225,included_game_day
+2009,2643,The Citadel Bulldogs,2009-01-10,-41.483345168861874,included_game_day
+2009,2643,The Citadel Bulldogs,2009-01-12,-49.677978697714074,included_game_day
+2009,2643,The Citadel Bulldogs,2009-01-15,-48.129290292015476,included_game_day
+2009,2643,The Citadel Bulldogs,2009-01-17,-44.48421157991853,included_game_day
+2009,2643,The Citadel Bulldogs,2009-01-22,-32.169094906022934,included_game_day
+2009,2643,The Citadel Bulldogs,2009-01-24,-21.69728747529425,included_game_day
+2009,2643,The Citadel Bulldogs,2009-01-26,6.354382671553285,included_game_day
+2009,2643,The Citadel Bulldogs,2009-01-29,-3.8535698810140264,included_game_day
+2009,2643,The Citadel Bulldogs,2009-01-31,-11.73333091928089,included_game_day
+2009,2643,The Citadel Bulldogs,2009-02-05,-10.703429181645795,included_game_day
+2009,2643,The Citadel Bulldogs,2009-02-07,-1.9243917708314608,included_game_day
+2009,2643,The Citadel Bulldogs,2009-02-12,-3.306390962307333,included_game_day
+2009,2643,The Citadel Bulldogs,2009-02-14,14.631585672767848,included_game_day
+2009,2643,The Citadel Bulldogs,2009-02-18,45.050017731835254,included_game_day
+2009,2643,The Citadel Bulldogs,2009-02-26,49.33589063817801,included_game_day
+2009,2643,The Citadel Bulldogs,2009-02-28,31.873771243608953,included_game_day
+2009,2643,The Citadel Bulldogs,2009-03-02,38.87931973795207,included_game_day
+2009,2643,The Citadel Bulldogs,2009-03-07,22.925897717476808,included_game_day
+2009,2643,The Citadel Bulldogs,2009-03-19,19.824308619480668,included_game_day
+2010,2643,The Citadel Bulldogs,2009-11-17,-7.5,included_game_day
+2010,2643,The Citadel Bulldogs,2009-11-20,0.9499999999999993,included_game_day
+2010,2643,The Citadel Bulldogs,2009-11-21,-11.415000000000001,included_game_day
+2010,2643,The Citadel Bulldogs,2009-11-22,8.792999999999997,included_game_day
+2010,2643,The Citadel Bulldogs,2009-11-24,-5.986300000000002,included_game_day
+2010,2643,The Citadel Bulldogs,2009-11-29,4.856565999999999,included_game_day
+2010,2643,The Citadel Bulldogs,2009-12-03,-12.893501800000001,included_game_day
+2010,2643,The Citadel Bulldogs,2009-12-05,4.955066714999999,included_game_day
+2010,2643,The Citadel Bulldogs,2009-12-07,-3.3479176528000014,included_game_day
+2010,2643,The Citadel Bulldogs,2009-12-19,-14.63612838595015,included_game_day
+2010,2643,The Citadel Bulldogs,2009-12-21,-31.180717778442087,included_game_day
+2010,2643,The Citadel Bulldogs,2010-01-02,-25.380312154334018,included_game_day
+2010,2643,The Citadel Bulldogs,2010-01-06,-18.441578183788966,included_game_day
+2010,2643,The Citadel Bulldogs,2010-01-09,-25.246434188460988,included_game_day
+2010,2643,The Citadel Bulldogs,2010-01-14,-24.067843605745914,included_game_day
+2010,2643,The Citadel Bulldogs,2010-01-16,-21.903444320578572,included_game_day
+2010,2643,The Citadel Bulldogs,2010-01-21,-21.18391459796608,included_game_day
+2010,2643,The Citadel Bulldogs,2010-01-23,-15.967849361129753,included_game_day
+2010,2643,The Citadel Bulldogs,2010-01-28,-23.808645233922135,included_game_day
+2010,2643,The Citadel Bulldogs,2010-01-30,-22.306714180629292,included_game_day
+2010,2643,The Citadel Bulldogs,2010-02-04,-25.749498738864858,included_game_day
+2010,2643,The Citadel Bulldogs,2010-02-06,-22.532105631721187,included_game_day
+2010,2643,The Citadel Bulldogs,2010-02-08,-6.667181893830913,included_game_day
+2010,2643,The Citadel Bulldogs,2010-02-13,-3.568406841939873,included_game_day
+2010,2643,The Citadel Bulldogs,2010-02-18,8.63301583857092,included_game_day
+2010,2643,The Citadel Bulldogs,2010-02-20,-9.583724202366604,included_game_day
+2010,2643,The Citadel Bulldogs,2010-02-25,-26.04246978780501,included_game_day
+2010,2643,The Citadel Bulldogs,2010-02-27,-23.853768329826465,included_game_day
+2010,2643,The Citadel Bulldogs,2010-03-05,-16.474524825907807,included_game_day
+2010,2643,The Citadel Bulldogs,2010-03-06,-22.298540033674954,included_game_day
+2011,2643,The Citadel Bulldogs,2010-11-12,-39.0,included_game_day
+2011,2643,The Citadel Bulldogs,2010-11-16,-40.1,included_game_day
+2011,2643,The Citadel Bulldogs,2010-11-20,-47.19,included_game_day
+2011,2643,The Citadel Bulldogs,2010-11-23,-39.431,included_game_day
+2011,2643,The Citadel Bulldogs,2010-11-27,-41.0116194,included_game_day
+2011,2643,The Citadel Bulldogs,2010-12-02,-35.15790186,included_game_day
+2011,2643,The Citadel Bulldogs,2010-12-04,-48.7647959264,included_game_day
+2011,2643,The Citadel Bulldogs,2010-12-17,-64.275745653674,included_game_day
+2011,2643,The Citadel Bulldogs,2010-12-19,-74.84982953025205,included_game_day
+2011,2643,The Citadel Bulldogs,2010-12-22,-63.41538531941995,included_game_day
+2011,2643,The Citadel Bulldogs,2010-12-23,-74.49266023634479,included_game_day
+2011,2643,The Citadel Bulldogs,2011-01-02,-71.85808200478243,included_game_day
+2011,2643,The Citadel Bulldogs,2011-01-06,-80.00939625154247,included_game_day
+2011,2643,The Citadel Bulldogs,2011-01-08,-86.67556261608541,included_game_day
+2011,2643,The Citadel Bulldogs,2011-01-13,-88.93043473218951,included_game_day
+2011,2643,The Citadel Bulldogs,2011-01-15,-93.66207407838387,included_game_day
+2011,2643,The Citadel Bulldogs,2011-01-17,-74.11690873028122,included_game_day
+2011,2643,The Citadel Bulldogs,2011-01-20,-54.37618951757972,included_game_day
+2011,2643,The Citadel Bulldogs,2011-01-22,-33.60489257135936,included_game_day
+2011,2643,The Citadel Bulldogs,2011-01-26,-19.988638297157372,included_game_day
+2011,2643,The Citadel Bulldogs,2011-02-03,-21.25299745299011,included_game_day
+2011,2643,The Citadel Bulldogs,2011-02-05,-33.652421544068375,included_game_day
+2011,2643,The Citadel Bulldogs,2011-02-07,-46.771989543575835,included_game_day
+2011,2643,The Citadel Bulldogs,2011-02-12,-59.24087554879925,included_game_day
+2011,2643,The Citadel Bulldogs,2011-02-14,-68.26586598854608,included_game_day
+2011,2643,The Citadel Bulldogs,2011-02-17,-79.09430540879646,included_game_day
+2011,2643,The Citadel Bulldogs,2011-02-19,-93.83527556043535,included_game_day
+2011,2643,The Citadel Bulldogs,2011-02-24,-73.20269628113121,included_game_day
+2011,2643,The Citadel Bulldogs,2011-02-26,-75.84550273431216,included_game_day
+2011,2643,The Citadel Bulldogs,2011-03-04,-83.44460064074354,included_game_day
+2012,2643,The Citadel Bulldogs,2011-11-11,-3.0,included_game_day
+2012,2643,The Citadel Bulldogs,2011-11-12,7.0,included_game_day
+2012,2643,The Citadel Bulldogs,2011-11-16,-17.9,included_game_day
+2012,2643,The Citadel Bulldogs,2011-11-26,-22.4958,included_game_day
+2012,2643,The Citadel Bulldogs,2011-12-01,-32.563647599999996,included_game_day
+2012,2643,The Citadel Bulldogs,2011-12-03,-48.08090222,included_game_day
+2012,2643,The Citadel Bulldogs,2011-12-06,-66.86472124,included_game_day
+2012,2643,The Citadel Bulldogs,2011-12-14,-82.638827055,included_game_day
+2012,2643,The Citadel Bulldogs,2011-12-19,-89.98239569328399,included_game_day
+2012,2643,The Citadel Bulldogs,2011-12-22,-83.80953957166757,included_game_day
+2012,2643,The Citadel Bulldogs,2011-12-29,-103.18777178930412,included_game_day
+2012,2643,The Citadel Bulldogs,2012-01-05,-125.36307430552621,included_game_day
+2012,2643,The Citadel Bulldogs,2012-01-07,-113.24651587262728,included_game_day
+2012,2643,The Citadel Bulldogs,2012-01-12,-125.76281230930931,included_game_day
+2012,2643,The Citadel Bulldogs,2012-01-14,-125.82836480852194,included_game_day
+2012,2643,The Citadel Bulldogs,2012-01-21,-132.32045535571518,included_game_day
+2012,2643,The Citadel Bulldogs,2012-01-23,-127.30791159364088,included_game_day
+2012,2643,The Citadel Bulldogs,2012-01-26,-121.9543820857062,included_game_day
+2012,2643,The Citadel Bulldogs,2012-01-28,-123.92549534065589,included_game_day
+2012,2643,The Citadel Bulldogs,2012-02-02,-126.46159807293836,included_game_day
+2012,2643,The Citadel Bulldogs,2012-02-04,-121.82010761460424,included_game_day
+2012,2643,The Citadel Bulldogs,2012-02-09,-114.16877356037969,included_game_day
+2012,2643,The Citadel Bulldogs,2012-02-11,-109.05285025766086,included_game_day
+2012,2643,The Citadel Bulldogs,2012-02-16,-119.8428348978434,included_game_day
+2012,2643,The Citadel Bulldogs,2012-02-18,-109.06717514332269,included_game_day
+2012,2643,The Citadel Bulldogs,2012-02-22,-94.03302412920283,included_game_day
+2012,2643,The Citadel Bulldogs,2012-02-25,-94.89140227833859,included_game_day
+2012,2643,The Citadel Bulldogs,2012-03-02,-102.89500182029465,included_game_day
+2013,2643,The Citadel Bulldogs,2012-11-10,5.0,included_game_day
+2013,2643,The Citadel Bulldogs,2012-11-11,-4.4,included_game_day
+2013,2643,The Citadel Bulldogs,2012-11-24,-21.086599999999997,included_game_day
+2013,2643,The Citadel Bulldogs,2012-12-01,-49.549262999999996,included_game_day
+2013,2643,The Citadel Bulldogs,2012-12-04,-72.4210175,included_game_day
+2013,2643,The Citadel Bulldogs,2012-12-15,-72.95631341137,included_game_day
+2013,2643,The Citadel Bulldogs,2012-12-19,-97.839296213365,included_game_day
+2013,2643,The Citadel Bulldogs,2012-12-22,-112.58859462244203,included_game_day
+2013,2643,The Citadel Bulldogs,2013-01-01,-135.2318888388486,included_game_day
+2013,2643,The Citadel Bulldogs,2013-01-05,-144.0256604063732,included_game_day
+2013,2643,The Citadel Bulldogs,2013-01-10,-142.69038660728938,included_game_day
+2013,2643,The Citadel Bulldogs,2013-01-12,-144.00515144503666,included_game_day
+2013,2643,The Citadel Bulldogs,2013-01-14,-136.16267101679455,included_game_day
+2013,2643,The Citadel Bulldogs,2013-01-17,-149.17410085345452,included_game_day
+2013,2643,The Citadel Bulldogs,2013-01-19,-120.19943065108205,included_game_day
+2013,2643,The Citadel Bulldogs,2013-01-24,-121.1802431770071,included_game_day
+2013,2643,The Citadel Bulldogs,2013-01-26,-114.04120716293869,included_game_day
+2013,2643,The Citadel Bulldogs,2013-01-31,-104.92785746071644,included_game_day
+2013,2643,The Citadel Bulldogs,2013-02-02,-93.24364557488535,included_game_day
+2013,2643,The Citadel Bulldogs,2013-02-07,-102.61365042098042,included_game_day
+2013,2643,The Citadel Bulldogs,2013-02-09,-108.29719390496847,included_game_day
+2013,2643,The Citadel Bulldogs,2013-02-14,-129.33757941752503,included_game_day
+2013,2643,The Citadel Bulldogs,2013-02-16,-124.60276671525125,included_game_day
+2013,2643,The Citadel Bulldogs,2013-02-20,-110.77861851926103,included_game_day
+2013,2643,The Citadel Bulldogs,2013-02-23,-109.68734644204355,included_game_day
+2013,2643,The Citadel Bulldogs,2013-02-28,-105.97151030901449,included_game_day
+2013,2643,The Citadel Bulldogs,2013-03-02,-101.63004480614492,included_game_day
+2013,2643,The Citadel Bulldogs,2013-03-08,-111.328346124926,included_game_day
+2014,2643,The Citadel Bulldogs,2013-11-08,-8.0,included_game_day
+2014,2643,The Citadel Bulldogs,2013-11-09,-23.3,included_game_day
+2014,2643,The Citadel Bulldogs,2013-11-12,-12.77,included_game_day
+2014,2643,The Citadel Bulldogs,2013-11-18,-33.808,included_game_day
+2014,2643,The Citadel Bulldogs,2013-11-21,-51.39494,included_game_day
+2014,2643,The Citadel Bulldogs,2013-11-29,-69.22131329999999,included_game_day
+2014,2643,The Citadel Bulldogs,2013-12-04,-65.18569926999999,included_game_day
+2014,2643,The Citadel Bulldogs,2013-12-07,-75.65148578299998,included_game_day
+2014,2643,The Citadel Bulldogs,2013-12-21,-76.73364771722478,included_game_day
+2014,2643,The Citadel Bulldogs,2013-12-29,-99.49160982251115,included_game_day
+2014,2643,The Citadel Bulldogs,2014-01-02,-104.42130536854819,included_game_day
+2014,2643,The Citadel Bulldogs,2014-01-06,-107.01815326047134,included_game_day
+2014,2643,The Citadel Bulldogs,2014-01-09,-99.93673008216643,included_game_day
+2014,2643,The Citadel Bulldogs,2014-01-11,-98.55265813420952,included_game_day
+2014,2643,The Citadel Bulldogs,2014-01-16,-95.02780821602703,included_game_day
+2014,2643,The Citadel Bulldogs,2014-01-18,-103.10571948907737,included_game_day
+2014,2643,The Citadel Bulldogs,2014-01-23,-117.35915495950762,included_game_day
+2014,2643,The Citadel Bulldogs,2014-01-25,-129.53386157248542,included_game_day
+2014,2643,The Citadel Bulldogs,2014-01-30,-153.5723107531591,included_game_day
+2014,2643,The Citadel Bulldogs,2014-02-01,-148.92271957397696,included_game_day
+2014,2643,The Citadel Bulldogs,2014-02-06,-147.992432632398,included_game_day
+2014,2643,The Citadel Bulldogs,2014-02-08,-156.54225327614367,included_game_day
+2014,2643,The Citadel Bulldogs,2014-02-15,-158.07300834216636,included_game_day
+2014,2643,The Citadel Bulldogs,2014-02-17,-146.33590925618665,included_game_day
+2014,2643,The Citadel Bulldogs,2014-02-22,-149.08449515140836,included_game_day
+2014,2643,The Citadel Bulldogs,2014-02-24,-135.85039062646908,included_game_day
+2014,2643,The Citadel Bulldogs,2014-03-01,-113.8248172781401,included_game_day
+2014,2643,The Citadel Bulldogs,2014-03-07,-100.00558134834687,included_game_day
+2014,2643,The Citadel Bulldogs,2014-03-08,-106.44657244695303,included_game_day
+2015,2643,The Citadel Bulldogs,2014-11-14,-1.0,included_game_day
+2015,2643,The Citadel Bulldogs,2014-11-15,-14.2,included_game_day
+2015,2643,The Citadel Bulldogs,2014-11-25,-22.77546,included_game_day
+2015,2643,The Citadel Bulldogs,2014-12-02,-23.3248942,included_game_day
+2015,2643,The Citadel Bulldogs,2014-12-06,-27.32286777,included_game_day
+2015,2643,The Citadel Bulldogs,2014-12-11,-52.521063053,included_game_day
+2015,2643,The Citadel Bulldogs,2014-12-20,-45.9346341838,included_game_day
+2015,2643,The Citadel Bulldogs,2014-12-22,-55.40611934955251,included_game_day
+2015,2643,The Citadel Bulldogs,2014-12-30,-57.41244149031691,included_game_day
+2015,2643,The Citadel Bulldogs,2015-01-03,-60.67581587090633,included_game_day
+2015,2643,The Citadel Bulldogs,2015-01-05,-58.07888293982455,included_game_day
+2015,2643,The Citadel Bulldogs,2015-01-08,-50.18385739368583,included_game_day
+2015,2643,The Citadel Bulldogs,2015-01-10,-64.84160644961423,included_game_day
+2015,2643,The Citadel Bulldogs,2015-01-15,-57.82351347887903,included_game_day
+2015,2643,The Citadel Bulldogs,2015-01-17,-72.8435392233834,included_game_day
+2015,2643,The Citadel Bulldogs,2015-01-22,-74.64017338409063,included_game_day
+2015,2643,The Citadel Bulldogs,2015-01-24,-80.3389100140131,included_game_day
+2015,2643,The Citadel Bulldogs,2015-01-31,-73.04957801643378,included_game_day
+2015,2643,The Citadel Bulldogs,2015-02-05,-90.31339115048068,included_game_day
+2015,2643,The Citadel Bulldogs,2015-02-07,-105.7821868417465,included_game_day
+2015,2643,The Citadel Bulldogs,2015-02-12,-94.67132832632971,included_game_day
+2015,2643,The Citadel Bulldogs,2015-02-15,-109.43725863722682,included_game_day
+2015,2643,The Citadel Bulldogs,2015-02-19,-98.70549441925738,included_game_day
+2015,2643,The Citadel Bulldogs,2015-02-21,-107.6615421186447,included_game_day
+2015,2643,The Citadel Bulldogs,2015-02-26,-101.39544445911363,included_game_day
+2015,2643,The Citadel Bulldogs,2015-02-28,-112.31787371438459,included_game_day
+2015,2643,The Citadel Bulldogs,2015-03-06,-128.78410430241863,included_game_day
+2016,2643,The Citadel Bulldogs,2015-11-14,-70.0,included_game_day
+2016,2643,The Citadel Bulldogs,2015-11-17,-67.15,included_game_day
+2016,2643,The Citadel Bulldogs,2015-11-21,-74.635,included_game_day
+2016,2643,The Citadel Bulldogs,2015-11-25,-62.761500000000005,included_game_day
+2016,2643,The Citadel Bulldogs,2015-11-28,-51.511905000000006,included_game_day
+2016,2643,The Citadel Bulldogs,2015-12-02,-47.383829500000004,included_game_day
+2016,2643,The Citadel Bulldogs,2015-12-05,-51.711570550000005,included_game_day
+2016,2643,The Citadel Bulldogs,2015-12-16,-39.448219152058,included_game_day
+2016,2643,The Citadel Bulldogs,2015-12-19,-53.9511382448422,included_game_day
+2016,2643,The Citadel Bulldogs,2015-12-29,-71.11873587035419,included_game_day
+2016,2643,The Citadel Bulldogs,2016-01-02,-68.02218957982008,included_game_day
+2016,2643,The Citadel Bulldogs,2016-01-05,-77.78767404044088,included_game_day
+2016,2643,The Citadel Bulldogs,2016-01-09,-81.66394147659983,included_game_day
+2016,2643,The Citadel Bulldogs,2016-01-14,-83.0284463060633,included_game_day
+2016,2643,The Citadel Bulldogs,2016-01-16,-72.40930344631948,included_game_day
+2016,2643,The Citadel Bulldogs,2016-01-21,-65.82277747818365,included_game_day
+2016,2643,The Citadel Bulldogs,2016-01-23,-63.17313023284538,included_game_day
+2016,2643,The Citadel Bulldogs,2016-01-28,-71.13534162526037,included_game_day
+2016,2643,The Citadel Bulldogs,2016-01-30,-74.78299219787448,included_game_day
+2016,2643,The Citadel Bulldogs,2016-02-01,-98.09161306158828,included_game_day
+2016,2643,The Citadel Bulldogs,2016-02-06,-98.2130397557188,included_game_day
+2016,2643,The Citadel Bulldogs,2016-02-08,-104.73179170791983,included_game_day
+2016,2643,The Citadel Bulldogs,2016-02-11,-110.34833969561971,included_game_day
+2016,2643,The Citadel Bulldogs,2016-02-13,-103.53205518204875,included_game_day
+2016,2643,The Citadel Bulldogs,2016-02-18,-112.17218420779447,included_game_day
+2016,2643,The Citadel Bulldogs,2016-02-20,-110.93147681447802,included_game_day
+2016,2643,The Citadel Bulldogs,2016-02-25,-126.35449081379784,included_game_day
+2016,2643,The Citadel Bulldogs,2016-02-27,-136.18070140154117,included_game_day
+2016,2643,The Citadel Bulldogs,2016-03-04,-126.69299336994281,included_game_day
+2017,2643,The Citadel Bulldogs,2016-11-11,-10.0,included_game_day
+2017,2643,The Citadel Bulldogs,2016-11-18,-0.8000000000000007,included_game_day
+2017,2643,The Citadel Bulldogs,2016-11-20,-59.959999999999994,included_game_day
+2017,2643,The Citadel Bulldogs,2016-11-23,-67.24297,included_game_day
+2017,2643,The Citadel Bulldogs,2016-11-28,-55.133573999999996,included_game_day
+2017,2643,The Citadel Bulldogs,2016-12-02,-48.284559099999996,included_game_day
+2017,2643,The Citadel Bulldogs,2016-12-03,-44.717385699999994,included_game_day
+2017,2643,The Citadel Bulldogs,2016-12-04,-53.38145977999999,included_game_day
+2017,2643,The Citadel Bulldogs,2016-12-17,-80.40005570782999,included_game_day
+2017,2643,The Citadel Bulldogs,2016-12-19,-76.78751093656959,included_game_day
+2017,2643,The Citadel Bulldogs,2016-12-28,-79.52393235157233,included_game_day
+2017,2643,The Citadel Bulldogs,2016-12-31,-81.34050289868877,included_game_day
+2017,2643,The Citadel Bulldogs,2017-01-02,-70.00017579226498,included_game_day
+2017,2643,The Citadel Bulldogs,2017-01-05,-104.55095883010719,included_game_day
+2017,2643,The Citadel Bulldogs,2017-01-07,-102.94176005405104,included_game_day
+2017,2643,The Citadel Bulldogs,2017-01-11,-93.59257107811993,included_game_day
+2017,2643,The Citadel Bulldogs,2017-01-14,-94.53472310560569,included_game_day
+2017,2643,The Citadel Bulldogs,2017-01-19,-97.85704824458908,included_game_day
+2017,2643,The Citadel Bulldogs,2017-01-21,-92.24717033863352,included_game_day
+2017,2643,The Citadel Bulldogs,2017-01-28,-96.0261639851369,included_game_day
+2017,2643,The Citadel Bulldogs,2017-02-02,-99.58038101688656,included_game_day
+2017,2643,The Citadel Bulldogs,2017-02-04,-94.6937546776527,included_game_day
+2017,2643,The Citadel Bulldogs,2017-02-09,-97.6154993921562,included_game_day
+2017,2643,The Citadel Bulldogs,2017-02-11,-117.96948255768571,included_game_day
+2017,2643,The Citadel Bulldogs,2017-02-18,-118.92701272030918,included_game_day
+2017,2643,The Citadel Bulldogs,2017-02-22,-127.36466888321954,included_game_day
+2017,2643,The Citadel Bulldogs,2017-02-25,-105.25914229967388,included_game_day
+2017,2643,The Citadel Bulldogs,2017-02-27,-88.61461681125152,included_game_day
+2017,2643,The Citadel Bulldogs,2017-03-03,-84.86122346018134,included_game_day
+2017,2643,The Citadel Bulldogs,2017-03-04,-81.54903819544522,included_game_day
+2018,2643,The Citadel Bulldogs,2017-11-12,-33.1,included_game_day
+2018,2643,The Citadel Bulldogs,2017-11-15,-47.64,included_game_day
+2018,2643,The Citadel Bulldogs,2017-11-18,-37.566,included_game_day
+2018,2643,The Citadel Bulldogs,2017-11-24,-59.97348,included_game_day
+2018,2643,The Citadel Bulldogs,2017-12-01,-72.28110318,included_game_day
+2018,2643,The Citadel Bulldogs,2017-12-02,-97.691938769,included_game_day
+2018,2643,The Citadel Bulldogs,2017-12-05,-92.2813037611,included_game_day
+2018,2643,The Citadel Bulldogs,2017-12-14,-90.38643645162,included_game_day
+2018,2643,The Citadel Bulldogs,2017-12-19,-98.96531167035741,included_game_day
+2018,2643,The Citadel Bulldogs,2017-12-30,-103.01447928263033,included_game_day
+2018,2643,The Citadel Bulldogs,2018-01-04,-125.27453538379189,included_game_day
+2018,2643,The Citadel Bulldogs,2018-01-06,-123.70995178123523,included_game_day
+2018,2643,The Citadel Bulldogs,2018-01-11,-135.39125694367883,included_game_day
+2018,2643,The Citadel Bulldogs,2018-01-13,-124.22091865411639,included_game_day
+2018,2643,The Citadel Bulldogs,2018-01-18,-119.96799216357883,included_game_day
+2018,2643,The Citadel Bulldogs,2018-01-20,-122.58200336562128,included_game_day
+2018,2643,The Citadel Bulldogs,2018-01-27,-103.17377721976058,included_game_day
+2018,2643,The Citadel Bulldogs,2018-01-29,-86.9749625684194,included_game_day
+2018,2643,The Citadel Bulldogs,2018-02-01,-77.84774539041506,included_game_day
+2018,2643,The Citadel Bulldogs,2018-02-03,-57.69021394469662,included_game_day
+2018,2643,The Citadel Bulldogs,2018-02-08,-58.53884316542867,included_game_day
+2018,2643,The Citadel Bulldogs,2018-02-10,-70.88923640696999,included_game_day
+2018,2643,The Citadel Bulldogs,2018-02-15,-75.15605285102829,included_game_day
+2018,2643,The Citadel Bulldogs,2018-02-17,-87.50057885323886,included_game_day
+2018,2643,The Citadel Bulldogs,2018-02-20,-66.60290856889094,included_game_day
+2018,2643,The Citadel Bulldogs,2018-02-23,-73.40314641643772,included_game_day
+2018,2643,The Citadel Bulldogs,2018-02-25,-88.95427638625463,included_game_day
+2018,2643,The Citadel Bulldogs,2018-03-02,-83.96949160026288,included_game_day
+2018,2643,The Citadel Bulldogs,2018-03-03,-81.89526228067697,included_game_day
+2019,2643,The Citadel Bulldogs,2018-11-06,-17.0,included_game_day
+2019,2643,The Citadel Bulldogs,2018-11-16,-38.571,included_game_day
+2019,2643,The Citadel Bulldogs,2018-11-20,-21.491899999999998,included_game_day
+2019,2643,The Citadel Bulldogs,2018-11-24,-9.811015999999997,included_game_day
+2019,2643,The Citadel Bulldogs,2018-11-27,12.855509510000003,included_game_day
+2019,2643,The Citadel Bulldogs,2018-12-01,23.057716559000003,included_game_day
+2019,2643,The Citadel Bulldogs,2018-12-15,27.939395301526,included_game_day
+2019,2643,The Citadel Bulldogs,2018-12-18,32.8852617213734,included_game_day
+2019,2643,The Citadel Bulldogs,2018-12-29,10.025241735373267,included_game_day
+2019,2643,The Citadel Bulldogs,2019-01-03,-12.452163975715042,included_game_day
+2019,2643,The Citadel Bulldogs,2019-01-05,-19.970749486975443,included_game_day
+2019,2643,The Citadel Bulldogs,2019-01-10,-36.872147626240945,included_game_day
+2019,2643,The Citadel Bulldogs,2019-01-12,-55.82583249756365,included_game_day
+2019,2643,The Citadel Bulldogs,2019-01-17,-48.952282618377126,included_game_day
+2019,2643,The Citadel Bulldogs,2019-01-19,-46.51838646661596,included_game_day
+2019,2643,The Citadel Bulldogs,2019-01-24,-57.62626972643642,included_game_day
+2019,2643,The Citadel Bulldogs,2019-01-26,-60.65689238507332,included_game_day
+2019,2643,The Citadel Bulldogs,2019-01-31,-62.27709559697483,included_game_day
+2019,2643,The Citadel Bulldogs,2019-02-02,-88.14523221473809,included_game_day
+2019,2643,The Citadel Bulldogs,2019-02-09,-70.27559369571763,included_game_day
+2019,2643,The Citadel Bulldogs,2019-02-14,-62.58502817065969,included_game_day
+2019,2643,The Citadel Bulldogs,2019-02-16,-82.66087909542875,included_game_day
+2019,2643,The Citadel Bulldogs,2019-02-21,-85.64987984072464,included_game_day
+2019,2643,The Citadel Bulldogs,2019-02-23,-75.57656593800635,included_game_day
+2019,2643,The Citadel Bulldogs,2019-02-28,-71.48370512337031,included_game_day
+2019,2643,The Citadel Bulldogs,2019-03-02,-71.32230595518125,included_game_day
+2019,2643,The Citadel Bulldogs,2019-03-08,-94.57592195386871,included_game_day
+2020,2643,The Citadel Bulldogs,2019-11-09,-19.2,included_game_day
+2020,2643,The Citadel Bulldogs,2019-11-12,-21.68,included_game_day
+2020,2643,The Citadel Bulldogs,2019-11-16,-36.534,included_game_day
+2020,2643,The Citadel Bulldogs,2019-11-19,-26.5506,included_game_day
+2020,2643,The Citadel Bulldogs,2019-11-20,-47.551199999999994,included_game_day
+2020,2643,The Citadel Bulldogs,2019-11-23,-38.04767999999999,included_game_day
+2020,2643,The Citadel Bulldogs,2019-12-04,-44.17803053339999,included_game_day
+2020,2643,The Citadel Bulldogs,2019-12-19,-37.39485413042469,included_game_day
+2020,2643,The Citadel Bulldogs,2019-12-22,-42.80138958352628,included_game_day
+2020,2643,The Citadel Bulldogs,2020-01-01,-42.16911249623888,included_game_day
+2020,2643,The Citadel Bulldogs,2020-01-04,-42.98740183859938,included_game_day
+2020,2643,The Citadel Bulldogs,2020-01-11,-35.40712382519394,included_game_day
+2020,2643,The Citadel Bulldogs,2020-01-15,-38.88672156326519,included_game_day
+2020,2643,The Citadel Bulldogs,2020-01-18,-46.01299236356278,included_game_day
+2020,2643,The Citadel Bulldogs,2020-01-22,-58.89876181575262,included_game_day
+2020,2643,The Citadel Bulldogs,2020-01-25,-75.60789029963632,included_game_day
+2020,2643,The Citadel Bulldogs,2020-01-29,-92.37223605732109,included_game_day
+2020,2643,The Citadel Bulldogs,2020-02-01,-84.07327654409136,included_game_day
+2020,2643,The Citadel Bulldogs,2020-02-05,-86.22838892430923,included_game_day
+2020,2643,The Citadel Bulldogs,2020-02-08,-95.43989860307492,included_game_day
+2020,2643,The Citadel Bulldogs,2020-02-12,-97.43176002496728,included_game_day
+2020,2643,The Citadel Bulldogs,2020-02-15,-113.87394690324814,included_game_day
+2020,2643,The Citadel Bulldogs,2020-02-19,-124.98040568986762,included_game_day
+2020,2643,The Citadel Bulldogs,2020-02-22,-122.05565984037416,included_game_day
+2020,2643,The Citadel Bulldogs,2020-02-26,-126.25029490843761,included_game_day
+2020,2643,The Citadel Bulldogs,2020-02-29,-126.98971108382864,included_game_day
+2020,2643,The Citadel Bulldogs,2020-03-06,-130.18185408716045,included_game_day
+2021,2643,The Citadel Bulldogs,2020-12-03,2.367,included_game_day
+2021,2643,The Citadel Bulldogs,2020-12-19,5.875500239999999,included_game_day
+2021,2643,The Citadel Bulldogs,2020-12-22,12.440346036,included_game_day
+2021,2643,The Citadel Bulldogs,2021-01-09,16.32323562947988,included_game_day
+2021,2643,The Citadel Bulldogs,2021-01-13,12.887331809779651,included_game_day
+2021,2643,The Citadel Bulldogs,2021-01-16,6.849124234838683,included_game_day
+2021,2643,The Citadel Bulldogs,2021-01-18,-0.24319903874233795,included_game_day
+2021,2643,The Citadel Bulldogs,2021-01-20,-22.001974938297522,included_game_day
+2021,2643,The Citadel Bulldogs,2021-01-27,-10.56579873961126,included_game_day
+2021,2643,The Citadel Bulldogs,2021-01-30,-30.890622096625638,included_game_day
+2021,2643,The Citadel Bulldogs,2021-02-01,-30.04056916894466,included_game_day
+2021,2643,The Citadel Bulldogs,2021-02-03,-41.40428405037774,included_game_day
+2021,2643,The Citadel Bulldogs,2021-02-06,-34.120969539965614,included_game_day
+2021,2643,The Citadel Bulldogs,2021-02-10,-20.89279842603146,included_game_day
+2021,2643,The Citadel Bulldogs,2021-02-13,-16.22018583108664,included_game_day
+2021,2643,The Citadel Bulldogs,2021-02-17,-25.096491473852765,included_game_day
+2021,2643,The Citadel Bulldogs,2021-02-20,-19.835189884835348,included_game_day
+2021,2643,The Citadel Bulldogs,2021-02-22,-48.434947920928224,included_game_day
+2021,2643,The Citadel Bulldogs,2021-02-24,-42.109289592725105,included_game_day
+2021,2643,The Citadel Bulldogs,2021-03-05,-26.873142011206152,included_game_day
+2021,2643,The Citadel Bulldogs,2021-03-06,-25.83431617000074,included_game_day
+2022,2643,The Citadel Bulldogs,2021-11-09,18.0,included_game_day
+2022,2643,The Citadel Bulldogs,2021-11-15,14.280000000000001,included_game_day
+2022,2643,The Citadel Bulldogs,2021-11-22,-1.7117799999999992,included_game_day
+2022,2643,The Citadel Bulldogs,2021-11-28,7.2718679999999996,included_game_day
+2022,2643,The Citadel Bulldogs,2021-12-01,-2.2557519999999993,included_game_day
+2022,2643,The Citadel Bulldogs,2021-12-06,0.9682258837000006,included_game_day
+2022,2643,The Citadel Bulldogs,2021-12-20,-26.560261017759622,included_game_day
+2022,2643,The Citadel Bulldogs,2021-12-21,-32.69436711247139,included_game_day
+2022,2643,The Citadel Bulldogs,2022-01-05,-34.980289317119855,included_game_day
+2022,2643,The Citadel Bulldogs,2022-01-08,-38.04928561525107,included_game_day
+2022,2643,The Citadel Bulldogs,2022-01-13,-30.83129446473638,included_game_day
+2022,2643,The Citadel Bulldogs,2022-01-15,-35.564070715588755,included_game_day
+2022,2643,The Citadel Bulldogs,2022-01-17,-42.90216148295049,included_game_day
+2022,2643,The Citadel Bulldogs,2022-01-19,-41.04802018533786,included_game_day
+2022,2643,The Citadel Bulldogs,2022-01-22,-32.95687750138949,included_game_day
+2022,2643,The Citadel Bulldogs,2022-01-26,-39.19390654144028,included_game_day
+2022,2643,The Citadel Bulldogs,2022-01-29,-44.04837920701394,included_game_day
+2022,2643,The Citadel Bulldogs,2022-02-02,-43.40294727608884,included_game_day
+2022,2643,The Citadel Bulldogs,2022-02-05,-28.566606903521574,included_game_day
+2022,2643,The Citadel Bulldogs,2022-02-10,-41.96461185521217,included_game_day
+2022,2643,The Citadel Bulldogs,2022-02-12,-29.390517877526147,included_game_day
+2022,2643,The Citadel Bulldogs,2022-02-16,-34.71041582187254,included_game_day
+2022,2643,The Citadel Bulldogs,2022-02-19,-46.3141131952009,included_game_day
+2022,2643,The Citadel Bulldogs,2022-02-21,-40.85201475873063,included_game_day
+2022,2643,The Citadel Bulldogs,2022-02-23,-31.123859554529684,included_game_day
+2022,2643,The Citadel Bulldogs,2022-02-26,-60.01803985974969,included_game_day
+2022,2643,The Citadel Bulldogs,2022-03-04,-46.410799543306794,included_game_day
+2022,2643,The Citadel Bulldogs,2022-03-05,-41.578875559169035,included_game_day
+2023,2643,The Citadel Bulldogs,2022-11-07,-8.0,included_game_day
+2023,2643,The Citadel Bulldogs,2022-11-10,1.8000000000000007,included_game_day
+2023,2643,The Citadel Bulldogs,2022-11-19,-37.063500000000005,included_game_day
+2023,2643,The Citadel Bulldogs,2022-11-23,-28.795150000000003,included_game_day
+2023,2643,The Citadel Bulldogs,2022-11-24,-27.637495,included_game_day
+2023,2643,The Citadel Bulldogs,2022-11-25,-12.562015,included_game_day
+2023,2643,The Citadel Bulldogs,2022-11-30,-7.0426983000000005,included_game_day
+2023,2643,The Citadel Bulldogs,2022-12-03,-27.021432473,included_game_day
+2023,2643,The Citadel Bulldogs,2022-12-13,-49.147007821404,included_game_day
+2023,2643,The Citadel Bulldogs,2022-12-17,-50.969447279803276,included_game_day
+2023,2643,The Citadel Bulldogs,2022-12-20,-50.5266611444617,included_game_day
+2023,2643,The Citadel Bulldogs,2022-12-29,-38.777063522943344,included_game_day
+2023,2643,The Citadel Bulldogs,2022-12-31,-50.27053485130509,included_game_day
+2023,2643,The Citadel Bulldogs,2023-01-04,-66.34587926768579,included_game_day
+2023,2643,The Citadel Bulldogs,2023-01-07,-78.25560281002844,included_game_day
+2023,2643,The Citadel Bulldogs,2023-01-11,-99.0503209593729,included_game_day
+2023,2643,The Citadel Bulldogs,2023-01-14,-89.70091867289051,included_game_day
+2023,2643,The Citadel Bulldogs,2023-01-19,-83.41468822329449,included_game_day
+2023,2643,The Citadel Bulldogs,2023-01-21,-73.17465874579726,included_game_day
+2023,2643,The Citadel Bulldogs,2023-01-25,-54.03163519257127,included_game_day
+2023,2643,The Citadel Bulldogs,2023-01-28,-64.19834206273799,included_game_day
+2023,2643,The Citadel Bulldogs,2023-01-30,-65.75220036509778,included_game_day
+2023,2643,The Citadel Bulldogs,2023-02-02,-78.16135750914566,included_game_day
+2023,2643,The Citadel Bulldogs,2023-02-04,-89.48115359916437,included_game_day
+2023,2643,The Citadel Bulldogs,2023-02-08,-99.12730545726455,included_game_day
+2023,2643,The Citadel Bulldogs,2023-02-11,-88.95149690904628,included_game_day
+2023,2643,The Citadel Bulldogs,2023-02-15,-67.44960148677578,included_game_day
+2023,2643,The Citadel Bulldogs,2023-02-18,-70.82386414043154,included_game_day
+2023,2643,The Citadel Bulldogs,2023-02-22,-71.09634236583923,included_game_day
+2023,2643,The Citadel Bulldogs,2023-02-25,-85.9795047680175,included_game_day
+2023,2643,The Citadel Bulldogs,2023-03-03,-103.88603468976012,included_game_day
+2024,2643,The Citadel Bulldogs,2023-11-06,-10.0,included_game_day
+2024,2643,The Citadel Bulldogs,2023-11-10,-14.4,included_game_day
+2024,2643,The Citadel Bulldogs,2023-11-13,-16.060000000000002,included_game_day
+2024,2643,The Citadel Bulldogs,2023-11-20,-15.259000000000002,included_game_day
+2024,2643,The Citadel Bulldogs,2023-11-21,-10.991290000000003,included_game_day
+2024,2643,The Citadel Bulldogs,2023-11-22,-17.71289,included_game_day
+2024,2643,The Citadel Bulldogs,2023-11-28,5.289925799999999,included_game_day
+2024,2643,The Citadel Bulldogs,2023-12-02,14.04749322,included_game_day
+2024,2643,The Citadel Bulldogs,2023-12-14,2.3818929368816004,included_game_day
+2024,2643,The Citadel Bulldogs,2023-12-19,23.711261459608778,included_game_day
+2024,2643,The Citadel Bulldogs,2024-01-03,11.370342912868221,included_game_day
+2024,2643,The Citadel Bulldogs,2024-01-06,-2.4554477029543342,included_game_day
+2024,2643,The Citadel Bulldogs,2024-01-10,-14.936662417988199,included_game_day
+2024,2643,The Citadel Bulldogs,2024-01-13,-18.124569025854132,included_game_day
+2024,2643,The Citadel Bulldogs,2024-01-17,-16.00606354787987,included_game_day
+2024,2643,The Citadel Bulldogs,2024-01-20,-35.273262098597684,included_game_day
+2024,2643,The Citadel Bulldogs,2024-01-24,-35.39430470212745,included_game_day
+2024,2643,The Citadel Bulldogs,2024-01-27,-53.367601984177334,included_game_day
+2024,2643,The Citadel Bulldogs,2024-01-31,-51.13944658731252,included_game_day
+2024,2643,The Citadel Bulldogs,2024-02-03,-46.78922642375306,included_game_day
+2024,2643,The Citadel Bulldogs,2024-02-07,-42.749993477318625,included_game_day
+2024,2643,The Citadel Bulldogs,2024-02-10,-49.677190550972355,included_game_day
+2024,2643,The Citadel Bulldogs,2024-02-14,-63.27436698700048,included_game_day
+2024,2643,The Citadel Bulldogs,2024-02-17,-49.380380550403274,included_game_day
+2024,2643,The Citadel Bulldogs,2024-02-21,-52.98223697031497,included_game_day
+2024,2643,The Citadel Bulldogs,2024-02-24,-36.876818381449155,included_game_day
+2024,2643,The Citadel Bulldogs,2024-02-28,-56.39213259825529,included_game_day
+2024,2643,The Citadel Bulldogs,2024-03-02,-52.726470955779256,included_game_day
+2024,2643,The Citadel Bulldogs,2024-03-08,-54.80427937096672,included_game_day
+2025,2643,The Citadel Bulldogs,2024-11-04,-6.0,included_game_day
+2025,2643,The Citadel Bulldogs,2024-11-11,13.0,included_game_day
+2025,2643,The Citadel Bulldogs,2024-11-17,-1.186,included_game_day
+2025,2643,The Citadel Bulldogs,2024-11-20,-19.44579,included_game_day
+2025,2643,The Citadel Bulldogs,2024-12-12,-51.6240641581,included_game_day
+2025,2643,The Citadel Bulldogs,2024-12-16,-53.65927980119329,included_game_day
+2025,2643,The Citadel Bulldogs,2024-12-18,-88.91222756180696,included_game_day
+2025,2643,The Citadel Bulldogs,2025-01-01,-105.39592201814364,included_game_day
+2025,2643,The Citadel Bulldogs,2025-01-04,-111.4480283695244,included_game_day
+2025,2643,The Citadel Bulldogs,2025-01-08,-104.43113000987333,included_game_day
+2025,2643,The Citadel Bulldogs,2025-01-11,-106.79938715345763,included_game_day
+2025,2643,The Citadel Bulldogs,2025-01-15,-103.5944254514789,included_game_day
+2025,2643,The Citadel Bulldogs,2025-01-18,-107.95271351057357,included_game_day
+2025,2643,The Citadel Bulldogs,2025-01-22,-102.3440236805809,included_game_day
+2025,2643,The Citadel Bulldogs,2025-01-25,-111.08571234459576,included_game_day
+2025,2643,The Citadel Bulldogs,2025-01-29,-134.37185517757035,included_game_day
+2025,2643,The Citadel Bulldogs,2025-02-01,-144.68836353303547,included_game_day
+2025,2643,The Citadel Bulldogs,2025-02-05,-147.28327654424217,included_game_day
+2025,2643,The Citadel Bulldogs,2025-02-08,-145.69983524908469,included_game_day
+2025,2643,The Citadel Bulldogs,2025-02-12,-135.6394238260271,included_game_day
+2025,2643,The Citadel Bulldogs,2025-02-15,-131.73751439239078,included_game_day
+2025,2643,The Citadel Bulldogs,2025-02-19,-138.21960774136494,included_game_day
+2025,2643,The Citadel Bulldogs,2025-02-22,-117.12756111527818,included_game_day
+2025,2643,The Citadel Bulldogs,2025-02-26,-145.22021128445115,included_game_day
+2025,2643,The Citadel Bulldogs,2025-03-01,-146.35094398402705,included_game_day
+2025,2643,The Citadel Bulldogs,2025-03-07,-151.97054176009468,included_game_day
+2026,2643,The Citadel Bulldogs,2025-11-06,-26.2,included_game_day
+2026,2643,The Citadel Bulldogs,2025-11-10,-39.379999999999995,included_game_day
+2026,2643,The Citadel Bulldogs,2025-11-14,-44.834999999999994,included_game_day
+2026,2643,The Citadel Bulldogs,2025-11-24,-61.26791399999999,included_game_day
+2026,2643,The Citadel Bulldogs,2025-11-26,-66.53883486,included_game_day
+2026,2643,The Citadel Bulldogs,2025-11-30,-93.417028374,included_game_day
+2026,2643,The Citadel Bulldogs,2025-12-04,-95.4048941679,included_game_day
+2026,2643,The Citadel Bulldogs,2025-12-13,-93.2448719475279,included_game_day
+2026,2643,The Citadel Bulldogs,2025-12-17,-86.112397297016,included_game_day
+2026,2643,The Citadel Bulldogs,2025-12-20,-92.54898955192935,included_game_day
+2026,2643,The Citadel Bulldogs,2025-12-30,-108.322853272203,included_game_day
+2026,2643,The Citadel Bulldogs,2026-01-03,-111.63888036735217,included_game_day
+2026,2643,The Citadel Bulldogs,2026-01-07,-135.87333086420102,included_game_day
+2026,2643,The Citadel Bulldogs,2026-01-10,-129.904744681053,included_game_day
+2026,2643,The Citadel Bulldogs,2026-01-15,-124.06284688865361,included_game_day
+2026,2643,The Citadel Bulldogs,2026-01-17,-104.85321938200502,included_game_day
+2026,2643,The Citadel Bulldogs,2026-01-21,-95.45645495698501,included_game_day
+2026,2643,The Citadel Bulldogs,2026-01-23,-108.77090951876578,included_game_day
+2026,2643,The Citadel Bulldogs,2026-01-29,-91.70665309458487,included_game_day
+2026,2643,The Citadel Bulldogs,2026-01-31,-90.23614376777061,included_game_day
+2026,2643,The Citadel Bulldogs,2026-02-05,-94.37125432843862,included_game_day
+2026,2643,The Citadel Bulldogs,2026-02-07,-80.47373906794874,included_game_day
+2026,2643,The Citadel Bulldogs,2026-02-11,-113.19800121853055,included_game_day
+2026,2643,The Citadel Bulldogs,2026-02-14,-121.73843306710904,included_game_day
+2026,2643,The Citadel Bulldogs,2026-02-19,-112.4167367440303,included_game_day
+2026,2643,The Citadel Bulldogs,2026-02-21,-130.8601128177263,included_game_day
+2026,2643,The Citadel Bulldogs,2026-02-25,-136.46159925096097,included_game_day
+2026,2643,The Citadel Bulldogs,2026-02-28,-120.0766098947368,included_game_day
+2026,2643,The Citadel Bulldogs,2026-03-06,-110.78041453104083,included_game_day
+2026,2643,The Citadel Bulldogs,2026-03-07,-104.94577855981898,included_game_day
+2027,2643,The Citadel Bulldogs,2026-11-02,-22.0,included_game_day
+2027,2643,The Citadel Bulldogs,2026-11-14,-20.531,included_game_day
+2027,2643,The Citadel Bulldogs,2026-11-16,-50.308499999999995,included_game_day
+2027,2643,The Citadel Bulldogs,2026-11-20,-35.338635999999994,included_game_day

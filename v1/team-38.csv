@@ -1,0 +1,1214 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,38,Colorado,1987-11-27,11.0,included_game_day
+1988,38,Colorado,1987-11-30,-15.100000000000001,included_game_day
+1988,38,Colorado,1987-12-02,-48.59,included_game_day
+1988,38,Colorado,1987-12-04,-52.831,included_game_day
+1988,38,Colorado,1987-12-07,-58.776120000000006,included_game_day
+1988,38,Colorado,1987-12-09,-64.168508,included_game_day
+1988,38,Colorado,1987-12-19,-58.5333380976,included_game_day
+1988,38,Colorado,1987-12-22,-61.59788531984,included_game_day
+1988,38,Colorado,1987-12-30,-61.463429388376,included_game_day
+1988,38,Colorado,1988-01-02,-62.41290621863775,included_game_day
+1988,38,Colorado,1988-01-04,-63.22528127328388,included_game_day
+1988,38,Colorado,1988-01-09,-46.2272185429543,included_game_day
+1988,38,Colorado,1988-01-11,-24.5535476476694,included_game_day
+1988,38,Colorado,1988-01-16,-30.740839604198168,included_game_day
+1988,38,Colorado,1988-01-20,-27.35228185142552,included_game_day
+1988,38,Colorado,1988-01-27,-26.58429158789996,included_game_day
+1988,38,Colorado,1988-01-30,-34.40182386609655,included_game_day
+1988,38,Colorado,1988-02-03,-43.0593779667002,included_game_day
+1988,38,Colorado,1988-02-06,-41.96304076000427,included_game_day
+1988,38,Colorado,1988-02-10,-20.899595175485846,included_game_day
+1988,38,Colorado,1988-02-13,-16.41008594447016,included_game_day
+1988,38,Colorado,1988-02-16,-20.184455857907242,included_game_day
+1988,38,Colorado,1988-02-21,-25.40162420252887,included_game_day
+1988,38,Colorado,1988-02-24,-8.588868890072625,included_game_day
+1988,38,Colorado,1988-02-27,-34.480405171701804,included_game_day
+1988,38,Colorado,1988-03-02,-44.468308786507336,included_game_day
+1988,38,Colorado,1988-03-05,-66.81280982749823,included_game_day
+1988,38,Colorado,1988-03-11,-72.1263434643019,included_game_day
+1989,38,Colorado,1988-11-25,-4.0,included_game_day
+1989,38,Colorado,1988-11-27,-10.6,included_game_day
+1989,38,Colorado,1988-11-30,-7.539999999999999,included_game_day
+1989,38,Colorado,1988-12-03,-0.8969999999999994,included_game_day
+1989,38,Colorado,1988-12-06,-1.0229849999999994,included_game_day
+1989,38,Colorado,1988-12-08,-17.2512965,included_game_day
+1989,38,Colorado,1988-12-11,-6.875266849999999,included_game_day
+1989,38,Colorado,1988-12-14,-16.106479665,included_game_day
+1989,38,Colorado,1988-12-23,-4.530427258037983,included_game_day
+1989,38,Colorado,1988-12-27,-0.4298159705641851,included_game_day
+1989,38,Colorado,1988-12-28,13.895906289002074,included_game_day
+1989,38,Colorado,1988-12-29,12.396874833578647,included_game_day
+1989,38,Colorado,1989-01-02,6.671340990519861,included_game_day
+1989,38,Colorado,1989-01-07,3.5426450408478356,included_game_day
+1989,38,Colorado,1989-01-11,4.268364553386361,included_game_day
+1989,38,Colorado,1989-01-18,-1.7484072730661158,included_game_day
+1989,38,Colorado,1989-01-21,-7.530797928834506,included_game_day
+1989,38,Colorado,1989-01-25,-21.403563842451167,included_game_day
+1989,38,Colorado,1989-02-01,5.3085421786342515,included_game_day
+1989,38,Colorado,1989-02-08,6.5745579437094275,included_game_day
+1989,38,Colorado,1989-02-11,1.7482335905337099,included_game_day
+1989,38,Colorado,1989-02-15,-0.5029948600834047,included_game_day
+1989,38,Colorado,1989-02-18,-2.3579300618546064,included_game_day
+1989,38,Colorado,1989-02-22,-35.05411551631738,included_game_day
+1989,38,Colorado,1989-02-25,-50.12237007839327,included_game_day
+1989,38,Colorado,1989-03-01,-57.79164425067941,included_game_day
+1989,38,Colorado,1989-03-04,-35.65844644031596,included_game_day
+1989,38,Colorado,1989-03-10,-22.648586252077315,included_game_day
+1990,38,Colorado,1989-11-24,13.0,included_game_day
+1990,38,Colorado,1989-11-27,47.42,included_game_day
+1990,38,Colorado,1989-11-30,42.198,included_game_day
+1990,38,Colorado,1989-12-02,57.0782,included_game_day
+1990,38,Colorado,1989-12-04,56.20268,included_game_day
+1990,38,Colorado,1989-12-08,64.309212,included_game_day
+1990,38,Colorado,1989-12-09,51.5044218,included_game_day
+1990,38,Colorado,1989-12-13,55.14248082,included_game_day
+1990,38,Colorado,1989-12-23,52.854078370500005,included_game_day
+1990,38,Colorado,1989-12-29,43.23416379099,included_game_day
+1990,38,Colorado,1989-12-30,39.56695499156251,included_game_day
+1990,38,Colorado,1990-01-02,17.8433913769998,included_game_day
+1990,38,Colorado,1990-01-06,23.39295117798512,included_game_day
+1990,38,Colorado,1990-01-13,42.841134964765104,included_game_day
+1990,38,Colorado,1990-01-20,19.374042082575833,included_game_day
+1990,38,Colorado,1990-01-24,17.09950434842275,included_game_day
+1990,38,Colorado,1990-01-27,7.60541504470973,included_game_day
+1990,38,Colorado,1990-01-31,9.374269536274028,included_game_day
+1990,38,Colorado,1990-02-04,-1.655874173008467,included_game_day
+1990,38,Colorado,1990-02-07,-15.571274633899545,included_game_day
+1990,38,Colorado,1990-02-10,-32.68759859405834,included_game_day
+1990,38,Colorado,1990-02-13,-4.278915207499331,included_game_day
+1990,38,Colorado,1990-02-16,-6.075345144590429,included_game_day
+1990,38,Colorado,1990-02-21,-22.07097332735237,included_game_day
+1990,38,Colorado,1990-02-25,-15.203659514761567,included_game_day
+1990,38,Colorado,1990-02-28,-28.862036182084175,included_game_day
+1990,38,Colorado,1990-03-09,-13.839643685926742,included_game_day
+1990,38,Colorado,1990-03-10,4.733652325672388,included_game_day
+1990,38,Colorado,1990-03-11,13.687821353926676,included_game_day
+1991,38,Colorado,1990-11-23,21.0,included_game_day
+1991,38,Colorado,1990-11-26,13.0,included_game_day
+1991,38,Colorado,1990-11-28,30.83,included_game_day
+1991,38,Colorado,1990-12-01,49.95,included_game_day
+1991,38,Colorado,1990-12-04,38.1702,included_game_day
+1991,38,Colorado,1990-12-07,43.692711700000004,included_game_day
+1991,38,Colorado,1990-12-08,44.497604530000004,included_game_day
+1991,38,Colorado,1990-12-12,41.733487577000005,included_game_day
+1991,38,Colorado,1990-12-23,53.562699210225276,included_game_day
+1991,38,Colorado,1990-12-29,75.49892994828082,included_game_day
+1991,38,Colorado,1991-01-02,81.89120688392106,included_game_day
+1991,38,Colorado,1991-01-05,92.8068502583804,included_game_day
+1991,38,Colorado,1991-01-09,109.94708352494312,included_game_day
+1991,38,Colorado,1991-01-12,99.27366735794327,included_game_day
+1991,38,Colorado,1991-01-19,91.52956803614501,included_game_day
+1991,38,Colorado,1991-01-22,109.71286252994756,included_game_day
+1991,38,Colorado,1991-01-26,86.95983736190384,included_game_day
+1991,38,Colorado,1991-01-30,81.59475591553795,included_game_day
+1991,38,Colorado,1991-02-02,83.27087926759879,included_game_day
+1991,38,Colorado,1991-02-06,70.65286201106514,included_game_day
+1991,38,Colorado,1991-02-09,65.1702321575225,included_game_day
+1991,38,Colorado,1991-02-13,76.75925992327905,included_game_day
+1991,38,Colorado,1991-02-16,83.81518968940163,included_game_day
+1991,38,Colorado,1991-02-20,98.49536564828102,included_game_day
+1991,38,Colorado,1991-02-24,97.20769518569323,included_game_day
+1991,38,Colorado,1991-02-27,88.75283420999975,included_game_day
+1991,38,Colorado,1991-03-02,67.88601915614694,included_game_day
+1991,38,Colorado,1991-03-08,72.90205157387504,included_game_day
+1991,38,Colorado,1991-03-13,72.55504822865656,included_game_day
+1991,38,Colorado,1991-03-18,73.54896409363685,included_game_day
+1991,38,Colorado,1991-03-21,76.99359864729985,included_game_day
+1991,38,Colorado,1991-03-25,68.9566646681332,included_game_day
+1991,38,Colorado,1991-03-27,75.329294302308,included_game_day
+1992,38,Colorado,1991-11-25,7.0,included_game_day
+1992,38,Colorado,1991-11-30,0.0,included_game_day
+1992,38,Colorado,1991-12-02,1.066,included_game_day
+1992,38,Colorado,1991-12-06,12.6294,included_game_day
+1992,38,Colorado,1991-12-07,24.39892198,included_game_day
+1992,38,Colorado,1991-12-11,17.765694782,included_game_day
+1992,38,Colorado,1991-12-21,32.63126554576,included_game_day
+1992,38,Colorado,1991-12-23,38.230654819044005,included_game_day
+1992,38,Colorado,1991-12-28,52.5703299576296,included_game_day
+1992,38,Colorado,1992-01-02,48.895238022463445,included_game_day
+1992,38,Colorado,1992-01-04,37.72493118093674,included_game_day
+1992,38,Colorado,1992-01-07,41.57482175378154,included_game_day
+1992,38,Colorado,1992-01-11,33.84393874758473,included_game_day
+1992,38,Colorado,1992-01-15,39.671451705571684,included_game_day
+1992,38,Colorado,1992-01-18,45.47751278598713,included_game_day
+1992,38,Colorado,1992-01-25,39.63119625913355,included_game_day
+1992,38,Colorado,1992-02-01,33.91828876694992,included_game_day
+1992,38,Colorado,1992-02-05,42.65088787635702,included_game_day
+1992,38,Colorado,1992-02-10,39.6218544422173,included_game_day
+1992,38,Colorado,1992-02-12,52.83756309008165,included_game_day
+1992,38,Colorado,1992-02-15,32.67915556168475,included_game_day
+1992,38,Colorado,1992-02-19,58.14335498422372,included_game_day
+1992,38,Colorado,1992-02-22,53.124309667730216,included_game_day
+1992,38,Colorado,1992-02-26,40.746239130039214,included_game_day
+1992,38,Colorado,1992-02-29,33.85296572542446,included_game_day
+1992,38,Colorado,1992-03-04,41.118429169790986,included_game_day
+1992,38,Colorado,1992-03-07,45.2659477697733,included_game_day
+1992,38,Colorado,1992-03-13,41.15276313171954,included_game_day
+1993,38,Colorado,1992-12-01,12.0,included_game_day
+1993,38,Colorado,1992-12-04,14.5,included_game_day
+1993,38,Colorado,1992-12-05,51.59,included_game_day
+1993,38,Colorado,1992-12-08,68.331,included_game_day
+1993,38,Colorado,1992-12-19,57.616200000000006,included_game_day
+1993,38,Colorado,1992-12-27,64.274961,included_game_day
+1993,38,Colorado,1992-12-28,52.75765402605781,included_game_day
+1993,38,Colorado,1992-12-30,38.02940372465203,included_game_day
+1993,38,Colorado,1993-01-02,31.309163833038824,included_game_day
+1993,38,Colorado,1993-01-06,42.02914031673494,included_game_day
+1993,38,Colorado,1993-01-09,36.96578959343927,included_game_day
+1993,38,Colorado,1993-01-13,65.79643026984398,included_game_day
+1993,38,Colorado,1993-01-16,65.0122618443461,included_game_day
+1993,38,Colorado,1993-01-20,76.29082063511154,included_game_day
+1993,38,Colorado,1993-01-23,51.5437323264365,included_game_day
+1993,38,Colorado,1993-01-25,32.30047333223645,included_game_day
+1993,38,Colorado,1993-01-30,22.808865399033184,included_game_day
+1993,38,Colorado,1993-02-03,-0.0845286095013229,included_game_day
+1993,38,Colorado,1993-02-06,-2.7697047589815575,included_game_day
+1993,38,Colorado,1993-02-13,-8.070607437789649,included_game_day
+1993,38,Colorado,1993-02-16,7.257522436890646,included_game_day
+1993,38,Colorado,1993-02-20,22.87713863606235,included_game_day
+1993,38,Colorado,1993-02-24,22.322681466779997,included_game_day
+1993,38,Colorado,1993-02-27,34.09421159253233,included_game_day
+1993,38,Colorado,1993-03-03,40.75902005712389,included_game_day
+1993,38,Colorado,1993-03-06,29.676865727798337,included_game_day
+1993,38,Colorado,1993-03-12,24.013515977320594,included_game_day
+1994,38,Colorado,1993-11-29,3.5,included_game_day
+1994,38,Colorado,1993-12-03,21.156,included_game_day
+1994,38,Colorado,1993-12-04,33.862609,included_game_day
+1994,38,Colorado,1993-12-06,22.4763481,included_game_day
+1994,38,Colorado,1993-12-09,8.75411329,included_game_day
+1994,38,Colorado,1993-12-21,13.256787441,included_game_day
+1994,38,Colorado,1993-12-28,1.8454924054172999,included_game_day
+1994,38,Colorado,1993-12-30,7.3452641441755695,included_game_day
+1994,38,Colorado,1994-01-03,-2.8862285511130885,included_game_day
+1994,38,Colorado,1994-01-08,-30.577777759668653,included_game_day
+1994,38,Colorado,1994-01-12,-22.907314274734794,included_game_day
+1994,38,Colorado,1994-01-15,-26.39318002199143,included_game_day
+1994,38,Colorado,1994-01-17,-20.109365511123983,included_game_day
+1994,38,Colorado,1994-01-19,-4.703780452494405,included_game_day
+1994,38,Colorado,1994-01-22,-1.010807848038585,included_game_day
+1994,38,Colorado,1994-01-26,3.147666836364156,included_game_day
+1994,38,Colorado,1994-01-29,-20.691708275284732,included_game_day
+1994,38,Colorado,1994-02-01,-37.92277077216315,included_game_day
+1994,38,Colorado,1994-02-05,-26.601006935577878,included_game_day
+1994,38,Colorado,1994-02-09,-19.635502254803146,included_game_day
+1994,38,Colorado,1994-02-12,-22.446767073341178,included_game_day
+1994,38,Colorado,1994-02-19,-19.128401742538095,included_game_day
+1994,38,Colorado,1994-02-21,-22.404387805371186,included_game_day
+1994,38,Colorado,1994-02-26,-49.36673464283308,included_game_day
+1994,38,Colorado,1994-03-02,-52.35828363326414,included_game_day
+1994,38,Colorado,1994-03-05,-45.314809265203806,included_game_day
+1994,38,Colorado,1994-03-11,-28.724336773230792,included_game_day
+1995,38,Colorado,1994-11-29,18.0,included_game_day
+1995,38,Colorado,1994-12-02,29.53,included_game_day
+1995,38,Colorado,1994-12-03,44.233000000000004,included_game_day
+1995,38,Colorado,1994-12-06,47.424200000000006,included_game_day
+1995,38,Colorado,1994-12-17,36.076131010000005,included_game_day
+1995,38,Colorado,1994-12-20,52.795207909000005,included_game_day
+1995,38,Colorado,1994-12-22,44.903295584558,included_game_day
+1995,38,Colorado,1994-12-30,57.7239421835322,included_game_day
+1995,38,Colorado,1995-01-02,62.126034131261484,included_game_day
+1995,38,Colorado,1995-01-07,78.43244869253624,included_game_day
+1995,38,Colorado,1995-01-11,76.36192463872914,included_game_day
+1995,38,Colorado,1995-01-14,66.9279262995087,included_game_day
+1995,38,Colorado,1995-01-17,93.40071693091718,included_game_day
+1995,38,Colorado,1995-01-21,77.62118529765526,included_game_day
+1995,38,Colorado,1995-01-25,74.6758040712254,included_game_day
+1995,38,Colorado,1995-01-28,56.889018064184626,included_game_day
+1995,38,Colorado,1995-02-01,48.706152680038805,included_game_day
+1995,38,Colorado,1995-02-04,34.8063100400405,included_game_day
+1995,38,Colorado,1995-02-08,22.79926670334674,included_game_day
+1995,38,Colorado,1995-02-11,36.44055154878019,included_game_day
+1995,38,Colorado,1995-02-15,33.25212420279433,included_game_day
+1995,38,Colorado,1995-02-18,2.776630343510462,included_game_day
+1995,38,Colorado,1995-02-22,2.132640453110845,included_game_day
+1995,38,Colorado,1995-02-25,17.162085898000747,included_game_day
+1995,38,Colorado,1995-03-01,26.2972799597471,included_game_day
+1995,38,Colorado,1995-03-04,47.508455126312874,included_game_day
+1995,38,Colorado,1995-03-10,38.80898669172301,included_game_day
+1995,38,Colorado,1995-03-17,29.292539298066888,included_game_day
+1996,38,Colorado,1995-11-24,-21.0,included_game_day
+1996,38,Colorado,1995-11-27,-18.9,included_game_day
+1996,38,Colorado,1995-11-29,-6.879999999999999,included_game_day
+1996,38,Colorado,1995-12-02,12.678,included_game_day
+1996,38,Colorado,1995-12-06,-3.6006,included_game_day
+1996,38,Colorado,1995-12-09,-4.638166999999999,included_game_day
+1996,38,Colorado,1995-12-13,-13.8743503,included_game_day
+1996,38,Colorado,1995-12-22,-4.608774270000001,included_game_day
+1996,38,Colorado,1995-12-28,-6.983481027190004,included_game_day
+1996,38,Colorado,1996-01-02,-6.31427543107114,included_game_day
+1996,38,Colorado,1996-01-06,-4.89275769834205,included_game_day
+1996,38,Colorado,1996-01-10,3.011486120481498,included_game_day
+1996,38,Colorado,1996-01-13,-10.274380249607285,included_game_day
+1996,38,Colorado,1996-01-16,-13.318741399931607,included_game_day
+1996,38,Colorado,1996-01-20,-2.4976405518507576,included_game_day
+1996,38,Colorado,1996-01-24,-11.828522429743067,included_game_day
+1996,38,Colorado,1996-01-29,5.198184346071507,included_game_day
+1996,38,Colorado,1996-02-03,-10.652037452244244,included_game_day
+1996,38,Colorado,1996-02-07,1.5436319683330417,included_game_day
+1996,38,Colorado,1996-02-10,24.141864341955934,included_game_day
+1996,38,Colorado,1996-02-14,24.191672750455535,included_game_day
+1996,38,Colorado,1996-02-17,-4.607620755935301,included_game_day
+1996,38,Colorado,1996-02-21,-12.647055561047967,included_game_day
+1996,38,Colorado,1996-02-24,-6.705662504562547,included_game_day
+1996,38,Colorado,1996-02-28,8.951765386656994,included_game_day
+1996,38,Colorado,1996-03-02,9.089715461297782,included_game_day
+1996,38,Colorado,1996-03-08,-9.87012894427519,included_game_day
+1997,38,Colorado,1996-11-24,-1.0,included_game_day
+1997,38,Colorado,1996-11-29,4.7,included_game_day
+1997,38,Colorado,1996-11-30,11.23,included_game_day
+1997,38,Colorado,1996-12-01,2.852400000000001,included_game_day
+1997,38,Colorado,1996-12-05,25.617060000000002,included_game_day
+1997,38,Colorado,1996-12-07,23.419192000000002,included_game_day
+1997,38,Colorado,1996-12-10,37.816383800000004,included_game_day
+1997,38,Colorado,1996-12-12,44.411396520000004,included_game_day
+1997,38,Colorado,1996-12-21,56.922585038,included_game_day
+1997,38,Colorado,1996-12-23,53.4885294609,included_game_day
+1997,38,Colorado,1996-12-28,71.70003876441,included_game_day
+1997,38,Colorado,1996-12-30,71.68538181719411,included_game_day
+1997,38,Colorado,1997-01-04,70.70821620528731,included_game_day
+1997,38,Colorado,1997-01-07,76.35026945463088,included_game_day
+1997,38,Colorado,1997-01-11,81.19488343928488,included_game_day
+1997,38,Colorado,1997-01-15,75.220324195161,included_game_day
+1997,38,Colorado,1997-01-18,101.14430390117836,included_game_day
+1997,38,Colorado,1997-01-21,99.94026692308533,included_game_day
+1997,38,Colorado,1997-01-26,100.4673962103905,included_game_day
+1997,38,Colorado,1997-01-29,99.31087587635253,included_game_day
+1997,38,Colorado,1997-02-05,90.94355526789067,included_game_day
+1997,38,Colorado,1997-02-08,93.16474603833092,included_game_day
+1997,38,Colorado,1997-02-12,69.02287337230263,included_game_day
+1997,38,Colorado,1997-02-15,45.668875261473175,included_game_day
+1997,38,Colorado,1997-02-19,47.86012746113586,included_game_day
+1997,38,Colorado,1997-02-22,55.3665719541746,included_game_day
+1997,38,Colorado,1997-02-24,42.23841868193386,included_game_day
+1997,38,Colorado,1997-02-26,39.79185570030846,included_game_day
+1997,38,Colorado,1997-03-01,63.6418511592357,included_game_day
+1997,38,Colorado,1997-03-07,54.572806096522,included_game_day
+1997,38,Colorado,1997-03-13,76.3966011184948,included_game_day
+1997,38,Colorado,1997-03-15,70.43616086306864,included_game_day
+1998,38,Colorado,1997-11-16,0.0,included_game_day
+1998,38,Colorado,1997-11-19,-7.0,included_game_day
+1998,38,Colorado,1997-11-22,8.7,included_game_day
+1998,38,Colorado,1997-11-25,26.029999999999998,included_game_day
+1998,38,Colorado,1997-11-27,25.900299999999998,included_game_day
+1998,38,Colorado,1997-12-02,4.276009999999999,included_game_day
+1998,38,Colorado,1997-12-09,-2.0260352909999995,included_game_day
+1998,38,Colorado,1997-12-20,-9.4320914031725,included_game_day
+1998,38,Colorado,1997-12-29,6.831915919889251,included_game_day
+1998,38,Colorado,1998-01-03,7.8159953273105565,included_game_day
+1998,38,Colorado,1998-01-07,-26.02100994201528,included_game_day
+1998,38,Colorado,1998-01-11,-30.1928563833037,included_game_day
+1998,38,Colorado,1998-01-17,-26.925672254683626,included_game_day
+1998,38,Colorado,1998-01-21,-7.930677347894669,included_game_day
+1998,38,Colorado,1998-01-25,-13.413615171911687,included_game_day
+1998,38,Colorado,1998-01-28,-9.092390529953814,included_game_day
+1998,38,Colorado,1998-01-31,10.701159437767387,included_game_day
+1998,38,Colorado,1998-02-03,9.63781339488572,included_game_day
+1998,38,Colorado,1998-02-07,23.486947802795868,included_game_day
+1998,38,Colorado,1998-02-11,35.10273561483529,included_game_day
+1998,38,Colorado,1998-02-14,15.298897184146877,included_game_day
+1998,38,Colorado,1998-02-16,22.505636268953666,included_game_day
+1998,38,Colorado,1998-02-21,13.760047912595148,included_game_day
+1998,38,Colorado,1998-02-25,-0.8309078623269013,included_game_day
+1998,38,Colorado,1998-02-28,20.826495642977555,included_game_day
+1998,38,Colorado,1998-03-05,8.74981553799075,included_game_day
+1999,38,Colorado,1998-11-14,0.0,included_game_day
+1999,38,Colorado,1998-11-17,6.5,included_game_day
+1999,38,Colorado,1998-11-22,29.53,included_game_day
+1999,38,Colorado,1998-11-26,21.2365,included_game_day
+1999,38,Colorado,1998-11-27,10.402054,included_game_day
+1999,38,Colorado,1998-12-02,8.824306799999999,included_game_day
+1999,38,Colorado,1998-12-05,27.76638512,included_game_day
+1999,38,Colorado,1998-12-09,28.776638507999998,included_game_day
+1999,38,Colorado,1998-12-21,44.8308249613034,included_game_day
+1999,38,Colorado,1998-12-28,76.48204344116606,included_game_day
+1999,38,Colorado,1998-12-29,67.04762892940664,included_game_day
+1999,38,Colorado,1999-01-02,54.207402504959134,included_game_day
+1999,38,Colorado,1999-01-09,48.13889472228896,included_game_day
+1999,38,Colorado,1999-01-13,37.13161968552217,included_game_day
+1999,38,Colorado,1999-01-16,58.299130657549156,included_game_day
+1999,38,Colorado,1999-01-20,38.32232387366825,included_game_day
+1999,38,Colorado,1999-01-23,25.920241593096733,included_game_day
+1999,38,Colorado,1999-01-27,43.63682683430345,included_game_day
+1999,38,Colorado,1999-01-30,46.13201597286663,included_game_day
+1999,38,Colorado,1999-02-03,40.69468331330086,included_game_day
+1999,38,Colorado,1999-02-07,37.116674315080296,included_game_day
+1999,38,Colorado,1999-02-10,40.839519961041646,included_game_day
+1999,38,Colorado,1999-02-13,19.05004733771372,included_game_day
+1999,38,Colorado,1999-02-17,22.847261991620705,included_game_day
+1999,38,Colorado,1999-02-20,33.537986985090086,included_game_day
+1999,38,Colorado,1999-02-24,41.97694186767659,included_game_day
+1999,38,Colorado,1999-02-27,49.773163356273805,included_game_day
+1999,38,Colorado,1999-03-04,55.971053128458664,included_game_day
+1999,38,Colorado,1999-03-05,52.42064197635122,included_game_day
+1999,38,Colorado,1999-03-10,47.009257048524795,included_game_day
+1999,38,Colorado,1999-03-16,42.27375540536718,included_game_day
+2000,38,Colorado,1999-11-19,8.0,included_game_day
+2000,38,Colorado,1999-11-25,17.9631,included_game_day
+2000,38,Colorado,1999-11-28,15.618590000000001,included_game_day
+2000,38,Colorado,1999-12-04,30.950352000000002,included_game_day
+2000,38,Colorado,1999-12-08,7.639483300000002,included_game_day
+2000,38,Colorado,1999-12-18,18.804581208629003,included_game_day
+2000,38,Colorado,1999-12-21,41.19440774376611,included_game_day
+2000,38,Colorado,1999-12-27,61.65305953231271,included_game_day
+2000,38,Colorado,1999-12-28,62.554869362352136,included_game_day
+2000,38,Colorado,1999-12-30,68.48505050378608,included_game_day
+2000,38,Colorado,2000-01-04,78.75090363832106,included_game_day
+2000,38,Colorado,2000-01-08,65.58786788477461,included_game_day
+2000,38,Colorado,2000-01-12,51.438975710104756,included_game_day
+2000,38,Colorado,2000-01-16,47.24506199420483,included_game_day
+2000,38,Colorado,2000-01-19,60.76897324706444,included_game_day
+2000,38,Colorado,2000-01-22,60.441548521752836,included_game_day
+2000,38,Colorado,2000-01-24,53.719824664883795,included_game_day
+2000,38,Colorado,2000-01-29,55.795529602298856,included_game_day
+2000,38,Colorado,2000-02-02,52.51991192038803,included_game_day
+2000,38,Colorado,2000-02-05,53.54103224310132,included_game_day
+2000,38,Colorado,2000-02-08,59.01185505964496,included_game_day
+2000,38,Colorado,2000-02-12,46.00548452687832,included_game_day
+2000,38,Colorado,2000-02-15,46.19150480447428,included_game_day
+2000,38,Colorado,2000-02-19,64.73691910062931,included_game_day
+2000,38,Colorado,2000-02-23,74.07313271497962,included_game_day
+2000,38,Colorado,2000-02-26,62.350495850247185,included_game_day
+2000,38,Colorado,2000-03-01,39.55740751059176,included_game_day
+2000,38,Colorado,2000-03-04,54.38807907633877,included_game_day
+2000,38,Colorado,2000-03-09,70.26491303361969,included_game_day
+2000,38,Colorado,2000-03-10,36.789219279774954,included_game_day
+2000,38,Colorado,2000-03-16,34.39655134578507,included_game_day
+2001,38,Colorado,2000-11-18,-2.8,included_game_day
+2001,38,Colorado,2000-11-19,27.61,included_game_day
+2001,38,Colorado,2000-11-26,13.039,included_game_day
+2001,38,Colorado,2000-11-28,21.9321,included_game_day
+2001,38,Colorado,2000-12-03,59.721889999999995,included_game_day
+2001,38,Colorado,2000-12-06,89.2866525,included_game_day
+2001,38,Colorado,2000-12-09,71.017318811,included_game_day
+2001,38,Colorado,2000-12-13,80.15087018890999,included_game_day
+2001,38,Colorado,2000-12-23,97.796461389099,included_game_day
+2001,38,Colorado,2000-12-28,110.19488351151091,included_game_day
+2001,38,Colorado,2000-12-30,105.14554499222952,included_game_day
+2001,38,Colorado,2001-01-02,111.6798637930009,included_game_day
+2001,38,Colorado,2001-01-06,107.62098600677797,included_game_day
+2001,38,Colorado,2001-01-10,93.64113309099582,included_game_day
+2001,38,Colorado,2001-01-13,111.05406985200787,included_game_day
+2001,38,Colorado,2001-01-16,100.49618023297897,included_game_day
+2001,38,Colorado,2001-01-20,111.88589990189132,included_game_day
+2001,38,Colorado,2001-01-22,102.1253446804716,included_game_day
+2001,38,Colorado,2001-01-27,109.27257391172802,included_game_day
+2001,38,Colorado,2001-01-31,100.58145980003438,included_game_day
+2001,38,Colorado,2001-02-03,100.51974820556626,included_game_day
+2001,38,Colorado,2001-02-07,88.90945384918169,included_game_day
+2001,38,Colorado,2001-02-10,92.07105940994352,included_game_day
+2001,38,Colorado,2001-02-14,81.06206656656869,included_game_day
+2001,38,Colorado,2001-02-17,70.68802750039252,included_game_day
+2001,38,Colorado,2001-02-21,67.8845667292491,included_game_day
+2001,38,Colorado,2001-02-28,56.635494778916836,included_game_day
+2001,38,Colorado,2001-03-03,44.421593685397546,included_game_day
+2001,38,Colorado,2001-03-08,43.3132629017742,included_game_day
+2002,38,Colorado Buffaloes,2001-11-17,14.0,included_game_day
+2002,38,Colorado Buffaloes,2001-11-22,40.2,included_game_day
+2002,38,Colorado Buffaloes,2001-11-25,32.78,included_game_day
+2002,38,Colorado Buffaloes,2001-12-01,26.4343,included_game_day
+2002,38,Colorado Buffaloes,2001-12-05,33.5528244,included_game_day
+2002,38,Colorado Buffaloes,2001-12-10,37.073978172,included_game_day
+2002,38,Colorado Buffaloes,2001-12-13,52.5919623182,included_game_day
+2002,38,Colorado Buffaloes,2001-12-30,49.89985944431828,included_game_day
+2002,38,Colorado Buffaloes,2002-01-02,59.139964876327895,included_game_day
+2002,38,Colorado Buffaloes,2002-01-05,45.65056145545353,included_game_day
+2002,38,Colorado Buffaloes,2002-01-09,57.41446962576367,included_game_day
+2002,38,Colorado Buffaloes,2002-01-12,44.727563666482865,included_game_day
+2002,38,Colorado Buffaloes,2002-01-16,43.021613015330594,included_game_day
+2002,38,Colorado Buffaloes,2002-01-19,36.399239442615425,included_game_day
+2002,38,Colorado Buffaloes,2002-01-22,45.396517414309926,included_game_day
+2002,38,Colorado Buffaloes,2002-01-26,42.02828724732574,included_game_day
+2002,38,Colorado Buffaloes,2002-01-30,44.5647394914924,included_game_day
+2002,38,Colorado Buffaloes,2002-02-02,32.185630243926255,included_game_day
+2002,38,Colorado Buffaloes,2002-02-05,50.62781957848068,included_game_day
+2002,38,Colorado Buffaloes,2002-02-09,48.80349006108027,included_game_day
+2002,38,Colorado Buffaloes,2002-02-16,34.940729735227464,included_game_day
+2002,38,Colorado Buffaloes,2002-02-20,34.96523239266661,included_game_day
+2002,38,Colorado Buffaloes,2002-02-23,21.233694773565084,included_game_day
+2002,38,Colorado Buffaloes,2002-02-26,31.170471921476263,included_game_day
+2002,38,Colorado Buffaloes,2002-03-02,29.008660342315725,included_game_day
+2002,38,Colorado Buffaloes,2002-03-07,40.129757675446044,included_game_day
+2002,38,Colorado Buffaloes,2002-03-08,30.689570089903523,included_game_day
+2003,38,Colorado Buffaloes,2002-11-22,25.0,included_game_day
+2003,38,Colorado Buffaloes,2002-11-24,52.5,included_game_day
+2003,38,Colorado Buffaloes,2002-11-27,44.95,included_game_day
+2003,38,Colorado Buffaloes,2002-12-03,36.759570000000004,included_game_day
+2003,38,Colorado Buffaloes,2002-12-07,36.911913000000006,included_game_day
+2003,38,Colorado Buffaloes,2002-12-11,45.62673170000001,included_game_day
+2003,38,Colorado Buffaloes,2002-12-21,24.463973530000008,included_game_day
+2003,38,Colorado Buffaloes,2002-12-23,32.02204361687001,included_game_day
+2003,38,Colorado Buffaloes,2002-12-27,48.187634211873906,included_game_day
+2003,38,Colorado Buffaloes,2002-12-28,51.617740351927814,included_game_day
+2003,38,Colorado Buffaloes,2002-12-29,44.568369943124615,included_game_day
+2003,38,Colorado Buffaloes,2003-01-04,64.60090212466389,included_game_day
+2003,38,Colorado Buffaloes,2003-01-07,81.03146141871983,included_game_day
+2003,38,Colorado Buffaloes,2003-01-11,71.69197256573628,included_game_day
+2003,38,Colorado Buffaloes,2003-01-15,78.01652432348502,included_game_day
+2003,38,Colorado Buffaloes,2003-01-18,70.9120196606925,included_game_day
+2003,38,Colorado Buffaloes,2003-01-22,81.9129288915457,included_game_day
+2003,38,Colorado Buffaloes,2003-01-29,76.05158068356933,included_game_day
+2003,38,Colorado Buffaloes,2003-02-01,75.86733503922936,included_game_day
+2003,38,Colorado Buffaloes,2003-02-04,93.579698189807,included_game_day
+2003,38,Colorado Buffaloes,2003-02-08,100.88707587055946,included_game_day
+2003,38,Colorado Buffaloes,2003-02-11,93.28598422521974,included_game_day
+2003,38,Colorado Buffaloes,2003-02-15,100.7323956168374,included_game_day
+2003,38,Colorado Buffaloes,2003-02-19,105.75266372795188,included_game_day
+2003,38,Colorado Buffaloes,2003-02-22,122.52902902705173,included_game_day
+2003,38,Colorado Buffaloes,2003-02-25,89.64857655151532,included_game_day
+2003,38,Colorado Buffaloes,2003-03-01,100.40751929833067,included_game_day
+2003,38,Colorado Buffaloes,2003-03-05,108.29126061011902,included_game_day
+2003,38,Colorado Buffaloes,2003-03-08,108.01126803279165,included_game_day
+2003,38,Colorado Buffaloes,2003-03-13,100.15033509224423,included_game_day
+2003,38,Colorado Buffaloes,2003-03-14,92.84930226027573,included_game_day
+2003,38,Colorado Buffaloes,2003-03-21,82.9687261435682,included_game_day
+2004,38,Colorado Buffaloes,2003-11-21,14.0,included_game_day
+2004,38,Colorado Buffaloes,2003-11-24,-3.0,included_game_day
+2004,38,Colorado Buffaloes,2003-11-26,11.7,included_game_day
+2004,38,Colorado Buffaloes,2003-12-01,22.228,included_game_day
+2004,38,Colorado Buffaloes,2003-12-06,35.186824,included_game_day
+2004,38,Colorado Buffaloes,2003-12-10,42.1500677,included_game_day
+2004,38,Colorado Buffaloes,2003-12-19,51.61020625309,included_game_day
+2004,38,Colorado Buffaloes,2003-12-23,29.440520614441,included_game_day
+2004,38,Colorado Buffaloes,2003-12-31,15.46416020047778,included_game_day
+2004,38,Colorado Buffaloes,2004-01-05,2.8343486348372,included_game_day
+2004,38,Colorado Buffaloes,2004-01-08,13.157173081561249,included_game_day
+2004,38,Colorado Buffaloes,2004-01-14,34.9633963984731,included_game_day
+2004,38,Colorado Buffaloes,2004-01-17,52.7671060966422,included_game_day
+2004,38,Colorado Buffaloes,2004-01-21,53.87175819465509,included_game_day
+2004,38,Colorado Buffaloes,2004-01-25,37.88677085162377,included_game_day
+2004,38,Colorado Buffaloes,2004-01-28,49.942681509579515,included_game_day
+2004,38,Colorado Buffaloes,2004-01-31,51.978869582196666,included_game_day
+2004,38,Colorado Buffaloes,2004-02-04,48.723067677419095,included_game_day
+2004,38,Colorado Buffaloes,2004-02-07,46.75134603191632,included_game_day
+2004,38,Colorado Buffaloes,2004-02-10,36.768426547064124,included_game_day
+2004,38,Colorado Buffaloes,2004-02-18,48.71834607719908,included_game_day
+2004,38,Colorado Buffaloes,2004-02-21,64.6413172232851,included_game_day
+2004,38,Colorado Buffaloes,2004-02-25,68.99219961870287,included_game_day
+2004,38,Colorado Buffaloes,2004-02-28,68.21147406610575,included_game_day
+2004,38,Colorado Buffaloes,2004-03-03,61.34048673505705,included_game_day
+2004,38,Colorado Buffaloes,2004-03-06,64.58342608818188,included_game_day
+2004,38,Colorado Buffaloes,2004-03-12,53.31958255483002,included_game_day
+2004,38,Colorado Buffaloes,2004-03-17,47.720065949582626,included_game_day
+2005,38,Colorado Buffaloes,2004-11-15,12.0,included_game_day
+2005,38,Colorado Buffaloes,2004-11-17,5.8,included_game_day
+2005,38,Colorado Buffaloes,2004-11-28,10.771999999999998,included_game_day
+2005,38,Colorado Buffaloes,2004-12-04,0.9250079999999983,included_game_day
+2005,38,Colorado Buffaloes,2004-12-07,9.066575139999998,included_game_day
+2005,38,Colorado Buffaloes,2004-12-18,12.749950682169999,included_game_day
+2005,38,Colorado Buffaloes,2004-12-21,15.769488919452998,included_game_day
+2005,38,Colorado Buffaloes,2004-12-23,22.3980696387477,included_game_day
+2005,38,Colorado Buffaloes,2004-12-28,27.2895469293668,included_game_day
+2005,38,Colorado Buffaloes,2004-12-30,-0.8650140198234197,included_game_day
+2005,38,Colorado Buffaloes,2005-01-04,9.969437730233574,included_game_day
+2005,38,Colorado Buffaloes,2005-01-08,-3.831245117361968,included_game_day
+2005,38,Colorado Buffaloes,2005-01-12,-7.04754676456585,included_game_day
+2005,38,Colorado Buffaloes,2005-01-15,-12.130103128550584,included_game_day
+2005,38,Colorado Buffaloes,2005-01-19,-15.031159702252815,included_game_day
+2005,38,Colorado Buffaloes,2005-01-22,-5.6910702928737535,included_game_day
+2005,38,Colorado Buffaloes,2005-01-26,-4.1341023244090875,included_game_day
+2005,38,Colorado Buffaloes,2005-01-30,-10.669760649204076,included_game_day
+2005,38,Colorado Buffaloes,2005-02-02,0.2552502067659894,included_game_day
+2005,38,Colorado Buffaloes,2005-02-05,18.326405280620854,included_game_day
+2005,38,Colorado Buffaloes,2005-02-08,31.70981058853627,included_game_day
+2005,38,Colorado Buffaloes,2005-02-12,17.0185877619195,included_game_day
+2005,38,Colorado Buffaloes,2005-02-19,3.7695531632657424,included_game_day
+2005,38,Colorado Buffaloes,2005-02-22,-0.7064906888780556,included_game_day
+2005,38,Colorado Buffaloes,2005-02-26,-2.0104786153468885,included_game_day
+2005,38,Colorado Buffaloes,2005-03-02,-6.3576449845020075,included_game_day
+2005,38,Colorado Buffaloes,2005-03-05,-4.568829452515297,included_game_day
+2005,38,Colorado Buffaloes,2005-03-10,21.54823850605223,included_game_day
+2005,38,Colorado Buffaloes,2005-03-11,35.87648478521481,included_game_day
+2006,38,Colorado Buffaloes,2005-11-18,19.522,included_game_day
+2006,38,Colorado Buffaloes,2005-11-21,20.970799999999997,included_game_day
+2006,38,Colorado Buffaloes,2005-11-26,34.87372,included_game_day
+2006,38,Colorado Buffaloes,2005-11-29,53.300734,included_game_day
+2006,38,Colorado Buffaloes,2005-12-03,58.402810599999995,included_game_day
+2006,38,Colorado Buffaloes,2005-12-07,75.86029654,included_game_day
+2006,38,Colorado Buffaloes,2005-12-17,85.688552006,included_game_day
+2006,38,Colorado Buffaloes,2005-12-20,96.07111397126779,included_game_day
+2006,38,Colorado Buffaloes,2005-12-22,122.22073905945301,included_game_day
+2006,38,Colorado Buffaloes,2005-12-31,118.42949620695305,included_game_day
+2006,38,Colorado Buffaloes,2006-01-03,144.72434757582266,included_game_day
+2006,38,Colorado Buffaloes,2006-01-07,123.8106670513443,included_game_day
+2006,38,Colorado Buffaloes,2006-01-11,106.95812737189397,included_game_day
+2006,38,Colorado Buffaloes,2006-01-14,106.65548423631955,included_game_day
+2006,38,Colorado Buffaloes,2006-01-18,123.57944215092643,included_game_day
+2006,38,Colorado Buffaloes,2006-01-21,125.57698046473273,included_game_day
+2006,38,Colorado Buffaloes,2006-01-25,132.079022225693,included_game_day
+2006,38,Colorado Buffaloes,2006-01-28,127.8364982607129,included_game_day
+2006,38,Colorado Buffaloes,2006-02-05,108.3951629567991,included_game_day
+2006,38,Colorado Buffaloes,2006-02-08,103.72520454988657,included_game_day
+2006,38,Colorado Buffaloes,2006-02-11,93.38739330987792,included_game_day
+2006,38,Colorado Buffaloes,2006-02-15,102.78868094928126,included_game_day
+2006,38,Colorado Buffaloes,2006-02-18,87.79427268671832,included_game_day
+2006,38,Colorado Buffaloes,2006-02-22,68.6990568616835,included_game_day
+2006,38,Colorado Buffaloes,2006-02-25,73.70555504368741,included_game_day
+2006,38,Colorado Buffaloes,2006-03-01,63.706652056568885,included_game_day
+2006,38,Colorado Buffaloes,2006-03-04,62.042463229340996,included_game_day
+2006,38,Colorado Buffaloes,2006-03-09,59.36212422557918,included_game_day
+2006,38,Colorado Buffaloes,2006-03-10,32.52038491427388,included_game_day
+2006,38,Colorado Buffaloes,2006-03-15,14.318498468601415,included_game_day
+2007,38,Colorado Buffaloes,2006-11-10,11.0,included_game_day
+2007,38,Colorado Buffaloes,2006-11-14,-24.799999999999997,included_game_day
+2007,38,Colorado Buffaloes,2006-11-18,-56.259,included_game_day
+2007,38,Colorado Buffaloes,2006-11-21,-47.9731,included_game_day
+2007,38,Colorado Buffaloes,2006-11-26,-49.35061,included_game_day
+2007,38,Colorado Buffaloes,2006-11-29,-55.28287481,included_game_day
+2007,38,Colorado Buffaloes,2006-12-02,-58.148319878,included_game_day
+2007,38,Colorado Buffaloes,2006-12-04,-63.401976914200006,included_game_day
+2007,38,Colorado Buffaloes,2006-12-09,-63.60650063554,included_game_day
+2007,38,Colorado Buffaloes,2007-01-03,-45.517289056622424,included_game_day
+2007,38,Colorado Buffaloes,2007-01-06,-58.2875780263451,included_game_day
+2007,38,Colorado Buffaloes,2007-01-10,-64.8626769066457,included_game_day
+2007,38,Colorado Buffaloes,2007-01-13,-59.20617171871946,included_game_day
+2007,38,Colorado Buffaloes,2007-01-17,-43.43871847289314,included_game_day
+2007,38,Colorado Buffaloes,2007-01-20,-50.9677160239477,included_game_day
+2007,38,Colorado Buffaloes,2007-01-24,-55.49323511639589,included_game_day
+2007,38,Colorado Buffaloes,2007-01-27,-54.26824921754138,included_game_day
+2007,38,Colorado Buffaloes,2007-01-30,-58.1842372099907,included_game_day
+2007,38,Colorado Buffaloes,2007-02-03,-34.051349775082855,included_game_day
+2007,38,Colorado Buffaloes,2007-02-10,-35.95939049976571,included_game_day
+2007,38,Colorado Buffaloes,2007-02-14,-44.56152351222764,included_game_day
+2007,38,Colorado Buffaloes,2007-02-17,-48.85940249719303,included_game_day
+2007,38,Colorado Buffaloes,2007-02-21,-41.23330538925046,included_game_day
+2007,38,Colorado Buffaloes,2007-02-24,-45.46957495281591,included_game_day
+2007,38,Colorado Buffaloes,2007-02-28,-38.025335139097436,included_game_day
+2007,38,Colorado Buffaloes,2007-03-03,-29.89766707430196,included_game_day
+2007,38,Colorado Buffaloes,2007-03-08,-26.68725732919583,included_game_day
+2008,38,Colorado Buffaloes,2007-11-09,-10.0,included_game_day
+2008,38,Colorado Buffaloes,2007-11-15,15.0,included_game_day
+2008,38,Colorado Buffaloes,2007-11-16,22.88,included_game_day
+2008,38,Colorado Buffaloes,2007-11-17,8.28,included_game_day
+2008,38,Colorado Buffaloes,2007-11-27,17.319699999999997,included_game_day
+2008,38,Colorado Buffaloes,2007-11-29,31.243283112,included_game_day
+2008,38,Colorado Buffaloes,2007-12-02,11.1840911008,included_game_day
+2008,38,Colorado Buffaloes,2007-12-08,1.935768100719999,included_game_day
+2008,38,Colorado Buffaloes,2007-12-12,-3.814078499352002,included_game_day
+2008,38,Colorado Buffaloes,2007-12-22,0.9974948059652942,included_game_day
+2008,38,Colorado Buffaloes,2007-12-29,36.19812032536877,included_game_day
+2008,38,Colorado Buffaloes,2008-01-04,36.801554968375854,included_game_day
+2008,38,Colorado Buffaloes,2008-01-07,23.099196614457824,included_game_day
+2008,38,Colorado Buffaloes,2008-01-12,21.527368105775015,included_game_day
+2008,38,Colorado Buffaloes,2008-01-15,29.68423041688491,included_game_day
+2008,38,Colorado Buffaloes,2008-01-23,20.585365356552206,included_game_day
+2008,38,Colorado Buffaloes,2008-01-26,21.07725962354366,included_game_day
+2008,38,Colorado Buffaloes,2008-01-29,8.422596708652396,included_game_day
+2008,38,Colorado Buffaloes,2008-02-02,14.398569925077666,included_game_day
+2008,38,Colorado Buffaloes,2008-02-06,21.2860010915286,included_game_day
+2008,38,Colorado Buffaloes,2008-02-09,39.22514955884809,included_game_day
+2008,38,Colorado Buffaloes,2008-02-16,35.22537850819977,included_game_day
+2008,38,Colorado Buffaloes,2008-02-20,17.62926193052295,included_game_day
+2008,38,Colorado Buffaloes,2008-02-23,18.54142885930009,included_game_day
+2008,38,Colorado Buffaloes,2008-02-27,11.971643400996332,included_game_day
+2008,38,Colorado Buffaloes,2008-03-01,22.920968428417005,included_game_day
+2008,38,Colorado Buffaloes,2008-03-04,31.303908003735316,included_game_day
+2008,38,Colorado Buffaloes,2008-03-09,21.826780510823017,included_game_day
+2008,38,Colorado Buffaloes,2008-03-13,36.28965047871243,included_game_day
+2008,38,Colorado Buffaloes,2008-03-14,38.56822369875317,included_game_day
+2009,38,Colorado Buffaloes,2008-11-14,17.0,included_game_day
+2009,38,Colorado Buffaloes,2008-11-18,8.1,included_game_day
+2009,38,Colorado Buffaloes,2008-11-22,18.689999999999998,included_game_day
+2009,38,Colorado Buffaloes,2008-11-25,26.51834,included_game_day
+2009,38,Colorado Buffaloes,2008-11-29,16.531310499999996,included_game_day
+2009,38,Colorado Buffaloes,2008-12-03,-4.517476550000005,included_game_day
+2009,38,Colorado Buffaloes,2008-12-10,13.132076414999997,included_game_day
+2009,38,Colorado Buffaloes,2008-12-19,28.030152745717935,included_game_day
+2009,38,Colorado Buffaloes,2008-12-23,15.911236016306582,included_game_day
+2009,38,Colorado Buffaloes,2008-12-29,22.47280898273955,included_game_day
+2009,38,Colorado Buffaloes,2008-12-30,0.719368804402972,included_game_day
+2009,38,Colorado Buffaloes,2009-01-05,-0.6146619749815145,included_game_day
+2009,38,Colorado Buffaloes,2009-01-14,-28.100532808856606,included_game_day
+2009,38,Colorado Buffaloes,2009-01-17,-33.63348539702379,included_game_day
+2009,38,Colorado Buffaloes,2009-01-20,-36.993710892531254,included_game_day
+2009,38,Colorado Buffaloes,2009-01-24,-31.11949134314286,included_game_day
+2009,38,Colorado Buffaloes,2009-01-27,-21.952132081971428,included_game_day
+2009,38,Colorado Buffaloes,2009-01-31,-7.224877223470653,included_game_day
+2009,38,Colorado Buffaloes,2009-02-04,-2.529354302287052,included_game_day
+2009,38,Colorado Buffaloes,2009-02-07,11.936482563210221,included_game_day
+2009,38,Colorado Buffaloes,2009-02-11,-12.651464289673731,included_game_day
+2009,38,Colorado Buffaloes,2009-02-14,-11.169308998934863,included_game_day
+2009,38,Colorado Buffaloes,2009-02-18,-4.628701298083243,included_game_day
+2009,38,Colorado Buffaloes,2009-02-21,-2.9245208030744756,included_game_day
+2009,38,Colorado Buffaloes,2009-02-25,-18.069198629999185,included_game_day
+2009,38,Colorado Buffaloes,2009-02-28,-26.831198951853565,included_game_day
+2009,38,Colorado Buffaloes,2009-03-04,-23.33298345636596,included_game_day
+2009,38,Colorado Buffaloes,2009-03-07,-20.62218095511272,included_game_day
+2009,38,Colorado Buffaloes,2009-03-11,-19.144569841832883,included_game_day
+2010,38,Colorado Buffaloes,2009-11-13,13.0,included_game_day
+2010,38,Colorado Buffaloes,2009-11-16,32.7,included_game_day
+2010,38,Colorado Buffaloes,2009-11-18,36.49,included_game_day
+2010,38,Colorado Buffaloes,2009-11-23,32.9181,included_game_day
+2010,38,Colorado Buffaloes,2009-11-24,28.253590000000003,included_game_day
+2010,38,Colorado Buffaloes,2009-12-01,42.242268300000006,included_game_day
+2010,38,Colorado Buffaloes,2009-12-04,36.45174157,included_game_day
+2010,38,Colorado Buffaloes,2009-12-10,23.392178815,included_game_day
+2010,38,Colorado Buffaloes,2009-12-22,49.658692492458,included_game_day
+2010,38,Colorado Buffaloes,2009-12-29,50.257684526098345,included_game_day
+2010,38,Colorado Buffaloes,2010-01-02,30.105284373014,included_game_day
+2010,38,Colorado Buffaloes,2010-01-05,25.226654676777194,included_game_day
+2010,38,Colorado Buffaloes,2010-01-09,25.255511583974325,included_game_day
+2010,38,Colorado Buffaloes,2010-01-12,40.83805803625325,included_game_day
+2010,38,Colorado Buffaloes,2010-01-16,41.82353754849329,included_game_day
+2010,38,Colorado Buffaloes,2010-01-20,37.356600920254095,included_game_day
+2010,38,Colorado Buffaloes,2010-01-23,41.38160893392563,included_game_day
+2010,38,Colorado Buffaloes,2010-01-27,51.61426749067896,included_game_day
+2010,38,Colorado Buffaloes,2010-01-30,52.98215369309009,included_game_day
+2010,38,Colorado Buffaloes,2010-02-03,60.00083130378039,included_game_day
+2010,38,Colorado Buffaloes,2010-02-06,46.572996960434374,included_game_day
+2010,38,Colorado Buffaloes,2010-02-13,43.0904645814953,included_game_day
+2010,38,Colorado Buffaloes,2010-02-17,49.053241559382926,included_game_day
+2010,38,Colorado Buffaloes,2010-02-20,47.11636032319701,included_game_day
+2010,38,Colorado Buffaloes,2010-02-24,31.819480962893515,included_game_day
+2010,38,Colorado Buffaloes,2010-02-27,33.22321043639207,included_game_day
+2010,38,Colorado Buffaloes,2010-03-02,49.21213318555142,included_game_day
+2010,38,Colorado Buffaloes,2010-03-06,54.95852715754584,included_game_day
+2010,38,Colorado Buffaloes,2010-03-10,36.55564233514137,included_game_day
+2011,38,Colorado Buffaloes,2010-11-12,5.0,included_game_day
+2011,38,Colorado Buffaloes,2010-11-16,-1.5999999999999996,included_game_day
+2011,38,Colorado Buffaloes,2010-11-20,0.34600000000000053,included_game_day
+2011,38,Colorado Buffaloes,2010-11-23,28.5434,included_game_day
+2011,38,Colorado Buffaloes,2010-11-28,14.259865999999999,included_game_day
+2011,38,Colorado Buffaloes,2010-11-30,24.0010294,included_game_day
+2011,38,Colorado Buffaloes,2010-12-04,44.441642425400005,included_game_day
+2011,38,Colorado Buffaloes,2010-12-08,46.12570680086,included_game_day
+2011,38,Colorado Buffaloes,2010-12-17,61.636656528134,included_game_day
+2011,38,Colorado Buffaloes,2010-12-19,84.7520949968675,included_game_day
+2011,38,Colorado Buffaloes,2010-12-22,70.33263544289309,included_game_day
+2011,38,Colorado Buffaloes,2010-12-23,81.68096189525988,included_game_day
+2011,38,Colorado Buffaloes,2010-12-29,85.88887375007903,included_game_day
+2011,38,Colorado Buffaloes,2011-01-02,92.44528402480172,included_game_day
+2011,38,Colorado Buffaloes,2011-01-08,107.75352194508615,included_game_day
+2011,38,Colorado Buffaloes,2011-01-12,115.75571153396271,included_game_day
+2011,38,Colorado Buffaloes,2011-01-15,111.72855782861721,included_game_day
+2011,38,Colorado Buffaloes,2011-01-18,101.96455619604654,included_game_day
+2011,38,Colorado Buffaloes,2011-01-22,87.97409753309248,included_game_day
+2011,38,Colorado Buffaloes,2011-01-25,89.19477871734635,included_game_day
+2011,38,Colorado Buffaloes,2011-01-29,87.56752160849554,included_game_day
+2011,38,Colorado Buffaloes,2011-02-01,106.10673784138896,included_game_day
+2011,38,Colorado Buffaloes,2011-02-05,97.12071117477097,included_game_day
+2011,38,Colorado Buffaloes,2011-02-09,89.95411532583631,included_game_day
+2011,38,Colorado Buffaloes,2011-02-12,88.78123019059545,included_game_day
+2011,38,Colorado Buffaloes,2011-02-19,75.68048582464658,included_game_day
+2011,38,Colorado Buffaloes,2011-02-23,77.78936221820946,included_game_day
+2011,38,Colorado Buffaloes,2011-02-26,88.27390872032058,included_game_day
+2011,38,Colorado Buffaloes,2011-03-02,80.67228213769714,included_game_day
+2011,38,Colorado Buffaloes,2011-03-05,89.53991028980468,included_game_day
+2011,38,Colorado Buffaloes,2011-03-09,86.72858164661926,included_game_day
+2011,38,Colorado Buffaloes,2011-03-10,104.45226937274501,included_game_day
+2011,38,Colorado Buffaloes,2011-03-11,105.99229760007533,included_game_day
+2011,38,Colorado Buffaloes,2011-03-16,98.36749270986877,included_game_day
+2011,38,Colorado Buffaloes,2011-03-18,108.77725043613589,included_game_day
+2011,38,Colorado Buffaloes,2011-03-22,107.66889787488756,included_game_day
+2011,38,Colorado Buffaloes,2011-03-29,106.72268347866482,included_game_day
+2012,38,Colorado Buffaloes,2011-11-17,-6.52,included_game_day
+2012,38,Colorado Buffaloes,2011-11-18,-14.035,included_game_day
+2012,38,Colorado Buffaloes,2011-11-20,-9.5961,included_game_day
+2012,38,Colorado Buffaloes,2011-11-23,-0.7364899999999999,included_game_day
+2012,38,Colorado Buffaloes,2011-11-28,-1.8281959999999997,included_game_day
+2012,38,Colorado Buffaloes,2011-11-30,0.29292760000000007,included_game_day
+2012,38,Colorado Buffaloes,2011-12-07,5.026473920000001,included_game_day
+2012,38,Colorado Buffaloes,2011-12-09,-1.9476411080999991,included_game_day
+2012,38,Colorado Buffaloes,2011-12-19,-2.374026714437469,included_game_day
+2012,38,Colorado Buffaloes,2011-12-22,-10.795220368312723,included_game_day
+2012,38,Colorado Buffaloes,2011-12-31,15.962723477182092,included_game_day
+2012,38,Colorado Buffaloes,2012-01-05,35.854292245210544,included_game_day
+2012,38,Colorado Buffaloes,2012-01-07,43.42220476373545,included_game_day
+2012,38,Colorado Buffaloes,2012-01-12,45.560703782198665,included_game_day
+2012,38,Colorado Buffaloes,2012-01-14,29.888603445506583,included_game_day
+2012,38,Colorado Buffaloes,2012-01-19,38.59206470892116,included_game_day
+2012,38,Colorado Buffaloes,2012-01-21,40.853843690261826,included_game_day
+2012,38,Colorado Buffaloes,2012-01-26,61.08833587936689,included_game_day
+2012,38,Colorado Buffaloes,2012-01-28,48.16704918122761,included_game_day
+2012,38,Colorado Buffaloes,2012-02-02,69.51368822172344,included_game_day
+2012,38,Colorado Buffaloes,2012-02-04,64.5519975471544,included_game_day
+2012,38,Colorado Buffaloes,2012-02-09,57.914151789265404,included_game_day
+2012,38,Colorado Buffaloes,2012-02-11,63.759204964289076,included_game_day
+2012,38,Colorado Buffaloes,2012-02-18,58.264896509435786,included_game_day
+2012,38,Colorado Buffaloes,2012-02-23,29.8161117270279,included_game_day
+2012,38,Colorado Buffaloes,2012-02-26,48.75235336834369,included_game_day
+2012,38,Colorado Buffaloes,2012-03-01,45.94225893181261,included_game_day
+2012,38,Colorado Buffaloes,2012-03-03,33.25168708145968,included_game_day
+2012,38,Colorado Buffaloes,2012-03-07,32.5786011525748,included_game_day
+2012,38,Colorado Buffaloes,2012-03-08,41.47866165186312,included_game_day
+2012,38,Colorado Buffaloes,2012-03-09,58.141021809087746,included_game_day
+2012,38,Colorado Buffaloes,2012-03-10,62.61721595213201,included_game_day
+2012,38,Colorado Buffaloes,2012-03-15,70.63256320740348,included_game_day
+2012,38,Colorado Buffaloes,2012-03-17,60.5340687535228,included_game_day
+2013,38,Colorado Buffaloes,2012-11-09,12.0,included_game_day
+2013,38,Colorado Buffaloes,2012-11-15,21.8,included_game_day
+2013,38,Colorado Buffaloes,2012-11-16,26.789,included_game_day
+2013,38,Colorado Buffaloes,2012-11-18,33.6361,included_game_day
+2013,38,Colorado Buffaloes,2012-11-25,45.23659,included_game_day
+2013,38,Colorado Buffaloes,2012-11-27,35.603764,included_game_day
+2013,38,Colorado Buffaloes,2012-12-01,34.209092539,included_game_day
+2013,38,Colorado Buffaloes,2012-12-05,41.267266905099994,included_game_day
+2013,38,Colorado Buffaloes,2012-12-08,11.483657064589995,included_game_day
+2013,38,Colorado Buffaloes,2012-12-12,21.168825123170997,included_game_day
+2013,38,Colorado Buffaloes,2012-12-21,57.9295962387383,included_game_day
+2013,38,Colorado Buffaloes,2012-12-29,76.71039841518491,included_game_day
+2013,38,Colorado Buffaloes,2013-01-03,76.39376735993045,included_game_day
+2013,38,Colorado Buffaloes,2013-01-06,68.31669620608884,included_game_day
+2013,38,Colorado Buffaloes,2013-01-10,64.533495474857,included_game_day
+2013,38,Colorado Buffaloes,2013-01-12,61.13471045046449,included_game_day
+2013,38,Colorado Buffaloes,2013-01-16,52.94776608000997,included_game_day
+2013,38,Colorado Buffaloes,2013-01-19,62.59468295747743,included_game_day
+2013,38,Colorado Buffaloes,2013-01-24,78.89346605333833,included_game_day
+2013,38,Colorado Buffaloes,2013-01-27,81.60289900895276,included_game_day
+2013,38,Colorado Buffaloes,2013-02-02,72.49693927796106,included_game_day
+2013,38,Colorado Buffaloes,2013-02-07,77.3389001765514,included_game_day
+2013,38,Colorado Buffaloes,2013-02-10,80.58799705397306,included_game_day
+2013,38,Colorado Buffaloes,2013-02-14,94.24543253618249,included_game_day
+2013,38,Colorado Buffaloes,2013-02-16,86.92359552647628,included_game_day
+2013,38,Colorado Buffaloes,2013-02-21,85.60134414420853,included_game_day
+2013,38,Colorado Buffaloes,2013-02-27,89.24321064914321,included_game_day
+2013,38,Colorado Buffaloes,2013-03-02,76.09302264810533,included_game_day
+2013,38,Colorado Buffaloes,2013-03-07,97.20302938472655,included_game_day
+2013,38,Colorado Buffaloes,2013-03-09,79.65605110776534,included_game_day
+2013,38,Colorado Buffaloes,2013-03-13,80.61846848619636,included_game_day
+2013,38,Colorado Buffaloes,2013-03-14,72.86341844973485,included_game_day
+2013,38,Colorado Buffaloes,2013-03-22,65.25070831421642,included_game_day
+2014,38,Colorado Buffaloes,2013-11-08,-12.0,included_game_day
+2014,38,Colorado Buffaloes,2013-11-10,10.7,included_game_day
+2014,38,Colorado Buffaloes,2013-11-13,13.129999999999999,included_game_day
+2014,38,Colorado Buffaloes,2013-11-16,31.691,included_game_day
+2014,38,Colorado Buffaloes,2013-11-18,47.6,included_game_day
+2014,38,Colorado Buffaloes,2013-11-21,49.534,included_game_day
+2014,38,Colorado Buffaloes,2013-11-24,54.4758,included_game_day
+2014,38,Colorado Buffaloes,2013-11-30,73.18542206000001,included_game_day
+2014,38,Colorado Buffaloes,2013-12-03,76.166842524,included_game_day
+2014,38,Colorado Buffaloes,2013-12-07,75.0469313606,included_game_day
+2014,38,Colorado Buffaloes,2013-12-13,82.90385701584,included_game_day
+2014,38,Colorado Buffaloes,2013-12-21,85.14223652111474,included_game_day
+2014,38,Colorado Buffaloes,2013-12-28,89.30648282055506,included_game_day
+2014,38,Colorado Buffaloes,2014-01-02,86.16456843549621,included_game_day
+2014,38,Colorado Buffaloes,2014-01-05,95.10100579320871,included_game_day
+2014,38,Colorado Buffaloes,2014-01-08,89.55621945038776,included_game_day
+2014,38,Colorado Buffaloes,2014-01-12,70.37328651657704,included_game_day
+2014,38,Colorado Buffaloes,2014-01-16,59.88747624216232,included_game_day
+2014,38,Colorado Buffaloes,2014-01-18,69.77424462853074,included_game_day
+2014,38,Colorado Buffaloes,2014-01-23,71.89782388739546,included_game_day
+2014,38,Colorado Buffaloes,2014-01-25,54.85236108464677,included_game_day
+2014,38,Colorado Buffaloes,2014-02-01,59.502559034171696,included_game_day
+2014,38,Colorado Buffaloes,2014-02-05,52.03957496398317,included_game_day
+2014,38,Colorado Buffaloes,2014-02-09,72.91437396695906,included_game_day
+2014,38,Colorado Buffaloes,2014-02-13,63.69382728346591,included_game_day
+2014,38,Colorado Buffaloes,2014-02-16,68.7270005784481,included_game_day
+2014,38,Colorado Buffaloes,2014-02-19,78.48289568832013,included_game_day
+2014,38,Colorado Buffaloes,2014-02-22,56.389068061799755,included_game_day
+2014,38,Colorado Buffaloes,2014-03-01,53.465789141925164,included_game_day
+2014,38,Colorado Buffaloes,2014-03-05,64.36210990501871,included_game_day
+2014,38,Colorado Buffaloes,2014-03-08,63.98781087952983,included_game_day
+2014,38,Colorado Buffaloes,2014-03-12,58.82325093528245,included_game_day
+2014,38,Colorado Buffaloes,2014-03-13,60.04026770931608,included_game_day
+2014,38,Colorado Buffaloes,2014-03-14,54.07135690553249,included_game_day
+2014,38,Colorado Buffaloes,2014-03-20,31.067946912317122,included_game_day
+2015,38,Colorado Buffaloes,2014-11-14,14.0,included_game_day
+2015,38,Colorado Buffaloes,2014-11-18,41.3,included_game_day
+2015,38,Colorado Buffaloes,2014-11-22,17.669999999999998,included_game_day
+2015,38,Colorado Buffaloes,2014-11-25,28.923,included_game_day
+2015,38,Colorado Buffaloes,2014-11-30,29.208,included_game_day
+2015,38,Colorado Buffaloes,2014-12-03,43.88074972,included_game_day
+2015,38,Colorado Buffaloes,2014-12-07,40.084395408,included_game_day
+2015,38,Colorado Buffaloes,2014-12-10,35.37516158872,included_game_day
+2015,38,Colorado Buffaloes,2014-12-13,55.129360523528,included_game_day
+2015,38,Colorado Buffaloes,2014-12-22,63.79451518113737,included_game_day
+2015,38,Colorado Buffaloes,2014-12-23,62.64940390406669,included_game_day
+2015,38,Colorado Buffaloes,2014-12-25,57.340451319710176,included_game_day
+2015,38,Colorado Buffaloes,2015-01-02,56.70092278829732,included_game_day
+2015,38,Colorado Buffaloes,2015-01-04,69.22625341843681,included_game_day
+2015,38,Colorado Buffaloes,2015-01-07,54.4395795927901,included_game_day
+2015,38,Colorado Buffaloes,2015-01-15,51.95937512941477,included_game_day
+2015,38,Colorado Buffaloes,2015-01-17,47.70372884850164,included_game_day
+2015,38,Colorado Buffaloes,2015-01-22,44.63516786399456,included_game_day
+2015,38,Colorado Buffaloes,2015-01-24,69.81491527495552,included_game_day
+2015,38,Colorado Buffaloes,2015-01-29,69.51041292369572,included_game_day
+2015,38,Colorado Buffaloes,2015-01-31,57.25111950766316,included_game_day
+2015,38,Colorado Buffaloes,2015-02-07,36.41449790867827,included_game_day
+2015,38,Colorado Buffaloes,2015-02-12,21.86422738318912,included_game_day
+2015,38,Colorado Buffaloes,2015-02-15,30.686959437683218,included_game_day
+2015,38,Colorado Buffaloes,2015-02-18,22.864609334501267,included_game_day
+2015,38,Colorado Buffaloes,2015-02-21,12.244294112183331,included_game_day
+2015,38,Colorado Buffaloes,2015-02-26,0.326830309619373,included_game_day
+2015,38,Colorado Buffaloes,2015-03-01,7.314027703982164,included_game_day
+2015,38,Colorado Buffaloes,2015-03-05,25.19827412019942,included_game_day
+2015,38,Colorado Buffaloes,2015-03-07,20.436058839050283,included_game_day
+2015,38,Colorado Buffaloes,2015-03-11,25.85431802459982,included_game_day
+2015,38,Colorado Buffaloes,2015-03-12,24.289409486047646,included_game_day
+2015,38,Colorado Buffaloes,2015-03-18,25.322690668998273,included_game_day
+2015,38,Colorado Buffaloes,2015-03-23,16.09847996549713,included_game_day
+2016,38,Colorado Buffaloes,2015-11-13,-6.0,included_game_day
+2016,38,Colorado Buffaloes,2015-11-17,4.4,included_game_day
+2016,38,Colorado Buffaloes,2015-11-22,5.75,included_game_day
+2016,38,Colorado Buffaloes,2015-11-25,13.562100000000001,included_game_day
+2016,38,Colorado Buffaloes,2015-11-29,30.939688,included_game_day
+2016,38,Colorado Buffaloes,2015-12-06,43.183184808,included_game_day
+2016,38,Colorado Buffaloes,2015-12-12,48.3893502535,included_game_day
+2016,38,Colorado Buffaloes,2015-12-18,45.71662375831271,included_game_day
+2016,38,Colorado Buffaloes,2015-12-19,78.17915119551525,included_game_day
+2016,38,Colorado Buffaloes,2015-12-22,73.59206561333055,included_game_day
+2016,38,Colorado Buffaloes,2015-12-23,77.74191079932392,included_game_day
+2016,38,Colorado Buffaloes,2016-01-01,68.00591936152159,included_game_day
+2016,38,Colorado Buffaloes,2016-01-03,68.66452350454642,included_game_day
+2016,38,Colorado Buffaloes,2016-01-08,65.50483979887483,included_game_day
+2016,38,Colorado Buffaloes,2016-01-13,78.83193748550822,included_game_day
+2016,38,Colorado Buffaloes,2016-01-17,81.68769910055285,included_game_day
+2016,38,Colorado Buffaloes,2016-01-20,68.89660736871194,included_game_day
+2016,38,Colorado Buffaloes,2016-01-23,69.42915537115724,included_game_day
+2016,38,Colorado Buffaloes,2016-01-27,79.50711428169637,included_game_day
+2016,38,Colorado Buffaloes,2016-01-31,85.06147586734487,included_game_day
+2016,38,Colorado Buffaloes,2016-02-04,73.305292793812,included_game_day
+2016,38,Colorado Buffaloes,2016-02-06,68.92573431135928,included_game_day
+2016,38,Colorado Buffaloes,2016-02-11,62.244424467340195,included_game_day
+2016,38,Colorado Buffaloes,2016-02-13,60.03448781017601,included_game_day
+2016,38,Colorado Buffaloes,2016-02-17,59.496457975745344,included_game_day
+2016,38,Colorado Buffaloes,2016-02-20,40.068027296249255,included_game_day
+2016,38,Colorado Buffaloes,2016-02-24,52.47177790070176,included_game_day
+2016,38,Colorado Buffaloes,2016-02-28,53.88006533088787,included_game_day
+2016,38,Colorado Buffaloes,2016-03-05,65.45992317067054,included_game_day
+2016,38,Colorado Buffaloes,2016-03-09,76.82817696911835,included_game_day
+2016,38,Colorado Buffaloes,2016-03-10,81.78086206783817,included_game_day
+2016,38,Colorado Buffaloes,2016-03-17,80.44467048520328,included_game_day
+2017,38,Colorado Buffaloes,2016-11-11,34.0,included_game_day
+2017,38,Colorado Buffaloes,2016-11-14,39.6,included_game_day
+2017,38,Colorado Buffaloes,2016-11-17,49.86,included_game_day
+2017,38,Colorado Buffaloes,2016-11-21,47.3776,included_game_day
+2017,38,Colorado Buffaloes,2016-11-22,59.33964,included_game_day
+2017,38,Colorado Buffaloes,2016-11-27,62.5129139,included_game_day
+2017,38,Colorado Buffaloes,2016-11-30,41.62613948,included_game_day
+2017,38,Colorado Buffaloes,2016-12-03,54.897907232,included_game_day
+2017,38,Colorado Buffaloes,2016-12-07,55.738255386,included_game_day
+2017,38,Colorado Buffaloes,2016-12-10,49.87696085009,included_game_day
+2017,38,Colorado Buffaloes,2016-12-19,55.484229860815,included_game_day
+2017,38,Colorado Buffaloes,2016-12-22,50.06567492935118,included_game_day
+2017,38,Colorado Buffaloes,2017-01-01,37.43534372675521,included_game_day
+2017,38,Colorado Buffaloes,2017-01-05,36.81795003319102,included_game_day
+2017,38,Colorado Buffaloes,2017-01-07,41.47351898841855,included_game_day
+2017,38,Colorado Buffaloes,2017-01-12,33.39623391157242,included_game_day
+2017,38,Colorado Buffaloes,2017-01-15,28.466100557871055,included_game_day
+2017,38,Colorado Buffaloes,2017-01-18,28.729517410450082,included_game_day
+2017,38,Colorado Buffaloes,2017-01-21,20.815546176050383,included_game_day
+2017,38,Colorado Buffaloes,2017-01-26,14.011737292608313,included_game_day
+2017,38,Colorado Buffaloes,2017-01-28,36.28700349671829,included_game_day
+2017,38,Colorado Buffaloes,2017-02-02,44.39608670527658,included_game_day
+2017,38,Colorado Buffaloes,2017-02-05,38.92027628565008,included_game_day
+2017,38,Colorado Buffaloes,2017-02-09,43.84389547693236,included_game_day
+2017,38,Colorado Buffaloes,2017-02-12,66.20294201512917,included_game_day
+2017,38,Colorado Buffaloes,2017-02-16,63.38102630193301,included_game_day
+2017,38,Colorado Buffaloes,2017-02-18,49.46127014653827,included_game_day
+2017,38,Colorado Buffaloes,2017-02-23,43.855308199163346,included_game_day
+2017,38,Colorado Buffaloes,2017-03-02,59.780582039493574,included_game_day
+2017,38,Colorado Buffaloes,2017-03-04,66.24872477809836,included_game_day
+2017,38,Colorado Buffaloes,2017-03-08,67.01606880349495,included_game_day
+2017,38,Colorado Buffaloes,2017-03-09,58.066754034851996,included_game_day
+2017,38,Colorado Buffaloes,2017-03-15,58.734883146893885,included_game_day
+2018,38,Colorado Buffaloes,2017-11-10,12.0,included_game_day
+2018,38,Colorado Buffaloes,2017-11-14,33.019999999999996,included_game_day
+2018,38,Colorado Buffaloes,2017-11-17,29.537999999999997,included_game_day
+2018,38,Colorado Buffaloes,2017-11-18,31.679199999999998,included_game_day
+2018,38,Colorado Buffaloes,2017-11-19,42.715379999999996,included_game_day
+2018,38,Colorado Buffaloes,2017-11-26,47.058957,included_game_day
+2018,38,Colorado Buffaloes,2017-12-02,33.1218155,included_game_day
+2018,38,Colorado Buffaloes,2017-12-06,44.18832703699999,included_game_day
+2018,38,Colorado Buffaloes,2017-12-09,28.176555387709993,included_game_day
+2018,38,Colorado Buffaloes,2017-12-12,17.215623516886993,included_game_day
+2018,38,Colorado Buffaloes,2017-12-15,24.91316016207829,included_game_day
+2018,38,Colorado Buffaloes,2017-12-22,22.364717551067358,included_game_day
+2018,38,Colorado Buffaloes,2017-12-29,5.971556165698175,included_game_day
+2018,38,Colorado Buffaloes,2017-12-31,0.3193269684691451,included_game_day
+2018,38,Colorado Buffaloes,2018-01-04,20.420346649367172,included_game_day
+2018,38,Colorado Buffaloes,2018-01-06,30.77748236418168,included_game_day
+2018,38,Colorado Buffaloes,2018-01-10,26.11283126983944,included_game_day
+2018,38,Colorado Buffaloes,2018-01-13,44.97506661748703,included_game_day
+2018,38,Colorado Buffaloes,2018-01-18,46.68143831423423,included_game_day
+2018,38,Colorado Buffaloes,2018-01-20,31.332953292893688,included_game_day
+2018,38,Colorado Buffaloes,2018-01-25,33.86694956365018,included_game_day
+2018,38,Colorado Buffaloes,2018-01-27,26.82612413131514,included_game_day
+2018,38,Colorado Buffaloes,2018-02-02,39.53193763431098,included_game_day
+2018,38,Colorado Buffaloes,2018-02-07,31.476529821240078,included_game_day
+2018,38,Colorado Buffaloes,2018-02-11,39.72331870090431,included_game_day
+2018,38,Colorado Buffaloes,2018-02-15,27.67135579497995,included_game_day
+2018,38,Colorado Buffaloes,2018-02-17,7.687902127909258,included_game_day
+2018,38,Colorado Buffaloes,2018-02-21,1.8834437520936511,included_game_day
+2018,38,Colorado Buffaloes,2018-02-25,11.547003111595096,included_game_day
+2018,38,Colorado Buffaloes,2018-03-03,10.891304322422188,included_game_day
+2018,38,Colorado Buffaloes,2018-03-07,29.47186729089365,included_game_day
+2018,38,Colorado Buffaloes,2018-03-08,21.12312037776369,included_game_day
+2019,38,Colorado Buffaloes,2018-11-13,26.0,included_game_day
+2019,38,Colorado Buffaloes,2018-11-16,20.811799999999998,included_game_day
+2019,38,Colorado Buffaloes,2018-11-20,18.49662,included_game_day
+2019,38,Colorado Buffaloes,2018-11-24,55.167538,included_game_day
+2019,38,Colorado Buffaloes,2018-11-28,68.4257862,included_game_day
+2019,38,Colorado Buffaloes,2018-12-01,61.485028920000005,included_game_day
+2019,38,Colorado Buffaloes,2018-12-04,77.906527217,included_game_day
+2019,38,Colorado Buffaloes,2018-12-08,78.1399140081,included_game_day
+2019,38,Colorado Buffaloes,2018-12-11,72.99082827129101,included_game_day
+2019,38,Colorado Buffaloes,2018-12-22,61.33157499399941,included_game_day
+2019,38,Colorado Buffaloes,2018-12-23,48.22176864111358,included_game_day
+2019,38,Colorado Buffaloes,2018-12-25,52.65329756389507,included_game_day
+2019,38,Colorado Buffaloes,2019-01-03,47.38191300187794,included_game_day
+2019,38,Colorado Buffaloes,2019-01-05,26.532537587756888,included_game_day
+2019,38,Colorado Buffaloes,2019-01-10,53.49262690775902,included_game_day
+2019,38,Colorado Buffaloes,2019-01-12,45.926660375517386,included_game_day
+2019,38,Colorado Buffaloes,2019-01-20,37.34011992988947,included_game_day
+2019,38,Colorado Buffaloes,2019-01-24,37.887557424143495,included_game_day
+2019,38,Colorado Buffaloes,2019-01-26,24.735528266815734,included_game_day
+2019,38,Colorado Buffaloes,2019-01-31,21.965652666311232,included_game_day
+2019,38,Colorado Buffaloes,2019-02-02,45.281524700144956,included_game_day
+2019,38,Colorado Buffaloes,2019-02-06,59.22101307583834,included_game_day
+2019,38,Colorado Buffaloes,2019-02-09,64.50007392754013,included_game_day
+2019,38,Colorado Buffaloes,2019-02-13,63.81178994360744,included_game_day
+2019,38,Colorado Buffaloes,2019-02-17,61.56841056401446,included_game_day
+2019,38,Colorado Buffaloes,2019-02-20,56.97134748645503,included_game_day
+2019,38,Colorado Buffaloes,2019-02-23,55.29364777001743,included_game_day
+2019,38,Colorado Buffaloes,2019-03-02,58.33377771143875,included_game_day
+2019,38,Colorado Buffaloes,2019-03-07,76.54349147270217,included_game_day
+2019,38,Colorado Buffaloes,2019-03-09,80.88107425562276,included_game_day
+2019,38,Colorado Buffaloes,2019-03-13,73.33074452204548,included_game_day
+2019,38,Colorado Buffaloes,2019-03-14,84.99254398655805,included_game_day
+2019,38,Colorado Buffaloes,2019-03-15,78.54689854445661,included_game_day
+2019,38,Colorado Buffaloes,2019-03-19,80.97789025443593,included_game_day
+2019,38,Colorado Buffaloes,2019-03-25,83.87531712498968,included_game_day
+2019,38,Colorado Buffaloes,2019-03-27,73.53435629237521,included_game_day
+2020,38,Colorado Buffaloes,2019-11-08,10.0,included_game_day
+2020,38,Colorado Buffaloes,2019-11-16,24.30472,included_game_day
+2020,38,Colorado Buffaloes,2019-11-18,36.084248,included_game_day
+2020,38,Colorado Buffaloes,2019-11-24,45.7455292,included_game_day
+2020,38,Colorado Buffaloes,2019-11-26,51.514219552,included_game_day
+2020,38,Colorado Buffaloes,2019-11-30,59.795821696800004,included_game_day
+2020,38,Colorado Buffaloes,2019-12-04,60.77217039312001,included_game_day
+2020,38,Colorado Buffaloes,2019-12-07,51.948444839808005,included_game_day
+2020,38,Colorado Buffaloes,2019-12-10,44.063822005827205,included_game_day
+2020,38,Colorado Buffaloes,2019-12-13,51.36291604813505,included_game_day
+2020,38,Colorado Buffaloes,2019-12-19,60.19687188681948,included_game_day
+2020,38,Colorado Buffaloes,2019-12-21,68.22560401815272,included_game_day
+2020,38,Colorado Buffaloes,2019-12-29,102.2293931334473,included_game_day
+2020,38,Colorado Buffaloes,2020-01-02,108.55388739683107,included_game_day
+2020,38,Colorado Buffaloes,2020-01-05,92.07460282951732,included_game_day
+2020,38,Colorado Buffaloes,2020-01-12,124.11466419448337,included_game_day
+2020,38,Colorado Buffaloes,2020-01-16,125.17661170437955,included_game_day
+2020,38,Colorado Buffaloes,2020-01-18,106.69869180216965,included_game_day
+2020,38,Colorado Buffaloes,2020-01-23,118.56613182787868,included_game_day
+2020,38,Colorado Buffaloes,2020-01-25,125.0436279246453,included_game_day
+2020,38,Colorado Buffaloes,2020-01-30,111.02813352043799,included_game_day
+2020,38,Colorado Buffaloes,2020-02-01,131.68240141665686,included_game_day
+2020,38,Colorado Buffaloes,2020-02-06,119.37121026511876,included_game_day
+2020,38,Colorado Buffaloes,2020-02-08,118.54846651235277,included_game_day
+2020,38,Colorado Buffaloes,2020-02-13,109.29329696036729,included_game_day
+2020,38,Colorado Buffaloes,2020-02-15,129.3154171658206,included_game_day
+2020,38,Colorado Buffaloes,2020-02-20,125.1624717397772,included_game_day
+2020,38,Colorado Buffaloes,2020-02-22,108.26575769740664,included_game_day
+2020,38,Colorado Buffaloes,2020-02-27,82.88577783545753,included_game_day
+2020,38,Colorado Buffaloes,2020-03-01,77.43921304015207,included_game_day
+2020,38,Colorado Buffaloes,2020-03-07,71.87320974188498,included_game_day
+2020,38,Colorado Buffaloes,2020-03-11,49.697720448051065,included_game_day
+2021,38,Colorado Buffaloes,2020-11-25,23.0,included_game_day
+2021,38,Colorado Buffaloes,2020-11-27,40.4,included_game_day
+2021,38,Colorado Buffaloes,2020-12-08,30.36,included_game_day
+2021,38,Colorado Buffaloes,2020-12-14,60.324,included_game_day
+2021,38,Colorado Buffaloes,2020-12-16,85.6984724,included_game_day
+2021,38,Colorado Buffaloes,2020-12-20,97.3407699276,included_game_day
+2021,38,Colorado Buffaloes,2020-12-22,100.69960353799999,included_game_day
+2021,38,Colorado Buffaloes,2020-12-28,85.70914474003999,included_game_day
+2021,38,Colorado Buffaloes,2020-12-31,98.11301538214599,included_game_day
+2021,38,Colorado Buffaloes,2021-01-02,93.4001069299614,included_game_day
+2021,38,Colorado Buffaloes,2021-01-07,97.44426972432086,included_game_day
+2021,38,Colorado Buffaloes,2021-01-11,99.94088722171038,included_game_day
+2021,38,Colorado Buffaloes,2021-01-14,114.7438367379699,included_game_day
+2021,38,Colorado Buffaloes,2021-01-16,118.71718568942862,included_game_day
+2021,38,Colorado Buffaloes,2021-01-20,100.34732408453584,included_game_day
+2021,38,Colorado Buffaloes,2021-01-23,104.12021030906796,included_game_day
+2021,38,Colorado Buffaloes,2021-01-27,102.13851928869364,included_game_day
+2021,38,Colorado Buffaloes,2021-01-30,88.65495654939451,included_game_day
+2021,38,Colorado Buffaloes,2021-02-06,86.71979969750613,included_game_day
+2021,38,Colorado Buffaloes,2021-02-08,105.93597464323707,included_game_day
+2021,38,Colorado Buffaloes,2021-02-11,122.13343975400167,included_game_day
+2021,38,Colorado Buffaloes,2021-02-13,102.03983481068425,included_game_day
+2021,38,Colorado Buffaloes,2021-02-18,97.6675866189131,included_game_day
+2021,38,Colorado Buffaloes,2021-02-20,97.00957171824322,included_game_day
+2021,38,Colorado Buffaloes,2021-02-25,113.15489924480136,included_game_day
+2021,38,Colorado Buffaloes,2021-02-27,114.4383465671268,included_game_day
+2021,38,Colorado Buffaloes,2021-03-04,116.45314074315604,included_game_day
+2021,38,Colorado Buffaloes,2021-03-11,106.09020339547159,included_game_day
+2021,38,Colorado Buffaloes,2021-03-12,108.17396849120044,included_game_day
+2021,38,Colorado Buffaloes,2021-03-13,101.01562510338952,included_game_day
+2021,38,Colorado Buffaloes,2021-03-20,122.17036012508667,included_game_day
+2021,38,Colorado Buffaloes,2021-03-22,102.21912126531296,included_game_day
+2022,38,Colorado Buffaloes,2021-11-09,1.0,included_game_day
+2022,38,Colorado Buffaloes,2021-11-13,9.3,included_game_day
+2022,38,Colorado Buffaloes,2021-11-15,46.17,included_game_day
+2022,38,Colorado Buffaloes,2021-11-19,39.053000000000004,included_game_day
+2022,38,Colorado Buffaloes,2021-11-20,40.2779,included_game_day
+2022,38,Colorado Buffaloes,2021-11-22,37.22856,included_game_day
+2022,38,Colorado Buffaloes,2021-11-28,34.199624,included_game_day
+2022,38,Colorado Buffaloes,2021-12-01,29.77752528,included_game_day
+2022,38,Colorado Buffaloes,2021-12-04,17.120591232,included_game_day
+2022,38,Colorado Buffaloes,2021-12-08,14.1248447161,included_game_day
+2022,38,Colorado Buffaloes,2021-12-10,15.69894406989,included_game_day
+2022,38,Colorado Buffaloes,2021-12-18,22.0997034585598,included_game_day
+2022,38,Colorado Buffaloes,2022-01-06,29.706738782531463,included_game_day
+2022,38,Colorado Buffaloes,2022-01-09,37.867950457676244,included_game_day
+2022,38,Colorado Buffaloes,2022-01-13,33.258458912589006,included_game_day
+2022,38,Colorado Buffaloes,2022-01-15,49.4007676465774,included_game_day
+2022,38,Colorado Buffaloes,2022-01-20,46.09371868505049,included_game_day
+2022,38,Colorado Buffaloes,2022-01-22,41.421476668881404,included_game_day
+2022,38,Colorado Buffaloes,2022-01-25,53.01188444849897,included_game_day
+2022,38,Colorado Buffaloes,2022-01-27,48.612557258772966,included_game_day
+2022,38,Colorado Buffaloes,2022-01-30,27.43675510556897,included_game_day
+2022,38,Colorado Buffaloes,2022-02-03,15.220770012382797,included_game_day
+2022,38,Colorado Buffaloes,2022-02-05,28.8013238838368,included_game_day
+2022,38,Colorado Buffaloes,2022-02-12,28.86753631943816,included_game_day
+2022,38,Colorado Buffaloes,2022-02-15,48.284086234627594,included_game_day
+2022,38,Colorado Buffaloes,2022-02-17,55.76251536351894,included_game_day
+2022,38,Colorado Buffaloes,2022-02-19,73.15135020368416,included_game_day
+2022,38,Colorado Buffaloes,2022-02-24,49.09957295498233,included_game_day
+2022,38,Colorado Buffaloes,2022-02-26,73.77043294809145,included_game_day
+2022,38,Colorado Buffaloes,2022-03-05,83.66167452054722,included_game_day
+2022,38,Colorado Buffaloes,2022-03-10,89.4666692831497,included_game_day
+2022,38,Colorado Buffaloes,2022-03-11,85.42978755828051,included_game_day
+2022,38,Colorado Buffaloes,2022-03-15,72.3659287792499,included_game_day
+2023,38,Colorado Buffaloes,2022-11-07,13.0,included_game_day
+2023,38,Colorado Buffaloes,2022-11-11,5.7,included_game_day
+2023,38,Colorado Buffaloes,2022-11-13,20.03,included_game_day
+2023,38,Colorado Buffaloes,2022-11-17,15.707,included_game_day
+2023,38,Colorado Buffaloes,2022-11-18,44.960300000000004,included_game_day
+2023,38,Colorado Buffaloes,2022-11-20,29.542550000000002,included_game_day
+2023,38,Colorado Buffaloes,2022-11-27,32.361258,included_game_day
+2023,38,Colorado Buffaloes,2022-12-01,32.670737599999995,included_game_day
+2023,38,Colorado Buffaloes,2022-12-04,25.028331916799996,included_game_day
+2023,38,Colorado Buffaloes,2022-12-08,52.479151792319996,included_game_day
+2023,38,Colorado Buffaloes,2022-12-15,64.4390087211108,included_game_day
+2023,38,Colorado Buffaloes,2022-12-18,63.17811216912972,included_game_day
+2023,38,Colorado Buffaloes,2022-12-21,61.41472478028103,included_game_day
+2023,38,Colorado Buffaloes,2022-12-29,66.23167340532575,included_game_day
+2023,38,Colorado Buffaloes,2022-12-31,53.74020941225447,included_game_day
+2023,38,Colorado Buffaloes,2023-01-05,77.56252015709262,included_game_day
+2023,38,Colorado Buffaloes,2023-01-07,84.98016097663185,included_game_day
+2023,38,Colorado Buffaloes,2023-01-12,78.5222299566945,included_game_day
+2023,38,Colorado Buffaloes,2023-01-14,75.92626548889294,included_game_day
+2023,38,Colorado Buffaloes,2023-01-19,64.39367939480104,included_game_day
+2023,38,Colorado Buffaloes,2023-01-22,63.23059257233547,included_game_day
+2023,38,Colorado Buffaloes,2023-01-26,60.77162631821084,included_game_day
+2023,38,Colorado Buffaloes,2023-01-28,46.85666693342952,included_game_day
+2023,38,Colorado Buffaloes,2023-02-02,44.55542061233918,included_game_day
+2023,38,Colorado Buffaloes,2023-02-05,65.11220479373725,included_game_day
+2023,38,Colorado Buffaloes,2023-02-11,57.877903010039056,included_game_day
+2023,38,Colorado Buffaloes,2023-02-16,67.19841587710577,included_game_day
+2023,38,Colorado Buffaloes,2023-02-18,68.42301232515644,included_game_day
+2023,38,Colorado Buffaloes,2023-02-23,48.60264262847502,included_game_day
+2023,38,Colorado Buffaloes,2023-02-26,52.294092657114874,included_game_day
+2023,38,Colorado Buffaloes,2023-03-04,57.4501301438614,included_game_day
+2023,38,Colorado Buffaloes,2023-03-08,58.80543248198714,included_game_day
+2023,38,Colorado Buffaloes,2023-03-09,58.07543559395188,included_game_day
+2023,38,Colorado Buffaloes,2023-03-14,56.13577724392068,included_game_day
+2023,38,Colorado Buffaloes,2023-03-19,45.652877669960574,included_game_day
+2024,38,Colorado Buffaloes,2023-11-06,15.0,included_game_day
+2024,38,Colorado Buffaloes,2023-11-10,42.5,included_game_day
+2024,38,Colorado Buffaloes,2023-11-14,61.71,included_game_day
+2024,38,Colorado Buffaloes,2023-11-20,65.059,included_game_day
+2024,38,Colorado Buffaloes,2023-11-21,55.481864,included_game_day
+2024,38,Colorado Buffaloes,2023-11-26,64.7178155,included_game_day
+2024,38,Colorado Buffaloes,2023-11-29,65.66867205,included_game_day
+2024,38,Colorado Buffaloes,2023-12-03,81.309940381,included_game_day
+2024,38,Colorado Buffaloes,2023-12-10,108.0253745792,included_game_day
+2024,38,Colorado Buffaloes,2023-12-15,113.363420574841,included_game_day
+2024,38,Colorado Buffaloes,2023-12-21,122.53550177245282,included_game_day
+2024,38,Colorado Buffaloes,2023-12-29,117.2598188427876,included_game_day
+2024,38,Colorado Buffaloes,2023-12-31,115.4831570678353,included_game_day
+2024,38,Colorado Buffaloes,2024-01-04,73.08633217764935,included_game_day
+2024,38,Colorado Buffaloes,2024-01-06,68.15007073848169,included_game_day
+2024,38,Colorado Buffaloes,2024-01-10,60.858966211571904,included_game_day
+2024,38,Colorado Buffaloes,2024-01-13,64.1911816600203,included_game_day
+2024,38,Colorado Buffaloes,2024-01-18,77.34437874859445,included_game_day
+2024,38,Colorado Buffaloes,2024-01-20,98.32139709968257,included_game_day
+2024,38,Colorado Buffaloes,2024-01-24,112.64448806950438,included_game_day
+2024,38,Colorado Buffaloes,2024-01-27,105.29447219114267,included_game_day
+2024,38,Colorado Buffaloes,2024-02-03,98.88447394936063,included_game_day
+2024,38,Colorado Buffaloes,2024-02-08,95.53265565433514,included_game_day
+2024,38,Colorado Buffaloes,2024-02-10,77.91752811387154,included_game_day
+2024,38,Colorado Buffaloes,2024-02-15,74.18405934325231,included_game_day
+2024,38,Colorado Buffaloes,2024-02-17,72.10366391237588,included_game_day
+2024,38,Colorado Buffaloes,2024-02-24,90.42174481258347,included_game_day
+2024,38,Colorado Buffaloes,2024-02-28,91.80983057717776,included_game_day
+2024,38,Colorado Buffaloes,2024-03-03,88.59874656692551,included_game_day
+2024,38,Colorado Buffaloes,2024-03-07,92.08284721180742,included_game_day
+2024,38,Colorado Buffaloes,2024-03-09,101.8595680805165,included_game_day
+2024,38,Colorado Buffaloes,2024-03-14,114.16248576013976,included_game_day
+2024,38,Colorado Buffaloes,2024-03-15,118.49438565361355,included_game_day
+2024,38,Colorado Buffaloes,2024-03-16,106.64679245226661,included_game_day
+2024,38,Colorado Buffaloes,2024-03-20,114.10522025863112,included_game_day
+2024,38,Colorado Buffaloes,2024-03-22,116.0478606404935,included_game_day
+2024,38,Colorado Buffaloes,2024-03-24,114.49951743793937,included_game_day
+2025,38,Colorado Buffaloes,2024-11-04,17.0,included_game_day
+2025,38,Colorado Buffaloes,2024-11-08,14.3,included_game_day
+2025,38,Colorado Buffaloes,2024-11-13,37.040000000000006,included_game_day
+2025,38,Colorado Buffaloes,2024-11-17,50.114000000000004,included_game_day
+2025,38,Colorado Buffaloes,2024-11-25,33.954762,included_game_day
+2025,38,Colorado Buffaloes,2024-11-26,41.669169800000006,included_game_day
+2025,38,Colorado Buffaloes,2024-11-27,17.655713450000004,included_game_day
+2025,38,Colorado Buffaloes,2024-12-02,18.281100141100005,included_game_day
+2025,38,Colorado Buffaloes,2024-12-07,33.16667722649001,included_game_day
+2025,38,Colorado Buffaloes,2024-12-13,41.37664491282201,included_game_day
+2025,38,Colorado Buffaloes,2024-12-21,47.779393636906306,included_game_day
+2025,38,Colorado Buffaloes,2024-12-30,44.85901893646479,included_game_day
+2025,38,Colorado Buffaloes,2025-01-04,28.68466587966497,included_game_day
+2025,38,Colorado Buffaloes,2025-01-08,28.183206724340447,included_game_day
+2025,38,Colorado Buffaloes,2025-01-12,23.84807501222555,included_game_day
+2025,38,Colorado Buffaloes,2025-01-15,20.644936321867537,included_game_day
+2025,38,Colorado Buffaloes,2025-01-18,11.787587226202312,included_game_day
+2025,38,Colorado Buffaloes,2025-01-21,1.4999088385670785,included_game_day
+2025,38,Colorado Buffaloes,2025-01-25,4.679063482863354,included_game_day
+2025,38,Colorado Buffaloes,2025-01-28,4.98303803676443,included_game_day
+2025,38,Colorado Buffaloes,2025-02-02,-0.6368251890814101,included_game_day
+2025,38,Colorado Buffaloes,2025-02-05,-7.6068440857595245,included_game_day
+2025,38,Colorado Buffaloes,2025-02-08,-0.5394228105031562,included_game_day
+2025,38,Colorado Buffaloes,2025-02-11,4.572472379195622,included_game_day
+2025,38,Colorado Buffaloes,2025-02-15,18.222375784429055,included_game_day
+2025,38,Colorado Buffaloes,2025-02-18,20.83932587782489,included_game_day
+2025,38,Colorado Buffaloes,2025-02-22,29.436616224006336,included_game_day
+2025,38,Colorado Buffaloes,2025-02-24,27.62093037650731,included_game_day
+2025,38,Colorado Buffaloes,2025-03-02,25.86848103522675,included_game_day
+2025,38,Colorado Buffaloes,2025-03-05,27.76459759536702,included_game_day
+2025,38,Colorado Buffaloes,2025-03-08,45.891192785242865,included_game_day
+2025,38,Colorado Buffaloes,2025-03-11,45.39246893714353,included_game_day
+2025,38,Colorado Buffaloes,2025-03-12,55.682494059114006,included_game_day
+2025,38,Colorado Buffaloes,2025-03-13,60.46154103089066,included_game_day
+2025,38,Colorado Buffaloes,2025-04-01,41.241249049983026,included_game_day
+2026,38,Colorado Buffaloes,2025-11-03,3.0,included_game_day
+2026,38,Colorado Buffaloes,2025-11-08,3.9299999999999997,included_game_day
+2026,38,Colorado Buffaloes,2025-11-14,11.975,included_game_day
+2026,38,Colorado Buffaloes,2025-11-17,33.8455,included_game_day
+2026,38,Colorado Buffaloes,2025-11-21,44.88854,included_game_day
+2026,38,Colorado Buffaloes,2025-11-27,54.030443899999995,included_game_day
+2026,38,Colorado Buffaloes,2025-11-28,67.25848755,included_game_day
+2026,38,Colorado Buffaloes,2025-12-01,70.720576677,included_game_day
+2026,38,Colorado Buffaloes,2025-12-06,68.727351762,included_game_day
+2026,38,Colorado Buffaloes,2025-12-13,76.36264901364,included_game_day
+2026,38,Colorado Buffaloes,2025-12-17,76.12538618662799,included_game_day
+2026,38,Colorado Buffaloes,2025-12-20,64.71329614780508,included_game_day
+2026,38,Colorado Buffaloes,2025-12-28,50.32579446499534,included_game_day
+2026,38,Colorado Buffaloes,2026-01-03,58.561822248891026,included_game_day
+2026,38,Colorado Buffaloes,2026-01-07,62.86274729634872,included_game_day
+2026,38,Colorado Buffaloes,2026-01-10,64.45114994096771,included_game_day
+2026,38,Colorado Buffaloes,2026-01-14,60.35411167722716,included_game_day
+2026,38,Colorado Buffaloes,2026-01-17,53.671343694233286,included_game_day
+2026,38,Colorado Buffaloes,2026-01-20,54.31452845003176,included_game_day
+2026,38,Colorado Buffaloes,2026-01-24,43.60877891689352,included_game_day
+2026,38,Colorado Buffaloes,2026-01-29,30.206867534878448,included_game_day
+2026,38,Colorado Buffaloes,2026-02-01,59.66797549544847,included_game_day
+2026,38,Colorado Buffaloes,2026-02-04,45.04523434404003,included_game_day
+2026,38,Colorado Buffaloes,2026-02-07,50.698468314460385,included_game_day
+2026,38,Colorado Buffaloes,2026-02-11,29.33198558592563,included_game_day
+2026,38,Colorado Buffaloes,2026-02-14,38.971761793952666,included_game_day
+2026,38,Colorado Buffaloes,2026-02-21,50.28468458739016,included_game_day
+2026,38,Colorado Buffaloes,2026-02-25,52.59768547492338,included_game_day
+2026,38,Colorado Buffaloes,2026-02-28,28.1265831957619,included_game_day
+2026,38,Colorado Buffaloes,2026-03-03,44.789635005263385,included_game_day
+2026,38,Colorado Buffaloes,2026-03-07,51.36209070916931,included_game_day
+2026,38,Colorado Buffaloes,2026-03-10,41.94607292630575,included_game_day
+2026,38,Colorado Buffaloes,2026-04-01,47.48313415939137,included_game_day
+2027,38,Colorado Buffaloes,2026-11-02,32.0,included_game_day
+2027,38,Colorado Buffaloes,2026-11-07,19.9,included_game_day
+2027,38,Colorado Buffaloes,2026-11-10,23.21,included_game_day
+2027,38,Colorado Buffaloes,2026-11-14,13.161800000000001,included_game_day
+2027,38,Colorado Buffaloes,2026-11-18,5.493220000000001,included_game_day

@@ -1,0 +1,934 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1996,2261,Hampton,1995-11-24,10.0,included_game_day
+1996,2261,Hampton,1995-11-25,5.9,included_game_day
+1996,2261,Hampton,1995-11-29,-1.6789999999999994,included_game_day
+1996,2261,Hampton,1995-12-01,-14.411099999999998,included_game_day
+1996,2261,Hampton,1995-12-02,-15.323989999999998,included_game_day
+1996,2261,Hampton,1995-12-05,6.855899000000001,included_game_day
+1996,2261,Hampton,1995-12-08,3.142059100000001,included_game_day
+1996,2261,Hampton,1995-12-18,-9.079641607,included_game_day
+1996,2261,Hampton,1995-12-20,-0.32467744629999906,included_game_day
+1996,2261,Hampton,1995-12-22,-10.086208119462999,included_game_day
+1996,2261,Hampton,1995-12-28,-15.162004287216698,included_game_day
+1996,2261,Hampton,1996-01-03,-33.565588256922716,included_game_day
+1996,2261,Hampton,1996-01-06,-54.43896473578666,included_game_day
+1996,2261,Hampton,1996-01-08,-48.71933893019366,included_game_day
+1996,2261,Hampton,1996-01-11,-65.6996015337058,included_game_day
+1996,2261,Hampton,1996-01-20,-94.96551132555469,included_game_day
+1996,2261,Hampton,1996-01-24,-101.05942518782891,included_game_day
+1996,2261,Hampton,1996-01-29,-97.4999925757847,included_game_day
+1996,2261,Hampton,1996-02-01,-83.5252552288018,included_game_day
+1996,2261,Hampton,1996-02-07,-66.31046924910879,included_game_day
+1996,2261,Hampton,1996-02-13,-55.79320940174073,included_game_day
+1996,2261,Hampton,1996-02-17,-54.86129848409873,included_game_day
+1996,2261,Hampton,1996-02-21,-34.75684172594582,included_game_day
+1996,2261,Hampton,1996-03-07,-67.3442557523287,included_game_day
+1997,2261,Hampton,1996-11-25,-6.1,included_game_day
+1997,2261,Hampton,1996-12-01,-12.989999999999998,included_game_day
+1997,2261,Hampton,1996-12-04,-25.386,included_game_day
+1997,2261,Hampton,1996-12-10,-34.323679999999996,included_game_day
+1997,2261,Hampton,1996-12-16,-61.579890999999996,included_game_day
+1997,2261,Hampton,1996-12-18,-84.35324511099999,included_game_day
+1997,2261,Hampton,1996-12-21,-91.27158591989999,included_game_day
+1997,2261,Hampton,1996-12-27,-92.70934416290999,included_game_day
+1997,2261,Hampton,1996-12-28,-78.49381191413781,included_game_day
+1997,2261,Hampton,1997-01-02,-81.62419493133663,included_game_day
+1997,2261,Hampton,1997-01-05,-88.9045773190927,included_game_day
+1997,2261,Hampton,1997-01-07,-63.50567305027811,included_game_day
+1997,2261,Hampton,1997-01-11,-68.52905160091674,included_game_day
+1997,2261,Hampton,1997-01-18,-80.51906980696836,included_game_day
+1997,2261,Hampton,1997-01-22,-90.422807908397,included_game_day
+1997,2261,Hampton,1997-01-25,-91.39573221721233,included_game_day
+1997,2261,Hampton,1997-01-27,-99.64531530733473,included_game_day
+1997,2261,Hampton,1997-01-30,-96.3940400569413,included_game_day
+1997,2261,Hampton,1997-02-03,-92.58464865610674,included_game_day
+1997,2261,Hampton,1997-02-05,-104.26211512995476,included_game_day
+1997,2261,Hampton,1997-02-08,-89.43798178966095,included_game_day
+1997,2261,Hampton,1997-02-10,-83.23057245110896,included_game_day
+1997,2261,Hampton,1997-02-13,-82.3652261197583,included_game_day
+1997,2261,Hampton,1997-02-18,-91.77055360177029,included_game_day
+1997,2261,Hampton,1997-02-20,-98.52549139247796,included_game_day
+1997,2261,Hampton,1997-02-26,-93.8689773401875,included_game_day
+1997,2261,Hampton,1997-03-01,-79.48198637937669,included_game_day
+1998,2261,Hampton,1997-11-17,-9.0,included_game_day
+1998,2261,Hampton,1997-11-22,-17.87,included_game_day
+1998,2261,Hampton,1997-11-24,-15.908000000000001,included_game_day
+1998,2261,Hampton,1997-12-01,-25.0961,included_game_day
+1998,2261,Hampton,1997-12-06,-23.9417038,included_game_day
+1998,2261,Hampton,1997-12-11,-37.658230935199995,included_game_day
+1998,2261,Hampton,1997-12-13,-41.49592782568,included_game_day
+1998,2261,Hampton,1997-12-16,-42.973002643096,included_game_day
+1998,2261,Hampton,1997-12-22,-56.2455986312184,included_game_day
+1998,2261,Hampton,1998-01-03,-70.81805117896148,included_game_day
+1998,2261,Hampton,1998-01-05,-78.30155582153868,included_game_day
+1998,2261,Hampton,1998-01-10,-97.95039241049065,included_game_day
+1998,2261,Hampton,1998-01-17,-90.42724423496531,included_game_day
+1998,2261,Hampton,1998-01-19,-92.14799982673853,included_game_day
+1998,2261,Hampton,1998-01-24,-106.42937225937416,included_game_day
+1998,2261,Hampton,1998-01-26,-93.4462248171983,included_game_day
+1998,2261,Hampton,1998-01-31,-94.43251220447519,included_game_day
+1998,2261,Hampton,1998-02-02,-79.18109650889667,included_game_day
+1998,2261,Hampton,1998-02-07,-73.29503470559001,included_game_day
+1998,2261,Hampton,1998-02-14,-71.06344106074926,included_game_day
+1998,2261,Hampton,1998-02-16,-57.311562899611495,included_game_day
+1998,2261,Hampton,1998-02-18,-55.79460000708378,included_game_day
+1998,2261,Hampton,1998-02-21,-60.04669576252758,included_game_day
+1998,2261,Hampton,1998-02-23,-50.581366823744624,included_game_day
+1998,2261,Hampton,1998-02-26,-82.8585569340008,included_game_day
+1998,2261,Hampton,1998-02-28,-65.18368241105529,included_game_day
+1999,2261,Hampton,1998-11-14,-20.0,included_game_day
+1999,2261,Hampton,1998-11-18,-27.2,included_game_day
+1999,2261,Hampton,1998-11-23,-34.2706,included_game_day
+1999,2261,Hampton,1998-11-25,-76.307142,included_game_day
+1999,2261,Hampton,1998-11-28,-95.6951078,included_game_day
+1999,2261,Hampton,1998-12-04,-98.36751702000001,included_game_day
+1999,2261,Hampton,1998-12-07,-90.107656058,included_game_day
+1999,2261,Hampton,1998-12-12,-75.789887803,included_game_day
+1999,2261,Hampton,1998-12-21,-80.85425530251,included_game_day
+1999,2261,Hampton,1998-12-29,-83.5148378194224,included_game_day
+1999,2261,Hampton,1998-12-30,-84.81269506586628,included_game_day
+1999,2261,Hampton,1999-01-04,-74.67893556426495,included_game_day
+1999,2261,Hampton,1999-01-09,-68.17202435492942,included_game_day
+1999,2261,Hampton,1999-01-11,-77.91701931910087,included_game_day
+1999,2261,Hampton,1999-01-16,-87.15854837576782,included_game_day
+1999,2261,Hampton,1999-01-18,-86.74214813295644,included_game_day
+1999,2261,Hampton,1999-01-23,-94.6308921914887,included_game_day
+1999,2261,Hampton,1999-01-25,-101.73733406861534,included_game_day
+1999,2261,Hampton,1999-01-30,-86.96434229204857,included_game_day
+1999,2261,Hampton,1999-02-01,-82.68460798700391,included_game_day
+1999,2261,Hampton,1999-02-08,-48.6455386941396,included_game_day
+1999,2261,Hampton,1999-02-13,-37.72627315059606,included_game_day
+1999,2261,Hampton,1999-02-15,-37.82969622932259,included_game_day
+1999,2261,Hampton,1999-02-20,-53.23983369592038,included_game_day
+1999,2261,Hampton,1999-02-22,-39.966439749703824,included_game_day
+1999,2261,Hampton,1999-02-27,-58.38723192541731,included_game_day
+1999,2261,Hampton,1999-03-04,-60.59790092596245,included_game_day
+2000,2261,Hampton,1999-11-22,-10.0,included_game_day
+2000,2261,Hampton,1999-12-04,-10.341662,included_game_day
+2000,2261,Hampton,1999-12-08,-18.2928906,included_game_day
+2000,2261,Hampton,1999-12-10,-59.601698338,included_game_day
+2000,2261,Hampton,1999-12-20,-63.9393904441,included_game_day
+2000,2261,Hampton,1999-12-22,-49.18349395643,included_game_day
+2000,2261,Hampton,1999-12-28,-61.70157470442537,included_game_day
+2000,2261,Hampton,1999-12-29,-42.797231457115615,included_game_day
+2000,2261,Hampton,2000-01-03,-38.87829284802816,included_game_day
+2000,2261,Hampton,2000-01-05,-39.861846828238846,included_game_day
+2000,2261,Hampton,2000-01-07,-50.711239039480695,included_game_day
+2000,2261,Hampton,2000-01-10,-45.56329660339546,included_game_day
+2000,2261,Hampton,2000-01-15,-40.88004132895466,included_game_day
+2000,2261,Hampton,2000-01-17,-44.113751511301835,included_game_day
+2000,2261,Hampton,2000-01-22,-43.44561653595635,included_game_day
+2000,2261,Hampton,2000-01-24,-48.269179805061164,included_game_day
+2000,2261,Hampton,2000-01-29,-46.376017388693015,included_game_day
+2000,2261,Hampton,2000-01-31,-24.793610660818125,included_game_day
+2000,2261,Hampton,2000-02-05,-17.523534441104818,included_game_day
+2000,2261,Hampton,2000-02-07,-35.2646086059504,included_game_day
+2000,2261,Hampton,2000-02-10,-27.105861299808666,included_game_day
+2000,2261,Hampton,2000-02-14,-40.83735636581011,included_game_day
+2000,2261,Hampton,2000-02-19,-30.021126566865306,included_game_day
+2000,2261,Hampton,2000-02-21,-20.029811085054487,included_game_day
+2000,2261,Hampton,2000-02-25,-1.0497141193176383,included_game_day
+2000,2261,Hampton,2000-03-02,-3.52368913936753,included_game_day
+2000,2261,Hampton,2000-03-04,3.157426162991749,included_game_day
+2000,2261,Hampton,2000-03-09,9.136045108242982,included_game_day
+2000,2261,Hampton,2000-03-10,2.1978915374339607,included_game_day
+2001,2261,Hampton,2000-11-18,9.0,included_game_day
+2001,2261,Hampton,2000-11-20,13.1,included_game_day
+2001,2261,Hampton,2000-11-22,16.86,included_game_day
+2001,2261,Hampton,2000-11-26,10.272,included_game_day
+2001,2261,Hampton,2000-11-29,6.8978,included_game_day
+2001,2261,Hampton,2000-12-04,7.052043999999999,included_game_day
+2001,2261,Hampton,2000-12-06,19.312639599999997,included_game_day
+2001,2261,Hampton,2000-12-18,40.074045176489996,included_game_day
+2001,2261,Hampton,2000-12-20,22.089945211326995,included_game_day
+2001,2261,Hampton,2000-12-29,21.050408369501174,included_game_day
+2001,2261,Hampton,2001-01-06,22.070300525949094,included_game_day
+2001,2261,Hampton,2001-01-08,13.924393855695971,included_game_day
+2001,2261,Hampton,2001-01-13,25.74351240955471,included_game_day
+2001,2261,Hampton,2001-01-15,23.467151790851617,included_game_day
+2001,2261,Hampton,2001-01-20,15.969772971923565,included_game_day
+2001,2261,Hampton,2001-01-22,10.920089134934814,included_game_day
+2001,2261,Hampton,2001-01-27,-1.2874029712218515,included_game_day
+2001,2261,Hampton,2001-01-29,-1.168875806350215,included_game_day
+2001,2261,Hampton,2001-01-31,-0.0767479287252879,included_game_day
+2001,2261,Hampton,2001-02-03,17.955977400456106,included_game_day
+2001,2261,Hampton,2001-02-05,29.036933859933516,included_game_day
+2001,2261,Hampton,2001-02-10,23.422475193473527,included_game_day
+2001,2261,Hampton,2001-02-12,15.10244349308988,included_game_day
+2001,2261,Hampton,2001-02-17,26.550921432724362,included_game_day
+2001,2261,Hampton,2001-02-24,30.931336170427038,included_game_day
+2001,2261,Hampton,2001-02-26,29.011466912783384,included_game_day
+2001,2261,Hampton,2001-03-03,4.15959544934082,included_game_day
+2001,2261,Hampton,2001-03-07,6.429937672568146,included_game_day
+2001,2261,Hampton,2001-03-09,29.81459257042654,included_game_day
+2001,2261,Hampton,2001-03-10,35.70729591632198,included_game_day
+2001,2261,Hampton,2001-03-15,44.67436622698881,included_game_day
+2001,2261,Hampton,2001-03-17,30.17018731689252,included_game_day
+2002,2261,Hampton Pirates,2001-11-16,11.0,included_game_day
+2002,2261,Hampton Pirates,2001-11-19,7.9,included_game_day
+2002,2261,Hampton Pirates,2001-11-23,-9.01,included_game_day
+2002,2261,Hampton Pirates,2001-11-24,2.851000000000001,included_game_day
+2002,2261,Hampton Pirates,2001-12-01,9.728570000000001,included_game_day
+2002,2261,Hampton Pirates,2001-12-03,20.843515000000004,included_game_day
+2002,2261,Hampton Pirates,2001-12-08,42.302395000000004,included_game_day
+2002,2261,Hampton Pirates,2001-12-18,47.98774406526,included_game_day
+2002,2261,Hampton Pirates,2001-12-21,41.349512791964,included_game_day
+2002,2261,Hampton Pirates,2001-12-23,34.0210326379836,included_game_day
+2002,2261,Hampton Pirates,2001-12-29,17.25970339059684,included_game_day
+2002,2261,Hampton Pirates,2001-12-30,2.1628042390031563,included_game_day
+2002,2261,Hampton Pirates,2002-01-05,5.57187785869384,included_game_day
+2002,2261,Hampton Pirates,2002-01-12,8.296810015140633,included_game_day
+2002,2261,Hampton Pirates,2002-01-14,13.891575143616924,included_game_day
+2002,2261,Hampton Pirates,2002-01-19,9.777298577975152,included_game_day
+2002,2261,Hampton Pirates,2002-01-21,25.303690144171252,included_game_day
+2002,2261,Hampton Pirates,2002-01-25,34.56528857626664,included_game_day
+2002,2261,Hampton Pirates,2002-01-28,52.61522825163289,included_game_day
+2002,2261,Hampton Pirates,2002-02-02,47.54756163552648,included_game_day
+2002,2261,Hampton Pirates,2002-02-04,52.458596224040846,included_game_day
+2002,2261,Hampton Pirates,2002-02-06,53.74557889454455,included_game_day
+2002,2261,Hampton Pirates,2002-02-09,58.97822532746688,included_game_day
+2002,2261,Hampton Pirates,2002-02-16,58.183322576069465,included_game_day
+2002,2261,Hampton Pirates,2002-02-18,53.67803703638928,included_game_day
+2002,2261,Hampton Pirates,2002-02-21,53.59103658788946,included_game_day
+2002,2261,Hampton Pirates,2002-02-25,47.12536699304269,included_game_day
+2002,2261,Hampton Pirates,2002-03-02,40.911398866197516,included_game_day
+2002,2261,Hampton Pirates,2002-03-06,43.95478829880654,included_game_day
+2002,2261,Hampton Pirates,2002-03-08,40.88398429401861,included_game_day
+2002,2261,Hampton Pirates,2002-03-09,50.46363611001332,included_game_day
+2002,2261,Hampton Pirates,2002-03-15,50.38232442781256,included_game_day
+2003,2261,Hampton Pirates,2002-11-25,20.4,included_game_day
+2003,2261,Hampton Pirates,2002-11-27,20.66,included_game_day
+2003,2261,Hampton Pirates,2002-12-04,23.34494,included_game_day
+2003,2261,Hampton Pirates,2002-12-07,23.778076,included_game_day
+2003,2261,Hampton Pirates,2002-12-19,20.496062728,included_game_day
+2003,2261,Hampton Pirates,2002-12-28,18.14305027583,included_game_day
+2003,2261,Hampton Pirates,2002-12-30,13.9702579096801,included_game_day
+2003,2261,Hampton Pirates,2003-01-04,17.040309967711657,included_game_day
+2003,2261,Hampton Pirates,2003-01-06,21.16785495893903,included_game_day
+2003,2261,Hampton Pirates,2003-01-08,-16.69612890016826,included_game_day
+2003,2261,Hampton Pirates,2003-01-11,-12.21286071931636,included_game_day
+2003,2261,Hampton Pirates,2003-01-13,-9.474356776334217,included_game_day
+2003,2261,Hampton Pirates,2003-01-18,-4.2681429511654,included_game_day
+2003,2261,Hampton Pirates,2003-01-20,-15.68784545152604,included_game_day
+2003,2261,Hampton Pirates,2003-01-25,-25.272036305062482,included_game_day
+2003,2261,Hampton Pirates,2003-01-27,-29.04908875279789,included_game_day
+2003,2261,Hampton Pirates,2003-02-01,-39.30152100726504,included_game_day
+2003,2261,Hampton Pirates,2003-02-03,-46.33046784258794,included_game_day
+2003,2261,Hampton Pirates,2003-02-08,-39.07920452874656,included_game_day
+2003,2261,Hampton Pirates,2003-02-10,-50.338245694546416,included_game_day
+2003,2261,Hampton Pirates,2003-02-15,-36.57030188070362,included_game_day
+2003,2261,Hampton Pirates,2003-02-18,-18.921579009907482,included_game_day
+2003,2261,Hampton Pirates,2003-02-22,-12.327629919145897,included_game_day
+2003,2261,Hampton Pirates,2003-02-24,-13.743439624180661,included_game_day
+2003,2261,Hampton Pirates,2003-03-01,-21.662372394196893,included_game_day
+2003,2261,Hampton Pirates,2003-03-03,-28.739183386734386,included_game_day
+2003,2261,Hampton Pirates,2003-03-08,-34.89211592698728,included_game_day
+2003,2261,Hampton Pirates,2003-03-13,-39.0390390532504,included_game_day
+2003,2261,Hampton Pirates,2003-03-14,-31.581172309253837,included_game_day
+2003,2261,Hampton Pirates,2003-03-15,-32.70987074468684,included_game_day
+2004,2261,Hampton Pirates,2003-11-22,1.0,included_game_day
+2004,2261,Hampton Pirates,2003-11-23,0.8999999999999999,included_game_day
+2004,2261,Hampton Pirates,2003-11-24,-14.647,included_game_day
+2004,2261,Hampton Pirates,2003-11-29,-32.0813,included_game_day
+2004,2261,Hampton Pirates,2003-12-01,-46.050979999999996,included_game_day
+2004,2261,Hampton Pirates,2003-12-03,-55.428982,included_game_day
+2004,2261,Hampton Pirates,2003-12-05,-50.7470838,included_game_day
+2004,2261,Hampton Pirates,2003-12-06,-54.987745419999996,included_game_day
+2004,2261,Hampton Pirates,2003-12-09,-48.690448778,included_game_day
+2004,2261,Hampton Pirates,2003-12-19,-32.5605236112,included_game_day
+2004,2261,Hampton Pirates,2003-12-23,-45.366491888130994,included_game_day
+2004,2261,Hampton Pirates,2003-12-29,-65.91722429224879,included_game_day
+2004,2261,Hampton Pirates,2004-01-03,-68.00331812653417,included_game_day
+2004,2261,Hampton Pirates,2004-01-05,-57.324136536974486,included_game_day
+2004,2261,Hampton Pirates,2004-01-10,-63.03338461345146,included_game_day
+2004,2261,Hampton Pirates,2004-01-12,-50.181187690965416,included_game_day
+2004,2261,Hampton Pirates,2004-01-19,-49.423126310784454,included_game_day
+2004,2261,Hampton Pirates,2004-01-24,-51.95394432493022,included_game_day
+2004,2261,Hampton Pirates,2004-01-26,-43.742076259651704,included_game_day
+2004,2261,Hampton Pirates,2004-01-31,-42.91713072269694,included_game_day
+2004,2261,Hampton Pirates,2004-02-02,-42.400426362488034,included_game_day
+2004,2261,Hampton Pirates,2004-02-07,-63.0304974315564,included_game_day
+2004,2261,Hampton Pirates,2004-02-09,-39.51806799638821,included_game_day
+2004,2261,Hampton Pirates,2004-02-14,-63.08209152761701,included_game_day
+2004,2261,Hampton Pirates,2004-02-16,-49.87836495404942,included_game_day
+2004,2261,Hampton Pirates,2004-02-23,-46.39036571979372,included_game_day
+2004,2261,Hampton Pirates,2004-02-28,-50.655693368879184,included_game_day
+2004,2261,Hampton Pirates,2004-03-01,-45.23358785297354,included_game_day
+2004,2261,Hampton Pirates,2004-03-06,-50.25764554770794,included_game_day
+2004,2261,Hampton Pirates,2004-03-11,-54.37629626570213,included_game_day
+2005,2261,Hampton Pirates,2004-11-19,-41.0,included_game_day
+2005,2261,Hampton Pirates,2004-11-21,-22.22,included_game_day
+2005,2261,Hampton Pirates,2004-11-27,-37.897999999999996,included_game_day
+2005,2261,Hampton Pirates,2004-12-01,-63.3332,included_game_day
+2005,2261,Hampton Pirates,2004-12-04,-62.623734,included_game_day
+2005,2261,Hampton Pirates,2004-12-06,-60.187168876,included_game_day
+2005,2261,Hampton Pirates,2004-12-08,-38.8268949884,included_game_day
+2005,2261,Hampton Pirates,2004-12-12,-49.70196101716,included_game_day
+2005,2261,Hampton Pirates,2004-12-19,-48.637661166951105,included_game_day
+2005,2261,Hampton Pirates,2004-12-22,-61.887807200265996,included_game_day
+2005,2261,Hampton Pirates,2004-12-23,-65.6381384192534,included_game_day
+2005,2261,Hampton Pirates,2004-12-30,-70.30381901758523,included_game_day
+2005,2261,Hampton Pirates,2005-01-08,-62.02251695218325,included_game_day
+2005,2261,Hampton Pirates,2005-01-10,-50.540493821899716,included_game_day
+2005,2261,Hampton Pirates,2005-01-17,-45.52933712148776,included_game_day
+2005,2261,Hampton Pirates,2005-01-22,-44.90567915824641,included_game_day
+2005,2261,Hampton Pirates,2005-01-24,-7.24998390345413,included_game_day
+2005,2261,Hampton Pirates,2005-01-29,-7.396513469638619,included_game_day
+2005,2261,Hampton Pirates,2005-01-31,6.267595198560492,included_game_day
+2005,2261,Hampton Pirates,2005-02-05,0.4654133959157978,included_game_day
+2005,2261,Hampton Pirates,2005-02-07,7.036384941986054,included_game_day
+2005,2261,Hampton Pirates,2005-02-12,9.625053823679574,included_game_day
+2005,2261,Hampton Pirates,2005-02-14,16.77481805811589,included_game_day
+2005,2261,Hampton Pirates,2005-02-21,10.287252186851916,included_game_day
+2005,2261,Hampton Pirates,2005-02-26,0.3825033667217461,included_game_day
+2005,2261,Hampton Pirates,2005-02-28,-15.411674959387138,included_game_day
+2005,2261,Hampton Pirates,2005-03-04,-15.353360799425655,included_game_day
+2005,2261,Hampton Pirates,2005-03-09,-14.750416075698713,included_game_day
+2005,2261,Hampton Pirates,2005-03-11,-4.952953481110541,included_game_day
+2005,2261,Hampton Pirates,2005-03-12,-2.636884816454309,included_game_day
+2006,2261,Hampton Pirates,2005-11-18,-1.0,included_game_day
+2006,2261,Hampton Pirates,2005-11-22,-12.52,included_game_day
+2006,2261,Hampton Pirates,2005-11-26,-13.6136,included_game_day
+2006,2261,Hampton Pirates,2005-12-03,-30.7399822,included_game_day
+2006,2261,Hampton Pirates,2005-12-06,-25.83736378,included_game_day
+2006,2261,Hampton Pirates,2005-12-18,-42.310323829,included_game_day
+2006,2261,Hampton Pirates,2005-12-21,-40.4535187233,included_game_day
+2006,2261,Hampton Pirates,2005-12-30,-76.36316698982833,included_game_day
+2006,2261,Hampton Pirates,2006-01-04,-54.65885313730766,included_game_day
+2006,2261,Hampton Pirates,2006-01-07,-53.02426085880046,included_game_day
+2006,2261,Hampton Pirates,2006-01-09,-41.61601535346836,included_game_day
+2006,2261,Hampton Pirates,2006-01-14,-24.736472476483975,included_game_day
+2006,2261,Hampton Pirates,2006-01-16,-30.839602272668444,included_game_day
+2006,2261,Hampton Pirates,2006-01-21,-37.50605536578998,included_game_day
+2006,2261,Hampton Pirates,2006-01-23,-17.581389472614145,included_game_day
+2006,2261,Hampton Pirates,2006-01-28,-15.802769162324395,included_game_day
+2006,2261,Hampton Pirates,2006-01-30,-15.621022886509518,included_game_day
+2006,2261,Hampton Pirates,2006-02-04,-11.109196837393014,included_game_day
+2006,2261,Hampton Pirates,2006-02-06,-6.2170794835026655,included_game_day
+2006,2261,Hampton Pirates,2006-02-11,2.7394942932007282,included_game_day
+2006,2261,Hampton Pirates,2006-02-13,-10.840214936940002,included_game_day
+2006,2261,Hampton Pirates,2006-02-16,-16.854042453824743,included_game_day
+2006,2261,Hampton Pirates,2006-02-18,-26.626618870881728,included_game_day
+2006,2261,Hampton Pirates,2006-02-20,-42.030987330957416,included_game_day
+2006,2261,Hampton Pirates,2006-02-24,-34.99784929175488,included_game_day
+2006,2261,Hampton Pirates,2006-02-27,-45.0524317536079,included_game_day
+2006,2261,Hampton Pirates,2006-03-01,-62.454395732519245,included_game_day
+2006,2261,Hampton Pirates,2006-03-08,-64.12498500175339,included_game_day
+2006,2261,Hampton Pirates,2006-03-09,-61.56667763136503,included_game_day
+2006,2261,Hampton Pirates,2006-03-10,-47.847159454483815,included_game_day
+2006,2261,Hampton Pirates,2006-03-11,-38.120244554709245,included_game_day
+2006,2261,Hampton Pirates,2006-03-14,-51.05836431554842,included_game_day
+2007,2261,Hampton Pirates,2006-11-07,-24.0,included_game_day
+2007,2261,Hampton Pirates,2006-11-08,-19.6,included_game_day
+2007,2261,Hampton Pirates,2006-11-15,-29.82,included_game_day
+2007,2261,Hampton Pirates,2006-11-18,-39.077,included_game_day
+2007,2261,Hampton Pirates,2006-11-21,-47.2713,included_game_day
+2007,2261,Hampton Pirates,2006-11-25,-60.795392899999996,included_game_day
+2007,2261,Hampton Pirates,2006-11-28,-60.22785361,included_game_day
+2007,2261,Hampton Pirates,2006-11-30,-50.053853649,included_game_day
+2007,2261,Hampton Pirates,2006-12-02,-55.4948332841,included_game_day
+2007,2261,Hampton Pirates,2006-12-16,-63.23996323769,included_game_day
+2007,2261,Hampton Pirates,2006-12-20,-46.471279172121314,included_game_day
+2007,2261,Hampton Pirates,2006-12-28,-44.439286167193785,included_game_day
+2007,2261,Hampton Pirates,2007-01-06,-47.5958943546305,included_game_day
+2007,2261,Hampton Pirates,2007-01-08,-43.72854644609325,included_game_day
+2007,2261,Hampton Pirates,2007-01-13,-57.01563941094796,included_game_day
+2007,2261,Hampton Pirates,2007-01-15,-57.69398229392186,included_game_day
+2007,2261,Hampton Pirates,2007-01-20,-62.40621113542929,included_game_day
+2007,2261,Hampton Pirates,2007-01-22,-43.22112821483517,included_game_day
+2007,2261,Hampton Pirates,2007-01-27,-54.27962156566019,included_game_day
+2007,2261,Hampton Pirates,2007-01-29,-43.790686665559434,included_game_day
+2007,2261,Hampton Pirates,2007-02-03,-35.696784742154634,included_game_day
+2007,2261,Hampton Pirates,2007-02-05,-38.61641400384015,included_game_day
+2007,2261,Hampton Pirates,2007-02-10,-33.011773609841185,included_game_day
+2007,2261,Hampton Pirates,2007-02-12,-21.020585714675583,included_game_day
+2007,2261,Hampton Pirates,2007-02-17,-32.32561931265269,included_game_day
+2007,2261,Hampton Pirates,2007-02-21,-28.321635423309946,included_game_day
+2007,2261,Hampton Pirates,2007-02-24,-36.34272543004144,included_game_day
+2007,2261,Hampton Pirates,2007-02-26,-44.944202426076316,included_game_day
+2007,2261,Hampton Pirates,2007-02-28,-48.866407073154384,included_game_day
+2007,2261,Hampton Pirates,2007-03-06,-45.74965414919352,included_game_day
+2007,2261,Hampton Pirates,2007-03-07,-45.019532667266816,included_game_day
+2008,2261,Hampton Pirates,2007-11-11,17.0,included_game_day
+2008,2261,Hampton Pirates,2007-11-12,12.2,included_game_day
+2008,2261,Hampton Pirates,2007-11-15,8.18,included_game_day
+2008,2261,Hampton Pirates,2007-11-17,-1.2680000000000007,included_game_day
+2008,2261,Hampton Pirates,2007-11-27,1.9587999999999992,included_game_day
+2008,2261,Hampton Pirates,2007-11-29,9.68891,included_game_day
+2008,2261,Hampton Pirates,2007-12-01,39.1018627,included_game_day
+2008,2261,Hampton Pirates,2007-12-05,40.9500557717,included_game_day
+2008,2261,Hampton Pirates,2007-12-15,39.760627319554004,included_game_day
+2008,2261,Hampton Pirates,2007-12-19,31.362823951102605,included_game_day
+2008,2261,Hampton Pirates,2007-12-22,14.995274097586805,included_game_day
+2008,2261,Hampton Pirates,2007-12-29,14.693736275276123,included_game_day
+2008,2261,Hampton Pirates,2008-01-12,14.185584291425627,included_game_day
+2008,2261,Hampton Pirates,2008-01-14,3.7323164229361723,included_game_day
+2008,2261,Hampton Pirates,2008-01-21,0.59619698149295,included_game_day
+2008,2261,Hampton Pirates,2008-01-26,-15.161827193715881,included_game_day
+2008,2261,Hampton Pirates,2008-01-28,-23.586618106003595,included_game_day
+2008,2261,Hampton Pirates,2008-02-02,-17.946067519643,included_game_day
+2008,2261,Hampton Pirates,2008-02-04,-5.000665525649888,included_game_day
+2008,2261,Hampton Pirates,2008-02-09,-17.31294918172366,included_game_day
+2008,2261,Hampton Pirates,2008-02-11,-37.543307048595906,included_game_day
+2008,2261,Hampton Pirates,2008-02-16,-47.447010890084,included_game_day
+2008,2261,Hampton Pirates,2008-02-18,-54.62360305672142,included_game_day
+2008,2261,Hampton Pirates,2008-02-23,-73.82213341125669,included_game_day
+2008,2261,Hampton Pirates,2008-02-25,-68.62142813430327,included_game_day
+2008,2261,Hampton Pirates,2008-03-01,-56.551773257697114,included_game_day
+2008,2261,Hampton Pirates,2008-03-03,-48.88230831581125,included_game_day
+2008,2261,Hampton Pirates,2008-03-06,-50.768791828050766,included_game_day
+2008,2261,Hampton Pirates,2008-03-12,-53.620818286145045,included_game_day
+2009,2261,Hampton Pirates,2008-11-14,-10.0,included_game_day
+2009,2261,Hampton Pirates,2008-11-20,-2.2299999999999995,included_game_day
+2009,2261,Hampton Pirates,2008-11-22,-8.056999999999999,included_game_day
+2009,2261,Hampton Pirates,2008-11-28,1.4782400000000013,included_game_day
+2009,2261,Hampton Pirates,2008-11-30,-24.868085999999998,included_game_day
+2009,2261,Hampton Pirates,2008-12-03,-12.286020999999998,included_game_day
+2009,2261,Hampton Pirates,2008-12-06,-16.083249479999996,included_game_day
+2009,2261,Hampton Pirates,2008-12-09,-29.172136552299996,included_game_day
+2009,2261,Hampton Pirates,2008-12-23,-48.01280630255101,included_game_day
+2009,2261,Hampton Pirates,2008-12-27,-40.00530194875909,included_game_day
+2009,2261,Hampton Pirates,2008-12-30,-40.61814807897121,included_game_day
+2009,2261,Hampton Pirates,2009-01-03,-66.7100828374944,included_game_day
+2009,2261,Hampton Pirates,2009-01-10,-57.24121034417902,included_game_day
+2009,2261,Hampton Pirates,2009-01-12,-60.70918028875718,included_game_day
+2009,2261,Hampton Pirates,2009-01-17,-48.685935547657536,included_game_day
+2009,2261,Hampton Pirates,2009-01-18,-43.77297108902421,included_game_day
+2009,2261,Hampton Pirates,2009-01-24,-45.460278149224415,included_game_day
+2009,2261,Hampton Pirates,2009-01-26,-30.992204355821364,included_game_day
+2009,2261,Hampton Pirates,2009-01-31,-42.01160608180628,included_game_day
+2009,2261,Hampton Pirates,2009-02-02,-51.01184918995285,included_game_day
+2009,2261,Hampton Pirates,2009-02-07,-67.70013409293674,included_game_day
+2009,2261,Hampton Pirates,2009-02-09,-63.98211334200709,included_game_day
+2009,2261,Hampton Pirates,2009-02-14,-62.24388658085293,included_game_day
+2009,2261,Hampton Pirates,2009-02-16,-47.04073176643692,included_game_day
+2009,2261,Hampton Pirates,2009-02-21,-75.78679471064103,included_game_day
+2009,2261,Hampton Pirates,2009-02-23,-66.21207582487621,included_game_day
+2009,2261,Hampton Pirates,2009-02-28,-87.67315621033141,included_game_day
+2009,2261,Hampton Pirates,2009-03-02,-80.63909203260032,included_game_day
+2009,2261,Hampton Pirates,2009-03-05,-73.70918249535708,included_game_day
+2009,2261,Hampton Pirates,2009-03-10,-54.95378112739472,included_game_day
+2009,2261,Hampton Pirates,2009-03-11,-53.36670196185115,included_game_day
+2010,2261,Hampton Pirates,2009-11-14,0.0,included_game_day
+2010,2261,Hampton Pirates,2009-11-17,-7.4,included_game_day
+2010,2261,Hampton Pirates,2009-11-23,-18.76425,included_game_day
+2010,2261,Hampton Pirates,2009-11-25,-13.486425,included_game_day
+2010,2261,Hampton Pirates,2009-11-27,-24.278682500000002,included_game_day
+2010,2261,Hampton Pirates,2009-11-28,-7.965661250000004,included_game_day
+2010,2261,Hampton Pirates,2009-11-29,-6.827603250000004,included_game_day
+2010,2261,Hampton Pirates,2009-12-02,-16.069945345000004,included_game_day
+2010,2261,Hampton Pirates,2009-12-05,-28.092870675500002,included_game_day
+2010,2261,Hampton Pirates,2009-12-09,-31.95695994495,included_game_day
+2010,2261,Hampton Pirates,2009-12-20,-37.9389497198794,included_game_day
+2010,2261,Hampton Pirates,2009-12-23,-52.08123702370743,included_game_day
+2010,2261,Hampton Pirates,2010-01-03,-33.3567985908091,included_game_day
+2010,2261,Hampton Pirates,2010-01-09,-38.008744009823666,included_game_day
+2010,2261,Hampton Pirates,2010-01-11,-44.67637119504404,included_game_day
+2010,2261,Hampton Pirates,2010-01-16,-62.67186670505127,included_game_day
+2010,2261,Hampton Pirates,2010-01-18,-51.394068077047564,included_game_day
+2010,2261,Hampton Pirates,2010-01-23,-61.19666180351051,included_game_day
+2010,2261,Hampton Pirates,2010-01-25,-57.27244382656757,included_game_day
+2010,2261,Hampton Pirates,2010-01-30,-54.462214771015205,included_game_day
+2010,2261,Hampton Pirates,2010-02-01,-44.49091503079522,included_game_day
+2010,2261,Hampton Pirates,2010-02-06,-51.15111002128346,included_game_day
+2010,2261,Hampton Pirates,2010-02-08,-53.3585177600728,included_game_day
+2010,2261,Hampton Pirates,2010-02-13,-65.00939686089326,included_game_day
+2010,2261,Hampton Pirates,2010-02-15,-74.89794985480015,included_game_day
+2010,2261,Hampton Pirates,2010-02-20,-43.49228565412872,included_game_day
+2010,2261,Hampton Pirates,2010-02-22,-39.85908069794837,included_game_day
+2010,2261,Hampton Pirates,2010-02-27,-23.85068003843909,included_game_day
+2010,2261,Hampton Pirates,2010-03-01,-18.825374294551686,included_game_day
+2010,2261,Hampton Pirates,2010-03-04,14.838302633910125,included_game_day
+2010,2261,Hampton Pirates,2010-03-11,14.051620183477109,included_game_day
+2010,2261,Hampton Pirates,2010-03-12,9.141778703421622,included_game_day
+2011,2261,Hampton Pirates,2010-11-15,-5.3,included_game_day
+2011,2261,Hampton Pirates,2010-11-16,-4.95,included_game_day
+2011,2261,Hampton Pirates,2010-11-19,9.245000000000001,included_game_day
+2011,2261,Hampton Pirates,2010-11-22,10.6605,included_game_day
+2011,2261,Hampton Pirates,2010-11-23,24.27155,included_game_day
+2011,2261,Hampton Pirates,2010-11-28,28.108495,included_game_day
+2011,2261,Hampton Pirates,2010-11-30,25.6679396,included_game_day
+2011,2261,Hampton Pirates,2010-12-04,25.9466764966,included_game_day
+2011,2261,Hampton Pirates,2010-12-08,19.48810147594,included_game_day
+2011,2261,Hampton Pirates,2010-12-20,23.189331635555998,included_game_day
+2011,2261,Hampton Pirates,2010-12-22,16.25038117741264,included_game_day
+2011,2261,Hampton Pirates,2010-12-30,3.1149895651397017,included_game_day
+2011,2261,Hampton Pirates,2011-01-01,9.364271771812785,included_game_day
+2011,2261,Hampton Pirates,2011-01-08,14.54152451237479,included_game_day
+2011,2261,Hampton Pirates,2011-01-10,5.679546739810441,included_game_day
+2011,2261,Hampton Pirates,2011-01-15,0.14899636561166751,included_game_day
+2011,2261,Hampton Pirates,2011-01-17,-5.1344104161513435,included_game_day
+2011,2261,Hampton Pirates,2011-01-22,5.005725910237736,included_game_day
+2011,2261,Hampton Pirates,2011-01-24,-8.002769067759148,included_game_day
+2011,2261,Hampton Pirates,2011-01-29,-11.422209870832283,included_game_day
+2011,2261,Hampton Pirates,2011-01-31,-15.352336019442033,included_game_day
+2011,2261,Hampton Pirates,2011-02-05,-17.417747118775516,included_game_day
+2011,2261,Hampton Pirates,2011-02-12,-4.899741640136659,included_game_day
+2011,2261,Hampton Pirates,2011-02-14,-18.807061378784148,included_game_day
+2011,2261,Hampton Pirates,2011-02-19,-26.391026615696557,included_game_day
+2011,2261,Hampton Pirates,2011-02-21,-42.03079826737761,included_game_day
+2011,2261,Hampton Pirates,2011-02-26,-36.95065533696099,included_game_day
+2011,2261,Hampton Pirates,2011-03-03,-33.061981183386365,included_game_day
+2011,2261,Hampton Pirates,2011-03-09,-19.922180954530365,included_game_day
+2011,2261,Hampton Pirates,2011-03-11,0.6858639480757631,included_game_day
+2011,2261,Hampton Pirates,2011-03-12,2.555958879271863,included_game_day
+2011,2261,Hampton Pirates,2011-03-18,-20.06056794638781,included_game_day
+2012,2261,Hampton Pirates,2011-11-12,10.8,included_game_day
+2012,2261,Hampton Pirates,2011-11-17,-8.649999999999999,included_game_day
+2012,2261,Hampton Pirates,2011-11-20,-18.017,included_game_day
+2012,2261,Hampton Pirates,2011-11-22,-24.616999999999997,included_game_day
+2012,2261,Hampton Pirates,2011-11-23,-22.358579999999996,included_game_day
+2012,2261,Hampton Pirates,2011-11-29,-20.048941999999997,included_game_day
+2012,2261,Hampton Pirates,2011-12-01,-41.0327012,included_game_day
+2012,2261,Hampton Pirates,2011-12-04,-21.31572426,included_game_day
+2012,2261,Hampton Pirates,2011-12-05,-20.308128458,included_game_day
+2012,2261,Hampton Pirates,2011-12-07,-15.343398253399998,included_game_day
+2012,2261,Hampton Pirates,2011-12-17,-26.14612183036,included_game_day
+2012,2261,Hampton Pirates,2011-12-20,-27.19873457754916,included_game_day
+2012,2261,Hampton Pirates,2011-12-29,-30.23528565646672,included_game_day
+2012,2261,Hampton Pirates,2011-12-30,-36.31234342654028,included_game_day
+2012,2261,Hampton Pirates,2012-01-07,-45.83192427248864,included_game_day
+2012,2261,Hampton Pirates,2012-01-09,-50.77745725043711,included_game_day
+2012,2261,Hampton Pirates,2012-01-14,-63.81642146076211,included_game_day
+2012,2261,Hampton Pirates,2012-01-16,-70.34745171667063,included_game_day
+2012,2261,Hampton Pirates,2012-01-21,-70.18564446920574,included_game_day
+2012,2261,Hampton Pirates,2012-01-24,-71.01849221700292,included_game_day
+2012,2261,Hampton Pirates,2012-01-28,-72.58709783016266,included_game_day
+2012,2261,Hampton Pirates,2012-01-30,-68.08758280638607,included_game_day
+2012,2261,Hampton Pirates,2012-02-06,-69.03842962129877,included_game_day
+2012,2261,Hampton Pirates,2012-02-11,-68.92278839544288,included_game_day
+2012,2261,Hampton Pirates,2012-02-15,-55.59266361316041,included_game_day
+2012,2261,Hampton Pirates,2012-02-18,-47.45208553246039,included_game_day
+2012,2261,Hampton Pirates,2012-02-20,-52.84075393471002,included_game_day
+2012,2261,Hampton Pirates,2012-02-25,-40.3257220297284,included_game_day
+2012,2261,Hampton Pirates,2012-02-27,-49.56450467991351,included_game_day
+2012,2261,Hampton Pirates,2012-03-01,-65.57310200383407,included_game_day
+2012,2261,Hampton Pirates,2012-03-06,-60.13119081189342,included_game_day
+2012,2261,Hampton Pirates,2012-03-07,-37.17925827923737,included_game_day
+2012,2261,Hampton Pirates,2012-03-09,-47.0849138062907,included_game_day
+2013,2261,Hampton Pirates,2012-11-09,-15.0,included_game_day
+2013,2261,Hampton Pirates,2012-11-15,-12.933,included_game_day
+2013,2261,Hampton Pirates,2012-11-20,-9.770430000000001,included_game_day
+2013,2261,Hampton Pirates,2012-11-23,-15.656893,included_game_day
+2013,2261,Hampton Pirates,2012-11-25,-18.26587967,included_game_day
+2013,2261,Hampton Pirates,2012-11-28,-21.897231703000003,included_game_day
+2013,2261,Hampton Pirates,2012-12-01,-19.8291957327,included_game_day
+2013,2261,Hampton Pirates,2012-12-08,-32.49966998883,included_game_day
+2013,2261,Hampton Pirates,2012-12-18,-29.93097005555643,included_game_day
+2013,2261,Hampton Pirates,2012-12-20,-35.79625268863079,included_game_day
+2013,2261,Hampton Pirates,2012-12-30,-38.363028140025236,included_game_day
+2013,2261,Hampton Pirates,2013-01-02,-52.749033768773,included_game_day
+2013,2261,Hampton Pirates,2013-01-07,-47.746853147932406,included_game_day
+2013,2261,Hampton Pirates,2013-01-12,-45.492305765871336,included_game_day
+2013,2261,Hampton Pirates,2013-01-14,-42.3761861984612,included_game_day
+2013,2261,Hampton Pirates,2013-01-19,-47.47359249082774,included_game_day
+2013,2261,Hampton Pirates,2013-01-21,-55.146380534825774,included_game_day
+2013,2261,Hampton Pirates,2013-01-26,-56.771270967927045,included_game_day
+2013,2261,Hampton Pirates,2013-01-30,-60.17802679492297,included_game_day
+2013,2261,Hampton Pirates,2013-02-02,-51.631756639556244,included_game_day
+2013,2261,Hampton Pirates,2013-02-04,-43.91138528345997,included_game_day
+2013,2261,Hampton Pirates,2013-02-07,-36.12034083453782,included_game_day
+2013,2261,Hampton Pirates,2013-02-11,-39.89173277420723,included_game_day
+2013,2261,Hampton Pirates,2013-02-18,-41.47835632625735,included_game_day
+2013,2261,Hampton Pirates,2013-02-20,-46.76264945749408,included_game_day
+2013,2261,Hampton Pirates,2013-02-23,-60.31068244161487,included_game_day
+2013,2261,Hampton Pirates,2013-02-25,-48.53266229875669,included_game_day
+2013,2261,Hampton Pirates,2013-03-02,-48.374570356051876,included_game_day
+2013,2261,Hampton Pirates,2013-03-04,-41.73569797369195,included_game_day
+2013,2261,Hampton Pirates,2013-03-07,-44.04622678323482,included_game_day
+2013,2261,Hampton Pirates,2013-03-14,-48.93952468404141,included_game_day
+2014,2261,Hampton Pirates,2013-11-08,5.0,included_game_day
+2014,2261,Hampton Pirates,2013-11-12,12.1,included_game_day
+2014,2261,Hampton Pirates,2013-11-17,-3.5200000000000014,included_game_day
+2014,2261,Hampton Pirates,2013-11-20,-2.2840000000000007,included_game_day
+2014,2261,Hampton Pirates,2013-11-24,-9.9326,included_game_day
+2014,2261,Hampton Pirates,2013-11-26,-29.7360361,included_game_day
+2014,2261,Hampton Pirates,2013-11-29,-47.629452900000004,included_game_day
+2014,2261,Hampton Pirates,2013-11-30,-43.78689501,included_game_day
+2014,2261,Hampton Pirates,2013-12-07,-35.561081763000004,included_game_day
+2014,2261,Hampton Pirates,2013-12-09,-9.736594293028006,included_game_day
+2014,2261,Hampton Pirates,2013-12-18,-13.859681098474205,included_game_day
+2014,2261,Hampton Pirates,2013-12-21,-23.01715769778042,included_game_day
+2014,2261,Hampton Pirates,2013-12-29,-19.57314455390897,included_game_day
+2014,2261,Hampton Pirates,2014-01-04,5.998282927797476,included_game_day
+2014,2261,Hampton Pirates,2014-01-07,-3.4534425545449956,included_game_day
+2014,2261,Hampton Pirates,2014-01-11,5.770620921126264,included_game_day
+2014,2261,Hampton Pirates,2014-01-18,-10.067116326954723,included_game_day
+2014,2261,Hampton Pirates,2014-01-20,-22.74746075891585,included_game_day
+2014,2261,Hampton Pirates,2014-01-25,-13.584871257826167,included_game_day
+2014,2261,Hampton Pirates,2014-01-27,-6.672594627634353,included_game_day
+2014,2261,Hampton Pirates,2014-02-01,-7.22722043192498,included_game_day
+2014,2261,Hampton Pirates,2014-02-03,-5.684376280487907,included_game_day
+2014,2261,Hampton Pirates,2014-02-08,-0.9283212444019213,included_game_day
+2014,2261,Hampton Pirates,2014-02-10,-11.343821358004355,included_game_day
+2014,2261,Hampton Pirates,2014-02-15,-3.019136073849424,included_game_day
+2014,2261,Hampton Pirates,2014-02-22,-8.975260850754394,included_game_day
+2014,2261,Hampton Pirates,2014-02-24,-2.6778548885827025,included_game_day
+2014,2261,Hampton Pirates,2014-03-01,0.15068387948882744,included_game_day
+2014,2261,Hampton Pirates,2014-03-06,1.6799447183797476,included_game_day
+2014,2261,Hampton Pirates,2014-03-12,-12.080599015842985,included_game_day
+2014,2261,Hampton Pirates,2014-03-19,-6.373322519879604,included_game_day
+2015,2261,Hampton Pirates,2014-11-14,-31.0,included_game_day
+2015,2261,Hampton Pirates,2014-11-16,-38.5,included_game_day
+2015,2261,Hampton Pirates,2014-11-21,-27.02,included_game_day
+2015,2261,Hampton Pirates,2014-11-22,-33.8215,included_game_day
+2015,2261,Hampton Pirates,2014-11-24,-38.31335,included_game_day
+2015,2261,Hampton Pirates,2014-11-26,-40.860415,included_game_day
+2015,2261,Hampton Pirates,2014-12-02,-32.70912750000001,included_game_day
+2015,2261,Hampton Pirates,2014-12-06,-24.471323750000007,included_game_day
+2015,2261,Hampton Pirates,2014-12-08,-27.37913808700001,included_game_day
+2015,2261,Hampton Pirates,2014-12-17,-31.37630358425501,included_game_day
+2015,2261,Hampton Pirates,2014-12-19,-26.493184832430508,included_game_day
+2015,2261,Hampton Pirates,2014-12-21,-21.341524293066556,included_game_day
+2015,2261,Hampton Pirates,2014-12-29,-51.1009521558079,included_game_day
+2015,2261,Hampton Pirates,2015-01-03,-54.55416088119982,included_game_day
+2015,2261,Hampton Pirates,2015-01-10,-51.85546445179835,included_game_day
+2015,2261,Hampton Pirates,2015-01-12,-47.75647264972555,included_game_day
+2015,2261,Hampton Pirates,2015-01-17,-57.759114909629425,included_game_day
+2015,2261,Hampton Pirates,2015-01-19,-58.05589666905166,included_game_day
+2015,2261,Hampton Pirates,2015-01-24,-64.86264552431078,included_game_day
+2015,2261,Hampton Pirates,2015-01-26,-75.18735857784841,included_game_day
+2015,2261,Hampton Pirates,2015-01-31,-66.14682100585135,included_game_day
+2015,2261,Hampton Pirates,2015-02-02,-74.23120465136694,included_game_day
+2015,2261,Hampton Pirates,2015-02-07,-68.8464035862506,included_game_day
+2015,2261,Hampton Pirates,2015-02-09,-64.58567039160452,included_game_day
+2015,2261,Hampton Pirates,2015-02-16,-37.314338028766265,included_game_day
+2015,2261,Hampton Pirates,2015-02-21,-45.83308687950525,included_game_day
+2015,2261,Hampton Pirates,2015-02-28,-40.41334858525085,included_game_day
+2015,2261,Hampton Pirates,2015-03-02,-49.262029269034585,included_game_day
+2015,2261,Hampton Pirates,2015-03-05,-59.78607366474708,included_game_day
+2015,2261,Hampton Pirates,2015-03-09,-47.2323792448032,included_game_day
+2015,2261,Hampton Pirates,2015-03-12,-38.09841832687896,included_game_day
+2015,2261,Hampton Pirates,2015-03-13,-23.449032275759716,included_game_day
+2015,2261,Hampton Pirates,2015-03-14,-2.002369348080183,included_game_day
+2015,2261,Hampton Pirates,2015-03-17,13.576607834238361,included_game_day
+2015,2261,Hampton Pirates,2015-03-19,12.068324383393227,included_game_day
+2016,2261,Hampton Pirates,2015-11-14,-4.0,included_game_day
+2016,2261,Hampton Pirates,2015-11-17,10.4,included_game_day
+2016,2261,Hampton Pirates,2015-11-25,-3.208,included_game_day
+2016,2261,Hampton Pirates,2015-11-30,-6.187150000000001,included_game_day
+2016,2261,Hampton Pirates,2015-12-02,-4.866795000000001,included_game_day
+2016,2261,Hampton Pirates,2015-12-05,-3.431420300000001,included_game_day
+2016,2261,Hampton Pirates,2015-12-17,-19.65810186966192,included_game_day
+2016,2261,Hampton Pirates,2015-12-19,-52.12062930686446,included_game_day
+2016,2261,Hampton Pirates,2015-12-22,-61.47508519649657,included_game_day
+2016,2261,Hampton Pirates,2015-12-23,-46.67355890804092,included_game_day
+2016,2261,Hampton Pirates,2016-01-03,-71.89306107974899,included_game_day
+2016,2261,Hampton Pirates,2016-01-06,-68.31233674746198,included_game_day
+2016,2261,Hampton Pirates,2016-01-09,-69.29505477433577,included_game_day
+2016,2261,Hampton Pirates,2016-01-11,-71.37887732144175,included_game_day
+2016,2261,Hampton Pirates,2016-01-16,-53.170904457812355,included_game_day
+2016,2261,Hampton Pirates,2016-01-18,-49.81146610497156,included_game_day
+2016,2261,Hampton Pirates,2016-01-23,-35.32826184633157,included_game_day
+2016,2261,Hampton Pirates,2016-01-25,-45.16174861361029,included_game_day
+2016,2261,Hampton Pirates,2016-01-30,-35.02298621402827,included_game_day
+2016,2261,Hampton Pirates,2016-02-06,-39.26210308164218,included_game_day
+2016,2261,Hampton Pirates,2016-02-08,-40.399122132856405,included_game_day
+2016,2261,Hampton Pirates,2016-02-15,-38.0775242557558,included_game_day
+2016,2261,Hampton Pirates,2016-02-22,-34.621333857952735,included_game_day
+2016,2261,Hampton Pirates,2016-02-27,-46.48874129107526,included_game_day
+2016,2261,Hampton Pirates,2016-02-29,-44.81462392913235,included_game_day
+2016,2261,Hampton Pirates,2016-03-03,-61.859894931988215,included_game_day
+2016,2261,Hampton Pirates,2016-03-09,-60.30501935114853,included_game_day
+2016,2261,Hampton Pirates,2016-03-11,-27.826534505910885,included_game_day
+2016,2261,Hampton Pirates,2016-03-12,-17.243345832751785,included_game_day
+2016,2261,Hampton Pirates,2016-03-17,-33.82449116075838,included_game_day
+2017,2261,Hampton Pirates,2016-11-11,-14.0,included_game_day
+2017,2261,Hampton Pirates,2016-11-20,-28.346,included_game_day
+2017,2261,Hampton Pirates,2016-11-22,-35.411500000000004,included_game_day
+2017,2261,Hampton Pirates,2016-11-25,-50.460300000000004,included_game_day
+2017,2261,Hampton Pirates,2016-11-26,-59.469480000000004,included_game_day
+2017,2261,Hampton Pirates,2016-11-29,-66.76660600000001,included_game_day
+2017,2261,Hampton Pirates,2016-12-03,-54.38678922000001,included_game_day
+2017,2261,Hampton Pirates,2016-12-07,-54.00465795800001,included_game_day
+2017,2261,Hampton Pirates,2016-12-17,-59.47521911220001,included_game_day
+2017,2261,Hampton Pirates,2016-12-21,-77.4127432520454,included_game_day
+2017,2261,Hampton Pirates,2016-12-28,-93.96416230735262,included_game_day
+2017,2261,Hampton Pirates,2017-01-04,-81.00829408907292,included_game_day
+2017,2261,Hampton Pirates,2017-01-09,-85.86474850033842,included_game_day
+2017,2261,Hampton Pirates,2017-01-14,-76.42212983320813,included_game_day
+2017,2261,Hampton Pirates,2017-01-16,-82.45938488180593,included_game_day
+2017,2261,Hampton Pirates,2017-01-21,-97.61168349498836,included_game_day
+2017,2261,Hampton Pirates,2017-01-25,-105.16460440856979,included_game_day
+2017,2261,Hampton Pirates,2017-01-30,-101.06931151212785,included_game_day
+2017,2261,Hampton Pirates,2017-02-01,-100.89963938408177,included_game_day
+2017,2261,Hampton Pirates,2017-02-04,-93.210249877471,included_game_day
+2017,2261,Hampton Pirates,2017-02-06,-64.12243672144035,included_game_day
+2017,2261,Hampton Pirates,2017-02-11,-62.185091139983776,included_game_day
+2017,2261,Hampton Pirates,2017-02-18,-67.90280649020056,included_game_day
+2017,2261,Hampton Pirates,2017-02-20,-63.91911026044746,included_game_day
+2017,2261,Hampton Pirates,2017-02-25,-69.99188281281727,included_game_day
+2017,2261,Hampton Pirates,2017-02-27,-68.90708100305619,included_game_day
+2017,2261,Hampton Pirates,2017-03-02,-65.64431319010245,included_game_day
+2017,2261,Hampton Pirates,2017-03-09,-71.21680311156402,included_game_day
+2017,2261,Hampton Pirates,2017-03-15,-79.3134438842192,included_game_day
+2018,2261,Hampton Pirates,2017-11-10,-12.0,included_game_day
+2018,2261,Hampton Pirates,2017-11-15,-17.9,included_game_day
+2018,2261,Hampton Pirates,2017-11-18,-22.27,included_game_day
+2018,2261,Hampton Pirates,2017-11-20,-45.071,included_game_day
+2018,2261,Hampton Pirates,2017-11-23,-36.945,included_game_day
+2018,2261,Hampton Pirates,2017-11-24,-44.11265,included_game_day
+2018,2261,Hampton Pirates,2017-12-06,-48.2082069451,included_game_day
+2018,2261,Hampton Pirates,2017-12-08,-47.48259227079,included_game_day
+2018,2261,Hampton Pirates,2017-12-17,-53.936814848759,included_game_day
+2018,2261,Hampton Pirates,2017-12-20,-19.178896721865698,included_game_day
+2018,2261,Hampton Pirates,2017-12-22,-36.381461948051125,included_game_day
+2018,2261,Hampton Pirates,2017-12-30,-44.98143298900618,included_game_day
+2018,2261,Hampton Pirates,2018-01-06,-62.994668784370546,included_game_day
+2018,2261,Hampton Pirates,2018-01-12,-54.42518603661701,included_game_day
+2018,2261,Hampton Pirates,2018-01-20,-60.31714295782294,included_game_day
+2018,2261,Hampton Pirates,2018-01-22,-59.431444117787926,included_game_day
+2018,2261,Hampton Pirates,2018-01-27,-75.57173330018954,included_game_day
+2018,2261,Hampton Pirates,2018-01-29,-66.3622481007753,included_game_day
+2018,2261,Hampton Pirates,2018-01-31,-66.90833939058462,included_game_day
+2018,2261,Hampton Pirates,2018-02-03,-70.74267376323847,included_game_day
+2018,2261,Hampton Pirates,2018-02-05,-50.64505686648353,included_game_day
+2018,2261,Hampton Pirates,2018-02-08,-41.63636865404443,included_game_day
+2018,2261,Hampton Pirates,2018-02-10,-15.937126154913205,included_game_day
+2018,2261,Hampton Pirates,2018-02-12,-21.45863755120579,included_game_day
+2018,2261,Hampton Pirates,2018-02-17,-24.795695670742617,included_game_day
+2018,2261,Hampton Pirates,2018-02-19,-21.888433925303083,included_game_day
+2018,2261,Hampton Pirates,2018-02-24,-27.055730826050066,included_game_day
+2018,2261,Hampton Pirates,2018-03-01,-23.688644395318715,included_game_day
+2018,2261,Hampton Pirates,2018-03-07,-30.343818478380047,included_game_day
+2018,2261,Hampton Pirates,2018-03-09,-25.684048277276965,included_game_day
+2018,2261,Hampton Pirates,2018-03-10,-39.17618400912961,included_game_day
+2018,2261,Hampton Pirates,2018-03-13,-45.012697514487606,included_game_day
+2019,2261,Hampton Pirates,2018-11-09,-8.1,included_game_day
+2019,2261,Hampton Pirates,2018-11-13,-19.990000000000002,included_game_day
+2019,2261,Hampton Pirates,2018-11-19,-19.631,included_game_day
+2019,2261,Hampton Pirates,2018-11-20,-30.247917,included_game_day
+2019,2261,Hampton Pirates,2018-11-25,-4.5539035000000005,included_game_day
+2019,2261,Hampton Pirates,2018-11-29,-9.773030550000001,included_game_day
+2019,2261,Hampton Pirates,2018-12-05,-13.216774295,included_game_day
+2019,2261,Hampton Pirates,2018-12-08,-24.3129967862,included_game_day
+2019,2261,Hampton Pirates,2018-12-22,-20.164991907289348,included_game_day
+2019,2261,Hampton Pirates,2018-12-29,-24.87540347282289,included_game_day
+2019,2261,Hampton Pirates,2019-01-10,-17.93095754458892,included_game_day
+2019,2261,Hampton Pirates,2019-01-12,-10.6603933333378,included_game_day
+2019,2261,Hampton Pirates,2019-01-16,-23.219362327657002,included_game_day
+2019,2261,Hampton Pirates,2019-01-19,-31.08115080668532,included_game_day
+2019,2261,Hampton Pirates,2019-01-24,-20.72447849484292,included_game_day
+2019,2261,Hampton Pirates,2019-01-26,-16.696993032765995,included_game_day
+2019,2261,Hampton Pirates,2019-01-30,-2.6497590807644382,included_game_day
+2019,2261,Hampton Pirates,2019-02-02,-17.508918791465128,included_game_day
+2019,2261,Hampton Pirates,2019-02-07,-17.385664278618954,included_game_day
+2019,2261,Hampton Pirates,2019-02-09,-22.957899021540584,included_game_day
+2019,2261,Hampton Pirates,2019-02-13,-19.569152667703907,included_game_day
+2019,2261,Hampton Pirates,2019-02-16,-27.027700418092863,included_game_day
+2019,2261,Hampton Pirates,2019-02-21,-12.980973242576908,included_game_day
+2019,2261,Hampton Pirates,2019-02-23,-2.1262196288170223,included_game_day
+2019,2261,Hampton Pirates,2019-02-28,10.515213970393784,included_game_day
+2019,2261,Hampton Pirates,2019-03-02,21.086680246033943,included_game_day
+2019,2261,Hampton Pirates,2019-03-05,14.23141642242398,included_game_day
+2019,2261,Hampton Pirates,2019-03-07,8.242713836887521,included_game_day
+2019,2261,Hampton Pirates,2019-03-21,8.575305876749065,included_game_day
+2019,2261,Hampton Pirates,2019-03-26,13.647193033757379,included_game_day
+2019,2261,Hampton Pirates,2019-03-28,25.888873332116095,included_game_day
+2019,2261,Hampton Pirates,2019-04-02,26.34689662652518,included_game_day
+2020,2261,Hampton Pirates,2019-11-15,-7.027,included_game_day
+2020,2261,Hampton Pirates,2019-11-23,-48.8799,included_game_day
+2020,2261,Hampton Pirates,2019-11-26,-51.878849,included_game_day
+2020,2261,Hampton Pirates,2019-11-29,-62.0093328,included_game_day
+2020,2261,Hampton Pirates,2019-12-03,-70.641041813,included_game_day
+2020,2261,Hampton Pirates,2019-12-05,-83.2576949162,included_game_day
+2020,2261,Hampton Pirates,2019-12-07,-71.68553200875,included_game_day
+2020,2261,Hampton Pirates,2019-12-18,-85.3491930232553,included_game_day
+2020,2261,Hampton Pirates,2019-12-21,-108.1035963358632,included_game_day
+2020,2261,Hampton Pirates,2019-12-28,-98.24515045125122,included_game_day
+2020,2261,Hampton Pirates,2020-01-04,-92.43695812689809,included_game_day
+2020,2261,Hampton Pirates,2020-01-08,-95.83511438503173,included_game_day
+2020,2261,Hampton Pirates,2020-01-11,-92.90792830157372,included_game_day
+2020,2261,Hampton Pirates,2020-01-16,-104.50463068241952,included_game_day
+2020,2261,Hampton Pirates,2020-01-18,-93.53117411770468,included_game_day
+2020,2261,Hampton Pirates,2020-01-23,-82.78567534241388,included_game_day
+2020,2261,Hampton Pirates,2020-01-25,-76.2381158686005,included_game_day
+2020,2261,Hampton Pirates,2020-02-01,-73.59805591836731,included_game_day
+2020,2261,Hampton Pirates,2020-02-06,-77.74008040005286,included_game_day
+2020,2261,Hampton Pirates,2020-02-08,-85.538545395979,included_game_day
+2020,2261,Hampton Pirates,2020-02-10,-77.439388853295,included_game_day
+2020,2261,Hampton Pirates,2020-02-13,-98.6099486109572,included_game_day
+2020,2261,Hampton Pirates,2020-02-15,-100.04847219025102,included_game_day
+2020,2261,Hampton Pirates,2020-02-20,-82.60699895946398,included_game_day
+2020,2261,Hampton Pirates,2020-02-22,-61.98606842901761,included_game_day
+2020,2261,Hampton Pirates,2020-02-24,-67.40471963680062,included_game_day
+2020,2261,Hampton Pirates,2020-02-27,-64.20020007592142,included_game_day
+2020,2261,Hampton Pirates,2020-02-29,-82.58312109177282,included_game_day
+2020,2261,Hampton Pirates,2020-03-05,-54.852184716895664,included_game_day
+2020,2261,Hampton Pirates,2020-03-06,-37.35927180493684,included_game_day
+2020,2261,Hampton Pirates,2020-03-08,-34.34334379088308,included_game_day
+2021,2261,Hampton Pirates,2020-12-01,6.6,included_game_day
+2021,2261,Hampton Pirates,2020-12-07,-3.630000000000001,included_game_day
+2021,2261,Hampton Pirates,2020-12-13,-15.8977,included_game_day
+2021,2261,Hampton Pirates,2020-12-16,-34.539094399999996,included_game_day
+2021,2261,Hampton Pirates,2020-12-18,-38.38771496,included_game_day
+2021,2261,Hampton Pirates,2020-12-21,-24.205943463999997,included_game_day
+2021,2261,Hampton Pirates,2020-12-22,-22.860526267199997,included_game_day
+2021,2261,Hampton Pirates,2020-12-30,-13.515165464309998,included_game_day
+2021,2261,Hampton Pirates,2020-12-31,-28.038876821998,included_game_day
+2021,2261,Hampton Pirates,2021-01-04,-36.5008162988662,included_game_day
+2021,2261,Hampton Pirates,2021-01-05,-41.27036788036076,included_game_day
+2021,2261,Hampton Pirates,2021-01-09,-38.94571462190622,included_game_day
+2021,2261,Hampton Pirates,2021-01-10,-47.085992015142594,included_game_day
+2021,2261,Hampton Pirates,2021-01-14,-43.424725868859134,included_game_day
+2021,2261,Hampton Pirates,2021-01-15,-31.495712951832367,included_game_day
+2021,2261,Hampton Pirates,2021-02-07,-48.28114026400179,included_game_day
+2021,2261,Hampton Pirates,2021-02-08,-42.70948211373733,included_game_day
+2021,2261,Hampton Pirates,2021-02-11,-62.92476417233995,included_game_day
+2021,2261,Hampton Pirates,2021-02-12,-59.09698981922204,included_game_day
+2021,2261,Hampton Pirates,2021-02-15,-61.90536361006108,included_game_day
+2021,2261,Hampton Pirates,2021-02-18,-80.21763324759131,included_game_day
+2021,2261,Hampton Pirates,2021-02-19,-80.8674489576155,included_game_day
+2021,2261,Hampton Pirates,2021-02-24,-64.43667310788636,included_game_day
+2021,2261,Hampton Pirates,2021-02-27,-65.90018460521911,included_game_day
+2021,2261,Hampton Pirates,2021-03-01,-73.74041231918304,included_game_day
+2022,2261,Hampton Pirates,2021-11-16,-19.93,included_game_day
+2022,2261,Hampton Pirates,2021-11-19,-32.357,included_game_day
+2022,2261,Hampton Pirates,2021-11-20,-46.7213,included_game_day
+2022,2261,Hampton Pirates,2021-11-24,-45.56827,included_game_day
+2022,2261,Hampton Pirates,2021-11-28,-51.679432999999996,included_game_day
+2022,2261,Hampton Pirates,2021-11-29,-65.96068785,included_game_day
+2022,2261,Hampton Pirates,2021-12-04,-61.481304043499996,included_game_day
+2022,2261,Hampton Pirates,2021-12-09,-60.51139208678249,included_game_day
+2022,2261,Hampton Pirates,2021-12-12,-67.00901493785675,included_game_day
+2022,2261,Hampton Pirates,2022-01-08,-64.32886464195647,included_game_day
+2022,2261,Hampton Pirates,2022-01-12,-66.75419030661297,included_game_day
+2022,2261,Hampton Pirates,2022-01-19,-65.74878143107628,included_game_day
+2022,2261,Hampton Pirates,2022-01-22,-63.952993263294914,included_game_day
+2022,2261,Hampton Pirates,2022-01-24,-81.91689462553742,included_game_day
+2022,2261,Hampton Pirates,2022-01-26,-86.65470388789352,included_game_day
+2022,2261,Hampton Pirates,2022-01-29,-83.4344668124117,included_game_day
+2022,2261,Hampton Pirates,2022-02-02,-87.04256538261568,included_game_day
+2022,2261,Hampton Pirates,2022-02-05,-94.94929883040992,included_game_day
+2022,2261,Hampton Pirates,2022-02-07,-88.35405741607651,included_game_day
+2022,2261,Hampton Pirates,2022-02-09,-96.66296690806516,included_game_day
+2022,2261,Hampton Pirates,2022-02-12,-103.91562154055404,included_game_day
+2022,2261,Hampton Pirates,2022-02-16,-89.7061707174753,included_game_day
+2022,2261,Hampton Pirates,2022-02-19,-80.10571724274786,included_game_day
+2022,2261,Hampton Pirates,2022-02-23,-74.489235814673,included_game_day
+2022,2261,Hampton Pirates,2022-02-26,-77.90972367059639,included_game_day
+2022,2261,Hampton Pirates,2022-03-02,-79.64611395533511,included_game_day
+2023,2261,Hampton Pirates,2022-11-09,-45.0,included_game_day
+2023,2261,Hampton Pirates,2022-11-16,-44.988,included_game_day
+2023,2261,Hampton Pirates,2022-11-21,-50.7217,included_game_day
+2023,2261,Hampton Pirates,2022-11-22,-47.09093,included_game_day
+2023,2261,Hampton Pirates,2022-11-26,-62.3600738,included_game_day
+2023,2261,Hampton Pirates,2022-11-30,-70.23428662,included_game_day
+2023,2261,Hampton Pirates,2022-12-03,-66.465026978,included_game_day
+2023,2261,Hampton Pirates,2022-12-07,-62.630502373199995,included_game_day
+2023,2261,Hampton Pirates,2022-12-11,-76.40918895488,included_game_day
+2023,2261,Hampton Pirates,2022-12-17,-83.43516801179263,included_game_day
+2023,2261,Hampton Pirates,2022-12-18,-88.76753909434959,included_game_day
+2023,2261,Hampton Pirates,2022-12-29,-98.69639189478973,included_game_day
+2023,2261,Hampton Pirates,2022-12-31,-100.20766712343742,included_game_day
+2023,2261,Hampton Pirates,2023-01-05,-110.07649402719665,included_game_day
+2023,2261,Hampton Pirates,2023-01-07,-121.55360567441643,included_game_day
+2023,2261,Hampton Pirates,2023-01-11,-128.9399909409244,included_game_day
+2023,2261,Hampton Pirates,2023-01-16,-136.1403103209864,included_game_day
+2023,2261,Hampton Pirates,2023-01-19,-122.61440218588974,included_game_day
+2023,2261,Hampton Pirates,2023-01-21,-106.0900716301448,included_game_day
+2023,2261,Hampton Pirates,2023-01-26,-98.31955682507372,included_game_day
+2023,2261,Hampton Pirates,2023-01-28,-104.0690763617064,included_game_day
+2023,2261,Hampton Pirates,2023-02-02,-100.49354312854214,included_game_day
+2023,2261,Hampton Pirates,2023-02-04,-102.7530715991858,included_game_day
+2023,2261,Hampton Pirates,2023-02-08,-100.68923255946216,included_game_day
+2023,2261,Hampton Pirates,2023-02-11,-96.35766631558374,included_game_day
+2023,2261,Hampton Pirates,2023-02-13,-90.86985445166465,included_game_day
+2023,2261,Hampton Pirates,2023-02-16,-100.4467410196138,included_game_day
+2023,2261,Hampton Pirates,2023-02-18,-92.03701946980493,included_game_day
+2023,2261,Hampton Pirates,2023-02-23,-91.91998461715657,included_game_day
+2023,2261,Hampton Pirates,2023-02-25,-90.23743640258161,included_game_day
+2023,2261,Hampton Pirates,2023-03-03,-128.93339484184256,included_game_day
+2024,2261,Hampton Pirates,2023-11-06,-9.0,included_game_day
+2024,2261,Hampton Pirates,2023-11-13,-12.1,included_game_day
+2024,2261,Hampton Pirates,2023-11-17,-48.856,included_game_day
+2024,2261,Hampton Pirates,2023-11-18,-38.2581,included_game_day
+2024,2261,Hampton Pirates,2023-11-20,-52.19746,included_game_day
+2024,2261,Hampton Pirates,2023-11-27,-56.77271812,included_game_day
+2024,2261,Hampton Pirates,2023-12-16,-64.396016304903,included_game_day
+2024,2261,Hampton Pirates,2023-12-19,-64.0575876731511,included_game_day
+2024,2261,Hampton Pirates,2023-12-21,-63.497612985557964,included_game_day
+2024,2261,Hampton Pirates,2024-01-01,-86.98131175007617,included_game_day
+2024,2261,Hampton Pirates,2024-01-04,-100.3017904503561,included_game_day
+2024,2261,Hampton Pirates,2024-01-06,-110.86847024947193,included_game_day
+2024,2261,Hampton Pirates,2024-01-11,-121.29014795871123,included_game_day
+2024,2261,Hampton Pirates,2024-01-15,-121.88564721957329,included_game_day
+2024,2261,Hampton Pirates,2024-01-18,-115.31696146887822,included_game_day
+2024,2261,Hampton Pirates,2024-01-20,-109.11988737500333,included_game_day
+2024,2261,Hampton Pirates,2024-01-25,-118.87096016799063,included_game_day
+2024,2261,Hampton Pirates,2024-01-27,-123.99845562885325,included_game_day
+2024,2261,Hampton Pirates,2024-02-01,-117.33938281356527,included_game_day
+2024,2261,Hampton Pirates,2024-02-03,-108.41791792457126,included_game_day
+2024,2261,Hampton Pirates,2024-02-08,-104.50658345576815,included_game_day
+2024,2261,Hampton Pirates,2024-02-10,-121.55928507529333,included_game_day
+2024,2261,Hampton Pirates,2024-02-15,-128.54732843567783,included_game_day
+2024,2261,Hampton Pirates,2024-02-17,-109.76057724911695,included_game_day
+2024,2261,Hampton Pirates,2024-02-22,-96.51995504045286,included_game_day
+2024,2261,Hampton Pirates,2024-02-24,-95.47068579337171,included_game_day
+2024,2261,Hampton Pirates,2024-02-29,-82.48805109724552,included_game_day
+2024,2261,Hampton Pirates,2024-03-02,-91.18378657573696,included_game_day
+2024,2261,Hampton Pirates,2024-03-08,-89.22540053388998,included_game_day
+2024,2261,Hampton Pirates,2024-03-09,-113.55012563947665,included_game_day
+2025,2261,Hampton Pirates,2024-11-08,-23.6,included_game_day
+2025,2261,Hampton Pirates,2024-11-12,-25.01,included_game_day
+2025,2261,Hampton Pirates,2024-11-16,-34.383,included_game_day
+2025,2261,Hampton Pirates,2024-11-19,-21.186030000000002,included_game_day
+2025,2261,Hampton Pirates,2024-11-24,-28.937327000000003,included_game_day
+2025,2261,Hampton Pirates,2024-11-25,-25.473501300000002,included_game_day
+2025,2261,Hampton Pirates,2024-11-26,-24.282149280000002,included_game_day
+2025,2261,Hampton Pirates,2024-12-03,-15.634360189000002,included_game_day
+2025,2261,Hampton Pirates,2024-12-21,-4.806339234174903,included_game_day
+2025,2261,Hampton Pirates,2024-12-28,4.64590372260456,included_game_day
+2025,2261,Hampton Pirates,2025-01-02,-17.953390881696826,included_game_day
+2025,2261,Hampton Pirates,2025-01-04,-18.187743600942902,included_game_day
+2025,2261,Hampton Pirates,2025-01-09,-34.31691739066705,included_game_day
+2025,2261,Hampton Pirates,2025-01-11,-27.345459904582682,included_game_day
+2025,2261,Hampton Pirates,2025-01-16,-30.283714967946636,included_game_day
+2025,2261,Hampton Pirates,2025-01-20,-30.459477790490734,included_game_day
+2025,2261,Hampton Pirates,2025-01-23,-35.499061927432884,included_game_day
+2025,2261,Hampton Pirates,2025-01-25,-47.20101891172442,included_game_day
+2025,2261,Hampton Pirates,2025-01-30,-57.50577375604141,included_game_day
+2025,2261,Hampton Pirates,2025-02-01,-57.271152542425774,included_game_day
+2025,2261,Hampton Pirates,2025-02-06,-56.62969296703567,included_game_day
+2025,2261,Hampton Pirates,2025-02-08,-40.139764378445214,included_game_day
+2025,2261,Hampton Pirates,2025-02-13,-33.5469591868279,included_game_day
+2025,2261,Hampton Pirates,2025-02-15,-18.20972438510465,included_game_day
+2025,2261,Hampton Pirates,2025-02-22,-2.3460156641655274,included_game_day
+2025,2261,Hampton Pirates,2025-02-24,19.674147667839264,included_game_day
+2025,2261,Hampton Pirates,2025-02-27,19.445124045665253,included_game_day
+2025,2261,Hampton Pirates,2025-03-01,21.979458975946315,included_game_day
+2025,2261,Hampton Pirates,2025-03-08,23.127036953638022,included_game_day
+2025,2261,Hampton Pirates,2025-03-09,13.710297818006353,included_game_day
+2026,2261,Hampton Pirates,2025-11-03,-1.0,included_game_day
+2026,2261,Hampton Pirates,2025-11-11,-31.96,included_game_day
+2026,2261,Hampton Pirates,2025-11-14,-20.0717,included_game_day
+2026,2261,Hampton Pirates,2025-11-16,-29.81253,included_game_day
+2026,2261,Hampton Pirates,2025-11-18,-32.224457,included_game_day
+2026,2261,Hampton Pirates,2025-11-21,-29.3220113,included_game_day
+2026,2261,Hampton Pirates,2025-11-25,-24.017383090000003,included_game_day
+2026,2261,Hampton Pirates,2025-12-03,-7.0090754130000015,included_game_day
+2026,2261,Hampton Pirates,2025-12-13,-14.122417338495701,included_game_day
+2026,2261,Hampton Pirates,2025-12-18,-22.40757614601079,included_game_day
+2026,2261,Hampton Pirates,2025-12-19,-31.527561438067238,included_game_day
+2026,2261,Hampton Pirates,2025-12-29,-31.124098257887038,included_game_day
+2026,2261,Hampton Pirates,2025-12-31,-29.879369387435275,included_game_day
+2026,2261,Hampton Pirates,2026-01-03,-23.176786217027303,included_game_day
+2026,2261,Hampton Pirates,2026-01-08,-34.01947929067988,included_game_day
+2026,2261,Hampton Pirates,2026-01-10,-29.504279135034018,included_game_day
+2026,2261,Hampton Pirates,2026-01-19,-12.22771274178804,included_game_day
+2026,2261,Hampton Pirates,2026-01-22,-12.750531992198084,included_game_day
+2026,2261,Hampton Pirates,2026-01-24,-19.125572155622987,included_game_day
+2026,2261,Hampton Pirates,2026-01-29,-19.57838767678035,included_game_day
+2026,2261,Hampton Pirates,2026-01-31,-47.07242548387562,included_game_day
+2026,2261,Hampton Pirates,2026-02-05,-38.298721353565675,included_game_day
+2026,2261,Hampton Pirates,2026-02-07,-31.904203582791276,included_game_day
+2026,2261,Hampton Pirates,2026-02-13,-33.79129754873824,included_game_day
+2026,2261,Hampton Pirates,2026-02-19,-57.71148645122088,included_game_day
+2026,2261,Hampton Pirates,2026-02-21,-56.3536718333833,included_game_day
+2026,2261,Hampton Pirates,2026-02-26,-64.34803071453564,included_game_day
+2026,2261,Hampton Pirates,2026-02-28,-57.95438615411363,included_game_day
+2026,2261,Hampton Pirates,2026-03-03,-56.06522839749151,included_game_day
+2026,2261,Hampton Pirates,2026-03-07,-54.63883855510426,included_game_day
+2027,2261,Hampton Pirates,2026-11-03,-17.0,included_game_day
+2027,2261,Hampton Pirates,2026-11-07,-21.4,included_game_day
+2027,2261,Hampton Pirates,2026-11-14,-21.9413,included_game_day

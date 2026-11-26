@@ -1,0 +1,1041 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,163,Princeton,1987-12-02,-0.4299999999999997,included_game_day
+1988,163,Princeton,1987-12-05,15.292,included_game_day
+1988,163,Princeton,1987-12-09,25.591917000000002,included_game_day
+1988,163,Princeton,1987-12-12,28.027169300000004,included_game_day
+1988,163,Princeton,1987-12-15,35.71221802,included_game_day
+1988,163,Princeton,1987-12-19,29.396931218000002,included_game_day
+1988,163,Princeton,1987-12-28,46.056939710135,included_game_day
+1988,163,Princeton,1987-12-29,43.9721815271215,included_game_day
+1988,163,Princeton,1988-01-05,55.49817022095266,included_game_day
+1988,163,Princeton,1988-01-09,61.89489425908788,included_game_day
+1988,163,Princeton,1988-01-25,57.061403527900566,included_game_day
+1988,163,Princeton,1988-01-30,49.023817284228855,included_game_day
+1988,163,Princeton,1988-02-05,41.14568775585569,included_game_day
+1988,163,Princeton,1988-02-06,50.44503775621451,included_game_day
+1988,163,Princeton,1988-02-09,42.77622512977072,included_game_day
+1988,163,Princeton,1988-02-12,61.28829141822402,included_game_day
+1988,163,Princeton,1988-02-13,44.75276100622142,included_game_day
+1988,163,Princeton,1988-02-19,34.231021859577005,included_game_day
+1988,163,Princeton,1988-02-20,19.72276787731916,included_game_day
+1988,163,Princeton,1988-02-26,19.662879270905805,included_game_day
+1988,163,Princeton,1988-02-27,5.764829025563122,included_game_day
+1988,163,Princeton,1988-03-01,-2.582479431299509,included_game_day
+1988,163,Princeton,1988-03-04,4.922349219861662,included_game_day
+1988,163,Princeton,1988-03-05,22.91326501376337,included_game_day
+1989,163,Princeton,1988-11-30,6.0,included_game_day
+1989,163,Princeton,1988-12-03,3.0134999999999996,included_game_day
+1989,163,Princeton,1988-12-07,14.419149999999998,included_game_day
+1989,163,Princeton,1988-12-10,15.060223599999999,included_game_day
+1989,163,Princeton,1988-12-17,11.734036412999998,included_game_day
+1989,163,Princeton,1988-12-22,8.623207910000001,included_game_day
+1989,163,Princeton,1988-12-29,11.875624407679,included_game_day
+1989,163,Princeton,1988-12-30,24.696879761870235,included_game_day
+1989,163,Princeton,1989-01-04,16.98945754815321,included_game_day
+1989,163,Princeton,1989-01-07,14.08278008643712,included_game_day
+1989,163,Princeton,1989-01-27,9.293429581357143,included_game_day
+1989,163,Princeton,1989-01-28,6.64091924358824,included_game_day
+1989,163,Princeton,1989-02-03,-10.061837231476002,included_game_day
+1989,163,Princeton,1989-02-04,-2.797787240925267,included_game_day
+1989,163,Princeton,1989-02-07,1.478162162655761,included_game_day
+1989,163,Princeton,1989-02-10,9.766941651739991,included_game_day
+1989,163,Princeton,1989-02-11,11.007236728060324,included_game_day
+1989,163,Princeton,1989-02-17,11.957075482836164,included_game_day
+1989,163,Princeton,1989-02-18,20.146435657663247,included_game_day
+1989,163,Princeton,1989-02-24,24.837321742696208,included_game_day
+1989,163,Princeton,1989-02-25,22.515954079215387,included_game_day
+1989,163,Princeton,1989-02-28,14.939382954922177,included_game_day
+1989,163,Princeton,1989-03-03,2.0454980087722756,included_game_day
+1989,163,Princeton,1989-03-04,6.647610601726866,included_game_day
+1989,163,Princeton,1989-03-17,23.672065493336127,included_game_day
+1990,163,Princeton,1989-11-28,7.8,included_game_day
+1990,163,Princeton,1989-12-02,4.77,included_game_day
+1990,163,Princeton,1989-12-06,18.1393,included_game_day
+1990,163,Princeton,1989-12-09,31.112049999999996,included_game_day
+1990,163,Princeton,1989-12-16,31.697509529999998,included_game_day
+1990,163,Princeton,1989-12-22,27.965618624829997,included_game_day
+1990,163,Princeton,1989-12-23,34.077540534147,included_game_day
+1990,163,Princeton,1989-12-29,39.1785934528003,included_game_day
+1990,163,Princeton,1989-12-30,46.1423871916751,included_game_day
+1990,163,Princeton,1990-01-03,56.11919562667105,included_game_day
+1990,163,Princeton,1990-01-06,55.739633988770095,included_game_day
+1990,163,Princeton,1990-01-12,52.47403389907149,included_game_day
+1990,163,Princeton,1990-01-13,53.59199909559375,included_game_day
+1990,163,Princeton,1990-02-02,70.43593411860388,included_game_day
+1990,163,Princeton,1990-02-03,66.40461708448264,included_game_day
+1990,163,Princeton,1990-02-06,60.10393030528706,included_game_day
+1990,163,Princeton,1990-02-09,57.719489195145925,included_game_day
+1990,163,Princeton,1990-02-10,80.84754247517701,included_game_day
+1990,163,Princeton,1990-02-16,91.82371498073269,included_game_day
+1990,163,Princeton,1990-02-17,93.56253644367195,included_game_day
+1990,163,Princeton,1990-02-23,87.1602944535384,included_game_day
+1990,163,Princeton,1990-02-24,69.63593015510895,included_game_day
+1990,163,Princeton,1990-03-02,78.27902257290651,included_game_day
+1990,163,Princeton,1990-03-03,83.74947329908991,included_game_day
+1990,163,Princeton,1990-03-15,90.23202597689115,included_game_day
+1991,163,Princeton,1990-11-24,16.0,included_game_day
+1991,163,Princeton,1990-11-25,18.8,included_game_day
+1991,163,Princeton,1990-11-27,28.32,included_game_day
+1991,163,Princeton,1990-12-04,45.5788,included_game_day
+1991,163,Princeton,1990-12-07,56.2668328,included_game_day
+1991,163,Princeton,1990-12-08,61.03199972,included_game_day
+1991,163,Princeton,1990-12-15,74.344493128,included_game_day
+1991,163,Princeton,1990-12-19,46.3174990502,included_game_day
+1991,163,Princeton,1990-12-28,61.34571954866862,included_game_day
+1991,163,Princeton,1990-12-29,52.642845260562495,included_game_day
+1991,163,Princeton,1991-01-11,72.92123533656037,included_game_day
+1991,163,Princeton,1991-01-12,80.29234608693626,included_game_day
+1991,163,Princeton,1991-02-01,77.05719086086967,included_game_day
+1991,163,Princeton,1991-02-02,76.97506635847333,included_game_day
+1991,163,Princeton,1991-02-05,78.26309842632284,included_game_day
+1991,163,Princeton,1991-02-08,111.51199502750009,included_game_day
+1991,163,Princeton,1991-02-09,111.2833277554833,included_game_day
+1991,163,Princeton,1991-02-15,109.9249480144949,included_game_day
+1991,163,Princeton,1991-02-16,105.14404726797626,included_game_day
+1991,163,Princeton,1991-02-22,106.95993260020322,included_game_day
+1991,163,Princeton,1991-02-23,98.35431746362607,included_game_day
+1991,163,Princeton,1991-02-26,85.62189539861723,included_game_day
+1991,163,Princeton,1991-03-01,84.43838375055051,included_game_day
+1991,163,Princeton,1991-03-02,77.19079905507738,included_game_day
+1991,163,Princeton,1991-03-10,96.44507185394369,included_game_day
+1991,163,Princeton,1991-03-15,92.03394183441449,included_game_day
+1992,163,Princeton,1991-11-20,8.0,included_game_day
+1992,163,Princeton,1991-11-21,1.0,included_game_day
+1992,163,Princeton,1991-11-30,18.752,included_game_day
+1992,163,Princeton,1991-12-03,10.710799999999999,included_game_day
+1992,163,Princeton,1991-12-06,21.876129999999996,included_game_day
+1992,163,Princeton,1991-12-07,33.907193799999995,included_game_day
+1992,163,Princeton,1991-12-14,32.137245719999996,included_game_day
+1992,163,Princeton,1991-12-18,38.327821238,included_game_day
+1992,163,Princeton,1991-12-21,39.0456955142,included_game_day
+1992,163,Princeton,1992-01-04,33.88881413063622,included_game_day
+1992,163,Princeton,1992-01-08,41.28138869272875,included_game_day
+1992,163,Princeton,1992-01-11,48.277673304624685,included_game_day
+1992,163,Princeton,1992-01-31,58.64099964260836,included_game_day
+1992,163,Princeton,1992-02-01,88.79458882144692,included_game_day
+1992,163,Princeton,1992-02-07,90.10964310921084,included_game_day
+1992,163,Princeton,1992-02-08,87.98029393887131,included_game_day
+1992,163,Princeton,1992-02-11,85.52819499742431,included_game_day
+1992,163,Princeton,1992-02-14,101.91833036920829,included_game_day
+1992,163,Princeton,1992-02-15,105.2926702068055,included_game_day
+1992,163,Princeton,1992-02-21,94.2974757816866,included_game_day
+1992,163,Princeton,1992-02-22,108.18905132396787,included_game_day
+1992,163,Princeton,1992-02-28,91.7233947376726,included_game_day
+1992,163,Princeton,1992-02-29,79.9679463513234,included_game_day
+1992,163,Princeton,1992-03-06,65.8177193424978,included_game_day
+1992,163,Princeton,1992-03-07,76.06677178598231,included_game_day
+1992,163,Princeton,1992-03-20,66.51787391554419,included_game_day
+1993,163,Princeton,1992-12-01,20.0,included_game_day
+1993,163,Princeton,1992-12-04,8.0,included_game_day
+1993,163,Princeton,1992-12-05,14.44,included_game_day
+1993,163,Princeton,1992-12-08,30.299,included_game_day
+1993,163,Princeton,1992-12-11,31.4291,included_game_day
+1993,163,Princeton,1992-12-12,26.52514,included_game_day
+1993,163,Princeton,1992-12-16,30.617626,included_game_day
+1993,163,Princeton,1992-12-29,8.0535414,included_game_day
+1993,163,Princeton,1992-12-30,14.701026123,included_game_day
+1993,163,Princeton,1993-01-05,0.4371982861996013,included_game_day
+1993,163,Princeton,1993-01-08,15.88073387611812,included_game_day
+1993,163,Princeton,1993-01-09,27.39064207188256,included_game_day
+1993,163,Princeton,1993-01-27,25.42997965504066,included_game_day
+1993,163,Princeton,1993-01-30,9.410909693036064,included_game_day
+1993,163,Princeton,1993-02-05,13.392689294791737,included_game_day
+1993,163,Princeton,1993-02-06,-6.977248996346869,included_game_day
+1993,163,Princeton,1993-02-12,3.8383529087032215,included_game_day
+1993,163,Princeton,1993-02-13,0.8122591150315857,included_game_day
+1993,163,Princeton,1993-02-19,3.991655270397661,included_game_day
+1993,163,Princeton,1993-02-20,-0.12359040870977589,included_game_day
+1993,163,Princeton,1993-02-26,-3.4671726828197635,included_game_day
+1993,163,Princeton,1993-02-27,-4.0357338488759105,included_game_day
+1993,163,Princeton,1993-03-05,-13.8372651408178,included_game_day
+1993,163,Princeton,1993-03-06,-28.50127451181256,included_game_day
+1993,163,Princeton,1993-03-09,-21.33882187214424,included_game_day
+1994,163,Princeton,1993-11-27,-3.0,included_game_day
+1994,163,Princeton,1993-12-01,23.3,included_game_day
+1994,163,Princeton,1993-12-03,7.93,included_game_day
+1994,163,Princeton,1993-12-04,20.703699999999998,included_game_day
+1994,163,Princeton,1993-12-08,31.803729999999998,included_game_day
+1994,163,Princeton,1993-12-10,30.570356999999998,included_game_day
+1994,163,Princeton,1993-12-11,35.6516623,included_game_day
+1994,163,Princeton,1993-12-21,35.80751907,included_game_day
+1994,163,Princeton,1993-12-27,19.877627067756997,included_game_day
+1994,163,Princeton,1993-12-28,19.54874119177013,included_game_day
+1994,163,Princeton,1994-01-07,34.181072040201116,included_game_day
+1994,163,Princeton,1994-01-08,47.16064730611012,included_game_day
+1994,163,Princeton,1994-01-29,33.65662042626163,included_game_day
+1994,163,Princeton,1994-02-04,41.4532815277348,included_game_day
+1994,163,Princeton,1994-02-05,59.35743977610419,included_game_day
+1994,163,Princeton,1994-02-11,57.97376295379209,included_game_day
+1994,163,Princeton,1994-02-12,44.61356278672602,included_game_day
+1994,163,Princeton,1994-02-18,46.52092752353013,included_game_day
+1994,163,Princeton,1994-02-19,43.57976951368417,included_game_day
+1994,163,Princeton,1994-02-25,52.839565141676616,included_game_day
+1994,163,Princeton,1994-02-26,58.857884451664276,included_game_day
+1994,163,Princeton,1994-03-02,53.79147338644512,included_game_day
+1994,163,Princeton,1994-03-04,59.569266983963395,included_game_day
+1994,163,Princeton,1994-03-07,76.03172714605965,included_game_day
+1995,163,Princeton,1994-11-26,-12.0,included_game_day
+1995,163,Princeton,1994-11-30,4.300000000000001,included_game_day
+1995,163,Princeton,1994-12-03,-13.129999999999999,included_game_day
+1995,163,Princeton,1994-12-05,21.913999999999998,included_game_day
+1995,163,Princeton,1994-12-09,35.7356,included_game_day
+1995,163,Princeton,1994-12-10,16.8982046,included_game_day
+1995,163,Princeton,1994-12-14,3.0137016699999997,included_game_day
+1995,163,Princeton,1994-12-17,11.919804503,included_game_day
+1995,163,Princeton,1994-12-27,14.331285193219998,included_game_day
+1995,163,Princeton,1994-12-28,9.012165969937998,included_game_day
+1995,163,Princeton,1995-01-03,18.096539119544197,included_game_day
+1995,163,Princeton,1995-01-06,8.383433516819778,included_game_day
+1995,163,Princeton,1995-01-07,6.29684648226576,included_game_day
+1995,163,Princeton,1995-01-28,-2.127318067086925,included_game_day
+1995,163,Princeton,1995-02-03,-4.708663466310866,included_game_day
+1995,163,Princeton,1995-02-04,8.497299570463575,included_game_day
+1995,163,Princeton,1995-02-10,18.652323549562126,included_game_day
+1995,163,Princeton,1995-02-11,30.056328131932094,included_game_day
+1995,163,Princeton,1995-02-17,22.662470642186758,included_game_day
+1995,163,Princeton,1995-02-18,23.500878342342283,included_game_day
+1995,163,Princeton,1995-02-24,21.992727670592497,included_game_day
+1995,163,Princeton,1995-02-25,16.82749283624108,included_game_day
+1995,163,Princeton,1995-03-03,17.878242789074243,included_game_day
+1995,163,Princeton,1995-03-04,31.451845511486844,included_game_day
+1995,163,Princeton,1995-03-08,25.068518397299457,included_game_day
+1996,163,Princeton,1995-11-27,18.9,included_game_day
+1996,163,Princeton,1995-11-29,27.72,included_game_day
+1996,163,Princeton,1995-12-01,43.748,included_game_day
+1996,163,Princeton,1995-12-02,48.575199999999995,included_game_day
+1996,163,Princeton,1995-12-12,29.222259999999995,included_game_day
+1996,163,Princeton,1995-12-18,35.95224399999999,included_game_day
+1996,163,Princeton,1995-12-21,35.83579682199999,included_game_day
+1996,163,Princeton,1995-12-22,57.335363160389996,included_game_day
+1996,163,Princeton,1995-12-29,54.61075991475099,included_game_day
+1996,163,Princeton,1995-12-30,35.46065323631797,included_game_day
+1996,163,Princeton,1996-01-03,29.78418238309107,included_game_day
+1996,163,Princeton,1996-01-06,18.066080022575875,included_game_day
+1996,163,Princeton,1996-01-12,7.134768793364085,included_game_day
+1996,163,Princeton,1996-01-13,28.757536166382838,included_game_day
+1996,163,Princeton,1996-02-02,34.96675033581778,included_game_day
+1996,163,Princeton,1996-02-03,24.063884911038038,included_game_day
+1996,163,Princeton,1996-02-09,33.22481436952454,included_game_day
+1996,163,Princeton,1996-02-10,42.280046382410774,included_game_day
+1996,163,Princeton,1996-02-16,38.498445223220045,included_game_day
+1996,163,Princeton,1996-02-17,50.1307363904578,included_game_day
+1996,163,Princeton,1996-02-23,66.27195486688446,included_game_day
+1996,163,Princeton,1996-02-24,66.54207467062241,included_game_day
+1996,163,Princeton,1996-03-01,73.94493508904543,included_game_day
+1996,163,Princeton,1996-03-02,60.00248954662503,included_game_day
+1996,163,Princeton,1996-03-05,49.37540598052901,included_game_day
+1996,163,Princeton,1996-03-09,58.8737391276522,included_game_day
+1996,163,Princeton,1996-03-14,63.20430900675707,included_game_day
+1996,163,Princeton,1996-03-16,48.92837418634733,included_game_day
+1997,163,Princeton,1996-11-20,-6.3,included_game_day
+1997,163,Princeton,1996-12-03,14.7242,included_game_day
+1997,163,Princeton,1996-12-06,16.42748,included_game_day
+1997,163,Princeton,1996-12-07,27.887851499999996,included_game_day
+1997,163,Princeton,1996-12-10,13.891122149999998,included_game_day
+1997,163,Princeton,1996-12-14,17.051639934999997,included_game_day
+1997,163,Princeton,1996-12-19,33.098448521499996,included_game_day
+1997,163,Princeton,1996-12-22,29.626653289592994,included_game_day
+1997,163,Princeton,1996-12-27,39.57643548027589,included_game_day
+1997,163,Princeton,1996-12-28,52.682176355591,included_game_day
+1997,163,Princeton,1997-01-03,51.315206869246026,included_game_day
+1997,163,Princeton,1997-01-06,48.991710425125675,included_game_day
+1997,163,Princeton,1997-01-10,39.88878799654045,included_game_day
+1997,163,Princeton,1997-01-11,47.097369274745375,included_game_day
+1997,163,Princeton,1997-01-31,69.49351251904211,included_game_day
+1997,163,Princeton,1997-02-01,70.37913444292268,included_game_day
+1997,163,Princeton,1997-02-07,63.18667373501956,included_game_day
+1997,163,Princeton,1997-02-08,78.61830058752652,included_game_day
+1997,163,Princeton,1997-02-11,87.73192607306372,included_game_day
+1997,163,Princeton,1997-02-14,100.54654139528307,included_game_day
+1997,163,Princeton,1997-02-15,108.28924551930706,included_game_day
+1997,163,Princeton,1997-02-21,108.35603230009258,included_game_day
+1997,163,Princeton,1997-02-22,111.12304272658751,included_game_day
+1997,163,Princeton,1997-02-28,100.9375255733826,included_game_day
+1997,163,Princeton,1997-03-01,106.89421898502222,included_game_day
+1997,163,Princeton,1997-03-04,106.67115998389825,included_game_day
+1997,163,Princeton,1997-03-13,104.36640195718978,included_game_day
+1998,163,Princeton,1997-11-11,6.0,included_game_day
+1998,163,Princeton,1997-11-12,7.6,included_game_day
+1998,163,Princeton,1997-11-22,21.84,included_game_day
+1998,163,Princeton,1997-11-25,36.856,included_game_day
+1998,163,Princeton,1997-12-03,44.8573966,included_game_day
+1998,163,Princeton,1997-12-06,63.21512864,included_game_day
+1998,163,Princeton,1997-12-09,70.356115976,included_game_day
+1998,163,Princeton,1997-12-13,72.95358353424,included_game_day
+1998,163,Princeton,1997-12-19,74.86183201937,included_game_day
+1998,163,Princeton,1997-12-26,70.07983130674079,included_game_day
+1998,163,Princeton,1997-12-27,74.65843601787252,included_game_day
+1998,163,Princeton,1998-01-03,88.6974330554714,included_game_day
+1998,163,Princeton,1998-01-09,90.3034709458042,included_game_day
+1998,163,Princeton,1998-01-10,104.72436337468295,included_game_day
+1998,163,Princeton,1998-01-30,112.33396504306616,included_game_day
+1998,163,Princeton,1998-01-31,103.10620367378749,included_game_day
+1998,163,Princeton,1998-02-06,123.49371730231914,included_game_day
+1998,163,Princeton,1998-02-07,137.94308179998438,included_game_day
+1998,163,Princeton,1998-02-13,134.760262487715,included_game_day
+1998,163,Princeton,1998-02-14,146.79324642679072,included_game_day
+1998,163,Princeton,1998-02-17,150.6128571758156,included_game_day
+1998,163,Princeton,1998-02-20,147.92012914484906,included_game_day
+1998,163,Princeton,1998-02-21,140.79646806115952,included_game_day
+1998,163,Princeton,1998-02-27,140.52601067081102,included_game_day
+1998,163,Princeton,1998-02-28,138.21127828496844,included_game_day
+1998,163,Princeton,1998-03-03,136.44691898846918,included_game_day
+1998,163,Princeton,1998-03-12,142.12097768876035,included_game_day
+1998,163,Princeton,1998-03-14,133.90617644964163,included_game_day
+1999,163,Princeton,1998-11-18,-11.2,included_game_day
+1999,163,Princeton,1998-11-21,-0.5700000000000003,included_game_day
+1999,163,Princeton,1998-11-28,26.6018,included_game_day
+1999,163,Princeton,1998-12-04,21.2868,included_game_day
+1999,163,Princeton,1998-12-05,30.429899684,included_game_day
+1999,163,Princeton,1998-12-09,62.444068064599996,included_game_day
+1999,163,Princeton,1998-12-15,78.25706929571399,included_game_day
+1999,163,Princeton,1998-12-19,65.06915483253259,included_game_day
+1999,163,Princeton,1998-12-22,49.96677968078873,included_game_day
+1999,163,Princeton,1998-12-27,54.137775669114426,included_game_day
+1999,163,Princeton,1998-12-28,60.21182296531942,included_game_day
+1999,163,Princeton,1998-12-29,64.18618337516179,included_game_day
+1999,163,Princeton,1999-01-08,67.7582650818505,included_game_day
+1999,163,Princeton,1999-01-09,84.04522190983744,included_game_day
+1999,163,Princeton,1999-01-29,79.37119648351339,included_game_day
+1999,163,Princeton,1999-01-30,76.54282886293619,included_game_day
+1999,163,Princeton,1999-02-05,71.15537129846533,included_game_day
+1999,163,Princeton,1999-02-06,88.0143373184649,included_game_day
+1999,163,Princeton,1999-02-09,92.01870432711726,included_game_day
+1999,163,Princeton,1999-02-12,74.09225011115728,included_game_day
+1999,163,Princeton,1999-02-13,78.40299350647213,included_game_day
+1999,163,Princeton,1999-02-19,84.91227432759266,included_game_day
+1999,163,Princeton,1999-02-20,68.3682113079262,included_game_day
+1999,163,Princeton,1999-02-26,74.95060801061089,included_game_day
+1999,163,Princeton,1999-02-27,91.29435632430426,included_game_day
+1999,163,Princeton,1999-03-02,64.08745022271476,included_game_day
+1999,163,Princeton,1999-03-10,68.10660862837524,included_game_day
+1999,163,Princeton,1999-03-15,74.40143341612367,included_game_day
+1999,163,Princeton,1999-03-17,72.47000387910857,included_game_day
+2000,163,Princeton,1999-11-12,-14.0,included_game_day
+2000,163,Princeton,1999-11-13,-16.7,included_game_day
+2000,163,Princeton,1999-11-20,-16.03,included_game_day
+2000,163,Princeton,1999-11-26,-22.227,included_game_day
+2000,163,Princeton,1999-12-03,-23.891489999999997,included_game_day
+2000,163,Princeton,1999-12-04,-5.0304943999999985,included_game_day
+2000,163,Princeton,1999-12-07,0.9350258400000016,included_game_day
+2000,163,Princeton,1999-12-09,7.3344427360000015,included_game_day
+2000,163,Princeton,1999-12-12,21.307715086400002,included_game_day
+2000,163,Princeton,1999-12-18,42.15309675255,included_game_day
+2000,163,Princeton,1999-12-22,33.7345839252989,included_game_day
+2000,163,Princeton,1999-12-27,37.92555871164077,included_game_day
+2000,163,Princeton,1999-12-31,37.5119339943717,included_game_day
+2000,163,Princeton,2000-01-08,33.209324393483584,included_game_day
+2000,163,Princeton,2000-01-28,43.88839723203007,included_game_day
+2000,163,Princeton,2000-01-29,45.03824914011713,included_game_day
+2000,163,Princeton,2000-02-04,52.17618279069513,included_game_day
+2000,163,Princeton,2000-02-05,38.699747772096956,included_game_day
+2000,163,Princeton,2000-02-11,48.97116272938338,included_game_day
+2000,163,Princeton,2000-02-12,51.22162628731263,included_game_day
+2000,163,Princeton,2000-02-15,41.468138229811274,included_game_day
+2000,163,Princeton,2000-02-18,57.55849995718762,included_game_day
+2000,163,Princeton,2000-02-19,78.44448286082837,included_game_day
+2000,163,Princeton,2000-02-25,82.43289965402707,included_game_day
+2000,163,Princeton,2000-02-26,80.13779858936176,included_game_day
+2000,163,Princeton,2000-03-03,68.71066526458358,included_game_day
+2000,163,Princeton,2000-03-04,75.91253675260182,included_game_day
+2000,163,Princeton,2000-03-07,57.33350804424927,included_game_day
+2000,163,Princeton,2000-03-15,46.257700622755166,included_game_day
+2001,163,Princeton,2000-11-14,-34.0,included_game_day
+2001,163,Princeton,2000-11-25,-38.75,included_game_day
+2001,163,Princeton,2000-12-01,-30.659,included_game_day
+2001,163,Princeton,2000-12-02,-24.812199999999997,included_game_day
+2001,163,Princeton,2000-12-06,-26.437115,included_game_day
+2001,163,Princeton,2000-12-09,-16.892345665999997,included_game_day
+2001,163,Princeton,2000-12-14,-17.271829734399997,included_game_day
+2001,163,Princeton,2000-12-18,-36.21938563095999,included_game_day
+2001,163,Princeton,2000-12-23,-24.740058122050993,included_game_day
+2001,163,Princeton,2000-12-26,-30.716505413021974,included_game_day
+2001,163,Princeton,2000-12-27,-39.02462000527721,included_game_day
+2001,163,Princeton,2001-01-12,-19.898785434757897,included_game_day
+2001,163,Princeton,2001-01-13,-11.86825109658299,included_game_day
+2001,163,Princeton,2001-02-02,-15.654180914184593,included_game_day
+2001,163,Princeton,2001-02-03,-7.861026074529284,included_game_day
+2001,163,Princeton,2001-02-09,-10.490118421737264,included_game_day
+2001,163,Princeton,2001-02-10,-4.262183969098308,included_game_day
+2001,163,Princeton,2001-02-13,11.53851001129269,included_game_day
+2001,163,Princeton,2001-02-16,-8.806987566559997,included_game_day
+2001,163,Princeton,2001-02-17,-32.69318250848639,included_game_day
+2001,163,Princeton,2001-02-23,-20.333112071983077,included_game_day
+2001,163,Princeton,2001-02-24,-15.131729121063543,included_game_day
+2001,163,Princeton,2001-03-02,-1.1263891132089796,included_game_day
+2001,163,Princeton,2001-03-03,10.25631532558068,included_game_day
+2001,163,Princeton,2001-03-06,22.34027957994883,included_game_day
+2001,163,Princeton,2001-03-16,11.395935086347729,included_game_day
+2002,163,Princeton Tigers,2001-11-15,-9.0,included_game_day
+2002,163,Princeton Tigers,2001-11-24,-10.154,included_game_day
+2002,163,Princeton Tigers,2001-11-28,1.2730099999999993,included_game_day
+2002,163,Princeton Tigers,2001-12-02,2.0747490000000006,included_game_day
+2002,163,Princeton Tigers,2001-12-03,1.607063600000001,included_game_day
+2002,163,Princeton Tigers,2001-12-08,2.237849560000001,included_game_day
+2002,163,Princeton Tigers,2001-12-12,-13.389767875999999,included_game_day
+2002,163,Princeton Tigers,2001-12-21,-7.668518107199999,included_game_day
+2002,163,Princeton Tigers,2001-12-29,-5.3877643218787945,included_game_day
+2002,163,Princeton Tigers,2002-01-05,-5.306511447163099,included_game_day
+2002,163,Princeton Tigers,2002-01-11,2.105801324800943,included_game_day
+2002,163,Princeton Tigers,2002-01-12,8.968567910090393,included_game_day
+2002,163,Princeton Tigers,2002-02-01,12.41581360074066,included_game_day
+2002,163,Princeton Tigers,2002-02-02,22.988842527205833,included_game_day
+2002,163,Princeton Tigers,2002-02-08,39.468482543224816,included_game_day
+2002,163,Princeton Tigers,2002-02-09,34.10141411303202,included_game_day
+2002,163,Princeton Tigers,2002-02-12,8.44135643427466,included_game_day
+2002,163,Princeton Tigers,2002-02-15,10.830240262114186,included_game_day
+2002,163,Princeton Tigers,2002-02-16,16.8238008139315,included_game_day
+2002,163,Princeton Tigers,2002-02-22,32.95728832127308,included_game_day
+2002,163,Princeton Tigers,2002-02-23,52.3415295049304,included_game_day
+2002,163,Princeton Tigers,2002-03-01,47.21633113753411,included_game_day
+2002,163,Princeton Tigers,2002-03-02,43.47821461865638,included_game_day
+2002,163,Princeton Tigers,2002-03-05,38.06385499343736,included_game_day
+2002,163,Princeton Tigers,2002-03-07,21.916365004275498,included_game_day
+2002,163,Princeton Tigers,2002-03-12,31.38223928837313,included_game_day
+2003,163,Princeton Tigers,2002-11-22,0.0,included_game_day
+2003,163,Princeton Tigers,2002-11-23,-14.91,included_game_day
+2003,163,Princeton Tigers,2002-11-30,-18.269,included_game_day
+2003,163,Princeton Tigers,2002-12-03,-11.476299999999998,included_game_day
+2003,163,Princeton Tigers,2002-12-07,2.351414000000002,included_game_day
+2003,163,Princeton Tigers,2002-12-14,-3.9576441489999983,included_game_day
+2003,163,Princeton Tigers,2002-12-18,-2.817466552699999,included_game_day
+2003,163,Princeton Tigers,2002-12-22,7.219506585780001,included_game_day
+2003,163,Princeton Tigers,2002-12-27,28.96724599049,included_game_day
+2003,163,Princeton Tigers,2002-12-28,24.009658563517988,included_game_day
+2003,163,Princeton Tigers,2003-01-03,29.61995057521989,included_game_day
+2003,163,Princeton Tigers,2003-01-07,50.236221169182755,included_game_day
+2003,163,Princeton Tigers,2003-01-31,48.20663240597273,included_game_day
+2003,163,Princeton Tigers,2003-02-01,37.70000016601581,included_game_day
+2003,163,Princeton Tigers,2003-02-07,41.55461682861679,included_game_day
+2003,163,Princeton Tigers,2003-02-08,49.84875904481568,included_game_day
+2003,163,Princeton Tigers,2003-02-11,45.231313809773035,included_game_day
+2003,163,Princeton Tigers,2003-02-14,31.24721426880417,included_game_day
+2003,163,Princeton Tigers,2003-02-15,31.874321821112034,included_game_day
+2003,163,Princeton Tigers,2003-02-21,35.994321733057504,included_game_day
+2003,163,Princeton Tigers,2003-02-22,32.52548569821485,included_game_day
+2003,163,Princeton Tigers,2003-02-28,41.449346627318334,included_game_day
+2003,163,Princeton Tigers,2003-03-01,27.58840118007966,included_game_day
+2003,163,Princeton Tigers,2003-03-07,23.072442701911264,included_game_day
+2003,163,Princeton Tigers,2003-03-08,9.38353230276104,included_game_day
+2003,163,Princeton Tigers,2003-03-11,6.759287848142267,included_game_day
+2004,163,Princeton Tigers,2003-11-21,6.0,included_game_day
+2004,163,Princeton Tigers,2003-11-28,8.73,included_game_day
+2004,163,Princeton Tigers,2003-12-02,25.45641,included_game_day
+2004,163,Princeton Tigers,2003-12-05,15.527305000000002,included_game_day
+2004,163,Princeton Tigers,2003-12-06,20.8575331,included_game_day
+2004,163,Princeton Tigers,2003-12-13,23.00182989,included_game_day
+2004,163,Princeton Tigers,2003-12-17,15.333321876,included_game_day
+2004,163,Princeton Tigers,2003-12-22,9.7553638653,included_game_day
+2004,163,Princeton Tigers,2003-12-29,26.46471288277,included_game_day
+2004,163,Princeton Tigers,2004-01-03,32.74065398121258,included_game_day
+2004,163,Princeton Tigers,2004-01-07,43.347063685982675,included_game_day
+2004,163,Princeton Tigers,2004-01-10,39.55686157503338,included_game_day
+2004,163,Princeton Tigers,2004-01-30,51.06313833634178,included_game_day
+2004,163,Princeton Tigers,2004-01-31,46.957819475805906,included_game_day
+2004,163,Princeton Tigers,2004-02-06,46.96984473665158,included_game_day
+2004,163,Princeton Tigers,2004-02-07,35.525017889522275,included_game_day
+2004,163,Princeton Tigers,2004-02-10,18.58966589443704,included_game_day
+2004,163,Princeton Tigers,2004-02-13,25.71049590816702,included_game_day
+2004,163,Princeton Tigers,2004-02-14,25.290243599858304,included_game_day
+2004,163,Princeton Tigers,2004-02-20,31.843148502870754,included_game_day
+2004,163,Princeton Tigers,2004-02-21,33.74767595601473,included_game_day
+2004,163,Princeton Tigers,2004-02-27,43.39914150169405,included_game_day
+2004,163,Princeton Tigers,2004-02-28,46.1449603382881,included_game_day
+2004,163,Princeton Tigers,2004-03-05,43.20966767523088,included_game_day
+2004,163,Princeton Tigers,2004-03-06,32.73121301897612,included_game_day
+2004,163,Princeton Tigers,2004-03-09,46.470636877226596,included_game_day
+2004,163,Princeton Tigers,2004-03-18,38.16784873124536,included_game_day
+2005,163,Princeton Tigers,2004-11-11,16.0,included_game_day
+2005,163,Princeton Tigers,2004-11-12,11.1,included_game_day
+2005,163,Princeton Tigers,2004-11-22,8.684,included_game_day
+2005,163,Princeton Tigers,2004-11-27,12.876299999999999,included_game_day
+2005,163,Princeton Tigers,2004-12-01,21.9579516,included_game_day
+2005,163,Princeton Tigers,2004-12-08,29.340399171,included_game_day
+2005,163,Princeton Tigers,2004-12-12,28.355140709,included_game_day
+2005,163,Princeton Tigers,2004-12-20,27.308479689063,included_game_day
+2005,163,Princeton Tigers,2004-12-27,28.07343652762658,included_game_day
+2005,163,Princeton Tigers,2004-12-28,1.4157960057188568,included_game_day
+2005,163,Princeton Tigers,2004-12-31,5.38591325036797,included_game_day
+2005,163,Princeton Tigers,2005-01-02,-1.2090478528114872,included_game_day
+2005,163,Princeton Tigers,2005-01-05,3.8251573089765323,included_game_day
+2005,163,Princeton Tigers,2005-01-28,-3.592836077597423,included_game_day
+2005,163,Princeton Tigers,2005-01-29,4.041916276712681,included_game_day
+2005,163,Princeton Tigers,2005-02-04,-8.640690321194736,included_game_day
+2005,163,Princeton Tigers,2005-02-05,-11.732417465754775,included_game_day
+2005,163,Princeton Tigers,2005-02-08,-6.857275901731082,included_game_day
+2005,163,Princeton Tigers,2005-02-11,-18.80929833942278,included_game_day
+2005,163,Princeton Tigers,2005-02-12,-11.773125072736521,included_game_day
+2005,163,Princeton Tigers,2005-02-18,-23.634143192451646,included_game_day
+2005,163,Princeton Tigers,2005-02-19,-5.300340599551795,included_game_day
+2005,163,Princeton Tigers,2005-02-25,4.350088066479696,included_game_day
+2005,163,Princeton Tigers,2005-02-26,1.241059116683557,included_game_day
+2005,163,Princeton Tigers,2005-03-04,20.411195230228586,included_game_day
+2005,163,Princeton Tigers,2005-03-05,20.545532076014524,included_game_day
+2005,163,Princeton Tigers,2005-03-08,16.463818463713807,included_game_day
+2006,163,Princeton Tigers,2005-11-14,-16.0,included_game_day
+2006,163,Princeton Tigers,2005-11-20,-3.9480000000000004,included_game_day
+2006,163,Princeton Tigers,2005-11-27,-20.8532,included_game_day
+2006,163,Princeton Tigers,2005-12-03,-40.967782,included_game_day
+2006,163,Princeton Tigers,2005-12-06,-49.701672926,included_game_day
+2006,163,Princeton Tigers,2005-12-10,-38.9274023734,included_game_day
+2006,163,Princeton Tigers,2005-12-14,-62.585627918783004,included_game_day
+2006,163,Princeton Tigers,2005-12-17,-68.2999953670447,included_game_day
+2006,163,Princeton Tigers,2005-12-21,-81.4838707103547,included_game_day
+2006,163,Princeton Tigers,2005-12-31,-74.41680318304876,included_game_day
+2006,163,Princeton Tigers,2006-01-05,-79.13750856595739,included_game_day
+2006,163,Princeton Tigers,2006-01-13,-73.59137808948594,included_game_day
+2006,163,Princeton Tigers,2006-01-14,-83.6269252243411,included_game_day
+2006,163,Princeton Tigers,2006-01-29,-81.37646170127121,included_game_day
+2006,163,Princeton Tigers,2006-02-03,-60.801106773462166,included_game_day
+2006,163,Princeton Tigers,2006-02-04,-50.78054560904799,included_game_day
+2006,163,Princeton Tigers,2006-02-10,-41.07460061196218,included_game_day
+2006,163,Princeton Tigers,2006-02-11,-39.54159699945218,included_game_day
+2006,163,Princeton Tigers,2006-02-14,-42.29012593982544,included_game_day
+2006,163,Princeton Tigers,2006-02-17,-30.167766706485928,included_game_day
+2006,163,Princeton Tigers,2006-02-18,-33.71660599400579,included_game_day
+2006,163,Princeton Tigers,2006-02-24,-37.00432473636562,included_game_day
+2006,163,Princeton Tigers,2006-02-25,-12.941966371165698,included_game_day
+2006,163,Princeton Tigers,2006-03-03,-30.569610236079278,included_game_day
+2006,163,Princeton Tigers,2006-03-04,-15.98104541214072,included_game_day
+2006,163,Princeton Tigers,2006-03-07,-10.466842866117608,included_game_day
+2007,163,Princeton Tigers,2006-11-10,-14.0,included_game_day
+2007,163,Princeton Tigers,2006-11-11,-14.1,included_game_day
+2007,163,Princeton Tigers,2006-11-12,4.250000000000002,included_game_day
+2007,163,Princeton Tigers,2006-11-22,18.29,included_game_day
+2007,163,Princeton Tigers,2006-11-28,12.314889,included_game_day
+2007,163,Princeton Tigers,2006-12-01,8.4918881,included_game_day
+2007,163,Princeton Tigers,2006-12-02,6.892110666000001,included_game_day
+2007,163,Princeton Tigers,2006-12-06,2.5147510454000006,included_game_day
+2007,163,Princeton Tigers,2006-12-09,-12.24620129624,included_game_day
+2007,163,Princeton Tigers,2006-12-16,0.9221855697549,included_game_day
+2007,163,Princeton Tigers,2006-12-20,-0.4196217895334904,included_game_day
+2007,163,Princeton Tigers,2006-12-30,2.3397211694300815,included_game_day
+2007,163,Princeton Tigers,2007-01-06,21.00499277479001,included_game_day
+2007,163,Princeton Tigers,2007-01-12,13.627560962484605,included_game_day
+2007,163,Princeton Tigers,2007-01-13,-7.4712847536651985,included_game_day
+2007,163,Princeton Tigers,2007-01-29,-40.06561107589893,included_game_day
+2007,163,Princeton Tigers,2007-02-02,-40.28898600157922,included_game_day
+2007,163,Princeton Tigers,2007-02-03,-53.419808082647464,included_game_day
+2007,163,Princeton Tigers,2007-02-09,-51.963004949755366,included_game_day
+2007,163,Princeton Tigers,2007-02-10,-59.011457197726415,included_game_day
+2007,163,Princeton Tigers,2007-02-13,-59.13527786750055,included_game_day
+2007,163,Princeton Tigers,2007-02-16,-63.386635395448785,included_game_day
+2007,163,Princeton Tigers,2007-02-17,-57.57256298460502,included_game_day
+2007,163,Princeton Tigers,2007-02-23,-66.92862380280467,included_game_day
+2007,163,Princeton Tigers,2007-02-24,-71.98440999106963,included_game_day
+2007,163,Princeton Tigers,2007-03-02,-80.57313035364551,included_game_day
+2007,163,Princeton Tigers,2007-03-03,-78.04478155610556,included_game_day
+2007,163,Princeton Tigers,2007-03-06,-82.96349850244505,included_game_day
+2008,163,Princeton Tigers,2007-11-11,-1.0,included_game_day
+2008,163,Princeton Tigers,2007-11-14,3.8,included_game_day
+2008,163,Princeton Tigers,2007-11-19,-10.850000000000001,included_game_day
+2008,163,Princeton Tigers,2007-11-20,-30.974,included_game_day
+2008,163,Princeton Tigers,2007-11-28,-37.161613,included_game_day
+2008,163,Princeton Tigers,2007-12-01,-34.055798700000004,included_game_day
+2008,163,Princeton Tigers,2007-12-05,-52.818349841,included_game_day
+2008,163,Princeton Tigers,2007-12-12,-66.204351498376,included_game_day
+2008,163,Princeton Tigers,2007-12-16,-68.154358124579,included_game_day
+2008,163,Princeton Tigers,2007-12-22,-63.19414014818398,included_game_day
+2008,163,Princeton Tigers,2007-12-30,-73.73227858460619,included_game_day
+2008,163,Princeton Tigers,2008-01-06,-84.68707563649649,included_game_day
+2008,163,Princeton Tigers,2008-01-09,-84.35511403677062,included_game_day
+2008,163,Princeton Tigers,2008-02-01,-80.70728878552109,included_game_day
+2008,163,Princeton Tigers,2008-02-02,-65.15328622211297,included_game_day
+2008,163,Princeton Tigers,2008-02-08,-60.249560730374654,included_game_day
+2008,163,Princeton Tigers,2008-02-09,-58.26107965506278,included_game_day
+2008,163,Princeton Tigers,2008-02-12,-63.05982126537043,included_game_day
+2008,163,Princeton Tigers,2008-02-15,-72.78923198074311,included_game_day
+2008,163,Princeton Tigers,2008-02-16,-67.96744575518996,included_game_day
+2008,163,Princeton Tigers,2008-02-22,-72.18989711390039,included_game_day
+2008,163,Princeton Tigers,2008-02-23,-94.62037708230619,included_game_day
+2008,163,Princeton Tigers,2008-02-29,-86.05082991182441,included_game_day
+2008,163,Princeton Tigers,2008-03-01,-87.46198478695932,included_game_day
+2008,163,Princeton Tigers,2008-03-07,-75.75106216646415,included_game_day
+2008,163,Princeton Tigers,2008-03-08,-71.8270051761889,included_game_day
+2008,163,Princeton Tigers,2008-03-11,-86.01705682705452,included_game_day
+2009,163,Princeton Tigers,2008-11-14,-5.0,included_game_day
+2009,163,Princeton Tigers,2008-11-19,-7.54,included_game_day
+2009,163,Princeton Tigers,2008-11-23,8.542000000000002,included_game_day
+2009,163,Princeton Tigers,2008-11-26,17.623800000000003,included_game_day
+2009,163,Princeton Tigers,2008-12-02,-8.285477699999998,included_game_day
+2009,163,Princeton Tigers,2008-12-06,-9.841621129999998,included_game_day
+2009,163,Princeton Tigers,2008-12-10,-15.463453820299998,included_game_day
+2009,163,Princeton Tigers,2008-12-14,-18.12767100107,included_game_day
+2009,163,Princeton Tigers,2008-12-20,-23.949888998803598,included_game_day
+2009,163,Princeton Tigers,2008-12-30,-26.89283448993665,included_game_day
+2009,163,Princeton Tigers,2009-01-03,-28.72176250105639,included_game_day
+2009,163,Princeton Tigers,2009-01-07,-16.746492179623132,included_game_day
+2009,163,Princeton Tigers,2009-01-30,-15.594552304541086,included_game_day
+2009,163,Princeton Tigers,2009-01-31,-8.073199874802693,included_game_day
+2009,163,Princeton Tigers,2009-02-06,17.481601331119425,included_game_day
+2009,163,Princeton Tigers,2009-02-07,38.85746465521131,included_game_day
+2009,163,Princeton Tigers,2009-02-13,23.228848837520573,included_game_day
+2009,163,Princeton Tigers,2009-02-14,-2.9008864037904942,included_game_day
+2009,163,Princeton Tigers,2009-02-17,-14.835234833468375,included_game_day
+2009,163,Princeton Tigers,2009-02-20,-19.85086754647453,included_game_day
+2009,163,Princeton Tigers,2009-02-21,-28.630654305413923,included_game_day
+2009,163,Princeton Tigers,2009-02-27,-31.532277364610835,included_game_day
+2009,163,Princeton Tigers,2009-02-28,-22.920942730060553,included_game_day
+2009,163,Princeton Tigers,2009-03-06,-36.50457533013633,included_game_day
+2009,163,Princeton Tigers,2009-03-07,-31.164074707687327,included_game_day
+2009,163,Princeton Tigers,2009-03-10,-27.076383824483386,included_game_day
+2010,163,Princeton Tigers,2009-11-14,6.0,included_game_day
+2010,163,Princeton Tigers,2009-11-18,10.3,included_game_day
+2010,163,Princeton Tigers,2009-11-21,2.210000000000001,included_game_day
+2010,163,Princeton Tigers,2009-11-24,-4.54111,included_game_day
+2010,163,Princeton Tigers,2009-11-29,-18.618852,included_game_day
+2010,163,Princeton Tigers,2009-12-03,-28.5970928,included_game_day
+2010,163,Princeton Tigers,2009-12-06,-16.07077789,included_game_day
+2010,163,Princeton Tigers,2009-12-13,1.1003538839700013,included_game_day
+2010,163,Princeton Tigers,2009-12-16,-2.2143606709969994,included_game_day
+2010,163,Princeton Tigers,2009-12-30,-11.776103329906961,included_game_day
+2010,163,Princeton Tigers,2010-01-02,-2.306754612621827,included_game_day
+2010,163,Princeton Tigers,2010-01-04,-2.26974975436308,included_game_day
+2010,163,Princeton Tigers,2010-01-06,11.875832285722725,included_game_day
+2010,163,Princeton Tigers,2010-01-29,24.006846218753246,included_game_day
+2010,163,Princeton Tigers,2010-01-30,33.5139297785269,included_game_day
+2010,163,Princeton Tigers,2010-02-05,42.08067561227084,included_game_day
+2010,163,Princeton Tigers,2010-02-06,45.70824097757075,included_game_day
+2010,163,Princeton Tigers,2010-02-12,39.78071080382783,included_game_day
+2010,163,Princeton Tigers,2010-02-13,38.30045362752682,included_game_day
+2010,163,Princeton Tigers,2010-02-16,36.110843180985356,included_game_day
+2010,163,Princeton Tigers,2010-02-19,50.537431008243615,included_game_day
+2010,163,Princeton Tigers,2010-02-20,32.49180791403795,included_game_day
+2010,163,Princeton Tigers,2010-02-26,38.67831973976905,included_game_day
+2010,163,Princeton Tigers,2010-02-27,44.434694439928236,included_game_day
+2010,163,Princeton Tigers,2010-03-05,50.95325903155451,included_game_day
+2010,163,Princeton Tigers,2010-03-06,50.836368082588315,included_game_day
+2010,163,Princeton Tigers,2010-03-09,47.955503643684935,included_game_day
+2010,163,Princeton Tigers,2010-03-17,53.61089102221103,included_game_day
+2010,163,Princeton Tigers,2010-03-22,64.08274476321908,included_game_day
+2010,163,Princeton Tigers,2010-03-24,56.00770758524715,included_game_day
+2011,163,Princeton Tigers,2010-11-12,2.0,included_game_day
+2011,163,Princeton Tigers,2010-11-14,-32.2,included_game_day
+2011,163,Princeton Tigers,2010-11-22,-27.371000000000002,included_game_day
+2011,163,Princeton Tigers,2010-11-23,-10.540710000000004,included_game_day
+2011,163,Princeton Tigers,2010-11-24,-16.734230000000004,included_game_day
+2011,163,Princeton Tigers,2010-11-28,-7.368388000000003,included_game_day
+2011,163,Princeton Tigers,2010-11-30,9.678045799999996,included_game_day
+2011,163,Princeton Tigers,2010-12-05,13.991691086399996,included_game_day
+2011,163,Princeton Tigers,2010-12-08,16.626449173839998,included_game_day
+2011,163,Princeton Tigers,2010-12-12,23.460370227745997,included_game_day
+2011,163,Princeton Tigers,2010-12-17,35.5024018366648,included_game_day
+2011,163,Princeton Tigers,2010-12-22,42.23207894424672,included_game_day
+2011,163,Princeton Tigers,2010-12-29,37.59130015073656,included_game_day
+2011,163,Princeton Tigers,2010-12-30,41.53155589428471,included_game_day
+2011,163,Princeton Tigers,2011-01-05,36.08249739442601,included_game_day
+2011,163,Princeton Tigers,2011-01-28,44.43963941922386,included_game_day
+2011,163,Princeton Tigers,2011-01-29,40.560232601918955,included_game_day
+2011,163,Princeton Tigers,2011-02-04,43.272736743272056,included_game_day
+2011,163,Princeton Tigers,2011-02-05,41.03382881295467,included_game_day
+2011,163,Princeton Tigers,2011-02-08,38.32927684404312,included_game_day
+2011,163,Princeton Tigers,2011-02-11,67.54429424758385,included_game_day
+2011,163,Princeton Tigers,2011-02-12,64.54593233257054,included_game_day
+2011,163,Princeton Tigers,2011-02-18,68.41604019962335,included_game_day
+2011,163,Princeton Tigers,2011-02-19,50.664012673559654,included_game_day
+2011,163,Princeton Tigers,2011-02-25,59.49584052364519,included_game_day
+2011,163,Princeton Tigers,2011-02-26,51.76539721831845,included_game_day
+2011,163,Princeton Tigers,2011-03-04,60.31803450623363,included_game_day
+2011,163,Princeton Tigers,2011-03-05,52.16798287240747,included_game_day
+2011,163,Princeton Tigers,2011-03-08,61.746555283234535,included_game_day
+2011,163,Princeton Tigers,2011-03-12,64.2686567350909,included_game_day
+2011,163,Princeton Tigers,2011-03-17,72.46951816127957,included_game_day
+2012,163,Princeton Tigers,2011-11-12,-19.0,included_game_day
+2012,163,Princeton Tigers,2011-11-16,-12.86,included_game_day
+2012,163,Princeton Tigers,2011-11-19,-5.662999999999999,included_game_day
+2012,163,Princeton Tigers,2011-11-22,-10.026699999999998,included_game_day
+2012,163,Princeton Tigers,2011-11-25,-10.541253999999999,included_game_day
+2012,163,Princeton Tigers,2011-11-26,-27.916128599999997,included_game_day
+2012,163,Princeton Tigers,2011-11-30,-13.966678939999998,included_game_day
+2012,163,Princeton Tigers,2011-12-07,-4.696941406199997,included_game_day
+2012,163,Princeton Tigers,2011-12-10,-5.205244242579997,included_game_day
+2012,163,Princeton Tigers,2011-12-14,-9.902851434661997,included_game_day
+2012,163,Princeton Tigers,2011-12-18,1.3697933954542023,included_game_day
+2012,163,Princeton Tigers,2011-12-22,-3.7897183858156174,included_game_day
+2012,163,Princeton Tigers,2011-12-30,8.479352654289837,included_game_day
+2012,163,Princeton Tigers,2012-01-01,13.211475885661876,included_game_day
+2012,163,Princeton Tigers,2012-01-13,5.416120935277765,included_game_day
+2012,163,Princeton Tigers,2012-01-14,11.430593309249211,included_game_day
+2012,163,Princeton Tigers,2012-01-30,-0.8568989163627236,included_game_day
+2012,163,Princeton Tigers,2012-02-03,9.209904422745918,included_game_day
+2012,163,Princeton Tigers,2012-02-04,7.529661409507259,included_game_day
+2012,163,Princeton Tigers,2012-02-10,9.24491509231162,included_game_day
+2012,163,Princeton Tigers,2012-02-11,22.689368982262266,included_game_day
+2012,163,Princeton Tigers,2012-02-17,29.06952782962183,included_game_day
+2012,163,Princeton Tigers,2012-02-18,39.80245367178861,included_game_day
+2012,163,Princeton Tigers,2012-02-24,44.91733657929573,included_game_day
+2012,163,Princeton Tigers,2012-02-25,61.03721093820671,included_game_day
+2012,163,Princeton Tigers,2012-03-02,62.77492485229276,included_game_day
+2012,163,Princeton Tigers,2012-03-03,79.50658054944557,included_game_day
+2012,163,Princeton Tigers,2012-03-06,82.50004818745475,included_game_day
+2012,163,Princeton Tigers,2012-03-13,88.89928692037572,included_game_day
+2012,163,Princeton Tigers,2012-03-19,67.81956860864985,included_game_day
+2013,163,Princeton Tigers,2012-11-10,7.0,included_game_day
+2013,163,Princeton Tigers,2012-11-13,2.0999999999999996,included_game_day
+2013,163,Princeton Tigers,2012-11-16,-5.41,included_game_day
+2013,163,Princeton Tigers,2012-11-21,-17.909,included_game_day
+2013,163,Princeton Tigers,2012-11-24,-0.4291499999999999,included_game_day
+2013,163,Princeton Tigers,2012-11-28,-5.2094886,included_game_day
+2013,163,Princeton Tigers,2012-12-01,13.242990460000001,included_game_day
+2013,163,Princeton Tigers,2012-12-08,-0.41296646278999916,included_game_day
+2013,163,Princeton Tigers,2012-12-15,-9.382908805229,included_game_day
+2013,163,Princeton Tigers,2012-12-20,5.274471545772901,included_game_day
+2013,163,Princeton Tigers,2012-12-22,20.481040349409724,included_game_day
+2013,163,Princeton Tigers,2012-12-30,23.87801377938686,included_game_day
+2013,163,Princeton Tigers,2013-01-05,35.60945586109392,included_game_day
+2013,163,Princeton Tigers,2013-01-12,34.70889238577513,included_game_day
+2013,163,Princeton Tigers,2013-02-01,41.24735008231005,included_game_day
+2013,163,Princeton Tigers,2013-02-02,39.822490250054116,included_game_day
+2013,163,Princeton Tigers,2013-02-08,47.613260023271955,included_game_day
+2013,163,Princeton Tigers,2013-02-09,33.43808745854,included_game_day
+2013,163,Princeton Tigers,2013-02-15,44.81193827682013,included_game_day
+2013,163,Princeton Tigers,2013-02-16,33.90219771269984,included_game_day
+2013,163,Princeton Tigers,2013-02-22,56.5126694785848,included_game_day
+2013,163,Princeton Tigers,2013-02-23,70.78781062003299,included_game_day
+2013,163,Princeton Tigers,2013-03-01,70.98577786582246,included_game_day
+2013,163,Princeton Tigers,2013-03-02,58.323063820150026,included_game_day
+2013,163,Princeton Tigers,2013-03-08,49.38930350486115,included_game_day
+2013,163,Princeton Tigers,2013-03-09,31.168738636591936,included_game_day
+2013,163,Princeton Tigers,2013-03-12,39.6511916852306,included_game_day
+2014,163,Princeton Tigers,2013-11-10,13.5,included_game_day
+2014,163,Princeton Tigers,2013-11-16,14.95,included_game_day
+2014,163,Princeton Tigers,2013-11-20,9.225,included_game_day
+2014,163,Princeton Tigers,2013-11-23,25.3375,included_game_day
+2014,163,Princeton Tigers,2013-11-26,25.143377,included_game_day
+2014,163,Princeton Tigers,2013-11-30,41.2594736,included_game_day
+2014,163,Princeton Tigers,2013-12-07,50.6200689836,included_game_day
+2014,163,Princeton Tigers,2013-12-11,50.960201040866,included_game_day
+2014,163,Princeton Tigers,2013-12-14,57.510204477608404,included_game_day
+2014,163,Princeton Tigers,2013-12-20,80.26908429784757,included_game_day
+2014,163,Princeton Tigers,2013-12-21,64.10426157822431,included_game_day
+2014,163,Princeton Tigers,2013-12-31,60.25885076530088,included_game_day
+2014,163,Princeton Tigers,2014-01-04,60.60833483066898,included_game_day
+2014,163,Princeton Tigers,2014-01-11,49.42384900803368,included_game_day
+2014,163,Princeton Tigers,2014-01-31,50.315912916088585,included_game_day
+2014,163,Princeton Tigers,2014-02-01,36.156762861629545,included_game_day
+2014,163,Princeton Tigers,2014-02-07,31.514398764925282,included_game_day
+2014,163,Princeton Tigers,2014-02-08,35.94849100767011,included_game_day
+2014,163,Princeton Tigers,2014-02-14,41.86944772997985,included_game_day
+2014,163,Princeton Tigers,2014-02-15,41.57524764563847,included_game_day
+2014,163,Princeton Tigers,2014-02-21,39.27576281775544,included_game_day
+2014,163,Princeton Tigers,2014-02-22,29.800292912861146,included_game_day
+2014,163,Princeton Tigers,2014-02-28,36.05607865981286,included_game_day
+2014,163,Princeton Tigers,2014-03-01,36.28392015540716,included_game_day
+2014,163,Princeton Tigers,2014-03-07,64.24291636488061,included_game_day
+2014,163,Princeton Tigers,2014-03-08,73.07181528440853,included_game_day
+2014,163,Princeton Tigers,2014-03-11,60.774679291550434,included_game_day
+2014,163,Princeton Tigers,2014-03-19,51.45893638777903,included_game_day
+2014,163,Princeton Tigers,2014-03-24,37.5928159225041,included_game_day
+2015,163,Princeton Tigers,2014-11-14,3.0,included_game_day
+2015,163,Princeton Tigers,2014-11-16,1.6,included_game_day
+2015,163,Princeton Tigers,2014-11-19,-12.19,included_game_day
+2015,163,Princeton Tigers,2014-11-22,-24.971,included_game_day
+2015,163,Princeton Tigers,2014-11-27,-27.7933,included_game_day
+2015,163,Princeton Tigers,2014-11-28,-32.563171999999994,included_game_day
+2015,163,Princeton Tigers,2014-11-30,-20.151517999999996,included_game_day
+2015,163,Princeton Tigers,2014-12-03,-22.913516199999997,included_game_day
+2015,163,Princeton Tigers,2014-12-06,-10.963631459999997,included_game_day
+2015,163,Princeton Tigers,2014-12-10,-20.872339176999997,included_game_day
+2015,163,Princeton Tigers,2014-12-13,-20.193267776139997,included_game_day
+2015,163,Princeton Tigers,2014-12-19,-3.9292030524119994,included_game_day
+2015,163,Princeton Tigers,2014-12-22,8.014945004672901,included_game_day
+2015,163,Princeton Tigers,2014-12-31,-2.978252328498888,included_game_day
+2015,163,Princeton Tigers,2015-01-06,2.229757771541852,included_game_day
+2015,163,Princeton Tigers,2015-01-10,-0.8532855969695401,included_game_day
+2015,163,Princeton Tigers,2015-01-30,-4.104239757387201,included_game_day
+2015,163,Princeton Tigers,2015-01-31,5.793397820576234,included_game_day
+2015,163,Princeton Tigers,2015-02-06,20.77817410809678,included_game_day
+2015,163,Princeton Tigers,2015-02-07,12.369636607589136,included_game_day
+2015,163,Princeton Tigers,2015-02-13,14.74779866591687,included_game_day
+2015,163,Princeton Tigers,2015-02-14,8.338473027792677,included_game_day
+2015,163,Princeton Tigers,2015-02-20,16.756063467709957,included_game_day
+2015,163,Princeton Tigers,2015-02-21,16.776267367997427,included_game_day
+2015,163,Princeton Tigers,2015-02-27,2.478991480157976,included_game_day
+2015,163,Princeton Tigers,2015-02-28,18.546608402052097,included_game_day
+2015,163,Princeton Tigers,2015-03-06,25.562621494619272,included_game_day
+2015,163,Princeton Tigers,2015-03-07,20.991260622697595,included_game_day
+2015,163,Princeton Tigers,2015-03-10,37.39398142238527,included_game_day
+2016,163,Princeton Tigers,2015-11-13,11.0,included_game_day
+2016,163,Princeton Tigers,2015-11-21,10.0442,included_game_day
+2016,163,Princeton Tigers,2015-11-25,56.0509,included_game_day
+2016,163,Princeton Tigers,2015-11-30,74.169365,included_game_day
+2016,163,Princeton Tigers,2015-12-05,57.6147485,included_game_day
+2016,163,Princeton Tigers,2015-12-08,44.40259313999999,included_game_day
+2016,163,Princeton Tigers,2015-12-12,53.641580793589995,included_game_day
+2016,163,Princeton Tigers,2015-12-17,42.02785846784099,included_game_day
+2016,163,Princeton Tigers,2015-12-19,26.00897379477228,included_game_day
+2016,163,Princeton Tigers,2015-12-22,29.605570504795054,included_game_day
+2016,163,Princeton Tigers,2015-12-29,31.131419374878348,included_game_day
+2016,163,Princeton Tigers,2016-01-03,56.35092154658642,included_game_day
+2016,163,Princeton Tigers,2016-01-05,58.84224874911841,included_game_day
+2016,163,Princeton Tigers,2016-01-09,57.07145372702589,included_game_day
+2016,163,Princeton Tigers,2016-01-29,73.29377647793056,included_game_day
+2016,163,Princeton Tigers,2016-01-30,74.12822810908995,included_game_day
+2016,163,Princeton Tigers,2016-02-05,84.09787106871713,included_game_day
+2016,163,Princeton Tigers,2016-02-06,81.62501447828726,included_game_day
+2016,163,Princeton Tigers,2016-02-12,101.26620379004022,included_game_day
+2016,163,Princeton Tigers,2016-02-13,102.07928590652959,included_game_day
+2016,163,Princeton Tigers,2016-02-19,112.01652514168319,included_game_day
+2016,163,Princeton Tigers,2016-02-20,102.65548726543433,included_game_day
+2016,163,Princeton Tigers,2016-02-26,98.93035623602131,included_game_day
+2016,163,Princeton Tigers,2016-02-27,91.66996504316427,included_game_day
+2016,163,Princeton Tigers,2016-03-04,82.14399016774667,included_game_day
+2016,163,Princeton Tigers,2016-03-05,94.64307560296189,included_game_day
+2016,163,Princeton Tigers,2016-03-08,76.97922682731084,included_game_day
+2016,163,Princeton Tigers,2016-03-16,76.27336574598309,included_game_day
+2017,163,Princeton Tigers,2016-11-14,-6.0,included_game_day
+2017,163,Princeton Tigers,2016-11-20,-11.79,included_game_day
+2017,163,Princeton Tigers,2016-11-23,4.8505,included_game_day
+2017,163,Princeton Tigers,2016-11-29,1.7806569200000002,included_game_day
+2017,163,Princeton Tigers,2016-12-06,-4.9591359999,included_game_day
+2017,163,Princeton Tigers,2016-12-07,7.384011793389999,included_game_day
+2017,163,Princeton Tigers,2016-12-10,9.385891677051,included_game_day
+2017,163,Princeton Tigers,2016-12-14,-3.9275211199840996,included_game_day
+2017,163,Princeton Tigers,2016-12-20,-0.9838298345322904,included_game_day
+2017,163,Princeton Tigers,2016-12-22,7.073066194882339,included_game_day
+2017,163,Princeton Tigers,2016-12-28,23.624485250189565,included_game_day
+2017,163,Princeton Tigers,2016-12-31,43.82712908086616,included_game_day
+2017,163,Princeton Tigers,2017-01-07,48.24483032792563,included_game_day
+2017,163,Princeton Tigers,2017-01-13,67.49465472000418,included_game_day
+2017,163,Princeton Tigers,2017-01-14,70.48595746350517,included_game_day
+2017,163,Princeton Tigers,2017-02-03,64.22187018177092,included_game_day
+2017,163,Princeton Tigers,2017-02-04,64.66491940928006,included_game_day
+2017,163,Princeton Tigers,2017-02-07,74.91160072254414,included_game_day
+2017,163,Princeton Tigers,2017-02-10,68.47614733933723,included_game_day
+2017,163,Princeton Tigers,2017-02-11,58.309880967388565,included_game_day
+2017,163,Princeton Tigers,2017-02-17,77.59515948888043,included_game_day
+2017,163,Princeton Tigers,2017-02-18,81.50026118014037,included_game_day
+2017,163,Princeton Tigers,2017-02-24,94.13288207030058,included_game_day
+2017,163,Princeton Tigers,2017-02-25,98.1816972947522,included_game_day
+2017,163,Princeton Tigers,2017-03-03,95.01201138035466,included_game_day
+2017,163,Princeton Tigers,2017-03-04,113.75290771460064,included_game_day
+2017,163,Princeton Tigers,2017-03-11,112.22094024733101,included_game_day
+2017,163,Princeton Tigers,2017-03-12,115.01046385217701,included_game_day
+2017,163,Princeton Tigers,2017-03-16,115.09279756283418,included_game_day
+2018,163,Princeton Tigers,2017-11-12,-5.5,included_game_day
+2018,163,Princeton Tigers,2017-11-15,-14.25,included_game_day
+2018,163,Princeton Tigers,2017-11-18,-22.775,included_game_day
+2018,163,Princeton Tigers,2017-11-22,-14.966499999999998,included_game_day
+2018,163,Princeton Tigers,2017-11-26,-6.125869999999997,included_game_day
+2018,163,Princeton Tigers,2017-11-29,-20.903078299999997,included_game_day
+2018,163,Princeton Tigers,2017-12-02,-37.68852260999999,included_game_day
+2018,163,Princeton Tigers,2017-12-06,-42.42019862499999,included_game_day
+2018,163,Princeton Tigers,2017-12-12,-32.45157282530899,included_game_day
+2018,163,Princeton Tigers,2017-12-16,-9.884284445374295,included_game_day
+2018,163,Princeton Tigers,2017-12-19,9.743062575623163,included_game_day
+2018,163,Princeton Tigers,2017-12-22,11.426064996098047,included_game_day
+2018,163,Princeton Tigers,2017-12-23,9.269847600216368,included_game_day
+2018,163,Princeton Tigers,2017-12-25,24.9452342835233,included_game_day
+2018,163,Princeton Tigers,2018-01-06,23.062500705720034,included_game_day
+2018,163,Princeton Tigers,2018-01-12,30.00419194621901,included_game_day
+2018,163,Princeton Tigers,2018-01-13,57.50848247788251,included_game_day
+2018,163,Princeton Tigers,2018-02-02,49.608610973967906,included_game_day
+2018,163,Princeton Tigers,2018-02-03,36.690080541933604,included_game_day
+2018,163,Princeton Tigers,2018-02-06,15.431328462416683,included_game_day
+2018,163,Princeton Tigers,2018-02-09,1.5872344426476612,included_game_day
+2018,163,Princeton Tigers,2018-02-10,-16.854423140784654,included_game_day
+2018,163,Princeton Tigers,2018-02-16,-23.44232557970162,included_game_day
+2018,163,Princeton Tigers,2018-02-17,-46.40176560789237,included_game_day
+2018,163,Princeton Tigers,2018-02-23,-47.96754944880516,included_game_day
+2018,163,Princeton Tigers,2018-02-24,-35.414661236810325,included_game_day
+2018,163,Princeton Tigers,2018-03-02,-18.270925797911573,included_game_day
+2018,163,Princeton Tigers,2018-03-03,-16.73074386788234,included_game_day
+2019,163,Princeton Tigers,2018-11-16,-11.112,included_game_day
+2019,163,Princeton Tigers,2018-11-21,-27.2008,included_game_day
+2019,163,Princeton Tigers,2018-11-24,-26.776276,included_game_day
+2019,163,Princeton Tigers,2018-11-28,-12.506198399999999,included_game_day
+2019,163,Princeton Tigers,2018-12-01,0.9346256400000001,included_game_day
+2019,163,Princeton Tigers,2018-12-05,-11.303356894,included_game_day
+2019,163,Princeton Tigers,2018-12-09,-17.602948339789997,included_game_day
+2019,163,Princeton Tigers,2018-12-15,-17.307188208028858,included_game_day
+2019,163,Princeton Tigers,2018-12-18,-44.799322531362975,included_game_day
+2019,163,Princeton Tigers,2018-12-21,-41.31027167921768,included_game_day
+2019,163,Princeton Tigers,2018-12-29,-27.12819846170318,included_game_day
+2019,163,Princeton Tigers,2019-01-05,-23.06296370060479,included_game_day
+2019,163,Princeton Tigers,2019-01-12,-7.810775891726076,included_game_day
+2019,163,Princeton Tigers,2019-02-01,5.9626292075577805,included_game_day
+2019,163,Princeton Tigers,2019-02-02,15.46057749601702,included_game_day
+2019,163,Princeton Tigers,2019-02-08,8.489788793004038,included_game_day
+2019,163,Princeton Tigers,2019-02-09,3.5355585311937734,included_game_day
+2019,163,Princeton Tigers,2019-02-15,-6.571715038889026,included_game_day
+2019,163,Princeton Tigers,2019-02-16,-9.091459528264817,included_game_day
+2019,163,Princeton Tigers,2019-02-22,-2.7585100045736866,included_game_day
+2019,163,Princeton Tigers,2019-02-23,9.678338958449984,included_game_day
+2019,163,Princeton Tigers,2019-03-01,11.428864150508907,included_game_day
+2019,163,Princeton Tigers,2019-03-02,9.36167842075034,included_game_day
+2019,163,Princeton Tigers,2019-03-08,3.5679913156368936,included_game_day
+2019,163,Princeton Tigers,2019-03-09,-17.35374832639873,included_game_day
+2019,163,Princeton Tigers,2019-03-16,-12.091140040027227,included_game_day
+2020,163,Princeton Tigers,2019-11-05,-24.0,included_game_day
+2020,163,Princeton Tigers,2019-11-09,-31.6,included_game_day
+2020,163,Princeton Tigers,2019-11-13,-38.39,included_game_day
+2020,163,Princeton Tigers,2019-11-20,-48.447500000000005,included_game_day
+2020,163,Princeton Tigers,2019-11-26,-41.66373540000001,included_game_day
+2020,163,Princeton Tigers,2019-11-30,-30.25948001500001,included_game_day
+2020,163,Princeton Tigers,2019-12-04,-32.329440013500005,included_game_day
+2020,163,Princeton Tigers,2019-12-10,-36.146554825150005,included_game_day
+2020,163,Princeton Tigers,2019-12-14,-21.209889605015007,included_game_day
+2020,163,Princeton Tigers,2019-12-17,-15.712846852113506,included_game_day
+2020,163,Princeton Tigers,2019-12-19,-30.673672653118153,included_game_day
+2020,163,Princeton Tigers,2019-12-29,-25.915769943136475,included_game_day
+2020,163,Princeton Tigers,2020-01-04,-3.9678796079851395,included_game_day
+2020,163,Princeton Tigers,2020-01-10,-1.409567339864073,included_game_day
+2020,163,Princeton Tigers,2020-01-31,16.450167970681072,included_game_day
+2020,163,Princeton Tigers,2020-02-01,16.495373804710294,included_game_day
+2020,163,Princeton Tigers,2020-02-08,1.4320003451212493,included_game_day
+2020,163,Princeton Tigers,2020-02-09,4.074212971867632,included_game_day
+2020,163,Princeton Tigers,2020-02-14,-15.173164664183155,included_game_day
+2020,163,Princeton Tigers,2020-02-15,2.432795832625075,included_game_day
+2020,163,Princeton Tigers,2020-02-21,8.235941219648037,included_game_day
+2020,163,Princeton Tigers,2020-02-22,11.879143997197673,included_game_day
+2020,163,Princeton Tigers,2020-02-28,32.517278803539476,included_game_day
+2020,163,Princeton Tigers,2020-02-29,36.5377019984016,included_game_day
+2020,163,Princeton Tigers,2020-03-06,44.18837643506126,included_game_day
+2020,163,Princeton Tigers,2020-03-07,27.695409411158685,included_game_day
+2021,163,Princeton Tigers,2021-04-05,0,zero_game_snapshot
+2022,163,Princeton Tigers,2021-11-12,5.5,included_game_day
+2022,163,Princeton Tigers,2021-11-14,-0.5499999999999998,included_game_day
+2022,163,Princeton Tigers,2021-11-17,17.145,included_game_day
+2022,163,Princeton Tigers,2021-11-21,18.526519999999998,included_game_day
+2022,163,Princeton Tigers,2021-11-24,10.815867999999998,included_game_day
+2022,163,Princeton Tigers,2021-11-28,10.722942199999999,included_game_day
+2022,163,Princeton Tigers,2021-12-01,9.16418568,included_game_day
+2022,163,Princeton Tigers,2021-12-04,8.434982734199998,included_game_day
+2022,163,Princeton Tigers,2021-12-07,11.136704114107498,included_game_day
+2022,163,Princeton Tigers,2021-12-11,19.42330950822435,included_game_day
+2022,163,Princeton Tigers,2021-12-13,26.682078586899515,included_game_day
+2022,163,Princeton Tigers,2022-01-07,26.063084322017602,included_game_day
+2022,163,Princeton Tigers,2022-01-08,21.24467774724225,included_game_day
+2022,163,Princeton Tigers,2022-01-15,17.02560485616541,included_game_day
+2022,163,Princeton Tigers,2022-01-17,19.75404647201602,included_game_day
+2022,163,Princeton Tigers,2022-01-22,21.847877569382533,included_game_day
+2022,163,Princeton Tigers,2022-01-29,9.870795056250849,included_game_day
+2022,163,Princeton Tigers,2022-02-04,5.738507788865092,included_game_day
+2022,163,Princeton Tigers,2022-02-05,18.317371366446753,included_game_day
+2022,163,Princeton Tigers,2022-02-12,56.55883995298896,included_game_day
+2022,163,Princeton Tigers,2022-02-18,70.83737579197447,included_game_day
+2022,163,Princeton Tigers,2022-02-19,75.282368123623,included_game_day
+2022,163,Princeton Tigers,2022-02-25,69.67078222735509,included_game_day
+2022,163,Princeton Tigers,2022-02-27,65.18151351034076,included_game_day
+2022,163,Princeton Tigers,2022-03-05,83.4636911671342,included_game_day
+2022,163,Princeton Tigers,2022-03-12,77.02647048137835,included_game_day
+2022,163,Princeton Tigers,2022-03-13,68.99498869396568,included_game_day
+2022,163,Princeton Tigers,2022-03-15,62.54391707153774,included_game_day
+2023,163,Princeton Tigers,2022-11-07,-9.0,included_game_day
+2023,163,Princeton Tigers,2022-11-11,-4.3,included_game_day
+2023,163,Princeton Tigers,2022-11-14,27.23,included_game_day
+2023,163,Princeton Tigers,2022-11-19,33.018,included_game_day
+2023,163,Princeton Tigers,2022-11-24,35.085017,included_game_day
+2023,163,Princeton Tigers,2022-11-26,29.1411253,included_game_day
+2023,163,Princeton Tigers,2022-12-03,49.038910883,included_game_day
+2023,163,Princeton Tigers,2022-12-06,48.8755958893,included_game_day
+2023,163,Princeton Tigers,2022-12-10,68.59967629093,included_game_day
+2023,163,Princeton Tigers,2022-12-13,64.5796022922539,included_game_day
+2023,163,Princeton Tigers,2022-12-16,47.4925095632325,included_game_day
+2023,163,Princeton Tigers,2022-12-31,43.86164475794848,included_game_day
+2023,163,Princeton Tigers,2023-01-06,56.4953026958152,included_game_day
+2023,163,Princeton Tigers,2023-01-07,67.57335955405868,included_game_day
+2023,163,Princeton Tigers,2023-01-14,61.764815489412406,included_game_day
+2023,163,Princeton Tigers,2023-01-16,72.58275194459787,included_game_day
+2023,163,Princeton Tigers,2023-01-21,63.362452042326055,included_game_day
+2023,163,Princeton Tigers,2023-01-28,41.868791083917756,included_game_day
+2023,163,Princeton Tigers,2023-02-03,47.59622973879444,included_game_day
+2023,163,Princeton Tigers,2023-02-04,52.89190211214594,included_game_day
+2023,163,Princeton Tigers,2023-02-11,39.83484114656338,included_game_day
+2023,163,Princeton Tigers,2023-02-17,47.73498708837568,included_game_day
+2023,163,Princeton Tigers,2023-02-18,38.76154360552513,included_game_day
+2023,163,Princeton Tigers,2023-02-25,42.61567860451446,included_game_day
+2023,163,Princeton Tigers,2023-03-04,49.11934641808796,included_game_day
+2023,163,Princeton Tigers,2023-03-11,53.32228066894676,included_game_day
+2023,163,Princeton Tigers,2023-03-12,68.68768459059852,included_game_day
+2023,163,Princeton Tigers,2023-03-16,81.50395980163204,included_game_day
+2023,163,Princeton Tigers,2023-03-18,97.61106583173812,included_game_day
+2023,163,Princeton Tigers,2023-03-24,90.0178758905613,included_game_day
+2024,163,Princeton Tigers,2023-11-06,7.0,included_game_day
+2024,163,Princeton Tigers,2023-11-10,16.3,included_game_day
+2024,163,Princeton Tigers,2023-11-15,23.97,included_game_day
+2024,163,Princeton Tigers,2023-11-18,50.003,included_game_day
+2024,163,Princeton Tigers,2023-11-22,67.6517,included_game_day
+2024,163,Princeton Tigers,2023-11-25,72.24515000000001,included_game_day
+2024,163,Princeton Tigers,2023-11-29,76.31181190000001,included_game_day
+2024,163,Princeton Tigers,2023-12-02,66.59375141800001,included_game_day
+2024,163,Princeton Tigers,2023-12-05,70.92744240390002,included_game_day
+2024,163,Princeton Tigers,2023-12-10,69.61669208664001,included_game_day
+2024,163,Princeton Tigers,2023-12-30,69.63860421558275,included_game_day
+2024,163,Princeton Tigers,2024-01-06,88.4300731651081,included_game_day
+2024,163,Princeton Tigers,2024-01-15,84.77883932344105,included_game_day
+2024,163,Princeton Tigers,2024-01-20,85.57971429570512,included_game_day
+2024,163,Princeton Tigers,2024-01-27,69.02842446197474,included_game_day
+2024,163,Princeton Tigers,2024-02-02,65.19338396308662,included_game_day
+2024,163,Princeton Tigers,2024-02-03,67.85111720512887,included_game_day
+2024,163,Princeton Tigers,2024-02-10,61.43312849546851,included_game_day
+2024,163,Princeton Tigers,2024-02-16,55.821570734859606,included_game_day
+2024,163,Princeton Tigers,2024-02-17,65.52860772325818,included_game_day
+2024,163,Princeton Tigers,2024-02-23,72.52531464712997,included_game_day
+2024,163,Princeton Tigers,2024-02-24,69.44721304468558,included_game_day
+2024,163,Princeton Tigers,2024-03-01,71.30255476482711,included_game_day
+2024,163,Princeton Tigers,2024-03-02,66.73497381598659,included_game_day
+2024,163,Princeton Tigers,2024-03-09,82.1541656405097,included_game_day
+2024,163,Princeton Tigers,2024-03-16,65.65167158176429,included_game_day
+2024,163,Princeton Tigers,2024-03-20,56.71477287805473,included_game_day
+2025,163,Princeton Tigers,2024-11-04,-2.0,included_game_day
+2025,163,Princeton Tigers,2024-11-08,4.4,included_game_day
+2025,163,Princeton Tigers,2024-11-10,11.06,included_game_day
+2025,163,Princeton Tigers,2024-11-15,4.214,included_game_day
+2025,163,Princeton Tigers,2024-11-17,17.0154,included_game_day
+2025,163,Princeton Tigers,2024-11-21,-4.704139999999999,included_game_day
+2025,163,Princeton Tigers,2024-11-22,-7.899125999999999,included_game_day
+2025,163,Princeton Tigers,2024-11-24,14.9311976,included_game_day
+2025,163,Princeton Tigers,2024-12-03,28.185135090000003,included_game_day
+2025,163,Princeton Tigers,2024-12-07,23.6118312973,included_game_day
+2025,163,Princeton Tigers,2024-12-10,15.834714271969998,included_game_day
+2025,163,Princeton Tigers,2024-12-21,18.442466319080246,included_game_day
+2025,163,Princeton Tigers,2024-12-30,13.662558083372272,included_game_day
+2025,163,Princeton Tigers,2025-01-11,15.864929013729489,included_game_day
+2025,163,Princeton Tigers,2025-01-18,15.535967390918628,included_game_day
+2025,163,Princeton Tigers,2025-01-20,14.734190197691301,included_game_day
+2025,163,Princeton Tigers,2025-01-25,3.652076427349101,included_game_day
+2025,163,Princeton Tigers,2025-01-31,2.2275912383150747,included_game_day
+2025,163,Princeton Tigers,2025-02-01,16.527822250140602,included_game_day
+2025,163,Princeton Tigers,2025-02-07,13.627085826211069,included_game_day
+2025,163,Princeton Tigers,2025-02-14,-2.5700388588757157,included_game_day
+2025,163,Princeton Tigers,2025-02-15,-16.25473052118051,included_game_day
+2025,163,Princeton Tigers,2025-02-21,-17.037515469553405,included_game_day
+2025,163,Princeton Tigers,2025-02-22,-30.604795897981948,included_game_day
+2025,163,Princeton Tigers,2025-02-28,-28.329157357571106,included_game_day
+2025,163,Princeton Tigers,2025-03-02,-51.91930197108063,included_game_day
+2025,163,Princeton Tigers,2025-03-08,-30.587443610322165,included_game_day
+2025,163,Princeton Tigers,2025-03-15,-20.278590944590913,included_game_day
+2026,163,Princeton Tigers,2025-11-08,-30.9,included_game_day
+2026,163,Princeton Tigers,2025-11-11,-19.09,included_game_day
+2026,163,Princeton Tigers,2025-11-15,-27.863,included_game_day
+2026,163,Princeton Tigers,2025-11-18,-40.2908,included_game_day
+2026,163,Princeton Tigers,2025-11-20,-25.640119999999996,included_game_day
+2026,163,Princeton Tigers,2025-11-24,-47.3369211,included_game_day
+2026,163,Princeton Tigers,2025-11-25,-45.195689189999996,included_game_day
+2026,163,Princeton Tigers,2025-11-26,-45.37746375099999,included_game_day
+2026,163,Princeton Tigers,2025-11-30,-45.852634375899996,included_game_day
+2026,163,Princeton Tigers,2025-12-03,-43.116833000309995,included_game_day
+2026,163,Princeton Tigers,2025-12-06,-47.00577204517899,included_game_day
+2026,163,Princeton Tigers,2025-12-10,-53.72115017076939,included_game_day
+2026,163,Princeton Tigers,2025-12-22,-48.07670246075942,included_game_day
+2026,163,Princeton Tigers,2025-12-30,-40.6655618619554,included_game_day
+2026,163,Princeton Tigers,2026-01-05,-39.62859645790053,included_game_day
+2026,163,Princeton Tigers,2026-01-10,-16.70703286554093,included_game_day
+2026,163,Princeton Tigers,2026-01-17,-16.72513447726155,included_game_day
+2026,163,Princeton Tigers,2026-01-19,-15.032775599539232,included_game_day
+2026,163,Princeton Tigers,2026-01-24,-10.73943265056067,included_game_day
+2026,163,Princeton Tigers,2026-01-30,-29.71332158475379,included_game_day
+2026,163,Princeton Tigers,2026-01-31,-10.501580854679574,included_game_day
+2026,163,Princeton Tigers,2026-02-07,-6.804839825178697,included_game_day
+2026,163,Princeton Tigers,2026-02-13,-30.548128743062293,included_game_day
+2026,163,Princeton Tigers,2026-02-14,-43.7526146758148,included_game_day
+2026,163,Princeton Tigers,2026-02-20,-49.392143755397996,included_game_day
+2026,163,Princeton Tigers,2026-02-27,-44.24615608682579,included_game_day
+2026,163,Princeton Tigers,2026-02-28,-25.488191261590398,included_game_day
+2026,163,Princeton Tigers,2026-03-07,-38.2736148384593,included_game_day
+2027,163,Princeton Tigers,2026-11-05,-1.0,included_game_day
+2027,163,Princeton Tigers,2026-11-08,-12.1,included_game_day
+2027,163,Princeton Tigers,2026-11-11,-4.66,included_game_day
+2027,163,Princeton Tigers,2026-11-15,-2.5595099999999995,included_game_day
+2027,163,Princeton Tigers,2026-11-20,4.449534000000001,included_game_day

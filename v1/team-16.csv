@@ -1,0 +1,943 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1992,16,CS Sacramento,1991-11-22,-12.0,included_game_day
+1992,16,CS Sacramento,1991-11-25,-27.0,included_game_day
+1992,16,CS Sacramento,1991-11-27,-34.2,included_game_day
+1992,16,CS Sacramento,1991-11-30,-40.92,included_game_day
+1992,16,CS Sacramento,1991-12-02,-68.62100000000001,included_game_day
+1992,16,CS Sacramento,1991-12-06,-89.77790000000002,included_game_day
+1992,16,CS Sacramento,1991-12-07,-89.48818100000001,included_game_day
+1992,16,CS Sacramento,1991-12-10,-89.1238629,included_game_day
+1992,16,CS Sacramento,1991-12-15,-118.26774041,included_game_day
+1992,16,CS Sacramento,1991-12-20,-123.186569851762,included_game_day
+1992,16,CS Sacramento,1991-12-23,-129.2311106098858,included_game_day
+1992,16,CS Sacramento,1991-12-28,-138.3371916222877,included_game_day
+1992,16,CS Sacramento,1991-12-30,-129.0412310075738,included_game_day
+1992,16,CS Sacramento,1992-01-02,-124.00198480498398,included_game_day
+1992,16,CS Sacramento,1992-01-04,-150.78259163562834,included_game_day
+1992,16,CS Sacramento,1992-01-09,-132.39134621135372,included_game_day
+1992,16,CS Sacramento,1992-01-11,-137.44473797257484,included_game_day
+1992,16,CS Sacramento,1992-01-13,-139.16531819215814,included_game_day
+1992,16,CS Sacramento,1992-01-20,-137.98177454738675,included_game_day
+1992,16,CS Sacramento,1992-01-31,-138.01013168736262,included_game_day
+1992,16,CS Sacramento,1992-02-03,-136.65064784134404,included_game_day
+1992,16,CS Sacramento,1992-02-08,-139.80928193792658,included_game_day
+1992,16,CS Sacramento,1992-02-11,-147.8961683003501,included_game_day
+1992,16,CS Sacramento,1992-02-13,-151.86449312150367,included_game_day
+1992,16,CS Sacramento,1992-02-20,-167.45824260536529,included_game_day
+1992,16,CS Sacramento,1992-02-22,-159.4462909805271,included_game_day
+1993,16,CS Sacramento,1992-12-01,-21.0,included_game_day
+1993,16,CS Sacramento,1992-12-03,-44.9,included_game_day
+1993,16,CS Sacramento,1992-12-05,-58.41,included_game_day
+1993,16,CS Sacramento,1992-12-07,-78.169,included_game_day
+1993,16,CS Sacramento,1992-12-12,-104.6141,included_game_day
+1993,16,CS Sacramento,1992-12-14,-111.74768999999999,included_game_day
+1993,16,CS Sacramento,1992-12-17,-109.4756913,included_game_day
+1993,16,CS Sacramento,1992-12-21,-100.77121516999999,included_game_day
+1993,16,CS Sacramento,1992-12-23,-115.87258465299999,included_game_day
+1993,16,CS Sacramento,1993-01-02,-120.92130067930573,included_game_day
+1993,16,CS Sacramento,1993-01-04,-132.31653782067517,included_game_day
+1993,16,CS Sacramento,1993-01-06,-135.657568647469,included_game_day
+1993,16,CS Sacramento,1993-01-07,-136.3865368739221,included_game_day
+1993,16,CS Sacramento,1993-01-09,-131.50730181098447,included_game_day
+1993,16,CS Sacramento,1993-01-11,-131.53290684465114,included_game_day
+1993,16,CS Sacramento,1993-01-13,-122.7311314091018,included_game_day
+1993,16,CS Sacramento,1993-01-14,-117.1810496117572,included_game_day
+1993,16,CS Sacramento,1993-01-20,-114.13175389148242,included_game_day
+1993,16,CS Sacramento,1993-01-23,-145.35245920859023,included_game_day
+1993,16,CS Sacramento,1993-01-28,-149.45739204466503,included_game_day
+1993,16,CS Sacramento,1993-02-04,-138.83984456214174,included_game_day
+1993,16,CS Sacramento,1993-02-06,-133.32183445330568,included_game_day
+1993,16,CS Sacramento,1993-02-17,-124.00369045847106,included_game_day
+1993,16,CS Sacramento,1993-02-20,-116.74051869255807,included_game_day
+1993,16,CS Sacramento,1993-02-25,-124.08806934352596,included_game_day
+1993,16,CS Sacramento,1993-02-27,-114.8338282851199,included_game_day
+1994,16,CS Sacramento,1993-11-26,-37.0,included_game_day
+1994,16,CS Sacramento,1993-11-28,-58.3,included_game_day
+1994,16,CS Sacramento,1993-12-01,-78.447,included_game_day
+1994,16,CS Sacramento,1993-12-04,-68.9023,included_game_day
+1994,16,CS Sacramento,1993-12-06,-75.2070487,included_game_day
+1994,16,CS Sacramento,1993-12-11,-76.73784383,included_game_day
+1994,16,CS Sacramento,1993-12-18,-84.328739447,included_game_day
+1994,16,CS Sacramento,1993-12-20,-97.96785648330001,included_game_day
+1994,16,CS Sacramento,1993-12-23,-115.62027292268002,included_game_day
+1994,16,CS Sacramento,1994-01-01,-109.47016114022485,included_game_day
+1994,16,CS Sacramento,1994-01-03,-122.18150188990036,included_game_day
+1994,16,CS Sacramento,1994-01-05,-134.53255265383947,included_game_day
+1994,16,CS Sacramento,1994-01-08,-152.82026808085266,included_game_day
+1994,16,CS Sacramento,1994-01-12,-166.4168020282591,included_game_day
+1994,16,CS Sacramento,1994-01-15,-188.20266370490128,included_game_day
+1994,16,CS Sacramento,1994-01-18,-187.1701352336163,included_game_day
+1994,16,CS Sacramento,1994-01-23,-180.65955976176636,included_game_day
+1994,16,CS Sacramento,1994-01-24,-169.42606100401116,included_game_day
+1994,16,CS Sacramento,1994-01-26,-173.5845356884139,included_game_day
+1994,16,CS Sacramento,1994-01-29,-181.0985197849151,included_game_day
+1994,16,CS Sacramento,1994-02-05,-187.5697990757907,included_game_day
+1994,16,CS Sacramento,1994-02-14,-186.21380441343712,included_game_day
+1994,16,CS Sacramento,1994-02-16,-187.6241100018229,included_game_day
+1994,16,CS Sacramento,1994-02-19,-217.33542476344886,included_game_day
+1994,16,CS Sacramento,1994-02-22,-201.2275453575179,included_game_day
+1994,16,CS Sacramento,1994-02-26,-202.49373380455756,included_game_day
+1994,16,CS Sacramento,1994-03-01,-208.56757825849277,included_game_day
+1995,16,CS Sacramento,1994-11-26,-12.0,included_game_day
+1995,16,CS Sacramento,1994-11-29,-22.982,included_game_day
+1995,16,CS Sacramento,1994-12-01,-58.2638,included_game_day
+1995,16,CS Sacramento,1994-12-03,-61.43742,included_game_day
+1995,16,CS Sacramento,1994-12-06,-93.676298,included_game_day
+1995,16,CS Sacramento,1994-12-10,-103.9586682,included_game_day
+1995,16,CS Sacramento,1994-12-20,-99.24909438,included_game_day
+1995,16,CS Sacramento,1994-12-23,-117.815224942,included_game_day
+1995,16,CS Sacramento,1994-12-28,-120.3231511521,included_game_day
+1995,16,CS Sacramento,1994-12-29,-111.08633987626052,included_game_day
+1995,16,CS Sacramento,1994-12-31,-101.30476908675548,included_game_day
+1995,16,CS Sacramento,1995-01-03,-116.5379302941664,included_game_day
+1995,16,CS Sacramento,1995-01-05,-94.27937290748963,included_game_day
+1995,16,CS Sacramento,1995-01-08,-84.8890838185763,included_game_day
+1995,16,CS Sacramento,1995-01-17,-91.04391511687245,included_game_day
+1995,16,CS Sacramento,1995-01-19,-83.9123022674003,included_game_day
+1995,16,CS Sacramento,1995-01-26,-77.61064219592924,included_game_day
+1995,16,CS Sacramento,1995-02-02,-98.20554184469958,included_game_day
+1995,16,CS Sacramento,1995-02-04,-98.97257977589115,included_game_day
+1995,16,CS Sacramento,1995-02-07,-105.79814760046833,included_game_day
+1995,16,CS Sacramento,1995-02-11,-101.7901096089951,included_game_day
+1995,16,CS Sacramento,1995-02-14,-107.4789887302216,included_game_day
+1995,16,CS Sacramento,1995-02-18,-122.41339553038787,included_game_day
+1995,16,CS Sacramento,1995-02-22,-162.9829699735635,included_game_day
+1995,16,CS Sacramento,1995-02-28,-160.4800148000502,included_game_day
+1995,16,CS Sacramento,1995-03-04,-180.45678138362143,included_game_day
+1995,16,CS Sacramento,1995-03-10,-175.95717037552097,included_game_day
+1996,16,CS Sacramento,1995-11-24,-7.0,included_game_day
+1996,16,CS Sacramento,1995-11-27,-13.6,included_game_day
+1996,16,CS Sacramento,1995-12-07,-24.559779,included_game_day
+1996,16,CS Sacramento,1995-12-08,-65.01697709999999,included_game_day
+1996,16,CS Sacramento,1995-12-13,-57.18543828999999,included_game_day
+1996,16,CS Sacramento,1995-12-16,-59.31289446099999,included_game_day
+1996,16,CS Sacramento,1995-12-23,-76.72941544991299,included_game_day
+1996,16,CS Sacramento,1995-12-27,-88.87521880492169,included_game_day
+1996,16,CS Sacramento,1995-12-28,-91.94771970188852,included_game_day
+1996,16,CS Sacramento,1996-01-03,-82.18285179796723,included_game_day
+1996,16,CS Sacramento,1996-01-05,-108.49532794605958,included_game_day
+1996,16,CS Sacramento,1996-01-07,-111.8800269225007,included_game_day
+1996,16,CS Sacramento,1996-01-13,-112.3272914602335,included_game_day
+1996,16,CS Sacramento,1996-01-16,-111.72118897695721,included_game_day
+1996,16,CS Sacramento,1996-01-20,-125.03619434975886,included_game_day
+1996,16,CS Sacramento,1996-01-24,-136.4497478978307,included_game_day
+1996,16,CS Sacramento,1996-02-01,-141.9556157918007,included_game_day
+1996,16,CS Sacramento,1996-02-03,-146.6053527086568,included_game_day
+1996,16,CS Sacramento,1996-02-06,-140.05592009092015,included_game_day
+1996,16,CS Sacramento,1996-02-13,-147.70357042558985,included_game_day
+1996,16,CS Sacramento,1996-02-17,-163.53380751649865,included_game_day
+1996,16,CS Sacramento,1996-02-22,-142.1979971892257,included_game_day
+1996,16,CS Sacramento,1996-02-24,-125.08320274565672,included_game_day
+1996,16,CS Sacramento,1996-02-27,-119.29580847575389,included_game_day
+1996,16,CS Sacramento,1996-03-01,-116.83051759352834,included_game_day
+1997,16,CS Sacramento,1996-11-22,13.0,included_game_day
+1997,16,CS Sacramento,1996-11-26,-0.620000000000001,included_game_day
+1997,16,CS Sacramento,1996-11-30,-22.244,included_game_day
+1997,16,CS Sacramento,1996-12-06,-58.36249,included_game_day
+1997,16,CS Sacramento,1996-12-07,-70.653321,included_game_day
+1997,16,CS Sacramento,1996-12-14,-75.9312489,included_game_day
+1997,16,CS Sacramento,1996-12-23,-106.3268852920102,included_game_day
+1997,16,CS Sacramento,1997-01-04,-115.89009705235745,included_game_day
+1997,16,CS Sacramento,1997-01-09,-108.4617235417072,included_game_day
+1997,16,CS Sacramento,1997-01-15,-132.62695719331725,included_game_day
+1997,16,CS Sacramento,1997-01-18,-152.3626738844447,included_game_day
+1997,16,CS Sacramento,1997-01-22,-156.3469158075023,included_game_day
+1997,16,CS Sacramento,1997-01-23,-173.16912984969684,included_game_day
+1997,16,CS Sacramento,1997-01-26,-178.71226114093255,included_game_day
+1997,16,CS Sacramento,1997-01-30,-175.15838005598854,included_game_day
+1997,16,CS Sacramento,1997-02-01,-166.135563479982,included_game_day
+1997,16,CS Sacramento,1997-02-08,-147.11397015705788,included_game_day
+1997,16,CS Sacramento,1997-02-13,-171.04524771123994,included_game_day
+1997,16,CS Sacramento,1997-02-15,-176.8244166102016,included_game_day
+1997,16,CS Sacramento,1997-02-20,-158.32958297704886,included_game_day
+1997,16,CS Sacramento,1997-02-22,-149.11216375633026,included_game_day
+1997,16,CS Sacramento,1997-02-27,-164.17650966401357,included_game_day
+1997,16,CS Sacramento,1997-03-01,-178.5398161387958,included_game_day
+1998,16,CS Sacramento,1997-11-16,-43.9,included_game_day
+1998,16,CS Sacramento,1997-11-19,-52.51,included_game_day
+1998,16,CS Sacramento,1997-11-22,-76.65899999999999,included_game_day
+1998,16,CS Sacramento,1997-11-29,-98.1231,included_game_day
+1998,16,CS Sacramento,1997-12-04,-98.6559099,included_game_day
+1998,16,CS Sacramento,1997-12-06,-94.9638053,included_game_day
+1998,16,CS Sacramento,1997-12-10,-103.23152267,included_game_day
+1998,16,CS Sacramento,1997-12-13,-93.535834503,included_game_day
+1998,16,CS Sacramento,1997-12-22,-122.61021980713426,included_game_day
+1998,16,CS Sacramento,1998-01-08,-122.50273916106197,included_game_day
+1998,16,CS Sacramento,1998-01-15,-122.6936875186131,included_game_day
+1998,16,CS Sacramento,1998-01-17,-125.81239499224144,included_game_day
+1998,16,CS Sacramento,1998-01-22,-113.62051171531495,included_game_day
+1998,16,CS Sacramento,1998-01-23,-107.56316776388343,included_game_day
+1998,16,CS Sacramento,1998-01-29,-110.18710289621293,included_game_day
+1998,16,CS Sacramento,1998-01-31,-132.83970800459304,included_game_day
+1998,16,CS Sacramento,1998-02-07,-124.5437745506958,included_game_day
+1998,16,CS Sacramento,1998-02-12,-125.25869715075909,included_game_day
+1998,16,CS Sacramento,1998-02-14,-129.68376572745237,included_game_day
+1998,16,CS Sacramento,1998-02-19,-144.2831503968043,included_game_day
+1998,16,CS Sacramento,1998-02-21,-180.0670750453652,included_game_day
+1998,16,CS Sacramento,1998-02-27,-196.9466663831632,included_game_day
+1998,16,CS Sacramento,1998-02-28,-212.61855874351122,included_game_day
+1999,16,CS Sacramento,1998-11-19,-7.0,included_game_day
+1999,16,CS Sacramento,1998-11-21,-23.66,included_game_day
+1999,16,CS Sacramento,1998-11-23,-62.134,included_game_day
+1999,16,CS Sacramento,1998-11-28,-71.43749,included_game_day
+1999,16,CS Sacramento,1998-12-01,-97.1946436,included_game_day
+1999,16,CS Sacramento,1998-12-05,-93.32517714400001,included_game_day
+1999,16,CS Sacramento,1998-12-09,-89.07181304960001,included_game_day
+1999,16,CS Sacramento,1998-12-19,-104.14371756204001,included_game_day
+1999,16,CS Sacramento,1998-12-22,-112.87439631118171,included_game_day
+1999,16,CS Sacramento,1998-12-29,-133.78019290995582,included_game_day
+1999,16,CS Sacramento,1999-01-02,-125.42600202494035,included_game_day
+1999,16,CS Sacramento,1999-01-04,-119.82298840905062,included_game_day
+1999,16,CS Sacramento,1999-01-14,-154.2550042918871,included_game_day
+1999,16,CS Sacramento,1999-01-17,-140.52223885341527,included_game_day
+1999,16,CS Sacramento,1999-01-20,-140.60978513303613,included_game_day
+1999,16,CS Sacramento,1999-01-23,-143.38088470625144,included_game_day
+1999,16,CS Sacramento,1999-01-25,-151.01935384483536,included_game_day
+1999,16,CS Sacramento,1999-01-27,-139.17827837932072,included_game_day
+1999,16,CS Sacramento,1999-02-04,-156.4963869137563,included_game_day
+1999,16,CS Sacramento,1999-02-06,-178.23765860058919,included_game_day
+1999,16,CS Sacramento,1999-02-11,-162.10749346067928,included_game_day
+1999,16,CS Sacramento,1999-02-13,-149.1395581163109,included_game_day
+1999,16,CS Sacramento,1999-02-18,-159.66106221595004,included_game_day
+1999,16,CS Sacramento,1999-02-20,-153.93589684500975,included_game_day
+1999,16,CS Sacramento,1999-02-25,-145.15072349692133,included_game_day
+1999,16,CS Sacramento,1999-02-27,-166.69907772608275,included_game_day
+2000,16,CS Sacramento,1999-11-22,4.0,included_game_day
+2000,16,CS Sacramento,1999-11-26,14.393,included_game_day
+2000,16,CS Sacramento,1999-12-03,22.3358,included_game_day
+2000,16,CS Sacramento,1999-12-04,-6.5231892999999985,included_game_day
+2000,16,CS Sacramento,1999-12-08,-8.380238369999999,included_game_day
+2000,16,CS Sacramento,1999-12-11,-13.900926942999998,included_game_day
+2000,16,CS Sacramento,1999-12-18,-25.137817688459997,included_game_day
+2000,16,CS Sacramento,1999-12-21,-22.54874140773,included_game_day
+2000,16,CS Sacramento,1999-12-27,-32.47075172170614,included_game_day
+2000,16,CS Sacramento,1999-12-30,-30.460815321559885,included_game_day
+2000,16,CS Sacramento,2000-01-04,-29.162584987516606,included_game_day
+2000,16,CS Sacramento,2000-01-08,-42.5264860822549,included_game_day
+2000,16,CS Sacramento,2000-01-20,-40.28837684304169,included_game_day
+2000,16,CS Sacramento,2000-01-22,-38.99802700976233,included_game_day
+2000,16,CS Sacramento,2000-01-27,-54.537264929733695,included_game_day
+2000,16,CS Sacramento,2000-01-29,-64.74660111122698,included_game_day
+2000,16,CS Sacramento,2000-02-03,-68.25849687237505,included_game_day
+2000,16,CS Sacramento,2000-02-04,-61.04106138541869,included_game_day
+2000,16,CS Sacramento,2000-02-10,-45.097633850571526,included_game_day
+2000,16,CS Sacramento,2000-02-12,-59.55388239121491,included_game_day
+2000,16,CS Sacramento,2000-02-17,-69.49039188753798,included_game_day
+2000,16,CS Sacramento,2000-02-19,-62.03041119913669,included_game_day
+2000,16,CS Sacramento,2000-02-24,-81.04100419340244,included_game_day
+2000,16,CS Sacramento,2000-02-26,-85.97406850264905,included_game_day
+2000,16,CS Sacramento,2000-03-01,-92.6111223978768,included_game_day
+2000,16,CS Sacramento,2000-03-04,-101.61024252392235,included_game_day
+2001,16,CS Sacramento,2000-11-22,5.9,included_game_day
+2001,16,CS Sacramento,2000-11-28,-16.740000000000002,included_game_day
+2001,16,CS Sacramento,2000-12-02,-31.1557625,included_game_day
+2001,16,CS Sacramento,2000-12-06,-39.602462481,included_game_day
+2001,16,CS Sacramento,2000-12-09,-59.897288932900004,included_game_day
+2001,16,CS Sacramento,2000-12-16,-72.70054999961,included_game_day
+2001,16,CS Sacramento,2000-12-20,-93.6452848664189,included_game_day
+2001,16,CS Sacramento,2000-12-23,-91.97672614978312,included_game_day
+2001,16,CS Sacramento,2001-01-04,-95.92775444726487,included_game_day
+2001,16,CS Sacramento,2001-01-06,-100.13235794261234,included_game_day
+2001,16,CS Sacramento,2001-01-11,-107.03699850174436,included_game_day
+2001,16,CS Sacramento,2001-01-13,-106.31189196631176,included_game_day
+2001,16,CS Sacramento,2001-01-24,-102.07512822958928,included_game_day
+2001,16,CS Sacramento,2001-01-26,-101.26659891730772,included_game_day
+2001,16,CS Sacramento,2001-01-31,-111.26666923477882,included_game_day
+2001,16,CS Sacramento,2001-02-03,-108.73877251760993,included_game_day
+2001,16,CS Sacramento,2001-02-07,-91.72826797721083,included_game_day
+2001,16,CS Sacramento,2001-02-08,-90.70858065937969,included_game_day
+2001,16,CS Sacramento,2001-02-15,-95.47121426347066,included_game_day
+2001,16,CS Sacramento,2001-02-17,-94.37534504392018,included_game_day
+2001,16,CS Sacramento,2001-02-22,-76.98064953633104,included_game_day
+2001,16,CS Sacramento,2001-02-24,-82.61984203848111,included_game_day
+2001,16,CS Sacramento,2001-03-01,-94.03628798403342,included_game_day
+2001,16,CS Sacramento,2001-03-03,-112.14051282639983,included_game_day
+2002,16,Sacramento State Hornets,2001-11-21,1.0,included_game_day
+2002,16,Sacramento State Hornets,2001-11-28,-12.876999999999999,included_game_day
+2002,16,Sacramento State Hornets,2001-12-03,-5.237222999999999,included_game_day
+2002,16,Sacramento State Hornets,2001-12-06,-7.670020699999999,included_game_day
+2002,16,Sacramento State Hornets,2001-12-08,-22.37510376,included_game_day
+2002,16,Sacramento State Hornets,2001-12-15,-31.850833613999995,included_game_day
+2002,16,Sacramento State Hornets,2001-12-17,-27.410718642599996,included_game_day
+2002,16,Sacramento State Hornets,2001-12-27,-58.2964683823883,included_game_day
+2002,16,Sacramento State Hornets,2001-12-30,-75.66234751605046,included_game_day
+2002,16,Sacramento State Hornets,2002-01-03,-63.30914121068563,included_game_day
+2002,16,Sacramento State Hornets,2002-01-11,-65.602715118332,included_game_day
+2002,16,Sacramento State Hornets,2002-01-12,-58.62268199226596,included_game_day
+2002,16,Sacramento State Hornets,2002-01-19,-40.83163850354537,included_game_day
+2002,16,Sacramento State Hornets,2002-01-25,-12.733502813900131,included_game_day
+2002,16,Sacramento State Hornets,2002-01-26,-29.417216553246085,included_game_day
+2002,16,Sacramento State Hornets,2002-02-01,-32.3825596556666,included_game_day
+2002,16,Sacramento State Hornets,2002-02-02,-49.34547704969327,included_game_day
+2002,16,Sacramento State Hornets,2002-02-08,-48.966670276300576,included_game_day
+2002,16,Sacramento State Hornets,2002-02-09,-44.68720187083564,included_game_day
+2002,16,Sacramento State Hornets,2002-02-16,-58.85999045785569,included_game_day
+2002,16,Sacramento State Hornets,2002-02-22,-88.33498812063355,included_game_day
+2002,16,Sacramento State Hornets,2002-02-23,-84.34776679138633,included_game_day
+2002,16,Sacramento State Hornets,2002-03-01,-88.0805790579747,included_game_day
+2002,16,Sacramento State Hornets,2002-03-02,-94.0398184735918,included_game_day
+2003,16,Sacramento State Hornets,2002-11-25,-29.7,included_game_day
+2003,16,Sacramento State Hornets,2002-11-30,-30.97,included_game_day
+2003,16,Sacramento State Hornets,2002-12-02,-58.543,included_game_day
+2003,16,Sacramento State Hornets,2002-12-04,-53.90454,included_game_day
+2003,16,Sacramento State Hornets,2002-12-07,-43.029985999999994,included_game_day
+2003,16,Sacramento State Hornets,2002-12-10,-42.478786899999996,included_game_day
+2003,16,Sacramento State Hornets,2002-12-14,-52.50118920999999,included_game_day
+2003,16,Sacramento State Hornets,2002-12-21,-61.78443101999999,included_game_day
+2003,16,Sacramento State Hornets,2002-12-27,-74.66832957615999,included_game_day
+2003,16,Sacramento State Hornets,2002-12-29,-100.6479272456285,included_game_day
+2003,16,Sacramento State Hornets,2003-01-04,-82.18764509244474,included_game_day
+2003,16,Sacramento State Hornets,2003-01-07,-93.2337747801154,included_game_day
+2003,16,Sacramento State Hornets,2003-01-11,-74.80685861745268,included_game_day
+2003,16,Sacramento State Hornets,2003-01-14,-65.34545551857846,included_game_day
+2003,16,Sacramento State Hornets,2003-01-18,-85.13534812558032,included_game_day
+2003,16,Sacramento State Hornets,2003-01-23,-85.72610627172705,included_game_day
+2003,16,Sacramento State Hornets,2003-01-25,-88.62485088103057,included_game_day
+2003,16,Sacramento State Hornets,2003-01-30,-73.72904075393492,included_game_day
+2003,16,Sacramento State Hornets,2003-02-01,-73.89904427326674,included_game_day
+2003,16,Sacramento State Hornets,2003-02-08,-90.94893968790853,included_game_day
+2003,16,Sacramento State Hornets,2003-02-13,-73.60355667862537,included_game_day
+2003,16,Sacramento State Hornets,2003-02-15,-63.25616671743255,included_game_day
+2003,16,Sacramento State Hornets,2003-02-20,-70.36178527764456,included_game_day
+2003,16,Sacramento State Hornets,2003-02-22,-68.88495114746782,included_game_day
+2003,16,Sacramento State Hornets,2003-02-27,-73.01120928755986,included_game_day
+2003,16,Sacramento State Hornets,2003-03-01,-51.873432586127805,included_game_day
+2003,16,Sacramento State Hornets,2003-03-08,-33.05542265496914,included_game_day
+2003,16,Sacramento State Hornets,2003-03-11,-41.318652100741744,included_game_day
+2004,16,Sacramento State Hornets,2003-11-22,-15.0,included_game_day
+2004,16,Sacramento State Hornets,2003-11-29,-5.02,included_game_day
+2004,16,Sacramento State Hornets,2003-12-06,-17.605337,included_game_day
+2004,16,Sacramento State Hornets,2003-12-08,-29.609570419999997,included_game_day
+2004,16,Sacramento State Hornets,2003-12-11,-43.247069978,included_game_day
+2004,16,Sacramento State Hornets,2003-12-13,-45.1894645142,included_game_day
+2004,16,Sacramento State Hornets,2003-12-20,-36.982640828749,included_game_day
+2004,16,Sacramento State Hornets,2003-12-22,-33.973551636461096,included_game_day
+2004,16,Sacramento State Hornets,2003-12-27,-17.130985932919486,included_game_day
+2004,16,Sacramento State Hornets,2003-12-29,-8.822095823615538,included_game_day
+2004,16,Sacramento State Hornets,2004-01-03,-21.682108031211765,included_game_day
+2004,16,Sacramento State Hornets,2004-01-10,-32.23391174898387,included_game_day
+2004,16,Sacramento State Hornets,2004-01-15,-20.46747202311687,included_game_day
+2004,16,Sacramento State Hornets,2004-01-17,-28.392519275809093,included_game_day
+2004,16,Sacramento State Hornets,2004-01-22,-30.547946572397954,included_game_day
+2004,16,Sacramento State Hornets,2004-01-24,-37.26565287801533,included_game_day
+2004,16,Sacramento State Hornets,2004-01-29,-31.216822801151473,included_game_day
+2004,16,Sacramento State Hornets,2004-01-31,-28.572116149517022,included_game_day
+2004,16,Sacramento State Hornets,2004-02-07,-10.306134952316476,included_game_day
+2004,16,Sacramento State Hornets,2004-02-12,-28.377887855817544,included_game_day
+2004,16,Sacramento State Hornets,2004-02-14,-30.344606862991476,included_game_day
+2004,16,Sacramento State Hornets,2004-02-19,-28.97723712108237,included_game_day
+2004,16,Sacramento State Hornets,2004-02-21,-22.956210285543715,included_game_day
+2004,16,Sacramento State Hornets,2004-02-25,-34.08940676006897,included_game_day
+2004,16,Sacramento State Hornets,2004-02-29,-25.13191867001856,included_game_day
+2004,16,Sacramento State Hornets,2004-03-06,-31.51494322515408,included_game_day
+2005,16,Sacramento State Hornets,2004-11-19,-16.38,included_game_day
+2005,16,Sacramento State Hornets,2004-11-22,-10.741999999999999,included_game_day
+2005,16,Sacramento State Hornets,2004-11-27,-33.6672,included_game_day
+2005,16,Sacramento State Hornets,2004-12-01,-44.44368,included_game_day
+2005,16,Sacramento State Hornets,2004-12-04,-51.147312,included_game_day
+2005,16,Sacramento State Hornets,2004-12-07,-54.69727792,included_game_day
+2005,16,Sacramento State Hornets,2004-12-11,-58.211560876899995,included_game_day
+2005,16,Sacramento State Hornets,2004-12-17,-82.75016105891899,included_game_day
+2005,16,Sacramento State Hornets,2004-12-20,-81.4536745198371,included_game_day
+2005,16,Sacramento State Hornets,2004-12-28,-96.77737942109485,included_game_day
+2005,16,Sacramento State Hornets,2004-12-30,-90.98172353801681,included_game_day
+2005,16,Sacramento State Hornets,2005-01-06,-87.04669258217942,included_game_day
+2005,16,Sacramento State Hornets,2005-01-08,-84.83406054704872,included_game_day
+2005,16,Sacramento State Hornets,2005-01-13,-85.29455787198381,included_game_day
+2005,16,Sacramento State Hornets,2005-01-15,-78.89206935924165,included_game_day
+2005,16,Sacramento State Hornets,2005-01-20,-74.58804656111272,included_game_day
+2005,16,Sacramento State Hornets,2005-01-22,-78.78393769687237,included_game_day
+2005,16,Sacramento State Hornets,2005-01-29,-71.12193861342656,included_game_day
+2005,16,Sacramento State Hornets,2005-02-03,-61.551179621913356,included_game_day
+2005,16,Sacramento State Hornets,2005-02-05,-60.883515713332194,included_game_day
+2005,16,Sacramento State Hornets,2005-02-10,-61.21894936095393,included_game_day
+2005,16,Sacramento State Hornets,2005-02-12,-56.152662623983154,included_game_day
+2005,16,Sacramento State Hornets,2005-02-17,-52.65222140670987,included_game_day
+2005,16,Sacramento State Hornets,2005-02-19,-52.323100527048354,included_game_day
+2005,16,Sacramento State Hornets,2005-02-26,-46.894396857218965,included_game_day
+2005,16,Sacramento State Hornets,2005-03-05,-52.587144746987875,included_game_day
+2006,16,Sacramento State Hornets,2005-11-15,0.0,included_game_day
+2006,16,Sacramento State Hornets,2005-11-16,-3.0,included_game_day
+2006,16,Sacramento State Hornets,2005-11-19,-7.7,included_game_day
+2006,16,Sacramento State Hornets,2005-11-26,0.18189999999999973,included_game_day
+2006,16,Sacramento State Hornets,2005-11-30,4.976325999999999,included_game_day
+2006,16,Sacramento State Hornets,2005-12-03,3.9853073999999995,included_game_day
+2006,16,Sacramento State Hornets,2005-12-05,8.422861106,included_game_day
+2006,16,Sacramento State Hornets,2005-12-11,2.7534988693999995,included_game_day
+2006,16,Sacramento State Hornets,2005-12-17,8.09803940906,included_game_day
+2006,16,Sacramento State Hornets,2005-12-20,19.501160692154002,included_game_day
+2006,16,Sacramento State Hornets,2005-12-23,-4.241934960223219,included_game_day
+2006,16,Sacramento State Hornets,2005-12-29,5.220941391229845,included_game_day
+2006,16,Sacramento State Hornets,2006-01-05,19.57566671986299,included_game_day
+2006,16,Sacramento State Hornets,2006-01-07,30.3525330040299,included_game_day
+2006,16,Sacramento State Hornets,2006-01-12,29.505950800910504,included_game_day
+2006,16,Sacramento State Hornets,2006-01-14,31.55642046440767,included_game_day
+2006,16,Sacramento State Hornets,2006-01-19,20.874141175359345,included_game_day
+2006,16,Sacramento State Hornets,2006-01-21,18.76723200474163,included_game_day
+2006,16,Sacramento State Hornets,2006-01-28,15.307313083862159,included_game_day
+2006,16,Sacramento State Hornets,2006-02-02,3.8744178670720206,included_game_day
+2006,16,Sacramento State Hornets,2006-02-04,6.389666631990938,included_game_day
+2006,16,Sacramento State Hornets,2006-02-09,-3.1152942260364522,included_game_day
+2006,16,Sacramento State Hornets,2006-02-11,-7.880901711453708,included_game_day
+2006,16,Sacramento State Hornets,2006-02-15,-7.266477443435826,included_game_day
+2006,16,Sacramento State Hornets,2006-02-25,-28.825029065427998,included_game_day
+2006,16,Sacramento State Hornets,2006-02-27,-35.025866043836196,included_game_day
+2006,16,Sacramento State Hornets,2006-03-04,-33.986535626562755,included_game_day
+2006,16,Sacramento State Hornets,2006-03-07,-40.49984189553163,included_game_day
+2007,16,Sacramento State Hornets,2006-11-12,-33.0,included_game_day
+2007,16,Sacramento State Hornets,2006-11-14,-57.7,included_game_day
+2007,16,Sacramento State Hornets,2006-11-17,-29.76,included_game_day
+2007,16,Sacramento State Hornets,2006-11-19,-29.602000000000004,included_game_day
+2007,16,Sacramento State Hornets,2006-11-25,-10.990700000000004,included_game_day
+2007,16,Sacramento State Hornets,2006-11-29,-20.027195000000003,included_game_day
+2007,16,Sacramento State Hornets,2006-12-02,-43.857825500000004,included_game_day
+2007,16,Sacramento State Hornets,2006-12-06,-41.383616897900005,included_game_day
+2007,16,Sacramento State Hornets,2006-12-09,-58.104893425857,included_game_day
+2007,16,Sacramento State Hornets,2006-12-16,-80.6621202161613,included_game_day
+2007,16,Sacramento State Hornets,2006-12-28,-90.08775764250333,included_game_day
+2007,16,Sacramento State Hornets,2006-12-30,-81.44723765919282,included_game_day
+2007,16,Sacramento State Hornets,2007-01-04,-68.45612711608024,included_game_day
+2007,16,Sacramento State Hornets,2007-01-06,-79.34818285415868,included_game_day
+2007,16,Sacramento State Hornets,2007-01-11,-88.64869121119624,included_game_day
+2007,16,Sacramento State Hornets,2007-01-13,-110.58743960645012,included_game_day
+2007,16,Sacramento State Hornets,2007-01-16,-108.7886251885874,included_game_day
+2007,16,Sacramento State Hornets,2007-01-25,-118.06073367469011,included_game_day
+2007,16,Sacramento State Hornets,2007-01-26,-107.50106609649879,included_game_day
+2007,16,Sacramento State Hornets,2007-01-31,-113.24186731530989,included_game_day
+2007,16,Sacramento State Hornets,2007-02-03,-123.63751576669641,included_game_day
+2007,16,Sacramento State Hornets,2007-02-07,-116.31989049116818,included_game_day
+2007,16,Sacramento State Hornets,2007-02-08,-120.37022137497702,included_game_day
+2007,16,Sacramento State Hornets,2007-02-14,-107.66054628043904,included_game_day
+2007,16,Sacramento State Hornets,2007-02-22,-122.76318445678326,included_game_day
+2007,16,Sacramento State Hornets,2007-02-24,-117.59115323338571,included_game_day
+2007,16,Sacramento State Hornets,2007-02-26,-87.14646123016365,included_game_day
+2008,16,Sacramento State Hornets,2007-11-09,-28.0,included_game_day
+2008,16,Sacramento State Hornets,2007-11-14,-33.0,included_game_day
+2008,16,Sacramento State Hornets,2007-11-17,-58.3,included_game_day
+2008,16,Sacramento State Hornets,2007-11-21,-62.04,included_game_day
+2008,16,Sacramento State Hornets,2007-11-25,-69.5041,included_game_day
+2008,16,Sacramento State Hornets,2007-11-27,-76.153493,included_game_day
+2008,16,Sacramento State Hornets,2007-12-11,-83.6121975107,included_game_day
+2008,16,Sacramento State Hornets,2007-12-15,-94.79676279111,included_game_day
+2008,16,Sacramento State Hornets,2007-12-28,-98.22068249291847,included_game_day
+2008,16,Sacramento State Hornets,2008-01-03,-112.88640993636778,included_game_day
+2008,16,Sacramento State Hornets,2008-01-05,-128.73284938179148,included_game_day
+2008,16,Sacramento State Hornets,2008-01-10,-114.8258809871492,included_game_day
+2008,16,Sacramento State Hornets,2008-01-12,-115.54303633905475,included_game_day
+2008,16,Sacramento State Hornets,2008-01-15,-126.03673471289439,included_game_day
+2008,16,Sacramento State Hornets,2008-01-23,-124.2441273133623,included_game_day
+2008,16,Sacramento State Hornets,2008-01-25,-140.6478671943438,included_game_day
+2008,16,Sacramento State Hornets,2008-02-02,-130.03616888537732,included_game_day
+2008,16,Sacramento State Hornets,2008-02-07,-128.42750730964897,included_game_day
+2008,16,Sacramento State Hornets,2008-02-09,-140.22693219417678,included_game_day
+2008,16,Sacramento State Hornets,2008-02-14,-156.12035621633828,included_game_day
+2008,16,Sacramento State Hornets,2008-02-17,-144.3509355955284,included_game_day
+2008,16,Sacramento State Hornets,2008-02-21,-140.1576588929015,included_game_day
+2008,16,Sacramento State Hornets,2008-02-28,-137.1520326409023,included_game_day
+2008,16,Sacramento State Hornets,2008-03-01,-139.83336828270546,included_game_day
+2008,16,Sacramento State Hornets,2008-03-03,-149.90804654767842,included_game_day
+2009,16,Sacramento State Hornets,2008-11-14,-9.0,included_game_day
+2009,16,Sacramento State Hornets,2008-11-18,-19.5,included_game_day
+2009,16,Sacramento State Hornets,2008-11-21,-29.647,included_game_day
+2009,16,Sacramento State Hornets,2008-11-25,-36.2343,included_game_day
+2009,16,Sacramento State Hornets,2008-12-01,-49.60989,included_game_day
+2009,16,Sacramento State Hornets,2008-12-03,-36.103992317,included_game_day
+2009,16,Sacramento State Hornets,2008-12-06,-48.0092956353,included_game_day
+2009,16,Sacramento State Hornets,2008-12-09,-65.81706833007,included_game_day
+2009,16,Sacramento State Hornets,2008-12-11,-66.014338564063,included_game_day
+2009,16,Sacramento State Hornets,2008-12-20,-77.2815859601357,included_game_day
+2009,16,Sacramento State Hornets,2008-12-23,-83.61767739627253,included_game_day
+2009,16,Sacramento State Hornets,2008-12-27,-97.81660162564059,included_game_day
+2009,16,Sacramento State Hornets,2008-12-30,-110.3429350909049,included_game_day
+2009,16,Sacramento State Hornets,2009-01-02,-109.28449248138708,included_game_day
+2009,16,Sacramento State Hornets,2009-01-04,-121.67787311583093,included_game_day
+2009,16,Sacramento State Hornets,2009-01-08,-126.9914639228698,included_game_day
+2009,16,Sacramento State Hornets,2009-01-10,-129.59784416493576,included_game_day
+2009,16,Sacramento State Hornets,2009-01-13,-136.24972003225804,included_game_day
+2009,16,Sacramento State Hornets,2009-01-18,-152.37360155276113,included_game_day
+2009,16,Sacramento State Hornets,2009-01-22,-147.35302757653213,included_game_day
+2009,16,Sacramento State Hornets,2009-01-24,-134.3425975606459,included_game_day
+2009,16,Sacramento State Hornets,2009-01-29,-134.55133257313392,included_game_day
+2009,16,Sacramento State Hornets,2009-02-05,-146.77350406779317,included_game_day
+2009,16,Sacramento State Hornets,2009-02-08,-142.2314207988462,included_game_day
+2009,16,Sacramento State Hornets,2009-02-12,-142.1807868932611,included_game_day
+2009,16,Sacramento State Hornets,2009-02-14,-152.0003769489048,included_game_day
+2009,16,Sacramento State Hornets,2009-02-21,-147.40134872854313,included_game_day
+2009,16,Sacramento State Hornets,2009-02-26,-167.91572231514763,included_game_day
+2009,16,Sacramento State Hornets,2009-02-28,-178.41193080278285,included_game_day
+2010,16,Sacramento State Hornets,2009-11-13,-27.0,included_game_day
+2010,16,Sacramento State Hornets,2009-11-14,-15.5,included_game_day
+2010,16,Sacramento State Hornets,2009-11-15,-24.5,included_game_day
+2010,16,Sacramento State Hornets,2009-11-21,-17.68,included_game_day
+2010,16,Sacramento State Hornets,2009-11-24,-25.156,included_game_day
+2010,16,Sacramento State Hornets,2009-11-28,-28.2258,included_game_day
+2010,16,Sacramento State Hornets,2009-12-02,-22.296756000000002,included_game_day
+2010,16,Sacramento State Hornets,2009-12-05,-39.37662046,included_game_day
+2010,16,Sacramento State Hornets,2009-12-08,-48.0692293581,included_game_day
+2010,16,Sacramento State Hornets,2009-12-12,-69.30937306139,included_game_day
+2010,16,Sacramento State Hornets,2009-12-19,-70.695006708144,included_game_day
+2010,16,Sacramento State Hornets,2009-12-27,-69.95808524562077,included_game_day
+2010,16,Sacramento State Hornets,2009-12-31,-76.80178319117074,included_game_day
+2010,16,Sacramento State Hornets,2010-01-02,-97.02030044935377,included_game_day
+2010,16,Sacramento State Hornets,2010-01-09,-75.92093557912054,included_game_day
+2010,16,Sacramento State Hornets,2010-01-15,-67.10650757227124,included_game_day
+2010,16,Sacramento State Hornets,2010-01-17,-69.5563369251694,included_game_day
+2010,16,Sacramento State Hornets,2010-01-22,-69.63220412354309,included_game_day
+2010,16,Sacramento State Hornets,2010-01-24,-67.49215403334782,included_game_day
+2010,16,Sacramento State Hornets,2010-01-29,-75.51256858482252,included_game_day
+2010,16,Sacramento State Hornets,2010-01-30,-52.20515416643947,included_game_day
+2010,16,Sacramento State Hornets,2010-02-05,-66.31000780036905,included_game_day
+2010,16,Sacramento State Hornets,2010-02-07,-65.64951124425582,included_game_day
+2010,16,Sacramento State Hornets,2010-02-13,-91.58191660486385,included_game_day
+2010,16,Sacramento State Hornets,2010-02-18,-87.76814978191437,included_game_day
+2010,16,Sacramento State Hornets,2010-02-20,-98.38509262795878,included_game_day
+2010,16,Sacramento State Hornets,2010-02-26,-110.06352548103564,included_game_day
+2010,16,Sacramento State Hornets,2010-02-27,-112.6366832776175,included_game_day
+2011,16,Sacramento State Hornets,2010-11-14,-5.2,included_game_day
+2011,16,Sacramento State Hornets,2010-11-19,-8.206,included_game_day
+2011,16,Sacramento State Hornets,2010-11-23,-22.165399999999998,included_game_day
+2011,16,Sacramento State Hornets,2010-11-27,-18.635106099999998,included_game_day
+2011,16,Sacramento State Hornets,2010-11-30,-55.66818649,included_game_day
+2011,16,Sacramento State Hornets,2010-12-04,-73.2019274004,included_game_day
+2011,16,Sacramento State Hornets,2010-12-07,-82.35088940156,included_game_day
+2011,16,Sacramento State Hornets,2010-12-19,-77.49754433847396,included_game_day
+2011,16,Sacramento State Hornets,2010-12-21,-77.92563406450037,included_game_day
+2011,16,Sacramento State Hornets,2010-12-29,-83.83896020786094,included_game_day
+2011,16,Sacramento State Hornets,2010-12-31,-83.21719327248877,included_game_day
+2011,16,Sacramento State Hornets,2011-01-06,-80.33061466976923,included_game_day
+2011,16,Sacramento State Hornets,2011-01-08,-88.43011293583218,included_game_day
+2011,16,Sacramento State Hornets,2011-01-13,-90.73240885749624,included_game_day
+2011,16,Sacramento State Hornets,2011-01-15,-98.34184455962419,included_game_day
+2011,16,Sacramento State Hornets,2011-01-20,-92.972120967289,included_game_day
+2011,16,Sacramento State Hornets,2011-01-22,-91.43103281104007,included_game_day
+2011,16,Sacramento State Hornets,2011-01-27,-79.88436225754276,included_game_day
+2011,16,Sacramento State Hornets,2011-01-29,-79.88367134704716,included_game_day
+2011,16,Sacramento State Hornets,2011-02-03,-71.88311861865067,included_game_day
+2011,16,Sacramento State Hornets,2011-02-10,-78.88783893772693,included_game_day
+2011,16,Sacramento State Hornets,2011-02-13,-71.45294588655827,included_game_day
+2011,16,Sacramento State Hornets,2011-02-19,-82.99487550198418,included_game_day
+2011,16,Sacramento State Hornets,2011-02-24,-96.55426902591259,included_game_day
+2011,16,Sacramento State Hornets,2011-02-26,-87.92102016680457,included_game_day
+2011,16,Sacramento State Hornets,2011-03-02,-103.537890824698,included_game_day
+2012,16,Sacramento State Hornets,2011-11-13,14.4,included_game_day
+2012,16,Sacramento State Hornets,2011-11-17,4.51,included_game_day
+2012,16,Sacramento State Hornets,2011-11-22,11.7348,included_game_day
+2012,16,Sacramento State Hornets,2011-11-26,-0.9786800000000007,included_game_day
+2012,16,Sacramento State Hornets,2011-11-30,-22.3860729,included_game_day
+2012,16,Sacramento State Hornets,2011-12-02,-43.28340831,included_game_day
+2012,16,Sacramento State Hornets,2011-12-07,-38.2968726848,included_game_day
+2012,16,Sacramento State Hornets,2011-12-18,-28.191842140222,included_game_day
+2012,16,Sacramento State Hornets,2011-12-22,-36.3572551830281,included_game_day
+2012,16,Sacramento State Hornets,2011-12-29,-46.35780736565485,included_game_day
+2012,16,Sacramento State Hornets,2011-12-31,-48.60151287021024,included_game_day
+2012,16,Sacramento State Hornets,2012-01-07,-57.5801461427064,included_game_day
+2012,16,Sacramento State Hornets,2012-01-12,-60.82789059562193,included_game_day
+2012,16,Sacramento State Hornets,2012-01-14,-68.45993337274878,included_game_day
+2012,16,Sacramento State Hornets,2012-01-19,-71.97696602169796,included_game_day
+2012,16,Sacramento State Hornets,2012-01-21,-86.97249129082381,included_game_day
+2012,16,Sacramento State Hornets,2012-01-26,-92.44532627457446,included_game_day
+2012,16,Sacramento State Hornets,2012-01-28,-64.08336106612751,included_game_day
+2012,16,Sacramento State Hornets,2012-02-02,-49.89136952679655,included_game_day
+2012,16,Sacramento State Hornets,2012-02-04,-40.426876858809,included_game_day
+2012,16,Sacramento State Hornets,2012-02-09,-35.125664284551405,included_game_day
+2012,16,Sacramento State Hornets,2012-02-11,-36.15446383408769,included_game_day
+2012,16,Sacramento State Hornets,2012-02-15,-48.866594836829954,included_game_day
+2012,16,Sacramento State Hornets,2012-02-18,-63.07062923022218,included_game_day
+2012,16,Sacramento State Hornets,2012-02-23,-66.33250920626311,included_game_day
+2012,16,Sacramento State Hornets,2012-02-25,-62.44082257303424,included_game_day
+2013,16,Sacramento State Hornets,2012-11-14,13.55,included_game_day
+2013,16,Sacramento State Hornets,2012-11-16,18.195,included_game_day
+2013,16,Sacramento State Hornets,2012-11-20,0.9125000000000014,included_game_day
+2013,16,Sacramento State Hornets,2012-11-24,5.289550000000001,included_game_day
+2013,16,Sacramento State Hornets,2012-12-01,-8.18219121,included_game_day
+2013,16,Sacramento State Hornets,2012-12-08,-8.1901769875,included_game_day
+2013,16,Sacramento State Hornets,2012-12-19,-9.333667964739998,included_game_day
+2013,16,Sacramento State Hornets,2012-12-21,-14.318308726026398,included_game_day
+2013,16,Sacramento State Hornets,2013-01-03,-27.161669871306174,included_game_day
+2013,16,Sacramento State Hornets,2013-01-07,-30.030359544364735,included_game_day
+2013,16,Sacramento State Hornets,2013-01-10,-45.71835598417054,included_game_day
+2013,16,Sacramento State Hornets,2013-01-12,-37.221884248659144,included_game_day
+2013,16,Sacramento State Hornets,2013-01-17,-39.961854247370205,included_game_day
+2013,16,Sacramento State Hornets,2013-01-19,-35.96188282968237,included_game_day
+2013,16,Sacramento State Hornets,2013-01-24,-31.308807458858123,included_game_day
+2013,16,Sacramento State Hornets,2013-01-26,-30.155279743492766,included_game_day
+2013,16,Sacramento State Hornets,2013-01-31,-41.499283995791416,included_game_day
+2013,16,Sacramento State Hornets,2013-02-04,-51.067444224479765,included_game_day
+2013,16,Sacramento State Hornets,2013-02-07,-52.755227053664434,included_game_day
+2013,16,Sacramento State Hornets,2013-02-09,-54.02648680542677,included_game_day
+2013,16,Sacramento State Hornets,2013-02-14,-51.57884560790667,included_game_day
+2013,16,Sacramento State Hornets,2013-02-16,-62.06525236686305,included_game_day
+2013,16,Sacramento State Hornets,2013-02-23,-57.71276010089178,included_game_day
+2013,16,Sacramento State Hornets,2013-02-28,-63.05405630082423,included_game_day
+2013,16,Sacramento State Hornets,2013-03-02,-67.04141364561751,included_game_day
+2013,16,Sacramento State Hornets,2013-03-07,-66.13187632256422,included_game_day
+2013,16,Sacramento State Hornets,2013-03-09,-81.84400938694381,included_game_day
+2014,16,Sacramento State Hornets,2013-11-13,-5.3,included_game_day
+2014,16,Sacramento State Hornets,2013-11-18,-34.989999999999995,included_game_day
+2014,16,Sacramento State Hornets,2013-11-26,-26.837613999999995,included_game_day
+2014,16,Sacramento State Hornets,2013-11-30,-49.23057659999999,included_game_day
+2014,16,Sacramento State Hornets,2013-12-07,-60.96098561899999,included_game_day
+2014,16,Sacramento State Hornets,2013-12-21,-62.377097621194594,included_game_day
+2014,16,Sacramento State Hornets,2013-12-29,-60.81899089808572,included_game_day
+2014,16,Sacramento State Hornets,2014-01-02,-69.80101994546237,included_game_day
+2014,16,Sacramento State Hornets,2014-01-04,-74.10054882294673,included_game_day
+2014,16,Sacramento State Hornets,2014-01-09,-76.98570581286364,included_game_day
+2014,16,Sacramento State Hornets,2014-01-11,-52.69104525209289,included_game_day
+2014,16,Sacramento State Hornets,2014-01-16,-59.317192544031016,included_game_day
+2014,16,Sacramento State Hornets,2014-01-18,-50.06941574250111,included_game_day
+2014,16,Sacramento State Hornets,2014-01-23,-59.92178380739464,included_game_day
+2014,16,Sacramento State Hornets,2014-01-25,-57.10390675132763,included_game_day
+2014,16,Sacramento State Hornets,2014-01-30,-51.83775490190877,included_game_day
+2014,16,Sacramento State Hornets,2014-02-01,-45.23017541860996,included_game_day
+2014,16,Sacramento State Hornets,2014-02-06,-29.173348353444077,included_game_day
+2014,16,Sacramento State Hornets,2014-02-10,-31.180649362413483,included_game_day
+2014,16,Sacramento State Hornets,2014-02-13,-41.91737678221595,included_game_day
+2014,16,Sacramento State Hornets,2014-02-15,-32.373042913910695,included_game_day
+2014,16,Sacramento State Hornets,2014-02-20,-29.814960646783817,included_game_day
+2014,16,Sacramento State Hornets,2014-02-22,-8.886234572328771,included_game_day
+2014,16,Sacramento State Hornets,2014-02-27,-14.617134259710559,included_game_day
+2014,16,Sacramento State Hornets,2014-03-01,-27.40851961233072,included_game_day
+2014,16,Sacramento State Hornets,2014-03-06,-43.73668885253847,included_game_day
+2014,16,Sacramento State Hornets,2014-03-08,-25.47869858030333,included_game_day
+2014,16,Sacramento State Hornets,2014-03-13,-29.903008548840916,included_game_day
+2015,16,Sacramento State Hornets,2014-11-14,-43.0,included_game_day
+2015,16,Sacramento State Hornets,2014-11-17,-34.7,included_game_day
+2015,16,Sacramento State Hornets,2014-12-01,-27.082528000000003,included_game_day
+2015,16,Sacramento State Hornets,2014-12-04,-38.5485952,included_game_day
+2015,16,Sacramento State Hornets,2014-12-06,-43.525513652,included_game_day
+2015,16,Sacramento State Hornets,2014-12-11,-32.4770221973,included_game_day
+2015,16,Sacramento State Hornets,2014-12-14,-35.73091739717,included_game_day
+2015,16,Sacramento State Hornets,2014-12-21,-53.386224705791605,included_game_day
+2015,16,Sacramento State Hornets,2014-12-27,-25.929017114955712,included_game_day
+2015,16,Sacramento State Hornets,2015-01-01,-25.348939401275636,included_game_day
+2015,16,Sacramento State Hornets,2015-01-03,-19.12945637973074,included_game_day
+2015,16,Sacramento State Hornets,2015-01-08,-20.073878091930876,included_game_day
+2015,16,Sacramento State Hornets,2015-01-10,-29.38185567689701,included_game_day
+2015,16,Sacramento State Hornets,2015-01-15,-27.78869490911396,included_game_day
+2015,16,Sacramento State Hornets,2015-01-17,-12.359733224235349,included_game_day
+2015,16,Sacramento State Hornets,2015-01-22,-13.131005785640077,included_game_day
+2015,16,Sacramento State Hornets,2015-01-24,-6.764868388648714,included_game_day
+2015,16,Sacramento State Hornets,2015-01-29,-1.7570517309701712,included_game_day
+2015,16,Sacramento State Hornets,2015-01-31,-2.3784471283781117,included_game_day
+2015,16,Sacramento State Hornets,2015-02-07,-6.282891903755289,included_game_day
+2015,16,Sacramento State Hornets,2015-02-12,-3.041534146632735,included_game_day
+2015,16,Sacramento State Hornets,2015-02-14,-13.872014890734171,included_game_day
+2015,16,Sacramento State Hornets,2015-02-19,-12.31718792770509,included_game_day
+2015,16,Sacramento State Hornets,2015-02-21,-15.758868400755134,included_game_day
+2015,16,Sacramento State Hornets,2015-02-28,-0.8979441257482499,included_game_day
+2015,16,Sacramento State Hornets,2015-03-05,-8.481757818317954,included_game_day
+2015,16,Sacramento State Hornets,2015-03-07,-7.403139502624086,included_game_day
+2015,16,Sacramento State Hornets,2015-03-12,0.5078520333803205,included_game_day
+2015,16,Sacramento State Hornets,2015-03-13,-5.9678405986892695,included_game_day
+2015,16,Sacramento State Hornets,2015-03-18,6.610860239541001,included_game_day
+2015,16,Sacramento State Hornets,2015-03-21,-2.2882564436736743,included_game_day
+2016,16,Sacramento State Hornets,2015-11-13,6.0,included_game_day
+2016,16,Sacramento State Hornets,2015-11-15,19.9,included_game_day
+2016,16,Sacramento State Hornets,2015-11-24,19.919999999999998,included_game_day
+2016,16,Sacramento State Hornets,2015-11-28,8.377999999999998,included_game_day
+2016,16,Sacramento State Hornets,2015-11-29,10.021179999999998,included_game_day
+2016,16,Sacramento State Hornets,2015-12-02,8.007511999999998,included_game_day
+2016,16,Sacramento State Hornets,2015-12-07,1.9492607999999976,included_game_day
+2016,16,Sacramento State Hornets,2015-12-12,-2.721589575210002,included_game_day
+2016,16,Sacramento State Hornets,2015-12-21,-7.07753957994877,included_game_day
+2016,16,Sacramento State Hornets,2016-01-02,-15.026833733245743,included_game_day
+2016,16,Sacramento State Hornets,2016-01-07,-23.228856684003055,included_game_day
+2016,16,Sacramento State Hornets,2016-01-09,-38.011581120588346,included_game_day
+2016,16,Sacramento State Hornets,2016-01-14,-33.30372161320696,included_game_day
+2016,16,Sacramento State Hornets,2016-01-16,-38.9744288344297,included_game_day
+2016,16,Sacramento State Hornets,2016-01-23,-61.04446744091775,included_game_day
+2016,16,Sacramento State Hornets,2016-01-28,-52.77505307316915,included_game_day
+2016,16,Sacramento State Hornets,2016-01-30,-50.867925755159995,included_game_day
+2016,16,Sacramento State Hornets,2016-02-04,-44.514023113862635,included_game_day
+2016,16,Sacramento State Hornets,2016-02-06,-52.90170089373404,included_game_day
+2016,16,Sacramento State Hornets,2016-02-11,-54.12752495069087,included_game_day
+2016,16,Sacramento State Hornets,2016-02-13,-47.86676306836914,included_game_day
+2016,16,Sacramento State Hornets,2016-02-18,-49.59391613535923,included_game_day
+2016,16,Sacramento State Hornets,2016-02-20,-47.464513213385665,included_game_day
+2016,16,Sacramento State Hornets,2016-02-25,-53.67424805739007,included_game_day
+2016,16,Sacramento State Hornets,2016-02-27,-72.1176299163032,included_game_day
+2016,16,Sacramento State Hornets,2016-03-03,-76.44783644140446,included_game_day
+2016,16,Sacramento State Hornets,2016-03-05,-72.83845387192483,included_game_day
+2016,16,Sacramento State Hornets,2016-03-08,-64.20175541419864,included_game_day
+2016,16,Sacramento State Hornets,2016-03-10,-73.07810029905421,included_game_day
+2017,16,Sacramento State Hornets,2016-11-11,-34.0,included_game_day
+2017,16,Sacramento State Hornets,2016-11-13,-49.6,included_game_day
+2017,16,Sacramento State Hornets,2016-11-21,-52.78,included_game_day
+2017,16,Sacramento State Hornets,2016-11-26,-63.673793,included_game_day
+2017,16,Sacramento State Hornets,2016-11-27,-69.78460270000001,included_game_day
+2017,16,Sacramento State Hornets,2016-12-01,-77.38140090600001,included_game_day
+2017,16,Sacramento State Hornets,2016-12-10,-82.97183919022001,included_game_day
+2017,16,Sacramento State Hornets,2016-12-17,-75.70313885219801,included_game_day
+2017,16,Sacramento State Hornets,2016-12-21,-75.7075978024272,included_game_day
+2017,16,Sacramento State Hornets,2016-12-29,-90.71615368423465,included_game_day
+2017,16,Sacramento State Hornets,2016-12-31,-96.76675243193831,included_game_day
+2017,16,Sacramento State Hornets,2017-01-07,-89.358469072751,included_game_day
+2017,16,Sacramento State Hornets,2017-01-12,-80.52995797003233,included_game_day
+2017,16,Sacramento State Hornets,2017-01-14,-66.99515627548851,included_game_day
+2017,16,Sacramento State Hornets,2017-01-19,-76.37690337770795,included_game_day
+2017,16,Sacramento State Hornets,2017-01-21,-61.32326362323863,included_game_day
+2017,16,Sacramento State Hornets,2017-01-28,-55.850653223331854,included_game_day
+2017,16,Sacramento State Hornets,2017-02-02,-51.142563697650864,included_game_day
+2017,16,Sacramento State Hornets,2017-02-04,-58.120858309257194,included_game_day
+2017,16,Sacramento State Hornets,2017-02-09,-50.65073959082965,included_game_day
+2017,16,Sacramento State Hornets,2017-02-11,-45.69279630116819,included_game_day
+2017,16,Sacramento State Hornets,2017-02-16,-36.52483551161272,included_game_day
+2017,16,Sacramento State Hornets,2017-02-18,-36.5110533089038,included_game_day
+2017,16,Sacramento State Hornets,2017-02-23,-50.409629039669724,included_game_day
+2017,16,Sacramento State Hornets,2017-02-25,-50.10245583429548,included_game_day
+2017,16,Sacramento State Hornets,2017-03-02,-34.658929283391934,included_game_day
+2017,16,Sacramento State Hornets,2017-03-04,-37.90201073483601,included_game_day
+2017,16,Sacramento State Hornets,2017-03-07,-31.19583010843917,included_game_day
+2017,16,Sacramento State Hornets,2017-03-09,-46.58261147105518,included_game_day
+2018,16,Sacramento State Hornets,2017-11-10,-8.0,included_game_day
+2018,16,Sacramento State Hornets,2017-11-17,-17.79,included_game_day
+2018,16,Sacramento State Hornets,2017-11-21,-31.9578,included_game_day
+2018,16,Sacramento State Hornets,2017-11-24,-66.04337799999999,included_game_day
+2018,16,Sacramento State Hornets,2017-11-26,-64.60804519999999,included_game_day
+2018,16,Sacramento State Hornets,2017-12-04,-65.310848442,included_game_day
+2018,16,Sacramento State Hornets,2017-12-09,-70.75351789889999,included_game_day
+2018,16,Sacramento State Hornets,2017-12-19,-71.45999394201382,included_game_day
+2018,16,Sacramento State Hornets,2017-12-21,-74.95342597122001,included_game_day
+2018,16,Sacramento State Hornets,2017-12-23,-77.13027947386975,included_game_day
+2018,16,Sacramento State Hornets,2017-12-30,-62.55866925866719,included_game_day
+2018,16,Sacramento State Hornets,2018-01-04,-50.030650908014174,included_game_day
+2018,16,Sacramento State Hornets,2018-01-06,-55.80942127583232,included_game_day
+2018,16,Sacramento State Hornets,2018-01-11,-58.333884293349286,included_game_day
+2018,16,Sacramento State Hornets,2018-01-13,-39.484802227357754,included_game_day
+2018,16,Sacramento State Hornets,2018-01-18,-48.515605313735286,included_game_day
+2018,16,Sacramento State Hornets,2018-01-20,-51.88682231660098,included_game_day
+2018,16,Sacramento State Hornets,2018-01-27,-30.482290772454007,included_game_day
+2018,16,Sacramento State Hornets,2018-02-01,-48.939676682211186,included_game_day
+2018,16,Sacramento State Hornets,2018-02-03,-66.99189496715312,included_game_day
+2018,16,Sacramento State Hornets,2018-02-08,-80.71091017592892,included_game_day
+2018,16,Sacramento State Hornets,2018-02-10,-62.360942361108826,included_game_day
+2018,16,Sacramento State Hornets,2018-02-15,-66.1088694601261,included_game_day
+2018,16,Sacramento State Hornets,2018-02-17,-67.55055018018967,included_game_day
+2018,16,Sacramento State Hornets,2018-02-22,-76.18098013156478,included_game_day
+2018,16,Sacramento State Hornets,2018-02-24,-75.58664932414044,included_game_day
+2018,16,Sacramento State Hornets,2018-03-01,-95.42842116834191,included_game_day
+2018,16,Sacramento State Hornets,2018-03-03,-71.83989021957629,included_game_day
+2018,16,Sacramento State Hornets,2018-03-06,-69.24034070246742,included_game_day
+2019,16,Sacramento State Hornets,2018-11-20,-2.9452,included_game_day
+2019,16,Sacramento State Hornets,2018-11-24,-1.5855885999999995,included_game_day
+2019,16,Sacramento State Hornets,2018-11-29,-13.68245174,included_game_day
+2019,16,Sacramento State Hornets,2018-12-01,8.376127733999999,included_game_day
+2019,16,Sacramento State Hornets,2018-12-08,-2.5606475294000024,included_game_day
+2019,16,Sacramento State Hornets,2018-12-21,-10.808140041334402,included_game_day
+2019,16,Sacramento State Hornets,2018-12-29,-19.669155470971667,included_game_day
+2019,16,Sacramento State Hornets,2019-01-03,-42.983888274445746,included_game_day
+2019,16,Sacramento State Hornets,2019-01-05,-53.806915028600464,included_game_day
+2019,16,Sacramento State Hornets,2019-01-12,-58.45291547766623,included_game_day
+2019,16,Sacramento State Hornets,2019-01-17,-53.38426875942445,included_game_day
+2019,16,Sacramento State Hornets,2019-01-19,-56.02551914224999,included_game_day
+2019,16,Sacramento State Hornets,2019-01-24,-41.64275935729685,included_game_day
+2019,16,Sacramento State Hornets,2019-01-26,-49.43796941417302,included_game_day
+2019,16,Sacramento State Hornets,2019-01-31,-34.35032624304247,included_game_day
+2019,16,Sacramento State Hornets,2019-02-02,-37.15338934718808,included_game_day
+2019,16,Sacramento State Hornets,2019-02-09,-35.48264931679447,included_game_day
+2019,16,Sacramento State Hornets,2019-02-11,-29.829169436807003,included_game_day
+2019,16,Sacramento State Hornets,2019-02-14,-22.919592942980756,included_game_day
+2019,16,Sacramento State Hornets,2019-02-16,-45.18366412704138,included_game_day
+2019,16,Sacramento State Hornets,2019-02-21,-40.538795367524365,included_game_day
+2019,16,Sacramento State Hornets,2019-02-23,-46.97652641092354,included_game_day
+2019,16,Sacramento State Hornets,2019-02-28,-38.00467613285831,included_game_day
+2019,16,Sacramento State Hornets,2019-03-02,-51.82230737032349,included_game_day
+2019,16,Sacramento State Hornets,2019-03-07,-48.12052161612644,included_game_day
+2019,16,Sacramento State Hornets,2019-03-09,-62.85434475325705,included_game_day
+2019,16,Sacramento State Hornets,2019-03-13,-48.69306760358521,included_game_day
+2019,16,Sacramento State Hornets,2019-03-14,-46.89625382825689,included_game_day
+2020,16,Sacramento State Hornets,2019-11-15,12.379999999999999,included_game_day
+2020,16,Sacramento State Hornets,2019-11-20,17.11889,included_game_day
+2020,16,Sacramento State Hornets,2019-11-23,24.330241,included_game_day
+2020,16,Sacramento State Hornets,2019-11-30,16.0486388552,included_game_day
+2020,16,Sacramento State Hornets,2019-12-07,17.050656287080002,included_game_day
+2020,16,Sacramento State Hornets,2019-12-14,18.083276363422,included_game_day
+2020,16,Sacramento State Hornets,2019-12-18,5.16303440031972,included_game_day
+2020,16,Sacramento State Hornets,2019-12-28,-10.88309038121464,included_game_day
+2020,16,Sacramento State Hornets,2019-12-30,-11.988795885573303,included_game_day
+2020,16,Sacramento State Hornets,2020-01-04,2.69146797783875,included_game_day
+2020,16,Sacramento State Hornets,2020-01-09,4.72627365573597,included_game_day
+2020,16,Sacramento State Hornets,2020-01-11,9.448083424685375,included_game_day
+2020,16,Sacramento State Hornets,2020-01-16,-3.621226684752486,included_game_day
+2020,16,Sacramento State Hornets,2020-01-18,-24.369928724649448,included_game_day
+2020,16,Sacramento State Hornets,2020-01-23,-14.279448664645422,included_game_day
+2020,16,Sacramento State Hornets,2020-01-27,-25.31679274672505,included_game_day
+2020,16,Sacramento State Hornets,2020-02-01,-30.04430834269845,included_game_day
+2020,16,Sacramento State Hornets,2020-02-03,-52.14366628387183,included_game_day
+2020,16,Sacramento State Hornets,2020-02-06,-51.754610162114794,included_game_day
+2020,16,Sacramento State Hornets,2020-02-08,-45.578683229071366,included_game_day
+2020,16,Sacramento State Hornets,2020-02-13,-25.66307747419782,included_game_day
+2020,16,Sacramento State Hornets,2020-02-15,-22.68736698608352,included_game_day
+2020,16,Sacramento State Hornets,2020-02-20,-15.757080243563184,included_game_day
+2020,16,Sacramento State Hornets,2020-02-22,-9.265825495054523,included_game_day
+2020,16,Sacramento State Hornets,2020-02-27,14.552276389719838,included_game_day
+2020,16,Sacramento State Hornets,2020-02-29,6.687899278071072,included_game_day
+2020,16,Sacramento State Hornets,2020-03-07,7.206345978703579,included_game_day
+2020,16,Sacramento State Hornets,2020-03-11,8.654695377833631,included_game_day
+2021,16,Sacramento State Hornets,2020-12-03,19.0,included_game_day
+2021,16,Sacramento State Hornets,2020-12-05,28.2,included_game_day
+2021,16,Sacramento State Hornets,2020-12-30,14.5782183351,included_game_day
+2021,16,Sacramento State Hornets,2021-01-17,13.36077102748934,included_game_day
+2021,16,Sacramento State Hornets,2021-01-18,18.38681318140081,included_game_day
+2021,16,Sacramento State Hornets,2021-01-21,-0.7765319977385268,included_game_day
+2021,16,Sacramento State Hornets,2021-01-23,1.892791858950004,included_game_day
+2021,16,Sacramento State Hornets,2021-01-31,-2.328239472160154,included_game_day
+2021,16,Sacramento State Hornets,2021-02-01,-12.705064537048282,included_game_day
+2021,16,Sacramento State Hornets,2021-02-13,-23.522290425579605,included_game_day
+2021,16,Sacramento State Hornets,2021-02-14,-19.176071136404666,included_game_day
+2021,16,Sacramento State Hornets,2021-02-18,-33.71105721890779,included_game_day
+2021,16,Sacramento State Hornets,2021-02-20,-46.33904608491029,included_game_day
+2021,16,Sacramento State Hornets,2021-02-25,-46.72182197073363,included_game_day
+2021,16,Sacramento State Hornets,2021-02-27,-40.0280426793923,included_game_day
+2021,16,Sacramento State Hornets,2021-03-05,-38.90580669993088,included_game_day
+2021,16,Sacramento State Hornets,2021-03-06,-35.00801791636174,included_game_day
+2021,16,Sacramento State Hornets,2021-03-10,-40.940404558981356,included_game_day
+2022,16,Sacramento State Hornets,2021-11-13,-28.9,included_game_day
+2022,16,Sacramento State Hornets,2021-11-15,-22.61,included_game_day
+2022,16,Sacramento State Hornets,2021-11-20,-35.238,included_game_day
+2022,16,Sacramento State Hornets,2021-11-23,-22.3648,included_game_day
+2022,16,Sacramento State Hornets,2021-11-27,-51.003466,included_game_day
+2022,16,Sacramento State Hornets,2021-12-02,-59.046284021000005,included_game_day
+2022,16,Sacramento State Hornets,2021-12-04,-56.7429168764,included_game_day
+2022,16,Sacramento State Hornets,2021-12-30,-60.33000097874549,included_game_day
+2022,16,Sacramento State Hornets,2022-01-08,-37.89871787170316,included_game_day
+2022,16,Sacramento State Hornets,2022-01-15,-47.36265013028078,included_game_day
+2022,16,Sacramento State Hornets,2022-01-20,-55.137128455315306,included_game_day
+2022,16,Sacramento State Hornets,2022-01-22,-57.25591951185334,included_game_day
+2022,16,Sacramento State Hornets,2022-01-24,-62.730374405164795,included_game_day
+2022,16,Sacramento State Hornets,2022-01-27,-72.91495120608626,included_game_day
+2022,16,Sacramento State Hornets,2022-01-29,-84.85173995205787,included_game_day
+2022,16,Sacramento State Hornets,2022-02-03,-91.17375026946499,included_game_day
+2022,16,Sacramento State Hornets,2022-02-05,-90.03425340102471,included_game_day
+2022,16,Sacramento State Hornets,2022-02-10,-104.00877393405598,included_game_day
+2022,16,Sacramento State Hornets,2022-02-12,-123.34795234747895,included_game_day
+2022,16,Sacramento State Hornets,2022-02-17,-122.98527394617972,included_game_day
+2022,16,Sacramento State Hornets,2022-02-19,-110.10711161414888,included_game_day
+2022,16,Sacramento State Hornets,2022-02-24,-77.16245487938835,included_game_day
+2022,16,Sacramento State Hornets,2022-02-26,-66.46850090953122,included_game_day
+2022,16,Sacramento State Hornets,2022-03-03,-58.997859016966856,included_game_day
+2022,16,Sacramento State Hornets,2022-03-05,-52.28124976887854,included_game_day
+2022,16,Sacramento State Hornets,2022-03-09,-53.954861473085074,included_game_day
+2022,16,Sacramento State Hornets,2022-03-10,-68.02904618765294,included_game_day
+2023,16,Sacramento State Hornets,2022-11-07,-23.0,included_game_day
+2023,16,Sacramento State Hornets,2022-11-12,-9.4,included_game_day
+2023,16,Sacramento State Hornets,2022-11-14,-1.2599999999999998,included_game_day
+2023,16,Sacramento State Hornets,2022-11-22,-10.6197,included_game_day
+2023,16,Sacramento State Hornets,2022-11-25,-20.76773,included_game_day
+2023,16,Sacramento State Hornets,2022-11-26,-24.3376047,included_game_day
+2023,16,Sacramento State Hornets,2022-12-03,-23.71886713,included_game_day
+2023,16,Sacramento State Hornets,2022-12-07,-20.6540331423,included_game_day
+2023,16,Sacramento State Hornets,2022-12-10,-21.630577202570002,included_game_day
+2023,16,Sacramento State Hornets,2022-12-17,-10.7166676381674,included_game_day
+2023,16,Sacramento State Hornets,2022-12-21,-20.01361515126346,included_game_day
+2023,16,Sacramento State Hornets,2022-12-31,-12.47085616448863,included_game_day
+2023,16,Sacramento State Hornets,2023-01-05,-8.327457632997021,included_game_day
+2023,16,Sacramento State Hornets,2023-01-07,-6.214992034163375,included_game_day
+2023,16,Sacramento State Hornets,2023-01-12,-6.084908952561257,included_game_day
+2023,16,Sacramento State Hornets,2023-01-14,-12.719407797681297,included_game_day
+2023,16,Sacramento State Hornets,2023-01-19,-16.16027894633595,included_game_day
+2023,16,Sacramento State Hornets,2023-01-21,-13.737653520144667,included_game_day
+2023,16,Sacramento State Hornets,2023-01-26,4.9345175958669945,included_game_day
+2023,16,Sacramento State Hornets,2023-01-28,-0.8216217477352048,included_game_day
+2023,16,Sacramento State Hornets,2023-02-02,-19.992661961470873,included_game_day
+2023,16,Sacramento State Hornets,2023-02-04,-32.61658964283005,included_game_day
+2023,16,Sacramento State Hornets,2023-02-09,-53.10864014683516,included_game_day
+2023,16,Sacramento State Hornets,2023-02-11,-61.92731450781362,included_game_day
+2023,16,Sacramento State Hornets,2023-02-16,-64.20952102929984,included_game_day
+2023,16,Sacramento State Hornets,2023-02-18,-60.75545852617986,included_game_day
+2023,16,Sacramento State Hornets,2023-02-23,-52.94829061825169,included_game_day
+2023,16,Sacramento State Hornets,2023-02-25,-46.17979100868165,included_game_day
+2023,16,Sacramento State Hornets,2023-02-27,-41.68962521790437,included_game_day
+2023,16,Sacramento State Hornets,2023-03-06,-44.133716683742634,included_game_day
+2024,16,Sacramento State Hornets,2023-11-07,-11.0,included_game_day
+2024,16,Sacramento State Hornets,2023-11-10,-24.3,included_game_day
+2024,16,Sacramento State Hornets,2023-11-17,-51.84,included_game_day
+2024,16,Sacramento State Hornets,2023-11-20,-54.573,included_game_day
+2024,16,Sacramento State Hornets,2023-11-22,-54.9063,included_game_day
+2024,16,Sacramento State Hornets,2023-11-26,-40.21577,included_game_day
+2024,16,Sacramento State Hornets,2023-12-02,-42.80025604,included_game_day
+2024,16,Sacramento State Hornets,2023-12-09,-45.912387952210004,included_game_day
+2024,16,Sacramento State Hornets,2023-12-18,-77.465366843978,included_game_day
+2024,16,Sacramento State Hornets,2023-12-28,-73.07057693414413,included_game_day
+2024,16,Sacramento State Hornets,2023-12-30,-88.28646352431076,included_game_day
+2024,16,Sacramento State Hornets,2024-01-03,-83.33982734950408,included_game_day
+2024,16,Sacramento State Hornets,2024-01-06,-79.33432277713761,included_game_day
+2024,16,Sacramento State Hornets,2024-01-11,-67.17182935736902,included_game_day
+2024,16,Sacramento State Hornets,2024-01-13,-66.58238281561978,included_game_day
+2024,16,Sacramento State Hornets,2024-01-18,-59.123547405538865,included_game_day
+2024,16,Sacramento State Hornets,2024-01-20,-70.18422455494925,included_game_day
+2024,16,Sacramento State Hornets,2024-01-25,-77.66708496330031,included_game_day
+2024,16,Sacramento State Hornets,2024-01-27,-74.40440107618859,included_game_day
+2024,16,Sacramento State Hornets,2024-02-03,-75.3070067089514,included_game_day
+2024,16,Sacramento State Hornets,2024-02-05,-94.62079693897202,included_game_day
+2024,16,Sacramento State Hornets,2024-02-08,-113.29942668851888,included_game_day
+2024,16,Sacramento State Hornets,2024-02-10,-101.20322271968351,included_game_day
+2024,16,Sacramento State Hornets,2024-02-15,-118.157005843426,included_game_day
+2024,16,Sacramento State Hornets,2024-02-17,-114.51060001921311,included_game_day
+2024,16,Sacramento State Hornets,2024-02-22,-106.07700760761118,included_game_day
+2024,16,Sacramento State Hornets,2024-02-24,-94.0514984765926,included_game_day
+2024,16,Sacramento State Hornets,2024-03-02,-79.00167744536125,included_game_day
+2024,16,Sacramento State Hornets,2024-03-04,-74.59443643018425,included_game_day
+2024,16,Sacramento State Hornets,2024-03-09,-68.10685207687801,included_game_day
+2024,16,Sacramento State Hornets,2024-03-10,-54.22981770006703,included_game_day
+2024,16,Sacramento State Hornets,2024-03-12,-52.51212654061993,included_game_day
+2025,16,Sacramento State Hornets,2024-11-08,-4.0,included_game_day
+2025,16,Sacramento State Hornets,2024-11-12,-9.173,included_game_day
+2025,16,Sacramento State Hornets,2024-11-16,-19.755699999999997,included_game_day
+2025,16,Sacramento State Hornets,2024-11-24,-18.693591999999995,included_game_day
+2025,16,Sacramento State Hornets,2024-11-27,-12.062321999999996,included_game_day
+2025,16,Sacramento State Hornets,2024-11-30,-25.812161999999997,included_game_day
+2025,16,Sacramento State Hornets,2024-12-04,-49.103152079,included_game_day
+2025,16,Sacramento State Hornets,2024-12-07,-62.2395937468,included_game_day
+2025,16,Sacramento State Hornets,2024-12-14,-67.46710563489,included_game_day
+2025,16,Sacramento State Hornets,2024-12-17,-86.913116858915,included_game_day
+2025,16,Sacramento State Hornets,2025-01-04,-81.35065129420308,included_game_day
+2025,16,Sacramento State Hornets,2025-01-09,-91.99921630994166,included_game_day
+2025,16,Sacramento State Hornets,2025-01-11,-102.70980077985203,included_game_day
+2025,16,Sacramento State Hornets,2025-01-16,-116.03026589615729,included_game_day
+2025,16,Sacramento State Hornets,2025-01-18,-103.46428489956634,included_game_day
+2025,16,Sacramento State Hornets,2025-01-23,-92.49063175278354,included_game_day
+2025,16,Sacramento State Hornets,2025-01-25,-99.19405077571969,included_game_day
+2025,16,Sacramento State Hornets,2025-01-30,-100.74014243006,included_game_day
+2025,16,Sacramento State Hornets,2025-02-01,-117.87649254105858,included_game_day
+2025,16,Sacramento State Hornets,2025-02-06,-110.15349709623948,included_game_day
+2025,16,Sacramento State Hornets,2025-02-08,-102.98979613681584,included_game_day
+2025,16,Sacramento State Hornets,2025-02-13,-109.85820447450908,included_game_day
+2025,16,Sacramento State Hornets,2025-02-15,-109.47794441935407,included_game_day
+2025,16,Sacramento State Hornets,2025-02-20,-100.729742211007,included_game_day
+2025,16,Sacramento State Hornets,2025-02-22,-106.97052330873757,included_game_day
+2025,16,Sacramento State Hornets,2025-02-27,-103.76987903254141,included_game_day
+2025,16,Sacramento State Hornets,2025-03-01,-127.39630086687023,included_game_day
+2025,16,Sacramento State Hornets,2025-03-03,-113.87935265669637,included_game_day
+2025,16,Sacramento State Hornets,2025-03-08,-122.45501569228243,included_game_day
+2026,16,Sacramento State Hornets,2025-11-11,-7.26,included_game_day
+2026,16,Sacramento State Hornets,2025-11-14,-6.795999999999999,included_game_day
+2026,16,Sacramento State Hornets,2025-11-16,-10.0757,included_game_day
+2026,16,Sacramento State Hornets,2025-11-18,-34.67733,included_game_day
+2026,16,Sacramento State Hornets,2025-11-21,-47.33069,included_game_day
+2026,16,Sacramento State Hornets,2025-11-29,-50.5432458083,included_game_day
+2026,16,Sacramento State Hornets,2025-12-02,-61.17934855507,included_game_day
+2026,16,Sacramento State Hornets,2025-12-20,-57.104860351103675,included_game_day
+2026,16,Sacramento State Hornets,2025-12-22,-62.090881658585985,included_game_day
+2026,16,Sacramento State Hornets,2026-01-01,-65.10306262132343,included_game_day
+2026,16,Sacramento State Hornets,2026-01-03,-71.25098716108175,included_game_day
+2026,16,Sacramento State Hornets,2026-01-10,-87.21884682370377,included_game_day
+2026,16,Sacramento State Hornets,2026-01-15,-75.89184444182231,included_game_day
+2026,16,Sacramento State Hornets,2026-01-17,-67.62223963567908,included_game_day
+2026,16,Sacramento State Hornets,2026-01-22,-68.60973059126847,included_game_day
+2026,16,Sacramento State Hornets,2026-01-24,-70.65835454854661,included_game_day
+2026,16,Sacramento State Hornets,2026-01-29,-62.242339609950136,included_game_day
+2026,16,Sacramento State Hornets,2026-01-31,-50.11894118267948,included_game_day
+2026,16,Sacramento State Hornets,2026-02-02,-36.40097641682614,included_game_day
+2026,16,Sacramento State Hornets,2026-02-07,-33.35006117895388,included_game_day
+2026,16,Sacramento State Hornets,2026-02-12,-43.30994766598097,included_game_day
+2026,16,Sacramento State Hornets,2026-02-14,-51.18986500744982,included_game_day
+2026,16,Sacramento State Hornets,2026-02-19,-57.23410807058946,included_game_day
+2026,16,Sacramento State Hornets,2026-02-21,-61.47844846964359,included_game_day
+2026,16,Sacramento State Hornets,2026-02-26,-65.01273889669963,included_game_day
+2026,16,Sacramento State Hornets,2026-02-28,-76.70358048716804,included_game_day
+2026,16,Sacramento State Hornets,2026-03-02,-61.60345208684211,included_game_day
+2026,16,Sacramento State Hornets,2026-03-07,-78.07192975018233,included_game_day
+2027,16,Sacramento State Hornets,2026-11-07,0.15000000000000036,included_game_day
+2027,16,Sacramento State Hornets,2026-11-14,-22.167099999999998,included_game_day
+2027,16,Sacramento State Hornets,2026-11-19,-27.48483,included_game_day

@@ -1,0 +1,1221 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,61,Georgia,1987-11-27,6.0,included_game_day
+1988,61,Georgia,1987-11-28,-9.6,included_game_day
+1988,61,Georgia,1987-12-05,-3.567,included_game_day
+1988,61,Georgia,1987-12-12,22.863489,included_game_day
+1988,61,Georgia,1987-12-14,35.8144351,included_game_day
+1988,61,Georgia,1987-12-18,39.5569967,included_game_day
+1988,61,Georgia,1987-12-19,55.19754803,included_game_day
+1988,61,Georgia,1987-12-23,60.826145971,included_game_day
+1988,61,Georgia,1987-12-24,22.803582510269003,included_game_day
+1988,61,Georgia,1987-12-25,43.392543952849,included_game_day
+1988,61,Georgia,1987-12-29,82.1019286528641,included_game_day
+1988,61,Georgia,1988-01-02,71.9273070838473,included_game_day
+1988,61,Georgia,1988-01-06,68.07425359355419,included_game_day
+1988,61,Georgia,1988-01-09,56.52357210112266,included_game_day
+1988,61,Georgia,1988-01-13,76.71080674097382,included_game_day
+1988,61,Georgia,1988-01-16,81.85913283785966,included_game_day
+1988,61,Georgia,1988-01-20,66.76220165703378,included_game_day
+1988,61,Georgia,1988-01-23,53.74619990411939,included_game_day
+1988,61,Georgia,1988-01-27,62.10058822312867,included_game_day
+1988,61,Georgia,1988-02-03,51.05344594103707,included_game_day
+1988,61,Georgia,1988-02-06,55.58790095748122,included_game_day
+1988,61,Georgia,1988-02-10,61.80736313626768,included_game_day
+1988,61,Georgia,1988-02-13,56.26483920399413,included_game_day
+1988,61,Georgia,1988-02-17,62.795886697428465,included_game_day
+1988,61,Georgia,1988-02-20,58.16835105072299,included_game_day
+1988,61,Georgia,1988-02-24,59.55875579262107,included_game_day
+1988,61,Georgia,1988-02-27,53.81997825217427,included_game_day
+1988,61,Georgia,1988-03-02,57.57300282087567,included_game_day
+1988,61,Georgia,1988-03-05,63.500699486172984,included_game_day
+1988,61,Georgia,1988-03-10,77.01460255260781,included_game_day
+1988,61,Georgia,1988-03-11,83.06976660004408,included_game_day
+1988,61,Georgia,1988-03-12,83.50681561097942,included_game_day
+1988,61,Georgia,1988-03-13,84.26689410160377,included_game_day
+1988,61,Georgia,1988-03-17,83.6740885283824,included_game_day
+1988,61,Georgia,1988-03-21,63.08088641305259,included_game_day
+1989,61,Georgia,1988-11-18,12.0,included_game_day
+1989,61,Georgia,1988-11-19,8.2,included_game_day
+1989,61,Georgia,1988-11-28,15.379999999999999,included_game_day
+1989,61,Georgia,1988-12-02,26.432,included_game_day
+1989,61,Georgia,1988-12-03,8.822229999999998,included_game_day
+1989,61,Georgia,1988-12-10,35.016417,included_game_day
+1989,61,Georgia,1988-12-17,49.88015573999999,included_game_day
+1989,61,Georgia,1988-12-19,82.36943516599999,included_game_day
+1989,61,Georgia,1988-12-22,81.14737288679,included_game_day
+1989,61,Georgia,1988-12-29,77.894956389111,included_game_day
+1989,61,Georgia,1988-12-30,88.51554873313611,included_game_day
+1989,61,Georgia,1989-01-04,70.0640739350677,included_game_day
+1989,61,Georgia,1989-01-07,43.04678388528369,included_game_day
+1989,61,Georgia,1989-01-11,28.466259002344614,included_game_day
+1989,61,Georgia,1989-01-14,32.40011531016092,included_game_day
+1989,61,Georgia,1989-01-19,46.95108896914273,included_game_day
+1989,61,Georgia,1989-01-21,36.29039975127969,included_game_day
+1989,61,Georgia,1989-01-25,33.710807216786705,included_game_day
+1989,61,Georgia,1989-01-28,40.104061624121414,included_game_day
+1989,61,Georgia,1989-02-02,49.420157469655834,included_game_day
+1989,61,Georgia,1989-02-05,56.75872946993114,included_game_day
+1989,61,Georgia,1989-02-08,53.39452691177432,included_game_day
+1989,61,Georgia,1989-02-12,44.54168049910638,included_game_day
+1989,61,Georgia,1989-02-15,31.503997095081644,included_game_day
+1989,61,Georgia,1989-02-18,25.04075301454797,included_game_day
+1989,61,Georgia,1989-02-20,17.12754419705589,included_game_day
+1989,61,Georgia,1989-02-22,9.503410116335488,included_game_day
+1989,61,Georgia,1989-03-01,2.733377369784666,included_game_day
+1989,61,Georgia,1989-03-04,-0.7610666918090478,included_game_day
+1989,61,Georgia,1989-03-09,14.403347974489034,included_game_day
+1989,61,Georgia,1989-03-10,18.592425167713557,included_game_day
+1990,61,Georgia,1989-11-27,32.9,included_game_day
+1990,61,Georgia,1989-12-01,35.55,included_game_day
+1990,61,Georgia,1989-12-02,41.5898,included_game_day
+1990,61,Georgia,1989-12-09,63.910210299999996,included_game_day
+1990,61,Georgia,1989-12-11,74.14824378,included_game_day
+1990,61,Georgia,1989-12-16,70.351859702,included_game_day
+1990,61,Georgia,1989-12-20,90.196925559229,included_game_day
+1990,61,Georgia,1989-12-28,86.5219366033061,included_game_day
+1990,61,Georgia,1989-12-29,82.25332302400591,included_game_day
+1990,61,Georgia,1990-01-03,87.21446040257447,included_game_day
+1990,61,Georgia,1990-01-06,56.23005717565333,included_game_day
+1990,61,Georgia,1990-01-09,47.3058710565505,included_game_day
+1990,61,Georgia,1990-01-13,70.09410753927628,included_game_day
+1990,61,Georgia,1990-01-17,76.54545762712003,included_game_day
+1990,61,Georgia,1990-01-20,61.14433039084333,included_game_day
+1990,61,Georgia,1990-01-24,71.20380293382061,included_game_day
+1990,61,Georgia,1990-01-27,71.84977167392822,included_game_day
+1990,61,Georgia,1990-01-31,74.39442192846971,included_game_day
+1990,61,Georgia,1990-02-03,64.12886846929287,included_game_day
+1990,61,Georgia,1990-02-06,57.86160455506828,included_game_day
+1990,61,Georgia,1990-02-10,70.42751968104243,included_game_day
+1990,61,Georgia,1990-02-14,67.81631416236907,included_game_day
+1990,61,Georgia,1990-02-17,75.21525783807672,included_game_day
+1990,61,Georgia,1990-02-21,90.12461342228303,included_game_day
+1990,61,Georgia,1990-02-25,90.4767795032271,included_game_day
+1990,61,Georgia,1990-02-28,77.51857610858885,included_game_day
+1990,61,Georgia,1990-03-03,91.39306855084445,included_game_day
+1990,61,Georgia,1990-03-09,80.06668775693518,included_game_day
+1990,61,Georgia,1990-03-16,69.12143515651518,included_game_day
+1991,61,Georgia,1990-11-23,31.0,included_game_day
+1991,61,Georgia,1990-11-24,76.7,included_game_day
+1991,61,Georgia,1990-11-28,123.53,included_game_day
+1991,61,Georgia,1990-12-08,172.825685,included_game_day
+1991,61,Georgia,1990-12-13,156.77706457,included_game_day
+1991,61,Georgia,1990-12-15,157.795780503,included_game_day
+1991,61,Georgia,1990-12-19,140.2686132537,included_game_day
+1991,61,Georgia,1990-12-22,141.167541930568,included_game_day
+1991,61,Georgia,1990-12-29,128.6258368353032,included_game_day
+1991,61,Georgia,1991-01-02,120.05842306460707,included_game_day
+1991,61,Georgia,1991-01-05,128.22738980170652,included_game_day
+1991,61,Georgia,1991-01-08,119.5364659927459,included_game_day
+1991,61,Georgia,1991-01-12,132.25437849686,included_game_day
+1991,61,Georgia,1991-01-16,138.99313311799295,included_game_day
+1991,61,Georgia,1991-01-19,129.3443554545273,included_game_day
+1991,61,Georgia,1991-01-23,113.09934833093018,included_game_day
+1991,61,Georgia,1991-01-30,151.79392772018713,included_game_day
+1991,61,Georgia,1991-02-03,138.54300202091508,included_game_day
+1991,61,Georgia,1991-02-06,134.70168965659803,included_game_day
+1991,61,Georgia,1991-02-08,126.21880488551618,included_game_day
+1991,61,Georgia,1991-02-12,103.31687378441858,included_game_day
+1991,61,Georgia,1991-02-16,99.06506799484343,included_game_day
+1991,61,Georgia,1991-02-20,99.33825443136543,included_game_day
+1991,61,Georgia,1991-02-23,99.15557030478496,included_game_day
+1991,61,Georgia,1991-02-27,96.15377119799335,included_game_day
+1991,61,Georgia,1991-03-02,99.37789006336776,included_game_day
+1991,61,Georgia,1991-03-08,108.24067489956295,included_game_day
+1991,61,Georgia,1991-03-09,79.13816221289956,included_game_day
+1991,61,Georgia,1991-03-14,72.47372006203268,included_game_day
+1992,61,Georgia,1991-11-26,17.0,included_game_day
+1992,61,Georgia,1991-12-01,15.79,included_game_day
+1992,61,Georgia,1991-12-06,50.3246198,included_game_day
+1992,61,Georgia,1991-12-07,38.55509782,included_game_day
+1992,61,Georgia,1991-12-15,35.426132912,included_game_day
+1992,61,Georgia,1991-12-18,39.6741409608,included_game_day
+1992,61,Georgia,1991-12-21,57.12497563465,included_game_day
+1992,61,Georgia,1991-12-28,58.898478046668004,included_game_day
+1992,61,Georgia,1992-01-04,57.606763178318005,included_game_day
+1992,61,Georgia,1992-01-07,54.90810778184462,included_game_day
+1992,61,Georgia,1992-01-11,54.1754961158643,included_game_day
+1992,61,Georgia,1992-01-15,56.89433304849506,included_game_day
+1992,61,Georgia,1992-01-18,57.772666304094805,included_game_day
+1992,61,Georgia,1992-01-22,53.48380972012311,included_game_day
+1992,61,Georgia,1992-01-25,49.43721950855611,included_game_day
+1992,61,Georgia,1992-02-01,46.32580177033762,included_game_day
+1992,61,Georgia,1992-02-05,40.007156924851756,included_game_day
+1992,61,Georgia,1992-02-08,57.08229137341827,included_game_day
+1992,61,Georgia,1992-02-11,73.75510231176057,included_game_day
+1992,61,Georgia,1992-02-16,68.21616846069257,included_game_day
+1992,61,Georgia,1992-02-18,82.70059510995677,included_game_day
+1992,61,Georgia,1992-02-23,73.35695782589586,included_game_day
+1992,61,Georgia,1992-02-26,52.21184766922359,included_game_day
+1992,61,Georgia,1992-02-29,65.73557811430241,included_game_day
+1992,61,Georgia,1992-03-04,60.464175713894676,included_game_day
+1992,61,Georgia,1992-03-07,69.3524647512356,included_game_day
+1992,61,Georgia,1992-03-12,80.9818934898045,included_game_day
+1992,61,Georgia,1992-03-13,74.77475109616077,included_game_day
+1993,61,Georgia,1992-12-01,-8.0,included_game_day
+1993,61,Georgia,1992-12-11,5.892620000000001,included_game_day
+1993,61,Georgia,1992-12-12,3.9074480000000005,included_game_day
+1993,61,Georgia,1992-12-16,-0.8002967999999999,included_game_day
+1993,61,Georgia,1992-12-19,-1.8499051199999998,included_game_day
+1993,61,Georgia,1992-12-22,-4.524848988,included_game_day
+1993,61,Georgia,1992-12-30,10.20340131340578,included_game_day
+1993,61,Georgia,1993-01-02,18.933943101705204,included_game_day
+1993,61,Georgia,1993-01-05,10.090049202120683,included_game_day
+1993,61,Georgia,1993-01-09,25.347983280414518,included_game_day
+1993,61,Georgia,1993-01-13,21.21098722306591,included_game_day
+1993,61,Georgia,1993-01-16,23.259722229728126,included_game_day
+1993,61,Georgia,1993-01-23,23.844695316739756,included_game_day
+1993,61,Georgia,1993-01-27,23.389952475431404,included_game_day
+1993,61,Georgia,1993-01-30,13.459539428672727,included_game_day
+1993,61,Georgia,1993-02-03,30.773161857466654,included_game_day
+1993,61,Georgia,1993-02-06,58.328721910056004,included_game_day
+1993,61,Georgia,1993-02-09,58.50275424252024,included_game_day
+1993,61,Georgia,1993-02-13,57.13362911639762,included_game_day
+1993,61,Georgia,1993-02-17,62.09850260857681,included_game_day
+1993,61,Georgia,1993-02-20,60.91033843306374,included_game_day
+1993,61,Georgia,1993-02-24,64.70847889193101,included_game_day
+1993,61,Georgia,1993-02-27,64.06075115319797,included_game_day
+1993,61,Georgia,1993-03-03,53.05594144681531,included_game_day
+1993,61,Georgia,1993-03-06,68.10910478165471,included_game_day
+1993,61,Georgia,1993-03-11,88.81579042254553,included_game_day
+1993,61,Georgia,1993-03-12,88.03172742156927,included_game_day
+1993,61,Georgia,1993-03-17,78.6070312455894,included_game_day
+1994,61,Georgia,1993-11-17,19.0,included_game_day
+1994,61,Georgia,1993-11-18,0.6999999999999993,included_game_day
+1994,61,Georgia,1993-12-04,31.77,included_game_day
+1994,61,Georgia,1993-12-07,80.004,included_game_day
+1994,61,Georgia,1993-12-15,74.13250000000001,included_game_day
+1994,61,Georgia,1993-12-18,64.18400953000001,included_game_day
+1994,61,Georgia,1993-12-21,97.68247969700002,included_game_day
+1994,61,Georgia,1993-12-28,92.94887536730002,included_game_day
+1994,61,Georgia,1993-12-29,85.33774305591032,included_game_day
+1994,61,Georgia,1994-01-05,86.67761958433411,included_game_day
+1994,61,Georgia,1994-01-08,94.08272624993772,included_game_day
+1994,61,Georgia,1994-01-12,86.31445568240923,included_game_day
+1994,61,Georgia,1994-01-15,80.79457591420862,included_game_day
+1994,61,Georgia,1994-01-19,71.6591665017547,included_game_day
+1994,61,Georgia,1994-01-22,46.30321845018642,included_game_day
+1994,61,Georgia,1994-01-23,42.82862421225233,included_game_day
+1994,61,Georgia,1994-01-26,19.99481573450664,included_game_day
+1994,61,Georgia,1994-01-29,31.597228189344747,included_game_day
+1994,61,Georgia,1994-01-31,38.56410032657729,included_game_day
+1994,61,Georgia,1994-02-05,35.8231079013144,included_game_day
+1994,61,Georgia,1994-02-06,30.600995726196743,included_game_day
+1994,61,Georgia,1994-02-12,37.05841876614602,included_game_day
+1994,61,Georgia,1994-02-16,28.233875382981118,included_game_day
+1994,61,Georgia,1994-02-19,46.51291679481725,included_game_day
+1994,61,Georgia,1994-02-22,46.8544678820989,included_game_day
+1994,61,Georgia,1994-02-27,37.244989078739906,included_game_day
+1994,61,Georgia,1994-03-02,32.722190643216564,included_game_day
+1994,61,Georgia,1994-03-06,31.854882446601415,included_game_day
+1994,61,Georgia,1994-03-10,39.99998982037091,included_game_day
+1994,61,Georgia,1994-03-11,39.928785992156456,included_game_day
+1995,61,Georgia,1994-11-26,24.0,included_game_day
+1995,61,Georgia,1994-11-29,48.6,included_game_day
+1995,61,Georgia,1994-12-03,56.74,included_game_day
+1995,61,Georgia,1994-12-08,85.327,included_game_day
+1995,61,Georgia,1994-12-10,89.3708,included_game_day
+1995,61,Georgia,1994-12-14,81.897462,included_game_day
+1995,61,Georgia,1994-12-17,70.7384176,included_game_day
+1995,61,Georgia,1994-12-21,90.4051681377,included_game_day
+1995,61,Georgia,1994-12-29,100.102282553984,included_game_day
+1995,61,Georgia,1994-12-31,127.7728378985856,included_game_day
+1995,61,Georgia,1995-01-04,122.64936882876944,included_game_day
+1995,61,Georgia,1995-01-07,110.48965573679189,included_game_day
+1995,61,Georgia,1995-01-11,106.21567324415192,included_game_day
+1995,61,Georgia,1995-01-14,103.6930874917986,included_game_day
+1995,61,Georgia,1995-01-18,103.80731402246893,included_game_day
+1995,61,Georgia,1995-01-21,101.73121465451129,included_game_day
+1995,61,Georgia,1995-01-28,89.30288542924866,included_game_day
+1995,61,Georgia,1995-02-04,111.53983007679662,included_game_day
+1995,61,Georgia,1995-02-07,87.49854867563192,included_game_day
+1995,61,Georgia,1995-02-11,102.35165231902043,included_game_day
+1995,61,Georgia,1995-02-15,94.67447664626899,included_game_day
+1995,61,Georgia,1995-02-18,93.82527361737189,included_game_day
+1995,61,Georgia,1995-02-22,114.43919135009496,included_game_day
+1995,61,Georgia,1995-02-25,109.84880189364844,included_game_day
+1995,61,Georgia,1995-03-01,92.69970071286889,included_game_day
+1995,61,Georgia,1995-03-04,115.44279020044756,included_game_day
+1995,61,Georgia,1995-03-10,104.57969508517462,included_game_day
+1995,61,Georgia,1995-03-17,93.1856334817327,included_game_day
+1996,61,Georgia,1995-11-27,44.0,included_game_day
+1996,61,Georgia,1995-11-29,55.17,included_game_day
+1996,61,Georgia,1995-12-02,72.453,included_game_day
+1996,61,Georgia,1995-12-07,63.882971000000005,included_game_day
+1996,61,Georgia,1995-12-10,79.5111739,included_game_day
+1996,61,Georgia,1995-12-13,95.25395471,included_game_day
+1996,61,Georgia,1995-12-16,105.099769239,included_game_day
+1996,61,Georgia,1995-12-19,137.5206812091,included_game_day
+1996,61,Georgia,1995-12-21,145.33191820374998,included_game_day
+1996,61,Georgia,1995-12-30,158.21477428830508,included_game_day
+1996,61,Georgia,1996-01-03,176.80250120826418,included_game_day
+1996,61,Georgia,1996-01-06,155.35671294534487,included_game_day
+1996,61,Georgia,1996-01-13,147.70933502144277,included_game_day
+1996,61,Georgia,1996-01-17,157.11469192632427,included_game_day
+1996,61,Georgia,1996-01-20,142.65536374270573,included_game_day
+1996,61,Georgia,1996-01-24,143.48653840237253,included_game_day
+1996,61,Georgia,1996-01-27,131.64567162879996,included_game_day
+1996,61,Georgia,1996-01-31,123.22810092116158,included_game_day
+1996,61,Georgia,1996-02-03,132.67744968418913,included_game_day
+1996,61,Georgia,1996-02-07,127.43818258324993,included_game_day
+1996,61,Georgia,1996-02-10,127.80669175210507,included_game_day
+1996,61,Georgia,1996-02-14,130.0179697075183,included_game_day
+1996,61,Georgia,1996-02-21,126.80230925535973,included_game_day
+1996,61,Georgia,1996-02-25,128.6892514957668,included_game_day
+1996,61,Georgia,1996-02-28,137.16700812409573,included_game_day
+1996,61,Georgia,1996-03-02,141.18488036062234,included_game_day
+1996,61,Georgia,1996-03-08,142.1406880684398,included_game_day
+1996,61,Georgia,1996-03-09,118.7300163038396,included_game_day
+1996,61,Georgia,1996-03-14,121.70222745044,included_game_day
+1996,61,Georgia,1996-03-16,130.39702609100098,included_game_day
+1996,61,Georgia,1996-03-22,131.18991619015281,included_game_day
+1997,61,Georgia,1996-11-22,21.0,included_game_day
+1997,61,Georgia,1996-11-26,53.9,included_game_day
+1997,61,Georgia,1996-11-29,78.61,included_game_day
+1997,61,Georgia,1996-12-03,78.59825,included_game_day
+1997,61,Georgia,1996-12-07,86.12792499999999,included_game_day
+1997,61,Georgia,1996-12-14,85.98813822,included_game_day
+1997,61,Georgia,1996-12-17,92.276326648,included_game_day
+1997,61,Georgia,1996-12-21,92.582029267,included_game_day
+1997,61,Georgia,1996-12-23,96.01608484409999,included_game_day
+1997,61,Georgia,1996-12-27,99.60238744143,included_game_day
+1997,61,Georgia,1996-12-28,94.72183118724837,included_game_day
+1997,61,Georgia,1996-12-29,106.5509185606326,included_game_day
+1997,61,Georgia,1997-01-05,101.91313484794794,included_game_day
+1997,61,Georgia,1997-01-08,110.98445476933453,included_game_day
+1997,61,Georgia,1997-01-14,95.98606846571079,included_game_day
+1997,61,Georgia,1997-01-18,84.95397328150135,included_game_day
+1997,61,Georgia,1997-01-22,86.44127975656006,included_game_day
+1997,61,Georgia,1997-01-25,83.51415002364544,included_game_day
+1997,61,Georgia,1997-01-29,90.56671421635704,included_game_day
+1997,61,Georgia,1997-02-01,82.89989328196918,included_game_day
+1997,61,Georgia,1997-02-05,89.39556834708371,included_game_day
+1997,61,Georgia,1997-02-08,80.21541534484207,included_game_day
+1997,61,Georgia,1997-02-12,84.11117133127689,included_game_day
+1997,61,Georgia,1997-02-15,86.14025881441022,included_game_day
+1997,61,Georgia,1997-02-19,77.20168751104814,included_game_day
+1997,61,Georgia,1997-02-22,87.77229374477069,included_game_day
+1997,61,Georgia,1997-02-26,99.20920887067798,included_game_day
+1997,61,Georgia,1997-03-01,99.42243484866422,included_game_day
+1997,61,Georgia,1997-03-06,109.75089476266668,included_game_day
+1997,61,Georgia,1997-03-07,109.7867799771328,included_game_day
+1997,61,Georgia,1997-03-08,132.10034341914834,included_game_day
+1997,61,Georgia,1997-03-09,115.96557775360039,included_game_day
+1997,61,Georgia,1997-03-14,105.52789214479475,included_game_day
+1998,61,Georgia,1997-11-11,-2.0,included_game_day
+1998,61,Georgia,1997-11-12,-0.3999999999999999,included_game_day
+1998,61,Georgia,1997-11-20,17.340000000000003,included_game_day
+1998,61,Georgia,1997-11-22,67.206,included_game_day
+1998,61,Georgia,1997-11-25,77.60940000000001,included_game_day
+1998,61,Georgia,1997-11-28,88.00978,included_game_day
+1998,61,Georgia,1997-12-06,81.25555709000001,included_game_day
+1998,61,Georgia,1997-12-09,87.55760238100001,included_game_day
+1998,61,Georgia,1997-12-13,82.2209568553,included_game_day
+1998,61,Georgia,1997-12-20,79.516734560821,included_game_day
+1998,61,Georgia,1997-12-23,81.17986041585236,included_game_day
+1998,61,Georgia,1997-12-27,83.04951862014447,included_game_day
+1998,61,Georgia,1998-01-03,70.57818793094918,included_game_day
+1998,61,Georgia,1998-01-06,63.30251752624606,included_game_day
+1998,61,Georgia,1998-01-10,61.77489282861566,included_game_day
+1998,61,Georgia,1998-01-18,47.988558362752755,included_game_day
+1998,61,Georgia,1998-01-21,47.20275581973767,included_game_day
+1998,61,Georgia,1998-01-24,56.52174003344265,included_game_day
+1998,61,Georgia,1998-01-28,62.080980015314246,included_game_day
+1998,61,Georgia,1998-01-31,56.01293321584872,included_game_day
+1998,61,Georgia,1998-02-04,29.35637063118896,included_game_day
+1998,61,Georgia,1998-02-07,42.661950521009516,included_game_day
+1998,61,Georgia,1998-02-10,66.07836751949529,included_game_day
+1998,61,Georgia,1998-02-14,88.20215091317274,included_game_day
+1998,61,Georgia,1998-02-18,87.34583821885624,included_game_day
+1998,61,Georgia,1998-02-22,84.18473743909956,included_game_day
+1998,61,Georgia,1998-02-24,87.54631679870634,included_game_day
+1998,61,Georgia,1998-02-28,91.87034195816044,included_game_day
+1998,61,Georgia,1998-03-05,89.35443060150051,included_game_day
+1998,61,Georgia,1998-03-06,88.96121203316285,included_game_day
+1998,61,Georgia,1998-03-11,101.69082334431026,included_game_day
+1998,61,Georgia,1998-03-17,107.82232295618321,included_game_day
+1998,61,Georgia,1998-03-19,114.0556363931605,included_game_day
+1998,61,Georgia,1998-03-24,103.99787833707481,included_game_day
+1998,61,Georgia,1998-03-26,116.77151501059949,included_game_day
+1999,61,Georgia,1998-11-13,32.0,included_game_day
+1999,61,Georgia,1998-11-16,49.2,included_game_day
+1999,61,Georgia,1998-11-18,43.966,included_game_day
+1999,61,Georgia,1998-11-23,41.7094,included_game_day
+1999,61,Georgia,1998-11-29,38.52946,included_game_day
+1999,61,Georgia,1998-12-02,49.501533359999996,included_game_day
+1999,61,Georgia,1998-12-04,57.938177024,included_game_day
+1999,61,Georgia,1998-12-08,56.9071239256,included_game_day
+1999,61,Georgia,1998-12-13,51.40325296904,included_game_day
+1999,61,Georgia,1998-12-19,45.548823039176,included_game_day
+1999,61,Georgia,1998-12-22,58.0239214105492,included_game_day
+1999,61,Georgia,1998-12-28,51.648215198881935,included_game_day
+1999,61,Georgia,1999-01-02,56.854626368896156,included_game_day
+1999,61,Georgia,1999-01-06,55.697177398883696,included_game_day
+1999,61,Georgia,1999-01-10,55.73268198583547,included_game_day
+1999,61,Georgia,1999-01-13,57.9974772835736,included_game_day
+1999,61,Georgia,1999-01-16,59.80367642768938,included_game_day
+1999,61,Georgia,1999-01-20,53.01294394885133,included_game_day
+1999,61,Georgia,1999-01-23,53.04487189917063,included_game_day
+1999,61,Georgia,1999-01-26,56.08921261133082,included_game_day
+1999,61,Georgia,1999-01-30,56.28431713108475,included_game_day
+1999,61,Georgia,1999-02-03,70.03623976490812,included_game_day
+1999,61,Georgia,1999-02-06,81.57837880339048,included_game_day
+1999,61,Georgia,1999-02-13,68.81850482821842,included_game_day
+1999,61,Georgia,1999-02-17,61.55077318851948,included_game_day
+1999,61,Georgia,1999-02-20,54.44434265780991,included_game_day
+1999,61,Georgia,1999-02-23,49.53932996833675,included_game_day
+1999,61,Georgia,1999-02-27,38.730801843802084,included_game_day
+1999,61,Georgia,1999-03-04,30.90442464415444,included_game_day
+1999,61,Georgia,1999-03-10,20.900526219198124,included_game_day
+2000,61,Georgia,1999-11-19,-1.0,included_game_day
+2000,61,Georgia,1999-11-25,-8.6,included_game_day
+2000,61,Georgia,1999-11-26,-30.71,included_game_day
+2000,61,Georgia,1999-11-27,1.9709999999999965,included_game_day
+2000,61,Georgia,1999-12-01,4.387499999999997,included_game_day
+2000,61,Georgia,1999-12-06,10.761610599999997,included_game_day
+2000,61,Georgia,1999-12-08,10.036269539999997,included_game_day
+2000,61,Georgia,1999-12-11,18.871117585999997,included_game_day
+2000,61,Georgia,1999-12-18,15.308116827399997,included_game_day
+2000,61,Georgia,1999-12-21,6.897798498339096,included_game_day
+2000,61,Georgia,1999-12-23,32.3577022355074,included_game_day
+2000,61,Georgia,1999-12-28,31.838286187100284,included_game_day
+2000,61,Georgia,2000-01-05,23.75194621049188,included_game_day
+2000,61,Georgia,2000-01-08,21.062591883683602,included_game_day
+2000,61,Georgia,2000-01-12,2.140886717551375,included_game_day
+2000,61,Georgia,2000-01-15,20.350933634087014,included_game_day
+2000,61,Georgia,2000-01-19,28.01553426940795,included_game_day
+2000,61,Georgia,2000-01-22,55.59940143983065,included_game_day
+2000,61,Georgia,2000-01-26,53.991714364544045,included_game_day
+2000,61,Georgia,2000-01-30,50.45751028734623,included_game_day
+2000,61,Georgia,2000-02-02,41.1875970169669,included_game_day
+2000,61,Georgia,2000-02-05,32.21338244339727,included_game_day
+2000,61,Georgia,2000-02-09,20.37061712933848,included_game_day
+2000,61,Georgia,2000-02-12,25.432317662566614,included_game_day
+2000,61,Georgia,2000-02-19,32.77351638315413,included_game_day
+2000,61,Georgia,2000-02-23,24.676119367221965,included_game_day
+2000,61,Georgia,2000-02-26,15.749129373557729,included_game_day
+2000,61,Georgia,2000-03-01,11.837812546096652,included_game_day
+2000,61,Georgia,2000-03-04,4.2947135054698595,included_game_day
+2000,61,Georgia,2000-03-09,5.390669711068822,included_game_day
+2001,61,Georgia,2000-11-17,-15.0,included_game_day
+2001,61,Georgia,2000-11-19,-11.8,included_game_day
+2001,61,Georgia,2000-11-23,7.379999999999999,included_game_day
+2001,61,Georgia,2000-11-24,11.942,included_game_day
+2001,61,Georgia,2000-11-25,2.1711600000000004,included_game_day
+2001,61,Georgia,2000-11-28,26.067543999999998,included_game_day
+2001,61,Georgia,2000-12-03,37.241159599999996,included_game_day
+2001,61,Georgia,2000-12-06,46.92608764,included_game_day
+2001,61,Georgia,2000-12-09,45.921689446,included_game_day
+2001,61,Georgia,2000-12-16,39.9271844014,included_game_day
+2001,61,Georgia,2000-12-21,18.889812540001998,included_game_day
+2001,61,Georgia,2000-12-23,8.833223570293377,included_game_day
+2001,61,Georgia,2000-12-28,20.369955792515427,included_game_day
+2001,61,Georgia,2001-01-06,26.94543806939544,included_game_day
+2001,61,Georgia,2001-01-10,33.54879913562541,included_game_day
+2001,61,Georgia,2001-01-13,46.84531928523475,included_game_day
+2001,61,Georgia,2001-01-17,66.04067608129594,included_game_day
+2001,61,Georgia,2001-01-21,70.74858205662547,included_game_day
+2001,61,Georgia,2001-01-24,83.35339742845119,included_game_day
+2001,61,Georgia,2001-01-27,86.36625584287248,included_game_day
+2001,61,Georgia,2001-01-31,69.55622343400947,included_game_day
+2001,61,Georgia,2001-02-03,64.00488155014368,included_game_day
+2001,61,Georgia,2001-02-07,64.05493272175971,included_game_day
+2001,61,Georgia,2001-02-10,62.21964234610739,included_game_day
+2001,61,Georgia,2001-02-14,59.42883002885502,included_game_day
+2001,61,Georgia,2001-02-21,78.67834581929392,included_game_day
+2001,61,Georgia,2001-02-24,66.08494030886848,included_game_day
+2001,61,Georgia,2001-02-28,88.7704577598481,included_game_day
+2001,61,Georgia,2001-03-03,81.70765710386456,included_game_day
+2001,61,Georgia,2001-03-08,76.64460473288594,included_game_day
+2001,61,Georgia,2001-03-15,73.97592932307134,included_game_day
+2002,61,Georgia Bulldogs,2001-11-16,10.0,included_game_day
+2002,61,Georgia Bulldogs,2001-11-19,20.0,included_game_day
+2002,61,Georgia Bulldogs,2001-11-26,19.323,included_game_day
+2002,61,Georgia Bulldogs,2001-12-01,25.6687,included_game_day
+2002,61,Georgia Bulldogs,2001-12-04,19.175678400000002,included_game_day
+2002,61,Georgia Bulldogs,2001-12-07,39.66111489,included_game_day
+2002,61,Georgia Bulldogs,2001-12-09,43.840331401,included_game_day
+2002,61,Georgia Bulldogs,2001-12-15,49.624412501900004,included_game_day
+2002,61,Georgia Bulldogs,2001-12-17,64.28103668542,included_game_day
+2002,61,Georgia Bulldogs,2001-12-21,78.2140232785367,included_game_day
+2002,61,Georgia Bulldogs,2002-01-05,85.4823850610511,included_game_day
+2002,61,Georgia Bulldogs,2002-01-09,95.7484502981427,included_game_day
+2002,61,Georgia Bulldogs,2002-01-12,91.28618180549219,included_game_day
+2002,61,Georgia Bulldogs,2002-01-16,87.33626332898905,included_game_day
+2002,61,Georgia Bulldogs,2002-01-19,105.46103794772921,included_game_day
+2002,61,Georgia Bulldogs,2002-01-23,115.06901554335832,included_game_day
+2002,61,Georgia Bulldogs,2002-01-26,110.56526732965517,included_game_day
+2002,61,Georgia Bulldogs,2002-01-30,100.48463523239886,included_game_day
+2002,61,Georgia Bulldogs,2002-02-02,106.27701153299387,included_game_day
+2002,61,Georgia Bulldogs,2002-02-06,124.4078354000337,included_game_day
+2002,61,Georgia Bulldogs,2002-02-09,115.10650996984093,included_game_day
+2002,61,Georgia Bulldogs,2002-02-12,104.61824528263001,included_game_day
+2002,61,Georgia Bulldogs,2002-02-16,115.36069228744128,included_game_day
+2002,61,Georgia Bulldogs,2002-02-23,113.308972712412,included_game_day
+2002,61,Georgia Bulldogs,2002-02-27,118.1991703873269,included_game_day
+2002,61,Georgia Bulldogs,2002-03-02,107.96371169469238,included_game_day
+2002,61,Georgia Bulldogs,2002-03-08,99.1125972865468,included_game_day
+2002,61,Georgia Bulldogs,2002-03-15,105.4244664636098,included_game_day
+2002,61,Georgia Bulldogs,2002-03-17,97.59386433747555,included_game_day
+2003,61,Georgia Bulldogs,2002-11-15,-9.0,included_game_day
+2003,61,Georgia Bulldogs,2002-11-23,2.969999999999999,included_game_day
+2003,61,Georgia Bulldogs,2002-11-27,3.172999999999999,included_game_day
+2003,61,Georgia Bulldogs,2002-11-30,3.045699999999999,included_game_day
+2003,61,Georgia Bulldogs,2002-12-03,11.23613,included_game_day
+2003,61,Georgia Bulldogs,2002-12-07,20.635956999999998,included_game_day
+2003,61,Georgia Bulldogs,2002-12-15,29.712400099999996,included_game_day
+2003,61,Georgia Bulldogs,2002-12-18,37.477800009999996,included_game_day
+2003,61,Georgia Bulldogs,2002-12-22,67.22828794979999,included_game_day
+2003,61,Georgia Bulldogs,2002-12-28,83.33325376856699,included_game_day
+2003,61,Georgia Bulldogs,2002-12-31,98.18610556735699,included_game_day
+2003,61,Georgia Bulldogs,2003-01-05,121.80421990977077,included_game_day
+2003,61,Georgia Bulldogs,2003-01-11,122.93420907953416,included_game_day
+2003,61,Georgia Bulldogs,2003-01-18,131.52122415877216,included_game_day
+2003,61,Georgia Bulldogs,2003-01-22,125.44176961976176,included_game_day
+2003,61,Georgia Bulldogs,2003-01-25,126.52089856223675,included_game_day
+2003,61,Georgia Bulldogs,2003-01-29,117.62360520215971,included_game_day
+2003,61,Georgia Bulldogs,2003-02-01,118.21447080261873,included_game_day
+2003,61,Georgia Bulldogs,2003-02-08,111.60070825422602,included_game_day
+2003,61,Georgia Bulldogs,2003-02-11,100.84273936568853,included_game_day
+2003,61,Georgia Bulldogs,2003-02-15,102.1885733291083,included_game_day
+2003,61,Georgia Bulldogs,2003-02-18,105.83982160125288,included_game_day
+2003,61,Georgia Bulldogs,2003-02-22,111.52376197416314,included_game_day
+2003,61,Georgia Bulldogs,2003-02-26,116.03125776423718,included_game_day
+2003,61,Georgia Bulldogs,2003-03-02,111.81340890691034,included_game_day
+2003,61,Georgia Bulldogs,2003-03-04,114.27881265607202,included_game_day
+2003,61,Georgia Bulldogs,2003-03-09,113.48223961009202,included_game_day
+2004,61,Georgia Bulldogs,2003-11-21,8.0,included_game_day
+2004,61,Georgia Bulldogs,2003-11-25,18.2,included_game_day
+2004,61,Georgia Bulldogs,2003-11-29,17.688499999999998,included_game_day
+2004,61,Georgia Bulldogs,2003-12-02,42.57434,included_game_day
+2004,61,Georgia Bulldogs,2003-12-05,47.543506,included_game_day
+2004,61,Georgia Bulldogs,2003-12-09,17.897851562,included_game_day
+2004,61,Georgia Bulldogs,2003-12-13,19.2462774758,included_game_day
+2004,61,Georgia Bulldogs,2003-12-18,14.953107967772999,included_game_day
+2004,61,Georgia Bulldogs,2003-12-22,25.0581675120857,included_game_day
+2004,61,Georgia Bulldogs,2003-12-30,15.401582107868421,included_game_day
+2004,61,Georgia Bulldogs,2004-01-03,31.733161517233743,included_game_day
+2004,61,Georgia Bulldogs,2004-01-07,16.18200685232555,included_game_day
+2004,61,Georgia Bulldogs,2004-01-10,2.5123431998273826,included_game_day
+2004,61,Georgia Bulldogs,2004-01-17,24.12478101815161,included_game_day
+2004,61,Georgia Bulldogs,2004-01-21,25.639705395742077,included_game_day
+2004,61,Georgia Bulldogs,2004-01-24,25.972573468820038,included_game_day
+2004,61,Georgia Bulldogs,2004-01-28,28.910626066552965,included_game_day
+2004,61,Georgia Bulldogs,2004-01-31,48.39028949977284,included_game_day
+2004,61,Georgia Bulldogs,2004-02-04,59.3483065533427,included_game_day
+2004,61,Georgia Bulldogs,2004-02-07,58.17431329027618,included_game_day
+2004,61,Georgia Bulldogs,2004-02-11,44.17561452659001,included_game_day
+2004,61,Georgia Bulldogs,2004-02-14,53.746500558810986,included_game_day
+2004,61,Georgia Bulldogs,2004-02-17,71.3269425847619,included_game_day
+2004,61,Georgia Bulldogs,2004-02-21,77.18731398056222,included_game_day
+2004,61,Georgia Bulldogs,2004-02-28,66.06539665362824,included_game_day
+2004,61,Georgia Bulldogs,2004-03-03,66.5552992407478,included_game_day
+2004,61,Georgia Bulldogs,2004-03-06,79.04038900749049,included_game_day
+2004,61,Georgia Bulldogs,2004-03-11,94.21123455907741,included_game_day
+2004,61,Georgia Bulldogs,2004-03-12,95.86541641194034,included_game_day
+2004,61,Georgia Bulldogs,2004-03-17,86.24907845013149,included_game_day
+2005,61,Georgia Bulldogs,2004-11-23,-13.0,included_game_day
+2005,61,Georgia Bulldogs,2004-11-26,-23.85,included_game_day
+2005,61,Georgia Bulldogs,2004-12-01,-9.905000000000001,included_game_day
+2005,61,Georgia Bulldogs,2004-12-05,-36.3596846,included_game_day
+2005,61,Georgia Bulldogs,2004-12-08,-27.38958595,included_game_day
+2005,61,Georgia Bulldogs,2004-12-11,-25.435720155000002,included_game_day
+2005,61,Georgia Bulldogs,2004-12-19,-18.861406277967,included_game_day
+2005,61,Georgia Bulldogs,2004-12-22,-14.141774877514099,included_game_day
+2005,61,Georgia Bulldogs,2004-12-28,-0.7572802751885881,included_game_day
+2005,61,Georgia Bulldogs,2004-12-31,-16.8636355027615,included_game_day
+2005,61,Georgia Bulldogs,2005-01-05,-20.743511962490793,included_game_day
+2005,61,Georgia Bulldogs,2005-01-08,-27.014571490870033,included_game_day
+2005,61,Georgia Bulldogs,2005-01-12,-20.359058248272497,included_game_day
+2005,61,Georgia Bulldogs,2005-01-15,-29.784063341439293,included_game_day
+2005,61,Georgia Bulldogs,2005-01-22,-11.937079942136087,included_game_day
+2005,61,Georgia Bulldogs,2005-01-25,-17.51006253163657,included_game_day
+2005,61,Georgia Bulldogs,2005-01-30,-27.527219211197195,included_game_day
+2005,61,Georgia Bulldogs,2005-02-02,-38.213609825639544,included_game_day
+2005,61,Georgia Bulldogs,2005-02-05,-35.701934750250594,included_game_day
+2005,61,Georgia Bulldogs,2005-02-09,-32.90269672362656,included_game_day
+2005,61,Georgia Bulldogs,2005-02-12,-18.14096397236821,included_game_day
+2005,61,Georgia Bulldogs,2005-02-16,-26.069208850562894,included_game_day
+2005,61,Georgia Bulldogs,2005-02-19,-15.38783423435953,included_game_day
+2005,61,Georgia Bulldogs,2005-02-26,-26.884248063543083,included_game_day
+2005,61,Georgia Bulldogs,2005-03-02,-22.983823840747725,included_game_day
+2005,61,Georgia Bulldogs,2005-03-05,-22.941797394826555,included_game_day
+2005,61,Georgia Bulldogs,2005-03-10,-21.301357153611924,included_game_day
+2006,61,Georgia Bulldogs,2005-11-18,-6.0,included_game_day
+2006,61,Georgia Bulldogs,2005-11-20,7.0600000000000005,included_game_day
+2006,61,Georgia Bulldogs,2005-11-21,17.458,included_game_day
+2006,61,Georgia Bulldogs,2005-11-26,25.9482,included_game_day
+2006,61,Georgia Bulldogs,2005-11-29,39.95688,included_game_day
+2006,61,Georgia Bulldogs,2005-12-03,54.616742099999996,included_game_day
+2006,61,Georgia Bulldogs,2005-12-07,63.365500086,included_game_day
+2006,61,Georgia Bulldogs,2005-12-10,61.442833931399996,included_game_day
+2006,61,Georgia Bulldogs,2005-12-17,53.006626303722,included_game_day
+2006,61,Georgia Bulldogs,2005-12-21,49.5596263951498,included_game_day
+2006,61,Georgia Bulldogs,2005-12-28,54.043751900539405,included_game_day
+2006,61,Georgia Bulldogs,2005-12-31,66.22807582529046,included_game_day
+2006,61,Georgia Bulldogs,2006-01-02,53.98216947292835,included_game_day
+2006,61,Georgia Bulldogs,2006-01-07,43.59915053349322,included_game_day
+2006,61,Georgia Bulldogs,2006-01-11,38.77007338572768,included_game_day
+2006,61,Georgia Bulldogs,2006-01-14,47.77412986766557,included_game_day
+2006,61,Georgia Bulldogs,2006-01-17,28.344161871931107,included_game_day
+2006,61,Georgia Bulldogs,2006-01-21,34.03443966815239,included_game_day
+2006,61,Georgia Bulldogs,2006-01-25,17.32514348468489,included_game_day
+2006,61,Georgia Bulldogs,2006-01-28,18.02131249790881,included_game_day
+2006,61,Georgia Bulldogs,2006-02-01,26.539892509479223,included_game_day
+2006,61,Georgia Bulldogs,2006-02-04,34.71002782053957,included_game_day
+2006,61,Georgia Bulldogs,2006-02-11,36.181680037791,included_game_day
+2006,61,Georgia Bulldogs,2006-02-15,34.6212249026448,included_game_day
+2006,61,Georgia Bulldogs,2006-02-18,17.18571211107323,included_game_day
+2006,61,Georgia Bulldogs,2006-02-23,20.92285112250755,included_game_day
+2006,61,Georgia Bulldogs,2006-02-25,8.416320863436301,included_game_day
+2006,61,Georgia Bulldogs,2006-03-01,12.276104876044315,included_game_day
+2006,61,Georgia Bulldogs,2006-03-05,2.3668475257715738,included_game_day
+2006,61,Georgia Bulldogs,2006-03-09,4.439441645553382,included_game_day
+2007,61,Georgia Bulldogs,2006-11-10,57.0,included_game_day
+2007,61,Georgia Bulldogs,2006-11-14,49.7,included_game_day
+2007,61,Georgia Bulldogs,2006-11-21,85.866,included_game_day
+2007,61,Georgia Bulldogs,2006-11-24,113.3844,included_game_day
+2007,61,Georgia Bulldogs,2006-12-02,106.73591368,included_game_day
+2007,61,Georgia Bulldogs,2006-12-05,113.617266312,included_game_day
+2007,61,Georgia Bulldogs,2006-12-16,122.969424741154,included_game_day
+2007,61,Georgia Bulldogs,2006-12-19,117.91724059559587,included_game_day
+2007,61,Georgia Bulldogs,2006-12-22,107.41486467285343,included_game_day
+2007,61,Georgia Bulldogs,2006-12-28,98.56671462961866,included_game_day
+2007,61,Georgia Bulldogs,2006-12-31,90.64057827293162,included_game_day
+2007,61,Georgia Bulldogs,2007-01-06,86.55954110720987,included_game_day
+2007,61,Georgia Bulldogs,2007-01-10,100.74204887860328,included_game_day
+2007,61,Georgia Bulldogs,2007-01-13,105.8034808056065,included_game_day
+2007,61,Georgia Bulldogs,2007-01-17,112.11507900253163,included_game_day
+2007,61,Georgia Bulldogs,2007-01-20,111.46648606263518,included_game_day
+2007,61,Georgia Bulldogs,2007-01-24,118.35156753861433,included_game_day
+2007,61,Georgia Bulldogs,2007-01-28,113.65176567358063,included_game_day
+2007,61,Georgia Bulldogs,2007-01-31,99.63100764170945,included_game_day
+2007,61,Georgia Bulldogs,2007-02-03,98.50554456004133,included_game_day
+2007,61,Georgia Bulldogs,2007-02-07,95.60568886293565,included_game_day
+2007,61,Georgia Bulldogs,2007-02-10,109.71537153539734,included_game_day
+2007,61,Georgia Bulldogs,2007-02-14,99.15974552464827,included_game_day
+2007,61,Georgia Bulldogs,2007-02-17,95.1576566723964,included_game_day
+2007,61,Georgia Bulldogs,2007-02-21,78.92205325134412,included_game_day
+2007,61,Georgia Bulldogs,2007-02-24,92.97850468987212,included_game_day
+2007,61,Georgia Bulldogs,2007-02-28,85.50450903933732,included_game_day
+2007,61,Georgia Bulldogs,2007-03-03,78.33098594392027,included_game_day
+2007,61,Georgia Bulldogs,2007-03-08,94.86909678709219,included_game_day
+2007,61,Georgia Bulldogs,2007-03-09,85.97769967998646,included_game_day
+2007,61,Georgia Bulldogs,2007-03-14,86.90207815163971,included_game_day
+2007,61,Georgia Bulldogs,2007-03-19,58.9440983810211,included_game_day
+2008,61,Georgia Bulldogs,2007-11-09,39.0,included_game_day
+2008,61,Georgia Bulldogs,2007-11-14,45.1,included_game_day
+2008,61,Georgia Bulldogs,2007-11-20,50.050000000000004,included_game_day
+2008,61,Georgia Bulldogs,2007-11-24,41.193,included_game_day
+2008,61,Georgia Bulldogs,2007-11-28,40.80949,included_game_day
+2008,61,Georgia Bulldogs,2007-12-08,60.10388179639,included_game_day
+2008,61,Georgia Bulldogs,2007-12-21,28.301875964498052,included_game_day
+2008,61,Georgia Bulldogs,2007-12-22,31.75337014245359,included_game_day
+2008,61,Georgia Bulldogs,2007-12-30,23.752254814182102,included_game_day
+2008,61,Georgia Bulldogs,2008-01-05,24.59571234778861,included_game_day
+2008,61,Georgia Bulldogs,2008-01-09,31.622927628704943,included_game_day
+2008,61,Georgia Bulldogs,2008-01-12,32.52402260345237,included_game_day
+2008,61,Georgia Bulldogs,2008-01-16,38.28553357603362,included_game_day
+2008,61,Georgia Bulldogs,2008-01-26,35.20520291644473,included_game_day
+2008,61,Georgia Bulldogs,2008-01-30,32.74590053838943,included_game_day
+2008,61,Georgia Bulldogs,2008-02-02,28.621323131971856,included_game_day
+2008,61,Georgia Bulldogs,2008-02-06,18.806764671674152,included_game_day
+2008,61,Georgia Bulldogs,2008-02-09,20.11163148662152,included_game_day
+2008,61,Georgia Bulldogs,2008-02-13,38.13884317210401,included_game_day
+2008,61,Georgia Bulldogs,2008-02-16,45.13258837129048,included_game_day
+2008,61,Georgia Bulldogs,2008-02-19,42.17711795168071,included_game_day
+2008,61,Georgia Bulldogs,2008-02-23,38.294775449676884,included_game_day
+2008,61,Georgia Bulldogs,2008-02-27,25.835561391415972,included_game_day
+2008,61,Georgia Bulldogs,2008-03-02,23.575912731238667,included_game_day
+2008,61,Georgia Bulldogs,2008-03-05,31.138503214916824,included_game_day
+2008,61,Georgia Bulldogs,2008-03-08,16.679903384387092,included_game_day
+2008,61,Georgia Bulldogs,2008-03-13,24.113023519963306,included_game_day
+2008,61,Georgia Bulldogs,2008-03-15,45.4933354027228,included_game_day
+2008,61,Georgia Bulldogs,2008-03-16,60.959086158640076,included_game_day
+2008,61,Georgia Bulldogs,2008-03-20,55.85570843391324,included_game_day
+2009,61,Georgia Bulldogs,2008-11-14,21.0,included_game_day
+2009,61,Georgia Bulldogs,2008-11-17,-2.1000000000000014,included_game_day
+2009,61,Georgia Bulldogs,2008-11-18,-3.2000000000000015,included_game_day
+2009,61,Georgia Bulldogs,2008-11-21,-2.3200000000000007,included_game_day
+2009,61,Georgia Bulldogs,2008-11-24,0.3579999999999992,included_game_day
+2009,61,Georgia Bulldogs,2008-11-25,26.364723,included_game_day
+2009,61,Georgia Bulldogs,2008-12-02,22.5356953,included_game_day
+2009,61,Georgia Bulldogs,2008-12-06,-5.426682190000001,included_game_day
+2009,61,Georgia Bulldogs,2008-12-09,-4.7239407813600005,included_game_day
+2009,61,Georgia Bulldogs,2008-12-20,-8.603261027224,included_game_day
+2009,61,Georgia Bulldogs,2008-12-22,-15.2511428699536,included_game_day
+2009,61,Georgia Bulldogs,2008-12-28,9.77869433801498,included_game_day
+2009,61,Georgia Bulldogs,2008-12-31,22.463621575190643,included_game_day
+2009,61,Georgia Bulldogs,2009-01-03,25.12074030614014,included_game_day
+2009,61,Georgia Bulldogs,2009-01-06,23.07725979561323,included_game_day
+2009,61,Georgia Bulldogs,2009-01-10,15.79444997135285,included_game_day
+2009,61,Georgia Bulldogs,2009-01-14,17.11633506486195,included_game_day
+2009,61,Georgia Bulldogs,2009-01-18,3.420656903685874,included_game_day
+2009,61,Georgia Bulldogs,2009-01-24,1.7721236135079224,included_game_day
+2009,61,Georgia Bulldogs,2009-01-28,-8.14832210241467,included_game_day
+2009,61,Georgia Bulldogs,2009-01-31,-7.2535643407924955,included_game_day
+2009,61,Georgia Bulldogs,2009-02-04,-15.64732260743238,included_game_day
+2009,61,Georgia Bulldogs,2009-02-07,-12.15658405201028,included_game_day
+2009,61,Georgia Bulldogs,2009-02-11,-29.605257970582393,included_game_day
+2009,61,Georgia Bulldogs,2009-02-14,-15.622066598153108,included_game_day
+2009,61,Georgia Bulldogs,2009-02-18,-21.85454933735177,included_game_day
+2009,61,Georgia Bulldogs,2009-02-21,-31.698190068343916,included_game_day
+2009,61,Georgia Bulldogs,2009-02-25,-21.346760252755647,included_game_day
+2009,61,Georgia Bulldogs,2009-03-01,-37.285723395641995,included_game_day
+2009,61,Georgia Bulldogs,2009-03-04,-15.852033709143452,included_game_day
+2009,61,Georgia Bulldogs,2009-03-07,-27.404629135457856,included_game_day
+2009,61,Georgia Bulldogs,2009-03-12,-37.15148017952317,included_game_day
+2010,61,Georgia Bulldogs,2009-11-13,5.0,included_game_day
+2010,61,Georgia Bulldogs,2009-11-17,-1.5,included_game_day
+2010,61,Georgia Bulldogs,2009-11-21,-10.758,included_game_day
+2010,61,Georgia Bulldogs,2009-11-24,-1.1804999999999986,included_game_day
+2010,61,Georgia Bulldogs,2009-11-27,-1.9684199999999987,included_game_day
+2010,61,Georgia Bulldogs,2009-12-02,6.769389500000003,included_game_day
+2010,61,Georgia Bulldogs,2009-12-06,-0.4555790199999983,included_game_day
+2010,61,Georgia Bulldogs,2009-12-09,-6.3731537599999974,included_game_day
+2010,61,Georgia Bulldogs,2009-12-19,3.8173008758090017,included_game_day
+2010,61,Georgia Bulldogs,2009-12-23,17.99900010094901,included_game_day
+2010,61,Georgia Bulldogs,2009-12-30,25.825845548724566,included_game_day
+2010,61,Georgia Bulldogs,2010-01-02,12.946517756255108,included_game_day
+2010,61,Georgia Bulldogs,2010-01-05,26.842000032872207,included_game_day
+2010,61,Georgia Bulldogs,2010-01-09,34.70928392267579,included_game_day
+2010,61,Georgia Bulldogs,2010-01-13,35.50674643660315,included_game_day
+2010,61,Georgia Bulldogs,2010-01-16,43.14347696158546,included_game_day
+2010,61,Georgia Bulldogs,2010-01-23,64.7273198331966,included_game_day
+2010,61,Georgia Bulldogs,2010-01-27,53.0675933064845,included_game_day
+2010,61,Georgia Bulldogs,2010-01-30,57.26015054777375,included_game_day
+2010,61,Georgia Bulldogs,2010-02-03,49.31592239770012,included_game_day
+2010,61,Georgia Bulldogs,2010-02-06,67.72587511730066,included_game_day
+2010,61,Georgia Bulldogs,2010-02-10,47.575706624903276,included_game_day
+2010,61,Georgia Bulldogs,2010-02-13,50.649745200166365,included_game_day
+2010,61,Georgia Bulldogs,2010-02-17,49.56339376992458,included_game_day
+2010,61,Georgia Bulldogs,2010-02-20,54.61171169842529,included_game_day
+2010,61,Georgia Bulldogs,2010-02-25,61.74778343230124,included_game_day
+2010,61,Georgia Bulldogs,2010-02-27,64.39277791457164,included_game_day
+2010,61,Georgia Bulldogs,2010-03-03,59.21094434994334,included_game_day
+2010,61,Georgia Bulldogs,2010-03-06,52.51863919361433,included_game_day
+2010,61,Georgia Bulldogs,2010-03-11,64.42862329510862,included_game_day
+2010,61,Georgia Bulldogs,2010-03-12,56.932862598335284,included_game_day
+2011,61,Georgia Bulldogs,2010-11-12,-1.0,included_game_day
+2011,61,Georgia Bulldogs,2010-11-16,5.6,included_game_day
+2011,61,Georgia Bulldogs,2010-11-20,9.54,included_game_day
+2011,61,Georgia Bulldogs,2010-11-25,11.605999999999998,included_game_day
+2011,61,Georgia Bulldogs,2010-11-26,5.709699999999998,included_game_day
+2011,61,Georgia Bulldogs,2010-11-28,4.826568259999998,included_game_day
+2011,61,Georgia Bulldogs,2010-12-03,9.021141257999998,included_game_day
+2011,61,Georgia Bulldogs,2010-12-07,14.502098280299998,included_game_day
+2011,61,Georgia Bulldogs,2010-12-18,17.492588441269998,included_game_day
+2011,61,Georgia Bulldogs,2010-12-21,57.6007921053843,included_game_day
+2011,61,Georgia Bulldogs,2010-12-23,53.24749585468247,included_game_day
+2011,61,Georgia Bulldogs,2010-12-28,58.63380981438462,included_game_day
+2011,61,Georgia Bulldogs,2010-12-31,51.679858061979544,included_game_day
+2011,61,Georgia Bulldogs,2011-01-08,66.9657380812901,included_game_day
+2011,61,Georgia Bulldogs,2011-01-12,67.36967462991167,included_game_day
+2011,61,Georgia Bulldogs,2011-01-15,91.14614142214047,included_game_day
+2011,61,Georgia Bulldogs,2011-01-18,82.09876225718409,included_game_day
+2011,61,Georgia Bulldogs,2011-01-22,92.30540810730633,included_game_day
+2011,61,Georgia Bulldogs,2011-01-25,77.35018551671409,included_game_day
+2011,61,Georgia Bulldogs,2011-01-29,83.25801688020731,included_game_day
+2011,61,Georgia Bulldogs,2011-02-02,82.92996519108736,included_game_day
+2011,61,Georgia Bulldogs,2011-02-05,78.52856877630258,included_game_day
+2011,61,Georgia Bulldogs,2011-02-08,68.52073692273288,included_game_day
+2011,61,Georgia Bulldogs,2011-02-12,69.32863977574766,included_game_day
+2011,61,Georgia Bulldogs,2011-02-16,62.38902468356731,included_game_day
+2011,61,Georgia Bulldogs,2011-02-19,73.35850639257913,included_game_day
+2011,61,Georgia Bulldogs,2011-02-24,70.63362678990471,included_game_day
+2011,61,Georgia Bulldogs,2011-02-26,77.00485566736259,included_game_day
+2011,61,Georgia Bulldogs,2011-03-02,81.90241367619154,included_game_day
+2011,61,Georgia Bulldogs,2011-03-05,75.45629917771558,included_game_day
+2011,61,Georgia Bulldogs,2011-03-10,85.43203848119438,included_game_day
+2011,61,Georgia Bulldogs,2011-03-11,78.27757295206574,included_game_day
+2011,61,Georgia Bulldogs,2011-03-18,79.74928369189253,included_game_day
+2012,61,Georgia Bulldogs,2011-11-11,10.0,included_game_day
+2012,61,Georgia Bulldogs,2011-11-13,16.2,included_game_day
+2012,61,Georgia Bulldogs,2011-11-16,21.64,included_game_day
+2012,61,Georgia Bulldogs,2011-11-21,0.5510000000000019,included_game_day
+2012,61,Georgia Bulldogs,2011-11-22,7.200500000000002,included_game_day
+2012,61,Georgia Bulldogs,2011-11-25,-1.6535499999999992,included_game_day
+2012,61,Georgia Bulldogs,2011-11-28,-0.5618439999999993,included_game_day
+2012,61,Georgia Bulldogs,2011-12-02,-5.9157517099999986,included_game_day
+2012,61,Georgia Bulldogs,2011-12-07,-16.971927028,included_game_day
+2012,61,Georgia Bulldogs,2011-12-17,-8.143630194663999,included_game_day
+2012,61,Georgia Bulldogs,2011-12-20,7.039690171810161,included_game_day
+2012,61,Georgia Bulldogs,2011-12-23,15.327004935262265,included_game_day
+2012,61,Georgia Bulldogs,2011-12-27,12.364176358781892,included_game_day
+2012,61,Georgia Bulldogs,2011-12-30,10.034503315905004,included_game_day
+2012,61,Georgia Bulldogs,2012-01-07,-0.14375617251451622,included_game_day
+2012,61,Georgia Bulldogs,2012-01-10,-7.222980857525233,included_game_day
+2012,61,Georgia Bulldogs,2012-01-14,-4.520261707947199,included_game_day
+2012,61,Georgia Bulldogs,2012-01-18,1.6002275595894835,included_game_day
+2012,61,Georgia Bulldogs,2012-01-21,-2.151145939993933,included_game_day
+2012,61,Georgia Bulldogs,2012-01-24,-1.7710022849407867,included_game_day
+2012,61,Georgia Bulldogs,2012-02-01,-7.544445147555461,included_game_day
+2012,61,Georgia Bulldogs,2012-02-04,-11.197975900395345,included_game_day
+2012,61,Georgia Bulldogs,2012-02-08,15.031287937868218,included_game_day
+2012,61,Georgia Bulldogs,2012-02-11,25.62526669432401,included_game_day
+2012,61,Georgia Bulldogs,2012-02-15,24.244716415297965,included_game_day
+2012,61,Georgia Bulldogs,2012-02-19,22.885664765135676,included_game_day
+2012,61,Georgia Bulldogs,2012-02-22,21.49652884385649,included_game_day
+2012,61,Georgia Bulldogs,2012-02-25,44.21805760993675,included_game_day
+2012,61,Georgia Bulldogs,2012-03-01,32.85784623132507,included_game_day
+2012,61,Georgia Bulldogs,2012-03-03,37.43646661329743,included_game_day
+2012,61,Georgia Bulldogs,2012-03-08,49.04348526907719,included_game_day
+2012,61,Georgia Bulldogs,2012-03-09,34.49689056898248,included_game_day
+2013,61,Georgia Bulldogs,2012-11-09,3.0,included_game_day
+2013,61,Georgia Bulldogs,2012-11-12,-11.3,included_game_day
+2013,61,Georgia Bulldogs,2012-11-15,-15.170000000000002,included_game_day
+2013,61,Georgia Bulldogs,2012-11-19,-16.263,included_game_day
+2013,61,Georgia Bulldogs,2012-11-20,-15.291600000000003,included_game_day
+2013,61,Georgia Bulldogs,2012-11-23,-2.1591600000000017,included_game_day
+2013,61,Georgia Bulldogs,2012-11-30,-6.675423000000002,included_game_day
+2013,61,Georgia Bulldogs,2012-12-04,-8.225283769000002,included_game_day
+2013,61,Georgia Bulldogs,2012-12-15,-12.265352206800003,included_game_day
+2013,61,Georgia Bulldogs,2012-12-18,-6.342379295461702,included_game_day
+2013,61,Georgia Bulldogs,2012-12-22,0.005086997171368068,included_game_day
+2013,61,Georgia Bulldogs,2012-12-29,-1.377019546791768,included_game_day
+2013,61,Georgia Bulldogs,2013-01-04,10.399446374647143,included_game_day
+2013,61,Georgia Bulldogs,2013-01-09,-6.114766283771884,included_game_day
+2013,61,Georgia Bulldogs,2013-01-12,-19.197908002765757,included_game_day
+2013,61,Georgia Bulldogs,2013-01-16,-20.766064347365976,included_game_day
+2013,61,Georgia Bulldogs,2013-01-19,-11.608766791342536,included_game_day
+2013,61,Georgia Bulldogs,2013-01-23,-9.68697624366867,included_game_day
+2013,61,Georgia Bulldogs,2013-01-26,6.29596373034884,included_game_day
+2013,61,Georgia Bulldogs,2013-01-30,11.921867408900956,included_game_day
+2013,61,Georgia Bulldogs,2013-02-02,26.26464708106473,included_game_day
+2013,61,Georgia Bulldogs,2013-02-06,35.621520729155634,included_game_day
+2013,61,Georgia Bulldogs,2013-02-09,39.20567882308851,included_game_day
+2013,61,Georgia Bulldogs,2013-02-12,30.197786436839614,included_game_day
+2013,61,Georgia Bulldogs,2013-02-16,28.837927188878417,included_game_day
+2013,61,Georgia Bulldogs,2013-02-21,35.44859206854166,included_game_day
+2013,61,Georgia Bulldogs,2013-02-23,35.17379012046432,included_game_day
+2013,61,Georgia Bulldogs,2013-02-27,40.35624561985097,included_game_day
+2013,61,Georgia Bulldogs,2013-03-02,53.69382666882224,included_game_day
+2013,61,Georgia Bulldogs,2013-03-07,64.12923200629803,included_game_day
+2013,61,Georgia Bulldogs,2013-03-09,63.82827474063117,included_game_day
+2013,61,Georgia Bulldogs,2013-03-14,56.56615191388795,included_game_day
+2014,61,Georgia Bulldogs,2013-11-08,17.0,included_game_day
+2014,61,Georgia Bulldogs,2013-11-15,7.32,included_game_day
+2014,61,Georgia Bulldogs,2013-11-21,-9.734000000000002,included_game_day
+2014,61,Georgia Bulldogs,2013-11-22,-11.666980000000002,included_game_day
+2014,61,Georgia Bulldogs,2013-11-24,-16.245712000000005,included_game_day
+2014,61,Georgia Bulldogs,2013-11-29,-3.859370800000004,included_game_day
+2014,61,Georgia Bulldogs,2013-12-02,20.378907079999994,included_game_day
+2014,61,Georgia Bulldogs,2013-12-14,21.196114943699996,included_game_day
+2014,61,Georgia Bulldogs,2013-12-19,23.356786563749996,included_game_day
+2014,61,Georgia Bulldogs,2013-12-21,16.784699515517936,included_game_day
+2014,61,Georgia Bulldogs,2013-12-28,12.620453216077617,included_game_day
+2014,61,Georgia Bulldogs,2014-01-03,1.6272857900065105,included_game_day
+2014,61,Georgia Bulldogs,2014-01-08,18.079637980799852,included_game_day
+2014,61,Georgia Bulldogs,2014-01-11,24.697703656421123,included_game_day
+2014,61,Georgia Bulldogs,2014-01-14,15.302308164862763,included_game_day
+2014,61,Georgia Bulldogs,2014-01-18,27.399588774065307,included_game_day
+2014,61,Georgia Bulldogs,2014-01-22,45.24593144464944,included_game_day
+2014,61,Georgia Bulldogs,2014-01-25,31.89367701220838,included_game_day
+2014,61,Georgia Bulldogs,2014-01-29,23.03966943281449,included_game_day
+2014,61,Georgia Bulldogs,2014-02-01,20.253189430285435,included_game_day
+2014,61,Georgia Bulldogs,2014-02-06,36.97720674335282,included_game_day
+2014,61,Georgia Bulldogs,2014-02-08,42.329346202503395,included_game_day
+2014,61,Georgia Bulldogs,2014-02-12,59.64988743600731,included_game_day
+2014,61,Georgia Bulldogs,2014-02-15,57.21067565469697,included_game_day
+2014,61,Georgia Bulldogs,2014-02-18,45.25743315395941,included_game_day
+2014,61,Georgia Bulldogs,2014-02-22,63.293408157845974,included_game_day
+2014,61,Georgia Bulldogs,2014-02-25,75.4810160703737,included_game_day
+2014,61,Georgia Bulldogs,2014-03-01,68.22892599663118,included_game_day
+2014,61,Georgia Bulldogs,2014-03-05,76.21728500817727,included_game_day
+2014,61,Georgia Bulldogs,2014-03-08,86.88172958424389,included_game_day
+2014,61,Georgia Bulldogs,2014-03-14,83.26360701271905,included_game_day
+2014,61,Georgia Bulldogs,2014-03-15,73.71941543376528,included_game_day
+2014,61,Georgia Bulldogs,2014-03-19,79.83122988729622,included_game_day
+2014,61,Georgia Bulldogs,2014-03-22,72.93850529825075,included_game_day
+2015,61,Georgia Bulldogs,2014-11-14,-4.0,included_game_day
+2015,61,Georgia Bulldogs,2014-11-18,3.2,included_game_day
+2015,61,Georgia Bulldogs,2014-11-21,20.54,included_game_day
+2015,61,Georgia Bulldogs,2014-11-23,26.305999999999997,included_game_day
+2015,61,Georgia Bulldogs,2014-11-26,21.562399999999997,included_game_day
+2015,61,Georgia Bulldogs,2014-11-28,16.569959999999995,included_game_day
+2015,61,Georgia Bulldogs,2014-12-02,45.91720659999999,included_game_day
+2015,61,Georgia Bulldogs,2014-12-07,49.71356091199999,included_game_day
+2015,61,Georgia Bulldogs,2014-12-21,68.48300138965399,included_game_day
+2015,61,Georgia Bulldogs,2014-12-27,65.10410899263262,included_game_day
+2015,61,Georgia Bulldogs,2014-12-31,67.5449224227581,included_game_day
+2015,61,Georgia Bulldogs,2015-01-03,68.82902533933037,included_game_day
+2015,61,Georgia Bulldogs,2015-01-06,64.75154219344226,included_game_day
+2015,61,Georgia Bulldogs,2015-01-10,63.829322853149364,included_game_day
+2015,61,Georgia Bulldogs,2015-01-14,70.60814051795126,included_game_day
+2015,61,Georgia Bulldogs,2015-01-17,83.53953010513344,included_game_day
+2015,61,Georgia Bulldogs,2015-01-20,87.97534309450464,included_game_day
+2015,61,Georgia Bulldogs,2015-01-24,87.87128761041292,included_game_day
+2015,61,Georgia Bulldogs,2015-01-27,90.35854530855126,included_game_day
+2015,61,Georgia Bulldogs,2015-01-31,73.65019576776373,included_game_day
+2015,61,Georgia Bulldogs,2015-02-03,79.37048557539971,included_game_day
+2015,61,Georgia Bulldogs,2015-02-07,74.25402159904948,included_game_day
+2015,61,Georgia Bulldogs,2015-02-11,87.01710547420946,included_game_day
+2015,61,Georgia Bulldogs,2015-02-14,74.72633383015953,included_game_day
+2015,61,Georgia Bulldogs,2015-02-17,60.87469990412794,included_game_day
+2015,61,Georgia Bulldogs,2015-02-21,64.65594054646375,included_game_day
+2015,61,Georgia Bulldogs,2015-02-25,74.69513143082193,included_game_day
+2015,61,Georgia Bulldogs,2015-02-28,85.67060400919681,included_game_day
+2015,61,Georgia Bulldogs,2015-03-03,88.7167256530736,included_game_day
+2015,61,Georgia Bulldogs,2015-03-07,82.56886585397119,included_game_day
+2015,61,Georgia Bulldogs,2015-03-13,91.88058481521409,included_game_day
+2015,61,Georgia Bulldogs,2015-03-14,81.66092387821793,included_game_day
+2015,61,Georgia Bulldogs,2015-03-20,79.23949247288024,included_game_day
+2016,61,Georgia Bulldogs,2015-11-13,-5.0,included_game_day
+2016,61,Georgia Bulldogs,2015-11-25,-3.322,included_game_day
+2016,61,Georgia Bulldogs,2015-11-28,-4.4419,included_game_day
+2016,61,Georgia Bulldogs,2015-12-01,2.1019331,included_game_day
+2016,61,Georgia Bulldogs,2015-12-04,0.20323109000000006,included_game_day
+2016,61,Georgia Bulldogs,2015-12-08,6.633467391,included_game_day
+2016,61,Georgia Bulldogs,2015-12-19,23.18864259887,included_game_day
+2016,61,Georgia Bulldogs,2015-12-22,46.5475208555398,included_game_day
+2016,61,Georgia Bulldogs,2015-12-29,44.66409838307262,included_game_day
+2016,61,Georgia Bulldogs,2016-01-02,37.6646420814572,included_game_day
+2016,61,Georgia Bulldogs,2016-01-06,51.602732488841646,included_game_day
+2016,61,Georgia Bulldogs,2016-01-09,52.131723554949836,included_game_day
+2016,61,Georgia Bulldogs,2016-01-13,57.23716846061192,included_game_day
+2016,61,Georgia Bulldogs,2016-01-16,25.248884190139265,included_game_day
+2016,61,Georgia Bulldogs,2016-01-20,28.123556996415974,included_game_day
+2016,61,Georgia Bulldogs,2016-01-23,33.075377344797474,included_game_day
+2016,61,Georgia Bulldogs,2016-01-26,36.26331485566136,included_game_day
+2016,61,Georgia Bulldogs,2016-01-30,35.374591735935326,included_game_day
+2016,61,Georgia Bulldogs,2016-02-02,49.19860068043663,included_game_day
+2016,61,Georgia Bulldogs,2016-02-06,47.58106609390998,included_game_day
+2016,61,Georgia Bulldogs,2016-02-09,24.782734046070285,included_game_day
+2016,61,Georgia Bulldogs,2016-02-13,40.94408418147849,included_game_day
+2016,61,Georgia Bulldogs,2016-02-16,38.23859641080033,included_game_day
+2016,61,Georgia Bulldogs,2016-02-20,34.77300434362907,included_game_day
+2016,61,Georgia Bulldogs,2016-02-24,25.91879128126525,included_game_day
+2016,61,Georgia Bulldogs,2016-02-27,39.859780971829565,included_game_day
+2016,61,Georgia Bulldogs,2016-03-03,47.73234569829911,included_game_day
+2016,61,Georgia Bulldogs,2016-03-05,50.743727609469886,included_game_day
+2016,61,Georgia Bulldogs,2016-03-10,62.38460973134082,included_game_day
+2016,61,Georgia Bulldogs,2016-03-11,65.04844779958462,included_game_day
+2016,61,Georgia Bulldogs,2016-03-12,63.30014305701429,included_game_day
+2016,61,Georgia Bulldogs,2016-03-16,64.3555358620457,included_game_day
+2016,61,Georgia Bulldogs,2016-03-20,58.75881099392614,included_game_day
+2017,61,Georgia Bulldogs,2016-11-11,-7.0,included_game_day
+2017,61,Georgia Bulldogs,2016-11-14,3.5,included_game_day
+2017,61,Georgia Bulldogs,2016-11-17,7.71,included_game_day
+2017,61,Georgia Bulldogs,2016-11-21,16.5293,included_game_day
+2017,61,Georgia Bulldogs,2016-11-22,8.226019999999998,included_game_day
+2017,61,Georgia Bulldogs,2016-11-25,19.406717999999998,included_game_day
+2017,61,Georgia Bulldogs,2016-12-04,12.992802369999998,included_game_day
+2017,61,Georgia Bulldogs,2016-12-14,27.359185139789,included_game_day
+2017,61,Georgia Bulldogs,2016-12-17,36.6547340220371,included_game_day
+2017,61,Georgia Bulldogs,2016-12-20,54.528230672352386,included_game_day
+2017,61,Georgia Bulldogs,2016-12-23,49.70571509797973,included_game_day
+2017,61,Georgia Bulldogs,2016-12-29,64.93822980899472,included_game_day
+2017,61,Georgia Bulldogs,2017-01-04,56.91472260012509,included_game_day
+2017,61,Georgia Bulldogs,2017-01-07,51.42929993706995,included_game_day
+2017,61,Georgia Bulldogs,2017-01-11,75.74982127886223,included_game_day
+2017,61,Georgia Bulldogs,2017-01-14,81.29984770890826,included_game_day
+2017,61,Georgia Bulldogs,2017-01-17,82.67475225769539,included_game_day
+2017,61,Georgia Bulldogs,2017-01-21,80.57316331288538,included_game_day
+2017,61,Georgia Bulldogs,2017-01-25,53.74899549971191,included_game_day
+2017,61,Georgia Bulldogs,2017-01-28,53.43172496912098,included_game_day
+2017,61,Georgia Bulldogs,2017-01-31,59.93707054937357,included_game_day
+2017,61,Georgia Bulldogs,2017-02-04,67.69176374356952,included_game_day
+2017,61,Georgia Bulldogs,2017-02-07,66.09289407573482,included_game_day
+2017,61,Georgia Bulldogs,2017-02-11,73.03513794384422,included_game_day
+2017,61,Georgia Bulldogs,2017-02-14,73.33061679856237,included_game_day
+2017,61,Georgia Bulldogs,2017-02-18,73.73323296113888,included_game_day
+2017,61,Georgia Bulldogs,2017-02-23,80.43386357797617,included_game_day
+2017,61,Georgia Bulldogs,2017-02-25,63.71233018768833,included_game_day
+2017,61,Georgia Bulldogs,2017-03-01,58.32526709057134,included_game_day
+2017,61,Georgia Bulldogs,2017-03-04,46.750842323349744,included_game_day
+2017,61,Georgia Bulldogs,2017-03-09,47.333145756916274,included_game_day
+2017,61,Georgia Bulldogs,2017-03-10,47.98777942557156,included_game_day
+2017,61,Georgia Bulldogs,2017-03-15,35.0375961263027,included_game_day
+2018,61,Georgia Bulldogs,2017-11-10,22.0,included_game_day
+2018,61,Georgia Bulldogs,2017-11-14,24.6,included_game_day
+2018,61,Georgia Bulldogs,2017-11-19,19.67,included_game_day
+2018,61,Georgia Bulldogs,2017-11-23,22.869,included_game_day
+2018,61,Georgia Bulldogs,2017-11-24,20.258862,included_game_day
+2018,61,Georgia Bulldogs,2017-11-26,25.7411708,included_game_day
+2018,61,Georgia Bulldogs,2017-12-02,35.520862079699995,included_game_day
+2018,61,Georgia Bulldogs,2017-12-05,33.71463355272999,included_game_day
+2018,61,Georgia Bulldogs,2017-12-16,25.189428686479992,included_game_day
+2018,61,Georgia Bulldogs,2017-12-19,41.18811446565284,included_game_day
+2018,61,Georgia Bulldogs,2017-12-22,54.032558925490754,included_game_day
+2018,61,Georgia Bulldogs,2017-12-31,56.72404838006811,included_game_day
+2018,61,Georgia Bulldogs,2018-01-03,63.63817575775938,included_game_day
+2018,61,Georgia Bulldogs,2018-01-06,78.73316171866641,included_game_day
+2018,61,Georgia Bulldogs,2018-01-10,70.73100855836891,included_game_day
+2018,61,Georgia Bulldogs,2018-01-13,56.36148965471372,included_game_day
+2018,61,Georgia Bulldogs,2018-01-16,63.812945833160505,included_game_day
+2018,61,Georgia Bulldogs,2018-01-20,58.941090834944916,included_game_day
+2018,61,Georgia Bulldogs,2018-01-23,54.381807935663026,included_game_day
+2018,61,Georgia Bulldogs,2018-01-27,58.277944350320425,included_game_day
+2018,61,Georgia Bulldogs,2018-01-30,72.47420145178553,included_game_day
+2018,61,Georgia Bulldogs,2018-02-03,60.476610362654164,included_game_day
+2018,61,Georgia Bulldogs,2018-02-07,47.14912014776886,included_game_day
+2018,61,Georgia Bulldogs,2018-02-10,37.39575284704816,included_game_day
+2018,61,Georgia Bulldogs,2018-02-14,49.43034978718361,included_game_day
+2018,61,Georgia Bulldogs,2018-02-17,63.82377100090301,included_game_day
+2018,61,Georgia Bulldogs,2018-02-21,54.73696110344314,included_game_day
+2018,61,Georgia Bulldogs,2018-02-24,63.75564899736993,included_game_day
+2018,61,Georgia Bulldogs,2018-02-28,61.477335712810095,included_game_day
+2018,61,Georgia Bulldogs,2018-03-03,66.01628169630047,included_game_day
+2018,61,Georgia Bulldogs,2018-03-07,79.69277282187842,included_game_day
+2018,61,Georgia Bulldogs,2018-03-08,81.67568799228675,included_game_day
+2018,61,Georgia Bulldogs,2018-03-09,72.54264747552935,included_game_day
+2019,61,Georgia Bulldogs,2018-11-09,29.8,included_game_day
+2019,61,Georgia Bulldogs,2018-11-13,27.47,included_game_day
+2019,61,Georgia Bulldogs,2018-11-16,31.63,included_game_day
+2019,61,Georgia Bulldogs,2018-11-19,39.296,included_game_day
+2019,61,Georgia Bulldogs,2018-11-20,24.88301,included_game_day
+2019,61,Georgia Bulldogs,2018-11-21,-3.1532610000000005,included_game_day
+2019,61,Georgia Bulldogs,2018-11-27,18.321953399999998,included_game_day
+2019,61,Georgia Bulldogs,2018-12-03,25.3798651613,included_game_day
+2019,61,Georgia Bulldogs,2018-12-15,24.786742107400002,included_game_day
+2019,61,Georgia Bulldogs,2018-12-18,27.802392203844448,included_game_day
+2019,61,Georgia Bulldogs,2018-12-22,44.881804674603664,included_game_day
+2019,61,Georgia Bulldogs,2018-12-30,58.505882998830984,included_game_day
+2019,61,Georgia Bulldogs,2019-01-05,21.50482398209381,included_game_day
+2019,61,Georgia Bulldogs,2019-01-09,41.44995999043242,included_game_day
+2019,61,Georgia Bulldogs,2019-01-12,36.98425124652594,included_game_day
+2019,61,Georgia Bulldogs,2019-01-15,21.118299028871036,included_game_day
+2019,61,Georgia Bulldogs,2019-01-19,15.17399870394829,included_game_day
+2019,61,Georgia Bulldogs,2019-01-23,19.394259253478406,included_game_day
+2019,61,Georgia Bulldogs,2019-01-26,32.851998769991255,included_game_day
+2019,61,Georgia Bulldogs,2019-01-29,28.28309166878625,included_game_day
+2019,61,Georgia Bulldogs,2019-02-02,18.55839285818841,included_game_day
+2019,61,Georgia Bulldogs,2019-02-06,12.40977109721617,included_game_day
+2019,61,Georgia Bulldogs,2019-02-09,-1.6515061972306402,included_game_day
+2019,61,Georgia Bulldogs,2019-02-12,-13.343543814107068,included_game_day
+2019,61,Georgia Bulldogs,2019-02-16,-5.080067228998715,included_game_day
+2019,61,Georgia Bulldogs,2019-02-20,3.1937614140810773,included_game_day
+2019,61,Georgia Bulldogs,2019-02-23,12.165245430023914,included_game_day
+2019,61,Georgia Bulldogs,2019-02-27,17.12220531954361,included_game_day
+2019,61,Georgia Bulldogs,2019-03-02,35.301981920108396,included_game_day
+2019,61,Georgia Bulldogs,2019-03-06,7.0119369552440425,included_game_day
+2019,61,Georgia Bulldogs,2019-03-09,-5.794319137213195,included_game_day
+2019,61,Georgia Bulldogs,2019-03-13,-9.866702320634904,included_game_day
+2020,61,Georgia Bulldogs,2019-11-05,16.0,included_game_day
+2020,61,Georgia Bulldogs,2019-11-12,18.48,included_game_day
+2020,61,Georgia Bulldogs,2019-11-15,44.222,included_game_day
+2020,61,Georgia Bulldogs,2019-11-20,43.159800000000004,included_game_day
+2020,61,Georgia Bulldogs,2019-11-25,24.013690000000004,included_game_day
+2020,61,Georgia Bulldogs,2019-11-26,21.238347200000003,included_game_day
+2020,61,Georgia Bulldogs,2019-12-04,45.589912459000004,included_game_day
+2020,61,Georgia Bulldogs,2019-12-14,30.484725202848125,included_game_day
+2020,61,Georgia Bulldogs,2019-12-20,31.725647353944314,included_game_day
+2020,61,Georgia Bulldogs,2019-12-23,33.21018893522971,included_game_day
+2020,61,Georgia Bulldogs,2019-12-30,55.54560861243712,included_game_day
+2020,61,Georgia Bulldogs,2020-01-04,68.71460596010509,included_game_day
+2020,61,Georgia Bulldogs,2020-01-07,59.92155785218111,included_game_day
+2020,61,Georgia Bulldogs,2020-01-11,47.02115808022421,included_game_day
+2020,61,Georgia Bulldogs,2020-01-15,60.699603437440274,included_game_day
+2020,61,Georgia Bulldogs,2020-01-18,34.02479711868336,included_game_day
+2020,61,Georgia Bulldogs,2020-01-21,34.92184132931156,included_game_day
+2020,61,Georgia Bulldogs,2020-01-25,17.1366178432953,included_game_day
+2020,61,Georgia Bulldogs,2020-01-28,18.20889037183134,included_game_day
+2020,61,Georgia Bulldogs,2020-02-01,29.680720045615878,included_game_day
+2020,61,Georgia Bulldogs,2020-02-05,31.880938407034527,included_game_day
+2020,61,Georgia Bulldogs,2020-02-08,30.577363286341694,included_game_day
+2020,61,Georgia Bulldogs,2020-02-12,15.720164581960436,included_game_day
+2020,61,Georgia Bulldogs,2020-02-15,11.087773919625974,included_game_day
+2020,61,Georgia Bulldogs,2020-02-19,24.841152462929056,included_game_day
+2020,61,Georgia Bulldogs,2020-02-22,26.431826818325014,included_game_day
+2020,61,Georgia Bulldogs,2020-02-26,30.51172372075674,included_game_day
+2020,61,Georgia Bulldogs,2020-02-29,41.12050636804858,included_game_day
+2020,61,Georgia Bulldogs,2020-03-04,29.355492278601712,included_game_day
+2020,61,Georgia Bulldogs,2020-03-07,6.372200175666002,included_game_day
+2020,61,Georgia Bulldogs,2020-03-11,27.722495734095634,included_game_day
+2021,61,Georgia Bulldogs,2020-11-29,6.4,included_game_day
+2021,61,Georgia Bulldogs,2020-12-04,37.84,included_game_day
+2021,61,Georgia Bulldogs,2020-12-08,43.573,included_game_day
+2021,61,Georgia Bulldogs,2020-12-12,41.618700000000004,included_game_day
+2021,61,Georgia Bulldogs,2020-12-19,49.1216223357,included_game_day
+2021,61,Georgia Bulldogs,2020-12-22,58.73534896683,included_game_day
+2021,61,Georgia Bulldogs,2020-12-30,43.677911122537004,included_game_day
+2021,61,Georgia Bulldogs,2021-01-06,49.312516544088304,included_game_day
+2021,61,Georgia Bulldogs,2021-01-09,28.04816140113379,included_game_day
+2021,61,Georgia Bulldogs,2021-01-13,7.085590153160631,included_game_day
+2021,61,Georgia Bulldogs,2021-01-16,17.596296924570936,included_game_day
+2021,61,Georgia Bulldogs,2021-01-20,15.025944791230671,included_game_day
+2021,61,Georgia Bulldogs,2021-01-23,9.824269958109236,included_game_day
+2021,61,Georgia Bulldogs,2021-01-27,-12.309380875199993,included_game_day
+2021,61,Georgia Bulldogs,2021-01-30,0.587224411603918,included_game_day
+2021,61,Georgia Bulldogs,2021-02-02,16.719331886836827,included_game_day
+2021,61,Georgia Bulldogs,2021-02-06,14.521368848588278,included_game_day
+2021,61,Georgia Bulldogs,2021-02-10,17.181533337742373,included_game_day
+2021,61,Georgia Bulldogs,2021-02-13,-1.3397869634213855,included_game_day
+2021,61,Georgia Bulldogs,2021-02-16,10.551980277957497,included_game_day
+2021,61,Georgia Bulldogs,2021-02-20,11.462019302919956,included_game_day
+2021,61,Georgia Bulldogs,2021-02-23,30.72569756131948,included_game_day
+2021,61,Georgia Bulldogs,2021-02-27,0.924092993995103,included_game_day
+2021,61,Georgia Bulldogs,2021-03-06,0.2004791660095897,included_game_day
+2021,61,Georgia Bulldogs,2021-03-11,1.6424463739131436,included_game_day
+2022,61,Georgia Bulldogs,2021-11-09,4.0,included_game_day
+2022,61,Georgia Bulldogs,2021-11-13,3.5,included_game_day
+2022,61,Georgia Bulldogs,2021-11-16,11.187999999999999,included_game_day
+2022,61,Georgia Bulldogs,2021-11-19,-1.0908000000000015,included_game_day
+2022,61,Georgia Bulldogs,2021-11-22,-10.843252500000002,included_game_day
+2022,61,Georgia Bulldogs,2021-11-23,-18.60410725,included_game_day
+2022,61,Georgia Bulldogs,2021-11-28,-20.978180825,included_game_day
+2022,61,Georgia Bulldogs,2021-12-01,-12.9645841725,included_game_day
+2022,61,Georgia Bulldogs,2021-12-07,-3.5504923772500003,included_game_day
+2022,61,Georgia Bulldogs,2021-12-18,-18.276263738177498,included_game_day
+2022,61,Georgia Bulldogs,2021-12-20,-16.865375425178847,included_game_day
+2022,61,Georgia Bulldogs,2021-12-22,-21.848914934279165,included_game_day
+2022,61,Georgia Bulldogs,2021-12-29,-41.2259306108768,included_game_day
+2022,61,Georgia Bulldogs,2022-01-04,-36.48762135678053,included_game_day
+2022,61,Georgia Bulldogs,2022-01-08,-28.841279366769783,included_game_day
+2022,61,Georgia Bulldogs,2022-01-12,-31.879102490190267,included_game_day
+2022,61,Georgia Bulldogs,2022-01-15,-33.6655746322116,included_game_day
+2022,61,Georgia Bulldogs,2022-01-19,-35.13379735896361,included_game_day
+2022,61,Georgia Bulldogs,2022-01-22,-44.35395847303981,included_game_day
+2022,61,Georgia Bulldogs,2022-01-25,-28.229402687778013,included_game_day
+2022,61,Georgia Bulldogs,2022-01-29,-27.746252063498368,included_game_day
+2022,61,Georgia Bulldogs,2022-02-02,-44.014794282358665,included_game_day
+2022,61,Georgia Bulldogs,2022-02-05,-27.953641594728552,included_game_day
+2022,61,Georgia Bulldogs,2022-02-09,-24.224936834566677,included_game_day
+2022,61,Georgia Bulldogs,2022-02-12,-34.58573359690433,included_game_day
+2022,61,Georgia Bulldogs,2022-02-16,-38.61238366869892,included_game_day
+2022,61,Georgia Bulldogs,2022-02-19,-53.11959748237737,included_game_day
+2022,61,Georgia Bulldogs,2022-02-22,-55.77754633509238,included_game_day
+2022,61,Georgia Bulldogs,2022-02-26,-59.065355739342195,included_game_day
+2022,61,Georgia Bulldogs,2022-03-01,-47.4748323974037,included_game_day
+2022,61,Georgia Bulldogs,2022-03-05,-50.889942553971814,included_game_day
+2022,61,Georgia Bulldogs,2022-03-09,-76.00556315971843,included_game_day
+2023,61,Georgia Bulldogs,2022-11-07,10.0,included_game_day
+2023,61,Georgia Bulldogs,2022-11-11,2.9000000000000004,included_game_day
+2023,61,Georgia Bulldogs,2022-11-14,5.91,included_game_day
+2023,61,Georgia Bulldogs,2022-11-18,6.491,included_game_day
+2023,61,Georgia Bulldogs,2022-11-21,18.6051,included_game_day
+2023,61,Georgia Bulldogs,2022-11-22,8.54882,included_game_day
+2023,61,Georgia Bulldogs,2022-11-27,18.897798,included_game_day
+2023,61,Georgia Bulldogs,2022-11-30,26.772010820000002,included_game_day
+2023,61,Georgia Bulldogs,2022-12-02,31.905148206000003,included_game_day
+2023,61,Georgia Bulldogs,2022-12-06,31.250719884400002,included_game_day
+2023,61,Georgia Bulldogs,2022-12-18,43.9829859554197,included_game_day
+2023,61,Georgia Bulldogs,2022-12-21,45.4259114126755,included_game_day
+2023,61,Georgia Bulldogs,2022-12-28,43.72670007539327,included_game_day
+2023,61,Georgia Bulldogs,2023-01-04,56.61271760862343,included_game_day
+2023,61,Georgia Bulldogs,2023-01-07,53.37393346651431,included_game_day
+2023,61,Georgia Bulldogs,2023-01-11,57.265215739965726,included_game_day
+2023,61,Georgia Bulldogs,2023-01-14,59.78487113279842,included_game_day
+2023,61,Georgia Bulldogs,2023-01-17,49.09606607918285,included_game_day
+2023,61,Georgia Bulldogs,2023-01-21,44.41040567273085,included_game_day
+2023,61,Georgia Bulldogs,2023-01-25,31.804213998809608,included_game_day
+2023,61,Georgia Bulldogs,2023-01-28,20.976086545945762,included_game_day
+2023,61,Georgia Bulldogs,2023-02-01,9.161349468136333,included_game_day
+2023,61,Georgia Bulldogs,2023-02-04,-3.3734573227970444,included_game_day
+2023,61,Georgia Bulldogs,2023-02-07,-10.834738578202593,included_game_day
+2023,61,Georgia Bulldogs,2023-02-11,1.8236082729127165,included_game_day
+2023,61,Georgia Bulldogs,2023-02-14,-0.9000569022846214,included_game_day
+2023,61,Georgia Bulldogs,2023-02-18,-28.419379371008485,included_game_day
+2023,61,Georgia Bulldogs,2023-02-21,-43.813051410266596,included_game_day
+2023,61,Georgia Bulldogs,2023-02-25,-59.51707613391938,included_game_day
+2023,61,Georgia Bulldogs,2023-02-28,-63.14861118041453,included_game_day
+2023,61,Georgia Bulldogs,2023-03-04,-62.330810353788664,included_game_day
+2023,61,Georgia Bulldogs,2023-03-08,-63.77723603497367,included_game_day
+2024,61,Georgia Bulldogs,2023-11-06,-11.0,included_game_day
+2024,61,Georgia Bulldogs,2023-11-10,-7.9,included_game_day
+2024,61,Georgia Bulldogs,2023-11-12,-4.11,included_game_day
+2024,61,Georgia Bulldogs,2023-11-17,-10.378,included_game_day
+2024,61,Georgia Bulldogs,2023-11-19,-13.7789,included_game_day
+2024,61,Georgia Bulldogs,2023-11-24,-3.6925799999999995,included_game_day
+2024,61,Georgia Bulldogs,2023-11-29,5.563155600000002,included_game_day
+2024,61,Georgia Bulldogs,2023-12-01,10.302819440000002,included_game_day
+2024,61,Georgia Bulldogs,2023-12-05,21.0053814993,included_game_day
+2024,61,Georgia Bulldogs,2023-12-16,27.790042167322,included_game_day
+2024,61,Georgia Bulldogs,2023-12-20,35.10265998151271,included_game_day
+2024,61,Georgia Bulldogs,2023-12-22,42.51859582137034,included_game_day
+2024,61,Georgia Bulldogs,2023-12-30,42.78789089624307,included_game_day
+2024,61,Georgia Bulldogs,2024-01-06,52.47608593905197,included_game_day
+2024,61,Georgia Bulldogs,2024-01-10,56.294822972083516,included_game_day
+2024,61,Georgia Bulldogs,2024-01-13,54.71981806504331,included_game_day
+2024,61,Georgia Bulldogs,2024-01-16,64.30773338473509,included_game_day
+2024,61,Georgia Bulldogs,2024-01-20,63.90208907183619,included_game_day
+2024,61,Georgia Bulldogs,2024-01-24,62.335539621520745,included_game_day
+2024,61,Georgia Bulldogs,2024-01-27,64.70866254036909,included_game_day
+2024,61,Georgia Bulldogs,2024-01-31,62.08587869195689,included_game_day
+2024,61,Georgia Bulldogs,2024-02-03,53.15832168113196,included_game_day
+2024,61,Georgia Bulldogs,2024-02-07,44.43998604519216,included_game_day
+2024,61,Georgia Bulldogs,2024-02-10,38.479244064061156,included_game_day
+2024,61,Georgia Bulldogs,2024-02-17,36.81553472981476,included_game_day
+2024,61,Georgia Bulldogs,2024-02-21,44.465070024814054,included_game_day
+2024,61,Georgia Bulldogs,2024-02-24,33.44246002179173,included_game_day
+2024,61,Georgia Bulldogs,2024-02-27,36.65690065578176,included_game_day
+2024,61,Georgia Bulldogs,2024-03-02,19.442345723867916,included_game_day
+2024,61,Georgia Bulldogs,2024-03-05,21.255029402440183,included_game_day
+2024,61,Georgia Bulldogs,2024-03-09,27.587326426310753,included_game_day
+2024,61,Georgia Bulldogs,2024-03-13,27.61325713155313,included_game_day
+2024,61,Georgia Bulldogs,2024-03-14,30.60635316174064,included_game_day
+2024,61,Georgia Bulldogs,2024-03-19,29.601631418503604,included_game_day
+2024,61,Georgia Bulldogs,2024-03-24,46.238536664763544,included_game_day
+2024,61,Georgia Bulldogs,2024-03-26,57.53030139536045,included_game_day
+2024,61,Georgia Bulldogs,2024-04-02,43.09462169672584,included_game_day
+2025,61,Georgia Bulldogs,2024-11-04,2.0,included_game_day
+2025,61,Georgia Bulldogs,2024-11-10,26.2,included_game_day
+2025,61,Georgia Bulldogs,2024-11-12,37.408,included_game_day
+2025,61,Georgia Bulldogs,2024-11-15,46.192,included_game_day
+2025,61,Georgia Bulldogs,2024-11-19,85.66613000000001,included_game_day
+2025,61,Georgia Bulldogs,2024-11-23,73.38070700000002,included_game_day
+2025,61,Georgia Bulldogs,2024-11-24,77.30675280000001,included_game_day
+2025,61,Georgia Bulldogs,2024-11-30,113.16893833,included_game_day
+2025,61,Georgia Bulldogs,2024-12-03,123.0579675912,included_game_day
+2025,61,Georgia Bulldogs,2024-12-14,117.35926797708,included_game_day
+2025,61,Georgia Bulldogs,2024-12-19,150.521229152095,included_game_day
+2025,61,Georgia Bulldogs,2024-12-22,141.74485438947718,included_game_day
+2025,61,Georgia Bulldogs,2024-12-29,129.8469498058571,included_game_day
+2025,61,Georgia Bulldogs,2025-01-04,118.22402594073506,included_game_day
+2025,61,Georgia Bulldogs,2025-01-07,128.76959993738063,included_game_day
+2025,61,Georgia Bulldogs,2025-01-11,129.92949645165086,included_game_day
+2025,61,Georgia Bulldogs,2025-01-15,118.2328680484386,included_game_day
+2025,61,Georgia Bulldogs,2025-01-18,122.04641299337779,included_game_day
+2025,61,Georgia Bulldogs,2025-01-22,118.27222589583232,included_game_day
+2025,61,Georgia Bulldogs,2025-01-25,98.73879813722391,included_game_day
+2025,61,Georgia Bulldogs,2025-01-28,101.66141900889171,included_game_day
+2025,61,Georgia Bulldogs,2025-02-01,89.55651557861061,included_game_day
+2025,61,Georgia Bulldogs,2025-02-05,101.87824693452511,included_game_day
+2025,61,Georgia Bulldogs,2025-02-08,97.23864139592759,included_game_day
+2025,61,Georgia Bulldogs,2025-02-11,88.37686322648078,included_game_day
+2025,61,Georgia Bulldogs,2025-02-15,81.28381248097564,included_game_day
+2025,61,Georgia Bulldogs,2025-02-22,85.85339648188891,included_game_day
+2025,61,Georgia Bulldogs,2025-02-25,100.94073433796768,included_game_day
+2025,61,Georgia Bulldogs,2025-03-01,118.80540481724428,included_game_day
+2025,61,Georgia Bulldogs,2025-03-04,124.75746004476017,included_game_day
+2025,61,Georgia Bulldogs,2025-03-08,129.6772893413749,included_game_day
+2025,61,Georgia Bulldogs,2025-03-12,120.92421869092536,included_game_day
+2025,61,Georgia Bulldogs,2025-03-20,108.41599179901026,included_game_day
+2026,61,Georgia Bulldogs,2025-11-03,42.0,included_game_day
+2026,61,Georgia Bulldogs,2025-11-05,99.7,included_game_day
+2026,61,Georgia Bulldogs,2025-11-09,124.54,included_game_day
+2026,61,Georgia Bulldogs,2025-11-14,116.80900000000001,included_game_day
+2026,61,Georgia Bulldogs,2025-11-17,123.96610000000001,included_game_day
+2026,61,Georgia Bulldogs,2025-11-21,112.46286,included_game_day
+2026,61,Georgia Bulldogs,2025-11-23,106.85739140000001,included_game_day
+2026,61,Georgia Bulldogs,2025-11-29,130.650725176,included_game_day
+2026,61,Georgia Bulldogs,2025-12-02,160.4777061034,included_game_day
+2026,61,Georgia Bulldogs,2025-12-13,167.95896076608602,included_game_day
+2026,61,Georgia Bulldogs,2025-12-18,170.5126360018795,included_game_day
+2026,61,Georgia Bulldogs,2025-12-22,173.31582073891647,included_game_day
+2026,61,Georgia Bulldogs,2025-12-29,166.72279538677262,included_game_day
+2026,61,Georgia Bulldogs,2026-01-03,158.1713939002534,included_game_day
+2026,61,Georgia Bulldogs,2026-01-06,142.65248728602805,included_game_day
+2026,61,Georgia Bulldogs,2026-01-10,144.74694125040128,included_game_day
+2026,61,Georgia Bulldogs,2026-01-14,130.17132239934799,included_game_day
+2026,61,Georgia Bulldogs,2026-01-17,142.34844421147497,included_game_day
+2026,61,Georgia Bulldogs,2026-01-20,139.83908981517664,included_game_day
+2026,61,Georgia Bulldogs,2026-01-24,119.77159903940085,included_game_day
+2026,61,Georgia Bulldogs,2026-01-28,116.65645196364083,included_game_day
+2026,61,Georgia Bulldogs,2026-01-31,102.51491359274452,included_game_day
+2026,61,Georgia Bulldogs,2026-02-07,114.39859276837336,included_game_day
+2026,61,Georgia Bulldogs,2026-02-11,103.34279303308388,included_game_day
+2026,61,Georgia Bulldogs,2026-02-14,86.76094408443592,included_game_day
+2026,61,Georgia Bulldogs,2026-02-17,102.47691164383684,included_game_day
+2026,61,Georgia Bulldogs,2026-02-21,113.49910190374429,included_game_day
+2026,61,Georgia Bulldogs,2026-02-25,111.95769370077443,included_game_day
+2026,61,Georgia Bulldogs,2026-02-28,118.86927744284328,included_game_day
+2026,61,Georgia Bulldogs,2026-03-03,130.45478849559586,included_game_day
+2026,61,Georgia Bulldogs,2026-03-07,126.586827408049,included_game_day
+2026,61,Georgia Bulldogs,2026-03-12,114.99558164352969,included_game_day
+2026,61,Georgia Bulldogs,2026-03-19,88.29522539752655,included_game_day
+2027,61,Georgia Bulldogs,2026-11-02,13.0,included_game_day
+2027,61,Georgia Bulldogs,2026-11-06,21.5,included_game_day
+2027,61,Georgia Bulldogs,2026-11-09,24.55,included_game_day
+2027,61,Georgia Bulldogs,2026-11-13,37.735,included_game_day
+2027,61,Georgia Bulldogs,2026-11-16,74.9635,included_game_day
+2027,61,Georgia Bulldogs,2026-11-20,79.3443,included_game_day

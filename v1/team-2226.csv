@@ -1,0 +1,953 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1994,2226,FL Atlantic,1993-11-26,-29.0,included_game_day
+1994,2226,FL Atlantic,1993-12-01,-74.1,included_game_day
+1994,2226,FL Atlantic,1993-12-03,-83.52,included_game_day
+1994,2226,FL Atlantic,1993-12-11,-99.303311,included_game_day
+1994,2226,FL Atlantic,1993-12-13,-108.5017598,included_game_day
+1994,2226,FL Atlantic,1993-12-15,-120.42787082,included_game_day
+1994,2226,FL Atlantic,1993-12-18,-130.7435137777,included_game_day
+1994,2226,FL Atlantic,1993-12-20,-126.18531870993,included_game_day
+1994,2226,FL Atlantic,1993-12-28,-139.76894085893701,included_game_day
+1994,2226,FL Atlantic,1993-12-30,-146.8819725759784,included_game_day
+1994,2226,FL Atlantic,1994-01-04,-149.38425602009656,included_game_day
+1994,2226,FL Atlantic,1994-01-08,-152.0696453860271,included_game_day
+1994,2226,FL Atlantic,1994-01-11,-146.5080853409543,included_game_day
+1994,2226,FL Atlantic,1994-01-14,-155.05883730489606,included_game_day
+1994,2226,FL Atlantic,1994-01-19,-165.75278455011957,included_game_day
+1994,2226,FL Atlantic,1994-01-22,-185.9148622153558,included_game_day
+1994,2226,FL Atlantic,1994-01-24,-188.2463819153539,included_game_day
+1994,2226,FL Atlantic,1994-01-27,-179.86696392691584,included_game_day
+1994,2226,FL Atlantic,1994-02-03,-169.68350871533548,included_game_day
+1994,2226,FL Atlantic,1994-02-05,-161.33785077303145,included_game_day
+1994,2226,FL Atlantic,1994-02-07,-151.3828312149986,included_game_day
+1994,2226,FL Atlantic,1994-02-14,-143.7291305116724,included_game_day
+1994,2226,FL Atlantic,1994-02-15,-131.87241980208032,included_game_day
+1994,2226,FL Atlantic,1994-02-20,-118.28420274798222,included_game_day
+1994,2226,FL Atlantic,1994-02-28,-97.99211698569249,included_game_day
+1994,2226,FL Atlantic,1994-03-01,-102.01040761109225,included_game_day
+1995,2226,FL Atlantic,1994-11-26,22.0,included_game_day
+1995,2226,FL Atlantic,1994-11-28,7.300000000000001,included_game_day
+1995,2226,FL Atlantic,1994-12-03,-23.95,included_game_day
+1995,2226,FL Atlantic,1994-12-17,-50.76756,included_game_day
+1995,2226,FL Atlantic,1994-12-21,-60.42685497154,included_game_day
+1995,2226,FL Atlantic,1995-01-04,-61.733229745961694,included_game_day
+1995,2226,FL Atlantic,1995-01-07,-56.3843655907481,included_game_day
+1995,2226,FL Atlantic,1995-01-09,-58.19556672583574,included_game_day
+1995,2226,FL Atlantic,1995-01-12,-49.85108271374369,included_game_day
+1995,2226,FL Atlantic,1995-01-14,-43.719276357641,included_game_day
+1995,2226,FL Atlantic,1995-01-16,-67.2008962934355,included_game_day
+1995,2226,FL Atlantic,1995-01-18,-70.53435800035876,included_game_day
+1995,2226,FL Atlantic,1995-01-21,-75.7465605939226,included_game_day
+1995,2226,FL Atlantic,1995-01-24,-93.22861376036079,included_game_day
+1995,2226,FL Atlantic,1995-01-30,-106.7576105267192,included_game_day
+1995,2226,FL Atlantic,1995-02-02,-100.03792339934772,included_game_day
+1995,2226,FL Atlantic,1995-02-04,-118.93114400851647,included_game_day
+1995,2226,FL Atlantic,1995-02-08,-100.77299201035106,included_game_day
+1995,2226,FL Atlantic,1995-02-10,-114.22605279604363,included_game_day
+1995,2226,FL Atlantic,1995-02-13,-141.94924880203402,included_game_day
+1995,2226,FL Atlantic,1995-02-20,-135.216763173938,included_game_day
+1995,2226,FL Atlantic,1995-02-22,-140.25528453981877,included_game_day
+1995,2226,FL Atlantic,1995-02-26,-153.5526743710999,included_game_day
+1995,2226,FL Atlantic,1995-03-02,-148.67671214986817,included_game_day
+1995,2226,FL Atlantic,1995-03-04,-140.42216421804935,included_game_day
+1996,2226,FL Atlantic,1995-11-27,-21.0,included_game_day
+1996,2226,FL Atlantic,1995-11-30,-33.9,included_game_day
+1996,2226,FL Atlantic,1995-12-04,-32.363,included_game_day
+1996,2226,FL Atlantic,1995-12-09,-26.69981,included_game_day
+1996,2226,FL Atlantic,1995-12-16,-19.23719269,included_game_day
+1996,2226,FL Atlantic,1995-12-18,-7.701558991999999,included_game_day
+1996,2226,FL Atlantic,1995-12-20,-8.0536109118,included_game_day
+1996,2226,FL Atlantic,1996-01-02,-4.316677512730012,included_game_day
+1996,2226,FL Atlantic,1996-01-04,-4.05251486785701,included_game_day
+1996,2226,FL Atlantic,1996-01-06,-14.122721949667941,included_game_day
+1996,2226,FL Atlantic,1996-01-11,-8.925944723709815,included_game_day
+1996,2226,FL Atlantic,1996-01-13,-9.763560076747005,included_game_day
+1996,2226,FL Atlantic,1996-01-18,-9.41830654250619,included_game_day
+1996,2226,FL Atlantic,1996-01-20,-19.03150604046294,included_game_day
+1996,2226,FL Atlantic,1996-01-25,-31.759474132169593,included_game_day
+1996,2226,FL Atlantic,1996-01-27,-39.955497716808274,included_game_day
+1996,2226,FL Atlantic,1996-02-01,-24.006989268399995,included_game_day
+1996,2226,FL Atlantic,1996-02-03,-10.018247203720954,included_game_day
+1996,2226,FL Atlantic,1996-02-05,-18.775206200618346,included_game_day
+1996,2226,FL Atlantic,1996-02-10,-34.368160793637045,included_game_day
+1996,2226,FL Atlantic,1996-02-12,-35.461857028377025,included_game_day
+1996,2226,FL Atlantic,1996-02-15,-35.0991445464152,included_game_day
+1996,2226,FL Atlantic,1996-02-17,-42.737753917030005,included_game_day
+1996,2226,FL Atlantic,1996-02-20,-44.68702085247075,included_game_day
+1996,2226,FL Atlantic,1996-02-22,-38.40131632141818,included_game_day
+1996,2226,FL Atlantic,1996-02-24,-25.228016104468132,included_game_day
+1997,2226,FL Atlantic,1996-11-22,-12.0,included_game_day
+1997,2226,FL Atlantic,1996-11-24,-15.4,included_game_day
+1997,2226,FL Atlantic,1996-11-27,-20.59,included_game_day
+1997,2226,FL Atlantic,1996-12-02,-48.260999999999996,included_game_day
+1997,2226,FL Atlantic,1996-12-04,-48.9509,included_game_day
+1997,2226,FL Atlantic,1996-12-14,-41.26017717,included_game_day
+1997,2226,FL Atlantic,1996-12-28,-28.242807212624996,included_game_day
+1997,2226,FL Atlantic,1996-12-30,-25.832993081223798,included_game_day
+1997,2226,FL Atlantic,1997-01-02,-15.98467624452142,included_game_day
+1997,2226,FL Atlantic,1997-01-04,-7.5560666612395195,included_game_day
+1997,2226,FL Atlantic,1997-01-06,-20.389961023906196,included_game_day
+1997,2226,FL Atlantic,1997-01-09,-17.478472109815755,included_game_day
+1997,2226,FL Atlantic,1997-01-11,-11.722077268801382,included_game_day
+1997,2226,FL Atlantic,1997-01-16,-9.058412420956754,included_game_day
+1997,2226,FL Atlantic,1997-01-18,-19.272568163107124,included_game_day
+1997,2226,FL Atlantic,1997-01-23,-2.8272293182367108,included_game_day
+1997,2226,FL Atlantic,1997-01-25,5.358896495070372,included_game_day
+1997,2226,FL Atlantic,1997-01-30,9.017326562051098,included_game_day
+1997,2226,FL Atlantic,1997-02-01,10.398616523274073,included_game_day
+1997,2226,FL Atlantic,1997-02-03,2.087119153158879,included_game_day
+1997,2226,FL Atlantic,1997-02-08,-2.371485603973457,included_game_day
+1997,2226,FL Atlantic,1997-02-13,-11.640831257112545,included_game_day
+1997,2226,FL Atlantic,1997-02-15,-6.519179399728333,included_game_day
+1997,2226,FL Atlantic,1997-02-20,-8.33941681016131,included_game_day
+1997,2226,FL Atlantic,1997-02-22,-2.1115309477753836,included_game_day
+1998,2226,FL Atlantic,1997-11-16,-17.5,included_game_day
+1998,2226,FL Atlantic,1997-11-19,-27.75,included_game_day
+1998,2226,FL Atlantic,1997-11-22,-47.975,included_game_day
+1998,2226,FL Atlantic,1997-11-24,-79.0375,included_game_day
+1998,2226,FL Atlantic,1997-11-29,-80.77744999999999,included_game_day
+1998,2226,FL Atlantic,1997-12-02,-104.61744299999998,included_game_day
+1998,2226,FL Atlantic,1997-12-11,-102.61309919999998,included_game_day
+1998,2226,FL Atlantic,1997-12-13,-98.68746186099997,included_game_day
+1998,2226,FL Atlantic,1997-12-20,-111.26110341689997,included_game_day
+1998,2226,FL Atlantic,1997-12-28,-141.6555232992308,included_game_day
+1998,2226,FL Atlantic,1998-01-03,-128.620574836332,included_game_day
+1998,2226,FL Atlantic,1998-01-05,-117.52691533191339,included_game_day
+1998,2226,FL Atlantic,1998-01-07,-112.6049920961772,included_game_day
+1998,2226,FL Atlantic,1998-01-10,-130.98310308202758,included_game_day
+1998,2226,FL Atlantic,1998-01-15,-112.66007588041413,included_game_day
+1998,2226,FL Atlantic,1998-01-17,-108.34719379883728,included_game_day
+1998,2226,FL Atlantic,1998-01-24,-131.68201547315442,included_game_day
+1998,2226,FL Atlantic,1998-01-29,-128.34277520504838,included_game_day
+1998,2226,FL Atlantic,1998-01-31,-130.85970549814004,included_game_day
+1998,2226,FL Atlantic,1998-02-05,-139.0868909082906,included_game_day
+1998,2226,FL Atlantic,1998-02-07,-147.88028428844342,included_game_day
+1998,2226,FL Atlantic,1998-02-12,-149.17657008912508,included_game_day
+1998,2226,FL Atlantic,1998-02-14,-141.1226694529268,included_game_day
+1998,2226,FL Atlantic,1998-02-16,-140.6926124107271,included_game_day
+1998,2226,FL Atlantic,1998-02-19,-165.50140931381677,included_game_day
+1998,2226,FL Atlantic,1998-02-21,-162.48869372113631,included_game_day
+1999,2226,FL Atlantic,1998-11-13,-27.0,included_game_day
+1999,2226,FL Atlantic,1998-11-18,-24.3,included_game_day
+1999,2226,FL Atlantic,1998-11-29,-52.07,included_game_day
+1999,2226,FL Atlantic,1998-12-01,-37.135005,included_game_day
+1999,2226,FL Atlantic,1998-12-05,-63.58587482,included_game_day
+1999,2226,FL Atlantic,1998-12-12,-51.800740925078,included_game_day
+1999,2226,FL Atlantic,1998-12-17,-64.3047357735702,included_game_day
+1999,2226,FL Atlantic,1998-12-19,-68.64418721771378,included_game_day
+1999,2226,FL Atlantic,1998-12-29,-67.8662974219286,included_game_day
+1999,2226,FL Atlantic,1999-01-02,-57.902790209197505,included_game_day
+1999,2226,FL Atlantic,1999-01-04,-67.5494284756077,included_game_day
+1999,2226,FL Atlantic,1999-01-07,-77.96849019964891,included_game_day
+1999,2226,FL Atlantic,1999-01-09,-93.19769480815795,included_game_day
+1999,2226,FL Atlantic,1999-01-14,-104.83467693977363,included_game_day
+1999,2226,FL Atlantic,1999-01-16,-97.29321716757099,included_game_day
+1999,2226,FL Atlantic,1999-01-20,-99.19661703379703,included_game_day
+1999,2226,FL Atlantic,1999-01-25,-91.03849142994645,included_game_day
+1999,2226,FL Atlantic,1999-01-30,-78.21451325757894,included_game_day
+1999,2226,FL Atlantic,1999-02-01,-89.42872490123784,included_game_day
+1999,2226,FL Atlantic,1999-02-06,-102.69594304228185,included_game_day
+1999,2226,FL Atlantic,1999-02-08,-112.28925738075402,included_game_day
+1999,2226,FL Atlantic,1999-02-10,-114.46168903201173,included_game_day
+1999,2226,FL Atlantic,1999-02-13,-109.37000927827783,included_game_day
+1999,2226,FL Atlantic,1999-02-18,-122.41534793076697,included_game_day
+1999,2226,FL Atlantic,1999-02-20,-131.25811391818928,included_game_day
+2000,2226,FL Atlantic,1999-11-22,-20.03,included_game_day
+2000,2226,FL Atlantic,1999-11-24,-43.727000000000004,included_game_day
+2000,2226,FL Atlantic,1999-12-04,-64.4975,included_game_day
+2000,2226,FL Atlantic,1999-12-13,-86.99036773537,included_game_day
+2000,2226,FL Atlantic,1999-12-16,-89.604876601954,included_game_day
+2000,2226,FL Atlantic,1999-12-20,-100.93905932275861,included_game_day
+2000,2226,FL Atlantic,1999-12-21,-104.35341821470035,included_game_day
+2000,2226,FL Atlantic,1999-12-22,-120.12441500825523,included_game_day
+2000,2226,FL Atlantic,1999-12-27,-139.6529285830229,included_game_day
+2000,2226,FL Atlantic,2000-01-04,-155.62606578859442,included_game_day
+2000,2226,FL Atlantic,2000-01-08,-157.39893207736097,included_game_day
+2000,2226,FL Atlantic,2000-01-10,-176.07244087564672,included_game_day
+2000,2226,FL Atlantic,2000-01-13,-179.3095570577941,included_game_day
+2000,2226,FL Atlantic,2000-01-15,-189.7784183368828,included_game_day
+2000,2226,FL Atlantic,2000-01-20,-193.11507734778016,included_game_day
+2000,2226,FL Atlantic,2000-01-22,-195.51235122827802,included_game_day
+2000,2226,FL Atlantic,2000-01-26,-196.4553540495454,included_game_day
+2000,2226,FL Atlantic,2000-01-29,-195.68734908576894,included_game_day
+2000,2226,FL Atlantic,2000-01-31,-199.82116081630113,included_game_day
+2000,2226,FL Atlantic,2000-02-05,-207.22468262191225,included_game_day
+2000,2226,FL Atlantic,2000-02-10,-206.6678772522566,included_game_day
+2000,2226,FL Atlantic,2000-02-12,-190.37504931876637,included_game_day
+2000,2226,FL Atlantic,2000-02-17,-186.74820459521789,included_game_day
+2000,2226,FL Atlantic,2000-02-19,-182.19277792740564,included_game_day
+2000,2226,FL Atlantic,2000-02-22,-176.91748169329284,included_game_day
+2000,2226,FL Atlantic,2000-02-24,-179.18432300995678,included_game_day
+2000,2226,FL Atlantic,2000-02-26,-177.54501375999436,included_game_day
+2000,2226,FL Atlantic,2000-03-01,-156.53586460606232,included_game_day
+2000,2226,FL Atlantic,2000-03-02,-161.67341708333623,included_game_day
+2001,2226,FL Atlantic,2000-11-18,-20.0,included_game_day
+2001,2226,FL Atlantic,2000-11-21,-35.75,included_game_day
+2001,2226,FL Atlantic,2000-11-24,-53.275,included_game_day
+2001,2226,FL Atlantic,2000-11-25,-43.1025,included_game_day
+2001,2226,FL Atlantic,2000-11-27,-91.99225,included_game_day
+2001,2226,FL Atlantic,2000-11-30,-111.87062499999999,included_game_day
+2001,2226,FL Atlantic,2000-12-02,-96.50544249999999,included_game_day
+2001,2226,FL Atlantic,2000-12-09,-96.74423368,included_game_day
+2001,2226,FL Atlantic,2000-12-20,-96.50515352829,included_game_day
+2001,2226,FL Atlantic,2000-12-21,-108.22205387056182,included_game_day
+2001,2226,FL Atlantic,2001-01-03,-97.44499540155006,included_game_day
+2001,2226,FL Atlantic,2001-01-06,-113.72022549716642,included_game_day
+2001,2226,FL Atlantic,2001-01-08,-99.15343235433947,included_game_day
+2001,2226,FL Atlantic,2001-01-11,-100.37280270733388,included_game_day
+2001,2226,FL Atlantic,2001-01-13,-98.9135591177842,included_game_day
+2001,2226,FL Atlantic,2001-01-18,-85.51735726891653,included_game_day
+2001,2226,FL Atlantic,2001-01-20,-92.04775221835861,included_game_day
+2001,2226,FL Atlantic,2001-01-23,-94.81157438819797,included_game_day
+2001,2226,FL Atlantic,2001-01-27,-101.51580212526004,included_game_day
+2001,2226,FL Atlantic,2001-01-29,-99.55913514312903,included_game_day
+2001,2226,FL Atlantic,2001-02-03,-91.73719411958871,included_game_day
+2001,2226,FL Atlantic,2001-02-08,-90.424952672579,included_game_day
+2001,2226,FL Atlantic,2001-02-10,-104.75825676744272,included_game_day
+2001,2226,FL Atlantic,2001-02-15,-107.38936353122176,included_game_day
+2001,2226,FL Atlantic,2001-02-17,-128.39002501725443,included_game_day
+2001,2226,FL Atlantic,2001-02-22,-130.96187991462554,included_game_day
+2001,2226,FL Atlantic,2001-02-24,-125.009550119438,included_game_day
+2001,2226,FL Atlantic,2001-02-28,-115.85331324566945,included_game_day
+2001,2226,FL Atlantic,2001-03-01,-136.00707309689628,included_game_day
+2002,2226,Florida Atlantic Owls,2001-11-17,1.0,included_game_day
+2002,2226,Florida Atlantic Owls,2001-11-26,-21.3167,included_game_day
+2002,2226,Florida Atlantic Owls,2001-11-29,-10.787930000000001,included_game_day
+2002,2226,Florida Atlantic Owls,2001-12-01,0.6289729999999984,included_game_day
+2002,2226,Florida Atlantic Owls,2001-12-04,4.788694399999997,included_game_day
+2002,2226,Florida Atlantic Owls,2001-12-08,1.3505115699999974,included_game_day
+2002,2226,Florida Atlantic Owls,2001-12-17,1.528723992999998,included_game_day
+2002,2226,Florida Atlantic Owls,2001-12-19,2.065921886349998,included_game_day
+2002,2226,Florida Atlantic Owls,2001-12-27,4.085895399429998,included_game_day
+2002,2226,Florida Atlantic Owls,2002-01-02,-12.880092186619091,included_game_day
+2002,2226,Florida Atlantic Owls,2002-01-05,-0.46161920002899315,included_game_day
+2002,2226,Florida Atlantic Owls,2002-01-07,2.587618497615857,included_game_day
+2002,2226,Florida Atlantic Owls,2002-01-10,15.77234935637428,included_game_day
+2002,2226,Florida Atlantic Owls,2002-01-12,9.934270766447852,included_game_day
+2002,2226,Florida Atlantic Owls,2002-01-16,1.380379814960044,included_game_day
+2002,2226,Florida Atlantic Owls,2002-01-19,-3.9443914084120415,included_game_day
+2002,2226,Florida Atlantic Owls,2002-01-22,-6.632706457180029,included_game_day
+2002,2226,Florida Atlantic Owls,2002-01-28,-6.239658587520251,included_game_day
+2002,2226,Florida Atlantic Owls,2002-02-02,-5.968158799412858,included_game_day
+2002,2226,Florida Atlantic Owls,2002-02-04,-20.702857184997583,included_game_day
+2002,2226,Florida Atlantic Owls,2002-02-07,-32.239737002794826,included_game_day
+2002,2226,Florida Atlantic Owls,2002-02-09,-28.835923929408658,included_game_day
+2002,2226,Florida Atlantic Owls,2002-02-14,-22.958520243469728,included_game_day
+2002,2226,Florida Atlantic Owls,2002-02-16,-44.91296915456017,included_game_day
+2002,2226,Florida Atlantic Owls,2002-02-21,-35.22338819795826,included_game_day
+2002,2226,Florida Atlantic Owls,2002-02-23,-33.70560128329123,included_game_day
+2002,2226,Florida Atlantic Owls,2002-02-28,-26.544832287273817,included_game_day
+2002,2226,Florida Atlantic Owls,2002-03-01,-21.23831225054536,included_game_day
+2002,2226,Florida Atlantic Owls,2002-03-02,-11.454256617754288,included_game_day
+2002,2226,Florida Atlantic Owls,2002-03-14,-3.5161105410948057,included_game_day
+2003,2226,Florida Atlantic Owls,2002-11-16,8.0,included_game_day
+2003,2226,Florida Atlantic Owls,2002-11-18,-13.3,included_game_day
+2003,2226,Florida Atlantic Owls,2002-11-19,-9.8,included_game_day
+2003,2226,Florida Atlantic Owls,2002-11-22,-17.82,included_game_day
+2003,2226,Florida Atlantic Owls,2002-11-24,-40.038,included_game_day
+2003,2226,Florida Atlantic Owls,2002-12-03,-32.39409,included_game_day
+2003,2226,Florida Atlantic Owls,2002-12-05,-43.685947999999996,included_game_day
+2003,2226,Florida Atlantic Owls,2002-12-16,-52.08786549999999,included_game_day
+2003,2226,Florida Atlantic Owls,2002-12-20,-51.06597494399999,included_game_day
+2003,2226,Florida Atlantic Owls,2002-12-28,-57.200587531699995,included_game_day
+2003,2226,Florida Atlantic Owls,2002-12-30,-65.55874103383113,included_game_day
+2003,2226,Florida Atlantic Owls,2003-01-04,-64.34990966999571,included_game_day
+2003,2226,Florida Atlantic Owls,2003-01-09,-58.364771366964476,included_game_day
+2003,2226,Florida Atlantic Owls,2003-01-11,-56.441736302436226,included_game_day
+2003,2226,Florida Atlantic Owls,2003-01-18,-69.97552050187514,included_game_day
+2003,2226,Florida Atlantic Owls,2003-01-20,-67.1788819067567,included_game_day
+2003,2226,Florida Atlantic Owls,2003-01-23,-58.30313828256568,included_game_day
+2003,2226,Florida Atlantic Owls,2003-01-25,-56.036824535548874,included_game_day
+2003,2226,Florida Atlantic Owls,2003-01-30,-77.52209897124126,included_game_day
+2003,2226,Florida Atlantic Owls,2003-02-01,-77.60073062903417,included_game_day
+2003,2226,Florida Atlantic Owls,2003-02-04,-71.76162235096353,included_game_day
+2003,2226,Florida Atlantic Owls,2003-02-07,-55.50894835553758,included_game_day
+2003,2226,Florida Atlantic Owls,2003-02-13,-56.9374861559112,included_game_day
+2003,2226,Florida Atlantic Owls,2003-02-15,-90.0050543752462,included_game_day
+2003,2226,Florida Atlantic Owls,2003-02-20,-97.15827091116958,included_game_day
+2003,2226,Florida Atlantic Owls,2003-02-22,-94.0737660662042,included_game_day
+2003,2226,Florida Atlantic Owls,2003-03-01,-91.9865635569143,included_game_day
+2004,2226,Florida Atlantic Owls,2003-11-21,-10.0,included_game_day
+2004,2226,Florida Atlantic Owls,2003-11-25,-20.2,included_game_day
+2004,2226,Florida Atlantic Owls,2003-12-01,-21.186,included_game_day
+2004,2226,Florida Atlantic Owls,2003-12-15,-1.8642970999999982,included_game_day
+2004,2226,Florida Atlantic Owls,2003-12-17,6.414731954100002,included_game_day
+2004,2226,Florida Atlantic Owls,2003-12-20,-3.038232170309998,included_game_day
+2004,2226,Florida Atlantic Owls,2003-12-27,-22.085828265697998,included_game_day
+2004,2226,Florida Atlantic Owls,2004-01-03,-12.860624482768669,included_game_day
+2004,2226,Florida Atlantic Owls,2004-01-05,-15.784074932988378,included_game_day
+2004,2226,Florida Atlantic Owls,2004-01-09,7.248205617726423,included_game_day
+2004,2226,Florida Atlantic Owls,2004-01-11,0.6806139203537267,included_game_day
+2004,2226,Florida Atlantic Owls,2004-01-14,-16.490350224226347,included_game_day
+2004,2226,Florida Atlantic Owls,2004-01-17,-16.155449341217867,included_game_day
+2004,2226,Florida Atlantic Owls,2004-01-19,-5.830093878060639,included_game_day
+2004,2226,Florida Atlantic Owls,2004-01-25,-8.130647311550382,included_game_day
+2004,2226,Florida Atlantic Owls,2004-01-28,-7.702357507505818,included_game_day
+2004,2226,Florida Atlantic Owls,2004-02-02,-6.031070475398531,included_game_day
+2004,2226,Florida Atlantic Owls,2004-02-05,-20.631832307047453,included_game_day
+2004,2226,Florida Atlantic Owls,2004-02-07,-14.035556496831218,included_game_day
+2004,2226,Florida Atlantic Owls,2004-02-12,-26.13717895916465,included_game_day
+2004,2226,Florida Atlantic Owls,2004-02-14,-34.338684423458844,included_game_day
+2004,2226,Florida Atlantic Owls,2004-02-19,-40.1378340091578,included_game_day
+2004,2226,Florida Atlantic Owls,2004-02-21,-45.563454259145175,included_game_day
+2004,2226,Florida Atlantic Owls,2004-02-26,-43.582383377356706,included_game_day
+2004,2226,Florida Atlantic Owls,2004-02-28,-49.918159247787905,included_game_day
+2004,2226,Florida Atlantic Owls,2004-03-04,-35.006719498108424,included_game_day
+2005,2226,Florida Atlantic Owls,2004-11-19,0.0,included_game_day
+2005,2226,Florida Atlantic Owls,2004-11-23,-39.5,included_game_day
+2005,2226,Florida Atlantic Owls,2004-11-29,-51.170041,included_game_day
+2005,2226,Florida Atlantic Owls,2004-12-04,-52.8910029,included_game_day
+2005,2226,Florida Atlantic Owls,2004-12-14,-33.126648241,included_game_day
+2005,2226,Florida Atlantic Owls,2004-12-17,-41.2740853715,included_game_day
+2005,2226,Florida Atlantic Owls,2004-12-18,-46.761377412048,included_game_day
+2005,2226,Florida Atlantic Owls,2004-12-22,-53.40064398039837,included_game_day
+2005,2226,Florida Atlantic Owls,2004-12-30,-61.86072948473756,included_game_day
+2005,2226,Florida Atlantic Owls,2005-01-03,-50.03371729392355,included_game_day
+2005,2226,Florida Atlantic Owls,2005-01-05,-49.17899610887666,included_game_day
+2005,2226,Florida Atlantic Owls,2005-01-09,-42.76098264099593,included_game_day
+2005,2226,Florida Atlantic Owls,2005-01-11,-52.90586530608687,included_game_day
+2005,2226,Florida Atlantic Owls,2005-01-13,-55.769864477937496,included_game_day
+2005,2226,Florida Atlantic Owls,2005-01-18,-66.87264463964374,included_game_day
+2005,2226,Florida Atlantic Owls,2005-01-20,-52.810408274756476,included_game_day
+2005,2226,Florida Atlantic Owls,2005-01-23,-52.456185596798534,included_game_day
+2005,2226,Florida Atlantic Owls,2005-01-25,-37.43849947430929,included_game_day
+2005,2226,Florida Atlantic Owls,2005-01-29,-25.677087528257367,included_game_day
+2005,2226,Florida Atlantic Owls,2005-01-31,-31.98051158731752,included_game_day
+2005,2226,Florida Atlantic Owls,2005-02-06,-26.08844162406183,included_game_day
+2005,2226,Florida Atlantic Owls,2005-02-10,1.153967223805239,included_game_day
+2005,2226,Florida Atlantic Owls,2005-02-12,4.538580622689304,included_game_day
+2005,2226,Florida Atlantic Owls,2005-02-17,-5.614790492042081,included_game_day
+2005,2226,Florida Atlantic Owls,2005-02-19,-32.96160417104409,included_game_day
+2005,2226,Florida Atlantic Owls,2005-02-24,-34.85081123234683,included_game_day
+2005,2226,Florida Atlantic Owls,2005-02-26,-46.78969885579776,included_game_day
+2006,2226,Florida Atlantic Owls,2005-11-18,-1.04,included_game_day
+2006,2226,Florida Atlantic Owls,2005-11-21,-6.678,included_game_day
+2006,2226,Florida Atlantic Owls,2005-11-30,-7.0102,included_game_day
+2006,2226,Florida Atlantic Owls,2005-12-04,-8.352858000000001,included_game_day
+2006,2226,Florida Atlantic Owls,2005-12-13,-7.197177900000001,included_game_day
+2006,2226,Florida Atlantic Owls,2005-12-15,-21.073492298322,included_game_day
+2006,2226,Florida Atlantic Owls,2005-12-20,-33.0511819278518,included_game_day
+2006,2226,Florida Atlantic Owls,2005-12-21,-39.99557651696393,included_game_day
+2006,2226,Florida Atlantic Owls,2005-12-29,-45.606782175351874,included_game_day
+2006,2226,Florida Atlantic Owls,2006-01-02,-36.35959034056788,included_game_day
+2006,2226,Florida Atlantic Owls,2006-01-04,-33.55776814920441,included_game_day
+2006,2226,Florida Atlantic Owls,2006-01-07,-29.735796051094802,included_game_day
+2006,2226,Florida Atlantic Owls,2006-01-09,-19.40649818876625,included_game_day
+2006,2226,Florida Atlantic Owls,2006-01-15,0.26122655303655407,included_game_day
+2006,2226,Florida Atlantic Owls,2006-01-17,7.354725186402283,included_game_day
+2006,2226,Florida Atlantic Owls,2006-01-22,11.623539145931641,included_game_day
+2006,2226,Florida Atlantic Owls,2006-01-24,-7.77783220706916,included_game_day
+2006,2226,Florida Atlantic Owls,2006-01-27,-13.422643904145593,included_game_day
+2006,2226,Florida Atlantic Owls,2006-01-29,-23.37925981683859,included_game_day
+2006,2226,Florida Atlantic Owls,2006-02-02,-24.248325874063447,included_game_day
+2006,2226,Florida Atlantic Owls,2006-02-04,-17.335269441578316,included_game_day
+2006,2226,Florida Atlantic Owls,2006-02-07,-22.670054506439605,included_game_day
+2006,2226,Florida Atlantic Owls,2006-02-12,-28.264910772329948,included_game_day
+2006,2226,Florida Atlantic Owls,2006-02-16,-20.712558297149048,included_game_day
+2006,2226,Florida Atlantic Owls,2006-02-18,-13.03328689592426,included_game_day
+2006,2226,Florida Atlantic Owls,2006-02-23,0.5114037952317751,included_game_day
+2006,2226,Florida Atlantic Owls,2006-02-25,-2.2120483719783124,included_game_day
+2006,2226,Florida Atlantic Owls,2006-03-02,-17.4216530037644,included_game_day
+2007,2226,Florida Atlantic Owls,2006-11-10,-42.0,included_game_day
+2007,2226,Florida Atlantic Owls,2006-11-13,-49.8,included_game_day
+2007,2226,Florida Atlantic Owls,2006-11-17,-56.099999999999994,included_game_day
+2007,2226,Florida Atlantic Owls,2006-11-19,-62.849999999999994,included_game_day
+2007,2226,Florida Atlantic Owls,2006-11-22,-45.803999999999995,included_game_day
+2007,2226,Florida Atlantic Owls,2006-12-02,-37.792353928999994,included_game_day
+2007,2226,Florida Atlantic Owls,2006-12-09,-46.28670353609999,included_game_day
+2007,2226,Florida Atlantic Owls,2006-12-13,-41.56282876051199,included_game_day
+2007,2226,Florida Atlantic Owls,2006-12-19,-75.98250709147558,included_game_day
+2007,2226,Florida Atlantic Owls,2006-12-23,-71.62170047505404,included_game_day
+2007,2226,Florida Atlantic Owls,2006-12-28,-64.64504630370672,included_game_day
+2007,2226,Florida Atlantic Owls,2006-12-30,-64.40545407585039,included_game_day
+2007,2226,Florida Atlantic Owls,2007-01-04,-50.968487003384325,included_game_day
+2007,2226,Florida Atlantic Owls,2007-01-06,-70.3140363090111,included_game_day
+2007,2226,Florida Atlantic Owls,2007-01-10,-74.60887392733977,included_game_day
+2007,2226,Florida Atlantic Owls,2007-01-13,-65.83290475551004,included_game_day
+2007,2226,Florida Atlantic Owls,2007-01-18,-72.89478559695095,included_game_day
+2007,2226,Florida Atlantic Owls,2007-01-20,-84.25486149040476,included_game_day
+2007,2226,Florida Atlantic Owls,2007-01-24,-83.87557454333403,included_game_day
+2007,2226,Florida Atlantic Owls,2007-01-27,-81.3387838593455,included_game_day
+2007,2226,Florida Atlantic Owls,2007-01-31,-80.48324548896056,included_game_day
+2007,2226,Florida Atlantic Owls,2007-02-03,-83.21293622160837,included_game_day
+2007,2226,Florida Atlantic Owls,2007-02-06,-65.86997988773444,included_game_day
+2007,2226,Florida Atlantic Owls,2007-02-10,-64.61021945482771,included_game_day
+2007,2226,Florida Atlantic Owls,2007-02-14,-47.719523456874576,included_game_day
+2007,2226,Florida Atlantic Owls,2007-02-17,-28.923648698400825,included_game_day
+2007,2226,Florida Atlantic Owls,2007-02-21,-15.29807655009145,included_game_day
+2007,2226,Florida Atlantic Owls,2007-02-24,-36.76960672039682,included_game_day
+2007,2226,Florida Atlantic Owls,2007-02-28,-40.94568789058383,included_game_day
+2007,2226,Florida Atlantic Owls,2007-03-04,-37.81882351440213,included_game_day
+2008,2226,Florida Atlantic Owls,2007-11-09,-27.0,included_game_day
+2008,2226,Florida Atlantic Owls,2007-11-12,-26.6,included_game_day
+2008,2226,Florida Atlantic Owls,2007-11-16,-21.380000000000003,included_game_day
+2008,2226,Florida Atlantic Owls,2007-11-17,-51.586200000000005,included_game_day
+2008,2226,Florida Atlantic Owls,2007-11-18,-55.70338,included_game_day
+2008,2226,Florida Atlantic Owls,2007-11-26,-62.240002000000004,included_game_day
+2008,2226,Florida Atlantic Owls,2007-11-28,-83.44052986,included_game_day
+2008,2226,Florida Atlantic Owls,2007-12-01,-86.473814574,included_game_day
+2008,2226,Florida Atlantic Owls,2007-12-08,-70.7399240318,included_game_day
+2008,2226,Florida Atlantic Owls,2007-12-18,-73.3238212336257,included_game_day
+2008,2226,Florida Atlantic Owls,2007-12-20,-69.19316605381613,included_game_day
+2008,2226,Florida Atlantic Owls,2007-12-23,-64.0776743553052,included_game_day
+2008,2226,Florida Atlantic Owls,2007-12-29,-77.03793107034376,included_game_day
+2008,2226,Florida Atlantic Owls,2008-01-02,-78.30686255122156,included_game_day
+2008,2226,Florida Atlantic Owls,2008-01-05,-87.63739963672809,included_game_day
+2008,2226,Florida Atlantic Owls,2008-01-09,-84.22505799375107,included_game_day
+2008,2226,Florida Atlantic Owls,2008-01-12,-76.02926906728578,included_game_day
+2008,2226,Florida Atlantic Owls,2008-01-16,-76.99411686285322,included_game_day
+2008,2226,Florida Atlantic Owls,2008-01-24,-72.30490320493116,included_game_day
+2008,2226,Florida Atlantic Owls,2008-01-27,-67.40504974347856,included_game_day
+2008,2226,Florida Atlantic Owls,2008-01-30,-55.186799498465405,included_game_day
+2008,2226,Florida Atlantic Owls,2008-02-02,-36.98141873366524,included_game_day
+2008,2226,Florida Atlantic Owls,2008-02-06,-33.97914585177746,included_game_day
+2008,2226,Florida Atlantic Owls,2008-02-09,-32.8870201654746,included_game_day
+2008,2226,Florida Atlantic Owls,2008-02-11,-21.34552342939736,included_game_day
+2008,2226,Florida Atlantic Owls,2008-02-16,-25.56778667703507,included_game_day
+2008,2226,Florida Atlantic Owls,2008-02-20,-35.76815310753914,included_game_day
+2008,2226,Florida Atlantic Owls,2008-02-23,-26.497588595860158,included_game_day
+2008,2226,Florida Atlantic Owls,2008-02-27,-23.128796267432236,included_game_day
+2008,2226,Florida Atlantic Owls,2008-03-01,-24.8709642282967,included_game_day
+2008,2226,Florida Atlantic Owls,2008-03-05,-0.5964665406767651,included_game_day
+2008,2226,Florida Atlantic Owls,2008-03-09,-7.96451093040122,included_game_day
+2009,2226,Florida Atlantic Owls,2008-11-14,0.0,included_game_day
+2009,2226,Florida Atlantic Owls,2008-11-17,-10.0,included_game_day
+2009,2226,Florida Atlantic Owls,2008-11-18,-5.06,included_game_day
+2009,2226,Florida Atlantic Owls,2008-11-22,9.492,included_game_day
+2009,2226,Florida Atlantic Owls,2008-11-24,0.9126700000000003,included_game_day
+2009,2226,Florida Atlantic Owls,2008-11-25,-16.625839999999997,included_game_day
+2009,2226,Florida Atlantic Owls,2008-11-28,-14.806215999999997,included_game_day
+2009,2226,Florida Atlantic Owls,2008-12-01,-20.811248399999997,included_game_day
+2009,2226,Florida Atlantic Owls,2008-12-13,-8.129330659999997,included_game_day
+2009,2226,Florida Atlantic Owls,2008-12-16,-20.28014723337,included_game_day
+2009,2226,Florida Atlantic Owls,2008-12-18,-26.405940039673,included_game_day
+2009,2226,Florida Atlantic Owls,2008-12-22,-49.04911935808167,included_game_day
+2009,2226,Florida Atlantic Owls,2008-12-27,-36.08160581449001,included_game_day
+2009,2226,Florida Atlantic Owls,2009-01-01,-40.040911911332216,included_game_day
+2009,2226,Florida Atlantic Owls,2009-01-05,-39.07045755792332,included_game_day
+2009,2226,Florida Atlantic Owls,2009-01-08,-27.53556626009168,included_game_day
+2009,2226,Florida Atlantic Owls,2009-01-10,-47.3876363958915,included_game_day
+2009,2226,Florida Atlantic Owls,2009-01-15,-56.66262064914842,included_game_day
+2009,2226,Florida Atlantic Owls,2009-01-17,-57.88445061970475,included_game_day
+2009,2226,Florida Atlantic Owls,2009-01-22,-69.51276737724409,included_game_day
+2009,2226,Florida Atlantic Owls,2009-01-24,-62.12383363702785,included_game_day
+2009,2226,Florida Atlantic Owls,2009-01-29,-66.3079862221253,included_game_day
+2009,2226,Florida Atlantic Owls,2009-01-31,-51.63206358038318,included_game_day
+2009,2226,Florida Atlantic Owls,2009-02-05,-56.80042245010742,included_game_day
+2009,2226,Florida Atlantic Owls,2009-02-07,-68.607349848964,included_game_day
+2009,2226,Florida Atlantic Owls,2009-02-12,-59.35617889162172,included_game_day
+2009,2226,Florida Atlantic Owls,2009-02-14,-73.80437931852268,included_game_day
+2009,2226,Florida Atlantic Owls,2009-02-18,-86.53604745916734,included_game_day
+2009,2226,Florida Atlantic Owls,2009-02-21,-87.88666060062536,included_game_day
+2009,2226,Florida Atlantic Owls,2009-02-26,-92.60421724312832,included_game_day
+2009,2226,Florida Atlantic Owls,2009-02-28,-113.91535900747546,included_game_day
+2009,2226,Florida Atlantic Owls,2009-03-04,-102.35801897241944,included_game_day
+2010,2226,Florida Atlantic Owls,2009-11-16,-10.0,included_game_day
+2010,2226,Florida Atlantic Owls,2009-11-21,3.6510999999999996,included_game_day
+2010,2226,Florida Atlantic Owls,2009-11-23,-1.0294100000000004,included_game_day
+2010,2226,Florida Atlantic Owls,2009-11-27,-13.054033800000001,included_game_day
+2010,2226,Florida Atlantic Owls,2009-11-30,-1.6165951200000013,included_game_day
+2010,2226,Florida Atlantic Owls,2009-12-12,-5.714816098000002,included_game_day
+2010,2226,Florida Atlantic Owls,2009-12-14,14.282108183559997,included_game_day
+2010,2226,Florida Atlantic Owls,2009-12-19,5.634293127209098,included_game_day
+2010,2226,Florida Atlantic Owls,2009-12-23,-8.547406097930912,included_game_day
+2010,2226,Florida Atlantic Owls,2009-12-27,-9.48845419749662,included_game_day
+2010,2226,Florida Atlantic Owls,2009-12-29,-15.238884966693574,included_game_day
+2010,2226,Florida Atlantic Owls,2010-01-02,-18.802463252651883,included_game_day
+2010,2226,Florida Atlantic Owls,2010-01-07,-6.5267952614835,included_game_day
+2010,2226,Florida Atlantic Owls,2010-01-09,-2.3783090668513527,included_game_day
+2010,2226,Florida Atlantic Owls,2010-01-14,-4.251367789515545,included_game_day
+2010,2226,Florida Atlantic Owls,2010-01-16,-0.9195569138749686,included_game_day
+2010,2226,Florida Atlantic Owls,2010-01-21,-6.793193614883261,included_game_day
+2010,2226,Florida Atlantic Owls,2010-01-23,6.790463089891347,included_game_day
+2010,2226,Florida Atlantic Owls,2010-01-28,16.145844309827456,included_game_day
+2010,2226,Florida Atlantic Owls,2010-01-30,21.948918084178764,included_game_day
+2010,2226,Florida Atlantic Owls,2010-02-04,4.689931984060706,included_game_day
+2010,2226,Florida Atlantic Owls,2010-02-06,-5.487688574239314,included_game_day
+2010,2226,Florida Atlantic Owls,2010-02-11,-2.100369791314372,included_game_day
+2010,2226,Florida Atlantic Owls,2010-02-18,-3.602037867988133,included_game_day
+2010,2226,Florida Atlantic Owls,2010-02-20,-7.647198570241484,included_game_day
+2010,2226,Florida Atlantic Owls,2010-02-25,-13.615618332387015,included_game_day
+2010,2226,Florida Atlantic Owls,2010-02-27,-20.768914202042133,included_game_day
+2010,2226,Florida Atlantic Owls,2010-03-06,-27.409640574102013,included_game_day
+2011,2226,Florida Atlantic Owls,2010-11-12,7.0,included_game_day
+2011,2226,Florida Atlantic Owls,2010-11-13,13.6,included_game_day
+2011,2226,Florida Atlantic Owls,2010-11-14,3.9000000000000004,included_game_day
+2011,2226,Florida Atlantic Owls,2010-11-20,-7.751999999999999,included_game_day
+2011,2226,Florida Atlantic Owls,2010-11-23,-13.16346,included_game_day
+2011,2226,Florida Atlantic Owls,2010-11-27,-20.73086274,included_game_day
+2011,2226,Florida Atlantic Owls,2010-11-30,-12.651786465999999,included_game_day
+2011,2226,Florida Atlantic Owls,2010-12-04,-4.343586119399999,included_game_day
+2011,2226,Florida Atlantic Owls,2010-12-11,1.8042601885400007,included_game_day
+2011,2226,Florida Atlantic Owls,2010-12-13,-0.5383687393095995,included_game_day
+2011,2226,Florida Atlantic Owls,2010-12-16,2.38152408532736,included_game_day
+2011,2226,Florida Atlantic Owls,2010-12-19,0.7091780927856242,included_game_day
+2011,2226,Florida Atlantic Owls,2010-12-22,-6.250220939532274,included_game_day
+2011,2226,Florida Atlantic Owls,2011-01-06,-4.552111752937362,included_game_day
+2011,2226,Florida Atlantic Owls,2011-01-08,-3.7751265032761734,included_game_day
+2011,2226,Florida Atlantic Owls,2011-01-11,-10.13193775582227,included_game_day
+2011,2226,Florida Atlantic Owls,2011-01-13,2.400543958283018,included_game_day
+2011,2226,Florida Atlantic Owls,2011-01-15,4.489510045787813,included_game_day
+2011,2226,Florida Atlantic Owls,2011-01-22,16.66753999979696,included_game_day
+2011,2226,Florida Atlantic Owls,2011-01-27,22.079287547824144,included_game_day
+2011,2226,Florida Atlantic Owls,2011-01-29,10.005535324456819,included_game_day
+2011,2226,Florida Atlantic Owls,2011-02-03,30.422839750673536,included_game_day
+2011,2226,Florida Atlantic Owls,2011-02-05,18.929421260306924,included_game_day
+2011,2226,Florida Atlantic Owls,2011-02-10,-8.485931072569542,included_game_day
+2011,2226,Florida Atlantic Owls,2011-02-12,-21.050957152712932,included_game_day
+2011,2226,Florida Atlantic Owls,2011-02-19,-19.905137869790707,included_game_day
+2011,2226,Florida Atlantic Owls,2011-02-24,-8.677229965604633,included_game_day
+2011,2226,Florida Atlantic Owls,2011-02-27,0.014269454721683061,included_game_day
+2011,2226,Florida Atlantic Owls,2011-03-06,-15.42539911848413,included_game_day
+2011,2226,Florida Atlantic Owls,2011-03-16,-25.175680711186807,included_game_day
+2012,2226,Florida Atlantic Owls,2011-11-12,-5.0,included_game_day
+2012,2226,Florida Atlantic Owls,2011-11-13,-6.1,included_game_day
+2012,2226,Florida Atlantic Owls,2011-11-14,-0.1999999999999993,included_game_day
+2012,2226,Florida Atlantic Owls,2011-11-16,-3.8399999999999994,included_game_day
+2012,2226,Florida Atlantic Owls,2011-11-19,0.6840000000000006,included_game_day
+2012,2226,Florida Atlantic Owls,2011-11-22,6.435600000000001,included_game_day
+2012,2226,Florida Atlantic Owls,2011-11-26,-2.957381,included_game_day
+2012,2226,Florida Atlantic Owls,2011-11-30,-18.4209617,included_game_day
+2012,2226,Florida Atlantic Owls,2011-12-13,-10.638866198399999,included_game_day
+2012,2226,Florida Atlantic Owls,2011-12-17,-11.579093830432399,included_game_day
+2012,2226,Florida Atlantic Owls,2011-12-22,-11.81369859355716,included_game_day
+2012,2226,Florida Atlantic Owls,2011-12-28,-24.138909997798862,included_game_day
+2012,2226,Florida Atlantic Owls,2011-12-31,-31.457304265897896,included_game_day
+2012,2226,Florida Atlantic Owls,2012-01-05,-10.927675774969138,included_game_day
+2012,2226,Florida Atlantic Owls,2012-01-07,-10.618570174725317,included_game_day
+2012,2226,Florida Atlantic Owls,2012-01-09,-1.1491648983545772,included_game_day
+2012,2226,Florida Atlantic Owls,2012-01-14,-9.526800116391573,included_game_day
+2012,2226,Florida Atlantic Owls,2012-01-19,8.906152562639242,included_game_day
+2012,2226,Florida Atlantic Owls,2012-01-21,10.38890804769702,included_game_day
+2012,2226,Florida Atlantic Owls,2012-01-26,1.411240753457884,included_game_day
+2012,2226,Florida Atlantic Owls,2012-02-02,-9.23384638647432,included_game_day
+2012,2226,Florida Atlantic Owls,2012-02-04,-34.11121795580239,included_game_day
+2012,2226,Florida Atlantic Owls,2012-02-09,-26.87435233245005,included_game_day
+2012,2226,Florida Atlantic Owls,2012-02-11,-19.294125585842984,included_game_day
+2012,2226,Florida Atlantic Owls,2012-02-16,-24.520542888582764,included_game_day
+2012,2226,Florida Atlantic Owls,2012-02-18,-25.716262934552162,included_game_day
+2012,2226,Florida Atlantic Owls,2012-02-23,-31.916086496650124,included_game_day
+2012,2226,Florida Atlantic Owls,2012-02-25,-40.191247712870705,included_game_day
+2012,2226,Florida Atlantic Owls,2012-03-03,-53.230308551311715,included_game_day
+2013,2226,Florida Atlantic Owls,2012-11-11,-19.6,included_game_day
+2013,2226,Florida Atlantic Owls,2012-11-13,-34.64,included_game_day
+2013,2226,Florida Atlantic Owls,2012-11-17,-31.176000000000002,included_game_day
+2013,2226,Florida Atlantic Owls,2012-11-18,-28.7341,included_game_day
+2013,2226,Florida Atlantic Owls,2012-11-24,-29.32589,included_game_day
+2013,2226,Florida Atlantic Owls,2012-11-29,-41.331901,included_game_day
+2013,2226,Florida Atlantic Owls,2012-12-01,-32.12168704,included_game_day
+2013,2226,Florida Atlantic Owls,2012-12-06,-20.43885570933,included_game_day
+2013,2226,Florida Atlantic Owls,2012-12-15,-35.614878281967,included_game_day
+2013,2226,Florida Atlantic Owls,2012-12-18,-42.32062374980557,included_game_day
+2013,2226,Florida Atlantic Owls,2012-12-21,-52.8975888305813,included_game_day
+2013,2226,Florida Atlantic Owls,2012-12-27,-43.50136855593361,included_game_day
+2013,2226,Florida Atlantic Owls,2012-12-29,-45.49688946840369,included_game_day
+2013,2226,Florida Atlantic Owls,2013-01-01,-48.80091783733797,included_game_day
+2013,2226,Florida Atlantic Owls,2013-01-03,-44.44341561126052,included_game_day
+2013,2226,Florida Atlantic Owls,2013-01-10,-39.41327163459323,included_game_day
+2013,2226,Florida Atlantic Owls,2013-01-12,-29.85064700916438,included_game_day
+2013,2226,Florida Atlantic Owls,2013-01-17,-15.30676912872775,included_game_day
+2013,2226,Florida Atlantic Owls,2013-01-19,-22.500377936816434,included_game_day
+2013,2226,Florida Atlantic Owls,2013-01-24,-21.49098323392927,included_game_day
+2013,2226,Florida Atlantic Owls,2013-01-26,-39.47227877350406,included_game_day
+2013,2226,Florida Atlantic Owls,2013-01-31,-42.62043560559664,included_game_day
+2013,2226,Florida Atlantic Owls,2013-02-02,-48.92517642597695,included_game_day
+2013,2226,Florida Atlantic Owls,2013-02-07,-61.33151151037981,included_game_day
+2013,2226,Florida Atlantic Owls,2013-02-09,-53.603136569262254,included_game_day
+2013,2226,Florida Atlantic Owls,2013-02-14,-47.79006366825092,included_game_day
+2013,2226,Florida Atlantic Owls,2013-02-16,-45.53023277550082,included_game_day
+2013,2226,Florida Atlantic Owls,2013-02-21,-53.28822143045301,included_game_day
+2013,2226,Florida Atlantic Owls,2013-02-23,-39.49779751340998,included_game_day
+2013,2226,Florida Atlantic Owls,2013-03-02,-22.734701436717224,included_game_day
+2013,2226,Florida Atlantic Owls,2013-03-08,-27.526237452492815,included_game_day
+2014,2226,Florida Atlantic Owls,2013-11-11,-4.3,included_game_day
+2014,2226,Florida Atlantic Owls,2013-11-15,-32.04,included_game_day
+2014,2226,Florida Atlantic Owls,2013-11-17,-30.686999999999998,included_game_day
+2014,2226,Florida Atlantic Owls,2013-11-22,-61.7208,included_game_day
+2014,2226,Florida Atlantic Owls,2013-11-23,-61.235769999999995,included_game_day
+2014,2226,Florida Atlantic Owls,2013-11-24,-73.55601,included_game_day
+2014,2226,Florida Atlantic Owls,2013-12-03,-58.03939038,included_game_day
+2014,2226,Florida Atlantic Owls,2013-12-07,-39.737392542,included_game_day
+2014,2226,Florida Atlantic Owls,2013-12-12,-44.441502044260005,included_game_day
+2014,2226,Florida Atlantic Owls,2013-12-14,-36.2572394103215,included_game_day
+2014,2226,Florida Atlantic Owls,2013-12-17,-40.48284685424135,included_game_day
+2014,2226,Florida Atlantic Owls,2013-12-22,-43.78710650629831,included_game_day
+2014,2226,Florida Atlantic Owls,2014-01-09,-41.99589330592222,included_game_day
+2014,2226,Florida Atlantic Owls,2014-01-11,-34.642613091685185,included_game_day
+2014,2226,Florida Atlantic Owls,2014-01-16,-23.695744736394968,included_game_day
+2014,2226,Florida Atlantic Owls,2014-01-18,-27.59909625868415,included_game_day
+2014,2226,Florida Atlantic Owls,2014-01-21,-4.2286478191364765,included_game_day
+2014,2226,Florida Atlantic Owls,2014-01-25,-14.885887866954281,included_game_day
+2014,2226,Florida Atlantic Owls,2014-01-30,-20.62303499691148,included_game_day
+2014,2226,Florida Atlantic Owls,2014-02-01,-11.154132929048405,included_game_day
+2014,2226,Florida Atlantic Owls,2014-02-06,-13.285134503689758,included_game_day
+2014,2226,Florida Atlantic Owls,2014-02-08,-4.521393719780084,included_game_day
+2014,2226,Florida Atlantic Owls,2014-02-13,7.127650305202748,included_game_day
+2014,2226,Florida Atlantic Owls,2014-02-15,-9.216054607955018,included_game_day
+2014,2226,Florida Atlantic Owls,2014-02-20,-21.829352618601717,included_game_day
+2014,2226,Florida Atlantic Owls,2014-02-22,-29.134706272272002,included_game_day
+2014,2226,Florida Atlantic Owls,2014-02-26,-36.43547029066423,included_game_day
+2014,2226,Florida Atlantic Owls,2014-03-02,-39.888687619757974,included_game_day
+2014,2226,Florida Atlantic Owls,2014-03-06,-44.81121915485312,included_game_day
+2014,2226,Florida Atlantic Owls,2014-03-11,-47.87145189520794,included_game_day
+2015,2226,Florida Atlantic Owls,2014-11-14,-3.0,included_game_day
+2015,2226,Florida Atlantic Owls,2014-11-20,-21.8,included_game_day
+2015,2226,Florida Atlantic Owls,2014-11-23,-27.566000000000003,included_game_day
+2015,2226,Florida Atlantic Owls,2014-12-03,-19.90948708,included_game_day
+2015,2226,Florida Atlantic Owls,2014-12-13,-6.445131267760001,included_game_day
+2015,2226,Florida Atlantic Owls,2014-12-16,-6.210872945704001,included_game_day
+2015,2226,Florida Atlantic Owls,2014-12-20,-10.79661802737045,included_game_day
+2015,2226,Florida Atlantic Owls,2014-12-22,-5.916075370923474,included_game_day
+2015,2226,Florida Atlantic Owls,2014-12-30,6.294504925760808,included_game_day
+2015,2226,Florida Atlantic Owls,2015-01-04,0.054789081488557656,included_game_day
+2015,2226,Florida Atlantic Owls,2015-01-08,-10.025713067144427,included_game_day
+2015,2226,Florida Atlantic Owls,2015-01-10,-31.40084618692255,included_game_day
+2015,2226,Florida Atlantic Owls,2015-01-15,-31.352069456517878,included_game_day
+2015,2226,Florida Atlantic Owls,2015-01-17,-23.745644450470778,included_game_day
+2015,2226,Florida Atlantic Owls,2015-01-29,-42.808337597143776,included_game_day
+2015,2226,Florida Atlantic Owls,2015-01-31,-42.003731974476864,included_game_day
+2015,2226,Florida Atlantic Owls,2015-02-03,-45.02751958429078,included_game_day
+2015,2226,Florida Atlantic Owls,2015-02-05,-45.16280385437459,included_game_day
+2015,2226,Florida Atlantic Owls,2015-02-07,-57.98307038138504,included_game_day
+2015,2226,Florida Atlantic Owls,2015-02-12,-54.13477138775768,included_game_day
+2015,2226,Florida Atlantic Owls,2015-02-14,-62.25860814402658,included_game_day
+2015,2226,Florida Atlantic Owls,2015-02-19,-69.38610446621055,included_game_day
+2015,2226,Florida Atlantic Owls,2015-02-21,-75.70984453145715,included_game_day
+2015,2226,Florida Atlantic Owls,2015-02-26,-67.38704646063938,included_game_day
+2015,2226,Florida Atlantic Owls,2015-02-28,-79.43875454897213,included_game_day
+2015,2226,Florida Atlantic Owls,2015-03-05,-68.70146422624255,included_game_day
+2015,2226,Florida Atlantic Owls,2015-03-07,-87.45695764636295,included_game_day
+2016,2226,Florida Atlantic Owls,2015-11-13,-24.0,included_game_day
+2016,2226,Florida Atlantic Owls,2015-11-21,-13.2,included_game_day
+2016,2226,Florida Atlantic Owls,2015-11-22,-28.091,included_game_day
+2016,2226,Florida Atlantic Owls,2015-12-01,-47.8450893,included_game_day
+2016,2226,Florida Atlantic Owls,2015-12-12,-50.680265319309996,included_game_day
+2016,2226,Florida Atlantic Owls,2015-12-15,-51.784301839299,included_game_day
+2016,2226,Florida Atlantic Owls,2015-12-16,-59.5258929143591,included_game_day
+2016,2226,Florida Atlantic Owls,2015-12-19,-49.59300461574749,included_game_day
+2016,2226,Florida Atlantic Owls,2015-12-22,-54.81592208343484,included_game_day
+2016,2226,Florida Atlantic Owls,2015-12-29,-63.21775140584431,included_game_day
+2016,2226,Florida Atlantic Owls,2016-01-03,-72.23851291834909,included_game_day
+2016,2226,Florida Atlantic Owls,2016-01-07,-84.79847039436717,included_game_day
+2016,2226,Florida Atlantic Owls,2016-01-09,-78.92241666000817,included_game_day
+2016,2226,Florida Atlantic Owls,2016-01-14,-74.20497393357763,included_game_day
+2016,2226,Florida Atlantic Owls,2016-01-16,-66.41417365200243,included_game_day
+2016,2226,Florida Atlantic Owls,2016-01-21,-73.50361499316293,included_game_day
+2016,2226,Florida Atlantic Owls,2016-01-23,-59.297393408238854,included_game_day
+2016,2226,Florida Atlantic Owls,2016-01-28,-66.28399315941033,included_game_day
+2016,2226,Florida Atlantic Owls,2016-01-30,-57.54103900416881,included_game_day
+2016,2226,Florida Atlantic Owls,2016-02-04,-58.275879230643795,included_game_day
+2016,2226,Florida Atlantic Owls,2016-02-06,-81.71457550125477,included_game_day
+2016,2226,Florida Atlantic Owls,2016-02-11,-84.03576284530864,included_game_day
+2016,2226,Florida Atlantic Owls,2016-02-13,-86.71471304655901,included_game_day
+2016,2226,Florida Atlantic Owls,2016-02-18,-85.21065365069795,included_game_day
+2016,2226,Florida Atlantic Owls,2016-02-20,-88.52763329078485,included_game_day
+2016,2226,Florida Atlantic Owls,2016-02-27,-94.10628833458264,included_game_day
+2016,2226,Florida Atlantic Owls,2016-03-03,-102.91708905278489,included_game_day
+2016,2226,Florida Atlantic Owls,2016-03-05,-91.74502717437761,included_game_day
+2016,2226,Florida Atlantic Owls,2016-03-08,-68.6746477361878,included_game_day
+2016,2226,Florida Atlantic Owls,2016-03-09,-84.48516068861268,included_game_day
+2017,2226,Florida Atlantic Owls,2016-11-11,-4.0,included_game_day
+2017,2226,Florida Atlantic Owls,2016-11-13,-12.2,included_game_day
+2017,2226,Florida Atlantic Owls,2016-11-15,-9.0,included_game_day
+2017,2226,Florida Atlantic Owls,2016-11-22,4.54017,included_game_day
+2017,2226,Florida Atlantic Owls,2016-11-29,5.457738099999999,included_game_day
+2017,2226,Florida Atlantic Owls,2016-12-03,-7.084108170000001,included_game_day
+2017,2226,Florida Atlantic Owls,2016-12-06,7.442292958999999,included_game_day
+2017,2226,Florida Atlantic Owls,2016-12-16,-1.1761973627600009,included_game_day
+2017,2226,Florida Atlantic Owls,2016-12-28,-16.322267756021038,included_game_day
+2017,2226,Florida Atlantic Owls,2016-12-31,-35.92438092526844,included_game_day
+2017,2226,Florida Atlantic Owls,2017-01-02,-48.69248470183697,included_game_day
+2017,2226,Florida Atlantic Owls,2017-01-07,-42.664520423613546,included_game_day
+2017,2226,Florida Atlantic Owls,2017-01-12,-43.740109669915796,included_game_day
+2017,2226,Florida Atlantic Owls,2017-01-14,-45.80745444049585,included_game_day
+2017,2226,Florida Atlantic Owls,2017-01-19,-43.676364097262685,included_game_day
+2017,2226,Florida Atlantic Owls,2017-01-21,-63.68262008598853,included_game_day
+2017,2226,Florida Atlantic Owls,2017-01-26,-40.496302375538136,included_game_day
+2017,2226,Florida Atlantic Owls,2017-02-02,-35.79800803291004,included_game_day
+2017,2226,Florida Atlantic Owls,2017-02-04,-24.312817682699368,included_game_day
+2017,2226,Florida Atlantic Owls,2017-02-09,-39.644544892162415,included_game_day
+2017,2226,Florida Atlantic Owls,2017-02-11,-41.26666132679936,included_game_day
+2017,2226,Florida Atlantic Owls,2017-02-16,-55.4683307758619,included_game_day
+2017,2226,Florida Atlantic Owls,2017-02-18,-45.76706681362498,included_game_day
+2017,2226,Florida Atlantic Owls,2017-02-23,-46.49826900399974,included_game_day
+2017,2226,Florida Atlantic Owls,2017-02-25,-43.47829699582663,included_game_day
+2017,2226,Florida Atlantic Owls,2017-03-02,-57.920107635229556,included_game_day
+2017,2226,Florida Atlantic Owls,2017-03-04,-75.16496615420965,included_game_day
+2017,2226,Florida Atlantic Owls,2017-03-08,-84.76966949894027,included_game_day
+2018,2226,Florida Atlantic Owls,2017-11-10,2.0,included_game_day
+2018,2226,Florida Atlantic Owls,2017-11-20,-19.694,included_game_day
+2018,2226,Florida Atlantic Owls,2017-11-21,-7.424599999999998,included_game_day
+2018,2226,Florida Atlantic Owls,2017-11-22,-15.938129999999997,included_game_day
+2018,2226,Florida Atlantic Owls,2017-12-02,-0.14733659999999738,included_game_day
+2018,2226,Florida Atlantic Owls,2017-12-05,10.597463970000003,included_game_day
+2018,2226,Florida Atlantic Owls,2017-12-16,0.802060904936944,included_game_day
+2018,2226,Florida Atlantic Owls,2017-12-19,-21.014013465592754,included_game_day
+2018,2226,Florida Atlantic Owls,2017-12-23,-44.36183767194197,included_game_day
+2018,2226,Florida Atlantic Owls,2017-12-30,-40.863965443723814,included_game_day
+2018,2226,Florida Atlantic Owls,2018-01-04,-66.44827478695088,included_game_day
+2018,2226,Florida Atlantic Owls,2018-01-06,-61.7316600026637,included_game_day
+2018,2226,Florida Atlantic Owls,2018-01-11,-49.18972808799615,included_game_day
+2018,2226,Florida Atlantic Owls,2018-01-13,-38.40260808572112,included_game_day
+2018,2226,Florida Atlantic Owls,2018-01-18,-31.744332258288907,included_game_day
+2018,2226,Florida Atlantic Owls,2018-01-20,-35.55041465355764,included_game_day
+2018,2226,Florida Atlantic Owls,2018-01-25,-34.705044134315095,included_game_day
+2018,2226,Florida Atlantic Owls,2018-01-27,-33.85827672028415,included_game_day
+2018,2226,Florida Atlantic Owls,2018-02-01,-35.88851617153972,included_game_day
+2018,2226,Florida Atlantic Owls,2018-02-03,-50.421152838375086,included_game_day
+2018,2226,Florida Atlantic Owls,2018-02-08,-47.17565456059796,included_game_day
+2018,2226,Florida Atlantic Owls,2018-02-10,-46.44211260805692,included_game_day
+2018,2226,Florida Atlantic Owls,2018-02-17,-41.373771634141704,included_game_day
+2018,2226,Florida Atlantic Owls,2018-02-22,-50.3444472083202,included_game_day
+2018,2226,Florida Atlantic Owls,2018-02-24,-27.831878032878237,included_game_day
+2018,2226,Florida Atlantic Owls,2018-03-01,-15.502464766403577,included_game_day
+2018,2226,Florida Atlantic Owls,2018-03-03,-30.005703198332263,included_game_day
+2018,2226,Florida Atlantic Owls,2018-03-07,-32.1084833464126,included_game_day
+2019,2226,Florida Atlantic Owls,2018-11-11,5.1,included_game_day
+2019,2226,Florida Atlantic Owls,2018-11-16,-4.906000000000001,included_game_day
+2019,2226,Florida Atlantic Owls,2018-11-17,6.114599999999999,included_game_day
+2019,2226,Florida Atlantic Owls,2018-11-18,2.4181399999999993,included_game_day
+2019,2226,Florida Atlantic Owls,2018-11-25,10.031787399999999,included_game_day
+2019,2226,Florida Atlantic Owls,2018-12-01,4.459328510000001,included_game_day
+2019,2226,Florida Atlantic Owls,2018-12-05,8.480932954100002,included_game_day
+2019,2226,Florida Atlantic Owls,2018-12-14,3.0381179173170016,included_game_day
+2019,2226,Florida Atlantic Owls,2018-12-22,-10.741349232588853,included_game_day
+2019,2226,Florida Atlantic Owls,2018-12-29,-3.6096207961961015,included_game_day
+2019,2226,Florida Atlantic Owls,2019-01-03,-17.821193737325153,included_game_day
+2019,2226,Florida Atlantic Owls,2019-01-05,-15.352422775453336,included_game_day
+2019,2226,Florida Atlantic Owls,2019-01-10,-4.353891658274065,included_game_day
+2019,2226,Florida Atlantic Owls,2019-01-12,-18.606235962523428,included_game_day
+2019,2226,Florida Atlantic Owls,2019-01-17,-26.252865821915346,included_game_day
+2019,2226,Florida Atlantic Owls,2019-01-19,-24.03949887678613,included_game_day
+2019,2226,Florida Atlantic Owls,2019-01-23,-30.694002240652615,included_game_day
+2019,2226,Florida Atlantic Owls,2019-01-26,-9.017604931745804,included_game_day
+2019,2226,Florida Atlantic Owls,2019-01-31,-0.1422490868115034,included_game_day
+2019,2226,Florida Atlantic Owls,2019-02-02,-0.6549448119576651,included_game_day
+2019,2226,Florida Atlantic Owls,2019-02-07,9.672251707787897,included_game_day
+2019,2226,Florida Atlantic Owls,2019-02-09,5.228187028371661,included_game_day
+2019,2226,Florida Atlantic Owls,2019-02-14,14.910586073803243,included_game_day
+2019,2226,Florida Atlantic Owls,2019-02-16,24.60612903431339,included_game_day
+2019,2226,Florida Atlantic Owls,2019-02-23,12.900781372041621,included_game_day
+2019,2226,Florida Atlantic Owls,2019-02-28,20.619478835703227,included_game_day
+2019,2226,Florida Atlantic Owls,2019-03-06,12.712173421558795,included_game_day
+2019,2226,Florida Atlantic Owls,2019-03-09,-2.6547532504349576,included_game_day
+2019,2226,Florida Atlantic Owls,2019-03-13,-2.4439049145511276,included_game_day
+2019,2226,Florida Atlantic Owls,2019-03-21,2.193659792269241,included_game_day
+2020,2226,Florida Atlantic Owls,2019-11-08,-12.6,included_game_day
+2020,2226,Florida Atlantic Owls,2019-11-11,-27.740000000000002,included_game_day
+2020,2226,Florida Atlantic Owls,2019-11-20,-27.617800000000003,included_game_day
+2020,2226,Florida Atlantic Owls,2019-11-29,-18.556009000000003,included_game_day
+2020,2226,Florida Atlantic Owls,2019-12-01,-26.74713905,included_game_day
+2020,2226,Florida Atlantic Owls,2019-12-02,-34.6083215038,included_game_day
+2020,2226,Florida Atlantic Owls,2019-12-04,-30.0889812838,included_game_day
+2020,2226,Florida Atlantic Owls,2019-12-14,-23.097104155737597,included_game_day
+2020,2226,Florida Atlantic Owls,2019-12-22,-6.575860266771947,included_game_day
+2020,2226,Florida Atlantic Owls,2019-12-29,-1.9469660183368704,included_game_day
+2020,2226,Florida Atlantic Owls,2020-01-02,9.231975964599897,included_game_day
+2020,2226,Florida Atlantic Owls,2020-01-04,9.097624830613189,included_game_day
+2020,2226,Florida Atlantic Owls,2020-01-09,12.305761065652838,included_game_day
+2020,2226,Florida Atlantic Owls,2020-01-11,-3.8608166239450377,included_game_day
+2020,2226,Florida Atlantic Owls,2020-01-16,-12.509942228059755,included_game_day
+2020,2226,Florida Atlantic Owls,2020-01-18,-17.457510870265235,included_game_day
+2020,2226,Florida Atlantic Owls,2020-01-23,-13.774827072708606,included_game_day
+2020,2226,Florida Atlantic Owls,2020-01-25,-19.840380364057122,included_game_day
+2020,2226,Florida Atlantic Owls,2020-01-30,-12.817024182991958,included_game_day
+2020,2226,Florida Atlantic Owls,2020-02-01,5.5867383984515655,included_game_day
+2020,2226,Florida Atlantic Owls,2020-02-05,-12.05510198868669,included_game_day
+2020,2226,Florida Atlantic Owls,2020-02-08,-20.168574298397296,included_game_day
+2020,2226,Florida Atlantic Owls,2020-02-13,-21.79584978235952,included_game_day
+2020,2226,Florida Atlantic Owls,2020-02-15,-24.785190549032144,included_game_day
+2020,2226,Florida Atlantic Owls,2020-02-22,-18.41190459707005,included_game_day
+2020,2226,Florida Atlantic Owls,2020-02-27,-11.315643879388682,included_game_day
+2020,2226,Florida Atlantic Owls,2020-03-01,-11.405025021107704,included_game_day
+2020,2226,Florida Atlantic Owls,2020-03-04,-18.099458324366857,included_game_day
+2020,2226,Florida Atlantic Owls,2020-03-11,-4.405132800824209,included_game_day
+2021,2226,Florida Atlantic Owls,2020-11-25,1.0,included_game_day
+2021,2226,Florida Atlantic Owls,2020-11-27,-11.2,included_game_day
+2021,2226,Florida Atlantic Owls,2020-12-07,-12.33874,included_game_day
+2021,2226,Florida Atlantic Owls,2020-12-15,-23.09238433,included_game_day
+2021,2226,Florida Atlantic Owls,2021-01-05,-27.711793091910003,included_game_day
+2021,2226,Florida Atlantic Owls,2021-01-08,-26.187053288525004,included_game_day
+2021,2226,Florida Atlantic Owls,2021-01-09,-29.967261445817,included_game_day
+2021,2226,Florida Atlantic Owls,2021-01-14,-21.011238538814382,included_game_day
+2021,2226,Florida Atlantic Owls,2021-01-16,22.153579786787716,included_game_day
+2021,2226,Florida Atlantic Owls,2021-01-22,30.876880857456143,included_game_day
+2021,2226,Florida Atlantic Owls,2021-01-23,21.855521713990882,included_game_day
+2021,2226,Florida Atlantic Owls,2021-02-12,20.24017327955051,included_game_day
+2021,2226,Florida Atlantic Owls,2021-02-13,11.947894531998214,included_game_day
+2021,2226,Florida Atlantic Owls,2021-02-26,19.329869750756853,included_game_day
+2021,2226,Florida Atlantic Owls,2021-02-27,23.235449925763763,included_game_day
+2021,2226,Florida Atlantic Owls,2021-03-04,43.21914032262581,included_game_day
+2021,2226,Florida Atlantic Owls,2021-03-05,38.20609264011545,included_game_day
+2021,2226,Florida Atlantic Owls,2021-03-10,42.46765574905906,included_game_day
+2021,2226,Florida Atlantic Owls,2021-03-11,43.658186755172196,included_game_day
+2022,2226,Florida Atlantic Owls,2021-11-10,-4.0,included_game_day
+2022,2226,Florida Atlantic Owls,2021-11-16,-8.8,included_game_day
+2022,2226,Florida Atlantic Owls,2021-11-19,-5.420000000000001,included_game_day
+2022,2226,Florida Atlantic Owls,2021-11-20,9.47568,included_game_day
+2022,2226,Florida Atlantic Owls,2021-11-22,1.075520000000001,included_game_day
+2022,2226,Florida Atlantic Owls,2021-11-28,-6.6079590886999995,included_game_day
+2022,2226,Florida Atlantic Owls,2021-12-01,-1.6230671798299996,included_game_day
+2022,2226,Florida Atlantic Owls,2021-12-05,22.613776113153,included_game_day
+2022,2226,Florida Atlantic Owls,2021-12-15,7.101375246316451,included_game_day
+2022,2226,Florida Atlantic Owls,2021-12-21,2.649456640300156,included_game_day
+2022,2226,Florida Atlantic Owls,2022-01-08,13.805082700888033,included_game_day
+2022,2226,Florida Atlantic Owls,2022-01-13,4.005333380270997,included_game_day
+2022,2226,Florida Atlantic Owls,2022-01-15,5.864949162875382,included_game_day
+2022,2226,Florida Atlantic Owls,2022-01-17,32.19743439860158,included_game_day
+2022,2226,Florida Atlantic Owls,2022-01-20,37.96505429290455,included_game_day
+2022,2226,Florida Atlantic Owls,2022-01-22,36.24424521276242,included_game_day
+2022,2226,Florida Atlantic Owls,2022-01-27,33.78809288968039,included_game_day
+2022,2226,Florida Atlantic Owls,2022-01-29,34.59759532178815,included_game_day
+2022,2226,Florida Atlantic Owls,2022-02-03,44.484912765746564,included_game_day
+2022,2226,Florida Atlantic Owls,2022-02-05,54.168880172419534,included_game_day
+2022,2226,Florida Atlantic Owls,2022-02-08,64.3316703901041,included_game_day
+2022,2226,Florida Atlantic Owls,2022-02-10,58.660852321528175,included_game_day
+2022,2226,Florida Atlantic Owls,2022-02-17,55.770631060322444,included_game_day
+2022,2226,Florida Atlantic Owls,2022-02-19,42.611018094742214,included_game_day
+2022,2226,Florida Atlantic Owls,2022-02-24,21.27857741189442,included_game_day
+2022,2226,Florida Atlantic Owls,2022-02-26,27.023805543002837,included_game_day
+2022,2226,Florida Atlantic Owls,2022-03-03,41.14158764130643,included_game_day
+2022,2226,Florida Atlantic Owls,2022-03-05,34.435813319949304,included_game_day
+2022,2226,Florida Atlantic Owls,2022-03-09,47.39708911242509,included_game_day
+2022,2226,Florida Atlantic Owls,2022-03-10,37.36121473065079,included_game_day
+2022,2226,Florida Atlantic Owls,2022-03-20,28.801412452376788,included_game_day
+2023,2226,Florida Atlantic Owls,2022-11-11,-8.8,included_game_day
+2023,2226,Florida Atlantic Owls,2022-11-14,0.75,included_game_day
+2023,2226,Florida Atlantic Owls,2022-11-17,10.765,included_game_day
+2023,2226,Florida Atlantic Owls,2022-11-19,28.7795,included_game_day
+2023,2226,Florida Atlantic Owls,2022-11-26,41.669495999999995,included_game_day
+2023,2226,Florida Atlantic Owls,2022-11-30,60.564950032,included_game_day
+2023,2226,Florida Atlantic Owls,2022-12-04,82.04499882479999,included_game_day
+2023,2226,Florida Atlantic Owls,2022-12-07,106.94576075971999,included_game_day
+2023,2226,Florida Atlantic Owls,2022-12-17,116.15581200511109,included_game_day
+2023,2226,Florida Atlantic Owls,2022-12-21,112.49365313933791,included_game_day
+2023,2226,Florida Atlantic Owls,2022-12-29,115.23436418715089,included_game_day
+2023,2226,Florida Atlantic Owls,2023-01-05,111.0739495721433,included_game_day
+2023,2226,Florida Atlantic Owls,2023-01-07,105.75954928241846,included_game_day
+2023,2226,Florida Atlantic Owls,2023-01-11,99.98677859385252,included_game_day
+2023,2226,Florida Atlantic Owls,2023-01-14,97.3109968057192,included_game_day
+2023,2226,Florida Atlantic Owls,2023-01-16,106.06119198282077,included_game_day
+2023,2226,Florida Atlantic Owls,2023-01-19,109.88842736540764,included_game_day
+2023,2226,Florida Atlantic Owls,2023-01-21,112.34366326709295,included_game_day
+2023,2226,Florida Atlantic Owls,2023-01-26,120.20402006069452,included_game_day
+2023,2226,Florida Atlantic Owls,2023-01-28,110.95524144304721,included_game_day
+2023,2226,Florida Atlantic Owls,2023-02-02,100.67744962806528,included_game_day
+2023,2226,Florida Atlantic Owls,2023-02-04,111.87719402225414,included_game_day
+2023,2226,Florida Atlantic Owls,2023-02-09,107.00283076458696,included_game_day
+2023,2226,Florida Atlantic Owls,2023-02-11,99.9851832964173,included_game_day
+2023,2226,Florida Atlantic Owls,2023-02-16,90.94502976075701,included_game_day
+2023,2226,Florida Atlantic Owls,2023-02-23,112.63803877463502,included_game_day
+2023,2226,Florida Atlantic Owls,2023-02-25,124.42118838283068,included_game_day
+2023,2226,Florida Atlantic Owls,2023-03-02,141.75291693168882,included_game_day
+2023,2226,Florida Atlantic Owls,2023-03-04,133.28932310889357,included_game_day
+2023,2226,Florida Atlantic Owls,2023-03-09,143.19967933117422,included_game_day
+2023,2226,Florida Atlantic Owls,2023-03-10,134.07901652316124,included_game_day
+2023,2226,Florida Atlantic Owls,2023-03-11,155.16533674825683,included_game_day
+2023,2226,Florida Atlantic Owls,2023-03-17,156.5859873017009,included_game_day
+2023,2226,Florida Atlantic Owls,2023-03-19,149.8279117512436,included_game_day
+2023,2226,Florida Atlantic Owls,2023-03-23,156.67255826765026,included_game_day
+2023,2226,Florida Atlantic Owls,2023-03-25,156.03372387097542,included_game_day
+2023,2226,Florida Atlantic Owls,2023-04-01,155.34965214481653,included_game_day
+2024,2226,Florida Atlantic Owls,2023-11-08,13.0,included_game_day
+2024,2226,Florida Atlantic Owls,2023-11-14,48.97,included_game_day
+2024,2226,Florida Atlantic Owls,2023-11-18,29.62334,included_game_day
+2024,2226,Florida Atlantic Owls,2023-11-23,37.866406,included_game_day
+2024,2226,Florida Atlantic Owls,2023-11-24,47.4773804,included_game_day
+2024,2226,Florida Atlantic Owls,2023-11-26,84.36298386,included_game_day
+2024,2226,Florida Atlantic Owls,2023-11-30,105.635522174,included_game_day
+2024,2226,Florida Atlantic Owls,2023-12-02,109.22903837346,included_game_day
+2024,2226,Florida Atlantic Owls,2023-12-05,98.800967536114,included_game_day
+2024,2226,Florida Atlantic Owls,2023-12-13,117.5337914110026,included_game_day
+2024,2226,Florida Atlantic Owls,2023-12-16,122.21377854828253,included_game_day
+2024,2226,Florida Atlantic Owls,2023-12-23,126.93065812133375,included_game_day
+2024,2226,Florida Atlantic Owls,2023-12-30,107.92761942865063,included_game_day
+2024,2226,Florida Atlantic Owls,2024-01-02,108.54614413508492,included_game_day
+2024,2226,Florida Atlantic Owls,2024-01-06,99.26239859116083,included_game_day
+2024,2226,Florida Atlantic Owls,2024-01-11,97.72478307379846,included_game_day
+2024,2226,Florida Atlantic Owls,2024-01-14,96.53527163426207,included_game_day
+2024,2226,Florida Atlantic Owls,2024-01-18,89.2967469690904,included_game_day
+2024,2226,Florida Atlantic Owls,2024-01-21,87.10355127196732,included_game_day
+2024,2226,Florida Atlantic Owls,2024-01-24,91.05496152298333,included_game_day
+2024,2226,Florida Atlantic Owls,2024-01-28,87.56125883326693,included_game_day
+2024,2226,Florida Atlantic Owls,2024-02-03,108.61304360717696,included_game_day
+2024,2226,Florida Atlantic Owls,2024-02-08,101.45507903138649,included_game_day
+2024,2226,Florida Atlantic Owls,2024-02-11,107.51325806844005,included_game_day
+2024,2226,Florida Atlantic Owls,2024-02-15,101.41086947405107,included_game_day
+2024,2226,Florida Atlantic Owls,2024-02-18,96.14117690961157,included_game_day
+2024,2226,Florida Atlantic Owls,2024-02-22,105.43324946921233,included_game_day
+2024,2226,Florida Atlantic Owls,2024-02-25,98.33739342936597,included_game_day
+2024,2226,Florida Atlantic Owls,2024-03-02,90.66050930791556,included_game_day
+2024,2226,Florida Atlantic Owls,2024-03-06,93.2346498123366,included_game_day
+2024,2226,Florida Atlantic Owls,2024-03-09,97.26427655719753,included_game_day
+2024,2226,Florida Atlantic Owls,2024-03-15,99.56289760948204,included_game_day
+2024,2226,Florida Atlantic Owls,2024-03-16,88.78878730440735,included_game_day
+2024,2226,Florida Atlantic Owls,2024-03-22,77.72379264898518,included_game_day
+2025,2226,Florida Atlantic Owls,2024-11-04,33.0,included_game_day
+2025,2226,Florida Atlantic Owls,2024-11-12,27.1,included_game_day
+2025,2226,Florida Atlantic Owls,2024-11-15,26.34,included_game_day
+2025,2226,Florida Atlantic Owls,2024-11-16,28.948999999999998,included_game_day
+2025,2226,Florida Atlantic Owls,2024-11-21,35.8481,included_game_day
+2025,2226,Florida Atlantic Owls,2024-11-22,22.684227,included_game_day
+2025,2226,Florida Atlantic Owls,2024-11-24,19.4535011,included_game_day
+2025,2226,Florida Atlantic Owls,2024-11-30,12.014027290000001,included_game_day
+2025,2226,Florida Atlantic Owls,2024-12-04,24.138513661,included_game_day
+2025,2226,Florida Atlantic Owls,2024-12-10,37.7313045519,included_game_day
+2025,2226,Florida Atlantic Owls,2024-12-14,41.855121063289204,included_game_day
+2025,2226,Florida Atlantic Owls,2024-12-21,35.247907648972685,included_game_day
+2025,2226,Florida Atlantic Owls,2025-01-02,7.037924716785401,included_game_day
+2025,2226,Florida Atlantic Owls,2025-01-05,10.533697601083789,included_game_day
+2025,2226,Florida Atlantic Owls,2025-01-08,19.123788037999898,included_game_day
+2025,2226,Florida Atlantic Owls,2025-01-12,14.54953780120929,included_game_day
+2025,2226,Florida Atlantic Owls,2025-01-15,3.601928761182675,included_game_day
+2025,2226,Florida Atlantic Owls,2025-01-19,0.37249449800638956,included_game_day
+2025,2226,Florida Atlantic Owls,2025-01-26,-1.9461429739374587,included_game_day
+2025,2226,Florida Atlantic Owls,2025-01-29,13.729534081945218,included_game_day
+2025,2226,Florida Atlantic Owls,2025-02-02,30.587080739396384,included_game_day
+2025,2226,Florida Atlantic Owls,2025-02-08,50.88982215462518,included_game_day
+2025,2226,Florida Atlantic Owls,2025-02-10,50.048995713081794,included_game_day
+2025,2226,Florida Atlantic Owls,2025-02-16,49.28041270312136,included_game_day
+2025,2226,Florida Atlantic Owls,2025-02-20,34.857965790172784,included_game_day
+2025,2226,Florida Atlantic Owls,2025-02-23,23.148890735056995,included_game_day
+2025,2226,Florida Atlantic Owls,2025-02-27,14.877789649111161,included_game_day
+2025,2226,Florida Atlantic Owls,2025-03-02,20.47286439558227,included_game_day
+2025,2226,Florida Atlantic Owls,2025-03-06,17.189746509308076,included_game_day
+2025,2226,Florida Atlantic Owls,2025-03-09,41.88589527035576,included_game_day
+2025,2226,Florida Atlantic Owls,2025-03-13,38.640993236107974,included_game_day
+2025,2226,Florida Atlantic Owls,2025-03-14,30.405250189975433,included_game_day
+2025,2226,Florida Atlantic Owls,2025-03-19,27.725842968963587,included_game_day
+2026,2226,Florida Atlantic Owls,2025-11-03,2.0,included_game_day
+2026,2226,Florida Atlantic Owls,2025-11-08,17.6,included_game_day
+2026,2226,Florida Atlantic Owls,2025-11-09,0.0400000000000027,included_game_day
+2026,2226,Florida Atlantic Owls,2025-11-20,21.215690000000002,included_game_day
+2026,2226,Florida Atlantic Owls,2025-11-24,34.440947,included_game_day
+2026,2226,Florida Atlantic Owls,2025-11-25,27.725603300000003,included_game_day
+2026,2226,Florida Atlantic Owls,2025-11-30,19.026092398000003,included_game_day
+2026,2226,Florida Atlantic Owls,2025-12-07,24.2568280678,included_game_day
+2026,2226,Florida Atlantic Owls,2025-12-13,37.582322337667904,included_game_day
+2026,2226,Florida Atlantic Owls,2025-12-19,31.575963080381182,included_game_day
+2026,2226,Florida Atlantic Owls,2025-12-23,34.9885345351874,included_game_day
+2026,2226,Florida Atlantic Owls,2025-12-31,60.76787617380532,included_game_day
+2026,2226,Florida Atlantic Owls,2026-01-04,51.93242035988599,included_game_day
+2026,2226,Florida Atlantic Owls,2026-01-07,60.453456564661664,included_game_day
+2026,2226,Florida Atlantic Owls,2026-01-11,64.88262247519329,included_game_day
+2026,2226,Florida Atlantic Owls,2026-01-15,78.37086182199401,included_game_day
+2026,2226,Florida Atlantic Owls,2026-01-18,80.86353870355774,included_game_day
+2026,2226,Florida Atlantic Owls,2026-01-21,73.22386402616972,included_game_day
+2026,2226,Florida Atlantic Owls,2026-01-25,62.79398875863285,included_game_day
+2026,2226,Florida Atlantic Owls,2026-01-29,33.41529100086086,included_game_day
+2026,2226,Florida Atlantic Owls,2026-02-01,19.954435268814645,included_game_day
+2026,2226,Florida Atlantic Owls,2026-02-04,23.572023679563543,included_game_day
+2026,2226,Florida Atlantic Owls,2026-02-11,12.847866970544768,included_game_day
+2026,2226,Florida Atlantic Owls,2026-02-15,16.270210855013527,included_game_day
+2026,2226,Florida Atlantic Owls,2026-02-18,12.635504204943976,included_game_day
+2026,2226,Florida Atlantic Owls,2026-02-22,13.74004679811514,included_game_day
+2026,2226,Florida Atlantic Owls,2026-02-26,12.032835309008455,included_game_day
+2026,2226,Florida Atlantic Owls,2026-03-01,6.927158045358822,included_game_day
+2026,2226,Florida Atlantic Owls,2026-03-07,-2.2585916133437474,included_game_day
+2026,2226,Florida Atlantic Owls,2026-03-11,3.3743070123126353,included_game_day
+2026,2226,Florida Atlantic Owls,2026-03-12,-0.032228261930197455,included_game_day
+2027,2226,Florida Atlantic Owls,2026-11-02,11.0,included_game_day
+2027,2226,Florida Atlantic Owls,2026-11-06,-10.3,included_game_day
+2027,2226,Florida Atlantic Owls,2026-11-11,-4.470000000000001,included_game_day
+2027,2226,Florida Atlantic Owls,2026-11-18,1.7524999999999995,included_game_day

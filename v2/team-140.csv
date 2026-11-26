@@ -1,0 +1,1035 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1990,140,Missouri KC,1989-11-25,-12.0,included_game_day
+1990,140,Missouri KC,1989-12-06,-27.061528,included_game_day
+1990,140,Missouri KC,1989-12-09,-30.4064952,included_game_day
+1990,140,Missouri KC,1989-12-11,-40.00507198,included_game_day
+1990,140,Missouri KC,1989-12-16,-28.312598662,included_game_day
+1990,140,Missouri KC,1989-12-18,-47.5460787522,included_game_day
+1990,140,Missouri KC,1989-12-29,-57.881715528470004,included_game_day
+1990,140,Missouri KC,1989-12-30,-60.11336366781899,included_game_day
+1990,140,Missouri KC,1990-01-03,-48.69631187619376,included_game_day
+1990,140,Missouri KC,1990-01-06,-51.65079294013344,included_game_day
+1990,140,Missouri KC,1990-01-08,-37.11718771424701,included_game_day
+1990,140,Missouri KC,1990-01-10,-34.50243945590376,included_game_day
+1990,140,Missouri KC,1990-01-13,-15.305741011834353,included_game_day
+1990,140,Missouri KC,1990-01-21,-21.305556605808167,included_game_day
+1990,140,Missouri KC,1990-01-22,-24.58177961612951,included_game_day
+1990,140,Missouri KC,1990-01-27,-33.878615154592396,included_game_day
+1990,140,Missouri KC,1990-01-31,-34.21447821172167,included_game_day
+1990,140,Missouri KC,1990-02-03,-34.07149419827416,included_game_day
+1990,140,Missouri KC,1990-02-05,-26.447166546882606,included_game_day
+1990,140,Missouri KC,1990-02-12,3.563077233933079,included_game_day
+1990,140,Missouri KC,1990-02-17,11.308998751965778,included_game_day
+1990,140,Missouri KC,1990-02-21,4.8023055722369055,included_game_day
+1990,140,Missouri KC,1990-02-26,-3.179866718210979,included_game_day
+1990,140,Missouri KC,1990-03-05,-11.250035696015606,included_game_day
+1990,140,Missouri KC,1990-03-07,-22.10150338581881,included_game_day
+1991,140,Missouri KC,1990-12-01,0.5699999999999998,included_game_day
+1991,140,Missouri KC,1990-12-03,-4.505227,included_game_day
+1991,140,Missouri KC,1990-12-08,-1.3348143000000006,included_game_day
+1991,140,Missouri KC,1990-12-10,14.511165129999998,included_game_day
+1991,140,Missouri KC,1990-12-12,-0.3764890230000013,included_game_day
+1991,140,Missouri KC,1990-12-15,-6.6844163909408,included_game_day
+1991,140,Missouri KC,1990-12-29,-11.44962336063572,included_game_day
+1991,140,Missouri KC,1991-01-02,-15.89605999587434,included_game_day
+1991,140,Missouri KC,1991-01-05,-28.105571827507212,included_game_day
+1991,140,Missouri KC,1991-01-07,-40.34780194344886,included_game_day
+1991,140,Missouri KC,1991-01-09,-44.59628581254677,included_game_day
+1991,140,Missouri KC,1991-01-12,-45.652816294564296,included_game_day
+1991,140,Missouri KC,1991-01-15,-50.413933674485605,included_game_day
+1991,140,Missouri KC,1991-01-19,-55.08316216862403,included_game_day
+1991,140,Missouri KC,1991-01-21,-63.19454365758713,included_game_day
+1991,140,Missouri KC,1991-01-23,-46.83915263580066,included_game_day
+1991,140,Missouri KC,1991-01-26,-45.54082371989086,included_game_day
+1991,140,Missouri KC,1991-02-02,-44.07170852754675,included_game_day
+1991,140,Missouri KC,1991-02-06,-37.945025595489284,included_game_day
+1991,140,Missouri KC,1991-02-09,-39.861116214081314,included_game_day
+1991,140,Missouri KC,1991-02-16,-39.08187204790659,included_game_day
+1991,140,Missouri KC,1991-02-18,-50.24886398087334,included_game_day
+1991,140,Missouri KC,1991-02-23,-12.932891037001319,included_game_day
+1991,140,Missouri KC,1991-02-25,-26.629304384286215,included_game_day
+1991,140,Missouri KC,1991-03-04,-34.28490808270982,included_game_day
+1992,140,Missouri KC,1991-11-29,29.14,included_game_day
+1992,140,Missouri KC,1991-11-30,34.12,included_game_day
+1992,140,Missouri KC,1991-12-04,32.8849,included_game_day
+1992,140,Missouri KC,1991-12-11,22.5720865,included_game_day
+1992,140,Missouri KC,1991-12-14,26.201753280000002,included_game_day
+1992,140,Missouri KC,1991-12-16,26.452922952,included_game_day
+1992,140,Missouri KC,1991-12-18,30.7811936428,included_game_day
+1992,140,Missouri KC,1991-12-21,21.579685182220004,included_game_day
+1992,140,Missouri KC,1991-12-30,22.274708293002664,included_game_day
+1992,140,Missouri KC,1992-01-04,26.844699039110775,included_game_day
+1992,140,Missouri KC,1992-01-06,47.58735517389652,included_game_day
+1992,140,Missouri KC,1992-01-11,31.45344333768149,included_game_day
+1992,140,Missouri KC,1992-01-16,14.214345610605253,included_game_day
+1992,140,Missouri KC,1992-01-20,21.819892155240765,included_game_day
+1992,140,Missouri KC,1992-01-25,45.51394179259494,included_game_day
+1992,140,Missouri KC,1992-01-29,24.06818396422853,included_game_day
+1992,140,Missouri KC,1992-02-01,35.73654184338082,included_game_day
+1992,140,Missouri KC,1992-02-03,36.9810013916753,included_game_day
+1992,140,Missouri KC,1992-02-10,37.122331796384,included_game_day
+1992,140,Missouri KC,1992-02-13,8.860418128174448,included_game_day
+1992,140,Missouri KC,1992-02-17,12.613267146283787,included_game_day
+1992,140,Missouri KC,1992-02-22,19.91930078620429,included_game_day
+1992,140,Missouri KC,1992-02-24,50.99727928364756,included_game_day
+1992,140,Missouri KC,1992-03-01,44.89392441039481,included_game_day
+1992,140,Missouri KC,1992-03-04,43.01124051179261,included_game_day
+1993,140,Missouri KC,1992-12-01,-6.0,included_game_day
+1993,140,Missouri KC,1992-12-05,-11.3,included_game_day
+1993,140,Missouri KC,1992-12-11,-12.17,included_game_day
+1993,140,Missouri KC,1992-12-12,-50.92084942,included_game_day
+1993,140,Missouri KC,1992-12-18,-46.021654478,included_game_day
+1993,140,Missouri KC,1992-12-23,-13.4989951302,included_game_day
+1993,140,Missouri KC,1992-12-30,-19.172995191480002,included_game_day
+1993,140,Missouri KC,1993-01-02,-12.4527552998668,included_game_day
+1993,140,Missouri KC,1993-01-04,-9.57612856559217,included_game_day
+1993,140,Missouri KC,1993-01-06,-33.39099901301875,included_game_day
+1993,140,Missouri KC,1993-01-09,-28.546141211468104,included_game_day
+1993,140,Missouri KC,1993-01-16,-12.202150247999516,included_game_day
+1993,140,Missouri KC,1993-01-20,-23.480709038764957,included_game_day
+1993,140,Missouri KC,1993-01-23,-33.073742256942126,included_game_day
+1993,140,Missouri KC,1993-01-27,-33.278178205793175,included_game_day
+1993,140,Missouri KC,1993-01-30,-33.857505190331615,included_game_day
+1993,140,Missouri KC,1993-02-01,-2.99341473253736,included_game_day
+1993,140,Missouri KC,1993-02-06,-5.14182412131419,included_game_day
+1993,140,Missouri KC,1993-02-08,-14.757656071704039,included_game_day
+1993,140,Missouri KC,1993-02-13,-16.018381644223297,included_game_day
+1993,140,Missouri KC,1993-02-18,12.410677219592927,included_game_day
+1993,140,Missouri KC,1993-02-23,6.990859142169386,included_game_day
+1993,140,Missouri KC,1993-02-27,11.93783134805058,included_game_day
+1994,140,Missouri KC,1993-11-27,-10.0,included_game_day
+1994,140,Missouri KC,1993-11-29,13.0,included_game_day
+1994,140,Missouri KC,1993-12-03,22.7,included_game_day
+1994,140,Missouri KC,1993-12-04,4.5269999999999975,included_game_day
+1994,140,Missouri KC,1993-12-06,-0.6257000000000019,included_game_day
+1994,140,Missouri KC,1993-12-10,-26.0942,included_game_day
+1994,140,Missouri KC,1993-12-11,-46.029522830000005,included_game_day
+1994,140,Missouri KC,1993-12-18,-55.49903884700001,included_game_day
+1994,140,Missouri KC,1993-12-22,-50.409979068267106,included_game_day
+1994,140,Missouri KC,1993-12-28,-40.0797555811104,included_game_day
+1994,140,Missouri KC,1993-12-31,-34.47596467996984,included_game_day
+1994,140,Missouri KC,1994-01-04,-16.46533393156333,included_game_day
+1994,140,Missouri KC,1994-01-06,-11.666102231925088,included_game_day
+1994,140,Missouri KC,1994-01-08,-3.8731429103300767,included_game_day
+1994,140,Missouri KC,1994-01-12,-11.543606395263934,included_game_day
+1994,140,Missouri KC,1994-01-15,-17.600262898548856,included_game_day
+1994,140,Missouri KC,1994-01-22,-28.850735723826645,included_game_day
+1994,140,Missouri KC,1994-01-25,-50.4751574632225,included_game_day
+1994,140,Missouri KC,1994-01-29,-48.865201721473525,included_game_day
+1994,140,Missouri KC,1994-02-02,-54.53692796744486,included_game_day
+1994,140,Missouri KC,1994-02-05,-48.83647029661703,included_game_day
+1994,140,Missouri KC,1994-02-07,-53.54594399903454,included_game_day
+1994,140,Missouri KC,1994-02-12,-56.49464347213178,included_game_day
+1994,140,Missouri KC,1994-02-14,-66.57369666006353,included_game_day
+1994,140,Missouri KC,1994-02-16,-57.07385997557684,included_game_day
+1994,140,Missouri KC,1994-02-19,-44.97760831684224,included_game_day
+1994,140,Missouri KC,1994-02-22,-45.37057255288779,included_game_day
+1994,140,Missouri KC,1994-03-05,-41.43772806292429,included_game_day
+1995,140,Missouri KC,1994-11-26,-16.0,included_game_day
+1995,140,Missouri KC,1994-11-29,-17.8,included_game_day
+1995,140,Missouri KC,1994-12-02,-47.82,included_game_day
+1995,140,Missouri KC,1994-12-07,-62.443838,included_game_day
+1995,140,Missouri KC,1994-12-17,-70.93179842,included_game_day
+1995,140,Missouri KC,1994-12-20,-67.82621033000001,included_game_day
+1995,140,Missouri KC,1995-01-03,-73.98209727100001,included_game_day
+1995,140,Missouri KC,1995-01-05,-57.656345891459445,included_game_day
+1995,140,Missouri KC,1995-01-07,-52.27279184553488,included_game_day
+1995,140,Missouri KC,1995-01-11,-50.20226779172777,included_game_day
+1995,140,Missouri KC,1995-01-14,-39.361953916672086,included_game_day
+1995,140,Missouri KC,1995-01-16,-33.57863638576858,included_game_day
+1995,140,Missouri KC,1995-01-18,-25.247940424800777,included_game_day
+1995,140,Missouri KC,1995-01-21,-29.67603644309105,included_game_day
+1995,140,Missouri KC,1995-01-23,-39.54831172838082,included_game_day
+1995,140,Missouri KC,1995-01-28,-37.08063623039722,included_game_day
+1995,140,Missouri KC,1995-01-30,-40.13021627648894,included_game_day
+1995,140,Missouri KC,1995-02-01,-40.967632752682455,included_game_day
+1995,140,Missouri KC,1995-02-04,-52.24456733432987,included_game_day
+1995,140,Missouri KC,1995-02-06,-61.02150818310432,included_game_day
+1995,140,Missouri KC,1995-02-11,-61.282572173685764,included_game_day
+1995,140,Missouri KC,1995-02-18,-69.71294213062022,included_game_day
+1995,140,Missouri KC,1995-02-20,-51.89832497395281,included_game_day
+1995,140,Missouri KC,1995-02-23,-56.72021124493995,included_game_day
+1995,140,Missouri KC,1995-02-27,-70.64326781312776,included_game_day
+1995,140,Missouri KC,1995-03-01,-66.30225829803238,included_game_day
+1996,140,Missouri KC,1995-11-24,-7.0,included_game_day
+1996,140,Missouri KC,1995-11-28,5.1,included_game_day
+1996,140,Missouri KC,1995-12-09,-6.251991,included_game_day
+1996,140,Missouri KC,1995-12-22,-25.427349766593,included_game_day
+1996,140,Missouri KC,1995-12-28,-26.5881701245317,included_game_day
+1996,140,Missouri KC,1996-01-02,-18.97689519457763,included_game_day
+1996,140,Missouri KC,1996-01-04,-22.057703392276867,included_game_day
+1996,140,Missouri KC,1996-01-06,-29.809318514367973,included_game_day
+1996,140,Missouri KC,1996-01-08,-42.65105594785029,included_game_day
+1996,140,Missouri KC,1996-01-13,-25.58281475581626,included_game_day
+1996,140,Missouri KC,1996-01-17,-30.916770625290816,included_game_day
+1996,140,Missouri KC,1996-01-20,-51.88795107856821,included_game_day
+1996,140,Missouri KC,1996-01-22,-46.24042457643975,included_game_day
+1996,140,Missouri KC,1996-01-27,-52.38115726834072,included_game_day
+1996,140,Missouri KC,1996-01-29,-59.6023165248198,included_game_day
+1996,140,Missouri KC,1996-02-03,-45.50677337469706,included_game_day
+1996,140,Missouri KC,1996-02-05,-32.47404429543805,included_game_day
+1996,140,Missouri KC,1996-02-10,-55.07227666906094,included_game_day
+1996,140,Missouri KC,1996-02-12,-60.32206725332206,included_game_day
+1996,140,Missouri KC,1996-02-14,-59.894515361321915,included_game_day
+1996,140,Missouri KC,1996-02-17,-57.86889093806646,included_game_day
+1996,140,Missouri KC,1996-02-19,-48.2509398248807,included_game_day
+1996,140,Missouri KC,1996-02-22,-38.34503635133524,included_game_day
+1996,140,Missouri KC,1996-02-24,-44.99290312147056,included_game_day
+1996,140,Missouri KC,1996-02-27,-25.778787394684368,included_game_day
+1996,140,Missouri KC,1996-02-29,-24.620712921032794,included_game_day
+1996,140,Missouri KC,1996-03-03,-33.69425334211154,included_game_day
+1997,140,Missouri KC,1996-11-22,-17.0,included_game_day
+1997,140,Missouri KC,1996-11-25,-14.8,included_game_day
+1997,140,Missouri KC,1996-12-03,-16.108400000000003,included_game_day
+1997,140,Missouri KC,1996-12-07,5.3638999999999974,included_game_day
+1997,140,Missouri KC,1996-12-11,-7.308810560000003,included_game_day
+1997,140,Missouri KC,1996-12-20,-4.396377504000003,included_game_day
+1997,140,Missouri KC,1996-12-28,-22.607886807510003,included_game_day
+1997,140,Missouri KC,1996-12-30,-47.14511107436734,included_game_day
+1997,140,Missouri KC,1997-01-02,-38.12194217857616,included_game_day
+1997,140,Missouri KC,1997-01-04,-48.018870030011236,included_game_day
+1997,140,Missouri KC,1997-01-06,-29.245277267488152,included_game_day
+1997,140,Missouri KC,1997-01-11,-45.21880378912957,included_game_day
+1997,140,Missouri KC,1997-01-13,-38.37819069880195,included_game_day
+1997,140,Missouri KC,1997-01-18,-44.01734767087359,included_game_day
+1997,140,Missouri KC,1997-01-20,-34.92712447044248,included_game_day
+1997,140,Missouri KC,1997-01-27,-48.795099868082715,included_game_day
+1997,140,Missouri KC,1997-02-01,-59.76024114851052,included_game_day
+1997,140,Missouri KC,1997-02-06,-70.56903473952077,included_game_day
+1997,140,Missouri KC,1997-02-08,-54.82848718889069,included_game_day
+1997,140,Missouri KC,1997-02-10,-42.80032533073279,included_game_day
+1997,140,Missouri KC,1997-02-12,-70.11669858405332,included_game_day
+1997,140,Missouri KC,1997-02-15,-78.46164558045356,included_game_day
+1997,140,Missouri KC,1997-02-22,-88.77560915522648,included_game_day
+1997,140,Missouri KC,1997-02-24,-103.18674142555761,included_game_day
+1997,140,Missouri KC,1997-03-02,-121.11698364172571,included_game_day
+1998,140,Missouri KC,1997-11-14,-19.0,included_game_day
+1998,140,Missouri KC,1997-11-22,-15.1,included_game_day
+1998,140,Missouri KC,1997-11-24,-50.483000000000004,included_game_day
+1998,140,Missouri KC,1997-12-01,-55.56474,included_game_day
+1998,140,Missouri KC,1997-12-03,-67.172976,included_game_day
+1998,140,Missouri KC,1997-12-06,-79.726362776,included_game_day
+1998,140,Missouri KC,1997-12-13,-78.2374402646,included_game_day
+1998,140,Missouri KC,1997-12-16,-98.06275092738,included_game_day
+1998,140,Missouri KC,1997-12-20,-104.671798077992,included_game_day
+1998,140,Missouri KC,1997-12-29,-96.44038490933119,included_game_day
+1998,140,Missouri KC,1998-01-03,-109.05020107627895,included_game_day
+1998,140,Missouri KC,1998-01-08,-80.84431808660395,included_game_day
+1998,140,Missouri KC,1998-01-10,-98.43324574254584,included_game_day
+1998,140,Missouri KC,1998-01-15,-90.74102152515466,included_game_day
+1998,140,Missouri KC,1998-01-17,-65.30433987029424,included_game_day
+1998,140,Missouri KC,1998-01-21,-43.195383866378315,included_game_day
+1998,140,Missouri KC,1998-01-31,-39.39723196817732,included_game_day
+1998,140,Missouri KC,1998-02-05,-34.940582037098125,included_game_day
+1998,140,Missouri KC,1998-02-07,-33.37928961867873,included_game_day
+1998,140,Missouri KC,1998-02-12,-46.50500946884682,included_game_day
+1998,140,Missouri KC,1998-02-14,-51.39329528795415,included_game_day
+1998,140,Missouri KC,1998-02-16,-64.3022627306305,included_game_day
+1998,140,Missouri KC,1998-02-21,-53.31000806997032,included_game_day
+1998,140,Missouri KC,1998-02-23,-52.29213644225296,included_game_day
+1998,140,Missouri KC,1998-03-01,-63.21477120513822,included_game_day
+1999,140,Missouri KC,1998-11-14,-9.0,included_game_day
+1999,140,Missouri KC,1998-11-18,-27.9,included_game_day
+1999,140,Missouri KC,1998-11-23,-27.65,included_game_day
+1999,140,Missouri KC,1998-11-27,-25.180999999999997,included_game_day
+1999,140,Missouri KC,1998-11-28,-23.26569,included_game_day
+1999,140,Missouri KC,1998-11-29,-21.373131,included_game_day
+1999,140,Missouri KC,1998-12-05,-12.81450433,included_game_day
+1999,140,Missouri KC,1998-12-07,-14.667565497,included_game_day
+1999,140,Missouri KC,1998-12-12,6.262897647440001,included_game_day
+1999,140,Missouri KC,1998-12-16,-2.2471871353039994,included_game_day
+1999,140,Missouri KC,1998-12-19,-22.3135811669136,included_game_day
+1999,140,Missouri KC,1998-12-22,-12.4813402686009,included_game_day
+1999,140,Missouri KC,1998-12-30,-29.038359399384316,included_game_day
+1999,140,Missouri KC,1999-01-02,-31.92816714269674,included_game_day
+1999,140,Missouri KC,1999-01-04,-30.89154208814196,included_game_day
+1999,140,Missouri KC,1999-01-07,-38.26871694662639,included_game_day
+1999,140,Missouri KC,1999-01-09,-48.320951849121045,included_game_day
+1999,140,Missouri KC,1999-01-14,-46.930540638956586,included_game_day
+1999,140,Missouri KC,1999-01-21,-52.60462169786399,included_game_day
+1999,140,Missouri KC,1999-01-28,-69.52775484288671,included_game_day
+1999,140,Missouri KC,1999-01-30,-68.37536726564119,included_game_day
+1999,140,Missouri KC,1999-02-04,-74.99999124248306,included_game_day
+1999,140,Missouri KC,1999-02-06,-80.1895965366777,included_game_day
+1999,140,Missouri KC,1999-02-10,-97.72854430130297,included_game_day
+1999,140,Missouri KC,1999-02-13,-92.89936500654491,included_game_day
+1999,140,Missouri KC,1999-02-20,-109.86819152184071,included_game_day
+1999,140,Missouri KC,1999-02-28,-104.73431815484123,included_game_day
+2000,140,Missouri KC,1999-11-23,-0.96,included_game_day
+2000,140,Missouri KC,1999-11-27,-7.7763,included_game_day
+2000,140,Missouri KC,1999-11-30,-12.92247,included_game_day
+2000,140,Missouri KC,1999-12-04,8.924544999999998,included_game_day
+2000,140,Missouri KC,1999-12-08,6.998546399999999,included_game_day
+2000,140,Missouri KC,1999-12-11,0.2029320600000002,included_game_day
+2000,140,Missouri KC,1999-12-19,2.679134451716,included_game_day
+2000,140,Missouri KC,1999-12-22,7.677366431970399,included_game_day
+2000,140,Missouri KC,1999-12-28,2.320985149671018,included_game_day
+2000,140,Missouri KC,2000-01-03,9.443179043142482,included_game_day
+2000,140,Missouri KC,2000-01-06,11.227790760469787,included_game_day
+2000,140,Missouri KC,2000-01-08,13.673074193299387,included_game_day
+2000,140,Missouri KC,2000-01-11,15.321795858198772,included_game_day
+2000,140,Missouri KC,2000-01-13,3.389954930241151,included_game_day
+2000,140,Missouri KC,2000-01-20,-9.952654315637945,included_game_day
+2000,140,Missouri KC,2000-01-22,-17.211331806812865,included_game_day
+2000,140,Missouri KC,2000-01-27,-32.36611030714755,included_game_day
+2000,140,Missouri KC,2000-02-03,-35.86378644400084,included_game_day
+2000,140,Missouri KC,2000-02-05,-3.815051894695358,included_game_day
+2000,140,Missouri KC,2000-02-10,-16.089356670723248,included_game_day
+2000,140,Missouri KC,2000-02-12,-16.463599281096894,included_game_day
+2000,140,Missouri KC,2000-02-19,-16.585815085334907,included_game_day
+2000,140,Missouri KC,2000-02-24,-18.022793717925342,included_game_day
+2000,140,Missouri KC,2000-02-26,-17.23266292074012,included_game_day
+2000,140,Missouri KC,2000-02-29,-14.806474662498937,included_game_day
+2000,140,Missouri KC,2000-03-05,-22.2536037208807,included_game_day
+2000,140,Missouri KC,2000-03-06,-39.21815407838315,included_game_day
+2001,140,Missouri KC,2000-11-21,-20.0,included_game_day
+2001,140,Missouri KC,2000-11-24,-29.189999999999998,included_game_day
+2001,140,Missouri KC,2000-11-25,-30.107999999999997,included_game_day
+2001,140,Missouri KC,2000-11-26,-8.463958999999996,included_game_day
+2001,140,Missouri KC,2000-11-29,7.784776900000004,included_game_day
+2001,140,Missouri KC,2000-12-02,25.183939210000005,included_game_day
+2001,140,Missouri KC,2000-12-08,40.02758398900001,included_game_day
+2001,140,Missouri KC,2000-12-09,32.35283259010001,included_game_day
+2001,140,Missouri KC,2000-12-13,23.219281212190005,included_game_day
+2001,140,Missouri KC,2000-12-16,16.887596983971005,included_game_day
+2001,140,Missouri KC,2000-12-20,7.101484724803903,included_game_day
+2001,140,Missouri KC,2000-12-30,5.028418964427513,included_game_day
+2001,140,Missouri KC,2001-01-04,-5.013223090046275,included_game_day
+2001,140,Missouri KC,2001-01-06,-26.335267945289324,included_game_day
+2001,140,Missouri KC,2001-01-11,-7.861959065501704,included_game_day
+2001,140,Missouri KC,2001-01-13,-12.864206324523645,included_game_day
+2001,140,Missouri KC,2001-01-20,-26.31458327044587,included_game_day
+2001,140,Missouri KC,2001-01-25,-29.33978440319344,included_game_day
+2001,140,Missouri KC,2001-01-27,-6.455172122221192,included_game_day
+2001,140,Missouri KC,2001-02-01,-4.850136935236369,included_game_day
+2001,140,Missouri KC,2001-02-03,-8.859621839892082,included_game_day
+2001,140,Missouri KC,2001-02-08,-6.954050603776977,included_game_day
+2001,140,Missouri KC,2001-02-15,4.52555170277563,included_game_day
+2001,140,Missouri KC,2001-02-17,-8.82073696108916,included_game_day
+2001,140,Missouri KC,2001-02-22,-2.6169241279499644,included_game_day
+2001,140,Missouri KC,2001-02-24,-16.298590101027763,included_game_day
+2001,140,Missouri KC,2001-02-27,-12.394141276801193,included_game_day
+2001,140,Missouri KC,2001-03-04,-15.270582217419937,included_game_day
+2002,140,Kansas City Roos,2001-11-17,4.0,included_game_day
+2002,140,Kansas City Roos,2001-11-24,-0.9299999999999997,included_game_day
+2002,140,Kansas City Roos,2001-11-27,2.813,included_game_day
+2002,140,Kansas City Roos,2001-12-01,17.516109999999998,included_game_day
+2002,140,Kansas City Roos,2001-12-05,20.028879,included_game_day
+2002,140,Kansas City Roos,2001-12-08,12.9103008,included_game_day
+2002,140,Kansas City Roos,2001-12-15,21.9168734438,included_game_day
+2002,140,Kansas City Roos,2001-12-19,16.726510166609998,included_game_day
+2002,140,Kansas City Roos,2001-12-22,19.265568097569,included_game_day
+2002,140,Kansas City Roos,2001-12-28,18.829039212112665,included_game_day
+2002,140,Kansas City Roos,2002-01-05,4.736355162346111,included_game_day
+2002,140,Kansas City Roos,2002-01-10,9.929579075017,included_game_day
+2002,140,Kansas City Roos,2002-01-12,4.24822905427894,included_game_day
+2002,140,Kansas City Roos,2002-01-14,2.0051495931762338,included_game_day
+2002,140,Kansas City Roos,2002-01-17,13.28836432756901,included_game_day
+2002,140,Kansas City Roos,2002-01-19,2.7639366549230644,included_game_day
+2002,140,Kansas City Roos,2002-01-24,0.27354262226660353,included_game_day
+2002,140,Kansas City Roos,2002-01-26,-8.215646206273687,included_game_day
+2002,140,Kansas City Roos,2002-02-02,-9.232452507547494,included_game_day
+2002,140,Kansas City Roos,2002-02-07,-4.513880498121669,included_game_day
+2002,140,Kansas City Roos,2002-02-09,-12.303475905023742,included_game_day
+2002,140,Kansas City Roos,2002-02-14,-19.00217985423451,included_game_day
+2002,140,Kansas City Roos,2002-02-16,-12.776404841284567,included_game_day
+2002,140,Kansas City Roos,2002-02-21,-8.685174890927705,included_game_day
+2002,140,Kansas City Roos,2002-02-23,-10.90947757801655,included_game_day
+2002,140,Kansas City Roos,2002-02-26,-10.41089306055981,included_game_day
+2002,140,Kansas City Roos,2002-03-03,6.316007373355989,included_game_day
+2002,140,Kansas City Roos,2002-03-04,4.75240087823123,included_game_day
+2003,140,Kansas City Roos,2002-11-22,-9.0,included_game_day
+2003,140,Kansas City Roos,2002-11-26,-6.5,included_game_day
+2003,140,Kansas City Roos,2002-12-03,-21.717,included_game_day
+2003,140,Kansas City Roos,2002-12-07,-21.869343,included_game_day
+2003,140,Kansas City Roos,2002-12-10,-24.907702200000003,included_game_day
+2003,140,Kansas City Roos,2002-12-14,-37.80650938,included_game_day
+2003,140,Kansas City Roos,2002-12-18,-50.605473080500005,included_game_day
+2003,140,Kansas City Roos,2002-12-21,-37.552390286750004,included_game_day
+2003,140,Kansas City Roos,2002-12-27,-50.994421879775004,included_game_day
+2003,140,Kansas City Roos,2002-12-28,-57.86834754846784,included_game_day
+2003,140,Kansas City Roos,2002-12-31,-59.98193884545876,included_game_day
+2003,140,Kansas City Roos,2003-01-04,-94.50388276802028,included_game_day
+2003,140,Kansas City Roos,2003-01-09,-79.54745170434607,included_game_day
+2003,140,Kansas City Roos,2003-01-11,-76.03268883694577,included_game_day
+2003,140,Kansas City Roos,2003-01-16,-96.02590550421786,included_game_day
+2003,140,Kansas City Roos,2003-01-18,-100.80912839805508,included_game_day
+2003,140,Kansas City Roos,2003-01-22,-96.81265686324113,included_game_day
+2003,140,Kansas City Roos,2003-01-25,-100.67780950270304,included_game_day
+2003,140,Kansas City Roos,2003-01-30,-89.7076678504983,included_game_day
+2003,140,Kansas City Roos,2003-02-01,-69.04690128249466,included_game_day
+2003,140,Kansas City Roos,2003-02-06,-50.27357498949469,included_game_day
+2003,140,Kansas City Roos,2003-02-08,-59.301115922185986,included_game_day
+2003,140,Kansas City Roos,2003-02-13,-62.29554460404685,included_game_day
+2003,140,Kansas City Roos,2003-02-15,-72.12530923683744,included_game_day
+2003,140,Kansas City Roos,2003-02-22,-56.29647575796103,included_game_day
+2003,140,Kansas City Roos,2003-02-27,-60.31944636589555,included_game_day
+2003,140,Kansas City Roos,2003-03-01,-64.41025299975456,included_game_day
+2003,140,Kansas City Roos,2003-03-09,-50.37979957327366,included_game_day
+2003,140,Kansas City Roos,2003-03-10,-59.16522282347467,included_game_day
+2004,140,Kansas City Roos,2003-11-17,-8.0,included_game_day
+2004,140,Kansas City Roos,2003-11-29,9.82,included_game_day
+2004,140,Kansas City Roos,2003-12-02,-3.0619999999999994,included_game_day
+2004,140,Kansas City Roos,2003-12-04,15.870200000000002,included_game_day
+2004,140,Kansas City Roos,2003-12-06,-0.7198999999999973,included_game_day
+2004,140,Kansas City Roos,2003-12-10,-0.7207903499999979,included_game_day
+2004,140,Kansas City Roos,2003-12-13,-10.302894554999998,included_game_day
+2004,140,Kansas City Roos,2003-12-17,-15.371057988329998,included_game_day
+2004,140,Kansas City Roos,2003-12-22,-23.4483369180164,included_game_day
+2004,140,Kansas City Roos,2003-12-30,24.03717392911314,included_game_day
+2004,140,Kansas City Roos,2004-01-03,-0.7303109733974438,included_game_day
+2004,140,Kansas City Roos,2004-01-05,13.630287190812853,included_game_day
+2004,140,Kansas City Roos,2004-01-08,6.817659343010957,included_game_day
+2004,140,Kansas City Roos,2004-01-10,6.976639694999978,included_game_day
+2004,140,Kansas City Roos,2004-01-15,28.5014592547127,included_game_day
+2004,140,Kansas City Roos,2004-01-19,26.694030076996818,included_game_day
+2004,140,Kansas City Roos,2004-01-22,12.96846628899657,included_game_day
+2004,140,Kansas City Roos,2004-01-24,-4.445600406098485,included_game_day
+2004,140,Kansas City Roos,2004-01-29,-17.56045137659363,included_game_day
+2004,140,Kansas City Roos,2004-01-31,-4.648836063417978,included_game_day
+2004,140,Kansas City Roos,2004-02-07,20.55863968319592,included_game_day
+2004,140,Kansas City Roos,2004-02-12,33.277252929546286,included_game_day
+2004,140,Kansas City Roos,2004-02-14,23.54586557547529,included_game_day
+2004,140,Kansas City Roos,2004-02-19,17.667100466794853,included_game_day
+2004,140,Kansas City Roos,2004-02-21,6.738588521052883,included_game_day
+2004,140,Kansas City Roos,2004-02-26,8.666013137859029,included_game_day
+2004,140,Kansas City Roos,2004-02-28,17.690288033617765,included_game_day
+2004,140,Kansas City Roos,2004-03-07,32.35037591968103,included_game_day
+2004,140,Kansas City Roos,2004-03-08,20.182066559783756,included_game_day
+2005,140,Kansas City Roos,2004-11-23,-10.89367,included_game_day
+2005,140,Kansas City Roos,2004-12-01,-14.324303,included_game_day
+2005,140,Kansas City Roos,2004-12-04,-15.9876467,included_game_day
+2005,140,Kansas City Roos,2004-12-11,-37.5200590759,included_game_day
+2005,140,Kansas City Roos,2004-12-18,-37.054666945,included_game_day
+2005,140,Kansas City Roos,2004-12-21,-40.074205182283,included_game_day
+2005,140,Kansas City Roos,2004-12-28,-41.08295584054348,included_game_day
+2005,140,Kansas City Roos,2005-01-03,-19.037483042734294,included_game_day
+2005,140,Kansas City Roos,2005-01-06,-10.01643137718694,included_game_day
+2005,140,Kansas City Roos,2005-01-08,-13.86406612920899,included_game_day
+2005,140,Kansas City Roos,2005-01-13,-7.213306870015323,included_game_day
+2005,140,Kansas City Roos,2005-01-15,-6.490024186620097,included_game_day
+2005,140,Kansas City Roos,2005-01-20,-2.4281344216472,included_game_day
+2005,140,Kansas City Roos,2005-01-24,-5.555860021889667,included_game_day
+2005,140,Kansas City Roos,2005-01-29,17.6315980191261,included_game_day
+2005,140,Kansas City Roos,2005-02-03,23.0270467755809,included_game_day
+2005,140,Kansas City Roos,2005-02-05,10.188284280398152,included_game_day
+2005,140,Kansas City Roos,2005-02-07,10.428527572256492,included_game_day
+2005,140,Kansas City Roos,2005-02-12,-6.736347519261038,included_game_day
+2005,140,Kansas City Roos,2005-02-14,2.484276616564731,included_game_day
+2005,140,Kansas City Roos,2005-02-17,-3.6224207307817338,included_game_day
+2005,140,Kansas City Roos,2005-02-22,8.999358661019777,included_game_day
+2005,140,Kansas City Roos,2005-02-24,2.951450307640819,included_game_day
+2005,140,Kansas City Roos,2005-02-26,-8.350374185079515,included_game_day
+2005,140,Kansas City Roos,2005-02-28,-11.5855808235468,included_game_day
+2005,140,Kansas City Roos,2005-03-05,-17.86196422081796,included_game_day
+2006,140,Kansas City Roos,2005-11-26,4.7614,included_game_day
+2006,140,Kansas City Roos,2005-11-29,-10.65474,included_game_day
+2006,140,Kansas City Roos,2005-12-03,-5.073169,included_game_day
+2006,140,Kansas City Roos,2005-12-07,-1.5922114400000007,included_game_day
+2006,140,Kansas City Roos,2005-12-10,-17.677191462,included_game_day
+2006,140,Kansas City Roos,2005-12-12,-27.69345589894,included_game_day
+2006,140,Kansas City Roos,2005-12-17,-46.006795401216,included_game_day
+2006,140,Kansas City Roos,2005-12-27,-25.766589142716803,included_game_day
+2006,140,Kansas City Roos,2005-12-30,-39.28674615368742,included_game_day
+2006,140,Kansas City Roos,2006-01-02,-73.72934835258559,included_game_day
+2006,140,Kansas City Roos,2006-01-04,-65.99604886258128,included_game_day
+2006,140,Kansas City Roos,2006-01-07,-66.08638370302388,included_game_day
+2006,140,Kansas City Roos,2006-01-09,-60.09558043550944,included_game_day
+2006,140,Kansas City Roos,2006-01-12,-64.27131618511585,included_game_day
+2006,140,Kansas City Roos,2006-01-14,-64.71273821863815,included_game_day
+2006,140,Kansas City Roos,2006-01-17,-77.68749349588069,included_game_day
+2006,140,Kansas City Roos,2006-01-21,-104.41048366134277,included_game_day
+2006,140,Kansas City Roos,2006-01-28,-97.28137674113165,included_game_day
+2006,140,Kansas City Roos,2006-01-30,-108.19180852408383,included_game_day
+2006,140,Kansas City Roos,2006-02-02,-98.81659653574548,included_game_day
+2006,140,Kansas City Roos,2006-02-06,-97.8332405174324,included_game_day
+2006,140,Kansas City Roos,2006-02-11,-91.22860074536186,included_game_day
+2006,140,Kansas City Roos,2006-02-16,-79.99815637730177,included_game_day
+2006,140,Kansas City Roos,2006-02-18,-64.0542596626074,included_game_day
+2006,140,Kansas City Roos,2006-02-23,-56.888429082915756,included_game_day
+2006,140,Kansas City Roos,2006-02-25,-53.56917206319877,included_game_day
+2006,140,Kansas City Roos,2006-03-05,-63.243536126056185,included_game_day
+2007,140,Kansas City Roos,2006-11-13,7.8,included_game_day
+2007,140,Kansas City Roos,2006-11-19,-8.489999999999998,included_game_day
+2007,140,Kansas City Roos,2006-11-23,-5.540999999999999,included_game_day
+2007,140,Kansas City Roos,2006-11-25,-4.125970099999998,included_game_day
+2007,140,Kansas City Roos,2006-11-29,-27.82816709,included_game_day
+2007,140,Kansas City Roos,2006-12-02,-27.995457327,included_game_day
+2007,140,Kansas City Roos,2006-12-05,-38.7482126988,included_game_day
+2007,140,Kansas City Roos,2006-12-09,-59.680394104735,included_game_day
+2007,140,Kansas City Roos,2006-12-13,-92.0411978582155,included_game_day
+2007,140,Kansas City Roos,2006-12-16,-75.97356143886395,included_game_day
+2007,140,Kansas City Roos,2006-12-19,-92.37444092726021,included_game_day
+2007,140,Kansas City Roos,2006-12-23,-96.73524754368175,included_game_day
+2007,140,Kansas City Roos,2007-01-02,-97.49092608679274,included_game_day
+2007,140,Kansas City Roos,2007-01-04,-87.18361949901895,included_game_day
+2007,140,Kansas City Roos,2007-01-06,-75.18534975641693,included_game_day
+2007,140,Kansas City Roos,2007-01-11,-71.88693150294871,included_game_day
+2007,140,Kansas City Roos,2007-01-13,-68.80904381102447,included_game_day
+2007,140,Kansas City Roos,2007-01-18,-67.19855829060388,included_game_day
+2007,140,Kansas City Roos,2007-01-20,-75.17680068374385,included_game_day
+2007,140,Kansas City Roos,2007-01-25,-75.8943372238277,included_game_day
+2007,140,Kansas City Roos,2007-01-27,-76.88804647788461,included_game_day
+2007,140,Kansas City Roos,2007-02-03,-72.38555519131484,included_game_day
+2007,140,Kansas City Roos,2007-02-08,-63.48068558463482,included_game_day
+2007,140,Kansas City Roos,2007-02-10,-63.73260688413614,included_game_day
+2007,140,Kansas City Roos,2007-02-15,-56.30117574515782,included_game_day
+2007,140,Kansas City Roos,2007-02-17,-42.08478212273799,included_game_day
+2007,140,Kansas City Roos,2007-02-22,-11.307303462108443,included_game_day
+2007,140,Kansas City Roos,2007-02-24,-21.315381578745892,included_game_day
+2007,140,Kansas City Roos,2007-03-04,-5.32184407205585,included_game_day
+2007,140,Kansas City Roos,2007-03-05,-6.437379088301905,included_game_day
+2008,140,Kansas City Roos,2007-11-11,-17.4,included_game_day
+2008,140,Kansas City Roos,2007-11-17,-28.06,included_game_day
+2008,140,Kansas City Roos,2007-11-19,-41.069599999999994,included_game_day
+2008,140,Kansas City Roos,2007-11-26,-34.53297799999999,included_game_day
+2008,140,Kansas City Roos,2007-11-29,-41.13988019999999,included_game_day
+2008,140,Kansas City Roos,2007-12-03,-57.500360779999994,included_game_day
+2008,140,Kansas City Roos,2007-12-06,-57.538734925199996,included_game_day
+2008,140,Kansas City Roos,2007-12-08,-61.615440686679996,included_game_day
+2008,140,Kansas City Roos,2007-12-15,-53.215269326832,included_game_day
+2008,140,Kansas City Roos,2007-12-19,-51.5952485883988,included_game_day
+2008,140,Kansas City Roos,2007-12-22,-44.20190413661583,included_game_day
+2008,140,Kansas City Roos,2007-12-29,-46.90560715313271,included_game_day
+2008,140,Kansas City Roos,2008-01-03,-46.35590102074012,included_game_day
+2008,140,Kansas City Roos,2008-01-05,-58.20789454315895,included_game_day
+2008,140,Kansas City Roos,2008-01-08,-59.23347131138938,included_game_day
+2008,140,Kansas City Roos,2008-01-12,-57.65005746877759,included_game_day
+2008,140,Kansas City Roos,2008-01-17,-48.84737677704465,included_game_day
+2008,140,Kansas City Roos,2008-01-24,-70.14720170643531,included_game_day
+2008,140,Kansas City Roos,2008-01-26,-70.02730386585556,included_game_day
+2008,140,Kansas City Roos,2008-01-31,-78.02828677327018,included_game_day
+2008,140,Kansas City Roos,2008-02-02,-78.92528730614177,included_game_day
+2008,140,Kansas City Roos,2008-02-09,-79.0327773177582,included_game_day
+2008,140,Kansas City Roos,2008-02-14,-101.09638918343887,included_game_day
+2008,140,Kansas City Roos,2008-02-16,-96.95286517011493,included_game_day
+2008,140,Kansas City Roos,2008-02-21,-85.22633594235234,included_game_day
+2008,140,Kansas City Roos,2008-02-23,-74.68766212342283,included_game_day
+2008,140,Kansas City Roos,2008-02-28,-52.6368557589562,included_game_day
+2008,140,Kansas City Roos,2008-03-01,-57.95990490091904,included_game_day
+2008,140,Kansas City Roos,2008-03-08,-48.66331473801506,included_game_day
+2009,140,Kansas City Roos,2008-11-14,-8.0,included_game_day
+2009,140,Kansas City Roos,2008-11-16,-19.2,included_game_day
+2009,140,Kansas City Roos,2008-11-19,-9.54,included_game_day
+2009,140,Kansas City Roos,2008-11-22,-24.092,included_game_day
+2009,140,Kansas City Roos,2008-11-24,-11.2228,included_game_day
+2009,140,Kansas City Roos,2008-11-25,-20.23014,included_game_day
+2009,140,Kansas City Roos,2008-11-26,-16.29974,included_game_day
+2009,140,Kansas City Roos,2008-11-30,-31.790986,included_game_day
+2009,140,Kansas City Roos,2008-12-04,-39.8530582,included_game_day
+2009,140,Kansas City Roos,2008-12-06,-34.253882904,included_game_day
+2009,140,Kansas City Roos,2008-12-13,-35.703694941,included_game_day
+2009,140,Kansas City Roos,2008-12-15,-35.5430245219,included_game_day
+2009,140,Kansas City Roos,2008-12-18,-23.95164452082,included_game_day
+2009,140,Kansas City Roos,2008-12-22,-30.5995475586879,included_game_day
+2009,140,Kansas City Roos,2008-12-28,-48.81312604877321,included_game_day
+2009,140,Kansas City Roos,2008-12-31,-42.359516520400646,included_game_day
+2009,140,Kansas City Roos,2009-01-02,-41.76220747575332,included_game_day
+2009,140,Kansas City Roos,2009-01-10,-56.86979702869827,included_game_day
+2009,140,Kansas City Roos,2009-01-15,-54.209562125497555,included_game_day
+2009,140,Kansas City Roos,2009-01-17,-50.64318523301998,included_game_day
+2009,140,Kansas City Roos,2009-01-22,-73.0731933784974,included_game_day
+2009,140,Kansas City Roos,2009-01-24,-72.70103341410754,included_game_day
+2009,140,Kansas City Roos,2009-01-29,-82.78523189430705,included_game_day
+2009,140,Kansas City Roos,2009-01-31,-80.97354686311863,included_game_day
+2009,140,Kansas City Roos,2009-02-07,-87.63361554400488,included_game_day
+2009,140,Kansas City Roos,2009-02-12,-103.30436616710053,included_game_day
+2009,140,Kansas City Roos,2009-02-14,-102.67097695189656,included_game_day
+2009,140,Kansas City Roos,2009-02-19,-99.28603938904733,included_game_day
+2009,140,Kansas City Roos,2009-02-21,-118.1012799204455,included_game_day
+2009,140,Kansas City Roos,2009-02-26,-111.20582621506239,included_game_day
+2009,140,Kansas City Roos,2009-02-28,-102.90727708293691,included_game_day
+2010,140,Kansas City Roos,2009-11-21,4.65,included_game_day
+2010,140,Kansas City Roos,2009-11-24,-12.5207,included_game_day
+2010,140,Kansas City Roos,2009-11-28,-24.37283,included_game_day
+2010,140,Kansas City Roos,2009-12-03,-31.89159623,included_game_day
+2010,140,Kansas City Roos,2009-12-05,-25.683375676,included_game_day
+2010,140,Kansas City Roos,2009-12-09,-39.395533738670004,included_game_day
+2010,140,Kansas City Roos,2009-12-12,-23.842386738403004,included_game_day
+2010,140,Kansas City Roos,2009-12-19,-16.898086214767705,included_game_day
+2010,140,Kansas City Roos,2009-12-22,-16.119019104785536,included_game_day
+2010,140,Kansas City Roos,2009-12-28,-12.758364622954982,included_game_day
+2010,140,Kansas City Roos,2009-12-30,-29.448261039956652,included_game_day
+2010,140,Kansas City Roos,2010-01-02,-35.58119687748014,included_game_day
+2010,140,Kansas City Roos,2010-01-07,-42.24516268513162,included_game_day
+2010,140,Kansas City Roos,2010-01-14,-46.26752558536997,included_game_day
+2010,140,Kansas City Roos,2010-01-16,-55.044690640944154,included_game_day
+2010,140,Kansas City Roos,2010-01-21,-55.17117367567397,included_game_day
+2010,140,Kansas City Roos,2010-01-23,-52.65257324805282,included_game_day
+2010,140,Kansas City Roos,2010-01-26,-58.28812565204776,included_game_day
+2010,140,Kansas City Roos,2010-01-30,-75.7395590972382,included_game_day
+2010,140,Kansas City Roos,2010-02-04,-66.66621129580054,included_game_day
+2010,140,Kansas City Roos,2010-02-06,-79.15452398092668,included_game_day
+2010,140,Kansas City Roos,2010-02-11,-69.39267851978303,included_game_day
+2010,140,Kansas City Roos,2010-02-13,-75.31157423562496,included_game_day
+2010,140,Kansas City Roos,2010-02-18,-98.7134522276415,included_game_day
+2010,140,Kansas City Roos,2010-02-20,-96.75405342272363,included_game_day
+2010,140,Kansas City Roos,2010-02-25,-88.95689103030786,included_game_day
+2010,140,Kansas City Roos,2010-02-27,-96.79790124486397,included_game_day
+2010,140,Kansas City Roos,2010-03-06,-100.09029386195648,included_game_day
+2011,140,Kansas City Roos,2010-11-16,5.0,included_game_day
+2011,140,Kansas City Roos,2010-11-20,6.74,included_game_day
+2011,140,Kansas City Roos,2010-11-24,15.869,included_game_day
+2011,140,Kansas City Roos,2010-11-29,0.07244400000000084,included_game_day
+2011,140,Kansas City Roos,2010-12-02,0.670059600000001,included_game_day
+2011,140,Kansas City Roos,2010-12-04,-28.97269867,included_game_day
+2011,140,Kansas City Roos,2010-12-08,-21.42261427136,included_game_day
+2011,140,Kansas City Roos,2010-12-11,-45.499979526934,included_game_day
+2011,140,Kansas City Roos,2010-12-18,-42.9782954888846,included_game_day
+2011,140,Kansas City Roos,2010-12-21,-29.936535928491438,included_game_day
+2011,140,Kansas City Roos,2010-12-23,-33.59494654526266,included_game_day
+2011,140,Kansas City Roos,2010-12-28,-29.879873116924642,included_game_day
+2011,140,Kansas City Roos,2010-12-30,-48.029828130593174,included_game_day
+2011,140,Kansas City Roos,2011-01-05,-71.2153321829061,included_game_day
+2011,140,Kansas City Roos,2011-01-08,-66.24720920086824,included_game_day
+2011,140,Kansas City Roos,2011-01-13,-70.03459284306668,included_game_day
+2011,140,Kansas City Roos,2011-01-15,-65.6523753160274,included_game_day
+2011,140,Kansas City Roos,2011-01-20,-52.63145972319279,included_game_day
+2011,140,Kansas City Roos,2011-01-22,-51.51330005301953,included_game_day
+2011,140,Kansas City Roos,2011-01-27,-31.91712787613942,included_game_day
+2011,140,Kansas City Roos,2011-01-29,-28.19034753035261,included_game_day
+2011,140,Kansas City Roos,2011-02-05,-26.799211335268122,included_game_day
+2011,140,Kansas City Roos,2011-02-10,-47.37215488572318,included_game_day
+2011,140,Kansas City Roos,2011-02-12,-32.47811392202777,included_game_day
+2011,140,Kansas City Roos,2011-02-17,-33.894108461387916,included_game_day
+2011,140,Kansas City Roos,2011-02-19,-41.190673293714816,included_game_day
+2011,140,Kansas City Roos,2011-02-24,-45.9044896930387,included_game_day
+2011,140,Kansas City Roos,2011-02-26,-70.80321455971574,included_game_day
+2011,140,Kansas City Roos,2011-03-06,-86.62119692876311,included_game_day
+2012,140,Kansas City Roos,2011-11-13,-7.0,included_game_day
+2012,140,Kansas City Roos,2011-11-16,-7.1,included_game_day
+2012,140,Kansas City Roos,2011-11-19,-5.840999999999999,included_game_day
+2012,140,Kansas City Roos,2011-11-22,-38.70290000000001,included_game_day
+2012,140,Kansas City Roos,2011-11-25,-31.176410000000004,included_game_day
+2012,140,Kansas City Roos,2011-11-26,8.284180999999997,included_game_day
+2012,140,Kansas City Roos,2011-12-01,23.893305899999998,included_game_day
+2012,140,Kansas City Roos,2011-12-03,14.435090759999998,included_game_day
+2012,140,Kansas City Roos,2011-12-07,11.619131092999998,included_game_day
+2012,140,Kansas City Roos,2011-12-10,13.554353940759999,included_game_day
+2012,140,Kansas City Roos,2011-12-16,6.207548654760998,included_game_day
+2012,140,Kansas City Roos,2011-12-19,-13.807242226746201,included_game_day
+2012,140,Kansas City Roos,2011-12-22,-25.316912046033842,included_game_day
+2012,140,Kansas City Roos,2011-12-28,-26.580710275286517,included_game_day
+2012,140,Kansas City Roos,2011-12-30,-43.60884752222334,included_game_day
+2012,140,Kansas City Roos,2012-01-03,-46.197162154555016,included_game_day
+2012,140,Kansas City Roos,2012-01-07,-70.2364062781832,included_game_day
+2012,140,Kansas City Roos,2012-01-12,-55.299186959995,included_game_day
+2012,140,Kansas City Roos,2012-01-14,-66.54240998340657,included_game_day
+2012,140,Kansas City Roos,2012-01-19,-38.67911511160848,included_game_day
+2012,140,Kansas City Roos,2012-01-21,-40.330901820236235,included_game_day
+2012,140,Kansas City Roos,2012-01-26,-44.83707313087017,included_game_day
+2012,140,Kansas City Roos,2012-01-28,-37.51013563192137,included_game_day
+2012,140,Kansas City Roos,2012-02-04,-53.47261002495948,included_game_day
+2012,140,Kansas City Roos,2012-02-09,-36.60483775106377,included_game_day
+2012,140,Kansas City Roos,2012-02-11,-40.25301555925683,included_game_day
+2012,140,Kansas City Roos,2012-02-15,-40.36329407823922,included_game_day
+2012,140,Kansas City Roos,2012-02-18,-56.64796831574952,included_game_day
+2012,140,Kansas City Roos,2012-02-23,-85.6830805630157,included_game_day
+2012,140,Kansas City Roos,2012-02-25,-89.98714540137394,included_game_day
+2013,140,Kansas City Roos,2012-11-09,-39.0,included_game_day
+2013,140,Kansas City Roos,2012-11-17,-39.197,included_game_day
+2013,140,Kansas City Roos,2012-11-18,-29.0636,included_game_day
+2013,140,Kansas City Roos,2012-11-23,-65.50421,included_game_day
+2013,140,Kansas City Roos,2012-11-29,-51.381383,included_game_day
+2013,140,Kansas City Roos,2012-12-01,-53.594774799999996,included_game_day
+2013,140,Kansas City Roos,2012-12-05,-45.87515532,included_game_day
+2013,140,Kansas City Roos,2012-12-08,-77.67696561439999,included_game_day
+2013,140,Kansas City Roos,2012-12-16,-87.43559608793998,included_game_day
+2013,140,Kansas City Roos,2012-12-19,-87.9054736709393,included_game_day
+2013,140,Kansas City Roos,2012-12-22,-82.69704776014731,included_game_day
+2013,140,Kansas City Roos,2012-12-29,-73.71476598827292,included_game_day
+2013,140,Kansas City Roos,2012-12-31,-90.77478412954423,included_game_day
+2013,140,Kansas City Roos,2013-01-03,-100.5326958949075,included_game_day
+2013,140,Kansas City Roos,2013-01-05,-103.71170101954675,included_game_day
+2013,140,Kansas City Roos,2013-01-09,-115.42409622688481,included_game_day
+2013,140,Kansas City Roos,2013-01-12,-102.2932419747609,included_game_day
+2013,140,Kansas City Roos,2013-01-17,-103.98771468710895,included_game_day
+2013,140,Kansas City Roos,2013-01-19,-90.71582105448401,included_game_day
+2013,140,Kansas City Roos,2013-01-22,-100.71439401840632,included_game_day
+2013,140,Kansas City Roos,2013-01-26,-111.98540829155486,included_game_day
+2013,140,Kansas City Roos,2013-01-31,-127.3097613186068,included_game_day
+2013,140,Kansas City Roos,2013-02-02,-136.93504426405988,included_game_day
+2013,140,Kansas City Roos,2013-02-06,-152.8373393677478,included_game_day
+2013,140,Kansas City Roos,2013-02-09,-130.92695601607258,included_game_day
+2013,140,Kansas City Roos,2013-02-14,-131.4190846940723,included_game_day
+2013,140,Kansas City Roos,2013-02-16,-133.11427287467032,included_game_day
+2013,140,Kansas City Roos,2013-02-23,-128.3158720100175,included_game_day
+2013,140,Kansas City Roos,2013-02-28,-113.23270784274641,included_game_day
+2013,140,Kansas City Roos,2013-03-02,-111.58541371309718,included_game_day
+2013,140,Kansas City Roos,2013-03-10,-104.91826575934974,included_game_day
+2014,140,Kansas City Roos,2013-11-11,-18.7,included_game_day
+2014,140,Kansas City Roos,2013-11-13,-43.480000000000004,included_game_day
+2014,140,Kansas City Roos,2013-11-20,-29.925400000000003,included_game_day
+2014,140,Kansas City Roos,2013-11-25,-77.11876000000001,included_game_day
+2014,140,Kansas City Roos,2013-11-30,-75.10755400000001,included_game_day
+2014,140,Kansas City Roos,2013-12-04,-81.41078486,included_game_day
+2014,140,Kansas City Roos,2013-12-07,-67.9955290709,included_game_day
+2014,140,Kansas City Roos,2013-12-14,-71.719925214,included_game_day
+2014,140,Kansas City Roos,2013-12-18,-58.1864182977044,included_game_day
+2014,140,Kansas City Roos,2013-12-21,-61.8635448774906,included_game_day
+2014,140,Kansas City Roos,2013-12-28,-66.18161182850913,included_game_day
+2014,140,Kansas City Roos,2014-01-02,-53.46712617516755,included_game_day
+2014,140,Kansas City Roos,2014-01-04,-34.38945600617592,included_game_day
+2014,140,Kansas City Roos,2014-01-11,-45.227848782861635,included_game_day
+2014,140,Kansas City Roos,2014-01-16,-65.17419592657332,included_game_day
+2014,140,Kansas City Roos,2014-01-18,-53.3743129696235,included_game_day
+2014,140,Kansas City Roos,2014-01-23,-63.62210697232841,included_game_day
+2014,140,Kansas City Roos,2014-01-25,-56.41647137277831,included_game_day
+2014,140,Kansas City Roos,2014-01-29,-61.55930894216883,included_game_day
+2014,140,Kansas City Roos,2014-02-01,-80.82029193076106,included_game_day
+2014,140,Kansas City Roos,2014-02-08,-83.6342791592779,included_game_day
+2014,140,Kansas City Roos,2014-02-13,-89.69065839955582,included_game_day
+2014,140,Kansas City Roos,2014-02-15,-94.72984431578402,included_game_day
+2014,140,Kansas City Roos,2014-02-20,-93.98003674208526,included_game_day
+2014,140,Kansas City Roos,2014-02-22,-70.76502544617145,included_game_day
+2014,140,Kansas City Roos,2014-02-27,-57.9256349171137,included_game_day
+2014,140,Kansas City Roos,2014-03-06,-49.6604730400923,included_game_day
+2014,140,Kansas City Roos,2014-03-08,-58.55435474931475,included_game_day
+2014,140,Kansas City Roos,2014-03-13,-58.669460116692704,included_game_day
+2015,140,Kansas City Roos,2014-11-14,11.0,included_game_day
+2015,140,Kansas City Roos,2014-11-17,5.6,included_game_day
+2015,140,Kansas City Roos,2014-11-22,0.45999999999999996,included_game_day
+2015,140,Kansas City Roos,2014-11-23,-12.5486,included_game_day
+2015,140,Kansas City Roos,2014-11-26,-11.6774,included_game_day
+2015,140,Kansas City Roos,2014-12-03,-18.7258093,included_game_day
+2015,140,Kansas City Roos,2014-12-06,-35.125748650000006,included_game_day
+2015,140,Kansas City Roos,2014-12-09,-37.921984759000004,included_game_day
+2015,140,Kansas City Roos,2014-12-13,-30.959950233100002,included_game_day
+2015,140,Kansas City Roos,2014-12-20,-36.18430313253365,included_game_day
+2015,140,Kansas City Roos,2014-12-22,-57.94618930621452,included_game_day
+2015,140,Kansas City Roos,2014-12-28,-50.2273301163464,included_game_day
+2015,140,Kansas City Roos,2014-12-30,-53.552967203584345,included_game_day
+2015,140,Kansas City Roos,2015-01-03,-54.83138690134418,included_game_day
+2015,140,Kansas City Roos,2015-01-06,-61.566231279643276,included_game_day
+2015,140,Kansas City Roos,2015-01-10,-68.8465992264482,included_game_day
+2015,140,Kansas City Roos,2015-01-17,-73.85566425683996,included_game_day
+2015,140,Kansas City Roos,2015-01-22,-70.8798237958351,included_game_day
+2015,140,Kansas City Roos,2015-01-24,-49.155898331308336,included_game_day
+2015,140,Kansas City Roos,2015-01-29,-67.79651541982217,included_game_day
+2015,140,Kansas City Roos,2015-01-31,-58.00930936154704,included_game_day
+2015,140,Kansas City Roos,2015-02-05,-40.70756010686485,included_game_day
+2015,140,Kansas City Roos,2015-02-07,-50.55804405165021,included_game_day
+2015,140,Kansas City Roos,2015-02-14,-42.58575708809867,included_game_day
+2015,140,Kansas City Roos,2015-02-18,-60.44877791367946,included_game_day
+2015,140,Kansas City Roos,2015-02-21,-56.92942512798393,included_game_day
+2015,140,Kansas City Roos,2015-02-26,-43.93093673079672,included_game_day
+2015,140,Kansas City Roos,2015-02-28,-42.58189029074605,included_game_day
+2015,140,Kansas City Roos,2015-03-07,-50.462074673587935,included_game_day
+2015,140,Kansas City Roos,2015-03-12,-48.766222179861444,included_game_day
+2015,140,Kansas City Roos,2015-03-13,-54.19162654177764,included_game_day
+2016,140,Kansas City Roos,2015-11-13,-15.0,included_game_day
+2016,140,Kansas City Roos,2015-11-17,-16.9,included_game_day
+2016,140,Kansas City Roos,2015-11-21,-6.449999999999999,included_game_day
+2016,140,Kansas City Roos,2015-11-28,4.132431000000002,included_game_day
+2016,140,Kansas City Roos,2015-12-01,-0.41170209999999763,included_game_day
+2016,140,Kansas City Roos,2015-12-05,-10.118695416999998,included_game_day
+2016,140,Kansas City Roos,2015-12-08,-13.388614567299998,included_game_day
+2016,140,Kansas City Roos,2015-12-12,-8.301540720569998,included_game_day
+2016,140,Kansas City Roos,2015-12-22,-13.943330299784902,included_game_day
+2016,140,Kansas City Roos,2015-12-23,-27.56879174106502,included_game_day
+2016,140,Kansas City Roos,2015-12-29,-36.64154918800955,included_game_day
+2016,140,Kansas City Roos,2016-01-02,-41.678229883138094,included_game_day
+2016,140,Kansas City Roos,2016-01-07,-32.02116898949315,included_game_day
+2016,140,Kansas City Roos,2016-01-09,-40.449430885742665,included_game_day
+2016,140,Kansas City Roos,2016-01-14,-30.324113695796854,included_game_day
+2016,140,Kansas City Roos,2016-01-16,-42.24633849092455,included_game_day
+2016,140,Kansas City Roos,2016-01-21,-55.348044105168626,included_game_day
+2016,140,Kansas City Roos,2016-01-23,-53.67147506622463,included_game_day
+2016,140,Kansas City Roos,2016-01-30,-52.080322675727615,included_game_day
+2016,140,Kansas City Roos,2016-02-04,-50.63715407107036,included_game_day
+2016,140,Kansas City Roos,2016-02-06,-57.56512196266591,included_game_day
+2016,140,Kansas City Roos,2016-02-13,-50.27896977315381,included_game_day
+2016,140,Kansas City Roos,2016-02-18,-51.43752170327108,included_game_day
+2016,140,Kansas City Roos,2016-02-20,-58.92942843345091,included_game_day
+2016,140,Kansas City Roos,2016-02-27,-52.01381184566122,included_game_day
+2016,140,Kansas City Roos,2016-03-05,-28.411945618334094,included_game_day
+2016,140,Kansas City Roos,2016-03-10,-29.72805325189041,included_game_day
+2016,140,Kansas City Roos,2016-03-11,-33.69894653837287,included_game_day
+2017,140,Kansas City Roos,2016-11-11,-4.0,included_game_day
+2017,140,Kansas City Roos,2016-11-15,-1.4,included_game_day
+2017,140,Kansas City Roos,2016-11-19,3.07,included_game_day
+2017,140,Kansas City Roos,2016-11-20,14.907,included_game_day
+2017,140,Kansas City Roos,2016-11-21,-5.769000000000002,included_game_day
+2017,140,Kansas City Roos,2016-11-28,1.6958199999999977,included_game_day
+2017,140,Kansas City Roos,2016-11-30,-1.0395550900000021,included_game_day
+2017,140,Kansas City Roos,2016-12-03,-9.230370581,included_game_day
+2017,140,Kansas City Roos,2016-12-06,-38.2612900114,included_game_day
+2017,140,Kansas City Roos,2016-12-15,-45.286999755458,included_game_day
+2017,140,Kansas City Roos,2016-12-17,-63.498925090482196,included_game_day
+2017,140,Kansas City Roos,2016-12-20,-72.78283634778218,included_game_day
+2017,140,Kansas City Roos,2016-12-29,-81.15371904369276,included_game_day
+2017,140,Kansas City Roos,2017-01-02,-87.5377435032911,included_game_day
+2017,140,Kansas City Roos,2017-01-05,-91.38197885870589,included_game_day
+2017,140,Kansas City Roos,2017-01-07,-82.69435627994626,included_game_day
+2017,140,Kansas City Roos,2017-01-12,-60.805594683524845,included_game_day
+2017,140,Kansas City Roos,2017-01-14,-66.55483699081594,included_game_day
+2017,140,Kansas City Roos,2017-01-21,-75.35630152283413,included_game_day
+2017,140,Kansas City Roos,2017-01-26,-65.66628909855349,included_game_day
+2017,140,Kansas City Roos,2017-01-28,-70.71598407246266,included_game_day
+2017,140,Kansas City Roos,2017-02-04,-53.863453064940366,included_game_day
+2017,140,Kansas City Roos,2017-02-09,-47.52910315408824,included_game_day
+2017,140,Kansas City Roos,2017-02-11,-18.004804900707835,included_game_day
+2017,140,Kansas City Roos,2017-02-18,-17.403152395541188,included_game_day
+2017,140,Kansas City Roos,2017-02-23,-16.16518262372817,included_game_day
+2017,140,Kansas City Roos,2017-02-25,-17.089882376110054,included_game_day
+2017,140,Kansas City Roos,2017-03-04,-24.2048247728034,included_game_day
+2017,140,Kansas City Roos,2017-03-09,-29.741272353020943,included_game_day
+2017,140,Kansas City Roos,2017-03-10,-40.82813302127023,included_game_day
+2017,140,Kansas City Roos,2017-03-15,-29.9634404258557,included_game_day
+2017,140,Kansas City Roos,2017-03-20,-34.39893769596982,included_game_day
+2018,140,Kansas City Roos,2017-11-10,-49.0,included_game_day
+2018,140,Kansas City Roos,2017-11-14,-58.6,included_game_day
+2018,140,Kansas City Roos,2017-11-16,-65.64,included_game_day
+2018,140,Kansas City Roos,2017-11-20,-48.2192,included_game_day
+2018,140,Kansas City Roos,2017-11-21,-43.8303,included_game_day
+2018,140,Kansas City Roos,2017-11-22,-40.88973,included_game_day
+2018,140,Kansas City Roos,2017-11-26,-24.918402,included_game_day
+2018,140,Kansas City Roos,2017-11-30,-38.8360088,included_game_day
+2018,140,Kansas City Roos,2017-12-06,-36.14887141,included_game_day
+2018,140,Kansas City Roos,2017-12-09,-41.458145032999994,included_game_day
+2018,140,Kansas City Roos,2017-12-16,-44.21295735969999,included_game_day
+2018,140,Kansas City Roos,2017-12-19,-46.83113236376927,included_game_day
+2018,140,Kansas City Roos,2017-12-22,-67.04545912695426,included_game_day
+2018,140,Kansas City Roos,2018-01-02,-67.65182507243259,included_game_day
+2018,140,Kansas City Roos,2018-01-06,-79.26476269685399,included_game_day
+2018,140,Kansas City Roos,2018-01-11,-100.3789110249427,included_game_day
+2018,140,Kansas City Roos,2018-01-13,-91.23475870817583,included_game_day
+2018,140,Kansas City Roos,2018-01-18,-89.84588874945089,included_game_day
+2018,140,Kansas City Roos,2018-01-20,-93.27829698286577,included_game_day
+2018,140,Kansas City Roos,2018-01-27,-101.58398684732116,included_game_day
+2018,140,Kansas City Roos,2018-02-01,-98.79292009516932,included_game_day
+2018,140,Kansas City Roos,2018-02-03,-114.46565099719365,included_game_day
+2018,140,Kansas City Roos,2018-02-08,-100.89964027108404,included_game_day
+2018,140,Kansas City Roos,2018-02-10,-80.31730296281546,included_game_day
+2018,140,Kansas City Roos,2018-02-15,-87.9346236111925,included_game_day
+2018,140,Kansas City Roos,2018-02-22,-56.56394930478458,included_game_day
+2018,140,Kansas City Roos,2018-02-24,-65.30994689164609,included_game_day
+2018,140,Kansas City Roos,2018-03-03,-87.88503210660741,included_game_day
+2018,140,Kansas City Roos,2018-03-08,-77.09493700859473,included_game_day
+2019,140,Kansas City Roos,2018-11-06,-28.0,included_game_day
+2019,140,Kansas City Roos,2018-11-08,-36.2,included_game_day
+2019,140,Kansas City Roos,2018-11-11,-56.88,included_game_day
+2019,140,Kansas City Roos,2018-11-16,-62.632000000000005,included_game_day
+2019,140,Kansas City Roos,2018-11-17,-66.1392,included_game_day
+2019,140,Kansas City Roos,2018-11-21,-67.49528000000001,included_game_day
+2019,140,Kansas City Roos,2018-11-28,-82.96285060000001,included_game_day
+2019,140,Kansas City Roos,2018-12-01,-54.97568519000001,included_game_day
+2019,140,Kansas City Roos,2018-12-08,-44.5502653117,included_game_day
+2019,140,Kansas City Roos,2018-12-13,-52.342734244619,included_game_day
+2019,140,Kansas City Roos,2018-12-15,-41.7986395993572,included_game_day
+2019,140,Kansas City Roos,2018-12-19,-41.390617314544485,included_game_day
+2019,140,Kansas City Roos,2018-12-22,-11.123157132808238,included_game_day
+2019,140,Kansas City Roos,2018-12-27,-37.86834724391083,included_game_day
+2019,140,Kansas City Roos,2019-01-05,-47.897938281131324,included_game_day
+2019,140,Kansas City Roos,2019-01-10,-29.806487026078763,included_game_day
+2019,140,Kansas City Roos,2019-01-17,-23.07436592653808,included_game_day
+2019,140,Kansas City Roos,2019-01-19,-40.427799436932204,included_game_day
+2019,140,Kansas City Roos,2019-01-24,-42.50449568264158,included_game_day
+2019,140,Kansas City Roos,2019-01-26,-31.2311003639394,included_game_day
+2019,140,Kansas City Roos,2019-01-31,-31.54261355120578,included_game_day
+2019,140,Kansas City Roos,2019-02-02,-37.474531718788924,included_game_day
+2019,140,Kansas City Roos,2019-02-09,-40.50134095815849,included_game_day
+2019,140,Kansas City Roos,2019-02-14,-20.307768279706888,included_game_day
+2019,140,Kansas City Roos,2019-02-16,-14.14160468438244,included_game_day
+2019,140,Kansas City Roos,2019-02-21,-16.422137965200413,included_game_day
+2019,140,Kansas City Roos,2019-02-23,-17.35590828639876,included_game_day
+2019,140,Kansas City Roos,2019-02-28,-29.420775246432807,included_game_day
+2019,140,Kansas City Roos,2019-03-02,-33.988074460993744,included_game_day
+2019,140,Kansas City Roos,2019-03-09,-33.998590331544875,included_game_day
+2019,140,Kansas City Roos,2019-03-14,-29.920325264825852,included_game_day
+2020,140,Kansas City Roos,2019-11-09,-14.8,included_game_day
+2020,140,Kansas City Roos,2019-11-13,-27.957,included_game_day
+2020,140,Kansas City Roos,2019-11-15,-31.8913,included_game_day
+2020,140,Kansas City Roos,2019-11-22,-24.19047,included_game_day
+2020,140,Kansas City Roos,2019-11-23,-15.738823,included_game_day
+2020,140,Kansas City Roos,2019-11-24,-18.797627329999997,included_game_day
+2020,140,Kansas City Roos,2019-11-30,-21.571296101999998,included_game_day
+2020,140,Kansas City Roos,2019-12-04,-28.629475089799996,included_game_day
+2020,140,Kansas City Roos,2019-12-10,-35.67201028181999,included_game_day
+2020,140,Kansas City Roos,2019-12-14,-59.54911354046991,included_game_day
+2020,140,Kansas City Roos,2019-12-17,-36.09240978168649,included_game_day
+2020,140,Kansas City Roos,2019-12-22,-28.22312418427354,included_game_day
+2020,140,Kansas City Roos,2020-01-02,-28.869677771466613,included_game_day
+2020,140,Kansas City Roos,2020-01-04,-27.543309085473034,included_game_day
+2020,140,Kansas City Roos,2020-01-09,-39.57223455500703,included_game_day
+2020,140,Kansas City Roos,2020-01-11,-30.348864859798326,included_game_day
+2020,140,Kansas City Roos,2020-01-16,-43.92531061268885,included_game_day
+2020,140,Kansas City Roos,2020-01-19,-48.78814788511618,included_game_day
+2020,140,Kansas City Roos,2020-01-25,-28.331818240715762,included_game_day
+2020,140,Kansas City Roos,2020-02-01,-27.77536658902232,included_game_day
+2020,140,Kansas City Roos,2020-02-06,-45.85890800551672,included_game_day
+2020,140,Kansas City Roos,2020-02-08,-45.08899393676879,included_game_day
+2020,140,Kansas City Roos,2020-02-13,-44.8534816268292,included_game_day
+2020,140,Kansas City Roos,2020-02-15,-36.09569782874098,included_game_day
+2020,140,Kansas City Roos,2020-02-19,-29.4540063881686,included_game_day
+2020,140,Kansas City Roos,2020-02-29,-31.318010381473986,included_game_day
+2020,140,Kansas City Roos,2020-03-05,-17.665516988809223,included_game_day
+2021,140,Kansas City Roos,2020-11-28,-5.0,included_game_day
+2021,140,Kansas City Roos,2020-11-30,-8.54,included_game_day
+2021,140,Kansas City Roos,2020-12-10,-30.706519299999997,included_game_day
+2021,140,Kansas City Roos,2020-12-12,-29.113270369999995,included_game_day
+2021,140,Kansas City Roos,2020-12-23,-30.778640916999997,included_game_day
+2021,140,Kansas City Roos,2021-01-02,-37.13713517577,included_game_day
+2021,140,Kansas City Roos,2021-01-03,-11.223930582786,included_game_day
+2021,140,Kansas City Roos,2021-01-08,-14.16149779465926,included_game_day
+2021,140,Kansas City Roos,2021-01-09,-20.51155156415787,included_game_day
+2021,140,Kansas City Roos,2021-01-23,-17.909206460295348,included_game_day
+2021,140,Kansas City Roos,2021-01-24,-8.827330377205332,included_game_day
+2021,140,Kansas City Roos,2021-01-29,-13.544551289246542,included_game_day
+2021,140,Kansas City Roos,2021-01-30,-11.318328018879509,included_game_day
+2021,140,Kansas City Roos,2021-02-12,-13.197618766144986,included_game_day
+2021,140,Kansas City Roos,2021-02-13,-16.70105136395737,included_game_day
+2021,140,Kansas City Roos,2021-02-19,-18.05954964660357,included_game_day
+2021,140,Kansas City Roos,2021-02-20,-19.146348272720534,included_game_day
+2021,140,Kansas City Roos,2021-02-26,-29.667751788088637,included_game_day
+2021,140,Kansas City Roos,2021-02-27,-32.08487460038312,included_game_day
+2021,140,Kansas City Roos,2021-03-07,-31.555677596454537,included_game_day
+2022,140,Kansas City Roos,2021-11-09,-12.0,included_game_day
+2022,140,Kansas City Roos,2021-11-12,-36.8,included_game_day
+2022,140,Kansas City Roos,2021-11-15,-15.419999999999998,included_game_day
+2022,140,Kansas City Roos,2021-11-22,1.0505500000000012,included_game_day
+2022,140,Kansas City Roos,2021-11-27,-7.724295,included_game_day
+2022,140,Kansas City Roos,2021-11-28,-19.5391755,included_game_day
+2022,140,Kansas City Roos,2021-12-10,-17.2978292046,included_game_day
+2022,140,Kansas City Roos,2021-12-12,-18.6024795970287,included_game_day
+2022,140,Kansas City Roos,2021-12-20,-44.15159450581949,included_game_day
+2022,140,Kansas City Roos,2021-12-22,-29.349473204971424,included_game_day
+2022,140,Kansas City Roos,2022-01-10,-37.5846324597284,included_game_day
+2022,140,Kansas City Roos,2022-01-15,-42.66080852095003,included_game_day
+2022,140,Kansas City Roos,2022-01-17,-55.99975308270821,included_game_day
+2022,140,Kansas City Roos,2022-01-20,-52.39281588628348,included_game_day
+2022,140,Kansas City Roos,2022-01-22,-56.29529360236861,included_game_day
+2022,140,Kansas City Roos,2022-01-27,-39.881433419758295,included_game_day
+2022,140,Kansas City Roos,2022-01-29,-48.31918416872823,included_game_day
+2022,140,Kansas City Roos,2022-01-31,-31.566725635140457,included_game_day
+2022,140,Kansas City Roos,2022-02-03,-28.892344050172184,included_game_day
+2022,140,Kansas City Roos,2022-02-05,-19.51006761896099,included_game_day
+2022,140,Kansas City Roos,2022-02-08,-13.286314667513587,included_game_day
+2022,140,Kansas City Roos,2022-02-12,-10.50513439845971,included_game_day
+2022,140,Kansas City Roos,2022-02-17,0.2288263180472292,included_game_day
+2022,140,Kansas City Roos,2022-02-19,20.392843914635574,included_game_day
+2022,140,Kansas City Roos,2022-02-24,25.996121479307007,included_game_day
+2022,140,Kansas City Roos,2022-02-26,18.674171047770123,included_game_day
+2022,140,Kansas City Roos,2022-03-06,5.794448942979265,included_game_day
+2023,140,Kansas City Roos,2022-11-09,-8.0,included_game_day
+2023,140,Kansas City Roos,2022-11-11,-39.5,included_game_day
+2023,140,Kansas City Roos,2022-11-17,-44.69,included_game_day
+2023,140,Kansas City Roos,2022-11-21,-24.672099999999997,included_game_day
+2023,140,Kansas City Roos,2022-11-22,-15.437039999999996,included_game_day
+2023,140,Kansas City Roos,2022-11-23,-26.445783,included_game_day
+2023,140,Kansas City Roos,2022-11-26,-35.536650699999996,included_game_day
+2023,140,Kansas City Roos,2022-11-29,-46.870443169999994,included_game_day
+2023,140,Kansas City Roos,2022-12-03,-35.486689252999994,included_game_day
+2023,140,Kansas City Roos,2022-12-06,-46.595899745779995,included_game_day
+2023,140,Kansas City Roos,2022-12-10,-55.736809192745,included_game_day
+2023,140,Kansas City Roos,2022-12-19,-42.9902668648145,included_game_day
+2023,140,Kansas City Roos,2022-12-29,-39.745373012912395,included_game_day
+2023,140,Kansas City Roos,2022-12-31,-21.945030793694126,included_game_day
+2023,140,Kansas City Roos,2023-01-07,-12.901792464729448,included_game_day
+2023,140,Kansas City Roos,2023-01-12,5.551971502290586,included_game_day
+2023,140,Kansas City Roos,2023-01-14,-10.931137932390419,included_game_day
+2023,140,Kansas City Roos,2023-01-19,-32.294012345967,included_game_day
+2023,140,Kansas City Roos,2023-01-21,-26.277161935525935,included_game_day
+2023,140,Kansas City Roos,2023-01-26,-33.95736017080202,included_game_day
+2023,140,Kansas City Roos,2023-01-28,-32.28208534197002,included_game_day
+2023,140,Kansas City Roos,2023-01-30,-35.02448769678349,included_game_day
+2023,140,Kansas City Roos,2023-02-04,-49.78849140778458,included_game_day
+2023,140,Kansas City Roos,2023-02-09,-35.25287093979596,included_game_day
+2023,140,Kansas City Roos,2023-02-11,-60.76313336341982,included_game_day
+2023,140,Kansas City Roos,2023-02-16,-70.31072665584617,included_game_day
+2023,140,Kansas City Roos,2023-02-18,-78.21394574508325,included_game_day
+2023,140,Kansas City Roos,2023-02-23,-89.85559934182575,included_game_day
+2023,140,Kansas City Roos,2023-02-25,-121.87376267455573,included_game_day
+2023,140,Kansas City Roos,2023-03-03,-133.11269033685355,included_game_day
+2024,140,Kansas City Roos,2023-11-14,-33.379,included_game_day
+2024,140,Kansas City Roos,2023-11-17,-45.186099999999996,included_game_day
+2024,140,Kansas City Roos,2023-11-24,-50.78519,included_game_day
+2024,140,Kansas City Roos,2023-11-25,-58.423121,included_game_day
+2024,140,Kansas City Roos,2023-11-26,-59.8209445,included_game_day
+2024,140,Kansas City Roos,2023-11-30,-34.14493315,included_game_day
+2024,140,Kansas City Roos,2023-12-05,-39.9053490936,included_game_day
+2024,140,Kansas City Roos,2023-12-09,-34.011954873840004,included_game_day
+2024,140,Kansas City Roos,2023-12-16,-37.011929886456,included_game_day
+2024,140,Kansas City Roos,2023-12-20,-44.8234847038934,included_game_day
+2024,140,Kansas City Roos,2023-12-29,-28.13579198228216,included_game_day
+2024,140,Kansas City Roos,2023-12-31,-38.82010177624389,included_game_day
+2024,140,Kansas City Roos,2024-01-03,-43.76673795105057,included_game_day
+2024,140,Kansas City Roos,2024-01-06,-27.83719362782675,included_game_day
+2024,140,Kansas City Roos,2024-01-11,-33.7668155127807,included_game_day
+2024,140,Kansas City Roos,2024-01-13,-53.966997987758546,included_game_day
+2024,140,Kansas City Roos,2024-01-20,-44.69433507967248,included_game_day
+2024,140,Kansas City Roos,2024-01-25,-44.49954843660149,included_game_day
+2024,140,Kansas City Roos,2024-01-27,-26.694737860494527,included_game_day
+2024,140,Kansas City Roos,2024-02-01,-15.287152889071525,included_game_day
+2024,140,Kansas City Roos,2024-02-03,-29.75230080604092,included_game_day
+2024,140,Kansas City Roos,2024-02-08,-30.571271681526245,included_game_day
+2024,140,Kansas City Roos,2024-02-10,-4.8891623468741585,included_game_day
+2024,140,Kansas City Roos,2024-02-15,-2.717916988885955,included_game_day
+2024,140,Kansas City Roos,2024-02-22,-2.454170488801406,included_game_day
+2024,140,Kansas City Roos,2024-02-24,-3.5893044511299,included_game_day
+2024,140,Kansas City Roos,2024-02-29,9.591026003401767,included_game_day
+2024,140,Kansas City Roos,2024-03-03,22.981847255933758,included_game_day
+2024,140,Kansas City Roos,2024-03-09,11.85031246305709,included_game_day
+2025,140,Kansas City Roos,2024-11-11,-19.4,included_game_day
+2025,140,Kansas City Roos,2024-11-16,-32.1477,included_game_day
+2025,140,Kansas City Roos,2024-11-22,-37.572724,included_game_day
+2025,140,Kansas City Roos,2024-11-23,-33.929171600000004,included_game_day
+2025,140,Kansas City Roos,2024-11-30,-52.09930314,included_game_day
+2025,140,Kansas City Roos,2024-12-04,-58.661872225,included_game_day
+2025,140,Kansas City Roos,2024-12-07,-59.16126013980001,included_game_day
+2025,140,Kansas City Roos,2024-12-10,-52.47779765725001,included_game_day
+2025,140,Kansas City Roos,2024-12-14,-43.84411252614701,included_game_day
+2025,140,Kansas City Roos,2024-12-17,-25.18451620797712,included_game_day
+2025,140,Kansas City Roos,2024-12-21,-14.856158270884997,included_game_day
+2025,140,Kansas City Roos,2025-01-02,-3.810147856131719,included_game_day
+2025,140,Kansas City Roos,2025-01-04,9.464357225244822,included_game_day
+2025,140,Kansas City Roos,2025-01-08,-9.657201237679828,included_game_day
+2025,140,Kansas City Roos,2025-01-16,-6.648607086768056,included_game_day
+2025,140,Kansas City Roos,2025-01-18,-14.628645819829167,included_game_day
+2025,140,Kansas City Roos,2025-01-23,-12.60292338916048,included_game_day
+2025,140,Kansas City Roos,2025-01-25,-14.072562719349596,included_game_day
+2025,140,Kansas City Roos,2025-01-30,-20.88431894080071,included_game_day
+2025,140,Kansas City Roos,2025-02-01,-30.707485030046286,included_game_day
+2025,140,Kansas City Roos,2025-02-06,-33.21288756620287,included_game_day
+2025,140,Kansas City Roos,2025-02-08,-26.268396113377747,included_game_day
+2025,140,Kansas City Roos,2025-02-13,-31.100698894961717,included_game_day
+2025,140,Kansas City Roos,2025-02-19,-42.5009245198936,included_game_day
+2025,140,Kansas City Roos,2025-02-23,-35.50679640582838,included_game_day
+2025,140,Kansas City Roos,2025-02-27,-33.208258800150325,included_game_day
+2025,140,Kansas City Roos,2025-03-01,-30.88999601454487,included_game_day
+2025,140,Kansas City Roos,2025-03-05,-19.09534717546635,included_game_day
+2025,140,Kansas City Roos,2025-03-06,-23.29489219440465,included_game_day
+2026,140,Kansas City Roos,2025-11-07,-20.0,included_game_day
+2026,140,Kansas City Roos,2025-11-11,-34.51,included_game_day
+2026,140,Kansas City Roos,2025-11-15,-39.477,included_game_day
+2026,140,Kansas City Roos,2025-11-19,-65.636,included_game_day
+2026,140,Kansas City Roos,2025-11-24,-75.4740818,included_game_day
+2026,140,Kansas City Roos,2025-11-29,-87.21235431999999,included_game_day
+2026,140,Kansas City Roos,2025-12-03,-88.67139241799998,included_game_day
+2026,140,Kansas City Roos,2025-12-06,-106.78195562476998,included_game_day
+2026,140,Kansas City Roos,2025-12-10,-103.67355825634598,included_game_day
+2026,140,Kansas City Roos,2025-12-16,-105.8344990049095,included_game_day
+2026,140,Kansas City Roos,2025-12-18,-97.26908026544154,included_game_day
+2026,140,Kansas City Roos,2025-12-31,-102.22065722753459,included_game_day
+2026,140,Kansas City Roos,2026-01-03,-87.34646771172766,included_game_day
+2026,140,Kansas City Roos,2026-01-08,-103.98793830794375,included_game_day
+2026,140,Kansas City Roos,2026-01-10,-106.26348781072946,included_game_day
+2026,140,Kansas City Roos,2026-01-15,-113.68306362253038,included_game_day
+2026,140,Kansas City Roos,2026-01-17,-128.49856079853294,included_game_day
+2026,140,Kansas City Roos,2026-01-24,-140.95065440084568,included_game_day
+2026,140,Kansas City Roos,2026-01-28,-143.03947725708272,included_game_day
+2026,140,Kansas City Roos,2026-02-01,-157.39601991301515,included_game_day
+2026,140,Kansas City Roos,2026-02-04,-157.23855194896743,included_game_day
+2026,140,Kansas City Roos,2026-02-12,-160.1843869164716,included_game_day
+2026,140,Kansas City Roos,2026-02-14,-182.4955323524247,included_game_day
+2026,140,Kansas City Roos,2026-02-19,-181.7067654184946,included_game_day
+2026,140,Kansas City Roos,2026-02-21,-191.99651165911257,included_game_day
+2026,140,Kansas City Roos,2026-02-26,-192.22110921214957,included_game_day
+2026,140,Kansas City Roos,2026-02-28,-208.80464941363897,included_game_day
+2026,140,Kansas City Roos,2026-03-04,-217.0714815748305,included_game_day
+2027,140,Kansas City Roos,2026-11-02,-12.0,included_game_day
+2027,140,Kansas City Roos,2026-11-06,-6.8,included_game_day
+2027,140,Kansas City Roos,2026-11-09,-23.82,included_game_day
+2027,140,Kansas City Roos,2026-11-11,-6.047000000000001,included_game_day
+2027,140,Kansas City Roos,2026-11-12,-10.1023,included_game_day
+2027,140,Kansas City Roos,2026-11-20,-9.8845798,included_game_day

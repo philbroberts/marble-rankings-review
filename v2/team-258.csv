@@ -1,0 +1,1248 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,258,Virginia,1987-11-27,22.0,included_game_day
+1988,258,Virginia,1987-11-28,16.6,included_game_day
+1988,258,Virginia,1987-12-03,46.94,included_game_day
+1988,258,Virginia,1987-12-06,62.036,included_game_day
+1988,258,Virginia,1987-12-09,72.220355,included_game_day
+1988,258,Virginia,1987-12-12,59.8975101,included_game_day
+1988,258,Virginia,1987-12-18,54.17254739,included_game_day
+1988,258,Virginia,1987-12-19,43.2939370441,included_game_day
+1988,258,Virginia,1987-12-23,10.600511363689996,included_game_day
+1988,258,Virginia,1987-12-24,48.623074824420996,included_game_day
+1988,258,Virginia,1988-01-02,43.397419917925205,included_game_day
+1988,258,Virginia,1988-01-06,42.31879529165168,included_game_day
+1988,258,Virginia,1988-01-09,36.23762085988821,included_game_day
+1988,258,Virginia,1988-01-10,41.46057486615294,included_game_day
+1988,258,Virginia,1988-01-16,26.798510538200293,included_game_day
+1988,258,Virginia,1988-01-20,42.54911955572216,included_game_day
+1988,258,Virginia,1988-01-23,47.11464729042372,included_game_day
+1988,258,Virginia,1988-01-27,46.89787707017771,included_game_day
+1988,258,Virginia,1988-01-30,43.16820488708088,included_game_day
+1988,258,Virginia,1988-02-01,55.386668513492886,included_game_day
+1988,258,Virginia,1988-02-03,57.42356490226609,included_game_day
+1988,258,Virginia,1988-02-07,34.39491124966523,included_game_day
+1988,258,Virginia,1988-02-14,35.89071366057771,included_game_day
+1988,258,Virginia,1988-02-17,34.83521274965037,included_game_day
+1988,258,Virginia,1988-02-21,33.49965512181158,included_game_day
+1988,258,Virginia,1988-02-25,40.80915109016658,included_game_day
+1988,258,Virginia,1988-02-27,49.488329982625054,included_game_day
+1988,258,Virginia,1988-03-02,50.50513432599259,included_game_day
+1988,258,Virginia,1988-03-05,52.07766924280111,included_game_day
+1988,258,Virginia,1988-03-11,51.10212334396,included_game_day
+1989,258,Virginia,1988-11-25,23.0,included_game_day
+1989,258,Virginia,1988-11-26,35.1,included_game_day
+1989,258,Virginia,1988-11-30,41.050000000000004,included_game_day
+1989,258,Virginia,1988-12-03,42.115,included_game_day
+1989,258,Virginia,1988-12-06,59.2595,included_game_day
+1989,258,Virginia,1988-12-10,47.475731,included_game_day
+1989,258,Virginia,1988-12-19,44.027959790000004,included_game_day
+1989,258,Virginia,1988-12-21,42.031428463965,included_game_day
+1989,258,Virginia,1988-12-28,34.2019436061685,included_game_day
+1989,258,Virginia,1988-12-29,32.90067493000813,included_game_day
+1989,258,Virginia,1989-01-04,40.429877415516586,included_game_day
+1989,258,Virginia,1989-01-07,42.478472304481265,included_game_day
+1989,258,Virginia,1989-01-11,37.610334549558075,included_game_day
+1989,258,Virginia,1989-01-15,67.66963370313982,included_game_day
+1989,258,Virginia,1989-01-17,70.78792030876357,included_game_day
+1989,258,Virginia,1989-01-25,69.67374820510705,included_game_day
+1989,258,Virginia,1989-01-28,84.62119805365157,included_game_day
+1989,258,Virginia,1989-02-01,110.40710635950504,included_game_day
+1989,258,Virginia,1989-02-06,114.91210887579976,included_game_day
+1989,258,Virginia,1989-02-08,104.29615619017747,included_game_day
+1989,258,Virginia,1989-02-12,92.32522296874332,included_game_day
+1989,258,Virginia,1989-02-16,90.38393963816303,included_game_day
+1989,258,Virginia,1989-02-18,87.07828189726992,included_game_day
+1989,258,Virginia,1989-02-22,81.90151988525983,included_game_day
+1989,258,Virginia,1989-02-26,89.60672994934983,included_game_day
+1989,258,Virginia,1989-03-01,97.83340988861079,included_game_day
+1989,258,Virginia,1989-03-05,111.80521004099514,included_game_day
+1989,258,Virginia,1989-03-10,126.74791916433087,included_game_day
+1989,258,Virginia,1989-03-11,124.9591596467582,included_game_day
+1989,258,Virginia,1989-03-16,127.78013988694636,included_game_day
+1989,258,Virginia,1989-03-18,140.56271243673672,included_game_day
+1989,258,Virginia,1989-03-23,149.74491333488905,included_game_day
+1989,258,Virginia,1989-03-25,117.37326189529387,included_game_day
+1990,258,Virginia,1989-11-24,19.0,included_game_day
+1990,258,Virginia,1989-11-25,34.8,included_game_day
+1990,258,Virginia,1989-11-28,51.62,included_game_day
+1990,258,Virginia,1989-12-01,62.217999999999996,included_game_day
+1990,258,Virginia,1989-12-03,54.0672,included_game_day
+1990,258,Virginia,1989-12-07,60.586968,included_game_day
+1990,258,Virginia,1989-12-09,74.29607179999999,included_game_day
+1990,258,Virginia,1989-12-20,87.76633073349,included_game_day
+1990,258,Virginia,1989-12-21,95.66335151914099,included_game_day
+1990,258,Virginia,1990-01-06,98.52890755582754,included_game_day
+1990,258,Virginia,1990-01-09,88.36914624050041,included_game_day
+1990,258,Virginia,1990-01-13,67.7936263390192,included_game_day
+1990,258,Virginia,1990-01-15,64.85661746167789,included_game_day
+1990,258,Virginia,1990-01-17,60.423409200172564,included_game_day
+1990,258,Virginia,1990-01-21,63.09059642344485,included_game_day
+1990,258,Virginia,1990-01-24,74.79976087489567,included_game_day
+1990,258,Virginia,1990-01-28,71.89612972738324,included_game_day
+1990,258,Virginia,1990-01-31,53.496132515592784,included_game_day
+1990,258,Virginia,1990-02-03,62.584476761819786,included_game_day
+1990,258,Virginia,1990-02-08,73.19334242592129,included_game_day
+1990,258,Virginia,1990-02-10,70.8419637489886,included_game_day
+1990,258,Virginia,1990-02-14,71.69190840456278,included_game_day
+1990,258,Virginia,1990-02-17,58.18288480881676,included_game_day
+1990,258,Virginia,1990-02-22,70.93842361309216,included_game_day
+1990,258,Virginia,1990-02-25,80.35628861212435,included_game_day
+1990,258,Virginia,1990-03-01,72.3563085936303,included_game_day
+1990,258,Virginia,1990-03-03,63.21009947626496,included_game_day
+1990,258,Virginia,1990-03-09,75.31933172243609,included_game_day
+1990,258,Virginia,1990-03-10,82.65073279867511,included_game_day
+1990,258,Virginia,1990-03-11,81.3269198625084,included_game_day
+1990,258,Virginia,1990-03-16,90.16037995021576,included_game_day
+1990,258,Virginia,1990-03-18,94.0265406390579,included_game_day
+1991,258,Virginia,1990-11-23,3.0,included_game_day
+1991,258,Virginia,1990-11-24,8.9,included_game_day
+1991,258,Virginia,1990-11-26,-3.6899999999999995,included_game_day
+1991,258,Virginia,1990-11-30,-14.440999999999999,included_game_day
+1991,258,Virginia,1990-12-01,30.0031,included_game_day
+1991,258,Virginia,1990-12-03,34.89787,included_game_day
+1991,258,Virginia,1990-12-08,42.3913823,included_game_day
+1991,258,Virginia,1990-12-20,54.504604839369996,included_game_day
+1991,258,Virginia,1990-12-29,63.450264658998265,included_game_day
+1991,258,Virginia,1991-01-02,66.49524861555375,included_game_day
+1991,258,Virginia,1991-01-05,89.44718629490762,included_game_day
+1991,258,Virginia,1991-01-08,89.92221693884234,included_game_day
+1991,258,Virginia,1991-01-12,93.91898590661052,included_game_day
+1991,258,Virginia,1991-01-16,104.66693786069959,included_game_day
+1991,258,Virginia,1991-01-19,76.43694339605759,included_game_day
+1991,258,Virginia,1991-01-21,85.50255560423224,included_game_day
+1991,258,Virginia,1991-01-23,100.31076886548023,included_game_day
+1991,258,Virginia,1991-01-26,93.93492669269826,included_game_day
+1991,258,Virginia,1991-01-29,122.29489145084557,included_game_day
+1991,258,Virginia,1991-02-02,116.44852774976957,included_game_day
+1991,258,Virginia,1991-02-04,134.9395106831053,included_game_day
+1991,258,Virginia,1991-02-07,131.82350049648755,included_game_day
+1991,258,Virginia,1991-02-09,119.01944319625503,included_game_day
+1991,258,Virginia,1991-02-10,112.16487018646811,included_game_day
+1991,258,Virginia,1991-02-13,121.53756276579492,included_game_day
+1991,258,Virginia,1991-02-16,115.85060966603184,included_game_day
+1991,258,Virginia,1991-02-19,98.44843776456648,included_game_day
+1991,258,Virginia,1991-02-23,93.41069311887985,included_game_day
+1991,258,Virginia,1991-02-25,105.36532052914755,included_game_day
+1991,258,Virginia,1991-03-02,92.30547453390125,included_game_day
+1991,258,Virginia,1991-03-08,98.96355971543109,included_game_day
+1991,258,Virginia,1991-03-09,103.56132972646203,included_game_day
+1991,258,Virginia,1991-03-14,88.13160350193876,included_game_day
+1992,258,Virginia,1991-11-25,32.0,included_game_day
+1992,258,Virginia,1991-11-29,54.8,included_game_day
+1992,258,Virginia,1991-12-01,44.78,included_game_day
+1992,258,Virginia,1991-12-05,50.302,included_game_day
+1992,258,Virginia,1991-12-18,47.603651,included_game_day
+1992,258,Virginia,1991-12-21,37.503319399999995,included_game_day
+1992,258,Virginia,1991-12-28,43.998987070916996,included_game_day
+1992,258,Virginia,1991-12-29,38.140658062615294,included_game_day
+1992,258,Virginia,1992-01-02,35.136710942978766,included_game_day
+1992,258,Virginia,1992-01-04,52.88558070387729,included_game_day
+1992,258,Virginia,1992-01-08,64.03682835988866,included_game_day
+1992,258,Virginia,1992-01-14,68.89644608201381,included_game_day
+1992,258,Virginia,1992-01-18,87.23379021798743,included_game_day
+1992,258,Virginia,1992-01-19,87.66565122514393,included_game_day
+1992,258,Virginia,1992-01-22,81.93972411929701,included_game_day
+1992,258,Virginia,1992-01-25,67.61388690757109,included_game_day
+1992,258,Virginia,1992-01-29,65.77118569697369,included_game_day
+1992,258,Virginia,1992-02-01,73.4881604434498,included_game_day
+1992,258,Virginia,1992-02-05,69.85291608357261,included_game_day
+1992,258,Virginia,1992-02-13,66.64085844611981,included_game_day
+1992,258,Virginia,1992-02-15,65.27955736922448,included_game_day
+1992,258,Virginia,1992-02-19,82.98681173347069,included_game_day
+1992,258,Virginia,1992-02-22,75.07343919761091,included_game_day
+1992,258,Virginia,1992-02-26,78.65502281095627,included_game_day
+1992,258,Virginia,1992-02-29,91.6902352213735,included_game_day
+1992,258,Virginia,1992-03-03,87.11944343458535,included_game_day
+1992,258,Virginia,1992-03-07,89.81305198363344,included_game_day
+1992,258,Virginia,1992-03-13,78.8697778731445,included_game_day
+1992,258,Virginia,1992-03-18,85.38247472212672,included_game_day
+1992,258,Virginia,1992-03-23,104.66252666431947,included_game_day
+1992,258,Virginia,1992-03-27,103.60216823086037,included_game_day
+1992,258,Virginia,1992-03-30,109.11770994045462,included_game_day
+1992,258,Virginia,1992-04-01,111.57480004874029,included_game_day
+1993,258,Virginia,1992-12-01,9.0,included_game_day
+1993,258,Virginia,1992-12-05,28.82,included_game_day
+1993,258,Virginia,1992-12-09,42.885999999999996,included_game_day
+1993,258,Virginia,1992-12-12,68.49459999999999,included_game_day
+1993,258,Virginia,1992-12-22,63.451297999999994,included_game_day
+1993,258,Virginia,1992-12-29,68.24607579299999,included_game_day
+1993,258,Virginia,1993-01-02,83.84755389789999,included_game_day
+1993,258,Virginia,1993-01-06,83.94121148361603,included_game_day
+1993,258,Virginia,1993-01-09,93.05831792924373,included_game_day
+1993,258,Virginia,1993-01-13,103.89316688401946,included_game_day
+1993,258,Virginia,1993-01-17,124.48412959559138,included_game_day
+1993,258,Virginia,1993-01-20,113.82287957705812,included_game_day
+1993,258,Virginia,1993-01-23,99.46501922618816,included_game_day
+1993,258,Virginia,1993-01-25,101.52290562482838,included_game_day
+1993,258,Virginia,1993-01-27,97.0813439462429,included_game_day
+1993,258,Virginia,1993-01-30,79.51030605862505,included_game_day
+1993,258,Virginia,1993-02-04,80.89097566155715,included_game_day
+1993,258,Virginia,1993-02-08,74.81166120359391,included_game_day
+1993,258,Virginia,1993-02-11,68.23769450817213,included_game_day
+1993,258,Virginia,1993-02-13,73.79791427263508,included_game_day
+1993,258,Virginia,1993-02-18,84.50519623410223,included_game_day
+1993,258,Virginia,1993-02-21,71.69858195854312,included_game_day
+1993,258,Virginia,1993-02-23,64.51682482790906,included_game_day
+1993,258,Virginia,1993-02-27,73.58150782759759,included_game_day
+1993,258,Virginia,1993-03-03,73.66361230291328,included_game_day
+1993,258,Virginia,1993-03-06,80.49799680081394,included_game_day
+1993,258,Virginia,1993-03-12,88.8930385256452,included_game_day
+1993,258,Virginia,1993-03-13,86.15337238935165,included_game_day
+1993,258,Virginia,1993-03-19,96.03995468290847,included_game_day
+1993,258,Virginia,1993-03-21,115.24532757292003,included_game_day
+1993,258,Virginia,1993-03-26,107.56392596398426,included_game_day
+1994,258,Virginia,1993-11-29,-40.199,included_game_day
+1994,258,Virginia,1993-12-01,-27.7791,included_game_day
+1994,258,Virginia,1993-12-04,-17.74719,included_game_day
+1994,258,Virginia,1993-12-09,-17.719681,included_game_day
+1994,258,Virginia,1993-12-11,-11.774812900000002,included_game_day
+1994,258,Virginia,1993-12-22,-14.350204476870003,included_game_day
+1994,258,Virginia,1993-12-28,-1.9139443361830022,included_game_day
+1994,258,Virginia,1993-12-30,6.0141420836052975,included_game_day
+1994,258,Virginia,1994-01-03,30.742514324864768,included_game_day
+1994,258,Virginia,1994-01-06,53.644344892590155,included_game_day
+1994,258,Virginia,1994-01-09,64.9425259571451,included_game_day
+1994,258,Virginia,1994-01-12,74.20409357605416,included_game_day
+1994,258,Virginia,1994-01-15,66.0622408987654,included_game_day
+1994,258,Virginia,1994-01-19,77.31536899927902,included_game_day
+1994,258,Virginia,1994-01-23,76.36142356890647,included_game_day
+1994,258,Virginia,1994-01-26,82.31797874967643,included_game_day
+1994,258,Virginia,1994-02-02,89.3869820568904,included_game_day
+1994,258,Virginia,1994-02-06,51.08938586702991,included_game_day
+1994,258,Virginia,1994-02-09,33.48093862395318,included_game_day
+1994,258,Virginia,1994-02-12,40.007452133282975,included_game_day
+1994,258,Virginia,1994-02-16,20.381503636200048,included_game_day
+1994,258,Virginia,1994-02-19,22.863907358205893,included_game_day
+1994,258,Virginia,1994-02-22,26.56388048592156,included_game_day
+1994,258,Virginia,1994-02-26,10.743173324363848,included_game_day
+1994,258,Virginia,1994-03-02,27.085300592713423,included_game_day
+1994,258,Virginia,1994-03-05,35.06609512986971,included_game_day
+1994,258,Virginia,1994-03-11,46.45073075959474,included_game_day
+1994,258,Virginia,1994-03-12,61.756560093448826,included_game_day
+1994,258,Virginia,1994-03-13,63.31463035008462,included_game_day
+1994,258,Virginia,1994-03-18,66.6209442900955,included_game_day
+1994,258,Virginia,1994-03-20,65.61681052914344,included_game_day
+1995,258,Virginia,1994-11-16,0.0,included_game_day
+1995,258,Virginia,1994-11-17,-12.6,included_game_day
+1995,258,Virginia,1994-11-30,29.659999999999997,included_game_day
+1995,258,Virginia,1994-12-03,50.474,included_game_day
+1995,258,Virginia,1994-12-06,46.1479,included_game_day
+1995,258,Virginia,1994-12-08,98.53311,included_game_day
+1995,258,Virginia,1994-12-10,111.741799,included_game_day
+1995,258,Virginia,1994-12-19,116.9430299643,included_game_day
+1995,258,Virginia,1994-12-22,107.65187792027,included_game_day
+1995,258,Virginia,1995-01-04,111.61147625753699,included_game_day
+1995,258,Virginia,1995-01-07,127.88575443227847,included_game_day
+1995,258,Virginia,1995-01-11,146.50666425649092,included_game_day
+1995,258,Virginia,1995-01-14,148.40100361564365,included_game_day
+1995,258,Virginia,1995-01-18,147.81536198530472,included_game_day
+1995,258,Virginia,1995-01-22,142.35329390230416,included_game_day
+1995,258,Virginia,1995-01-25,133.28967958448868,included_game_day
+1995,258,Virginia,1995-01-28,133.9033823185952,included_game_day
+1995,258,Virginia,1995-02-01,131.4434411892059,included_game_day
+1995,258,Virginia,1995-02-04,134.71330711701296,included_game_day
+1995,258,Virginia,1995-02-08,134.91438593452872,included_game_day
+1995,258,Virginia,1995-02-11,148.04581211665243,included_game_day
+1995,258,Virginia,1995-02-12,141.4914584724532,included_game_day
+1995,258,Virginia,1995-02-15,140.36425635845987,included_game_day
+1995,258,Virginia,1995-02-19,143.07623385366634,included_game_day
+1995,258,Virginia,1995-02-22,165.0986698071404,included_game_day
+1995,258,Virginia,1995-02-26,162.3024082164233,included_game_day
+1995,258,Virginia,1995-02-28,157.1084924998438,included_game_day
+1995,258,Virginia,1995-03-05,179.4712511823912,included_game_day
+1995,258,Virginia,1995-03-10,179.60736037680599,included_game_day
+1995,258,Virginia,1995-03-11,169.3190162622226,included_game_day
+1995,258,Virginia,1995-03-16,184.96895155611722,included_game_day
+1995,258,Virginia,1995-03-18,185.40832306889902,included_game_day
+1995,258,Virginia,1995-03-24,195.92723621400162,included_game_day
+1995,258,Virginia,1995-03-26,181.87754799016125,included_game_day
+1996,258,Virginia,1995-11-24,16.0,included_game_day
+1996,258,Virginia,1995-11-27,39.7,included_game_day
+1996,258,Virginia,1995-11-29,30.830000000000002,included_game_day
+1996,258,Virginia,1995-12-05,16.45881,included_game_day
+1996,258,Virginia,1995-12-09,32.620592099999996,included_game_day
+1996,258,Virginia,1995-12-21,42.9251642693,included_game_day
+1996,258,Virginia,1995-12-28,36.36156828006,included_game_day
+1996,258,Virginia,1995-12-30,57.463532655053996,included_game_day
+1996,258,Virginia,1996-01-03,51.16070107244341,included_game_day
+1996,258,Virginia,1996-01-06,57.356133220964175,included_game_day
+1996,258,Virginia,1996-01-10,55.90180297220572,included_game_day
+1996,258,Virginia,1996-01-13,65.90246219419392,included_game_day
+1996,258,Virginia,1996-01-17,57.32683276041874,included_game_day
+1996,258,Virginia,1996-01-20,40.400499492622075,included_game_day
+1996,258,Virginia,1996-01-24,30.158223206696206,included_game_day
+1996,258,Virginia,1996-01-28,21.041833494259468,included_game_day
+1996,258,Virginia,1996-02-01,16.3659634315107,included_game_day
+1996,258,Virginia,1996-02-03,27.226184275964734,included_game_day
+1996,258,Virginia,1996-02-05,62.73578709689992,included_game_day
+1996,258,Virginia,1996-02-08,70.0820358057715,included_game_day
+1996,258,Virginia,1996-02-10,79.17157477097767,included_game_day
+1996,258,Virginia,1996-02-14,75.45117411776556,included_game_day
+1996,258,Virginia,1996-02-17,76.62616812013464,included_game_day
+1996,258,Virginia,1996-02-21,67.26796077076753,included_game_day
+1996,258,Virginia,1996-02-24,88.597645617777,included_game_day
+1996,258,Virginia,1996-03-02,79.39945037435886,included_game_day
+1996,258,Virginia,1996-03-08,77.31717126698719,included_game_day
+1997,258,Virginia,1996-11-25,23.0,included_game_day
+1997,258,Virginia,1996-11-26,27.7,included_game_day
+1997,258,Virginia,1996-11-27,13.982,included_game_day
+1997,258,Virginia,1996-11-30,31.3838,included_game_day
+1997,258,Virginia,1996-12-04,41.91662,included_game_day
+1997,258,Virginia,1996-12-07,29.414982000000002,included_game_day
+1997,258,Virginia,1996-12-18,38.510525900000005,included_game_day
+1997,258,Virginia,1996-12-21,47.452024915,included_game_day
+1997,258,Virginia,1996-12-23,48.9085695635,included_game_day
+1997,258,Virginia,1996-12-28,85.991217900144,included_game_day
+1997,258,Virginia,1996-12-30,86.17450259012959,included_game_day
+1997,258,Virginia,1997-01-02,77.55781056454578,included_game_day
+1997,258,Virginia,1997-01-04,68.92039126286184,included_game_day
+1997,258,Virginia,1997-01-08,81.65022155371945,included_game_day
+1997,258,Virginia,1997-01-11,91.89948736622979,included_game_day
+1997,258,Virginia,1997-01-15,100.7734922868307,included_game_day
+1997,258,Virginia,1997-01-18,93.46146854941645,included_game_day
+1997,258,Virginia,1997-01-22,88.64410947584281,included_game_day
+1997,258,Virginia,1997-01-28,89.19672232215589,included_game_day
+1997,258,Virginia,1997-01-30,93.40136798228293,included_game_day
+1997,258,Virginia,1997-02-01,106.33029872758969,included_game_day
+1997,258,Virginia,1997-02-06,90.52232200881573,included_game_day
+1997,258,Virginia,1997-02-08,76.99741191365972,included_game_day
+1997,258,Virginia,1997-02-11,85.44547341371432,included_game_day
+1997,258,Virginia,1997-02-15,87.00052433239576,included_game_day
+1997,258,Virginia,1997-02-19,98.10559214872723,included_game_day
+1997,258,Virginia,1997-02-22,92.8726674159708,included_game_day
+1997,258,Virginia,1997-02-25,87.45401406932389,included_game_day
+1997,258,Virginia,1997-03-02,94.23556902726332,included_game_day
+1997,258,Virginia,1997-03-07,97.06494351700047,included_game_day
+1997,258,Virginia,1997-03-13,88.29537853466857,included_game_day
+1998,258,Virginia,1997-11-16,-1.0,included_game_day
+1998,258,Virginia,1997-11-19,11.9,included_game_day
+1998,258,Virginia,1997-11-22,23.369999999999997,included_game_day
+1998,258,Virginia,1997-11-25,29.583,included_game_day
+1998,258,Virginia,1997-12-02,29.94965,included_game_day
+1998,258,Virginia,1997-12-06,3.0951305500000004,included_game_day
+1998,258,Virginia,1997-12-10,-2.6734640335,included_game_day
+1998,258,Virginia,1997-12-13,3.90343836985,included_game_day
+1998,258,Virginia,1997-12-22,34.86198491708,included_game_day
+1998,258,Virginia,1997-12-27,22.546687582738002,included_game_day
+1998,258,Virginia,1997-12-29,32.67846190780714,included_game_day
+1998,258,Virginia,1997-12-30,28.88914065520248,included_game_day
+1998,258,Virginia,1998-01-04,41.34948357593673,included_game_day
+1998,258,Virginia,1998-01-07,23.15659956279768,included_game_day
+1998,258,Virginia,1998-01-10,33.67074823223968,included_game_day
+1998,258,Virginia,1998-01-12,46.32908529675289,included_game_day
+1998,258,Virginia,1998-01-15,28.474243705897656,included_game_day
+1998,258,Virginia,1998-01-18,31.882015642710428,included_game_day
+1998,258,Virginia,1998-01-20,25.317565283223903,included_game_day
+1998,258,Virginia,1998-01-24,37.1308725992324,included_game_day
+1998,258,Virginia,1998-01-27,33.12815632474978,included_game_day
+1998,258,Virginia,1998-02-01,35.62891496297492,included_game_day
+1998,258,Virginia,1998-02-04,28.16894300481492,included_game_day
+1998,258,Virginia,1998-02-11,30.05231886248981,included_game_day
+1998,258,Virginia,1998-02-14,21.617064158344178,included_game_day
+1998,258,Virginia,1998-02-18,7.655322025393815,included_game_day
+1998,258,Virginia,1998-02-21,22.996941293899134,included_game_day
+1998,258,Virginia,1998-02-24,20.055814009141443,included_game_day
+1998,258,Virginia,1998-02-28,0.19999356506114552,included_game_day
+1998,258,Virginia,1998-03-05,3.232804003371168,included_game_day
+1999,258,Virginia,1998-11-13,19.0,included_game_day
+1999,258,Virginia,1998-11-20,17.788,included_game_day
+1999,258,Virginia,1998-11-21,8.2232,included_game_day
+1999,258,Virginia,1998-11-22,15.363980000000002,included_game_day
+1999,258,Virginia,1998-11-25,57.400521999999995,included_game_day
+1999,258,Virginia,1998-12-01,47.803469799999995,included_game_day
+1999,258,Virginia,1998-12-05,79.02647282,included_game_day
+1999,258,Virginia,1998-12-08,83.721212538,included_game_day
+1999,258,Virginia,1998-12-12,56.209077470340006,included_game_day
+1999,258,Virginia,1998-12-22,57.97422710935061,included_game_day
+1999,258,Virginia,1998-12-27,60.78834570950499,included_game_day
+1999,258,Virginia,1998-12-30,79.40138206843505,included_game_day
+1999,258,Virginia,1999-01-02,61.836754772246124,included_game_day
+1999,258,Virginia,1999-01-07,66.40243419900331,included_game_day
+1999,258,Virginia,1999-01-10,41.833031279715684,included_game_day
+1999,258,Virginia,1999-01-14,38.09631051021258,included_game_day
+1999,258,Virginia,1999-01-17,45.4505746224661,included_game_day
+1999,258,Virginia,1999-01-21,31.323323841561745,included_game_day
+1999,258,Virginia,1999-01-23,13.40408344218714,included_game_day
+1999,258,Virginia,1999-01-27,19.753914283046864,included_game_day
+1999,258,Virginia,1999-01-30,34.97518339070547,included_game_day
+1999,258,Virginia,1999-02-03,44.70572082411883,included_game_day
+1999,258,Virginia,1999-02-06,44.61453580987019,included_game_day
+1999,258,Virginia,1999-02-11,17.269588427525164,included_game_day
+1999,258,Virginia,1999-02-14,22.684127909525003,included_game_day
+1999,258,Virginia,1999-02-17,9.353965569126844,included_game_day
+1999,258,Virginia,1999-02-20,17.466812132190597,included_game_day
+1999,258,Virginia,1999-02-25,14.082359079964997,included_game_day
+1999,258,Virginia,1999-03-04,6.823469647761394,included_game_day
+2000,258,Virginia,1999-11-19,28.0,included_game_day
+2000,258,Virginia,1999-11-21,63.2,included_game_day
+2000,258,Virginia,1999-11-25,57.27,included_game_day
+2000,258,Virginia,1999-11-26,65.06400000000001,included_game_day
+2000,258,Virginia,1999-11-27,64.8776,included_game_day
+2000,258,Virginia,1999-11-30,53.53884,included_game_day
+2000,258,Virginia,1999-12-04,34.1756,included_game_day
+2000,258,Virginia,1999-12-08,58.619032020000006,included_game_day
+2000,258,Virginia,1999-12-10,99.927839758,included_game_day
+2000,258,Virginia,1999-12-21,98.85284026658107,included_game_day
+2000,258,Virginia,1999-12-28,97.89362605250214,included_game_day
+2000,258,Virginia,2000-01-02,121.72748927883697,included_game_day
+2000,258,Virginia,2000-01-05,114.24015620694122,included_game_day
+2000,258,Virginia,2000-01-08,121.14476767778545,included_game_day
+2000,258,Virginia,2000-01-12,117.32144347535015,included_game_day
+2000,258,Virginia,2000-01-15,112.70301052739227,included_game_day
+2000,258,Virginia,2000-01-18,108.56147835491468,included_game_day
+2000,258,Virginia,2000-01-24,105.22097334432779,included_game_day
+2000,258,Virginia,2000-01-26,98.53937611961601,included_game_day
+2000,258,Virginia,2000-01-30,107.13092105720129,included_game_day
+2000,258,Virginia,2000-02-02,98.40923938166627,included_game_day
+2000,258,Virginia,2000-02-05,92.0606237870362,included_game_day
+2000,258,Virginia,2000-02-09,65.18006433578174,included_game_day
+2000,258,Virginia,2000-02-12,69.30635973216593,included_game_day
+2000,258,Virginia,2000-02-15,74.56834074815967,included_game_day
+2000,258,Virginia,2000-02-20,96.91365353054513,included_game_day
+2000,258,Virginia,2000-02-26,82.87664280031075,included_game_day
+2000,258,Virginia,2000-03-02,72.45198582045987,included_game_day
+2000,258,Virginia,2000-03-04,78.8434242934328,included_game_day
+2000,258,Virginia,2000-03-10,66.25378753520309,included_game_day
+2000,258,Virginia,2000-03-15,55.55313899105595,included_game_day
+2001,258,Virginia,2000-11-17,43.0,included_game_day
+2001,258,Virginia,2000-11-20,73.1,included_game_day
+2001,258,Virginia,2000-11-24,86.39999999999999,included_game_day
+2001,258,Virginia,2000-11-29,93.63614999999999,included_game_day
+2001,258,Virginia,2000-12-04,103.42171099999999,included_game_day
+2001,258,Virginia,2000-12-06,110.0536229,included_game_day
+2001,258,Virginia,2000-12-19,123.23025807289,included_game_day
+2001,258,Virginia,2000-12-23,126.50379757217596,included_game_day
+2001,258,Virginia,2000-12-28,158.71142913238324,included_game_day
+2001,258,Virginia,2000-12-30,188.654000373367,included_game_day
+2001,258,Virginia,2001-01-02,167.10650311604417,included_game_day
+2001,258,Virginia,2001-01-06,162.7960272596883,included_game_day
+2001,258,Virginia,2001-01-09,146.9508412353589,included_game_day
+2001,258,Virginia,2001-01-13,113.92329339651238,included_game_day
+2001,258,Virginia,2001-01-16,114.76259207455766,included_game_day
+2001,258,Virginia,2001-01-20,118.40112215634315,included_game_day
+2001,258,Virginia,2001-01-24,117.75979556892223,included_game_day
+2001,258,Virginia,2001-01-27,138.626318008484,included_game_day
+2001,258,Virginia,2001-01-31,162.4938906229539,included_game_day
+2001,258,Virginia,2001-02-03,167.2829067001068,included_game_day
+2001,258,Virginia,2001-02-07,151.34531173249425,included_game_day
+2001,258,Virginia,2001-02-11,143.06469997508094,included_game_day
+2001,258,Virginia,2001-02-14,153.93116068726513,included_game_day
+2001,258,Virginia,2001-02-17,144.87808772729375,included_game_day
+2001,258,Virginia,2001-02-25,164.30671219488428,included_game_day
+2001,258,Virginia,2001-02-28,161.55901949072478,included_game_day
+2001,258,Virginia,2001-03-03,132.26891235739618,included_game_day
+2001,258,Virginia,2001-03-09,124.4290291849394,included_game_day
+2001,258,Virginia,2001-03-16,122.19459541047648,included_game_day
+2002,258,Virginia Cavaliers,2001-11-16,28.0,included_game_day
+2002,258,Virginia Cavaliers,2001-11-18,45.2,included_game_day
+2002,258,Virginia Cavaliers,2001-11-21,87.78,included_game_day
+2002,258,Virginia Cavaliers,2001-12-01,89.9940669,included_game_day
+2002,258,Virginia Cavaliers,2001-12-08,90.81001295,included_game_day
+2002,258,Virginia Cavaliers,2001-12-17,95.38190641689,included_game_day
+2002,258,Virginia Cavaliers,2001-12-20,105.60385078389541,included_game_day
+2002,258,Virginia Cavaliers,2001-12-23,106.66331400190838,included_game_day
+2002,258,Virginia Cavaliers,2001-12-30,127.44485940743894,included_game_day
+2002,258,Virginia Cavaliers,2002-01-05,114.22909971886634,included_game_day
+2002,258,Virginia Cavaliers,2002-01-08,94.79712903727817,included_game_day
+2002,258,Virginia Cavaliers,2002-01-12,90.85784457111578,included_game_day
+2002,258,Virginia Cavaliers,2002-01-15,105.6175895144751,included_game_day
+2002,258,Virginia Cavaliers,2002-01-20,115.68090583188021,included_game_day
+2002,258,Virginia Cavaliers,2002-01-22,109.80079634772987,included_game_day
+2002,258,Virginia Cavaliers,2002-01-24,123.12156256491542,included_game_day
+2002,258,Virginia Cavaliers,2002-01-27,119.52010356732013,included_game_day
+2002,258,Virginia Cavaliers,2002-01-31,115.32721664799509,included_game_day
+2002,258,Virginia Cavaliers,2002-02-03,110.31537925061043,included_game_day
+2002,258,Virginia Cavaliers,2002-02-06,94.78836395160624,included_game_day
+2002,258,Virginia Cavaliers,2002-02-12,89.08790169164067,included_game_day
+2002,258,Virginia Cavaliers,2002-02-17,71.6921359323052,included_game_day
+2002,258,Virginia Cavaliers,2002-02-20,59.594507236220515,included_game_day
+2002,258,Virginia Cavaliers,2002-02-23,55.286019348197144,included_game_day
+2002,258,Virginia Cavaliers,2002-02-28,77.06625960471982,included_game_day
+2002,258,Virginia Cavaliers,2002-03-03,72.07452778692964,included_game_day
+2002,258,Virginia Cavaliers,2002-03-08,57.26863945927483,included_game_day
+2002,258,Virginia Cavaliers,2002-03-13,54.21470190333953,included_game_day
+2003,258,Virginia Cavaliers,2002-11-22,1.0,included_game_day
+2003,258,Virginia Cavaliers,2002-11-26,19.3,included_game_day
+2003,258,Virginia Cavaliers,2002-11-27,14.886000000000001,included_game_day
+2003,258,Virginia Cavaliers,2002-12-04,10.8815,included_game_day
+2003,258,Virginia Cavaliers,2002-12-17,14.4882995,included_game_day
+2003,258,Virginia Cavaliers,2002-12-19,13.016158984,included_game_day
+2003,258,Virginia Cavaliers,2002-12-21,22.2715321515,included_game_day
+2003,258,Virginia Cavaliers,2002-12-28,33.26451049727,included_game_day
+2003,258,Virginia Cavaliers,2002-12-30,40.7714792116158,included_game_day
+2003,258,Virginia Cavaliers,2003-01-02,53.83476779544932,included_game_day
+2003,258,Virginia Cavaliers,2003-01-05,47.19826643210279,included_game_day
+2003,258,Virginia Cavaliers,2003-01-11,53.20543060863858,included_game_day
+2003,258,Virginia Cavaliers,2003-01-15,54.56306941067381,included_game_day
+2003,258,Virginia Cavaliers,2003-01-18,55.91034224419491,included_game_day
+2003,258,Virginia Cavaliers,2003-01-21,35.67974514214243,included_game_day
+2003,258,Virginia Cavaliers,2003-01-23,52.65162850228254,included_game_day
+2003,258,Virginia Cavaliers,2003-01-29,60.36282494986686,included_game_day
+2003,258,Virginia Cavaliers,2003-02-01,45.22180346559533,included_game_day
+2003,258,Virginia Cavaliers,2003-02-06,68.37464316339496,included_game_day
+2003,258,Virginia Cavaliers,2003-02-09,69.22126362926191,included_game_day
+2003,258,Virginia Cavaliers,2003-02-12,55.183629210518916,included_game_day
+2003,258,Virginia Cavaliers,2003-02-15,39.02073532806887,included_game_day
+2003,258,Virginia Cavaliers,2003-02-18,24.974748269266172,included_game_day
+2003,258,Virginia Cavaliers,2003-02-23,34.489197907816134,included_game_day
+2003,258,Virginia Cavaliers,2003-02-26,24.70849502594108,included_game_day
+2003,258,Virginia Cavaliers,2003-03-01,14.65523356790202,included_game_day
+2003,258,Virginia Cavaliers,2003-03-05,-1.0519463647592389,included_game_day
+2003,258,Virginia Cavaliers,2003-03-09,17.216664836051365,included_game_day
+2003,258,Virginia Cavaliers,2003-03-14,24.6078760791253,included_game_day
+2003,258,Virginia Cavaliers,2003-03-19,39.393310422295386,included_game_day
+2003,258,Virginia Cavaliers,2003-03-24,34.04283474256613,included_game_day
+2004,258,Virginia Cavaliers,2003-11-23,3.5999999999999996,included_game_day
+2004,258,Virginia Cavaliers,2003-11-28,17.589,included_game_day
+2004,258,Virginia Cavaliers,2003-11-30,24.76966,included_game_day
+2004,258,Virginia Cavaliers,2003-12-03,27.545693999999997,included_game_day
+2004,258,Virginia Cavaliers,2003-12-05,45.8941246,included_game_day
+2004,258,Virginia Cavaliers,2003-12-16,45.448676389999996,included_game_day
+2004,258,Virginia Cavaliers,2003-12-19,52.10397387894999,included_game_day
+2004,258,Virginia Cavaliers,2003-12-22,59.236593088205,included_game_day
+2004,258,Virginia Cavaliers,2003-12-28,47.0277376798745,included_game_day
+2004,258,Virginia Cavaliers,2003-12-31,56.26010846034505,included_game_day
+2004,258,Virginia Cavaliers,2004-01-03,36.838657619110045,included_game_day
+2004,258,Virginia Cavaliers,2004-01-05,41.335694955856894,included_game_day
+2004,258,Virginia Cavaliers,2004-01-11,30.026656583163785,included_game_day
+2004,258,Virginia Cavaliers,2004-01-15,26.70405430380316,included_game_day
+2004,258,Virginia Cavaliers,2004-01-18,37.48275864563877,included_game_day
+2004,258,Virginia Cavaliers,2004-01-20,43.69259172201231,included_game_day
+2004,258,Virginia Cavaliers,2004-01-24,36.1059362094757,included_game_day
+2004,258,Virginia Cavaliers,2004-01-31,33.395350576801306,included_game_day
+2004,258,Virginia Cavaliers,2004-02-04,33.05298517083608,included_game_day
+2004,258,Virginia Cavaliers,2004-02-07,24.40070183678779,included_game_day
+2004,258,Virginia Cavaliers,2004-02-11,27.7833695298283,included_game_day
+2004,258,Virginia Cavaliers,2004-02-14,37.854228639413606,included_game_day
+2004,258,Virginia Cavaliers,2004-02-17,26.441914319806525,included_game_day
+2004,258,Virginia Cavaliers,2004-02-21,32.92523347694869,included_game_day
+2004,258,Virginia Cavaliers,2004-02-24,41.399515874021986,included_game_day
+2004,258,Virginia Cavaliers,2004-03-02,50.312446132321725,included_game_day
+2004,258,Virginia Cavaliers,2004-03-07,48.68416527125923,included_game_day
+2004,258,Virginia Cavaliers,2004-03-11,44.917984343832046,included_game_day
+2004,258,Virginia Cavaliers,2004-03-12,51.751527420860846,included_game_day
+2004,258,Virginia Cavaliers,2004-03-17,64.11041892882463,included_game_day
+2004,258,Virginia Cavaliers,2004-03-20,52.07278977336753,included_game_day
+2005,258,Virginia Cavaliers,2004-11-19,29.26,included_game_day
+2005,258,Virginia Cavaliers,2004-11-21,43.544,included_game_day
+2005,258,Virginia Cavaliers,2004-11-24,53.1896,included_game_day
+2005,258,Virginia Cavaliers,2004-11-28,73.57169999999999,included_game_day
+2005,258,Virginia Cavaliers,2004-12-01,72.26933,included_game_day
+2005,258,Virginia Cavaliers,2004-12-03,66.32070397,included_game_day
+2005,258,Virginia Cavaliers,2004-12-06,62.069870572999996,included_game_day
+2005,258,Virginia Cavaliers,2004-12-08,62.7136337057,included_game_day
+2005,258,Virginia Cavaliers,2004-12-23,58.98727361261581,included_game_day
+2005,258,Virginia Cavaliers,2005-01-02,40.19770318786321,included_game_day
+2005,258,Virginia Cavaliers,2005-01-05,41.33854062298897,included_game_day
+2005,258,Virginia Cavaliers,2005-01-08,31.616848337200526,included_game_day
+2005,258,Virginia Cavaliers,2005-01-12,21.173921766111192,included_game_day
+2005,258,Virginia Cavaliers,2005-01-16,22.6455074692652,included_game_day
+2005,258,Virginia Cavaliers,2005-01-19,19.21273872573525,included_game_day
+2005,258,Virginia Cavaliers,2005-01-22,21.28899217584109,included_game_day
+2005,258,Virginia Cavaliers,2005-01-27,20.595974568362386,included_game_day
+2005,258,Virginia Cavaliers,2005-01-29,4.307103088963146,included_game_day
+2005,258,Virginia Cavaliers,2005-02-02,-9.018208305134713,included_game_day
+2005,258,Virginia Cavaliers,2005-02-05,5.727685475402819,included_game_day
+2005,258,Virginia Cavaliers,2005-02-09,9.279066509752377,included_game_day
+2005,258,Virginia Cavaliers,2005-02-12,12.729032114251341,included_game_day
+2005,258,Virginia Cavaliers,2005-02-16,15.311945580248752,included_game_day
+2005,258,Virginia Cavaliers,2005-02-19,16.594328150771965,included_game_day
+2005,258,Virginia Cavaliers,2005-02-27,13.795630757644147,included_game_day
+2005,258,Virginia Cavaliers,2005-03-02,10.96777554531115,included_game_day
+2005,258,Virginia Cavaliers,2005-03-06,9.631469209936508,included_game_day
+2005,258,Virginia Cavaliers,2005-03-10,18.09569997577882,included_game_day
+2005,258,Virginia Cavaliers,2005-03-11,25.851841581050103,included_game_day
+2006,258,Virginia Cavaliers,2005-11-18,32.0,included_game_day
+2006,258,Virginia Cavaliers,2005-11-22,47.9,included_game_day
+2006,258,Virginia Cavaliers,2005-11-27,16.470542,included_game_day
+2006,258,Virginia Cavaliers,2005-11-30,27.5831078,included_game_day
+2006,258,Virginia Cavaliers,2005-12-04,19.19657604,included_game_day
+2006,258,Virginia Cavaliers,2005-12-07,9.3656495,included_game_day
+2006,258,Virginia Cavaliers,2005-12-17,5.22935764668,included_game_day
+2006,258,Virginia Cavaliers,2005-12-23,41.358119706452,included_game_day
+2006,258,Virginia Cavaliers,2005-12-28,40.8391909411224,included_game_day
+2006,258,Virginia Cavaliers,2005-12-31,41.10497510554444,included_game_day
+2006,258,Virginia Cavaliers,2006-01-02,33.45235340335156,included_game_day
+2006,258,Virginia Cavaliers,2006-01-07,40.395068683210525,included_game_day
+2006,258,Virginia Cavaliers,2006-01-11,38.5152954517804,included_game_day
+2006,258,Virginia Cavaliers,2006-01-15,50.1504842693957,included_game_day
+2006,258,Virginia Cavaliers,2006-01-19,55.99387571735663,included_game_day
+2006,258,Virginia Cavaliers,2006-01-24,76.38691145432398,included_game_day
+2006,258,Virginia Cavaliers,2006-01-28,72.13853465677514,included_game_day
+2006,258,Virginia Cavaliers,2006-02-01,77.2209431593192,included_game_day
+2006,258,Virginia Cavaliers,2006-02-04,73.75695648753997,included_game_day
+2006,258,Virginia Cavaliers,2006-02-07,65.48534852602116,included_game_day
+2006,258,Virginia Cavaliers,2006-02-11,66.35652358020765,included_game_day
+2006,258,Virginia Cavaliers,2006-02-15,80.95429092612204,included_game_day
+2006,258,Virginia Cavaliers,2006-02-18,69.50618413296506,included_game_day
+2006,258,Virginia Cavaliers,2006-02-21,84.02867252922826,included_game_day
+2006,258,Virginia Cavaliers,2006-02-25,57.891852307072305,included_game_day
+2006,258,Virginia Cavaliers,2006-03-01,27.162550292080823,included_game_day
+2006,258,Virginia Cavaliers,2006-03-05,25.61155331405943,included_game_day
+2006,258,Virginia Cavaliers,2006-03-09,30.449901046227424,included_game_day
+2006,258,Virginia Cavaliers,2006-03-10,39.32119970415067,included_game_day
+2006,258,Virginia Cavaliers,2006-03-14,26.02818329969129,included_game_day
+2007,258,Virginia Cavaliers,2006-11-12,0.0,included_game_day
+2007,258,Virginia Cavaliers,2006-11-19,13.64,included_game_day
+2007,258,Virginia Cavaliers,2006-11-22,24.8891,included_game_day
+2007,258,Virginia Cavaliers,2006-11-26,57.75417,included_game_day
+2007,258,Virginia Cavaliers,2006-11-29,57.3985952,included_game_day
+2007,258,Virginia Cavaliers,2006-12-03,57.053867180000005,included_game_day
+2007,258,Virginia Cavaliers,2006-12-16,64.79899713359,included_game_day
+2007,258,Virginia Cavaliers,2006-12-19,42.508564522601496,included_game_day
+2007,258,Virginia Cavaliers,2006-12-20,20.323941683863474,included_game_day
+2007,258,Virginia Cavaliers,2006-12-28,38.3891779483871,included_game_day
+2007,258,Virginia Cavaliers,2007-01-03,60.092542081843156,included_game_day
+2007,258,Virginia Cavaliers,2007-01-07,53.46977387635423,included_game_day
+2007,258,Virginia Cavaliers,2007-01-10,63.247432266659914,included_game_day
+2007,258,Virginia Cavaliers,2007-01-13,63.699515336456436,included_game_day
+2007,258,Virginia Cavaliers,2007-01-16,79.60118476597663,included_game_day
+2007,258,Virginia Cavaliers,2007-01-21,80.81042562076094,included_game_day
+2007,258,Virginia Cavaliers,2007-01-24,90.82324484347104,included_game_day
+2007,258,Virginia Cavaliers,2007-01-28,99.04350981644748,included_game_day
+2007,258,Virginia Cavaliers,2007-02-01,102.77701684503239,included_game_day
+2007,258,Virginia Cavaliers,2007-02-03,99.42655733740135,included_game_day
+2007,258,Virginia Cavaliers,2007-02-06,107.94643210959262,included_game_day
+2007,258,Virginia Cavaliers,2007-02-10,81.4872801508842,included_game_day
+2007,258,Virginia Cavaliers,2007-02-13,97.62591921412147,included_game_day
+2007,258,Virginia Cavaliers,2007-02-17,97.98183734958839,included_game_day
+2007,258,Virginia Cavaliers,2007-02-21,84.29671280288724,included_game_day
+2007,258,Virginia Cavaliers,2007-02-24,91.25056670482998,included_game_day
+2007,258,Virginia Cavaliers,2007-03-01,103.72484923059827,included_game_day
+2007,258,Virginia Cavaliers,2007-03-03,91.61921961234019,included_game_day
+2007,258,Virginia Cavaliers,2007-03-09,77.21275992279719,included_game_day
+2007,258,Virginia Cavaliers,2007-03-16,99.39822962020077,included_game_day
+2007,258,Virginia Cavaliers,2007-03-18,95.91049481603322,included_game_day
+2008,258,Virginia Cavaliers,2007-11-11,14.6,included_game_day
+2008,258,Virginia Cavaliers,2007-11-14,42.44,included_game_day
+2008,258,Virginia Cavaliers,2007-11-17,44.596,included_game_day
+2008,258,Virginia Cavaliers,2007-11-20,55.6284,included_game_day
+2008,258,Virginia Cavaliers,2007-11-23,60.7228,included_game_day
+2008,258,Virginia Cavaliers,2007-11-24,42.54803,included_game_day
+2008,258,Virginia Cavaliers,2007-11-27,79.113787,included_game_day
+2008,258,Virginia Cavaliers,2007-12-05,68.211300491,included_game_day
+2008,258,Virginia Cavaliers,2007-12-07,65.78259363504,included_game_day
+2008,258,Virginia Cavaliers,2007-12-19,74.18039700349141,included_game_day
+2008,258,Virginia Cavaliers,2007-12-22,92.01660547282806,included_game_day
+2008,258,Virginia Cavaliers,2007-12-30,81.27079571962372,included_game_day
+2008,258,Virginia Cavaliers,2008-01-03,50.911720644302875,included_game_day
+2008,258,Virginia Cavaliers,2008-01-13,42.85997871970089,included_game_day
+2008,258,Virginia Cavaliers,2008-01-16,42.23894554519924,included_game_day
+2008,258,Virginia Cavaliers,2008-01-23,43.8133603584555,included_game_day
+2008,258,Virginia Cavaliers,2008-01-27,32.254095611850154,included_game_day
+2008,258,Virginia Cavaliers,2008-01-30,29.58461868829278,included_game_day
+2008,258,Virginia Cavaliers,2008-02-02,30.65886625296649,included_game_day
+2008,258,Virginia Cavaliers,2008-02-07,6.186176470172722,included_game_day
+2008,258,Virginia Cavaliers,2008-02-09,-3.340261706136701,included_game_day
+2008,258,Virginia Cavaliers,2008-02-12,12.141938990029011,included_game_day
+2008,258,Virginia Cavaliers,2008-02-17,24.904123327013615,included_game_day
+2008,258,Virginia Cavaliers,2008-02-24,39.26161510386973,included_game_day
+2008,258,Virginia Cavaliers,2008-03-01,45.3184244492009,included_game_day
+2008,258,Virginia Cavaliers,2008-03-03,52.17903302292578,included_game_day
+2008,258,Virginia Cavaliers,2008-03-05,43.6531943994853,included_game_day
+2008,258,Virginia Cavaliers,2008-03-09,59.05383282283823,included_game_day
+2008,258,Virginia Cavaliers,2008-03-13,42.5711420983083,included_game_day
+2008,258,Virginia Cavaliers,2008-03-18,40.7520500823998,included_game_day
+2008,258,Virginia Cavaliers,2008-03-24,43.86783419934824,included_game_day
+2008,258,Virginia Cavaliers,2008-03-26,34.41960950255185,included_game_day
+2009,258,Virginia Cavaliers,2008-11-16,8.1,included_game_day
+2009,258,Virginia Cavaliers,2008-11-19,7.39,included_game_day
+2009,258,Virginia Cavaliers,2008-11-21,5.651,included_game_day
+2009,258,Virginia Cavaliers,2008-11-25,-4.414100000000001,included_game_day
+2009,258,Virginia Cavaliers,2008-11-28,-0.016469999999999985,included_game_day
+2009,258,Virginia Cavaliers,2008-12-02,-3.1335380000000006,included_game_day
+2009,258,Virginia Cavaliers,2008-12-17,17.214642622877598,included_game_day
+2009,258,Virginia Cavaliers,2008-12-20,12.421165945189838,included_game_day
+2009,258,Virginia Cavaliers,2008-12-23,31.261835695440855,included_game_day
+2009,258,Virginia Cavaliers,2008-12-28,40.38114192044993,included_game_day
+2009,258,Virginia Cavaliers,2009-01-03,25.209632392928174,included_game_day
+2009,258,Virginia Cavaliers,2009-01-06,40.373547914834965,included_game_day
+2009,258,Virginia Cavaliers,2009-01-10,41.378233616814484,included_game_day
+2009,258,Virginia Cavaliers,2009-01-15,30.602061216143987,included_game_day
+2009,258,Virginia Cavaliers,2009-01-20,31.540860254355522,included_game_day
+2009,258,Virginia Cavaliers,2009-01-24,22.499508115011153,included_game_day
+2009,258,Virginia Cavaliers,2009-02-01,18.611577832059762,included_game_day
+2009,258,Virginia Cavaliers,2009-02-04,11.055026080342293,included_game_day
+2009,258,Virginia Cavaliers,2009-02-07,18.72693634779722,included_game_day
+2009,258,Virginia Cavaliers,2009-02-10,19.29923235572762,included_game_day
+2009,258,Virginia Cavaliers,2009-02-15,33.09412303761608,included_game_day
+2009,258,Virginia Cavaliers,2009-02-18,48.10298904653796,included_game_day
+2009,258,Virginia Cavaliers,2009-02-21,49.994239567730716,included_game_day
+2009,258,Virginia Cavaliers,2009-02-26,45.95938209657018,included_game_day
+2009,258,Virginia Cavaliers,2009-02-28,41.52616168722463,included_game_day
+2009,258,Virginia Cavaliers,2009-03-03,34.957027541398084,included_game_day
+2009,258,Virginia Cavaliers,2009-03-07,40.42138319061733,included_game_day
+2009,258,Virginia Cavaliers,2009-03-12,30.017509692536734,included_game_day
+2010,258,Virginia Cavaliers,2009-11-13,10.0,included_game_day
+2010,258,Virginia Cavaliers,2009-11-16,-4.1,included_game_day
+2010,258,Virginia Cavaliers,2009-11-19,28.949999999999996,included_game_day
+2010,258,Virginia Cavaliers,2009-11-21,43.06699999999999,included_game_day
+2010,258,Virginia Cavaliers,2009-11-24,35.5684,included_game_day
+2010,258,Virginia Cavaliers,2009-11-25,41.95382,included_game_day
+2010,258,Virginia Cavaliers,2009-11-30,32.4152152,included_game_day
+2010,258,Virginia Cavaliers,2009-12-07,35.161851325,included_game_day
+2010,258,Virginia Cavaliers,2009-12-21,50.63817724184031,included_game_day
+2010,258,Virginia Cavaliers,2009-12-23,64.78046454566834,included_game_day
+2010,258,Virginia Cavaliers,2009-12-30,74.50594286431102,included_game_day
+2010,258,Virginia Cavaliers,2010-01-05,70.05301555847649,included_game_day
+2010,258,Virginia Cavaliers,2010-01-09,79.61008323825394,included_game_day
+2010,258,Virginia Cavaliers,2010-01-13,86.71585800770858,included_game_day
+2010,258,Virginia Cavaliers,2010-01-16,103.50606167467515,included_game_day
+2010,258,Virginia Cavaliers,2010-01-18,89.24076555490024,included_game_day
+2010,258,Virginia Cavaliers,2010-01-23,81.81590840378645,included_game_day
+2010,258,Virginia Cavaliers,2010-01-28,77.08823143320927,included_game_day
+2010,258,Virginia Cavaliers,2010-01-31,97.02089450925702,included_game_day
+2010,258,Virginia Cavaliers,2010-02-03,103.41516728028155,included_game_day
+2010,258,Virginia Cavaliers,2010-02-06,96.92696666719658,included_game_day
+2010,258,Virginia Cavaliers,2010-02-13,97.84985931475711,included_game_day
+2010,258,Virginia Cavaliers,2010-02-15,87.59327858129159,included_game_day
+2010,258,Virginia Cavaliers,2010-02-17,68.35282251102778,included_game_day
+2010,258,Virginia Cavaliers,2010-02-20,54.07865392389975,included_game_day
+2010,258,Virginia Cavaliers,2010-02-23,47.55338080776645,included_game_day
+2010,258,Virginia Cavaliers,2010-02-28,42.30303480461875,included_game_day
+2010,258,Virginia Cavaliers,2010-03-03,37.56589494426741,included_game_day
+2010,258,Virginia Cavaliers,2010-03-06,42.146982370739835,included_game_day
+2010,258,Virginia Cavaliers,2010-03-11,52.67548342614124,included_game_day
+2010,258,Virginia Cavaliers,2010-03-12,58.2516602350695,included_game_day
+2011,258,Virginia Cavaliers,2010-11-12,21.0,included_game_day
+2011,258,Virginia Cavaliers,2010-11-15,33.1,included_game_day
+2011,258,Virginia Cavaliers,2010-11-18,13.09,included_game_day
+2011,258,Virginia Cavaliers,2010-11-23,-0.7256,included_game_day
+2011,258,Virginia Cavaliers,2010-11-24,-11.98904,included_game_day
+2011,258,Virginia Cavaliers,2010-11-29,6.0240100000000005,included_game_day
+2011,258,Virginia Cavaliers,2010-12-05,13.964319569,included_game_day
+2011,258,Virginia Cavaliers,2010-12-07,11.4363219309,included_game_day
+2011,258,Virginia Cavaliers,2010-12-17,24.942283285386,included_game_day
+2011,258,Virginia Cavaliers,2010-12-20,12.03229186650686,included_game_day
+2011,258,Virginia Cavaliers,2010-12-22,-4.729494357263178,included_game_day
+2011,258,Virginia Cavaliers,2010-12-30,-9.52756553126826,included_game_day
+2011,258,Virginia Cavaliers,2011-01-02,3.158829666563557,included_game_day
+2011,258,Virginia Cavaliers,2011-01-04,8.661929458024257,included_game_day
+2011,258,Virginia Cavaliers,2011-01-08,11.04683141972283,included_game_day
+2011,258,Virginia Cavaliers,2011-01-15,14.820011202764322,included_game_day
+2011,258,Virginia Cavaliers,2011-01-19,20.570004020010472,included_game_day
+2011,258,Virginia Cavaliers,2011-01-22,28.868086514270836,included_game_day
+2011,258,Virginia Cavaliers,2011-01-27,10.587502231993401,included_game_day
+2011,258,Virginia Cavaliers,2011-01-29,-0.07433601837779413,included_game_day
+2011,258,Virginia Cavaliers,2011-02-02,9.77851500546341,included_game_day
+2011,258,Virginia Cavaliers,2011-02-05,16.70098044315352,included_game_day
+2011,258,Virginia Cavaliers,2011-02-12,20.626064847696128,included_game_day
+2011,258,Virginia Cavaliers,2011-02-16,18.787029950968737,included_game_day
+2011,258,Virginia Cavaliers,2011-02-19,33.54803382524871,included_game_day
+2011,258,Virginia Cavaliers,2011-02-23,41.26805415272232,included_game_day
+2011,258,Virginia Cavaliers,2011-02-26,19.872395174045188,included_game_day
+2011,258,Virginia Cavaliers,2011-03-01,30.67351952669376,included_game_day
+2011,258,Virginia Cavaliers,2011-03-05,55.762470833024324,included_game_day
+2011,258,Virginia Cavaliers,2011-03-10,50.80373257860239,included_game_day
+2012,258,Virginia Cavaliers,2011-11-13,34.0,included_game_day
+2012,258,Virginia Cavaliers,2011-11-15,47.03,included_game_day
+2012,258,Virginia Cavaliers,2011-11-18,40.127,included_game_day
+2012,258,Virginia Cavaliers,2011-11-19,51.071,included_game_day
+2012,258,Virginia Cavaliers,2011-11-21,54.491382,included_game_day
+2012,258,Virginia Cavaliers,2011-11-25,72.10002779999999,included_game_day
+2012,258,Virginia Cavaliers,2011-11-29,76.51446621999999,included_game_day
+2012,258,Virginia Cavaliers,2011-12-03,92.227099856,included_game_day
+2012,258,Virginia Cavaliers,2011-12-06,104.46060140694,included_game_day
+2012,258,Virginia Cavaliers,2011-12-18,112.027099991127,included_game_day
+2012,258,Virginia Cavaliers,2011-12-21,105.08520817653445,included_game_day
+2012,258,Virginia Cavaliers,2011-12-27,110.0044729860068,included_game_day
+2012,258,Virginia Cavaliers,2011-12-30,87.54250588475293,included_game_day
+2012,258,Virginia Cavaliers,2012-01-02,93.89006881959808,included_game_day
+2012,258,Virginia Cavaliers,2012-01-07,86.8515264775451,included_game_day
+2012,258,Virginia Cavaliers,2012-01-12,89.4200055156897,included_game_day
+2012,258,Virginia Cavaliers,2012-01-19,117.3054759963037,included_game_day
+2012,258,Virginia Cavaliers,2012-01-22,105.82035149543381,included_game_day
+2012,258,Virginia Cavaliers,2012-01-26,104.42853775891209,included_game_day
+2012,258,Virginia Cavaliers,2012-01-28,106.03508630596278,included_game_day
+2012,258,Virginia Cavaliers,2012-01-31,99.71940328158607,included_game_day
+2012,258,Virginia Cavaliers,2012-02-04,102.27203109083258,included_game_day
+2012,258,Virginia Cavaliers,2012-02-08,110.38936429018264,included_game_day
+2012,258,Virginia Cavaliers,2012-02-11,98.07431718475532,included_game_day
+2012,258,Virginia Cavaliers,2012-02-14,84.19165869205773,included_game_day
+2012,258,Virginia Cavaliers,2012-02-18,102.38742583240169,included_game_day
+2012,258,Virginia Cavaliers,2012-02-21,99.71275122577329,included_game_day
+2012,258,Virginia Cavaliers,2012-02-25,100.72103616700949,included_game_day
+2012,258,Virginia Cavaliers,2012-03-01,93.17594459377473,included_game_day
+2012,258,Virginia Cavaliers,2012-03-04,90.67932533308618,included_game_day
+2012,258,Virginia Cavaliers,2012-03-09,86.81044932093366,included_game_day
+2012,258,Virginia Cavaliers,2012-03-16,63.1719696552923,included_game_day
+2013,258,Virginia Cavaliers,2012-11-09,-1.0,included_game_day
+2013,258,Virginia Cavaliers,2012-11-12,5.2,included_game_day
+2013,258,Virginia Cavaliers,2012-11-13,-3.1599999999999993,included_game_day
+2013,258,Virginia Cavaliers,2012-11-17,35.356,included_game_day
+2013,258,Virginia Cavaliers,2012-11-19,43.1944,included_game_day
+2013,258,Virginia Cavaliers,2012-11-20,52.93686,included_game_day
+2013,258,Virginia Cavaliers,2012-11-28,64.1538986,included_game_day
+2013,258,Virginia Cavaliers,2012-12-01,71.43509474000001,included_game_day
+2013,258,Virginia Cavaliers,2012-12-05,72.467882086,included_game_day
+2013,258,Virginia Cavaliers,2012-12-08,82.27146387740001,included_game_day
+2013,258,Virginia Cavaliers,2012-12-19,87.46355685737291,included_game_day
+2013,258,Virginia Cavaliers,2012-12-22,70.95522967037358,included_game_day
+2013,258,Virginia Cavaliers,2012-12-30,99.70080439348357,included_game_day
+2013,258,Virginia Cavaliers,2013-01-06,103.86463078774268,included_game_day
+2013,258,Virginia Cavaliers,2013-01-09,95.37112322294679,included_game_day
+2013,258,Virginia Cavaliers,2013-01-12,77.7049563464575,included_game_day
+2013,258,Virginia Cavaliers,2013-01-19,92.47481627298313,included_game_day
+2013,258,Virginia Cavaliers,2013-01-24,101.39193062703241,included_game_day
+2013,258,Virginia Cavaliers,2013-01-26,105.57240966351083,included_game_day
+2013,258,Virginia Cavaliers,2013-01-29,105.50758271564122,included_game_day
+2013,258,Virginia Cavaliers,2013-02-03,96.47821907725016,included_game_day
+2013,258,Virginia Cavaliers,2013-02-07,126.09662078083312,included_game_day
+2013,258,Virginia Cavaliers,2013-02-10,135.92533001488465,included_game_day
+2013,258,Virginia Cavaliers,2013-02-12,135.9803288882223,included_game_day
+2013,258,Virginia Cavaliers,2013-02-16,122.66629646358577,included_game_day
+2013,258,Virginia Cavaliers,2013-02-19,124.98444776956993,included_game_day
+2013,258,Virginia Cavaliers,2013-02-24,141.18434356401437,included_game_day
+2013,258,Virginia Cavaliers,2013-02-28,145.41868804649675,included_game_day
+2013,258,Virginia Cavaliers,2013-03-03,135.29136701451392,included_game_day
+2013,258,Virginia Cavaliers,2013-03-07,123.21474430189258,included_game_day
+2013,258,Virginia Cavaliers,2013-03-10,117.21678154232401,included_game_day
+2013,258,Virginia Cavaliers,2013-03-15,96.9400294798606,included_game_day
+2013,258,Virginia Cavaliers,2013-03-19,94.43469682334715,included_game_day
+2013,258,Virginia Cavaliers,2013-03-24,103.24656327282737,included_game_day
+2013,258,Virginia Cavaliers,2013-03-27,91.04974076708143,included_game_day
+2014,258,Virginia Cavaliers,2013-11-08,17.0,included_game_day
+2014,258,Virginia Cavaliers,2013-11-12,12.8,included_game_day
+2014,258,Virginia Cavaliers,2013-11-16,21.020000000000003,included_game_day
+2014,258,Virginia Cavaliers,2013-11-19,40.8369,included_game_day
+2014,258,Virginia Cavaliers,2013-11-23,52.033039,included_game_day
+2014,258,Virginia Cavaliers,2013-11-26,71.8364751,included_game_day
+2014,258,Virginia Cavaliers,2013-11-29,74.54194499,included_game_day
+2014,258,Virginia Cavaliers,2013-11-30,90.97732899,included_game_day
+2014,258,Virginia Cavaliers,2013-12-04,75.59645129100001,included_game_day
+2014,258,Virginia Cavaliers,2013-12-07,68.2429560589,included_game_day
+2014,258,Virginia Cavaliers,2013-12-21,73.601304467348,included_game_day
+2014,258,Virginia Cavaliers,2013-12-23,73.18967551212133,included_game_day
+2014,258,Virginia Cavaliers,2013-12-30,40.47151508724298,included_game_day
+2014,258,Virginia Cavaliers,2014-01-04,61.488687137461085,included_game_day
+2014,258,Virginia Cavaliers,2014-01-08,80.24635251380013,included_game_day
+2014,258,Virginia Cavaliers,2014-01-11,111.84493102190288,included_game_day
+2014,258,Virginia Cavaliers,2014-01-13,112.0652132947435,included_game_day
+2014,258,Virginia Cavaliers,2014-01-18,122.08424454922152,included_game_day
+2014,258,Virginia Cavaliers,2014-01-20,128.2393444110409,included_game_day
+2014,258,Virginia Cavaliers,2014-01-25,130.98542150740627,included_game_day
+2014,258,Virginia Cavaliers,2014-01-28,140.8211820835591,included_game_day
+2014,258,Virginia Cavaliers,2014-02-02,146.250037142478,included_game_day
+2014,258,Virginia Cavaliers,2014-02-05,138.50086885063476,included_game_day
+2014,258,Virginia Cavaliers,2014-02-08,149.15220595622182,included_game_day
+2014,258,Virginia Cavaliers,2014-02-10,144.91831322110474,included_game_day
+2014,258,Virginia Cavaliers,2014-02-15,143.45181903391472,included_game_day
+2014,258,Virginia Cavaliers,2014-02-18,133.19636757671367,included_game_day
+2014,258,Virginia Cavaliers,2014-02-22,141.5068743311573,included_game_day
+2014,258,Virginia Cavaliers,2014-02-26,155.658112664856,included_game_day
+2014,258,Virginia Cavaliers,2014-03-01,167.5921062334539,included_game_day
+2014,258,Virginia Cavaliers,2014-03-09,155.64367120584166,included_game_day
+2014,258,Virginia Cavaliers,2014-03-14,158.94724813903997,included_game_day
+2014,258,Virginia Cavaliers,2014-03-15,157.29058245396652,included_game_day
+2014,258,Virginia Cavaliers,2014-03-16,164.38895782246175,included_game_day
+2014,258,Virginia Cavaliers,2014-03-21,158.7274614457774,included_game_day
+2014,258,Virginia Cavaliers,2014-03-23,169.17292268392146,included_game_day
+2014,258,Virginia Cavaliers,2014-03-28,166.18319714501627,included_game_day
+2015,258,Virginia Cavaliers,2014-11-14,31.0,included_game_day
+2015,258,Virginia Cavaliers,2014-11-16,52.9,included_game_day
+2015,258,Virginia Cavaliers,2014-11-18,59.66,included_game_day
+2015,258,Virginia Cavaliers,2014-11-21,74.104,included_game_day
+2015,258,Virginia Cavaliers,2014-11-25,102.0356,included_game_day
+2015,258,Virginia Cavaliers,2014-11-28,101.59308,included_game_day
+2015,258,Virginia Cavaliers,2014-11-29,108.87950000000001,included_game_day
+2015,258,Virginia Cavaliers,2014-12-03,119.42815010000001,included_game_day
+2015,258,Virginia Cavaliers,2014-12-06,131.80241476,included_game_day
+2015,258,Virginia Cavaliers,2014-12-18,132.860803827147,included_game_day
+2015,258,Virginia Cavaliers,2014-12-21,171.3153282015323,included_game_day
+2015,258,Virginia Cavaliers,2014-12-30,171.3036169304161,included_game_day
+2015,258,Virginia Cavaliers,2015-01-03,170.89999690595457,included_game_day
+2015,258,Virginia Cavaliers,2015-01-07,167.37399961443595,included_game_day
+2015,258,Virginia Cavaliers,2015-01-10,175.75987943135192,included_game_day
+2015,258,Virginia Cavaliers,2015-01-13,180.51341096515705,included_game_day
+2015,258,Virginia Cavaliers,2015-01-17,182.57992641249132,included_game_day
+2015,258,Virginia Cavaliers,2015-01-22,193.5805808653007,included_game_day
+2015,258,Virginia Cavaliers,2015-01-25,179.0795771783692,included_game_day
+2015,258,Virginia Cavaliers,2015-01-31,166.2090729291987,included_game_day
+2015,258,Virginia Cavaliers,2015-02-02,176.83410523927978,included_game_day
+2015,258,Virginia Cavaliers,2015-02-07,174.5869895608439,included_game_day
+2015,258,Virginia Cavaliers,2015-02-11,170.73684802921406,included_game_day
+2015,258,Virginia Cavaliers,2015-02-14,154.02484350362383,included_game_day
+2015,258,Virginia Cavaliers,2015-02-16,153.2754660082332,included_game_day
+2015,258,Virginia Cavaliers,2015-02-22,150.3950774360696,included_game_day
+2015,258,Virginia Cavaliers,2015-02-25,178.04894550562176,included_game_day
+2015,258,Virginia Cavaliers,2015-02-28,168.2088738865502,included_game_day
+2015,258,Virginia Cavaliers,2015-03-02,173.65388108960207,included_game_day
+2015,258,Virginia Cavaliers,2015-03-07,167.66345322604397,included_game_day
+2015,258,Virginia Cavaliers,2015-03-12,169.67520104700353,included_game_day
+2015,258,Virginia Cavaliers,2015-03-13,164.39530391936438,included_game_day
+2015,258,Virginia Cavaliers,2015-03-20,165.33500157828067,included_game_day
+2015,258,Virginia Cavaliers,2015-03-22,155.78830554347047,included_game_day
+2016,258,Virginia Cavaliers,2015-11-13,35.0,included_game_day
+2016,258,Virginia Cavaliers,2015-11-16,30.1,included_game_day
+2016,258,Virginia Cavaliers,2015-11-19,49.36,included_game_day
+2016,258,Virginia Cavaliers,2015-11-22,60.357,included_game_day
+2016,258,Virginia Cavaliers,2015-11-25,72.7513,included_game_day
+2016,258,Virginia Cavaliers,2015-12-01,76.4295099,included_game_day
+2016,258,Virginia Cavaliers,2015-12-05,85.47631532,included_game_day
+2016,258,Virginia Cavaliers,2015-12-08,105.6216399122,included_game_day
+2016,258,Virginia Cavaliers,2015-12-19,112.11824413608,included_game_day
+2016,258,Virginia Cavaliers,2015-12-22,105.4531660998174,included_game_day
+2016,258,Virginia Cavaliers,2015-12-30,112.07227202656485,included_game_day
+2016,258,Virginia Cavaliers,2016-01-02,115.46174327780386,included_game_day
+2016,258,Virginia Cavaliers,2016-01-04,109.75468729687522,included_game_day
+2016,258,Virginia Cavaliers,2016-01-09,103.27345105272458,included_game_day
+2016,258,Virginia Cavaliers,2016-01-12,111.67795898107214,included_game_day
+2016,258,Virginia Cavaliers,2016-01-17,102.88763815933304,included_game_day
+2016,258,Virginia Cavaliers,2016-01-19,105.49892402406944,included_game_day
+2016,258,Virginia Cavaliers,2016-01-24,109.28022128826515,included_game_day
+2016,258,Virginia Cavaliers,2016-01-26,102.90758739315406,included_game_day
+2016,258,Virginia Cavaliers,2016-01-30,128.33777842920495,included_game_day
+2016,258,Virginia Cavaliers,2016-02-03,120.46524313702638,included_game_day
+2016,258,Virginia Cavaliers,2016-02-06,134.88458251297686,included_game_day
+2016,258,Virginia Cavaliers,2016-02-09,141.12248859292012,included_game_day
+2016,258,Virginia Cavaliers,2016-02-13,142.9767494873274,included_game_day
+2016,258,Virginia Cavaliers,2016-02-15,152.80960654980396,included_game_day
+2016,258,Virginia Cavaliers,2016-02-22,147.46372606380712,included_game_day
+2016,258,Virginia Cavaliers,2016-02-27,150.68153960996003,included_game_day
+2016,258,Virginia Cavaliers,2016-03-01,153.65718761732683,included_game_day
+2016,258,Virginia Cavaliers,2016-03-05,171.031280143062,included_game_day
+2016,258,Virginia Cavaliers,2016-03-10,181.36516046537693,included_game_day
+2016,258,Virginia Cavaliers,2016-03-11,180.07402146467587,included_game_day
+2016,258,Virginia Cavaliers,2016-03-12,176.9452008871823,included_game_day
+2016,258,Virginia Cavaliers,2016-03-17,193.52634621518888,included_game_day
+2016,258,Virginia Cavaliers,2016-03-19,193.23327572506466,included_game_day
+2016,258,Virginia Cavaliers,2016-03-25,200.18796126791855,included_game_day
+2016,258,Virginia Cavaliers,2016-03-27,187.7573945649512,included_game_day
+2017,258,Virginia Cavaliers,2016-11-11,28.0,included_game_day
+2017,258,Virginia Cavaliers,2016-11-15,59.99,included_game_day
+2017,258,Virginia Cavaliers,2016-11-20,76.481,included_game_day
+2017,258,Virginia Cavaliers,2016-11-22,119.6878,included_game_day
+2017,258,Virginia Cavaliers,2016-11-25,145.19382,included_game_day
+2017,258,Virginia Cavaliers,2016-11-26,146.24075399999998,included_game_day
+2017,258,Virginia Cavaliers,2016-11-30,139.77967529999998,included_game_day
+2017,258,Virginia Cavaliers,2016-12-03,128.41120346999998,included_game_day
+2017,258,Virginia Cavaliers,2016-12-06,140.91054463299997,included_game_day
+2017,258,Virginia Cavaliers,2016-12-17,159.817584750503,included_game_day
+2017,258,Virginia Cavaliers,2016-12-21,158.757328003936,included_game_day
+2017,258,Virginia Cavaliers,2016-12-28,167.57316423084757,included_game_day
+2017,258,Virginia Cavaliers,2016-12-31,159.95439568559593,included_game_day
+2017,258,Virginia Cavaliers,2017-01-04,139.81292578318343,included_game_day
+2017,258,Virginia Cavaliers,2017-01-08,148.17236886996298,included_game_day
+2017,258,Virginia Cavaliers,2017-01-14,148.79843112564063,included_game_day
+2017,258,Virginia Cavaliers,2017-01-18,155.33103468614408,included_game_day
+2017,258,Virginia Cavaliers,2017-01-21,152.52220234435325,included_game_day
+2017,258,Virginia Cavaliers,2017-01-24,171.20703967848817,included_game_day
+2017,258,Virginia Cavaliers,2017-01-29,172.8572139943156,included_game_day
+2017,258,Virginia Cavaliers,2017-02-01,183.00140912197065,included_game_day
+2017,258,Virginia Cavaliers,2017-02-04,172.82015679274738,included_game_day
+2017,258,Virginia Cavaliers,2017-02-06,190.56085008636526,included_game_day
+2017,258,Virginia Cavaliers,2017-02-12,178.8443928916396,included_game_day
+2017,258,Virginia Cavaliers,2017-02-15,161.12040063344165,included_game_day
+2017,258,Virginia Cavaliers,2017-02-18,139.7559504688996,included_game_day
+2017,258,Virginia Cavaliers,2017-02-20,126.5911283338154,included_game_day
+2017,258,Virginia Cavaliers,2017-02-25,132.56646990144895,included_game_day
+2017,258,Virginia Cavaliers,2017-02-27,145.863462187072,included_game_day
+2017,258,Virginia Cavaliers,2017-03-04,158.1461362731618,included_game_day
+2017,258,Virginia Cavaliers,2017-03-08,158.1806608959452,included_game_day
+2017,258,Virginia Cavaliers,2017-03-09,141.02139165548135,included_game_day
+2017,258,Virginia Cavaliers,2017-03-16,140.36907043683274,included_game_day
+2017,258,Virginia Cavaliers,2017-03-18,117.19069150812564,included_game_day
+2018,258,Virginia Cavaliers,2017-11-10,9.0,included_game_day
+2018,258,Virginia Cavaliers,2017-11-13,47.5,included_game_day
+2018,258,Virginia Cavaliers,2017-11-17,57.359,included_game_day
+2018,258,Virginia Cavaliers,2017-11-19,69.2121,included_game_day
+2018,258,Virginia Cavaliers,2017-11-23,88.47919,included_game_day
+2018,258,Virginia Cavaliers,2017-11-24,98.448761,included_game_day
+2018,258,Virginia Cavaliers,2017-11-27,102.6504475,included_game_day
+2018,258,Virginia Cavaliers,2017-12-02,108.47332828,included_game_day
+2018,258,Virginia Cavaliers,2017-12-05,106.606871052,included_game_day
+2018,258,Virginia Cavaliers,2017-12-16,117.8826833729,included_game_day
+2018,258,Virginia Cavaliers,2017-12-19,118.79545101628001,included_game_day
+2018,258,Virginia Cavaliers,2017-12-22,135.99801624246544,included_game_day
+2018,258,Virginia Cavaliers,2017-12-30,125.69720913736093,included_game_day
+2018,258,Virginia Cavaliers,2018-01-03,152.7548490441492,included_game_day
+2018,258,Virginia Cavaliers,2018-01-06,158.50029745516844,included_game_day
+2018,258,Virginia Cavaliers,2018-01-09,154.331453175147,included_game_day
+2018,258,Virginia Cavaliers,2018-01-14,161.42408548084532,included_game_day
+2018,258,Virginia Cavaliers,2018-01-18,168.2265637609198,included_game_day
+2018,258,Virginia Cavaliers,2018-01-21,169.04148842485074,included_game_day
+2018,258,Virginia Cavaliers,2018-01-23,186.7936464101866,included_game_day
+2018,258,Virginia Cavaliers,2018-01-27,192.3638564546153,included_game_day
+2018,258,Virginia Cavaliers,2018-01-31,191.82237699675053,included_game_day
+2018,258,Virginia Cavaliers,2018-02-03,198.31859739070936,included_game_day
+2018,258,Virginia Cavaliers,2018-02-07,197.75274826199876,included_game_day
+2018,258,Virginia Cavaliers,2018-02-10,183.53334484600438,included_game_day
+2018,258,Virginia Cavaliers,2018-02-13,186.63859713853327,included_game_day
+2018,258,Virginia Cavaliers,2018-02-21,175.6672266212036,included_game_day
+2018,258,Virginia Cavaliers,2018-02-24,182.52152646115783,included_game_day
+2018,258,Virginia Cavaliers,2018-03-01,179.26806211194457,included_game_day
+2018,258,Virginia Cavaliers,2018-03-03,172.08886284024038,included_game_day
+2018,258,Virginia Cavaliers,2018-03-08,183.23261431075292,included_game_day
+2018,258,Virginia Cavaliers,2018-03-09,181.9840214075723,included_game_day
+2018,258,Virginia Cavaliers,2018-03-10,189.6492629836076,included_game_day
+2018,258,Virginia Cavaliers,2018-03-16,153.9515208737022,included_game_day
+2019,258,Virginia Cavaliers,2018-11-06,28.0,included_game_day
+2019,258,Virginia Cavaliers,2018-11-11,39.49,included_game_day
+2019,258,Virginia Cavaliers,2018-11-16,83.6,included_game_day
+2019,258,Virginia Cavaliers,2018-11-21,95.7397,included_game_day
+2019,258,Virginia Cavaliers,2018-11-22,96.58858,included_game_day
+2019,258,Virginia Cavaliers,2018-11-23,102.757048,included_game_day
+2019,258,Virginia Cavaliers,2018-11-28,108.6594601,included_game_day
+2019,258,Virginia Cavaliers,2018-12-03,129.41340864900002,included_game_day
+2019,258,Virginia Cavaliers,2018-12-09,125.88383970581002,included_game_day
+2019,258,Virginia Cavaliers,2018-12-19,134.15890266370502,included_game_day
+2019,258,Virginia Cavaliers,2018-12-22,146.4347347257545,included_game_day
+2019,258,Virginia Cavaliers,2018-12-31,164.61123920876764,included_game_day
+2019,258,Virginia Cavaliers,2019-01-05,167.85722529247371,included_game_day
+2019,258,Virginia Cavaliers,2019-01-09,184.5073257099694,included_game_day
+2019,258,Virginia Cavaliers,2019-01-12,196.48125459082996,included_game_day
+2019,258,Virginia Cavaliers,2019-01-15,211.2304939149556,included_game_day
+2019,258,Virginia Cavaliers,2019-01-19,210.6775720133976,included_game_day
+2019,258,Virginia Cavaliers,2019-01-22,210.90697590193537,included_game_day
+2019,258,Virginia Cavaliers,2019-01-26,224.4934143955529,included_game_day
+2019,258,Virginia Cavaliers,2019-01-29,217.51900548054192,included_game_day
+2019,258,Virginia Cavaliers,2019-02-02,204.65456036379112,included_game_day
+2019,258,Virginia Cavaliers,2019-02-09,193.5335601833244,included_game_day
+2019,258,Virginia Cavaliers,2019-02-11,202.36626506240358,included_game_day
+2019,258,Virginia Cavaliers,2019-02-16,187.97169917720544,included_game_day
+2019,258,Virginia Cavaliers,2019-02-18,191.7801480690792,included_game_day
+2019,258,Virginia Cavaliers,2019-02-23,200.62164403743958,included_game_day
+2019,258,Virginia Cavaliers,2019-02-27,207.96317576132793,included_game_day
+2019,258,Virginia Cavaliers,2019-03-02,210.31183156912164,included_game_day
+2019,258,Virginia Cavaliers,2019-03-04,230.453648121146,included_game_day
+2019,258,Virginia Cavaliers,2019-03-09,220.6394777833625,included_game_day
+2019,258,Virginia Cavaliers,2019-03-14,230.54004993948794,included_game_day
+2019,258,Virginia Cavaliers,2019-03-15,211.7480082298603,included_game_day
+2019,258,Virginia Cavaliers,2019-03-22,208.66535671791905,included_game_day
+2019,258,Virginia Cavaliers,2019-03-24,208.77206347425445,included_game_day
+2019,258,Virginia Cavaliers,2019-03-28,207.87936976057298,included_game_day
+2019,258,Virginia Cavaliers,2019-03-30,209.6701624587757,included_game_day
+2019,258,Virginia Cavaliers,2019-04-06,209.27341473115112,included_game_day
+2019,258,Virginia Cavaliers,2019-04-08,219.0223772759282,included_game_day
+2020,258,Virginia Cavaliers,2019-11-06,17.0,included_game_day
+2020,258,Virginia Cavaliers,2019-11-10,43.5,included_game_day
+2020,258,Virginia Cavaliers,2019-11-16,54.525,included_game_day
+2020,258,Virginia Cavaliers,2019-11-19,54.92275,included_game_day
+2020,258,Virginia Cavaliers,2019-11-23,67.018685,included_game_day
+2020,258,Virginia Cavaliers,2019-11-24,70.615514,included_game_day
+2020,258,Virginia Cavaliers,2019-11-27,78.32371260000001,included_game_day
+2020,258,Virginia Cavaliers,2019-12-04,50.849548420000005,included_game_day
+2020,258,Virginia Cavaliers,2019-12-08,54.32563302887,included_game_day
+2020,258,Virginia Cavaliers,2019-12-18,59.6684203210784,included_game_day
+2020,258,Virginia Cavaliers,2019-12-22,41.84464159641656,included_game_day
+2020,258,Virginia Cavaliers,2019-12-29,43.79807046515779,included_game_day
+2020,258,Virginia Cavaliers,2020-01-04,70.57964320941875,included_game_day
+2020,258,Virginia Cavaliers,2020-01-07,57.57178323425337,included_game_day
+2020,258,Virginia Cavaliers,2020-01-11,45.44790940908774,included_game_day
+2020,258,Virginia Cavaliers,2020-01-15,51.747327985945454,included_game_day
+2020,258,Virginia Cavaliers,2020-01-18,59.444638924799534,included_game_day
+2020,258,Virginia Cavaliers,2020-01-20,55.98101413052537,included_game_day
+2020,258,Virginia Cavaliers,2020-01-26,57.49432808802642,included_game_day
+2020,258,Virginia Cavaliers,2020-01-28,64.08122094210985,included_game_day
+2020,258,Virginia Cavaliers,2020-02-05,65.12485177717001,included_game_day
+2020,258,Virginia Cavaliers,2020-02-08,68.34881733640412,included_game_day
+2020,258,Virginia Cavaliers,2020-02-11,67.9150293295708,included_game_day
+2020,258,Virginia Cavaliers,2020-02-15,68.94064600289724,included_game_day
+2020,258,Virginia Cavaliers,2020-02-19,70.14345023643025,included_game_day
+2020,258,Virginia Cavaliers,2020-02-22,70.06048337416519,included_game_day
+2020,258,Virginia Cavaliers,2020-02-26,69.01945628632724,included_game_day
+2020,258,Virginia Cavaliers,2020-02-29,74.1496442793509,included_game_day
+2020,258,Virginia Cavaliers,2020-03-04,74.52389480976684,included_game_day
+2020,258,Virginia Cavaliers,2020-03-07,78.58875677932701,included_game_day
+2021,258,Virginia Cavaliers,2020-11-25,35.0,included_game_day
+2021,258,Virginia Cavaliers,2020-11-27,30.53,included_game_day
+2021,258,Virginia Cavaliers,2020-12-01,48.797,included_game_day
+2021,258,Virginia Cavaliers,2020-12-04,47.9173,included_game_day
+2021,258,Virginia Cavaliers,2020-12-22,74.96266501599999,included_game_day
+2021,258,Virginia Cavaliers,2020-12-26,51.87193999460599,included_game_day
+2021,258,Virginia Cavaliers,2020-12-30,57.95982899684539,included_game_day
+2021,258,Virginia Cavaliers,2021-01-06,62.51428431475438,included_game_day
+2021,258,Virginia Cavaliers,2021-01-09,68.49568775157196,included_game_day
+2021,258,Virginia Cavaliers,2021-01-13,69.58402549879273,included_game_day
+2021,258,Virginia Cavaliers,2021-01-16,107.23666917045625,included_game_day
+2021,258,Virginia Cavaliers,2021-01-23,101.54013000135586,included_game_day
+2021,258,Virginia Cavaliers,2021-01-25,118.77190830584136,included_game_day
+2021,258,Virginia Cavaliers,2021-01-30,101.76407712412139,included_game_day
+2021,258,Virginia Cavaliers,2021-02-03,103.77792863667062,included_game_day
+2021,258,Virginia Cavaliers,2021-02-06,100.15136636825495,included_game_day
+2021,258,Virginia Cavaliers,2021-02-10,106.25966395953942,included_game_day
+2021,258,Virginia Cavaliers,2021-02-13,109.6766607285105,included_game_day
+2021,258,Virginia Cavaliers,2021-02-15,88.46854174455353,included_game_day
+2021,258,Virginia Cavaliers,2021-02-20,88.85176996911885,included_game_day
+2021,258,Virginia Cavaliers,2021-02-24,72.94754051386536,included_game_day
+2021,258,Virginia Cavaliers,2021-03-01,68.64300274469447,included_game_day
+2021,258,Virginia Cavaliers,2021-03-06,78.40943839211504,included_game_day
+2021,258,Virginia Cavaliers,2021-03-11,80.80054801299399,included_game_day
+2021,258,Virginia Cavaliers,2021-03-20,77.67525752156108,included_game_day
+2022,258,Virginia Cavaliers,2021-11-09,-11.0,included_game_day
+2022,258,Virginia Cavaliers,2021-11-12,8.100000000000001,included_game_day
+2022,258,Virginia Cavaliers,2021-11-16,-6.099999999999998,included_game_day
+2022,258,Virginia Cavaliers,2021-11-19,1.3846750000000014,included_game_day
+2022,258,Virginia Cavaliers,2021-11-22,11.137127500000002,included_game_day
+2022,258,Virginia Cavaliers,2021-11-23,33.24959475,included_game_day
+2022,258,Virginia Cavaliers,2021-11-26,42.346138275,included_game_day
+2022,258,Virginia Cavaliers,2021-11-29,46.5700635975,included_game_day
+2022,258,Virginia Cavaliers,2021-12-03,36.467324037750004,included_game_day
+2022,258,Virginia Cavaliers,2021-12-07,33.013012454145006,included_game_day
+2022,258,Virginia Cavaliers,2021-12-18,50.085755631168155,included_game_day
+2022,258,Virginia Cavaliers,2021-12-22,31.372657070986698,included_game_day
+2022,258,Virginia Cavaliers,2022-01-01,40.67299149636949,included_game_day
+2022,258,Virginia Cavaliers,2022-01-04,57.77247920568605,included_game_day
+2022,258,Virginia Cavaliers,2022-01-08,45.96002315518635,included_game_day
+2022,258,Virginia Cavaliers,2022-01-12,49.42540615078265,included_game_day
+2022,258,Virginia Cavaliers,2022-01-15,40.720753214804446,included_game_day
+2022,258,Virginia Cavaliers,2022-01-19,44.880560811865195,included_game_day
+2022,258,Virginia Cavaliers,2022-01-22,32.20698814658085,included_game_day
+2022,258,Virginia Cavaliers,2022-01-24,38.19659317711568,included_game_day
+2022,258,Virginia Cavaliers,2022-01-29,40.48987822060805,included_game_day
+2022,258,Virginia Cavaliers,2022-02-01,44.95068003388277,included_game_day
+2022,258,Virginia Cavaliers,2022-02-05,57.97824208471017,included_game_day
+2022,258,Virginia Cavaliers,2022-02-07,71.72176047030449,included_game_day
+2022,258,Virginia Cavaliers,2022-02-12,71.74727100385984,included_game_day
+2022,258,Virginia Cavaliers,2022-02-14,68.49995494531653,included_game_day
+2022,258,Virginia Cavaliers,2022-02-19,75.2151330251053,included_game_day
+2022,258,Virginia Cavaliers,2022-02-23,75.19600444800228,included_game_day
+2022,258,Virginia Cavaliers,2022-02-26,62.07538865941537,included_game_day
+2022,258,Virginia Cavaliers,2022-03-05,65.92644930064338,included_game_day
+2022,258,Virginia Cavaliers,2022-03-09,58.24511614090122,included_game_day
+2022,258,Virginia Cavaliers,2022-03-10,42.65963228956706,included_game_day
+2022,258,Virginia Cavaliers,2022-03-16,45.566296223803974,included_game_day
+2022,258,Virginia Cavaliers,2022-03-20,53.6132733714968,included_game_day
+2022,258,Virginia Cavaliers,2022-03-22,52.850933745879345,included_game_day
+2023,258,Virginia Cavaliers,2022-11-07,9.0,included_game_day
+2023,258,Virginia Cavaliers,2022-11-11,49.7,included_game_day
+2023,258,Virginia Cavaliers,2022-11-18,60.521,included_game_day
+2023,258,Virginia Cavaliers,2022-11-20,72.3287,included_game_day
+2023,258,Virginia Cavaliers,2022-11-25,86.1012,included_game_day
+2023,258,Virginia Cavaliers,2022-11-29,84.7021364,included_game_day
+2023,258,Virginia Cavaliers,2022-12-03,72.66408877392,included_game_day
+2023,258,Virginia Cavaliers,2022-12-06,74.98190541527,included_game_day
+2023,258,Virginia Cavaliers,2022-12-17,70.89536535490312,included_game_day
+2023,258,Virginia Cavaliers,2022-12-20,71.63990283056523,included_game_day
+2023,258,Virginia Cavaliers,2022-12-28,74.04311938192829,included_game_day
+2023,258,Virginia Cavaliers,2022-12-31,89.33692535024595,included_game_day
+2023,258,Virginia Cavaliers,2023-01-03,88.77694482403703,included_game_day
+2023,258,Virginia Cavaliers,2023-01-07,87.73172940044734,included_game_day
+2023,258,Virginia Cavaliers,2023-01-10,91.81978719299377,included_game_day
+2023,258,Virginia Cavaliers,2023-01-14,92.2530981643704,included_game_day
+2023,258,Virginia Cavaliers,2023-01-18,96.0227367558243,included_game_day
+2023,258,Virginia Cavaliers,2023-01-21,105.54120288228836,included_game_day
+2023,258,Virginia Cavaliers,2023-01-28,109.29761524400065,included_game_day
+2023,258,Virginia Cavaliers,2023-01-30,110.95187782926254,included_game_day
+2023,258,Virginia Cavaliers,2023-02-04,103.70293757774107,included_game_day
+2023,258,Virginia Cavaliers,2023-02-07,111.53670561906411,included_game_day
+2023,258,Virginia Cavaliers,2023-02-11,112.22496230270072,included_game_day
+2023,258,Virginia Cavaliers,2023-02-15,98.8369435778054,included_game_day
+2023,258,Virginia Cavaliers,2023-02-18,85.35145074596458,included_game_day
+2023,258,Virginia Cavaliers,2023-02-22,62.872167508588916,included_game_day
+2023,258,Virginia Cavaliers,2023-02-25,59.613518780052964,included_game_day
+2023,258,Virginia Cavaliers,2023-02-28,67.68134488653956,included_game_day
+2023,258,Virginia Cavaliers,2023-03-04,66.10914876119199,included_game_day
+2023,258,Virginia Cavaliers,2023-03-09,78.11372082277671,included_game_day
+2023,258,Virginia Cavaliers,2023-03-10,103.18144119195188,included_game_day
+2023,258,Virginia Cavaliers,2023-03-11,96.14589509696538,included_game_day
+2023,258,Virginia Cavaliers,2023-03-16,94.09202492342673,included_game_day
+2024,258,Virginia Cavaliers,2023-11-06,27.0,included_game_day
+2024,258,Virginia Cavaliers,2023-11-10,29.0,included_game_day
+2024,258,Virginia Cavaliers,2023-11-14,46.75,included_game_day
+2024,258,Virginia Cavaliers,2023-11-16,64.065,included_game_day
+2024,258,Virginia Cavaliers,2023-11-20,34.6743,included_game_day
+2024,258,Virginia Cavaliers,2023-11-22,32.4842,included_game_day
+2024,258,Virginia Cavaliers,2023-11-29,44.685365154,included_game_day
+2024,258,Virginia Cavaliers,2023-12-02,60.2184998186,included_game_day
+2024,258,Virginia Cavaliers,2023-12-05,78.31331176073999,included_game_day
+2024,258,Virginia Cavaliers,2023-12-16,69.28744014676599,included_game_day
+2024,258,Virginia Cavaliers,2023-12-19,47.71865718949239,included_game_day
+2024,258,Virginia Cavaliers,2023-12-27,64.91919358942886,included_game_day
+2024,258,Virginia Cavaliers,2023-12-30,36.73405081349695,included_game_day
+2024,258,Virginia Cavaliers,2024-01-03,51.5979333331886,included_game_day
+2024,258,Virginia Cavaliers,2024-01-06,38.676687712362785,included_game_day
+2024,258,Virginia Cavaliers,2024-01-13,28.76503614804585,included_game_day
+2024,258,Virginia Cavaliers,2024-01-17,36.56898319777553,included_game_day
+2024,258,Virginia Cavaliers,2024-01-20,47.309994400973274,included_game_day
+2024,258,Virginia Cavaliers,2024-01-24,51.228744530494325,included_game_day
+2024,258,Virginia Cavaliers,2024-01-27,63.51626185504312,included_game_day
+2024,258,Virginia Cavaliers,2024-01-31,65.80627824106143,included_game_day
+2024,258,Virginia Cavaliers,2024-02-03,71.14918598216946,included_game_day
+2024,258,Virginia Cavaliers,2024-02-05,90.37005758766512,included_game_day
+2024,258,Virginia Cavaliers,2024-02-10,93.72339415258482,included_game_day
+2024,258,Virginia Cavaliers,2024-02-13,77.9030009389975,included_game_day
+2024,258,Virginia Cavaliers,2024-02-17,81.36073551403064,included_game_day
+2024,258,Virginia Cavaliers,2024-02-19,47.26039617250165,included_game_day
+2024,258,Virginia Cavaliers,2024-02-24,42.63884519266446,included_game_day
+2024,258,Virginia Cavaliers,2024-02-28,49.01442606282623,included_game_day
+2024,258,Virginia Cavaliers,2024-03-02,38.055488514946006,included_game_day
+2024,258,Virginia Cavaliers,2024-03-09,47.51366229919678,included_game_day
+2024,258,Virginia Cavaliers,2024-03-14,55.3123643598675,included_game_day
+2024,258,Virginia Cavaliers,2024-03-15,49.76432190280269,included_game_day
+2024,258,Virginia Cavaliers,2024-03-19,27.27530972450134,included_game_day
+2025,258,Virginia Cavaliers,2024-11-06,6.0,included_game_day
+2025,258,Virginia Cavaliers,2024-11-11,13.27,included_game_day
+2025,258,Virginia Cavaliers,2024-11-15,24.1637,included_game_day
+2025,258,Virginia Cavaliers,2024-11-21,8.972629999999999,included_game_day
+2025,258,Virginia Cavaliers,2024-11-22,-10.619755000000001,included_game_day
+2025,258,Virginia Cavaliers,2024-11-26,-6.774522500000002,included_game_day
+2025,258,Virginia Cavaliers,2024-11-29,13.26209685,included_game_day
+2025,258,Virginia Cavaliers,2024-12-04,9.775251695,included_game_day
+2025,258,Virginia Cavaliers,2024-12-07,9.2213641479,included_game_day
+2025,258,Virginia Cavaliers,2024-12-12,18.55558710111,included_game_day
+2025,258,Virginia Cavaliers,2024-12-18,16.577825970802483,included_game_day
+2025,258,Virginia Cavaliers,2024-12-22,13.187548021285235,included_game_day
+2025,258,Virginia Cavaliers,2024-12-31,16.54486655401884,included_game_day
+2025,258,Virginia Cavaliers,2025-01-04,-1.4719032651957775,included_game_day
+2025,258,Virginia Cavaliers,2025-01-08,-10.959247050424327,included_game_day
+2025,258,Virginia Cavaliers,2025-01-11,-26.768555038071845,included_game_day
+2025,258,Virginia Cavaliers,2025-01-15,-19.561343446475988,included_game_day
+2025,258,Virginia Cavaliers,2025-01-18,-16.773210655329358,included_game_day
+2025,258,Virginia Cavaliers,2025-01-21,-4.725822916086541,included_game_day
+2025,258,Virginia Cavaliers,2025-01-25,-18.089639832525876,included_game_day
+2025,258,Virginia Cavaliers,2025-01-29,-9.744842135415535,included_game_day
+2025,258,Virginia Cavaliers,2025-02-01,-12.402797342827565,included_game_day
+2025,258,Virginia Cavaliers,2025-02-03,16.174062238148903,included_game_day
+2025,258,Virginia Cavaliers,2025-02-08,30.55785275815463,included_game_day
+2025,258,Virginia Cavaliers,2025-02-15,35.031178490877764,included_game_day
+2025,258,Virginia Cavaliers,2025-02-17,31.7764946400628,included_game_day
+2025,258,Virginia Cavaliers,2025-02-22,23.750093696389676,included_game_day
+2025,258,Virginia Cavaliers,2025-02-26,39.891384715495214,included_game_day
+2025,258,Virginia Cavaliers,2025-03-01,35.766127858349236,included_game_day
+2025,258,Virginia Cavaliers,2025-03-04,33.7806120445928,included_game_day
+2025,258,Virginia Cavaliers,2025-03-08,20.34651833920376,included_game_day
+2025,258,Virginia Cavaliers,2025-03-12,14.821210341537565,included_game_day
+2026,258,Virginia Cavaliers,2025-11-03,31.0,included_game_day
+2026,258,Virginia Cavaliers,2025-11-07,39.4,included_game_day
+2026,258,Virginia Cavaliers,2025-11-11,70.36,included_game_day
+2026,258,Virginia Cavaliers,2025-11-15,88.782,included_game_day
+2026,258,Virginia Cavaliers,2025-11-21,92.66159999999999,included_game_day
+2026,258,Virginia Cavaliers,2025-11-23,83.716409,included_game_day
+2026,258,Virginia Cavaliers,2025-11-28,95.2084121,included_game_day
+2026,258,Virginia Cavaliers,2025-12-03,115.05552172886,included_game_day
+2026,258,Virginia Cavaliers,2025-12-06,122.657238235174,included_game_day
+2026,258,Virginia Cavaliers,2025-12-09,122.54496741642961,included_game_day
+2026,258,Virginia Cavaliers,2025-12-20,114.78550576225975,included_game_day
+2026,258,Virginia Cavaliers,2025-12-22,142.86308779938133,included_game_day
+2026,258,Virginia Cavaliers,2025-12-31,128.2760909587113,included_game_day
+2026,258,Virginia Cavaliers,2026-01-03,145.8313508827563,included_game_day
+2026,258,Virginia Cavaliers,2026-01-07,160.23492126118734,included_game_day
+2026,258,Virginia Cavaliers,2026-01-10,163.12857201423614,included_game_day
+2026,258,Virginia Cavaliers,2026-01-13,173.00381309899353,included_game_day
+2026,258,Virginia Cavaliers,2026-01-17,174.79939828390118,included_game_day
+2026,258,Virginia Cavaliers,2026-01-24,161.06523973000537,included_game_day
+2026,258,Virginia Cavaliers,2026-01-27,153.70947293715,included_game_day
+2026,258,Virginia Cavaliers,2026-01-31,149.46029781854756,included_game_day
+2026,258,Virginia Cavaliers,2026-02-03,155.09642931508418,included_game_day
+2026,258,Virginia Cavaliers,2026-02-07,155.20115777545627,included_game_day
+2026,258,Virginia Cavaliers,2026-02-10,150.17436653461087,included_game_day
+2026,258,Virginia Cavaliers,2026-02-14,148.8567602065128,included_game_day
+2026,258,Virginia Cavaliers,2026-02-18,161.06643474735384,included_game_day
+2026,258,Virginia Cavaliers,2026-02-21,156.53778652600698,included_game_day
+2026,258,Virginia Cavaliers,2026-02-24,180.39991731322507,included_game_day
+2026,258,Virginia Cavaliers,2026-02-28,166.23256830185494,included_game_day
+2026,258,Virginia Cavaliers,2026-03-03,156.49963785097236,included_game_day
+2026,258,Virginia Cavaliers,2026-03-07,150.70431776924525,included_game_day
+2026,258,Virginia Cavaliers,2026-03-12,151.44522734272928,included_game_day
+2026,258,Virginia Cavaliers,2026-03-13,172.96430044313945,included_game_day
+2026,258,Virginia Cavaliers,2026-03-14,178.51224524644982,included_game_day
+2026,258,Virginia Cavaliers,2026-03-20,172.56842708820673,included_game_day
+2026,258,Virginia Cavaliers,2026-03-22,164.08986282635712,included_game_day
+2027,258,Virginia Cavaliers,2026-11-03,26.0,included_game_day
+2027,258,Virginia Cavaliers,2026-11-06,44.9,included_game_day
+2027,258,Virginia Cavaliers,2026-11-08,63.61,included_game_day
+2027,258,Virginia Cavaliers,2026-11-10,83.699,included_game_day
+2027,258,Virginia Cavaliers,2026-11-13,83.95909999999999,included_game_day
+2027,258,Virginia Cavaliers,2026-11-17,96.13269,included_game_day
+2027,258,Virginia Cavaliers,2026-11-20,120.373183,included_game_day

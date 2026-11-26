@@ -1,0 +1,1227 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,2507,Providence,1987-11-27,1.0,included_game_day
+1988,2507,Providence,1987-11-28,2.6,included_game_day
+1988,2507,Providence,1987-11-30,-1.6599999999999997,included_game_day
+1988,2507,Providence,1987-12-02,-18.884,included_game_day
+1988,2507,Providence,1987-12-08,-5.954884,included_game_day
+1988,2507,Providence,1987-12-10,3.0441644000000014,included_game_day
+1988,2507,Providence,1987-12-19,-16.278260340000003,included_game_day
+1988,2507,Providence,1987-12-22,5.7337043939999965,included_game_day
+1988,2507,Providence,1987-12-29,6.663350452267396,included_game_day
+1988,2507,Providence,1988-01-02,14.226969783518058,included_game_day
+1988,2507,Providence,1988-01-09,14.004128639456539,included_game_day
+1988,2507,Providence,1988-01-13,24.649071015669946,included_game_day
+1988,2507,Providence,1988-01-17,10.377162739758953,included_game_day
+1988,2507,Providence,1988-01-19,20.403426304070493,included_game_day
+1988,2507,Providence,1988-01-23,10.918825804280655,included_game_day
+1988,2507,Providence,1988-01-25,-8.553858689761658,included_game_day
+1988,2507,Providence,1988-01-27,-17.23118070966353,included_game_day
+1988,2507,Providence,1988-01-30,-3.626748513384948,included_game_day
+1988,2507,Providence,1988-02-02,-2.088305962637362,included_game_day
+1988,2507,Providence,1988-02-06,-10.783545734287047,included_game_day
+1988,2507,Providence,1988-02-08,0.15974689356868765,included_game_day
+1988,2507,Providence,1988-02-13,-11.872849161708048,included_game_day
+1988,2507,Providence,1988-02-16,1.3924906350800281,included_game_day
+1988,2507,Providence,1988-02-20,-15.06130818787422,included_game_day
+1988,2507,Providence,1988-02-25,-15.708913344144205,included_game_day
+1988,2507,Providence,1988-02-29,-10.750044034813797,included_game_day
+1988,2507,Providence,1988-03-05,3.897050702590475,included_game_day
+1988,2507,Providence,1988-03-10,-2.7165333488222787,included_game_day
+1989,2507,Providence,1988-11-25,33.0,included_game_day
+1989,2507,Providence,1988-11-26,33.7,included_game_day
+1989,2507,Providence,1988-11-28,62.13,included_game_day
+1989,2507,Providence,1988-12-03,83.927,included_game_day
+1989,2507,Providence,1988-12-05,92.3935,included_game_day
+1989,2507,Providence,1988-12-07,112.405753,included_game_day
+1989,2507,Providence,1988-12-10,103.7672447,included_game_day
+1989,2507,Providence,1988-12-22,112.1234379447,included_game_day
+1989,2507,Providence,1988-12-27,114.892494577039,included_game_day
+1989,2507,Providence,1988-12-29,127.1386119772669,included_game_day
+1989,2507,Providence,1989-01-03,146.2232979917226,included_game_day
+1989,2507,Providence,1989-01-07,145.4321226376882,included_game_day
+1989,2507,Providence,1989-01-11,167.11105274299788,included_game_day
+1989,2507,Providence,1989-01-14,142.77763998740633,included_game_day
+1989,2507,Providence,1989-01-18,135.07541380425397,included_game_day
+1989,2507,Providence,1989-01-21,145.2338990653552,included_game_day
+1989,2507,Providence,1989-01-24,150.28699567758866,included_game_day
+1989,2507,Providence,1989-01-28,148.261375858171,included_game_day
+1989,2507,Providence,1989-02-01,126.64574600433312,included_game_day
+1989,2507,Providence,1989-02-04,127.07481555615546,included_game_day
+1989,2507,Providence,1989-02-07,127.37801113689666,included_game_day
+1989,2507,Providence,1989-02-14,118.6642572723278,included_game_day
+1989,2507,Providence,1989-02-18,114.88330294396626,included_game_day
+1989,2507,Providence,1989-02-22,119.17610549750607,included_game_day
+1989,2507,Providence,1989-02-25,119.05092737742476,included_game_day
+1989,2507,Providence,1989-03-01,104.95078488135971,included_game_day
+1989,2507,Providence,1989-03-04,121.4566998486313,included_game_day
+1989,2507,Providence,1989-03-10,123.16896204863988,included_game_day
+1989,2507,Providence,1989-03-16,120.34798180845172,included_game_day
+1990,2507,Providence,1989-11-24,18.0,included_game_day
+1990,2507,Providence,1989-11-25,16.4,included_game_day
+1990,2507,Providence,1989-11-30,36.129999999999995,included_game_day
+1990,2507,Providence,1989-12-02,44.79329,included_game_day
+1990,2507,Providence,1989-12-06,41.714461,included_game_day
+1990,2507,Providence,1989-12-09,37.90648196,included_game_day
+1990,2507,Providence,1989-12-21,56.225463958060004,included_game_day
+1990,2507,Providence,1989-12-23,59.190342517679,included_game_day
+1990,2507,Providence,1989-12-27,87.55744462838129,included_game_day
+1990,2507,Providence,1989-12-30,86.83102186224316,included_game_day
+1990,2507,Providence,1990-01-06,93.85233433164684,included_game_day
+1990,2507,Providence,1990-01-09,96.04607458341412,included_game_day
+1990,2507,Providence,1990-01-13,61.003122226186804,included_game_day
+1990,2507,Providence,1990-01-15,90.0277022435616,included_game_day
+1990,2507,Providence,1990-01-20,94.97267294890496,included_game_day
+1990,2507,Providence,1990-01-24,82.93873274648088,included_game_day
+1990,2507,Providence,1990-01-27,88.0506695551141,included_game_day
+1990,2507,Providence,1990-01-30,81.30689853280708,included_game_day
+1990,2507,Providence,1990-02-03,68.67218410666203,included_game_day
+1990,2507,Providence,1990-02-10,55.543220250054055,included_game_day
+1990,2507,Providence,1990-02-13,64.50333675430502,included_game_day
+1990,2507,Providence,1990-02-17,73.64209216235852,included_game_day
+1990,2507,Providence,1990-02-19,81.94243994264156,included_game_day
+1990,2507,Providence,1990-02-21,98.09271602905939,included_game_day
+1990,2507,Providence,1990-02-25,94.79911025204966,included_game_day
+1990,2507,Providence,1990-02-28,111.91750041121045,included_game_day
+1990,2507,Providence,1990-03-03,115.26526037962003,included_game_day
+1990,2507,Providence,1990-03-09,118.48333614730183,included_game_day
+1990,2507,Providence,1990-03-15,116.02673718032143,included_game_day
+1991,2507,Providence,1990-11-23,35.0,included_game_day
+1991,2507,Providence,1990-11-24,66.0,included_game_day
+1991,2507,Providence,1990-11-28,103.2,included_game_day
+1991,2507,Providence,1990-12-01,119.679,included_game_day
+1991,2507,Providence,1990-12-05,119.72187100000001,included_game_day
+1991,2507,Providence,1990-12-08,109.38668290000001,included_game_day
+1991,2507,Providence,1990-12-11,104.99703601000002,included_game_day
+1991,2507,Providence,1990-12-21,94.51264322084002,included_game_day
+1991,2507,Providence,1990-12-23,88.34466352875602,included_game_day
+1991,2507,Providence,1990-12-29,92.2551357499652,included_game_day
+1991,2507,Providence,1990-12-31,112.71491777496868,included_game_day
+1991,2507,Providence,1991-01-02,112.83501211059901,included_game_day
+1991,2507,Providence,1991-01-05,104.47989194478563,included_game_day
+1991,2507,Providence,1991-01-08,100.31599057166596,included_game_day
+1991,2507,Providence,1991-01-12,84.93267473195382,included_game_day
+1991,2507,Providence,1991-01-15,83.34624351038447,included_game_day
+1991,2507,Providence,1991-01-19,97.43877809894136,included_game_day
+1991,2507,Providence,1991-01-23,83.76940154770863,included_game_day
+1991,2507,Providence,1991-01-26,94.17396206402557,included_game_day
+1991,2507,Providence,1991-01-29,96.7000795746607,included_game_day
+1991,2507,Providence,1991-02-06,83.72510008561662,included_game_day
+1991,2507,Providence,1991-02-09,93.17330614399768,included_game_day
+1991,2507,Providence,1991-02-12,79.74290603047656,included_game_day
+1991,2507,Providence,1991-02-16,74.04873095939931,included_game_day
+1991,2507,Providence,1991-02-19,70.0145212640901,included_game_day
+1991,2507,Providence,1991-02-23,63.56978586065304,included_game_day
+1991,2507,Providence,1991-03-01,72.14839777912503,included_game_day
+1991,2507,Providence,1991-03-07,84.50344616499576,included_game_day
+1991,2507,Providence,1991-03-08,70.7178858686628,included_game_day
+1991,2507,Providence,1991-03-13,67.40602498375114,included_game_day
+1991,2507,Providence,1991-03-18,70.84499246034176,included_game_day
+1991,2507,Providence,1991-03-21,60.37602205981861,included_game_day
+1992,2507,Providence,1991-11-22,16.0,included_game_day
+1992,2507,Providence,1991-11-26,6.5,included_game_day
+1992,2507,Providence,1991-11-27,14.631,included_game_day
+1992,2507,Providence,1991-12-01,5.267900000000001,included_game_day
+1992,2507,Providence,1991-12-04,3.0801099999999995,included_game_day
+1992,2507,Providence,1991-12-07,8.759419999999999,included_game_day
+1992,2507,Providence,1991-12-10,12.301946899999999,included_game_day
+1992,2507,Providence,1991-12-21,18.0290229557348,included_game_day
+1992,2507,Providence,1991-12-23,40.56846777629332,included_game_day
+1992,2507,Providence,1991-12-28,51.074566395757984,included_game_day
+1992,2507,Providence,1991-12-30,44.77031825891895,included_game_day
+1992,2507,Providence,1992-01-04,39.26338310167667,included_game_day
+1992,2507,Providence,1992-01-06,29.666273766288548,included_game_day
+1992,2507,Providence,1992-01-11,30.103640716610357,included_game_day
+1992,2507,Providence,1992-01-14,33.356564361736204,included_game_day
+1992,2507,Providence,1992-01-18,31.233086669171776,included_game_day
+1992,2507,Providence,1992-01-22,27.35697257402063,included_game_day
+1992,2507,Providence,1992-01-25,35.4830861316977,included_game_day
+1992,2507,Providence,1992-01-28,51.873615289500535,included_game_day
+1992,2507,Providence,1992-02-01,49.54948332987982,included_game_day
+1992,2507,Providence,1992-02-04,46.58457788003503,included_game_day
+1992,2507,Providence,1992-02-08,76.47574592087568,included_game_day
+1992,2507,Providence,1992-02-12,88.42639904592224,included_game_day
+1992,2507,Providence,1992-02-15,84.95392576590024,included_game_day
+1992,2507,Providence,1992-02-18,96.66601527356067,included_game_day
+1992,2507,Providence,1992-02-22,75.92936379043738,included_game_day
+1992,2507,Providence,1992-02-24,72.81463310006927,included_game_day
+1992,2507,Providence,1992-03-03,64.85666425188248,included_game_day
+1992,2507,Providence,1992-03-07,54.32544212175344,included_game_day
+1992,2507,Providence,1992-03-12,41.803373142896135,included_game_day
+1993,2507,Providence,1992-12-01,27.0,included_game_day
+1993,2507,Providence,1992-12-03,48.6,included_game_day
+1993,2507,Providence,1992-12-05,66.54,included_game_day
+1993,2507,Providence,1992-12-08,58.784000000000006,included_game_day
+1993,2507,Providence,1992-12-11,69.02665058000001,included_game_day
+1993,2507,Providence,1992-12-22,76.640655522,included_game_day
+1993,2507,Providence,1992-12-27,93.9197014698,included_game_day
+1993,2507,Providence,1993-01-02,86.167743109404,included_game_day
+1993,2507,Providence,1993-01-05,73.12053110887157,included_game_day
+1993,2507,Providence,1993-01-09,60.51736552375138,included_game_day
+1993,2507,Providence,1993-01-12,68.00742469172371,included_game_day
+1993,2507,Providence,1993-01-16,52.04646994258603,included_game_day
+1993,2507,Providence,1993-01-19,39.581369511603526,included_game_day
+1993,2507,Providence,1993-01-23,38.26086645759951,included_game_day
+1993,2507,Providence,1993-01-25,46.877821472710814,included_game_day
+1993,2507,Providence,1993-01-30,56.40162763757374,included_game_day
+1993,2507,Providence,1993-02-02,43.450904118452776,included_game_day
+1993,2507,Providence,1993-02-06,56.57428854261138,included_game_day
+1993,2507,Providence,1993-02-09,46.834359461655566,included_game_day
+1993,2507,Providence,1993-02-13,61.38151780908548,included_game_day
+1993,2507,Providence,1993-02-16,69.63056156721805,included_game_day
+1993,2507,Providence,1993-02-20,84.80815290282766,included_game_day
+1993,2507,Providence,1993-02-22,81.90425767483548,included_game_day
+1993,2507,Providence,1993-02-27,84.20016658910701,included_game_day
+1993,2507,Providence,1993-03-02,84.58702373769384,included_game_day
+1993,2507,Providence,1993-03-06,88.30521150055006,included_game_day
+1993,2507,Providence,1993-03-12,104.73434485487536,included_game_day
+1993,2507,Providence,1993-03-13,101.41181082583965,included_game_day
+1993,2507,Providence,1993-03-17,108.33460194783173,included_game_day
+1993,2507,Providence,1993-03-22,103.82208793682359,included_game_day
+1993,2507,Providence,1993-03-24,123.06817287664971,included_game_day
+1993,2507,Providence,1993-03-29,116.77805049723221,included_game_day
+1993,2507,Providence,1993-03-31,110.99124439479178,included_game_day
+1994,2507,Providence,1993-11-24,-11.0,included_game_day
+1994,2507,Providence,1993-11-27,28.299999999999997,included_game_day
+1994,2507,Providence,1993-12-01,56.269999999999996,included_game_day
+1994,2507,Providence,1993-12-04,47.113,included_game_day
+1994,2507,Providence,1993-12-07,49.0597,included_game_day
+1994,2507,Providence,1993-12-14,97.21023,included_game_day
+1994,2507,Providence,1993-12-21,97.05437323,included_game_day
+1994,2507,Providence,1993-12-31,102.788467330267,included_game_day
+1994,2507,Providence,1994-01-05,119.237490527927,included_game_day
+1994,2507,Providence,1994-01-08,129.3734891178301,included_game_day
+1994,2507,Providence,1994-01-11,135.04731197252332,included_game_day
+1994,2507,Providence,1994-01-15,127.17406508849453,included_game_day
+1994,2507,Providence,1994-01-19,128.2889029644987,included_game_day
+1994,2507,Providence,1994-01-22,125.14313121852629,included_game_day
+1994,2507,Providence,1994-01-25,135.4219906301072,included_game_day
+1994,2507,Providence,1994-01-29,129.05621608408745,included_game_day
+1994,2507,Providence,1994-01-31,126.89442827249941,included_game_day
+1994,2507,Providence,1994-02-05,116.61904726793084,included_game_day
+1994,2507,Providence,1994-02-08,123.93277255800517,included_game_day
+1994,2507,Providence,1994-02-15,123.69638787264213,included_game_day
+1994,2507,Providence,1994-02-19,122.29506979110477,included_game_day
+1994,2507,Providence,1994-02-21,119.37126329310203,included_game_day
+1994,2507,Providence,1994-02-26,131.0149733292948,included_game_day
+1994,2507,Providence,1994-03-02,130.69469421468258,included_game_day
+1994,2507,Providence,1994-03-05,135.20448219050286,included_game_day
+1994,2507,Providence,1994-03-08,136.40703127410868,included_game_day
+1994,2507,Providence,1994-03-11,140.01876709045655,included_game_day
+1994,2507,Providence,1994-03-12,145.8581555393269,included_game_day
+1994,2507,Providence,1994-03-13,155.3785968079379,included_game_day
+1994,2507,Providence,1994-03-17,144.05121273012287,included_game_day
+1995,2507,Providence,1994-11-26,10.1,included_game_day
+1995,2507,Providence,1994-11-29,30.990000000000002,included_game_day
+1995,2507,Providence,1994-12-01,26.381,included_game_day
+1995,2507,Providence,1994-12-03,26.5309,included_game_day
+1995,2507,Providence,1994-12-06,26.299409999999998,included_game_day
+1995,2507,Providence,1994-12-10,35.564648999999996,included_game_day
+1995,2507,Providence,1994-12-28,54.084270660699396,included_game_day
+1995,2507,Providence,1995-01-04,37.44585298314011,included_game_day
+1995,2507,Providence,1995-01-07,34.21413299619666,included_game_day
+1995,2507,Providence,1995-01-10,30.038316730385304,included_game_day
+1995,2507,Providence,1995-01-14,37.23770356950522,included_game_day
+1995,2507,Providence,1995-01-18,26.12735375656151,included_game_day
+1995,2507,Providence,1995-01-21,29.662305502921555,included_game_day
+1995,2507,Providence,1995-01-25,57.816718051425,included_game_day
+1995,2507,Providence,1995-01-28,45.94466460379411,included_game_day
+1995,2507,Providence,1995-01-31,49.33782330612946,included_game_day
+1995,2507,Providence,1995-02-01,53.47452484284323,included_game_day
+1995,2507,Providence,1995-02-08,38.4616280808967,included_game_day
+1995,2507,Providence,1995-02-11,31.526241073102184,included_game_day
+1995,2507,Providence,1995-02-13,62.208635308756556,included_game_day
+1995,2507,Providence,1995-02-18,56.11252006201685,included_game_day
+1995,2507,Providence,1995-02-22,50.11280129794813,included_game_day
+1995,2507,Providence,1995-02-25,42.17195503678026,included_game_day
+1995,2507,Providence,1995-02-27,50.41349588600868,included_game_day
+1995,2507,Providence,1995-03-04,55.95737479664233,included_game_day
+1995,2507,Providence,1995-03-10,63.55817715560947,included_game_day
+1995,2507,Providence,1995-03-11,53.20873701045306,included_game_day
+1995,2507,Providence,1995-03-17,56.597004574685556,included_game_day
+1995,2507,Providence,1995-03-20,44.008288437149915,included_game_day
+1996,2507,Providence,1995-11-25,11.0,included_game_day
+1996,2507,Providence,1995-11-28,37.8,included_game_day
+1996,2507,Providence,1995-12-03,31.549999999999997,included_game_day
+1996,2507,Providence,1995-12-06,25.229999999999997,included_game_day
+1996,2507,Providence,1995-12-09,40.40443,included_game_day
+1996,2507,Providence,1995-12-11,33.99577889,included_game_day
+1996,2507,Providence,1995-12-21,28.033986430999995,included_game_day
+1996,2507,Providence,1995-12-23,29.298333233399994,included_game_day
+1996,2507,Providence,1995-12-28,24.859711977349995,included_game_day
+1996,2507,Providence,1996-01-02,17.008858896689176,included_game_day
+1996,2507,Providence,1996-01-06,22.171470064795535,included_game_day
+1996,2507,Providence,1996-01-08,48.82412929240368,included_game_day
+1996,2507,Providence,1996-01-10,54.188058756291625,included_game_day
+1996,2507,Providence,1996-01-13,54.07700009036276,included_game_day
+1996,2507,Providence,1996-01-20,68.21593372735043,included_game_day
+1996,2507,Providence,1996-01-24,72.45920160411448,included_game_day
+1996,2507,Providence,1996-01-28,91.26082476602487,included_game_day
+1996,2507,Providence,1996-02-01,96.05166491531962,included_game_day
+1996,2507,Providence,1996-02-03,92.96518788742625,included_game_day
+1996,2507,Providence,1996-02-06,86.20455362976118,included_game_day
+1996,2507,Providence,1996-02-10,87.17130196936724,included_game_day
+1996,2507,Providence,1996-02-14,101.36277754062979,included_game_day
+1996,2507,Providence,1996-02-17,97.79487049457325,included_game_day
+1996,2507,Providence,1996-02-21,92.99215848318929,included_game_day
+1996,2507,Providence,1996-02-27,102.46758711927902,included_game_day
+1996,2507,Providence,1996-03-02,90.65144562310856,included_game_day
+1996,2507,Providence,1996-03-06,94.88040969997573,included_game_day
+1996,2507,Providence,1996-03-07,87.33973328087397,included_game_day
+1996,2507,Providence,1996-03-15,98.5779546501939,included_game_day
+1996,2507,Providence,1996-03-19,70.36944147086021,included_game_day
+1997,2507,Providence,1996-11-23,-1.7,included_game_day
+1997,2507,Providence,1996-11-24,20.53,included_game_day
+1997,2507,Providence,1996-11-27,28.077,included_game_day
+1997,2507,Providence,1996-11-30,33.1203,included_game_day
+1997,2507,Providence,1996-12-04,24.17582,included_game_day
+1997,2507,Providence,1996-12-07,43.745900000000006,included_game_day
+1997,2507,Providence,1996-12-10,28.877190000000006,included_game_day
+1997,2507,Providence,1996-12-21,31.135508700000006,included_game_day
+1997,2507,Providence,1996-12-23,39.50183733000001,included_game_day
+1997,2507,Providence,1996-12-28,38.44997349292001,included_game_day
+1997,2507,Providence,1996-12-31,43.508076154448005,included_game_day
+1997,2507,Providence,1997-01-02,46.2251463445395,included_game_day
+1997,2507,Providence,1997-01-06,75.64786607328656,included_game_day
+1997,2507,Providence,1997-01-11,63.80640019556894,included_game_day
+1997,2507,Providence,1997-01-15,64.24755825281115,included_game_day
+1997,2507,Providence,1997-01-19,75.82282292349758,included_game_day
+1997,2507,Providence,1997-01-25,88.61626375619241,included_game_day
+1997,2507,Providence,1997-01-27,107.53690778530606,included_game_day
+1997,2507,Providence,1997-01-29,121.12019087229275,included_game_day
+1997,2507,Providence,1997-02-01,123.40914807178238,included_game_day
+1997,2507,Providence,1997-02-05,114.91702063886225,included_game_day
+1997,2507,Providence,1997-02-08,103.04852258958236,included_game_day
+1997,2507,Providence,1997-02-12,95.37959943135891,included_game_day
+1997,2507,Providence,1997-02-15,102.0566026264363,included_game_day
+1997,2507,Providence,1997-02-18,101.31482238092964,included_game_day
+1997,2507,Providence,1997-02-22,85.41545155344133,included_game_day
+1997,2507,Providence,1997-02-24,75.11726262615481,included_game_day
+1997,2507,Providence,1997-03-02,62.65110708887702,included_game_day
+1997,2507,Providence,1997-03-05,76.78157956996174,included_game_day
+1997,2507,Providence,1997-03-06,87.46716336099018,included_game_day
+1997,2507,Providence,1997-03-07,79.19327091480427,included_game_day
+1997,2507,Providence,1997-03-14,105.8096021261388,included_game_day
+1997,2507,Providence,1997-03-16,122.21159941168574,included_game_day
+1997,2507,Providence,1997-03-21,123.05420639993038,included_game_day
+1997,2507,Providence,1997-03-23,122.47364399308762,included_game_day
+1998,2507,Providence,1997-11-18,1.0,included_game_day
+1998,2507,Providence,1997-11-25,29.3833,included_game_day
+1998,2507,Providence,1997-11-30,7.662319999999998,included_game_day
+1998,2507,Providence,1997-12-02,11.861877999999997,included_game_day
+1998,2507,Providence,1997-12-09,6.200998929999997,included_game_day
+1998,2507,Providence,1997-12-20,11.941312983785998,included_game_day
+1998,2507,Providence,1997-12-23,18.315654442588396,included_game_day
+1998,2507,Providence,1997-12-27,31.911585469933225,included_game_day
+1998,2507,Providence,1997-12-29,34.419952559008046,included_game_day
+1998,2507,Providence,1998-01-03,39.63090009967028,included_game_day
+1998,2507,Providence,1998-01-05,34.73379446591068,included_game_day
+1998,2507,Providence,1998-01-07,16.282503681893836,included_game_day
+1998,2507,Providence,1998-01-10,24.90373502581454,included_game_day
+1998,2507,Providence,1998-01-13,45.09753091530074,included_game_day
+1998,2507,Providence,1998-01-17,36.45071589244678,included_game_day
+1998,2507,Providence,1998-01-20,43.05758098712592,included_game_day
+1998,2507,Providence,1998-01-24,35.28295734889282,included_game_day
+1998,2507,Providence,1998-01-27,36.458226882350104,included_game_day
+1998,2507,Providence,1998-01-31,17.510998468307726,included_game_day
+1998,2507,Providence,1998-02-04,15.36536251350145,included_game_day
+1998,2507,Providence,1998-02-08,1.784301143886056,included_game_day
+1998,2507,Providence,1998-02-11,11.304787513034135,included_game_day
+1998,2507,Providence,1998-02-14,14.875811461073589,included_game_day
+1998,2507,Providence,1998-02-18,18.025633625186686,included_game_day
+1998,2507,Providence,1998-02-21,17.36799188000903,included_game_day
+1998,2507,Providence,1998-02-23,24.088954574509437,included_game_day
+1998,2507,Providence,1998-02-28,35.65611019890285,included_game_day
+1998,2507,Providence,1998-03-04,49.90983469841758,included_game_day
+1998,2507,Providence,1998-03-05,51.921479256909734,included_game_day
+1999,2507,Providence,1998-11-09,-9.0,included_game_day
+1999,2507,Providence,1998-11-10,-13.0,included_game_day
+1999,2507,Providence,1998-11-14,10.3,included_game_day
+1999,2507,Providence,1998-11-21,11.340000000000002,included_game_day
+1999,2507,Providence,1998-11-24,26.157,included_game_day
+1999,2507,Providence,1998-11-28,29.72795,included_game_day
+1999,2507,Providence,1998-11-30,35.1702126,included_game_day
+1999,2507,Providence,1998-12-05,39.9408126,included_game_day
+1999,2507,Providence,1998-12-08,30.330715742000002,included_game_day
+1999,2507,Providence,1998-12-11,33.51353686944,included_game_day
+1999,2507,Providence,1998-12-27,42.17909924918814,included_game_day
+1999,2507,Providence,1998-12-30,61.868806640576565,included_game_day
+1999,2507,Providence,1999-01-02,76.59712346577997,included_game_day
+1999,2507,Providence,1999-01-05,69.59696439540627,included_game_day
+1999,2507,Providence,1999-01-09,64.7428362891399,included_game_day
+1999,2507,Providence,1999-01-12,79.47108666891044,included_game_day
+1999,2507,Providence,1999-01-17,82.53041289856256,included_game_day
+1999,2507,Providence,1999-01-20,59.68675468549594,included_game_day
+1999,2507,Providence,1999-01-23,23.800875425258262,included_game_day
+1999,2507,Providence,1999-01-26,40.02643794013259,included_game_day
+1999,2507,Providence,1999-01-30,18.30392832008325,included_game_day
+1999,2507,Providence,1999-02-03,27.186357153546062,included_game_day
+1999,2507,Providence,1999-02-07,18.929910340054846,included_game_day
+1999,2507,Providence,1999-02-13,22.37645630981556,included_game_day
+1999,2507,Providence,1999-02-15,5.948713956842038,included_game_day
+1999,2507,Providence,1999-02-20,23.11926983391941,included_game_day
+1999,2507,Providence,1999-02-22,27.16418104188743,included_game_day
+1999,2507,Providence,1999-02-27,30.64442633351706,included_game_day
+1999,2507,Providence,1999-03-03,32.42862256682076,included_game_day
+1999,2507,Providence,1999-03-10,33.38709300449173,included_game_day
+2000,2507,Providence,1999-11-20,-14.0,included_game_day
+2000,2507,Providence,1999-11-22,-5.6,included_game_day
+2000,2507,Providence,1999-11-25,-24.79,included_game_day
+2000,2507,Providence,1999-11-26,-32.584,included_game_day
+2000,2507,Providence,1999-11-30,-20.969600000000003,included_game_day
+2000,2507,Providence,1999-12-04,-15.536230000000003,included_game_day
+2000,2507,Providence,1999-12-07,-0.9457900000000024,included_game_day
+2000,2507,Providence,1999-12-21,-6.844320000839002,included_game_day
+2000,2507,Providence,1999-12-23,2.1468603578582988,included_game_day
+2000,2507,Providence,1999-12-27,8.020542782585867,included_game_day
+2000,2507,Providence,1999-12-30,5.121450701927731,included_game_day
+2000,2507,Providence,2000-01-02,0.32951714416988054,included_game_day
+2000,2507,Providence,2000-01-05,10.56879037640943,included_game_day
+2000,2507,Providence,2000-01-08,11.58081589827584,included_game_day
+2000,2507,Providence,2000-01-12,6.394724473039226,included_game_day
+2000,2507,Providence,2000-01-20,-3.498527537577367,included_game_day
+2000,2507,Providence,2000-01-23,-14.82012343454885,included_game_day
+2000,2507,Providence,2000-01-27,-11.914438120412797,included_game_day
+2000,2507,Providence,2000-01-30,-12.250980214294007,included_game_day
+2000,2507,Providence,2000-02-01,-15.863579400028279,included_game_day
+2000,2507,Providence,2000-02-05,-17.993961026877784,included_game_day
+2000,2507,Providence,2000-02-08,-25.78235016012169,included_game_day
+2000,2507,Providence,2000-02-12,-30.305541643239422,included_game_day
+2000,2507,Providence,2000-02-16,-13.316999005158422,included_game_day
+2000,2507,Providence,2000-02-23,5.706985580060927,included_game_day
+2000,2507,Providence,2000-02-26,6.7627477347965,included_game_day
+2000,2507,Providence,2000-03-01,10.26528554102,included_game_day
+2000,2507,Providence,2000-03-05,3.2816377481812413,included_game_day
+2000,2507,Providence,2000-03-08,-11.069602505951972,included_game_day
+2001,2507,Providence,2000-11-18,3.0,included_game_day
+2001,2507,Providence,2000-11-21,-11.9,included_game_day
+2001,2507,Providence,2000-11-24,-2.710000000000001,included_game_day
+2001,2507,Providence,2000-11-25,-9.852,included_game_day
+2001,2507,Providence,2000-11-26,-14.529951,included_game_day
+2001,2507,Providence,2000-11-29,-1.2492058999999998,included_game_day
+2001,2507,Providence,2000-12-02,17.16199469,included_game_day
+2001,2507,Providence,2000-12-07,31.434175221,included_game_day
+2001,2507,Providence,2000-12-11,47.7973363029,included_game_day
+2001,2507,Providence,2000-12-23,86.28455999620999,included_game_day
+2001,2507,Providence,2000-12-28,100.1251954007235,included_game_day
+2001,2507,Providence,2000-12-30,98.19790061819502,included_game_day
+2001,2507,Providence,2001-01-03,88.83420671713009,included_game_day
+2001,2507,Providence,2001-01-09,96.27948559241639,included_game_day
+2001,2507,Providence,2001-01-13,103.93757248400937,included_game_day
+2001,2507,Providence,2001-01-16,78.1989835252072,included_game_day
+2001,2507,Providence,2001-01-20,84.96410561664034,included_game_day
+2001,2507,Providence,2001-01-23,94.69708702002086,included_game_day
+2001,2507,Providence,2001-01-28,102.92181852267406,included_game_day
+2001,2507,Providence,2001-01-31,112.55203803865689,included_game_day
+2001,2507,Providence,2001-02-03,116.47696592129188,included_game_day
+2001,2507,Providence,2001-02-06,97.43515736997702,included_game_day
+2001,2507,Providence,2001-02-10,121.22272600712304,included_game_day
+2001,2507,Providence,2001-02-14,129.7583069680691,included_game_day
+2001,2507,Providence,2001-02-17,123.68525919131467,included_game_day
+2001,2507,Providence,2001-02-20,142.24373170458745,included_game_day
+2001,2507,Providence,2001-02-24,136.611783774672,included_game_day
+2001,2507,Providence,2001-03-03,131.46102245595873,included_game_day
+2001,2507,Providence,2001-03-08,124.94598832324297,included_game_day
+2001,2507,Providence,2001-03-16,107.48028151269692,included_game_day
+2002,2507,Providence Friars,2001-11-16,22.0,included_game_day
+2002,2507,Providence Friars,2001-11-21,25.8,included_game_day
+2002,2507,Providence Friars,2001-11-24,33.57,included_game_day
+2002,2507,Providence Friars,2001-11-28,20.20449,included_game_day
+2002,2507,Providence Friars,2001-12-03,3.1609745999999994,included_game_day
+2002,2507,Providence Friars,2001-12-08,-5.607057524,included_game_day
+2002,2507,Providence Friars,2001-12-19,-1.1652731509191998,included_game_day
+2002,2507,Providence Friars,2001-12-22,2.3806403898727204,included_game_day
+2002,2507,Providence Friars,2001-12-27,33.81520707671565,included_game_day
+2002,2507,Providence Friars,2001-12-30,59.59603763328451,included_game_day
+2002,2507,Providence Friars,2002-01-02,42.896528238887484,included_game_day
+2002,2507,Providence Friars,2002-01-05,39.09191320897243,included_game_day
+2002,2507,Providence Friars,2002-01-07,26.578691501400762,included_game_day
+2002,2507,Providence Friars,2002-01-12,49.83223162830068,included_game_day
+2002,2507,Providence Friars,2002-01-16,45.75097341633208,included_game_day
+2002,2507,Providence Friars,2002-01-19,47.26899011910869,included_game_day
+2002,2507,Providence Friars,2002-01-22,58.4642885994688,included_game_day
+2002,2507,Providence Friars,2002-01-26,67.4812122611181,included_game_day
+2002,2507,Providence Friars,2002-01-30,51.793035133177916,included_game_day
+2002,2507,Providence Friars,2002-02-02,52.331467706628054,included_game_day
+2002,2507,Providence Friars,2002-02-05,49.97943785195183,included_game_day
+2002,2507,Providence Friars,2002-02-09,48.36665711536741,included_game_day
+2002,2507,Providence Friars,2002-02-19,55.86528123020305,included_game_day
+2002,2507,Providence Friars,2002-02-23,47.18582805526556,included_game_day
+2002,2507,Providence Friars,2002-02-26,31.501802538871047,included_game_day
+2002,2507,Providence Friars,2002-03-02,34.9481915187398,included_game_day
+2002,2507,Providence Friars,2002-03-06,44.85866696130317,included_game_day
+2003,2507,Providence Friars,2002-11-23,15.629999999999999,included_game_day
+2003,2507,Providence Friars,2002-11-26,13.067,included_game_day
+2003,2507,Providence Friars,2002-11-30,31.7603,included_game_day
+2003,2507,Providence Friars,2002-12-04,38.0267982,included_game_day
+2003,2507,Providence Friars,2002-12-07,27.86250838,included_game_day
+2003,2507,Providence Friars,2002-12-19,55.486222991030004,included_game_day
+2003,2507,Providence Friars,2002-12-21,51.016020377207006,included_game_day
+2003,2507,Providence Friars,2002-12-28,60.625901436173876,included_game_day
+2003,2507,Providence Friars,2002-12-30,58.87787813865649,included_game_day
+2003,2507,Providence Friars,2003-01-02,73.68168210506327,included_game_day
+2003,2507,Providence Friars,2003-01-04,64.49890483954283,included_game_day
+2003,2507,Providence Friars,2003-01-08,63.57339761142392,included_game_day
+2003,2507,Providence Friars,2003-01-11,50.140878909533924,included_game_day
+2003,2507,Providence Friars,2003-01-15,57.402325089026526,included_game_day
+2003,2507,Providence Friars,2003-01-18,40.31366354843137,included_game_day
+2003,2507,Providence Friars,2003-01-21,37.936854440805014,included_game_day
+2003,2507,Providence Friars,2003-01-29,38.25986695333807,included_game_day
+2003,2507,Providence Friars,2003-02-01,62.08041693652714,included_game_day
+2003,2507,Providence Friars,2003-02-04,67.39509010197229,included_game_day
+2003,2507,Providence Friars,2003-02-08,46.66015779758972,included_game_day
+2003,2507,Providence Friars,2003-02-12,36.35645872419697,included_game_day
+2003,2507,Providence Friars,2003-02-15,50.16017525017998,included_game_day
+2003,2507,Providence Friars,2003-02-18,56.99969441886749,included_game_day
+2003,2507,Providence Friars,2003-02-22,64.89305968544835,included_game_day
+2003,2507,Providence Friars,2003-02-25,52.63644731002979,included_game_day
+2003,2507,Providence Friars,2003-03-05,66.86984355601018,included_game_day
+2003,2507,Providence Friars,2003-03-08,66.34224352206188,included_game_day
+2003,2507,Providence Friars,2003-03-12,80.60725072393714,included_game_day
+2003,2507,Providence Friars,2003-03-13,84.51186205187771,included_game_day
+2003,2507,Providence Friars,2003-03-19,98.73842165622408,included_game_day
+2003,2507,Providence Friars,2003-03-22,93.77466057347972,included_game_day
+2003,2507,Providence Friars,2003-03-24,80.66726951212105,included_game_day
+2004,2507,Providence Friars,2003-11-22,9.43,included_game_day
+2004,2507,Providence Friars,2003-11-29,10.671,included_game_day
+2004,2507,Providence Friars,2003-12-02,33.085499999999996,included_game_day
+2004,2507,Providence Friars,2003-12-06,26.020683999999996,included_game_day
+2004,2507,Providence Friars,2003-12-09,46.49255167,included_game_day
+2004,2507,Providence Friars,2003-12-21,43.920010833,included_game_day
+2004,2507,Providence Friars,2003-12-23,46.720696748299,included_game_day
+2004,2507,Providence Friars,2003-12-28,42.045600047994995,included_game_day
+2004,2507,Providence Friars,2004-01-03,61.46705088923,included_game_day
+2004,2507,Providence Friars,2004-01-05,61.290412709942245,included_game_day
+2004,2507,Providence Friars,2004-01-10,61.60773257919672,included_game_day
+2004,2507,Providence Friars,2004-01-12,72.98386774024067,included_game_day
+2004,2507,Providence Friars,2004-01-17,85.42491670677246,included_game_day
+2004,2507,Providence Friars,2004-01-19,97.26077660339033,included_game_day
+2004,2507,Providence Friars,2004-01-21,94.51632822778619,included_game_day
+2004,2507,Providence Friars,2004-01-24,115.59785044530393,included_game_day
+2004,2507,Providence Friars,2004-01-26,120.37358625711978,included_game_day
+2004,2507,Providence Friars,2004-02-01,105.53573555029412,included_game_day
+2004,2507,Providence Friars,2004-02-04,85.44596560953684,included_game_day
+2004,2507,Providence Friars,2004-02-07,93.4038024711197,included_game_day
+2004,2507,Providence Friars,2004-02-11,120.68822735229072,included_game_day
+2004,2507,Providence Friars,2004-02-14,128.4008049161638,included_game_day
+2004,2507,Providence Friars,2004-02-21,127.02499147346357,included_game_day
+2004,2507,Providence Friars,2004-02-24,139.3903348769031,included_game_day
+2004,2507,Providence Friars,2004-02-29,149.2889099257333,included_game_day
+2004,2507,Providence Friars,2004-03-02,117.95487504081912,included_game_day
+2004,2507,Providence Friars,2004-03-06,103.8775934448063,included_game_day
+2004,2507,Providence Friars,2004-03-11,93.3870165785821,included_game_day
+2004,2507,Providence Friars,2004-03-19,80.27679765602211,included_game_day
+2005,2507,Providence Friars,2004-11-16,2.0,included_game_day
+2005,2507,Providence Friars,2004-11-18,36.9,included_game_day
+2005,2507,Providence Friars,2004-11-24,23.783,included_game_day
+2005,2507,Providence Friars,2004-11-26,36.015060000000005,included_game_day
+2005,2507,Providence Friars,2004-11-27,23.863554000000004,included_game_day
+2005,2507,Providence Friars,2004-11-30,12.960152500000003,included_game_day
+2005,2507,Providence Friars,2004-12-04,13.106880150000002,included_game_day
+2005,2507,Providence Friars,2004-12-11,9.415447669300002,included_game_day
+2005,2507,Providence Friars,2004-12-21,36.218386538293004,included_game_day
+2005,2507,Providence Friars,2004-12-23,48.570615036243176,included_game_day
+2005,2507,Providence Friars,2004-12-31,54.22440158974063,included_game_day
+2005,2507,Providence Friars,2005-01-03,61.263967767455995,included_game_day
+2005,2507,Providence Friars,2005-01-08,58.605275024914825,included_game_day
+2005,2507,Providence Friars,2005-01-11,54.97562440473642,included_game_day
+2005,2507,Providence Friars,2005-01-15,56.74930293976478,included_game_day
+2005,2507,Providence Friars,2005-01-19,51.36672626790377,included_game_day
+2005,2507,Providence Friars,2005-01-26,51.70929702995412,included_game_day
+2005,2507,Providence Friars,2005-01-29,42.02834564409878,included_game_day
+2005,2507,Providence Friars,2005-01-31,31.053989147984563,included_game_day
+2005,2507,Providence Friars,2005-02-02,44.37930054208242,included_game_day
+2005,2507,Providence Friars,2005-02-05,48.7569469816643,included_game_day
+2005,2507,Providence Friars,2005-02-09,49.309967516896705,included_game_day
+2005,2507,Providence Friars,2005-02-13,58.55728311910815,included_game_day
+2005,2507,Providence Friars,2005-02-15,58.146246065204366,included_game_day
+2005,2507,Providence Friars,2005-02-19,57.365147242447115,included_game_day
+2005,2507,Providence Friars,2005-02-26,40.933988614389776,included_game_day
+2005,2507,Providence Friars,2005-03-01,47.72395793908325,included_game_day
+2005,2507,Providence Friars,2005-03-05,54.104942065840255,included_game_day
+2005,2507,Providence Friars,2005-03-09,34.15072214021755,included_game_day
+2006,2507,Providence Friars,2005-11-21,6.5,included_game_day
+2006,2507,Providence Friars,2005-11-23,26.81,included_game_day
+2006,2507,Providence Friars,2005-11-28,26.749,included_game_day
+2006,2507,Providence Friars,2005-11-30,25.377336,included_game_day
+2006,2507,Providence Friars,2005-12-03,19.4938524,included_game_day
+2006,2507,Providence Friars,2005-12-06,13.628367860000001,included_game_day
+2006,2507,Providence Friars,2005-12-10,9.534603570000002,included_game_day
+2006,2507,Providence Friars,2005-12-20,32.32163331,included_game_day
+2006,2507,Providence Friars,2005-12-22,37.69648509937,included_game_day
+2006,2507,Providence Friars,2005-12-27,47.845911185749,included_game_day
+2006,2507,Providence Friars,2006-01-03,52.862460511914385,included_game_day
+2006,2507,Providence Friars,2006-01-05,49.05099705038377,included_game_day
+2006,2507,Providence Friars,2006-01-07,44.45964416431266,included_game_day
+2006,2507,Providence Friars,2006-01-14,33.81752513519314,included_game_day
+2006,2507,Providence Friars,2006-01-17,28.610017525653603,included_game_day
+2006,2507,Providence Friars,2006-01-21,24.003503983699893,included_game_day
+2006,2507,Providence Friars,2006-01-25,40.379006032351086,included_game_day
+2006,2507,Providence Friars,2006-01-28,36.82715716098295,included_game_day
+2006,2507,Providence Friars,2006-02-01,35.50782767858888,included_game_day
+2006,2507,Providence Friars,2006-02-04,41.60958756786122,included_game_day
+2006,2507,Providence Friars,2006-02-07,42.20195719130125,included_game_day
+2006,2507,Providence Friars,2006-02-15,40.53578651854335,included_game_day
+2006,2507,Providence Friars,2006-02-17,45.705715286964725,included_game_day
+2006,2507,Providence Friars,2006-02-21,57.833932339998846,included_game_day
+2006,2507,Providence Friars,2006-02-25,55.391450996538424,included_game_day
+2006,2507,Providence Friars,2006-03-01,49.94256973755735,included_game_day
+2006,2507,Providence Friars,2006-03-04,47.72921542829791,included_game_day
+2007,2507,Providence Friars,2006-11-14,22.0,included_game_day
+2007,2507,Providence Friars,2006-11-18,2.9080000000000013,included_game_day
+2007,2507,Providence Friars,2006-11-22,10.211200000000002,included_game_day
+2007,2507,Providence Friars,2006-11-26,32.0508,included_game_day
+2007,2507,Providence Friars,2006-11-28,51.216798000000004,included_game_day
+2007,2507,Providence Friars,2006-12-02,73.2406177,included_game_day
+2007,2507,Providence Friars,2006-12-04,74.136536044,included_game_day
+2007,2507,Providence Friars,2006-12-06,69.0933103178,included_game_day
+2007,2507,Providence Friars,2006-12-09,74.35188464480001,included_game_day
+2007,2507,Providence Friars,2006-12-19,74.35387548371801,included_game_day
+2007,2507,Providence Friars,2006-12-22,70.9789373664072,included_game_day
+2007,2507,Providence Friars,2006-12-29,45.46312310448151,included_game_day
+2007,2507,Providence Friars,2007-01-02,70.23232055530642,included_game_day
+2007,2507,Providence Friars,2007-01-04,83.31376038674567,included_game_day
+2007,2507,Providence Friars,2007-01-06,96.75653573737529,included_game_day
+2007,2507,Providence Friars,2007-01-13,83.2353862272839,included_game_day
+2007,2507,Providence Friars,2007-01-17,80.15296968441304,included_game_day
+2007,2507,Providence Friars,2007-01-20,80.66782788225102,included_game_day
+2007,2507,Providence Friars,2007-01-23,73.71309469912605,included_game_day
+2007,2507,Providence Friars,2007-01-27,91.67544412200489,included_game_day
+2007,2507,Providence Friars,2007-02-03,89.67508161225969,included_game_day
+2007,2507,Providence Friars,2007-02-06,77.79034963119926,included_game_day
+2007,2507,Providence Friars,2007-02-10,84.18764027214348,included_game_day
+2007,2507,Providence Friars,2007-02-15,88.26774367535684,included_game_day
+2007,2507,Providence Friars,2007-02-17,83.98861258685784,included_game_day
+2007,2507,Providence Friars,2007-02-20,86.00651448204322,included_game_day
+2007,2507,Providence Friars,2007-02-24,79.26566479806486,included_game_day
+2007,2507,Providence Friars,2007-02-28,78.85020657418995,included_game_day
+2007,2507,Providence Friars,2007-03-04,62.205933200040974,included_game_day
+2007,2507,Providence Friars,2007-03-07,55.59998579883941,included_game_day
+2007,2507,Providence Friars,2007-03-14,48.87306514405274,included_game_day
+2008,2507,Providence Friars,2007-11-15,0.6000000000000001,included_game_day
+2008,2507,Providence Friars,2007-11-16,20.810000000000002,included_game_day
+2008,2507,Providence Friars,2007-11-18,15.741000000000003,included_game_day
+2008,2507,Providence Friars,2007-11-24,32.56888000000001,included_game_day
+2008,2507,Providence Friars,2007-11-27,54.772583000000004,included_game_day
+2008,2507,Providence Friars,2007-12-01,61.76054424,included_game_day
+2008,2507,Providence Friars,2007-12-04,49.3620804782,included_game_day
+2008,2507,Providence Friars,2007-12-06,50.91624460568,included_game_day
+2008,2507,Providence Friars,2007-12-09,64.682450576244,included_game_day
+2008,2507,Providence Friars,2007-12-19,60.34471277371959,included_game_day
+2008,2507,Providence Friars,2007-12-22,66.18778935168984,included_game_day
+2008,2507,Providence Friars,2007-12-31,58.19948771088929,included_game_day
+2008,2507,Providence Friars,2008-01-03,40.52892152171437,included_game_day
+2008,2507,Providence Friars,2008-01-05,35.11291397024161,included_game_day
+2008,2507,Providence Friars,2008-01-09,52.64807041194582,included_game_day
+2008,2507,Providence Friars,2008-01-12,67.35102536190449,included_game_day
+2008,2507,Providence Friars,2008-01-17,88.10455952560307,included_game_day
+2008,2507,Providence Friars,2008-01-24,67.57328761759835,included_game_day
+2008,2507,Providence Friars,2008-01-27,66.23106031303033,included_game_day
+2008,2507,Providence Friars,2008-01-31,67.55557062567652,included_game_day
+2008,2507,Providence Friars,2008-02-02,56.22835320289748,included_game_day
+2008,2507,Providence Friars,2008-02-05,65.49465456798498,included_game_day
+2008,2507,Providence Friars,2008-02-09,61.62060272607176,included_game_day
+2008,2507,Providence Friars,2008-02-12,50.412908757786724,included_game_day
+2008,2507,Providence Friars,2008-02-16,52.54708995694909,included_game_day
+2008,2507,Providence Friars,2008-02-18,46.7326468769374,included_game_day
+2008,2507,Providence Friars,2008-02-23,27.956481977068137,included_game_day
+2008,2507,Providence Friars,2008-03-02,35.21125498730318,included_game_day
+2008,2507,Providence Friars,2008-03-06,50.60794578567322,included_game_day
+2008,2507,Providence Friars,2008-03-08,40.246357639951356,included_game_day
+2008,2507,Providence Friars,2008-03-12,44.01369196280375,included_game_day
+2009,2507,Providence Friars,2008-11-15,-7.53,included_game_day
+2009,2507,Providence Friars,2008-11-18,7.023000000000001,included_game_day
+2009,2507,Providence Friars,2008-11-20,25.2407,included_game_day
+2009,2507,Providence Friars,2008-11-22,43.93063,included_game_day
+2009,2507,Providence Friars,2008-11-27,29.777477,included_game_day
+2009,2507,Providence Friars,2008-11-28,30.4065533,included_game_day
+2009,2507,Providence Friars,2008-11-30,23.787389169999997,included_game_day
+2009,2507,Providence Friars,2008-12-03,40.017179053,included_game_day
+2009,2507,Providence Friars,2008-12-06,39.1121294417,included_game_day
+2009,2507,Providence Friars,2008-12-17,41.69027828989,included_game_day
+2009,2507,Providence Friars,2008-12-20,40.3948724177716,included_game_day
+2009,2507,Providence Friars,2008-12-22,51.7284667426771,included_game_day
+2009,2507,Providence Friars,2008-12-31,67.86518060644254,included_game_day
+2009,2507,Providence Friars,2009-01-03,67.42943382510387,included_game_day
+2009,2507,Providence Friars,2009-01-07,75.7351811495557,included_game_day
+2009,2507,Providence Friars,2009-01-10,76.57413590347025,included_game_day
+2009,2507,Providence Friars,2009-01-17,72.19509847250166,included_game_day
+2009,2507,Providence Friars,2009-01-19,75.01375778059517,included_game_day
+2009,2507,Providence Friars,2009-01-22,77.2793485620481,included_game_day
+2009,2507,Providence Friars,2009-01-28,82.07638413283182,included_game_day
+2009,2507,Providence Friars,2009-01-31,60.46705886085912,included_game_day
+2009,2507,Providence Friars,2009-02-04,62.086080022796544,included_game_day
+2009,2507,Providence Friars,2009-02-07,44.21014818553621,included_game_day
+2009,2507,Providence Friars,2009-02-10,58.79072693064654,included_game_day
+2009,2507,Providence Friars,2009-02-14,59.939897694158105,included_game_day
+2009,2507,Providence Friars,2009-02-18,52.09741534769121,included_game_day
+2009,2507,Providence Friars,2009-02-21,33.50345234440923,included_game_day
+2009,2507,Providence Friars,2009-02-24,53.63489195238587,included_game_day
+2009,2507,Providence Friars,2009-03-01,59.178619572259784,included_game_day
+2009,2507,Providence Friars,2009-03-05,52.27934257313407,included_game_day
+2009,2507,Providence Friars,2009-03-11,52.139119147433746,included_game_day
+2009,2507,Providence Friars,2009-03-12,48.40456941897902,included_game_day
+2009,2507,Providence Friars,2009-03-18,36.307179851723646,included_game_day
+2010,2507,Providence Friars,2009-11-13,40.0,included_game_day
+2010,2507,Providence Friars,2009-11-14,43.1,included_game_day
+2010,2507,Providence Friars,2009-11-15,40.6,included_game_day
+2010,2507,Providence Friars,2009-11-20,31.05,included_game_day
+2010,2507,Providence Friars,2009-11-24,67.4106,included_game_day
+2010,2507,Providence Friars,2009-11-28,56.368767000000005,included_game_day
+2010,2507,Providence Friars,2009-12-01,57.55700242,included_game_day
+2010,2507,Providence Friars,2009-12-05,56.117070808,included_game_day
+2010,2507,Providence Friars,2009-12-07,57.5906580066,included_game_day
+2010,2507,Providence Friars,2009-12-09,73.71519347004,included_game_day
+2010,2507,Providence Friars,2009-12-12,55.513961262684006,included_game_day
+2010,2507,Providence Friars,2009-12-21,53.3067003255926,included_game_day
+2010,2507,Providence Friars,2009-12-30,44.79393037067507,included_game_day
+2010,2507,Providence Friars,2010-01-03,65.1360290645379,included_game_day
+2010,2507,Providence Friars,2010-01-06,44.50854171466089,included_game_day
+2010,2507,Providence Friars,2010-01-09,49.78469195784557,included_game_day
+2010,2507,Providence Friars,2010-01-14,61.87758140186155,included_game_day
+2010,2507,Providence Friars,2010-01-17,40.10513651083392,included_game_day
+2010,2507,Providence Friars,2010-01-23,32.42381493346954,included_game_day
+2010,2507,Providence Friars,2010-01-27,52.115290099222136,included_game_day
+2010,2507,Providence Friars,2010-01-30,53.761169342653126,included_game_day
+2010,2507,Providence Friars,2010-02-02,51.08022910050218,included_game_day
+2010,2507,Providence Friars,2010-02-06,52.238415140887156,included_game_day
+2010,2507,Providence Friars,2010-02-09,48.54862220215374,included_game_day
+2010,2507,Providence Friars,2010-02-13,51.862495309714205,included_game_day
+2010,2507,Providence Friars,2010-02-17,44.56555959754877,included_game_day
+2010,2507,Providence Friars,2010-02-23,38.91679070145696,included_game_day
+2010,2507,Providence Friars,2010-02-27,36.142289047730884,included_game_day
+2010,2507,Providence Friars,2010-03-04,45.53781430494158,included_game_day
+2010,2507,Providence Friars,2010-03-06,33.83456536761002,included_game_day
+2010,2507,Providence Friars,2010-03-09,36.47196621774477,included_game_day
+2011,2507,Providence Friars,2010-11-13,32.0,included_game_day
+2011,2507,Providence Friars,2010-11-15,27.9,included_game_day
+2011,2507,Providence Friars,2010-11-18,44.61,included_game_day
+2011,2507,Providence Friars,2010-11-20,45.477000000000004,included_game_day
+2011,2507,Providence Friars,2010-11-23,30.617000000000004,included_game_day
+2011,2507,Providence Friars,2010-11-24,31.727650000000004,included_game_day
+2011,2507,Providence Friars,2010-11-29,61.662115,included_game_day
+2011,2507,Providence Friars,2010-12-01,56.3078405,included_game_day
+2011,2507,Providence Friars,2010-12-04,63.87109409,included_game_day
+2011,2507,Providence Friars,2010-12-06,80.662450734,included_game_day
+2011,2507,Providence Friars,2010-12-08,79.61123029114,included_game_day
+2011,2507,Providence Friars,2010-12-11,84.427641556126,included_game_day
+2011,2507,Providence Friars,2010-12-21,79.08914784240855,included_game_day
+2011,2507,Providence Friars,2010-12-28,82.2698581122798,included_game_day
+2011,2507,Providence Friars,2011-01-01,77.05733322336037,included_game_day
+2011,2507,Providence Friars,2011-01-04,76.23543591426646,included_game_day
+2011,2507,Providence Friars,2011-01-08,60.98445111855408,included_game_day
+2011,2507,Providence Friars,2011-01-13,36.74377573424319,included_game_day
+2011,2507,Providence Friars,2011-01-16,30.87369466183212,included_game_day
+2011,2507,Providence Friars,2011-01-22,43.640287028053464,included_game_day
+2011,2507,Providence Friars,2011-01-26,67.89621082210289,included_game_day
+2011,2507,Providence Friars,2011-01-30,60.70019398585583,included_game_day
+2011,2507,Providence Friars,2011-02-02,58.81013477985739,included_game_day
+2011,2507,Providence Friars,2011-02-05,66.07610723240856,included_game_day
+2011,2507,Providence Friars,2011-02-13,54.115461290854185,included_game_day
+2011,2507,Providence Friars,2011-02-17,40.11750227671024,included_game_day
+2011,2507,Providence Friars,2011-02-19,30.406399075523826,included_game_day
+2011,2507,Providence Friars,2011-02-23,36.022709933038556,included_game_day
+2011,2507,Providence Friars,2011-02-27,22.004366985005767,included_game_day
+2011,2507,Providence Friars,2011-03-02,8.750321563970358,included_game_day
+2011,2507,Providence Friars,2011-03-05,9.471708197125457,included_game_day
+2011,2507,Providence Friars,2011-03-08,-2.8628408915819996,included_game_day
+2012,2507,Providence Friars,2011-11-12,8.0,included_game_day
+2012,2507,Providence Friars,2011-11-14,19.4,included_game_day
+2012,2507,Providence Friars,2011-11-19,31.68,included_game_day
+2012,2507,Providence Friars,2011-11-22,28.503,included_game_day
+2012,2507,Providence Friars,2011-11-25,18.275709,included_game_day
+2012,2507,Providence Friars,2011-11-26,2.0162002,included_game_day
+2012,2507,Providence Friars,2011-11-29,2.28466318,included_game_day
+2012,2507,Providence Friars,2011-12-01,12.401807162,included_game_day
+2012,2507,Providence Friars,2011-12-05,34.1357644208,included_game_day
+2012,2507,Providence Friars,2011-12-08,26.86862606472,included_game_day
+2012,2507,Providence Friars,2011-12-10,24.593269460528,included_game_day
+2012,2507,Providence Friars,2011-12-20,34.96943874913758,included_game_day
+2012,2507,Providence Friars,2011-12-23,46.88850710282706,included_game_day
+2012,2507,Providence Friars,2011-12-27,19.798763283524234,included_game_day
+2012,2507,Providence Friars,2011-12-31,23.273591535059197,included_game_day
+2012,2507,Providence Friars,2012-01-04,22.403473173619624,included_game_day
+2012,2507,Providence Friars,2012-01-07,17.79302547690692,included_game_day
+2012,2507,Providence Friars,2012-01-10,52.5900933558155,included_game_day
+2012,2507,Providence Friars,2012-01-14,45.5185953610481,included_game_day
+2012,2507,Providence Friars,2012-01-21,41.35618957732557,included_game_day
+2012,2507,Providence Friars,2012-01-25,31.160174291189655,included_game_day
+2012,2507,Providence Friars,2012-01-29,32.85873564999187,included_game_day
+2012,2507,Providence Friars,2012-02-01,42.48920408217139,included_game_day
+2012,2507,Providence Friars,2012-02-05,41.082467016603985,included_game_day
+2012,2507,Providence Friars,2012-02-07,42.24974942063794,included_game_day
+2012,2507,Providence Friars,2012-02-11,31.828516759177802,included_game_day
+2012,2507,Providence Friars,2012-02-15,25.425073248324242,included_game_day
+2012,2507,Providence Friars,2012-02-18,21.500430220833927,included_game_day
+2012,2507,Providence Friars,2012-02-25,22.366075429426303,included_game_day
+2012,2507,Providence Friars,2012-02-28,26.61713876239019,included_game_day
+2012,2507,Providence Friars,2012-03-02,31.485051733649076,included_game_day
+2012,2507,Providence Friars,2012-03-06,0.8972570607330077,included_game_day
+2013,2507,Providence Friars,2012-11-10,-2.0,included_game_day
+2013,2507,Providence Friars,2012-11-12,23.2,included_game_day
+2013,2507,Providence Friars,2012-11-15,18.88,included_game_day
+2013,2507,Providence Friars,2012-11-16,13.001999999999999,included_game_day
+2013,2507,Providence Friars,2012-11-18,14.287099999999999,included_game_day
+2013,2507,Providence Friars,2012-11-23,27.769075,included_game_day
+2013,2507,Providence Friars,2012-11-27,40.7635924,included_game_day
+2013,2507,Providence Friars,2012-12-01,39.575664759999995,included_game_day
+2013,2507,Providence Friars,2012-12-06,46.301761696999996,included_game_day
+2013,2507,Providence Friars,2012-12-18,67.72934176019,included_game_day
+2013,2507,Providence Friars,2012-12-22,59.190596014676,included_game_day
+2013,2507,Providence Friars,2012-12-28,50.44831834013803,included_game_day
+2013,2507,Providence Friars,2013-01-02,47.0769355416122,included_game_day
+2013,2507,Providence Friars,2013-01-05,32.617639531894966,included_game_day
+2013,2507,Providence Friars,2013-01-09,36.631370340562796,included_game_day
+2013,2507,Providence Friars,2013-01-13,53.338686623547716,included_game_day
+2013,2507,Providence Friars,2013-01-16,48.44933321508341,included_game_day
+2013,2507,Providence Friars,2013-01-19,47.81036355590609,included_game_day
+2013,2507,Providence Friars,2013-01-22,50.22925508304878,included_game_day
+2013,2507,Providence Friars,2013-01-26,46.38182612505623,included_game_day
+2013,2507,Providence Friars,2013-01-31,43.873542466626546,included_game_day
+2013,2507,Providence Friars,2013-02-03,52.7106073496283,included_game_day
+2013,2507,Providence Friars,2013-02-06,60.17545653856116,included_game_day
+2013,2507,Providence Friars,2013-02-13,65.555493150642,included_game_day
+2013,2507,Providence Friars,2013-02-16,80.7992442397106,included_game_day
+2013,2507,Providence Friars,2013-02-20,65.27560185042252,included_game_day
+2013,2507,Providence Friars,2013-02-23,67.62694301614025,included_game_day
+2013,2507,Providence Friars,2013-03-02,64.80514002193,included_game_day
+2013,2507,Providence Friars,2013-03-05,66.85251537192705,included_game_day
+2013,2507,Providence Friars,2013-03-09,66.09386991706567,included_game_day
+2013,2507,Providence Friars,2013-03-13,50.214407969987654,included_game_day
+2013,2507,Providence Friars,2013-03-20,50.95347254014531,included_game_day
+2013,2507,Providence Friars,2013-03-25,56.16998351792566,included_game_day
+2013,2507,Providence Friars,2013-03-27,54.94521580371861,included_game_day
+2014,2507,Providence Friars,2013-11-08,1.0,included_game_day
+2014,2507,Providence Friars,2013-11-13,3.2199999999999998,included_game_day
+2014,2507,Providence Friars,2013-11-16,39.675,included_game_day
+2014,2507,Providence Friars,2013-11-18,51.180499999999995,included_game_day
+2014,2507,Providence Friars,2013-11-22,53.72794999999999,included_game_day
+2014,2507,Providence Friars,2013-11-24,56.836946999999995,included_game_day
+2014,2507,Providence Friars,2013-11-25,50.3096683,included_game_day
+2014,2507,Providence Friars,2013-11-29,46.72455687,included_game_day
+2014,2507,Providence Friars,2013-12-01,37.803147533,included_game_day
+2014,2507,Providence Friars,2013-12-05,36.7465244243,included_game_day
+2014,2507,Providence Friars,2013-12-17,31.22621519717,included_game_day
+2014,2507,Providence Friars,2013-12-21,37.823815490339996,included_game_day
+2014,2507,Providence Friars,2013-12-28,44.513366389585705,included_game_day
+2014,2507,Providence Friars,2013-12-31,41.54029680242271,included_game_day
+2014,2507,Providence Friars,2014-01-05,22.527344062445756,included_game_day
+2014,2507,Providence Friars,2014-01-08,44.22904093657698,included_game_day
+2014,2507,Providence Friars,2014-01-16,49.19770990181721,included_game_day
+2014,2507,Providence Friars,2014-01-18,70.3587260673558,included_game_day
+2014,2507,Providence Friars,2014-01-21,73.05841695599229,included_game_day
+2014,2507,Providence Friars,2014-01-25,82.22917152580753,included_game_day
+2014,2507,Providence Friars,2014-01-30,72.17632667366944,included_game_day
+2014,2507,Providence Friars,2014-02-01,72.56019726747726,included_game_day
+2014,2507,Providence Friars,2014-02-04,61.512514056524715,included_game_day
+2014,2507,Providence Friars,2014-02-08,58.99413668565016,included_game_day
+2014,2507,Providence Friars,2014-02-10,50.94935758811644,included_game_day
+2014,2507,Providence Friars,2014-02-15,64.20837860888183,included_game_day
+2014,2507,Providence Friars,2014-02-18,66.72435159091242,included_game_day
+2014,2507,Providence Friars,2014-02-23,69.98987072529707,included_game_day
+2014,2507,Providence Friars,2014-02-28,77.4455574056455,included_game_day
+2014,2507,Providence Friars,2014-03-04,73.71737487898339,included_game_day
+2014,2507,Providence Friars,2014-03-08,67.43467034636228,included_game_day
+2014,2507,Providence Friars,2014-03-13,76.24958809036613,included_game_day
+2014,2507,Providence Friars,2014-03-14,80.99467996078153,included_game_day
+2014,2507,Providence Friars,2014-03-15,94.35246701360524,included_game_day
+2014,2507,Providence Friars,2014-03-21,93.20019392910294,included_game_day
+2015,2507,Providence Friars,2014-11-15,1.0,included_game_day
+2015,2507,Providence Friars,2014-11-17,14.9,included_game_day
+2015,2507,Providence Friars,2014-11-20,43.49,included_game_day
+2015,2507,Providence Friars,2014-11-22,65.681,included_game_day
+2015,2507,Providence Friars,2014-11-23,69.6086,included_game_day
+2015,2507,Providence Friars,2014-11-28,70.49897999999999,included_game_day
+2015,2507,Providence Friars,2014-11-30,62.99703299999999,included_game_day
+2015,2507,Providence Friars,2014-12-05,51.26780997999999,included_game_day
+2015,2507,Providence Friars,2014-12-08,27.87902290049999,included_game_day
+2015,2507,Providence Friars,2014-12-10,34.67731042634999,included_game_day
+2015,2507,Providence Friars,2014-12-13,44.67312402971499,included_game_day
+2015,2507,Providence Friars,2014-12-20,59.72617665114349,included_game_day
+2015,2507,Providence Friars,2014-12-22,71.91879417599691,included_game_day
+2015,2507,Providence Friars,2014-12-31,76.79228800551695,included_game_day
+2015,2507,Providence Friars,2015-01-03,66.88140542164639,included_game_day
+2015,2507,Providence Friars,2015-01-06,76.88015187022818,included_game_day
+2015,2507,Providence Friars,2015-01-10,76.13472472571229,included_game_day
+2015,2507,Providence Friars,2015-01-14,59.02205567548381,included_game_day
+2015,2507,Providence Friars,2015-01-17,66.28686775756637,included_game_day
+2015,2507,Providence Friars,2015-01-22,67.37122441334112,included_game_day
+2015,2507,Providence Friars,2015-01-29,70.42115279111276,included_game_day
+2015,2507,Providence Friars,2015-01-31,63.242001238244846,included_game_day
+2015,2507,Providence Friars,2015-02-04,73.96228005011534,included_game_day
+2015,2507,Providence Friars,2015-02-07,67.60609576725543,included_game_day
+2015,2507,Providence Friars,2015-02-11,66.749828832008,included_game_day
+2015,2507,Providence Friars,2015-02-14,66.79234775878815,included_game_day
+2015,2507,Providence Friars,2015-02-18,92.80962016285855,included_game_day
+2015,2507,Providence Friars,2015-02-24,74.69403728467893,included_game_day
+2015,2507,Providence Friars,2015-03-01,75.23251279961171,included_game_day
+2015,2507,Providence Friars,2015-03-04,84.7770600545654,included_game_day
+2015,2507,Providence Friars,2015-03-07,79.16993125843234,included_game_day
+2015,2507,Providence Friars,2015-03-12,94.84891488776273,included_game_day
+2015,2507,Providence Friars,2015-03-13,105.32906270780143,included_game_day
+2015,2507,Providence Friars,2015-03-20,89.75905946715069,included_game_day
+2016,2507,Providence Friars,2015-11-14,9.0,included_game_day
+2016,2507,Providence Friars,2015-11-18,5.73,included_game_day
+2016,2507,Providence Friars,2015-11-21,22.844,included_game_day
+2016,2507,Providence Friars,2015-11-23,25.070800000000002,included_game_day
+2016,2507,Providence Friars,2015-11-26,33.60092,included_game_day
+2016,2507,Providence Friars,2015-11-27,38.910638,included_game_day
+2016,2507,Providence Friars,2015-11-29,30.433335200000002,included_game_day
+2016,2507,Providence Friars,2015-12-02,41.679077902,included_game_day
+2016,2507,Providence Friars,2015-12-05,47.078239311800004,included_game_day
+2016,2507,Providence Friars,2015-12-09,50.59811648942001,included_game_day
+2016,2507,Providence Friars,2015-12-12,35.88355809977801,included_game_day
+2016,2507,Providence Friars,2015-12-19,33.791553974207204,included_game_day
+2016,2507,Providence Friars,2015-12-21,60.48772167169958,included_game_day
+2016,2507,Providence Friars,2015-12-31,79.83113478925796,included_game_day
+2016,2507,Providence Friars,2016-01-02,82.38371180966674,included_game_day
+2016,2507,Providence Friars,2016-01-05,74.0366437320526,included_game_day
+2016,2507,Providence Friars,2016-01-12,81.35140699815584,included_game_day
+2016,2507,Providence Friars,2016-01-16,67.78164653745222,included_game_day
+2016,2507,Providence Friars,2016-01-19,71.27978763744461,included_game_day
+2016,2507,Providence Friars,2016-01-24,87.8364486816642,included_game_day
+2016,2507,Providence Friars,2016-01-26,79.83946674231318,included_game_day
+2016,2507,Providence Friars,2016-01-30,86.26298285772324,included_game_day
+2016,2507,Providence Friars,2016-02-02,72.47995915314986,included_game_day
+2016,2507,Providence Friars,2016-02-06,64.95362099103923,included_game_day
+2016,2507,Providence Friars,2016-02-10,59.77694468372828,included_game_day
+2016,2507,Providence Friars,2016-02-13,60.84157059285194,included_game_day
+2016,2507,Providence Friars,2016-02-17,58.67434976619951,included_game_day
+2016,2507,Providence Friars,2016-02-25,47.3268516845024,included_game_day
+2016,2507,Providence Friars,2016-02-27,56.538296734554855,included_game_day
+2016,2507,Providence Friars,2016-03-02,61.89428572461585,included_game_day
+2016,2507,Providence Friars,2016-03-05,66.3305872385806,included_game_day
+2016,2507,Providence Friars,2016-03-10,86.14732226658717,included_game_day
+2016,2507,Providence Friars,2016-03-11,85.53674359349345,included_game_day
+2016,2507,Providence Friars,2016-03-17,85.45732960524067,included_game_day
+2016,2507,Providence Friars,2016-03-19,77.25441626596798,included_game_day
+2017,2507,Providence Friars,2016-11-14,21.7,included_game_day
+2017,2507,Providence Friars,2016-11-17,18.91,included_game_day
+2017,2507,Providence Friars,2016-11-19,29.981,included_game_day
+2017,2507,Providence Friars,2016-11-21,34.5739,included_game_day
+2017,2507,Providence Friars,2016-11-25,45.663160000000005,included_game_day
+2017,2507,Providence Friars,2016-11-26,44.616226000000005,included_game_day
+2017,2507,Providence Friars,2016-11-30,48.4785564,included_game_day
+2017,2507,Providence Friars,2016-12-03,48.009743966,included_game_day
+2017,2507,Providence Friars,2016-12-06,77.5600792468,included_game_day
+2017,2507,Providence Friars,2016-12-10,76.021860403534,included_game_day
+2017,2507,Providence Friars,2016-12-17,86.17146598353061,included_game_day
+2017,2507,Providence Friars,2016-12-20,87.95257822106967,included_game_day
+2017,2507,Providence Friars,2016-12-23,68.106135818339,included_game_day
+2017,2507,Providence Friars,2016-12-28,47.2591982985236,included_game_day
+2017,2507,Providence Friars,2017-01-01,38.483529400919636,included_game_day
+2017,2507,Providence Friars,2017-01-04,43.79158574938894,included_game_day
+2017,2507,Providence Friars,2017-01-07,34.913132476840886,included_game_day
+2017,2507,Providence Friars,2017-01-10,32.64211892339549,included_game_day
+2017,2507,Providence Friars,2017-01-14,39.53592768655965,included_game_day
+2017,2507,Providence Friars,2017-01-16,63.63941035279024,included_game_day
+2017,2507,Providence Friars,2017-01-21,69.21104051043798,included_game_day
+2017,2507,Providence Friars,2017-01-25,55.99689724844495,included_game_day
+2017,2507,Providence Friars,2017-01-28,66.30784665939088,included_game_day
+2017,2507,Providence Friars,2017-02-01,65.2829228455453,included_game_day
+2017,2507,Providence Friars,2017-02-08,67.34085055246601,included_game_day
+2017,2507,Providence Friars,2017-02-11,73.53457250282561,included_game_day
+2017,2507,Providence Friars,2017-02-15,83.84586947281196,included_game_day
+2017,2507,Providence Friars,2017-02-22,94.13616537653193,included_game_day
+2017,2507,Providence Friars,2017-02-25,96.33665077495678,included_game_day
+2017,2507,Providence Friars,2017-02-28,91.43782918592997,included_game_day
+2017,2507,Providence Friars,2017-03-04,99.39657935941834,included_game_day
+2017,2507,Providence Friars,2017-03-09,88.94066448995576,included_game_day
+2017,2507,Providence Friars,2017-03-15,82.04475518092195,included_game_day
+2018,2507,Providence Friars,2017-11-10,26.0,included_game_day
+2018,2507,Providence Friars,2017-11-13,9.600000000000001,included_game_day
+2018,2507,Providence Friars,2017-11-16,16.43,included_game_day
+2018,2507,Providence Friars,2017-11-17,44.178,included_game_day
+2018,2507,Providence Friars,2017-11-22,40.04398,included_game_day
+2018,2507,Providence Friars,2017-11-25,59.00845699999999,included_game_day
+2018,2507,Providence Friars,2017-11-29,57.9622263,included_game_day
+2018,2507,Providence Friars,2017-12-02,52.898873289,included_game_day
+2018,2507,Providence Friars,2017-12-06,47.872100661299996,included_game_day
+2018,2507,Providence Friars,2017-12-09,37.93771002007,included_game_day
+2018,2507,Providence Friars,2017-12-17,30.8611161182378,included_game_day
+2018,2507,Providence Friars,2017-12-20,26.223909621160757,included_game_day
+2018,2507,Providence Friars,2017-12-22,28.86734298662549,included_game_day
+2018,2507,Providence Friars,2017-12-28,57.09264413852404,included_game_day
+2018,2507,Providence Friars,2017-12-31,49.27697888808726,included_game_day
+2018,2507,Providence Friars,2018-01-03,43.82733274133348,included_game_day
+2018,2507,Providence Friars,2018-01-06,57.62362553677338,included_game_day
+2018,2507,Providence Friars,2018-01-12,67.33215321874702,included_game_day
+2018,2507,Providence Friars,2018-01-15,79.12650545748204,included_game_day
+2018,2507,Providence Friars,2018-01-20,96.91321656359995,included_game_day
+2018,2507,Providence Friars,2018-01-23,90.14812047616743,included_game_day
+2018,2507,Providence Friars,2018-01-31,77.35838113145532,included_game_day
+2018,2507,Providence Friars,2018-02-03,82.20948098364558,included_game_day
+2018,2507,Providence Friars,2018-02-06,78.61306201826248,included_game_day
+2018,2507,Providence Friars,2018-02-10,52.32475487705874,included_game_day
+2018,2507,Providence Friars,2018-02-14,68.23293848186175,included_game_day
+2018,2507,Providence Friars,2018-02-17,61.63264574322473,included_game_day
+2018,2507,Providence Friars,2018-02-22,48.62185259585425,included_game_day
+2018,2507,Providence Friars,2018-02-24,57.045557361330346,included_game_day
+2018,2507,Providence Friars,2018-02-28,57.6900946752411,included_game_day
+2018,2507,Providence Friars,2018-03-03,59.96436921251581,included_game_day
+2018,2507,Providence Friars,2018-03-08,68.67531377277288,included_game_day
+2018,2507,Providence Friars,2018-03-09,79.88636261232683,included_game_day
+2018,2507,Providence Friars,2018-03-10,83.41930922922954,included_game_day
+2018,2507,Providence Friars,2018-03-16,78.95049942921445,included_game_day
+2019,2507,Providence Friars,2018-11-06,7.0,included_game_day
+2019,2507,Providence Friars,2018-11-09,1.7000000000000002,included_game_day
+2019,2507,Providence Friars,2018-11-13,6.9,included_game_day
+2019,2507,Providence Friars,2018-11-17,16.864,included_game_day
+2019,2507,Providence Friars,2018-11-18,3.859,included_game_day
+2019,2507,Providence Friars,2018-11-24,11.934581,included_game_day
+2019,2507,Providence Friars,2018-11-27,15.210174899999998,included_game_day
+2019,2507,Providence Friars,2018-12-01,22.00579561,included_game_day
+2019,2507,Providence Friars,2018-12-04,31.714238757,included_game_day
+2019,2507,Providence Friars,2018-12-07,26.8227996869,included_game_day
+2019,2507,Providence Friars,2018-12-16,41.74437769821,included_game_day
+2019,2507,Providence Friars,2018-12-18,61.11004780490902,included_game_day
+2019,2507,Providence Friars,2018-12-21,71.28014251929072,included_game_day
+2019,2507,Providence Friars,2018-12-31,57.969141454088486,included_game_day
+2019,2507,Providence Friars,2019-01-05,51.58147622587463,included_game_day
+2019,2507,Providence Friars,2019-01-12,48.97625824643603,included_game_day
+2019,2507,Providence Friars,2019-01-15,57.24516639806467,included_game_day
+2019,2507,Providence Friars,2019-01-20,53.98465196815124,included_game_day
+2019,2507,Providence Friars,2019-01-23,56.94694612275091,included_game_day
+2019,2507,Providence Friars,2019-01-27,55.19277174026443,included_game_day
+2019,2507,Providence Friars,2019-01-30,54.099080291665054,included_game_day
+2019,2507,Providence Friars,2019-02-02,43.238820291975685,included_game_day
+2019,2507,Providence Friars,2019-02-06,33.4633104021337,included_game_day
+2019,2507,Providence Friars,2019-02-09,55.3718706396689,included_game_day
+2019,2507,Providence Friars,2019-02-13,48.66557427800548,included_game_day
+2019,2507,Providence Friars,2019-02-16,27.602423991008163,included_game_day
+2019,2507,Providence Friars,2019-02-20,48.106336164208415,included_game_day
+2019,2507,Providence Friars,2019-02-23,35.55947493274081,included_game_day
+2019,2507,Providence Friars,2019-02-26,47.462668610850784,included_game_day
+2019,2507,Providence Friars,2019-03-06,48.69729891475061,included_game_day
+2019,2507,Providence Friars,2019-03-09,58.32057878313055,included_game_day
+2019,2507,Providence Friars,2019-03-13,79.0192026778345,included_game_day
+2019,2507,Providence Friars,2019-03-14,71.42068936062074,included_game_day
+2019,2507,Providence Friars,2019-03-19,55.71016074928394,included_game_day
+2020,2507,Providence Friars,2019-11-05,43.0,included_game_day
+2020,2507,Providence Friars,2019-11-09,64.5,included_game_day
+2020,2507,Providence Friars,2019-11-13,50.58,included_game_day
+2020,2507,Providence Friars,2019-11-16,60.6875,included_game_day
+2020,2507,Providence Friars,2019-11-19,89.0591,included_game_day
+2020,2507,Providence Friars,2019-11-23,70.15045,included_game_day
+2020,2507,Providence Friars,2019-11-28,57.04796650000001,included_game_day
+2020,2507,Providence Friars,2019-11-29,43.229179450000004,included_game_day
+2020,2507,Providence Friars,2019-12-01,41.631859389000006,included_game_day
+2020,2507,Providence Friars,2019-12-06,28.175940002100006,included_game_day
+2020,2507,Providence Friars,2019-12-14,28.129002885306008,included_game_day
+2020,2507,Providence Friars,2019-12-17,-3.7691954155345933,included_game_day
+2020,2507,Providence Friars,2019-12-21,19.431061811491894,included_game_day
+2020,2507,Providence Friars,2019-12-31,40.56882964909763,included_game_day
+2020,2507,Providence Friars,2020-01-04,45.65043037878146,included_game_day
+2020,2507,Providence Friars,2020-01-07,54.367036630235546,included_game_day
+2020,2507,Providence Friars,2020-01-10,47.39683191622453,included_game_day
+2020,2507,Providence Friars,2020-01-15,50.920933293513094,included_game_day
+2020,2507,Providence Friars,2020-01-18,53.412028859616015,included_game_day
+2020,2507,Providence Friars,2020-01-22,55.22975478860172,included_game_day
+2020,2507,Providence Friars,2020-01-25,52.85642059286727,included_game_day
+2020,2507,Providence Friars,2020-02-01,64.78248738440422,included_game_day
+2020,2507,Providence Friars,2020-02-05,84.53944839969607,included_game_day
+2020,2507,Providence Friars,2020-02-08,80.69816684492906,included_game_day
+2020,2507,Providence Friars,2020-02-12,68.8909365666407,included_game_day
+2020,2507,Providence Friars,2020-02-15,72.66233833820793,included_game_day
+2020,2507,Providence Friars,2020-02-19,84.98034279270362,included_game_day
+2020,2507,Providence Friars,2020-02-22,95.7501118792077,included_game_day
+2020,2507,Providence Friars,2020-02-29,106.18891235725125,included_game_day
+2020,2507,Providence Friars,2020-03-04,106.27336119864394,included_game_day
+2020,2507,Providence Friars,2020-03-07,131.41121778662938,included_game_day
+2021,2507,Providence Friars,2020-11-25,38.0,included_game_day
+2021,2507,Providence Friars,2020-11-30,15.899999999999999,included_game_day
+2021,2507,Providence Friars,2020-12-01,15.979999999999999,included_game_day
+2021,2507,Providence Friars,2020-12-02,-1.7350000000000012,included_game_day
+2021,2507,Providence Friars,2020-12-05,3.507999999999999,included_game_day
+2021,2507,Providence Friars,2020-12-09,16.781178,included_game_day
+2021,2507,Providence Friars,2020-12-20,26.4403074938,included_game_day
+2021,2507,Providence Friars,2020-12-23,19.66316785702,included_game_day
+2021,2507,Providence Friars,2020-12-27,21.127519222996,included_game_day
+2021,2507,Providence Friars,2020-12-30,31.5593723769744,included_game_day
+2021,2507,Providence Friars,2021-01-02,31.319855671644063,included_game_day
+2021,2507,Providence Friars,2021-01-10,35.45498183370336,included_game_day
+2021,2507,Providence Friars,2021-01-12,26.794121002070085,included_game_day
+2021,2507,Providence Friars,2021-01-20,41.19357862853505,included_game_day
+2021,2507,Providence Friars,2021-01-23,34.022672242583354,included_game_day
+2021,2507,Providence Friars,2021-01-27,38.221667727801766,included_game_day
+2021,2507,Providence Friars,2021-01-30,35.262340391632605,included_game_day
+2021,2507,Providence Friars,2021-02-03,15.663301876198371,included_game_day
+2021,2507,Providence Friars,2021-02-06,6.095520983571403,included_game_day
+2021,2507,Providence Friars,2021-02-10,18.537956020943163,included_game_day
+2021,2507,Providence Friars,2021-02-13,27.753271065040494,included_game_day
+2021,2507,Providence Friars,2021-02-16,21.107864958753122,included_game_day
+2021,2507,Providence Friars,2021-02-24,35.50128708096349,included_game_day
+2021,2507,Providence Friars,2021-03-03,24.408344338441317,included_game_day
+2021,2507,Providence Friars,2021-03-06,30.86421356568251,included_game_day
+2021,2507,Providence Friars,2021-03-10,16.791124460465433,included_game_day
+2022,2507,Providence Friars,2021-11-09,4.0,included_game_day
+2022,2507,Providence Friars,2021-11-11,29.4,included_game_day
+2022,2507,Providence Friars,2021-11-15,39.69,included_game_day
+2022,2507,Providence Friars,2021-11-18,43.601,included_game_day
+2022,2507,Providence Friars,2021-11-22,52.2618,included_game_day
+2022,2507,Providence Friars,2021-11-23,30.14933275,included_game_day
+2022,2507,Providence Friars,2021-11-27,36.037074475,included_game_day
+2022,2507,Providence Friars,2021-12-01,45.8896951375,included_game_day
+2022,2507,Providence Friars,2021-12-04,58.51968240675,included_game_day
+2022,2507,Providence Friars,2021-12-07,62.244429363675,included_game_day
+2022,2507,Providence Friars,2021-12-11,60.09726863778751,included_game_day
+2022,2507,Providence Friars,2021-12-18,71.53004686848301,included_game_day
+2022,2507,Providence Friars,2021-12-29,74.64766889377191,included_game_day
+2022,2507,Providence Friars,2022-01-01,93.87638417373066,included_game_day
+2022,2507,Providence Friars,2022-01-04,57.80671117217925,included_game_day
+2022,2507,Providence Friars,2022-01-08,64.38195080938011,included_game_day
+2022,2507,Providence Friars,2022-01-20,59.548840263418015,included_game_day
+2022,2507,Providence Friars,2022-01-23,54.162700436156946,included_game_day
+2022,2507,Providence Friars,2022-01-26,64.27523677642381,included_game_day
+2022,2507,Providence Friars,2022-01-30,68.43566882628205,included_game_day
+2022,2507,Providence Friars,2022-02-01,74.70695724414605,included_game_day
+2022,2507,Providence Friars,2022-02-06,85.34632675797836,included_game_day
+2022,2507,Providence Friars,2022-02-12,80.07611338464639,included_game_day
+2022,2507,Providence Friars,2022-02-15,78.22552841840141,included_game_day
+2022,2507,Providence Friars,2022-02-20,74.6202031496256,included_game_day
+2022,2507,Providence Friars,2022-02-23,76.7115933927182,included_game_day
+2022,2507,Providence Friars,2022-02-26,93.74759373736573,included_game_day
+2022,2507,Providence Friars,2022-03-01,98.16461844668828,included_game_day
+2022,2507,Providence Friars,2022-03-10,93.58084182653297,included_game_day
+2022,2507,Providence Friars,2022-03-11,63.46926787938324,included_game_day
+2022,2507,Providence Friars,2022-03-17,76.44929333258389,included_game_day
+2022,2507,Providence Friars,2022-03-19,106.37377524533679,included_game_day
+2022,2507,Providence Friars,2022-03-25,107.96149378237601,included_game_day
+2023,2507,Providence Friars,2022-11-08,-2.0,included_game_day
+2023,2507,Providence Friars,2022-11-12,18.6,included_game_day
+2023,2507,Providence Friars,2022-11-15,35.444,included_game_day
+2023,2507,Providence Friars,2022-11-19,25.294400000000003,included_game_day
+2023,2507,Providence Friars,2022-11-20,20.586660000000002,included_game_day
+2023,2507,Providence Friars,2022-11-23,24.665264,included_game_day
+2023,2507,Providence Friars,2022-11-26,26.7132916,included_game_day
+2023,2507,Providence Friars,2022-11-30,19.284336170000003,included_game_day
+2023,2507,Providence Friars,2022-12-03,33.382609092,included_game_day
+2023,2507,Providence Friars,2022-12-07,63.26091769784,included_game_day
+2023,2507,Providence Friars,2022-12-10,84.75847993926601,included_game_day
+2023,2507,Providence Friars,2022-12-17,87.48477128662341,included_game_day
+2023,2507,Providence Friars,2022-12-20,90.8044876178236,included_game_day
+2023,2507,Providence Friars,2022-12-29,109.29048836138284,included_game_day
+2023,2507,Providence Friars,2023-01-01,114.04072080830966,included_game_day
+2023,2507,Providence Friars,2023-01-04,127.6153125338337,included_game_day
+2023,2507,Providence Friars,2023-01-07,117.34553210852368,included_game_day
+2023,2507,Providence Friars,2023-01-14,111.98149250390694,included_game_day
+2023,2507,Providence Friars,2023-01-18,107.49470084162907,included_game_day
+2023,2507,Providence Friars,2023-01-21,104.89519031224175,included_game_day
+2023,2507,Providence Friars,2023-01-25,111.49726749861165,included_game_day
+2023,2507,Providence Friars,2023-01-29,112.52267425460236,included_game_day
+2023,2507,Providence Friars,2023-02-01,111.67427613559903,included_game_day
+2023,2507,Providence Friars,2023-02-08,107.31883159090091,included_game_day
+2023,2507,Providence Friars,2023-02-11,94.72022781370714,included_game_day
+2023,2507,Providence Friars,2023-02-14,104.45422803461217,included_game_day
+2023,2507,Providence Friars,2023-02-18,110.35663539289266,included_game_day
+2023,2507,Providence Friars,2023-02-22,97.4746422210088,included_game_day
+2023,2507,Providence Friars,2023-02-26,109.03425432640654,included_game_day
+2023,2507,Providence Friars,2023-03-01,101.50311122138103,included_game_day
+2023,2507,Providence Friars,2023-03-04,67.90352473162828,included_game_day
+2023,2507,Providence Friars,2023-03-09,70.4083123439453,included_game_day
+2023,2507,Providence Friars,2023-03-17,66.74052293502011,included_game_day
+2024,2507,Providence Friars,2023-11-06,16.0,included_game_day
+2024,2507,Providence Friars,2023-11-11,21.4,included_game_day
+2024,2507,Providence Friars,2023-11-14,30.65,included_game_day
+2024,2507,Providence Friars,2023-11-17,25.613,included_game_day
+2024,2507,Providence Friars,2023-11-19,29.0139,included_game_day
+2024,2507,Providence Friars,2023-11-24,33.81118,included_game_day
+2024,2507,Providence Friars,2023-11-28,59.653535,included_game_day
+2024,2507,Providence Friars,2023-12-02,65.2701505,included_game_day
+2024,2507,Providence Friars,2023-12-05,50.88752715,included_game_day
+2024,2507,Providence Friars,2023-12-10,60.54466778430999,included_game_day
+2024,2507,Providence Friars,2023-12-16,59.87208675862669,included_game_day
+2024,2507,Providence Friars,2023-12-19,75.31363490591123,included_game_day
+2024,2507,Providence Friars,2023-12-23,81.39026476830011,included_game_day
+2024,2507,Providence Friars,2024-01-03,70.34809869787388,included_game_day
+2024,2507,Providence Friars,2024-01-06,68.29144388860735,included_game_day
+2024,2507,Providence Friars,2024-01-10,73.66741088842684,included_game_day
+2024,2507,Providence Friars,2024-01-13,49.84953053957846,included_game_day
+2024,2507,Providence Friars,2024-01-17,77.48075526584881,included_game_day
+2024,2507,Providence Friars,2024-01-24,84.59719660709338,included_game_day
+2024,2507,Providence Friars,2024-01-27,78.42124080255691,included_game_day
+2024,2507,Providence Friars,2024-01-31,81.5016582385317,included_game_day
+2024,2507,Providence Friars,2024-02-04,63.74252575954537,included_game_day
+2024,2507,Providence Friars,2024-02-07,68.70723789587441,included_game_day
+2024,2507,Providence Friars,2024-02-10,69.78503778535307,included_game_day
+2024,2507,Providence Friars,2024-02-13,71.12276978448803,included_game_day
+2024,2507,Providence Friars,2024-02-17,57.799105298999095,included_game_day
+2024,2507,Providence Friars,2024-02-21,63.72111130283063,included_game_day
+2024,2507,Providence Friars,2024-02-28,52.091737735321885,included_game_day
+2024,2507,Providence Friars,2024-03-02,42.845095105674076,included_game_day
+2024,2507,Providence Friars,2024-03-05,48.485000772583305,included_game_day
+2024,2507,Providence Friars,2024-03-09,47.901500104418176,included_game_day
+2024,2507,Providence Friars,2024-03-13,55.7604646334829,included_game_day
+2024,2507,Providence Friars,2024-03-14,70.93389742640545,included_game_day
+2024,2507,Providence Friars,2024-03-15,66.25154441419186,included_game_day
+2024,2507,Providence Friars,2024-03-19,57.39658805729599,included_game_day
+2025,2507,Providence Friars,2024-11-04,1.0,included_game_day
+2025,2507,Providence Friars,2024-11-09,22.3,included_game_day
+2025,2507,Providence Friars,2024-11-12,23.71,included_game_day
+2025,2507,Providence Friars,2024-11-16,31.662,included_game_day
+2025,2507,Providence Friars,2024-11-19,52.0888,included_game_day
+2025,2507,Providence Friars,2024-11-27,51.249871999999996,included_game_day
+2025,2507,Providence Friars,2024-11-28,35.053804979999995,included_game_day
+2025,2507,Providence Friars,2024-11-29,17.568587274999995,included_game_day
+2025,2507,Providence Friars,2024-12-03,41.2812100165,included_game_day
+2025,2507,Providence Friars,2024-12-07,40.815066853089995,included_game_day
+2025,2507,Providence Friars,2024-12-10,55.725946261781,included_game_day
+2025,2507,Providence Friars,2024-12-14,52.1325696141099,included_game_day
+2025,2507,Providence Friars,2024-12-20,54.429274071434676,included_game_day
+2025,2507,Providence Friars,2024-12-31,29.107426648863,included_game_day
+2025,2507,Providence Friars,2025-01-05,38.8471544985033,included_game_day
+2025,2507,Providence Friars,2025-01-08,54.30024570988307,included_game_day
+2025,2507,Providence Friars,2025-01-11,50.992271936109766,included_game_day
+2025,2507,Providence Friars,2025-01-14,34.68135136811529,included_game_day
+2025,2507,Providence Friars,2025-01-17,43.278452427381275,included_game_day
+2025,2507,Providence Friars,2025-01-25,53.502803967600954,included_game_day
+2025,2507,Providence Friars,2025-01-28,49.44423357022532,included_game_day
+2025,2507,Providence Friars,2025-02-01,62.45977788337953,included_game_day
+2025,2507,Providence Friars,2025-02-05,54.46650811975027,included_game_day
+2025,2507,Providence Friars,2025-02-08,57.05545710310252,included_game_day
+2025,2507,Providence Friars,2025-02-12,47.9981051116173,included_game_day
+2025,2507,Providence Friars,2025-02-15,63.71068512159898,included_game_day
+2025,2507,Providence Friars,2025-02-19,43.37770538773505,included_game_day
+2025,2507,Providence Friars,2025-02-25,21.937046723867176,included_game_day
+2025,2507,Providence Friars,2025-03-01,15.375583301604212,included_game_day
+2025,2507,Providence Friars,2025-03-05,6.520321766586449,included_game_day
+2025,2507,Providence Friars,2025-03-08,14.01792215186126,included_game_day
+2025,2507,Providence Friars,2025-03-12,11.467836118098598,included_game_day
+2026,2507,Providence Friars,2025-11-03,7.0,included_game_day
+2026,2507,Providence Friars,2025-11-08,3.1,included_game_day
+2026,2507,Providence Friars,2025-11-11,24.380000000000003,included_game_day
+2026,2507,Providence Friars,2025-11-14,16.335,included_game_day
+2026,2507,Providence Friars,2025-11-18,38.0005,included_game_day
+2026,2507,Providence Friars,2025-11-22,51.585934,included_game_day
+2026,2507,Providence Friars,2025-11-27,31.520760600000003,included_game_day
+2026,2507,Providence Friars,2025-11-28,23.345016710000003,included_game_day
+2026,2507,Providence Friars,2025-12-02,39.234503719,included_game_day
+2026,2507,Providence Friars,2025-12-06,57.514358247480004,included_game_day
+2026,2507,Providence Friars,2025-12-09,55.572927359569306,included_game_day
+2026,2507,Providence Friars,2025-12-13,58.23845524131237,included_game_day
+2026,2507,Providence Friars,2025-12-19,54.07479820018627,included_game_day
+2026,2507,Providence Friars,2026-01-03,68.95861176114329,included_game_day
+2026,2507,Providence Friars,2026-01-07,69.35079947888494,included_game_day
+2026,2507,Providence Friars,2026-01-10,52.176449789688846,included_game_day
+2026,2507,Providence Friars,2026-01-13,48.10410501570234,included_game_day
+2026,2507,Providence Friars,2026-01-16,52.47028561904648,included_game_day
+2026,2507,Providence Friars,2026-01-19,48.388069363240085,included_game_day
+2026,2507,Providence Friars,2026-01-24,39.94065370100576,included_game_day
+2026,2507,Providence Friars,2026-01-27,47.46794303572247,included_game_day
+2026,2507,Providence Friars,2026-01-30,42.00957706694249,included_game_day
+2026,2507,Providence Friars,2026-02-04,48.50590492058409,included_game_day
+2026,2507,Providence Friars,2026-02-07,62.0813046575003,included_game_day
+2026,2507,Providence Friars,2026-02-11,58.589058951348115,included_game_day
+2026,2507,Providence Friars,2026-02-14,54.550313862170356,included_game_day
+2026,2507,Providence Friars,2026-02-21,59.00269001115082,included_game_day
+2026,2507,Providence Friars,2026-02-25,63.185321073360036,included_game_day
+2026,2507,Providence Friars,2026-02-28,64.9541626931352,included_game_day
+2026,2507,Providence Friars,2026-03-04,37.974742904000045,included_game_day
+2026,2507,Providence Friars,2026-03-07,40.16241527451128,included_game_day
+2026,2507,Providence Friars,2026-03-11,48.63947827587951,included_game_day
+2026,2507,Providence Friars,2026-03-12,48.65230275497603,included_game_day
+2027,2507,Providence Friars,2026-11-02,24.0,included_game_day
+2027,2507,Providence Friars,2026-11-07,16.5,included_game_day
+2027,2507,Providence Friars,2026-11-10,32.728,included_game_day
+2027,2507,Providence Friars,2026-11-14,42.7762,included_game_day
+2027,2507,Providence Friars,2026-11-17,53.669180000000004,included_game_day
+2027,2507,Providence Friars,2026-11-23,58.837349,included_game_day

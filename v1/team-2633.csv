@@ -1,0 +1,1256 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,2633,Tennessee,1987-12-03,23.427,included_game_day
+1988,2633,Tennessee,1987-12-12,29.941862999999998,included_game_day
+1988,2633,Tennessee,1987-12-17,39.0837777,included_game_day
+1988,2633,Tennessee,1987-12-19,40.022663717,included_game_day
+1988,2633,Tennessee,1987-12-21,29.9245103836,included_game_day
+1988,2633,Tennessee,1987-12-23,43.17780934524,included_game_day
+1988,2633,Tennessee,1987-12-28,56.878456410716,included_game_day
+1988,2633,Tennessee,1987-12-29,69.9625177084884,included_game_day
+1988,2633,Tennessee,1988-01-06,70.66487938130439,included_game_day
+1988,2633,Tennessee,1988-01-09,72.94804841836611,included_game_day
+1988,2633,Tennessee,1988-01-13,67.97538389519568,included_game_day
+1988,2633,Tennessee,1988-01-16,54.77455902951632,included_game_day
+1988,2633,Tennessee,1988-01-17,39.960065524469506,included_game_day
+1988,2633,Tennessee,1988-01-20,51.36611186993214,included_game_day
+1988,2633,Tennessee,1988-01-23,33.47299679248956,included_game_day
+1988,2633,Tennessee,1988-01-27,48.08751570132104,included_game_day
+1988,2633,Tennessee,1988-01-30,31.62916540221263,included_game_day
+1988,2633,Tennessee,1988-02-03,42.676307684304234,included_game_day
+1988,2633,Tennessee,1988-02-06,32.21914860847336,included_game_day
+1988,2633,Tennessee,1988-02-10,13.965641284415018,included_game_day
+1988,2633,Tennessee,1988-02-13,-6.299950620704703,included_game_day
+1988,2633,Tennessee,1988-02-17,7.172682113541526,included_game_day
+1988,2633,Tennessee,1988-02-20,10.63523680049222,included_game_day
+1988,2633,Tennessee,1988-02-24,22.753884590831444,included_game_day
+1988,2633,Tennessee,1988-02-27,15.546695504528868,included_game_day
+1988,2633,Tennessee,1988-03-02,36.84996947384879,included_game_day
+1988,2633,Tennessee,1988-03-05,30.922272808551476,included_game_day
+1988,2633,Tennessee,1988-03-11,27.202048797534363,included_game_day
+1988,2633,Tennessee,1988-03-17,21.706495306151023,included_game_day
+1989,2633,Tennessee,1988-11-25,29.0,included_game_day
+1989,2633,Tennessee,1988-11-28,37.1,included_game_day
+1989,2633,Tennessee,1988-12-03,42.129000000000005,included_game_day
+1989,2633,Tennessee,1988-12-05,37.0161,included_game_day
+1989,2633,Tennessee,1988-12-17,30.828795500000002,included_game_day
+1989,2633,Tennessee,1988-12-20,43.751036789276355,included_game_day
+1989,2633,Tennessee,1988-12-21,48.30322590334872,included_game_day
+1989,2633,Tennessee,1988-12-28,50.871245917743344,included_game_day
+1989,2633,Tennessee,1988-12-29,49.687855864185664,included_game_day
+1989,2633,Tennessee,1989-01-04,63.710351585350345,included_game_day
+1989,2633,Tennessee,1989-01-07,65.98861390329019,included_game_day
+1989,2633,Tennessee,1989-01-11,64.81478687103224,included_game_day
+1989,2633,Tennessee,1989-01-15,65.59514267796948,included_game_day
+1989,2633,Tennessee,1989-01-18,62.82941510346916,included_game_day
+1989,2633,Tennessee,1989-01-21,54.65791982625033,included_game_day
+1989,2633,Tennessee,1989-01-25,57.64335129013383,included_game_day
+1989,2633,Tennessee,1989-01-28,51.25009688279911,included_game_day
+1989,2633,Tennessee,1989-02-01,43.06614731695177,included_game_day
+1989,2633,Tennessee,1989-02-04,49.15442500864971,included_game_day
+1989,2633,Tennessee,1989-02-08,51.87326564422532,included_game_day
+1989,2633,Tennessee,1989-02-11,40.44805290704992,included_game_day
+1989,2633,Tennessee,1989-02-15,46.58330867263564,included_game_day
+1989,2633,Tennessee,1989-02-18,31.881010348602267,included_game_day
+1989,2633,Tennessee,1989-02-22,25.443373793749235,included_game_day
+1989,2633,Tennessee,1989-02-25,41.80308265082727,included_game_day
+1989,2633,Tennessee,1989-03-01,48.57311539737809,included_game_day
+1989,2633,Tennessee,1989-03-04,69.82613085622299,included_game_day
+1989,2633,Tennessee,1989-03-10,82.37815800541885,included_game_day
+1989,2633,Tennessee,1989-03-11,72.35084647622794,included_game_day
+1989,2633,Tennessee,1989-03-16,57.826030235679326,included_game_day
+1990,2633,Tennessee,1989-11-24,2.0,included_game_day
+1990,2633,Tennessee,1989-11-25,-12.0,included_game_day
+1990,2633,Tennessee,1989-11-28,-27.3,included_game_day
+1990,2633,Tennessee,1989-12-05,-13.953000000000001,included_game_day
+1990,2633,Tennessee,1989-12-10,-17.4160657,included_game_day
+1990,2633,Tennessee,1989-12-16,-17.00633663,included_game_day
+1990,2633,Tennessee,1989-12-18,-3.5344929670000003,included_game_day
+1990,2633,Tennessee,1989-12-20,20.7269701297,included_game_day
+1990,2633,Tennessee,1989-12-29,11.23599608023,included_game_day
+1990,2633,Tennessee,1989-12-30,10.215884234044001,included_game_day
+1990,2633,Tennessee,1990-01-03,7.826634439726861,included_game_day
+1990,2633,Tennessee,1990-01-06,14.446537605875974,included_game_day
+1990,2633,Tennessee,1990-01-08,7.208797276488873,included_game_day
+1990,2633,Tennessee,1990-01-17,20.72353920150278,included_game_day
+1990,2633,Tennessee,1990-01-20,13.381789293594089,included_game_day
+1990,2633,Tennessee,1990-01-23,27.663490334896707,included_game_day
+1990,2633,Tennessee,1990-01-27,27.0175215947891,included_game_day
+1990,2633,Tennessee,1990-01-31,24.40125159298664,included_game_day
+1990,2633,Tennessee,1990-02-03,18.43628883016814,included_game_day
+1990,2633,Tennessee,1990-02-07,22.542759691062255,included_game_day
+1990,2633,Tennessee,1990-02-10,22.49960124839256,included_game_day
+1990,2633,Tennessee,1990-02-14,24.62124880465091,included_game_day
+1990,2633,Tennessee,1990-02-17,34.8664053783112,included_game_day
+1990,2633,Tennessee,1990-02-21,36.58650337731685,included_game_day
+1990,2633,Tennessee,1990-02-24,30.894745556844484,included_game_day
+1990,2633,Tennessee,1990-02-28,43.852948951482745,included_game_day
+1990,2633,Tennessee,1990-03-03,17.067859849788682,included_game_day
+1990,2633,Tennessee,1990-03-09,16.87523428723741,included_game_day
+1990,2633,Tennessee,1990-03-15,27.63041934184433,included_game_day
+1990,2633,Tennessee,1990-03-19,27.276553268737498,included_game_day
+1991,2633,Tennessee,1990-11-23,13.0,included_game_day
+1991,2633,Tennessee,1990-11-27,6.6,included_game_day
+1991,2633,Tennessee,1990-11-29,25.78,included_game_day
+1991,2633,Tennessee,1990-12-02,42.602000000000004,included_game_day
+1991,2633,Tennessee,1990-12-15,35.1916862013,included_game_day
+1991,2633,Tennessee,1990-12-17,32.692902161170004,included_game_day
+1991,2633,Tennessee,1990-12-20,34.880948538273,included_game_day
+1991,2633,Tennessee,1990-12-22,17.107912501763302,included_game_day
+1991,2633,Tennessee,1990-12-27,7.799778095152972,included_game_day
+1991,2633,Tennessee,1990-12-28,22.901051965337494,included_game_day
+1991,2633,Tennessee,1991-01-02,21.748090435601497,included_game_day
+1991,2633,Tennessee,1991-01-05,13.579123698502055,included_game_day
+1991,2633,Tennessee,1991-01-08,-22.46111717874651,included_game_day
+1991,2633,Tennessee,1991-01-12,-15.628621842953505,included_game_day
+1991,2633,Tennessee,1991-01-16,-6.6659918056808785,included_game_day
+1991,2633,Tennessee,1991-01-19,-12.937072247432308,included_game_day
+1991,2633,Tennessee,1991-01-22,-0.38905778520196854,included_game_day
+1991,2633,Tennessee,1991-01-26,-2.563035562012917,included_game_day
+1991,2633,Tennessee,1991-01-30,-6.971713485684139,included_game_day
+1991,2633,Tennessee,1991-02-02,-19.87012162225532,included_game_day
+1991,2633,Tennessee,1991-02-06,-16.028809257938278,included_game_day
+1991,2633,Tennessee,1991-02-09,5.674217012345679,included_game_day
+1991,2633,Tennessee,1991-02-13,7.571196288848336,included_game_day
+1991,2633,Tennessee,1991-02-16,2.8242191575272813,included_game_day
+1991,2633,Tennessee,1991-02-19,-6.654981508246783,included_game_day
+1991,2633,Tennessee,1991-02-23,-22.034694582613326,included_game_day
+1991,2633,Tennessee,1991-02-25,-21.52035152901331,included_game_day
+1991,2633,Tennessee,1991-02-27,-28.196428042263236,included_game_day
+1991,2633,Tennessee,1991-03-02,-20.162556238066415,included_game_day
+1991,2633,Tennessee,1991-03-07,-9.629216515623476,included_game_day
+1991,2633,Tennessee,1991-03-08,17.21554803292902,included_game_day
+1991,2633,Tennessee,1991-03-09,46.31806071959241,included_game_day
+1991,2633,Tennessee,1991-03-10,32.786963930504356,included_game_day
+1992,2633,Tennessee,1991-11-25,-20.0,included_game_day
+1992,2633,Tennessee,1991-11-30,-27.7073,included_game_day
+1992,2633,Tennessee,1991-12-01,-36.90557,included_game_day
+1992,2633,Tennessee,1991-12-05,-35.675013,included_game_day
+1992,2633,Tennessee,1991-12-14,-26.6738917,included_game_day
+1992,2633,Tennessee,1991-12-18,3.419202470000002,included_game_day
+1992,2633,Tennessee,1991-12-21,24.702501958,included_game_day
+1992,2633,Tennessee,1991-12-30,40.06656074708076,included_game_day
+1992,2633,Tennessee,1992-01-04,52.000671716509494,included_game_day
+1992,2633,Tennessee,1992-01-06,47.431387370747714,included_game_day
+1992,2633,Tennessee,1992-01-08,37.58199112204141,included_game_day
+1992,2633,Tennessee,1992-01-11,38.31460278802173,included_game_day
+1992,2633,Tennessee,1992-01-15,29.132720878740713,included_game_day
+1992,2633,Tennessee,1992-01-18,26.08395164182075,included_game_day
+1992,2633,Tennessee,1992-01-21,57.62250978747532,included_game_day
+1992,2633,Tennessee,1992-01-25,61.80012016972614,included_game_day
+1992,2633,Tennessee,1992-01-27,74.12541396440736,included_game_day
+1992,2633,Tennessee,1992-01-29,70.62672322150463,included_game_day
+1992,2633,Tennessee,1992-02-05,79.72402854738556,included_game_day
+1992,2633,Tennessee,1992-02-08,66.24818590429382,included_game_day
+1992,2633,Tennessee,1992-02-12,47.62789650810363,included_game_day
+1992,2633,Tennessee,1992-02-15,42.69464716386158,included_game_day
+1992,2633,Tennessee,1992-02-19,49.60412189598904,included_game_day
+1992,2633,Tennessee,1992-02-22,44.30431460300949,included_game_day
+1992,2633,Tennessee,1992-02-24,40.83566886332373,included_game_day
+1992,2633,Tennessee,1992-02-26,36.01494478073352,included_game_day
+1992,2633,Tennessee,1992-02-29,53.02155411022501,included_game_day
+1992,2633,Tennessee,1992-03-04,58.29295651063275,included_game_day
+1992,2633,Tennessee,1992-03-07,57.264869004587666,included_game_day
+1992,2633,Tennessee,1992-03-12,57.5842598091252,included_game_day
+1992,2633,Tennessee,1992-03-13,56.838308431486794,included_game_day
+1992,2633,Tennessee,1992-03-18,58.18299414405419,included_game_day
+1992,2633,Tennessee,1992-03-23,38.90294220186144,included_game_day
+1993,2633,Tennessee,1992-11-18,11.0,included_game_day
+1993,2633,Tennessee,1992-11-19,6.7,included_game_day
+1993,2633,Tennessee,1992-12-03,21.03,included_game_day
+1993,2633,Tennessee,1992-12-06,26.727,included_game_day
+1993,2633,Tennessee,1992-12-09,21.1857,included_game_day
+1993,2633,Tennessee,1992-12-19,60.60213,included_game_day
+1993,2633,Tennessee,1992-12-22,70.37695307,included_game_day
+1993,2633,Tennessee,1992-12-29,68.760387763,included_game_day
+1993,2633,Tennessee,1993-01-04,55.8459803773822,included_game_day
+1993,2633,Tennessee,1993-01-06,35.5248759203297,included_game_day
+1993,2633,Tennessee,1993-01-09,32.90627812884118,included_game_day
+1993,2633,Tennessee,1993-01-13,64.1939132786554,included_game_day
+1993,2633,Tennessee,1993-01-16,75.46802563662183,included_game_day
+1993,2633,Tennessee,1993-01-18,77.64216894072617,included_game_day
+1993,2633,Tennessee,1993-01-20,62.36138562877019,included_game_day
+1993,2633,Tennessee,1993-01-24,45.5573534937911,included_game_day
+1993,2633,Tennessee,1993-01-27,34.7449172154394,included_game_day
+1993,2633,Tennessee,1993-01-30,46.595763716612,included_game_day
+1993,2633,Tennessee,1993-02-03,29.28214128781807,included_game_day
+1993,2633,Tennessee,1993-02-06,21.598902094919616,included_game_day
+1993,2633,Tennessee,1993-02-10,17.821326766185578,included_game_day
+1993,2633,Tennessee,1993-02-13,12.603790184046797,included_game_day
+1993,2633,Tennessee,1993-02-16,34.341147958627104,included_game_day
+1993,2633,Tennessee,1993-02-20,25.572827808779337,included_game_day
+1993,2633,Tennessee,1993-02-24,39.15604753079733,included_game_day
+1993,2633,Tennessee,1993-02-27,32.88091935480368,included_game_day
+1993,2633,Tennessee,1993-03-02,43.58757479520935,included_game_day
+1993,2633,Tennessee,1993-03-06,28.534411460369945,included_game_day
+1993,2633,Tennessee,1993-03-11,34.75701860412532,included_game_day
+1993,2633,Tennessee,1993-03-12,-9.678001628681983,included_game_day
+1994,2633,Tennessee,1993-11-26,14.0,included_game_day
+1994,2633,Tennessee,1993-11-28,-17.4,included_game_day
+1994,2633,Tennessee,1993-12-02,-28.659999999999997,included_game_day
+1994,2633,Tennessee,1993-12-08,-39.193999999999996,included_game_day
+1994,2633,Tennessee,1993-12-17,-50.2416,included_game_day
+1994,2633,Tennessee,1993-12-21,-51.948788519923,included_game_day
+1994,2633,Tennessee,1993-12-28,-36.8667431682978,included_game_day
+1994,2633,Tennessee,1994-01-02,-45.71315909869898,included_game_day
+1994,2633,Tennessee,1994-01-05,-46.43619683283448,included_game_day
+1994,2633,Tennessee,1994-01-08,-53.59997942534711,included_game_day
+1994,2633,Tennessee,1994-01-12,-45.831708857818626,included_game_day
+1994,2633,Tennessee,1994-01-15,-41.0759460244718,included_game_day
+1994,2633,Tennessee,1994-01-19,-36.11143376258483,included_game_day
+1994,2633,Tennessee,1994-01-22,-26.17776036165992,included_game_day
+1994,2633,Tennessee,1994-01-26,-25.70239520528159,included_game_day
+1994,2633,Tennessee,1994-01-29,-11.113539553267586,included_game_day
+1994,2633,Tennessee,1994-02-01,-4.606865647501326,included_game_day
+1994,2633,Tennessee,1994-02-05,3.946515211867867,included_game_day
+1994,2633,Tennessee,1994-02-07,-4.8247738743105,included_game_day
+1994,2633,Tennessee,1994-02-12,-11.282196914259774,included_game_day
+1994,2633,Tennessee,1994-02-16,-11.162123354682363,included_game_day
+1994,2633,Tennessee,1994-02-19,-15.38644476748087,included_game_day
+1994,2633,Tennessee,1994-02-23,-6.925764254593117,included_game_day
+1994,2633,Tennessee,1994-02-26,-19.265456590359825,included_game_day
+1994,2633,Tennessee,1994-03-01,-28.897171560645948,included_game_day
+1994,2633,Tennessee,1994-03-05,-22.864108449055603,included_game_day
+1994,2633,Tennessee,1994-03-10,-19.89530281394869,included_game_day
+1995,2633,Tennessee,1994-11-27,17.0,included_game_day
+1995,2633,Tennessee,1994-12-04,17.48,included_game_day
+1995,2633,Tennessee,1994-12-07,28.37696,included_game_day
+1995,2633,Tennessee,1994-12-17,26.656166300000002,included_game_day
+1995,2633,Tennessee,1994-12-20,24.773528832000004,included_game_day
+1995,2633,Tennessee,1994-12-23,37.9219991367,included_game_day
+1995,2633,Tennessee,1994-12-28,31.332766681660004,included_game_day
+1995,2633,Tennessee,1994-12-30,36.53814720042401,included_game_day
+1995,2633,Tennessee,1995-01-04,41.66161627024017,included_game_day
+1995,2633,Tennessee,1995-01-07,33.50293860744608,included_game_day
+1995,2633,Tennessee,1995-01-11,25.83912666334501,included_game_day
+1995,2633,Tennessee,1995-01-15,37.457595327313726,included_game_day
+1995,2633,Tennessee,1995-01-18,38.078564773489155,included_game_day
+1995,2633,Tennessee,1995-01-22,22.28978851113056,included_game_day
+1995,2633,Tennessee,1995-01-25,21.203882923700746,included_game_day
+1995,2633,Tennessee,1995-01-28,6.829564863861048,included_game_day
+1995,2633,Tennessee,1995-01-30,19.766274697499945,included_game_day
+1995,2633,Tennessee,1995-02-04,13.859348127141505,included_game_day
+1995,2633,Tennessee,1995-02-08,6.029585109516981,included_game_day
+1995,2633,Tennessee,1995-02-11,-8.823518533871525,included_game_day
+1995,2633,Tennessee,1995-02-15,-18.27000629182904,included_game_day
+1995,2633,Tennessee,1995-02-18,-12.244978687391129,included_game_day
+1995,2633,Tennessee,1995-02-22,8.973900967738654,included_game_day
+1995,2633,Tennessee,1995-02-27,17.97519831896419,included_game_day
+1995,2633,Tennessee,1995-03-01,22.189313585431904,included_game_day
+1995,2633,Tennessee,1995-03-04,8.653714816165742,included_game_day
+1995,2633,Tennessee,1995-03-09,7.337950841893781,included_game_day
+1996,2633,Tennessee,1995-11-26,12.0,included_game_day
+1996,2633,Tennessee,1995-11-29,5.4,included_game_day
+1996,2633,Tennessee,1995-12-02,-3.1289999999999996,included_game_day
+1996,2633,Tennessee,1995-12-06,3.6369000000000007,included_game_day
+1996,2633,Tennessee,1995-12-09,10.173210000000001,included_game_day
+1996,2633,Tennessee,1995-12-16,16.310589,included_game_day
+1996,2633,Tennessee,1995-12-19,30.3856598,included_game_day
+1996,2633,Tennessee,1995-12-22,36.756374768621,included_game_day
+1996,2633,Tennessee,1995-12-27,42.6062898515852,included_game_day
+1996,2633,Tennessee,1996-01-03,46.28178422406338,included_game_day
+1996,2633,Tennessee,1996-01-06,38.614699555265204,included_game_day
+1996,2633,Tennessee,1996-01-10,35.132270283937714,included_game_day
+1996,2633,Tennessee,1996-01-13,36.95142802376808,included_game_day
+1996,2633,Tennessee,1996-01-15,38.26246251467354,included_game_day
+1996,2633,Tennessee,1996-01-17,32.521410090138765,included_game_day
+1996,2633,Tennessee,1996-01-20,46.98073827375731,included_game_day
+1996,2633,Tennessee,1996-01-27,49.257318971386084,included_game_day
+1996,2633,Tennessee,1996-01-31,57.72158855143697,included_game_day
+1996,2633,Tennessee,1996-02-03,48.272239788409436,included_game_day
+1996,2633,Tennessee,1996-02-07,39.037757662031844,included_game_day
+1996,2633,Tennessee,1996-02-14,45.4279173673355,included_game_day
+1996,2633,Tennessee,1996-02-17,22.65594496568435,included_game_day
+1996,2633,Tennessee,1996-02-21,30.76881015387836,included_game_day
+1996,2633,Tennessee,1996-02-24,43.79963170229965,included_game_day
+1996,2633,Tennessee,1996-02-28,33.08253156752878,included_game_day
+1996,2633,Tennessee,1996-03-02,26.273184525848613,included_game_day
+1996,2633,Tennessee,1996-03-07,40.74295743879687,included_game_day
+1996,2633,Tennessee,1996-03-08,39.78714973097942,included_game_day
+1996,2633,Tennessee,1996-03-13,35.56141360154027,included_game_day
+1997,2633,Tennessee,1996-11-24,19.0,included_game_day
+1997,2633,Tennessee,1996-12-01,27.810000000000002,included_game_day
+1997,2633,Tennessee,1996-12-04,12.736000000000002,included_game_day
+1997,2633,Tennessee,1996-12-07,16.243120000000005,included_game_day
+1997,2633,Tennessee,1996-12-15,18.727781100000005,included_game_day
+1997,2633,Tennessee,1996-12-18,32.879356120000004,included_game_day
+1997,2633,Tennessee,1996-12-22,41.82547857987,included_game_day
+1997,2633,Tennessee,1996-12-28,20.849785133474,included_game_day
+1997,2633,Tennessee,1996-12-31,17.86267252276226,included_game_day
+1997,2633,Tennessee,1997-01-04,4.737238359668549,included_game_day
+1997,2633,Tennessee,1997-01-08,-21.229821169565927,included_game_day
+1997,2633,Tennessee,1997-01-11,-4.751337638566614,included_game_day
+1997,2633,Tennessee,1997-01-15,-2.9090789570291413,included_game_day
+1997,2633,Tennessee,1997-01-19,9.134809930351661,included_game_day
+1997,2633,Tennessee,1997-01-22,-3.1046457832683316,included_game_day
+1997,2633,Tennessee,1997-01-25,-5.9602080492385205,included_game_day
+1997,2633,Tennessee,1997-01-29,-13.012772241950124,included_game_day
+1997,2633,Tennessee,1997-02-01,-7.516762643814685,included_game_day
+1997,2633,Tennessee,1997-02-05,-17.318616773972835,included_game_day
+1997,2633,Tennessee,1997-02-08,-12.450658209775556,included_game_day
+1997,2633,Tennessee,1997-02-12,-13.832321318807896,included_game_day
+1997,2633,Tennessee,1997-02-15,-13.13408796356681,included_game_day
+1997,2633,Tennessee,1997-02-19,-26.91793445612933,included_game_day
+1997,2633,Tennessee,1997-02-22,-22.119047414527085,included_game_day
+1997,2633,Tennessee,1997-02-25,-8.658531349459558,included_game_day
+1997,2633,Tennessee,1997-03-01,-8.871757327445804,included_game_day
+1997,2633,Tennessee,1997-03-06,-19.52230040475706,included_game_day
+1998,2633,Tennessee,1997-11-14,10.0,included_game_day
+1998,2633,Tennessee,1997-11-17,7.0,included_game_day
+1998,2633,Tennessee,1997-11-19,9.3,included_game_day
+1998,2633,Tennessee,1997-11-23,15.170000000000002,included_game_day
+1998,2633,Tennessee,1997-11-28,33.8455,included_game_day
+1998,2633,Tennessee,1997-12-02,40.6349037,included_game_day
+1998,2633,Tennessee,1997-12-07,57.460929930000006,included_game_day
+1998,2633,Tennessee,1997-12-09,69.682971537,included_game_day
+1998,2633,Tennessee,1997-12-20,68.6113269453,included_game_day
+1998,2633,Tennessee,1997-12-30,69.40019461641954,included_game_day
+1998,2633,Tennessee,1998-01-03,57.31632193982544,included_game_day
+1998,2633,Tennessee,1998-01-07,48.6654439875816,included_game_day
+1998,2633,Tennessee,1998-01-10,54.939399553774,included_game_day
+1998,2633,Tennessee,1998-01-17,69.66602828514885,included_game_day
+1998,2633,Tennessee,1998-01-21,40.469213720218924,included_game_day
+1998,2633,Tennessee,1998-01-24,29.04806557634862,included_game_day
+1998,2633,Tennessee,1998-01-28,43.45708131728917,included_game_day
+1998,2633,Tennessee,1998-01-31,49.44730736925112,included_game_day
+1998,2633,Tennessee,1998-02-04,76.10386995391087,included_game_day
+1998,2633,Tennessee,1998-02-07,76.7794263067079,included_game_day
+1998,2633,Tennessee,1998-02-11,78.9041153754346,included_game_day
+1998,2633,Tennessee,1998-02-14,83.35467418862929,included_game_day
+1998,2633,Tennessee,1998-02-17,110.80616629756409,included_game_day
+1998,2633,Tennessee,1998-02-21,116.7441153015255,included_game_day
+1998,2633,Tennessee,1998-02-25,110.78656839324735,included_game_day
+1998,2633,Tennessee,1998-02-28,106.46254323379326,included_game_day
+1998,2633,Tennessee,1998-03-05,103.75100597498826,included_game_day
+1998,2633,Tennessee,1998-03-06,99.13225653844094,included_game_day
+1998,2633,Tennessee,1998-03-12,99.50698176663388,included_game_day
+1999,2633,Tennessee,1998-11-13,-1.0,included_game_day
+1999,2633,Tennessee,1998-11-15,18.1,included_game_day
+1999,2633,Tennessee,1998-11-17,34.39,included_game_day
+1999,2633,Tennessee,1998-11-19,29.351,included_game_day
+1999,2633,Tennessee,1998-11-24,34.2921,included_game_day
+1999,2633,Tennessee,1998-11-30,58.540046,included_game_day
+1999,2633,Tennessee,1998-12-02,52.961741399999994,included_game_day
+1999,2633,Tennessee,1998-12-06,52.60297144,included_game_day
+1999,2633,Tennessee,1998-12-10,47.93490437355,included_game_day
+1999,2633,Tennessee,1998-12-19,60.13608941106686,included_game_day
+1999,2633,Tennessee,1998-12-22,76.05076271274018,included_game_day
+1999,2633,Tennessee,1999-01-02,63.368197359154834,included_game_day
+1999,2633,Tennessee,1999-01-06,92.33788029211411,included_game_day
+1999,2633,Tennessee,1999-01-09,111.06985898944944,included_game_day
+1999,2633,Tennessee,1999-01-12,121.8963516393089,included_game_day
+1999,2633,Tennessee,1999-01-20,128.68708411814694,included_game_day
+1999,2633,Tennessee,1999-01-23,111.50536798261851,included_game_day
+1999,2633,Tennessee,1999-01-27,117.85254294875749,included_game_day
+1999,2633,Tennessee,1999-01-30,145.06737831851422,included_game_day
+1999,2633,Tennessee,1999-02-02,126.74772817097455,included_game_day
+1999,2633,Tennessee,1999-02-06,112.86203255783181,included_game_day
+1999,2633,Tennessee,1999-02-10,146.31954439048047,included_game_day
+1999,2633,Tennessee,1999-02-13,131.58125065855035,included_game_day
+1999,2633,Tennessee,1999-02-17,134.72475211097657,included_game_day
+1999,2633,Tennessee,1999-02-20,135.3942157630783,included_game_day
+1999,2633,Tennessee,1999-02-23,140.29922845255146,included_game_day
+1999,2633,Tennessee,1999-02-28,148.5838215011683,included_game_day
+1999,2633,Tennessee,1999-03-05,136.13002259023312,included_game_day
+1999,2633,Tennessee,1999-03-12,143.81596280820366,included_game_day
+1999,2633,Tennessee,1999-03-14,108.1687448438991,included_game_day
+2000,2633,Tennessee,1999-11-22,33.2,included_game_day
+2000,2633,Tennessee,1999-11-24,41.7293,included_game_day
+2000,2633,Tennessee,1999-11-26,73.55637,included_game_day
+2000,2633,Tennessee,1999-11-29,74.171633,included_game_day
+2000,2633,Tennessee,1999-12-01,83.65446969999999,included_game_day
+2000,2633,Tennessee,1999-12-04,110.25381472999999,included_game_day
+2000,2633,Tennessee,1999-12-08,135.939027257,included_game_day
+2000,2633,Tennessee,1999-12-10,120.3144735313,included_game_day
+2000,2633,Tennessee,1999-12-18,115.482562324209,included_game_day
+2000,2633,Tennessee,1999-12-22,120.2663994858756,included_game_day
+2000,2633,Tennessee,1999-12-23,99.58274994399792,included_game_day
+2000,2633,Tennessee,2000-01-02,110.92291451236956,included_game_day
+2000,2633,Tennessee,2000-01-05,115.36255548723855,included_game_day
+2000,2633,Tennessee,2000-01-08,125.25079007158283,included_game_day
+2000,2633,Tennessee,2000-01-12,116.51996824710803,included_game_day
+2000,2633,Tennessee,2000-01-15,147.38638842196536,included_game_day
+2000,2633,Tennessee,2000-01-18,156.49201680486462,included_game_day
+2000,2633,Tennessee,2000-01-25,177.81812542936404,included_game_day
+2000,2633,Tennessee,2000-01-29,166.970862574984,included_game_day
+2000,2633,Tennessee,2000-02-01,153.3998129212304,included_game_day
+2000,2633,Tennessee,2000-02-06,153.78572930280936,included_game_day
+2000,2633,Tennessee,2000-02-09,165.62849461686815,included_game_day
+2000,2633,Tennessee,2000-02-12,168.15389643769342,included_game_day
+2000,2633,Tennessee,2000-02-19,142.07625035501064,included_game_day
+2000,2633,Tennessee,2000-02-23,144.018935934295,included_game_day
+2000,2633,Tennessee,2000-02-26,131.1502385163538,included_game_day
+2000,2633,Tennessee,2000-03-01,136.40682213982873,included_game_day
+2000,2633,Tennessee,2000-03-04,143.94992118045553,included_game_day
+2000,2633,Tennessee,2000-03-10,131.02990096301468,included_game_day
+2000,2633,Tennessee,2000-03-17,128.99095702387774,included_game_day
+2000,2633,Tennessee,2000-03-19,142.767443965564,included_game_day
+2000,2633,Tennessee,2000-03-24,135.13342837933973,included_game_day
+2001,2633,Tennessee,2000-11-17,19.0,included_game_day
+2001,2633,Tennessee,2000-11-19,40.1,included_game_day
+2001,2633,Tennessee,2000-11-21,43.09,included_game_day
+2001,2633,Tennessee,2000-11-27,71.2231,included_game_day
+2001,2633,Tennessee,2000-11-30,87.93613,included_game_day
+2001,2633,Tennessee,2000-12-02,86.4116037,included_game_day
+2001,2633,Tennessee,2000-12-05,85.81786879,included_game_day
+2001,2633,Tennessee,2000-12-07,90.332750801,included_game_day
+2001,2633,Tennessee,2000-12-15,91.8199746289,included_game_day
+2001,2633,Tennessee,2000-12-19,78.64333945601,included_game_day
+2001,2633,Tennessee,2000-12-22,96.429377727592,included_game_day
+2001,2633,Tennessee,2000-12-28,99.6567024506428,included_game_day
+2001,2633,Tennessee,2000-12-29,107.85765311397158,included_game_day
+2001,2633,Tennessee,2000-12-30,112.91884339422262,included_game_day
+2001,2633,Tennessee,2001-01-06,120.70331065394178,included_game_day
+2001,2633,Tennessee,2001-01-09,136.3215949308807,included_game_day
+2001,2633,Tennessee,2001-01-13,134.9379563866718,included_game_day
+2001,2633,Tennessee,2001-01-16,124.33724981381415,included_game_day
+2001,2633,Tennessee,2001-01-20,123.481981572664,included_game_day
+2001,2633,Tennessee,2001-01-27,120.46912315824272,included_game_day
+2001,2633,Tennessee,2001-01-30,111.97730998458815,included_game_day
+2001,2633,Tennessee,2001-02-03,126.52746851787488,included_game_day
+2001,2633,Tennessee,2001-02-07,125.88193910626862,included_game_day
+2001,2633,Tennessee,2001-02-10,111.28728210561044,included_game_day
+2001,2633,Tennessee,2001-02-14,105.02701919127314,included_game_day
+2001,2633,Tennessee,2001-02-18,101.92398793324405,included_game_day
+2001,2633,Tennessee,2001-02-21,82.67447214280514,included_game_day
+2001,2633,Tennessee,2001-02-24,89.59984087671572,included_game_day
+2001,2633,Tennessee,2001-02-27,92.17362641159065,included_game_day
+2001,2633,Tennessee,2001-03-03,90.94068274297817,included_game_day
+2001,2633,Tennessee,2001-03-08,97.96736637454809,included_game_day
+2001,2633,Tennessee,2001-03-09,88.56033777695667,included_game_day
+2001,2633,Tennessee,2001-03-16,83.36300385160868,included_game_day
+2002,2633,Tennessee Volunteers,2001-11-16,6.0,included_game_day
+2002,2633,Tennessee Volunteers,2001-11-21,-2.9700000000000006,included_game_day
+2002,2633,Tennessee Volunteers,2001-11-24,-13.0043,included_game_day
+2002,2633,Tennessee Volunteers,2001-11-29,16.92693,included_game_day
+2002,2633,Tennessee Volunteers,2001-12-06,37.622622327,included_game_day
+2002,2633,Tennessee Volunteers,2001-12-15,43.6012115053,included_game_day
+2002,2633,Tennessee Volunteers,2001-12-17,40.102345298603,included_game_day
+2002,2633,Tennessee Volunteers,2001-12-20,45.0499865615581,included_game_day
+2002,2633,Tennessee Volunteers,2001-12-22,36.784015093702294,included_game_day
+2002,2633,Tennessee Volunteers,2001-12-29,36.96253839708066,included_game_day
+2002,2633,Tennessee Volunteers,2002-01-06,45.664067932516254,included_game_day
+2002,2633,Tennessee Volunteers,2002-01-09,51.125765371637584,included_game_day
+2002,2633,Tennessee Volunteers,2002-01-12,55.58803386428809,included_game_day
+2002,2633,Tennessee Volunteers,2002-01-16,59.76571508008807,included_game_day
+2002,2633,Tennessee Volunteers,2002-01-19,66.00506251765496,included_game_day
+2002,2633,Tennessee Volunteers,2002-01-21,71.29286735864761,included_game_day
+2002,2633,Tennessee Volunteers,2002-01-23,36.47471844558953,included_game_day
+2002,2633,Tennessee Volunteers,2002-01-27,57.89258587604634,included_game_day
+2002,2633,Tennessee Volunteers,2002-01-30,64.61430086831027,included_game_day
+2002,2633,Tennessee Volunteers,2002-02-02,69.20498912813024,included_game_day
+2002,2633,Tennessee Volunteers,2002-02-06,76.66040909836589,included_game_day
+2002,2633,Tennessee Volunteers,2002-02-09,64.25873983037798,included_game_day
+2002,2633,Tennessee Volunteers,2002-02-16,62.33666590162518,included_game_day
+2002,2633,Tennessee Volunteers,2002-02-19,70.2330261440558,included_game_day
+2002,2633,Tennessee Volunteers,2002-02-23,56.21761364821953,included_game_day
+2002,2633,Tennessee Volunteers,2002-02-26,65.84458346098168,included_game_day
+2002,2633,Tennessee Volunteers,2002-03-02,76.0800421536162,included_game_day
+2002,2633,Tennessee Volunteers,2002-03-07,80.57968995214452,included_game_day
+2002,2633,Tennessee Volunteers,2002-03-08,66.65442873524184,included_game_day
+2003,2633,Tennessee Volunteers,2002-11-22,-1.0,included_game_day
+2003,2633,Tennessee Volunteers,2002-11-25,29.2,included_game_day
+2003,2633,Tennessee Volunteers,2002-12-04,13.899942,included_game_day
+2003,2633,Tennessee Volunteers,2002-12-15,22.66541945,included_game_day
+2003,2633,Tennessee Volunteers,2002-12-17,28.306326993920003,included_game_day
+2003,2633,Tennessee Volunteers,2002-12-21,29.505556786028002,included_game_day
+2003,2633,Tennessee Volunteers,2002-12-23,37.4807026597032,included_game_day
+2003,2633,Tennessee Volunteers,2002-12-30,56.20416733331828,included_game_day
+2003,2633,Tennessee Volunteers,2003-01-04,50.66465542985729,included_game_day
+2003,2633,Tennessee Volunteers,2003-01-08,46.762117409089086,included_game_day
+2003,2633,Tennessee Volunteers,2003-01-11,51.87380254097286,included_game_day
+2003,2633,Tennessee Volunteers,2003-01-15,49.8838345306397,included_game_day
+2003,2633,Tennessee Volunteers,2003-01-18,50.72667876866818,included_game_day
+2003,2633,Tennessee Volunteers,2003-01-22,56.80613330767858,included_game_day
+2003,2633,Tennessee Volunteers,2003-01-25,61.63577658970317,included_game_day
+2003,2633,Tennessee Volunteers,2003-01-29,59.18022020560539,included_game_day
+2003,2633,Tennessee Volunteers,2003-02-01,69.77759119524852,included_game_day
+2003,2633,Tennessee Volunteers,2003-02-05,82.07684531869155,included_game_day
+2003,2633,Tennessee Volunteers,2003-02-08,88.69060786708427,included_game_day
+2003,2633,Tennessee Volunteers,2003-02-12,91.70370919524963,included_game_day
+2003,2633,Tennessee Volunteers,2003-02-15,101.08022160747254,included_game_day
+2003,2633,Tennessee Volunteers,2003-02-19,84.5912220211262,included_game_day
+2003,2633,Tennessee Volunteers,2003-02-22,73.63708059685453,included_game_day
+2003,2633,Tennessee Volunteers,2003-02-26,75.88326821842278,included_game_day
+2003,2633,Tennessee Volunteers,2003-03-01,56.7200597749726,included_game_day
+2003,2633,Tennessee Volunteers,2003-03-05,70.950814392113,included_game_day
+2003,2633,Tennessee Volunteers,2003-03-08,67.76253692423342,included_game_day
+2003,2633,Tennessee Volunteers,2003-03-14,55.60155225754639,included_game_day
+2003,2633,Tennessee Volunteers,2003-03-18,44.16812978002935,included_game_day
+2004,2633,Tennessee Volunteers,2003-11-21,8.0,included_game_day
+2004,2633,Tennessee Volunteers,2003-11-28,29.2,included_game_day
+2004,2633,Tennessee Volunteers,2003-12-02,52.381,included_game_day
+2004,2633,Tennessee Volunteers,2003-12-13,40.838422076,included_game_day
+2004,2633,Tennessee Volunteers,2003-12-17,77.5877243384,included_game_day
+2004,2633,Tennessee Volunteers,2003-12-20,84.27029357155999,included_game_day
+2004,2633,Tennessee Volunteers,2003-12-22,91.40992852823557,included_game_day
+2004,2633,Tennessee Volunteers,2003-12-30,81.95742867767731,included_game_day
+2004,2633,Tennessee Volunteers,2004-01-03,86.22161486815183,included_game_day
+2004,2633,Tennessee Volunteers,2004-01-07,101.77276953306003,included_game_day
+2004,2633,Tennessee Volunteers,2004-01-10,68.70971453490071,included_game_day
+2004,2633,Tennessee Volunteers,2004-01-14,81.66901630821968,included_game_day
+2004,2633,Tennessee Volunteers,2004-01-17,69.06805993678034,included_game_day
+2004,2633,Tennessee Volunteers,2004-01-20,66.86368229957685,included_game_day
+2004,2633,Tennessee Volunteers,2004-01-25,74.99166044865153,included_game_day
+2004,2633,Tennessee Volunteers,2004-01-28,61.35604620913075,included_game_day
+2004,2633,Tennessee Volunteers,2004-01-31,68.17825866203884,included_game_day
+2004,2633,Tennessee Volunteers,2004-02-04,54.62222117631485,included_game_day
+2004,2633,Tennessee Volunteers,2004-02-07,43.08580120621221,included_game_day
+2004,2633,Tennessee Volunteers,2004-02-11,43.95325179496554,included_game_day
+2004,2633,Tennessee Volunteers,2004-02-14,35.70593175765543,included_game_day
+2004,2633,Tennessee Volunteers,2004-02-18,49.930656542765206,included_game_day
+2004,2633,Tennessee Volunteers,2004-02-21,44.07028514696488,included_game_day
+2004,2633,Tennessee Volunteers,2004-02-25,22.30296176329842,included_game_day
+2004,2633,Tennessee Volunteers,2004-02-28,28.842609996762118,included_game_day
+2004,2633,Tennessee Volunteers,2004-03-03,39.127452986919074,included_game_day
+2004,2633,Tennessee Volunteers,2004-03-06,48.0388313791983,included_game_day
+2004,2633,Tennessee Volunteers,2004-03-11,20.8820005127288,included_game_day
+2004,2633,Tennessee Volunteers,2004-03-17,25.150962536691086,included_game_day
+2005,2633,Tennessee Volunteers,2004-11-22,9.7,included_game_day
+2005,2633,Tennessee Volunteers,2004-11-23,-4.591900000000001,included_game_day
+2005,2633,Tennessee Volunteers,2004-11-24,-29.162710000000004,included_game_day
+2005,2633,Tennessee Volunteers,2004-11-29,-23.246439000000002,included_game_day
+2005,2633,Tennessee Volunteers,2004-12-05,-24.8567971,included_game_day
+2005,2633,Tennessee Volunteers,2004-12-11,-22.21174149,included_game_day
+2005,2633,Tennessee Volunteers,2004-12-14,-1.946002087900002,included_game_day
+2005,2633,Tennessee Volunteers,2004-12-18,-9.223684838110003,included_game_day
+2005,2633,Tennessee Volunteers,2004-12-20,-5.400765774760303,included_game_day
+2005,2633,Tennessee Volunteers,2004-12-23,24.995303852505728,included_game_day
+2005,2633,Tennessee Volunteers,2004-12-30,21.978735594642888,included_game_day
+2005,2633,Tennessee Volunteers,2005-01-02,44.33759989994559,included_game_day
+2005,2633,Tennessee Volunteers,2005-01-05,48.217476359674876,included_game_day
+2005,2633,Tennessee Volunteers,2005-01-08,24.86717349678483,included_game_day
+2005,2633,Tennessee Volunteers,2005-01-12,35.28482998234665,included_game_day
+2005,2633,Tennessee Volunteers,2005-01-15,39.054683404581226,included_game_day
+2005,2633,Tennessee Volunteers,2005-01-19,60.53006237772321,included_game_day
+2005,2633,Tennessee Volunteers,2005-01-22,55.455539160392824,included_game_day
+2005,2633,Tennessee Volunteers,2005-01-25,40.262624755360676,included_game_day
+2005,2633,Tennessee Volunteers,2005-01-29,35.09449273695036,included_game_day
+2005,2633,Tennessee Volunteers,2005-02-02,38.13202374767343,included_game_day
+2005,2633,Tennessee Volunteers,2005-02-05,59.948347898788256,included_game_day
+2005,2633,Tennessee Volunteers,2005-02-09,44.17670300804758,included_game_day
+2005,2633,Tennessee Volunteers,2005-02-12,41.15833945857709,included_game_day
+2005,2633,Tennessee Volunteers,2005-02-19,38.761128271443425,included_game_day
+2005,2633,Tennessee Volunteers,2005-02-26,45.080345120259985,included_game_day
+2005,2633,Tennessee Volunteers,2005-03-02,47.436440618463976,included_game_day
+2005,2633,Tennessee Volunteers,2005-03-05,47.39441417254281,included_game_day
+2005,2633,Tennessee Volunteers,2005-03-10,70.2708801738613,included_game_day
+2005,2633,Tennessee Volunteers,2005-03-11,68.09165627025996,included_game_day
+2006,2633,Tennessee Volunteers,2005-11-18,20.0,included_game_day
+2006,2633,Tennessee Volunteers,2005-11-22,20.5,included_game_day
+2006,2633,Tennessee Volunteers,2005-11-25,48.5142,included_game_day
+2006,2633,Tennessee Volunteers,2005-11-30,51.562780000000004,included_game_day
+2006,2633,Tennessee Volunteers,2005-12-06,47.75070907,included_game_day
+2006,2633,Tennessee Volunteers,2005-12-17,72.60821691865999,included_game_day
+2006,2633,Tennessee Volunteers,2005-12-22,60.59054609860199,included_game_day
+2006,2633,Tennessee Volunteers,2005-12-27,75.80493306910408,included_game_day
+2006,2633,Tennessee Volunteers,2005-12-29,74.82894215464778,included_game_day
+2006,2633,Tennessee Volunteers,2006-01-04,85.31998170096789,included_game_day
+2006,2633,Tennessee Volunteers,2006-01-08,95.30837905583779,included_game_day
+2006,2633,Tennessee Volunteers,2006-01-11,100.13745620360334,included_game_day
+2006,2633,Tennessee Volunteers,2006-01-14,89.92543130215302,included_game_day
+2006,2633,Tennessee Volunteers,2006-01-18,88.26112824072744,included_game_day
+2006,2633,Tennessee Volunteers,2006-01-21,97.51784215403963,included_game_day
+2006,2633,Tennessee Volunteers,2006-01-25,114.34492577468534,included_game_day
+2006,2633,Tennessee Volunteers,2006-01-28,123.57674032137285,included_game_day
+2006,2633,Tennessee Volunteers,2006-02-01,121.87279646567396,included_game_day
+2006,2633,Tennessee Volunteers,2006-02-04,124.2578512157395,included_game_day
+2006,2633,Tennessee Volunteers,2006-02-07,129.42654999305384,included_game_day
+2006,2633,Tennessee Volunteers,2006-02-11,127.95489777580241,included_game_day
+2006,2633,Tennessee Volunteers,2006-02-15,127.33417555926968,included_game_day
+2006,2633,Tennessee Volunteers,2006-02-18,110.35618256620471,included_game_day
+2006,2633,Tennessee Volunteers,2006-02-22,120.82227203882542,included_game_day
+2006,2633,Tennessee Volunteers,2006-02-25,112.37870150293497,included_game_day
+2006,2633,Tennessee Volunteers,2006-03-01,107.09224945076342,included_game_day
+2006,2633,Tennessee Volunteers,2006-03-04,116.20883905296918,included_game_day
+2006,2633,Tennessee Volunteers,2006-03-10,101.86392694046144,included_game_day
+2006,2633,Tennessee Volunteers,2006-03-16,97.80712035998926,included_game_day
+2006,2633,Tennessee Volunteers,2006-03-18,87.70522380588294,included_game_day
+2007,2633,Tennessee Volunteers,2006-11-10,28.0,included_game_day
+2007,2633,Tennessee Volunteers,2006-11-13,29.1,included_game_day
+2007,2633,Tennessee Volunteers,2006-11-14,35.99,included_game_day
+2007,2633,Tennessee Volunteers,2006-11-19,58.06100000000001,included_game_day
+2007,2633,Tennessee Volunteers,2006-11-22,41.97690000000001,included_game_day
+2007,2633,Tennessee Volunteers,2006-11-24,26.60155000000001,included_game_day
+2007,2633,Tennessee Volunteers,2006-11-27,35.75866200000001,included_game_day
+2007,2633,Tennessee Volunteers,2006-12-01,50.82580602,included_game_day
+2007,2633,Tennessee Volunteers,2006-12-06,68.79672583341,included_game_day
+2007,2633,Tennessee Volunteers,2006-12-16,80.960869190697,included_game_day
+2007,2633,Tennessee Volunteers,2006-12-18,81.6066165133373,included_game_day
+2007,2633,Tennessee Volunteers,2006-12-23,85.9347771835172,included_game_day
+2007,2633,Tennessee Volunteers,2006-12-28,96.49527772045688,included_game_day
+2007,2633,Tennessee Volunteers,2006-12-30,86.93066234510424,included_game_day
+2007,2633,Tennessee Volunteers,2007-01-07,92.96239092235446,included_game_day
+2007,2633,Tennessee Volunteers,2007-01-10,91.67283283638568,included_game_day
+2007,2633,Tennessee Volunteers,2007-01-13,98.41844957033906,included_game_day
+2007,2633,Tennessee Volunteers,2007-01-17,90.59972772880646,included_game_day
+2007,2633,Tennessee Volunteers,2007-01-20,77.12209647917207,included_game_day
+2007,2633,Tennessee Volunteers,2007-01-24,64.55662602247112,included_game_day
+2007,2633,Tennessee Volunteers,2007-01-28,53.444185354868765,included_game_day
+2007,2633,Tennessee Volunteers,2007-01-31,67.46494338673995,included_game_day
+2007,2633,Tennessee Volunteers,2007-02-03,67.69183718698935,included_game_day
+2007,2633,Tennessee Volunteers,2007-02-06,67.42850797895787,included_game_day
+2007,2633,Tennessee Volunteers,2007-02-10,95.63584117173173,included_game_day
+2007,2633,Tennessee Volunteers,2007-02-13,99.667701945821,included_game_day
+2007,2633,Tennessee Volunteers,2007-02-17,76.0472317807363,included_game_day
+2007,2633,Tennessee Volunteers,2007-02-21,76.88900139147671,included_game_day
+2007,2633,Tennessee Volunteers,2007-02-24,90.71490016073922,included_game_day
+2007,2633,Tennessee Volunteers,2007-02-27,103.76927808516683,included_game_day
+2007,2633,Tennessee Volunteers,2007-03-03,110.94280118058388,included_game_day
+2007,2633,Tennessee Volunteers,2007-03-08,95.45081604062442,included_game_day
+2007,2633,Tennessee Volunteers,2007-03-16,124.52088157852538,included_game_day
+2007,2633,Tennessee Volunteers,2007-03-18,128.0086163826929,included_game_day
+2007,2633,Tennessee Volunteers,2007-03-22,134.9449624749293,included_game_day
+2008,2633,Tennessee Volunteers,2007-11-09,14.0,included_game_day
+2008,2633,Tennessee Volunteers,2007-11-16,21.3,included_game_day
+2008,2633,Tennessee Volunteers,2007-11-20,84.3645,included_game_day
+2008,2633,Tennessee Volunteers,2007-11-23,86.52505000000001,included_game_day
+2008,2633,Tennessee Volunteers,2007-11-24,64.156575,included_game_day
+2008,2633,Tennessee Volunteers,2007-11-27,85.9418775,included_game_day
+2008,2633,Tennessee Volunteers,2007-11-30,100.626468468,included_game_day
+2008,2633,Tennessee Volunteers,2007-12-04,96.8641446642,included_game_day
+2008,2633,Tennessee Volunteers,2007-12-15,99.056825930238,included_game_day
+2008,2633,Tennessee Volunteers,2007-12-19,99.19314872289459,included_game_day
+2008,2633,Tennessee Volunteers,2007-12-22,109.51336409421215,included_game_day
+2008,2633,Tennessee Volunteers,2007-12-29,121.39233274859616,included_game_day
+2008,2633,Tennessee Volunteers,2008-01-09,120.08409101099394,included_game_day
+2008,2633,Tennessee Volunteers,2008-01-12,139.586939760382,included_game_day
+2008,2633,Tennessee Volunteers,2008-01-17,149.77861536622487,included_game_day
+2008,2633,Tennessee Volunteers,2008-01-22,137.48222698014476,included_game_day
+2008,2633,Tennessee Volunteers,2008-01-26,140.56255763973365,included_game_day
+2008,2633,Tennessee Volunteers,2008-01-29,142.47152797011506,included_game_day
+2008,2633,Tennessee Volunteers,2008-02-02,147.2287878917793,included_game_day
+2008,2633,Tennessee Volunteers,2008-02-05,163.29841510615358,included_game_day
+2008,2633,Tennessee Volunteers,2008-02-09,151.4613557401162,included_game_day
+2008,2633,Tennessee Volunteers,2008-02-13,168.07629516396872,included_game_day
+2008,2633,Tennessee Volunteers,2008-02-16,161.08254996478226,included_game_day
+2008,2633,Tennessee Volunteers,2008-02-20,162.65118179662335,included_game_day
+2008,2633,Tennessee Volunteers,2008-02-23,173.19046202616326,included_game_day
+2008,2633,Tennessee Volunteers,2008-02-26,165.59501936691157,included_game_day
+2008,2633,Tennessee Volunteers,2008-03-02,154.78088784956665,included_game_day
+2008,2633,Tennessee Volunteers,2008-03-05,152.91675457102974,included_game_day
+2008,2633,Tennessee Volunteers,2008-03-09,170.4424421612004,included_game_day
+2008,2633,Tennessee Volunteers,2008-03-14,157.25560579248648,included_game_day
+2008,2633,Tennessee Volunteers,2008-03-15,150.91063214464305,included_game_day
+2008,2633,Tennessee Volunteers,2008-03-21,154.0259269040989,included_game_day
+2008,2633,Tennessee Volunteers,2008-03-23,156.27476805479142,included_game_day
+2008,2633,Tennessee Volunteers,2008-03-27,140.31454308949753,included_game_day
+2009,2633,Tennessee Volunteers,2008-11-15,36.0,included_game_day
+2009,2633,Tennessee Volunteers,2008-11-18,56.4,included_game_day
+2009,2633,Tennessee Volunteers,2008-11-21,64.88,included_game_day
+2009,2633,Tennessee Volunteers,2008-11-27,79.34828999999999,included_game_day
+2009,2633,Tennessee Volunteers,2008-11-28,86.79543199999999,included_game_day
+2009,2633,Tennessee Volunteers,2008-11-30,75.8307098,included_game_day
+2009,2633,Tennessee Volunteers,2008-12-03,76.18908936999999,included_game_day
+2009,2633,Tennessee Volunteers,2008-12-13,57.71321953099999,included_game_day
+2009,2633,Tennessee Volunteers,2008-12-16,71.48417348611599,included_game_day
+2009,2633,Tennessee Volunteers,2008-12-20,69.49983416697499,included_game_day
+2009,2633,Tennessee Volunteers,2008-12-29,82.8197687071907,included_game_day
+2009,2633,Tennessee Volunteers,2009-01-03,81.68482484785687,included_game_day
+2009,2633,Tennessee Volunteers,2009-01-07,70.24916155300943,included_game_day
+2009,2633,Tennessee Volunteers,2009-01-10,77.53197137726981,included_game_day
+2009,2633,Tennessee Volunteers,2009-01-13,61.15725827458441,included_game_day
+2009,2633,Tennessee Volunteers,2009-01-17,63.911691037161184,included_game_day
+2009,2633,Tennessee Volunteers,2009-01-20,82.83600598615782,included_game_day
+2009,2633,Tennessee Volunteers,2009-01-24,84.13059207869338,included_game_day
+2009,2633,Tennessee Volunteers,2009-01-28,78.16227250127572,included_game_day
+2009,2633,Tennessee Volunteers,2009-01-31,97.59485646816862,included_game_day
+2009,2633,Tennessee Volunteers,2009-02-04,96.43076580933196,included_game_day
+2009,2633,Tennessee Volunteers,2009-02-07,93.35667676226856,included_game_day
+2009,2633,Tennessee Volunteers,2009-02-11,110.80535068084068,included_game_day
+2009,2633,Tennessee Volunteers,2009-02-14,122.11006274373194,included_game_day
+2009,2633,Tennessee Volunteers,2009-02-18,101.84328281139804,included_game_day
+2009,2633,Tennessee Volunteers,2009-02-21,86.0366664079214,included_game_day
+2009,2633,Tennessee Volunteers,2009-02-25,86.38265749557424,included_game_day
+2009,2633,Tennessee Volunteers,2009-03-01,95.68195524522562,included_game_day
+2009,2633,Tennessee Volunteers,2009-03-05,113.78640599883528,included_game_day
+2009,2633,Tennessee Volunteers,2009-03-08,103.41687887800487,included_game_day
+2009,2633,Tennessee Volunteers,2009-03-13,125.92463154828144,included_game_day
+2009,2633,Tennessee Volunteers,2009-03-14,134.77906428926286,included_game_day
+2009,2633,Tennessee Volunteers,2009-03-15,128.68711484573197,included_game_day
+2009,2633,Tennessee Volunteers,2009-03-20,125.35952943704228,included_game_day
+2010,2633,Tennessee Volunteers,2009-11-13,26.0,included_game_day
+2010,2633,Tennessee Volunteers,2009-11-17,94.1,included_game_day
+2010,2633,Tennessee Volunteers,2009-11-20,120.75299999999999,included_game_day
+2010,2633,Tennessee Volunteers,2009-11-22,113.83769999999998,included_game_day
+2010,2633,Tennessee Volunteers,2009-11-23,107.02242999999999,included_game_day
+2010,2633,Tennessee Volunteers,2009-11-27,110.02975999999998,included_game_day
+2010,2633,Tennessee Volunteers,2009-12-02,110.57768537299998,included_game_day
+2010,2633,Tennessee Volunteers,2009-12-11,119.49978586668998,included_game_day
+2010,2633,Tennessee Volunteers,2009-12-15,123.37452814354097,included_game_day
+2010,2633,Tennessee Volunteers,2009-12-19,91.88100295282987,included_game_day
+2010,2633,Tennessee Volunteers,2009-12-23,96.59909947925091,included_game_day
+2010,2633,Tennessee Volunteers,2009-12-31,108.40783923906025,included_game_day
+2010,2633,Tennessee Volunteers,2010-01-06,116.42764282220759,included_game_day
+2010,2633,Tennessee Volunteers,2010-01-10,129.39141990200403,included_game_day
+2010,2633,Tennessee Volunteers,2010-01-14,141.1581593182374,included_game_day
+2010,2633,Tennessee Volunteers,2010-01-16,137.23098804121588,included_game_day
+2010,2633,Tennessee Volunteers,2010-01-19,138.9819056776969,included_game_day
+2010,2633,Tennessee Volunteers,2010-01-23,117.39806280608575,included_game_day
+2010,2633,Tennessee Volunteers,2010-01-27,106.07680623942112,included_game_day
+2010,2633,Tennessee Volunteers,2010-01-31,102.44810372475777,included_game_day
+2010,2633,Tennessee Volunteers,2010-02-04,97.92865284895014,included_game_day
+2010,2633,Tennessee Volunteers,2010-02-06,118.2158484118639,included_game_day
+2010,2633,Tennessee Volunteers,2010-02-09,100.894813258088,included_game_day
+2010,2633,Tennessee Volunteers,2010-02-13,99.78623089774854,included_game_day
+2010,2633,Tennessee Volunteers,2010-02-17,100.87258232799032,included_game_day
+2010,2633,Tennessee Volunteers,2010-02-20,106.49100928869093,included_game_day
+2010,2633,Tennessee Volunteers,2010-02-23,94.4584225071703,included_game_day
+2010,2633,Tennessee Volunteers,2010-02-27,108.69353581396122,included_game_day
+2010,2633,Tennessee Volunteers,2010-03-03,105.72058263879528,included_game_day
+2010,2633,Tennessee Volunteers,2010-03-06,123.08179392281585,included_game_day
+2010,2633,Tennessee Volunteers,2010-03-11,119.67163432483248,included_game_day
+2010,2633,Tennessee Volunteers,2010-03-12,127.61153729007668,included_game_day
+2010,2633,Tennessee Volunteers,2010-03-13,102.07964192742216,included_game_day
+2010,2633,Tennessee Volunteers,2010-03-18,106.55628380239041,included_game_day
+2010,2633,Tennessee Volunteers,2010-03-20,120.72271832985253,included_game_day
+2010,2633,Tennessee Volunteers,2010-03-26,130.69528192044507,included_game_day
+2010,2633,Tennessee Volunteers,2010-03-28,130.06399169463168,included_game_day
+2011,2633,Tennessee Volunteers,2010-11-12,17.0,included_game_day
+2011,2633,Tennessee Volunteers,2010-11-16,21.3,included_game_day
+2011,2633,Tennessee Volunteers,2010-11-17,22.28,included_game_day
+2011,2633,Tennessee Volunteers,2010-11-24,29.517000000000003,included_game_day
+2011,2633,Tennessee Volunteers,2010-11-26,46.38655,included_game_day
+2011,2633,Tennessee Volunteers,2010-11-30,69.593045,included_game_day
+2011,2633,Tennessee Volunteers,2010-12-11,83.3893563061946,included_game_day
+2011,2633,Tennessee Volunteers,2010-12-14,71.40296756950184,included_game_day
+2011,2633,Tennessee Volunteers,2010-12-17,65.51387304384765,included_game_day
+2011,2633,Tennessee Volunteers,2010-12-21,60.94882535172297,included_game_day
+2011,2633,Tennessee Volunteers,2010-12-23,62.65961827674202,included_game_day
+2011,2633,Tennessee Volunteers,2010-12-29,49.236664292499285,included_game_day
+2011,2633,Tennessee Volunteers,2010-12-31,31.85494127356874,included_game_day
+2011,2633,Tennessee Volunteers,2011-01-05,50.22914236782964,included_game_day
+2011,2633,Tennessee Volunteers,2011-01-08,49.00938964266899,included_game_day
+2011,2633,Tennessee Volunteers,2011-01-11,44.01359230076461,included_game_day
+2011,2633,Tennessee Volunteers,2011-01-15,50.672349772576574,included_game_day
+2011,2633,Tennessee Volunteers,2011-01-18,59.71972893753296,included_game_day
+2011,2633,Tennessee Volunteers,2011-01-22,57.69613194115301,included_game_day
+2011,2633,Tennessee Volunteers,2011-01-26,66.98950081230979,included_game_day
+2011,2633,Tennessee Volunteers,2011-01-29,84.9967779951029,included_game_day
+2011,2633,Tennessee Volunteers,2011-02-03,90.9878027782292,included_game_day
+2011,2633,Tennessee Volunteers,2011-02-05,84.42354090984858,included_game_day
+2011,2633,Tennessee Volunteers,2011-02-08,81.53590852812006,included_game_day
+2011,2633,Tennessee Volunteers,2011-02-12,87.22739501522098,included_game_day
+2011,2633,Tennessee Volunteers,2011-02-16,82.08384177368546,included_game_day
+2011,2633,Tennessee Volunteers,2011-02-19,71.11436006467365,included_game_day
+2011,2633,Tennessee Volunteers,2011-02-22,88.16867843563678,included_game_day
+2011,2633,Tennessee Volunteers,2011-02-26,77.54144541036021,included_game_day
+2011,2633,Tennessee Volunteers,2011-03-03,76.58476953802676,included_game_day
+2011,2633,Tennessee Volunteers,2011-03-06,73.77938397463558,included_game_day
+2011,2633,Tennessee Volunteers,2011-03-10,75.58664803618476,included_game_day
+2011,2633,Tennessee Volunteers,2011-03-11,71.14713358379913,included_game_day
+2011,2633,Tennessee Volunteers,2011-03-18,44.200740010262294,included_game_day
+2012,2633,Tennessee Volunteers,2011-11-11,26.0,included_game_day
+2012,2633,Tennessee Volunteers,2011-11-16,40.230000000000004,included_game_day
+2012,2633,Tennessee Volunteers,2011-11-21,30.588200000000004,included_game_day
+2012,2633,Tennessee Volunteers,2011-11-22,25.588680000000004,included_game_day
+2012,2633,Tennessee Volunteers,2011-11-28,19.258065000000002,included_game_day
+2012,2633,Tennessee Volunteers,2011-12-03,14.76602004,included_game_day
+2012,2633,Tennessee Volunteers,2011-12-10,0.44398712970000176,included_game_day
+2012,2633,Tennessee Volunteers,2011-12-14,1.0434982853300019,included_game_day
+2012,2633,Tennessee Volunteers,2011-12-20,2.4257073920970016,included_game_day
+2012,2633,Tennessee Volunteers,2011-12-23,2.4081382519669017,included_game_day
+2012,2633,Tennessee Volunteers,2011-12-29,21.786370469603455,included_game_day
+2012,2633,Tennessee Volunteers,2012-01-02,28.945370076046135,included_game_day
+2012,2633,Tennessee Volunteers,2012-01-04,17.27043110577125,included_game_day
+2012,2633,Tennessee Volunteers,2012-01-07,37.46971620261648,included_game_day
+2012,2633,Tennessee Volunteers,2012-01-12,40.74688817570701,included_game_day
+2012,2633,Tennessee Volunteers,2012-01-14,46.68463096741963,included_game_day
+2012,2633,Tennessee Volunteers,2012-01-18,40.564141699882946,included_game_day
+2012,2633,Tennessee Volunteers,2012-01-21,45.60901246068955,included_game_day
+2012,2633,Tennessee Volunteers,2012-01-24,36.338617735968654,included_game_day
+2012,2633,Tennessee Volunteers,2012-01-28,44.578167886295745,included_game_day
+2012,2633,Tennessee Volunteers,2012-01-31,35.92024732404569,included_game_day
+2012,2633,Tennessee Volunteers,2012-02-04,39.573778076885574,included_game_day
+2012,2633,Tennessee Volunteers,2012-02-08,44.72400323373358,included_game_day
+2012,2633,Tennessee Volunteers,2012-02-11,60.348973289352735,included_game_day
+2012,2633,Tennessee Volunteers,2012-02-15,74.21121988326054,included_game_day
+2012,2633,Tennessee Volunteers,2012-02-18,65.12133226679529,included_game_day
+2012,2633,Tennessee Volunteers,2012-02-22,70.61318314844475,included_game_day
+2012,2633,Tennessee Volunteers,2012-02-25,74.81796553940924,included_game_day
+2012,2633,Tennessee Volunteers,2012-02-29,78.8161586201108,included_game_day
+2012,2633,Tennessee Volunteers,2012-03-03,88.23408969211295,included_game_day
+2012,2633,Tennessee Volunteers,2012-03-09,80.7199490456029,included_game_day
+2012,2633,Tennessee Volunteers,2012-03-13,85.29157433924372,included_game_day
+2012,2633,Tennessee Volunteers,2012-03-19,72.94981157450631,included_game_day
+2013,2633,Tennessee Volunteers,2012-11-09,6.0,included_game_day
+2013,2633,Tennessee Volunteers,2012-11-15,12.530000000000001,included_game_day
+2013,2633,Tennessee Volunteers,2012-11-16,-4.882999999999999,included_game_day
+2013,2633,Tennessee Volunteers,2012-11-18,8.683100000000001,included_game_day
+2013,2633,Tennessee Volunteers,2012-11-26,29.739658,included_game_day
+2013,2633,Tennessee Volunteers,2012-11-30,31.7629682,included_game_day
+2013,2633,Tennessee Volunteers,2012-12-05,30.730180854,included_game_day
+2013,2633,Tennessee Volunteers,2012-12-13,42.99375408903,included_game_day
+2013,2633,Tennessee Volunteers,2012-12-18,37.928055598327,included_game_day
+2013,2633,Tennessee Volunteers,2012-12-21,44.648311662843,included_game_day
+2013,2633,Tennessee Volunteers,2012-12-29,43.4375244960688,included_game_day
+2013,2633,Tennessee Volunteers,2013-01-04,37.24085795518388,included_game_day
+2013,2633,Tennessee Volunteers,2013-01-09,23.906445845407074,included_game_day
+2013,2633,Tennessee Volunteers,2013-01-12,24.267457862350682,included_game_day
+2013,2633,Tennessee Volunteers,2013-01-15,26.569886545334803,included_game_day
+2013,2633,Tennessee Volunteers,2013-01-19,34.13677967285581,included_game_day
+2013,2633,Tennessee Volunteers,2013-01-24,41.82417468356854,included_game_day
+2013,2633,Tennessee Volunteers,2013-01-26,42.30792443507304,included_game_day
+2013,2633,Tennessee Volunteers,2013-01-29,36.8122198392636,included_game_day
+2013,2633,Tennessee Volunteers,2013-02-02,29.833383561973758,included_game_day
+2013,2633,Tennessee Volunteers,2013-02-06,20.476509913882854,included_game_day
+2013,2633,Tennessee Volunteers,2013-02-10,25.902117683769397,included_game_day
+2013,2633,Tennessee Volunteers,2013-02-13,42.073409984307524,included_game_day
+2013,2633,Tennessee Volunteers,2013-02-16,77.23684080767174,included_game_day
+2013,2633,Tennessee Volunteers,2013-02-19,80.24742774784782,included_game_day
+2013,2633,Tennessee Volunteers,2013-02-23,87.70669853027458,included_game_day
+2013,2633,Tennessee Volunteers,2013-02-26,103.7320561095637,included_game_day
+2013,2633,Tennessee Volunteers,2013-03-02,90.39447506059243,included_game_day
+2013,2633,Tennessee Volunteers,2013-03-06,87.86797507653846,included_game_day
+2013,2633,Tennessee Volunteers,2013-03-09,94.2596303257886,included_game_day
+2013,2633,Tennessee Volunteers,2013-03-14,94.68251976887602,included_game_day
+2013,2633,Tennessee Volunteers,2013-03-15,81.35632945351806,included_game_day
+2013,2633,Tennessee Volunteers,2013-03-20,67.0861067607167,included_game_day
+2014,2633,Tennessee Volunteers,2013-11-12,1.0999999999999996,included_game_day
+2014,2633,Tennessee Volunteers,2013-11-16,6.85,included_game_day
+2014,2633,Tennessee Volunteers,2013-11-18,27.887999999999998,included_game_day
+2014,2633,Tennessee Volunteers,2013-11-22,37.621849999999995,included_game_day
+2014,2633,Tennessee Volunteers,2013-11-28,24.657654999999995,included_game_day
+2014,2633,Tennessee Volunteers,2013-11-29,44.0697215,included_game_day
+2014,2633,Tennessee Volunteers,2013-11-30,64.61618289,included_game_day
+2014,2633,Tennessee Volunteers,2013-12-07,74.686331218,included_game_day
+2014,2633,Tennessee Volunteers,2013-12-14,70.07010647320001,included_game_day
+2014,2633,Tennessee Volunteers,2013-12-18,57.39290178916611,included_game_day
+2014,2633,Tennessee Volunteers,2013-12-23,66.00807126333787,included_game_day
+2014,2633,Tennessee Volunteers,2013-12-30,98.72623168821622,included_game_day
+2014,2633,Tennessee Volunteers,2014-01-07,116.8348643402405,included_game_day
+2014,2633,Tennessee Volunteers,2014-01-11,105.6999899032741,included_game_day
+2014,2633,Tennessee Volunteers,2014-01-15,106.78018953992303,included_game_day
+2014,2633,Tennessee Volunteers,2014-01-18,103.32637843224833,included_game_day
+2014,2633,Tennessee Volunteers,2014-01-22,107.41152395379207,included_game_day
+2014,2633,Tennessee Volunteers,2014-01-25,86.58090342534854,included_game_day
+2014,2633,Tennessee Volunteers,2014-01-29,98.62140836346923,included_game_day
+2014,2633,Tennessee Volunteers,2014-02-01,110.00815860766858,included_game_day
+2014,2633,Tennessee Volunteers,2014-02-05,101.21987163115445,included_game_day
+2014,2633,Tennessee Volunteers,2014-02-08,110.06205628418735,included_game_day
+2014,2633,Tennessee Volunteers,2014-02-11,102.30619713400756,included_game_day
+2014,2633,Tennessee Volunteers,2014-02-15,97.67825064732139,included_game_day
+2014,2633,Tennessee Volunteers,2014-02-18,109.63149314805895,included_game_day
+2014,2633,Tennessee Volunteers,2014-02-22,101.20333787304963,included_game_day
+2014,2633,Tennessee Volunteers,2014-02-26,98.45411862481357,included_game_day
+2014,2633,Tennessee Volunteers,2014-03-01,129.05887453334142,included_game_day
+2014,2633,Tennessee Volunteers,2014-03-05,150.5348728557874,included_game_day
+2014,2633,Tennessee Volunteers,2014-03-08,165.12498109953015,included_game_day
+2014,2633,Tennessee Volunteers,2014-03-14,167.26333720355245,included_game_day
+2014,2633,Tennessee Volunteers,2014-03-15,162.699551229208,included_game_day
+2014,2633,Tennessee Volunteers,2014-03-19,168.60630119893065,included_game_day
+2014,2633,Tennessee Volunteers,2014-03-21,176.6985276862836,included_game_day
+2014,2633,Tennessee Volunteers,2014-03-23,186.28191574612788,included_game_day
+2014,2633,Tennessee Volunteers,2014-03-28,180.09327594862572,included_game_day
+2015,2633,Tennessee Volunteers,2014-11-14,-16.0,included_game_day
+2015,2633,Tennessee Volunteers,2014-11-20,-8.41,included_game_day
+2015,2633,Tennessee Volunteers,2014-11-27,-1.5769200000000003,included_game_day
+2015,2633,Tennessee Volunteers,2014-11-28,-14.100828,included_game_day
+2015,2633,Tennessee Volunteers,2014-11-30,-21.0427345,included_game_day
+2015,2633,Tennessee Volunteers,2014-12-06,-18.370909450000003,included_game_day
+2015,2633,Tennessee Volunteers,2014-12-14,3.502601184439996,included_game_day
+2015,2633,Tennessee Volunteers,2014-12-17,3.4145120841759944,included_game_day
+2015,2633,Tennessee Volunteers,2014-12-19,1.5014368671183949,included_game_day
+2015,2633,Tennessee Volunteers,2014-12-22,6.300619150709705,included_game_day
+2015,2633,Tennessee Volunteers,2014-12-27,15.102700244906432,included_game_day
+2015,2633,Tennessee Volunteers,2014-12-31,20.41210466027044,included_game_day
+2015,2633,Tennessee Volunteers,2015-01-07,34.79495380598648,included_game_day
+2015,2633,Tennessee Volunteers,2015-01-10,16.383677322848214,included_game_day
+2015,2633,Tennessee Volunteers,2015-01-13,27.619430876250814,included_game_day
+2015,2633,Tennessee Volunteers,2015-01-17,33.231440525750884,included_game_day
+2015,2633,Tennessee Volunteers,2015-01-20,44.731633017414595,included_game_day
+2015,2633,Tennessee Volunteers,2015-01-24,35.82794194353504,included_game_day
+2015,2633,Tennessee Volunteers,2015-01-27,37.31159524373455,included_game_day
+2015,2633,Tennessee Volunteers,2015-01-31,38.48459447014964,included_game_day
+2015,2633,Tennessee Volunteers,2015-02-03,28.2058458118974,included_game_day
+2015,2633,Tennessee Volunteers,2015-02-07,33.32230978824763,included_game_day
+2015,2633,Tennessee Volunteers,2015-02-11,43.03584324280035,included_game_day
+2015,2633,Tennessee Volunteers,2015-02-14,25.64093090315126,included_game_day
+2015,2633,Tennessee Volunteers,2015-02-17,23.035348521763613,included_game_day
+2015,2633,Tennessee Volunteers,2015-02-21,32.14784861823939,included_game_day
+2015,2633,Tennessee Volunteers,2015-02-26,26.037693051039174,included_game_day
+2015,2633,Tennessee Volunteers,2015-02-28,14.653895727318144,included_game_day
+2015,2633,Tennessee Volunteers,2015-03-04,42.56827824385188,included_game_day
+2015,2633,Tennessee Volunteers,2015-03-07,27.95993712321315,included_game_day
+2015,2633,Tennessee Volunteers,2015-03-12,41.089222819829445,included_game_day
+2015,2633,Tennessee Volunteers,2015-03-13,38.710862000432,included_game_day
+2016,2633,Tennessee Volunteers,2015-11-13,1.0,included_game_day
+2016,2633,Tennessee Volunteers,2015-11-16,5.1,included_game_day
+2016,2633,Tennessee Volunteers,2015-11-19,11.59,included_game_day
+2016,2633,Tennessee Volunteers,2015-11-22,28.230999999999998,included_game_day
+2016,2633,Tennessee Volunteers,2015-11-24,39.1355,included_game_day
+2016,2633,Tennessee Volunteers,2015-11-27,36.5867,included_game_day
+2016,2633,Tennessee Volunteers,2015-11-28,28.06087,included_game_day
+2016,2633,Tennessee Volunteers,2015-12-12,30.799787410100002,included_game_day
+2016,2633,Tennessee Volunteers,2015-12-16,38.5413784851601,included_game_day
+2016,2633,Tennessee Volunteers,2015-12-19,33.5664003996221,included_game_day
+2016,2633,Tennessee Volunteers,2015-12-22,34.43146124557788,included_game_day
+2016,2633,Tennessee Volunteers,2015-12-29,32.10515967146399,included_game_day
+2016,2633,Tennessee Volunteers,2016-01-02,25.929520880134156,included_game_day
+2016,2633,Tennessee Volunteers,2016-01-06,43.50346795897413,included_game_day
+2016,2633,Tennessee Volunteers,2016-01-09,43.18617261157063,included_game_day
+2016,2633,Tennessee Volunteers,2016-01-13,38.08072770590855,included_game_day
+2016,2633,Tennessee Volunteers,2016-01-16,45.4856243196472,included_game_day
+2016,2633,Tennessee Volunteers,2016-01-20,33.80096983079087,included_game_day
+2016,2633,Tennessee Volunteers,2016-01-23,43.56971657454129,included_game_day
+2016,2633,Tennessee Volunteers,2016-01-26,39.0683882647883,included_game_day
+2016,2633,Tennessee Volunteers,2016-01-30,25.344217396151475,included_game_day
+2016,2633,Tennessee Volunteers,2016-02-02,39.51998602353186,included_game_day
+2016,2633,Tennessee Volunteers,2016-02-06,29.00320334050301,included_game_day
+2016,2633,Tennessee Volunteers,2016-02-09,45.566961946622385,included_game_day
+2016,2633,Tennessee Volunteers,2016-02-13,29.72011458090193,included_game_day
+2016,2633,Tennessee Volunteers,2016-02-18,37.27157153642225,included_game_day
+2016,2633,Tennessee Volunteers,2016-02-20,53.12801128064565,included_game_day
+2016,2633,Tennessee Volunteers,2016-02-24,30.141091525299167,included_game_day
+2016,2633,Tennessee Volunteers,2016-02-27,19.243206746315863,included_game_day
+2016,2633,Tennessee Volunteers,2016-03-01,16.80218319681157,included_game_day
+2016,2633,Tennessee Volunteers,2016-03-05,-5.8801123955135495,included_game_day
+2016,2633,Tennessee Volunteers,2016-03-09,28.17602679636657,included_game_day
+2016,2633,Tennessee Volunteers,2016-03-10,40.28048935420075,included_game_day
+2016,2633,Tennessee Volunteers,2016-03-11,30.833867434560016,included_game_day
+2017,2633,Tennessee Volunteers,2016-11-11,-16.0,included_game_day
+2017,2633,Tennessee Volunteers,2016-11-15,-9.3,included_game_day
+2017,2633,Tennessee Volunteers,2016-11-21,-17.295,included_game_day
+2017,2633,Tennessee Volunteers,2016-11-22,-18.0375,included_game_day
+2017,2633,Tennessee Volunteers,2016-12-03,5.476863419999997,included_game_day
+2017,2633,Tennessee Volunteers,2016-12-06,35.103336477999996,included_game_day
+2017,2633,Tennessee Volunteers,2016-12-11,46.06024419287999,included_game_day
+2017,2633,Tennessee Volunteers,2016-12-13,40.27064689705299,included_game_day
+2017,2633,Tennessee Volunteers,2016-12-15,45.78929764666369,included_game_day
+2017,2633,Tennessee Volunteers,2016-12-18,43.52726588637232,included_game_day
+2017,2633,Tennessee Volunteers,2016-12-22,51.57130832021425,included_game_day
+2017,2633,Tennessee Volunteers,2016-12-29,65.89312423246763,included_game_day
+2017,2633,Tennessee Volunteers,2017-01-03,61.162774725497236,included_game_day
+2017,2633,Tennessee Volunteers,2017-01-07,57.93905837955393,included_game_day
+2017,2633,Tennessee Volunteers,2017-01-11,47.62942888408318,included_game_day
+2017,2633,Tennessee Volunteers,2017-01-14,64.00936936327167,included_game_day
+2017,2633,Tennessee Volunteers,2017-01-17,51.588215637335715,included_game_day
+2017,2633,Tennessee Volunteers,2017-01-21,67.82971271447504,included_game_day
+2017,2633,Tennessee Volunteers,2017-01-24,80.50135672236176,included_game_day
+2017,2633,Tennessee Volunteers,2017-01-28,93.18738352683515,included_game_day
+2017,2633,Tennessee Volunteers,2017-01-31,100.59904776675155,included_game_day
+2017,2633,Tennessee Volunteers,2017-02-04,91.52037489801862,included_game_day
+2017,2633,Tennessee Volunteers,2017-02-08,95.51533275682888,included_game_day
+2017,2633,Tennessee Volunteers,2017-02-11,88.57308888871948,included_game_day
+2017,2633,Tennessee Volunteers,2017-02-14,71.77127661489814,included_game_day
+2017,2633,Tennessee Volunteers,2017-02-18,82.03542409128247,included_game_day
+2017,2633,Tennessee Volunteers,2017-02-22,66.61761266827554,included_game_day
+2017,2633,Tennessee Volunteers,2017-02-25,43.9268712736769,included_game_day
+2017,2633,Tennessee Volunteers,2017-03-01,26.52819045284777,included_game_day
+2017,2633,Tennessee Volunteers,2017-03-04,32.57387665901507,included_game_day
+2017,2633,Tennessee Volunteers,2017-03-09,31.991573225448537,included_game_day
+2018,2633,Tennessee Volunteers,2017-11-10,32.0,included_game_day
+2018,2633,Tennessee Volunteers,2017-11-14,59.9,included_game_day
+2018,2633,Tennessee Volunteers,2017-11-22,69.8702,included_game_day
+2018,2633,Tennessee Volunteers,2017-11-23,62.41768,included_game_day
+2018,2633,Tennessee Volunteers,2017-11-24,71.420773,included_game_day
+2018,2633,Tennessee Volunteers,2017-11-29,89.3791777,included_game_day
+2018,2633,Tennessee Volunteers,2017-12-03,90.53866045,included_game_day
+2018,2633,Tennessee Volunteers,2017-12-09,90.2459787152,included_game_day
+2018,2633,Tennessee Volunteers,2017-12-17,85.90049725403699,included_game_day
+2018,2633,Tennessee Volunteers,2017-12-20,80.50476297361709,included_game_day
+2018,2633,Tennessee Volunteers,2017-12-23,101.69361772639735,included_game_day
+2018,2633,Tennessee Volunteers,2017-12-30,105.60644253507986,included_game_day
+2018,2633,Tennessee Volunteers,2018-01-02,92.51434990685632,included_game_day
+2018,2633,Tennessee Volunteers,2018-01-06,101.52528620016821,included_game_day
+2018,2633,Tennessee Volunteers,2018-01-09,105.24438240040529,included_game_day
+2018,2633,Tennessee Volunteers,2018-01-13,111.49504046051152,included_game_day
+2018,2633,Tennessee Volunteers,2018-01-17,109.00579662924159,included_game_day
+2018,2633,Tennessee Volunteers,2018-01-20,113.25334775198701,included_game_day
+2018,2633,Tennessee Volunteers,2018-01-23,105.92164553399545,included_game_day
+2018,2633,Tennessee Volunteers,2018-01-27,124.87123705733745,included_game_day
+2018,2633,Tennessee Volunteers,2018-01-31,139.01947988853053,included_game_day
+2018,2633,Tennessee Volunteers,2018-02-03,160.57309642514113,included_game_day
+2018,2633,Tennessee Volunteers,2018-02-06,158.346978335101,included_game_day
+2018,2633,Tennessee Volunteers,2018-02-10,125.99676453733983,included_game_day
+2018,2633,Tennessee Volunteers,2018-02-13,113.3645619243776,included_game_day
+2018,2633,Tennessee Volunteers,2018-02-17,98.9711407106582,included_game_day
+2018,2633,Tennessee Volunteers,2018-02-21,99.2673160258594,included_game_day
+2018,2633,Tennessee Volunteers,2018-02-24,102.16949360957477,included_game_day
+2018,2633,Tennessee Volunteers,2018-02-27,126.86679554771379,included_game_day
+2018,2633,Tennessee Volunteers,2018-03-03,122.32784956422343,included_game_day
+2018,2633,Tennessee Volunteers,2018-03-09,118.94233185261933,included_game_day
+2018,2633,Tennessee Volunteers,2018-03-10,135.67860586957565,included_game_day
+2018,2633,Tennessee Volunteers,2018-03-11,132.02696421958794,included_game_day
+2018,2633,Tennessee Volunteers,2018-03-15,148.14442946668893,included_game_day
+2018,2633,Tennessee Volunteers,2018-03-17,142.81093123316694,included_game_day
+2019,2633,Tennessee Volunteers,2018-11-09,19.0,included_game_day
+2019,2633,Tennessee Volunteers,2018-11-13,28.7,included_game_day
+2019,2633,Tennessee Volunteers,2018-11-21,41.972300000000004,included_game_day
+2019,2633,Tennessee Volunteers,2018-11-23,35.348110000000005,included_game_day
+2019,2633,Tennessee Volunteers,2018-11-28,54.284802000000006,included_game_day
+2019,2633,Tennessee Volunteers,2018-12-02,72.08580379,included_game_day
+2019,2633,Tennessee Volunteers,2018-12-09,80.38128538024,included_game_day
+2019,2633,Tennessee Volunteers,2018-12-15,87.649997397836,included_game_day
+2019,2633,Tennessee Volunteers,2018-12-19,93.3338907678386,included_game_day
+2019,2633,Tennessee Volunteers,2018-12-22,100.59887778873104,included_game_day
+2019,2633,Tennessee Volunteers,2018-12-29,118.4952928314593,included_game_day
+2019,2633,Tennessee Volunteers,2019-01-05,155.49635184819647,included_game_day
+2019,2633,Tennessee Volunteers,2019-01-08,171.82868392175544,included_game_day
+2019,2633,Tennessee Volunteers,2019-01-12,178.5660569742423,included_game_day
+2019,2633,Tennessee Volunteers,2019-01-15,182.34484684066248,included_game_day
+2019,2633,Tennessee Volunteers,2019-01-19,169.72510743363992,included_game_day
+2019,2633,Tennessee Volunteers,2019-01-23,162.8126489188688,included_game_day
+2019,2633,Tennessee Volunteers,2019-01-26,161.69327005178255,included_game_day
+2019,2633,Tennessee Volunteers,2019-01-29,173.8424737752298,included_game_day
+2019,2633,Tennessee Volunteers,2019-02-02,177.06517266617263,included_game_day
+2019,2633,Tennessee Volunteers,2019-02-05,169.58127212966244,included_game_day
+2019,2633,Tennessee Volunteers,2019-02-09,169.68127067070807,included_game_day
+2019,2633,Tennessee Volunteers,2019-02-13,165.0639302056481,included_game_day
+2019,2633,Tennessee Volunteers,2019-02-16,151.88632641654766,included_game_day
+2019,2633,Tennessee Volunteers,2019-02-19,144.4237081989032,included_game_day
+2019,2633,Tennessee Volunteers,2019-02-23,142.9459596146253,included_game_day
+2019,2633,Tennessee Volunteers,2019-02-27,140.04507540891944,included_game_day
+2019,2633,Tennessee Volunteers,2019-03-02,160.34983783109624,included_game_day
+2019,2633,Tennessee Volunteers,2019-03-05,170.3662634161122,included_game_day
+2019,2633,Tennessee Volunteers,2019-03-09,164.4867117405418,included_game_day
+2019,2633,Tennessee Volunteers,2019-03-15,167.84808698336934,included_game_day
+2019,2633,Tennessee Volunteers,2019-03-16,171.68627261821794,included_game_day
+2019,2633,Tennessee Volunteers,2019-03-17,147.8573985365206,included_game_day
+2019,2633,Tennessee Volunteers,2019-03-22,146.15129242988004,included_game_day
+2019,2633,Tennessee Volunteers,2019-03-24,143.8702294156076,included_game_day
+2019,2633,Tennessee Volunteers,2019-03-28,141.86101467416233,included_game_day
+2020,2633,Tennessee Volunteers,2019-11-05,12.0,included_game_day
+2020,2633,Tennessee Volunteers,2019-11-12,28.5,included_game_day
+2020,2633,Tennessee Volunteers,2019-11-16,39.888999999999996,included_game_day
+2020,2633,Tennessee Volunteers,2019-11-20,62.5561,included_game_day
+2020,2633,Tennessee Volunteers,2019-11-25,63.910740000000004,included_game_day
+2020,2633,Tennessee Volunteers,2019-11-29,63.9192158,included_game_day
+2020,2633,Tennessee Volunteers,2019-11-30,65.55410280000001,included_game_day
+2020,2633,Tennessee Volunteers,2019-12-04,77.14114217800001,included_game_day
+2020,2633,Tennessee Volunteers,2019-12-14,72.09339354102,included_game_day
+2020,2633,Tennessee Volunteers,2019-12-18,58.40361687832551,included_game_day
+2020,2633,Tennessee Volunteers,2019-12-21,68.53240078178816,included_game_day
+2020,2633,Tennessee Volunteers,2019-12-28,43.452895603659925,included_game_day
+2020,2633,Tennessee Volunteers,2020-01-04,32.37430588649249,included_game_day
+2020,2633,Tennessee Volunteers,2020-01-07,50.009312114966235,included_game_day
+2020,2633,Tennessee Volunteers,2020-01-11,43.805611652384805,included_game_day
+2020,2633,Tennessee Volunteers,2020-01-15,30.127166295168745,included_game_day
+2020,2633,Tennessee Volunteers,2020-01-18,50.92235351314565,included_game_day
+2020,2633,Tennessee Volunteers,2020-01-21,68.2720482860349,included_game_day
+2020,2633,Tennessee Volunteers,2020-01-25,74.34575002085859,included_game_day
+2020,2633,Tennessee Volunteers,2020-01-28,58.6325763640606,included_game_day
+2020,2633,Tennessee Volunteers,2020-02-01,54.58098167494215,included_game_day
+2020,2633,Tennessee Volunteers,2020-02-04,61.72144895551593,included_game_day
+2020,2633,Tennessee Volunteers,2020-02-08,50.0563985013519,included_game_day
+2020,2633,Tennessee Volunteers,2020-02-11,70.64680369796973,included_game_day
+2020,2633,Tennessee Volunteers,2020-02-15,73.26838082286379,included_game_day
+2020,2633,Tennessee Volunteers,2020-02-18,65.21054917775544,included_game_day
+2020,2633,Tennessee Volunteers,2020-02-22,61.17631234091527,included_game_day
+2020,2633,Tennessee Volunteers,2020-02-26,46.223338768999696,included_game_day
+2020,2633,Tennessee Volunteers,2020-02-29,53.69523062506416,included_game_day
+2020,2633,Tennessee Volunteers,2020-03-03,71.56053509319104,included_game_day
+2020,2633,Tennessee Volunteers,2020-03-07,45.62164842169996,included_game_day
+2021,2633,Tennessee Volunteers,2020-12-08,10.04,included_game_day
+2021,2633,Tennessee Volunteers,2020-12-12,15.9818599,included_game_day
+2021,2633,Tennessee Volunteers,2020-12-15,54.60507991,included_game_day
+2021,2633,Tennessee Volunteers,2020-12-18,93.471074419,included_game_day
+2021,2633,Tennessee Volunteers,2020-12-21,113.92479870810001,included_game_day
+2021,2633,Tennessee Volunteers,2020-12-23,111.58821339329,included_game_day
+2021,2633,Tennessee Volunteers,2020-12-30,127.721277697439,included_game_day
+2021,2633,Tennessee Volunteers,2021-01-02,108.9433372922654,included_game_day
+2021,2633,Tennessee Volunteers,2021-01-06,110.9128514947407,included_game_day
+2021,2633,Tennessee Volunteers,2021-01-09,116.16967573816777,included_game_day
+2021,2633,Tennessee Volunteers,2021-01-16,121.13113091703028,included_game_day
+2021,2633,Tennessee Volunteers,2021-01-19,90.22869375513983,included_game_day
+2021,2633,Tennessee Volunteers,2021-01-23,75.22161884878919,included_game_day
+2021,2633,Tennessee Volunteers,2021-01-26,70.62351117073455,included_game_day
+2021,2633,Tennessee Volunteers,2021-01-30,85.95228287247774,included_game_day
+2021,2633,Tennessee Volunteers,2021-02-02,81.73306125583349,included_game_day
+2021,2633,Tennessee Volunteers,2021-02-06,91.12301374012921,included_game_day
+2021,2633,Tennessee Volunteers,2021-02-10,88.46284925097511,included_game_day
+2021,2633,Tennessee Volunteers,2021-02-13,77.05532864043985,included_game_day
+2021,2633,Tennessee Volunteers,2021-02-17,87.35646133211162,included_game_day
+2021,2633,Tennessee Volunteers,2021-02-20,64.47000891230715,included_game_day
+2021,2633,Tennessee Volunteers,2021-02-24,76.00791937877568,included_game_day
+2021,2633,Tennessee Volunteers,2021-02-27,68.642062379892,included_game_day
+2021,2633,Tennessee Volunteers,2021-03-07,77.09480583842742,included_game_day
+2021,2633,Tennessee Volunteers,2021-03-12,88.17762190993996,included_game_day
+2021,2633,Tennessee Volunteers,2021-03-13,89.75296103542212,included_game_day
+2021,2633,Tennessee Volunteers,2021-03-19,73.15255273197012,included_game_day
+2022,2633,Tennessee Volunteers,2021-11-09,25.0,included_game_day
+2022,2633,Tennessee Volunteers,2021-11-14,51.51,included_game_day
+2022,2633,Tennessee Volunteers,2021-11-20,32.858999999999995,included_game_day
+2022,2633,Tennessee Volunteers,2021-11-21,49.31251999999999,included_game_day
+2022,2633,Tennessee Volunteers,2021-11-26,50.98382799999999,included_game_day
+2022,2633,Tennessee Volunteers,2021-11-30,83.2081848,included_game_day
+2022,2633,Tennessee Volunteers,2021-12-04,95.865118848,included_game_day
+2022,2633,Tennessee Volunteers,2021-12-07,92.74967300694999,included_game_day
+2022,2633,Tennessee Volunteers,2021-12-11,120.39771562765499,included_game_day
+2022,2633,Tennessee Volunteers,2021-12-14,143.1912753126945,included_game_day
+2022,2633,Tennessee Volunteers,2021-12-22,148.2075878327484,included_game_day
+2022,2633,Tennessee Volunteers,2021-12-29,139.32688007468198,included_game_day
+2022,2633,Tennessee Volunteers,2022-01-05,131.10577605504034,included_game_day
+2022,2633,Tennessee Volunteers,2022-01-08,123.57149548271681,included_game_day
+2022,2633,Tennessee Volunteers,2022-01-11,131.5278519718665,included_game_day
+2022,2633,Tennessee Volunteers,2022-01-15,109.14053153597015,included_game_day
+2022,2633,Tennessee Volunteers,2022-01-18,114.43074320553491,included_game_day
+2022,2633,Tennessee Volunteers,2022-01-22,127.05266702165179,included_game_day
+2022,2633,Tennessee Volunteers,2022-01-26,125.05583731406932,included_game_day
+2022,2633,Tennessee Volunteers,2022-01-29,127.83094295974182,included_game_day
+2022,2633,Tennessee Volunteers,2022-02-01,127.03506067471065,included_game_day
+2022,2633,Tennessee Volunteers,2022-02-05,145.09008027251116,included_game_day
+2022,2633,Tennessee Volunteers,2022-02-09,149.7853647981301,included_game_day
+2022,2633,Tennessee Volunteers,2022-02-12,145.84266819471856,included_game_day
+2022,2633,Tennessee Volunteers,2022-02-15,159.30802509724094,included_game_day
+2022,2633,Tennessee Volunteers,2022-02-19,149.48782486977015,included_game_day
+2022,2633,Tennessee Volunteers,2022-02-22,156.29395126966466,included_game_day
+2022,2633,Tennessee Volunteers,2022-02-26,156.83987768004278,included_game_day
+2022,2633,Tennessee Volunteers,2022-03-01,145.24935433810427,included_game_day
+2022,2633,Tennessee Volunteers,2022-03-05,145.53534419598597,included_game_day
+2022,2633,Tennessee Volunteers,2022-03-11,151.77878057775823,included_game_day
+2022,2633,Tennessee Volunteers,2022-03-12,158.99099370566165,included_game_day
+2022,2633,Tennessee Volunteers,2022-03-13,168.95304820799606,included_game_day
+2022,2633,Tennessee Volunteers,2022-03-17,187.831936380515,included_game_day
+2022,2633,Tennessee Volunteers,2022-03-19,171.18361274958465,included_game_day
+2023,2633,Tennessee Volunteers,2022-11-07,29.0,included_game_day
+2023,2633,Tennessee Volunteers,2022-11-13,14.67,included_game_day
+2023,2633,Tennessee Volunteers,2022-11-16,42.343,included_game_day
+2023,2633,Tennessee Volunteers,2022-11-23,73.31155000000001,included_game_day
+2023,2633,Tennessee Volunteers,2022-11-24,75.005548,included_game_day
+2023,2633,Tennessee Volunteers,2022-11-25,86.62300313,included_game_day
+2023,2633,Tennessee Volunteers,2022-11-30,105.253938317,included_game_day
+2023,2633,Tennessee Volunteers,2022-12-04,142.9885970253,included_game_day
+2023,2633,Tennessee Volunteers,2022-12-07,157.659442380408,included_game_day
+2023,2633,Tennessee Volunteers,2022-12-11,154.8361852639822,included_game_day
+2023,2633,Tennessee Volunteers,2022-12-17,148.97948537235447,included_game_day
+2023,2633,Tennessee Volunteers,2022-12-21,170.0416467713745,included_game_day
+2023,2633,Tennessee Volunteers,2022-12-28,163.00441644365839,included_game_day
+2023,2633,Tennessee Volunteers,2023-01-03,183.4043122220071,included_game_day
+2023,2633,Tennessee Volunteers,2023-01-07,208.50416943193022,included_game_day
+2023,2633,Tennessee Volunteers,2023-01-10,197.94610829873548,included_game_day
+2023,2633,Tennessee Volunteers,2023-01-14,171.82952077628073,included_game_day
+2023,2633,Tennessee Volunteers,2023-01-17,172.70348236477042,included_game_day
+2023,2633,Tennessee Volunteers,2023-01-21,178.3484889335184,included_game_day
+2023,2633,Tennessee Volunteers,2023-01-25,190.95468060743966,included_game_day
+2023,2633,Tennessee Volunteers,2023-01-28,192.8741318551051,included_game_day
+2023,2633,Tennessee Volunteers,2023-02-01,171.72847543849588,included_game_day
+2023,2633,Tennessee Volunteers,2023-02-04,164.01997317921237,included_game_day
+2023,2633,Tennessee Volunteers,2023-02-08,150.2364931413741,included_game_day
+2023,2633,Tennessee Volunteers,2023-02-11,137.93106838288185,included_game_day
+2023,2633,Tennessee Volunteers,2023-02-15,149.70614060817016,included_game_day
+2023,2633,Tennessee Volunteers,2023-02-18,132.937160215538,included_game_day
+2023,2633,Tennessee Volunteers,2023-02-21,130.11274430739596,included_game_day
+2023,2633,Tennessee Volunteers,2023-02-25,152.94016276898452,included_game_day
+2023,2633,Tennessee Volunteers,2023-02-28,165.64152272573722,included_game_day
+2023,2633,Tennessee Volunteers,2023-03-04,151.7145762855878,included_game_day
+2023,2633,Tennessee Volunteers,2023-03-09,152.68578675012375,included_game_day
+2023,2633,Tennessee Volunteers,2023-03-10,135.41563288949965,included_game_day
+2023,2633,Tennessee Volunteers,2023-03-16,132.44108749396693,included_game_day
+2023,2633,Tennessee Volunteers,2023-03-18,148.27437691531034,included_game_day
+2023,2633,Tennessee Volunteers,2023-03-23,141.42973039890367,included_game_day
+2024,2633,Tennessee Volunteers,2023-11-06,35.0,included_game_day
+2024,2633,Tennessee Volunteers,2023-11-10,47.1,included_game_day
+2024,2633,Tennessee Volunteers,2023-11-14,60.19,included_game_day
+2024,2633,Tennessee Volunteers,2023-11-20,72.719,included_game_day
+2024,2633,Tennessee Volunteers,2023-11-21,69.24329999999999,included_game_day
+2024,2633,Tennessee Volunteers,2023-11-22,59.10930959999999,included_game_day
+2024,2633,Tennessee Volunteers,2023-11-29,55.44294020999999,included_game_day
+2024,2633,Tennessee Volunteers,2023-12-05,73.00057718699999,included_game_day
+2024,2633,Tennessee Volunteers,2023-12-09,80.23815955203459,included_game_day
+2024,2633,Tennessee Volunteers,2023-12-12,79.08499327395113,included_game_day
+2024,2633,Tennessee Volunteers,2023-12-16,86.28720426079602,included_game_day
+2024,2633,Tennessee Volunteers,2023-12-21,92.80274236091523,included_game_day
+2024,2633,Tennessee Volunteers,2024-01-02,118.88483738267823,included_game_day
+2024,2633,Tennessee Volunteers,2024-01-06,137.5759865288893,included_game_day
+2024,2633,Tennessee Volunteers,2024-01-10,130.5447739016815,included_game_day
+2024,2633,Tennessee Volunteers,2024-01-13,132.11977880872172,included_game_day
+2024,2633,Tennessee Volunteers,2024-01-16,144.25720649709694,included_game_day
+2024,2633,Tennessee Volunteers,2024-01-20,163.3371007591465,included_game_day
+2024,2633,Tennessee Volunteers,2024-01-27,161.81544032548933,included_game_day
+2024,2633,Tennessee Volunteers,2024-01-30,147.4815367986247,included_game_day
+2024,2633,Tennessee Volunteers,2024-02-03,155.94900617059537,included_game_day
+2024,2633,Tennessee Volunteers,2024-02-07,163.69823012856145,included_game_day
+2024,2633,Tennessee Volunteers,2024-02-10,142.16582338728895,included_game_day
+2024,2633,Tennessee Volunteers,2024-02-14,159.02857187006137,included_game_day
+2024,2633,Tennessee Volunteers,2024-02-17,172.8377180711443,included_game_day
+2024,2633,Tennessee Volunteers,2024-02-20,161.3056106385286,included_game_day
+2024,2633,Tennessee Volunteers,2024-02-24,182.79047896165625,included_game_day
+2024,2633,Tennessee Volunteers,2024-02-28,188.03758906525195,included_game_day
+2024,2633,Tennessee Volunteers,2024-03-02,195.72307249673992,included_game_day
+2024,2633,Tennessee Volunteers,2024-03-06,194.99581944770677,included_game_day
+2024,2633,Tennessee Volunteers,2024-03-09,182.44754682013058,included_game_day
+2024,2633,Tennessee Volunteers,2024-03-15,156.4775674417728,included_game_day
+2024,2633,Tennessee Volunteers,2024-03-21,176.93124124259947,included_game_day
+2024,2633,Tennessee Volunteers,2024-03-23,176.28679070730297,included_game_day
+2024,2633,Tennessee Volunteers,2024-03-29,181.14291958817503,included_game_day
+2024,2633,Tennessee Volunteers,2024-03-31,177.86070168421827,included_game_day
+2025,2633,Tennessee Volunteers,2024-11-04,13.0,included_game_day
+2025,2633,Tennessee Volunteers,2024-11-09,41.2,included_game_day
+2025,2633,Tennessee Volunteers,2024-11-13,66.4,included_game_day
+2025,2633,Tennessee Volunteers,2024-11-17,92.25300000000001,included_game_day
+2025,2633,Tennessee Volunteers,2024-11-21,107.44407000000001,included_game_day
+2025,2633,Tennessee Volunteers,2024-11-22,118.267565,included_game_day
+2025,2633,Tennessee Volunteers,2024-11-27,143.9326359,included_game_day
+2025,2633,Tennessee Volunteers,2024-12-03,154.21141196000002,included_game_day
+2025,2633,Tennessee Volunteers,2024-12-10,152.91200762154602,included_game_day
+2025,2633,Tennessee Volunteers,2024-12-14,155.26520402775702,included_game_day
+2025,2633,Tennessee Volunteers,2024-12-17,177.6640700209277,included_game_day
+2025,2633,Tennessee Volunteers,2024-12-23,177.20027888327846,included_game_day
+2025,2633,Tennessee Volunteers,2024-12-31,171.84642246007675,included_game_day
+2025,2633,Tennessee Volunteers,2025-01-04,187.86707400833728,included_game_day
+2025,2633,Tennessee Volunteers,2025-01-07,159.55880591672263,included_game_day
+2025,2633,Tennessee Volunteers,2025-01-11,162.96321241952822,included_game_day
+2025,2633,Tennessee Volunteers,2025-01-15,174.65984082274048,included_game_day
+2025,2633,Tennessee Volunteers,2025-01-18,171.22601437898743,included_game_day
+2025,2633,Tennessee Volunteers,2025-01-21,176.32771787946612,included_game_day
+2025,2633,Tennessee Volunteers,2025-01-25,179.95042334680863,included_game_day
+2025,2633,Tennessee Volunteers,2025-01-28,166.35500977447705,included_game_day
+2025,2633,Tennessee Volunteers,2025-02-01,187.966646403865,included_game_day
+2025,2633,Tennessee Volunteers,2025-02-05,187.57281683651303,included_game_day
+2025,2633,Tennessee Volunteers,2025-02-08,200.11642114704014,included_game_day
+2025,2633,Tennessee Volunteers,2025-02-11,184.3526826284172,included_game_day
+2025,2633,Tennessee Volunteers,2025-02-15,177.401959989862,included_game_day
+2025,2633,Tennessee Volunteers,2025-02-22,183.91788018344042,included_game_day
+2025,2633,Tennessee Volunteers,2025-02-25,180.52562703226272,included_game_day
+2025,2633,Tennessee Volunteers,2025-03-01,183.63523435500156,included_game_day
+2025,2633,Tennessee Volunteers,2025-03-05,175.24677239699176,included_game_day
+2025,2633,Tennessee Volunteers,2025-03-08,169.9594853437813,included_game_day
+2025,2633,Tennessee Volunteers,2025-03-14,173.48419430073113,included_game_day
+2025,2633,Tennessee Volunteers,2025-03-15,181.63984109075386,included_game_day
+2025,2633,Tennessee Volunteers,2025-03-16,179.61919921288555,included_game_day
+2025,2633,Tennessee Volunteers,2025-03-20,182.69125376438166,included_game_day
+2025,2633,Tennessee Volunteers,2025-03-22,188.82775921046812,included_game_day
+2025,2633,Tennessee Volunteers,2025-03-28,198.39950001481094,included_game_day
+2025,2633,Tennessee Volunteers,2025-03-30,182.1458834850326,included_game_day
+2026,2633,Tennessee Volunteers,2025-11-03,12.0,included_game_day
+2026,2633,Tennessee Volunteers,2025-11-08,46.8,included_game_day
+2026,2633,Tennessee Volunteers,2025-11-12,68.36,included_game_day
+2026,2633,Tennessee Volunteers,2025-11-17,82.2821,included_game_day
+2026,2633,Tennessee Volunteers,2025-11-20,98.91189,included_game_day
+2026,2633,Tennessee Volunteers,2025-11-24,114.84676,included_game_day
+2026,2633,Tennessee Volunteers,2025-11-25,115.11085630000001,included_game_day
+2026,2633,Tennessee Volunteers,2025-11-26,106.38828950000001,included_game_day
+2026,2633,Tennessee Volunteers,2025-12-02,100.65053211800002,included_game_day
+2026,2633,Tennessee Volunteers,2025-12-06,86.9708730682,included_game_day
+2026,2633,Tennessee Volunteers,2025-12-16,112.52858131226475,included_game_day
+2026,2633,Tennessee Volunteers,2025-12-21,124.44438356101647,included_game_day
+2026,2633,Tennessee Volunteers,2025-12-30,144.63089542238444,included_game_day
+2026,2633,Tennessee Volunteers,2026-01-03,135.07429214286444,included_game_day
+2026,2633,Tennessee Volunteers,2026-01-06,141.23555326152064,included_game_day
+2026,2633,Tennessee Volunteers,2026-01-10,119.96212137259107,included_game_day
+2026,2633,Tennessee Volunteers,2026-01-13,123.29005261265122,included_game_day
+2026,2633,Tennessee Volunteers,2026-01-17,117.74553471351744,included_game_day
+2026,2633,Tennessee Volunteers,2026-01-24,128.62012828180065,included_game_day
+2026,2633,Tennessee Volunteers,2026-01-28,131.73527535756068,included_game_day
+2026,2633,Tennessee Volunteers,2026-01-31,136.240650397958,included_game_day
+2026,2633,Tennessee Volunteers,2026-02-03,144.2354879404138,included_game_day
+2026,2633,Tennessee Volunteers,2026-02-07,142.46006090547502,included_game_day
+2026,2633,Tennessee Volunteers,2026-02-11,142.31317613772293,included_game_day
+2026,2633,Tennessee Volunteers,2026-02-14,138.68628246922998,included_game_day
+2026,2633,Tennessee Volunteers,2026-02-18,153.22826947183222,included_game_day
+2026,2633,Tennessee Volunteers,2026-02-21,160.43457507207816,included_game_day
+2026,2633,Tennessee Volunteers,2026-02-24,151.20905818731103,included_game_day
+2026,2633,Tennessee Volunteers,2026-02-28,147.15520594098416,included_game_day
+2026,2633,Tennessee Volunteers,2026-03-03,155.85588008482515,included_game_day
+2026,2633,Tennessee Volunteers,2026-03-07,146.4818829578007,included_game_day
+2026,2633,Tennessee Volunteers,2026-03-12,150.4809869781004,included_game_day
+2026,2633,Tennessee Volunteers,2026-03-13,142.58187887445087,included_game_day
+2026,2633,Tennessee Volunteers,2026-03-20,157.78278446971052,included_game_day
+2026,2633,Tennessee Volunteers,2026-03-22,166.26134873156013,included_game_day
+2026,2633,Tennessee Volunteers,2026-03-27,189.318526951183,included_game_day
+2026,2633,Tennessee Volunteers,2026-03-29,161.8943893593153,included_game_day
+2027,2633,Tennessee Volunteers,2026-11-03,28.0,included_game_day
+2027,2633,Tennessee Volunteers,2026-11-09,43.11,included_game_day
+2027,2633,Tennessee Volunteers,2026-11-13,37.799,included_game_day
+2027,2633,Tennessee Volunteers,2026-11-17,55.112269999999995,included_game_day
+2027,2633,Tennessee Volunteers,2026-11-20,69.246763,included_game_day

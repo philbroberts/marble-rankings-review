@@ -1,0 +1,1264 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,152,NC State,1987-11-30,45.7,included_game_day
+1988,152,NC State,1987-12-19,35.2026281,included_game_day
+1988,152,NC State,1987-12-21,62.441997995099996,included_game_day
+1988,152,NC State,1987-12-23,42.36562321933,included_game_day
+1988,152,NC State,1987-12-27,63.700471801997,included_game_day
+1988,152,NC State,1987-12-28,67.1326852447473,included_game_day
+1988,152,NC State,1987-12-29,74.92508827639294,included_game_day
+1988,152,NC State,1988-01-03,85.70082138231764,included_game_day
+1988,152,NC State,1988-01-06,95.66161694188628,included_game_day
+1988,152,NC State,1988-01-12,124.59308102496422,included_game_day
+1988,152,NC State,1988-01-16,125.46217373499874,included_game_day
+1988,152,NC State,1988-01-20,111.81239882331035,included_game_day
+1988,152,NC State,1988-01-24,106.62082190657185,included_game_day
+1988,152,NC State,1988-01-27,108.81413888550438,included_game_day
+1988,152,NC State,1988-01-31,105.7556324012249,included_game_day
+1988,152,NC State,1988-02-03,103.7187360124517,included_game_day
+1988,152,NC State,1988-02-06,119.23867317990364,included_game_day
+1988,152,NC State,1988-02-08,148.65693810612154,included_game_day
+1988,152,NC State,1988-02-11,148.7342711341958,included_game_day
+1988,152,NC State,1988-02-13,152.1901703153212,included_game_day
+1988,152,NC State,1988-02-15,151.63307424998447,included_game_day
+1988,152,NC State,1988-02-18,168.28269227457093,included_game_day
+1988,152,NC State,1988-02-20,156.98401700021435,included_game_day
+1988,152,NC State,1988-02-24,167.6009400147513,included_game_day
+1988,152,NC State,1988-02-27,158.92176112229282,included_game_day
+1988,152,NC State,1988-02-29,146.37479897749165,included_game_day
+1988,152,NC State,1988-03-03,144.13654170155678,included_game_day
+1988,152,NC State,1988-03-06,131.58684443869438,included_game_day
+1988,152,NC State,1988-03-11,124.4274674375401,included_game_day
+1988,152,NC State,1988-03-12,126.3144963091092,included_game_day
+1988,152,NC State,1988-03-18,116.65562557689613,included_game_day
+1989,152,NC State,1988-11-26,53.0,included_game_day
+1989,152,NC State,1988-11-28,65.1,included_game_day
+1989,152,NC State,1988-12-03,57.98949999999999,included_game_day
+1989,152,NC State,1988-12-20,73.40260913799999,included_game_day
+1989,152,NC State,1988-12-22,94.97267255532809,included_game_day
+1989,152,NC State,1988-12-27,127.28709635479528,included_game_day
+1989,152,NC State,1988-12-30,138.16967671931576,included_game_day
+1989,152,NC State,1989-01-02,127.19056632508268,included_game_day
+1989,152,NC State,1989-01-05,131.2940976807328,included_game_day
+1989,152,NC State,1989-01-07,128.2492516401644,included_game_day
+1989,152,NC State,1989-01-12,134.18513350443214,included_game_day
+1989,152,NC State,1989-01-14,145.7930319459435,included_game_day
+1989,152,NC State,1989-01-18,152.27461834186238,included_game_day
+1989,152,NC State,1989-01-21,151.01894308496085,included_game_day
+1989,152,NC State,1989-01-26,162.66609375667153,included_game_day
+1989,152,NC State,1989-01-29,172.4802811121862,included_game_day
+1989,152,NC State,1989-02-01,146.69437280633272,included_game_day
+1989,152,NC State,1989-02-04,132.12489893595117,included_game_day
+1989,152,NC State,1989-02-09,140.1762239403828,included_game_day
+1989,152,NC State,1989-02-12,125.59164291645408,included_game_day
+1989,152,NC State,1989-02-15,132.4511672845405,included_game_day
+1989,152,NC State,1989-02-18,133.9136107127692,included_game_day
+1989,152,NC State,1989-02-20,127.4050571528741,included_game_day
+1989,152,NC State,1989-02-23,118.95362052615975,included_game_day
+1989,152,NC State,1989-02-26,111.24841046206976,included_game_day
+1989,152,NC State,1989-03-02,114.17096612322358,included_game_day
+1989,152,NC State,1989-03-04,117.11855445117106,included_game_day
+1989,152,NC State,1989-03-10,81.76466013206095,included_game_day
+1989,152,NC State,1989-03-17,93.08707411989545,included_game_day
+1989,152,NC State,1989-03-19,103.20063554368694,included_game_day
+1989,152,NC State,1989-03-24,101.68210176310144,included_game_day
+1990,152,NC State,1989-11-15,6.0,included_game_day
+1990,152,NC State,1989-11-16,2.9,included_game_day
+1990,152,NC State,1989-11-27,30.869999999999997,included_game_day
+1990,152,NC State,1989-12-01,44.037,included_game_day
+1990,152,NC State,1989-12-02,54.7803,included_game_day
+1990,152,NC State,1989-12-05,61.070104,included_game_day
+1990,152,NC State,1989-12-07,99.7230936,included_game_day
+1990,152,NC State,1989-12-19,77.99783947,included_game_day
+1990,152,NC State,1989-12-21,107.141770303,included_game_day
+1990,152,NC State,1989-12-27,117.5784261642039,included_game_day
+1990,152,NC State,1989-12-28,112.57617475041852,included_game_day
+1990,152,NC State,1990-01-03,108.72841005926618,included_game_day
+1990,152,NC State,1990-01-06,104.70043609343024,included_game_day
+1990,152,NC State,1990-01-10,115.77444889527422,included_game_day
+1990,152,NC State,1990-01-13,109.96115288788714,included_game_day
+1990,152,NC State,1990-01-18,107.80111625054855,included_game_day
+1990,152,NC State,1990-01-20,95.70544771614233,included_game_day
+1990,152,NC State,1990-01-24,103.52226353912849,included_game_day
+1990,152,NC State,1990-01-27,117.89615760947868,included_game_day
+1990,152,NC State,1990-01-31,136.29615482126914,included_game_day
+1990,152,NC State,1990-02-03,134.39266080875288,included_game_day
+1990,152,NC State,1990-02-07,146.0090937273032,included_game_day
+1990,152,NC State,1990-02-10,140.75173605810147,included_game_day
+1990,152,NC State,1990-02-12,134.87965588564404,included_game_day
+1990,152,NC State,1990-02-17,128.30839110408036,included_game_day
+1990,152,NC State,1990-02-21,135.117073603414,included_game_day
+1990,152,NC State,1990-02-25,125.69920860438182,included_game_day
+1990,152,NC State,1990-02-28,125.16532069500349,included_game_day
+1990,152,NC State,1990-03-04,112.48443547007093,included_game_day
+1990,152,NC State,1990-03-09,106.34256678103668,included_game_day
+1991,152,NC State,1990-11-23,44.0,included_game_day
+1991,152,NC State,1990-11-28,91.6,included_game_day
+1991,152,NC State,1990-12-01,114.566,included_game_day
+1991,152,NC State,1990-12-04,104.0398,included_game_day
+1991,152,NC State,1990-12-08,97.815965,included_game_day
+1991,152,NC State,1990-12-22,117.2020740513,included_game_day
+1991,152,NC State,1990-12-29,111.27810877662807,included_game_day
+1991,152,NC State,1991-01-02,104.18921617458426,included_game_day
+1991,152,NC State,1991-01-05,99.30297870749075,included_game_day
+1991,152,NC State,1991-01-07,95.48671311334546,included_game_day
+1991,152,NC State,1991-01-13,96.25118868011592,included_game_day
+1991,152,NC State,1991-01-19,73.20717545045163,included_game_day
+1991,152,NC State,1991-01-21,78.13776974802393,included_game_day
+1991,152,NC State,1991-01-23,93.53711699186395,included_game_day
+1991,152,NC State,1991-01-26,87.53457427417138,included_game_day
+1991,152,NC State,1991-01-29,59.17460951602406,included_game_day
+1991,152,NC State,1991-02-03,74.40461867075899,included_game_day
+1991,152,NC State,1991-02-06,86.28002218580818,included_game_day
+1991,152,NC State,1991-02-07,73.78034499784752,included_game_day
+1991,152,NC State,1991-02-10,79.43453241677159,included_game_day
+1991,152,NC State,1991-02-13,72.98355187204155,included_game_day
+1991,152,NC State,1991-02-16,80.84167210918218,included_game_day
+1991,152,NC State,1991-02-20,88.07099130770021,included_game_day
+1991,152,NC State,1991-02-23,93.10873595338684,included_game_day
+1991,152,NC State,1991-02-25,92.59439289978683,included_game_day
+1991,152,NC State,1991-02-27,109.50244486388657,included_game_day
+1991,152,NC State,1991-03-02,101.65620947336579,included_game_day
+1991,152,NC State,1991-03-08,114.85385816071233,included_game_day
+1991,152,NC State,1991-03-09,101.26703454577262,included_game_day
+1991,152,NC State,1991-03-14,124.72904641529338,included_game_day
+1991,152,NC State,1991-03-16,120.01290267958444,included_game_day
+1992,152,NC State,1991-11-22,8.0,included_game_day
+1992,152,NC State,1991-11-30,27.4,included_game_day
+1992,152,NC State,1991-12-02,28.31789,included_game_day
+1992,152,NC State,1991-12-06,19.885500999999998,included_game_day
+1992,152,NC State,1991-12-07,34.043000899999996,included_game_day
+1992,152,NC State,1991-12-18,27.852425381999996,included_game_day
+1992,152,NC State,1991-12-21,14.489854908819996,included_game_day
+1992,152,NC State,1991-12-30,12.501002216675596,included_game_day
+1992,152,NC State,1992-01-04,24.667113808076074,included_game_day
+1992,152,NC State,1992-01-08,14.570665891310865,included_game_day
+1992,152,NC State,1992-01-11,16.852261246084755,included_game_day
+1992,152,NC State,1992-01-15,-3.5025259012489762,included_game_day
+1992,152,NC State,1992-01-18,6.931796995186982,included_game_day
+1992,152,NC State,1992-01-22,28.237303107059294,included_game_day
+1992,152,NC State,1992-01-25,15.053058116538239,included_game_day
+1992,152,NC State,1992-01-27,2.7277643218570287,included_game_day
+1992,152,NC State,1992-01-29,2.9409331617348773,included_game_day
+1992,152,NC State,1992-02-01,-4.776041584741241,included_game_day
+1992,152,NC State,1992-02-04,-21.49496999960403,included_game_day
+1992,152,NC State,1992-02-06,-24.00942108124013,included_game_day
+1992,152,NC State,1992-02-10,-24.927003215652938,included_game_day
+1992,152,NC State,1992-02-13,-19.532280080081936,included_game_day
+1992,152,NC State,1992-02-16,-7.630608130760294,included_game_day
+1992,152,NC State,1992-02-22,13.596937347059782,included_game_day
+1992,152,NC State,1992-02-26,15.309182854622978,included_game_day
+1992,152,NC State,1992-02-29,15.98231735349201,included_game_day
+1992,152,NC State,1992-03-03,20.55310914028016,included_game_day
+1992,152,NC State,1992-03-07,26.27838558584049,included_game_day
+1992,152,NC State,1992-03-13,19.98603972639098,included_game_day
+1993,152,NC State,1992-12-01,-15.0,included_game_day
+1993,152,NC State,1992-12-03,-13.5,included_game_day
+1993,152,NC State,1992-12-05,-22.55,included_game_day
+1993,152,NC State,1992-12-16,-26.642485999999998,included_game_day
+1993,152,NC State,1992-12-19,-25.801817399999997,included_game_day
+1993,152,NC State,1992-12-21,-31.182023690199998,included_game_day
+1993,152,NC State,1993-01-02,-8.111528598065178,included_game_day
+1993,152,NC State,1993-01-07,-24.887724060106983,included_game_day
+1993,152,NC State,1993-01-09,-34.00483050573468,included_game_day
+1993,152,NC State,1993-01-11,-26.667400093634008,included_game_day
+1993,152,NC State,1993-01-16,-27.313092567719863,included_game_day
+1993,152,NC State,1993-01-21,-39.660600182131205,included_game_day
+1993,152,NC State,1993-01-23,-37.854558768592824,included_game_day
+1993,152,NC State,1993-01-27,-36.608889249810694,included_game_day
+1993,152,NC State,1993-01-31,-30.791240389221507,included_game_day
+1993,152,NC State,1993-02-04,-27.310742366123325,included_game_day
+1993,152,NC State,1993-02-06,-50.92800575062401,included_game_day
+1993,152,NC State,1993-02-11,-44.35403905520222,included_game_day
+1993,152,NC State,1993-02-13,-39.136502473063445,included_game_day
+1993,152,NC State,1993-02-15,-22.99762066943165,included_game_day
+1993,152,NC State,1993-02-17,-9.17338731924189,included_game_day
+1993,152,NC State,1993-02-21,-3.239703394733759,included_game_day
+1993,152,NC State,1993-02-24,-13.978609926631528,included_game_day
+1993,152,NC State,1993-02-28,-0.8744721556847157,included_game_day
+1993,152,NC State,1993-03-03,-1.2215117171464573,included_game_day
+1993,152,NC State,1993-03-06,2.741813367994988,included_game_day
+1993,152,NC State,1993-03-11,-16.015060690402592,included_game_day
+1994,152,NC State,1993-11-24,-14.0,included_game_day
+1994,152,NC State,1993-11-26,-44.1,included_game_day
+1994,152,NC State,1993-11-27,-12.360000000000003,included_game_day
+1994,152,NC State,1993-12-02,-1.9940000000000033,included_game_day
+1994,152,NC State,1993-12-04,-7.794600000000003,included_game_day
+1994,152,NC State,1993-12-08,-23.966287,included_game_day
+1994,152,NC State,1993-12-11,-17.1006583,included_game_day
+1994,152,NC State,1993-12-22,-5.636011691569999,included_game_day
+1994,152,NC State,1993-12-28,0.5411198099400014,included_game_day
+1994,152,NC State,1994-01-02,-1.5893502965888988,included_game_day
+1994,152,NC State,1994-01-05,-13.373844461860417,included_game_day
+1994,152,NC State,1994-01-09,-24.67202552641536,included_game_day
+1994,152,NC State,1994-01-16,-12.90834104697915,included_game_day
+1994,152,NC State,1994-01-20,-30.524764994235714,included_game_day
+1994,152,NC State,1994-01-22,-46.685078442547066,included_game_day
+1994,152,NC State,1994-01-26,-31.143584585699752,included_game_day
+1994,152,NC State,1994-01-29,-44.50307133631079,included_game_day
+1994,152,NC State,1994-02-02,-42.060128261199694,included_game_day
+1994,152,NC State,1994-02-05,-33.766375649915794,included_game_day
+1994,152,NC State,1994-02-07,-24.995086563737427,included_game_day
+1994,152,NC State,1994-02-09,-7.386639320660695,included_game_day
+1994,152,NC State,1994-02-14,8.540802394657671,included_game_day
+1994,152,NC State,1994-02-16,12.27871563633467,included_game_day
+1994,152,NC State,1994-02-20,0.388235638654864,included_game_day
+1994,152,NC State,1994-02-23,17.80032036016717,included_game_day
+1994,152,NC State,1994-02-26,14.636654874915143,included_game_day
+1994,152,NC State,1994-02-28,-5.655430887374594,included_game_day
+1994,152,NC State,1994-03-02,-21.854197375895993,included_game_day
+1994,152,NC State,1994-03-05,-4.4531155385247345,included_game_day
+1994,152,NC State,1994-03-10,-10.854002879926735,included_game_day
+1995,152,NC State,1994-11-26,45.0,included_game_day
+1995,152,NC State,1994-11-28,77.9,included_game_day
+1995,152,NC State,1994-11-30,104.11000000000001,included_game_day
+1995,152,NC State,1994-12-05,118.51490000000001,included_game_day
+1995,152,NC State,1994-12-10,102.84933000000001,included_game_day
+1995,152,NC State,1994-12-22,105.598650553,included_game_day
+1995,152,NC State,1994-12-28,100.3400988717,included_game_day
+1995,152,NC State,1994-12-31,104.48379416863,included_game_day
+1995,152,NC State,1995-01-02,128.809331995697,included_game_day
+1995,152,NC State,1995-01-04,134.3542580049518,included_game_day
+1995,152,NC State,1995-01-07,118.0799798302103,included_game_day
+1995,152,NC State,1995-01-11,116.65516957099472,included_game_day
+1995,152,NC State,1995-01-15,84.55673652228083,included_game_day
+1995,152,NC State,1995-01-18,106.4566347189393,included_game_day
+1995,152,NC State,1995-01-22,92.74021684261842,included_game_day
+1995,152,NC State,1995-01-25,92.33187008218654,included_game_day
+1995,152,NC State,1995-01-28,81.75878653750068,included_game_day
+1995,152,NC State,1995-02-01,73.5199527795605,included_game_day
+1995,152,NC State,1995-02-04,66.72409529217062,included_game_day
+1995,152,NC State,1995-02-08,66.52301647465485,included_game_day
+1995,152,NC State,1995-02-15,72.27520841017653,included_game_day
+1995,152,NC State,1995-02-18,77.1823515138102,included_game_day
+1995,152,NC State,1995-02-22,75.81823683463683,included_game_day
+1995,152,NC State,1995-02-25,69.36422889466644,included_game_day
+1995,152,NC State,1995-03-01,51.21265612056408,included_game_day
+1995,152,NC State,1995-03-04,49.55696755115242,included_game_day
+1995,152,NC State,1995-03-09,39.654644639578606,included_game_day
+1996,152,NC State,1995-11-25,23.0,included_game_day
+1996,152,NC State,1995-11-27,65.5,included_game_day
+1996,152,NC State,1995-11-30,89.3501,included_game_day
+1996,152,NC State,1995-12-09,85.84795,included_game_day
+1996,152,NC State,1995-12-20,121.36563389,included_game_day
+1996,152,NC State,1995-12-23,127.8683047,included_game_day
+1996,152,NC State,1995-12-27,111.54267021339899,included_game_day
+1996,152,NC State,1995-12-28,126.79694529025839,included_game_day
+1996,152,NC State,1995-12-29,115.49640300899635,included_game_day
+1996,152,NC State,1996-01-02,125.72845003515673,included_game_day
+1996,152,NC State,1996-01-04,103.11502255765106,included_game_day
+1996,152,NC State,1996-01-06,96.9195904091303,included_game_day
+1996,152,NC State,1996-01-09,96.6760470894677,included_game_day
+1996,152,NC State,1996-01-13,97.64009051909865,included_game_day
+1996,152,NC State,1996-01-15,87.84172511886038,included_game_day
+1996,152,NC State,1996-01-18,81.64832620398428,included_game_day
+1996,152,NC State,1996-01-20,82.52345063711,included_game_day
+1996,152,NC State,1996-01-24,73.77008890842387,included_game_day
+1996,152,NC State,1996-01-27,80.88518899429383,included_game_day
+1996,152,NC State,1996-01-31,80.86478267120732,included_game_day
+1996,152,NC State,1996-02-03,86.19827418561573,included_game_day
+1996,152,NC State,1996-02-08,78.85202547674415,included_game_day
+1996,152,NC State,1996-02-11,90.4210156737307,included_game_day
+1996,152,NC State,1996-02-14,76.99395083372261,included_game_day
+1996,152,NC State,1996-02-17,80.86335263955722,included_game_day
+1996,152,NC State,1996-02-22,76.8609631764831,included_game_day
+1996,152,NC State,1996-02-25,74.41509705641785,included_game_day
+1996,152,NC State,1996-02-28,66.70270702347264,included_game_day
+1996,152,NC State,1996-03-02,68.02203505426925,included_game_day
+1996,152,NC State,1996-03-07,78.79870628217174,included_game_day
+1996,152,NC State,1996-03-08,66.24791784134304,included_game_day
+1997,152,NC State,1996-11-22,12.0,included_game_day
+1997,152,NC State,1996-11-25,11.2,included_game_day
+1997,152,NC State,1996-11-27,23.38,included_game_day
+1997,152,NC State,1996-11-30,44.742000000000004,included_game_day
+1997,152,NC State,1996-12-03,62.247800000000005,included_game_day
+1997,152,NC State,1996-12-07,57.18977,included_game_day
+1997,152,NC State,1996-12-19,63.125269363,included_game_day
+1997,152,NC State,1996-12-21,44.4242373046,included_game_day
+1997,152,NC State,1997-01-04,35.734732512026426,included_game_day
+1997,152,NC State,1997-01-07,71.68664487877518,included_game_day
+1997,152,NC State,1997-01-12,66.54810455171928,included_game_day
+1997,152,NC State,1997-01-15,68.2826554831786,included_game_day
+1997,152,NC State,1997-01-18,70.13930761943101,included_game_day
+1997,152,NC State,1997-01-21,64.62190472249814,included_game_day
+1997,152,NC State,1997-01-25,64.1702379389737,included_game_day
+1997,152,NC State,1997-01-28,63.61762509266061,included_game_day
+1997,152,NC State,1997-02-01,71.03746112542616,included_game_day
+1997,152,NC State,1997-02-05,70.89679532674629,included_game_day
+1997,152,NC State,1997-02-08,56.51693216979735,included_game_day
+1997,152,NC State,1997-02-12,64.74505206805878,included_game_day
+1997,152,NC State,1997-02-16,78.05120249571038,included_game_day
+1997,152,NC State,1997-02-19,66.94613467937893,included_game_day
+1997,152,NC State,1997-02-22,84.74097759663341,included_game_day
+1997,152,NC State,1997-02-26,106.75846668856181,included_game_day
+1997,152,NC State,1997-03-01,111.80393927010641,included_game_day
+1997,152,NC State,1997-03-06,116.23430974450466,included_game_day
+1997,152,NC State,1997-03-07,128.97567304821328,included_game_day
+1997,152,NC State,1997-03-08,132.5124604231025,included_game_day
+1997,152,NC State,1997-03-09,128.9412961933706,included_game_day
+1997,152,NC State,1997-03-12,131.17862814205205,included_game_day
+1997,152,NC State,1997-03-17,122.21124268231365,included_game_day
+1998,152,NC State,1997-11-11,2.0,included_game_day
+1998,152,NC State,1997-11-12,0.3999999999999999,included_game_day
+1998,152,NC State,1997-11-17,17.96,included_game_day
+1998,152,NC State,1997-11-25,22.7532,included_game_day
+1998,152,NC State,1997-11-29,22.83248,included_game_day
+1998,152,NC State,1997-12-04,29.85311942,included_game_day
+1998,152,NC State,1997-12-07,37.638971478,included_game_day
+1998,152,NC State,1997-12-18,54.8765816952,included_game_day
+1998,152,NC State,1997-12-20,44.301037475680005,included_game_day
+1998,152,NC State,1997-12-22,57.5736334638024,included_game_day
+1998,152,NC State,1997-12-31,61.90202860191646,included_game_day
+1998,152,NC State,1998-01-03,48.4507435184554,included_game_day
+1998,152,NC State,1998-01-07,56.92390404857216,included_game_day
+1998,152,NC State,1998-01-10,56.41831981070693,included_game_day
+1998,152,NC State,1998-01-14,62.55196307402536,included_game_day
+1998,152,NC State,1998-01-18,59.14419113721259,included_game_day
+1998,152,NC State,1998-01-21,53.65122095372907,included_game_day
+1998,152,NC State,1998-01-25,58.60020614542717,included_game_day
+1998,152,NC State,1998-01-28,44.12386143113363,included_game_day
+1998,152,NC State,1998-01-31,56.20365064819802,included_game_day
+1998,152,NC State,1998-02-04,46.50462532529069,included_game_day
+1998,152,NC State,1998-02-08,44.97255521072471,included_game_day
+1998,152,NC State,1998-02-11,38.76733992923742,included_game_day
+1998,152,NC State,1998-02-14,41.99964282884056,included_game_day
+1998,152,NC State,1998-02-18,55.96138496179092,included_game_day
+1998,152,NC State,1998-02-21,90.21724195753522,included_game_day
+1998,152,NC State,1998-02-26,86.76850730597587,included_game_day
+1998,152,NC State,1998-03-01,71.37117454998906,included_game_day
+1998,152,NC State,1998-03-05,69.36940009623203,included_game_day
+1998,152,NC State,1998-03-06,55.67939414414667,included_game_day
+1998,152,NC State,1998-03-11,73.00581946303976,included_game_day
+1998,152,NC State,1998-03-17,66.8743198511668,included_game_day
+1999,152,NC State,1998-11-14,18.0,included_game_day
+1999,152,NC State,1998-11-18,63.9,included_game_day
+1999,152,NC State,1998-11-21,79.50999999999999,included_game_day
+1999,152,NC State,1998-11-24,64.693,included_game_day
+1999,152,NC State,1998-11-28,86.1973,included_game_day
+1999,152,NC State,1998-12-01,128.71551,included_game_day
+1999,152,NC State,1998-12-05,110.80647374,included_game_day
+1999,152,NC State,1998-12-12,122.4888818164,included_game_day
+1999,152,NC State,1998-12-17,136.764391058658,included_game_day
+1999,152,NC State,1998-12-21,151.8191477001922,included_game_day
+1999,152,NC State,1998-12-22,129.49454121108352,included_game_day
+1999,152,NC State,1998-12-23,130.57383372635792,included_game_day
+1999,152,NC State,1999-01-02,119.55462979559343,included_game_day
+1999,152,NC State,1999-01-05,110.19226291486513,included_game_day
+1999,152,NC State,1999-01-10,74.4658235846847,included_game_day
+1999,152,NC State,1999-01-14,78.2025443541878,included_game_day
+1999,152,NC State,1999-01-16,75.53315796076943,included_game_day
+1999,152,NC State,1999-01-20,71.15594574799474,included_game_day
+1999,152,NC State,1999-01-23,61.72944248934735,included_game_day
+1999,152,NC State,1999-01-28,67.65636197044506,included_game_day
+1999,152,NC State,1999-01-30,65.5142344280272,included_game_day
+1999,152,NC State,1999-02-02,66.10587909970117,included_game_day
+1999,152,NC State,1999-02-06,77.80719741992829,included_game_day
+1999,152,NC State,1999-02-10,71.41498324752357,included_game_day
+1999,152,NC State,1999-02-14,66.00044376552373,included_game_day
+1999,152,NC State,1999-02-17,66.49844236932825,included_game_day
+1999,152,NC State,1999-02-21,70.74826576596041,included_game_day
+1999,152,NC State,1999-02-24,69.74845729261808,included_game_day
+1999,152,NC State,1999-02-28,42.81295109580384,included_game_day
+1999,152,NC State,1999-03-05,61.26454613835244,included_game_day
+1999,152,NC State,1999-03-06,72.01332694353046,included_game_day
+1999,152,NC State,1999-03-10,71.05485650585949,included_game_day
+1999,152,NC State,1999-03-15,64.76003171811107,included_game_day
+2000,152,NC State,1999-11-19,1.0,included_game_day
+2000,152,NC State,1999-11-23,12.9,included_game_day
+2000,152,NC State,1999-11-26,42.61,included_game_day
+2000,152,NC State,1999-12-01,43.3641,included_game_day
+2000,152,NC State,1999-12-04,37.93073,included_game_day
+2000,152,NC State,1999-12-12,41.5588839553,included_game_day
+2000,152,NC State,1999-12-17,69.840291525393,included_game_day
+2000,152,NC State,1999-12-22,62.9708213824537,included_game_day
+2000,152,NC State,1999-12-28,74.26535824592833,included_game_day
+2000,152,NC State,1999-12-30,86.1352125486754,included_game_day
+2000,152,NC State,2000-01-06,87.67887436702841,included_game_day
+2000,152,NC State,2000-01-08,82.91152565343248,included_game_day
+2000,152,NC State,2000-01-12,86.73484985586778,included_game_day
+2000,152,NC State,2000-01-16,103.6016727006114,included_game_day
+2000,152,NC State,2000-01-19,112.67535608805629,included_game_day
+2000,152,NC State,2000-01-22,108.75943209652458,included_game_day
+2000,152,NC State,2000-01-25,112.22726318691491,included_game_day
+2000,152,NC State,2000-01-26,84.39741362904186,included_game_day
+2000,152,NC State,2000-02-02,83.96441549810685,included_game_day
+2000,152,NC State,2000-02-06,85.43155254603477,included_game_day
+2000,152,NC State,2000-02-09,76.4430182996237,included_game_day
+2000,152,NC State,2000-02-12,72.31672290323951,included_game_day
+2000,152,NC State,2000-02-15,53.67657686506031,included_game_day
+2000,152,NC State,2000-02-19,60.677909489162076,included_game_day
+2000,152,NC State,2000-02-24,55.18715316506633,included_game_day
+2000,152,NC State,2000-02-27,44.12622565166098,included_game_day
+2000,152,NC State,2000-03-05,62.947056711135716,included_game_day
+2000,152,NC State,2000-03-10,75.53669346936542,included_game_day
+2000,152,NC State,2000-03-11,79.66212225123813,included_game_day
+2000,152,NC State,2000-03-14,72.20783656915762,included_game_day
+2000,152,NC State,2000-03-21,73.72541236283072,included_game_day
+2000,152,NC State,2000-03-23,93.65305249444714,included_game_day
+2000,152,NC State,2000-03-28,91.89501336918873,included_game_day
+2000,152,NC State,2000-03-30,85.86288984244332,included_game_day
+2001,152,NC State,2000-11-17,10.0,included_game_day
+2001,152,NC State,2000-11-18,-9.600000000000001,included_game_day
+2001,152,NC State,2000-11-22,-25.94,included_game_day
+2001,152,NC State,2000-11-25,7.894000000000002,included_game_day
+2001,152,NC State,2000-11-29,15.559800000000003,included_game_day
+2001,152,NC State,2000-12-02,23.987266,included_game_day
+2001,152,NC State,2000-12-05,16.882105700000004,included_game_day
+2001,152,NC State,2000-12-09,17.886503894000004,included_game_day
+2001,152,NC State,2000-12-16,54.06059830423,included_game_day
+2001,152,NC State,2000-12-22,65.662816843717,included_game_day
+2001,152,NC State,2000-12-30,84.00174455248529,included_game_day
+2001,152,NC State,2001-01-06,88.31222040884118,included_game_day
+2001,152,NC State,2001-01-10,91.46368067973592,included_game_day
+2001,152,NC State,2001-01-13,82.85784743259528,included_game_day
+2001,152,NC State,2001-01-16,94.75840197990416,included_game_day
+2001,152,NC State,2001-01-21,87.03714601977948,included_game_day
+2001,152,NC State,2001-01-25,82.04236150972925,included_game_day
+2001,152,NC State,2001-01-28,78.10104364571181,included_game_day
+2001,152,NC State,2001-01-31,81.68804450668637,included_game_day
+2001,152,NC State,2001-02-03,77.90695702398135,included_game_day
+2001,152,NC State,2001-02-07,93.84455199159389,included_game_day
+2001,152,NC State,2001-02-11,86.94285811440821,included_game_day
+2001,152,NC State,2001-02-14,109.8271572622559,included_game_day
+2001,152,NC State,2001-02-17,96.31624801508256,included_game_day
+2001,152,NC State,2001-02-20,74.78485855783475,included_game_day
+2001,152,NC State,2001-02-25,89.51517675519995,included_game_day
+2001,152,NC State,2001-02-28,85.5372298732408,included_game_day
+2001,152,NC State,2001-03-04,70.41109380506434,included_game_day
+2001,152,NC State,2001-03-09,74.5669557462795,included_game_day
+2002,152,NC State Wolfpack,2001-11-14,41.0,included_game_day
+2002,152,NC State Wolfpack,2001-11-16,57.9,included_game_day
+2002,152,NC State Wolfpack,2001-11-20,66.11,included_game_day
+2002,152,NC State Wolfpack,2001-11-23,66.499,included_game_day
+2002,152,NC State Wolfpack,2001-11-27,52.8291,included_game_day
+2002,152,NC State Wolfpack,2001-12-01,39.50364,included_game_day
+2002,152,NC State Wolfpack,2001-12-05,65.9141916,included_game_day
+2002,152,NC State Wolfpack,2001-12-08,87.981148392,included_game_day
+2002,152,NC State Wolfpack,2001-12-15,108.60634560279999,included_game_day
+2002,152,NC State Wolfpack,2001-12-19,110.94141645772099,included_game_day
+2002,152,NC State Wolfpack,2001-12-23,105.45565054706779,included_game_day
+2002,152,NC State Wolfpack,2001-12-30,95.28726252171283,included_game_day
+2002,152,NC State Wolfpack,2002-01-05,108.50302221028545,included_game_day
+2002,152,NC State Wolfpack,2002-01-08,117.22693280474071,included_game_day
+2002,152,NC State Wolfpack,2002-01-13,97.268994435787,included_game_day
+2002,152,NC State Wolfpack,2002-01-15,95.1330527997782,included_game_day
+2002,152,NC State Wolfpack,2002-01-19,94.21602593206693,included_game_day
+2002,152,NC State Wolfpack,2002-01-23,103.13542545029665,included_game_day
+2002,152,NC State Wolfpack,2002-01-26,108.85859032079617,included_game_day
+2002,152,NC State Wolfpack,2002-01-30,103.18534903469893,included_game_day
+2002,152,NC State Wolfpack,2002-02-03,95.04522626056851,included_game_day
+2002,152,NC State Wolfpack,2002-02-06,110.5722415595727,included_game_day
+2002,152,NC State Wolfpack,2002-02-14,88.11869775876268,included_game_day
+2002,152,NC State Wolfpack,2002-02-16,104.44303294109392,included_game_day
+2002,152,NC State Wolfpack,2002-02-20,96.89487687608201,included_game_day
+2002,152,NC State Wolfpack,2002-02-24,103.70069455095629,included_game_day
+2002,152,NC State Wolfpack,2002-03-02,94.01564451038158,included_game_day
+2002,152,NC State Wolfpack,2002-03-08,108.82153283803638,included_game_day
+2002,152,NC State Wolfpack,2002-03-09,124.32037638126313,included_game_day
+2002,152,NC State Wolfpack,2002-03-10,107.88711867602942,included_game_day
+2002,152,NC State Wolfpack,2002-03-15,115.69098753531858,included_game_day
+2002,152,NC State Wolfpack,2002-03-17,117.09507187880737,included_game_day
+2003,152,NC State Wolfpack,2002-11-22,21.0,included_game_day
+2003,152,NC State Wolfpack,2002-11-30,34.8845,included_game_day
+2003,152,NC State Wolfpack,2002-12-04,55.691188800000006,included_game_day
+2003,152,NC State Wolfpack,2002-12-08,62.934861330000004,included_game_day
+2003,152,NC State Wolfpack,2002-12-14,85.718612197,included_game_day
+2003,152,NC State Wolfpack,2002-12-17,66.37914546729999,included_game_day
+2003,152,NC State Wolfpack,2002-12-21,93.45676437150999,included_game_day
+2003,152,NC State Wolfpack,2002-12-29,94.33983111355899,included_game_day
+2003,152,NC State Wolfpack,2003-01-02,77.46975416198408,included_game_day
+2003,152,NC State Wolfpack,2003-01-05,84.10625552533061,included_game_day
+2003,152,NC State Wolfpack,2003-01-11,59.930790478888255,included_game_day
+2003,152,NC State Wolfpack,2003-01-16,41.55349775666462,included_game_day
+2003,152,NC State Wolfpack,2003-01-18,51.273747827278385,included_game_day
+2003,152,NC State Wolfpack,2003-01-22,65.58446630681605,included_game_day
+2003,152,NC State Wolfpack,2003-01-26,70.63391040965054,included_game_day
+2003,152,NC State Wolfpack,2003-01-30,68.48333731370059,included_game_day
+2003,152,NC State Wolfpack,2003-02-02,84.05478644215457,included_game_day
+2003,152,NC State Wolfpack,2003-02-06,76.84084782206439,included_game_day
+2003,152,NC State Wolfpack,2003-02-09,75.99422735619744,included_game_day
+2003,152,NC State Wolfpack,2003-02-12,81.00999980216896,included_game_day
+2003,152,NC State Wolfpack,2003-02-15,56.09869174588802,included_game_day
+2003,152,NC State Wolfpack,2003-02-18,63.703745788118965,included_game_day
+2003,152,NC State Wolfpack,2003-02-22,62.72589502952357,included_game_day
+2003,152,NC State Wolfpack,2003-02-25,70.34782985476976,included_game_day
+2003,152,NC State Wolfpack,2003-03-02,77.1574227201672,included_game_day
+2003,152,NC State Wolfpack,2003-03-05,77.69795838840167,included_game_day
+2003,152,NC State Wolfpack,2003-03-08,72.98743903969486,included_game_day
+2003,152,NC State Wolfpack,2003-03-14,76.20507284872372,included_game_day
+2003,152,NC State Wolfpack,2003-03-15,87.88925024231644,included_game_day
+2003,152,NC State Wolfpack,2003-03-16,87.75620731654826,included_game_day
+2003,152,NC State Wolfpack,2003-03-20,85.67339997351124,included_game_day
+2004,152,NC State Wolfpack,2003-11-21,22.0,included_game_day
+2004,152,NC State Wolfpack,2003-11-25,37.64,included_game_day
+2004,152,NC State Wolfpack,2003-11-28,58.416,included_game_day
+2004,152,NC State Wolfpack,2003-12-02,53.973836,included_game_day
+2004,152,NC State Wolfpack,2003-12-07,53.7578524,included_game_day
+2004,152,NC State Wolfpack,2003-12-13,73.12632066,included_game_day
+2004,152,NC State Wolfpack,2003-12-20,77.1480390049,included_game_day
+2004,152,NC State Wolfpack,2003-12-28,89.35689441323049,included_game_day
+2004,152,NC State Wolfpack,2004-01-03,99.31463739090809,included_game_day
+2004,152,NC State Wolfpack,2004-01-07,121.31228961372878,included_game_day
+2004,152,NC State Wolfpack,2004-01-11,125.97249617349574,included_game_day
+2004,152,NC State Wolfpack,2004-01-15,116.33068151630806,included_game_day
+2004,152,NC State Wolfpack,2004-01-17,121.13628239331541,included_game_day
+2004,152,NC State Wolfpack,2004-01-20,114.93086154024472,included_game_day
+2004,152,NC State Wolfpack,2004-01-24,120.45680591439307,included_game_day
+2004,152,NC State Wolfpack,2004-01-28,122.95239453387205,included_game_day
+2004,152,NC State Wolfpack,2004-02-01,137.06565030979172,included_game_day
+2004,152,NC State Wolfpack,2004-02-04,136.53015183035316,included_game_day
+2004,152,NC State Wolfpack,2004-02-07,145.18243516440145,included_game_day
+2004,152,NC State Wolfpack,2004-02-10,152.36599287250988,included_game_day
+2004,152,NC State Wolfpack,2004-02-15,158.61386469267413,included_game_day
+2004,152,NC State Wolfpack,2004-02-18,142.24289149251348,included_game_day
+2004,152,NC State Wolfpack,2004-02-22,133.39718810597068,included_game_day
+2004,152,NC State Wolfpack,2004-02-25,146.2293726977275,included_game_day
+2004,152,NC State Wolfpack,2004-02-29,133.5258129330156,included_game_day
+2004,152,NC State Wolfpack,2004-03-03,124.69290455398017,included_game_day
+2004,152,NC State Wolfpack,2004-03-06,139.38520291845413,included_game_day
+2004,152,NC State Wolfpack,2004-03-12,140.08155349169942,included_game_day
+2004,152,NC State Wolfpack,2004-03-13,130.25184669532027,included_game_day
+2004,152,NC State Wolfpack,2004-03-19,130.60447359328157,included_game_day
+2004,152,NC State Wolfpack,2004-03-21,124.44892057760661,included_game_day
+2005,152,NC State Wolfpack,2004-11-17,31.0,included_game_day
+2005,152,NC State Wolfpack,2004-11-18,58.0,included_game_day
+2005,152,NC State Wolfpack,2004-11-19,85.46000000000001,included_game_day
+2005,152,NC State Wolfpack,2004-11-26,129.212,included_game_day
+2005,152,NC State Wolfpack,2004-11-29,118.29079999999999,included_game_day
+2005,152,NC State Wolfpack,2004-12-05,121.176475,included_game_day
+2005,152,NC State Wolfpack,2004-12-11,135.230950790108,included_game_day
+2005,152,NC State Wolfpack,2004-12-15,121.2551271797202,included_game_day
+2005,152,NC State Wolfpack,2004-12-19,114.77730520353819,included_game_day
+2005,152,NC State Wolfpack,2004-12-21,112.39878964011336,included_game_day
+2005,152,NC State Wolfpack,2004-12-28,115.97128577485583,included_game_day
+2005,152,NC State Wolfpack,2004-12-30,91.36685888880405,included_game_day
+2005,152,NC State Wolfpack,2005-01-02,76.98511695241751,included_game_day
+2005,152,NC State Wolfpack,2005-01-09,78.11872424951636,included_game_day
+2005,152,NC State Wolfpack,2005-01-13,68.98217475486469,included_game_day
+2005,152,NC State Wolfpack,2005-01-16,81.31138553303707,included_game_day
+2005,152,NC State Wolfpack,2005-01-19,77.877319106553,included_game_day
+2005,152,NC State Wolfpack,2005-01-23,99.26464607364727,included_game_day
+2005,152,NC State Wolfpack,2005-01-26,85.11841183227679,included_game_day
+2005,152,NC State Wolfpack,2005-01-29,94.49012930540408,included_game_day
+2005,152,NC State Wolfpack,2005-02-03,88.4407295002406,included_game_day
+2005,152,NC State Wolfpack,2005-02-05,73.69483571970306,included_game_day
+2005,152,NC State Wolfpack,2005-02-10,75.38564176603579,included_game_day
+2005,152,NC State Wolfpack,2005-02-13,83.48954950234624,included_game_day
+2005,152,NC State Wolfpack,2005-02-16,101.78357414491676,included_game_day
+2005,152,NC State Wolfpack,2005-02-22,104.1480378494044,included_game_day
+2005,152,NC State Wolfpack,2005-02-26,115.51707863431417,included_game_day
+2005,152,NC State Wolfpack,2005-03-02,118.34493384664717,included_game_day
+2005,152,NC State Wolfpack,2005-03-06,119.226626308588,included_game_day
+2005,152,NC State Wolfpack,2005-03-10,122.19806553042314,included_game_day
+2005,152,NC State Wolfpack,2005-03-11,146.6062755777923,included_game_day
+2005,152,NC State Wolfpack,2005-03-12,145.7357454623351,included_game_day
+2005,152,NC State Wolfpack,2005-03-18,151.27264317223714,included_game_day
+2005,152,NC State Wolfpack,2005-03-20,156.38115990347842,included_game_day
+2005,152,NC State Wolfpack,2005-03-25,145.6320316283724,included_game_day
+2006,152,NC State Wolfpack,2005-11-18,27.0,included_game_day
+2006,152,NC State Wolfpack,2005-11-19,51.6,included_game_day
+2006,152,NC State Wolfpack,2005-11-20,60.7,included_game_day
+2006,152,NC State Wolfpack,2005-11-23,70.64,included_game_day
+2006,152,NC State Wolfpack,2005-11-26,82.446,included_game_day
+2006,152,NC State Wolfpack,2005-11-30,82.28325,included_game_day
+2006,152,NC State Wolfpack,2005-12-10,91.780339163,included_game_day
+2006,152,NC State Wolfpack,2005-12-14,106.0039253967,included_game_day
+2006,152,NC State Wolfpack,2005-12-18,111.95938563003,included_game_day
+2006,152,NC State Wolfpack,2005-12-22,111.210221745947,included_game_day
+2006,152,NC State Wolfpack,2005-12-28,107.87701513768448,included_game_day
+2006,152,NC State Wolfpack,2005-12-30,123.40412072621203,included_game_day
+2006,152,NC State Wolfpack,2006-01-03,134.73365051052082,included_game_day
+2006,152,NC State Wolfpack,2006-01-07,121.6336307844931,included_game_day
+2006,152,NC State Wolfpack,2006-01-10,141.89729872263774,included_game_day
+2006,152,NC State Wolfpack,2006-01-14,139.626271511858,included_game_day
+2006,152,NC State Wolfpack,2006-01-18,135.52890981701344,included_game_day
+2006,152,NC State Wolfpack,2006-01-21,136.4208056067768,included_game_day
+2006,152,NC State Wolfpack,2006-01-25,105.77393600299274,included_game_day
+2006,152,NC State Wolfpack,2006-01-29,112.9626196822159,included_game_day
+2006,152,NC State Wolfpack,2006-02-01,107.88021117967182,included_game_day
+2006,152,NC State Wolfpack,2006-02-05,104.89806292330294,included_game_day
+2006,152,NC State Wolfpack,2006-02-08,116.51173313895639,included_game_day
+2006,152,NC State Wolfpack,2006-02-12,108.4250622284042,included_game_day
+2006,152,NC State Wolfpack,2006-02-15,125.98596898019844,included_game_day
+2006,152,NC State Wolfpack,2006-02-18,128.71996448354855,included_game_day
+2006,152,NC State Wolfpack,2006-02-22,102.15946924048586,included_game_day
+2006,152,NC State Wolfpack,2006-02-25,95.96438028637067,included_game_day
+2006,152,NC State Wolfpack,2006-03-04,79.15282088900648,included_game_day
+2006,152,NC State Wolfpack,2006-03-10,63.740071527991,included_game_day
+2006,152,NC State Wolfpack,2006-03-17,73.75322495573437,included_game_day
+2006,152,NC State Wolfpack,2006-03-19,63.03933148079158,included_game_day
+2007,152,NC State Wolfpack,2006-11-10,1.0,included_game_day
+2007,152,NC State Wolfpack,2006-11-17,16.66,included_game_day
+2007,152,NC State Wolfpack,2006-11-21,28.003,included_game_day
+2007,152,NC State Wolfpack,2006-11-24,25.50816,included_game_day
+2007,152,NC State Wolfpack,2006-11-27,33.951315,included_game_day
+2007,152,NC State Wolfpack,2006-12-03,34.29604302,included_game_day
+2007,152,NC State Wolfpack,2006-12-06,28.210648057999997,included_game_day
+2007,152,NC State Wolfpack,2006-12-09,36.44141135859999,included_game_day
+2007,152,NC State Wolfpack,2006-12-16,41.722512379498994,included_game_day
+2007,152,NC State Wolfpack,2006-12-20,36.346464458134996,included_game_day
+2007,152,NC State Wolfpack,2006-12-23,30.664356023764114,included_game_day
+2007,152,NC State Wolfpack,2006-12-28,27.741969367462076,included_game_day
+2007,152,NC State Wolfpack,2006-12-30,41.579237005460854,included_game_day
+2007,152,NC State Wolfpack,2007-01-02,40.13903437068768,included_game_day
+2007,152,NC State Wolfpack,2007-01-06,23.350069611907273,included_game_day
+2007,152,NC State Wolfpack,2007-01-09,20.420743979263037,included_game_day
+2007,152,NC State Wolfpack,2007-01-13,38.139425016168126,included_game_day
+2007,152,NC State Wolfpack,2007-01-20,20.938617847862066,included_game_day
+2007,152,NC State Wolfpack,2007-01-24,10.925798625151954,included_game_day
+2007,152,NC State Wolfpack,2007-01-31,36.597344267354835,included_game_day
+2007,152,NC State Wolfpack,2007-02-03,60.40983993544807,included_game_day
+2007,152,NC State Wolfpack,2007-02-06,59.80548062096627,included_game_day
+2007,152,NC State Wolfpack,2007-02-10,41.305357248368935,included_game_day
+2007,152,NC State Wolfpack,2007-02-14,31.00116942459701,included_game_day
+2007,152,NC State Wolfpack,2007-02-18,62.69130849969268,included_game_day
+2007,152,NC State Wolfpack,2007-02-21,63.21962675515468,included_game_day
+2007,152,NC State Wolfpack,2007-02-24,42.9273602381009,included_game_day
+2007,152,NC State Wolfpack,2007-02-28,44.009714994758305,included_game_day
+2007,152,NC State Wolfpack,2007-03-03,39.820704113827176,included_game_day
+2007,152,NC State Wolfpack,2007-03-08,57.554622716910224,included_game_day
+2007,152,NC State Wolfpack,2007-03-09,71.96108240645322,included_game_day
+2007,152,NC State Wolfpack,2007-03-10,86.53202730572494,included_game_day
+2007,152,NC State Wolfpack,2007-03-11,93.15763094269721,included_game_day
+2007,152,NC State Wolfpack,2007-03-13,99.44064141627351,included_game_day
+2007,152,NC State Wolfpack,2007-03-16,99.26880684154436,included_game_day
+2007,152,NC State Wolfpack,2007-03-20,99.05068473821872,included_game_day
+2008,152,NC State Wolfpack,2007-11-15,14.8,included_game_day
+2008,152,NC State Wolfpack,2007-11-18,8.386000000000001,included_game_day
+2008,152,NC State Wolfpack,2007-11-22,17.708710000000004,included_game_day
+2008,152,NC State Wolfpack,2007-11-23,24.380619000000003,included_game_day
+2008,152,NC State Wolfpack,2007-11-25,26.6192157,included_game_day
+2008,152,NC State Wolfpack,2007-11-28,5.258596130000001,included_game_day
+2008,152,NC State Wolfpack,2007-12-08,-1.2462173054599983,included_game_day
+2008,152,NC State Wolfpack,2007-12-15,14.199021289846002,included_game_day
+2008,152,NC State Wolfpack,2007-12-21,14.262533689527203,included_game_day
+2008,152,NC State Wolfpack,2007-12-23,17.735816123737862,included_game_day
+2008,152,NC State Wolfpack,2007-12-27,28.29064041319639,included_game_day
+2008,152,NC State Wolfpack,2007-12-29,26.681146620080085,included_game_day
+2008,152,NC State Wolfpack,2008-01-05,17.69354028385512,included_game_day
+2008,152,NC State Wolfpack,2008-01-09,16.567296654390738,included_game_day
+2008,152,NC State Wolfpack,2008-01-12,6.54327907046742,included_game_day
+2008,152,NC State Wolfpack,2008-01-15,4.986041132104564,included_game_day
+2008,152,NC State Wolfpack,2008-01-23,4.234337994359842,included_game_day
+2008,152,NC State Wolfpack,2008-01-26,14.451772081374408,included_game_day
+2008,152,NC State Wolfpack,2008-01-31,14.632833363368615,included_game_day
+2008,152,NC State Wolfpack,2008-02-03,17.248852950965865,included_game_day
+2008,152,NC State Wolfpack,2008-02-05,30.449252332904898,included_game_day
+2008,152,NC State Wolfpack,2008-02-09,25.045422027588124,included_game_day
+2008,152,NC State Wolfpack,2008-02-14,13.34746206450889,included_game_day
+2008,152,NC State Wolfpack,2008-02-16,17.15670530653974,included_game_day
+2008,152,NC State Wolfpack,2008-02-20,18.47904109557475,included_game_day
+2008,152,NC State Wolfpack,2008-02-24,4.121549318718637,included_game_day
+2008,152,NC State Wolfpack,2008-02-27,-3.8083469149671823,included_game_day
+2008,152,NC State Wolfpack,2008-03-01,9.605985718753729,included_game_day
+2008,152,NC State Wolfpack,2008-03-08,5.565603775444132,included_game_day
+2008,152,NC State Wolfpack,2008-03-13,0.6834775956174637,included_game_day
+2009,152,NC State Wolfpack,2008-11-15,9.0,included_game_day
+2009,152,NC State Wolfpack,2008-11-22,15.5,included_game_day
+2009,152,NC State Wolfpack,2008-11-25,32.44443,included_game_day
+2009,152,NC State Wolfpack,2008-11-30,50.459987,included_game_day
+2009,152,NC State Wolfpack,2008-12-06,51.4310283,included_game_day
+2009,152,NC State Wolfpack,2008-12-13,63.73168707000001,included_game_day
+2009,152,NC State Wolfpack,2008-12-17,70.66386646014,included_game_day
+2009,152,NC State Wolfpack,2008-12-20,80.670322194626,included_game_day
+2009,152,NC State Wolfpack,2008-12-22,73.4700946633928,included_game_day
+2009,152,NC State Wolfpack,2008-12-29,61.291512743329676,included_game_day
+2009,152,NC State Wolfpack,2008-12-31,68.29960164622221,included_game_day
+2009,152,NC State Wolfpack,2009-01-03,71.98387634211095,included_game_day
+2009,152,NC State Wolfpack,2009-01-10,69.50955737712994,included_game_day
+2009,152,NC State Wolfpack,2009-01-13,53.391372209713694,included_game_day
+2009,152,NC State Wolfpack,2009-01-17,52.4776010344281,included_game_day
+2009,152,NC State Wolfpack,2009-01-20,51.14672913118292,included_game_day
+2009,152,NC State Wolfpack,2009-01-24,43.621321330751314,included_game_day
+2009,152,NC State Wolfpack,2009-01-27,48.093137962772516,included_game_day
+2009,152,NC State Wolfpack,2009-01-31,43.96264179358751,included_game_day
+2009,152,NC State Wolfpack,2009-02-03,42.849739056863086,included_game_day
+2009,152,NC State Wolfpack,2009-02-08,46.669528791353216,included_game_day
+2009,152,NC State Wolfpack,2009-02-11,57.91324151822033,included_game_day
+2009,152,NC State Wolfpack,2009-02-14,79.90560685138941,included_game_day
+2009,152,NC State Wolfpack,2009-02-18,87.01549425846558,included_game_day
+2009,152,NC State Wolfpack,2009-02-21,85.12424373727282,included_game_day
+2009,152,NC State Wolfpack,2009-02-26,85.84679198903302,included_game_day
+2009,152,NC State Wolfpack,2009-03-01,68.28289463128176,included_game_day
+2009,152,NC State Wolfpack,2009-03-04,71.06752011989045,included_game_day
+2009,152,NC State Wolfpack,2009-03-07,68.55154526854098,included_game_day
+2009,152,NC State Wolfpack,2009-03-12,63.110013580124004,included_game_day
+2010,152,NC State Wolfpack,2009-11-12,13.0,included_game_day
+2010,152,NC State Wolfpack,2009-11-20,31.84,included_game_day
+2010,152,NC State Wolfpack,2009-11-21,32.844,included_game_day
+2010,152,NC State Wolfpack,2009-11-22,31.9951,included_game_day
+2010,152,NC State Wolfpack,2009-11-29,43.05089,included_game_day
+2010,152,NC State Wolfpack,2009-12-01,27.400700500000003,included_game_day
+2010,152,NC State Wolfpack,2009-12-05,41.773907470000005,included_game_day
+2010,152,NC State Wolfpack,2009-12-12,45.37087820650001,included_game_day
+2010,152,NC State Wolfpack,2009-12-17,31.655162928005005,included_game_day
+2010,152,NC State Wolfpack,2009-12-20,32.149415906652116,included_game_day
+2010,152,NC State Wolfpack,2009-12-23,30.454617256844802,included_game_day
+2010,152,NC State Wolfpack,2009-12-29,37.21239137433415,included_game_day
+2010,152,NC State Wolfpack,2009-12-31,51.202037521422056,included_game_day
+2010,152,NC State Wolfpack,2010-01-03,50.31900676137118,included_game_day
+2010,152,NC State Wolfpack,2010-01-06,55.62369235625101,included_game_day
+2010,152,NC State Wolfpack,2010-01-09,46.06662467647356,included_game_day
+2010,152,NC State Wolfpack,2010-01-12,64.81373312884445,included_game_day
+2010,152,NC State Wolfpack,2010-01-16,66.518977825522,included_game_day
+2010,152,NC State Wolfpack,2010-01-20,92.05413781679415,included_game_day
+2010,152,NC State Wolfpack,2010-01-23,76.21733020963877,included_game_day
+2010,152,NC State Wolfpack,2010-01-26,59.57261154119965,included_game_day
+2010,152,NC State Wolfpack,2010-01-30,70.96362221950231,included_game_day
+2010,152,NC State Wolfpack,2010-02-03,64.56934944847778,included_game_day
+2010,152,NC State Wolfpack,2010-02-06,71.05997148413508,included_game_day
+2010,152,NC State Wolfpack,2010-02-10,52.737296112875825,included_game_day
+2010,152,NC State Wolfpack,2010-02-13,44.26941864855227,included_game_day
+2010,152,NC State Wolfpack,2010-02-17,44.39654005505378,included_game_day
+2010,152,NC State Wolfpack,2010-02-20,62.564404719432304,included_game_day
+2010,152,NC State Wolfpack,2010-02-27,72.84308383535908,included_game_day
+2010,152,NC State Wolfpack,2010-03-03,67.30094469442827,included_game_day
+2010,152,NC State Wolfpack,2010-03-07,79.53772783113112,included_game_day
+2010,152,NC State Wolfpack,2010-03-11,87.56016057587853,included_game_day
+2010,152,NC State Wolfpack,2010-03-12,97.59499837048226,included_game_day
+2010,152,NC State Wolfpack,2010-03-13,96.37980734338622,included_game_day
+2010,152,NC State Wolfpack,2010-03-16,95.15860597879434,included_game_day
+2010,152,NC State Wolfpack,2010-03-20,75.63099348679144,included_game_day
+2011,152,NC State Wolfpack,2010-11-12,10.0,included_game_day
+2011,152,NC State Wolfpack,2010-11-18,29.93,included_game_day
+2011,152,NC State Wolfpack,2010-11-19,42.998,included_game_day
+2011,152,NC State Wolfpack,2010-11-21,28.579126,included_game_day
+2011,152,NC State Wolfpack,2010-11-27,28.3324134,included_game_day
+2011,152,NC State Wolfpack,2010-12-01,-3.279305034,included_game_day
+2011,152,NC State Wolfpack,2010-12-04,-0.6396093716999989,included_game_day
+2011,152,NC State Wolfpack,2010-12-11,8.66949219067,included_game_day
+2011,152,NC State Wolfpack,2010-12-16,18.884508511469,included_game_day
+2011,152,NC State Wolfpack,2010-12-19,14.4808709926301,included_game_day
+2011,152,NC State Wolfpack,2010-12-22,10.94713475100195,included_game_day
+2011,152,NC State Wolfpack,2010-12-28,32.22224638189296,included_game_day
+2011,152,NC State Wolfpack,2011-01-01,38.929370967891685,included_game_day
+2011,152,NC State Wolfpack,2011-01-05,50.07994718010535,included_game_day
+2011,152,NC State Wolfpack,2011-01-08,60.58153428976753,included_game_day
+2011,152,NC State Wolfpack,2011-01-11,54.89382453947996,included_game_day
+2011,152,NC State Wolfpack,2011-01-15,48.86488698953661,included_game_day
+2011,152,NC State Wolfpack,2011-01-19,44.47894323729257,included_game_day
+2011,152,NC State Wolfpack,2011-01-23,46.354188166626955,included_game_day
+2011,152,NC State Wolfpack,2011-01-25,43.57477095082259,included_game_day
+2011,152,NC State Wolfpack,2011-01-29,32.29497425366216,included_game_day
+2011,152,NC State Wolfpack,2011-02-02,28.828925734522176,included_game_day
+2011,152,NC State Wolfpack,2011-02-05,22.504181093715783,included_game_day
+2011,152,NC State Wolfpack,2011-02-13,42.258237733253665,included_game_day
+2011,152,NC State Wolfpack,2011-02-17,53.48873682782615,included_game_day
+2011,152,NC State Wolfpack,2011-02-20,57.092280482857404,included_game_day
+2011,152,NC State Wolfpack,2011-02-23,49.53424113697755,included_game_day
+2011,152,NC State Wolfpack,2011-02-26,47.883638700530916,included_game_day
+2011,152,NC State Wolfpack,2011-03-01,37.082514347882345,included_game_day
+2011,152,NC State Wolfpack,2011-03-06,29.305541180799516,included_game_day
+2011,152,NC State Wolfpack,2011-03-10,27.022395191086453,included_game_day
+2012,152,NC State Wolfpack,2011-11-11,6.0,included_game_day
+2012,152,NC State Wolfpack,2011-11-13,32.4,included_game_day
+2012,152,NC State Wolfpack,2011-11-16,26.259999999999998,included_game_day
+2012,152,NC State Wolfpack,2011-11-19,16.894999999999996,included_game_day
+2012,152,NC State Wolfpack,2011-11-21,21.202399999999997,included_game_day
+2012,152,NC State Wolfpack,2011-11-25,30.58853,included_game_day
+2012,152,NC State Wolfpack,2011-11-30,23.2385601,included_game_day
+2012,152,NC State Wolfpack,2011-12-04,32.28029212,included_game_day
+2012,152,NC State Wolfpack,2011-12-11,29.3622437788,included_game_day
+2012,152,NC State Wolfpack,2011-12-17,21.75930905564,included_game_day
+2012,152,NC State Wolfpack,2011-12-20,25.7086564535412,included_game_day
+2012,152,NC State Wolfpack,2011-12-22,46.26483710714736,included_game_day
+2012,152,NC State Wolfpack,2011-12-29,44.169210766541845,included_game_day
+2012,152,NC State Wolfpack,2011-12-31,63.28074644174475,included_game_day
+2012,152,NC State Wolfpack,2012-01-04,81.65534518345834,included_game_day
+2012,152,NC State Wolfpack,2012-01-08,74.99950510212318,included_game_day
+2012,152,NC State Wolfpack,2012-01-11,54.28813246926059,included_game_day
+2012,152,NC State Wolfpack,2012-01-14,88.29255816613443,included_game_day
+2012,152,NC State Wolfpack,2012-01-19,87.36444405992387,included_game_day
+2012,152,NC State Wolfpack,2012-01-22,91.3542474826982,included_game_day
+2012,152,NC State Wolfpack,2012-01-26,80.49402322941899,included_game_day
+2012,152,NC State Wolfpack,2012-01-28,78.88747468236829,included_game_day
+2012,152,NC State Wolfpack,2012-02-01,72.86060055454249,included_game_day
+2012,152,NC State Wolfpack,2012-02-04,70.70335194674146,included_game_day
+2012,152,NC State Wolfpack,2012-02-09,74.59438869239192,included_game_day
+2012,152,NC State Wolfpack,2012-02-16,77.23504326071922,included_game_day
+2012,152,NC State Wolfpack,2012-02-18,61.95924788988378,included_game_day
+2012,152,NC State Wolfpack,2012-02-21,57.274398195245055,included_game_day
+2012,152,NC State Wolfpack,2012-02-25,58.38640992682051,included_game_day
+2012,152,NC State Wolfpack,2012-02-29,62.573938352661074,included_game_day
+2012,152,NC State Wolfpack,2012-03-04,75.46329561589438,included_game_day
+2012,152,NC State Wolfpack,2012-03-08,81.99056521156086,included_game_day
+2012,152,NC State Wolfpack,2012-03-09,85.85944122371339,included_game_day
+2012,152,NC State Wolfpack,2012-03-10,94.31896994257049,included_game_day
+2012,152,NC State Wolfpack,2012-03-16,108.03196387111758,included_game_day
+2012,152,NC State Wolfpack,2012-03-18,113.80534582579713,included_game_day
+2012,152,NC State Wolfpack,2012-03-23,116.16977513945203,included_game_day
+2013,152,NC State Wolfpack,2012-11-09,35.0,included_game_day
+2013,152,NC State Wolfpack,2012-11-15,48.9,included_game_day
+2013,152,NC State Wolfpack,2012-11-16,62.442,included_game_day
+2013,152,NC State Wolfpack,2012-11-18,38.7791,included_game_day
+2013,152,NC State Wolfpack,2012-11-23,31.357979999999998,included_game_day
+2013,152,NC State Wolfpack,2012-11-27,32.378023999999996,included_game_day
+2013,152,NC State Wolfpack,2012-12-04,36.01433296,included_game_day
+2013,152,NC State Wolfpack,2012-12-08,47.898105434,included_game_day
+2013,152,NC State Wolfpack,2012-12-15,62.933314125509675,included_game_day
+2013,152,NC State Wolfpack,2012-12-18,67.99734829107871,included_game_day
+2013,152,NC State Wolfpack,2012-12-22,84.50729759903834,included_game_day
+2013,152,NC State Wolfpack,2012-12-29,89.34280909655655,included_game_day
+2013,152,NC State Wolfpack,2012-12-31,93.87247143959661,included_game_day
+2013,152,NC State Wolfpack,2013-01-05,93.74113613412113,included_game_day
+2013,152,NC State Wolfpack,2013-01-09,100.04723946593023,included_game_day
+2013,152,NC State Wolfpack,2013-01-12,112.22648299688777,included_game_day
+2013,152,NC State Wolfpack,2013-01-16,112.65255175756185,included_game_day
+2013,152,NC State Wolfpack,2013-01-20,109.03202986752765,included_game_day
+2013,152,NC State Wolfpack,2013-01-22,100.77120643769203,included_game_day
+2013,152,NC State Wolfpack,2013-01-26,104.92414018481483,included_game_day
+2013,152,NC State Wolfpack,2013-01-29,104.98896713268444,included_game_day
+2013,152,NC State Wolfpack,2013-02-02,105.06017656088761,included_game_day
+2013,152,NC State Wolfpack,2013-02-07,99.50384393152488,included_game_day
+2013,152,NC State Wolfpack,2013-02-10,95.85784297932207,included_game_day
+2013,152,NC State Wolfpack,2013-02-16,85.91409066888221,included_game_day
+2013,152,NC State Wolfpack,2013-02-19,93.70936036335345,included_game_day
+2013,152,NC State Wolfpack,2013-02-23,87.85193212975102,included_game_day
+2013,152,NC State Wolfpack,2013-02-27,97.44010386274184,included_game_day
+2013,152,NC State Wolfpack,2013-03-03,107.01224298381133,included_game_day
+2013,152,NC State Wolfpack,2013-03-06,109.68494266387037,included_game_day
+2013,152,NC State Wolfpack,2013-03-09,99.37662465757552,included_game_day
+2013,152,NC State Wolfpack,2013-03-14,104.44926091768983,included_game_day
+2013,152,NC State Wolfpack,2013-03-15,124.72601298015324,included_game_day
+2013,152,NC State Wolfpack,2013-03-16,114.3481158366532,included_game_day
+2013,152,NC State Wolfpack,2013-03-22,106.48884424542302,included_game_day
+2014,152,NC State Wolfpack,2013-11-08,18.0,included_game_day
+2014,152,NC State Wolfpack,2013-11-12,9.2,included_game_day
+2014,152,NC State Wolfpack,2013-11-16,21.1,included_game_day
+2014,152,NC State Wolfpack,2013-11-20,7.253,included_game_day
+2014,152,NC State Wolfpack,2013-11-26,23.2307,included_game_day
+2014,152,NC State Wolfpack,2013-11-30,39.61933,included_game_day
+2014,152,NC State Wolfpack,2013-12-04,54.678785,included_game_day
+2014,152,NC State Wolfpack,2013-12-07,49.777781074459995,included_game_day
+2014,152,NC State Wolfpack,2013-12-14,43.298059632861,included_game_day
+2014,152,NC State Wolfpack,2013-12-18,55.9752643168949,included_game_day
+2014,152,NC State Wolfpack,2013-12-21,60.32601133462157,included_game_day
+2014,152,NC State Wolfpack,2013-12-28,54.91948872890459,included_game_day
+2014,152,NC State Wolfpack,2013-12-30,51.36645722776538,included_game_day
+2014,152,NC State Wolfpack,2014-01-04,42.57580847442833,included_game_day
+2014,152,NC State Wolfpack,2014-01-07,56.23213759482768,included_game_day
+2014,152,NC State Wolfpack,2014-01-11,24.633559086724922,included_game_day
+2014,152,NC State Wolfpack,2014-01-15,27.021413076693953,included_game_day
+2014,152,NC State Wolfpack,2014-01-18,4.702018916771408,included_game_day
+2014,152,NC State Wolfpack,2014-01-20,13.813088698524384,included_game_day
+2014,152,NC State Wolfpack,2014-01-26,13.177770322127564,included_game_day
+2014,152,NC State Wolfpack,2014-01-29,22.01926183176119,included_game_day
+2014,152,NC State Wolfpack,2014-02-01,17.262338229456443,included_game_day
+2014,152,NC State Wolfpack,2014-02-08,24.340441873609837,included_game_day
+2014,152,NC State Wolfpack,2014-02-11,36.00956321611551,included_game_day
+2014,152,NC State Wolfpack,2014-02-15,48.668103788391896,included_game_day
+2014,152,NC State Wolfpack,2014-02-18,34.973279963192155,included_game_day
+2014,152,NC State Wolfpack,2014-02-22,39.591227558783466,included_game_day
+2014,152,NC State Wolfpack,2014-02-26,45.61431543915418,included_game_day
+2014,152,NC State Wolfpack,2014-03-01,27.939685828683317,included_game_day
+2014,152,NC State Wolfpack,2014-03-03,44.635017854319514,included_game_day
+2014,152,NC State Wolfpack,2014-03-09,47.78700042951854,included_game_day
+2014,152,NC State Wolfpack,2014-03-13,58.46433134234995,included_game_day
+2014,152,NC State Wolfpack,2014-03-14,65.90341258213992,included_game_day
+2014,152,NC State Wolfpack,2014-03-15,65.055737421782,included_game_day
+2014,152,NC State Wolfpack,2014-03-18,81.47416319771628,included_game_day
+2014,152,NC State Wolfpack,2014-03-20,77.55823554608409,included_game_day
+2015,152,NC State Wolfpack,2014-11-14,32.0,included_game_day
+2015,152,NC State Wolfpack,2014-11-17,40.8,included_game_day
+2015,152,NC State Wolfpack,2014-11-20,65.472,included_game_day
+2015,152,NC State Wolfpack,2014-11-23,59.556799999999996,included_game_day
+2015,152,NC State Wolfpack,2014-11-26,66.02911999999999,included_game_day
+2015,152,NC State Wolfpack,2014-11-28,63.59551799999999,included_game_day
+2015,152,NC State Wolfpack,2014-12-02,63.401756199999994,included_game_day
+2015,152,NC State Wolfpack,2014-12-06,67.41565917999999,included_game_day
+2015,152,NC State Wolfpack,2014-12-12,92.75914920199999,included_game_day
+2015,152,NC State Wolfpack,2014-12-14,82.62171018179998,included_game_day
+2015,152,NC State Wolfpack,2014-12-17,82.70979928206398,included_game_day
+2015,152,NC State Wolfpack,2014-12-20,69.96625405119758,included_game_day
+2015,152,NC State Wolfpack,2014-12-23,72.71611798905262,included_game_day
+2015,152,NC State Wolfpack,2014-12-30,50.36953905472704,included_game_day
+2015,152,NC State Wolfpack,2015-01-03,65.64002399076844,included_game_day
+2015,152,NC State Wolfpack,2015-01-07,69.16602128228705,included_game_day
+2015,152,NC State Wolfpack,2015-01-11,87.90650537354935,included_game_day
+2015,152,NC State Wolfpack,2015-01-14,89.24761690331488,included_game_day
+2015,152,NC State Wolfpack,2015-01-17,93.89045474965313,included_game_day
+2015,152,NC State Wolfpack,2015-01-22,90.46093741914709,included_game_day
+2015,152,NC State Wolfpack,2015-01-25,90.95242005377797,included_game_day
+2015,152,NC State Wolfpack,2015-01-28,70.35526198438058,included_game_day
+2015,152,NC State Wolfpack,2015-01-31,71.97776123293305,included_game_day
+2015,152,NC State Wolfpack,2015-02-03,66.08557424454551,included_game_day
+2015,152,NC State Wolfpack,2015-02-11,69.93571577617536,included_game_day
+2015,152,NC State Wolfpack,2015-02-14,88.61569886408363,included_game_day
+2015,152,NC State Wolfpack,2015-02-21,90.86022781705695,included_game_day
+2015,152,NC State Wolfpack,2015-02-24,110.19000393661534,included_game_day
+2015,152,NC State Wolfpack,2015-02-28,85.85628258026122,included_game_day
+2015,152,NC State Wolfpack,2015-03-03,90.4415262207265,included_game_day
+2015,152,NC State Wolfpack,2015-03-07,99.11876747005553,included_game_day
+2015,152,NC State Wolfpack,2015-03-11,104.56323296434071,included_game_day
+2015,152,NC State Wolfpack,2015-03-12,89.68065286728155,included_game_day
+2015,152,NC State Wolfpack,2015-03-19,89.85511806553312,included_game_day
+2015,152,NC State Wolfpack,2015-03-21,107.2548382797805,included_game_day
+2015,152,NC State Wolfpack,2015-03-27,98.15157381752688,included_game_day
+2016,152,NC State Wolfpack,2015-11-13,-20.0,included_game_day
+2016,152,NC State Wolfpack,2015-11-15,-3.0,included_game_day
+2016,152,NC State Wolfpack,2015-11-18,17.59,included_game_day
+2016,152,NC State Wolfpack,2015-11-23,16.167,included_game_day
+2016,152,NC State Wolfpack,2015-11-24,27.8456,included_game_day
+2016,152,NC State Wolfpack,2015-11-27,30.348840000000003,included_game_day
+2016,152,NC State Wolfpack,2015-12-01,23.6109511,included_game_day
+2016,152,NC State Wolfpack,2015-12-05,29.84977259,included_game_day
+2016,152,NC State Wolfpack,2015-12-13,44.282725949,included_game_day
+2016,152,NC State Wolfpack,2015-12-16,43.483368130100004,included_game_day
+2016,152,NC State Wolfpack,2015-12-19,53.70625924930201,included_game_day
+2016,152,NC State Wolfpack,2015-12-22,46.49081965107581,included_game_day
+2016,152,NC State Wolfpack,2015-12-29,47.110131565860215,included_game_day
+2016,152,NC State Wolfpack,2016-01-02,45.03024844393324,included_game_day
+2016,152,NC State Wolfpack,2016-01-07,49.628849534665996,included_game_day
+2016,152,NC State Wolfpack,2016-01-10,47.43833092497832,included_game_day
+2016,152,NC State Wolfpack,2016-01-13,38.14237757372308,included_game_day
+2016,152,NC State Wolfpack,2016-01-16,39.88206690419058,included_game_day
+2016,152,NC State Wolfpack,2016-01-19,67.5862343743948,included_game_day
+2016,152,NC State Wolfpack,2016-01-23,61.072036905941296,included_game_day
+2016,152,NC State Wolfpack,2016-01-27,50.75038325233733,included_game_day
+2016,152,NC State Wolfpack,2016-01-30,71.35324394102082,included_game_day
+2016,152,NC State Wolfpack,2016-02-01,70.78436311210743,included_game_day
+2016,152,NC State Wolfpack,2016-02-06,72.20698232992152,included_game_day
+2016,152,NC State Wolfpack,2016-02-13,71.3053201120929,included_game_day
+2016,152,NC State Wolfpack,2016-02-15,61.47246304961635,included_game_day
+2016,152,NC State Wolfpack,2016-02-20,63.68771149555935,included_game_day
+2016,152,NC State Wolfpack,2016-02-24,57.68261705442343,included_game_day
+2016,152,NC State Wolfpack,2016-02-27,54.00106460941369,included_game_day
+2016,152,NC State Wolfpack,2016-03-02,40.11093768777506,included_game_day
+2016,152,NC State Wolfpack,2016-03-05,32.407544295674995,included_game_day
+2016,152,NC State Wolfpack,2016-03-08,33.02259342630918,included_game_day
+2016,152,NC State Wolfpack,2016-03-09,38.14463593268766,included_game_day
+2017,152,NC State Wolfpack,2016-11-11,-1.0,included_game_day
+2017,152,NC State Wolfpack,2016-11-13,21.1,included_game_day
+2017,152,NC State Wolfpack,2016-11-18,30.6,included_game_day
+2017,152,NC State Wolfpack,2016-11-20,13.545000000000002,included_game_day
+2017,152,NC State Wolfpack,2016-11-21,23.7196,included_game_day
+2017,152,NC State Wolfpack,2016-11-26,23.9432,included_game_day
+2017,152,NC State Wolfpack,2016-11-29,10.361394,included_game_day
+2017,152,NC State Wolfpack,2016-12-03,11.847652100000001,included_game_day
+2017,152,NC State Wolfpack,2016-12-10,21.844563916400002,included_game_day
+2017,152,NC State Wolfpack,2016-12-15,44.88442410476,included_game_day
+2017,152,NC State Wolfpack,2016-12-18,59.044362011353996,included_game_day
+2017,152,NC State Wolfpack,2016-12-22,73.64721405063455,included_game_day
+2017,152,NC State Wolfpack,2016-12-28,90.96645600338981,included_game_day
+2017,152,NC State Wolfpack,2016-12-31,75.91058515391933,included_game_day
+2017,152,NC State Wolfpack,2017-01-04,103.6808908194727,included_game_day
+2017,152,NC State Wolfpack,2017-01-08,59.687201002466594,included_game_day
+2017,152,NC State Wolfpack,2017-01-11,50.9270245663801,included_game_day
+2017,152,NC State Wolfpack,2017-01-15,32.84466732513691,included_game_day
+2017,152,NC State Wolfpack,2017-01-17,35.381983198948035,included_game_day
+2017,152,NC State Wolfpack,2017-01-21,33.29487313912276,included_game_day
+2017,152,NC State Wolfpack,2017-01-23,50.058342638223635,included_game_day
+2017,152,NC State Wolfpack,2017-01-29,43.71732088742852,included_game_day
+2017,152,NC State Wolfpack,2017-02-01,37.88082810324068,included_game_day
+2017,152,NC State Wolfpack,2017-02-04,34.40163054756802,included_game_day
+2017,152,NC State Wolfpack,2017-02-08,27.385955646613176,included_game_day
+2017,152,NC State Wolfpack,2017-02-11,7.1263448933728455,included_game_day
+2017,152,NC State Wolfpack,2017-02-15,-6.168149096110657,included_game_day
+2017,152,NC State Wolfpack,2017-02-18,-5.202792429402386,included_game_day
+2017,152,NC State Wolfpack,2017-02-21,6.344544010150944,included_game_day
+2017,152,NC State Wolfpack,2017-02-25,0.3692024425173912,included_game_day
+2017,152,NC State Wolfpack,2017-03-01,6.514491191556695,included_game_day
+2017,152,NC State Wolfpack,2017-03-07,-1.3413465750343665,included_game_day
+2018,152,NC State Wolfpack,2017-11-10,32.0,included_game_day
+2018,152,NC State Wolfpack,2017-11-12,43.3,included_game_day
+2018,152,NC State Wolfpack,2017-11-14,56.769999999999996,included_game_day
+2018,152,NC State Wolfpack,2017-11-16,62.893,included_game_day
+2018,152,NC State Wolfpack,2017-11-22,69.71770000000001,included_game_day
+2018,152,NC State Wolfpack,2017-11-23,62.44861000000001,included_game_day
+2018,152,NC State Wolfpack,2017-11-24,53.44551700000001,included_game_day
+2018,152,NC State Wolfpack,2017-11-29,60.15324040000001,included_game_day
+2018,152,NC State Wolfpack,2017-12-02,70.75839236000002,included_game_day
+2018,152,NC State Wolfpack,2017-12-09,76.06766598300001,included_game_day
+2018,152,NC State Wolfpack,2017-12-16,64.68576099957602,included_game_day
+2018,152,NC State Wolfpack,2017-12-19,67.60386488994841,included_game_day
+2018,152,NC State Wolfpack,2017-12-22,100.23040315880733,included_game_day
+2018,152,NC State Wolfpack,2017-12-30,88.96893798230833,included_game_day
+2018,152,NC State Wolfpack,2018-01-03,62.076859365362964,included_game_day
+2018,152,NC State Wolfpack,2018-01-06,82.87262147111062,included_game_day
+2018,152,NC State Wolfpack,2018-01-11,85.2577762321301,included_game_day
+2018,152,NC State Wolfpack,2018-01-14,78.1651439264318,included_game_day
+2018,152,NC State Wolfpack,2018-01-18,81.29966242352042,included_game_day
+2018,152,NC State Wolfpack,2018-01-21,74.15658266402423,included_game_day
+2018,152,NC State Wolfpack,2018-01-24,68.48783586590476,included_game_day
+2018,152,NC State Wolfpack,2018-01-27,81.32491704736816,included_game_day
+2018,152,NC State Wolfpack,2018-02-03,95.75333978513913,included_game_day
+2018,152,NC State Wolfpack,2018-02-07,87.9539369314631,included_game_day
+2018,152,NC State Wolfpack,2018-02-10,82.3130427067603,included_game_day
+2018,152,NC State Wolfpack,2018-02-14,89.41264280547537,included_game_day
+2018,152,NC State Wolfpack,2018-02-17,94.84008371363122,included_game_day
+2018,152,NC State Wolfpack,2018-02-20,102.35164984290434,included_game_day
+2018,152,NC State Wolfpack,2018-02-25,118.75092617139661,included_game_day
+2018,152,NC State Wolfpack,2018-03-01,108.16403027554396,included_game_day
+2018,152,NC State Wolfpack,2018-03-03,112.67166197981344,included_game_day
+2018,152,NC State Wolfpack,2018-03-07,103.40489768916152,included_game_day
+2018,152,NC State Wolfpack,2018-03-15,93.3856497706945,included_game_day
+2019,152,NC State Wolfpack,2018-11-06,47.0,included_game_day
+2019,152,NC State Wolfpack,2018-11-10,84.1,included_game_day
+2019,152,NC State Wolfpack,2018-11-13,123.69,included_game_day
+2019,152,NC State Wolfpack,2018-11-17,121.89099999999999,included_game_day
+2019,152,NC State Wolfpack,2018-11-20,133.46089999999998,included_game_day
+2019,152,NC State Wolfpack,2018-11-24,124.72941999999998,included_game_day
+2019,152,NC State Wolfpack,2018-11-27,119.46695719999998,included_game_day
+2019,152,NC State Wolfpack,2018-12-01,128.04646451,included_game_day
+2019,152,NC State Wolfpack,2018-12-05,140.242163922,included_game_day
+2019,152,NC State Wolfpack,2018-12-15,141.5814229933784,included_game_day
+2019,152,NC State Wolfpack,2018-12-19,141.71247365498385,included_game_day
+2019,152,NC State Wolfpack,2018-12-22,145.35285502130537,included_game_day
+2019,152,NC State Wolfpack,2018-12-28,156.25616560302106,included_game_day
+2019,152,NC State Wolfpack,2019-01-03,153.50240966703996,included_game_day
+2019,152,NC State Wolfpack,2019-01-08,142.95870600862224,included_game_day
+2019,152,NC State Wolfpack,2019-01-12,139.40136614527142,included_game_day
+2019,152,NC State Wolfpack,2019-01-15,124.28876620912759,included_game_day
+2019,152,NC State Wolfpack,2019-01-19,123.34176059218568,included_game_day
+2019,152,NC State Wolfpack,2019-01-24,121.05195040511238,included_game_day
+2019,152,NC State Wolfpack,2019-01-26,114.74932524544306,included_game_day
+2019,152,NC State Wolfpack,2019-01-29,121.72373416045404,included_game_day
+2019,152,NC State Wolfpack,2019-02-02,97.83998618048042,included_game_day
+2019,152,NC State Wolfpack,2019-02-05,92.0872904034085,included_game_day
+2019,152,NC State Wolfpack,2019-02-09,93.68790515978502,included_game_day
+2019,152,NC State Wolfpack,2019-02-13,105.19823354903288,included_game_day
+2019,152,NC State Wolfpack,2019-02-16,104.87136588434137,included_game_day
+2019,152,NC State Wolfpack,2019-02-20,103.99357946986513,included_game_day
+2019,152,NC State Wolfpack,2019-02-24,108.02382364854286,included_game_day
+2019,152,NC State Wolfpack,2019-03-02,109.16341130764621,included_game_day
+2019,152,NC State Wolfpack,2019-03-06,93.44959569038589,included_game_day
+2019,152,NC State Wolfpack,2019-03-09,117.60497221169378,included_game_day
+2019,152,NC State Wolfpack,2019-03-13,119.64519934461694,included_game_day
+2019,152,NC State Wolfpack,2019-03-14,109.74462718849149,included_game_day
+2019,152,NC State Wolfpack,2019-03-19,105.29635245246789,included_game_day
+2019,152,NC State Wolfpack,2019-03-24,95.89997326589628,included_game_day
+2019,152,NC State Wolfpack,2019-03-27,91.31001309381709,included_game_day
+2020,152,NC State Wolfpack,2019-11-05,-4.0,included_game_day
+2020,152,NC State Wolfpack,2019-11-10,12.399999999999999,included_game_day
+2020,152,NC State Wolfpack,2019-11-13,16.659999999999997,included_game_day
+2020,152,NC State Wolfpack,2019-11-16,41.886799999999994,included_game_day
+2020,152,NC State Wolfpack,2019-11-19,52.95101999999999,included_game_day
+2020,152,NC State Wolfpack,2019-11-23,62.37817799999999,included_game_day
+2020,152,NC State Wolfpack,2019-11-28,59.92424729999999,included_game_day
+2020,152,NC State Wolfpack,2019-12-04,68.17842873999999,included_game_day
+2020,152,NC State Wolfpack,2019-12-07,75.97362078088999,included_game_day
+2020,152,NC State Wolfpack,2019-12-15,79.312235958156,included_game_day
+2020,152,NC State Wolfpack,2019-12-19,78.5397913385594,included_game_day
+2020,152,NC State Wolfpack,2019-12-22,83.946326791661,included_game_day
+2020,152,NC State Wolfpack,2019-12-29,87.9290558059758,included_game_day
+2020,152,NC State Wolfpack,2020-01-04,73.37194325818243,included_game_day
+2020,152,NC State Wolfpack,2020-01-08,75.82629901670916,included_game_day
+2020,152,NC State Wolfpack,2020-01-11,63.41023407382322,included_game_day
+2020,152,NC State Wolfpack,2020-01-15,73.1982392468422,included_game_day
+2020,152,NC State Wolfpack,2020-01-18,74.80839098205783,included_game_day
+2020,152,NC State Wolfpack,2020-01-20,78.272015776332,included_game_day
+2020,152,NC State Wolfpack,2020-01-25,72.21399999215423,included_game_day
+2020,152,NC State Wolfpack,2020-01-27,54.35802233622661,included_game_day
+2020,152,NC State Wolfpack,2020-02-01,38.484291345334675,included_game_day
+2020,152,NC State Wolfpack,2020-02-05,48.496671590343354,included_game_day
+2020,152,NC State Wolfpack,2020-02-11,58.942268494972154,included_game_day
+2020,152,NC State Wolfpack,2020-02-16,50.27853736644495,included_game_day
+2020,152,NC State Wolfpack,2020-02-19,81.84211103443722,included_game_day
+2020,152,NC State Wolfpack,2020-02-22,75.2421087022309,included_game_day
+2020,152,NC State Wolfpack,2020-02-25,67.45647960062635,included_game_day
+2020,152,NC State Wolfpack,2020-02-29,60.51830300554871,included_game_day
+2020,152,NC State Wolfpack,2020-03-02,50.985587527347846,included_game_day
+2020,152,NC State Wolfpack,2020-03-06,68.05727406483652,included_game_day
+2020,152,NC State Wolfpack,2020-03-11,76.58488003346037,included_game_day
+2021,152,NC State Wolfpack,2020-11-25,31.0,included_game_day
+2021,152,NC State Wolfpack,2020-11-27,58.6,included_game_day
+2021,152,NC State Wolfpack,2020-12-03,82.812,included_game_day
+2021,152,NC State Wolfpack,2020-12-17,75.34833443,included_game_day
+2021,152,NC State Wolfpack,2020-12-19,83.764336987,included_game_day
+2021,152,NC State Wolfpack,2020-12-22,79.44795445829999,included_game_day
+2021,152,NC State Wolfpack,2020-12-30,67.70709733266999,included_game_day
+2021,152,NC State Wolfpack,2021-01-05,66.4185823196431,included_game_day
+2021,152,NC State Wolfpack,2021-01-09,52.915327313901706,included_game_day
+2021,152,NC State Wolfpack,2021-01-13,21.221510269518536,included_game_day
+2021,152,NC State Wolfpack,2021-01-23,16.2076419230201,included_game_day
+2021,152,NC State Wolfpack,2021-01-27,18.044420861601346,included_game_day
+2021,152,NC State Wolfpack,2021-01-31,21.902592249613747,included_game_day
+2021,152,NC State Wolfpack,2021-02-03,19.88874073706451,included_game_day
+2021,152,NC State Wolfpack,2021-02-06,35.290877658470514,included_game_day
+2021,152,NC State Wolfpack,2021-02-09,23.167499796097665,included_game_day
+2021,152,NC State Wolfpack,2021-02-13,4.973703806501497,included_game_day
+2021,152,NC State Wolfpack,2021-02-17,11.419336152426329,included_game_day
+2021,152,NC State Wolfpack,2021-02-20,29.809475416584,included_game_day
+2021,152,NC State Wolfpack,2021-02-24,45.713704871837486,included_game_day
+2021,152,NC State Wolfpack,2021-02-28,43.19896582616696,included_game_day
+2021,152,NC State Wolfpack,2021-03-03,55.74434948158324,included_game_day
+2021,152,NC State Wolfpack,2021-03-10,34.25281449484117,included_game_day
+2021,152,NC State Wolfpack,2021-03-18,52.43482984296656,included_game_day
+2021,152,NC State Wolfpack,2021-03-25,50.956167349074946,included_game_day
+2022,152,NC State Wolfpack,2021-11-09,15.0,included_game_day
+2022,152,NC State Wolfpack,2021-11-13,13.9,included_game_day
+2022,152,NC State Wolfpack,2021-11-16,20.663,included_game_day
+2022,152,NC State Wolfpack,2021-11-17,17.86257,included_game_day
+2022,152,NC State Wolfpack,2021-11-21,19.222413000000003,included_game_day
+2022,152,NC State Wolfpack,2021-11-27,24.032893700000002,included_game_day
+2022,152,NC State Wolfpack,2021-12-01,25.21440288,included_game_day
+2022,152,NC State Wolfpack,2021-12-04,17.982825452500002,included_game_day
+2022,152,NC State Wolfpack,2021-12-09,22.351241922910003,included_game_day
+2022,152,NC State Wolfpack,2021-12-12,23.337090357527003,included_game_day
+2022,152,NC State Wolfpack,2021-12-17,14.730458130124003,included_game_day
+2022,152,NC State Wolfpack,2021-12-21,-9.07901396296625,included_game_day
+2022,152,NC State Wolfpack,2021-12-29,-10.835549873455175,included_game_day
+2022,152,NC State Wolfpack,2022-01-01,-9.415276215865171,included_game_day
+2022,152,NC State Wolfpack,2022-01-04,10.58796037602533,included_game_day
+2022,152,NC State Wolfpack,2022-01-08,7.986002426444646,included_game_day
+2022,152,NC State Wolfpack,2022-01-12,29.78534631503865,included_game_day
+2022,152,NC State Wolfpack,2022-01-15,28.242751767688087,included_game_day
+2022,152,NC State Wolfpack,2022-01-19,28.144834159021745,included_game_day
+2022,152,NC State Wolfpack,2022-01-22,40.81840682430609,included_game_day
+2022,152,NC State Wolfpack,2022-01-26,38.630744245165346,included_game_day
+2022,152,NC State Wolfpack,2022-01-29,23.658376075760557,included_game_day
+2022,152,NC State Wolfpack,2022-02-02,16.95886645501649,included_game_day
+2022,152,NC State Wolfpack,2022-02-05,7.005942052277387,included_game_day
+2022,152,NC State Wolfpack,2022-02-09,-4.576064388603827,included_game_day
+2022,152,NC State Wolfpack,2022-02-12,-5.050797899514343,included_game_day
+2022,152,NC State Wolfpack,2022-02-15,13.649417417667355,included_game_day
+2022,152,NC State Wolfpack,2022-02-23,1.5512440503628717,included_game_day
+2022,152,NC State Wolfpack,2022-02-26,-4.9634237262513174,included_game_day
+2022,152,NC State Wolfpack,2022-03-02,-16.621487873151146,included_game_day
+2022,152,NC State Wolfpack,2022-03-05,-24.046348659783312,included_game_day
+2022,152,NC State Wolfpack,2022-03-08,-23.315839293762934,included_game_day
+2023,152,NC State Wolfpack,2022-11-07,46.0,included_game_day
+2023,152,NC State Wolfpack,2022-11-11,44.4,included_game_day
+2023,152,NC State Wolfpack,2022-11-15,70.75999999999999,included_game_day
+2023,152,NC State Wolfpack,2022-11-19,67.93276999999999,included_game_day
+2023,152,NC State Wolfpack,2022-11-23,59.52319299999999,included_game_day
+2023,152,NC State Wolfpack,2022-11-24,68.15449369999999,included_game_day
+2023,152,NC State Wolfpack,2022-11-25,82.33382153,included_game_day
+2023,152,NC State Wolfpack,2022-11-29,89.958794227,included_game_day
+2023,152,NC State Wolfpack,2022-12-02,74.37562729129999,included_game_day
+2023,152,NC State Wolfpack,2022-12-06,81.19878923716999,included_game_day
+2023,152,NC State Wolfpack,2022-12-10,75.793187498643,included_game_day
+2023,152,NC State Wolfpack,2022-12-13,86.4278637869752,included_game_day
+2023,152,NC State Wolfpack,2022-12-17,82.63804023777638,included_game_day
+2023,152,NC State Wolfpack,2022-12-22,73.92439231612067,included_game_day
+2023,152,NC State Wolfpack,2022-12-30,63.583786796506786,included_game_day
+2023,152,NC State Wolfpack,2023-01-04,86.96205382530654,included_game_day
+2023,152,NC State Wolfpack,2023-01-07,92.85670012591895,included_game_day
+2023,152,NC State Wolfpack,2023-01-14,89.5731089612909,included_game_day
+2023,152,NC State Wolfpack,2023-01-17,95.03242459019054,included_game_day
+2023,152,NC State Wolfpack,2023-01-21,85.98179101960463,included_game_day
+2023,152,NC State Wolfpack,2023-01-24,73.24849503744316,included_game_day
+2023,152,NC State Wolfpack,2023-01-28,77.26820637296112,included_game_day
+2023,152,NC State Wolfpack,2023-02-01,94.35214683457306,included_game_day
+2023,152,NC State Wolfpack,2023-02-04,82.0406179909715,included_game_day
+2023,152,NC State Wolfpack,2023-02-07,74.20684994964846,included_game_day
+2023,152,NC State Wolfpack,2023-02-11,100.31472858104566,included_game_day
+2023,152,NC State Wolfpack,2023-02-14,95.89834719378968,included_game_day
+2023,152,NC State Wolfpack,2023-02-19,100.00086780362855,included_game_day
+2023,152,NC State Wolfpack,2023-02-22,109.30625421754505,included_game_day
+2023,152,NC State Wolfpack,2023-02-25,77.19353484280882,included_game_day
+2023,152,NC State Wolfpack,2023-02-28,78.52807495520094,included_game_day
+2023,152,NC State Wolfpack,2023-03-08,96.3627705417602,included_game_day
+2023,152,NC State Wolfpack,2023-03-09,71.07700987206778,included_game_day
+2023,152,NC State Wolfpack,2023-03-17,66.92732633993033,included_game_day
+2024,152,NC State Wolfpack,2023-11-06,10.0,included_game_day
+2024,152,NC State Wolfpack,2023-11-10,26.8,included_game_day
+2024,152,NC State Wolfpack,2023-11-17,53.72,included_game_day
+2024,152,NC State Wolfpack,2023-11-23,53.876799999999996,included_game_day
+2024,152,NC State Wolfpack,2023-11-24,52.962953999999996,included_game_day
+2024,152,NC State Wolfpack,2023-11-28,31.285848599999994,included_game_day
+2024,152,NC State Wolfpack,2023-12-02,40.705024609999995,included_game_day
+2024,152,NC State Wolfpack,2023-12-06,58.198154554999995,included_game_day
+2024,152,NC State Wolfpack,2023-12-12,61.10710314239999,included_game_day
+2024,152,NC State Wolfpack,2023-12-16,53.9048921555551,included_game_day
+2024,152,NC State Wolfpack,2023-12-20,54.87171637771699,included_game_day
+2024,152,NC State Wolfpack,2023-12-23,52.51131807147365,included_game_day
+2024,152,NC State Wolfpack,2024-01-03,52.38547712493045,included_game_day
+2024,152,NC State Wolfpack,2024-01-06,65.30672274575628,included_game_day
+2024,152,NC State Wolfpack,2024-01-10,56.526444764404765,included_game_day
+2024,152,NC State Wolfpack,2024-01-13,58.203673592106846,included_game_day
+2024,152,NC State Wolfpack,2024-01-16,67.33048859624719,included_game_day
+2024,152,NC State Wolfpack,2024-01-20,56.49749569618377,included_game_day
+2024,152,NC State Wolfpack,2024-01-24,52.57874556666272,included_game_day
+2024,152,NC State Wolfpack,2024-01-27,41.31422198595391,included_game_day
+2024,152,NC State Wolfpack,2024-01-30,47.66884063444203,included_game_day
+2024,152,NC State Wolfpack,2024-02-03,46.696496449011505,included_game_day
+2024,152,NC State Wolfpack,2024-02-07,43.2323815120893,included_game_day
+2024,152,NC State Wolfpack,2024-02-10,51.46129432519515,included_game_day
+2024,152,NC State Wolfpack,2024-02-17,60.7725084235296,included_game_day
+2024,152,NC State Wolfpack,2024-02-20,49.790856354146385,included_game_day
+2024,152,NC State Wolfpack,2024-02-24,57.19127830305036,included_game_day
+2024,152,NC State Wolfpack,2024-02-27,52.1147118147874,included_game_day
+2024,152,NC State Wolfpack,2024-03-02,53.288921614288355,included_game_day
+2024,152,NC State Wolfpack,2024-03-04,46.99842826604994,included_game_day
+2024,152,NC State Wolfpack,2024-03-09,48.81186846244289,included_game_day
+2024,152,NC State Wolfpack,2024-03-12,47.5983145246992,included_game_day
+2024,152,NC State Wolfpack,2024-03-13,64.75057174954358,included_game_day
+2024,152,NC State Wolfpack,2024-03-14,79.83193978921939,included_game_day
+2024,152,NC State Wolfpack,2024-03-15,85.3799822462842,included_game_day
+2024,152,NC State Wolfpack,2024-03-16,102.18690218154914,included_game_day
+2024,152,NC State Wolfpack,2024-03-21,117.75549865081086,included_game_day
+2024,152,NC State Wolfpack,2024-03-23,117.07039531293265,included_game_day
+2024,152,NC State Wolfpack,2024-03-29,128.57463296339,included_game_day
+2024,152,NC State Wolfpack,2024-03-31,147.46467214813876,included_game_day
+2024,152,NC State Wolfpack,2024-04-06,140.87850077858133,included_game_day
+2025,152,NC State Wolfpack,2024-11-04,28.0,included_game_day
+2025,152,NC State Wolfpack,2024-11-08,30.6,included_game_day
+2025,152,NC State Wolfpack,2024-11-13,36.53,included_game_day
+2025,152,NC State Wolfpack,2024-11-18,51.727000000000004,included_game_day
+2025,152,NC State Wolfpack,2024-11-22,67.798468,included_game_day
+2025,152,NC State Wolfpack,2024-11-28,56.9179192,included_game_day
+2025,152,NC State Wolfpack,2024-11-29,48.89312981,included_game_day
+2025,152,NC State Wolfpack,2024-12-04,46.078481009,included_game_day
+2025,152,NC State Wolfpack,2024-12-07,56.3708094439,included_game_day
+2025,152,NC State Wolfpack,2024-12-10,43.74077501821,included_game_day
+2025,152,NC State Wolfpack,2024-12-14,35.003045968781,included_game_day
+2025,152,NC State Wolfpack,2024-12-22,46.76073334862127,included_game_day
+2025,152,NC State Wolfpack,2024-12-31,43.40341481588767,included_game_day
+2025,152,NC State Wolfpack,2025-01-04,27.91112699101493,included_game_day
+2025,152,NC State Wolfpack,2025-01-08,26.30523899972907,included_game_day
+2025,152,NC State Wolfpack,2025-01-11,26.415407264005502,included_game_day
+2025,152,NC State Wolfpack,2025-01-15,22.85977732774861,included_game_day
+2025,152,NC State Wolfpack,2025-01-18,14.206718421190065,included_game_day
+2025,152,NC State Wolfpack,2025-01-25,13.18177968169892,included_game_day
+2025,152,NC State Wolfpack,2025-01-27,25.558735951293077,included_game_day
+2025,152,NC State Wolfpack,2025-02-01,21.790898986380782,included_game_day
+2025,152,NC State Wolfpack,2025-02-05,10.341280615749758,included_game_day
+2025,152,NC State Wolfpack,2025-02-08,16.041614332505507,included_game_day
+2025,152,NC State Wolfpack,2025-02-12,-0.7014768648155858,included_game_day
+2025,152,NC State Wolfpack,2025-02-15,-0.7251809515316179,included_game_day
+2025,152,NC State Wolfpack,2025-02-19,-16.032106934324595,included_game_day
+2025,152,NC State Wolfpack,2025-02-22,4.100683156983141,included_game_day
+2025,152,NC State Wolfpack,2025-02-26,-8.52427536046467,included_game_day
+2025,152,NC State Wolfpack,2025-03-01,-26.756150616874486,included_game_day
+2025,152,NC State Wolfpack,2025-03-05,-15.883796425730479,included_game_day
+2025,152,NC State Wolfpack,2025-03-08,-19.63820911925943,included_game_day
+2026,152,NC State Wolfpack,2025-11-03,45.0,included_game_day
+2026,152,NC State Wolfpack,2025-11-07,66.3,included_game_day
+2026,152,NC State Wolfpack,2025-11-12,99.83,included_game_day
+2026,152,NC State Wolfpack,2025-11-17,95.902,included_game_day
+2026,152,NC State Wolfpack,2025-11-24,80.928599,included_game_day
+2026,152,NC State Wolfpack,2025-11-25,87.411427886,included_game_day
+2026,152,NC State Wolfpack,2025-11-26,80.3301034974,included_game_day
+2026,152,NC State Wolfpack,2025-12-03,72.88710455126001,included_game_day
+2026,152,NC State Wolfpack,2025-12-06,72.87614811873401,included_game_day
+2026,152,NC State Wolfpack,2025-12-10,106.63394712871062,included_game_day
+2026,152,NC State Wolfpack,2025-12-13,102.27594662336955,included_game_day
+2026,152,NC State Wolfpack,2025-12-17,113.27117543674443,included_game_day
+2026,152,NC State Wolfpack,2025-12-21,120.66763152682577,included_game_day
+2026,152,NC State Wolfpack,2025-12-31,123.82869019916136,included_game_day
+2026,152,NC State Wolfpack,2026-01-03,106.27343027511635,included_game_day
+2026,152,NC State Wolfpack,2026-01-06,106.56307121004463,included_game_day
+2026,152,NC State Wolfpack,2026-01-10,146.5117743057673,included_game_day
+2026,152,NC State Wolfpack,2026-01-17,125.91785041797246,included_game_day
+2026,152,NC State Wolfpack,2026-01-20,134.26318776010365,included_game_day
+2026,152,NC State Wolfpack,2026-01-24,136.09271146574068,included_game_day
+2026,152,NC State Wolfpack,2026-01-27,144.81561906377445,included_game_day
+2026,152,NC State Wolfpack,2026-01-31,155.76855467474127,included_game_day
+2026,152,NC State Wolfpack,2026-02-03,155.12745401642337,included_game_day
+2026,152,NC State Wolfpack,2026-02-07,153.6660718075716,included_game_day
+2026,152,NC State Wolfpack,2026-02-09,115.30740233224071,included_game_day
+2026,152,NC State Wolfpack,2026-02-14,111.71977006626398,included_game_day
+2026,152,NC State Wolfpack,2026-02-17,135.1590943981879,included_game_day
+2026,152,NC State Wolfpack,2026-02-24,111.29696361096981,included_game_day
+2026,152,NC State Wolfpack,2026-02-28,97.93391881837705,included_game_day
+2026,152,NC State Wolfpack,2026-03-02,84.42990455762873,included_game_day
+2026,152,NC State Wolfpack,2026-03-07,80.77632743673013,included_game_day
+2026,152,NC State Wolfpack,2026-03-11,88.11341350408544,included_game_day
+2026,152,NC State Wolfpack,2026-03-12,87.37250393060143,included_game_day
+2026,152,NC State Wolfpack,2026-03-17,85.37356047900035,included_game_day
+2027,152,NC State Wolfpack,2026-11-02,16.0,included_game_day
+2027,152,NC State Wolfpack,2026-11-06,24.7,included_game_day
+2027,152,NC State Wolfpack,2026-11-10,51.18,included_game_day
+2027,152,NC State Wolfpack,2026-11-13,59.689,included_game_day
+2027,152,NC State Wolfpack,2026-11-19,71.64823,included_game_day
+2027,152,NC State Wolfpack,2026-11-20,61.930754,included_game_day

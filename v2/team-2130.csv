@@ -1,0 +1,1077 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,2130,Chicago St,1987-11-27,-10.0,included_game_day
+1988,2130,Chicago St,1987-12-02,-32.751000000000005,included_game_day
+1988,2130,Chicago St,1987-12-04,-42.38590000000001,included_game_day
+1988,2130,Chicago St,1987-12-05,-15.610310000000005,included_game_day
+1988,2130,Chicago St,1987-12-07,-33.479279000000005,included_game_day
+1988,2130,Chicago St,1987-12-11,-24.177251100000007,included_game_day
+1988,2130,Chicago St,1987-12-12,-44.82439439000001,included_game_day
+1988,2130,Chicago St,1987-12-15,-55.94025795100001,included_game_day
+1988,2130,Chicago St,1987-12-17,-48.03839915590001,included_game_day
+1988,2130,Chicago St,1987-12-19,-17.93011201077001,included_game_day
+1988,2130,Chicago St,1988-01-02,-15.965913548674198,included_game_day
+1988,2130,Chicago St,1988-01-04,-15.003595833556778,included_game_day
+1988,2130,Chicago St,1988-01-07,-34.954843559734,included_game_day
+1988,2130,Chicago St,1988-01-09,-46.15294208399865,included_game_day
+1988,2130,Chicago St,1988-01-13,-44.98642945615972,included_game_day
+1988,2130,Chicago St,1988-01-18,-53.15342252884257,included_game_day
+1988,2130,Chicago St,1988-01-20,-61.61756917315877,included_game_day
+1988,2130,Chicago St,1988-01-25,-60.58253889243772,included_game_day
+1988,2130,Chicago St,1988-01-28,-63.566398660383,included_game_day
+1988,2130,Chicago St,1988-02-03,-65.73352778403945,included_game_day
+1988,2130,Chicago St,1988-02-10,-70.75385951062208,included_game_day
+1988,2130,Chicago St,1988-02-13,-59.95184505549183,included_game_day
+1988,2130,Chicago St,1988-02-20,-62.44524423738553,included_game_day
+1988,2130,Chicago St,1988-02-22,-64.9111582273919,included_game_day
+1988,2130,Chicago St,1988-02-27,-63.717389804458676,included_game_day
+1988,2130,Chicago St,1988-03-05,-63.26501589064708,included_game_day
+1989,2130,Chicago St,1988-11-25,-19.0,included_game_day
+1989,2130,Chicago St,1988-11-27,-22.1,included_game_day
+1989,2130,Chicago St,1988-12-03,-39.55,included_game_day
+1989,2130,Chicago St,1988-12-10,-31.618999999999996,included_game_day
+1989,2130,Chicago St,1988-12-15,-41.242366739999994,included_game_day
+1989,2130,Chicago St,1988-12-19,-56.475963114207,included_game_day
+1989,2130,Chicago St,1988-12-27,-56.42694207433008,included_game_day
+1989,2130,Chicago St,1988-12-28,-63.61221609554143,included_game_day
+1989,2130,Chicago St,1988-12-29,-47.40082604943407,included_game_day
+1989,2130,Chicago St,1989-01-02,-40.63604793815887,included_game_day
+1989,2130,Chicago St,1989-01-05,-63.73553126185875,included_game_day
+1989,2130,Chicago St,1989-01-11,-60.43044207389341,included_game_day
+1989,2130,Chicago St,1989-01-14,-57.66599765262382,included_game_day
+1989,2130,Chicago St,1989-01-16,-61.468301542700004,included_game_day
+1989,2130,Chicago St,1989-01-21,-65.08283179606869,included_game_day
+1989,2130,Chicago St,1989-01-23,-77.04597127206776,included_game_day
+1989,2130,Chicago St,1989-01-28,-63.296021806765985,included_game_day
+1989,2130,Chicago St,1989-02-06,-51.91716161601725,included_game_day
+1989,2130,Chicago St,1989-02-11,-58.959800597971295,included_game_day
+1989,2130,Chicago St,1989-02-20,-59.307788022896894,included_game_day
+1989,2130,Chicago St,1989-02-23,-62.84007252635763,included_game_day
+1989,2130,Chicago St,1989-02-27,-60.5475132672053,included_game_day
+1989,2130,Chicago St,1989-03-01,-61.40783711808571,included_game_day
+1989,2130,Chicago St,1989-03-06,-71.25070128134064,included_game_day
+1990,2130,Chicago St,1989-11-26,-16.0,included_game_day
+1990,2130,Chicago St,1989-11-28,-34.3,included_game_day
+1990,2130,Chicago St,1989-12-02,-46.58,included_game_day
+1990,2130,Chicago St,1989-12-04,-48.3495,included_game_day
+1990,2130,Chicago St,1989-12-09,-49.8203,included_game_day
+1990,2130,Chicago St,1989-12-11,-60.7584292,included_game_day
+1990,2130,Chicago St,1989-12-16,-67.67583494,included_game_day
+1990,2130,Chicago St,1989-12-20,-89.07241269400001,included_game_day
+1990,2130,Chicago St,1989-12-28,-95.02092224226699,included_game_day
+1990,2130,Chicago St,1989-12-30,-91.86651119638249,included_game_day
+1990,2130,Chicago St,1990-01-03,-84.95973331253268,included_game_day
+1990,2130,Chicago St,1990-01-06,-78.63806881165468,included_game_day
+1990,2130,Chicago St,1990-01-10,-89.55559429948467,included_game_day
+1990,2130,Chicago St,1990-01-13,-94.96040254025641,included_game_day
+1990,2130,Chicago St,1990-01-16,-116.27374143733918,included_game_day
+1990,2130,Chicago St,1990-01-20,-99.36196868974834,included_game_day
+1990,2130,Chicago St,1990-01-22,-90.70740544238521,included_game_day
+1990,2130,Chicago St,1990-01-30,-104.84552461225901,included_game_day
+1990,2130,Chicago St,1990-02-02,-100.8271433898276,included_game_day
+1990,2130,Chicago St,1990-02-05,-90.83307024072656,included_game_day
+1990,2130,Chicago St,1990-02-08,-96.11669497389089,included_game_day
+1990,2130,Chicago St,1990-02-12,-93.93801943720513,included_game_day
+1990,2130,Chicago St,1990-02-19,-105.35132842873298,included_game_day
+1990,2130,Chicago St,1990-02-24,-102.24740397012863,included_game_day
+1990,2130,Chicago St,1990-03-03,-109.76471259404762,included_game_day
+1990,2130,Chicago St,1990-03-07,-98.91324490424442,included_game_day
+1991,2130,Chicago St,1990-11-24,-38.0,included_game_day
+1991,2130,Chicago St,1990-11-26,-35.1,included_game_day
+1991,2130,Chicago St,1990-12-04,-56.06778,included_game_day
+1991,2130,Chicago St,1990-12-06,-71.651002,included_game_day
+1991,2130,Chicago St,1990-12-08,-108.33520180000001,included_game_day
+1991,2130,Chicago St,1990-12-12,-115.186549579,included_game_day
+1991,2130,Chicago St,1990-12-18,-122.0146760571,included_game_day
+1991,2130,Chicago St,1990-12-22,-131.4658224295577,included_game_day
+1991,2130,Chicago St,1990-12-27,-137.03343270032573,included_game_day
+1991,2130,Chicago St,1990-12-29,-149.16691015350116,included_game_day
+1991,2130,Chicago St,1991-01-05,-141.2363666777281,included_game_day
+1991,2130,Chicago St,1991-01-09,-142.01013239339517,included_game_day
+1991,2130,Chicago St,1991-01-12,-148.1587332229669,included_game_day
+1991,2130,Chicago St,1991-01-16,-144.12528436242502,included_game_day
+1991,2130,Chicago St,1991-01-19,-141.59541208749738,included_game_day
+1991,2130,Chicago St,1991-01-21,-131.66163083542003,included_game_day
+1991,2130,Chicago St,1991-01-23,-132.10864112398423,included_game_day
+1991,2130,Chicago St,1991-01-30,-158.45457294856638,included_game_day
+1991,2130,Chicago St,1991-02-04,-146.7900481611128,included_game_day
+1991,2130,Chicago St,1991-02-09,-139.8328660178851,included_game_day
+1991,2130,Chicago St,1991-02-16,-156.07257559784657,included_game_day
+1991,2130,Chicago St,1991-02-20,-170.53617204429895,included_game_day
+1991,2130,Chicago St,1991-02-23,-163.94669921368447,included_game_day
+1991,2130,Chicago St,1991-02-26,-153.32163215761508,included_game_day
+1991,2130,Chicago St,1991-03-02,-152.463882462436,included_game_day
+1991,2130,Chicago St,1991-03-04,-166.3836475788923,included_game_day
+1992,2130,Chicago St,1991-11-23,4.0,included_game_day
+1992,2130,Chicago St,1991-11-26,-7.1,included_game_day
+1992,2130,Chicago St,1991-11-30,-72.39,included_game_day
+1992,2130,Chicago St,1991-12-04,-79.151,included_game_day
+1992,2130,Chicago St,1991-12-07,-74.6747855,included_game_day
+1992,2130,Chicago St,1991-12-09,-109.46494195,included_game_day
+1992,2130,Chicago St,1991-12-21,-106.26459584759999,included_game_day
+1992,2130,Chicago St,1991-12-23,-112.00854279433999,included_game_day
+1992,2130,Chicago St,1991-12-28,-105.90163278357285,included_game_day
+1992,2130,Chicago St,1991-12-30,-97.76477684741556,included_game_day
+1992,2130,Chicago St,1992-01-02,-111.84488895627847,included_game_day
+1992,2130,Chicago St,1992-01-06,-110.68032222585339,included_game_day
+1992,2130,Chicago St,1992-01-13,-106.10333785958218,included_game_day
+1992,2130,Chicago St,1992-01-15,-109.00832825231146,included_game_day
+1992,2130,Chicago St,1992-01-22,-131.80817287001508,included_game_day
+1992,2130,Chicago St,1992-01-27,-140.46344886956797,included_game_day
+1992,2130,Chicago St,1992-02-01,-144.41529322717685,included_game_day
+1992,2130,Chicago St,1992-02-03,-145.77477707319542,included_game_day
+1992,2130,Chicago St,1992-02-08,-140.3580546667315,included_game_day
+1992,2130,Chicago St,1992-02-10,-127.57941651188573,included_game_day
+1992,2130,Chicago St,1992-02-13,-123.61109169073217,included_game_day
+1992,2130,Chicago St,1992-02-17,-127.36394070884151,included_game_day
+1992,2130,Chicago St,1992-02-20,-139.300914239363,included_game_day
+1992,2130,Chicago St,1992-02-24,-170.37889273680628,included_game_day
+1992,2130,Chicago St,1992-02-27,-149.22971237148113,included_game_day
+1993,2130,Chicago St,1992-12-01,-32.0,included_game_day
+1993,2130,Chicago St,1992-12-03,-50.8,included_game_day
+1993,2130,Chicago St,1992-12-05,-67.705,included_game_day
+1993,2130,Chicago St,1992-12-07,-74.7615,included_game_day
+1993,2130,Chicago St,1992-12-14,-69.004434,included_game_day
+1993,2130,Chicago St,1992-12-19,-85.99509660000001,included_game_day
+1993,2130,Chicago St,1992-12-23,-83.86924502500001,included_game_day
+1993,2130,Chicago St,1992-12-28,-92.3262670225,included_game_day
+1993,2130,Chicago St,1992-12-30,-87.20488972125,included_game_day
+1993,2130,Chicago St,1993-01-02,-65.133377829125,included_game_day
+1993,2130,Chicago St,1993-01-04,-79.9715254761833,included_game_day
+1993,2130,Chicago St,1993-01-06,-108.48410193228979,included_game_day
+1993,2130,Chicago St,1993-01-09,-112.1391871128395,included_game_day
+1993,2130,Chicago St,1993-01-13,-135.10623157678222,included_game_day
+1993,2130,Chicago St,1993-01-16,-151.45022254025082,included_game_day
+1993,2130,Chicago St,1993-01-19,-179.18936831301443,included_game_day
+1993,2130,Chicago St,1993-01-25,-217.94301395447658,included_game_day
+1993,2130,Chicago St,1993-01-30,-207.6400791386891,included_game_day
+1993,2130,Chicago St,1993-02-01,-206.48871268763742,included_game_day
+1993,2130,Chicago St,1993-02-03,-197.26511071287314,included_game_day
+1993,2130,Chicago St,1993-02-08,-170.14666874860416,included_game_day
+1993,2130,Chicago St,1993-02-10,-197.36491179689662,included_game_day
+1993,2130,Chicago St,1993-02-13,-196.10418622437737,included_game_day
+1993,2130,Chicago St,1993-02-20,-178.88242422597736,included_game_day
+1993,2130,Chicago St,1993-02-24,-182.73320140075973,included_game_day
+1993,2130,Chicago St,1993-02-27,-192.7741407086435,included_game_day
+1994,2130,Chicago St,1993-11-27,-23.0,included_game_day
+1994,2130,Chicago St,1993-12-01,-39.7,included_game_day
+1994,2130,Chicago St,1993-12-04,-53.93000000000001,included_game_day
+1994,2130,Chicago St,1993-12-06,-76.9278,included_game_day
+1994,2130,Chicago St,1993-12-08,-88.68584000000001,included_game_day
+1994,2130,Chicago St,1993-12-11,-101.29107800000001,included_game_day
+1994,2130,Chicago St,1993-12-18,-150.168696919,included_game_day
+1994,2130,Chicago St,1993-12-20,-116.53260311710001,included_game_day
+1994,2130,Chicago St,1993-12-22,-130.52598324669,included_game_day
+1994,2130,Chicago St,1993-12-27,-154.463531671021,included_game_day
+1994,2130,Chicago St,1993-12-30,-150.7376503273899,included_game_day
+1994,2130,Chicago St,1994-01-02,-164.27785200961313,included_game_day
+1994,2130,Chicago St,1994-01-05,-191.98620305290171,included_game_day
+1994,2130,Chicago St,1994-01-13,-189.12471871161367,included_game_day
+1994,2130,Chicago St,1994-01-18,-190.10499115132674,included_game_day
+1994,2130,Chicago St,1994-01-22,-178.85451832604895,included_game_day
+1994,2130,Chicago St,1994-01-31,-173.73795467771694,included_game_day
+1994,2130,Chicago St,1994-02-02,-165.93120732079214,included_game_day
+1994,2130,Chicago St,1994-02-07,-161.22173361837463,included_game_day
+1994,2130,Chicago St,1994-02-12,-164.28111931372754,included_game_day
+1994,2130,Chicago St,1994-02-17,-144.37476256229746,included_game_day
+1994,2130,Chicago St,1994-02-21,-146.28340044991137,included_game_day
+1994,2130,Chicago St,1994-02-24,-152.4030644754003,included_game_day
+1994,2130,Chicago St,1994-02-26,-151.90047493039665,included_game_day
+1994,2130,Chicago St,1994-03-02,-179.82457533969608,included_game_day
+1994,2130,Chicago St,1994-03-04,-183.56489984385266,included_game_day
+1995,2130,Chicago St,1994-11-26,-31.0,included_game_day
+1995,2130,Chicago St,1994-11-29,-39.1,included_game_day
+1995,2130,Chicago St,1994-12-01,-60.21,included_game_day
+1995,2130,Chicago St,1994-12-08,-58.07602,included_game_day
+1995,2130,Chicago St,1994-12-17,-78.35260099999999,included_game_day
+1995,2130,Chicago St,1994-12-20,-133.6931529,included_game_day
+1995,2130,Chicago St,1994-12-27,-157.4990860714,included_game_day
+1995,2130,Chicago St,1994-12-29,-152.2697550727254,included_game_day
+1995,2130,Chicago St,1995-01-03,-142.7744997463511,included_game_day
+1995,2130,Chicago St,1995-01-05,-120.58453360682299,included_game_day
+1995,2130,Chicago St,1995-01-07,-108.96668411085417,included_game_day
+1995,2130,Chicago St,1995-01-09,-131.79912904117091,included_game_day
+1995,2130,Chicago St,1995-01-14,-142.63944291622659,included_game_day
+1995,2130,Chicago St,1995-01-16,-153.43287256274553,included_game_day
+1995,2130,Chicago St,1995-01-21,-152.88540182715343,included_game_day
+1995,2130,Chicago St,1995-01-23,-145.69554433693497,included_game_day
+1995,2130,Chicago St,1995-01-28,-132.70588222299858,included_game_day
+1995,2130,Chicago St,1995-01-30,-144.7643102861344,included_game_day
+1995,2130,Chicago St,1995-02-04,-125.91946086372593,included_game_day
+1995,2130,Chicago St,1995-02-06,-120.05376021841668,included_game_day
+1995,2130,Chicago St,1995-02-11,-127.30741197423049,included_game_day
+1995,2130,Chicago St,1995-02-13,-125.81073572679158,included_game_day
+1995,2130,Chicago St,1995-02-18,-131.56677056394616,included_game_day
+1995,2130,Chicago St,1995-02-20,-149.38138772061356,included_game_day
+1995,2130,Chicago St,1995-02-25,-134.58317480508794,included_game_day
+1995,2130,Chicago St,1995-02-27,-122.53926142212842,included_game_day
+1996,2130,Chicago St,1995-11-25,-20.0,included_game_day
+1996,2130,Chicago St,1995-11-28,-57.0,included_game_day
+1996,2130,Chicago St,1995-12-02,-116.31700000000001,included_game_day
+1996,2130,Chicago St,1995-12-07,-146.24573,included_game_day
+1996,2130,Chicago St,1995-12-19,-159.7977827,included_game_day
+1996,2130,Chicago St,1995-12-23,-167.86314763000001,included_game_day
+1996,2130,Chicago St,1995-12-27,-186.3332461944567,included_game_day
+1996,2130,Chicago St,1995-12-29,-194.94016424753073,included_game_day
+1996,2130,Chicago St,1996-01-02,-192.28447554573182,included_game_day
+1996,2130,Chicago St,1996-01-04,-201.26801452508363,included_game_day
+1996,2130,Chicago St,1996-01-06,-199.3039714562576,included_game_day
+1996,2130,Chicago St,1996-01-08,-155.00010327278576,included_game_day
+1996,2130,Chicago St,1996-01-13,-146.79505472279925,included_game_day
+1996,2130,Chicago St,1996-01-15,-160.62857515806473,included_game_day
+1996,2130,Chicago St,1996-01-20,-139.65739470478735,included_game_day
+1996,2130,Chicago St,1996-01-22,-142.44396376557123,included_game_day
+1996,2130,Chicago St,1996-01-29,-148.4928097178501,included_game_day
+1996,2130,Chicago St,1996-02-05,-190.11631223743217,included_game_day
+1996,2130,Chicago St,1996-02-08,-186.71931057622538,included_game_day
+1996,2130,Chicago St,1996-02-10,-187.1530418286183,included_game_day
+1996,2130,Chicago St,1996-02-12,-184.95260068163088,included_game_day
+1996,2130,Chicago St,1996-02-17,-191.6893798062089,included_game_day
+1996,2130,Chicago St,1996-02-19,-201.30733091939467,included_game_day
+1996,2130,Chicago St,1996-02-24,-211.3821845551656,included_game_day
+1996,2130,Chicago St,1996-02-26,-215.71427646217725,included_game_day
+1996,2130,Chicago St,1996-02-28,-212.39848430780265,included_game_day
+1996,2130,Chicago St,1996-03-03,-227.74585058430296,included_game_day
+1997,2130,Chicago St,1996-11-23,-27.0,included_game_day
+1997,2130,Chicago St,1996-11-30,-43.3,included_game_day
+1997,2130,Chicago St,1996-12-02,-81.25049999999999,included_game_day
+1997,2130,Chicago St,1996-12-04,-98.05245,included_game_day
+1997,2130,Chicago St,1996-12-07,-99.562035,included_game_day
+1997,2130,Chicago St,1996-12-11,-116.44277466,included_game_day
+1997,2130,Chicago St,1996-12-18,-110.043701964,included_game_day
+1997,2130,Chicago St,1996-12-21,-113.5754739224,included_game_day
+1997,2130,Chicago St,1996-12-23,-143.37381281774,included_game_day
+1997,2130,Chicago St,1996-12-27,-143.4512054628804,included_game_day
+1997,2130,Chicago St,1997-01-02,-132.70943213446736,included_game_day
+1997,2130,Chicago St,1997-01-08,-107.67806999203401,included_game_day
+1997,2130,Chicago St,1997-01-11,-134.18344269371119,included_game_day
+1997,2130,Chicago St,1997-01-14,-134.76976041951835,included_game_day
+1997,2130,Chicago St,1997-01-18,-129.1306034474467,included_game_day
+1997,2130,Chicago St,1997-01-20,-132.27235078954422,included_game_day
+1997,2130,Chicago St,1997-01-25,-134.87393427948814,included_game_day
+1997,2130,Chicago St,1997-01-27,-139.12764614889358,included_game_day
+1997,2130,Chicago St,1997-02-01,-124.18877183892468,included_game_day
+1997,2130,Chicago St,1997-02-06,-132.85738859461665,included_game_day
+1997,2130,Chicago St,1997-02-08,-124.40390969508357,included_game_day
+1997,2130,Chicago St,1997-02-10,-135.96405786393808,included_game_day
+1997,2130,Chicago St,1997-02-12,-108.64768461061755,included_game_day
+1997,2130,Chicago St,1997-02-15,-94.6351618086388,included_game_day
+1997,2130,Chicago St,1997-02-17,-115.80681925379523,included_game_day
+1997,2130,Chicago St,1997-02-22,-143.21596862417783,included_game_day
+1997,2130,Chicago St,1997-03-02,-150.758828071019,included_game_day
+1998,2130,Chicago St,1997-11-14,-42.0,included_game_day
+1998,2130,Chicago St,1997-11-18,-60.8,included_game_day
+1998,2130,Chicago St,1997-11-20,-55.22,included_game_day
+1998,2130,Chicago St,1997-11-22,-54.004,included_game_day
+1998,2130,Chicago St,1997-11-25,-93.7036,included_game_day
+1998,2130,Chicago St,1997-11-29,-101.11734,included_game_day
+1998,2130,Chicago St,1997-12-01,-134.6660343,included_game_day
+1998,2130,Chicago St,1997-12-03,-156.77692087,included_game_day
+1998,2130,Chicago St,1997-12-06,-150.660624013,included_game_day
+1998,2130,Chicago St,1997-12-17,-170.36359048629998,included_game_day
+1998,2130,Chicago St,1997-12-21,-182.392995934055,included_game_day
+1998,2130,Chicago St,1998-01-03,-181.9636068833374,included_game_day
+1998,2130,Chicago St,1998-01-05,-185.26746844981864,included_game_day
+1998,2130,Chicago St,1998-01-08,-186.73359464602288,included_game_day
+1998,2130,Chicago St,1998-01-10,-169.144666990081,included_game_day
+1998,2130,Chicago St,1998-01-15,-172.2825792084578,included_game_day
+1998,2130,Chicago St,1998-01-22,-162.2354099507531,included_game_day
+1998,2130,Chicago St,1998-01-24,-190.35265193456522,included_game_day
+1998,2130,Chicago St,1998-01-27,-204.96473904467632,included_game_day
+1998,2130,Chicago St,1998-01-29,-191.36398793102362,included_game_day
+1998,2130,Chicago St,1998-01-31,-204.83073265738537,included_game_day
+1998,2130,Chicago St,1998-02-05,-209.28738258846457,included_game_day
+1998,2130,Chicago St,1998-02-07,-200.7077975753232,included_game_day
+1998,2130,Chicago St,1998-02-11,-208.72591284492324,included_game_day
+1998,2130,Chicago St,1998-02-19,-218.9032797445122,included_game_day
+1998,2130,Chicago St,1998-02-21,-228.7859891573852,included_game_day
+1998,2130,Chicago St,1998-02-24,-216.44458732011555,included_game_day
+1999,2130,Chicago St,1998-11-14,-14.0,included_game_day
+1999,2130,Chicago St,1998-11-17,-32.0,included_game_day
+1999,2130,Chicago St,1998-11-21,-64.97999999999999,included_game_day
+1999,2130,Chicago St,1998-11-23,-86.482,included_game_day
+1999,2130,Chicago St,1998-11-28,-80.9338,included_game_day
+1999,2130,Chicago St,1998-12-01,-110.22699800000001,included_game_day
+1999,2130,Chicago St,1998-12-18,-126.95215533000001,included_game_day
+1999,2130,Chicago St,1998-12-19,-153.03736452936002,included_game_day
+1999,2130,Chicago St,1998-12-22,-153.8622897163976,included_game_day
+1999,2130,Chicago St,1998-12-23,-177.50491725828644,included_game_day
+1999,2130,Chicago St,1998-12-28,-177.93643683250855,included_game_day
+1999,2130,Chicago St,1999-01-02,-175.04662908919613,included_game_day
+1999,2130,Chicago St,1999-01-04,-169.44848037628392,included_game_day
+1999,2130,Chicago St,1999-01-07,-160.67960292616826,included_game_day
+1999,2130,Chicago St,1999-01-14,-141.57775962011013,included_game_day
+1999,2130,Chicago St,1999-01-16,-134.0326031321013,included_game_day
+1999,2130,Chicago St,1999-01-21,-156.1443119354548,included_game_day
+1999,2130,Chicago St,1999-01-23,-153.4433831813033,included_game_day
+1999,2130,Chicago St,1999-01-28,-148.00387907043154,included_game_day
+1999,2130,Chicago St,1999-01-30,-149.15626664767706,included_game_day
+1999,2130,Chicago St,1999-02-04,-142.25645209128967,included_game_day
+1999,2130,Chicago St,1999-02-11,-148.87312688738575,included_game_day
+1999,2130,Chicago St,1999-02-18,-170.70163108837863,included_game_day
+1999,2130,Chicago St,1999-02-20,-178.9905899606666,included_game_day
+1999,2130,Chicago St,1999-02-28,-193.73403217474532,included_game_day
+2000,2130,Chicago St,1999-11-20,-16.0,included_game_day
+2000,2130,Chicago St,1999-11-23,-19.4,included_game_day
+2000,2130,Chicago St,1999-11-27,-16.459999999999997,included_game_day
+2000,2130,Chicago St,1999-12-01,-53.93164,included_game_day
+2000,2130,Chicago St,1999-12-07,-43.98214288,included_game_day
+2000,2130,Chicago St,1999-12-18,-56.380425567399996,included_game_day
+2000,2130,Chicago St,1999-12-22,-71.13632205507,included_game_day
+2000,2130,Chicago St,1999-12-28,-71.2016276087945,included_game_day
+2000,2130,Chicago St,2000-01-03,-52.71070378358447,included_game_day
+2000,2130,Chicago St,2000-01-06,-54.49531550091177,included_game_day
+2000,2130,Chicago St,2000-01-08,-51.10657082540796,included_game_day
+2000,2130,Chicago St,2000-01-13,-47.39490095199604,included_game_day
+2000,2130,Chicago St,2000-01-15,-37.88280923203904,included_game_day
+2000,2130,Chicago St,2000-01-18,-39.32798763423809,included_game_day
+2000,2130,Chicago St,2000-01-20,-39.085320477076706,included_game_day
+2000,2130,Chicago St,2000-01-22,-55.71574229186371,included_game_day
+2000,2130,Chicago St,2000-01-27,-79.75250205634329,included_game_day
+2000,2130,Chicago St,2000-01-29,-79.48476534738074,included_game_day
+2000,2130,Chicago St,2000-02-03,-75.37644095094602,included_game_day
+2000,2130,Chicago St,2000-02-05,-107.4251755002515,included_game_day
+2000,2130,Chicago St,2000-02-10,-110.80959163171359,included_game_day
+2000,2130,Chicago St,2000-02-15,-111.88685466059792,included_game_day
+2000,2130,Chicago St,2000-02-17,-111.46262005426121,included_game_day
+2000,2130,Chicago St,2000-02-19,-109.4168381498931,included_game_day
+2000,2130,Chicago St,2000-02-24,-78.44583691849166,included_game_day
+2000,2130,Chicago St,2000-02-26,-99.27776524631658,included_game_day
+2000,2130,Chicago St,2000-03-05,-91.83063618793481,included_game_day
+2001,2130,Chicago St,2000-11-22,-25.0,included_game_day
+2001,2130,Chicago St,2000-11-25,-61.5,included_game_day
+2001,2130,Chicago St,2000-11-29,-59.70435,included_game_day
+2001,2130,Chicago St,2000-12-02,-75.483316,included_game_day
+2001,2130,Chicago St,2000-12-04,-85.92471570000001,included_game_day
+2001,2130,Chicago St,2000-12-09,-84.35638766000001,included_game_day
+2001,2130,Chicago St,2000-12-20,-64.45801218592001,included_game_day
+2001,2130,Chicago St,2000-12-23,-68.95400692169882,included_game_day
+2001,2130,Chicago St,2000-12-27,-108.30542320693121,included_game_day
+2001,2130,Chicago St,2000-12-29,-107.26588636510539,included_game_day
+2001,2130,Chicago St,2001-01-04,-102.21193844519237,included_game_day
+2001,2130,Chicago St,2001-01-06,-121.26077000093368,included_game_day
+2001,2130,Chicago St,2001-01-11,-117.88443165572112,included_game_day
+2001,2130,Chicago St,2001-01-13,-112.88218439669917,included_game_day
+2001,2130,Chicago St,2001-01-18,-118.67134000307657,included_game_day
+2001,2130,Chicago St,2001-01-20,-106.51566089632668,included_game_day
+2001,2130,Chicago St,2001-01-25,-102.25585469047638,included_game_day
+2001,2130,Chicago St,2001-01-27,-107.15904614935864,included_game_day
+2001,2130,Chicago St,2001-02-01,-118.37800589394712,included_game_day
+2001,2130,Chicago St,2001-02-03,-119.73124691259257,included_game_day
+2001,2130,Chicago St,2001-02-08,-97.76342162973921,included_game_day
+2001,2130,Chicago St,2001-02-10,-112.1580275382509,included_game_day
+2001,2130,Chicago St,2001-02-15,-123.63762984480351,included_game_day
+2001,2130,Chicago St,2001-02-17,-132.8759608209028,included_game_day
+2001,2130,Chicago St,2001-02-22,-122.20266598834542,included_game_day
+2001,2130,Chicago St,2001-02-24,-130.8829486497154,included_game_day
+2001,2130,Chicago St,2001-03-04,-124.82717477881137,included_game_day
+2002,2130,Chicago State Cougars,2001-11-18,-49.3,included_game_day
+2002,2130,Chicago State Cougars,2001-11-21,-55.349999999999994,included_game_day
+2002,2130,Chicago State Cougars,2001-11-24,-84.815,included_game_day
+2002,2130,Chicago State Cougars,2001-11-27,-91.0394,included_game_day
+2002,2130,Chicago State Cougars,2001-12-01,-83.025536,included_game_day
+2002,2130,Chicago State Cougars,2001-12-04,-110.0316824,included_game_day
+2002,2130,Chicago State Cougars,2001-12-13,-127.36413901499999,included_game_day
+2002,2130,Chicago State Cougars,2001-12-18,-127.03766292502739,included_game_day
+2002,2130,Chicago State Cougars,2001-12-22,-122.08814649055864,included_game_day
+2002,2130,Chicago State Cougars,2001-12-29,-130.3198576723836,included_game_day
+2002,2130,Chicago State Cougars,2002-01-03,-124.21135806424948,included_game_day
+2002,2130,Chicago State Cougars,2002-01-05,-115.48212191004707,included_game_day
+2002,2130,Chicago State Cougars,2002-01-08,-128.7761643266918,included_game_day
+2002,2130,Chicago State Cougars,2002-01-10,-127.16538792525346,included_game_day
+2002,2130,Chicago State Cougars,2002-01-12,-125.46323587336946,included_game_day
+2002,2130,Chicago State Cougars,2002-01-19,-132.14000367164152,included_game_day
+2002,2130,Chicago State Cougars,2002-01-24,-129.64960963898505,included_game_day
+2002,2130,Chicago State Cougars,2002-01-26,-138.3978429256547,included_game_day
+2002,2130,Chicago State Cougars,2002-01-31,-162.35107809482193,included_game_day
+2002,2130,Chicago State Cougars,2002-02-02,-152.41986500717118,included_game_day
+2002,2130,Chicago State Cougars,2002-02-07,-163.4275984667396,included_game_day
+2002,2130,Chicago State Cougars,2002-02-09,-173.35086852616575,included_game_day
+2002,2130,Chicago State Cougars,2002-02-16,-183.185672616338,included_game_day
+2002,2130,Chicago State Cougars,2002-02-19,-182.56661827937276,included_game_day
+2002,2130,Chicago State Cougars,2002-02-21,-190.92820176181613,included_game_day
+2002,2130,Chicago State Cougars,2002-02-23,-188.70389907472727,included_game_day
+2002,2130,Chicago State Cougars,2002-03-03,-188.77236113063444,included_game_day
+2003,2130,Chicago State Cougars,2002-11-24,-28.9,included_game_day
+2003,2130,Chicago State Cougars,2002-11-27,-29.494999999999997,included_game_day
+2003,2130,Chicago State Cougars,2002-12-03,-35.939899999999994,included_game_day
+2003,2130,Chicago State Cougars,2002-12-11,-44.6547187,included_game_day
+2003,2130,Chicago State Cougars,2002-12-14,-63.472871126,included_game_day
+2003,2130,Chicago State Cougars,2002-12-18,-72.7470086452,included_game_day
+2003,2130,Chicago State Cougars,2002-12-21,-66.3179609534,included_game_day
+2003,2130,Chicago State Cougars,2002-12-23,-60.130928335503,included_game_day
+2003,2130,Chicago State Cougars,2002-12-29,-64.09750314365414,included_game_day
+2003,2130,Chicago State Cougars,2002-12-30,-67.32816598806082,included_game_day
+2003,2130,Chicago State Cougars,2003-01-04,-74.93957213127823,included_game_day
+2003,2130,Chicago State Cougars,2003-01-09,-89.89600319495243,included_game_day
+2003,2130,Chicago State Cougars,2003-01-11,-91.50217033014684,included_game_day
+2003,2130,Chicago State Cougars,2003-01-14,-88.46230682129956,included_game_day
+2003,2130,Chicago State Cougars,2003-01-16,-88.69245113785333,included_game_day
+2003,2130,Chicago State Cougars,2003-01-18,-106.31182534822514,included_game_day
+2003,2130,Chicago State Cougars,2003-01-21,-109.52698538309019,included_game_day
+2003,2130,Chicago State Cougars,2003-01-25,-103.26165170571919,included_game_day
+2003,2130,Chicago State Cougars,2003-01-30,-115.99899105692843,included_game_day
+2003,2130,Chicago State Cougars,2003-02-01,-129.41177388766945,included_game_day
+2003,2130,Chicago State Cougars,2003-02-06,-140.5489843164076,included_game_day
+2003,2130,Chicago State Cougars,2003-02-08,-131.5214433837163,included_game_day
+2003,2130,Chicago State Cougars,2003-02-13,-127.54489431576334,included_game_day
+2003,2130,Chicago State Cougars,2003-02-15,-129.82378180734406,included_game_day
+2003,2130,Chicago State Cougars,2003-02-20,-125.29188647997933,included_game_day
+2003,2130,Chicago State Cougars,2003-02-22,-140.38679533846462,included_game_day
+2003,2130,Chicago State Cougars,2003-02-27,-124.48609127955294,included_game_day
+2003,2130,Chicago State Cougars,2003-03-01,-118.2089121829191,included_game_day
+2003,2130,Chicago State Cougars,2003-03-09,-119.32281439318183,included_game_day
+2004,2130,Chicago State Cougars,2003-11-21,-21.0,included_game_day
+2004,2130,Chicago State Cougars,2003-11-23,-33.3,included_game_day
+2004,2130,Chicago State Cougars,2003-11-29,-42.83215,included_game_day
+2004,2130,Chicago State Cougars,2003-12-04,-42.581649,included_game_day
+2004,2130,Chicago State Cougars,2003-12-06,-48.3131701,included_game_day
+2004,2130,Chicago State Cougars,2003-12-13,-54.787330690000005,included_game_day
+2004,2130,Chicago State Cougars,2003-12-15,-56.62211090504,included_game_day
+2004,2130,Chicago State Cougars,2003-12-17,-67.505266694536,included_game_day
+2004,2130,Chicago State Cougars,2003-12-20,-51.326270943672405,included_game_day
+2004,2130,Chicago State Cougars,2003-12-22,-55.17679364381517,included_game_day
+2004,2130,Chicago State Cougars,2003-12-23,-54.23056480386265,included_game_day
+2004,2130,Chicago State Cougars,2003-12-27,-69.57605400415639,included_game_day
+2004,2130,Chicago State Cougars,2004-01-03,-67.12432933129449,included_game_day
+2004,2130,Chicago State Cougars,2004-01-05,-81.48492749550479,included_game_day
+2004,2130,Chicago State Cougars,2004-01-08,-76.84124444547214,included_game_day
+2004,2130,Chicago State Cougars,2004-01-10,-70.98564324287527,included_game_day
+2004,2130,Chicago State Cougars,2004-01-17,-54.854387573825406,included_game_day
+2004,2130,Chicago State Cougars,2004-01-19,-45.15560750762122,included_game_day
+2004,2130,Chicago State Cougars,2004-01-24,-40.64920301045449,included_game_day
+2004,2130,Chicago State Cougars,2004-01-29,-41.17464549124105,included_game_day
+2004,2130,Chicago State Cougars,2004-01-31,-53.430074101254206,included_game_day
+2004,2130,Chicago State Cougars,2004-02-05,-57.52837484227192,included_game_day
+2004,2130,Chicago State Cougars,2004-02-07,-66.91933726185194,included_game_day
+2004,2130,Chicago State Cougars,2004-02-12,-53.41787085731163,included_game_day
+2004,2130,Chicago State Cougars,2004-02-14,-44.080538055444514,included_game_day
+2004,2130,Chicago State Cougars,2004-02-19,-51.61801899062486,included_game_day
+2004,2130,Chicago State Cougars,2004-02-21,-40.68950704488289,included_game_day
+2004,2130,Chicago State Cougars,2004-02-28,-24.297759474359967,included_game_day
+2004,2130,Chicago State Cougars,2004-03-02,-27.689454752936,included_game_day
+2004,2130,Chicago State Cougars,2004-03-07,-6.236887168660061,included_game_day
+2004,2130,Chicago State Cougars,2004-03-08,-22.845875341878905,included_game_day
+2005,2130,Chicago State Cougars,2004-11-20,-8.0,included_game_day
+2005,2130,Chicago State Cougars,2004-11-24,-10.8,included_game_day
+2005,2130,Chicago State Cougars,2004-12-01,-24.347,included_game_day
+2005,2130,Chicago State Cougars,2004-12-04,-44.727263,included_game_day
+2005,2130,Chicago State Cougars,2004-12-06,-46.02728424,included_game_day
+2005,2130,Chicago State Cougars,2004-12-15,-44.1359457302903,included_game_day
+2005,2130,Chicago State Cougars,2004-12-19,-48.05824272405407,included_game_day
+2005,2130,Chicago State Cougars,2004-12-23,-34.716420909585764,included_game_day
+2005,2130,Chicago State Cougars,2005-01-01,-51.942988936343816,included_game_day
+2005,2130,Chicago State Cougars,2005-01-03,-63.92687331542394,included_game_day
+2005,2130,Chicago State Cougars,2005-01-06,-58.878640602310995,included_game_day
+2005,2130,Chicago State Cougars,2005-01-08,-52.502825805875744,included_game_day
+2005,2130,Chicago State Cougars,2005-01-13,-52.03734503056898,included_game_day
+2005,2130,Chicago State Cougars,2005-01-15,-62.94466841443629,included_game_day
+2005,2130,Chicago State Cougars,2005-01-20,-74.05092485263927,included_game_day
+2005,2130,Chicago State Cougars,2005-01-22,-67.09622078014696,included_game_day
+2005,2130,Chicago State Cougars,2005-01-29,-54.5328797925242,included_game_day
+2005,2130,Chicago State Cougars,2005-02-03,-45.36057817624658,included_game_day
+2005,2130,Chicago State Cougars,2005-02-05,-32.52181568106383,included_game_day
+2005,2130,Chicago State Cougars,2005-02-07,-34.729155343410966,included_game_day
+2005,2130,Chicago State Cougars,2005-02-10,-50.52808957698094,included_game_day
+2005,2130,Chicago State Cougars,2005-02-12,-52.42461735415071,included_game_day
+2005,2130,Chicago State Cougars,2005-02-19,-41.22310535707685,included_game_day
+2005,2130,Chicago State Cougars,2005-02-22,-61.47972487276979,included_game_day
+2005,2130,Chicago State Cougars,2005-02-24,-55.431816519390836,included_game_day
+2005,2130,Chicago State Cougars,2005-02-28,-62.47183037030042,included_game_day
+2005,2130,Chicago State Cougars,2005-03-06,-49.97137072639889,included_game_day
+2005,2130,Chicago State Cougars,2005-03-07,-50.78153679365772,included_game_day
+2006,2130,Chicago State Cougars,2005-11-20,-26.0,included_game_day
+2006,2130,Chicago State Cougars,2005-11-26,-28.6,included_game_day
+2006,2130,Chicago State Cougars,2005-12-04,-20.268150000000002,included_game_day
+2006,2130,Chicago State Cougars,2005-12-06,-31.700276100000004,included_game_day
+2006,2130,Chicago State Cougars,2005-12-09,-33.85775349,included_game_day
+2006,2130,Chicago State Cougars,2005-12-10,-50.59416944994,included_game_day
+2006,2130,Chicago State Cougars,2005-12-13,-60.75516877694599,included_game_day
+2006,2130,Chicago State Cougars,2005-12-17,-62.96123541291139,included_game_day
+2006,2130,Chicago State Cougars,2005-12-19,-59.81602418416125,included_game_day
+2006,2130,Chicago State Cougars,2005-12-28,-55.68123630027691,included_game_day
+2006,2130,Chicago State Cougars,2005-12-30,-72.17495904582954,included_game_day
+2006,2130,Chicago State Cougars,2005-12-31,-70.90974119922942,included_game_day
+2006,2130,Chicago State Cougars,2006-01-02,-76.39635345254241,included_game_day
+2006,2130,Chicago State Cougars,2006-01-04,-84.12965294254673,included_game_day
+2006,2130,Chicago State Cougars,2006-01-07,-91.93262532193528,included_game_day
+2006,2130,Chicago State Cougars,2006-01-12,-85.79809026527151,included_game_day
+2006,2130,Chicago State Cougars,2006-01-19,-60.75072057393224,included_game_day
+2006,2130,Chicago State Cougars,2006-01-21,-66.2005333506079,included_game_day
+2006,2130,Chicago State Cougars,2006-01-28,-72.30939936340431,included_game_day
+2006,2130,Chicago State Cougars,2006-02-04,-68.98303635261473,included_game_day
+2006,2130,Chicago State Cougars,2006-02-06,-69.9663923709278,included_game_day
+2006,2130,Chicago State Cougars,2006-02-09,-66.15991438398666,included_game_day
+2006,2130,Chicago State Cougars,2006-02-11,-66.81126780735899,included_game_day
+2006,2130,Chicago State Cougars,2006-02-16,-62.107610249743146,included_game_day
+2006,2130,Chicago State Cougars,2006-02-18,-46.728526764854564,included_game_day
+2006,2130,Chicago State Cougars,2006-02-23,-33.81703618389392,included_game_day
+2006,2130,Chicago State Cougars,2006-02-25,-30.31281269177289,included_game_day
+2006,2130,Chicago State Cougars,2006-03-05,-20.638448628915476,included_game_day
+2006,2130,Chicago State Cougars,2006-03-06,-12.73072753682799,included_game_day
+2006,2130,Chicago State Cougars,2006-03-07,-22.374116282120326,included_game_day
+2007,2130,Chicago State Cougars,2006-11-09,6.0,included_game_day
+2007,2130,Chicago State Cougars,2006-11-10,-12.0,included_game_day
+2007,2130,Chicago State Cougars,2006-11-14,-19.8,included_game_day
+2007,2130,Chicago State Cougars,2006-11-19,-33.3418,included_game_day
+2007,2130,Chicago State Cougars,2006-11-22,-17.48762,included_game_day
+2007,2130,Chicago State Cougars,2006-11-29,-11.6241992,included_game_day
+2007,2130,Chicago State Cougars,2006-12-01,-13.65649928,included_game_day
+2007,2130,Chicago State Cougars,2006-12-02,-32.3035667419,included_game_day
+2007,2130,Chicago State Cougars,2006-12-06,-51.20685195751,included_game_day
+2007,2130,Chicago State Cougars,2006-12-08,-60.587161559859,included_game_day
+2007,2130,Chicago State Cougars,2006-12-09,-47.224367122753094,included_game_day
+2007,2130,Chicago State Cougars,2006-12-12,-51.597369937320785,included_game_day
+2007,2130,Chicago State Cougars,2006-12-16,-39.038027757568706,included_game_day
+2007,2130,Chicago State Cougars,2006-12-19,-30.814265657819938,included_game_day
+2007,2130,Chicago State Cougars,2006-12-21,-29.296306540108393,included_game_day
+2007,2130,Chicago State Cougars,2006-12-28,-40.17459715487399,included_game_day
+2007,2130,Chicago State Cougars,2006-12-30,-40.015250141439196,included_game_day
+2007,2130,Chicago State Cougars,2007-01-01,-44.41786020905475,included_game_day
+2007,2130,Chicago State Cougars,2007-01-04,-54.725166796828546,included_game_day
+2007,2130,Chicago State Cougars,2007-01-06,-48.15762513570168,included_game_day
+2007,2130,Chicago State Cougars,2007-01-18,-40.76045684969456,included_game_day
+2007,2130,Chicago State Cougars,2007-01-20,-36.20890779284388,included_game_day
+2007,2130,Chicago State Cougars,2007-01-22,-57.40099121686174,included_game_day
+2007,2130,Chicago State Cougars,2007-01-29,-64.83855721617024,included_game_day
+2007,2130,Chicago State Cougars,2007-02-01,-60.79893650427264,included_game_day
+2007,2130,Chicago State Cougars,2007-02-05,-73.52924302504165,included_game_day
+2007,2130,Chicago State Cougars,2007-02-17,-73.57458166941696,included_game_day
+2008,2130,Chicago State Cougars,2007-11-10,-8.0,included_game_day
+2008,2130,Chicago State Cougars,2007-11-13,-40.2,included_game_day
+2008,2130,Chicago State Cougars,2007-11-17,-18.482000000000003,included_game_day
+2008,2130,Chicago State Cougars,2007-11-21,-25.650960000000005,included_game_day
+2008,2130,Chicago State Cougars,2007-11-24,-26.254864000000005,included_game_day
+2008,2130,Chicago State Cougars,2007-11-27,-51.115165880000006,included_game_day
+2008,2130,Chicago State Cougars,2007-11-30,-81.553581542,included_game_day
+2008,2130,Chicago State Cougars,2007-12-04,-80.4569741878,included_game_day
+2008,2130,Chicago State Cougars,2007-12-07,-94.77563485568,included_game_day
+2008,2130,Chicago State Cougars,2007-12-08,-83.20821708613799,included_game_day
+2008,2130,Chicago State Cougars,2007-12-15,-96.1013923074251,included_game_day
+2008,2130,Chicago State Cougars,2007-12-18,-86.7373380200125,included_game_day
+2008,2130,Chicago State Cougars,2007-12-22,-99.39593918094455,included_game_day
+2008,2130,Chicago State Cougars,2007-12-29,-112.07445475597612,included_game_day
+2008,2130,Chicago State Cougars,2008-01-02,-94.73209481898387,included_game_day
+2008,2130,Chicago State Cougars,2008-01-04,-91.0122614215405,included_game_day
+2008,2130,Chicago State Cougars,2008-01-12,-80.24541041541254,included_game_day
+2008,2130,Chicago State Cougars,2008-01-16,-96.09107554319313,included_game_day
+2008,2130,Chicago State Cougars,2008-01-22,-76.22055288682935,included_game_day
+2008,2130,Chicago State Cougars,2008-01-28,-85.35287714513316,included_game_day
+2008,2130,Chicago State Cougars,2008-02-02,-69.28993816085851,included_game_day
+2008,2130,Chicago State Cougars,2008-02-09,-73.69735138557826,included_game_day
+2008,2130,Chicago State Cougars,2008-02-16,-74.37117676023728,included_game_day
+2008,2130,Chicago State Cougars,2008-02-27,-76.78982019259938,included_game_day
+2009,2130,Chicago State Cougars,2008-11-17,-13.2,included_game_day
+2009,2130,Chicago State Cougars,2008-11-20,-5.149999999999999,included_game_day
+2009,2130,Chicago State Cougars,2008-11-25,-12.7397,included_game_day
+2009,2130,Chicago State Cougars,2008-11-28,-1.1683299999999992,included_game_day
+2009,2130,Chicago State Cougars,2008-11-29,-12.393524,included_game_day
+2009,2130,Chicago State Cougars,2008-12-06,-23.034062534999997,included_game_day
+2009,2130,Chicago State Cougars,2008-12-10,-48.9200634714,included_game_day
+2009,2130,Chicago State Cougars,2008-12-16,-50.60536230425,included_game_day
+2009,2130,Chicago State Cougars,2008-12-17,-46.06623452730584,included_game_day
+2009,2130,Chicago State Cougars,2008-12-20,-32.08551400960775,included_game_day
+2009,2130,Chicago State Cougars,2008-12-22,-14.627011357306976,included_game_day
+2009,2130,Chicago State Cougars,2008-12-29,-6.35560116012098,included_game_day
+2009,2130,Chicago State Cougars,2008-12-30,-16.775665556741146,included_game_day
+2009,2130,Chicago State Cougars,2009-01-03,-6.041402517080117,included_game_day
+2009,2130,Chicago State Cougars,2009-01-05,-20.292914387859263,included_game_day
+2009,2130,Chicago State Cougars,2009-01-10,-14.89497188117642,included_game_day
+2009,2130,Chicago State Cougars,2009-01-12,-9.9175686037767,included_game_day
+2009,2130,Chicago State Cougars,2009-01-20,-14.696022654665958,included_game_day
+2009,2130,Chicago State Cougars,2009-01-24,4.88171717241759,included_game_day
+2009,2130,Chicago State Cougars,2009-01-26,-6.067069874416951,included_game_day
+2009,2130,Chicago State Cougars,2009-01-29,-13.009373744509862,included_game_day
+2009,2130,Chicago State Cougars,2009-01-31,-15.261458583069441,included_game_day
+2009,2130,Chicago State Cougars,2009-02-04,-17.818183953316026,included_game_day
+2009,2130,Chicago State Cougars,2009-02-07,-15.848540390860713,included_game_day
+2009,2130,Chicago State Cougars,2009-02-09,-18.99708830517355,included_game_day
+2009,2130,Chicago State Cougars,2009-02-14,-16.79273177342153,included_game_day
+2009,2130,Chicago State Cougars,2009-02-16,-14.248149812714173,included_game_day
+2009,2130,Chicago State Cougars,2009-02-24,-17.476029440246897,included_game_day
+2009,2130,Chicago State Cougars,2009-02-28,-13.373421925064381,included_game_day
+2009,2130,Chicago State Cougars,2009-03-02,-24.7666357892331,included_game_day
+2010,2130,Chicago State Cougars,2009-11-15,-17.3,included_game_day
+2010,2130,Chicago State Cougars,2009-11-24,-31.91,included_game_day
+2010,2130,Chicago State Cougars,2009-12-01,-66.4347573,included_game_day
+2010,2130,Chicago State Cougars,2009-12-10,-87.0003850549,included_game_day
+2010,2130,Chicago State Cougars,2009-12-13,-101.28973729440999,included_game_day
+2010,2130,Chicago State Cougars,2009-12-19,-115.15847251032899,included_game_day
+2010,2130,Chicago State Cougars,2009-12-22,-102.92202950663807,included_game_day
+2010,2130,Chicago State Cougars,2009-12-23,-84.11299730438851,included_game_day
+2010,2130,Chicago State Cougars,2009-12-28,-93.60997524276945,included_game_day
+2010,2130,Chicago State Cougars,2009-12-30,-103.2086776657935,included_game_day
+2010,2130,Chicago State Cougars,2010-01-03,-102.89856393312738,included_game_day
+2010,2130,Chicago State Cougars,2010-01-06,-106.03065277096243,included_game_day
+2010,2130,Chicago State Cougars,2010-01-09,-104.37960324232694,included_game_day
+2010,2130,Chicago State Cougars,2010-01-14,-114.4915461016197,included_game_day
+2010,2130,Chicago State Cougars,2010-01-16,-131.67878342273505,included_game_day
+2010,2130,Chicago State Cougars,2010-01-19,-138.58242600244657,included_game_day
+2010,2130,Chicago State Cougars,2010-01-23,-167.00411007339412,included_game_day
+2010,2130,Chicago State Cougars,2010-01-28,-157.79731961684217,included_game_day
+2010,2130,Chicago State Cougars,2010-02-04,-159.89616811159277,included_game_day
+2010,2130,Chicago State Cougars,2010-02-06,-151.46098601956191,included_game_day
+2010,2130,Chicago State Cougars,2010-02-08,-149.6082607769414,included_game_day
+2010,2130,Chicago State Cougars,2010-02-11,-138.62622705226977,included_game_day
+2010,2130,Chicago State Cougars,2010-02-13,-149.1143410083257,included_game_day
+2010,2130,Chicago State Cougars,2010-02-25,-139.19171007337508,included_game_day
+2010,2130,Chicago State Cougars,2010-02-27,-135.65546083423496,included_game_day
+2010,2130,Chicago State Cougars,2010-03-03,-137.08387372155676,included_game_day
+2010,2130,Chicago State Cougars,2010-03-06,-133.02604494944865,included_game_day
+2010,2130,Chicago State Cougars,2010-03-10,-133.2299199676796,included_game_day
+2011,2130,Chicago State Cougars,2010-11-14,-30.0,included_game_day
+2011,2130,Chicago State Cougars,2010-11-17,-59.14,included_game_day
+2011,2130,Chicago State Cougars,2010-11-20,-96.676,included_game_day
+2011,2130,Chicago State Cougars,2010-11-23,-149.7169,included_game_day
+2011,2130,Chicago State Cougars,2010-11-26,-135.38862,included_game_day
+2011,2130,Chicago State Cougars,2010-11-27,-126.756556,included_game_day
+2011,2130,Chicago State Cougars,2010-12-01,-147.7109008,included_game_day
+2011,2130,Chicago State Cougars,2010-12-04,-151.55466309,included_game_day
+2011,2130,Chicago State Cougars,2010-12-10,-154.26421629614998,included_game_day
+2011,2130,Chicago State Cougars,2010-12-11,-190.189024985295,included_game_day
+2011,2130,Chicago State Cougars,2010-12-18,-196.46883176966548,included_game_day
+2011,2130,Chicago State Cougars,2010-12-21,-204.94009558384866,included_game_day
+2011,2130,Chicago State Cougars,2010-12-23,-237.18073085381707,included_game_day
+2011,2130,Chicago State Cougars,2010-12-28,-234.81286149029378,included_game_day
+2011,2130,Chicago State Cougars,2011-01-08,-230.525268112488,included_game_day
+2011,2130,Chicago State Cougars,2011-01-13,-213.6440913837317,included_game_day
+2011,2130,Chicago State Cougars,2011-01-15,-200.18256404385826,included_game_day
+2011,2130,Chicago State Cougars,2011-01-22,-194.91409678452695,included_game_day
+2011,2130,Chicago State Cougars,2011-01-27,-198.8758117822206,included_game_day
+2011,2130,Chicago State Cougars,2011-02-03,-193.2633383670236,included_game_day
+2011,2130,Chicago State Cougars,2011-02-05,-177.66693732611833,included_game_day
+2011,2130,Chicago State Cougars,2011-02-08,-203.76171049464128,included_game_day
+2011,2130,Chicago State Cougars,2011-02-10,-197.47245521664567,included_game_day
+2011,2130,Chicago State Cougars,2011-02-12,-198.2841526414008,included_game_day
+2011,2130,Chicago State Cougars,2011-02-22,-213.69721253499574,included_game_day
+2011,2130,Chicago State Cougars,2011-02-26,-227.865442436657,included_game_day
+2011,2130,Chicago State Cougars,2011-02-28,-232.38589838383584,included_game_day
+2011,2130,Chicago State Cougars,2011-03-05,-246.12343107524296,included_game_day
+2011,2130,Chicago State Cougars,2011-03-10,-229.88957003953908,included_game_day
+2012,2130,Chicago State Cougars,2011-11-11,-40.0,included_game_day
+2012,2130,Chicago State Cougars,2011-11-13,-64.1,included_game_day
+2012,2130,Chicago State Cougars,2011-11-19,-77.25999999999999,included_game_day
+2012,2130,Chicago State Cougars,2011-11-21,-75.58399999999999,included_game_day
+2012,2130,Chicago State Cougars,2011-11-25,-83.14259999999999,included_game_day
+2012,2130,Chicago State Cougars,2011-11-27,-113.87671799999998,included_game_day
+2012,2130,Chicago State Cougars,2011-11-30,-139.222761,included_game_day
+2012,2130,Chicago State Cougars,2011-12-03,-138.84720381,included_game_day
+2012,2130,Chicago State Cougars,2011-12-10,-127.025017712166,included_game_day
+2012,2130,Chicago State Cougars,2011-12-14,-154.6095108305154,included_game_day
+2012,2130,Chicago State Cougars,2011-12-17,-154.64969374435046,included_game_day
+2012,2130,Chicago State Cougars,2011-12-21,-158.3717813881061,included_game_day
+2012,2130,Chicago State Cougars,2011-12-23,-165.88328270040068,included_game_day
+2012,2130,Chicago State Cougars,2011-12-31,-173.88270948414234,included_game_day
+2012,2130,Chicago State Cougars,2012-01-06,-167.24431230677027,included_game_day
+2012,2130,Chicago State Cougars,2012-01-10,-148.0325478636118,included_game_day
+2012,2130,Chicago State Cougars,2012-01-19,-155.0225943349488,included_game_day
+2012,2130,Chicago State Cougars,2012-01-21,-153.00907435720836,included_game_day
+2012,2130,Chicago State Cougars,2012-01-26,-146.0306035262334,included_game_day
+2012,2130,Chicago State Cougars,2012-01-28,-141.86897127535653,included_game_day
+2012,2130,Chicago State Cougars,2012-02-04,-149.60607182889467,included_game_day
+2012,2130,Chicago State Cougars,2012-02-07,-136.5109472388008,included_game_day
+2012,2130,Chicago State Cougars,2012-02-09,-138.40915629679395,included_game_day
+2012,2130,Chicago State Cougars,2012-02-11,-134.55269625763728,included_game_day
+2012,2130,Chicago State Cougars,2012-02-16,-119.97084001684362,included_game_day
+2012,2130,Chicago State Cougars,2012-02-18,-116.52975593123662,included_game_day
+2012,2130,Chicago State Cougars,2012-02-29,-127.67079586718714,included_game_day
+2012,2130,Chicago State Cougars,2012-03-03,-125.38666423477909,included_game_day
+2013,2130,Chicago State Cougars,2012-11-10,-2.0,included_game_day
+2013,2130,Chicago State Cougars,2012-11-16,-32.41,included_game_day
+2013,2130,Chicago State Cougars,2012-11-18,-52.87,included_game_day
+2013,2130,Chicago State Cougars,2012-11-23,-60.9157,included_game_day
+2013,2130,Chicago State Cougars,2012-11-24,-61.746493,included_game_day
+2013,2130,Chicago State Cougars,2012-11-26,-74.7724898,included_game_day
+2013,2130,Chicago State Cougars,2012-12-01,-81.20913082,included_game_day
+2013,2130,Chicago State Cougars,2012-12-05,-84.44653351299999,included_game_day
+2013,2130,Chicago State Cougars,2012-12-08,-74.9794811617,included_game_day
+2013,2130,Chicago State Cougars,2012-12-16,-70.48712070412999,included_game_day
+2013,2130,Chicago State Cougars,2012-12-19,-70.10622182774543,included_game_day
+2013,2130,Chicago State Cougars,2012-12-22,-79.30161967303319,included_game_day
+2013,2130,Chicago State Cougars,2012-12-29,-100.37416647208593,included_game_day
+2013,2130,Chicago State Cougars,2012-12-31,-80.5542981944533,included_game_day
+2013,2130,Chicago State Cougars,2013-01-03,-83.02348124849834,included_game_day
+2013,2130,Chicago State Cougars,2013-01-12,-80.17762067799538,included_game_day
+2013,2130,Chicago State Cougars,2013-01-19,-62.45805734640779,included_game_day
+2013,2130,Chicago State Cougars,2013-01-20,-60.28134652924449,included_game_day
+2013,2130,Chicago State Cougars,2013-01-26,-53.943658548523274,included_game_day
+2013,2130,Chicago State Cougars,2013-02-02,-56.47572106327504,included_game_day
+2013,2130,Chicago State Cougars,2013-02-09,-62.19938949503976,included_game_day
+2013,2130,Chicago State Cougars,2013-02-19,-66.11575160717068,included_game_day
+2013,2130,Chicago State Cougars,2013-02-23,-76.1472491829753,included_game_day
+2013,2130,Chicago State Cougars,2013-02-26,-85.50889154427506,included_game_day
+2013,2130,Chicago State Cougars,2013-03-02,-86.66097464889229,included_game_day
+2013,2130,Chicago State Cougars,2013-03-09,-69.69375344855678,included_game_day
+2013,2130,Chicago State Cougars,2013-03-15,-64.00762829382354,included_game_day
+2013,2130,Chicago State Cougars,2013-03-16,-53.981489624041224,included_game_day
+2013,2130,Chicago State Cougars,2013-03-20,-59.06738767517459,included_game_day
+2014,2130,Chicago State Cougars,2013-11-08,-25.0,included_game_day
+2014,2130,Chicago State Cougars,2013-11-12,-23.82,included_game_day
+2014,2130,Chicago State Cougars,2013-11-15,-28.47,included_game_day
+2014,2130,Chicago State Cougars,2013-11-18,-28.6348,included_game_day
+2014,2130,Chicago State Cougars,2013-11-22,-40.62882,included_game_day
+2014,2130,Chicago State Cougars,2013-11-30,-35.873866222,included_game_day
+2014,2130,Chicago State Cougars,2013-12-04,-51.039509526299994,included_game_day
+2014,2130,Chicago State Cougars,2013-12-15,-50.142996379904,included_game_day
+2014,2130,Chicago State Cougars,2013-12-16,-37.0473464724831,included_game_day
+2014,2130,Chicago State Cougars,2013-12-23,-61.50714993813538,included_game_day
+2014,2130,Chicago State Cougars,2013-12-29,-73.5789220003903,included_game_day
+2014,2130,Chicago State Cougars,2014-01-04,-65.39615389519477,included_game_day
+2014,2130,Chicago State Cougars,2014-01-07,-92.77338377303309,included_game_day
+2014,2130,Chicago State Cougars,2014-01-11,-81.93499099634737,included_game_day
+2014,2130,Chicago State Cougars,2014-01-16,-63.62836603642823,included_game_day
+2014,2130,Chicago State Cougars,2014-01-18,-90.74002674041209,included_game_day
+2014,2130,Chicago State Cougars,2014-01-23,-71.94288498890268,included_game_day
+2014,2130,Chicago State Cougars,2014-01-25,-68.30904238940917,included_game_day
+2014,2130,Chicago State Cougars,2014-01-30,-68.96016421592938,included_game_day
+2014,2130,Chicago State Cougars,2014-02-08,-66.14617698741255,included_game_day
+2014,2130,Chicago State Cougars,2014-02-13,-67.6946592734598,included_game_day
+2014,2130,Chicago State Cougars,2014-02-15,-80.73936257829175,included_game_day
+2014,2130,Chicago State Cougars,2014-02-20,-86.41609160103124,included_game_day
+2014,2130,Chicago State Cougars,2014-02-22,-76.57264005617763,included_game_day
+2014,2130,Chicago State Cougars,2014-02-24,-95.9573070726803,included_game_day
+2014,2130,Chicago State Cougars,2014-02-27,-78.72528563051773,included_game_day
+2014,2130,Chicago State Cougars,2014-03-01,-81.37380813593113,included_game_day
+2014,2130,Chicago State Cougars,2014-03-06,-83.28775057997397,included_game_day
+2014,2130,Chicago State Cougars,2014-03-08,-68.31289332436869,included_game_day
+2014,2130,Chicago State Cougars,2014-03-13,-71.71949831551105,included_game_day
+2015,2130,Chicago State Cougars,2014-11-14,-33.0,included_game_day
+2015,2130,Chicago State Cougars,2014-11-16,-42.3,included_game_day
+2015,2130,Chicago State Cougars,2014-11-24,-63.358,included_game_day
+2015,2130,Chicago State Cougars,2014-11-25,-70.8624,included_game_day
+2015,2130,Chicago State Cougars,2014-11-26,-70.02239999999999,included_game_day
+2015,2130,Chicago State Cougars,2014-11-29,-98.62614699999999,included_game_day
+2015,2130,Chicago State Cougars,2014-12-04,-114.05401387999999,included_game_day
+2015,2130,Chicago State Cougars,2014-12-06,-125.846525905,included_game_day
+2015,2130,Chicago State Cougars,2014-12-14,-122.6164967949,included_game_day
+2015,2130,Chicago State Cougars,2014-12-17,-122.48053923598,included_game_day
+2015,2130,Chicago State Cougars,2014-12-22,-137.695482538627,included_game_day
+2015,2130,Chicago State Cougars,2014-12-29,-124.85663216839653,included_game_day
+2015,2130,Chicago State Cougars,2014-12-31,-107.33260659289365,included_game_day
+2015,2130,Chicago State Cougars,2015-01-03,-112.52388542029269,included_game_day
+2015,2130,Chicago State Cougars,2015-01-10,-108.93724953036573,included_game_day
+2015,2130,Chicago State Cougars,2015-01-17,-103.92818449997398,included_game_day
+2015,2130,Chicago State Cougars,2015-01-22,-107.22956057226214,included_game_day
+2015,2130,Chicago State Cougars,2015-01-24,-120.21391452581555,included_game_day
+2015,2130,Chicago State Cougars,2015-01-29,-129.07064122706615,included_game_day
+2015,2130,Chicago State Cougars,2015-01-31,-115.85572231715281,included_game_day
+2015,2130,Chicago State Cougars,2015-02-05,-111.78424201021566,included_game_day
+2015,2130,Chicago State Cougars,2015-02-07,-110.83517441613483,included_game_day
+2015,2130,Chicago State Cougars,2015-02-14,-118.80746137968637,included_game_day
+2015,2130,Chicago State Cougars,2015-02-19,-120.6349934549128,included_game_day
+2015,2130,Chicago State Cougars,2015-02-21,-136.9067885612541,included_game_day
+2015,2130,Chicago State Cougars,2015-02-26,-126.18830898003588,included_game_day
+2015,2130,Chicago State Cougars,2015-02-28,-105.56378103736219,included_game_day
+2015,2130,Chicago State Cougars,2015-03-07,-88.56308358120044,included_game_day
+2015,2130,Chicago State Cougars,2015-03-12,-87.94721493873632,included_game_day
+2016,2130,Chicago State Cougars,2015-11-16,-38.4,included_game_day
+2016,2130,Chicago State Cougars,2015-11-23,-37.9487,included_game_day
+2016,2130,Chicago State Cougars,2015-11-27,-38.538790000000006,included_game_day
+2016,2130,Chicago State Cougars,2015-11-28,-41.480198,included_game_day
+2016,2130,Chicago State Cougars,2015-12-02,-54.2395846,included_game_day
+2016,2130,Chicago State Cougars,2015-12-05,-67.99260365800001,included_game_day
+2016,2130,Chicago State Cougars,2015-12-11,-77.73523978790001,included_game_day
+2016,2130,Chicago State Cougars,2015-12-13,-103.94345435791001,included_game_day
+2016,2130,Chicago State Cougars,2015-12-16,-109.55853622379901,included_game_day
+2016,2130,Chicago State Cougars,2015-12-19,-95.47997216291611,included_game_day
+2016,2130,Chicago State Cougars,2015-12-21,-92.5643822464845,included_game_day
+2016,2130,Chicago State Cougars,2015-12-28,-79.8745369560649,included_game_day
+2016,2130,Chicago State Cougars,2015-12-31,-93.94848796532533,included_game_day
+2016,2130,Chicago State Cougars,2016-01-09,-111.03010735282615,included_game_day
+2016,2130,Chicago State Cougars,2016-01-11,-110.71464922311742,included_game_day
+2016,2130,Chicago State Cougars,2016-01-14,-120.58483949244591,included_game_day
+2016,2130,Chicago State Cougars,2016-01-16,-120.45851316082435,included_game_day
+2016,2130,Chicago State Cougars,2016-01-19,-143.60693360971183,included_game_day
+2016,2130,Chicago State Cougars,2016-01-21,-151.9375358437137,included_game_day
+2016,2130,Chicago State Cougars,2016-01-23,-147.75995116125446,included_game_day
+2016,2130,Chicago State Cougars,2016-01-30,-149.3511035517515,included_game_day
+2016,2130,Chicago State Cougars,2016-02-04,-138.30285126678197,included_game_day
+2016,2130,Chicago State Cougars,2016-02-06,-140.38174666348502,included_game_day
+2016,2130,Chicago State Cougars,2016-02-13,-136.27130880547338,included_game_day
+2016,2130,Chicago State Cougars,2016-02-18,-127.39189549431738,included_game_day
+2016,2130,Chicago State Cougars,2016-02-20,-123.72329965930658,included_game_day
+2016,2130,Chicago State Cougars,2016-02-28,-135.99514957238992,included_game_day
+2016,2130,Chicago State Cougars,2016-03-05,-159.59701579971704,included_game_day
+2016,2130,Chicago State Cougars,2016-03-10,-159.26559994192908,included_game_day
+2017,2130,Chicago State Cougars,2016-11-17,-13.25,included_game_day
+2017,2130,Chicago State Cougars,2016-11-19,-35.075,included_game_day
+2017,2130,Chicago State Cougars,2016-11-26,-50.721024,included_game_day
+2017,2130,Chicago State Cougars,2016-11-30,-58.8887056,included_game_day
+2017,2130,Chicago State Cougars,2016-12-03,-47.10766704,included_game_day
+2017,2130,Chicago State Cougars,2016-12-10,-78.88934499616,included_game_day
+2017,2130,Chicago State Cougars,2016-12-11,-76.881890282794,included_game_day
+2017,2130,Chicago State Cougars,2016-12-14,-60.7890475713546,included_game_day
+2017,2130,Chicago State Cougars,2016-12-17,-100.11945604829114,included_game_day
+2017,2130,Chicago State Cougars,2016-12-19,-104.21671766949174,included_game_day
+2017,2130,Chicago State Cougars,2016-12-22,-87.10855975513714,included_game_day
+2017,2130,Chicago State Cougars,2016-12-23,-95.7520046460157,included_game_day
+2017,2130,Chicago State Cougars,2016-12-28,-99.86109561881003,included_game_day
+2017,2130,Chicago State Cougars,2016-12-30,-94.09864117276597,included_game_day
+2017,2130,Chicago State Cougars,2017-01-05,-109.69943138369302,included_game_day
+2017,2130,Chicago State Cougars,2017-01-07,-113.94307441552614,included_game_day
+2017,2130,Chicago State Cougars,2017-01-12,-93.31584589784944,included_game_day
+2017,2130,Chicago State Cougars,2017-01-14,-103.55381149927985,included_game_day
+2017,2130,Chicago State Cougars,2017-01-21,-102.57947113882588,included_game_day
+2017,2130,Chicago State Cougars,2017-01-26,-109.64433421647246,included_game_day
+2017,2130,Chicago State Cougars,2017-01-28,-111.49451976525606,included_game_day
+2017,2130,Chicago State Cougars,2017-02-04,-126.34279675035725,included_game_day
+2017,2130,Chicago State Cougars,2017-02-09,-145.89205495812692,included_game_day
+2017,2130,Chicago State Cougars,2017-02-11,-171.98827984904136,included_game_day
+2017,2130,Chicago State Cougars,2017-02-18,-172.589932354208,included_game_day
+2017,2130,Chicago State Cougars,2017-02-23,-174.0146265534679,included_game_day
+2017,2130,Chicago State Cougars,2017-02-25,-168.23930634304352,included_game_day
+2017,2130,Chicago State Cougars,2017-03-04,-161.12436394635017,included_game_day
+2017,2130,Chicago State Cougars,2017-03-09,-154.4005322895906,included_game_day
+2018,2130,Chicago State Cougars,2017-11-10,-30.0,included_game_day
+2018,2130,Chicago State Cougars,2017-11-12,-90.2,included_game_day
+2018,2130,Chicago State Cougars,2017-11-16,-113.53,included_game_day
+2018,2130,Chicago State Cougars,2017-11-18,-136.597,included_game_day
+2018,2130,Chicago State Cougars,2017-11-23,-133.505,included_game_day
+2018,2130,Chicago State Cougars,2017-11-24,-128.9348367,included_game_day
+2018,2130,Chicago State Cougars,2017-11-26,-125.14007103,included_game_day
+2018,2130,Chicago State Cougars,2017-11-29,-134.175831627,included_game_day
+2018,2130,Chicago State Cougars,2017-12-02,-144.0691490243,included_game_day
+2018,2130,Chicago State Cougars,2017-12-09,-160.11651243166,included_game_day
+2018,2130,Chicago State Cougars,2017-12-11,-203.701132628794,included_game_day
+2018,2130,Chicago State Cougars,2017-12-16,-208.3743637926023,included_game_day
+2018,2130,Chicago State Cougars,2017-12-19,-204.31750664167208,included_game_day
+2018,2130,Chicago State Cougars,2017-12-27,-191.18275479181855,included_game_day
+2018,2130,Chicago State Cougars,2017-12-30,-191.57884681245494,included_game_day
+2018,2130,Chicago State Cougars,2018-01-06,-207.28646570317878,included_game_day
+2018,2130,Chicago State Cougars,2018-01-11,-186.35879038696714,included_game_day
+2018,2130,Chicago State Cougars,2018-01-13,-183.65212111323567,included_game_day
+2018,2130,Chicago State Cougars,2018-01-18,-189.26521555438723,included_game_day
+2018,2130,Chicago State Cougars,2018-01-20,-192.21218690691364,included_game_day
+2018,2130,Chicago State Cougars,2018-01-27,-184.3546219782126,included_game_day
+2018,2130,Chicago State Cougars,2018-02-01,-200.0396894379015,included_game_day
+2018,2130,Chicago State Cougars,2018-02-03,-204.68215910190682,included_game_day
+2018,2130,Chicago State Cougars,2018-02-08,-222.50372666707253,included_game_day
+2018,2130,Chicago State Cougars,2018-02-10,-216.490509446586,included_game_day
+2018,2130,Chicago State Cougars,2018-02-15,-208.87318879820896,included_game_day
+2018,2130,Chicago State Cougars,2018-02-22,-187.22327061767461,included_game_day
+2018,2130,Chicago State Cougars,2018-02-24,-181.06079904125926,included_game_day
+2018,2130,Chicago State Cougars,2018-03-03,-158.48571382629794,included_game_day
+2018,2130,Chicago State Cougars,2018-03-08,-161.92976619075594,included_game_day
+2019,2130,Chicago State Cougars,2018-11-06,-46.0,included_game_day
+2019,2130,Chicago State Cougars,2018-11-08,-64.0,included_game_day
+2019,2130,Chicago State Cougars,2018-11-09,-95.6,included_game_day
+2019,2130,Chicago State Cougars,2018-11-13,-87.39,included_game_day
+2019,2130,Chicago State Cougars,2018-11-16,-113.881,included_game_day
+2019,2130,Chicago State Cougars,2018-11-19,-124.3859,included_game_day
+2019,2130,Chicago State Cougars,2018-11-20,-131.12881000000002,included_game_day
+2019,2130,Chicago State Cougars,2018-11-24,-128.22938090000002,included_game_day
+2019,2130,Chicago State Cougars,2018-12-01,-118.28349166000002,included_game_day
+2019,2130,Chicago State Cougars,2018-12-12,-135.25725733377703,included_game_day
+2019,2130,Chicago State Cougars,2018-12-17,-154.35789813263233,included_game_day
+2019,2130,Chicago State Cougars,2018-12-20,-168.48360806735022,included_game_day
+2019,2130,Chicago State Cougars,2018-12-22,-188.16425761611572,included_game_day
+2019,2130,Chicago State Cougars,2019-01-05,-178.13466657889524,included_game_day
+2019,2130,Chicago State Cougars,2019-01-12,-166.82868761957155,included_game_day
+2019,2130,Chicago State Cougars,2019-01-17,-176.80424466522797,included_game_day
+2019,2130,Chicago State Cougars,2019-01-19,-168.04555991172643,included_game_day
+2019,2130,Chicago State Cougars,2019-01-24,-182.68166908771457,included_game_day
+2019,2130,Chicago State Cougars,2019-01-26,-176.32530874377477,included_game_day
+2019,2130,Chicago State Cougars,2019-01-31,-187.9404739085817,included_game_day
+2019,2130,Chicago State Cougars,2019-02-02,-200.5498984226572,included_game_day
+2019,2130,Chicago State Cougars,2019-02-07,-230.23797905486026,included_game_day
+2019,2130,Chicago State Cougars,2019-02-14,-223.39444052948272,included_game_day
+2019,2130,Chicago State Cougars,2019-02-16,-229.93091516174385,included_game_day
+2019,2130,Chicago State Cougars,2019-02-21,-229.46746249679273,included_game_day
+2019,2130,Chicago State Cougars,2019-02-23,-224.98735666828787,included_game_day
+2019,2130,Chicago State Cougars,2019-02-28,-208.3325134153717,included_game_day
+2019,2130,Chicago State Cougars,2019-03-02,-214.09323316650503,included_game_day
+2019,2130,Chicago State Cougars,2019-03-09,-214.0827172959539,included_game_day
+2019,2130,Chicago State Cougars,2019-03-14,-218.86870016165176,included_game_day
+2020,2130,Chicago State Cougars,2019-11-09,-19.2,included_game_day
+2020,2130,Chicago State Cougars,2019-11-12,-81.28,included_game_day
+2020,2130,Chicago State Cougars,2019-11-16,-113.434,included_game_day
+2020,2130,Chicago State Cougars,2019-11-25,-150.386278,included_game_day
+2020,2130,Chicago State Cougars,2019-11-29,-149.5137202,included_game_day
+2020,2130,Chicago State Cougars,2019-11-30,-156.37984296,included_game_day
+2020,2130,Chicago State Cougars,2019-12-04,-136.714658682,included_game_day
+2020,2130,Chicago State Cougars,2019-12-06,-123.84274247916,included_game_day
+2020,2130,Chicago State Cougars,2019-12-17,-153.72049119778,included_game_day
+2020,2130,Chicago State Cougars,2019-12-19,-155.46055031144292,included_game_day
+2020,2130,Chicago State Cougars,2019-12-22,-156.20357652133177,included_game_day
+2020,2130,Chicago State Cougars,2019-12-30,-190.26796817645874,included_game_day
+2020,2130,Chicago State Cougars,2020-01-02,-199.74997070257785,included_game_day
+2020,2130,Chicago State Cougars,2020-01-04,-219.1791842792212,included_game_day
+2020,2130,Chicago State Cougars,2020-01-09,-228.9746679818544,included_game_day
+2020,2130,Chicago State Cougars,2020-01-11,-231.65756501479686,included_game_day
+2020,2130,Chicago State Cougars,2020-01-16,-228.42380038392633,included_game_day
+2020,2130,Chicago State Cougars,2020-01-19,-228.835108009115,included_game_day
+2020,2130,Chicago State Cougars,2020-01-22,-232.76730172378134,included_game_day
+2020,2130,Chicago State Cougars,2020-02-01,-233.32375337547478,included_game_day
+2020,2130,Chicago State Cougars,2020-02-06,-229.4166438135373,included_game_day
+2020,2130,Chicago State Cougars,2020-02-08,-223.52770336593076,included_game_day
+2020,2130,Chicago State Cougars,2020-02-13,-211.72191895259922,included_game_day
+2020,2130,Chicago State Cougars,2020-02-15,-213.84666537207056,included_game_day
+2020,2130,Chicago State Cougars,2020-02-22,-238.09404632122246,included_game_day
+2020,2130,Chicago State Cougars,2020-02-29,-236.2300423279171,included_game_day
+2021,2130,Chicago State Cougars,2020-11-25,-23.0,included_game_day
+2021,2130,Chicago State Cougars,2020-11-26,-70.8,included_game_day
+2021,2130,Chicago State Cougars,2020-11-27,-100.3,included_game_day
+2021,2130,Chicago State Cougars,2020-12-03,-111.466,included_game_day
+2021,2130,Chicago State Cougars,2020-12-05,-139.048,included_game_day
+2021,2130,Chicago State Cougars,2020-12-09,-159.1432,included_game_day
+2021,2130,Chicago State Cougars,2020-12-15,-172.3042083,included_game_day
+2021,2130,Chicago State Cougars,2020-12-18,-171.91104157,included_game_day
+2021,2130,Chicago State Cougars,2020-12-20,-188.574156323,included_game_day
+2022,2130,Chicago State Cougars,2021-11-09,2.0,included_game_day
+2022,2130,Chicago State Cougars,2021-11-12,9.0,included_game_day
+2022,2130,Chicago State Cougars,2021-11-16,-19.05,included_game_day
+2022,2130,Chicago State Cougars,2021-11-20,-45.3615,included_game_day
+2022,2130,Chicago State Cougars,2021-11-22,-56.07155,included_game_day
+2022,2130,Chicago State Cougars,2021-11-28,-68.9170094,included_game_day
+2022,2130,Chicago State Cougars,2021-12-01,-75.45479266,included_game_day
+2022,2130,Chicago State Cougars,2021-12-04,-64.422612944,included_game_day
+2022,2130,Chicago State Cougars,2021-12-11,-73.86104345544699,included_game_day
+2022,2130,Chicago State Cougars,2021-12-13,-88.75997890961229,included_game_day
+2022,2130,Chicago State Cougars,2021-12-16,-82.23901054516506,included_game_day
+2022,2130,Chicago State Cougars,2021-12-21,-92.32103681308288,included_game_day
+2022,2130,Chicago State Cougars,2021-12-22,-114.08698574327612,included_game_day
+2022,2130,Chicago State Cougars,2021-12-30,-111.6490635530733,included_game_day
+2022,2130,Chicago State Cougars,2022-01-01,-111.65994268297607,included_game_day
+2022,2130,Chicago State Cougars,2022-01-06,-117.7565278218478,included_game_day
+2022,2130,Chicago State Cougars,2022-01-08,-106.88986654855283,included_game_day
+2022,2130,Chicago State Cougars,2022-01-13,-120.81054937744909,included_game_day
+2022,2130,Chicago State Cougars,2022-01-15,-102.13646244981288,included_game_day
+2022,2130,Chicago State Cougars,2022-01-27,-104.87028962200192,included_game_day
+2022,2130,Chicago State Cougars,2022-01-29,-115.2363908026142,included_game_day
+2022,2130,Chicago State Cougars,2022-02-02,-105.22833391127728,included_game_day
+2022,2130,Chicago State Cougars,2022-02-05,-95.73262411583914,included_game_day
+2022,2130,Chicago State Cougars,2022-02-10,-104.07214559509598,included_game_day
+2022,2130,Chicago State Cougars,2022-02-12,-106.49383628472447,included_game_day
+2022,2130,Chicago State Cougars,2022-02-16,-103.92328439916707,included_game_day
+2022,2130,Chicago State Cougars,2022-02-19,-120.05677755960421,included_game_day
+2022,2130,Chicago State Cougars,2022-02-23,-128.7937278421741,included_game_day
+2022,2130,Chicago State Cougars,2022-02-26,-108.2574096314354,included_game_day
+2022,2130,Chicago State Cougars,2022-03-02,-103.14808962589628,included_game_day
+2022,2130,Chicago State Cougars,2022-03-05,-94.0789435429273,included_game_day
+2022,2130,Chicago State Cougars,2022-03-08,-104.127397175331,included_game_day
+2023,2130,Chicago State Cougars,2022-11-07,-28.0,included_game_day
+2023,2130,Chicago State Cougars,2022-11-11,-45.1,included_game_day
+2023,2130,Chicago State Cougars,2022-11-14,-40.63,included_game_day
+2023,2130,Chicago State Cougars,2022-11-16,-26.327,included_game_day
+2023,2130,Chicago State Cougars,2022-11-19,-44.57302,included_game_day
+2023,2130,Chicago State Cougars,2022-11-21,-43.321038,included_game_day
+2023,2130,Chicago State Cougars,2022-11-23,-50.8039422,included_game_day
+2023,2130,Chicago State Cougars,2022-11-26,-49.29241698,included_game_day
+2023,2130,Chicago State Cougars,2022-12-01,-60.942440342,included_game_day
+2023,2130,Chicago State Cougars,2022-12-04,-41.1074034178,included_game_day
+2023,2130,Chicago State Cougars,2022-12-11,-38.11140420602,included_game_day
+2023,2130,Chicago State Cougars,2022-12-13,-32.410534287634576,included_game_day
+2023,2130,Chicago State Cougars,2022-12-16,-34.931774289971315,included_game_day
+2023,2130,Chicago State Cougars,2022-12-19,-45.103926880771134,included_game_day
+2023,2130,Chicago State Cougars,2022-12-22,-43.479911510734496,included_game_day
+2023,2130,Chicago State Cougars,2022-12-28,-40.527062891263306,included_game_day
+2023,2130,Chicago State Cougars,2022-12-30,-48.538808830797734,included_game_day
+2023,2130,Chicago State Cougars,2023-01-11,-52.71986112338784,included_game_day
+2023,2130,Chicago State Cougars,2023-01-14,-50.981384210812365,included_game_day
+2023,2130,Chicago State Cougars,2023-01-23,-43.42998643936957,included_game_day
+2023,2130,Chicago State Cougars,2023-01-25,-39.736925086335866,included_game_day
+2023,2130,Chicago State Cougars,2023-01-30,-38.18306678397608,included_game_day
+2023,2130,Chicago State Cougars,2023-02-04,-31.1185526911018,included_game_day
+2023,2130,Chicago State Cougars,2023-02-07,-42.38224451977829,included_game_day
+2023,2130,Chicago State Cougars,2023-02-19,-34.327013035542585,included_game_day
+2023,2130,Chicago State Cougars,2023-03-01,-50.844719006461695,included_game_day
+2023,2130,Chicago State Cougars,2023-03-04,-78.65881861307463,included_game_day
+2024,2130,Chicago State Cougars,2023-11-06,-26.0,included_game_day
+2024,2130,Chicago State Cougars,2023-11-09,-31.4,included_game_day
+2024,2130,Chicago State Cougars,2023-11-12,-17.13,included_game_day
+2024,2130,Chicago State Cougars,2023-11-14,-28.576999999999998,included_game_day
+2024,2130,Chicago State Cougars,2023-11-16,-36.8493,included_game_day
+2024,2130,Chicago State Cougars,2023-11-21,-36.556869999999996,included_game_day
+2024,2130,Chicago State Cougars,2023-11-22,-41.581547,included_game_day
+2024,2130,Chicago State Cougars,2023-11-25,-65.4991923,included_game_day
+2024,2130,Chicago State Cougars,2023-11-28,-65.75456297000001,included_game_day
+2024,2130,Chicago State Cougars,2023-11-30,-72.66651037300001,included_game_day
+2024,2130,Chicago State Cougars,2023-12-03,-45.08710663570001,included_game_day
+2024,2130,Chicago State Cougars,2023-12-10,-59.605618355930005,included_game_day
+2024,2130,Chicago State Cougars,2023-12-13,-42.64438399465661,included_game_day
+2024,2130,Chicago State Cougars,2023-12-16,-39.709473193240946,included_game_day
+2024,2130,Chicago State Cougars,2023-12-18,-36.04729106648376,included_game_day
+2024,2130,Chicago State Cougars,2023-12-20,-38.81293882425472,included_game_day
+2024,2130,Chicago State Cougars,2023-12-22,-51.59536762855035,included_game_day
+2024,2130,Chicago State Cougars,2023-12-27,-55.55902348703294,included_game_day
+2024,2130,Chicago State Cougars,2023-12-30,-66.47396123173668,included_game_day
+2024,2130,Chicago State Cougars,2024-01-02,-59.560250681104925,included_game_day
+2024,2130,Chicago State Cougars,2024-01-03,-64.47589317238328,included_game_day
+2024,2130,Chicago State Cougars,2024-01-07,-64.12433154344367,included_game_day
+2024,2130,Chicago State Cougars,2024-01-10,-62.38466931530984,included_game_day
+2024,2130,Chicago State Cougars,2024-01-15,-47.78010747513818,included_game_day
+2024,2130,Chicago State Cougars,2024-01-31,-42.1617409701395,included_game_day
+2024,2130,Chicago State Cougars,2024-02-10,-65.9749884229612,included_game_day
+2024,2130,Chicago State Cougars,2024-02-14,-70.8521148805241,included_game_day
+2024,2130,Chicago State Cougars,2024-03-23,-59.450526778865516,included_game_day
+2024,2130,Chicago State Cougars,2024-03-25,-52.85336936222161,included_game_day
+2025,2130,Chicago State Cougars,2024-11-04,-4.0,included_game_day
+2025,2130,Chicago State Cougars,2024-11-09,-26.6,included_game_day
+2025,2130,Chicago State Cougars,2024-11-12,-65.86,included_game_day
+2025,2130,Chicago State Cougars,2024-11-16,-97.053,included_game_day
+2025,2130,Chicago State Cougars,2024-11-19,-110.2987,included_game_day
+2025,2130,Chicago State Cougars,2024-11-22,-134.75223,included_game_day
+2025,2130,Chicago State Cougars,2024-11-25,-138.863987,included_game_day
+2025,2130,Chicago State Cougars,2024-11-26,-135.9902088,included_game_day
+2025,2130,Chicago State Cougars,2024-11-30,-132.18873462,included_game_day
+2025,2130,Chicago State Cougars,2024-12-02,-136.999449358,included_game_day
+2025,2130,Chicago State Cougars,2024-12-08,-146.14858670094,included_game_day
+2025,2130,Chicago State Cougars,2024-12-15,-142.282458735646,included_game_day
+2025,2130,Chicago State Cougars,2024-12-19,-146.305598816357,included_game_day
+2025,2130,Chicago State Cougars,2024-12-21,-150.8940132225735,included_game_day
+2025,2130,Chicago State Cougars,2024-12-29,-173.1414101369154,included_game_day
+2025,2130,Chicago State Cougars,2025-01-03,-147.8215133537133,included_game_day
+2025,2130,Chicago State Cougars,2025-01-05,-150.74440280097778,included_game_day
+2025,2130,Chicago State Cougars,2025-01-12,-160.55797649545556,included_game_day
+2025,2130,Chicago State Cougars,2025-01-18,-140.89286990228564,included_game_day
+2025,2130,Chicago State Cougars,2025-01-20,-147.17318571800274,included_game_day
+2025,2130,Chicago State Cougars,2025-01-24,-136.80757826238676,included_game_day
+2025,2130,Chicago State Cougars,2025-01-26,-136.35001531463647,included_game_day
+2025,2130,Chicago State Cougars,2025-02-01,-126.00980243714655,included_game_day
+2025,2130,Chicago State Cougars,2025-02-06,-116.58811378409244,included_game_day
+2025,2130,Chicago State Cougars,2025-02-08,-128.18417900149825,included_game_day
+2025,2130,Chicago State Cougars,2025-02-13,-161.8796500667865,included_game_day
+2025,2130,Chicago State Cougars,2025-02-15,-159.7740347501454,included_game_day
+2025,2130,Chicago State Cougars,2025-02-20,-150.06060851000046,included_game_day
+2025,2130,Chicago State Cougars,2025-02-22,-160.5702571801919,included_game_day
+2025,2130,Chicago State Cougars,2025-02-27,-171.7056526229682,included_game_day
+2025,2130,Chicago State Cougars,2025-03-01,-167.40806882247423,included_game_day
+2025,2130,Chicago State Cougars,2025-03-05,-160.65892637024305,included_game_day
+2026,2130,Chicago State Cougars,2025-11-03,-27.0,included_game_day
+2026,2130,Chicago State Cougars,2025-11-06,-41.1,included_game_day
+2026,2130,Chicago State Cougars,2025-11-11,-60.866,included_game_day
+2026,2130,Chicago State Cougars,2025-11-15,-60.2594,included_game_day
+2026,2130,Chicago State Cougars,2025-11-18,-59.762389999999996,included_game_day
+2026,2130,Chicago State Cougars,2025-11-20,-82.852633,included_game_day
+2026,2130,Chicago State Cougars,2025-11-25,-90.3425097,included_game_day
+2026,2130,Chicago State Cougars,2025-11-28,-102.81264522999999,included_game_day
+2026,2130,Chicago State Cougars,2025-12-06,-126.7385276405,included_game_day
+2026,2130,Chicago State Cougars,2025-12-14,-107.8764033168631,included_game_day
+2026,2130,Chicago State Cougars,2025-12-16,-110.2066393526608,included_game_day
+2026,2130,Chicago State Cougars,2025-12-20,-103.92263749819992,included_game_day
+2026,2130,Chicago State Cougars,2026-01-02,-107.73860718946582,included_game_day
+2026,2130,Chicago State Cougars,2026-01-04,-119.46834813755034,included_game_day
+2026,2130,Chicago State Cougars,2026-01-08,-121.43975299909783,included_game_day
+2026,2130,Chicago State Cougars,2026-01-10,-118.21745058405122,included_game_day
+2026,2130,Chicago State Cougars,2026-01-17,-128.234379884492,included_game_day
+2026,2130,Chicago State Cougars,2026-01-19,-132.870166199614,included_game_day
+2026,2130,Chicago State Cougars,2026-01-23,-150.79882268547948,included_game_day
+2026,2130,Chicago State Cougars,2026-01-25,-138.21398217108236,included_game_day
+2026,2130,Chicago State Cougars,2026-01-31,-126.89809281379031,included_game_day
+2026,2130,Chicago State Cougars,2026-02-05,-128.9129439802986,included_game_day
+2026,2130,Chicago State Cougars,2026-02-07,-114.41692715940779,included_game_day
+2026,2130,Chicago State Cougars,2026-02-09,-112.72834459405044,included_game_day
+2026,2130,Chicago State Cougars,2026-02-12,-99.04027744922334,included_game_day
+2026,2130,Chicago State Cougars,2026-02-14,-110.7784462114668,included_game_day
+2026,2130,Chicago State Cougars,2026-02-19,-111.45418079099714,included_game_day
+2026,2130,Chicago State Cougars,2026-02-21,-88.82047411938238,included_game_day
+2026,2130,Chicago State Cougars,2026-02-26,-95.23547416637005,included_game_day
+2026,2130,Chicago State Cougars,2026-02-28,-109.0423895560828,included_game_day
+2026,2130,Chicago State Cougars,2026-03-04,-99.6116477931461,included_game_day
+2027,2130,Chicago State Cougars,2026-11-02,-47.0,included_game_day
+2027,2130,Chicago State Cougars,2026-11-05,-30.1,included_game_day
+2027,2130,Chicago State Cougars,2026-11-09,-44.09,included_game_day
+2027,2130,Chicago State Cougars,2026-11-11,-20.791000000000004,included_game_day
+2027,2130,Chicago State Cougars,2026-11-13,-35.742900000000006,included_game_day
+2027,2130,Chicago State Cougars,2026-11-15,-67.71521000000001,included_game_day
+2027,2130,Chicago State Cougars,2026-11-18,-65.626489,included_game_day
+2027,2130,Chicago State Cougars,2026-11-22,-93.2001941,included_game_day

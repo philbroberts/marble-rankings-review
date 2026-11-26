@@ -1,0 +1,1164 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,2363,Manhattan,1987-11-27,5.0,included_game_day
+1988,2363,Manhattan,1987-11-28,6.4,included_game_day
+1988,2363,Manhattan,1987-12-01,3.1000000000000005,included_game_day
+1988,2363,Manhattan,1987-12-03,11.79,included_game_day
+1988,2363,Manhattan,1987-12-05,1.824399999999999,included_game_day
+1988,2363,Manhattan,1987-12-09,-13.331675,included_game_day
+1988,2363,Manhattan,1987-12-12,-6.455459,included_game_day
+1988,2363,Manhattan,1987-12-20,-13.737076641769999,included_game_day
+1988,2363,Manhattan,1987-12-21,-23.865301348993,included_game_day
+1988,2363,Manhattan,1987-12-23,-46.8383680640937,included_game_day
+1988,2363,Manhattan,1987-12-24,-60.97169370287733,included_game_day
+1988,2363,Manhattan,1987-12-31,-62.50154771302843,included_game_day
+1988,2363,Manhattan,1988-01-05,-59.99606333772559,included_game_day
+1988,2363,Manhattan,1988-01-07,-65.42446010450033,included_game_day
+1988,2363,Manhattan,1988-01-13,-55.57514543763333,included_game_day
+1988,2363,Manhattan,1988-01-19,-58.59488105503815,included_game_day
+1988,2363,Manhattan,1988-01-23,-71.23177136955627,included_game_day
+1988,2363,Manhattan,1988-01-27,-64.3719792502227,included_game_day
+1988,2363,Manhattan,1988-01-30,-70.69120241337546,included_game_day
+1988,2363,Manhattan,1988-02-02,-70.28160986052227,included_game_day
+1988,2363,Manhattan,1988-02-06,-67.73120766999486,included_game_day
+1988,2363,Manhattan,1988-02-13,-65.44410381221631,included_game_day
+1988,2363,Manhattan,1988-02-15,-64.91868558951735,included_game_day
+1988,2363,Manhattan,1988-02-17,-65.23346565615219,included_game_day
+1988,2363,Manhattan,1988-02-20,-67.66085792600988,included_game_day
+1988,2363,Manhattan,1988-02-24,-67.78912938601222,included_game_day
+1988,2363,Manhattan,1988-02-27,-76.09080972131851,included_game_day
+1988,2363,Manhattan,1988-03-03,-68.05615055045993,included_game_day
+1989,2363,Manhattan,1988-11-26,-24.0,included_game_day
+1989,2363,Manhattan,1988-11-29,-43.9,included_game_day
+1989,2363,Manhattan,1988-12-02,-37.37,included_game_day
+1989,2363,Manhattan,1988-12-03,-44.983,included_game_day
+1989,2363,Manhattan,1988-12-06,-31.553099999999997,included_game_day
+1989,2363,Manhattan,1988-12-08,-53.373689999999996,included_game_day
+1989,2363,Manhattan,1988-12-10,-62.999720999999994,included_game_day
+1989,2363,Manhattan,1988-12-17,-72.26048592999999,included_game_day
+1989,2363,Manhattan,1988-12-23,-78.03648533699999,included_game_day
+1989,2363,Manhattan,1988-12-28,-69.26858782954199,included_game_day
+1989,2363,Manhattan,1989-01-04,-83.45175623782761,included_game_day
+1989,2363,Manhattan,1989-01-06,-95.08639139521809,included_game_day
+1989,2363,Manhattan,1989-01-11,-117.83773637238856,included_game_day
+1989,2363,Manhattan,1989-01-14,-119.50149784197092,included_game_day
+1989,2363,Manhattan,1989-01-17,-100.10570344122871,included_game_day
+1989,2363,Manhattan,1989-01-19,-91.13548782096876,included_game_day
+1989,2363,Manhattan,1989-01-21,-92.75800999229024,included_game_day
+1989,2363,Manhattan,1989-01-25,-95.49808892913757,included_game_day
+1989,2363,Manhattan,1989-01-28,-82.46858181774606,included_game_day
+1989,2363,Manhattan,1989-02-01,-82.19520664892605,included_game_day
+1989,2363,Manhattan,1989-02-04,-57.84576400916698,included_game_day
+1989,2363,Manhattan,1989-02-11,-58.789846003583214,included_game_day
+1989,2363,Manhattan,1989-02-14,-71.16993015413199,included_game_day
+1989,2363,Manhattan,1989-02-18,-84.49960459285955,included_game_day
+1989,2363,Manhattan,1989-02-22,-89.60886137968049,included_game_day
+1989,2363,Manhattan,1989-02-25,-66.48996446578359,included_game_day
+1989,2363,Manhattan,1989-03-02,-54.93862195275957,included_game_day
+1990,2363,Manhattan,1989-11-25,6.0,included_game_day
+1990,2363,Manhattan,1989-11-28,19.8,included_game_day
+1990,2363,Manhattan,1989-12-02,13.540000000000001,included_game_day
+1990,2363,Manhattan,1989-12-08,-31.137,included_game_day
+1990,2363,Manhattan,1989-12-09,-33.564257,included_game_day
+1990,2363,Manhattan,1989-12-16,-39.478272755,included_game_day
+1990,2363,Manhattan,1989-12-22,-25.7580928275,included_game_day
+1990,2363,Manhattan,1989-12-28,-41.35877131218844,included_game_day
+1990,2363,Manhattan,1989-12-29,-47.5106916853773,included_game_day
+1990,2363,Manhattan,1990-01-04,-53.920747763439664,included_game_day
+1990,2363,Manhattan,1990-01-06,-44.99695447061217,included_game_day
+1990,2363,Manhattan,1990-01-09,-47.791507498786245,included_game_day
+1990,2363,Manhattan,1990-01-11,-48.06852315494785,included_game_day
+1990,2363,Manhattan,1990-01-13,-31.013478929400616,included_game_day
+1990,2363,Manhattan,1990-01-17,-3.934618628463369,included_game_day
+1990,2363,Manhattan,1990-01-20,-4.317138257679036,included_game_day
+1990,2363,Manhattan,1990-01-23,1.5159293120207051,included_game_day
+1990,2363,Manhattan,1990-01-27,-27.313046143194114,included_game_day
+1990,2363,Manhattan,1990-01-31,-34.74103093948159,included_game_day
+1990,2363,Manhattan,1990-02-03,-56.014530339771376,included_game_day
+1990,2363,Manhattan,1990-02-06,-48.36540838099083,included_game_day
+1990,2363,Manhattan,1990-02-10,-55.67082066255463,included_game_day
+1990,2363,Manhattan,1990-02-13,-57.78348120736508,included_game_day
+1990,2363,Manhattan,1990-02-17,-63.10174025722497,included_game_day
+1990,2363,Manhattan,1990-02-20,-58.08706225383432,included_game_day
+1990,2363,Manhattan,1990-02-22,-75.71590634694593,included_game_day
+1990,2363,Manhattan,1990-02-24,-73.7633995423856,included_game_day
+1990,2363,Manhattan,1990-03-02,-74.3737075538462,included_game_day
+1991,2363,Manhattan,1990-11-24,1.0,included_game_day
+1991,2363,Manhattan,1990-11-27,19.9,included_game_day
+1991,2363,Manhattan,1990-12-06,32.23487,included_game_day
+1991,2363,Manhattan,1990-12-08,40.450675000000004,included_game_day
+1991,2363,Manhattan,1990-12-15,24.046759269000002,included_game_day
+1991,2363,Manhattan,1990-12-18,10.153108118400002,included_game_day
+1991,2363,Manhattan,1990-12-21,20.637500907560003,included_game_day
+1991,2363,Manhattan,1990-12-28,-16.319863863195998,included_game_day
+1991,2363,Manhattan,1990-12-29,-24.499792419976867,included_game_day
+1991,2363,Manhattan,1991-01-02,-19.95227898280918,included_game_day
+1991,2363,Manhattan,1991-01-06,-3.5495082303997947,included_game_day
+1991,2363,Manhattan,1991-01-10,0.6676838803486707,included_game_day
+1991,2363,Manhattan,1991-01-12,0.2511809290214211,included_game_day
+1991,2363,Manhattan,1991-01-14,8.283290597210113,included_game_day
+1991,2363,Manhattan,1991-01-17,9.055923419052764,included_game_day
+1991,2363,Manhattan,1991-01-19,29.62993290013573,included_game_day
+1991,2363,Manhattan,1991-01-24,-1.0211113570006631,included_game_day
+1991,2363,Manhattan,1991-01-29,12.404599143246978,included_game_day
+1991,2363,Manhattan,1991-01-31,4.848883570466344,included_game_day
+1991,2363,Manhattan,1991-02-02,-3.137225539315634,included_game_day
+1991,2363,Manhattan,1991-02-05,2.395534259921045,included_game_day
+1991,2363,Manhattan,1991-02-07,1.065697621531064,included_game_day
+1991,2363,Manhattan,1991-02-11,-7.648785567090216,included_game_day
+1991,2363,Manhattan,1991-02-14,-7.78960069672383,included_game_day
+1991,2363,Manhattan,1991-02-16,-32.35873028701051,included_game_day
+1991,2363,Manhattan,1991-02-18,-46.174770439698776,included_game_day
+1991,2363,Manhattan,1991-02-23,-40.15227513384432,included_game_day
+1991,2363,Manhattan,1991-03-01,-48.83748643335678,included_game_day
+1992,2363,Manhattan,1991-11-20,-8.0,included_game_day
+1992,2363,Manhattan,1991-11-26,2.8000000000000007,included_game_day
+1992,2363,Manhattan,1991-11-30,6.231000000000001,included_game_day
+1992,2363,Manhattan,1991-12-03,7.692900000000001,included_game_day
+1992,2363,Manhattan,1991-12-08,11.060410000000001,included_game_day
+1992,2363,Manhattan,1991-12-14,-23.195091,included_game_day
+1992,2363,Manhattan,1991-12-19,-1.4755819000000017,included_game_day
+1992,2363,Manhattan,1991-12-21,12.871263023,included_game_day
+1992,2363,Manhattan,1991-12-28,29.775732179297222,included_game_day
+1992,2363,Manhattan,1991-12-30,4.4242330595957,included_game_day
+1992,2363,Manhattan,1992-01-02,23.27008988493397,included_game_day
+1992,2363,Manhattan,1992-01-04,24.815839991509172,included_game_day
+1992,2363,Manhattan,1992-01-11,31.414730529114276,included_game_day
+1992,2363,Manhattan,1992-01-15,43.11810684438929,included_game_day
+1992,2363,Manhattan,1992-01-18,58.000636062316076,included_game_day
+1992,2363,Manhattan,1992-01-21,60.010698010993686,included_game_day
+1992,2363,Manhattan,1992-01-25,66.9118478337899,included_game_day
+1992,2363,Manhattan,1992-01-28,66.04316524240576,included_game_day
+1992,2363,Manhattan,1992-01-30,74.23346491858992,included_game_day
+1992,2363,Manhattan,1992-02-01,76.0363194193535,included_game_day
+1992,2363,Manhattan,1992-02-09,68.5623661690357,included_game_day
+1992,2363,Manhattan,1992-02-12,63.5432346887478,included_game_day
+1992,2363,Manhattan,1992-02-15,52.21164247653805,included_game_day
+1992,2363,Manhattan,1992-02-18,36.21763751690625,included_game_day
+1992,2363,Manhattan,1992-02-22,47.76598562802654,included_game_day
+1992,2363,Manhattan,1992-02-26,56.62452664512715,included_game_day
+1992,2363,Manhattan,1992-02-28,38.793956117134506,included_game_day
+1992,2363,Manhattan,1992-03-03,42.60181846639948,included_game_day
+1992,2363,Manhattan,1992-03-07,43.34863806431551,included_game_day
+1992,2363,Manhattan,1992-03-08,38.99442186645646,included_game_day
+1992,2363,Manhattan,1992-03-09,45.66783617448766,included_game_day
+1992,2363,Manhattan,1992-03-18,50.071051207444036,included_game_day
+1992,2363,Manhattan,1992-03-23,54.740893048723635,included_game_day
+1992,2363,Manhattan,1992-03-27,43.20483860080988,included_game_day
+1993,2363,Manhattan,1992-12-01,19.0,included_game_day
+1993,2363,Manhattan,1992-12-04,43.2,included_game_day
+1993,2363,Manhattan,1992-12-05,22.53,included_game_day
+1993,2363,Manhattan,1992-12-08,24.5404,included_game_day
+1993,2363,Manhattan,1992-12-12,29.71246,included_game_day
+1993,2363,Manhattan,1992-12-19,50.524913999999995,included_game_day
+1993,2363,Manhattan,1992-12-21,63.824101505799995,included_game_day
+1993,2363,Manhattan,1992-12-28,43.533483172758,included_game_day
+1993,2363,Manhattan,1992-12-29,37.0472283539822,included_game_day
+1993,2363,Manhattan,1993-01-04,32.62707588742978,included_game_day
+1993,2363,Manhattan,1993-01-06,32.62784285749309,included_game_day
+1993,2363,Manhattan,1993-01-11,37.5736942911749,included_game_day
+1993,2363,Manhattan,1993-01-14,23.741785740958896,included_game_day
+1993,2363,Manhattan,1993-01-16,27.98384327849636,included_game_day
+1993,2363,Manhattan,1993-01-21,30.737656230193963,included_game_day
+1993,2363,Manhattan,1993-01-23,36.73090471219108,included_game_day
+1993,2363,Manhattan,1993-01-27,32.63626386092763,included_game_day
+1993,2363,Manhattan,1993-01-30,35.8989881323561,included_game_day
+1993,2363,Manhattan,1993-02-02,42.08563832438378,included_game_day
+1993,2363,Manhattan,1993-02-10,44.59967664928536,included_game_day
+1993,2363,Manhattan,1993-02-13,54.08268272064568,included_game_day
+1993,2363,Manhattan,1993-02-15,67.47758837552115,included_game_day
+1993,2363,Manhattan,1993-02-20,58.024405912143855,included_game_day
+1993,2363,Manhattan,1993-02-22,56.34987237922631,included_game_day
+1993,2363,Manhattan,1993-02-27,63.979532084609836,included_game_day
+1993,2363,Manhattan,1993-03-01,60.785394308570986,included_game_day
+1993,2363,Manhattan,1993-03-05,64.23008408773991,included_game_day
+1993,2363,Manhattan,1993-03-06,64.87947889109361,included_game_day
+1993,2363,Manhattan,1993-03-07,65.01919532491998,included_game_day
+1993,2363,Manhattan,1993-03-19,55.13261303136314,included_game_day
+1994,2363,Manhattan,1993-11-28,-3.0,included_game_day
+1994,2363,Manhattan,1993-12-01,-4.14,included_game_day
+1994,2363,Manhattan,1993-12-04,5.274,included_game_day
+1994,2363,Manhattan,1993-12-06,20.2877,included_game_day
+1994,2363,Manhattan,1993-12-11,28.64383,included_game_day
+1994,2363,Manhattan,1993-12-18,38.7743990649,included_game_day
+1994,2363,Manhattan,1993-12-21,56.75209635841,included_game_day
+1994,2363,Manhattan,1993-12-29,43.571900118646596,included_game_day
+1994,2363,Manhattan,1993-12-30,39.32154263575494,included_game_day
+1994,2363,Manhattan,1994-01-05,70.06035302094756,included_game_day
+1994,2363,Manhattan,1994-01-08,66.84384172281086,included_game_day
+1994,2363,Manhattan,1994-01-10,44.1347300217167,included_game_day
+1994,2363,Manhattan,1994-01-13,57.315648879001,included_game_day
+1994,2363,Manhattan,1994-01-18,56.0404992893728,included_game_day
+1994,2363,Manhattan,1994-01-22,57.49813408774354,included_game_day
+1994,2363,Manhattan,1994-01-25,58.47387768323374,included_game_day
+1994,2363,Manhattan,1994-01-29,88.77288655614014,included_game_day
+1994,2363,Manhattan,1994-01-30,64.94406337555499,included_game_day
+1994,2363,Manhattan,1994-02-03,80.42289218137567,included_game_day
+1994,2363,Manhattan,1994-02-05,72.20873608369557,included_game_day
+1994,2363,Manhattan,1994-02-08,61.50625389513311,included_game_day
+1994,2363,Manhattan,1994-02-12,66.28576231324116,included_game_day
+1994,2363,Manhattan,1994-02-16,70.18621048829183,included_game_day
+1994,2363,Manhattan,1994-02-18,63.40695275250699,included_game_day
+1994,2363,Manhattan,1994-02-23,73.83137674170852,included_game_day
+1994,2363,Manhattan,1994-02-27,100.37596765896937,included_game_day
+1994,2363,Manhattan,1994-03-05,117.53172456883168,included_game_day
+1994,2363,Manhattan,1994-03-06,119.97922705115023,included_game_day
+1994,2363,Manhattan,1994-03-07,105.63486938666996,included_game_day
+1994,2363,Manhattan,1994-03-17,103.9944303490461,included_game_day
+1995,2363,Manhattan,1994-11-28,35.5,included_game_day
+1995,2363,Manhattan,1994-12-03,68.95,included_game_day
+1995,2363,Manhattan,1994-12-05,69.14500000000001,included_game_day
+1995,2363,Manhattan,1994-12-07,76.81970000000001,included_game_day
+1995,2363,Manhattan,1994-12-10,76.77056270000001,included_game_day
+1995,2363,Manhattan,1994-12-17,69.99713343000002,included_game_day
+1995,2363,Manhattan,1994-12-20,74.12913014700001,included_game_day
+1995,2363,Manhattan,1994-12-22,105.86074334525001,included_game_day
+1995,2363,Manhattan,1994-12-27,90.19092422286501,included_game_day
+1995,2363,Manhattan,1994-12-28,74.3191651798785,included_game_day
+1995,2363,Manhattan,1995-01-04,62.0133382479144,included_game_day
+1995,2363,Manhattan,1995-01-07,51.889156854762334,included_game_day
+1995,2363,Manhattan,1995-01-12,66.1367924273425,included_game_day
+1995,2363,Manhattan,1995-01-14,79.10247754366887,included_game_day
+1995,2363,Manhattan,1995-01-17,96.32984719041579,included_game_day
+1995,2363,Manhattan,1995-01-21,91.0017896861318,included_game_day
+1995,2363,Manhattan,1995-01-23,100.03128513231532,included_game_day
+1995,2363,Manhattan,1995-01-28,90.33668481987547,included_game_day
+1995,2363,Manhattan,1995-02-03,98.13449980780274,included_game_day
+1995,2363,Manhattan,1995-02-05,107.07267374987063,included_game_day
+1995,2363,Manhattan,1995-02-08,97.85329049699764,included_game_day
+1995,2363,Manhattan,1995-02-11,97.40248403488448,included_game_day
+1995,2363,Manhattan,1995-02-14,108.50677812279736,included_game_day
+1995,2363,Manhattan,1995-02-18,105.46225016859228,included_game_day
+1995,2363,Manhattan,1995-02-20,102.78359705153592,included_game_day
+1995,2363,Manhattan,1995-02-25,82.03543139557789,included_game_day
+1995,2363,Manhattan,1995-03-04,85.26607194833335,included_game_day
+1995,2363,Manhattan,1995-03-05,86.11213272592863,included_game_day
+1995,2363,Manhattan,1995-03-06,75.00542678885279,included_game_day
+1995,2363,Manhattan,1995-03-16,90.38566991214783,included_game_day
+1995,2363,Manhattan,1995-03-18,83.32076249545946,included_game_day
+1996,2363,Manhattan,1995-11-15,-17.0,included_game_day
+1996,2363,Manhattan,1995-11-28,-14.86,included_game_day
+1996,2363,Manhattan,1995-12-09,11.796199999999999,included_game_day
+1996,2363,Manhattan,1995-12-16,13.97492,included_game_day
+1996,2363,Manhattan,1995-12-18,28.811218099999998,included_game_day
+1996,2363,Manhattan,1995-12-21,20.897801889999997,included_game_day
+1996,2363,Manhattan,1995-12-23,13.486781303389996,included_game_day
+1996,2363,Manhattan,1995-12-30,10.546653865910995,included_game_day
+1996,2363,Manhattan,1996-01-03,10.989580577874126,included_game_day
+1996,2363,Manhattan,1996-01-06,16.192289027626238,included_game_day
+1996,2363,Manhattan,1996-01-10,19.13578411826374,included_game_day
+1996,2363,Manhattan,1996-01-13,38.91476692897031,included_game_day
+1996,2363,Manhattan,1996-01-15,23.537494884946256,included_game_day
+1996,2363,Manhattan,1996-01-18,11.641300547805317,included_game_day
+1996,2363,Manhattan,1996-01-20,40.907210339654206,included_game_day
+1996,2363,Manhattan,1996-01-23,22.355445169279246,included_game_day
+1996,2363,Manhattan,1996-01-25,31.912924210319012,included_game_day
+1996,2363,Manhattan,1996-01-28,21.39337218281026,included_game_day
+1996,2363,Manhattan,1996-01-30,24.095210708770537,included_game_day
+1996,2363,Manhattan,1996-02-02,23.218338489646488,included_game_day
+1996,2363,Manhattan,1996-02-04,42.50738582699496,included_game_day
+1996,2363,Manhattan,1996-02-06,58.322503248102294,included_game_day
+1996,2363,Manhattan,1996-02-11,74.8495123383804,included_game_day
+1996,2363,Manhattan,1996-02-15,64.8214358640868,included_game_day
+1996,2363,Manhattan,1996-02-18,83.49048943568845,included_game_day
+1996,2363,Manhattan,1996-02-23,80.02189759468914,included_game_day
+1996,2363,Manhattan,1996-02-25,88.92394784298837,included_game_day
+1996,2363,Manhattan,1996-03-02,74.93812187685393,included_game_day
+1996,2363,Manhattan,1996-03-13,60.6620059501134,included_game_day
+1997,2363,Manhattan,1996-11-23,15.0,included_game_day
+1997,2363,Manhattan,1996-12-01,21.89,included_game_day
+1997,2363,Manhattan,1996-12-07,0.7330000000000005,included_game_day
+1997,2363,Manhattan,1996-12-15,0.13701500000000078,included_game_day
+1997,2363,Manhattan,1996-12-19,-7.194116499999999,included_game_day
+1997,2363,Manhattan,1996-12-23,-25.241126628499998,included_game_day
+1997,2363,Manhattan,1996-12-26,-28.110460439469996,included_game_day
+1997,2363,Manhattan,1996-12-28,-29.502536494692997,included_game_day
+1997,2363,Manhattan,1996-12-31,-40.987518507858695,included_game_day
+1997,2363,Manhattan,1997-01-03,-39.620549021513725,included_game_day
+1997,2363,Manhattan,1997-01-06,-59.28541551224828,included_game_day
+1997,2363,Manhattan,1997-01-12,-60.08909805003426,included_game_day
+1997,2363,Manhattan,1997-01-14,-49.84125669247918,included_game_day
+1997,2363,Manhattan,1997-01-19,-48.08122695726554,included_game_day
+1997,2363,Manhattan,1997-01-24,-34.73127129981374,included_game_day
+1997,2363,Manhattan,1997-01-26,-60.256977536470856,included_game_day
+1997,2363,Manhattan,1997-01-29,-42.55703634892937,included_game_day
+1997,2363,Manhattan,1997-01-31,-23.982517291689767,included_game_day
+1997,2363,Manhattan,1997-02-02,-40.49547709968226,included_game_day
+1997,2363,Manhattan,1997-02-06,-15.686833119263913,included_game_day
+1997,2363,Manhattan,1997-02-10,-17.477640355501137,included_game_day
+1997,2363,Manhattan,1997-02-12,-13.205459190419788,included_game_day
+1997,2363,Manhattan,1997-02-15,-17.612285833323362,included_game_day
+1997,2363,Manhattan,1997-02-17,-26.38386285098709,included_game_day
+1997,2363,Manhattan,1997-02-21,-50.2665405048747,included_game_day
+1997,2363,Manhattan,1997-02-23,-62.68142372699391,included_game_day
+1997,2363,Manhattan,1997-03-01,-60.762952946091204,included_game_day
+1998,2363,Manhattan,1997-11-29,-1.0750000000000002,included_game_day
+1998,2363,Manhattan,1997-12-02,9.29587,included_game_day
+1998,2363,Manhattan,1997-12-05,7.8591050000000005,included_game_day
+1998,2363,Manhattan,1997-12-07,0.6228895000000003,included_game_day
+1998,2363,Manhattan,1997-12-17,-24.03331603563,included_game_day
+1998,2363,Manhattan,1997-12-22,-25.781256233677002,included_game_day
+1998,2363,Manhattan,1997-12-27,-49.2743462624743,included_game_day
+1998,2363,Manhattan,1997-12-30,-44.95159360613879,included_game_day
+1998,2363,Manhattan,1998-01-03,-58.99059064373766,included_game_day
+1998,2363,Manhattan,1998-01-07,-58.37981365700348,included_game_day
+1998,2363,Manhattan,1998-01-11,-61.045593608790725,included_game_day
+1998,2363,Manhattan,1998-01-13,-42.956433918901865,included_game_day
+1998,2363,Manhattan,1998-01-16,-33.387292219887215,included_game_day
+1998,2363,Manhattan,1998-01-18,-20.017747757515444,included_game_day
+1998,2363,Manhattan,1998-01-21,-6.248859284438417,included_game_day
+1998,2363,Manhattan,1998-01-24,-0.6719269317168122,included_game_day
+1998,2363,Manhattan,1998-01-27,2.9831834436887856,included_game_day
+1998,2363,Manhattan,1998-01-31,-7.912604096433435,included_game_day
+1998,2363,Manhattan,1998-02-03,-1.6915133773356477,included_game_day
+1998,2363,Manhattan,1998-02-05,-17.157800855597987,included_game_day
+1998,2363,Manhattan,1998-02-07,-11.756450464071094,included_game_day
+1998,2363,Manhattan,1998-02-10,-17.59264818176577,included_game_day
+1998,2363,Manhattan,1998-02-13,-34.51579127769542,included_game_day
+1998,2363,Manhattan,1998-02-15,-45.614558792778055,included_game_day
+1998,2363,Manhattan,1998-02-20,-51.65791591524169,included_game_day
+1998,2363,Manhattan,1998-02-22,-57.890710786234955,included_game_day
+1998,2363,Manhattan,1998-02-27,-45.65013737533853,included_game_day
+1998,2363,Manhattan,1998-02-28,-22.989759367472935,included_game_day
+1998,2363,Manhattan,1998-03-01,-20.83601166553565,included_game_day
+1999,2363,Manhattan,1998-11-28,-7.67,included_game_day
+1999,2363,Manhattan,1998-12-01,-14.4831,included_game_day
+1999,2363,Manhattan,1998-12-04,-14.2809674,included_game_day
+1999,2363,Manhattan,1998-12-06,-14.803399886600001,included_game_day
+1999,2363,Manhattan,1998-12-10,-12.7789735267,included_game_day
+1999,2363,Manhattan,1998-12-22,-31.20986427263,included_game_day
+1999,2363,Manhattan,1998-12-27,-45.6291558349496,included_game_day
+1999,2363,Manhattan,1998-12-30,-46.07057763128734,included_game_day
+1999,2363,Manhattan,1999-01-02,-56.75455750168768,included_game_day
+1999,2363,Manhattan,1999-01-06,-38.611696810914665,included_game_day
+1999,2363,Manhattan,1999-01-09,-36.05387093803972,included_game_day
+1999,2363,Manhattan,1999-01-12,-38.11155838572105,included_game_day
+1999,2363,Manhattan,1999-01-15,-45.51084003291261,included_game_day
+1999,2363,Manhattan,1999-01-17,-59.38810599267016,included_game_day
+1999,2363,Manhattan,1999-01-21,-65.81206424571938,included_game_day
+1999,2363,Manhattan,1999-01-23,-64.35666416485148,included_game_day
+1999,2363,Manhattan,1999-01-26,-63.99407211108911,included_game_day
+1999,2363,Manhattan,1999-01-29,-65.7989405348291,included_game_day
+1999,2363,Manhattan,1999-01-31,-52.22665481938482,included_game_day
+1999,2363,Manhattan,1999-02-03,-69.27133271117475,included_game_day
+1999,2363,Manhattan,1999-02-06,-77.2326415052531,included_game_day
+1999,2363,Manhattan,1999-02-08,-49.02076516272034,included_game_day
+1999,2363,Manhattan,1999-02-11,-54.3972699482496,included_game_day
+1999,2363,Manhattan,1999-02-13,-70.86063175344322,included_game_day
+1999,2363,Manhattan,1999-02-18,-87.17321950383769,included_game_day
+1999,2363,Manhattan,1999-02-21,-86.4376642092188,included_game_day
+1999,2363,Manhattan,1999-02-26,-103.97892954007185,included_game_day
+2000,2363,Manhattan,1999-11-30,-5.3046,included_game_day
+2000,2363,Manhattan,1999-12-02,15.06926,included_game_day
+2000,2363,Manhattan,1999-12-05,14.354246,included_game_day
+2000,2363,Manhattan,1999-12-08,20.58651777,included_game_day
+2000,2363,Manhattan,1999-12-13,51.470875814907004,included_game_day
+2000,2363,Manhattan,1999-12-19,34.485263377516304,included_game_day
+2000,2363,Manhattan,1999-12-23,20.382235300494674,included_game_day
+2000,2363,Manhattan,1999-12-28,15.011148241825207,included_game_day
+2000,2363,Manhattan,1999-12-29,7.752064785469539,included_game_day
+2000,2363,Manhattan,2000-01-02,19.958324929212175,included_game_day
+2000,2363,Manhattan,2000-01-06,17.626152686645124,included_game_day
+2000,2363,Manhattan,2000-01-08,12.210520332254763,included_game_day
+2000,2363,Manhattan,2000-01-13,14.492877011637551,included_game_day
+2000,2363,Manhattan,2000-01-16,11.519901057799444,included_game_day
+2000,2363,Manhattan,2000-01-18,27.115431682133476,included_game_day
+2000,2363,Manhattan,2000-01-23,41.22045599945292,included_game_day
+2000,2363,Manhattan,2000-01-26,41.759930143352506,included_game_day
+2000,2363,Manhattan,2000-01-29,28.142949760693607,included_game_day
+2000,2363,Manhattan,2000-01-31,14.606536787525593,included_game_day
+2000,2363,Manhattan,2000-02-04,4.574639761438371,included_game_day
+2000,2363,Manhattan,2000-02-06,15.449136010316051,included_game_day
+2000,2363,Manhattan,2000-02-11,18.452348944152398,included_game_day
+2000,2363,Manhattan,2000-02-18,33.52750858887477,included_game_day
+2000,2363,Manhattan,2000-02-20,23.426432972049433,included_game_day
+2000,2363,Manhattan,2000-02-24,6.136281678678259,included_game_day
+2000,2363,Manhattan,2000-02-26,-0.0480253463067708,included_game_day
+2000,2363,Manhattan,2000-03-04,-16.20058083673591,included_game_day
+2001,2363,Manhattan,2000-11-21,4.51,included_game_day
+2001,2363,Manhattan,2000-11-28,36.989,included_game_day
+2001,2363,Manhattan,2000-12-01,27.1252,included_game_day
+2001,2363,Manhattan,2000-12-05,16.406357999999997,included_game_day
+2001,2363,Manhattan,2000-12-07,8.055863199999997,included_game_day
+2001,2363,Manhattan,2000-12-09,10.071794287099998,included_game_day
+2001,2363,Manhattan,2000-12-21,6.740224331329298,included_game_day
+2001,2363,Manhattan,2000-12-27,-5.098161884493196,included_game_day
+2001,2363,Manhattan,2000-12-29,-14.986751703560824,included_game_day
+2001,2363,Manhattan,2000-12-30,-17.79571989543765,included_game_day
+2001,2363,Manhattan,2001-01-03,-10.501474457135263,included_game_day
+2001,2363,Manhattan,2001-01-07,-18.870765424640933,included_game_day
+2001,2363,Manhattan,2001-01-10,-21.985771529739914,included_game_day
+2001,2363,Manhattan,2001-01-12,-20.668988149669467,included_game_day
+2001,2363,Manhattan,2001-01-15,5.325040906426185,included_game_day
+2001,2363,Manhattan,2001-01-20,-1.3087251630455246,included_game_day
+2001,2363,Manhattan,2001-01-22,9.906469818591853,included_game_day
+2001,2363,Manhattan,2001-01-25,24.91945907763381,included_game_day
+2001,2363,Manhattan,2001-01-28,19.90514956647315,included_game_day
+2001,2363,Manhattan,2001-01-30,33.63139101177771,included_game_day
+2001,2363,Manhattan,2001-02-02,24.32343543978136,included_game_day
+2001,2363,Manhattan,2001-02-04,30.797851917853535,included_game_day
+2001,2363,Manhattan,2001-02-09,27.96000765991431,included_game_day
+2001,2363,Manhattan,2001-02-11,26.12775063809898,included_game_day
+2001,2363,Manhattan,2001-02-16,16.974727183336164,included_game_day
+2001,2363,Manhattan,2001-02-18,14.0074001355811,included_game_day
+2001,2363,Manhattan,2001-02-22,31.476881213452884,included_game_day
+2001,2363,Manhattan,2001-02-25,45.571804832126375,included_game_day
+2001,2363,Manhattan,2001-03-03,43.31006790572548,included_game_day
+2002,2363,Manhattan Jaspers,2001-11-12,-17.0,included_game_day
+2002,2363,Manhattan Jaspers,2001-11-23,-2.5199999999999996,included_game_day
+2002,2363,Manhattan Jaspers,2001-11-26,26.232,included_game_day
+2002,2363,Manhattan Jaspers,2001-11-30,43.5719,included_game_day
+2002,2363,Manhattan Jaspers,2001-12-03,71.0261,included_game_day
+2002,2363,Manhattan Jaspers,2001-12-05,81.044985,included_game_day
+2002,2363,Manhattan Jaspers,2001-12-08,88.9559035,included_game_day
+2002,2363,Manhattan Jaspers,2001-12-21,82.524610296825,included_game_day
+2002,2363,Manhattan Jaspers,2002-01-02,74.72531457594414,included_game_day
+2002,2363,Manhattan Jaspers,2002-01-07,106.86659549793184,included_game_day
+2002,2363,Manhattan Jaspers,2002-01-10,106.64033793499061,included_game_day
+2002,2363,Manhattan Jaspers,2002-01-12,100.23361135239321,included_game_day
+2002,2363,Manhattan Jaspers,2002-01-17,97.75563366731258,included_game_day
+2002,2363,Manhattan Jaspers,2002-01-19,82.90851962885455,included_game_day
+2002,2363,Manhattan Jaspers,2002-01-22,81.69300986872872,included_game_day
+2002,2363,Manhattan Jaspers,2002-01-25,71.75018867995703,included_game_day
+2002,2363,Manhattan Jaspers,2002-01-30,60.52834270738847,included_game_day
+2002,2363,Manhattan Jaspers,2002-02-02,59.53993160186979,included_game_day
+2002,2363,Manhattan Jaspers,2002-02-05,56.62262471461835,included_game_day
+2002,2363,Manhattan Jaspers,2002-02-08,46.97386335224964,included_game_day
+2002,2363,Manhattan Jaspers,2002-02-15,49.143595330970115,included_game_day
+2002,2363,Manhattan Jaspers,2002-02-18,41.86818302821999,included_game_day
+2002,2363,Manhattan Jaspers,2002-02-22,47.946819779922414,included_game_day
+2002,2363,Manhattan Jaspers,2002-03-02,34.22856588508404,included_game_day
+2002,2363,Manhattan Jaspers,2002-03-14,28.88050862229459,included_game_day
+2003,2363,Manhattan Jaspers,2002-11-25,11.2,included_game_day
+2003,2363,Manhattan Jaspers,2002-11-29,18.0,included_game_day
+2003,2363,Manhattan Jaspers,2002-12-03,42.621680999999995,included_game_day
+2003,2363,Manhattan Jaspers,2002-12-07,36.1196619,included_game_day
+2003,2363,Manhattan Jaspers,2002-12-17,35.444067374499994,included_game_day
+2003,2363,Manhattan Jaspers,2002-12-18,16.094844897449995,included_game_day
+2003,2363,Manhattan Jaspers,2002-12-21,4.828982766718996,included_game_day
+2003,2363,Manhattan Jaspers,2002-12-23,19.863549112714097,included_game_day
+2003,2363,Manhattan Jaspers,2002-12-27,34.07849027716469,included_game_day
+2003,2363,Manhattan Jaspers,2002-12-28,34.13394243718105,included_game_day
+2003,2363,Manhattan Jaspers,2003-01-04,39.65776398376858,included_game_day
+2003,2363,Manhattan Jaspers,2003-01-07,52.79565625692966,included_game_day
+2003,2363,Manhattan Jaspers,2003-01-10,62.22906239697163,included_game_day
+2003,2363,Manhattan Jaspers,2003-01-16,65.09391995650954,included_game_day
+2003,2363,Manhattan Jaspers,2003-01-18,73.91137628447244,included_game_day
+2003,2363,Manhattan Jaspers,2003-01-21,72.62911276646221,included_game_day
+2003,2363,Manhattan Jaspers,2003-01-23,78.05655593571225,included_game_day
+2003,2363,Manhattan Jaspers,2003-01-27,82.51586415234593,included_game_day
+2003,2363,Manhattan Jaspers,2003-01-31,84.56694197039336,included_game_day
+2003,2363,Manhattan Jaspers,2003-02-02,81.92342355409048,included_game_day
+2003,2363,Manhattan Jaspers,2003-02-06,87.33465569901341,included_game_day
+2003,2363,Manhattan Jaspers,2003-02-08,89.84729207026386,included_game_day
+2003,2363,Manhattan Jaspers,2003-02-13,76.86168621688223,included_game_day
+2003,2363,Manhattan Jaspers,2003-02-16,69.84865267547248,included_game_day
+2003,2363,Manhattan Jaspers,2003-02-23,89.69793733999444,included_game_day
+2003,2363,Manhattan Jaspers,2003-02-27,83.25225102522509,included_game_day
+2003,2363,Manhattan Jaspers,2003-03-02,86.60384666978713,included_game_day
+2003,2363,Manhattan Jaspers,2003-03-09,77.14020114536822,included_game_day
+2003,2363,Manhattan Jaspers,2003-03-10,83.81917368550813,included_game_day
+2003,2363,Manhattan Jaspers,2003-03-21,78.64873396432998,included_game_day
+2004,2363,Manhattan Jaspers,2003-11-24,12.0,included_game_day
+2004,2363,Manhattan Jaspers,2003-11-29,16.996000000000002,included_game_day
+2004,2363,Manhattan Jaspers,2003-12-02,-3.7236699999999985,included_game_day
+2004,2363,Manhattan Jaspers,2003-12-07,15.9780929,included_game_day
+2004,2363,Manhattan Jaspers,2003-12-17,14.4553198499,included_game_day
+2004,2363,Manhattan Jaspers,2003-12-20,21.95215875391,included_game_day
+2004,2363,Manhattan Jaspers,2003-12-28,19.879549252519,included_game_day
+2004,2363,Manhattan Jaspers,2003-12-29,13.6606765238739,included_game_day
+2004,2363,Manhattan Jaspers,2003-12-31,16.79263800073941,included_game_day
+2004,2363,Manhattan Jaspers,2004-01-03,36.210224012215335,included_game_day
+2004,2363,Manhattan Jaspers,2004-01-07,49.932564240447704,included_game_day
+2004,2363,Manhattan Jaspers,2004-01-09,60.315133545256856,included_game_day
+2004,2363,Manhattan Jaspers,2004-01-14,78.02591700582887,included_game_day
+2004,2363,Manhattan Jaspers,2004-01-18,85.27219742295235,included_game_day
+2004,2363,Manhattan Jaspers,2004-01-21,80.06922175665112,included_game_day
+2004,2363,Manhattan Jaspers,2004-01-23,89.39238327854738,included_game_day
+2004,2363,Manhattan Jaspers,2004-01-25,61.20600453587117,included_game_day
+2004,2363,Manhattan Jaspers,2004-01-30,59.091077965885205,included_game_day
+2004,2363,Manhattan Jaspers,2004-02-01,59.7530637632682,included_game_day
+2004,2363,Manhattan Jaspers,2004-02-04,80.80326114049564,included_game_day
+2004,2363,Manhattan Jaspers,2004-02-08,79.48795672743545,included_game_day
+2004,2363,Manhattan Jaspers,2004-02-13,84.05557302665235,included_game_day
+2004,2363,Manhattan Jaspers,2004-02-15,85.64842595303656,included_game_day
+2004,2363,Manhattan Jaspers,2004-02-18,94.7139438896556,included_game_day
+2004,2363,Manhattan Jaspers,2004-02-21,98.32409687421325,included_game_day
+2004,2363,Manhattan Jaspers,2004-02-26,84.2762349272656,included_game_day
+2004,2363,Manhattan Jaspers,2004-02-29,86.48856928699183,included_game_day
+2004,2363,Manhattan Jaspers,2004-03-07,84.57108821914156,included_game_day
+2004,2363,Manhattan Jaspers,2004-03-08,78.76481267680597,included_game_day
+2004,2363,Manhattan Jaspers,2004-03-18,100.92354918152367,included_game_day
+2004,2363,Manhattan Jaspers,2004-03-20,100.40975313155737,included_game_day
+2005,2363,Manhattan Jaspers,2004-11-23,6.489,included_game_day
+2005,2363,Manhattan Jaspers,2004-11-27,25.130100000000002,included_game_day
+2005,2363,Manhattan Jaspers,2004-11-30,17.147550000000003,included_game_day
+2005,2363,Manhattan Jaspers,2004-12-05,14.261875000000002,included_game_day
+2005,2363,Manhattan Jaspers,2004-12-09,24.873199905,included_game_day
+2005,2363,Manhattan Jaspers,2004-12-21,0.2683170705699993,included_game_day
+2005,2363,Manhattan Jaspers,2004-12-30,-9.476420149522971,included_game_day
+2005,2363,Manhattan Jaspers,2005-01-03,5.041806552994441,included_game_day
+2005,2363,Manhattan Jaspers,2005-01-09,-5.125102433578945,included_game_day
+2005,2363,Manhattan Jaspers,2005-01-13,4.664437899565545,included_game_day
+2005,2363,Manhattan Jaspers,2005-01-15,-3.5239246661431967,included_game_day
+2005,2363,Manhattan Jaspers,2005-01-17,4.023947689748667,included_game_day
+2005,2363,Manhattan Jaspers,2005-01-20,12.14215967784985,included_game_day
+2005,2363,Manhattan Jaspers,2005-01-22,16.497845074478178,included_game_day
+2005,2363,Manhattan Jaspers,2005-01-27,-10.394660660032056,included_game_day
+2005,2363,Manhattan Jaspers,2005-01-30,-3.1621527347290472,included_game_day
+2005,2363,Manhattan Jaspers,2005-02-01,-13.143152239244117,included_game_day
+2005,2363,Manhattan Jaspers,2005-02-04,-12.919103130741126,included_game_day
+2005,2363,Manhattan Jaspers,2005-02-06,-26.89229163030052,included_game_day
+2005,2363,Manhattan Jaspers,2005-02-11,-7.593058744350568,included_game_day
+2005,2363,Manhattan Jaspers,2005-02-13,18.87210227871635,included_game_day
+2005,2363,Manhattan Jaspers,2005-02-16,22.28519910712669,included_game_day
+2005,2363,Manhattan Jaspers,2005-02-19,16.575647693532318,included_game_day
+2005,2363,Manhattan Jaspers,2005-02-24,31.0232606772159,included_game_day
+2005,2363,Manhattan Jaspers,2005-02-27,10.513616250105706,included_game_day
+2005,2363,Manhattan Jaspers,2005-03-04,18.107762041580173,included_game_day
+2005,2363,Manhattan Jaspers,2005-03-05,16.526168907875697,included_game_day
+2006,2363,Manhattan Jaspers,2005-11-14,-11.0,included_game_day
+2006,2363,Manhattan Jaspers,2005-11-26,-19.371,included_game_day
+2006,2363,Manhattan Jaspers,2005-11-30,-13.316468999999998,included_game_day
+2006,2363,Manhattan Jaspers,2005-12-06,-15.742223739999998,included_game_day
+2006,2363,Manhattan Jaspers,2005-12-09,-5.226124995999998,included_game_day
+2006,2363,Manhattan Jaspers,2005-12-11,12.745330919600002,included_game_day
+2006,2363,Manhattan Jaspers,2005-12-18,31.372735733882415,included_game_day
+2006,2363,Manhattan Jaspers,2005-12-20,27.453105021048174,included_game_day
+2006,2363,Manhattan Jaspers,2005-12-23,34.37856436551115,included_game_day
+2006,2363,Manhattan Jaspers,2005-12-30,34.288804215065795,included_game_day
+2006,2363,Manhattan Jaspers,2006-01-06,56.20801259070437,included_game_day
+2006,2363,Manhattan Jaspers,2006-01-08,59.32902649262611,included_game_day
+2006,2363,Manhattan Jaspers,2006-01-13,51.67970986467457,included_game_day
+2006,2363,Manhattan Jaspers,2006-01-15,47.21043754351483,included_game_day
+2006,2363,Manhattan Jaspers,2006-01-18,41.35746894713307,included_game_day
+2006,2363,Manhattan Jaspers,2006-01-20,37.364144064508416,included_game_day
+2006,2363,Manhattan Jaspers,2006-01-24,13.239932796971289,included_game_day
+2006,2363,Manhattan Jaspers,2006-01-27,16.964406442398342,included_game_day
+2006,2363,Manhattan Jaspers,2006-01-30,25.16015164112377,included_game_day
+2006,2363,Manhattan Jaspers,2006-02-03,0.8900818066160952,included_game_day
+2006,2363,Manhattan Jaspers,2006-02-05,13.625586328056842,included_game_day
+2006,2363,Manhattan Jaspers,2006-02-08,24.296106431562386,included_game_day
+2006,2363,Manhattan Jaspers,2006-02-11,6.966145547767763,included_game_day
+2006,2363,Manhattan Jaspers,2006-02-13,10.230530424953274,included_game_day
+2006,2363,Manhattan Jaspers,2006-02-18,-7.074388150100797,included_game_day
+2006,2363,Manhattan Jaspers,2006-02-23,-13.313637162021646,included_game_day
+2006,2363,Manhattan Jaspers,2006-02-26,-4.1620802880219046,included_game_day
+2006,2363,Manhattan Jaspers,2006-03-05,-15.679702109217525,included_game_day
+2006,2363,Manhattan Jaspers,2006-03-14,-11.839966220520445,included_game_day
+2006,2363,Manhattan Jaspers,2006-03-18,1.3925211584831398,included_game_day
+2006,2363,Manhattan Jaspers,2006-03-20,8.123609732956993,included_game_day
+2007,2363,Manhattan Jaspers,2006-11-11,-4.0,included_game_day
+2007,2363,Manhattan Jaspers,2006-11-14,-4.5,included_game_day
+2007,2363,Manhattan Jaspers,2006-11-18,-5.35,included_game_day
+2007,2363,Manhattan Jaspers,2006-11-22,-19.39,included_game_day
+2007,2363,Manhattan Jaspers,2006-11-25,-33.183192,included_game_day
+2007,2363,Manhattan Jaspers,2006-11-30,-30.3413574,included_game_day
+2007,2363,Manhattan Jaspers,2006-12-02,-35.64456783,included_game_day
+2007,2363,Manhattan Jaspers,2006-12-08,-32.83145082816,included_game_day
+2007,2363,Manhattan Jaspers,2006-12-10,-50.679812923893,included_game_day
+2007,2363,Manhattan Jaspers,2006-12-21,-53.402608064878336,included_game_day
+2007,2363,Manhattan Jaspers,2006-12-30,-57.56408130705906,included_game_day
+2007,2363,Manhattan Jaspers,2007-01-02,-47.164440395268464,included_game_day
+2007,2363,Manhattan Jaspers,2007-01-06,-46.967908497854495,included_game_day
+2007,2363,Manhattan Jaspers,2007-01-08,-33.88221413568694,included_game_day
+2007,2363,Manhattan Jaspers,2007-01-12,-28.830268215685862,included_game_day
+2007,2363,Manhattan Jaspers,2007-01-15,-28.282678597212964,included_game_day
+2007,2363,Manhattan Jaspers,2007-01-18,-22.3758060698572,included_game_day
+2007,2363,Manhattan Jaspers,2007-01-21,-33.072315217405674,included_game_day
+2007,2363,Manhattan Jaspers,2007-01-24,-24.023988150547176,included_game_day
+2007,2363,Manhattan Jaspers,2007-01-27,-30.245001528916454,included_game_day
+2007,2363,Manhattan Jaspers,2007-01-30,-27.811207585518645,included_game_day
+2007,2363,Manhattan Jaspers,2007-02-02,-34.655513179622815,included_game_day
+2007,2363,Manhattan Jaspers,2007-02-06,-36.91192690659858,included_game_day
+2007,2363,Manhattan Jaspers,2007-02-09,-42.8894872628609,included_game_day
+2007,2363,Manhattan Jaspers,2007-02-11,-43.47805448511551,included_game_day
+2007,2363,Manhattan Jaspers,2007-02-15,-49.75713180037383,included_game_day
+2007,2363,Manhattan Jaspers,2007-02-17,-61.37361628257439,included_game_day
+2007,2363,Manhattan Jaspers,2007-02-22,-66.30921486661701,included_game_day
+2007,2363,Manhattan Jaspers,2007-02-25,-67.7247994496968,included_game_day
+2007,2363,Manhattan Jaspers,2007-03-03,-58.16171534536199,included_game_day
+2008,2363,Manhattan Jaspers,2007-11-10,45.0,included_game_day
+2008,2363,Manhattan Jaspers,2007-11-14,57.2,included_game_day
+2008,2363,Manhattan Jaspers,2007-11-17,51.38,included_game_day
+2008,2363,Manhattan Jaspers,2007-11-21,37.324,included_game_day
+2008,2363,Manhattan Jaspers,2007-11-24,38.0574,included_game_day
+2008,2363,Manhattan Jaspers,2007-11-28,19.63558,included_game_day
+2008,2363,Manhattan Jaspers,2007-12-01,22.7116079,included_game_day
+2008,2363,Manhattan Jaspers,2007-12-07,19.72300001066,included_game_day
+2008,2363,Manhattan Jaspers,2007-12-09,-5.704417760405999,included_game_day
+2008,2363,Manhattan Jaspers,2007-12-16,-3.754411134202998,included_game_day
+2008,2363,Manhattan Jaspers,2007-12-21,-5.523707546211988,included_game_day
+2008,2363,Manhattan Jaspers,2007-12-29,-9.337049871525517,included_game_day
+2008,2363,Manhattan Jaspers,2008-01-05,-16.635479540879135,included_game_day
+2008,2363,Manhattan Jaspers,2008-01-07,-20.86541700214972,included_game_day
+2008,2363,Manhattan Jaspers,2008-01-11,-23.06244374867852,included_game_day
+2008,2363,Manhattan Jaspers,2008-01-13,-30.88798491634295,included_game_day
+2008,2363,Manhattan Jaspers,2008-01-17,-32.35653573151943,included_game_day
+2008,2363,Manhattan Jaspers,2008-01-24,-33.59554490744716,included_game_day
+2008,2363,Manhattan Jaspers,2008-01-26,-50.80279724118448,included_game_day
+2008,2363,Manhattan Jaspers,2008-01-30,-53.899511588464165,included_game_day
+2008,2363,Manhattan Jaspers,2008-02-03,-63.834635081326056,included_game_day
+2008,2363,Manhattan Jaspers,2008-02-08,-71.38866897887256,included_game_day
+2008,2363,Manhattan Jaspers,2008-02-10,-66.48110613937884,included_game_day
+2008,2363,Manhattan Jaspers,2008-02-15,-40.65611960571306,included_game_day
+2008,2363,Manhattan Jaspers,2008-02-18,-35.016313422293884,included_game_day
+2008,2363,Manhattan Jaspers,2008-02-23,-47.10946111362005,included_game_day
+2008,2363,Manhattan Jaspers,2008-02-29,-52.77291184314374,included_game_day
+2008,2363,Manhattan Jaspers,2008-03-02,-61.72192247354152,included_game_day
+2008,2363,Manhattan Jaspers,2008-03-07,-47.52705835859105,included_game_day
+2008,2363,Manhattan Jaspers,2008-03-08,-43.635450799838004,included_game_day
+2009,2363,Manhattan Jaspers,2008-11-15,27.0,included_game_day
+2009,2363,Manhattan Jaspers,2008-11-19,22.7,included_game_day
+2009,2363,Manhattan Jaspers,2008-11-22,33.44,included_game_day
+2009,2363,Manhattan Jaspers,2008-11-26,27.131099999999996,included_game_day
+2009,2363,Manhattan Jaspers,2008-11-29,15.303989999999997,included_game_day
+2009,2363,Manhattan Jaspers,2008-12-05,29.84816378,included_game_day
+2009,2363,Manhattan Jaspers,2008-12-07,27.894374372,included_game_day
+2009,2363,Manhattan Jaspers,2008-12-14,30.558591552770004,included_game_day
+2009,2363,Manhattan Jaspers,2008-12-20,37.350840542816,included_game_day
+2009,2363,Manhattan Jaspers,2008-12-22,34.50190330089798,included_game_day
+2009,2363,Manhattan Jaspers,2008-12-29,14.274601871141904,included_game_day
+2009,2363,Manhattan Jaspers,2008-12-31,-8.82807545672549,included_game_day
+2009,2363,Manhattan Jaspers,2009-01-03,-17.473280752494567,included_game_day
+2009,2363,Manhattan Jaspers,2009-01-05,-16.872964121053023,included_game_day
+2009,2363,Manhattan Jaspers,2009-01-09,-15.370790536810404,included_game_day
+2009,2363,Manhattan Jaspers,2009-01-11,-15.631173594880327,included_game_day
+2009,2363,Manhattan Jaspers,2009-01-16,-24.571632344419776,included_game_day
+2009,2363,Manhattan Jaspers,2009-01-19,-29.2204523076791,included_game_day
+2009,2363,Manhattan Jaspers,2009-01-24,-43.16551699139846,included_game_day
+2009,2363,Manhattan Jaspers,2009-01-26,-39.868395944267085,included_game_day
+2009,2363,Manhattan Jaspers,2009-01-31,-55.60411818836901,included_game_day
+2009,2363,Manhattan Jaspers,2009-02-02,-31.853341772766377,included_game_day
+2009,2363,Manhattan Jaspers,2009-02-07,-20.18444261900433,included_game_day
+2009,2363,Manhattan Jaspers,2009-02-09,-9.230359692008726,included_game_day
+2009,2363,Manhattan Jaspers,2009-02-12,-22.169052094404023,included_game_day
+2009,2363,Manhattan Jaspers,2009-02-15,-17.860721885604093,included_game_day
+2009,2363,Manhattan Jaspers,2009-02-21,0.2639872992184067,included_game_day
+2009,2363,Manhattan Jaspers,2009-02-27,-1.1332240328320906,included_game_day
+2009,2363,Manhattan Jaspers,2009-03-01,-3.412273785374007,included_game_day
+2009,2363,Manhattan Jaspers,2009-03-07,-13.05455079361222,included_game_day
+2010,2363,Manhattan Jaspers,2009-11-14,9.0,included_game_day
+2010,2363,Manhattan Jaspers,2009-11-18,4.7,included_game_day
+2010,2363,Manhattan Jaspers,2009-11-21,-3.154,included_game_day
+2010,2363,Manhattan Jaspers,2009-11-23,1.52651,included_game_day
+2010,2363,Manhattan Jaspers,2009-11-25,6.01875,included_game_day
+2010,2363,Manhattan Jaspers,2009-11-28,26.181775000000002,included_game_day
+2010,2363,Manhattan Jaspers,2009-12-04,4.152490540000002,included_game_day
+2010,2363,Manhattan Jaspers,2009-12-06,20.2825545395,included_game_day
+2010,2363,Manhattan Jaspers,2009-12-09,17.308734233550002,included_game_day
+2010,2363,Manhattan Jaspers,2009-12-12,10.052570627355003,included_game_day
+2010,2363,Manhattan Jaspers,2009-12-19,18.4697696517064,included_game_day
+2010,2363,Manhattan Jaspers,2009-12-30,-12.22011615563989,included_game_day
+2010,2363,Manhattan Jaspers,2010-01-02,-23.019354576709354,included_game_day
+2010,2363,Manhattan Jaspers,2010-01-04,-27.138913090645175,included_game_day
+2010,2363,Manhattan Jaspers,2010-01-08,-4.626948643523118,included_game_day
+2010,2363,Manhattan Jaspers,2010-01-10,-0.9208217105969521,included_game_day
+2010,2363,Manhattan Jaspers,2010-01-16,-4.999105423091734,included_game_day
+2010,2363,Manhattan Jaspers,2010-01-18,-7.0678085271211035,included_game_day
+2010,2363,Manhattan Jaspers,2010-01-22,-6.617726701493485,included_game_day
+2010,2363,Manhattan Jaspers,2010-01-24,-8.160677611607339,included_game_day
+2010,2363,Manhattan Jaspers,2010-01-28,-10.834819581351228,included_game_day
+2010,2363,Manhattan Jaspers,2010-01-31,-32.500345127908034,included_game_day
+2010,2363,Manhattan Jaspers,2010-02-05,-20.49496998123446,included_game_day
+2010,2363,Manhattan Jaspers,2010-02-07,-28.268449171268642,included_game_day
+2010,2363,Manhattan Jaspers,2010-02-12,-12.254865812684614,included_game_day
+2010,2363,Manhattan Jaspers,2010-02-15,-28.32224338621583,included_game_day
+2010,2363,Manhattan Jaspers,2010-02-20,-22.02639219655846,included_game_day
+2010,2363,Manhattan Jaspers,2010-02-26,-21.466309494892286,included_game_day
+2010,2363,Manhattan Jaspers,2010-02-28,-31.896214916255698,included_game_day
+2010,2363,Manhattan Jaspers,2010-03-05,-16.240139253346427,included_game_day
+2010,2363,Manhattan Jaspers,2010-03-06,-18.803916419183636,included_game_day
+2011,2363,Manhattan Jaspers,2010-11-13,8.0,included_game_day
+2011,2363,Manhattan Jaspers,2010-11-17,9.4,included_game_day
+2011,2363,Manhattan Jaspers,2010-11-20,-1.0399999999999991,included_game_day
+2011,2363,Manhattan Jaspers,2010-11-25,-9.597599999999998,included_game_day
+2011,2363,Manhattan Jaspers,2010-11-26,-33.1216174,included_game_day
+2011,2363,Manhattan Jaspers,2010-11-28,-32.238485659999995,included_game_day
+2011,2363,Manhattan Jaspers,2010-12-02,-60.599815793999994,included_game_day
+2011,2363,Manhattan Jaspers,2010-12-04,-70.8314689696,included_game_day
+2011,2363,Manhattan Jaspers,2010-12-08,-76.31103553064,included_game_day
+2011,2363,Manhattan Jaspers,2010-12-11,-81.444101081576,included_game_day
+2011,2363,Manhattan Jaspers,2010-12-18,-91.2009879082124,included_game_day
+2011,2363,Manhattan Jaspers,2010-12-22,-98.44636742668939,included_game_day
+2011,2363,Manhattan Jaspers,2011-01-03,-88.64844435024013,included_game_day
+2011,2363,Manhattan Jaspers,2011-01-07,-99.09298979128192,included_game_day
+2011,2363,Manhattan Jaspers,2011-01-09,-107.34323902873713,included_game_day
+2011,2363,Manhattan Jaspers,2011-01-11,-100.98642777619104,included_game_day
+2011,2363,Manhattan Jaspers,2011-01-15,-115.33411136068777,included_game_day
+2011,2363,Manhattan Jaspers,2011-01-17,-115.06563035481321,included_game_day
+2011,2363,Manhattan Jaspers,2011-01-20,-112.71659527078546,included_game_day
+2011,2363,Manhattan Jaspers,2011-01-23,-115.37001893256723,included_game_day
+2011,2363,Manhattan Jaspers,2011-01-28,-95.55386741932209,included_game_day
+2011,2363,Manhattan Jaspers,2011-01-30,-94.19297051292632,included_game_day
+2011,2363,Manhattan Jaspers,2011-02-04,-90.26914485329372,included_game_day
+2011,2363,Manhattan Jaspers,2011-02-07,-90.44212122803172,included_game_day
+2011,2363,Manhattan Jaspers,2011-02-11,-88.80522346850042,included_game_day
+2011,2363,Manhattan Jaspers,2011-02-13,-81.96839195644483,included_game_day
+2011,2363,Manhattan Jaspers,2011-02-16,-108.74931197757869,included_game_day
+2011,2363,Manhattan Jaspers,2011-02-19,-99.52690925224628,included_game_day
+2011,2363,Manhattan Jaspers,2011-02-25,-95.67243679296506,included_game_day
+2011,2363,Manhattan Jaspers,2011-02-27,-96.84088320736909,included_game_day
+2011,2363,Manhattan Jaspers,2011-03-04,-92.53791413500491,included_game_day
+2012,2363,Manhattan Jaspers,2011-11-12,11.0,included_game_day
+2012,2363,Manhattan Jaspers,2011-11-14,-20.9,included_game_day
+2012,2363,Manhattan Jaspers,2011-11-15,-18.009999999999998,included_game_day
+2012,2363,Manhattan Jaspers,2011-11-21,-14.636999999999999,included_game_day
+2012,2363,Manhattan Jaspers,2011-11-22,-15.30144,included_game_day
+2012,2363,Manhattan Jaspers,2011-11-26,-38.486936,included_game_day
+2012,2363,Manhattan Jaspers,2011-11-29,-36.3696297,included_game_day
+2012,2363,Manhattan Jaspers,2011-12-02,-19.885659169999997,included_game_day
+2012,2363,Manhattan Jaspers,2011-12-04,4.3020125970000045,included_game_day
+2012,2363,Manhattan Jaspers,2011-12-07,31.647075133100003,included_game_day
+2012,2363,Manhattan Jaspers,2011-12-10,39.165137656220004,included_game_day
+2012,2363,Manhattan Jaspers,2011-12-20,42.500968524918726,included_game_day
+2012,2363,Manhattan Jaspers,2011-12-23,23.28210250855977,included_game_day
+2012,2363,Manhattan Jaspers,2011-12-30,53.70013226821822,included_game_day
+2012,2363,Manhattan Jaspers,2012-01-02,26.951922756191006,included_game_day
+2012,2363,Manhattan Jaspers,2012-01-05,27.774453805945637,included_game_day
+2012,2363,Manhattan Jaspers,2012-01-08,25.099648802039447,included_game_day
+2012,2363,Manhattan Jaspers,2012-01-12,38.34671949484533,included_game_day
+2012,2363,Manhattan Jaspers,2012-01-14,48.3085164900403,included_game_day
+2012,2363,Manhattan Jaspers,2012-01-20,55.64158405174827,included_game_day
+2012,2363,Manhattan Jaspers,2012-01-22,53.63268578382258,included_game_day
+2012,2363,Manhattan Jaspers,2012-01-27,51.7672649829308,included_game_day
+2012,2363,Manhattan Jaspers,2012-01-29,65.1023623450622,included_game_day
+2012,2363,Manhattan Jaspers,2012-02-02,67.36754569201074,included_game_day
+2012,2363,Manhattan Jaspers,2012-02-04,54.57527103187182,included_game_day
+2012,2363,Manhattan Jaspers,2012-02-09,48.70520564284522,included_game_day
+2012,2363,Manhattan Jaspers,2012-02-11,58.03499961574536,included_game_day
+2012,2363,Manhattan Jaspers,2012-02-14,45.92294779460231,included_game_day
+2012,2363,Manhattan Jaspers,2012-02-18,47.6358782684985,included_game_day
+2012,2363,Manhattan Jaspers,2012-02-24,41.823004510787875,included_game_day
+2012,2363,Manhattan Jaspers,2012-02-26,34.381513249425225,included_game_day
+2012,2363,Manhattan Jaspers,2012-03-03,25.307207278817863,included_game_day
+2012,2363,Manhattan Jaspers,2012-03-14,36.13517094057685,included_game_day
+2012,2363,Manhattan Jaspers,2012-03-18,29.62759603702076,included_game_day
+2013,2363,Manhattan Jaspers,2012-11-11,-25.0,included_game_day
+2013,2363,Manhattan Jaspers,2012-11-16,-53.5,included_game_day
+2013,2363,Manhattan Jaspers,2012-11-21,-44.0334,included_game_day
+2013,2363,Manhattan Jaspers,2012-11-24,-42.21077,included_game_day
+2013,2363,Manhattan Jaspers,2012-11-29,-32.722328,included_game_day
+2013,2363,Manhattan Jaspers,2012-12-02,-42.03125552,included_game_day
+2013,2363,Manhattan Jaspers,2012-12-07,-45.472413028000005,included_game_day
+2013,2363,Manhattan Jaspers,2012-12-09,-28.375204198710005,included_game_day
+2013,2363,Manhattan Jaspers,2012-12-16,-49.474784812862104,included_game_day
+2013,2363,Manhattan Jaspers,2012-12-22,-50.312994890167495,included_game_day
+2013,2363,Manhattan Jaspers,2012-12-29,-53.11588771063302,included_game_day
+2013,2363,Manhattan Jaspers,2013-01-01,-51.44071739700618,included_game_day
+2013,2363,Manhattan Jaspers,2013-01-04,-42.320334158041064,included_game_day
+2013,2363,Manhattan Jaspers,2013-01-06,-38.192533017991565,included_game_day
+2013,2363,Manhattan Jaspers,2013-01-10,-47.66822511758462,included_game_day
+2013,2363,Manhattan Jaspers,2013-01-13,-39.85697883664052,included_game_day
+2013,2363,Manhattan Jaspers,2013-01-17,-37.264710053307205,included_game_day
+2013,2363,Manhattan Jaspers,2013-01-19,-30.134965218517863,included_game_day
+2013,2363,Manhattan Jaspers,2013-01-25,-37.35702405782393,included_game_day
+2013,2363,Manhattan Jaspers,2013-01-27,-19.872392757536996,included_game_day
+2013,2363,Manhattan Jaspers,2013-02-01,-26.583851005013553,included_game_day
+2013,2363,Manhattan Jaspers,2013-02-03,-27.089812327466348,included_game_day
+2013,2363,Manhattan Jaspers,2013-02-07,-10.20006510691249,included_game_day
+2013,2363,Manhattan Jaspers,2013-02-12,19.855921784159634,included_game_day
+2013,2363,Manhattan Jaspers,2013-02-15,19.349700526810647,included_game_day
+2013,2363,Manhattan Jaspers,2013-02-17,12.035393429253952,included_game_day
+2013,2363,Manhattan Jaspers,2013-02-23,13.539366862344224,included_game_day
+2013,2363,Manhattan Jaspers,2013-03-01,13.124724353636932,included_game_day
+2013,2363,Manhattan Jaspers,2013-03-03,16.029979911552914,included_game_day
+2013,2363,Manhattan Jaspers,2013-03-09,20.3541843578857,included_game_day
+2013,2363,Manhattan Jaspers,2013-03-10,36.29347020896194,included_game_day
+2013,2363,Manhattan Jaspers,2013-03-11,34.336191300724934,included_game_day
+2014,2363,Manhattan Jaspers,2013-11-09,12.0,included_game_day
+2014,2363,Manhattan Jaspers,2013-11-12,16.4,included_game_day
+2014,2363,Manhattan Jaspers,2013-11-16,9.7,included_game_day
+2014,2363,Manhattan Jaspers,2013-11-20,17.6025,included_game_day
+2014,2363,Manhattan Jaspers,2013-11-26,7.850631999999999,included_game_day
+2014,2363,Manhattan Jaspers,2013-11-30,14.97642825,included_game_day
+2014,2363,Manhattan Jaspers,2013-12-06,17.907334598,included_game_day
+2014,2363,Manhattan Jaspers,2013-12-08,17.67511084574,included_game_day
+2014,2363,Manhattan Jaspers,2013-12-15,21.244634304077,included_game_day
+2014,2363,Manhattan Jaspers,2013-12-17,41.694111131879296,included_game_day
+2014,2363,Manhattan Jaspers,2013-12-21,38.457906558405966,included_game_day
+2014,2363,Manhattan Jaspers,2014-01-02,46.67182205660185,included_game_day
+2014,2363,Manhattan Jaspers,2014-01-04,60.372281155257255,included_game_day
+2014,2363,Manhattan Jaspers,2014-01-09,56.035301647625964,included_game_day
+2014,2363,Manhattan Jaspers,2014-01-12,51.92774243423939,included_game_day
+2014,2363,Manhattan Jaspers,2014-01-16,64.26452994572665,included_game_day
+2014,2363,Manhattan Jaspers,2014-01-18,49.912166477500776,included_game_day
+2014,2363,Manhattan Jaspers,2014-01-24,57.43970903388077,included_game_day
+2014,2363,Manhattan Jaspers,2014-01-26,45.77620440578171,included_game_day
+2014,2363,Manhattan Jaspers,2014-01-31,36.65760189225402,included_game_day
+2014,2363,Manhattan Jaspers,2014-02-04,39.441167164576264,included_game_day
+2014,2363,Manhattan Jaspers,2014-02-07,56.00772393316542,included_game_day
+2014,2363,Manhattan Jaspers,2014-02-09,48.711383819503865,included_game_day
+2014,2363,Manhattan Jaspers,2014-02-13,61.353859678930235,included_game_day
+2014,2363,Manhattan Jaspers,2014-02-16,65.21297430278227,included_game_day
+2014,2363,Manhattan Jaspers,2014-02-19,69.40841836249189,included_game_day
+2014,2363,Manhattan Jaspers,2014-02-21,57.86048763732189,included_game_day
+2014,2363,Manhattan Jaspers,2014-02-28,59.52640729642043,included_game_day
+2014,2363,Manhattan Jaspers,2014-03-02,59.136233022626676,included_game_day
+2014,2363,Manhattan Jaspers,2014-03-08,64.22504657101872,included_game_day
+2014,2363,Manhattan Jaspers,2014-03-09,76.39045062196365,included_game_day
+2014,2363,Manhattan Jaspers,2014-03-10,80.15107144445392,included_game_day
+2014,2363,Manhattan Jaspers,2014-03-20,91.40115255821107,included_game_day
+2015,2363,Manhattan Jaspers,2014-11-15,-12.0,included_game_day
+2015,2363,Manhattan Jaspers,2014-11-18,-15.4,included_game_day
+2015,2363,Manhattan Jaspers,2014-11-22,-4.25,included_game_day
+2015,2363,Manhattan Jaspers,2014-11-23,-14.9689,included_game_day
+2015,2363,Manhattan Jaspers,2014-11-29,-14.93323,included_game_day
+2015,2363,Manhattan Jaspers,2014-12-05,-29.544820613,included_game_day
+2015,2363,Manhattan Jaspers,2014-12-07,-12.207352093699999,included_game_day
+2015,2363,Manhattan Jaspers,2014-12-14,-21.19595361353,included_game_day
+2015,2363,Manhattan Jaspers,2014-12-17,-20.901632697277,included_game_day
+2015,2363,Manhattan Jaspers,2014-12-20,-24.281277154089373,included_game_day
+2015,2363,Manhattan Jaspers,2014-12-22,-11.493683019813437,included_game_day
+2015,2363,Manhattan Jaspers,2015-01-02,-24.38447795069049,included_game_day
+2015,2363,Manhattan Jaspers,2015-01-04,-16.096519687166186,included_game_day
+2015,2363,Manhattan Jaspers,2015-01-07,-10.42934752793033,included_game_day
+2015,2363,Manhattan Jaspers,2015-01-10,-9.414085141785291,included_game_day
+2015,2363,Manhattan Jaspers,2015-01-16,2.331893102249893,included_game_day
+2015,2363,Manhattan Jaspers,2015-01-18,-2.15216866982135,included_game_day
+2015,2363,Manhattan Jaspers,2015-01-23,-12.297990784555253,included_game_day
+2015,2363,Manhattan Jaspers,2015-01-25,-5.805062682591347,included_game_day
+2015,2363,Manhattan Jaspers,2015-01-30,-8.389225709126858,included_game_day
+2015,2363,Manhattan Jaspers,2015-02-01,6.695269895227943,included_game_day
+2015,2363,Manhattan Jaspers,2015-02-06,12.851423966800226,included_game_day
+2015,2363,Manhattan Jaspers,2015-02-08,7.460551819443889,included_game_day
+2015,2363,Manhattan Jaspers,2015-02-13,7.280413628919051,included_game_day
+2015,2363,Manhattan Jaspers,2015-02-15,6.439989662374408,included_game_day
+2015,2363,Manhattan Jaspers,2015-02-21,7.790674196304191,included_game_day
+2015,2363,Manhattan Jaspers,2015-02-23,16.8868233446508,included_game_day
+2015,2363,Manhattan Jaspers,2015-02-27,19.45909213252237,included_game_day
+2015,2363,Manhattan Jaspers,2015-03-01,19.12143424174339,included_game_day
+2015,2363,Manhattan Jaspers,2015-03-07,27.88572123758876,included_game_day
+2015,2363,Manhattan Jaspers,2015-03-08,43.53529096352128,included_game_day
+2015,2363,Manhattan Jaspers,2015-03-09,53.78740247510527,included_game_day
+2015,2363,Manhattan Jaspers,2015-03-17,38.20842529278672,included_game_day
+2016,2363,Manhattan Jaspers,2015-11-16,-23.0,included_game_day
+2016,2363,Manhattan Jaspers,2015-11-21,-37.422,included_game_day
+2016,2363,Manhattan Jaspers,2015-11-25,-36.8465,included_game_day
+2016,2363,Manhattan Jaspers,2015-11-28,-49.75448,included_game_day
+2016,2363,Manhattan Jaspers,2015-12-04,-77.6543225,included_game_day
+2016,2363,Manhattan Jaspers,2015-12-06,-84.34089066,included_game_day
+2016,2363,Manhattan Jaspers,2015-12-09,-77.116647107,included_game_day
+2016,2363,Manhattan Jaspers,2015-12-12,-94.35271801830001,included_game_day
+2016,2363,Manhattan Jaspers,2015-12-14,-81.85421329875801,included_game_day
+2016,2363,Manhattan Jaspers,2015-12-20,-62.823541078882215,included_game_day
+2016,2363,Manhattan Jaspers,2015-12-29,-68.47848076408201,included_game_day
+2016,2363,Manhattan Jaspers,2016-01-02,-60.63999599539727,included_game_day
+2016,2363,Manhattan Jaspers,2016-01-04,-50.148240630035716,included_game_day
+2016,2363,Manhattan Jaspers,2016-01-07,-32.723363378592595,included_game_day
+2016,2363,Manhattan Jaspers,2016-01-09,-34.08144368816897,included_game_day
+2016,2363,Manhattan Jaspers,2016-01-15,-40.102619551586024,included_game_day
+2016,2363,Manhattan Jaspers,2016-01-17,-39.50568124590972,included_game_day
+2016,2363,Manhattan Jaspers,2016-01-21,-23.305296420542106,included_game_day
+2016,2363,Manhattan Jaspers,2016-01-29,-31.855550699162727,included_game_day
+2016,2363,Manhattan Jaspers,2016-02-02,-21.4712007940643,included_game_day
+2016,2363,Manhattan Jaspers,2016-02-07,-29.979426824172293,included_game_day
+2016,2363,Manhattan Jaspers,2016-02-11,-27.977300844210426,included_game_day
+2016,2363,Manhattan Jaspers,2016-02-13,-22.653593137215335,included_game_day
+2016,2363,Manhattan Jaspers,2016-02-15,-17.05084708309494,included_game_day
+2016,2363,Manhattan Jaspers,2016-02-17,-16.28473653236324,included_game_day
+2016,2363,Manhattan Jaspers,2016-02-21,-13.88490998265233,included_game_day
+2016,2363,Manhattan Jaspers,2016-02-23,-39.69197033325309,included_game_day
+2016,2363,Manhattan Jaspers,2016-02-26,-44.427297284663936,included_game_day
+2016,2363,Manhattan Jaspers,2016-02-28,-43.359457129034084,included_game_day
+2016,2363,Manhattan Jaspers,2016-03-03,-27.36849247476622,included_game_day
+2016,2363,Manhattan Jaspers,2016-03-05,-33.060206355990466,included_game_day
+2017,2363,Manhattan Jaspers,2016-11-11,-9.0,included_game_day
+2017,2363,Manhattan Jaspers,2016-11-15,-24.1,included_game_day
+2017,2363,Manhattan Jaspers,2016-11-18,-13.07,included_game_day
+2017,2363,Manhattan Jaspers,2016-11-20,-30.212,included_game_day
+2017,2363,Manhattan Jaspers,2016-11-26,-27.78677,included_game_day
+2017,2363,Manhattan Jaspers,2016-11-28,-57.355467000000004,included_game_day
+2017,2363,Manhattan Jaspers,2016-12-02,-57.31638340000001,included_game_day
+2017,2363,Manhattan Jaspers,2016-12-04,-62.324436984,included_game_day
+2017,2363,Manhattan Jaspers,2016-12-06,-62.658180989,included_game_day
+2017,2363,Manhattan Jaspers,2016-12-10,-56.156842890958,included_game_day
+2017,2363,Manhattan Jaspers,2016-12-17,-52.3000968673924,included_game_day
+2017,2363,Manhattan Jaspers,2016-12-20,-46.745267945461556,included_game_day
+2017,2363,Manhattan Jaspers,2016-12-22,-20.920134854245,included_game_day
+2017,2363,Manhattan Jaspers,2017-01-02,-24.926599625373704,included_game_day
+2017,2363,Manhattan Jaspers,2017-01-05,-43.179251290991715,included_game_day
+2017,2363,Manhattan Jaspers,2017-01-07,-48.46108430289137,included_game_day
+2017,2363,Manhattan Jaspers,2017-01-10,-40.69751106950757,included_game_day
+2017,2363,Manhattan Jaspers,2017-01-13,-36.12654993908749,included_game_day
+2017,2363,Manhattan Jaspers,2017-01-17,-49.37537952045379,included_game_day
+2017,2363,Manhattan Jaspers,2017-01-20,-48.955114009965904,included_game_day
+2017,2363,Manhattan Jaspers,2017-01-22,-60.69288136386483,included_game_day
+2017,2363,Manhattan Jaspers,2017-01-26,-53.87542792621912,included_game_day
+2017,2363,Manhattan Jaspers,2017-01-28,-58.21746968639397,included_game_day
+2017,2363,Manhattan Jaspers,2017-01-31,-84.01994722565495,included_game_day
+2017,2363,Manhattan Jaspers,2017-02-04,-87.20409552155304,included_game_day
+2017,2363,Manhattan Jaspers,2017-02-10,-79.05905796479294,included_game_day
+2017,2363,Manhattan Jaspers,2017-02-12,-87.94716010873611,included_game_day
+2017,2363,Manhattan Jaspers,2017-02-16,-100.59713829436012,included_game_day
+2017,2363,Manhattan Jaspers,2017-02-19,-78.05860879134548,included_game_day
+2017,2363,Manhattan Jaspers,2017-02-22,-78.49394781021357,included_game_day
+2017,2363,Manhattan Jaspers,2017-02-24,-87.54075343539348,included_game_day
+2017,2363,Manhattan Jaspers,2017-03-02,-78.8598236725472,included_game_day
+2018,2363,Manhattan Jaspers,2017-11-15,-2.7,included_game_day
+2018,2363,Manhattan Jaspers,2017-11-18,-1.432,included_game_day
+2018,2363,Manhattan Jaspers,2017-11-20,-18.8528,included_game_day
+2018,2363,Manhattan Jaspers,2017-11-21,-19.264699999999998,included_game_day
+2018,2363,Manhattan Jaspers,2017-11-22,-20.265169999999998,included_game_day
+2018,2363,Manhattan Jaspers,2017-11-26,-30.065452999999998,included_game_day
+2018,2363,Manhattan Jaspers,2017-12-01,-14.443263699999997,included_game_day
+2018,2363,Manhattan Jaspers,2017-12-02,-8.628363379999998,included_game_day
+2018,2363,Manhattan Jaspers,2017-12-09,-1.083015260599999,included_game_day
+2018,2363,Manhattan Jaspers,2017-12-16,-10.706208016112399,included_game_day
+2018,2363,Manhattan Jaspers,2017-12-20,-4.386705279655959,included_game_day
+2018,2363,Manhattan Jaspers,2017-12-23,-2.5525131777059604,included_game_day
+2018,2363,Manhattan Jaspers,2017-12-30,-2.792294710438757,included_game_day
+2018,2363,Manhattan Jaspers,2018-01-02,-2.910340762240271,included_game_day
+2018,2363,Manhattan Jaspers,2018-01-05,-12.526910343086293,included_game_day
+2018,2363,Manhattan Jaspers,2018-01-07,-14.57224458461604,included_game_day
+2018,2363,Manhattan Jaspers,2018-01-11,-6.910552020674828,included_game_day
+2018,2363,Manhattan Jaspers,2018-01-13,-3.058070217729613,included_game_day
+2018,2363,Manhattan Jaspers,2018-01-19,-10.801987710908453,included_game_day
+2018,2363,Manhattan Jaspers,2018-01-21,4.502599440520417,included_game_day
+2018,2363,Manhattan Jaspers,2018-01-24,-5.501425371016728,included_game_day
+2018,2363,Manhattan Jaspers,2018-01-27,-13.456611933945023,included_game_day
+2018,2363,Manhattan Jaspers,2018-01-30,-26.74271410548762,included_game_day
+2018,2363,Manhattan Jaspers,2018-02-02,-23.10068099233241,included_game_day
+2018,2363,Manhattan Jaspers,2018-02-08,-18.33097283884142,included_game_day
+2018,2363,Manhattan Jaspers,2018-02-10,-1.2035449293906986,included_game_day
+2018,2363,Manhattan Jaspers,2018-02-15,-4.766180277693609,included_game_day
+2018,2363,Manhattan Jaspers,2018-02-18,5.159917776000455,included_game_day
+2018,2363,Manhattan Jaspers,2018-02-23,-3.4763614271616152,included_game_day
+2018,2363,Manhattan Jaspers,2018-02-25,-6.692752782906624,included_game_day
+2018,2363,Manhattan Jaspers,2018-03-03,-15.877095315324173,included_game_day
+2019,2363,Manhattan Jaspers,2018-11-06,-9.0,included_game_day
+2019,2363,Manhattan Jaspers,2018-11-12,-30.3,included_game_day
+2019,2363,Manhattan Jaspers,2018-11-16,-24.413,included_game_day
+2019,2363,Manhattan Jaspers,2018-11-17,-22.427599999999998,included_game_day
+2019,2363,Manhattan Jaspers,2018-11-18,-12.070799999999998,included_game_day
+2019,2363,Manhattan Jaspers,2018-11-24,-42.11702,included_game_day
+2019,2363,Manhattan Jaspers,2018-12-01,-40.2901343,included_game_day
+2019,2363,Manhattan Jaspers,2018-12-05,-44.16613099,included_game_day
+2019,2363,Manhattan Jaspers,2018-12-10,-69.416831457279,included_game_day
+2019,2363,Manhattan Jaspers,2018-12-15,-68.8523296848201,included_game_day
+2019,2363,Manhattan Jaspers,2018-12-20,-74.36355585048798,included_game_day
+2019,2363,Manhattan Jaspers,2018-12-23,-84.53280821000806,included_game_day
+2019,2363,Manhattan Jaspers,2019-01-03,-84.608779311689,included_game_day
+2019,2363,Manhattan Jaspers,2019-01-05,-72.5346112351045,included_game_day
+2019,2363,Manhattan Jaspers,2019-01-08,-81.58581509387321,included_game_day
+2019,2363,Manhattan Jaspers,2019-01-12,-94.70965387108413,included_game_day
+2019,2363,Manhattan Jaspers,2019-01-17,-86.54671250542079,included_game_day
+2019,2363,Manhattan Jaspers,2019-01-19,-86.06005289983474,included_game_day
+2019,2363,Manhattan Jaspers,2019-01-21,-102.47122128373405,included_game_day
+2019,2363,Manhattan Jaspers,2019-01-26,-105.92294365654946,included_game_day
+2019,2363,Manhattan Jaspers,2019-01-31,-90.46942439813004,included_game_day
+2019,2363,Manhattan Jaspers,2019-02-02,-77.90963913672697,included_game_day
+2019,2363,Manhattan Jaspers,2019-02-05,-66.99768661763315,included_game_day
+2019,2363,Manhattan Jaspers,2019-02-08,-68.64257892651315,included_game_day
+2019,2363,Manhattan Jaspers,2019-02-15,-61.47639573968438,included_game_day
+2019,2363,Manhattan Jaspers,2019-02-17,-51.797239948266125,included_game_day
+2019,2363,Manhattan Jaspers,2019-02-22,-65.22996557479131,included_game_day
+2019,2363,Manhattan Jaspers,2019-02-24,-76.40936715817934,included_game_day
+2019,2363,Manhattan Jaspers,2019-03-01,-86.82863051838383,included_game_day
+2019,2363,Manhattan Jaspers,2019-03-03,-69.96878774554219,included_game_day
+2019,2363,Manhattan Jaspers,2019-03-07,-65.11918832197436,included_game_day
+2019,2363,Manhattan Jaspers,2019-03-08,-67.97821730492994,included_game_day
+2020,2363,Manhattan Jaspers,2019-11-12,5.1,included_game_day
+2020,2363,Manhattan Jaspers,2019-11-16,9.161999999999999,included_game_day
+2020,2363,Manhattan Jaspers,2019-11-19,-5.1472000000000016,included_game_day
+2020,2363,Manhattan Jaspers,2019-11-23,-0.37968000000000224,included_game_day
+2020,2363,Manhattan Jaspers,2019-11-27,-5.4596813000000015,included_game_day
+2020,2363,Manhattan Jaspers,2019-12-02,-19.96550497,included_game_day
+2020,2363,Manhattan Jaspers,2019-12-07,-12.570325539,included_game_day
+2020,2363,Manhattan Jaspers,2019-12-14,-20.3097639714,included_game_day
+2020,2363,Manhattan Jaspers,2019-12-22,-24.314815480375536,included_game_day
+2020,2363,Manhattan Jaspers,2020-01-03,-15.317928116354773,included_game_day
+2020,2363,Manhattan Jaspers,2020-01-05,-10.915165947025738,included_game_day
+2020,2363,Manhattan Jaspers,2020-01-10,-18.426769739902838,included_game_day
+2020,2363,Manhattan Jaspers,2020-01-12,-9.293671241159934,included_game_day
+2020,2363,Manhattan Jaspers,2020-01-16,2.8230985576117043,included_game_day
+2020,2363,Manhattan Jaspers,2020-01-18,-9.115254840930202,included_game_day
+2020,2363,Manhattan Jaspers,2020-01-22,-14.475646565809472,included_game_day
+2020,2363,Manhattan Jaspers,2020-01-26,-20.802196598984214,included_game_day
+2020,2363,Manhattan Jaspers,2020-01-31,-32.81805559910763,included_game_day
+2020,2363,Manhattan Jaspers,2020-02-02,-16.935491406821335,included_game_day
+2020,2363,Manhattan Jaspers,2020-02-07,-5.567712532683192,included_game_day
+2020,2363,Manhattan Jaspers,2020-02-09,-5.772197668210439,included_game_day
+2020,2363,Manhattan Jaspers,2020-02-14,-28.30292159183574,included_game_day
+2020,2363,Manhattan Jaspers,2020-02-16,-32.826955555280946,included_game_day
+2020,2363,Manhattan Jaspers,2020-02-21,-33.259303842757376,included_game_day
+2020,2363,Manhattan Jaspers,2020-02-23,-39.55440133166488,included_game_day
+2020,2363,Manhattan Jaspers,2020-02-26,-32.628938875462026,included_game_day
+2020,2363,Manhattan Jaspers,2020-03-01,-47.54431536062491,included_game_day
+2020,2363,Manhattan Jaspers,2020-03-04,-50.538548801126616,included_game_day
+2020,2363,Manhattan Jaspers,2020-03-06,-73.79832507233786,included_game_day
+2020,2363,Manhattan Jaspers,2020-03-10,-55.40614608930686,included_game_day
+2020,2363,Manhattan Jaspers,2020-03-11,-58.93507021007212,included_game_day
+2021,2363,Manhattan Jaspers,2020-12-11,-23.39292207,included_game_day
+2021,2363,Manhattan Jaspers,2020-12-12,-14.107259726,included_game_day
+2021,2363,Manhattan Jaspers,2020-12-19,-37.0009337534,included_game_day
+2021,2363,Manhattan Jaspers,2020-12-20,-38.31587297532,included_game_day
+2021,2363,Manhattan Jaspers,2020-12-30,-35.5508931058423,included_game_day
+2021,2363,Manhattan Jaspers,2021-01-08,-35.19106379525807,included_game_day
+2021,2363,Manhattan Jaspers,2021-01-09,-26.903200346790683,included_game_day
+2021,2363,Manhattan Jaspers,2021-01-15,-17.441830858023174,included_game_day
+2021,2363,Manhattan Jaspers,2021-01-16,-15.872735267009164,included_game_day
+2021,2363,Manhattan Jaspers,2021-01-29,-15.00872076170274,included_game_day
+2021,2363,Manhattan Jaspers,2021-01-30,-24.3175091574576,included_game_day
+2021,2363,Manhattan Jaspers,2021-02-05,-27.142537333567695,included_game_day
+2021,2363,Manhattan Jaspers,2021-02-06,-26.40255987445577,included_game_day
+2021,2363,Manhattan Jaspers,2021-02-12,-36.831003853184995,included_game_day
+2021,2363,Manhattan Jaspers,2021-02-13,-20.173759036168374,included_game_day
+2021,2363,Manhattan Jaspers,2021-02-26,-17.496963231711533,included_game_day
+2021,2363,Manhattan Jaspers,2021-02-27,-18.355526588146063,included_game_day
+2021,2363,Manhattan Jaspers,2021-03-04,-14.814529618313834,included_game_day
+2021,2363,Manhattan Jaspers,2021-03-05,-39.98173204244805,included_game_day
+2021,2363,Manhattan Jaspers,2021-03-09,-40.11549398175542,included_game_day
+2022,2363,Manhattan Jaspers,2021-11-12,3.7,included_game_day
+2022,2363,Manhattan Jaspers,2021-11-15,-14.870000000000001,included_game_day
+2022,2363,Manhattan Jaspers,2021-11-19,-11.683,included_game_day
+2022,2363,Manhattan Jaspers,2021-11-20,4.7424,included_game_day
+2022,2363,Manhattan Jaspers,2021-11-30,0.26611358000000074,included_game_day
+2022,2363,Manhattan Jaspers,2021-12-03,3.457781645,included_game_day
+2022,2363,Manhattan Jaspers,2021-12-05,-21.412114310049997,included_game_day
+2022,2363,Manhattan Jaspers,2021-12-11,-47.330959439282,included_game_day
+2022,2363,Manhattan Jaspers,2021-12-20,-27.901321964877333,included_game_day
+2022,2363,Manhattan Jaspers,2021-12-21,-21.76721587016556,included_game_day
+2022,2363,Manhattan Jaspers,2022-01-14,-22.561115066918177,included_game_day
+2022,2363,Manhattan Jaspers,2022-01-16,-22.663760581508377,included_game_day
+2022,2363,Manhattan Jaspers,2022-01-18,-33.64490001277191,included_game_day
+2022,2363,Manhattan Jaspers,2022-01-21,-27.129118740187472,included_game_day
+2022,2363,Manhattan Jaspers,2022-01-23,-36.27769563804631,included_game_day
+2022,2363,Manhattan Jaspers,2022-01-28,-55.25895569054519,included_game_day
+2022,2363,Manhattan Jaspers,2022-01-30,-45.59684350446152,included_game_day
+2022,2363,Manhattan Jaspers,2022-02-04,-45.54808295384911,included_game_day
+2022,2363,Manhattan Jaspers,2022-02-06,-49.590434265400305,included_game_day
+2022,2363,Manhattan Jaspers,2022-02-08,-53.32432042374103,included_game_day
+2022,2363,Manhattan Jaspers,2022-02-11,-61.93945239253768,included_game_day
+2022,2363,Manhattan Jaspers,2022-02-13,-37.5280559233751,included_game_day
+2022,2363,Manhattan Jaspers,2022-02-16,-23.89589650394894,included_game_day
+2022,2363,Manhattan Jaspers,2022-02-20,-19.24941141891602,included_game_day
+2022,2363,Manhattan Jaspers,2022-02-25,-30.707769559161136,included_game_day
+2022,2363,Manhattan Jaspers,2022-02-27,-37.876310859855586,included_game_day
+2022,2363,Manhattan Jaspers,2022-03-01,-55.372542996274646,included_game_day
+2022,2363,Manhattan Jaspers,2022-03-03,-44.49504241645028,included_game_day
+2022,2363,Manhattan Jaspers,2022-03-08,-53.20806351608174,included_game_day
+2023,2363,Manhattan Jaspers,2022-11-07,-14.0,included_game_day
+2023,2363,Manhattan Jaspers,2022-11-13,-12.9,included_game_day
+2023,2363,Manhattan Jaspers,2022-11-24,-18.6171,included_game_day
+2023,2363,Manhattan Jaspers,2022-11-26,-18.593274700000002,included_game_day
+2023,2363,Manhattan Jaspers,2022-12-01,-18.328142944,included_game_day
+2023,2363,Manhattan Jaspers,2022-12-04,-37.8343048496,included_game_day
+2023,2363,Manhattan Jaspers,2022-12-07,-67.71261345543999,included_game_day
+2023,2363,Manhattan Jaspers,2022-12-11,-71.41674778105599,included_game_day
+2023,2363,Manhattan Jaspers,2022-12-16,-84.79274664989103,included_game_day
+2023,2363,Manhattan Jaspers,2022-12-19,-63.76103511326573,included_game_day
+2023,2363,Manhattan Jaspers,2022-12-30,-69.79916738812948,included_game_day
+2023,2363,Manhattan Jaspers,2023-01-01,-84.50212905407132,included_game_day
+2023,2363,Manhattan Jaspers,2023-01-06,-91.50329286141096,included_game_day
+2023,2363,Manhattan Jaspers,2023-01-08,-80.72357057164919,included_game_day
+2023,2363,Manhattan Jaspers,2023-01-13,-67.68892146813945,included_game_day
+2023,2363,Manhattan Jaspers,2023-01-20,-66.94040264846606,included_game_day
+2023,2363,Manhattan Jaspers,2023-01-22,-59.10953210231514,included_game_day
+2023,2363,Manhattan Jaspers,2023-01-27,-58.22741179854309,included_game_day
+2023,2363,Manhattan Jaspers,2023-01-29,-46.899971701430935,included_game_day
+2023,2363,Manhattan Jaspers,2023-02-03,-36.523930411792605,included_game_day
+2023,2363,Manhattan Jaspers,2023-02-05,-43.55464355390597,included_game_day
+2023,2363,Manhattan Jaspers,2023-02-12,-30.173756595643063,included_game_day
+2023,2363,Manhattan Jaspers,2023-02-17,-26.94717579528645,included_game_day
+2023,2363,Manhattan Jaspers,2023-02-19,-21.106957159101707,included_game_day
+2023,2363,Manhattan Jaspers,2023-02-24,-50.53153857737965,included_game_day
+2023,2363,Manhattan Jaspers,2023-02-26,-40.75590592342587,included_game_day
+2023,2363,Manhattan Jaspers,2023-03-02,-34.075883927809464,included_game_day
+2023,2363,Manhattan Jaspers,2023-03-04,-42.63875637921925,included_game_day
+2023,2363,Manhattan Jaspers,2023-03-07,-53.6286694217435,included_game_day
+2024,2363,Manhattan Jaspers,2023-11-06,5.0,included_game_day
+2024,2363,Manhattan Jaspers,2023-11-10,-26.5,included_game_day
+2024,2363,Manhattan Jaspers,2023-11-19,-17.67,included_game_day
+2024,2363,Manhattan Jaspers,2023-11-24,-32.509264,included_game_day
+2024,2363,Manhattan Jaspers,2023-11-27,-59.378299600000005,included_game_day
+2024,2363,Manhattan Jaspers,2023-12-01,-57.39677639000001,included_game_day
+2024,2363,Manhattan Jaspers,2023-12-03,-60.290211586000005,included_game_day
+2024,2363,Manhattan Jaspers,2023-12-08,-67.50811058731,included_game_day
+2024,2363,Manhattan Jaspers,2023-12-21,-65.37454723202708,included_game_day
+2024,2363,Manhattan Jaspers,2023-12-30,-79.79457721093786,included_game_day
+2024,2363,Manhattan Jaspers,2024-01-05,-94.47231070098553,included_game_day
+2024,2363,Manhattan Jaspers,2024-01-07,-100.39743065568277,included_game_day
+2024,2363,Manhattan Jaspers,2024-01-12,-105.81201960152165,included_game_day
+2024,2363,Manhattan Jaspers,2024-01-14,-109.96183685111237,included_game_day
+2024,2363,Manhattan Jaspers,2024-01-21,-105.13943593048849,included_game_day
+2024,2363,Manhattan Jaspers,2024-01-26,-108.3334044445662,included_game_day
+2024,2363,Manhattan Jaspers,2024-01-28,-89.03442429051799,included_game_day
+2024,2363,Manhattan Jaspers,2024-02-02,-86.47890837622039,included_game_day
+2024,2363,Manhattan Jaspers,2024-02-04,-81.78369579101849,included_game_day
+2024,2363,Manhattan Jaspers,2024-02-08,-75.65546668478356,included_game_day
+2024,2363,Manhattan Jaspers,2024-02-10,-90.99751017313815,included_game_day
+2024,2363,Manhattan Jaspers,2024-02-16,-87.48845098154058,included_game_day
+2024,2363,Manhattan Jaspers,2024-02-18,-126.81617407296729,included_game_day
+2024,2363,Manhattan Jaspers,2024-02-23,-122.83363969717092,included_game_day
+2024,2363,Manhattan Jaspers,2024-03-01,-120.53273292484593,included_game_day
+2024,2363,Manhattan Jaspers,2024-03-03,-136.59281193358544,included_game_day
+2024,2363,Manhattan Jaspers,2024-03-07,-110.34155286339447,included_game_day
+2024,2363,Manhattan Jaspers,2024-03-09,-109.87295327821951,included_game_day
+2024,2363,Manhattan Jaspers,2024-03-12,-105.87205779723298,included_game_day
+2025,2363,Manhattan Jaspers,2024-11-04,-27.0,included_game_day
+2025,2363,Manhattan Jaspers,2024-11-15,-26.603,included_game_day
+2025,2363,Manhattan Jaspers,2024-11-17,-31.173000000000002,included_game_day
+2025,2363,Manhattan Jaspers,2024-11-22,-32.16743,included_game_day
+2025,2363,Manhattan Jaspers,2024-11-26,-36.012662500000005,included_game_day
+2025,2363,Manhattan Jaspers,2024-11-29,-46.498886124,included_game_day
+2025,2363,Manhattan Jaspers,2024-12-06,-35.830765570800004,included_game_day
+2025,2363,Manhattan Jaspers,2024-12-08,-43.598387285150004,included_game_day
+2025,2363,Manhattan Jaspers,2024-12-18,-27.636615620677155,included_game_day
+2025,2363,Manhattan Jaspers,2024-12-21,-19.4842366042203,included_game_day
+2025,2363,Manhattan Jaspers,2025-01-03,-24.94822198726813,included_game_day
+2025,2363,Manhattan Jaspers,2025-01-05,-27.371176549806975,included_game_day
+2025,2363,Manhattan Jaspers,2025-01-10,-37.99417173034429,included_game_day
+2025,2363,Manhattan Jaspers,2025-01-12,-38.39886987044118,included_game_day
+2025,2363,Manhattan Jaspers,2025-01-18,-35.849712620117316,included_game_day
+2025,2363,Manhattan Jaspers,2025-01-23,-46.62774055865783,included_game_day
+2025,2363,Manhattan Jaspers,2025-01-25,-35.19174877690672,included_game_day
+2025,2363,Manhattan Jaspers,2025-01-31,-17.05450593476862,included_game_day
+2025,2363,Manhattan Jaspers,2025-02-02,-17.95446348210688,included_game_day
+2025,2363,Manhattan Jaspers,2025-02-08,-25.015240241619914,included_game_day
+2025,2363,Manhattan Jaspers,2025-02-14,-21.635938622861552,included_game_day
+2025,2363,Manhattan Jaspers,2025-02-16,-13.564956476023443,included_game_day
+2025,2363,Manhattan Jaspers,2025-02-21,-16.972722067661522,included_game_day
+2025,2363,Manhattan Jaspers,2025-02-23,-20.078085200635147,included_game_day
+2025,2363,Manhattan Jaspers,2025-02-28,-20.341889707232248,included_game_day
+2025,2363,Manhattan Jaspers,2025-03-02,-7.822322554548661,included_game_day
+2025,2363,Manhattan Jaspers,2025-03-06,4.432304302111147,included_game_day
+2025,2363,Manhattan Jaspers,2025-03-08,11.410782812273187,included_game_day
+2025,2363,Manhattan Jaspers,2025-03-13,-2.6928882194753463,included_game_day
+2025,2363,Manhattan Jaspers,2025-03-23,-12.5292520275645,included_game_day
+2026,2363,Manhattan Jaspers,2025-11-09,-25.3,included_game_day
+2026,2363,Manhattan Jaspers,2025-11-12,-21.441000000000003,included_game_day
+2026,2363,Manhattan Jaspers,2025-11-14,-42.209900000000005,included_game_day
+2026,2363,Manhattan Jaspers,2025-11-15,-41.377900000000004,included_game_day
+2026,2363,Manhattan Jaspers,2025-11-21,-74.09338500000001,included_game_day
+2026,2363,Manhattan Jaspers,2025-11-26,-74.33774050000001,included_game_day
+2026,2363,Manhattan Jaspers,2025-11-29,-74.91510833000001,included_game_day
+2026,2363,Manhattan Jaspers,2025-12-05,-68.72732071687001,included_game_day
+2026,2363,Manhattan Jaspers,2025-12-07,-68.717281798336,included_game_day
+2026,2363,Manhattan Jaspers,2025-12-13,-87.64067448393331,included_game_day
+2026,2363,Manhattan Jaspers,2025-12-18,-88.40843315086528,included_game_day
+2026,2363,Manhattan Jaspers,2025-12-21,-81.90383894103235,included_game_day
+2026,2363,Manhattan Jaspers,2025-12-29,-79.12590874820279,included_game_day
+2026,2363,Manhattan Jaspers,2026-01-02,-71.28167911984721,included_game_day
+2026,2363,Manhattan Jaspers,2026-01-04,-71.30420591579302,included_game_day
+2026,2363,Manhattan Jaspers,2026-01-09,-82.09269887542412,included_game_day
+2026,2363,Manhattan Jaspers,2026-01-11,-80.08162647604684,included_game_day
+2026,2363,Manhattan Jaspers,2026-01-14,-108.50498203409131,included_game_day
+2026,2363,Manhattan Jaspers,2026-01-17,-115.99412249164827,included_game_day
+2026,2363,Manhattan Jaspers,2026-01-19,-107.90917664597895,included_game_day
+2026,2363,Manhattan Jaspers,2026-01-24,-106.89608412637436,included_game_day
+2026,2363,Manhattan Jaspers,2026-01-30,-106.70456572441825,included_game_day
+2026,2363,Manhattan Jaspers,2026-02-01,-106.53871138446489,included_game_day
+2026,2363,Manhattan Jaspers,2026-02-05,-105.45635625305775,included_game_day
+2026,2363,Manhattan Jaspers,2026-02-07,-91.08464363485582,included_game_day
+2026,2363,Manhattan Jaspers,2026-02-13,-80.11571072169794,included_game_day
+2026,2363,Manhattan Jaspers,2026-02-15,-76.45051525839537,included_game_day
+2026,2363,Manhattan Jaspers,2026-02-20,-86.11527210390557,included_game_day
+2026,2363,Manhattan Jaspers,2026-02-27,-87.13878037172253,included_game_day
+2026,2363,Manhattan Jaspers,2026-03-01,-87.85939356247069,included_game_day
+2026,2363,Manhattan Jaspers,2026-03-05,-93.10844672772532,included_game_day
+2027,2363,Manhattan Jaspers,2026-11-03,-25.0,included_game_day
+2027,2363,Manhattan Jaspers,2026-11-05,-29.5,included_game_day
+2027,2363,Manhattan Jaspers,2026-11-08,-19.21,included_game_day
+2027,2363,Manhattan Jaspers,2026-11-14,-34.179,included_game_day
+2027,2363,Manhattan Jaspers,2026-11-17,-51.735240000000005,included_game_day
+2027,2363,Manhattan Jaspers,2026-11-20,-85.01224400000001,included_game_day

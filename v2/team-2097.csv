@@ -1,0 +1,1083 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,2097,Campbell,1987-12-04,9.455,included_game_day
+1988,2097,Campbell,1987-12-05,19.4879,included_game_day
+1988,2097,Campbell,1987-12-08,9.26911,included_game_day
+1988,2097,Campbell,1987-12-15,-15.946301,included_game_day
+1988,2097,Campbell,1987-12-19,-7.8861066,included_game_day
+1988,2097,Campbell,1988-01-02,-8.87558641,included_game_day
+1988,2097,Campbell,1988-01-04,-27.4469747811326,included_game_day
+1988,2097,Campbell,1988-01-14,-44.15808189326705,included_game_day
+1988,2097,Campbell,1988-01-16,-30.467704926771752,included_game_day
+1988,2097,Campbell,1988-01-20,-34.03307107648925,included_game_day
+1988,2097,Campbell,1988-01-23,-39.36144448905059,included_game_day
+1988,2097,Campbell,1988-01-26,-44.08494507439058,included_game_day
+1988,2097,Campbell,1988-01-30,-60.62274534403783,included_game_day
+1988,2097,Campbell,1988-02-01,-35.84157904140157,included_game_day
+1988,2097,Campbell,1988-02-04,-66.28044965968192,included_game_day
+1988,2097,Campbell,1988-02-08,-78.51588050526759,included_game_day
+1988,2097,Campbell,1988-02-11,-87.57547790276185,included_game_day
+1988,2097,Campbell,1988-02-15,-104.02864783844984,included_game_day
+1988,2097,Campbell,1988-02-18,-97.08581187968919,included_game_day
+1988,2097,Campbell,1988-02-20,-75.10340107587672,included_game_day
+1988,2097,Campbell,1988-02-22,-79.23430889509001,included_game_day
+1988,2097,Campbell,1988-02-27,-87.07775765457166,included_game_day
+1988,2097,Campbell,1988-03-03,-90.35496876556985,included_game_day
+1989,2097,Campbell,1988-12-03,-14.995000000000001,included_game_day
+1989,2097,Campbell,1988-12-05,-12.991900000000001,included_game_day
+1989,2097,Campbell,1988-12-10,-47.045627,included_game_day
+1989,2097,Campbell,1988-12-17,-53.03492518,included_game_day
+1989,2097,Campbell,1988-12-19,-53.011829662000004,included_game_day
+1989,2097,Campbell,1989-01-05,-66.8856611348,included_game_day
+1989,2097,Campbell,1989-01-07,-82.94738792474504,included_game_day
+1989,2097,Campbell,1989-01-09,-86.36751789482905,included_game_day
+1989,2097,Campbell,1989-01-14,-73.31728439303893,included_game_day
+1989,2097,Campbell,1989-01-17,-74.97861236508716,included_game_day
+1989,2097,Campbell,1989-01-21,-71.290966569742,included_game_day
+1989,2097,Campbell,1989-01-23,-57.17418884891634,included_game_day
+1989,2097,Campbell,1989-01-28,-53.51954783113862,included_game_day
+1989,2097,Campbell,1989-01-30,-56.94311162746424,included_game_day
+1989,2097,Campbell,1989-02-02,-47.2180851409654,included_game_day
+1989,2097,Campbell,1989-02-06,-16.777758972725803,included_game_day
+1989,2097,Campbell,1989-02-11,-9.153952258376538,included_game_day
+1989,2097,Campbell,1989-02-13,-23.73037672869203,included_game_day
+1989,2097,Campbell,1989-02-16,-35.798061098961114,included_game_day
+1989,2097,Campbell,1989-02-18,-50.83960151976343,included_game_day
+1989,2097,Campbell,1989-02-20,-32.2939578693583,included_game_day
+1989,2097,Campbell,1989-02-22,-18.69390791096717,included_game_day
+1989,2097,Campbell,1989-02-25,-12.000922501769875,included_game_day
+1989,2097,Campbell,1989-03-02,-19.516866468014854,included_game_day
+1989,2097,Campbell,1989-03-03,4.905107788888312,included_game_day
+1989,2097,Campbell,1989-03-04,-12.5797768865535,included_game_day
+1990,2097,Campbell,1989-11-25,-13.0,included_game_day
+1990,2097,Campbell,1989-12-01,-29.844,included_game_day
+1990,2097,Campbell,1989-12-02,-44.3911,included_game_day
+1990,2097,Campbell,1989-12-05,-40.60599,included_game_day
+1990,2097,Campbell,1989-12-09,-63.823108,included_game_day
+1990,2097,Campbell,1989-12-14,-64.304185371,included_game_day
+1990,2097,Campbell,1990-01-06,-49.13860648103722,included_game_day
+1990,2097,Campbell,1990-01-08,-19.77348367070417,included_game_day
+1990,2097,Campbell,1990-01-13,-14.312007173298177,included_game_day
+1990,2097,Campbell,1990-01-18,-24.36454486525559,included_game_day
+1990,2097,Campbell,1990-01-22,-26.889631937672746,included_game_day
+1990,2097,Campbell,1990-01-25,-38.588568565304044,included_game_day
+1990,2097,Campbell,1990-01-27,-66.75771578157924,included_game_day
+1990,2097,Campbell,1990-01-29,-52.79268002604065,included_game_day
+1990,2097,Campbell,1990-02-01,-64.98617027483355,included_game_day
+1990,2097,Campbell,1990-02-03,-62.136393098455336,included_game_day
+1990,2097,Campbell,1990-02-05,-58.98013256640866,included_game_day
+1990,2097,Campbell,1990-02-08,-48.497098999777364,included_game_day
+1990,2097,Campbell,1990-02-10,-46.78630754917857,included_game_day
+1990,2097,Campbell,1990-02-12,-64.4423774720978,included_game_day
+1990,2097,Campbell,1990-02-15,-63.923751201375936,included_game_day
+1990,2097,Campbell,1990-02-17,-49.92394839255248,included_game_day
+1990,2097,Campbell,1990-02-19,-63.91122817948107,included_game_day
+1990,2097,Campbell,1990-02-24,-46.458221599767484,included_game_day
+1990,2097,Campbell,1990-03-01,-75.00972740093815,included_game_day
+1991,2097,Campbell,1990-11-24,-5.1,included_game_day
+1991,2097,Campbell,1990-11-26,-14.59,included_game_day
+1991,2097,Campbell,1990-11-30,-39.012699999999995,included_game_day
+1991,2097,Campbell,1990-12-01,-46.21953,included_game_day
+1991,2097,Campbell,1990-12-12,-38.5377409,included_game_day
+1991,2097,Campbell,1990-12-15,-66.01161626000001,included_game_day
+1991,2097,Campbell,1991-01-05,-72.15544424363132,included_game_day
+1991,2097,Campbell,1991-01-07,-60.7182055327851,included_game_day
+1991,2097,Campbell,1991-01-10,-81.17594254763215,included_game_day
+1991,2097,Campbell,1991-01-12,-102.08354816357716,included_game_day
+1991,2097,Campbell,1991-01-14,-106.41083291292779,included_game_day
+1991,2097,Campbell,1991-01-19,-110.00906253407896,included_game_day
+1991,2097,Campbell,1991-01-24,-114.85110214871509,included_game_day
+1991,2097,Campbell,1991-01-26,-100.7859125309548,included_game_day
+1991,2097,Campbell,1991-01-28,-109.93339709509813,included_game_day
+1991,2097,Campbell,1991-02-04,-106.22691712417833,included_game_day
+1991,2097,Campbell,1991-02-09,-124.46178575885837,included_game_day
+1991,2097,Campbell,1991-02-11,-146.32853003521836,included_game_day
+1991,2097,Campbell,1991-02-14,-142.3416471220815,included_game_day
+1991,2097,Campbell,1991-02-16,-135.54335694850658,included_game_day
+1991,2097,Campbell,1991-02-18,-129.0146206657442,included_game_day
+1991,2097,Campbell,1991-02-20,-135.3649868188067,included_game_day
+1991,2097,Campbell,1991-02-23,-148.51853148650562,included_game_day
+1991,2097,Campbell,1991-02-28,-166.04136722066477,included_game_day
+1992,2097,Campbell,1991-11-29,-5.0,included_game_day
+1992,2097,Campbell,1991-11-30,-10.629199999999999,included_game_day
+1992,2097,Campbell,1991-12-10,-9.13284358,included_game_day
+1992,2097,Campbell,1991-12-13,-6.8340142219999995,included_game_day
+1992,2097,Campbell,1991-12-14,-19.6377742268,included_game_day
+1992,2097,Campbell,1992-01-02,-60.25760122112,included_game_day
+1992,2097,Campbell,1992-01-09,-59.09685563038,included_game_day
+1992,2097,Campbell,1992-01-11,-47.16335611974221,included_game_day
+1992,2097,Campbell,1992-01-13,-46.96560675383371,included_game_day
+1992,2097,Campbell,1992-01-15,-40.59579538917789,included_game_day
+1992,2097,Campbell,1992-01-18,-44.2906289412378,included_game_day
+1992,2097,Campbell,1992-01-20,-62.51250546490378,included_game_day
+1992,2097,Campbell,1992-01-22,-70.73897367578967,included_game_day
+1992,2097,Campbell,1992-01-25,-54.86158808074511,included_game_day
+1992,2097,Campbell,1992-01-27,-53.52283413890206,included_game_day
+1992,2097,Campbell,1992-02-01,-42.70632520794117,included_game_day
+1992,2097,Campbell,1992-02-03,-43.80334472779649,included_game_day
+1992,2097,Campbell,1992-02-08,-35.0175941349157,included_game_day
+1992,2097,Campbell,1992-02-10,-37.693351805860935,included_game_day
+1992,2097,Campbell,1992-02-13,-29.639309452739127,included_game_day
+1992,2097,Campbell,1992-02-17,-42.751511305383104,included_game_day
+1992,2097,Campbell,1992-02-22,-13.38217049754871,included_game_day
+1992,2097,Campbell,1992-02-29,-9.736575623203972,included_game_day
+1992,2097,Campbell,1992-03-05,-4.968694910110669,included_game_day
+1992,2097,Campbell,1992-03-06,1.0592061125837997,included_game_day
+1992,2097,Campbell,1992-03-07,9.046058142101717,included_game_day
+1992,2097,Campbell,1992-03-19,0.5228627470293432,included_game_day
+1993,2097,Campbell,1992-12-05,14.2,included_game_day
+1993,2097,Campbell,1992-12-16,-0.4861000000000004,included_game_day
+1993,2097,Campbell,1992-12-18,-11.6346387,included_game_day
+1993,2097,Campbell,1992-12-19,-42.98702352,included_game_day
+1993,2097,Campbell,1993-01-02,-50.09200288256,included_game_day
+1993,2097,Campbell,1993-01-05,-61.771724211338004,included_game_day
+1993,2097,Campbell,1993-01-13,-61.96457566744466,included_game_day
+1993,2097,Campbell,1993-01-16,-63.31861865298328,included_game_day
+1993,2097,Campbell,1993-01-18,-82.88527723093718,included_game_day
+1993,2097,Campbell,1993-01-20,-74.54119694466321,included_game_day
+1993,2097,Campbell,1993-01-23,-75.0883001823978,included_game_day
+1993,2097,Campbell,1993-01-27,-64.72655216673424,included_game_day
+1993,2097,Campbell,1993-01-30,-63.09547315584947,included_game_day
+1993,2097,Campbell,1993-02-01,-60.32420818552414,included_game_day
+1993,2097,Campbell,1993-02-04,-52.081547763044995,included_game_day
+1993,2097,Campbell,1993-02-06,-52.588466152519985,included_game_day
+1993,2097,Campbell,1993-02-08,-38.36544025538244,included_game_day
+1993,2097,Campbell,1993-02-11,-25.02425625654717,included_game_day
+1993,2097,Campbell,1993-02-15,-22.926216413671508,included_game_day
+1993,2097,Campbell,1993-02-18,-27.486802515266508,included_game_day
+1993,2097,Campbell,1993-02-20,-41.23046517845053,included_game_day
+1993,2097,Campbell,1993-02-22,-40.11607831389209,included_game_day
+1993,2097,Campbell,1993-02-27,-61.148789012402574,included_game_day
+1993,2097,Campbell,1993-03-04,-77.42715701452543,included_game_day
+1994,2097,Campbell,1993-12-04,5.800599999999999,included_game_day
+1994,2097,Campbell,1993-12-05,-9.31606,included_game_day
+1994,2097,Campbell,1993-12-18,-6.91784685,included_game_day
+1994,2097,Campbell,1993-12-21,-2.7508692135671,included_game_day
+1994,2097,Campbell,1994-01-06,-8.696664298593388,included_game_day
+1994,2097,Campbell,1994-01-08,-0.8650408284085991,included_game_day
+1994,2097,Campbell,1994-01-10,13.062401209207465,included_game_day
+1994,2097,Campbell,1994-01-12,15.671565031006818,included_game_day
+1994,2097,Campbell,1994-01-15,25.820095547552548,included_game_day
+1994,2097,Campbell,1994-01-17,16.89619364301768,included_game_day
+1994,2097,Campbell,1994-01-20,10.352806928474532,included_game_day
+1994,2097,Campbell,1994-01-22,22.62767763000298,included_game_day
+1994,2097,Campbell,1994-01-24,21.749703369475725,included_game_day
+1994,2097,Campbell,1994-01-27,15.639905373951542,included_game_day
+1994,2097,Campbell,1994-01-29,9.698749764968573,included_game_day
+1994,2097,Campbell,1994-02-03,4.154748534470972,included_game_day
+1994,2097,Campbell,1994-02-10,14.845480397822563,included_game_day
+1994,2097,Campbell,1994-02-12,13.20951987340683,included_game_day
+1994,2097,Campbell,1994-02-14,2.3679977128302756,included_game_day
+1994,2097,Campbell,1994-02-17,18.644261021025564,included_game_day
+1994,2097,Campbell,1994-02-19,2.219886573541398,included_game_day
+1994,2097,Campbell,1994-02-21,5.689848321500914,included_game_day
+1994,2097,Campbell,1994-02-24,-3.708981402937182,included_game_day
+1994,2097,Campbell,1994-02-26,-3.36245907975204,included_game_day
+1994,2097,Campbell,1994-03-04,-9.339867396078166,included_game_day
+1994,2097,Campbell,1994-03-05,2.83095513777349,included_game_day
+1994,2097,Campbell,1994-03-06,-11.52638682539037,included_game_day
+1995,2097,Campbell,1994-11-26,27.0,included_game_day
+1995,2097,Campbell,1994-11-29,6.100000000000001,included_game_day
+1995,2097,Campbell,1994-12-03,-18.09,included_game_day
+1995,2097,Campbell,1994-12-06,-2.5208999999999993,included_game_day
+1995,2097,Campbell,1994-12-17,-46.3030446532,included_game_day
+1995,2097,Campbell,1994-12-19,-64.26311253387999,included_game_day
+1995,2097,Campbell,1995-01-02,-83.65983597433748,included_game_day
+1995,2097,Campbell,1995-01-07,-93.96251875272621,included_game_day
+1995,2097,Campbell,1995-01-09,-106.54566158662057,included_game_day
+1995,2097,Campbell,1995-01-14,-93.83184846918745,included_game_day
+1995,2097,Campbell,1995-01-16,-106.0085397562192,included_game_day
+1995,2097,Campbell,1995-01-21,-110.73006013287682,included_game_day
+1995,2097,Campbell,1995-01-23,-98.71658921087982,included_game_day
+1995,2097,Campbell,1995-01-28,-98.15343419897847,included_game_day
+1995,2097,Campbell,1995-01-30,-83.31948028325428,included_game_day
+1995,2097,Campbell,1995-02-02,-84.02927240197074,included_game_day
+1995,2097,Campbell,1995-02-04,-88.89264279518123,included_game_day
+1995,2097,Campbell,1995-02-09,-100.91756445477621,included_game_day
+1995,2097,Campbell,1995-02-11,-118.47393114104204,included_game_day
+1995,2097,Campbell,1995-02-16,-130.50508639836568,included_game_day
+1995,2097,Campbell,1995-02-18,-134.2961204119999,included_game_day
+1995,2097,Campbell,1995-02-20,-153.98151850115215,included_game_day
+1995,2097,Campbell,1995-02-23,-141.00389960982565,included_game_day
+1995,2097,Campbell,1995-02-25,-149.9557820077672,included_game_day
+1996,2097,Campbell,1995-11-25,-10.0,included_game_day
+1996,2097,Campbell,1995-11-27,-14.5313,included_game_day
+1996,2097,Campbell,1995-12-02,-21.20927,included_game_day
+1996,2097,Campbell,1995-12-16,3.766297612999999,included_game_day
+1996,2097,Campbell,1995-12-18,1.8045874936999988,included_game_day
+1996,2097,Campbell,1995-12-30,-8.949877201073303,included_game_day
+1996,2097,Campbell,1996-01-04,-10.378676303577873,included_game_day
+1996,2097,Campbell,1996-01-06,-17.24270667985663,included_game_day
+1996,2097,Campbell,1996-01-08,-22.962332485449636,included_game_day
+1996,2097,Campbell,1996-01-11,-23.955239181228574,included_game_day
+1996,2097,Campbell,1996-01-13,-15.930266627818813,included_game_day
+1996,2097,Campbell,1996-01-18,-15.550301522073696,included_game_day
+1996,2097,Campbell,1996-01-20,-5.937102024116946,included_game_day
+1996,2097,Campbell,1996-01-24,-5.925924350005927,included_game_day
+1996,2097,Campbell,1996-01-27,-4.7396177937184305,included_game_day
+1996,2097,Campbell,1996-02-01,-25.818024653738362,included_game_day
+1996,2097,Campbell,1996-02-03,-56.480075483391786,included_game_day
+1996,2097,Campbell,1996-02-05,-52.82083928736779,included_game_day
+1996,2097,Campbell,1996-02-08,-46.31101967778054,included_game_day
+1996,2097,Campbell,1996-02-10,-41.83473220875874,included_game_day
+1996,2097,Campbell,1996-02-15,-42.197444690720566,included_game_day
+1996,2097,Campbell,1996-02-17,-41.581918205591364,included_game_day
+1996,2097,Campbell,1996-02-22,-22.096684282986278,included_game_day
+1996,2097,Campbell,1996-02-24,-13.972363919410979,included_game_day
+1996,2097,Campbell,1996-02-29,-7.194349805982308,included_game_day
+1996,2097,Campbell,1996-03-01,-20.750438128690263,included_game_day
+1997,2097,Campbell,1996-12-02,-23.214,included_game_day
+1997,2097,Campbell,1996-12-14,-24.3207,included_game_day
+1997,2097,Campbell,1996-12-19,-34.525687500000004,included_game_day
+1997,2097,Campbell,1996-12-21,-51.458785487,included_game_day
+1997,2097,Campbell,1996-12-27,-73.38221440692,included_game_day
+1997,2097,Campbell,1996-12-28,-80.73669870099747,included_game_day
+1997,2097,Campbell,1997-01-02,-72.01334247288364,included_game_day
+1997,2097,Campbell,1997-01-04,-61.93131240734121,included_game_day
+1997,2097,Campbell,1997-01-09,-41.79694611229731,included_game_day
+1997,2097,Campbell,1997-01-11,-57.27164034330766,included_game_day
+1997,2097,Campbell,1997-01-13,-56.69478788359744,included_game_day
+1997,2097,Campbell,1997-01-16,-81.19996984246046,included_game_day
+1997,2097,Campbell,1997-01-18,-70.9858141003101,included_game_day
+1997,2097,Campbell,1997-01-20,-58.222870024122976,included_game_day
+1997,2097,Campbell,1997-01-23,-68.6704157042823,included_game_day
+1997,2097,Campbell,1997-01-30,-51.71858383370137,included_game_day
+1997,2097,Campbell,1997-02-01,-69.6509627748799,included_game_day
+1997,2097,Campbell,1997-02-03,-96.13739201018187,included_game_day
+1997,2097,Campbell,1997-02-06,-85.38821961301007,included_game_day
+1997,2097,Campbell,1997-02-08,-85.06494213536432,included_game_day
+1997,2097,Campbell,1997-02-13,-75.79559648222524,included_game_day
+1997,2097,Campbell,1997-02-15,-66.93544685590858,included_game_day
+1997,2097,Campbell,1997-02-20,-76.31562123114193,included_game_day
+1997,2097,Campbell,1997-02-22,-69.06120397135159,included_game_day
+1997,2097,Campbell,1997-02-27,-77.25767016351931,included_game_day
+1998,2097,Campbell,1997-11-25,11.875,included_game_day
+1998,2097,Campbell,1997-11-28,12.33956,included_game_day
+1998,2097,Campbell,1997-11-29,-11.601505999999999,included_game_day
+1998,2097,Campbell,1997-12-01,-18.1621554,included_game_day
+1998,2097,Campbell,1997-12-06,-27.152539859999997,included_game_day
+1998,2097,Campbell,1997-12-18,-17.200668948399997,included_game_day
+1998,2097,Campbell,1997-12-20,-35.67611256226,included_game_day
+1998,2097,Campbell,1998-01-03,-44.38097326134349,included_game_day
+1998,2097,Campbell,1998-01-05,-37.91410370553669,included_game_day
+1998,2097,Campbell,1998-01-08,-36.00045726463947,included_game_day
+1998,2097,Campbell,1998-01-10,-47.75283106589296,included_game_day
+1998,2097,Campbell,1998-01-15,-66.07585826750642,included_game_day
+1998,2097,Campbell,1998-01-17,-86.70025296467333,included_game_day
+1998,2097,Campbell,1998-01-22,-103.13915230468271,included_game_day
+1998,2097,Campbell,1998-01-24,-87.68863158554461,included_game_day
+1998,2097,Campbell,1998-01-29,-93.66014232006856,included_game_day
+1998,2097,Campbell,1998-01-31,-111.42803350547925,included_game_day
+1998,2097,Campbell,1998-02-02,-108.34724046440215,included_game_day
+1998,2097,Campbell,1998-02-07,-103.06900733449747,included_game_day
+1998,2097,Campbell,1998-02-12,-138.63756372714244,included_game_day
+1998,2097,Campbell,1998-02-14,-146.69146436334069,included_game_day
+1998,2097,Campbell,1998-02-19,-166.38448788807236,included_game_day
+1998,2097,Campbell,1998-02-21,-160.48278293623974,included_game_day
+1998,2097,Campbell,1998-02-26,-146.78612446313065,included_game_day
+1999,2097,Campbell,1998-11-14,-3.0,included_game_day
+1999,2097,Campbell,1998-11-18,-48.9,included_game_day
+1999,2097,Campbell,1998-11-21,-75.50999999999999,included_game_day
+1999,2097,Campbell,1998-11-24,-63.519999999999996,included_game_day
+1999,2097,Campbell,1998-12-02,-67.2826456,included_game_day
+1999,2097,Campbell,1998-12-05,-65.43616924,included_game_day
+1999,2097,Campbell,1998-12-19,-95.79800254,included_game_day
+1999,2097,Campbell,1998-12-28,-88.2093364082042,included_game_day
+1999,2097,Campbell,1999-01-02,-104.36917287329936,included_game_day
+1999,2097,Campbell,1999-01-04,-94.72253460688918,included_game_day
+1999,2097,Campbell,1999-01-07,-100.26053628473922,included_game_day
+1999,2097,Campbell,1999-01-09,-85.03133167623018,included_game_day
+1999,2097,Campbell,1999-01-14,-98.29273256496063,included_game_day
+1999,2097,Campbell,1999-01-16,-89.11200076948619,included_game_day
+1999,2097,Campbell,1999-01-21,-85.55434678006928,included_game_day
+1999,2097,Campbell,1999-01-23,-76.41807360772556,included_game_day
+1999,2097,Campbell,1999-01-28,-88.91605337969932,included_game_day
+1999,2097,Campbell,1999-01-30,-84.60159729234371,included_game_day
+1999,2097,Campbell,1999-02-04,-86.93393693759076,included_game_day
+1999,2097,Campbell,1999-02-06,-89.11551011934236,included_game_day
+1999,2097,Campbell,1999-02-13,-98.62267627657172,included_game_day
+1999,2097,Campbell,1999-02-15,-87.54175370776335,included_game_day
+1999,2097,Campbell,1999-02-18,-72.6429005545217,included_game_day
+1999,2097,Campbell,1999-02-20,-83.63425903477362,included_game_day
+1999,2097,Campbell,1999-02-25,-87.71663231413137,included_game_day
+2000,2097,Campbell,1999-11-20,-39.0,included_game_day
+2000,2097,Campbell,1999-11-27,-48.65,included_game_day
+2000,2097,Campbell,1999-11-30,-72.198094,included_game_day
+2000,2097,Campbell,1999-12-02,-75.5671846,included_game_day
+2000,2097,Campbell,1999-12-06,-93.83256940000001,included_game_day
+2000,2097,Campbell,1999-12-16,-82.17773773200001,included_game_day
+2000,2097,Campbell,1999-12-18,-90.19786734323901,included_game_day
+2000,2097,Campbell,1999-12-20,-94.77645176046411,included_game_day
+2000,2097,Campbell,1999-12-22,-102.8151474737277,included_game_day
+2000,2097,Campbell,1999-12-30,-88.87227692143026,included_game_day
+2000,2097,Campbell,2000-01-04,-75.72874244668675,included_game_day
+2000,2097,Campbell,2000-01-08,-69.4026905424011,included_game_day
+2000,2097,Campbell,2000-01-10,-68.44360269712053,included_game_day
+2000,2097,Campbell,2000-01-13,-65.20648651497315,included_game_day
+2000,2097,Campbell,2000-01-15,-87.02420508027892,included_game_day
+2000,2097,Campbell,2000-01-20,-91.1361769080063,included_game_day
+2000,2097,Campbell,2000-01-22,-98.15925382902584,included_game_day
+2000,2097,Campbell,2000-01-24,-81.43716126183998,included_game_day
+2000,2097,Campbell,2000-01-29,-75.16654004696939,included_game_day
+2000,2097,Campbell,2000-01-31,-66.80866108559276,included_game_day
+2000,2097,Campbell,2000-02-03,-56.147306355196434,included_game_day
+2000,2097,Campbell,2000-02-05,-75.89275980694488,included_game_day
+2000,2097,Campbell,2000-02-12,-71.96323824805944,included_game_day
+2000,2097,Campbell,2000-02-17,-61.86947011310754,included_game_day
+2000,2097,Campbell,2000-02-19,-52.73483283679898,included_game_day
+2000,2097,Campbell,2000-02-24,-62.79123051033254,included_game_day
+2000,2097,Campbell,2000-02-26,-64.43053976029496,included_game_day
+2000,2097,Campbell,2000-03-02,-71.52448950098372,included_game_day
+2001,2097,Campbell,2000-11-18,18.0,included_game_day
+2001,2097,Campbell,2000-11-21,-12.8,included_game_day
+2001,2097,Campbell,2000-11-25,-39.179,included_game_day
+2001,2097,Campbell,2000-11-28,-52.9791,included_game_day
+2001,2097,Campbell,2000-11-30,-67.41259000000001,included_game_day
+2001,2097,Campbell,2000-12-04,-59.51483100000001,included_game_day
+2001,2097,Campbell,2000-12-14,-61.056160248769004,included_game_day
+2001,2097,Campbell,2000-12-18,-59.57876769868211,included_game_day
+2001,2097,Campbell,2000-12-20,-78.0979226157439,included_game_day
+2001,2097,Campbell,2001-01-02,-78.45658075113037,included_game_day
+2001,2097,Campbell,2001-01-06,-88.49881131435693,included_game_day
+2001,2097,Campbell,2001-01-08,-85.05172381781018,included_game_day
+2001,2097,Campbell,2001-01-11,-95.78036681183711,included_game_day
+2001,2097,Campbell,2001-01-13,-97.23961040138678,included_game_day
+2001,2097,Campbell,2001-01-18,-107.60767396013922,included_game_day
+2001,2097,Campbell,2001-01-20,-115.88133283652748,included_game_day
+2001,2097,Campbell,2001-01-22,-117.90950805945134,included_game_day
+2001,2097,Campbell,2001-01-27,-117.94274493164856,included_game_day
+2001,2097,Campbell,2001-01-29,-116.06282597849913,included_game_day
+2001,2097,Campbell,2001-02-01,-116.17007284048812,included_game_day
+2001,2097,Campbell,2001-02-03,-112.3766984568532,included_game_day
+2001,2097,Campbell,2001-02-10,-119.2635697145943,included_game_day
+2001,2097,Campbell,2001-02-12,-118.0401764086314,included_game_day
+2001,2097,Campbell,2001-02-15,-112.53781833261918,included_game_day
+2001,2097,Campbell,2001-02-17,-94.10857399096562,included_game_day
+2001,2097,Campbell,2001-02-22,-91.5367190935945,included_game_day
+2001,2097,Campbell,2001-02-24,-83.44718138175254,included_game_day
+2001,2097,Campbell,2001-02-28,-92.60341825552109,included_game_day
+2002,2097,Campbell Fighting Camels,2001-11-17,-21.0,included_game_day
+2002,2097,Campbell Fighting Camels,2001-11-24,-23.604,included_game_day
+2002,2097,Campbell Fighting Camels,2001-11-26,-28.2436,included_game_day
+2002,2097,Campbell Fighting Camels,2001-11-29,-36.17384,included_game_day
+2002,2097,Campbell Fighting Camels,2001-12-01,-60.092496,included_game_day
+2002,2097,Campbell Fighting Camels,2001-12-12,-65.808506016,included_game_day
+2002,2097,Campbell Fighting Camels,2001-12-19,-71.13081513926,included_game_day
+2002,2097,Campbell Fighting Camels,2001-12-21,-81.25053080679399,included_game_day
+2002,2097,Campbell Fighting Camels,2001-12-29,-112.43993953391141,included_game_day
+2002,2097,Campbell Fighting Camels,2002-01-02,-111.92327298338068,included_game_day
+2002,2097,Campbell Fighting Camels,2002-01-05,-109.9692422235805,included_game_day
+2002,2097,Campbell Fighting Camels,2002-01-07,-113.01847992122535,included_game_day
+2002,2097,Campbell Fighting Camels,2002-01-10,-117.53599420289586,included_game_day
+2002,2097,Campbell Fighting Camels,2002-01-12,-106.88490235626257,included_game_day
+2002,2097,Campbell Fighting Camels,2002-01-17,-105.96080429635778,included_game_day
+2002,2097,Campbell Fighting Camels,2002-01-19,-91.38283523785778,included_game_day
+2002,2097,Campbell Fighting Camels,2002-01-23,-102.85356621192945,included_game_day
+2002,2097,Campbell Fighting Camels,2002-01-26,-92.16214345359037,included_game_day
+2002,2097,Campbell Fighting Camels,2002-01-28,-103.86734947766656,included_game_day
+2002,2097,Campbell Fighting Camels,2002-02-02,-100.52771948901292,included_game_day
+2002,2097,Campbell Fighting Camels,2002-02-04,-116.07165536296998,included_game_day
+2002,2097,Campbell Fighting Camels,2002-02-07,-104.53477554517274,included_game_day
+2002,2097,Campbell Fighting Camels,2002-02-09,-92.22130527252173,included_game_day
+2002,2097,Campbell Fighting Camels,2002-02-14,-89.65849073546161,included_game_day
+2002,2097,Campbell Fighting Camels,2002-02-16,-90.0494278866782,included_game_day
+2002,2097,Campbell Fighting Camels,2002-02-23,-104.92806912020438,included_game_day
+2003,2097,Campbell Fighting Camels,2002-11-26,-26.826,included_game_day
+2003,2097,Campbell Fighting Camels,2002-11-30,-11.8553,included_game_day
+2003,2097,Campbell Fighting Camels,2002-12-11,-38.807005000000004,included_game_day
+2003,2097,Campbell Fighting Camels,2002-12-14,-44.552199,included_game_day
+2003,2097,Campbell Fighting Camels,2002-12-17,-27.7699022115,included_game_day
+2003,2097,Campbell Fighting Camels,2002-12-21,-41.52294685855,included_game_day
+2003,2097,Campbell Fighting Camels,2002-12-28,-42.57959519925,included_game_day
+2003,2097,Campbell Fighting Camels,2002-12-30,-44.9616222809718,included_game_day
+2003,2097,Campbell Fighting Camels,2003-01-04,-40.074248965251286,included_game_day
+2003,2097,Campbell Fighting Camels,2003-01-06,-69.25928804755374,included_game_day
+2003,2097,Campbell Fighting Camels,2003-01-09,-79.37768399585659,included_game_day
+2003,2097,Campbell Fighting Camels,2003-01-11,-84.51981840474139,included_game_day
+2003,2097,Campbell Fighting Camels,2003-01-16,-107.80583754442816,included_game_day
+2003,2097,Campbell Fighting Camels,2003-01-18,-103.841866552823,included_game_day
+2003,2097,Campbell Fighting Camels,2003-01-23,-109.85482227930068,included_game_day
+2003,2097,Campbell Fighting Camels,2003-01-25,-114.92316062069327,included_game_day
+2003,2097,Campbell Fighting Camels,2003-01-30,-120.4496044676496,included_game_day
+2003,2097,Campbell Fighting Camels,2003-02-01,-133.52062692750823,included_game_day
+2003,2097,Campbell Fighting Camels,2003-02-04,-149.234882396704,included_game_day
+2003,2097,Campbell Fighting Camels,2003-02-07,-165.48755639212996,included_game_day
+2003,2097,Campbell Fighting Camels,2003-02-12,-160.79731524169682,included_game_day
+2003,2097,Campbell Fighting Camels,2003-02-14,-160.59757095274324,included_game_day
+2003,2097,Campbell Fighting Camels,2003-02-20,-156.1664620818916,included_game_day
+2003,2097,Campbell Fighting Camels,2003-02-22,-156.81130412850243,included_game_day
+2003,2097,Campbell Fighting Camels,2003-02-27,-163.42161672882085,included_game_day
+2003,2097,Campbell Fighting Camels,2003-03-01,-159.7405771434557,included_game_day
+2004,2097,Campbell Fighting Camels,2003-11-22,-36.0,included_game_day
+2004,2097,Campbell Fighting Camels,2003-11-25,-47.8,included_game_day
+2004,2097,Campbell Fighting Camels,2003-11-29,-62.62469,included_game_day
+2004,2097,Campbell Fighting Camels,2003-12-01,-69.103121,included_game_day
+2004,2097,Campbell Fighting Camels,2003-12-09,-78.03190451,included_game_day
+2004,2097,Campbell Fighting Camels,2003-12-15,-79.074006559,included_game_day
+2004,2097,Campbell Fighting Camels,2003-12-17,-87.35303561309999,included_game_day
+2004,2097,Campbell Fighting Camels,2003-12-20,-106.1549021037,included_game_day
+2004,2097,Campbell Fighting Camels,2003-12-30,-109.9161918577129,included_game_day
+2004,2097,Campbell Fighting Camels,2004-01-03,-133.6920332543376,included_game_day
+2004,2097,Campbell Fighting Camels,2004-01-08,-136.23999778237842,included_game_day
+2004,2097,Campbell Fighting Camels,2004-01-10,-132.22036929033834,included_game_day
+2004,2097,Campbell Fighting Camels,2004-01-14,-150.5285304799805,included_game_day
+2004,2097,Campbell Fighting Camels,2004-01-17,-131.1840529019476,included_game_day
+2004,2097,Campbell Fighting Camels,2004-01-19,-140.45523293141076,included_game_day
+2004,2097,Campbell Fighting Camels,2004-01-22,-150.73243465554998,included_game_day
+2004,2097,Campbell Fighting Camels,2004-01-24,-160.76080786165193,included_game_day
+2004,2097,Campbell Fighting Camels,2004-01-28,-173.33823455343358,included_game_day
+2004,2097,Campbell Fighting Camels,2004-01-31,-163.11727884061418,included_game_day
+2004,2097,Campbell Fighting Camels,2004-02-02,-154.86284714316875,included_game_day
+2004,2097,Campbell Fighting Camels,2004-02-05,-146.0774103592619,included_game_day
+2004,2097,Campbell Fighting Camels,2004-02-07,-137.96407187395417,included_game_day
+2004,2097,Campbell Fighting Camels,2004-02-12,-126.37700943104882,included_game_day
+2004,2097,Campbell Fighting Camels,2004-02-14,-139.26069508098212,included_game_day
+2004,2097,Campbell Fighting Camels,2004-02-20,-145.75274544126046,included_game_day
+2004,2097,Campbell Fighting Camels,2004-02-26,-147.73381632304893,included_game_day
+2004,2097,Campbell Fighting Camels,2004-02-28,-175.00150974175452,included_game_day
+2005,2097,Campbell Fighting Camels,2004-11-19,-9.0,included_game_day
+2005,2097,Campbell Fighting Camels,2004-11-23,2.9800000000000004,included_game_day
+2005,2097,Campbell Fighting Camels,2004-11-26,-40.77199999999999,included_game_day
+2005,2097,Campbell Fighting Camels,2004-11-30,-57.36218289999999,included_game_day
+2005,2097,Campbell Fighting Camels,2004-12-11,-55.24745631,included_game_day
+2005,2097,Campbell Fighting Camels,2004-12-14,-75.011810969,included_game_day
+2005,2097,Campbell Fighting Camels,2004-12-16,-81.4400695021,included_game_day
+2005,2097,Campbell Fighting Camels,2004-12-23,-111.83613912936603,included_game_day
+2005,2097,Campbell Fighting Camels,2004-12-29,-117.64084528777569,included_game_day
+2005,2097,Campbell Fighting Camels,2005-01-03,-118.76079866675349,included_game_day
+2005,2097,Campbell Fighting Camels,2005-01-05,-116.24008719159463,included_game_day
+2005,2097,Campbell Fighting Camels,2005-01-07,-103.115110348227,included_game_day
+2005,2097,Campbell Fighting Camels,2005-01-13,-107.72099331795896,included_game_day
+2005,2097,Campbell Fighting Camels,2005-01-15,-122.66917238028894,included_game_day
+2005,2097,Campbell Fighting Camels,2005-01-20,-125.16762231870607,included_game_day
+2005,2097,Campbell Fighting Camels,2005-01-22,-141.69759401490325,included_game_day
+2005,2097,Campbell Fighting Camels,2005-01-24,-153.98039617966998,included_game_day
+2005,2097,Campbell Fighting Camels,2005-01-29,-155.91779561412312,included_game_day
+2005,2097,Campbell Fighting Camels,2005-01-31,-162.25819699520318,included_game_day
+2005,2097,Campbell Fighting Camels,2005-02-03,-158.97548598250427,included_game_day
+2005,2097,Campbell Fighting Camels,2005-02-05,-153.91781764609664,included_game_day
+2005,2097,Campbell Fighting Camels,2005-02-08,-144.7584171257459,included_game_day
+2005,2097,Campbell Fighting Camels,2005-02-12,-140.50307691542218,included_game_day
+2005,2097,Campbell Fighting Camels,2005-02-17,-137.2074041524626,included_game_day
+2005,2097,Campbell Fighting Camels,2005-02-19,-141.85367478407147,included_game_day
+2005,2097,Campbell Fighting Camels,2005-02-24,-139.96446772276875,included_game_day
+2005,2097,Campbell Fighting Camels,2005-02-26,-140.7555179598689,included_game_day
+2006,2097,Campbell Fighting Camels,2005-11-18,-12.0,included_game_day
+2006,2097,Campbell Fighting Camels,2005-11-26,-19.268,included_game_day
+2006,2097,Campbell Fighting Camels,2005-11-28,-23.46521,included_game_day
+2006,2097,Campbell Fighting Camels,2005-12-01,-13.723688999999998,included_game_day
+2006,2097,Campbell Fighting Camels,2005-12-03,-10.051281199999998,included_game_day
+2006,2097,Campbell Fighting Camels,2005-12-14,3.338874308000001,included_game_day
+2006,2097,Campbell Fighting Camels,2005-12-17,-6.366462605699999,included_game_day
+2006,2097,Campbell Fighting Camels,2005-12-19,-15.666823076970399,included_game_day
+2006,2097,Campbell Fighting Camels,2005-12-22,-37.960523427392545,included_game_day
+2006,2097,Campbell Fighting Camels,2006-01-02,-43.36445964817244,included_game_day
+2006,2097,Campbell Fighting Camels,2006-01-04,-32.503959294178586,included_game_day
+2006,2097,Campbell Fighting Camels,2006-01-07,-48.3678824265904,included_game_day
+2006,2097,Campbell Fighting Camels,2006-01-09,-54.56310415612715,included_game_day
+2006,2097,Campbell Fighting Camels,2006-01-13,-48.80378711330616,included_game_day
+2006,2097,Campbell Fighting Camels,2006-01-17,-55.89728574667188,included_game_day
+2006,2097,Campbell Fighting Camels,2006-01-19,-65.74011912365063,included_game_day
+2006,2097,Campbell Fighting Camels,2006-01-21,-56.05134639371197,included_game_day
+2006,2097,Campbell Fighting Camels,2006-01-25,-71.3713215749815,included_game_day
+2006,2097,Campbell Fighting Camels,2006-01-28,-56.17073493624789,included_game_day
+2006,2097,Campbell Fighting Camels,2006-01-30,-52.069920389087144,included_game_day
+2006,2097,Campbell Fighting Camels,2006-02-02,-51.20085433186229,included_game_day
+2006,2097,Campbell Fighting Camels,2006-02-09,-47.42202557965116,included_game_day
+2006,2097,Campbell Fighting Camels,2006-02-11,-41.477338769123385,included_game_day
+2006,2097,Campbell Fighting Camels,2006-02-16,-51.23825372766455,included_game_day
+2006,2097,Campbell Fighting Camels,2006-02-18,-49.60475455824111,included_game_day
+2006,2097,Campbell Fighting Camels,2006-02-23,-47.06100674544913,included_game_day
+2006,2097,Campbell Fighting Camels,2006-02-25,-45.45971687493139,included_game_day
+2006,2097,Campbell Fighting Camels,2006-03-02,-47.035118590112745,included_game_day
+2007,2097,Campbell Fighting Camels,2006-11-16,14.0,included_game_day
+2007,2097,Campbell Fighting Camels,2006-11-20,15.711,included_game_day
+2007,2097,Campbell Fighting Camels,2006-11-25,7.5435652000000015,included_game_day
+2007,2097,Campbell Fighting Camels,2006-11-27,-5.601041319999998,included_game_day
+2007,2097,Campbell Fighting Camels,2006-12-12,-38.31459229037,included_game_day
+2007,2097,Campbell Fighting Camels,2006-12-14,-44.00725813060751,included_game_day
+2007,2097,Campbell Fighting Camels,2006-12-18,-29.51943443890676,included_game_day
+2007,2097,Campbell Fighting Camels,2006-12-23,-38.14360152170692,included_game_day
+2007,2097,Campbell Fighting Camels,2007-01-02,-14.631075298417688,included_game_day
+2007,2097,Campbell Fighting Camels,2007-01-04,-34.335033203475064,included_game_day
+2007,2097,Campbell Fighting Camels,2007-01-06,-36.76866866164666,included_game_day
+2007,2097,Campbell Fighting Camels,2007-01-09,-61.60443366224408,included_game_day
+2007,2097,Campbell Fighting Camels,2007-01-13,-59.63866089164789,included_game_day
+2007,2097,Campbell Fighting Camels,2007-01-15,-67.94638942564868,included_game_day
+2007,2097,Campbell Fighting Camels,2007-01-18,-49.34991292339406,included_game_day
+2007,2097,Campbell Fighting Camels,2007-01-20,-48.38459433685893,included_game_day
+2007,2097,Campbell Fighting Camels,2007-01-25,-59.55139610602874,included_game_day
+2007,2097,Campbell Fighting Camels,2007-01-27,-50.8141632721235,included_game_day
+2007,2097,Campbell Fighting Camels,2007-01-30,-60.45899600548143,included_game_day
+2007,2097,Campbell Fighting Camels,2007-02-02,-66.7785465784295,included_game_day
+2007,2097,Campbell Fighting Camels,2007-02-05,-84.85376605943182,included_game_day
+2007,2097,Campbell Fighting Camels,2007-02-08,-65.05885241859082,included_game_day
+2007,2097,Campbell Fighting Camels,2007-02-10,-68.00938253156777,included_game_day
+2007,2097,Campbell Fighting Camels,2007-02-15,-60.34351024534007,included_game_day
+2007,2097,Campbell Fighting Camels,2007-02-17,-72.46254702306986,included_game_day
+2007,2097,Campbell Fighting Camels,2007-02-22,-74.58297168775904,included_game_day
+2007,2097,Campbell Fighting Camels,2007-02-24,-65.30945270887354,included_game_day
+2007,2097,Campbell Fighting Camels,2007-03-01,-55.32697698043063,included_game_day
+2007,2097,Campbell Fighting Camels,2007-03-02,-63.07292248265594,included_game_day
+2008,2097,Campbell Fighting Camels,2007-11-13,-6.0,included_game_day
+2008,2097,Campbell Fighting Camels,2007-11-17,-20.4,included_game_day
+2008,2097,Campbell Fighting Camels,2007-11-21,-26.458299999999998,included_game_day
+2008,2097,Campbell Fighting Camels,2007-11-24,-12.759478399999999,included_game_day
+2008,2097,Campbell Fighting Camels,2007-11-28,-43.17615083,included_game_day
+2008,2097,Campbell Fighting Camels,2007-12-08,-46.34781037195,included_game_day
+2008,2097,Campbell Fighting Camels,2007-12-13,-41.118552324255,included_game_day
+2008,2097,Campbell Fighting Camels,2007-12-15,-37.5362947983795,included_game_day
+2008,2097,Campbell Fighting Camels,2007-12-18,-38.49938708858011,included_game_day
+2008,2097,Campbell Fighting Camels,2007-12-28,-39.78222899851062,included_game_day
+2008,2097,Campbell Fighting Camels,2008-01-03,-46.92997378989867,included_game_day
+2008,2097,Campbell Fighting Camels,2008-01-05,-37.49844474848055,included_game_day
+2008,2097,Campbell Fighting Camels,2008-01-10,-38.5578496653285,included_game_day
+2008,2097,Campbell Fighting Camels,2008-01-12,-31.969912961396908,included_game_day
+2008,2097,Campbell Fighting Camels,2008-01-15,-37.07369820663959,included_game_day
+2008,2097,Campbell Fighting Camels,2008-01-18,-19.398552411111016,included_game_day
+2008,2097,Campbell Fighting Camels,2008-01-24,-36.06347032783256,included_game_day
+2008,2097,Campbell Fighting Camels,2008-01-26,-45.57279518265166,included_game_day
+2008,2097,Campbell Fighting Camels,2008-01-31,-50.478302099870774,included_game_day
+2008,2097,Campbell Fighting Camels,2008-02-02,-54.36701605309121,included_game_day
+2008,2097,Campbell Fighting Camels,2008-02-07,-40.448324010221306,included_game_day
+2008,2097,Campbell Fighting Camels,2008-02-09,-45.28377854253134,included_game_day
+2008,2097,Campbell Fighting Camels,2008-02-13,-60.656755642356146,included_game_day
+2008,2097,Campbell Fighting Camels,2008-02-16,-71.23171821452516,included_game_day
+2008,2097,Campbell Fighting Camels,2008-02-21,-95.24176641203687,included_game_day
+2008,2097,Campbell Fighting Camels,2008-02-25,-101.60438529172274,included_game_day
+2008,2097,Campbell Fighting Camels,2008-02-28,-96.18816983280064,included_game_day
+2008,2097,Campbell Fighting Camels,2008-03-01,-97.8606856157046,included_game_day
+2008,2097,Campbell Fighting Camels,2008-03-05,-94.55997208262889,included_game_day
+2009,2097,Campbell Fighting Camels,2008-11-19,-18.0,included_game_day
+2009,2097,Campbell Fighting Camels,2008-11-22,20.299999999999997,included_game_day
+2009,2097,Campbell Fighting Camels,2008-11-24,10.559999999999997,included_game_day
+2009,2097,Campbell Fighting Camels,2008-11-29,-1.866100000000003,included_game_day
+2009,2097,Campbell Fighting Camels,2008-12-09,-10.468674489700003,included_game_day
+2009,2097,Campbell Fighting Camels,2008-12-13,-17.365276583830003,included_game_day
+2009,2097,Campbell Fighting Camels,2008-12-15,-21.912909385447,included_game_day
+2009,2097,Campbell Fighting Camels,2008-12-29,-30.184319582632998,included_game_day
+2009,2097,Campbell Fighting Camels,2008-12-30,-42.77176258123995,included_game_day
+2009,2097,Campbell Fighting Camels,2009-01-03,-29.603507292556834,included_game_day
+2009,2097,Campbell Fighting Camels,2009-01-05,-24.248852616041557,included_game_day
+2009,2097,Campbell Fighting Camels,2009-01-08,-20.462311685357434,included_game_day
+2009,2097,Campbell Fighting Camels,2009-01-10,-43.414758889346075,included_game_day
+2009,2097,Campbell Fighting Camels,2009-01-17,-49.42373228919068,included_game_day
+2009,2097,Campbell Fighting Camels,2009-01-19,-59.3808747732025,included_game_day
+2009,2097,Campbell Fighting Camels,2009-01-22,-63.848039940830574,included_game_day
+2009,2097,Campbell Fighting Camels,2009-01-24,-70.11645946369647,included_game_day
+2009,2097,Campbell Fighting Camels,2009-01-28,-55.811157715548134,included_game_day
+2009,2097,Campbell Fighting Camels,2009-01-31,-14.034840479711448,included_game_day
+2009,2097,Campbell Fighting Camels,2009-02-02,6.54487902558666,included_game_day
+2009,2097,Campbell Fighting Camels,2009-02-06,0.9782655842504777,included_game_day
+2009,2097,Campbell Fighting Camels,2009-02-09,-20.25292264350714,included_game_day
+2009,2097,Campbell Fighting Camels,2009-02-14,-30.032603701103273,included_game_day
+2009,2097,Campbell Fighting Camels,2009-02-16,-14.690639659367942,included_game_day
+2009,2097,Campbell Fighting Camels,2009-02-21,-19.45933481252186,included_game_day
+2009,2097,Campbell Fighting Camels,2009-02-23,-11.734048857735651,included_game_day
+2009,2097,Campbell Fighting Camels,2009-02-27,-1.5302445160317255,included_game_day
+2009,2097,Campbell Fighting Camels,2009-03-05,-22.607131044162486,included_game_day
+2010,2097,Campbell Fighting Camels,2009-11-17,0.07000000000000028,included_game_day
+2010,2097,Campbell Fighting Camels,2009-11-21,13.953000000000001,included_game_day
+2010,2097,Campbell Fighting Camels,2009-11-23,0.30070000000000086,included_game_day
+2010,2097,Campbell Fighting Camels,2009-11-27,-3.5044699999999986,included_game_day
+2010,2097,Campbell Fighting Camels,2009-12-10,-3.1028441178899993,included_game_day
+2010,2097,Campbell Fighting Camels,2009-12-14,-17.698309623100997,included_game_day
+2010,2097,Campbell Fighting Camels,2009-12-19,-7.151546400998898,included_game_day
+2010,2097,Campbell Fighting Camels,2009-12-22,-17.898785464469007,included_game_day
+2010,2097,Campbell Fighting Camels,2009-12-30,10.09074931504049,included_game_day
+2010,2097,Campbell Fighting Camels,2010-01-02,18.164430698386933,included_game_day
+2010,2097,Campbell Fighting Camels,2010-01-07,6.257044281258068,included_game_day
+2010,2097,Campbell Fighting Camels,2010-01-09,10.645681980314556,included_game_day
+2010,2097,Campbell Fighting Camels,2010-01-14,15.248831047962243,included_game_day
+2010,2097,Campbell Fighting Camels,2010-01-16,27.129959414021087,included_game_day
+2010,2097,Campbell Fighting Camels,2010-01-21,15.136598208778109,included_game_day
+2010,2097,Campbell Fighting Camels,2010-01-23,22.807287121128326,included_game_day
+2010,2097,Campbell Fighting Camels,2010-01-27,9.2589235570008,included_game_day
+2010,2097,Campbell Fighting Camels,2010-01-30,-19.616827614354705,included_game_day
+2010,2097,Campbell Fighting Camels,2010-02-01,-19.007586710450564,included_game_day
+2010,2097,Campbell Fighting Camels,2010-02-04,-10.200764133735348,included_game_day
+2010,2097,Campbell Fighting Camels,2010-02-06,-2.575646900822406,included_game_day
+2010,2097,Campbell Fighting Camels,2010-02-12,-1.3196458561883526,included_game_day
+2010,2097,Campbell Fighting Camels,2010-02-15,-4.257617669552071,included_game_day
+2010,2097,Campbell Fighting Camels,2010-02-17,6.941247778926416,included_game_day
+2010,2097,Campbell Fighting Camels,2010-02-19,26.387951518211935,included_game_day
+2010,2097,Campbell Fighting Camels,2010-02-25,16.69178047134743,included_game_day
+2010,2097,Campbell Fighting Camels,2010-02-27,18.087886895381565,included_game_day
+2010,2097,Campbell Fighting Camels,2010-03-04,9.330342007998361,included_game_day
+2011,2097,Campbell Fighting Camels,2010-11-12,-7.0,included_game_day
+2011,2097,Campbell Fighting Camels,2010-11-15,-16.3,included_game_day
+2011,2097,Campbell Fighting Camels,2010-11-19,-8.280000000000001,included_game_day
+2011,2097,Campbell Fighting Camels,2010-11-20,0.7879999999999985,included_game_day
+2011,2097,Campbell Fighting Camels,2010-11-21,-3.508000000000002,included_game_day
+2011,2097,Campbell Fighting Camels,2010-11-27,6.621199999999999,included_game_day
+2011,2097,Campbell Fighting Camels,2010-12-10,25.06277882844,included_game_day
+2011,2097,Campbell Fighting Camels,2010-12-16,24.870731414558996,included_game_day
+2011,2097,Campbell Fighting Camels,2010-12-22,16.8340207379609,included_game_day
+2011,2097,Campbell Fighting Camels,2010-12-30,4.432621266171736,included_game_day
+2011,2097,Campbell Fighting Camels,2011-01-03,1.2299483440318126,included_game_day
+2011,2097,Campbell Fighting Camels,2011-01-05,-10.80971080900329,included_game_day
+2011,2097,Campbell Fighting Camels,2011-01-07,-9.187884736552407,included_game_day
+2011,2097,Campbell Fighting Camels,2011-01-10,-8.874633676778245,included_game_day
+2011,2097,Campbell Fighting Camels,2011-01-15,-24.001718687919073,included_game_day
+2011,2097,Campbell Fighting Camels,2011-01-17,-32.56296814993924,included_game_day
+2011,2097,Campbell Fighting Camels,2011-01-20,-45.95506268953925,included_game_day
+2011,2097,Campbell Fighting Camels,2011-01-22,-20.942286114780497,included_game_day
+2011,2097,Campbell Fighting Camels,2011-01-25,-37.97096373613289,included_game_day
+2011,2097,Campbell Fighting Camels,2011-01-29,-24.383727002615,included_game_day
+2011,2097,Campbell Fighting Camels,2011-01-31,-30.61756585540085,included_game_day
+2011,2097,Campbell Fighting Camels,2011-02-05,-46.08929891614089,included_game_day
+2011,2097,Campbell Fighting Camels,2011-02-07,-65.74589557406136,included_game_day
+2011,2097,Campbell Fighting Camels,2011-02-10,-66.15048283754825,included_game_day
+2011,2097,Campbell Fighting Camels,2011-02-12,-71.58903558945796,included_game_day
+2011,2097,Campbell Fighting Camels,2011-02-17,-68.40760214620101,included_game_day
+2011,2097,Campbell Fighting Camels,2011-02-19,-74.07029373060827,included_game_day
+2011,2097,Campbell Fighting Camels,2011-02-24,-71.00985728322088,included_game_day
+2011,2097,Campbell Fighting Camels,2011-02-26,-85.34835201242764,included_game_day
+2011,2097,Campbell Fighting Camels,2011-03-02,-72.46615338159705,included_game_day
+2012,2097,Campbell Fighting Camels,2011-11-11,11.0,included_game_day
+2012,2097,Campbell Fighting Camels,2011-11-14,8.9,included_game_day
+2012,2097,Campbell Fighting Camels,2011-11-17,29.5,included_game_day
+2012,2097,Campbell Fighting Camels,2011-11-21,27.824,included_game_day
+2012,2097,Campbell Fighting Camels,2011-11-23,48.2607,included_game_day
+2012,2097,Campbell Fighting Camels,2011-11-25,31.86253,included_game_day
+2012,2097,Campbell Fighting Camels,2011-12-01,34.2094402,included_game_day
+2012,2097,Campbell Fighting Camels,2011-12-03,36.631312380000004,included_game_day
+2012,2097,Campbell Fighting Camels,2011-12-14,18.254981743800002,included_game_day
+2012,2097,Campbell Fighting Camels,2011-12-17,-0.4443107974675975,included_game_day
+2012,2097,Campbell Fighting Camels,2011-12-19,-0.3219517648152377,included_game_day
+2012,2097,Campbell Fighting Camels,2011-12-22,-4.6914262989077535,included_game_day
+2012,2097,Campbell Fighting Camels,2011-12-29,-2.5957999583022424,included_game_day
+2012,2097,Campbell Fighting Camels,2012-01-02,0.08327243644854132,included_game_day
+2012,2097,Campbell Fighting Camels,2012-01-05,-14.160078379541737,included_game_day
+2012,2097,Campbell Fighting Camels,2012-01-07,-0.7269566907561629,included_game_day
+2012,2097,Campbell Fighting Camels,2012-01-12,-9.862491862666548,included_game_day
+2012,2097,Campbell Fighting Camels,2012-01-14,-7.573808951576495,included_game_day
+2012,2097,Campbell Fighting Camels,2012-01-17,-4.923488330427103,included_game_day
+2012,2097,Campbell Fighting Camels,2012-01-19,-1.6507174570855945,included_game_day
+2012,2097,Campbell Fighting Camels,2012-01-21,-2.722162611801739,included_game_day
+2012,2097,Campbell Fighting Camels,2012-01-26,-7.520946693890931,included_game_day
+2012,2097,Campbell Fighting Camels,2012-01-28,-11.69704913705203,included_game_day
+2012,2097,Campbell Fighting Camels,2012-02-02,-5.827527648264205,included_game_day
+2012,2097,Campbell Fighting Camels,2012-02-04,-15.738654934711782,included_game_day
+2012,2097,Campbell Fighting Camels,2012-02-07,-1.0880812326156395,included_game_day
+2012,2097,Campbell Fighting Camels,2012-02-09,0.05063092237149114,included_game_day
+2012,2097,Campbell Fighting Camels,2012-02-18,-15.20643997222646,included_game_day
+2012,2097,Campbell Fighting Camels,2012-02-22,-52.85041967156345,included_game_day
+2012,2097,Campbell Fighting Camels,2012-02-25,-57.20015329940212,included_game_day
+2012,2097,Campbell Fighting Camels,2012-02-29,-72.99663464565593,included_game_day
+2013,2097,Campbell Fighting Camels,2012-11-12,-7.0,included_game_day
+2013,2097,Campbell Fighting Camels,2012-11-16,7.25,included_game_day
+2013,2097,Campbell Fighting Camels,2012-11-18,-3.1750000000000007,included_game_day
+2013,2097,Campbell Fighting Camels,2012-11-20,-9.2121,included_game_day
+2013,2097,Campbell Fighting Camels,2012-11-23,-40.650499999999994,included_game_day
+2013,2097,Campbell Fighting Camels,2012-11-24,-47.794079999999994,included_game_day
+2013,2097,Campbell Fighting Camels,2012-12-04,-48.765175365999994,included_game_day
+2013,2097,Campbell Fighting Camels,2012-12-19,-51.93931447630399,included_game_day
+2013,2097,Campbell Fighting Camels,2012-12-22,-70.6631124301554,included_game_day
+2013,2097,Campbell Fighting Camels,2012-12-29,-58.462717211333185,included_game_day
+2013,2097,Campbell Fighting Camels,2013-01-02,-43.59272268319779,included_game_day
+2013,2097,Campbell Fighting Camels,2013-01-05,-27.97457233486164,included_game_day
+2013,2097,Campbell Fighting Camels,2013-01-09,-26.53374449158322,included_game_day
+2013,2097,Campbell Fighting Camels,2013-01-12,-18.54421668886215,included_game_day
+2013,2097,Campbell Fighting Camels,2013-01-16,-35.450629675147425,included_game_day
+2013,2097,Campbell Fighting Camels,2013-01-19,-37.11006779069815,included_game_day
+2013,2097,Campbell Fighting Camels,2013-01-23,-30.641051714552905,included_game_day
+2013,2097,Campbell Fighting Camels,2013-01-26,-39.184178615556355,included_game_day
+2013,2097,Campbell Fighting Camels,2013-01-29,-55.66460067605412,included_game_day
+2013,2097,Campbell Fighting Camels,2013-02-02,-70.11877484648997,included_game_day
+2013,2097,Campbell Fighting Camels,2013-02-06,-72.18404295236463,included_game_day
+2013,2097,Campbell Fighting Camels,2013-02-09,-79.86533967869643,included_game_day
+2013,2097,Campbell Fighting Camels,2013-02-13,-81.63773831069203,included_game_day
+2013,2097,Campbell Fighting Camels,2013-02-16,-72.53831069418816,included_game_day
+2013,2097,Campbell Fighting Camels,2013-02-19,-63.24434899224893,included_game_day
+2013,2097,Campbell Fighting Camels,2013-02-23,-68.89127109834759,included_game_day
+2013,2097,Campbell Fighting Camels,2013-02-27,-92.95921209933688,included_game_day
+2013,2097,Campbell Fighting Camels,2013-03-02,-81.6120463703202,included_game_day
+2013,2097,Campbell Fighting Camels,2013-03-05,-75.91929062474131,included_game_day
+2013,2097,Campbell Fighting Camels,2013-03-07,-80.42448360033674,included_game_day
+2014,2097,Campbell Fighting Camels,2013-11-12,8.2,included_game_day
+2014,2097,Campbell Fighting Camels,2013-11-16,-3.700000000000001,included_game_day
+2014,2097,Campbell Fighting Camels,2013-11-18,-26.33,included_game_day
+2014,2097,Campbell Fighting Camels,2013-11-20,-35.766999999999996,included_game_day
+2014,2097,Campbell Fighting Camels,2013-11-30,-30.258356799999994,included_game_day
+2014,2097,Campbell Fighting Camels,2013-12-03,-47.63294544121,included_game_day
+2014,2097,Campbell Fighting Camels,2013-12-13,-53.077614800944,included_game_day
+2014,2097,Campbell Fighting Camels,2013-12-18,-58.8519257681225,included_game_day
+2014,2097,Campbell Fighting Camels,2013-12-30,-52.81648093462972,included_game_day
+2014,2097,Campbell Fighting Camels,2014-01-02,-57.909311365023534,included_game_day
+2014,2097,Campbell Fighting Camels,2014-01-04,-73.83192207978007,included_game_day
+2014,2097,Campbell Fighting Camels,2014-01-08,-76.11750216656515,included_game_day
+2014,2097,Campbell Fighting Camels,2014-01-11,-73.78371687128802,included_game_day
+2014,2097,Campbell Fighting Camels,2014-01-14,-68.94394119409372,included_game_day
+2014,2097,Campbell Fighting Camels,2014-01-18,-63.7218434842728,included_game_day
+2014,2097,Campbell Fighting Camels,2014-01-22,-61.91397641033975,included_game_day
+2014,2097,Campbell Fighting Camels,2014-01-25,-74.65441874664916,included_game_day
+2014,2097,Campbell Fighting Camels,2014-01-29,-65.16447386220672,included_game_day
+2014,2097,Campbell Fighting Camels,2014-02-01,-66.69936182639742,included_game_day
+2014,2097,Campbell Fighting Camels,2014-02-05,-73.87584165593688,included_game_day
+2014,2097,Campbell Fighting Camels,2014-02-08,-93.8843126063781,included_game_day
+2014,2097,Campbell Fighting Camels,2014-02-12,-90.87241856725369,included_game_day
+2014,2097,Campbell Fighting Camels,2014-02-15,-123.03332743969617,included_game_day
+2014,2097,Campbell Fighting Camels,2014-02-19,-113.03654286548633,included_game_day
+2014,2097,Campbell Fighting Camels,2014-02-22,-133.53577561094545,included_game_day
+2014,2097,Campbell Fighting Camels,2014-02-26,-124.23563736135738,included_game_day
+2014,2097,Campbell Fighting Camels,2014-02-28,-113.31797422069506,included_game_day
+2014,2097,Campbell Fighting Camels,2014-03-05,-113.26848392185069,included_game_day
+2015,2097,Campbell Fighting Camels,2014-11-18,-32.0,included_game_day
+2015,2097,Campbell Fighting Camels,2014-11-22,-38.21,included_game_day
+2015,2097,Campbell Fighting Camels,2014-11-26,-49.239599999999996,included_game_day
+2015,2097,Campbell Fighting Camels,2014-11-30,-54.86853,included_game_day
+2015,2097,Campbell Fighting Camels,2014-12-02,-49.091969999999996,included_game_day
+2015,2097,Campbell Fighting Camels,2014-12-10,-29.694475699999998,included_game_day
+2015,2097,Campbell Fighting Camels,2014-12-14,-36.9770993647118,included_game_day
+2015,2097,Campbell Fighting Camels,2014-12-17,-37.13874539060062,included_game_day
+2015,2097,Campbell Fighting Camels,2014-12-23,-29.570538044728586,included_game_day
+2015,2097,Campbell Fighting Camels,2014-12-28,-38.228777290092424,included_game_day
+2015,2097,Campbell Fighting Camels,2014-12-31,-35.049086614947974,included_game_day
+2015,2097,Campbell Fighting Camels,2015-01-05,-35.34524918573061,included_game_day
+2015,2097,Campbell Fighting Camels,2015-01-10,-37.27685135390889,included_game_day
+2015,2097,Campbell Fighting Camels,2015-01-12,-35.63777821304149,included_game_day
+2015,2097,Campbell Fighting Camels,2015-01-15,-54.392415838002364,included_game_day
+2015,2097,Campbell Fighting Camels,2015-01-17,-58.12736686938137,included_game_day
+2015,2097,Campbell Fighting Camels,2015-01-22,-62.06632132007008,included_game_day
+2015,2097,Campbell Fighting Camels,2015-01-24,-62.406776685161006,included_game_day
+2015,2097,Campbell Fighting Camels,2015-01-26,-42.76236495310536,included_game_day
+2015,2097,Campbell Fighting Camels,2015-01-31,-44.53938577711822,included_game_day
+2015,2097,Campbell Fighting Camels,2015-02-03,-40.7741514810576,included_game_day
+2015,2097,Campbell Fighting Camels,2015-02-06,-45.15218266510939,included_game_day
+2015,2097,Campbell Fighting Camels,2015-02-10,-62.953659083712495,included_game_day
+2015,2097,Campbell Fighting Camels,2015-02-14,-70.88140326849229,included_game_day
+2015,2097,Campbell Fighting Camels,2015-02-19,-82.4761731560367,included_game_day
+2015,2097,Campbell Fighting Camels,2015-02-21,-105.46962777138053,included_game_day
+2015,2097,Campbell Fighting Camels,2015-02-26,-79.12996419922482,included_game_day
+2015,2097,Campbell Fighting Camels,2015-02-28,-82.82507326866434,included_game_day
+2015,2097,Campbell Fighting Camels,2015-03-04,-86.33302890836643,included_game_day
+2016,2097,Campbell Fighting Camels,2015-11-16,1.0,included_game_day
+2016,2097,Campbell Fighting Camels,2015-11-21,-12.89,included_game_day
+2016,2097,Campbell Fighting Camels,2015-11-24,-7.939000000000001,included_game_day
+2016,2097,Campbell Fighting Camels,2015-11-28,-4.976300000000001,included_game_day
+2016,2097,Campbell Fighting Camels,2015-11-30,-7.94012,included_game_day
+2016,2097,Campbell Fighting Camels,2015-12-09,-8.848865311,included_game_day
+2016,2097,Campbell Fighting Camels,2015-12-13,-24.4774100799,included_game_day
+2016,2097,Campbell Fighting Camels,2015-12-19,-9.9744909871158,included_game_day
+2016,2097,Campbell Fighting Camels,2015-12-22,-28.78562075387622,included_game_day
+2016,2097,Campbell Fighting Camels,2015-12-28,-39.5643070056192,included_game_day
+2016,2097,Campbell Fighting Camels,2015-12-31,-26.79950064946674,included_game_day
+2016,2097,Campbell Fighting Camels,2016-01-02,-41.68637379034628,included_game_day
+2016,2097,Campbell Fighting Camels,2016-01-06,-40.67350415411916,included_game_day
+2016,2097,Campbell Fighting Camels,2016-01-09,-43.864729314733864,included_game_day
+2016,2097,Campbell Fighting Camels,2016-01-14,-66.49173362781215,included_game_day
+2016,2097,Campbell Fighting Camels,2016-01-16,-76.18010733455901,included_game_day
+2016,2097,Campbell Fighting Camels,2016-01-20,-80.33245362943177,included_game_day
+2016,2097,Campbell Fighting Camels,2016-01-27,-84.54745498873496,included_game_day
+2016,2097,Campbell Fighting Camels,2016-01-30,-100.75247235044722,included_game_day
+2016,2097,Campbell Fighting Camels,2016-02-03,-95.69932811751883,included_game_day
+2016,2097,Campbell Fighting Camels,2016-02-06,-97.97151863825026,included_game_day
+2016,2097,Campbell Fighting Camels,2016-02-11,-90.65783656027108,included_game_day
+2016,2097,Campbell Fighting Camels,2016-02-13,-57.00080944828604,included_game_day
+2016,2097,Campbell Fighting Camels,2016-02-20,-54.88488471803162,included_game_day
+2016,2097,Campbell Fighting Camels,2016-02-25,-57.90116082619663,included_game_day
+2016,2097,Campbell Fighting Camels,2016-02-27,-68.45576752545918,included_game_day
+2016,2097,Campbell Fighting Camels,2016-03-03,-75.43254899889837,included_game_day
+2017,2097,Campbell Fighting Camels,2016-11-11,-34.0,included_game_day
+2017,2097,Campbell Fighting Camels,2016-11-19,-47.83,included_game_day
+2017,2097,Campbell Fighting Camels,2016-11-21,-57.92,included_game_day
+2017,2097,Campbell Fighting Camels,2016-11-26,-37.1845,included_game_day
+2017,2097,Campbell Fighting Camels,2016-12-02,-44.4543139,included_game_day
+2017,2097,Campbell Fighting Camels,2016-12-03,-41.358126500000004,included_game_day
+2017,2097,Campbell Fighting Camels,2016-12-04,-32.694052420000006,included_game_day
+2017,2097,Campbell Fighting Camels,2016-12-14,-48.772874905664004,included_game_day
+2017,2097,Campbell Fighting Camels,2016-12-22,-43.687203760624904,included_game_day
+2017,2097,Campbell Fighting Camels,2016-12-29,-49.959090384052054,included_game_day
+2017,2097,Campbell Fighting Camels,2016-12-31,-50.1986646318408,included_game_day
+2017,2097,Campbell Fighting Camels,2017-01-04,-47.245487169315034,included_game_day
+2017,2097,Campbell Fighting Camels,2017-01-07,-51.092884544595904,included_game_day
+2017,2097,Campbell Fighting Camels,2017-01-11,-28.84045455363153,included_game_day
+2017,2097,Campbell Fighting Camels,2017-01-14,-36.456995803273614,included_game_day
+2017,2097,Campbell Fighting Camels,2017-01-19,-47.3780936887827,included_game_day
+2017,2097,Campbell Fighting Camels,2017-01-21,-52.50039152147011,included_game_day
+2017,2097,Campbell Fighting Camels,2017-01-26,-33.289779676800656,included_game_day
+2017,2097,Campbell Fighting Camels,2017-01-28,-66.65617354176933,included_game_day
+2017,2097,Campbell Fighting Camels,2017-02-01,-77.62560896022815,included_game_day
+2017,2097,Campbell Fighting Camels,2017-02-04,-78.12845034212387,included_game_day
+2017,2097,Campbell Fighting Camels,2017-02-09,-87.73697208037876,included_game_day
+2017,2097,Campbell Fighting Camels,2017-02-11,-79.74980144042728,included_game_day
+2017,2097,Campbell Fighting Camels,2017-02-15,-79.9993817833849,included_game_day
+2017,2097,Campbell Fighting Camels,2017-02-18,-81.91138613029952,included_game_day
+2017,2097,Campbell Fighting Camels,2017-02-23,-83.8178383365049,included_game_day
+2017,2097,Campbell Fighting Camels,2017-02-25,-83.84720562172167,included_game_day
+2017,2097,Campbell Fighting Camels,2017-02-28,-80.16941278934635,included_game_day
+2017,2097,Campbell Fighting Camels,2017-03-02,-63.8548977169962,included_game_day
+2017,2097,Campbell Fighting Camels,2017-03-03,-48.85050228311455,included_game_day
+2017,2097,Campbell Fighting Camels,2017-03-05,-52.64473023064686,included_game_day
+2017,2097,Campbell Fighting Camels,2017-03-20,-34.79757008354595,included_game_day
+2017,2097,Campbell Fighting Camels,2017-03-25,-44.50842556603832,included_game_day
+2018,2097,Campbell Fighting Camels,2017-11-10,-8.0,included_game_day
+2018,2097,Campbell Fighting Camels,2017-11-18,-10.15,included_game_day
+2018,2097,Campbell Fighting Camels,2017-11-24,-19.637790000000003,included_game_day
+2018,2097,Campbell Fighting Camels,2017-11-25,-25.804611,included_game_day
+2018,2097,Campbell Fighting Camels,2017-11-26,-9.734211000000002,included_game_day
+2018,2097,Campbell Fighting Camels,2017-11-30,-0.7609600200000024,included_game_day
+2018,2097,Campbell Fighting Camels,2017-12-04,-3.332630666300002,included_game_day
+2018,2097,Campbell Fighting Camels,2017-12-14,-5.227497975780002,included_game_day
+2018,2097,Campbell Fighting Camels,2017-12-19,-12.43760370082419,included_game_day
+2018,2097,Campbell Fighting Camels,2017-12-30,-17.197093015299416,included_game_day
+2018,2097,Campbell Fighting Camels,2018-01-03,-26.26434910825948,included_game_day
+2018,2097,Campbell Fighting Camels,2018-01-06,-15.873554004494576,included_game_day
+2018,2097,Campbell Fighting Camels,2018-01-09,-12.753695315356078,included_game_day
+2018,2097,Campbell Fighting Camels,2018-01-12,-16.619625034335332,included_game_day
+2018,2097,Campbell Fighting Camels,2018-01-15,-38.25718737247742,included_game_day
+2018,2097,Campbell Fighting Camels,2018-01-18,-28.8046250702453,included_game_day
+2018,2097,Campbell Fighting Camels,2018-01-21,-25.336828845026943,included_game_day
+2018,2097,Campbell Fighting Camels,2018-01-23,-14.239676394537323,included_game_day
+2018,2097,Campbell Fighting Camels,2018-01-27,-16.704324021306853,included_game_day
+2018,2097,Campbell Fighting Camels,2018-02-01,-26.76668783412101,included_game_day
+2018,2097,Campbell Fighting Camels,2018-02-03,-33.4534210006806,included_game_day
+2018,2097,Campbell Fighting Camels,2018-02-07,-25.38761752332032,included_game_day
+2018,2097,Campbell Fighting Camels,2018-02-10,-3.018562986148112,included_game_day
+2018,2097,Campbell Fighting Camels,2018-02-15,-20.96863663853156,included_game_day
+2018,2097,Campbell Fighting Camels,2018-02-18,-11.749287756614077,included_game_day
+2018,2097,Campbell Fighting Camels,2018-02-22,-14.811759431605294,included_game_day
+2018,2097,Campbell Fighting Camels,2018-02-24,-10.595811648637632,included_game_day
+2018,2097,Campbell Fighting Camels,2018-03-01,-24.313652542483723,included_game_day
+2018,2097,Campbell Fighting Camels,2018-03-14,-15.15608620959447,included_game_day
+2018,2097,Campbell Fighting Camels,2018-03-19,-20.421700909629507,included_game_day
+2018,2097,Campbell Fighting Camels,2018-03-22,-17.030432622302513,included_game_day
+2019,2097,Campbell Fighting Camels,2018-11-06,1.0,included_game_day
+2019,2097,Campbell Fighting Camels,2018-11-09,-12.1,included_game_day
+2019,2097,Campbell Fighting Camels,2018-11-12,-15.89,included_game_day
+2019,2097,Campbell Fighting Camels,2018-11-16,-5.501000000000001,included_game_day
+2019,2097,Campbell Fighting Camels,2018-11-18,-0.6013000000000011,included_game_day
+2019,2097,Campbell Fighting Camels,2018-11-24,-3.4870600000000005,included_game_day
+2019,2097,Campbell Fighting Camels,2018-12-04,-12.601940500000001,included_game_day
+2019,2097,Campbell Fighting Camels,2018-12-18,-17.547806919847403,included_game_day
+2019,2097,Campbell Fighting Camels,2018-12-21,-27.176199221291963,included_game_day
+2019,2097,Campbell Fighting Camels,2018-12-22,-34.02015968137825,included_game_day
+2019,2097,Campbell Fighting Camels,2018-12-29,-33.715852356423994,included_game_day
+2019,2097,Campbell Fighting Camels,2019-01-05,-19.06245573362271,included_game_day
+2019,2097,Campbell Fighting Camels,2019-01-10,-23.54627321731681,included_game_day
+2019,2097,Campbell Fighting Camels,2019-01-16,-15.441233859918011,included_game_day
+2019,2097,Campbell Fighting Camels,2019-01-19,-13.327975988129747,included_game_day
+2019,2097,Campbell Fighting Camels,2019-01-24,-10.449623874073676,included_game_day
+2019,2097,Campbell Fighting Camels,2019-01-26,-14.477109336150601,included_game_day
+2019,2097,Campbell Fighting Camels,2019-01-30,-5.862943698973554,included_game_day
+2019,2097,Campbell Fighting Camels,2019-02-02,7.696161924448603,included_game_day
+2019,2097,Campbell Fighting Camels,2019-02-07,8.288326084296678,included_game_day
+2019,2097,Campbell Fighting Camels,2019-02-09,10.929564516826177,included_game_day
+2019,2097,Campbell Fighting Camels,2019-02-13,7.540818162989502,included_game_day
+2019,2097,Campbell Fighting Camels,2019-02-16,5.294791158680807,included_game_day
+2019,2097,Campbell Fighting Camels,2019-02-21,14.095703800692275,included_game_day
+2019,2097,Campbell Fighting Camels,2019-02-23,10.625417836778121,included_game_day
+2019,2097,Campbell Fighting Camels,2019-02-27,12.359246602335588,included_game_day
+2019,2097,Campbell Fighting Camels,2019-03-02,14.344390567059387,included_game_day
+2019,2097,Campbell Fighting Camels,2019-03-07,20.333093152595847,included_game_day
+2019,2097,Campbell Fighting Camels,2019-03-08,10.587184236458627,included_game_day
+2019,2097,Campbell Fighting Camels,2019-03-19,3.9276926565324484,included_game_day
+2020,2097,Campbell Fighting Camels,2019-11-05,4.0,included_game_day
+2020,2097,Campbell Fighting Camels,2019-11-12,-0.21999999999999975,included_game_day
+2020,2097,Campbell Fighting Camels,2019-11-16,14.634,included_game_day
+2020,2097,Campbell Fighting Camels,2019-11-25,13.839655,included_game_day
+2020,2097,Campbell Fighting Camels,2019-11-29,2.5186694999999997,included_game_day
+2020,2097,Campbell Fighting Camels,2019-11-30,2.91308422,included_game_day
+2020,2097,Campbell Fighting Camels,2019-12-01,3.45076678,included_game_day
+2020,2097,Campbell Fighting Camels,2019-12-14,-9.68016064787,included_game_day
+2020,2097,Campbell Fighting Camels,2019-12-17,-4.0452321598294,included_game_day
+2020,2097,Campbell Fighting Camels,2019-12-29,6.634686590081008,included_game_day
+2020,2097,Campbell Fighting Camels,2020-01-02,-4.711963030147382,included_game_day
+2020,2097,Campbell Fighting Camels,2020-01-04,-20.806949378230826,included_game_day
+2020,2097,Campbell Fighting Camels,2020-01-08,-15.7641451127522,included_game_day
+2020,2097,Campbell Fighting Camels,2020-01-11,-15.497936408491109,included_game_day
+2020,2097,Campbell Fighting Camels,2020-01-16,-42.3457059756016,included_game_day
+2020,2097,Campbell Fighting Camels,2020-01-18,-39.19846274421417,included_game_day
+2020,2097,Campbell Fighting Camels,2020-01-20,-46.07618636479667,included_game_day
+2020,2097,Campbell Fighting Camels,2020-01-23,-56.82168514008747,included_game_day
+2020,2097,Campbell Fighting Camels,2020-01-30,-72.17686465065806,included_game_day
+2020,2097,Campbell Fighting Camels,2020-02-01,-85.83496535256415,included_game_day
+2020,2097,Campbell Fighting Camels,2020-02-06,-74.99165106033168,included_game_day
+2020,2097,Campbell Fighting Camels,2020-02-08,-61.29775268466872,included_game_day
+2020,2097,Campbell Fighting Camels,2020-02-10,-59.14498642991702,included_game_day
+2020,2097,Campbell Fighting Camels,2020-02-13,-37.974426672254815,included_game_day
+2020,2097,Campbell Fighting Camels,2020-02-15,-49.70195361841668,included_game_day
+2020,2097,Campbell Fighting Camels,2020-02-20,-34.048887049969196,included_game_day
+2020,2097,Campbell Fighting Camels,2020-02-22,-40.951519656289044,included_game_day
+2020,2097,Campbell Fighting Camels,2020-02-29,-37.89630121825,included_game_day
+2020,2097,Campbell Fighting Camels,2020-03-03,-42.45212646781877,included_game_day
+2021,2097,Campbell Fighting Camels,2020-12-08,3.936,included_game_day
+2021,2097,Campbell Fighting Camels,2020-12-09,7.5204,included_game_day
+2021,2097,Campbell Fighting Camels,2020-12-16,-0.4916400000000003,included_game_day
+2021,2097,Campbell Fighting Camels,2020-12-19,-8.907642557,included_game_day
+2021,2097,Campbell Fighting Camels,2020-12-21,-29.5808898673,included_game_day
+2021,2097,Campbell Fighting Camels,2020-12-30,-18.12490802057,included_game_day
+2021,2097,Campbell Fighting Camels,2020-12-31,-25.960122543186,included_game_day
+2021,2097,Campbell Fighting Camels,2021-01-04,-11.786967057217598,included_game_day
+2021,2097,Campbell Fighting Camels,2021-01-05,-24.44844266844288,included_game_day
+2021,2097,Campbell Fighting Camels,2021-01-09,-16.606908034440835,included_game_day
+2021,2097,Campbell Fighting Camels,2021-01-10,-25.333680327239197,included_game_day
+2021,2097,Campbell Fighting Camels,2021-01-14,-27.032587532047277,included_game_day
+2021,2097,Campbell Fighting Camels,2021-01-15,-8.39171329589374,included_game_day
+2021,2097,Campbell Fighting Camels,2021-01-19,-13.846892032526238,included_game_day
+2021,2097,Campbell Fighting Camels,2021-01-20,-18.211035021832238,included_game_day
+2021,2097,Campbell Fighting Camels,2021-01-29,-27.955233279326976,included_game_day
+2021,2097,Campbell Fighting Camels,2021-01-30,-28.750591885322763,included_game_day
+2021,2097,Campbell Fighting Camels,2021-02-11,-34.46029638534531,included_game_day
+2021,2097,Campbell Fighting Camels,2021-02-12,-25.028059985363345,included_game_day
+2021,2097,Campbell Fighting Camels,2021-02-18,-6.715790347833117,included_game_day
+2021,2097,Campbell Fighting Camels,2021-02-19,-6.065974637808936,included_game_day
+2021,2097,Campbell Fighting Camels,2021-02-23,8.42085238103881,included_game_day
+2021,2097,Campbell Fighting Camels,2021-03-01,14.711220548834895,included_game_day
+2021,2097,Campbell Fighting Camels,2021-03-04,32.59387509086196,included_game_day
+2021,2097,Campbell Fighting Camels,2021-03-07,15.358196129300168,included_game_day
+2022,2097,Campbell Fighting Camels,2021-11-12,-0.5,included_game_day
+2022,2097,Campbell Fighting Camels,2021-11-13,-5.43,included_game_day
+2022,2097,Campbell Fighting Camels,2021-11-18,0.6130000000000004,included_game_day
+2022,2097,Campbell Fighting Camels,2021-11-24,7.4096,included_game_day
+2022,2097,Campbell Fighting Camels,2021-11-27,9.16864,included_game_day
+2022,2097,Campbell Fighting Camels,2021-12-04,9.094467375,included_game_day
+2022,2097,Campbell Fighting Camels,2021-12-15,2.9269006373594006,included_game_day
+2022,2097,Campbell Fighting Camels,2021-12-22,-5.217137260310389,included_game_day
+2022,2097,Campbell Fighting Camels,2022-01-05,-15.570692724750982,included_game_day
+2022,2097,Campbell Fighting Camels,2022-01-10,-15.147866439062007,included_game_day
+2022,2097,Campbell Fighting Camels,2022-01-12,-15.59087552539668,included_game_day
+2022,2097,Campbell Fighting Camels,2022-01-15,-10.15856730604661,included_game_day
+2022,2097,Campbell Fighting Camels,2022-01-19,-10.927297050980341,included_game_day
+2022,2097,Campbell Fighting Camels,2022-01-22,-9.294987249098384,included_game_day
+2022,2097,Campbell Fighting Camels,2022-01-26,-4.557177986742287,included_game_day
+2022,2097,Campbell Fighting Camels,2022-01-29,-6.997449594172061,included_game_day
+2022,2097,Campbell Fighting Camels,2022-02-02,-16.10430040120291,included_game_day
+2022,2097,Campbell Fighting Camels,2022-02-05,-4.0846057555073685,included_game_day
+2022,2097,Campbell Fighting Camels,2022-02-09,-18.051228917192848,included_game_day
+2022,2097,Campbell Fighting Camels,2022-02-12,1.2795934880583175,included_game_day
+2022,2097,Campbell Fighting Camels,2022-02-16,-7.042051720794024,included_game_day
+2022,2097,Campbell Fighting Camels,2022-02-19,-13.940902961999164,included_game_day
+2022,2097,Campbell Fighting Camels,2022-02-23,-19.557384390074034,included_game_day
+2022,2097,Campbell Fighting Camels,2022-02-26,-25.433167926424197,included_game_day
+2022,2097,Campbell Fighting Camels,2022-03-02,-24.953083905735046,included_game_day
+2022,2097,Campbell Fighting Camels,2022-03-04,-23.763734710382796,included_game_day
+2023,2097,Campbell Fighting Camels,2022-11-11,1.5999999999999996,included_game_day
+2023,2097,Campbell Fighting Camels,2022-11-18,9.854999999999999,included_game_day
+2023,2097,Campbell Fighting Camels,2022-11-19,7.443299999999999,included_game_day
+2023,2097,Campbell Fighting Camels,2022-11-20,31.4193,included_game_day
+2023,2097,Campbell Fighting Camels,2022-11-23,1.877369999999999,included_game_day
+2023,2097,Campbell Fighting Camels,2022-11-27,2.1217429999999995,included_game_day
+2023,2097,Campbell Fighting Camels,2022-12-02,-5.814428273900001,included_game_day
+2023,2097,Campbell Fighting Camels,2022-12-07,-15.85700539879,included_game_day
+2023,2097,Campbell Fighting Camels,2022-12-17,-15.030939581236469,included_game_day
+2023,2097,Campbell Fighting Camels,2022-12-21,-22.500880508756122,included_game_day
+2023,2097,Campbell Fighting Camels,2022-12-29,-33.22082648127391,included_game_day
+2023,2097,Campbell Fighting Camels,2022-12-31,-54.263772963540106,included_game_day
+2023,2097,Campbell Fighting Camels,2023-01-04,-45.45128141796586,included_game_day
+2023,2097,Campbell Fighting Camels,2023-01-07,-42.941478866918885,included_game_day
+2023,2097,Campbell Fighting Camels,2023-01-11,-23.52775456156077,included_game_day
+2023,2097,Campbell Fighting Camels,2023-01-14,-34.220407804382695,included_game_day
+2023,2097,Campbell Fighting Camels,2023-01-18,-40.472379949880015,included_game_day
+2023,2097,Campbell Fighting Camels,2023-01-21,-33.65066692941223,included_game_day
+2023,2097,Campbell Fighting Camels,2023-01-25,-26.540945147643633,included_game_day
+2023,2097,Campbell Fighting Camels,2023-01-28,-39.3597701388609,included_game_day
+2023,2097,Campbell Fighting Camels,2023-02-01,-31.380607267299126,included_game_day
+2023,2097,Campbell Fighting Camels,2023-02-04,-48.92364972795676,included_game_day
+2023,2097,Campbell Fighting Camels,2023-02-08,-40.580235807182746,included_game_day
+2023,2097,Campbell Fighting Camels,2023-02-11,-34.38746549395818,included_game_day
+2023,2097,Campbell Fighting Camels,2023-02-15,-25.035585413936033,included_game_day
+2023,2097,Campbell Fighting Camels,2023-02-18,-17.31586405368659,included_game_day
+2023,2097,Campbell Fighting Camels,2023-02-22,-15.624472913385778,included_game_day
+2023,2097,Campbell Fighting Camels,2023-02-25,-13.95701808768791,included_game_day
+2023,2097,Campbell Fighting Camels,2023-03-01,-19.216166556725632,included_game_day
+2023,2097,Campbell Fighting Camels,2023-03-03,-2.1549043947941016,included_game_day
+2023,2097,Campbell Fighting Camels,2023-03-04,-1.1350952454988363,included_game_day
+2023,2097,Campbell Fighting Camels,2023-03-05,-0.5700959676039397,included_game_day
+2024,2097,Campbell Fighting Camels,2023-11-06,8.0,included_game_day
+2024,2097,Campbell Fighting Camels,2023-11-11,-3.8000000000000007,included_game_day
+2024,2097,Campbell Fighting Camels,2023-11-15,-12.58,included_game_day
+2024,2097,Campbell Fighting Camels,2023-11-20,-21.4691,included_game_day
+2024,2097,Campbell Fighting Camels,2023-11-21,-38.20729,included_game_day
+2024,2097,Campbell Fighting Camels,2023-11-22,-31.48569,included_game_day
+2024,2097,Campbell Fighting Camels,2023-11-29,-42.33414371,included_game_day
+2024,2097,Campbell Fighting Camels,2023-12-06,-46.72318309,included_game_day
+2024,2097,Campbell Fighting Camels,2023-12-18,-48.502765137778,included_game_day
+2024,2097,Campbell Fighting Camels,2023-12-30,-49.8443561193481,included_game_day
+2024,2097,Campbell Fighting Camels,2024-01-04,-65.96858844151434,included_game_day
+2024,2097,Campbell Fighting Camels,2024-01-06,-55.40190864239852,included_game_day
+2024,2097,Campbell Fighting Camels,2024-01-11,-55.997235116802486,included_game_day
+2024,2097,Campbell Fighting Camels,2024-01-13,-51.57518562744917,included_game_day
+2024,2097,Campbell Fighting Camels,2024-01-18,-36.372248020116146,included_game_day
+2024,2097,Campbell Fighting Camels,2024-01-20,-64.3733245277692,included_game_day
+2024,2097,Campbell Fighting Camels,2024-01-25,-58.34805677764115,included_game_day
+2024,2097,Campbell Fighting Camels,2024-01-27,-74.20120535106594,included_game_day
+2024,2097,Campbell Fighting Camels,2024-02-01,-69.28292674753476,included_game_day
+2024,2097,Campbell Fighting Camels,2024-02-03,-57.43791778645737,included_game_day
+2024,2097,Campbell Fighting Camels,2024-02-08,-69.0658988474174,included_game_day
+2024,2097,Campbell Fighting Camels,2024-02-10,-47.10743438427527,included_game_day
+2024,2097,Campbell Fighting Camels,2024-02-15,-42.41361519217846,included_game_day
+2024,2097,Campbell Fighting Camels,2024-02-17,-47.35435516247606,included_game_day
+2024,2097,Campbell Fighting Camels,2024-02-22,-60.594977371140146,included_game_day
+2024,2097,Campbell Fighting Camels,2024-02-26,-46.81855287226711,included_game_day
+2024,2097,Campbell Fighting Camels,2024-02-29,-54.36248433596516,included_game_day
+2024,2097,Campbell Fighting Camels,2024-03-02,-63.86158990845159,included_game_day
+2024,2097,Campbell Fighting Camels,2024-03-09,-81.92671663297483,included_game_day
+2025,2097,Campbell Fighting Camels,2024-11-06,-6.0,included_game_day
+2025,2097,Campbell Fighting Camels,2024-11-10,-13.89,included_game_day
+2025,2097,Campbell Fighting Camels,2024-11-17,8.911999999999999,included_game_day
+2025,2097,Campbell Fighting Camels,2024-11-22,-25.941520000000004,included_game_day
+2025,2097,Campbell Fighting Camels,2024-11-24,-38.84428440000001,included_game_day
+2025,2097,Campbell Fighting Camels,2024-11-30,-29.096639600000007,included_game_day
+2025,2097,Campbell Fighting Camels,2024-12-04,-31.228531581000006,included_game_day
+2025,2097,Campbell Fighting Camels,2024-12-12,0.9497425770999968,included_game_day
+2025,2097,Campbell Fighting Camels,2024-12-15,-17.5277355136892,included_game_day
+2025,2097,Campbell Fighting Camels,2024-12-18,-44.155165496006305,included_game_day
+2025,2097,Campbell Fighting Camels,2024-12-29,-45.62983713954387,included_game_day
+2025,2097,Campbell Fighting Camels,2025-01-02,-39.89569913298528,included_game_day
+2025,2097,Campbell Fighting Camels,2025-01-04,-39.47948149818441,included_game_day
+2025,2097,Campbell Fighting Camels,2025-01-09,-23.350307708460264,included_game_day
+2025,2097,Campbell Fighting Camels,2025-01-13,-29.33697366052204,included_game_day
+2025,2097,Campbell Fighting Camels,2025-01-16,-32.91705475799618,included_game_day
+2025,2097,Campbell Fighting Camels,2025-01-18,-12.11484850447042,included_game_day
+2025,2097,Campbell Fighting Camels,2025-01-23,8.640550649608596,included_game_day
+2025,2097,Campbell Fighting Camels,2025-01-25,13.020130565273083,included_game_day
+2025,2097,Campbell Fighting Camels,2025-01-30,49.82531309234423,included_game_day
+2025,2097,Campbell Fighting Camels,2025-02-01,66.21241536563616,included_game_day
+2025,2097,Campbell Fighting Camels,2025-02-06,75.08489340120616,included_game_day
+2025,2097,Campbell Fighting Camels,2025-02-10,59.00966645300043,included_game_day
+2025,2097,Campbell Fighting Camels,2025-02-13,44.28666624072823,included_game_day
+2025,2097,Campbell Fighting Camels,2025-02-15,43.947429790154764,included_game_day
+2025,2097,Campbell Fighting Camels,2025-02-20,31.981257679005136,included_game_day
+2025,2097,Campbell Fighting Camels,2025-02-22,19.40673439274363,included_game_day
+2025,2097,Campbell Fighting Camels,2025-02-27,-1.2550608977787974,included_game_day
+2025,2097,Campbell Fighting Camels,2025-03-01,-20.040661356280005,included_game_day
+2025,2097,Campbell Fighting Camels,2025-03-08,-42.34829764386035,included_game_day
+2026,2097,Campbell Fighting Camels,2025-11-03,-29.0,included_game_day
+2026,2097,Campbell Fighting Camels,2025-11-06,-29.8,included_game_day
+2026,2097,Campbell Fighting Camels,2025-11-09,-20.62,included_game_day
+2026,2097,Campbell Fighting Camels,2025-11-19,-22.79,included_game_day
+2026,2097,Campbell Fighting Camels,2025-11-21,-15.50423,included_game_day
+2026,2097,Campbell Fighting Camels,2025-11-25,-54.92017599,included_game_day
+2026,2097,Campbell Fighting Camels,2025-12-02,-51.35318501969999,included_game_day
+2026,2097,Campbell Fighting Camels,2025-12-14,-50.34362458800799,included_game_day
+2026,2097,Campbell Fighting Camels,2025-12-17,-51.67953061845945,included_game_day
+2026,2097,Campbell Fighting Camels,2025-12-21,-68.10602125040704,included_game_day
+2026,2097,Campbell Fighting Camels,2025-12-23,-44.89963919131581,included_game_day
+2026,2097,Campbell Fighting Camels,2025-12-29,-45.90576083108306,included_game_day
+2026,2097,Campbell Fighting Camels,2025-12-31,-37.4118533298401,included_game_day
+2026,2097,Campbell Fighting Camels,2026-01-03,-21.60371695355314,included_game_day
+2026,2097,Campbell Fighting Camels,2026-01-08,-10.761023879900556,included_game_day
+2026,2097,Campbell Fighting Camels,2026-01-10,-5.447857732841525,included_game_day
+2026,2097,Campbell Fighting Camels,2026-01-17,-0.5146002344410441,included_game_day
+2026,2097,Campbell Fighting Camels,2026-01-22,-1.4599400256866146,included_game_day
+2026,2097,Campbell Fighting Camels,2026-01-24,-20.007254622665798,included_game_day
+2026,2097,Campbell Fighting Camels,2026-01-29,-34.259356974578104,included_game_day
+2026,2097,Campbell Fighting Camels,2026-01-31,-16.89486465596523,included_game_day
+2026,2097,Campbell Fighting Camels,2026-02-05,3.7925070225087154,included_game_day
+2026,2097,Campbell Fighting Camels,2026-02-07,11.062768104200975,included_game_day
+2026,2097,Campbell Fighting Camels,2026-02-15,2.8182854142263505,included_game_day
+2026,2097,Campbell Fighting Camels,2026-02-19,3.4005386919366156,included_game_day
+2026,2097,Campbell Fighting Camels,2026-02-21,0.5217019439450823,included_game_day
+2026,2097,Campbell Fighting Camels,2026-02-26,-2.676916394943777,included_game_day
+2026,2097,Campbell Fighting Camels,2026-02-28,-2.9612365376967906,included_game_day
+2026,2097,Campbell Fighting Camels,2026-03-03,8.817743013757735,included_game_day
+2026,2097,Campbell Fighting Camels,2026-03-07,12.503409879901607,included_game_day
+2026,2097,Campbell Fighting Camels,2026-03-08,33.49528646807483,included_game_day
+2026,2097,Campbell Fighting Camels,2026-03-09,22.708099731609188,included_game_day
+2027,2097,Campbell Fighting Camels,2026-11-02,-16.0,included_game_day
+2027,2097,Campbell Fighting Camels,2026-11-08,-28.3,included_game_day
+2027,2097,Campbell Fighting Camels,2026-11-11,-39.04,included_game_day
+2027,2097,Campbell Fighting Camels,2026-11-14,-25.121,included_game_day
+2027,2097,Campbell Fighting Camels,2026-11-18,-26.0244,included_game_day
+2027,2097,Campbell Fighting Camels,2026-11-20,-5.318552,included_game_day

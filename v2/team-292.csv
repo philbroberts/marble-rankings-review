@@ -1,0 +1,1049 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,292,UTRGV,1987-12-01,7.0,included_game_day
+1988,292,UTRGV,1987-12-05,-1.5999999999999996,included_game_day
+1988,292,UTRGV,1987-12-09,2.5203000000000007,included_game_day
+1988,292,UTRGV,1987-12-11,-7.7764884,included_game_day
+1988,292,UTRGV,1987-12-12,-5.4326751600000005,included_game_day
+1988,292,UTRGV,1987-12-16,-14.629643745000001,included_game_day
+1988,292,UTRGV,1987-12-19,-15.1252651705,included_game_day
+1988,292,UTRGV,1987-12-21,-47.79144625545,included_game_day
+1988,292,UTRGV,1988-01-13,-32.36379224996264,included_game_day
+1988,292,UTRGV,1988-01-16,-14.647775854563832,included_game_day
+1988,292,UTRGV,1988-01-18,-30.64148368790358,included_game_day
+1988,292,UTRGV,1988-01-21,-35.825402044818176,included_game_day
+1988,292,UTRGV,1988-01-23,-33.93695675440905,included_game_day
+1988,292,UTRGV,1988-01-28,-41.13630180327206,included_game_day
+1988,292,UTRGV,1988-01-30,-29.554916099607343,included_game_day
+1988,292,UTRGV,1988-02-01,-34.70722265169179,included_game_day
+1988,292,UTRGV,1988-02-04,-20.03866930966081,included_game_day
+1988,292,UTRGV,1988-02-06,-29.713076852577117,included_game_day
+1988,292,UTRGV,1988-02-11,-25.839268859283134,included_game_day
+1988,292,UTRGV,1988-02-18,-27.667785971410094,included_game_day
+1988,292,UTRGV,1988-02-20,-33.90148132607,included_game_day
+1988,292,UTRGV,1988-02-25,-38.76865842456724,included_game_day
+1988,292,UTRGV,1988-02-27,-27.562180942978316,included_game_day
+1988,292,UTRGV,1988-02-29,-35.155978950324155,included_game_day
+1988,292,UTRGV,1988-03-04,-33.73029921564301,included_game_day
+1989,292,UTRGV,1988-11-25,-10.0,included_game_day
+1989,292,UTRGV,1988-11-26,-28.8,included_game_day
+1989,292,UTRGV,1988-12-03,-20.36,included_game_day
+1989,292,UTRGV,1988-12-05,-15.741,included_game_day
+1989,292,UTRGV,1988-12-10,1.3962269999999997,included_game_day
+1989,292,UTRGV,1988-12-13,1.4966514999999987,included_game_day
+1989,292,UTRGV,1988-12-17,-4.9435506033,included_game_day
+1989,292,UTRGV,1989-01-04,11.520640393015317,included_game_day
+1989,292,UTRGV,1989-01-07,8.911416881558514,included_game_day
+1989,292,UTRGV,1989-01-11,12.519088368564164,included_game_day
+1989,292,UTRGV,1989-01-14,28.64909790622393,included_game_day
+1989,292,UTRGV,1989-01-19,32.171930801076726,included_game_day
+1989,292,UTRGV,1989-01-21,17.38258677203403,included_game_day
+1989,292,UTRGV,1989-01-26,11.111655468589156,included_game_day
+1989,292,UTRGV,1989-01-28,3.6374615107782153,included_game_day
+1989,292,UTRGV,1989-02-02,-14.129611034409688,included_game_day
+1989,292,UTRGV,1989-02-04,-16.983464651073085,included_game_day
+1989,292,UTRGV,1989-02-09,-1.5397163375344771,included_game_day
+1989,292,UTRGV,1989-02-11,-1.3860392150688052,included_game_day
+1989,292,UTRGV,1989-02-16,5.847406703084596,included_game_day
+1989,292,UTRGV,1989-02-18,-0.3675559379835107,included_game_day
+1989,292,UTRGV,1989-02-25,5.409198820188789,included_game_day
+1989,292,UTRGV,1989-02-27,-2.5029107705565927,included_game_day
+1989,292,UTRGV,1989-03-03,-2.8938897290254264,included_game_day
+1990,292,UTRGV,1989-11-25,-21.0,included_game_day
+1990,292,UTRGV,1989-12-01,-1.4009999999999998,included_game_day
+1990,292,UTRGV,1989-12-02,5.4613,included_game_day
+1990,292,UTRGV,1989-12-09,-0.5461300000000016,included_game_day
+1990,292,UTRGV,1989-12-16,4.210251699999999,included_game_day
+1990,292,UTRGV,1989-12-22,-7.414038422000003,included_game_day
+1990,292,UTRGV,1989-12-29,-10.198196921959825,included_game_day
+1990,292,UTRGV,1989-12-30,-7.966548782610843,included_game_day
+1990,292,UTRGV,1990-01-06,-4.625810944834949,included_game_day
+1990,292,UTRGV,1990-01-08,-0.9697051308145266,included_game_day
+1990,292,UTRGV,1990-01-10,-3.5844533891577752,included_game_day
+1990,292,UTRGV,1990-01-13,16.5758993035998,included_game_day
+1990,292,UTRGV,1990-01-18,18.660789417594444,included_game_day
+1990,292,UTRGV,1990-01-20,22.93754550728431,included_game_day
+1990,292,UTRGV,1990-01-25,28.398949311180765,included_game_day
+1990,292,UTRGV,1990-01-27,20.286924464985326,included_game_day
+1990,292,UTRGV,1990-01-29,15.049655375431293,included_game_day
+1990,292,UTRGV,1990-02-03,22.17178231564139,included_game_day
+1990,292,UTRGV,1990-02-05,14.547454664249836,included_game_day
+1990,292,UTRGV,1990-02-08,34.774510643104044,included_game_day
+1990,292,UTRGV,1990-02-10,38.79179589572589,included_game_day
+1990,292,UTRGV,1990-02-15,41.40224172371121,included_game_day
+1990,292,UTRGV,1990-02-17,35.89859488261781,included_game_day
+1990,292,UTRGV,1990-02-22,33.47584853591266,included_game_day
+1990,292,UTRGV,1990-02-24,49.18436138868063,included_game_day
+1990,292,UTRGV,1990-03-02,44.32089857883388,included_game_day
+1990,292,UTRGV,1990-03-03,52.34369694938137,included_game_day
+1990,292,UTRGV,1990-03-04,49.91412947494862,included_game_day
+1991,292,UTRGV,1990-11-24,15.0,included_game_day
+1991,292,UTRGV,1990-11-26,-4.300000000000001,included_game_day
+1991,292,UTRGV,1990-12-01,-4.870000000000001,included_game_day
+1991,292,UTRGV,1990-12-03,-30.918200000000002,included_game_day
+1991,292,UTRGV,1990-12-07,-18.902680000000004,included_game_day
+1991,292,UTRGV,1990-12-08,-56.9403452,included_game_day
+1991,292,UTRGV,1990-12-15,-63.21392598,included_game_day
+1991,292,UTRGV,1990-12-19,-72.38556445038,included_game_day
+1991,292,UTRGV,1990-12-22,-87.31698280534201,included_game_day
+1991,292,UTRGV,1990-12-30,-89.60992866274529,included_game_day
+1991,292,UTRGV,1991-01-05,-94.17349605760691,included_game_day
+1991,292,UTRGV,1991-01-07,-60.79491266701072,included_game_day
+1991,292,UTRGV,1991-01-12,-60.274184530790585,included_game_day
+1991,292,UTRGV,1991-01-17,-35.817329615274005,included_game_day
+1991,292,UTRGV,1991-01-19,-38.35354818865703,included_game_day
+1991,292,UTRGV,1991-01-21,-41.99883974836434,included_game_day
+1991,292,UTRGV,1991-01-24,-34.54469988350922,included_game_day
+1991,292,UTRGV,1991-01-26,-59.34313350169442,included_game_day
+1991,292,UTRGV,1991-01-28,-69.80764989234233,included_game_day
+1991,292,UTRGV,1991-02-02,-61.32090099966193,included_game_day
+1991,292,UTRGV,1991-02-07,-63.55625219187599,included_game_day
+1991,292,UTRGV,1991-02-12,-59.49414706305036,included_game_day
+1991,292,UTRGV,1991-02-16,-42.74913144705628,included_game_day
+1991,292,UTRGV,1991-02-18,-45.43473166373495,included_game_day
+1991,292,UTRGV,1991-02-21,-44.595545006533825,included_game_day
+1991,292,UTRGV,1991-02-23,-59.89702450985027,included_game_day
+1991,292,UTRGV,1991-02-25,-46.20061116256537,included_game_day
+1991,292,UTRGV,1991-03-01,-46.81911587392365,included_game_day
+1992,292,UTRGV,1991-11-22,-13.0,included_game_day
+1992,292,UTRGV,1991-11-23,-36.5,included_game_day
+1992,292,UTRGV,1991-11-30,-42.95,included_game_day
+1992,292,UTRGV,1991-12-02,-68.231,included_game_day
+1992,292,UTRGV,1991-12-04,-66.99589999999999,included_game_day
+1992,292,UTRGV,1991-12-11,-70.52672199999999,included_game_day
+1992,292,UTRGV,1991-12-13,-79.8077158,included_game_day
+1992,292,UTRGV,1991-12-14,-80.48178107,included_game_day
+1992,292,UTRGV,1991-12-19,-81.233890963,included_game_day
+1992,292,UTRGV,1991-12-21,-72.03238250241999,included_game_day
+1992,292,UTRGV,1991-12-28,-67.66404612338799,included_game_day
+1992,292,UTRGV,1992-01-04,-62.670298902347184,included_game_day
+1992,292,UTRGV,1992-01-06,-74.26476914067258,included_game_day
+1992,292,UTRGV,1992-01-11,-84.42080471717964,included_game_day
+1992,292,UTRGV,1992-01-16,-89.68119122383762,included_game_day
+1992,292,UTRGV,1992-01-18,-115.94745788328174,included_game_day
+1992,292,UTRGV,1992-01-23,-131.76798506321222,included_game_day
+1992,292,UTRGV,1992-01-25,-138.97703205041006,included_game_day
+1992,292,UTRGV,1992-01-27,-139.9687482337227,included_game_day
+1992,292,UTRGV,1992-01-30,-149.10472954129017,included_game_day
+1992,292,UTRGV,1992-02-03,-161.90902295065536,included_game_day
+1992,292,UTRGV,1992-02-06,-155.5132500088783,included_game_day
+1992,292,UTRGV,1992-02-08,-166.01655131709143,included_game_day
+1992,292,UTRGV,1992-02-22,-159.09649515834457,included_game_day
+1992,292,UTRGV,1992-02-24,-160.5270152309172,included_game_day
+1992,292,UTRGV,1992-02-26,-148.46467168335124,included_game_day
+1992,292,UTRGV,1992-03-01,-145.5440576158591,included_game_day
+1992,292,UTRGV,1992-03-05,-144.73459530629736,included_game_day
+1993,292,UTRGV,1992-12-04,-50.2,included_game_day
+1993,292,UTRGV,1992-12-05,-52.040000000000006,included_game_day
+1993,292,UTRGV,1992-12-18,-62.196438500000006,included_game_day
+1993,292,UTRGV,1992-12-19,-75.72509565,included_game_day
+1993,292,UTRGV,1993-01-02,-70.176444868,included_game_day
+1993,292,UTRGV,1993-01-04,-92.7140476304347,included_game_day
+1993,292,UTRGV,1993-01-11,-91.73322712224507,included_game_day
+1993,292,UTRGV,1993-01-16,-102.39292968212493,included_game_day
+1993,292,UTRGV,1993-01-21,-104.75147098376414,included_game_day
+1993,292,UTRGV,1993-01-23,-98.1053461554942,included_game_day
+1993,292,UTRGV,1993-01-27,-130.66162009576573,included_game_day
+1993,292,UTRGV,1993-01-30,-152.4860427700018,included_game_day
+1993,292,UTRGV,1993-02-04,-149.78764843280854,included_game_day
+1993,292,UTRGV,1993-02-06,-156.42167606530663,included_game_day
+1993,292,UTRGV,1993-02-08,-147.97719247855395,included_game_day
+1993,292,UTRGV,1993-02-11,-143.4764044825033,included_game_day
+1993,292,UTRGV,1993-02-13,-148.25489646101198,included_game_day
+1993,292,UTRGV,1993-02-15,-140.28338544794738,included_game_day
+1993,292,UTRGV,1993-02-18,-125.73883606529036,included_game_day
+1993,292,UTRGV,1993-02-25,-113.22096148959139,included_game_day
+1993,292,UTRGV,1993-02-27,-112.53130448902301,included_game_day
+1993,292,UTRGV,1993-03-01,-123.20998535125888,included_game_day
+1994,292,UTRGV,1993-12-18,-9.0154768,included_game_day
+1994,292,UTRGV,1993-12-22,-9.280419649999999,included_game_day
+1994,292,UTRGV,1994-01-03,-10.195228372976999,included_game_day
+1994,292,UTRGV,1994-01-08,1.9245130137420308,included_game_day
+1994,292,UTRGV,1994-01-13,-4.315970553580426,included_game_day
+1994,292,UTRGV,1994-01-15,-7.680019926155007,included_game_day
+1994,292,UTRGV,1994-01-17,-4.9083248287022245,included_game_day
+1994,292,UTRGV,1994-01-20,4.92132524811267,included_game_day
+1994,292,UTRGV,1994-01-22,11.663431151950341,included_game_day
+1994,292,UTRGV,1994-01-24,22.702169684861527,included_game_day
+1994,292,UTRGV,1994-01-27,42.89820265926773,included_game_day
+1994,292,UTRGV,1994-01-29,41.898222761132004,included_game_day
+1994,292,UTRGV,1994-01-31,35.59275639056497,included_game_day
+1994,292,UTRGV,1994-02-03,25.584982333954578,included_game_day
+1994,292,UTRGV,1994-02-05,0.38891424441331424,included_game_day
+1994,292,UTRGV,1994-02-10,-7.366521182137364,included_game_day
+1994,292,UTRGV,1994-02-12,-1.139724773727699,included_game_day
+1994,292,UTRGV,1994-02-14,-4.478901366868156,included_game_day
+1994,292,UTRGV,1994-02-17,7.549449573720924,included_game_day
+1994,292,UTRGV,1994-02-19,6.164720289923597,included_game_day
+1994,292,UTRGV,1994-02-21,4.672627773276151,included_game_day
+1994,292,UTRGV,1994-02-23,8.146923968261698,included_game_day
+1994,292,UTRGV,1994-02-26,-2.539932052860399,included_game_day
+1994,292,UTRGV,1994-03-01,-1.661082310517287,included_game_day
+1994,292,UTRGV,1994-03-04,-13.035632366597678,included_game_day
+1994,292,UTRGV,1994-03-05,-26.632143078766482,included_game_day
+1995,292,UTRGV,1994-12-05,1.79,included_game_day
+1995,292,UTRGV,1994-12-10,-0.9368720000000001,included_game_day
+1995,292,UTRGV,1994-12-17,-1.9284612,included_game_day
+1995,292,UTRGV,1994-12-19,-6.0107998799999995,included_game_day
+1995,292,UTRGV,1994-12-27,-11.929130436999998,included_game_day
+1995,292,UTRGV,1994-12-28,-25.838864381929998,included_game_day
+1995,292,UTRGV,1994-12-30,-11.609056725368799,included_game_day
+1995,292,UTRGV,1995-01-05,-10.233104483826114,included_game_day
+1995,292,UTRGV,1995-01-07,-26.48983623179083,included_game_day
+1995,292,UTRGV,1995-01-14,-27.517857333527562,included_game_day
+1995,292,UTRGV,1995-01-19,-23.472435217142287,included_game_day
+1995,292,UTRGV,1995-01-21,-18.833448594594003,included_game_day
+1995,292,UTRGV,1995-01-26,-28.69098703762746,included_game_day
+1995,292,UTRGV,1995-01-28,-24.79476745339116,included_game_day
+1995,292,UTRGV,1995-01-30,-8.519443880436238,included_game_day
+1995,292,UTRGV,1995-02-02,-18.123589341014437,included_game_day
+1995,292,UTRGV,1995-02-04,-32.56262519643461,included_game_day
+1995,292,UTRGV,1995-02-09,-33.61194965312627,included_game_day
+1995,292,UTRGV,1995-02-11,-43.03459087008969,included_game_day
+1995,292,UTRGV,1995-02-15,-30.306179948508962,included_game_day
+1995,292,UTRGV,1995-02-18,-7.905623229835957,included_game_day
+1995,292,UTRGV,1995-02-23,-8.983072894547291,included_game_day
+1995,292,UTRGV,1995-02-25,8.561801022455242,included_game_day
+1995,292,UTRGV,1995-02-27,6.579608051961198,included_game_day
+1995,292,UTRGV,1995-03-03,5.813726482612629,included_game_day
+1995,292,UTRGV,1995-03-04,11.669780958969167,included_game_day
+1996,292,UTRGV,1995-11-25,-9.0,included_game_day
+1996,292,UTRGV,1995-11-29,-24.33,included_game_day
+1996,292,UTRGV,1995-12-01,-24.1341,included_game_day
+1996,292,UTRGV,1995-12-02,-29.82149,included_game_day
+1996,292,UTRGV,1995-12-09,-37.063651,included_game_day
+1996,292,UTRGV,1995-12-20,-52.35768626151,included_game_day
+1996,292,UTRGV,1995-12-22,-41.762541284358996,included_game_day
+1996,292,UTRGV,1995-12-30,-44.830478299333095,included_game_day
+1996,292,UTRGV,1996-01-04,-62.66367840414004,included_game_day
+1996,292,UTRGV,1996-01-06,-76.62695311977797,included_game_day
+1996,292,UTRGV,1996-01-11,-69.75904864671482,included_game_day
+1996,292,UTRGV,1996-01-13,-74.08474943244546,included_game_day
+1996,292,UTRGV,1996-01-18,-87.02797454562179,included_game_day
+1996,292,UTRGV,1996-01-20,-71.89601446416408,included_game_day
+1996,292,UTRGV,1996-01-25,-47.65233285644024,included_game_day
+1996,292,UTRGV,1996-01-27,-39.50394584446143,included_game_day
+1996,292,UTRGV,1996-02-01,-22.209752873645115,included_game_day
+1996,292,UTRGV,1996-02-03,-4.184640842981068,included_game_day
+1996,292,UTRGV,1996-02-08,-13.678607115467381,included_game_day
+1996,292,UTRGV,1996-02-10,-5.4270873644529285,included_game_day
+1996,292,UTRGV,1996-02-15,-10.124663061033761,included_game_day
+1996,292,UTRGV,1996-02-17,-8.41441007526923,included_game_day
+1996,292,UTRGV,1996-02-19,-13.603914679127586,included_game_day
+1996,292,UTRGV,1996-02-22,-4.743130279248264,included_game_day
+1996,292,UTRGV,1996-02-24,-7.59754101205567,included_game_day
+1996,292,UTRGV,1996-03-01,3.246016644068243,included_game_day
+1996,292,UTRGV,1996-03-02,-2.6121024559735737,included_game_day
+1997,292,UTRGV,1996-11-26,-25.0,included_game_day
+1997,292,UTRGV,1996-11-30,-24.389,included_game_day
+1997,292,UTRGV,1996-12-14,-46.9739038,included_game_day
+1997,292,UTRGV,1996-12-19,-60.14247282,included_game_day
+1997,292,UTRGV,1996-12-21,-56.3367303197,included_game_day
+1997,292,UTRGV,1996-12-23,-71.78873722848701,included_game_day
+1997,292,UTRGV,1996-12-30,-77.6376195402113,included_game_day
+1997,292,UTRGV,1997-01-02,-74.74614382048597,included_game_day
+1997,292,UTRGV,1997-01-07,-110.69805618723473,included_game_day
+1997,292,UTRGV,1997-01-09,-108.40533451190244,included_game_day
+1997,292,UTRGV,1997-01-11,-131.63134756898532,included_game_day
+1997,292,UTRGV,1997-01-16,-134.59172385213307,included_game_day
+1997,292,UTRGV,1997-01-18,-129.09271156786167,included_game_day
+1997,292,UTRGV,1997-01-20,-131.89766198073707,included_game_day
+1997,292,UTRGV,1997-01-23,-121.25125839675754,included_game_day
+1997,292,UTRGV,1997-01-25,-126.75249082186676,included_game_day
+1997,292,UTRGV,1997-01-27,-117.66112385334273,included_game_day
+1997,292,UTRGV,1997-01-30,-124.35545818867305,included_game_day
+1997,292,UTRGV,1997-02-01,-121.79149287684803,included_game_day
+1997,292,UTRGV,1997-02-03,-116.25033737012053,included_game_day
+1997,292,UTRGV,1997-02-06,-114.48178489484297,included_game_day
+1997,292,UTRGV,1997-02-08,-114.68474176232577,included_game_day
+1997,292,UTRGV,1997-02-15,-110.88955433924696,included_game_day
+1997,292,UTRGV,1997-02-20,-118.3473827028566,included_game_day
+1997,292,UTRGV,1997-02-22,-137.05399885607443,included_game_day
+1997,292,UTRGV,1997-02-28,-128.2694962480055,included_game_day
+1998,292,UTRGV,1997-11-15,-29.0,included_game_day
+1998,292,UTRGV,1997-11-18,-51.0,included_game_day
+1998,292,UTRGV,1997-11-22,-53.67,included_game_day
+1998,292,UTRGV,1997-11-29,-106.854,included_game_day
+1998,292,UTRGV,1997-12-02,-119.04613018,included_game_day
+1998,292,UTRGV,1997-12-06,-153.711715582,included_game_day
+1998,292,UTRGV,1997-12-09,-160.04598289380002,included_game_day
+1998,292,UTRGV,1997-12-18,-176.71496532935802,included_game_day
+1998,292,UTRGV,1997-12-27,-179.1738771617538,included_game_day
+1998,292,UTRGV,1997-12-29,-172.01766081961475,included_game_day
+1998,292,UTRGV,1998-01-03,-165.68644712507418,included_game_day
+1998,292,UTRGV,1998-01-05,-164.59459542081697,included_game_day
+1998,292,UTRGV,1998-01-08,-131.5385372124737,included_game_day
+1998,292,UTRGV,1998-01-10,-117.81555426791239,included_game_day
+1998,292,UTRGV,1998-01-15,-106.82456490201712,included_game_day
+1998,292,UTRGV,1998-01-17,-143.67507014619292,included_game_day
+1998,292,UTRGV,1998-01-24,-146.1265657823821,included_game_day
+1998,292,UTRGV,1998-01-29,-139.63552477118375,included_game_day
+1998,292,UTRGV,1998-01-31,-150.7732693519576,included_game_day
+1998,292,UTRGV,1998-02-05,-140.40198690064935,included_game_day
+1998,292,UTRGV,1998-02-07,-150.7619167761194,included_game_day
+1998,292,UTRGV,1998-02-12,-143.75471290993625,included_game_day
+1998,292,UTRGV,1998-02-15,-134.0086913699103,included_game_day
+1998,292,UTRGV,1998-02-19,-149.96322877647725,included_game_day
+1998,292,UTRGV,1998-02-21,-146.33002055437254,included_game_day
+1998,292,UTRGV,1998-02-23,-158.70618754479173,included_game_day
+1998,292,UTRGV,1998-02-27,-161.19572478786114,included_game_day
+1999,292,UTRGV,1998-11-13,-37.0,included_game_day
+1999,292,UTRGV,1998-11-16,-49.3,included_game_day
+1999,292,UTRGV,1998-11-21,-50.339999999999996,included_game_day
+1999,292,UTRGV,1998-11-24,-45.013,included_game_day
+1999,292,UTRGV,1998-11-25,-53.661699999999996,included_game_day
+1999,292,UTRGV,1998-11-28,-62.949189999999994,included_game_day
+1999,292,UTRGV,1998-12-04,-55.326638599999995,included_game_day
+1999,292,UTRGV,1998-12-05,-44.235811739999995,included_game_day
+1999,292,UTRGV,1998-12-08,-39.297483566,included_game_day
+1999,292,UTRGV,1998-12-12,-38.5104668877,included_game_day
+1999,292,UTRGV,1998-12-17,-41.657534464470004,included_game_day
+1999,292,UTRGV,1998-12-22,-32.2304922979942,included_game_day
+1999,292,UTRGV,1998-12-28,-23.568460339275383,included_game_day
+1999,292,UTRGV,1998-12-30,-36.96681176376708,included_game_day
+1999,292,UTRGV,1999-01-02,-42.7489181549964,included_game_day
+1999,292,UTRGV,1999-01-04,-37.20342505281612,included_game_day
+1999,292,UTRGV,1999-01-14,-50.82015444354843,included_game_day
+1999,292,UTRGV,1999-01-19,-49.231429215302036,included_game_day
+1999,292,UTRGV,1999-01-23,-64.80945034206795,included_game_day
+1999,292,UTRGV,1999-01-25,-86.68910743283,included_game_day
+1999,292,UTRGV,1999-01-30,-69.28129187403172,included_game_day
+1999,292,UTRGV,1999-02-01,-77.3799795598529,included_game_day
+1999,292,UTRGV,1999-02-11,-81.09065990269163,included_game_day
+1999,292,UTRGV,1999-02-16,-81.81285655173738,included_game_day
+1999,292,UTRGV,1999-02-18,-91.30313467748708,included_game_day
+1999,292,UTRGV,1999-02-22,-92.86697398346892,included_game_day
+1999,292,UTRGV,1999-02-27,-76.09905571937323,included_game_day
+2000,292,UTRGV,1999-11-22,-3.18,included_game_day
+2000,292,UTRGV,1999-11-27,-6.662000000000001,included_game_day
+2000,292,UTRGV,1999-12-01,-21.561799999999998,included_game_day
+2000,292,UTRGV,1999-12-06,-56.419874199999995,included_game_day
+2000,292,UTRGV,1999-12-08,-79.92255847,included_game_day
+2000,292,UTRGV,1999-12-15,-78.736790603,included_game_day
+2000,292,UTRGV,1999-12-22,-63.11407965704626,included_game_day
+2000,292,UTRGV,1999-12-29,-53.13417186503163,included_game_day
+2000,292,UTRGV,2000-01-03,-46.30470609861507,included_game_day
+2000,292,UTRGV,2000-01-06,-50.587075368928296,included_game_day
+2000,292,UTRGV,2000-01-08,-75.01998427703873,included_game_day
+2000,292,UTRGV,2000-01-10,-84.61317778346876,included_game_day
+2000,292,UTRGV,2000-01-15,-57.35833725446386,included_game_day
+2000,292,UTRGV,2000-01-17,-60.35655706484518,included_game_day
+2000,292,UTRGV,2000-01-22,-58.42284733705425,included_game_day
+2000,292,UTRGV,2000-01-24,-79.03747430133203,included_game_day
+2000,292,UTRGV,2000-01-29,-68.79284359842593,included_game_day
+2000,292,UTRGV,2000-02-07,-75.28100394921772,included_game_day
+2000,292,UTRGV,2000-02-12,-72.13431269716213,included_game_day
+2000,292,UTRGV,2000-02-15,-72.32033297475809,included_game_day
+2000,292,UTRGV,2000-02-26,-67.64294001385757,included_game_day
+2000,292,UTRGV,2000-02-28,-66.2549123870048,included_game_day
+2000,292,UTRGV,2000-03-04,-67.16911800796126,included_game_day
+2001,292,UTRGV,2000-11-24,3.0,included_game_day
+2001,292,UTRGV,2000-11-30,0.35799999999999965,included_game_day
+2001,292,UTRGV,2000-12-02,-17.158792,included_game_day
+2001,292,UTRGV,2000-12-04,-35.7411125,included_game_day
+2001,292,UTRGV,2000-12-13,-48.07151911011,included_game_day
+2001,292,UTRGV,2000-12-16,-56.512543599099004,included_game_day
+2001,292,UTRGV,2000-12-23,-59.7480389024496,included_game_day
+2001,292,UTRGV,2000-12-29,-76.38605162149987,included_game_day
+2001,292,UTRGV,2000-12-30,-55.23545449711846,included_game_day
+2001,292,UTRGV,2001-01-02,-48.64440256721585,included_game_day
+2001,292,UTRGV,2001-01-04,-47.63845058859283,included_game_day
+2001,292,UTRGV,2001-01-10,-40.964696788045664,included_game_day
+2001,292,UTRGV,2001-01-13,-35.322797197597545,included_game_day
+2001,292,UTRGV,2001-01-15,-31.064171807439763,included_game_day
+2001,292,UTRGV,2001-01-24,-21.50051359589898,included_game_day
+2001,292,UTRGV,2001-01-29,-24.97976537914645,included_game_day
+2001,292,UTRGV,2001-01-31,-23.409315721394258,included_game_day
+2001,292,UTRGV,2001-02-10,-13.545388612474955,included_game_day
+2001,292,UTRGV,2001-02-12,-40.712098735642456,included_game_day
+2001,292,UTRGV,2001-02-14,-38.90050337847701,included_game_day
+2001,292,UTRGV,2001-02-17,-38.9515334950788,included_game_day
+2001,292,UTRGV,2001-02-19,-52.20008231570305,included_game_day
+2001,292,UTRGV,2001-02-24,-39.14679045895596,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2001-11-19,3.0,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2001-11-24,28.22,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2001-11-29,22.8449,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2001-12-01,10.483742999999999,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2001-12-05,12.536442699999998,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2001-12-07,15.493554529999997,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2001-12-13,21.388799076999998,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2001-12-15,18.6824915329,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2001-12-20,16.897491014659998,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2001-12-21,30.881694742830998,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2001-12-27,48.4668048918039,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2002-01-02,40.31732179175028,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2002-01-08,38.1807411385504,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2002-01-10,33.22373588380219,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2002-01-17,39.78094513948236,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2002-01-19,42.21083332187083,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2002-01-23,27.181910231163236,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2002-01-26,9.41582078044896,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2002-02-02,6.352991986524861,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2002-02-04,-9.995969618475025,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2002-02-09,-6.521144444943851,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2002-02-11,8.194249262258971,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2002-02-14,16.363255559067188,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2002-02-16,9.101080975949047,included_game_day
+2002,292,UT Rio Grande Valley Vaqueros,2002-02-25,-16.43095426506754,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2002-11-22,0.0,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2002-11-24,-31.7,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2002-11-28,-26.464,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2002-11-30,-38.4176,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2002-12-01,-49.357839999999996,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2002-12-05,-61.92790599999999,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2002-12-07,-70.98083539999999,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2002-12-11,-93.72993336799999,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2002-12-19,-78.9693358312,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2002-12-21,-74.941962460192,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2002-12-28,-80.7517154107888,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2002-12-29,-78.90124738110717,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2002-12-30,-94.41771755887513,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2003-01-04,-106.29336278808331,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2003-01-08,-100.79528519982665,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2003-01-11,-104.02886857318111,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2003-01-13,-95.89707632434468,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2003-01-18,-90.38990348021828,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2003-01-22,-84.42768810886406,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2003-01-25,-97.71025262731101,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2003-02-01,-93.92802706867053,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2003-02-10,-90.93294409279277,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2003-02-15,-95.05270727178957,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2003-02-19,-94.51760834484,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2003-02-24,-95.96793064000089,included_game_day
+2003,292,UT Rio Grande Valley Vaqueros,2003-03-01,-102.41979667142232,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2003-11-22,-13.0,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2003-11-29,-23.740000000000002,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2003-12-04,-42.672200000000004,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2003-12-06,-36.1675398,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2003-12-12,-46.78760237,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2003-12-14,-70.64309313300001,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2003-12-17,-74.8850575573,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2003-12-20,-70.50560911257,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2003-12-22,-87.688195286823,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2003-12-29,-81.3646042697098,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2004-01-06,-72.98934118421056,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2004-01-08,-87.8534848346904,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2004-01-14,-99.5728325224461,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2004-01-19,-97.76540334473023,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2004-01-21,-107.68084338002359,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2004-01-28,-86.55251668977812,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2004-02-02,-70.69429534599175,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2004-02-04,-61.86537501358028,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2004-02-07,-61.150567970714164,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2004-02-11,-55.47290352737048,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2004-02-14,-35.46321354309253,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2004-02-16,-22.126312638856415,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2004-02-28,-14.575872399821552,included_game_day
+2004,292,UT Rio Grande Valley Vaqueros,2004-03-01,-23.54637607220802,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2004-11-27,-22.259999999999998,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2004-12-04,-14.322438999999997,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2004-12-07,-18.837460309999997,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2004-12-11,-29.933811964769998,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2004-12-20,-16.692335568292997,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2004-12-22,0.3153744484250325,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2004-12-23,-1.10514984341747,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2004-12-29,-14.646112511795856,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2004-12-31,-18.654445174578793,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2005-01-02,-41.9192169047058,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2005-01-05,-62.42403954092355,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2005-01-08,-77.51060930222357,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2005-01-11,-93.26088098255417,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2005-01-17,-75.11909324763948,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2005-01-20,-67.1122242709859,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2005-01-26,-67.83512348176237,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2005-01-29,-67.71985477355324,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2005-01-31,-65.55228187019914,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2005-02-05,-57.30481921473055,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2005-02-07,-77.16585950585669,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2005-02-17,-80.35327467441866,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2005-02-21,-84.1061868368125,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2005-02-27,-98.88256882685485,included_game_day
+2005,292,UT Rio Grande Valley Vaqueros,2005-03-01,-115.01728591239865,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2005-11-20,-6.891,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2005-11-22,-31.301899999999996,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2005-11-25,-33.6019,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2005-11-26,-44.9654,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2005-11-29,-56.32441,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2005-12-03,-63.081529,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2005-12-06,-79.0160054,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2005-12-10,-120.6857159086,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2005-12-15,-118.02579609174,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2005-12-20,-118.663152386706,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2005-12-22,-117.1225680027678,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2005-12-28,-127.08980965826701,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2005-12-30,-131.66625432324201,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2006-01-07,-128.56516330058412,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2006-01-14,-118.56569964133307,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2006-01-16,-97.50604578456156,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2006-01-21,-101.75965815055,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2006-01-24,-123.16553621538232,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2006-01-28,-122.49419706994361,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2006-01-30,-156.7555356996932,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2006-02-09,-150.46147219262775,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2006-02-11,-161.56776528941725,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2006-02-15,-187.4856253786152,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2006-02-20,-185.77575470494764,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2006-02-25,-185.30784267623045,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2006-02-27,-182.98673734016813,included_game_day
+2006,292,UT Rio Grande Valley Vaqueros,2006-03-01,-167.89894293410467,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2006-11-12,13.0,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2006-11-18,21.37,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2006-11-21,15.437700000000001,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2006-11-27,12.691860000000002,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2006-12-01,-2.7212622149999994,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2006-12-02,0.0060172865000005515,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2006-12-06,3.247375626850001,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2006-12-09,-9.340754749835,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2006-12-18,-8.5955232732495,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2006-12-20,-12.06953649572455,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2006-12-29,-3.254635690826346,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2006-12-30,-22.083496708108335,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2007-01-04,-27.784265086665677,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2007-01-06,-25.1715505607144,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2007-01-25,-48.374364725451436,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2007-01-27,-66.03032070773673,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2007-02-01,-53.51311306925166,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2007-02-03,-52.14005434832243,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2007-02-10,-48.486143313820676,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2007-02-15,-44.78158978709218,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2007-02-17,-49.59480702718417,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2007-02-21,-52.44836650755752,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2007-02-24,-69.06789170876161,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2007-02-26,-61.53449324525065,included_game_day
+2007,292,UT Rio Grande Valley Vaqueros,2007-03-03,-53.68496960199413,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2007-11-16,-15.8,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2007-11-21,-44.427,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2007-11-28,-26.965040000000002,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2007-11-30,-27.872674760000002,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2007-12-01,-22.246682284000002,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2007-12-03,-30.7134274556,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2007-12-07,-33.867652978340004,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2007-12-08,-49.413379700378,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2007-12-15,-71.0094495420102,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2007-12-17,-73.33604107408118,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2007-12-19,-72.68179344792459,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2007-12-22,-76.14663740675681,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2007-12-23,-61.18542964855487,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2007-12-30,-66.4325692084218,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2007-12-31,-62.943449427464785,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2008-01-05,-52.48588151853226,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2008-01-08,-46.74140277897248,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2008-01-26,-47.54379546986745,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2008-01-28,-38.41147121156364,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2008-01-30,-44.72348730238669,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2008-02-02,-60.78642628666134,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2008-02-05,-56.325028299148634,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2008-02-09,-48.31068486621636,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2008-02-12,-37.257938481779384,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2008-02-22,-33.83741096760718,included_game_day
+2008,292,UT Rio Grande Valley Vaqueros,2008-02-28,-27.02417691569267,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2008-11-18,-21.8,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2008-11-20,-41.620999999999995,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2008-11-22,-47.0515,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2008-11-28,-54.03716,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2008-11-29,-56.155434,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2008-12-05,-49.22194536,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2008-12-07,-54.0727802861,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2008-12-13,-65.83376699499,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2008-12-18,-61.900090095491,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2008-12-22,-61.08282340825967,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2009-01-02,-66.49760050748336,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2009-01-07,-85.67480968195211,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2009-01-14,-99.27847189652827,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2009-01-21,-96.6079464054912,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2009-01-27,-77.18788075689228,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2009-02-02,-88.12174832876289,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2009-02-07,-90.09139189121821,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2009-02-11,-100.73230899794135,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2009-02-14,-95.24504268331987,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2009-02-21,-110.48593930311074,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2009-02-23,-116.44995428842174,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2009-02-28,-120.55256180360425,included_game_day
+2009,292,UT Rio Grande Valley Vaqueros,2009-03-03,-114.80488296323078,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2009-11-14,-21.0,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2009-11-16,-20.9,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2009-11-19,-36.7,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2009-11-22,-85.08000000000001,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2009-11-24,-97.96600000000001,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2009-11-27,-81.79786000000001,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2009-11-28,-81.85430500000001,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2009-12-02,-94.23588349,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2009-12-05,-96.29977514100001,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2009-12-07,-105.43085804790002,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2009-12-15,-139.022369094861,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2009-12-18,-146.9680843156849,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2009-12-22,-144.1493358777825,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2009-12-28,-141.49609258575921,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-01-02,-130.02333019403432,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-01-05,-125.57040288819978,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-01-07,-112.67877619710238,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-01-14,-106.36391931277322,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-01-16,-89.17668199165787,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-01-20,-90.13658463245459,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-01-25,-97.41056579818382,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-01-28,-109.03447719942476,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-01-30,-104.80855747564004,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-02-04,-115.54434719128417,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-02-06,-123.97952928331503,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-02-10,-129.19770905041167,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-02-13,-115.47356754854583,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-02-20,-120.79039543224263,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-02-27,-131.83994898265948,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-03-04,-125.39250077650493,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-03-06,-122.34765240909026,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-03-10,-116.39128018795161,included_game_day
+2010,292,UT Rio Grande Valley Vaqueros,2010-03-12,-111.51346747838134,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2010-11-12,-23.0,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2010-11-13,-8.0,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2010-11-14,-23.9,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2010-11-17,-28.31,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2010-11-20,-43.979,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2010-11-23,-48.3285,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2010-11-30,-58.069663399999996,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2010-12-08,-58.556771100999995,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2010-12-10,-61.67400474991,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2010-12-12,-74.70994961205899,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2010-12-19,-88.28358060777263,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2010-12-22,-87.49857703138107,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2010-12-29,-90.44208171908755,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2011-01-02,-98.62169892742415,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2011-01-04,-103.93298913374697,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2011-01-12,-119.02881798499726,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2011-01-15,-132.4903453248707,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2011-01-22,-140.78124174068543,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2011-01-27,-140.0122511922433,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2011-01-29,-130.68934056903626,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2011-02-03,-127.29932795797069,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2011-02-05,-142.895728998876,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2011-02-09,-130.26066796377313,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2011-02-12,-140.37857328666203,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2011-02-19,-138.63650190335605,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2011-03-03,-131.89397987801516,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2011-03-05,-140.4230301323757,included_game_day
+2011,292,UT Rio Grande Valley Vaqueros,2011-03-10,-134.2462703358641,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2011-11-11,-16.0,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2011-11-13,-35.4,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2011-11-18,-40.56,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2011-11-19,-37.204,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2011-11-20,-46.372,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2011-11-25,-54.3744,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2011-11-28,-76.134108,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2011-12-03,-80.56514044,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2011-12-05,-76.65006742019999,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2011-12-18,-70.36101770129179,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2011-12-21,-66.32189696672617,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2011-12-29,-87.63802408867396,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2011-12-31,-86.19320511052912,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2012-01-07,-93.66549895501853,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2012-01-09,-98.71266254829605,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2012-01-11,-117.93301257698184,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2012-01-19,-110.94296610564483,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2012-01-21,-103.43964912600633,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2012-01-28,-98.41724814869362,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2012-02-02,-101.05124441658177,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2012-02-04,-87.10033257237626,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2012-02-08,-81.22819468170879,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2012-02-16,-75.55999916077356,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2012-02-18,-79.00108324638056,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2012-02-25,-79.78412470254479,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2012-02-27,-102.28426318869685,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2012-03-03,-107.83126277317324,included_game_day
+2012,292,UT Rio Grande Valley Vaqueros,2012-03-09,-106.1143044563867,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2012-11-09,-28.0,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2012-11-12,-37.2,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2012-11-16,-37.28,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2012-11-17,-49.945,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2012-11-18,-51.189,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2012-11-24,-39.8501,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2012-12-03,-46.876085159999995,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2012-12-08,-56.6695401076,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2012-12-15,-60.3424606411823,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2012-12-19,-75.42773039364107,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2012-12-20,-72.36474418460462,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2012-12-22,-73.95935787307675,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2012-12-29,-61.54069188715507,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2012-12-31,-74.19118206285384,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2013-01-03,-86.07044976981759,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2013-01-08,-73.06082600986119,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2013-01-19,-71.26567497788021,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2013-01-26,-79.26428369604093,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2013-02-02,-76.73222118128916,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2013-02-06,-82.70896307631968,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2013-02-09,-94.92948371440207,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2013-02-14,-87.19665753569389,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2013-02-16,-95.88723378224273,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2013-02-20,-96.43072736521691,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2013-02-23,-86.39922978941229,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2013-03-03,-83.24126109614623,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2013-03-09,-62.83250190122445,included_game_day
+2013,292,UT Rio Grande Valley Vaqueros,2013-03-15,-68.51862705595768,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2013-11-08,-7.0,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2013-11-11,-21.0,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2013-11-15,-16.32,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2013-11-16,-20.552,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2013-11-17,-29.224,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2013-11-21,-10.8916,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2013-11-27,-8.324217500000001,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2013-11-30,-23.528667750000004,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2013-12-02,-29.891139575000004,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2013-12-07,-43.038289363500006,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2013-12-15,-45.30697170785,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2013-12-18,-56.012099860015,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2013-12-29,-72.70831129035238,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-01-02,-73.55936913183727,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-01-04,-78.76330868482336,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-01-09,-79.88037872170406,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-01-11,-94.69132021997846,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-01-16,-74.74497307626677,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-01-18,-47.633312372282916,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-01-25,-46.76750606645712,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-01-30,-59.01458561915752,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-02-01,-67.10096240531425,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-02-06,-80.71403571899154,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-02-08,-81.63099984788519,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-02-13,-80.08251756183793,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-02-15,-75.04333164560973,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-02-20,-80.04869738274348,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-02-27,-68.82633041420401,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-03-01,-64.09865776267924,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-03-08,-65.97070090734611,included_game_day
+2014,292,UT Rio Grande Valley Vaqueros,2014-03-13,-81.5135992126075,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2014-11-17,4.0,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2014-11-26,-24.896,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2014-11-28,-36.5285,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2014-11-29,-17.5253,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2014-12-04,-27.12793,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2014-12-06,-39.080444799999995,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2014-12-13,-38.71008783999999,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2014-12-17,-41.87597050123999,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2014-12-19,-46.28068555522599,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2014-12-21,-44.394718142014476,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2014-12-30,-45.84562403667442,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-01-02,-56.657526521023144,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-01-10,-60.244162410950096,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-01-12,-84.92332711132475,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-01-15,-101.8512804368334,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-01-17,-106.54527812682873,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-01-22,-125.52456773486138,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-01-24,-119.97317901059307,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-01-31,-104.9918168147251,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-02-05,-122.29356606940729,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-02-07,-123.24263366348814,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-02-12,-129.87376150533362,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-02-14,-114.4673397096195,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-02-19,-107.13304493940247,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-02-21,-127.11210007459239,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-03-04,-131.38373411916487,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-03-07,-123.503549736323,included_game_day
+2015,292,UT Rio Grande Valley Vaqueros,2015-03-12,-125.19940223004949,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2015-11-13,-24.0,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2015-11-16,-39.4,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2015-11-22,-57.16,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2015-11-24,-50.251999999999995,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2015-11-30,-47.770399999999995,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2015-12-02,-64.09543439,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2015-12-11,-74.273362919,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2015-12-13,-72.6215207551,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2015-12-21,-89.31200511184,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2015-12-22,-98.31189846176082,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2015-12-23,-106.35386712324961,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2015-12-29,-115.00546576510956,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2016-01-07,-115.08647097235018,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2016-01-09,-139.41655191640234,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2016-01-14,-129.54636164707384,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2016-01-16,-117.62413685194613,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2016-01-21,-116.57574236797012,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2016-01-23,-120.79869407260011,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2016-01-30,-126.04459532507258,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2016-02-04,-131.6018830531014,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2016-02-06,-124.70360006754488,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2016-02-13,-131.98975225705698,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2016-02-18,-116.85494825177094,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2016-02-20,-116.44179879013997,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2016-02-28,-104.16994887705663,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2016-03-05,-131.42184190368533,included_game_day
+2016,292,UT Rio Grande Valley Vaqueros,2016-03-10,-148.3259123447266,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2016-11-13,-5.0,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2016-11-14,-20.5,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2016-11-16,-43.45,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2016-11-20,-61.428000000000004,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2016-11-22,-64.72720000000001,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2016-11-25,-56.72026000000001,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2016-11-26,-46.369045000000014,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2016-11-29,-51.672640500000014,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2016-12-03,-58.56832445000001,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2016-12-05,-50.60428708020001,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2016-12-07,-36.858777072180004,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2016-12-12,-28.808330315902005,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2016-12-16,-18.472747264971805,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2016-12-17,-30.106543282036625,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2017-01-05,-14.50575307110956,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2017-01-07,-23.193375649869193,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2017-01-12,-29.160261152561155,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2017-01-14,-43.81040789474022,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2017-01-21,-44.78474825519419,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2017-01-26,-51.90203237976865,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2017-01-28,-62.190673997239706,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2017-02-04,-79.043205004762,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2017-02-09,-88.9166603169204,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2017-02-11,-93.94314550190236,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2017-02-18,-89.63001011201474,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2017-02-23,-97.33585256550882,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2017-02-25,-111.5297072245069,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2017-03-04,-119.56930057497883,included_game_day
+2017,292,UT Rio Grande Valley Vaqueros,2017-03-09,-114.03285299476129,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2017-11-10,-8.0,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2017-11-13,7.800000000000001,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2017-11-15,15.3,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2017-11-18,-1.0799999999999983,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2017-11-20,13.339000000000002,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2017-11-22,4.487000000000002,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2017-11-25,-10.096649999999999,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2017-11-28,-30.1357293,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2017-11-30,-33.127874860000006,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2017-12-02,-29.652666474000007,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2017-12-06,-29.091057731600007,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2017-12-09,-18.361951635830007,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2017-12-16,-37.163120619338,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2017-12-22,-42.38117235760171,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2017-12-30,-33.78120131664666,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2018-01-06,-22.168263692225253,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2018-01-11,-10.522191627145546,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2018-01-13,-12.662288726879506,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2018-01-18,-16.595936546529934,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2018-01-20,-23.636537619903372,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2018-01-27,-31.4941025486044,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2018-02-03,-37.147642870040386,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2018-02-08,-27.61507022443128,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2018-02-10,-30.563597695608383,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2018-02-15,-45.345715094316915,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2018-02-17,-44.227880547113216,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2018-02-22,-75.59855485352114,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2018-02-24,-81.76102642993648,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2018-03-03,-84.11271654559665,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2018-03-08,-95.64098832201311,included_game_day
+2018,292,UT Rio Grande Valley Vaqueros,2018-03-14,-91.43779330956109,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2018-11-09,-18.0,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2018-11-12,-6.199999999999999,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2018-11-14,5.589,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2018-11-19,2.2989000000000006,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2018-11-21,-20.00779,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2018-11-23,-20.031801,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2018-11-26,-13.106620900000001,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2018-11-28,-6.02787281,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2018-12-01,6.0712170709999995,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2018-12-05,10.749765396899999,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2018-12-15,2.936930339769999,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2018-12-18,-13.304721953139003,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2018-12-22,-17.771410911162466,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2018-12-28,-23.79766262781018,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-01-03,-26.836462726899562,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-01-05,-12.408347505089134,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-01-10,-18.752888152473638,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-01-12,-19.623040366213875,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-01-17,-31.660382628704497,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-01-19,-19.74330141124932,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-01-26,-12.476960391844193,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-01-31,-0.8617952270372502,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-02-02,5.070122940545897,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-02-07,19.480404977616296,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-02-09,26.004516224427277,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-02-14,33.450928965770515,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-02-16,20.256782579325705,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-02-23,21.561075860874045,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-02-28,4.906232607957854,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-03-02,9.473531822518789,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-03-07,1.9970795145522562,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-03-14,14.167705974627866,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-03-15,17.035279068441604,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-03-20,7.977485884163695,included_game_day
+2019,292,UT Rio Grande Valley Vaqueros,2019-03-25,-6.9651730911823755,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2019-11-05,-10.0,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2019-11-15,-15.61,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2019-11-16,-26.207,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2019-11-17,-33.639,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2019-11-30,-40.5846,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2019-12-03,-35.254466300000004,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2019-12-13,-55.958580260581606,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2019-12-15,-61.460328539725346,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2019-12-21,-55.058466993121236,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2019-12-30,-61.4886762632225,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2020-01-02,-57.83256378081299,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2020-01-09,-45.803638311278995,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2020-01-11,-43.12074127833654,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2020-01-16,-52.39315110679124,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2020-01-18,-53.33249223252419,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2020-01-25,-50.307785514107564,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2020-01-30,-59.80538091700404,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2020-02-01,-48.610780753966324,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2020-02-06,-30.527239337471926,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2020-02-08,-36.41617978507846,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2020-02-13,-33.158480208838,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2020-02-15,-25.934561509937566,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2020-02-22,-32.43564163807412,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2020-02-27,-53.39263907281263,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2020-02-29,-41.254730499288385,included_game_day
+2020,292,UT Rio Grande Valley Vaqueros,2020-03-07,-38.25358678366874,included_game_day
+2021,292,UT Rio Grande Valley Vaqueros,2020-11-25,-33.0,included_game_day
+2021,292,UT Rio Grande Valley Vaqueros,2020-11-28,-15.7,included_game_day
+2021,292,UT Rio Grande Valley Vaqueros,2020-12-02,-18.61,included_game_day
+2021,292,UT Rio Grande Valley Vaqueros,2020-12-06,-24.207,included_game_day
+2021,292,UT Rio Grande Valley Vaqueros,2020-12-10,-18.9753,included_game_day
+2021,292,UT Rio Grande Valley Vaqueros,2020-12-21,-28.911688212999998,included_game_day
+2021,292,UT Rio Grande Valley Vaqueros,2021-01-15,-1.2781821208759325,included_game_day
+2021,292,UT Rio Grande Valley Vaqueros,2021-01-16,-5.171377247176681,included_game_day
+2021,292,UT Rio Grande Valley Vaqueros,2021-02-06,-6.416174518109029,included_game_day
+2021,292,UT Rio Grande Valley Vaqueros,2021-02-26,-9.509824287256164,included_game_day
+2021,292,UT Rio Grande Valley Vaqueros,2021-02-27,-16.98474410257387,included_game_day
+2021,292,UT Rio Grande Valley Vaqueros,2021-03-02,-32.35560094189661,included_game_day
+2021,292,UT Rio Grande Valley Vaqueros,2021-03-05,-55.27466809080735,included_game_day
+2021,292,UT Rio Grande Valley Vaqueros,2021-03-06,-66.60992180993594,included_game_day
+2021,292,UT Rio Grande Valley Vaqueros,2021-03-11,-72.87894569098586,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2021-11-12,-48.4,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2021-11-20,-48.116,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2021-11-22,-40.8888,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2021-11-23,-30.44628,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2021-11-26,-29.483158000000003,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2021-12-01,-34.5670062,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2021-12-03,-49.691633530000004,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2021-12-08,-46.246249357,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2021-12-14,-56.24320173039,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2021-12-17,-32.872026293881,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-01-03,-37.74773891479746,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-01-06,-46.187533626462795,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-01-08,-54.22447555380346,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-01-11,-56.09669483751541,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-01-13,-42.17601200861915,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-01-20,-40.781908361140204,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-01-22,-49.42072981302737,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-01-26,-49.6390124246136,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-01-29,-65.26481503931164,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-02-02,-57.27035458185827,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-02-05,-67.05970700173063,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-02-10,-61.61754866145834,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-02-12,-61.5261368067786,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-02-16,-94.3421049422943,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-02-19,-90.6340946932213,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-02-24,-94.4831575082093,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-03-02,-91.41402221702694,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-03-05,-109.71351225993622,included_game_day
+2022,292,UT Rio Grande Valley Vaqueros,2022-03-08,-99.81538809516078,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2022-11-07,-31.0,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2022-11-17,-46.64,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2022-11-21,-47.229,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2022-11-22,-36.810649999999995,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2022-11-26,-58.330535,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2022-11-30,-45.419163499999996,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2022-12-03,-60.12457034,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2022-12-10,-47.252519536,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2022-12-18,-42.954878892800004,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2022-12-29,-49.06873517797901,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2022-12-31,-46.43451011572849,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-01-05,-45.9993251201593,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-01-07,-53.1118347551525,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-01-11,-35.33509199763316,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-01-14,-37.07356891020862,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-01-19,-48.6957902689888,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-01-21,-54.235753537470586,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-01-25,-60.51872522763021,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-01-28,-47.37367961677916,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-02-01,-40.29908942098143,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-02-04,-32.400041563456696,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-02-09,-43.15245636423664,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-02-11,-49.10553032029726,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-02-15,-39.1608127894754,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-02-18,-33.68562370844228,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-02-23,-42.86199332672595,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-02-25,-36.61057875622411,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-03-01,-49.05669971446541,included_game_day
+2023,292,UT Rio Grande Valley Vaqueros,2023-03-07,-48.31060604665351,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2023-11-10,-21.0,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2023-11-14,-44.3,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2023-11-17,-52.123,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2023-11-24,-64.47212809999999,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2023-11-25,-77.81953528999999,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2023-11-29,-78.66434176099999,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2023-12-02,-69.08310781489999,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2023-12-06,-61.433394478409994,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2023-12-15,-73.08765192566909,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2023-12-18,-76.74983405242628,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2023-12-30,-73.81051628070854,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-01-04,-74.86745504131545,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-01-06,-68.9654596307083,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-01-11,-59.89122855526236,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-01-13,-51.509060714775956,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-01-18,-63.06284347333522,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-01-20,-65.95943746788747,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-01-25,-70.02172252944389,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-02-01,-85.2111566962586,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-02-03,-95.93743905076812,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-02-08,-90.97805556605593,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-02-15,-100.33692565493311,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-02-17,-110.8826815794401,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-02-22,-106.33495831242207,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-02-24,-116.15768073885297,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-02-29,-124.1856771280994,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-03-02,-148.12332348671612,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-03-07,-147.6247634470839,included_game_day
+2024,292,UT Rio Grande Valley Vaqueros,2024-03-09,-151.7486793410762,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2024-11-04,-17.0,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2024-11-06,-25.3,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2024-11-15,-16.97,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2024-11-16,9.2898,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2024-11-18,14.96772,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2024-11-25,24.31854014,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2024-12-05,20.516834156,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2024-12-07,-19.3647643512,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2024-12-18,-18.53624360080476,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-01-04,-14.000869310794947,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-01-06,-17.373422321472077,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-01-11,-17.142961174720945,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-01-13,-28.79740970246551,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-01-18,-37.07496623144776,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-01-20,-27.083359884493213,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-01-25,-49.298273218573925,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-01-27,-55.66125565098019,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-02-01,-42.18008074743801,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-02-03,-58.45561051979705,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-02-08,-53.70273882263224,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-02-10,-59.93306052828569,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-02-15,-36.80763427435871,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-02-17,-46.7167056604013,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-02-22,-48.1278998704831,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-02-24,-68.31882853659894,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-03-01,-67.83167202339258,included_game_day
+2025,292,UT Rio Grande Valley Vaqueros,2025-03-03,-65.23386640974793,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2025-11-03,-12.0,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2025-11-08,13.8,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2025-11-11,-2.4800000000000004,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2025-11-22,-8.3643,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2025-11-24,-7.5830698000000005,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2025-12-03,-13.61149926,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2025-12-07,-1.091062174000001,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2025-12-11,-12.85858235491,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2025-12-16,-1.2327892603980004,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2025-12-29,-27.54843321493285,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2025-12-31,-32.738595455292725,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-01-03,-39.812398744458484,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-01-05,-24.456692690659985,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-01-10,-37.60987378830518,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-01-12,-38.15316644867853,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-01-17,-26.245484576091037,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-01-19,-28.573358585564904,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-01-24,-12.158773082180637,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-01-26,0.37379709057706734,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-01-31,9.859726884741326,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-02-02,15.965061606907256,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-02-07,34.903491815766316,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-02-09,47.9235740986273,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-02-14,37.260293143447164,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-02-16,33.50231081379294,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-02-21,46.737616157440726,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-02-23,47.43587361377687,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-02-28,38.069698347456125,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-03-02,38.08967974451976,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-03-09,49.11976137168671,included_game_day
+2026,292,UT Rio Grande Valley Vaqueros,2026-03-10,49.16062544770357,included_game_day
+2027,292,UT Rio Grande Valley Vaqueros,2026-11-07,2.0,included_game_day
+2027,292,UT Rio Grande Valley Vaqueros,2026-11-10,-7.300000000000001,included_game_day
+2027,292,UT Rio Grande Valley Vaqueros,2026-11-14,-11.83,included_game_day
+2027,292,UT Rio Grande Valley Vaqueros,2026-11-21,-2.817,included_game_day

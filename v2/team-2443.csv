@@ -1,0 +1,1061 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,2443,New Orleans,1987-11-28,33.0,included_game_day
+1988,2443,New Orleans,1987-12-03,15.7,included_game_day
+1988,2443,New Orleans,1987-12-12,35.01786,included_game_day
+1988,2443,New Orleans,1987-12-14,33.2400511,included_game_day
+1988,2443,New Orleans,1987-12-18,29.4974895,included_game_day
+1988,2443,New Orleans,1987-12-20,41.579936417,included_game_day
+1988,2443,New Orleans,1987-12-21,48.6062437753,included_game_day
+1988,2443,New Orleans,1987-12-22,60.06952391387,included_game_day
+1988,2443,New Orleans,1987-12-28,37.259964522483,included_game_day
+1988,2443,New Orleans,1987-12-29,21.673983401834704,included_game_day
+1988,2443,New Orleans,1988-01-04,37.383963249870234,included_game_day
+1988,2443,New Orleans,1988-01-06,38.221666406709296,included_game_day
+1988,2443,New Orleans,1988-01-09,43.58426945034421,included_game_day
+1988,2443,New Orleans,1988-01-11,36.67264329817546,included_game_day
+1988,2443,New Orleans,1988-01-12,31.883853241382955,included_game_day
+1988,2443,New Orleans,1988-01-21,45.48232425818726,included_game_day
+1988,2443,New Orleans,1988-01-23,55.21876571678058,included_game_day
+1988,2443,New Orleans,1988-01-28,64.85871516698474,included_game_day
+1988,2443,New Orleans,1988-01-30,75.40655712396851,included_game_day
+1988,2443,New Orleans,1988-02-01,72.7858292889914,included_game_day
+1988,2443,New Orleans,1988-02-04,63.217255261176106,included_game_day
+1988,2443,New Orleans,1988-02-06,72.89166280409242,included_game_day
+1988,2443,New Orleans,1988-02-11,76.31784227269222,included_game_day
+1988,2443,New Orleans,1988-02-13,48.49092202233167,included_game_day
+1988,2443,New Orleans,1988-02-18,42.81712487417899,included_game_day
+1988,2443,New Orleans,1988-02-20,56.80113860393611,included_game_day
+1988,2443,New Orleans,1988-02-22,48.62218156229588,included_game_day
+1988,2443,New Orleans,1988-02-25,53.29611639132201,included_game_day
+1988,2443,New Orleans,1988-02-27,42.08963890973308,included_game_day
+1988,2443,New Orleans,1988-03-05,56.05834845686351,included_game_day
+1988,2443,New Orleans,1988-03-06,50.72049338708997,included_game_day
+1988,2443,New Orleans,1988-03-17,47.86836784726026,included_game_day
+1989,2443,New Orleans,1988-12-02,8.88,included_game_day
+1989,2443,New Orleans,1988-12-03,17.43,included_game_day
+1989,2443,New Orleans,1988-12-10,10.9552,included_game_day
+1989,2443,New Orleans,1988-12-13,5.87419027315,included_game_day
+1989,2443,New Orleans,1988-12-15,-28.125625734514998,included_game_day
+1989,2443,New Orleans,1988-12-22,-21.1830315056835,included_game_day
+1989,2443,New Orleans,1988-12-27,-15.12377143110685,included_game_day
+1989,2443,New Orleans,1989-01-02,12.46317924940535,included_game_day
+1989,2443,New Orleans,1989-01-07,20.712529128025086,included_game_day
+1989,2443,New Orleans,1989-01-09,28.435663958990563,included_game_day
+1989,2443,New Orleans,1989-01-11,41.01919136213613,included_game_day
+1989,2443,New Orleans,1989-01-14,25.430394319954665,included_game_day
+1989,2443,New Orleans,1989-01-16,23.877426854751867,included_game_day
+1989,2443,New Orleans,1989-01-19,20.354593959899073,included_game_day
+1989,2443,New Orleans,1989-01-21,17.71357817309253,included_game_day
+1989,2443,New Orleans,1989-01-23,8.770579666513525,included_game_day
+1989,2443,New Orleans,1989-01-28,17.021787347517687,included_game_day
+1989,2443,New Orleans,1989-01-30,20.98996600433074,included_game_day
+1989,2443,New Orleans,1989-02-02,39.27536038872674,included_game_day
+1989,2443,New Orleans,1989-02-04,17.454018484312996,included_game_day
+1989,2443,New Orleans,1989-02-09,2.0102701707743886,included_game_day
+1989,2443,New Orleans,1989-02-11,15.936828778275618,included_game_day
+1989,2443,New Orleans,1989-02-13,25.14855872531121,included_game_day
+1989,2443,New Orleans,1989-02-18,30.933800941566805,included_game_day
+1989,2443,New Orleans,1989-02-21,42.11759770307263,included_game_day
+1989,2443,New Orleans,1989-02-23,51.78136047099542,included_game_day
+1989,2443,New Orleans,1989-02-25,64.50878686992394,included_game_day
+1989,2443,New Orleans,1989-03-04,79.45573604325394,included_game_day
+1989,2443,New Orleans,1989-03-05,56.30346484091396,included_game_day
+1989,2443,New Orleans,1989-03-15,60.60599364082983,included_game_day
+1990,2443,New Orleans,1989-11-27,-8.0,included_game_day
+1990,2443,New Orleans,1989-12-01,10.329999999999998,included_game_day
+1990,2443,New Orleans,1989-12-02,2.336999999999998,included_game_day
+1990,2443,New Orleans,1989-12-05,2.651299999999998,included_game_day
+1990,2443,New Orleans,1989-12-09,1.978479999999998,included_game_day
+1990,2443,New Orleans,1989-12-16,-3.2941680000000013,included_game_day
+1990,2443,New Orleans,1989-12-20,-1.391642500000002,included_game_day
+1990,2443,New Orleans,1989-12-23,-9.778987862524001,included_game_day
+1990,2443,New Orleans,1989-12-28,-17.72480438405796,included_game_day
+1990,2443,New Orleans,1990-01-02,-17.349968055308207,included_game_day
+1990,2443,New Orleans,1990-01-04,-5.819218126390886,included_game_day
+1990,2443,New Orleans,1990-01-06,6.347946034178202,included_game_day
+1990,2443,New Orleans,1990-01-10,-1.4511174975489052,included_game_day
+1990,2443,New Orleans,1990-01-15,6.56903015865859,included_game_day
+1990,2443,New Orleans,1990-01-18,18.10713406118262,included_game_day
+1990,2443,New Orleans,1990-01-22,17.763273621588443,included_game_day
+1990,2443,New Orleans,1990-01-25,27.278700849226396,included_game_day
+1990,2443,New Orleans,1990-01-27,35.390725695421835,included_game_day
+1990,2443,New Orleans,1990-02-01,40.703632356169614,included_game_day
+1990,2443,New Orleans,1990-02-03,53.605230366905424,included_game_day
+1990,2443,New Orleans,1990-02-04,54.40675154878515,included_game_day
+1990,2443,New Orleans,1990-02-10,42.23891850731781,included_game_day
+1990,2443,New Orleans,1990-02-15,56.36577331277719,included_game_day
+1990,2443,New Orleans,1990-02-17,61.86942015387059,included_game_day
+1990,2443,New Orleans,1990-02-22,70.23738821818606,included_game_day
+1990,2443,New Orleans,1990-02-24,54.84177782853372,included_game_day
+1990,2443,New Orleans,1990-03-03,68.04802220505394,included_game_day
+1990,2443,New Orleans,1990-03-04,70.47758967948668,included_game_day
+1990,2443,New Orleans,1990-03-15,75.92372255316438,included_game_day
+1990,2443,New Orleans,1990-03-19,74.54109813804271,included_game_day
+1990,2443,New Orleans,1990-03-21,70.53155079262673,included_game_day
+1991,2443,New Orleans,1990-11-14,-27.0,included_game_day
+1991,2443,New Orleans,1990-11-27,-31.2,included_game_day
+1991,2443,New Orleans,1990-11-30,-20.448999999999998,included_game_day
+1991,2443,New Orleans,1990-12-08,-10.053738458,included_game_day
+1991,2443,New Orleans,1990-12-12,-10.1366119452,included_game_day
+1991,2443,New Orleans,1990-12-15,-7.593547474680001,included_game_day
+1991,2443,New Orleans,1990-12-17,17.875608232586,included_game_day
+1991,2443,New Orleans,1990-12-27,41.57729161728378,included_game_day
+1991,2443,New Orleans,1990-12-29,45.31450127403808,included_game_day
+1991,2443,New Orleans,1991-01-02,62.24677885574665,included_game_day
+1991,2443,New Orleans,1991-01-05,71.18804743507908,included_game_day
+1991,2443,New Orleans,1991-01-06,69.83297686611408,included_game_day
+1991,2443,New Orleans,1991-01-10,78.97986254513646,included_game_day
+1991,2443,New Orleans,1991-01-12,81.98618926147553,included_game_day
+1991,2443,New Orleans,1991-01-17,88.82048465089574,included_game_day
+1991,2443,New Orleans,1991-01-19,91.35670322427876,included_game_day
+1991,2443,New Orleans,1991-01-23,83.81815776549227,included_game_day
+1991,2443,New Orleans,1991-01-25,87.11628853470906,included_game_day
+1991,2443,New Orleans,1991-01-28,82.27885413104559,included_game_day
+1991,2443,New Orleans,1991-01-30,84.56902151027039,included_game_day
+1991,2443,New Orleans,1991-02-02,87.30851761883223,included_game_day
+1991,2443,New Orleans,1991-02-06,74.02294377530121,included_game_day
+1991,2443,New Orleans,1991-02-09,67.53202400158449,included_game_day
+1991,2443,New Orleans,1991-02-14,77.95600909689047,included_game_day
+1991,2443,New Orleans,1991-02-16,61.210993480896384,included_game_day
+1991,2443,New Orleans,1991-02-21,67.4444844166119,included_game_day
+1991,2443,New Orleans,1991-02-23,64.62857970185277,included_game_day
+1991,2443,New Orleans,1991-03-02,64.43176575003636,included_game_day
+1991,2443,New Orleans,1991-03-03,63.56485899937726,included_game_day
+1991,2443,New Orleans,1991-03-14,67.63999043690269,included_game_day
+1992,2443,New Orleans,1991-11-26,-18.0,included_game_day
+1992,2443,New Orleans,1991-11-29,2.0,included_game_day
+1992,2443,New Orleans,1991-11-30,19.65,included_game_day
+1992,2443,New Orleans,1991-12-02,11.174999999999999,included_game_day
+1992,2443,New Orleans,1991-12-04,13.318509999999998,included_game_day
+1992,2443,New Orleans,1991-12-18,16.016858999999997,included_game_day
+1992,2443,New Orleans,1991-12-23,18.319423550739998,included_game_day
+1992,2443,New Orleans,1991-12-27,36.228501725524694,included_game_day
+1992,2443,New Orleans,1991-12-28,39.51674763071563,included_game_day
+1992,2443,New Orleans,1991-12-30,29.672961111050284,included_game_day
+1992,2443,New Orleans,1992-01-02,22.273426087020084,included_game_day
+1992,2443,New Orleans,1992-01-04,17.279678865979278,included_game_day
+1992,2443,New Orleans,1992-01-08,28.098867847504195,included_game_day
+1992,2443,New Orleans,1992-01-11,38.334257537085726,included_game_day
+1992,2443,New Orleans,1992-01-13,19.37626283378175,included_game_day
+1992,2443,New Orleans,1992-01-16,18.641287872545096,included_game_day
+1992,2443,New Orleans,1992-01-18,8.202958512228353,included_game_day
+1992,2443,New Orleans,1992-01-23,22.68956889712161,included_game_day
+1992,2443,New Orleans,1992-01-25,20.291373032604064,included_game_day
+1992,2443,New Orleans,1992-01-28,23.63396401101677,included_game_day
+1992,2443,New Orleans,1992-01-29,19.614406533697448,included_game_day
+1992,2443,New Orleans,1992-02-01,35.16623047130875,included_game_day
+1992,2443,New Orleans,1992-02-08,40.21432556853235,included_game_day
+1992,2443,New Orleans,1992-02-12,28.658438956122502,included_game_day
+1992,2443,New Orleans,1992-02-15,55.0940813284611,included_game_day
+1992,2443,New Orleans,1992-02-18,35.07023426985181,included_game_day
+1992,2443,New Orleans,1992-02-22,24.53913313424868,included_game_day
+1992,2443,New Orleans,1992-02-27,30.741468991570272,included_game_day
+1992,2443,New Orleans,1992-03-01,27.82085492407812,included_game_day
+1992,2443,New Orleans,1992-03-05,34.78544746756731,included_game_day
+1992,2443,New Orleans,1992-03-06,33.58346912222108,included_game_day
+1993,2443,New Orleans,1992-12-19,5.6154623,included_game_day
+1993,2443,New Orleans,1992-12-20,26.77992021,included_game_day
+1993,2443,New Orleans,1992-12-28,18.5890136588,included_game_day
+1993,2443,New Orleans,1992-12-29,27.954017333872,included_game_day
+1993,2443,New Orleans,1992-12-30,60.28764752200679,included_game_day
+1993,2443,New Orleans,1992-12-31,65.05913576980612,included_game_day
+1993,2443,New Orleans,1993-01-02,64.71732472325951,included_game_day
+1993,2443,New Orleans,1993-01-07,77.47791729557174,included_game_day
+1993,2443,New Orleans,1993-01-09,97.09415745146167,included_game_day
+1993,2443,New Orleans,1993-01-11,96.11333694327203,included_game_day
+1993,2443,New Orleans,1993-01-14,87.225456248553,included_game_day
+1993,2443,New Orleans,1993-01-16,97.14451676620152,included_game_day
+1993,2443,New Orleans,1993-01-20,109.12647900900794,included_game_day
+1993,2443,New Orleans,1993-01-23,101.99585618329377,included_game_day
+1993,2443,New Orleans,1993-01-28,108.29921954250035,included_game_day
+1993,2443,New Orleans,1993-01-30,106.06254791556347,included_game_day
+1993,2443,New Orleans,1993-02-02,116.90662844191887,included_game_day
+1993,2443,New Orleans,1993-02-06,107.03068748195237,included_game_day
+1993,2443,New Orleans,1993-02-11,102.52989948590174,included_game_day
+1993,2443,New Orleans,1993-02-15,109.40287302449227,included_game_day
+1993,2443,New Orleans,1993-02-18,119.3840899450924,included_game_day
+1993,2443,New Orleans,1993-02-22,128.1298724070423,included_game_day
+1993,2443,New Orleans,1993-02-25,137.63495419693675,included_game_day
+1993,2443,New Orleans,1993-02-27,141.3068356071236,included_game_day
+1993,2443,New Orleans,1993-03-01,136.17130918536947,included_game_day
+1993,2443,New Orleans,1993-03-07,121.68616920372608,included_game_day
+1993,2443,New Orleans,1993-03-08,129.76956046750803,included_game_day
+1993,2443,New Orleans,1993-03-09,122.19701263130514,included_game_day
+1993,2443,New Orleans,1993-03-19,98.51969875474155,included_game_day
+1994,2443,New Orleans,1993-12-06,4.8309999999999995,included_game_day
+1994,2443,New Orleans,1993-12-08,8.48421,included_game_day
+1994,2443,New Orleans,1993-12-11,17.318579,included_game_day
+1994,2443,New Orleans,1993-12-14,7.234323099999999,included_game_day
+1994,2443,New Orleans,1993-12-21,1.9572706753806992,included_game_day
+1994,2443,New Orleans,1993-12-27,7.288335154239729,included_game_day
+1994,2443,New Orleans,1993-12-28,12.492942485585758,included_game_day
+1994,2443,New Orleans,1994-01-03,17.201987114692482,included_game_day
+1994,2443,New Orleans,1994-01-06,22.995279228432764,included_game_day
+1994,2443,New Orleans,1994-01-08,25.014109732406737,included_game_day
+1994,2443,New Orleans,1994-01-13,26.88967780897703,included_game_day
+1994,2443,New Orleans,1994-01-15,20.036931048372814,included_game_day
+1994,2443,New Orleans,1994-01-17,17.265235950920033,included_game_day
+1994,2443,New Orleans,1994-01-22,33.398450929626165,included_game_day
+1994,2443,New Orleans,1994-01-27,28.734542757097934,included_game_day
+1994,2443,New Orleans,1994-01-29,38.78366248782739,included_game_day
+1994,2443,New Orleans,1994-01-31,50.64410903949356,included_game_day
+1994,2443,New Orleans,1994-02-03,70.90891755492419,included_game_day
+1994,2443,New Orleans,1994-02-10,67.35046214142902,included_game_day
+1994,2443,New Orleans,1994-02-14,74.45249530427289,included_game_day
+1994,2443,New Orleans,1994-02-17,63.70215673574765,included_game_day
+1994,2443,New Orleans,1994-02-19,65.08688601954498,included_game_day
+1994,2443,New Orleans,1994-02-23,60.78357675358146,included_game_day
+1994,2443,New Orleans,1994-02-26,57.663785881050984,included_game_day
+1994,2443,New Orleans,1994-02-28,68.64497048309501,included_game_day
+1994,2443,New Orleans,1994-03-05,70.42991816473022,included_game_day
+1994,2443,New Orleans,1994-03-06,66.84650347064552,included_game_day
+1994,2443,New Orleans,1994-03-17,67.19202329500968,included_game_day
+1994,2443,New Orleans,1994-03-21,51.898681246338356,included_game_day
+1995,2443,New Orleans,1994-11-25,9.0,included_game_day
+1995,2443,New Orleans,1994-11-26,-3.8000000000000007,included_game_day
+1995,2443,New Orleans,1994-11-27,-6.950000000000001,included_game_day
+1995,2443,New Orleans,1994-11-30,-20.455,included_game_day
+1995,2443,New Orleans,1994-12-17,-23.828072999999996,included_game_day
+1995,2443,New Orleans,1994-12-20,-16.963665699999996,included_game_day
+1995,2443,New Orleans,1994-12-21,-7.754596043999996,included_game_day
+1995,2443,New Orleans,1994-12-27,1.140092960400004,included_game_day
+1995,2443,New Orleans,1994-12-28,6.459212183682004,included_game_day
+1995,2443,New Orleans,1994-12-30,-7.7705954728791955,included_game_day
+1995,2443,New Orleans,1995-01-05,7.199578036526724,included_game_day
+1995,2443,New Orleans,1995-01-07,23.456309784491438,included_game_day
+1995,2443,New Orleans,1995-01-10,24.75133357113836,included_game_day
+1995,2443,New Orleans,1995-01-13,-0.4421640091631218,included_game_day
+1995,2443,New Orleans,1995-01-16,11.279570706635885,included_game_day
+1995,2443,New Orleans,1995-01-19,15.735589441556638,included_game_day
+1995,2443,New Orleans,1995-01-23,-2.204545723986179,included_game_day
+1995,2443,New Orleans,1995-01-26,-6.42929401353541,included_game_day
+1995,2443,New Orleans,1995-01-28,-4.457087818881435,included_game_day
+1995,2443,New Orleans,1995-02-02,-2.3738801149433666,included_game_day
+1995,2443,New Orleans,1995-02-05,0.02180267717910045,included_game_day
+1995,2443,New Orleans,1995-02-07,4.812957315663152,included_game_day
+1995,2443,New Orleans,1995-02-13,9.00281417473487,included_game_day
+1995,2443,New Orleans,1995-02-16,11.74687784845556,included_game_day
+1995,2443,New Orleans,1995-02-18,19.023528389235903,included_game_day
+1995,2443,New Orleans,1995-02-20,32.867571439057905,included_game_day
+1995,2443,New Orleans,1995-02-23,33.2673597542157,included_game_day
+1995,2443,New Orleans,1995-02-26,30.651375945149802,included_game_day
+1995,2443,New Orleans,1995-03-03,43.82298215067827,included_game_day
+1995,2443,New Orleans,1995-03-04,31.433695663393884,included_game_day
+1996,2443,New Orleans,1995-12-02,-12.1699,included_game_day
+1996,2443,New Orleans,1995-12-07,-5.60567,included_game_day
+1996,2443,New Orleans,1995-12-16,-0.12517955899999933,included_game_day
+1996,2443,New Orleans,1995-12-18,-14.4205111331,included_game_day
+1996,2443,New Orleans,1995-12-22,-19.72020552079,included_game_day
+1996,2443,New Orleans,1995-12-27,-8.501336939710999,included_game_day
+1996,2443,New Orleans,1995-12-28,8.440252967640472,included_game_day
+1996,2443,New Orleans,1995-12-31,-3.1624793474025754,included_game_day
+1996,2443,New Orleans,1996-01-04,14.670720757404373,included_game_day
+1996,2443,New Orleans,1996-01-06,10.672767213590063,included_game_day
+1996,2443,New Orleans,1996-01-11,23.30328052076844,included_game_day
+1996,2443,New Orleans,1996-01-13,21.664533159565732,included_game_day
+1996,2443,New Orleans,1996-01-16,16.287767659732875,included_game_day
+1996,2443,New Orleans,1996-01-18,33.67988850742912,included_game_day
+1996,2443,New Orleans,1996-01-20,44.47599721804877,included_game_day
+1996,2443,New Orleans,1996-01-25,43.83153726334787,included_game_day
+1996,2443,New Orleans,1996-01-27,35.68315025136906,included_game_day
+1996,2443,New Orleans,1996-02-01,39.724192139050395,included_game_day
+1996,2443,New Orleans,1996-02-04,36.35460658134998,included_game_day
+1996,2443,New Orleans,1996-02-08,41.074827005052995,included_game_day
+1996,2443,New Orleans,1996-02-10,39.00431057501191,included_game_day
+1996,2443,New Orleans,1996-02-15,46.50676170078363,included_game_day
+1996,2443,New Orleans,1996-02-17,57.2552344719286,included_game_day
+1996,2443,New Orleans,1996-02-19,60.309626471183755,included_game_day
+1996,2443,New Orleans,1996-02-22,83.159123924476,included_game_day
+1996,2443,New Orleans,1996-02-24,76.08897307116604,included_game_day
+1996,2443,New Orleans,1996-03-02,76.59236475317198,included_game_day
+1996,2443,New Orleans,1996-03-03,74.41339627326275,included_game_day
+1996,2443,New Orleans,1996-03-05,80.21542529803249,included_game_day
+1996,2443,New Orleans,1996-03-15,60.28504861254512,included_game_day
+1997,2443,New Orleans,1996-11-24,24.6,included_game_day
+1997,2443,New Orleans,1996-11-30,31.537,included_game_day
+1997,2443,New Orleans,1996-12-06,34.7369,included_game_day
+1997,2443,New Orleans,1996-12-07,21.22757,included_game_day
+1997,2443,New Orleans,1996-12-14,27.1334697,included_game_day
+1997,2443,New Orleans,1996-12-18,44.888551570000004,included_game_day
+1997,2443,New Orleans,1996-12-22,33.376172246338,included_game_day
+1997,2443,New Orleans,1996-12-27,34.0505951439462,included_game_day
+1997,2443,New Orleans,1996-12-28,39.22439461885258,included_game_day
+1997,2443,New Orleans,1997-01-02,61.23948650986038,included_game_day
+1997,2443,New Orleans,1997-01-04,56.034826110845444,included_game_day
+1997,2443,New Orleans,1997-01-09,79.33453491726871,included_game_day
+1997,2443,New Orleans,1997-01-11,102.56054797435159,included_game_day
+1997,2443,New Orleans,1997-01-18,100.47701976518492,included_game_day
+1997,2443,New Orleans,1997-01-20,86.23022928543264,included_game_day
+1997,2443,New Orleans,1997-01-22,79.70701638160256,included_game_day
+1997,2443,New Orleans,1997-01-25,76.30258821506827,included_game_day
+1997,2443,New Orleans,1997-01-27,78.00926535082361,included_game_day
+1997,2443,New Orleans,1997-01-30,81.7064797484629,included_game_day
+1997,2443,New Orleans,1997-02-01,91.43518738265503,included_game_day
+1997,2443,New Orleans,1997-02-06,89.66663490737747,included_game_day
+1997,2443,New Orleans,1997-02-08,73.75010624698028,included_game_day
+1997,2443,New Orleans,1997-02-13,78.74425595206344,included_game_day
+1997,2443,New Orleans,1997-02-15,74.17784826014037,included_game_day
+1997,2443,New Orleans,1997-02-20,80.88991576067646,included_game_day
+1997,2443,New Orleans,1997-02-22,60.814900629285205,included_game_day
+1997,2443,New Orleans,1997-03-01,60.700747083201776,included_game_day
+1997,2443,New Orleans,1997-03-02,52.23565654732968,included_game_day
+1997,2443,New Orleans,1997-03-12,35.317915910152045,included_game_day
+1998,2443,New Orleans,1997-11-22,-7.51,included_game_day
+1998,2443,New Orleans,1997-12-13,9.460545412900002,included_game_day
+1998,2443,New Orleans,1997-12-15,21.346403631610002,included_game_day
+1998,2443,New Orleans,1997-12-19,18.733960433979,included_game_day
+1998,2443,New Orleans,1997-12-20,16.9789445047961,included_game_day
+1998,2443,New Orleans,1997-12-22,21.19429718099649,included_game_day
+1998,2443,New Orleans,1997-12-27,15.758554294552841,included_game_day
+1998,2443,New Orleans,1997-12-29,8.357684277349016,included_game_day
+1998,2443,New Orleans,1998-01-03,10.582596109056254,included_game_day
+1998,2443,New Orleans,1998-01-05,-8.97933725872435,included_game_day
+1998,2443,New Orleans,1998-01-08,-23.899119088204706,included_game_day
+1998,2443,New Orleans,1998-01-10,-41.010957034955254,included_game_day
+1998,2443,New Orleans,1998-01-15,-13.713030402601923,included_game_day
+1998,2443,New Orleans,1998-01-17,-6.231392359827222,included_game_day
+1998,2443,New Orleans,1998-01-22,16.095433739057434,included_game_day
+1998,2443,New Orleans,1998-01-24,-3.2285573506957306,included_game_day
+1998,2443,New Orleans,1998-01-26,18.78384432960145,included_game_day
+1998,2443,New Orleans,1998-01-29,12.292803318403095,included_game_day
+1998,2443,New Orleans,1998-01-31,-10.968668699072264,included_game_day
+1998,2443,New Orleans,1998-02-05,-16.691107145424105,included_game_day
+1998,2443,New Orleans,1998-02-07,-14.913192808631207,included_game_day
+1998,2443,New Orleans,1998-02-12,-23.666437905393295,included_game_day
+1998,2443,New Orleans,1998-02-14,-30.32061874208067,included_game_day
+1998,2443,New Orleans,1998-02-19,16.368853444569957,included_game_day
+1998,2443,New Orleans,1998-02-21,12.735645222465237,included_game_day
+1998,2443,New Orleans,1998-02-23,13.527788346543108,included_game_day
+1998,2443,New Orleans,1998-02-28,10.12648419580881,included_game_day
+1999,2443,New Orleans,1998-11-18,-9.75,included_game_day
+1999,2443,New Orleans,1998-11-21,-20.515,included_game_day
+1999,2443,New Orleans,1998-11-27,-16.3495,included_game_day
+1999,2443,New Orleans,1998-11-28,-2.538549999999999,included_game_day
+1999,2443,New Orleans,1998-11-29,-15.746288999999999,included_game_day
+1999,2443,New Orleans,1998-12-01,-7.1780901,included_game_day
+1999,2443,New Orleans,1998-12-12,-5.994978540000001,included_game_day
+1999,2443,New Orleans,1998-12-15,9.965766726058,included_game_day
+1999,2443,New Orleans,1998-12-19,14.3678753278922,included_game_day
+1999,2443,New Orleans,1998-12-20,13.97684243056298,included_game_day
+1999,2443,New Orleans,1998-12-22,6.230143854021063,included_game_day
+1999,2443,New Orleans,1998-12-23,10.065164649693937,included_game_day
+1999,2443,New Orleans,1998-12-30,5.603146404400043,included_game_day
+1999,2443,New Orleans,1999-01-04,11.820192117471002,included_game_day
+1999,2443,New Orleans,1999-01-06,-1.6771541047922156,included_game_day
+1999,2443,New Orleans,1999-01-09,-20.229401655185452,included_game_day
+1999,2443,New Orleans,1999-01-14,-31.60082373569164,included_game_day
+1999,2443,New Orleans,1999-01-16,-27.41778481340023,included_game_day
+1999,2443,New Orleans,1999-01-18,-50.36050281021298,included_game_day
+1999,2443,New Orleans,1999-01-21,-39.29129098069011,included_game_day
+1999,2443,New Orleans,1999-01-23,-47.01432462155418,included_game_day
+1999,2443,New Orleans,1999-01-28,-70.09705740674457,included_game_day
+1999,2443,New Orleans,1999-01-30,-72.62089739886092,included_game_day
+1999,2443,New Orleans,1999-02-04,-66.70933737619978,included_game_day
+1999,2443,New Orleans,1999-02-06,-71.41344027182474,included_game_day
+1999,2443,New Orleans,1999-02-11,-62.64953487726054,included_game_day
+1999,2443,New Orleans,1999-02-15,-62.12735819303494,included_game_day
+1999,2443,New Orleans,1999-02-18,-45.351488804555984,included_game_day
+1999,2443,New Orleans,1999-02-20,-44.4170486859726,included_game_day
+1999,2443,New Orleans,1999-02-27,-53.213648185793375,included_game_day
+2000,2443,New Orleans,1999-11-20,-3.0,included_game_day
+2000,2443,New Orleans,1999-11-24,2.3600000000000003,included_game_day
+2000,2443,New Orleans,1999-11-27,16.474,included_game_day
+2000,2443,New Orleans,1999-11-30,13.4209929,included_game_day
+2000,2443,New Orleans,1999-12-04,-0.6424133899999998,included_game_day
+2000,2443,New Orleans,1999-12-11,-3.81719853187,included_game_day
+2000,2443,New Orleans,1999-12-18,-4.50044151902193,included_game_day
+2000,2443,New Orleans,1999-12-20,-9.763017087590736,included_game_day
+2000,2443,New Orleans,1999-12-29,-11.520405968522116,included_game_day
+2000,2443,New Orleans,2000-01-03,-19.970803002979558,included_game_day
+2000,2443,New Orleans,2000-01-06,-17.702004924452222,included_game_day
+2000,2443,New Orleans,2000-01-08,-7.354916180582482,included_game_day
+2000,2443,New Orleans,2000-01-10,-5.047691541796753,included_game_day
+2000,2443,New Orleans,2000-01-13,-2.9798828681217726,included_game_day
+2000,2443,New Orleans,2000-01-18,-9.92811869229276,included_game_day
+2000,2443,New Orleans,2000-01-24,-5.830227453100036,included_game_day
+2000,2443,New Orleans,2000-01-27,-8.611188648977468,included_game_day
+2000,2443,New Orleans,2000-01-29,-11.91934118683396,included_game_day
+2000,2443,New Orleans,2000-01-31,-22.06582865250011,included_game_day
+2000,2443,New Orleans,2000-02-03,-32.62969260338494,included_game_day
+2000,2443,New Orleans,2000-02-05,-32.002845042800644,included_game_day
+2000,2443,New Orleans,2000-02-10,-28.52118921407578,included_game_day
+2000,2443,New Orleans,2000-02-12,-22.464174921005807,included_game_day
+2000,2443,New Orleans,2000-02-17,-3.0912836447832,included_game_day
+2000,2443,New Orleans,2000-02-21,-16.011933714476868,included_game_day
+2000,2443,New Orleans,2000-02-24,-23.709359709333885,included_game_day
+2000,2443,New Orleans,2000-02-26,-38.15609655184821,included_game_day
+2000,2443,New Orleans,2000-03-04,-42.62643037718515,included_game_day
+2000,2443,New Orleans,2000-03-05,-54.73678646866291,included_game_day
+2001,2443,New Orleans,2000-11-18,-10.0,included_game_day
+2001,2443,New Orleans,2000-11-21,15.0,included_game_day
+2001,2443,New Orleans,2000-11-28,32.5,included_game_day
+2001,2443,New Orleans,2000-12-09,19.704030069999998,included_game_day
+2001,2443,New Orleans,2000-12-12,10.047579030499998,included_game_day
+2001,2443,New Orleans,2000-12-16,-6.660390247550003,included_game_day
+2001,2443,New Orleans,2000-12-21,3.6151808502049967,included_game_day
+2001,2443,New Orleans,2000-12-23,-1.4537507185655034,included_game_day
+2001,2443,New Orleans,2000-12-28,-8.586505142296954,included_game_day
+2001,2443,New Orleans,2000-12-30,-16.99057771754265,included_game_day
+2001,2443,New Orleans,2001-01-03,-23.367558882376706,included_game_day
+2001,2443,New Orleans,2001-01-06,-8.98568631968772,included_game_day
+2001,2443,New Orleans,2001-01-13,-2.8281372268729488,included_game_day
+2001,2443,New Orleans,2001-01-18,3.9284880583275044,included_game_day
+2001,2443,New Orleans,2001-01-20,2.635501814184651,included_game_day
+2001,2443,New Orleans,2001-01-25,13.852127804695382,included_game_day
+2001,2443,New Orleans,2001-01-27,14.710766102959656,included_game_day
+2001,2443,New Orleans,2001-01-31,0.3804855408896497,included_game_day
+2001,2443,New Orleans,2001-02-03,-9.681351952127008,included_game_day
+2001,2443,New Orleans,2001-02-07,-19.369137693857837,included_game_day
+2001,2443,New Orleans,2001-02-10,-15.995810650101252,included_game_day
+2001,2443,New Orleans,2001-02-14,-9.166831575022279,included_game_day
+2001,2443,New Orleans,2001-02-17,4.611752844751404,included_game_day
+2001,2443,New Orleans,2001-02-21,15.409181100581367,included_game_day
+2001,2443,New Orleans,2001-02-24,1.5901088188363897,included_game_day
+2001,2443,New Orleans,2001-03-02,-7.074690643120247,included_game_day
+2001,2443,New Orleans,2001-03-04,-21.236688668438212,included_game_day
+2002,2443,LSU New Orleans Privateers,2001-11-19,-12.0,included_game_day
+2002,2443,LSU New Orleans Privateers,2001-11-24,-0.75,included_game_day
+2002,2443,LSU New Orleans Privateers,2001-11-26,-0.40700000000000003,included_game_day
+2002,2443,LSU New Orleans Privateers,2001-11-29,-41.6523,included_game_day
+2002,2443,LSU New Orleans Privateers,2001-12-01,-50.211369999999995,included_game_day
+2002,2443,LSU New Orleans Privateers,2001-12-05,-50.71996944,included_game_day
+2002,2443,LSU New Orleans Privateers,2001-12-08,-34.814042226,included_game_day
+2002,2443,LSU New Orleans Privateers,2001-12-18,-21.51271723369,included_game_day
+2002,2443,LSU New Orleans Privateers,2001-12-22,-18.850546577496,included_game_day
+2002,2443,LSU New Orleans Privateers,2001-12-28,-23.5402648128402,included_game_day
+2002,2443,LSU New Orleans Privateers,2001-12-30,-30.481486109891218,included_game_day
+2002,2443,LSU New Orleans Privateers,2002-01-03,-36.87877582577794,included_game_day
+2002,2443,LSU New Orleans Privateers,2002-01-05,-54.140661097835704,included_game_day
+2002,2443,LSU New Orleans Privateers,2002-01-14,-42.695217240806116,included_game_day
+2002,2443,LSU New Orleans Privateers,2002-01-17,-21.807574366607476,included_game_day
+2002,2443,LSU New Orleans Privateers,2002-01-19,-11.35378095799904,included_game_day
+2002,2443,LSU New Orleans Privateers,2002-01-24,3.187863117780905,included_game_day
+2002,2443,LSU New Orleans Privateers,2002-01-26,-11.770895185552716,included_game_day
+2002,2443,LSU New Orleans Privateers,2002-01-31,-12.403430830423208,included_game_day
+2002,2443,LSU New Orleans Privateers,2002-02-04,-8.084839670705414,included_game_day
+2002,2443,LSU New Orleans Privateers,2002-02-07,4.6045194316012275,included_game_day
+2002,2443,LSU New Orleans Privateers,2002-02-16,5.093126793561293,included_game_day
+2002,2443,LSU New Orleans Privateers,2002-02-21,24.22425742723499,included_game_day
+2002,2443,LSU New Orleans Privateers,2002-02-23,35.62166600744304,included_game_day
+2002,2443,LSU New Orleans Privateers,2002-03-03,35.170236897687396,included_game_day
+2003,2443,LSU New Orleans Privateers,2002-11-27,6.49,included_game_day
+2003,2443,LSU New Orleans Privateers,2002-12-02,33.89591,included_game_day
+2003,2443,LSU New Orleans Privateers,2002-12-05,41.906065,included_game_day
+2003,2443,LSU New Orleans Privateers,2002-12-07,37.859658499999995,included_game_day
+2003,2443,LSU New Orleans Privateers,2002-12-15,28.350857832799996,included_game_day
+2003,2443,LSU New Orleans Privateers,2002-12-17,17.418791099519996,included_game_day
+2003,2443,LSU New Orleans Privateers,2002-12-20,21.463337266668,included_game_day
+2003,2443,LSU New Orleans Privateers,2002-12-22,10.6823118838412,included_game_day
+2003,2443,LSU New Orleans Privateers,2002-12-30,11.091749340247151,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-01-04,19.01724173842011,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-01-09,28.952536614629693,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-01-11,21.597292624610834,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-01-16,8.38493033093042,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-01-18,-10.595599192086162,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-01-23,-6.253778281045536,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-01-25,5.83535753419979,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-01-30,4.140873504643022,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-02-01,5.260647498976661,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-02-06,-5.822641149128865,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-02-08,2.025510611489196,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-02-15,-3.546382051745339,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-02-17,-15.582511756045225,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-02-20,-15.334980494904325,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-02-23,-13.216602196414268,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-02-26,-6.264340232228784,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-03-01,-8.21517445519314,included_game_day
+2003,2443,LSU New Orleans Privateers,2003-03-07,-32.54819269530098,included_game_day
+2004,2443,LSU New Orleans Privateers,2003-11-22,10.0,included_game_day
+2004,2443,LSU New Orleans Privateers,2003-11-29,6.7,included_game_day
+2004,2443,LSU New Orleans Privateers,2003-12-03,14.488,included_game_day
+2004,2443,LSU New Orleans Privateers,2003-12-14,-7.366052209999999,included_game_day
+2004,2443,LSU New Orleans Privateers,2003-12-16,-15.9757902966,included_game_day
+2004,2443,LSU New Orleans Privateers,2003-12-19,-10.61222042564,included_game_day
+2004,2443,LSU New Orleans Privateers,2003-12-21,-32.227055826166,included_game_day
+2004,2443,LSU New Orleans Privateers,2003-12-29,-32.341305663747704,included_game_day
+2004,2443,LSU New Orleans Privateers,2003-12-30,-32.43263267379854,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-01-02,-32.66001488649232,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-01-04,-29.947081662813048,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-01-08,-20.017652914143774,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-01-12,-21.650797566928375,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-01-15,-7.5324362361525345,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-01-17,-23.315851972601045,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-01-22,-7.420133313308542,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-01-24,-11.57631112134159,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-01-29,-8.27648260918031,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-01-31,-5.535175140811366,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-02-04,-24.252746945965303,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-02-07,-16.404987477433124,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-02-12,-5.810379083736187,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-02-14,12.850359319217095,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-02-19,4.269259058378028,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-02-21,-12.161484159225582,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-02-26,-18.410352754849672,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-02-28,-23.129082558839926,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-03-07,-24.221198444762642,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-03-08,-0.7601191015814379,included_game_day
+2004,2443,LSU New Orleans Privateers,2004-03-09,0.8552403180313135,included_game_day
+2005,2443,LSU New Orleans Privateers,2004-11-17,-31.0,included_game_day
+2005,2443,LSU New Orleans Privateers,2004-11-18,-39.0,included_game_day
+2005,2443,LSU New Orleans Privateers,2004-11-19,-32.54,included_game_day
+2005,2443,LSU New Orleans Privateers,2004-11-24,-39.025999999999996,included_game_day
+2005,2443,LSU New Orleans Privateers,2004-11-30,-38.4704,included_game_day
+2005,2443,LSU New Orleans Privateers,2004-12-13,-45.021737972,included_game_day
+2005,2443,LSU New Orleans Privateers,2004-12-16,-46.929887864799994,included_game_day
+2005,2443,LSU New Orleans Privateers,2004-12-21,-66.9508936286633,included_game_day
+2005,2443,LSU New Orleans Privateers,2004-12-22,-72.264005749994,included_game_day
+2005,2443,LSU New Orleans Privateers,2004-12-28,-59.5426235069574,included_game_day
+2005,2443,LSU New Orleans Privateers,2004-12-30,-42.413331443785886,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-01-01,-38.77072336576532,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-01-08,-24.426886657053544,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-01-13,-31.14266779462723,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-01-15,-38.32145569543748,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-01-20,-38.00536563993357,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-01-22,-23.775479622755867,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-01-27,-33.4794407559512,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-01-29,-17.507362871296248,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-02-03,-0.12902171199345602,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-02-05,-15.838016518019256,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-02-10,-13.988229782181346,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-02-12,-18.486611874077056,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-02-17,-25.388184165715995,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-02-19,-13.692914603090138,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-02-21,-5.28700579999618,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-02-24,-5.42268782939962,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-02-26,2.2574580189399844,included_game_day
+2005,2443,LSU New Orleans Privateers,2005-03-06,-3.4393619610541277,included_game_day
+2006,2443,LSU New Orleans Privateers,2005-11-22,-8.0,included_game_day
+2006,2443,LSU New Orleans Privateers,2005-11-26,-21.83,included_game_day
+2006,2443,LSU New Orleans Privateers,2005-11-30,-24.028308,included_game_day
+2006,2443,LSU New Orleans Privateers,2005-12-03,-32.433085,included_game_day
+2006,2443,LSU New Orleans Privateers,2005-12-13,-60.9472417428,included_game_day
+2006,2443,LSU New Orleans Privateers,2005-12-17,-66.96242117392,included_game_day
+2006,2443,LSU New Orleans Privateers,2005-12-20,-57.481485271568005,included_game_day
+2006,2443,LSU New Orleans Privateers,2005-12-29,-60.76564848489802,included_game_day
+2006,2443,LSU New Orleans Privateers,2005-12-31,-60.41123814797096,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-01-05,-72.83948917502057,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-01-07,-58.69327519641836,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-01-12,-51.50538675207312,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-01-14,-49.500785039168605,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-01-19,-66.4364914181753,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-01-23,-68.94834822381026,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-01-26,-83.99389012311872,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-01-28,-83.43616790960746,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-02-02,-67.43292639599508,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-02-04,-67.00555054311687,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-02-09,-62.07263311106482,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-02-13,-59.96048404647065,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-02-16,-65.04534059405873,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-02-18,-62.84843860885995,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-02-23,-53.78163171554989,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-02-25,-50.54993541452763,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-03-03,-35.44069187515792,included_game_day
+2006,2443,LSU New Orleans Privateers,2006-03-05,-42.52528303560807,included_game_day
+2007,2443,LSU New Orleans Privateers,2006-11-07,-20.0,included_game_day
+2007,2443,LSU New Orleans Privateers,2006-11-08,-24.4,included_game_day
+2007,2443,LSU New Orleans Privateers,2006-11-11,-12.959999999999999,included_game_day
+2007,2443,LSU New Orleans Privateers,2006-11-14,-26.964,included_game_day
+2007,2443,LSU New Orleans Privateers,2006-11-19,-37.3876,included_game_day
+2007,2443,LSU New Orleans Privateers,2006-11-22,-30.93284,included_game_day
+2007,2443,LSU New Orleans Privateers,2006-11-25,-34.327556,included_game_day
+2007,2443,LSU New Orleans Privateers,2006-11-30,-33.218009300000006,included_game_day
+2007,2443,LSU New Orleans Privateers,2006-12-13,-35.081446646622005,included_game_day
+2007,2443,LSU New Orleans Privateers,2006-12-16,-29.699474928681806,included_game_day
+2007,2443,LSU New Orleans Privateers,2006-12-21,-39.41164012007016,included_game_day
+2007,2443,LSU New Orleans Privateers,2006-12-28,-36.841716156201606,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-01-01,-30.035783351189764,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-01-04,-43.472750423655825,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-01-06,-31.6556363169479,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-01-11,-34.45491919384729,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-01-13,-46.90618476185947,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-01-17,-39.68614371131327,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-01-21,-32.37893507959234,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-01-25,-31.547143231477758,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-02-01,-49.738944663402826,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-02-03,-53.354907084771035,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-02-08,-41.39777158528604,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-02-10,-28.05760486770137,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-02-15,-39.760775872137074,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-02-17,-58.556650630610825,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-02-22,-61.567862301593244,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-02-24,-49.88526427339405,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-02-28,-46.296731172031144,included_game_day
+2007,2443,LSU New Orleans Privateers,2007-03-04,-48.740953453054445,included_game_day
+2008,2443,LSU New Orleans Privateers,2007-11-14,0.6600000000000001,included_game_day
+2008,2443,LSU New Orleans Privateers,2007-11-18,7.074,included_game_day
+2008,2443,LSU New Orleans Privateers,2007-11-24,19.848599999999998,included_game_day
+2008,2443,LSU New Orleans Privateers,2007-11-28,21.319719999999997,included_game_day
+2008,2443,LSU New Orleans Privateers,2007-12-01,-5.562697900000003,included_game_day
+2008,2443,LSU New Orleans Privateers,2007-12-12,0.18714870007199735,included_game_day
+2008,2443,LSU New Orleans Privateers,2007-12-15,4.086684661649548,included_game_day
+2008,2443,LSU New Orleans Privateers,2007-12-18,-17.457286647493405,included_game_day
+2008,2443,LSU New Orleans Privateers,2007-12-19,0.8186999984518195,included_game_day
+2008,2443,LSU New Orleans Privateers,2007-12-20,-0.8542763421930886,included_game_day
+2008,2443,LSU New Orleans Privateers,2007-12-22,-2.3836411695077375,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-01-02,-13.206567278692205,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-01-05,-20.496894779861933,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-01-09,-8.10326101226625,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-01-12,-14.121486084568431,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-01-17,16.44175557344253,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-01-23,0.3262900933590025,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-01-27,-15.222547293347034,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-01-30,-27.440797538360187,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-02-02,-22.94428259441679,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-02-09,-38.645950614642636,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-02-14,-36.19635702068355,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-02-16,-32.57278172240633,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-02-20,-35.81406190757028,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-02-24,-26.599564154613404,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-02-28,-32.18921560670368,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-03-01,-31.304846154675072,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-03-05,-28.066456409177146,included_game_day
+2008,2443,LSU New Orleans Privateers,2008-03-09,-19.119559714253924,included_game_day
+2009,2443,LSU New Orleans Privateers,2008-11-15,-9.0,included_game_day
+2009,2443,LSU New Orleans Privateers,2008-11-19,-22.1,included_game_day
+2009,2443,LSU New Orleans Privateers,2008-11-22,-26.01,included_game_day
+2009,2443,LSU New Orleans Privateers,2008-11-26,-35.807100000000005,included_game_day
+2009,2443,LSU New Orleans Privateers,2008-11-29,-34.825390000000006,included_game_day
+2009,2443,LSU New Orleans Privateers,2008-12-03,-25.957067253000005,included_game_day
+2009,2443,LSU New Orleans Privateers,2008-12-06,-35.3936278977,included_game_day
+2009,2443,LSU New Orleans Privateers,2008-12-13,-36.81694122586,included_game_day
+2009,2443,LSU New Orleans Privateers,2008-12-15,-26.95191107619,included_game_day
+2009,2443,LSU New Orleans Privateers,2008-12-19,-37.6415892397684,included_game_day
+2009,2443,LSU New Orleans Privateers,2008-12-22,-30.67323533545068,included_game_day
+2009,2443,LSU New Orleans Privateers,2008-12-28,-43.22771486190561,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-01-01,-41.07880543296932,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-01-03,-48.475778331139026,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-01-08,-47.14793111715308,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-01-10,-64.61945586104174,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-01-17,-61.773875788285864,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-01-22,-65.89109003018623,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-01-24,-55.056121308915955,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-01-29,-69.4168428399488,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-01-31,-63.315652277625524,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-02-05,-58.14729340790129,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-02-07,-67.54313329095653,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-02-12,-67.97656061399799,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-02-14,-69.71358567588653,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-02-19,-58.94904454984415,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-02-22,-71.57720251597974,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-02-26,-85.37176733601834,included_game_day
+2009,2443,LSU New Orleans Privateers,2009-03-04,-75.99026237650497,included_game_day
+2010,2443,LSU New Orleans Privateers,2009-11-13,-5.0,included_game_day
+2010,2443,LSU New Orleans Privateers,2009-11-21,2.553,included_game_day
+2010,2443,LSU New Orleans Privateers,2009-11-29,-8.502790000000001,included_game_day
+2010,2443,LSU New Orleans Privateers,2009-12-02,-3.711967360000001,included_game_day
+2010,2443,LSU New Orleans Privateers,2009-12-05,-0.39553362400000047,included_game_day
+2010,2443,LSU New Orleans Privateers,2009-12-12,-15.745573282400002,included_game_day
+2010,2443,LSU New Orleans Privateers,2009-12-14,-35.74249756396,included_game_day
+2010,2443,LSU New Orleans Privateers,2009-12-17,-33.4676323300191,included_game_day
+2010,2443,LSU New Orleans Privateers,2009-12-21,-42.12071372384719,included_game_day
+2010,2443,LSU New Orleans Privateers,2009-12-22,-59.41133705480192,included_game_day
+2010,2443,LSU New Orleans Privateers,2009-12-23,-70.8345899612672,included_game_day
+2010,2443,LSU New Orleans Privateers,2009-12-31,-71.45770066076501,included_game_day
+2010,2443,LSU New Orleans Privateers,2010-01-02,-66.01811721536502,included_game_day
+2010,2443,LSU New Orleans Privateers,2010-01-07,-66.7256317542389,included_game_day
+2010,2443,LSU New Orleans Privateers,2010-01-09,-72.95918829877007,included_game_day
+2010,2443,LSU New Orleans Privateers,2010-01-14,-74.5534998135617,included_game_day
+2010,2443,LSU New Orleans Privateers,2010-01-21,-84.9420878182518,included_game_day
+2010,2443,LSU New Orleans Privateers,2010-01-23,-86.25398398885076,included_game_day
+2010,2443,LSU New Orleans Privateers,2010-01-28,-93.55132712817334,included_game_day
+2010,2443,LSU New Orleans Privateers,2010-01-30,-101.79950409096418,included_game_day
+2010,2443,LSU New Orleans Privateers,2010-02-04,-107.48656186841663,included_game_day
+2010,2443,LSU New Orleans Privateers,2010-02-06,-114.16532396502757,included_game_day
+2010,2443,LSU New Orleans Privateers,2010-02-11,-127.56718827695961,included_game_day
+2010,2443,LSU New Orleans Privateers,2010-02-18,-109.65522214639832,included_game_day
+2010,2443,LSU New Orleans Privateers,2010-02-20,-111.82106980856952,included_game_day
+2010,2443,LSU New Orleans Privateers,2010-02-25,-104.13540649360569,included_game_day
+2010,2443,LSU New Orleans Privateers,2010-02-27,-105.29830523918965,included_game_day
+2010,2443,LSU New Orleans Privateers,2010-03-06,-112.19122219046358,included_game_day
+2011,2443,LSU New Orleans Privateers,2010-12-14,-3.72853638,included_game_day
+2013,2443,LSU New Orleans Privateers,2012-11-09,1.0,included_game_day
+2013,2443,LSU New Orleans Privateers,2012-11-12,-19.1,included_game_day
+2013,2443,LSU New Orleans Privateers,2012-11-15,-27.67,included_game_day
+2013,2443,LSU New Orleans Privateers,2012-11-26,-37.244,included_game_day
+2013,2443,LSU New Orleans Privateers,2012-11-29,-53.171461,included_game_day
+2013,2443,LSU New Orleans Privateers,2012-12-08,-64.10421381881,included_game_day
+2013,2443,LSU New Orleans Privateers,2012-12-12,-63.489060332799,included_game_day
+2013,2443,LSU New Orleans Privateers,2012-12-17,-64.1432617714247,included_game_day
+2013,2443,LSU New Orleans Privateers,2012-12-19,-78.77414541493523,included_game_day
+2013,2443,LSU New Orleans Privateers,2012-12-23,-80.35284131549108,included_game_day
+2013,2443,LSU New Orleans Privateers,2013-01-03,-124.23418300302156,included_game_day
+2013,2443,LSU New Orleans Privateers,2013-01-05,-113.98658084227029,included_game_day
+2013,2443,LSU New Orleans Privateers,2013-01-08,-106.8160368833325,included_game_day
+2013,2443,LSU New Orleans Privateers,2013-01-19,-128.03073255314044,included_game_day
+2013,2443,LSU New Orleans Privateers,2013-01-21,-120.61084695384567,included_game_day
+2013,2443,LSU New Orleans Privateers,2013-01-23,-146.49964013159436,included_game_day
+2013,2443,LSU New Orleans Privateers,2013-02-06,-140.52289823656383,included_game_day
+2013,2443,LSU New Orleans Privateers,2013-02-09,-146.47617843263257,included_game_day
+2013,2443,LSU New Orleans Privateers,2013-02-21,-160.10977137069221,included_game_day
+2013,2443,LSU New Orleans Privateers,2013-02-23,-163.64471704723778,included_game_day
+2013,2443,LSU New Orleans Privateers,2013-02-25,-164.81954285675172,included_game_day
+2013,2443,LSU New Orleans Privateers,2013-03-03,-167.97751155001777,included_game_day
+2014,2443,LSU New Orleans Privateers,2013-11-19,-22.454900000000002,included_game_day
+2014,2443,LSU New Orleans Privateers,2013-11-23,-39.39041,included_game_day
+2014,2443,LSU New Orleans Privateers,2013-11-28,-64.508369,included_game_day
+2014,2443,LSU New Orleans Privateers,2013-12-07,-65.30054351,included_game_day
+2014,2443,LSU New Orleans Privateers,2013-12-16,-54.250914936099996,included_game_day
+2014,2443,LSU New Orleans Privateers,2013-12-28,-89.26463976650894,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-01-02,-89.04777727627862,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-01-04,-99.61087751371603,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-01-09,-98.44878475934443,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-01-11,-116.70854217131418,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-01-16,-96.77631163902402,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-01-18,-96.34591427381105,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-01-23,-83.32056724233269,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-01-25,-65.48166119451585,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-01-30,-55.45784607652306,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-02-06,-69.6698903831784,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-02-08,-60.53806575713432,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-02-13,-59.82774637303439,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-02-16,-69.04405557490838,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-02-20,-63.531862234496074,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-02-27,-93.94607686764127,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-03-01,-100.06698006509434,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-03-06,-116.92861237063613,included_game_day
+2014,2443,LSU New Orleans Privateers,2014-03-08,-123.48356431556472,included_game_day
+2015,2443,LSU New Orleans Privateers,2014-11-20,-8.44,included_game_day
+2015,2443,LSU New Orleans Privateers,2014-11-28,-21.40842,included_game_day
+2015,2443,LSU New Orleans Privateers,2014-11-30,-35.925708,included_game_day
+2015,2443,LSU New Orleans Privateers,2014-12-13,-50.15048618303,included_game_day
+2015,2443,LSU New Orleans Privateers,2014-12-19,-36.432717868935995,included_game_day
+2015,2443,LSU New Orleans Privateers,2014-12-22,-40.5832088136195,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-01-05,-39.76815485174822,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-01-10,-40.24573185293995,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-01-12,-65.32913108082683,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-01-17,-63.86298125836029,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-01-19,-70.7217237592586,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-01-24,-74.53555014863666,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-01-26,-70.25708928680477,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-01-31,-73.47730564433542,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-02-02,-88.27748126837656,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-02-07,-98.39152710283533,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-02-09,-87.38261406042245,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-02-16,-78.28331098952127,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-02-21,-77.70356295231264,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-02-23,-71.75160299107318,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-02-28,-60.41139804465288,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-03-02,-77.99571735200877,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-03-05,-74.99398567654548,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-03-07,-75.10257739250497,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-03-11,-66.9355565427214,included_game_day
+2015,2443,LSU New Orleans Privateers,2015-03-12,-61.124513330151615,included_game_day
+2016,2443,LSU New Orleans Privateers,2015-11-14,-15.0,included_game_day
+2016,2443,LSU New Orleans Privateers,2015-11-16,-30.5,included_game_day
+2016,2443,LSU New Orleans Privateers,2015-11-25,-15.9494,included_game_day
+2016,2443,LSU New Orleans Privateers,2015-11-28,-37.104003000000006,included_game_day
+2016,2443,LSU New Orleans Privateers,2015-12-02,-30.160508700000005,included_game_day
+2016,2443,LSU New Orleans Privateers,2015-12-05,-35.74756296,included_game_day
+2016,2443,LSU New Orleans Privateers,2015-12-16,-33.91414141454101,included_game_day
+2016,2443,LSU New Orleans Privateers,2015-12-21,-38.676171104986544,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-01-04,-28.215167031720537,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-01-09,-28.064124658667446,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-01-11,-33.90622347404876,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-01-16,-40.68911660936644,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-01-18,-58.662057008327736,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-01-23,-71.0495597404938,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-01-25,-64.72063267627625,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-01-30,-58.27752172199998,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-02-01,-47.317393373667784,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-02-06,-85.30205303325863,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-02-11,-95.89899674843116,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-02-15,-97.38436539838433,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-02-20,-89.51334154364372,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-02-24,-98.21832806919164,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-02-27,-96.07868980733241,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-02-29,-100.59144743904395,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-03-03,-100.88093581968853,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-03-05,-92.6291973642874,included_game_day
+2016,2443,LSU New Orleans Privateers,2016-03-09,-101.8108214800809,included_game_day
+2017,2443,LSU New Orleans Privateers,2016-11-16,-38.33,included_game_day
+2017,2443,LSU New Orleans Privateers,2016-11-19,-43.43,included_game_day
+2017,2443,LSU New Orleans Privateers,2016-11-22,-67.491,included_game_day
+2017,2443,LSU New Orleans Privateers,2016-11-29,-52.14443,included_game_day
+2017,2443,LSU New Orleans Privateers,2016-12-03,-29.423365554,included_game_day
+2017,2443,LSU New Orleans Privateers,2016-12-11,-50.1489319556,included_game_day
+2017,2443,LSU New Orleans Privateers,2016-12-17,-48.9050140302299,included_game_day
+2017,2443,LSU New Orleans Privateers,2016-12-19,-51.14998628180291,included_game_day
+2017,2443,LSU New Orleans Privateers,2016-12-29,-43.6732895058997,included_game_day
+2017,2443,LSU New Orleans Privateers,2016-12-31,-42.38605966837076,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-01-05,-34.63133404862353,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-01-07,-18.69042128839986,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-01-12,-26.398868617692806,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-01-19,-24.062459310557614,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-01-21,-10.202843927682611,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-01-26,-1.7738482559439035,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-01-28,-11.730708103761756,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-02-01,-16.076314782024113,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-02-04,-19.918898008515264,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-02-09,-18.204477143265247,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-02-11,-7.712932762215173,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-02-18,6.34995115661042,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-02-23,18.753645329086044,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-02-25,8.315596123119327,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-03-02,-4.480946688882945,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-03-04,-0.4483188569820111,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-03-10,6.88400281536756,included_game_day
+2017,2443,LSU New Orleans Privateers,2017-03-11,9.103169473316935,included_game_day
+2018,2443,LSU New Orleans Privateers,2017-11-10,-13.0,included_game_day
+2018,2443,LSU New Orleans Privateers,2017-11-13,-26.6,included_game_day
+2018,2443,LSU New Orleans Privateers,2017-11-21,-32.52,included_game_day
+2018,2443,LSU New Orleans Privateers,2017-11-26,-30.010488000000002,included_game_day
+2018,2443,LSU New Orleans Privateers,2017-11-29,-27.403182400000002,included_game_day
+2018,2443,LSU New Orleans Privateers,2017-12-13,-25.710749850490004,included_game_day
+2018,2443,LSU New Orleans Privateers,2017-12-16,-37.249740655832,included_game_day
+2018,2443,LSU New Orleans Privateers,2017-12-20,-31.494727477492752,included_game_day
+2018,2443,LSU New Orleans Privateers,2017-12-28,-29.86698727695068,included_game_day
+2018,2443,LSU New Orleans Privateers,2017-12-30,-26.608060594895086,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-01-03,-16.861239406020186,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-01-06,-11.703071196912305,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-01-10,-14.380430762995651,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-01-13,-19.749610992531156,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-01-17,-45.65790974746703,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-01-20,-52.32170069343245,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-01-24,-52.60294378129069,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-01-27,-47.14465842045714,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-01-31,-42.43855734473417,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-02-03,-58.5251312902031,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-02-10,-45.92409795198871,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-02-14,-46.11565248306648,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-02-17,-32.75882845217651,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-02-21,-29.62732645001021,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-02-24,-33.84666757420379,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-02-28,-36.30528983081449,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-03-07,-32.0116883582183,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-03-08,-53.60903819749282,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-03-14,-57.81223320994485,included_game_day
+2018,2443,LSU New Orleans Privateers,2018-03-19,-52.54661850990981,included_game_day
+2019,2443,LSU New Orleans Privateers,2018-11-08,-27.0,included_game_day
+2019,2443,LSU New Orleans Privateers,2018-11-14,-27.8,included_game_day
+2019,2443,LSU New Orleans Privateers,2018-11-28,-32.6676266,included_game_day
+2019,2443,LSU New Orleans Privateers,2018-12-05,-23.6780377158,included_game_day
+2019,2443,LSU New Orleans Privateers,2018-12-13,-26.08553511638,included_game_day
+2019,2443,LSU New Orleans Privateers,2018-12-20,-55.668720749560705,included_game_day
+2019,2443,LSU New Orleans Privateers,2018-12-29,-82.62828557619072,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-01-02,-80.01818431713785,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-01-05,-74.7602741363979,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-01-09,-61.16531345596559,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-01-12,-50.972778612053276,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-01-16,-46.72611586368139,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-01-19,-60.3211901845808,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-01-23,-61.46536299023545,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-01-26,-54.76026354021308,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-01-30,-56.095385342786486,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-02-02,-48.7301164202487,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-02-06,-43.243191477739146,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-02-09,-53.375200123429416,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-02-16,-46.29159368932993,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-02-20,-23.83003198434519,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-02-23,-20.330062976288986,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-02-27,-30.50788094803009,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-03-02,-21.862957967952987,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-03-06,-31.33528309960162,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-03-14,-23.000251202366247,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-03-15,-16.559327575742,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-03-16,-29.050046495141373,included_game_day
+2019,2443,LSU New Orleans Privateers,2019-03-20,-38.205497314492,included_game_day
+2020,2443,LSU New Orleans Privateers,2019-11-09,-20.0,included_game_day
+2020,2443,LSU New Orleans Privateers,2019-11-12,-27.4,included_game_day
+2020,2443,LSU New Orleans Privateers,2019-11-17,-42.3655,included_game_day
+2020,2443,LSU New Orleans Privateers,2019-11-24,-43.54989,included_game_day
+2020,2443,LSU New Orleans Privateers,2019-12-03,-66.07867844,included_game_day
+2020,2443,LSU New Orleans Privateers,2019-12-18,-70.28534306149001,included_game_day
+2020,2443,LSU New Orleans Privateers,2019-12-21,-67.7516862613281,included_game_day
+2020,2443,LSU New Orleans Privateers,2019-12-28,-88.99756596536825,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-01-02,-93.48033268406894,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-01-04,-100.85761168966556,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-01-08,-97.54749364107863,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-01-11,-99.84437000379596,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-01-15,-94.11124116578998,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-01-18,-104.80872596120406,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-01-22,-101.02585805674495,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-01-25,-101.16235109756427,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-01-29,-108.56990267069526,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-02-01,-94.45576389166791,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-02-08,-84.64930971637267,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-02-12,-82.90079689578874,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-02-15,-91.37935303156517,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-02-22,-80.37345114043802,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-02-26,-90.07774931279539,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-02-29,-105.90474710203847,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-03-04,-122.25819134980843,included_game_day
+2020,2443,LSU New Orleans Privateers,2020-03-07,-115.0720166987831,included_game_day
+2021,2443,LSU New Orleans Privateers,2020-11-26,-22.0,included_game_day
+2021,2443,LSU New Orleans Privateers,2020-11-29,-45.8,included_game_day
+2021,2443,LSU New Orleans Privateers,2020-12-02,-50.22,included_game_day
+2021,2443,LSU New Orleans Privateers,2020-12-09,-53.8044,included_game_day
+2021,2443,LSU New Orleans Privateers,2020-12-10,-53.88156,included_game_day
+2021,2443,LSU New Orleans Privateers,2020-12-15,-57.64216462,included_game_day
+2021,2443,LSU New Orleans Privateers,2020-12-21,-60.100293115,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-01-02,-64.6450284835,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-01-06,-63.026383884401,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-01-09,-41.10678239123435,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-01-16,-34.46613472688692,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-01-20,-21.522640853120667,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-01-23,-40.73717438353016,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-01-27,-50.5620323513316,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-01-30,-57.66366256972633,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-02-15,-62.72469441243128,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-02-22,-48.01461029277033,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-02-24,-41.92909383074465,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-02-27,-45.180709718712414,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-03-01,-30.2147110502046,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-03-03,-29.004379764679793,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-03-06,-36.03318123204075,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-03-10,-25.976518900367083,included_game_day
+2021,2443,LSU New Orleans Privateers,2021-03-11,-34.01722682445043,included_game_day
+2022,2443,LSU New Orleans Privateers,2021-11-09,-18.0,included_game_day
+2022,2443,LSU New Orleans Privateers,2021-11-16,-24.11,included_game_day
+2022,2443,LSU New Orleans Privateers,2021-11-19,-29.579,included_game_day
+2022,2443,LSU New Orleans Privateers,2021-11-24,-10.87661,included_game_day
+2022,2443,LSU New Orleans Privateers,2021-11-25,-17.196084,included_game_day
+2022,2443,LSU New Orleans Privateers,2021-11-26,-11.633723999999999,included_game_day
+2022,2443,LSU New Orleans Privateers,2021-11-30,-23.01948672,included_game_day
+2022,2443,LSU New Orleans Privateers,2021-12-03,-33.293505048,included_game_day
+2022,2443,LSU New Orleans Privateers,2021-12-11,-54.8153782596597,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-01-06,-65.76664216138923,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-01-07,-53.42451336507142,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-01-08,-61.29421160801109,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-01-15,-45.88752216773976,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-01-20,-43.473968661091526,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-01-22,-46.510575536572915,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-01-27,-37.46794860566452,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-01-30,-31.7021930948023,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-02-03,-19.21900841889969,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-02-05,-36.05317372785444,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-02-10,-30.383209456236884,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-02-12,-15.22285117611569,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-02-19,-10.997222636990863,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-02-24,-18.79320454211438,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-02-26,-33.757301097761584,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-03-02,-41.807727099183786,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-03-05,-41.518100886806145,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-03-10,-42.088886808876396,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-03-11,-52.00682705742861,included_game_day
+2022,2443,LSU New Orleans Privateers,2022-03-19,-64.85255244995491,included_game_day
+2023,2443,LSU New Orleans Privateers,2022-11-07,-33.0,included_game_day
+2023,2443,LSU New Orleans Privateers,2022-11-17,-54.379999999999995,included_game_day
+2023,2443,LSU New Orleans Privateers,2022-11-23,-62.64834999999999,included_game_day
+2023,2443,LSU New Orleans Privateers,2022-11-24,-65.341055,included_game_day
+2023,2443,LSU New Orleans Privateers,2022-11-25,-61.644574999999996,included_game_day
+2023,2443,LSU New Orleans Privateers,2022-12-03,-57.9753907,included_game_day
+2023,2443,LSU New Orleans Privateers,2022-12-10,-86.416391563273,included_game_day
+2023,2443,LSU New Orleans Privateers,2022-12-13,-109.19939329906242,included_game_day
+2023,2443,LSU New Orleans Privateers,2022-12-21,-106.1187728810308,included_game_day
+2023,2443,LSU New Orleans Privateers,2022-12-30,-110.51012405203085,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-01-05,-90.19883800410696,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-01-07,-73.99667660908773,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-01-12,-67.80775049029634,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-01-14,-76.42149663282271,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-01-19,-83.4737689414908,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-01-21,-103.59577794284381,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-01-26,-101.18905618703369,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-01-28,-116.26367878238558,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-02-02,-126.99383704510353,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-02-04,-134.20217355921076,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-02-09,-148.32161321919426,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-02-11,-147.50136432367782,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-02-16,-131.00827132759562,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-02-18,-112.24422706227864,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-02-23,-102.34144575684057,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-02-25,-96.67447942191605,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-03-01,-102.06569267650089,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-03-05,-82.04348439239911,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-03-06,-73.36101547488943,included_game_day
+2023,2443,LSU New Orleans Privateers,2023-03-07,-71.8768356875118,included_game_day
+2024,2443,LSU New Orleans Privateers,2023-11-18,-0.1379999999999999,included_game_day
+2024,2443,LSU New Orleans Privateers,2023-11-20,-25.48668,included_game_day
+2024,2443,LSU New Orleans Privateers,2023-11-25,-26.89515,included_game_day
+2024,2443,LSU New Orleans Privateers,2023-11-26,-22.6550185,included_game_day
+2024,2443,LSU New Orleans Privateers,2023-11-30,-47.59209954,included_game_day
+2024,2443,LSU New Orleans Privateers,2023-12-09,-44.9200357168,included_game_day
+2024,2443,LSU New Orleans Privateers,2023-12-11,-44.49268239876,included_game_day
+2024,2443,LSU New Orleans Privateers,2023-12-21,-69.9720905518984,included_game_day
+2024,2443,LSU New Orleans Privateers,2023-12-29,-89.35073647799611,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-01-06,-96.36687927614943,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-01-08,-95.77733462737712,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-01-13,-87.97453484385849,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-01-15,-83.72511143511355,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-01-20,-115.1453274523154,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-01-22,-120.15471149123847,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-01-27,-137.3966009501196,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-01-29,-148.23514230480302,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-02-03,-149.06143102083345,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-02-05,-124.35242859313061,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-02-10,-126.19425194235933,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-02-12,-131.69352461381723,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-02-17,-145.76021970542897,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-02-19,-153.23735769188073,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-02-24,-150.7869459529368,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-03-02,-137.42543481479422,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-03-04,-131.71564156889914,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-03-06,-137.34284465340636,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-03-10,-119.42525452494178,included_game_day
+2024,2443,LSU New Orleans Privateers,2024-03-11,-122.54477327287154,included_game_day
+2025,2443,LSU New Orleans Privateers,2024-11-05,-21.0,included_game_day
+2025,2443,LSU New Orleans Privateers,2024-11-09,-38.2,included_game_day
+2025,2443,LSU New Orleans Privateers,2024-11-14,-29.380000000000003,included_game_day
+2025,2443,LSU New Orleans Privateers,2024-11-15,-57.849000000000004,included_game_day
+2025,2443,LSU New Orleans Privateers,2024-11-17,-60.993,included_game_day
+2025,2443,LSU New Orleans Privateers,2024-11-22,-42.939255,included_game_day
+2025,2443,LSU New Orleans Privateers,2024-11-27,-61.159777000000005,included_game_day
+2025,2443,LSU New Orleans Privateers,2024-12-07,-58.89377745827001,included_game_day
+2025,2443,LSU New Orleans Privateers,2024-12-15,-89.99728576027545,included_game_day
+2025,2443,LSU New Orleans Privateers,2024-12-19,-101.21637007177905,included_game_day
+2025,2443,LSU New Orleans Privateers,2024-12-22,-95.03434362876975,included_game_day
+2025,2443,LSU New Orleans Privateers,2024-12-28,-105.41778479083922,included_game_day
+2025,2443,LSU New Orleans Privateers,2024-12-30,-123.18250070070664,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-01-04,-127.71787499071645,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-01-06,-131.86797897552137,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-01-11,-145.11656571865814,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-01-13,-123.0573722437833,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-01-18,-109.95493481184718,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-01-20,-113.23865376526786,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-01-25,-118.60847751425953,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-01-27,-132.11602817359434,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-02-01,-124.95575660008213,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-02-03,-124.80520492053651,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-02-08,-125.19580594298435,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-02-10,-123.07149368867869,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-02-15,-121.33211960464243,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-02-17,-129.0539560664843,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-02-22,-131.27556047547944,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-02-24,-133.4472634045354,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-03-01,-133.93441991774174,included_game_day
+2025,2443,LSU New Orleans Privateers,2025-03-03,-151.1533605818433,included_game_day
+2026,2443,LSU New Orleans Privateers,2025-11-03,7.0,included_game_day
+2026,2443,LSU New Orleans Privateers,2025-11-10,-22.57,included_game_day
+2026,2443,LSU New Orleans Privateers,2025-11-14,6.289999999999999,included_game_day
+2026,2443,LSU New Orleans Privateers,2025-11-18,-4.032,included_game_day
+2026,2443,LSU New Orleans Privateers,2025-11-21,-9.531908999999999,included_game_day
+2026,2443,LSU New Orleans Privateers,2025-11-24,-9.2952281,included_game_day
+2026,2443,LSU New Orleans Privateers,2025-11-26,-34.4477774,included_game_day
+2026,2443,LSU New Orleans Privateers,2025-12-03,-43.399989060799996,included_game_day
+2026,2443,LSU New Orleans Privateers,2025-12-06,-53.34675626926,included_game_day
+2026,2443,LSU New Orleans Privateers,2025-12-08,-52.276666339211,included_game_day
+2026,2443,LSU New Orleans Privateers,2025-12-13,-74.3892288057465,included_game_day
+2026,2443,LSU New Orleans Privateers,2025-12-29,-48.07358485121165,included_game_day
+2026,2443,LSU New Orleans Privateers,2025-12-31,-58.67392301740483,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-01-03,-63.7039483849384,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-01-05,-60.62445452740212,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-01-10,-72.47133215626347,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-01-12,-62.66376666248079,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-01-17,-57.88983900629259,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-01-19,-43.129959118845505,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-01-24,-46.72644667394328,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-01-27,-26.00204801992029,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-01-31,-19.659628803277137,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-02-02,-14.650636304502187,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-02-07,-33.589066513361246,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-02-09,-30.024688747082582,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-02-14,-31.539667766302554,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-02-16,-19.88551234532145,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-02-21,-10.553115893133395,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-02-23,3.6560927641700864,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-02-28,6.592676814199681,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-03-02,-10.046942136395025,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-03-08,-2.418424425238017,included_game_day
+2026,2443,LSU New Orleans Privateers,2026-03-09,-16.486595932894843,included_game_day
+2027,2443,LSU New Orleans Privateers,2026-11-03,-40.0,included_game_day
+2027,2443,LSU New Orleans Privateers,2026-11-18,-68.9571,included_game_day
+2027,2443,LSU New Orleans Privateers,2026-11-21,-63.0442373,included_game_day

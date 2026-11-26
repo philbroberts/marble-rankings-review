@@ -1,0 +1,1158 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,107,Holy Cross,1987-11-30,4.26,included_game_day
+1988,107,Holy Cross,1987-12-02,-17.866,included_game_day
+1988,107,Holy Cross,1987-12-05,-7.900399999999999,included_game_day
+1988,107,Holy Cross,1987-12-09,12.943325,included_game_day
+1988,107,Holy Cross,1987-12-12,-16.84735234,included_game_day
+1988,107,Holy Cross,1987-12-22,-23.002880585800003,included_game_day
+1988,107,Holy Cross,1987-12-27,-32.37865622122,included_game_day
+1988,107,Holy Cross,1987-12-30,-42.0293044427647,included_game_day
+1988,107,Holy Cross,1988-01-07,-54.82159283201851,included_game_day
+1988,107,Holy Cross,1988-01-11,-65.20857230976642,included_game_day
+1988,107,Holy Cross,1988-01-14,-64.90122799102045,included_game_day
+1988,107,Holy Cross,1988-01-16,-47.22025839331613,included_game_day
+1988,107,Holy Cross,1988-01-18,-19.45181856154735,included_game_day
+1988,107,Holy Cross,1988-01-20,-22.28648141028868,included_game_day
+1988,107,Holy Cross,1988-01-23,-18.99174460650333,included_game_day
+1988,107,Holy Cross,1988-01-27,-14.388685303753,included_game_day
+1988,107,Holy Cross,1988-01-30,3.2904307209029398,included_game_day
+1988,107,Holy Cross,1988-02-04,5.222412044751795,included_game_day
+1988,107,Holy Cross,1988-02-06,2.67200985422439,included_game_day
+1988,107,Holy Cross,1988-02-09,-0.3871211398238099,included_game_day
+1988,107,Holy Cross,1988-02-12,-9.018161708272908,included_game_day
+1988,107,Holy Cross,1988-02-15,-6.256283638056758,included_game_day
+1988,107,Holy Cross,1988-02-17,-19.950850828798128,included_game_day
+1988,107,Holy Cross,1988-02-20,-25.39448657293536,included_game_day
+1988,107,Holy Cross,1988-02-24,-22.662425035839775,included_game_day
+1988,107,Holy Cross,1988-02-27,-3.6133172462765657,included_game_day
+1988,107,Holy Cross,1988-03-03,-6.9384654814033695,included_game_day
+1988,107,Holy Cross,1988-03-04,-22.622506651622167,included_game_day
+1989,107,Holy Cross,1988-11-30,13.758,included_game_day
+1989,107,Holy Cross,1988-12-03,31.565099999999997,included_game_day
+1989,107,Holy Cross,1988-12-07,43.531589999999994,included_game_day
+1989,107,Holy Cross,1988-12-10,46.88420599999999,included_game_day
+1989,107,Holy Cross,1988-12-17,47.329177146999996,included_game_day
+1989,107,Holy Cross,1988-12-22,38.9729839023,included_game_day
+1989,107,Holy Cross,1988-12-28,27.83348065492362,included_game_day
+1989,107,Holy Cross,1988-12-29,5.781628638025062,included_game_day
+1989,107,Holy Cross,1989-01-03,16.648832015768114,included_game_day
+1989,107,Holy Cross,1989-01-05,14.016202312404001,included_game_day
+1989,107,Holy Cross,1989-01-09,7.302926927515845,included_game_day
+1989,107,Holy Cross,1989-01-12,7.458982602677732,included_game_day
+1989,107,Holy Cross,1989-01-14,4.491493472124255,included_game_day
+1989,107,Holy Cross,1989-01-19,-3.23881483495114,included_game_day
+1989,107,Holy Cross,1989-01-21,-14.090227613746308,included_game_day
+1989,107,Holy Cross,1989-01-25,-5.203017815222491,included_game_day
+1989,107,Holy Cross,1989-01-28,-18.232524926613998,included_game_day
+1989,107,Holy Cross,1989-01-30,-13.589946286303594,included_game_day
+1989,107,Holy Cross,1989-02-04,-23.782432162813116,included_game_day
+1989,107,Holy Cross,1989-02-06,-23.324475723077004,included_game_day
+1989,107,Holy Cross,1989-02-11,-17.651904248783417,included_game_day
+1989,107,Holy Cross,1989-02-13,-18.520964019796384,included_game_day
+1989,107,Holy Cross,1989-02-15,-16.897824602686974,included_game_day
+1989,107,Holy Cross,1989-02-18,0.7708975217295055,included_game_day
+1989,107,Holy Cross,1989-02-21,-8.419892240711448,included_game_day
+1989,107,Holy Cross,1989-02-25,-31.538789154608352,included_game_day
+1989,107,Holy Cross,1989-03-02,-38.597322472667955,included_game_day
+1990,107,Holy Cross,1989-11-27,23.7,included_game_day
+1990,107,Holy Cross,1989-11-29,22.762900000000002,included_game_day
+1990,107,Holy Cross,1989-12-02,14.099610000000002,included_game_day
+1990,107,Holy Cross,1989-12-06,21.436648000000005,included_game_day
+1990,107,Holy Cross,1989-12-09,34.466944100000006,included_game_day
+1990,107,Holy Cross,1989-12-16,52.9813171934,included_game_day
+1990,107,Holy Cross,1989-12-20,42.9805834959286,included_game_day
+1990,107,Holy Cross,1989-12-22,37.88097985374574,included_game_day
+1990,107,Holy Cross,1990-01-03,53.38523510659102,included_game_day
+1990,107,Holy Cross,1990-01-04,71.56914779487063,included_game_day
+1990,107,Holy Cross,1990-01-09,69.43833593959772,included_game_day
+1990,107,Holy Cross,1990-01-11,69.71535159575933,included_game_day
+1990,107,Holy Cross,1990-01-16,56.88988997065284,included_game_day
+1990,107,Holy Cross,1990-01-20,50.81644991038756,included_game_day
+1990,107,Holy Cross,1990-01-22,42.93634347894607,included_game_day
+1990,107,Holy Cross,1990-01-27,34.998217919602936,included_game_day
+1990,107,Holy Cross,1990-01-29,41.23495432870001,included_game_day
+1990,107,Holy Cross,1990-02-01,41.69114011556894,included_game_day
+1990,107,Holy Cross,1990-02-03,40.11668666691197,included_game_day
+1990,107,Holy Cross,1990-02-06,60.91357182168122,included_game_day
+1990,107,Holy Cross,1990-02-08,63.765134207064136,included_game_day
+1990,107,Holy Cross,1990-02-10,54.08905894911065,included_game_day
+1990,107,Holy Cross,1990-02-15,40.8511783153967,included_game_day
+1990,107,Holy Cross,1990-02-17,51.85211657542095,included_game_day
+1990,107,Holy Cross,1990-02-23,63.85154948096167,included_game_day
+1990,107,Holy Cross,1990-02-25,65.66065735452241,included_game_day
+1990,107,Holy Cross,1990-03-03,78.31677659017383,included_game_day
+1990,107,Holy Cross,1990-03-04,63.240103657925886,included_game_day
+1990,107,Holy Cross,1990-03-15,53.46579309872193,included_game_day
+1991,107,Holy Cross,1990-11-27,-14.0,included_game_day
+1991,107,Holy Cross,1990-11-30,-11.49,included_game_day
+1991,107,Holy Cross,1990-12-01,-11.4588,included_game_day
+1991,107,Holy Cross,1990-12-05,5.749279999999999,included_game_day
+1991,107,Holy Cross,1990-12-08,4.537541999999999,included_game_day
+1991,107,Holy Cross,1990-12-15,14.071773889,included_game_day
+1991,107,Holy Cross,1990-12-19,23.6729571501,included_game_day
+1991,107,Holy Cross,1990-12-28,19.20880836309,included_game_day
+1991,107,Holy Cross,1990-12-29,26.913970207082738,included_game_day
+1991,107,Holy Cross,1991-01-02,9.283810452465222,included_game_day
+1991,107,Holy Cross,1991-01-05,17.6389306182786,included_game_day
+1991,107,Holy Cross,1991-01-10,17.202365848313537,included_game_day
+1991,107,Holy Cross,1991-01-12,21.161008891406198,included_game_day
+1991,107,Holy Cross,1991-01-21,26.815890141824646,included_game_day
+1991,107,Holy Cross,1991-01-23,30.209072744029843,included_game_day
+1991,107,Holy Cross,1991-01-26,26.989791829171402,included_game_day
+1991,107,Holy Cross,1991-01-28,27.59644493657953,included_game_day
+1991,107,Holy Cross,1991-01-31,25.403423200888593,included_game_day
+1991,107,Holy Cross,1991-02-02,15.560211497812224,included_game_day
+1991,107,Holy Cross,1991-02-06,11.719890208135679,included_game_day
+1991,107,Holy Cross,1991-02-09,-1.0418834475317755,included_game_day
+1991,107,Holy Cross,1991-02-11,-26.34446823129027,included_game_day
+1991,107,Holy Cross,1991-02-16,-9.869066555854321,included_game_day
+1991,107,Holy Cross,1991-02-20,-4.998392830313188,included_game_day
+1991,107,Holy Cross,1991-02-23,-5.285582176315472,included_game_day
+1991,107,Holy Cross,1991-02-25,-9.288043493323363,included_game_day
+1991,107,Holy Cross,1991-02-28,-2.545146234579393,included_game_day
+1991,107,Holy Cross,1991-03-01,2.770323052253776,included_game_day
+1991,107,Holy Cross,1991-03-02,0.6103270744910825,included_game_day
+1992,107,Holy Cross,1991-11-30,-7.53,included_game_day
+1992,107,Holy Cross,1991-12-04,9.924,included_game_day
+1992,107,Holy Cross,1991-12-07,4.184689,included_game_day
+1992,107,Holy Cross,1991-12-10,0.6421620999999997,included_game_day
+1992,107,Holy Cross,1991-12-12,-8.19767301,included_game_day
+1992,107,Holy Cross,1991-12-15,-3.0350706167000006,included_game_day
+1992,107,Holy Cross,1991-12-22,0.9760701341899995,included_game_day
+1992,107,Holy Cross,1991-12-29,0.8778165794709993,included_game_day
+1992,107,Holy Cross,1991-12-30,2.9366892307929,included_game_day
+1992,107,Holy Cross,1992-01-04,24.392580194889643,included_game_day
+1992,107,Holy Cross,1992-01-06,38.50265544689068,included_game_day
+1992,107,Holy Cross,1992-01-11,35.51282196840903,included_game_day
+1992,107,Holy Cross,1992-01-15,50.227209938181666,included_game_day
+1992,107,Holy Cross,1992-01-18,49.65516470165926,included_game_day
+1992,107,Holy Cross,1992-01-21,45.47767683382726,included_game_day
+1992,107,Holy Cross,1992-01-25,20.30035761541446,included_game_day
+1992,107,Holy Cross,1992-01-29,28.87298435320455,included_game_day
+1992,107,Holy Cross,1992-02-01,18.790742505137118,included_game_day
+1992,107,Holy Cross,1992-02-05,16.359393658357583,included_game_day
+1992,107,Holy Cross,1992-02-08,3.7212105771792263,included_game_day
+1992,107,Holy Cross,1992-02-12,24.468318492122776,included_game_day
+1992,107,Holy Cross,1992-02-15,9.782777578513851,included_game_day
+1992,107,Holy Cross,1992-02-17,3.1381602667746016,included_game_day
+1992,107,Holy Cross,1992-02-19,3.1961623047942496,included_game_day
+1992,107,Holy Cross,1992-02-22,23.194909551375225,included_game_day
+1992,107,Holy Cross,1992-02-29,40.326129345105485,included_game_day
+1992,107,Holy Cross,1992-03-07,49.37663001388082,included_game_day
+1992,107,Holy Cross,1992-03-08,37.27811697101514,included_game_day
+1993,107,Holy Cross,1992-12-01,23.0,included_game_day
+1993,107,Holy Cross,1992-12-05,18.66,included_game_day
+1993,107,Holy Cross,1992-12-09,27.8,included_game_day
+1993,107,Holy Cross,1992-12-11,30.307000000000002,included_game_day
+1993,107,Holy Cross,1992-12-21,35.855588000000004,included_game_day
+1993,107,Holy Cross,1992-12-28,20.790957098000003,included_game_day
+1993,107,Holy Cross,1992-12-29,34.544443252508,included_game_day
+1993,107,Holy Cross,1993-01-02,13.697699295963204,included_game_day
+1993,107,Holy Cross,1993-01-04,22.634745588062884,included_game_day
+1993,107,Holy Cross,1993-01-06,22.633978617999574,included_game_day
+1993,107,Holy Cross,1993-01-09,18.996590325426425,included_game_day
+1993,107,Holy Cross,1993-01-13,11.177712163820306,included_game_day
+1993,107,Holy Cross,1993-01-16,18.61153076776241,included_game_day
+1993,107,Holy Cross,1993-01-20,22.162635308150968,included_game_day
+1993,107,Holy Cross,1993-01-23,33.56272701458535,included_game_day
+1993,107,Holy Cross,1993-01-25,46.73529991533587,included_game_day
+1993,107,Holy Cross,1993-01-27,60.130777694759175,included_game_day
+1993,107,Holy Cross,1993-01-30,56.813784260139926,included_game_day
+1993,107,Holy Cross,1993-02-03,42.83256571690224,included_game_day
+1993,107,Holy Cross,1993-02-06,58.958713664431045,included_game_day
+1993,107,Holy Cross,1993-02-08,63.456279685529125,included_game_day
+1993,107,Holy Cross,1993-02-11,64.74465134853114,included_game_day
+1993,107,Holy Cross,1993-02-13,61.86623441844326,included_game_day
+1993,107,Holy Cross,1993-02-17,70.6319984805715,included_game_day
+1993,107,Holy Cross,1993-02-20,75.79353026986345,included_game_day
+1993,107,Holy Cross,1993-02-27,65.50197474848255,included_game_day
+1993,107,Holy Cross,1993-03-03,58.77883403585745,included_game_day
+1993,107,Holy Cross,1993-03-06,54.57782824484979,included_game_day
+1993,107,Holy Cross,1993-03-10,82.84318775690087,included_game_day
+1993,107,Holy Cross,1993-03-18,57.765617453537715,included_game_day
+1994,107,Holy Cross,1993-11-22,-2.0,included_game_day
+1994,107,Holy Cross,1993-12-04,-14.768,included_game_day
+1994,107,Holy Cross,1993-12-07,-10.680200000000001,included_game_day
+1994,107,Holy Cross,1993-12-11,-23.4785787,included_game_day
+1994,107,Holy Cross,1993-12-20,-39.393614029999995,included_game_day
+1994,107,Holy Cross,1993-12-29,-50.870947128160296,included_game_day
+1994,107,Holy Cross,1993-12-30,-33.45408134704564,included_game_day
+1994,107,Holy Cross,1994-01-05,-31.02480791429034,included_game_day
+1994,107,Holy Cross,1994-01-08,-41.244587461336266,included_game_day
+1994,107,Holy Cross,1994-01-12,-38.30587749537177,included_game_day
+1994,107,Holy Cross,1994-01-15,-46.93740945347068,included_game_day
+1994,107,Holy Cross,1994-01-18,-58.83005542315787,included_game_day
+1994,107,Holy Cross,1994-01-20,-75.97880643116537,included_game_day
+1994,107,Holy Cross,1994-01-22,-65.5127266530499,included_game_day
+1994,107,Holy Cross,1994-01-26,-63.555339756207324,included_game_day
+1994,107,Holy Cross,1994-01-29,-55.853672339199406,included_game_day
+1994,107,Holy Cross,1994-01-31,-79.30532081260291,included_game_day
+1994,107,Holy Cross,1994-02-02,-74.87552041987385,included_game_day
+1994,107,Holy Cross,1994-02-05,-60.677401012541836,included_game_day
+1994,107,Holy Cross,1994-02-09,-54.7967810913814,included_game_day
+1994,107,Holy Cross,1994-02-12,-38.615726022093796,included_game_day
+1994,107,Holy Cross,1994-02-16,-28.487324826036673,included_game_day
+1994,107,Holy Cross,1994-02-19,-38.31997545280892,included_game_day
+1994,107,Holy Cross,1994-02-22,-49.59122123801287,included_game_day
+1994,107,Holy Cross,1994-02-24,-66.57206031170057,included_game_day
+1994,107,Holy Cross,1994-02-26,-55.46881639630854,included_game_day
+1994,107,Holy Cross,1994-03-04,-47.58622126399492,included_game_day
+1994,107,Holy Cross,1994-03-05,-40.12040372014625,included_game_day
+1995,107,Holy Cross,1994-11-25,-4.0,included_game_day
+1995,107,Holy Cross,1994-11-29,3.4000000000000004,included_game_day
+1995,107,Holy Cross,1994-12-02,-5.42,included_game_day
+1995,107,Holy Cross,1994-12-06,6.522,included_game_day
+1995,107,Holy Cross,1994-12-08,3.907610000000001,included_game_day
+1995,107,Holy Cross,1994-12-10,6.204849000000001,included_game_day
+1995,107,Holy Cross,1994-12-19,-2.4584185729999977,included_game_day
+1995,107,Holy Cross,1994-12-22,-6.174312628699999,included_game_day
+1995,107,Holy Cross,1994-12-28,-0.6549368409874594,included_game_day
+1995,107,Holy Cross,1994-12-30,-14.940385342584516,included_game_day
+1995,107,Holy Cross,1995-01-07,-14.325027202143358,included_game_day
+1995,107,Holy Cross,1995-01-11,-6.700467836899334,included_game_day
+1995,107,Holy Cross,1995-01-14,2.8984241170173792,included_game_day
+1995,107,Holy Cross,1995-01-17,-6.063897699550447,included_game_day
+1995,107,Holy Cross,1995-01-21,-21.068513038267547,included_game_day
+1995,107,Holy Cross,1995-01-25,4.278255548465694,included_game_day
+1995,107,Holy Cross,1995-01-28,-12.388569049143452,included_game_day
+1995,107,Holy Cross,1995-01-30,-27.376405211930066,included_game_day
+1995,107,Holy Cross,1995-02-01,-33.73894303264214,included_game_day
+1995,107,Holy Cross,1995-02-04,-41.69392463616163,included_game_day
+1995,107,Holy Cross,1995-02-08,-61.61708768963878,included_game_day
+1995,107,Holy Cross,1995-02-11,-32.67463623846809,included_game_day
+1995,107,Holy Cross,1995-02-15,-16.674148443109996,included_game_day
+1995,107,Holy Cross,1995-02-18,-16.030868111220286,included_game_day
+1995,107,Holy Cross,1995-02-22,-12.57666827380579,included_game_day
+1995,107,Holy Cross,1995-02-25,-0.6827351680821518,included_game_day
+1995,107,Holy Cross,1995-03-04,-19.02990543939518,included_game_day
+1996,107,Holy Cross,1995-11-25,-4.0,included_game_day
+1996,107,Holy Cross,1995-11-27,-33.9,included_game_day
+1996,107,Holy Cross,1995-11-30,-24.409999999999997,included_game_day
+1996,107,Holy Cross,1995-12-02,-25.820099999999996,included_game_day
+1996,107,Holy Cross,1995-12-05,-50.41529,included_game_day
+1996,107,Holy Cross,1995-12-07,-49.814661,included_game_day
+1996,107,Holy Cross,1995-12-21,-28.8284914,included_game_day
+1996,107,Holy Cross,1995-12-28,-27.5400905341777,included_game_day
+1996,107,Holy Cross,1995-12-29,-46.8749514356833,included_game_day
+1996,107,Holy Cross,1996-01-04,-56.88108518978622,included_game_day
+1996,107,Holy Cross,1996-01-06,-60.0471577518639,included_game_day
+1996,107,Holy Cross,1996-01-10,-61.56800138888367,included_game_day
+1996,107,Holy Cross,1996-01-13,-75.16061797051182,included_game_day
+1996,107,Holy Cross,1996-01-17,-73.3757786367193,included_game_day
+1996,107,Holy Cross,1996-01-20,-66.67882402095908,included_game_day
+1996,107,Holy Cross,1996-01-22,-63.80845544959919,included_game_day
+1996,107,Holy Cross,1996-01-24,-54.14381158644721,included_game_day
+1996,107,Holy Cross,1996-01-27,-36.921963153727,included_game_day
+1996,107,Holy Cross,1996-01-31,-40.32764624776697,included_game_day
+1996,107,Holy Cross,1996-02-03,-48.15882144817542,included_game_day
+1996,107,Holy Cross,1996-02-05,-48.06486581805602,included_game_day
+1996,107,Holy Cross,1996-02-07,-41.656297727832396,included_game_day
+1996,107,Holy Cross,1996-02-10,-36.20934086504114,included_game_day
+1996,107,Holy Cross,1996-02-13,-29.94677596036517,included_game_day
+1996,107,Holy Cross,1996-02-21,-35.993409926243714,included_game_day
+1996,107,Holy Cross,1996-02-24,-10.473494013714909,included_game_day
+1996,107,Holy Cross,1996-03-02,-10.254879288868434,included_game_day
+1996,107,Holy Cross,1996-03-03,-20.633680290566097,included_game_day
+1996,107,Holy Cross,1996-03-06,-24.242134228035887,included_game_day
+1997,107,Holy Cross,1996-11-22,-27.0,included_game_day
+1997,107,Holy Cross,1996-11-23,-20.4,included_game_day
+1997,107,Holy Cross,1996-11-26,-29.759999999999998,included_game_day
+1997,107,Holy Cross,1996-11-30,-37.245,included_game_day
+1997,107,Holy Cross,1996-12-04,-62.2975,included_game_day
+1997,107,Holy Cross,1996-12-07,-40.41935,included_game_day
+1997,107,Holy Cross,1996-12-10,-45.766047,included_game_day
+1997,107,Holy Cross,1996-12-21,-55.64916835,included_game_day
+1997,107,Holy Cross,1996-12-27,-54.211410106989995,included_game_day
+1997,107,Holy Cross,1996-12-28,-59.385209581896376,included_game_day
+1997,107,Holy Cross,1996-12-31,-61.200962743259105,included_game_day
+1997,107,Holy Cross,1997-01-04,-69.93305771271449,included_game_day
+1997,107,Holy Cross,1997-01-08,-83.75550418253461,included_game_day
+1997,107,Holy Cross,1997-01-11,-94.7783443690226,included_game_day
+1997,107,Holy Cross,1997-01-15,-105.5696006182093,included_game_day
+1997,107,Holy Cross,1997-01-18,-112.52399914882426,included_game_day
+1997,107,Holy Cross,1997-01-22,-96.86307593461261,included_game_day
+1997,107,Holy Cross,1997-01-25,-97.30172160491757,included_game_day
+1997,107,Holy Cross,1997-01-29,-96.3044870148552,included_game_day
+1997,107,Holy Cross,1997-02-05,-84.60523998015591,included_game_day
+1997,107,Holy Cross,1997-02-08,-68.9250241450922,included_game_day
+1997,107,Holy Cross,1997-02-10,-68.9488128590509,included_game_day
+1997,107,Holy Cross,1997-02-12,-67.12302394931658,included_game_day
+1997,107,Holy Cross,1997-02-15,-72.31487033008146,included_game_day
+1997,107,Holy Cross,1997-02-18,-74.42717385191816,included_game_day
+1997,107,Holy Cross,1997-02-22,-84.5668927319104,included_game_day
+1997,107,Holy Cross,1997-03-01,-88.20342833900978,included_game_day
+1998,107,Holy Cross,1997-11-16,-9.0,included_game_day
+1998,107,Holy Cross,1997-11-19,-7.1,included_game_day
+1998,107,Holy Cross,1997-11-22,-16.240000000000002,included_game_day
+1998,107,Holy Cross,1997-11-25,-9.776000000000002,included_game_day
+1998,107,Holy Cross,1997-11-28,-15.828400000000002,included_game_day
+1998,107,Holy Cross,1997-11-29,-27.003660000000004,included_game_day
+1998,107,Holy Cross,1997-12-03,-22.668112400000005,included_game_day
+1998,107,Holy Cross,1997-12-06,-31.389268560000005,included_game_day
+1998,107,Holy Cross,1997-12-08,-64.02636070400001,included_game_day
+1998,107,Holy Cross,1997-12-10,-53.23831174710001,included_game_day
+1998,107,Holy Cross,1997-12-20,-59.20831129660251,included_game_day
+1998,107,Holy Cross,1997-12-22,-85.18072952694226,included_game_day
+1998,107,Holy Cross,1997-12-29,-119.34326235526802,included_game_day
+1998,107,Holy Cross,1997-12-30,-108.51359692387442,included_game_day
+1998,107,Holy Cross,1998-01-10,-113.05620578037961,included_game_day
+1998,107,Holy Cross,1998-01-14,-99.3685745974344,included_game_day
+1998,107,Holy Cross,1998-01-17,-108.3103731283023,included_game_day
+1998,107,Holy Cross,1998-01-20,-130.53907384560603,included_game_day
+1998,107,Holy Cross,1998-01-24,-127.41844185327565,included_game_day
+1998,107,Holy Cross,1998-01-28,-118.23747202858722,included_game_day
+1998,107,Holy Cross,1998-02-04,-117.35180672772017,included_game_day
+1998,107,Holy Cross,1998-02-07,-105.83584693931635,included_game_day
+1998,107,Holy Cross,1998-02-11,-110.1710076638539,included_game_day
+1998,107,Holy Cross,1998-02-15,-107.13238753746234,included_game_day
+1998,107,Holy Cross,1998-02-18,-98.88600529985251,included_game_day
+1998,107,Holy Cross,1998-02-22,-89.05097763521921,included_game_day
+1998,107,Holy Cross,1998-02-28,-83.91780147000244,included_game_day
+1999,107,Holy Cross,1998-11-13,21.0,included_game_day
+1999,107,Holy Cross,1998-11-15,12.9,included_game_day
+1999,107,Holy Cross,1998-11-18,9.714,included_game_day
+1999,107,Holy Cross,1998-11-21,1.8626000000000005,included_game_day
+1999,107,Holy Cross,1998-11-24,-9.16366,included_game_day
+1999,107,Holy Cross,1998-11-28,-9.627694,included_game_day
+1999,107,Holy Cross,1998-12-01,-2.9929246000000003,included_game_day
+1999,107,Holy Cross,1998-12-04,-13.763684906,included_game_day
+1999,107,Holy Cross,1998-12-05,-44.9928513154,included_game_day
+1999,107,Holy Cross,1998-12-09,-63.683004923860004,included_game_day
+1999,107,Holy Cross,1998-12-19,-75.343283670646,included_game_day
+1999,107,Holy Cross,1998-12-28,-107.14046972285757,included_game_day
+1999,107,Holy Cross,1998-12-29,-115.11780438757475,included_game_day
+1999,107,Holy Cross,1999-01-06,-131.09473087632088,included_game_day
+1999,107,Holy Cross,1999-01-09,-147.73672889923756,included_game_day
+1999,107,Holy Cross,1999-01-13,-141.7287704956273,included_game_day
+1999,107,Holy Cross,1999-01-17,-142.4227175011213,included_game_day
+1999,107,Holy Cross,1999-01-24,-141.23144795842398,included_game_day
+1999,107,Holy Cross,1999-01-27,-133.7382211927713,included_game_day
+1999,107,Holy Cross,1999-01-30,-131.022744830663,included_game_day
+1999,107,Holy Cross,1999-02-03,-128.53467998486508,included_game_day
+1999,107,Holy Cross,1999-02-06,-134.1771291689043,included_game_day
+1999,107,Holy Cross,1999-02-10,-137.35115159143442,included_game_day
+1999,107,Holy Cross,1999-02-17,-128.37336533147908,included_game_day
+1999,107,Holy Cross,1999-02-20,-127.09498451364149,included_game_day
+1999,107,Holy Cross,1999-02-27,-136.6535347766458,included_game_day
+2000,107,Holy Cross,1999-11-20,14.0,included_game_day
+2000,107,Holy Cross,1999-11-23,-1.4000000000000004,included_game_day
+2000,107,Holy Cross,1999-11-27,-18.380000000000003,included_game_day
+2000,107,Holy Cross,1999-11-30,-30.8775,included_game_day
+2000,107,Holy Cross,1999-12-07,-31.08563459,included_game_day
+2000,107,Holy Cross,1999-12-09,-22.7368342021,included_game_day
+2000,107,Holy Cross,1999-12-19,-36.28302708089,included_game_day
+2000,107,Holy Cross,1999-12-22,-26.8438199920136,included_game_day
+2000,107,Holy Cross,1999-12-27,-14.83905788468084,included_game_day
+2000,107,Holy Cross,1999-12-28,-36.21068846104988,included_game_day
+2000,107,Holy Cross,1999-12-31,-35.79706374378081,included_game_day
+2000,107,Holy Cross,2000-01-03,-38.38912686478592,included_game_day
+2000,107,Holy Cross,2000-01-06,-30.45694725217053,included_game_day
+2000,107,Holy Cross,2000-01-12,-5.61462395307241,included_game_day
+2000,107,Holy Cross,2000-01-15,-29.8183284641692,included_game_day
+2000,107,Holy Cross,2000-01-19,-33.36510579321305,included_game_day
+2000,107,Holy Cross,2000-01-23,-62.20882467037332,included_game_day
+2000,107,Holy Cross,2000-01-26,-43.43529787174506,included_game_day
+2000,107,Holy Cross,2000-01-30,-44.34857982453684,included_game_day
+2000,107,Holy Cross,2000-02-02,-53.52349509478351,included_game_day
+2000,107,Holy Cross,2000-02-05,-56.62979075016848,included_game_day
+2000,107,Holy Cross,2000-02-09,-58.910613343749134,included_game_day
+2000,107,Holy Cross,2000-02-12,-58.03468065489912,included_game_day
+2000,107,Holy Cross,2000-02-15,-46.646959960157204,included_game_day
+2000,107,Holy Cross,2000-02-19,-35.197655298984714,included_game_day
+2000,107,Holy Cross,2000-02-22,-53.93588758233433,included_game_day
+2000,107,Holy Cross,2000-02-26,-48.20237913179351,included_game_day
+2000,107,Holy Cross,2000-03-04,-60.502854788999066,included_game_day
+2001,107,Holy Cross,2000-11-18,-3.0,included_game_day
+2001,107,Holy Cross,2000-11-21,5.300000000000001,included_game_day
+2001,107,Holy Cross,2000-11-25,14.420000000000002,included_game_day
+2001,107,Holy Cross,2000-11-28,28.351,included_game_day
+2001,107,Holy Cross,2000-12-01,38.2148,included_game_day
+2001,107,Holy Cross,2000-12-04,12.977459999999997,included_game_day
+2001,107,Holy Cross,2000-12-06,19.586447,included_game_day
+2001,107,Holy Cross,2000-12-17,34.9648211357,included_game_day
+2001,107,Holy Cross,2000-12-20,38.57388945813,included_game_day
+2001,107,Holy Cross,2000-12-23,27.094561949221,included_game_day
+2001,107,Holy Cross,2000-12-28,24.7304411129059,included_game_day
+2001,107,Holy Cross,2000-12-31,25.39877954001762,included_game_day
+2001,107,Holy Cross,2001-01-03,7.48146647231205,included_game_day
+2001,107,Holy Cross,2001-01-06,5.2746416566310925,included_game_day
+2001,107,Holy Cross,2001-01-10,8.017277751835234,included_game_day
+2001,107,Holy Cross,2001-01-13,19.411247979537567,included_game_day
+2001,107,Holy Cross,2001-01-17,39.02290365082139,included_game_day
+2001,107,Holy Cross,2001-01-20,46.60607931909804,included_game_day
+2001,107,Holy Cross,2001-01-24,25.325098690684086,included_game_day
+2001,107,Holy Cross,2001-01-31,16.995948219958123,included_game_day
+2001,107,Holy Cross,2001-02-03,22.922205284180478,included_game_day
+2001,107,Holy Cross,2001-02-07,32.640448805540814,included_game_day
+2001,107,Holy Cross,2001-02-10,28.272200248382347,included_game_day
+2001,107,Holy Cross,2001-02-14,40.7845643281376,included_game_day
+2001,107,Holy Cross,2001-02-17,46.96761187790743,included_game_day
+2001,107,Holy Cross,2001-02-20,34.54254416733608,included_game_day
+2001,107,Holy Cross,2001-02-24,19.701751893654965,included_game_day
+2001,107,Holy Cross,2001-03-04,22.297341582001774,included_game_day
+2001,107,Holy Cross,2001-03-09,24.39306855581909,included_game_day
+2001,107,Holy Cross,2001-03-15,37.45195368999465,included_game_day
+2002,107,Holy Cross Crusaders,2001-11-16,25.0,included_game_day
+2002,107,Holy Cross Crusaders,2001-11-20,27.8,included_game_day
+2002,107,Holy Cross Crusaders,2001-11-23,13.32,included_game_day
+2002,107,Holy Cross Crusaders,2001-11-27,2.3379600000000007,included_game_day
+2002,107,Holy Cross Crusaders,2001-12-01,-14.954505,included_game_day
+2002,107,Holy Cross Crusaders,2001-12-04,3.8309414999999998,included_game_day
+2002,107,Holy Cross Crusaders,2001-12-06,16.027824250000002,included_game_day
+2002,107,Holy Cross Crusaders,2001-12-16,-1.5883724647699964,included_game_day
+2002,107,Holy Cross Crusaders,2001-12-19,-18.840656972012997,included_game_day
+2002,107,Holy Cross Crusaders,2001-12-21,1.2518630755083038,included_game_day
+2002,107,Holy Cross Crusaders,2001-12-22,-0.16879105133622652,included_game_day
+2002,107,Holy Cross Crusaders,2001-12-29,-11.479907950884696,included_game_day
+2002,107,Holy Cross Crusaders,2002-01-02,5.424764425278161,included_game_day
+2002,107,Holy Cross Crusaders,2002-01-05,5.343511550562465,included_game_day
+2002,107,Holy Cross Crusaders,2002-01-09,12.048936335648966,included_game_day
+2002,107,Holy Cross Crusaders,2002-01-12,6.3831707489703415,included_game_day
+2002,107,Holy Cross Crusaders,2002-01-16,-4.835256386623273,included_game_day
+2002,107,Holy Cross Crusaders,2002-01-19,-1.0787114422352895,included_game_day
+2002,107,Holy Cross Crusaders,2002-01-23,-14.792907373920158,included_game_day
+2002,107,Holy Cross Crusaders,2002-01-26,-7.2031689007522255,included_game_day
+2002,107,Holy Cross Crusaders,2002-01-30,-0.3008643660258912,included_game_day
+2002,107,Holy Cross Crusaders,2002-02-02,9.013437863604192,included_game_day
+2002,107,Holy Cross Crusaders,2002-02-06,9.985004162114423,included_game_day
+2002,107,Holy Cross Crusaders,2002-02-09,8.107592873526995,included_game_day
+2002,107,Holy Cross Crusaders,2002-02-16,17.185975874282114,included_game_day
+2002,107,Holy Cross Crusaders,2002-02-20,8.379955796061997,included_game_day
+2002,107,Holy Cross Crusaders,2002-02-23,38.362298515675036,included_game_day
+2002,107,Holy Cross Crusaders,2002-03-02,42.77647386818008,included_game_day
+2002,107,Holy Cross Crusaders,2002-03-03,39.93289110690302,included_game_day
+2002,107,Holy Cross Crusaders,2002-03-08,41.73844880468609,included_game_day
+2002,107,Holy Cross Crusaders,2002-03-14,51.780706274774786,included_game_day
+2003,107,Holy Cross Crusaders,2002-11-19,-21.0,included_game_day
+2003,107,Holy Cross Crusaders,2002-11-26,-10.4,included_game_day
+2003,107,Holy Cross Crusaders,2002-12-01,-12.23,included_game_day
+2003,107,Holy Cross Crusaders,2002-12-07,5.542469999999998,included_game_day
+2003,107,Holy Cross Crusaders,2002-12-11,6.398573909999998,included_game_day
+2003,107,Holy Cross Crusaders,2002-12-12,24.779163419,included_game_day
+2003,107,Holy Cross Crusaders,2002-12-22,44.4121690101,included_game_day
+2003,107,Holy Cross Crusaders,2002-12-28,35.436881883240005,included_game_day
+2003,107,Holy Cross Crusaders,2002-12-31,60.11257868053701,included_game_day
+2003,107,Holy Cross Crusaders,2003-01-03,54.50228666883511,included_game_day
+2003,107,Holy Cross Crusaders,2003-01-07,59.842035031990974,included_game_day
+2003,107,Holy Cross Crusaders,2003-01-11,57.22684307228977,included_game_day
+2003,107,Holy Cross Crusaders,2003-01-15,86.93295792963147,included_game_day
+2003,107,Holy Cross Crusaders,2003-01-18,84.30130543431387,included_game_day
+2003,107,Holy Cross Crusaders,2003-01-21,85.68440639011129,included_game_day
+2003,107,Holy Cross Crusaders,2003-01-24,90.37509124810902,included_game_day
+2003,107,Holy Cross Crusaders,2003-01-26,59.67372561342022,included_game_day
+2003,107,Holy Cross Crusaders,2003-01-31,76.43884728934951,included_game_day
+2003,107,Holy Cross Crusaders,2003-02-02,88.07162583071755,included_game_day
+2003,107,Holy Cross Crusaders,2003-02-08,76.36663603997624,included_game_day
+2003,107,Holy Cross Crusaders,2003-02-12,67.8412258557202,included_game_day
+2003,107,Holy Cross Crusaders,2003-02-15,63.153309544245744,included_game_day
+2003,107,Holy Cross Crusaders,2003-02-21,58.301557488683876,included_game_day
+2003,107,Holy Cross Crusaders,2003-02-23,61.09933469811308,included_game_day
+2003,107,Holy Cross Crusaders,2003-02-28,68.53442705826177,included_game_day
+2003,107,Holy Cross Crusaders,2003-03-02,69.73311462711807,included_game_day
+2003,107,Holy Cross Crusaders,2003-03-08,64.33475080883042,included_game_day
+2003,107,Holy Cross Crusaders,2003-03-09,78.34928818135963,included_game_day
+2003,107,Holy Cross Crusaders,2003-03-14,81.17217138743764,included_game_day
+2003,107,Holy Cross Crusaders,2003-03-20,84.48946719551698,included_game_day
+2004,107,Holy Cross Crusaders,2003-11-22,-1.0,included_game_day
+2004,107,Holy Cross Crusaders,2003-11-25,3.3,included_game_day
+2004,107,Holy Cross Crusaders,2003-11-28,0.5699999999999998,included_game_day
+2004,107,Holy Cross Crusaders,2003-12-02,-4.45063,included_game_day
+2004,107,Holy Cross Crusaders,2003-12-07,-14.595603,included_game_day
+2004,107,Holy Cross Crusaders,2003-12-10,-8.0202687,included_game_day
+2004,107,Holy Cross Crusaders,2003-12-21,11.226063739999999,included_game_day
+2004,107,Holy Cross Crusaders,2003-12-28,13.298673241390999,included_game_day
+2004,107,Holy Cross Crusaders,2003-12-29,9.3869689555131,included_game_day
+2004,107,Holy Cross Crusaders,2003-12-31,20.24364907665379,included_game_day
+2004,107,Holy Cross Crusaders,2004-01-03,5.178052918809552,included_game_day
+2004,107,Holy Cross Crusaders,2004-01-06,12.717837937337597,included_game_day
+2004,107,Holy Cross Crusaders,2004-01-10,30.464001446799863,included_game_day
+2004,107,Holy Cross Crusaders,2004-01-14,18.238414127045523,included_game_day
+2004,107,Holy Cross Crusaders,2004-01-17,11.448059085357546,included_game_day
+2004,107,Holy Cross Crusaders,2004-01-23,22.772942207543096,included_game_day
+2004,107,Holy Cross Crusaders,2004-01-25,14.648879277237292,included_game_day
+2004,107,Holy Cross Crusaders,2004-01-30,5.109194647864882,included_game_day
+2004,107,Holy Cross Crusaders,2004-02-01,-1.756428271595155,included_game_day
+2004,107,Holy Cross Crusaders,2004-02-07,19.574400301880587,included_game_day
+2004,107,Holy Cross Crusaders,2004-02-11,20.886782412595835,included_game_day
+2004,107,Holy Cross Crusaders,2004-02-14,15.48145298752044,included_game_day
+2004,107,Holy Cross Crusaders,2004-02-20,0.9763092090410463,included_game_day
+2004,107,Holy Cross Crusaders,2004-02-22,15.328508938114387,included_game_day
+2004,107,Holy Cross Crusaders,2004-02-27,26.112587849358547,included_game_day
+2004,107,Holy Cross Crusaders,2004-02-29,35.43889496611262,included_game_day
+2004,107,Holy Cross Crusaders,2004-03-06,31.226767647863955,included_game_day
+2005,107,Holy Cross Crusaders,2004-11-20,13.0,included_game_day
+2005,107,Holy Cross Crusaders,2004-11-23,22.3,included_game_day
+2005,107,Holy Cross Crusaders,2004-11-28,43.692816,included_game_day
+2005,107,Holy Cross Crusaders,2004-12-01,34.6111644,included_game_day
+2005,107,Holy Cross Crusaders,2004-12-04,18.3768921663,included_game_day
+2005,107,Holy Cross Crusaders,2004-12-06,32.98825818967,included_game_day
+2005,107,Holy Cross Crusaders,2004-12-09,37.770511880703,included_game_day
+2005,107,Holy Cross Crusaders,2004-12-21,49.5082232658427,included_game_day
+2005,107,Holy Cross Crusaders,2004-12-27,45.96952110532443,included_game_day
+2005,107,Holy Cross Crusaders,2004-12-30,38.94501363029458,included_game_day
+2005,107,Holy Cross Crusaders,2005-01-02,35.238133104879616,included_game_day
+2005,107,Holy Cross Crusaders,2005-01-05,43.63567699445943,included_game_day
+2005,107,Holy Cross Crusaders,2005-01-08,31.79949294957536,included_game_day
+2005,107,Holy Cross Crusaders,2005-01-12,59.091953899243606,included_game_day
+2005,107,Holy Cross Crusaders,2005-01-15,56.33778665813077,included_game_day
+2005,107,Holy Cross Crusaders,2005-01-18,70.80092547313637,included_game_day
+2005,107,Holy Cross Crusaders,2005-01-21,76.53639171645922,included_game_day
+2005,107,Holy Cross Crusaders,2005-01-24,91.52179346109382,included_game_day
+2005,107,Holy Cross Crusaders,2005-01-28,95.60223116610769,included_game_day
+2005,107,Holy Cross Crusaders,2005-01-30,90.58667487661673,included_game_day
+2005,107,Holy Cross Crusaders,2005-02-04,79.33867790919817,included_game_day
+2005,107,Holy Cross Crusaders,2005-02-06,86.66437873524816,included_game_day
+2005,107,Holy Cross Crusaders,2005-02-11,88.14389383404412,included_game_day
+2005,107,Holy Cross Crusaders,2005-02-13,96.22836578283957,included_game_day
+2005,107,Holy Cross Crusaders,2005-02-19,99.17428709767046,included_game_day
+2005,107,Holy Cross Crusaders,2005-02-26,89.1358933996295,included_game_day
+2005,107,Holy Cross Crusaders,2005-03-04,98.10517844119673,included_game_day
+2005,107,Holy Cross Crusaders,2005-03-06,88.14070684579501,included_game_day
+2005,107,Holy Cross Crusaders,2005-03-11,76.8643636353026,included_game_day
+2005,107,Holy Cross Crusaders,2005-03-15,81.69407774849998,included_game_day
+2005,107,Holy Cross Crusaders,2005-03-21,76.21154711053914,included_game_day
+2006,107,Holy Cross Crusaders,2005-11-18,9.0,included_game_day
+2006,107,Holy Cross Crusaders,2005-11-19,26.2,included_game_day
+2006,107,Holy Cross Crusaders,2005-11-22,6.079999999999998,included_game_day
+2006,107,Holy Cross Crusaders,2005-11-25,-12.038,included_game_day
+2006,107,Holy Cross Crusaders,2005-11-28,-14.118314,included_game_day
+2006,107,Holy Cross Crusaders,2005-12-01,-15.3621321,included_game_day
+2006,107,Holy Cross Crusaders,2005-12-04,-11.33441624,included_game_day
+2006,107,Holy Cross Crusaders,2005-12-07,7.348972784000001,included_game_day
+2006,107,Holy Cross Crusaders,2005-12-19,16.834722205600002,included_game_day
+2006,107,Holy Cross Crusaders,2005-12-20,3.7868871770400023,included_game_day
+2006,107,Holy Cross Crusaders,2005-12-21,2.683589371332544,included_game_day
+2006,107,Holy Cross Crusaders,2005-12-27,-20.14467735357071,included_game_day
+2006,107,Holy Cross Crusaders,2005-12-30,1.3374198631737393,included_game_day
+2006,107,Holy Cross Crusaders,2006-01-02,0.6128688160469715,included_game_day
+2006,107,Holy Cross Crusaders,2006-01-07,24.40826356552246,included_game_day
+2006,107,Holy Cross Crusaders,2006-01-11,52.45930525348007,included_game_day
+2006,107,Holy Cross Crusaders,2006-01-14,41.737698992897215,included_game_day
+2006,107,Holy Cross Crusaders,2006-01-17,34.05929799011243,included_game_day
+2006,107,Holy Cross Crusaders,2006-01-21,32.15296286324648,included_game_day
+2006,107,Holy Cross Crusaders,2006-01-25,37.50849235546306,included_game_day
+2006,107,Holy Cross Crusaders,2006-01-28,35.70529755507516,included_game_day
+2006,107,Holy Cross Crusaders,2006-02-01,41.377291810351004,included_game_day
+2006,107,Holy Cross Crusaders,2006-02-04,48.97491975413023,included_game_day
+2006,107,Holy Cross Crusaders,2006-02-08,78.31815517684967,included_game_day
+2006,107,Holy Cross Crusaders,2006-02-11,71.41241926684303,included_game_day
+2006,107,Holy Cross Crusaders,2006-02-15,63.359826136615766,included_game_day
+2006,107,Holy Cross Crusaders,2006-02-18,62.597060672718,included_game_day
+2006,107,Holy Cross Crusaders,2006-02-22,58.50508377630767,included_game_day
+2006,107,Holy Cross Crusaders,2006-02-26,66.47748910767103,included_game_day
+2006,107,Holy Cross Crusaders,2006-03-03,75.70459677981097,included_game_day
+2006,107,Holy Cross Crusaders,2006-03-05,73.50713486528996,included_game_day
+2006,107,Holy Cross Crusaders,2006-03-10,61.92865242886707,included_game_day
+2007,107,Holy Cross Crusaders,2006-11-12,-1.7999999999999998,included_game_day
+2007,107,Holy Cross Crusaders,2006-11-15,8.419999999999998,included_game_day
+2007,107,Holy Cross Crusaders,2006-11-18,10.877999999999998,included_game_day
+2007,107,Holy Cross Crusaders,2006-11-21,22.624,included_game_day
+2007,107,Holy Cross Crusaders,2006-11-25,27.8451,included_game_day
+2007,107,Holy Cross Crusaders,2006-11-27,26.951629999999998,included_game_day
+2007,107,Holy Cross Crusaders,2006-11-29,29.482016599999998,included_game_day
+2007,107,Holy Cross Crusaders,2006-12-02,15.850754939999998,included_game_day
+2007,107,Holy Cross Crusaders,2006-12-06,14.371793033979998,included_game_day
+2007,107,Holy Cross Crusaders,2006-12-19,14.369802195061999,included_game_day
+2007,107,Holy Cross Crusaders,2006-12-21,-0.46082447600200105,included_game_day
+2007,107,Holy Cross Crusaders,2006-12-28,23.73853947502714,included_game_day
+2007,107,Holy Cross Crusaders,2006-12-29,13.840106143334316,included_game_day
+2007,107,Holy Cross Crusaders,2006-12-30,15.316523476957833,included_game_day
+2007,107,Holy Cross Crusaders,2007-01-03,19.170563849153726,included_game_day
+2007,107,Holy Cross Crusaders,2007-01-06,23.020063164355104,included_game_day
+2007,107,Holy Cross Crusaders,2007-01-09,39.22570805475678,included_game_day
+2007,107,Holy Cross Crusaders,2007-01-12,39.643624736228446,included_game_day
+2007,107,Holy Cross Crusaders,2007-01-17,49.075520724078096,included_game_day
+2007,107,Holy Cross Crusaders,2007-01-20,52.02623090322155,included_game_day
+2007,107,Holy Cross Crusaders,2007-01-23,44.22195588780001,included_game_day
+2007,107,Holy Cross Crusaders,2007-01-26,42.70869472043984,included_game_day
+2007,107,Holy Cross Crusaders,2007-01-31,47.32688955808611,included_game_day
+2007,107,Holy Cross Crusaders,2007-02-03,53.751102552368366,included_game_day
+2007,107,Holy Cross Crusaders,2007-02-06,60.99370449509284,included_game_day
+2007,107,Holy Cross Crusaders,2007-02-09,59.86700242770241,included_game_day
+2007,107,Holy Cross Crusaders,2007-02-15,80.37659166179478,included_game_day
+2007,107,Holy Cross Crusaders,2007-02-17,79.15692048437259,included_game_day
+2007,107,Holy Cross Crusaders,2007-02-21,72.99017765493886,included_game_day
+2007,107,Holy Cross Crusaders,2007-02-25,75.58449895075705,included_game_day
+2007,107,Holy Cross Crusaders,2007-02-28,85.10257992612343,included_game_day
+2007,107,Holy Cross Crusaders,2007-03-04,76.89282339625254,included_game_day
+2007,107,Holy Cross Crusaders,2007-03-09,80.70028569407779,included_game_day
+2007,107,Holy Cross Crusaders,2007-03-16,75.69417151763626,included_game_day
+2008,107,Holy Cross Crusaders,2007-11-10,11.0,included_game_day
+2008,107,Holy Cross Crusaders,2007-11-13,23.7,included_game_day
+2008,107,Holy Cross Crusaders,2007-11-17,33.147999999999996,included_game_day
+2008,107,Holy Cross Crusaders,2007-11-20,36.578199999999995,included_game_day
+2008,107,Holy Cross Crusaders,2007-11-26,33.380379999999995,included_game_day
+2008,107,Holy Cross Crusaders,2007-11-28,45.929384999999996,included_game_day
+2008,107,Holy Cross Crusaders,2007-12-01,37.98596643,included_game_day
+2008,107,Holy Cross Crusaders,2007-12-04,45.8298288055,included_game_day
+2008,107,Holy Cross Crusaders,2007-12-22,40.396657424857096,included_game_day
+2008,107,Holy Cross Crusaders,2007-12-30,37.20764395037629,included_game_day
+2008,107,Holy Cross Crusaders,2008-01-02,29.48944205087713,included_game_day
+2008,107,Holy Cross Crusaders,2008-01-05,28.09676164315286,included_game_day
+2008,107,Holy Cross Crusaders,2008-01-08,8.971455909416036,included_game_day
+2008,107,Holy Cross Crusaders,2008-01-12,2.904368194578071,included_game_day
+2008,107,Holy Cross Crusaders,2008-01-16,-20.204042447243125,included_game_day
+2008,107,Holy Cross Crusaders,2008-01-18,-31.153857685297247,included_game_day
+2008,107,Holy Cross Crusaders,2008-01-23,-42.54238015907068,included_game_day
+2008,107,Holy Cross Crusaders,2008-01-26,-30.10390463570735,included_game_day
+2008,107,Holy Cross Crusaders,2008-01-30,-38.94512012629726,included_game_day
+2008,107,Holy Cross Crusaders,2008-02-02,-21.623847172119397,included_game_day
+2008,107,Holy Cross Crusaders,2008-02-06,-36.55161257412526,included_game_day
+2008,107,Holy Cross Crusaders,2008-02-09,-15.115635206726914,included_game_day
+2008,107,Holy Cross Crusaders,2008-02-14,-3.1483779340461187,included_game_day
+2008,107,Holy Cross Crusaders,2008-02-16,7.522849461849965,included_game_day
+2008,107,Holy Cross Crusaders,2008-02-20,4.4157726089382265,included_game_day
+2008,107,Holy Cross Crusaders,2008-02-23,16.285190698788817,included_game_day
+2008,107,Holy Cross Crusaders,2008-02-27,0.5664515310060896,included_game_day
+2008,107,Holy Cross Crusaders,2008-02-29,-7.7573459832473475,included_game_day
+2008,107,Holy Cross Crusaders,2008-03-05,-6.6245421583845765,included_game_day
+2009,107,Holy Cross Crusaders,2008-11-14,6.0,included_game_day
+2009,107,Holy Cross Crusaders,2008-11-16,7.3,included_game_day
+2009,107,Holy Cross Crusaders,2008-11-19,-4.7,included_game_day
+2009,107,Holy Cross Crusaders,2008-11-22,-13.007000000000001,included_game_day
+2009,107,Holy Cross Crusaders,2008-11-25,-18.3653,included_game_day
+2009,107,Holy Cross Crusaders,2008-11-29,-21.596096000000003,included_game_day
+2009,107,Holy Cross Crusaders,2008-12-01,-36.2369681,included_game_day
+2009,107,Holy Cross Crusaders,2008-12-03,-44.05743829,included_game_day
+2009,107,Holy Cross Crusaders,2008-12-06,-39.549975557,included_game_day
+2009,107,Holy Cross Crusaders,2008-12-10,-49.723331410300005,included_game_day
+2009,107,Holy Cross Crusaders,2008-12-22,-48.65492378618241,included_game_day
+2009,107,Holy Cross Crusaders,2008-12-27,-38.84759340942914,included_game_day
+2009,107,Holy Cross Crusaders,2008-12-30,-45.65948547994925,included_game_day
+2009,107,Holy Cross Crusaders,2009-01-02,-20.89954200576369,included_game_day
+2009,107,Holy Cross Crusaders,2009-01-06,-26.73147141164399,included_game_day
+2009,107,Holy Cross Crusaders,2009-01-10,-20.745639145293737,included_game_day
+2009,107,Holy Cross Crusaders,2009-01-14,-11.602376724630199,included_game_day
+2009,107,Holy Cross Crusaders,2009-01-17,-3.056357035333731,included_game_day
+2009,107,Holy Cross Crusaders,2009-01-21,-6.997167847126586,included_game_day
+2009,107,Holy Cross Crusaders,2009-01-24,4.59340113623163,included_game_day
+2009,107,Holy Cross Crusaders,2009-01-28,18.622963839086562,included_game_day
+2009,107,Holy Cross Crusaders,2009-01-31,33.193455677237885,included_game_day
+2009,107,Holy Cross Crusaders,2009-02-07,39.73594612464621,included_game_day
+2009,107,Holy Cross Crusaders,2009-02-11,27.91071612616601,included_game_day
+2009,107,Holy Cross Crusaders,2009-02-14,8.673322396834735,included_game_day
+2009,107,Holy Cross Crusaders,2009-02-18,8.376317180812926,included_game_day
+2009,107,Holy Cross Crusaders,2009-02-21,11.204260323069779,included_game_day
+2009,107,Holy Cross Crusaders,2009-02-25,7.288053203040816,included_game_day
+2009,107,Holy Cross Crusaders,2009-02-28,12.61774774550607,included_game_day
+2009,107,Holy Cross Crusaders,2009-03-04,20.257277091312645,included_game_day
+2009,107,Holy Cross Crusaders,2009-03-08,25.951131513804167,included_game_day
+2009,107,Holy Cross Crusaders,2009-03-13,14.731215890856006,included_game_day
+2010,107,Holy Cross Crusaders,2009-11-13,-13.0,included_game_day
+2010,107,Holy Cross Crusaders,2009-11-17,-10.0,included_game_day
+2010,107,Holy Cross Crusaders,2009-11-20,-16.45,included_game_day
+2010,107,Holy Cross Crusaders,2009-11-22,-26.451999999999998,included_game_day
+2010,107,Holy Cross Crusaders,2009-11-25,-39.9578,included_game_day
+2010,107,Holy Cross Crusaders,2009-11-28,-42.058,included_game_day
+2010,107,Holy Cross Crusaders,2009-11-30,-33.682461,included_game_day
+2010,107,Holy Cross Crusaders,2009-12-02,-24.059996000000005,included_game_day
+2010,107,Holy Cross Crusaders,2009-12-05,-49.973647289000006,included_game_day
+2010,107,Holy Cross Crusaders,2009-12-09,-57.833905040800005,included_game_day
+2010,107,Holy Cross Crusaders,2009-12-22,-58.8871357959577,included_game_day
+2010,107,Holy Cross Crusaders,2009-12-28,-53.89095508186087,included_game_day
+2010,107,Holy Cross Crusaders,2009-12-31,-55.74796920437709,included_game_day
+2010,107,Holy Cross Crusaders,2010-01-02,-36.63413728983052,included_game_day
+2010,107,Holy Cross Crusaders,2010-01-06,-41.93882288471035,included_game_day
+2010,107,Holy Cross Crusaders,2010-01-09,-45.1200699191713,included_game_day
+2010,107,Holy Cross Crusaders,2010-01-13,-46.702502702767845,included_game_day
+2010,107,Holy Cross Crusaders,2010-01-16,-38.07411231025641,included_game_day
+2010,107,Holy Cross Crusaders,2010-01-20,-24.267363009704184,included_game_day
+2010,107,Holy Cross Crusaders,2010-01-23,-32.23907407197936,included_game_day
+2010,107,Holy Cross Crusaders,2010-01-27,-31.787623074000354,included_game_day
+2010,107,Holy Cross Crusaders,2010-01-31,-48.46331932894611,included_game_day
+2010,107,Holy Cross Crusaders,2010-02-06,-21.059298995351888,included_game_day
+2010,107,Holy Cross Crusaders,2010-02-10,-4.003394889931712,included_game_day
+2010,107,Holy Cross Crusaders,2010-02-14,-7.934793873248173,included_game_day
+2010,107,Holy Cross Crusaders,2010-02-17,-11.622328091241556,included_game_day
+2010,107,Holy Cross Crusaders,2010-02-21,-5.872025059786976,included_game_day
+2010,107,Holy Cross Crusaders,2010-02-24,-20.987748654804875,included_game_day
+2010,107,Holy Cross Crusaders,2010-02-27,-24.451989407457443,included_game_day
+2010,107,Holy Cross Crusaders,2010-03-03,-16.98201400052714,included_game_day
+2010,107,Holy Cross Crusaders,2010-03-07,-17.22346228381887,included_game_day
+2011,107,Holy Cross Crusaders,2010-11-13,-11.54,included_game_day
+2011,107,Holy Cross Crusaders,2010-11-17,-31.386,included_game_day
+2011,107,Holy Cross Crusaders,2010-11-20,-28.0674,included_game_day
+2011,107,Holy Cross Crusaders,2010-11-22,-35.979659999999996,included_game_day
+2011,107,Holy Cross Crusaders,2010-11-27,-32.3477882,included_game_day
+2011,107,Holy Cross Crusaders,2010-12-04,-37.024552729999996,included_game_day
+2011,107,Holy Cross Crusaders,2010-12-07,-38.557511672,included_game_day
+2011,107,Holy Cross Crusaders,2010-12-12,-44.4472793257604,included_game_day
+2011,107,Holy Cross Crusaders,2010-12-19,-27.683301456978576,included_game_day
+2011,107,Holy Cross Crusaders,2010-12-22,-37.84057956341108,included_game_day
+2011,107,Holy Cross Crusaders,2010-12-28,-50.43686301406692,included_game_day
+2011,107,Holy Cross Crusaders,2010-12-31,-47.48327669426431,included_game_day
+2011,107,Holy Cross Crusaders,2011-01-02,-43.09682921157099,included_game_day
+2011,107,Holy Cross Crusaders,2011-01-05,-43.40149422660749,included_game_day
+2011,107,Holy Cross Crusaders,2011-01-08,-41.64150480073001,included_game_day
+2011,107,Holy Cross Crusaders,2011-01-12,-19.831046141045462,included_game_day
+2011,107,Holy Cross Crusaders,2011-01-16,-10.213395581272255,included_game_day
+2011,107,Holy Cross Crusaders,2011-01-19,9.115631125076767,included_game_day
+2011,107,Holy Cross Crusaders,2011-01-22,3.293232228790627,included_game_day
+2011,107,Holy Cross Crusaders,2011-01-27,-18.22776524547315,included_game_day
+2011,107,Holy Cross Crusaders,2011-01-29,-17.548163658218108,included_game_day
+2011,107,Holy Cross Crusaders,2011-02-05,-23.269034487238102,included_game_day
+2011,107,Holy Cross Crusaders,2011-02-09,-17.48845832621434,included_game_day
+2011,107,Holy Cross Crusaders,2011-02-12,-16.658783386074127,included_game_day
+2011,107,Holy Cross Crusaders,2011-02-16,-12.89808175416346,included_game_day
+2011,107,Holy Cross Crusaders,2011-02-20,-11.929059826735518,included_game_day
+2011,107,Holy Cross Crusaders,2011-02-23,-12.045328198331688,included_game_day
+2011,107,Holy Cross Crusaders,2011-02-26,-1.9044809006839731,included_game_day
+2011,107,Holy Cross Crusaders,2011-03-02,-13.197390127042354,included_game_day
+2012,107,Holy Cross Crusaders,2011-11-11,-6.0,included_game_day
+2012,107,Holy Cross Crusaders,2011-11-15,-17.4,included_game_day
+2012,107,Holy Cross Crusaders,2011-11-18,6.34,included_game_day
+2012,107,Holy Cross Crusaders,2011-11-20,-12.725999999999999,included_game_day
+2012,107,Holy Cross Crusaders,2011-11-23,-5.3313,included_game_day
+2012,107,Holy Cross Crusaders,2011-11-27,-15.29917,included_game_day
+2012,107,Holy Cross Crusaders,2011-11-29,-15.567632979999999,included_game_day
+2012,107,Holy Cross Crusaders,2011-12-03,-13.069947501999998,included_game_day
+2012,107,Holy Cross Crusaders,2011-12-06,-8.697447879799999,included_game_day
+2012,107,Holy Cross Crusaders,2011-12-09,1.6099638343800002,included_game_day
+2012,107,Holy Cross Crusaders,2011-12-18,-25.723940296658,included_game_day
+2012,107,Holy Cross Crusaders,2011-12-22,-20.1694521204722,included_game_day
+2012,107,Holy Cross Crusaders,2011-12-31,-14.778704259766048,included_game_day
+2012,107,Holy Cross Crusaders,2012-01-03,-23.622059251770093,included_game_day
+2012,107,Holy Cross Crusaders,2012-01-07,-9.682390752827102,included_game_day
+2012,107,Holy Cross Crusaders,2012-01-11,-15.050760711506145,included_game_day
+2012,107,Holy Cross Crusaders,2012-01-14,-24.130603186720762,included_game_day
+2012,107,Holy Cross Crusaders,2012-01-19,-41.454181150521656,included_game_day
+2012,107,Holy Cross Crusaders,2012-01-21,-62.88396470008831,included_game_day
+2012,107,Holy Cross Crusaders,2012-01-25,-62.880666016931904,included_game_day
+2012,107,Holy Cross Crusaders,2012-01-28,-53.857252717384355,included_game_day
+2012,107,Holy Cross Crusaders,2012-02-04,-62.43706524079245,included_game_day
+2012,107,Holy Cross Crusaders,2012-02-08,-51.354350201538864,included_game_day
+2012,107,Holy Cross Crusaders,2012-02-11,-39.83192795661317,included_game_day
+2012,107,Holy Cross Crusaders,2012-02-15,-27.376022509101873,included_game_day
+2012,107,Holy Cross Crusaders,2012-02-18,-18.805748498202732,included_game_day
+2012,107,Holy Cross Crusaders,2012-02-22,4.9699207382991375,included_game_day
+2012,107,Holy Cross Crusaders,2012-02-25,2.641265871984249,included_game_day
+2012,107,Holy Cross Crusaders,2012-02-29,-11.152006982806522,included_game_day
+2013,107,Holy Cross Crusaders,2012-11-09,4.0,included_game_day
+2013,107,Holy Cross Crusaders,2012-11-10,-1.5999999999999996,included_game_day
+2013,107,Holy Cross Crusaders,2012-11-11,-0.19999999999999973,included_game_day
+2013,107,Holy Cross Crusaders,2012-11-14,-1.1799999999999997,included_game_day
+2013,107,Holy Cross Crusaders,2012-11-21,-10.51039,included_game_day
+2013,107,Holy Cross Crusaders,2012-11-24,-2.2857509999999994,included_game_day
+2013,107,Holy Cross Crusaders,2012-11-27,-15.280268399999999,included_game_day
+2013,107,Holy Cross Crusaders,2012-12-01,-14.21365176,included_game_day
+2013,107,Holy Cross Crusaders,2012-12-05,-9.273632734,included_game_day
+2013,107,Holy Cross Crusaders,2012-12-08,-3.8764278825,included_game_day
+2013,107,Holy Cross Crusaders,2012-12-18,11.786707321498,included_game_day
+2013,107,Holy Cross Crusaders,2012-12-22,8.0691439687282,included_game_day
+2013,107,Holy Cross Crusaders,2012-12-29,-0.6497074230882198,included_game_day
+2013,107,Holy Cross Crusaders,2013-01-04,-14.16879761097826,included_game_day
+2013,107,Holy Cross Crusaders,2013-01-08,-4.753087798722342,included_game_day
+2013,107,Holy Cross Crusaders,2013-01-12,-25.636927132116014,included_game_day
+2013,107,Holy Cross Crusaders,2013-01-16,-8.827373432445516,included_game_day
+2013,107,Holy Cross Crusaders,2013-01-19,3.421602637137937,included_game_day
+2013,107,Holy Cross Crusaders,2013-01-23,-8.154230463896322,included_game_day
+2013,107,Holy Cross Crusaders,2013-01-26,-8.618696254182993,included_game_day
+2013,107,Holy Cross Crusaders,2013-01-30,-26.229610025756298,included_game_day
+2013,107,Holy Cross Crusaders,2013-02-02,-43.88641235374662,included_game_day
+2013,107,Holy Cross Crusaders,2013-02-09,-41.92288625717376,included_game_day
+2013,107,Holy Cross Crusaders,2013-02-12,-41.517173824269975,included_game_day
+2013,107,Holy Cross Crusaders,2013-02-17,-39.38761714408998,included_game_day
+2013,107,Holy Cross Crusaders,2013-02-20,-39.864601069943845,included_game_day
+2013,107,Holy Cross Crusaders,2013-02-24,-43.03529214049135,included_game_day
+2013,107,Holy Cross Crusaders,2013-02-27,-39.497919193052,included_game_day
+2013,107,Holy Cross Crusaders,2013-03-02,-28.766519492773902,included_game_day
+2013,107,Holy Cross Crusaders,2013-03-06,-42.81175297068505,included_game_day
+2014,107,Holy Cross Crusaders,2013-11-10,-10.0,included_game_day
+2014,107,Holy Cross Crusaders,2013-11-13,-9.0,included_game_day
+2014,107,Holy Cross Crusaders,2013-11-15,-11.1,included_game_day
+2014,107,Holy Cross Crusaders,2013-11-20,6.214599999999999,included_game_day
+2014,107,Holy Cross Crusaders,2013-11-23,-2.090295000000001,included_game_day
+2014,107,Holy Cross Crusaders,2013-11-24,20.677874499999998,included_game_day
+2014,107,Holy Cross Crusaders,2013-11-30,31.48455705,included_game_day
+2014,107,Holy Cross Crusaders,2013-12-04,31.800706675,included_game_day
+2014,107,Holy Cross Crusaders,2013-12-07,13.859226959,included_game_day
+2014,107,Holy Cross Crusaders,2013-12-16,0.1295259810916214,included_game_day
+2014,107,Holy Cross Crusaders,2013-12-21,18.68848620171282,included_game_day
+2014,107,Holy Cross Crusaders,2013-12-28,9.06931439896416,included_game_day
+2014,107,Holy Cross Crusaders,2014-01-02,2.546758197657761,included_game_day
+2014,107,Holy Cross Crusaders,2014-01-05,-13.833167601824575,included_game_day
+2014,107,Holy Cross Crusaders,2014-01-08,-5.719914496553345,included_game_day
+2014,107,Holy Cross Crusaders,2014-01-11,-6.785906332908265,included_game_day
+2014,107,Holy Cross Crusaders,2014-01-15,-0.14836983198185827,included_game_day
+2014,107,Holy Cross Crusaders,2014-01-18,14.931249585624952,included_game_day
+2014,107,Holy Cross Crusaders,2014-01-22,10.918413463271662,included_game_day
+2014,107,Holy Cross Crusaders,2014-01-25,20.814182831258833,included_game_day
+2014,107,Holy Cross Crusaders,2014-01-29,20.633165597808897,included_game_day
+2014,107,Holy Cross Crusaders,2014-02-01,22.814974102807806,included_game_day
+2014,107,Holy Cross Crusaders,2014-02-04,22.63981979028517,included_game_day
+2014,107,Holy Cross Crusaders,2014-02-09,31.870405424792747,included_game_day
+2014,107,Holy Cross Crusaders,2014-02-12,26.612310457780406,included_game_day
+2014,107,Holy Cross Crusaders,2014-02-15,28.88579733593525,included_game_day
+2014,107,Holy Cross Crusaders,2014-02-19,8.456489430663943,included_game_day
+2014,107,Holy Cross Crusaders,2014-02-23,15.028634860805925,included_game_day
+2014,107,Holy Cross Crusaders,2014-02-26,21.226694100902872,included_game_day
+2014,107,Holy Cross Crusaders,2014-03-01,15.512564710771382,included_game_day
+2014,107,Holy Cross Crusaders,2014-03-05,12.44209596653134,included_game_day
+2014,107,Holy Cross Crusaders,2014-03-08,5.69294003433923,included_game_day
+2014,107,Holy Cross Crusaders,2014-03-17,11.645280330450245,included_game_day
+2014,107,Holy Cross Crusaders,2014-03-22,1.2647901432640154,included_game_day
+2015,107,Holy Cross Crusaders,2014-11-16,1.0,included_game_day
+2015,107,Holy Cross Crusaders,2014-11-19,12.15,included_game_day
+2015,107,Holy Cross Crusaders,2014-11-28,-3.72992,included_game_day
+2015,107,Holy Cross Crusaders,2014-12-03,16.05864,included_game_day
+2015,107,Holy Cross Crusaders,2014-12-06,1.1893558000000013,included_game_day
+2015,107,Holy Cross Crusaders,2014-12-09,-23.163719615699996,included_game_day
+2015,107,Holy Cross Crusaders,2014-12-12,-14.919122925829997,included_game_day
+2015,107,Holy Cross Crusaders,2014-12-21,-30.315187155040647,included_game_day
+2015,107,Holy Cross Crusaders,2014-12-23,-39.98411638338485,included_game_day
+2015,107,Holy Cross Crusaders,2014-12-31,-46.232033872841264,included_game_day
+2015,107,Holy Cross Crusaders,2015-01-03,-43.880281099673034,included_game_day
+2015,107,Holy Cross Crusaders,2015-01-07,-52.35094236665516,included_game_day
+2015,107,Holy Cross Crusaders,2015-01-10,-49.98023240966035,included_game_day
+2015,107,Holy Cross Crusaders,2015-01-14,-52.402951516441696,included_game_day
+2015,107,Holy Cross Crusaders,2015-01-17,-52.828689429144475,included_game_day
+2015,107,Holy Cross Crusaders,2015-01-21,-51.32821349648896,included_game_day
+2015,107,Holy Cross Crusaders,2015-01-24,-43.401863269786105,included_game_day
+2015,107,Holy Cross Crusaders,2015-01-29,-53.8047800212974,included_game_day
+2015,107,Holy Cross Crusaders,2015-02-02,-62.24195707229125,included_game_day
+2015,107,Holy Cross Crusaders,2015-02-05,-49.892093765469774,included_game_day
+2015,107,Holy Cross Crusaders,2015-02-08,-56.09298151046727,included_game_day
+2015,107,Holy Cross Crusaders,2015-02-11,-44.86414357067164,included_game_day
+2015,107,Holy Cross Crusaders,2015-02-14,-36.80423920173237,included_game_day
+2015,107,Holy Cross Crusaders,2015-02-18,-43.05364546559142,included_game_day
+2015,107,Holy Cross Crusaders,2015-02-22,-54.45472342443293,included_game_day
+2015,107,Holy Cross Crusaders,2015-02-25,-54.25433748046065,included_game_day
+2015,107,Holy Cross Crusaders,2015-02-28,-40.632613861363595,included_game_day
+2015,107,Holy Cross Crusaders,2015-03-03,-29.1358930510239,included_game_day
+2015,107,Holy Cross Crusaders,2015-03-05,-31.3981317707593,included_game_day
+2016,107,Holy Cross Crusaders,2015-11-13,6.0,included_game_day
+2016,107,Holy Cross Crusaders,2015-11-16,-8.5,included_game_day
+2016,107,Holy Cross Crusaders,2015-11-19,-15.84,included_game_day
+2016,107,Holy Cross Crusaders,2015-11-22,-19.701,included_game_day
+2016,107,Holy Cross Crusaders,2015-11-25,-12.8815,included_game_day
+2016,107,Holy Cross Crusaders,2015-11-29,-12.850950000000001,included_game_day
+2016,107,Holy Cross Crusaders,2015-12-02,-23.015212000000002,included_game_day
+2016,107,Holy Cross Crusaders,2015-12-05,-23.92273623,included_game_day
+2016,107,Holy Cross Crusaders,2015-12-09,-44.07177047100001,included_game_day
+2016,107,Holy Cross Crusaders,2015-12-12,-21.426675748582007,included_game_day
+2016,107,Holy Cross Crusaders,2015-12-21,-30.689146413025806,included_game_day
+2016,107,Holy Cross Crusaders,2015-12-30,-16.243744846177393,included_game_day
+2016,107,Holy Cross Crusaders,2016-01-02,-19.075395021039455,included_game_day
+2016,107,Holy Cross Crusaders,2016-01-06,-22.61347293574243,included_game_day
+2016,107,Holy Cross Crusaders,2016-01-09,-43.828930286194264,included_game_day
+2016,107,Holy Cross Crusaders,2016-01-13,-58.825075294197646,included_game_day
+2016,107,Holy Cross Crusaders,2016-01-16,-81.85586284626928,included_game_day
+2016,107,Holy Cross Crusaders,2016-01-20,-73.10869303768818,included_game_day
+2016,107,Holy Cross Crusaders,2016-01-24,-78.48354839306225,included_game_day
+2016,107,Holy Cross Crusaders,2016-01-27,-97.80419935749924,included_game_day
+2016,107,Holy Cross Crusaders,2016-01-30,-84.69783241247305,included_game_day
+2016,107,Holy Cross Crusaders,2016-02-01,-95.00947751121,included_game_day
+2016,107,Holy Cross Crusaders,2016-02-06,-112.5580192295024,included_game_day
+2016,107,Holy Cross Crusaders,2016-02-10,-101.83626018291758,included_game_day
+2016,107,Holy Cross Crusaders,2016-02-15,-91.3638668964356,included_game_day
+2016,107,Holy Cross Crusaders,2016-02-17,-87.94878101662468,included_game_day
+2016,107,Holy Cross Crusaders,2016-02-21,-92.60385449170184,included_game_day
+2016,107,Holy Cross Crusaders,2016-02-24,-104.35068666068783,included_game_day
+2016,107,Holy Cross Crusaders,2016-02-27,-108.83311418499736,included_game_day
+2016,107,Holy Cross Crusaders,2016-03-01,-97.59049367147519,included_game_day
+2016,107,Holy Cross Crusaders,2016-03-03,-76.96951562443623,included_game_day
+2016,107,Holy Cross Crusaders,2016-03-06,-47.49260218644436,included_game_day
+2016,107,Holy Cross Crusaders,2016-03-09,-33.677492504256264,included_game_day
+2016,107,Holy Cross Crusaders,2016-03-16,-28.71024275188326,included_game_day
+2016,107,Holy Cross Crusaders,2016-03-18,-47.873958623665835,included_game_day
+2017,107,Holy Cross Crusaders,2016-11-13,-28.4,included_game_day
+2017,107,Holy Cross Crusaders,2016-11-15,-64.06,included_game_day
+2017,107,Holy Cross Crusaders,2016-11-20,-67.735,included_game_day
+2017,107,Holy Cross Crusaders,2016-11-22,-47.9615,included_game_day
+2017,107,Holy Cross Crusaders,2016-11-25,-40.04833,included_game_day
+2017,107,Holy Cross Crusaders,2016-11-27,-39.6333297,included_game_day
+2017,107,Holy Cross Crusaders,2016-11-30,-27.311985229999998,included_game_day
+2017,107,Holy Cross Crusaders,2016-12-03,-27.643066747,included_game_day
+2017,107,Holy Cross Crusaders,2016-12-07,-30.3329533081,included_game_day
+2017,107,Holy Cross Crusaders,2016-12-11,-14.689969637752998,included_game_day
+2017,107,Holy Cross Crusaders,2016-12-18,-15.968543600435698,included_game_day
+2017,107,Holy Cross Crusaders,2016-12-21,-10.751827935675548,included_game_day
+2017,107,Holy Cross Crusaders,2016-12-23,-10.610138779323048,included_game_day
+2017,107,Holy Cross Crusaders,2016-12-30,-14.199245368249889,included_game_day
+2017,107,Holy Cross Crusaders,2017-01-02,-18.849366279565455,included_game_day
+2017,107,Holy Cross Crusaders,2017-01-05,-14.127765963446887,included_game_day
+2017,107,Holy Cross Crusaders,2017-01-08,-31.82232102682786,included_game_day
+2017,107,Holy Cross Crusaders,2017-01-11,-24.311357486327967,included_game_day
+2017,107,Holy Cross Crusaders,2017-01-14,-32.56610065146785,included_game_day
+2017,107,Holy Cross Crusaders,2017-01-18,-18.690897406056827,included_game_day
+2017,107,Holy Cross Crusaders,2017-01-23,-17.758846803035357,included_game_day
+2017,107,Holy Cross Crusaders,2017-01-25,-20.290706067237217,included_game_day
+2017,107,Holy Cross Crusaders,2017-01-28,-24.678020234537154,included_game_day
+2017,107,Holy Cross Crusaders,2017-02-01,-24.34121726106754,included_game_day
+2017,107,Holy Cross Crusaders,2017-02-06,-25.95412992013194,included_game_day
+2017,107,Holy Cross Crusaders,2017-02-08,-43.68297811649311,included_game_day
+2017,107,Holy Cross Crusaders,2017-02-12,-23.811476282885828,included_game_day
+2017,107,Holy Cross Crusaders,2017-02-15,-37.52095063034057,included_game_day
+2017,107,Holy Cross Crusaders,2017-02-19,-25.06059549782475,included_game_day
+2017,107,Holy Cross Crusaders,2017-02-22,-28.207812904492137,included_game_day
+2017,107,Holy Cross Crusaders,2017-02-25,-33.64707986673905,included_game_day
+2017,107,Holy Cross Crusaders,2017-03-02,-38.662210042209246,included_game_day
+2018,107,Holy Cross Crusaders,2017-11-10,8.0,included_game_day
+2018,107,Holy Cross Crusaders,2017-11-16,8.219999999999999,included_game_day
+2018,107,Holy Cross Crusaders,2017-11-19,-9.902000000000001,included_game_day
+2018,107,Holy Cross Crusaders,2017-11-22,-20.6418,included_game_day
+2018,107,Holy Cross Crusaders,2017-11-25,-33.84356,included_game_day
+2018,107,Holy Cross Crusaders,2017-12-01,-49.4657493,included_game_day
+2018,107,Holy Cross Crusaders,2017-12-02,-48.85507282,included_game_day
+2018,107,Holy Cross Crusaders,2017-12-06,-54.701376479,included_game_day
+2018,107,Holy Cross Crusaders,2017-12-09,-52.81562155928,included_game_day
+2018,107,Holy Cross Crusaders,2017-12-19,-63.1176545309299,included_game_day
+2018,107,Holy Cross Crusaders,2017-12-22,-65.00564980775714,included_game_day
+2018,107,Holy Cross Crusaders,2017-12-29,-66.98348355611745,included_game_day
+2018,107,Holy Cross Crusaders,2018-01-02,-75.61488969148114,included_game_day
+2018,107,Holy Cross Crusaders,2018-01-05,-74.99577267969451,included_game_day
+2018,107,Holy Cross Crusaders,2018-01-08,-67.8426946698157,included_game_day
+2018,107,Holy Cross Crusaders,2018-01-11,-65.39615167739004,included_game_day
+2018,107,Holy Cross Crusaders,2018-01-14,-76.08618171683817,included_game_day
+2018,107,Holy Cross Crusaders,2018-01-17,-67.50141827311623,included_game_day
+2018,107,Holy Cross Crusaders,2018-01-20,-74.78076606435526,included_game_day
+2018,107,Holy Cross Crusaders,2018-01-22,-69.06340254255251,included_game_day
+2018,107,Holy Cross Crusaders,2018-01-27,-58.87342594667746,included_game_day
+2018,107,Holy Cross Crusaders,2018-01-29,-66.57390545702408,included_game_day
+2018,107,Holy Cross Crusaders,2018-02-03,-45.28046212018482,included_game_day
+2018,107,Holy Cross Crusaders,2018-02-07,-82.4538694034409,included_game_day
+2018,107,Holy Cross Crusaders,2018-02-10,-62.9517534925687,included_game_day
+2018,107,Holy Cross Crusaders,2018-02-14,-54.27961403538802,included_game_day
+2018,107,Holy Cross Crusaders,2018-02-17,-45.36359844657053,included_game_day
+2018,107,Holy Cross Crusaders,2018-02-21,-46.49665202963663,included_game_day
+2018,107,Holy Cross Crusaders,2018-02-24,-45.62476160174053,included_game_day
+2018,107,Holy Cross Crusaders,2018-03-01,-22.945867623608983,included_game_day
+2018,107,Holy Cross Crusaders,2018-03-04,-23.954532090022504,included_game_day
+2019,107,Holy Cross Crusaders,2018-11-06,9.0,included_game_day
+2019,107,Holy Cross Crusaders,2018-11-10,-6.300000000000001,included_game_day
+2019,107,Holy Cross Crusaders,2018-11-13,-11.5,included_game_day
+2019,107,Holy Cross Crusaders,2018-11-16,4.789999999999999,included_game_day
+2019,107,Holy Cross Crusaders,2018-11-18,16.7006,included_game_day
+2019,107,Holy Cross Crusaders,2018-11-20,22.06454,included_game_day
+2019,107,Holy Cross Crusaders,2018-11-28,13.935495500000002,included_game_day
+2019,107,Holy Cross Crusaders,2018-12-01,24.683438560000003,included_game_day
+2019,107,Holy Cross Crusaders,2018-12-04,32.251928504000006,included_game_day
+2019,107,Holy Cross Crusaders,2018-12-08,11.663811782600007,included_game_day
+2019,107,Holy Cross Crusaders,2018-12-20,3.3381999259590067,included_game_day
+2019,107,Holy Cross Crusaders,2018-12-22,-3.881763691478204,included_game_day
+2019,107,Holy Cross Crusaders,2018-12-30,0.6621494852393255,included_game_day
+2019,107,Holy Cross Crusaders,2019-01-03,4.944199562390045,included_game_day
+2019,107,Holy Cross Crusaders,2019-01-06,-1.0802315395088442,included_game_day
+2019,107,Holy Cross Crusaders,2019-01-09,-7.632843508239295,included_game_day
+2019,107,Holy Cross Crusaders,2019-01-12,-7.79870673458493,included_game_day
+2019,107,Holy Cross Crusaders,2019-01-14,-18.39569899083394,included_game_day
+2019,107,Holy Cross Crusaders,2019-01-19,-28.052428748344838,included_game_day
+2019,107,Holy Cross Crusaders,2019-01-23,-43.48364692843776,included_game_day
+2019,107,Holy Cross Crusaders,2019-01-26,-43.51251243654909,included_game_day
+2019,107,Holy Cross Crusaders,2019-01-30,-55.726839020885905,included_game_day
+2019,107,Holy Cross Crusaders,2019-02-02,-63.65694754770573,included_game_day
+2019,107,Holy Cross Crusaders,2019-02-06,-48.3824191431533,included_game_day
+2019,107,Holy Cross Crusaders,2019-02-10,-48.89521918487461,included_game_day
+2019,107,Holy Cross Crusaders,2019-02-13,-47.979927503373915,included_game_day
+2019,107,Holy Cross Crusaders,2019-02-16,-40.88920076687957,included_game_day
+2019,107,Holy Cross Crusaders,2019-02-18,-54.257135038252876,included_game_day
+2019,107,Holy Cross Crusaders,2019-02-24,-42.16447739453394,included_game_day
+2019,107,Holy Cross Crusaders,2019-02-27,-50.23818013296305,included_game_day
+2019,107,Holy Cross Crusaders,2019-03-02,-70.31124658977271,included_game_day
+2019,107,Holy Cross Crusaders,2019-03-05,-62.35240979529423,included_game_day
+2019,107,Holy Cross Crusaders,2019-03-07,-62.35002274503157,included_game_day
+2020,107,Holy Cross Crusaders,2019-11-05,-21.0,included_game_day
+2020,107,Holy Cross Crusaders,2019-11-09,-19.9,included_game_day
+2020,107,Holy Cross Crusaders,2019-11-12,-26.919999999999998,included_game_day
+2020,107,Holy Cross Crusaders,2019-11-19,-84.7641,included_game_day
+2020,107,Holy Cross Crusaders,2019-11-22,-86.99989,included_game_day
+2020,107,Holy Cross Crusaders,2019-11-29,-96.061681,included_game_day
+2020,107,Holy Cross Crusaders,2019-12-01,-106.396257282,included_game_day
+2020,107,Holy Cross Crusaders,2019-12-02,-83.8596677038,included_game_day
+2020,107,Holy Cross Crusaders,2019-12-07,-93.4671763942,included_game_day
+2020,107,Holy Cross Crusaders,2019-12-14,-88.51388470716,included_game_day
+2020,107,Holy Cross Crusaders,2019-12-22,-102.15385669537609,included_game_day
+2020,107,Holy Cross Crusaders,2019-12-29,-102.56009318363765,included_game_day
+2020,107,Holy Cross Crusaders,2020-01-02,-100.14150801576709,included_game_day
+2020,107,Holy Cross Crusaders,2020-01-05,-91.35758756946532,included_game_day
+2020,107,Holy Cross Crusaders,2020-01-08,-97.74726465056722,included_game_day
+2020,107,Holy Cross Crusaders,2020-01-11,-105.08533817759661,included_game_day
+2020,107,Holy Cross Crusaders,2020-01-16,-117.1100042706077,included_game_day
+2020,107,Holy Cross Crusaders,2020-01-18,-116.75754585974339,included_game_day
+2020,107,Holy Cross Crusaders,2020-01-22,-112.86050242870483,included_game_day
+2020,107,Holy Cross Crusaders,2020-01-25,-117.07513079377408,included_game_day
+2020,107,Holy Cross Crusaders,2020-01-29,-118.57717398823547,included_game_day
+2020,107,Holy Cross Crusaders,2020-02-01,-114.51616292683838,included_game_day
+2020,107,Holy Cross Crusaders,2020-02-05,-126.66915378830362,included_game_day
+2020,107,Holy Cross Crusaders,2020-02-08,-114.18581295429445,included_game_day
+2020,107,Holy Cross Crusaders,2020-02-12,-115.81703332303073,included_game_day
+2020,107,Holy Cross Crusaders,2020-02-15,-119.5052369025668,included_game_day
+2020,107,Holy Cross Crusaders,2020-02-17,-136.2186088152541,included_game_day
+2020,107,Holy Cross Crusaders,2020-02-23,-145.17705411469194,included_game_day
+2020,107,Holy Cross Crusaders,2020-02-26,-134.96743180080713,included_game_day
+2020,107,Holy Cross Crusaders,2020-02-29,-166.59267812828915,included_game_day
+2020,107,Holy Cross Crusaders,2020-03-03,-152.6413047921449,included_game_day
+2021,107,Holy Cross Crusaders,2021-01-04,-10.0,included_game_day
+2021,107,Holy Cross Crusaders,2021-01-05,-3.0,included_game_day
+2021,107,Holy Cross Crusaders,2021-01-09,-22.639609059999998,included_game_day
+2021,107,Holy Cross Crusaders,2021-01-10,-8.351296307999998,included_game_day
+2021,107,Holy Cross Crusaders,2021-01-16,-36.531296307999995,included_game_day
+2021,107,Holy Cross Crusaders,2021-01-17,-28.075296307999995,included_game_day
+2021,107,Holy Cross Crusaders,2021-01-23,-36.244026317199996,included_game_day
+2021,107,Holy Cross Crusaders,2021-01-24,-47.77901032456,included_game_day
+2021,107,Holy Cross Crusaders,2021-01-30,-47.043838922904,included_game_day
+2021,107,Holy Cross Crusaders,2021-01-31,-53.4557018015792,included_game_day
+2021,107,Holy Cross Crusaders,2021-02-13,-38.30838649101328,included_game_day
+2021,107,Holy Cross Crusaders,2021-02-14,-55.190534242560545,included_game_day
+2021,107,Holy Cross Crusaders,2021-02-17,-65.69625244379836,included_game_day
+2021,107,Holy Cross Crusaders,2021-02-20,-58.48024403271394,included_game_day
+2021,107,Holy Cross Crusaders,2021-02-21,-38.707437303846405,included_game_day
+2021,107,Holy Cross Crusaders,2021-02-24,-23.000152234659954,included_game_day
+2022,107,Holy Cross Crusaders,2021-11-12,-25.7,included_game_day
+2022,107,Holy Cross Crusaders,2021-11-15,-29.23,included_game_day
+2022,107,Holy Cross Crusaders,2021-11-20,-45.2641,included_game_day
+2022,107,Holy Cross Crusaders,2021-11-21,-60.814189999999996,included_game_day
+2022,107,Holy Cross Crusaders,2021-11-27,-72.06414226999999,included_game_day
+2022,107,Holy Cross Crusaders,2021-12-01,-75.047237802,included_game_day
+2022,107,Holy Cross Crusaders,2021-12-04,-87.3276455802,included_game_day
+2022,107,Holy Cross Crusaders,2021-12-08,-89.48548640110499,included_game_day
+2022,107,Holy Cross Crusaders,2021-12-11,-100.77232430803949,included_game_day
+2022,107,Holy Cross Crusaders,2021-12-19,-95.02401962448553,included_game_day
+2022,107,Holy Cross Crusaders,2022-01-01,-100.7091221668354,included_game_day
+2022,107,Holy Cross Crusaders,2022-01-04,-98.9251489083917,included_game_day
+2022,107,Holy Cross Crusaders,2022-01-07,-92.46101875143663,included_game_day
+2022,107,Holy Cross Crusaders,2022-01-10,-97.00791976028306,included_game_day
+2022,107,Holy Cross Crusaders,2022-01-22,-105.47863567461204,included_game_day
+2022,107,Holy Cross Crusaders,2022-01-26,-121.49123511165989,included_game_day
+2022,107,Holy Cross Crusaders,2022-01-28,-113.01662822158079,included_game_day
+2022,107,Holy Cross Crusaders,2022-01-31,-91.1691877562489,included_game_day
+2022,107,Holy Cross Crusaders,2022-02-05,-79.81460960262903,included_game_day
+2022,107,Holy Cross Crusaders,2022-02-07,-91.44136759118786,included_game_day
+2022,107,Holy Cross Crusaders,2022-02-09,-85.31894744831486,included_game_day
+2022,107,Holy Cross Crusaders,2022-02-12,-78.32636784268216,included_game_day
+2022,107,Holy Cross Crusaders,2022-02-14,-89.96028388209626,included_game_day
+2022,107,Holy Cross Crusaders,2022-02-16,-96.45642105630665,included_game_day
+2022,107,Holy Cross Crusaders,2022-02-19,-77.71887520804353,included_game_day
+2022,107,Holy Cross Crusaders,2022-02-21,-96.17039967685686,included_game_day
+2022,107,Holy Cross Crusaders,2022-02-23,-90.3004289070314,included_game_day
+2022,107,Holy Cross Crusaders,2022-02-26,-98.66561241198487,included_game_day
+2022,107,Holy Cross Crusaders,2022-03-01,-105.35027904171046,included_game_day
+2023,107,Holy Cross Crusaders,2022-11-07,-10.0,included_game_day
+2023,107,Holy Cross Crusaders,2022-11-14,-30.88,included_game_day
+2023,107,Holy Cross Crusaders,2022-11-19,-33.7724,included_game_day
+2023,107,Holy Cross Crusaders,2022-11-21,-39.859159999999996,included_game_day
+2023,107,Holy Cross Crusaders,2022-11-22,-59.96715999999999,included_game_day
+2023,107,Holy Cross Crusaders,2022-11-30,-90.52095645,included_game_day
+2023,107,Holy Cross Crusaders,2022-12-03,-85.375365765,included_game_day
+2023,107,Holy Cross Crusaders,2022-12-07,-81.45469484112,included_game_day
+2023,107,Holy Cross Crusaders,2022-12-10,-74.123509371108,included_game_day
+2023,107,Holy Cross Crusaders,2022-12-19,-85.31127764738969,included_game_day
+2023,107,Holy Cross Crusaders,2022-12-22,-83.7257523473974,included_game_day
+2023,107,Holy Cross Crusaders,2022-12-30,-78.6137441645564,included_game_day
+2023,107,Holy Cross Crusaders,2023-01-02,-55.74655940362044,included_game_day
+2023,107,Holy Cross Crusaders,2023-01-05,-54.31726640061753,included_game_day
+2023,107,Holy Cross Crusaders,2023-01-08,-54.80452767720798,included_game_day
+2023,107,Holy Cross Crusaders,2023-01-11,-69.82361415371909,included_game_day
+2023,107,Holy Cross Crusaders,2023-01-14,-77.3313026098908,included_game_day
+2023,107,Holy Cross Crusaders,2023-01-18,-74.98648685842635,included_game_day
+2023,107,Holy Cross Crusaders,2023-01-21,-62.75451602044908,included_game_day
+2023,107,Holy Cross Crusaders,2023-01-25,-66.54741988858632,included_game_day
+2023,107,Holy Cross Crusaders,2023-01-28,-68.12787322964152,included_game_day
+2023,107,Holy Cross Crusaders,2023-02-01,-50.91007221508047,included_game_day
+2023,107,Holy Cross Crusaders,2023-02-04,-65.70143216112902,included_game_day
+2023,107,Holy Cross Crusaders,2023-02-06,-80.28320856943239,included_game_day
+2023,107,Holy Cross Crusaders,2023-02-11,-63.72643739422181,included_game_day
+2023,107,Holy Cross Crusaders,2023-02-15,-63.56033075168041,included_game_day
+2023,107,Holy Cross Crusaders,2023-02-18,-70.99841846852391,included_game_day
+2023,107,Holy Cross Crusaders,2023-02-22,-88.75475285535225,included_game_day
+2023,107,Holy Cross Crusaders,2023-02-25,-100.23683332678881,included_game_day
+2023,107,Holy Cross Crusaders,2023-02-28,-95.34880730923767,included_game_day
+2024,107,Holy Cross Crusaders,2023-11-06,1.0,included_game_day
+2024,107,Holy Cross Crusaders,2023-11-11,8.3,included_game_day
+2024,107,Holy Cross Crusaders,2023-11-14,-2.92,included_game_day
+2024,107,Holy Cross Crusaders,2023-11-17,-39.868,included_game_day
+2024,107,Holy Cross Crusaders,2023-11-18,-51.8093,included_game_day
+2024,107,Holy Cross Crusaders,2023-11-19,-38.448499999999996,included_game_day
+2024,107,Holy Cross Crusaders,2023-11-25,-76.710854,included_game_day
+2024,107,Holy Cross Crusaders,2023-11-29,-87.35138119999999,included_game_day
+2024,107,Holy Cross Crusaders,2023-12-02,-87.42462590999999,included_game_day
+2024,107,Holy Cross Crusaders,2023-12-08,-103.31701021279999,included_game_day
+2024,107,Holy Cross Crusaders,2023-12-18,-118.38764430867117,included_game_day
+2024,107,Holy Cross Crusaders,2023-12-21,-105.89716165577406,included_game_day
+2024,107,Holy Cross Crusaders,2024-01-03,-110.64613919024687,included_game_day
+2024,107,Holy Cross Crusaders,2024-01-06,-114.63904254057957,included_game_day
+2024,107,Holy Cross Crusaders,2024-01-10,-117.36019284206013,included_game_day
+2024,107,Holy Cross Crusaders,2024-01-13,-103.80225803516959,included_game_day
+2024,107,Holy Cross Crusaders,2024-01-17,-104.59670889577488,included_game_day
+2024,107,Holy Cross Crusaders,2024-01-20,-98.69567962454009,included_game_day
+2024,107,Holy Cross Crusaders,2024-01-24,-105.12016652238351,included_game_day
+2024,107,Holy Cross Crusaders,2024-01-27,-107.72568143927468,included_game_day
+2024,107,Holy Cross Crusaders,2024-01-29,-103.1350272883453,included_game_day
+2024,107,Holy Cross Crusaders,2024-02-03,-98.075794464924,included_game_day
+2024,107,Holy Cross Crusaders,2024-02-07,-104.91601380238463,included_game_day
+2024,107,Holy Cross Crusaders,2024-02-10,-97.8130521878754,included_game_day
+2024,107,Holy Cross Crusaders,2024-02-14,-109.94007224968281,included_game_day
+2024,107,Holy Cross Crusaders,2024-02-17,-113.16230313654948,included_game_day
+2024,107,Holy Cross Crusaders,2024-02-21,-95.56244932936359,included_game_day
+2024,107,Holy Cross Crusaders,2024-02-25,-101.64094650291875,included_game_day
+2024,107,Holy Cross Crusaders,2024-02-28,-109.22863925534094,included_game_day
+2024,107,Holy Cross Crusaders,2024-03-02,-108.00922241507853,included_game_day
+2024,107,Holy Cross Crusaders,2024-03-05,-88.9183999310383,included_game_day
+2024,107,Holy Cross Crusaders,2024-03-07,-88.9872535935392,included_game_day
+2025,107,Holy Cross Crusaders,2024-11-04,-21.0,included_game_day
+2025,107,Holy Cross Crusaders,2024-11-08,-26.4,included_game_day
+2025,107,Holy Cross Crusaders,2024-11-15,-20.578,included_game_day
+2025,107,Holy Cross Crusaders,2024-11-16,-7.223229999999999,included_game_day
+2025,107,Holy Cross Crusaders,2024-11-17,-13.199470000000002,included_game_day
+2025,107,Holy Cross Crusaders,2024-11-24,-36.408329,included_game_day
+2025,107,Holy Cross Crusaders,2024-11-29,-56.444948350000004,included_game_day
+2025,107,Holy Cross Crusaders,2024-12-04,-56.40880794460001,included_game_day
+2025,107,Holy Cross Crusaders,2024-12-07,-68.270603756,included_game_day
+2025,107,Holy Cross Crusaders,2024-12-17,-60.72458389807622,included_game_day
+2025,107,Holy Cross Crusaders,2024-12-20,-46.30284538321359,included_game_day
+2025,107,Holy Cross Crusaders,2025-01-02,-46.353060533943605,included_game_day
+2025,107,Holy Cross Crusaders,2025-01-05,-55.7501465997804,included_game_day
+2025,107,Holy Cross Crusaders,2025-01-08,-46.320886455455856,included_game_day
+2025,107,Holy Cross Crusaders,2025-01-11,-59.26340623217933,included_game_day
+2025,107,Holy Cross Crusaders,2025-01-15,-59.30776645031914,included_game_day
+2025,107,Holy Cross Crusaders,2025-01-18,-67.54285337655145,included_game_day
+2025,107,Holy Cross Crusaders,2025-01-22,-73.70308853557852,included_game_day
+2025,107,Holy Cross Crusaders,2025-01-25,-65.12056928021016,included_game_day
+2025,107,Holy Cross Crusaders,2025-01-27,-72.98164848545801,included_game_day
+2025,107,Holy Cross Crusaders,2025-02-01,-76.57408968371405,included_game_day
+2025,107,Holy Cross Crusaders,2025-02-05,-72.90672442995654,included_game_day
+2025,107,Holy Cross Crusaders,2025-02-08,-52.878252330981724,included_game_day
+2025,107,Holy Cross Crusaders,2025-02-12,-77.04306706739295,included_game_day
+2025,107,Holy Cross Crusaders,2025-02-15,-82.10680340570791,included_game_day
+2025,107,Holy Cross Crusaders,2025-02-19,-77.53796306098297,included_game_day
+2025,107,Holy Cross Crusaders,2025-02-23,-77.04746078945172,included_game_day
+2025,107,Holy Cross Crusaders,2025-02-26,-79.08403271458712,included_game_day
+2025,107,Holy Cross Crusaders,2025-03-01,-84.14250298568622,included_game_day
+2025,107,Holy Cross Crusaders,2025-03-04,-77.86754415286106,included_game_day
+2026,107,Holy Cross Crusaders,2025-11-03,-7.0,included_game_day
+2026,107,Holy Cross Crusaders,2025-11-08,-47.8,included_game_day
+2026,107,Holy Cross Crusaders,2025-11-10,-57.48,included_game_day
+2026,107,Holy Cross Crusaders,2025-11-16,-47.73917,included_game_day
+2026,107,Holy Cross Crusaders,2025-11-18,-63.461783,included_game_day
+2026,107,Holy Cross Crusaders,2025-11-21,-72.0106047,included_game_day
+2026,107,Holy Cross Crusaders,2025-11-24,-70.39038223,included_game_day
+2026,107,Holy Cross Crusaders,2025-12-03,-49.3721276101,included_game_day
+2026,107,Holy Cross Crusaders,2025-12-06,-40.13155153409,included_game_day
+2026,107,Holy Cross Crusaders,2025-12-16,-66.1583506822252,included_game_day
+2026,107,Holy Cross Crusaders,2025-12-20,-86.01676966713038,included_game_day
+2026,107,Holy Cross Crusaders,2025-12-31,-84.0440906988026,included_game_day
+2026,107,Holy Cross Crusaders,2026-01-03,-86.00711981319128,included_game_day
+2026,107,Holy Cross Crusaders,2026-01-07,-90.6892742919111,included_game_day
+2026,107,Holy Cross Crusaders,2026-01-10,-70.36060707201617,included_game_day
+2026,107,Holy Cross Crusaders,2026-01-14,-67.32814231843987,included_game_day
+2026,107,Holy Cross Crusaders,2026-01-17,-86.33346084659912,included_game_day
+2026,107,Holy Cross Crusaders,2026-01-21,-91.40944128319792,included_game_day
+2026,107,Holy Cross Crusaders,2026-01-24,-96.21258705092053,included_game_day
+2026,107,Holy Cross Crusaders,2026-01-28,-90.79175799856914,included_game_day
+2026,107,Holy Cross Crusaders,2026-01-31,-89.54426003882102,included_game_day
+2026,107,Holy Cross Crusaders,2026-02-02,-98.0976875584461,included_game_day
+2026,107,Holy Cross Crusaders,2026-02-07,-88.5536628803098,included_game_day
+2026,107,Holy Cross Crusaders,2026-02-11,-87.62871716181371,included_game_day
+2026,107,Holy Cross Crusaders,2026-02-15,-91.33271327573097,included_game_day
+2026,107,Holy Cross Crusaders,2026-02-18,-98.33704653053837,included_game_day
+2026,107,Holy Cross Crusaders,2026-02-22,-89.23210681583112,included_game_day
+2026,107,Holy Cross Crusaders,2026-02-25,-93.69257415460092,included_game_day
+2026,107,Holy Cross Crusaders,2026-02-28,-109.85632056949679,included_game_day
+2026,107,Holy Cross Crusaders,2026-03-03,-100.29728406463427,included_game_day
+2026,107,Holy Cross Crusaders,2026-03-05,-95.19393941422196,included_game_day
+2027,107,Holy Cross Crusaders,2026-11-03,-41.0,included_game_day
+2027,107,Holy Cross Crusaders,2026-11-06,-63.1,included_game_day
+2027,107,Holy Cross Crusaders,2026-11-11,-70.78,included_game_day
+2027,107,Holy Cross Crusaders,2026-11-15,-71.2747,included_game_day
+2027,107,Holy Cross Crusaders,2026-11-18,-79.61013,included_game_day
+2027,107,Holy Cross Crusaders,2026-11-20,-89.034198,included_game_day

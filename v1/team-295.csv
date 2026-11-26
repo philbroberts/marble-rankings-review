@@ -1,0 +1,1230 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,295,Old Dominion,1987-11-28,6.0,included_game_day
+1988,295,Old Dominion,1987-12-05,13.208000000000002,included_game_day
+1988,295,Old Dominion,1987-12-15,22.647883,included_game_day
+1988,295,Old Dominion,1987-12-18,28.37284571,included_game_day
+1988,295,Old Dominion,1987-12-19,21.5845234049,included_game_day
+1988,295,Old Dominion,1987-12-28,16.774984766110002,included_game_day
+1988,295,Old Dominion,1987-12-30,-0.1433967290710001,included_game_day
+1988,295,Old Dominion,1988-01-02,0.8770306666321002,included_game_day
+1988,295,Old Dominion,1988-01-04,13.739673416103022,included_game_day
+1988,295,Old Dominion,1988-01-07,18.54025449161312,included_game_day
+1988,295,Old Dominion,1988-01-09,14.761268609419911,included_game_day
+1988,295,Old Dominion,1988-01-14,13.804301354189414,included_game_day
+1988,295,Old Dominion,1988-01-16,17.53951717044553,included_game_day
+1988,295,Old Dominion,1988-01-18,16.24289450378005,included_game_day
+1988,295,Old Dominion,1988-01-23,9.428526295058505,included_game_day
+1988,295,Old Dominion,1988-01-28,-5.204657929712656,included_game_day
+1988,295,Old Dominion,1988-01-30,-4.031602476277815,included_game_day
+1988,295,Old Dominion,1988-02-02,-3.0380612588823848,included_game_day
+1988,295,Old Dominion,1988-02-04,-1.67677578860199,included_game_day
+1988,295,Old Dominion,1988-02-06,-1.3030479515778595,included_game_day
+1988,295,Old Dominion,1988-02-11,7.416511871882017,included_game_day
+1988,295,Old Dominion,1988-02-13,1.371527371753781,included_game_day
+1988,295,Old Dominion,1988-02-15,3.8497097628960004,included_game_day
+1988,295,Old Dominion,1988-02-20,7.026494580829351,included_game_day
+1988,295,Old Dominion,1988-02-24,25.72308954743564,included_game_day
+1988,295,Old Dominion,1988-02-28,32.11463659485858,included_game_day
+1988,295,Old Dominion,1988-03-05,27.18972291398782,included_game_day
+1988,295,Old Dominion,1988-03-06,10.300153795940165,included_game_day
+1988,295,Old Dominion,1988-03-17,4.020519372220584,included_game_day
+1989,295,Old Dominion,1988-11-30,11.0,included_game_day
+1989,295,Old Dominion,1988-12-02,27.004,included_game_day
+1989,295,Old Dominion,1988-12-07,26.744449000000003,included_game_day
+1989,295,Old Dominion,1988-12-10,10.927555100000003,included_game_day
+1989,295,Old Dominion,1988-12-23,-2.4841234732254787,included_game_day
+1989,295,Old Dominion,1988-12-25,-2.142906140777266,included_game_day
+1989,295,Old Dominion,1988-12-29,4.45051587966546,included_game_day
+1989,295,Old Dominion,1989-01-04,9.437857466426737,included_game_day
+1989,295,Old Dominion,1989-01-07,22.1507678590471,included_game_day
+1989,295,Old Dominion,1989-01-09,32.469840384891235,included_game_day
+1989,295,Old Dominion,1989-01-12,47.16345707893147,included_game_day
+1989,295,Old Dominion,1989-01-14,40.11968740153641,included_game_day
+1989,295,Old Dominion,1989-01-21,34.49102369722053,included_game_day
+1989,295,Old Dominion,1989-01-23,41.9794911590878,included_game_day
+1989,295,Old Dominion,1989-01-26,38.58048938192586,included_game_day
+1989,295,Old Dominion,1989-01-28,68.78295361965039,included_game_day
+1989,295,Old Dominion,1989-01-30,65.89240226582905,included_game_day
+1989,295,Old Dominion,1989-02-04,50.121515446255785,included_game_day
+1989,295,Old Dominion,1989-02-07,45.882753510054926,included_game_day
+1989,295,Old Dominion,1989-02-09,53.83516834798864,included_game_day
+1989,295,Old Dominion,1989-02-11,55.70263513353248,included_game_day
+1989,295,Old Dominion,1989-02-14,51.78814733990624,included_game_day
+1989,295,Old Dominion,1989-02-18,48.50121400935996,included_game_day
+1989,295,Old Dominion,1989-02-21,44.13887011548495,included_game_day
+1989,295,Old Dominion,1989-02-25,21.657233476495026,included_game_day
+1989,295,Old Dominion,1989-02-28,27.397037704733606,included_game_day
+1989,295,Old Dominion,1989-03-04,27.92098569569469,included_game_day
+1990,295,Old Dominion,1989-11-29,1.6400000000000001,included_game_day
+1990,295,Old Dominion,1989-12-02,4.8759999999999994,included_game_day
+1990,295,Old Dominion,1989-12-04,6.6479,included_game_day
+1990,295,Old Dominion,1989-12-09,-7.55789,included_game_day
+1990,295,Old Dominion,1989-12-20,-9.30295349,included_game_day
+1990,295,Old Dominion,1989-12-21,1.1801820791409998,included_game_day
+1990,295,Old Dominion,1989-12-30,1.6873288045948995,included_game_day
+1990,295,Old Dominion,1990-01-03,-1.4584756162503312,included_game_day
+1990,295,Old Dominion,1990-01-06,4.541966080427043,included_game_day
+1990,295,Old Dominion,1990-01-09,16.666797403148273,included_game_day
+1990,295,Old Dominion,1990-01-13,13.022953531025838,included_game_day
+1990,295,Old Dominion,1990-01-15,22.927927590166426,included_game_day
+1990,295,Old Dominion,1990-01-18,15.07772593858132,included_game_day
+1990,295,Old Dominion,1990-01-20,1.759590249439258,included_game_day
+1990,295,Old Dominion,1990-01-22,20.597737612470247,included_game_day
+1990,295,Old Dominion,1990-01-29,25.63921064551267,included_game_day
+1990,295,Old Dominion,1990-02-01,38.00157994162103,included_game_day
+1990,295,Old Dominion,1990-02-03,30.06813000218731,included_game_day
+1990,295,Old Dominion,1990-02-07,31.819437095561725,included_game_day
+1990,295,Old Dominion,1990-02-10,47.83905396437134,included_game_day
+1990,295,Old Dominion,1990-02-12,44.35813266290911,included_game_day
+1990,295,Old Dominion,1990-02-15,57.78036508311801,included_game_day
+1990,295,Old Dominion,1990-02-17,43.89629593081244,included_game_day
+1990,295,Old Dominion,1990-02-19,45.904990170648276,included_game_day
+1990,295,Old Dominion,1990-02-21,33.43178991974474,included_game_day
+1990,295,Old Dominion,1990-02-24,49.05102473025912,included_game_day
+1990,295,Old Dominion,1990-02-26,43.935432017310205,included_game_day
+1990,295,Old Dominion,1990-03-03,32.88918987863312,included_game_day
+1991,295,Old Dominion,1990-11-23,2.0,included_game_day
+1991,295,Old Dominion,1990-11-24,-11.9,included_game_day
+1991,295,Old Dominion,1990-11-25,-31.130000000000003,included_game_day
+1991,295,Old Dominion,1990-11-30,-6.844000000000001,included_game_day
+1991,295,Old Dominion,1990-12-01,2.961599999999999,included_game_day
+1991,295,Old Dominion,1990-12-05,-2.434920000000001,included_game_day
+1991,295,Old Dominion,1990-12-08,2.748531999999999,included_game_day
+1991,295,Old Dominion,1990-12-15,19.21191803,included_game_day
+1991,295,Old Dominion,1990-12-18,1.869702127,included_game_day
+1991,295,Old Dominion,1990-12-22,-6.87466254211,included_game_day
+1991,295,Old Dominion,1990-12-29,-7.8587521573290005,included_game_day
+1991,295,Old Dominion,1991-01-03,-21.078657411230786,included_game_day
+1991,295,Old Dominion,1991-01-07,-24.630022255712355,included_game_day
+1991,295,Old Dominion,1991-01-10,-4.618700532216003,included_game_day
+1991,295,Old Dominion,1991-01-12,-10.962562744901843,included_game_day
+1991,295,Old Dominion,1991-01-14,-19.63468634803352,included_game_day
+1991,295,Old Dominion,1991-01-17,-18.598298171321623,included_game_day
+1991,295,Old Dominion,1991-01-19,-25.059826639859384,included_game_day
+1991,295,Old Dominion,1991-01-24,-31.487202197708775,included_game_day
+1991,295,Old Dominion,1991-01-28,-18.633882371405527,included_game_day
+1991,295,Old Dominion,1991-01-30,-12.976564712934003,included_game_day
+1991,295,Old Dominion,1991-02-02,-13.063295207969906,included_game_day
+1991,295,Old Dominion,1991-02-05,4.873349204723963,included_game_day
+1991,295,Old Dominion,1991-02-07,12.46576758206917,included_game_day
+1991,295,Old Dominion,1991-02-11,14.58233321518113,included_game_day
+1991,295,Old Dominion,1991-02-14,15.181400141883465,included_game_day
+1991,295,Old Dominion,1991-02-16,1.3815719413367074,included_game_day
+1991,295,Old Dominion,1991-02-21,18.160285752245564,included_game_day
+1991,295,Old Dominion,1991-02-23,18.054281328774877,included_game_day
+1991,295,Old Dominion,1991-03-02,25.433787140534744,included_game_day
+1991,295,Old Dominion,1991-03-03,26.256446200728114,included_game_day
+1991,295,Old Dominion,1991-03-04,26.083722044148338,included_game_day
+1992,295,Old Dominion,1991-11-30,-19.18,included_game_day
+1992,295,Old Dominion,1991-12-02,-30.2651,included_game_day
+1992,295,Old Dominion,1991-12-07,-41.891145,included_game_day
+1992,295,Old Dominion,1991-12-14,-67.04261049,included_game_day
+1992,295,Old Dominion,1991-12-23,-57.54000389083,included_game_day
+1992,295,Old Dominion,1991-12-28,-64.035671561747,included_game_day
+1992,295,Old Dominion,1991-12-29,-51.3524724068623,included_game_day
+1992,295,Old Dominion,1992-01-04,-56.243983514249244,included_game_day
+1992,295,Old Dominion,1992-01-11,-51.637762225669775,included_game_day
+1992,295,Old Dominion,1992-01-13,-36.596995506707984,included_game_day
+1992,295,Old Dominion,1992-01-15,-46.8368162557613,included_game_day
+1992,295,Old Dominion,1992-01-18,-48.89790168429708,included_game_day
+1992,295,Old Dominion,1992-01-22,-46.26953768215054,included_game_day
+1992,295,Old Dominion,1992-01-25,-35.09077923242353,included_game_day
+1992,295,Old Dominion,1992-01-29,-54.19099107239889,included_game_day
+1992,295,Old Dominion,1992-02-01,-45.80994730350187,included_game_day
+1992,295,Old Dominion,1992-02-05,-40.82573775014107,included_game_day
+1992,295,Old Dominion,1992-02-08,-32.322622216679676,included_game_day
+1992,295,Old Dominion,1992-02-12,-41.751421737023065,included_game_day
+1992,295,Old Dominion,1992-02-15,-30.365877309961025,included_game_day
+1992,295,Old Dominion,1992-02-17,-20.73829445552399,included_game_day
+1992,295,Old Dominion,1992-02-22,-21.847896868446178,included_game_day
+1992,295,Old Dominion,1992-02-24,-29.271007422091945,included_game_day
+1992,295,Old Dominion,1992-02-26,-29.456747643963695,included_game_day
+1992,295,Old Dominion,1992-02-29,-25.009118127732343,included_game_day
+1992,295,Old Dominion,1992-03-07,-12.93835565361488,included_game_day
+1992,295,Old Dominion,1992-03-08,1.6040338094251005,included_game_day
+1992,295,Old Dominion,1992-03-09,16.14571178773597,included_game_day
+1992,295,Old Dominion,1992-03-20,12.294956936462857,included_game_day
+1993,295,Old Dominion,1992-12-01,-34.0,included_game_day
+1993,295,Old Dominion,1992-12-05,-20.52,included_game_day
+1993,295,Old Dominion,1992-12-09,-34.586,included_game_day
+1993,295,Old Dominion,1992-12-12,-8.783359999999998,included_game_day
+1993,295,Old Dominion,1992-12-19,-6.911699999999998,included_game_day
+1993,295,Old Dominion,1992-12-28,-11.686906996999998,included_game_day
+1993,295,Old Dominion,1993-01-02,6.212345102700002,included_game_day
+1993,295,Old Dominion,1993-01-04,9.535707911290121,included_game_day
+1993,295,Old Dominion,1993-01-09,9.436116943403738,included_game_day
+1993,295,Old Dominion,1993-01-11,17.081953444683855,included_game_day
+1993,295,Old Dominion,1993-01-16,-4.104101334499553,included_game_day
+1993,295,Old Dominion,1993-01-18,-5.810614836008927,included_game_day
+1993,295,Old Dominion,1993-01-23,2.0317214571928375,included_game_day
+1993,295,Old Dominion,1993-01-25,13.911522283288665,included_game_day
+1993,295,Old Dominion,1993-01-27,15.720177741633146,included_game_day
+1993,295,Old Dominion,1993-01-30,19.2563989696459,included_game_day
+1993,295,Old Dominion,1993-02-04,29.423412481841485,included_game_day
+1993,295,Old Dominion,1993-02-06,43.82315464738717,included_game_day
+1993,295,Old Dominion,1993-02-08,40.36656137682485,included_game_day
+1993,295,Old Dominion,1993-02-13,39.85285827732148,included_game_day
+1993,295,Old Dominion,1993-02-18,46.84224910834343,included_game_day
+1993,295,Old Dominion,1993-02-20,57.32627900006791,included_game_day
+1993,295,Old Dominion,1993-02-22,63.661455276520954,included_game_day
+1993,295,Old Dominion,1993-02-27,62.154153938858435,included_game_day
+1993,295,Old Dominion,1993-03-01,67.67428323264744,included_game_day
+1993,295,Old Dominion,1993-03-06,53.73204943397221,included_game_day
+1993,295,Old Dominion,1993-03-17,59.58106871828012,included_game_day
+1993,295,Old Dominion,1993-03-22,60.256578887682636,included_game_day
+1994,295,Old Dominion,1993-11-27,7.0,included_game_day
+1994,295,Old Dominion,1993-11-29,42.0,included_game_day
+1994,295,Old Dominion,1993-12-02,64.8,included_game_day
+1994,295,Old Dominion,1993-12-03,81.729,included_game_day
+1994,295,Old Dominion,1993-12-11,75.7841319,included_game_day
+1994,295,Old Dominion,1993-12-18,53.18594560470001,included_game_day
+1994,295,Old Dominion,1993-12-20,53.91823544423001,included_game_day
+1994,295,Old Dominion,1993-12-22,50.8039203025135,included_game_day
+1994,295,Old Dominion,1993-12-28,40.61307118156215,included_game_day
+1994,295,Old Dominion,1993-12-29,37.976888465369306,included_game_day
+1994,295,Old Dominion,1994-01-05,40.593136638649376,included_game_day
+1994,295,Old Dominion,1994-01-08,34.92641513107267,included_game_day
+1994,295,Old Dominion,1994-01-13,36.34408321119945,included_game_day
+1994,295,Old Dominion,1994-01-15,51.38180632837342,included_game_day
+1994,295,Old Dominion,1994-01-17,39.2145141277987,included_game_day
+1994,295,Old Dominion,1994-01-22,64.04818364399132,included_game_day
+1994,295,Old Dominion,1994-01-26,61.074136263028926,included_game_day
+1994,295,Old Dominion,1994-01-31,64.74259556671784,included_game_day
+1994,295,Old Dominion,1994-02-02,71.33191772895591,included_game_day
+1994,295,Old Dominion,1994-02-05,79.70006797186525,included_game_day
+1994,295,Old Dominion,1994-02-09,66.41067643142983,included_game_day
+1994,295,Old Dominion,1994-02-12,67.15505816878016,included_game_day
+1994,295,Old Dominion,1994-02-14,79.78228911326077,included_game_day
+1994,295,Old Dominion,1994-02-19,88.35178357603368,included_game_day
+1994,295,Old Dominion,1994-02-23,73.2077896889094,included_game_day
+1994,295,Old Dominion,1994-02-26,83.33222639861825,included_game_day
+1994,295,Old Dominion,1994-03-05,89.43177576638533,included_game_day
+1994,295,Old Dominion,1994-03-06,86.61628810337258,included_game_day
+1994,295,Old Dominion,1994-03-07,79.23047901043132,included_game_day
+1994,295,Old Dominion,1994-03-17,80.87091804805519,included_game_day
+1994,295,Old Dominion,1994-03-21,74.11723812041728,included_game_day
+1995,295,Old Dominion,1994-11-16,0.0,included_game_day
+1995,295,Old Dominion,1994-11-26,15.0,included_game_day
+1995,295,Old Dominion,1994-11-28,24.4,included_game_day
+1995,295,Old Dominion,1994-12-03,9.919999999999998,included_game_day
+1995,295,Old Dominion,1994-12-05,13.581199999999997,included_game_day
+1995,295,Old Dominion,1994-12-08,21.869733999999998,included_game_day
+1995,295,Old Dominion,1994-12-10,16.978140599999996,included_game_day
+1995,295,Old Dominion,1994-12-16,22.883458539999996,included_game_day
+1995,295,Old Dominion,1994-12-17,19.193553562999995,included_game_day
+1995,295,Old Dominion,1994-12-22,9.557051299499996,included_game_day
+1995,295,Old Dominion,1994-12-29,-3.1716000065500047,included_game_day
+1995,295,Old Dominion,1995-01-04,-6.620291126157249,included_game_day
+1995,295,Old Dominion,1995-01-07,-13.133521455213813,included_game_day
+1995,295,Old Dominion,1995-01-11,-0.9381657433212816,included_game_day
+1995,295,Old Dominion,1995-01-14,-1.6915127997512371,included_game_day
+1995,295,Old Dominion,1995-01-18,2.0542797700658255,included_game_day
+1995,295,Old Dominion,1995-01-21,12.34986802931313,included_game_day
+1995,295,Old Dominion,1995-01-25,23.81112296243881,included_game_day
+1995,295,Old Dominion,1995-01-28,38.96139232040911,included_game_day
+1995,295,Old Dominion,1995-01-31,37.06681964550491,included_game_day
+1995,295,Old Dominion,1995-02-04,20.412860889186412,included_game_day
+1995,295,Old Dominion,1995-02-06,7.648206782579521,included_game_day
+1995,295,Old Dominion,1995-02-08,6.703342498364764,included_game_day
+1995,295,Old Dominion,1995-02-11,15.001357099486262,included_game_day
+1995,295,Old Dominion,1995-02-13,23.936740504822737,included_game_day
+1995,295,Old Dominion,1995-02-18,27.3666521193335,included_game_day
+1995,295,Old Dominion,1995-02-20,36.895487033259485,included_game_day
+1995,295,Old Dominion,1995-02-25,28.711631372484554,included_game_day
+1995,295,Old Dominion,1995-03-04,30.711613528247216,included_game_day
+1995,295,Old Dominion,1995-03-05,33.103947576494434,included_game_day
+1995,295,Old Dominion,1995-03-06,35.84556942874525,included_game_day
+1995,295,Old Dominion,1995-03-17,53.95801078128961,included_game_day
+1995,295,Old Dominion,1995-03-19,46.85602268045696,included_game_day
+1996,295,Old Dominion,1995-11-23,-20.0,included_game_day
+1996,295,Old Dominion,1995-11-25,-19.89,included_game_day
+1996,295,Old Dominion,1995-11-29,-12.311,included_game_day
+1996,295,Old Dominion,1995-12-02,-21.579900000000002,included_game_day
+1996,295,Old Dominion,1995-12-05,-26.711910000000003,included_game_day
+1996,295,Old Dominion,1995-12-09,-36.150719,included_game_day
+1996,295,Old Dominion,1995-12-18,-24.260176229000002,included_game_day
+1996,295,Old Dominion,1995-12-20,-8.582189288100002,included_game_day
+1996,295,Old Dominion,1995-12-27,-19.600227774590003,included_game_day
+1996,295,Old Dominion,1995-12-28,-16.52772687762317,included_game_day
+1996,295,Old Dominion,1996-01-02,-13.286091029198273,included_game_day
+1996,295,Old Dominion,1996-01-06,-27.317305805337142,included_game_day
+1996,295,Old Dominion,1996-01-10,-10.099829110749951,included_game_day
+1996,295,Old Dominion,1996-01-13,5.651087865904749,included_game_day
+1996,295,Old Dominion,1996-01-17,16.47167375745657,included_game_day
+1996,295,Old Dominion,1996-01-20,13.723162648889971,included_game_day
+1996,295,Old Dominion,1996-01-24,22.935499445272498,included_game_day
+1996,295,Old Dominion,1996-01-27,27.983317189736596,included_game_day
+1996,295,Old Dominion,1996-01-29,41.579448104454926,included_game_day
+1996,295,Old Dominion,1996-01-31,34.43740848483982,included_game_day
+1996,295,Old Dominion,1996-02-03,32.32221248531661,included_game_day
+1996,295,Old Dominion,1996-02-05,-3.1873903356185735,included_game_day
+1996,295,Old Dominion,1996-02-10,-11.684824967304246,included_game_day
+1996,295,Old Dominion,1996-02-14,-9.071983344677566,included_game_day
+1996,295,Old Dominion,1996-02-17,-10.636297779439552,included_game_day
+1996,295,Old Dominion,1996-02-21,-9.39448592503928,included_game_day
+1996,295,Old Dominion,1996-02-24,-15.218154878487772,included_game_day
+1996,295,Old Dominion,1996-02-26,3.1864690914939136,included_game_day
+1996,295,Old Dominion,1996-03-02,1.5275775260283204,included_game_day
+1996,295,Old Dominion,1996-03-03,-18.780055947926865,included_game_day
+1997,295,Old Dominion,1996-11-22,5.0,included_game_day
+1997,295,Old Dominion,1996-11-25,9.5,included_game_day
+1997,295,Old Dominion,1996-11-30,8.25,included_game_day
+1997,295,Old Dominion,1996-12-02,14.425,included_game_day
+1997,295,Old Dominion,1996-12-05,25.2372,included_game_day
+1997,295,Old Dominion,1996-12-10,34.17488,included_game_day
+1997,295,Old Dominion,1996-12-13,32.97245,included_game_day
+1997,295,Old Dominion,1996-12-14,35.764357880000006,included_game_day
+1997,295,Old Dominion,1996-12-19,26.037080181000007,included_game_day
+1997,295,Old Dominion,1996-12-30,20.45610249070201,included_game_day
+1997,295,Old Dominion,1996-12-31,27.669997267017965,included_game_day
+1997,295,Old Dominion,1997-01-01,23.055502953452404,included_game_day
+1997,295,Old Dominion,1997-01-04,33.388950065426215,included_game_day
+1997,295,Old Dominion,1997-01-08,41.55445897111334,included_game_day
+1997,295,Old Dominion,1997-01-11,47.578544517575175,included_game_day
+1997,295,Old Dominion,1997-01-13,50.35391884890195,included_game_day
+1997,295,Old Dominion,1997-01-15,42.21341467308337,included_game_day
+1997,295,Old Dominion,1997-01-18,59.708060255692516,included_game_day
+1997,295,Old Dominion,1997-01-22,39.87961111565872,included_game_day
+1997,295,Old Dominion,1997-01-25,22.081886642575807,included_game_day
+1997,295,Old Dominion,1997-01-29,9.835542816534263,included_game_day
+1997,295,Old Dominion,1997-02-01,16.555841861210766,included_game_day
+1997,295,Old Dominion,1997-02-05,-14.67526754147735,included_game_day
+1997,295,Old Dominion,1997-02-08,-11.321719771640051,included_game_day
+1997,295,Old Dominion,1997-02-11,-7.472151553982183,included_game_day
+1997,295,Old Dominion,1997-02-15,0.3672505931883041,included_game_day
+1997,295,Old Dominion,1997-02-19,34.674877634639785,included_game_day
+1997,295,Old Dominion,1997-02-22,45.27188395260353,included_game_day
+1997,295,Old Dominion,1997-02-24,41.72090562999382,included_game_day
+1997,295,Old Dominion,1997-03-01,53.10427189426393,included_game_day
+1997,295,Old Dominion,1997-03-02,56.364035408867785,included_game_day
+1997,295,Old Dominion,1997-03-03,54.14902567492652,included_game_day
+1997,295,Old Dominion,1997-03-14,57.64485363521463,included_game_day
+1998,295,Old Dominion,1997-11-18,-7.7,included_game_day
+1998,295,Old Dominion,1997-11-22,1.1700000000000008,included_game_day
+1998,295,Old Dominion,1997-11-25,11.553,included_game_day
+1998,295,Old Dominion,1997-11-29,19.7587,included_game_day
+1998,295,Old Dominion,1997-12-03,-8.484669999999998,included_game_day
+1998,295,Old Dominion,1997-12-06,-18.688446,included_game_day
+1998,295,Old Dominion,1997-12-13,-18.407747217649998,included_game_day
+1998,295,Old Dominion,1997-12-18,-18.420883752865098,included_game_day
+1998,295,Old Dominion,1997-12-20,-29.39319740557859,included_game_day
+1998,295,Old Dominion,1998-01-03,-31.61810923728583,included_game_day
+1998,295,Old Dominion,1998-01-07,-35.87495420030353,included_game_day
+1998,295,Old Dominion,1998-01-10,-35.35255084605244,included_game_day
+1998,295,Old Dominion,1998-01-14,-29.561871805302907,included_game_day
+1998,295,Old Dominion,1998-01-17,-39.19066184948896,included_game_day
+1998,295,Old Dominion,1998-01-19,-23.151484057008446,included_game_day
+1998,295,Old Dominion,1998-01-21,-11.898456264443592,included_game_day
+1998,295,Old Dominion,1998-01-24,-15.762545363281404,included_game_day
+1998,295,Old Dominion,1998-01-28,-26.02651431320077,included_game_day
+1998,295,Old Dominion,1998-01-31,-10.380646272391923,included_game_day
+1998,295,Old Dominion,1998-02-03,-15.727153017553583,included_game_day
+1998,295,Old Dominion,1998-02-07,-29.252737493392054,included_game_day
+1998,295,Old Dominion,1998-02-11,-29.641313018361338,included_game_day
+1998,295,Old Dominion,1998-02-14,-25.74195500425956,included_game_day
+1998,295,Old Dominion,1998-02-18,-23.08819441381776,included_game_day
+1998,295,Old Dominion,1998-02-21,-15.24823625590896,included_game_day
+1998,295,Old Dominion,1998-02-23,-11.306708269957575,included_game_day
+1998,295,Old Dominion,1998-02-25,-6.990239849540066,included_game_day
+1998,295,Old Dominion,1998-02-28,-5.814734579745373,included_game_day
+1999,295,Old Dominion,1998-11-14,18.0,included_game_day
+1999,295,Old Dominion,1998-11-18,25.2,included_game_day
+1999,295,Old Dominion,1998-11-21,37.480000000000004,included_game_day
+1999,295,Old Dominion,1998-11-24,62.632000000000005,included_game_day
+1999,295,Old Dominion,1998-11-28,72.75089,included_game_day
+1999,295,Old Dominion,1998-12-04,71.50862286,included_game_day
+1999,295,Old Dominion,1998-12-05,72.037283574,included_game_day
+1999,295,Old Dominion,1998-12-08,68.02450770749999,included_game_day
+1999,295,Old Dominion,1998-12-12,62.452276456049994,included_game_day
+1999,295,Old Dominion,1998-12-29,57.533267105453795,included_game_day
+1999,295,Old Dominion,1998-12-30,64.03543295534068,included_game_day
+1999,295,Old Dominion,1999-01-04,33.20360654914916,included_game_day
+1999,295,Old Dominion,1999-01-06,32.77977148814408,included_game_day
+1999,295,Old Dominion,1999-01-09,41.91086170292699,included_game_day
+1999,295,Old Dominion,1999-01-13,42.76933450259809,included_game_day
+1999,295,Old Dominion,1999-01-16,45.77352209092834,included_game_day
+1999,295,Old Dominion,1999-01-18,51.286950986819065,included_game_day
+1999,295,Old Dominion,1999-01-20,56.309608545184815,included_game_day
+1999,295,Old Dominion,1999-01-23,63.82232046744309,included_game_day
+1999,295,Old Dominion,1999-01-27,51.953586169498756,included_game_day
+1999,295,Old Dominion,1999-01-30,48.70131716297977,included_game_day
+1999,295,Old Dominion,1999-02-01,33.90754265632145,included_game_day
+1999,295,Old Dominion,1999-02-06,25.56784713788427,included_game_day
+1999,295,Old Dominion,1999-02-08,18.899781925143103,included_game_day
+1999,295,Old Dominion,1999-02-10,20.780441523000313,included_game_day
+1999,295,Old Dominion,1999-02-13,29.645048075932447,included_game_day
+1999,295,Old Dominion,1999-02-17,38.74941236898739,included_game_day
+1999,295,Old Dominion,1999-02-26,36.661550202245635,included_game_day
+1999,295,Old Dominion,1999-02-27,53.77993682597332,included_game_day
+1999,295,Old Dominion,1999-02-28,51.19595330574378,included_game_day
+1999,295,Old Dominion,1999-03-10,67.16821630824221,included_game_day
+1999,295,Old Dominion,1999-03-15,54.81388695134517,included_game_day
+2000,295,Old Dominion,1999-11-20,10.0,included_game_day
+2000,295,Old Dominion,1999-11-23,-1.9000000000000004,included_game_day
+2000,295,Old Dominion,1999-11-26,-14.38,included_game_day
+2000,295,Old Dominion,1999-11-27,-13.71,included_game_day
+2000,295,Old Dominion,1999-11-28,-12.321100000000001,included_game_day
+2000,295,Old Dominion,1999-12-01,-9.825990000000001,included_game_day
+2000,295,Old Dominion,1999-12-04,-22.0033628,included_game_day
+2000,295,Old Dominion,1999-12-08,-12.390264808700001,included_game_day
+2000,295,Old Dominion,1999-12-11,-9.215479666830001,included_game_day
+2000,295,Old Dominion,1999-12-18,-21.079277900146998,included_game_day
+2000,295,Old Dominion,1999-12-22,-21.639170920149297,included_game_day
+2000,295,Old Dominion,1999-12-29,-31.19677568901323,included_game_day
+2000,295,Old Dominion,2000-01-03,-22.620030498552914,included_game_day
+2000,295,Old Dominion,2000-01-05,-23.60857877431456,included_game_day
+2000,295,Old Dominion,2000-01-08,-13.641345335659228,included_game_day
+2000,295,Old Dominion,2000-01-12,-17.95582371452889,included_game_day
+2000,295,Old Dominion,2000-01-15,-12.30121233488977,included_game_day
+2000,295,Old Dominion,2000-01-19,-12.300019101494707,included_game_day
+2000,295,Old Dominion,2000-01-22,2.114983180089352,included_game_day
+2000,295,Old Dominion,2000-01-26,-11.280830760655448,included_game_day
+2000,295,Old Dominion,2000-01-29,-12.229007396574064,included_game_day
+2000,295,Old Dominion,2000-02-02,0.963023215996401,included_game_day
+2000,295,Old Dominion,2000-02-05,-0.6040043835713131,included_game_day
+2000,295,Old Dominion,2000-02-07,-6.897343555844948,included_game_day
+2000,295,Old Dominion,2000-02-10,-13.831971588084773,included_game_day
+2000,295,Old Dominion,2000-02-12,-8.89944744985126,included_game_day
+2000,295,Old Dominion,2000-02-16,-17.471894017481162,included_game_day
+2000,295,Old Dominion,2000-02-19,-14.323192362584004,included_game_day
+2000,295,Old Dominion,2000-02-23,-6.548048770559831,included_game_day
+2000,295,Old Dominion,2000-03-04,-14.928897797177234,included_game_day
+2001,295,Old Dominion,2000-11-20,2.7,included_game_day
+2001,295,Old Dominion,2000-11-23,-21.57,included_game_day
+2001,295,Old Dominion,2000-11-24,-27.5696,included_game_day
+2001,295,Old Dominion,2000-11-29,-20.16554,included_game_day
+2001,295,Old Dominion,2000-12-02,-28.593006,included_game_day
+2001,295,Old Dominion,2000-12-06,-41.0445004,included_game_day
+2001,295,Old Dominion,2000-12-09,-31.224090886,included_game_day
+2001,295,Old Dominion,2000-12-16,-27.8262072874,included_game_day
+2001,295,Old Dominion,2000-12-19,-14.786106715450998,included_game_day
+2001,295,Old Dominion,2000-12-21,-26.4118681408129,included_game_day
+2001,295,Old Dominion,2000-12-31,-41.223712320074654,included_game_day
+2001,295,Old Dominion,2001-01-03,-27.38905653518033,included_game_day
+2001,295,Old Dominion,2001-01-06,-24.41219040336607,included_game_day
+2001,295,Old Dominion,2001-01-10,-8.649861176770653,included_game_day
+2001,295,Old Dominion,2001-01-13,-7.194380586249744,included_game_day
+2001,295,Old Dominion,2001-01-17,-6.277461985956066,included_game_day
+2001,295,Old Dominion,2001-01-20,4.408602876380392,included_game_day
+2001,295,Old Dominion,2001-01-25,7.328906242655863,included_game_day
+2001,295,Old Dominion,2001-01-27,3.9248873581674193,included_game_day
+2001,295,Old Dominion,2001-01-30,1.5734459048714768,included_game_day
+2001,295,Old Dominion,2001-02-07,24.71117283737203,included_game_day
+2001,295,Old Dominion,2001-02-10,15.933760387393145,included_game_day
+2001,295,Old Dominion,2001-02-14,8.699326756590093,included_game_day
+2001,295,Old Dominion,2001-02-17,-3.9959089151617384,included_game_day
+2001,295,Old Dominion,2001-02-21,8.974086869683832,included_game_day
+2001,295,Old Dominion,2001-02-24,-10.885010591764482,included_game_day
+2001,295,Old Dominion,2001-02-26,-10.936598994601386,included_game_day
+2001,295,Old Dominion,2001-03-03,-7.882675365601119,included_game_day
+2001,295,Old Dominion,2001-03-04,-5.229338450770668,included_game_day
+2002,295,Old Dominion Monarchs,2001-11-14,-19.6,included_game_day
+2002,295,Old Dominion Monarchs,2001-11-24,-7.840000000000002,included_game_day
+2002,295,Old Dominion Monarchs,2001-11-26,0.577399999999999,included_game_day
+2002,295,Old Dominion Monarchs,2001-12-01,4.016309999999999,included_game_day
+2002,295,Old Dominion Monarchs,2001-12-05,-3.598762960000001,included_game_day
+2002,295,Old Dominion Monarchs,2001-12-08,-3.158632164,included_game_day
+2002,295,Old Dominion Monarchs,2001-12-15,-0.8441143474000015,included_game_day
+2002,295,Old Dominion Monarchs,2001-12-18,-6.529463412660001,included_game_day
+2002,295,Old Dominion Monarchs,2001-12-21,-12.057732558355001,included_game_day
+2002,295,Old Dominion Monarchs,2001-12-30,-12.282709147760691,included_game_day
+2002,295,Old Dominion Monarchs,2002-01-03,-12.659922554518758,included_game_day
+2002,295,Old Dominion Monarchs,2002-01-05,-6.262261293956641,included_game_day
+2002,295,Old Dominion Monarchs,2002-01-07,-6.631222906816022,included_game_day
+2002,295,Old Dominion Monarchs,2002-01-12,-12.122513112173202,included_game_day
+2002,295,Old Dominion Monarchs,2002-01-14,-5.207950298802384,included_game_day
+2002,295,Old Dominion Monarchs,2002-01-19,-9.053851055019779,included_game_day
+2002,295,Old Dominion Monarchs,2002-01-23,-10.282476363798112,included_game_day
+2002,295,Old Dominion Monarchs,2002-01-26,2.6381975738754964,included_game_day
+2002,295,Old Dominion Monarchs,2002-01-30,-0.6692890083946974,included_game_day
+2002,295,Old Dominion Monarchs,2002-02-02,-3.956052791920124,included_game_day
+2002,295,Old Dominion Monarchs,2002-02-04,-28.35533877014187,included_game_day
+2002,295,Old Dominion Monarchs,2002-02-09,-27.47180982519935,included_game_day
+2002,295,Old Dominion Monarchs,2002-02-11,-29.514198591163055,included_game_day
+2002,295,Old Dominion Monarchs,2002-02-16,-26.408296317915543,included_game_day
+2002,295,Old Dominion Monarchs,2002-02-18,-14.723083261294743,included_game_day
+2002,295,Old Dominion Monarchs,2002-02-23,15.1728090265667,included_game_day
+2002,295,Old Dominion Monarchs,2002-02-25,-1.8931840129176187,included_game_day
+2002,295,Old Dominion Monarchs,2002-03-02,-0.9127334577181614,included_game_day
+2003,295,Old Dominion Monarchs,2002-11-24,-8.26,included_game_day
+2003,295,Old Dominion Monarchs,2002-11-26,18.566000000000003,included_game_day
+2003,295,Old Dominion Monarchs,2002-12-01,7.509400000000003,included_game_day
+2003,295,Old Dominion Monarchs,2002-12-04,4.824460000000003,included_game_day
+2003,295,Old Dominion Monarchs,2002-12-07,-0.5093859999999975,included_game_day
+2003,295,Old Dominion Monarchs,2002-12-14,9.562911220000002,included_game_day
+2003,295,Old Dominion Monarchs,2002-12-20,3.563398493140001,included_game_day
+2003,295,Old Dominion Monarchs,2002-12-28,17.3300541585108,included_game_day
+2003,295,Old Dominion Monarchs,2003-01-02,19.216407801493602,included_game_day
+2003,295,Old Dominion Monarchs,2003-01-04,13.145845282015188,included_game_day
+2003,295,Old Dominion Monarchs,2003-01-08,31.585068333474062,included_game_day
+2003,295,Old Dominion Monarchs,2003-01-11,37.04293838196034,included_game_day
+2003,295,Old Dominion Monarchs,2003-01-15,30.68443092780466,included_game_day
+2003,295,Old Dominion Monarchs,2003-01-18,18.399711851230236,included_game_day
+2003,295,Old Dominion Monarchs,2003-01-22,29.28315876901198,included_game_day
+2003,295,Old Dominion Monarchs,2003-01-25,38.11994967448925,included_game_day
+2003,295,Old Dominion Monarchs,2003-01-29,44.765317628282226,included_game_day
+2003,295,Old Dominion Monarchs,2003-02-01,36.80895057733182,included_game_day
+2003,295,Old Dominion Monarchs,2003-02-05,14.87185126708152,included_game_day
+2003,295,Old Dominion Monarchs,2003-02-08,4.78425192608443,included_game_day
+2003,295,Old Dominion Monarchs,2003-02-12,14.518538570839286,included_game_day
+2003,295,Old Dominion Monarchs,2003-02-15,21.406718281212378,included_game_day
+2003,295,Old Dominion Monarchs,2003-02-19,13.965084003737006,included_game_day
+2003,295,Old Dominion Monarchs,2003-02-22,5.030517617217777,included_game_day
+2003,295,Old Dominion Monarchs,2003-02-24,-7.012242517064754,included_game_day
+2003,295,Old Dominion Monarchs,2003-03-01,18.74920857914227,included_game_day
+2003,295,Old Dominion Monarchs,2003-03-08,15.452112498740714,included_game_day
+2004,295,Old Dominion Monarchs,2003-11-22,-23.0,included_game_day
+2004,295,Old Dominion Monarchs,2003-11-29,-24.53,included_game_day
+2004,295,Old Dominion Monarchs,2003-12-04,-15.77091,included_game_day
+2004,295,Old Dominion Monarchs,2003-12-06,-14.018999,included_game_day
+2004,295,Old Dominion Monarchs,2003-12-13,-3.5667927147,included_game_day
+2004,295,Old Dominion Monarchs,2003-12-15,-15.80219548023,included_game_day
+2004,295,Old Dominion Monarchs,2003-12-18,-0.21100566420700062,included_game_day
+2004,295,Old Dominion Monarchs,2003-12-20,10.615382100313699,included_game_day
+2004,295,Old Dominion Monarchs,2003-12-29,17.611854196871427,included_game_day
+2004,295,Old Dominion Monarchs,2004-01-03,24.269765482101583,included_game_day
+2004,295,Old Dominion Monarchs,2004-01-07,32.85433188248491,included_game_day
+2004,295,Old Dominion Monarchs,2004-01-10,34.21054922741061,included_game_day
+2004,295,Old Dominion Monarchs,2004-01-14,50.257469162566,included_game_day
+2004,295,Old Dominion Monarchs,2004-01-17,46.629141113383255,included_game_day
+2004,295,Old Dominion Monarchs,2004-01-21,36.42283206103786,included_game_day
+2004,295,Old Dominion Monarchs,2004-01-24,52.56193707488249,included_game_day
+2004,295,Old Dominion Monarchs,2004-01-26,35.44401556251342,included_game_day
+2004,295,Old Dominion Monarchs,2004-01-28,36.37544484745464,included_game_day
+2004,295,Old Dominion Monarchs,2004-01-31,48.95100047959587,included_game_day
+2004,295,Old Dominion Monarchs,2004-02-04,60.84399063792241,included_game_day
+2004,295,Old Dominion Monarchs,2004-02-07,59.41841122317731,included_game_day
+2004,295,Old Dominion Monarchs,2004-02-11,60.563437317071205,included_game_day
+2004,295,Old Dominion Monarchs,2004-02-14,63.76087295132029,included_game_day
+2004,295,Old Dominion Monarchs,2004-02-18,51.74964165876904,included_game_day
+2004,295,Old Dominion Monarchs,2004-02-21,51.86487355714847,included_game_day
+2004,295,Old Dominion Monarchs,2004-02-25,41.20637071568001,included_game_day
+2004,295,Old Dominion Monarchs,2004-02-28,34.35358815218843,included_game_day
+2004,295,Old Dominion Monarchs,2004-03-06,42.87593876886429,included_game_day
+2004,295,Old Dominion Monarchs,2004-03-07,32.03656394452171,included_game_day
+2005,295,Old Dominion Monarchs,2004-11-20,5.0,included_game_day
+2005,295,Old Dominion Monarchs,2004-11-22,9.19929,included_game_day
+2005,295,Old Dominion Monarchs,2004-11-25,20.429361,included_game_day
+2005,295,Old Dominion Monarchs,2004-11-28,17.37886668,included_game_day
+2005,295,Old Dominion Monarchs,2004-12-01,61.453980012,included_game_day
+2005,295,Old Dominion Monarchs,2004-12-04,65.9636420108,included_game_day
+2005,295,Old Dominion Monarchs,2004-12-07,74.38115210972,included_game_day
+2005,295,Old Dominion Monarchs,2004-12-12,67.188678258848,included_game_day
+2005,295,Old Dominion Monarchs,2004-12-18,74.1056405244432,included_game_day
+2005,295,Old Dominion Monarchs,2004-12-20,83.50962987136843,included_game_day
+2005,295,Old Dominion Monarchs,2004-12-22,74.69001889338571,included_game_day
+2005,295,Old Dominion Monarchs,2005-01-02,60.55629499481506,included_game_day
+2005,295,Old Dominion Monarchs,2005-01-05,60.09017273868579,included_game_day
+2005,295,Old Dominion Monarchs,2005-01-08,77.96210310720441,included_game_day
+2005,295,Old Dominion Monarchs,2005-01-12,78.82462397265577,included_game_day
+2005,295,Old Dominion Monarchs,2005-01-15,82.38786912296115,included_game_day
+2005,295,Old Dominion Monarchs,2005-01-19,82.97984264442088,included_game_day
+2005,295,Old Dominion Monarchs,2005-01-22,88.04973064237757,included_game_day
+2005,295,Old Dominion Monarchs,2005-01-26,82.0980775071231,included_game_day
+2005,295,Old Dominion Monarchs,2005-01-29,73.57997039837174,included_game_day
+2005,295,Old Dominion Monarchs,2005-01-31,84.07884930149704,included_game_day
+2005,295,Old Dominion Monarchs,2005-02-02,76.27781981436185,included_game_day
+2005,295,Old Dominion Monarchs,2005-02-05,85.04194944492389,included_game_day
+2005,295,Old Dominion Monarchs,2005-02-09,85.08799785685443,included_game_day
+2005,295,Old Dominion Monarchs,2005-02-12,85.05358039435393,included_game_day
+2005,295,Old Dominion Monarchs,2005-02-16,67.29092534733493,included_game_day
+2005,295,Old Dominion Monarchs,2005-02-19,72.3622727978325,included_game_day
+2005,295,Old Dominion Monarchs,2005-02-26,78.3271889827951,included_game_day
+2005,295,Old Dominion Monarchs,2005-03-05,74.99527656788949,included_game_day
+2005,295,Old Dominion Monarchs,2005-03-06,85.94650675322197,included_game_day
+2005,295,Old Dominion Monarchs,2005-03-07,86.42790270695215,included_game_day
+2005,295,Old Dominion Monarchs,2005-03-18,86.98806016027076,included_game_day
+2006,295,Old Dominion Monarchs,2005-11-18,6.0,included_game_day
+2006,295,Old Dominion Monarchs,2005-11-19,21.4,included_game_day
+2006,295,Old Dominion Monarchs,2005-11-21,21.9,included_game_day
+2006,295,Old Dominion Monarchs,2005-11-26,39.5666,included_game_day
+2006,295,Old Dominion Monarchs,2005-11-30,50.75034,included_game_day
+2006,295,Old Dominion Monarchs,2005-12-03,69.024866,included_game_day
+2006,295,Old Dominion Monarchs,2005-12-07,67.3948647,included_game_day
+2006,295,Old Dominion Monarchs,2005-12-10,45.383160461,included_game_day
+2006,295,Old Dominion Monarchs,2005-12-17,84.50165343764,included_game_day
+2006,295,Old Dominion Monarchs,2005-12-20,74.405621120796,included_game_day
+2006,295,Old Dominion Monarchs,2005-12-22,45.1831828298988,included_game_day
+2006,295,Old Dominion Monarchs,2005-12-30,47.61087152046587,included_game_day
+2006,295,Old Dominion Monarchs,2006-01-03,49.460892660456956,included_game_day
+2006,295,Old Dominion Monarchs,2006-01-05,58.43027043068914,included_game_day
+2006,295,Old Dominion Monarchs,2006-01-07,57.264014558322174,included_game_day
+2006,295,Old Dominion Monarchs,2006-01-12,63.701698913146686,included_game_day
+2006,295,Old Dominion Monarchs,2006-01-14,64.60431771589796,included_game_day
+2006,295,Old Dominion Monarchs,2006-01-19,51.7244818547408,included_game_day
+2006,295,Old Dominion Monarchs,2006-01-21,55.628389631818166,included_game_day
+2006,295,Old Dominion Monarchs,2006-01-26,58.00038706414022,included_game_day
+2006,295,Old Dominion Monarchs,2006-01-28,47.00181522785367,included_game_day
+2006,295,Old Dominion Monarchs,2006-02-02,47.93699401350792,included_game_day
+2006,295,Old Dominion Monarchs,2006-02-04,42.128421612709325,included_game_day
+2006,295,Old Dominion Monarchs,2006-02-09,53.46420753654774,included_game_day
+2006,295,Old Dominion Monarchs,2006-02-11,49.378329929391796,included_game_day
+2006,295,Old Dominion Monarchs,2006-02-15,55.02618793992147,included_game_day
+2006,295,Old Dominion Monarchs,2006-02-18,64.07462461654937,included_game_day
+2006,295,Old Dominion Monarchs,2006-02-23,65.87474527566991,included_game_day
+2006,295,Old Dominion Monarchs,2006-02-25,74.30468300785462,included_game_day
+2006,295,Old Dominion Monarchs,2006-03-04,60.50152045754919,included_game_day
+2006,295,Old Dominion Monarchs,2006-03-15,78.70340690322166,included_game_day
+2006,295,Old Dominion Monarchs,2006-03-20,71.9723183287478,included_game_day
+2006,295,Old Dominion Monarchs,2006-03-22,87.87902461253076,included_game_day
+2006,295,Old Dominion Monarchs,2006-03-28,67.10362008893222,included_game_day
+2007,295,Old Dominion Monarchs,2006-11-10,11.0,included_game_day
+2007,295,Old Dominion Monarchs,2006-11-11,11.3,included_game_day
+2007,295,Old Dominion Monarchs,2006-11-12,7.2,included_game_day
+2007,295,Old Dominion Monarchs,2006-11-17,13.5,included_game_day
+2007,295,Old Dominion Monarchs,2006-11-19,30.68,included_game_day
+2007,295,Old Dominion Monarchs,2006-11-25,43.3765,included_game_day
+2007,295,Old Dominion Monarchs,2006-11-29,31.31177934,included_game_day
+2007,295,Old Dominion Monarchs,2006-12-02,36.553726906,included_game_day
+2007,295,Old Dominion Monarchs,2006-12-06,23.354750625900003,included_game_day
+2007,295,Old Dominion Monarchs,2006-12-16,29.7116679238859,included_game_day
+2007,295,Old Dominion Monarchs,2006-12-18,40.859221396356006,included_game_day
+2007,295,Old Dominion Monarchs,2006-12-29,34.34079316648592,included_game_day
+2007,295,Old Dominion Monarchs,2007-01-03,35.93649481300285,included_game_day
+2007,295,Old Dominion Monarchs,2007-01-06,33.83077207696663,included_game_day
+2007,295,Old Dominion Monarchs,2007-01-08,25.229962827740714,included_game_day
+2007,295,Old Dominion Monarchs,2007-01-10,48.36670730072373,included_game_day
+2007,295,Old Dominion Monarchs,2007-01-13,74.22513323057474,included_game_day
+2007,295,Old Dominion Monarchs,2007-01-17,54.16173166921653,included_game_day
+2007,295,Old Dominion Monarchs,2007-01-20,54.931542972818875,included_game_day
+2007,295,Old Dominion Monarchs,2007-01-24,59.2510297426811,included_game_day
+2007,295,Old Dominion Monarchs,2007-01-27,66.38357418595459,included_game_day
+2007,295,Old Dominion Monarchs,2007-01-29,84.7913333854539,included_game_day
+2007,295,Old Dominion Monarchs,2007-02-01,95.31485337739267,included_game_day
+2007,295,Old Dominion Monarchs,2007-02-03,106.07267650388346,included_game_day
+2007,295,Old Dominion Monarchs,2007-02-07,103.0705681541638,included_game_day
+2007,295,Old Dominion Monarchs,2007-02-10,116.85867727879811,included_game_day
+2007,295,Old Dominion Monarchs,2007-02-13,121.44992201310643,included_game_day
+2007,295,Old Dominion Monarchs,2007-02-17,119.01643651855754,included_game_day
+2007,295,Old Dominion Monarchs,2007-02-21,119.35305457823907,included_game_day
+2007,295,Old Dominion Monarchs,2007-02-24,114.19250905928108,included_game_day
+2007,295,Old Dominion Monarchs,2007-03-03,103.86421726952578,included_game_day
+2007,295,Old Dominion Monarchs,2007-03-04,82.24040384149271,included_game_day
+2007,295,Old Dominion Monarchs,2007-03-15,75.56605351617955,included_game_day
+2008,295,Old Dominion Monarchs,2007-11-11,4.8,included_game_day
+2008,295,Old Dominion Monarchs,2007-11-16,31.52,included_game_day
+2008,295,Old Dominion Monarchs,2007-11-18,22.918,included_game_day
+2008,295,Old Dominion Monarchs,2007-11-20,24.7642,included_game_day
+2008,295,Old Dominion Monarchs,2007-11-23,12.34338,included_game_day
+2008,295,Old Dominion Monarchs,2007-11-24,7.7679291,included_game_day
+2008,295,Old Dominion Monarchs,2007-11-28,-10.075663810000002,included_game_day
+2008,295,Old Dominion Monarchs,2007-12-01,-2.1575359050000023,included_game_day
+2008,295,Old Dominion Monarchs,2007-12-08,5.436430492499999,included_game_day
+2008,295,Old Dominion Monarchs,2007-12-16,11.124165931502999,included_game_day
+2008,295,Old Dominion Monarchs,2007-12-19,3.559759618157699,included_game_day
+2008,295,Old Dominion Monarchs,2007-12-21,5.5364213408814695,included_game_day
+2008,295,Old Dominion Monarchs,2007-12-29,-0.8990062613056011,included_game_day
+2008,295,Old Dominion Monarchs,2008-01-02,13.096560025600049,included_game_day
+2008,295,Old Dominion Monarchs,2008-01-05,-2.4316066374156655,included_game_day
+2008,295,Old Dominion Monarchs,2008-01-09,9.062245568062615,included_game_day
+2008,295,Old Dominion Monarchs,2008-01-12,3.1676664303715496,included_game_day
+2008,295,Old Dominion Monarchs,2008-01-16,28.659274182884428,included_game_day
+2008,295,Old Dominion Monarchs,2008-01-23,1.3719769724254967,included_game_day
+2008,295,Old Dominion Monarchs,2008-01-26,16.593950723324284,included_game_day
+2008,295,Old Dominion Monarchs,2008-01-30,7.265601817548632,included_game_day
+2008,295,Old Dominion Monarchs,2008-02-02,22.911860672382787,included_game_day
+2008,295,Old Dominion Monarchs,2008-02-06,17.09515394242148,included_game_day
+2008,295,Old Dominion Monarchs,2008-02-09,29.309577005467546,included_game_day
+2008,295,Old Dominion Monarchs,2008-02-14,21.193421847565116,included_game_day
+2008,295,Old Dominion Monarchs,2008-02-16,30.99191849241695,included_game_day
+2008,295,Old Dominion Monarchs,2008-02-20,45.483186152298174,included_game_day
+2008,295,Old Dominion Monarchs,2008-02-23,44.28444666779227,included_game_day
+2008,295,Old Dominion Monarchs,2008-02-27,48.9800555427724,included_game_day
+2008,295,Old Dominion Monarchs,2008-03-01,38.66657934767585,included_game_day
+2008,295,Old Dominion Monarchs,2008-03-08,28.3782628365613,included_game_day
+2008,295,Old Dominion Monarchs,2008-03-18,31.90989125188416,included_game_day
+2008,295,Old Dominion Monarchs,2008-03-24,28.794107134935725,included_game_day
+2009,295,Old Dominion Monarchs,2008-11-16,5.5,included_game_day
+2009,295,Old Dominion Monarchs,2008-11-22,-10.336,included_game_day
+2009,295,Old Dominion Monarchs,2008-11-25,-11.270900000000001,included_game_day
+2009,295,Old Dominion Monarchs,2008-11-29,-12.43908,included_game_day
+2009,295,Old Dominion Monarchs,2008-12-03,-10.7475456,included_game_day
+2009,295,Old Dominion Monarchs,2008-12-06,-8.105831667,included_game_day
+2009,295,Old Dominion Monarchs,2008-12-14,-1.2680927898410026,included_game_day
+2009,295,Old Dominion Monarchs,2008-12-17,30.8034685233571,included_game_day
+2009,295,Old Dominion Monarchs,2008-12-20,28.20448547002139,included_game_day
+2009,295,Old Dominion Monarchs,2008-12-22,25.12508908530325,included_game_day
+2009,295,Old Dominion Monarchs,2008-12-30,41.64882826848981,included_game_day
+2009,295,Old Dominion Monarchs,2009-01-03,34.27599168047308,included_game_day
+2009,295,Old Dominion Monarchs,2009-01-05,44.3037369821098,included_game_day
+2009,295,Old Dominion Monarchs,2009-01-07,30.6532010729957,included_game_day
+2009,295,Old Dominion Monarchs,2009-01-10,29.064718638937414,included_game_day
+2009,295,Old Dominion Monarchs,2009-01-13,34.970364586973375,included_game_day
+2009,295,Old Dominion Monarchs,2009-01-17,24.47757360355812,included_game_day
+2009,295,Old Dominion Monarchs,2009-01-21,34.740126118150684,included_game_day
+2009,295,Old Dominion Monarchs,2009-01-24,16.672543500375962,included_game_day
+2009,295,Old Dominion Monarchs,2009-01-28,26.149928177036394,included_game_day
+2009,295,Old Dominion Monarchs,2009-01-31,30.632944268990883,included_game_day
+2009,295,Old Dominion Monarchs,2009-02-03,27.455521393679895,included_game_day
+2009,295,Old Dominion Monarchs,2009-02-07,39.415049284602105,included_game_day
+2009,295,Old Dominion Monarchs,2009-02-10,26.711904371906112,included_game_day
+2009,295,Old Dominion Monarchs,2009-02-14,30.640703722527718,included_game_day
+2009,295,Old Dominion Monarchs,2009-02-18,38.64653971787616,included_game_day
+2009,295,Old Dominion Monarchs,2009-02-21,58.32342606255254,included_game_day
+2009,295,Old Dominion Monarchs,2009-02-25,47.01724953407713,included_game_day
+2009,295,Old Dominion Monarchs,2009-02-28,52.11274507606635,included_game_day
+2009,295,Old Dominion Monarchs,2009-03-07,46.19424935317673,included_game_day
+2009,295,Old Dominion Monarchs,2009-03-08,41.910006737515396,included_game_day
+2009,295,Old Dominion Monarchs,2009-03-19,45.011595835511535,included_game_day
+2009,295,Old Dominion Monarchs,2009-03-23,48.87092896240586,included_game_day
+2009,295,Old Dominion Monarchs,2009-03-26,82.98862464474445,included_game_day
+2009,295,Old Dominion Monarchs,2009-03-31,84.76081059895975,included_game_day
+2010,295,Old Dominion Monarchs,2009-11-15,25.7,included_game_day
+2010,295,Old Dominion Monarchs,2009-11-17,57.55,included_game_day
+2010,295,Old Dominion Monarchs,2009-11-19,82.805,included_game_day
+2010,295,Old Dominion Monarchs,2009-11-21,80.59450000000001,included_game_day
+2010,295,Old Dominion Monarchs,2009-11-27,76.61011,included_game_day
+2010,295,Old Dominion Monarchs,2009-11-28,57.141560000000005,included_game_day
+2010,295,Old Dominion Monarchs,2009-12-02,54.09256800000001,included_game_day
+2010,295,Old Dominion Monarchs,2009-12-05,60.667420070000006,included_game_day
+2010,295,Old Dominion Monarchs,2009-12-08,75.7557588051,included_game_day
+2010,295,Old Dominion Monarchs,2009-12-11,66.29874192094,included_game_day
+2010,295,Old Dominion Monarchs,2009-12-19,76.406582127125,included_game_day
+2010,295,Old Dominion Monarchs,2009-12-23,107.91291950738857,included_game_day
+2010,295,Old Dominion Monarchs,2009-12-30,104.70051176573189,included_game_day
+2010,295,Old Dominion Monarchs,2010-01-02,78.03816664471208,included_game_day
+2010,295,Old Dominion Monarchs,2010-01-04,85.24931969001011,included_game_day
+2010,295,Old Dominion Monarchs,2010-01-06,73.93100912584296,included_game_day
+2010,295,Old Dominion Monarchs,2010-01-09,75.91573341181339,included_game_day
+2010,295,Old Dominion Monarchs,2010-01-13,89.08020772911101,included_game_day
+2010,295,Old Dominion Monarchs,2010-01-16,98.83644520827329,included_game_day
+2010,295,Old Dominion Monarchs,2010-01-20,106.62026908001542,included_game_day
+2010,295,Old Dominion Monarchs,2010-01-23,105.63220865727958,included_game_day
+2010,295,Old Dominion Monarchs,2010-01-28,105.35093028875409,included_game_day
+2010,295,Old Dominion Monarchs,2010-01-30,94.28535837535782,included_game_day
+2010,295,Old Dominion Monarchs,2010-02-03,103.95606884029554,included_game_day
+2010,295,Old Dominion Monarchs,2010-02-06,96.10465982595947,included_game_day
+2010,295,Old Dominion Monarchs,2010-02-10,104.40350651361544,included_game_day
+2010,295,Old Dominion Monarchs,2010-02-13,109.26448743803184,included_game_day
+2010,295,Old Dominion Monarchs,2010-02-16,95.41690755717917,included_game_day
+2010,295,Old Dominion Monarchs,2010-02-19,89.60177709785876,included_game_day
+2010,295,Old Dominion Monarchs,2010-02-23,94.93890985365526,included_game_day
+2010,295,Old Dominion Monarchs,2010-02-27,96.09146879297239,included_game_day
+2010,295,Old Dominion Monarchs,2010-03-06,111.5814488367684,included_game_day
+2010,295,Old Dominion Monarchs,2010-03-07,115.35954156933073,included_game_day
+2010,295,Old Dominion Monarchs,2010-03-08,112.60138984902144,included_game_day
+2010,295,Old Dominion Monarchs,2010-03-18,115.97442617387908,included_game_day
+2010,295,Old Dominion Monarchs,2010-03-20,112.6984513001585,included_game_day
+2011,295,Old Dominion Monarchs,2010-11-12,-6.0,included_game_day
+2011,295,Old Dominion Monarchs,2010-11-15,13.600000000000001,included_game_day
+2011,295,Old Dominion Monarchs,2010-11-19,17.040000000000003,included_game_day
+2011,295,Old Dominion Monarchs,2010-11-21,19.517000000000003,included_game_day
+2011,295,Old Dominion Monarchs,2010-11-22,29.334950000000003,included_game_day
+2011,295,Old Dominion Monarchs,2010-12-01,39.3133129,included_game_day
+2011,295,Old Dominion Monarchs,2010-12-04,30.65193661,included_game_day
+2011,295,Old Dominion Monarchs,2010-12-07,43.3983031218,included_game_day
+2011,295,Old Dominion Monarchs,2010-12-09,72.49706214668,included_game_day
+2011,295,Old Dominion Monarchs,2010-12-11,64.60148114952399,included_game_day
+2011,295,Old Dominion Monarchs,2010-12-23,61.8374087149712,included_game_day
+2011,295,Old Dominion Monarchs,2010-12-30,48.914103660823955,included_game_day
+2011,295,Old Dominion Monarchs,2011-01-03,48.47276007791301,included_game_day
+2011,295,Old Dominion Monarchs,2011-01-05,53.31789185743303,included_game_day
+2011,295,Old Dominion Monarchs,2011-01-08,55.47690511648666,included_game_day
+2011,295,Old Dominion Monarchs,2011-01-13,53.841382785610534,included_game_day
+2011,295,Old Dominion Monarchs,2011-01-15,66.14020602890234,included_game_day
+2011,295,Old Dominion Monarchs,2011-01-19,68.61883766304875,included_game_day
+2011,295,Old Dominion Monarchs,2011-01-22,56.04125846809957,included_game_day
+2011,295,Old Dominion Monarchs,2011-01-24,61.364490828561266,included_game_day
+2011,295,Old Dominion Monarchs,2011-01-26,58.37169430899881,included_game_day
+2011,295,Old Dominion Monarchs,2011-01-29,65.64245353872491,included_game_day
+2011,295,Old Dominion Monarchs,2011-02-02,61.645595965624885,included_game_day
+2011,295,Old Dominion Monarchs,2011-02-05,54.2427058527919,included_game_day
+2011,295,Old Dominion Monarchs,2011-02-09,64.73301798293595,included_game_day
+2011,295,Old Dominion Monarchs,2011-02-12,78.581052259957,included_game_day
+2011,295,Old Dominion Monarchs,2011-02-15,81.38878320130242,included_game_day
+2011,295,Old Dominion Monarchs,2011-02-20,87.52690706700822,included_game_day
+2011,295,Old Dominion Monarchs,2011-02-24,102.21045859288705,included_game_day
+2011,295,Old Dominion Monarchs,2011-02-26,106.97102785056394,included_game_day
+2011,295,Old Dominion Monarchs,2011-03-05,102.28162841381429,included_game_day
+2011,295,Old Dominion Monarchs,2011-03-06,102.88673284575162,included_game_day
+2011,295,Old Dominion Monarchs,2011-03-07,103.6791383602161,included_game_day
+2011,295,Old Dominion Monarchs,2011-03-17,101.09249357715271,included_game_day
+2012,295,Old Dominion Monarchs,2011-11-12,-20.0,included_game_day
+2012,295,Old Dominion Monarchs,2011-11-14,-14.5,included_game_day
+2012,295,Old Dominion Monarchs,2011-11-16,-7.25,included_game_day
+2012,295,Old Dominion Monarchs,2011-11-19,-3.985,included_game_day
+2012,295,Old Dominion Monarchs,2011-11-20,-4.454099999999999,included_game_day
+2012,295,Old Dominion Monarchs,2011-11-23,-7.906949999999998,included_game_day
+2012,295,Old Dominion Monarchs,2011-11-29,-2.9524549999999987,included_game_day
+2012,295,Old Dominion Monarchs,2011-12-03,10.957895674000001,included_game_day
+2012,295,Old Dominion Monarchs,2011-12-09,3.831973180060001,included_game_day
+2012,295,Old Dominion Monarchs,2011-12-17,-0.20646437970579967,included_game_day
+2012,295,Old Dominion Monarchs,2011-12-20,-3.4489750292698655,included_game_day
+2012,295,Old Dominion Monarchs,2011-12-22,-6.98267208336288,included_game_day
+2012,295,Old Dominion Monarchs,2011-12-30,-0.4405134990699029,included_game_day
+2012,295,Old Dominion Monarchs,2012-01-02,6.416151236725738,included_game_day
+2012,295,Old Dominion Monarchs,2012-01-05,-1.6054255888274627,included_game_day
+2012,295,Old Dominion Monarchs,2012-01-07,17.757238564050443,included_game_day
+2012,295,Old Dominion Monarchs,2012-01-11,21.588248142439216,included_game_day
+2012,295,Old Dominion Monarchs,2012-01-14,23.795656207014368,included_game_day
+2012,295,Old Dominion Monarchs,2012-01-18,38.02480494973513,included_game_day
+2012,295,Old Dominion Monarchs,2012-01-21,31.696292655151233,included_game_day
+2012,295,Old Dominion Monarchs,2012-01-23,36.31157165870022,included_game_day
+2012,295,Old Dominion Monarchs,2012-01-25,38.40215567159396,included_game_day
+2012,295,Old Dominion Monarchs,2012-01-28,47.832651560035146,included_game_day
+2012,295,Old Dominion Monarchs,2012-02-02,44.87308808776963,included_game_day
+2012,295,Old Dominion Monarchs,2012-02-04,43.540834369907564,included_game_day
+2012,295,Old Dominion Monarchs,2012-02-08,52.351441066483446,included_game_day
+2012,295,Old Dominion Monarchs,2012-02-11,47.06701194907974,included_game_day
+2012,295,Old Dominion Monarchs,2012-02-14,51.06537201402246,included_game_day
+2012,295,Old Dominion Monarchs,2012-02-18,59.78889825566566,included_game_day
+2012,295,Old Dominion Monarchs,2012-02-22,66.94033137438436,included_game_day
+2012,295,Old Dominion Monarchs,2012-02-25,65.30628953709898,included_game_day
+2012,295,Old Dominion Monarchs,2012-03-03,74.2859012116763,included_game_day
+2012,295,Old Dominion Monarchs,2012-03-04,58.73943836617799,included_game_day
+2012,295,Old Dominion Monarchs,2012-03-13,49.71644121855212,included_game_day
+2012,295,Old Dominion Monarchs,2012-03-18,54.06977213076871,included_game_day
+2012,295,Old Dominion Monarchs,2012-03-21,42.944211445475304,included_game_day
+2013,295,Old Dominion Monarchs,2012-11-09,-4.0,included_game_day
+2013,295,Old Dominion Monarchs,2012-11-10,5.6,included_game_day
+2013,295,Old Dominion Monarchs,2012-11-11,-7.6,included_game_day
+2013,295,Old Dominion Monarchs,2012-11-17,-14.41,included_game_day
+2013,295,Old Dominion Monarchs,2012-11-21,-22.933,included_game_day
+2013,295,Old Dominion Monarchs,2012-11-24,-22.79841,included_game_day
+2013,295,Old Dominion Monarchs,2012-12-01,-25.14580453,included_game_day
+2013,295,Old Dominion Monarchs,2012-12-04,-49.61578523,included_game_day
+2013,295,Old Dominion Monarchs,2012-12-07,-52.8312503743,included_game_day
+2013,295,Old Dominion Monarchs,2012-12-14,-52.815135634467,included_game_day
+2013,295,Old Dominion Monarchs,2012-12-18,-57.6197150126203,included_game_day
+2013,295,Old Dominion Monarchs,2012-12-22,-41.11138782562098,included_game_day
+2013,295,Old Dominion Monarchs,2012-12-29,-38.900448263726986,included_game_day
+2013,295,Old Dominion Monarchs,2013-01-02,-40.535740769808065,included_game_day
+2013,295,Old Dominion Monarchs,2013-01-05,-53.15764389860625,included_game_day
+2013,295,Old Dominion Monarchs,2013-01-10,-68.93351154495994,included_game_day
+2013,295,Old Dominion Monarchs,2013-01-16,-69.84954469167428,included_game_day
+2013,295,Old Dominion Monarchs,2013-01-19,-83.61408459046402,included_game_day
+2013,295,Old Dominion Monarchs,2013-01-26,-83.39553245617391,included_game_day
+2013,295,Old Dominion Monarchs,2013-01-30,-80.93132276114814,included_game_day
+2013,295,Old Dominion Monarchs,2013-02-02,-89.17126463635196,included_game_day
+2013,295,Old Dominion Monarchs,2013-02-04,-92.59254756551393,included_game_day
+2013,295,Old Dominion Monarchs,2013-02-07,-68.22157345043608,included_game_day
+2013,295,Old Dominion Monarchs,2013-02-09,-67.81847716565758,included_game_day
+2013,295,Old Dominion Monarchs,2013-02-11,-60.764088040596064,included_game_day
+2013,295,Old Dominion Monarchs,2013-02-16,-74.17448074538147,included_game_day
+2013,295,Old Dominion Monarchs,2013-02-20,-53.399929771864976,included_game_day
+2013,295,Old Dominion Monarchs,2013-02-24,-66.70583678912351,included_game_day
+2013,295,Old Dominion Monarchs,2013-02-28,-68.2957730335315,included_game_day
+2013,295,Old Dominion Monarchs,2013-03-02,-50.81296517368851,included_game_day
+2014,295,Old Dominion Monarchs,2013-11-08,-15.0,included_game_day
+2014,295,Old Dominion Monarchs,2013-11-13,3.5,included_game_day
+2014,295,Old Dominion Monarchs,2013-11-15,10.15,included_game_day
+2014,295,Old Dominion Monarchs,2013-11-21,19.1926,included_game_day
+2014,295,Old Dominion Monarchs,2013-11-23,28.57434,included_game_day
+2014,295,Old Dominion Monarchs,2013-11-26,14.33434,included_game_day
+2014,295,Old Dominion Monarchs,2013-11-27,9.511111999999999,included_game_day
+2014,295,Old Dominion Monarchs,2013-12-03,0.7759307999999994,included_game_day
+2014,295,Old Dominion Monarchs,2013-12-08,-12.4215965135,included_game_day
+2014,295,Old Dominion Monarchs,2013-12-14,-15.229458731160001,included_game_day
+2014,295,Old Dominion Monarchs,2013-12-18,-28.196148934084,included_game_day
+2014,295,Old Dominion Monarchs,2013-12-21,-13.3964518435983,included_game_day
+2014,295,Old Dominion Monarchs,2013-12-28,-13.53658377688881,included_game_day
+2014,295,Old Dominion Monarchs,2014-01-01,-17.4151158371119,included_game_day
+2014,295,Old Dominion Monarchs,2014-01-04,-13.871702114263956,included_game_day
+2014,295,Old Dominion Monarchs,2014-01-11,2.65027261634504,included_game_day
+2014,295,Old Dominion Monarchs,2014-01-16,17.27074004071322,included_game_day
+2014,295,Old Dominion Monarchs,2014-01-18,21.174091563002403,included_game_day
+2014,295,Old Dominion Monarchs,2014-01-23,9.229504474449854,included_game_day
+2014,295,Old Dominion Monarchs,2014-01-25,7.006946974004345,included_game_day
+2014,295,Old Dominion Monarchs,2014-01-30,1.6003480983767737,included_game_day
+2014,295,Old Dominion Monarchs,2014-02-01,-8.851262654271972,included_game_day
+2014,295,Old Dominion Monarchs,2014-02-06,-10.748525801918161,included_game_day
+2014,295,Old Dominion Monarchs,2014-02-08,-21.557684431699673,included_game_day
+2014,295,Old Dominion Monarchs,2014-02-13,-10.440944088823048,included_game_day
+2014,295,Old Dominion Monarchs,2014-02-15,-39.87517638055627,included_game_day
+2014,295,Old Dominion Monarchs,2014-02-20,-44.49851328496412,included_game_day
+2014,295,Old Dominion Monarchs,2014-02-22,-36.890774003584,included_game_day
+2014,295,Old Dominion Monarchs,2014-02-27,-31.675825975036616,included_game_day
+2014,295,Old Dominion Monarchs,2014-03-02,-40.20013012912423,included_game_day
+2014,295,Old Dominion Monarchs,2014-03-06,-19.789213941104546,included_game_day
+2014,295,Old Dominion Monarchs,2014-03-12,-6.04562392879874,included_game_day
+2014,295,Old Dominion Monarchs,2014-03-13,-12.324219608845958,included_game_day
+2014,295,Old Dominion Monarchs,2014-03-19,-1.7530307049464025,included_game_day
+2014,295,Old Dominion Monarchs,2014-03-24,14.96971930150398,included_game_day
+2014,295,Old Dominion Monarchs,2014-03-26,15.139132591384044,included_game_day
+2015,295,Old Dominion Monarchs,2014-11-15,17.0,included_game_day
+2015,295,Old Dominion Monarchs,2014-11-18,19.8,included_game_day
+2015,295,Old Dominion Monarchs,2014-11-21,27.83,included_game_day
+2015,295,Old Dominion Monarchs,2014-11-23,6.218999999999998,included_game_day
+2015,295,Old Dominion Monarchs,2014-11-24,17.493899999999996,included_game_day
+2015,295,Old Dominion Monarchs,2014-11-29,23.011996999999997,included_game_day
+2015,295,Old Dominion Monarchs,2014-12-03,26.2460103,included_game_day
+2015,295,Old Dominion Monarchs,2014-12-14,51.51139774674,included_game_day
+2015,295,Old Dominion Monarchs,2014-12-17,51.346536952066,included_game_day
+2015,295,Old Dominion Monarchs,2014-12-19,55.988955024236404,included_game_day
+2015,295,Old Dominion Monarchs,2014-12-22,56.847356400812764,included_game_day
+2015,295,Old Dominion Monarchs,2014-12-29,76.90257918484753,included_game_day
+2015,295,Old Dominion Monarchs,2015-01-04,81.75003580585434,included_game_day
+2015,295,Old Dominion Monarchs,2015-01-08,91.71010930541638,included_game_day
+2015,295,Old Dominion Monarchs,2015-01-10,80.30753284005058,included_game_day
+2015,295,Old Dominion Monarchs,2015-01-15,75.81819400786625,included_game_day
+2015,295,Old Dominion Monarchs,2015-01-17,70.52033393592299,included_game_day
+2015,295,Old Dominion Monarchs,2015-01-22,56.72940249309278,included_game_day
+2015,295,Old Dominion Monarchs,2015-01-24,40.85224176315533,included_game_day
+2015,295,Old Dominion Monarchs,2015-01-29,45.237718629525325,included_game_day
+2015,295,Old Dominion Monarchs,2015-01-31,44.43311300685842,included_game_day
+2015,295,Old Dominion Monarchs,2015-02-07,41.85010352567266,included_game_day
+2015,295,Old Dominion Monarchs,2015-02-12,37.610572913358524,included_game_day
+2015,295,Old Dominion Monarchs,2015-02-14,26.768416546738997,included_game_day
+2015,295,Old Dominion Monarchs,2015-02-19,39.36664467264732,included_game_day
+2015,295,Old Dominion Monarchs,2015-02-21,59.10107740189225,included_game_day
+2015,295,Old Dominion Monarchs,2015-02-26,62.56099315636004,included_game_day
+2015,295,Old Dominion Monarchs,2015-02-28,72.96141573999911,included_game_day
+2015,295,Old Dominion Monarchs,2015-03-05,75.0800322404358,included_game_day
+2015,295,Old Dominion Monarchs,2015-03-07,88.87095913602695,included_game_day
+2015,295,Old Dominion Monarchs,2015-03-12,75.46845130844567,included_game_day
+2015,295,Old Dominion Monarchs,2015-03-18,73.80710959085931,included_game_day
+2015,295,Old Dominion Monarchs,2015-03-23,71.45089734429042,included_game_day
+2015,295,Old Dominion Monarchs,2015-03-25,75.8020000717773,included_game_day
+2015,295,Old Dominion Monarchs,2015-03-31,68.63308720729822,included_game_day
+2016,295,Old Dominion Monarchs,2015-11-13,14.0,included_game_day
+2016,295,Old Dominion Monarchs,2015-11-16,28.6,included_game_day
+2016,295,Old Dominion Monarchs,2015-11-18,50.1,included_game_day
+2016,295,Old Dominion Monarchs,2015-11-21,31.465,included_game_day
+2016,295,Old Dominion Monarchs,2015-11-22,27.8069,included_game_day
+2016,295,Old Dominion Monarchs,2015-11-28,24.032709999999998,included_game_day
+2016,295,Old Dominion Monarchs,2015-12-01,22.1288049,included_game_day
+2016,295,Old Dominion Monarchs,2015-12-04,53.41027781,included_game_day
+2016,295,Old Dominion Monarchs,2015-12-12,47.514393128799995,included_game_day
+2016,295,Old Dominion Monarchs,2015-12-16,34.675984856419994,included_game_day
+2016,295,Old Dominion Monarchs,2015-12-18,48.2697835662165,included_game_day
+2016,295,Old Dominion Monarchs,2015-12-22,51.35518502969043,included_game_day
+2016,295,Old Dominion Monarchs,2015-12-29,51.623915533023435,included_game_day
+2016,295,Old Dominion Monarchs,2016-01-02,46.61557229227609,included_game_day
+2016,295,Old Dominion Monarchs,2016-01-07,52.24385428791131,included_game_day
+2016,295,Old Dominion Monarchs,2016-01-09,39.57809387862085,included_game_day
+2016,295,Old Dominion Monarchs,2016-01-14,37.365873027854555,included_game_day
+2016,295,Old Dominion Monarchs,2016-01-16,29.530624442703285,included_game_day
+2016,295,Old Dominion Monarchs,2016-01-21,26.742650786270318,included_game_day
+2016,295,Old Dominion Monarchs,2016-01-23,20.836609080046415,included_game_day
+2016,295,Old Dominion Monarchs,2016-01-28,27.82320883121789,included_game_day
+2016,295,Old Dominion Monarchs,2016-01-30,32.1259333690443,included_game_day
+2016,295,Old Dominion Monarchs,2016-02-06,37.34751468873836,included_game_day
+2016,295,Old Dominion Monarchs,2016-02-11,45.36756112956116,included_game_day
+2016,295,Old Dominion Monarchs,2016-02-13,21.25181888317121,included_game_day
+2016,295,Old Dominion Monarchs,2016-02-18,22.90783372418205,included_game_day
+2016,295,Old Dominion Monarchs,2016-02-20,11.463504696761984,included_game_day
+2016,295,Old Dominion Monarchs,2016-02-25,28.157932164735644,included_game_day
+2016,295,Old Dominion Monarchs,2016-02-27,34.44303380694778,included_game_day
+2016,295,Old Dominion Monarchs,2016-03-03,32.34606713190789,included_game_day
+2016,295,Old Dominion Monarchs,2016-03-05,33.2202227395633,included_game_day
+2016,295,Old Dominion Monarchs,2016-03-09,49.030735691988184,included_game_day
+2016,295,Old Dominion Monarchs,2016-03-10,62.58940565334592,included_game_day
+2016,295,Old Dominion Monarchs,2016-03-11,70.96252288943083,included_game_day
+2016,295,Old Dominion Monarchs,2016-03-12,66.83824442035508,included_game_day
+2016,295,Old Dominion Monarchs,2016-03-28,73.13723748375543,included_game_day
+2016,295,Old Dominion Monarchs,2016-03-29,88.25639581890329,included_game_day
+2016,295,Old Dominion Monarchs,2016-03-30,90.77753979873516,included_game_day
+2017,295,Old Dominion Monarchs,2016-11-11,4.0,included_game_day
+2017,295,Old Dominion Monarchs,2016-11-14,9.6,included_game_day
+2017,295,Old Dominion Monarchs,2016-11-23,10.07,included_game_day
+2017,295,Old Dominion Monarchs,2016-11-24,3.2023600000000005,included_game_day
+2017,295,Old Dominion Monarchs,2016-11-25,13.7544692,included_game_day
+2017,295,Old Dominion Monarchs,2016-11-30,16.336189580000003,included_game_day
+2017,295,Old Dominion Monarchs,2016-12-03,21.078454622000002,included_game_day
+2017,295,Old Dominion Monarchs,2016-12-06,14.396533609200002,included_game_day
+2017,295,Old Dominion Monarchs,2016-12-10,9.413135364760002,included_game_day
+2017,295,Old Dominion Monarchs,2016-12-18,17.323719364668,included_game_day
+2017,295,Old Dominion Monarchs,2016-12-22,22.766271410774863,included_game_day
+2017,295,Old Dominion Monarchs,2016-12-29,5.036616599619705,included_game_day
+2017,295,Old Dominion Monarchs,2016-12-31,11.339272965016386,included_game_day
+2017,295,Old Dominion Monarchs,2017-01-02,9.225108824189695,included_game_day
+2017,295,Old Dominion Monarchs,2017-01-05,12.218866450332202,included_game_day
+2017,295,Old Dominion Monarchs,2017-01-07,24.53776098170769,included_game_day
+2017,295,Old Dominion Monarchs,2017-01-12,13.264670635066874,included_game_day
+2017,295,Old Dominion Monarchs,2017-01-14,2.270518783392607,included_game_day
+2017,295,Old Dominion Monarchs,2017-01-21,-0.5969281945104634,included_game_day
+2017,295,Old Dominion Monarchs,2017-01-26,13.177986235338816,included_game_day
+2017,295,Old Dominion Monarchs,2017-01-28,12.838301709322442,included_game_day
+2017,295,Old Dominion Monarchs,2017-02-02,9.053895469196698,included_game_day
+2017,295,Old Dominion Monarchs,2017-02-04,-2.431294881013976,included_game_day
+2017,295,Old Dominion Monarchs,2017-02-09,-4.092883449717281,included_game_day
+2017,295,Old Dominion Monarchs,2017-02-11,22.831054414336204,included_game_day
+2017,295,Old Dominion Monarchs,2017-02-18,37.424548132187105,included_game_day
+2017,295,Old Dominion Monarchs,2017-02-23,51.97131301221235,included_game_day
+2017,295,Old Dominion Monarchs,2017-02-25,54.073780763204454,included_game_day
+2017,295,Old Dominion Monarchs,2017-03-02,56.15710864979284,included_game_day
+2017,295,Old Dominion Monarchs,2017-03-04,29.267452306648295,included_game_day
+2017,295,Old Dominion Monarchs,2017-03-09,24.17997745030494,included_game_day
+2018,295,Old Dominion Monarchs,2017-11-10,0.0,included_game_day
+2018,295,Old Dominion Monarchs,2017-11-13,19.0,included_game_day
+2018,295,Old Dominion Monarchs,2017-11-16,6.1,included_game_day
+2018,295,Old Dominion Monarchs,2017-11-17,24.0,included_game_day
+2018,295,Old Dominion Monarchs,2017-11-19,30.728,included_game_day
+2018,295,Old Dominion Monarchs,2017-11-25,25.5851,included_game_day
+2018,295,Old Dominion Monarchs,2017-11-27,47.482092300000005,included_game_day
+2018,295,Old Dominion Monarchs,2017-12-02,40.57781622,included_game_day
+2018,295,Old Dominion Monarchs,2017-12-06,46.1308474092,included_game_day
+2018,295,Old Dominion Monarchs,2017-12-09,80.03966036597001,included_game_day
+2018,295,Old Dominion Monarchs,2017-12-17,78.29389322005301,included_game_day
+2018,295,Old Dominion Monarchs,2017-12-22,67.57723055777242,included_game_day
+2018,295,Old Dominion Monarchs,2017-12-30,85.36758237048787,included_game_day
+2018,295,Old Dominion Monarchs,2018-01-04,78.50233402332887,included_game_day
+2018,295,Old Dominion Monarchs,2018-01-06,77.19430459966365,included_game_day
+2018,295,Old Dominion Monarchs,2018-01-11,68.01247729029643,included_game_day
+2018,295,Old Dominion Monarchs,2018-01-13,66.89354890749794,included_game_day
+2018,295,Old Dominion Monarchs,2018-01-18,70.19484378902374,included_game_day
+2018,295,Old Dominion Monarchs,2018-01-20,74.00092618429247,included_game_day
+2018,295,Old Dominion Monarchs,2018-01-27,84.3038542867807,included_game_day
+2018,295,Old Dominion Monarchs,2018-02-01,75.21694791825107,included_game_day
+2018,295,Old Dominion Monarchs,2018-02-03,73.192643447568,included_game_day
+2018,295,Old Dominion Monarchs,2018-02-08,71.2051544855054,included_game_day
+2018,295,Old Dominion Monarchs,2018-02-10,82.8598494208187,included_game_day
+2018,295,Old Dominion Monarchs,2018-02-15,110.80677053355801,included_game_day
+2018,295,Old Dominion Monarchs,2018-02-17,140.0218001574815,included_game_day
+2018,295,Old Dominion Monarchs,2018-02-22,138.7155507090371,included_game_day
+2018,295,Old Dominion Monarchs,2018-02-24,115.46225463186835,included_game_day
+2018,295,Old Dominion Monarchs,2018-03-01,103.13284136539369,included_game_day
+2018,295,Old Dominion Monarchs,2018-03-03,113.31188150125146,included_game_day
+2018,295,Old Dominion Monarchs,2018-03-08,105.01266139399466,included_game_day
+2018,295,Old Dominion Monarchs,2018-03-09,96.34968376138433,included_game_day
+2019,295,Old Dominion Monarchs,2018-11-06,20.0,included_game_day
+2019,295,Old Dominion Monarchs,2018-11-09,6.0,included_game_day
+2019,295,Old Dominion Monarchs,2018-11-16,2.77,included_game_day
+2019,295,Old Dominion Monarchs,2018-11-17,18.4704,included_game_day
+2019,295,Old Dominion Monarchs,2018-11-19,14.947030000000002,included_game_day
+2019,295,Old Dominion Monarchs,2018-11-23,17.128334000000002,included_game_day
+2019,295,Old Dominion Monarchs,2018-11-28,25.231337890000002,included_game_day
+2019,295,Old Dominion Monarchs,2018-12-01,42.041507031,included_game_day
+2019,295,Old Dominion Monarchs,2018-12-05,49.128117449,included_game_day
+2019,295,Old Dominion Monarchs,2018-12-09,47.9859135663,included_game_day
+2019,295,Old Dominion Monarchs,2018-12-15,58.420419808123,included_game_day
+2019,295,Old Dominion Monarchs,2018-12-19,62.72149820317835,included_game_day
+2019,295,Old Dominion Monarchs,2018-12-22,71.76216849321152,included_game_day
+2019,295,Old Dominion Monarchs,2019-01-03,56.58827915117764,included_game_day
+2019,295,Old Dominion Monarchs,2019-01-05,54.63288839633936,included_game_day
+2019,295,Old Dominion Monarchs,2019-01-10,43.63435727916009,included_game_day
+2019,295,Old Dominion Monarchs,2019-01-12,40.115258913602915,included_game_day
+2019,295,Old Dominion Monarchs,2019-01-17,37.44731790886229,included_game_day
+2019,295,Old Dominion Monarchs,2019-01-19,48.411981071646466,included_game_day
+2019,295,Old Dominion Monarchs,2019-01-21,49.292761126836766,included_game_day
+2019,295,Old Dominion Monarchs,2019-01-24,44.118121380202425,included_game_day
+2019,295,Old Dominion Monarchs,2019-01-26,45.128385545149676,included_game_day
+2019,295,Old Dominion Monarchs,2019-01-31,51.368728230007804,included_game_day
+2019,295,Old Dominion Monarchs,2019-02-02,44.75954758572157,included_game_day
+2019,295,Old Dominion Monarchs,2019-02-07,54.404941117814374,included_game_day
+2019,295,Old Dominion Monarchs,2019-02-09,52.46844281123671,included_game_day
+2019,295,Old Dominion Monarchs,2019-02-16,50.24121032184266,included_game_day
+2019,295,Old Dominion Monarchs,2019-02-23,48.50731046708065,included_game_day
+2019,295,Old Dominion Monarchs,2019-02-28,52.486428833701176,included_game_day
+2019,295,Old Dominion Monarchs,2019-03-06,41.7932947810834,included_game_day
+2019,295,Old Dominion Monarchs,2019-03-09,27.118412129342197,included_game_day
+2019,295,Old Dominion Monarchs,2019-03-14,26.330859093659928,included_game_day
+2019,295,Old Dominion Monarchs,2019-03-15,28.918589716375962,included_game_day
+2019,295,Old Dominion Monarchs,2019-03-16,37.62757553713077,included_game_day
+2019,295,Old Dominion Monarchs,2019-03-21,35.700884210704814,included_game_day
+2020,295,Old Dominion Monarchs,2019-11-05,-2.0,included_game_day
+2020,295,Old Dominion Monarchs,2019-11-10,8.4,included_game_day
+2020,295,Old Dominion Monarchs,2019-11-13,12.280000000000001,included_game_day
+2020,295,Old Dominion Monarchs,2019-11-16,21.431,included_game_day
+2020,295,Old Dominion Monarchs,2019-11-20,11.241500000000002,included_game_day
+2020,295,Old Dominion Monarchs,2019-11-25,3.579919000000002,included_game_day
+2020,295,Old Dominion Monarchs,2019-11-26,-12.896524199999996,included_game_day
+2020,295,Old Dominion Monarchs,2019-11-27,-17.6616917,included_game_day
+2020,295,Old Dominion Monarchs,2019-12-03,-29.157271205999997,included_game_day
+2020,295,Old Dominion Monarchs,2019-12-07,-30.3782242054,included_game_day
+2020,295,Old Dominion Monarchs,2019-12-14,-30.52096592704584,included_game_day
+2020,295,Old Dominion Monarchs,2019-12-18,-26.833258914908257,included_game_day
+2020,295,Old Dominion Monarchs,2019-12-22,-16.300533112912966,included_game_day
+2020,295,Old Dominion Monarchs,2020-01-02,-17.445431652800046,included_game_day
+2020,295,Old Dominion Monarchs,2020-01-04,-11.652994470958884,included_game_day
+2020,295,Old Dominion Monarchs,2020-01-11,-11.369709382192681,included_game_day
+2020,295,Old Dominion Monarchs,2020-01-16,-6.855675182545254,included_game_day
+2020,295,Old Dominion Monarchs,2020-01-18,-2.062395005992273,included_game_day
+2020,295,Old Dominion Monarchs,2020-01-20,0.3189074508180969,included_game_day
+2020,295,Old Dominion Monarchs,2020-01-23,-4.430359986193763,included_game_day
+2020,295,Old Dominion Monarchs,2020-01-25,1.6351933051547523,included_game_day
+2020,295,Old Dominion Monarchs,2020-01-30,9.033795725456145,included_game_day
+2020,295,Old Dominion Monarchs,2020-02-01,15.850014464673759,included_game_day
+2020,295,Old Dominion Monarchs,2020-02-06,5.1254920100997765,included_game_day
+2020,295,Old Dominion Monarchs,2020-02-08,18.44397856579255,included_game_day
+2020,295,Old Dominion Monarchs,2020-02-13,21.950714031222965,included_game_day
+2020,295,Old Dominion Monarchs,2020-02-15,12.598640062954566,included_game_day
+2020,295,Old Dominion Monarchs,2020-02-22,7.790544703421107,included_game_day
+2020,295,Old Dominion Monarchs,2020-03-01,7.879925845140128,included_game_day
+2020,295,Old Dominion Monarchs,2020-03-04,28.185328257206514,included_game_day
+2020,295,Old Dominion Monarchs,2020-03-07,18.84379691105963,included_game_day
+2020,295,Old Dominion Monarchs,2020-03-11,5.149471387516982,included_game_day
+2021,295,Old Dominion Monarchs,2020-11-25,-15.0,included_game_day
+2021,295,Old Dominion Monarchs,2020-11-28,-8.5,included_game_day
+2021,295,Old Dominion Monarchs,2020-12-02,10.7,included_game_day
+2021,295,Old Dominion Monarchs,2020-12-12,-5.280597200000001,included_game_day
+2021,295,Old Dominion Monarchs,2020-12-20,-4.109543217000001,included_game_day
+2021,295,Old Dominion Monarchs,2021-01-01,-14.3066831287,included_game_day
+2021,295,Old Dominion Monarchs,2021-01-02,-2.464395058059999,included_game_day
+2021,295,Old Dominion Monarchs,2021-01-08,-3.9891348614449997,included_game_day
+2021,295,Old Dominion Monarchs,2021-01-09,-0.20892670415299985,included_game_day
+2021,295,Old Dominion Monarchs,2021-01-15,-6.062316410028612,included_game_day
+2021,295,Old Dominion Monarchs,2021-01-16,2.254971825270899,included_game_day
+2021,295,Old Dominion Monarchs,2021-02-05,6.102386604353945,included_game_day
+2021,295,Old Dominion Monarchs,2021-02-06,-11.819681572379618,included_game_day
+2021,295,Old Dominion Monarchs,2021-02-10,-7.454081488328059,included_game_day
+2021,295,Old Dominion Monarchs,2021-02-13,7.038398578913188,included_game_day
+2021,295,Old Dominion Monarchs,2021-02-19,9.051572593929041,included_game_day
+2021,295,Old Dominion Monarchs,2021-02-20,24.662111805941727,included_game_day
+2021,295,Old Dominion Monarchs,2021-02-26,20.44384864599569,included_game_day
+2021,295,Old Dominion Monarchs,2021-02-27,24.06923811803886,included_game_day
+2021,295,Old Dominion Monarchs,2021-03-05,32.25369670096302,included_game_day
+2021,295,Old Dominion Monarchs,2021-03-06,33.80126356730234,included_game_day
+2021,295,Old Dominion Monarchs,2021-03-11,31.40350773299598,included_game_day
+2022,295,Old Dominion Monarchs,2021-11-13,-2.0,included_game_day
+2022,295,Old Dominion Monarchs,2021-11-15,16.57,included_game_day
+2022,295,Old Dominion Monarchs,2021-11-18,-27.397,included_game_day
+2022,295,Old Dominion Monarchs,2021-11-19,-35.3525,included_game_day
+2022,295,Old Dominion Monarchs,2021-11-21,-42.338809,included_game_day
+2022,295,Old Dominion Monarchs,2021-11-26,-38.8870381,included_game_day
+2022,295,Old Dominion Monarchs,2021-11-30,-31.816873372499998,included_game_day
+2022,295,Old Dominion Monarchs,2021-12-04,-13.514837235249999,included_game_day
+2022,295,Old Dominion Monarchs,2021-12-07,-2.211209150924999,included_game_day
+2022,295,Old Dominion Monarchs,2021-12-11,-11.133322862512498,included_game_day
+2022,295,Old Dominion Monarchs,2021-12-19,-9.432250545171248,included_game_day
+2022,295,Old Dominion Monarchs,2021-12-22,-13.146444953345195,included_game_day
+2022,295,Old Dominion Monarchs,2021-12-30,-2.7465061430152478,included_game_day
+2022,295,Old Dominion Monarchs,2022-01-13,18.19622670438109,included_game_day
+2022,295,Old Dominion Monarchs,2022-01-15,5.277517454594992,included_game_day
+2022,295,Old Dominion Monarchs,2022-01-20,-0.027922830298790835,included_game_day
+2022,295,Old Dominion Monarchs,2022-01-22,-3.9486722544963557,included_game_day
+2022,295,Old Dominion Monarchs,2022-01-26,-5.74228834811106,included_game_day
+2022,295,Old Dominion Monarchs,2022-01-29,6.822818776997176,included_game_day
+2022,295,Old Dominion Monarchs,2022-02-03,14.31844392988009,included_game_day
+2022,295,Old Dominion Monarchs,2022-02-05,-4.203217650734928,included_game_day
+2022,295,Old Dominion Monarchs,2022-02-08,-14.366007868419482,included_game_day
+2022,295,Old Dominion Monarchs,2022-02-10,-23.338895420168697,included_game_day
+2022,295,Old Dominion Monarchs,2022-02-13,-5.093322041097878,included_game_day
+2022,295,Old Dominion Monarchs,2022-02-17,-10.452375512585025,included_game_day
+2022,295,Old Dominion Monarchs,2022-02-19,-10.713388733735705,included_game_day
+2022,295,Old Dominion Monarchs,2022-02-24,10.619051949112087,included_game_day
+2022,295,Old Dominion Monarchs,2022-02-26,21.461560235437275,included_game_day
+2022,295,Old Dominion Monarchs,2022-03-02,14.435728930271377,included_game_day
+2022,295,Old Dominion Monarchs,2022-03-05,19.86649608899372,included_game_day
+2022,295,Old Dominion Monarchs,2022-03-09,8.424169830570785,included_game_day
+2023,295,Old Dominion Monarchs,2022-11-07,16.0,included_game_day
+2023,295,Old Dominion Monarchs,2022-11-11,5.4,included_game_day
+2023,295,Old Dominion Monarchs,2022-11-17,6.8500000000000005,included_game_day
+2023,295,Old Dominion Monarchs,2022-11-18,12.163499999999999,included_game_day
+2023,295,Old Dominion Monarchs,2022-11-20,5.217279999999999,included_game_day
+2023,295,Old Dominion Monarchs,2022-11-26,25.9784537,included_game_day
+2023,295,Old Dominion Monarchs,2022-11-29,14.55528773,included_game_day
+2023,295,Old Dominion Monarchs,2022-12-03,10.713172783,included_game_day
+2023,295,Old Dominion Monarchs,2022-12-07,13.861244373969999,included_game_day
+2023,295,Old Dominion Monarchs,2022-12-10,9.354483425273,included_game_day
+2023,295,Old Dominion Monarchs,2022-12-21,7.506983578678829,included_game_day
+2023,295,Old Dominion Monarchs,2022-12-29,-3.183919989508972,included_game_day
+2023,295,Old Dominion Monarchs,2022-12-31,-1.0296790698603937,included_game_day
+2023,295,Old Dominion Monarchs,2023-01-05,-1.9376677641147824,included_game_day
+2023,295,Old Dominion Monarchs,2023-01-07,8.18034279868467,included_game_day
+2023,295,Old Dominion Monarchs,2023-01-12,-0.7674046180894933,included_game_day
+2023,295,Old Dominion Monarchs,2023-01-14,2.9753067315669206,included_game_day
+2023,295,Old Dominion Monarchs,2023-01-19,11.08479002876929,included_game_day
+2023,295,Old Dominion Monarchs,2023-01-21,-7.312370109282661,included_game_day
+2023,295,Old Dominion Monarchs,2023-01-26,-3.1681618341559235,included_game_day
+2023,295,Old Dominion Monarchs,2023-01-28,-3.510115103378987,included_game_day
+2023,295,Old Dominion Monarchs,2023-02-02,-7.255028937582359,included_game_day
+2023,295,Old Dominion Monarchs,2023-02-04,-5.401715930621875,included_game_day
+2023,295,Old Dominion Monarchs,2023-02-09,-3.486315478519903,included_game_day
+2023,295,Old Dominion Monarchs,2023-02-11,-0.8457874528036888,included_game_day
+2023,295,Old Dominion Monarchs,2023-02-16,-2.725840675264171,included_game_day
+2023,295,Old Dominion Monarchs,2023-02-18,11.905486426879405,included_game_day
+2023,295,Old Dominion Monarchs,2023-02-22,16.376888246068646,included_game_day
+2023,295,Old Dominion Monarchs,2023-02-24,24.42788430652584,included_game_day
+2023,295,Old Dominion Monarchs,2023-03-02,-10.592323580906644,included_game_day
+2024,295,Old Dominion Monarchs,2023-11-11,-2.0,included_game_day
+2024,295,Old Dominion Monarchs,2023-11-13,-3.51,included_game_day
+2024,295,Old Dominion Monarchs,2023-11-22,-21.158699999999996,included_game_day
+2024,295,Old Dominion Monarchs,2023-11-26,-13.623048999999996,included_game_day
+2024,295,Old Dominion Monarchs,2023-11-29,-15.053514799999997,included_game_day
+2024,295,Old Dominion Monarchs,2023-12-02,-24.249229819999996,included_game_day
+2024,295,Old Dominion Monarchs,2023-12-06,-28.476317290299995,included_game_day
+2024,295,Old Dominion Monarchs,2023-12-09,-37.868470921269996,included_game_day
+2024,295,Old Dominion Monarchs,2023-12-21,-47.9374707060508,included_game_day
+2024,295,Old Dominion Monarchs,2023-12-22,-29.110505218471374,included_game_day
+2024,295,Old Dominion Monarchs,2023-12-24,-42.82166047061568,included_game_day
+2024,295,Old Dominion Monarchs,2023-12-30,-44.61406799257081,included_game_day
+2024,295,Old Dominion Monarchs,2024-01-04,-50.68347554473613,included_game_day
+2024,295,Old Dominion Monarchs,2024-01-06,-56.531850013263444,included_game_day
+2024,295,Old Dominion Monarchs,2024-01-11,-56.00518871900214,included_game_day
+2024,295,Old Dominion Monarchs,2024-01-13,-58.05946982460431,included_game_day
+2024,295,Old Dominion Monarchs,2024-01-18,-32.197131610707906,included_game_day
+2024,295,Old Dominion Monarchs,2024-01-20,-49.24572695997473,included_game_day
+2024,295,Old Dominion Monarchs,2024-01-24,-55.42270385345514,included_game_day
+2024,295,Old Dominion Monarchs,2024-01-27,-64.36124298705964,included_game_day
+2024,295,Old Dominion Monarchs,2024-02-01,-50.00689704435394,included_game_day
+2024,295,Old Dominion Monarchs,2024-02-03,-47.10150432106115,included_game_day
+2024,295,Old Dominion Monarchs,2024-02-07,-48.12074234138868,included_game_day
+2024,295,Old Dominion Monarchs,2024-02-10,-50.373581644258444,included_game_day
+2024,295,Old Dominion Monarchs,2024-02-15,-51.85943620433629,included_game_day
+2024,295,Old Dominion Monarchs,2024-02-17,-53.088205186615184,included_game_day
+2024,295,Old Dominion Monarchs,2024-02-22,-59.46631298046485,included_game_day
+2024,295,Old Dominion Monarchs,2024-02-24,-48.55819698301764,included_game_day
+2024,295,Old Dominion Monarchs,2024-02-28,-59.08055757109339,included_game_day
+2024,295,Old Dominion Monarchs,2024-03-01,-71.48317723056789,included_game_day
+2024,295,Old Dominion Monarchs,2024-03-05,-74.83126563666902,included_game_day
+2025,295,Old Dominion Monarchs,2024-11-04,-4.0,included_game_day
+2025,295,Old Dominion Monarchs,2024-11-09,-56.0,included_game_day
+2025,295,Old Dominion Monarchs,2024-11-12,-61.83,included_game_day
+2025,295,Old Dominion Monarchs,2024-11-15,-60.891999999999996,included_game_day
+2025,295,Old Dominion Monarchs,2024-11-24,-84.196125,included_game_day
+2025,295,Old Dominion Monarchs,2024-11-25,-79.6809979,included_game_day
+2025,295,Old Dominion Monarchs,2024-11-26,-89.48918768,included_game_day
+2025,295,Old Dominion Monarchs,2024-12-02,-79.190666832,included_game_day
+2025,295,Old Dominion Monarchs,2024-12-07,-80.19913379422,included_game_day
+2025,295,Old Dominion Monarchs,2024-12-15,-77.081997908026,included_game_day
+2025,295,Old Dominion Monarchs,2024-12-21,-68.91648731101911,included_game_day
+2025,295,Old Dominion Monarchs,2025-01-02,-79.02329149995975,included_game_day
+2025,295,Old Dominion Monarchs,2025-01-04,-77.50260553786745,included_game_day
+2025,295,Old Dominion Monarchs,2025-01-09,-65.367013440549,included_game_day
+2025,295,Old Dominion Monarchs,2025-01-11,-40.09105431542742,included_game_day
+2025,295,Old Dominion Monarchs,2025-01-16,-56.24895847836974,included_game_day
+2025,295,Old Dominion Monarchs,2025-01-18,-64.56240861041235,included_game_day
+2025,295,Old Dominion Monarchs,2025-01-22,-77.35036438066342,included_game_day
+2025,295,Old Dominion Monarchs,2025-01-25,-59.96903994559634,included_game_day
+2025,295,Old Dominion Monarchs,2025-01-29,-46.94157534630712,included_game_day
+2025,295,Old Dominion Monarchs,2025-02-01,-54.46435604855881,included_game_day
+2025,295,Old Dominion Monarchs,2025-02-05,-43.90037513114133,included_game_day
+2025,295,Old Dominion Monarchs,2025-02-08,-50.84882408344321,included_game_day
+2025,295,Old Dominion Monarchs,2025-02-13,-68.83619559325216,included_game_day
+2025,295,Old Dominion Monarchs,2025-02-15,-64.64092105700011,included_game_day
+2025,295,Old Dominion Monarchs,2025-02-20,-67.57729417479666,included_game_day
+2025,295,Old Dominion Monarchs,2025-02-22,-72.9917589427572,included_game_day
+2025,295,Old Dominion Monarchs,2025-02-25,-80.12301085461974,included_game_day
+2025,295,Old Dominion Monarchs,2025-02-28,-76.46688051097067,included_game_day
+2025,295,Old Dominion Monarchs,2025-03-05,-58.43395187057441,included_game_day
+2025,295,Old Dominion Monarchs,2025-03-06,-51.82527579825726,included_game_day
+2025,295,Old Dominion Monarchs,2025-03-07,-43.275062438178466,included_game_day
+2025,295,Old Dominion Monarchs,2025-03-08,-50.83147431285257,included_game_day
+2026,295,Old Dominion Monarchs,2025-11-03,-12.0,included_game_day
+2026,295,Old Dominion Monarchs,2025-11-11,-11.4,included_game_day
+2026,295,Old Dominion Monarchs,2025-11-15,-24.604,included_game_day
+2026,295,Old Dominion Monarchs,2025-11-18,-51.988699999999994,included_game_day
+2026,295,Old Dominion Monarchs,2025-11-21,-21.202689999999993,included_game_day
+2026,295,Old Dominion Monarchs,2025-11-23,-22.355447999999996,included_game_day
+2026,295,Old Dominion Monarchs,2025-11-25,-25.222972199999997,included_game_day
+2026,295,Old Dominion Monarchs,2025-11-30,-29.086480979999997,included_game_day
+2026,295,Old Dominion Monarchs,2025-12-06,-25.785899685533998,included_game_day
+2026,295,Old Dominion Monarchs,2025-12-13,-25.1768164194076,included_game_day
+2026,295,Old Dominion Monarchs,2025-12-17,-18.17399466320684,included_game_day
+2026,295,Old Dominion Monarchs,2025-12-20,-25.45423345080964,included_game_day
+2026,295,Old Dominion Monarchs,2025-12-28,-34.637828852838595,included_game_day
+2026,295,Old Dominion Monarchs,2025-12-31,-45.049686459665935,included_game_day
+2026,295,Old Dominion Monarchs,2026-01-03,-50.47927022144599,included_game_day
+2026,295,Old Dominion Monarchs,2026-01-08,-43.52593552464914,included_game_day
+2026,295,Old Dominion Monarchs,2026-01-10,-39.42405524635302,included_game_day
+2026,295,Old Dominion Monarchs,2026-01-15,-36.27666694492513,included_game_day
+2026,295,Old Dominion Monarchs,2026-01-17,-28.951572924908657,included_game_day
+2026,295,Old Dominion Monarchs,2026-01-21,-28.39026142702823,included_game_day
+2026,295,Old Dominion Monarchs,2026-01-28,-17.08726060470313,included_game_day
+2026,295,Old Dominion Monarchs,2026-01-31,-34.59578299548974,included_game_day
+2026,295,Old Dominion Monarchs,2026-02-04,-54.485301114703915,included_game_day
+2026,295,Old Dominion Monarchs,2026-02-07,-47.19005971335734,included_game_day
+2026,295,Old Dominion Monarchs,2026-02-11,-46.804032636192446,included_game_day
+2026,295,Old Dominion Monarchs,2026-02-14,-26.353451794287114,included_game_day
+2026,295,Old Dominion Monarchs,2026-02-16,-20.805252254651048,included_game_day
+2026,295,Old Dominion Monarchs,2026-02-21,-24.25010638136385,included_game_day
+2026,295,Old Dominion Monarchs,2026-02-24,-28.348790881867423,included_game_day
+2026,295,Old Dominion Monarchs,2026-02-27,-22.30981312413219,included_game_day
+2026,295,Old Dominion Monarchs,2026-03-03,-26.587197380217347,included_game_day
+2026,295,Old Dominion Monarchs,2026-03-04,-31.820161280709303,included_game_day
+2027,295,Old Dominion Monarchs,2026-11-02,9.0,included_game_day
+2027,295,Old Dominion Monarchs,2026-11-07,28.5,included_game_day
+2027,295,Old Dominion Monarchs,2026-11-11,36.85,included_game_day
+2027,295,Old Dominion Monarchs,2026-11-14,35.695,included_game_day
+2027,295,Old Dominion Monarchs,2026-11-17,23.52141,included_game_day

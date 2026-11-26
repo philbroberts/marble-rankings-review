@@ -1,0 +1,877 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1996,55,Jacksonville St,1995-11-25,-22.0,included_game_day
+1996,55,Jacksonville St,1995-11-28,10.200000000000003,included_game_day
+1996,55,Jacksonville St,1995-11-30,-2.5029999999999966,included_game_day
+1996,55,Jacksonville St,1995-12-16,6.719763900000004,included_game_day
+1996,55,Jacksonville St,1995-12-18,-12.422638549999995,included_game_day
+1996,55,Jacksonville St,1995-12-21,-5.6817325579999975,included_game_day
+1996,55,Jacksonville St,1995-12-22,-10.576632806358997,included_game_day
+1996,55,Jacksonville St,1996-01-04,-42.17225350254738,included_game_day
+1996,55,Jacksonville St,1996-01-06,-19.497483305183227,included_game_day
+1996,55,Jacksonville St,1996-01-11,-23.705513647130957,included_game_day
+1996,55,Jacksonville St,1996-01-13,-31.730486200540717,included_game_day
+1996,55,Jacksonville St,1996-01-18,-35.80076226553601,included_game_day
+1996,55,Jacksonville St,1996-01-20,-33.55064769823445,included_game_day
+1996,55,Jacksonville St,1996-01-25,-44.16594993831096,included_game_day
+1996,55,Jacksonville St,1996-01-27,-31.16980011534112,included_game_day
+1996,55,Jacksonville St,1996-02-01,-44.119568621609574,included_game_day
+1996,55,Jacksonville St,1996-02-03,-58.10831068628862,included_game_day
+1996,55,Jacksonville St,1996-02-05,-59.952359735679366,included_game_day
+1996,55,Jacksonville St,1996-02-10,-47.347269445178746,included_game_day
+1996,55,Jacksonville St,1996-02-12,-58.863129086909105,included_game_day
+1996,55,Jacksonville St,1996-02-15,-48.94124641573633,included_game_day
+1996,55,Jacksonville St,1996-02-17,-68.04396279213975,included_game_day
+1996,55,Jacksonville St,1996-02-22,-68.60363255181852,included_game_day
+1996,55,Jacksonville St,1996-02-24,-74.35696031726968,included_game_day
+1996,55,Jacksonville St,1996-02-26,-43.75017789951791,included_game_day
+1997,55,Jacksonville St,1996-11-23,-15.0,included_game_day
+1997,55,Jacksonville St,1996-11-30,-33.39,included_game_day
+1997,55,Jacksonville St,1996-12-02,-46.058,included_game_day
+1997,55,Jacksonville St,1996-12-04,-48.3448,included_game_day
+1997,55,Jacksonville St,1996-12-14,-52.478809248,included_game_day
+1997,55,Jacksonville St,1996-12-20,-55.7910139249,included_game_day
+1997,55,Jacksonville St,1996-12-21,-60.138610074428996,included_game_day
+1997,55,Jacksonville St,1997-01-02,-57.925102572809806,included_game_day
+1997,55,Jacksonville St,1997-01-04,-63.836245798806736,included_game_day
+1997,55,Jacksonville St,1997-01-09,-66.54388842240078,included_game_day
+1997,55,Jacksonville St,1997-01-11,-51.06919419139044,included_game_day
+1997,55,Jacksonville St,1997-01-16,-57.88636313010691,included_game_day
+1997,55,Jacksonville St,1997-01-18,-62.59419881446934,included_game_day
+1997,55,Jacksonville St,1997-01-23,-59.33761202249711,included_game_day
+1997,55,Jacksonville St,1997-01-25,-53.26810195842465,included_game_day
+1997,55,Jacksonville St,1997-01-30,-77.16977382571915,included_game_day
+1997,55,Jacksonville St,1997-02-01,-78.55106378694212,included_game_day
+1997,55,Jacksonville St,1997-02-03,-73.43415985707794,included_game_day
+1997,55,Jacksonville St,1997-02-07,-66.53122985214642,included_game_day
+1997,55,Jacksonville St,1997-02-10,-87.89569576844016,included_game_day
+1997,55,Jacksonville St,1997-02-13,-58.79288596192109,included_game_day
+1997,55,Jacksonville St,1997-02-15,-65.67558647817897,included_game_day
+1997,55,Jacksonville St,1997-02-20,-65.93285885645093,included_game_day
+1997,55,Jacksonville St,1997-02-22,-47.891246056499696,included_game_day
+1997,55,Jacksonville St,1997-02-26,-70.45237549265617,included_game_day
+1998,55,Jacksonville St,1997-11-18,-7.0,included_game_day
+1998,55,Jacksonville St,1997-11-22,-1.1100000000000003,included_game_day
+1998,55,Jacksonville St,1997-11-24,-29.4862,included_game_day
+1998,55,Jacksonville St,1997-11-29,-39.350007,included_game_day
+1998,55,Jacksonville St,1997-12-02,-40.6065963,included_game_day
+1998,55,Jacksonville St,1997-12-13,-30.330634026954,included_game_day
+1998,55,Jacksonville St,1997-12-16,-50.512339724533604,included_game_day
+1998,55,Jacksonville St,1997-12-18,-34.892823755080244,included_game_day
+1998,55,Jacksonville St,1998-01-03,-47.683979792145934,included_game_day
+1998,55,Jacksonville St,1998-01-05,-58.777639296564544,included_game_day
+1998,55,Jacksonville St,1998-01-08,-60.69128573746176,included_game_day
+1998,55,Jacksonville St,1998-01-10,-76.26736393021682,included_game_day
+1998,55,Jacksonville St,1998-01-15,-66.53317937859262,included_game_day
+1998,55,Jacksonville St,1998-01-17,-73.12202752154893,included_game_day
+1998,55,Jacksonville St,1998-01-22,-78.76951918745993,included_game_day
+1998,55,Jacksonville St,1998-01-24,-93.53301462034491,included_game_day
+1998,55,Jacksonville St,1998-01-29,-98.89731359980446,included_game_day
+1998,55,Jacksonville St,1998-01-31,-91.05195457392973,included_game_day
+1998,55,Jacksonville St,1998-02-03,-88.90578280026978,included_game_day
+1998,55,Jacksonville St,1998-02-05,-98.3389341471239,included_game_day
+1998,55,Jacksonville St,1998-02-07,-100.71790437056407,included_game_day
+1998,55,Jacksonville St,1998-02-14,-93.9443544354217,included_game_day
+1998,55,Jacksonville St,1998-02-19,-93.76276145242315,included_game_day
+1998,55,Jacksonville St,1998-02-21,-82.82464011720543,included_game_day
+1999,55,Jacksonville St,1998-11-14,5.0,included_game_day
+1999,55,Jacksonville St,1998-11-16,16.5,included_game_day
+1999,55,Jacksonville St,1998-11-19,5.75,included_game_day
+1999,55,Jacksonville St,1998-11-24,7.683,included_game_day
+1999,55,Jacksonville St,1998-11-28,-29.461,included_game_day
+1999,55,Jacksonville St,1998-12-02,-35.3767866,included_game_day
+1999,55,Jacksonville St,1998-12-08,-41.5413454746,included_game_day
+1999,55,Jacksonville St,1998-12-17,-42.43156641714,included_game_day
+1999,55,Jacksonville St,1999-01-02,-57.48364379582801,included_game_day
+1999,55,Jacksonville St,1999-01-04,-59.78142443819143,included_game_day
+1999,55,Jacksonville St,1999-01-07,-62.0278628634034,included_game_day
+1999,55,Jacksonville St,1999-01-09,-75.02990859510338,included_game_day
+1999,55,Jacksonville St,1999-01-14,-85.10820868885953,included_game_day
+1999,55,Jacksonville St,1999-01-18,-94.19161505663202,included_game_day
+1999,55,Jacksonville St,1999-01-23,-103.32788822897574,included_game_day
+1999,55,Jacksonville St,1999-01-25,-99.75258512384981,included_game_day
+1999,55,Jacksonville St,1999-01-30,-110.35662969416794,included_game_day
+1999,55,Jacksonville St,1999-02-01,-99.14241805050904,included_game_day
+1999,55,Jacksonville St,1999-02-04,-102.37913623519538,included_game_day
+1999,55,Jacksonville St,1999-02-06,-117.00518486387713,included_game_day
+1999,55,Jacksonville St,1999-02-09,-114.72360645012753,included_game_day
+1999,55,Jacksonville St,1999-02-11,-134.18717169163605,included_game_day
+1999,55,Jacksonville St,1999-02-13,-124.68000553440669,included_game_day
+1999,55,Jacksonville St,1999-02-18,-107.99673379367749,included_game_day
+2000,55,Jacksonville St,1999-11-19,-12.0,included_game_day
+2000,55,Jacksonville St,1999-11-24,-8.370000000000001,included_game_day
+2000,55,Jacksonville St,1999-11-27,-3.9030000000000005,included_game_day
+2000,55,Jacksonville St,1999-11-29,-8.726700000000001,included_game_day
+2000,55,Jacksonville St,1999-12-04,-2.825030000000001,included_game_day
+2000,55,Jacksonville St,1999-12-07,-8.605658000000002,included_game_day
+2000,55,Jacksonville St,1999-12-16,5.516496609999997,included_game_day
+2000,55,Jacksonville St,1999-12-18,22.986835781099998,included_game_day
+2000,55,Jacksonville St,1999-12-20,7.580619881529998,included_game_day
+2000,55,Jacksonville St,2000-01-03,16.645271323740058,included_game_day
+2000,55,Jacksonville St,2000-01-08,18.418137612506612,included_game_day
+2000,55,Jacksonville St,2000-01-10,15.587582326900371,included_game_day
+2000,55,Jacksonville St,2000-01-13,13.013408413306966,included_game_day
+2000,55,Jacksonville St,2000-01-15,12.183027816613295,included_game_day
+2000,55,Jacksonville St,2000-01-19,1.474685053642439,included_game_day
+2000,55,Jacksonville St,2000-01-22,9.061671842832883,included_game_day
+2000,55,Jacksonville St,2000-01-24,-7.6604207243529885,included_game_day
+2000,55,Jacksonville St,2000-01-29,-15.719831064050375,included_game_day
+2000,55,Jacksonville St,2000-02-03,-23.60184087268087,included_game_day
+2000,55,Jacksonville St,2000-02-05,-3.8563874209324283,included_game_day
+2000,55,Jacksonville St,2000-02-10,-4.887947290878577,included_game_day
+2000,55,Jacksonville St,2000-02-12,-7.242421144030875,included_game_day
+2000,55,Jacksonville St,2000-02-17,-11.193937917095543,included_game_day
+2000,55,Jacksonville St,2000-02-19,-15.749364584907777,included_game_day
+2000,55,Jacksonville St,2000-02-24,-23.219403017273123,included_game_day
+2000,55,Jacksonville St,2000-02-26,-29.176961366062066,included_game_day
+2000,55,Jacksonville St,2000-03-02,-50.52427283576263,included_game_day
+2001,55,Jacksonville St,2000-11-17,0.0,included_game_day
+2001,55,Jacksonville St,2000-11-19,-33.8,included_game_day
+2001,55,Jacksonville St,2000-11-21,-73.75,included_game_day
+2001,55,Jacksonville St,2000-12-02,-78.435,included_game_day
+2001,55,Jacksonville St,2000-12-04,-86.33275900000001,included_game_day
+2001,55,Jacksonville St,2000-12-16,-81.96710228,included_game_day
+2001,55,Jacksonville St,2000-12-20,-79.242751052,included_game_day
+2001,55,Jacksonville St,2000-12-21,-69.9080848766345,included_game_day
+2001,55,Jacksonville St,2000-12-29,-66.81991485725105,included_game_day
+2001,55,Jacksonville St,2000-12-30,-65.10999825194477,included_game_day
+2001,55,Jacksonville St,2001-01-03,-60.45522705919379,included_game_day
+2001,55,Jacksonville St,2001-01-06,-68.05229406889691,included_game_day
+2001,55,Jacksonville St,2001-01-08,-82.61908721172387,included_game_day
+2001,55,Jacksonville St,2001-01-11,-72.1849613604119,included_game_day
+2001,55,Jacksonville St,2001-01-13,-64.35165314981863,included_game_day
+2001,55,Jacksonville St,2001-01-20,-56.775145584923905,included_game_day
+2001,55,Jacksonville St,2001-01-23,-67.46867068233857,included_game_day
+2001,55,Jacksonville St,2001-01-27,-67.13529459838894,included_game_day
+2001,55,Jacksonville St,2001-02-01,-67.02804773639996,included_game_day
+2001,55,Jacksonville St,2001-02-03,-74.16331032505153,included_game_day
+2001,55,Jacksonville St,2001-02-08,-77.57276087200653,included_game_day
+2001,55,Jacksonville St,2001-02-10,-71.06932440523316,included_game_day
+2001,55,Jacksonville St,2001-02-15,-68.43821764145412,included_game_day
+2001,55,Jacksonville St,2001-02-17,-62.56082534537344,included_game_day
+2001,55,Jacksonville St,2001-02-22,-66.98282431696033,included_game_day
+2001,55,Jacksonville St,2001-02-24,-70.89183501482219,included_game_day
+2001,55,Jacksonville St,2001-02-28,-114.67573948204166,included_game_day
+2002,55,Jacksonville State Gamecocks,2001-11-18,-18.9,included_game_day
+2002,55,Jacksonville State Gamecocks,2001-11-21,-1.6099999999999994,included_game_day
+2002,55,Jacksonville State Gamecocks,2001-11-29,-15.806099999999999,included_game_day
+2002,55,Jacksonville State Gamecocks,2001-12-01,-34.895368,included_game_day
+2002,55,Jacksonville State Gamecocks,2001-12-14,-62.77435319999999,included_game_day
+2002,55,Jacksonville State Gamecocks,2001-12-17,-53.0992970735,included_game_day
+2002,55,Jacksonville State Gamecocks,2001-12-19,-53.636494966849995,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-01-02,-43.136321554606305,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-01-05,-34.683488686646854,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-01-07,-41.457108535964295,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-01-10,-48.08801084237986,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-01-17,-40.181113711357725,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-01-19,-54.75908276985773,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-01-22,-48.22355564304451,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-01-24,-48.61362477100225,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-01-26,-59.21420369435231,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-01-28,-47.508997670276116,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-02-02,-44.15621164401755,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-02-04,-21.152860973900633,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-02-07,-18.185210816382654,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-02-09,-20.528193941097758,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-02-11,-40.06188707001937,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-02-14,-45.9392907559583,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-02-16,-53.814376725750066,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-02-18,-38.06608226331428,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-02-21,-19.577166546623943,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-02-23,-39.522980642937995,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-02-28,-23.479631919989238,included_game_day
+2002,55,Jacksonville State Gamecocks,2002-03-01,-28.786151956717696,included_game_day
+2003,55,Jacksonville State Gamecocks,2002-11-23,2.8,included_game_day
+2003,55,Jacksonville State Gamecocks,2002-11-24,15.96,included_game_day
+2003,55,Jacksonville State Gamecocks,2002-11-30,14.129000000000001,included_game_day
+2003,55,Jacksonville State Gamecocks,2002-12-07,22.00555,included_game_day
+2003,55,Jacksonville State Gamecocks,2002-12-14,27.750864999999997,included_game_day
+2003,55,Jacksonville State Gamecocks,2002-12-22,20.49351856248,included_game_day
+2003,55,Jacksonville State Gamecocks,2002-12-28,4.722151925817,included_game_day
+2003,55,Jacksonville State Gamecocks,2002-12-30,13.912110876233353,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-01-04,9.024737560512838,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-01-06,19.47047158440867,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-01-11,27.249464355370467,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-01-18,9.958828552251436,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-01-20,-4.069282949407716,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-01-23,-5.640000812397575,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-01-25,-7.906314559414386,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-01-28,-15.484022549407378,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-01-30,-16.11585908339327,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-02-03,-18.523184260514714,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-02-06,-17.409742387738028,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-02-08,-27.40172301347591,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-02-10,-5.310992110622866,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-02-13,3.404009353078692,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-02-15,8.993954731155846,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-02-19,21.29189525739905,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-02-21,20.824525769722854,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-02-27,23.38877912483061,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-03-01,19.70773953946546,included_game_day
+2003,55,Jacksonville State Gamecocks,2003-03-06,0.20807123725940002,included_game_day
+2004,55,Jacksonville State Gamecocks,2003-11-21,3.0,included_game_day
+2004,55,Jacksonville State Gamecocks,2003-11-26,-28.5,included_game_day
+2004,55,Jacksonville State Gamecocks,2003-11-29,-49.25,included_game_day
+2004,55,Jacksonville State Gamecocks,2003-12-01,-39.741,included_game_day
+2004,55,Jacksonville State Gamecocks,2003-12-13,-42.56849,included_game_day
+2004,55,Jacksonville State Gamecocks,2003-12-16,-33.891990306,included_game_day
+2004,55,Jacksonville State Gamecocks,2003-12-22,-36.11527992958,included_game_day
+2004,55,Jacksonville State Gamecocks,2003-12-30,-10.022592936621997,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-01-03,-34.01788057991576,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-01-06,-40.46012303572679,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-01-08,-57.35483527366342,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-01-15,-40.387966819846646,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-01-17,-33.468074030620656,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-01-19,-40.096794750422276,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-01-22,-38.74798845526646,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-01-24,-50.17450919606118,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-01-29,-33.39928251541038,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-01-31,-36.310204454708824,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-02-05,-40.31533104566289,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-02-07,-50.40872989811194,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-02-12,-53.24282211639338,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-02-14,-54.259605005160864,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-02-19,-33.236988799771865,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-02-24,-19.68903946564655,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-02-28,-11.885376208765386,included_game_day
+2004,55,Jacksonville State Gamecocks,2004-03-02,-23.799785228506416,included_game_day
+2005,55,Jacksonville State Gamecocks,2004-11-14,-14.0,included_game_day
+2005,55,Jacksonville State Gamecocks,2004-11-15,-24.5,included_game_day
+2005,55,Jacksonville State Gamecocks,2004-11-16,-5.09,included_game_day
+2005,55,Jacksonville State Gamecocks,2004-11-19,-0.5809999999999995,included_game_day
+2005,55,Jacksonville State Gamecocks,2004-12-01,-3.1145270999999997,included_game_day
+2005,55,Jacksonville State Gamecocks,2004-12-04,-22.43866609,included_game_day
+2005,55,Jacksonville State Gamecocks,2004-12-15,-30.882110228000002,included_game_day
+2005,55,Jacksonville State Gamecocks,2004-12-20,-29.890864027457003,included_game_day
+2005,55,Jacksonville State Gamecocks,2004-12-22,-56.8151471107453,included_game_day
+2005,55,Jacksonville State Gamecocks,2004-12-29,-40.24451192348079,included_game_day
+2005,55,Jacksonville State Gamecocks,2005-01-04,-44.35584425874709,included_game_day
+2005,55,Jacksonville State Gamecocks,2005-01-06,-69.7768925535866,included_game_day
+2005,55,Jacksonville State Gamecocks,2005-01-13,-79.09144578060801,included_game_day
+2005,55,Jacksonville State Gamecocks,2005-01-15,-88.81231391791403,included_game_day
+2005,55,Jacksonville State Gamecocks,2005-01-20,-89.7091171640342,included_game_day
+2005,55,Jacksonville State Gamecocks,2005-01-22,-92.22612438113849,included_game_day
+2005,55,Jacksonville State Gamecocks,2005-01-27,-99.72338594952114,included_game_day
+2005,55,Jacksonville State Gamecocks,2005-01-29,-96.96928213160075,included_game_day
+2005,55,Jacksonville State Gamecocks,2005-02-03,-104.26152653155879,included_game_day
+2005,55,Jacksonville State Gamecocks,2005-02-05,-94.05213057183134,included_game_day
+2005,55,Jacksonville State Gamecocks,2005-02-10,-109.43196798479283,included_game_day
+2005,55,Jacksonville State Gamecocks,2005-02-12,-86.18186683840574,included_game_day
+2005,55,Jacksonville State Gamecocks,2005-02-15,-85.05830918244928,included_game_day
+2005,55,Jacksonville State Gamecocks,2005-02-17,-88.25896431738683,included_game_day
+2005,55,Jacksonville State Gamecocks,2005-02-22,-86.89972743978294,included_game_day
+2005,55,Jacksonville State Gamecocks,2005-02-26,-80.05626838656302,included_game_day
+2006,55,Jacksonville State Gamecocks,2005-11-18,-18.0,included_game_day
+2006,55,Jacksonville State Gamecocks,2005-11-21,-8.2,included_game_day
+2006,55,Jacksonville State Gamecocks,2005-12-05,-24.145584058,included_game_day
+2006,55,Jacksonville State Gamecocks,2005-12-08,-20.802645992200002,included_game_day
+2006,55,Jacksonville State Gamecocks,2005-12-10,-7.1951323929800015,included_game_day
+2006,55,Jacksonville State Gamecocks,2005-12-15,-24.899223795681998,included_game_day
+2006,55,Jacksonville State Gamecocks,2005-12-19,-37.817178670413796,included_game_day
+2006,55,Jacksonville State Gamecocks,2005-12-21,-31.434624841630416,included_game_day
+2006,55,Jacksonville State Gamecocks,2005-12-31,-24.461385962067414,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-01-05,-32.23868608429065,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-01-07,-49.637059280169794,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-01-12,-66.05334989851133,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-01-14,-62.607425097613195,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-01-19,-62.843133870766536,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-01-21,-43.35901713175462,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-01-26,-38.88468815650236,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-01-28,-38.355895107012564,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-01-30,-35.72089371043249,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-02-02,-27.43595420764148,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-02-04,-23.161016063180455,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-02-09,-13.49402650983767,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-02-14,-16.891936764860404,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-02-16,-23.076320742070926,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-02-18,-25.273222727269705,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-02-23,-22.307942291326942,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-02-25,-14.771798093900248,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-02-28,5.343443345286591,included_game_day
+2006,55,Jacksonville State Gamecocks,2006-03-03,9.609396499408074,included_game_day
+2007,55,Jacksonville State Gamecocks,2006-11-11,-11.44,included_game_day
+2007,55,Jacksonville State Gamecocks,2006-11-18,-15.395999999999999,included_game_day
+2007,55,Jacksonville State Gamecocks,2006-11-25,-43.142214,included_game_day
+2007,55,Jacksonville State Gamecocks,2006-12-01,-38.913159861000004,included_game_day
+2007,55,Jacksonville State Gamecocks,2006-12-02,-32.78231492490001,included_game_day
+2007,55,Jacksonville State Gamecocks,2006-12-07,-35.89896733241001,included_game_day
+2007,55,Jacksonville State Gamecocks,2006-12-09,-41.197377291169005,included_game_day
+2007,55,Jacksonville State Gamecocks,2006-12-17,-40.689937192825205,included_game_day
+2007,55,Jacksonville State Gamecocks,2006-12-19,-38.284834873733686,included_game_day
+2007,55,Jacksonville State Gamecocks,2006-12-27,-53.17845385828748,included_game_day
+2007,55,Jacksonville State Gamecocks,2006-12-29,-54.75128760954799,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-01-04,-70.77825557527058,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-01-06,-63.6089461158942,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-01-11,-60.022242338420405,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-01-13,-64.48507515830741,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-01-18,-54.88700967227928,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-01-20,-49.31663770529513,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-01-25,-57.00651063428796,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-01-27,-80.43048946729778,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-01-30,-72.45345407208924,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-02-01,-84.93313429736658,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-02-03,-82.5171395719606,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-02-08,-75.70617008149416,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-02-13,-66.35471944922357,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-02-15,-69.09929690672077,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-02-17,-73.7659432048362,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-02-22,-81.7727275913569,included_game_day
+2007,55,Jacksonville State Gamecocks,2007-02-24,-77.82329271676133,included_game_day
+2008,55,Jacksonville State Gamecocks,2007-11-09,-39.0,included_game_day
+2008,55,Jacksonville State Gamecocks,2007-11-16,-42.0,included_game_day
+2008,55,Jacksonville State Gamecocks,2007-11-17,-44.23,included_game_day
+2008,55,Jacksonville State Gamecocks,2007-11-24,-41.833999999999996,included_game_day
+2008,55,Jacksonville State Gamecocks,2007-12-01,-55.917199999999994,included_game_day
+2008,55,Jacksonville State Gamecocks,2007-12-06,-56.601866604799994,included_game_day
+2008,55,Jacksonville State Gamecocks,2007-12-08,-59.16205190771999,included_game_day
+2008,55,Jacksonville State Gamecocks,2007-12-18,-71.40522742230999,included_game_day
+2008,55,Jacksonville State Gamecocks,2007-12-20,-70.42202269422441,included_game_day
+2008,55,Jacksonville State Gamecocks,2007-12-29,-77.07706455286862,included_game_day
+2008,55,Jacksonville State Gamecocks,2008-01-05,-83.17246056481439,included_game_day
+2008,55,Jacksonville State Gamecocks,2008-01-07,-86.85884987824281,included_game_day
+2008,55,Jacksonville State Gamecocks,2008-01-10,-78.16009891711414,included_game_day
+2008,55,Jacksonville State Gamecocks,2008-01-12,-71.57438689017911,included_game_day
+2008,55,Jacksonville State Gamecocks,2008-01-17,-82.85124001502493,included_game_day
+2008,55,Jacksonville State Gamecocks,2008-01-24,-88.92493525818446,included_game_day
+2008,55,Jacksonville State Gamecocks,2008-01-26,-97.24174970752117,included_game_day
+2008,55,Jacksonville State Gamecocks,2008-01-29,-98.02532030950383,included_game_day
+2008,55,Jacksonville State Gamecocks,2008-01-31,-106.52707807793183,included_game_day
+2008,55,Jacksonville State Gamecocks,2008-02-02,-101.70765958242673,included_game_day
+2008,55,Jacksonville State Gamecocks,2008-02-07,-94.75438874464729,included_game_day
+2008,55,Jacksonville State Gamecocks,2008-02-14,-75.808450219268,included_game_day
+2008,55,Jacksonville State Gamecocks,2008-02-16,-56.94782405429157,included_game_day
+2008,55,Jacksonville State Gamecocks,2008-02-23,-65.96251406921671,included_game_day
+2008,55,Jacksonville State Gamecocks,2008-02-28,-81.88048308112252,included_game_day
+2008,55,Jacksonville State Gamecocks,2008-03-01,-78.31606632054472,included_game_day
+2009,55,Jacksonville State Gamecocks,2008-11-14,-10.0,included_game_day
+2009,55,Jacksonville State Gamecocks,2008-11-22,0.4510000000000005,included_game_day
+2009,55,Jacksonville State Gamecocks,2008-11-24,2.3859000000000004,included_game_day
+2009,55,Jacksonville State Gamecocks,2008-11-29,28.41131,included_game_day
+2009,55,Jacksonville State Gamecocks,2008-12-02,42.063128649999996,included_game_day
+2009,55,Jacksonville State Gamecocks,2008-12-06,59.269731385,included_game_day
+2009,55,Jacksonville State Gamecocks,2008-12-17,32.0303161725,included_game_day
+2009,55,Jacksonville State Gamecocks,2008-12-20,27.514723299815003,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-01-03,8.312473589503867,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-01-05,-2.7598476460478096,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-01-08,-5.698351002783298,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-01-10,-19.16299355799599,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-01-15,-28.11904908316174,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-01-17,-45.80911501033049,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-01-22,-44.67790772811834,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-01-24,-42.80574912889773,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-01-29,-37.96562258730536,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-01-31,-34.44851170125412,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-02-05,-27.121721492438795,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-02-07,-20.56313024528675,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-02-09,-43.10501005571706,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-02-12,-55.37016410745912,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-02-14,-45.0558705307827,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-02-17,-57.92020590161421,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-02-21,-63.29859345816108,included_game_day
+2009,55,Jacksonville State Gamecocks,2009-02-28,-82.29774943539437,included_game_day
+2010,55,Jacksonville State Gamecocks,2009-11-17,-27.12,included_game_day
+2010,55,Jacksonville State Gamecocks,2009-11-21,-8.433,included_game_day
+2010,55,Jacksonville State Gamecocks,2009-11-24,-9.0597,included_game_day
+2010,55,Jacksonville State Gamecocks,2009-11-27,-8.27178,included_game_day
+2010,55,Jacksonville State Gamecocks,2009-12-01,-25.2131565,included_game_day
+2010,55,Jacksonville State Gamecocks,2009-12-05,-21.47933165,included_game_day
+2010,55,Jacksonville State Gamecocks,2009-12-15,-13.734906368999999,included_game_day
+2010,55,Jacksonville State Gamecocks,2009-12-21,-29.252605205633,included_game_day
+2010,55,Jacksonville State Gamecocks,2009-12-29,-27.467870810386504,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-01-02,-26.625473253629835,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-01-04,-41.51669496093239,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-01-07,-36.346719779814634,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-01-09,-43.26804443708215,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-01-14,-51.12561945690786,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-01-16,-45.7679331857162,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-01-21,-31.291404740110124,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-01-23,-35.90699750553938,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-01-28,-42.9049843626289,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-01-30,-30.984319461137645,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-02-04,-38.126814014822585,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-02-06,-30.33342854802462,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-02-11,-32.06750399573451,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-02-13,-27.723309444567498,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-02-15,-43.68128194737133,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-02-17,-61.54960063462997,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-02-20,-75.75620845051027,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-02-27,-81.6707702717375,included_game_day
+2010,55,Jacksonville State Gamecocks,2010-03-02,-98.83203829199749,included_game_day
+2011,55,Jacksonville State Gamecocks,2010-11-16,-16.0,included_game_day
+2011,55,Jacksonville State Gamecocks,2010-11-18,-19.4,included_game_day
+2011,55,Jacksonville State Gamecocks,2010-11-22,-31.349999999999998,included_game_day
+2011,55,Jacksonville State Gamecocks,2010-11-26,-39.1706,included_game_day
+2011,55,Jacksonville State Gamecocks,2010-11-27,-29.44821,included_game_day
+2011,55,Jacksonville State Gamecocks,2010-11-28,-34.31525,included_game_day
+2011,55,Jacksonville State Gamecocks,2010-12-01,-27.527744639999998,included_game_day
+2011,55,Jacksonville State Gamecocks,2010-12-04,-32.738860220999996,included_game_day
+2011,55,Jacksonville State Gamecocks,2010-12-13,-42.823882921359996,included_game_day
+2011,55,Jacksonville State Gamecocks,2010-12-15,-42.823833273495396,included_game_day
+2011,55,Jacksonville State Gamecocks,2010-12-19,-59.33679053859926,included_game_day
+2011,55,Jacksonville State Gamecocks,2010-12-21,-68.16634502979083,included_game_day
+2011,55,Jacksonville State Gamecocks,2010-12-29,-63.19936273046683,included_game_day
+2011,55,Jacksonville State Gamecocks,2011-01-06,-60.9157890292988,included_game_day
+2011,55,Jacksonville State Gamecocks,2011-01-08,-68.88356724647039,included_game_day
+2011,55,Jacksonville State Gamecocks,2011-01-13,-72.08498907963103,included_game_day
+2011,55,Jacksonville State Gamecocks,2011-01-15,-79.21547472350463,included_game_day
+2011,55,Jacksonville State Gamecocks,2011-01-20,-74.55473333346443,included_game_day
+2011,55,Jacksonville State Gamecocks,2011-01-22,-75.17149318716031,included_game_day
+2011,55,Jacksonville State Gamecocks,2011-01-27,-66.71616645574443,included_game_day
+2011,55,Jacksonville State Gamecocks,2011-01-29,-51.34683564340635,included_game_day
+2011,55,Jacksonville State Gamecocks,2011-02-03,-51.63378644658511,included_game_day
+2011,55,Jacksonville State Gamecocks,2011-02-05,-56.01328524335395,included_game_day
+2011,55,Jacksonville State Gamecocks,2011-02-07,-53.53662326289211,included_game_day
+2011,55,Jacksonville State Gamecocks,2011-02-10,-66.90794634667219,included_game_day
+2011,55,Jacksonville State Gamecocks,2011-02-12,-52.69193312995057,included_game_day
+2011,55,Jacksonville State Gamecocks,2011-02-15,-50.55761120548273,included_game_day
+2011,55,Jacksonville State Gamecocks,2011-02-19,-49.49875114225858,included_game_day
+2011,55,Jacksonville State Gamecocks,2011-02-26,-44.57382809658838,included_game_day
+2012,55,Jacksonville State Gamecocks,2011-11-13,-9.5,included_game_day
+2012,55,Jacksonville State Gamecocks,2011-11-15,-17.5,included_game_day
+2012,55,Jacksonville State Gamecocks,2011-11-19,-9.988,included_game_day
+2012,55,Jacksonville State Gamecocks,2011-11-25,-14.583079,included_game_day
+2012,55,Jacksonville State Gamecocks,2011-11-27,-19.5247711,included_game_day
+2012,55,Jacksonville State Gamecocks,2011-12-01,-16.411653989999998,included_game_day
+2012,55,Jacksonville State Gamecocks,2011-12-10,-15.196598600999998,included_game_day
+2012,55,Jacksonville State Gamecocks,2011-12-11,-10.734284373599998,included_game_day
+2012,55,Jacksonville State Gamecocks,2011-12-17,-20.4158831663,included_game_day
+2012,55,Jacksonville State Gamecocks,2011-12-28,-6.339664267525025,included_game_day
+2012,55,Jacksonville State Gamecocks,2011-12-29,-26.52477121002655,included_game_day
+2012,55,Jacksonville State Gamecocks,2011-12-31,-33.541274626088445,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-01-02,-49.6880143736867,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-01-05,-59.78298440411213,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-01-07,-52.22867295258378,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-01-12,-44.981478458624544,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-01-14,-43.30667128000051,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-01-19,-35.18061179434037,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-01-26,-22.297711202294945,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-01-28,-21.719682568981042,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-01-30,-26.794293266723145,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-02-02,-22.493279831669803,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-02-04,-29.274987424231917,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-02-08,-12.633938197983383,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-02-14,-10.523014358490222,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-02-18,2.535496468368578,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-02-23,8.913099521969617,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-02-25,21.16185142128059,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-02-29,20.865618919865117,included_game_day
+2012,55,Jacksonville State Gamecocks,2012-03-01,4.783187471678875,included_game_day
+2013,55,Jacksonville State Gamecocks,2012-11-11,4.0,included_game_day
+2013,55,Jacksonville State Gamecocks,2012-11-15,13.3,included_game_day
+2013,55,Jacksonville State Gamecocks,2012-11-17,-0.5999999999999996,included_game_day
+2013,55,Jacksonville State Gamecocks,2012-11-19,-15.833,included_game_day
+2013,55,Jacksonville State Gamecocks,2012-11-23,-15.4167,included_game_day
+2013,55,Jacksonville State Gamecocks,2012-11-24,-14.0908,included_game_day
+2013,55,Jacksonville State Gamecocks,2012-12-01,-11.011307599999999,included_game_day
+2013,55,Jacksonville State Gamecocks,2012-12-15,-13.972632401999997,included_game_day
+2013,55,Jacksonville State Gamecocks,2012-12-18,-13.642393239798997,included_game_day
+2013,55,Jacksonville State Gamecocks,2012-12-29,-0.18932474532268273,included_game_day
+2013,55,Jacksonville State Gamecocks,2012-12-31,2.7783056691405363,included_game_day
+2013,55,Jacksonville State Gamecocks,2013-01-03,-4.442030230576016,included_game_day
+2013,55,Jacksonville State Gamecocks,2013-01-05,-19.749237056716495,included_game_day
+2013,55,Jacksonville State Gamecocks,2013-01-10,-6.931196062257968,included_game_day
+2013,55,Jacksonville State Gamecocks,2013-01-12,-5.803295817398,included_game_day
+2013,55,Jacksonville State Gamecocks,2013-01-17,-7.8597088508992385,included_game_day
+2013,55,Jacksonville State Gamecocks,2013-01-19,-17.17385057243847,included_game_day
+2013,55,Jacksonville State Gamecocks,2013-01-24,-21.31913391418761,included_game_day
+2013,55,Jacksonville State Gamecocks,2013-01-26,-18.58165792178624,included_game_day
+2013,55,Jacksonville State Gamecocks,2013-02-02,-9.458951894272454,included_game_day
+2013,55,Jacksonville State Gamecocks,2013-02-09,-27.95938548055274,included_game_day
+2013,55,Jacksonville State Gamecocks,2013-02-14,-29.799748321298804,included_game_day
+2013,55,Jacksonville State Gamecocks,2013-02-16,-32.66978463477095,included_game_day
+2013,55,Jacksonville State Gamecocks,2013-02-20,-33.54579912667665,included_game_day
+2013,55,Jacksonville State Gamecocks,2013-02-23,-24.58203771192084,included_game_day
+2013,55,Jacksonville State Gamecocks,2013-03-02,-13.740360024699335,included_game_day
+2014,55,Jacksonville State Gamecocks,2013-11-08,-4.0,included_game_day
+2014,55,Jacksonville State Gamecocks,2013-11-10,-23.2,included_game_day
+2014,55,Jacksonville State Gamecocks,2013-11-12,-24.38,included_game_day
+2014,55,Jacksonville State Gamecocks,2013-11-16,-39.462,included_game_day
+2014,55,Jacksonville State Gamecocks,2013-11-19,-57.0058,included_game_day
+2014,55,Jacksonville State Gamecocks,2013-11-25,-44.88392,included_game_day
+2014,55,Jacksonville State Gamecocks,2013-11-30,-43.028345200000004,included_game_day
+2014,55,Jacksonville State Gamecocks,2013-12-08,-54.14800617,included_game_day
+2014,55,Jacksonville State Gamecocks,2013-12-11,-48.604987199247,included_game_day
+2014,55,Jacksonville State Gamecocks,2013-12-14,-70.7271727804843,included_game_day
+2014,55,Jacksonville State Gamecocks,2013-12-17,-60.248024617661564,included_game_day
+2014,55,Jacksonville State Gamecocks,2013-12-20,-64.00598144212141,included_game_day
+2014,55,Jacksonville State Gamecocks,2013-12-21,-51.95432048327085,included_game_day
+2014,55,Jacksonville State Gamecocks,2013-12-30,-54.492823170497054,included_game_day
+2014,55,Jacksonville State Gamecocks,2014-01-02,-57.965075095005254,included_game_day
+2014,55,Jacksonville State Gamecocks,2014-01-04,-62.3528050191555,included_game_day
+2014,55,Jacksonville State Gamecocks,2014-01-09,-56.76154417467592,included_game_day
+2014,55,Jacksonville State Gamecocks,2014-01-11,-72.58140291210087,included_game_day
+2014,55,Jacksonville State Gamecocks,2014-01-16,-72.23476875770356,included_game_day
+2014,55,Jacksonville State Gamecocks,2014-01-18,-63.14657724304914,included_game_day
+2014,55,Jacksonville State Gamecocks,2014-01-23,-47.66789383577268,included_game_day
+2014,55,Jacksonville State Gamecocks,2014-01-25,-45.33467531258677,included_game_day
+2014,55,Jacksonville State Gamecocks,2014-02-01,-50.11656992100611,included_game_day
+2014,55,Jacksonville State Gamecocks,2014-02-08,-69.73417756492503,included_game_day
+2014,55,Jacksonville State Gamecocks,2014-02-13,-67.24421237287685,included_game_day
+2014,55,Jacksonville State Gamecocks,2014-02-15,-84.37486400713101,included_game_day
+2014,55,Jacksonville State Gamecocks,2014-02-20,-94.26201430837224,included_game_day
+2014,55,Jacksonville State Gamecocks,2014-02-22,-101.36351540455055,included_game_day
+2014,55,Jacksonville State Gamecocks,2014-03-01,-113.68026985374533,included_game_day
+2015,55,Jacksonville State Gamecocks,2014-11-14,-16.0,included_game_day
+2015,55,Jacksonville State Gamecocks,2014-11-17,-59.1,included_game_day
+2015,55,Jacksonville State Gamecocks,2014-11-19,-64.39,included_game_day
+2015,55,Jacksonville State Gamecocks,2014-11-25,-52.501000000000005,included_game_day
+2015,55,Jacksonville State Gamecocks,2014-11-28,-54.689330000000005,included_game_day
+2015,55,Jacksonville State Gamecocks,2014-12-03,-48.236496700000004,included_game_day
+2015,55,Jacksonville State Gamecocks,2014-12-06,-67.98137703,included_game_day
+2015,55,Jacksonville State Gamecocks,2014-12-14,-50.85360931860001,included_game_day
+2015,55,Jacksonville State Gamecocks,2014-12-16,-42.291457098040006,included_game_day
+2015,55,Jacksonville State Gamecocks,2014-12-20,-45.530282448315724,included_game_day
+2015,55,Jacksonville State Gamecocks,2014-12-22,-35.73165115279915,included_game_day
+2015,55,Jacksonville State Gamecocks,2014-12-27,-54.40705351405265,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-01-01,-65.90785105862767,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-01-03,-66.63556109168321,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-01-08,-57.4399265074309,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-01-11,-73.73328804253015,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-01-14,-91.14314006636039,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-01-17,-83.11497829754889,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-01-22,-70.9635213407198,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-01-24,-68.37823198844445,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-01-29,-79.93469046557314,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-01-31,-78.84197285150425,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-02-04,-88.68667077203443,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-02-07,-94.61683049164459,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-02-11,-85.02002220662685,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-02-14,-68.43535760760983,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-02-21,-70.09384273279672,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-02-26,-62.027546598937036,included_game_day
+2015,55,Jacksonville State Gamecocks,2015-02-28,-83.18388740911527,included_game_day
+2016,55,Jacksonville State Gamecocks,2015-11-13,-3.0,included_game_day
+2016,55,Jacksonville State Gamecocks,2015-11-18,-9.3,included_game_day
+2016,55,Jacksonville State Gamecocks,2015-11-22,-9.264000000000001,included_game_day
+2016,55,Jacksonville State Gamecocks,2015-11-24,-13.849600000000002,included_game_day
+2016,55,Jacksonville State Gamecocks,2015-11-27,-13.259510000000002,included_game_day
+2016,55,Jacksonville State Gamecocks,2015-11-28,-18.795142000000002,included_game_day
+2016,55,Jacksonville State Gamecocks,2015-12-01,-25.957541000000003,included_game_day
+2016,55,Jacksonville State Gamecocks,2015-12-05,-32.63545878,included_game_day
+2016,55,Jacksonville State Gamecocks,2015-12-13,-42.013625833999996,included_game_day
+2016,55,Jacksonville State Gamecocks,2015-12-18,-50.72440357967899,included_game_day
+2016,55,Jacksonville State Gamecocks,2015-12-21,-53.401415438785094,included_game_day
+2016,55,Jacksonville State Gamecocks,2015-12-29,-52.059247092044934,included_game_day
+2016,55,Jacksonville State Gamecocks,2015-12-31,-49.6851480167301,included_game_day
+2016,55,Jacksonville State Gamecocks,2016-01-02,-65.77471559197723,included_game_day
+2016,55,Jacksonville State Gamecocks,2016-01-07,-79.4676628018745,included_game_day
+2016,55,Jacksonville State Gamecocks,2016-01-09,-86.92159555465281,included_game_day
+2016,55,Jacksonville State Gamecocks,2016-01-13,-72.67367677925151,included_game_day
+2016,55,Jacksonville State Gamecocks,2016-01-16,-46.02731700905932,included_game_day
+2016,55,Jacksonville State Gamecocks,2016-01-21,-44.65538163827348,included_game_day
+2016,55,Jacksonville State Gamecocks,2016-01-24,-31.691160753668385,included_game_day
+2016,55,Jacksonville State Gamecocks,2016-01-28,-35.53153699894966,included_game_day
+2016,55,Jacksonville State Gamecocks,2016-01-30,-59.93415644620225,included_game_day
+2016,55,Jacksonville State Gamecocks,2016-02-06,-63.49558252101888,included_game_day
+2016,55,Jacksonville State Gamecocks,2016-02-10,-59.748975594059075,included_game_day
+2016,55,Jacksonville State Gamecocks,2016-02-13,-52.07503455933508,included_game_day
+2016,55,Jacksonville State Gamecocks,2016-02-20,-56.28904371051279,included_game_day
+2016,55,Jacksonville State Gamecocks,2016-02-25,-77.07290044452995,included_game_day
+2016,55,Jacksonville State Gamecocks,2016-02-27,-80.58375064169799,included_game_day
+2017,55,Jacksonville State Gamecocks,2016-11-11,14.0,included_game_day
+2017,55,Jacksonville State Gamecocks,2016-11-13,-7.300000000000001,included_game_day
+2017,55,Jacksonville State Gamecocks,2016-11-16,-9.57,included_game_day
+2017,55,Jacksonville State Gamecocks,2016-11-18,-21.413,included_game_day
+2017,55,Jacksonville State Gamecocks,2016-11-25,1.9588,included_game_day
+2017,55,Jacksonville State Gamecocks,2016-11-26,8.655587,included_game_day
+2017,55,Jacksonville State Gamecocks,2016-11-29,7.024282999999999,included_game_day
+2017,55,Jacksonville State Gamecocks,2016-12-04,7.450591606999998,included_game_day
+2017,55,Jacksonville State Gamecocks,2016-12-10,-1.006223449700002,included_game_day
+2017,55,Jacksonville State Gamecocks,2016-12-12,-20.646500334914002,included_game_day
+2017,55,Jacksonville State Gamecocks,2016-12-14,-10.380306983730602,included_game_day
+2017,55,Jacksonville State Gamecocks,2016-12-18,-7.559602167724542,included_game_day
+2017,55,Jacksonville State Gamecocks,2016-12-21,-15.276148102905388,included_game_day
+2017,55,Jacksonville State Gamecocks,2016-12-29,5.930270149771271,included_game_day
+2017,55,Jacksonville State Gamecocks,2016-12-31,11.487558464393402,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-01-05,-8.018325101063713,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-01-07,-17.076763430094587,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-01-14,-1.1746026548998696,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-01-19,-11.752589622766198,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-01-21,-1.2320020590041842,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-01-26,-19.396274589365625,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-01-28,-24.03795198225515,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-02-01,-14.220434161700727,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-02-04,-10.25091903836335,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-02-09,-17.63409763142733,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-02-11,-14.442701640357939,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-02-18,-21.54583633989991,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-02-23,-25.182755863911154,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-02-25,-12.268708412280718,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-03-02,10.271787293276352,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-03-03,20.073360531010422,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-03-04,26.381351207093424,included_game_day
+2017,55,Jacksonville State Gamecocks,2017-03-17,24.772468145336234,included_game_day
+2018,55,Jacksonville State Gamecocks,2017-11-13,34.4,included_game_day
+2018,55,Jacksonville State Gamecocks,2017-11-15,29.159999999999997,included_game_day
+2018,55,Jacksonville State Gamecocks,2017-11-20,34.152,included_game_day
+2018,55,Jacksonville State Gamecocks,2017-11-21,32.21085,included_game_day
+2018,55,Jacksonville State Gamecocks,2017-11-26,33.277599,included_game_day
+2018,55,Jacksonville State Gamecocks,2017-11-30,22.33455382,included_game_day
+2018,55,Jacksonville State Gamecocks,2017-12-03,42.922287948000005,included_game_day
+2018,55,Jacksonville State Gamecocks,2017-12-09,52.0422713122,included_game_day
+2018,55,Jacksonville State Gamecocks,2017-12-12,51.47071135483,included_game_day
+2018,55,Jacksonville State Gamecocks,2017-12-16,49.858105312589004,included_game_day
+2018,55,Jacksonville State Gamecocks,2017-12-18,34.8322580318721,included_game_day
+2018,55,Jacksonville State Gamecocks,2017-12-21,23.06880098883459,included_game_day
+2018,55,Jacksonville State Gamecocks,2017-12-28,29.310101000399623,included_game_day
+2018,55,Jacksonville State Gamecocks,2017-12-30,23.574232390402063,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-01-04,11.533175920451022,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-01-06,22.45834594189399,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-01-11,28.30725139040382,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-01-13,0.12320608597860172,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-01-18,-3.084351325709081,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-01-20,1.9658669417323438,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-01-25,-13.718079953268372,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-01-27,-1.6439937290596092,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-02-01,14.420577062145558,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-02-03,-2.6643497093502653,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-02-08,6.2801315290133335,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-02-10,-15.447951055813311,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-02-15,-11.070622174240075,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-02-17,-12.13677561916988,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-02-22,5.556596903611249,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-02-24,13.666171297653412,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-03-01,11.576555979326269,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-03-02,10.647710739068597,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-03-14,20.695636130745562,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-03-19,40.63365283189697,included_game_day
+2018,55,Jacksonville State Gamecocks,2018-03-21,21.10941953877517,included_game_day
+2019,55,Jacksonville State Gamecocks,2018-11-09,-15.6,included_game_day
+2019,55,Jacksonville State Gamecocks,2018-11-12,-24.89,included_game_day
+2019,55,Jacksonville State Gamecocks,2018-11-14,-27.671,included_game_day
+2019,55,Jacksonville State Gamecocks,2018-11-20,0.9590999999999994,included_game_day
+2019,55,Jacksonville State Gamecocks,2018-11-21,5.25219,included_game_day
+2019,55,Jacksonville State Gamecocks,2018-12-01,14.671728259999998,included_game_day
+2019,55,Jacksonville State Gamecocks,2018-12-08,29.621414120999994,included_game_day
+2019,55,Jacksonville State Gamecocks,2018-12-12,25.603399607249994,included_game_day
+2019,55,Jacksonville State Gamecocks,2018-12-15,29.639883650545997,included_game_day
+2019,55,Jacksonville State Gamecocks,2018-12-18,33.3599707802698,included_game_day
+2019,55,Jacksonville State Gamecocks,2018-12-22,34.71651075562842,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-01-03,49.48611670718811,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-01-05,43.64984573690168,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-01-10,36.31715797559512,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-01-12,59.15561960952178,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-01-17,65.2066758213661,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-01-19,59.29125368466149,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-01-24,34.957556258193264,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-01-26,34.65815669434549,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-01-31,57.13767500802555,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-02-02,48.329967838645175,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-02-07,36.840687613979114,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-02-09,43.461558487868736,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-02-14,41.178601580674524,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-02-16,45.37488754435738,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-02-21,33.68517881941349,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-02-23,23.00874494881401,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-02-28,18.985985393536676,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-03-02,34.66011904008256,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-03-07,30.822256028800663,included_game_day
+2019,55,Jacksonville State Gamecocks,2019-03-08,36.68361985058055,included_game_day
+2020,55,Jacksonville State Gamecocks,2019-11-05,-6.0,included_game_day
+2020,55,Jacksonville State Gamecocks,2019-11-17,-29.549,included_game_day
+2020,55,Jacksonville State Gamecocks,2019-11-23,-51.6607,included_game_day
+2020,55,Jacksonville State Gamecocks,2019-11-29,-52.5332578,included_game_day
+2020,55,Jacksonville State Gamecocks,2019-11-30,-50.615399440000004,included_game_day
+2020,55,Jacksonville State Gamecocks,2019-12-03,-46.239808010000004,included_game_day
+2020,55,Jacksonville State Gamecocks,2019-12-07,-52.024975109,included_game_day
+2020,55,Jacksonville State Gamecocks,2019-12-11,-60.251884179200005,included_game_day
+2020,55,Jacksonville State Gamecocks,2019-12-16,-30.792237312700415,included_game_day
+2020,55,Jacksonville State Gamecocks,2019-12-18,-30.308544087048055,included_game_day
+2020,55,Jacksonville State Gamecocks,2019-12-21,-40.437327990510695,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-01-02,-34.26518883740804,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-01-04,-28.17441766788295,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-01-09,-28.594817370660703,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-01-11,-33.70814562490398,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-01-16,-29.674703566392242,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-01-18,-25.416838873832063,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-01-23,-38.15347270524304,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-01-25,-23.836670401262978,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-01-30,-39.160470190401,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-02-01,-46.326608310110394,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-02-06,-54.83089517217595,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-02-08,-40.983364296590636,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-02-13,-45.772545708955846,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-02-15,-47.1195046392467,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-02-20,-49.705798312666204,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-02-22,-44.490350536730155,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-02-27,-52.52025679665907,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-02-29,-53.80231767979006,included_game_day
+2020,55,Jacksonville State Gamecocks,2020-03-04,-55.316493841346755,included_game_day
+2021,55,Jacksonville State Gamecocks,2020-11-25,-21.0,included_game_day
+2021,55,Jacksonville State Gamecocks,2020-11-27,-8.8,included_game_day
+2021,55,Jacksonville State Gamecocks,2020-11-29,-1.0200000000000005,included_game_day
+2021,55,Jacksonville State Gamecocks,2020-12-04,-0.2010000000000005,included_game_day
+2021,55,Jacksonville State Gamecocks,2020-12-13,4.124125,included_game_day
+2021,55,Jacksonville State Gamecocks,2020-12-16,19.584225,included_game_day
+2021,55,Jacksonville State Gamecocks,2020-12-30,18.811339384207,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-01-07,19.85907821495118,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-01-09,16.164493564713748,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-01-14,8.55322344977446,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-01-16,5.8284024631592235,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-01-21,11.92444656519596,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-01-23,17.26129091823091,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-01-28,-3.5353506948582023,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-02-02,-5.002861687412695,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-02-04,-2.297336846360304,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-02-06,8.28874179512154,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-02-11,7.2813839351558585,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-02-13,17.582675744616807,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-02-18,28.8415451414691,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-02-20,20.23160580667991,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-02-25,34.02640294782731,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-02-27,34.73003964247071,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-03-04,36.69982009246793,included_game_day
+2021,55,Jacksonville State Gamecocks,2021-03-05,39.33963372118578,included_game_day
+2022,55,Jacksonville State Gamecocks,2021-11-09,0.0,included_game_day
+2022,55,Jacksonville State Gamecocks,2021-11-13,20.9,included_game_day
+2022,55,Jacksonville State Gamecocks,2021-11-16,17.322,included_game_day
+2022,55,Jacksonville State Gamecocks,2021-11-22,4.9739,included_game_day
+2022,55,Jacksonville State Gamecocks,2021-11-24,13.23934,included_game_day
+2022,55,Jacksonville State Gamecocks,2021-11-27,21.405646,included_game_day
+2022,55,Jacksonville State Gamecocks,2021-12-04,9.166759957,included_game_day
+2022,55,Jacksonville State Gamecocks,2021-12-08,-0.8998074012000004,included_game_day
+2022,55,Jacksonville State Gamecocks,2021-12-15,4.85049821559492,included_game_day
+2022,55,Jacksonville State Gamecocks,2021-12-18,10.023958490616277,included_game_day
+2022,55,Jacksonville State Gamecocks,2021-12-21,24.42990106914835,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-01-08,30.241796536193583,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-01-11,21.301776515191182,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-01-15,30.857456859033395,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-01-18,24.078756617262844,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-01-22,24.437493724665025,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-01-24,20.513929970523325,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-01-27,27.022549877023152,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-01-29,44.49861768099938,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-02-03,17.678172424971766,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-02-05,17.247315147094064,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-02-09,5.822417519196296,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-02-12,-19.52120954556844,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-02-16,-10.129739570538787,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-02-20,8.30362350638776,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-02-23,10.255850981842332,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-02-26,12.317203520456198,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-03-03,16.3358334681704,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-03-05,11.314455487395701,included_game_day
+2022,55,Jacksonville State Gamecocks,2022-03-18,4.555491753399217,included_game_day
+2023,55,Jacksonville State Gamecocks,2022-11-14,-4.97,included_game_day
+2023,55,Jacksonville State Gamecocks,2022-11-18,-37.769999999999996,included_game_day
+2023,55,Jacksonville State Gamecocks,2022-11-22,-15.461506999999997,included_game_day
+2023,55,Jacksonville State Gamecocks,2022-11-25,-25.780356299999998,included_game_day
+2023,55,Jacksonville State Gamecocks,2022-11-26,-32.85171647,included_game_day
+2023,55,Jacksonville State Gamecocks,2022-11-27,-26.76463591,included_game_day
+2023,55,Jacksonville State Gamecocks,2022-12-03,-20.919210119,included_game_day
+2023,55,Jacksonville State Gamecocks,2022-12-08,-48.3998105416,included_game_day
+2023,55,Jacksonville State Gamecocks,2022-12-17,-42.6842825212852,included_game_day
+2023,55,Jacksonville State Gamecocks,2022-12-21,-40.22575284169868,included_game_day
+2023,55,Jacksonville State Gamecocks,2022-12-30,-46.8630413719098,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-01-02,-56.98589577052441,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-01-05,-75.12532156924675,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-01-07,-88.51196160859264,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-01-12,-79.25112214252869,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-01-14,-82.64721765719608,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-01-19,-77.15647800758096,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-01-21,-71.59932248730296,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-01-26,-59.25217436306866,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-01-28,-48.72545206661654,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-02-02,-41.3236733664007,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-02-04,-45.171068055130455,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-02-09,-42.09754296326205,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-02-11,-34.63872288976732,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-02-16,-30.45842323391929,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-02-18,-46.376788470499605,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-02-22,-18.48772275516638,included_game_day
+2023,55,Jacksonville State Gamecocks,2023-02-24,-6.581618223353988,included_game_day
+2024,55,Jacksonville State Gamecocks,2023-11-11,-5.5,included_game_day
+2024,55,Jacksonville State Gamecocks,2023-11-14,-15.68,included_game_day
+2024,55,Jacksonville State Gamecocks,2023-11-18,-13.997,included_game_day
+2024,55,Jacksonville State Gamecocks,2023-11-22,-11.7453,included_game_day
+2024,55,Jacksonville State Gamecocks,2023-11-24,5.025262999999999,included_game_day
+2024,55,Jacksonville State Gamecocks,2023-11-26,4.1787813699999985,included_game_day
+2024,55,Jacksonville State Gamecocks,2023-11-30,16.237631713,included_game_day
+2024,55,Jacksonville State Gamecocks,2023-12-03,7.957467291699999,included_game_day
+2024,55,Jacksonville State Gamecocks,2023-12-08,1.6952545475299985,included_game_day
+2024,55,Jacksonville State Gamecocks,2023-12-14,-3.675021165219002,included_game_day
+2024,55,Jacksonville State Gamecocks,2023-12-18,2.449157326692898,included_game_day
+2024,55,Jacksonville State Gamecocks,2023-12-21,34.88467707464045,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-01-06,30.711878992139532,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-01-10,43.48226925493402,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-01-13,31.53409028875335,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-01-20,11.354663543953638,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-01-24,-4.834208720186002,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-01-27,6.239732162104499,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-02-01,-2.5496743480078905,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-02-03,-5.894220368532622,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-02-08,-0.05342474729849034,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-02-10,-11.006311157828588,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-02-15,-4.845110821846012,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-02-21,-7.0288428268347065,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-02-24,-8.296028277059172,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-02-29,-20.64486496948171,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-03-02,-33.42141012724976,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-03-09,-31.643568494170736,included_game_day
+2024,55,Jacksonville State Gamecocks,2024-03-12,-43.925317222604484,included_game_day
+2025,55,Jacksonville State Gamecocks,2024-11-07,-4.9,included_game_day
+2025,55,Jacksonville State Gamecocks,2024-11-13,-5.11,included_game_day
+2025,55,Jacksonville State Gamecocks,2024-11-17,15.798000000000002,included_game_day
+2025,55,Jacksonville State Gamecocks,2024-11-21,22.3677,included_game_day
+2025,55,Jacksonville State Gamecocks,2024-11-22,22.57374,included_game_day
+2025,55,Jacksonville State Gamecocks,2024-11-23,14.873852000000001,included_game_day
+2025,55,Jacksonville State Gamecocks,2024-12-08,14.621587132,included_game_day
+2025,55,Jacksonville State Gamecocks,2024-12-14,13.230968543903721,included_game_day
+2025,55,Jacksonville State Gamecocks,2024-12-17,16.15010524381101,included_game_day
+2025,55,Jacksonville State Gamecocks,2024-12-21,26.130322848956308,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-01-04,11.368576982045159,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-01-09,18.71128215897869,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-01-11,4.986876853844809,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-01-16,4.896036006482278,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-01-18,5.709089455035923,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-01-23,15.45592716709844,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-01-25,24.18970414463138,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-01-30,17.700675215705918,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-02-01,31.123650084654646,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-02-06,41.12245033771585,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-02-08,38.12451880839133,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-02-13,29.445983959685087,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-02-15,29.883046037621654,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-02-20,14.489800896469538,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-02-22,17.76680021767331,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-02-27,21.676788815601583,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-03-01,22.085769550299954,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-03-08,13.450430998729749,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-03-12,14.86094708477269,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-03-14,18.257518778899136,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-03-15,12.95092706318087,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-03-18,36.374057184449725,included_game_day
+2025,55,Jacksonville State Gamecocks,2025-03-23,39.723631399659354,included_game_day
+2026,55,Jacksonville State Gamecocks,2025-11-14,4.1739999999999995,included_game_day
+2026,55,Jacksonville State Gamecocks,2025-11-19,-4.913402000000001,included_game_day
+2026,55,Jacksonville State Gamecocks,2025-11-24,-15.502682100000001,included_game_day
+2026,55,Jacksonville State Gamecocks,2025-11-26,-25.457873890000002,included_game_day
+2026,55,Jacksonville State Gamecocks,2025-12-01,-37.491983901,included_game_day
+2026,55,Jacksonville State Gamecocks,2025-12-13,-44.995983728519995,included_game_day
+2026,55,Jacksonville State Gamecocks,2025-12-17,-51.912095539465675,included_game_day
+2026,55,Jacksonville State Gamecocks,2025-12-20,-32.84271011893237,included_game_day
+2026,55,Jacksonville State Gamecocks,2025-12-29,-20.49363656116266,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-01-02,-19.316042703545406,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-01-04,-20.699411481162663,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-01-07,-13.540917814581785,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-01-10,-16.024953667842343,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-01-14,-30.973121397983327,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-01-17,-31.188784031026156,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-01-23,-12.340970934246705,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-01-28,-5.326311944203219,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-01-31,-8.792544136217876,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-02-05,-0.649268959124571,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-02-07,17.664026355158875,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-02-11,4.2542321973341295,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-02-14,-9.872258654083016,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-02-18,-14.73486996936677,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-02-21,-10.397076979447018,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-02-26,-7.015880494118083,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-02-28,-11.510577141847353,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-03-05,-11.19645931015011,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-03-07,-8.488888947870404,included_game_day
+2026,55,Jacksonville State Gamecocks,2026-03-10,-14.38415041269932,included_game_day
+2027,55,Jacksonville State Gamecocks,2026-11-05,-1.2,included_game_day
+2027,55,Jacksonville State Gamecocks,2026-11-11,-38.941,included_game_day
+2027,55,Jacksonville State Gamecocks,2026-11-14,-34.3279,included_game_day
+2027,55,Jacksonville State Gamecocks,2026-11-17,-35.18491,included_game_day
+2027,55,Jacksonville State Gamecocks,2026-11-20,-28.862219000000003,included_game_day

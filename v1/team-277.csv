@@ -1,0 +1,1245 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,277,West Virginia,1987-12-05,26.239,included_game_day
+1988,277,West Virginia,1987-12-08,23.368100000000002,included_game_day
+1988,277,West Virginia,1987-12-12,17.3881869,included_game_day
+1988,277,West Virginia,1987-12-19,12.9662961127,included_game_day
+1988,277,West Virginia,1987-12-21,16.22219184143,included_game_day
+1988,277,West Virginia,1987-12-27,9.909099086437,included_game_day
+1988,277,West Virginia,1987-12-30,15.16222394620625,included_game_day
+1988,277,West Virginia,1988-01-02,13.430926408563826,included_game_day
+1988,277,West Virginia,1988-01-06,19.154998210318947,included_game_day
+1988,277,West Virginia,1988-01-09,25.845252816667113,included_game_day
+1988,277,West Virginia,1988-01-12,50.56721126722576,included_game_day
+1988,277,West Virginia,1988-01-16,64.40330713200994,included_game_day
+1988,277,West Virginia,1988-01-18,72.18763537839942,included_game_day
+1988,277,West Virginia,1988-01-21,65.65864223088991,included_game_day
+1988,277,West Virginia,1988-01-24,67.04364126943449,included_game_day
+1988,277,West Virginia,1988-01-28,40.292345518528215,included_game_day
+1988,277,West Virginia,1988-01-30,50.848670540151566,included_game_day
+1988,277,West Virginia,1988-02-04,52.56796696196061,included_game_day
+1988,277,West Virginia,1988-02-07,50.814326867489456,included_game_day
+1988,277,West Virginia,1988-02-11,46.37443979664296,included_game_day
+1988,277,West Virginia,1988-02-13,32.59172705109603,included_game_day
+1988,277,West Virginia,1988-02-15,24.106975427414746,included_game_day
+1988,277,West Virginia,1988-02-18,14.181495411205331,included_game_day
+1988,277,West Virginia,1988-02-20,3.6241253597017717,included_game_day
+1988,277,West Virginia,1988-02-23,16.402915473719045,included_game_day
+1988,277,West Virginia,1988-02-28,26.98229990780333,included_game_day
+1988,277,West Virginia,1988-03-02,36.920013857918335,included_game_day
+1988,277,West Virginia,1988-03-06,43.87018501801034,included_game_day
+1988,277,West Virginia,1988-03-08,44.18077096376436,included_game_day
+1988,277,West Virginia,1988-03-17,38.04770436594544,included_game_day
+1989,277,West Virginia,1988-11-26,-11.0,included_game_day
+1989,277,West Virginia,1988-12-01,-9.048,included_game_day
+1989,277,West Virginia,1988-12-03,-13.135200000000001,included_game_day
+1989,277,West Virginia,1988-12-05,1.7436669999999985,included_game_day
+1989,277,West Virginia,1988-12-10,9.718163299999999,included_game_day
+1989,277,West Virginia,1988-12-17,59.18558736,included_game_day
+1989,277,West Virginia,1988-12-22,66.9567550689,included_game_day
+1989,277,West Virginia,1988-12-27,75.27589905701,included_game_day
+1989,277,West Virginia,1989-01-03,87.504824178001,included_game_day
+1989,277,West Virginia,1989-01-05,96.59420043521409,included_game_day
+1989,277,West Virginia,1989-01-07,112.09419998945098,included_game_day
+1989,277,West Virginia,1989-01-10,112.7343499263153,included_game_day
+1989,277,West Virginia,1989-01-14,118.73823326851596,included_game_day
+1989,277,West Virginia,1989-01-17,99.50402911532535,included_game_day
+1989,277,West Virginia,1989-01-21,93.19445441640433,included_game_day
+1989,277,West Virginia,1989-01-26,107.10322222686507,included_game_day
+1989,277,West Virginia,1989-01-28,114.50736962157191,included_game_day
+1989,277,West Virginia,1989-02-02,112.91918611789755,included_game_day
+1989,277,West Virginia,1989-02-05,106.99947465798678,included_game_day
+1989,277,West Virginia,1989-02-09,102.19563979445981,included_game_day
+1989,277,West Virginia,1989-02-11,123.82264438861317,included_game_day
+1989,277,West Virginia,1989-02-13,114.91337503720848,included_game_day
+1989,277,West Virginia,1989-02-16,125.519835256041,included_game_day
+1989,277,West Virginia,1989-02-19,135.16218456017742,included_game_day
+1989,277,West Virginia,1989-02-23,125.74486620821517,included_game_day
+1989,277,West Virginia,1989-02-26,106.91939352745203,included_game_day
+1989,277,West Virginia,1989-03-01,115.17989171671061,included_game_day
+1989,277,West Virginia,1989-03-05,114.22550060538569,included_game_day
+1989,277,West Virginia,1989-03-06,87.10268407074173,included_game_day
+1989,277,West Virginia,1989-03-16,101.62750031129035,included_game_day
+1989,277,West Virginia,1989-03-18,105.9393381835687,included_game_day
+1990,277,West Virginia,1989-11-25,-6.0,included_game_day
+1990,277,West Virginia,1989-12-02,-9.236,included_game_day
+1990,277,West Virginia,1989-12-05,7.2818000000000005,included_game_day
+1990,277,West Virginia,1989-12-09,8.711023,included_game_day
+1990,277,West Virginia,1989-12-16,6.40192089,included_game_day
+1990,277,West Virginia,1989-12-19,22.2703202339,included_game_day
+1990,277,West Virginia,1989-12-27,28.321020204764004,included_game_day
+1990,277,West Virginia,1989-12-28,41.0552843662812,included_game_day
+1990,277,West Virginia,1990-01-04,62.569029237295894,included_game_day
+1990,277,West Virginia,1990-01-06,92.25617393909252,included_game_day
+1990,277,West Virginia,1990-01-09,94.23680100588727,included_game_day
+1990,277,West Virginia,1990-01-11,88.43573525985202,included_game_day
+1990,277,West Virginia,1990-01-13,84.02072879684721,included_game_day
+1990,277,West Virginia,1990-01-17,77.00786017622505,included_game_day
+1990,277,West Virginia,1990-01-20,72.82847849330925,included_game_day
+1990,277,West Virginia,1990-01-22,75.92281146633533,included_game_day
+1990,277,West Virginia,1990-01-25,60.69425504384226,included_game_day
+1990,277,West Virginia,1990-01-27,63.52073163805063,included_game_day
+1990,277,West Virginia,1990-01-30,52.574981606235625,included_game_day
+1990,277,West Virginia,1990-02-04,47.989437778553366,included_game_day
+1990,277,West Virginia,1990-02-08,34.67748738422333,included_game_day
+1990,277,West Virginia,1990-02-11,48.00779691420739,included_game_day
+1990,277,West Virginia,1990-02-15,45.96521388213286,included_game_day
+1990,277,West Virginia,1990-02-17,22.041646404714815,included_game_day
+1990,277,West Virginia,1990-02-22,25.103738819036515,included_game_day
+1990,277,West Virginia,1990-02-25,32.55341275049388,included_game_day
+1990,277,West Virginia,1990-02-27,36.753197564098805,included_game_day
+1990,277,West Virginia,1990-03-04,14.740214827322077,included_game_day
+1991,277,West Virginia,1990-11-27,6.0,included_game_day
+1991,277,West Virginia,1990-12-01,10.5503,included_game_day
+1991,277,West Virginia,1990-12-04,-4.577030000000001,included_game_day
+1991,277,West Virginia,1990-12-08,-4.210241,included_game_day
+1991,277,West Virginia,1990-12-18,13.131974903,included_game_day
+1991,277,West Virginia,1990-12-21,7.3882424995,included_game_day
+1991,277,West Virginia,1991-01-03,57.398626027601004,included_game_day
+1991,277,West Virginia,1991-01-05,50.74322990917262,included_game_day
+1991,277,West Virginia,1991-01-07,76.54888011030175,included_game_day
+1991,277,West Virginia,1991-01-10,75.29575059150199,included_game_day
+1991,277,West Virginia,1991-01-12,81.25711314935083,included_game_day
+1991,277,West Virginia,1991-01-15,60.986528005176936,included_game_day
+1991,277,West Virginia,1991-01-19,53.20307967802112,included_game_day
+1991,277,West Virginia,1991-01-21,78.55006542112007,included_game_day
+1991,277,West Virginia,1991-01-24,75.13872830790298,included_game_day
+1991,277,West Virginia,1991-01-26,84.64697050866761,included_game_day
+1991,277,West Virginia,1991-01-29,72.91383539247398,included_game_day
+1991,277,West Virginia,1991-01-31,65.00019113565291,included_game_day
+1991,277,West Virginia,1991-02-02,79.22193230897895,included_game_day
+1991,277,West Virginia,1991-02-06,81.0434796592524,included_game_day
+1991,277,West Virginia,1991-02-10,72.50238032674015,included_game_day
+1991,277,West Virginia,1991-02-12,56.70385701310518,included_game_day
+1991,277,West Virginia,1991-02-14,75.95129268980577,included_game_day
+1991,277,West Virginia,1991-02-17,67.23816703925858,included_game_day
+1991,277,West Virginia,1991-02-20,55.599276939841275,included_game_day
+1991,277,West Virginia,1991-02-23,81.55944145731463,included_game_day
+1991,277,West Virginia,1991-02-26,66.46648329919088,included_game_day
+1991,277,West Virginia,1991-03-02,55.938732982093,included_game_day
+1991,277,West Virginia,1991-03-03,57.928637637656664,included_game_day
+1991,277,West Virginia,1991-03-13,71.79569974965735,included_game_day
+1991,277,West Virginia,1991-03-18,68.35673227306673,included_game_day
+1992,277,West Virginia,1991-11-20,-23.0,included_game_day
+1992,277,West Virginia,1991-12-02,12.491500000000002,included_game_day
+1992,277,West Virginia,1991-12-05,20.342350000000003,included_game_day
+1992,277,West Virginia,1991-12-07,19.865894,included_game_day
+1992,277,West Virginia,1991-12-11,51.163594200000006,included_game_day
+1992,277,West Virginia,1991-12-14,47.876425680000004,included_game_day
+1992,277,West Virginia,1991-12-21,47.98345550170001,included_game_day
+1992,277,West Virginia,1991-12-23,38.480848902530006,included_game_day
+1992,277,West Virginia,1991-12-27,60.459338865247005,included_game_day
+1992,277,West Virginia,1991-12-28,61.22678148853097,included_game_day
+1992,277,West Virginia,1992-01-04,53.58122261667754,included_game_day
+1992,277,West Virginia,1992-01-08,63.582098629427925,included_game_day
+1992,277,West Virginia,1992-01-11,60.31187577204114,included_game_day
+1992,277,West Virginia,1992-01-13,73.86276595756436,included_game_day
+1992,277,West Virginia,1992-01-16,75.92083866622285,included_game_day
+1992,277,West Virginia,1992-01-22,74.44080872784016,included_game_day
+1992,277,West Virginia,1992-01-25,91.73448458247884,included_game_day
+1992,277,West Virginia,1992-01-30,94.06461425421631,included_game_day
+1992,277,West Virginia,1992-02-02,95.24033491373966,included_game_day
+1992,277,West Virginia,1992-02-06,105.06332679426629,included_game_day
+1992,277,West Virginia,1992-02-08,111.8790955962123,included_game_day
+1992,277,West Virginia,1992-02-12,99.24577764941789,included_game_day
+1992,277,West Virginia,1992-02-15,93.03219807946274,included_game_day
+1992,277,West Virginia,1992-02-18,74.0037652169721,included_game_day
+1992,277,West Virginia,1992-02-23,62.854134657701636,included_game_day
+1992,277,West Virginia,1992-02-27,62.159934449400076,included_game_day
+1992,277,West Virginia,1992-02-29,68.53725092145123,included_game_day
+1992,277,West Virginia,1992-03-04,56.85115184675905,included_game_day
+1992,277,West Virginia,1992-03-08,58.50227258700531,included_game_day
+1992,277,West Virginia,1992-03-09,64.70848885102116,included_game_day
+1992,277,West Virginia,1992-03-12,70.61922407749476,included_game_day
+1992,277,West Virginia,1992-03-19,62.999376389747006,included_game_day
+1993,277,West Virginia,1992-12-01,17.0,included_game_day
+1993,277,West Virginia,1992-12-05,28.3,included_game_day
+1993,277,West Virginia,1992-12-07,21.26,included_game_day
+1993,277,West Virginia,1992-12-12,18.915000000000003,included_game_day
+1993,277,West Virginia,1992-12-19,29.207047300000003,included_game_day
+1993,277,West Virginia,1992-12-28,34.488213210000005,included_game_day
+1993,277,West Virginia,1992-12-30,38.219798044220006,included_game_day
+1993,277,West Virginia,1993-01-02,43.114839034878,included_game_day
+1993,277,West Virginia,1993-01-06,52.995771312619404,included_game_day
+1993,277,West Virginia,1993-01-08,72.0756339717427,included_game_day
+1993,277,West Virginia,1993-01-11,63.580400267858316,included_game_day
+1993,277,West Virginia,1993-01-16,62.61749609449445,included_game_day
+1993,277,West Virginia,1993-01-20,65.65863771488294,included_game_day
+1993,277,West Virginia,1993-01-23,60.48870287059869,included_game_day
+1993,277,West Virginia,1993-01-26,58.78556359873031,included_game_day
+1993,277,West Virginia,1993-01-29,90.02738759194007,included_game_day
+1993,277,West Virginia,1993-02-04,89.57095052327415,included_game_day
+1993,277,West Virginia,1993-02-07,81.14425920866395,included_game_day
+1993,277,West Virginia,1993-02-11,83.97351407322893,included_game_day
+1993,277,West Virginia,1993-02-13,62.45979464262197,included_game_day
+1993,277,West Virginia,1993-02-17,63.31561133931264,included_game_day
+1993,277,West Virginia,1993-02-21,66.6537685635785,included_game_day
+1993,277,West Virginia,1993-02-24,55.699249216867884,included_game_day
+1993,277,West Virginia,1993-02-27,84.7441442149636,included_game_day
+1993,277,West Virginia,1993-03-01,93.55550192613853,included_game_day
+1993,277,West Virginia,1993-03-04,99.35421240530641,included_game_day
+1993,277,West Virginia,1993-03-07,73.78476566177048,included_game_day
+1993,277,West Virginia,1993-03-17,83.20946183775035,included_game_day
+1993,277,West Virginia,1993-03-22,87.72197584875849,included_game_day
+1994,277,West Virginia,1993-11-27,-5.0,included_game_day
+1994,277,West Virginia,1993-12-01,23.7,included_game_day
+1994,277,West Virginia,1993-12-09,37.730000000000004,included_game_day
+1994,277,West Virginia,1993-12-11,45.97473000000001,included_game_day
+1994,277,West Virginia,1993-12-18,48.40200961000001,included_game_day
+1994,277,West Virginia,1993-12-28,62.09620873538701,included_game_day
+1994,277,West Virginia,1993-12-30,67.79893171112731,included_game_day
+1994,277,West Virginia,1994-01-03,66.47272560938677,included_game_day
+1994,277,West Virginia,1994-01-06,70.32886525711969,included_game_day
+1994,277,West Virginia,1994-01-09,86.7701872976872,included_game_day
+1994,277,West Virginia,1994-01-13,73.52418957505581,included_game_day
+1994,277,West Virginia,1994-01-16,78.56502823520466,included_game_day
+1994,277,West Virginia,1994-01-19,75.21054272027877,included_game_day
+1994,277,West Virginia,1994-01-22,87.30097658296775,included_game_day
+1994,277,West Virginia,1994-01-26,99.84228306536043,included_game_day
+1994,277,West Virginia,1994-01-29,86.18402691287261,included_game_day
+1994,277,West Virginia,1994-02-01,72.29129741717763,included_game_day
+1994,277,West Virginia,1994-02-05,54.01626574784591,included_game_day
+1994,277,West Virginia,1994-02-08,67.09838545780966,included_game_day
+1994,277,West Virginia,1994-02-12,45.15417581826335,included_game_day
+1994,277,West Virginia,1994-02-14,37.50047511493715,included_game_day
+1994,277,West Virginia,1994-02-18,37.048554190909066,included_game_day
+1994,277,West Virginia,1994-02-20,41.260987858440984,included_game_day
+1994,277,West Virginia,1994-02-24,37.13640345852299,included_game_day
+1994,277,West Virginia,1994-02-26,41.180885822550486,included_game_day
+1994,277,West Virginia,1994-03-02,27.427621872058268,included_game_day
+1994,277,West Virginia,1994-03-06,26.48871960412233,included_game_day
+1994,277,West Virginia,1994-03-17,39.63154994468231,included_game_day
+1994,277,West Virginia,1994-03-21,22.900698952274972,included_game_day
+1995,277,West Virginia,1994-11-25,38.0,included_game_day
+1995,277,West Virginia,1994-12-05,27.898600000000002,included_game_day
+1995,277,West Virginia,1994-12-10,28.166202000000002,included_game_day
+1995,277,West Virginia,1994-12-17,20.248248023000002,included_game_day
+1995,277,West Virginia,1994-12-20,11.447140437700002,included_game_day
+1995,277,West Virginia,1994-12-30,13.593023266827002,included_game_day
+1995,277,West Virginia,1995-01-03,-6.6511203691557,included_game_day
+1995,277,West Virginia,1995-01-08,-16.60419946481737,included_game_day
+1995,277,West Virginia,1995-01-10,-11.726906448954377,included_game_day
+1995,277,West Virginia,1995-01-14,-2.584248647715375,included_game_day
+1995,277,West Virginia,1995-01-16,-4.986862528628393,included_game_day
+1995,277,West Virginia,1995-01-19,3.9346485251067627,included_game_day
+1995,277,West Virginia,1995-01-21,-2.7023075672612213,included_game_day
+1995,277,West Virginia,1995-01-24,-1.245047743204588,included_game_day
+1995,277,West Virginia,1995-01-27,10.733293420760798,included_game_day
+1995,277,West Virginia,1995-01-30,12.81747804097136,included_game_day
+1995,277,West Virginia,1995-02-02,24.46728076869096,included_game_day
+1995,277,West Virginia,1995-02-04,24.058529859273325,included_game_day
+1995,277,West Virginia,1995-02-11,27.143448311215533,included_game_day
+1995,277,West Virginia,1995-02-15,9.460790002427306,included_game_day
+1995,277,West Virginia,1995-02-19,11.475413098611414,included_game_day
+1995,277,West Virginia,1995-02-21,-1.98922044771302,included_game_day
+1995,277,West Virginia,1995-02-25,-1.8696400757772436,included_game_day
+1995,277,West Virginia,1995-02-28,11.324144629665597,included_game_day
+1995,277,West Virginia,1995-03-05,7.769288585688404,included_game_day
+1996,277,West Virginia,1995-11-25,38.0,included_game_day
+1996,277,West Virginia,1995-11-28,30.38,included_game_day
+1996,277,West Virginia,1995-12-02,28.156299999999998,included_game_day
+1996,277,West Virginia,1995-12-09,39.17167,included_game_day
+1996,277,West Virginia,1995-12-16,58.09547453,included_game_day
+1996,277,West Virginia,1995-12-18,54.6725556241,included_game_day
+1996,277,West Virginia,1995-12-22,66.86768062811299,included_game_day
+1996,277,West Virginia,1995-12-29,81.1879076821527,included_game_day
+1996,277,West Virginia,1996-01-03,76.57339200228353,included_game_day
+1996,277,West Virginia,1996-01-06,72.91379554841018,included_game_day
+1996,277,West Virginia,1996-01-10,52.9696519345338,included_game_day
+1996,277,West Virginia,1996-01-13,53.206556815879814,included_game_day
+1996,277,West Virginia,1996-01-16,64.15169308479103,included_game_day
+1996,277,West Virginia,1996-01-18,55.46633646023945,included_game_day
+1996,277,West Virginia,1996-01-20,41.327402823251774,included_game_day
+1996,277,West Virginia,1996-01-23,47.39126449018299,included_game_day
+1996,277,West Virginia,1996-01-27,57.954173841533674,included_game_day
+1996,277,West Virginia,1996-01-31,44.11595219788826,included_game_day
+1996,277,West Virginia,1996-02-03,25.1421955890672,included_game_day
+1996,277,West Virginia,1996-02-06,25.25567493395525,included_game_day
+1996,277,West Virginia,1996-02-11,44.82666460747361,included_game_day
+1996,277,West Virginia,1996-02-15,47.55594610357031,included_game_day
+1996,277,West Virginia,1996-02-17,44.2898097042863,included_game_day
+1996,277,West Virginia,1996-02-21,73.78599014646976,included_game_day
+1996,277,West Virginia,1996-02-24,80.76531654914645,included_game_day
+1996,277,West Virginia,1996-02-29,57.95047435622719,included_game_day
+1996,277,West Virginia,1996-03-06,49.23508502890091,included_game_day
+1997,277,West Virginia,1996-11-26,-7.7,included_game_day
+1997,277,West Virginia,1996-11-30,5.069999999999999,included_game_day
+1997,277,West Virginia,1996-12-04,33.5715,included_game_day
+1997,277,West Virginia,1996-12-14,71.386666,included_game_day
+1997,277,West Virginia,1996-12-17,80.26093483780001,included_game_day
+1997,277,West Virginia,1996-12-19,82.26140190102001,included_game_day
+1997,277,West Virginia,1996-12-22,84.52224610891801,included_game_day
+1997,277,West Virginia,1996-12-30,102.1262033315148,included_game_day
+1997,277,West Virginia,1997-01-02,92.7440615349024,included_game_day
+1997,277,West Virginia,1997-01-04,78.67081019473771,included_game_day
+1997,277,West Virginia,1997-01-08,82.95552098377911,included_game_day
+1997,277,West Virginia,1997-01-12,93.47684708097007,included_game_day
+1997,277,West Virginia,1997-01-15,80.00020495967556,included_game_day
+1997,277,West Virginia,1997-01-19,68.42494028898912,included_game_day
+1997,277,West Virginia,1997-01-22,77.68448430820429,included_game_day
+1997,277,West Virginia,1997-01-25,71.48962160717679,included_game_day
+1997,277,West Virginia,1997-01-29,80.6585261916226,included_game_day
+1997,277,West Virginia,1997-02-01,91.2919267067682,included_game_day
+1997,277,West Virginia,1997-02-04,86.23204014606331,included_game_day
+1997,277,West Virginia,1997-02-08,98.1005381953432,included_game_day
+1997,277,West Virginia,1997-02-11,80.14581573884246,included_game_day
+1997,277,West Virginia,1997-02-15,65.80661588204401,included_game_day
+1997,277,West Virginia,1997-02-18,66.30493147477904,included_game_day
+1997,277,West Virginia,1997-02-22,69.48509212331031,included_game_day
+1997,277,West Virginia,1997-02-26,76.06203078578302,included_game_day
+1997,277,West Virginia,1997-03-01,104.1095284495957,included_game_day
+1997,277,West Virginia,1997-03-05,113.6374174802463,included_game_day
+1997,277,West Virginia,1997-03-06,102.95183368921784,included_game_day
+1997,277,West Virginia,1997-03-12,101.50477354466813,included_game_day
+1997,277,West Virginia,1997-03-17,110.47215900440652,included_game_day
+1997,277,West Virginia,1997-03-19,102.78656314952794,included_game_day
+1998,277,West Virginia,1997-11-15,18.0,included_game_day
+1998,277,West Virginia,1997-11-29,30.973,included_game_day
+1998,277,West Virginia,1997-11-30,50.8054935,included_game_day
+1998,277,West Virginia,1997-12-03,42.47954215,included_game_day
+1998,277,West Virginia,1997-12-06,53.470445677,included_game_day
+1998,277,West Virginia,1997-12-13,67.6707606639,included_game_day
+1998,277,West Virginia,1997-12-16,105.17873391051,included_game_day
+1998,277,West Virginia,1997-12-20,107.882956204989,included_game_day
+1998,277,West Virginia,1997-12-22,107.4845191855157,included_game_day
+1998,277,West Virginia,1997-12-27,102.14501600540363,included_game_day
+1998,277,West Virginia,1997-12-31,92.63217288987327,included_game_day
+1998,277,West Virginia,1998-01-03,103.03768158668512,included_game_day
+1998,277,West Virginia,1998-01-05,107.86576147051342,included_game_day
+1998,277,West Virginia,1998-01-10,117.19578010681195,included_game_day
+1998,277,West Virginia,1998-01-15,103.59956934826195,included_game_day
+1998,277,West Virginia,1998-01-18,110.90600701144685,included_game_day
+1998,277,West Virginia,1998-01-20,115.31134460479493,included_game_day
+1998,277,West Virginia,1998-01-24,123.08596824302802,included_game_day
+1998,277,West Virginia,1998-01-28,115.53886124890452,included_game_day
+1998,277,West Virginia,1998-02-03,119.65854925879776,included_game_day
+1998,277,West Virginia,1998-02-07,112.08553534942986,included_game_day
+1998,277,West Virginia,1998-02-11,132.17762556736903,included_game_day
+1998,277,West Virginia,1998-02-14,113.05780778879232,included_game_day
+1998,277,West Virginia,1998-02-16,114.04869733374564,included_game_day
+1998,277,West Virginia,1998-02-22,115.17698429893912,included_game_day
+1998,277,West Virginia,1998-02-25,104.40642347691544,included_game_day
+1998,277,West Virginia,1998-02-28,97.97595442820673,included_game_day
+1998,277,West Virginia,1998-03-04,85.96651012131846,included_game_day
+1998,277,West Virginia,1998-03-12,115.79365008084882,included_game_day
+1998,277,West Virginia,1998-03-14,121.16434375189738,included_game_day
+1998,277,West Virginia,1998-03-19,119.71335415492078,included_game_day
+1999,277,West Virginia,1998-11-18,-6.0,included_game_day
+1999,277,West Virginia,1998-11-27,-7.36,included_game_day
+1999,277,West Virginia,1998-11-28,-6.926550000000001,included_game_day
+1999,277,West Virginia,1998-11-29,-1.7498064000000007,included_game_day
+1999,277,West Virginia,1998-12-02,-12.72187976,included_game_day
+1999,277,West Virginia,1998-12-09,7.819945066999999,included_game_day
+1999,277,West Virginia,1998-12-12,7.276914223099999,included_game_day
+1999,277,West Virginia,1998-12-17,-4.636339092063002,included_game_day
+1999,277,West Virginia,1998-12-19,-4.740303895856702,included_game_day
+1999,277,West Virginia,1998-12-22,8.991040075684968,included_game_day
+1999,277,West Virginia,1998-12-30,14.917916869561555,included_game_day
+1999,277,West Virginia,1999-01-02,6.595532762042945,included_game_day
+1999,277,West Virginia,1999-01-05,13.595691832416646,included_game_day
+1999,277,West Virginia,1999-01-09,-9.082949720902503,included_game_day
+1999,277,West Virginia,1999-01-13,-2.8914780435903698,included_game_day
+1999,277,West Virginia,1999-01-16,-5.507871571386769,included_game_day
+1999,277,West Virginia,1999-01-19,4.652394757636101,included_game_day
+1999,277,West Virginia,1999-01-23,-1.8582601516566335,included_game_day
+1999,277,West Virginia,1999-01-27,3.0521259446867877,included_game_day
+1999,277,West Virginia,1999-01-31,-12.87178334528865,included_game_day
+1999,277,West Virginia,1999-02-03,-21.75421217875146,included_game_day
+1999,277,West Virginia,1999-02-06,-25.13527467354802,included_game_day
+1999,277,West Virginia,1999-02-09,-19.997670462940448,included_game_day
+1999,277,West Virginia,1999-02-14,-14.244102097529357,included_game_day
+1999,277,West Virginia,1999-02-17,-13.832742535526817,included_game_day
+1999,277,West Virginia,1999-02-21,-9.519427472501473,included_game_day
+1999,277,West Virginia,1999-02-25,-11.411262281655326,included_game_day
+1999,277,West Virginia,1999-03-03,-12.726984575919152,included_game_day
+2000,277,West Virginia,1999-11-23,15.08,included_game_day
+2000,277,West Virginia,1999-11-27,13.954,included_game_day
+2000,277,West Virginia,1999-11-30,-4.093399999999999,included_game_day
+2000,277,West Virginia,1999-12-04,-2.8940599999999996,included_game_day
+2000,277,West Virginia,1999-12-08,-28.579272527,included_game_day
+2000,277,West Virginia,1999-12-11,-39.6662064924,included_game_day
+2000,277,West Virginia,1999-12-18,11.235508939939997,included_game_day
+2000,277,West Virginia,1999-12-20,21.386912960935998,included_game_day
+2000,277,West Virginia,1999-12-28,26.412362246068717,included_game_day
+2000,277,West Virginia,1999-12-31,49.20422913898909,included_game_day
+2000,277,West Virginia,2000-01-05,44.07628066544649,included_game_day
+2000,277,West Virginia,2000-01-08,36.28376081928938,included_game_day
+2000,277,West Virginia,2000-01-11,30.555446044328118,included_game_day
+2000,277,West Virginia,2000-01-15,35.99050074700993,included_game_day
+2000,277,West Virginia,2000-01-18,43.28551349270779,included_game_day
+2000,277,West Virginia,2000-01-23,54.60710938967928,included_game_day
+2000,277,West Virginia,2000-01-26,54.720140940775096,included_game_day
+2000,277,West Virginia,2000-01-30,55.0566830346563,included_game_day
+2000,277,West Virginia,2000-02-02,42.22891861833075,included_game_day
+2000,277,West Virginia,2000-02-05,17.52958946790743,included_game_day
+2000,277,West Virginia,2000-02-10,17.83863893545641,included_game_day
+2000,277,West Virginia,2000-02-15,13.63651884676373,included_game_day
+2000,277,West Virginia,2000-02-19,5.599318072922392,included_game_day
+2000,277,West Virginia,2000-02-22,-7.1906821794686735,included_game_day
+2000,277,West Virginia,2000-02-26,5.875536829564364,included_game_day
+2000,277,West Virginia,2000-03-01,-7.051117574712848,included_game_day
+2000,277,West Virginia,2000-03-04,1.5564558386401526,included_game_day
+2000,277,West Virginia,2000-03-08,0.37058646180831234,included_game_day
+2001,277,West Virginia,2000-11-21,13.58,included_game_day
+2001,277,West Virginia,2000-11-25,21.522,included_game_day
+2001,277,West Virginia,2000-11-28,32.690867,included_game_day
+2001,277,West Virginia,2000-12-02,34.215393299999995,included_game_day
+2001,277,West Virginia,2000-12-07,36.999794359999996,included_game_day
+2001,277,West Virginia,2000-12-16,44.259458867031995,included_game_day
+2001,277,West Virginia,2000-12-19,28.129224378980496,included_game_day
+2001,277,West Virginia,2000-12-28,32.77852345014175,included_game_day
+2001,277,West Virginia,2000-12-30,40.371112881622906,included_game_day
+2001,277,West Virginia,2001-01-03,21.077586425949146,included_game_day
+2001,277,West Virginia,2001-01-09,26.016714680917204,included_game_day
+2001,277,West Virginia,2001-01-13,30.212844417526455,included_game_day
+2001,277,West Virginia,2001-01-17,29.17970330438977,included_game_day
+2001,277,West Virginia,2001-01-21,21.41999308809677,included_game_day
+2001,277,West Virginia,2001-01-24,26.82751675213054,included_game_day
+2001,277,West Virginia,2001-01-27,32.904205480676865,included_game_day
+2001,277,West Virginia,2001-01-31,19.869878757315682,included_game_day
+2001,277,West Virginia,2001-02-03,14.847519388848978,included_game_day
+2001,277,West Virginia,2001-02-08,15.407611264365313,included_game_day
+2001,277,West Virginia,2001-02-11,20.40043957895633,included_game_day
+2001,277,West Virginia,2001-02-14,18.682256881102806,included_game_day
+2001,277,West Virginia,2001-02-17,31.55700568783365,included_game_day
+2001,277,West Virginia,2001-02-20,36.99339201454861,included_game_day
+2001,277,West Virginia,2001-02-25,50.830083103522014,included_game_day
+2001,277,West Virginia,2001-02-28,49.895690424521774,included_game_day
+2001,277,West Virginia,2001-03-03,23.280495200849295,included_game_day
+2001,277,West Virginia,2001-03-07,15.896130636001157,included_game_day
+2001,277,West Virginia,2001-03-16,4.35925721979271,included_game_day
+2002,277,West Virginia Mountaineers,2001-11-16,23.0,included_game_day
+2002,277,West Virginia Mountaineers,2001-11-23,26.9,included_game_day
+2002,277,West Virginia Mountaineers,2001-11-24,34.272,included_game_day
+2002,277,West Virginia Mountaineers,2001-12-05,16.6944961,included_game_day
+2002,277,West Virginia Mountaineers,2001-12-08,23.01259049,included_game_day
+2002,277,West Virginia Mountaineers,2001-12-15,27.724434541,included_game_day
+2002,277,West Virginia Mountaineers,2001-12-19,12.390271883,included_game_day
+2002,277,West Virginia Mountaineers,2001-12-22,20.65624335085581,included_game_day
+2002,277,West Virginia Mountaineers,2001-12-30,-13.982956502367479,included_game_day
+2002,277,West Virginia Mountaineers,2002-01-05,-22.57400871059323,included_game_day
+2002,277,West Virginia Mountaineers,2002-01-09,-13.566789754403759,included_game_day
+2002,277,West Virginia Mountaineers,2002-01-12,-10.015756230876127,included_game_day
+2002,277,West Virginia Mountaineers,2002-01-16,-15.656008324922134,included_game_day
+2002,277,West Virginia Mountaineers,2002-01-18,-23.559140736131894,included_game_day
+2002,277,West Virginia Mountaineers,2002-01-27,-39.40055901828374,included_game_day
+2002,277,West Virginia Mountaineers,2002-01-30,-23.71238189034355,included_game_day
+2002,277,West Virginia Mountaineers,2002-02-02,-12.382397654098174,included_game_day
+2002,277,West Virginia Mountaineers,2002-02-04,-12.621290580963942,included_game_day
+2002,277,West Virginia Mountaineers,2002-02-09,-16.47900386821154,included_game_day
+2002,277,West Virginia Mountaineers,2002-02-16,-15.64703443905452,included_game_day
+2002,277,West Virginia Mountaineers,2002-02-20,-13.190429671924088,included_game_day
+2002,277,West Virginia Mountaineers,2002-02-23,-20.38592765297483,included_game_day
+2002,277,West Virginia Mountaineers,2002-02-27,-20.930047715636036,included_game_day
+2002,277,West Virginia Mountaineers,2002-03-02,-29.705930952848085,included_game_day
+2003,277,West Virginia Mountaineers,2002-11-22,10.0,included_game_day
+2003,277,West Virginia Mountaineers,2002-11-25,6.8,included_game_day
+2003,277,West Virginia Mountaineers,2002-11-30,5.2035,included_game_day
+2003,277,West Virginia Mountaineers,2002-12-03,12.32307,included_game_day
+2003,277,West Virginia Mountaineers,2002-12-07,15.1182315,included_game_day
+2003,277,West Virginia Mountaineers,2002-12-14,19.635836349999998,included_game_day
+2003,277,West Virginia Mountaineers,2002-12-18,40.298624915,included_game_day
+2003,277,West Virginia Mountaineers,2002-12-21,39.099395122892,included_game_day
+2003,277,West Virginia Mountaineers,2002-12-28,38.1150558040157,included_game_day
+2003,277,West Virginia Mountaineers,2002-12-29,44.064262658896126,included_game_day
+2003,277,West Virginia Mountaineers,2003-01-04,12.469725520157283,included_game_day
+2003,277,West Virginia Mountaineers,2003-01-07,19.01921537003754,included_game_day
+2003,277,West Virginia Mountaineers,2003-01-12,30.96258741299733,included_game_day
+2003,277,West Virginia Mountaineers,2003-01-14,21.32512066404726,included_game_day
+2003,277,West Virginia Mountaineers,2003-01-19,21.646124195530092,included_game_day
+2003,277,West Virginia Mountaineers,2003-01-22,22.853512666648278,included_game_day
+2003,277,West Virginia Mountaineers,2003-01-26,29.12354837727475,included_game_day
+2003,277,West Virginia Mountaineers,2003-01-29,21.217744040960117,included_game_day
+2003,277,West Virginia Mountaineers,2003-02-01,38.551830794761685,included_game_day
+2003,277,West Virginia Mountaineers,2003-02-08,29.34649081380482,included_game_day
+2003,277,West Virginia Mountaineers,2003-02-12,8.041925054691124,included_game_day
+2003,277,West Virginia Mountaineers,2003-02-15,19.36268026640405,included_game_day
+2003,277,West Virginia Mountaineers,2003-02-18,24.28521948179839,included_game_day
+2003,277,West Virginia Mountaineers,2003-02-22,24.131009211218853,included_game_day
+2003,277,West Virginia Mountaineers,2003-02-26,-2.9062299322564513,included_game_day
+2003,277,West Virginia Mountaineers,2003-03-01,6.676473794477065,included_game_day
+2003,277,West Virginia Mountaineers,2003-03-03,7.829304331830087,included_game_day
+2003,277,West Virginia Mountaineers,2003-03-08,8.992315540814554,included_game_day
+2003,277,West Virginia Mountaineers,2003-03-12,-5.272691661060714,included_game_day
+2004,277,West Virginia Mountaineers,2003-11-24,20.3,included_game_day
+2004,277,West Virginia Mountaineers,2003-11-29,8.421000000000001,included_game_day
+2004,277,West Virginia Mountaineers,2003-12-02,18.75881,included_game_day
+2004,277,West Virginia Mountaineers,2003-12-06,16.7814154,included_game_day
+2004,277,West Virginia Mountaineers,2003-12-07,22.44253801,included_game_day
+2004,277,West Virginia Mountaineers,2003-12-13,20.576946309,included_game_day
+2004,277,West Virginia Mountaineers,2003-12-17,19.4940359425,included_game_day
+2004,277,West Virginia Mountaineers,2003-12-20,13.27484871526,included_game_day
+2004,277,West Virginia Mountaineers,2003-12-28,16.5473475624398,included_game_day
+2004,277,West Virginia Mountaineers,2003-12-30,21.75478531909582,included_game_day
+2004,277,West Virginia Mountaineers,2004-01-07,13.904547673598657,included_game_day
+2004,277,West Virginia Mountaineers,2004-01-10,21.16265630388712,included_game_day
+2004,277,West Virginia Mountaineers,2004-01-14,17.394357405558612,included_game_day
+2004,277,West Virginia Mountaineers,2004-01-17,4.953308439026818,included_game_day
+2004,277,West Virginia Mountaineers,2004-01-21,4.702533740626236,included_game_day
+2004,277,West Virginia Mountaineers,2004-01-24,8.761029838131531,included_game_day
+2004,277,West Virginia Mountaineers,2004-01-28,18.781168302338834,included_game_day
+2004,277,West Virginia Mountaineers,2004-01-31,9.621842440920162,included_game_day
+2004,277,West Virginia Mountaineers,2004-02-04,21.342951186397023,included_game_day
+2004,277,West Virginia Mountaineers,2004-02-07,11.20814659994764,included_game_day
+2004,277,West Virginia Mountaineers,2004-02-11,37.656237138471326,included_game_day
+2004,277,West Virginia Mountaineers,2004-02-14,42.78697606479009,included_game_day
+2004,277,West Virginia Mountaineers,2004-02-21,41.57849633996932,included_game_day
+2004,277,West Virginia Mountaineers,2004-02-25,23.105154266758273,included_game_day
+2004,277,West Virginia Mountaineers,2004-02-28,19.419433816119703,included_game_day
+2004,277,West Virginia Mountaineers,2004-03-02,8.892297612247553,included_game_day
+2004,277,West Virginia Mountaineers,2004-03-06,18.1677843380389,included_game_day
+2004,277,West Virginia Mountaineers,2004-03-10,28.072078902209917,included_game_day
+2004,277,West Virginia Mountaineers,2004-03-17,44.88197275656333,included_game_day
+2004,277,West Virginia Mountaineers,2004-03-19,49.95859138308973,included_game_day
+2004,277,West Virginia Mountaineers,2004-03-22,49.69429331011809,included_game_day
+2005,277,West Virginia Mountaineers,2004-11-20,9.0,included_game_day
+2005,277,West Virginia Mountaineers,2004-11-24,12.607,included_game_day
+2005,277,West Virginia Mountaineers,2004-11-27,33.2549,included_game_day
+2005,277,West Virginia Mountaineers,2004-12-04,61.050529999999995,included_game_day
+2005,277,West Virginia Mountaineers,2004-12-07,61.884197539999995,included_game_day
+2005,277,West Virginia Mountaineers,2004-12-11,71.41795855037,included_game_day
+2005,277,West Virginia Mountaineers,2004-12-18,88.16300879396508,included_game_day
+2005,277,West Virginia Mountaineers,2004-12-21,107.43863776098956,included_game_day
+2005,277,West Virginia Mountaineers,2004-12-29,107.54943952493865,included_game_day
+2005,277,West Virginia Mountaineers,2005-01-02,121.9311814613252,included_game_day
+2005,277,West Virginia Mountaineers,2005-01-05,81.87187773420024,included_game_day
+2005,277,West Virginia Mountaineers,2005-01-08,78.15410178871616,included_game_day
+2005,277,West Virginia Mountaineers,2005-01-11,57.85820770696271,included_game_day
+2005,277,West Virginia Mountaineers,2005-01-16,38.805960244724986,included_game_day
+2005,277,West Virginia Mountaineers,2005-01-19,24.104554145696863,included_game_day
+2005,277,West Virginia Mountaineers,2005-01-22,30.31204664085597,included_game_day
+2005,277,West Virginia Mountaineers,2005-01-25,24.89978317140065,included_game_day
+2005,277,West Virginia Mountaineers,2005-01-29,34.580734557255994,included_game_day
+2005,277,West Virginia Mountaineers,2005-02-01,34.401376240090286,included_game_day
+2005,277,West Virginia Mountaineers,2005-02-05,44.287152333988345,included_game_day
+2005,277,West Virginia Mountaineers,2005-02-09,43.73413179875594,included_game_day
+2005,277,West Virginia Mountaineers,2005-02-12,42.84614404515244,included_game_day
+2005,277,West Virginia Mountaineers,2005-02-16,44.42961501670712,included_game_day
+2005,277,West Virginia Mountaineers,2005-02-20,49.81590328581338,included_game_day
+2005,277,West Virginia Mountaineers,2005-02-26,58.541379071368155,included_game_day
+2005,277,West Virginia Mountaineers,2005-03-05,54.56274280961328,included_game_day
+2005,277,West Virginia Mountaineers,2005-03-09,74.51696273523598,included_game_day
+2005,277,West Virginia Mountaineers,2005-03-10,85.50998892017111,included_game_day
+2005,277,West Virginia Mountaineers,2005-03-11,97.64471659268696,included_game_day
+2005,277,West Virginia Mountaineers,2005-03-12,95.63520664573004,included_game_day
+2005,277,West Virginia Mountaineers,2005-03-17,96.67195966592487,included_game_day
+2005,277,West Virginia Mountaineers,2005-03-19,110.83490782086432,included_game_day
+2005,277,West Virginia Mountaineers,2005-03-24,118.50205952351297,included_game_day
+2005,277,West Virginia Mountaineers,2005-03-26,120.86679985331922,included_game_day
+2006,277,West Virginia Mountaineers,2005-11-12,16.0,included_game_day
+2006,277,West Virginia Mountaineers,2005-11-13,32.2,included_game_day
+2006,277,West Virginia Mountaineers,2005-11-21,37.78,included_game_day
+2006,277,West Virginia Mountaineers,2005-11-22,19.505000000000003,included_game_day
+2006,277,West Virginia Mountaineers,2005-11-26,17.651500000000002,included_game_day
+2006,277,West Virginia Mountaineers,2005-11-30,26.324350000000003,included_game_day
+2006,277,West Virginia Mountaineers,2005-12-07,47.5907276,included_game_day
+2006,277,West Virginia Mountaineers,2005-12-10,56.26370920548,included_game_day
+2006,277,West Virginia Mountaineers,2005-12-22,83.004601292278,included_game_day
+2006,277,West Virginia Mountaineers,2005-12-30,80.02599427664049,included_game_day
+2006,277,West Virginia Mountaineers,2006-01-05,77.64301350012525,included_game_day
+2006,277,West Virginia Mountaineers,2006-01-08,92.41886028625706,included_game_day
+2006,277,West Virginia Mountaineers,2006-01-11,97.28187175033403,included_game_day
+2006,277,West Virginia Mountaineers,2006-01-14,111.7424490397978,included_game_day
+2006,277,West Virginia Mountaineers,2006-01-17,116.94995664933734,included_game_day
+2006,277,West Virginia Mountaineers,2006-01-21,121.46966375288034,included_game_day
+2006,277,West Virginia Mountaineers,2006-01-25,98.05021237332778,included_game_day
+2006,277,West Virginia Mountaineers,2006-01-29,102.97150183013467,included_game_day
+2006,277,West Virginia Mountaineers,2006-02-01,97.55842859180572,included_game_day
+2006,277,West Virginia Mountaineers,2006-02-04,100.8752245521773,included_game_day
+2006,277,West Virginia Mountaineers,2006-02-09,102.30958616169126,included_game_day
+2006,277,West Virginia Mountaineers,2006-02-12,121.88328541895139,included_game_day
+2006,277,West Virginia Mountaineers,2006-02-14,110.49942598306819,included_game_day
+2006,277,West Virginia Mountaineers,2006-02-18,111.41573086093189,included_game_day
+2006,277,West Virginia Mountaineers,2006-02-20,108.6219435556452,included_game_day
+2006,277,West Virginia Mountaineers,2006-02-25,104.65750755937576,included_game_day
+2006,277,West Virginia Mountaineers,2006-02-27,109.77691682832369,included_game_day
+2006,277,West Virginia Mountaineers,2006-03-04,105.57318955531038,included_game_day
+2006,277,West Virginia Mountaineers,2006-03-09,92.4087477835323,included_game_day
+2006,277,West Virginia Mountaineers,2006-03-17,106.85313130192327,included_game_day
+2006,277,West Virginia Mountaineers,2006-03-19,113.63715870781476,included_game_day
+2006,277,West Virginia Mountaineers,2006-03-23,118.00626120515821,included_game_day
+2007,277,West Virginia Mountaineers,2006-11-10,5.0,included_game_day
+2007,277,West Virginia Mountaineers,2006-11-18,23.9,included_game_day
+2007,277,West Virginia Mountaineers,2006-11-23,34.431,included_game_day
+2007,277,West Virginia Mountaineers,2006-11-24,57.945766,included_game_day
+2007,277,West Virginia Mountaineers,2006-11-26,53.4420934,included_game_day
+2007,277,West Virginia Mountaineers,2006-12-06,59.527488362,included_game_day
+2007,277,West Virginia Mountaineers,2006-12-09,85.273511654521,included_game_day
+2007,277,West Virginia Mountaineers,2006-12-16,100.90870099037156,included_game_day
+2007,277,West Virginia Mountaineers,2006-12-20,106.0667723124792,included_game_day
+2007,277,West Virginia Mountaineers,2006-12-28,130.94258341172667,included_game_day
+2007,277,West Virginia Mountaineers,2006-12-30,141.54351419660165,included_game_day
+2007,277,West Virginia Mountaineers,2007-01-03,148.8372719238201,included_game_day
+2007,277,West Virginia Mountaineers,2007-01-06,162.097917552223,included_game_day
+2007,277,West Virginia Mountaineers,2007-01-09,161.41233243205508,included_game_day
+2007,277,West Virginia Mountaineers,2007-01-13,137.21273085851513,included_game_day
+2007,277,West Virginia Mountaineers,2007-01-17,132.17464872185647,included_game_day
+2007,277,West Virginia Mountaineers,2007-01-20,108.26782560379888,included_game_day
+2007,277,West Virginia Mountaineers,2007-01-24,109.01820068267976,included_game_day
+2007,277,West Virginia Mountaineers,2007-01-28,115.20383701079976,included_game_day
+2007,277,West Virginia Mountaineers,2007-01-31,108.50216559899911,included_game_day
+2007,277,West Virginia Mountaineers,2007-02-03,116.56992687372232,included_game_day
+2007,277,West Virginia Mountaineers,2007-02-07,104.92474122560223,included_game_day
+2007,277,West Virginia Mountaineers,2007-02-10,112.87204011117754,included_game_day
+2007,277,West Virginia Mountaineers,2007-02-12,104.30267839841665,included_game_day
+2007,277,West Virginia Mountaineers,2007-02-17,104.16763153871162,included_game_day
+2007,277,West Virginia Mountaineers,2007-02-20,102.14972964352624,included_game_day
+2007,277,West Virginia Mountaineers,2007-02-27,94.16836918164351,included_game_day
+2007,277,West Virginia Mountaineers,2007-03-03,96.14645918802537,included_game_day
+2007,277,West Virginia Mountaineers,2007-03-07,102.75240658922694,included_game_day
+2007,277,West Virginia Mountaineers,2007-03-08,99.96672846930147,included_game_day
+2007,277,West Virginia Mountaineers,2007-03-13,108.99813807586258,included_game_day
+2007,277,West Virginia Mountaineers,2007-03-15,117.08758580828794,included_game_day
+2007,277,West Virginia Mountaineers,2007-03-20,117.30570791161358,included_game_day
+2007,277,West Virginia Mountaineers,2007-03-27,123.35147450333784,included_game_day
+2007,277,West Virginia Mountaineers,2007-03-29,123.90385839702446,included_game_day
+2008,277,West Virginia Mountaineers,2007-11-18,55.97,included_game_day
+2008,277,West Virginia Mountaineers,2007-11-23,53.80945,included_game_day
+2008,277,West Virginia Mountaineers,2007-11-24,60.347175,included_game_day
+2008,277,West Virginia Mountaineers,2007-11-27,110.8932564,included_game_day
+2008,277,West Virginia Mountaineers,2007-12-01,116.13716958,included_game_day
+2008,277,West Virginia Mountaineers,2007-12-05,137.044881068,included_game_day
+2008,277,West Virginia Mountaineers,2007-12-08,154.81711132608,included_game_day
+2008,277,West Virginia Mountaineers,2007-12-15,162.9138017805094,included_game_day
+2008,277,West Virginia Mountaineers,2007-12-19,172.46975663569057,included_game_day
+2008,277,West Virginia Mountaineers,2007-12-22,173.46869129067798,included_game_day
+2008,277,West Virginia Mountaineers,2007-12-29,158.05775089452277,included_game_day
+2008,277,West Virginia Mountaineers,2008-01-03,143.61389983086775,included_game_day
+2008,277,West Virginia Mountaineers,2008-01-06,157.1689490486125,included_game_day
+2008,277,West Virginia Mountaineers,2008-01-10,144.44403063483642,included_game_day
+2008,277,West Virginia Mountaineers,2008-01-13,156.35813359140656,included_game_day
+2008,277,West Virginia Mountaineers,2008-01-17,148.05881318810947,included_game_day
+2008,277,West Virginia Mountaineers,2008-01-20,157.83725587083347,included_game_day
+2008,277,West Virginia Mountaineers,2008-01-23,147.2045127358274,included_game_day
+2008,277,West Virginia Mountaineers,2008-01-26,141.50481671463552,included_game_day
+2008,277,West Virginia Mountaineers,2008-01-30,104.28339639788607,included_game_day
+2008,277,West Virginia Mountaineers,2008-02-02,115.61061382066511,included_game_day
+2008,277,West Virginia Mountaineers,2008-02-07,117.15873040094914,included_game_day
+2008,277,West Virginia Mountaineers,2008-02-14,117.445147891544,included_game_day
+2008,277,West Virginia Mountaineers,2008-02-17,125.91857717173745,included_game_day
+2008,277,West Virginia Mountaineers,2008-02-20,98.97099787824473,included_game_day
+2008,277,West Virginia Mountaineers,2008-02-23,117.74716277811399,included_game_day
+2008,277,West Virginia Mountaineers,2008-02-27,124.15251991042496,included_game_day
+2008,277,West Virginia Mountaineers,2008-03-01,119.15536913937814,included_game_day
+2008,277,West Virginia Mountaineers,2008-03-03,129.03131718545825,included_game_day
+2008,277,West Virginia Mountaineers,2008-03-08,127.9197008684753,included_game_day
+2008,277,West Virginia Mountaineers,2008-03-12,124.15236654562291,included_game_day
+2008,277,West Virginia Mountaineers,2008-03-13,132.50297542815818,included_game_day
+2008,277,West Virginia Mountaineers,2008-03-14,118.24555312692434,included_game_day
+2008,277,West Virginia Mountaineers,2008-03-20,127.42857219987138,included_game_day
+2008,277,West Virginia Mountaineers,2008-03-22,135.24818164397328,included_game_day
+2008,277,West Virginia Mountaineers,2008-03-27,131.76840335353504,included_game_day
+2009,277,West Virginia Mountaineers,2008-11-15,42.0,included_game_day
+2009,277,West Virginia Mountaineers,2008-11-20,65.7,included_game_day
+2009,277,West Virginia Mountaineers,2008-11-25,82.70830000000001,included_game_day
+2009,277,West Virginia Mountaineers,2008-11-28,99.56049000000002,included_game_day
+2009,277,West Virginia Mountaineers,2008-11-29,81.95145000000002,included_game_day
+2009,277,West Virginia Mountaineers,2008-12-03,82.80988070000002,included_game_day
+2009,277,West Virginia Mountaineers,2008-12-06,84.00450451600003,included_game_day
+2009,277,West Virginia Mountaineers,2008-12-09,80.52398993440002,included_game_day
+2009,277,West Virginia Mountaineers,2008-12-13,83.73771553526002,included_game_day
+2009,277,West Virginia Mountaineers,2008-12-20,113.69793791143002,included_game_day
+2009,277,West Virginia Mountaineers,2008-12-23,129.980551582168,included_game_day
+2009,277,West Virginia Mountaineers,2008-12-27,156.13144966035125,included_game_day
+2009,277,West Virginia Mountaineers,2009-01-03,172.06153698258908,included_game_day
+2009,277,West Virginia Mountaineers,2009-01-06,160.49561335755692,included_game_day
+2009,277,West Virginia Mountaineers,2009-01-10,138.52762982824885,included_game_day
+2009,277,West Virginia Mountaineers,2009-01-14,135.56785954072916,included_game_day
+2009,277,West Virginia Mountaineers,2009-01-17,123.2196029291433,included_game_day
+2009,277,West Virginia Mountaineers,2009-01-22,144.04146048006902,included_game_day
+2009,277,West Virginia Mountaineers,2009-01-25,131.39341714877983,included_game_day
+2009,277,West Virginia Mountaineers,2009-01-28,139.11411004910627,included_game_day
+2009,277,West Virginia Mountaineers,2009-01-31,138.0905497558701,included_game_day
+2009,277,West Virginia Mountaineers,2009-02-04,123.32676165019323,included_game_day
+2009,277,West Virginia Mountaineers,2009-02-07,141.20269348745356,included_game_day
+2009,277,West Virginia Mountaineers,2009-02-09,137.05673361457838,included_game_day
+2009,277,West Virginia Mountaineers,2009-02-13,157.63909707857485,included_game_day
+2009,277,West Virginia Mountaineers,2009-02-18,158.58561799371893,included_game_day
+2009,277,West Virginia Mountaineers,2009-02-22,164.37202998445505,included_game_day
+2009,277,West Virginia Mountaineers,2009-02-26,152.96455017442904,included_game_day
+2009,277,West Virginia Mountaineers,2009-03-01,152.7812344116926,included_game_day
+2009,277,West Virginia Mountaineers,2009-03-04,146.04675089168083,included_game_day
+2009,277,West Virginia Mountaineers,2009-03-07,141.46306988848147,included_game_day
+2009,277,West Virginia Mountaineers,2009-03-11,148.55275310603844,included_game_day
+2009,277,West Virginia Mountaineers,2009-03-12,165.9358789591227,included_game_day
+2009,277,West Virginia Mountaineers,2009-03-13,161.23901340512458,included_game_day
+2009,277,West Virginia Mountaineers,2009-03-20,142.30430719481853,included_game_day
+2010,277,West Virginia Mountaineers,2009-11-15,21.0,included_game_day
+2010,277,West Virginia Mountaineers,2009-11-24,35.7793,included_game_day
+2010,277,West Virginia Mountaineers,2009-11-26,56.38747,included_game_day
+2010,277,West Virginia Mountaineers,2009-11-27,62.333776,included_game_day
+2010,277,West Virginia Mountaineers,2009-11-29,80.4528734,included_game_day
+2010,277,West Virginia Mountaineers,2009-12-09,100.551923502,included_game_day
+2010,277,West Virginia Mountaineers,2009-12-12,109.27124919889499,included_game_day
+2010,277,West Virginia Mountaineers,2009-12-19,99.06634589632449,included_game_day
+2010,277,West Virginia Mountaineers,2009-12-23,107.90283399082533,included_game_day
+2010,277,West Virginia Mountaineers,2009-12-26,118.39629620948759,included_game_day
+2010,277,West Virginia Mountaineers,2009-12-29,115.7901350827593,included_game_day
+2010,277,West Virginia Mountaineers,2010-01-01,104.90954858412326,included_game_day
+2010,277,West Virginia Mountaineers,2010-01-06,127.39404809105486,included_game_day
+2010,277,West Virginia Mountaineers,2010-01-09,124.28347076429633,included_game_day
+2010,277,West Virginia Mountaineers,2010-01-13,138.44815311021972,included_game_day
+2010,277,West Virginia Mountaineers,2010-01-16,137.3855324809692,included_game_day
+2010,277,West Virginia Mountaineers,2010-01-20,142.1712483094651,included_game_day
+2010,277,West Virginia Mountaineers,2010-01-23,145.05368248740865,included_game_day
+2010,277,West Virginia Mountaineers,2010-01-26,146.75035731273593,included_game_day
+2010,277,West Virginia Mountaineers,2010-01-30,143.32840016314947,included_game_day
+2010,277,West Virginia Mountaineers,2010-02-03,154.3238480420745,included_game_day
+2010,277,West Virginia Mountaineers,2010-02-06,163.91453788974954,included_game_day
+2010,277,West Virginia Mountaineers,2010-02-08,152.55596182175051,included_game_day
+2010,277,West Virginia Mountaineers,2010-02-12,148.89313818805988,included_game_day
+2010,277,West Virginia Mountaineers,2010-02-17,156.19007390022531,included_game_day
+2010,277,West Virginia Mountaineers,2010-02-20,157.1756079718803,included_game_day
+2010,277,West Virginia Mountaineers,2010-02-22,143.53862022115584,included_game_day
+2010,277,West Virginia Mountaineers,2010-02-27,138.06417695133632,included_game_day
+2010,277,West Virginia Mountaineers,2010-03-01,145.35362092814032,included_game_day
+2010,277,West Virginia Mountaineers,2010-03-06,149.31616787841187,included_game_day
+2010,277,West Virginia Mountaineers,2010-03-11,142.2556643006233,included_game_day
+2010,277,West Virginia Mountaineers,2010-03-12,143.8196741669538,included_game_day
+2010,277,West Virginia Mountaineers,2010-03-13,148.23359023618104,included_game_day
+2010,277,West Virginia Mountaineers,2010-03-19,164.15848543843464,included_game_day
+2010,277,West Virginia Mountaineers,2010-03-21,168.51087000220141,included_game_day
+2010,277,West Virginia Mountaineers,2010-03-25,180.31594578396846,included_game_day
+2010,277,West Virginia Mountaineers,2010-03-27,191.39858078095494,included_game_day
+2010,277,West Virginia Mountaineers,2010-04-03,173.6628890959078,included_game_day
+2011,277,West Virginia Mountaineers,2010-11-12,21.0,included_game_day
+2011,277,West Virginia Mountaineers,2010-11-18,32.7,included_game_day
+2011,277,West Virginia Mountaineers,2010-11-19,37.267,included_game_day
+2011,277,West Virginia Mountaineers,2010-11-21,33.6906,included_game_day
+2011,277,West Virginia Mountaineers,2010-11-27,45.66154,included_game_day
+2011,277,West Virginia Mountaineers,2010-12-01,61.56239,included_game_day
+2011,277,West Virginia Mountaineers,2010-12-04,59.707332300000004,included_game_day
+2011,277,West Virginia Mountaineers,2010-12-07,85.7938693614,included_game_day
+2011,277,West Virginia Mountaineers,2010-12-12,88.4807160474,included_game_day
+2011,277,West Virginia Mountaineers,2010-12-18,95.80093126202199,included_game_day
+2011,277,West Virginia Mountaineers,2010-12-29,79.61689547991793,included_game_day
+2011,277,West Virginia Mountaineers,2011-01-01,79.12706979792158,included_game_day
+2011,277,West Virginia Mountaineers,2011-01-04,76.43456837864835,included_game_day
+2011,277,West Virginia Mountaineers,2011-01-08,88.57769727544519,included_game_day
+2011,277,West Virginia Mountaineers,2011-01-13,112.81837265975608,included_game_day
+2011,277,West Virginia Mountaineers,2011-01-16,118.27442423354704,included_game_day
+2011,277,West Virginia Mountaineers,2011-01-19,108.18566271801129,included_game_day
+2011,277,West Virginia Mountaineers,2011-01-23,106.18818726658859,included_game_day
+2011,277,West Virginia Mountaineers,2011-01-26,110.14667113571215,included_game_day
+2011,277,West Virginia Mountaineers,2011-01-29,124.79187554272701,included_game_day
+2011,277,West Virginia Mountaineers,2011-02-02,128.62589391804224,included_game_day
+2011,277,West Virginia Mountaineers,2011-02-05,116.12163680352285,included_game_day
+2011,277,West Virginia Mountaineers,2011-02-07,112.60511802809688,included_game_day
+2011,277,West Virginia Mountaineers,2011-02-12,106.10853504157664,included_game_day
+2011,277,West Virginia Mountaineers,2011-02-14,99.72683231832818,included_game_day
+2011,277,West Virginia Mountaineers,2011-02-19,114.93157402192183,included_game_day
+2011,277,West Virginia Mountaineers,2011-02-24,109.10064132270989,included_game_day
+2011,277,West Virginia Mountaineers,2011-02-27,116.40236432318116,included_game_day
+2011,277,West Virginia Mountaineers,2011-03-02,121.44030489011281,included_game_day
+2011,277,West Virginia Mountaineers,2011-03-05,122.56807022067024,included_game_day
+2011,277,West Virginia Mountaineers,2011-03-09,115.15733983847905,included_game_day
+2011,277,West Virginia Mountaineers,2011-03-17,124.9399131908782,included_game_day
+2011,277,West Virginia Mountaineers,2011-03-19,120.25356282886928,included_game_day
+2012,277,West Virginia Mountaineers,2011-11-11,4.0,included_game_day
+2012,277,West Virginia Mountaineers,2011-11-15,-9.4,included_game_day
+2012,277,West Virginia Mountaineers,2011-11-17,23.54,included_game_day
+2012,277,West Virginia Mountaineers,2011-11-22,52.67,included_game_day
+2012,277,West Virginia Mountaineers,2011-11-28,67.4450422,included_game_day
+2012,277,West Virginia Mountaineers,2011-12-03,56.70716825,included_game_day
+2012,277,West Virginia Mountaineers,2011-12-08,62.282457085560004,included_game_day
+2012,277,West Virginia Mountaineers,2011-12-10,65.357612685084,included_game_day
+2012,277,West Virginia Mountaineers,2011-12-17,70.5685111042339,included_game_day
+2012,277,West Virginia Mountaineers,2011-12-19,77.68273540607362,included_game_day
+2012,277,West Virginia Mountaineers,2011-12-22,75.6897135065471,included_game_day
+2012,277,West Virginia Mountaineers,2011-12-23,79.7342020536596,included_game_day
+2012,277,West Virginia Mountaineers,2011-12-28,87.78467419346242,included_game_day
+2012,277,West Virginia Mountaineers,2011-12-30,69.86300801547102,included_game_day
+2012,277,West Virginia Mountaineers,2012-01-04,91.10768851134077,included_game_day
+2012,277,West Virginia Mountaineers,2012-01-07,101.90305633989267,included_game_day
+2012,277,West Virginia Mountaineers,2012-01-09,95.15302037203674,included_game_day
+2012,277,West Virginia Mountaineers,2012-01-14,112.59963669285928,included_game_day
+2012,277,West Virginia Mountaineers,2012-01-18,122.99172108850725,included_game_day
+2012,277,West Virginia Mountaineers,2012-01-21,120.7033023685928,included_game_day
+2012,277,West Virginia Mountaineers,2012-01-25,94.2338382817017,included_game_day
+2012,277,West Virginia Mountaineers,2012-01-28,102.19104463266567,included_game_day
+2012,277,West Virginia Mountaineers,2012-01-30,88.42183342649734,included_game_day
+2012,277,West Virginia Mountaineers,2012-02-05,89.82857049206474,included_game_day
+2012,277,West Virginia Mountaineers,2012-02-08,84.82890292081734,included_game_day
+2012,277,West Virginia Mountaineers,2012-02-11,81.20284837800266,included_game_day
+2012,277,West Virginia Mountaineers,2012-02-16,99.45304906472039,included_game_day
+2012,277,West Virginia Mountaineers,2012-02-22,76.82222065671576,included_game_day
+2012,277,West Virginia Mountaineers,2012-02-24,78.89296063930271,included_game_day
+2012,277,West Virginia Mountaineers,2012-02-28,82.93278828518898,included_game_day
+2012,277,West Virginia Mountaineers,2012-03-03,92.28296638095024,included_game_day
+2012,277,West Virginia Mountaineers,2012-03-07,87.25764735884573,included_game_day
+2012,277,West Virginia Mountaineers,2012-03-15,66.96381282587149,included_game_day
+2013,277,West Virginia Mountaineers,2012-11-12,-27.5,included_game_day
+2013,277,West Virginia Mountaineers,2012-11-22,17.5143,included_game_day
+2013,277,West Virginia Mountaineers,2012-11-23,13.577169999999999,included_game_day
+2013,277,West Virginia Mountaineers,2012-11-25,7.1346859999999985,included_game_day
+2013,277,West Virginia Mountaineers,2012-11-28,28.112773299999997,included_game_day
+2013,277,West Virginia Mountaineers,2012-12-05,35.6445703657,included_game_day
+2013,277,West Virginia Mountaineers,2012-12-08,36.52364774913,included_game_day
+2013,277,West Virginia Mountaineers,2012-12-11,31.714659337287998,included_game_day
+2013,277,West Virginia Mountaineers,2012-12-15,25.3606696831863,included_game_day
+2013,277,West Virginia Mountaineers,2012-12-19,21.244784793081358,included_game_day
+2013,277,West Virginia Mountaineers,2012-12-22,24.50116240460099,included_game_day
+2013,277,West Virginia Mountaineers,2012-12-30,29.394250308520952,included_game_day
+2013,277,West Virginia Mountaineers,2013-01-05,18.76934299097045,included_game_day
+2013,277,West Virginia Mountaineers,2013-01-09,28.250878011497218,included_game_day
+2013,277,West Virginia Mountaineers,2013-01-12,27.991269218072638,included_game_day
+2013,277,West Virginia Mountaineers,2013-01-16,35.83757740086355,included_game_day
+2013,277,West Virginia Mountaineers,2013-01-19,12.51980170801438,included_game_day
+2013,277,West Virginia Mountaineers,2013-01-23,25.608520837730264,included_game_day
+2013,277,West Virginia Mountaineers,2013-01-26,22.648857632812167,included_game_day
+2013,277,West Virginia Mountaineers,2013-01-28,27.927206122078047,included_game_day
+2013,277,West Virginia Mountaineers,2013-02-02,40.46519972213352,included_game_day
+2013,277,West Virginia Mountaineers,2013-02-04,37.755252519902214,included_game_day
+2013,277,West Virginia Mountaineers,2013-02-09,45.46580491592675,included_game_day
+2013,277,West Virginia Mountaineers,2013-02-13,34.63102339226249,included_game_day
+2013,277,West Virginia Mountaineers,2013-02-16,23.640630487861912,included_game_day
+2013,277,West Virginia Mountaineers,2013-02-18,24.827542957494128,included_game_day
+2013,277,West Virginia Mountaineers,2013-02-23,15.80486590212819,included_game_day
+2013,277,West Virginia Mountaineers,2013-02-27,16.155659646295376,included_game_day
+2013,277,West Virginia Mountaineers,2013-03-02,6.77007957169328,included_game_day
+2013,277,West Virginia Mountaineers,2013-03-06,6.404458939364506,included_game_day
+2013,277,West Virginia Mountaineers,2013-03-09,3.552157748162685,included_game_day
+2013,277,West Virginia Mountaineers,2013-03-13,-4.998693657966307,included_game_day
+2014,277,West Virginia Mountaineers,2013-11-08,12.0,included_game_day
+2014,277,West Virginia Mountaineers,2013-11-12,8.4,included_game_day
+2014,277,West Virginia Mountaineers,2013-11-17,18.4,included_game_day
+2014,277,West Virginia Mountaineers,2013-11-21,46.69,included_game_day
+2014,277,West Virginia Mountaineers,2013-11-23,66.17434,included_game_day
+2014,277,West Virginia Mountaineers,2013-11-26,80.41434,included_game_day
+2014,277,West Virginia Mountaineers,2013-11-27,71.164808,included_game_day
+2014,277,West Virginia Mountaineers,2013-12-02,111.72049059999999,included_game_day
+2014,277,West Virginia Mountaineers,2013-12-05,101.14869993999999,included_game_day
+2014,277,West Virginia Mountaineers,2013-12-10,92.95320109324199,included_game_day
+2014,277,West Virginia Mountaineers,2013-12-14,93.51494090100779,included_game_day
+2014,277,West Virginia Mountaineers,2013-12-22,82.9786249324026,included_game_day
+2014,277,West Virginia Mountaineers,2013-12-29,112.38967723112233,included_game_day
+2014,277,West Virginia Mountaineers,2014-01-04,110.95386310383661,included_game_day
+2014,277,West Virginia Mountaineers,2014-01-06,110.42803283105036,included_game_day
+2014,277,West Virginia Mountaineers,2014-01-11,110.56964462786974,included_game_day
+2014,277,West Virginia Mountaineers,2014-01-13,91.4400578481025,included_game_day
+2014,277,West Virginia Mountaineers,2014-01-18,71.81716965744776,included_game_day
+2014,277,West Virginia Mountaineers,2014-01-22,74.10882819889214,included_game_day
+2014,277,West Virginia Mountaineers,2014-01-25,79.97660065389485,included_game_day
+2014,277,West Virginia Mountaineers,2014-01-28,82.77368312608642,included_game_day
+2014,277,West Virginia Mountaineers,2014-02-01,91.73536605457052,included_game_day
+2014,277,West Virginia Mountaineers,2014-02-05,94.42011871143794,included_game_day
+2014,277,West Virginia Mountaineers,2014-02-08,89.32925692875074,included_game_day
+2014,277,West Virginia Mountaineers,2014-02-10,114.59452320084443,included_game_day
+2014,277,West Virginia Mountaineers,2014-02-15,100.69197790082659,included_game_day
+2014,277,West Virginia Mountaineers,2014-02-22,84.2380566989561,included_game_day
+2014,277,West Virginia Mountaineers,2014-02-26,72.31166350937488,included_game_day
+2014,277,West Virginia Mountaineers,2014-03-01,78.47504482931001,included_game_day
+2014,277,West Virginia Mountaineers,2014-03-05,75.22847173407396,included_game_day
+2014,277,West Virginia Mountaineers,2014-03-08,88.46023333253575,included_game_day
+2014,277,West Virginia Mountaineers,2014-03-13,70.36884599700318,included_game_day
+2014,277,West Virginia Mountaineers,2014-03-18,60.639195841546524,included_game_day
+2015,277,West Virginia Mountaineers,2014-11-14,7.0,included_game_day
+2015,277,West Virginia Mountaineers,2014-11-16,33.3,included_game_day
+2015,277,West Virginia Mountaineers,2014-11-20,55.01,included_game_day
+2015,277,West Virginia Mountaineers,2014-11-21,53.774,included_game_day
+2015,277,West Virginia Mountaineers,2014-11-23,61.4302,included_game_day
+2015,277,West Virginia Mountaineers,2014-11-26,84.12218,included_game_day
+2015,277,West Virginia Mountaineers,2014-11-29,101.634182,included_game_day
+2015,277,West Virginia Mountaineers,2014-12-04,91.21717086999999,included_game_day
+2015,277,West Virginia Mountaineers,2014-12-07,105.68178478299998,included_game_day
+2015,277,West Virginia Mountaineers,2014-12-14,95.27434697339999,included_game_day
+2015,277,West Virginia Mountaineers,2014-12-20,108.01789220426639,included_game_day
+2015,277,West Virginia Mountaineers,2014-12-22,130.90817149943774,included_game_day
+2015,277,West Virginia Mountaineers,2014-12-30,147.58523083571166,included_game_day
+2015,277,West Virginia Mountaineers,2015-01-03,158.94012816799784,included_game_day
+2015,277,West Virginia Mountaineers,2015-01-05,161.0206913439985,included_game_day
+2015,277,West Virginia Mountaineers,2015-01-10,151.0093554947128,included_game_day
+2015,277,West Virginia Mountaineers,2015-01-13,167.02540895162556,included_game_day
+2015,277,West Virginia Mountaineers,2015-01-17,134.72885558316375,included_game_day
+2015,277,West Virginia Mountaineers,2015-01-24,127.60695971897862,included_game_day
+2015,277,West Virginia Mountaineers,2015-01-27,130.09343480705414,included_game_day
+2015,277,West Virginia Mountaineers,2015-01-31,130.17988576248808,included_game_day
+2015,277,West Virginia Mountaineers,2015-02-03,115.83888256454999,included_game_day
+2015,277,West Virginia Mountaineers,2015-02-07,96.57767417351305,included_game_day
+2015,277,West Virginia Mountaineers,2015-02-11,91.40004591456527,included_game_day
+2015,277,West Virginia Mountaineers,2015-02-14,77.93821186074126,included_game_day
+2015,277,West Virginia Mountaineers,2015-02-16,83.19992621247452,included_game_day
+2015,277,West Virginia Mountaineers,2015-02-21,96.75923621107489,included_game_day
+2015,277,West Virginia Mountaineers,2015-02-24,101.38472422613958,included_game_day
+2015,277,West Virginia Mountaineers,2015-02-28,97.23887681475865,included_game_day
+2015,277,West Virginia Mountaineers,2015-03-03,96.23021339297146,included_game_day
+2015,277,West Virginia Mountaineers,2015-03-07,100.39129958348178,included_game_day
+2015,277,West Virginia Mountaineers,2015-03-12,93.68318894875868,included_game_day
+2015,277,West Virginia Mountaineers,2015-03-20,100.02034964143708,included_game_day
+2015,277,West Virginia Mountaineers,2015-03-22,109.03508574959821,included_game_day
+2015,277,West Virginia Mountaineers,2015-03-26,82.03237425209022,included_game_day
+2016,277,West Virginia Mountaineers,2015-11-13,43.0,included_game_day
+2016,277,West Virginia Mountaineers,2015-11-16,53.2,included_game_day
+2016,277,West Virginia Mountaineers,2015-11-23,96.4923,included_game_day
+2016,277,West Virginia Mountaineers,2015-11-26,98.83377,included_game_day
+2016,277,West Virginia Mountaineers,2015-11-27,114.734802,included_game_day
+2016,277,West Virginia Mountaineers,2015-12-05,126.929561242,included_game_day
+2016,277,West Virginia Mountaineers,2015-12-08,106.78423664980001,included_game_day
+2016,277,West Virginia Mountaineers,2015-12-13,136.69052263607222,included_game_day
+2016,277,West Virginia Mountaineers,2015-12-17,138.9863638257069,included_game_day
+2016,277,West Virginia Mountaineers,2015-12-21,144.72421918608612,included_game_day
+2016,277,West Virginia Mountaineers,2015-12-30,164.90056153725325,included_game_day
+2016,277,West Virginia Mountaineers,2016-01-02,161.36088271383437,included_game_day
+2016,277,West Virginia Mountaineers,2016-01-04,156.57465795398483,included_game_day
+2016,277,West Virginia Mountaineers,2016-01-09,159.2179077433277,included_game_day
+2016,277,West Virginia Mountaineers,2016-01-12,168.0591426462364,included_game_day
+2016,277,West Virginia Mountaineers,2016-01-16,165.6942032895965,included_game_day
+2016,277,West Virginia Mountaineers,2016-01-20,145.8067777837497,included_game_day
+2016,277,West Virginia Mountaineers,2016-01-23,145.39144776975868,included_game_day
+2016,277,West Virginia Mountaineers,2016-01-26,150.3759593054482,included_game_day
+2016,277,West Virginia Mountaineers,2016-01-30,131.75679726809778,included_game_day
+2016,277,West Virginia Mountaineers,2016-02-02,138.11237972117456,included_game_day
+2016,277,West Virginia Mountaineers,2016-02-06,141.05117118298517,included_game_day
+2016,277,West Virginia Mountaineers,2016-02-09,133.5646315691562,included_game_day
+2016,277,West Virginia Mountaineers,2016-02-13,148.3603586744556,included_game_day
+2016,277,West Virginia Mountaineers,2016-02-16,140.27906222603545,included_game_day
+2016,277,West Virginia Mountaineers,2016-02-20,121.93866614948482,included_game_day
+2016,277,West Virginia Mountaineers,2016-02-22,126.47934892424415,included_game_day
+2016,277,West Virginia Mountaineers,2016-02-27,132.81694657000997,included_game_day
+2016,277,West Virginia Mountaineers,2016-03-02,147.33502780471835,included_game_day
+2016,277,West Virginia Mountaineers,2016-03-05,157.73748389510433,included_game_day
+2016,277,West Virginia Mountaineers,2016-03-10,161.14974240652748,included_game_day
+2016,277,West Virginia Mountaineers,2016-03-11,159.90409068915005,included_game_day
+2016,277,West Virginia Mountaineers,2016-03-12,153.3192089486097,included_game_day
+2016,277,West Virginia Mountaineers,2016-03-18,142.4592088228116,included_game_day
+2017,277,West Virginia Mountaineers,2016-11-11,25.0,included_game_day
+2017,277,West Virginia Mountaineers,2016-11-14,57.7,included_game_day
+2017,277,West Virginia Mountaineers,2016-11-20,107.568,included_game_day
+2017,277,West Virginia Mountaineers,2016-11-24,131.6363,included_game_day
+2017,277,West Virginia Mountaineers,2016-11-25,116.52626000000001,included_game_day
+2017,277,West Virginia Mountaineers,2016-11-28,146.09495700000002,included_game_day
+2017,277,West Virginia Mountaineers,2016-12-03,157.46342883000003,included_game_day
+2017,277,West Virginia Mountaineers,2016-12-07,185.76057492700002,included_game_day
+2017,277,West Virginia Mountaineers,2016-12-10,192.5937468943,included_game_day
+2017,277,West Virginia Mountaineers,2016-12-17,210.80567222932422,included_game_day
+2017,277,West Virginia Mountaineers,2016-12-20,206.68255250567523,included_game_day
+2017,277,West Virginia Mountaineers,2016-12-23,218.91307466688173,included_game_day
+2017,277,West Virginia Mountaineers,2016-12-30,228.48072248117492,included_game_day
+2017,277,West Virginia Mountaineers,2017-01-03,220.65250068995303,included_game_day
+2017,277,West Virginia Mountaineers,2017-01-07,217.22606250915248,included_game_day
+2017,277,West Virginia Mountaineers,2017-01-10,227.2793261223493,included_game_day
+2017,277,West Virginia Mountaineers,2017-01-14,214.39076746073928,included_game_day
+2017,277,West Virginia Mountaineers,2017-01-18,192.12606009581094,included_game_day
+2017,277,West Virginia Mountaineers,2017-01-21,182.8847099766875,included_game_day
+2017,277,West Virginia Mountaineers,2017-01-24,193.45098982898543,included_game_day
+2017,277,West Virginia Mountaineers,2017-01-28,180.07934996364963,included_game_day
+2017,277,West Virginia Mountaineers,2017-01-31,189.5412550438075,included_game_day
+2017,277,West Virginia Mountaineers,2017-02-04,173.8480720769836,included_game_day
+2017,277,West Virginia Mountaineers,2017-02-08,174.5152978517726,included_game_day
+2017,277,West Virginia Mountaineers,2017-02-11,183.09338633159314,included_game_day
+2017,277,West Virginia Mountaineers,2017-02-13,178.57815032419788,included_game_day
+2017,277,West Virginia Mountaineers,2017-02-18,176.37843731006043,included_game_day
+2017,277,West Virginia Mountaineers,2017-02-20,175.8381968820991,included_game_day
+2017,277,West Virginia Mountaineers,2017-02-25,168.84497374727775,included_game_day
+2017,277,West Virginia Mountaineers,2017-02-27,158.7609042851927,included_game_day
+2017,277,West Virginia Mountaineers,2017-03-03,164.316083774246,included_game_day
+2017,277,West Virginia Mountaineers,2017-03-09,163.30530615072186,included_game_day
+2017,277,West Virginia Mountaineers,2017-03-10,156.03269901537706,included_game_day
+2017,277,West Virginia Mountaineers,2017-03-11,150.0416188249851,included_game_day
+2017,277,West Virginia Mountaineers,2017-03-16,150.00356437853026,included_game_day
+2017,277,West Virginia Mountaineers,2017-03-18,160.5783546654864,included_game_day
+2017,277,West Virginia Mountaineers,2017-03-23,165.4580052686183,included_game_day
+2018,277,West Virginia Mountaineers,2017-11-10,-23.0,included_game_day
+2018,277,West Virginia Mountaineers,2017-11-15,6.800000000000001,included_game_day
+2018,277,West Virginia Mountaineers,2017-11-18,66.14,included_game_day
+2018,277,West Virginia Mountaineers,2017-11-20,86.388,included_game_day
+2018,277,West Virginia Mountaineers,2017-11-23,80.4402,included_game_day
+2018,277,West Virginia Mountaineers,2017-11-24,111.886662,included_game_day
+2018,277,West Virginia Mountaineers,2017-11-26,112.3220818,included_game_day
+2018,277,West Virginia Mountaineers,2017-11-30,129.80875600000002,included_game_day
+2018,277,West Virginia Mountaineers,2017-12-05,131.67521322800002,included_game_day
+2018,277,West Virginia Mountaineers,2017-12-09,129.74373344090003,included_game_day
+2018,277,West Virginia Mountaineers,2017-12-20,141.41368399750732,included_game_day
+2018,277,West Virginia Mountaineers,2017-12-23,138.34137022956997,included_game_day
+2018,277,West Virginia Mountaineers,2017-12-29,141.09467458024184,included_game_day
+2018,277,West Virginia Mountaineers,2018-01-01,146.38482882385023,included_game_day
+2018,277,West Virginia Mountaineers,2018-01-06,155.39400574154885,included_game_day
+2018,277,West Virginia Mountaineers,2018-01-09,147.6369651226128,included_game_day
+2018,277,West Virginia Mountaineers,2018-01-13,151.37479887014018,included_game_day
+2018,277,West Virginia Mountaineers,2018-01-15,139.86050973651427,included_game_day
+2018,277,West Virginia Mountaineers,2018-01-20,166.4371590778168,included_game_day
+2018,277,West Virginia Mountaineers,2018-01-22,154.53786301423727,included_game_day
+2018,277,West Virginia Mountaineers,2018-01-27,137.85970433876045,included_game_day
+2018,277,West Virginia Mountaineers,2018-01-31,112.72053082929175,included_game_day
+2018,277,West Virginia Mountaineers,2018-02-03,145.8220821304401,included_game_day
+2018,277,West Virginia Mountaineers,2018-02-05,145.8893007802203,included_game_day
+2018,277,West Virginia Mountaineers,2018-02-10,130.83116145597282,included_game_day
+2018,277,West Virginia Mountaineers,2018-02-12,142.14094820579604,included_game_day
+2018,277,West Virginia Mountaineers,2018-02-17,133.8969324377615,included_game_day
+2018,277,West Virginia Mountaineers,2018-02-20,145.5155772529751,included_game_day
+2018,277,West Virginia Mountaineers,2018-02-24,146.06350486623603,included_game_day
+2018,277,West Virginia Mountaineers,2018-02-26,151.24791051598385,included_game_day
+2018,277,West Virginia Mountaineers,2018-03-03,138.40723084730098,included_game_day
+2018,277,West Virginia Mountaineers,2018-03-08,147.4568071085431,included_game_day
+2018,277,West Virginia Mountaineers,2018-03-09,148.0391684317405,included_game_day
+2018,277,West Virginia Mountaineers,2018-03-10,136.76729419444445,included_game_day
+2018,277,West Virginia Mountaineers,2018-03-16,149.23996139779624,included_game_day
+2018,277,West Virginia Mountaineers,2018-03-18,165.9488331587853,included_game_day
+2018,277,West Virginia Mountaineers,2018-03-23,160.1742115534485,included_game_day
+2019,277,West Virginia Mountaineers,2018-11-09,-6.8,included_game_day
+2019,277,West Virginia Mountaineers,2018-11-15,7.733,included_game_day
+2019,277,West Virginia Mountaineers,2018-11-16,2.0247,included_game_day
+2019,277,West Virginia Mountaineers,2018-11-18,10.6162,included_game_day
+2019,277,West Virginia Mountaineers,2018-11-24,17.4560404,included_game_day
+2019,277,West Virginia Mountaineers,2018-11-28,28.751635059999998,included_game_day
+2019,277,West Virginia Mountaineers,2018-12-01,51.825291304,included_game_day
+2019,277,West Virginia Mountaineers,2018-12-04,42.429185753599995,included_game_day
+2019,277,West Virginia Mountaineers,2018-12-08,51.36609192524,included_game_day
+2019,277,West Virginia Mountaineers,2018-12-16,36.925370533856,included_game_day
+2019,277,West Virginia Mountaineers,2018-12-22,35.568830558497375,included_game_day
+2019,277,West Virginia Mountaineers,2018-12-30,40.928040961848424,included_game_day
+2019,277,West Virginia Mountaineers,2019-01-02,45.634469229564395,included_game_day
+2019,277,West Virginia Mountaineers,2019-01-05,46.177715415135154,included_game_day
+2019,277,West Virginia Mountaineers,2019-01-09,47.26809001634286,included_game_day
+2019,277,West Virginia Mountaineers,2019-01-12,33.609573813786405,included_game_day
+2019,277,West Virginia Mountaineers,2019-01-15,12.833340289327744,included_game_day
+2019,277,West Virginia Mountaineers,2019-01-19,19.446117697130077,included_game_day
+2019,277,West Virginia Mountaineers,2019-01-21,11.618860248006232,included_game_day
+2019,277,West Virginia Mountaineers,2019-01-26,12.73823911509249,included_game_day
+2019,277,West Virginia Mountaineers,2019-01-30,3.1563772416198894,included_game_day
+2019,277,West Virginia Mountaineers,2019-02-02,15.062648654257337,included_game_day
+2019,277,West Virginia Mountaineers,2019-02-04,-4.385927395321421,included_game_day
+2019,277,West Virginia Mountaineers,2019-02-09,-18.888924941726785,included_game_day
+2019,277,West Virginia Mountaineers,2019-02-16,-28.371278123132566,included_game_day
+2019,277,West Virginia Mountaineers,2019-02-18,-31.714745464794888,included_game_day
+2019,277,West Virginia Mountaineers,2019-02-23,-21.414829701283182,included_game_day
+2019,277,West Virginia Mountaineers,2019-02-26,-8.002531052614305,included_game_day
+2019,277,West Virginia Mountaineers,2019-03-02,-9.655472905218126,included_game_day
+2019,277,West Virginia Mountaineers,2019-03-06,14.509452371467166,included_game_day
+2019,277,West Virginia Mountaineers,2019-03-09,10.204034268399408,included_game_day
+2019,277,West Virginia Mountaineers,2019-03-13,17.587317771403015,included_game_day
+2019,277,West Virginia Mountaineers,2019-03-14,39.44092774734305,included_game_day
+2019,277,West Virginia Mountaineers,2019-03-15,34.69665897733833,included_game_day
+2019,277,West Virginia Mountaineers,2019-03-20,45.55813180956396,included_game_day
+2019,277,West Virginia Mountaineers,2019-03-25,17.76143802782033,included_game_day
+2020,277,West Virginia Mountaineers,2019-11-08,7.0,included_game_day
+2020,277,West Virginia Mountaineers,2019-11-15,24.79,included_game_day
+2020,277,West Virginia Mountaineers,2019-11-18,27.0062,included_game_day
+2020,277,West Virginia Mountaineers,2019-11-22,47.502765,included_game_day
+2020,277,West Virginia Mountaineers,2019-11-26,50.9045085,included_game_day
+2020,277,West Virginia Mountaineers,2019-11-27,65.6238805,included_game_day
+2020,277,West Virginia Mountaineers,2019-12-01,62.45152328,included_game_day
+2020,277,West Virginia Mountaineers,2019-12-07,63.59996129020001,included_game_day
+2020,277,West Virginia Mountaineers,2019-12-12,86.10318497754241,included_game_day
+2020,277,West Virginia Mountaineers,2019-12-14,99.17698447978817,included_game_day
+2020,277,West Virginia Mountaineers,2019-12-21,102.09353786501495,included_game_day
+2020,277,West Virginia Mountaineers,2019-12-29,115.40103595036396,included_game_day
+2020,277,West Virginia Mountaineers,2020-01-04,114.02521065766577,included_game_day
+2020,277,West Virginia Mountaineers,2020-01-06,124.73709234968135,included_game_day
+2020,277,West Virginia Mountaineers,2020-01-11,130.74878428627233,included_game_day
+2020,277,West Virginia Mountaineers,2020-01-14,155.1172511209304,included_game_day
+2020,277,West Virginia Mountaineers,2020-01-18,127.50587845634585,included_game_day
+2020,277,West Virginia Mountaineers,2020-01-20,153.9761487331996,included_game_day
+2020,277,West Virginia Mountaineers,2020-01-25,162.18539255491694,included_game_day
+2020,277,West Virginia Mountaineers,2020-01-29,150.22542533275106,included_game_day
+2020,277,West Virginia Mountaineers,2020-02-01,145.8621703822058,included_game_day
+2020,277,West Virginia Mountaineers,2020-02-05,146.8080317156376,included_game_day
+2020,277,West Virginia Mountaineers,2020-02-08,131.72763106701407,included_game_day
+2020,277,West Virginia Mountaineers,2020-02-12,121.93014502475584,included_game_day
+2020,277,West Virginia Mountaineers,2020-02-15,116.00008734848417,included_game_day
+2020,277,West Virginia Mountaineers,2020-02-18,125.24204550864313,included_game_day
+2020,277,West Virginia Mountaineers,2020-02-22,107.76715862175257,included_game_day
+2020,277,West Virginia Mountaineers,2020-02-24,93.20381128483385,included_game_day
+2020,277,West Virginia Mountaineers,2020-02-29,78.71020085654789,included_game_day
+2020,277,West Virginia Mountaineers,2020-03-03,81.38199203279589,included_game_day
+2020,277,West Virginia Mountaineers,2020-03-07,95.98981212854962,included_game_day
+2021,277,West Virginia Mountaineers,2020-11-25,8.0,included_game_day
+2021,277,West Virginia Mountaineers,2020-11-26,20.8,included_game_day
+2021,277,West Virginia Mountaineers,2020-11-27,26.03,included_game_day
+2021,277,West Virginia Mountaineers,2020-12-02,21.857,included_game_day
+2021,277,West Virginia Mountaineers,2020-12-06,30.9942,included_game_day
+2021,277,West Virginia Mountaineers,2020-12-11,39.67028,included_game_day
+2021,277,West Virginia Mountaineers,2020-12-13,51.906082,included_game_day
+2021,277,West Virginia Mountaineers,2020-12-18,45.7012815,included_game_day
+2021,277,West Virginia Mountaineers,2020-12-22,36.06458256,included_game_day
+2021,277,West Virginia Mountaineers,2020-12-29,50.022640505587,included_game_day
+2021,277,West Virginia Mountaineers,2021-01-02,49.250382352142296,included_game_day
+2021,277,West Virginia Mountaineers,2021-01-04,55.04663468927921,included_game_day
+2021,277,West Virginia Mountaineers,2021-01-09,52.46728826065693,included_game_day
+2021,277,West Virginia Mountaineers,2021-01-23,66.90436370298775,included_game_day
+2021,277,West Virginia Mountaineers,2021-01-25,68.79090060538628,included_game_day
+2021,277,West Virginia Mountaineers,2021-01-30,61.10682083582433,included_game_day
+2021,277,West Virginia Mountaineers,2021-02-02,54.81909744669914,included_game_day
+2021,277,West Virginia Mountaineers,2021-02-06,63.78745736412823,included_game_day
+2021,277,West Virginia Mountaineers,2021-02-09,81.69893800722855,included_game_day
+2021,277,West Virginia Mountaineers,2021-02-13,78.3583078068233,included_game_day
+2021,277,West Virginia Mountaineers,2021-02-20,81.56064315143614,included_game_day
+2021,277,West Virginia Mountaineers,2021-02-23,80.70414085765367,included_game_day
+2021,277,West Virginia Mountaineers,2021-02-27,87.21674245588676,included_game_day
+2021,277,West Virginia Mountaineers,2021-03-02,85.78771105889273,included_game_day
+2021,277,West Virginia Mountaineers,2021-03-04,79.61006695323213,included_game_day
+2021,277,West Virginia Mountaineers,2021-03-06,70.19520663509253,included_game_day
+2021,277,West Virginia Mountaineers,2021-03-11,67.66331838058085,included_game_day
+2021,277,West Virginia Mountaineers,2021-03-19,84.9834183131274,included_game_day
+2021,277,West Virginia Mountaineers,2021-03-21,82.71641105331918,included_game_day
+2022,277,West Virginia Mountaineers,2021-11-09,4.0,included_game_day
+2022,277,West Virginia Mountaineers,2021-11-12,13.8,included_game_day
+2022,277,West Virginia Mountaineers,2021-11-18,30.42,included_game_day
+2022,277,West Virginia Mountaineers,2021-11-19,18.4193,included_game_day
+2022,277,West Virginia Mountaineers,2021-11-21,28.5288,included_game_day
+2022,277,West Virginia Mountaineers,2021-11-26,29.81786,included_game_day
+2022,277,West Virginia Mountaineers,2021-11-30,36.8709608,included_game_day
+2022,277,West Virginia Mountaineers,2021-12-04,43.43562749,included_game_day
+2022,277,West Virginia Mountaineers,2021-12-08,49.81704294915,included_game_day
+2022,277,West Virginia Mountaineers,2021-12-12,54.5234526365585,included_game_day
+2022,277,West Virginia Mountaineers,2021-12-18,66.01356569114455,included_game_day
+2022,277,West Virginia Mountaineers,2021-12-22,89.00058848550347,included_game_day
+2022,277,West Virginia Mountaineers,2022-01-01,80.03355825323995,included_game_day
+2022,277,West Virginia Mountaineers,2022-01-08,77.6446162788536,included_game_day
+2022,277,West Virginia Mountaineers,2022-01-11,82.65881838420411,included_game_day
+2022,277,West Virginia Mountaineers,2022-01-15,63.33852025366909,included_game_day
+2022,277,West Virginia Mountaineers,2022-01-18,59.241415487876054,included_game_day
+2022,277,West Virginia Mountaineers,2022-01-22,56.60196022823476,included_game_day
+2022,277,West Virginia Mountaineers,2022-01-26,46.188949140841835,included_game_day
+2022,277,West Virginia Mountaineers,2022-01-29,45.45332431940371,included_game_day
+2022,277,West Virginia Mountaineers,2022-01-31,55.53151262781522,included_game_day
+2022,277,West Virginia Mountaineers,2022-02-05,56.09079432325349,included_game_day
+2022,277,West Virginia Mountaineers,2022-02-08,70.25688453358943,included_game_day
+2022,277,West Virginia Mountaineers,2022-02-12,49.65879834039062,included_game_day
+2022,277,West Virginia Mountaineers,2022-02-14,49.44067035261866,included_game_day
+2022,277,West Virginia Mountaineers,2022-02-19,43.39212144503376,included_game_day
+2022,277,West Virginia Mountaineers,2022-02-21,38.53899032829128,included_game_day
+2022,277,West Virginia Mountaineers,2022-02-23,42.24893421872664,included_game_day
+2022,277,West Virginia Mountaineers,2022-02-26,46.11747352180769,included_game_day
+2022,277,West Virginia Mountaineers,2022-03-01,37.5685552725963,included_game_day
+2022,277,West Virginia Mountaineers,2022-03-05,46.49103883874885,included_game_day
+2022,277,West Virginia Mountaineers,2022-03-09,53.530102870518576,included_game_day
+2022,277,West Virginia Mountaineers,2022-03-10,40.850495421378916,included_game_day
+2023,277,West Virginia Mountaineers,2022-11-07,15.0,included_game_day
+2023,277,West Virginia Mountaineers,2022-11-11,43.4,included_game_day
+2023,277,West Virginia Mountaineers,2022-11-15,51.62,included_game_day
+2023,277,West Virginia Mountaineers,2022-11-18,75.6046,included_game_day
+2023,277,West Virginia Mountaineers,2022-11-24,59.81114000000001,included_game_day
+2023,277,West Virginia Mountaineers,2022-11-25,70.68735500000001,included_game_day
+2023,277,West Virginia Mountaineers,2022-11-27,96.30496520000001,included_game_day
+2023,277,West Virginia Mountaineers,2022-12-03,85.83623738800001,included_game_day
+2023,277,West Virginia Mountaineers,2022-12-07,96.32099418600001,included_game_day
+2023,277,West Virginia Mountaineers,2022-12-10,102.11204294028,included_game_day
+2023,277,West Virginia Mountaineers,2022-12-18,104.6282126564579,included_game_day
+2023,277,West Virginia Mountaineers,2022-12-22,94.89512092208714,included_game_day
+2023,277,West Virginia Mountaineers,2022-12-31,91.96914067225495,included_game_day
+2023,277,West Virginia Mountaineers,2023-01-02,88.8951047175592,included_game_day
+2023,277,West Virginia Mountaineers,2023-01-07,75.97940488174294,included_game_day
+2023,277,West Virginia Mountaineers,2023-01-11,68.57310548257635,included_game_day
+2023,277,West Virginia Mountaineers,2023-01-14,72.19361315305636,included_game_day
+2023,277,West Virginia Mountaineers,2023-01-18,84.04912490218136,included_game_day
+2023,277,West Virginia Mountaineers,2023-01-21,76.02875829752101,included_game_day
+2023,277,West Virginia Mountaineers,2023-01-25,93.19057660831808,included_game_day
+2023,277,West Virginia Mountaineers,2023-01-28,92.03925873715512,included_game_day
+2023,277,West Virginia Mountaineers,2023-01-31,96.61256796702413,included_game_day
+2023,277,West Virginia Mountaineers,2023-02-04,123.18505157531504,included_game_day
+2023,277,West Virginia Mountaineers,2023-02-08,125.26760635087334,included_game_day
+2023,277,West Virginia Mountaineers,2023-02-11,94.34598823334564,included_game_day
+2023,277,West Virginia Mountaineers,2023-02-13,89.30175773619251,included_game_day
+2023,277,West Virginia Mountaineers,2023-02-18,78.9112603847107,included_game_day
+2023,277,West Virginia Mountaineers,2023-02-20,94.57033246267076,included_game_day
+2023,277,West Virginia Mountaineers,2023-02-25,102.79643263235302,included_game_day
+2023,277,West Virginia Mountaineers,2023-02-27,106.55700501153409,included_game_day
+2023,277,West Virginia Mountaineers,2023-03-04,113.2801073359734,included_game_day
+2023,277,West Virginia Mountaineers,2023-03-08,127.05090421307744,included_game_day
+2023,277,West Virginia Mountaineers,2023-03-09,111.20776567741326,included_game_day
+2023,277,West Virginia Mountaineers,2023-03-16,107.5730523771857,included_game_day
+2024,277,West Virginia Mountaineers,2023-11-06,5.0,included_game_day
+2024,277,West Virginia Mountaineers,2023-11-10,-7.300000000000001,included_game_day
+2024,277,West Virginia Mountaineers,2023-11-14,2.879999999999999,included_game_day
+2024,277,West Virginia Mountaineers,2023-11-20,-7.226700000000001,included_game_day
+2024,277,West Virginia Mountaineers,2023-11-22,-5.036600000000001,included_game_day
+2024,277,West Virginia Mountaineers,2023-11-26,-6.485918000000001,included_game_day
+2024,277,West Virginia Mountaineers,2023-12-01,-10.118294800000001,included_game_day
+2024,277,West Virginia Mountaineers,2023-12-06,-22.2608132282,included_game_day
+2024,277,West Virginia Mountaineers,2023-12-09,-14.47503487627,included_game_day
+2024,277,West Virginia Mountaineers,2023-12-16,-16.513069035583,included_game_day
+2024,277,West Virginia Mountaineers,2023-12-20,-17.544365898297904,included_game_day
+2024,277,West Virginia Mountaineers,2023-12-23,-11.342241620946327,included_game_day
+2024,277,West Virginia Mountaineers,2023-12-30,-1.5887530365522533,included_game_day
+2024,277,West Virginia Mountaineers,2024-01-06,-13.618785553074071,included_game_day
+2024,277,West Virginia Mountaineers,2024-01-09,-22.863172992294736,included_game_day
+2024,277,West Virginia Mountaineers,2024-01-13,-11.42552671096189,included_game_day
+2024,277,West Virginia Mountaineers,2024-01-17,-10.984407488246022,included_game_day
+2024,277,West Virginia Mountaineers,2024-01-20,5.435828259872105,included_game_day
+2024,277,West Virginia Mountaineers,2024-01-23,3.2696471637695446,included_game_day
+2024,277,West Virginia Mountaineers,2024-01-27,4.557683774901835,included_game_day
+2024,277,West Virginia Mountaineers,2024-01-31,16.274869622970535,included_game_day
+2024,277,West Virginia Mountaineers,2024-02-03,14.354767026307245,included_game_day
+2024,277,West Virginia Mountaineers,2024-02-10,-8.859059385431008,included_game_day
+2024,277,West Virginia Mountaineers,2024-02-12,-9.895059262240364,included_game_day
+2024,277,West Virginia Mountaineers,2024-02-17,-10.779235621611726,included_game_day
+2024,277,West Virginia Mountaineers,2024-02-20,5.800267962412288,included_game_day
+2024,277,West Virginia Mountaineers,2024-02-24,18.29454119550293,included_game_day
+2024,277,West Virginia Mountaineers,2024-02-26,23.388904647456933,included_game_day
+2024,277,West Virginia Mountaineers,2024-03-02,16.79144163120802,included_game_day
+2024,277,West Virginia Mountaineers,2024-03-06,11.13348159285273,included_game_day
+2024,277,West Virginia Mountaineers,2024-03-09,-14.468198270767646,included_game_day
+2024,277,West Virginia Mountaineers,2024-03-12,-6.949542161663947,included_game_day
+2025,277,West Virginia Mountaineers,2024-11-04,25.0,included_game_day
+2025,277,West Virginia Mountaineers,2024-11-08,28.1,included_game_day
+2025,277,West Virginia Mountaineers,2024-11-15,9.926000000000002,included_game_day
+2025,277,West Virginia Mountaineers,2024-11-20,46.766000000000005,included_game_day
+2025,277,West Virginia Mountaineers,2024-11-27,62.559307000000004,included_game_day
+2025,277,West Virginia Mountaineers,2024-11-28,54.97154793000001,included_game_day
+2025,277,West Virginia Mountaineers,2024-11-29,63.93679923500001,included_game_day
+2025,277,West Virginia Mountaineers,2024-12-06,74.85476013133001,included_game_day
+2025,277,West Virginia Mountaineers,2024-12-10,95.254378736282,included_game_day
+2025,277,West Virginia Mountaineers,2024-12-14,100.05187793533281,included_game_day
+2025,277,West Virginia Mountaineers,2024-12-22,100.89771961608653,included_game_day
+2025,277,West Virginia Mountaineers,2024-12-31,105.8467897848565,included_game_day
+2025,277,West Virginia Mountaineers,2025-01-04,112.83096561871938,included_game_day
+2025,277,West Virginia Mountaineers,2025-01-07,94.83188960319146,included_game_day
+2025,277,West Virginia Mountaineers,2025-01-12,99.16702131530636,included_game_day
+2025,277,West Virginia Mountaineers,2025-01-15,96.46092956636845,included_game_day
+2025,277,West Virginia Mountaineers,2025-01-18,109.80519700100064,included_game_day
+2025,277,West Virginia Mountaineers,2025-01-21,92.44420279335522,included_game_day
+2025,277,West Virginia Mountaineers,2025-01-25,76.26761479981016,included_game_day
+2025,277,West Virginia Mountaineers,2025-01-29,73.02432049133202,included_game_day
+2025,277,West Virginia Mountaineers,2025-02-02,87.3303967765175,included_game_day
+2025,277,West Virginia Mountaineers,2025-02-05,80.03778399928095,included_game_day
+2025,277,West Virginia Mountaineers,2025-02-08,83.6973060734344,included_game_day
+2025,277,West Virginia Mountaineers,2025-02-11,78.47149082355712,included_game_day
+2025,277,West Virginia Mountaineers,2025-02-15,83.32995049961606,included_game_day
+2025,277,West Virginia Mountaineers,2025-02-19,83.0392659830711,included_game_day
+2025,277,West Virginia Mountaineers,2025-02-22,72.94429315001067,included_game_day
+2025,277,West Virginia Mountaineers,2025-02-25,84.89290266564856,included_game_day
+2025,277,West Virginia Mountaineers,2025-03-01,74.46387079541927,included_game_day
+2025,277,West Virginia Mountaineers,2025-03-04,79.08362508616628,included_game_day
+2025,277,West Virginia Mountaineers,2025-03-08,78.29272015684822,included_game_day
+2025,277,West Virginia Mountaineers,2025-03-12,68.00269503487775,included_game_day
+2026,277,West Virginia Mountaineers,2025-11-04,13.0,included_game_day
+2026,277,West Virginia Mountaineers,2025-11-06,13.8,included_game_day
+2026,277,West Virginia Mountaineers,2025-11-09,29.92,included_game_day
+2026,277,West Virginia Mountaineers,2025-11-13,49.34,included_game_day
+2026,277,West Virginia Mountaineers,2025-11-17,57.39020000000001,included_game_day
+2026,277,West Virginia Mountaineers,2025-11-21,57.28108600000001,included_game_day
+2026,277,West Virginia Mountaineers,2025-11-23,42.596671400000005,included_game_day
+2026,277,West Virginia Mountaineers,2025-11-30,66.90627216,included_game_day
+2026,277,West Virginia Mountaineers,2025-12-03,86.89998973600001,included_game_day
+2026,277,West Virginia Mountaineers,2025-12-06,74.97776196029001,included_game_day
+2026,277,West Virginia Mountaineers,2025-12-09,87.38305316508881,included_game_day
+2026,277,West Virginia Mountaineers,2025-12-13,87.12620939939893,included_game_day
+2026,277,West Virginia Mountaineers,2025-12-22,89.07461970813432,included_game_day
+2026,277,West Virginia Mountaineers,2026-01-02,81.03793337910027,included_game_day
+2026,277,West Virginia Mountaineers,2026-01-06,80.01465403144981,included_game_day
+2026,277,West Virginia Mountaineers,2026-01-10,92.48055759979721,included_game_day
+2026,277,West Virginia Mountaineers,2026-01-13,73.5264318472884,included_game_day
+2026,277,West Virginia Mountaineers,2026-01-17,80.20919983028229,included_game_day
+2026,277,West Virginia Mountaineers,2026-01-21,90.00559920740746,included_game_day
+2026,277,West Virginia Mountaineers,2026-01-24,69.86018319620543,included_game_day
+2026,277,West Virginia Mountaineers,2026-01-27,67.73629933711233,included_game_day
+2026,277,West Virginia Mountaineers,2026-01-31,53.925662075362524,included_game_day
+2026,277,West Virginia Mountaineers,2026-02-05,63.470583366544275,included_game_day
+2026,277,West Virginia Mountaineers,2026-02-08,61.644256440163005,included_game_day
+2026,277,West Virginia Mountaineers,2026-02-14,71.39675593061118,included_game_day
+2026,277,West Virginia Mountaineers,2026-02-18,58.94567309974558,included_game_day
+2026,277,West Virginia Mountaineers,2026-02-21,56.96554788561293,included_game_day
+2026,277,West Virginia Mountaineers,2026-02-24,50.34779979054065,included_game_day
+2026,277,West Virginia Mountaineers,2026-02-28,62.42305540694082,included_game_day
+2026,277,West Virginia Mountaineers,2026-03-03,57.77614246947521,included_game_day
+2026,277,West Virginia Mountaineers,2026-03-06,70.69418219882864,included_game_day
+2026,277,West Virginia Mountaineers,2026-03-11,54.36917142266248,included_game_day
+2026,277,West Virginia Mountaineers,2026-04-02,62.56035285669195,included_game_day
+2026,277,West Virginia Mountaineers,2026-04-04,77.84785507580244,included_game_day
+2026,277,West Virginia Mountaineers,2026-04-05,91.30263679301247,included_game_day
+2027,277,West Virginia Mountaineers,2026-11-02,42.0,included_game_day
+2027,277,West Virginia Mountaineers,2026-11-06,69.6,included_game_day
+2027,277,West Virginia Mountaineers,2026-11-12,72.04509999999999,included_game_day
+2027,277,West Virginia Mountaineers,2026-11-17,74.03629,included_game_day
+2027,277,West Virginia Mountaineers,2026-11-18,72.67642099999999,included_game_day
+2027,277,West Virginia Mountaineers,2026-11-19,59.524599499999994,included_game_day

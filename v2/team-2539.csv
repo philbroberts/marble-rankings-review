@@ -1,0 +1,1157 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,2539,San Francisco,1987-11-28,-20.0,included_game_day
+1988,2539,San Francisco,1987-11-29,-17.2,included_game_day
+1988,2539,San Francisco,1987-12-03,-5.68,included_game_day
+1988,2539,San Francisco,1987-12-10,14.4174,included_game_day
+1988,2539,San Francisco,1987-12-12,11.910104,included_game_day
+1988,2539,San Francisco,1987-12-19,-8.06599259,included_game_day
+1988,2539,San Francisco,1987-12-21,-22.864808828500003,included_game_day
+1988,2539,San Francisco,1987-12-22,-4.0029838606500014,included_game_day
+1988,2539,San Francisco,1987-12-28,-20.662992352785,included_game_day
+1988,2539,San Francisco,1987-12-29,-16.181489505506498,included_game_day
+1988,2539,San Francisco,1988-01-04,-3.7650202487770557,included_game_day
+1988,2539,San Francisco,1988-01-07,29.871211838329828,included_game_day
+1988,2539,San Francisco,1988-01-15,28.94784276814319,included_game_day
+1988,2539,San Francisco,1988-01-16,30.23039067946053,included_game_day
+1988,2539,San Francisco,1988-01-21,44.6584083101655,included_game_day
+1988,2539,San Francisco,1988-01-23,27.107999412623727,included_game_day
+1988,2539,San Francisco,1988-01-27,29.469770983763066,included_game_day
+1988,2539,San Francisco,1988-01-30,27.359188240674538,included_game_day
+1988,2539,San Francisco,1988-02-05,15.735286149058846,included_game_day
+1988,2539,San Francisco,1988-02-06,11.545304784021706,included_game_day
+1988,2539,San Francisco,1988-02-12,-7.806680308008005,included_game_day
+1988,2539,San Francisco,1988-02-13,0.11426478064856482,included_game_day
+1988,2539,San Francisco,1988-02-19,-8.659765527302428,included_game_day
+1988,2539,San Francisco,1988-02-20,-7.350686203894796,included_game_day
+1988,2539,San Francisco,1988-02-25,-9.954526928405658,included_game_day
+1988,2539,San Francisco,1988-02-27,-16.702700661442062,included_game_day
+1988,2539,San Francisco,1988-03-05,-8.868696414697311,included_game_day
+1989,2539,San Francisco,1988-11-25,10.0,included_game_day
+1989,2539,San Francisco,1988-11-26,23.8,included_game_day
+1989,2539,San Francisco,1988-11-30,24.33,included_game_day
+1989,2539,San Francisco,1988-12-03,15.390649999999997,included_game_day
+1989,2539,San Francisco,1988-12-06,-10.499015000000004,included_game_day
+1989,2539,San Francisco,1988-12-19,-1.203613500000003,included_game_day
+1989,2539,San Francisco,1988-12-20,3.806025502649997,included_game_day
+1989,2539,San Francisco,1988-12-23,-17.98890765631592,included_game_day
+1989,2539,San Francisco,1988-12-28,-12.317680216523579,included_game_day
+1989,2539,San Francisco,1988-12-29,-35.03448833622122,included_game_day
+1989,2539,San Francisco,1989-01-07,-27.230252317049562,included_game_day
+1989,2539,San Francisco,1989-01-11,-37.54061209815847,included_game_day
+1989,2539,San Francisco,1989-01-12,-45.544182370468256,included_game_day
+1989,2539,San Francisco,1989-01-20,-44.78269721809113,included_game_day
+1989,2539,San Francisco,1989-01-21,-46.08566344666546,included_game_day
+1989,2539,San Francisco,1989-01-27,-16.12803642952492,included_game_day
+1989,2539,San Francisco,1989-01-28,-21.44149641016586,included_game_day
+1989,2539,San Francisco,1989-02-03,-13.320404992586777,included_game_day
+1989,2539,San Francisco,1989-02-04,-5.421207394244929,included_game_day
+1989,2539,San Francisco,1989-02-10,-2.1018493155714504,included_game_day
+1989,2539,San Francisco,1989-02-11,-11.918164871885416,included_game_day
+1989,2539,San Francisco,1989-02-15,-47.11793466320496,included_game_day
+1989,2539,San Francisco,1989-02-18,-40.2777504962606,included_game_day
+1989,2539,San Francisco,1989-02-24,-34.761055649930476,included_game_day
+1989,2539,San Francisco,1989-02-25,-10.115923160333907,included_game_day
+1989,2539,San Francisco,1989-03-04,-15.038205293489515,included_game_day
+1990,2539,San Francisco,1989-11-25,5.0,included_game_day
+1990,2539,San Francisco,1989-11-28,-12.5,included_game_day
+1990,2539,San Francisco,1989-12-02,-29.79,included_game_day
+1990,2539,San Francisco,1989-12-05,-14.1048,included_game_day
+1990,2539,San Francisco,1989-12-07,-20.373142,included_game_day
+1990,2539,San Francisco,1989-12-16,-33.2466278,included_game_day
+1990,2539,San Francisco,1989-12-19,-38.47063902,included_game_day
+1990,2539,San Francisco,1989-12-22,-30.964474938000002,included_game_day
+1990,2539,San Francisco,1989-12-23,-40.056978305853,included_game_day
+1990,2539,San Francisco,1989-12-28,-38.8842873524335,included_game_day
+1990,2539,San Francisco,1989-12-29,-36.72619987198016,included_game_day
+1990,2539,San Francisco,1989-12-30,-45.534820971103755,included_game_day
+1990,2539,San Francisco,1990-01-03,-33.17070197561671,included_game_day
+1990,2539,San Francisco,1990-01-06,-37.71157093341549,included_game_day
+1990,2539,San Francisco,1990-01-11,-38.92421976800666,included_game_day
+1990,2539,San Francisco,1990-01-13,-41.76195887888072,included_game_day
+1990,2539,San Francisco,1990-01-19,-47.26935290023958,included_game_day
+1990,2539,San Francisco,1990-01-20,-36.616047036548956,included_game_day
+1990,2539,San Francisco,1990-01-27,-36.78097194294193,included_game_day
+1990,2539,San Francisco,1990-02-03,-41.033478869784496,included_game_day
+1990,2539,San Francisco,1990-02-04,-64.65851563176788,included_game_day
+1990,2539,San Francisco,1990-02-09,-61.55854504135459,included_game_day
+1990,2539,San Francisco,1990-02-10,-84.11012402196107,included_game_day
+1990,2539,San Francisco,1990-02-15,-83.65222821871689,included_game_day
+1990,2539,San Francisco,1990-02-17,-72.72225828544391,included_game_day
+1990,2539,San Francisco,1990-02-23,-79.61126158001326,included_game_day
+1990,2539,San Francisco,1990-02-24,-91.44397951952038,included_game_day
+1990,2539,San Francisco,1990-03-03,-86.57267859948558,included_game_day
+1991,2539,San Francisco,1990-11-23,2.0,included_game_day
+1991,2539,San Francisco,1990-11-24,-8.8,included_game_day
+1991,2539,San Francisco,1990-12-01,-35.32,included_game_day
+1991,2539,San Francisco,1990-12-05,-60.930440000000004,included_game_day
+1991,2539,San Francisco,1990-12-08,-47.498116,included_game_day
+1991,2539,San Francisco,1990-12-15,-54.91433724,included_game_day
+1991,2539,San Francisco,1990-12-18,-40.42280508,included_game_day
+1991,2539,San Francisco,1990-12-21,-36.631077892,included_game_day
+1991,2539,San Francisco,1990-12-22,-27.4865307636,included_game_day
+1991,2539,San Francisco,1990-12-28,-34.015337479847,included_game_day
+1991,2539,San Francisco,1990-12-29,-35.78329309925934,included_game_day
+1991,2539,San Francisco,1991-01-02,-37.47209616135956,included_game_day
+1991,2539,San Francisco,1991-01-05,-35.391008335071504,included_game_day
+1991,2539,San Francisco,1991-01-11,-35.18335292516793,included_game_day
+1991,2539,San Francisco,1991-01-12,-21.138470462529728,included_game_day
+1991,2539,San Francisco,1991-01-17,-40.953958895909665,included_game_day
+1991,2539,San Francisco,1991-01-19,-52.2966087083234,included_game_day
+1991,2539,San Francisco,1991-01-25,-67.74254196543998,included_game_day
+1991,2539,San Francisco,1991-01-26,-98.63247430217348,included_game_day
+1991,2539,San Francisco,1991-02-01,-94.34442017156027,included_game_day
+1991,2539,San Francisco,1991-02-02,-96.36654556750801,included_game_day
+1991,2539,San Francisco,1991-02-09,-88.88301470858994,included_game_day
+1991,2539,San Francisco,1991-02-15,-67.92584973837718,included_game_day
+1991,2539,San Francisco,1991-02-16,-74.91305180579198,included_game_day
+1991,2539,San Francisco,1991-02-21,-91.91096855750024,included_game_day
+1991,2539,San Francisco,1991-02-23,-101.21633294189294,included_game_day
+1991,2539,San Francisco,1991-03-02,-78.888570721267,included_game_day
+1991,2539,San Francisco,1991-03-03,-70.73634891035944,included_game_day
+1992,2539,San Francisco,1991-11-25,-6.0,included_game_day
+1992,2539,San Francisco,1991-11-29,-37.2,included_game_day
+1992,2539,San Francisco,1991-11-30,-30.152700000000003,included_game_day
+1992,2539,San Francisco,1991-12-03,-14.300980000000003,included_game_day
+1992,2539,San Francisco,1991-12-06,10.200817999999998,included_game_day
+1992,2539,San Francisco,1991-12-07,17.5707362,included_game_day
+1992,2539,San Francisco,1991-12-10,11.61893168,included_game_day
+1992,2539,San Francisco,1991-12-14,21.384192212,included_game_day
+1992,2539,San Francisco,1991-12-21,17.6074305482,included_game_day
+1992,2539,San Francisco,1991-12-23,25.32598653988,included_game_day
+1992,2539,San Francisco,1991-12-30,0.5640265507109987,included_game_day
+1992,2539,San Francisco,1992-01-02,21.9240691414439,included_game_day
+1992,2539,San Francisco,1992-01-04,23.027015848319348,included_game_day
+1992,2539,San Francisco,1992-01-11,21.22156963540909,included_game_day
+1992,2539,San Francisco,1992-01-17,8.815882902282702,included_game_day
+1992,2539,San Francisco,1992-01-18,5.249523436444562,included_game_day
+1992,2539,San Francisco,1992-01-24,1.3970953988250123,included_game_day
+1992,2539,San Francisco,1992-01-25,10.029573945544689,included_game_day
+1992,2539,San Francisco,1992-01-31,-7.064443217079569,included_game_day
+1992,2539,San Francisco,1992-02-01,-8.14974920744595,included_game_day
+1992,2539,San Francisco,1992-02-06,-14.629396392920109,included_game_day
+1992,2539,San Francisco,1992-02-08,-10.388044208364589,included_game_day
+1992,2539,San Francisco,1992-02-14,-24.994962460720174,included_game_day
+1992,2539,San Francisco,1992-02-15,-16.340996842852434,included_game_day
+1992,2539,San Francisco,1992-02-22,-9.522772178452101,included_game_day
+1992,2539,San Francisco,1992-02-27,-13.901810699877029,included_game_day
+1992,2539,San Francisco,1992-02-29,7.0102970907248086,included_game_day
+1992,2539,San Francisco,1992-03-07,21.732442415870025,included_game_day
+1992,2539,San Francisco,1992-03-08,28.237511350438545,included_game_day
+1993,2539,San Francisco,1992-12-04,26.1,included_game_day
+1993,2539,San Francisco,1992-12-05,51.53,included_game_day
+1993,2539,San Francisco,1992-12-07,36.467,included_game_day
+1993,2539,San Francisco,1992-12-09,36.3792,included_game_day
+1993,2539,San Francisco,1992-12-12,7.051079999999999,included_game_day
+1993,2539,San Francisco,1992-12-19,5.079948319999999,included_game_day
+1993,2539,San Francisco,1992-12-23,-0.9562354767800008,included_game_day
+1993,2539,San Francisco,1992-12-28,8.758804809897999,included_game_day
+1993,2539,San Francisco,1992-12-29,9.5862649919082,included_game_day
+1993,2539,San Francisco,1992-12-30,0.5868590594835794,included_game_day
+1993,2539,San Francisco,1993-01-02,-1.3511833334647783,included_game_day
+1993,2539,San Francisco,1993-01-09,-1.0606004245458804,included_game_day
+1993,2539,San Francisco,1993-01-14,-13.895792179375436,included_game_day
+1993,2539,San Francisco,1993-01-16,-4.237726465512839,included_game_day
+1993,2539,San Francisco,1993-01-22,-8.877011922943206,included_game_day
+1993,2539,San Francisco,1993-01-23,6.974986181821318,included_game_day
+1993,2539,San Francisco,1993-01-26,-16.149763259973778,included_game_day
+1993,2539,San Francisco,1993-01-30,-5.124674964232469,included_game_day
+1993,2539,San Francisco,1993-01-31,-3.2156118913133254,included_game_day
+1993,2539,San Francisco,1993-02-05,12.534626869256694,included_game_day
+1993,2539,San Francisco,1993-02-06,14.391084626295125,included_game_day
+1993,2539,San Francisco,1993-02-11,-2.1237491680741307,included_game_day
+1993,2539,San Francisco,1993-02-13,-2.5233264725723643,included_game_day
+1993,2539,San Francisco,1993-02-17,-16.554113953119952,included_game_day
+1993,2539,San Francisco,1993-02-20,-19.778743937558023,included_game_day
+1993,2539,San Francisco,1993-02-26,-20.278520524999724,included_game_day
+1993,2539,San Francisco,1993-02-27,-22.231807564032916,included_game_day
+1993,2539,San Francisco,1993-03-06,-20.032874852177354,included_game_day
+1993,2539,San Francisco,1993-03-07,-38.70500639979612,included_game_day
+1994,2539,San Francisco,1993-11-26,-1.0,included_game_day
+1994,2539,San Francisco,1993-11-27,44.4,included_game_day
+1994,2539,San Francisco,1993-12-03,70.65,included_game_day
+1994,2539,San Francisco,1993-12-04,89.48500000000001,included_game_day
+1994,2539,San Francisco,1993-12-11,91.01579513000001,included_game_day
+1994,2539,San Francisco,1993-12-22,104.14603981517001,included_game_day
+1994,2539,San Francisco,1993-12-28,79.68179446397201,included_game_day
+1994,2539,San Francisco,1994-01-02,72.59029307602881,included_game_day
+1994,2539,San Francisco,1994-01-08,90.87800850304198,included_game_day
+1994,2539,San Francisco,1994-01-13,77.86970203310462,included_game_day
+1994,2539,San Francisco,1994-01-15,71.91339792642496,included_game_day
+1994,2539,San Francisco,1994-01-20,67.87209371314509,included_game_day
+1994,2539,San Francisco,1994-01-22,65.87302723612845,included_game_day
+1994,2539,San Francisco,1994-01-26,59.87104817802169,included_game_day
+1994,2539,San Francisco,1994-01-29,56.069464931536274,included_game_day
+1994,2539,San Francisco,1994-02-04,52.88470311942635,included_game_day
+1994,2539,San Francisco,1994-02-05,54.799434549299384,included_game_day
+1994,2539,San Francisco,1994-02-10,37.331219693197816,included_game_day
+1994,2539,San Francisco,1994-02-12,33.82001244911764,included_game_day
+1994,2539,San Francisco,1994-02-18,13.245763900724853,included_game_day
+1994,2539,San Francisco,1994-02-19,13.301053389073294,included_game_day
+1994,2539,San Francisco,1994-02-24,14.785361675774865,included_game_day
+1994,2539,San Francisco,1994-02-26,15.352849638173815,included_game_day
+1994,2539,San Francisco,1994-02-28,5.286033939108433,included_game_day
+1994,2539,San Francisco,1994-03-05,12.49399674204106,included_game_day
+1994,2539,San Francisco,1994-03-06,17.667089196799473,included_game_day
+1995,2539,San Francisco,1994-11-16,9.0,included_game_day
+1995,2539,San Francisco,1994-11-17,-0.8000000000000007,included_game_day
+1995,2539,San Francisco,1994-11-27,-9.72,included_game_day
+1995,2539,San Francisco,1994-11-28,9.761999999999999,included_game_day
+1995,2539,San Francisco,1994-12-02,7.585799999999999,included_game_day
+1995,2539,San Francisco,1994-12-03,5.996219999999999,included_game_day
+1995,2539,San Francisco,1994-12-05,-22.595402,included_game_day
+1995,2539,San Francisco,1994-12-10,-21.1511858,included_game_day
+1995,2539,San Francisco,1994-12-16,-48.86770102,included_game_day
+1995,2539,San Francisco,1994-12-21,-20.7007317373,included_game_day
+1995,2539,San Francisco,1994-12-23,-10.33674420793,included_game_day
+1995,2539,San Francisco,1995-01-03,-4.9987798151308365,included_game_day
+1995,2539,San Francisco,1995-01-07,-14.74344822602686,included_game_day
+1995,2539,San Francisco,1995-01-12,-17.686721060822023,included_game_day
+1995,2539,San Francisco,1995-01-14,-3.4240663095260313,included_game_day
+1995,2539,San Francisco,1995-01-20,12.249255065964569,included_game_day
+1995,2539,San Francisco,1995-01-21,-13.561419156195726,included_game_day
+1995,2539,San Francisco,1995-01-23,-23.643562829644843,included_game_day
+1995,2539,San Francisco,1995-01-28,-24.215721386265113,included_game_day
+1995,2539,San Francisco,1995-02-02,-35.667420830618454,included_game_day
+1995,2539,San Francisco,1995-02-04,-43.61862496295673,included_game_day
+1995,2539,San Francisco,1995-02-10,-46.29703148636963,included_game_day
+1995,2539,San Francisco,1995-02-11,-65.4505725235797,included_game_day
+1995,2539,San Francisco,1995-02-16,-66.38379694430046,included_game_day
+1995,2539,San Francisco,1995-02-18,-63.403735419674405,included_game_day
+1995,2539,San Francisco,1995-02-23,-85.88935509816751,included_game_day
+1995,2539,San Francisco,1995-02-25,-75.79268463688105,included_game_day
+1995,2539,San Francisco,1995-03-04,-92.75671527537037,included_game_day
+1996,2539,San Francisco,1995-11-24,-6.0,included_game_day
+1996,2539,San Francisco,1995-11-28,-0.7700000000000005,included_game_day
+1996,2539,San Francisco,1995-12-01,9.568999999999999,included_game_day
+1996,2539,San Francisco,1995-12-02,33.8121,included_game_day
+1996,2539,San Francisco,1995-12-05,20.65089,included_game_day
+1996,2539,San Francisco,1995-12-09,11.226742000000002,included_game_day
+1996,2539,San Francisco,1995-12-22,22.468480290000002,included_game_day
+1996,2539,San Francisco,1995-12-27,11.249611708921002,included_game_day
+1996,2539,San Francisco,1995-12-28,15.431074151676231,included_game_day
+1996,2539,San Francisco,1995-12-30,-11.83666821934409,included_game_day
+1996,2539,San Francisco,1996-01-06,-22.247922909291738,included_game_day
+1996,2539,San Francisco,1996-01-11,-19.890456492095986,included_game_day
+1996,2539,San Francisco,1996-01-12,-22.313440371578086,included_game_day
+1996,2539,San Francisco,1996-01-18,-7.736694859004302,included_game_day
+1996,2539,San Francisco,1996-01-20,-4.595248099770057,included_game_day
+1996,2539,San Francisco,1996-01-27,0.744077773561286,included_game_day
+1996,2539,San Francisco,1996-02-01,-10.681051557556163,included_game_day
+1996,2539,San Francisco,1996-02-03,-7.683996887698121,included_game_day
+1996,2539,San Francisco,1996-02-09,-1.2863531518116869,included_game_day
+1996,2539,San Francisco,1996-02-10,-17.09453095911773,included_game_day
+1996,2539,San Francisco,1996-02-15,-26.831430569940206,included_game_day
+1996,2539,San Francisco,1996-02-17,-2.1229187082566874,included_game_day
+1996,2539,San Francisco,1996-02-23,7.815164388269167,included_game_day
+1996,2539,San Francisco,1996-02-24,-10.266784933294026,included_game_day
+1996,2539,San Francisco,1996-03-02,-15.658059564946376,included_game_day
+1997,2539,San Francisco,1996-11-30,-6.464,included_game_day
+1997,2539,San Francisco,1996-12-06,-9.663900000000002,included_game_day
+1997,2539,San Francisco,1996-12-07,-2.237470000000002,included_game_day
+1997,2539,San Francisco,1996-12-11,-10.753383000000001,included_game_day
+1997,2539,San Francisco,1996-12-14,-12.9448647,included_game_day
+1997,2539,San Francisco,1996-12-20,-15.845846835,included_game_day
+1997,2539,San Francisco,1996-12-23,-19.358974852099998,included_game_day
+1997,2539,San Francisco,1996-12-29,-24.824965362168,included_game_day
+1997,2539,San Francisco,1997-01-04,-7.568676265213302,included_game_day
+1997,2539,San Francisco,1997-01-10,3.1388374335965477,included_game_day
+1997,2539,San Francisco,1997-01-11,4.611095325724018,included_game_day
+1997,2539,San Francisco,1997-01-16,-6.892820276132578,included_game_day
+1997,2539,San Francisco,1997-01-18,-4.279799593505942,included_game_day
+1997,2539,San Francisco,1997-01-24,-14.307148300169848,included_game_day
+1997,2539,San Francisco,1997-01-25,-8.014586125248353,included_game_day
+1997,2539,San Francisco,1997-01-30,-4.980536385311158,included_game_day
+1997,2539,San Francisco,1997-02-01,5.749016066215054,included_game_day
+1997,2539,San Francisco,1997-02-05,6.164478353329256,included_game_day
+1997,2539,San Francisco,1997-02-08,3.496848183020619,included_game_day
+1997,2539,San Francisco,1997-02-13,6.5823004836205605,included_game_day
+1997,2539,San Francisco,1997-02-15,7.323924428034939,included_game_day
+1997,2539,San Francisco,1997-02-20,9.834978505631861,included_game_day
+1997,2539,San Francisco,1997-02-22,8.28094174908972,included_game_day
+1997,2539,San Francisco,1997-03-01,13.584303075118237,included_game_day
+1997,2539,San Francisco,1997-03-02,17.47067349139137,included_game_day
+1997,2539,San Francisco,1997-03-03,13.600029830371318,included_game_day
+1998,2539,San Francisco,1997-11-15,19.0,included_game_day
+1998,2539,San Francisco,1997-11-22,-2.0100000000000016,included_game_day
+1998,2539,San Francisco,1997-11-25,21.781,included_game_day
+1998,2539,San Francisco,1997-12-02,23.5143,included_game_day
+1998,2539,San Francisco,1997-12-05,62.39143,included_game_day
+1998,2539,San Francisco,1997-12-06,61.908481657,included_game_day
+1998,2539,San Francisco,1997-12-12,77.3245145573,included_game_day
+1998,2539,San Francisco,1997-12-13,57.515360512650005,included_game_day
+1998,2539,San Francisco,1997-12-20,55.90070806238501,included_game_day
+1998,2539,San Francisco,1997-12-22,43.17797346474651,included_game_day
+1998,2539,San Francisco,1997-12-30,53.47131599934093,included_game_day
+1998,2539,San Francisco,1998-01-08,55.23252659809573,included_game_day
+1998,2539,San Francisco,1998-01-10,31.24707635872226,included_game_day
+1998,2539,San Francisco,1998-01-16,41.82574642218478,included_game_day
+1998,2539,San Francisco,1998-01-17,32.93692600957313,included_game_day
+1998,2539,San Francisco,1998-01-22,27.209663556455805,included_game_day
+1998,2539,San Francisco,1998-01-24,42.627853593961945,included_game_day
+1998,2539,San Francisco,1998-01-29,45.88438430847942,included_game_day
+1998,2539,San Francisco,1998-01-31,37.92334867621946,included_game_day
+1998,2539,San Francisco,1998-02-06,44.5545201704115,included_game_day
+1998,2539,San Francisco,1998-02-07,33.72599385366506,included_game_day
+1998,2539,San Francisco,1998-02-13,31.245545523437187,included_game_day
+1998,2539,San Francisco,1998-02-14,60.10671307701642,included_game_day
+1998,2539,San Francisco,1998-02-20,75.6389294893545,included_game_day
+1998,2539,San Francisco,1998-02-21,86.34486674750569,included_game_day
+1998,2539,San Francisco,1998-02-28,92.73909649683155,included_game_day
+1998,2539,San Francisco,1998-03-01,92.04232939352427,included_game_day
+1998,2539,San Francisco,1998-03-02,103.97299051652426,included_game_day
+1998,2539,San Francisco,1998-03-12,88.34446225954034,included_game_day
+1999,2539,San Francisco,1998-11-18,2.3,included_game_day
+1999,2539,San Francisco,1998-11-23,6.8934,included_game_day
+1999,2539,San Francisco,1998-11-26,0.18405999999999967,included_game_day
+1999,2539,San Francisco,1998-11-28,18.538302599999998,included_game_day
+1999,2539,San Francisco,1998-12-01,19.299472339999998,included_game_day
+1999,2539,San Francisco,1998-12-04,30.070232645999997,included_game_day
+1999,2539,San Francisco,1998-12-05,32.2596512814,included_game_day
+1999,2539,San Francisco,1998-12-08,15.572569179259997,included_game_day
+1999,2539,San Francisco,1998-12-12,-5.632230868666003,included_game_day
+1999,2539,San Francisco,1998-12-20,-45.8760471029254,included_game_day
+1999,2539,San Francisco,1998-12-23,-55.958849523962854,included_game_day
+1999,2539,San Francisco,1998-12-27,-62.85803641868199,included_game_day
+1999,2539,San Francisco,1998-12-29,-69.10015978481465,included_game_day
+1999,2539,San Francisco,1998-12-30,-51.82830695409169,included_game_day
+1999,2539,San Francisco,1999-01-08,-73.90022799289088,included_game_day
+1999,2539,San Francisco,1999-01-09,-73.34344968649778,included_game_day
+1999,2539,San Francisco,1999-01-15,-84.11727864802741,included_game_day
+1999,2539,San Francisco,1999-01-16,-79.23790709511745,included_game_day
+1999,2539,San Francisco,1999-01-22,-72.76968649404535,included_game_day
+1999,2539,San Francisco,1999-01-23,-68.39921019439612,included_game_day
+1999,2539,San Francisco,1999-01-28,-77.90282915467674,included_game_day
+1999,2539,San Francisco,1999-01-30,-81.42033399404164,included_game_day
+1999,2539,San Francisco,1999-02-03,-76.05189325847034,included_game_day
+1999,2539,San Francisco,1999-02-06,-81.7571406700133,included_game_day
+1999,2539,San Francisco,1999-02-12,-61.715090429005514,included_game_day
+1999,2539,San Francisco,1999-02-13,-50.79558533982842,included_game_day
+1999,2539,San Francisco,1999-02-18,-43.910887007482984,included_game_day
+1999,2539,San Francisco,1999-02-20,-31.86494035219381,included_game_day
+1999,2539,San Francisco,1999-02-27,-31.631101093162243,included_game_day
+2000,2539,San Francisco,1999-11-17,-7.0,included_game_day
+2000,2539,San Francisco,1999-11-21,3.9000000000000004,included_game_day
+2000,2539,San Francisco,1999-11-28,8.405899999999999,included_game_day
+2000,2539,San Francisco,1999-11-30,32.64851,included_game_day
+2000,2539,San Francisco,1999-12-03,53.745907,included_game_day
+2000,2539,San Francisco,1999-12-04,82.60489630000001,included_game_day
+2000,2539,San Francisco,1999-12-08,89.30938377000001,included_game_day
+2000,2539,San Francisco,1999-12-14,77.70676495113001,included_game_day
+2000,2539,San Francisco,1999-12-20,74.83018992433291,included_game_day
+2000,2539,San Francisco,1999-12-30,69.78073602302031,included_game_day
+2000,2539,San Francisco,2000-01-03,87.44976573864227,included_game_day
+2000,2539,San Francisco,2000-01-07,77.52024736569909,included_game_day
+2000,2539,San Francisco,2000-01-13,59.71989707493696,included_game_day
+2000,2539,San Francisco,2000-01-15,46.30777755761219,included_game_day
+2000,2539,San Francisco,2000-01-21,39.41342952138993,included_game_day
+2000,2539,San Francisco,2000-01-22,36.437389373063716,included_game_day
+2000,2539,San Francisco,2000-01-28,35.05655725440275,included_game_day
+2000,2539,San Francisco,2000-01-29,29.796984552298,included_game_day
+2000,2539,San Francisco,2000-02-04,27.54571006475571,included_game_day
+2000,2539,San Francisco,2000-02-05,22.282910378093465,included_game_day
+2000,2539,San Francisco,2000-02-10,36.07267062876367,included_game_day
+2000,2539,San Francisco,2000-02-12,34.72295482170355,included_game_day
+2000,2539,San Francisco,2000-02-16,27.819162482107544,included_game_day
+2000,2539,San Francisco,2000-02-18,34.296128610430735,included_game_day
+2000,2539,San Francisco,2000-02-25,42.49543487414928,included_game_day
+2000,2539,San Francisco,2000-02-27,39.77514217561771,included_game_day
+2000,2539,San Francisco,2000-03-04,27.22040049774455,included_game_day
+2001,2539,San Francisco,2000-11-18,-11.0,included_game_day
+2001,2539,San Francisco,2000-11-21,-4.79,included_game_day
+2001,2539,San Francisco,2000-11-24,-7.02,included_game_day
+2001,2539,San Francisco,2000-11-25,-7.8381,included_game_day
+2001,2539,San Francisco,2000-11-26,-12.42829,included_game_day
+2001,2539,San Francisco,2000-11-30,-0.4105610000000013,included_game_day
+2001,2539,San Francisco,2000-12-02,1.6639180999999983,included_game_day
+2001,2539,San Francisco,2000-12-05,-19.74200854,included_game_day
+2001,2539,San Francisco,2000-12-09,-17.893020686,included_game_day
+2001,2539,San Francisco,2000-12-19,-18.394748477500002,included_game_day
+2001,2539,San Francisco,2000-12-23,-30.731563347479103,included_game_day
+2001,2539,San Francisco,2000-12-31,-35.64964054421482,included_game_day
+2001,2539,San Francisco,2001-01-02,-39.13670909715493,included_game_day
+2001,2539,San Francisco,2001-01-12,-51.72459006362176,included_game_day
+2001,2539,San Francisco,2001-01-13,-53.12049043728738,included_game_day
+2001,2539,San Francisco,2001-01-18,-67.68810621399427,included_game_day
+2001,2539,San Francisco,2001-01-20,-67.54955458081956,included_game_day
+2001,2539,San Francisco,2001-01-26,-60.559155935173564,included_game_day
+2001,2539,San Francisco,2001-01-27,-59.17840564461762,included_game_day
+2001,2539,San Francisco,2001-01-31,-52.116309424992295,included_game_day
+2001,2539,San Francisco,2001-02-03,-47.466632449292035,included_game_day
+2001,2539,San Francisco,2001-02-09,-28.607839302407815,included_game_day
+2001,2539,San Francisco,2001-02-11,-26.94669595126971,included_game_day
+2001,2539,San Francisco,2001-02-16,-39.508691972783474,included_game_day
+2001,2539,San Francisco,2001-02-17,-37.71622380643259,included_game_day
+2001,2539,San Francisco,2001-02-23,-24.832390100414123,included_game_day
+2001,2539,San Francisco,2001-02-24,-32.07022183880511,included_game_day
+2001,2539,San Francisco,2001-03-03,-44.031468675944666,included_game_day
+2002,2539,San Francisco Dons,2001-11-16,-11.0,included_game_day
+2002,2539,San Francisco Dons,2001-11-19,18.7,included_game_day
+2002,2539,San Francisco Dons,2001-11-24,-6.170000000000002,included_game_day
+2002,2539,San Francisco Dons,2001-11-28,-28.146600000000003,included_game_day
+2002,2539,San Francisco Dons,2001-12-01,-38.7569,included_game_day
+2002,2539,San Francisco Dons,2001-12-05,-38.587217,included_game_day
+2002,2539,San Francisco Dons,2001-12-15,-39.8287467022,included_game_day
+2002,2539,San Francisco Dons,2001-12-18,-45.261562978149996,included_game_day
+2002,2539,San Francisco Dons,2001-12-20,-36.3162865236232,included_game_day
+2002,2539,San Francisco Dons,2002-01-02,-38.05843425214056,included_game_day
+2002,2539,San Francisco Dons,2002-01-05,-41.7009399037032,included_game_day
+2002,2539,San Francisco Dons,2002-01-11,-34.67007543990088,included_game_day
+2002,2539,San Francisco Dons,2002-01-12,-37.95594944595089,included_game_day
+2002,2539,San Francisco Dons,2002-01-16,-18.30867444355169,included_game_day
+2002,2539,San Francisco Dons,2002-01-19,-8.59085444163233,included_game_day
+2002,2539,San Francisco Dons,2002-01-24,-13.346554380884564,included_game_day
+2002,2539,San Francisco Dons,2002-01-26,-6.792530644355409,included_game_day
+2002,2539,San Francisco Dons,2002-02-01,8.049733812968691,included_game_day
+2002,2539,San Francisco Dons,2002-02-02,21.150334888726398,included_game_day
+2002,2539,San Francisco Dons,2002-02-08,21.7735325199138,included_game_day
+2002,2539,San Francisco Dons,2002-02-09,27.028129521361734,included_game_day
+2002,2539,San Francisco Dons,2002-02-14,15.398927563862006,included_game_day
+2002,2539,San Francisco Dons,2002-02-16,-15.334695473915534,included_game_day
+2002,2539,San Francisco Dons,2002-02-22,-20.74576250556591,included_game_day
+2002,2539,San Francisco Dons,2002-02-23,-15.036920230051729,included_game_day
+2002,2539,San Francisco Dons,2002-03-02,-14.652263060766078,included_game_day
+2003,2539,San Francisco Dons,2002-11-23,-23.0,included_game_day
+2003,2539,San Francisco Dons,2002-11-26,-26.6,included_game_day
+2003,2539,San Francisco Dons,2002-11-30,-43.876000000000005,included_game_day
+2003,2539,San Francisco Dons,2002-12-02,-32.1584,included_game_day
+2003,2539,San Francisco Dons,2002-12-04,-36.79686,included_game_day
+2003,2539,San Francisco Dons,2002-12-07,-37.2881335,included_game_day
+2003,2539,San Francisco Dons,2002-12-14,-51.865317465000004,included_game_day
+2003,2539,San Francisco Dons,2002-12-23,-29.700981020127003,included_game_day
+2003,2539,San Francisco Dons,2002-12-28,-18.335919468114305,included_game_day
+2003,2539,San Francisco Dons,2002-12-30,-17.921806815176787,included_game_day
+2003,2539,San Francisco Dons,2003-01-02,-19.154130289727085,included_game_day
+2003,2539,San Francisco Dons,2003-01-04,5.117209130444294,included_game_day
+2003,2539,San Francisco Dons,2003-01-11,-3.3388046245475387,included_game_day
+2003,2539,San Francisco Dons,2003-01-17,4.784072734669708,included_game_day
+2003,2539,San Francisco Dons,2003-01-19,-0.3449651081171261,included_game_day
+2003,2539,San Francisco Dons,2003-01-22,5.046996285360858,included_game_day
+2003,2539,San Francisco Dons,2003-01-25,4.37473714481912,included_game_day
+2003,2539,San Francisco Dons,2003-01-31,11.26558054206916,included_game_day
+2003,2539,San Francisco Dons,2003-02-01,21.405879764054717,included_game_day
+2003,2539,San Francisco Dons,2003-02-08,25.210716050840787,included_game_day
+2003,2539,San Francisco Dons,2003-02-13,38.0841598025884,included_game_day
+2003,2539,San Francisco Dons,2003-02-15,37.70183001217916,included_game_day
+2003,2539,San Francisco Dons,2003-02-21,38.64137563458472,included_game_day
+2003,2539,San Francisco Dons,2003-02-22,18.587327018013116,included_game_day
+2003,2539,San Francisco Dons,2003-02-28,21.787360686133,included_game_day
+2003,2539,San Francisco Dons,2003-03-01,31.96129887336988,included_game_day
+2003,2539,San Francisco Dons,2003-03-08,35.607454420387484,included_game_day
+2003,2539,San Francisco Dons,2003-03-09,33.24557371750042,included_game_day
+2004,2539,San Francisco Dons,2003-11-17,14.0,included_game_day
+2004,2539,San Francisco Dons,2003-11-18,-4.600000000000001,included_game_day
+2004,2539,San Francisco Dons,2003-11-21,3.8599999999999994,included_game_day
+2004,2539,San Francisco Dons,2003-11-24,-4.026000000000001,included_game_day
+2004,2539,San Francisco Dons,2003-11-25,-20.3989,included_game_day
+2004,2539,San Francisco Dons,2003-11-30,-12.07901,included_game_day
+2004,2539,San Francisco Dons,2003-12-02,-37.548109,included_game_day
+2004,2539,San Francisco Dons,2003-12-06,-30.017818099999996,included_game_day
+2004,2539,San Francisco Dons,2003-12-13,-24.410037726399995,included_game_day
+2004,2539,San Francisco Dons,2003-12-20,-8.910493239769995,included_game_day
+2004,2539,San Francisco Dons,2003-12-23,-11.740246386742996,included_game_day
+2004,2539,San Francisco Dons,2003-12-27,-15.681682059731695,included_game_day
+2004,2539,San Francisco Dons,2003-12-29,-34.048211743637324,included_game_day
+2004,2539,San Francisco Dons,2003-12-30,-37.42221789957781,included_game_day
+2004,2539,San Francisco Dons,2004-01-03,-24.562205691981582,included_game_day
+2004,2539,San Francisco Dons,2004-01-09,-32.11325019725518,included_game_day
+2004,2539,San Francisco Dons,2004-01-15,-55.228850348070225,included_game_day
+2004,2539,San Francisco Dons,2004-01-17,-64.28471177001231,included_game_day
+2004,2539,San Francisco Dons,2004-01-22,-59.898966168941705,included_game_day
+2004,2539,San Francisco Dons,2004-01-24,-42.8364124656197,included_game_day
+2004,2539,San Francisco Dons,2004-01-29,-26.49816668282579,included_game_day
+2004,2539,San Francisco Dons,2004-01-31,-7.937428394797468,included_game_day
+2004,2539,San Francisco Dons,2004-02-05,-22.736422778569626,included_game_day
+2004,2539,San Francisco Dons,2004-02-07,-22.575618285587353,included_game_day
+2004,2539,San Francisco Dons,2004-02-12,-30.943330462960965,included_game_day
+2004,2539,San Francisco Dons,2004-02-14,-20.655877275727903,included_game_day
+2004,2539,San Francisco Dons,2004-02-21,-14.88726674269574,included_game_day
+2004,2539,San Francisco Dons,2004-02-26,-29.612128594565743,included_game_day
+2004,2539,San Francisco Dons,2004-02-28,-27.2303226646897,included_game_day
+2004,2539,San Francisco Dons,2004-03-06,-36.11773955605071,included_game_day
+2005,2539,San Francisco Dons,2004-11-19,-7.0,included_game_day
+2005,2539,San Francisco Dons,2004-11-27,7.1661,included_game_day
+2005,2539,San Francisco Dons,2004-11-29,-5.550509999999999,included_game_day
+2005,2539,San Francisco Dons,2004-12-01,-9.559459,included_game_day
+2005,2539,San Francisco Dons,2004-12-04,-6.6469712,included_game_day
+2005,2539,San Francisco Dons,2004-12-07,-3.0970052800000003,included_game_day
+2005,2539,San Francisco Dons,2004-12-10,16.649936461412,included_game_day
+2005,2539,San Francisco Dons,2004-12-11,38.7236679758708,included_game_day
+2005,2539,San Francisco Dons,2004-12-18,44.53659377888371,included_game_day
+2005,2539,San Francisco Dons,2004-12-20,54.32268986340634,included_game_day
+2005,2539,San Francisco Dons,2004-12-23,60.96252366586726,included_game_day
+2005,2539,San Francisco Dons,2005-01-01,24.565738167554834,included_game_day
+2005,2539,San Francisco Dons,2005-01-04,23.546088851400192,included_game_day
+2005,2539,San Francisco Dons,2005-01-07,20.142343256684633,included_game_day
+2005,2539,San Francisco Dons,2005-01-09,17.555962524363466,included_game_day
+2005,2539,San Francisco Dons,2005-01-15,19.44678039229991,included_game_day
+2005,2539,San Francisco Dons,2005-01-20,25.88127134080925,included_game_day
+2005,2539,San Francisco Dons,2005-01-22,24.580178701844986,included_game_day
+2005,2539,San Francisco Dons,2005-01-27,31.470892066700316,included_game_day
+2005,2539,San Francisco Dons,2005-01-30,34.096780525748265,included_game_day
+2005,2539,San Francisco Dons,2005-02-03,8.126621873540845,included_game_day
+2005,2539,San Francisco Dons,2005-02-05,0.8449568929339568,included_game_day
+2005,2539,San Francisco Dons,2005-02-09,-2.1445641083592752,included_game_day
+2005,2539,San Francisco Dons,2005-02-17,4.761837938360469,included_game_day
+2005,2539,San Francisco Dons,2005-02-19,15.211617754456647,included_game_day
+2005,2539,San Francisco Dons,2005-02-24,12.41805995743573,included_game_day
+2005,2539,San Francisco Dons,2005-02-26,12.207740074223219,included_game_day
+2005,2539,San Francisco Dons,2005-03-04,11.226895808064432,included_game_day
+2005,2539,San Francisco Dons,2005-03-05,7.156724328110302,included_game_day
+2005,2539,San Francisco Dons,2005-03-16,8.809984201796441,included_game_day
+2005,2539,San Francisco Dons,2005-03-18,-6.2370527154409725,included_game_day
+2006,2539,San Francisco Dons,2005-11-18,-20.0,included_game_day
+2006,2539,San Francisco Dons,2005-11-21,-17.0,included_game_day
+2006,2539,San Francisco Dons,2005-11-23,-28.881,included_game_day
+2006,2539,San Francisco Dons,2005-11-26,-36.7629,included_game_day
+2006,2539,San Francisco Dons,2005-11-30,-38.345600000000005,included_game_day
+2006,2539,San Francisco Dons,2005-12-03,-14.759580060000005,included_game_day
+2006,2539,San Francisco Dons,2005-12-06,-18.579794894000006,included_game_day
+2006,2539,San Francisco Dons,2005-12-09,-11.095585804600006,included_game_day
+2006,2539,San Francisco Dons,2005-12-10,-11.097784485140005,included_game_day
+2006,2539,San Francisco Dons,2005-12-17,-16.127960667606004,included_game_day
+2006,2539,San Francisco Dons,2005-12-21,-22.409768423496985,included_game_day
+2006,2539,San Francisco Dons,2005-12-22,-32.53338629941872,included_game_day
+2006,2539,San Francisco Dons,2005-12-29,-31.853641704480346,included_game_day
+2006,2539,San Francisco Dons,2006-01-07,-20.35799790779207,included_game_day
+2006,2539,San Francisco Dons,2006-01-09,-27.931705222215356,included_game_day
+2006,2539,San Francisco Dons,2006-01-16,-26.419716266368702,included_game_day
+2006,2539,San Francisco Dons,2006-01-21,-19.237450427835324,included_game_day
+2006,2539,San Francisco Dons,2006-01-23,-20.326983577275797,included_game_day
+2006,2539,San Francisco Dons,2006-01-28,-11.005630803117066,included_game_day
+2006,2539,San Francisco Dons,2006-01-30,-23.871406028007442,included_game_day
+2006,2539,San Francisco Dons,2006-02-04,-35.81848950854973,included_game_day
+2006,2539,San Francisco Dons,2006-02-06,-35.48438550591105,included_game_day
+2006,2539,San Francisco Dons,2006-02-11,-27.964235858094252,included_game_day
+2006,2539,San Francisco Dons,2006-02-13,-8.948116139840813,included_game_day
+2006,2539,San Francisco Dons,2006-02-20,-18.575240459658133,included_game_day
+2006,2539,San Francisco Dons,2006-02-25,-16.390376309722367,included_game_day
+2006,2539,San Francisco Dons,2006-02-27,-5.500064260038615,included_game_day
+2006,2539,San Francisco Dons,2006-03-04,-11.951273585490606,included_game_day
+2007,2539,San Francisco Dons,2006-11-14,24.7,included_game_day
+2007,2539,San Francisco Dons,2006-11-17,4.329999999999998,included_game_day
+2007,2539,San Francisco Dons,2006-11-20,-6.769500000000001,included_game_day
+2007,2539,San Francisco Dons,2006-11-25,-10.54355,included_game_day
+2007,2539,San Francisco Dons,2006-11-27,-5.0616921999999995,included_game_day
+2007,2539,San Francisco Dons,2006-11-29,-10.61919499,included_game_day
+2007,2539,San Francisco Dons,2006-12-01,8.324362908999998,included_game_day
+2007,2539,San Francisco Dons,2006-12-02,-0.4995633739000027,included_game_day
+2007,2539,San Francisco Dons,2006-12-05,-25.636776368510002,included_game_day
+2007,2539,San Francisco Dons,2006-12-17,-24.881088860949003,included_game_day
+2007,2539,San Francisco Dons,2006-12-21,-21.003901468800102,included_game_day
+2007,2539,San Francisco Dons,2006-12-22,-18.97083054415652,included_game_day
+2007,2539,San Francisco Dons,2006-12-23,-30.038641263753135,included_game_day
+2007,2539,San Francisco Dons,2006-12-28,-31.450791854144498,included_game_day
+2007,2539,San Francisco Dons,2007-01-06,-25.05194605533479,included_game_day
+2007,2539,San Francisco Dons,2007-01-13,-23.029388570801824,included_game_day
+2007,2539,San Francisco Dons,2007-01-15,-19.552318674758475,included_game_day
+2007,2539,San Francisco Dons,2007-01-20,-25.17723959314079,included_game_day
+2007,2539,San Francisco Dons,2007-01-22,-24.565798715122032,included_game_day
+2007,2539,San Francisco Dons,2007-01-27,-27.657054968274075,included_game_day
+2007,2539,San Francisco Dons,2007-01-29,-28.380469887560764,included_game_day
+2007,2539,San Francisco Dons,2007-02-03,-12.530732572113497,included_game_day
+2007,2539,San Francisco Dons,2007-02-05,-15.94405152437163,included_game_day
+2007,2539,San Francisco Dons,2007-02-10,-12.329779276160723,included_game_day
+2007,2539,San Francisco Dons,2007-02-12,-10.707291446892487,included_game_day
+2007,2539,San Francisco Dons,2007-02-17,0.027896518995843778,included_game_day
+2007,2539,San Francisco Dons,2007-02-20,-6.642982997953738,included_game_day
+2007,2539,San Francisco Dons,2007-02-24,-8.243244840870904,included_game_day
+2007,2539,San Francisco Dons,2007-02-26,-14.318426001872982,included_game_day
+2007,2539,San Francisco Dons,2007-03-03,-19.128004596680128,included_game_day
+2008,2539,San Francisco Dons,2007-11-08,-16.0,included_game_day
+2008,2539,San Francisco Dons,2007-11-17,9.3,included_game_day
+2008,2539,San Francisco Dons,2007-11-20,7.890000000000001,included_game_day
+2008,2539,San Francisco Dons,2007-11-24,-15.250399999999999,included_game_day
+2008,2539,San Francisco Dons,2007-11-28,-9.847059999999999,included_game_day
+2008,2539,San Francisco Dons,2007-12-01,-22.61814727,included_game_day
+2008,2539,San Francisco Dons,2007-12-05,-49.967719654,included_game_day
+2008,2539,San Francisco Dons,2007-12-08,-48.7225992208,included_game_day
+2008,2539,San Francisco Dons,2007-12-15,-55.79124256872,included_game_day
+2008,2539,San Francisco Dons,2007-12-18,-53.64040424323,included_game_day
+2008,2539,San Francisco Dons,2007-12-22,-42.091291521749,included_game_day
+2008,2539,San Francisco Dons,2007-12-28,-45.38664681749239,included_game_day
+2008,2539,San Francisco Dons,2007-12-31,-54.43736202636557,included_game_day
+2008,2539,San Francisco Dons,2008-01-05,-53.0446816186413,included_game_day
+2008,2539,San Francisco Dons,2008-01-12,-49.76165018988052,included_game_day
+2008,2539,San Francisco Dons,2008-01-22,-38.61410005684569,included_game_day
+2008,2539,San Francisco Dons,2008-01-26,-48.14036525009624,included_game_day
+2008,2539,San Francisco Dons,2008-01-28,-65.39698848240357,included_game_day
+2008,2539,San Francisco Dons,2008-02-02,-57.9460998849885,included_game_day
+2008,2539,San Francisco Dons,2008-02-04,-70.19581419728122,included_game_day
+2008,2539,San Francisco Dons,2008-02-08,-72.65454982833784,included_game_day
+2008,2539,San Francisco Dons,2008-02-11,-77.17391327640311,included_game_day
+2008,2539,San Francisco Dons,2008-02-16,-78.10690273587761,included_game_day
+2008,2539,San Francisco Dons,2008-02-18,-68.57993197441577,included_game_day
+2008,2539,San Francisco Dons,2008-02-25,-90.7706028453758,included_game_day
+2008,2539,San Francisco Dons,2008-03-01,-92.44386070490891,included_game_day
+2008,2539,San Francisco Dons,2008-03-03,-67.61836874270574,included_game_day
+2008,2539,San Francisco Dons,2008-03-07,-58.25407297111575,included_game_day
+2008,2539,San Francisco Dons,2008-03-08,-54.39687869964611,included_game_day
+2009,2539,San Francisco Dons,2008-11-15,8.0,included_game_day
+2009,2539,San Francisco Dons,2008-11-16,18.9,included_game_day
+2009,2539,San Francisco Dons,2008-11-18,7.909999999999998,included_game_day
+2009,2539,San Francisco Dons,2008-11-24,2.9259999999999984,included_game_day
+2009,2539,San Francisco Dons,2008-11-29,5.215009999999999,included_game_day
+2009,2539,San Francisco Dons,2008-12-01,8.265396299999999,included_game_day
+2009,2539,San Francisco Dons,2008-12-03,-13.963783329999998,included_game_day
+2009,2539,San Francisco Dons,2008-12-06,-10.095507797,included_game_day
+2009,2539,San Francisco Dons,2008-12-09,-13.859899755899999,included_game_day
+2009,2539,San Francisco Dons,2008-12-13,-8.64698402731,included_game_day
+2009,2539,San Francisco Dons,2008-12-22,-10.581620018649742,included_game_day
+2009,2539,San Francisco Dons,2008-12-27,-20.388950395403008,included_game_day
+2009,2539,San Francisco Dons,2008-12-29,-29.792991810785146,included_game_day
+2009,2539,San Francisco Dons,2009-01-09,-44.59442480055377,included_game_day
+2009,2539,San Francisco Dons,2009-01-11,-49.71545924479102,included_game_day
+2009,2539,San Francisco Dons,2009-01-15,-59.739750327672866,included_game_day
+2009,2539,San Francisco Dons,2009-01-17,-70.77595830209879,included_game_day
+2009,2539,San Francisco Dons,2009-01-23,-78.99238333847947,included_game_day
+2009,2539,San Francisco Dons,2009-01-29,-89.06628554154031,included_game_day
+2009,2539,San Francisco Dons,2009-01-31,-78.71535138855883,included_game_day
+2009,2539,San Francisco Dons,2009-02-05,-80.25284246371427,included_game_day
+2009,2539,San Francisco Dons,2009-02-07,-80.69451123544405,included_game_day
+2009,2539,San Francisco Dons,2009-02-12,-76.76180228259652,included_game_day
+2009,2539,San Francisco Dons,2009-02-14,-64.0065229086205,included_game_day
+2009,2539,San Francisco Dons,2009-02-21,-59.100068078951985,included_game_day
+2009,2539,San Francisco Dons,2009-02-26,-68.25762218383056,included_game_day
+2009,2539,San Francisco Dons,2009-02-28,-60.646110074246664,included_game_day
+2009,2539,San Francisco Dons,2009-03-06,-73.55690038657954,included_game_day
+2010,2539,San Francisco Dons,2009-11-13,8.0,included_game_day
+2010,2539,San Francisco Dons,2009-11-20,-22.963,included_game_day
+2010,2539,San Francisco Dons,2009-11-23,-28.1567,included_game_day
+2010,2539,San Francisco Dons,2009-11-25,-33.93103,included_game_day
+2010,2539,San Francisco Dons,2009-11-29,-41.859627,included_game_day
+2010,2539,San Francisco Dons,2009-12-01,-55.84830530000001,included_game_day
+2010,2539,San Francisco Dons,2009-12-05,-64.58481869,included_game_day
+2010,2539,San Francisco Dons,2009-12-08,-55.538398614,included_game_day
+2010,2539,San Francisco Dons,2009-12-12,-51.1364583216,included_game_day
+2010,2539,San Francisco Dons,2009-12-19,-60.740047793297,included_game_day
+2010,2539,San Francisco Dons,2009-12-20,-52.253991948806416,included_game_day
+2010,2539,San Francisco Dons,2009-12-23,-48.76621425029647,included_game_day
+2010,2539,San Francisco Dons,2009-12-27,-46.688472429482125,included_game_day
+2010,2539,San Francisco Dons,2010-01-08,-54.69826772642279,included_game_day
+2010,2539,San Francisco Dons,2010-01-10,-37.20839930831239,included_game_day
+2010,2539,San Francisco Dons,2010-01-14,-26.675519952831134,included_game_day
+2010,2539,San Francisco Dons,2010-01-16,-41.41788920243228,included_game_day
+2010,2539,San Francisco Dons,2010-01-23,-46.61067264620708,included_game_day
+2010,2539,San Francisco Dons,2010-01-28,-53.581982588199836,included_game_day
+2010,2539,San Francisco Dons,2010-01-30,-38.85296876276661,included_game_day
+2010,2539,San Francisco Dons,2010-02-04,-31.499899179938133,included_game_day
+2010,2539,San Francisco Dons,2010-02-06,-31.272619621438064,included_game_day
+2010,2539,San Francisco Dons,2010-02-11,-8.731317553188752,included_game_day
+2010,2539,San Francisco Dons,2010-02-13,-4.045728571391116,included_game_day
+2010,2539,San Francisco Dons,2010-02-20,-1.4726926699612735,included_game_day
+2010,2539,San Francisco Dons,2010-02-25,-3.0043287500245492,included_game_day
+2010,2539,San Francisco Dons,2010-02-27,6.297123519586866,included_game_day
+2010,2539,San Francisco Dons,2010-03-06,-2.1868070206352987,included_game_day
+2011,2539,San Francisco Dons,2010-11-12,15.4,included_game_day
+2011,2539,San Francisco Dons,2010-11-17,7.86,included_game_day
+2011,2539,San Francisco Dons,2010-11-20,5.914,included_game_day
+2011,2539,San Francisco Dons,2010-11-24,-7.4808,included_game_day
+2011,2539,San Francisco Dons,2010-11-27,-3.5701400000000003,included_game_day
+2011,2539,San Francisco Dons,2010-12-04,-9.323210769000001,included_game_day
+2011,2539,San Francisco Dons,2010-12-08,-21.847275504100004,included_game_day
+2011,2539,San Francisco Dons,2010-12-12,-17.672465798880005,included_game_day
+2011,2539,San Francisco Dons,2010-12-18,-28.649183044085603,included_game_day
+2011,2539,San Francisco Dons,2010-12-21,-20.1437772320216,included_game_day
+2011,2539,San Francisco Dons,2010-12-23,-20.192453267465122,included_game_day
+2011,2539,San Francisco Dons,2010-12-28,-25.103534945316717,included_game_day
+2011,2539,San Francisco Dons,2010-12-30,-11.96814333304378,included_game_day
+2011,2539,San Francisco Dons,2011-01-08,0.9413329812218656,included_game_day
+2011,2539,San Francisco Dons,2011-01-13,4.6689258682679835,included_game_day
+2011,2539,San Francisco Dons,2011-01-15,6.552268697243651,included_game_day
+2011,2539,San Francisco Dons,2011-01-20,12.625326459322064,included_game_day
+2011,2539,San Francisco Dons,2011-01-22,21.125252492915436,included_game_day
+2011,2539,San Francisco Dons,2011-01-27,21.207630460389723,included_game_day
+2011,2539,San Francisco Dons,2011-01-29,10.536667640704461,included_game_day
+2011,2539,San Francisco Dons,2011-02-05,16.53638913902767,included_game_day
+2011,2539,San Francisco Dons,2011-02-10,16.534765907847238,included_game_day
+2011,2539,San Francisco Dons,2011-02-12,2.324743489264229,included_game_day
+2011,2539,San Francisco Dons,2011-02-17,19.63691926263312,included_game_day
+2011,2539,San Francisco Dons,2011-02-19,12.709637528093989,included_game_day
+2011,2539,San Francisco Dons,2011-02-24,5.7355910128573395,included_game_day
+2011,2539,San Francisco Dons,2011-02-26,-0.574117873824564,included_game_day
+2011,2539,San Francisco Dons,2011-03-05,13.64894390533511,included_game_day
+2011,2539,San Francisco Dons,2011-03-06,22.633663103988894,included_game_day
+2011,2539,San Francisco Dons,2011-03-16,27.28150945840087,included_game_day
+2011,2539,San Francisco Dons,2011-03-20,32.05860152504231,included_game_day
+2011,2539,San Francisco Dons,2011-03-22,24.265070333519134,included_game_day
+2012,2539,San Francisco Dons,2011-11-11,-11.0,included_game_day
+2012,2539,San Francisco Dons,2011-11-12,4.4,included_game_day
+2012,2539,San Francisco Dons,2011-11-13,1.6,included_game_day
+2012,2539,San Francisco Dons,2011-11-16,-2.1,included_game_day
+2012,2539,San Francisco Dons,2011-11-19,7.26,included_game_day
+2012,2539,San Francisco Dons,2011-11-24,6.841,included_game_day
+2012,2539,San Francisco Dons,2011-11-25,5.268,included_game_day
+2012,2539,San Francisco Dons,2011-11-26,-0.04877800000000043,included_game_day
+2012,2539,San Francisco Dons,2011-12-01,7.0840259,included_game_day
+2012,2539,San Francisco Dons,2011-12-10,9.8209414652,included_game_day
+2012,2539,San Francisco Dons,2011-12-22,4.2664532890142,included_game_day
+2012,2539,San Francisco Dons,2011-12-29,-10.255871597397519,included_game_day
+2012,2539,San Francisco Dons,2011-12-31,-17.21768388958047,included_game_day
+2012,2539,San Francisco Dons,2012-01-03,-8.529766394093706,included_game_day
+2012,2539,San Francisco Dons,2012-01-07,-18.513730039859254,included_game_day
+2012,2539,San Francisco Dons,2012-01-09,-17.276772582555417,included_game_day
+2012,2539,San Francisco Dons,2012-01-12,7.7668895111678395,included_game_day
+2012,2539,San Francisco Dons,2012-01-14,13.458262138883748,included_game_day
+2012,2539,San Francisco Dons,2012-01-19,13.296484881229018,included_game_day
+2012,2539,San Francisco Dons,2012-01-21,5.739664289483054,included_game_day
+2012,2539,San Francisco Dons,2012-01-26,14.977329632786413,included_game_day
+2012,2539,San Francisco Dons,2012-01-28,21.54487349825877,included_game_day
+2012,2539,San Francisco Dons,2012-02-04,22.223298868216492,included_game_day
+2012,2539,San Francisco Dons,2012-02-09,24.610243891821696,included_game_day
+2012,2539,San Francisco Dons,2012-02-11,34.36842900758917,included_game_day
+2012,2539,San Francisco Dons,2012-02-16,38.34289767790564,included_game_day
+2012,2539,San Francisco Dons,2012-02-18,42.733405891899956,included_game_day
+2012,2539,San Francisco Dons,2012-02-25,36.04019795504777,included_game_day
+2012,2539,San Francisco Dons,2012-03-01,45.53034529936353,included_game_day
+2012,2539,San Francisco Dons,2012-03-02,49.883951034356514,included_game_day
+2012,2539,San Francisco Dons,2012-03-03,48.14500937694389,included_game_day
+2012,2539,San Francisco Dons,2012-03-13,27.0585009616455,included_game_day
+2013,2539,San Francisco Dons,2012-11-09,-12.0,included_game_day
+2013,2539,San Francisco Dons,2012-11-19,4.372,included_game_day
+2013,2539,San Francisco Dons,2012-11-24,24.05086,included_game_day
+2013,2539,San Francisco Dons,2012-11-30,26.492556541,included_game_day
+2013,2539,San Francisco Dons,2012-12-04,40.2847551368,included_game_day
+2013,2539,San Francisco Dons,2012-12-08,31.00653445892,included_game_day
+2013,2539,San Francisco Dons,2012-12-15,22.75492415748,included_game_day
+2013,2539,San Francisco Dons,2012-12-18,7.091788953482002,included_game_day
+2013,2539,San Francisco Dons,2012-12-22,-9.518690522971497,included_game_day
+2013,2539,San Francisco Dons,2012-12-23,-5.525130988096311,included_game_day
+2013,2539,San Francisco Dons,2012-12-25,3.965097606669559,included_game_day
+2013,2539,San Francisco Dons,2013-01-02,7.21245855815252,included_game_day
+2013,2539,San Francisco Dons,2013-01-05,9.523976216515777,included_game_day
+2013,2539,San Francisco Dons,2013-01-10,1.2192723642557795,included_game_day
+2013,2539,San Francisco Dons,2013-01-12,6.988148345049266,included_game_day
+2013,2539,San Francisco Dons,2013-01-17,-24.955608172717483,included_game_day
+2013,2539,San Francisco Dons,2013-01-19,-19.158050051226688,included_game_day
+2013,2539,San Francisco Dons,2013-01-24,-16.31707356697224,included_game_day
+2013,2539,San Francisco Dons,2013-01-26,-10.861797461249232,included_game_day
+2013,2539,San Francisco Dons,2013-01-30,-4.91159485651241,included_game_day
+2013,2539,San Francisco Dons,2013-02-02,5.6454433762760825,included_game_day
+2013,2539,San Francisco Dons,2013-02-09,30.08887729489429,included_game_day
+2013,2539,San Francisco Dons,2013-02-14,14.632970183369007,included_game_day
+2013,2539,San Francisco Dons,2013-02-16,17.69003716364009,included_game_day
+2013,2539,San Francisco Dons,2013-02-21,15.385080637208297,included_game_day
+2013,2539,San Francisco Dons,2013-02-23,14.2337147172659,included_game_day
+2013,2539,San Francisco Dons,2013-02-28,28.316378891131144,included_game_day
+2013,2539,San Francisco Dons,2013-03-07,20.384879052217315,included_game_day
+2013,2539,San Francisco Dons,2013-03-14,16.83371596195613,included_game_day
+2014,2539,San Francisco Dons,2013-11-13,6.1,included_game_day
+2014,2539,San Francisco Dons,2013-11-15,0.45999999999999996,included_game_day
+2014,2539,San Francisco Dons,2013-11-18,-7.477,included_game_day
+2014,2539,San Francisco Dons,2013-11-22,-3.6513,included_game_day
+2014,2539,San Francisco Dons,2013-11-24,-14.990770000000001,included_game_day
+2014,2539,San Francisco Dons,2013-11-29,-6.981811150000002,included_game_day
+2014,2539,San Francisco Dons,2013-11-30,-28.153865385000003,included_game_day
+2014,2539,San Francisco Dons,2013-12-14,-5.734127946500003,included_game_day
+2014,2539,San Francisco Dons,2013-12-18,-19.681707665980003,included_game_day
+2014,2539,San Francisco Dons,2013-12-22,-11.751269800981973,included_game_day
+2014,2539,San Francisco Dons,2013-12-28,5.90242516124005,included_game_day
+2014,2539,San Francisco Dons,2013-12-30,-11.398510386133967,included_game_day
+2014,2539,San Francisco Dons,2014-01-02,3.325047567966628,included_game_day
+2014,2539,San Francisco Dons,2014-01-04,11.814129221455257,included_game_day
+2014,2539,San Francisco Dons,2014-01-09,23.26502253835649,included_game_day
+2014,2539,San Francisco Dons,2014-01-11,14.09857896053086,included_game_day
+2014,2539,San Francisco Dons,2014-01-16,12.151328704228133,included_game_day
+2014,2539,San Francisco Dons,2014-01-18,8.801528298026046,included_game_day
+2014,2539,San Francisco Dons,2014-01-25,12.852454298696795,included_game_day
+2014,2539,San Francisco Dons,2014-01-29,25.681756142214592,included_game_day
+2014,2539,San Francisco Dons,2014-02-01,20.96133684468858,included_game_day
+2014,2539,San Francisco Dons,2014-02-06,30.071868117160697,included_game_day
+2014,2539,San Francisco Dons,2014-02-08,33.822315766218125,included_game_day
+2014,2539,San Francisco Dons,2014-02-15,38.79638987856155,included_game_day
+2014,2539,San Francisco Dons,2014-02-20,48.87630471740274,included_game_day
+2014,2539,San Francisco Dons,2014-02-22,45.14650701384877,included_game_day
+2014,2539,San Francisco Dons,2014-02-27,68.72521677624948,included_game_day
+2014,2539,San Francisco Dons,2014-03-01,64.74422740380356,included_game_day
+2014,2539,San Francisco Dons,2014-03-08,69.24536252852789,included_game_day
+2014,2539,San Francisco Dons,2014-03-10,70.17430028543251,included_game_day
+2014,2539,San Francisco Dons,2014-03-19,57.97329491463214,included_game_day
+2015,2539,San Francisco Dons,2014-11-16,34.5,included_game_day
+2015,2539,San Francisco Dons,2014-11-24,47.665,included_game_day
+2015,2539,San Francisco Dons,2014-11-25,30.89122,included_game_day
+2015,2539,San Francisco Dons,2014-11-26,22.723508000000002,included_game_day
+2015,2539,San Francisco Dons,2014-11-30,35.9354972,included_game_day
+2015,2539,San Francisco Dons,2014-12-03,21.26274748,included_game_day
+2015,2539,San Francisco Dons,2014-12-07,45.813024532,included_game_day
+2015,2539,San Francisco Dons,2014-12-11,38.9981648078,included_game_day
+2015,2539,San Francisco Dons,2014-12-15,21.818123456432,included_game_day
+2015,2539,San Francisco Dons,2014-12-18,50.5782177299088,included_game_day
+2015,2539,San Francisco Dons,2014-12-21,45.65318759335022,included_game_day
+2015,2539,San Francisco Dons,2014-12-27,48.14828771071986,included_game_day
+2015,2539,San Francisco Dons,2014-12-29,36.08185641657387,included_game_day
+2015,2539,San Francisco Dons,2015-01-01,32.628734406617035,included_game_day
+2015,2539,San Francisco Dons,2015-01-03,4.983251152696138,included_game_day
+2015,2539,San Francisco Dons,2015-01-08,-8.86900508388899,included_game_day
+2015,2539,San Francisco Dons,2015-01-10,11.013564793890612,included_game_day
+2015,2539,San Francisco Dons,2015-01-17,2.648816588778324,included_game_day
+2015,2539,San Francisco Dons,2015-01-22,16.646883593756947,included_game_day
+2015,2539,San Francisco Dons,2015-01-24,6.688081815207211,included_game_day
+2015,2539,San Francisco Dons,2015-01-29,13.613995659855656,included_game_day
+2015,2539,San Francisco Dons,2015-01-31,8.697309885903381,included_game_day
+2015,2539,San Francisco Dons,2015-02-05,-7.287167504614489,included_game_day
+2015,2539,San Francisco Dons,2015-02-07,-3.5991798976342775,included_game_day
+2015,2539,San Francisco Dons,2015-02-12,-4.02938076244827,included_game_day
+2015,2539,San Francisco Dons,2015-02-19,23.696780581321722,included_game_day
+2015,2539,San Francisco Dons,2015-02-21,28.410489322652843,included_game_day
+2015,2539,San Francisco Dons,2015-02-26,-2.241129789255126,included_game_day
+2015,2539,San Francisco Dons,2015-02-28,1.296874657202748,included_game_day
+2015,2539,San Francisco Dons,2015-03-06,1.1272782143690465,included_game_day
+2015,2539,San Francisco Dons,2015-03-07,7.2779425234900215,included_game_day
+2016,2539,San Francisco Dons,2015-11-13,6.0,included_game_day
+2016,2539,San Francisco Dons,2015-11-16,25.5,included_game_day
+2016,2539,San Francisco Dons,2015-11-19,19.45,included_game_day
+2016,2539,San Francisco Dons,2015-11-21,16.256,included_game_day
+2016,2539,San Francisco Dons,2015-11-25,2.56109,included_game_day
+2016,2539,San Francisco Dons,2015-11-29,12.825805999999998,included_game_day
+2016,2539,San Francisco Dons,2015-12-01,3.1475833999999985,included_game_day
+2016,2539,San Francisco Dons,2015-12-04,-28.40028196,included_game_day
+2016,2539,San Francisco Dons,2015-12-07,-31.745097526000002,included_game_day
+2016,2539,San Francisco Dons,2015-12-18,-39.85936733674001,included_game_day
+2016,2539,San Francisco Dons,2015-12-21,-41.70406379990081,included_game_day
+2016,2539,San Francisco Dons,2015-12-23,-31.4064892298015,included_game_day
+2016,2539,San Francisco Dons,2015-12-31,-15.988537375539597,included_game_day
+2016,2539,San Francisco Dons,2016-01-02,-16.667348182587475,included_game_day
+2016,2539,San Francisco Dons,2016-01-07,-8.274341406742318,included_game_day
+2016,2539,San Francisco Dons,2016-01-09,-4.846496438549625,included_game_day
+2016,2539,San Francisco Dons,2016-01-14,-14.70248348050875,included_game_day
+2016,2539,San Francisco Dons,2016-01-16,-28.75796710190775,included_game_day
+2016,2539,San Francisco Dons,2016-01-21,-13.340070397029788,included_game_day
+2016,2539,San Francisco Dons,2016-01-28,1.1802910297107339,included_game_day
+2016,2539,San Francisco Dons,2016-01-30,-23.3468151990682,included_game_day
+2016,2539,San Francisco Dons,2016-02-06,-24.679361307946305,included_game_day
+2016,2539,San Francisco Dons,2016-02-11,-41.66095391873968,included_game_day
+2016,2539,San Francisco Dons,2016-02-13,-28.387295255725107,included_game_day
+2016,2539,San Francisco Dons,2016-02-18,-7.6352589545208005,included_game_day
+2016,2539,San Francisco Dons,2016-02-20,-21.937062809561063,included_game_day
+2016,2539,San Francisco Dons,2016-02-25,-28.831536593423657,included_game_day
+2016,2539,San Francisco Dons,2016-02-27,-30.630352413398388,included_game_day
+2016,2539,San Francisco Dons,2016-03-05,-29.681946581018458,included_game_day
+2017,2539,San Francisco Dons,2016-11-11,-1.0,included_game_day
+2017,2539,San Francisco Dons,2016-11-16,12.4,included_game_day
+2017,2539,San Francisco Dons,2016-11-23,18.28207,included_game_day
+2017,2539,San Francisco Dons,2016-11-26,29.175863,included_game_day
+2017,2539,San Francisco Dons,2016-11-27,20.2049757,included_game_day
+2017,2539,San Francisco Dons,2016-11-30,22.549424459999997,included_game_day
+2017,2539,San Francisco Dons,2016-12-02,35.432672064,included_game_day
+2017,2539,San Francisco Dons,2016-12-16,24.15164010449,included_game_day
+2017,2539,San Francisco Dons,2016-12-19,52.9811224792388,included_game_day
+2017,2539,San Francisco Dons,2016-12-22,55.98441557342085,included_game_day
+2017,2539,San Francisco Dons,2016-12-23,64.10335281655668,included_game_day
+2017,2539,San Francisco Dons,2016-12-25,48.00405334766603,included_game_day
+2017,2539,San Francisco Dons,2016-12-29,43.962696874204184,included_game_day
+2017,2539,San Francisco Dons,2016-12-31,26.745591929466023,included_game_day
+2017,2539,San Francisco Dons,2017-01-05,21.88833097220563,included_game_day
+2017,2539,San Francisco Dons,2017-01-07,17.02638076778473,included_game_day
+2017,2539,San Francisco Dons,2017-01-12,17.60017422139982,included_game_day
+2017,2539,San Francisco Dons,2017-01-14,29.328761083619234,included_game_day
+2017,2539,San Francisco Dons,2017-01-19,42.571319631675465,included_game_day
+2017,2539,San Francisco Dons,2017-01-21,59.39071387332657,included_game_day
+2017,2539,San Francisco Dons,2017-01-26,48.11074543699382,included_game_day
+2017,2539,San Francisco Dons,2017-01-28,62.11993592491396,included_game_day
+2017,2539,San Francisco Dons,2017-02-02,64.63523201581066,included_game_day
+2017,2539,San Francisco Dons,2017-02-04,66.02509491881295,included_game_day
+2017,2539,San Francisco Dons,2017-02-09,60.22897365626007,included_game_day
+2017,2539,San Francisco Dons,2017-02-11,38.80348646326224,included_game_day
+2017,2539,San Francisco Dons,2017-02-16,28.160499166933214,included_game_day
+2017,2539,San Francisco Dons,2017-02-18,34.19737090309707,included_game_day
+2017,2539,San Francisco Dons,2017-02-23,30.68496076447449,included_game_day
+2017,2539,San Francisco Dons,2017-02-25,30.93233462559883,included_game_day
+2017,2539,San Francisco Dons,2017-03-04,24.691520308169743,included_game_day
+2017,2539,San Francisco Dons,2017-03-15,16.435248854492222,included_game_day
+2018,2539,San Francisco Dons,2017-11-10,-15.0,included_game_day
+2018,2539,San Francisco Dons,2017-11-13,-5.9,included_game_day
+2018,2539,San Francisco Dons,2017-11-17,3.889999999999999,included_game_day
+2018,2539,San Francisco Dons,2017-11-28,-6.0018166000000015,included_game_day
+2018,2539,San Francisco Dons,2017-12-02,-11.141779940000001,included_game_day
+2018,2539,San Francisco Dons,2017-12-04,-14.662997537,included_game_day
+2018,2539,San Francisco Dons,2017-12-07,-8.3268303125,included_game_day
+2018,2539,San Francisco Dons,2017-12-15,6.07436706435,included_game_day
+2018,2539,San Francisco Dons,2017-12-17,-5.413731577376581,included_game_day
+2018,2539,San Francisco Dons,2017-12-19,2.0615703609959777,included_game_day
+2018,2539,San Francisco Dons,2017-12-22,3.929596627599669,included_game_day
+2018,2539,San Francisco Dons,2017-12-23,17.289141448596347,included_game_day
+2018,2539,San Francisco Dons,2017-12-28,13.439077343162083,included_game_day
+2018,2539,San Francisco Dons,2017-12-30,31.905311187005754,included_game_day
+2018,2539,San Francisco Dons,2018-01-04,22.295315018191616,included_game_day
+2018,2539,San Francisco Dons,2018-01-06,29.037428586105406,included_game_day
+2018,2539,San Francisco Dons,2018-01-11,21.710133294412778,included_game_day
+2018,2539,San Francisco Dons,2018-01-13,25.30555073080545,included_game_day
+2018,2539,San Francisco Dons,2018-01-18,7.297466210028173,included_game_day
+2018,2539,San Francisco Dons,2018-01-20,1.5641376188857379,included_game_day
+2018,2539,San Francisco Dons,2018-01-25,0.5868510963259812,included_game_day
+2018,2539,San Francisco Dons,2018-01-27,10.673253520878275,included_game_day
+2018,2539,San Francisco Dons,2018-02-01,-10.283138784094708,included_game_day
+2018,2539,San Francisco Dons,2018-02-03,-2.046645350532385,included_game_day
+2018,2539,San Francisco Dons,2018-02-08,-8.129084992731938,included_game_day
+2018,2539,San Francisco Dons,2018-02-10,1.6105119595534223,included_game_day
+2018,2539,San Francisco Dons,2018-02-15,18.755968207083498,included_game_day
+2018,2539,San Francisco Dons,2018-02-17,17.548293978970545,included_game_day
+2018,2539,San Francisco Dons,2018-02-22,29.586629160168734,included_game_day
+2018,2539,San Francisco Dons,2018-02-24,21.765092342285943,included_game_day
+2018,2539,San Francisco Dons,2018-03-03,19.751696236014563,included_game_day
+2018,2539,San Francisco Dons,2018-03-05,4.489847822904794,included_game_day
+2018,2539,San Francisco Dons,2018-03-14,4.038112702047162,included_game_day
+2018,2539,San Francisco Dons,2018-03-19,13.490981963640444,included_game_day
+2018,2539,San Francisco Dons,2018-03-22,10.09971367631345,included_game_day
+2018,2539,San Francisco Dons,2018-03-26,21.581297628062185,included_game_day
+2018,2539,San Francisco Dons,2018-03-28,12.766564789461174,included_game_day
+2018,2539,San Francisco Dons,2018-03-30,8.714778518580365,included_game_day
+2019,2539,San Francisco Dons,2018-11-06,37.0,included_game_day
+2019,2539,San Francisco Dons,2018-11-10,71.3,included_game_day
+2019,2539,San Francisco Dons,2018-11-18,93.366,included_game_day
+2019,2539,San Francisco Dons,2018-11-21,85.0534,included_game_day
+2019,2539,San Francisco Dons,2018-11-24,89.65056,included_game_day
+2019,2539,San Francisco Dons,2018-11-30,95.817004,included_game_day
+2019,2539,San Francisco Dons,2018-12-01,91.08142665999999,included_game_day
+2019,2539,San Francisco Dons,2018-12-05,102.24204332999999,included_game_day
+2019,2539,San Francisco Dons,2018-12-13,103.34952558069,included_game_day
+2019,2539,San Francisco Dons,2018-12-16,101.6167372262019,included_game_day
+2019,2539,San Francisco Dons,2018-12-19,99.08579943567672,included_game_day
+2019,2539,San Francisco Dons,2018-12-22,95.57919903363043,included_game_day
+2019,2539,San Francisco Dons,2018-12-29,89.7032765073264,included_game_day
+2019,2539,San Francisco Dons,2019-01-03,90.9025668863429,included_game_day
+2019,2539,San Francisco Dons,2019-01-05,89.58519672380436,included_game_day
+2019,2539,San Francisco Dons,2019-01-12,87.18709025577135,included_game_day
+2019,2539,San Francisco Dons,2019-01-17,82.3708269142498,included_game_day
+2019,2539,San Francisco Dons,2019-01-19,95.19322947541438,included_game_day
+2019,2539,San Francisco Dons,2019-01-24,96.64860639453396,included_game_day
+2019,2539,San Francisco Dons,2019-01-26,90.34755199663667,included_game_day
+2019,2539,San Francisco Dons,2019-02-02,88.21459991241957,included_game_day
+2019,2539,San Francisco Dons,2019-02-07,78.58709108328092,included_game_day
+2019,2539,San Francisco Dons,2019-02-09,71.8373639499153,included_game_day
+2019,2539,San Francisco Dons,2019-02-14,75.72399797154597,included_game_day
+2019,2539,San Francisco Dons,2019-02-16,64.05243051703272,included_game_day
+2019,2539,San Francisco Dons,2019-02-21,75.34112286415375,included_game_day
+2019,2539,San Francisco Dons,2019-02-23,66.27384240763483,included_game_day
+2019,2539,San Francisco Dons,2019-02-28,58.67395542054478,included_game_day
+2019,2539,San Francisco Dons,2019-03-02,47.63850011659069,included_game_day
+2019,2539,San Francisco Dons,2019-03-09,27.32586546034225,included_game_day
+2020,2539,San Francisco Dons,2019-11-09,7.6,included_game_day
+2020,2539,San Francisco Dons,2019-11-11,9.64,included_game_day
+2020,2539,San Francisco Dons,2019-11-16,27.551000000000002,included_game_day
+2020,2539,San Francisco Dons,2019-11-19,50.6839,included_game_day
+2020,2539,San Francisco Dons,2019-11-23,51.130610000000004,included_game_day
+2020,2539,San Francisco Dons,2019-11-26,54.129559,included_game_day
+2020,2539,San Francisco Dons,2019-11-29,41.4141021,included_game_day
+2020,2539,San Francisco Dons,2019-12-03,36.53333003,included_game_day
+2020,2539,San Francisco Dons,2019-12-04,39.984740736000006,included_game_day
+2020,2539,San Francisco Dons,2019-12-14,56.039005820016804,included_game_day
+2020,2539,San Francisco Dons,2019-12-17,55.834037702041165,included_game_day
+2020,2539,San Francisco Dons,2019-12-21,55.52604862908513,included_game_day
+2020,2539,San Francisco Dons,2019-12-23,57.11240401666373,included_game_day
+2020,2539,San Francisco Dons,2019-12-30,49.136437440249445,included_game_day
+2020,2539,San Francisco Dons,2020-01-02,41.461158052385315,included_game_day
+2020,2539,San Francisco Dons,2020-01-04,23.621880306718587,included_game_day
+2020,2539,San Francisco Dons,2020-01-09,42.02091430093732,included_game_day
+2020,2539,San Francisco Dons,2020-01-11,48.81309393405108,included_game_day
+2020,2539,San Francisco Dons,2020-01-18,44.459075348666545,included_game_day
+2020,2539,San Francisco Dons,2020-01-23,42.73022745397568,included_game_day
+2020,2539,San Francisco Dons,2020-01-25,48.33420623457162,included_game_day
+2020,2539,San Francisco Dons,2020-01-30,65.82202497203487,included_game_day
+2020,2539,San Francisco Dons,2020-02-01,74.62184430958357,included_game_day
+2020,2539,San Francisco Dons,2020-02-06,53.525397245525504,included_game_day
+2020,2539,San Francisco Dons,2020-02-08,50.72807314034835,included_game_day
+2020,2539,San Francisco Dons,2020-02-13,59.66319566337785,included_game_day
+2020,2539,San Francisco Dons,2020-02-20,61.66993039906346,included_game_day
+2020,2539,San Francisco Dons,2020-02-22,55.64587490626144,included_game_day
+2020,2539,San Francisco Dons,2020-02-27,52.30048372189128,included_game_day
+2020,2539,San Francisco Dons,2020-02-29,50.09698206636398,included_game_day
+2020,2539,San Francisco Dons,2020-03-06,73.31165447613313,included_game_day
+2020,2539,San Francisco Dons,2020-03-07,88.37421991398512,included_game_day
+2020,2539,San Francisco Dons,2020-03-09,95.54946664068144,included_game_day
+2021,2539,San Francisco Dons,2020-11-25,-8.0,included_game_day
+2021,2539,San Francisco Dons,2020-11-26,0.3000000000000007,included_game_day
+2021,2539,San Francisco Dons,2020-11-27,4.770000000000001,included_game_day
+2021,2539,San Francisco Dons,2020-11-29,-8.123999999999999,included_game_day
+2021,2539,San Francisco Dons,2020-12-02,23.6884,included_game_day
+2021,2539,San Francisco Dons,2020-12-04,52.31956,included_game_day
+2021,2539,San Francisco Dons,2020-12-10,87.272864,included_game_day
+2021,2539,San Francisco Dons,2020-12-13,76.92790959999999,included_game_day
+2021,2539,San Francisco Dons,2020-12-17,65.996754316,included_game_day
+2021,2539,San Francisco Dons,2020-12-20,65.43368228439999,included_game_day
+2021,2539,San Francisco Dons,2020-12-31,58.976917427859995,included_game_day
+2021,2539,San Francisco Dons,2021-01-02,46.772128700306396,included_game_day
+2021,2539,San Francisco Dons,2021-01-07,58.81078798241216,included_game_day
+2021,2539,San Francisco Dons,2021-01-10,49.80738119607094,included_game_day
+2021,2539,San Francisco Dons,2021-01-14,57.319613344670984,included_game_day
+2021,2539,San Francisco Dons,2021-01-16,45.466276362870786,included_game_day
+2021,2539,San Francisco Dons,2021-01-21,66.56096781576561,included_game_day
+2021,2539,San Francisco Dons,2021-01-23,56.29215558015674,included_game_day
+2021,2539,San Francisco Dons,2021-02-10,39.77352046273925,included_game_day
+2021,2539,San Francisco Dons,2021-02-13,14.662500578536417,included_game_day
+2021,2539,San Francisco Dons,2021-02-18,7.084556738251036,included_game_day
+2021,2539,San Francisco Dons,2021-02-25,15.860093793737859,included_game_day
+2021,2539,San Francisco Dons,2021-02-27,9.425701358747528,included_game_day
+2021,2539,San Francisco Dons,2021-03-04,19.49655668569894,included_game_day
+2021,2539,San Francisco Dons,2021-03-05,16.656274463704843,included_game_day
+2022,2539,San Francisco Dons,2021-11-09,31.0,included_game_day
+2022,2539,San Francisco Dons,2021-11-11,39.3,included_game_day
+2022,2539,San Francisco Dons,2021-11-13,39.269999999999996,included_game_day
+2022,2539,San Francisco Dons,2021-11-15,54.342999999999996,included_game_day
+2022,2539,San Francisco Dons,2021-11-18,47.2557,included_game_day
+2022,2539,San Francisco Dons,2021-11-22,51.344984999999994,included_game_day
+2022,2539,San Francisco Dons,2021-11-25,59.437243689999995,included_game_day
+2022,2539,San Francisco Dons,2021-11-26,62.687431321,included_game_day
+2022,2539,San Francisco Dons,2021-12-04,70.7644394419,included_game_day
+2022,2539,San Francisco Dons,2021-12-08,73.21653784271,included_game_day
+2022,2539,San Francisco Dons,2021-12-18,69.558282100048,included_game_day
+2022,2539,San Francisco Dons,2021-12-19,66.52468353734574,included_game_day
+2022,2539,San Francisco Dons,2021-12-22,72.10430270925647,included_game_day
+2022,2539,San Francisco Dons,2022-01-06,69.62834632238852,included_game_day
+2022,2539,San Francisco Dons,2022-01-08,71.67110141558344,included_game_day
+2022,2539,San Francisco Dons,2022-01-13,85.25697215042088,included_game_day
+2022,2539,San Francisco Dons,2022-01-15,79.13449220064822,included_game_day
+2022,2539,San Francisco Dons,2022-01-20,79.50435671589312,included_game_day
+2022,2539,San Francisco Dons,2022-01-22,93.21734016408774,included_game_day
+2022,2539,San Francisco Dons,2022-01-27,89.40191666179938,included_game_day
+2022,2539,San Francisco Dons,2022-01-29,84.2685016561257,included_game_day
+2022,2539,San Francisco Dons,2022-02-03,98.89118577370762,included_game_day
+2022,2539,San Francisco Dons,2022-02-05,91.87301182533702,included_game_day
+2022,2539,San Francisco Dons,2022-02-08,76.25847266664053,included_game_day
+2022,2539,San Francisco Dons,2022-02-10,101.66607935577214,included_game_day
+2022,2539,San Francisco Dons,2022-02-12,117.89586373026503,included_game_day
+2022,2539,San Francisco Dons,2022-02-17,116.06368911485532,included_game_day
+2022,2539,San Francisco Dons,2022-02-21,134.3977733645461,included_game_day
+2022,2539,San Francisco Dons,2022-02-24,125.23062601257284,included_game_day
+2022,2539,San Francisco Dons,2022-02-26,125.71408775200227,included_game_day
+2022,2539,San Francisco Dons,2022-03-05,130.97687889427033,included_game_day
+2022,2539,San Francisco Dons,2022-03-07,130.0799473123383,included_game_day
+2022,2539,San Francisco Dons,2022-03-17,124.33618546680694,included_game_day
+2023,2539,San Francisco Dons,2022-11-07,10.0,included_game_day
+2023,2539,San Francisco Dons,2022-11-10,18.0,included_game_day
+2023,2539,San Francisco Dons,2022-11-16,25.5,included_game_day
+2023,2539,San Francisco Dons,2022-11-21,28.13,included_game_day
+2023,2539,San Francisco Dons,2022-11-22,31.98296,included_game_day
+2023,2539,San Francisco Dons,2022-11-25,22.749415999999997,included_game_day
+2023,2539,San Francisco Dons,2022-11-30,34.663181699999996,included_game_day
+2023,2539,San Francisco Dons,2022-12-04,14.779289972999997,included_game_day
+2023,2539,San Francisco Dons,2022-12-07,15.443758108157997,included_game_day
+2023,2539,San Francisco Dons,2022-12-12,18.2106411903122,included_game_day
+2023,2539,San Francisco Dons,2022-12-17,28.88320654657018,included_game_day
+2023,2539,San Francisco Dons,2022-12-19,13.896575188976161,included_game_day
+2023,2539,San Francisco Dons,2022-12-21,55.84452659384945,included_game_day
+2023,2539,San Francisco Dons,2022-12-22,66.01467672396348,included_game_day
+2023,2539,San Francisco Dons,2022-12-29,53.304593851623224,included_game_day
+2023,2539,San Francisco Dons,2022-12-31,30.437529566609594,included_game_day
+2023,2539,San Francisco Dons,2023-01-05,32.04376389539066,included_game_day
+2023,2539,San Francisco Dons,2023-01-07,38.52484935097423,included_game_day
+2023,2539,San Francisco Dons,2023-01-12,28.81883146031208,included_game_day
+2023,2539,San Francisco Dons,2023-01-14,18.621266818287005,included_game_day
+2023,2539,San Francisco Dons,2023-01-19,33.07209816935622,included_game_day
+2023,2539,San Francisco Dons,2023-01-21,40.671033698954396,included_game_day
+2023,2539,San Francisco Dons,2023-01-28,50.14105574133194,included_game_day
+2023,2539,San Francisco Dons,2023-02-02,54.42680639587954,included_game_day
+2023,2539,San Francisco Dons,2023-02-04,34.804684734185045,included_game_day
+2023,2539,San Francisco Dons,2023-02-09,28.04107015419441,included_game_day
+2023,2539,San Francisco Dons,2023-02-11,26.76141816829343,included_game_day
+2023,2539,San Francisco Dons,2023-02-16,33.113090995966,included_game_day
+2023,2539,San Francisco Dons,2023-02-23,26.08275080799298,included_game_day
+2023,2539,San Francisco Dons,2023-02-25,6.162480959255557,included_game_day
+2023,2539,San Francisco Dons,2023-03-03,20.440692823821898,included_game_day
+2023,2539,San Francisco Dons,2023-03-05,31.879398617762412,included_game_day
+2023,2539,San Francisco Dons,2023-03-06,35.39282207860471,included_game_day
+2024,2539,San Francisco Dons,2023-11-09,26.2,included_game_day
+2024,2539,San Francisco Dons,2023-11-12,21.58,included_game_day
+2024,2539,San Francisco Dons,2023-11-17,19.741999999999997,included_game_day
+2024,2539,San Francisco Dons,2023-11-19,33.2031,included_game_day
+2024,2539,San Francisco Dons,2023-11-22,46.470261,included_game_day
+2024,2539,San Francisco Dons,2023-11-26,64.4151399,included_game_day
+2024,2539,San Francisco Dons,2023-12-03,51.03761607,included_game_day
+2024,2539,San Francisco Dons,2023-12-06,59.3534974636,included_game_day
+2024,2539,San Francisco Dons,2023-12-11,58.92614414556,included_game_day
+2024,2539,San Francisco Dons,2023-12-13,55.795223200004,included_game_day
+2024,2539,San Francisco Dons,2023-12-16,57.3074279245329,included_game_day
+2024,2539,San Francisco Dons,2023-12-20,86.21811772897891,included_game_day
+2024,2539,San Francisco Dons,2023-12-22,93.02767678765522,included_game_day
+2024,2539,San Francisco Dons,2023-12-30,109.61515797683703,included_game_day
+2024,2539,San Francisco Dons,2024-01-04,92.06967689183634,included_game_day
+2024,2539,San Francisco Dons,2024-01-11,101.47490953163184,included_game_day
+2024,2539,San Francisco Dons,2024-01-13,107.48922945488717,included_game_day
+2024,2539,San Francisco Dons,2024-01-18,108.41570887571699,included_game_day
+2024,2539,San Francisco Dons,2024-01-20,90.15969207429175,included_game_day
+2024,2539,San Francisco Dons,2024-01-25,92.61774140882954,included_game_day
+2024,2539,San Francisco Dons,2024-01-27,87.4893959858889,included_game_day
+2024,2539,San Francisco Dons,2024-02-01,84.17526863063064,included_game_day
+2024,2539,San Francisco Dons,2024-02-03,64.50054249171197,included_game_day
+2024,2539,San Francisco Dons,2024-02-08,59.24744900779085,included_game_day
+2024,2539,San Francisco Dons,2024-02-10,53.14645093959429,included_game_day
+2024,2539,San Francisco Dons,2024-02-17,71.18871546221779,included_game_day
+2024,2539,San Francisco Dons,2024-02-20,81.24053609607562,included_game_day
+2024,2539,San Francisco Dons,2024-02-24,89.71174038334861,included_game_day
+2024,2539,San Francisco Dons,2024-02-29,73.57116811341396,included_game_day
+2024,2539,San Francisco Dons,2024-03-02,64.27929585919999,included_game_day
+2024,2539,San Francisco Dons,2024-03-10,72.30647538367333,included_game_day
+2024,2539,San Francisco Dons,2024-03-11,70.35986625740594,included_game_day
+2024,2539,San Francisco Dons,2024-03-20,76.68095527311849,included_game_day
+2025,2539,San Francisco Dons,2024-11-05,5.0,included_game_day
+2025,2539,San Francisco Dons,2024-11-09,16.6,included_game_day
+2025,2539,San Francisco Dons,2024-11-13,42.21,included_game_day
+2025,2539,San Francisco Dons,2024-11-16,73.403,included_game_day
+2025,2539,San Francisco Dons,2024-11-21,62.336800000000004,included_game_day
+2025,2539,San Francisco Dons,2024-11-25,46.8387,included_game_day
+2025,2539,San Francisco Dons,2024-11-26,60.962717500000004,included_game_day
+2025,2539,San Francisco Dons,2024-12-01,75.28535755,included_game_day
+2025,2539,San Francisco Dons,2024-12-05,79.3102264014,included_game_day
+2025,2539,San Francisco Dons,2024-12-15,87.32157753683,included_game_day
+2025,2539,San Francisco Dons,2024-12-18,85.0743679197492,included_game_day
+2025,2539,San Francisco Dons,2024-12-21,73.96097230418609,included_game_day
+2025,2539,San Francisco Dons,2024-12-28,78.93656895283067,included_game_day
+2025,2539,San Francisco Dons,2024-12-30,78.21236046914396,included_game_day
+2025,2539,San Francisco Dons,2025-01-02,73.64615107564757,included_game_day
+2025,2539,San Francisco Dons,2025-01-04,66.92743433529687,included_game_day
+2025,2539,San Francisco Dons,2025-01-09,56.8187526278868,included_game_day
+2025,2539,San Francisco Dons,2025-01-11,37.176396740647924,included_game_day
+2025,2539,San Francisco Dons,2025-01-16,53.59438770351575,included_game_day
+2025,2539,San Francisco Dons,2025-01-18,65.93048345628581,included_game_day
+2025,2539,San Francisco Dons,2025-01-23,56.693721958873496,included_game_day
+2025,2539,San Francisco Dons,2025-01-25,51.32268709751749,included_game_day
+2025,2539,San Francisco Dons,2025-02-01,69.32362937820263,included_game_day
+2025,2539,San Francisco Dons,2025-02-06,76.5551067624083,included_game_day
+2025,2539,San Francisco Dons,2025-02-08,79.14007635035912,included_game_day
+2025,2539,San Francisco Dons,2025-02-13,79.9152049027211,included_game_day
+2025,2539,San Francisco Dons,2025-02-15,88.54667124589722,included_game_day
+2025,2539,San Francisco Dons,2025-02-20,84.00424635153092,included_game_day
+2025,2539,San Francisco Dons,2025-02-26,83.94558589214728,included_game_day
+2025,2539,San Francisco Dons,2025-03-01,75.6183767225583,included_game_day
+2025,2539,San Francisco Dons,2025-03-09,78.26043497100271,included_game_day
+2025,2539,San Francisco Dons,2025-03-10,82.33446181048708,included_game_day
+2025,2539,San Francisco Dons,2025-03-19,86.53926428395526,included_game_day
+2025,2539,San Francisco Dons,2025-03-23,80.24229562961632,included_game_day
+2026,2539,San Francisco Dons,2025-11-08,-3.0,included_game_day
+2026,2539,San Francisco Dons,2025-11-12,3.5999999999999996,included_game_day
+2026,2539,San Francisco Dons,2025-11-15,12.071,included_game_day
+2026,2539,San Francisco Dons,2025-11-18,23.206899999999997,included_game_day
+2026,2539,San Francisco Dons,2025-11-22,36.307579,included_game_day
+2026,2539,San Francisco Dons,2025-11-27,27.165675099999998,included_game_day
+2026,2539,San Francisco Dons,2025-11-28,8.416819949999997,included_game_day
+2026,2539,San Francisco Dons,2025-12-03,-0.8013484439000038,included_game_day
+2026,2539,San Francisco Dons,2025-12-07,3.2677252434399957,included_game_day
+2026,2539,San Francisco Dons,2025-12-13,8.524913971963697,included_game_day
+2026,2539,San Francisco Dons,2025-12-17,10.974481701990538,included_game_day
+2026,2539,San Francisco Dons,2025-12-21,23.976408353615582,included_game_day
+2026,2539,San Francisco Dons,2025-12-28,35.77672210709921,included_game_day
+2026,2539,San Francisco Dons,2025-12-30,23.722373146016224,included_game_day
+2026,2539,San Francisco Dons,2026-01-02,26.797744413995172,included_game_day
+2026,2539,San Francisco Dons,2026-01-04,21.009296053054783,included_game_day
+2026,2539,San Francisco Dons,2026-01-08,21.253594322535797,included_game_day
+2026,2539,San Francisco Dons,2026-01-10,34.392774795230025,included_game_day
+2026,2539,San Francisco Dons,2026-01-13,24.33486053100093,included_game_day
+2026,2539,San Francisco Dons,2026-01-18,24.224376528685934,included_game_day
+2026,2539,San Francisco Dons,2026-01-24,42.517178659762564,included_game_day
+2026,2539,San Francisco Dons,2026-01-28,37.92867703614195,included_game_day
+2026,2539,San Francisco Dons,2026-01-31,40.297498366074365,included_game_day
+2026,2539,San Francisco Dons,2026-02-04,18.144973480505406,included_game_day
+2026,2539,San Francisco Dons,2026-02-07,6.85298851231042,included_game_day
+2026,2539,San Francisco Dons,2026-02-12,-27.193823024215348,included_game_day
+2026,2539,San Francisco Dons,2026-02-15,-12.823947378410248,included_game_day
+2026,2539,San Francisco Dons,2026-02-18,-17.83737841253747,included_game_day
+2026,2539,San Francisco Dons,2026-02-21,-27.235804706923872,included_game_day
+2026,2539,San Francisco Dons,2026-02-28,-6.663981057403561,included_game_day
+2026,2539,San Francisco Dons,2026-03-07,6.758281798244916,included_game_day
+2026,2539,San Francisco Dons,2026-03-08,3.9811909234181853,included_game_day
+2027,2539,San Francisco Dons,2026-11-02,11.0,included_game_day
+2027,2539,San Francisco Dons,2026-11-06,12.120000000000001,included_game_day
+2027,2539,San Francisco Dons,2026-11-10,11.408000000000001,included_game_day
+2027,2539,San Francisco Dons,2026-11-14,-11.311799999999998,included_game_day
+2027,2539,San Francisco Dons,2026-11-18,5.1993800000000014,included_game_day
+2027,2539,San Francisco Dons,2026-11-23,-1.6047369999999983,included_game_day

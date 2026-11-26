@@ -1,0 +1,1000 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,159,Dartmouth,1987-11-28,13.0,included_game_day
+1988,159,Dartmouth,1987-12-02,35.126000000000005,included_game_day
+1988,159,Dartmouth,1987-12-12,32.368912,included_game_day
+1988,159,Dartmouth,1987-12-17,36.562775810000005,included_game_day
+1988,159,Dartmouth,1987-12-20,30.931403029000005,included_game_day
+1988,159,Dartmouth,1987-12-21,1.3421847261000046,included_game_day
+1988,159,Dartmouth,1988-01-03,-5.271646157991697,included_game_day
+1988,159,Dartmouth,1988-01-09,-10.460471536797431,included_game_day
+1988,159,Dartmouth,1988-01-12,-4.439681997821049,included_game_day
+1988,159,Dartmouth,1988-01-15,10.511362600163622,included_game_day
+1988,159,Dartmouth,1988-01-16,16.596105222386523,included_game_day
+1988,159,Dartmouth,1988-01-19,4.887221335045952,included_game_day
+1988,159,Dartmouth,1988-01-23,8.182920358234648,included_game_day
+1988,159,Dartmouth,1988-01-31,23.6997735321621,included_game_day
+1988,159,Dartmouth,1988-02-02,16.474637364367425,included_game_day
+1988,159,Dartmouth,1988-02-05,24.299486361416196,included_game_day
+1988,159,Dartmouth,1988-02-06,27.89688801430366,included_game_day
+1988,159,Dartmouth,1988-02-12,9.384821725850365,included_game_day
+1988,159,Dartmouth,1988-02-13,2.861214889309341,included_game_day
+1988,159,Dartmouth,1988-02-19,-6.761316795231453,included_game_day
+1988,159,Dartmouth,1988-02-20,-24.56196044352739,included_game_day
+1988,159,Dartmouth,1988-02-26,-29.317623182521025,included_game_day
+1988,159,Dartmouth,1988-02-27,-15.419572937178343,included_game_day
+1988,159,Dartmouth,1988-03-04,-0.8307198799600375,included_game_day
+1988,159,Dartmouth,1988-03-05,-4.120113155747748,included_game_day
+1989,159,Dartmouth,1988-11-25,-23.0,included_game_day
+1989,159,Dartmouth,1988-11-26,-19.1,included_game_day
+1989,159,Dartmouth,1988-11-29,-12.89,included_game_day
+1989,159,Dartmouth,1988-12-12,-6.042435,included_game_day
+1989,159,Dartmouth,1988-12-16,3.2328975787000003,included_game_day
+1989,159,Dartmouth,1988-12-17,5.075242766410001,included_game_day
+1989,159,Dartmouth,1988-12-20,7.38605184814385,included_game_day
+1989,159,Dartmouth,1988-12-22,-15.5463375845444,included_game_day
+1989,159,Dartmouth,1989-01-03,-26.413540962287453,included_game_day
+1989,159,Dartmouth,1989-01-07,-22.113353752833355,included_game_day
+1989,159,Dartmouth,1989-01-10,-21.399352050959898,included_game_day
+1989,159,Dartmouth,1989-01-13,-4.498162267676687,included_game_day
+1989,159,Dartmouth,1989-01-14,4.920314102402838,included_game_day
+1989,159,Dartmouth,1989-01-17,6.717398016426442,included_game_day
+1989,159,Dartmouth,1989-01-23,-5.645876817622932,included_game_day
+1989,159,Dartmouth,1989-01-31,-7.283740005337516,included_game_day
+1989,159,Dartmouth,1989-02-03,-7.421337325968656,included_game_day
+1989,159,Dartmouth,1989-02-04,-14.68538731651939,included_game_day
+1989,159,Dartmouth,1989-02-10,-12.570449463872375,included_game_day
+1989,159,Dartmouth,1989-02-11,-16.673107937240033,included_game_day
+1989,159,Dartmouth,1989-02-17,-1.1170112165572554,included_game_day
+1989,159,Dartmouth,1989-02-18,-25.76453258049613,included_game_day
+1989,159,Dartmouth,1989-02-24,-42.667128424976056,included_game_day
+1989,159,Dartmouth,1989-02-25,-43.99946650657684,included_game_day
+1989,159,Dartmouth,1989-03-03,-31.105581560426934,included_game_day
+1989,159,Dartmouth,1989-03-04,-15.076344119685018,included_game_day
+1990,159,Dartmouth,1989-11-27,-3.7,included_game_day
+1990,159,Dartmouth,1989-11-30,-3.646,included_game_day
+1990,159,Dartmouth,1989-12-16,1.7674816178600006,included_game_day
+1990,159,Dartmouth,1989-12-17,14.123759240174,included_game_day
+1990,159,Dartmouth,1989-12-19,5.184615496156599,included_game_day
+1990,159,Dartmouth,1989-12-22,-11.356447626859062,included_game_day
+1990,159,Dartmouth,1989-12-23,-17.076467617801512,included_game_day
+1990,159,Dartmouth,1990-01-03,-32.58072287064679,included_game_day
+1990,159,Dartmouth,1990-01-06,-32.87382286341797,included_game_day
+1990,159,Dartmouth,1990-01-09,-37.8149899852126,included_game_day
+1990,159,Dartmouth,1990-01-12,-45.391699189114995,included_game_day
+1990,159,Dartmouth,1990-01-13,-50.271274654467724,included_game_day
+1990,159,Dartmouth,1990-01-17,-29.902749545436848,included_game_day
+1990,159,Dartmouth,1990-01-21,-40.005619964940664,included_game_day
+1990,159,Dartmouth,1990-01-30,-53.824476059523356,included_game_day
+1990,159,Dartmouth,1990-02-02,-46.829519851480356,included_game_day
+1990,159,Dartmouth,1990-02-03,-53.29980179079501,included_game_day
+1990,159,Dartmouth,1990-02-09,-60.999978004543266,included_game_day
+1990,159,Dartmouth,1990-02-10,-84.12803128457435,included_game_day
+1990,159,Dartmouth,1990-02-13,-94.20313638845157,included_game_day
+1990,159,Dartmouth,1990-02-16,-96.17761159928001,included_game_day
+1990,159,Dartmouth,1990-02-17,-90.4598834576635,included_game_day
+1990,159,Dartmouth,1990-02-23,-84.05764146752995,included_game_day
+1990,159,Dartmouth,1990-02-24,-62.581423848079524,included_game_day
+1990,159,Dartmouth,1990-03-02,-76.72218383734892,included_game_day
+1990,159,Dartmouth,1990-03-03,-69.46168897651938,included_game_day
+1991,159,Dartmouth,1990-11-23,-8.0,included_game_day
+1991,159,Dartmouth,1990-11-24,0.6999999999999993,included_game_day
+1991,159,Dartmouth,1990-12-11,-18.3918864,included_game_day
+1991,159,Dartmouth,1990-12-15,-34.52156916,included_game_day
+1991,159,Dartmouth,1990-12-17,-44.4748614473,included_game_day
+1991,159,Dartmouth,1990-12-28,-50.97145488257,included_game_day
+1991,159,Dartmouth,1990-12-29,-59.38762733909243,included_game_day
+1991,159,Dartmouth,1991-01-02,-41.75746758447492,included_game_day
+1991,159,Dartmouth,1991-01-05,-51.96272147351455,included_game_day
+1991,159,Dartmouth,1991-01-08,-49.6073405943949,included_game_day
+1991,159,Dartmouth,1991-01-11,-52.703797656870314,included_game_day
+1991,159,Dartmouth,1991-01-12,-61.82059681979393,included_game_day
+1991,159,Dartmouth,1991-01-17,-47.256211843228165,included_game_day
+1991,159,Dartmouth,1991-01-23,-42.05920617372965,included_game_day
+1991,159,Dartmouth,1991-02-01,-38.82405094766305,included_game_day
+1991,159,Dartmouth,1991-02-02,-54.52633561603733,included_game_day
+1991,159,Dartmouth,1991-02-08,-51.84947334684644,included_game_day
+1991,159,Dartmouth,1991-02-09,-58.56625071435246,included_game_day
+1991,159,Dartmouth,1991-02-15,-46.15904702419427,included_game_day
+1991,159,Dartmouth,1991-02-16,-46.21883062258982,included_game_day
+1991,159,Dartmouth,1991-02-19,-60.93658591843841,included_game_day
+1991,159,Dartmouth,1991-02-22,-89.48512674717159,included_game_day
+1991,159,Dartmouth,1991-02-23,-81.57079454670617,included_game_day
+1991,159,Dartmouth,1991-03-01,-88.0374632041809,included_game_day
+1991,159,Dartmouth,1991-03-02,-80.78987850870774,included_game_day
+1992,159,Dartmouth,1991-11-30,-7.7,included_game_day
+1992,159,Dartmouth,1991-12-04,-17.405,included_game_day
+1992,159,Dartmouth,1991-12-13,-4.871614270000002,included_game_day
+1992,159,Dartmouth,1991-12-14,7.932145734799999,included_game_day
+1992,159,Dartmouth,1991-12-17,3.4234711613199984,included_game_day
+1992,159,Dartmouth,1991-12-23,-19.115973659238524,included_game_day
+1992,159,Dartmouth,1991-12-29,-36.82410618610467,included_game_day
+1992,159,Dartmouth,1991-12-30,-34.50666728510001,included_game_day
+1992,159,Dartmouth,1992-01-06,-48.61674253710105,included_game_day
+1992,159,Dartmouth,1992-01-08,-51.709942257767956,included_game_day
+1992,159,Dartmouth,1992-01-11,-68.42674395029562,included_game_day
+1992,159,Dartmouth,1992-01-13,-69.30803368501716,included_game_day
+1992,159,Dartmouth,1992-01-22,-69.97302367050833,included_game_day
+1992,159,Dartmouth,1992-01-31,-59.82310856900597,included_game_day
+1992,159,Dartmouth,1992-02-01,-89.97669774784453,included_game_day
+1992,159,Dartmouth,1992-02-07,-81.70005742748285,included_game_day
+1992,159,Dartmouth,1992-02-08,-73.79676785606651,included_game_day
+1992,159,Dartmouth,1992-02-14,-84.32254101284434,included_game_day
+1992,159,Dartmouth,1992-02-15,-94.65927404438342,included_game_day
+1992,159,Dartmouth,1992-02-21,-83.66407961926453,included_game_day
+1992,159,Dartmouth,1992-02-22,-83.653148023373,included_game_day
+1992,159,Dartmouth,1992-02-28,-96.1851111678136,included_game_day
+1992,159,Dartmouth,1992-02-29,-92.3350236754935,included_game_day
+1992,159,Dartmouth,1992-03-06,-99.50908538189117,included_game_day
+1992,159,Dartmouth,1992-03-07,-98.41223579631585,included_game_day
+1993,159,Dartmouth,1992-12-01,0.0,included_game_day
+1993,159,Dartmouth,1992-12-15,17.518046,included_game_day
+1993,159,Dartmouth,1992-12-19,17.2600414,included_game_day
+1993,159,Dartmouth,1992-12-20,-3.904416510000001,included_game_day
+1993,159,Dartmouth,1992-12-28,-7.567848055000001,included_game_day
+1993,159,Dartmouth,1992-12-30,-13.1181058435,included_game_day
+1993,159,Dartmouth,1993-01-04,-13.263248249843882,included_game_day
+1993,159,Dartmouth,1993-01-08,-29.02018416623749,included_game_day
+1993,159,Dartmouth,1993-01-09,-40.53009236200193,included_game_day
+1993,159,Dartmouth,1993-01-12,-38.96884051168203,included_game_day
+1993,159,Dartmouth,1993-01-16,-22.674101501895727,included_game_day
+1993,159,Dartmouth,1993-01-19,-14.711543977909436,included_game_day
+1993,159,Dartmouth,1993-01-25,-27.88411687865996,included_game_day
+1993,159,Dartmouth,1993-01-30,-37.407923043522885,included_game_day
+1993,159,Dartmouth,1993-02-02,-2.7860253793690006,included_game_day
+1993,159,Dartmouth,1993-02-05,13.486839539238716,included_game_day
+1993,159,Dartmouth,1993-02-06,-6.769612625770694,included_game_day
+1993,159,Dartmouth,1993-02-12,-12.086326895739198,included_game_day
+1993,159,Dartmouth,1993-02-13,-27.393779331307663,included_game_day
+1993,159,Dartmouth,1993-02-19,-30.573175486673737,included_game_day
+1993,159,Dartmouth,1993-02-20,-42.2897968674758,included_game_day
+1993,159,Dartmouth,1993-02-26,-43.42164191795119,included_game_day
+1993,159,Dartmouth,1993-02-27,-46.602686901322706,included_game_day
+1993,159,Dartmouth,1993-03-05,-48.80084052892294,included_game_day
+1993,159,Dartmouth,1993-03-06,-48.987646645422814,included_game_day
+1994,159,Dartmouth,1993-11-27,-18.0,included_game_day
+1994,159,Dartmouth,1993-11-30,-32.0,included_game_day
+1994,159,Dartmouth,1993-12-11,-44.871,included_game_day
+1994,159,Dartmouth,1993-12-14,-37.4980008,included_game_day
+1994,159,Dartmouth,1993-12-18,-75.18416782,included_game_day
+1994,159,Dartmouth,1993-12-20,-99.444878738,included_game_day
+1994,159,Dartmouth,1993-12-28,-98.023758699,included_game_day
+1994,159,Dartmouth,1994-01-02,-104.12795032392,included_game_day
+1994,159,Dartmouth,1994-01-07,-118.76028117235099,included_game_day
+1994,159,Dartmouth,1994-01-08,-118.17483384396905,included_game_day
+1994,159,Dartmouth,1994-01-11,-118.93467581466302,included_game_day
+1994,159,Dartmouth,1994-01-15,-124.98130835400319,included_game_day
+1994,159,Dartmouth,1994-01-18,-106.93713417123689,included_game_day
+1994,159,Dartmouth,1994-01-22,-100.37015707323448,included_game_day
+1994,159,Dartmouth,1994-01-31,-76.91850859983097,included_game_day
+1994,159,Dartmouth,1994-02-04,-69.90382108429006,included_game_day
+1994,159,Dartmouth,1994-02-05,-41.5233219023708,included_game_day
+1994,159,Dartmouth,1994-02-11,-67.92049826256445,included_game_day
+1994,159,Dartmouth,1994-02-12,-51.97721284910794,included_game_day
+1994,159,Dartmouth,1994-02-18,-52.890652574929476,included_game_day
+1994,159,Dartmouth,1994-02-19,-49.94949456508351,included_game_day
+1994,159,Dartmouth,1994-02-25,-53.20712977515308,included_game_day
+1994,159,Dartmouth,1994-02-26,-50.45418098217742,included_game_day
+1994,159,Dartmouth,1994-03-04,-57.70831899080312,included_game_day
+1994,159,Dartmouth,1994-03-05,-45.99640444307576,included_game_day
+1995,159,Dartmouth,1994-11-25,-27.0,included_game_day
+1995,159,Dartmouth,1994-11-26,-46.8,included_game_day
+1995,159,Dartmouth,1994-11-28,-33.12,included_game_day
+1995,159,Dartmouth,1994-12-10,-35.417238999999995,included_game_day
+1995,159,Dartmouth,1994-12-13,-33.1580441,included_game_day
+1995,159,Dartmouth,1994-12-16,-37.440212089999996,included_game_day
+1995,159,Dartmouth,1994-12-18,-22.206292480999995,included_game_day
+1995,159,Dartmouth,1994-12-20,-22.117107289899995,included_game_day
+1995,159,Dartmouth,1995-01-02,-29.034516907699995,included_game_day
+1995,159,Dartmouth,1995-01-06,-19.321411304975577,included_game_day
+1995,159,Dartmouth,1995-01-07,-26.69313058229238,included_game_day
+1995,159,Dartmouth,1995-01-14,-27.599825365210037,included_game_day
+1995,159,Dartmouth,1995-01-17,-30.027582154394953,included_game_day
+1995,159,Dartmouth,1995-01-23,-56.63743492181197,included_game_day
+1995,159,Dartmouth,1995-01-31,-70.89856858618016,included_game_day
+1995,159,Dartmouth,1995-02-03,-53.74469917018329,included_game_day
+1995,159,Dartmouth,1995-02-04,-37.767783777779684,included_game_day
+1995,159,Dartmouth,1995-02-10,-31.576505013535805,included_game_day
+1995,159,Dartmouth,1995-02-11,-34.05727220028757,included_game_day
+1995,159,Dartmouth,1995-02-17,-28.953452356258015,included_game_day
+1995,159,Dartmouth,1995-02-18,-29.79186005641354,included_game_day
+1995,159,Dartmouth,1995-02-24,-22.882840495968125,included_game_day
+1995,159,Dartmouth,1995-02-25,-23.969747955908037,included_game_day
+1995,159,Dartmouth,1995-03-03,-38.02221174417426,included_game_day
+1995,159,Dartmouth,1995-03-04,-31.155507063716882,included_game_day
+1996,159,Dartmouth,1995-11-25,4.0,included_game_day
+1996,159,Dartmouth,1995-11-30,13.41,included_game_day
+1996,159,Dartmouth,1995-12-09,4.176058000000001,included_game_day
+1996,159,Dartmouth,1995-12-12,20.0277673,included_game_day
+1996,159,Dartmouth,1995-12-14,15.08712057,included_game_day
+1996,159,Dartmouth,1995-12-16,-5.889317586999997,included_game_day
+1996,159,Dartmouth,1995-12-21,-10.492683318299997,included_game_day
+1996,159,Dartmouth,1995-12-28,-24.75618294747,included_game_day
+1996,159,Dartmouth,1995-12-29,-26.7613721329761,included_game_day
+1996,159,Dartmouth,1996-01-06,-45.49393412718076,included_game_day
+1996,159,Dartmouth,1996-01-12,-48.00591654228499,included_game_day
+1996,159,Dartmouth,1996-01-13,-42.768765501078484,included_game_day
+1996,159,Dartmouth,1996-01-17,-47.85703017854376,included_game_day
+1996,159,Dartmouth,1996-01-20,-47.882053450802395,included_game_day
+1996,159,Dartmouth,1996-01-27,-40.00785570778816,included_game_day
+1996,159,Dartmouth,1996-02-02,-33.080152576503934,included_game_day
+1996,159,Dartmouth,1996-02-03,-17.75567171588756,included_game_day
+1996,159,Dartmouth,1996-02-09,-16.222865501613114,included_game_day
+1996,159,Dartmouth,1996-02-10,-25.27809751449935,included_game_day
+1996,159,Dartmouth,1996-02-16,-29.608767291794116,included_game_day
+1996,159,Dartmouth,1996-02-17,-18.45707884527565,included_game_day
+1996,159,Dartmouth,1996-02-23,-34.598297321702304,included_game_day
+1996,159,Dartmouth,1996-02-24,-54.09253871991069,included_game_day
+1996,159,Dartmouth,1996-03-01,-61.32315369825179,included_game_day
+1996,159,Dartmouth,1996-03-02,-53.570972555017114,included_game_day
+1997,159,Dartmouth,1996-11-22,10.0,included_game_day
+1997,159,Dartmouth,1996-11-24,27.0,included_game_day
+1997,159,Dartmouth,1996-11-30,27.0,included_game_day
+1997,159,Dartmouth,1996-12-01,22.23,included_game_day
+1997,159,Dartmouth,1996-12-04,47.2825,included_game_day
+1997,159,Dartmouth,1996-12-14,49.769359339999994,included_game_day
+1997,159,Dartmouth,1996-12-17,57.516033977999996,included_game_day
+1997,159,Dartmouth,1996-12-21,68.3223419802,included_game_day
+1997,159,Dartmouth,1996-12-29,77.63841866464999,included_game_day
+1997,159,Dartmouth,1996-12-30,64.382191962251,included_game_day
+1997,159,Dartmouth,1997-01-06,47.021390809854026,included_game_day
+1997,159,Dartmouth,1997-01-10,49.23446192057877,included_game_day
+1997,159,Dartmouth,1997-01-11,52.00332952534339,included_game_day
+1997,159,Dartmouth,1997-01-21,37.91635128777671,included_game_day
+1997,159,Dartmouth,1997-01-27,25.376074147246698,included_game_day
+1997,159,Dartmouth,1997-01-31,21.229419083079485,included_game_day
+1997,159,Dartmouth,1997-02-01,8.454527363891494,included_game_day
+1997,159,Dartmouth,1997-02-07,15.646988071794611,included_game_day
+1997,159,Dartmouth,1997-02-08,20.54782889080615,included_game_day
+1997,159,Dartmouth,1997-02-14,50.788868057149216,included_game_day
+1997,159,Dartmouth,1997-02-15,49.73832411374151,included_game_day
+1997,159,Dartmouth,1997-02-21,36.026136565041874,included_game_day
+1997,159,Dartmouth,1997-02-22,33.25912613854695,included_game_day
+1997,159,Dartmouth,1997-02-28,35.97762879725353,included_game_day
+1997,159,Dartmouth,1997-03-01,47.326551268386616,included_game_day
+1998,159,Dartmouth,1997-11-19,8.46,included_game_day
+1998,159,Dartmouth,1997-11-21,3.6140000000000008,included_game_day
+1998,159,Dartmouth,1997-11-23,-5.397399999999999,included_game_day
+1998,159,Dartmouth,1997-11-28,2.132340000000001,included_game_day
+1998,159,Dartmouth,1997-11-29,-23.648184,included_game_day
+1998,159,Dartmouth,1997-12-03,-27.9837316,included_game_day
+1998,159,Dartmouth,1997-12-13,-38.5028436786,included_game_day
+1998,159,Dartmouth,1997-12-16,-55.56937273323,included_game_day
+1998,159,Dartmouth,1997-12-22,-67.985446421477,included_game_day
+1998,159,Dartmouth,1997-12-29,-68.38146741488191,included_game_day
+1998,159,Dartmouth,1997-12-30,-75.9195943001125,included_game_day
+1998,159,Dartmouth,1998-01-05,-64.59228567261545,included_game_day
+1998,159,Dartmouth,1998-01-09,-73.17329365582171,included_game_day
+1998,159,Dartmouth,1998-01-10,-73.04207345184119,included_game_day
+1998,159,Dartmouth,1998-01-21,-76.6086312839821,included_game_day
+1998,159,Dartmouth,1998-01-24,-67.60864376424979,included_game_day
+1998,159,Dartmouth,1998-01-30,-58.18393564719567,included_game_day
+1998,159,Dartmouth,1998-01-31,-43.018660040895995,included_game_day
+1998,159,Dartmouth,1998-02-06,-63.406173669427645,included_game_day
+1998,159,Dartmouth,1998-02-07,-72.67338995500911,included_game_day
+1998,159,Dartmouth,1998-02-13,-82.22875610830116,included_game_day
+1998,159,Dartmouth,1998-02-14,-102.70384000983094,included_game_day
+1998,159,Dartmouth,1998-02-20,-103.31648169204637,included_game_day
+1998,159,Dartmouth,1998-02-21,-96.19282060835683,included_game_day
+1998,159,Dartmouth,1998-02-27,-92.68037077588964,included_game_day
+1998,159,Dartmouth,1998-02-28,-99.47415122593966,included_game_day
+1999,159,Dartmouth,1998-11-14,-18.0,included_game_day
+1999,159,Dartmouth,1998-11-18,-9.2,included_game_day
+1999,159,Dartmouth,1998-11-21,-33.28,included_game_day
+1999,159,Dartmouth,1998-12-01,-39.9147694,included_game_day
+1999,159,Dartmouth,1998-12-13,-32.3457626524,included_game_day
+1999,159,Dartmouth,1998-12-16,-9.201748437299397,included_game_day
+1999,159,Dartmouth,1998-12-19,-15.74342663049633,included_game_day
+1999,159,Dartmouth,1998-12-21,-26.101656092970956,included_game_day
+1999,159,Dartmouth,1998-12-28,-29.08040278656204,included_game_day
+1999,159,Dartmouth,1998-12-31,-44.65375762913017,included_game_day
+1999,159,Dartmouth,1999-01-02,-51.193914668110125,included_game_day
+1999,159,Dartmouth,1999-01-08,-44.47332059596701,included_game_day
+1999,159,Dartmouth,1999-01-09,-29.371889088180353,included_game_day
+1999,159,Dartmouth,1999-01-13,-29.397175214258052,included_game_day
+1999,159,Dartmouth,1999-01-23,-9.795489285453083,included_game_day
+1999,159,Dartmouth,1999-01-30,3.416952743460289,included_game_day
+1999,159,Dartmouth,1999-01-31,-9.48856683183114,included_game_day
+1999,159,Dartmouth,1999-02-05,-10.25496850153895,included_game_day
+1999,159,Dartmouth,1999-02-06,-27.11393452153852,included_game_day
+1999,159,Dartmouth,1999-02-12,-24.400050788728127,included_game_day
+1999,159,Dartmouth,1999-02-13,-26.504198282322616,included_game_day
+1999,159,Dartmouth,1999-02-19,-33.01347910344314,included_game_day
+1999,159,Dartmouth,1999-02-20,-57.24858471503542,included_game_day
+1999,159,Dartmouth,1999-02-26,-42.46702652693583,included_game_day
+1999,159,Dartmouth,1999-02-27,-43.81694031706986,included_game_day
+2000,159,Dartmouth,1999-11-19,3.0,included_game_day
+2000,159,Dartmouth,1999-11-20,4.8,included_game_day
+2000,159,Dartmouth,1999-11-26,-13.355,included_game_day
+2000,159,Dartmouth,1999-11-30,-0.8575000000000017,included_game_day
+2000,159,Dartmouth,1999-12-11,-11.3273878199,included_game_day
+2000,159,Dartmouth,1999-12-15,-17.25286060894,included_game_day
+2000,159,Dartmouth,1999-12-18,-26.045918177046,included_game_day
+2000,159,Dartmouth,1999-12-21,-10.412806721891402,included_game_day
+2000,159,Dartmouth,1999-12-30,-23.76774168414967,included_game_day
+2000,159,Dartmouth,2000-01-02,-47.60160491048449,included_game_day
+2000,159,Dartmouth,2000-01-08,-54.236042616616565,included_game_day
+2000,159,Dartmouth,2000-01-14,-65.5638682774997,included_game_day
+2000,159,Dartmouth,2000-01-15,-65.47325038870608,included_game_day
+2000,159,Dartmouth,2000-01-22,-64.0179908520072,included_game_day
+2000,159,Dartmouth,2000-01-26,-86.8008732874066,included_game_day
+2000,159,Dartmouth,2000-01-29,-93.05535225730384,included_game_day
+2000,159,Dartmouth,2000-02-04,-85.3261105910921,included_game_day
+2000,159,Dartmouth,2000-02-05,-78.5861026550388,included_game_day
+2000,159,Dartmouth,2000-02-11,-88.85751761232522,included_game_day
+2000,159,Dartmouth,2000-02-12,-83.0192661318114,included_game_day
+2000,159,Dartmouth,2000-02-18,-79.73792151561506,included_game_day
+2000,159,Dartmouth,2000-02-19,-79.46702991323106,included_game_day
+2000,159,Dartmouth,2000-02-25,-80.51811099262598,included_game_day
+2000,159,Dartmouth,2000-02-26,-78.22300992796067,included_game_day
+2000,159,Dartmouth,2000-03-03,-68.64671516278767,included_game_day
+2000,159,Dartmouth,2000-03-04,-72.85945634745836,included_game_day
+2001,159,Dartmouth,2000-11-17,-11.0,included_game_day
+2001,159,Dartmouth,2000-11-18,-29.3,included_game_day
+2001,159,Dartmouth,2000-11-25,-36.27,included_game_day
+2001,159,Dartmouth,2000-11-28,-50.201,included_game_day
+2001,159,Dartmouth,2000-12-09,-52.5067734131,included_game_day
+2001,159,Dartmouth,2000-12-16,-42.95327506379,included_game_day
+2001,159,Dartmouth,2000-12-19,-23.071759752899002,included_game_day
+2001,159,Dartmouth,2000-12-22,-31.8628584577791,included_game_day
+2001,159,Dartmouth,2000-12-30,-61.805429698762865,included_game_day
+2001,159,Dartmouth,2001-01-06,-63.937799887731096,included_game_day
+2001,159,Dartmouth,2001-01-12,-72.26344645957002,included_game_day
+2001,159,Dartmouth,2001-01-13,-74.35095899269422,included_game_day
+2001,159,Dartmouth,2001-01-17,-58.69811753180835,included_game_day
+2001,159,Dartmouth,2001-01-20,-54.847065826028775,included_game_day
+2001,159,Dartmouth,2001-01-24,-44.436252499647566,included_game_day
+2001,159,Dartmouth,2001-01-29,-44.23281775648933,included_game_day
+2001,159,Dartmouth,2001-02-02,-59.18405471585424,included_game_day
+2001,159,Dartmouth,2001-02-03,-54.1519495466091,included_game_day
+2001,159,Dartmouth,2001-02-09,-51.52285719940112,included_game_day
+2001,159,Dartmouth,2001-02-10,-65.38201130671081,included_game_day
+2001,159,Dartmouth,2001-02-16,-89.5409904126377,included_game_day
+2001,159,Dartmouth,2001-02-17,-98.84712051043262,included_game_day
+2001,159,Dartmouth,2001-02-23,-98.31928256278775,included_game_day
+2001,159,Dartmouth,2001-02-24,-103.52066551370729,included_game_day
+2001,159,Dartmouth,2001-03-02,-102.37916563781226,included_game_day
+2001,159,Dartmouth,2001-03-03,-105.33466306339207,included_game_day
+2002,159,Dartmouth Big Green,2001-11-16,0.0,included_game_day
+2002,159,Dartmouth Big Green,2001-11-20,-20.119,included_game_day
+2002,159,Dartmouth Big Green,2001-11-24,-16.5004,included_game_day
+2002,159,Dartmouth Big Green,2001-11-27,-5.5183599999999995,included_game_day
+2002,159,Dartmouth Big Green,2001-11-30,-5.331624,included_game_day
+2002,159,Dartmouth Big Green,2001-12-12,-24.262125527000002,included_game_day
+2002,159,Dartmouth Big Green,2001-12-15,-37.819988483580005,included_game_day
+2002,159,Dartmouth Big Green,2001-12-18,-27.349470017222004,included_game_day
+2002,159,Dartmouth Big Green,2001-12-21,-25.831379764699804,included_game_day
+2002,159,Dartmouth Big Green,2001-12-28,-24.329607950460453,included_game_day
+2002,159,Dartmouth Big Green,2001-12-29,-28.37297150370224,included_game_day
+2002,159,Dartmouth Big Green,2002-01-05,-60.907461750793395,included_game_day
+2002,159,Dartmouth Big Green,2002-01-11,-69.26653282230457,included_game_day
+2002,159,Dartmouth Big Green,2002-01-12,-76.12929940759402,included_game_day
+2002,159,Dartmouth Big Green,2002-01-18,-58.84365988920633,included_game_day
+2002,159,Dartmouth Big Green,2002-01-22,-62.39271240297538,included_game_day
+2002,159,Dartmouth Big Green,2002-02-01,-73.69281417980172,included_game_day
+2002,159,Dartmouth Big Green,2002-02-02,-70.19525230566867,included_game_day
+2002,159,Dartmouth Big Green,2002-02-08,-62.41841968120909,included_game_day
+2002,159,Dartmouth Big Green,2002-02-09,-47.66980528733007,included_game_day
+2002,159,Dartmouth Big Green,2002-02-15,-50.0586891151696,included_game_day
+2002,159,Dartmouth Big Green,2002-02-16,-70.98556458349694,included_game_day
+2002,159,Dartmouth Big Green,2002-02-22,-75.4642143855038,included_game_day
+2002,159,Dartmouth Big Green,2002-02-23,-88.0693521392292,included_game_day
+2002,159,Dartmouth Big Green,2002-03-01,-93.52087102788738,included_game_day
+2002,159,Dartmouth Big Green,2002-03-02,-104.61977923569782,included_game_day
+2003,159,Dartmouth Big Green,2002-11-22,-3.0,included_game_day
+2003,159,Dartmouth Big Green,2002-11-26,-19.7,included_game_day
+2003,159,Dartmouth Big Green,2002-11-30,-32.56,included_game_day
+2003,159,Dartmouth Big Green,2002-12-03,-22.802000000000003,included_game_day
+2003,159,Dartmouth Big Green,2002-12-18,-32.27965142000001,included_game_day
+2003,159,Dartmouth Big Green,2002-12-21,-46.86929832890001,included_game_day
+2003,159,Dartmouth Big Green,2002-12-28,-40.14831720083001,included_game_day
+2003,159,Dartmouth Big Green,2002-12-29,-34.52629020824756,included_game_day
+2003,159,Dartmouth Big Green,2003-01-04,-46.001860073432766,included_game_day
+2003,159,Dartmouth Big Green,2003-01-07,-60.33889367494582,included_game_day
+2003,159,Dartmouth Big Green,2003-01-11,-58.08564620694268,included_game_day
+2003,159,Dartmouth Big Green,2003-01-15,-71.86768500771191,included_game_day
+2003,159,Dartmouth Big Green,2003-01-21,-73.25078596350933,included_game_day
+2003,159,Dartmouth Big Green,2003-01-25,-73.3470043675117,included_game_day
+2003,159,Dartmouth Big Green,2003-01-31,-76.85968999359639,included_game_day
+2003,159,Dartmouth Big Green,2003-02-01,-66.35305775363948,included_game_day
+2003,159,Dartmouth Big Green,2003-02-07,-68.39796697701573,included_game_day
+2003,159,Dartmouth Big Green,2003-02-08,-65.75482415733794,included_game_day
+2003,159,Dartmouth Big Green,2003-02-14,-62.55915206416346,included_game_day
+2003,159,Dartmouth Big Green,2003-02-15,-56.92567905943323,included_game_day
+2003,159,Dartmouth Big Green,2003-02-21,-61.045678971378706,included_game_day
+2003,159,Dartmouth Big Green,2003-02-22,-64.47569618624813,included_game_day
+2003,159,Dartmouth Big Green,2003-02-28,-52.457089937771045,included_game_day
+2003,159,Dartmouth Big Green,2003-03-01,-34.136433678196966,included_game_day
+2003,159,Dartmouth Big Green,2003-03-07,-43.05270655016024,included_game_day
+2003,159,Dartmouth Big Green,2003-03-08,-51.09722410329526,included_game_day
+2004,159,Dartmouth Big Green,2003-11-21,0.0,included_game_day
+2004,159,Dartmouth Big Green,2003-11-29,-0.18900000000000006,included_game_day
+2004,159,Dartmouth Big Green,2003-11-30,-4.7911,included_game_day
+2004,159,Dartmouth Big Green,2003-12-14,-15.81379867,included_game_day
+2004,159,Dartmouth Big Green,2003-12-16,-7.363868803000001,included_game_day
+2004,159,Dartmouth Big Green,2003-12-20,-13.055177162700002,included_game_day
+2004,159,Dartmouth Big Green,2003-12-28,-22.47789004579248,included_game_day
+2004,159,Dartmouth Big Green,2004-01-03,-29.42409689591,included_game_day
+2004,159,Dartmouth Big Green,2004-01-06,-36.96388191443805,included_game_day
+2004,159,Dartmouth Big Green,2004-01-10,-48.766868892679256,included_game_day
+2004,159,Dartmouth Big Green,2004-01-14,-58.37875969629373,included_game_day
+2004,159,Dartmouth Big Green,2004-01-19,-66.19095894779765,included_game_day
+2004,159,Dartmouth Big Green,2004-01-21,-71.85624608538747,included_game_day
+2004,159,Dartmouth Big Green,2004-01-23,-84.50114062641815,included_game_day
+2004,159,Dartmouth Big Green,2004-01-31,-82.92192791573733,included_game_day
+2004,159,Dartmouth Big Green,2004-02-06,-82.933953176583,included_game_day
+2004,159,Dartmouth Big Green,2004-02-07,-85.25556971933267,included_game_day
+2004,159,Dartmouth Big Green,2004-02-13,-119.18363366815326,included_game_day
+2004,159,Dartmouth Big Green,2004-02-14,-132.13878252586719,included_game_day
+2004,159,Dartmouth Big Green,2004-02-20,-142.0102256179986,included_game_day
+2004,159,Dartmouth Big Green,2004-02-21,-147.3132748367979,included_game_day
+2004,159,Dartmouth Big Green,2004-02-27,-151.68355779500143,included_game_day
+2004,159,Dartmouth Big Green,2004-02-28,-137.2096163821762,included_game_day
+2004,159,Dartmouth Big Green,2004-03-05,-141.5748788873167,included_game_day
+2004,159,Dartmouth Big Green,2004-03-06,-131.09642423106192,included_game_day
+2005,159,Dartmouth Big Green,2004-11-23,0.9000000000000004,included_game_day
+2005,159,Dartmouth Big Green,2004-11-27,-7.207169,included_game_day
+2005,159,Dartmouth Big Green,2004-11-29,-16.1534421,included_game_day
+2005,159,Dartmouth Big Green,2004-12-02,-33.91809789,included_game_day
+2005,159,Dartmouth Big Green,2004-12-11,-34.49172051731,included_game_day
+2005,159,Dartmouth Big Green,2004-12-17,-46.5642220200022,included_game_day
+2005,159,Dartmouth Big Green,2004-12-20,-55.288334476539305,included_game_day
+2005,159,Dartmouth Big Green,2004-12-22,-65.33177730761797,included_game_day
+2005,159,Dartmouth Big Green,2004-12-30,-63.96645476597773,included_game_day
+2005,159,Dartmouth Big Green,2005-01-02,-60.786427999322264,included_game_day
+2005,159,Dartmouth Big Green,2005-01-05,-69.18397188890208,included_game_day
+2005,159,Dartmouth Big Green,2005-01-08,-66.80019608661972,included_game_day
+2005,159,Dartmouth Big Green,2005-01-10,-58.19140032805457,included_game_day
+2005,159,Dartmouth Big Green,2005-01-17,-66.94181542232631,included_game_day
+2005,159,Dartmouth Big Green,2005-01-29,-77.38816947114512,included_game_day
+2005,159,Dartmouth Big Green,2005-01-30,-72.78414970236147,included_game_day
+2005,159,Dartmouth Big Green,2005-02-04,-60.10154310445406,included_game_day
+2005,159,Dartmouth Big Green,2005-02-05,-73.75481629568337,included_game_day
+2005,159,Dartmouth Big Green,2005-02-11,-80.05797918130736,included_game_day
+2005,159,Dartmouth Big Green,2005-02-12,-62.41436363735403,included_game_day
+2005,159,Dartmouth Big Green,2005-02-18,-46.91710551573681,included_game_day
+2005,159,Dartmouth Big Green,2005-02-19,-46.01476645168126,included_game_day
+2005,159,Dartmouth Big Green,2005-02-25,-46.719224728021715,included_game_day
+2005,159,Dartmouth Big Green,2005-02-26,-46.26933356467165,included_game_day
+2005,159,Dartmouth Big Green,2005-03-04,-58.24543631191202,included_game_day
+2005,159,Dartmouth Big Green,2005-03-05,-58.37977315769796,included_game_day
+2006,159,Dartmouth Big Green,2005-11-18,-16.0,included_game_day
+2006,159,Dartmouth Big Green,2005-11-25,-15.0564,included_game_day
+2006,159,Dartmouth Big Green,2005-11-29,-13.60558,included_game_day
+2006,159,Dartmouth Big Green,2005-12-13,-19.87600530524,included_game_day
+2006,159,Dartmouth Big Green,2005-12-17,-28.736182118576,included_game_day
+2006,159,Dartmouth Big Green,2005-12-19,-34.8654634987184,included_game_day
+2006,159,Dartmouth Big Green,2005-12-21,-67.28941344084176,included_game_day
+2006,159,Dartmouth Big Green,2005-12-28,-60.103989729449644,included_game_day
+2006,159,Dartmouth Big Green,2005-12-29,-65.69168946554665,included_game_day
+2006,159,Dartmouth Big Green,2005-12-31,-61.90044661304668,included_game_day
+2006,159,Dartmouth Big Green,2006-01-04,-47.72573096311292,included_game_day
+2006,159,Dartmouth Big Green,2006-01-07,-54.88179344398243,included_game_day
+2006,159,Dartmouth Big Green,2006-01-10,-61.2685390268458,included_game_day
+2006,159,Dartmouth Big Green,2006-01-13,-71.35471445325507,included_game_day
+2006,159,Dartmouth Big Green,2006-01-16,-78.26262945501512,included_game_day
+2006,159,Dartmouth Big Green,2006-01-27,-77.1122247884214,included_game_day
+2006,159,Dartmouth Big Green,2006-01-28,-85.8356345256169,included_game_day
+2006,159,Dartmouth Big Green,2006-02-03,-93.56548858802266,included_game_day
+2006,159,Dartmouth Big Green,2006-02-04,-79.7009430561009,included_game_day
+2006,159,Dartmouth Big Green,2006-02-10,-85.74456448686217,included_game_day
+2006,159,Dartmouth Big Green,2006-02-11,-87.27756809937217,included_game_day
+2006,159,Dartmouth Big Green,2006-02-17,-77.30395388481627,included_game_day
+2006,159,Dartmouth Big Green,2006-02-18,-66.59379341760409,included_game_day
+2006,159,Dartmouth Big Green,2006-02-24,-63.30607467524426,included_game_day
+2006,159,Dartmouth Big Green,2006-02-25,-63.384781327536764,included_game_day
+2006,159,Dartmouth Big Green,2006-03-03,-60.76969777525008,included_game_day
+2006,159,Dartmouth Big Green,2006-03-04,-64.2210337249056,included_game_day
+2007,159,Dartmouth Big Green,2006-11-11,-34.0,included_game_day
+2007,159,Dartmouth Big Green,2006-11-14,-71.0,included_game_day
+2007,159,Dartmouth Big Green,2006-11-18,-79.8,included_game_day
+2007,159,Dartmouth Big Green,2006-11-22,-90.7658,included_game_day
+2007,159,Dartmouth Big Green,2006-11-25,-90.61022,included_game_day
+2007,159,Dartmouth Big Green,2006-11-28,-120.28404122,included_game_day
+2007,159,Dartmouth Big Green,2006-12-10,-106.228291503758,included_game_day
+2007,159,Dartmouth Big Green,2006-12-14,-81.33610851805638,included_game_day
+2007,159,Dartmouth Big Green,2006-12-18,-76.09175952775284,included_game_day
+2007,159,Dartmouth Big Green,2006-12-21,-77.85605494562017,included_game_day
+2007,159,Dartmouth Big Green,2006-12-30,-72.0755422304875,included_game_day
+2007,159,Dartmouth Big Green,2007-01-02,-60.75622409822658,included_game_day
+2007,159,Dartmouth Big Green,2007-01-06,-55.383790474239085,included_game_day
+2007,159,Dartmouth Big Green,2007-01-12,-58.08584357504909,included_game_day
+2007,159,Dartmouth Big Green,2007-01-16,-65.36055259269158,included_game_day
+2007,159,Dartmouth Big Green,2007-01-26,-61.048478523035804,included_game_day
+2007,159,Dartmouth Big Green,2007-01-27,-64.52079872410981,included_game_day
+2007,159,Dartmouth Big Green,2007-02-02,-74.22174807636004,included_game_day
+2007,159,Dartmouth Big Green,2007-02-03,-76.47307864887048,included_game_day
+2007,159,Dartmouth Big Green,2007-02-09,-82.44752742946585,included_game_day
+2007,159,Dartmouth Big Green,2007-02-10,-75.39907518149481,included_game_day
+2007,159,Dartmouth Big Green,2007-02-16,-66.7869031244447,included_game_day
+2007,159,Dartmouth Big Green,2007-02-17,-81.13317116660141,included_game_day
+2007,159,Dartmouth Big Green,2007-02-23,-71.77711034840178,included_game_day
+2007,159,Dartmouth Big Green,2007-02-24,-63.49280606750305,included_game_day
+2007,159,Dartmouth Big Green,2007-03-02,-56.64830184002546,included_game_day
+2007,159,Dartmouth Big Green,2007-03-03,-72.2021184078822,included_game_day
+2008,159,Dartmouth Big Green,2007-11-09,-26.0,included_game_day
+2008,159,Dartmouth Big Green,2007-11-10,-13.1,included_game_day
+2008,159,Dartmouth Big Green,2007-11-17,-28.89,included_game_day
+2008,159,Dartmouth Big Green,2007-11-20,-26.9087,included_game_day
+2008,159,Dartmouth Big Green,2007-11-24,-12.65392,included_game_day
+2008,159,Dartmouth Big Green,2007-11-27,-13.635318,included_game_day
+2008,159,Dartmouth Big Green,2007-12-01,-41.14809154,included_game_day
+2008,159,Dartmouth Big Green,2007-12-03,-40.853422786,included_game_day
+2008,159,Dartmouth Big Green,2007-12-19,-58.630242891346455,included_game_day
+2008,159,Dartmouth Big Green,2007-12-22,-56.578786737475056,included_game_day
+2008,159,Dartmouth Big Green,2007-12-31,-80.15407017354109,included_game_day
+2008,159,Dartmouth Big Green,2008-01-05,-99.2904476453179,included_game_day
+2008,159,Dartmouth Big Green,2008-01-11,-75.77545568246248,included_game_day
+2008,159,Dartmouth Big Green,2008-01-15,-64.58292806063773,included_game_day
+2008,159,Dartmouth Big Green,2008-01-23,-57.87686152427537,included_game_day
+2008,159,Dartmouth Big Green,2008-02-01,-61.52468677552489,included_game_day
+2008,159,Dartmouth Big Green,2008-02-02,-62.89833895057308,included_game_day
+2008,159,Dartmouth Big Green,2008-02-08,-79.28832274747982,included_game_day
+2008,159,Dartmouth Big Green,2008-02-09,-112.74005671099286,included_game_day
+2008,159,Dartmouth Big Green,2008-02-15,-115.70137414515035,included_game_day
+2008,159,Dartmouth Big Green,2008-02-16,-112.5852862131583,included_game_day
+2008,159,Dartmouth Big Green,2008-02-22,-136.49469679795837,included_game_day
+2008,159,Dartmouth Big Green,2008-02-23,-114.06421682955258,included_game_day
+2008,159,Dartmouth Big Green,2008-02-29,-109.99089531699008,included_game_day
+2008,159,Dartmouth Big Green,2008-03-01,-83.3644356797698,included_game_day
+2008,159,Dartmouth Big Green,2008-03-07,-84.90311449059668,included_game_day
+2008,159,Dartmouth Big Green,2008-03-08,-78.17106261442659,included_game_day
+2009,159,Dartmouth Big Green,2008-11-15,-12.0,included_game_day
+2009,159,Dartmouth Big Green,2008-11-18,-26.553,included_game_day
+2009,159,Dartmouth Big Green,2008-11-22,-31.6177,included_game_day
+2009,159,Dartmouth Big Green,2008-11-25,-28.70343,included_game_day
+2009,159,Dartmouth Big Green,2008-11-29,-39.08974,included_game_day
+2009,159,Dartmouth Big Green,2008-12-02,-47.088293809999996,included_game_day
+2009,159,Dartmouth Big Green,2008-12-17,-47.71912123843,included_game_day
+2009,159,Dartmouth Big Green,2008-12-27,-67.48292160529905,included_game_day
+2009,159,Dartmouth Big Green,2008-12-28,-83.11573265799174,included_game_day
+2009,159,Dartmouth Big Green,2008-12-30,-105.23434234714713,included_game_day
+2009,159,Dartmouth Big Green,2009-01-03,-108.62976476851888,included_game_day
+2009,159,Dartmouth Big Green,2009-01-10,-100.59182495668345,included_game_day
+2009,159,Dartmouth Big Green,2009-01-13,-101.91455802978932,included_game_day
+2009,159,Dartmouth Big Green,2009-01-17,-108.44251420289187,included_game_day
+2009,159,Dartmouth Big Green,2009-01-24,-85.22709342880268,included_game_day
+2009,159,Dartmouth Big Green,2009-01-30,-86.37903330388473,included_game_day
+2009,159,Dartmouth Big Green,2009-01-31,-80.48107339106637,included_game_day
+2009,159,Dartmouth Big Green,2009-02-06,-80.15168364994484,included_game_day
+2009,159,Dartmouth Big Green,2009-02-07,-74.29357363569497,included_game_day
+2009,159,Dartmouth Big Green,2009-02-13,-80.87777914733084,included_game_day
+2009,159,Dartmouth Big Green,2009-02-14,-66.24192545419925,included_game_day
+2009,159,Dartmouth Big Green,2009-02-20,-47.64873513586846,included_game_day
+2009,159,Dartmouth Big Green,2009-02-21,-38.86894837692907,included_game_day
+2009,159,Dartmouth Big Green,2009-02-27,-49.32697720942781,included_game_day
+2009,159,Dartmouth Big Green,2009-02-28,-37.04145404513787,included_game_day
+2009,159,Dartmouth Big Green,2009-03-06,-42.74033520598991,included_game_day
+2009,159,Dartmouth Big Green,2009-03-07,-55.41658291345702,included_game_day
+2010,159,Dartmouth Big Green,2009-11-13,-28.0,included_game_day
+2010,159,Dartmouth Big Green,2009-11-15,-38.1,included_game_day
+2010,159,Dartmouth Big Green,2009-11-21,-54.59,included_game_day
+2010,159,Dartmouth Big Green,2009-11-24,-71.29752,included_game_day
+2010,159,Dartmouth Big Green,2009-11-28,-52.278848,included_game_day
+2010,159,Dartmouth Big Green,2009-12-01,-55.932869270000005,included_game_day
+2010,159,Dartmouth Big Green,2009-12-12,-64.07200509531,included_game_day
+2010,159,Dartmouth Big Green,2009-12-17,-65.234664249279,included_game_day
+2010,159,Dartmouth Big Green,2009-12-20,-68.18751282505461,included_game_day
+2010,159,Dartmouth Big Green,2009-12-22,-90.32847858287414,included_game_day
+2010,159,Dartmouth Big Green,2009-12-30,-97.3332287630634,included_game_day
+2010,159,Dartmouth Big Green,2010-01-04,-89.31818149617213,included_game_day
+2010,159,Dartmouth Big Green,2010-01-09,-99.01998009082328,included_game_day
+2010,159,Dartmouth Big Green,2010-01-18,-94.20736658107296,included_game_day
+2010,159,Dartmouth Big Green,2010-01-23,-83.45006680776892,included_game_day
+2010,159,Dartmouth Big Green,2010-01-29,-97.2374576065059,included_game_day
+2010,159,Dartmouth Big Green,2010-01-30,-104.66533043317962,included_game_day
+2010,159,Dartmouth Big Green,2010-02-05,-111.64367073473,included_game_day
+2010,159,Dartmouth Big Green,2010-02-06,-115.27123610002991,included_game_day
+2010,159,Dartmouth Big Green,2010-02-12,-124.07652964090691,included_game_day
+2010,159,Dartmouth Big Green,2010-02-13,-124.69283507485414,included_game_day
+2010,159,Dartmouth Big Green,2010-02-19,-118.2759059621111,included_game_day
+2010,159,Dartmouth Big Green,2010-02-20,-117.98336905839331,included_game_day
+2010,159,Dartmouth Big Green,2010-02-26,-124.9619280407023,included_game_day
+2010,159,Dartmouth Big Green,2010-02-27,-140.37965964380905,included_game_day
+2010,159,Dartmouth Big Green,2010-03-05,-146.89822423543532,included_game_day
+2010,159,Dartmouth Big Green,2010-03-06,-145.90645224332533,included_game_day
+2011,159,Dartmouth Big Green,2010-11-13,-32.0,included_game_day
+2011,159,Dartmouth Big Green,2010-11-16,-33.8,included_game_day
+2011,159,Dartmouth Big Green,2010-11-19,-13.409999999999997,included_game_day
+2011,159,Dartmouth Big Green,2010-11-21,-23.008999999999997,included_game_day
+2011,159,Dartmouth Big Green,2010-11-23,-40.8301,included_game_day
+2011,159,Dartmouth Big Green,2010-11-27,-28.16171,included_game_day
+2011,159,Dartmouth Big Green,2010-12-01,-47.493128,included_game_day
+2011,159,Dartmouth Big Green,2010-12-11,-43.4169408116,included_game_day
+2011,159,Dartmouth Big Green,2010-12-14,-42.395587923577,included_game_day
+2011,159,Dartmouth Big Green,2010-12-19,-55.59401925556813,included_game_day
+2011,159,Dartmouth Big Green,2010-12-21,-42.455400258675304,included_game_day
+2011,159,Dartmouth Big Green,2010-12-30,-48.31468096516748,included_game_day
+2011,159,Dartmouth Big Green,2011-01-03,-60.74733866976329,included_game_day
+2011,159,Dartmouth Big Green,2011-01-08,-68.79546245023337,included_game_day
+2011,159,Dartmouth Big Green,2011-01-17,-73.85351914933688,included_game_day
+2011,159,Dartmouth Big Green,2011-01-22,-67.30257774779881,included_game_day
+2011,159,Dartmouth Big Green,2011-01-28,-59.682656508486666,included_game_day
+2011,159,Dartmouth Big Green,2011-01-29,-78.24075095439365,included_game_day
+2011,159,Dartmouth Big Green,2011-02-04,-99.11634255990182,included_game_day
+2011,159,Dartmouth Big Green,2011-02-05,-96.87743462958443,included_game_day
+2011,159,Dartmouth Big Green,2011-02-11,-103.29221892461142,included_game_day
+2011,159,Dartmouth Big Green,2011-02-12,-104.78786004375475,included_game_day
+2011,159,Dartmouth Big Green,2011-02-18,-99.84960440005912,included_game_day
+2011,159,Dartmouth Big Green,2011-02-19,-108.86828266956199,included_game_day
+2011,159,Dartmouth Big Green,2011-02-25,-99.53665516170469,included_game_day
+2011,159,Dartmouth Big Green,2011-02-26,-112.70822990252974,included_game_day
+2011,159,Dartmouth Big Green,2011-03-04,-121.26086719044491,included_game_day
+2011,159,Dartmouth Big Green,2011-03-05,-124.68147006032014,included_game_day
+2012,159,Dartmouth Big Green,2011-11-11,-3.0,included_game_day
+2012,159,Dartmouth Big Green,2011-11-16,-17.6,included_game_day
+2012,159,Dartmouth Big Green,2011-11-19,-16.93,included_game_day
+2012,159,Dartmouth Big Green,2011-11-24,-16.511,included_game_day
+2012,159,Dartmouth Big Green,2011-11-26,-32.654982000000004,included_game_day
+2012,159,Dartmouth Big Green,2011-11-30,-30.203403800000004,included_game_day
+2012,159,Dartmouth Big Green,2011-12-10,-40.8050589273,included_game_day
+2012,159,Dartmouth Big Green,2011-12-13,-40.489388157840004,included_game_day
+2012,159,Dartmouth Big Green,2011-12-17,-32.345775271926,included_game_day
+2012,159,Dartmouth Big Green,2011-12-19,-38.3344457854454,included_game_day
+2012,159,Dartmouth Big Green,2011-12-21,-37.50586320190348,included_game_day
+2012,159,Dartmouth Big Green,2011-12-23,-36.261973513410666,included_game_day
+2012,159,Dartmouth Big Green,2011-12-31,-41.65272137411682,included_game_day
+2012,159,Dartmouth Big Green,2012-01-03,-47.08148963021116,included_game_day
+2012,159,Dartmouth Big Green,2012-01-07,-47.801899348876326,included_game_day
+2012,159,Dartmouth Big Green,2012-01-14,-39.787157835769314,included_game_day
+2012,159,Dartmouth Big Green,2012-01-21,-46.964565721736506,included_game_day
+2012,159,Dartmouth Big Green,2012-01-27,-54.758207147857036,included_game_day
+2012,159,Dartmouth Big Green,2012-01-28,-56.905670802726604,included_game_day
+2012,159,Dartmouth Big Green,2012-02-03,-57.519295415090895,included_game_day
+2012,159,Dartmouth Big Green,2012-02-04,-65.31780176244914,included_game_day
+2012,159,Dartmouth Big Green,2012-02-10,-67.0330554452535,included_game_day
+2012,159,Dartmouth Big Green,2012-02-11,-58.076337197210975,included_game_day
+2012,159,Dartmouth Big Green,2012-02-17,-63.31583858850419,included_game_day
+2012,159,Dartmouth Big Green,2012-02-18,-65.70578709240294,included_game_day
+2012,159,Dartmouth Big Green,2012-02-24,-63.88391983159443,included_game_day
+2012,159,Dartmouth Big Green,2012-02-25,-80.00379419050542,included_game_day
+2012,159,Dartmouth Big Green,2012-03-02,-86.76621205005624,included_game_day
+2012,159,Dartmouth Big Green,2012-03-03,-83.60363753337029,included_game_day
+2013,159,Dartmouth Big Green,2012-11-10,10.0,included_game_day
+2013,159,Dartmouth Big Green,2012-11-13,-8.0,included_game_day
+2013,159,Dartmouth Big Green,2012-11-24,-16.0701,included_game_day
+2013,159,Dartmouth Big Green,2012-11-27,-21.146624000000003,included_game_day
+2013,159,Dartmouth Big Green,2012-12-01,-18.355082600000003,included_game_day
+2013,159,Dartmouth Big Green,2012-12-04,-35.301584219000006,included_game_day
+2013,159,Dartmouth Big Green,2012-12-08,-40.698789070500005,included_game_day
+2013,159,Dartmouth Big Green,2012-12-12,-34.85062646517,included_game_day
+2013,159,Dartmouth Big Green,2012-12-15,-43.8476468100284,included_game_day
+2013,159,Dartmouth Big Green,2012-12-22,-50.80414913300556,included_game_day
+2013,159,Dartmouth Big Green,2012-12-31,-63.76378607546696,included_game_day
+2013,159,Dartmouth Big Green,2013-01-05,-81.43301686562235,included_game_day
+2013,159,Dartmouth Big Green,2013-01-08,-58.54305928113701,included_game_day
+2013,159,Dartmouth Big Green,2013-01-12,-60.19839033082823,included_game_day
+2013,159,Dartmouth Big Green,2013-01-26,-50.85593857859776,included_game_day
+2013,159,Dartmouth Big Green,2013-02-01,-64.57580051956988,included_game_day
+2013,159,Dartmouth Big Green,2013-02-02,-54.54243099540786,included_game_day
+2013,159,Dartmouth Big Green,2013-02-08,-43.245826736666416,included_game_day
+2013,159,Dartmouth Big Green,2013-02-10,-62.823404358658664,included_game_day
+2013,159,Dartmouth Big Green,2013-02-15,-74.1972551769388,included_game_day
+2013,159,Dartmouth Big Green,2013-02-16,-84.8024091773985,included_game_day
+2013,159,Dartmouth Big Green,2013-02-22,-84.62532398102755,included_game_day
+2013,159,Dartmouth Big Green,2013-02-23,-88.3738628237812,included_game_day
+2013,159,Dartmouth Big Green,2013-03-01,-75.64136259090186,included_game_day
+2013,159,Dartmouth Big Green,2013-03-02,-62.97864854522943,included_game_day
+2013,159,Dartmouth Big Green,2013-03-08,-52.4117160459702,included_game_day
+2013,159,Dartmouth Big Green,2013-03-09,-46.00326143466305,included_game_day
+2014,159,Dartmouth Big Green,2013-11-13,-15.1,included_game_day
+2014,159,Dartmouth Big Green,2013-11-16,-3.0199999999999996,included_game_day
+2014,159,Dartmouth Big Green,2013-12-01,17.22124,included_game_day
+2014,159,Dartmouth Big Green,2013-12-05,8.97656032,included_game_day
+2014,159,Dartmouth Big Green,2013-12-07,-3.363466879999999,included_game_day
+2014,159,Dartmouth Big Green,2013-12-10,0.17315698838000237,included_game_day
+2014,159,Dartmouth Big Green,2013-12-14,22.295342569617304,included_game_day
+2014,159,Dartmouth Big Green,2013-12-18,31.555998019256574,included_game_day
+2014,159,Dartmouth Big Green,2013-12-21,38.03140821042091,included_game_day
+2014,159,Dartmouth Big Green,2014-01-04,20.509137977168454,included_game_day
+2014,159,Dartmouth Big Green,2014-01-07,-0.8435267067873866,included_game_day
+2014,159,Dartmouth Big Green,2014-01-11,-5.626980613056279,included_game_day
+2014,159,Dartmouth Big Green,2014-01-18,-11.16957638937674,included_game_day
+2014,159,Dartmouth Big Green,2014-01-26,-36.779124780714575,included_game_day
+2014,159,Dartmouth Big Green,2014-01-31,-31.275587628501786,included_game_day
+2014,159,Dartmouth Big Green,2014-02-01,-17.11643757404275,included_game_day
+2014,159,Dartmouth Big Green,2014-02-07,-33.81963250187333,included_game_day
+2014,159,Dartmouth Big Green,2014-02-08,-45.044333531579895,included_game_day
+2014,159,Dartmouth Big Green,2014-02-14,-51.397777283459035,included_game_day
+2014,159,Dartmouth Big Green,2014-02-15,-51.419600633191806,included_game_day
+2014,159,Dartmouth Big Green,2014-02-21,-49.12011580530878,included_game_day
+2014,159,Dartmouth Big Green,2014-02-22,-56.11009815755742,included_game_day
+2014,159,Dartmouth Big Green,2014-02-28,-62.391103890207425,included_game_day
+2014,159,Dartmouth Big Green,2014-03-01,-61.4727720968353,included_game_day
+2014,159,Dartmouth Big Green,2014-03-07,-43.514829675135616,included_game_day
+2014,159,Dartmouth Big Green,2014-03-08,-27.510835000659355,included_game_day
+2015,159,Dartmouth Big Green,2014-11-15,-17.0,included_game_day
+2015,159,Dartmouth Big Green,2014-11-19,-19.21,included_game_day
+2015,159,Dartmouth Big Green,2014-11-28,-18.34802,included_game_day
+2015,159,Dartmouth Big Green,2014-11-30,-22.250548000000002,included_game_day
+2015,159,Dartmouth Big Green,2014-12-03,-26.303638400000004,included_game_day
+2015,159,Dartmouth Big Green,2014-12-06,-10.651879740000004,included_game_day
+2015,159,Dartmouth Big Green,2014-12-10,13.296300083999997,included_game_day
+2015,159,Dartmouth Big Green,2014-12-14,-3.831467627400004,included_game_day
+2015,159,Dartmouth Big Green,2014-12-16,13.829093749039997,included_game_day
+2015,159,Dartmouth Big Green,2014-12-19,9.511796117782996,included_game_day
+2015,159,Dartmouth Big Green,2014-12-22,-4.920092381776433,included_game_day
+2015,159,Dartmouth Big Green,2014-12-31,14.41493155931414,included_game_day
+2015,159,Dartmouth Big Green,2015-01-10,1.6297877031575272,included_game_day
+2015,159,Dartmouth Big Green,2015-01-14,2.9836424111441087,included_game_day
+2015,159,Dartmouth Big Green,2015-01-17,9.345299210849804,included_game_day
+2015,159,Dartmouth Big Green,2015-01-24,24.59995183173914,included_game_day
+2015,159,Dartmouth Big Green,2015-01-30,14.87213602224715,included_game_day
+2015,159,Dartmouth Big Green,2015-01-31,4.974498444283714,included_game_day
+2015,159,Dartmouth Big Green,2015-02-06,-3.876037998268611,included_game_day
+2015,159,Dartmouth Big Green,2015-02-07,-8.31744964392027,included_game_day
+2015,159,Dartmouth Big Green,2015-02-13,-19.975571019175447,included_game_day
+2015,159,Dartmouth Big Green,2015-02-14,-7.48562257303454,included_game_day
+2015,159,Dartmouth Big Green,2015-02-20,-15.903213012951818,included_game_day
+2015,159,Dartmouth Big Green,2015-02-21,-22.128547137833024,included_game_day
+2015,159,Dartmouth Big Green,2015-02-27,-0.615613895754862,included_game_day
+2015,159,Dartmouth Big Green,2015-02-28,13.753536462409441,included_game_day
+2015,159,Dartmouth Big Green,2015-03-06,9.086937193889002,included_game_day
+2015,159,Dartmouth Big Green,2015-03-07,12.992179338966107,included_game_day
+2015,159,Dartmouth Big Green,2015-03-18,-1.7025702764172532,included_game_day
+2016,159,Dartmouth Big Green,2015-11-13,-14.0,included_game_day
+2016,159,Dartmouth Big Green,2015-11-17,-20.2,included_game_day
+2016,159,Dartmouth Big Green,2015-11-29,0.9767499999999991,included_game_day
+2016,159,Dartmouth Big Green,2015-12-02,-7.213965100000001,included_game_day
+2016,159,Dartmouth Big Green,2015-12-05,-7.328066638200001,included_game_day
+2016,159,Dartmouth Big Green,2015-12-09,-0.2009933743800012,included_game_day
+2016,159,Dartmouth Big Green,2015-12-12,-11.624929036942001,included_game_day
+2016,159,Dartmouth Big Green,2015-12-14,-13.421706901544802,included_game_day
+2016,159,Dartmouth Big Green,2015-12-19,-36.25483537270032,included_game_day
+2016,159,Dartmouth Big Green,2015-12-22,-18.00404550128269,included_game_day
+2016,159,Dartmouth Big Green,2015-12-31,-34.171141256718144,included_game_day
+2016,159,Dartmouth Big Green,2016-01-04,-42.54723891563827,included_game_day
+2016,159,Dartmouth Big Green,2016-01-09,-38.93813471269493,included_game_day
+2016,159,Dartmouth Big Green,2016-01-12,-29.533142224877665,included_game_day
+2016,159,Dartmouth Big Green,2016-01-23,-13.470971274330012,included_game_day
+2016,159,Dartmouth Big Green,2016-01-29,-30.45560127392081,included_game_day
+2016,159,Dartmouth Big Green,2016-01-30,-36.97323637814327,included_game_day
+2016,159,Dartmouth Big Green,2016-02-05,-40.630694835581615,included_game_day
+2016,159,Dartmouth Big Green,2016-02-06,-38.15783824515174,included_game_day
+2016,159,Dartmouth Big Green,2016-02-12,-36.15569405340625,included_game_day
+2016,159,Dartmouth Big Green,2016-02-13,-23.73722373531357,included_game_day
+2016,159,Dartmouth Big Green,2016-02-19,-13.244252908675472,included_game_day
+2016,159,Dartmouth Big Green,2016-02-20,-24.505538477566617,included_game_day
+2016,159,Dartmouth Big Green,2016-02-26,-25.27826620426561,included_game_day
+2016,159,Dartmouth Big Green,2016-02-27,-14.252601127615343,included_game_day
+2016,159,Dartmouth Big Green,2016-03-04,-12.865155480101198,included_game_day
+2016,159,Dartmouth Big Green,2016-03-05,-25.36424091531641,included_game_day
+2017,159,Dartmouth Big Green,2016-11-11,-20.0,included_game_day
+2017,159,Dartmouth Big Green,2016-11-15,-36.1,included_game_day
+2017,159,Dartmouth Big Green,2016-11-26,-48.32803,included_game_day
+2017,159,Dartmouth Big Green,2016-11-28,-50.428326999999996,included_game_day
+2017,159,Dartmouth Big Green,2016-11-30,-53.010047379999996,included_game_day
+2017,159,Dartmouth Big Green,2016-12-03,-63.940763442,included_game_day
+2017,159,Dartmouth Big Green,2016-12-07,-68.4738279788,included_game_day
+2017,159,Dartmouth Big Green,2016-12-10,-75.81164976061001,included_game_day
+2017,159,Dartmouth Big Green,2016-12-13,-73.62200976485431,included_game_day
+2017,159,Dartmouth Big Green,2016-12-18,-50.388865828359286,included_game_day
+2017,159,Dartmouth Big Green,2016-12-22,-42.67111164227336,included_game_day
+2017,159,Dartmouth Big Green,2016-12-31,-41.279555200409725,included_game_day
+2017,159,Dartmouth Big Green,2017-01-03,-42.13673428613319,included_game_day
+2017,159,Dartmouth Big Green,2017-01-07,-55.76579831616732,included_game_day
+2017,159,Dartmouth Big Green,2017-01-21,-58.81096517599627,included_game_day
+2017,159,Dartmouth Big Green,2017-01-27,-64.25354654842623,included_game_day
+2017,159,Dartmouth Big Green,2017-01-28,-72.15491535383734,included_game_day
+2017,159,Dartmouth Big Green,2017-02-03,-65.89082807210309,included_game_day
+2017,159,Dartmouth Big Green,2017-02-04,-59.99943244832265,included_game_day
+2017,159,Dartmouth Big Green,2017-02-10,-55.279975272316825,included_game_day
+2017,159,Dartmouth Big Green,2017-02-11,-46.908457987213474,included_game_day
+2017,159,Dartmouth Big Green,2017-02-17,-54.86395881558396,included_game_day
+2017,159,Dartmouth Big Green,2017-02-18,-52.34280004921436,included_game_day
+2017,159,Dartmouth Big Green,2017-02-24,-61.83441257327093,included_game_day
+2017,159,Dartmouth Big Green,2017-02-25,-72.7580396361931,included_game_day
+2017,159,Dartmouth Big Green,2017-03-03,-57.57902527718561,included_game_day
+2017,159,Dartmouth Big Green,2017-03-04,-76.31992161143158,included_game_day
+2018,159,Dartmouth Big Green,2017-11-11,2.0,included_game_day
+2018,159,Dartmouth Big Green,2017-11-22,-17.4066,included_game_day
+2018,159,Dartmouth Big Green,2017-11-28,-21.125356,included_game_day
+2018,159,Dartmouth Big Green,2017-12-02,-29.45726465,included_game_day
+2018,159,Dartmouth Big Green,2017-12-05,-35.977650757,included_game_day
+2018,159,Dartmouth Big Green,2017-12-08,-28.4821306451,included_game_day
+2018,159,Dartmouth Big Green,2017-12-15,-43.820421252282,included_game_day
+2018,159,Dartmouth Big Green,2017-12-19,-38.7105406110896,included_game_day
+2018,159,Dartmouth Big Green,2017-12-22,-34.17922149092447,included_game_day
+2018,159,Dartmouth Big Green,2017-12-30,-49.672544928810844,included_game_day
+2018,159,Dartmouth Big Green,2018-01-06,-53.90931054451935,included_game_day
+2018,159,Dartmouth Big Green,2018-01-10,-60.186478084477315,included_game_day
+2018,159,Dartmouth Big Green,2018-01-13,-60.79698187844263,included_game_day
+2018,159,Dartmouth Big Green,2018-01-20,-63.83152571252305,included_game_day
+2018,159,Dartmouth Big Green,2018-01-26,-58.22453961514944,included_game_day
+2018,159,Dartmouth Big Green,2018-01-27,-61.92072772027323,included_game_day
+2018,159,Dartmouth Big Green,2018-02-02,-61.60062327120503,included_game_day
+2018,159,Dartmouth Big Green,2018-02-03,-57.07274730478177,included_game_day
+2018,159,Dartmouth Big Green,2018-02-09,-52.82934139167546,included_game_day
+2018,159,Dartmouth Big Green,2018-02-10,-34.38768380824315,included_game_day
+2018,159,Dartmouth Big Green,2018-02-16,-47.25013211806653,included_game_day
+2018,159,Dartmouth Big Green,2018-02-17,-46.46001078150549,included_game_day
+2018,159,Dartmouth Big Green,2018-02-23,-62.43866732885684,included_game_day
+2018,159,Dartmouth Big Green,2018-02-24,-74.99155554085166,included_game_day
+2018,159,Dartmouth Big Green,2018-03-02,-70.70154784586293,included_game_day
+2018,159,Dartmouth Big Green,2018-03-03,-82.21206135161648,included_game_day
+2019,159,Dartmouth Big Green,2018-11-09,1.7000000000000002,included_game_day
+2019,159,Dartmouth Big Green,2018-11-11,4.73,included_game_day
+2019,159,Dartmouth Big Green,2018-11-21,-28.974999999999998,included_game_day
+2019,159,Dartmouth Big Green,2018-11-24,-33.57216,included_game_day
+2019,159,Dartmouth Big Green,2018-11-29,-50.426344,included_game_day
+2019,159,Dartmouth Big Green,2018-11-30,-33.12352791,included_game_day
+2019,159,Dartmouth Big Green,2018-12-05,-41.079973399,included_game_day
+2019,159,Dartmouth Big Green,2018-12-08,-19.597727495199997,included_game_day
+2019,159,Dartmouth Big Green,2018-12-10,-12.750132244879998,included_game_day
+2019,159,Dartmouth Big Green,2018-12-13,-2.376361326121998,included_game_day
+2019,159,Dartmouth Big Green,2018-12-15,7.376687572913802,included_game_day
+2019,159,Dartmouth Big Green,2018-12-21,-2.6506167460204395,included_game_day
+2019,159,Dartmouth Big Green,2018-12-30,-7.594306602775198,included_game_day
+2019,159,Dartmouth Big Green,2019-01-02,-17.248383892749963,included_game_day
+2019,159,Dartmouth Big Green,2019-01-12,1.2585194928382393,included_game_day
+2019,159,Dartmouth Big Green,2019-01-26,-0.03958549795154642,included_game_day
+2019,159,Dartmouth Big Green,2019-02-01,-0.7645587909159239,included_game_day
+2019,159,Dartmouth Big Green,2019-02-02,-21.15153109571558,included_game_day
+2019,159,Dartmouth Big Green,2019-02-08,-27.891961605774927,included_game_day
+2019,159,Dartmouth Big Green,2019-02-09,-14.690879616790529,included_game_day
+2019,159,Dartmouth Big Green,2019-02-15,-11.769159932646923,included_game_day
+2019,159,Dartmouth Big Green,2019-02-16,-9.249415443271133,included_game_day
+2019,159,Dartmouth Big Green,2019-02-22,-16.457545263328555,included_game_day
+2019,159,Dartmouth Big Green,2019-02-23,-12.81640912096078,included_game_day
+2019,159,Dartmouth Big Green,2019-03-01,-14.566934313019704,included_game_day
+2019,159,Dartmouth Big Green,2019-03-02,-29.19850307026222,included_game_day
+2019,159,Dartmouth Big Green,2019-03-08,-28.02726120132303,included_game_day
+2019,159,Dartmouth Big Green,2019-03-09,-40.653281245337055,included_game_day
+2020,159,Dartmouth Big Green,2019-11-08,8.0,included_game_day
+2020,159,Dartmouth Big Green,2019-11-11,7.79,included_game_day
+2020,159,Dartmouth Big Green,2019-11-15,15.780999999999999,included_game_day
+2020,159,Dartmouth Big Green,2019-11-16,-8.212500000000002,included_game_day
+2020,159,Dartmouth Big Green,2019-11-17,-1.7389000000000019,included_game_day
+2020,159,Dartmouth Big Green,2019-11-30,-4.804661391000002,included_game_day
+2020,159,Dartmouth Big Green,2019-12-03,-3.200809122900001,included_game_day
+2020,159,Dartmouth Big Green,2019-12-06,-19.23558684121,included_game_day
+2020,159,Dartmouth Big Green,2019-12-11,13.402532440571001,included_game_day
+2020,159,Dartmouth Big Green,2019-12-14,9.284806167360902,included_game_day
+2020,159,Dartmouth Big Green,2019-12-18,7.513745369817613,included_game_day
+2020,159,Dartmouth Big Green,2019-12-21,2.320285034849851,included_game_day
+2020,159,Dartmouth Big Green,2019-12-30,-10.387461801701681,included_game_day
+2020,159,Dartmouth Big Green,2020-01-02,-14.79802763740459,included_game_day
+2020,159,Dartmouth Big Green,2020-01-18,-10.917020191297945,included_game_day
+2020,159,Dartmouth Big Green,2020-01-25,-12.812214234412629,included_game_day
+2020,159,Dartmouth Big Green,2020-01-31,-30.671949544957773,included_game_day
+2020,159,Dartmouth Big Green,2020-02-01,-33.01373764712194,included_game_day
+2020,159,Dartmouth Big Green,2020-02-07,-30.60536352455017,included_game_day
+2020,159,Dartmouth Big Green,2020-02-08,-34.80471906500462,included_game_day
+2020,159,Dartmouth Big Green,2020-02-14,-39.80305575992029,included_game_day
+2020,159,Dartmouth Big Green,2020-02-15,-22.253035496547554,included_game_day
+2020,159,Dartmouth Big Green,2020-02-21,-15.332031004855608,included_game_day
+2020,159,Dartmouth Big Green,2020-02-22,-18.975233782405244,included_game_day
+2020,159,Dartmouth Big Green,2020-02-28,-6.1131797231506315,included_game_day
+2020,159,Dartmouth Big Green,2020-02-29,9.348778731088121,included_game_day
+2020,159,Dartmouth Big Green,2020-03-06,1.2840096137091663,included_game_day
+2020,159,Dartmouth Big Green,2020-03-07,-17.15139236778719,included_game_day
+2021,159,Dartmouth Big Green,2021-04-05,0,zero_game_snapshot
+2022,159,Dartmouth Big Green,2021-11-09,-13.0,included_game_day
+2022,159,Dartmouth Big Green,2021-11-13,0.3000000000000007,included_game_day
+2022,159,Dartmouth Big Green,2021-11-28,3.8289965000000006,included_game_day
+2022,159,Dartmouth Big Green,2021-12-01,-10.400097336,included_game_day
+2022,159,Dartmouth Big Green,2021-12-04,-17.3884606922,included_game_day
+2022,159,Dartmouth Big Green,2021-12-08,-23.686742818025,included_game_day
+2022,159,Dartmouth Big Green,2021-12-11,-24.9292674848952,included_game_day
+2022,159,Dartmouth Big Green,2021-12-16,-30.40943846318768,included_game_day
+2022,159,Dartmouth Big Green,2021-12-19,-27.49105768616831,included_game_day
+2022,159,Dartmouth Big Green,2021-12-21,-29.41137406075966,included_game_day
+2022,159,Dartmouth Big Green,2022-01-02,-31.419273874054642,included_game_day
+2022,159,Dartmouth Big Green,2022-01-08,-19.144471350662585,included_game_day
+2022,159,Dartmouth Big Green,2022-01-15,-27.64952775451435,included_game_day
+2022,159,Dartmouth Big Green,2022-01-17,-29.307642554318857,included_game_day
+2022,159,Dartmouth Big Green,2022-01-22,-31.40147365168537,included_game_day
+2022,159,Dartmouth Big Green,2022-01-29,-22.37661087860503,included_game_day
+2022,159,Dartmouth Big Green,2022-02-04,-19.733536295624788,included_game_day
+2022,159,Dartmouth Big Green,2022-02-05,-19.26794276813112,included_game_day
+2022,159,Dartmouth Big Green,2022-02-12,-57.50941135467333,included_game_day
+2022,159,Dartmouth Big Green,2022-02-18,-44.91413607210097,included_game_day
+2022,159,Dartmouth Big Green,2022-02-19,-28.007513900363232,included_game_day
+2022,159,Dartmouth Big Green,2022-02-22,-31.122531832645777,included_game_day
+2022,159,Dartmouth Big Green,2022-02-26,-16.775218286987904,included_game_day
+2022,159,Dartmouth Big Green,2022-03-05,8.829039919133503,included_game_day
+2023,159,Dartmouth Big Green,2022-11-07,-11.0,included_game_day
+2023,159,Dartmouth Big Green,2022-11-11,-31.9,included_game_day
+2023,159,Dartmouth Big Green,2022-11-15,-33.153999999999996,included_game_day
+2023,159,Dartmouth Big Green,2022-11-25,-37.865629999999996,included_game_day
+2023,159,Dartmouth Big Green,2022-11-27,-33.6898534,included_game_day
+2023,159,Dartmouth Big Green,2022-11-28,-56.4648166,included_game_day
+2023,159,Dartmouth Big Green,2022-12-03,-29.31668894,included_game_day
+2023,159,Dartmouth Big Green,2022-12-06,-49.243582946838,included_game_day
+2023,159,Dartmouth Big Green,2022-12-09,-57.7402886806542,included_game_day
+2023,159,Dartmouth Big Green,2022-12-13,-57.55296408946298,included_game_day
+2023,159,Dartmouth Big Green,2022-12-16,-52.1382128201057,included_game_day
+2023,159,Dartmouth Big Green,2022-12-20,-52.61755032158693,included_game_day
+2023,159,Dartmouth Big Green,2023-01-01,-56.16435880953725,included_game_day
+2023,159,Dartmouth Big Green,2023-01-06,-36.44094827080128,included_game_day
+2023,159,Dartmouth Big Green,2023-01-07,-36.89329636209048,included_game_day
+2023,159,Dartmouth Big Green,2023-01-14,-29.466910095050746,included_game_day
+2023,159,Dartmouth Big Green,2023-01-16,-19.62024707812033,included_game_day
+2023,159,Dartmouth Big Green,2023-01-21,-10.399947175848508,included_game_day
+2023,159,Dartmouth Big Green,2023-01-28,-12.177035833404604,included_game_day
+2023,159,Dartmouth Big Green,2023-02-03,-25.12843395432916,included_game_day
+2023,159,Dartmouth Big Green,2023-02-04,-37.678707543679664,included_game_day
+2023,159,Dartmouth Big Green,2023-02-11,-24.621646578097103,included_game_day
+2023,159,Dartmouth Big Green,2023-02-17,-27.71136131132969,included_game_day
+2023,159,Dartmouth Big Green,2023-02-18,-39.56991977614392,included_game_day
+2023,159,Dartmouth Big Green,2023-02-25,-36.54522238543355,included_game_day
+2023,159,Dartmouth Big Green,2023-03-04,-28.545824287247285,included_game_day
+2024,159,Dartmouth Big Green,2023-11-06,-35.0,included_game_day
+2024,159,Dartmouth Big Green,2023-11-10,-67.5,included_game_day
+2024,159,Dartmouth Big Green,2023-11-25,-59.376385,included_game_day
+2024,159,Dartmouth Big Green,2023-11-29,-60.0877427,included_game_day
+2024,159,Dartmouth Big Green,2023-12-02,-54.59396041,included_game_day
+2024,159,Dartmouth Big Green,2023-12-06,-38.5335158722,included_game_day
+2024,159,Dartmouth Big Green,2023-12-09,-45.02393360038,included_game_day
+2024,159,Dartmouth Big Green,2023-12-13,-35.313199590830195,included_game_day
+2024,159,Dartmouth Big Green,2023-12-16,-61.57955757874717,included_game_day
+2024,159,Dartmouth Big Green,2023-12-21,-68.62255344540915,included_game_day
+2024,159,Dartmouth Big Green,2023-12-30,-77.92019886062805,included_game_day
+2024,159,Dartmouth Big Green,2024-01-06,-98.08226525156236,included_game_day
+2024,159,Dartmouth Big Green,2024-01-15,-94.43103140989533,included_game_day
+2024,159,Dartmouth Big Green,2024-01-20,-109.14757623410583,included_game_day
+2024,159,Dartmouth Big Green,2024-01-27,-101.06138136557713,included_game_day
+2024,159,Dartmouth Big Green,2024-02-02,-91.29343264980625,included_game_day
+2024,159,Dartmouth Big Green,2024-02-03,-103.24320006420642,included_game_day
+2024,159,Dartmouth Big Green,2024-02-10,-112.36695724454745,included_game_day
+2024,159,Dartmouth Big Green,2024-02-16,-107.63485223282473,included_game_day
+2024,159,Dartmouth Big Green,2024-02-17,-97.1122770838412,included_game_day
+2024,159,Dartmouth Big Green,2024-02-23,-108.2557013773139,included_game_day
+2024,159,Dartmouth Big Green,2024-02-24,-105.1775997748695,included_game_day
+2024,159,Dartmouth Big Green,2024-03-01,-109.20887762325212,included_game_day
+2024,159,Dartmouth Big Green,2024-03-02,-118.98125853753314,included_game_day
+2024,159,Dartmouth Big Green,2024-03-05,-106.75434947860083,included_game_day
+2025,159,Dartmouth Big Green,2024-11-09,-2.0200000000000005,included_game_day
+2025,159,Dartmouth Big Green,2024-11-13,-19.318,included_game_day
+2025,159,Dartmouth Big Green,2024-11-16,-46.92,included_game_day
+2025,159,Dartmouth Big Green,2024-11-19,-52.452,included_game_day
+2025,159,Dartmouth Big Green,2024-11-29,-35.807080135999996,included_game_day
+2025,159,Dartmouth Big Green,2024-12-03,-35.2175935254,included_game_day
+2025,159,Dartmouth Big Green,2024-12-08,-33.92385959806,included_game_day
+2025,159,Dartmouth Big Green,2024-12-11,-37.271739282582,included_game_day
+2025,159,Dartmouth Big Green,2024-12-14,-41.0295509022624,included_game_day
+2025,159,Dartmouth Big Green,2024-12-18,-51.32505722594216,included_game_day
+2025,159,Dartmouth Big Green,2024-12-21,-22.31819966080998,included_game_day
+2025,159,Dartmouth Big Green,2025-01-11,-27.424687214379126,included_game_day
+2025,159,Dartmouth Big Green,2025-01-18,-27.095725591568264,included_game_day
+2025,159,Dartmouth Big Green,2025-01-20,-30.171626438584603,included_game_day
+2025,159,Dartmouth Big Green,2025-01-25,-26.527172359760716,included_game_day
+2025,159,Dartmouth Big Green,2025-01-31,-29.374938497323495,included_game_day
+2025,159,Dartmouth Big Green,2025-02-01,-20.756461258651008,included_game_day
+2025,159,Dartmouth Big Green,2025-02-08,-6.302632545805983,included_game_day
+2025,159,Dartmouth Big Green,2025-02-14,9.074149510787663,included_game_day
+2025,159,Dartmouth Big Green,2025-02-15,46.41291623288237,included_game_day
+2025,159,Dartmouth Big Green,2025-02-21,27.289680246161176,included_game_day
+2025,159,Dartmouth Big Green,2025-02-22,40.856960674589715,included_game_day
+2025,159,Dartmouth Big Green,2025-02-28,39.44879494060388,included_game_day
+2025,159,Dartmouth Big Green,2025-03-01,52.48505550371833,included_game_day
+2025,159,Dartmouth Big Green,2025-03-08,39.51334374449965,included_game_day
+2025,159,Dartmouth Big Green,2025-03-15,24.660375725772496,included_game_day
+2026,159,Dartmouth Big Green,2025-11-09,-22.1,included_game_day
+2026,159,Dartmouth Big Green,2025-11-12,-27.650000000000002,included_game_day
+2026,159,Dartmouth Big Green,2025-11-16,-37.2776,included_game_day
+2026,159,Dartmouth Big Green,2025-11-29,-8.70522179,included_game_day
+2026,159,Dartmouth Big Green,2025-12-03,-18.05497454183,included_game_day
+2026,159,Dartmouth Big Green,2025-12-06,-19.311828790817,included_game_day
+2026,159,Dartmouth Big Green,2025-12-09,-28.1024906675353,included_game_day
+2026,159,Dartmouth Big Green,2025-12-13,-20.39954301544202,included_game_day
+2026,159,Dartmouth Big Green,2025-12-16,5.62725613269318,included_game_day
+2026,159,Dartmouth Big Green,2025-12-19,-18.63670245586715,included_game_day
+2026,159,Dartmouth Big Green,2025-12-29,-23.141707551371905,included_game_day
+2026,159,Dartmouth Big Green,2026-01-05,-9.57464373780524,included_game_day
+2026,159,Dartmouth Big Green,2026-01-10,5.304509530508485,included_game_day
+2026,159,Dartmouth Big Green,2026-01-17,-9.801545700038385,included_game_day
+2026,159,Dartmouth Big Green,2026-01-19,-11.493904577760702,included_game_day
+2026,159,Dartmouth Big Green,2026-01-24,-23.259137069840584,included_game_day
+2026,159,Dartmouth Big Green,2026-01-30,-24.49278934481654,included_game_day
+2026,159,Dartmouth Big Green,2026-01-31,-17.463810129064573,included_game_day
+2026,159,Dartmouth Big Green,2026-02-07,-29.162740791027666,included_game_day
+2026,159,Dartmouth Big Green,2026-02-13,-35.17775332067069,included_game_day
+2026,159,Dartmouth Big Green,2026-02-14,-42.39665911522359,included_game_day
+2026,159,Dartmouth Big Green,2026-02-21,-36.095843417484716,included_game_day
+2026,159,Dartmouth Big Green,2026-02-27,-36.66650783447186,included_game_day
+2026,159,Dartmouth Big Green,2026-02-28,-55.42447265970725,included_game_day
+2026,159,Dartmouth Big Green,2026-03-07,-71.9133439492474,included_game_day
+2027,159,Dartmouth Big Green,2026-11-02,10.0,included_game_day
+2027,159,Dartmouth Big Green,2026-11-08,-6.68,included_game_day
+2027,159,Dartmouth Big Green,2026-11-11,4.537000000000001,included_game_day
+2027,159,Dartmouth Big Green,2026-11-15,-7.947699999999999,included_game_day

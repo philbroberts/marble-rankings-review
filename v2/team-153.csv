@@ -1,0 +1,1379 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,153,North Carolina,1987-11-21,3.0,included_game_day
+1988,153,North Carolina,1987-11-27,7.7,included_game_day
+1988,153,North Carolina,1987-11-28,21.13,included_game_day
+1988,153,North Carolina,1987-12-03,30.247,included_game_day
+1988,153,North Carolina,1987-12-05,31.6023,included_game_day
+1988,153,North Carolina,1987-12-12,48.5205535,included_game_day
+1988,153,North Carolina,1987-12-17,64.59779815,included_game_day
+1988,153,North Carolina,1987-12-19,83.809060945,included_game_day
+1988,153,North Carolina,1987-12-30,102.38797017267,included_game_day
+1988,153,North Carolina,1988-01-02,106.2409432034366,included_game_day
+1988,153,North Carolina,1988-01-06,106.5992173588664,included_game_day
+1988,153,North Carolina,1988-01-09,108.33096876788089,included_game_day
+1988,153,North Carolina,1988-01-14,114.83993158662648,included_game_day
+1988,153,North Carolina,1988-01-16,129.5019959145791,included_game_day
+1988,153,North Carolina,1988-01-21,129.89662965592532,included_game_day
+1988,153,North Carolina,1988-01-24,135.08820657266384,included_game_day
+1988,153,North Carolina,1988-01-28,121.14520086894669,included_game_day
+1988,153,North Carolina,1988-01-30,117.20902428028121,included_game_day
+1988,153,North Carolina,1988-02-04,139.4302683868643,included_game_day
+1988,153,North Carolina,1988-02-11,139.35293535879003,included_game_day
+1988,153,North Carolina,1988-02-14,137.85713294787755,included_game_day
+1988,153,North Carolina,1988-02-17,137.68940117059992,included_game_day
+1988,153,North Carolina,1988-02-20,127.55691540384575,included_game_day
+1988,153,North Carolina,1988-02-21,110.2074833034045,included_game_day
+1988,153,North Carolina,1988-02-28,133.98268991316272,included_game_day
+1988,153,North Carolina,1988-03-02,153.1454448584875,included_game_day
+1988,153,North Carolina,1988-03-06,140.8317521246989,included_game_day
+1988,153,North Carolina,1988-03-11,149.86750354580855,included_game_day
+1988,153,North Carolina,1988-03-12,153.06838295184397,included_game_day
+1988,153,North Carolina,1988-03-13,149.9026173848258,included_game_day
+1988,153,North Carolina,1988-03-17,159.23472307604476,included_game_day
+1988,153,North Carolina,1988-03-19,181.78769351260766,included_game_day
+1988,153,North Carolina,1988-03-25,189.7637389295398,included_game_day
+1988,153,North Carolina,1988-03-27,177.91111495057407,included_game_day
+1989,153,North Carolina,1988-11-18,24.0,included_game_day
+1989,153,North Carolina,1988-11-19,27.8,included_game_day
+1989,153,North Carolina,1988-11-20,17.35,included_game_day
+1989,153,North Carolina,1988-11-25,31.06585,included_game_day
+1989,153,North Carolina,1988-11-28,37.189265,included_game_day
+1989,153,North Carolina,1988-12-02,41.5383385,included_game_day
+1989,153,North Carolina,1988-12-03,57.952354650000004,included_game_day
+1989,153,North Carolina,1988-12-07,57.343869185,included_game_day
+1989,153,North Carolina,1988-12-10,61.1824432665,included_game_day
+1989,153,North Carolina,1988-12-17,84.12886293985,included_game_day
+1989,153,North Carolina,1988-12-22,105.71216403286499,included_game_day
+1989,153,North Carolina,1988-12-29,112.86960073198888,included_game_day
+1989,153,North Carolina,1989-01-03,131.10989435938245,included_game_day
+1989,153,North Carolina,1989-01-05,143.90599865310995,included_game_day
+1989,153,North Carolina,1989-01-07,138.982021807109,included_game_day
+1989,153,North Carolina,1989-01-11,138.20332608537564,included_game_day
+1989,153,North Carolina,1989-01-15,108.14402693179389,included_game_day
+1989,153,North Carolina,1989-01-18,139.7178657728472,included_game_day
+1989,153,North Carolina,1989-01-21,140.97354102974873,included_game_day
+1989,153,North Carolina,1989-01-25,150.77073054761578,included_game_day
+1989,153,North Carolina,1989-01-28,150.75806184772082,included_game_day
+1989,153,North Carolina,1989-02-01,142.63814898026754,included_game_day
+1989,153,North Carolina,1989-02-09,134.5868239758359,included_game_day
+1989,153,North Carolina,1989-02-12,146.55775719727006,included_game_day
+1989,153,North Carolina,1989-02-14,150.47224499089631,included_game_day
+1989,153,North Carolina,1989-02-16,160.29964155129045,included_game_day
+1989,153,North Carolina,1989-02-19,159.74401713337642,included_game_day
+1989,153,North Carolina,1989-02-21,163.81344131727923,included_game_day
+1989,153,North Carolina,1989-02-25,166.01112645651247,included_game_day
+1989,153,North Carolina,1989-03-01,159.93933955878813,included_game_day
+1989,153,North Carolina,1989-03-05,160.1671163832597,included_game_day
+1989,153,North Carolina,1989-03-10,172.2854342592704,included_game_day
+1989,153,North Carolina,1989-03-11,186.95024139126136,included_game_day
+1989,153,North Carolina,1989-03-12,193.3201256027529,included_game_day
+1989,153,North Carolina,1989-03-17,192.67716645270417,included_game_day
+1989,153,North Carolina,1989-03-19,189.51047731670596,included_game_day
+1989,153,North Carolina,1989-03-23,184.67913527473166,included_game_day
+1990,153,North Carolina,1989-11-24,1.0,included_game_day
+1990,153,North Carolina,1989-11-25,11.7,included_game_day
+1990,153,North Carolina,1989-11-26,5.18,included_game_day
+1990,153,North Carolina,1989-11-30,1.7069999999999999,included_game_day
+1990,153,North Carolina,1989-12-02,48.536300000000004,included_game_day
+1990,153,North Carolina,1989-12-03,59.28267,included_game_day
+1990,153,North Carolina,1989-12-07,45.89940300000001,included_game_day
+1990,153,North Carolina,1989-12-09,36.3662307,included_game_day
+1990,153,North Carolina,1989-12-16,44.13165311,included_game_day
+1990,153,North Carolina,1989-12-23,57.535608822300006,included_game_day
+1990,153,North Carolina,1989-12-27,64.69545772237673,included_game_day
+1990,153,North Carolina,1989-12-29,56.56207579671509,included_game_day
+1990,153,North Carolina,1989-12-30,60.229284596142584,included_game_day
+1990,153,North Carolina,1990-01-03,63.375089016987815,included_game_day
+1990,153,North Carolina,1990-01-06,81.92535143047307,included_game_day
+1990,153,North Carolina,1990-01-10,72.61394722568835,included_game_day
+1990,153,North Carolina,1990-01-13,93.18946712716956,included_game_day
+1990,153,North Carolina,1990-01-17,116.84443090648635,included_game_day
+1990,153,North Carolina,1990-01-20,128.94009944089257,included_game_day
+1990,153,North Carolina,1990-01-22,125.25380499187911,included_game_day
+1990,153,North Carolina,1990-01-27,148.6715610063161,included_game_day
+1990,153,North Carolina,1990-02-01,120.913533995047,included_game_day
+1990,153,North Carolina,1990-02-05,110.55698999425607,included_game_day
+1990,153,North Carolina,1990-02-07,98.94055707570575,included_game_day
+1990,153,North Carolina,1990-02-11,99.34141030473036,included_game_day
+1990,153,North Carolina,1990-02-14,98.49146564915618,included_game_day
+1990,153,North Carolina,1990-02-17,89.12550607457332,included_game_day
+1990,153,North Carolina,1990-02-24,88.96300798340967,included_game_day
+1990,153,North Carolina,1990-02-28,92.02724741668396,included_game_day
+1990,153,North Carolina,1990-03-04,114.30242193797625,included_game_day
+1990,153,North Carolina,1990-03-09,102.19318969180512,included_game_day
+1990,153,North Carolina,1990-03-15,115.65838392881845,included_game_day
+1990,153,North Carolina,1990-03-17,125.67433285516114,included_game_day
+1990,153,North Carolina,1990-03-22,107.59008520244187,included_game_day
+1991,153,North Carolina,1990-11-24,33.0,included_game_day
+1991,153,North Carolina,1990-11-27,69.7,included_game_day
+1991,153,North Carolina,1990-11-30,60.34,included_game_day
+1991,153,North Carolina,1990-12-01,75.73610000000001,included_game_day
+1991,153,North Carolina,1990-12-06,82.53349,included_game_day
+1991,153,North Carolina,1990-12-10,79.2444437,included_game_day
+1991,153,North Carolina,1990-12-15,85.48368933,included_game_day
+1991,153,North Carolina,1990-12-22,98.84666729088,included_game_day
+1991,153,North Carolina,1990-12-29,108.73824928980068,included_game_day
+1991,153,North Carolina,1990-12-30,117.32149805786707,included_game_day
+1991,153,North Carolina,1991-01-03,153.36077745208036,included_game_day
+1991,153,North Carolina,1991-01-05,172.70294661078682,included_game_day
+1991,153,North Carolina,1991-01-09,189.88990661652403,included_game_day
+1991,153,North Carolina,1991-01-12,185.89313764875587,included_game_day
+1991,153,North Carolina,1991-01-19,175.47514926405233,included_game_day
+1991,153,North Carolina,1991-01-23,177.81314129896083,included_game_day
+1991,153,North Carolina,1991-01-27,165.07544067445255,included_game_day
+1991,153,North Carolina,1991-01-31,163.15865382125082,included_game_day
+1991,153,North Carolina,1991-02-06,151.28325030620164,included_game_day
+1991,153,North Carolina,1991-02-07,163.7829274941623,included_game_day
+1991,153,North Carolina,1991-02-09,176.58698479439482,included_game_day
+1991,153,North Carolina,1991-02-13,181.6611149257726,included_game_day
+1991,153,North Carolina,1991-02-16,182.3738052879379,included_game_day
+1991,153,North Carolina,1991-02-18,216.95083033177843,included_game_day
+1991,153,North Carolina,1991-02-23,208.29124578539333,included_game_day
+1991,153,North Carolina,1991-02-28,219.4204222053213,included_game_day
+1991,153,North Carolina,1991-03-03,206.03877773932064,included_game_day
+1991,153,North Carolina,1991-03-08,194.9412598257406,included_game_day
+1991,153,North Carolina,1991-03-09,190.34348981470964,included_game_day
+1991,153,North Carolina,1991-03-10,213.56638539586416,included_game_day
+1991,153,North Carolina,1991-03-15,229.4783717767286,included_game_day
+1991,153,North Carolina,1991-03-17,229.20502476687383,included_game_day
+1991,153,North Carolina,1991-03-22,244.468072734764,included_game_day
+1991,153,North Carolina,1991-03-24,234.31272352718076,included_game_day
+1991,153,North Carolina,1991-03-30,225.61577980268407,included_game_day
+1992,153,North Carolina,1991-11-24,36.0,included_game_day
+1992,153,North Carolina,1991-11-27,41.1,included_game_day
+1992,153,North Carolina,1991-11-30,43.29,included_game_day
+1992,153,North Carolina,1991-12-01,77.931,included_game_day
+1992,153,North Carolina,1991-12-04,103.9379,included_game_day
+1992,153,North Carolina,1991-12-07,121.190308,included_game_day
+1992,153,North Carolina,1991-12-16,94.5749072,included_game_day
+1992,153,North Carolina,1991-12-17,98.227674716,included_game_day
+1992,153,North Carolina,1992-01-02,117.19216960719643,included_game_day
+1992,153,North Carolina,1992-01-04,128.36247644872313,included_game_day
+1992,153,North Carolina,1992-01-09,150.1578282411072,included_game_day
+1992,153,North Carolina,1992-01-11,123.00926706179233,included_game_day
+1992,153,North Carolina,1992-01-13,128.2188427640407,included_game_day
+1992,153,North Carolina,1992-01-16,140.53416533546027,included_game_day
+1992,153,North Carolina,1992-01-19,139.98685811391007,included_game_day
+1992,153,North Carolina,1992-01-22,118.68135200203776,included_game_day
+1992,153,North Carolina,1992-01-25,133.0071892137637,included_game_day
+1992,153,North Carolina,1992-02-02,142.9444943564124,included_game_day
+1992,153,North Carolina,1992-02-05,148.17317887237863,included_game_day
+1992,153,North Carolina,1992-02-08,143.12401693348988,included_game_day
+1992,153,North Carolina,1992-02-15,142.35210101168667,included_game_day
+1992,153,North Carolina,1992-02-19,124.64484664744046,included_game_day
+1992,153,North Carolina,1992-02-22,103.41730116962039,included_game_day
+1992,153,North Carolina,1992-02-27,87.85481514981205,included_game_day
+1992,153,North Carolina,1992-03-01,84.18613967107895,included_game_day
+1992,153,North Carolina,1992-03-04,85.90426503841547,included_game_day
+1992,153,North Carolina,1992-03-08,84.80001822492767,included_game_day
+1992,153,North Carolina,1992-03-13,98.52807611746721,included_game_day
+1992,153,North Carolina,1992-03-14,102.63999579079999,included_game_day
+1992,153,North Carolina,1992-03-15,89.43711894641976,included_game_day
+1992,153,North Carolina,1992-03-19,93.6898001156106,included_game_day
+1992,153,North Carolina,1992-03-21,101.00391462939135,included_game_day
+1992,153,North Carolina,1992-03-27,103.76117515770983,included_game_day
+1993,153,North Carolina,1992-12-01,34.0,included_game_day
+1993,153,North Carolina,1992-12-04,71.6,included_game_day
+1993,153,North Carolina,1992-12-05,101.63999999999999,included_game_day
+1993,153,North Carolina,1992-12-09,107.97599999999998,included_game_day
+1993,153,North Carolina,1992-12-13,106.57054999999998,included_game_day
+1993,153,North Carolina,1992-12-20,142.95923,included_game_day
+1993,153,North Carolina,1992-12-22,156.81764957,included_game_day
+1993,153,North Carolina,1992-12-27,167.57675890982,included_game_day
+1993,153,North Carolina,1992-12-28,159.880219350498,included_game_day
+1993,153,North Carolina,1992-12-29,164.6630093731288,included_game_day
+1993,153,North Carolina,1993-01-04,184.12651678151678,included_game_day
+1993,153,North Carolina,1993-01-07,200.9027122435586,included_game_day
+1993,153,North Carolina,1993-01-09,214.4905005049172,included_game_day
+1993,153,North Carolina,1993-01-13,212.0160372867069,included_game_day
+1993,153,North Carolina,1993-01-16,207.87162941025875,included_game_day
+1993,153,North Carolina,1993-01-20,218.532879428792,included_game_day
+1993,153,North Carolina,1993-01-24,213.65608032683437,included_game_day
+1993,153,North Carolina,1993-01-27,206.19774375957184,included_game_day
+1993,153,North Carolina,1993-01-30,173.73285443537054,included_game_day
+1993,153,North Carolina,1993-02-03,166.51662378886982,included_game_day
+1993,153,North Carolina,1993-02-06,190.1338871733705,included_game_day
+1993,153,North Carolina,1993-02-09,191.16258365817313,included_game_day
+1993,153,North Carolina,1993-02-14,191.79009582186353,included_game_day
+1993,153,North Carolina,1993-02-17,186.43905347851106,included_game_day
+1993,153,North Carolina,1993-02-21,199.24566775407018,included_game_day
+1993,153,North Carolina,1993-02-23,204.56290218451642,included_game_day
+1993,153,North Carolina,1993-02-27,209.22664491672768,included_game_day
+1993,153,North Carolina,1993-03-03,216.9138776075655,included_game_day
+1993,153,North Carolina,1993-03-07,223.4482027538534,included_game_day
+1993,153,North Carolina,1993-03-12,241.49637716270973,included_game_day
+1993,153,North Carolina,1993-03-13,244.23604329900328,included_game_day
+1993,153,North Carolina,1993-03-14,228.54183039432024,included_game_day
+1993,153,North Carolina,1993-03-18,227.867392684643,included_game_day
+1993,153,North Carolina,1993-03-20,257.22373874412574,included_game_day
+1993,153,North Carolina,1993-03-26,253.1888122344194,included_game_day
+1993,153,North Carolina,1993-03-28,256.4812023202273,included_game_day
+1993,153,North Carolina,1993-04-03,258.8257306160987,included_game_day
+1993,153,North Carolina,1993-04-05,257.5489718261541,included_game_day
+1994,153,North Carolina,1993-11-17,11.0,included_game_day
+1994,153,North Carolina,1993-11-18,35.4,included_game_day
+1994,153,North Carolina,1993-11-19,29.75,included_game_day
+1994,153,North Carolina,1993-11-20,42.853,included_game_day
+1994,153,North Carolina,1993-12-01,39.7237,included_game_day
+1994,153,North Carolina,1993-12-03,64.55133000000001,included_game_day
+1994,153,North Carolina,1993-12-04,89.706197,included_game_day
+1994,153,North Carolina,1993-12-09,102.87420339,included_game_day
+1994,153,North Carolina,1993-12-18,105.58461716100001,included_game_day
+1994,153,North Carolina,1993-12-20,117.68761777390002,included_game_day
+1994,153,North Carolina,1994-01-02,150.56570805069592,included_game_day
+1994,153,North Carolina,1994-01-05,162.35020221596744,included_game_day
+1994,153,North Carolina,1994-01-08,163.4620024718136,included_game_day
+1994,153,North Carolina,1994-01-12,136.40428716796552,included_game_day
+1994,153,North Carolina,1994-01-15,168.59352190390163,included_game_day
+1994,153,North Carolina,1994-01-19,157.340393803388,included_game_day
+1994,153,North Carolina,1994-01-22,171.45453051587324,included_game_day
+1994,153,North Carolina,1994-01-24,191.0801282613419,included_game_day
+1994,153,North Carolina,1994-01-26,189.5298123854767,included_game_day
+1994,153,North Carolina,1994-01-30,199.57387316651264,included_game_day
+1994,153,North Carolina,1994-02-03,200.87739785163933,included_game_day
+1994,153,North Carolina,1994-02-05,192.58364524035542,included_game_day
+1994,153,North Carolina,1994-02-10,184.7296528409131,included_game_day
+1994,153,North Carolina,1994-02-12,162.2039831505182,included_game_day
+1994,153,North Carolina,1994-02-17,145.20554085625852,included_game_day
+1994,153,North Carolina,1994-02-19,142.72313713425268,included_game_day
+1994,153,North Carolina,1994-02-23,141.98404123049133,included_game_day
+1994,153,North Carolina,1994-02-26,133.96856569104625,included_game_day
+1994,153,North Carolina,1994-03-02,125.98946072513185,included_game_day
+1994,153,North Carolina,1994-03-05,142.44929030619744,included_game_day
+1994,153,North Carolina,1994-03-11,149.2836631093004,included_game_day
+1994,153,North Carolina,1994-03-12,147.33726265980678,included_game_day
+1994,153,North Carolina,1994-03-13,145.77919240317098,included_game_day
+1994,153,North Carolina,1994-03-18,152.56276090978375,included_game_day
+1994,153,North Carolina,1994-03-20,144.3264344187557,included_game_day
+1995,153,North Carolina,1994-11-26,1.0,included_game_day
+1995,153,North Carolina,1994-11-29,20.9,included_game_day
+1995,153,North Carolina,1994-12-02,54.769999999999996,included_game_day
+1995,153,North Carolina,1994-12-03,65.085,included_game_day
+1995,153,North Carolina,1994-12-08,67.40961999999999,included_game_day
+1995,153,North Carolina,1994-12-17,92.559007627,included_game_day
+1995,153,North Carolina,1994-12-22,102.270538239,included_game_day
+1995,153,North Carolina,1994-12-29,114.99918954505,included_game_day
+1995,153,North Carolina,1994-12-31,114.258592088245,included_game_day
+1995,153,North Carolina,1995-01-04,108.7136660789902,included_game_day
+1995,153,North Carolina,1995-01-07,121.50696555783094,included_game_day
+1995,153,North Carolina,1995-01-11,126.66354780803924,included_game_day
+1995,153,North Carolina,1995-01-14,142.54458731225438,included_game_day
+1995,153,North Carolina,1995-01-18,143.1302289425933,included_game_day
+1995,153,North Carolina,1995-01-21,149.87050132767465,included_game_day
+1995,153,North Carolina,1995-01-25,169.9856565706812,included_game_day
+1995,153,North Carolina,1995-01-28,167.06516741780953,included_game_day
+1995,153,North Carolina,1995-02-02,165.56137790566163,included_game_day
+1995,153,North Carolina,1995-02-04,172.35723539305152,included_game_day
+1995,153,North Carolina,1995-02-07,161.3286815520476,included_game_day
+1995,153,North Carolina,1995-02-12,165.74923239240033,included_game_day
+1995,153,North Carolina,1995-02-16,177.4840313105245,included_game_day
+1995,153,North Carolina,1995-02-19,174.77205381531803,included_game_day
+1995,153,North Carolina,1995-02-25,167.1668648482984,included_game_day
+1995,153,North Carolina,1995-02-28,152.4434099125372,included_game_day
+1995,153,North Carolina,1995-03-04,155.5645575261902,included_game_day
+1995,153,North Carolina,1995-03-10,160.88402326855453,included_game_day
+1995,153,North Carolina,1995-03-11,163.5538801429326,included_game_day
+1995,153,North Carolina,1995-03-12,162.8997184631949,included_game_day
+1995,153,North Carolina,1995-03-17,161.35274690045,included_game_day
+1995,153,North Carolina,1995-03-19,180.88092101747844,included_game_day
+1995,153,North Carolina,1995-03-23,182.85707362471496,included_game_day
+1995,153,North Carolina,1995-03-25,204.23448583665396,included_game_day
+1995,153,North Carolina,1995-04-01,190.75904147293238,included_game_day
+1996,153,North Carolina,1995-11-20,8.0,included_game_day
+1996,153,North Carolina,1995-11-21,29.2,included_game_day
+1996,153,North Carolina,1995-11-22,26.29,included_game_day
+1996,153,North Carolina,1995-11-28,28.661,included_game_day
+1996,153,North Carolina,1995-12-01,46.0349,included_game_day
+1996,153,North Carolina,1995-12-02,66.75271000000001,included_game_day
+1996,153,North Carolina,1995-12-07,75.32273900000001,included_game_day
+1996,153,North Carolina,1995-12-16,96.299177157,included_game_day
+1996,153,North Carolina,1995-12-20,111.036940469,included_game_day
+1996,153,North Carolina,1995-12-28,114.48395692310001,included_game_day
+1996,153,North Carolina,1995-12-30,109.5941752601,included_game_day
+1996,153,North Carolina,1996-01-04,132.20760273760567,included_game_day
+1996,153,North Carolina,1996-01-06,129.05064211992936,included_game_day
+1996,153,North Carolina,1996-01-10,120.79939084247592,included_game_day
+1996,153,North Carolina,1996-01-14,150.14616785644213,included_game_day
+1996,153,North Carolina,1996-01-17,158.72179729021732,included_game_day
+1996,153,North Carolina,1996-01-20,135.60255453519216,included_game_day
+1996,153,North Carolina,1996-01-24,142.8311413606841,included_game_day
+1996,153,North Carolina,1996-01-27,140.3700285165446,included_game_day
+1996,153,North Carolina,1996-01-31,134.19969781529147,included_game_day
+1996,153,North Carolina,1996-02-03,128.86620630088305,included_game_day
+1996,153,North Carolina,1996-02-06,117.05861565664038,included_game_day
+1996,153,North Carolina,1996-02-10,102.23591721354845,included_game_day
+1996,153,North Carolina,1996-02-14,107.20111414145632,included_game_day
+1996,153,North Carolina,1996-02-17,106.02612013908724,included_game_day
+1996,153,North Carolina,1996-02-22,118.70832432395707,included_game_day
+1996,153,North Carolina,1996-02-24,105.84375376971246,included_game_day
+1996,153,North Carolina,1996-02-27,85.18289083212649,included_game_day
+1996,153,North Carolina,1996-03-03,98.74974992507559,included_game_day
+1996,153,North Carolina,1996-03-08,90.91165844315883,included_game_day
+1996,153,North Carolina,1996-03-15,110.84203512864619,included_game_day
+1996,153,North Carolina,1996-03-17,94.1369467135583,included_game_day
+1997,153,North Carolina,1996-11-22,-11.0,included_game_day
+1997,153,North Carolina,1996-11-25,-1.9000000000000004,included_game_day
+1997,153,North Carolina,1996-11-29,13.455,included_game_day
+1997,153,North Carolina,1996-12-02,52.649499999999996,included_game_day
+1997,153,North Carolina,1996-12-06,64.20604999999999,included_game_day
+1997,153,North Carolina,1996-12-07,71.05381299999999,included_game_day
+1997,153,North Carolina,1996-12-15,108.18794572499999,included_game_day
+1997,153,North Carolina,1996-12-18,115.8132453727,included_game_day
+1997,153,North Carolina,1996-12-20,118.38049620243,included_game_day
+1997,153,North Carolina,1996-12-22,121.85229143433699,included_game_day
+1997,153,North Carolina,1997-01-04,104.62308443764877,included_game_day
+1997,153,North Carolina,1997-01-08,94.14287967882292,included_game_day
+1997,153,North Carolina,1997-01-11,83.89361386631258,included_game_day
+1997,153,North Carolina,1997-01-15,82.15906293485325,included_game_day
+1997,153,North Carolina,1997-01-18,99.17337569916734,included_game_day
+1997,153,North Carolina,1997-01-22,89.33007326166246,included_game_day
+1997,153,North Carolina,1997-01-26,104.56010154780347,included_game_day
+1997,153,North Carolina,1997-01-29,109.6349903327097,included_game_day
+1997,153,North Carolina,1997-02-01,143.66338509805695,included_game_day
+1997,153,North Carolina,1997-02-06,165.27322105725563,included_game_day
+1997,153,North Carolina,1997-02-08,178.79813115241163,included_game_day
+1997,153,North Carolina,1997-02-12,170.5700112541502,included_game_day
+1997,153,North Carolina,1997-02-15,167.25979495931978,included_game_day
+1997,153,North Carolina,1997-02-19,175.9838560550801,included_game_day
+1997,153,North Carolina,1997-02-22,186.16812623576223,included_game_day
+1997,153,North Carolina,1997-02-26,189.88948531751527,included_game_day
+1997,153,North Carolina,1997-03-02,192.52931392463478,included_game_day
+1997,153,North Carolina,1997-03-07,189.69993943489763,included_game_day
+1997,153,North Carolina,1997-03-08,196.8008181257832,included_game_day
+1997,153,North Carolina,1997-03-09,200.37198235551512,included_game_day
+1997,153,North Carolina,1997-03-13,186.7921985642332,included_game_day
+1997,153,North Carolina,1997-03-15,192.75263881965935,included_game_day
+1997,153,North Carolina,1997-03-21,191.67160845496917,included_game_day
+1997,153,North Carolina,1997-03-23,203.48490279975428,included_game_day
+1997,153,North Carolina,1997-03-29,190.9193269936134,included_game_day
+1998,153,North Carolina,1997-11-14,25.0,included_game_day
+1998,153,North Carolina,1997-11-19,44.6,included_game_day
+1998,153,North Carolina,1997-11-22,61.14,included_game_day
+1998,153,North Carolina,1997-11-27,96.02600000000001,included_game_day
+1998,153,North Carolina,1997-11-28,118.22340000000001,included_game_day
+1998,153,North Carolina,1997-11-29,118.83491140000001,included_game_day
+1998,153,North Carolina,1997-12-03,117.24166464000001,included_game_day
+1998,153,North Carolina,1997-12-05,135.296498176,included_game_day
+1998,153,North Carolina,1997-12-06,146.3307915584,included_game_day
+1998,153,North Carolina,1997-12-13,143.73332400016,included_game_day
+1998,153,North Carolina,1997-12-16,145.210398817576,included_game_day
+1998,153,North Carolina,1997-12-20,149.8764424587734,included_game_day
+1998,153,North Carolina,1997-12-27,148.0067842544813,included_game_day
+1998,153,North Carolina,1997-12-29,173.51987819412315,included_game_day
+1998,153,North Carolina,1998-01-03,168.58581427067452,included_game_day
+1998,153,North Carolina,1998-01-08,178.29808625721768,included_game_day
+1998,153,North Carolina,1998-01-10,167.78393758777568,included_game_day
+1998,153,North Carolina,1998-01-14,159.24290841977663,included_game_day
+1998,153,North Carolina,1998-01-17,174.21448930237744,included_game_day
+1998,153,North Carolina,1998-01-21,179.70745948586097,included_game_day
+1998,153,North Carolina,1998-01-24,216.83293720993106,included_game_day
+1998,153,North Carolina,1998-01-28,212.17613903124732,included_game_day
+1998,153,North Carolina,1998-01-31,204.06916774101146,included_game_day
+1998,153,North Carolina,1998-02-05,229.30414067863583,included_game_day
+1998,153,North Carolina,1998-02-08,227.0027015815638,included_game_day
+1998,153,North Carolina,1998-02-11,225.11932572388892,included_game_day
+1998,153,North Carolina,1998-02-14,228.51995491923395,included_game_day
+1998,153,North Carolina,1998-02-21,194.26409792348966,included_game_day
+1998,153,North Carolina,1998-02-24,195.21199590378055,included_game_day
+1998,153,North Carolina,1998-02-28,202.46934057537842,included_game_day
+1998,153,North Carolina,1998-03-06,216.15934652746378,included_game_day
+1998,153,North Carolina,1998-03-07,215.33551865709393,included_game_day
+1998,153,North Carolina,1998-03-08,232.86991394257794,included_game_day
+1998,153,North Carolina,1998-03-12,248.53650386302616,included_game_day
+1998,153,North Carolina,1998-03-14,246.06521629537437,included_game_day
+1998,153,North Carolina,1998-03-19,250.2774713195061,included_game_day
+1998,153,North Carolina,1998-03-21,251.6065572225642,included_game_day
+1998,153,North Carolina,1998-03-28,237.607963026299,included_game_day
+1999,153,North Carolina,1998-11-13,20.0,included_game_day
+1999,153,North Carolina,1998-11-16,36.86,included_game_day
+1999,153,North Carolina,1998-11-18,42.094,included_game_day
+1999,153,North Carolina,1998-11-23,49.1646,included_game_day
+1999,153,North Carolina,1998-11-25,56.42554,included_game_day
+1999,153,North Carolina,1998-11-27,64.631354,included_game_day
+1999,153,North Carolina,1998-11-30,80.3282186,included_game_day
+1999,153,North Carolina,1998-12-04,81.57048574,included_game_day
+1999,153,North Carolina,1998-12-05,71.303784166,included_game_day
+1999,153,North Carolina,1998-12-08,107.1443021274,included_game_day
+1999,153,North Carolina,1998-12-12,100.2636454177014,included_game_day
+1999,153,North Carolina,1998-12-17,95.38146963073126,included_game_day
+1999,153,North Carolina,1998-12-19,101.92314782392819,included_game_day
+1999,153,North Carolina,1998-12-22,92.07422116723531,included_game_day
+1999,153,North Carolina,1998-12-29,86.62603734743433,included_game_day
+1999,153,North Carolina,1999-01-02,99.88213997419834,included_game_day
+1999,153,North Carolina,1999-01-05,117.38138836186674,included_game_day
+1999,153,North Carolina,1999-01-13,111.5086804200042,included_game_day
+1999,153,North Carolina,1999-01-16,114.17806681342256,included_game_day
+1999,153,North Carolina,1999-01-21,128.3053175943269,included_game_day
+1999,153,North Carolina,1999-01-23,135.27124200610442,included_game_day
+1999,153,North Carolina,1999-01-27,139.82278028834463,included_game_day
+1999,153,North Carolina,1999-01-31,134.44588038350267,included_game_day
+1999,153,North Carolina,1999-02-04,115.40956726333263,included_game_day
+1999,153,North Carolina,1999-02-07,141.05855868526703,included_game_day
+1999,153,North Carolina,1999-02-13,130.9804298035689,included_game_day
+1999,153,North Carolina,1999-02-17,130.4824311997644,included_game_day
+1999,153,North Carolina,1999-02-20,122.36958463670064,included_game_day
+1999,153,North Carolina,1999-02-23,115.48334137978675,included_game_day
+1999,153,North Carolina,1999-02-27,111.70668842180255,included_game_day
+1999,153,North Carolina,1999-03-05,129.51555217030472,included_game_day
+1999,153,North Carolina,1999-03-06,144.5850696220672,included_game_day
+1999,153,North Carolina,1999-03-07,137.92691999835594,included_game_day
+1999,153,North Carolina,1999-03-11,130.7445922781882,included_game_day
+2000,153,North Carolina,1999-11-22,18.1,included_game_day
+2000,153,North Carolina,1999-11-23,24.79,included_game_day
+2000,153,North Carolina,1999-11-24,38.719,included_game_day
+2000,153,North Carolina,1999-12-01,27.18466,included_game_day
+2000,153,North Carolina,1999-12-03,42.466194,included_game_day
+2000,153,North Carolina,1999-12-04,68.4988336,included_game_day
+2000,153,North Carolina,1999-12-07,84.87481024,included_game_day
+2000,153,North Carolina,1999-12-08,76.010376216,included_game_day
+2000,153,North Carolina,1999-12-12,95.6605169074,included_game_day
+2000,153,North Carolina,1999-12-18,102.23667413711,included_game_day
+2000,153,North Carolina,1999-12-21,91.24130560136891,included_game_day
+2000,153,North Carolina,1999-12-23,73.22300235555608,included_game_day
+2000,153,North Carolina,2000-01-02,83.41598252514294,included_game_day
+2000,153,North Carolina,2000-01-06,90.00538723106904,included_game_day
+2000,153,North Carolina,2000-01-08,94.77273594466497,included_game_day
+2000,153,North Carolina,2000-01-12,87.06499620673598,included_game_day
+2000,153,North Carolina,2000-01-15,81.2876888026164,included_game_day
+2000,153,North Carolina,2000-01-18,85.42922097509398,included_game_day
+2000,153,North Carolina,2000-01-22,69.09319654421799,included_game_day
+2000,153,North Carolina,2000-01-27,81.96005673926277,included_game_day
+2000,153,North Carolina,2000-01-29,95.02973047433244,included_game_day
+2000,153,North Carolina,2000-02-03,99.46232524778057,included_game_day
+2000,153,North Carolina,2000-02-06,105.54621008192414,included_game_day
+2000,153,North Carolina,2000-02-09,114.53474432833521,included_game_day
+2000,153,North Carolina,2000-02-12,128.02146857201436,included_game_day
+2000,153,North Carolina,2000-02-20,105.6761557896289,included_game_day
+2000,153,North Carolina,2000-02-23,100.21697694947028,included_game_day
+2000,153,North Carolina,2000-02-26,99.98401838154712,included_game_day
+2000,153,North Carolina,2000-03-01,89.63804869428357,included_game_day
+2000,153,North Carolina,2000-03-04,88.0918972967736,included_game_day
+2000,153,North Carolina,2000-03-10,80.18818056526152,included_game_day
+2000,153,North Carolina,2000-03-17,96.81922965552144,included_game_day
+2000,153,North Carolina,2000-03-19,116.42728810332119,included_game_day
+2000,153,North Carolina,2000-03-24,124.06130368954547,included_game_day
+2000,153,North Carolina,2000-03-26,136.1633280186429,included_game_day
+2000,153,North Carolina,2000-04-01,132.20924236705568,included_game_day
+2001,153,North Carolina,2000-11-10,2.0,included_game_day
+2001,153,North Carolina,2000-11-11,9.0,included_game_day
+2001,153,North Carolina,2000-11-17,41.1,included_game_day
+2001,153,North Carolina,2000-11-29,34.1184,included_game_day
+2001,153,North Carolina,2000-12-02,13.45936,included_game_day
+2001,153,North Carolina,2000-12-04,31.658974,included_game_day
+2001,153,North Carolina,2000-12-09,51.2917536,included_game_day
+2001,153,North Carolina,2000-12-17,62.752728966999996,included_game_day
+2001,153,North Carolina,2000-12-23,70.8830979203,included_game_day
+2001,153,North Carolina,2000-12-29,94.1345993900131,included_game_day
+2001,153,North Carolina,2000-12-30,92.22783982013934,included_game_day
+2001,153,North Carolina,2001-01-02,110.15334241617006,included_game_day
+2001,153,North Carolina,2001-01-06,116.61066068029919,included_game_day
+2001,153,North Carolina,2001-01-10,130.01345437949152,included_game_day
+2001,153,North Carolina,2001-01-13,146.88784172993786,included_game_day
+2001,153,North Carolina,2001-01-17,157.6001757024911,included_game_day
+2001,153,North Carolina,2001-01-20,151.98785628213398,included_game_day
+2001,153,North Carolina,2001-01-24,152.62918286955488,included_game_day
+2001,153,North Carolina,2001-01-28,156.57050073357232,included_game_day
+2001,153,North Carolina,2001-02-01,172.27161172705428,included_game_day
+2001,153,North Carolina,2001-02-03,173.47517211513642,included_game_day
+2001,153,North Carolina,2001-02-06,177.68715843535577,included_game_day
+2001,153,North Carolina,2001-02-10,186.12079315851048,included_game_day
+2001,153,North Carolina,2001-02-18,158.79886888716317,included_game_day
+2001,153,North Carolina,2001-02-22,169.1643324031991,included_game_day
+2001,153,North Carolina,2001-02-25,149.73570793560856,included_game_day
+2001,153,North Carolina,2001-02-28,153.7136548175677,included_game_day
+2001,153,North Carolina,2001-03-04,146.85321686197307,included_game_day
+2001,153,North Carolina,2001-03-09,147.57871207869815,included_game_day
+2001,153,North Carolina,2001-03-10,147.99183725135686,included_game_day
+2001,153,North Carolina,2001-03-11,132.8968346439378,included_game_day
+2001,153,North Carolina,2001-03-16,143.84117913753892,included_game_day
+2001,153,North Carolina,2001-03-18,128.2325239266179,included_game_day
+2002,153,North Carolina Tar Heels,2001-11-16,-11.0,included_game_day
+2002,153,North Carolina Tar Heels,2001-11-20,-18.0,included_game_day
+2002,153,North Carolina Tar Heels,2001-11-28,-30.618299999999998,included_game_day
+2002,153,North Carolina Tar Heels,2001-12-02,-25.943679999999997,included_game_day
+2002,153,North Carolina Tar Heels,2001-12-08,-34.87595839789999,included_game_day
+2002,153,North Carolina Tar Heels,2001-12-16,-38.206336034109995,included_game_day
+2002,153,North Carolina Tar Heels,2001-12-21,-40.505855147027994,included_game_day
+2002,153,North Carolina Tar Heels,2001-12-27,-8.505819186985192,included_game_day
+2002,153,North Carolina Tar Heels,2001-12-30,23.037997681668426,included_game_day
+2002,153,North Carolina Tar Heels,2002-01-05,3.9895231762204126,included_game_day
+2002,153,North Carolina Tar Heels,2002-01-09,-14.595715624345768,included_game_day
+2002,153,North Carolina Tar Heels,2002-01-12,-10.656431158183373,included_game_day
+2002,153,North Carolina Tar Heels,2002-01-16,-9.88896628632676,included_game_day
+2002,153,North Carolina Tar Heels,2002-01-19,-26.589978885635755,included_game_day
+2002,153,North Carolina Tar Heels,2002-01-23,-35.50937840386548,included_game_day
+2002,153,North Carolina Tar Heels,2002-01-27,-7.03126656608115,included_game_day
+2002,153,North Carolina Tar Heels,2002-01-31,-19.257296750817254,included_game_day
+2002,153,North Carolina Tar Heels,2002-02-02,-23.72303129812448,included_game_day
+2002,153,North Carolina Tar Heels,2002-02-06,-32.21625864804956,included_game_day
+2002,153,North Carolina Tar Heels,2002-02-12,-26.51579638808398,included_game_day
+2002,153,North Carolina Tar Heels,2002-02-17,-16.82339134813484,included_game_day
+2002,153,North Carolina Tar Heels,2002-02-20,-25.04694637517529,included_game_day
+2002,153,North Carolina Tar Heels,2002-02-24,-31.852764050049558,included_game_day
+2002,153,North Carolina Tar Heels,2002-02-27,-15.15327031242592,included_game_day
+2002,153,North Carolina Tar Heels,2002-03-03,-10.507125115493196,included_game_day
+2002,153,North Carolina Tar Heels,2002-03-08,6.209791042052981,included_game_day
+2003,153,North Carolina Tar Heels,2002-11-18,27.0,included_game_day
+2003,153,North Carolina Tar Heels,2002-11-20,27.4,included_game_day
+2003,153,North Carolina Tar Heels,2002-11-24,35.66,included_game_day
+2003,153,North Carolina Tar Heels,2002-11-27,51.744,included_game_day
+2003,153,North Carolina Tar Heels,2002-11-29,63.0792,included_game_day
+2003,153,North Carolina Tar Heels,2002-12-03,41.77458,included_game_day
+2003,153,North Carolina Tar Heels,2002-12-07,19.944542,included_game_day
+2003,153,North Carolina Tar Heels,2002-12-19,41.45671532919,included_game_day
+2003,153,North Carolina Tar Heels,2002-12-22,68.92646300969099,included_game_day
+2003,153,North Carolina Tar Heels,2002-12-27,56.227190661650695,included_game_day
+2003,153,North Carolina Tar Heels,2002-12-28,62.384273554762565,included_game_day
+2003,153,North Carolina Tar Heels,2003-01-04,61.893201384117816,included_game_day
+2003,153,North Carolina Tar Heels,2003-01-08,67.2699081974607,included_game_day
+2003,153,North Carolina Tar Heels,2003-01-11,61.262744020924906,included_game_day
+2003,153,North Carolina Tar Heels,2003-01-14,58.68197221258711,included_game_day
+2003,153,North Carolina Tar Heels,2003-01-18,63.861568707039886,included_game_day
+2003,153,North Carolina Tar Heels,2003-01-22,56.078907335160935,included_game_day
+2003,153,North Carolina Tar Heels,2003-01-26,51.02946323232645,included_game_day
+2003,153,North Carolina Tar Heels,2003-01-29,35.24314621841813,included_game_day
+2003,153,North Carolina Tar Heels,2003-02-02,38.206729998733095,included_game_day
+2003,153,North Carolina Tar Heels,2003-02-05,41.35696865394659,included_game_day
+2003,153,North Carolina Tar Heels,2003-02-08,38.84491944183193,included_game_day
+2003,153,North Carolina Tar Heels,2003-02-12,52.88255386057492,included_game_day
+2003,153,North Carolina Tar Heels,2003-02-15,49.06903284718236,included_game_day
+2003,153,North Carolina Tar Heels,2003-02-18,56.87399590534636,included_game_day
+2003,153,North Carolina Tar Heels,2003-02-22,28.945243281985476,included_game_day
+2003,153,North Carolina Tar Heels,2003-02-25,21.323308456739284,included_game_day
+2003,153,North Carolina Tar Heels,2003-03-01,23.12998909946708,included_game_day
+2003,153,North Carolina Tar Heels,2003-03-05,20.62585307745225,included_game_day
+2003,153,North Carolina Tar Heels,2003-03-09,32.903955765156525,included_game_day
+2003,153,North Carolina Tar Heels,2003-03-14,61.950115632894494,included_game_day
+2003,153,North Carolina Tar Heels,2003-03-15,59.128860671976724,included_game_day
+2003,153,North Carolina Tar Heels,2003-03-18,64.0653134579266,included_game_day
+2003,153,North Carolina Tar Heels,2003-03-24,72.29124979459799,included_game_day
+2003,153,North Carolina Tar Heels,2003-03-26,66.64293891726336,included_game_day
+2004,153,North Carolina Tar Heels,2003-11-22,23.0,included_game_day
+2004,153,North Carolina Tar Heels,2003-11-24,37.9,included_game_day
+2004,153,North Carolina Tar Heels,2003-11-29,44.17,included_game_day
+2004,153,North Carolina Tar Heels,2003-12-02,49.430730000000004,included_game_day
+2004,153,North Carolina Tar Heels,2003-12-07,80.05713850000001,included_game_day
+2004,153,North Carolina Tar Heels,2003-12-14,81.37333890000001,included_game_day
+2004,153,North Carolina Tar Heels,2003-12-20,75.673181251,included_game_day
+2004,153,North Carolina Tar Heels,2003-12-28,92.66852812002,included_game_day
+2004,153,North Carolina Tar Heels,2003-12-30,113.0314299842425,included_game_day
+2004,153,North Carolina Tar Heels,2004-01-03,108.27760633256771,included_game_day
+2004,153,North Carolina Tar Heels,2004-01-07,126.53416676616877,included_game_day
+2004,153,North Carolina Tar Heels,2004-01-11,142.11932976876753,included_game_day
+2004,153,North Carolina Tar Heels,2004-01-14,136.5719215293649,included_game_day
+2004,153,North Carolina Tar Heels,2004-01-17,141.6164413984599,included_game_day
+2004,153,North Carolina Tar Heels,2004-01-22,127.82603659664626,included_game_day
+2004,153,North Carolina Tar Heels,2004-01-24,135.41269210918287,included_game_day
+2004,153,North Carolina Tar Heels,2004-01-28,132.9171034897039,included_game_day
+2004,153,North Carolina Tar Heels,2004-01-31,115.45144286989296,included_game_day
+2004,153,North Carolina Tar Heels,2004-02-05,119.49446316534342,included_game_day
+2004,153,North Carolina Tar Heels,2004-02-07,127.76963324829356,included_game_day
+2004,153,North Carolina Tar Heels,2004-02-10,120.07211406800332,included_game_day
+2004,153,North Carolina Tar Heels,2004-02-15,126.83746385709631,included_game_day
+2004,153,North Carolina Tar Heels,2004-02-21,127.66805744768166,included_game_day
+2004,153,North Carolina Tar Heels,2004-02-24,119.19377505060837,included_game_day
+2004,153,North Carolina Tar Heels,2004-02-29,131.89733481532028,included_game_day
+2004,153,North Carolina Tar Heels,2004-03-02,131.80011494661662,included_game_day
+2004,153,North Carolina Tar Heels,2004-03-06,135.2949260763392,included_game_day
+2004,153,North Carolina Tar Heels,2004-03-12,138.1672706856549,included_game_day
+2004,153,North Carolina Tar Heels,2004-03-18,138.90390383756366,included_game_day
+2004,153,North Carolina Tar Heels,2004-03-20,136.18806781014683,included_game_day
+2005,153,North Carolina Tar Heels,2004-11-19,-6.91,included_game_day
+2005,153,North Carolina Tar Heels,2004-11-22,26.781000000000002,included_game_day
+2005,153,North Carolina Tar Heels,2004-11-23,41.072900000000004,included_game_day
+2005,153,North Carolina Tar Heels,2004-11-24,50.49561,included_game_day
+2005,153,North Carolina Tar Heels,2004-11-28,76.146049,included_game_day
+2005,153,North Carolina Tar Heels,2004-12-01,78.6084441,included_game_day
+2005,153,North Carolina Tar Heels,2004-12-04,87.70009309,included_game_day
+2005,153,North Carolina Tar Heels,2004-12-12,122.88734637099999,included_game_day
+2005,153,North Carolina Tar Heels,2004-12-19,153.7612350962208,included_game_day
+2005,153,North Carolina Tar Heels,2004-12-21,168.6691750526287,included_game_day
+2005,153,North Carolina Tar Heels,2004-12-28,169.877624360754,included_game_day
+2005,153,North Carolina Tar Heels,2004-12-30,193.24460395303362,included_game_day
+2005,153,North Carolina Tar Heels,2005-01-02,205.15721717730628,included_game_day
+2005,153,North Carolina Tar Heels,2005-01-08,228.15303490784802,included_game_day
+2005,153,North Carolina Tar Heels,2005-01-12,239.7220624221525,included_game_day
+2005,153,North Carolina Tar Heels,2005-01-15,221.07974479846655,included_game_day
+2005,153,North Carolina Tar Heels,2005-01-19,226.5125812905029,included_game_day
+2005,153,North Carolina Tar Heels,2005-01-22,227.70725977436996,included_game_day
+2005,153,North Carolina Tar Heels,2005-01-29,243.9961312537692,included_game_day
+2005,153,North Carolina Tar Heels,2005-02-03,250.04553105893268,included_game_day
+2005,153,North Carolina Tar Heels,2005-02-06,255.73397158781776,included_game_day
+2005,153,North Carolina Tar Heels,2005-02-09,250.32207354849484,included_game_day
+2005,153,North Carolina Tar Heels,2005-02-13,248.55816677422544,included_game_day
+2005,153,North Carolina Tar Heels,2005-02-16,245.97525330822802,included_game_day
+2005,153,North Carolina Tar Heels,2005-02-19,255.4282111897932,included_game_day
+2005,153,North Carolina Tar Heels,2005-02-22,253.06374748530556,included_game_day
+2005,153,North Carolina Tar Heels,2005-02-27,240.28469646354432,included_game_day
+2005,153,North Carolina Tar Heels,2005-03-03,228.87580932221326,included_game_day
+2005,153,North Carolina Tar Heels,2005-03-06,222.9626211784664,included_game_day
+2005,153,North Carolina Tar Heels,2005-03-11,211.56808447813125,included_game_day
+2005,153,North Carolina Tar Heels,2005-03-12,196.39467837017244,included_game_day
+2005,153,North Carolina Tar Heels,2005-03-18,203.42384888228824,included_game_day
+2005,153,North Carolina Tar Heels,2005-03-20,216.93232593885983,included_game_day
+2005,153,North Carolina Tar Heels,2005-03-25,209.5577604981003,included_game_day
+2005,153,North Carolina Tar Heels,2005-03-27,203.56588499104268,included_game_day
+2005,153,North Carolina Tar Heels,2005-04-02,212.87499944218115,included_game_day
+2005,153,North Carolina Tar Heels,2005-04-04,218.09673329692453,included_game_day
+2006,153,North Carolina Tar Heels,2005-11-19,0.0,included_game_day
+2006,153,North Carolina Tar Heels,2005-11-22,53.5,included_game_day
+2006,153,North Carolina Tar Heels,2005-11-25,63.97,included_game_day
+2006,153,North Carolina Tar Heels,2005-11-29,57.109244,included_game_day
+2006,153,North Carolina Tar Heels,2005-12-03,65.6240706,included_game_day
+2006,153,North Carolina Tar Heels,2005-12-07,69.0400466464,included_game_day
+2006,153,North Carolina Tar Heels,2005-12-17,77.3534852540302,included_game_day
+2006,153,North Carolina Tar Heels,2005-12-21,61.68028334202698,included_game_day
+2006,153,North Carolina Tar Heels,2005-12-28,89.3055833185149,included_game_day
+2006,153,North Carolina Tar Heels,2006-01-03,103.7334532502437,included_game_day
+2006,153,North Carolina Tar Heels,2006-01-07,116.83347297627141,included_game_day
+2006,153,North Carolina Tar Heels,2006-01-10,118.83721860423384,included_game_day
+2006,153,North Carolina Tar Heels,2006-01-14,98.58439874900506,included_game_day
+2006,153,North Carolina Tar Heels,2006-01-19,92.74100730104412,included_game_day
+2006,153,North Carolina Tar Heels,2006-01-22,97.7199128572482,included_game_day
+2006,153,North Carolina Tar Heels,2006-01-25,88.84770993629786,included_game_day
+2006,153,North Carolina Tar Heels,2006-01-28,102.48082790273793,included_game_day
+2006,153,North Carolina Tar Heels,2006-02-02,118.65615020420961,included_game_day
+2006,153,North Carolina Tar Heels,2006-02-04,123.55891915049695,included_game_day
+2006,153,North Carolina Tar Heels,2006-02-07,122.4260542694742,included_game_day
+2006,153,North Carolina Tar Heels,2006-02-12,132.12555832894517,included_game_day
+2006,153,North Carolina Tar Heels,2006-02-15,127.28617199044933,included_game_day
+2006,153,North Carolina Tar Heels,2006-02-19,133.11501205292166,included_game_day
+2006,153,North Carolina Tar Heels,2006-02-22,159.67550729598435,included_game_day
+2006,153,North Carolina Tar Heels,2006-02-26,170.59883215715746,included_game_day
+2006,153,North Carolina Tar Heels,2006-03-01,201.32813417214894,included_game_day
+2006,153,North Carolina Tar Heels,2006-03-04,209.16288762545986,included_game_day
+2006,153,North Carolina Tar Heels,2006-03-10,200.29158896753663,included_game_day
+2006,153,North Carolina Tar Heels,2006-03-11,184.7587154471183,included_game_day
+2006,153,North Carolina Tar Heels,2006-03-17,175.01300620662872,included_game_day
+2006,153,North Carolina Tar Heels,2006-03-19,159.80094547465194,included_game_day
+2007,153,North Carolina Tar Heels,2006-11-14,19.1,included_game_day
+2007,153,North Carolina Tar Heels,2006-11-15,23.39,included_game_day
+2007,153,North Carolina Tar Heels,2006-11-19,67.85900000000001,included_game_day
+2007,153,North Carolina Tar Heels,2006-11-22,58.22340000000001,included_game_day
+2007,153,North Carolina Tar Heels,2006-11-24,73.59875000000001,included_game_day
+2007,153,North Carolina Tar Heels,2006-11-29,83.84273200000001,included_game_day
+2007,153,North Carolina Tar Heels,2006-12-02,86.144407791,included_game_day
+2007,153,North Carolina Tar Heels,2006-12-09,99.355472265169,included_game_day
+2007,153,North Carolina Tar Heels,2006-12-16,114.24038792985209,included_game_day
+2007,153,North Carolina Tar Heels,2006-12-19,148.66006626081568,included_game_day
+2007,153,North Carolina Tar Heels,2006-12-22,161.21132590569013,included_game_day
+2007,153,North Carolina Tar Heels,2006-12-28,178.34966339313044,included_game_day
+2007,153,North Carolina Tar Heels,2006-12-31,188.81196079923032,included_game_day
+2007,153,North Carolina Tar Heels,2007-01-03,208.22488325203915,included_game_day
+2007,153,North Carolina Tar Heels,2007-01-07,221.246357779411,included_game_day
+2007,153,North Carolina Tar Heels,2007-01-10,211.46869938910532,included_game_day
+2007,153,North Carolina Tar Heels,2007-01-13,198.65617022002542,included_game_day
+2007,153,North Carolina Tar Heels,2007-01-17,217.21950120887323,included_game_day
+2007,153,North Carolina Tar Heels,2007-01-20,223.29839028598317,included_game_day
+2007,153,North Carolina Tar Heels,2007-01-24,232.0169865032884,included_game_day
+2007,153,North Carolina Tar Heels,2007-01-27,251.65353584573282,included_game_day
+2007,153,North Carolina Tar Heels,2007-01-31,264.72230094828717,included_game_day
+2007,153,North Carolina Tar Heels,2007-02-03,240.90980528019395,included_game_day
+2007,153,North Carolina Tar Heels,2007-02-07,239.44048441821596,included_game_day
+2007,153,North Carolina Tar Heels,2007-02-10,250.6990214245857,included_game_day
+2007,153,North Carolina Tar Heels,2007-02-13,232.6105257302488,included_game_day
+2007,153,North Carolina Tar Heels,2007-02-17,227.97449105431264,included_game_day
+2007,153,North Carolina Tar Heels,2007-02-21,227.44617279885065,included_game_day
+2007,153,North Carolina Tar Heels,2007-02-25,221.30547499846182,included_game_day
+2007,153,North Carolina Tar Heels,2007-03-01,206.86306729065282,included_game_day
+2007,153,North Carolina Tar Heels,2007-03-04,211.3404920522089,included_game_day
+2007,153,North Carolina Tar Heels,2007-03-09,213.66301570972328,included_game_day
+2007,153,North Carolina Tar Heels,2007-03-10,212.78806367544772,included_game_day
+2007,153,North Carolina Tar Heels,2007-03-11,206.16246003847544,included_game_day
+2007,153,North Carolina Tar Heels,2007-03-15,205.5192734355556,included_game_day
+2007,153,North Carolina Tar Heels,2007-03-17,208.69218200023252,included_game_day
+2007,153,North Carolina Tar Heels,2007-03-23,207.12024962639205,included_game_day
+2007,153,North Carolina Tar Heels,2007-03-25,188.98539036058975,included_game_day
+2008,153,North Carolina Tar Heels,2007-11-14,4.0,included_game_day
+2008,153,North Carolina Tar Heels,2007-11-18,34.82,included_game_day
+2008,153,North Carolina Tar Heels,2007-11-20,70.55600000000001,included_game_day
+2008,153,North Carolina Tar Heels,2007-11-23,82.97682,included_game_day
+2008,153,North Carolina Tar Heels,2007-11-24,94.25528990000001,included_game_day
+2008,153,North Carolina Tar Heels,2007-11-28,100.86158461000001,included_game_day
+2008,153,North Carolina Tar Heels,2007-12-01,109.13150208900001,included_game_day
+2008,153,North Carolina Tar Heels,2007-12-04,130.1405925791,included_game_day
+2008,153,North Carolina Tar Heels,2007-12-16,142.19753153723437,included_game_day
+2008,153,North Carolina Tar Heels,2007-12-19,130.73682131222722,included_game_day
+2008,153,North Carolina Tar Heels,2007-12-22,155.9663671952466,included_game_day
+2008,153,North Carolina Tar Heels,2007-12-27,176.7015321258711,included_game_day
+2008,153,North Carolina Tar Heels,2007-12-30,193.9759253198347,included_game_day
+2008,153,North Carolina Tar Heels,2008-01-02,208.28298996807055,included_game_day
+2008,153,North Carolina Tar Heels,2008-01-06,206.26285509071727,included_game_day
+2008,153,North Carolina Tar Heels,2008-01-09,196.32712081515754,included_game_day
+2008,153,North Carolina Tar Heels,2008-01-12,206.35113839908087,included_game_day
+2008,153,North Carolina Tar Heels,2008-01-16,194.25312410525603,included_game_day
+2008,153,North Carolina Tar Heels,2008-01-23,202.35323927504786,included_game_day
+2008,153,North Carolina Tar Heels,2008-01-31,207.20226667945187,included_game_day
+2008,153,North Carolina Tar Heels,2008-02-03,203.9248961510062,included_game_day
+2008,153,North Carolina Tar Heels,2008-02-06,188.26808826082018,included_game_day
+2008,153,North Carolina Tar Heels,2008-02-10,191.48174525552042,included_game_day
+2008,153,North Carolina Tar Heels,2008-02-12,175.99954455935472,included_game_day
+2008,153,North Carolina Tar Heels,2008-02-16,200.38006319688984,included_game_day
+2008,153,North Carolina Tar Heels,2008-02-20,199.05772740785483,included_game_day
+2008,153,North Carolina Tar Heels,2008-02-24,200.6174738719591,included_game_day
+2008,153,North Carolina Tar Heels,2008-03-01,196.81116013901237,included_game_day
+2008,153,North Carolina Tar Heels,2008-03-04,193.40529244666575,included_game_day
+2008,153,North Carolina Tar Heels,2008-03-08,201.60941174319532,included_game_day
+2008,153,North Carolina Tar Heels,2008-03-14,201.14100754356866,included_game_day
+2008,153,North Carolina Tar Heels,2008-03-15,193.83964280166902,included_game_day
+2008,153,North Carolina Tar Heels,2008-03-16,194.46123142108243,included_game_day
+2008,153,North Carolina Tar Heels,2008-03-21,219.66332065978258,included_game_day
+2008,153,North Carolina Tar Heels,2008-03-23,239.46142431131418,included_game_day
+2008,153,North Carolina Tar Heels,2008-03-27,253.24902484772792,included_game_day
+2008,153,North Carolina Tar Heels,2008-03-29,258.18739669966976,included_game_day
+2008,153,North Carolina Tar Heels,2008-04-05,239.76655065909603,included_game_day
+2009,153,North Carolina Tar Heels,2008-11-15,12.0,included_game_day
+2009,153,North Carolina Tar Heels,2008-11-18,25.7,included_game_day
+2009,153,North Carolina Tar Heels,2008-11-21,42.629999999999995,included_game_day
+2009,153,North Carolina Tar Heels,2008-11-25,73.335,included_game_day
+2009,153,North Carolina Tar Heels,2008-11-26,88.03340999999999,included_game_day
+2009,153,North Carolina Tar Heels,2008-11-30,142.6313095,included_game_day
+2009,153,North Carolina Tar Heels,2008-12-03,168.19144856999998,included_game_day
+2009,153,North Carolina Tar Heels,2008-12-13,162.86594772848997,included_game_day
+2009,153,North Carolina Tar Heels,2008-12-18,167.45046760232398,included_game_day
+2009,153,North Carolina Tar Heels,2008-12-20,168.3594376967156,included_game_day
+2009,153,North Carolina Tar Heels,2008-12-28,174.29642754903722,included_game_day
+2009,153,North Carolina Tar Heels,2008-12-31,184.40541929571373,included_game_day
+2009,153,North Carolina Tar Heels,2009-01-04,164.38038221004712,included_game_day
+2009,153,North Carolina Tar Heels,2009-01-07,186.8640633412986,included_game_day
+2009,153,North Carolina Tar Heels,2009-01-11,183.61650961010952,included_game_day
+2009,153,North Carolina Tar Heels,2009-01-15,194.39268201078002,included_game_day
+2009,153,North Carolina Tar Heels,2009-01-17,198.98418512600324,included_game_day
+2009,153,North Carolina Tar Heels,2009-01-21,213.07923018988535,included_game_day
+2009,153,North Carolina Tar Heels,2009-01-28,206.78817627092243,included_game_day
+2009,153,North Carolina Tar Heels,2009-01-31,210.91867244010746,included_game_day
+2009,153,North Carolina Tar Heels,2009-02-03,207.7741287548916,included_game_day
+2009,153,North Carolina Tar Heels,2009-02-07,200.10221848743666,included_game_day
+2009,153,North Carolina Tar Heels,2009-02-11,213.9203550362538,included_game_day
+2009,153,North Carolina Tar Heels,2009-02-15,211.00448092215112,included_game_day
+2009,153,North Carolina Tar Heels,2009-02-18,203.89459351507494,included_game_day
+2009,153,North Carolina Tar Heels,2009-02-21,187.36494752618248,included_game_day
+2009,153,North Carolina Tar Heels,2009-02-28,197.20806614753832,included_game_day
+2009,153,North Carolina Tar Heels,2009-03-04,195.50981874097482,included_game_day
+2009,153,North Carolina Tar Heels,2009-03-08,195.75467109062092,included_game_day
+2009,153,North Carolina Tar Heels,2009-03-13,188.12781318714534,included_game_day
+2009,153,North Carolina Tar Heels,2009-03-14,176.9629885926924,included_game_day
+2009,153,North Carolina Tar Heels,2009-03-19,205.78020083769326,included_game_day
+2009,153,North Carolina Tar Heels,2009-03-21,208.4654063280529,included_game_day
+2009,153,North Carolina Tar Heels,2009-03-27,226.97560072581203,included_game_day
+2009,153,North Carolina Tar Heels,2009-03-29,233.68827293881733,included_game_day
+2009,153,North Carolina Tar Heels,2009-04-04,242.13436224436862,included_game_day
+2009,153,North Carolina Tar Heels,2009-04-06,249.49904499359758,included_game_day
+2010,153,North Carolina Tar Heels,2009-11-09,13.0,included_game_day
+2010,153,North Carolina Tar Heels,2009-11-11,55.7,included_game_day
+2010,153,North Carolina Tar Heels,2009-11-15,57.43000000000001,included_game_day
+2010,153,North Carolina Tar Heels,2009-11-19,61.517,included_game_day
+2010,153,North Carolina Tar Heels,2009-11-20,44.5723,included_game_day
+2010,153,North Carolina Tar Heels,2009-11-23,58.11507,included_game_day
+2010,153,North Carolina Tar Heels,2009-11-29,57.1416805,included_game_day
+2010,153,North Carolina Tar Heels,2009-12-01,64.25798645,included_game_day
+2010,153,North Carolina Tar Heels,2009-12-05,67.075895105,included_game_day
+2010,153,North Carolina Tar Heels,2009-12-12,88.9251852636,included_game_day
+2010,153,North Carolina Tar Heels,2009-12-19,85.2572209901851,included_game_day
+2010,153,North Carolina Tar Heels,2009-12-22,118.38880143700169,included_game_day
+2010,153,North Carolina Tar Heels,2009-12-28,120.21691669775895,included_game_day
+2010,153,North Carolina Tar Heels,2009-12-30,117.95805544751227,included_game_day
+2010,153,North Carolina Tar Heels,2010-01-04,105.24158948328765,included_game_day
+2010,153,North Carolina Tar Heels,2010-01-10,116.34320448067078,included_game_day
+2010,153,North Carolina Tar Heels,2010-01-13,101.40131288233181,included_game_day
+2010,153,North Carolina Tar Heels,2010-01-16,96.61738721043321,included_game_day
+2010,153,North Carolina Tar Heels,2010-01-20,79.77014352524756,included_game_day
+2010,153,North Carolina Tar Heels,2010-01-26,96.41486219368669,included_game_day
+2010,153,North Carolina Tar Heels,2010-01-31,76.48219911763894,included_game_day
+2010,153,North Carolina Tar Heels,2010-02-04,78.83394431796862,included_game_day
+2010,153,North Carolina Tar Heels,2010-02-07,69.12818928038351,included_game_day
+2010,153,North Carolina Tar Heels,2010-02-10,68.05852146964025,included_game_day
+2010,153,North Carolina Tar Heels,2010-02-13,76.5263989339638,included_game_day
+2010,153,North Carolina Tar Heels,2010-02-16,65.03857921184762,included_game_day
+2010,153,North Carolina Tar Heels,2010-02-20,64.63091626955952,included_game_day
+2010,153,North Carolina Tar Heels,2010-02-24,58.61074203749531,included_game_day
+2010,153,North Carolina Tar Heels,2010-02-27,74.54040003719183,included_game_day
+2010,153,North Carolina Tar Heels,2010-03-02,78.59361170974998,included_game_day
+2010,153,North Carolina Tar Heels,2010-03-06,61.90957168815819,included_game_day
+2010,153,North Carolina Tar Heels,2010-03-11,62.13733778716159,included_game_day
+2010,153,North Carolina Tar Heels,2010-03-16,62.97722161710015,included_game_day
+2010,153,North Carolina Tar Heels,2010-03-20,71.38559885761191,included_game_day
+2010,153,North Carolina Tar Heels,2010-03-23,81.18804832692754,included_game_day
+2010,153,North Carolina Tar Heels,2010-03-30,82.25035855608661,included_game_day
+2010,153,North Carolina Tar Heels,2010-04-01,76.3036889512419,included_game_day
+2011,153,North Carolina Tar Heels,2010-11-12,11.0,included_game_day
+2011,153,North Carolina Tar Heels,2010-11-18,53.9,included_game_day
+2011,153,North Carolina Tar Heels,2010-11-19,46.967,included_game_day
+2011,153,North Carolina Tar Heels,2010-11-21,39.6506,included_game_day
+2011,153,North Carolina Tar Heels,2010-11-23,44.14554,included_game_day
+2011,153,North Carolina Tar Heels,2010-11-28,44.818693999999994,included_game_day
+2011,153,North Carolina Tar Heels,2010-11-30,39.8592976,included_game_day
+2011,153,North Carolina Tar Heels,2010-12-04,43.24885979,included_game_day
+2011,153,North Carolina Tar Heels,2010-12-08,69.1860444403,included_game_day
+2011,153,North Carolina Tar Heels,2010-12-11,60.92364336829999,included_game_day
+2011,153,North Carolina Tar Heels,2010-12-18,62.40008450622109,included_game_day
+2011,153,North Carolina Tar Heels,2010-12-21,73.49307390612034,included_game_day
+2011,153,North Carolina Tar Heels,2010-12-28,94.46062543417554,included_game_day
+2011,153,North Carolina Tar Heels,2011-01-02,122.51094907500999,included_game_day
+2011,153,North Carolina Tar Heels,2011-01-08,120.12604711331142,included_game_day
+2011,153,North Carolina Tar Heels,2011-01-13,119.16387965997797,included_game_day
+2011,153,North Carolina Tar Heels,2011-01-16,90.31745683033267,included_game_day
+2011,153,North Carolina Tar Heels,2011-01-18,97.37909913232006,included_game_day
+2011,153,North Carolina Tar Heels,2011-01-26,100.77680397921827,included_game_day
+2011,153,North Carolina Tar Heels,2011-01-29,112.05660067637871,included_game_day
+2011,153,North Carolina Tar Heels,2011-02-01,141.51151617127996,included_game_day
+2011,153,North Carolina Tar Heels,2011-02-06,154.39016333060712,included_game_day
+2011,153,North Carolina Tar Heels,2011-02-09,154.14176939427287,included_game_day
+2011,153,North Carolina Tar Heels,2011-02-12,154.18859820368462,included_game_day
+2011,153,North Carolina Tar Heels,2011-02-15,141.79880746827183,included_game_day
+2011,153,North Carolina Tar Heels,2011-02-19,131.51188702405884,included_game_day
+2011,153,North Carolina Tar Heels,2011-02-23,139.06992636993868,included_game_day
+2011,153,North Carolina Tar Heels,2011-02-27,146.76671155036578,included_game_day
+2011,153,North Carolina Tar Heels,2011-03-02,145.93849723110893,included_game_day
+2011,153,North Carolina Tar Heels,2011-03-05,160.51341065584865,included_game_day
+2011,153,North Carolina Tar Heels,2011-03-11,154.57545224458647,included_game_day
+2011,153,North Carolina Tar Heels,2011-03-12,156.1757158807491,included_game_day
+2011,153,North Carolina Tar Heels,2011-03-13,141.75515751874087,included_game_day
+2011,153,North Carolina Tar Heels,2011-03-18,147.32131463722757,included_game_day
+2011,153,North Carolina Tar Heels,2011-03-20,147.7414801345555,included_game_day
+2011,153,North Carolina Tar Heels,2011-03-25,162.64966456445,included_game_day
+2011,153,North Carolina Tar Heels,2011-03-27,156.53990777564775,included_game_day
+2012,153,North Carolina Tar Heels,2011-11-11,12.0,included_game_day
+2012,153,North Carolina Tar Heels,2011-11-13,29.2,included_game_day
+2012,153,North Carolina Tar Heels,2011-11-20,47.84,included_game_day
+2012,153,North Carolina Tar Heels,2011-11-22,70.982,included_game_day
+2012,153,North Carolina Tar Heels,2011-11-25,89.35,included_game_day
+2012,153,North Carolina Tar Heels,2011-11-26,77.52099899999999,included_game_day
+2012,153,North Carolina Tar Heels,2011-11-30,84.64134999999999,included_game_day
+2012,153,North Carolina Tar Heels,2011-12-03,91.64220775999999,included_game_day
+2012,153,North Carolina Tar Heels,2011-12-06,126.31299645779998,included_game_day
+2012,153,North Carolina Tar Heels,2011-12-10,119.12375933611999,included_game_day
+2012,153,North Carolina Tar Heels,2011-12-17,114.3303752870244,included_game_day
+2012,153,North Carolina Tar Heels,2011-12-19,138.8272372559684,included_game_day
+2012,153,North Carolina Tar Heels,2011-12-21,152.9759490444321,included_game_day
+2012,153,North Carolina Tar Heels,2011-12-29,169.4261136360767,included_game_day
+2012,153,North Carolina Tar Heels,2012-01-01,174.45250891843526,included_game_day
+2012,153,North Carolina Tar Heels,2012-01-07,171.73365652289488,included_game_day
+2012,153,North Carolina Tar Heels,2012-01-10,173.61460964471752,included_game_day
+2012,153,North Carolina Tar Heels,2012-01-14,132.78922669519366,included_game_day
+2012,153,North Carolina Tar Heels,2012-01-19,142.752004949906,included_game_day
+2012,153,North Carolina Tar Heels,2012-01-26,153.61222920318522,included_game_day
+2012,153,North Carolina Tar Heels,2012-01-29,145.51984130736565,included_game_day
+2012,153,North Carolina Tar Heels,2012-01-31,146.16076054838416,included_game_day
+2012,153,North Carolina Tar Heels,2012-02-04,144.99270310442446,included_game_day
+2012,153,North Carolina Tar Heels,2012-02-08,137.2388932359094,included_game_day
+2012,153,North Carolina Tar Heels,2012-02-11,149.55394034133673,included_game_day
+2012,153,North Carolina Tar Heels,2012-02-15,155.33079096494322,included_game_day
+2012,153,North Carolina Tar Heels,2012-02-18,165.1107509434966,included_game_day
+2012,153,North Carolina Tar Heels,2012-02-21,169.79560063813534,included_game_day
+2012,153,North Carolina Tar Heels,2012-02-25,168.78731569689913,included_game_day
+2012,153,North Carolina Tar Heels,2012-02-29,174.27869750689803,included_game_day
+2012,153,North Carolina Tar Heels,2012-03-03,190.54723957745995,included_game_day
+2012,153,North Carolina Tar Heels,2012-03-09,190.4547284122844,included_game_day
+2012,153,North Carolina Tar Heels,2012-03-10,181.9951996934273,included_game_day
+2012,153,North Carolina Tar Heels,2012-03-11,171.69988765616384,included_game_day
+2012,153,North Carolina Tar Heels,2012-03-16,180.26258550191184,included_game_day
+2012,153,North Carolina Tar Heels,2012-03-18,186.6641150675056,included_game_day
+2012,153,North Carolina Tar Heels,2012-03-23,185.1153212966312,included_game_day
+2012,153,North Carolina Tar Heels,2012-03-25,170.1123101318372,included_game_day
+2013,153,North Carolina Tar Heels,2012-11-09,14.0,included_game_day
+2013,153,North Carolina Tar Heels,2012-11-11,33.6,included_game_day
+2013,153,North Carolina Tar Heels,2012-11-16,46.85,included_game_day
+2013,153,North Carolina Tar Heels,2012-11-19,89.66900000000001,included_game_day
+2013,153,North Carolina Tar Heels,2012-11-20,70.2348,included_game_day
+2013,153,North Carolina Tar Heels,2012-11-27,56.18552400000001,included_game_day
+2013,153,North Carolina Tar Heels,2012-12-01,67.24434587,included_game_day
+2013,153,North Carolina Tar Heels,2012-12-08,75.45282291607,included_game_day
+2013,153,North Carolina Tar Heels,2012-12-15,71.628724183463,included_game_day
+2013,153,North Carolina Tar Heels,2012-12-19,52.290924694562705,included_game_day
+2013,153,North Carolina Tar Heels,2012-12-22,77.16221796994714,included_game_day
+2013,153,North Carolina Tar Heels,2012-12-29,81.3390683360748,included_game_day
+2013,153,North Carolina Tar Heels,2013-01-06,77.17524194181568,included_game_day
+2013,153,North Carolina Tar Heels,2013-01-10,67.66937198955833,included_game_day
+2013,153,North Carolina Tar Heels,2013-01-12,75.19539239202005,included_game_day
+2013,153,North Carolina Tar Heels,2013-01-19,84.2819633371135,included_game_day
+2013,153,North Carolina Tar Heels,2013-01-23,92.30054390892,included_game_day
+2013,153,North Carolina Tar Heels,2013-01-26,88.1476101617972,included_game_day
+2013,153,North Carolina Tar Heels,2013-01-29,97.2344733411513,included_game_day
+2013,153,North Carolina Tar Heels,2013-02-02,95.65600711587423,included_game_day
+2013,153,North Carolina Tar Heels,2013-02-05,107.6782417106481,included_game_day
+2013,153,North Carolina Tar Heels,2013-02-09,89.1972122920594,included_game_day
+2013,153,North Carolina Tar Heels,2013-02-13,92.840004641857,included_game_day
+2013,153,North Carolina Tar Heels,2013-02-16,106.15403706649353,included_game_day
+2013,153,North Carolina Tar Heels,2013-02-19,115.13507802732917,included_game_day
+2013,153,North Carolina Tar Heels,2013-02-23,120.9925062609316,included_game_day
+2013,153,North Carolina Tar Heels,2013-02-28,124.45438896198804,included_game_day
+2013,153,North Carolina Tar Heels,2013-03-03,131.12891684268942,included_game_day
+2013,153,North Carolina Tar Heels,2013-03-06,139.1407168275247,included_game_day
+2013,153,North Carolina Tar Heels,2013-03-09,122.72661427275969,included_game_day
+2013,153,North Carolina Tar Heels,2013-03-15,134.41362502411152,included_game_day
+2013,153,North Carolina Tar Heels,2013-03-16,133.61291520486805,included_game_day
+2013,153,North Carolina Tar Heels,2013-03-17,123.38411755324653,included_game_day
+2013,153,North Carolina Tar Heels,2013-03-22,127.79556379675736,included_game_day
+2013,153,North Carolina Tar Heels,2013-03-24,119.44183425232141,included_game_day
+2014,153,North Carolina Tar Heels,2013-11-08,20.0,included_game_day
+2014,153,North Carolina Tar Heels,2013-11-15,22.1,included_game_day
+2014,153,North Carolina Tar Heels,2013-11-17,13.858,included_game_day
+2014,153,North Carolina Tar Heels,2013-11-23,22.2609,included_game_day
+2014,153,North Carolina Tar Heels,2013-11-24,39.759834,included_game_day
+2014,153,North Carolina Tar Heels,2013-12-01,35.46102872,included_game_day
+2014,153,North Carolina Tar Heels,2013-12-04,58.479232118,included_game_day
+2014,153,North Carolina Tar Heels,2013-12-07,74.0490871864,included_game_day
+2014,153,North Carolina Tar Heels,2013-12-14,78.886812857287,included_game_day
+2014,153,North Carolina Tar Heels,2013-12-18,71.5279943498284,included_game_day
+2014,153,North Carolina Tar Heels,2013-12-21,67.7797343914257,included_game_day
+2014,153,North Carolina Tar Heels,2013-12-27,68.08537037207451,included_game_day
+2014,153,North Carolina Tar Heels,2013-12-31,85.65936981355291,included_game_day
+2014,153,North Carolina Tar Heels,2014-01-05,78.26003326769721,included_game_day
+2014,153,North Carolina Tar Heels,2014-01-08,66.55575880662012,included_game_day
+2014,153,North Carolina Tar Heels,2014-01-11,64.06006997556308,included_game_day
+2014,153,North Carolina Tar Heels,2014-01-18,63.63524316741529,included_game_day
+2014,153,North Carolina Tar Heels,2014-01-20,57.48014330559592,included_game_day
+2014,153,North Carolina Tar Heels,2014-01-26,74.04500386402044,included_game_day
+2014,153,North Carolina Tar Heels,2014-01-29,84.4500258087137,included_game_day
+2014,153,North Carolina Tar Heels,2014-02-01,89.20694941101846,included_game_day
+2014,153,North Carolina Tar Heels,2014-02-04,94.25426391845936,included_game_day
+2014,153,North Carolina Tar Heels,2014-02-08,103.14810203100727,included_game_day
+2014,153,North Carolina Tar Heels,2014-02-15,104.78541890509928,included_game_day
+2014,153,North Carolina Tar Heels,2014-02-17,109.34402847073932,included_game_day
+2014,153,North Carolina Tar Heels,2014-02-20,121.68479068524483,included_game_day
+2014,153,North Carolina Tar Heels,2014-02-22,139.82210636249064,included_game_day
+2014,153,North Carolina Tar Heels,2014-02-26,133.79901848211992,included_game_day
+2014,153,North Carolina Tar Heels,2014-03-01,125.48174266946071,included_game_day
+2014,153,North Carolina Tar Heels,2014-03-03,114.48684231266556,included_game_day
+2014,153,North Carolina Tar Heels,2014-03-08,107.88587927861678,included_game_day
+2014,153,North Carolina Tar Heels,2014-03-14,102.82973616858219,included_game_day
+2014,153,North Carolina Tar Heels,2014-03-21,103.9820092530845,included_game_day
+2014,153,North Carolina Tar Heels,2014-03-23,106.70039801955664,included_game_day
+2015,153,North Carolina Tar Heels,2014-11-14,13.0,included_game_day
+2015,153,North Carolina Tar Heels,2014-11-16,49.7,included_game_day
+2015,153,North Carolina Tar Heels,2014-11-22,65.93,included_game_day
+2015,153,North Carolina Tar Heels,2014-11-26,59.64320000000001,included_game_day
+2015,153,North Carolina Tar Heels,2014-11-27,81.1181,included_game_day
+2015,153,North Carolina Tar Heels,2014-11-28,86.250024,included_game_day
+2015,153,North Carolina Tar Heels,2014-12-03,77.1844188,included_game_day
+2015,153,North Carolina Tar Heels,2014-12-07,108.60023854800001,included_game_day
+2015,153,North Carolina Tar Heels,2014-12-13,104.61646865472001,included_game_day
+2015,153,North Carolina Tar Heels,2014-12-16,117.364348327848,included_game_day
+2015,153,North Carolina Tar Heels,2014-12-20,129.6985793116708,included_game_day
+2015,153,North Carolina Tar Heels,2014-12-27,140.56098821559692,included_game_day
+2015,153,North Carolina Tar Heels,2014-12-30,147.8763461353796,included_game_day
+2015,153,North Carolina Tar Heels,2015-01-03,161.18273683455516,included_game_day
+2015,153,North Carolina Tar Heels,2015-01-05,156.7438547177819,included_game_day
+2015,153,North Carolina Tar Heels,2015-01-10,151.31762067120468,included_game_day
+2015,153,North Carolina Tar Heels,2015-01-14,149.97650914143915,included_game_day
+2015,153,North Carolina Tar Heels,2015-01-18,146.9479960729239,included_game_day
+2015,153,North Carolina Tar Heels,2015-01-21,154.68293209202022,included_game_day
+2015,153,North Carolina Tar Heels,2015-01-24,142.26109976531092,included_game_day
+2015,153,North Carolina Tar Heels,2015-01-26,141.44070029242695,included_game_day
+2015,153,North Carolina Tar Heels,2015-01-31,132.45939603000937,included_game_day
+2015,153,North Carolina Tar Heels,2015-02-02,121.8343637199283,included_game_day
+2015,153,North Carolina Tar Heels,2015-02-07,125.65602402296737,included_game_day
+2015,153,North Carolina Tar Heels,2015-02-14,106.8643623037174,included_game_day
+2015,153,North Carolina Tar Heels,2015-02-18,113.68054649485988,included_game_day
+2015,153,North Carolina Tar Heels,2015-02-21,134.15798901264085,included_game_day
+2015,153,North Carolina Tar Heels,2015-02-24,114.82821289308247,included_game_day
+2015,153,North Carolina Tar Heels,2015-02-28,123.1137698724799,included_game_day
+2015,153,North Carolina Tar Heels,2015-03-03,149.5184292186592,included_game_day
+2015,153,North Carolina Tar Heels,2015-03-07,143.54276286033587,included_game_day
+2015,153,North Carolina Tar Heels,2015-03-11,151.00247415428254,included_game_day
+2015,153,North Carolina Tar Heels,2015-03-12,156.8762297706122,included_game_day
+2015,153,North Carolina Tar Heels,2015-03-13,162.15612689825133,included_game_day
+2015,153,North Carolina Tar Heels,2015-03-14,152.67004888091404,included_game_day
+2015,153,North Carolina Tar Heels,2015-03-19,144.33090857111372,included_game_day
+2015,153,North Carolina Tar Heels,2015-03-21,149.2548349594191,included_game_day
+2015,153,North Carolina Tar Heels,2015-03-26,147.26114371917836,included_game_day
+2016,153,North Carolina Tar Heels,2015-11-13,24.0,included_game_day
+2016,153,North Carolina Tar Heels,2015-11-15,44.3,included_game_day
+2016,153,North Carolina Tar Heels,2015-11-18,56.269999999999996,included_game_day
+2016,153,North Carolina Tar Heels,2015-11-21,49.142999999999994,included_game_day
+2016,153,North Carolina Tar Heels,2015-11-23,57.00569999999999,included_game_day
+2016,153,North Carolina Tar Heels,2015-11-24,66.35712999999998,included_game_day
+2016,153,North Carolina Tar Heels,2015-12-01,70.45117999999998,included_game_day
+2016,153,North Carolina Tar Heels,2015-12-06,97.22231838999998,included_game_day
+2016,153,North Carolina Tar Heels,2015-12-12,96.46280512988999,included_game_day
+2016,153,North Carolina Tar Heels,2015-12-16,108.5821265323112,included_game_day
+2016,153,North Carolina Tar Heels,2015-12-19,115.46833039668387,included_game_day
+2016,153,North Carolina Tar Heels,2015-12-21,119.58438120816658,included_game_day
+2016,153,North Carolina Tar Heels,2015-12-28,133.50267337387655,included_game_day
+2016,153,North Carolina Tar Heels,2015-12-30,131.4942607273787,included_game_day
+2016,153,North Carolina Tar Heels,2016-01-02,127.91340344968525,included_game_day
+2016,153,North Carolina Tar Heels,2016-01-04,141.10345093271513,included_game_day
+2016,153,North Carolina Tar Heels,2016-01-09,145.53927087839804,included_game_day
+2016,153,North Carolina Tar Heels,2016-01-16,143.79958154793056,included_game_day
+2016,153,North Carolina Tar Heels,2016-01-20,141.75862962451248,included_game_day
+2016,153,North Carolina Tar Heels,2016-01-24,140.9211492715192,included_game_day
+2016,153,North Carolina Tar Heels,2016-01-30,145.22017996439698,included_game_day
+2016,153,North Carolina Tar Heels,2016-02-01,141.87609263971848,included_game_day
+2016,153,North Carolina Tar Heels,2016-02-06,136.40486842743726,included_game_day
+2016,153,North Carolina Tar Heels,2016-02-09,122.58926199708026,included_game_day
+2016,153,North Carolina Tar Heels,2016-02-14,136.82381010470806,included_game_day
+2016,153,North Carolina Tar Heels,2016-02-17,132.9225127584958,included_game_day
+2016,153,North Carolina Tar Heels,2016-02-20,153.63676708420022,included_game_day
+2016,153,North Carolina Tar Heels,2016-02-24,159.64186152533614,included_game_day
+2016,153,North Carolina Tar Heels,2016-02-27,156.42404797918323,included_game_day
+2016,153,North Carolina Tar Heels,2016-02-29,151.23650768619848,included_game_day
+2016,153,North Carolina Tar Heels,2016-03-05,154.9038977755202,included_game_day
+2016,153,North Carolina Tar Heels,2016-03-10,165.47152242844913,included_game_day
+2016,153,North Carolina Tar Heels,2016-03-11,188.78581568974008,included_game_day
+2016,153,North Carolina Tar Heels,2016-03-12,191.91463626723365,included_game_day
+2016,153,North Carolina Tar Heels,2016-03-17,193.42819621251368,included_game_day
+2016,153,North Carolina Tar Heels,2016-03-19,201.63110955178638,included_game_day
+2016,153,North Carolina Tar Heels,2016-03-25,214.70422338599286,included_game_day
+2016,153,North Carolina Tar Heels,2016-03-27,216.74710953220415,included_game_day
+2016,153,North Carolina Tar Heels,2016-04-02,226.90368467310495,included_game_day
+2016,153,North Carolina Tar Heels,2016-04-04,226.34828638717394,included_game_day
+2017,153,North Carolina Tar Heels,2016-11-11,23.0,included_game_day
+2017,153,North Carolina Tar Heels,2016-11-13,59.3,included_game_day
+2017,153,North Carolina Tar Heels,2016-11-15,73.39999999999999,included_game_day
+2017,153,North Carolina Tar Heels,2016-11-19,83.72,included_game_day
+2017,153,North Carolina Tar Heels,2016-11-22,114.8023,included_game_day
+2017,153,North Carolina Tar Heels,2016-11-23,123.65712,included_game_day
+2017,153,North Carolina Tar Heels,2016-11-30,111.40399428,included_game_day
+2017,153,North Carolina Tar Heels,2016-12-04,138.511059252,included_game_day
+2017,153,North Carolina Tar Heels,2016-12-07,134.6724136268,included_game_day
+2017,153,North Carolina Tar Heels,2016-12-11,123.71550591191999,included_game_day
+2017,153,North Carolina Tar Heels,2016-12-17,124.694402391952,included_game_day
+2017,153,North Carolina Tar Heels,2016-12-21,152.2527318473793,included_game_day
+2017,153,North Carolina Tar Heels,2016-12-28,167.2840287075496,included_game_day
+2017,153,North Carolina Tar Heels,2016-12-31,140.76613333343084,included_game_day
+2017,153,North Carolina Tar Heels,2017-01-03,143.74399264941172,included_game_day
+2017,153,North Carolina Tar Heels,2017-01-08,187.73768246641782,included_game_day
+2017,153,North Carolina Tar Heels,2017-01-11,185.468705576196,included_game_day
+2017,153,North Carolina Tar Heels,2017-01-14,193.93690094459404,included_game_day
+2017,153,North Carolina Tar Heels,2017-01-16,196.57874044559168,included_game_day
+2017,153,North Carolina Tar Heels,2017-01-21,188.68005271804967,included_game_day
+2017,153,North Carolina Tar Heels,2017-01-26,193.98955056347452,included_game_day
+2017,153,North Carolina Tar Heels,2017-01-28,170.51982227907652,included_game_day
+2017,153,North Carolina Tar Heels,2017-01-31,151.17268082292608,included_game_day
+2017,153,North Carolina Tar Heels,2017-02-05,150.52920806762384,included_game_day
+2017,153,North Carolina Tar Heels,2017-02-09,144.18140499853783,included_game_day
+2017,153,North Carolina Tar Heels,2017-02-15,157.47589898802133,included_game_day
+2017,153,North Carolina Tar Heels,2017-02-18,178.84034915256336,included_game_day
+2017,153,North Carolina Tar Heels,2017-02-22,186.89789862439835,included_game_day
+2017,153,North Carolina Tar Heels,2017-02-25,195.53639275767944,included_game_day
+2017,153,North Carolina Tar Heels,2017-02-27,182.2394004720564,included_game_day
+2017,153,North Carolina Tar Heels,2017-03-04,181.924180078719,included_game_day
+2017,153,North Carolina Tar Heels,2017-03-09,200.15502102191806,included_game_day
+2017,153,North Carolina Tar Heels,2017-03-10,184.8132909589913,included_game_day
+2017,153,North Carolina Tar Heels,2017-03-17,204.68044801243826,included_game_day
+2017,153,North Carolina Tar Heels,2017-03-19,202.40572052595112,included_game_day
+2017,153,North Carolina Tar Heels,2017-03-24,206.52537177117554,included_game_day
+2017,153,North Carolina Tar Heels,2017-03-26,206.24545471946269,included_game_day
+2017,153,North Carolina Tar Heels,2017-04-01,205.97120611905345,included_game_day
+2017,153,North Carolina Tar Heels,2017-04-03,215.50948364304455,included_game_day
+2018,153,North Carolina Tar Heels,2017-11-10,14.0,included_game_day
+2018,153,North Carolina Tar Heels,2017-11-15,19.64,included_game_day
+2018,153,North Carolina Tar Heels,2017-11-20,46.4276,included_game_day
+2018,153,North Carolina Tar Heels,2017-11-23,64.98483999999999,included_game_day
+2018,153,North Carolina Tar Heels,2017-11-24,84.11955599999999,included_game_day
+2018,153,North Carolina Tar Heels,2017-11-26,65.17807989999999,included_game_day
+2018,153,North Carolina Tar Heels,2017-11-29,77.72121919999998,included_game_day
+2018,153,North Carolina Tar Heels,2017-12-01,87.55900618999998,included_game_day
+2018,153,North Carolina Tar Heels,2017-12-03,104.41301284099998,included_game_day
+2018,153,North Carolina Tar Heels,2017-12-06,126.79116410356998,included_game_day
+2018,153,North Carolina Tar Heels,2017-12-17,131.136645564733,included_game_day
+2018,153,North Carolina Tar Heels,2017-12-20,108.65996584699968,included_game_day
+2018,153,North Carolina Tar Heels,2017-12-23,121.03433792027406,included_game_day
+2018,153,North Carolina Tar Heels,2017-12-30,115.05134970311059,included_game_day
+2018,153,North Carolina Tar Heels,2018-01-03,120.20933315434148,included_game_day
+2018,153,North Carolina Tar Heels,2018-01-06,114.46388474332225,included_game_day
+2018,153,North Carolina Tar Heels,2018-01-09,136.60217354693862,included_game_day
+2018,153,North Carolina Tar Heels,2018-01-13,137.30925623277602,included_game_day
+2018,153,North Carolina Tar Heels,2018-01-16,141.3092691739979,included_game_day
+2018,153,North Carolina Tar Heels,2018-01-20,141.44298125674968,included_game_day
+2018,153,North Carolina Tar Heels,2018-01-22,126.85864768053877,included_game_day
+2018,153,North Carolina Tar Heels,2018-01-27,114.02156649907536,included_game_day
+2018,153,North Carolina Tar Heels,2018-01-30,112.2481398307542,included_game_day
+2018,153,North Carolina Tar Heels,2018-02-03,125.34407397808829,included_game_day
+2018,153,North Carolina Tar Heels,2018-02-08,131.5449946844351,included_game_day
+2018,153,North Carolina Tar Heels,2018-02-10,137.1858889091379,included_game_day
+2018,153,North Carolina Tar Heels,2018-02-12,145.98364285772263,included_game_day
+2018,153,North Carolina Tar Heels,2018-02-17,164.62939741354165,included_game_day
+2018,153,North Carolina Tar Heels,2018-02-21,163.94011375054276,included_game_day
+2018,153,North Carolina Tar Heels,2018-02-27,149.53765866635996,included_game_day
+2018,153,North Carolina Tar Heels,2018-03-03,147.323587894604,included_game_day
+2018,153,North Carolina Tar Heels,2018-03-07,159.5195198102276,included_game_day
+2018,153,North Carolina Tar Heels,2018-03-08,169.97447519026574,included_game_day
+2018,153,North Carolina Tar Heels,2018-03-09,178.63643716792518,included_game_day
+2018,153,North Carolina Tar Heels,2018-03-10,170.97119559188988,included_game_day
+2018,153,North Carolina Tar Heels,2018-03-16,173.671096725382,included_game_day
+2018,153,North Carolina Tar Heels,2018-03-18,143.62398915575318,included_game_day
+2019,153,North Carolina Tar Heels,2018-11-06,14.0,included_game_day
+2019,153,North Carolina Tar Heels,2018-11-09,65.5,included_game_day
+2019,153,North Carolina Tar Heels,2018-11-12,77.25,included_game_day
+2019,153,North Carolina Tar Heels,2018-11-16,112.334,included_game_day
+2019,153,North Carolina Tar Heels,2018-11-19,120.3566,included_game_day
+2019,153,North Carolina Tar Heels,2018-11-22,109.20704,included_game_day
+2019,153,North Carolina Tar Heels,2018-11-23,119.004389,included_game_day
+2019,153,North Carolina Tar Heels,2018-11-28,103.2610481,included_game_day
+2019,153,North Carolina Tar Heels,2018-12-05,116.96426322709999,included_game_day
+2019,153,North Carolina Tar Heels,2018-12-15,126.942350714606,included_game_day
+2019,153,North Carolina Tar Heels,2018-12-22,115.2164147420594,included_game_day
+2019,153,North Carolina Tar Heels,2018-12-29,126.42658162942026,included_game_day
+2019,153,North Carolina Tar Heels,2019-01-02,133.24814477761046,included_game_day
+2019,153,North Carolina Tar Heels,2019-01-05,158.06537308286283,included_game_day
+2019,153,North Carolina Tar Heels,2019-01-08,168.60907674128055,included_game_day
+2019,153,North Carolina Tar Heels,2019-01-12,136.1123860848499,included_game_day
+2019,153,North Carolina Tar Heels,2019-01-15,129.30197763538973,included_game_day
+2019,153,North Carolina Tar Heels,2019-01-19,132.97509096431875,included_game_day
+2019,153,North Carolina Tar Heels,2019-01-21,151.6416583008031,included_game_day
+2019,153,North Carolina Tar Heels,2019-01-29,167.54278494683888,included_game_day
+2019,153,North Carolina Tar Heels,2019-02-02,180.31302840976122,included_game_day
+2019,153,North Carolina Tar Heels,2019-02-05,186.06572418683314,included_game_day
+2019,153,North Carolina Tar Heels,2019-02-09,171.8606089741164,included_game_day
+2019,153,North Carolina Tar Heels,2019-02-11,163.0279040950372,included_game_day
+2019,153,North Carolina Tar Heels,2019-02-16,185.5327671026356,included_game_day
+2019,153,North Carolina Tar Heels,2019-02-20,209.20513284905297,included_game_day
+2019,153,North Carolina Tar Heels,2019-02-23,219.05012412104952,included_game_day
+2019,153,North Carolina Tar Heels,2019-02-26,212.1153722277166,included_game_day
+2019,153,North Carolina Tar Heels,2019-03-02,208.05887087146237,included_game_day
+2019,153,North Carolina Tar Heels,2019-03-05,207.71936976390708,included_game_day
+2019,153,North Carolina Tar Heels,2019-03-09,211.59321003796123,included_game_day
+2019,153,North Carolina Tar Heels,2019-03-14,216.99575975233242,included_game_day
+2019,153,North Carolina Tar Heels,2019-03-15,212.9439068273739,included_game_day
+2019,153,North Carolina Tar Heels,2019-03-22,209.57725900693384,included_game_day
+2019,153,North Carolina Tar Heels,2019-03-24,219.01023663936985,included_game_day
+2019,153,North Carolina Tar Heels,2019-03-29,196.80992088198468,included_game_day
+2020,153,North Carolina Tar Heels,2019-11-06,8.0,included_game_day
+2020,153,North Carolina Tar Heels,2019-11-08,26.2,included_game_day
+2020,153,North Carolina Tar Heels,2019-11-15,34.62,included_game_day
+2020,153,North Carolina Tar Heels,2019-11-20,38.831999999999994,included_game_day
+2020,153,North Carolina Tar Heels,2019-11-27,45.063739999999996,included_game_day
+2020,153,North Carolina Tar Heels,2019-11-28,38.339755999999994,included_game_day
+2020,153,North Carolina Tar Heels,2019-11-29,46.01115897999999,included_game_day
+2020,153,North Carolina Tar Heels,2019-12-04,25.61039450869999,included_game_day
+2020,153,North Carolina Tar Heels,2019-12-08,22.134309899829994,included_game_day
+2020,153,North Carolina Tar Heels,2019-12-15,13.972504364746994,included_game_day
+2020,153,North Carolina Tar Heels,2019-12-18,15.944491134084995,included_game_day
+2020,153,North Carolina Tar Heels,2019-12-21,26.129832625004,included_game_day
+2020,153,North Carolina Tar Heels,2019-12-30,31.246692247122276,included_game_day
+2020,153,North Carolina Tar Heels,2020-01-04,13.652064369413814,included_game_day
+2020,153,North Carolina Tar Heels,2020-01-08,5.161134936563954,included_game_day
+2020,153,North Carolina Tar Heels,2020-01-11,2.3365257304911027,included_game_day
+2020,153,North Carolina Tar Heels,2020-01-18,-5.212431936056918,included_game_day
+2020,153,North Carolina Tar Heels,2020-01-22,3.8333011948316695,included_game_day
+2020,153,North Carolina Tar Heels,2020-01-25,23.654223432878087,included_game_day
+2020,153,North Carolina Tar Heels,2020-01-27,41.5102010888057,included_game_day
+2020,153,North Carolina Tar Heels,2020-02-01,30.177737750135105,included_game_day
+2020,153,North Carolina Tar Heels,2020-02-03,34.66515782073577,included_game_day
+2020,153,North Carolina Tar Heels,2020-02-08,42.4426525083762,included_game_day
+2020,153,North Carolina Tar Heels,2020-02-11,28.171196062835136,included_game_day
+2020,153,North Carolina Tar Heels,2020-02-15,27.145579389508704,included_game_day
+2020,153,North Carolina Tar Heels,2020-02-17,32.44737785328673,included_game_day
+2020,153,North Carolina Tar Heels,2020-02-22,27.385817686185458,included_game_day
+2020,153,North Carolina Tar Heels,2020-02-25,35.17144678779,included_game_day
+2020,153,North Carolina Tar Heels,2020-02-29,55.40414561304027,included_game_day
+2020,153,North Carolina Tar Heels,2020-03-03,62.77062420072852,included_game_day
+2020,153,North Carolina Tar Heels,2020-03-07,59.96594815082976,included_game_day
+2020,153,North Carolina Tar Heels,2020-03-10,77.45848265498168,included_game_day
+2020,153,North Carolina Tar Heels,2020-03-11,47.73251412002669,included_game_day
+2021,153,North Carolina Tar Heels,2020-11-25,16.0,included_game_day
+2021,153,North Carolina Tar Heels,2020-11-30,39.8,included_game_day
+2021,153,North Carolina Tar Heels,2020-12-01,41.83,included_game_day
+2021,153,North Carolina Tar Heels,2020-12-02,41.245,included_game_day
+2021,153,North Carolina Tar Heels,2020-12-08,35.1802,included_game_day
+2021,153,North Carolina Tar Heels,2020-12-12,32.70518,included_game_day
+2021,153,North Carolina Tar Heels,2020-12-19,40.6005117,included_game_day
+2021,153,North Carolina Tar Heels,2020-12-22,44.916894228699995,included_game_day
+2021,153,North Carolina Tar Heels,2020-12-30,41.186552843216994,included_game_day
+2021,153,North Carolina Tar Heels,2021-01-02,33.73419166037135,included_game_day
+2021,153,North Carolina Tar Heels,2021-01-05,36.806618393911116,included_game_day
+2021,153,North Carolina Tar Heels,2021-01-12,42.27442049616123,included_game_day
+2021,153,North Carolina Tar Heels,2021-01-16,39.81407583799042,included_game_day
+2021,153,North Carolina Tar Heels,2021-01-20,41.08282680453418,included_game_day
+2021,153,North Carolina Tar Heels,2021-01-23,46.09669515103261,included_game_day
+2021,153,North Carolina Tar Heels,2021-01-26,60.6186461843713,included_game_day
+2021,153,North Carolina Tar Heels,2021-02-02,43.40094329321936,included_game_day
+2021,153,North Carolina Tar Heels,2021-02-06,50.429631649250155,included_game_day
+2021,153,North Carolina Tar Heels,2021-02-13,47.01263488027908,included_game_day
+2021,153,North Carolina Tar Heels,2021-02-17,59.010340015579885,included_game_day
+2021,153,North Carolina Tar Heels,2021-02-20,99.89664525513115,included_game_day
+2021,153,North Carolina Tar Heels,2021-02-24,75.12267374364049,included_game_day
+2021,153,North Carolina Tar Heels,2021-02-27,83.21952691619225,included_game_day
+2021,153,North Carolina Tar Heels,2021-03-01,80.01674516446478,included_game_day
+2021,153,North Carolina Tar Heels,2021-03-06,93.59020165702799,included_game_day
+2021,153,North Carolina Tar Heels,2021-03-10,128.71378529376733,included_game_day
+2021,153,North Carolina Tar Heels,2021-03-11,130.52942845225078,included_game_day
+2021,153,North Carolina Tar Heels,2021-03-12,123.99676938970431,included_game_day
+2021,153,North Carolina Tar Heels,2021-03-19,96.49417470386345,included_game_day
+2022,153,North Carolina Tar Heels,2021-11-09,13.0,included_game_day
+2022,153,North Carolina Tar Heels,2021-11-12,15.7,included_game_day
+2022,153,North Carolina Tar Heels,2021-11-16,31.328,included_game_day
+2022,153,North Carolina Tar Heels,2021-11-20,27.394199999999998,included_game_day
+2022,153,North Carolina Tar Heels,2021-11-21,10.940679999999997,included_game_day
+2022,153,North Carolina Tar Heels,2021-11-23,22.169011999999995,included_game_day
+2022,153,North Carolina Tar Heels,2021-12-01,41.1942792,included_game_day
+2022,153,North Carolina Tar Heels,2021-12-05,59.89394197199999,included_game_day
+2022,153,North Carolina Tar Heels,2021-12-11,60.61555337764,included_game_day
+2022,153,North Carolina Tar Heels,2021-12-14,65.9589521280554,included_game_day
+2022,153,North Carolina Tar Heels,2021-12-18,38.35960794641586,included_game_day
+2022,153,North Carolina Tar Heels,2021-12-21,50.018573216412975,included_game_day
+2022,153,North Carolina Tar Heels,2022-01-02,75.94545358135649,included_game_day
+2022,153,North Carolina Tar Heels,2022-01-05,69.64791870068906,included_game_day
+2022,153,North Carolina Tar Heels,2022-01-08,81.46037475118877,included_game_day
+2022,153,North Carolina Tar Heels,2022-01-15,94.21769153045325,included_game_day
+2022,153,North Carolina Tar Heels,2022-01-18,64.84589923506627,included_game_day
+2022,153,North Carolina Tar Heels,2022-01-22,48.521589244633425,included_game_day
+2022,153,North Carolina Tar Heels,2022-01-24,58.227828024428995,included_game_day
+2022,153,North Carolina Tar Heels,2022-01-26,58.90706255111746,included_game_day
+2022,153,North Carolina Tar Heels,2022-01-29,73.87943072052225,included_game_day
+2022,153,North Carolina Tar Heels,2022-02-01,76.22962561388472,included_game_day
+2022,153,North Carolina Tar Heels,2022-02-05,59.472270094636784,included_game_day
+2022,153,North Carolina Tar Heels,2022-02-08,63.708004408833744,included_game_day
+2022,153,North Carolina Tar Heels,2022-02-12,75.2857366343257,included_game_day
+2022,153,North Carolina Tar Heels,2022-02-16,53.872296372213285,included_game_day
+2022,153,North Carolina Tar Heels,2022-02-19,69.73720938268897,included_game_day
+2022,153,North Carolina Tar Heels,2022-02-21,66.40456628422098,included_game_day
+2022,153,North Carolina Tar Heels,2022-02-26,72.91923406083517,included_game_day
+2022,153,North Carolina Tar Heels,2022-02-28,76.09593337128744,included_game_day
+2022,153,North Carolina Tar Heels,2022-03-05,102.3902776275596,included_game_day
+2022,153,North Carolina Tar Heels,2022-03-10,117.97576147889376,included_game_day
+2022,153,North Carolina Tar Heels,2022-03-11,103.48907797200894,included_game_day
+2022,153,North Carolina Tar Heels,2022-03-17,131.8801020197746,included_game_day
+2022,153,North Carolina Tar Heels,2022-03-19,142.08993449531036,included_game_day
+2022,153,North Carolina Tar Heels,2022-03-25,150.3518698470581,included_game_day
+2022,153,North Carolina Tar Heels,2022-03-27,165.76524610345885,included_game_day
+2022,153,North Carolina Tar Heels,2022-04-02,169.104148891889,included_game_day
+2022,153,North Carolina Tar Heels,2022-04-04,169.67745534895278,included_game_day
+2023,153,North Carolina Tar Heels,2022-11-07,10.0,included_game_day
+2023,153,North Carolina Tar Heels,2022-11-11,22.4,included_game_day
+2023,153,North Carolina Tar Heels,2022-11-15,22.049999999999997,included_game_day
+2023,153,North Carolina Tar Heels,2022-11-20,42.461,included_game_day
+2023,153,North Carolina Tar Heels,2022-11-24,48.105378,included_game_day
+2023,153,North Carolina Tar Heels,2022-11-25,45.2752902,included_game_day
+2023,153,North Carolina Tar Heels,2022-11-27,46.9547348,included_game_day
+2023,153,North Carolina Tar Heels,2022-11-30,45.56085398,included_game_day
+2023,153,North Carolina Tar Heels,2022-12-04,41.245871902,included_game_day
+2023,153,North Carolina Tar Heels,2022-12-10,51.722814042959996,included_game_day
+2023,153,North Carolina Tar Heels,2022-12-13,73.848389391364,included_game_day
+2023,153,North Carolina Tar Heels,2022-12-17,80.6135619944576,included_game_day
+2023,153,North Carolina Tar Heels,2022-12-21,80.54525772846732,included_game_day
+2023,153,North Carolina Tar Heels,2022-12-30,82.01102021287727,included_game_day
+2023,153,North Carolina Tar Heels,2023-01-04,83.60706996779805,included_game_day
+2023,153,North Carolina Tar Heels,2023-01-07,88.61230732591174,included_game_day
+2023,153,North Carolina Tar Heels,2023-01-10,84.5242495333653,included_game_day
+2023,153,North Carolina Tar Heels,2023-01-14,92.89784786692113,included_game_day
+2023,153,North Carolina Tar Heels,2023-01-17,84.52608888433139,included_game_day
+2023,153,North Carolina Tar Heels,2023-01-21,93.5767224549173,included_game_day
+2023,153,North Carolina Tar Heels,2023-01-24,97.34267834383587,included_game_day
+2023,153,North Carolina Tar Heels,2023-02-01,90.60197517767848,included_game_day
+2023,153,North Carolina Tar Heels,2023-02-04,88.0195425139811,included_game_day
+2023,153,North Carolina Tar Heels,2023-02-07,82.78398806910835,included_game_day
+2023,153,North Carolina Tar Heels,2023-02-11,97.64978520411184,included_game_day
+2023,153,North Carolina Tar Heels,2023-02-13,86.92355329217843,included_game_day
+2023,153,North Carolina Tar Heels,2023-02-19,82.82103268233955,included_game_day
+2023,153,North Carolina Tar Heels,2023-02-22,80.28568022322939,included_game_day
+2023,153,North Carolina Tar Heels,2023-02-25,83.54432895176535,included_game_day
+2023,153,North Carolina Tar Heels,2023-02-27,85.35103300630905,included_game_day
+2023,153,North Carolina Tar Heels,2023-03-04,78.73636929111194,included_game_day
+2023,153,North Carolina Tar Heels,2023-03-08,96.15486937703923,included_game_day
+2023,153,North Carolina Tar Heels,2023-03-09,84.15029731545451,included_game_day
+2024,153,North Carolina Tar Heels,2023-11-06,13.0,included_game_day
+2024,153,North Carolina Tar Heels,2023-11-12,29.6,included_game_day
+2024,153,North Carolina Tar Heels,2023-11-17,45.808,included_game_day
+2024,153,North Carolina Tar Heels,2023-11-22,62.586529999999996,included_game_day
+2024,153,North Carolina Tar Heels,2023-11-23,60.526931,included_game_day
+2024,153,North Carolina Tar Heels,2023-11-24,72.44561569999999,included_game_day
+2024,153,North Carolina Tar Heels,2023-11-29,76.11198508999999,included_game_day
+2024,153,North Carolina Tar Heels,2023-12-02,76.46169062099999,included_game_day
+2024,153,North Carolina Tar Heels,2023-12-05,69.5081242635,included_game_day
+2024,153,North Carolina Tar Heels,2023-12-16,67.5326981169,included_game_day
+2024,153,North Carolina Tar Heels,2023-12-20,86.14142658019146,included_game_day
+2024,153,North Carolina Tar Heels,2023-12-29,112.42442066127578,included_game_day
+2024,153,North Carolina Tar Heels,2024-01-02,126.58893327760816,included_game_day
+2024,153,North Carolina Tar Heels,2024-01-06,137.50394293224116,included_game_day
+2024,153,North Carolina Tar Heels,2024-01-10,146.28422091359266,included_game_day
+2024,153,North Carolina Tar Heels,2024-01-13,170.03587529025617,included_game_day
+2024,153,North Carolina Tar Heels,2024-01-17,164.1944381826029,included_game_day
+2024,153,North Carolina Tar Heels,2024-01-20,165.26997640843274,included_game_day
+2024,153,North Carolina Tar Heels,2024-01-22,177.84865895744653,included_game_day
+2024,153,North Carolina Tar Heels,2024-01-27,176.49812158552453,included_game_day
+2024,153,North Carolina Tar Heels,2024-01-30,159.992263496037,included_game_day
+2024,153,North Carolina Tar Heels,2024-02-03,162.5758761923051,included_game_day
+2024,153,North Carolina Tar Heels,2024-02-06,146.70753336417795,included_game_day
+2024,153,North Carolina Tar Heels,2024-02-10,143.45048307092318,included_game_day
+2024,153,North Carolina Tar Heels,2024-02-13,126.13082940855335,included_game_day
+2024,153,North Carolina Tar Heels,2024-02-17,131.04488637412973,included_game_day
+2024,153,North Carolina Tar Heels,2024-02-24,135.66643735396693,included_game_day
+2024,153,North Carolina Tar Heels,2024-02-26,123.85680980979693,included_game_day
+2024,153,North Carolina Tar Heels,2024-03-02,122.68260001029597,included_game_day
+2024,153,North Carolina Tar Heels,2024-03-05,145.57218814173368,included_game_day
+2024,153,North Carolina Tar Heels,2024-03-09,156.68241747557457,included_game_day
+2024,153,North Carolina Tar Heels,2024-03-14,171.03848560538793,included_game_day
+2024,153,North Carolina Tar Heels,2024-03-15,173.44918159893365,included_game_day
+2024,153,North Carolina Tar Heels,2024-03-16,156.6422616636687,included_game_day
+2024,153,North Carolina Tar Heels,2024-03-21,166.726702883596,included_game_day
+2024,153,North Carolina Tar Heels,2024-03-23,178.4957583611604,included_game_day
+2024,153,North Carolina Tar Heels,2024-03-28,171.99796919371752,included_game_day
+2025,153,North Carolina Tar Heels,2024-11-04,11.0,included_game_day
+2025,153,North Carolina Tar Heels,2024-11-08,12.6,included_game_day
+2025,153,North Carolina Tar Heels,2024-11-15,59.931400000000004,included_game_day
+2025,153,North Carolina Tar Heels,2024-11-23,75.91263000000001,included_game_day
+2025,153,North Carolina Tar Heels,2024-11-25,75.08264700000001,included_game_day
+2025,153,North Carolina Tar Heels,2024-11-26,64.14151030000001,included_game_day
+2025,153,North Carolina Tar Heels,2024-11-27,60.272588090000006,included_game_day
+2025,153,North Carolina Tar Heels,2024-12-04,43.205168055200005,included_game_day
+2025,153,North Carolina Tar Heels,2024-12-07,39.852800374530005,included_game_day
+2025,153,North Carolina Tar Heels,2024-12-14,59.089833569577,included_game_day
+2025,153,North Carolina Tar Heels,2024-12-17,61.431514837109304,included_game_day
+2025,153,North Carolina Tar Heels,2024-12-21,71.09811806861802,included_game_day
+2025,153,North Carolina Tar Heels,2024-12-29,72.57278971215558,included_game_day
+2025,153,North Carolina Tar Heels,2025-01-01,60.77327622879081,included_game_day
+2025,153,North Carolina Tar Heels,2025-01-04,62.00427298983142,included_game_day
+2025,153,North Carolina Tar Heels,2025-01-07,77.4069216424934,included_game_day
+2025,153,North Carolina Tar Heels,2025-01-11,77.29675337821696,included_game_day
+2025,153,North Carolina Tar Heels,2025-01-15,93.85591280976654,included_game_day
+2025,153,North Carolina Tar Heels,2025-01-18,84.28553359654038,included_game_day
+2025,153,North Carolina Tar Heels,2025-01-21,85.23931900030372,included_game_day
+2025,153,North Carolina Tar Heels,2025-01-25,73.88071500005896,included_game_day
+2025,153,North Carolina Tar Heels,2025-01-28,69.37844529961866,included_game_day
+2025,153,North Carolina Tar Heels,2025-02-01,67.89803938046143,included_game_day
+2025,153,North Carolina Tar Heels,2025-02-08,64.58712933101135,included_game_day
+2025,153,North Carolina Tar Heels,2025-02-10,53.16160467364273,included_game_day
+2025,153,North Carolina Tar Heels,2025-02-15,56.20555922053858,included_game_day
+2025,153,North Carolina Tar Heels,2025-02-19,71.51248520333156,included_game_day
+2025,153,North Carolina Tar Heels,2025-02-22,79.53888614700469,included_game_day
+2025,153,North Carolina Tar Heels,2025-02-24,88.97441262488053,included_game_day
+2025,153,North Carolina Tar Heels,2025-03-01,89.93197071665865,included_game_day
+2025,153,North Carolina Tar Heels,2025-03-04,117.04627160483015,included_game_day
+2025,153,North Carolina Tar Heels,2025-03-08,116.95819315060706,included_game_day
+2025,153,North Carolina Tar Heels,2025-03-12,126.9867121422871,included_game_day
+2025,153,North Carolina Tar Heels,2025-03-13,130.14477053934547,included_game_day
+2025,153,North Carolina Tar Heels,2025-03-14,140.099301845527,included_game_day
+2025,153,North Carolina Tar Heels,2025-03-18,160.79490480714128,included_game_day
+2025,153,North Carolina Tar Heels,2025-03-21,148.23952915939807,included_game_day
+2026,153,North Carolina Tar Heels,2025-11-03,37.0,included_game_day
+2026,153,North Carolina Tar Heels,2025-11-07,47.3,included_game_day
+2026,153,North Carolina Tar Heels,2025-11-11,54.769999999999996,included_game_day
+2026,153,North Carolina Tar Heels,2025-11-14,83.457,included_game_day
+2026,153,North Carolina Tar Heels,2025-11-18,83.0504,included_game_day
+2026,153,North Carolina Tar Heels,2025-11-25,92.78056,included_game_day
+2026,153,North Carolina Tar Heels,2025-11-27,76.02379092,included_game_day
+2026,153,North Carolina Tar Heels,2025-12-02,88.351348072,included_game_day
+2026,153,North Carolina Tar Heels,2025-12-07,99.95977923369999,included_game_day
+2026,153,North Carolina Tar Heels,2025-12-13,103.68745103091399,included_game_day
+2026,153,North Carolina Tar Heels,2025-12-16,115.36459632368658,included_game_day
+2026,153,North Carolina Tar Heels,2025-12-20,114.33528261870592,included_game_day
+2026,153,North Carolina Tar Heels,2025-12-22,142.91657568048097,included_game_day
+2026,153,North Carolina Tar Heels,2025-12-30,141.48123799795178,included_game_day
+2026,153,North Carolina Tar Heels,2026-01-03,128.23941086451543,included_game_day
+2026,153,North Carolina Tar Heels,2026-01-10,120.78891718327634,included_game_day
+2026,153,North Carolina Tar Heels,2026-01-14,113.33780326881137,included_game_day
+2026,153,North Carolina Tar Heels,2026-01-17,104.85331395584302,included_game_day
+2026,153,North Carolina Tar Heels,2026-01-21,117.45781274494296,included_game_day
+2026,153,North Carolina Tar Heels,2026-01-24,131.19197129883878,included_game_day
+2026,153,North Carolina Tar Heels,2026-01-31,139.80920768401256,included_game_day
+2026,153,North Carolina Tar Heels,2026-02-02,138.2908194878784,included_game_day
+2026,153,North Carolina Tar Heels,2026-02-07,146.829392308157,included_game_day
+2026,153,North Carolina Tar Heels,2026-02-10,137.11846868196992,included_game_day
+2026,153,North Carolina Tar Heels,2026-02-14,136.11301338550325,included_game_day
+2026,153,North Carolina Tar Heels,2026-02-17,112.67368905357932,included_game_day
+2026,153,North Carolina Tar Heels,2026-02-21,121.95211364714747,included_game_day
+2026,153,North Carolina Tar Heels,2026-02-23,126.65437494163331,included_game_day
+2026,153,North Carolina Tar Heels,2026-02-28,127.25777228877341,included_game_day
+2026,153,North Carolina Tar Heels,2026-03-03,126.78933919632725,included_game_day
+2026,153,North Carolina Tar Heels,2026-03-07,131.75018432385875,included_game_day
+2026,153,North Carolina Tar Heels,2026-03-12,128.0581778074095,included_game_day
+2026,153,North Carolina Tar Heels,2026-03-19,123.17083353077254,included_game_day
+2027,153,North Carolina Tar Heels,2026-11-02,5.0,included_game_day
+2027,153,North Carolina Tar Heels,2026-11-06,37.7,included_game_day
+2027,153,North Carolina Tar Heels,2026-11-10,46.400000000000006,included_game_day
+2027,153,North Carolina Tar Heels,2026-11-13,33.215,included_game_day
+2027,153,North Carolina Tar Heels,2026-11-20,43.926618000000005,included_game_day
+2027,153,North Carolina Tar Heels,2026-11-23,74.5861448,included_game_day

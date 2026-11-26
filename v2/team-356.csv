@@ -1,0 +1,1292 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,356,Illinois,1987-11-27,23.0,included_game_day
+1988,356,Illinois,1987-11-28,20.4,included_game_day
+1988,356,Illinois,1987-11-29,22.49,included_game_day
+1988,356,Illinois,1987-12-02,45.241,included_game_day
+1988,356,Illinois,1987-12-05,75.7169,included_game_day
+1988,356,Illinois,1987-12-08,103.68521,included_game_day
+1988,356,Illinois,1987-12-11,144.423989,included_game_day
+1988,356,Illinois,1987-12-12,136.7104261,included_game_day
+1988,356,Illinois,1987-12-19,117.49916330500001,included_game_day
+1988,356,Illinois,1987-12-22,119.7466739948,included_game_day
+1988,356,Illinois,1987-12-30,119.612218063336,included_game_day
+1988,356,Illinois,1988-01-04,104.65079145425018,included_game_day
+1988,356,Illinois,1988-01-07,106.35260929342445,included_game_day
+1988,356,Illinois,1988-01-09,108.24229087960954,included_game_day
+1988,356,Illinois,1988-01-16,116.6296239790482,included_game_day
+1988,356,Illinois,1988-01-17,131.44411748409502,included_game_day
+1988,356,Illinois,1988-01-21,122.15523904885478,included_game_day
+1988,356,Illinois,1988-01-23,137.48207661365495,included_game_day
+1988,356,Illinois,1988-01-28,131.6635539794675,included_game_day
+1988,356,Illinois,1988-01-30,135.42889623264838,included_game_day
+1988,356,Illinois,1988-02-04,124.92984175256417,included_game_day
+1988,356,Illinois,1988-02-06,117.56393166040314,included_game_day
+1988,356,Illinois,1988-02-11,138.97369981055962,included_game_day
+1988,356,Illinois,1988-02-13,147.9213641174709,included_game_day
+1988,356,Illinois,1988-02-17,168.72648749473157,included_game_day
+1988,356,Illinois,1988-02-21,167.59449103050778,included_game_day
+1988,356,Illinois,1988-02-25,155.16662686760912,included_game_day
+1988,356,Illinois,1988-02-29,164.63826273183125,included_game_day
+1988,356,Illinois,1988-03-06,174.9046117834871,included_game_day
+1988,356,Illinois,1988-03-09,180.9798951873595,included_game_day
+1988,356,Illinois,1988-03-12,164.90460600221186,included_game_day
+1988,356,Illinois,1988-03-18,166.6148986645598,included_game_day
+1988,356,Illinois,1988-03-20,158.20865088510402,included_game_day
+1989,356,Illinois,1988-11-26,23.0,included_game_day
+1989,356,Illinois,1988-12-03,30.584,included_game_day
+1989,356,Illinois,1988-12-06,52.641735,included_game_day
+1989,356,Illinois,1988-12-09,77.5848215,included_game_day
+1989,356,Illinois,1988-12-10,93.736724455,included_game_day
+1989,356,Illinois,1988-12-17,99.59060723977001,included_game_day
+1989,356,Illinois,1988-12-19,99.3541956290375,included_game_day
+1989,356,Illinois,1988-12-22,122.10196014196876,included_game_day
+1989,356,Illinois,1988-12-27,136.97841688845688,included_game_day
+1989,356,Illinois,1988-12-28,138.45827235185433,included_game_day
+1989,356,Illinois,1988-12-29,141.70712424774698,included_game_day
+1989,356,Illinois,1989-01-07,147.2881252027676,included_game_day
+1989,356,Illinois,1989-01-12,160.11815481828089,included_game_day
+1989,356,Illinois,1989-01-14,173.54218481756965,included_game_day
+1989,356,Illinois,1989-01-19,164.56517379341463,included_game_day
+1989,356,Illinois,1989-01-22,167.99685432075194,included_game_day
+1989,356,Illinois,1989-01-26,154.75261468843976,included_game_day
+1989,356,Illinois,1989-01-28,159.98744118745208,included_game_day
+1989,356,Illinois,1989-02-02,148.92010945923565,included_game_day
+1989,356,Illinois,1989-02-05,144.77731058939958,included_game_day
+1989,356,Illinois,1989-02-09,144.17143437664038,included_game_day
+1989,356,Illinois,1989-02-11,143.6336120755409,included_game_day
+1989,356,Illinois,1989-02-16,159.2788017868318,included_game_day
+1989,356,Illinois,1989-02-18,135.29583905001635,included_game_day
+1989,356,Illinois,1989-02-20,155.33315636798378,included_game_day
+1989,356,Illinois,1989-02-26,176.73801760931744,included_game_day
+1989,356,Illinois,1989-03-02,166.1696160609971,included_game_day
+1989,356,Illinois,1989-03-05,170.9037288227476,included_game_day
+1989,356,Illinois,1989-03-08,187.34730251339388,included_game_day
+1989,356,Illinois,1989-03-11,209.02970026691725,included_game_day
+1989,356,Illinois,1989-03-16,194.50558667520806,included_game_day
+1989,356,Illinois,1989-03-18,196.3773045257056,included_game_day
+1989,356,Illinois,1989-03-24,204.0883184356021,included_game_day
+1989,356,Illinois,1989-03-26,204.6365273748479,included_game_day
+1989,356,Illinois,1989-04-01,205.01287967521634,included_game_day
+1990,356,Illinois,1989-11-28,12.9,included_game_day
+1990,356,Illinois,1989-12-02,25.18,included_game_day
+1990,356,Illinois,1989-12-05,41.8201,included_game_day
+1990,356,Illinois,1989-12-08,68.77525,included_game_day
+1990,356,Illinois,1989-12-16,80.2609930936,included_game_day
+1990,356,Illinois,1989-12-20,84.50732051330101,included_game_day
+1990,356,Illinois,1989-12-23,101.9445617699709,included_game_day
+1990,356,Illinois,1989-12-29,110.92646716420381,included_game_day
+1990,356,Illinois,1989-12-30,115.19923397699894,included_game_day
+1990,356,Illinois,1990-01-04,120.00670511221023,included_game_day
+1990,356,Illinois,1990-01-06,109.5885990277463,included_game_day
+1990,356,Illinois,1990-01-13,111.27800671491974,included_game_day
+1990,356,Illinois,1990-01-15,104.55848312680195,included_game_day
+1990,356,Illinois,1990-01-18,109.44389831103913,included_game_day
+1990,356,Illinois,1990-01-20,98.30479642189982,included_game_day
+1990,356,Illinois,1990-01-25,99.04641201571434,included_game_day
+1990,356,Illinois,1990-01-27,103.18653721673267,included_game_day
+1990,356,Illinois,1990-01-29,97.10394617969412,included_game_day
+1990,356,Illinois,1990-02-04,99.67141486086817,included_game_day
+1990,356,Illinois,1990-02-08,129.00431091182483,included_game_day
+1990,356,Illinois,1990-02-11,115.55311148479142,included_game_day
+1990,356,Illinois,1990-02-14,112.38239924063977,included_game_day
+1990,356,Illinois,1990-02-17,110.01544385375408,included_game_day
+1990,356,Illinois,1990-02-21,122.4940356934231,included_game_day
+1990,356,Illinois,1990-02-26,116.81949463997624,included_game_day
+1990,356,Illinois,1990-03-04,133.58157190625107,included_game_day
+1990,356,Illinois,1990-03-10,140.978271817235,included_game_day
+1990,356,Illinois,1990-03-15,133.0347456915394,included_game_day
+1991,356,Illinois,1990-11-24,-24.2,included_game_day
+1991,356,Illinois,1990-11-25,-4.969999999999999,included_game_day
+1991,356,Illinois,1990-11-29,-18.473,included_game_day
+1991,356,Illinois,1990-12-01,-0.6256999999999984,included_game_day
+1991,356,Illinois,1990-12-03,-0.06312999999999835,included_game_day
+1991,356,Illinois,1990-12-05,-3.606806999999998,included_game_day
+1991,356,Illinois,1990-12-07,28.755873700000002,included_game_day
+1991,356,Illinois,1990-12-08,43.050164030000005,included_game_day
+1991,356,Illinois,1990-12-15,43.202698340000005,included_game_day
+1991,356,Illinois,1990-12-19,44.49729629390001,included_game_day
+1991,356,Illinois,1990-12-22,49.92324540607701,included_game_day
+1991,356,Illinois,1990-12-28,60.57980916219971,included_game_day
+1991,356,Illinois,1991-01-02,37.39276296845138,included_game_day
+1991,356,Illinois,1991-01-05,39.032614248280154,included_game_day
+1991,356,Illinois,1991-01-10,36.993882793099836,included_game_day
+1991,356,Illinois,1991-01-17,32.940071215521144,included_game_day
+1991,356,Illinois,1991-01-19,18.892446039508577,included_game_day
+1991,356,Illinois,1991-01-26,28.29334908766794,included_game_day
+1991,356,Illinois,1991-01-28,29.401501113833984,included_game_day
+1991,356,Illinois,1991-02-02,37.88640516005367,included_game_day
+1991,356,Illinois,1991-02-04,37.56888329834969,included_game_day
+1991,356,Illinois,1991-02-06,45.38760101201267,included_game_day
+1991,356,Illinois,1991-02-10,68.50953912341814,included_game_day
+1991,356,Illinois,1991-02-16,65.40155575039273,included_game_day
+1991,356,Illinois,1991-02-20,64.56947239113433,included_game_day
+1991,356,Illinois,1991-02-23,73.23766319929427,included_game_day
+1991,356,Illinois,1991-02-28,68.30059936639246,included_game_day
+1991,356,Illinois,1991-03-02,68.0490920543071,included_game_day
+1991,356,Illinois,1991-03-06,60.85366919251365,included_game_day
+1991,356,Illinois,1991-03-10,59.042371586160414,included_game_day
+1992,356,Illinois,1991-11-25,-8.0,included_game_day
+1992,356,Illinois,1991-11-30,15.0,included_game_day
+1992,356,Illinois,1991-12-03,30.189,included_game_day
+1992,356,Illinois,1991-12-06,28.80365,included_game_day
+1992,356,Illinois,1991-12-07,43.863285000000005,included_game_day
+1992,356,Illinois,1991-12-10,8.325656500000001,included_game_day
+1992,356,Illinois,1991-12-21,10.5009724877,included_game_day
+1992,356,Illinois,1991-12-23,2.2879307396220003,included_game_day
+1992,356,Illinois,1991-12-30,9.2631258288338,included_game_day
+1992,356,Illinois,1992-01-04,15.297176761700028,included_game_day
+1992,356,Illinois,1992-01-08,16.20740443377274,included_game_day
+1992,356,Illinois,1992-01-11,23.344265848576413,included_game_day
+1992,356,Illinois,1992-01-15,30.85471233829805,included_game_day
+1992,356,Illinois,1992-01-18,26.80653399815509,included_game_day
+1992,356,Illinois,1992-01-22,34.29514971200391,included_game_day
+1992,356,Illinois,1992-01-25,41.38373640160883,included_game_day
+1992,356,Illinois,1992-01-30,45.73844496438342,included_game_day
+1992,356,Illinois,1992-02-01,37.75621171186266,included_game_day
+1992,356,Illinois,1992-02-04,42.86966513383809,included_game_day
+1992,356,Illinois,1992-02-11,51.63848370209004,included_game_day
+1992,356,Illinois,1992-02-15,68.84657670896183,included_game_day
+1992,356,Illinois,1992-02-20,54.84927835182323,included_game_day
+1992,356,Illinois,1992-02-23,65.2654310574742,included_game_day
+1992,356,Illinois,1992-02-26,78.47935404318154,included_game_day
+1992,356,Illinois,1992-03-01,90.92489781894356,included_game_day
+1992,356,Illinois,1992-03-07,97.49247363639162,included_game_day
+1992,356,Illinois,1992-03-11,93.22284937549986,included_game_day
+1992,356,Illinois,1992-03-14,90.14880471504051,included_game_day
+1993,356,Illinois,1992-11-25,8.0,included_game_day
+1993,356,Illinois,1992-11-27,25.0,included_game_day
+1993,356,Illinois,1992-11-28,23.5,included_game_day
+1993,356,Illinois,1992-12-03,20.15,included_game_day
+1993,356,Illinois,1992-12-05,37.055,included_game_day
+1993,356,Illinois,1992-12-11,32.3895,included_game_day
+1993,356,Illinois,1992-12-12,37.293459999999996,included_game_day
+1993,356,Illinois,1992-12-20,44.5379906,included_game_day
+1993,356,Illinois,1992-12-23,41.38867691,included_game_day
+1993,356,Illinois,1992-12-26,21.760197919,included_game_day
+1993,356,Illinois,1992-12-29,23.79803261262,included_game_day
+1993,356,Illinois,1993-01-07,35.3155201083098,included_game_day
+1993,356,Illinois,1993-01-09,55.779311260422446,included_game_day
+1993,356,Illinois,1993-01-16,62.15607576555727,included_game_day
+1993,356,Illinois,1993-01-21,65.74388311242438,included_game_day
+1993,356,Illinois,1993-01-23,70.26317426623554,included_game_day
+1993,356,Illinois,1993-01-27,75.99331934220734,included_game_day
+1993,356,Illinois,1993-01-30,86.12362533038976,included_game_day
+1993,356,Illinois,1993-02-04,91.21047219773317,included_game_day
+1993,356,Illinois,1993-02-06,92.12270957745706,included_game_day
+1993,356,Illinois,1993-02-10,92.58594985295446,included_game_day
+1993,356,Illinois,1993-02-13,67.91604123598295,included_game_day
+1993,356,Illinois,1993-02-17,60.36538878623411,included_game_day
+1993,356,Illinois,1993-02-20,63.569147635720334,included_game_day
+1993,356,Illinois,1993-02-25,70.44534538661497,included_game_day
+1993,356,Illinois,1993-02-28,63.462458663589445,included_game_day
+1993,356,Illinois,1993-03-03,68.2650297369906,included_game_day
+1993,356,Illinois,1993-03-06,76.2578079387529,included_game_day
+1993,356,Illinois,1993-03-10,79.77733912628051,included_game_day
+1993,356,Illinois,1993-03-13,76.77939349626574,included_game_day
+1993,356,Illinois,1993-03-18,78.2977816084069,included_game_day
+1993,356,Illinois,1993-03-20,69.37703962258495,included_game_day
+1994,356,Illinois,1993-12-01,23.3,included_game_day
+1994,356,Illinois,1993-12-04,39.25,included_game_day
+1994,356,Illinois,1993-12-07,30.86931,included_game_day
+1994,356,Illinois,1993-12-10,57.701938999999996,included_game_day
+1994,356,Illinois,1993-12-11,69.93273280999999,included_game_day
+1994,356,Illinois,1993-12-18,118.81035172899999,included_game_day
+1994,356,Illinois,1993-12-20,119.53102150339998,included_game_day
+1994,356,Illinois,1993-12-22,104.91995945405999,included_game_day
+1994,356,Illinois,1994-01-02,98.4563119230616,included_game_day
+1994,356,Illinois,1994-01-08,91.73759545027467,included_game_day
+1994,356,Illinois,1994-01-12,116.34654847416829,included_game_day
+1994,356,Illinois,1994-01-15,121.655108856355,included_game_day
+1994,356,Illinois,1994-01-19,127.03588165773466,included_game_day
+1994,356,Illinois,1994-01-23,115.28934670233052,included_game_day
+1994,356,Illinois,1994-01-25,105.73473285732751,included_game_day
+1994,356,Illinois,1994-01-30,110.65094147640062,included_game_day
+1994,356,Illinois,1994-02-02,125.89414927104256,included_game_day
+1994,356,Illinois,1994-02-09,124.60604028390398,included_game_day
+1994,356,Illinois,1994-02-12,106.80314458210695,included_game_day
+1994,356,Illinois,1994-02-15,112.22824203149551,included_game_day
+1994,356,Illinois,1994-02-19,97.16413299520653,included_game_day
+1994,356,Illinois,1994-02-22,95.70956966580731,included_game_day
+1994,356,Illinois,1994-02-26,100.86564912731438,included_game_day
+1994,356,Illinois,1994-03-01,94.21018503807879,included_game_day
+1994,356,Illinois,1994-03-05,110.63642360429158,included_game_day
+1994,356,Illinois,1994-03-09,127.67351745308014,included_game_day
+1994,356,Illinois,1994-03-12,123.1751754303423,included_game_day
+1994,356,Illinois,1994-03-18,117.01187058299067,included_game_day
+1995,356,Illinois,1994-11-26,9.1,included_game_day
+1995,356,Illinois,1994-11-27,19.64,included_game_day
+1995,356,Illinois,1994-12-03,17.825,included_game_day
+1995,356,Illinois,1994-12-05,26.2445,included_game_day
+1995,356,Illinois,1994-12-09,37.361646,included_game_day
+1995,356,Illinois,1994-12-10,56.1990414,included_game_day
+1995,356,Illinois,1994-12-18,62.639716686,included_game_day
+1995,356,Illinois,1994-12-19,78.9006636293,included_game_day
+1995,356,Illinois,1994-12-22,56.24048812756,included_game_day
+1995,356,Illinois,1994-12-27,49.643842792103996,included_game_day
+1995,356,Illinois,1994-12-29,64.6063242343256,included_game_day
+1995,356,Illinois,1995-01-04,60.22170040087734,included_game_day
+1995,356,Illinois,1995-01-07,77.54030193331336,included_game_day
+1995,356,Illinois,1995-01-10,81.39628795291192,included_game_day
+1995,356,Illinois,1995-01-14,90.75318182751991,included_game_day
+1995,356,Illinois,1995-01-17,72.38407165819935,included_game_day
+1995,356,Illinois,1995-01-21,63.45365821515013,included_game_day
+1995,356,Illinois,1995-01-28,56.58468949653401,included_game_day
+1995,356,Illinois,1995-02-01,69.45766407369868,included_game_day
+1995,356,Illinois,1995-02-04,56.93474901351199,included_game_day
+1995,356,Illinois,1995-02-08,65.93763646324082,included_game_day
+1995,356,Illinois,1995-02-11,73.25429608766021,included_game_day
+1995,356,Illinois,1995-02-15,70.19632452678545,included_game_day
+1995,356,Illinois,1995-02-22,79.86107136076338,included_game_day
+1995,356,Illinois,1995-02-26,69.30019486385727,included_game_day
+1995,356,Illinois,1995-03-02,69.14438584092755,included_game_day
+1995,356,Illinois,1995-03-04,57.29355148349414,included_game_day
+1995,356,Illinois,1995-03-08,76.53118431938428,included_game_day
+1995,356,Illinois,1995-03-11,87.33206222327675,included_game_day
+1995,356,Illinois,1995-03-17,82.39940306213079,included_game_day
+1996,356,Illinois,1995-11-25,0.0,included_game_day
+1996,356,Illinois,1995-11-28,30.4,included_game_day
+1996,356,Illinois,1995-12-02,44.180099999999996,included_game_day
+1996,356,Illinois,1995-12-04,64.38209,included_game_day
+1996,356,Illinois,1995-12-08,74.07875,included_game_day
+1996,356,Illinois,1995-12-09,109.187939133,included_game_day
+1996,356,Illinois,1995-12-16,104.0398839297,included_game_day
+1996,356,Illinois,1995-12-20,114.96555275163,included_game_day
+1996,356,Illinois,1995-12-23,124.864437696807,included_game_day
+1996,356,Illinois,1995-12-27,110.3564996694753,included_game_day
+1996,356,Illinois,1995-12-28,103.79152247763797,included_game_day
+1996,356,Illinois,1995-12-29,115.09206475890001,included_game_day
+1996,356,Illinois,1996-01-03,110.22943730241083,included_game_day
+1996,356,Illinois,1996-01-06,85.59351348370893,included_game_day
+1996,356,Illinois,1996-01-09,74.58239280578724,included_game_day
+1996,356,Illinois,1996-01-13,60.975614714063894,included_game_day
+1996,356,Illinois,1996-01-18,69.0739589491301,included_game_day
+1996,356,Illinois,1996-01-20,81.75914252746685,included_game_day
+1996,356,Illinois,1996-01-24,101.63593450926285,included_game_day
+1996,356,Illinois,1996-01-27,104.91065945441441,included_game_day
+1996,356,Illinois,1996-02-03,94.22191838754591,included_game_day
+1996,356,Illinois,1996-02-08,100.72794535304726,included_game_day
+1996,356,Illinois,1996-02-14,113.54725052949966,included_game_day
+1996,356,Illinois,1996-02-17,112.55535143762731,included_game_day
+1996,356,Illinois,1996-02-20,111.08248036418986,included_game_day
+1996,356,Illinois,1996-02-24,119.30136996317367,included_game_day
+1996,356,Illinois,1996-02-28,111.41763268918606,included_game_day
+1996,356,Illinois,1996-03-03,119.05583652809185,included_game_day
+1996,356,Illinois,1996-03-06,99.9539087331108,included_game_day
+1996,356,Illinois,1996-03-09,93.62741321480023,included_game_day
+1996,356,Illinois,1996-03-13,81.9147859675585,included_game_day
+1997,356,Illinois,1996-11-22,8.0,included_game_day
+1997,356,Illinois,1996-11-25,42.7,included_game_day
+1997,356,Illinois,1996-11-29,48.540000000000006,included_game_day
+1997,356,Illinois,1996-11-30,35.086000000000006,included_game_day
+1997,356,Illinois,1996-12-01,54.924400000000006,included_game_day
+1997,356,Illinois,1996-12-03,55.31434,included_game_day
+1997,356,Illinois,1996-12-06,69.129576,included_game_day
+1997,356,Illinois,1996-12-07,71.6305684,included_game_day
+1997,356,Illinois,1996-12-11,88.51130806,included_game_day
+1997,356,Illinois,1996-12-14,114.4657840766,included_game_day
+1997,356,Illinois,1996-12-21,121.91527242414,included_game_day
+1997,356,Illinois,1996-12-28,131.0065485137942,included_game_day
+1997,356,Illinois,1997-01-02,109.56221507227549,included_game_day
+1997,356,Illinois,1997-01-04,115.90905898714989,included_game_day
+1997,356,Illinois,1997-01-09,100.01523783447318,included_game_day
+1997,356,Illinois,1997-01-11,104.54835032829908,included_game_day
+1997,356,Illinois,1997-01-14,115.96757902629768,included_game_day
+1997,356,Illinois,1997-01-22,118.99675628371125,included_game_day
+1997,356,Illinois,1997-01-25,92.40841843279455,included_game_day
+1997,356,Illinois,1997-01-29,79.40720764866076,included_game_day
+1997,356,Illinois,1997-02-02,85.21404201147122,included_game_day
+1997,356,Illinois,1997-02-05,84.33187021161979,included_game_day
+1997,356,Illinois,1997-02-09,99.40114728340049,included_game_day
+1997,356,Illinois,1997-02-12,83.00492458447928,included_game_day
+1997,356,Illinois,1997-02-15,86.5912217927876,included_game_day
+1997,356,Illinois,1997-02-22,96.80863429176472,included_game_day
+1997,356,Illinois,1997-02-25,110.29470991701967,included_game_day
+1997,356,Illinois,1997-03-02,125.56006028668831,included_game_day
+1997,356,Illinois,1997-03-05,118.87871348748465,included_game_day
+1997,356,Illinois,1997-03-08,109.68841566516659,included_game_day
+1997,356,Illinois,1997-03-14,118.13902747217388,included_game_day
+1997,356,Illinois,1997-03-16,99.52776545239146,included_game_day
+1998,356,Illinois,1997-11-17,9.4,included_game_day
+1998,356,Illinois,1997-11-21,35.16,included_game_day
+1998,356,Illinois,1997-11-24,32.977999999999994,included_game_day
+1998,356,Illinois,1997-11-27,45.572199999999995,included_game_day
+1998,356,Illinois,1997-11-28,40.968109999999996,included_game_day
+1998,356,Illinois,1997-11-29,21.224698199999995,included_game_day
+1998,356,Illinois,1997-12-02,33.41682838,included_game_day
+1998,356,Illinois,1997-12-06,32.499721042,included_game_day
+1998,356,Illinois,1997-12-08,40.1022551078,included_game_day
+1998,356,Illinois,1997-12-13,49.20895172202,included_game_day
+1998,356,Illinois,1997-12-20,69.095282351868,included_game_day
+1998,356,Illinois,1997-12-23,55.737661465012195,included_game_day
+1998,356,Illinois,1997-12-30,54.010464400163336,included_game_day
+1998,356,Illinois,1998-01-03,55.23222213505108,included_game_day
+1998,356,Illinois,1998-01-08,82.96206091093508,included_game_day
+1998,356,Illinois,1998-01-10,95.81966419656388,included_game_day
+1998,356,Illinois,1998-01-13,87.60844886292544,included_game_day
+1998,356,Illinois,1998-01-17,90.74308337213226,included_game_day
+1998,356,Illinois,1998-01-21,97.52840348115485,included_game_day
+1998,356,Illinois,1998-01-25,108.49299834365249,included_game_day
+1998,356,Illinois,1998-01-28,100.67946792376175,included_game_day
+1998,356,Illinois,1998-01-31,106.6296730976891,included_game_day
+1998,356,Illinois,1998-02-04,111.09401391442984,included_game_day
+1998,356,Illinois,1998-02-07,111.57963574849384,included_game_day
+1998,356,Illinois,1998-02-12,134.9818136611604,included_game_day
+1998,356,Illinois,1998-02-14,138.9519647039455,included_game_day
+1998,356,Illinois,1998-02-18,133.31040300357986,included_game_day
+1998,356,Illinois,1998-02-22,134.9249719855917,included_game_day
+1998,356,Illinois,1998-02-24,141.67190462685429,included_game_day
+1998,356,Illinois,1998-03-06,134.2377699274133,included_game_day
+1998,356,Illinois,1998-03-07,112.7439996271705,included_game_day
+1998,356,Illinois,1998-03-12,125.13780300634585,included_game_day
+1998,356,Illinois,1998-03-14,121.21261926853379,included_game_day
+1999,356,Illinois,1998-11-10,-2.0,included_game_day
+1999,356,Illinois,1998-11-11,11.6,included_game_day
+1999,356,Illinois,1998-11-17,2.34,included_game_day
+1999,356,Illinois,1998-11-20,4.106,included_game_day
+1999,356,Illinois,1998-11-23,33.4634,included_game_day
+1999,356,Illinois,1998-11-28,42.75089,included_game_day
+1999,356,Illinois,1998-11-30,43.187236999999996,included_game_day
+1999,356,Illinois,1998-12-05,43.408873189999994,included_game_day
+1999,356,Illinois,1998-12-07,24.285278458199993,included_game_day
+1999,356,Illinois,1998-12-11,18.884089740765994,included_game_day
+1999,356,Illinois,1998-12-19,13.783188304399175,included_game_day
+1999,356,Illinois,1998-12-22,15.228690611192638,included_game_day
+1999,356,Illinois,1998-12-29,42.33517650051283,included_game_day
+1999,356,Illinois,1999-01-03,46.307226822123816,included_game_day
+1999,356,Illinois,1999-01-09,30.12197995981826,included_game_day
+1999,356,Illinois,1999-01-13,30.380435085092746,included_game_day
+1999,356,Illinois,1999-01-16,36.269273670794284,included_game_day
+1999,356,Illinois,1999-01-20,25.294746315231293,included_game_day
+1999,356,Illinois,1999-01-23,19.652107304429336,included_game_day
+1999,356,Illinois,1999-01-28,26.368204090313146,included_game_day
+1999,356,Illinois,1999-01-30,32.82783160718887,included_game_day
+1999,356,Illinois,1999-02-03,26.944459395421347,included_game_day
+1999,356,Illinois,1999-02-06,36.568363820842706,included_game_day
+1999,356,Illinois,1999-02-11,35.38586618219438,included_game_day
+1999,356,Illinois,1999-02-13,29.911306162377212,included_game_day
+1999,356,Illinois,1999-02-17,43.05058819353086,included_game_day
+1999,356,Illinois,1999-02-21,36.922527497944934,included_game_day
+1999,356,Illinois,1999-02-24,33.30184727302997,included_game_day
+1999,356,Illinois,1999-03-04,41.06413837635904,included_game_day
+1999,356,Illinois,1999-03-05,62.747972574239014,included_game_day
+1999,356,Illinois,1999-03-06,71.83204039429461,included_game_day
+1999,356,Illinois,1999-03-07,65.10943833627896,included_game_day
+2000,356,Illinois,1999-11-19,20.0,included_game_day
+2000,356,Illinois,1999-11-22,31.6,included_game_day
+2000,356,Illinois,1999-11-30,34.7735,included_game_day
+2000,356,Illinois,1999-12-04,39.087019,included_game_day
+2000,356,Illinois,1999-12-05,48.5532831,included_game_day
+2000,356,Illinois,1999-12-08,72.05596737,included_game_day
+2000,356,Illinois,1999-12-11,95.3083003291,included_game_day
+2000,356,Illinois,1999-12-18,108.937152345871,included_game_day
+2000,356,Illinois,1999-12-21,96.0591247970839,included_game_day
+2000,356,Illinois,1999-12-28,132.2480635144533,included_game_day
+2000,356,Illinois,1999-12-30,154.45864014460227,included_game_day
+2000,356,Illinois,2000-01-06,150.0759550040309,included_game_day
+2000,356,Illinois,2000-01-08,142.0812939193937,included_game_day
+2000,356,Illinois,2000-01-12,129.44969476433505,included_game_day
+2000,356,Illinois,2000-01-16,119.17362530670756,included_game_day
+2000,356,Illinois,2000-01-22,122.53159567858157,included_game_day
+2000,356,Illinois,2000-01-26,126.62863081369863,included_game_day
+2000,356,Illinois,2000-01-30,104.69868066540089,included_game_day
+2000,356,Illinois,2000-02-02,106.12530490892614,included_game_day
+2000,356,Illinois,2000-02-06,106.50405022370448,included_game_day
+2000,356,Illinois,2000-02-09,108.95021866579756,included_game_day
+2000,356,Illinois,2000-02-12,127.22321133329821,included_game_day
+2000,356,Illinois,2000-02-17,128.8386633796789,included_game_day
+2000,356,Illinois,2000-02-19,144.55622336503998,included_game_day
+2000,356,Illinois,2000-02-22,164.13476570182186,included_game_day
+2000,356,Illinois,2000-02-27,151.04178531379205,included_game_day
+2000,356,Illinois,2000-03-04,153.34654984342725,included_game_day
+2000,356,Illinois,2000-03-10,153.61846795424867,included_game_day
+2000,356,Illinois,2000-03-11,153.9470197181442,included_game_day
+2000,356,Illinois,2000-03-12,144.37912238724851,included_game_day
+2000,356,Illinois,2000-03-17,148.81133798626655,included_game_day
+2000,356,Illinois,2000-03-19,135.29646529882334,included_game_day
+2001,356,Illinois,2000-11-17,26.0,included_game_day
+2001,356,Illinois,2000-11-20,30.2,included_game_day
+2001,356,Illinois,2000-11-21,39.56,included_game_day
+2001,356,Illinois,2000-11-22,34.455,included_game_day
+2001,356,Illinois,2000-11-26,42.329499999999996,included_game_day
+2001,356,Illinois,2000-11-28,46.758205999999994,included_game_day
+2001,356,Illinois,2000-12-02,65.00850539999999,included_game_day
+2001,356,Illinois,2000-12-06,99.56206352999999,included_game_day
+2001,356,Illinois,2000-12-09,98.55152187699998,included_game_day
+2001,356,Illinois,2000-12-16,101.76133757929999,included_game_day
+2001,356,Illinois,2000-12-21,101.53190447752038,included_game_day
+2001,356,Illinois,2000-12-23,89.56911986627844,included_game_day
+2001,356,Illinois,2000-12-29,95.12001139885767,included_game_day
+2001,356,Illinois,2001-01-03,106.26005357546252,included_game_day
+2001,356,Illinois,2001-01-06,121.10445609896769,included_game_day
+2001,356,Illinois,2001-01-11,102.54357435215857,included_game_day
+2001,356,Illinois,2001-01-13,117.81426245470688,included_game_day
+2001,356,Illinois,2001-01-17,124.66868066631176,included_game_day
+2001,356,Illinois,2001-01-20,146.24341479082696,included_game_day
+2001,356,Illinois,2001-01-25,137.9184578334088,included_game_day
+2001,356,Illinois,2001-01-31,128.56010724902347,included_game_day
+2001,356,Illinois,2001-02-03,137.12327485214166,included_game_day
+2001,356,Illinois,2001-02-06,149.46071788414827,included_game_day
+2001,356,Illinois,2001-02-10,166.33903287720005,included_game_day
+2001,356,Illinois,2001-02-13,157.33656458040932,included_game_day
+2001,356,Illinois,2001-02-17,160.76517343081935,included_game_day
+2001,356,Illinois,2001-02-22,154.2548030272472,included_game_day
+2001,356,Illinois,2001-02-24,166.70441304604992,included_game_day
+2001,356,Illinois,2001-03-04,162.62562488598596,included_game_day
+2001,356,Illinois,2001-03-09,169.2536756115552,included_game_day
+2001,356,Illinois,2001-03-10,166.9854322190631,included_game_day
+2001,356,Illinois,2001-03-16,192.15241510902828,included_game_day
+2001,356,Illinois,2001-03-18,202.11560684300792,included_game_day
+2001,356,Illinois,2001-03-23,217.1728542205547,included_game_day
+2001,356,Illinois,2001-03-25,212.8305782250619,included_game_day
+2002,356,Illinois Fighting Illini,2001-11-16,15.0,included_game_day
+2002,356,Illinois Fighting Illini,2001-11-19,50.5,included_game_day
+2002,356,Illinois Fighting Illini,2001-11-23,83.53,included_game_day
+2002,356,Illinois Fighting Illini,2001-11-27,69.7256,included_game_day
+2002,356,Illinois Fighting Illini,2001-12-01,80.80593999999999,included_game_day
+2002,356,Illinois Fighting Illini,2001-12-04,71.83924599999999,included_game_day
+2002,356,Illinois Fighting Illini,2001-12-08,67.4041987,included_game_day
+2002,356,Illinois Fighting Illini,2001-12-16,92.09753588359999,included_game_day
+2002,356,Illinois Fighting Illini,2001-12-18,94.11408004343998,included_game_day
+2002,356,Illinois Fighting Illini,2001-12-22,108.55232086168898,included_game_day
+2002,356,Illinois Fighting Illini,2001-12-29,110.4478872740392,included_game_day
+2002,356,Illinois Fighting Illini,2002-01-02,124.41777719667601,included_game_day
+2002,356,Illinois Fighting Illini,2002-01-05,112.96814603382299,included_game_day
+2002,356,Illinois Fighting Illini,2002-01-09,99.02001991884185,included_game_day
+2002,356,Illinois Fighting Illini,2002-01-12,113.0592657827139,included_game_day
+2002,356,Illinois Fighting Illini,2002-01-15,120.30896082681167,included_game_day
+2002,356,Illinois Fighting Illini,2002-01-23,143.38396485690131,included_game_day
+2002,356,Illinois Fighting Illini,2002-01-26,111.76838870759512,included_game_day
+2002,356,Illinois Fighting Illini,2002-01-29,103.24071701889667,included_game_day
+2002,356,Illinois Fighting Illini,2002-02-03,91.69828213063641,included_game_day
+2002,356,Illinois Fighting Illini,2002-02-07,94.33168750229378,included_game_day
+2002,356,Illinois Fighting Illini,2002-02-09,84.81267954829849,included_game_day
+2002,356,Illinois Fighting Illini,2002-02-12,89.00249794515993,included_game_day
+2002,356,Illinois Fighting Illini,2002-02-16,97.04460291859614,included_game_day
+2002,356,Illinois Fighting Illini,2002-02-20,107.35073892653422,included_game_day
+2002,356,Illinois Fighting Illini,2002-02-23,119.10515859100555,included_game_day
+2002,356,Illinois Fighting Illini,2002-02-26,126.87316483084804,included_game_day
+2002,356,Illinois Fighting Illini,2002-03-03,126.26004100309927,included_game_day
+2002,356,Illinois Fighting Illini,2002-03-08,135.44506422226718,included_game_day
+2002,356,Illinois Fighting Illini,2002-03-09,127.80421423051095,included_game_day
+2002,356,Illinois Fighting Illini,2002-03-15,148.86342095481507,included_game_day
+2002,356,Illinois Fighting Illini,2002-03-17,152.80385053068017,included_game_day
+2002,356,Illinois Fighting Illini,2002-03-22,158.61012486132796,included_game_day
+2003,356,Illinois Fighting Illini,2002-11-24,31.3,included_game_day
+2003,356,Illinois Fighting Illini,2002-11-27,72.97,included_game_day
+2003,356,Illinois Fighting Illini,2002-12-01,90.033,included_game_day
+2003,356,Illinois Fighting Illini,2002-12-03,111.33762,included_game_day
+2003,356,Illinois Fighting Illini,2002-12-07,108.082258,included_game_day
+2003,356,Illinois Fighting Illini,2002-12-10,103.775985286,included_game_day
+2003,356,Illinois Fighting Illini,2002-12-14,102.22536232229999,included_game_day
+2003,356,Illinois Fighting Illini,2002-12-21,119.42962325498999,included_game_day
+2003,356,Illinois Fighting Illini,2002-12-28,112.222149471615,included_game_day
+2003,356,Illinois Fighting Illini,2002-12-30,118.6202629127055,included_game_day
+2003,356,Illinois Fighting Illini,2003-01-04,138.50141486939137,included_game_day
+2003,356,Illinois Fighting Illini,2003-01-07,138.9771300761983,included_game_day
+2003,356,Illinois Fighting Illini,2003-01-11,138.90032613066543,included_game_day
+2003,356,Illinois Fighting Illini,2003-01-15,128.45037962412835,included_game_day
+2003,356,Illinois Fighting Illini,2003-01-18,117.01268890330158,included_game_day
+2003,356,Illinois Fighting Illini,2003-01-22,125.91137965925104,included_game_day
+2003,356,Illinois Fighting Illini,2003-01-25,124.80785471614313,included_game_day
+2003,356,Illinois Fighting Illini,2003-01-29,123.48965779181633,included_game_day
+2003,356,Illinois Fighting Illini,2003-02-02,120.03397154839223,included_game_day
+2003,356,Illinois Fighting Illini,2003-02-09,129.27555757359474,included_game_day
+2003,356,Illinois Fighting Illini,2003-02-15,118.59550366923655,included_game_day
+2003,356,Illinois Fighting Illini,2003-02-18,142.97416509181397,included_game_day
+2003,356,Illinois Fighting Illini,2003-02-22,137.9359772739087,included_game_day
+2003,356,Illinois Fighting Illini,2003-02-25,154.32062878586913,included_game_day
+2003,356,Illinois Fighting Illini,2003-03-01,150.98160360492128,included_game_day
+2003,356,Illinois Fighting Illini,2003-03-05,152.55647155239524,included_game_day
+2003,356,Illinois Fighting Illini,2003-03-09,165.8456856726123,included_game_day
+2003,356,Illinois Fighting Illini,2003-03-14,176.4806087735739,included_game_day
+2003,356,Illinois Fighting Illini,2003-03-15,163.7202485375839,included_game_day
+2003,356,Illinois Fighting Illini,2003-03-16,163.38638407087976,included_game_day
+2003,356,Illinois Fighting Illini,2003-03-20,158.47240626135957,included_game_day
+2003,356,Illinois Fighting Illini,2003-03-22,139.39579269064643,included_game_day
+2004,356,Illinois Fighting Illini,2003-11-22,20.939999999999998,included_game_day
+2004,356,Illinois Fighting Illini,2003-11-26,46.196999999999996,included_game_day
+2004,356,Illinois Fighting Illini,2003-11-29,56.7773,included_game_day
+2004,356,Illinois Fighting Illini,2003-12-02,51.516569999999994,included_game_day
+2004,356,Illinois Fighting Illini,2003-12-06,70.73936069999999,included_game_day
+2004,356,Illinois Fighting Illini,2003-12-09,50.26749302999999,included_game_day
+2004,356,Illinois Fighting Illini,2003-12-11,82.33974372699998,included_game_day
+2004,356,Illinois Fighting Illini,2003-12-13,86.35643510429999,included_game_day
+2004,356,Illinois Fighting Illini,2003-12-23,83.617721153541,included_game_day
+2004,356,Illinois Fighting Illini,2003-12-30,98.8909527626269,included_game_day
+2004,356,Illinois Fighting Illini,2004-01-03,91.73077794700237,included_game_day
+2004,356,Illinois Fighting Illini,2004-01-07,102.58650913157308,included_game_day
+2004,356,Illinois Fighting Illini,2004-01-10,91.64635949627115,included_game_day
+2004,356,Illinois Fighting Illini,2004-01-14,74.64083270481169,included_game_day
+2004,356,Illinois Fighting Illini,2004-01-17,73.5197875090719,included_game_day
+2004,356,Illinois Fighting Illini,2004-01-21,104.940152708194,included_game_day
+2004,356,Illinois Fighting Illini,2004-01-24,88.94186408660657,included_game_day
+2004,356,Illinois Fighting Illini,2004-01-31,96.49623624335898,included_game_day
+2004,356,Illinois Fighting Illini,2004-02-03,92.6405179434022,included_game_day
+2004,356,Illinois Fighting Illini,2004-02-08,94.6091843885814,included_game_day
+2004,356,Illinois Fighting Illini,2004-02-10,113.52572434293074,included_game_day
+2004,356,Illinois Fighting Illini,2004-02-18,118.40566487380583,included_game_day
+2004,356,Illinois Fighting Illini,2004-02-21,108.92802512312198,included_game_day
+2004,356,Illinois Fighting Illini,2004-02-25,124.62828462838185,included_game_day
+2004,356,Illinois Fighting Illini,2004-02-28,121.23264741465914,included_game_day
+2004,356,Illinois Fighting Illini,2004-03-03,117.84779378516112,included_game_day
+2004,356,Illinois Fighting Illini,2004-03-07,108.3774430963184,included_game_day
+2004,356,Illinois Fighting Illini,2004-03-12,107.20355326598398,included_game_day
+2004,356,Illinois Fighting Illini,2004-03-13,113.52983195645615,included_game_day
+2004,356,Illinois Fighting Illini,2004-03-14,94.88238463410711,included_game_day
+2004,356,Illinois Fighting Illini,2004-03-19,112.01036875832004,included_game_day
+2004,356,Illinois Fighting Illini,2004-03-21,141.20055931732625,included_game_day
+2004,356,Illinois Fighting Illini,2004-03-26,139.53475316707207,included_game_day
+2005,356,Illinois Fighting Illini,2004-11-19,17.0,included_game_day
+2005,356,Illinois Fighting Illini,2004-11-21,40.4,included_game_day
+2005,356,Illinois Fighting Illini,2004-11-24,63.56,included_game_day
+2005,356,Illinois Fighting Illini,2004-11-27,74.506,included_game_day
+2005,356,Illinois Fighting Illini,2004-12-01,88.994554,included_game_day
+2005,356,Illinois Fighting Illini,2004-12-04,102.2725246,included_game_day
+2005,356,Illinois Fighting Illini,2004-12-06,103.57254584,included_game_day
+2005,356,Illinois Fighting Illini,2004-12-09,115.704200257,included_game_day
+2005,356,Illinois Fighting Illini,2004-12-11,123.2536862313,included_game_day
+2005,356,Illinois Fighting Illini,2004-12-19,142.04339907914698,included_game_day
+2005,356,Illinois Fighting Illini,2004-12-22,137.5636729448813,included_game_day
+2005,356,Illinois Fighting Illini,2004-12-27,133.87436518456423,included_game_day
+2005,356,Illinois Fighting Illini,2004-12-30,131.36248976355606,included_game_day
+2005,356,Illinois Fighting Illini,2004-12-31,149.0404308884279,included_game_day
+2005,356,Illinois Fighting Illini,2005-01-05,161.4832161668289,included_game_day
+2005,356,Illinois Fighting Illini,2005-01-08,155.92162726659637,included_game_day
+2005,356,Illinois Fighting Illini,2005-01-12,160.71513661530534,included_game_day
+2005,356,Illinois Fighting Illini,2005-01-15,159.8555724039359,included_game_day
+2005,356,Illinois Fighting Illini,2005-01-20,152.9991566622217,included_game_day
+2005,356,Illinois Fighting Illini,2005-01-25,161.66263912155196,included_game_day
+2005,356,Illinois Fighting Illini,2005-01-29,173.61175590073188,included_game_day
+2005,356,Illinois Fighting Illini,2005-02-01,185.96160484138375,included_game_day
+2005,356,Illinois Fighting Illini,2005-02-06,180.40497053594615,included_game_day
+2005,356,Illinois Fighting Illini,2005-02-08,169.24244127848797,included_game_day
+2005,356,Illinois Fighting Illini,2005-02-12,170.7128084638812,included_game_day
+2005,356,Illinois Fighting Illini,2005-02-16,171.68028337812487,included_game_day
+2005,356,Illinois Fighting Illini,2005-02-19,174.9730643193618,included_game_day
+2005,356,Illinois Fighting Illini,2005-03-03,190.98441519797944,included_game_day
+2005,356,Illinois Fighting Illini,2005-03-06,181.99362856137654,included_game_day
+2005,356,Illinois Fighting Illini,2005-03-11,178.82224342140384,included_game_day
+2005,356,Illinois Fighting Illini,2005-03-12,173.61517104905752,included_game_day
+2005,356,Illinois Fighting Illini,2005-03-13,175.55912841405046,included_game_day
+2005,356,Illinois Fighting Illini,2005-03-17,167.8091355348413,included_game_day
+2005,356,Illinois Fighting Illini,2005-03-19,168.309027897129,included_game_day
+2005,356,Illinois Fighting Illini,2005-03-24,173.83512949437576,included_game_day
+2005,356,Illinois Fighting Illini,2005-03-26,171.2376286004868,included_game_day
+2005,356,Illinois Fighting Illini,2005-04-02,185.09233798961503,included_game_day
+2005,356,Illinois Fighting Illini,2005-04-04,179.87060413487166,included_game_day
+2006,356,Illinois Fighting Illini,2005-11-18,21.09,included_game_day
+2006,356,Illinois Fighting Illini,2005-11-20,27.981,included_game_day
+2006,356,Illinois Fighting Illini,2005-11-22,53.2829,included_game_day
+2006,356,Illinois Fighting Illini,2005-11-25,51.2957,included_game_day
+2006,356,Illinois Fighting Illini,2005-11-26,65.36243999999999,included_game_day
+2006,356,Illinois Fighting Illini,2005-11-29,72.22319599999999,included_game_day
+2006,356,Illinois Fighting Illini,2005-12-03,72.30719439999999,included_game_day
+2006,356,Illinois Fighting Illini,2005-12-05,88.202756078,included_game_day
+2006,356,Illinois Fighting Illini,2005-12-08,91.2909718702,included_game_day
+2006,356,Illinois Fighting Illini,2005-12-10,121.48901728318,included_game_day
+2006,356,Illinois Fighting Illini,2005-12-18,120.200223568862,included_game_day
+2006,356,Illinois Fighting Illini,2005-12-21,138.6707167365258,included_game_day
+2006,356,Illinois Fighting Illini,2005-12-28,141.7662256417369,included_game_day
+2006,356,Illinois Fighting Illini,2005-12-30,159.3421213307409,included_game_day
+2006,356,Illinois Fighting Illini,2006-01-05,158.01870868447645,included_game_day
+2006,356,Illinois Fighting Illini,2006-01-07,137.78928955213468,included_game_day
+2006,356,Illinois Fighting Illini,2006-01-14,133.04801825033712,included_game_day
+2006,356,Illinois Fighting Illini,2006-01-17,132.37960031569528,included_game_day
+2006,356,Illinois Fighting Illini,2006-01-21,134.46090062156915,included_game_day
+2006,356,Illinois Fighting Illini,2006-01-25,143.32661700062897,included_game_day
+2006,356,Illinois Fighting Illini,2006-01-28,142.37447925677,included_game_day
+2006,356,Illinois Fighting Illini,2006-01-31,156.252528886849,included_game_day
+2006,356,Illinois Fighting Illini,2006-02-04,137.65930313333095,included_game_day
+2006,356,Illinois Fighting Illini,2006-02-12,125.50959349836305,included_game_day
+2006,356,Illinois Fighting Illini,2006-02-15,129.41704137414663,included_game_day
+2006,356,Illinois Fighting Illini,2006-02-19,130.4735766659565,included_game_day
+2006,356,Illinois Fighting Illini,2006-02-21,118.46064542827067,included_game_day
+2006,356,Illinois Fighting Illini,2006-02-25,125.22559974246163,included_game_day
+2006,356,Illinois Fighting Illini,2006-02-28,127.97778598963555,included_game_day
+2006,356,Illinois Fighting Illini,2006-03-04,134.83598152233776,included_game_day
+2006,356,Illinois Fighting Illini,2006-03-10,122.18520864143004,included_game_day
+2006,356,Illinois Fighting Illini,2006-03-16,122.66638786594923,included_game_day
+2006,356,Illinois Fighting Illini,2006-03-18,117.16739979669224,included_game_day
+2007,356,Illinois Fighting Illini,2006-11-13,40.7,included_game_day
+2007,356,Illinois Fighting Illini,2006-11-15,49.72,included_game_day
+2007,356,Illinois Fighting Illini,2006-11-17,79.188,included_game_day
+2007,356,Illinois Fighting Illini,2006-11-19,84.6606,included_game_day
+2007,356,Illinois Fighting Illini,2006-11-21,120.68454,included_game_day
+2007,356,Illinois Fighting Illini,2006-11-24,108.538236,included_game_day
+2007,356,Illinois Fighting Illini,2006-11-25,110.836286,included_game_day
+2007,356,Illinois Fighting Illini,2006-11-28,101.2166847,included_game_day
+2007,356,Illinois Fighting Illini,2006-12-02,87.61385773,included_game_day
+2007,356,Illinois Fighting Illini,2006-12-06,105.47413194831,included_game_day
+2007,356,Illinois Fighting Illini,2006-12-09,99.425108257279,included_game_day
+2007,356,Illinois Fighting Illini,2006-12-17,118.52255183825392,included_game_day
+2007,356,Illinois Fighting Illini,2006-12-19,121.54959561230852,included_game_day
+2007,356,Illinois Fighting Illini,2006-12-21,117.04616468266791,included_game_day
+2007,356,Illinois Fighting Illini,2006-12-29,109.7935259271933,included_game_day
+2007,356,Illinois Fighting Illini,2007-01-03,96.6431234315782,included_game_day
+2007,356,Illinois Fighting Illini,2007-01-06,78.96844209942935,included_game_day
+2007,356,Illinois Fighting Illini,2007-01-10,78.52032129791075,included_game_day
+2007,356,Illinois Fighting Illini,2007-01-14,77.49575777857265,included_game_day
+2007,356,Illinois Fighting Illini,2007-01-17,85.54123841860941,included_game_day
+2007,356,Illinois Fighting Illini,2007-01-20,81.92397085254677,included_game_day
+2007,356,Illinois Fighting Illini,2007-01-23,93.81339540790742,included_game_day
+2007,356,Illinois Fighting Illini,2007-01-27,77.4984306491609,included_game_day
+2007,356,Illinois Fighting Illini,2007-01-30,87.26683200491533,included_game_day
+2007,356,Illinois Fighting Illini,2007-02-03,84.99747500133216,included_game_day
+2007,356,Illinois Fighting Illini,2007-02-07,95.06124266062503,included_game_day
+2007,356,Illinois Fighting Illini,2007-02-10,98.5078865976666,included_game_day
+2007,356,Illinois Fighting Illini,2007-02-18,96.65918788337946,included_game_day
+2007,356,Illinois Fighting Illini,2007-02-21,102.0137806834013,included_game_day
+2007,356,Illinois Fighting Illini,2007-02-24,114.5580637646825,included_game_day
+2007,356,Illinois Fighting Illini,2007-03-03,106.70030829631679,included_game_day
+2007,356,Illinois Fighting Illini,2007-03-08,98.35411210881023,included_game_day
+2007,356,Illinois Fighting Illini,2007-03-09,108.07506721923458,included_game_day
+2007,356,Illinois Fighting Illini,2007-03-10,104.53384396474216,included_game_day
+2007,356,Illinois Fighting Illini,2007-03-16,104.39041821825782,included_game_day
+2008,356,Illinois Fighting Illini,2007-11-11,5.0,included_game_day
+2008,356,Illinois Fighting Illini,2007-11-17,9.1,included_game_day
+2008,356,Illinois Fighting Illini,2007-11-19,31.189999999999998,included_game_day
+2008,356,Illinois Fighting Illini,2007-11-20,24.266,included_game_day
+2008,356,Illinois Fighting Illini,2007-11-21,38.94395,included_game_day
+2008,356,Illinois Fighting Illini,2007-11-28,29.714842,included_game_day
+2008,356,Illinois Fighting Illini,2007-12-01,38.8041978,included_game_day
+2008,356,Illinois Fighting Illini,2007-12-08,34.536899514599995,included_game_day
+2008,356,Illinois Fighting Illini,2007-12-17,44.8386204779578,included_game_day
+2008,356,Illinois Fighting Illini,2007-12-20,36.17226805809085,included_game_day
+2008,356,Illinois Fighting Illini,2007-12-22,45.10353752763365,included_game_day
+2008,356,Illinois Fighting Illini,2007-12-28,69.96013655772433,included_game_day
+2008,356,Illinois Fighting Illini,2007-12-30,54.024579186594664,included_game_day
+2008,356,Illinois Fighting Illini,2008-01-03,38.23175670762481,included_game_day
+2008,356,Illinois Fighting Illini,2008-01-06,33.70883210901169,included_game_day
+2008,356,Illinois Fighting Illini,2008-01-10,35.86065573661155,included_game_day
+2008,356,Illinois Fighting Illini,2008-01-13,44.36059123817445,included_game_day
+2008,356,Illinois Fighting Illini,2008-01-16,53.47160065278994,included_game_day
+2008,356,Illinois Fighting Illini,2008-01-22,55.52537178074803,included_game_day
+2008,356,Illinois Fighting Illini,2008-01-27,78.07459356957668,included_game_day
+2008,356,Illinois Fighting Illini,2008-01-30,75.38050717899854,included_game_day
+2008,356,Illinois Fighting Illini,2008-02-02,64.93538272782155,included_game_day
+2008,356,Illinois Fighting Illini,2008-02-07,62.662859363942566,included_game_day
+2008,356,Illinois Fighting Illini,2008-02-12,92.47688257540852,included_game_day
+2008,356,Illinois Fighting Illini,2008-02-16,86.18406533697932,included_game_day
+2008,356,Illinois Fighting Illini,2008-02-20,74.07969674155856,included_game_day
+2008,356,Illinois Fighting Illini,2008-02-23,66.16813559311986,included_game_day
+2008,356,Illinois Fighting Illini,2008-03-01,74.59158251648466,included_game_day
+2008,356,Illinois Fighting Illini,2008-03-06,69.41501828392958,included_game_day
+2008,356,Illinois Fighting Illini,2008-03-08,74.71608593622935,included_game_day
+2008,356,Illinois Fighting Illini,2008-03-13,67.8264987108806,included_game_day
+2008,356,Illinois Fighting Illini,2008-03-14,80.4194243663184,included_game_day
+2008,356,Illinois Fighting Illini,2008-03-15,82.0174449391973,included_game_day
+2008,356,Illinois Fighting Illini,2008-03-16,77.7560212527565,included_game_day
+2009,356,Illinois Fighting Illini,2008-11-14,13.0,included_game_day
+2009,356,Illinois Fighting Illini,2008-11-16,27.7,included_game_day
+2009,356,Illinois Fighting Illini,2008-11-20,36.239999999999995,included_game_day
+2009,356,Illinois Fighting Illini,2008-11-23,41.384699999999995,included_game_day
+2009,356,Illinois Fighting Illini,2008-11-28,47.870729999999995,included_game_day
+2009,356,Illinois Fighting Illini,2008-11-29,52.34576,included_game_day
+2009,356,Illinois Fighting Illini,2008-12-02,52.9119204,included_game_day
+2009,356,Illinois Fighting Illini,2008-12-06,80.87429789000001,included_game_day
+2009,356,Illinois Fighting Illini,2008-12-08,78.105928101,included_game_day
+2009,356,Illinois Fighting Illini,2008-12-10,103.99192903740001,included_game_day
+2009,356,Illinois Fighting Illini,2008-12-20,116.92539268820002,included_game_day
+2009,356,Illinois Fighting Illini,2008-12-23,134.9868974990192,included_game_day
+2009,356,Illinois Fighting Illini,2008-12-28,120.0513494257803,included_game_day
+2009,356,Illinois Fighting Illini,2008-12-30,126.01561324413538,included_game_day
+2009,356,Illinois Fighting Illini,2009-01-04,110.98130467643902,included_game_day
+2009,356,Illinois Fighting Illini,2009-01-10,123.6718898536378,included_game_day
+2009,356,Illinois Fighting Illini,2009-01-14,130.3172684210034,included_game_day
+2009,356,Illinois Fighting Illini,2009-01-17,126.6197544832708,included_game_day
+2009,356,Illinois Fighting Illini,2009-01-20,136.67886747778743,included_game_day
+2009,356,Illinois Fighting Illini,2009-01-24,133.83437969351522,included_game_day
+2009,356,Illinois Fighting Illini,2009-01-29,107.22908330566715,included_game_day
+2009,356,Illinois Fighting Illini,2009-02-01,103.89685494779302,included_game_day
+2009,356,Illinois Fighting Illini,2009-02-05,90.50547996909884,included_game_day
+2009,356,Illinois Fighting Illini,2009-02-08,108.47540401526904,included_game_day
+2009,356,Illinois Fighting Illini,2009-02-12,106.22937804599184,included_game_day
+2009,356,Illinois Fighting Illini,2009-02-15,107.83903210135254,included_game_day
+2009,356,Illinois Fighting Illini,2009-02-18,93.47063759133408,included_game_day
+2009,356,Illinois Fighting Illini,2009-02-22,97.32331118883718,included_game_day
+2009,356,Illinois Fighting Illini,2009-02-26,102.9306276184502,included_game_day
+2009,356,Illinois Fighting Illini,2009-03-01,94.894290765474,included_game_day
+2009,356,Illinois Fighting Illini,2009-03-05,91.278919673292,included_game_day
+2009,356,Illinois Fighting Illini,2009-03-13,102.23352341723232,included_game_day
+2009,356,Illinois Fighting Illini,2009-03-14,90.40653421793684,included_game_day
+2009,356,Illinois Fighting Illini,2009-03-19,84.13432410124895,included_game_day
+2010,356,Illinois Fighting Illini,2009-11-13,24.0,included_game_day
+2010,356,Illinois Fighting Illini,2009-11-17,35.7,included_game_day
+2010,356,Illinois Fighting Illini,2009-11-21,71.43,included_game_day
+2010,356,Illinois Fighting Illini,2009-11-24,75.912,included_game_day
+2010,356,Illinois Fighting Illini,2009-11-27,67.640144,included_game_day
+2010,356,Illinois Fighting Illini,2009-11-28,56.51864200000001,included_game_day
+2010,356,Illinois Fighting Illini,2009-12-02,64.75108914,included_game_day
+2010,356,Illinois Fighting Illini,2009-12-05,62.448963826,included_game_day
+2010,356,Illinois Fighting Illini,2009-12-08,68.811150891,included_game_day
+2010,356,Illinois Fighting Illini,2009-12-13,95.53139259809,included_game_day
+2010,356,Illinois Fighting Illini,2009-12-19,85.34093796228099,included_game_day
+2010,356,Illinois Fighting Illini,2009-12-23,76.22154231587433,included_game_day
+2010,356,Illinois Fighting Illini,2009-12-30,80.49959282395686,included_game_day
+2010,356,Illinois Fighting Illini,2010-01-02,73.86837351900544,included_game_day
+2010,356,Illinois Fighting Illini,2010-01-05,79.62651156525723,included_game_day
+2010,356,Illinois Fighting Illini,2010-01-09,82.99010707900956,included_game_day
+2010,356,Illinois Fighting Illini,2010-01-12,76.66609098069208,included_game_day
+2010,356,Illinois Fighting Illini,2010-01-16,76.74263284394657,included_game_day
+2010,356,Illinois Fighting Illini,2010-01-19,72.64451412535144,included_game_day
+2010,356,Illinois Fighting Illini,2010-01-23,69.29707941568458,included_game_day
+2010,356,Illinois Fighting Illini,2010-01-27,78.81430470267166,included_game_day
+2010,356,Illinois Fighting Illini,2010-01-30,70.48281089953572,included_game_day
+2010,356,Illinois Fighting Illini,2010-02-03,75.83925789416952,included_game_day
+2010,356,Illinois Fighting Illini,2010-02-06,82.22198542402747,included_game_day
+2010,356,Illinois Fighting Illini,2010-02-09,100.4331961439146,included_game_day
+2010,356,Illinois Fighting Illini,2010-02-14,83.37866576558973,included_game_day
+2010,356,Illinois Fighting Illini,2010-02-20,84.16477651852638,included_game_day
+2010,356,Illinois Fighting Illini,2010-02-23,91.87099668278219,included_game_day
+2010,356,Illinois Fighting Illini,2010-02-27,88.57102076956147,included_game_day
+2010,356,Illinois Fighting Illini,2010-03-02,82.82838195387963,included_game_day
+2010,356,Illinois Fighting Illini,2010-03-07,72.79929538659152,included_game_day
+2010,356,Illinois Fighting Illini,2010-03-12,86.77602613276103,included_game_day
+2010,356,Illinois Fighting Illini,2010-03-13,86.9682048437099,included_game_day
+2010,356,Illinois Fighting Illini,2010-03-17,88.80945597358024,included_game_day
+2010,356,Illinois Fighting Illini,2010-03-22,99.23638112960533,included_game_day
+2010,356,Illinois Fighting Illini,2010-03-24,92.82943765045923,included_game_day
+2011,356,Illinois Fighting Illini,2010-11-08,11.0,included_game_day
+2011,356,Illinois Fighting Illini,2010-11-10,45.9,included_game_day
+2011,356,Illinois Fighting Illini,2010-11-13,60.31,included_game_day
+2011,356,Illinois Fighting Illini,2010-11-18,53.599000000000004,included_game_day
+2011,356,Illinois Fighting Illini,2010-11-19,56.388000000000005,included_game_day
+2011,356,Illinois Fighting Illini,2010-11-23,74.6782,included_game_day
+2011,356,Illinois Fighting Illini,2010-11-27,85.22473000000001,included_game_day
+2011,356,Illinois Fighting Illini,2010-11-30,90.18412640000001,included_game_day
+2011,356,Illinois Fighting Illini,2010-12-04,98.68521076,included_game_day
+2011,356,Illinois Fighting Illini,2010-12-08,104.205213201,included_game_day
+2011,356,Illinois Fighting Illini,2010-12-12,101.0809149809,included_game_day
+2011,356,Illinois Fighting Illini,2010-12-18,83.3649054040611,included_game_day
+2011,356,Illinois Fighting Illini,2010-12-22,74.68022627861296,included_game_day
+2011,356,Illinois Fighting Illini,2010-12-29,86.78285399561425,included_game_day
+2011,356,Illinois Fighting Illini,2011-01-02,94.84141358968101,included_game_day
+2011,356,Illinois Fighting Illini,2011-01-06,115.35022200449704,included_game_day
+2011,356,Illinois Fighting Illini,2011-01-11,106.77497634878863,included_game_day
+2011,356,Illinois Fighting Illini,2011-01-15,100.3372083245851,included_game_day
+2011,356,Illinois Fighting Illini,2011-01-18,104.21249559664068,included_game_day
+2011,356,Illinois Fighting Illini,2011-01-22,103.35194954701099,included_game_day
+2011,356,Illinois Fighting Illini,2011-01-27,97.78656353132854,included_game_day
+2011,356,Illinois Fighting Illini,2011-02-01,109.58087068223662,included_game_day
+2011,356,Illinois Fighting Illini,2011-02-05,108.20746903895673,included_game_day
+2011,356,Illinois Fighting Illini,2011-02-10,116.91002852400571,included_game_day
+2011,356,Illinois Fighting Illini,2011-02-13,104.23926579326164,included_game_day
+2011,356,Illinois Fighting Illini,2011-02-16,99.96260417607203,included_game_day
+2011,356,Illinois Fighting Illini,2011-02-19,94.10504045926254,included_game_day
+2011,356,Illinois Fighting Illini,2011-02-22,84.7575125964444,included_game_day
+2011,356,Illinois Fighting Illini,2011-02-26,89.5560270322835,included_game_day
+2011,356,Illinois Fighting Illini,2011-03-01,93.30590758122243,included_game_day
+2011,356,Illinois Fighting Illini,2011-03-05,108.24476405401737,included_game_day
+2011,356,Illinois Fighting Illini,2011-03-11,101.593571451858,included_game_day
+2011,356,Illinois Fighting Illini,2011-03-18,113.87820212200883,included_game_day
+2011,356,Illinois Fighting Illini,2011-03-20,108.4847457805377,included_game_day
+2012,356,Illinois Fighting Illini,2011-11-11,15.0,included_game_day
+2012,356,Illinois Fighting Illini,2011-11-14,30.5,included_game_day
+2012,356,Illinois Fighting Illini,2011-11-17,38.67,included_game_day
+2012,356,Illinois Fighting Illini,2011-11-22,47.4917,included_game_day
+2012,356,Illinois Fighting Illini,2011-11-23,49.516220000000004,included_game_day
+2012,356,Illinois Fighting Illini,2011-11-27,80.250338,included_game_day
+2012,356,Illinois Fighting Illini,2011-11-29,81.9397152,included_game_day
+2012,356,Illinois Fighting Illini,2011-12-03,83.19842348,included_game_day
+2012,356,Illinois Fighting Illini,2011-12-07,79.26152989584,included_game_day
+2012,356,Illinois Fighting Illini,2011-12-11,80.855351906256,included_game_day
+2012,356,Illinois Fighting Illini,2011-12-17,60.268460862560204,included_game_day
+2012,356,Illinois Fighting Illini,2011-12-19,54.489807050482185,included_game_day
+2012,356,Illinois Fighting Illini,2011-12-22,61.595263351491596,included_game_day
+2012,356,Illinois Fighting Illini,2011-12-27,68.27437774932004,included_game_day
+2012,356,Illinois Fighting Illini,2011-12-31,58.06823078084608,included_game_day
+2012,356,Illinois Fighting Illini,2012-01-04,60.389114302061735,included_game_day
+2012,356,Illinois Fighting Illini,2012-01-07,56.23405327838448,included_game_day
+2012,356,Illinois Fighting Illini,2012-01-10,72.92559542396921,included_game_day
+2012,356,Illinois Fighting Illini,2012-01-19,66.73640608309472,included_game_day
+2012,356,Illinois Fighting Illini,2012-01-22,66.10569038501579,included_game_day
+2012,356,Illinois Fighting Illini,2012-01-28,65.99024578680168,included_game_day
+2012,356,Illinois Fighting Illini,2012-01-31,75.35039399106356,included_game_day
+2012,356,Illinois Fighting Illini,2012-02-05,64.69284298463718,included_game_day
+2012,356,Illinois Fighting Illini,2012-02-09,60.60470781774208,included_game_day
+2012,356,Illinois Fighting Illini,2012-02-12,59.5529176099131,included_game_day
+2012,356,Illinois Fighting Illini,2012-02-15,52.954363227594,included_game_day
+2012,356,Illinois Fighting Illini,2012-02-18,26.604468166260798,included_game_day
+2012,356,Illinois Fighting Illini,2012-02-21,28.52297096814201,included_game_day
+2012,356,Illinois Fighting Illini,2012-02-26,38.985491873831286,included_game_day
+2012,356,Illinois Fighting Illini,2012-03-01,31.990239167591994,included_game_day
+2012,356,Illinois Fighting Illini,2012-03-04,30.466694939097884,included_game_day
+2012,356,Illinois Fighting Illini,2012-03-08,28.933739620744202,included_game_day
+2013,356,Illinois Fighting Illini,2012-11-09,17.0,included_game_day
+2013,356,Illinois Fighting Illini,2012-11-12,38.7,included_game_day
+2013,356,Illinois Fighting Illini,2012-11-17,42.86,included_game_day
+2013,356,Illinois Fighting Illini,2012-11-19,71.064,included_game_day
+2013,356,Illinois Fighting Illini,2012-11-21,83.43372,included_game_day
+2013,356,Illinois Fighting Illini,2012-11-25,74.315618,included_game_day
+2013,356,Illinois Fighting Illini,2012-11-28,80.26121259,included_game_day
+2013,356,Illinois Fighting Illini,2012-12-04,76.880700828,included_game_day
+2013,356,Illinois Fighting Illini,2012-12-08,94.7419194828,included_game_day
+2013,356,Illinois Fighting Illini,2012-12-11,92.90950535683297,included_game_day
+2013,356,Illinois Fighting Illini,2012-12-16,99.01054618727967,included_game_day
+2013,356,Illinois Fighting Illini,2012-12-22,91.3181280009786,included_game_day
+2013,356,Illinois Fighting Illini,2012-12-29,81.91207708879533,included_game_day
+2013,356,Illinois Fighting Illini,2013-01-02,73.19695173574374,included_game_day
+2013,356,Illinois Fighting Illini,2013-01-05,95.94486680377156,included_game_day
+2013,356,Illinois Fighting Illini,2013-01-09,79.3301763992489,included_game_day
+2013,356,Illinois Fighting Illini,2013-01-12,61.497450527165654,included_game_day
+2013,356,Illinois Fighting Illini,2013-01-17,39.828761785684804,included_game_day
+2013,356,Illinois Fighting Illini,2013-01-22,58.563457207528856,included_game_day
+2013,356,Illinois Fighting Illini,2013-01-27,53.673130320355696,included_game_day
+2013,356,Illinois Fighting Illini,2013-01-31,57.796375837046256,included_game_day
+2013,356,Illinois Fighting Illini,2013-02-03,54.656633710969885,included_game_day
+2013,356,Illinois Fighting Illini,2013-02-07,68.90489217148547,included_game_day
+2013,356,Illinois Fighting Illini,2013-02-10,80.72408379199197,included_game_day
+2013,356,Illinois Fighting Illini,2013-02-13,92.27944512029302,included_game_day
+2013,356,Illinois Fighting Illini,2013-02-17,111.05298311598224,included_game_day
+2013,356,Illinois Fighting Illini,2013-02-21,100.09164677352891,included_game_day
+2013,356,Illinois Fighting Illini,2013-02-24,93.60013956833279,included_game_day
+2013,356,Illinois Fighting Illini,2013-03-02,88.44190348818469,included_game_day
+2013,356,Illinois Fighting Illini,2013-03-05,84.86966193732319,included_game_day
+2013,356,Illinois Fighting Illini,2013-03-10,81.39892912599193,included_game_day
+2013,356,Illinois Fighting Illini,2013-03-14,83.07083897702307,included_game_day
+2013,356,Illinois Fighting Illini,2013-03-15,76.73631709455057,included_game_day
+2013,356,Illinois Fighting Illini,2013-03-22,84.349027230069,included_game_day
+2013,356,Illinois Fighting Illini,2013-03-24,87.89403836179967,included_game_day
+2014,356,Illinois Fighting Illini,2013-11-08,14.0,included_game_day
+2014,356,Illinois Fighting Illini,2013-11-10,33.2,included_game_day
+2014,356,Illinois Fighting Illini,2013-11-13,38.88,included_game_day
+2014,356,Illinois Fighting Illini,2013-11-17,61.425,included_game_day
+2014,356,Illinois Fighting Illini,2013-11-22,73.41902,included_game_day
+2014,356,Illinois Fighting Illini,2013-11-26,70.452138,included_game_day
+2014,356,Illinois Fighting Illini,2013-11-29,64.58676320000001,included_game_day
+2014,356,Illinois Fighting Illini,2013-12-03,59.64125148200001,included_game_day
+2014,356,Illinois Fighting Illini,2013-12-08,72.0027718038,included_game_day
+2014,356,Illinois Fighting Illini,2013-12-10,68.46614793542,included_game_day
+2014,356,Illinois Fighting Illini,2013-12-14,63.466695583257994,included_game_day
+2014,356,Illinois Fighting Illini,2013-12-21,65.9993722159462,included_game_day
+2014,356,Illinois Fighting Illini,2013-12-28,70.76486635379096,included_game_day
+2014,356,Illinois Fighting Illini,2013-12-31,72.32030280430463,included_game_day
+2014,356,Illinois Fighting Illini,2014-01-04,86.46102577775872,included_game_day
+2014,356,Illinois Fighting Illini,2014-01-08,70.28364203315608,included_game_day
+2014,356,Illinois Fighting Illini,2014-01-12,58.4317450067522,included_game_day
+2014,356,Illinois Fighting Illini,2014-01-15,47.29539960470331,included_game_day
+2014,356,Illinois Fighting Illini,2014-01-18,39.490677446073235,included_game_day
+2014,356,Illinois Fighting Illini,2014-01-23,43.96995970421183,included_game_day
+2014,356,Illinois Fighting Illini,2014-01-26,39.6453752689449,included_game_day
+2014,356,Illinois Fighting Illini,2014-02-01,42.88963390729575,included_game_day
+2014,356,Illinois Fighting Illini,2014-02-04,33.99174679258061,included_game_day
+2014,356,Illinois Fighting Illini,2014-02-09,43.72587557269376,included_game_day
+2014,356,Illinois Fighting Illini,2014-02-12,37.331335547110136,included_game_day
+2014,356,Illinois Fighting Illini,2014-02-15,33.71346784624882,included_game_day
+2014,356,Illinois Fighting Illini,2014-02-19,54.25823984960313,included_game_day
+2014,356,Illinois Fighting Illini,2014-02-26,65.71091578180207,included_game_day
+2014,356,Illinois Fighting Illini,2014-03-01,81.84800007302098,included_game_day
+2014,356,Illinois Fighting Illini,2014-03-04,52.69706467301067,included_game_day
+2014,356,Illinois Fighting Illini,2014-03-08,65.33041800414286,included_game_day
+2014,356,Illinois Fighting Illini,2014-03-13,76.55537383009073,included_game_day
+2014,356,Illinois Fighting Illini,2014-03-14,83.04979898093774,included_game_day
+2014,356,Illinois Fighting Illini,2014-03-19,87.00515529990852,included_game_day
+2014,356,Illinois Fighting Illini,2014-03-23,88.25797927706878,included_game_day
+2015,356,Illinois Fighting Illini,2014-11-14,6.0,included_game_day
+2015,356,Illinois Fighting Illini,2014-11-16,56.5,included_game_day
+2015,356,Illinois Fighting Illini,2014-11-21,88.34700000000001,included_game_day
+2015,356,Illinois Fighting Illini,2014-11-24,94.91780000000001,included_game_day
+2015,356,Illinois Fighting Illini,2014-11-27,111.66980000000001,included_game_day
+2015,356,Illinois Fighting Illini,2014-11-28,115.94882000000001,included_game_day
+2015,356,Illinois Fighting Illini,2014-12-02,107.1220418,included_game_day
+2015,356,Illinois Fighting Illini,2014-12-06,110.34313708500001,included_game_day
+2015,356,Illinois Fighting Illini,2014-12-09,95.7246633105,included_game_day
+2015,356,Illinois Fighting Illini,2014-12-13,82.64920694045,included_game_day
+2015,356,Illinois Fighting Illini,2014-12-17,86.646372437705,included_game_day
+2015,356,Illinois Fighting Illini,2014-12-20,78.2551689191115,included_game_day
+2015,356,Illinois Fighting Illini,2014-12-27,106.57199799722065,included_game_day
+2015,356,Illinois Fighting Illini,2014-12-30,91.26659996341829,included_game_day
+2015,356,Illinois Fighting Illini,2015-01-03,86.19600105900845,included_game_day
+2015,356,Illinois Fighting Illini,2015-01-07,92.28753097612208,included_game_day
+2015,356,Illinois Fighting Illini,2015-01-11,79.61631429083707,included_game_day
+2015,356,Illinois Fighting Illini,2015-01-14,83.24946836798213,included_game_day
+2015,356,Illinois Fighting Illini,2015-01-18,73.75462405507787,included_game_day
+2015,356,Illinois Fighting Illini,2015-01-21,79.20703762660152,included_game_day
+2015,356,Illinois Fighting Illini,2015-01-24,74.0132004432868,included_game_day
+2015,356,Illinois Fighting Illini,2015-01-31,71.45511099579309,included_game_day
+2015,356,Illinois Fighting Illini,2015-02-03,71.73652238881002,included_game_day
+2015,356,Illinois Fighting Illini,2015-02-07,83.58537187113508,included_game_day
+2015,356,Illinois Fighting Illini,2015-02-12,88.06927908375567,included_game_day
+2015,356,Illinois Fighting Illini,2015-02-15,80.45288940242617,included_game_day
+2015,356,Illinois Fighting Illini,2015-02-22,75.47879393808233,included_game_day
+2015,356,Illinois Fighting Illini,2015-02-25,75.39900080805761,included_game_day
+2015,356,Illinois Fighting Illini,2015-02-28,97.24028689405623,included_game_day
+2015,356,Illinois Fighting Illini,2015-03-04,96.94463190781455,included_game_day
+2015,356,Illinois Fighting Illini,2015-03-07,94.92593416211835,included_game_day
+2015,356,Illinois Fighting Illini,2015-03-12,71.28633805834858,included_game_day
+2015,356,Illinois Fighting Illini,2015-03-17,48.094114070977916,included_game_day
+2016,356,Illinois Fighting Illini,2015-11-13,-12.0,included_game_day
+2016,356,Illinois Fighting Illini,2015-11-15,-3.6999999999999993,included_game_day
+2016,356,Illinois Fighting Illini,2015-11-18,-0.4299999999999997,included_game_day
+2016,356,Illinois Fighting Illini,2015-11-21,-3.8869999999999996,included_game_day
+2016,356,Illinois Fighting Illini,2015-11-23,-4.338299999999999,included_game_day
+2016,356,Illinois Fighting Illini,2015-11-27,12.19793,included_game_day
+2016,356,Illinois Fighting Illini,2015-11-28,7.7467238,included_game_day
+2016,356,Illinois Fighting Illini,2015-12-02,3.3338297499999996,included_game_day
+2016,356,Illinois Fighting Illini,2015-12-05,9.657018775,included_game_day
+2016,356,Illinois Fighting Illini,2015-12-09,13.092859331499998,included_game_day
+2016,356,Illinois Fighting Illini,2015-12-12,6.824856329249998,included_game_day
+2016,356,Illinois Fighting Illini,2015-12-19,16.197116195659298,included_game_day
+2016,356,Illinois Fighting Illini,2015-12-23,16.126343396385167,included_game_day
+2016,356,Illinois Fighting Illini,2015-12-30,15.272533520559552,included_game_day
+2016,356,Illinois Fighting Illini,2016-01-03,22.340764466995047,included_game_day
+2016,356,Illinois Fighting Illini,2016-01-07,11.453961206260201,included_game_day
+2016,356,Illinois Fighting Illini,2016-01-10,37.30969354104369,included_game_day
+2016,356,Illinois Fighting Illini,2016-01-16,27.082191079853597,included_game_day
+2016,356,Illinois Fighting Illini,2016-01-19,6.496821597083429,included_game_day
+2016,356,Illinois Fighting Illini,2016-01-23,11.528912180900427,included_game_day
+2016,356,Illinois Fighting Illini,2016-01-28,8.974215710626561,included_game_day
+2016,356,Illinois Fighting Illini,2016-01-31,5.771551441934796,included_game_day
+2016,356,Illinois Fighting Illini,2016-02-03,7.891753067357384,included_game_day
+2016,356,Illinois Fighting Illini,2016-02-07,8.430102194976264,included_game_day
+2016,356,Illinois Fighting Illini,2016-02-13,13.164086663659994,included_game_day
+2016,356,Illinois Fighting Illini,2016-02-16,15.27684787259697,included_game_day
+2016,356,Illinois Fighting Illini,2016-02-21,19.8731669391269,included_game_day
+2016,356,Illinois Fighting Illini,2016-02-25,2.223146966854035,included_game_day
+2016,356,Illinois Fighting Illini,2016-02-28,14.017758106256647,included_game_day
+2016,356,Illinois Fighting Illini,2016-03-03,1.317165606489942,included_game_day
+2016,356,Illinois Fighting Illini,2016-03-06,-1.4653437610843723,included_game_day
+2016,356,Illinois Fighting Illini,2016-03-09,28.827034020384406,included_game_day
+2016,356,Illinois Fighting Illini,2016-03-10,39.827346624502105,included_game_day
+2016,356,Illinois Fighting Illini,2016-03-11,20.2265844008891,included_game_day
+2017,356,Illinois Fighting Illini,2016-11-11,16.0,included_game_day
+2017,356,Illinois Fighting Illini,2016-11-13,26.4,included_game_day
+2017,356,Illinois Fighting Illini,2016-11-18,38.5,included_game_day
+2017,356,Illinois Fighting Illini,2016-11-21,28.250999999999998,included_game_day
+2017,356,Illinois Fighting Illini,2016-11-24,4.182699999999997,included_game_day
+2017,356,Illinois Fighting Illini,2016-11-25,-1.8748600000000026,included_game_day
+2017,356,Illinois Fighting Illini,2016-11-29,11.706945999999999,included_game_day
+2017,356,Illinois Fighting Illini,2016-12-03,34.258442628,included_game_day
+2017,356,Illinois Fighting Illini,2016-12-06,35.130403930199996,included_game_day
+2017,356,Illinois Fighting Illini,2016-12-10,49.630733564719996,included_game_day
+2017,356,Illinois Fighting Illini,2016-12-17,51.96632066452899,included_game_day
+2017,356,Illinois Fighting Illini,2016-12-21,56.83599106013699,included_game_day
+2017,356,Illinois Fighting Illini,2016-12-27,34.964970503894875,included_game_day
+2017,356,Illinois Fighting Illini,2017-01-01,41.00885417715796,included_game_day
+2017,356,Illinois Fighting Illini,2017-01-07,34.55685849173983,included_game_day
+2017,356,Illinois Fighting Illini,2017-01-11,52.613018327565,included_game_day
+2017,356,Illinois Fighting Illini,2017-01-14,46.823388312482976,included_game_day
+2017,356,Illinois Fighting Illini,2017-01-17,36.803546077187214,included_game_day
+2017,356,Illinois Fighting Illini,2017-01-21,34.61824717823045,included_game_day
+2017,356,Illinois Fighting Illini,2017-01-25,43.70499170544042,included_game_day
+2017,356,Illinois Fighting Illini,2017-01-28,42.44172188326988,included_game_day
+2017,356,Illinois Fighting Illini,2017-01-31,37.1462921370247,included_game_day
+2017,356,Illinois Fighting Illini,2017-02-04,28.786217544178566,included_game_day
+2017,356,Illinois Fighting Illini,2017-02-07,46.81058224721875,included_game_day
+2017,356,Illinois Fighting Illini,2017-02-11,30.32201847058512,included_game_day
+2017,356,Illinois Fighting Illini,2017-02-18,39.3764670692392,included_game_day
+2017,356,Illinois Fighting Illini,2017-02-21,56.949371607301295,included_game_day
+2017,356,Illinois Fighting Illini,2017-02-26,74.56352711675538,included_game_day
+2017,356,Illinois Fighting Illini,2017-03-01,76.4380786821852,included_game_day
+2017,356,Illinois Fighting Illini,2017-03-04,68.43015214484981,included_game_day
+2017,356,Illinois Fighting Illini,2017-03-09,57.23216034927391,included_game_day
+2017,356,Illinois Fighting Illini,2017-03-20,66.09747374553815,included_game_day
+2017,356,Illinois Fighting Illini,2017-03-22,61.317646813763254,included_game_day
+2018,356,Illinois Fighting Illini,2017-11-10,44.0,included_game_day
+2018,356,Illinois Fighting Illini,2017-11-12,38.8,included_game_day
+2018,356,Illinois Fighting Illini,2017-11-17,41.489999999999995,included_game_day
+2018,356,Illinois Fighting Illini,2017-11-19,51.651999999999994,included_game_day
+2018,356,Illinois Fighting Illini,2017-11-24,53.952074999999994,included_game_day
+2018,356,Illinois Fighting Illini,2017-11-28,44.5846257,included_game_day
+2018,356,Illinois Fighting Illini,2017-12-01,40.16880483,included_game_day
+2018,356,Illinois Fighting Illini,2017-12-03,39.671002133,included_game_day
+2018,356,Illinois Fighting Illini,2017-12-06,37.2620274527,included_game_day
+2018,356,Illinois Fighting Illini,2017-12-09,36.78850654123,included_game_day
+2018,356,Illinois Fighting Illini,2017-12-13,68.643492201797,included_game_day
+2018,356,Illinois Fighting Illini,2017-12-16,59.5921029806193,included_game_day
+2018,356,Illinois Fighting Illini,2017-12-23,69.12316728730293,included_game_day
+2018,356,Illinois Fighting Illini,2017-12-30,70.35566957656344,included_game_day
+2018,356,Illinois Fighting Illini,2018-01-03,64.80171301971872,included_game_day
+2018,356,Illinois Fighting Illini,2018-01-06,63.33786035221408,included_game_day
+2018,356,Illinois Fighting Illini,2018-01-11,52.061955839425764,included_game_day
+2018,356,Illinois Fighting Illini,2018-01-15,55.38592916205503,included_game_day
+2018,356,Illinois Fighting Illini,2018-01-19,30.625187659215417,included_game_day
+2018,356,Illinois Fighting Illini,2018-01-22,30.274869392415567,included_game_day
+2018,356,Illinois Fighting Illini,2018-01-24,32.159336569933636,included_game_day
+2018,356,Illinois Fighting Illini,2018-01-30,59.746219351723404,included_game_day
+2018,356,Illinois Fighting Illini,2018-02-04,63.19427540658012,included_game_day
+2018,356,Illinois Fighting Illini,2018-02-08,47.89951308266332,included_game_day
+2018,356,Illinois Fighting Illini,2018-02-11,29.27265696056803,included_game_day
+2018,356,Illinois Fighting Illini,2018-02-14,29.468863390394745,included_game_day
+2018,356,Illinois Fighting Illini,2018-02-18,40.534524874144424,included_game_day
+2018,356,Illinois Fighting Illini,2018-02-20,37.65642191372157,included_game_day
+2018,356,Illinois Fighting Illini,2018-02-22,40.43975806732204,included_game_day
+2018,356,Illinois Fighting Illini,2018-02-25,52.57453947699483,included_game_day
+2018,356,Illinois Fighting Illini,2018-02-28,42.292401145083744,included_game_day
+2019,356,Illinois Fighting Illini,2018-11-08,36.0,included_game_day
+2019,356,Illinois Fighting Illini,2018-11-13,22.98,included_game_day
+2019,356,Illinois Fighting Illini,2018-11-19,22.957,included_game_day
+2019,356,Illinois Fighting Illini,2018-11-20,8.297900000000002,included_game_day
+2019,356,Illinois Fighting Illini,2018-11-21,-2.3149749999999987,included_game_day
+2019,356,Illinois Fighting Illini,2018-11-25,3.2910275,included_game_day
+2019,356,Illinois Fighting Illini,2018-11-27,9.47682805,included_game_day
+2019,356,Illinois Fighting Illini,2018-12-02,8.341530165,included_game_day
+2019,356,Illinois Fighting Illini,2018-12-05,6.7134790567000024,included_game_day
+2019,356,Illinois Fighting Illini,2018-12-08,7.960258494430002,included_game_day
+2019,356,Illinois Fighting Illini,2018-12-15,25.841616213137,included_game_day
+2019,356,Illinois Fighting Illini,2018-12-22,10.575935131338662,included_game_day
+2019,356,Illinois Fighting Illini,2018-12-29,3.444206694945911,included_game_day
+2019,356,Illinois Fighting Illini,2019-01-03,8.810783418317584,included_game_day
+2019,356,Illinois Fighting Illini,2019-01-06,15.658724590917544,included_game_day
+2019,356,Illinois Fighting Illini,2019-01-10,13.759239688255818,included_game_day
+2019,356,Illinois Fighting Illini,2019-01-16,43.09042497613176,included_game_day
+2019,356,Illinois Fighting Illini,2019-01-20,27.391562346177288,included_game_day
+2019,356,Illinois Fighting Illini,2019-01-23,20.347486183259853,included_game_day
+2019,356,Illinois Fighting Illini,2019-01-26,41.56042765385837,included_game_day
+2019,356,Illinois Fighting Illini,2019-01-30,34.67708171847005,included_game_day
+2019,356,Illinois Fighting Illini,2019-02-02,43.11103411171457,included_game_day
+2019,356,Illinois Fighting Illini,2019-02-05,57.51754788697144,included_game_day
+2019,356,Illinois Fighting Illini,2019-02-09,54.89958042540176,included_game_day
+2019,356,Illinois Fighting Illini,2019-02-14,66.96917398212265,included_game_day
+2019,356,Illinois Fighting Illini,2019-02-18,69.42004836779955,included_game_day
+2019,356,Illinois Fighting Illini,2019-02-23,59.632291044512556,included_game_day
+2019,356,Illinois Fighting Illini,2019-02-27,52.73577729781596,included_game_day
+2019,356,Illinois Fighting Illini,2019-03-03,50.22782532692639,included_game_day
+2019,356,Illinois Fighting Illini,2019-03-07,30.17937042553666,included_game_day
+2019,356,Illinois Fighting Illini,2019-03-10,24.135893195735093,included_game_day
+2019,356,Illinois Fighting Illini,2019-03-13,29.366349520156685,included_game_day
+2019,356,Illinois Fighting Illini,2019-03-14,9.642627265296557,included_game_day
+2020,356,Illinois Fighting Illini,2019-11-05,5.0,included_game_day
+2020,356,Illinois Fighting Illini,2019-11-08,19.5,included_game_day
+2020,356,Illinois Fighting Illini,2019-11-10,3.1499999999999986,included_game_day
+2020,356,Illinois Fighting Illini,2019-11-18,13.443399999999999,included_game_day
+2020,356,Illinois Fighting Illini,2019-11-20,34.443999999999996,included_game_day
+2020,356,Illinois Fighting Illini,2019-11-23,76.2969,included_game_day
+2020,356,Illinois Fighting Illini,2019-12-02,62.45542809999999,included_game_day
+2020,356,Illinois Fighting Illini,2019-12-07,69.94508668614999,included_game_day
+2020,356,Illinois Fighting Illini,2019-12-11,78.19435857814159,included_game_day
+2020,356,Illinois Fighting Illini,2019-12-14,78.33710029978744,included_game_day
+2020,356,Illinois Fighting Illini,2019-12-21,67.761034369522,included_game_day
+2020,356,Illinois Fighting Illini,2019-12-29,81.2816190133789,included_game_day
+2020,356,Illinois Fighting Illini,2020-01-02,70.97930043671184,included_game_day
+2020,356,Illinois Fighting Illini,2020-01-05,97.46078497389976,included_game_day
+2020,356,Illinois Fighting Illini,2020-01-08,102.3186691997091,included_game_day
+2020,356,Illinois Fighting Illini,2020-01-11,102.84409308509132,included_game_day
+2020,356,Illinois Fighting Illini,2020-01-18,95.17039250099278,included_game_day
+2020,356,Illinois Fighting Illini,2020-01-21,116.60276012718404,included_game_day
+2020,356,Illinois Fighting Illini,2020-01-25,118.27626544723095,included_game_day
+2020,356,Illinois Fighting Illini,2020-01-30,120.16640969892397,included_game_day
+2020,356,Illinois Fighting Illini,2020-02-02,115.6662017024772,included_game_day
+2020,356,Illinois Fighting Illini,2020-02-07,104.53048238234484,included_game_day
+2020,356,Illinois Fighting Illini,2020-02-11,103.80752261508906,included_game_day
+2020,356,Illinois Fighting Illini,2020-02-15,90.1908409545832,included_game_day
+2020,356,Illinois Fighting Illini,2020-02-18,104.82404883586993,included_game_day
+2020,356,Illinois Fighting Illini,2020-02-24,101.72030139644585,included_game_day
+2020,356,Illinois Fighting Illini,2020-02-27,100.67199283488986,included_game_day
+2020,356,Illinois Fighting Illini,2020-03-01,96.84805617858389,included_game_day
+2020,356,Illinois Fighting Illini,2020-03-05,95.47555225602429,included_game_day
+2020,356,Illinois Fighting Illini,2020-03-08,94.35167579581025,included_game_day
+2021,356,Illinois Fighting Illini,2020-11-25,59.0,included_game_day
+2021,356,Illinois Fighting Illini,2020-11-26,106.8,included_game_day
+2021,356,Illinois Fighting Illini,2020-11-27,98.1,included_game_day
+2021,356,Illinois Fighting Illini,2020-12-02,81.38999999999999,included_game_day
+2021,356,Illinois Fighting Illini,2020-12-08,93.07629999999999,included_game_day
+2021,356,Illinois Fighting Illini,2020-12-12,88.139591,included_game_day
+2021,356,Illinois Fighting Illini,2020-12-15,108.52176453,included_game_day
+2021,356,Illinois Fighting Illini,2020-12-20,104.52699297699999,included_game_day
+2021,356,Illinois Fighting Illini,2020-12-23,117.4873845553,included_game_day
+2021,356,Illinois Fighting Illini,2020-12-26,117.37145222417,included_game_day
+2021,356,Illinois Fighting Illini,2021-01-02,114.879171533806,included_game_day
+2021,356,Illinois Fighting Illini,2021-01-07,136.10957227484568,included_game_day
+2021,356,Illinois Fighting Illini,2021-01-10,119.20672851593733,included_game_day
+2021,356,Illinois Fighting Illini,2021-01-16,106.91032075343111,included_game_day
+2021,356,Illinois Fighting Illini,2021-01-19,109.67608541830069,included_game_day
+2021,356,Illinois Fighting Illini,2021-01-29,113.46823725075934,included_game_day
+2021,356,Illinois Fighting Illini,2021-02-02,114.83070600140766,included_game_day
+2021,356,Illinois Fighting Illini,2021-02-06,123.55418191072093,included_game_day
+2021,356,Illinois Fighting Illini,2021-02-12,114.22735189942368,included_game_day
+2021,356,Illinois Fighting Illini,2021-02-16,106.80357814323976,included_game_day
+2021,356,Illinois Fighting Illini,2021-02-20,133.59858199890593,included_game_day
+2021,356,Illinois Fighting Illini,2021-02-23,115.09992779583015,included_game_day
+2021,356,Illinois Fighting Illini,2021-02-25,112.79757068380944,included_game_day
+2021,356,Illinois Fighting Illini,2021-02-27,117.05219433163099,included_game_day
+2021,356,Illinois Fighting Illini,2021-03-02,148.45076467188406,included_game_day
+2021,356,Illinois Fighting Illini,2021-03-06,150.9239433722543,included_game_day
+2021,356,Illinois Fighting Illini,2021-03-12,162.5288639010583,included_game_day
+2021,356,Illinois Fighting Illini,2021-03-13,171.97634636028033,included_game_day
+2021,356,Illinois Fighting Illini,2021-03-14,167.6754632499063,included_game_day
+2021,356,Illinois Fighting Illini,2021-03-19,183.849679262989,included_game_day
+2021,356,Illinois Fighting Illini,2021-03-21,166.29747661546182,included_game_day
+2022,356,Illinois Fighting Illini,2021-11-09,21.0,included_game_day
+2022,356,Illinois Fighting Illini,2021-11-12,54.9,included_game_day
+2022,356,Illinois Fighting Illini,2021-11-15,52.33,included_game_day
+2022,356,Illinois Fighting Illini,2021-11-22,33.4146,included_game_day
+2022,356,Illinois Fighting Illini,2021-11-23,39.18494,included_game_day
+2022,356,Illinois Fighting Illini,2021-11-26,38.221818,included_game_day
+2022,356,Illinois Fighting Illini,2021-11-29,42.14867452,included_game_day
+2022,356,Illinois Fighting Illini,2021-12-03,72.13147549045,included_game_day
+2022,356,Illinois Fighting Illini,2021-12-06,83.80243774908,included_game_day
+2022,356,Illinois Fighting Illini,2021-12-11,86.36770569238,included_game_day
+2022,356,Illinois Fighting Illini,2021-12-18,133.11045013100892,included_game_day
+2022,356,Illinois Fighting Illini,2021-12-22,142.39398234696384,included_game_day
+2022,356,Illinois Fighting Illini,2022-01-04,160.18987706945637,included_game_day
+2022,356,Illinois Fighting Illini,2022-01-06,157.51862684899547,included_game_day
+2022,356,Illinois Fighting Illini,2022-01-11,150.42154913350788,included_game_day
+2022,356,Illinois Fighting Illini,2022-01-14,153.11351397427066,included_game_day
+2022,356,Illinois Fighting Illini,2022-01-17,139.6026871969923,included_game_day
+2022,356,Illinois Fighting Illini,2022-01-21,115.25138059404361,included_game_day
+2022,356,Illinois Fighting Illini,2022-01-25,111.54126540769977,included_game_day
+2022,356,Illinois Fighting Illini,2022-01-29,111.2901434712812,included_game_day
+2022,356,Illinois Fighting Illini,2022-02-02,117.44157673472907,included_game_day
+2022,356,Illinois Fighting Illini,2022-02-05,135.76876434939186,included_game_day
+2022,356,Illinois Fighting Illini,2022-02-08,124.24029044666008,included_game_day
+2022,356,Illinois Fighting Illini,2022-02-13,123.08567099950979,included_game_day
+2022,356,Illinois Fighting Illini,2022-02-16,111.13472713510981,included_game_day
+2022,356,Illinois Fighting Illini,2022-02-19,116.03173996705296,included_game_day
+2022,356,Illinois Fighting Illini,2022-02-24,110.02325986829204,included_game_day
+2022,356,Illinois Fighting Illini,2022-02-27,119.4674694863519,included_game_day
+2022,356,Illinois Fighting Illini,2022-03-03,111.62129311737101,included_game_day
+2022,356,Illinois Fighting Illini,2022-03-06,115.5357804405272,included_game_day
+2022,356,Illinois Fighting Illini,2022-03-11,109.39681713820079,included_game_day
+2022,356,Illinois Fighting Illini,2022-03-18,106.65569116980403,included_game_day
+2022,356,Illinois Fighting Illini,2022-03-20,100.53830867432956,included_game_day
+2023,356,Illinois Fighting Illini,2022-11-07,27.0,included_game_day
+2023,356,Illinois Fighting Illini,2022-11-11,58.5,included_game_day
+2023,356,Illinois Fighting Illini,2022-11-14,81.18,included_game_day
+2023,356,Illinois Fighting Illini,2022-11-18,88.59800000000001,included_game_day
+2023,356,Illinois Fighting Illini,2022-11-20,76.79030000000002,included_game_day
+2023,356,Illinois Fighting Illini,2022-11-25,96.80994400000002,included_game_day
+2023,356,Illinois Fighting Illini,2022-11-29,114.81544086000001,included_game_day
+2023,356,Illinois Fighting Illini,2022-12-02,111.80551267400001,included_game_day
+2023,356,Illinois Fighting Illini,2022-12-06,118.5459634566,included_game_day
+2023,356,Illinois Fighting Illini,2022-12-10,92.20063991891001,included_game_day
+2023,356,Illinois Fighting Illini,2022-12-17,96.41947632678101,included_game_day
+2023,356,Illinois Fighting Illini,2022-12-22,71.23542462031389,included_game_day
+2023,356,Illinois Fighting Illini,2022-12-29,83.0455279162073,included_game_day
+2023,356,Illinois Fighting Illini,2023-01-04,71.82054142141732,included_game_day
+2023,356,Illinois Fighting Illini,2023-01-07,77.09389949136785,included_game_day
+2023,356,Illinois Fighting Illini,2023-01-10,102.09020061265346,included_game_day
+2023,356,Illinois Fighting Illini,2023-01-13,104.74957121663986,included_game_day
+2023,356,Illinois Fighting Illini,2023-01-16,115.20433624125903,included_game_day
+2023,356,Illinois Fighting Illini,2023-01-19,92.98762398962003,included_game_day
+2023,356,Illinois Fighting Illini,2023-01-24,99.77687908671986,included_game_day
+2023,356,Illinois Fighting Illini,2023-01-28,105.45402274232845,included_game_day
+2023,356,Illinois Fighting Illini,2023-01-31,107.26667155574239,included_game_day
+2023,356,Illinois Fighting Illini,2023-02-04,107.88858244142409,included_game_day
+2023,356,Illinois Fighting Illini,2023-02-11,114.89136051800492,included_game_day
+2023,356,Illinois Fighting Illini,2023-02-14,98.97873556167907,included_game_day
+2023,356,Illinois Fighting Illini,2023-02-18,100.12957464260684,included_game_day
+2023,356,Illinois Fighting Illini,2023-02-20,90.2483601275814,included_game_day
+2023,356,Illinois Fighting Illini,2023-02-23,92.22938194037879,included_game_day
+2023,356,Illinois Fighting Illini,2023-02-26,74.73588208053292,included_game_day
+2023,356,Illinois Fighting Illini,2023-03-02,78.21174239730749,included_game_day
+2023,356,Illinois Fighting Illini,2023-03-05,80.37406310722955,included_game_day
+2023,356,Illinois Fighting Illini,2023-03-09,76.07514535595284,included_game_day
+2023,356,Illinois Fighting Illini,2023-03-16,68.81435976210578,included_game_day
+2024,356,Illinois Fighting Illini,2023-11-06,25.0,included_game_day
+2024,356,Illinois Fighting Illini,2023-11-10,30.2,included_game_day
+2024,356,Illinois Fighting Illini,2023-11-14,21.59,included_game_day
+2024,356,Illinois Fighting Illini,2023-11-17,38.081,included_game_day
+2024,356,Illinois Fighting Illini,2023-11-19,54.9994,included_game_day
+2024,356,Illinois Fighting Illini,2023-11-24,74.6482,included_game_day
+2024,356,Illinois Fighting Illini,2023-12-02,94.94833,included_game_day
+2024,356,Illinois Fighting Illini,2023-12-05,105.376400837346,included_game_day
+2024,356,Illinois Fighting Illini,2023-12-09,98.1388184723114,included_game_day
+2024,356,Illinois Fighting Illini,2023-12-17,104.16605622667026,included_game_day
+2024,356,Illinois Fighting Illini,2023-12-22,121.36442843221465,included_game_day
+2024,356,Illinois Fighting Illini,2023-12-29,132.2550433280973,included_game_day
+2024,356,Illinois Fighting Illini,2024-01-02,151.94020891366822,included_game_day
+2024,356,Illinois Fighting Illini,2024-01-05,150.41993626323864,included_game_day
+2024,356,Illinois Fighting Illini,2024-01-11,147.9739512199998,included_game_day
+2024,356,Illinois Fighting Illini,2024-01-14,126.54925728497469,included_game_day
+2024,356,Illinois Fighting Illini,2024-01-18,134.88815182317066,included_game_day
+2024,356,Illinois Fighting Illini,2024-01-21,144.74684596818565,included_game_day
+2024,356,Illinois Fighting Illini,2024-01-24,134.57258126169577,included_game_day
+2024,356,Illinois Fighting Illini,2024-01-27,128.54408297004355,included_game_day
+2024,356,Illinois Fighting Illini,2024-01-30,134.56336491219986,included_game_day
+2024,356,Illinois Fighting Illini,2024-02-04,128.38663066282822,included_game_day
+2024,356,Illinois Fighting Illini,2024-02-10,122.67431798844999,included_game_day
+2024,356,Illinois Fighting Illini,2024-02-13,135.28167868981504,included_game_day
+2024,356,Illinois Fighting Illini,2024-02-17,138.23384358868307,included_game_day
+2024,356,Illinois Fighting Illini,2024-02-21,130.87148420519205,included_game_day
+2024,356,Illinois Fighting Illini,2024-02-24,132.46143151504373,included_game_day
+2024,356,Illinois Fighting Illini,2024-02-28,131.99610935866957,included_game_day
+2024,356,Illinois Fighting Illini,2024-03-02,136.42719763914954,included_game_day
+2024,356,Illinois Fighting Illini,2024-03-05,129.8929122268688,included_game_day
+2024,356,Illinois Fighting Illini,2024-03-10,141.03601195668705,included_game_day
+2024,356,Illinois Fighting Illini,2024-03-15,141.12937035449153,included_game_day
+2024,356,Illinois Fighting Illini,2024-03-16,151.38699289240094,included_game_day
+2024,356,Illinois Fighting Illini,2024-03-17,154.20026781061108,included_game_day
+2024,356,Illinois Fighting Illini,2024-03-21,161.14925067094038,included_game_day
+2024,356,Illinois Fighting Illini,2024-03-23,179.88419370280621,included_game_day
+2024,356,Illinois Fighting Illini,2024-03-28,185.95198726502065,included_game_day
+2024,356,Illinois Fighting Illini,2024-03-30,168.43464604384368,included_game_day
+2025,356,Illinois Fighting Illini,2024-11-04,42.0,included_game_day
+2025,356,Illinois Fighting Illini,2024-11-08,65.2,included_game_day
+2025,356,Illinois Fighting Illini,2024-11-13,63.58,included_game_day
+2025,356,Illinois Fighting Illini,2024-11-20,48.7129,included_game_day
+2025,356,Illinois Fighting Illini,2024-11-23,82.63799,included_game_day
+2025,356,Illinois Fighting Illini,2024-11-25,130.1961263,included_game_day
+2025,356,Illinois Fighting Illini,2024-11-28,140.0139287,included_game_day
+2025,356,Illinois Fighting Illini,2024-12-06,129.70496223240002,included_game_day
+2025,356,Illinois Fighting Illini,2024-12-10,126.44397168365602,included_game_day
+2025,356,Illinois Fighting Illini,2024-12-14,124.09077527744502,included_game_day
+2025,356,Illinois Fighting Illini,2024-12-22,126.63201763400745,included_game_day
+2025,356,Illinois Fighting Illini,2024-12-29,148.87941454834936,included_game_day
+2025,356,Illinois Fighting Illini,2025-01-02,180.8188335518885,included_game_day
+2025,356,Illinois Fighting Illini,2025-01-05,174.13332447791336,included_game_day
+2025,356,Illinois Fighting Illini,2025-01-08,203.73258141028617,included_game_day
+2025,356,Illinois Fighting Illini,2025-01-11,176.36344490980028,included_game_day
+2025,356,Illinois Fighting Illini,2025-01-14,193.4444006466403,included_game_day
+2025,356,Illinois Fighting Illini,2025-01-19,190.3834844556695,included_game_day
+2025,356,Illinois Fighting Illini,2025-01-23,159.92619353428623,included_game_day
+2025,356,Illinois Fighting Illini,2025-01-26,159.04531441526285,included_game_day
+2025,356,Illinois Fighting Illini,2025-01-30,145.0655819130782,included_game_day
+2025,356,Illinois Fighting Illini,2025-02-02,148.65734099624177,included_game_day
+2025,356,Illinois Fighting Illini,2025-02-05,133.87712582017355,included_game_day
+2025,356,Illinois Fighting Illini,2025-02-08,149.33145175249368,included_game_day
+2025,356,Illinois Fighting Illini,2025-02-11,151.38609175396684,included_game_day
+2025,356,Illinois Fighting Illini,2025-02-15,132.89022994197364,included_game_day
+2025,356,Illinois Fighting Illini,2025-02-18,118.70966180950589,included_game_day
+2025,356,Illinois Fighting Illini,2025-02-22,85.41259801190961,included_game_day
+2025,356,Illinois Fighting Illini,2025-02-25,99.254646571141,included_game_day
+2025,356,Illinois Fighting Illini,2025-03-02,123.58165514852585,included_game_day
+2025,356,Illinois Fighting Illini,2025-03-07,131.77106582973252,included_game_day
+2025,356,Illinois Fighting Illini,2025-03-13,137.92991564744807,included_game_day
+2025,356,Illinois Fighting Illini,2025-03-14,118.19787523581066,included_game_day
+2025,356,Illinois Fighting Illini,2025-03-21,131.88036507346234,included_game_day
+2025,356,Illinois Fighting Illini,2025-03-23,124.39867642684389,included_game_day
+2026,356,Illinois Fighting Illini,2025-11-03,55.0,included_game_day
+2026,356,Illinois Fighting Illini,2025-11-07,89.5,included_game_day
+2026,356,Illinois Fighting Illini,2025-11-11,86.5,included_game_day
+2026,356,Illinois Fighting Illini,2025-11-14,92.952,included_game_day
+2026,356,Illinois Fighting Illini,2025-11-19,82.2238,included_game_day
+2026,356,Illinois Fighting Illini,2025-11-22,109.448002,included_game_day
+2026,356,Illinois Fighting Illini,2025-11-24,108.6667718,included_game_day
+2026,356,Illinois Fighting Illini,2025-11-28,93.85394162,included_game_day
+2026,356,Illinois Fighting Illini,2025-12-06,107.5336006698,included_game_day
+2026,356,Illinois Fighting Illini,2025-12-09,118.34260231850999,included_game_day
+2026,356,Illinois Fighting Illini,2025-12-13,111.5509582767693,included_game_day
+2026,356,Illinois Fighting Illini,2025-12-22,151.65185318142676,included_game_day
+2026,356,Illinois Fighting Illini,2025-12-29,160.92515349806328,included_game_day
+2026,356,Illinois Fighting Illini,2026-01-03,155.9421571904891,included_game_day
+2026,356,Illinois Fighting Illini,2026-01-08,161.97299897774286,included_game_day
+2026,356,Illinois Fighting Illini,2026-01-11,170.27217012401076,included_game_day
+2026,356,Illinois Fighting Illini,2026-01-14,173.41643811935333,included_game_day
+2026,356,Illinois Fighting Illini,2026-01-17,169.23671298511866,included_game_day
+2026,356,Illinois Fighting Illini,2026-01-21,169.44953468003473,included_game_day
+2026,356,Illinois Fighting Illini,2026-01-24,177.56694674557093,included_game_day
+2026,356,Illinois Fighting Illini,2026-01-29,174.67564795564587,included_game_day
+2026,356,Illinois Fighting Illini,2026-02-01,187.82380764558368,included_game_day
+2026,356,Illinois Fighting Illini,2026-02-04,211.4597085527639,included_game_day
+2026,356,Illinois Fighting Illini,2026-02-07,206.87423592734794,included_game_day
+2026,356,Illinois Fighting Illini,2026-02-10,192.1384772154596,included_game_day
+2026,356,Illinois Fighting Illini,2026-02-15,201.51151424558293,included_game_day
+2026,356,Illinois Fighting Illini,2026-02-18,227.10299928819094,included_game_day
+2026,356,Illinois Fighting Illini,2026-02-21,215.5739030195276,included_game_day
+2026,356,Illinois Fighting Illini,2026-02-27,201.4325665195995,included_game_day
+2026,356,Illinois Fighting Illini,2026-03-03,207.94382622728705,included_game_day
+2026,356,Illinois Fighting Illini,2026-03-08,194.6369306367388,included_game_day
+2026,356,Illinois Fighting Illini,2026-03-13,187.09352314027163,included_game_day
+2026,356,Illinois Fighting Illini,2026-03-19,208.40205115532086,included_game_day
+2026,356,Illinois Fighting Illini,2026-03-21,220.96905397155646,included_game_day
+2026,356,Illinois Fighting Illini,2026-03-26,233.14521726712334,included_game_day
+2026,356,Illinois Fighting Illini,2026-03-28,235.9582428303107,included_game_day
+2026,356,Illinois Fighting Illini,2026-04-04,221.08841331579558,included_game_day
+2027,356,Illinois Fighting Illini,2026-11-02,72.0,included_game_day
+2027,356,Illinois Fighting Illini,2026-11-05,103.8,included_game_day
+2027,356,Illinois Fighting Illini,2026-11-10,94.62,included_game_day
+2027,356,Illinois Fighting Illini,2026-11-13,102.968,included_game_day
+2027,356,Illinois Fighting Illini,2026-11-17,127.27296000000001,included_game_day
+2027,356,Illinois Fighting Illini,2026-11-20,162.12649800000003,included_game_day
+2027,356,Illinois Fighting Illini,2026-11-23,188.64871510000003,included_game_day

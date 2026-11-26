@@ -1,0 +1,1193 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,264,Washington,1987-11-27,-11.0,included_game_day
+1988,264,Washington,1987-11-30,-34.0,included_game_day
+1988,264,Washington,1987-12-02,-18.4,included_game_day
+1988,264,Washington,1987-12-05,-7.128649999999999,included_game_day
+1988,264,Washington,1987-12-07,-3.5427849999999985,included_game_day
+1988,264,Washington,1987-12-18,-17.2082400264,included_game_day
+1988,264,Washington,1987-12-20,-46.39883537863,included_game_day
+1988,264,Washington,1987-12-22,-52.754287309466996,included_game_day
+1988,264,Washington,1987-12-28,-58.5130019733503,included_game_day
+1988,264,Washington,1987-12-29,-48.15992048564527,included_game_day
+1988,264,Washington,1988-01-04,-52.11599363260335,included_game_day
+1988,264,Washington,1988-01-09,-59.739485863637846,included_game_day
+1988,264,Washington,1988-01-14,-63.85624519245097,included_game_day
+1988,264,Washington,1988-01-16,-62.8020516269666,included_game_day
+1988,264,Washington,1988-01-21,-50.94919114599219,included_game_day
+1988,264,Washington,1988-01-25,-32.978319394537124,included_game_day
+1988,264,Washington,1988-01-30,-26.560275990644094,included_game_day
+1988,264,Washington,1988-02-01,-29.945837388171263,included_game_day
+1988,264,Washington,1988-02-06,-34.21476352727093,included_game_day
+1988,264,Washington,1988-02-11,-43.17974382885227,included_game_day
+1988,264,Washington,1988-02-13,-32.27137431533187,included_game_day
+1988,264,Washington,1988-02-18,-29.97469146942258,included_game_day
+1988,264,Washington,1988-02-20,-30.011924030826773,included_game_day
+1988,264,Washington,1988-02-25,-33.163927538972004,included_game_day
+1988,264,Washington,1988-02-28,-17.349698056442126,included_game_day
+1988,264,Washington,1988-03-03,-11.403161274605733,included_game_day
+1988,264,Washington,1988-03-05,-3.816587505472672,included_game_day
+1988,264,Washington,1988-03-10,6.492836571024885,included_game_day
+1988,264,Washington,1988-03-11,-6.587613054197222,included_game_day
+1989,264,Washington,1988-11-27,6.6,included_game_day
+1989,264,Washington,1988-11-30,0.9399999999999995,included_game_day
+1989,264,Washington,1988-12-04,-5.4972,included_game_day
+1989,264,Washington,1988-12-06,2.9507199999999996,included_game_day
+1989,264,Washington,1988-12-17,4.6432326204165,included_game_day
+1989,264,Washington,1988-12-20,-43.239146142775155,included_game_day
+1989,264,Washington,1988-12-22,-64.13220026673264,included_game_day
+1989,264,Washington,1988-12-28,-73.38914151438674,included_game_day
+1989,264,Washington,1988-12-29,-71.03495963765998,included_game_day
+1989,264,Washington,1989-01-03,-78.95416015557785,included_game_day
+1989,264,Washington,1989-01-07,-58.203856275841645,included_game_day
+1989,264,Washington,1989-01-12,-42.55849628730623,included_game_day
+1989,264,Washington,1989-01-15,-30.073529930545167,included_game_day
+1989,264,Washington,1989-01-19,-15.734969373778236,included_game_day
+1989,264,Washington,1989-01-21,-12.030090106180253,included_game_day
+1989,264,Washington,1989-01-26,-4.487851875678854,included_game_day
+1989,264,Washington,1989-01-30,6.911124741291267,included_game_day
+1989,264,Washington,1989-02-02,6.345832264900407,included_game_day
+1989,264,Washington,1989-02-05,6.172098483689856,included_game_day
+1989,264,Washington,1989-02-09,2.7757653442356833,included_game_day
+1989,264,Washington,1989-02-12,11.82630166565465,included_game_day
+1989,264,Washington,1989-02-16,14.239189635873515,included_game_day
+1989,264,Washington,1989-02-18,-22.107771274994143,included_game_day
+1989,264,Washington,1989-02-23,-36.35748331856928,included_game_day
+1989,264,Washington,1989-02-25,-23.028126495274506,included_game_day
+1989,264,Washington,1989-02-28,-38.811269958191,included_game_day
+1989,264,Washington,1989-03-02,-28.164984534550747,included_game_day
+1989,264,Washington,1989-03-10,-26.877072468585265,included_game_day
+1990,264,Washington,1989-11-30,-4.9,included_game_day
+1990,264,Washington,1989-12-02,-1.8900000000000001,included_game_day
+1990,264,Washington,1989-12-05,-14.091000000000001,included_game_day
+1990,264,Washington,1989-12-13,-3.864350463000001,included_game_day
+1990,264,Washington,1989-12-20,-10.330759142999998,included_game_day
+1990,264,Washington,1989-12-23,-1.9337605386999996,included_game_day
+1990,264,Washington,1989-12-27,-0.5984627948610002,included_game_day
+1990,264,Washington,1989-12-28,12.6777200940151,included_game_day
+1990,264,Washington,1990-01-04,8.550197004165025,included_game_day
+1990,264,Washington,1990-01-06,-0.7548755065415307,included_game_day
+1990,264,Washington,1990-01-11,12.246057031246686,included_game_day
+1990,264,Washington,1990-01-13,12.274917413154396,included_game_day
+1990,264,Washington,1990-01-15,21.56445490064088,included_game_day
+1990,264,Washington,1990-01-18,10.741779857685964,included_game_day
+1990,264,Washington,1990-01-20,14.168732359525261,included_game_day
+1990,264,Washington,1990-01-27,8.117685552298036,included_game_day
+1990,264,Washington,1990-02-01,6.885543222464444,included_game_day
+1990,264,Washington,1990-02-03,-0.5526810130699245,included_game_day
+1990,264,Washington,1990-02-08,-13.305854225483891,included_game_day
+1990,264,Washington,1990-02-11,-15.325815855182807,included_game_day
+1990,264,Washington,1990-02-15,1.0887384574420018,included_game_day
+1990,264,Washington,1990-02-17,-4.023299188347062,included_game_day
+1990,264,Washington,1990-02-24,-3.449807960587332,included_game_day
+1990,264,Washington,1990-03-01,-5.558680825282226,included_game_day
+1990,264,Washington,1990-03-04,-9.425038661796048,included_game_day
+1990,264,Washington,1990-03-08,-11.682530379965655,included_game_day
+1991,264,Washington,1990-11-24,32.0,included_game_day
+1991,264,Washington,1990-11-27,42.4,included_game_day
+1991,264,Washington,1990-12-08,50.4715442,included_game_day
+1991,264,Washington,1990-12-11,45.11469688,included_game_day
+1991,264,Washington,1990-12-22,53.87541978618363,included_game_day
+1991,264,Washington,1990-12-28,46.501386655751254,included_game_day
+1991,264,Washington,1990-12-29,42.784878024715326,included_game_day
+1991,264,Washington,1991-01-03,62.80454745709249,included_game_day
+1991,264,Washington,1991-01-05,54.85450799137568,included_game_day
+1991,264,Washington,1991-01-10,26.432144758874223,included_game_day
+1991,264,Washington,1991-01-12,26.44072871001541,included_game_day
+1991,264,Washington,1991-01-17,27.1584257375224,included_game_day
+1991,264,Washington,1991-01-19,13.512348031959908,included_game_day
+1991,264,Washington,1991-01-22,9.312790040151892,included_game_day
+1991,264,Washington,1991-01-26,18.209046226862302,included_game_day
+1991,264,Washington,1991-01-31,15.917496318399975,included_game_day
+1991,264,Washington,1991-02-02,0.1604749397683367,included_game_day
+1991,264,Washington,1991-02-07,-19.46151637940767,included_game_day
+1991,264,Washington,1991-02-10,-13.97390289790132,included_game_day
+1991,264,Washington,1991-02-14,-24.108443309891072,included_game_day
+1991,264,Washington,1991-02-16,-16.3903923527099,included_game_day
+1991,264,Washington,1991-02-23,-16.226485818633314,included_game_day
+1991,264,Washington,1991-02-28,7.719878912507674,included_game_day
+1991,264,Washington,1991-03-03,37.02931881053118,included_game_day
+1991,264,Washington,1991-03-07,20.297550204163684,included_game_day
+1991,264,Washington,1991-03-10,21.434013809558262,included_game_day
+1992,264,Washington,1991-11-20,-18.0,included_game_day
+1992,264,Washington,1991-12-06,-0.6000000000000014,included_game_day
+1992,264,Washington,1991-12-07,-15.659635000000002,included_game_day
+1992,264,Washington,1991-12-20,-6.547295991,included_game_day
+1992,264,Washington,1991-12-23,0.04730304405999952,included_game_day
+1992,264,Washington,1992-01-03,-2.5309178640278,included_game_day
+1992,264,Washington,1992-01-11,12.824815243715278,included_game_day
+1992,264,Washington,1992-01-16,23.936969509467676,included_game_day
+1992,264,Washington,1992-01-18,15.404781065351262,included_game_day
+1992,264,Washington,1992-01-23,-4.708565402687899,included_game_day
+1992,264,Washington,1992-01-25,-9.735378611795916,included_game_day
+1992,264,Washington,1992-01-30,-29.03071215521384,included_game_day
+1992,264,Washington,1992-02-02,-27.115145601409864,included_game_day
+1992,264,Washington,1992-02-06,-21.18779866727055,included_game_day
+1992,264,Washington,1992-02-09,-9.257421252604367,included_game_day
+1992,264,Washington,1992-02-10,-14.839514598402626,included_game_day
+1992,264,Washington,1992-02-13,-19.22535275083068,included_game_day
+1992,264,Washington,1992-02-15,-28.118677622222677,included_game_day
+1992,264,Washington,1992-02-20,-20.29301107637089,included_game_day
+1992,264,Washington,1992-02-23,-26.835825113160265,included_game_day
+1992,264,Washington,1992-02-27,-24.766703777879485,included_game_day
+1992,264,Washington,1992-02-29,-17.036112125613364,included_game_day
+1992,264,Washington,1992-03-05,-23.329111335037872,included_game_day
+1992,264,Washington,1992-03-08,-13.413262442670824,included_game_day
+1992,264,Washington,1992-03-14,-19.89971196973127,included_game_day
+1993,264,Washington,1992-12-04,7.0,included_game_day
+1993,264,Washington,1992-12-05,-4.43,included_game_day
+1993,264,Washington,1992-12-08,-8.565999999999999,included_game_day
+1993,264,Washington,1992-12-19,9.6082656,included_game_day
+1993,264,Washington,1992-12-21,9.46126804,included_game_day
+1993,264,Washington,1992-12-28,13.124699585,included_game_day
+1993,264,Washington,1993-01-04,19.117253950201,included_game_day
+1993,264,Washington,1993-01-09,28.857685060017843,included_game_day
+1993,264,Washington,1993-01-14,18.88313944879493,included_game_day
+1993,264,Washington,1993-01-16,14.423466753410176,included_game_day
+1993,264,Washington,1993-01-21,11.322055799675486,included_game_day
+1993,264,Washington,1993-01-23,20.735305103872975,included_game_day
+1993,264,Washington,1993-01-28,14.541408964776009,included_game_day
+1993,264,Washington,1993-01-30,15.443202259228254,included_game_day
+1993,264,Washington,1993-02-04,27.887515533116478,included_game_day
+1993,264,Washington,1993-02-06,28.29922774243836,included_game_day
+1993,264,Washington,1993-02-11,23.06269419868205,included_game_day
+1993,264,Washington,1993-02-13,22.99666812549615,included_game_day
+1993,264,Washington,1993-02-18,2.831757047885283,included_game_day
+1993,264,Washington,1993-02-20,18.07145004404788,included_game_day
+1993,264,Washington,1993-02-25,13.753226762014314,included_game_day
+1993,264,Washington,1993-02-27,15.030074608602474,included_game_day
+1993,264,Washington,1993-03-04,17.16403098523335,included_game_day
+1993,264,Washington,1993-03-06,-7.346436516275585,included_game_day
+1993,264,Washington,1993-03-13,-16.50516518297545,included_game_day
+1994,264,Washington,1993-11-29,-6.3,included_game_day
+1994,264,Washington,1993-12-03,-16.9514,included_game_day
+1994,264,Washington,1993-12-07,-14.950959999999998,included_game_day
+1994,264,Washington,1993-12-18,-33.455557999999996,included_game_day
+1994,264,Washington,1993-12-21,-32.5120060733,included_game_day
+1994,264,Washington,1993-12-23,-26.865387465970002,included_game_day
+1994,264,Washington,1993-12-28,-26.453949719373004,included_game_day
+1994,264,Washington,1993-12-29,-14.300550674465704,included_game_day
+1994,264,Washington,1994-01-02,-22.609767735231497,included_game_day
+1994,264,Washington,1994-01-06,-12.989664951584102,included_game_day
+1994,264,Washington,1994-01-08,-17.06983459156833,included_game_day
+1994,264,Washington,1994-01-13,-20.677456623585662,included_game_day
+1994,264,Washington,1994-01-15,-29.149058586433384,included_game_day
+1994,264,Washington,1994-01-20,-29.565938045807325,included_game_day
+1994,264,Washington,1994-01-22,-26.05353749787568,included_game_day
+1994,264,Washington,1994-01-29,-39.62620057832475,included_game_day
+1994,264,Washington,1994-02-03,-39.632751968363785,included_game_day
+1994,264,Washington,1994-02-05,-11.987413107654,included_game_day
+1994,264,Washington,1994-02-10,0.07721840190081508,included_game_day
+1994,264,Washington,1994-02-12,3.7681356149529344,included_game_day
+1994,264,Washington,1994-02-17,-17.67067689578606,included_game_day
+1994,264,Washington,1994-02-19,-11.783649929495693,included_game_day
+1994,264,Washington,1994-02-26,-25.27101272724763,included_game_day
+1994,264,Washington,1994-03-03,-34.51426362920595,included_game_day
+1994,264,Washington,1994-03-05,-43.53171995524764,included_game_day
+1994,264,Washington,1994-03-10,-37.54606366602687,included_game_day
+1994,264,Washington,1994-03-12,-47.364990605362685,included_game_day
+1995,264,Washington,1994-11-25,13.0,included_game_day
+1995,264,Washington,1994-11-28,3.6999999999999993,included_game_day
+1995,264,Washington,1994-12-17,7.347397249999999,included_game_day
+1995,264,Washington,1994-12-20,-7.171469072000002,included_game_day
+1995,264,Washington,1994-12-22,2.4650331914999972,included_game_day
+1995,264,Washington,1994-12-29,16.26205275635,included_game_day
+1995,264,Washington,1994-12-30,15.825397269853399,included_game_day
+1995,264,Washington,1995-01-02,6.7387659542320595,included_game_day
+1995,264,Washington,1995-01-05,-0.3500750387799165,included_game_day
+1995,264,Washington,1995-01-07,-2.997802365210527,included_game_day
+1995,264,Washington,1995-01-12,-8.08019188081867,included_game_day
+1995,264,Washington,1995-01-14,-16.945733748253854,included_game_day
+1995,264,Washington,1995-01-19,-2.4114331472599417,included_game_day
+1995,264,Washington,1995-01-21,-7.555565858880011,included_game_day
+1995,264,Washington,1995-01-28,2.8589788881101166,included_game_day
+1995,264,Washington,1995-02-02,6.890061261281361,included_game_day
+1995,264,Washington,1995-02-04,-4.117539354448943,included_game_day
+1995,264,Washington,1995-02-09,-1.049084379578347,included_game_day
+1995,264,Washington,1995-02-11,5.289755785034599,included_game_day
+1995,264,Washington,1995-02-16,-8.812025215084255,included_game_day
+1995,264,Washington,1995-02-18,-3.6632685604857063,included_game_day
+1995,264,Washington,1995-02-22,-3.0192786700860896,included_game_day
+1995,264,Washington,1995-02-25,8.042119869241105,included_game_day
+1995,264,Washington,1995-03-02,15.124761377242939,included_game_day
+1995,264,Washington,1995-03-04,14.495304380277325,included_game_day
+1995,264,Washington,1995-03-09,19.87301990056521,included_game_day
+1995,264,Washington,1995-03-11,19.113061522652714,included_game_day
+1996,264,Washington,1995-11-28,19.18,included_game_day
+1996,264,Washington,1995-12-04,25.929,included_game_day
+1996,264,Washington,1995-12-06,24.052799999999998,included_game_day
+1996,264,Washington,1995-12-09,32.247321,included_game_day
+1996,264,Washington,1995-12-16,37.657272606999996,included_game_day
+1996,264,Washington,1995-12-22,45.127188797529996,included_game_day
+1996,264,Washington,1995-12-29,48.77975381777699,included_game_day
+1996,264,Washington,1995-12-30,49.70857493399865,included_game_day
+1996,264,Washington,1996-01-02,49.03936933787978,included_game_day
+1996,264,Washington,1996-01-04,64.79284311192659,included_game_day
+1996,264,Washington,1996-01-06,56.05710720677499,included_game_day
+1996,264,Washington,1996-01-11,39.885312382233245,included_game_day
+1996,264,Washington,1996-01-13,44.40265757630936,included_game_day
+1996,264,Washington,1996-01-21,56.53052547735168,included_game_day
+1996,264,Washington,1996-01-25,60.03879852612663,included_game_day
+1996,264,Washington,1996-01-27,62.0328863863439,included_game_day
+1996,264,Washington,1996-02-01,68.93365053172258,included_game_day
+1996,264,Washington,1996-02-03,53.381049618547586,included_game_day
+1996,264,Washington,1996-02-08,44.12533501373021,included_game_day
+1996,264,Washington,1996-02-10,38.82277868334362,included_game_day
+1996,264,Washington,1996-02-17,32.12674940808775,included_game_day
+1996,264,Washington,1996-02-22,27.05050549428831,included_game_day
+1996,264,Washington,1996-02-24,22.35259668910741,included_game_day
+1996,264,Washington,1996-02-29,25.381744914590918,included_game_day
+1996,264,Washington,1996-03-03,30.512461272289055,included_game_day
+1996,264,Washington,1996-03-07,35.41203309914207,included_game_day
+1996,264,Washington,1996-03-09,33.69301546802676,included_game_day
+1996,264,Washington,1996-03-13,22.218105572649762,included_game_day
+1997,264,Washington,1996-11-26,46.9,included_game_day
+1997,264,Washington,1996-12-03,52.547,included_game_day
+1997,264,Washington,1996-12-05,41.73479999999999,included_game_day
+1997,264,Washington,1996-12-07,45.04731999999999,included_game_day
+1997,264,Washington,1996-12-21,42.58540166799999,included_game_day
+1997,264,Washington,1996-12-23,54.40737914479999,included_game_day
+1997,264,Washington,1996-12-28,69.09220001706979,included_game_day
+1997,264,Washington,1997-01-02,52.00674246745619,included_game_day
+1997,264,Washington,1997-01-04,47.186334379998435,included_game_day
+1997,264,Washington,1997-01-09,43.36675771602029,included_game_day
+1997,264,Washington,1997-01-11,46.09439365719,included_game_day
+1997,264,Washington,1997-01-18,51.452295065481074,included_game_day
+1997,264,Washington,1997-01-23,49.62154827991024,included_game_day
+1997,264,Washington,1997-01-25,28.3887381508948,included_game_day
+1997,264,Washington,1997-01-30,30.397345721986568,included_game_day
+1997,264,Washington,1997-02-02,43.5384916045077,included_game_day
+1997,264,Washington,1997-02-06,38.419260003247686,included_game_day
+1997,264,Washington,1997-02-08,45.36208526369321,included_game_day
+1997,264,Washington,1997-02-10,43.368045012075726,included_game_day
+1997,264,Washington,1997-02-15,58.42281109264132,included_game_day
+1997,264,Washington,1997-02-20,49.839642017200475,included_game_day
+1997,264,Washington,1997-02-22,69.1299556787888,included_game_day
+1997,264,Washington,1997-02-27,65.26191855278005,included_game_day
+1997,264,Washington,1997-03-02,54.315010784092934,included_game_day
+1997,264,Washington,1997-03-06,55.92962680349317,included_game_day
+1997,264,Washington,1997-03-08,64.62572757368721,included_game_day
+1997,264,Washington,1997-03-12,62.49777073883996,included_game_day
+1998,264,Washington,1997-11-23,0.0,included_game_day
+1998,264,Washington,1997-11-25,7.0,included_game_day
+1998,264,Washington,1997-11-29,13.1,included_game_day
+1998,264,Washington,1997-12-03,17.38226,included_game_day
+1998,264,Washington,1997-12-06,10.896522199999998,included_game_day
+1998,264,Washington,1997-12-09,21.85597972,included_game_day
+1998,264,Washington,1997-12-20,32.82829337271349,included_game_day
+1998,264,Washington,1997-12-22,19.87894041248014,included_game_day
+1998,264,Washington,1997-12-30,29.469710001430126,included_game_day
+1998,264,Washington,1998-01-05,34.62228823881544,included_game_day
+1998,264,Washington,1998-01-08,55.5480501538127,included_game_day
+1998,264,Washington,1998-01-10,43.52432712596308,included_game_day
+1998,264,Washington,1998-01-15,53.18483391268559,included_game_day
+1998,264,Washington,1998-01-17,65.14627032965524,included_game_day
+1998,264,Washington,1998-01-22,60.04128981000366,included_game_day
+1998,264,Washington,1998-01-24,65.63500623296135,included_game_day
+1998,264,Washington,1998-01-29,75.12225319976295,included_game_day
+1998,264,Washington,1998-01-31,68.2539834958401,included_game_day
+1998,264,Washington,1998-02-05,54.2451778736855,included_game_day
+1998,264,Washington,1998-02-07,47.60237491013135,included_game_day
+1998,264,Washington,1998-02-12,49.85535501305659,included_game_day
+1998,264,Washington,1998-02-14,45.417617096771465,included_game_day
+1998,264,Washington,1998-02-19,32.92384368126293,included_game_day
+1998,264,Washington,1998-02-21,22.57761855851217,included_game_day
+1998,264,Washington,1998-02-26,36.1117465979542,included_game_day
+1998,264,Washington,1998-03-01,35.85517290339381,included_game_day
+1998,264,Washington,1998-03-07,54.565835287757906,included_game_day
+1998,264,Washington,1998-03-12,66.47858753486915,included_game_day
+1998,264,Washington,1998-03-14,82.17558047985418,included_game_day
+1998,264,Washington,1998-03-19,88.99699713210227,included_game_day
+1999,264,Washington,1998-11-16,3.9,included_game_day
+1999,264,Washington,1998-11-28,15.115654000000001,included_game_day
+1999,264,Washington,1998-11-29,34.2581936,included_game_day
+1999,264,Washington,1998-12-01,22.81610484,included_game_day
+1999,264,Washington,1998-12-05,17.968095356,included_game_day
+1999,264,Washington,1998-12-08,11.7711683916,included_game_day
+1999,264,Washington,1998-12-19,30.82744536384,included_game_day
+1999,264,Washington,1998-12-24,42.33995808525254,included_game_day
+1999,264,Washington,1998-12-30,44.49657802188894,included_game_day
+1999,264,Washington,1999-01-03,46.335977773143604,included_game_day
+1999,264,Washington,1999-01-07,24.433527362269462,included_game_day
+1999,264,Washington,1999-01-09,32.969566698277525,included_game_day
+1999,264,Washington,1999-01-14,55.91620883604479,included_game_day
+1999,264,Washington,1999-01-16,64.08524509118214,included_game_day
+1999,264,Washington,1999-01-21,82.68687495201392,included_game_day
+1999,264,Washington,1999-01-23,90.48193442370042,included_game_day
+1999,264,Washington,1999-01-28,81.82274001787265,included_game_day
+1999,264,Washington,1999-01-31,90.46396171314693,included_game_day
+1999,264,Washington,1999-02-04,95.61858166342833,included_game_day
+1999,264,Washington,1999-02-06,96.72196220946883,included_game_day
+1999,264,Washington,1999-02-11,104.26135153051685,included_game_day
+1999,264,Washington,1999-02-13,90.36494454175595,included_game_day
+1999,264,Washington,1999-02-18,59.94014161956739,included_game_day
+1999,264,Washington,1999-02-20,82.12260172700373,included_game_day
+1999,264,Washington,1999-02-25,69.35550830751266,included_game_day
+1999,264,Washington,1999-02-27,61.33896012340027,included_game_day
+1999,264,Washington,1999-03-06,66.18681809889743,included_game_day
+1999,264,Washington,1999-03-12,68.038957691363,included_game_day
+2000,264,Washington,1999-11-22,15.2,included_game_day
+2000,264,Washington,1999-11-26,-2.2300000000000004,included_game_day
+2000,264,Washington,1999-11-27,-18.318,included_game_day
+2000,264,Washington,1999-12-02,-21.599718000000003,included_game_day
+2000,264,Washington,1999-12-04,-9.422345200000002,included_game_day
+2000,264,Washington,1999-12-13,-15.375485600000003,included_game_day
+2000,264,Washington,1999-12-17,-0.9090200400000032,included_game_day
+2000,264,Washington,1999-12-21,3.7939369921609956,included_game_day
+2000,264,Washington,1999-12-23,19.360604102044995,included_game_day
+2000,264,Washington,1999-12-30,19.08348087831724,included_game_day
+2000,264,Washington,2000-01-02,-3.9501349444716993,included_game_day
+2000,264,Washington,2000-01-06,3.253665886604553,included_game_day
+2000,264,Washington,2000-01-08,10.325566967364134,included_game_day
+2000,264,Washington,2000-01-13,7.1517593347340735,included_game_day
+2000,264,Washington,2000-01-15,12.610419694777374,included_game_day
+2000,264,Washington,2000-01-20,16.53011097379924,included_game_day
+2000,264,Washington,2000-01-23,-5.438550334803239,included_game_day
+2000,264,Washington,2000-01-27,-15.227458356659632,included_game_day
+2000,264,Washington,2000-01-29,-2.271332607430214,included_game_day
+2000,264,Washington,2000-02-05,2.310026690765249,included_game_day
+2000,264,Washington,2000-02-10,1.550188337127321,included_game_day
+2000,264,Washington,2000-02-12,-12.916697523142656,included_game_day
+2000,264,Washington,2000-02-17,-32.42467365278809,included_game_day
+2000,264,Washington,2000-02-19,-6.588672456021957,included_game_day
+2000,264,Washington,2000-02-24,-17.27951227789167,included_game_day
+2000,264,Washington,2000-02-26,-19.167911430738492,included_game_day
+2000,264,Washington,2000-03-04,-21.76618942488291,included_game_day
+2000,264,Washington,2000-03-09,-31.39385615021075,included_game_day
+2000,264,Washington,2000-03-11,-43.20550423238605,included_game_day
+2001,264,Washington,2000-11-21,-15.0,included_game_day
+2001,264,Washington,2000-11-25,-13.61,included_game_day
+2001,264,Washington,2000-11-28,12.229,included_game_day
+2001,264,Washington,2000-11-30,18.853099999999998,included_game_day
+2001,264,Washington,2000-12-02,14.111624999999998,included_game_day
+2001,264,Washington,2000-12-05,8.807285399999998,included_game_day
+2001,264,Washington,2000-12-16,4.168291845899997,included_game_day
+2001,264,Washington,2000-12-21,6.1717289890748965,included_game_day
+2001,264,Washington,2000-12-22,9.485337269797768,included_game_day
+2001,264,Washington,2000-12-28,6.1480593957649905,included_game_day
+2001,264,Washington,2000-12-30,-12.720061800400115,included_game_day
+2001,264,Washington,2001-01-04,-27.72540745809914,included_game_day
+2001,264,Washington,2001-01-06,-40.62798799597512,included_game_day
+2001,264,Washington,2001-01-11,-31.331749053744524,included_game_day
+2001,264,Washington,2001-01-13,-45.35216575714636,included_game_day
+2001,264,Washington,2001-01-18,-30.267672459144993,included_game_day
+2001,264,Washington,2001-01-20,-30.346738425644112,included_game_day
+2001,264,Washington,2001-01-25,-41.10005149607987,included_game_day
+2001,264,Washington,2001-01-27,-45.49591457406401,included_game_day
+2001,264,Washington,2001-02-03,-38.22770108117023,included_game_day
+2001,264,Washington,2001-02-08,-36.210856943927354,included_game_day
+2001,264,Washington,2001-02-10,-56.73921454263986,included_game_day
+2001,264,Washington,2001-02-15,-72.14113012562873,included_game_day
+2001,264,Washington,2001-02-17,-76.66652629257509,included_game_day
+2001,264,Washington,2001-02-22,-74.50855705332864,included_game_day
+2001,264,Washington,2001-02-24,-65.37763047956747,included_game_day
+2001,264,Washington,2001-03-03,-74.70457023287818,included_game_day
+2001,264,Washington,2001-03-08,-92.23148880140755,included_game_day
+2001,264,Washington,2001-03-10,-73.14674573102663,included_game_day
+2002,264,Washington Huskies,2001-11-17,10.7,included_game_day
+2002,264,Washington Huskies,2001-11-24,26.125,included_game_day
+2002,264,Washington Huskies,2001-11-28,36.2205,included_game_day
+2002,264,Washington Huskies,2001-12-01,39.64398,included_game_day
+2002,264,Washington Huskies,2001-12-06,24.9351713,included_game_day
+2002,264,Washington Huskies,2001-12-08,28.7221373,included_game_day
+2002,264,Washington Huskies,2001-12-11,9.70438717,included_game_day
+2002,264,Washington Huskies,2001-12-20,-0.6320332035999989,included_game_day
+2002,264,Washington Huskies,2001-12-27,-18.776628539548998,included_game_day
+2002,264,Washington Huskies,2001-12-29,-12.911517731164615,included_game_day
+2002,264,Washington Huskies,2002-01-04,-17.571058428457587,included_game_day
+2002,264,Washington Huskies,2002-01-06,-22.63552478227637,included_game_day
+2002,264,Washington Huskies,2002-01-10,-4.47234118343048,included_game_day
+2002,264,Washington Huskies,2002-01-12,-8.244311110526176,included_game_day
+2002,264,Washington Huskies,2002-01-17,-8.781912529666416,included_game_day
+2002,264,Washington Huskies,2002-01-19,-38.753817386016216,included_game_day
+2002,264,Washington Huskies,2002-01-24,-19.298323282811452,included_game_day
+2002,264,Washington Huskies,2002-01-26,-34.961779810083975,included_game_day
+2002,264,Washington Huskies,2002-01-31,-36.432657083929676,included_game_day
+2002,264,Washington Huskies,2002-02-07,-30.17276894875373,included_game_day
+2002,264,Washington Huskies,2002-02-09,-27.394488238813928,included_game_day
+2002,264,Washington Huskies,2002-02-14,-41.23843423416645,included_game_day
+2002,264,Washington Huskies,2002-02-16,-16.007532325363705,included_game_day
+2002,264,Washington Huskies,2002-02-21,-9.051117541334687,included_game_day
+2002,264,Washington Huskies,2002-02-23,3.45532904716438,included_game_day
+2002,264,Washington Huskies,2002-02-27,-5.807142284202818,included_game_day
+2002,264,Washington Huskies,2002-03-07,-10.721542746319919,included_game_day
+2003,264,Washington Huskies,2002-11-24,-6.0,included_game_day
+2003,264,Washington Huskies,2002-11-30,-21.491,included_game_day
+2003,264,Washington Huskies,2002-12-02,-22.0053,included_game_day
+2003,264,Washington Huskies,2002-12-05,-12.203269999999998,included_game_day
+2003,264,Washington Huskies,2002-12-07,8.0940615,included_game_day
+2003,264,Washington Huskies,2002-12-14,-1.1681441499999998,included_game_day
+2003,264,Washington Huskies,2002-12-21,28.08813592505,included_game_day
+2003,264,Washington Huskies,2002-12-23,42.704406945645005,included_game_day
+2003,264,Washington Huskies,2002-12-28,47.497957768854505,included_game_day
+2003,264,Washington Huskies,2003-01-02,30.820147397214832,included_game_day
+2003,264,Washington Huskies,2003-01-04,34.5795022790973,included_game_day
+2003,264,Washington Huskies,2003-01-09,7.997703551089838,included_game_day
+2003,264,Washington Huskies,2003-01-11,4.308893717507722,included_game_day
+2003,264,Washington Huskies,2003-01-16,-0.5763774818561789,included_game_day
+2003,264,Washington Huskies,2003-01-18,8.482200541912562,included_game_day
+2003,264,Washington Huskies,2003-01-23,-7.9256071634861875,included_game_day
+2003,264,Washington Huskies,2003-01-25,-23.809980229174126,included_game_day
+2003,264,Washington Huskies,2003-01-31,-15.065938675191028,included_game_day
+2003,264,Washington Huskies,2003-02-06,-3.570750523801859,included_game_day
+2003,264,Washington Huskies,2003-02-08,3.720708846103081,included_game_day
+2003,264,Washington Huskies,2003-02-13,5.003940757135791,included_game_day
+2003,264,Washington Huskies,2003-02-15,10.704564379728554,included_game_day
+2003,264,Washington Huskies,2003-02-20,-1.6648055843562393,included_game_day
+2003,264,Washington Huskies,2003-02-22,15.656817078304512,included_game_day
+2003,264,Washington Huskies,2003-03-01,-11.03762350118401,included_game_day
+2003,264,Washington Huskies,2003-03-06,0.5129279078169873,included_game_day
+2003,264,Washington Huskies,2003-03-08,-8.508100439639483,included_game_day
+2004,264,Washington Huskies,2003-11-21,5.0,included_game_day
+2004,264,Washington Huskies,2003-11-24,14.2,included_game_day
+2004,264,Washington Huskies,2003-11-29,19.968649999999997,included_game_day
+2004,264,Washington Huskies,2003-12-03,-4.6685650000000045,included_game_day
+2004,264,Washington Huskies,2003-12-06,-13.622483500000005,included_game_day
+2004,264,Washington Huskies,2003-12-20,-27.188263693810004,included_game_day
+2004,264,Washington Huskies,2003-12-27,-7.592369678773306,included_game_day
+2004,264,Washington Huskies,2003-12-30,24.704232417850694,included_game_day
+2004,264,Washington Huskies,2004-01-02,13.742467655535254,included_game_day
+2004,264,Washington Huskies,2004-01-04,13.889009042495346,included_game_day
+2004,264,Washington Huskies,2004-01-08,-0.1977042161259881,included_game_day
+2004,264,Washington Huskies,2004-01-10,-2.5657863463748662,included_game_day
+2004,264,Washington Huskies,2004-01-15,-4.733198476639913,included_game_day
+2004,264,Washington Huskies,2004-01-17,3.0931607174660414,included_game_day
+2004,264,Washington Huskies,2004-01-24,17.427592348614397,included_game_day
+2004,264,Washington Huskies,2004-01-29,38.102860065129256,included_game_day
+2004,264,Washington Huskies,2004-01-31,40.05379433928333,included_game_day
+2004,264,Washington Huskies,2004-02-05,50.429841589105145,included_game_day
+2004,264,Washington Huskies,2004-02-07,39.66122281804,included_game_day
+2004,264,Washington Huskies,2004-02-12,46.38508797369336,included_game_day
+2004,264,Washington Huskies,2004-02-14,37.7224744309671,included_game_day
+2004,264,Washington Huskies,2004-02-19,33.78585762708546,included_game_day
+2004,264,Washington Huskies,2004-02-22,42.631561013628264,included_game_day
+2004,264,Washington Huskies,2004-02-26,57.06525553589286,included_game_day
+2004,264,Washington Huskies,2004-02-28,76.42278507318503,included_game_day
+2004,264,Washington Huskies,2004-03-04,85.4300546957696,included_game_day
+2004,264,Washington Huskies,2004-03-06,100.47517152377542,included_game_day
+2004,264,Washington Huskies,2004-03-11,92.84137779683496,included_game_day
+2004,264,Washington Huskies,2004-03-12,94.70490412882017,included_game_day
+2004,264,Washington Huskies,2004-03-13,89.359204109528,included_game_day
+2004,264,Washington Huskies,2004-03-19,85.60017197195694,included_game_day
+2005,264,Washington Huskies,2004-11-25,4.6,included_game_day
+2005,264,Washington Huskies,2004-11-27,12.425139,included_game_day
+2005,264,Washington Huskies,2004-12-01,4.390025100000001,included_game_day
+2005,264,Washington Huskies,2004-12-05,33.04602259,included_game_day
+2005,264,Washington Huskies,2004-12-07,58.353883931,included_game_day
+2005,264,Washington Huskies,2004-12-12,66.4769074179,included_game_day
+2005,264,Washington Huskies,2004-12-19,72.95472939408202,included_game_day
+2005,264,Washington Huskies,2004-12-22,120.31954420915382,included_game_day
+2005,264,Washington Huskies,2004-12-24,156.61990264267934,included_game_day
+2005,264,Washington Huskies,2004-12-31,155.00894583784813,included_game_day
+2005,264,Washington Huskies,2005-01-02,139.30507610427767,included_game_day
+2005,264,Washington Huskies,2005-01-06,156.52210085871215,included_game_day
+2005,264,Washington Huskies,2005-01-08,137.67521168268132,included_game_day
+2005,264,Washington Huskies,2005-01-13,148.21395020031568,included_game_day
+2005,264,Washington Huskies,2005-01-15,171.55965391054167,included_game_day
+2005,264,Washington Huskies,2005-01-23,172.1604736910847,included_game_day
+2005,264,Washington Huskies,2005-01-27,159.53084440772423,included_game_day
+2005,264,Washington Huskies,2005-01-30,161.26744776775615,included_game_day
+2005,264,Washington Huskies,2005-02-03,173.43715393193435,included_game_day
+2005,264,Washington Huskies,2005-02-05,168.7943583852416,included_game_day
+2005,264,Washington Huskies,2005-02-10,163.33671990026593,included_game_day
+2005,264,Washington Huskies,2005-02-13,133.58607551453554,included_game_day
+2005,264,Washington Huskies,2005-02-19,139.33617129664597,included_game_day
+2005,264,Washington Huskies,2005-02-24,133.3412468030157,included_game_day
+2005,264,Washington Huskies,2005-02-26,139.10353287340854,included_game_day
+2005,264,Washington Huskies,2005-03-03,158.66339952191734,included_game_day
+2005,264,Washington Huskies,2005-03-05,141.29887090207706,included_game_day
+2005,264,Washington Huskies,2005-03-10,133.2805915533419,included_game_day
+2005,264,Washington Huskies,2005-03-11,126.75036378597447,included_game_day
+2005,264,Washington Huskies,2005-03-12,141.5904020979515,included_game_day
+2005,264,Washington Huskies,2005-03-17,136.20158435176668,included_game_day
+2005,264,Washington Huskies,2005-03-19,147.70898768503002,included_game_day
+2005,264,Washington Huskies,2005-03-24,133.7579293668684,included_game_day
+2006,264,Washington Huskies,2005-11-13,64.0,included_game_day
+2006,264,Washington Huskies,2005-11-14,90.2,included_game_day
+2006,264,Washington Huskies,2005-11-15,90.86,included_game_day
+2006,264,Washington Huskies,2005-11-19,95.774,included_game_day
+2006,264,Washington Huskies,2005-11-22,105.5966,included_game_day
+2006,264,Washington Huskies,2005-11-25,139.30694,included_game_day
+2006,264,Washington Huskies,2005-12-04,128.9770926,included_game_day
+2006,264,Washington Huskies,2005-12-10,126.45061774,included_game_day
+2006,264,Washington Huskies,2005-12-16,128.940148427,included_game_day
+2006,264,Washington Huskies,2005-12-23,126.749898506193,included_game_day
+2006,264,Washington Huskies,2005-12-29,138.398753003096,included_game_day
+2006,264,Washington Huskies,2005-12-31,131.19743956561243,included_game_day
+2006,264,Washington Huskies,2006-01-02,127.74680200571802,included_game_day
+2006,264,Washington Huskies,2006-01-07,110.77370125739571,included_game_day
+2006,264,Washington Huskies,2006-01-12,117.29497754139067,included_game_day
+2006,264,Washington Huskies,2006-01-14,120.52504695990777,included_game_day
+2006,264,Washington Huskies,2006-01-19,111.50907755831459,included_game_day
+2006,264,Washington Huskies,2006-01-21,121.47425617205899,included_game_day
+2006,264,Washington Huskies,2006-01-26,116.92882336774304,included_game_day
+2006,264,Washington Huskies,2006-01-29,103.73885884076853,included_game_day
+2006,264,Washington Huskies,2006-02-04,87.80667677425572,included_game_day
+2006,264,Washington Huskies,2006-02-09,94.48384015233009,included_game_day
+2006,264,Washington Huskies,2006-02-11,96.80258034671066,included_game_day
+2006,264,Washington Huskies,2006-02-16,97.48575939971882,included_game_day
+2006,264,Washington Huskies,2006-02-18,123.22409332390794,included_game_day
+2006,264,Washington Huskies,2006-02-23,132.16161436620052,included_game_day
+2006,264,Washington Huskies,2006-02-26,134.09617553903956,included_game_day
+2006,264,Washington Huskies,2006-03-02,148.42436678302565,included_game_day
+2006,264,Washington Huskies,2006-03-04,147.41169896297123,included_game_day
+2006,264,Washington Huskies,2006-03-09,124.90920023410197,included_game_day
+2006,264,Washington Huskies,2006-03-16,127.67650717337922,included_game_day
+2006,264,Washington Huskies,2006-03-18,133.17549524263623,included_game_day
+2006,264,Washington Huskies,2006-03-24,132.47078681416903,included_game_day
+2007,264,Washington Huskies,2006-11-12,5.0,included_game_day
+2007,264,Washington Huskies,2006-11-13,26.42,included_game_day
+2007,264,Washington Huskies,2006-11-14,31.82,included_game_day
+2007,264,Washington Huskies,2006-11-19,31.662,included_game_day
+2007,264,Washington Huskies,2006-11-24,31.5258,included_game_day
+2007,264,Washington Huskies,2006-11-29,41.583707000000004,included_game_day
+2007,264,Washington Huskies,2006-12-04,51.9490403395,included_game_day
+2007,264,Washington Huskies,2006-12-09,39.19235259106,included_game_day
+2007,264,Washington Huskies,2006-12-16,62.078517145274,included_game_day
+2007,264,Washington Huskies,2006-12-20,77.9495084794445,included_game_day
+2007,264,Washington Huskies,2006-12-22,95.40130710790498,included_game_day
+2007,264,Washington Huskies,2006-12-28,89.5705106300404,included_game_day
+2007,264,Washington Huskies,2006-12-31,74.0610908581433,included_game_day
+2007,264,Washington Huskies,2007-01-04,66.44782477101296,included_game_day
+2007,264,Washington Huskies,2007-01-06,65.3064248998905,included_game_day
+2007,264,Washington Huskies,2007-01-11,64.82454523314573,included_game_day
+2007,264,Washington Huskies,2007-01-13,57.52916722305056,included_game_day
+2007,264,Washington Huskies,2007-01-20,36.70741475780559,included_game_day
+2007,264,Washington Huskies,2007-01-25,53.51825370568773,included_game_day
+2007,264,Washington Huskies,2007-01-27,61.19034142814109,included_game_day
+2007,264,Washington Huskies,2007-02-01,61.27998839142779,included_game_day
+2007,264,Washington Huskies,2007-02-03,38.248434561466695,included_game_day
+2007,264,Washington Huskies,2007-02-08,41.72489314545903,included_game_day
+2007,264,Washington Huskies,2007-02-11,55.470947906158756,included_game_day
+2007,264,Washington Huskies,2007-02-14,54.734358096394416,included_game_day
+2007,264,Washington Huskies,2007-02-17,62.75209490929818,included_game_day
+2007,264,Washington Huskies,2007-02-22,48.3787725042629,included_game_day
+2007,264,Washington Huskies,2007-02-24,45.692171417868465,included_game_day
+2007,264,Washington Huskies,2007-03-01,63.74289615527387,included_game_day
+2007,264,Washington Huskies,2007-03-03,80.94015910705502,included_game_day
+2007,264,Washington Huskies,2007-03-07,80.40331664964495,included_game_day
+2007,264,Washington Huskies,2007-03-08,75.14673175676077,included_game_day
+2008,264,Washington Huskies,2007-11-13,36.5,included_game_day
+2008,264,Washington Huskies,2007-11-14,42.61,included_game_day
+2008,264,Washington Huskies,2007-11-18,44.854,included_game_day
+2008,264,Washington Huskies,2007-11-21,30.0736,included_game_day
+2008,264,Washington Huskies,2007-11-23,22.145129999999998,included_game_day
+2008,264,Washington Huskies,2007-11-26,26.230717,included_game_day
+2008,264,Washington Huskies,2007-12-01,-1.7555997000000012,included_game_day
+2008,264,Washington Huskies,2007-12-08,6.3442008227199995,included_game_day
+2008,264,Washington Huskies,2007-12-15,3.9073200907479997,included_game_day
+2008,264,Washington Huskies,2007-12-18,19.9676718422536,included_game_day
+2008,264,Washington Huskies,2007-12-22,30.15609869350824,included_game_day
+2008,264,Washington Huskies,2007-12-29,42.012559327113145,included_game_day
+2008,264,Washington Huskies,2007-12-31,55.51702472527131,included_game_day
+2008,264,Washington Huskies,2008-01-05,55.578839806322115,included_game_day
+2008,264,Washington Huskies,2008-01-10,54.40597670529841,included_game_day
+2008,264,Washington Huskies,2008-01-12,42.95370179345707,included_game_day
+2008,264,Washington Huskies,2008-01-17,52.92660908029761,included_game_day
+2008,264,Washington Huskies,2008-01-24,73.36320851055814,included_game_day
+2008,264,Washington Huskies,2008-01-26,64.10995382191354,included_game_day
+2008,264,Washington Huskies,2008-01-31,52.465487118962656,included_game_day
+2008,264,Washington Huskies,2008-02-02,48.672332079941185,included_game_day
+2008,264,Washington Huskies,2008-02-07,36.48399596804076,included_game_day
+2008,264,Washington Huskies,2008-02-10,60.02858282816578,included_game_day
+2008,264,Washington Huskies,2008-02-14,51.98140213020284,included_game_day
+2008,264,Washington Huskies,2008-02-16,84.85936705604709,included_game_day
+2008,264,Washington Huskies,2008-02-21,92.34546338049975,included_game_day
+2008,264,Washington Huskies,2008-02-23,73.26184409414833,included_game_day
+2008,264,Washington Huskies,2008-02-28,79.62775528722136,included_game_day
+2008,264,Washington Huskies,2008-03-01,81.70126678691953,included_game_day
+2008,264,Washington Huskies,2008-03-08,87.02608481031106,included_game_day
+2008,264,Washington Huskies,2008-03-12,81.37009521608128,included_game_day
+2008,264,Washington Huskies,2008-03-19,73.33046567810497,included_game_day
+2009,264,Washington Huskies,2008-11-15,-3.0,included_game_day
+2009,264,Washington Huskies,2008-11-18,9.3,included_game_day
+2009,264,Washington Huskies,2008-11-20,29.970000000000002,included_game_day
+2009,264,Washington Huskies,2008-11-24,12.681000000000001,included_game_day
+2009,264,Washington Huskies,2008-11-25,10.0262,included_game_day
+2009,264,Washington Huskies,2008-11-29,24.360979999999998,included_game_day
+2009,264,Washington Huskies,2008-12-04,40.26972098,included_game_day
+2009,264,Washington Huskies,2008-12-06,63.856127952,included_game_day
+2009,264,Washington Huskies,2008-12-14,57.8832270368,included_game_day
+2009,264,Washington Huskies,2008-12-20,78.97284388190201,included_game_day
+2009,264,Washington Huskies,2008-12-28,88.69881059929064,included_game_day
+2009,264,Washington Huskies,2008-12-30,88.6543967357594,included_game_day
+2009,264,Washington Huskies,2009-01-03,109.49697568663512,included_game_day
+2009,264,Washington Huskies,2009-01-08,104.6060678053919,included_game_day
+2009,264,Washington Huskies,2009-01-10,101.34732343086704,included_game_day
+2009,264,Washington Huskies,2009-01-15,109.28464168224342,included_game_day
+2009,264,Washington Huskies,2009-01-17,126.31370004466213,included_game_day
+2009,264,Washington Huskies,2009-01-22,124.39194740792576,included_game_day
+2009,264,Washington Huskies,2009-01-24,134.48595395233485,included_game_day
+2009,264,Washington Huskies,2009-01-29,121.35199159352341,included_game_day
+2009,264,Washington Huskies,2009-01-31,138.18877665841845,included_game_day
+2009,264,Washington Huskies,2009-02-05,120.19615202109155,included_game_day
+2009,264,Washington Huskies,2009-02-08,124.18260056663424,included_game_day
+2009,264,Washington Huskies,2009-02-12,128.67820788480793,included_game_day
+2009,264,Washington Huskies,2009-02-14,127.45924840523708,included_game_day
+2009,264,Washington Huskies,2009-02-19,124.35673911911165,included_game_day
+2009,264,Washington Huskies,2009-02-21,132.46694926624392,included_game_day
+2009,264,Washington Huskies,2009-02-26,131.98384011683692,included_game_day
+2009,264,Washington Huskies,2009-02-28,130.14642110710676,included_game_day
+2009,264,Washington Huskies,2009-03-03,142.6315268699038,included_game_day
+2009,264,Washington Huskies,2009-03-07,141.72362532607127,included_game_day
+2009,264,Washington Huskies,2009-03-12,146.54543338835688,included_game_day
+2009,264,Washington Huskies,2009-03-13,134.74533746732772,included_game_day
+2009,264,Washington Huskies,2009-03-19,145.26595565034341,included_game_day
+2009,264,Washington Huskies,2009-03-21,141.15257390496404,included_game_day
+2010,264,Washington Huskies,2009-11-13,2.0,included_game_day
+2010,264,Washington Huskies,2009-11-14,17.5,included_game_day
+2010,264,Washington Huskies,2009-11-15,67.6,included_game_day
+2010,264,Washington Huskies,2009-11-20,67.83999999999999,included_game_day
+2010,264,Washington Huskies,2009-11-29,66.1274,included_game_day
+2010,264,Washington Huskies,2009-12-03,62.38740299999999,included_game_day
+2010,264,Washington Huskies,2009-12-06,64.50691397,included_game_day
+2010,264,Washington Huskies,2009-12-12,59.27027286031,included_game_day
+2010,264,Washington Huskies,2009-12-19,87.22820598106901,included_game_day
+2010,264,Washington Huskies,2009-12-22,92.01120395784697,included_game_day
+2010,264,Washington Huskies,2009-12-27,89.93346213703262,included_game_day
+2010,264,Washington Huskies,2009-12-31,86.54881848736406,included_game_day
+2010,264,Washington Huskies,2010-01-02,68.67037126750076,included_game_day
+2010,264,Washington Huskies,2010-01-08,56.10313772065294,included_game_day
+2010,264,Washington Huskies,2010-01-10,37.764453998625385,included_game_day
+2010,264,Washington Huskies,2010-01-14,66.41081275533199,included_game_day
+2010,264,Washington Huskies,2010-01-16,82.84850726386725,included_game_day
+2010,264,Washington Huskies,2010-01-21,76.31814894486558,included_game_day
+2010,264,Washington Huskies,2010-01-23,52.53708415644524,included_game_day
+2010,264,Washington Huskies,2010-01-26,89.48039072044057,included_game_day
+2010,264,Washington Huskies,2010-01-30,109.16579782886842,included_game_day
+2010,264,Washington Huskies,2010-02-04,109.21604392007893,included_game_day
+2010,264,Washington Huskies,2010-02-06,128.47334614681915,included_game_day
+2010,264,Washington Huskies,2010-02-11,117.86817560892038,included_game_day
+2010,264,Washington Huskies,2010-02-13,128.23656761719127,included_game_day
+2010,264,Washington Huskies,2010-02-18,115.45974612452613,included_game_day
+2010,264,Washington Huskies,2010-02-20,134.2348806712712,included_game_day
+2010,264,Washington Huskies,2010-02-27,132.05002342288327,included_game_day
+2010,264,Washington Huskies,2010-03-04,136.23269033315003,included_game_day
+2010,264,Washington Huskies,2010-03-06,140.96366290823576,included_game_day
+2010,264,Washington Huskies,2010-03-11,136.74844096830435,included_game_day
+2010,264,Washington Huskies,2010-03-12,141.65674935932202,included_game_day
+2010,264,Washington Huskies,2010-03-13,145.505953664195,included_game_day
+2010,264,Washington Huskies,2010-03-18,143.59237535105243,included_game_day
+2010,264,Washington Huskies,2010-03-20,156.56162781987175,included_game_day
+2010,264,Washington Huskies,2010-03-25,144.7565520381047,included_game_day
+2011,264,Washington Huskies,2010-11-13,51.0,included_game_day
+2011,264,Washington Huskies,2010-11-16,67.9,included_game_day
+2011,264,Washington Huskies,2010-11-23,94.51760000000002,included_game_day
+2011,264,Washington Huskies,2010-11-24,82.96644000000002,included_game_day
+2011,264,Washington Huskies,2010-11-30,97.24842801000001,included_game_day
+2011,264,Washington Huskies,2010-12-04,115.19773940900001,included_game_day
+2011,264,Washington Huskies,2010-12-06,125.27490391820001,included_game_day
+2011,264,Washington Huskies,2010-12-11,122.56036174906401,included_game_day
+2011,264,Washington Huskies,2010-12-18,133.53707899426962,included_game_day
+2011,264,Washington Huskies,2010-12-22,145.53805502126835,included_game_day
+2011,264,Washington Huskies,2010-12-29,148.36543065038882,included_game_day
+2011,264,Washington Huskies,2010-12-31,153.6711304651966,included_game_day
+2011,264,Washington Huskies,2011-01-06,151.7754652622607,included_game_day
+2011,264,Washington Huskies,2011-01-08,166.77698730728446,included_game_day
+2011,264,Washington Huskies,2011-01-13,155.73559356305395,included_game_day
+2011,264,Washington Huskies,2011-01-16,167.93518220685448,included_game_day
+2011,264,Washington Huskies,2011-01-20,175.9867864908899,included_game_day
+2011,264,Washington Huskies,2011-01-22,168.13662512080336,included_game_day
+2011,264,Washington Huskies,2011-01-30,156.0831595360903,included_game_day
+2011,264,Washington Huskies,2011-02-03,128.85784577983796,included_game_day
+2011,264,Washington Huskies,2011-02-05,118.69604527794222,included_game_day
+2011,264,Washington Huskies,2011-02-10,141.6685358370159,included_game_day
+2011,264,Washington Huskies,2011-02-12,139.98468927882143,included_game_day
+2011,264,Washington Huskies,2011-02-17,146.07969812239932,included_game_day
+2011,264,Washington Huskies,2011-02-19,145.4424061103672,included_game_day
+2011,264,Washington Huskies,2011-02-22,147.1772094330247,included_game_day
+2011,264,Washington Huskies,2011-02-27,123.06262959726048,included_game_day
+2011,264,Washington Huskies,2011-03-03,125.05641027698724,included_game_day
+2011,264,Washington Huskies,2011-03-05,115.29034728352914,included_game_day
+2011,264,Washington Huskies,2011-03-10,112.95701618864004,included_game_day
+2011,264,Washington Huskies,2011-03-11,124.42252721527032,included_game_day
+2011,264,Washington Huskies,2011-03-12,122.99468035033362,included_game_day
+2011,264,Washington Huskies,2011-03-18,121.52296961050683,included_game_day
+2011,264,Washington Huskies,2011-03-20,121.1028041131789,included_game_day
+2012,264,Washington Huskies,2011-11-12,14.0,included_game_day
+2012,264,Washington Huskies,2011-11-13,15.1,included_game_day
+2012,264,Washington Huskies,2011-11-14,41.4,included_game_day
+2012,264,Washington Huskies,2011-11-20,32.25,included_game_day
+2012,264,Washington Huskies,2011-11-25,46.882,included_game_day
+2012,264,Washington Huskies,2011-12-02,41.4214189,included_game_day
+2012,264,Washington Huskies,2011-12-06,48.356611418,included_game_day
+2012,264,Washington Huskies,2011-12-10,44.0742649616,included_game_day
+2012,264,Washington Huskies,2011-12-16,46.458059826959,included_game_day
+2012,264,Washington Huskies,2011-12-18,22.5007452106651,included_game_day
+2012,264,Washington Huskies,2011-12-22,33.88622166460859,included_game_day
+2012,264,Washington Huskies,2011-12-29,52.68275124433262,included_game_day
+2012,264,Washington Huskies,2011-12-31,64.87841115746663,included_game_day
+2012,264,Washington Huskies,2012-01-05,44.98684238943818,included_game_day
+2012,264,Washington Huskies,2012-01-07,35.28530938782308,included_game_day
+2012,264,Washington Huskies,2012-01-10,32.27287217654862,included_game_day
+2012,264,Washington Huskies,2012-01-15,38.44213545008723,included_game_day
+2012,264,Washington Huskies,2012-01-19,40.205020164786006,included_game_day
+2012,264,Washington Huskies,2012-01-21,52.16854263236866,included_game_day
+2012,264,Washington Huskies,2012-01-26,51.9109374825908,included_game_day
+2012,264,Washington Huskies,2012-01-28,61.32168880885073,included_game_day
+2012,264,Washington Huskies,2012-02-02,62.669195487577,included_game_day
+2012,264,Washington Huskies,2012-02-04,77.72193577363103,included_game_day
+2012,264,Washington Huskies,2012-02-09,52.43558941132814,included_game_day
+2012,264,Washington Huskies,2012-02-12,57.04781831388586,included_game_day
+2012,264,Washington Huskies,2012-02-16,50.39499951894512,included_game_day
+2012,264,Washington Huskies,2012-02-18,61.22656423138662,included_game_day
+2012,264,Washington Huskies,2012-02-25,66.14667958296512,included_game_day
+2012,264,Washington Huskies,2012-03-01,78.40428918941454,included_game_day
+2012,264,Washington Huskies,2012-03-03,76.51927730111574,included_game_day
+2012,264,Washington Huskies,2012-03-08,71.21286983159361,included_game_day
+2012,264,Washington Huskies,2012-03-13,75.27807607440542,included_game_day
+2012,264,Washington Huskies,2012-03-16,92.00714327300005,included_game_day
+2012,264,Washington Huskies,2012-03-20,95.35236267958011,included_game_day
+2012,264,Washington Huskies,2012-03-27,95.69271569274895,included_game_day
+2013,264,Washington Huskies,2012-11-11,21.3,included_game_day
+2013,264,Washington Huskies,2012-11-13,13.270000000000001,included_game_day
+2013,264,Washington Huskies,2012-11-17,27.603,included_game_day
+2013,264,Washington Huskies,2012-11-18,16.372700000000002,included_game_day
+2013,264,Washington Huskies,2012-11-24,-4.928719999999998,included_game_day
+2013,264,Washington Huskies,2012-11-29,-0.2532994999999989,included_game_day
+2013,264,Washington Huskies,2012-12-02,1.8185804500000016,included_game_day
+2013,264,Washington Huskies,2012-12-08,-6.3232376008,included_game_day
+2013,264,Washington Huskies,2012-12-13,6.66196102157,included_game_day
+2013,264,Washington Huskies,2012-12-15,0.8808298966109716,included_game_day
+2013,264,Washington Huskies,2012-12-20,8.737406724997303,included_game_day
+2013,264,Washington Huskies,2012-12-22,8.442202967024608,included_game_day
+2013,264,Washington Huskies,2012-12-29,7.576736249468877,included_game_day
+2013,264,Washington Huskies,2013-01-05,20.237159134535762,included_game_day
+2013,264,Washington Huskies,2013-01-09,40.53657464223518,included_game_day
+2013,264,Washington Huskies,2013-01-12,49.26526674591931,included_game_day
+2013,264,Washington Huskies,2013-01-16,57.45221111637383,included_game_day
+2013,264,Washington Huskies,2013-01-19,41.348652805674654,included_game_day
+2013,264,Washington Huskies,2013-01-23,34.77543774731949,included_game_day
+2013,264,Washington Huskies,2013-01-26,41.297946638243424,included_game_day
+2013,264,Washington Huskies,2013-01-31,43.59523928165012,included_game_day
+2013,264,Washington Huskies,2013-02-02,48.617625610419246,included_game_day
+2013,264,Washington Huskies,2013-02-07,51.88038693427011,included_game_day
+2013,264,Washington Huskies,2013-02-10,41.99567908235047,included_game_day
+2013,264,Washington Huskies,2013-02-13,29.117295104091195,included_game_day
+2013,264,Washington Huskies,2013-02-16,37.07090926078504,included_game_day
+2013,264,Washington Huskies,2013-02-20,28.383156255313892,included_game_day
+2013,264,Washington Huskies,2013-02-23,44.769444584527385,included_game_day
+2013,264,Washington Huskies,2013-03-03,42.18939587846849,included_game_day
+2013,264,Washington Huskies,2013-03-06,47.749233513548546,included_game_day
+2013,264,Washington Huskies,2013-03-09,40.620613795388905,included_game_day
+2013,264,Washington Huskies,2013-03-13,43.76938262351121,included_game_day
+2013,264,Washington Huskies,2013-03-14,41.64967536396147,included_game_day
+2013,264,Washington Huskies,2013-03-19,35.30499461357189,included_game_day
+2014,264,Washington Huskies,2013-11-10,7.0,included_game_day
+2014,264,Washington Huskies,2013-11-14,-11.21,included_game_day
+2014,264,Washington Huskies,2013-11-17,-1.0890000000000004,included_game_day
+2014,264,Washington Huskies,2013-11-21,-12.076600000000001,included_game_day
+2014,264,Washington Huskies,2013-11-22,-23.17626,included_game_day
+2014,264,Washington Huskies,2013-11-26,-21.163204,included_game_day
+2014,264,Washington Huskies,2013-11-30,-25.1677404,included_game_day
+2014,264,Washington Huskies,2013-12-08,-20.61589454536,included_game_day
+2014,264,Washington Huskies,2013-12-14,-3.0384739607109985,included_game_day
+2014,264,Washington Huskies,2013-12-17,5.569006027590101,included_game_day
+2014,264,Washington Huskies,2013-12-22,-3.3296705099202093,included_game_day
+2014,264,Washington Huskies,2013-12-27,-0.4408246868981891,included_game_day
+2014,264,Washington Huskies,2013-12-29,0.17137354371009472,included_game_day
+2014,264,Washington Huskies,2014-01-02,24.60526434093517,included_game_day
+2014,264,Washington Huskies,2014-01-04,33.013885180882085,included_game_day
+2014,264,Washington Huskies,2014-01-08,37.72689011228061,included_game_day
+2014,264,Washington Huskies,2014-01-12,56.90982304609132,included_game_day
+2014,264,Washington Huskies,2014-01-15,37.14015765130708,included_game_day
+2014,264,Washington Huskies,2014-01-18,32.99874030911775,included_game_day
+2014,264,Washington Huskies,2014-01-23,37.585532743744174,included_game_day
+2014,264,Washington Huskies,2014-01-25,42.03734862184537,included_game_day
+2014,264,Washington Huskies,2014-02-01,31.24127858967216,included_game_day
+2014,264,Washington Huskies,2014-02-06,30.787564993742052,included_game_day
+2014,264,Washington Huskies,2014-02-09,9.912765990766164,included_game_day
+2014,264,Washington Huskies,2014-02-12,20.34544578834381,included_game_day
+2014,264,Washington Huskies,2014-02-15,9.220693249085599,included_game_day
+2014,264,Washington Huskies,2014-02-19,14.14643123368393,included_game_day
+2014,264,Washington Huskies,2014-02-22,44.20828526005446,included_game_day
+2014,264,Washington Huskies,2014-02-28,56.738214974876314,included_game_day
+2014,264,Washington Huskies,2014-03-06,51.91799551242402,included_game_day
+2014,264,Washington Huskies,2014-03-08,48.63179728182757,included_game_day
+2014,264,Washington Huskies,2014-03-12,48.79650013287806,included_game_day
+2015,264,Washington Huskies,2014-11-14,15.0,included_game_day
+2015,264,Washington Huskies,2014-11-21,32.716,included_game_day
+2015,264,Washington Huskies,2014-11-23,35.394400000000005,included_game_day
+2015,264,Washington Huskies,2014-11-27,51.07996,included_game_day
+2015,264,Washington Huskies,2014-11-28,56.907672,included_game_day
+2015,264,Washington Huskies,2014-11-30,56.314674,included_game_day
+2015,264,Washington Huskies,2014-12-07,66.45672876,included_game_day
+2015,264,Washington Huskies,2014-12-14,67.25898458542001,included_game_day
+2015,264,Washington Huskies,2014-12-17,91.465140566938,included_game_day
+2015,264,Washington Huskies,2014-12-20,94.72239486353061,included_game_day
+2015,264,Washington Huskies,2014-12-22,93.06196371679881,included_game_day
+2015,264,Washington Huskies,2014-12-28,75.35450483499162,included_game_day
+2015,264,Washington Huskies,2015-01-02,69.06308291899317,included_game_day
+2015,264,Washington Huskies,2015-01-04,65.5090706084934,included_game_day
+2015,264,Washington Huskies,2015-01-10,53.60098610052121,included_game_day
+2015,264,Washington Huskies,2015-01-15,64.76326848088189,included_game_day
+2015,264,Washington Huskies,2015-01-18,67.01811900343081,included_game_day
+2015,264,Washington Huskies,2015-01-22,70.0866799879379,included_game_day
+2015,264,Washington Huskies,2015-01-25,60.42228724346084,included_game_day
+2015,264,Washington Huskies,2015-01-28,51.51494804528984,included_game_day
+2015,264,Washington Huskies,2015-02-01,38.678823068063295,included_game_day
+2015,264,Washington Huskies,2015-02-04,37.85855202548866,included_game_day
+2015,264,Washington Huskies,2015-02-08,27.173212303986567,included_game_day
+2015,264,Washington Huskies,2015-02-13,15.63850529970293,included_game_day
+2015,264,Washington Huskies,2015-02-15,8.114185992934392,included_game_day
+2015,264,Washington Huskies,2015-02-22,10.51671308767653,included_game_day
+2015,264,Washington Huskies,2015-02-25,-1.1052955878674915,included_game_day
+2015,264,Washington Huskies,2015-02-28,-13.843508133845235,included_game_day
+2015,264,Washington Huskies,2015-03-05,-31.727754550062492,included_game_day
+2015,264,Washington Huskies,2015-03-07,-5.362602135222595,included_game_day
+2015,264,Washington Huskies,2015-03-11,0.8047683751550387,included_game_day
+2016,264,Washington Huskies,2015-11-13,6.0,included_game_day
+2016,264,Washington Huskies,2015-11-19,31.61,included_game_day
+2016,264,Washington Huskies,2015-11-21,64.15899999999999,included_game_day
+2016,264,Washington Huskies,2015-11-25,48.32299999999999,included_game_day
+2016,264,Washington Huskies,2015-11-26,31.507299999999994,included_game_day
+2016,264,Washington Huskies,2015-11-27,25.942670999999994,included_game_day
+2016,264,Washington Huskies,2015-12-06,41.670297981999994,included_game_day
+2016,264,Washington Huskies,2015-12-08,62.945880311799996,included_game_day
+2016,264,Washington Huskies,2015-12-12,85.25360390282,included_game_day
+2016,264,Washington Huskies,2015-12-19,66.154151756096,included_game_day
+2016,264,Washington Huskies,2015-12-22,64.6659445089735,included_game_day
+2016,264,Washington Huskies,2015-12-28,47.887520999547604,included_game_day
+2016,264,Washington Huskies,2016-01-01,47.13150858462042,included_game_day
+2016,264,Washington Huskies,2016-01-03,52.232115971967744,included_game_day
+2016,264,Washington Huskies,2016-01-09,57.21065962662227,included_game_day
+2016,264,Washington Huskies,2016-01-14,34.99006412241532,included_game_day
+2016,264,Washington Huskies,2016-01-16,43.776781782143814,included_game_day
+2016,264,Washington Huskies,2016-01-20,56.56787351398472,included_game_day
+2016,264,Washington Huskies,2016-01-24,51.599395878888494,included_game_day
+2016,264,Washington Huskies,2016-01-28,55.98671116494447,included_game_day
+2016,264,Washington Huskies,2016-01-30,52.16670232777005,included_game_day
+2016,264,Washington Huskies,2016-02-03,60.79845497218192,included_game_day
+2016,264,Washington Huskies,2016-02-06,61.17494402359657,included_game_day
+2016,264,Washington Huskies,2016-02-10,60.14505789569837,included_game_day
+2016,264,Washington Huskies,2016-02-13,62.35499455286256,included_game_day
+2016,264,Washington Huskies,2016-02-18,61.38370180430284,included_game_day
+2016,264,Washington Huskies,2016-02-20,65.84787076560647,included_game_day
+2016,264,Washington Huskies,2016-02-24,66.38843586132145,included_game_day
+2016,264,Washington Huskies,2016-02-28,60.494372751787466,included_game_day
+2016,264,Washington Huskies,2016-03-02,52.56638257438315,included_game_day
+2016,264,Washington Huskies,2016-03-09,72.68137757803353,included_game_day
+2016,264,Washington Huskies,2016-03-10,72.15236018947803,included_game_day
+2016,264,Washington Huskies,2016-03-15,70.07350200801677,included_game_day
+2016,264,Washington Huskies,2016-03-21,63.031051331187484,included_game_day
+2017,264,Washington Huskies,2016-11-13,-11.0,included_game_day
+2017,264,Washington Huskies,2016-11-17,3.25,included_game_day
+2017,264,Washington Huskies,2016-11-20,32.345,included_game_day
+2017,264,Washington Huskies,2016-11-22,23.5918,included_game_day
+2017,264,Washington Huskies,2016-11-25,61.21169,included_game_day
+2017,264,Washington Huskies,2016-11-26,47.351214,included_game_day
+2017,264,Washington Huskies,2016-11-30,37.2628332,included_game_day
+2017,264,Washington Huskies,2016-12-07,19.287297234100002,included_game_day
+2017,264,Washington Huskies,2016-12-11,17.731814024090003,included_game_day
+2017,264,Washington Huskies,2016-12-18,14.041043689911001,included_game_day
+2017,264,Washington Huskies,2016-12-20,23.06560632698249,included_game_day
+2017,264,Washington Huskies,2016-12-22,41.957072585539656,included_game_day
+2017,264,Washington Huskies,2017-01-01,27.18703838655961,included_game_day
+2017,264,Washington Huskies,2017-01-04,11.264261669503703,included_game_day
+2017,264,Washington Huskies,2017-01-07,28.981055378452357,included_game_day
+2017,264,Washington Huskies,2017-01-12,27.495959462732635,included_game_day
+2017,264,Washington Huskies,2017-01-14,21.10026908366132,included_game_day
+2017,264,Washington Huskies,2017-01-18,20.836852231082293,included_game_day
+2017,264,Washington Huskies,2017-01-21,6.0418363798750665,included_game_day
+2017,264,Washington Huskies,2017-01-25,-1.7878707064494552,included_game_day
+2017,264,Washington Huskies,2017-01-29,5.210857151719425,included_game_day
+2017,264,Washington Huskies,2017-02-01,-0.5262462312731486,included_game_day
+2017,264,Washington Huskies,2017-02-04,-31.84353180152712,included_game_day
+2017,264,Washington Huskies,2017-02-09,-36.7671509928094,included_game_day
+2017,264,Washington Huskies,2017-02-11,-45.47319891883695,included_game_day
+2017,264,Washington Huskies,2017-02-16,-45.24057185168495,included_game_day
+2017,264,Washington Huskies,2017-02-18,-39.920073512022356,included_game_day
+2017,264,Washington Huskies,2017-02-26,-44.27619245285911,included_game_day
+2017,264,Washington Huskies,2017-03-01,-51.853486006317226,included_game_day
+2017,264,Washington Huskies,2017-03-04,-54.19867374658058,included_game_day
+2017,264,Washington Huskies,2017-03-08,-48.07482393879126,included_game_day
+2018,264,Washington Huskies,2017-11-10,1.0,included_game_day
+2018,264,Washington Huskies,2017-11-12,7.9,included_game_day
+2018,264,Washington Huskies,2017-11-16,1.0700000000000003,included_game_day
+2018,264,Washington Huskies,2017-11-17,-17.918,included_game_day
+2018,264,Washington Huskies,2017-11-24,-14.48978,included_game_day
+2018,264,Washington Huskies,2017-11-26,-6.570821999999999,included_game_day
+2018,264,Washington Huskies,2017-11-28,-0.06123479999999848,included_game_day
+2018,264,Washington Huskies,2017-12-03,3.8332572933000035,included_game_day
+2018,264,Washington Huskies,2017-12-06,31.006573579970006,included_game_day
+2018,264,Washington Huskies,2017-12-10,8.255725846853007,included_game_day
+2018,264,Washington Huskies,2017-12-17,6.507893710497706,included_game_day
+2018,264,Washington Huskies,2017-12-19,49.271049247549975,included_game_day
+2018,264,Washington Huskies,2017-12-22,45.71371662937376,included_game_day
+2018,264,Washington Huskies,2017-12-29,58.213235796523065,included_game_day
+2018,264,Washington Huskies,2017-12-31,40.5042574467502,included_game_day
+2018,264,Washington Huskies,2018-01-06,44.2143108123429,included_game_day
+2018,264,Washington Huskies,2018-01-11,42.330468411083125,included_game_day
+2018,264,Washington Huskies,2018-01-13,27.29444204516571,included_game_day
+2018,264,Washington Huskies,2018-01-18,23.19658810082883,included_game_day
+2018,264,Washington Huskies,2018-01-20,38.54507312216937,included_game_day
+2018,264,Washington Huskies,2018-01-28,49.12462044535283,included_game_day
+2018,264,Washington Huskies,2018-02-01,53.26211046808103,included_game_day
+2018,264,Washington Huskies,2018-02-03,60.443465581570045,included_game_day
+2018,264,Washington Huskies,2018-02-08,36.441687139544776,included_game_day
+2018,264,Washington Huskies,2018-02-10,38.036407346961404,included_game_day
+2018,264,Washington Huskies,2018-02-15,27.836819124273028,included_game_day
+2018,264,Washington Huskies,2018-02-17,47.82027279134372,included_game_day
+2018,264,Washington Huskies,2018-02-22,35.1202618149306,included_game_day
+2018,264,Washington Huskies,2018-02-24,45.33781526023368,included_game_day
+2018,264,Washington Huskies,2018-03-01,44.10469634394356,included_game_day
+2018,264,Washington Huskies,2018-03-03,36.09551722823275,included_game_day
+2018,264,Washington Huskies,2018-03-07,36.014089126210585,included_game_day
+2018,264,Washington Huskies,2018-03-14,40.35664066710902,included_game_day
+2018,264,Washington Huskies,2018-03-19,47.353789214895954,included_game_day
+2019,264,Washington Huskies,2018-11-06,15.0,included_game_day
+2019,264,Washington Huskies,2018-11-09,-1.5,included_game_day
+2019,264,Washington Huskies,2018-11-12,1.7399999999999998,included_game_day
+2019,264,Washington Huskies,2018-11-18,12.453000000000001,included_game_day
+2019,264,Washington Huskies,2018-11-20,14.494200000000001,included_game_day
+2019,264,Washington Huskies,2018-11-21,14.815000000000001,included_game_day
+2019,264,Washington Huskies,2018-11-27,28.91382,included_game_day
+2019,264,Washington Huskies,2018-12-02,29.976702314,included_game_day
+2019,264,Washington Huskies,2018-12-05,41.650470911599996,included_game_day
+2019,264,Washington Huskies,2018-12-09,47.092685044839996,included_game_day
+2019,264,Washington Huskies,2018-12-15,44.96442735125599,included_game_day
+2019,264,Washington Huskies,2018-12-21,53.21191986319039,included_game_day
+2019,264,Washington Huskies,2019-01-01,51.15567538103011,included_game_day
+2019,264,Washington Huskies,2019-01-05,62.81987042622434,included_game_day
+2019,264,Washington Huskies,2019-01-10,77.8329615853427,included_game_day
+2019,264,Washington Huskies,2019-01-12,85.39892811758433,included_game_day
+2019,264,Washington Huskies,2019-01-17,90.13766120803008,included_game_day
+2019,264,Washington Huskies,2019-01-19,89.32397605963004,included_game_day
+2019,264,Washington Huskies,2019-01-24,93.66954740491506,included_game_day
+2019,264,Washington Huskies,2019-01-26,102.93257238901013,included_game_day
+2019,264,Washington Huskies,2019-01-30,108.5961252797046,included_game_day
+2019,264,Washington Huskies,2019-02-02,113.71615674385728,included_game_day
+2019,264,Washington Huskies,2019-02-07,114.7077081984312,included_game_day
+2019,264,Washington Huskies,2019-02-09,97.25321107507365,included_game_day
+2019,264,Washington Huskies,2019-02-16,92.62482982100104,included_game_day
+2019,264,Washington Huskies,2019-02-20,100.19435032207903,included_game_day
+2019,264,Washington Huskies,2019-02-23,101.87205003851663,included_game_day
+2019,264,Washington Huskies,2019-02-28,82.608729532003,included_game_day
+2019,264,Washington Huskies,2019-03-03,84.49275936362241,included_game_day
+2019,264,Washington Huskies,2019-03-06,81.58004933850962,included_game_day
+2019,264,Washington Huskies,2019-03-09,69.94954902036247,included_game_day
+2019,264,Washington Huskies,2019-03-14,70.53608956554369,included_game_day
+2019,264,Washington Huskies,2019-03-15,76.98173500764513,included_game_day
+2019,264,Washington Huskies,2019-03-16,60.285459695864475,included_game_day
+2019,264,Washington Huskies,2019-03-22,83.90703533129395,included_game_day
+2019,264,Washington Huskies,2019-03-24,74.47405769885795,included_game_day
+2020,264,Washington Huskies,2019-11-08,7.1,included_game_day
+2020,264,Washington Huskies,2019-11-12,12.39,included_game_day
+2020,264,Washington Huskies,2019-11-16,1.0010000000000012,included_game_day
+2020,264,Washington Huskies,2019-11-19,16.189500000000002,included_game_day
+2020,264,Washington Huskies,2019-11-22,26.956650000000003,included_game_day
+2020,264,Washington Huskies,2019-11-24,37.798008200000005,included_game_day
+2020,264,Washington Huskies,2019-12-02,52.27695178810001,included_game_day
+2020,264,Washington Huskies,2019-12-04,55.28487675929001,included_game_day
+2020,264,Washington Huskies,2019-12-08,51.91253499016101,included_game_day
+2020,264,Washington Huskies,2019-12-17,64.0027316876899,included_game_day
+2020,264,Washington Huskies,2019-12-22,84.31265055228118,included_game_day
+2020,264,Washington Huskies,2019-12-23,88.03668629954015,included_game_day
+2020,264,Washington Huskies,2019-12-25,84.00175070139453,included_game_day
+2020,264,Washington Huskies,2020-01-02,70.03588665178974,included_game_day
+2020,264,Washington Huskies,2020-01-05,97.07487249007161,included_game_day
+2020,264,Washington Huskies,2020-01-09,92.40575493377618,included_game_day
+2020,264,Washington Huskies,2020-01-11,80.06983654253271,included_game_day
+2020,264,Washington Huskies,2020-01-16,84.91216659590188,included_game_day
+2020,264,Washington Huskies,2020-01-18,78.96176037972201,included_game_day
+2020,264,Washington Huskies,2020-01-23,73.34109279554504,included_game_day
+2020,264,Washington Huskies,2020-01-25,66.8635966987784,included_game_day
+2020,264,Washington Huskies,2020-01-30,67.35616431573396,included_game_day
+2020,264,Washington Huskies,2020-02-01,58.80954606710217,included_game_day
+2020,264,Washington Huskies,2020-02-09,44.6998712945926,included_game_day
+2020,264,Washington Huskies,2020-02-13,43.73558366425025,included_game_day
+2020,264,Washington Huskies,2020-02-15,36.205323720448604,included_game_day
+2020,264,Washington Huskies,2020-02-20,27.24332249788472,included_game_day
+2020,264,Washington Huskies,2020-02-22,55.823615451221485,included_game_day
+2020,264,Washington Huskies,2020-02-28,41.47946196769659,included_game_day
+2020,264,Washington Huskies,2020-03-05,53.87502984251978,included_game_day
+2020,264,Washington Huskies,2020-03-07,68.92089909810521,included_game_day
+2020,264,Washington Huskies,2020-03-11,64.95759450257356,included_game_day
+2021,264,Washington Huskies,2020-11-29,-31.0,included_game_day
+2021,264,Washington Huskies,2020-12-01,-43.2,included_game_day
+2021,264,Washington Huskies,2020-12-03,-49.88,included_game_day
+2021,264,Washington Huskies,2020-12-09,-16.979860000000002,included_game_day
+2021,264,Washington Huskies,2020-12-12,-17.580280360000003,included_game_day
+2021,264,Washington Huskies,2020-12-16,-27.878552324000005,included_game_day
+2021,264,Washington Huskies,2020-12-20,-39.520849851600005,included_game_day
+2021,264,Washington Huskies,2020-12-31,-57.99021743080401,included_game_day
+2021,264,Washington Huskies,2021-01-07,-63.08151631582529,included_game_day
+2021,264,Washington Huskies,2021-01-09,-60.74241646025519,included_game_day
+2021,264,Washington Huskies,2021-01-14,-69.14599675112453,included_game_day
+2021,264,Washington Huskies,2021-01-16,-54.981430359499214,included_game_day
+2021,264,Washington Huskies,2021-01-20,-36.61156875460643,included_game_day
+2021,264,Washington Huskies,2021-01-24,-28.398850904572125,included_game_day
+2021,264,Washington Huskies,2021-01-31,-43.930466701545,included_game_day
+2021,264,Washington Huskies,2021-02-04,-55.77166636019082,included_game_day
+2021,264,Washington Huskies,2021-02-06,-53.65360747117537,included_game_day
+2021,264,Washington Huskies,2021-02-11,-55.43064859703516,included_game_day
+2021,264,Washington Huskies,2021-02-13,-50.909805884884776,included_game_day
+2021,264,Washington Huskies,2021-02-15,-38.20199317293489,included_game_day
+2021,264,Washington Huskies,2021-02-18,-50.694827087688566,included_game_day
+2021,264,Washington Huskies,2021-02-20,-40.174549719920016,included_game_day
+2021,264,Washington Huskies,2021-02-23,-65.98659926386017,included_game_day
+2021,264,Washington Huskies,2021-02-25,-61.6362388990123,included_game_day
+2021,264,Washington Huskies,2021-02-27,-45.37019793172885,included_game_day
+2021,264,Washington Huskies,2021-03-10,-37.868296747385955,included_game_day
+2022,264,Washington Huskies,2021-11-09,-10.0,included_game_day
+2022,264,Washington Huskies,2021-11-11,-3.5999999999999996,included_game_day
+2022,264,Washington Huskies,2021-11-15,-0.9399999999999995,included_game_day
+2022,264,Washington Huskies,2021-11-18,-2.2300000000000004,included_game_day
+2022,264,Washington Huskies,2021-11-22,7.06057,included_game_day
+2022,264,Washington Huskies,2021-11-23,22.520856000000002,included_game_day
+2022,264,Washington Huskies,2021-11-24,0.7438400000000023,included_game_day
+2022,264,Washington Huskies,2021-11-27,-11.336898999999997,included_game_day
+2022,264,Washington Huskies,2021-12-18,-2.5912206746325985,included_game_day
+2022,264,Washington Huskies,2021-12-21,-17.31244187057714,included_game_day
+2022,264,Washington Huskies,2022-01-03,-10.747388884201474,included_game_day
+2022,264,Washington Huskies,2022-01-06,1.3188555339792725,included_game_day
+2022,264,Washington Huskies,2022-01-09,-6.842356141165508,included_game_day
+2022,264,Washington Huskies,2022-01-12,3.388292736556613,included_game_day
+2022,264,Washington Huskies,2022-01-15,7.739935217498566,included_game_day
+2022,264,Washington Huskies,2022-01-20,19.23024481201172,included_game_day
+2022,264,Washington Huskies,2022-01-23,-0.9813874487610192,included_game_day
+2022,264,Washington Huskies,2022-01-27,3.4179397409649797,included_game_day
+2022,264,Washington Huskies,2022-01-29,2.5675476087006404,included_game_day
+2022,264,Washington Huskies,2022-02-03,26.731765934363064,included_game_day
+2022,264,Washington Huskies,2022-02-06,11.365113335827255,included_game_day
+2022,264,Washington Huskies,2022-02-10,30.199016199673622,included_game_day
+2022,264,Washington Huskies,2022-02-12,17.44334020125751,included_game_day
+2022,264,Washington Huskies,2022-02-17,15.987166169057602,included_game_day
+2022,264,Washington Huskies,2022-02-19,4.375245374591831,included_game_day
+2022,264,Washington Huskies,2022-02-23,4.954457925731557,included_game_day
+2022,264,Washington Huskies,2022-02-26,15.417827966643337,included_game_day
+2022,264,Washington Huskies,2022-02-28,15.14060366814424,included_game_day
+2022,264,Washington Huskies,2022-03-03,27.46203825553198,included_game_day
+2022,264,Washington Huskies,2022-03-05,25.33504888319545,included_game_day
+2022,264,Washington Huskies,2022-03-09,35.08070470489524,included_game_day
+2022,264,Washington Huskies,2022-03-10,33.30324858339022,included_game_day
+2023,264,Washington Huskies,2022-11-07,14.0,included_game_day
+2023,264,Washington Huskies,2022-11-11,13.8,included_game_day
+2023,264,Washington Huskies,2022-11-14,19.82,included_game_day
+2023,264,Washington Huskies,2022-11-17,5.811,included_game_day
+2023,264,Washington Huskies,2022-11-23,8.0836,included_game_day
+2023,264,Washington Huskies,2022-11-25,19.789340799999998,included_game_day
+2023,264,Washington Huskies,2022-11-28,29.838948719999998,included_game_day
+2023,264,Washington Huskies,2022-12-01,26.246680767999997,included_game_day
+2023,264,Washington Huskies,2022-12-04,33.8890864512,included_game_day
+2023,264,Washington Huskies,2022-12-09,21.925024545840003,included_game_day
+2023,264,Washington Huskies,2022-12-13,23.279264627996003,included_game_day
+2023,264,Washington Huskies,2022-12-17,49.92029501487261,included_game_day
+2023,264,Washington Huskies,2022-12-21,24.790841414850355,included_game_day
+2023,264,Washington Huskies,2022-12-30,10.490754316900938,included_game_day
+2023,264,Washington Huskies,2023-01-01,-3.261307281866289,included_game_day
+2023,264,Washington Huskies,2023-01-05,10.900961781630423,included_game_day
+2023,264,Washington Huskies,2023-01-08,9.894388939406676,included_game_day
+2023,264,Washington Huskies,2023-01-12,24.39265862683171,included_game_day
+2023,264,Washington Huskies,2023-01-14,20.600404547973984,included_game_day
+2023,264,Washington Huskies,2023-01-19,32.13299064206588,included_game_day
+2023,264,Washington Huskies,2023-01-21,14.070394704286464,included_game_day
+2023,264,Washington Huskies,2023-01-26,18.00762561479873,included_game_day
+2023,264,Washington Huskies,2023-01-28,0.7507511126018436,included_game_day
+2023,264,Washington Huskies,2023-02-02,8.827215245090063,included_game_day
+2023,264,Washington Huskies,2023-02-04,14.953908116173025,included_game_day
+2023,264,Washington Huskies,2023-02-11,16.16466032662579,included_game_day
+2023,264,Washington Huskies,2023-02-15,21.648256649189115,included_game_day
+2023,264,Washington Huskies,2023-02-18,27.567471399453265,included_game_day
+2023,264,Washington Huskies,2023-02-23,26.58615447961641,included_game_day
+2023,264,Washington Huskies,2023-02-26,19.32324839336701,included_game_day
+2023,264,Washington Huskies,2023-03-02,11.003153525118824,included_game_day
+2023,264,Washington Huskies,2023-03-08,9.647851186993082,included_game_day
+2024,264,Washington Huskies,2023-11-06,31.0,included_game_day
+2024,264,Washington Huskies,2023-11-09,31.5,included_game_day
+2024,264,Washington Huskies,2023-11-12,19.45,included_game_day
+2024,264,Washington Huskies,2023-11-17,22.987,included_game_day
+2024,264,Washington Huskies,2023-11-19,22.6419,included_game_day
+2024,264,Washington Huskies,2023-11-28,47.750049399999995,included_game_day
+2024,264,Washington Huskies,2023-12-02,47.302596904999994,included_game_day
+2024,264,Washington Huskies,2023-12-05,62.0128650545,included_game_day
+2024,264,Washington Huskies,2023-12-09,65.58311624205,included_game_day
+2024,264,Washington Huskies,2023-12-17,66.0995901814006,included_game_day
+2024,264,Washington Huskies,2023-12-21,59.77867247580054,included_game_day
+2024,264,Washington Huskies,2023-12-29,65.05435540546577,included_game_day
+2024,264,Washington Huskies,2023-12-31,67.61407102768182,included_game_day
+2024,264,Washington Huskies,2024-01-04,61.12160976762018,included_game_day
+2024,264,Washington Huskies,2024-01-06,59.321404491879534,included_game_day
+2024,264,Washington Huskies,2024-01-11,68.25526196520562,included_game_day
+2024,264,Washington Huskies,2024-01-14,48.73110287253306,included_game_day
+2024,264,Washington Huskies,2024-01-18,50.257594724347655,included_game_day
+2024,264,Washington Huskies,2024-01-20,41.552306797900584,included_game_day
+2024,264,Washington Huskies,2024-01-24,27.229215828078782,included_game_day
+2024,264,Washington Huskies,2024-01-27,55.447579599772496,included_game_day
+2024,264,Washington Huskies,2024-02-03,54.552256156220146,included_game_day
+2024,264,Washington Huskies,2024-02-08,53.20378185548714,included_game_day
+2024,264,Washington Huskies,2024-02-10,60.29686026703625,included_game_day
+2024,264,Washington Huskies,2024-02-15,77.64810857799841,included_game_day
+2024,264,Washington Huskies,2024-02-17,66.84399261066878,included_game_day
+2024,264,Washington Huskies,2024-02-22,63.56267753901405,included_game_day
+2024,264,Washington Huskies,2024-02-24,62.193038193063686,included_game_day
+2024,264,Washington Huskies,2024-02-29,73.42648884181936,included_game_day
+2024,264,Washington Huskies,2024-03-02,58.05241337535551,included_game_day
+2024,264,Washington Huskies,2024-03-07,71.26863378937227,included_game_day
+2024,264,Washington Huskies,2024-03-13,64.47997022507795,included_game_day
+2025,264,Washington Huskies,2024-11-05,3.0,included_game_day
+2025,264,Washington Huskies,2024-11-09,-3.0,included_game_day
+2025,264,Washington Huskies,2024-11-17,-5.5727,included_game_day
+2025,264,Washington Huskies,2024-11-22,-2.211339999999999,included_game_day
+2025,264,Washington Huskies,2024-11-28,4.145968500000001,included_game_day
+2025,264,Washington Huskies,2024-11-29,13.923528700000002,included_game_day
+2025,264,Washington Huskies,2024-12-03,17.509663802,included_game_day
+2025,264,Washington Huskies,2024-12-07,-13.04098417642,included_game_day
+2025,264,Washington Huskies,2024-12-10,-0.8823424043780008,included_game_day
+2025,264,Washington Huskies,2024-12-18,18.71901447684956,included_game_day
+2025,264,Washington Huskies,2024-12-23,2.1489842734361346,included_game_day
+2025,264,Washington Huskies,2024-12-29,27.60660570631317,included_game_day
+2025,264,Washington Huskies,2025-01-02,43.963742812137134,included_game_day
+2025,264,Washington Huskies,2025-01-05,50.64925188611227,included_game_day
+2025,264,Washington Huskies,2025-01-09,27.5764615021087,included_game_day
+2025,264,Washington Huskies,2025-01-12,29.696049513458135,included_game_day
+2025,264,Washington Huskies,2025-01-15,27.898694853759807,included_game_day
+2025,264,Washington Huskies,2025-01-21,26.699931417498526,included_game_day
+2025,264,Washington Huskies,2025-01-24,27.009723467139224,included_game_day
+2025,264,Washington Huskies,2025-02-01,34.433991806312825,included_game_day
+2025,264,Washington Huskies,2025-02-05,21.244235711861613,included_game_day
+2025,264,Washington Huskies,2025-02-08,28.762113579653324,included_game_day
+2025,264,Washington Huskies,2025-02-12,16.96305148683321,included_game_day
+2025,264,Washington Huskies,2025-02-15,22.728325422993784,included_game_day
+2025,264,Washington Huskies,2025-02-19,18.12288524715721,included_game_day
+2025,264,Washington Huskies,2025-02-22,18.757351731275676,included_game_day
+2025,264,Washington Huskies,2025-02-25,10.689409556165973,included_game_day
+2025,264,Washington Huskies,2025-03-01,0.5091672731856516,included_game_day
+2025,264,Washington Huskies,2025-03-05,-22.24636961517507,included_game_day
+2025,264,Washington Huskies,2025-03-09,-17.955087513788634,included_game_day
+2026,264,Washington Huskies,2025-11-03,41.0,included_game_day
+2026,264,Washington Huskies,2025-11-06,47.1,included_game_day
+2026,264,Washington Huskies,2025-11-09,37.59,included_game_day
+2026,264,Washington Huskies,2025-11-14,47.789,included_game_day
+2026,264,Washington Huskies,2025-11-18,42.140100000000004,included_game_day
+2026,264,Washington Huskies,2025-11-27,56.3108804,included_game_day
+2026,264,Washington Huskies,2025-11-28,43.08283675,included_game_day
+2026,264,Washington Huskies,2025-12-03,40.616540074999996,included_game_day
+2026,264,Washington Huskies,2025-12-06,54.868661245385994,included_game_day
+2026,264,Washington Huskies,2025-12-13,72.8073421370423,included_game_day
+2026,264,Washington Huskies,2025-12-19,67.84310915063065,included_game_day
+2026,264,Washington Huskies,2025-12-22,85.1933677236647,included_game_day
+2026,264,Washington Huskies,2025-12-29,84.18802389651069,included_game_day
+2026,264,Washington Huskies,2026-01-04,81.26402601782965,included_game_day
+2026,264,Washington Huskies,2026-01-07,86.57834217796547,included_game_day
+2026,264,Washington Huskies,2026-01-11,92.90434542776883,included_game_day
+2026,264,Washington Huskies,2026-01-14,92.7378081100673,included_game_day
+2026,264,Washington Huskies,2026-01-17,79.28894355505217,included_game_day
+2026,264,Washington Huskies,2026-01-21,81.79289883780106,included_game_day
+2026,264,Washington Huskies,2026-01-25,88.65395884632021,included_game_day
+2026,264,Washington Huskies,2026-01-29,91.54525763624528,included_game_day
+2026,264,Washington Huskies,2026-01-31,106.28276420081646,included_game_day
+2026,264,Washington Huskies,2026-02-04,97.20677835243741,included_game_day
+2026,264,Washington Huskies,2026-02-07,98.94553021713207,included_game_day
+2026,264,Washington Huskies,2026-02-11,80.93321349547048,included_game_day
+2026,264,Washington Huskies,2026-02-14,86.40791346045255,included_game_day
+2026,264,Washington Huskies,2026-02-21,76.21497880690204,included_game_day
+2026,264,Washington Huskies,2026-02-24,78.89734168858564,included_game_day
+2026,264,Washington Huskies,2026-02-28,62.27452087325915,included_game_day
+2026,264,Washington Huskies,2026-03-04,74.0108928357208,included_game_day
+2026,264,Washington Huskies,2026-03-07,66.61319394102746,included_game_day
+2026,264,Washington Huskies,2026-03-11,63.55753487307826,included_game_day
+2026,264,Washington Huskies,2026-03-12,69.74034829518813,included_game_day
+2027,264,Washington Huskies,2026-11-02,11.0,included_game_day
+2027,264,Washington Huskies,2026-11-09,17.43,included_game_day
+2027,264,Washington Huskies,2026-11-19,20.127679999999998,included_game_day
+2027,264,Washington Huskies,2026-11-23,21.133117,included_game_day

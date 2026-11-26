@@ -1,0 +1,1133 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,112358,Long Island,1987-12-04,1.5120000000000005,included_game_day
+1988,112358,Long Island,1987-12-05,-13.0992,included_game_day
+1988,112358,Long Island,1987-12-12,-12.39317,included_game_day
+1988,112358,Long Island,1987-12-15,-21.833053,included_game_day
+1988,112358,Long Island,1987-12-21,-24.68447217,included_game_day
+1988,112358,Long Island,1987-12-28,-40.56511732427,included_game_day
+1988,112358,Long Island,1987-12-29,-38.6166192012263,included_game_day
+1988,112358,Long Island,1988-01-05,-36.519412862213905,included_game_day
+1988,112358,Long Island,1988-01-09,-61.30868767697541,included_game_day
+1988,112358,Long Island,1988-01-13,-52.397972591808546,included_game_day
+1988,112358,Long Island,1988-01-19,-71.81506514095551,included_game_day
+1988,112358,Long Island,1988-01-21,-61.652427724091055,included_game_day
+1988,112358,Long Island,1988-01-23,-76.64732169567073,included_game_day
+1988,112358,Long Island,1988-01-27,-69.06508761384802,included_game_day
+1988,112358,Long Island,1988-01-30,-70.94708540214809,included_game_day
+1988,112358,Long Island,1988-02-02,-77.50317643973848,included_game_day
+1988,112358,Long Island,1988-02-06,-62.440444114225954,included_game_day
+1988,112358,Long Island,1988-02-10,-48.53974241103252,included_game_day
+1988,112358,Long Island,1988-02-13,-48.605027118242425,included_game_day
+1988,112358,Long Island,1988-02-20,-48.037009460879084,included_game_day
+1988,112358,Long Island,1988-02-25,-49.75538829548438,included_game_day
+1988,112358,Long Island,1988-02-27,-61.050769960343715,included_game_day
+1988,112358,Long Island,1988-03-01,-55.03729787554877,included_game_day
+1988,112358,Long Island,1988-03-06,-55.13194808276158,included_game_day
+1988,112358,Long Island,1988-03-08,-53.71321254667119,included_game_day
+1989,112358,Long Island,1988-11-25,-13.0,included_game_day
+1989,112358,Long Island,1988-11-26,-27.6,included_game_day
+1989,112358,Long Island,1988-12-02,-34.4578,included_game_day
+1989,112358,Long Island,1988-12-03,-37.10517,included_game_day
+1989,112358,Long Island,1988-12-06,-36.664653,included_game_day
+1989,112358,Long Island,1988-12-10,-37.3623822,included_game_day
+1989,112358,Long Island,1988-12-16,-66.54960898,included_game_day
+1989,112358,Long Island,1988-12-29,-68.0163881931043,included_game_day
+1989,112358,Long Island,1989-01-07,-62.58334042285576,included_game_day
+1989,112358,Long Island,1989-01-10,-66.24445148093453,included_game_day
+1989,112358,Long Island,1989-01-12,-82.66033825811576,included_game_day
+1989,112358,Long Island,1989-01-14,-95.67762802125436,included_game_day
+1989,112358,Long Island,1989-01-16,-115.10353839125096,included_game_day
+1989,112358,Long Island,1989-01-19,-103.83075371413713,included_game_day
+1989,112358,Long Island,1989-01-21,-104.2176935549802,included_game_day
+1989,112358,Long Island,1989-01-25,-102.40436939278801,included_game_day
+1989,112358,Long Island,1989-01-28,-90.4304576972375,included_game_day
+1989,112358,Long Island,1989-02-01,-98.0894007300538,included_game_day
+1989,112358,Long Island,1989-02-04,-97.4492819346959,included_game_day
+1989,112358,Long Island,1989-02-08,-91.90067189591358,included_game_day
+1989,112358,Long Island,1989-02-15,-99.71559850938397,included_game_day
+1989,112358,Long Island,1989-02-18,-97.85354051979215,included_game_day
+1989,112358,Long Island,1989-02-20,-92.66072414723881,included_game_day
+1989,112358,Long Island,1989-02-23,-73.72581254557225,included_game_day
+1989,112358,Long Island,1989-02-25,-71.65348207372168,included_game_day
+1989,112358,Long Island,1989-03-01,-58.20832189505226,included_game_day
+1989,112358,Long Island,1989-03-02,-63.92517431829479,included_game_day
+1990,112358,Long Island,1989-12-01,-20.0,included_game_day
+1990,112358,Long Island,1989-12-06,-4.926,included_game_day
+1990,112358,Long Island,1989-12-08,-18.902200999999998,included_game_day
+1990,112358,Long Island,1989-12-09,-27.214118099999997,included_game_day
+1990,112358,Long Island,1989-12-12,-27.831303289999997,included_game_day
+1990,112358,Long Island,1989-12-16,-28.591129830999996,included_game_day
+1990,112358,Long Island,1989-12-17,-39.224483391826,included_game_day
+1990,112358,Long Island,1990-01-02,-43.71349367202538,included_game_day
+1990,112358,Long Island,1990-01-06,-59.669593392444995,included_game_day
+1990,112358,Long Island,1990-01-11,-62.74269054704608,included_game_day
+1990,112358,Long Island,1990-01-13,-86.92355626569794,included_game_day
+1990,112358,Long Island,1990-01-15,-79.25577530360258,included_game_day
+1990,112358,Long Island,1990-01-18,-77.22909824250199,included_game_day
+1990,112358,Long Island,1990-01-20,-80.86874622939703,included_game_day
+1990,112358,Long Island,1990-01-23,-82.49121279573559,included_game_day
+1990,112358,Long Island,1990-01-27,-100.80658648872304,included_game_day
+1990,112358,Long Island,1990-02-01,-101.42357255944961,included_game_day
+1990,112358,Long Island,1990-02-03,-98.96724251257376,included_game_day
+1990,112358,Long Island,1990-02-08,-112.50266740313599,included_game_day
+1990,112358,Long Island,1990-02-10,-113.07722980714428,included_game_day
+1990,112358,Long Island,1990-02-13,-112.66964145374564,included_game_day
+1990,112358,Long Island,1990-02-15,-110.6882567706819,included_game_day
+1990,112358,Long Island,1990-02-17,-119.44977940243169,included_game_day
+1990,112358,Long Island,1990-02-22,-130.63512689756112,included_game_day
+1990,112358,Long Island,1990-02-24,-122.0601754493288,included_game_day
+1991,112358,Long Island,1990-11-28,9.02,included_game_day
+1991,112358,Long Island,1990-11-30,-1.0020000000000007,included_game_day
+1991,112358,Long Island,1990-12-01,-1.0428000000000006,included_game_day
+1991,112358,Long Island,1990-12-05,-21.6345,included_game_day
+1991,112358,Long Island,1990-12-07,-17.213233,included_game_day
+1991,112358,Long Island,1990-12-09,-62.61760769999999,included_game_day
+1991,112358,Long Island,1990-12-15,-79.08099372999999,included_game_day
+1991,112358,Long Island,1990-12-18,-74.91121184151999,included_game_day
+1991,112358,Long Island,1991-01-03,-91.74218829518564,included_game_day
+1991,112358,Long Island,1991-01-05,-100.82063244663182,included_game_day
+1991,112358,Long Island,1991-01-08,-106.13921231408378,included_game_day
+1991,112358,Long Island,1991-01-12,-98.96134856893752,included_game_day
+1991,112358,Long Island,1991-01-17,-104.64983705812186,included_game_day
+1991,112358,Long Island,1991-01-19,-122.84310701417583,included_game_day
+1991,112358,Long Island,1991-01-24,-132.72021775635585,included_game_day
+1991,112358,Long Island,1991-01-26,-130.32414227163423,included_game_day
+1991,112358,Long Island,1991-01-28,-120.68343154749309,included_game_day
+1991,112358,Long Island,1991-01-31,-113.19732980204397,included_game_day
+1991,112358,Long Island,1991-02-04,-116.28190010238906,included_game_day
+1991,112358,Long Island,1991-02-07,-98.6027930455642,included_game_day
+1991,112358,Long Island,1991-02-09,-83.14861981925581,included_game_day
+1991,112358,Long Island,1991-02-11,-97.67982323993057,included_game_day
+1991,112358,Long Island,1991-02-14,-105.2564422048685,included_game_day
+1991,112358,Long Island,1991-02-16,-96.58752617707212,included_game_day
+1991,112358,Long Island,1991-02-18,-100.55801348546002,included_game_day
+1991,112358,Long Island,1991-02-21,-92.05424232729904,included_game_day
+1991,112358,Long Island,1991-02-23,-83.76386452476476,included_game_day
+1991,112358,Long Island,1991-02-25,-91.86781828164737,included_game_day
+1992,112358,Long Island,1991-11-26,-3.45,included_game_day
+1992,112358,Long Island,1991-11-30,-17.775,included_game_day
+1992,112358,Long Island,1991-12-02,-42.85978,included_game_day
+1992,112358,Long Island,1991-12-04,-38.863802,included_game_day
+1992,112358,Long Island,1991-12-06,-73.3984218,included_game_day
+1992,112358,Long Island,1991-12-07,-101.54491962,included_game_day
+1992,112358,Long Island,1991-12-11,-87.737419478,included_game_day
+1992,112358,Long Island,1991-12-16,-107.0890518102,included_game_day
+1992,112358,Long Island,1991-12-18,-114.12718462918001,included_game_day
+1992,112358,Long Island,1991-12-21,-111.799705566262,included_game_day
+1992,112358,Long Island,1992-01-05,-112.44902004161581,included_game_day
+1992,112358,Long Island,1992-01-11,-100.29116154448988,included_game_day
+1992,112358,Long Island,1992-01-16,-88.48794402719116,included_game_day
+1992,112358,Long Island,1992-01-18,-68.00133890074552,included_game_day
+1992,112358,Long Island,1992-01-21,-86.00099398119043,included_game_day
+1992,112358,Long Island,1992-01-23,-92.48615496464491,included_game_day
+1992,112358,Long Island,1992-01-25,-92.74671396332339,included_game_day
+1992,112358,Long Island,1992-01-27,-99.40078285282819,included_game_day
+1992,112358,Long Island,1992-02-01,-101.18150738576647,included_game_day
+1992,112358,Long Island,1992-02-05,-92.28576982532009,included_game_day
+1992,112358,Long Island,1992-02-08,-94.05777160775764,included_game_day
+1992,112358,Long Island,1992-02-13,-66.88740073060043,included_game_day
+1992,112358,Long Island,1992-02-15,-68.37692679665216,included_game_day
+1992,112358,Long Island,1992-02-20,-78.29557487847819,included_game_day
+1992,112358,Long Island,1992-02-22,-64.05886903637779,included_game_day
+1992,112358,Long Island,1992-02-27,-49.341934280657185,included_game_day
+1992,112358,Long Island,1992-02-29,-55.61713408075578,included_game_day
+1992,112358,Long Island,1992-03-03,-32.95568739363603,included_game_day
+1992,112358,Long Island,1992-03-04,-35.90274530884697,included_game_day
+1993,112358,Long Island,1992-12-04,-8.6,included_game_day
+1993,112358,Long Island,1992-12-05,-6.76,included_game_day
+1993,112358,Long Island,1992-12-09,-9.889,included_game_day
+1993,112358,Long Island,1992-12-14,-18.434350000000002,included_game_day
+1993,112358,Long Island,1992-12-16,-13.115965000000003,included_game_day
+1993,112358,Long Island,1992-12-19,-19.757268500000002,included_game_day
+1993,112358,Long Island,1992-12-28,-46.64688560302,included_game_day
+1993,112358,Long Island,1993-01-05,-58.92626190073602,included_game_day
+1993,112358,Long Island,1993-01-07,-59.063752406388154,included_game_day
+1993,112358,Long Island,1993-01-09,-67.13155648457142,included_game_day
+1993,112358,Long Island,1993-01-11,-51.77664631803263,included_game_day
+1993,112358,Long Island,1993-01-14,-48.27007554011557,included_game_day
+1993,112358,Long Island,1993-01-16,-43.02526360554185,included_game_day
+1993,112358,Long Island,1993-01-21,-48.97022406631254,included_game_day
+1993,112358,Long Island,1993-01-23,-35.31032709140253,included_game_day
+1993,112358,Long Island,1993-01-28,-48.39072956619949,included_game_day
+1993,112358,Long Island,1993-02-04,-47.12700308328218,included_game_day
+1993,112358,Long Island,1993-02-06,-39.11114006316219,included_game_day
+1993,112358,Long Island,1993-02-09,-36.2051719741525,included_game_day
+1993,112358,Long Island,1993-02-11,-42.29912032892334,included_game_day
+1993,112358,Long Island,1993-02-13,-43.8047606960346,included_game_day
+1993,112358,Long Island,1993-02-15,-54.97690438295951,included_game_day
+1993,112358,Long Island,1993-02-18,-56.38696995929793,included_game_day
+1993,112358,Long Island,1993-02-20,-74.17077719685572,included_game_day
+1993,112358,Long Island,1993-02-27,-79.58717278081917,included_game_day
+1993,112358,Long Island,1993-03-02,-71.59015729926185,included_game_day
+1993,112358,Long Island,1993-03-03,-68.64555697702882,included_game_day
+1994,112358,Long Island,1993-12-04,7.0,included_game_day
+1994,112358,Long Island,1993-12-07,-14.902000000000001,included_game_day
+1994,112358,Long Island,1993-12-10,-24.737286700000002,included_game_day
+1994,112358,Long Island,1993-12-11,-51.499945030000006,included_game_day
+1994,112358,Long Island,1993-12-18,-59.21769952700001,included_game_day
+1994,112358,Long Island,1993-12-21,-71.0864700303,included_game_day
+1994,112358,Long Island,1993-12-23,-97.56216957037,included_game_day
+1994,112358,Long Island,1993-12-30,-109.50372165462201,included_game_day
+1994,112358,Long Island,1994-01-04,-124.76320424277351,included_game_day
+1994,112358,Long Island,1994-01-08,-134.5448990797308,included_game_day
+1994,112358,Long Island,1994-01-10,-152.9841218903876,included_game_day
+1994,112358,Long Island,1994-01-13,-168.11486192842327,included_game_day
+1994,112358,Long Island,1994-01-15,-174.65627876023223,included_game_day
+1994,112358,Long Island,1994-01-18,-181.98844313585474,included_game_day
+1994,112358,Long Island,1994-01-20,-184.1471691348561,included_game_day
+1994,112358,Long Island,1994-01-22,-172.68983249027062,included_game_day
+1994,112358,Long Island,1994-01-24,-168.94782953844984,included_game_day
+1994,112358,Long Island,1994-01-27,-168.02167805517828,included_game_day
+1994,112358,Long Island,1994-01-29,-163.7678424203873,included_game_day
+1994,112358,Long Island,1994-02-03,-141.61497343424173,included_game_day
+1994,112358,Long Island,1994-02-05,-146.02900503776874,included_game_day
+1994,112358,Long Island,1994-02-10,-136.27650355628998,included_game_day
+1994,112358,Long Island,1994-02-12,-141.28270011309414,included_game_day
+1994,112358,Long Island,1994-02-17,-154.3122889680783,included_game_day
+1994,112358,Long Island,1994-02-19,-166.76776242615347,included_game_day
+1994,112358,Long Island,1994-02-26,-149.51475079958206,included_game_day
+1994,112358,Long Island,1994-02-28,-156.1552520508084,included_game_day
+1995,112358,Long Island,1994-12-02,-34.26,included_game_day
+1995,112358,Long Island,1994-12-07,-49.206114,included_game_day
+1995,112358,Long Island,1994-12-09,-75.2303326,included_game_day
+1995,112358,Long Island,1994-12-10,-71.86682634,included_game_day
+1995,112358,Long Island,1994-12-17,-81.39711532000001,included_game_day
+1995,112358,Long Island,1994-12-19,-90.37949923400001,included_game_day
+1995,112358,Long Island,1994-12-29,-92.7993859423,included_game_day
+1995,112358,Long Island,1995-01-05,-70.399419641638,included_game_day
+1995,112358,Long Island,1995-01-07,-64.60597505460994,included_game_day
+1995,112358,Long Island,1995-01-09,-69.26735347250717,included_game_day
+1995,112358,Long Island,1995-01-12,-84.85297259083204,included_game_day
+1995,112358,Long Island,1995-01-14,-90.35607183010742,included_game_day
+1995,112358,Long Island,1995-01-19,-100.5964101800358,included_game_day
+1995,112358,Long Island,1995-01-21,-88.5248530541658,included_game_day
+1995,112358,Long Island,1995-01-26,-100.78022711578653,included_game_day
+1995,112358,Long Island,1995-01-28,-115.56906118059356,included_game_day
+1995,112358,Long Island,1995-02-02,-120.01800992179066,included_game_day
+1995,112358,Long Island,1995-02-04,-102.17158920653554,included_game_day
+1995,112358,Long Island,1995-02-09,-87.77551188834742,included_game_day
+1995,112358,Long Island,1995-02-11,-72.67956344277248,included_game_day
+1995,112358,Long Island,1995-02-14,-83.30394803649476,included_game_day
+1995,112358,Long Island,1995-02-16,-100.06355896499247,included_game_day
+1995,112358,Long Island,1995-02-18,-108.19312649619185,included_game_day
+1995,112358,Long Island,1995-02-20,-96.43650061366367,included_game_day
+1995,112358,Long Island,1995-02-25,-93.3374277973153,included_game_day
+1995,112358,Long Island,1995-02-27,-94.05247255873569,included_game_day
+1995,112358,Long Island,1995-02-28,-83.38411429798552,included_game_day
+1996,112358,Long Island,1995-12-02,-26.0243,included_game_day
+1996,112358,Long Island,1995-12-07,-18.80087,included_game_day
+1996,112358,Long Island,1995-12-16,-54.081127747,included_game_day
+1996,112358,Long Island,1995-12-20,-56.5325469723,included_game_day
+1996,112358,Long Island,1995-12-27,-73.53308461597,included_game_day
+1996,112358,Long Island,1995-12-29,-58.653369064372995,included_game_day
+1996,112358,Long Island,1995-12-30,-73.11561422873021,included_game_day
+1996,112358,Long Island,1996-01-06,-82.99907079155894,included_game_day
+1996,112358,Long Island,1996-01-11,-92.58601570933698,included_game_day
+1996,112358,Long Island,1996-01-13,-96.7324987831927,included_game_day
+1996,112358,Long Island,1996-01-17,-84.75552714136222,included_game_day
+1996,112358,Long Island,1996-01-20,-91.88627294760963,included_game_day
+1996,112358,Long Island,1996-01-22,-82.26205015078786,included_game_day
+1996,112358,Long Island,1996-01-25,-89.96800429204872,included_game_day
+1996,112358,Long Island,1996-01-27,-72.78145579144825,included_game_day
+1996,112358,Long Island,1996-01-30,-95.45836449904348,included_game_day
+1996,112358,Long Island,1996-02-03,-107.8616282838264,included_game_day
+1996,112358,Long Island,1996-02-05,-120.25121381701098,included_game_day
+1996,112358,Long Island,1996-02-08,-131.47716438396625,included_game_day
+1996,112358,Long Island,1996-02-10,-141.39768984932533,included_game_day
+1996,112358,Long Island,1996-02-14,-138.71866085987,included_game_day
+1996,112358,Long Island,1996-02-17,-136.2514989935367,included_game_day
+1996,112358,Long Island,1996-02-19,-107.46258339851235,included_game_day
+1996,112358,Long Island,1996-02-24,-98.82296759513136,included_game_day
+1996,112358,Long Island,1996-02-26,-111.49064714539139,included_game_day
+1996,112358,Long Island,1996-02-28,-95.4657411645758,included_game_day
+1996,112358,Long Island,1996-03-01,-110.06692957629807,included_game_day
+1997,112358,Long Island,1996-11-23,6.0,included_game_day
+1997,112358,Long Island,1996-11-27,-1.5469999999999997,included_game_day
+1997,112358,Long Island,1996-12-07,-21.519270000000002,included_game_day
+1997,112358,Long Island,1996-12-10,-23.492377,included_game_day
+1997,112358,Long Island,1996-12-14,4.399143982999998,included_game_day
+1997,112358,Long Island,1996-12-20,7.711348659899999,included_game_day
+1997,112358,Long Island,1996-12-21,8.970976955738998,included_game_day
+1997,112358,Long Island,1996-12-28,7.580342318617298,included_game_day
+1997,112358,Long Island,1997-01-04,4.471265522586547,included_game_day
+1997,112358,Long Island,1997-01-06,10.272272152416734,included_game_day
+1997,112358,Long Island,1997-01-09,29.43936673579517,included_game_day
+1997,112358,Long Island,1997-01-11,44.55919079992127,included_game_day
+1997,112358,Long Island,1997-01-15,59.24285363325053,included_game_day
+1997,112358,Long Island,1997-01-18,43.1952647658825,included_game_day
+1997,112358,Long Island,1997-01-19,48.95803830325215,included_game_day
+1997,112358,Long Island,1997-01-23,50.84031896399432,included_game_day
+1997,112358,Long Island,1997-01-25,49.36461341978206,included_game_day
+1997,112358,Long Island,1997-02-01,60.985126089361046,included_game_day
+1997,112358,Long Island,1997-02-03,78.41773003861121,included_game_day
+1997,112358,Long Island,1997-02-06,73.38577862707238,included_game_day
+1997,112358,Long Island,1997-02-08,65.0238197078653,included_game_day
+1997,112358,Long Island,1997-02-12,79.46422131841797,included_game_day
+1997,112358,Long Island,1997-02-15,88.65703640598133,included_game_day
+1997,112358,Long Island,1997-02-17,100.36540265025947,included_game_day
+1997,112358,Long Island,1997-02-20,91.35408976216674,included_game_day
+1997,112358,Long Island,1997-02-22,99.33430075591986,included_game_day
+1997,112358,Long Island,1997-02-28,86.80404474092623,included_game_day
+1997,112358,Long Island,1997-03-03,86.65270195367901,included_game_day
+1997,112358,Long Island,1997-03-06,85.18237772982718,included_game_day
+1997,112358,Long Island,1997-03-13,76.39192598605493,included_game_day
+1998,112358,Long Island,1997-11-14,-21.0,included_game_day
+1998,112358,Long Island,1997-11-22,-25.1,included_game_day
+1998,112358,Long Island,1997-11-29,-43.31,included_game_day
+1998,112358,Long Island,1997-12-05,-38.147000000000006,included_game_day
+1998,112358,Long Island,1997-12-13,-45.64475058800001,included_game_day
+1998,112358,Long Island,1997-12-14,-25.694137304300007,included_game_day
+1998,112358,Long Island,1997-12-20,-35.268464489870006,included_game_day
+1998,112358,Long Island,1997-12-22,-15.373184279057003,included_game_day
+1998,112358,Long Island,1997-12-23,-28.983070702631554,included_game_day
+1998,112358,Long Island,1998-01-04,-18.892738037827687,included_game_day
+1998,112358,Long Island,1998-01-08,-21.857961648905253,included_game_day
+1998,112358,Long Island,1998-01-10,11.226680348985894,included_game_day
+1998,112358,Long Island,1998-01-14,10.661191171973146,included_game_day
+1998,112358,Long Island,1998-01-17,15.748808500062875,included_game_day
+1998,112358,Long Island,1998-01-19,20.410878181615917,included_game_day
+1998,112358,Long Island,1998-01-22,19.061389426735786,included_game_day
+1998,112358,Long Island,1998-01-24,32.45746062179851,included_game_day
+1998,112358,Long Island,1998-01-31,23.202113085820457,included_game_day
+1998,112358,Long Island,1998-02-02,26.68534786048564,included_game_day
+1998,112358,Long Island,1998-02-05,21.449462318343443,included_game_day
+1998,112358,Long Island,1998-02-11,61.910114190307176,included_game_day
+1998,112358,Long Island,1998-02-14,57.51334052018845,included_game_day
+1998,112358,Long Island,1998-02-16,50.92088892885262,included_game_day
+1998,112358,Long Island,1998-02-19,57.72511487011853,included_game_day
+1998,112358,Long Island,1998-02-21,65.68895537360038,included_game_day
+1998,112358,Long Island,1998-02-26,78.06002777638585,included_game_day
+1998,112358,Long Island,1998-02-27,91.65504858948732,included_game_day
+1998,112358,Long Island,1998-03-02,74.98236523286852,included_game_day
+1998,112358,Long Island,1998-03-11,73.74009050906876,included_game_day
+1999,112358,Long Island,1998-11-20,-24.9,included_game_day
+1999,112358,Long Island,1998-11-21,-33.760999999999996,included_game_day
+1999,112358,Long Island,1998-11-30,-39.3159,included_game_day
+1999,112358,Long Island,1998-12-05,-55.075006599999995,included_game_day
+1999,112358,Long Island,1998-12-07,-40.647124825999995,included_game_day
+1999,112358,Long Island,1998-12-10,-53.16625457839999,included_game_day
+1999,112358,Long Island,1998-12-12,-60.306322311959995,included_game_day
+1999,112358,Long Island,1998-12-20,-103.897441863604,included_game_day
+1999,112358,Long Island,1998-12-22,-115.73314070612344,included_game_day
+1999,112358,Long Island,1998-12-28,-109.35743449445617,included_game_day
+1999,112358,Long Island,1999-01-02,-86.39473644309149,included_game_day
+1999,112358,Long Island,1999-01-04,-79.82866428526863,included_game_day
+1999,112358,Long Island,1999-01-07,-80.10308211742412,included_game_day
+1999,112358,Long Island,1999-01-09,-58.13954687864002,included_game_day
+1999,112358,Long Island,1999-01-11,-56.03175835851003,included_game_day
+1999,112358,Long Island,1999-01-16,-41.85320986806608,included_game_day
+1999,112358,Long Island,1999-01-21,-38.825888212658334,included_game_day
+1999,112358,Long Island,1999-01-23,-35.46611855557764,included_game_day
+1999,112358,Long Island,1999-01-28,-28.546267447548626,included_game_day
+1999,112358,Long Island,1999-02-03,-38.55532738496394,included_game_day
+1999,112358,Long Island,1999-02-06,-33.188375491258,included_game_day
+1999,112358,Long Island,1999-02-08,-47.01750514286333,included_game_day
+1999,112358,Long Island,1999-02-11,-32.57775784033791,included_game_day
+1999,112358,Long Island,1999-02-14,-43.185139864908315,included_game_day
+1999,112358,Long Island,1999-02-18,-34.13157255719345,included_game_day
+1999,112358,Long Island,1999-02-20,-27.470308181954046,included_game_day
+1999,112358,Long Island,1999-02-26,-33.776938156861405,included_game_day
+2000,112358,Long Island,1999-11-26,-31.82707,included_game_day
+2000,112358,Long Island,1999-11-30,-42.734363,included_game_day
+2000,112358,Long Island,1999-12-04,-58.355326700000006,included_game_day
+2000,112358,Long Island,1999-12-06,-47.13854303000001,included_game_day
+2000,112358,Long Island,1999-12-18,-69.116315394866,included_game_day
+2000,112358,Long Island,1999-12-27,-74.98999781959358,included_game_day
+2000,112358,Long Island,1999-12-29,-88.52266512287387,included_game_day
+2000,112358,Long Island,1999-12-30,-72.04073941778834,included_game_day
+2000,112358,Long Island,2000-01-08,-69.38263380903776,included_game_day
+2000,112358,Long Island,2000-01-10,-81.09267823162921,included_game_day
+2000,112358,Long Island,2000-01-15,-102.20023356926988,included_game_day
+2000,112358,Long Island,2000-01-17,-102.68085256750948,included_game_day
+2000,112358,Long Island,2000-01-19,-100.34650363146525,included_game_day
+2000,112358,Long Island,2000-01-22,-91.72537826113961,included_game_day
+2000,112358,Long Island,2000-01-24,-112.72543376233835,included_game_day
+2000,112358,Long Island,2000-01-29,-108.72993446212007,included_game_day
+2000,112358,Long Island,2000-01-31,-109.10731163606454,included_game_day
+2000,112358,Long Island,2000-02-03,-91.40921337522012,included_game_day
+2000,112358,Long Island,2000-02-05,-84.61267614419837,included_game_day
+2000,112358,Long Island,2000-02-10,-77.22188530903415,included_game_day
+2000,112358,Long Island,2000-02-12,-56.57011308845668,included_game_day
+2000,112358,Long Island,2000-02-17,-64.64360385212811,included_game_day
+2000,112358,Long Island,2000-02-19,-69.45401203368255,included_game_day
+2000,112358,Long Island,2000-02-22,-56.940416923225854,included_game_day
+2000,112358,Long Island,2000-02-24,-64.72814000812619,included_game_day
+2000,112358,Long Island,2000-02-26,-74.5608434896404,included_game_day
+2001,112358,Long Island,2000-11-17,-43.0,included_game_day
+2001,112358,Long Island,2000-11-22,-51.81,included_game_day
+2001,112358,Long Island,2000-11-27,-43.394000000000005,included_game_day
+2001,112358,Long Island,2000-12-02,-37.62633,included_game_day
+2001,112358,Long Island,2000-12-04,-54.56800200000001,included_game_day
+2001,112358,Long Island,2000-12-07,-53.829998800000006,included_game_day
+2001,112358,Long Island,2000-12-09,-57.593153220000005,included_game_day
+2001,112358,Long Island,2000-12-16,-58.32721807771001,included_game_day
+2001,112358,Long Island,2000-12-23,-63.31850539329211,included_game_day
+2001,112358,Long Island,2000-12-29,-94.85326551241378,included_game_day
+2001,112358,Long Island,2001-01-03,-102.14751095071617,included_game_day
+2001,112358,Long Island,2001-01-06,-105.25001206266792,included_game_day
+2001,112358,Long Island,2001-01-08,-83.87767436277534,included_game_day
+2001,112358,Long Island,2001-01-13,-92.8704898049912,included_game_day
+2001,112358,Long Island,2001-01-15,-94.34429661990288,included_game_day
+2001,112358,Long Island,2001-01-20,-87.71720129509205,included_game_day
+2001,112358,Long Island,2001-01-22,-83.88269482379222,included_game_day
+2001,112358,Long Island,2001-01-27,-69.02875404394905,included_game_day
+2001,112358,Long Island,2001-01-29,-63.00745806084282,included_game_day
+2001,112358,Long Island,2001-02-01,-73.73560101624946,included_game_day
+2001,112358,Long Island,2001-02-08,-65.29628272899714,included_game_day
+2001,112358,Long Island,2001-02-10,-61.252955454687346,included_game_day
+2001,112358,Long Island,2001-02-13,-50.94939251962815,included_game_day
+2001,112358,Long Island,2001-02-15,-54.86423568492819,included_game_day
+2001,112358,Long Island,2001-02-18,-53.997707560585624,included_game_day
+2001,112358,Long Island,2001-02-22,-69.20102167421635,included_game_day
+2001,112358,Long Island,2001-02-24,-59.99904114768097,included_game_day
+2001,112358,Long Island,2001-03-03,-59.73527478172028,included_game_day
+2002,112358,Long Island University Sharks,2001-11-17,-15.0,included_game_day
+2002,112358,Long Island University Sharks,2001-11-26,-43.751999999999995,included_game_day
+2002,112358,Long Island University Sharks,2001-11-29,-68.0498,included_game_day
+2002,112358,Long Island University Sharks,2001-12-05,-99.70350990200001,included_game_day
+2002,112358,Long Island University Sharks,2001-12-08,-132.5874868518,included_game_day
+2002,112358,Long Island University Sharks,2001-12-12,-153.12276750862,included_game_day
+2002,112358,Long Island University Sharks,2001-12-16,-161.009057576026,included_game_day
+2002,112358,Long Island University Sharks,2001-12-28,-148.96620388752623,included_game_day
+2002,112358,Long Island University Sharks,2002-01-04,-160.84051936991614,included_game_day
+2002,112358,Long Island University Sharks,2002-01-06,-181.48321420665346,included_game_day
+2002,112358,Long Island University Sharks,2002-01-10,-176.95281622483787,included_game_day
+2002,112358,Long Island University Sharks,2002-01-12,-183.33479177231348,included_game_day
+2002,112358,Long Island University Sharks,2002-01-16,-183.43484619407826,included_game_day
+2002,112358,Long Island University Sharks,2002-01-19,-186.31169805415533,included_game_day
+2002,112358,Long Island University Sharks,2002-01-23,-174.26988166916658,included_game_day
+2002,112358,Long Island University Sharks,2002-01-26,-149.125692826982,included_game_day
+2002,112358,Long Island University Sharks,2002-01-28,-140.5381154784119,included_game_day
+2002,112358,Long Island University Sharks,2002-02-02,-135.04780802143776,included_game_day
+2002,112358,Long Island University Sharks,2002-02-04,-131.0289904751371,included_game_day
+2002,112358,Long Island University Sharks,2002-02-07,-120.36488211443684,included_game_day
+2002,112358,Long Island University Sharks,2002-02-09,-113.21623891346633,included_game_day
+2002,112358,Long Island University Sharks,2002-02-15,-108.24198985600651,included_game_day
+2002,112358,Long Island University Sharks,2002-02-17,-122.59038387484931,included_game_day
+2002,112358,Long Island University Sharks,2002-02-20,-110.60959287569543,included_game_day
+2002,112358,Long Island University Sharks,2002-02-23,-101.30187995329919,included_game_day
+2002,112358,Long Island University Sharks,2002-02-25,-112.90597242506902,included_game_day
+2003,112358,Long Island University Sharks,2002-11-22,-1.0,included_game_day
+2003,112358,Long Island University Sharks,2002-11-26,-2.9,included_game_day
+2003,112358,Long Island University Sharks,2002-11-29,-12.020000000000001,included_game_day
+2003,112358,Long Island University Sharks,2002-12-01,-38.218,included_game_day
+2003,112358,Long Island University Sharks,2002-12-08,-24.048506030000002,included_game_day
+2003,112358,Long Island University Sharks,2002-12-11,-5.3572191700000005,included_game_day
+2003,112358,Long Island University Sharks,2002-12-15,5.828278125999999,included_game_day
+2003,112358,Long Island University Sharks,2002-12-28,-31.177486975934997,included_game_day
+2003,112358,Long Island University Sharks,2002-12-29,-47.44364643822055,included_game_day
+2003,112358,Long Island University Sharks,2003-01-04,-68.66414111405683,included_game_day
+2003,112358,Long Island University Sharks,2003-01-09,-67.22261617555058,included_game_day
+2003,112358,Long Island University Sharks,2003-01-11,-70.18065743448338,included_game_day
+2003,112358,Long Island University Sharks,2003-01-18,-53.55940827521104,included_game_day
+2003,112358,Long Island University Sharks,2003-01-20,-39.62329931412458,included_game_day
+2003,112358,Long Island University Sharks,2003-01-23,-48.643770995004665,included_game_day
+2003,112358,Long Island University Sharks,2003-01-25,-53.59283665804749,included_game_day
+2003,112358,Long Island University Sharks,2003-02-01,-65.08829296446245,included_game_day
+2003,112358,Long Island University Sharks,2003-02-03,-73.26897840847923,included_game_day
+2003,112358,Long Island University Sharks,2003-02-06,-63.58946742756548,included_game_day
+2003,112358,Long Island University Sharks,2003-02-08,-47.854500015085186,included_game_day
+2003,112358,Long Island University Sharks,2003-02-13,-65.91393006320249,included_game_day
+2003,112358,Long Island University Sharks,2003-02-15,-66.20957448865298,included_game_day
+2003,112358,Long Island University Sharks,2003-02-18,-74.27562030490674,included_game_day
+2003,112358,Long Island University Sharks,2003-02-20,-108.78314843215938,included_game_day
+2003,112358,Long Island University Sharks,2003-02-22,-100.95865550529224,included_game_day
+2003,112358,Long Island University Sharks,2003-02-27,-77.89415613311103,included_game_day
+2003,112358,Long Island University Sharks,2003-03-01,-89.09118871320896,included_game_day
+2003,112358,Long Island University Sharks,2003-03-08,-102.56028898884973,included_game_day
+2004,112358,Long Island University Sharks,2003-11-21,16.0,included_game_day
+2004,112358,Long Island University Sharks,2003-11-29,13.129,included_game_day
+2004,112358,Long Island University Sharks,2003-12-03,-3.7358889999999985,included_game_day
+2004,112358,Long Island University Sharks,2003-12-05,-15.443630099999998,included_game_day
+2004,112358,Long Island University Sharks,2003-12-08,-17.327824789999998,included_game_day
+2004,112358,Long Island University Sharks,2003-12-10,-8.736332610999998,included_game_day
+2004,112358,Long Island University Sharks,2003-12-13,-17.918442649899998,included_game_day
+2004,112358,Long Island University Sharks,2003-12-20,-36.11097796391,included_game_day
+2004,112358,Long Island University Sharks,2003-12-29,-52.798793166839005,included_game_day
+2004,112358,Long Island University Sharks,2003-12-30,-56.953499016655904,included_game_day
+2004,112358,Long Island University Sharks,2004-01-06,-75.44835448452427,included_game_day
+2004,112358,Long Island University Sharks,2004-01-10,-90.55577863719098,included_game_day
+2004,112358,Long Island University Sharks,2004-01-12,-87.49398857285624,included_game_day
+2004,112358,Long Island University Sharks,2004-01-16,-86.27197832809156,included_game_day
+2004,112358,Long Island University Sharks,2004-01-19,-103.28690000074428,included_game_day
+2004,112358,Long Island University Sharks,2004-01-22,-88.21718337254451,included_game_day
+2004,112358,Long Island University Sharks,2004-01-29,-89.64214472978293,included_game_day
+2004,112358,Long Island University Sharks,2004-01-31,-96.02737458092311,included_game_day
+2004,112358,Long Island University Sharks,2004-02-02,-79.33404385534979,included_game_day
+2004,112358,Long Island University Sharks,2004-02-05,-80.99515777465533,included_game_day
+2004,112358,Long Island University Sharks,2004-02-12,-84.47787740844761,included_game_day
+2004,112358,Long Island University Sharks,2004-02-14,-87.97128632342013,included_game_day
+2004,112358,Long Island University Sharks,2004-02-19,-86.05429191991234,included_game_day
+2004,112358,Long Island University Sharks,2004-02-21,-75.57969585872905,included_game_day
+2004,112358,Long Island University Sharks,2004-02-24,-73.20001900978241,included_game_day
+2004,112358,Long Island University Sharks,2004-02-28,-73.62388841130084,included_game_day
+2004,112358,Long Island University Sharks,2004-03-01,-81.99443397325575,included_game_day
+2005,112358,Long Island University Sharks,2004-11-21,6.1751000000000005,included_game_day
+2005,112358,Long Island University Sharks,2004-11-24,6.997590000000001,included_game_day
+2005,112358,Long Island University Sharks,2004-11-30,-27.997169,included_game_day
+2005,112358,Long Island University Sharks,2004-12-04,-6.455226100000001,included_game_day
+2005,112358,Long Island University Sharks,2004-12-08,5.826792149999999,included_game_day
+2005,112358,Long Island University Sharks,2004-12-11,-7.436830222900001,included_game_day
+2005,112358,Long Island University Sharks,2004-12-22,-31.795737195254937,included_game_day
+2005,112358,Long Island University Sharks,2004-12-28,-47.68759606088938,included_game_day
+2005,112358,Long Island University Sharks,2004-12-29,-73.24853842419672,included_game_day
+2005,112358,Long Island University Sharks,2005-01-05,-72.45385091363046,included_game_day
+2005,112358,Long Island University Sharks,2005-01-10,-75.05572532908322,included_game_day
+2005,112358,Long Island University Sharks,2005-01-12,-65.03130868858233,included_game_day
+2005,112358,Long Island University Sharks,2005-01-15,-77.06429427778883,included_game_day
+2005,112358,Long Island University Sharks,2005-01-19,-75.11394369360518,included_game_day
+2005,112358,Long Island University Sharks,2005-01-22,-83.33296868614873,included_game_day
+2005,112358,Long Island University Sharks,2005-01-24,-84.61875146309178,included_game_day
+2005,112358,Long Island University Sharks,2005-01-29,-74.04958921651259,included_game_day
+2005,112358,Long Island University Sharks,2005-01-31,-91.83572467751638,included_game_day
+2005,112358,Long Island University Sharks,2005-02-03,-90.498248737443,included_game_day
+2005,112358,Long Island University Sharks,2005-02-05,-89.69417166664297,included_game_day
+2005,112358,Long Island University Sharks,2005-02-10,-90.27530041368694,included_game_day
+2005,112358,Long Island University Sharks,2005-02-12,-88.90955271589164,included_game_day
+2005,112358,Long Island University Sharks,2005-02-17,-82.78244136083383,included_game_day
+2005,112358,Long Island University Sharks,2005-02-19,-85.23297711310434,included_game_day
+2005,112358,Long Island University Sharks,2005-02-24,-58.123780118727375,included_game_day
+2005,112358,Long Island University Sharks,2005-02-26,-51.17014420504268,included_game_day
+2005,112358,Long Island University Sharks,2005-03-03,-45.28437479706496,included_game_day
+2005,112358,Long Island University Sharks,2005-03-06,-45.23329958137761,included_game_day
+2006,112358,Long Island University Sharks,2005-11-22,-19.96,included_game_day
+2006,112358,Long Island University Sharks,2005-11-26,-27.2491,included_game_day
+2006,112358,Long Island University Sharks,2005-11-29,-34.207516,included_game_day
+2006,112358,Long Island University Sharks,2005-12-03,-27.017083999999997,included_game_day
+2006,112358,Long Island University Sharks,2005-12-10,-21.776899203,included_game_day
+2006,112358,Long Island University Sharks,2005-12-14,-28.36465349737,included_game_day
+2006,112358,Long Island University Sharks,2005-12-29,-28.978249045783,included_game_day
+2006,112358,Long Island University Sharks,2005-12-30,-53.190939189737264,included_game_day
+2006,112358,Long Island University Sharks,2006-01-05,-75.58138477779274,included_game_day
+2006,112358,Long Island University Sharks,2006-01-07,-80.95075910084027,included_game_day
+2006,112358,Long Island University Sharks,2006-01-12,-76.89752276204011,included_game_day
+2006,112358,Long Island University Sharks,2006-01-14,-71.47805982672436,included_game_day
+2006,112358,Long Island University Sharks,2006-01-18,-70.12763755542794,included_game_day
+2006,112358,Long Island University Sharks,2006-01-23,-77.0798516338976,included_game_day
+2006,112358,Long Island University Sharks,2006-01-26,-68.89719665109428,included_game_day
+2006,112358,Long Island University Sharks,2006-01-28,-57.03705052912937,included_game_day
+2006,112358,Long Island University Sharks,2006-02-02,-63.33331037202216,included_game_day
+2006,112358,Long Island University Sharks,2006-02-04,-39.723898860884844,included_game_day
+2006,112358,Long Island University Sharks,2006-02-09,-59.53166655854214,included_game_day
+2006,112358,Long Island University Sharks,2006-02-11,-49.1800697301542,included_game_day
+2006,112358,Long Island University Sharks,2006-02-13,-44.05816385393219,included_game_day
+2006,112358,Long Island University Sharks,2006-02-16,-39.45683010094474,included_game_day
+2006,112358,Long Island University Sharks,2006-02-18,-38.655552375172306,included_game_day
+2006,112358,Long Island University Sharks,2006-02-22,-53.13761328376536,included_game_day
+2006,112358,Long Island University Sharks,2006-02-24,-34.76118259647947,included_game_day
+2006,112358,Long Island University Sharks,2006-02-27,-35.328989187876566,included_game_day
+2006,112358,Long Island University Sharks,2006-03-02,-40.89776546014532,included_game_day
+2007,112358,Long Island University Sharks,2006-11-11,11.0,included_game_day
+2007,112358,Long Island University Sharks,2006-11-17,-1.8200000000000003,included_game_day
+2007,112358,Long Island University Sharks,2006-11-21,-27.1482,included_game_day
+2007,112358,Long Island University Sharks,2006-11-28,-40.048024999999996,included_game_day
+2007,112358,Long Island University Sharks,2006-11-30,-49.225470699999995,included_game_day
+2007,112358,Long Island University Sharks,2006-12-02,-43.40682363,included_game_day
+2007,112358,Long Island University Sharks,2006-12-07,-38.076421292999996,included_game_day
+2007,112358,Long Island University Sharks,2006-12-09,-46.4897937737,included_game_day
+2007,112358,Long Island University Sharks,2006-12-13,-59.13608080395,included_game_day
+2007,112358,Long Island University Sharks,2006-12-15,-66.446302856475,included_game_day
+2007,112358,Long Island University Sharks,2006-12-31,-49.86764215200157,included_game_day
+2007,112358,Long Island University Sharks,2007-01-04,-56.12417239476011,included_game_day
+2007,112358,Long Island University Sharks,2007-01-08,-75.70153397997325,included_game_day
+2007,112358,Long Island University Sharks,2007-01-11,-66.7058998431242,included_game_day
+2007,112358,Long Island University Sharks,2007-01-13,-60.47273821518345,included_game_day
+2007,112358,Long Island University Sharks,2007-01-15,-66.70346491481642,included_game_day
+2007,112358,Long Island University Sharks,2007-01-20,-68.17663525066182,included_game_day
+2007,112358,Long Island University Sharks,2007-01-22,-79.90296656589852,included_game_day
+2007,112358,Long Island University Sharks,2007-01-27,-73.0623267367495,included_game_day
+2007,112358,Long Island University Sharks,2007-01-30,-77.62180457803932,included_game_day
+2007,112358,Long Island University Sharks,2007-02-02,-75.49904741869048,included_game_day
+2007,112358,Long Island University Sharks,2007-02-05,-90.63491515997858,included_game_day
+2007,112358,Long Island University Sharks,2007-02-11,-80.20780214339378,included_game_day
+2007,112358,Long Island University Sharks,2007-02-15,-65.9557181526877,included_game_day
+2007,112358,Long Island University Sharks,2007-02-17,-68.45020996688463,included_game_day
+2007,112358,Long Island University Sharks,2007-02-20,-64.29810423244155,included_game_day
+2007,112358,Long Island University Sharks,2007-02-24,-80.4525867234552,included_game_day
+2007,112358,Long Island University Sharks,2007-02-26,-87.53282677850815,included_game_day
+2008,112358,Long Island University Sharks,2007-11-12,-29.0,included_game_day
+2008,112358,Long Island University Sharks,2007-11-16,-13.99,included_game_day
+2008,112358,Long Island University Sharks,2007-11-20,-10.5297,included_game_day
+2008,112358,Long Island University Sharks,2007-11-24,-12.313910000000002,included_game_day
+2008,112358,Long Island University Sharks,2007-11-28,-16.088243000000002,included_game_day
+2008,112358,Long Island University Sharks,2007-12-01,4.195113359999997,included_game_day
+2008,112358,Long Island University Sharks,2007-12-06,-13.470233170400004,included_game_day
+2008,112358,Long Island University Sharks,2007-12-08,-7.6333658533600035,included_game_day
+2008,112358,Long Island University Sharks,2007-12-10,0.3468705721639971,included_game_day
+2008,112358,Long Island University Sharks,2007-12-13,5.290845625757598,included_game_day
+2008,112358,Long Island University Sharks,2007-12-20,6.3431747527758375,included_game_day
+2008,112358,Long Island University Sharks,2007-12-30,11.590314312642766,included_game_day
+2008,112358,Long Island University Sharks,2007-12-31,4.884516714417689,included_game_day
+2008,112358,Long Island University Sharks,2008-01-07,-5.906670218209747,included_game_day
+2008,112358,Long Island University Sharks,2008-01-14,-21.297228384439798,included_game_day
+2008,112358,Long Island University Sharks,2008-01-17,-4.098841690620237,included_game_day
+2008,112358,Long Island University Sharks,2008-01-24,-1.1254002466441664,included_game_day
+2008,112358,Long Island University Sharks,2008-01-26,-19.980779940629542,included_game_day
+2008,112358,Long Island University Sharks,2008-01-31,-20.700045552205793,included_game_day
+2008,112358,Long Island University Sharks,2008-02-02,-27.79844712472745,included_game_day
+2008,112358,Long Island University Sharks,2008-02-07,-19.420380493125613,included_game_day
+2008,112358,Long Island University Sharks,2008-02-09,-23.978550434733744,included_game_day
+2008,112358,Long Island University Sharks,2008-02-14,-29.95452218468888,included_game_day
+2008,112358,Long Island University Sharks,2008-02-16,-14.129413730341106,included_game_day
+2008,112358,Long Island University Sharks,2008-02-21,-27.37685888932886,included_game_day
+2008,112358,Long Island University Sharks,2008-02-23,-18.987989402623,included_game_day
+2008,112358,Long Island University Sharks,2008-02-28,-6.621878545973603,included_game_day
+2008,112358,Long Island University Sharks,2008-03-01,-3.461941488970096,included_game_day
+2008,112358,Long Island University Sharks,2008-03-06,-13.67460071932417,included_game_day
+2009,112358,Long Island University Sharks,2008-11-14,-7.0,included_game_day
+2009,112358,Long Island University Sharks,2008-11-20,1.92,included_game_day
+2009,112358,Long Island University Sharks,2008-11-22,-9.592,included_game_day
+2009,112358,Long Island University Sharks,2008-11-26,-18.6518,included_game_day
+2009,112358,Long Island University Sharks,2008-12-04,-1.5442165600000024,included_game_day
+2009,112358,Long Island University Sharks,2008-12-06,-11.913376590000002,included_game_day
+2009,112358,Long Island University Sharks,2008-12-10,-19.972514543000003,included_game_day
+2009,112358,Long Island University Sharks,2008-12-13,-21.220863739234,included_game_day
+2009,112358,Long Island University Sharks,2008-12-17,-1.1385318763642012,included_game_day
+2009,112358,Long Island University Sharks,2008-12-22,1.710405365553819,included_game_day
+2009,112358,Long Island University Sharks,2008-12-30,-5.3880083796417635,included_game_day
+2009,112358,Long Island University Sharks,2009-01-03,3.7267213910393524,included_game_day
+2009,112358,Long Island University Sharks,2009-01-05,3.47174133261778,included_game_day
+2009,112358,Long Island University Sharks,2009-01-07,5.684805398970688,included_game_day
+2009,112358,Long Island University Sharks,2009-01-10,20.530871445592545,included_game_day
+2009,112358,Long Island University Sharks,2009-01-15,-2.6281943326541786,included_game_day
+2009,112358,Long Island University Sharks,2009-01-19,-8.816885403665994,included_game_day
+2009,112358,Long Island University Sharks,2009-01-22,-11.858467094851463,included_game_day
+2009,112358,Long Island University Sharks,2009-01-24,-22.04509923684351,included_game_day
+2009,112358,Long Island University Sharks,2009-01-29,-32.89322516600404,included_game_day
+2009,112358,Long Island University Sharks,2009-01-31,-37.236017449345006,included_game_day
+2009,112358,Long Island University Sharks,2009-02-05,-25.235264459026006,included_game_day
+2009,112358,Long Island University Sharks,2009-02-07,-49.87583551655547,included_game_day
+2009,112358,Long Island University Sharks,2009-02-12,-40.489600000103906,included_game_day
+2009,112358,Long Island University Sharks,2009-02-14,-19.37955714745114,included_game_day
+2009,112358,Long Island University Sharks,2009-02-19,-18.248648342337283,included_game_day
+2009,112358,Long Island University Sharks,2009-02-21,-27.247365061468763,included_game_day
+2009,112358,Long Island University Sharks,2009-02-26,-13.273778062245382,included_game_day
+2009,112358,Long Island University Sharks,2009-02-28,-1.235154787011373,included_game_day
+2009,112358,Long Island University Sharks,2009-03-05,-14.970493229150316,included_game_day
+2010,112358,Long Island University Sharks,2009-11-13,-10.0,included_game_day
+2010,112358,Long Island University Sharks,2009-11-17,-13.4,included_game_day
+2010,112358,Long Island University Sharks,2009-11-21,-5.6080000000000005,included_game_day
+2010,112358,Long Island University Sharks,2009-11-24,-1.8662300000000007,included_game_day
+2010,112358,Long Island University Sharks,2009-11-28,-24.409307000000002,included_game_day
+2010,112358,Long Island University Sharks,2009-12-03,-15.589781170000002,included_game_day
+2010,112358,Long Island University Sharks,2009-12-05,-13.570468993000002,included_game_day
+2010,112358,Long Island University Sharks,2009-12-09,-25.206764505280002,included_game_day
+2010,112358,Long Island University Sharks,2009-12-12,-35.775439129131,included_game_day
+2010,112358,Long Island University Sharks,2009-12-19,-44.1926381534824,included_game_day
+2010,112358,Long Island University Sharks,2009-12-29,-60.89427031081396,included_game_day
+2010,112358,Long Island University Sharks,2009-12-30,-72.00997259935073,included_game_day
+2010,112358,Long Island University Sharks,2010-01-04,-77.21773977708685,included_game_day
+2010,112358,Long Island University Sharks,2010-01-07,-65.17162479189771,included_game_day
+2010,112358,Long Island University Sharks,2010-01-09,-62.981297860609736,included_game_day
+2010,112358,Long Island University Sharks,2010-01-14,-47.675930737082034,included_game_day
+2010,112358,Long Island University Sharks,2010-01-16,-61.431844326584134,included_game_day
+2010,112358,Long Island University Sharks,2010-01-21,-75.09707983819465,included_game_day
+2010,112358,Long Island University Sharks,2010-01-23,-62.97756021323997,included_game_day
+2010,112358,Long Island University Sharks,2010-01-28,-61.76036974673043,included_game_day
+2010,112358,Long Island University Sharks,2010-01-30,-65.01227737352669,included_game_day
+2010,112358,Long Island University Sharks,2010-02-04,-52.82585268082181,included_game_day
+2010,112358,Long Island University Sharks,2010-02-06,-62.076712926657905,included_game_day
+2010,112358,Long Island University Sharks,2010-02-11,-51.364871786747855,included_game_day
+2010,112358,Long Island University Sharks,2010-02-13,-48.426417026911864,included_game_day
+2010,112358,Long Island University Sharks,2010-02-18,-50.28748538462787,included_game_day
+2010,112358,Long Island University Sharks,2010-02-20,-48.11407257898537,included_game_day
+2010,112358,Long Island University Sharks,2010-02-25,-57.48924709969348,included_game_day
+2010,112358,Long Island University Sharks,2010-02-27,-50.74399441066522,included_game_day
+2010,112358,Long Island University Sharks,2010-03-04,-54.747090702314686,included_game_day
+2010,112358,Long Island University Sharks,2010-03-07,-49.04880175543883,included_game_day
+2011,112358,Long Island University Sharks,2010-11-12,20.0,included_game_day
+2011,112358,Long Island University Sharks,2010-11-16,45.0,included_game_day
+2011,112358,Long Island University Sharks,2010-11-20,55.44,included_game_day
+2011,112358,Long Island University Sharks,2010-11-23,64.1765,included_game_day
+2011,112358,Long Island University Sharks,2010-11-27,54.74178500000001,included_game_day
+2011,112358,Long Island University Sharks,2010-12-02,46.709571100000005,included_game_day
+2011,112358,Long Island University Sharks,2010-12-04,48.749675026000006,included_game_day
+2011,112358,Long Island University Sharks,2010-12-08,38.571980693360004,included_game_day
+2011,112358,Long Island University Sharks,2010-12-11,32.222092020211406,included_game_day
+2011,112358,Long Island University Sharks,2010-12-13,22.456386439090267,included_game_day
+2011,112358,Long Island University Sharks,2010-12-19,22.13000346474124,included_game_day
+2011,112358,Long Island University Sharks,2010-12-28,22.05639964635281,included_game_day
+2011,112358,Long Island University Sharks,2010-12-30,26.521475819443555,included_game_day
+2011,112358,Long Island University Sharks,2011-01-06,38.40235651428982,included_game_day
+2011,112358,Long Island University Sharks,2011-01-08,47.00903742113363,included_game_day
+2011,112358,Long Island University Sharks,2011-01-13,51.47654823776875,included_game_day
+2011,112358,Long Island University Sharks,2011-01-15,72.25075469249381,included_game_day
+2011,112358,Long Island University Sharks,2011-01-20,83.55179616511388,included_game_day
+2011,112358,Long Island University Sharks,2011-01-22,55.65924867236972,included_game_day
+2011,112358,Long Island University Sharks,2011-01-27,53.33132337678509,included_game_day
+2011,112358,Long Island University Sharks,2011-01-29,47.97355954614361,included_game_day
+2011,112358,Long Island University Sharks,2011-02-03,48.73839236184416,included_game_day
+2011,112358,Long Island University Sharks,2011-02-05,51.83657649834365,included_game_day
+2011,112358,Long Island University Sharks,2011-02-09,51.97376591794586,included_game_day
+2011,112358,Long Island University Sharks,2011-02-12,49.08351745362763,included_game_day
+2011,112358,Long Island University Sharks,2011-02-17,47.05226220376581,included_game_day
+2011,112358,Long Island University Sharks,2011-02-19,60.54555359713079,included_game_day
+2011,112358,Long Island University Sharks,2011-02-24,50.46152887260098,included_game_day
+2011,112358,Long Island University Sharks,2011-02-26,57.76591068564775,included_game_day
+2011,112358,Long Island University Sharks,2011-03-03,57.1437949628348,included_game_day
+2011,112358,Long Island University Sharks,2011-03-06,50.84118071913667,included_game_day
+2011,112358,Long Island University Sharks,2011-03-09,47.41672870360787,included_game_day
+2011,112358,Long Island University Sharks,2011-03-18,41.85057158512117,included_game_day
+2012,112358,Long Island University Sharks,2011-11-11,-15.0,included_game_day
+2012,112358,Long Island University Sharks,2011-11-14,-20.5,included_game_day
+2012,112358,Long Island University Sharks,2011-11-16,-22.240000000000002,included_game_day
+2012,112358,Long Island University Sharks,2011-11-19,0.8739999999999988,included_game_day
+2012,112358,Long Island University Sharks,2011-11-20,7.556599999999999,included_game_day
+2012,112358,Long Island University Sharks,2011-11-28,-2.775538000000002,included_game_day
+2012,112358,Long Island University Sharks,2011-12-01,3.4016754999999987,included_game_day
+2012,112358,Long Island University Sharks,2011-12-03,8.101088486999998,included_game_day
+2012,112358,Long Island University Sharks,2011-12-05,10.0538714723,included_game_day
+2012,112358,Long Island University Sharks,2011-12-10,2.6767392348499994,included_game_day
+2012,112358,Long Island University Sharks,2011-12-14,-5.082957670911401,included_game_day
+2012,112358,Long Island University Sharks,2011-12-17,-9.887988838193861,included_game_day
+2012,112358,Long Island University Sharks,2011-12-20,2.790306067212926,included_game_day
+2012,112358,Long Island University Sharks,2011-12-30,1.3402478406970104,included_game_day
+2012,112358,Long Island University Sharks,2012-01-05,8.734025343121079,included_game_day
+2012,112358,Long Island University Sharks,2012-01-07,14.973648176201445,included_game_day
+2012,112358,Long Island University Sharks,2012-01-12,15.845838563541632,included_game_day
+2012,112358,Long Island University Sharks,2012-01-14,20.990339492310063,included_game_day
+2012,112358,Long Island University Sharks,2012-01-19,23.644404544712952,included_game_day
+2012,112358,Long Island University Sharks,2012-01-21,39.073674083939395,included_game_day
+2012,112358,Long Island University Sharks,2012-01-26,30.94445235782411,included_game_day
+2012,112358,Long Island University Sharks,2012-01-28,42.719184503466764,included_game_day
+2012,112358,Long Island University Sharks,2012-02-02,26.46937567759503,included_game_day
+2012,112358,Long Island University Sharks,2012-02-04,33.83693408543463,included_game_day
+2012,112358,Long Island University Sharks,2012-02-08,43.43891619830768,included_game_day
+2012,112358,Long Island University Sharks,2012-02-12,39.12050188860612,included_game_day
+2012,112358,Long Island University Sharks,2012-02-16,40.71560855222609,included_game_day
+2012,112358,Long Island University Sharks,2012-02-18,46.250817720992536,included_game_day
+2012,112358,Long Island University Sharks,2012-02-23,40.928671304072225,included_game_day
+2012,112358,Long Island University Sharks,2012-02-25,7.442133506618099,included_game_day
+2012,112358,Long Island University Sharks,2012-03-01,12.983180592827926,included_game_day
+2012,112358,Long Island University Sharks,2012-03-04,16.04185751803289,included_game_day
+2012,112358,Long Island University Sharks,2012-03-07,32.376526850860415,included_game_day
+2012,112358,Long Island University Sharks,2012-03-16,26.212659786677868,included_game_day
+2013,112358,Long Island University Sharks,2012-11-09,-6.0,included_game_day
+2013,112358,Long Island University Sharks,2012-11-12,-7.8,included_game_day
+2013,112358,Long Island University Sharks,2012-11-16,-19.330000000000002,included_game_day
+2013,112358,Long Island University Sharks,2012-11-23,-38.59085,included_game_day
+2013,112358,Long Island University Sharks,2012-11-28,-27.583591000000002,included_game_day
+2013,112358,Long Island University Sharks,2012-12-01,-23.49910207,included_game_day
+2013,112358,Long Island University Sharks,2012-12-08,-29.10816764359,included_game_day
+2013,112358,Long Island University Sharks,2012-12-12,0.628989659769001,included_game_day
+2013,112358,Long Island University Sharks,2012-12-16,21.7285702739211,included_game_day
+2013,112358,Long Island University Sharks,2012-12-19,7.1558034897789895,included_game_day
+2013,112358,Long Island University Sharks,2012-12-22,-19.412874224954322,included_game_day
+2013,112358,Long Island University Sharks,2012-12-29,-26.44416929344296,included_game_day
+2013,112358,Long Island University Sharks,2013-01-03,-34.16964058359866,included_game_day
+2013,112358,Long Island University Sharks,2013-01-05,-39.43953794918645,included_game_day
+2013,112358,Long Island University Sharks,2013-01-10,-51.31597403858485,included_game_day
+2013,112358,Long Island University Sharks,2013-01-12,-39.51544956779815,included_game_day
+2013,112358,Long Island University Sharks,2013-01-17,-38.21763073835625,included_game_day
+2013,112358,Long Island University Sharks,2013-01-19,-35.72530581280084,included_game_day
+2013,112358,Long Island University Sharks,2013-01-24,-19.93785566345969,included_game_day
+2013,112358,Long Island University Sharks,2013-01-26,-12.265600412602437,included_game_day
+2013,112358,Long Island University Sharks,2013-01-31,-8.286058190547157,included_game_day
+2013,112358,Long Island University Sharks,2013-02-02,-11.817313836252247,included_game_day
+2013,112358,Long Island University Sharks,2013-02-07,-4.038015995004666,included_game_day
+2013,112358,Long Island University Sharks,2013-02-10,1.295158481458004,included_game_day
+2013,112358,Long Island University Sharks,2013-02-14,7.600590427953901,included_game_day
+2013,112358,Long Island University Sharks,2013-02-16,14.742894289003868,included_game_day
+2013,112358,Long Island University Sharks,2013-02-21,1.8580095567629833,included_game_day
+2013,112358,Long Island University Sharks,2013-02-24,2.7234730186412492,included_game_day
+2013,112358,Long Island University Sharks,2013-02-28,-7.063778255874583,included_game_day
+2013,112358,Long Island University Sharks,2013-03-02,-3.4258001671326994,included_game_day
+2013,112358,Long Island University Sharks,2013-03-06,1.4845823038608073,included_game_day
+2013,112358,Long Island University Sharks,2013-03-09,18.028486921827856,included_game_day
+2013,112358,Long Island University Sharks,2013-03-12,37.36185798670626,included_game_day
+2013,112358,Long Island University Sharks,2013-03-20,21.61502301183086,included_game_day
+2014,112358,Long Island University Sharks,2013-11-09,4.0,included_game_day
+2014,112358,Long Island University Sharks,2013-11-12,8.1,included_game_day
+2014,112358,Long Island University Sharks,2013-11-22,-8.399,included_game_day
+2014,112358,Long Island University Sharks,2013-11-23,-39.14284,included_game_day
+2014,112358,Long Island University Sharks,2013-11-24,-49.17364,included_game_day
+2014,112358,Long Island University Sharks,2013-12-01,-46.1566274,included_game_day
+2014,112358,Long Island University Sharks,2013-12-05,-49.213956274,included_game_day
+2014,112358,Long Island University Sharks,2013-12-09,-50.356546720109996,included_game_day
+2014,112358,Long Island University Sharks,2013-12-12,-41.9036939526196,included_game_day
+2014,112358,Long Island University Sharks,2013-12-18,-44.94940883643764,included_game_day
+2014,112358,Long Island University Sharks,2013-12-21,-75.58275627509292,included_game_day
+2014,112358,Long Island University Sharks,2013-12-28,-68.76699793847804,included_game_day
+2014,112358,Long Island University Sharks,2013-12-30,-54.35009361561757,included_game_day
+2014,112358,Long Island University Sharks,2014-01-09,-62.3345483128846,included_game_day
+2014,112358,Long Island University Sharks,2014-01-11,-68.03053987348717,included_game_day
+2014,112358,Long Island University Sharks,2014-01-16,-92.1430721328451,included_game_day
+2014,112358,Long Island University Sharks,2014-01-18,-89.48996847491944,included_game_day
+2014,112358,Long Island University Sharks,2014-01-23,-84.48667956571039,included_game_day
+2014,112358,Long Island University Sharks,2014-01-25,-78.69347272246284,included_game_day
+2014,112358,Long Island University Sharks,2014-01-30,-83.35511732614741,included_game_day
+2014,112358,Long Island University Sharks,2014-02-01,-79.17381338976801,included_game_day
+2014,112358,Long Island University Sharks,2014-02-06,-84.24266436955136,included_game_day
+2014,112358,Long Island University Sharks,2014-02-08,-104.40391713449037,included_game_day
+2014,112358,Long Island University Sharks,2014-02-16,-96.00695360049052,included_game_day
+2014,112358,Long Island University Sharks,2014-02-20,-90.44198723758518,included_game_day
+2014,112358,Long Island University Sharks,2014-02-22,-106.87512409771811,included_game_day
+2014,112358,Long Island University Sharks,2014-02-25,-98.37510079138302,included_game_day
+2014,112358,Long Island University Sharks,2014-02-27,-103.47633210609771,included_game_day
+2014,112358,Long Island University Sharks,2014-03-01,-119.10997971491258,included_game_day
+2015,112358,Long Island University Sharks,2014-11-19,-8.4,included_game_day
+2015,112358,Long Island University Sharks,2014-11-25,-11.795300000000001,included_game_day
+2015,112358,Long Island University Sharks,2014-11-27,-29.45247,included_game_day
+2015,112358,Long Island University Sharks,2014-11-30,-38.463095,included_game_day
+2015,112358,Long Island University Sharks,2014-12-03,-53.96386270000001,included_game_day
+2015,112358,Long Island University Sharks,2014-12-06,-56.96660270000001,included_game_day
+2015,112358,Long Island University Sharks,2014-12-09,-43.81372347600001,included_game_day
+2015,112358,Long Island University Sharks,2014-12-14,-28.328586069087006,included_game_day
+2015,112358,Long Island University Sharks,2014-12-18,-16.859436089348307,included_game_day
+2015,112358,Long Island University Sharks,2014-12-22,-11.527387203336476,included_game_day
+2015,112358,Long Island University Sharks,2014-12-28,-29.34093295951333,included_game_day
+2015,112358,Long Island University Sharks,2015-01-03,-36.49732735475813,included_game_day
+2015,112358,Long Island University Sharks,2015-01-05,-46.1780935740139,included_game_day
+2015,112358,Long Island University Sharks,2015-01-08,-46.66434925224328,included_game_day
+2015,112358,Long Island University Sharks,2015-01-10,-52.71662253815541,included_game_day
+2015,112358,Long Island University Sharks,2015-01-15,-53.012660390263754,included_game_day
+2015,112358,Long Island University Sharks,2015-01-17,-57.206645098680326,included_game_day
+2015,112358,Long Island University Sharks,2015-01-22,-54.091574179464466,included_game_day
+2015,112358,Long Island University Sharks,2015-01-24,-49.90320871634167,included_game_day
+2015,112358,Long Island University Sharks,2015-01-29,-48.81124306007814,included_game_day
+2015,112358,Long Island University Sharks,2015-01-31,-57.29911399604331,included_game_day
+2015,112358,Long Island University Sharks,2015-02-05,-47.80343749087879,included_game_day
+2015,112358,Long Island University Sharks,2015-02-07,-43.22063436091708,included_game_day
+2015,112358,Long Island University Sharks,2015-02-12,-35.19604390086272,included_game_day
+2015,112358,Long Island University Sharks,2015-02-14,-27.690085762786065,included_game_day
+2015,112358,Long Island University Sharks,2015-02-19,-40.48191634365274,included_game_day
+2015,112358,Long Island University Sharks,2015-02-21,-58.87755457586077,included_game_day
+2015,112358,Long Island University Sharks,2015-02-26,-57.894442173733694,included_game_day
+2015,112358,Long Island University Sharks,2015-02-28,-63.081774684504815,included_game_day
+2015,112358,Long Island University Sharks,2015-03-04,-61.21557161999146,included_game_day
+2016,112358,Long Island University Sharks,2015-11-16,4.2,included_game_day
+2016,112358,Long Island University Sharks,2015-11-19,1.6799999999999997,included_game_day
+2016,112358,Long Island University Sharks,2015-11-22,-3.588,included_game_day
+2016,112358,Long Island University Sharks,2015-11-25,-8.432500000000001,included_game_day
+2016,112358,Long Island University Sharks,2015-11-29,-29.60925,included_game_day
+2016,112358,Long Island University Sharks,2015-12-03,-21.537986,included_game_day
+2016,112358,Long Island University Sharks,2015-12-08,-14.346628039999999,included_game_day
+2016,112358,Long Island University Sharks,2015-12-12,-14.645306764157999,included_game_day
+2016,112358,Long Island University Sharks,2015-12-18,-25.6246413177422,included_game_day
+2016,112358,Long Island University Sharks,2015-12-22,-20.77422956401296,included_game_day
+2016,112358,Long Island University Sharks,2015-12-29,-19.2911002824478,included_game_day
+2016,112358,Long Island University Sharks,2016-01-02,-37.28228589495537,included_game_day
+2016,112358,Long Island University Sharks,2016-01-04,-35.44066296518707,included_game_day
+2016,112358,Long Island University Sharks,2016-01-07,-51.97485266516611,included_game_day
+2016,112358,Long Island University Sharks,2016-01-09,-63.34264646700085,included_game_day
+2016,112358,Long Island University Sharks,2016-01-14,-53.712530350666,included_game_day
+2016,112358,Long Island University Sharks,2016-01-16,-34.897299957128254,included_game_day
+2016,112358,Long Island University Sharks,2016-01-21,-37.80843316481864,included_game_day
+2016,112358,Long Island University Sharks,2016-01-23,-58.21323852693986,included_game_day
+2016,112358,Long Island University Sharks,2016-01-27,-54.922322197014466,included_game_day
+2016,112358,Long Island University Sharks,2016-01-30,-60.39868142950426,included_game_day
+2016,112358,Long Island University Sharks,2016-02-04,-56.034393171459314,included_game_day
+2016,112358,Long Island University Sharks,2016-02-06,-63.372814363296364,included_game_day
+2016,112358,Long Island University Sharks,2016-02-11,-46.284031458803845,included_game_day
+2016,112358,Long Island University Sharks,2016-02-15,-27.37815960373524,included_game_day
+2016,112358,Long Island University Sharks,2016-02-18,-36.90857587299447,included_game_day
+2016,112358,Long Island University Sharks,2016-02-20,-31.660939157651892,included_game_day
+2016,112358,Long Island University Sharks,2016-02-25,-41.30847176972924,included_game_day
+2016,112358,Long Island University Sharks,2016-02-27,-61.26204462247636,included_game_day
+2016,112358,Long Island University Sharks,2016-03-02,-48.53904786990152,included_game_day
+2016,112358,Long Island University Sharks,2016-03-05,-53.88225618898128,included_game_day
+2017,112358,Long Island University Sharks,2016-11-16,0.7999999999999998,included_game_day
+2017,112358,Long Island University Sharks,2016-11-19,5.749,included_game_day
+2017,112358,Long Island University Sharks,2016-11-20,-7.123,included_game_day
+2017,112358,Long Island University Sharks,2016-11-21,-2.8070000000000004,included_game_day
+2017,112358,Long Island University Sharks,2016-11-26,0.6887199999999996,included_game_day
+2017,112358,Long Island University Sharks,2016-11-30,6.683134177000001,included_game_day
+2017,112358,Long Island University Sharks,2016-12-03,-3.631945470699998,included_game_day
+2017,112358,Long Island University Sharks,2016-12-06,-21.089706133629996,included_game_day
+2017,112358,Long Island University Sharks,2016-12-11,-14.452668055988996,included_game_day
+2017,112358,Long Island University Sharks,2016-12-14,-11.290570399904096,included_game_day
+2017,112358,Long Island University Sharks,2016-12-18,-34.52371433639912,included_game_day
+2017,112358,Long Island University Sharks,2016-12-21,-46.141638261972346,included_game_day
+2017,112358,Long Island University Sharks,2016-12-29,-51.97061038454312,included_game_day
+2017,112358,Long Island University Sharks,2016-12-31,-46.208341032358646,included_game_day
+2017,112358,Long Island University Sharks,2017-01-05,-31.935843696645346,included_game_day
+2017,112358,Long Island University Sharks,2017-01-07,-16.39295519574807,included_game_day
+2017,112358,Long Island University Sharks,2017-01-12,-19.6749461594636,included_game_day
+2017,112358,Long Island University Sharks,2017-01-14,-28.02161501219056,included_game_day
+2017,112358,Long Island University Sharks,2017-01-19,-25.00948005238315,included_game_day
+2017,112358,Long Island University Sharks,2017-01-21,-40.97297249036993,included_game_day
+2017,112358,Long Island University Sharks,2017-01-26,-39.263065470919656,included_game_day
+2017,112358,Long Island University Sharks,2017-01-28,-54.07942026915801,included_game_day
+2017,112358,Long Island University Sharks,2017-02-02,-63.3276852615362,included_game_day
+2017,112358,Long Island University Sharks,2017-02-04,-64.22526092021013,included_game_day
+2017,112358,Long Island University Sharks,2017-02-09,-58.009401637702695,included_game_day
+2017,112358,Long Island University Sharks,2017-02-11,-53.88403270769477,included_game_day
+2017,112358,Long Island University Sharks,2017-02-15,-23.704201864565615,included_game_day
+2017,112358,Long Island University Sharks,2017-02-18,-28.888446293387076,included_game_day
+2017,112358,Long Island University Sharks,2017-02-23,-20.095385648392078,included_game_day
+2017,112358,Long Island University Sharks,2017-02-25,-13.607545173648502,included_game_day
+2017,112358,Long Island University Sharks,2017-03-01,-21.35613956586394,included_game_day
+2018,112358,Long Island University Sharks,2017-11-10,-3.0,included_game_day
+2018,112358,Long Island University Sharks,2017-11-13,-13.1,included_game_day
+2018,112358,Long Island University Sharks,2017-11-17,-15.14,included_game_day
+2018,112358,Long Island University Sharks,2017-11-18,-15.179,included_game_day
+2018,112358,Long Island University Sharks,2017-11-22,-17.4704,included_game_day
+2018,112358,Long Island University Sharks,2017-11-25,-21.378144,included_game_day
+2018,112358,Long Island University Sharks,2017-11-28,-21.5373698,included_game_day
+2018,112358,Long Island University Sharks,2017-11-30,-27.21875609,included_game_day
+2018,112358,Long Island University Sharks,2017-12-04,-26.729380412,included_game_day
+2018,112358,Long Island University Sharks,2017-12-10,-33.4725615988,included_game_day
+2018,112358,Long Island University Sharks,2017-12-17,-49.653094291491,included_game_day
+2018,112358,Long Island University Sharks,2017-12-22,-32.0390149287049,included_game_day
+2018,112358,Long Island University Sharks,2017-12-29,-50.751157120944015,included_game_day
+2018,112358,Long Island University Sharks,2017-12-31,-41.60408858328561,included_game_day
+2018,112358,Long Island University Sharks,2018-01-04,-53.82462737671201,included_game_day
+2018,112358,Long Island University Sharks,2018-01-06,-54.36257889873864,included_game_day
+2018,112358,Long Island University Sharks,2018-01-11,-46.465777741762,included_game_day
+2018,112358,Long Island University Sharks,2018-01-13,-44.06395952697789,included_game_day
+2018,112358,Long Island University Sharks,2018-01-18,-51.03004219814159,included_game_day
+2018,112358,Long Island University Sharks,2018-01-20,-59.291176322918105,included_game_day
+2018,112358,Long Island University Sharks,2018-01-25,-60.73467522750155,included_game_day
+2018,112358,Long Island University Sharks,2018-01-27,-58.77548075383582,included_game_day
+2018,112358,Long Island University Sharks,2018-02-01,-46.310921401033596,included_game_day
+2018,112358,Long Island University Sharks,2018-02-03,-38.44458327866681,included_game_day
+2018,112358,Long Island University Sharks,2018-02-08,-24.335246557765053,included_game_day
+2018,112358,Long Island University Sharks,2018-02-10,-45.72942421300805,included_game_day
+2018,112358,Long Island University Sharks,2018-02-15,-51.53968748676588,included_game_day
+2018,112358,Long Island University Sharks,2018-02-17,-42.91326043471958,included_game_day
+2018,112358,Long Island University Sharks,2018-02-22,-42.96752056935806,included_game_day
+2018,112358,Long Island University Sharks,2018-02-24,-36.25025478921159,included_game_day
+2018,112358,Long Island University Sharks,2018-02-28,-19.05805867259496,included_game_day
+2018,112358,Long Island University Sharks,2018-03-03,-23.445877395520117,included_game_day
+2018,112358,Long Island University Sharks,2018-03-06,-6.196853737353631,included_game_day
+2018,112358,Long Island University Sharks,2018-03-13,-14.010111594861694,included_game_day
+2019,112358,Long Island University Sharks,2018-11-09,-1.0,included_game_day
+2019,112358,Long Island University Sharks,2018-11-13,1.96,included_game_day
+2019,112358,Long Island University Sharks,2018-11-18,-20.105999999999998,included_game_day
+2019,112358,Long Island University Sharks,2018-11-20,-22.544999999999998,included_game_day
+2019,112358,Long Island University Sharks,2018-11-24,-29.436617,included_game_day
+2019,112358,Long Island University Sharks,2018-11-29,-24.7656799,included_game_day
+2019,112358,Long Island University Sharks,2018-11-30,-39.81509351,included_game_day
+2019,112358,Long Island University Sharks,2018-12-08,-21.903674320899995,included_game_day
+2019,112358,Long Island University Sharks,2018-12-12,-18.202880388979995,included_game_day
+2019,112358,Long Island University Sharks,2018-12-21,-28.831409220863478,included_game_day
+2019,112358,Long Island University Sharks,2018-12-30,-17.450636634420132,included_game_day
+2019,112358,Long Island University Sharks,2019-01-03,-20.815144402001124,included_game_day
+2019,112358,Long Island University Sharks,2019-01-05,-14.10503631925739,included_game_day
+2019,112358,Long Island University Sharks,2019-01-10,-29.783002094187786,included_game_day
+2019,112358,Long Island University Sharks,2019-01-12,-27.22441670577551,included_game_day
+2019,112358,Long Island University Sharks,2019-01-19,-28.633113309744953,included_game_day
+2019,112358,Long Island University Sharks,2019-01-21,-41.25499168823545,included_game_day
+2019,112358,Long Island University Sharks,2019-01-24,-44.51617962043364,included_game_day
+2019,112358,Long Island University Sharks,2019-01-26,-32.26561451560622,included_game_day
+2019,112358,Long Island University Sharks,2019-01-31,-29.99211829152999,included_game_day
+2019,112358,Long Island University Sharks,2019-02-02,-42.90228171353135,included_game_day
+2019,112358,Long Island University Sharks,2019-02-07,-36.22874788539629,included_game_day
+2019,112358,Long Island University Sharks,2019-02-09,-44.377851689604725,included_game_day
+2019,112358,Long Island University Sharks,2019-02-14,-48.19397608091539,included_game_day
+2019,112358,Long Island University Sharks,2019-02-16,-40.44413266659122,included_game_day
+2019,112358,Long Island University Sharks,2019-02-21,-51.48765798695188,included_game_day
+2019,112358,Long Island University Sharks,2019-02-23,-41.219119786428976,included_game_day
+2019,112358,Long Island University Sharks,2019-02-28,-20.93875845795958,included_game_day
+2019,112358,Long Island University Sharks,2019-03-02,-12.769394678772876,included_game_day
+2019,112358,Long Island University Sharks,2019-03-06,0.18042553527345717,included_game_day
+2019,112358,Long Island University Sharks,2019-03-09,-6.90243652093894,included_game_day
+2020,112358,Long Island University Sharks,2019-11-05,-8.0,included_game_day
+2020,112358,Long Island University Sharks,2019-11-08,-24.4,included_game_day
+2020,112358,Long Island University Sharks,2019-11-13,-23.259999999999998,included_game_day
+2020,112358,Long Island University Sharks,2019-11-18,-15.918199999999999,included_game_day
+2020,112358,Long Island University Sharks,2019-11-22,-21.4871552,included_game_day
+2020,112358,Long Island University Sharks,2019-11-24,-38.19843968,included_game_day
+2020,112358,Long Island University Sharks,2019-11-28,-39.474350532,included_game_day
+2020,112358,Long Island University Sharks,2019-11-29,-29.015144653600004,included_game_day
+2020,112358,Long Island University Sharks,2019-12-07,-13.612100558240003,included_game_day
+2020,112358,Long Island University Sharks,2019-12-14,-20.463383026766003,included_game_day
+2020,112358,Long Island University Sharks,2019-12-20,-12.356000920248523,included_game_day
+2020,112358,Long Island University Sharks,2019-12-22,-27.596349427970168,included_game_day
+2020,112358,Long Island University Sharks,2020-01-04,-36.603263439976075,included_game_day
+2020,112358,Long Island University Sharks,2020-01-09,-39.73522321083904,included_game_day
+2020,112358,Long Island University Sharks,2020-01-11,-31.371384492151076,included_game_day
+2020,112358,Long Island University Sharks,2020-01-15,-27.782064878435403,included_game_day
+2020,112358,Long Island University Sharks,2020-01-18,-8.857370272025939,included_game_day
+2020,112358,Long Island University Sharks,2020-01-20,-21.14914603816918,included_game_day
+2020,112358,Long Island University Sharks,2020-01-23,-16.880591509571254,included_game_day
+2020,112358,Long Island University Sharks,2020-01-25,-24.787676200496694,included_game_day
+2020,112358,Long Island University Sharks,2020-02-01,-30.665106063682607,included_game_day
+2020,112358,Long Island University Sharks,2020-02-06,-36.96997651720234,included_game_day
+2020,112358,Long Island University Sharks,2020-02-08,-32.90475585033647,included_game_day
+2020,112358,Long Island University Sharks,2020-02-13,-24.333198052110564,included_game_day
+2020,112358,Long Island University Sharks,2020-02-15,-32.67218367410834,included_game_day
+2020,112358,Long Island University Sharks,2020-02-18,-48.18820710197268,included_game_day
+2020,112358,Long Island University Sharks,2020-02-21,-38.56449343922193,included_game_day
+2020,112358,Long Island University Sharks,2020-02-23,-31.31451543542306,included_game_day
+2020,112358,Long Island University Sharks,2020-02-27,-32.957870410901265,included_game_day
+2020,112358,Long Island University Sharks,2020-02-29,-34.651899543192265,included_game_day
+2020,112358,Long Island University Sharks,2020-03-04,-36.17993745846268,included_game_day
+2020,112358,Long Island University Sharks,2020-03-07,-50.498971142846386,included_game_day
+2021,112358,Long Island University Sharks,2020-12-16,21.0,included_game_day
+2021,112358,Long Island University Sharks,2020-12-17,2.8000000000000007,included_game_day
+2021,112358,Long Island University Sharks,2021-01-07,-2.3048849999999987,included_game_day
+2021,112358,Long Island University Sharks,2021-01-08,3.611207000000002,included_game_day
+2021,112358,Long Island University Sharks,2021-01-14,16.077163190526804,included_game_day
+2021,112358,Long Island University Sharks,2021-01-15,13.049928142948243,included_game_day
+2021,112358,Long Island University Sharks,2021-01-27,0.4125010406017324,included_game_day
+2021,112358,Long Island University Sharks,2021-01-28,5.302559358724523,included_game_day
+2021,112358,Long Island University Sharks,2021-01-30,20.42440191618779,included_game_day
+2021,112358,Long Island University Sharks,2021-02-04,4.124070872769792,included_game_day
+2021,112358,Long Island University Sharks,2021-02-05,-15.916193961964602,included_game_day
+2021,112358,Long Island University Sharks,2021-02-08,-9.450868031223084,included_game_day
+2021,112358,Long Island University Sharks,2021-02-11,-11.939622487362733,included_game_day
+2021,112358,Long Island University Sharks,2021-02-12,-25.93062605227445,included_game_day
+2021,112358,Long Island University Sharks,2021-02-20,-22.38257162416418,included_game_day
+2021,112358,Long Island University Sharks,2021-02-21,-30.544128081675957,included_game_day
+2021,112358,Long Island University Sharks,2021-02-25,-28.15123797877198,included_game_day
+2021,112358,Long Island University Sharks,2021-02-26,-22.2369258964488,included_game_day
+2022,112358,Long Island University Sharks,2021-11-09,-31.0,included_game_day
+2022,112358,Long Island University Sharks,2021-11-12,-48.9,included_game_day
+2022,112358,Long Island University Sharks,2021-11-17,-87.23249999999999,included_game_day
+2022,112358,Long Island University Sharks,2021-11-23,-78.75925,included_game_day
+2022,112358,Long Island University Sharks,2021-11-27,-41.265795,included_game_day
+2022,112358,Long Island University Sharks,2021-11-30,-41.197739556,included_game_day
+2022,112358,Long Island University Sharks,2021-12-02,-39.3638666115,included_game_day
+2022,112358,Long Island University Sharks,2021-12-09,-46.52342342003,included_game_day
+2022,112358,Long Island University Sharks,2021-12-19,-20.810581703657,included_game_day
+2022,112358,Long Island University Sharks,2021-12-29,-24.067411904862613,included_game_day
+2022,112358,Long Island University Sharks,2021-12-31,-29.088539379084867,included_game_day
+2022,112358,Long Island University Sharks,2022-01-06,-19.25737526192512,included_game_day
+2022,112358,Long Island University Sharks,2022-01-08,-24.117056726705467,included_game_day
+2022,112358,Long Island University Sharks,2022-01-15,-11.790342417320865,included_game_day
+2022,112358,Long Island University Sharks,2022-01-17,0.884626821071425,included_game_day
+2022,112358,Long Island University Sharks,2022-01-21,-5.177170484781053,included_game_day
+2022,112358,Long Island University Sharks,2022-01-23,-8.254502654093997,included_game_day
+2022,112358,Long Island University Sharks,2022-01-27,-17.629300420891454,included_game_day
+2022,112358,Long Island University Sharks,2022-01-30,-19.312951855917262,included_game_day
+2022,112358,Long Island University Sharks,2022-02-03,-25.69928138503228,included_game_day
+2022,112358,Long Island University Sharks,2022-02-05,-31.87935547244263,included_game_day
+2022,112358,Long Island University Sharks,2022-02-10,-33.27676949526665,included_game_day
+2022,112358,Long Island University Sharks,2022-02-12,-20.093975247710972,included_game_day
+2022,112358,Long Island University Sharks,2022-02-17,-4.491682180620369,included_game_day
+2022,112358,Long Island University Sharks,2022-02-19,1.5134192783029334,included_game_day
+2022,112358,Long Island University Sharks,2022-02-24,4.268476664562034,included_game_day
+2022,112358,Long Island University Sharks,2022-02-26,-3.0572985021590746,included_game_day
+2022,112358,Long Island University Sharks,2022-03-02,-5.5264921180370585,included_game_day
+2022,112358,Long Island University Sharks,2022-03-05,-20.82092903921646,included_game_day
+2023,112358,Long Island University Sharks,2022-11-07,-38.0,included_game_day
+2023,112358,Long Island University Sharks,2022-11-17,-65.577,included_game_day
+2023,112358,Long Island University Sharks,2022-11-22,-73.2371,included_game_day
+2023,112358,Long Island University Sharks,2022-11-23,-96.29741,included_game_day
+2023,112358,Long Island University Sharks,2022-11-29,-104.99176865999999,included_game_day
+2023,112358,Long Island University Sharks,2022-12-02,-104.481655928,included_game_day
+2023,112358,Long Island University Sharks,2022-12-05,-111.35000141201999,included_game_day
+2023,112358,Long Island University Sharks,2022-12-10,-134.067584770238,included_game_day
+2023,112358,Long Island University Sharks,2022-12-14,-143.9869285061468,included_game_day
+2023,112358,Long Island University Sharks,2022-12-18,-155.2357918009251,included_game_day
+2023,112358,Long Island University Sharks,2022-12-29,-153.94129388725474,included_game_day
+2023,112358,Long Island University Sharks,2022-12-31,-166.81654230375662,included_game_day
+2023,112358,Long Island University Sharks,2023-01-05,-171.81672350677206,included_game_day
+2023,112358,Long Island University Sharks,2023-01-07,-167.49644456745463,included_game_day
+2023,112358,Long Island University Sharks,2023-01-14,-173.6636253055275,included_game_day
+2023,112358,Long Island University Sharks,2023-01-16,-175.41889457061217,included_game_day
+2023,112358,Long Island University Sharks,2023-01-20,-176.51230110068195,included_game_day
+2023,112358,Long Island University Sharks,2023-01-22,-185.9325211168006,included_game_day
+2023,112358,Long Island University Sharks,2023-01-26,-165.952427708246,included_game_day
+2023,112358,Long Island University Sharks,2023-01-28,-168.05725074028842,included_game_day
+2023,112358,Long Island University Sharks,2023-02-02,-172.3594136137445,included_game_day
+2023,112358,Long Island University Sharks,2023-02-09,-164.57381344830802,included_game_day
+2023,112358,Long Island University Sharks,2023-02-11,-162.83529175200826,included_game_day
+2023,112358,Long Island University Sharks,2023-02-16,-165.7890509366275,included_game_day
+2023,112358,Long Island University Sharks,2023-02-18,-170.44262290637582,included_game_day
+2023,112358,Long Island University Sharks,2023-02-25,-179.74550819826098,included_game_day
+2023,112358,Long Island University Sharks,2023-03-01,-175.1878164317691,included_game_day
+2024,112358,Long Island University Sharks,2023-11-10,-19.0,included_game_day
+2024,112358,Long Island University Sharks,2023-11-13,-47.204,included_game_day
+2024,112358,Long Island University Sharks,2023-11-15,-55.6436,included_game_day
+2024,112358,Long Island University Sharks,2023-11-21,-58.00634,included_game_day
+2024,112358,Long Island University Sharks,2023-11-24,-40.920616,included_game_day
+2024,112358,Long Island University Sharks,2023-11-25,-43.621944400000004,included_game_day
+2024,112358,Long Island University Sharks,2023-12-02,-54.760705435000006,included_game_day
+2024,112358,Long Island University Sharks,2023-12-06,-89.95792901300001,included_game_day
+2024,112358,Long Island University Sharks,2023-12-12,-89.15597748136001,included_game_day
+2024,112358,Long Island University Sharks,2023-12-16,-95.15086462566401,included_game_day
+2024,112358,Long Island University Sharks,2023-12-23,-110.27541791359377,included_game_day
+2024,112358,Long Island University Sharks,2023-12-28,-117.6474269409936,included_game_day
+2024,112358,Long Island University Sharks,2024-01-04,-111.39816595111665,included_game_day
+2024,112358,Long Island University Sharks,2024-01-06,-105.41299474096593,included_game_day
+2024,112358,Long Island University Sharks,2024-01-13,-132.49599786154448,included_game_day
+2024,112358,Long Island University Sharks,2024-01-19,-133.0876426757022,included_game_day
+2024,112358,Long Island University Sharks,2024-01-21,-132.28841566458988,included_game_day
+2024,112358,Long Island University Sharks,2024-01-25,-132.9858239078242,included_game_day
+2024,112358,Long Island University Sharks,2024-01-27,-130.93684269351814,included_game_day
+2024,112358,Long Island University Sharks,2024-02-01,-129.99200071408296,included_game_day
+2024,112358,Long Island University Sharks,2024-02-03,-128.75530211639662,included_game_day
+2024,112358,Long Island University Sharks,2024-02-08,-121.04829073323103,included_game_day
+2024,112358,Long Island University Sharks,2024-02-10,-99.62902141302752,included_game_day
+2024,112358,Long Island University Sharks,2024-02-15,-103.04474640323478,included_game_day
+2024,112358,Long Island University Sharks,2024-02-17,-104.49090881127863,included_game_day
+2024,112358,Long Island University Sharks,2024-02-22,-87.9563047344965,included_game_day
+2024,112358,Long Island University Sharks,2024-02-25,-96.63135114164307,included_game_day
+2024,112358,Long Island University Sharks,2024-02-29,-99.59017213215249,included_game_day
+2024,112358,Long Island University Sharks,2024-03-06,-91.58438018575171,included_game_day
+2025,112358,Long Island University Sharks,2024-11-04,-27.0,included_game_day
+2025,112358,Long Island University Sharks,2024-11-11,-13.71,included_game_day
+2025,112358,Long Island University Sharks,2024-11-15,-22.59,included_game_day
+2025,112358,Long Island University Sharks,2024-11-20,-28.090829999999997,included_game_day
+2025,112358,Long Island University Sharks,2024-11-23,-19.266366999999995,included_game_day
+2025,112358,Long Island University Sharks,2024-11-25,-37.260101999999996,included_game_day
+2025,112358,Long Island University Sharks,2024-11-29,-52.8886918,included_game_day
+2025,112358,Long Island University Sharks,2024-11-30,-58.930599263,included_game_day
+2025,112358,Long Island University Sharks,2024-12-01,-65.135763103,included_game_day
+2025,112358,Long Island University Sharks,2024-12-11,-63.992884478154004,included_game_day
+2025,112358,Long Island University Sharks,2024-12-14,-69.9467489202506,included_game_day
+2025,112358,Long Island University Sharks,2024-12-18,-77.71077485860364,included_game_day
+2025,112358,Long Island University Sharks,2024-12-21,-78.42891234495328,included_game_day
+2025,112358,Long Island University Sharks,2025-01-03,-67.05040782635822,included_game_day
+2025,112358,Long Island University Sharks,2025-01-05,-64.12751837909373,included_game_day
+2025,112358,Long Island University Sharks,2025-01-10,-49.10003186427839,included_game_day
+2025,112358,Long Island University Sharks,2025-01-12,-40.02644482023385,included_game_day
+2025,112358,Long Island University Sharks,2025-01-18,-34.1263042455852,included_game_day
+2025,112358,Long Island University Sharks,2025-01-20,-34.116144559035405,included_game_day
+2025,112358,Long Island University Sharks,2025-01-24,-46.389749044628104,included_game_day
+2025,112358,Long Island University Sharks,2025-01-26,-52.976594851637564,included_game_day
+2025,112358,Long Island University Sharks,2025-01-30,-62.94788653973722,included_game_day
+2025,112358,Long Island University Sharks,2025-02-01,-73.28809941722714,included_game_day
+2025,112358,Long Island University Sharks,2025-02-06,-59.10824152799681,included_game_day
+2025,112358,Long Island University Sharks,2025-02-08,-60.46800167121114,included_game_day
+2025,112358,Long Island University Sharks,2025-02-15,-57.56554336299926,included_game_day
+2025,112358,Long Island University Sharks,2025-02-22,-46.435471441714824,included_game_day
+2025,112358,Long Island University Sharks,2025-02-27,-41.256668951715675,included_game_day
+2025,112358,Long Island University Sharks,2025-03-01,-19.916644300162414,included_game_day
+2025,112358,Long Island University Sharks,2025-03-05,-26.665786752393597,included_game_day
+2025,112358,Long Island University Sharks,2025-03-08,-37.549120889845014,included_game_day
+2026,112358,Long Island University Sharks,2025-11-03,-19.0,included_game_day
+2026,112358,Long Island University Sharks,2025-11-06,-11.4,included_game_day
+2026,112358,Long Island University Sharks,2025-11-11,-6.73,included_game_day
+2026,112358,Long Island University Sharks,2025-11-15,-1.1992000000000003,included_game_day
+2026,112358,Long Island University Sharks,2025-11-20,-15.53418,included_game_day
+2026,112358,Long Island University Sharks,2025-11-22,-42.758382,included_game_day
+2026,112358,Long Island University Sharks,2025-11-24,-23.026413799999997,included_game_day
+2026,112358,Long Island University Sharks,2025-12-02,-21.349810206999997,included_game_day
+2026,112358,Long Island University Sharks,2025-12-06,-16.42976008836,included_game_day
+2026,112358,Long Island University Sharks,2025-12-13,-10.290293934456999,included_game_day
+2026,112358,Long Island University Sharks,2025-12-16,-8.857989351369199,included_game_day
+2026,112358,Long Island University Sharks,2025-12-20,-12.614432782522178,included_game_day
+2026,112358,Long Island University Sharks,2025-12-29,-6.0214074303783125,included_game_day
+2026,112358,Long Island University Sharks,2026-01-02,-5.036016670311001,included_game_day
+2026,112358,Long Island University Sharks,2026-01-04,6.693724277773516,included_game_day
+2026,112358,Long Island University Sharks,2026-01-08,-0.18923442174322247,included_game_day
+2026,112358,Long Island University Sharks,2026-01-10,-14.433031257089574,included_game_day
+2026,112358,Long Island University Sharks,2026-01-17,-13.397462700843835,included_game_day
+2026,112358,Long Island University Sharks,2026-01-19,-17.894697859561276,included_game_day
+2026,112358,Long Island University Sharks,2026-01-23,-18.53850889749137,included_game_day
+2026,112358,Long Island University Sharks,2026-01-29,0.3281650175177546,included_game_day
+2026,112358,Long Island University Sharks,2026-01-31,19.508746184585437,included_game_day
+2026,112358,Long Island University Sharks,2026-02-05,11.34635485614366,included_game_day
+2026,112358,Long Island University Sharks,2026-02-07,6.10257396704109,included_game_day
+2026,112358,Long Island University Sharks,2026-02-12,8.743654425418123,included_game_day
+2026,112358,Long Island University Sharks,2026-02-14,-1.421925292593576,included_game_day
+2026,112358,Long Island University Sharks,2026-02-16,5.213416662078812,included_game_day
+2026,112358,Long Island University Sharks,2026-02-19,-3.2564587178080124,included_game_day
+2026,112358,Long Island University Sharks,2026-02-21,-12.97047458925906,included_game_day
+2026,112358,Long Island University Sharks,2026-02-26,-6.5554745422713925,included_game_day
+2026,112358,Long Island University Sharks,2026-02-28,-4.7349719267158275,included_game_day
+2026,112358,Long Island University Sharks,2026-03-04,-14.165713689652524,included_game_day
+2026,112358,Long Island University Sharks,2026-03-07,-12.513581047952545,included_game_day
+2026,112358,Long Island University Sharks,2026-03-10,-9.322602899800204,included_game_day
+2026,112358,Long Island University Sharks,2026-03-20,-18.16687690812288,included_game_day
+2027,112358,Long Island University Sharks,2026-11-02,-11.0,included_game_day
+2027,112358,Long Island University Sharks,2026-11-05,-11.8,included_game_day
+2027,112358,Long Island University Sharks,2026-11-07,-19.22,included_game_day
+2027,112358,Long Island University Sharks,2026-11-09,-36.438,included_game_day
+2027,112358,Long Island University Sharks,2026-11-13,-52.360600000000005,included_game_day
+2027,112358,Long Island University Sharks,2026-11-16,-60.331540000000004,included_game_day
+2027,112358,Long Island University Sharks,2026-11-18,-54.238386000000006,included_game_day
+2027,112358,Long Island University Sharks,2026-11-22,-59.8526954,included_game_day

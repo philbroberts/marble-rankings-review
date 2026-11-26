@@ -1,0 +1,1220 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,103,Boston College,1987-11-28,7.0,included_game_day
+1988,103,Boston College,1987-12-01,46.56,included_game_day
+1988,103,Boston College,1987-12-03,68.498,included_game_day
+1988,103,Boston College,1987-12-07,84.0356,included_game_day
+1988,103,Boston College,1987-12-10,75.0365516,included_game_day
+1988,103,Boston College,1987-12-12,104.82722894,included_game_day
+1988,103,Boston College,1987-12-20,77.38390604599999,included_game_day
+1988,103,Boston College,1987-12-28,45.86280586910999,included_game_day
+1988,103,Boston College,1987-12-29,55.203875885182995,included_game_day
+1988,103,Boston College,1988-01-03,61.81770676927469,included_game_day
+1988,103,Boston College,1988-01-05,59.976406382865264,included_game_day
+1988,103,Boston College,1988-01-09,52.236902797755896,included_game_day
+1988,103,Boston College,1988-01-12,71.22419701728671,included_game_day
+1988,103,Boston College,1988-01-16,73.08263831809576,included_game_day
+1988,103,Boston College,1988-01-18,55.5574213061721,included_game_day
+1988,103,Boston College,1988-01-23,65.04202180596194,included_game_day
+1988,103,Boston College,1988-01-27,49.372340157482014,included_game_day
+1988,103,Boston College,1988-01-30,50.0015726775238,included_game_day
+1988,103,Boston College,1988-02-02,56.87691663791166,included_game_day
+1988,103,Boston College,1988-02-06,44.323215131649036,included_game_day
+1988,103,Boston College,1988-02-08,53.82438971044374,included_game_day
+1988,103,Boston College,1988-02-15,53.212559531040824,included_game_day
+1988,103,Boston College,1988-02-20,53.258638140683566,included_game_day
+1988,103,Boston College,1988-02-23,60.8025180821113,included_game_day
+1988,103,Boston College,1988-02-27,66.99289357259568,included_game_day
+1988,103,Boston College,1988-03-01,68.08011845615748,included_game_day
+1988,103,Boston College,1988-03-11,63.584754368400326,included_game_day
+1988,103,Boston College,1988-03-17,64.58491551029344,included_game_day
+1988,103,Boston College,1988-03-21,72.98652504434052,included_game_day
+1988,103,Boston College,1988-03-25,79.52139948894788,included_game_day
+1988,103,Boston College,1988-03-29,73.13074665378684,included_game_day
+1988,103,Boston College,1988-03-30,74.36184016708498,included_game_day
+1989,103,Boston College,1988-11-26,13.0,included_game_day
+1989,103,Boston College,1988-11-29,6.79,included_game_day
+1989,103,Boston College,1988-12-01,18.461,included_game_day
+1989,103,Boston College,1988-12-03,35.204899999999995,included_game_day
+1989,103,Boston College,1988-12-06,52.51602999999999,included_game_day
+1989,103,Boston College,1988-12-07,32.503777,included_game_day
+1989,103,Boston College,1988-12-10,31.459558299999998,included_game_day
+1989,103,Boston College,1988-12-12,31.33391747,included_game_day
+1989,103,Boston College,1988-12-17,30.888946323,included_game_day
+1989,103,Boston College,1988-12-29,40.5594296948,included_game_day
+1989,103,Boston College,1989-01-07,55.7321090300674,included_game_day
+1989,103,Boston College,1989-01-14,37.956916710713536,included_game_day
+1989,103,Boston College,1989-01-17,26.701733344552707,included_game_day
+1989,103,Boston College,1989-01-21,19.593137141249446,included_game_day
+1989,103,Boston College,1989-01-24,22.97509940148973,included_game_day
+1989,103,Boston College,1989-01-28,12.765687570974842,included_game_day
+1989,103,Boston College,1989-02-04,-1.0921627783773946,included_game_day
+1989,103,Boston College,1989-02-07,-2.197644531991024,included_game_day
+1989,103,Boston College,1989-02-11,-25.254944239266635,included_game_day
+1989,103,Boston College,1989-02-14,-1.8220883194329502,included_game_day
+1989,103,Boston College,1989-02-18,-0.7517086751221402,included_game_day
+1989,103,Boston College,1989-02-22,5.490689930425315,included_game_day
+1989,103,Boston College,1989-02-25,19.637601121774914,included_game_day
+1989,103,Boston College,1989-02-27,24.02019365055314,included_game_day
+1989,103,Boston College,1989-03-02,40.00993455407561,included_game_day
+1989,103,Boston College,1989-03-04,23.504019586804024,included_game_day
+1989,103,Boston College,1989-03-09,35.92306344146867,included_game_day
+1989,103,Boston College,1989-03-10,16.709857335362884,included_game_day
+1990,103,Boston College,1989-11-25,23.0,included_game_day
+1990,103,Boston College,1989-11-27,26.7,included_game_day
+1990,103,Boston College,1989-12-02,33.11,included_game_day
+1990,103,Boston College,1989-12-04,16.2304,included_game_day
+1990,103,Boston College,1989-12-07,36.44480706,included_game_day
+1990,103,Boston College,1989-12-12,79.610675034,included_game_day
+1990,103,Boston College,1989-12-16,61.0963019406,included_game_day
+1990,103,Boston College,1989-12-21,42.777319942540004,included_game_day
+1990,103,Boston College,1989-12-27,36.726619971676,included_game_day
+1990,103,Boston College,1989-12-28,37.399995212450804,included_game_day
+1990,103,Boston College,1990-01-02,12.916012028431823,included_game_day
+1990,103,Boston College,1990-01-06,8.212091226881714,included_game_day
+1990,103,Boston College,1990-01-09,-3.540382797954834,included_game_day
+1990,103,Boston College,1990-01-13,-11.143281448170267,included_game_day
+1990,103,Boston College,1990-01-17,-15.66430351422622,included_game_day
+1990,103,Boston College,1990-01-20,-7.853461909905068,included_game_day
+1990,103,Boston College,1990-01-23,-15.94189916718698,included_game_day
+1990,103,Boston College,1990-01-27,-21.053835975820192,included_game_day
+1990,103,Boston College,1990-01-31,-42.920115225160686,included_game_day
+1990,103,Boston College,1990-02-03,-25.34555253804982,included_game_day
+1990,103,Boston College,1990-02-06,-20.2273950445521,included_game_day
+1990,103,Boston College,1990-02-17,-21.685954487914213,included_game_day
+1990,103,Boston College,1990-02-20,-40.925664182705745,included_game_day
+1990,103,Boston College,1990-02-22,-24.376359337769294,included_game_day
+1990,103,Boston College,1990-02-24,-26.43961724937359,included_game_day
+1990,103,Boston College,1990-02-27,-26.181558491993908,included_game_day
+1990,103,Boston College,1990-03-03,-33.8715833280111,included_game_day
+1990,103,Boston College,1990-03-08,-42.27969098252033,included_game_day
+1991,103,Boston College,1990-11-14,1.0,included_game_day
+1991,103,Boston College,1990-11-16,-19.1,included_game_day
+1991,103,Boston College,1990-11-27,-6.090000000000002,included_game_day
+1991,103,Boston College,1990-11-30,9.440999999999999,included_game_day
+1991,103,Boston College,1990-12-01,27.4359,included_game_day
+1991,103,Boston College,1990-12-03,42.38758,included_game_day
+1991,103,Boston College,1990-12-08,55.490214,included_game_day
+1991,103,Boston College,1990-12-11,59.87986089,included_game_day
+1991,103,Boston College,1990-12-15,50.345629001000006,included_game_day
+1991,103,Boston College,1990-12-28,54.181316951133965,included_game_day
+1991,103,Boston College,1990-12-29,50.46876501954757,included_game_day
+1991,103,Boston College,1991-01-02,25.89051110810261,included_game_day
+1991,103,Boston College,1991-01-05,27.37547716478494,included_game_day
+1991,103,Boston College,1991-01-09,53.26130489408233,included_game_day
+1991,103,Boston College,1991-01-12,52.63565236334495,included_game_day
+1991,103,Boston College,1991-01-15,47.088212002845864,included_game_day
+1991,103,Boston College,1991-01-19,38.41188552682218,included_game_day
+1991,103,Boston College,1991-01-22,24.258062174498793,included_game_day
+1991,103,Boston College,1991-01-31,28.35729721554702,included_game_day
+1991,103,Boston College,1991-02-02,27.750891068298387,included_game_day
+1991,103,Boston College,1991-02-05,21.33223871805466,included_game_day
+1991,103,Boston College,1991-02-07,50.552850629458675,included_game_day
+1991,103,Boston College,1991-02-09,49.9467563870218,included_game_day
+1991,103,Boston College,1991-02-13,44.827976209424236,included_game_day
+1991,103,Boston College,1991-02-16,28.57514910071258,included_game_day
+1991,103,Boston College,1991-02-18,25.567167229719452,included_game_day
+1991,103,Boston College,1991-02-23,32.01190263315652,included_game_day
+1991,103,Boston College,1991-02-26,23.421228509244365,included_game_day
+1991,103,Boston College,1991-03-02,29.488508103494205,included_game_day
+1991,103,Boston College,1991-03-07,31.61738660583488,included_game_day
+1992,103,Boston College,1991-11-26,29.0,included_game_day
+1992,103,Boston College,1991-11-30,47.1,included_game_day
+1992,103,Boston College,1991-12-02,82.45,included_game_day
+1992,103,Boston College,1991-12-07,109.1606,included_game_day
+1992,103,Boston College,1991-12-09,105.54244242,included_game_day
+1992,103,Boston College,1991-12-11,113.428350923,included_game_day
+1992,103,Boston College,1991-12-15,108.26574852969999,included_game_day
+1992,103,Boston College,1991-12-27,86.28725856698298,included_game_day
+1992,103,Boston College,1991-12-28,93.86183250026343,included_game_day
+1992,103,Boston College,1992-01-02,78.95506963206708,included_game_day
+1992,103,Boston College,1992-01-04,73.01145261058979,included_game_day
+1992,103,Boston College,1992-01-08,59.86883140206794,included_game_day
+1992,103,Boston College,1992-01-11,52.632877167868834,included_game_day
+1992,103,Boston College,1992-01-14,49.37995352274299,included_game_day
+1992,103,Boston College,1992-01-18,54.783406304631356,included_game_day
+1992,103,Boston College,1992-01-21,51.54445534397509,included_game_day
+1992,103,Boston College,1992-01-25,57.024815790858725,included_game_day
+1992,103,Boston College,1992-02-01,58.08974658734672,included_game_day
+1992,103,Boston College,1992-02-05,49.23015320602339,included_game_day
+1992,103,Boston College,1992-02-08,72.45862342313943,included_game_day
+1992,103,Boston College,1992-02-15,102.07482084250454,included_game_day
+1992,103,Boston College,1992-02-18,90.36273133484411,included_game_day
+1992,103,Boston College,1992-02-22,75.78549873348447,included_game_day
+1992,103,Boston College,1992-02-25,71.281713821446,included_game_day
+1992,103,Boston College,1992-02-29,59.38139841705078,included_game_day
+1992,103,Boston College,1992-03-03,38.35850566358324,included_game_day
+1992,103,Boston College,1992-03-07,29.104752333180343,included_game_day
+1992,103,Boston College,1992-03-12,41.62682131203765,included_game_day
+1992,103,Boston College,1992-03-13,46.46432528035374,included_game_day
+1992,103,Boston College,1992-03-18,49.26046829590977,included_game_day
+1992,103,Boston College,1992-03-23,48.92462265325659,included_game_day
+1993,103,Boston College,1992-12-05,33.7,included_game_day
+1993,103,Boston College,1992-12-08,20.330000000000002,included_game_day
+1993,103,Boston College,1992-12-10,31.297000000000004,included_game_day
+1993,103,Boston College,1992-12-12,29.997850000000003,included_game_day
+1993,103,Boston College,1992-12-20,26.094850522,included_game_day
+1993,103,Boston College,1992-12-23,31.3465604698,included_game_day
+1993,103,Boston College,1992-12-28,58.23617757282,included_game_day
+1993,103,Boston College,1992-12-30,66.07700368706,included_game_day
+1993,103,Boston College,1993-01-02,86.9237476436048,included_game_day
+1993,103,Boston College,1993-01-05,86.9172869664107,included_game_day
+1993,103,Boston College,1993-01-09,85.41795720347467,included_game_day
+1993,103,Boston College,1993-01-12,77.92789803550234,included_game_day
+1993,103,Boston College,1993-01-16,73.47952069606694,included_game_day
+1993,103,Boston College,1993-01-20,58.06583194691274,included_game_day
+1993,103,Boston College,1993-01-23,67.66189690933493,included_game_day
+1993,103,Boston College,1993-01-26,74.17617092924067,included_game_day
+1993,103,Boston College,1993-01-30,82.74017588305246,included_game_day
+1993,103,Boston College,1993-02-06,82.45066989129572,included_game_day
+1993,103,Boston College,1993-02-10,76.09420026114283,included_game_day
+1993,103,Boston College,1993-02-13,76.37627291642946,included_game_day
+1993,103,Boston College,1993-02-16,100.7943228548076,included_game_day
+1993,103,Boston College,1993-02-20,92.58760284115989,included_game_day
+1993,103,Boston College,1993-02-24,90.740689640755,included_game_day
+1993,103,Boston College,1993-02-27,92.53260480976763,included_game_day
+1993,103,Boston College,1993-03-03,81.76890136625597,included_game_day
+1993,103,Boston College,1993-03-06,78.05071360339976,included_game_day
+1993,103,Boston College,1993-03-11,77.1311996683225,included_game_day
+1993,103,Boston College,1993-03-12,60.48619878072144,included_game_day
+1993,103,Boston College,1993-03-17,67.05127158220239,included_game_day
+1993,103,Boston College,1993-03-22,96.28293733508478,included_game_day
+1993,103,Boston College,1993-03-24,77.03685239525866,included_game_day
+1994,103,Boston College,1993-11-27,22.0,included_game_day
+1994,103,Boston College,1993-11-30,36.0,included_game_day
+1994,103,Boston College,1993-12-02,39.2,included_game_day
+1994,103,Boston College,1993-12-05,38.8752,included_game_day
+1994,103,Boston College,1993-12-09,63.11165,included_game_day
+1994,103,Boston College,1993-12-11,69.685975,included_game_day
+1994,103,Boston College,1993-12-22,68.50966847389999,included_game_day
+1994,103,Boston College,1993-12-23,63.022309587109994,included_game_day
+1994,103,Boston College,1993-12-30,74.963861671362,included_game_day
+1994,103,Boston College,1994-01-02,91.85791096989323,included_game_day
+1994,103,Boston College,1994-01-04,93.82334763991074,included_game_day
+1994,103,Boston College,1994-01-08,99.5956438247434,included_game_day
+1994,103,Boston College,1994-01-12,89.95150200539057,included_game_day
+1994,103,Boston College,1994-01-15,97.88146272047092,included_game_day
+1994,103,Boston College,1994-01-18,89.68243449676712,included_game_day
+1994,103,Boston College,1994-01-20,106.83118550477462,included_game_day
+1994,103,Boston College,1994-01-22,109.97695725074703,included_game_day
+1994,103,Boston College,1994-01-26,126.99574918944866,included_game_day
+1994,103,Boston College,1994-01-29,132.60048127597736,included_game_day
+1994,103,Boston College,1994-01-31,133.32290908349862,included_game_day
+1994,103,Boston College,1994-02-05,118.36837582339781,included_game_day
+1994,103,Boston College,1994-02-09,117.57220845437581,included_game_day
+1994,103,Boston College,1994-02-16,118.55828234735027,included_game_day
+1994,103,Boston College,1994-02-19,123.88298515158903,included_game_day
+1994,103,Boston College,1994-02-22,124.14848018431555,included_game_day
+1994,103,Boston College,1994-02-26,116.1783904036847,included_game_day
+1994,103,Boston College,1994-03-01,125.79257397288526,included_game_day
+1994,103,Boston College,1994-03-05,121.28278599706499,included_game_day
+1994,103,Boston College,1994-03-11,97.757249791654,included_game_day
+1994,103,Boston College,1994-03-18,100.19949599950334,included_game_day
+1994,103,Boston College,1994-03-20,108.43582249053138,included_game_day
+1994,103,Boston College,1994-03-25,116.64305090433716,included_game_day
+1994,103,Boston College,1994-03-27,111.43079287045113,included_game_day
+1995,103,Boston College,1994-11-25,34.0,included_game_day
+1995,103,Boston College,1994-11-29,5.199999999999999,included_game_day
+1995,103,Boston College,1994-12-02,14.02,included_game_day
+1995,103,Boston College,1994-12-06,16.008899999999997,included_game_day
+1995,103,Boston College,1994-12-08,18.06301,included_game_day
+1995,103,Boston College,1994-12-11,19.447729,included_game_day
+1995,103,Boston College,1994-12-22,25.421633683,included_game_day
+1995,103,Boston College,1994-12-29,27.8415203913,included_game_day
+1995,103,Boston College,1995-01-03,23.188715186767,included_game_day
+1995,103,Boston College,1995-01-07,2.4559703380831053,included_game_day
+1995,103,Boston College,1995-01-10,6.631786603894461,included_game_day
+1995,103,Boston College,1995-01-14,2.6827247354475956,included_game_day
+1995,103,Boston College,1995-01-17,7.202194958505346,included_game_day
+1995,103,Boston College,1995-01-21,11.206430987955994,included_game_day
+1995,103,Boston College,1995-01-25,-16.94798156054745,included_game_day
+1995,103,Boston College,1995-01-28,-16.390588375439144,included_game_day
+1995,103,Boston College,1995-01-31,-9.67506237864805,included_game_day
+1995,103,Boston College,1995-02-04,-10.050742427127904,included_game_day
+1995,103,Boston College,1995-02-08,6.565284706757083,included_game_day
+1995,103,Boston College,1995-02-11,1.8917042223787615,included_game_day
+1995,103,Boston College,1995-02-15,-2.7602951099271618,included_game_day
+1995,103,Boston College,1995-02-18,-6.218558717565289,included_game_day
+1995,103,Boston College,1995-02-21,-1.9466937559286226,included_game_day
+1995,103,Boston College,1995-02-25,-9.589353789655865,included_game_day
+1995,103,Boston College,1995-02-28,-17.873616147211308,included_game_day
+1995,103,Boston College,1995-03-04,-31.224836754597412,included_game_day
+1995,103,Boston College,1995-03-09,-22.137897694949576,included_game_day
+1995,103,Boston College,1995-03-10,-11.893267317283469,included_game_day
+1996,103,Boston College,1995-11-25,37.0,included_game_day
+1996,103,Boston College,1995-11-27,66.9,included_game_day
+1996,103,Boston College,1995-11-30,71.983,included_game_day
+1996,103,Boston College,1995-12-03,75.6268,included_game_day
+1996,103,Boston College,1995-12-06,66.13582,included_game_day
+1996,103,Boston College,1995-12-09,55.976237999999995,included_game_day
+1996,103,Boston College,1995-12-11,66.54796619999999,included_game_day
+1996,103,Boston College,1995-12-23,93.462076591,included_game_day
+1996,103,Boston College,1995-12-27,110.46261423467,included_game_day
+1996,103,Boston College,1995-12-30,124.461604712808,included_game_day
+1996,103,Boston College,1996-01-03,141.2577864040517,included_game_day
+1996,103,Boston College,1996-01-06,121.4648495068646,included_game_day
+1996,103,Boston College,1996-01-09,122.76195671847766,included_game_day
+1996,103,Boston College,1996-01-14,114.60813203862752,included_game_day
+1996,103,Boston College,1996-01-20,117.06822036661946,included_game_day
+1996,103,Boston College,1996-01-27,99.1692262589724,included_game_day
+1996,103,Boston College,1996-02-01,94.37838610967765,included_game_day
+1996,103,Boston College,1996-02-03,113.35214271849871,included_game_day
+1996,103,Boston College,1996-02-07,125.38898958239031,included_game_day
+1996,103,Boston College,1996-02-10,122.46644159345725,included_game_day
+1996,103,Boston College,1996-02-13,115.68370708006434,included_game_day
+1996,103,Boston College,1996-02-17,119.25161412612088,included_game_day
+1996,103,Boston College,1996-02-21,89.75543368393743,included_game_day
+1996,103,Boston College,1996-02-24,96.19887936839845,included_game_day
+1996,103,Boston College,1996-02-27,93.984996955633,included_game_day
+1996,103,Boston College,1996-03-03,86.64514170840496,included_game_day
+1996,103,Boston College,1996-03-06,85.27390510306186,included_game_day
+1996,103,Boston College,1996-03-07,80.98457552588104,included_game_day
+1996,103,Boston College,1996-03-15,99.22485373751414,included_game_day
+1996,103,Boston College,1996-03-17,90.38418708839667,included_game_day
+1997,103,Boston College,1996-11-22,14.0,included_game_day
+1997,103,Boston College,1996-11-25,52.1,included_game_day
+1997,103,Boston College,1996-12-04,49.647999999999996,included_game_day
+1997,103,Boston College,1996-12-07,46.390823999999995,included_game_day
+1997,103,Boston College,1996-12-09,45.402739499999996,included_game_day
+1997,103,Boston College,1996-12-21,55.28586084999999,included_game_day
+1997,103,Boston College,1996-12-27,55.95284793812199,included_game_day
+1997,103,Boston College,1996-12-29,59.41966563669049,included_game_day
+1997,103,Boston College,1997-01-02,57.23145354619053,included_game_day
+1997,103,Boston College,1997-01-04,72.15217182829733,included_game_day
+1997,103,Boston College,1997-01-07,84.0180513423282,included_game_day
+1997,103,Boston College,1997-01-11,92.31718833866333,included_game_day
+1997,103,Boston College,1997-01-13,92.1433253922545,included_game_day
+1997,103,Boston College,1997-01-15,87.40597659257493,included_game_day
+1997,103,Boston College,1997-01-18,67.58295893212407,included_game_day
+1997,103,Boston College,1997-01-21,81.45172454842876,included_game_day
+1997,103,Boston College,1997-01-25,63.178667451634844,included_game_day
+1997,103,Boston College,1997-01-29,54.00976286718904,included_game_day
+1997,103,Boston College,1997-02-01,51.72080566769941,included_game_day
+1997,103,Boston College,1997-02-04,59.83426459496087,included_game_day
+1997,103,Boston College,1997-02-09,53.54638992849989,included_game_day
+1997,103,Boston College,1997-02-12,44.39979747899141,included_game_day
+1997,103,Boston College,1997-02-16,50.725343974864295,included_game_day
+1997,103,Boston College,1997-02-19,56.772767735906235,included_game_day
+1997,103,Boston College,1997-02-23,52.62830964080631,included_game_day
+1997,103,Boston College,1997-03-01,51.83548853108332,included_game_day
+1997,103,Boston College,1997-03-06,59.74912871380221,included_game_day
+1997,103,Boston College,1997-03-07,75.7594208131934,included_game_day
+1997,103,Boston College,1997-03-08,91.48369186640576,included_game_day
+1997,103,Boston College,1997-03-13,95.9011439785626,included_game_day
+1997,103,Boston College,1997-03-15,95.24756731578317,included_game_day
+1998,103,Boston College,1997-11-16,30.0,included_game_day
+1998,103,Boston College,1997-11-19,40.25,included_game_day
+1998,103,Boston College,1997-11-24,11.645,included_game_day
+1998,103,Boston College,1997-11-25,2.1735000000000007,included_game_day
+1998,103,Boston College,1997-11-30,23.89448,included_game_day
+1998,103,Boston College,1997-12-04,20.731315000000002,included_game_day
+1998,103,Boston College,1997-12-06,1.1859801380000015,included_game_day
+1998,103,Boston College,1997-12-10,13.705228904200002,included_game_day
+1998,103,Boston College,1997-12-14,7.061692757875002,included_game_day
+1998,103,Boston College,1997-12-20,13.0316923073775,included_game_day
+1998,103,Boston College,1997-12-23,14.707674186767752,included_game_day
+1998,103,Boston College,1997-12-30,6.687259857991746,included_game_day
+1998,103,Boston College,1998-01-03,-3.7182488388201005,included_game_day
+1998,103,Boston College,1998-01-06,-0.3002029010862852,included_game_day
+1998,103,Boston College,1998-01-11,-0.4993814501845346,included_game_day
+1998,103,Boston College,1998-01-14,16.416849126651982,included_game_day
+1998,103,Boston College,1998-01-17,32.519366839238174,included_game_day
+1998,103,Boston College,1998-01-20,25.912501744559034,included_game_day
+1998,103,Boston College,1998-01-24,29.365106299822067,included_game_day
+1998,103,Boston College,1998-01-28,19.6618531636691,included_game_day
+1998,103,Boston College,1998-02-01,28.774404321671547,included_game_day
+1998,103,Boston College,1998-02-04,19.34707163761012,included_game_day
+1998,103,Boston College,1998-02-08,9.099459345356141,included_game_day
+1998,103,Boston College,1998-02-11,9.994928778098085,included_game_day
+1998,103,Boston College,1998-02-14,15.603058093131079,included_game_day
+1998,103,Boston College,1998-02-18,22.352567235183955,included_game_day
+1998,103,Boston College,1998-02-21,7.471376078702237,included_game_day
+1998,103,Boston College,1998-02-25,18.241936900725925,included_game_day
+1998,103,Boston College,1998-03-04,32.76942083260727,included_game_day
+1998,103,Boston College,1998-03-05,29.23080609994158,included_game_day
+1999,103,Boston College,1998-11-14,-24.0,included_game_day
+1999,103,Boston College,1998-11-18,-25.6,included_game_day
+1999,103,Boston College,1998-11-21,-8.040000000000003,included_game_day
+1999,103,Boston College,1998-11-24,5.763999999999998,included_game_day
+1999,103,Boston College,1998-11-28,-3.397300000000003,included_game_day
+1999,103,Boston College,1998-12-05,-16.893083866000005,included_game_day
+1999,103,Boston College,1998-12-08,-22.839095405400005,included_game_day
+1999,103,Boston College,1998-12-12,-50.28579239172001,included_game_day
+1999,103,Boston College,1998-12-19,-38.62551364493401,included_game_day
+1999,103,Boston College,1998-12-23,-39.40987438390297,included_game_day
+1999,103,Boston College,1998-12-30,-40.680780019845905,included_game_day
+1999,103,Boston College,1999-01-06,-35.40410709550468,included_game_day
+1999,103,Boston College,1999-01-10,-43.1603458846712,included_game_day
+1999,103,Boston College,1999-01-13,-39.93565103456841,included_game_day
+1999,103,Boston College,1999-01-17,-42.99497726422052,included_game_day
+1999,103,Boston College,1999-01-21,-66.79210655247527,included_game_day
+1999,103,Boston College,1999-01-24,-61.16544559514292,included_game_day
+1999,103,Boston College,1999-01-27,-47.39135811350046,included_game_day
+1999,103,Boston College,1999-02-02,-25.564837126717073,included_game_day
+1999,103,Boston College,1999-02-06,-22.18377463192051,included_game_day
+1999,103,Boston College,1999-02-10,-14.377148347926582,included_game_day
+1999,103,Boston College,1999-02-13,-13.833746211129702,included_game_day
+1999,103,Boston College,1999-02-17,-5.447119158343078,included_game_day
+1999,103,Boston College,1999-02-20,-10.95659384645942,included_game_day
+1999,103,Boston College,1999-02-24,-21.32327561738309,included_game_day
+1999,103,Boston College,1999-02-28,-33.70972280933023,included_game_day
+1999,103,Boston College,1999-03-03,-62.62662150197041,included_game_day
+2000,103,Boston College,1999-11-20,21.0,included_game_day
+2000,103,Boston College,1999-11-23,40.7679,included_game_day
+2000,103,Boston College,1999-11-27,14.021109999999997,included_game_day
+2000,103,Boston College,1999-11-29,51.746999,included_game_day
+2000,103,Boston College,1999-12-04,37.0411541,included_game_day
+2000,103,Boston College,1999-12-07,37.24928869,included_game_day
+2000,103,Boston College,1999-12-11,36.739056621,included_game_day
+2000,103,Boston College,1999-12-19,50.8646020989,included_game_day
+2000,103,Boston College,1999-12-21,41.0358739165,included_game_day
+2000,103,Boston College,1999-12-22,37.6508944392501,included_game_day
+2000,103,Boston College,1999-12-23,60.02630861000059,included_game_day
+2000,103,Boston College,1999-12-30,40.68904559507353,included_game_day
+2000,103,Boston College,2000-01-08,39.67702007320712,included_game_day
+2000,103,Boston College,2000-01-12,35.03824746300139,included_game_day
+2000,103,Boston College,2000-01-15,28.797708504577823,included_game_day
+2000,103,Boston College,2000-01-18,24.877166914227903,included_game_day
+2000,103,Boston College,2000-01-22,23.00671668323964,included_game_day
+2000,103,Boston College,2000-01-26,15.325714025731006,included_game_day
+2000,103,Boston College,2000-01-29,18.7788788998415,included_game_day
+2000,103,Boston College,2000-02-02,12.882773833455209,included_game_day
+2000,103,Boston College,2000-02-05,23.020482034258315,included_game_day
+2000,103,Boston College,2000-02-06,14.421262916225707,included_game_day
+2000,103,Boston College,2000-02-09,-1.2830556993187265,included_game_day
+2000,103,Boston College,2000-02-12,1.761781080389948,included_game_day
+2000,103,Boston College,2000-02-15,3.264511108350355,included_game_day
+2000,103,Boston College,2000-02-19,11.301711882191693,included_game_day
+2000,103,Boston College,2000-02-23,-3.735392872583345,included_game_day
+2000,103,Boston College,2000-02-26,-4.7911550273189185,included_game_day
+2000,103,Boston College,2000-03-04,10.516519274493774,included_game_day
+2000,103,Boston College,2000-03-08,5.579015654040216,included_game_day
+2001,103,Boston College,2000-11-19,20.4,included_game_day
+2001,103,Boston College,2000-11-25,42.12,included_game_day
+2001,103,Boston College,2000-11-28,44.455,included_game_day
+2001,103,Boston College,2000-12-02,45.8414,included_game_day
+2001,103,Boston College,2000-12-04,71.07874,included_game_day
+2001,103,Boston College,2000-12-09,88.026285317,included_game_day
+2001,103,Boston College,2000-12-17,90.8453772392701,included_game_day
+2001,103,Boston College,2000-12-23,106.358875788766,included_game_day
+2001,103,Boston College,2000-12-30,121.4603337663884,included_game_day
+2001,103,Boston College,2001-01-03,129.90030409694344,included_game_day
+2001,103,Boston College,2001-01-07,122.79357518438476,included_game_day
+2001,103,Boston College,2001-01-10,117.61958541563124,included_game_day
+2001,103,Boston College,2001-01-13,113.05648513567084,included_game_day
+2001,103,Boston College,2001-01-16,106.72112769067778,included_game_day
+2001,103,Boston College,2001-01-20,122.14047236153962,included_game_day
+2001,103,Boston College,2001-01-27,126.26086584164659,included_game_day
+2001,103,Boston College,2001-01-31,130.01570204856168,included_game_day
+2001,103,Boston College,2001-02-04,130.97351126035747,included_game_day
+2001,103,Boston College,2001-02-07,125.64198585055584,included_game_day
+2001,103,Boston College,2001-02-10,135.37272215609642,included_game_day
+2001,103,Boston College,2001-02-13,119.02782920052483,included_game_day
+2001,103,Boston College,2001-02-17,125.10087697727926,included_game_day
+2001,103,Boston College,2001-02-21,125.92425240543318,included_game_day
+2001,103,Boston College,2001-02-24,131.5562003353486,included_game_day
+2001,103,Boston College,2001-02-28,123.74373818779698,included_game_day
+2001,103,Boston College,2001-03-03,150.35893341146945,included_game_day
+2001,103,Boston College,2001-03-08,156.00516148204412,included_game_day
+2001,103,Boston College,2001-03-09,173.02431440046254,included_game_day
+2001,103,Boston College,2001-03-10,184.7690889131217,included_game_day
+2001,103,Boston College,2001-03-15,174.42906721790646,included_game_day
+2001,103,Boston College,2001-03-17,164.98296265949452,included_game_day
+2002,103,Boston College Eagles,2001-11-18,11.67,included_game_day
+2002,103,Boston College Eagles,2001-11-21,6.603,included_game_day
+2002,103,Boston College Eagles,2001-11-24,25.212699999999998,included_game_day
+2002,103,Boston College Eagles,2001-11-28,42.20343,included_game_day
+2002,103,Boston College Eagles,2001-12-01,51.437357,included_game_day
+2002,103,Boston College Eagles,2001-12-04,58.4448613,included_game_day
+2002,103,Boston College Eagles,2001-12-08,53.01182652,included_game_day
+2002,103,Boston College Eagles,2001-12-11,49.8658571023,included_game_day
+2002,103,Boston College Eagles,2001-12-16,67.48205381707,included_game_day
+2002,103,Boston College Eagles,2001-12-20,57.045321807063,included_game_day
+2002,103,Boston College Eagles,2001-12-22,58.46597593390753,included_game_day
+2002,103,Boston College Eagles,2001-12-31,73.33506634269028,included_game_day
+2002,103,Boston College Eagles,2002-01-05,73.11966690080874,included_game_day
+2002,103,Boston College Eagles,2002-01-09,83.93994249429443,included_game_day
+2002,103,Boston College Eagles,2002-01-12,52.7831964655993,included_game_day
+2002,103,Boston College Eagles,2002-01-17,43.090932083389376,included_game_day
+2002,103,Boston College Eagles,2002-01-20,41.622968144654514,included_game_day
+2002,103,Boston College Eagles,2002-01-24,43.343413082910956,included_game_day
+2002,103,Boston College Eagles,2002-01-29,57.17736086767927,included_game_day
+2002,103,Boston College Eagles,2002-02-02,56.63892829422913,included_game_day
+2002,103,Boston College Eagles,2002-02-06,48.55145075999341,included_game_day
+2002,103,Boston College Eagles,2002-02-16,55.48230378221025,included_game_day
+2002,103,Boston College Eagles,2002-02-18,52.72621895858086,included_game_day
+2002,103,Boston College Eagles,2002-02-23,53.0390244776116,included_game_day
+2002,103,Boston College Eagles,2002-02-25,41.94013087971236,included_game_day
+2002,103,Boston College Eagles,2002-03-03,52.07558906701355,included_game_day
+2002,103,Boston College Eagles,2002-03-06,51.74208808378896,included_game_day
+2002,103,Boston College Eagles,2002-03-07,49.576579590355614,included_game_day
+2002,103,Boston College Eagles,2002-03-15,43.99743864510767,included_game_day
+2003,103,Boston College Eagles,2002-11-23,-30.0,included_game_day
+2003,103,Boston College Eagles,2002-11-26,-8.7,included_game_day
+2003,103,Boston College Eagles,2002-12-01,-6.869999999999999,included_game_day
+2003,103,Boston College Eagles,2002-12-04,0.9272000000000009,included_game_day
+2003,103,Boston College Eagles,2002-12-07,19.896680000000003,included_game_day
+2003,103,Boston College Eagles,2002-12-10,34.644007560000006,included_game_day
+2003,103,Boston College Eagles,2002-12-15,45.234494405300005,included_game_day
+2003,103,Boston College Eagles,2002-12-22,47.315037723409006,included_game_day
+2003,103,Boston College Eagles,2002-12-28,46.91591780272431,included_game_day
+2003,103,Boston College Eagles,2003-01-02,32.112113836317526,included_game_day
+2003,103,Boston College Eagles,2003-01-05,21.110011033403158,included_game_day
+2003,103,Boston College Eagles,2003-01-11,26.15786325665191,included_game_day
+2003,103,Boston College Eagles,2003-01-16,44.53515597887555,included_game_day
+2003,103,Boston College Eagles,2003-01-19,44.21415244739272,included_game_day
+2003,103,Boston College Eagles,2003-01-22,40.35361592313677,included_game_day
+2003,103,Boston College Eagles,2003-01-25,39.21049248880251,included_game_day
+2003,103,Boston College Eagles,2003-01-29,64.46103407729433,included_game_day
+2003,103,Boston College Eagles,2003-02-01,96.03712725116812,included_game_day
+2003,103,Boston College Eagles,2003-02-05,91.22514815536404,included_game_day
+2003,103,Boston College Eagles,2003-02-08,83.62316706366225,included_game_day
+2003,103,Boston College Eagles,2003-02-12,93.926866137055,included_game_day
+2003,103,Boston College Eagles,2003-02-15,97.77447733705502,included_game_day
+2003,103,Boston College Eagles,2003-02-19,103.10039579868723,included_game_day
+2003,103,Boston College Eagles,2003-02-26,117.33446462701464,included_game_day
+2003,103,Boston College Eagles,2003-03-01,115.04195516327616,included_game_day
+2003,103,Boston College Eagles,2003-03-04,113.12349340019918,included_game_day
+2003,103,Boston College Eagles,2003-03-08,70.8848454125646,included_game_day
+2003,103,Boston College Eagles,2003-03-13,73.71432854185372,included_game_day
+2003,103,Boston College Eagles,2003-03-14,66.91777095520857,included_game_day
+2003,103,Boston College Eagles,2003-03-18,76.95108926035046,included_game_day
+2003,103,Boston College Eagles,2003-03-21,67.26569202435763,included_game_day
+2004,103,Boston College Eagles,2003-11-22,21.3,included_game_day
+2004,103,Boston College Eagles,2003-11-23,32.870000000000005,included_game_day
+2004,103,Boston College Eagles,2003-11-24,35.593,included_game_day
+2004,103,Boston College Eagles,2003-11-29,50.3637,included_game_day
+2004,103,Boston College Eagles,2003-12-02,55.38433,included_game_day
+2004,103,Boston College Eagles,2003-12-06,46.432197,included_game_day
+2004,103,Boston College Eagles,2003-12-09,40.41028171,included_game_day
+2004,103,Boston College Eagles,2003-12-14,31.129115308,included_game_day
+2004,103,Boston College Eagles,2003-12-20,34.464809296558,included_game_day
+2004,103,Boston College Eagles,2003-12-23,45.064770767872204,included_game_day
+2004,103,Boston College Eagles,2003-12-30,35.31089719463756,included_game_day
+2004,103,Boston College Eagles,2004-01-03,32.00228321590737,included_game_day
+2004,103,Boston College Eagles,2004-01-06,49.16709996708247,included_game_day
+2004,103,Boston College Eagles,2004-01-10,31.197881252578494,included_game_day
+2004,103,Boston College Eagles,2004-01-14,25.203087733054755,included_game_day
+2004,103,Boston College Eagles,2004-01-17,39.08207386260851,included_game_day
+2004,103,Boston College Eagles,2004-01-20,45.2874947156792,included_game_day
+2004,103,Boston College Eagles,2004-01-24,41.228998618173904,included_game_day
+2004,103,Boston College Eagles,2004-01-28,44.525877550362466,included_game_day
+2004,103,Boston College Eagles,2004-01-31,50.063694123541126,included_game_day
+2004,103,Boston College Eagles,2004-02-04,53.43107622899054,included_game_day
+2004,103,Boston College Eagles,2004-02-08,78.12640686856764,included_game_day
+2004,103,Boston College Eagles,2004-02-11,77.81400299102131,included_game_day
+2004,103,Boston College Eagles,2004-02-14,70.10142542714826,included_game_day
+2004,103,Boston College Eagles,2004-02-16,81.07961830794665,included_game_day
+2004,103,Boston College Eagles,2004-02-22,108.38689134127023,included_game_day
+2004,103,Boston College Eagles,2004-02-25,101.48256449894826,included_game_day
+2004,103,Boston College Eagles,2004-03-03,97.18205908069093,included_game_day
+2004,103,Boston College Eagles,2004-03-06,111.25934067670376,included_game_day
+2004,103,Boston College Eagles,2004-03-10,107.13277859704344,included_game_day
+2004,103,Boston College Eagles,2004-03-11,112.5749369365599,included_game_day
+2004,103,Boston College Eagles,2004-03-12,111.44945554738518,included_game_day
+2004,103,Boston College Eagles,2004-03-19,113.50609804164114,included_game_day
+2004,103,Boston College Eagles,2004-03-21,115.00950373910493,included_game_day
+2005,103,Boston College Eagles,2004-11-19,11.0,included_game_day
+2005,103,Boston College Eagles,2004-11-23,29.3,included_game_day
+2005,103,Boston College Eagles,2004-11-26,37.05,included_game_day
+2005,103,Boston College Eagles,2004-11-30,72.044759,included_game_day
+2005,103,Boston College Eagles,2004-12-05,80.8107951,included_game_day
+2005,103,Boston College Eagles,2004-12-09,76.028541408967,included_game_day
+2005,103,Boston College Eagles,2004-12-11,78.5879979021703,included_game_day
+2005,103,Boston College Eagles,2004-12-19,65.46370162705327,included_game_day
+2005,103,Boston College Eagles,2004-12-22,68.42670192650894,included_game_day
+2005,103,Boston College Eagles,2004-12-29,67.03300991684804,included_game_day
+2005,103,Boston College Eagles,2005-01-02,81.36426795259749,included_game_day
+2005,103,Boston College Eagles,2005-01-05,94.6770403420443,included_game_day
+2005,103,Boston College Eagles,2005-01-08,97.33573308458546,included_game_day
+2005,103,Boston College Eagles,2005-01-16,116.38798054682319,included_game_day
+2005,103,Boston College Eagles,2005-01-19,112.42533322035673,included_game_day
+2005,103,Boston College Eagles,2005-01-22,114.79243388840725,included_game_day
+2005,103,Boston College Eagles,2005-01-26,114.4498631263569,included_game_day
+2005,103,Boston College Eagles,2005-01-29,122.78715138559888,included_game_day
+2005,103,Boston College Eagles,2005-02-01,122.96650970276458,included_game_day
+2005,103,Boston College Eagles,2005-02-05,125.88944652756335,included_game_day
+2005,103,Boston College Eagles,2005-02-08,121.45401943506634,included_game_day
+2005,103,Boston College Eagles,2005-02-16,115.56219828523967,included_game_day
+2005,103,Boston College Eagles,2005-02-19,117.5056830270879,included_game_day
+2005,103,Boston College Eagles,2005-02-26,117.04573566824546,included_game_day
+2005,103,Boston College Eagles,2005-02-28,90.4252124815321,included_game_day
+2005,103,Boston College Eagles,2005-03-05,94.44722458458732,included_game_day
+2005,103,Boston College Eagles,2005-03-10,83.45419839965219,included_game_day
+2005,103,Boston College Eagles,2005-03-17,101.48978951621777,included_game_day
+2005,103,Boston College Eagles,2005-03-19,90.60981777770432,included_game_day
+2006,103,Boston College Eagles,2005-11-18,16.0,included_game_day
+2006,103,Boston College Eagles,2005-11-22,40.6,included_game_day
+2006,103,Boston College Eagles,2005-11-25,37.04,included_game_day
+2006,103,Boston College Eagles,2005-11-26,51.514972,included_game_day
+2006,103,Boston College Eagles,2005-12-03,53.571423190000004,included_game_day
+2006,103,Boston College Eagles,2005-12-06,43.619610933000004,included_game_day
+2006,103,Boston College Eagles,2005-12-11,46.4779463487,included_game_day
+2006,103,Boston College Eagles,2005-12-18,52.75155354003,included_game_day
+2006,103,Boston College Eagles,2005-12-22,80.89614550825928,included_game_day
+2006,103,Boston College Eagles,2005-12-27,84.30457078907011,included_game_day
+2006,103,Boston College Eagles,2005-12-31,100.88585113821723,included_game_day
+2006,103,Boston College Eagles,2006-01-03,120.37799715091849,included_game_day
+2006,103,Boston College Eagles,2006-01-08,114.27031016593949,included_game_day
+2006,103,Boston College Eagles,2006-01-10,94.00664222779486,included_game_day
+2006,103,Boston College Eagles,2006-01-14,94.95368896504931,included_game_day
+2006,103,Boston College Eagles,2006-01-17,102.6320899678341,included_game_day
+2006,103,Boston College Eagles,2006-01-21,108.99788364774477,included_game_day
+2006,103,Boston College Eagles,2006-01-25,117.87008656869511,included_game_day
+2006,103,Boston College Eagles,2006-01-29,107.6639389869367,included_game_day
+2006,103,Boston College Eagles,2006-02-01,111.71269711588147,included_game_day
+2006,103,Boston College Eagles,2006-02-04,110.64819891730285,included_game_day
+2006,103,Boston College Eagles,2006-02-08,114.18788533690316,included_game_day
+2006,103,Boston College Eagles,2006-02-11,109.8407153013712,included_game_day
+2006,103,Boston College Eagles,2006-02-13,98.62101001680645,included_game_day
+2006,103,Boston College Eagles,2006-02-16,104.7310680955971,included_game_day
+2006,103,Boston College Eagles,2006-02-21,90.2085796993339,included_game_day
+2006,103,Boston College Eagles,2006-02-25,96.40366865344909,included_game_day
+2006,103,Boston College Eagles,2006-02-28,102.1197928378135,included_game_day
+2006,103,Boston College Eagles,2006-03-04,96.77259703758304,included_game_day
+2006,103,Boston College Eagles,2006-03-10,104.96285376335331,included_game_day
+2006,103,Boston College Eagles,2006-03-11,120.49572728377164,included_game_day
+2006,103,Boston College Eagles,2006-03-12,125.7894048167079,included_game_day
+2006,103,Boston College Eagles,2006-03-16,130.67061315958102,included_game_day
+2006,103,Boston College Eagles,2006-03-18,135.62282442397247,included_game_day
+2006,103,Boston College Eagles,2006-03-24,137.8912620008028,included_game_day
+2007,103,Boston College Eagles,2006-11-10,36.0,included_game_day
+2007,103,Boston College Eagles,2006-11-13,15.939999999999998,included_game_day
+2007,103,Boston College Eagles,2006-11-22,8.636799999999997,included_game_day
+2007,103,Boston College Eagles,2006-11-25,23.45865,included_game_day
+2007,103,Boston College Eagles,2006-11-29,33.6596104,included_game_day
+2007,103,Boston College Eagles,2006-12-02,53.131076719999996,included_game_day
+2007,103,Boston College Eagles,2006-12-06,61.94835732759999,included_game_day
+2007,103,Boston College Eagles,2006-12-10,74.69982522014,included_game_day
+2007,103,Boston College Eagles,2006-12-17,97.179722591189,included_game_day
+2007,103,Boston College Eagles,2006-12-23,84.89332415524305,included_game_day
+2007,103,Boston College Eagles,2006-12-28,63.89292498060924,included_game_day
+2007,103,Boston College Eagles,2006-12-31,54.60457883072546,included_game_day
+2007,103,Boston College Eagles,2007-01-03,62.249386782883604,included_game_day
+2007,103,Boston College Eagles,2007-01-06,79.03835154166401,included_game_day
+2007,103,Boston College Eagles,2007-01-09,87.76826296462511,included_game_day
+2007,103,Boston College Eagles,2007-01-13,87.3161798948286,included_game_day
+2007,103,Boston College Eagles,2007-01-16,96.16108595747721,included_game_day
+2007,103,Boston College Eagles,2007-01-20,81.11759227369505,included_game_day
+2007,103,Boston College Eagles,2007-01-23,84.1026224384222,included_game_day
+2007,103,Boston College Eagles,2007-01-28,78.79995106774159,included_game_day
+2007,103,Boston College Eagles,2007-01-31,95.82174058028309,included_game_day
+2007,103,Boston College Eagles,2007-02-03,114.43653746275257,included_game_day
+2007,103,Boston College Eagles,2007-02-07,112.25517184411261,included_game_day
+2007,103,Boston College Eagles,2007-02-11,116.33043565666722,included_game_day
+2007,103,Boston College Eagles,2007-02-14,106.250178970887,included_game_day
+2007,103,Boston College Eagles,2007-02-17,110.8862136468232,included_game_day
+2007,103,Boston College Eagles,2007-02-21,95.41883439218668,included_game_day
+2007,103,Boston College Eagles,2007-02-24,96.67855839387549,included_game_day
+2007,103,Boston College Eagles,2007-03-04,89.14308311730602,included_game_day
+2007,103,Boston College Eagles,2007-03-09,84.91349536696764,included_game_day
+2007,103,Boston College Eagles,2007-03-10,85.7884474012432,included_game_day
+2007,103,Boston College Eagles,2007-03-15,88.64239232550992,included_game_day
+2007,103,Boston College Eagles,2007-03-17,94.89549798807202,included_game_day
+2008,103,Boston College Eagles,2007-11-10,7.0,included_game_day
+2008,103,Boston College Eagles,2007-11-12,6.6,included_game_day
+2008,103,Boston College Eagles,2007-11-18,18.765,included_game_day
+2008,103,Boston College Eagles,2007-11-21,23.355202000000002,included_game_day
+2008,103,Boston College Eagles,2007-11-28,34.652195400000004,included_game_day
+2008,103,Boston College Eagles,2007-12-01,27.664234160000003,included_game_day
+2008,103,Boston College Eagles,2007-12-04,42.0296698052,included_game_day
+2008,103,Boston College Eagles,2007-12-09,48.52297647308,included_game_day
+2008,103,Boston College Eagles,2007-12-12,42.686846423812,included_game_day
+2008,103,Boston College Eagles,2007-12-22,38.201393090535866,included_game_day
+2008,103,Boston College Eagles,2007-12-28,37.124185267148434,included_game_day
+2008,103,Boston College Eagles,2008-01-02,47.05772914874726,included_game_day
+2008,103,Boston College Eagles,2008-01-05,31.10795341216007,included_game_day
+2008,103,Boston College Eagles,2008-01-07,21.919692211781918,included_game_day
+2008,103,Boston College Eagles,2008-01-12,62.01891677887372,included_game_day
+2008,103,Boston College Eagles,2008-01-15,72.37840111490712,included_game_day
+2008,103,Boston College Eagles,2008-01-26,60.843513319087904,included_game_day
+2008,103,Boston College Eagles,2008-01-31,55.9944859146839,included_game_day
+2008,103,Boston College Eagles,2008-02-02,42.65420619361111,included_game_day
+2008,103,Boston College Eagles,2008-02-06,38.62717764762512,included_game_day
+2008,103,Boston College Eagles,2008-02-09,48.065822396795795,included_game_day
+2008,103,Boston College Eagles,2008-02-14,59.76378235987503,included_game_day
+2008,103,Boston College Eagles,2008-02-17,47.00159802289043,included_game_day
+2008,103,Boston College Eagles,2008-02-23,47.87059679610932,included_game_day
+2008,103,Boston College Eagles,2008-02-26,32.55433654249171,included_game_day
+2008,103,Boston College Eagles,2008-03-01,36.36065027543845,included_game_day
+2008,103,Boston College Eagles,2008-03-05,31.10187516907963,included_game_day
+2008,103,Boston College Eagles,2008-03-08,23.67132521446399,included_game_day
+2008,103,Boston College Eagles,2008-03-13,30.530086713983756,included_game_day
+2008,103,Boston College Eagles,2008-03-14,5.384351138651425,included_game_day
+2009,103,Boston College Eagles,2008-11-14,12.0,included_game_day
+2009,103,Boston College Eagles,2008-11-17,39.81,included_game_day
+2009,103,Boston College Eagles,2008-11-18,49.629000000000005,included_game_day
+2009,103,Boston College Eagles,2008-11-22,44.5031,included_game_day
+2009,103,Boston College Eagles,2008-11-26,41.79079,included_game_day
+2009,103,Boston College Eagles,2008-11-28,46.980034,included_game_day
+2009,103,Boston College Eagles,2008-12-02,46.04313560000001,included_game_day
+2009,103,Boston College Eagles,2008-12-06,45.22906119,included_game_day
+2009,103,Boston College Eagles,2008-12-10,50.54028247634,included_game_day
+2009,103,Boston College Eagles,2008-12-14,48.736219568706005,included_game_day
+2009,103,Boston College Eagles,2008-12-20,50.031625440824406,included_game_day
+2009,103,Boston College Eagles,2008-12-23,75.5706354507756,included_game_day
+2009,103,Boston College Eagles,2008-12-29,84.97467686615774,included_game_day
+2009,103,Boston College Eagles,2008-12-31,84.15504843904773,included_game_day
+2009,103,Boston College Eagles,2009-01-04,104.18008552471433,included_game_day
+2009,103,Boston College Eagles,2009-01-07,77.24336861639446,included_game_day
+2009,103,Boston College Eagles,2009-01-10,70.3883494816898,included_game_day
+2009,103,Boston College Eagles,2009-01-14,56.113122509580506,included_game_day
+2009,103,Boston College Eagles,2009-01-17,51.52878662628059,included_game_day
+2009,103,Boston College Eagles,2009-01-20,55.892651126866866,included_game_day
+2009,103,Boston College Eagles,2009-01-24,63.418058927298475,included_game_day
+2009,103,Boston College Eagles,2009-01-27,73.29586330402515,included_game_day
+2009,103,Boston College Eagles,2009-01-31,73.04606031488507,included_game_day
+2009,103,Boston College Eagles,2009-02-04,80.60261206660253,included_game_day
+2009,103,Boston College Eagles,2009-02-08,70.43639473253829,included_game_day
+2009,103,Boston College Eagles,2009-02-10,64.5265885594354,included_game_day
+2009,103,Boston College Eagles,2009-02-15,76.52047444617094,included_game_day
+2009,103,Boston College Eagles,2009-02-21,71.31216226949921,included_game_day
+2009,103,Boston College Eagles,2009-02-24,76.12914951736852,included_game_day
+2009,103,Boston College Eagles,2009-03-04,73.34452402875985,included_game_day
+2009,103,Boston College Eagles,2009-03-07,66.38264820981138,included_game_day
+2009,103,Boston College Eagles,2009-03-12,76.78652170789198,included_game_day
+2009,103,Boston College Eagles,2009-03-13,82.87921852588175,included_game_day
+2009,103,Boston College Eagles,2009-03-20,68.5967419937376,included_game_day
+2010,103,Boston College Eagles,2009-11-13,28.0,included_game_day
+2010,103,Boston College Eagles,2009-11-17,49.5,included_game_day
+2010,103,Boston College Eagles,2009-11-20,40.95,included_game_day
+2010,103,Boston College Eagles,2009-11-21,54.685,included_game_day
+2010,103,Boston College Eagles,2009-11-23,36.992270000000005,included_game_day
+2010,103,Boston College Eagles,2009-11-28,48.034103,included_game_day
+2010,103,Boston College Eagles,2009-12-02,51.70830188,included_game_day
+2010,103,Boston College Eagles,2009-12-06,52.583058518,included_game_day
+2010,103,Boston College Eagles,2009-12-09,42.6330898442,included_game_day
+2010,103,Boston College Eagles,2009-12-13,29.505570847361,included_game_day
+2010,103,Boston College Eagles,2009-12-20,40.5244021151386,included_game_day
+2010,103,Boston College Eagles,2009-12-23,45.86896298552454,included_game_day
+2010,103,Boston College Eagles,2009-12-30,53.33643746140571,included_game_day
+2010,103,Boston College Eagles,2010-01-02,41.63942151791237,included_game_day
+2010,103,Boston College Eagles,2010-01-05,82.72355115482932,included_game_day
+2010,103,Boston College Eagles,2010-01-09,73.19029974843507,included_game_day
+2010,103,Boston College Eagles,2010-01-13,69.06763101646472,included_game_day
+2010,103,Boston College Eagles,2010-01-16,53.36059487067026,included_game_day
+2010,103,Boston College Eagles,2010-01-19,63.80730448464401,included_game_day
+2010,103,Boston College Eagles,2010-01-23,71.66639717501853,included_game_day
+2010,103,Boston College Eagles,2010-01-26,80.18126123881794,included_game_day
+2010,103,Boston College Eagles,2010-01-30,76.36039560526117,included_game_day
+2010,103,Boston College Eagles,2010-02-06,82.14607511278226,included_game_day
+2010,103,Boston College Eagles,2010-02-09,80.43360377775572,included_game_day
+2010,103,Boston College Eagles,2010-02-14,70.96194978896659,included_game_day
+2010,103,Boston College Eagles,2010-02-20,71.36961273125469,included_game_day
+2010,103,Boston College Eagles,2010-02-24,94.4391768432135,included_game_day
+2010,103,Boston College Eagles,2010-02-27,94.93163620110543,included_game_day
+2010,103,Boston College Eagles,2010-03-03,99.66877606145677,included_game_day
+2010,103,Boston College Eagles,2010-03-07,87.43199292475391,included_game_day
+2010,103,Boston College Eagles,2010-03-11,76.90349186935251,included_game_day
+2011,103,Boston College Eagles,2010-11-12,27.0,included_game_day
+2011,103,Boston College Eagles,2010-11-18,12.81,included_game_day
+2011,103,Boston College Eagles,2010-11-22,20.72226,included_game_day
+2011,103,Boston College Eagles,2010-11-25,25.660034,included_game_day
+2011,103,Boston College Eagles,2010-11-26,20.2881906,included_game_day
+2011,103,Boston College Eagles,2010-11-28,43.45034154,included_game_day
+2011,103,Boston College Eagles,2010-12-01,56.863677386,included_game_day
+2011,103,Boston College Eagles,2010-12-04,60.1502463054,included_game_day
+2011,103,Boston College Eagles,2010-12-08,61.20146674826,included_game_day
+2011,103,Boston College Eagles,2010-12-12,71.687793068196,included_game_day
+2011,103,Boston College Eagles,2010-12-19,69.7887749169258,included_game_day
+2011,103,Boston College Eagles,2010-12-22,66.33900675331361,included_game_day
+2011,103,Boston College Eagles,2010-12-29,63.88491430658575,included_game_day
+2011,103,Boston College Eagles,2011-01-01,77.15007244233969,included_game_day
+2011,103,Boston College Eagles,2011-01-05,59.552444784917036,included_game_day
+2011,103,Boston College Eagles,2011-01-08,63.704436786891804,included_game_day
+2011,103,Boston College Eagles,2011-01-11,69.39214653717937,included_game_day
+2011,103,Boston College Eagles,2011-01-15,72.3199393752258,included_game_day
+2011,103,Boston College Eagles,2011-01-19,66.56994655797965,included_game_day
+2011,103,Boston College Eagles,2011-01-22,57.22737951607674,included_game_day
+2011,103,Boston College Eagles,2011-01-27,56.605755625391325,included_game_day
+2011,103,Boston College Eagles,2011-02-01,27.150840130490064,included_game_day
+2011,103,Boston College Eagles,2011-02-05,34.545809875581284,included_game_day
+2011,103,Boston College Eagles,2011-02-08,36.77517072144895,included_game_day
+2011,103,Boston College Eagles,2011-02-12,48.929603026141834,included_game_day
+2011,103,Boston College Eagles,2011-02-19,59.21652347035483,included_game_day
+2011,103,Boston College Eagles,2011-02-23,47.311464365951,included_game_day
+2011,103,Boston College Eagles,2011-02-26,68.70712334462813,included_game_day
+2011,103,Boston College Eagles,2011-03-01,91.77732161682152,included_game_day
+2011,103,Boston College Eagles,2011-03-06,86.98359887337085,included_game_day
+2011,103,Boston College Eagles,2011-03-10,84.14862067861031,included_game_day
+2011,103,Boston College Eagles,2011-03-11,62.64078378167725,included_game_day
+2011,103,Boston College Eagles,2011-03-15,75.60911138700868,included_game_day
+2011,103,Boston College Eagles,2011-03-19,53.9919982027013,included_game_day
+2012,103,Boston College Eagles,2011-11-14,0.0,included_game_day
+2012,103,Boston College Eagles,2011-11-18,-23.74,included_game_day
+2012,103,Boston College Eagles,2011-11-21,-56.19199999999999,included_game_day
+2012,103,Boston College Eagles,2011-11-24,-55.66779999999999,included_game_day
+2012,103,Boston College Eagles,2011-11-25,-48.953219999999995,included_game_day
+2012,103,Boston College Eagles,2011-11-27,-61.518938999999996,included_game_day
+2012,103,Boston College Eagles,2011-11-30,-67.2753374,included_game_day
+2012,103,Boston College Eagles,2011-12-03,-78.53561914,included_game_day
+2012,103,Boston College Eagles,2011-12-08,-71.26848078392,included_game_day
+2012,103,Boston College Eagles,2011-12-11,-51.750725161768,included_game_day
+2012,103,Boston College Eagles,2011-12-18,-36.936610982892006,included_game_day
+2012,103,Boston College Eagles,2011-12-21,-29.439932779961254,included_game_day
+2012,103,Boston College Eagles,2011-12-29,-42.86499317182066,included_game_day
+2012,103,Boston College Eagles,2012-01-02,-52.736015036968666,included_game_day
+2012,103,Boston College Eagles,2012-01-07,-50.01716264142827,included_game_day
+2012,103,Boston College Eagles,2012-01-12,-41.414281913257184,included_game_day
+2012,103,Boston College Eagles,2012-01-14,-30.988582895971152,included_game_day
+2012,103,Boston College Eagles,2012-01-19,-30.060468789760595,included_game_day
+2012,103,Boston College Eagles,2012-01-21,-48.097785869783536,included_game_day
+2012,103,Boston College Eagles,2012-01-26,-46.7059721332618,included_game_day
+2012,103,Boston College Eagles,2012-01-29,-61.381266595889706,included_game_day
+2012,103,Boston College Eagles,2012-02-01,-55.35439246806391,included_game_day
+2012,103,Boston College Eagles,2012-02-04,-51.469046704585026,included_game_day
+2012,103,Boston College Eagles,2012-02-08,-33.052836677646056,included_game_day
+2012,103,Boston College Eagles,2012-02-12,-24.576554753094296,included_game_day
+2012,103,Boston College Eagles,2012-02-16,-33.38478976991745,included_game_day
+2012,103,Boston College Eagles,2012-02-19,-46.210282812191934,included_game_day
+2012,103,Boston College Eagles,2012-02-25,-71.98544668547763,included_game_day
+2012,103,Boston College Eagles,2012-02-29,-66.52380555931043,included_game_day
+2012,103,Boston College Eagles,2012-03-03,-69.26400842744084,included_game_day
+2012,103,Boston College Eagles,2012-03-08,-75.79127802310732,included_game_day
+2013,103,Boston College Eagles,2012-11-11,11.0,included_game_day
+2013,103,Boston College Eagles,2012-11-15,4.41,included_game_day
+2013,103,Boston College Eagles,2012-11-16,-12.011,included_game_day
+2013,103,Boston College Eagles,2012-11-18,-12.463899999999999,included_game_day
+2013,103,Boston College Eagles,2012-11-21,-14.740699999999999,included_game_day
+2013,103,Boston College Eagles,2012-11-25,-21.56446,included_game_day
+2013,103,Boston College Eagles,2012-11-28,-6.454460000000001,included_game_day
+2013,103,Boston College Eagles,2012-12-04,-24.59399122,included_game_day
+2013,103,Boston College Eagles,2012-12-08,-18.3359933184,included_game_day
+2013,103,Boston College Eagles,2012-12-16,-17.65811569495,included_game_day
+2013,103,Boston College Eagles,2012-12-22,-9.119369949435999,included_game_day
+2013,103,Boston College Eagles,2012-12-29,-0.4005185576195789,included_game_day
+2013,103,Boston College Eagles,2012-12-31,12.559118384841822,included_game_day
+2013,103,Boston College Eagles,2013-01-05,12.6904536903173,included_game_day
+2013,103,Boston College Eagles,2013-01-09,24.119801271883738,included_game_day
+2013,103,Boston College Eagles,2013-01-12,24.450127415153336,included_game_day
+2013,103,Boston College Eagles,2013-01-16,29.443631002256048,included_game_day
+2013,103,Boston College Eagles,2013-01-22,33.19672099181655,included_game_day
+2013,103,Boston College Eagles,2013-01-26,29.016241955338135,included_game_day
+2013,103,Boston College Eagles,2013-01-29,19.92937877598404,included_game_day
+2013,103,Boston College Eagles,2013-02-02,28.010807368994676,included_game_day
+2013,103,Boston College Eagles,2013-02-05,20.77271183074651,included_game_day
+2013,103,Boston College Eagles,2013-02-10,30.200758937334168,included_game_day
+2013,103,Boston College Eagles,2013-02-13,28.24116193486664,included_game_day
+2013,103,Boston College Eagles,2013-02-16,26.644009232503077,included_game_day
+2013,103,Boston College Eagles,2013-02-19,40.00938209351186,included_game_day
+2013,103,Boston College Eagles,2013-02-24,33.73364945965925,included_game_day
+2013,103,Boston College Eagles,2013-02-27,24.145477726668425,included_game_day
+2013,103,Boston College Eagles,2013-03-03,34.27279875865126,included_game_day
+2013,103,Boston College Eagles,2013-03-05,43.085141768495994,included_game_day
+2013,103,Boston College Eagles,2013-03-09,41.71245869133473,included_game_day
+2013,103,Boston College Eagles,2013-03-14,61.614312229605716,included_game_day
+2013,103,Boston College Eagles,2013-03-15,55.98461548688872,included_game_day
+2014,103,Boston College Eagles,2013-11-08,-1.0,included_game_day
+2014,103,Boston College Eagles,2013-11-10,-13.9,included_game_day
+2014,103,Boston College Eagles,2013-11-14,-18.509999999999998,included_game_day
+2014,103,Boston College Eagles,2013-11-17,-19.863,included_game_day
+2014,103,Boston College Eagles,2013-11-21,-13.0732,included_game_day
+2014,103,Boston College Eagles,2013-11-22,-1.9735399999999998,included_game_day
+2014,103,Boston College Eagles,2013-11-26,1.8272519999999997,included_game_day
+2014,103,Boston College Eagles,2013-12-04,-13.8262311171,included_game_day
+2014,103,Boston College Eagles,2013-12-08,-24.503261316390002,included_game_day
+2014,103,Boston College Eagles,2013-12-12,-28.736107359555003,included_game_day
+2014,103,Boston College Eagles,2013-12-22,-33.6984606095394,included_game_day
+2014,103,Boston College Eagles,2013-12-28,-41.04803698605804,included_game_day
+2014,103,Boston College Eagles,2014-01-01,-41.220306717047045,included_game_day
+2014,103,Boston College Eagles,2014-01-04,-31.837299696714105,included_game_day
+2014,103,Boston College Eagles,2014-01-11,-22.886282265139478,included_game_day
+2014,103,Boston College Eagles,2014-01-13,-20.18819810591485,included_game_day
+2014,103,Boston College Eagles,2014-01-18,-19.76337129776706,included_game_day
+2014,103,Boston College Eagles,2014-01-21,-27.849673938620032,included_game_day
+2014,103,Boston College Eagles,2014-01-29,-5.769302716925086,included_game_day
+2014,103,Boston College Eagles,2014-02-01,-1.241645775954404,included_game_day
+2014,103,Boston College Eagles,2014-02-05,6.507522515888836,included_game_day
+2014,103,Boston College Eagles,2014-02-08,0.6347246364460828,included_game_day
+2014,103,Boston College Eagles,2014-02-13,2.0075424528933006,included_game_day
+2014,103,Boston College Eagles,2014-02-16,-1.4749470501701518,included_game_day
+2014,103,Boston College Eagles,2014-02-19,17.666190491507166,included_game_day
+2014,103,Boston College Eagles,2014-02-22,-3.9612464888664967,included_game_day
+2014,103,Boston College Eagles,2014-02-26,-4.097436939216074,included_game_day
+2014,103,Boston College Eagles,2014-03-01,6.86352607814452,included_game_day
+2014,103,Boston College Eagles,2014-03-04,6.15484360630976,included_game_day
+2014,103,Boston College Eagles,2014-03-09,3.0028610311107355,included_game_day
+2014,103,Boston College Eagles,2014-03-12,2.4553514676142973,included_game_day
+2015,103,Boston College Eagles,2014-11-14,5.0,included_game_day
+2015,103,Boston College Eagles,2014-11-16,-4.0,included_game_day
+2015,103,Boston College Eagles,2014-11-20,2.6500000000000004,included_game_day
+2015,103,Boston College Eagles,2014-11-21,3.886,included_game_day
+2015,103,Boston College Eagles,2014-11-23,-7.192200000000001,included_game_day
+2015,103,Boston College Eagles,2014-12-01,5.704802799999999,included_game_day
+2015,103,Boston College Eagles,2014-12-05,17.43402582,included_game_day
+2015,103,Boston College Eagles,2014-12-11,13.831554269599998,included_game_day
+2015,103,Boston College Eagles,2014-12-14,12.451387195139999,included_game_day
+2015,103,Boston College Eagles,2014-12-21,4.292531555390999,included_game_day
+2015,103,Boston College Eagles,2014-12-29,19.12877185820713,included_game_day
+2015,103,Boston College Eagles,2015-01-03,13.760208871575664,included_game_day
+2015,103,Boston College Eagles,2015-01-06,12.164578332328064,included_game_day
+2015,103,Boston College Eagles,2015-01-10,14.715224170121484,included_game_day
+2015,103,Boston College Eagles,2015-01-14,21.1785654384998,included_game_day
+2015,103,Boston College Eagles,2015-01-17,19.112049991165527,included_game_day
+2015,103,Boston College Eagles,2015-01-20,19.180417913006572,included_game_day
+2015,103,Boston College Eagles,2015-01-25,24.420957770483504,included_game_day
+2015,103,Boston College Eagles,2015-01-28,21.888368870235453,included_game_day
+2015,103,Boston College Eagles,2015-01-31,12.257331726132044,included_game_day
+2015,103,Boston College Eagles,2015-02-04,20.050966750318963,included_game_day
+2015,103,Boston College Eagles,2015-02-07,16.229306447279896,included_game_day
+2015,103,Boston College Eagles,2015-02-11,2.8591612286884818,included_game_day
+2015,103,Boston College Eagles,2015-02-16,2.5628325114155555,included_game_day
+2015,103,Boston College Eagles,2015-02-18,1.6638044864357564,included_game_day
+2015,103,Boston College Eagles,2015-02-21,-7.525239482897373,included_game_day
+2015,103,Boston College Eagles,2015-02-24,-3.1472096269257506,included_game_day
+2015,103,Boston College Eagles,2015-02-28,21.18651172942836,included_game_day
+2015,103,Boston College Eagles,2015-03-02,29.01669064988331,included_game_day
+2015,103,Boston College Eagles,2015-03-07,40.07145044554814,included_game_day
+2015,103,Boston College Eagles,2015-03-10,38.13987579980269,included_game_day
+2015,103,Boston College Eagles,2015-03-11,30.680164505856006,included_game_day
+2016,103,Boston College Eagles,2015-11-14,23.0,included_game_day
+2016,103,Boston College Eagles,2015-11-19,40.3,included_game_day
+2016,103,Boston College Eagles,2015-11-22,44.589999999999996,included_game_day
+2016,103,Boston College Eagles,2015-11-26,14.103999999999996,included_game_day
+2016,103,Boston College Eagles,2015-11-27,1.9184899999999967,included_game_day
+2016,103,Boston College Eagles,2015-11-29,-20.258439200000005,included_game_day
+2016,103,Boston College Eagles,2015-12-02,-30.607177280000002,included_game_day
+2016,103,Boston College Eagles,2015-12-06,-37.722988912000005,included_game_day
+2016,103,Boston College Eagles,2015-12-09,-41.24286608962001,included_game_day
+2016,103,Boston College Eagles,2015-12-13,-16.437020207040007,included_game_day
+2016,103,Boston College Eagles,2015-12-19,-10.872388047166005,included_game_day
+2016,103,Boston College Eagles,2015-12-22,6.960809120952593,included_game_day
+2016,103,Boston College Eagles,2015-12-30,3.624794476856252,included_game_day
+2016,103,Boston College Eagles,2016-01-02,-2.0126124724180876,included_game_day
+2016,103,Boston College Eagles,2016-01-07,-26.553599896404684,included_game_day
+2016,103,Boston College Eagles,2016-01-13,-38.795656862378095,included_game_day
+2016,103,Boston College Eagles,2016-01-16,-43.7157236991991,included_game_day
+2016,103,Boston College Eagles,2016-01-20,-44.78512159517344,included_game_day
+2016,103,Boston College Eagles,2016-01-23,-54.90107553477307,included_game_day
+2016,103,Boston College Eagles,2016-01-26,-56.08854379970292,included_game_day
+2016,103,Boston College Eagles,2016-01-30,-60.38757449258071,included_game_day
+2016,103,Boston College Eagles,2016-02-03,-52.51503920040214,included_game_day
+2016,103,Boston College Eagles,2016-02-06,-61.75119587613289,included_game_day
+2016,103,Boston College Eagles,2016-02-09,-47.935589445775875,included_game_day
+2016,103,Boston College Eagles,2016-02-14,-49.35290634211196,included_game_day
+2016,103,Boston College Eagles,2016-02-17,-43.46647813642771,included_game_day
+2016,103,Boston College Eagles,2016-02-21,-63.04454635987588,included_game_day
+2016,103,Boston College Eagles,2016-02-23,-70.18518119083919,included_game_day
+2016,103,Boston College Eagles,2016-02-27,-64.9002046069726,included_game_day
+2016,103,Boston College Eagles,2016-03-02,-51.01007768533397,included_game_day
+2016,103,Boston College Eagles,2016-03-05,-57.16283274917444,included_game_day
+2016,103,Boston College Eagles,2016-03-08,-65.3765878913318,included_game_day
+2017,103,Boston College Eagles,2016-11-11,-9.0,included_game_day
+2017,103,Boston College Eagles,2016-11-15,4.109999999999999,included_game_day
+2017,103,Boston College Eagles,2016-11-20,6.699,included_game_day
+2017,103,Boston College Eagles,2016-11-22,14.1351,included_game_day
+2017,103,Boston College Eagles,2016-11-25,0.37923999999999936,included_game_day
+2017,103,Boston College Eagles,2016-11-26,-12.317208,included_game_day
+2017,103,Boston College Eagles,2016-12-03,-1.3864919380000007,included_game_day
+2017,103,Boston College Eagles,2016-12-07,-13.6343703355,included_game_day
+2017,103,Boston College Eagles,2016-12-09,-22.554468054117002,included_game_day
+2017,103,Boston College Eagles,2016-12-12,-16.7051170467053,included_game_day
+2017,103,Boston College Eagles,2016-12-18,-15.271369258497401,included_game_day
+2017,103,Boston College Eagles,2016-12-21,-20.511845806237062,included_game_day
+2017,103,Boston College Eagles,2016-12-23,-0.6654034035063887,included_game_day
+2017,103,Boston College Eagles,2017-01-01,17.325669281262158,included_game_day
+2017,103,Boston College Eagles,2017-01-03,13.556967877897351,included_game_day
+2017,103,Boston College Eagles,2017-01-07,22.085436641601596,included_game_day
+2017,103,Boston College Eagles,2017-01-11,30.845613077688096,included_game_day
+2017,103,Boston College Eagles,2017-01-14,14.124466730675003,included_game_day
+2017,103,Boston College Eagles,2017-01-18,7.591863170171566,included_game_day
+2017,103,Boston College Eagles,2017-01-21,15.490550897713577,included_game_day
+2017,103,Boston College Eagles,2017-01-25,24.801852766800344,included_game_day
+2017,103,Boston College Eagles,2017-01-29,26.968220822807652,included_game_day
+2017,103,Boston College Eagles,2017-01-31,25.368575359653637,included_game_day
+2017,103,Boston College Eagles,2017-02-04,18.130632511795035,included_game_day
+2017,103,Boston College Eagles,2017-02-08,3.853297824688248,included_game_day
+2017,103,Boston College Eagles,2017-02-11,0.6625442303714983,included_game_day
+2017,103,Boston College Eagles,2017-02-14,2.0873079348826717,included_game_day
+2017,103,Boston College Eagles,2017-02-20,-13.009681872307953,included_game_day
+2017,103,Boston College Eagles,2017-02-25,-22.382348038920995,included_game_day
+2017,103,Boston College Eagles,2017-03-01,-21.530075398379378,included_game_day
+2017,103,Boston College Eagles,2017-03-04,-23.809387740154328,included_game_day
+2017,103,Boston College Eagles,2017-03-07,-23.651370011460042,included_game_day
+2018,103,Boston College Eagles,2017-11-10,17.0,included_game_day
+2018,103,Boston College Eagles,2017-11-12,48.1,included_game_day
+2018,103,Boston College Eagles,2017-11-14,59.49,included_game_day
+2018,103,Boston College Eagles,2017-11-18,47.951,included_game_day
+2018,103,Boston College Eagles,2017-11-19,65.4645,included_game_day
+2018,103,Boston College Eagles,2017-11-22,59.68875,included_game_day
+2018,103,Boston College Eagles,2017-11-25,40.724273,included_game_day
+2018,103,Boston College Eagles,2017-11-29,33.48699308,included_game_day
+2018,103,Boston College Eagles,2017-12-02,39.871309131,included_game_day
+2018,103,Boston College Eagles,2017-12-09,53.3641442964,included_game_day
+2018,103,Boston College Eagles,2017-12-12,56.137172494624096,included_game_day
+2018,103,Boston College Eagles,2017-12-17,64.66831905118539,included_game_day
+2018,103,Boston College Eagles,2017-12-23,52.989945191420354,included_game_day
+2018,103,Boston College Eagles,2017-12-30,63.29075229652486,included_game_day
+2018,103,Boston College Eagles,2018-01-03,62.84939872390401,included_game_day
+2018,103,Boston College Eagles,2018-01-06,65.84677277948589,included_game_day
+2018,103,Boston College Eagles,2018-01-09,43.70848397586953,included_game_day
+2018,103,Boston College Eagles,2018-01-13,44.31898776983484,included_game_day
+2018,103,Boston College Eagles,2018-01-15,55.403071630623316,included_game_day
+2018,103,Boston College Eagles,2018-01-21,55.75172589530331,included_game_day
+2018,103,Boston College Eagles,2018-01-24,42.65617498006037,included_game_day
+2018,103,Boston College Eagles,2018-01-31,40.23304192716797,included_game_day
+2018,103,Boston College Eagles,2018-02-04,45.382758944835984,included_game_day
+2018,103,Boston College Eagles,2018-02-06,38.96255521908308,included_game_day
+2018,103,Boston College Eagles,2018-02-10,44.03181216932864,included_game_day
+2018,103,Boston College Eagles,2018-02-13,58.13241951302482,included_game_day
+2018,103,Boston College Eagles,2018-02-17,39.95574500636239,included_game_day
+2018,103,Boston College Eagles,2018-02-20,32.44417887708927,included_game_day
+2018,103,Boston College Eagles,2018-02-24,39.94099932504764,included_game_day
+2018,103,Boston College Eagles,2018-02-28,56.64689665497134,included_game_day
+2018,103,Boston College Eagles,2018-03-03,52.204945351967346,included_game_day
+2018,103,Boston College Eagles,2018-03-06,60.00401907329423,included_game_day
+2018,103,Boston College Eagles,2018-03-07,69.27078336394615,included_game_day
+2018,103,Boston College Eagles,2018-03-08,64.99032802116844,included_game_day
+2018,103,Boston College Eagles,2018-03-13,54.73231368474623,included_game_day
+2019,103,Boston College Eagles,2018-11-06,17.0,included_game_day
+2019,103,Boston College Eagles,2018-11-11,17.3,included_game_day
+2019,103,Boston College Eagles,2018-11-14,4.880000000000001,included_game_day
+2019,103,Boston College Eagles,2018-11-19,13.863760000000001,included_game_day
+2019,103,Boston College Eagles,2018-11-21,29.680218000000004,included_game_day
+2019,103,Boston College Eagles,2018-11-26,39.4503362,included_game_day
+2019,103,Boston College Eagles,2018-11-29,39.090227080000005,included_game_day
+2019,103,Boston College Eagles,2018-12-04,29.381783933000005,included_game_day
+2019,103,Boston College Eagles,2018-12-12,31.106341866939264,included_game_day
+2019,103,Boston College Eagles,2018-12-16,31.88053593071534,included_game_day
+2019,103,Boston College Eagles,2018-12-22,38.955025146303285,included_game_day
+2019,103,Boston College Eagles,2018-12-31,28.92651006252849,included_game_day
+2019,103,Boston College Eagles,2019-01-05,34.358229467430604,included_game_day
+2019,103,Boston College Eagles,2019-01-09,17.708129049934914,included_game_day
+2019,103,Boston College Eagles,2019-01-12,19.963703776636404,included_game_day
+2019,103,Boston College Eagles,2019-01-16,22.58121948231323,included_game_day
+2019,103,Boston College Eagles,2019-01-20,31.108975308444982,included_game_day
+2019,103,Boston College Eagles,2019-01-26,36.27229847862423,included_game_day
+2019,103,Boston College Eagles,2019-01-30,33.539656216630036,included_game_day
+2019,103,Boston College Eagles,2019-02-02,23.645775051292553,included_game_day
+2019,103,Boston College Eagles,2019-02-05,21.401195441051595,included_game_day
+2019,103,Boston College Eagles,2019-02-09,20.000083620075152,included_game_day
+2019,103,Boston College Eagles,2019-02-12,28.649357579147345,included_game_day
+2019,103,Boston College Eagles,2019-02-17,36.093501739578926,included_game_day
+2019,103,Boston College Eagles,2019-02-20,36.97128815405517,included_game_day
+2019,103,Boston College Eagles,2019-02-23,37.620360222317174,included_game_day
+2019,103,Boston College Eagles,2019-02-27,49.993685378517725,included_game_day
+2019,103,Boston College Eagles,2019-03-03,44.66385979590942,included_game_day
+2019,103,Boston College Eagles,2019-03-05,45.00336090346471,included_game_day
+2019,103,Boston College Eagles,2019-03-09,20.847984382156827,included_game_day
+2019,103,Boston College Eagles,2019-03-12,10.13781519520251,included_game_day
+2020,103,Boston College Eagles,2019-11-06,4.0,included_game_day
+2020,103,Boston College Eagles,2019-11-10,23.2,included_game_day
+2020,103,Boston College Eagles,2019-11-13,39.849999999999994,included_game_day
+2020,103,Boston College Eagles,2019-11-16,20.394999999999996,included_game_day
+2020,103,Boston College Eagles,2019-11-20,18.443499999999997,included_game_day
+2020,103,Boston College Eagles,2019-11-23,14.065699999999998,included_game_day
+2020,103,Boston College Eagles,2019-11-27,2.3833569999999984,included_game_day
+2020,103,Boston College Eagles,2019-11-30,-11.02884077,included_game_day
+2020,103,Boston College Eagles,2019-12-03,-29.919554112999997,included_game_day
+2020,103,Boston College Eagles,2019-12-07,-18.222377524349998,included_game_day
+2020,103,Boston College Eagles,2019-12-10,0.4139687426800016,included_game_day
+2020,103,Boston College Eagles,2019-12-15,2.7651053481520016,included_game_day
+2020,103,Boston College Eagles,2019-12-21,2.767585846625321,included_game_day
+2020,103,Boston College Eagles,2019-12-31,-19.498956542235074,included_game_day
+2020,103,Boston College Eagles,2020-01-07,-6.491096567069691,included_game_day
+2020,103,Boston College Eagles,2020-01-11,-24.217270207808987,included_game_day
+2020,103,Boston College Eagles,2020-01-15,-38.949851306251816,included_game_day
+2020,103,Boston College Eagles,2020-01-19,-49.394288418006845,included_game_day
+2020,103,Boston College Eagles,2020-01-22,-39.01526890305027,included_game_day
+2020,103,Boston College Eagles,2020-01-25,-26.49382538855121,included_game_day
+2020,103,Boston College Eagles,2020-01-29,-31.814432297900268,included_game_day
+2020,103,Boston College Eagles,2020-02-01,-20.481968959229672,included_game_day
+2020,103,Boston College Eagles,2020-02-04,-12.37951633074415,included_game_day
+2020,103,Boston College Eagles,2020-02-08,-2.415891326324928,included_game_day
+2020,103,Boston College Eagles,2020-02-12,-27.69504279029987,included_game_day
+2020,103,Boston College Eagles,2020-02-16,-19.03131166177267,included_game_day
+2020,103,Boston College Eagles,2020-02-19,-20.234115895305678,included_game_day
+2020,103,Boston College Eagles,2020-02-22,-31.76643736825904,included_game_day
+2020,103,Boston College Eagles,2020-02-26,-25.980432600688424,included_game_day
+2020,103,Boston College Eagles,2020-03-03,-33.65581571911534,included_game_day
+2020,103,Boston College Eagles,2020-03-07,-33.197372788224456,included_game_day
+2020,103,Boston College Eagles,2020-03-11,-46.40425271395383,included_game_day
+2021,103,Boston College Eagles,2020-11-25,-9.0,included_game_day
+2021,103,Boston College Eagles,2020-11-26,-3.7,included_game_day
+2021,103,Boston College Eagles,2020-11-30,-6.11,included_game_day
+2021,103,Boston College Eagles,2020-12-03,-24.57793,included_game_day
+2021,103,Boston College Eagles,2020-12-08,-20.758736999999996,included_game_day
+2021,103,Boston College Eagles,2020-12-12,-55.041163299999994,included_game_day
+2021,103,Boston College Eagles,2020-12-22,-37.960616798,included_game_day
+2021,103,Boston College Eagles,2020-12-30,-26.21975967237,included_game_day
+2021,103,Boston College Eagles,2021-01-02,-35.078103385633,included_game_day
+2021,103,Boston College Eagles,2021-01-06,-27.671681317069698,included_game_day
+2021,103,Boston College Eagles,2021-01-09,-33.65308475388729,included_game_day
+2021,103,Boston College Eagles,2021-01-12,-8.798847551701499,included_game_day
+2021,103,Boston College Eagles,2021-01-16,-16.08989004887546,included_game_day
+2021,103,Boston College Eagles,2021-02-06,-31.492026970281465,included_game_day
+2021,103,Boston College Eagles,2021-02-10,-35.26807284634245,included_game_day
+2021,103,Boston College Eagles,2021-02-13,-32.123217871996715,included_game_day
+2021,103,Boston College Eagles,2021-02-27,-24.259215621738214,included_game_day
+2021,103,Boston College Eagles,2021-03-03,-38.033858829903764,included_game_day
+2021,103,Boston College Eagles,2021-03-05,-39.809802887780656,included_game_day
+2021,103,Boston College Eagles,2021-03-09,-65.61103723924921,included_game_day
+2022,103,Boston College Eagles,2021-11-09,13.0,included_game_day
+2022,103,Boston College Eagles,2021-11-12,38.7,included_game_day
+2022,103,Boston College Eagles,2021-11-14,39.43,included_game_day
+2022,103,Boston College Eagles,2021-11-17,32.627,included_game_day
+2022,103,Boston College Eagles,2021-11-20,28.423300000000005,included_game_day
+2022,103,Boston College Eagles,2021-11-21,21.529990000000005,included_game_day
+2022,103,Boston College Eagles,2021-11-26,27.176358000000004,included_game_day
+2022,103,Boston College Eagles,2021-11-29,35.824319200000005,included_game_day
+2022,103,Boston College Eagles,2021-12-03,45.59823994800001,included_game_day
+2022,103,Boston College Eagles,2021-12-11,38.19605023356361,included_game_day
+2022,103,Boston College Eagles,2021-12-13,19.287376865848124,included_game_day
+2022,103,Boston College Eagles,2022-01-02,-6.63950349909539,included_game_day
+2022,103,Boston College Eagles,2022-01-08,-4.818789232532297,included_game_day
+2022,103,Boston College Eagles,2022-01-12,-12.168530146269422,included_game_day
+2022,103,Boston College Eagles,2022-01-15,-0.7776522826573391,included_game_day
+2022,103,Boston College Eagles,2022-01-19,-10.413669181327855,included_game_day
+2022,103,Boston College Eagles,2022-01-22,1.3638470657740314,included_game_day
+2022,103,Boston College Eagles,2022-01-24,-14.979826708686304,included_game_day
+2022,103,Boston College Eagles,2022-01-26,-15.659061235374773,included_game_day
+2022,103,Boston College Eagles,2022-01-30,-4.9021036466447185,included_game_day
+2022,103,Boston College Eagles,2022-02-01,-9.362905459919443,included_game_day
+2022,103,Boston College Eagles,2022-02-08,-12.773652012303895,included_game_day
+2022,103,Boston College Eagles,2022-02-12,-10.1700563418941,included_game_day
+2022,103,Boston College Eagles,2022-02-16,-1.618270489485905,included_game_day
+2022,103,Boston College Eagles,2022-02-19,-11.247586607566307,included_game_day
+2022,103,Boston College Eagles,2022-02-21,2.667683744622517,included_game_day
+2022,103,Boston College Eagles,2022-02-23,14.765857111927,included_game_day
+2022,103,Boston College Eagles,2022-02-26,3.2006449310213423,included_game_day
+2022,103,Boston College Eagles,2022-03-02,-2.9960130310628292,included_game_day
+2022,103,Boston College Eagles,2022-03-05,-4.827926343388132,included_game_day
+2022,103,Boston College Eagles,2022-03-08,11.027212487705157,included_game_day
+2022,103,Boston College Eagles,2022-03-09,25.935891134099663,included_game_day
+2022,103,Boston College Eagles,2022-03-10,30.226162393742495,included_game_day
+2023,103,Boston College Eagles,2022-11-07,-1.0,included_game_day
+2023,103,Boston College Eagles,2022-11-11,0.10000000000000009,included_game_day
+2023,103,Boston College Eagles,2022-11-14,-8.91,included_game_day
+2023,103,Boston College Eagles,2022-11-18,7.983999999999998,included_game_day
+2023,103,Boston College Eagles,2022-11-20,-8.135900000000003,included_game_day
+2023,103,Boston College Eagles,2022-11-21,3.2871799999999975,included_game_day
+2023,103,Boston College Eagles,2022-11-27,2.951611709999998,included_game_day
+2023,103,Boston College Eagles,2022-11-30,-14.476971841800001,included_game_day
+2023,103,Boston College Eagles,2022-12-03,-18.916321485620003,included_game_day
+2023,103,Boston College Eagles,2022-12-06,-27.542895376458002,included_game_day
+2023,103,Boston College Eagles,2022-12-10,-44.706926923180205,included_game_day
+2023,103,Boston College Eagles,2022-12-13,-41.364317556102186,included_game_day
+2023,103,Boston College Eagles,2022-12-21,-25.098077995526587,included_game_day
+2023,103,Boston College Eagles,2022-12-31,-29.182309826186735,included_game_day
+2023,103,Boston College Eagles,2023-01-03,-22.199892784506556,included_game_day
+2023,103,Boston College Eagles,2023-01-07,-17.58108450048544,included_game_day
+2023,103,Boston College Eagles,2023-01-11,-22.2919875026939,included_game_day
+2023,103,Boston College Eagles,2023-01-14,-40.819741958976216,included_game_day
+2023,103,Boston College Eagles,2023-01-17,-32.447982976386484,included_game_day
+2023,103,Boston College Eagles,2023-01-21,-16.77055917923354,included_game_day
+2023,103,Boston College Eagles,2023-01-25,-16.894673500588667,included_game_day
+2023,103,Boston College Eagles,2023-01-28,-20.651085862300963,included_game_day
+2023,103,Boston College Eagles,2023-01-31,-5.508942418467463,included_game_day
+2023,103,Boston College Eagles,2023-02-04,-12.539450325484953,included_game_day
+2023,103,Boston College Eagles,2023-02-08,5.285636263620464,included_game_day
+2023,103,Boston College Eagles,2023-02-11,-20.822242367776735,included_game_day
+2023,103,Boston College Eagles,2023-02-14,-25.63125234608311,included_game_day
+2023,103,Boston College Eagles,2023-02-18,-19.441381627792126,included_game_day
+2023,103,Boston College Eagles,2023-02-22,3.037901609583546,included_game_day
+2023,103,Boston College Eagles,2023-02-28,12.971581151727605,included_game_day
+2023,103,Boston College Eagles,2023-03-04,1.742457971715286,included_game_day
+2023,103,Boston College Eagles,2023-03-07,12.921370150384906,included_game_day
+2023,103,Boston College Eagles,2023-03-08,-4.4971299355423895,included_game_day
+2024,103,Boston College Eagles,2023-11-06,16.0,included_game_day
+2024,103,Boston College Eagles,2023-11-10,20.4,included_game_day
+2024,103,Boston College Eagles,2023-11-15,27.599999999999998,included_game_day
+2024,103,Boston College Eagles,2023-11-18,35.0015,included_game_day
+2024,103,Boston College Eagles,2023-11-22,25.53706,included_game_day
+2024,103,Boston College Eagles,2023-11-23,18.471509,included_game_day
+2024,103,Boston College Eagles,2023-11-29,35.477608700000005,included_game_day
+2024,103,Boston College Eagles,2023-12-02,26.058432690000004,included_game_day
+2024,103,Boston College Eagles,2023-12-05,33.651531062000004,included_game_day
+2024,103,Boston College Eagles,2023-12-08,49.5439153648,included_game_day
+2024,103,Boston College Eagles,2023-12-10,58.17007627222,included_game_day
+2024,103,Boston College Eagles,2023-12-21,60.437105350278,included_game_day
+2024,103,Boston College Eagles,2024-01-02,55.951526654214305,included_game_day
+2024,103,Boston College Eagles,2024-01-06,62.84177739401851,included_game_day
+2024,103,Boston College Eagles,2024-01-10,54.059442648041774,included_game_day
+2024,103,Boston College Eagles,2024-01-13,48.440257274312145,included_game_day
+2024,103,Boston College Eagles,2024-01-15,44.94982044090133,included_game_day
+2024,103,Boston College Eagles,2024-01-20,43.87428221507149,included_game_day
+2024,103,Boston College Eagles,2024-01-23,43.470209243131976,included_game_day
+2024,103,Boston College Eagles,2024-01-27,44.908677740031344,included_game_day
+2024,103,Boston College Eagles,2024-01-30,46.53761330005655,included_game_day
+2024,103,Boston College Eagles,2024-02-06,42.91159218192383,included_game_day
+2024,103,Boston College Eagles,2024-02-10,39.162536986478,included_game_day
+2024,103,Boston College Eagles,2024-02-13,44.223790928487794,included_game_day
+2024,103,Boston College Eagles,2024-02-17,49.509479403501466,included_game_day
+2024,103,Boston College Eagles,2024-02-20,43.795075843186126,included_game_day
+2024,103,Boston College Eagles,2024-02-24,36.39465389428215,included_game_day
+2024,103,Boston College Eagles,2024-02-28,30.01907302412038,included_game_day
+2024,103,Boston College Eagles,2024-03-02,7.827157099207959,included_game_day
+2024,103,Boston College Eagles,2024-03-06,21.98242033493086,included_game_day
+2024,103,Boston College Eagles,2024-03-09,23.615076862716986,included_game_day
+2024,103,Boston College Eagles,2024-03-12,37.56238488101502,included_game_day
+2024,103,Boston College Eagles,2024-03-13,65.50068290590397,included_game_day
+2024,103,Boston College Eagles,2024-03-14,57.70198084523325,included_game_day
+2024,103,Boston College Eagles,2024-03-19,66.5569372021291,included_game_day
+2024,103,Boston College Eagles,2024-03-24,62.42320180675402,included_game_day
+2025,103,Boston College Eagles,2024-11-04,6.0,included_game_day
+2025,103,Boston College Eagles,2024-11-08,-18.0,included_game_day
+2025,103,Boston College Eagles,2024-11-15,-12.491,included_game_day
+2025,103,Boston College Eagles,2024-11-19,6.066749999999999,included_game_day
+2025,103,Boston College Eagles,2024-11-24,29.370874999999998,included_game_day
+2025,103,Boston College Eagles,2024-11-25,30.287226899999997,included_game_day
+2025,103,Boston College Eagles,2024-11-26,33.99719864,included_game_day
+2025,103,Boston College Eagles,2024-11-29,17.352278776000002,included_game_day
+2025,103,Boston College Eagles,2024-12-03,-6.461624501599996,included_game_day
+2025,103,Boston College Eagles,2024-12-07,-7.487277049019996,included_game_day
+2025,103,Boston College Eagles,2024-12-15,-9.760807419117997,included_game_day
+2025,103,Boston College Eagles,2024-12-21,-27.5722181479022,included_game_day
+2025,103,Boston College Eagles,2024-12-28,-26.61924726259746,included_game_day
+2025,103,Boston College Eagles,2025-01-01,-15.615338781439961,included_game_day
+2025,103,Boston College Eagles,2025-01-04,-28.664317556482544,included_game_day
+2025,103,Boston College Eagles,2025-01-11,-36.70861769108849,included_game_day
+2025,103,Boston College Eagles,2025-01-13,-43.42902522001376,included_game_day
+2025,103,Boston College Eagles,2025-01-18,-46.29933326290119,included_game_day
+2025,103,Boston College Eagles,2025-01-21,-58.34672100214401,included_game_day
+2025,103,Boston College Eagles,2025-01-25,-46.988117001899234,included_game_day
+2025,103,Boston College Eagles,2025-02-01,-40.05774955669956,included_game_day
+2025,103,Boston College Eagles,2025-02-05,-51.99330121943168,included_game_day
+2025,103,Boston College Eagles,2025-02-08,-52.52869412070405,included_game_day
+2025,103,Boston College Eagles,2025-02-12,-50.9385177319759,included_game_day
+2025,103,Boston College Eagles,2025-02-15,-50.91481364525987,included_game_day
+2025,103,Boston College Eagles,2025-02-18,-29.741553845467596,included_game_day
+2025,103,Boston College Eagles,2025-02-22,-11.113614795808981,included_game_day
+2025,103,Boston College Eagles,2025-02-26,-23.003973760305666,included_game_day
+2025,103,Boston College Eagles,2025-03-01,-27.55633559912641,included_game_day
+2025,103,Boston College Eagles,2025-03-05,-20.52429473909563,included_game_day
+2025,103,Boston College Eagles,2025-03-08,-39.362361554843915,included_game_day
+2026,103,Boston College Eagles,2025-11-03,-2.0,included_game_day
+2026,103,Boston College Eagles,2025-11-06,24.2,included_game_day
+2026,103,Boston College Eagles,2025-11-11,15.57,included_game_day
+2026,103,Boston College Eagles,2025-11-15,26.0682,included_game_day
+2026,103,Boston College Eagles,2025-11-18,28.480127000000003,included_game_day
+2026,103,Boston College Eagles,2025-11-21,18.245914300000003,included_game_day
+2026,103,Boston College Eagles,2025-11-23,10.471416870000002,included_game_day
+2026,103,Boston College Eagles,2025-11-26,20.438145183000003,included_game_day
+2026,103,Boston College Eagles,2025-12-03,18.258723210200003,included_game_day
+2026,103,Boston College Eagles,2025-12-06,10.592841889180002,included_game_day
+2026,103,Boston College Eagles,2025-12-10,9.348653303826701,included_game_day
+2026,103,Boston College Eagles,2025-12-22,5.22325452537393,included_game_day
+2026,103,Boston College Eagles,2025-12-28,4.8145099350984015,included_game_day
+2026,103,Boston College Eagles,2026-01-03,-0.8301603756009861,included_game_day
+2026,103,Boston College Eagles,2026-01-06,-1.1198013105292528,included_game_day
+2026,103,Boston College Eagles,2026-01-10,3.658063597508457,included_game_day
+2026,103,Boston College Eagles,2026-01-13,-5.453031027532525,included_game_day
+2026,103,Boston College Eagles,2026-01-17,7.665623704630038,included_game_day
+2026,103,Boston College Eagles,2026-01-21,10.431490494834907,included_game_day
+2026,103,Boston College Eagles,2026-01-24,11.217721751125657,included_game_day
+2026,103,Boston College Eagles,2026-01-31,15.46689686972809,included_game_day
+2026,103,Boston College Eagles,2026-02-03,21.93463584983214,included_game_day
+2026,103,Boston College Eagles,2026-02-07,21.68858253832704,included_game_day
+2026,103,Boston College Eagles,2026-02-11,16.301583175485007,included_game_day
+2026,103,Boston College Eagles,2026-02-14,6.23005788160078,included_game_day
+2026,103,Boston College Eagles,2026-02-17,8.721623324058282,included_game_day
+2026,103,Boston College Eagles,2026-02-21,-0.17713656251531518,included_game_day
+2026,103,Boston College Eagles,2026-02-25,2.9641888275740387,included_game_day
+2026,103,Boston College Eagles,2026-02-28,-3.3001892560355293,included_game_day
+2026,103,Boston College Eagles,2026-03-03,0.23832477615744718,included_game_day
+2026,103,Boston College Eagles,2026-03-07,6.838165822649733,included_game_day
+2027,103,Boston College Eagles,2026-11-03,23.0,included_game_day
+2027,103,Boston College Eagles,2026-11-06,38.1,included_game_day
+2027,103,Boston College Eagles,2026-11-10,56.72,included_game_day
+2027,103,Boston College Eagles,2026-11-15,60.686,included_game_day
+2027,103,Boston College Eagles,2026-11-18,60.18191,included_game_day
+2027,103,Boston College Eagles,2026-11-22,61.0718102,included_game_day

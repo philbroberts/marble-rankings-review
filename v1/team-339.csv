@@ -1,0 +1,1176 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,339,Evansville,1987-11-28,10.0,included_game_day
+1988,339,Evansville,1987-12-02,16.0,included_game_day
+1988,339,Evansville,1987-12-05,16.4,included_game_day
+1988,339,Evansville,1987-12-09,8.28886,included_game_day
+1988,339,Evansville,1987-12-12,59.99359,included_game_day
+1988,339,Evansville,1987-12-17,69.8724149,included_game_day
+1988,339,Evansville,1987-12-19,80.39477115999999,included_game_day
+1988,339,Evansville,1987-12-22,66.45460171629999,included_game_day
+1988,339,Evansville,1987-12-30,61.842884292788995,included_game_day
+1988,339,Evansville,1988-01-02,67.78353042001959,included_game_day
+1988,339,Evansville,1988-01-06,63.38619415795733,included_game_day
+1988,339,Evansville,1988-01-09,64.72796022041047,included_game_day
+1988,339,Evansville,1988-01-11,93.3286254150684,included_game_day
+1988,339,Evansville,1988-01-20,99.60051216723228,included_game_day
+1988,339,Evansville,1988-01-23,95.55905065043365,included_game_day
+1988,339,Evansville,1988-01-25,93.11429780131539,included_game_day
+1988,339,Evansville,1988-01-30,77.92828289441744,included_game_day
+1988,339,Evansville,1988-02-01,64.2180953549419,included_game_day
+1988,339,Evansville,1988-02-06,41.70551145622676,included_game_day
+1988,339,Evansville,1988-02-13,49.595790918736704,included_game_day
+1988,339,Evansville,1988-02-17,42.77133792817662,included_game_day
+1988,339,Evansville,1988-02-20,28.614874948225214,included_game_day
+1988,339,Evansville,1988-02-22,57.69575709884617,included_game_day
+1988,339,Evansville,1988-02-27,61.301785475933684,included_game_day
+1988,339,Evansville,1988-02-29,72.74089329921681,included_game_day
+1988,339,Evansville,1988-03-06,77.15516678399109,included_game_day
+1988,339,Evansville,1988-03-11,61.6206407524984,included_game_day
+1988,339,Evansville,1988-03-17,68.6010108507643,included_game_day
+1988,339,Evansville,1988-03-21,60.199401316717214,included_game_day
+1989,339,Evansville,1988-11-27,19.4,included_game_day
+1989,339,Evansville,1988-11-30,21.354,included_game_day
+1989,339,Evansville,1988-12-05,25.4986,included_game_day
+1989,339,Evansville,1988-12-07,20.05107,included_game_day
+1989,339,Evansville,1988-12-10,35.084481600000004,included_game_day
+1989,339,Evansville,1988-12-12,45.91390242,included_game_day
+1989,339,Evansville,1988-12-20,65.013058208,included_game_day
+1989,339,Evansville,1988-12-23,77.5161341687,included_game_day
+1989,339,Evansville,1988-12-29,81.34007269253,included_game_day
+1989,339,Evansville,1988-12-31,83.0732686233107,included_game_day
+1989,339,Evansville,1989-01-03,96.09977096347812,included_game_day
+1989,339,Evansville,1989-01-10,91.33859882859828,included_game_day
+1989,339,Evansville,1989-01-14,94.45125654550051,included_game_day
+1989,339,Evansville,1989-01-19,78.90826160091633,included_game_day
+1989,339,Evansville,1989-01-21,92.17412274671418,included_game_day
+1989,339,Evansville,1989-01-26,89.71794398073325,included_game_day
+1989,339,Evansville,1989-01-28,86.63853436142679,included_game_day
+1989,339,Evansville,1989-02-04,114.41679905094023,included_game_day
+1989,339,Evansville,1989-02-06,101.94959668656111,included_game_day
+1989,339,Evansville,1989-02-11,101.13141834933954,included_game_day
+1989,339,Evansville,1989-02-13,112.58149032460672,included_game_day
+1989,339,Evansville,1989-02-16,104.30087401231116,included_game_day
+1989,339,Evansville,1989-02-18,113.86710381988351,included_game_day
+1989,339,Evansville,1989-02-23,112.63048984969296,included_game_day
+1989,339,Evansville,1989-02-25,110.74511692073611,included_game_day
+1989,339,Evansville,1989-02-27,121.6314158384719,included_game_day
+1989,339,Evansville,1989-03-04,108.03831216889286,included_game_day
+1989,339,Evansville,1989-03-10,102.18828177443699,included_game_day
+1989,339,Evansville,1989-03-11,90.9867357792253,included_game_day
+1989,339,Evansville,1989-03-17,97.47646437209144,included_game_day
+1989,339,Evansville,1989-03-19,87.67183067741237,included_game_day
+1990,339,Evansville,1989-11-24,-15.0,included_game_day
+1990,339,Evansville,1989-11-26,-23.369999999999997,included_game_day
+1990,339,Evansville,1989-11-30,-27.433,included_game_day
+1990,339,Evansville,1989-12-02,-2.6296999999999997,included_game_day
+1990,339,Evansville,1989-12-05,-0.4079499999999996,included_game_day
+1990,339,Evansville,1989-12-09,10.402135000000001,included_game_day
+1990,339,Evansville,1989-12-12,15.0242473,included_game_day
+1990,339,Evansville,1989-12-16,33.4847655922,included_game_day
+1990,339,Evansville,1989-12-20,19.423936004439998,included_game_day
+1990,339,Evansville,1989-12-23,16.434242423995997,included_game_day
+1990,339,Evansville,1989-12-30,20.833055366156398,included_game_day
+1990,339,Evansville,1990-01-03,61.274566543768174,included_game_day
+1990,339,Evansville,1990-01-06,49.067981025848795,included_game_day
+1990,339,Evansville,1990-01-11,56.38921970306923,included_game_day
+1990,339,Evansville,1990-01-13,53.56407264382658,included_game_day
+1990,339,Evansville,1990-01-18,64.19606396553641,included_game_day
+1990,339,Evansville,1990-01-20,36.06087483663933,included_game_day
+1990,339,Evansville,1990-01-22,47.52005902825809,included_game_day
+1990,339,Evansville,1990-01-25,41.33369539488881,included_game_day
+1990,339,Evansville,1990-01-27,46.04135818083811,included_game_day
+1990,339,Evansville,1990-01-30,30.33305798319517,included_game_day
+1990,339,Evansville,1990-02-03,14.38928054759481,included_game_day
+1990,339,Evansville,1990-02-08,4.416706087602387,included_game_day
+1990,339,Evansville,1990-02-10,4.9810980332253525,included_game_day
+1990,339,Evansville,1990-02-15,-1.8650255918453258,included_game_day
+1990,339,Evansville,1990-02-17,-17.035996990767508,included_game_day
+1990,339,Evansville,1990-02-24,-16.90228511917509,included_game_day
+1990,339,Evansville,1990-02-26,-33.04639379097818,included_game_day
+1990,339,Evansville,1990-03-04,-23.53551570765755,included_game_day
+1990,339,Evansville,1990-03-08,-6.641096237713263,included_game_day
+1990,339,Evansville,1990-03-09,-4.722306052931598,included_game_day
+1991,339,Evansville,1990-11-24,14.0,included_game_day
+1991,339,Evansville,1990-11-26,8.6,included_game_day
+1991,339,Evansville,1990-12-01,28.36,included_game_day
+1991,339,Evansville,1990-12-04,1.915099999999999,included_game_day
+1991,339,Evansville,1990-12-10,16.798389811699998,included_game_day
+1991,339,Evansville,1990-12-15,7.161302080529998,included_game_day
+1991,339,Evansville,1990-12-18,6.171373787476998,included_game_day
+1991,339,Evansville,1990-12-20,7.166554840729299,included_game_day
+1991,339,Evansville,1990-12-22,22.25986696141637,included_game_day
+1991,339,Evansville,1990-12-29,12.098581271177734,included_game_day
+1991,339,Evansville,1991-01-02,-1.5190452657490798,included_game_day
+1991,339,Evansville,1991-01-05,4.306071443974433,included_game_day
+1991,339,Evansville,1991-01-10,1.2967250842823113,included_game_day
+1991,339,Evansville,1991-01-12,3.363510558037596,included_game_day
+1991,339,Evansville,1991-01-17,-3.9588837451071446,included_game_day
+1991,339,Evansville,1991-01-19,-10.479814054059208,included_game_day
+1991,339,Evansville,1991-01-24,-21.67358023579306,included_game_day
+1991,339,Evansville,1991-01-28,-6.79625657158374,included_game_day
+1991,339,Evansville,1991-01-31,-22.76029036595393,included_game_day
+1991,339,Evansville,1991-02-02,-18.176258141747997,included_game_day
+1991,339,Evansville,1991-02-07,-12.869241939887527,included_game_day
+1991,339,Evansville,1991-02-09,3.9162298274214358,included_game_day
+1991,339,Evansville,1991-02-14,-10.85237084598223,included_game_day
+1991,339,Evansville,1991-02-16,-37.52457537448923,included_game_day
+1991,339,Evansville,1991-02-21,-27.319518506640176,included_game_day
+1991,339,Evansville,1991-02-25,-27.710658312853006,included_game_day
+1991,339,Evansville,1991-03-03,-33.419883644570845,included_game_day
+1991,339,Evansville,1991-03-07,-39.84739223426705,included_game_day
+1992,339,Evansville,1991-11-20,-26.0,included_game_day
+1992,339,Evansville,1991-11-25,2.219999999999999,included_game_day
+1992,339,Evansville,1991-12-03,18.192999999999998,included_game_day
+1992,339,Evansville,1991-12-07,34.305099999999996,included_game_day
+1992,339,Evansville,1991-12-09,26.958090999999996,included_game_day
+1992,339,Evansville,1991-12-14,25.756004899999997,included_game_day
+1992,339,Evansville,1991-12-19,38.09971874,included_game_day
+1992,339,Evansville,1991-12-21,45.71152648507,included_game_day
+1992,339,Evansville,1991-12-28,46.302452213439004,included_game_day
+1992,339,Evansville,1991-12-29,56.97275315199674,included_game_day
+1992,339,Evansville,1992-01-04,53.44465018750415,included_game_day
+1992,339,Evansville,1992-01-11,55.08952143685868,included_game_day
+1992,339,Evansville,1992-01-13,50.51253707058747,included_game_day
+1992,339,Evansville,1992-01-18,68.34673847476213,included_game_day
+1992,339,Evansville,1992-01-22,86.4563910895278,included_game_day
+1992,339,Evansville,1992-01-25,95.90695588826128,included_game_day
+1992,339,Evansville,1992-01-27,106.66770222083179,included_game_day
+1992,339,Evansville,1992-02-01,88.81798768538283,included_game_day
+1992,339,Evansville,1992-02-05,89.11952590075884,included_game_day
+1992,339,Evansville,1992-02-08,81.65757886839219,included_game_day
+1992,339,Evansville,1992-02-15,92.48649042674211,included_game_day
+1992,339,Evansville,1992-02-18,112.14550062183326,included_game_day
+1992,339,Evansville,1992-02-22,113.96547307116731,included_game_day
+1992,339,Evansville,1992-02-24,106.19914746702221,included_game_day
+1992,339,Evansville,1992-02-29,107.75958555832364,included_game_day
+1992,339,Evansville,1992-03-03,121.88052580684852,included_game_day
+1992,339,Evansville,1992-03-09,131.33626334136082,included_game_day
+1992,339,Evansville,1992-03-13,133.62175208353844,included_game_day
+1992,339,Evansville,1992-03-14,146.91619982286284,included_game_day
+1992,339,Evansville,1992-03-20,137.13215280309174,included_game_day
+1993,339,Evansville,1992-12-06,-2.51,included_game_day
+1993,339,Evansville,1992-12-09,6.411,included_game_day
+1993,339,Evansville,1992-12-12,22.518099999999997,included_game_day
+1993,339,Evansville,1992-12-14,21.837549999999997,included_game_day
+1993,339,Evansville,1992-12-19,3.7107949999999974,included_game_day
+1993,339,Evansville,1992-12-21,22.577398799999997,included_game_day
+1993,339,Evansville,1992-12-29,34.583381419999995,included_game_day
+1993,339,Evansville,1993-01-02,27.193101178302577,included_game_day
+1993,339,Evansville,1993-01-04,11.522397384769299,included_game_day
+1993,339,Evansville,1993-01-09,14.980626884398202,included_game_day
+1993,339,Evansville,1993-01-16,27.97782471138587,included_game_day
+1993,339,Evansville,1993-01-20,28.956617849958793,included_game_day
+1993,339,Evansville,1993-01-23,23.27417527236392,included_game_day
+1993,339,Evansville,1993-01-25,62.02782091382608,included_game_day
+1993,339,Evansville,1993-01-28,54.46285951329255,included_game_day
+1993,339,Evansville,1993-02-01,56.82779812959396,included_game_day
+1993,339,Evansville,1993-02-04,77.51953411157712,included_game_day
+1993,339,Evansville,1993-02-06,95.06463558903437,included_game_day
+1993,339,Evansville,1993-02-11,110.418962730948,included_game_day
+1993,339,Evansville,1993-02-13,107.490235693961,included_game_day
+1993,339,Evansville,1993-02-17,94.0472229077952,included_game_day
+1993,339,Evansville,1993-02-20,107.47270397455095,included_game_day
+1993,339,Evansville,1993-02-27,101.69252181688628,included_game_day
+1993,339,Evansville,1993-03-04,93.20377387822487,included_game_day
+1993,339,Evansville,1993-03-07,91.25727757096703,included_game_day
+1993,339,Evansville,1993-03-11,75.82285227915469,included_game_day
+1993,339,Evansville,1993-03-12,68.50380949440616,included_game_day
+1993,339,Evansville,1993-03-13,80.38381664676872,included_game_day
+1993,339,Evansville,1993-03-18,70.27776215273528,included_game_day
+1994,339,Evansville,1993-11-27,13.0,included_game_day
+1994,339,Evansville,1993-12-01,19.27,included_game_day
+1994,339,Evansville,1993-12-04,9.343,included_game_day
+1994,339,Evansville,1993-12-08,0.34828999999999866,included_game_day
+1994,339,Evansville,1993-12-11,7.602960999999999,included_game_day
+1994,339,Evansville,1993-12-14,18.03684371,included_game_day
+1994,339,Evansville,1993-12-18,50.818080339,included_game_day
+1994,339,Evansville,1993-12-21,42.2976106011,included_game_day
+1994,339,Evansville,1993-12-27,42.74917815899,included_game_day
+1994,339,Evansville,1993-12-28,32.02406216865429,included_game_day
+1994,339,Evansville,1993-12-29,32.329271522221234,included_game_day
+1994,339,Evansville,1994-01-03,58.67574526028723,included_game_day
+1994,339,Evansville,1994-01-05,73.0373419581026,included_game_day
+1994,339,Evansville,1994-01-15,77.35760975681993,included_game_day
+1994,339,Evansville,1994-01-19,55.92104771948203,included_game_day
+1994,339,Evansville,1994-01-22,86.66828782518813,included_game_day
+1994,339,Evansville,1994-01-26,83.89180792751318,included_game_day
+1994,339,Evansville,1994-01-29,72.311118157271,included_game_day
+1994,339,Evansville,1994-01-31,67.194554508939,included_game_day
+1994,339,Evansville,1994-02-02,76.88412605766801,included_game_day
+1994,339,Evansville,1994-02-06,68.36223614799657,included_game_day
+1994,339,Evansville,1994-02-10,54.398480477130796,included_game_day
+1994,339,Evansville,1994-02-12,48.731360653172906,included_game_day
+1994,339,Evansville,1994-02-16,57.1976647940066,included_game_day
+1994,339,Evansville,1994-02-19,53.809931461595795,included_game_day
+1994,339,Evansville,1994-02-26,50.651516840174196,included_game_day
+1994,339,Evansville,1994-03-02,50.807785876008346,included_game_day
+1994,339,Evansville,1994-03-07,54.44049064545441,included_game_day
+1994,339,Evansville,1994-03-08,44.10231247020136,included_game_day
+1994,339,Evansville,1994-03-17,32.440628395278495,included_game_day
+1995,339,Evansville,1994-11-27,15.0,included_game_day
+1995,339,Evansville,1994-12-03,-9.3002,included_game_day
+1995,339,Evansville,1994-12-10,12.964939999999999,included_game_day
+1995,339,Evansville,1994-12-14,49.657653468,included_game_day
+1995,339,Evansville,1994-12-17,93.4397981212,included_game_day
+1995,339,Evansville,1994-12-20,86.84936681508,included_game_day
+1995,339,Evansville,1994-12-23,101.7567830074326,included_game_day
+1995,339,Evansville,1994-12-31,118.87441041168934,included_game_day
+1995,339,Evansville,1995-01-03,140.03266190189424,included_game_day
+1995,339,Evansville,1995-01-07,146.28015158181952,included_game_day
+1995,339,Evansville,1995-01-11,143.9544689601035,included_game_day
+1995,339,Evansville,1995-01-14,135.91156375056872,included_game_day
+1995,339,Evansville,1995-01-16,123.59465472840144,included_game_day
+1995,339,Evansville,1995-01-21,124.5840921179592,included_game_day
+1995,339,Evansville,1995-01-23,116.49149896874222,included_game_day
+1995,339,Evansville,1995-01-26,124.26919838140009,included_game_day
+1995,339,Evansville,1995-01-30,127.80849095513645,included_game_day
+1995,339,Evansville,1995-02-04,136.8704162856054,included_game_day
+1995,339,Evansville,1995-02-06,124.76068936633821,included_game_day
+1995,339,Evansville,1995-02-08,116.48030685700098,included_game_day
+1995,339,Evansville,1995-02-11,101.66349699872302,included_game_day
+1995,339,Evansville,1995-02-16,115.95254178715159,included_game_day
+1995,339,Evansville,1995-02-18,108.15701272714858,included_game_day
+1995,339,Evansville,1995-02-20,115.46631905622534,included_game_day
+1995,339,Evansville,1995-02-25,110.69144136741043,included_game_day
+1995,339,Evansville,1995-02-27,102.89216528230412,included_game_day
+1995,339,Evansville,1995-03-04,95.04886927579389,included_game_day
+1996,339,Evansville,1995-11-28,37.0,included_game_day
+1996,339,Evansville,1995-12-02,47.53,included_game_day
+1996,339,Evansville,1995-12-06,38.53828,included_game_day
+1996,339,Evansville,1995-12-09,48.833382,included_game_day
+1996,339,Evansville,1995-12-16,43.3602758,included_game_day
+1996,339,Evansville,1995-12-20,8.630338529899994,included_game_day
+1996,339,Evansville,1995-12-23,7.981953566909994,included_game_day
+1996,339,Evansville,1995-12-30,-10.403715088585137,included_game_day
+1996,339,Evansville,1996-01-02,-10.138324714465924,included_game_day
+1996,339,Evansville,1996-01-06,-13.260996264301175,included_game_day
+1996,339,Evansville,1996-01-13,-8.053753379544004,included_game_day
+1996,339,Evansville,1996-01-15,4.392007046204478,included_game_day
+1996,339,Evansville,1996-01-17,12.943053015802391,included_game_day
+1996,339,Evansville,1996-01-20,5.741814760533595,included_game_day
+1996,339,Evansville,1996-01-23,-2.656403309487006,included_game_day
+1996,339,Evansville,1996-01-27,10.506003131632282,included_game_day
+1996,339,Evansville,1996-01-30,6.373315374586778,included_game_day
+1996,339,Evansville,1996-02-03,5.99701477340778,included_game_day
+1996,339,Evansville,1996-02-05,1.0812171360622793,included_game_day
+1996,339,Evansville,1996-02-10,9.90424417625486,included_game_day
+1996,339,Evansville,1996-02-12,-1.4749470712354409,included_game_day
+1996,339,Evansville,1996-02-14,13.16680362559745,included_game_day
+1996,339,Evansville,1996-02-18,18.84222417861689,included_game_day
+1996,339,Evansville,1996-02-21,11.64263728084579,included_game_day
+1996,339,Evansville,1996-02-24,35.1282894183341,included_game_day
+1996,339,Evansville,1996-02-26,41.90450234746846,included_game_day
+1996,339,Evansville,1996-03-02,35.797119192763375,included_game_day
+1997,339,Evansville,1996-11-20,1.0,included_game_day
+1997,339,Evansville,1996-11-22,2.5,included_game_day
+1997,339,Evansville,1996-11-24,20.25,included_game_day
+1997,339,Evansville,1996-11-27,19.752,included_game_day
+1997,339,Evansville,1996-11-29,15.431799999999999,included_game_day
+1997,339,Evansville,1996-12-01,16.525869999999998,included_game_day
+1997,339,Evansville,1996-12-03,25.313283,included_game_day
+1997,339,Evansville,1996-12-07,6.672690699999997,included_game_day
+1997,339,Evansville,1996-12-14,-8.031928010000003,included_game_day
+1997,339,Evansville,1996-12-17,-14.158606209000002,included_game_day
+1997,339,Evansville,1996-12-21,-25.048042869120003,included_game_day
+1997,339,Evansville,1996-12-29,-12.451681080446004,included_game_day
+1997,339,Evansville,1997-01-02,-20.931658877562725,included_game_day
+1997,339,Evansville,1997-01-04,-21.84012013344498,included_game_day
+1997,339,Evansville,1997-01-07,-9.49416000737246,included_game_day
+1997,339,Evansville,1997-01-11,-18.97651560993662,included_game_day
+1997,339,Evansville,1997-01-16,-18.581526825193578,included_game_day
+1997,339,Evansville,1997-01-19,-23.902337705613828,included_game_day
+1997,339,Evansville,1997-01-22,-8.567639527842744,included_game_day
+1997,339,Evansville,1997-01-25,-1.7927843387127913,included_game_day
+1997,339,Evansville,1997-01-27,2.842377786980017,included_game_day
+1997,339,Evansville,1997-01-30,4.793680422353627,included_game_day
+1997,339,Evansville,1997-02-02,-3.685905055027498,included_game_day
+1997,339,Evansville,1997-02-05,3.300531654858772,included_game_day
+1997,339,Evansville,1997-02-08,6.78012272119547,included_game_day
+1997,339,Evansville,1997-02-11,-0.7814536755753885,included_game_day
+1997,339,Evansville,1997-02-15,6.706555975651407,included_game_day
+1997,339,Evansville,1997-02-17,5.600265063590414,included_game_day
+1997,339,Evansville,1997-02-22,20.93187642372794,included_game_day
+1997,339,Evansville,1997-02-24,16.625045503178843,included_game_day
+1997,339,Evansville,1997-03-01,9.20703680639133,included_game_day
+1998,339,Evansville,1997-11-15,-8.0,included_game_day
+1998,339,Evansville,1997-11-19,7.800000000000001,included_game_day
+1998,339,Evansville,1997-11-22,30.42,included_game_day
+1998,339,Evansville,1997-11-27,19.01,included_game_day
+1998,339,Evansville,1997-11-30,40.3458215,included_game_day
+1998,339,Evansville,1997-12-06,52.793026276,included_game_day
+1998,339,Evansville,1997-12-09,42.266584945,included_game_day
+1998,339,Evansville,1997-12-13,23.8359221566,included_game_day
+1998,339,Evansville,1997-12-20,19.4225278368625,included_game_day
+1998,339,Evansville,1997-12-22,8.102707948676251,included_game_day
+1998,339,Evansville,1997-12-28,7.253149867288625,included_game_day
+1998,339,Evansville,1997-12-31,9.357288235848403,included_game_day
+1998,339,Evansville,1998-01-03,12.214553122224663,included_game_day
+1998,339,Evansville,1998-01-07,26.043045055124118,included_game_day
+1998,339,Evansville,1998-01-10,29.724411587543475,included_game_day
+1998,339,Evansville,1998-01-12,29.59621227405608,included_game_day
+1998,339,Evansville,1998-01-17,32.917489748882964,included_game_day
+1998,339,Evansville,1998-01-19,29.38707543057169,included_game_day
+1998,339,Evansville,1998-01-24,49.578889513119734,included_game_day
+1998,339,Evansville,1998-01-26,40.67507469605839,included_game_day
+1998,339,Evansville,1998-01-31,26.67961136743237,included_game_day
+1998,339,Evansville,1998-02-02,17.80301499015499,included_game_day
+1998,339,Evansville,1998-02-08,12.826644927344848,included_game_day
+1998,339,Evansville,1998-02-10,15.614268070785952,included_game_day
+1998,339,Evansville,1998-02-15,13.392963638977958,included_game_day
+1998,339,Evansville,1998-02-18,11.225612908186662,included_game_day
+1998,339,Evansville,1998-02-21,-9.615159356874607,included_game_day
+1998,339,Evansville,1998-02-23,-11.765265000561978,included_game_day
+1998,339,Evansville,1998-02-28,-5.485349515511876,included_game_day
+1999,339,Evansville,1998-11-14,2.0,included_game_day
+1999,339,Evansville,1998-11-18,17.8,included_game_day
+1999,339,Evansville,1998-11-27,-14.615939999999998,included_game_day
+1999,339,Evansville,1998-11-29,-1.4082009999999983,included_game_day
+1999,339,Evansville,1998-12-05,-14.371950899999998,included_game_day
+1999,339,Evansville,1998-12-08,6.895537714600003,included_game_day
+1999,339,Evansville,1998-12-12,6.228039381580003,included_game_day
+1999,339,Evansville,1998-12-16,36.443298082022004,included_game_day
+1999,339,Evansville,1998-12-19,40.151616715579806,included_game_day
+1999,339,Evansville,1998-12-29,32.78775831942055,included_game_day
+1999,339,Evansville,1999-01-02,44.3118341822244,included_game_day
+1999,339,Evansville,1999-01-04,57.1937611470445,included_game_day
+1999,339,Evansville,1999-01-07,58.30779391984186,included_game_day
+1999,339,Evansville,1999-01-09,58.21831417590444,included_game_day
+1999,339,Evansville,1999-01-13,63.02202395902233,included_game_day
+1999,339,Evansville,1999-01-16,55.65085305648634,included_game_day
+1999,339,Evansville,1999-01-20,44.988210458774574,included_game_day
+1999,339,Evansville,1999-01-23,13.53728685923631,included_game_day
+1999,339,Evansville,1999-01-27,17.575189533895497,included_game_day
+1999,339,Evansville,1999-01-30,20.516303965986438,included_game_day
+1999,339,Evansville,1999-02-04,31.110541817265666,included_game_day
+1999,339,Evansville,1999-02-06,42.10275827688288,included_game_day
+1999,339,Evansville,1999-02-10,50.4041502594751,included_game_day
+1999,339,Evansville,1999-02-13,38.7654388693155,included_game_day
+1999,339,Evansville,1999-02-17,51.86718127973707,included_game_day
+1999,339,Evansville,1999-02-20,40.12189958550026,included_game_day
+1999,339,Evansville,1999-02-22,45.22010333842469,included_game_day
+1999,339,Evansville,1999-02-27,49.466210242383305,included_game_day
+1999,339,Evansville,1999-02-28,48.36481761090359,included_game_day
+1999,339,Evansville,1999-03-01,41.864553443782064,included_game_day
+1999,339,Evansville,1999-03-12,30.165730570955034,included_game_day
+2000,339,Evansville,1999-11-20,10.0,included_game_day
+2000,339,Evansville,1999-11-23,15.8,included_game_day
+2000,339,Evansville,1999-11-26,36.56,included_game_day
+2000,339,Evansville,1999-11-27,32.01979,included_game_day
+2000,339,Evansville,1999-11-28,33.142481000000004,included_game_day
+2000,339,Evansville,1999-12-04,8.842970900000005,included_game_day
+2000,339,Evansville,1999-12-08,-19.706845789999996,included_game_day
+2000,339,Evansville,1999-12-11,-16.381653110999995,included_game_day
+2000,339,Evansville,1999-12-16,12.304381687710006,included_game_day
+2000,339,Evansville,1999-12-18,37.608871058479004,included_game_day
+2000,339,Evansville,1999-12-21,42.60403880284049,included_game_day
+2000,339,Evansville,1999-12-30,60.56687543292996,included_game_day
+2000,339,Evansville,2000-01-02,82.47183144321981,included_game_day
+2000,339,Evansville,2000-01-05,81.80619484627665,included_game_day
+2000,339,Evansville,2000-01-08,83.95208756911053,included_game_day
+2000,339,Evansville,2000-01-12,82.11228684826396,included_game_day
+2000,339,Evansville,2000-01-15,74.9352676764295,included_game_day
+2000,339,Evansville,2000-01-17,73.20312505303946,included_game_day
+2000,339,Evansville,2000-01-23,73.7637102564389,included_game_day
+2000,339,Evansville,2000-01-26,39.219326944550204,included_game_day
+2000,339,Evansville,2000-01-29,14.696649628563037,included_game_day
+2000,339,Evansville,2000-02-02,18.4544233048291,included_game_day
+2000,339,Evansville,2000-02-05,5.466714365877749,included_game_day
+2000,339,Evansville,2000-02-12,5.471160401698738,included_game_day
+2000,339,Evansville,2000-02-16,-0.03621076968150749,included_game_day
+2000,339,Evansville,2000-02-20,7.2436787871271635,included_game_day
+2000,339,Evansville,2000-02-23,11.17004199818602,included_game_day
+2000,339,Evansville,2000-02-26,8.929809525324622,included_game_day
+2000,339,Evansville,2000-02-28,-15.46757901639777,included_game_day
+2000,339,Evansville,2000-03-04,-18.83975231079209,included_game_day
+2001,339,Evansville,2000-11-18,-5.0,included_game_day
+2001,339,Evansville,2000-11-21,-6.5,included_game_day
+2001,339,Evansville,2000-11-25,-7.156000000000001,included_game_day
+2001,339,Evansville,2000-11-29,-2.8224,included_game_day
+2001,339,Evansville,2000-12-02,-1.3200599999999998,included_game_day
+2001,339,Evansville,2000-12-05,-14.8051873,included_game_day
+2001,339,Evansville,2000-12-09,-4.3267139,included_game_day
+2001,339,Evansville,2000-12-16,2.157864757400999,included_game_day
+2001,339,Evansville,2000-12-20,-5.5503410288391,included_game_day
+2001,339,Evansville,2000-12-22,-18.253727138920368,included_game_day
+2001,339,Evansville,2000-12-30,-36.536972973080836,included_game_day
+2001,339,Evansville,2001-01-01,-35.587460527772755,included_game_day
+2001,339,Evansville,2001-01-06,-33.942258375994896,included_game_day
+2001,339,Evansville,2001-01-11,-32.981086643455285,included_game_day
+2001,339,Evansville,2001-01-13,-30.519765494345123,included_game_day
+2001,339,Evansville,2001-01-17,-36.84383476058802,included_game_day
+2001,339,Evansville,2001-01-20,-28.22899856563383,included_game_day
+2001,339,Evansville,2001-01-24,-12.967991212991643,included_game_day
+2001,339,Evansville,2001-01-27,-10.087712885214664,included_game_day
+2001,339,Evansville,2001-01-31,-30.735717996624466,included_game_day
+2001,339,Evansville,2001-02-03,-33.144846013241015,included_game_day
+2001,339,Evansville,2001-02-06,-28.999253388598852,included_game_day
+2001,339,Evansville,2001-02-10,-23.629761585448932,included_game_day
+2001,339,Evansville,2001-02-12,-26.200418100777743,included_game_day
+2001,339,Evansville,2001-02-15,-18.932704575622722,included_game_day
+2001,339,Evansville,2001-02-21,-46.81734771240389,included_game_day
+2001,339,Evansville,2001-02-24,-33.55265644107422,included_game_day
+2001,339,Evansville,2001-02-26,-32.53844862054929,included_game_day
+2001,339,Evansville,2001-03-03,-30.5912838398261,included_game_day
+2002,339,Evansville Purple Aces,2001-11-17,20.0,included_game_day
+2002,339,Evansville Purple Aces,2001-11-20,-3.5,included_game_day
+2002,339,Evansville Purple Aces,2001-11-24,-23.15,included_game_day
+2002,339,Evansville Purple Aces,2001-11-27,-19.534999999999997,included_game_day
+2002,339,Evansville Purple Aces,2001-12-03,-18.962272399999996,included_game_day
+2002,339,Evansville Purple Aces,2001-12-05,-33.78923516,included_game_day
+2002,339,Evansville Purple Aces,2001-12-08,-54.94581754399999,included_game_day
+2002,339,Evansville Purple Aces,2001-12-15,-63.997982572409995,included_game_day
+2002,339,Evansville Purple Aces,2001-12-22,-53.201238855749,included_game_day
+2002,339,Evansville Purple Aces,2001-12-30,-62.11898652848129,included_game_day
+2002,339,Evansville Purple Aces,2002-01-02,-65.51985259592193,included_game_day
+2002,339,Evansville Purple Aces,2002-01-05,-66.68426590340081,included_game_day
+2002,339,Evansville Purple Aces,2002-01-09,-67.270733235993,included_game_day
+2002,339,Evansville Purple Aces,2002-01-13,-60.31823551578764,included_game_day
+2002,339,Evansville Purple Aces,2002-01-16,-62.95639764675371,included_game_day
+2002,339,Evansville Purple Aces,2002-01-19,-69.10523340798575,included_game_day
+2002,339,Evansville Purple Aces,2002-01-21,-79.193300103882,included_game_day
+2002,339,Evansville Purple Aces,2002-01-26,-84.56865511395921,included_game_day
+2002,339,Evansville Purple Aces,2002-01-30,-105.82246367012836,included_game_day
+2002,339,Evansville Purple Aces,2002-02-02,-106.94840284113872,included_game_day
+2002,339,Evansville Purple Aces,2002-02-05,-93.8624203947701,included_game_day
+2002,339,Evansville Purple Aces,2002-02-09,-89.6079342470387,included_game_day
+2002,339,Evansville Purple Aces,2002-02-16,-98.57158250832525,included_game_day
+2002,339,Evansville Purple Aces,2002-02-19,-86.45368961205907,included_game_day
+2002,339,Evansville Purple Aces,2002-02-23,-78.95576657568174,included_game_day
+2002,339,Evansville Purple Aces,2002-02-25,-75.05063179095099,included_game_day
+2002,339,Evansville Purple Aces,2002-03-01,-72.29518033734062,included_game_day
+2003,339,Evansville Purple Aces,2002-11-22,2.0,included_game_day
+2003,339,Evansville Purple Aces,2002-11-27,2.0999999999999996,included_game_day
+2003,339,Evansville Purple Aces,2002-11-30,-3.7994000000000003,included_game_day
+2003,339,Evansville Purple Aces,2002-12-03,-1.9514600000000004,included_game_day
+2003,339,Evansville Purple Aces,2002-12-07,-12.062355460000001,included_game_day
+2003,339,Evansville Purple Aces,2002-12-19,-8.349509549150001,included_game_day
+2003,339,Evansville Purple Aces,2002-12-21,-25.851781283205,included_game_day
+2003,339,Evansville Purple Aces,2002-12-23,-33.6110441713681,included_game_day
+2003,339,Evansville Purple Aces,2002-12-30,-21.20385725014129,included_game_day
+2003,339,Evansville Purple Aces,2003-01-04,-46.64879550978554,included_game_day
+2003,339,Evansville Purple Aces,2003-01-08,-48.030375550146715,included_game_day
+2003,339,Evansville Purple Aces,2003-01-11,-33.69267601410955,included_game_day
+2003,339,Evansville Purple Aces,2003-01-15,-51.10641220758352,included_game_day
+2003,339,Evansville Purple Aces,2003-01-18,-58.85507896784263,included_game_day
+2003,339,Evansville Purple Aces,2003-01-23,-34.6032784015566,included_game_day
+2003,339,Evansville Purple Aces,2003-01-25,-28.372461412067217,included_game_day
+2003,339,Evansville Purple Aces,2003-01-29,-24.36946883881558,included_game_day
+2003,339,Evansville Purple Aces,2003-02-01,-26.714252554741556,included_game_day
+2003,339,Evansville Purple Aces,2003-02-03,-37.1873522278558,included_game_day
+2003,339,Evansville Purple Aces,2003-02-08,-24.14120119933012,included_game_day
+2003,339,Evansville Purple Aces,2003-02-10,-24.744025819035407,included_game_day
+2003,339,Evansville Purple Aces,2003-02-16,-8.429541636647105,included_game_day
+2003,339,Evansville Purple Aces,2003-02-19,-15.12336212728442,included_game_day
+2003,339,Evansville Purple Aces,2003-02-22,-29.89188101222669,included_game_day
+2003,339,Evansville Purple Aces,2003-02-26,-29.654053737293392,included_game_day
+2003,339,Evansville Purple Aces,2003-03-01,-19.81209034971411,included_game_day
+2003,339,Evansville Purple Aces,2003-03-03,-25.60627483895197,included_game_day
+2003,339,Evansville Purple Aces,2003-03-08,-30.908878643026778,included_game_day
+2004,339,Evansville Purple Aces,2003-11-21,-17.121,included_game_day
+2004,339,Evansville Purple Aces,2003-11-25,-12.817799999999998,included_game_day
+2004,339,Evansville Purple Aces,2003-12-01,-17.411514999999998,included_game_day
+2004,339,Evansville Purple Aces,2003-12-06,-12.734029899999998,included_game_day
+2004,339,Evansville Purple Aces,2003-12-13,-10.668851229999998,included_game_day
+2004,339,Evansville Purple Aces,2003-12-17,-15.871658356999998,included_game_day
+2004,339,Evansville Purple Aces,2003-12-20,-23.736914265219998,included_game_day
+2004,339,Evansville Purple Aces,2003-12-27,-31.215692424825797,included_game_day
+2004,339,Evansville Purple Aces,2003-12-31,-46.438845907217214,included_game_day
+2004,339,Evansville Purple Aces,2004-01-03,-49.63917416899706,included_game_day
+2004,339,Evansville Purple Aces,2004-01-07,-55.59306468253379,included_game_day
+2004,339,Evansville Purple Aces,2004-01-11,-39.04302332216597,included_game_day
+2004,339,Evansville Purple Aces,2004-01-14,-42.884674663195426,included_game_day
+2004,339,Evansville Purple Aces,2004-01-17,-45.89083753070343,included_game_day
+2004,339,Evansville Purple Aces,2004-01-21,-53.81185888322662,included_game_day
+2004,339,Evansville Purple Aces,2004-01-24,-66.08524410497506,included_game_day
+2004,339,Evansville Purple Aces,2004-01-28,-53.08295529232564,included_game_day
+2004,339,Evansville Purple Aces,2004-02-01,-46.259777163600745,included_game_day
+2004,339,Evansville Purple Aces,2004-02-04,-49.20494249973157,included_game_day
+2004,339,Evansville Purple Aces,2004-02-07,-38.92871387879268,included_game_day
+2004,339,Evansville Purple Aces,2004-02-11,-8.731916425292436,included_game_day
+2004,339,Evansville Purple Aces,2004-02-14,-12.106074773753129,included_game_day
+2004,339,Evansville Purple Aces,2004-02-18,-19.425971553547583,included_game_day
+2004,339,Evansville Purple Aces,2004-02-21,-41.48400728777004,included_game_day
+2004,339,Evansville Purple Aces,2004-02-25,-21.945510459827965,included_game_day
+2004,339,Evansville Purple Aces,2004-02-28,-27.58279040625154,included_game_day
+2004,339,Evansville Purple Aces,2004-03-01,-47.058686409462084,included_game_day
+2004,339,Evansville Purple Aces,2004-03-05,-37.63940321203052,included_game_day
+2004,339,Evansville Purple Aces,2004-03-06,-50.319209465951374,included_game_day
+2005,339,Evansville Purple Aces,2004-11-19,12.0,included_game_day
+2005,339,Evansville Purple Aces,2004-11-21,12.7,included_game_day
+2005,339,Evansville Purple Aces,2004-11-28,9.6,included_game_day
+2005,339,Evansville Purple Aces,2004-12-01,6.4939,included_game_day
+2005,339,Evansville Purple Aces,2004-12-04,7.89715,included_game_day
+2005,339,Evansville Purple Aces,2004-12-06,25.257222,included_game_day
+2005,339,Evansville Purple Aces,2004-12-11,32.058261587699995,included_game_day
+2005,339,Evansville Purple Aces,2004-12-18,27.877926524059994,included_game_day
+2005,339,Evansville Purple Aces,2004-12-22,29.435118716157326,included_game_day
+2005,339,Evansville Purple Aces,2004-12-31,24.576310733878863,included_game_day
+2005,339,Evansville Purple Aces,2005-01-02,29.73165635310761,included_game_day
+2005,339,Evansville Purple Aces,2005-01-07,51.420872038670225,included_game_day
+2005,339,Evansville Purple Aces,2005-01-09,51.44556697966961,included_game_day
+2005,339,Evansville Purple Aces,2005-01-12,36.765043623334975,included_game_day
+2005,339,Evansville Purple Aces,2005-01-15,33.73117263701954,included_game_day
+2005,339,Evansville Purple Aces,2005-01-17,16.21709107560292,included_game_day
+2005,339,Evansville Purple Aces,2005-01-22,13.817212655312389,included_game_day
+2005,339,Evansville Purple Aces,2005-01-25,-1.0218163730312604,included_game_day
+2005,339,Evansville Purple Aces,2005-01-29,-16.47503917031581,included_game_day
+2005,339,Evansville Purple Aces,2005-02-02,-25.81380212524152,included_game_day
+2005,339,Evansville Purple Aces,2005-02-05,-31.23179913415855,included_game_day
+2005,339,Evansville Purple Aces,2005-02-12,-41.103299942673864,included_game_day
+2005,339,Evansville Purple Aces,2005-02-16,-29.162032260831815,included_game_day
+2005,339,Evansville Purple Aces,2005-02-19,-34.22341884626516,included_game_day
+2005,339,Evansville Purple Aces,2005-02-22,-24.35251809356061,included_game_day
+2005,339,Evansville Purple Aces,2005-02-26,-19.340844013711024,included_game_day
+2005,339,Evansville Purple Aces,2005-02-28,-21.616618588740927,included_game_day
+2005,339,Evansville Purple Aces,2005-03-04,-28.307112563615647,included_game_day
+2006,339,Evansville Purple Aces,2005-11-18,7.0,included_game_day
+2006,339,Evansville Purple Aces,2005-11-21,-2.5999999999999996,included_game_day
+2006,339,Evansville Purple Aces,2005-11-26,-4.0334,included_game_day
+2006,339,Evansville Purple Aces,2005-12-03,-4.095179,included_game_day
+2006,339,Evansville Purple Aces,2005-12-06,-3.0192445699999997,included_game_day
+2006,339,Evansville Purple Aces,2005-12-10,-3.7144948289999995,included_game_day
+2006,339,Evansville Purple Aces,2005-12-17,5.990842084700001,included_game_day
+2006,339,Evansville Purple Aces,2005-12-21,4.00423962016,included_game_day
+2006,339,Evansville Purple Aces,2005-12-28,-8.794928939017515,included_game_day
+2006,339,Evansville Purple Aces,2005-12-31,-8.735862502362236,included_game_day
+2006,339,Evansville Purple Aces,2006-01-05,-15.978406277776926,included_game_day
+2006,339,Evansville Purple Aces,2006-01-07,-12.395400592742838,included_game_day
+2006,339,Evansville Purple Aces,2006-01-11,-28.699732584984154,included_game_day
+2006,339,Evansville Purple Aces,2006-01-14,-46.63983551513088,included_game_day
+2006,339,Evansville Purple Aces,2006-01-16,-48.872583620747115,included_game_day
+2006,339,Evansville Purple Aces,2006-01-19,-45.61478402725801,included_game_day
+2006,339,Evansville Purple Aces,2006-01-22,-48.31819567210626,included_game_day
+2006,339,Evansville Purple Aces,2006-01-25,-48.104466118347005,included_game_day
+2006,339,Evansville Purple Aces,2006-01-28,-41.48255735106625,included_game_day
+2006,339,Evansville Purple Aces,2006-02-01,-32.18719631517062,included_game_day
+2006,339,Evansville Purple Aces,2006-02-04,-27.026129818467943,included_game_day
+2006,339,Evansville Purple Aces,2006-02-07,-22.629654370817395,included_game_day
+2006,339,Evansville Purple Aces,2006-02-11,-16.249625841396174,included_game_day
+2006,339,Evansville Purple Aces,2006-02-14,-22.42411361124285,included_game_day
+2006,339,Evansville Purple Aces,2006-02-18,-31.358283632616597,included_game_day
+2006,339,Evansville Purple Aces,2006-02-21,-20.17985706270799,included_game_day
+2006,339,Evansville Purple Aces,2006-02-25,-14.976981485535353,included_game_day
+2006,339,Evansville Purple Aces,2006-03-02,-10.857806250561358,included_game_day
+2006,339,Evansville Purple Aces,2006-03-03,-17.83200556379144,included_game_day
+2007,339,Evansville Purple Aces,2006-11-13,0.0,included_game_day
+2007,339,Evansville Purple Aces,2006-11-17,-3.17,included_game_day
+2007,339,Evansville Purple Aces,2006-11-18,7.2509999999999994,included_game_day
+2007,339,Evansville Purple Aces,2006-11-19,33.443,included_game_day
+2007,339,Evansville Purple Aces,2006-11-27,39.417790999999994,included_game_day
+2007,339,Evansville Purple Aces,2006-11-29,53.46565989999999,included_game_day
+2007,339,Evansville Purple Aces,2006-12-03,41.63796131599999,included_game_day
+2007,339,Evansville Purple Aces,2006-12-05,38.87590095139999,included_game_day
+2007,339,Evansville Purple Aces,2006-12-09,68.22554570116,included_game_day
+2007,339,Evansville Purple Aces,2006-12-16,65.1527561615094,included_game_day
+2007,339,Evansville Purple Aces,2006-12-18,62.17551501447277,included_game_day
+2007,339,Evansville Purple Aces,2006-12-22,56.7362521315296,included_game_day
+2007,339,Evansville Purple Aces,2006-12-28,73.28720608988765,included_game_day
+2007,339,Evansville Purple Aces,2006-12-30,68.23041073580382,included_game_day
+2007,339,Evansville Purple Aces,2007-01-03,68.67564218236198,included_game_day
+2007,339,Evansville Purple Aces,2007-01-06,50.698586938073966,included_game_day
+2007,339,Evansville Purple Aces,2007-01-09,7.654714004434524,included_game_day
+2007,339,Evansville Purple Aces,2007-01-13,5.26193286630633,included_game_day
+2007,339,Evansville Purple Aces,2007-01-17,18.450241720915322,included_game_day
+2007,339,Evansville Purple Aces,2007-01-21,31.58144282631429,included_game_day
+2007,339,Evansville Purple Aces,2007-01-24,34.68185556738738,included_game_day
+2007,339,Evansville Purple Aces,2007-01-27,28.977901056139487,included_game_day
+2007,339,Evansville Purple Aces,2007-01-30,27.587433086313634,included_game_day
+2007,339,Evansville Purple Aces,2007-02-03,19.41802017759857,included_game_day
+2007,339,Evansville Purple Aces,2007-02-07,26.882534330289353,included_game_day
+2007,339,Evansville Purple Aces,2007-02-11,36.103177910354546,included_game_day
+2007,339,Evansville Purple Aces,2007-02-14,36.3445138202981,included_game_day
+2007,339,Evansville Purple Aces,2007-02-17,34.414813877078196,included_game_day
+2007,339,Evansville Purple Aces,2007-02-21,33.85569622242842,included_game_day
+2007,339,Evansville Purple Aces,2007-02-24,38.285949561727605,included_game_day
+2007,339,Evansville Purple Aces,2007-03-01,28.612914414520198,included_game_day
+2008,339,Evansville Purple Aces,2007-11-11,-4.0,included_game_day
+2008,339,Evansville Purple Aces,2007-11-17,-15.39,included_game_day
+2008,339,Evansville Purple Aces,2007-11-20,-24.971,included_game_day
+2008,339,Evansville Purple Aces,2007-11-24,-21.7791,included_game_day
+2008,339,Evansville Purple Aces,2007-12-01,-41.68131011,included_game_day
+2008,339,Evansville Purple Aces,2007-12-05,-22.918758969,included_game_day
+2008,339,Evansville Purple Aces,2007-12-08,-15.355698467,included_game_day
+2008,339,Evansville Purple Aces,2007-12-11,-13.887284115001,included_game_day
+2008,339,Evansville Purple Aces,2007-12-22,-13.1189682445194,included_game_day
+2008,339,Evansville Purple Aces,2007-12-29,-31.389773043726187,included_game_day
+2008,339,Evansville Purple Aces,2008-01-02,-34.126059996410206,included_game_day
+2008,339,Evansville Purple Aces,2008-01-06,-26.0261967704134,included_game_day
+2008,339,Evansville Purple Aces,2008-01-09,-32.9179869935688,included_game_day
+2008,339,Evansville Purple Aces,2008-01-12,-26.75064915900505,included_game_day
+2008,339,Evansville Purple Aces,2008-01-15,-37.40832518105333,included_game_day
+2008,339,Evansville Purple Aces,2008-01-23,-61.14665765407049,included_game_day
+2008,339,Evansville Purple Aces,2008-01-26,-35.30856553582741,included_game_day
+2008,339,Evansville Purple Aces,2008-01-29,-44.4787184186158,included_game_day
+2008,339,Evansville Purple Aces,2008-02-02,-52.14187035885331,included_game_day
+2008,339,Evansville Purple Aces,2008-02-06,-41.62821455738871,included_game_day
+2008,339,Evansville Purple Aces,2008-02-09,-31.465360705096188,included_game_day
+2008,339,Evansville Purple Aces,2008-02-13,-18.677650753878147,included_game_day
+2008,339,Evansville Purple Aces,2008-02-16,-50.442097541889176,included_game_day
+2008,339,Evansville Purple Aces,2008-02-20,-44.37999098369497,included_game_day
+2008,339,Evansville Purple Aces,2008-02-23,-37.79801467309273,included_game_day
+2008,339,Evansville Purple Aces,2008-02-26,-46.65915331393894,included_game_day
+2008,339,Evansville Purple Aces,2008-03-01,-47.986910862338355,included_game_day
+2008,339,Evansville Purple Aces,2008-03-06,-61.10063313431736,included_game_day
+2009,339,Evansville Purple Aces,2008-11-15,5.0,included_game_day
+2009,339,Evansville Purple Aces,2008-11-22,18.22,included_game_day
+2009,339,Evansville Purple Aces,2008-11-29,5.717969999999999,included_game_day
+2009,339,Evansville Purple Aces,2008-12-02,30.185333,included_game_day
+2009,339,Evansville Purple Aces,2008-12-06,36.17424766,included_game_day
+2009,339,Evansville Purple Aces,2008-12-10,31.099931874,included_game_day
+2009,339,Evansville Purple Aces,2008-12-13,58.71114646683,included_game_day
+2009,339,Evansville Purple Aces,2008-12-18,54.126626592996,included_game_day
+2009,339,Evansville Purple Aces,2008-12-20,48.6733602170778,included_game_day
+2009,339,Evansville Purple Aces,2008-12-28,56.06867278362716,included_game_day
+2009,339,Evansville Purple Aces,2008-12-31,30.29913693356123,included_game_day
+2009,339,Evansville Purple Aces,2009-01-04,30.616793826629667,included_game_day
+2009,339,Evansville Purple Aces,2009-01-07,27.615862732568566,included_game_day
+2009,339,Evansville Purple Aces,2009-01-10,19.10571580735445,included_game_day
+2009,339,Evansville Purple Aces,2009-01-13,7.5543808274782265,included_game_day
+2009,339,Evansville Purple Aces,2009-01-17,4.525403562424479,included_game_day
+2009,339,Evansville Purple Aces,2009-01-20,-16.397655884550645,included_game_day
+2009,339,Evansville Purple Aces,2009-01-25,-12.746283819796874,included_game_day
+2009,339,Evansville Purple Aces,2009-01-29,-2.928902426305262,included_game_day
+2009,339,Evansville Purple Aces,2009-01-31,2.6295951984037176,included_game_day
+2009,339,Evansville Purple Aces,2009-02-04,0.4846322754517445,included_game_day
+2009,339,Evansville Purple Aces,2009-02-07,7.060629645396108,included_game_day
+2009,339,Evansville Purple Aces,2009-02-11,6.209484611103247,included_game_day
+2009,339,Evansville Purple Aces,2009-02-14,2.5620028853447,included_game_day
+2009,339,Evansville Purple Aces,2009-02-17,10.204866604605812,included_game_day
+2009,339,Evansville Purple Aces,2009-02-21,24.725109000968807,included_game_day
+2009,339,Evansville Purple Aces,2009-02-25,28.877226509133134,included_game_day
+2009,339,Evansville Purple Aces,2009-02-28,28.274701095029833,included_game_day
+2009,339,Evansville Purple Aces,2009-03-06,21.49655068151901,included_game_day
+2009,339,Evansville Purple Aces,2009-03-18,1.7308147285118736,included_game_day
+2010,339,Evansville Purple Aces,2009-11-18,22.34,included_game_day
+2010,339,Evansville Purple Aces,2009-11-21,15.616,included_game_day
+2010,339,Evansville Purple Aces,2009-11-28,-9.251100000000001,included_game_day
+2010,339,Evansville Purple Aces,2009-12-01,-11.320412000000001,included_game_day
+2010,339,Evansville Purple Aces,2009-12-04,-16.933203106,included_game_day
+2010,339,Evansville Purple Aces,2009-12-08,-19.1284266888,included_game_day
+2010,339,Evansville Purple Aces,2009-12-17,-11.077008480355,included_game_day
+2010,339,Evansville Purple Aces,2009-12-19,-0.14393841456449863,included_game_day
+2010,339,Evansville Purple Aces,2009-12-22,-1.9024655053135486,included_game_day
+2010,339,Evansville Purple Aces,2009-12-29,-11.147745057099568,included_game_day
+2010,339,Evansville Purple Aces,2010-01-01,-17.816627637923695,included_game_day
+2010,339,Evansville Purple Aces,2010-01-03,-25.099569910861423,included_game_day
+2010,339,Evansville Purple Aces,2010-01-06,-37.2728563149151,included_game_day
+2010,339,Evansville Purple Aces,2010-01-10,-43.80955375458726,included_game_day
+2010,339,Evansville Purple Aces,2010-01-13,-43.515360502687,included_game_day
+2010,339,Evansville Purple Aces,2010-01-16,-48.44745565807062,included_game_day
+2010,339,Evansville Purple Aces,2010-01-20,-53.33800533887264,included_game_day
+2010,339,Evansville Purple Aces,2010-01-23,-51.8397039812982,included_game_day
+2010,339,Evansville Purple Aces,2010-01-27,-49.763022796056525,included_game_day
+2010,339,Evansville Purple Aces,2010-01-31,-54.81914325012208,included_game_day
+2010,339,Evansville Purple Aces,2010-02-03,-56.496917033352766,included_game_day
+2010,339,Evansville Purple Aces,2010-02-06,-72.93257711400199,included_game_day
+2010,339,Evansville Purple Aces,2010-02-09,-57.85799557400795,included_game_day
+2010,339,Evansville Purple Aces,2010-02-13,-61.81652916772811,included_game_day
+2010,339,Evansville Purple Aces,2010-02-17,-52.58710582656755,included_game_day
+2010,339,Evansville Purple Aces,2010-02-20,-60.062331832816255,included_game_day
+2010,339,Evansville Purple Aces,2010-02-23,-45.74802530720509,included_game_day
+2010,339,Evansville Purple Aces,2010-02-27,-33.431273506424525,included_game_day
+2010,339,Evansville Purple Aces,2010-03-04,-30.42314771615233,included_game_day
+2011,339,Evansville Purple Aces,2010-11-17,1.0,included_game_day
+2011,339,Evansville Purple Aces,2010-11-21,-3.865,included_game_day
+2011,339,Evansville Purple Aces,2010-11-24,-12.4965,included_game_day
+2011,339,Evansville Purple Aces,2010-11-27,-1.4838310000000003,included_game_day
+2011,339,Evansville Purple Aces,2010-12-05,2.6207062929999996,included_game_day
+2011,339,Evansville Purple Aces,2010-12-08,-23.3164783573,included_game_day
+2011,339,Evansville Purple Aces,2010-12-11,1.543882913002001,included_game_day
+2011,339,Evansville Purple Aces,2010-12-18,-1.5791038961885988,included_game_day
+2011,339,Evansville Purple Aces,2010-12-23,6.454042544977636,included_game_day
+2011,339,Evansville Purple Aces,2010-12-29,-19.38159679184233,included_game_day
+2011,339,Evansville Purple Aces,2011-01-01,-14.912990818561436,included_game_day
+2011,339,Evansville Purple Aces,2011-01-04,-17.64168847487038,included_game_day
+2011,339,Evansville Purple Aces,2011-01-07,-19.114057274600142,included_game_day
+2011,339,Evansville Purple Aces,2011-01-09,-21.364502888716544,included_game_day
+2011,339,Evansville Purple Aces,2011-01-12,-8.285386990952645,included_game_day
+2011,339,Evansville Purple Aces,2011-01-15,-2.1815527136053188,included_game_day
+2011,339,Evansville Purple Aces,2011-01-18,-13.243310275612805,included_game_day
+2011,339,Evansville Purple Aces,2011-01-23,-16.74521144392494,included_game_day
+2011,339,Evansville Purple Aces,2011-01-26,-5.040756196109939,included_game_day
+2011,339,Evansville Purple Aces,2011-01-29,7.747096306858264,included_game_day
+2011,339,Evansville Purple Aces,2011-02-02,23.128957629038368,included_game_day
+2011,339,Evansville Purple Aces,2011-02-05,21.371383643025883,included_game_day
+2011,339,Evansville Purple Aces,2011-02-08,28.90261864481008,included_game_day
+2011,339,Evansville Purple Aces,2011-02-12,12.280384988494863,included_game_day
+2011,339,Evansville Purple Aces,2011-02-15,12.600578073440893,included_game_day
+2011,339,Evansville Purple Aces,2011-02-19,-8.199289302905846,included_game_day
+2011,339,Evansville Purple Aces,2011-02-23,-22.305349887305958,included_game_day
+2011,339,Evansville Purple Aces,2011-02-26,-20.849547620124163,included_game_day
+2011,339,Evansville Purple Aces,2011-03-04,-17.685815964189995,included_game_day
+2011,339,Evansville Purple Aces,2011-03-15,-9.144477537645967,included_game_day
+2011,339,Evansville Purple Aces,2011-03-21,-3.995957093261177,included_game_day
+2012,339,Evansville Purple Aces,2011-11-12,0.0,included_game_day
+2012,339,Evansville Purple Aces,2011-11-16,-19.37,included_game_day
+2012,339,Evansville Purple Aces,2011-11-23,-19.233,included_game_day
+2012,339,Evansville Purple Aces,2011-11-29,-18.2989,included_game_day
+2012,339,Evansville Purple Aces,2011-12-03,-21.649905262,included_game_day
+2012,339,Evansville Purple Aces,2011-12-06,-56.320693959799996,included_game_day
+2012,339,Evansville Purple Aces,2011-12-10,-36.21753836382,included_game_day
+2012,339,Evansville Purple Aces,2011-12-17,-39.781061420880995,included_game_day
+2012,339,Evansville Purple Aces,2011-12-20,-32.00779758315038,included_game_day
+2012,339,Evansville Purple Aces,2011-12-29,-17.536693119016086,included_game_day
+2012,339,Evansville Purple Aces,2012-01-01,3.7080249751384358,included_game_day
+2012,339,Evansville Purple Aces,2012-01-04,10.575176237125103,included_game_day
+2012,339,Evansville Purple Aces,2012-01-07,15.730236099514851,included_game_day
+2012,339,Evansville Purple Aces,2012-01-10,15.437289446174736,included_game_day
+2012,339,Evansville Purple Aces,2012-01-13,0.9050040862394848,included_game_day
+2012,339,Evansville Purple Aces,2012-01-15,14.194868722355928,included_game_day
+2012,339,Evansville Purple Aces,2012-01-18,27.649656668736945,included_game_day
+2012,339,Evansville Purple Aces,2012-01-21,33.335086349668316,included_game_day
+2012,339,Evansville Purple Aces,2012-01-25,35.341943340127706,included_game_day
+2012,339,Evansville Purple Aces,2012-01-29,18.608280120737902,included_game_day
+2012,339,Evansville Purple Aces,2012-02-01,43.285806436599785,included_game_day
+2012,339,Evansville Purple Aces,2012-02-04,36.39477949141535,included_game_day
+2012,339,Evansville Purple Aces,2012-02-07,49.796098744356044,included_game_day
+2012,339,Evansville Purple Aces,2012-02-12,24.127319537828875,included_game_day
+2012,339,Evansville Purple Aces,2012-02-15,23.717631149716873,included_game_day
+2012,339,Evansville Purple Aces,2012-02-18,39.22131581173535,included_game_day
+2012,339,Evansville Purple Aces,2012-02-21,46.60486940657786,included_game_day
+2012,339,Evansville Purple Aces,2012-02-25,45.84844404531746,included_game_day
+2012,339,Evansville Purple Aces,2012-03-02,51.24330375630913,included_game_day
+2012,339,Evansville Purple Aces,2012-03-03,26.4924355166644,included_game_day
+2012,339,Evansville Purple Aces,2012-03-13,20.093196783743437,included_game_day
+2013,339,Evansville Purple Aces,2012-11-10,-6.0,included_game_day
+2013,339,Evansville Purple Aces,2012-11-15,-14.51,included_game_day
+2013,339,Evansville Purple Aces,2012-11-16,-8.629,included_game_day
+2013,339,Evansville Purple Aces,2012-11-17,-6.0009999999999994,included_game_day
+2013,339,Evansville Purple Aces,2012-11-20,9.8619,included_game_day
+2013,339,Evansville Purple Aces,2012-11-26,25.64571,included_game_day
+2013,339,Evansville Purple Aces,2012-12-01,23.3285018,included_game_day
+2013,339,Evansville Purple Aces,2012-12-05,43.408655013,included_game_day
+2013,339,Evansville Purple Aces,2012-12-08,26.3634064117,included_game_day
+2013,339,Evansville Purple Aces,2012-12-15,24.5119298489607,included_game_day
+2013,339,Evansville Purple Aces,2012-12-22,23.68422306720683,included_game_day
+2013,339,Evansville Purple Aces,2012-12-29,20.174634890649727,included_game_day
+2013,339,Evansville Purple Aces,2013-01-02,11.194974988110143,included_game_day
+2013,339,Evansville Purple Aces,2013-01-05,23.308581635522216,included_game_day
+2013,339,Evansville Purple Aces,2013-01-09,29.59924133238802,included_game_day
+2013,339,Evansville Purple Aces,2013-01-13,37.88624898709723,included_game_day
+2013,339,Evansville Purple Aces,2013-01-16,21.68369537278665,included_game_day
+2013,339,Evansville Purple Aces,2013-01-19,16.7150566811513,included_game_day
+2013,339,Evansville Purple Aces,2013-01-23,22.520719494017964,included_game_day
+2013,339,Evansville Purple Aces,2013-01-26,22.421235407032164,included_game_day
+2013,339,Evansville Purple Aces,2013-01-29,27.661375074184264,included_game_day
+2013,339,Evansville Purple Aces,2013-02-02,25.3984868120298,included_game_day
+2013,339,Evansville Purple Aces,2013-02-05,18.769153641109913,included_game_day
+2013,339,Evansville Purple Aces,2013-02-10,19.911270765365792,included_game_day
+2013,339,Evansville Purple Aces,2013-02-13,8.49116895368703,included_game_day
+2013,339,Evansville Purple Aces,2013-02-16,11.476769471100898,included_game_day
+2013,339,Evansville Purple Aces,2013-02-20,32.51948398333843,included_game_day
+2013,339,Evansville Purple Aces,2013-02-23,47.009300649028475,included_game_day
+2013,339,Evansville Purple Aces,2013-02-27,59.768882960286284,included_game_day
+2013,339,Evansville Purple Aces,2013-03-02,69.3904350738274,included_game_day
+2013,339,Evansville Purple Aces,2013-03-08,63.0876767646603,included_game_day
+2013,339,Evansville Purple Aces,2013-03-19,67.37432676564892,included_game_day
+2013,339,Evansville Purple Aces,2013-03-23,79.92311626333309,included_game_day
+2013,339,Evansville Purple Aces,2013-03-26,78.52239949206741,included_game_day
+2013,339,Evansville Purple Aces,2013-03-30,54.10627460604123,included_game_day
+2014,339,Evansville Purple Aces,2013-11-12,8.5,included_game_day
+2014,339,Evansville Purple Aces,2013-11-18,17.7198,included_game_day
+2014,339,Evansville Purple Aces,2013-11-20,20.37462,included_game_day
+2014,339,Evansville Purple Aces,2013-11-26,-1.9483560000000004,included_game_day
+2014,339,Evansville Purple Aces,2013-11-30,-19.589744800000002,included_game_day
+2014,339,Evansville Purple Aces,2013-12-04,-21.095889800000002,included_game_day
+2014,339,Evansville Purple Aces,2013-12-07,-13.098653172000002,included_game_day
+2014,339,Evansville Purple Aces,2013-12-10,-7.6374326578900025,included_game_day
+2014,339,Evansville Purple Aces,2013-12-14,-18.891843714031,included_game_day
+2014,339,Evansville Purple Aces,2013-12-21,-23.841765334074,included_game_day
+2014,339,Evansville Purple Aces,2013-12-28,-1.6063663252257,included_game_day
+2014,339,Evansville Purple Aces,2014-01-01,-22.213800033175154,included_game_day
+2014,339,Evansville Purple Aces,2014-01-04,-37.70174385066846,included_game_day
+2014,339,Evansville Purple Aces,2014-01-08,-60.32709951636099,included_game_day
+2014,339,Evansville Purple Aces,2014-01-11,-48.16178105536848,included_game_day
+2014,339,Evansville Purple Aces,2014-01-15,-41.52528571121108,included_game_day
+2014,339,Evansville Purple Aces,2014-01-18,-35.55062302403667,included_game_day
+2014,339,Evansville Purple Aces,2014-01-21,-32.53298900567872,included_game_day
+2014,339,Evansville Purple Aces,2014-01-26,-28.67433366410523,included_game_day
+2014,339,Evansville Purple Aces,2014-01-29,-33.56151211867394,included_game_day
+2014,339,Evansville Purple Aces,2014-02-01,-28.197697663166394,included_game_day
+2014,339,Evansville Purple Aces,2014-02-05,-40.80995024858797,included_game_day
+2014,339,Evansville Purple Aces,2014-02-09,-51.31401442155077,included_game_day
+2014,339,Evansville Purple Aces,2014-02-12,-43.335653319137336,included_game_day
+2014,339,Evansville Purple Aces,2014-02-16,-45.50283855335094,included_game_day
+2014,339,Evansville Purple Aces,2014-02-19,-39.22450610469831,included_game_day
+2014,339,Evansville Purple Aces,2014-02-22,-40.13347576849576,included_game_day
+2014,339,Evansville Purple Aces,2014-02-25,-28.95207779014185,included_game_day
+2014,339,Evansville Purple Aces,2014-03-01,-25.094191392178907,included_game_day
+2014,339,Evansville Purple Aces,2014-03-06,-18.08415642019655,included_game_day
+2014,339,Evansville Purple Aces,2014-03-07,-22.776087136846876,included_game_day
+2015,339,Evansville Purple Aces,2014-11-19,22.73,included_game_day
+2015,339,Evansville Purple Aces,2014-11-24,23.207,included_game_day
+2015,339,Evansville Purple Aces,2014-11-25,19.214100000000002,included_game_day
+2015,339,Evansville Purple Aces,2014-11-26,27.381812000000004,included_game_day
+2015,339,Evansville Purple Aces,2014-12-02,30.115360970000005,included_game_day
+2015,339,Evansville Purple Aces,2014-12-06,47.68010387300001,included_game_day
+2015,339,Evansville Purple Aces,2014-12-09,52.57292036570001,included_game_day
+2015,339,Evansville Purple Aces,2014-12-13,40.72217897043001,included_game_day
+2015,339,Evansville Purple Aces,2014-12-18,45.092020482084706,included_game_day
+2015,339,Evansville Purple Aces,2014-12-21,53.73301150145923,included_game_day
+2015,339,Evansville Purple Aces,2014-12-28,35.61818221586631,included_game_day
+2015,339,Evansville Purple Aces,2015-01-01,39.63522884420731,included_game_day
+2015,339,Evansville Purple Aces,2015-01-04,31.293532254481818,included_game_day
+2015,339,Evansville Purple Aces,2015-01-07,30.03160579039127,included_game_day
+2015,339,Evansville Purple Aces,2015-01-10,37.259689566779045,included_game_day
+2015,339,Evansville Purple Aces,2015-01-14,36.077886948793754,included_game_day
+2015,339,Evansville Purple Aces,2015-01-17,18.961807969442184,included_game_day
+2015,339,Evansville Purple Aces,2015-01-21,30.969717021774592,included_game_day
+2015,339,Evansville Purple Aces,2015-01-24,32.135596030495755,included_game_day
+2015,339,Evansville Purple Aces,2015-01-27,37.11678863020247,included_game_day
+2015,339,Evansville Purple Aces,2015-01-31,24.118326399638136,included_game_day
+2015,339,Evansville Purple Aces,2015-02-03,3.883295900685372,included_game_day
+2015,339,Evansville Purple Aces,2015-02-07,-7.28718586106549,included_game_day
+2015,339,Evansville Purple Aces,2015-02-10,-8.419156063547609,included_game_day
+2015,339,Evansville Purple Aces,2015-02-14,2.0322686799509526,included_game_day
+2015,339,Evansville Purple Aces,2015-02-17,1.6566890466750674,included_game_day
+2015,339,Evansville Purple Aces,2015-02-22,-0.5310613364385457,included_game_day
+2015,339,Evansville Purple Aces,2015-02-25,3.1076984166179127,included_game_day
+2015,339,Evansville Purple Aces,2015-02-28,3.2435252439878486,included_game_day
+2015,339,Evansville Purple Aces,2015-03-06,4.352186705883797,included_game_day
+2015,339,Evansville Purple Aces,2015-03-18,6.309261326700923,included_game_day
+2015,339,Evansville Purple Aces,2015-03-23,20.561768754463102,included_game_day
+2015,339,Evansville Purple Aces,2015-03-26,35.21832464376045,included_game_day
+2015,339,Evansville Purple Aces,2015-03-31,45.42212126725693,included_game_day
+2015,339,Evansville Purple Aces,2015-04-02,45.41029848480921,included_game_day
+2016,339,Evansville Purple Aces,2015-11-15,9.2,included_game_day
+2016,339,Evansville Purple Aces,2015-11-21,10.372,included_game_day
+2016,339,Evansville Purple Aces,2015-11-26,1.8418799999999997,included_game_day
+2016,339,Evansville Purple Aces,2015-11-27,9.431581999999999,included_game_day
+2016,339,Evansville Purple Aces,2015-11-29,30.9318648,included_game_day
+2016,339,Evansville Purple Aces,2015-12-01,52.33753212,included_game_day
+2016,339,Evansville Purple Aces,2015-12-05,53.549212589999996,included_game_day
+2016,339,Evansville Purple Aces,2015-12-08,40.343555705,included_game_day
+2016,339,Evansville Purple Aces,2015-12-12,57.70906790269,included_game_day
+2016,339,Evansville Purple Aces,2015-12-17,60.8477379262442,included_game_day
+2016,339,Evansville Purple Aces,2015-12-20,68.8786482829589,included_game_day
+2016,339,Evansville Purple Aces,2015-12-22,79.55179592945001,included_game_day
+2016,339,Evansville Purple Aces,2015-12-30,76.73428244344032,included_game_day
+2016,339,Evansville Purple Aces,2016-01-02,83.74246971727266,included_game_day
+2016,339,Evansville Purple Aces,2016-01-06,83.66467994311398,included_game_day
+2016,339,Evansville Purple Aces,2016-01-09,90.25940965748505,included_game_day
+2016,339,Evansville Purple Aces,2016-01-12,92.48161774733003,included_game_day
+2016,339,Evansville Purple Aces,2016-01-15,96.3250180446484,included_game_day
+2016,339,Evansville Purple Aces,2016-01-19,88.902906537072,included_game_day
+2016,339,Evansville Purple Aces,2016-01-24,68.41087225652443,included_game_day
+2016,339,Evansville Purple Aces,2016-01-28,77.14064861038048,included_game_day
+2016,339,Evansville Purple Aces,2016-01-31,68.03121173858513,included_game_day
+2016,339,Evansville Purple Aces,2016-02-03,63.335157413918836,included_game_day
+2016,339,Evansville Purple Aces,2016-02-06,69.12254140585297,included_game_day
+2016,339,Evansville Purple Aces,2016-02-11,51.128286834437816,included_game_day
+2016,339,Evansville Purple Aces,2016-02-14,49.82252930441744,included_game_day
+2016,339,Evansville Purple Aces,2016-02-17,45.92280966488535,included_game_day
+2016,339,Evansville Purple Aces,2016-02-20,51.91266370356802,included_game_day
+2016,339,Evansville Purple Aces,2016-02-23,50.77510274287138,included_game_day
+2016,339,Evansville Purple Aces,2016-02-27,47.27264270309052,included_game_day
+2016,339,Evansville Purple Aces,2016-03-04,46.79345145232159,included_game_day
+2016,339,Evansville Purple Aces,2016-03-05,65.56805812537854,included_game_day
+2016,339,Evansville Purple Aces,2016-03-06,65.38635567279684,included_game_day
+2017,339,Evansville Purple Aces,2016-11-11,-28.0,included_game_day
+2017,339,Evansville Purple Aces,2016-11-14,-7.399999999999999,included_game_day
+2017,339,Evansville Purple Aces,2016-11-19,3.9200000000000017,included_game_day
+2017,339,Evansville Purple Aces,2016-11-25,-0.2339999999999982,included_game_day
+2017,339,Evansville Purple Aces,2016-11-26,-1.6302999999999983,included_game_day
+2017,339,Evansville Purple Aces,2016-11-27,-11.426299999999998,included_game_day
+2017,339,Evansville Purple Aces,2016-12-03,-5.7292614399999975,included_game_day
+2017,339,Evansville Purple Aces,2016-12-06,-7.146431398299998,included_game_day
+2017,339,Evansville Purple Aces,2016-12-10,24.03235122153,included_game_day
+2017,339,Evansville Purple Aces,2016-12-14,30.438333473773,included_game_day
+2017,339,Evansville Purple Aces,2016-12-17,29.31890455160242,included_game_day
+2017,339,Evansville Purple Aces,2016-12-29,23.04829906082328,included_game_day
+2017,339,Evansville Purple Aces,2017-01-01,26.97882977646598,included_game_day
+2017,339,Evansville Purple Aces,2017-01-04,5.161265571590768,included_game_day
+2017,339,Evansville Purple Aces,2017-01-08,-8.213669903240186,included_game_day
+2017,339,Evansville Purple Aces,2017-01-11,-5.767897981471137,included_game_day
+2017,339,Evansville Purple Aces,2017-01-14,-19.483236438147543,included_game_day
+2017,339,Evansville Purple Aces,2017-01-17,-26.024167415547492,included_game_day
+2017,339,Evansville Purple Aces,2017-01-21,-23.522588892146523,included_game_day
+2017,339,Evansville Purple Aces,2017-01-25,-26.333270600670804,included_game_day
+2017,339,Evansville Purple Aces,2017-01-29,-26.65731844785664,included_game_day
+2017,339,Evansville Purple Aces,2017-02-01,-25.949015316875265,included_game_day
+2017,339,Evansville Purple Aces,2017-02-04,-16.536132505013008,included_game_day
+2017,339,Evansville Purple Aces,2017-02-08,-12.677393180051453,included_game_day
+2017,339,Evansville Purple Aces,2017-02-11,-3.0129059607803494,included_game_day
+2017,339,Evansville Purple Aces,2017-02-14,4.406227137343027,included_game_day
+2017,339,Evansville Purple Aces,2017-02-18,-10.331707882856776,included_game_day
+2017,339,Evansville Purple Aces,2017-02-21,-12.966953822588899,included_game_day
+2017,339,Evansville Purple Aces,2017-02-25,-14.995809699271156,included_game_day
+2017,339,Evansville Purple Aces,2017-03-02,-4.618894400616963,included_game_day
+2017,339,Evansville Purple Aces,2017-03-03,-6.978831351548688,included_game_day
+2018,339,Evansville Purple Aces,2017-11-10,11.0,included_game_day
+2018,339,Evansville Purple Aces,2017-11-13,19.2,included_game_day
+2018,339,Evansville Purple Aces,2017-11-16,30.48,included_game_day
+2018,339,Evansville Purple Aces,2017-11-18,28.686,included_game_day
+2018,339,Evansville Purple Aces,2017-11-21,29.0634,included_game_day
+2018,339,Evansville Purple Aces,2017-11-22,26.2143,included_game_day
+2018,339,Evansville Purple Aces,2017-11-29,6.6151427,included_game_day
+2018,339,Evansville Purple Aces,2017-12-05,25.3489020641,included_game_day
+2018,339,Evansville Purple Aces,2017-12-09,26.70941212249,included_game_day
+2018,339,Evansville Purple Aces,2017-12-16,22.837493911271,included_game_day
+2018,339,Evansville Purple Aces,2017-12-20,-26.3155729178961,included_game_day
+2018,339,Evansville Purple Aces,2017-12-23,-34.44360298365517,included_game_day
+2018,339,Evansville Purple Aces,2017-12-30,-31.311464831299062,included_game_day
+2018,339,Evansville Purple Aces,2018-01-03,-24.292705130443323,included_game_day
+2018,339,Evansville Purple Aces,2018-01-06,3.090561394342842,included_game_day
+2018,339,Evansville Purple Aces,2018-01-10,14.160379481442462,included_game_day
+2018,339,Evansville Purple Aces,2018-01-13,-0.13413051495091466,included_game_day
+2018,339,Evansville Purple Aces,2018-01-17,-8.163565232931699,included_game_day
+2018,339,Evansville Purple Aces,2018-01-20,-18.23139687190693,included_game_day
+2018,339,Evansville Purple Aces,2018-01-24,-4.313492870119202,included_game_day
+2018,339,Evansville Purple Aces,2018-01-27,-4.171676722589805,included_game_day
+2018,339,Evansville Purple Aces,2018-01-31,1.1765765555382295,included_game_day
+2018,339,Evansville Purple Aces,2018-02-03,-0.6412462582148395,included_game_day
+2018,339,Evansville Purple Aces,2018-02-07,-1.8163751937798098,included_game_day
+2018,339,Evansville Purple Aces,2018-02-10,-15.171676814287636,included_game_day
+2018,339,Evansville Purple Aces,2018-02-13,-17.901782952302092,included_game_day
+2018,339,Evansville Purple Aces,2018-02-18,-19.60099096960926,included_game_day
+2018,339,Evansville Purple Aces,2018-02-21,-21.17184931396122,included_game_day
+2018,339,Evansville Purple Aces,2018-02-24,10.491162512220743,included_game_day
+2018,339,Evansville Purple Aces,2018-03-01,0.5300458915583519,included_game_day
+2019,339,Evansville Purple Aces,2018-11-08,-36.0,included_game_day
+2019,339,Evansville Purple Aces,2018-11-10,-34.4,included_game_day
+2019,339,Evansville Purple Aces,2018-11-18,-17.9275,included_game_day
+2019,339,Evansville Purple Aces,2018-11-24,-24.027299999999997,included_game_day
+2019,339,Evansville Purple Aces,2018-11-28,-19.484981799999996,included_game_day
+2019,339,Evansville Purple Aces,2018-12-04,-28.384356689999997,included_game_day
+2019,339,Evansville Purple Aces,2018-12-09,-14.031759959789998,included_game_day
+2019,339,Evansville Purple Aces,2018-12-15,-18.068244003086,included_game_day
+2019,339,Evansville Purple Aces,2018-12-18,-7.844680366180102,included_game_day
+2019,339,Evansville Purple Aces,2018-12-22,-8.086705560978523,included_game_day
+2019,339,Evansville Purple Aces,2018-12-30,-6.16986238158358,included_game_day
+2019,339,Evansville Purple Aces,2019-01-02,0.8386163556540636,included_game_day
+2019,339,Evansville Purple Aces,2019-01-05,-11.120158148365928,included_game_day
+2019,339,Evansville Purple Aces,2019-01-08,13.65035316603094,included_game_day
+2019,339,Evansville Purple Aces,2019-01-12,0.008433495327805574,included_game_day
+2019,339,Evansville Purple Aces,2019-01-16,7.315510993453444,included_game_day
+2019,339,Evansville Purple Aces,2019-01-19,-5.955582018211883,included_game_day
+2019,339,Evansville Purple Aces,2019-01-23,-10.365718253895455,included_game_day
+2019,339,Evansville Purple Aces,2019-01-26,-17.120238505000927,included_game_day
+2019,339,Evansville Purple Aces,2019-01-30,-30.703078820691125,included_game_day
+2019,339,Evansville Purple Aces,2019-02-02,-22.71111013077116,included_game_day
+2019,339,Evansville Purple Aces,2019-02-06,-44.23870274623295,included_game_day
+2019,339,Evansville Purple Aces,2019-02-09,-43.089216907972265,included_game_day
+2019,339,Evansville Purple Aces,2019-02-13,-52.544775066917836,included_game_day
+2019,339,Evansville Purple Aces,2019-02-17,-66.80500341900984,included_game_day
+2019,339,Evansville Purple Aces,2019-02-20,-66.4225701454643,included_game_day
+2019,339,Evansville Purple Aces,2019-02-23,-57.59060124743441,included_game_day
+2019,339,Evansville Purple Aces,2019-02-27,-60.60386704376662,included_game_day
+2019,339,Evansville Purple Aces,2019-03-02,-53.980042706179866,included_game_day
+2019,339,Evansville Purple Aces,2019-03-07,-56.233398438645494,included_game_day
+2020,339,Evansville Purple Aces,2019-11-09,1.0,included_game_day
+2020,339,Evansville Purple Aces,2019-11-12,11.51,included_game_day
+2020,339,Evansville Purple Aces,2019-11-18,7.599,included_game_day
+2020,339,Evansville Purple Aces,2019-11-22,-12.097999999999999,included_game_day
+2020,339,Evansville Purple Aces,2019-11-23,-21.146583,included_game_day
+2020,339,Evansville Purple Aces,2019-11-24,-21.04313637,included_game_day
+2020,339,Evansville Purple Aces,2019-11-30,-15.330272263,included_game_day
+2020,339,Evansville Purple Aces,2019-12-04,-15.1733096645,included_game_day
+2020,339,Evansville Purple Aces,2019-12-07,-5.32355444505,included_game_day
+2020,339,Evansville Purple Aces,2019-12-14,4.344584485795901,included_game_day
+2020,339,Evansville Purple Aces,2019-12-16,-25.11506238070369,included_game_day
+2020,339,Evansville Purple Aces,2019-12-21,-20.0993981507158,included_game_day
+2020,339,Evansville Purple Aces,2019-12-31,-27.039178519269758,included_game_day
+2020,339,Evansville Purple Aces,2020-01-04,-28.213112908010093,included_game_day
+2020,339,Evansville Purple Aces,2020-01-08,-44.09950385407724,included_game_day
+2020,339,Evansville Purple Aces,2020-01-11,-66.89742692367875,included_game_day
+2020,339,Evansville Purple Aces,2020-01-15,-77.70857479363366,included_game_day
+2020,339,Evansville Purple Aces,2020-01-18,-84.01580003551757,included_game_day
+2020,339,Evansville Purple Aces,2020-01-22,-102.03644205665978,included_game_day
+2020,339,Evansville Purple Aces,2020-01-26,-90.02729608362303,included_game_day
+2020,339,Evansville Purple Aces,2020-01-29,-93.36627486392439,included_game_day
+2020,339,Evansville Purple Aces,2020-02-01,-88.44091202997248,included_game_day
+2020,339,Evansville Purple Aces,2020-02-05,-82.97848576544526,included_game_day
+2020,339,Evansville Purple Aces,2020-02-09,-79.43620775842922,included_game_day
+2020,339,Evansville Purple Aces,2020-02-12,-77.23054715864745,included_game_day
+2020,339,Evansville Purple Aces,2020-02-16,-72.85929826095115,included_game_day
+2020,339,Evansville Purple Aces,2020-02-20,-78.86468657563324,included_game_day
+2020,339,Evansville Purple Aces,2020-02-23,-73.38233747449999,included_game_day
+2020,339,Evansville Purple Aces,2020-02-26,-75.12160525852235,included_game_day
+2020,339,Evansville Purple Aces,2020-02-29,-84.99074099141797,included_game_day
+2020,339,Evansville Purple Aces,2020-03-05,-76.4702434917705,included_game_day
+2021,339,Evansville Purple Aces,2020-11-25,-32.0,included_game_day
+2021,339,Evansville Purple Aces,2020-11-27,-32.3,included_game_day
+2021,339,Evansville Purple Aces,2020-12-02,-32.07,included_game_day
+2021,339,Evansville Purple Aces,2020-12-09,-29.91406,included_game_day
+2021,339,Evansville Purple Aces,2020-12-15,-28.180992579999998,included_game_day
+2021,339,Evansville Purple Aces,2020-12-21,-32.24050006802,included_game_day
+2021,339,Evansville Purple Aces,2020-12-27,-28.730334399818,included_game_day
+2021,339,Evansville Purple Aces,2020-12-28,-7.9222018652563975,included_game_day
+2021,339,Evansville Purple Aces,2021-01-02,-8.941195905330158,included_game_day
+2021,339,Evansville Purple Aces,2021-01-03,-7.756391137389166,included_game_day
+2021,339,Evansville Purple Aces,2021-01-09,-6.935844312470248,included_game_day
+2021,339,Evansville Purple Aces,2021-01-10,-20.279406852535114,included_game_day
+2021,339,Evansville Purple Aces,2021-01-16,-23.098076136303465,included_game_day
+2021,339,Evansville Purple Aces,2021-01-17,-47.35301156331815,included_game_day
+2021,339,Evansville Purple Aces,2021-01-31,-31.17773807724524,included_game_day
+2021,339,Evansville Purple Aces,2021-02-01,-29.237519288386917,included_game_day
+2021,339,Evansville Purple Aces,2021-02-06,-20.434163048193607,included_game_day
+2021,339,Evansville Purple Aces,2021-02-07,-11.391478056038963,included_game_day
+2021,339,Evansville Purple Aces,2021-02-14,-17.91589386970263,included_game_day
+2021,339,Evansville Purple Aces,2021-02-17,-25.13542652063356,included_game_day
+2021,339,Evansville Purple Aces,2021-02-21,-26.032402229228065,included_game_day
+2021,339,Evansville Purple Aces,2021-02-22,-23.749982796103673,included_game_day
+2021,339,Evansville Purple Aces,2021-02-26,-27.51090930418357,included_game_day
+2021,339,Evansville Purple Aces,2021-02-27,-12.51965051064749,included_game_day
+2021,339,Evansville Purple Aces,2021-03-05,-18.88569644841586,included_game_day
+2022,339,Evansville Purple Aces,2021-11-09,-19.0,included_game_day
+2022,339,Evansville Purple Aces,2021-11-11,-0.6999999999999993,included_game_day
+2022,339,Evansville Purple Aces,2021-11-13,-36.53,included_game_day
+2022,339,Evansville Purple Aces,2021-11-20,-49.778,included_game_day
+2022,339,Evansville Purple Aces,2021-11-22,-49.1333,included_game_day
+2022,339,Evansville Purple Aces,2021-11-23,-52.177194,included_game_day
+2022,339,Evansville Purple Aces,2021-11-24,-58.9690456,included_game_day
+2022,339,Evansville Purple Aces,2021-11-28,-42.48536604,included_game_day
+2022,339,Evansville Purple Aces,2021-12-01,-42.885817836,included_game_day
+2022,339,Evansville Purple Aces,2021-12-04,-36.7262610594,included_game_day
+2022,339,Evansville Purple Aces,2021-12-08,-35.37985592846,included_game_day
+2022,339,Evansville Purple Aces,2022-01-02,-49.507998981654936,included_game_day
+2022,339,Evansville Purple Aces,2022-01-08,-43.493677742200056,included_game_day
+2022,339,Evansville Purple Aces,2022-01-12,-65.04974506122522,included_game_day
+2022,339,Evansville Purple Aces,2022-01-18,-81.4216810504731,included_game_day
+2022,339,Evansville Purple Aces,2022-01-21,-108.58040209292162,included_game_day
+2022,339,Evansville Purple Aces,2022-01-23,-95.30737892688042,included_game_day
+2022,339,Evansville Purple Aces,2022-01-26,-90.41283602430232,included_game_day
+2022,339,Evansville Purple Aces,2022-01-29,-83.45933333647254,included_game_day
+2022,339,Evansville Purple Aces,2022-02-05,-106.94137448587333,included_game_day
+2022,339,Evansville Purple Aces,2022-02-08,-86.72771319231887,included_game_day
+2022,339,Evansville Purple Aces,2022-02-10,-88.55678415747532,included_game_day
+2022,339,Evansville Purple Aces,2022-02-12,-81.08466479468986,included_game_day
+2022,339,Evansville Purple Aces,2022-02-16,-86.48336060504575,included_game_day
+2022,339,Evansville Purple Aces,2022-02-19,-98.96373966388917,included_game_day
+2022,339,Evansville Purple Aces,2022-02-21,-91.9480429109639,included_game_day
+2022,339,Evansville Purple Aces,2022-02-23,-121.42665081130897,included_game_day
+2022,339,Evansville Purple Aces,2022-02-26,-113.55276340255637,included_game_day
+2022,339,Evansville Purple Aces,2022-03-03,-127.07446444303156,included_game_day
+2023,339,Evansville Purple Aces,2022-11-07,7.0,included_game_day
+2023,339,Evansville Purple Aces,2022-11-12,-6.699999999999999,included_game_day
+2023,339,Evansville Purple Aces,2022-11-16,-14.43,included_game_day
+2023,339,Evansville Purple Aces,2022-11-19,-19.772,included_game_day
+2023,339,Evansville Purple Aces,2022-11-23,-30.55126,included_game_day
+2023,339,Evansville Purple Aces,2022-11-25,-39.341434,included_game_day
+2023,339,Evansville Purple Aces,2022-11-26,-38.2039766,included_game_day
+2023,339,Evansville Purple Aces,2022-11-27,-43.508196659999996,included_game_day
+2023,339,Evansville Purple Aces,2022-11-30,-67.204514994,included_game_day
+2023,339,Evansville Purple Aces,2022-12-03,-76.2401995228,included_game_day
+2023,339,Evansville Purple Aces,2022-12-07,-66.19762239791,included_game_day
+2023,339,Evansville Purple Aces,2022-12-10,-74.32064407482899,included_game_day
+2023,339,Evansville Purple Aces,2022-12-21,-61.60588114046495,included_game_day
+2023,339,Evansville Purple Aces,2022-12-29,-78.20630291555767,included_game_day
+2023,339,Evansville Purple Aces,2023-01-01,-92.42112758408706,included_game_day
+2023,339,Evansville Purple Aces,2023-01-04,-100.9933027904966,included_game_day
+2023,339,Evansville Purple Aces,2023-01-07,-105.023853971678,included_game_day
+2023,339,Evansville Purple Aces,2023-01-11,-128.66909465170482,included_game_day
+2023,339,Evansville Purple Aces,2023-01-14,-133.61147326473153,included_game_day
+2023,339,Evansville Purple Aces,2023-01-17,-119.71409695271825,included_game_day
+2023,339,Evansville Purple Aces,2023-01-21,-141.65779690786374,included_game_day
+2023,339,Evansville Purple Aces,2023-01-25,-134.31551999824555,included_game_day
+2023,339,Evansville Purple Aces,2023-01-28,-133.94209554580195,included_game_day
+2023,339,Evansville Purple Aces,2023-02-01,-138.31697785380186,included_game_day
+2023,339,Evansville Purple Aces,2023-02-04,-136.61884481793672,included_game_day
+2023,339,Evansville Purple Aces,2023-02-08,-113.25799475566583,included_game_day
+2023,339,Evansville Purple Aces,2023-02-12,-111.34972610708624,included_game_day
+2023,339,Evansville Purple Aces,2023-02-15,-124.65914612911017,included_game_day
+2023,339,Evansville Purple Aces,2023-02-18,-131.2605719060066,included_game_day
+2023,339,Evansville Purple Aces,2023-02-22,-134.4025041138323,included_game_day
+2023,339,Evansville Purple Aces,2023-02-26,-142.99071637007006,included_game_day
+2023,339,Evansville Purple Aces,2023-03-02,-159.92420340764284,included_game_day
+2024,339,Evansville Purple Aces,2023-11-06,5.0,included_game_day
+2024,339,Evansville Purple Aces,2023-11-15,22.04,included_game_day
+2024,339,Evansville Purple Aces,2023-11-18,41.036,included_game_day
+2024,339,Evansville Purple Aces,2023-11-24,48.6363,included_game_day
+2024,339,Evansville Purple Aces,2023-11-25,56.93539,included_game_day
+2024,339,Evansville Purple Aces,2023-11-29,46.45601362,included_game_day
+2024,339,Evansville Purple Aces,2023-12-02,38.686958225,included_game_day
+2024,339,Evansville Purple Aces,2023-12-05,11.6345869795,included_game_day
+2024,339,Evansville Purple Aces,2023-12-16,19.14191628885,included_game_day
+2024,339,Evansville Purple Aces,2023-12-18,18.665593844125,included_game_day
+2024,339,Evansville Purple Aces,2023-12-20,40.2298187004302,included_game_day
+2024,339,Evansville Purple Aces,2023-12-29,29.64094750500114,included_game_day
+2024,339,Evansville Purple Aces,2024-01-03,26.770639055815582,included_game_day
+2024,339,Evansville Purple Aces,2024-01-06,-3.0362713746124186,included_game_day
+2024,339,Evansville Purple Aces,2024-01-10,-30.847997629382107,included_game_day
+2024,339,Evansville Purple Aces,2024-01-13,-41.57413375999381,included_game_day
+2024,339,Evansville Purple Aces,2024-01-17,-43.441704719441425,included_game_day
+2024,339,Evansville Purple Aces,2024-01-20,-75.67414036798665,included_game_day
+2024,339,Evansville Purple Aces,2024-01-23,-66.75182226298666,included_game_day
+2024,339,Evansville Purple Aces,2024-01-27,-61.260616842790995,included_game_day
+2024,339,Evansville Purple Aces,2024-01-31,-44.593975317603054,included_game_day
+2024,339,Evansville Purple Aces,2024-02-03,-40.759032441414604,included_game_day
+2024,339,Evansville Purple Aces,2024-02-07,-26.015034546022566,included_game_day
+2024,339,Evansville Purple Aces,2024-02-10,-19.016459609454806,included_game_day
+2024,339,Evansville Purple Aces,2024-02-13,-12.445068187797514,included_game_day
+2024,339,Evansville Purple Aces,2024-02-18,-14.444396936411845,included_game_day
+2024,339,Evansville Purple Aces,2024-02-21,-23.10423942181816,included_game_day
+2024,339,Evansville Purple Aces,2024-02-25,-32.91440660070235,included_game_day
+2024,339,Evansville Purple Aces,2024-02-28,-40.95159039600283,included_game_day
+2024,339,Evansville Purple Aces,2024-03-03,-44.49615377095701,included_game_day
+2024,339,Evansville Purple Aces,2024-03-07,-33.43087726299714,included_game_day
+2024,339,Evansville Purple Aces,2024-03-08,-41.58602386928153,included_game_day
+2024,339,Evansville Purple Aces,2024-03-24,-32.17536825113689,included_game_day
+2024,339,Evansville Purple Aces,2024-03-25,-38.35665868226126,included_game_day
+2025,339,Evansville Purple Aces,2024-11-05,-14.0,included_game_day
+2025,339,Evansville Purple Aces,2024-11-13,-24.0,included_game_day
+2025,339,Evansville Purple Aces,2024-11-16,-37.447,included_game_day
+2025,339,Evansville Purple Aces,2024-11-19,-77.6888,included_game_day
+2025,339,Evansville Purple Aces,2024-11-22,-54.969164,included_game_day
+2025,339,Evansville Purple Aces,2024-11-24,-42.0663996,included_game_day
+2025,339,Evansville Purple Aces,2024-12-03,-33.710523439999996,included_game_day
+2025,339,Evansville Purple Aces,2024-12-07,-46.993423961699996,included_game_day
+2025,339,Evansville Purple Aces,2024-12-12,-55.27940872283,included_game_day
+2025,339,Evansville Purple Aces,2024-12-18,-72.85033916609513,included_game_day
+2025,339,Evansville Purple Aces,2024-12-21,-104.01461127682961,included_game_day
+2025,339,Evansville Purple Aces,2024-12-29,-79.29625501292766,included_game_day
+2025,339,Evansville Purple Aces,2025-01-01,-56.685664232522214,included_game_day
+2025,339,Evansville Purple Aces,2025-01-04,-57.61507613579823,included_game_day
+2025,339,Evansville Purple Aces,2025-01-08,-33.097664491093944,included_game_day
+2025,339,Evansville Purple Aces,2025-01-11,-44.486627948297055,included_game_day
+2025,339,Evansville Purple Aces,2025-01-14,-49.979800142956535,included_game_day
+2025,339,Evansville Purple Aces,2025-01-18,-49.72780037499575,included_game_day
+2025,339,Evansville Purple Aces,2025-01-22,-55.851028375860274,included_game_day
+2025,339,Evansville Purple Aces,2025-01-25,-38.1380254200136,included_game_day
+2025,339,Evansville Purple Aces,2025-01-29,-32.7661347290428,included_game_day
+2025,339,Evansville Purple Aces,2025-02-02,-18.685119849144307,included_game_day
+2025,339,Evansville Purple Aces,2025-02-05,-29.226117062098023,included_game_day
+2025,339,Evansville Purple Aces,2025-02-08,-31.185326143711343,included_game_day
+2025,339,Evansville Purple Aces,2025-02-12,-46.99981667654946,included_game_day
+2025,339,Evansville Purple Aces,2025-02-16,-39.78812896571326,included_game_day
+2025,339,Evansville Purple Aces,2025-02-19,-29.218329828869884,included_game_day
+2025,339,Evansville Purple Aces,2025-02-22,-28.424190200716502,included_game_day
+2025,339,Evansville Purple Aces,2025-02-26,-24.210288909529684,included_game_day
+2025,339,Evansville Purple Aces,2025-03-02,-26.57531079287866,included_game_day
+2025,339,Evansville Purple Aces,2025-03-06,-44.7273860007948,included_game_day
+2026,339,Evansville Purple Aces,2025-11-04,-28.0,included_game_day
+2026,339,Evansville Purple Aces,2025-11-12,-33.2,included_game_day
+2026,339,Evansville Purple Aces,2025-11-18,-40.6147,included_game_day
+2026,339,Evansville Purple Aces,2025-11-21,-33.1901,included_game_day
+2026,339,Evansville Purple Aces,2025-11-23,-63.073052000000004,included_game_day
+2026,339,Evansville Purple Aces,2025-11-24,-77.49749220000001,included_game_day
+2026,339,Evansville Purple Aces,2025-12-03,-65.60905016200002,included_game_day
+2026,339,Evansville Purple Aces,2025-12-06,-53.60179951310002,included_game_day
+2026,339,Evansville Purple Aces,2025-12-13,-63.10338817687302,included_game_day
+2026,339,Evansville Purple Aces,2025-12-16,-56.809648962764676,included_game_day
+2026,339,Evansville Purple Aces,2025-12-21,-51.74814612542578,included_game_day
+2026,339,Evansville Purple Aces,2025-12-29,-47.02978312024914,included_game_day
+2026,339,Evansville Purple Aces,2026-01-01,-55.496763869222534,included_game_day
+2026,339,Evansville Purple Aces,2026-01-04,-61.87132183502004,included_game_day
+2026,339,Evansville Purple Aces,2026-01-07,-60.08459283381124,included_game_day
+2026,339,Evansville Purple Aces,2026-01-10,-48.56785884677482,included_game_day
+2026,339,Evansville Purple Aces,2026-01-13,-45.7079063839507,included_game_day
+2026,339,Evansville Purple Aces,2026-01-20,-62.398726689153044,included_game_day
+2026,339,Evansville Purple Aces,2026-01-28,-53.88382886143937,included_game_day
+2026,339,Evansville Purple Aces,2026-01-31,-59.871790110659845,included_game_day
+2026,339,Evansville Purple Aces,2026-02-03,-78.78487167301891,included_game_day
+2026,339,Evansville Purple Aces,2026-02-06,-71.97821479704336,included_game_day
+2026,339,Evansville Purple Aces,2026-02-09,-52.93838783648626,included_game_day
+2026,339,Evansville Purple Aces,2026-02-12,-66.40371133288093,included_game_day
+2026,339,Evansville Purple Aces,2026-02-18,-92.87576229923916,included_game_day
+2026,339,Evansville Purple Aces,2026-02-21,-93.504874877133,included_game_day
+2026,339,Evansville Purple Aces,2026-02-25,-104.81682119409125,included_game_day
+2026,339,Evansville Purple Aces,2026-02-28,-93.67705606565116,included_game_day
+2026,339,Evansville Purple Aces,2026-03-01,-95.94652622266241,included_game_day
+2026,339,Evansville Purple Aces,2026-03-05,-86.19652791746469,included_game_day
+2027,339,Evansville Purple Aces,2026-11-07,-2.5,included_game_day
+2027,339,Evansville Purple Aces,2026-11-10,-8.08,included_game_day
+2027,339,Evansville Purple Aces,2026-11-14,-17.348,included_game_day
+2027,339,Evansville Purple Aces,2026-11-17,-9.0063,included_game_day
+2027,339,Evansville Purple Aces,2026-11-22,-24.01787,included_game_day

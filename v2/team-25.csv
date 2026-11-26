@@ -1,0 +1,1225 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,25,California,1987-11-28,18.0,included_game_day
+1988,25,California,1987-12-03,6.48,included_game_day
+1988,25,California,1987-12-06,-4.095099999999999,included_game_day
+1988,25,California,1987-12-16,5.276472000000002,included_game_day
+1988,25,California,1987-12-18,21.534732060000003,included_game_day
+1988,25,California,1987-12-21,34.344316474,included_game_day
+1988,25,California,1987-12-23,17.166172060600005,included_game_day
+1988,25,California,1987-12-28,-0.7264939701599964,included_game_day
+1988,25,California,1987-12-29,-10.067563986232997,included_game_day
+1988,25,California,1988-01-02,-20.3058259763097,included_game_day
+1988,25,California,1988-01-07,-28.40128271190875,included_game_day
+1988,25,California,1988-01-09,-40.2684079626843,included_game_day
+1988,25,California,1988-01-14,-63.31430953760725,included_game_day
+1988,25,California,1988-01-16,-64.36850310309163,included_game_day
+1988,25,California,1988-01-23,-68.41959679821841,included_game_day
+1988,25,California,1988-01-28,-53.49877165668623,included_game_day
+1988,25,California,1988-01-30,-80.19138853464003,included_game_day
+1988,25,California,1988-02-04,-86.736699716087,included_game_day
+1988,25,California,1988-02-06,-73.86456654308424,included_game_day
+1988,25,California,1988-02-11,-64.8995862415029,included_game_day
+1988,25,California,1988-02-13,-49.251138431929334,included_game_day
+1988,25,California,1988-02-16,-53.515016194921785,included_game_day
+1988,25,California,1988-02-20,-54.663956396146475,included_game_day
+1988,25,California,1988-02-25,-57.22853920873786,included_game_day
+1988,25,California,1988-02-27,-60.96679505752371,included_game_day
+1988,25,California,1988-03-03,-78.95370177139165,included_game_day
+1988,25,California,1988-03-06,-66.8908951090973,included_game_day
+1988,25,California,1988-03-10,-52.21252907372145,included_game_day
+1988,25,California,1988-03-11,-47.30367590159012,included_game_day
+1989,25,California,1988-11-25,15.0,included_game_day
+1989,25,California,1988-11-26,-1.5,included_game_day
+1989,25,California,1988-11-28,-21.315,included_game_day
+1989,25,California,1988-11-30,-5.063500000000001,included_game_day
+1989,25,California,1988-12-03,3.87585,included_game_day
+1989,25,California,1988-12-05,25.656663,included_game_day
+1989,25,California,1988-12-07,48.1909967,included_game_day
+1989,25,California,1988-12-10,45.03727103,included_game_day
+1989,25,California,1988-12-21,30.303565959665,included_game_day
+1989,25,California,1988-12-23,42.414631569198505,included_game_day
+1989,25,California,1988-12-28,47.773590258878656,included_game_day
+1989,25,California,1988-12-30,85.1415364029908,included_game_day
+1989,25,California,1989-01-02,90.86707024604958,included_game_day
+1989,25,California,1989-01-05,106.62071207837894,included_game_day
+1989,25,California,1989-01-07,96.12367756011064,included_game_day
+1989,25,California,1989-01-12,92.29116728030438,included_game_day
+1989,25,California,1989-01-15,79.80620092354332,included_game_day
+1989,25,California,1989-01-19,98.24581744554686,included_game_day
+1989,25,California,1989-01-26,89.63234221655803,included_game_day
+1989,25,California,1989-01-28,93.36725971164677,included_game_day
+1989,25,California,1989-02-02,79.06073023844101,included_game_day
+1989,25,California,1989-02-04,82.20876708914813,included_game_day
+1989,25,California,1989-02-09,85.6051002286023,included_game_day
+1989,25,California,1989-02-11,89.13202429672666,included_game_day
+1989,25,California,1989-02-14,70.05044113586301,included_game_day
+1989,25,California,1989-02-16,53.46845624597735,included_game_day
+1989,25,California,1989-02-23,56.83326476518607,included_game_day
+1989,25,California,1989-02-26,56.32500028782912,included_game_day
+1989,25,California,1989-03-02,37.184858492893916,included_game_day
+1989,25,California,1989-03-04,42.84535037966701,included_game_day
+1989,25,California,1989-03-10,36.642251806504284,included_game_day
+1989,25,California,1989-03-15,50.937435378505256,included_game_day
+1989,25,California,1989-03-21,57.40192624933402,included_game_day
+1990,25,California,1989-11-15,18.0,included_game_day
+1990,25,California,1989-11-16,0.0,included_game_day
+1990,25,California,1989-11-29,4.6,included_game_day
+1990,25,California,1989-12-02,21.89,included_game_day
+1990,25,California,1989-12-05,24.90912,included_game_day
+1990,25,California,1989-12-09,38.573108000000005,included_game_day
+1990,25,California,1989-12-20,37.522833388,included_game_day
+1990,25,California,1989-12-23,57.491945726820006,included_game_day
+1990,25,California,1989-12-27,80.53099864013801,included_game_day
+1990,25,California,1989-12-29,95.2398822601512,included_game_day
+1990,25,California,1990-01-02,95.92461636408044,included_game_day
+1990,25,California,1990-01-05,105.35466208792778,included_game_day
+1990,25,California,1990-01-07,93.39996316814965,included_game_day
+1990,25,California,1990-01-11,92.5346608503238,included_game_day
+1990,25,California,1990-01-13,92.5058004684161,included_game_day
+1990,25,California,1990-01-18,95.78927811798077,included_game_day
+1990,25,California,1990-01-20,82.36452678333556,included_game_day
+1990,25,California,1990-01-25,75.98779935735976,included_game_day
+1990,25,California,1990-02-01,62.03361227950431,included_game_day
+1990,25,California,1990-02-04,61.91558686279042,included_game_day
+1990,25,California,1990-02-08,74.66876007520439,included_game_day
+1990,25,California,1990-02-10,77.82698945482765,included_game_day
+1990,25,California,1990-02-15,90.79114981939293,included_game_day
+1990,25,California,1990-02-17,92.42303588801275,included_game_day
+1990,25,California,1990-02-21,69.04933883442021,included_game_day
+1990,25,California,1990-02-23,68.84014456706775,included_game_day
+1990,25,California,1990-02-28,72.47314989029901,included_game_day
+1990,25,California,1990-03-04,45.379554148884026,included_game_day
+1990,25,California,1990-03-09,31.704677555752035,included_game_day
+1990,25,California,1990-03-15,41.54939691068746,included_game_day
+1990,25,California,1990-03-17,34.20523481909777,included_game_day
+1991,25,California,1990-11-24,-14.0,included_game_day
+1991,25,California,1990-12-01,12.52,included_game_day
+1991,25,California,1990-12-03,44.445499999999996,included_game_day
+1991,25,California,1990-12-06,40.15839269999999,included_game_day
+1991,25,California,1990-12-19,46.31953246319999,included_game_day
+1991,25,California,1990-12-22,28.874969842498693,included_game_day
+1991,25,California,1990-12-27,21.902547593728823,included_game_day
+1991,25,California,1990-12-29,35.08341712703731,included_game_day
+1991,25,California,1991-01-03,30.338305864998755,included_game_day
+1991,25,California,1991-01-05,28.90761880607235,included_game_day
+1991,25,California,1991-01-10,16.517984270286096,included_game_day
+1991,25,California,1991-01-12,16.50940031914491,included_game_day
+1991,25,California,1991-01-17,28.019539151200483,included_game_day
+1991,25,California,1991-01-20,22.399286328866364,included_game_day
+1991,25,California,1991-01-24,36.376181496853874,included_game_day
+1991,25,California,1991-01-26,49.66887404165148,included_game_day
+1991,25,California,1991-01-31,52.62899070308826,included_game_day
+1991,25,California,1991-02-02,43.94056174800831,included_game_day
+1991,25,California,1991-02-07,63.56255306718431,included_game_day
+1991,25,California,1991-02-09,56.563928146170056,included_game_day
+1991,25,California,1991-02-14,63.94351360650175,included_game_day
+1991,25,California,1991-02-16,51.70388213287098,included_game_day
+1991,25,California,1991-02-21,26.746980405905468,included_game_day
+1991,25,California,1991-02-23,20.224172605440955,included_game_day
+1991,25,California,1991-03-02,8.858223299457302,included_game_day
+1991,25,California,1991-03-05,13.801898577885646,included_game_day
+1991,25,California,1991-03-07,21.21477160525589,included_game_day
+1992,25,California,1991-11-22,15.0,included_game_day
+1992,25,California,1991-11-25,53.05,included_game_day
+1992,25,California,1991-11-29,24.744999999999997,included_game_day
+1992,25,California,1991-11-30,28.3645,included_game_day
+1992,25,California,1991-12-03,12.51278,included_game_day
+1992,25,California,1991-12-07,5.308161,included_game_day
+1992,25,California,1991-12-21,3.359674925,included_game_day
+1992,25,California,1991-12-28,6.260740982282,included_game_day
+1992,25,California,1991-12-30,31.612240101983524,included_game_day
+1992,25,California,1992-01-02,50.650161891785174,included_game_day
+1992,25,California,1992-01-09,33.34438887052241,included_game_day
+1992,25,California,1992-01-11,23.124275904714892,included_game_day
+1992,25,California,1992-01-18,18.884032594683426,included_game_day
+1992,25,California,1992-01-23,5.559279387732818,included_game_day
+1992,25,California,1992-01-25,7.311285954024816,included_game_day
+1992,25,California,1992-01-30,26.606619497442743,included_game_day
+1992,25,California,1992-02-01,20.31943257638308,included_game_day
+1992,25,California,1992-02-06,21.609068669817955,included_game_day
+1992,25,California,1992-02-09,23.997712155364667,included_game_day
+1992,25,California,1992-02-15,0.6966326379861201,included_game_day
+1992,25,California,1992-02-18,11.95639327121113,included_game_day
+1992,25,California,1992-02-20,6.404580713477428,included_game_day
+1992,25,California,1992-02-27,2.539212744781709,included_game_day
+1992,25,California,1992-02-29,-5.19137890748441,included_game_day
+1992,25,California,1992-03-05,-4.450589682175554,included_game_day
+1992,25,California,1992-03-08,-0.8619378261143735,included_game_day
+1992,25,California,1992-03-12,13.823514411172713,included_game_day
+1992,25,California,1992-03-14,10.678230220480877,included_game_day
+1993,25,California,1992-12-01,21.0,included_game_day
+1993,25,California,1992-12-05,30.9,included_game_day
+1993,25,California,1992-12-07,45.963,included_game_day
+1993,25,California,1992-12-20,52.70480688,included_game_day
+1993,25,California,1992-12-22,64.696406192,included_game_day
+1993,25,California,1992-12-29,47.4949337468,included_game_day
+1993,25,California,1992-12-30,20.292091053242,included_game_day
+1993,25,California,1993-01-03,25.53260171550908,included_game_day
+1993,25,California,1993-01-07,37.40256018390481,included_game_day
+1993,25,California,1993-01-09,32.09084550062787,included_game_day
+1993,25,California,1993-01-14,42.348137398036194,included_game_day
+1993,25,California,1993-01-21,43.720659506249966,included_game_day
+1993,25,California,1993-01-24,68.79634371290332,included_game_day
+1993,25,California,1993-01-28,74.99023985200029,included_game_day
+1993,25,California,1993-01-30,60.54021410011559,included_game_day
+1993,25,California,1993-02-04,54.3666914712794,included_game_day
+1993,25,California,1993-02-07,53.8830796073736,included_game_day
+1993,25,California,1993-02-10,64.5769962883745,included_game_day
+1993,25,California,1993-02-14,81.47699138145286,included_game_day
+1993,25,California,1993-02-18,74.80892777009822,included_game_day
+1993,25,California,1993-02-20,51.72924862801073,included_game_day
+1993,25,California,1993-02-25,66.52170522789591,included_game_day
+1993,25,California,1993-02-27,65.24485738130775,included_game_day
+1993,25,California,1993-03-04,79.2427047341256,included_game_day
+1993,25,California,1993-03-06,100.15925426222593,included_game_day
+1993,25,California,1993-03-11,100.453817173959,included_game_day
+1993,25,California,1993-03-13,92.7155480442633,included_game_day
+1993,25,California,1993-03-18,93.81423066617158,included_game_day
+1993,25,California,1993-03-20,107.69672817625845,included_game_day
+1993,25,California,1993-03-25,95.62833384567463,included_game_day
+1994,25,California,1993-11-17,7.0,included_game_day
+1994,25,California,1993-11-18,-6.1,included_game_day
+1994,25,California,1993-12-01,9.51,included_game_day
+1994,25,California,1993-12-04,-7.523999999999999,included_game_day
+1994,25,California,1993-12-10,21.24349,included_game_day
+1994,25,California,1993-12-11,36.189478300000005,included_game_day
+1994,25,California,1993-12-23,39.592665860000004,included_game_day
+1994,25,California,1993-12-30,44.384645074739005,included_game_day
+1994,25,California,1994-01-02,53.67427555677645,included_game_day
+1994,25,California,1994-01-06,66.20863864857358,included_game_day
+1994,25,California,1994-01-08,70.28880828855782,included_game_day
+1994,25,California,1994-01-13,85.41043756902002,included_game_day
+1994,25,California,1994-01-15,80.46880925416555,included_game_day
+1994,25,California,1994-01-20,70.66349626501137,included_game_day
+1994,25,California,1994-01-27,69.29859697153478,included_game_day
+1994,25,California,1994-01-30,88.63479602983641,included_game_day
+1994,25,California,1994-02-03,83.58794887770314,included_game_day
+1994,25,California,1994-02-05,97.4801228050023,included_game_day
+1994,25,California,1994-02-07,104.79810718422252,included_game_day
+1994,25,California,1994-02-10,113.67014355988985,included_game_day
+1994,25,California,1994-02-13,94.43367520692838,included_game_day
+1994,25,California,1994-02-17,103.38798025623322,included_game_day
+1994,25,California,1994-02-20,112.42278092248286,included_game_day
+1994,25,California,1994-02-24,117.21869624145279,included_game_day
+1994,25,California,1994-02-26,99.4852568571471,included_game_day
+1994,25,California,1994-03-03,98.50494056505994,included_game_day
+1994,25,California,1994-03-05,106.32484293696007,included_game_day
+1994,25,California,1994-03-10,100.3391866477393,included_game_day
+1994,25,California,1994-03-12,89.43257833911798,included_game_day
+1994,25,California,1994-03-17,88.54658264183861,included_game_day
+1995,25,California,1994-11-26,10.0,included_game_day
+1995,25,California,1994-11-29,15.0,included_game_day
+1995,25,California,1994-12-03,30.08,included_game_day
+1995,25,California,1994-12-05,58.671622,included_game_day
+1995,25,California,1994-12-17,64.623027245,included_game_day
+1995,25,California,1994-12-21,86.66349577315,included_game_day
+1995,25,California,1994-12-28,104.577793479235,included_game_day
+1995,25,California,1994-12-29,97.33715082745219,included_game_day
+1995,25,California,1995-01-05,83.17265169691397,included_game_day
+1995,25,California,1995-01-07,85.82037902334459,included_game_day
+1995,25,California,1995-01-12,71.38361023735958,included_game_day
+1995,25,California,1995-01-14,64.44001587754038,included_game_day
+1995,25,California,1995-01-19,60.10486101012662,included_game_day
+1995,25,California,1995-01-22,56.08450659561652,included_game_day
+1995,25,California,1995-01-26,72.73419142081505,included_game_day
+1995,25,California,1995-01-28,88.64573517396036,included_game_day
+1995,25,California,1995-02-02,66.95012412402285,included_game_day
+1995,25,California,1995-02-04,55.32122826467485,included_game_day
+1995,25,California,1995-02-09,42.18516442709068,included_game_day
+1995,25,California,1995-02-12,57.18957962084342,included_game_day
+1995,25,California,1995-02-15,50.615742333173664,included_game_day
+1995,25,California,1995-02-23,41.931908074732334,included_game_day
+1995,25,California,1995-02-25,55.56607775386912,included_game_day
+1995,25,California,1995-03-02,46.60529015391833,included_game_day
+1995,25,California,1995-03-04,28.272459583156177,included_game_day
+1995,25,California,1995-03-09,22.89474406286829,included_game_day
+1995,25,California,1995-03-11,22.078374949661587,included_game_day
+1996,25,California,1995-11-25,25.0,included_game_day
+1996,25,California,1995-11-29,62.2,included_game_day
+1996,25,California,1995-12-05,75.36121,included_game_day
+1996,25,California,1995-12-16,77.1031806727,included_game_day
+1996,25,California,1995-12-20,73.95440220340001,included_game_day
+1996,25,California,1995-12-23,64.055517258223,included_game_day
+1996,25,California,1995-12-28,62.76711639240071,included_game_day
+1996,25,California,1995-12-29,46.91784410045031,included_game_day
+1996,25,California,1996-01-04,73.49548259677373,included_game_day
+1996,25,California,1996-01-06,78.43870397119983,included_game_day
+1996,25,California,1996-01-11,77.83617271190442,included_game_day
+1996,25,California,1996-01-13,62.909498112549855,included_game_day
+1996,25,California,1996-01-18,66.83820348878295,included_game_day
+1996,25,California,1996-01-20,82.91592251081143,included_game_day
+1996,25,California,1996-01-25,89.97967712829931,included_game_day
+1996,25,California,1996-01-27,87.98558926808205,included_game_day
+1996,25,California,1996-01-31,77.88137594442523,included_game_day
+1996,25,California,1996-02-04,75.504427153017,included_game_day
+1996,25,California,1996-02-08,66.16552234385516,included_game_day
+1996,25,California,1996-02-10,69.14877418600396,included_game_day
+1996,25,California,1996-02-15,66.09673533415403,included_game_day
+1996,25,California,1996-02-17,61.364310270093355,included_game_day
+1996,25,California,1996-02-22,66.4405541838928,included_game_day
+1996,25,California,1996-02-24,67.5580491998458,included_game_day
+1996,25,California,1996-03-03,84.27917690462723,included_game_day
+1996,25,California,1996-03-07,71.50401740450508,included_game_day
+1996,25,California,1996-03-09,75.27433494153203,included_game_day
+1996,25,California,1996-03-14,65.70305053778745,included_game_day
+1997,25,California,1996-11-25,17.5,included_game_day
+1997,25,California,1996-11-26,2.2799999999999994,included_game_day
+1997,25,California,1996-11-27,5.581999999999999,included_game_day
+1997,25,California,1996-11-30,38.8238,included_game_day
+1997,25,California,1996-12-03,38.433859999999996,included_game_day
+1997,25,California,1996-12-08,32.239069,included_game_day
+1997,25,California,1996-12-09,59.552863099999996,included_game_day
+1997,25,California,1996-12-20,69.022872994,included_game_day
+1997,25,California,1996-12-23,72.5360010111,included_game_day
+1997,25,California,1996-12-28,77.00092533165,included_game_day
+1997,25,California,1996-12-29,84.513088916587,included_game_day
+1997,25,California,1997-01-02,91.59581220755712,included_game_day
+1997,25,California,1997-01-04,80.74725793856561,included_game_day
+1997,25,California,1997-01-09,92.06691835079812,included_game_day
+1997,25,California,1997-01-11,74.34010259085196,included_game_day
+1997,25,California,1997-01-16,78.37447636480745,included_game_day
+1997,25,California,1997-01-18,93.17988484063869,included_game_day
+1997,25,California,1997-01-23,87.2934469897558,included_game_day
+1997,25,California,1997-01-25,108.52625711877124,included_game_day
+1997,25,California,1997-01-29,113.22345250830196,included_game_day
+1997,25,California,1997-02-06,115.65201137265541,included_game_day
+1997,25,California,1997-02-08,107.75117671009242,included_game_day
+1997,25,California,1997-02-13,108.15729578327645,included_game_day
+1997,25,California,1997-02-15,112.59112033823287,included_game_day
+1997,25,California,1997-02-20,121.17428941367372,included_game_day
+1997,25,California,1997-02-22,109.6527526559776,included_game_day
+1997,25,California,1997-03-01,106.015398552706,included_game_day
+1997,25,California,1997-03-06,107.49759631381616,included_game_day
+1997,25,California,1997-03-08,113.62357971681352,included_game_day
+1997,25,California,1997-03-13,115.928337743522,included_game_day
+1997,25,California,1997-03-15,121.94233517275748,included_game_day
+1997,25,California,1997-03-21,123.02336553744767,included_game_day
+1998,25,California,1997-11-22,-16.54,included_game_day
+1998,25,California,1997-11-29,-20.886,included_game_day
+1998,25,California,1997-12-02,-22.6193,included_game_day
+1998,25,California,1997-12-09,-18.727642019,included_game_day
+1998,25,California,1997-12-22,-21.022992246975,included_game_day
+1998,25,California,1997-12-28,-16.186267053017502,included_game_day
+1998,25,California,1997-12-29,-8.178471030997937,included_game_day
+1998,25,California,1998-01-03,-10.141221534140543,included_game_day
+1998,25,California,1998-01-05,12.092268144030593,included_game_day
+1998,25,California,1998-01-10,18.98096403452508,included_game_day
+1998,25,California,1998-01-15,20.07127199929409,included_game_day
+1998,25,California,1998-01-17,24.096465133139453,included_game_day
+1998,25,California,1998-01-22,29.20144565279103,included_game_day
+1998,25,California,1998-01-24,44.5146146572911,included_game_day
+1998,25,California,1998-01-29,44.241269824198504,included_game_day
+1998,25,California,1998-01-31,44.67734287420913,included_game_day
+1998,25,California,1998-02-04,47.64695271095567,included_game_day
+1998,25,California,1998-02-07,43.33887947562694,included_game_day
+1998,25,California,1998-02-12,69.0223153959792,included_game_day
+1998,25,California,1998-02-14,69.44102307612143,included_game_day
+1998,25,California,1998-02-19,69.46159245375534,included_game_day
+1998,25,California,1998-02-21,79.8078175765061,included_game_day
+1998,25,California,1998-02-26,91.1603107240769,included_game_day
+1998,25,California,1998-02-28,70.16167498850734,included_game_day
+1998,25,California,1998-03-05,57.185804053671234,included_game_day
+1998,25,California,1998-03-07,55.63574730720939,included_game_day
+1999,25,California,1998-11-15,14.0,included_game_day
+1999,25,California,1998-11-25,46.0,included_game_day
+1999,25,California,1998-11-28,42.68158,included_game_day
+1999,25,California,1998-12-03,50.32807344,included_game_day
+1999,25,California,1998-12-05,48.641051476,included_game_day
+1999,25,California,1998-12-07,37.7264181424,included_game_day
+1999,25,California,1998-12-19,37.813956524888,included_game_day
+1999,25,California,1998-12-21,56.66494708678434,included_game_day
+1999,25,California,1998-12-22,77.5923829692255,included_game_day
+1999,25,California,1998-12-29,83.04056678902649,included_game_day
+1999,25,California,1999-01-02,77.93530832820564,included_game_day
+1999,25,California,1999-01-04,71.10691132467169,included_game_day
+1999,25,California,1999-01-09,73.45340145619399,included_game_day
+1999,25,California,1999-01-14,64.98789515866706,included_game_day
+1999,25,California,1999-01-16,80.10154369949991,included_game_day
+1999,25,California,1999-01-21,61.499913838668135,included_game_day
+1999,25,California,1999-01-23,57.82838072379829,included_game_day
+1999,25,California,1999-01-28,57.372196956197996,included_game_day
+1999,25,California,1999-01-30,47.88752631839388,included_game_day
+1999,25,California,1999-02-03,56.48864867626541,included_game_day
+1999,25,California,1999-02-11,54.08614958986935,included_game_day
+1999,25,California,1999-02-13,73.57330017004539,included_game_day
+1999,25,California,1999-02-18,61.76474269393076,included_game_day
+1999,25,California,1999-02-20,39.58228258649443,included_game_day
+1999,25,California,1999-02-25,55.74442127147447,included_game_day
+1999,25,California,1999-02-27,59.27895359935391,included_game_day
+1999,25,California,1999-03-04,63.92575914630021,included_game_day
+1999,25,California,1999-03-06,56.297602679119564,included_game_day
+1999,25,California,1999-03-10,60.59777012510239,included_game_day
+1999,25,California,1999-03-16,66.01032631965441,included_game_day
+1999,25,California,1999-03-18,72.8482679136996,included_game_day
+1999,25,California,1999-03-23,90.99010419770886,included_game_day
+1999,25,California,1999-03-25,96.0367741265175,included_game_day
+2000,25,California,1999-11-18,8.0,included_game_day
+2000,25,California,1999-11-19,32.3,included_game_day
+2000,25,California,1999-11-21,15.370999999999999,included_game_day
+2000,25,California,1999-11-27,17.2839,included_game_day
+2000,25,California,1999-11-29,18.93621,included_game_day
+2000,25,California,1999-12-04,3.6044479999999997,included_game_day
+2000,25,California,1999-12-07,15.5449726,included_game_day
+2000,25,California,1999-12-18,39.58374365,included_game_day
+2000,25,California,1999-12-21,51.10698359726993,included_game_day
+2000,25,California,1999-12-28,67.71586639393294,included_game_day
+2000,25,California,1999-12-29,55.20265268175865,included_game_day
+2000,25,California,2000-01-02,49.336668815219234,included_game_day
+2000,25,California,2000-01-06,47.68907998704926,included_game_day
+2000,25,California,2000-01-08,41.12223672638418,included_game_day
+2000,25,California,2000-01-13,36.01412343957218,included_game_day
+2000,25,California,2000-01-15,41.07339762713407,included_game_day
+2000,25,California,2000-01-22,39.47328338485616,included_game_day
+2000,25,California,2000-01-27,64.33379913563455,included_game_day
+2000,25,California,2000-01-29,51.377673386405135,included_game_day
+2000,25,California,2000-02-03,65.81193066242794,included_game_day
+2000,25,California,2000-02-05,71.97012878168518,included_game_day
+2000,25,California,2000-02-10,63.556886728735144,included_game_day
+2000,25,California,2000-02-12,60.77833611891795,included_game_day
+2000,25,California,2000-02-19,26.502929325280917,included_game_day
+2000,25,California,2000-02-24,37.19376914715063,included_game_day
+2000,25,California,2000-02-26,27.08749882576391,included_game_day
+2000,25,California,2000-03-02,11.474534021790507,included_game_day
+2000,25,California,2000-03-04,25.97260172179586,included_game_day
+2000,25,California,2000-03-09,25.744724389721014,included_game_day
+2000,25,California,2000-03-11,30.063816294356698,included_game_day
+2000,25,California,2000-03-15,35.101528018002845,included_game_day
+2000,25,California,2000-03-21,43.58617027999045,included_game_day
+2000,25,California,2000-03-24,34.97355816464297,included_game_day
+2001,25,California,2000-11-13,4.0,included_game_day
+2001,25,California,2000-11-15,4.7,included_game_day
+2001,25,California,2000-11-29,-11.731910000000003,included_game_day
+2001,25,California,2000-12-02,-10.159579000000003,included_game_day
+2001,25,California,2000-12-05,-3.4066843900000023,included_game_day
+2001,25,California,2000-12-09,14.862649298999997,included_game_day
+2001,25,California,2000-12-11,39.553465787419995,included_game_day
+2001,25,California,2000-12-21,60.590837648817995,included_game_day
+2001,25,California,2000-12-23,61.4236764502762,included_game_day
+2001,25,California,2000-12-29,63.16500655724758,included_game_day
+2001,25,California,2000-12-30,78.67091456609022,included_game_day
+2001,25,California,2001-01-04,79.80928414082241,included_game_day
+2001,25,California,2001-01-06,97.8676305058789,included_game_day
+2001,25,California,2001-01-11,110.16985621018226,included_game_day
+2001,25,California,2001-01-13,111.19359860165143,included_game_day
+2001,25,California,2001-01-17,94.14759976637954,included_game_day
+2001,25,California,2001-01-20,99.94514574825763,included_game_day
+2001,25,California,2001-01-25,94.94131772407874,included_game_day
+2001,25,California,2001-01-27,99.33718080206287,included_game_day
+2001,25,California,2001-02-01,124.45984900206271,included_game_day
+2001,25,California,2001-02-03,105.94361497115158,included_game_day
+2001,25,California,2001-02-08,96.41003646606883,included_game_day
+2001,25,California,2001-02-10,103.0098068616562,included_game_day
+2001,25,California,2001-02-17,74.91316609988932,included_game_day
+2001,25,California,2001-02-22,72.75519686064288,included_game_day
+2001,25,California,2001-02-24,81.48828298582984,included_game_day
+2001,25,California,2001-03-01,83.43145354818415,included_game_day
+2001,25,California,2001-03-03,79.71976360747793,included_game_day
+2001,25,California,2001-03-08,92.63621099331593,included_game_day
+2001,25,California,2001-03-10,100.8143604740434,included_game_day
+2001,25,California,2001-03-16,89.59693589395222,included_game_day
+2002,25,California Golden Bears,2001-11-15,9.0,included_game_day
+2002,25,California Golden Bears,2001-11-16,34.5,included_game_day
+2002,25,California Golden Bears,2001-11-20,34.55,included_game_day
+2002,25,California Golden Bears,2001-11-28,40.419799999999995,included_game_day
+2002,25,California Golden Bears,2001-12-01,25.622896999999995,included_game_day
+2002,25,California Golden Bears,2001-12-06,44.531336939999996,included_game_day
+2002,25,California Golden Bears,2001-12-11,60.834818716,included_game_day
+2002,25,California Golden Bears,2001-12-21,72.183376689151,included_game_day
+2002,25,California Golden Bears,2001-12-28,75.97212661539936,included_game_day
+2002,25,California Golden Bears,2001-12-29,64.11414322589063,included_game_day
+2002,25,California Golden Bears,2002-01-04,48.86620670896524,included_game_day
+2002,25,California Golden Bears,2002-01-06,64.66785749542493,included_game_day
+2002,25,California Golden Bears,2002-01-10,71.0129188148977,included_game_day
+2002,25,California Golden Bears,2002-01-12,76.37967469807143,included_game_day
+2002,25,California Golden Bears,2002-01-17,76.91727611721167,included_game_day
+2002,25,California Golden Bears,2002-01-19,93.96649173651177,included_game_day
+2002,25,California Golden Bears,2002-01-24,97.38487976312618,included_game_day
+2002,25,California Golden Bears,2002-01-26,88.80758554061735,included_game_day
+2002,25,California Golden Bears,2002-01-31,72.38708842885575,included_game_day
+2002,25,California Golden Bears,2002-02-02,75.50827683529323,included_game_day
+2002,25,California Golden Bears,2002-02-07,78.86900576048906,included_game_day
+2002,25,California Golden Bears,2002-02-09,84.72377237000403,included_game_day
+2002,25,California Golden Bears,2002-02-14,91.07058485386099,included_game_day
+2002,25,California Golden Bears,2002-02-16,65.83968294505826,included_game_day
+2002,25,California Golden Bears,2002-02-21,80.40102485992261,included_game_day
+2002,25,California Golden Bears,2002-02-23,102.43045261634978,included_game_day
+2002,25,California Golden Bears,2002-02-28,112.90472716587259,included_game_day
+2002,25,California Golden Bears,2002-03-02,66.303900717434,included_game_day
+2002,25,California Golden Bears,2002-03-08,65.78630433635882,included_game_day
+2002,25,California Golden Bears,2002-03-15,75.68257170189146,included_game_day
+2002,25,California Golden Bears,2002-03-17,71.9064082704486,included_game_day
+2003,25,California Golden Bears,2002-11-23,11.0,included_game_day
+2003,25,California Golden Bears,2002-11-30,21.768,included_game_day
+2003,25,California Golden Bears,2002-12-03,25.2344,included_game_day
+2003,25,California Golden Bears,2002-12-07,15.834573,included_game_day
+2003,25,California Golden Bears,2002-12-10,21.099914599999998,included_game_day
+2003,25,California Golden Bears,2002-12-20,24.495277325099998,included_game_day
+2003,25,California Golden Bears,2002-12-21,39.960018685300994,included_game_day
+2003,25,California Golden Bears,2002-12-28,25.805207061260894,included_game_day
+2003,25,California Golden Bears,2002-12-30,25.391094408323376,included_game_day
+2003,25,California Golden Bears,2003-01-04,39.786560537576854,included_game_day
+2003,25,California Golden Bears,2003-01-09,60.31602040276296,included_game_day
+2003,25,California Golden Bears,2003-01-11,55.45618172386871,included_game_day
+2003,25,California Golden Bears,2003-01-16,60.34145292323261,included_game_day
+2003,25,California Golden Bears,2003-01-18,66.44603815028468,included_game_day
+2003,25,California Golden Bears,2003-01-23,64.31453315827308,included_game_day
+2003,25,California Golden Bears,2003-01-25,65.54684717676444,included_game_day
+2003,25,California Golden Bears,2003-01-30,67.80505914973901,included_game_day
+2003,25,California Golden Bears,2003-02-01,64.70293511517919,included_game_day
+2003,25,California Golden Bears,2003-02-06,77.73631674632507,included_game_day
+2003,25,California Golden Bears,2003-02-08,91.04657722655993,included_game_day
+2003,25,California Golden Bears,2003-02-13,82.01017698306343,included_game_day
+2003,25,California Golden Bears,2003-02-15,76.30955336047067,included_game_day
+2003,25,California Golden Bears,2003-02-20,69.82751328726734,included_game_day
+2003,25,California Golden Bears,2003-02-22,69.86142381625955,included_game_day
+2003,25,California Golden Bears,2003-02-27,66.07798519690931,included_game_day
+2003,25,California Golden Bears,2003-03-02,74.70671777463147,included_game_day
+2003,25,California Golden Bears,2003-03-08,68.15264805200083,included_game_day
+2003,25,California Golden Bears,2003-03-14,56.928133886178,included_game_day
+2003,25,California Golden Bears,2003-03-20,59.01094122921503,included_game_day
+2003,25,California Golden Bears,2003-03-22,61.597333446328584,included_game_day
+2004,25,California Golden Bears,2003-11-21,-4.0,included_game_day
+2004,25,California Golden Bears,2003-11-26,-2.5,included_game_day
+2004,25,California Golden Bears,2003-11-29,-1.2274000000000003,included_game_day
+2004,25,California Golden Bears,2003-12-03,1.8162399999999996,included_game_day
+2004,25,California Golden Bears,2003-12-06,-11.142584,included_game_day
+2004,25,California Golden Bears,2003-12-09,16.44629125,included_game_day
+2004,25,California Golden Bears,2003-12-20,17.8869292601,included_game_day
+2004,25,California Golden Bears,2003-12-27,31.576836713647,included_game_day
+2004,25,California Golden Bears,2003-12-28,25.0865847946963,included_game_day
+2004,25,California Golden Bears,2004-01-02,36.04834955701174,included_game_day
+2004,25,California Golden Bears,2004-01-04,22.22236663725359,included_game_day
+2004,25,California Golden Bears,2004-01-08,10.54894055918466,included_game_day
+2004,25,California Golden Bears,2004-01-10,25.64555343652451,included_game_day
+2004,25,California Golden Bears,2004-01-17,30.972671316598305,included_game_day
+2004,25,California Golden Bears,2004-01-22,23.974218778221484,included_game_day
+2004,25,California Golden Bears,2004-01-24,32.99500763986593,included_game_day
+2004,25,California Golden Bears,2004-01-29,25.101668185152946,included_game_day
+2004,25,California Golden Bears,2004-01-31,36.82976253013893,included_game_day
+2004,25,California Golden Bears,2004-02-05,43.9560548455319,included_game_day
+2004,25,California Golden Bears,2004-02-07,36.597009589666314,included_game_day
+2004,25,California Golden Bears,2004-02-14,31.366997073344542,included_game_day
+2004,25,California Golden Bears,2004-02-19,10.137781228711749,included_game_day
+2004,25,California Golden Bears,2004-02-21,0.7267980767020727,included_game_day
+2004,25,California Golden Bears,2004-02-26,3.1241126912032633,included_game_day
+2004,25,California Golden Bears,2004-02-28,16.495481299030825,included_game_day
+2004,25,California Golden Bears,2004-03-04,7.4882116764462445,included_game_day
+2004,25,California Golden Bears,2004-03-06,-0.5817625853239967,included_game_day
+2004,25,California Golden Bears,2004-03-11,-8.368902234380963,included_game_day
+2005,25,California Golden Bears,2004-11-11,14.0,included_game_day
+2005,25,California Golden Bears,2004-11-12,1.8000000000000007,included_game_day
+2005,25,California Golden Bears,2004-11-23,17.62,included_game_day
+2005,25,California Golden Bears,2004-11-27,18.19881,included_game_day
+2005,25,California Golden Bears,2004-12-01,13.477866000000002,included_game_day
+2005,25,California Golden Bears,2004-12-04,22.340679400000003,included_game_day
+2005,25,California Golden Bears,2004-12-07,14.199112260000003,included_game_day
+2005,25,California Golden Bears,2004-12-11,18.860878499900004,included_game_day
+2005,25,California Golden Bears,2004-12-22,32.11102453321489,included_game_day
+2005,25,California Golden Bears,2004-12-23,30.5103345943674,included_game_day
+2005,25,California Golden Bears,2004-12-31,32.1212913991986,included_game_day
+2005,25,California Golden Bears,2005-01-02,43.96257959653903,included_game_day
+2005,25,California Golden Bears,2005-01-06,27.394738072409734,included_game_day
+2005,25,California Golden Bears,2005-01-08,21.46148884160126,included_game_day
+2005,25,California Golden Bears,2005-01-15,2.838411932735262,included_game_day
+2005,25,California Golden Bears,2005-01-20,-10.155256289682931,included_game_day
+2005,25,California Golden Bears,2005-01-22,11.542755254688746,included_game_day
+2005,25,California Golden Bears,2005-01-27,13.627482072887602,included_game_day
+2005,25,California Golden Bears,2005-01-29,35.91073727635166,included_game_day
+2005,25,California Golden Bears,2005-02-03,24.253698831938237,included_game_day
+2005,25,California Golden Bears,2005-02-05,32.94835950209504,included_game_day
+2005,25,California Golden Bears,2005-02-12,23.520347200223526,included_game_day
+2005,25,California Golden Bears,2005-02-17,8.400992052462568,included_game_day
+2005,25,California Golden Bears,2005-02-19,-13.571444765742273,included_game_day
+2005,25,California Golden Bears,2005-02-24,-13.780808056471479,included_game_day
+2005,25,California Golden Bears,2005-02-26,-25.297800641503365,included_game_day
+2005,25,California Golden Bears,2005-03-03,-44.857667290012174,included_game_day
+2005,25,California Golden Bears,2005-03-05,-32.28021966817944,included_game_day
+2005,25,California Golden Bears,2005-03-10,-38.02185715794889,included_game_day
+2006,25,California Golden Bears,2005-11-18,1.0,included_game_day
+2006,25,California Golden Bears,2005-11-21,13.7,included_game_day
+2006,25,California Golden Bears,2005-11-25,29.399900000000002,included_game_day
+2006,25,California Golden Bears,2005-11-26,33.92391,included_game_day
+2006,25,California Golden Bears,2005-11-30,47.625988,included_game_day
+2006,25,California Golden Bears,2005-12-03,55.0685292,included_game_day
+2006,25,California Golden Bears,2005-12-06,67.75077028,included_game_day
+2006,25,California Golden Bears,2005-12-10,52.965280031999995,included_game_day
+2006,25,California Golden Bears,2005-12-21,40.413711753876,included_game_day
+2006,25,California Golden Bears,2005-12-29,50.042391999475875,included_game_day
+2006,25,California Golden Bears,2005-12-31,63.49180104882825,included_game_day
+2006,25,California Golden Bears,2006-01-05,68.16733216721852,included_game_day
+2006,25,California Golden Bears,2006-01-07,49.61281996944571,included_game_day
+2006,25,California Golden Bears,2006-01-13,35.68123051596023,included_game_day
+2006,25,California Golden Bears,2006-01-19,66.45084469532975,included_game_day
+2006,25,California Golden Bears,2006-01-21,66.01992812889941,included_game_day
+2006,25,California Golden Bears,2006-01-26,70.56536093321537,included_game_day
+2006,25,California Golden Bears,2006-01-28,66.54888062681815,included_game_day
+2006,25,California Golden Bears,2006-02-02,83.15202304268313,included_game_day
+2006,25,California Golden Bears,2006-02-04,82.50834844842007,included_game_day
+2006,25,California Golden Bears,2006-02-09,80.74196940827241,included_game_day
+2006,25,California Golden Bears,2006-02-16,85.56316227000453,included_game_day
+2006,25,California Golden Bears,2006-02-18,72.62454886694957,included_game_day
+2006,25,California Golden Bears,2006-02-23,71.50722609459083,included_game_day
+2006,25,California Golden Bears,2006-02-26,69.57266492175181,included_game_day
+2006,25,California Golden Bears,2006-03-02,62.53741459913161,included_game_day
+2006,25,California Golden Bears,2006-03-04,66.86060134276657,included_game_day
+2006,25,California Golden Bears,2006-03-09,74.31915073767453,included_game_day
+2006,25,California Golden Bears,2006-03-10,82.37615670422187,included_game_day
+2006,25,California Golden Bears,2006-03-11,73.87160580542471,included_game_day
+2006,25,California Golden Bears,2006-03-17,63.85845237768134,included_game_day
+2007,25,California Golden Bears,2006-11-15,14.01,included_game_day
+2007,25,California Golden Bears,2006-11-18,9.549,included_game_day
+2007,25,California Golden Bears,2006-11-20,31.3341,included_game_day
+2007,25,California Golden Bears,2006-11-23,26.60069,included_game_day
+2007,25,California Golden Bears,2006-11-25,46.403690999999995,included_game_day
+2007,25,California Golden Bears,2006-11-26,51.20303189999999,included_game_day
+2007,25,California Golden Bears,2006-11-29,75.32130670999999,included_game_day
+2007,25,California Golden Bears,2006-12-03,64.99005201899999,included_game_day
+2007,25,California Golden Bears,2006-12-08,74.37036162134899,included_game_day
+2007,25,California Golden Bears,2006-12-09,56.63573803089409,included_game_day
+2007,25,California Golden Bears,2006-12-19,80.9384496547506,included_game_day
+2007,25,California Golden Bears,2006-12-23,53.24285169170598,included_game_day
+2007,25,California Golden Bears,2006-12-28,53.325145196162765,included_game_day
+2007,25,California Golden Bears,2006-12-30,53.25728402633225,included_game_day
+2007,25,California Golden Bears,2007-01-03,58.88034802640132,included_game_day
+2007,25,California Golden Bears,2007-01-11,41.87076513219402,included_game_day
+2007,25,California Golden Bears,2007-01-13,49.166143142289194,included_game_day
+2007,25,California Golden Bears,2007-01-18,50.13192978678728,included_game_day
+2007,25,California Golden Bears,2007-01-20,51.76347139232503,included_game_day
+2007,25,California Golden Bears,2007-01-25,41.09608847453438,included_game_day
+2007,25,California Golden Bears,2007-01-27,41.128351485103316,included_game_day
+2007,25,California Golden Bears,2007-02-03,23.013020401389994,included_game_day
+2007,25,California Golden Bears,2007-02-08,19.536561817397665,included_game_day
+2007,25,California Golden Bears,2007-02-10,19.377504927521855,included_game_day
+2007,25,California Golden Bears,2007-02-15,25.05084179084651,included_game_day
+2007,25,California Golden Bears,2007-02-17,19.936178353968607,included_game_day
+2007,25,California Golden Bears,2007-02-22,27.220801713530804,included_game_day
+2007,25,California Golden Bears,2007-02-24,19.32953694446321,included_game_day
+2007,25,California Golden Bears,2007-03-01,18.269708807692332,included_game_day
+2007,25,California Golden Bears,2007-03-03,14.636600554943668,included_game_day
+2007,25,California Golden Bears,2007-03-07,27.14194765968542,included_game_day
+2007,25,California Golden Bears,2007-03-08,49.27957916584731,included_game_day
+2007,25,California Golden Bears,2007-03-09,39.460680931609936,included_game_day
+2008,25,California Golden Bears,2007-11-14,5.0,included_game_day
+2008,25,California Golden Bears,2007-11-19,9.998000000000001,included_game_day
+2008,25,California Golden Bears,2007-11-24,18.581200000000003,included_game_day
+2008,25,California Golden Bears,2007-11-28,26.797738100000004,included_game_day
+2008,25,California Golden Bears,2007-12-01,48.16850129,included_game_day
+2008,25,California Golden Bears,2007-12-05,73.676925293,included_game_day
+2008,25,California Golden Bears,2007-12-09,65.1978355752,included_game_day
+2008,25,California Golden Bears,2007-12-20,65.058471787254,included_game_day
+2008,25,California Golden Bears,2007-12-22,58.6548479711206,included_game_day
+2008,25,California Golden Bears,2007-12-28,86.14599341007755,included_game_day
+2008,25,California Golden Bears,2007-12-29,93.16277765151366,included_game_day
+2008,25,California Golden Bears,2008-01-03,98.55502918201077,included_game_day
+2008,25,California Golden Bears,2008-01-05,88.03227136135236,included_game_day
+2008,25,California Golden Bears,2008-01-10,81.28539501477145,included_game_day
+2008,25,California Golden Bears,2008-01-12,84.7160479038733,included_game_day
+2008,25,California Golden Bears,2008-01-17,75.0023318459877,included_game_day
+2008,25,California Golden Bears,2008-01-26,70.85377128447848,included_game_day
+2008,25,California Golden Bears,2008-01-31,84.53393672874792,included_game_day
+2008,25,California Golden Bears,2008-02-02,88.32709176776939,included_game_day
+2008,25,California Golden Bears,2008-02-07,76.73906892440743,included_game_day
+2008,25,California Golden Bears,2008-02-09,49.27436969375509,included_game_day
+2008,25,California Golden Bears,2008-02-14,47.12495732620283,included_game_day
+2008,25,California Golden Bears,2008-02-16,56.798209678826154,included_game_day
+2008,25,California Golden Bears,2008-02-24,57.92295927283198,included_game_day
+2008,25,California Golden Bears,2008-02-28,40.362870284203034,included_game_day
+2008,25,California Golden Bears,2008-03-01,38.28935878450487,included_game_day
+2008,25,California Golden Bears,2008-03-06,43.23202053826952,included_game_day
+2008,25,California Golden Bears,2008-03-08,60.466188868013205,included_game_day
+2008,25,California Golden Bears,2008-03-12,66.12217846224299,included_game_day
+2008,25,California Golden Bears,2008-03-13,55.34391416661495,included_game_day
+2008,25,California Golden Bears,2008-03-19,63.94902746462465,included_game_day
+2008,25,California Golden Bears,2008-03-24,50.30399961094627,included_game_day
+2009,25,California Golden Bears,2008-11-15,9.0,included_game_day
+2009,25,California Golden Bears,2008-11-18,19.990000000000002,included_game_day
+2009,25,California Golden Bears,2008-11-20,39.811,included_game_day
+2009,25,California Golden Bears,2008-11-24,65.7311,included_game_day
+2009,25,California Golden Bears,2008-11-28,85.40931,included_game_day
+2009,25,California Golden Bears,2008-11-29,77.490069,included_game_day
+2009,25,California Golden Bears,2008-12-03,78.08284450000001,included_game_day
+2009,25,California Golden Bears,2008-12-07,56.291544040000005,included_game_day
+2009,25,California Golden Bears,2008-12-10,62.439430102200006,included_game_day
+2009,25,California Golden Bears,2008-12-20,64.409178598427,included_game_day
+2009,25,California Golden Bears,2008-12-22,84.64287509287941,included_game_day
+2009,25,California Golden Bears,2008-12-27,104.40667545974847,included_game_day
+2009,25,California Golden Bears,2008-12-28,112.54692590879831,included_game_day
+2009,25,California Golden Bears,2009-01-02,118.79609241779964,included_game_day
+2009,25,California Golden Bears,2009-01-04,130.43873703419905,included_game_day
+2009,25,California Golden Bears,2009-01-08,132.01862406014322,included_game_day
+2009,25,California Golden Bears,2009-01-10,135.2773684346681,included_game_day
+2009,25,California Golden Bears,2009-01-17,127.0893012218684,included_game_day
+2009,25,California Golden Bears,2009-01-22,104.63498779408275,included_game_day
+2009,25,California Golden Bears,2009-01-24,94.06626870806099,included_game_day
+2009,25,California Golden Bears,2009-01-29,86.18344246801564,included_game_day
+2009,25,California Golden Bears,2009-01-31,78.26253028514951,included_game_day
+2009,25,California Golden Bears,2009-02-05,96.25515492247641,included_game_day
+2009,25,California Golden Bears,2009-02-07,97.89251223460323,included_game_day
+2009,25,California Golden Bears,2009-02-14,99.64968009970242,included_game_day
+2009,25,California Golden Bears,2009-02-19,106.4554693465992,included_game_day
+2009,25,California Golden Bears,2009-02-21,90.97750060193228,included_game_day
+2009,25,California Golden Bears,2009-02-26,89.61461358606927,included_game_day
+2009,25,California Golden Bears,2009-02-28,87.990564784975,included_game_day
+2009,25,California Golden Bears,2009-03-05,97.73621520940405,included_game_day
+2009,25,California Golden Bears,2009-03-07,84.52550879904872,included_game_day
+2009,25,California Golden Bears,2009-03-12,79.79009212618263,included_game_day
+2009,25,California Golden Bears,2009-03-19,67.50452836329546,included_game_day
+2010,25,California Golden Bears,2009-11-09,2.0,included_game_day
+2010,25,California Golden Bears,2009-11-11,32.8,included_game_day
+2010,25,California Golden Bears,2009-11-19,13.829999999999998,included_game_day
+2010,25,California Golden Bears,2009-11-20,8.868299999999998,included_game_day
+2010,25,California Golden Bears,2009-11-24,34.68147,included_game_day
+2010,25,California Golden Bears,2009-11-29,48.759212,included_game_day
+2010,25,California Golden Bears,2009-12-02,47.1678608,included_game_day
+2010,25,California Golden Bears,2009-12-05,66.49851794,included_game_day
+2010,25,California Golden Bears,2009-12-09,91.279719681,included_game_day
+2010,25,California Golden Bears,2009-12-22,86.69039973849577,included_game_day
+2010,25,California Golden Bears,2009-12-28,104.34940284614619,included_game_day
+2010,25,California Golden Bears,2009-12-29,110.14765874729075,included_game_day
+2010,25,California Golden Bears,2010-01-02,124.7396318767774,included_game_day
+2010,25,California Golden Bears,2010-01-06,109.31254558521525,included_game_day
+2010,25,California Golden Bears,2010-01-09,109.8394135369769,included_game_day
+2010,25,California Golden Bears,2010-01-14,110.78775784068453,included_game_day
+2010,25,California Golden Bears,2010-01-16,94.35006333214928,included_game_day
+2010,25,California Golden Bears,2010-01-21,115.2466423460413,included_game_day
+2010,25,California Golden Bears,2010-01-23,102.08244760576575,included_game_day
+2010,25,California Golden Bears,2010-01-28,112.57532504394887,included_game_day
+2010,25,California Golden Bears,2010-01-31,107.80787323250715,included_game_day
+2010,25,California Golden Bears,2010-02-04,103.29908475104656,included_game_day
+2010,25,California Golden Bears,2010-02-06,112.42164076783148,included_game_day
+2010,25,California Golden Bears,2010-02-11,123.02681130573025,included_game_day
+2010,25,California Golden Bears,2010-02-13,126.96003805090932,included_game_day
+2010,25,California Golden Bears,2010-02-18,103.65868708505391,included_game_day
+2010,25,California Golden Bears,2010-02-20,109.14792480190758,included_game_day
+2010,25,California Golden Bears,2010-02-25,123.30672987327695,included_game_day
+2010,25,California Golden Bears,2010-02-27,132.857206921402,included_game_day
+2010,25,California Golden Bears,2010-03-06,134.88752152187874,included_game_day
+2010,25,California Golden Bears,2010-03-11,138.25390294928465,included_game_day
+2010,25,California Golden Bears,2010-03-12,140.14879240805192,included_game_day
+2010,25,California Golden Bears,2010-03-13,136.29958810317893,included_game_day
+2010,25,California Golden Bears,2010-03-19,147.02091161251138,included_game_day
+2010,25,California Golden Bears,2010-03-21,138.11765081890093,included_game_day
+2011,25,California Golden Bears,2010-11-16,11.0,included_game_day
+2011,25,California Golden Bears,2010-11-20,33.54,included_game_day
+2011,25,California Golden Bears,2010-11-25,40.107,included_game_day
+2011,25,California Golden Bears,2010-11-26,31.9097,included_game_day
+2011,25,California Golden Bears,2010-11-28,8.74754906,included_game_day
+2011,25,California Golden Bears,2010-12-01,15.159976954000001,included_game_day
+2011,25,California Golden Bears,2010-12-04,29.2778089786,included_game_day
+2011,25,California Golden Bears,2010-12-08,11.72829356874,included_game_day
+2011,25,California Golden Bears,2010-12-12,10.321389841865999,included_game_day
+2011,25,California Golden Bears,2010-12-18,15.22829674877934,included_game_day
+2011,25,California Golden Bears,2010-12-22,10.334579577042126,included_game_day
+2011,25,California Golden Bears,2010-12-28,22.027360234010175,included_game_day
+2011,25,California Golden Bears,2011-01-02,10.96975148957209,included_game_day
+2011,25,California Golden Bears,2011-01-06,23.19674084559491,included_game_day
+2011,25,California Golden Bears,2011-01-08,27.13174582938325,included_game_day
+2011,25,California Golden Bears,2011-01-13,37.73148000105923,included_game_day
+2011,25,California Golden Bears,2011-01-16,25.531891357258704,included_game_day
+2011,25,California Golden Bears,2011-01-20,29.968072888234133,included_game_day
+2011,25,California Golden Bears,2011-01-22,40.523260099716275,included_game_day
+2011,25,California Golden Bears,2011-01-27,61.73334057621015,included_game_day
+2011,25,California Golden Bears,2011-01-29,62.191894990587045,included_game_day
+2011,25,California Golden Bears,2011-02-03,57.80697508943442,included_game_day
+2011,25,California Golden Bears,2011-02-05,58.420950868679036,included_game_day
+2011,25,California Golden Bears,2011-02-10,35.44846030960535,included_game_day
+2011,25,California Golden Bears,2011-02-12,35.895403106881496,included_game_day
+2011,25,California Golden Bears,2011-02-17,30.943838034390005,included_game_day
+2011,25,California Golden Bears,2011-02-20,36.78239791092685,included_game_day
+2011,25,California Golden Bears,2011-02-24,53.62297226940208,included_game_day
+2011,25,California Golden Bears,2011-02-26,62.04562325789314,included_game_day
+2011,25,California Golden Bears,2011-03-05,75.72743819350727,included_game_day
+2011,25,California Golden Bears,2011-03-10,62.870878707742975,included_game_day
+2011,25,California Golden Bears,2011-03-16,62.46506997253992,included_game_day
+2011,25,California Golden Bears,2011-03-18,52.055312246272806,included_game_day
+2012,25,California Golden Bears,2011-11-11,18.0,included_game_day
+2012,25,California Golden Bears,2011-11-13,41.5,included_game_day
+2012,25,California Golden Bears,2011-11-15,50.75,included_game_day
+2012,25,California Golden Bears,2011-11-21,71.839,included_game_day
+2012,25,California Golden Bears,2011-11-22,33.780499999999996,included_game_day
+2012,25,California Golden Bears,2011-11-26,50.75205,included_game_day
+2012,25,California Golden Bears,2011-11-28,56.408193,included_game_day
+2012,25,California Golden Bears,2011-12-04,57.06786716,included_game_day
+2012,25,California Golden Bears,2011-12-07,89.4791071689,included_game_day
+2012,25,California Golden Bears,2011-12-11,93.40344938201,included_game_day
+2012,25,California Golden Bears,2011-12-16,100.96445069052,included_game_day
+2012,25,California Golden Bears,2011-12-19,110.4208474964511,included_game_day
+2012,25,California Golden Bears,2011-12-23,93.90401951186638,included_game_day
+2012,25,California Golden Bears,2011-12-29,85.54521179942424,included_game_day
+2012,25,California Golden Bears,2011-12-31,94.93590175228393,included_game_day
+2012,25,California Golden Bears,2012-01-05,89.15251778394004,included_game_day
+2012,25,California Golden Bears,2012-01-08,104.8071949483676,included_game_day
+2012,25,California Golden Bears,2012-01-12,102.66869592990437,included_game_day
+2012,25,California Golden Bears,2012-01-14,116.070982597075,included_game_day
+2012,25,California Golden Bears,2012-01-19,114.30809788237623,included_game_day
+2012,25,California Golden Bears,2012-01-21,107.12406784911396,included_game_day
+2012,25,California Golden Bears,2012-01-29,108.19933330150555,included_game_day
+2012,25,California Golden Bears,2012-02-02,99.04016991324801,included_game_day
+2012,25,California Golden Bears,2012-02-04,102.5452583615727,included_game_day
+2012,25,California Golden Bears,2012-02-09,116.10511833162175,included_game_day
+2012,25,California Golden Bears,2012-02-11,126.1939283658398,included_game_day
+2012,25,California Golden Bears,2012-02-16,120.80740006605423,included_game_day
+2012,25,California Golden Bears,2012-02-18,123.05276139236095,included_game_day
+2012,25,California Golden Bears,2012-02-23,119.1785281401858,included_game_day
+2012,25,California Golden Bears,2012-02-26,100.24228649887002,included_game_day
+2012,25,California Golden Bears,2012-03-04,94.10022948230969,included_game_day
+2012,25,California Golden Bears,2012-03-08,98.10226322410941,included_game_day
+2012,25,California Golden Bears,2012-03-09,81.43990306688478,included_game_day
+2012,25,California Golden Bears,2012-03-14,70.41183731453857,included_game_day
+2013,25,California Golden Bears,2012-11-11,9.5,included_game_day
+2013,25,California Golden Bears,2012-11-13,22.25,included_game_day
+2013,25,California Golden Bears,2012-11-16,35.065,included_game_day
+2013,25,California Golden Bears,2012-11-22,34.2585,included_game_day
+2013,25,California Golden Bears,2012-11-24,45.47475,included_game_day
+2013,25,California Golden Bears,2012-11-25,62.5428751,included_game_day
+2013,25,California Golden Bears,2012-12-02,40.67760833,included_game_day
+2013,25,California Golden Bears,2012-12-09,40.7459097095,included_game_day
+2013,25,California Golden Bears,2012-12-15,36.039204808719,included_game_day
+2013,25,California Golden Bears,2012-12-18,34.5611155353471,included_game_day
+2013,25,California Golden Bears,2012-12-22,53.603728319542384,included_game_day
+2013,25,California Golden Bears,2012-12-29,42.07621920224513,included_game_day
+2013,25,California Golden Bears,2013-01-03,34.82464237624992,included_game_day
+2013,25,California Golden Bears,2013-01-05,43.23131421152999,included_game_day
+2013,25,California Golden Bears,2013-01-09,22.93189870383057,included_game_day
+2013,25,California Golden Bears,2013-01-12,33.971906982332435,included_game_day
+2013,25,California Golden Bears,2013-01-19,27.484196641638427,included_game_day
+2013,25,California Golden Bears,2013-01-24,35.98779560948271,included_game_day
+2013,25,California Golden Bears,2013-01-27,33.27836265386827,included_game_day
+2013,25,California Golden Bears,2013-01-31,32.512223910918145,included_game_day
+2013,25,California Golden Bears,2013-02-02,39.00159328346774,included_game_day
+2013,25,California Golden Bears,2013-02-07,41.98110557917819,included_game_day
+2013,25,California Golden Bears,2013-02-10,62.556799612165875,included_game_day
+2013,25,California Golden Bears,2013-02-14,73.75853340929147,included_game_day
+2013,25,California Golden Bears,2013-02-17,76.57953291295856,included_game_day
+2013,25,California Golden Bears,2013-02-21,82.3220472512092,included_game_day
+2013,25,California Golden Bears,2013-02-23,80.26555258906423,included_game_day
+2013,25,California Golden Bears,2013-02-28,87.74133063876447,included_game_day
+2013,25,California Golden Bears,2013-03-02,100.89151863980234,included_game_day
+2013,25,California Golden Bears,2013-03-06,82.43187516816162,included_game_day
+2013,25,California Golden Bears,2013-03-14,65.98125190168439,included_game_day
+2013,25,California Golden Bears,2013-03-21,72.3926266970882,included_game_day
+2013,25,California Golden Bears,2013-03-23,75.16469689031335,included_game_day
+2014,25,California Golden Bears,2013-11-09,16.0,included_game_day
+2014,25,California Golden Bears,2013-11-12,38.4,included_game_day
+2014,25,California Golden Bears,2013-11-15,30.98,included_game_day
+2014,25,California Golden Bears,2013-11-18,49.982,included_game_day
+2014,25,California Golden Bears,2013-11-25,57.7357,included_game_day
+2014,25,California Golden Bears,2013-11-26,46.087521,included_game_day
+2014,25,California Golden Bears,2013-11-27,27.906173400000004,included_game_day
+2014,25,California Golden Bears,2013-12-02,45.27812832000001,included_game_day
+2014,25,California Golden Bears,2013-12-06,39.384132300400005,included_game_day
+2014,25,California Golden Bears,2013-12-10,38.300038194390005,included_game_day
+2014,25,California Golden Bears,2013-12-14,42.336555159521005,included_game_day
+2014,25,California Golden Bears,2013-12-22,37.385285635053705,included_game_day
+2014,25,California Golden Bears,2013-12-28,53.852667846888274,included_game_day
+2014,25,California Golden Bears,2014-01-02,65.9380861041194,included_game_day
+2014,25,California Golden Bears,2014-01-09,86.00352795919834,included_game_day
+2014,25,California Golden Bears,2014-01-11,89.21316909824888,included_game_day
+2014,25,California Golden Bears,2014-01-15,108.98283449303312,included_game_day
+2014,25,California Golden Bears,2014-01-18,114.99006009457973,included_game_day
+2014,25,California Golden Bears,2014-01-22,95.37789325706957,included_game_day
+2014,25,California Golden Bears,2014-01-26,90.72287466080215,included_game_day
+2014,25,California Golden Bears,2014-01-29,77.49945306098766,included_game_day
+2014,25,California Golden Bears,2014-02-01,85.99021527577712,included_game_day
+2014,25,California Golden Bears,2014-02-05,72.46236513030661,included_game_day
+2014,25,California Golden Bears,2014-02-12,69.0979203957617,included_game_day
+2014,25,California Golden Bears,2014-02-15,80.22267293501992,included_game_day
+2014,25,California Golden Bears,2014-02-19,63.81564613711994,included_game_day
+2014,25,California Golden Bears,2014-02-23,65.61984066789555,included_game_day
+2014,25,California Golden Bears,2014-02-26,52.021701306069666,included_game_day
+2014,25,California Golden Bears,2014-03-01,40.679070968707805,included_game_day
+2014,25,California Golden Bears,2014-03-05,40.61911965012987,included_game_day
+2014,25,California Golden Bears,2014-03-08,40.993418675618756,included_game_day
+2014,25,California Golden Bears,2014-03-13,39.776401901585125,included_game_day
+2014,25,California Golden Bears,2014-03-19,44.475747971946575,included_game_day
+2014,25,California Golden Bears,2014-03-24,57.333778387373975,included_game_day
+2014,25,California Golden Bears,2014-03-26,63.09485278711679,included_game_day
+2015,25,California Golden Bears,2014-11-14,31.0,included_game_day
+2015,25,California Golden Bears,2014-11-16,54.5,included_game_day
+2015,25,California Golden Bears,2014-11-20,68.2,included_game_day
+2015,25,California Golden Bears,2014-11-21,52.230000000000004,included_game_day
+2015,25,California Golden Bears,2014-11-26,64.307,included_game_day
+2015,25,California Golden Bears,2014-11-30,63.7204892,included_game_day
+2015,25,California Golden Bears,2014-12-03,54.51158136,included_game_day
+2015,25,California Golden Bears,2014-12-07,55.897379264,included_game_day
+2015,25,California Golden Bears,2014-12-10,55.918374831600005,included_game_day
+2015,25,California Golden Bears,2014-12-13,55.23930343074001,included_game_day
+2015,25,California Golden Bears,2014-12-19,61.56188190768621,included_game_day
+2015,25,California Golden Bears,2014-12-22,56.15874042895959,included_game_day
+2015,25,California Golden Bears,2014-12-28,42.44028567500716,included_game_day
+2015,25,California Golden Bears,2015-01-02,48.73170759100561,included_game_day
+2015,25,California Golden Bears,2015-01-04,37.364654028535156,included_game_day
+2015,25,California Golden Bears,2015-01-07,21.57107847163692,included_game_day
+2015,25,California Golden Bears,2015-01-11,4.725111060297436,included_game_day
+2015,25,California Golden Bears,2015-01-14,-1.2979034920257577,included_game_day
+2015,25,California Golden Bears,2015-01-22,-34.80225728270352,included_game_day
+2015,25,California Golden Bears,2015-01-24,-41.0795457591555,included_game_day
+2015,25,California Golden Bears,2015-01-29,-26.846301726975625,included_game_day
+2015,25,California Golden Bears,2015-02-01,-14.010176749749078,included_game_day
+2015,25,California Golden Bears,2015-02-05,-16.54826955892136,included_game_day
+2015,25,California Golden Bears,2015-02-07,-9.088207346213222,included_game_day
+2015,25,California Golden Bears,2015-02-12,5.462063179275928,included_game_day
+2015,25,California Golden Bears,2015-02-15,11.22545407093193,included_game_day
+2015,25,California Golden Bears,2015-02-21,9.229790251202335,included_game_day
+2015,25,California Golden Bears,2015-02-25,2.282891888279279,included_game_day
+2015,25,California Golden Bears,2015-03-01,17.74260700641259,included_game_day
+2015,25,California Golden Bears,2015-03-05,2.077948358520242,included_game_day
+2015,25,California Golden Bears,2015-03-07,4.928901725569255,included_game_day
+2015,25,California Golden Bears,2015-03-11,29.669845211998044,included_game_day
+2015,25,California Golden Bears,2015-03-12,28.70726665048274,included_game_day
+2016,25,California Golden Bears,2015-11-13,29.0,included_game_day
+2016,25,California Golden Bears,2015-11-16,41.5,included_game_day
+2016,25,California Golden Bears,2015-11-23,56.9109,included_game_day
+2016,25,California Golden Bears,2015-11-26,39.23681,included_game_day
+2016,25,California Golden Bears,2015-11-27,35.069682,included_game_day
+2016,25,California Golden Bears,2015-12-01,40.8029138,included_game_day
+2016,25,California Golden Bears,2015-12-05,47.9489486,included_game_day
+2016,25,California Golden Bears,2015-12-09,47.50237886,included_game_day
+2016,25,California Golden Bears,2015-12-12,51.049795950800004,included_game_day
+2016,25,California Golden Bears,2015-12-19,65.467463773454,included_game_day
+2016,25,California Golden Bears,2015-12-22,72.1325418097166,included_game_day
+2016,25,California Golden Bears,2015-12-28,90.3819964213006,included_game_day
+2016,25,California Golden Bears,2016-01-01,100.11798785910293,included_game_day
+2016,25,California Golden Bears,2016-01-03,109.77906548007265,included_game_day
+2016,25,California Golden Bears,2016-01-06,105.02297027331797,included_game_day
+2016,25,California Golden Bears,2016-01-09,96.55106431686139,included_game_day
+2016,25,California Golden Bears,2016-01-14,87.68340761035518,included_game_day
+2016,25,California Golden Bears,2016-01-21,85.32211915531683,included_game_day
+2016,25,California Golden Bears,2016-01-23,90.96174739818831,included_game_day
+2016,25,California Golden Bears,2016-01-27,85.05073013818135,included_game_day
+2016,25,California Golden Bears,2016-01-31,79.49636855253286,included_game_day
+2016,25,California Golden Bears,2016-02-06,85.33612831880168,included_game_day
+2016,25,California Golden Bears,2016-02-11,108.96832335791049,included_game_day
+2016,25,California Golden Bears,2016-02-13,112.64206706726534,included_game_day
+2016,25,California Golden Bears,2016-02-18,113.61335981582506,included_game_day
+2016,25,California Golden Bears,2016-02-21,116.46165245273923,included_game_day
+2016,25,California Golden Bears,2016-02-25,123.27954539349336,included_game_day
+2016,25,California Golden Bears,2016-02-28,136.0557431256637,included_game_day
+2016,25,California Golden Bears,2016-03-03,137.37564554220054,included_game_day
+2016,25,California Golden Bears,2016-03-05,130.4526078087774,included_game_day
+2016,25,California Golden Bears,2016-03-10,131.56796892455213,included_game_day
+2016,25,California Golden Bears,2016-03-11,129.29487081901271,included_game_day
+2016,25,California Golden Bears,2016-03-18,114.04434822658013,included_game_day
+2017,25,California Golden Bears,2016-11-11,26.0,included_game_day
+2017,25,California Golden Bears,2016-11-16,29.63,included_game_day
+2017,25,California Golden Bears,2016-11-21,13.697,included_game_day
+2017,25,California Golden Bears,2016-11-25,19.14857,included_game_day
+2017,25,California Golden Bears,2016-11-27,26.9646747,included_game_day
+2017,25,California Golden Bears,2016-11-30,32.50247363,included_game_day
+2017,25,California Golden Bears,2016-12-03,44.382727720999995,included_game_day
+2017,25,California Golden Bears,2016-12-06,51.12252064089999,included_game_day
+2017,25,California Golden Bears,2016-12-07,48.372382956509995,included_game_day
+2017,25,California Golden Bears,2016-12-10,63.581060687858994,included_game_day
+2017,25,California Golden Bears,2016-12-17,79.2150172848331,included_game_day
+2017,25,California Golden Bears,2016-12-21,80.27527403140009,included_game_day
+2017,25,California Golden Bears,2016-12-30,75.03419387691085,included_game_day
+2017,25,California Golden Bears,2017-01-01,82.39277308960001,included_game_day
+2017,25,California Golden Bears,2017-01-05,81.86428040927613,included_game_day
+2017,25,California Golden Bears,2017-01-08,84.13009622125512,included_game_day
+2017,25,California Golden Bears,2017-01-12,85.61519213697484,included_game_day
+2017,25,California Golden Bears,2017-01-14,74.06658123118692,included_game_day
+2017,25,California Golden Bears,2017-01-19,62.76216935826296,included_game_day
+2017,25,California Golden Bears,2017-01-21,61.65275691197037,included_game_day
+2017,25,California Golden Bears,2017-01-29,65.62221009756269,included_game_day
+2017,25,California Golden Bears,2017-02-02,69.6379825090116,included_game_day
+2017,25,California Golden Bears,2017-02-05,75.11379292863809,included_game_day
+2017,25,California Golden Bears,2017-02-08,98.01023228717959,included_game_day
+2017,25,California Golden Bears,2017-02-11,97.30006821982268,included_game_day
+2017,25,California Golden Bears,2017-02-17,87.79242825084594,included_game_day
+2017,25,California Golden Bears,2017-02-22,91.82350751609938,included_game_day
+2017,25,California Golden Bears,2017-02-24,103.95694240391676,included_game_day
+2017,25,California Golden Bears,2017-03-02,74.46200942554148,included_game_day
+2017,25,California Golden Bears,2017-03-04,67.99386668693668,included_game_day
+2017,25,California Golden Bears,2017-03-08,59.32632815349901,included_game_day
+2017,25,California Golden Bears,2017-03-09,66.93075216963899,included_game_day
+2017,25,California Golden Bears,2017-03-10,70.21812413215835,included_game_day
+2018,25,California Golden Bears,2017-11-10,-11.0,included_game_day
+2018,25,California Golden Bears,2017-11-12,-11.2,included_game_day
+2018,25,California Golden Bears,2017-11-16,-1.4800000000000004,included_game_day
+2018,25,California Golden Bears,2017-11-20,-5.372000000000001,included_game_day
+2018,25,California Golden Bears,2017-11-21,-18.40381,included_game_day
+2018,25,California Golden Bears,2017-11-28,-2.757546999999999,included_game_day
+2018,25,California Golden Bears,2017-12-02,-11.52182818,included_game_day
+2018,25,California Golden Bears,2017-12-06,-43.6529191933,included_game_day
+2018,25,California Golden Bears,2017-12-09,-26.784551370770004,included_game_day
+2018,25,California Golden Bears,2017-12-16,-22.913775306704004,included_game_day
+2018,25,California Golden Bears,2017-12-19,4.318650944145496,included_game_day
+2018,25,California Golden Bears,2017-12-21,-21.873885529853354,included_game_day
+2018,25,California Golden Bears,2017-12-30,-15.113046491931499,included_game_day
+2018,25,California Golden Bears,2018-01-04,-27.787520685267047,included_game_day
+2018,25,California Golden Bears,2018-01-06,-44.624113200254854,included_game_day
+2018,25,California Golden Bears,2018-01-11,-42.74027079899508,included_game_day
+2018,25,California Golden Bears,2018-01-13,-62.20926475633351,included_game_day
+2018,25,California Golden Bears,2018-01-17,-68.67608709272811,included_game_day
+2018,25,California Golden Bears,2018-01-20,-64.03082642412059,included_game_day
+2018,25,California Golden Bears,2018-01-25,-60.580897125725265,included_game_day
+2018,25,California Golden Bears,2018-01-28,-59.66663501493893,included_game_day
+2018,25,California Golden Bears,2018-02-01,-62.4101347763251,included_game_day
+2018,25,California Golden Bears,2018-02-03,-51.02214049639804,included_game_day
+2018,25,California Golden Bears,2018-02-07,-42.96673268332714,included_game_day
+2018,25,California Golden Bears,2018-02-10,-63.07703737183772,included_game_day
+2018,25,California Golden Bears,2018-02-18,-58.19957066083213,included_game_day
+2018,25,California Golden Bears,2018-02-22,-62.7042037320386,included_game_day
+2018,25,California Golden Bears,2018-02-24,-72.92175717734168,included_game_day
+2018,25,California Golden Bears,2018-03-01,-86.62319899965466,included_game_day
+2018,25,California Golden Bears,2018-03-03,-75.22235487084924,included_game_day
+2018,25,California Golden Bears,2018-03-07,-79.68509191481438,included_game_day
+2019,25,California Golden Bears,2018-11-09,-17.0,included_game_day
+2019,25,California Golden Bears,2018-11-13,-5.109999999999999,included_game_day
+2019,25,California Golden Bears,2018-11-19,-3.3039999999999994,included_game_day
+2019,25,California Golden Bears,2018-11-20,-17.813112999999998,included_game_day
+2019,25,California Golden Bears,2018-11-26,-10.456179699999998,included_game_day
+2019,25,California Golden Bears,2018-12-01,-17.31240664,included_game_day
+2019,25,California Golden Bears,2018-12-05,-28.473023310000002,included_game_day
+2019,25,California Golden Bears,2018-12-08,-20.146577418200003,included_game_day
+2019,25,California Golden Bears,2018-12-15,-23.888037787845004,included_game_day
+2019,25,California Golden Bears,2018-12-19,-34.783145124198505,included_game_day
+2019,25,California Golden Bears,2018-12-21,-31.625914298582945,included_game_day
+2019,25,California Golden Bears,2018-12-29,-33.42413095262843,included_game_day
+2019,25,California Golden Bears,2019-01-03,-31.602067602656536,included_game_day
+2019,25,California Golden Bears,2019-01-05,-37.36252435289574,included_game_day
+2019,25,California Golden Bears,2019-01-09,-45.65251849012732,included_game_day
+2019,25,California Golden Bears,2019-01-12,-60.78240879628116,included_game_day
+2019,25,California Golden Bears,2019-01-17,-77.9991902759703,included_game_day
+2019,25,California Golden Bears,2019-01-19,-77.18550512757027,included_game_day
+2019,25,California Golden Bears,2019-01-24,-77.7329426218243,included_game_day
+2019,25,California Golden Bears,2019-01-26,-87.56465239553303,included_game_day
+2019,25,California Golden Bears,2019-02-03,-82.85625765516036,included_game_day
+2019,25,California Golden Bears,2019-02-06,-78.38978179256284,included_game_day
+2019,25,California Golden Bears,2019-02-09,-72.56297840546104,included_game_day
+2019,25,California Golden Bears,2019-02-13,-73.55573651032236,included_game_day
+2019,25,California Golden Bears,2019-02-16,-88.64852491325699,included_game_day
+2019,25,California Golden Bears,2019-02-21,-101.42153486920422,included_game_day
+2019,25,California Golden Bears,2019-02-24,-90.7611550266198,included_game_day
+2019,25,California Golden Bears,2019-02-28,-71.49783452010615,included_game_day
+2019,25,California Golden Bears,2019-03-02,-65.0874698686754,included_game_day
+2019,25,California Golden Bears,2019-03-07,-44.62222308015008,included_game_day
+2019,25,California Golden Bears,2019-03-13,-37.07189334657279,included_game_day
+2020,25,California Golden Bears,2019-11-05,13.0,included_game_day
+2020,25,California Golden Bears,2019-11-12,13.18,included_game_day
+2020,25,California Golden Bears,2019-11-15,29.94,included_game_day
+2020,25,California Golden Bears,2019-11-18,24.92651,included_game_day
+2020,25,California Golden Bears,2019-11-21,-5.113641000000001,included_game_day
+2020,25,California Golden Bears,2019-11-22,-19.4030509,included_game_day
+2020,25,California Golden Bears,2019-11-26,-18.95256291,included_game_day
+2020,25,California Golden Bears,2019-12-04,-22.403973616000002,included_game_day
+2020,25,California Golden Bears,2019-12-07,-35.7616590975,included_game_day
+2020,25,California Golden Bears,2019-12-11,-30.870994581352,included_game_day
+2020,25,California Golden Bears,2019-12-14,-37.2100896671148,included_game_day
+2020,25,California Golden Bears,2019-12-21,-37.21257016558812,included_game_day
+2020,25,California Golden Bears,2019-12-29,-41.14975811913157,included_game_day
+2020,25,California Golden Bears,2020-01-02,-42.090485336215025,included_game_day
+2020,25,California Golden Bears,2020-01-09,-30.953428978658557,included_game_day
+2020,25,California Golden Bears,2020-01-11,-18.617510587415083,included_game_day
+2020,25,California Golden Bears,2020-01-16,-42.200115787360886,included_game_day
+2020,25,California Golden Bears,2020-01-19,-46.4042381731147,included_game_day
+2020,25,California Golden Bears,2020-01-26,-32.50589050826143,included_game_day
+2020,25,California Golden Bears,2020-01-30,-26.891618854243326,included_game_day
+2020,25,California Golden Bears,2020-02-01,-21.429510098724148,included_game_day
+2020,25,California Golden Bears,2020-02-06,-9.118318947186047,included_game_day
+2020,25,California Golden Bears,2020-02-08,-17.993023553823875,included_game_day
+2020,25,California Golden Bears,2020-02-13,-24.657265814846667,included_game_day
+2020,25,California Golden Bears,2020-02-16,-22.382320540429248,included_game_day
+2020,25,California Golden Bears,2020-02-19,-6.953747968747589,included_game_day
+2020,25,California Golden Bears,2020-02-22,-35.53404092208436,included_game_day
+2020,25,California Golden Bears,2020-02-27,-10.154061060135255,included_game_day
+2020,25,California Golden Bears,2020-02-29,-3.27258982484455,included_game_day
+2020,25,California Golden Bears,2020-03-05,-23.598964831355055,included_game_day
+2020,25,California Golden Bears,2020-03-07,-33.00782866802585,included_game_day
+2020,25,California Golden Bears,2020-03-11,-10.436685907821616,included_game_day
+2021,25,California Golden Bears,2020-11-25,-5.0,included_game_day
+2021,25,California Golden Bears,2020-11-30,4.550000000000001,included_game_day
+2021,25,California Golden Bears,2020-12-03,-5.357999999999999,included_game_day
+2021,25,California Golden Bears,2020-12-06,-19.385199999999998,included_game_day
+2021,25,California Golden Bears,2020-12-09,-26.176679999999998,included_game_day
+2021,25,California Golden Bears,2020-12-13,-15.831725599999997,included_game_day
+2021,25,California Golden Bears,2020-12-19,14.289118280000002,included_game_day
+2021,25,California Golden Bears,2020-12-22,10.482332452000001,included_game_day
+2021,25,California Golden Bears,2020-12-31,7.41082276076,included_game_day
+2021,25,California Golden Bears,2021-01-02,0.3848501264840003,included_game_day
+2021,25,California Golden Bears,2021-01-07,-9.690517760124301,included_game_day
+2021,25,California Golden Bears,2021-01-09,-12.0296176156944,included_game_day
+2021,25,California Golden Bears,2021-01-14,-26.832567131953923,included_game_day
+2021,25,California Golden Bears,2021-01-16,-8.551666598101086,included_game_day
+2021,25,California Golden Bears,2021-01-21,-6.862989860940642,included_game_day
+2021,25,California Golden Bears,2021-01-23,-8.467061050143545,included_game_day
+2021,25,California Golden Bears,2021-01-28,-8.845394765414387,included_game_day
+2021,25,California Golden Bears,2021-01-30,-18.32865428937938,included_game_day
+2021,25,California Golden Bears,2021-02-04,-29.153132333249822,included_game_day
+2021,25,California Golden Bears,2021-02-07,-22.812714768346176,included_game_day
+2021,25,California Golden Bears,2021-02-11,-18.80260967917242,included_game_day
+2021,25,California Golden Bears,2021-02-13,1.290995264144989,included_game_day
+2021,25,California Golden Bears,2021-02-18,-25.492053410003088,included_game_day
+2021,25,California Golden Bears,2021-02-20,-36.01233077777164,included_game_day
+2021,25,California Golden Bears,2021-02-25,-35.23655244870605,included_game_day
+2021,25,California Golden Bears,2021-02-27,-39.152501402509685,included_game_day
+2021,25,California Golden Bears,2021-03-10,-17.1762327336884,included_game_day
+2021,25,California Golden Bears,2021-03-11,-6.813295386003956,included_game_day
+2022,25,California Golden Bears,2021-11-09,-16.0,included_game_day
+2022,25,California Golden Bears,2021-11-13,-14.1,included_game_day
+2022,25,California Golden Bears,2021-11-15,-9.57,included_game_day
+2022,25,California Golden Bears,2021-11-18,-6.662000000000001,included_game_day
+2022,25,California Golden Bears,2021-11-22,-20.355800000000002,included_game_day
+2022,25,California Golden Bears,2021-11-24,-14.785630000000001,included_game_day
+2022,25,California Golden Bears,2021-11-28,-5.134874400000001,included_game_day
+2022,25,California Golden Bears,2021-12-02,2.688921079999999,included_game_day
+2022,25,California Golden Bears,2021-12-05,1.7478232192999998,included_game_day
+2022,25,California Golden Bears,2021-12-08,17.305336306039997,included_game_day
+2022,25,California Golden Bears,2021-12-11,28.774369307005998,included_game_day
+2022,25,California Golden Bears,2021-12-19,25.85598852998663,included_game_day
+2022,25,California Golden Bears,2021-12-22,36.51240720318133,included_game_day
+2022,25,California Golden Bears,2022-01-02,54.08675598643595,included_game_day
+2022,25,California Golden Bears,2022-01-06,41.27321774330485,included_game_day
+2022,25,California Golden Bears,2022-01-08,35.4641326360557,included_game_day
+2022,25,California Golden Bears,2022-01-12,25.23348375833358,included_game_day
+2022,25,California Golden Bears,2022-01-15,24.74610782855034,included_game_day
+2022,25,California Golden Bears,2022-01-23,13.390094534409041,included_game_day
+2022,25,California Golden Bears,2022-01-27,2.840423611338508,included_game_day
+2022,25,California Golden Bears,2022-01-29,6.643974145572269,included_game_day
+2022,25,California Golden Bears,2022-02-01,4.2097308653248895,included_game_day
+2022,25,California Golden Bears,2022-02-03,-19.954487460337536,included_game_day
+2022,25,California Golden Bears,2022-02-05,-14.988950458875996,included_game_day
+2022,25,California Golden Bears,2022-02-09,-14.745479927441512,included_game_day
+2022,25,California Golden Bears,2022-02-12,13.068377523541066,included_game_day
+2022,25,California Golden Bears,2022-02-17,5.589948394649719,included_game_day
+2022,25,California Golden Bears,2022-02-19,1.973495224064337,included_game_day
+2022,25,California Golden Bears,2022-02-26,14.002348594158487,included_game_day
+2022,25,California Golden Bears,2022-03-03,-5.6627119497508005,included_game_day
+2022,25,California Golden Bears,2022-03-05,-15.091858828213564,included_game_day
+2022,25,California Golden Bears,2022-03-09,-15.529776152977691,included_game_day
+2023,25,California Golden Bears,2022-11-07,-13.0,included_game_day
+2023,25,California Golden Bears,2022-11-11,-20.6,included_game_day
+2023,25,California Golden Bears,2022-11-15,-20.6,included_game_day
+2023,25,California Golden Bears,2022-11-18,-31.9877,included_game_day
+2023,25,California Golden Bears,2022-11-21,-37.15593,included_game_day
+2023,25,California Golden Bears,2022-11-25,-41.613327,included_game_day
+2023,25,California Golden Bears,2022-11-26,-41.0248443,included_game_day
+2023,25,California Golden Bears,2022-11-30,-53.425699213,included_game_day
+2023,25,California Golden Bears,2022-12-04,-50.8491351517,included_game_day
+2023,25,California Golden Bears,2022-12-07,-54.08026085583,included_game_day
+2023,25,California Golden Bears,2022-12-10,-69.110601969594,included_game_day
+2023,25,California Golden Bears,2022-12-18,-67.0929169066059,included_game_day
+2023,25,California Golden Bears,2022-12-21,-43.9832727831229,included_game_day
+2023,25,California Golden Bears,2022-12-29,-48.682966525387066,included_game_day
+2023,25,California Golden Bears,2022-12-31,-36.19150253231578,included_game_day
+2023,25,California Golden Bears,2023-01-06,-9.40610382720769,included_game_day
+2023,25,California Golden Bears,2023-01-11,-13.529882161745565,included_game_day
+2023,25,California Golden Bears,2023-01-14,-9.737628082887838,included_game_day
+2023,25,California Golden Bears,2023-01-18,-35.540839640499804,included_game_day
+2023,25,California Golden Bears,2023-01-22,-59.04061427918593,included_game_day
+2023,25,California Golden Bears,2023-01-28,-76.15579627747397,included_game_day
+2023,25,California Golden Bears,2023-02-02,-73.85454995638362,included_game_day
+2023,25,California Golden Bears,2023-02-05,-70.89635696603486,included_game_day
+2023,25,California Golden Bears,2023-02-09,-75.31517412212597,included_game_day
+2023,25,California Golden Bears,2023-02-11,-74.60426236625572,included_game_day
+2023,25,California Golden Bears,2023-02-16,-94.48540930488032,included_game_day
+2023,25,California Golden Bears,2023-02-18,-102.24569779891524,included_game_day
+2023,25,California Golden Bears,2023-02-23,-101.26438087907839,included_game_day
+2023,25,California Golden Bears,2023-02-25,-93.77697192463799,included_game_day
+2023,25,California Golden Bears,2023-03-02,-106.83553780431936,included_game_day
+2023,25,California Golden Bears,2023-03-04,-100.78971518194291,included_game_day
+2023,25,California Golden Bears,2023-03-08,-101.26650420583528,included_game_day
+2024,25,California Golden Bears,2023-11-06,2.0,included_game_day
+2024,25,California Golden Bears,2023-11-10,-10.2,included_game_day
+2024,25,California Golden Bears,2023-11-13,5.470000000000001,included_game_day
+2024,25,California Golden Bears,2023-11-16,-0.9969999999999999,included_game_day
+2024,25,California Golden Bears,2023-11-21,-2.7513,included_game_day
+2024,25,California Golden Bears,2023-11-23,-1.2093699999999994,included_game_day
+2024,25,California Golden Bears,2023-11-25,-5.1003229999999995,included_game_day
+2024,25,California Golden Bears,2023-12-02,9.88202901,included_game_day
+2024,25,California Golden Bears,2023-12-09,11.50257817174,included_game_day
+2024,25,California Golden Bears,2023-12-16,4.357976208662801,included_game_day
+2024,25,California Golden Bears,2023-12-20,5.93325878998432,included_game_day
+2024,25,California Golden Bears,2023-12-29,-1.1934976184397694,included_game_day
+2024,25,California Golden Bears,2023-12-31,-6.133166008312923,included_game_day
+2024,25,California Golden Bears,2024-01-03,-8.813037020502286,included_game_day
+2024,25,California Golden Bears,2024-01-06,5.239025469383876,included_game_day
+2024,25,California Golden Bears,2024-01-10,12.530129996293656,included_game_day
+2024,25,California Golden Bears,2024-01-13,13.996021390679005,included_game_day
+2024,25,California Golden Bears,2024-01-18,12.46952953886441,included_game_day
+2024,25,California Golden Bears,2024-01-20,22.929666673823505,included_game_day
+2024,25,California Golden Bears,2024-01-26,23.82770034507356,included_game_day
+2024,25,California Golden Bears,2024-02-01,12.363637497921097,included_game_day
+2024,25,California Golden Bears,2024-02-03,28.252821220274964,included_game_day
+2024,25,California Golden Bears,2024-02-07,29.739982301379904,included_game_day
+2024,25,California Golden Bears,2024-02-10,27.611410979857613,included_game_day
+2024,25,California Golden Bears,2024-02-15,19.606948904701973,included_game_day
+2024,25,California Golden Bears,2024-02-17,30.411064872031616,included_game_day
+2024,25,California Golden Bears,2024-02-22,28.411284724000943,included_game_day
+2024,25,California Golden Bears,2024-02-24,34.302602458526465,included_game_day
+2024,25,California Golden Bears,2024-02-28,32.914516693932164,included_game_day
+2024,25,California Golden Bears,2024-03-02,8.016733097745714,included_game_day
+2024,25,California Golden Bears,2024-03-07,-12.493932763538112,included_game_day
+2024,25,California Golden Bears,2024-03-13,-20.902465452565174,included_game_day
+2025,25,California Golden Bears,2024-11-04,10.0,included_game_day
+2025,25,California Golden Bears,2024-11-07,23.5,included_game_day
+2025,25,California Golden Bears,2024-11-13,11.74,included_game_day
+2025,25,California Golden Bears,2024-11-17,20.483,included_game_day
+2025,25,California Golden Bears,2024-11-21,20.865380000000002,included_game_day
+2025,25,California Golden Bears,2024-11-24,19.803272,included_game_day
+2025,25,California Golden Bears,2024-11-27,36.540606,included_game_day
+2025,25,California Golden Bears,2024-12-03,42.922938046999995,included_game_day
+2025,25,California Golden Bears,2024-12-07,31.680727350399994,included_game_day
+2025,25,California Golden Bears,2024-12-10,21.125386251415996,included_game_day
+2025,25,California Golden Bears,2024-12-14,32.4832220353454,included_game_day
+2025,25,California Golden Bears,2024-12-21,13.006073450348659,included_game_day
+2025,25,California Golden Bears,2025-01-01,14.804099322615691,included_game_day
+2025,25,California Golden Bears,2025-01-04,13.654658882518715,included_game_day
+2025,25,California Golden Bears,2025-01-08,23.142002667747263,included_game_day
+2025,25,California Golden Bears,2025-01-11,12.888347693712742,included_game_day
+2025,25,California Golden Bears,2025-01-15,-3.6708117378368357,included_game_day
+2025,25,California Golden Bears,2025-01-18,4.98224716872171,included_game_day
+2025,25,California Golden Bears,2025-01-22,18.540740665332834,included_game_day
+2025,25,California Golden Bears,2025-01-25,9.298251384582246,included_game_day
+2025,25,California Golden Bears,2025-01-29,9.866653222700997,included_game_day
+2025,25,California Golden Bears,2025-02-01,-2.7052847199294554,included_game_day
+2025,25,California Golden Bears,2025-02-05,8.744333650701568,included_game_day
+2025,25,California Golden Bears,2025-02-08,2.92127467288266,included_game_day
+2025,25,California Golden Bears,2025-02-12,4.310277813865643,included_game_day
+2025,25,California Golden Bears,2025-02-15,9.002228795782633,included_game_day
+2025,25,California Golden Bears,2025-02-22,8.000069547276139,included_game_day
+2025,25,California Golden Bears,2025-02-26,11.472407851486897,included_game_day
+2025,25,California Golden Bears,2025-03-01,16.024769690307643,included_game_day
+2025,25,California Golden Bears,2025-03-05,13.886090592581862,included_game_day
+2025,25,California Golden Bears,2025-03-08,14.966657400256778,included_game_day
+2025,25,California Golden Bears,2025-03-11,21.0837730655608,included_game_day
+2025,25,California Golden Bears,2025-03-12,17.21895596379507,included_game_day
+2026,25,California Golden Bears,2025-11-03,24.0,included_game_day
+2026,25,California Golden Bears,2025-11-06,28.6,included_game_day
+2026,25,California Golden Bears,2025-11-10,50.04,included_game_day
+2026,25,California Golden Bears,2025-11-13,49.356,included_game_day
+2026,25,California Golden Bears,2025-11-18,48.78907,included_game_day
+2026,25,California Golden Bears,2025-11-21,61.44243,included_game_day
+2026,25,California Golden Bears,2025-11-25,71.10659,included_game_day
+2026,25,California Golden Bears,2025-12-02,67.948654963,included_game_day
+2026,25,California Golden Bears,2025-12-06,68.373744889697,included_game_day
+2026,25,California Golden Bears,2025-12-13,60.4426295452773,included_game_day
+2026,25,California Golden Bears,2025-12-19,88.28164273116215,included_game_day
+2026,25,California Golden Bears,2025-12-21,101.07465535480024,included_game_day
+2026,25,California Golden Bears,2025-12-30,83.71103961646456,included_game_day
+2026,25,California Golden Bears,2026-01-02,79.86705466706658,included_game_day
+2026,25,California Golden Bears,2026-01-07,65.46348428863556,included_game_day
+2026,25,California Golden Bears,2026-01-10,66.20426911903955,included_game_day
+2026,25,California Golden Bears,2026-01-14,58.49291013912783,included_game_day
+2026,25,California Golden Bears,2026-01-17,66.97739945209618,included_game_day
+2026,25,California Golden Bears,2026-01-24,80.38328016566315,included_game_day
+2026,25,California Golden Bears,2026-01-28,76.38352297302612,included_game_day
+2026,25,California Golden Bears,2026-01-31,84.50469850211,included_game_day
+2026,25,California Golden Bears,2026-02-04,79.92893852843929,included_game_day
+2026,25,California Golden Bears,2026-02-07,59.980479656443826,included_game_day
+2026,25,California Golden Bears,2026-02-11,55.58633023664274,included_game_day
+2026,25,California Golden Bears,2026-02-14,65.65785553052696,included_game_day
+2026,25,California Golden Bears,2026-02-21,68.08272211100044,included_game_day
+2026,25,California Golden Bears,2026-02-25,76.13772833438999,included_game_day
+2026,25,California Golden Bears,2026-02-28,51.58216199705778,included_game_day
+2026,25,California Golden Bears,2026-03-04,57.817348208013115,included_game_day
+2026,25,California Golden Bears,2026-03-07,53.899232811602985,included_game_day
+2026,25,California Golden Bears,2026-03-11,51.89513309171134,included_game_day
+2026,25,California Golden Bears,2026-03-18,69.08945652355844,included_game_day
+2026,25,California Golden Bears,2026-03-22,64.38619769360406,included_game_day
+2027,25,California Golden Bears,2026-11-04,9.9,included_game_day
+2027,25,California Golden Bears,2026-11-08,-5.49,included_game_day
+2027,25,California Golden Bears,2026-11-11,-16.541,included_game_day
+2027,25,California Golden Bears,2026-11-14,-17.5468,included_game_day
+2027,25,California Golden Bears,2026-11-19,10.597413,included_game_day
+2027,25,California Golden Bears,2026-11-23,45.862607600000004,included_game_day

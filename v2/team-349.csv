@@ -1,0 +1,1084 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,349,Army,1987-11-27,-19.0,included_game_day
+1988,349,Army,1987-11-28,-8.6,included_game_day
+1988,349,Army,1987-12-02,-10.53,included_game_day
+1988,349,Army,1987-12-05,-3.882999999999999,included_game_day
+1988,349,Army,1987-12-08,-13.7647,included_game_day
+1988,349,Army,1987-12-10,-19.81572,included_game_day
+1988,349,Army,1987-12-28,-33.516367065476,included_game_day
+1988,349,Army,1987-12-29,-53.315983643412395,included_game_day
+1988,349,Army,1988-01-02,-60.40549882501439,included_game_day
+1988,349,Army,1988-01-05,-61.174280319541424,included_game_day
+1988,349,Army,1988-01-11,-71.02730296283414,included_game_day
+1988,349,Army,1988-01-13,-78.09153201397721,included_game_day
+1988,349,Army,1988-01-16,-95.77250161168153,included_game_day
+1988,349,Army,1988-01-19,-92.75276599427671,included_game_day
+1988,349,Army,1988-01-21,-118.64081661999991,included_game_day
+1988,349,Army,1988-01-23,-107.47857619262626,included_game_day
+1988,349,Army,1988-01-25,-108.42063977583828,included_game_day
+1988,349,Army,1988-01-30,-107.96980277570393,included_game_day
+1988,349,Army,1988-02-03,-107.21768169705945,included_game_day
+1988,349,Army,1988-02-06,-104.30617414295659,included_game_day
+1988,349,Army,1988-02-09,-86.69752682431479,included_game_day
+1988,349,Army,1988-02-12,-78.0664862558657,included_game_day
+1988,349,Army,1988-02-17,-77.75170618923086,included_game_day
+1988,349,Army,1988-02-20,-73.89260986961852,included_game_day
+1988,349,Army,1988-02-23,-80.36802512190621,included_game_day
+1988,349,Army,1988-02-27,-80.91369590551089,included_game_day
+1988,349,Army,1988-03-03,-111.94437180793689,included_game_day
+1989,349,Army,1988-11-26,11.0,included_game_day
+1989,349,Army,1988-11-29,0.9000000000000004,included_game_day
+1989,349,Army,1988-12-02,-9.19,included_game_day
+1989,349,Army,1988-12-03,-13.16,included_game_day
+1989,349,Army,1988-12-07,0.36599999999999966,included_game_day
+1989,349,Army,1988-12-10,9.992031,included_game_day
+1989,349,Army,1988-12-12,5.363341300000001,included_game_day
+1989,349,Army,1988-12-30,4.3792503190000005,included_game_day
+1989,349,Army,1989-01-03,9.018184391945086,included_game_day
+1989,349,Army,1989-01-06,10.053025312591465,included_game_day
+1989,349,Army,1989-01-10,-2.421300689125035,included_game_day
+1989,349,Army,1989-01-13,-4.951654997617508,included_game_day
+1989,349,Army,1989-01-16,-1.7529426229028093,included_game_day
+1989,349,Army,1989-01-21,9.098470155892358,included_game_day
+1989,349,Army,1989-01-24,10.769799156156507,included_game_day
+1989,349,Army,1989-01-26,13.237611691539062,included_game_day
+1989,349,Army,1989-01-28,7.351784822529627,included_game_day
+1989,349,Army,1989-01-30,-0.7445029412401993,included_game_day
+1989,349,Army,1989-02-03,-17.516366745868133,included_game_day
+1989,349,Army,1989-02-09,-20.824168657808265,included_game_day
+1989,349,Army,1989-02-11,-12.59068750907096,included_game_day
+1989,349,Army,1989-02-14,-0.21060335852218515,included_game_day
+1989,349,Army,1989-02-18,-17.879325482938665,included_game_day
+1989,349,Army,1989-02-21,-20.077156989219713,included_game_day
+1989,349,Army,1989-02-25,-39.06256354842026,included_game_day
+1989,349,Army,1989-03-02,-44.419393365476544,included_game_day
+1990,349,Army,1989-11-24,-7.0,included_game_day
+1990,349,Army,1989-11-25,-7.2,included_game_day
+1990,349,Army,1989-12-01,-11.8,included_game_day
+1990,349,Army,1989-12-02,-23.1359,included_game_day
+1990,349,Army,1989-12-05,-13.346309999999999,included_game_day
+1990,349,Army,1989-12-07,-23.892319,included_game_day
+1990,349,Army,1989-12-11,-23.10863003,included_game_day
+1990,349,Army,1989-12-30,-27.2521260115913,included_game_day
+1990,349,Army,1990-01-04,-36.23397364459029,included_game_day
+1990,349,Army,1990-01-06,-56.1173088645844,included_game_day
+1990,349,Army,1990-01-09,-50.86623879092518,included_game_day
+1990,349,Army,1990-01-13,-58.539264655305594,included_game_day
+1990,349,Army,1990-01-16,-45.7138030301991,included_game_day
+1990,349,Army,1990-01-18,-45.11645552797323,included_game_day
+1990,349,Army,1990-01-20,-35.98646256068162,included_game_day
+1990,349,Army,1990-01-23,-41.81953013038137,included_game_day
+1990,349,Army,1990-01-26,-49.53544621216014,included_game_day
+1990,349,Army,1990-01-30,-51.16519527776576,included_game_day
+1990,349,Army,1990-02-03,-43.47066933416907,included_game_day
+1990,349,Army,1990-02-08,-55.38554127868858,included_game_day
+1990,349,Army,1990-02-10,-50.89720530323231,included_game_day
+1990,349,Army,1990-02-13,-59.1394390843608,included_game_day
+1990,349,Army,1990-02-17,-70.14037734438506,included_game_day
+1990,349,Army,1990-02-20,-63.54928702516501,included_game_day
+1990,349,Army,1990-02-24,-54.43994588500256,included_game_day
+1990,349,Army,1990-02-27,-64.35747871019748,included_game_day
+1990,349,Army,1990-03-02,-57.778150288963445,included_game_day
+1990,349,Army,1990-03-03,-70.43426952461486,included_game_day
+1991,349,Army,1990-11-23,-2.0,included_game_day
+1991,349,Army,1990-11-24,-17.2,included_game_day
+1991,349,Army,1990-11-27,-22.759999999999998,included_game_day
+1991,349,Army,1990-11-29,-19.375999999999998,included_game_day
+1991,349,Army,1990-12-04,-34.312799999999996,included_game_day
+1991,349,Army,1990-12-07,-58.468199999999996,included_game_day
+1991,349,Army,1990-12-08,-47.444177986999996,included_game_day
+1991,349,Army,1990-12-11,-63.3991016583,included_game_day
+1991,349,Army,1990-12-22,-58.05755838247,included_game_day
+1991,349,Army,1991-01-02,-55.618657803844,included_game_day
+1991,349,Army,1991-01-05,-66.22910299824562,included_game_day
+1991,349,Army,1991-01-08,-59.69641339417724,included_game_day
+1991,349,Army,1991-01-12,-61.63573753040304,included_game_day
+1991,349,Army,1991-01-16,-47.73430219160605,included_game_day
+1991,349,Army,1991-01-19,-69.25228383612337,included_game_day
+1991,349,Army,1991-01-23,-72.64546643832857,included_game_day
+1991,349,Army,1991-01-29,-68.25736534346532,included_game_day
+1991,349,Army,1991-02-02,-76.64570387758268,included_game_day
+1991,349,Army,1991-02-05,-74.29968170250429,included_game_day
+1991,349,Army,1991-02-07,-88.72049581023067,included_game_day
+1991,349,Army,1991-02-09,-87.74871424013527,included_game_day
+1991,349,Army,1991-02-11,-88.83308582748913,included_game_day
+1991,349,Army,1991-02-13,-91.59045147693078,included_game_day
+1991,349,Army,1991-02-16,-108.06585315236673,included_game_day
+1991,349,Army,1991-02-19,-126.07004813848617,included_game_day
+1991,349,Army,1991-02-23,-140.34283655983265,included_game_day
+1991,349,Army,1991-02-25,-136.06686259828277,included_game_day
+1991,349,Army,1991-02-28,-139.43035791158476,included_game_day
+1992,349,Army,1991-11-23,7.0,included_game_day
+1992,349,Army,1991-11-29,-6.390000000000001,included_game_day
+1992,349,Army,1991-11-30,-1.3150000000000004,included_game_day
+1992,349,Army,1991-12-03,-26.102700000000002,included_game_day
+1992,349,Army,1991-12-06,-44.98243000000001,included_game_day
+1992,349,Army,1991-12-07,-58.437041300000004,included_game_day
+1992,349,Army,1991-12-10,-68.00713267,included_game_day
+1992,349,Army,1991-12-21,-82.35397759300001,included_game_day
+1992,349,Army,1991-12-30,-92.7956138985821,included_game_day
+1992,349,Army,1992-01-02,-86.55176769898628,included_game_day
+1992,349,Army,1992-01-04,-88.38787228371389,included_game_day
+1992,349,Army,1992-01-07,-90.56417645709539,included_game_day
+1992,349,Army,1992-01-11,-94.39187557894698,included_game_day
+1992,349,Army,1992-01-14,-98.79327260699671,included_game_day
+1992,349,Army,1992-01-18,-102.11971397666076,included_game_day
+1992,349,Army,1992-01-21,-97.94222610882876,included_game_day
+1992,349,Army,1992-01-25,-88.8354223548166,included_game_day
+1992,349,Army,1992-01-29,-98.06369973252373,included_game_day
+1992,349,Army,1992-02-01,-114.51192993371883,included_game_day
+1992,349,Army,1992-02-05,-117.24745616828719,included_game_day
+1992,349,Army,1992-02-08,-141.83185026304633,included_game_day
+1992,349,Army,1992-02-11,-132.38709064396647,included_game_day
+1992,349,Army,1992-02-15,-117.70154973035756,included_game_day
+1992,349,Army,1992-02-19,-98.65715959647264,included_game_day
+1992,349,Army,1992-02-22,-102.42542577593024,included_game_day
+1992,349,Army,1992-02-24,-100.67974867150213,included_game_day
+1992,349,Army,1992-02-29,-99.54615913321449,included_game_day
+1992,349,Army,1992-03-07,-107.55308594227688,included_game_day
+1993,349,Army,1992-12-01,-30.0,included_game_day
+1993,349,Army,1992-12-04,-37.4,included_game_day
+1993,349,Army,1992-12-08,-52.163,included_game_day
+1993,349,Army,1992-12-19,-72.975454,included_game_day
+1993,349,Army,1992-12-21,-62.77134298,included_game_day
+1993,349,Army,1992-12-29,-60.958398682,included_game_day
+1993,349,Army,1992-12-30,-80.2011186822,included_game_day
+1993,349,Army,1993-01-02,-83.0714671263678,included_game_day
+1993,349,Army,1993-01-05,-98.4802782760923,included_game_day
+1993,349,Army,1993-01-09,-99.19219129063475,included_game_day
+1993,349,Army,1993-01-13,-91.37331312902863,included_game_day
+1993,349,Army,1993-01-14,-105.04428130708637,included_game_day
+1993,349,Army,1993-01-16,-117.486375761861,included_game_day
+1993,349,Army,1993-01-20,-125.88589161719472,included_game_day
+1993,349,Army,1993-01-23,-124.83473660917156,included_game_day
+1993,349,Army,1993-01-27,-126.33008760771168,included_game_day
+1993,349,Army,1993-01-30,-120.94931272804689,included_game_day
+1993,349,Army,1993-02-02,-135.90595480780968,included_game_day
+1993,349,Army,1993-02-06,-152.03210275533849,included_game_day
+1993,349,Army,1993-02-10,-144.28664804879872,included_game_day
+1993,349,Army,1993-02-13,-146.82975562725176,included_game_day
+1993,349,Army,1993-02-17,-153.31536394976214,included_game_day
+1993,349,Army,1993-02-20,-151.6441821157051,included_game_day
+1993,349,Army,1993-02-23,-138.0320487320155,included_game_day
+1993,349,Army,1993-02-27,-141.7294323777685,included_game_day
+1993,349,Army,1993-03-03,-135.00629166514338,included_game_day
+1994,349,Army,1993-11-26,-12.0,included_game_day
+1994,349,Army,1993-11-30,-23.9,included_game_day
+1994,349,Army,1993-12-03,-38.421,included_game_day
+1994,349,Army,1993-12-19,-44.252249,included_game_day
+1994,349,Army,1993-12-27,-58.724441527151896,included_game_day
+1994,349,Army,1993-12-28,-74.2158255122257,included_game_day
+1994,349,Army,1993-12-29,-73.42676938655477,included_game_day
+1994,349,Army,1994-01-03,-78.0681595415235,included_game_day
+1994,349,Army,1994-01-10,-61.85748780169129,included_game_day
+1994,349,Army,1994-01-12,-64.79619776765578,included_game_day
+1994,349,Army,1994-01-15,-63.97248789468375,included_game_day
+1994,349,Army,1994-01-18,-60.50908796936654,included_game_day
+1994,349,Army,1994-01-22,-70.12282148855098,included_game_day
+1994,349,Army,1994-01-25,-77.9869543010029,included_game_day
+1994,349,Army,1994-01-29,-94.71990244015784,included_game_day
+1994,349,Army,1994-02-02,-132.89432634655367,included_game_day
+1994,349,Army,1994-02-05,-147.0924457538857,included_game_day
+1994,349,Army,1994-02-07,-132.21482371817496,included_game_day
+1994,349,Army,1994-02-09,-136.54246380444908,included_game_day
+1994,349,Army,1994-02-12,-147.3604252102323,included_game_day
+1994,349,Army,1994-02-15,-136.63368248914432,included_game_day
+1994,349,Army,1994-02-19,-132.09874281592644,included_game_day
+1994,349,Army,1994-02-22,-116.01856795030838,included_game_day
+1994,349,Army,1994-02-26,-94.47911600436338,included_game_day
+1994,349,Army,1994-03-01,-96.24118061669812,included_game_day
+1994,349,Army,1994-03-04,-93.6508323065659,included_game_day
+1995,349,Army,1994-11-29,0.0,included_game_day
+1995,349,Army,1994-12-02,-19.189,included_game_day
+1995,349,Army,1994-12-06,-21.909297,included_game_day
+1995,349,Army,1994-12-08,-20.175267299999998,included_game_day
+1995,349,Army,1994-12-17,-11.314440569999999,included_game_day
+1995,349,Army,1994-12-20,-11.403625761099999,included_game_day
+1995,349,Army,1994-12-30,-18.892081002719998,included_game_day
+1995,349,Army,1995-01-03,-19.089144836908158,included_game_day
+1995,349,Army,1995-01-07,-30.26358011593139,included_game_day
+1995,349,Army,1995-01-09,-33.66536302552502,included_game_day
+1995,349,Army,1995-01-11,-58.90109009108069,included_game_day
+1995,349,Army,1995-01-14,-46.72479404866088,included_game_day
+1995,349,Army,1995-01-17,-37.76247223209306,included_game_day
+1995,349,Army,1995-01-21,-37.89166679449086,included_game_day
+1995,349,Army,1995-01-25,-35.047760825659516,included_game_day
+1995,349,Army,1995-01-28,-55.98842102939174,included_game_day
+1995,349,Army,1995-01-30,-80.40222706320293,included_game_day
+1995,349,Army,1995-02-01,-67.10046147419764,included_game_day
+1995,349,Army,1995-02-04,-79.99126007476823,included_game_day
+1995,349,Army,1995-02-07,-92.19257317793189,included_game_day
+1995,349,Army,1995-02-11,-121.13502462910259,included_game_day
+1995,349,Army,1995-02-15,-116.12859691680974,included_game_day
+1995,349,Army,1995-02-18,-119.67286425535065,included_game_day
+1995,349,Army,1995-02-22,-139.29405484391967,included_game_day
+1995,349,Army,1995-02-25,-168.72298629250776,included_game_day
+1995,349,Army,1995-03-04,-138.4038146954863,included_game_day
+1995,349,Army,1995-03-05,-137.19487617462673,included_game_day
+1996,349,Army,1995-11-28,-26.0,included_game_day
+1996,349,Army,1995-12-02,-42.922,included_game_day
+1996,349,Army,1995-12-05,-58.92941999999999,included_game_day
+1996,349,Army,1995-12-09,-49.695477999999994,included_game_day
+1996,349,Army,1995-12-12,-63.768530199999994,included_game_day
+1996,349,Army,1995-12-30,-76.491572479,included_game_day
+1996,349,Army,1996-01-03,-97.1884485763231,included_game_day
+1996,349,Army,1996-01-06,-99.4152315453201,included_game_day
+1996,349,Army,1996-01-10,-107.48912258505283,included_game_day
+1996,349,Army,1996-01-13,-138.17383106580309,included_game_day
+1996,349,Army,1996-01-15,-132.44360367636543,included_game_day
+1996,349,Army,1996-01-17,-126.40623247911705,included_game_day
+1996,349,Army,1996-01-20,-133.10318709487728,included_game_day
+1996,349,Army,1996-01-24,-154.88506364218648,included_game_day
+1996,349,Army,1996-01-27,-151.8273653806323,included_game_day
+1996,349,Army,1996-02-03,-135.8380173924827,included_game_day
+1996,349,Army,1996-02-05,-129.7701981363301,included_game_day
+1996,349,Army,1996-02-07,-127.51703395226993,included_game_day
+1996,349,Army,1996-02-10,-123.58369181828142,included_game_day
+1996,349,Army,1996-02-13,-129.8462567229574,included_game_day
+1996,349,Army,1996-02-17,-128.0383540618569,included_game_day
+1996,349,Army,1996-02-21,-128.37013546602236,included_game_day
+1996,349,Army,1996-03-02,-114.0428893058451,included_game_day
+1996,349,Army,1996-03-03,-103.66408830414743,included_game_day
+1997,349,Army,1996-12-04,-13.724,included_game_day
+1997,349,Army,1996-12-10,-13.388480042000001,included_game_day
+1997,349,Army,1996-12-22,-61.4351238854,included_game_day
+1997,349,Army,1996-12-27,-91.87302311186001,included_game_day
+1997,349,Army,1996-12-28,-86.41411286318252,included_game_day
+1997,349,Army,1997-01-02,-97.86570024370427,included_game_day
+1997,349,Army,1997-01-04,-81.66256842337341,included_game_day
+1997,349,Army,1997-01-08,-93.98390604741462,included_game_day
+1997,349,Army,1997-01-11,-82.96106586092662,included_game_day
+1997,349,Army,1997-01-14,-90.91599873482267,included_game_day
+1997,349,Army,1997-01-18,-96.01436392251068,included_game_day
+1997,349,Army,1997-01-20,-94.68459781480809,included_game_day
+1997,349,Army,1997-01-22,-97.03205677270168,included_game_day
+1997,349,Army,1997-01-25,-97.48642011752345,included_game_day
+1997,349,Army,1997-01-27,-84.94614297699343,included_game_day
+1997,349,Army,1997-01-29,-60.532617376029805,included_game_day
+1997,349,Army,1997-02-01,-59.312016667862444,included_game_day
+1997,349,Army,1997-02-05,-71.01126370256172,included_game_day
+1997,349,Army,1997-02-08,-87.26500591817867,included_game_day
+1997,349,Army,1997-02-12,-90.88683507281905,included_game_day
+1997,349,Army,1997-02-15,-93.04982283268134,included_game_day
+1997,349,Army,1997-02-18,-103.12980468703327,included_game_day
+1997,349,Army,1997-02-22,-106.94938442099112,included_game_day
+1997,349,Army,1997-03-01,-126.07774228402687,included_game_day
+1998,349,Army,1997-11-16,-36.0,included_game_day
+1998,349,Army,1997-11-18,-35.4,included_game_day
+1998,349,Army,1997-11-19,-43.86,included_game_day
+1998,349,Army,1997-11-29,-43.53674,included_game_day
+1998,349,Army,1997-12-02,-49.797066,included_game_day
+1998,349,Army,1997-12-08,-36.24913998,included_game_day
+1998,349,Army,1997-12-10,-41.453843202,included_game_day
+1998,349,Army,1997-12-27,-62.2650074752255,included_game_day
+1998,349,Army,1997-12-28,-79.55609639494101,included_game_day
+1998,349,Army,1998-01-04,-66.50138910665858,included_game_day
+1998,349,Army,1998-01-07,-83.93968548892633,included_game_day
+1998,349,Army,1998-01-10,-79.39707663242113,included_game_day
+1998,349,Army,1998-01-13,-84.48090406259718,included_game_day
+1998,349,Army,1998-01-17,-102.01956616972473,included_game_day
+1998,349,Army,1998-01-19,-105.24843285159204,included_game_day
+1998,349,Army,1998-01-21,-123.70806570395739,included_game_day
+1998,349,Army,1998-01-25,-134.17412709196523,included_game_day
+1998,349,Army,1998-01-27,-141.00205297423196,included_game_day
+1998,349,Army,1998-01-31,-149.38081901991674,included_game_day
+1998,349,Army,1998-02-04,-150.2664843207838,included_game_day
+1998,349,Army,1998-02-07,-139.48136689225362,included_game_day
+1998,349,Army,1998-02-11,-147.33158540210292,included_game_day
+1998,349,Army,1998-02-14,-134.08365620790804,included_game_day
+1998,349,Army,1998-02-18,-150.9576332397502,included_game_day
+1998,349,Army,1998-02-21,-146.1533646556726,included_game_day
+1998,349,Army,1998-02-28,-155.5751038219206,included_game_day
+1999,349,Army,1998-11-14,-48.2,included_game_day
+1999,349,Army,1998-11-18,-45.28,included_game_day
+1999,349,Army,1998-11-22,-76.719,included_game_day
+1999,349,Army,1998-11-25,-68.6206,included_game_day
+1999,349,Army,1998-12-01,-111.13880999999999,included_game_day
+1999,349,Army,1998-12-02,-111.55792899999999,included_game_day
+1999,349,Army,1998-12-05,-113.43762470399999,included_game_day
+1999,349,Army,1998-12-07,-104.55913628759998,included_game_day
+1999,349,Army,1998-12-10,-106.58356264749999,included_game_day
+1999,349,Army,1998-12-21,-128.30971465814804,included_game_day
+1999,349,Army,1998-12-30,-111.1268907412986,included_game_day
+1999,349,Army,1999-01-02,-102.72180490506693,included_game_day
+1999,349,Army,1999-01-05,-87.20087525807786,included_game_day
+1999,349,Army,1999-01-09,-99.37180201089906,included_game_day
+1999,349,Army,1999-01-13,-126.52189311806626,included_game_day
+1999,349,Army,1999-01-16,-115.23621413293414,included_game_day
+1999,349,Army,1999-01-19,-120.51002207414805,included_game_day
+1999,349,Army,1999-01-24,-121.70129161684538,included_game_day
+1999,349,Army,1999-01-30,-112.91040316191582,included_game_day
+1999,349,Army,1999-02-03,-99.54925623910388,included_game_day
+1999,349,Army,1999-02-06,-119.45734673704169,included_game_day
+1999,349,Army,1999-02-09,-141.4432843274593,included_game_day
+1999,349,Army,1999-02-13,-157.57328899188093,included_game_day
+1999,349,Army,1999-02-17,-166.55107525183627,included_game_day
+1999,349,Army,1999-02-27,-176.85602227508377,included_game_day
+2000,349,Army,1999-11-20,-55.61,included_game_day
+2000,349,Army,1999-11-23,-46.699,included_game_day
+2000,349,Army,1999-12-03,-55.4291,included_game_day
+2000,349,Army,1999-12-06,-57.892270079,included_game_day
+2000,349,Army,1999-12-09,-68.7706669291,included_game_day
+2000,349,Army,1999-12-20,-77.1931810100837,included_game_day
+2000,349,Army,1999-12-29,-83.70340807201859,included_game_day
+2000,349,Army,1999-12-30,-100.18533377710412,included_game_day
+2000,349,Army,2000-01-02,-112.39159392084676,included_game_day
+2000,349,Army,2000-01-04,-114.31533482062383,included_game_day
+2000,349,Army,2000-01-09,-110.25642028824716,included_game_day
+2000,349,Army,2000-01-12,-121.54741045523592,included_game_day
+2000,349,Army,2000-01-15,-110.08027316574108,included_game_day
+2000,349,Army,2000-01-19,-105.20459337357613,included_game_day
+2000,349,Army,2000-01-22,-115.8580664787749,included_game_day
+2000,349,Army,2000-01-26,-122.56811739966295,included_game_day
+2000,349,Army,2000-01-30,-121.65483544687116,included_game_day
+2000,349,Army,2000-02-02,-127.14887279277814,included_game_day
+2000,349,Army,2000-02-06,-152.126267239176,included_game_day
+2000,349,Army,2000-02-09,-152.06165611458323,included_game_day
+2000,349,Army,2000-02-12,-143.57120991236434,included_game_day
+2000,349,Army,2000-02-16,-150.2194767619884,included_game_day
+2000,349,Army,2000-02-19,-132.5799781324809,included_game_day
+2000,349,Army,2000-02-22,-113.84174584913129,included_game_day
+2000,349,Army,2000-02-26,-111.85119956592665,included_game_day
+2000,349,Army,2000-03-04,-116.01248290684104,included_game_day
+2001,349,Army,2000-11-22,-1.0,included_game_day
+2001,349,Army,2000-11-25,-34.59816,included_game_day
+2001,349,Army,2000-11-29,-48.070744,included_game_day
+2001,349,Army,2000-12-02,-55.2095896,included_game_day
+2001,349,Army,2000-12-06,-39.91079864,included_game_day
+2001,349,Army,2000-12-09,-51.846312876,included_game_day
+2001,349,Army,2000-12-14,-52.953681818922,included_game_day
+2001,349,Army,2000-12-31,-60.54843838699349,included_game_day
+2001,349,Army,2001-01-03,-64.3304765311606,included_game_day
+2001,349,Army,2001-01-06,-77.85074245957122,included_game_day
+2001,349,Army,2001-01-13,-100.06983156226727,included_game_day
+2001,349,Army,2001-01-17,-97.00654742592492,included_game_day
+2001,349,Army,2001-01-20,-105.71427778122323,included_game_day
+2001,349,Army,2001-01-24,-99.41570153656978,included_game_day
+2001,349,Army,2001-01-27,-87.96640601657556,included_game_day
+2001,349,Army,2001-01-31,-79.6372555458496,included_game_day
+2001,349,Army,2001-02-03,-83.30773759871995,included_game_day
+2001,349,Army,2001-02-07,-92.94373765905202,included_game_day
+2001,349,Army,2001-02-10,-95.61072419550447,included_game_day
+2001,349,Army,2001-02-14,-90.71703059684256,included_game_day
+2001,349,Army,2001-02-17,-89.55697984054035,included_game_day
+2001,349,Army,2001-02-21,-113.86537856947508,included_game_day
+2001,349,Army,2001-02-24,-99.02458629579397,included_game_day
+2001,349,Army,2001-02-27,-79.64459190396633,included_game_day
+2001,349,Army,2001-03-03,-89.87029339509772,included_game_day
+2002,349,Army Black Knights,2001-11-20,2.5,included_game_day
+2002,349,Army Black Knights,2001-11-28,-22.08879,included_game_day
+2002,349,Army Black Knights,2001-12-01,-25.84621,included_game_day
+2002,349,Army Black Knights,2001-12-05,-32.3815976,included_game_day
+2002,349,Army Black Knights,2001-12-08,-50.80361284,included_game_day
+2002,349,Army Black Knights,2001-12-11,-40.57087151298,included_game_day
+2002,349,Army Black Knights,2001-12-13,-34.003124315362,included_game_day
+2002,349,Army Black Knights,2001-12-30,-44.146074586571814,included_game_day
+2002,349,Army Black Knights,2002-01-02,-33.84337305498036,included_game_day
+2002,349,Army Black Knights,2002-01-05,-61.44640790637018,included_game_day
+2002,349,Army Black Knights,2002-01-07,-73.03781769286554,included_game_day
+2002,349,Army Black Knights,2002-01-09,-67.31400081393964,included_game_day
+2002,349,Army Black Knights,2002-01-12,-76.65328619073688,included_game_day
+2002,349,Army Black Knights,2002-01-16,-75.78014356892396,included_game_day
+2002,349,Army Black Knights,2002-01-19,-58.22067075908399,included_game_day
+2002,349,Army Black Knights,2002-01-23,-44.50647482739912,included_game_day
+2002,349,Army Black Knights,2002-01-26,-58.51307835993306,included_game_day
+2002,349,Army Black Knights,2002-01-30,-62.29530846653476,included_game_day
+2002,349,Army Black Knights,2002-02-02,-56.185450264872834,included_game_day
+2002,349,Army Black Knights,2002-02-06,-68.58283604150898,included_game_day
+2002,349,Army Black Knights,2002-02-09,-71.10857711892179,included_game_day
+2002,349,Army Black Knights,2002-02-16,-80.18696011967691,included_game_day
+2002,349,Army Black Knights,2002-02-20,-93.90346193425698,included_game_day
+2002,349,Army Black Knights,2002-02-23,-83.19151593703671,included_game_day
+2002,349,Army Black Knights,2002-03-02,-85.68794236009825,included_game_day
+2003,349,Army Black Knights,2002-11-23,-45.0,included_game_day
+2003,349,Army Black Knights,2002-11-25,-59.5,included_game_day
+2003,349,Army Black Knights,2002-12-01,-50.47,included_game_day
+2003,349,Army Black Knights,2002-12-06,-64.8099543,included_game_day
+2003,349,Army Black Knights,2002-12-09,-68.40169687,included_game_day
+2003,349,Army Black Knights,2002-12-12,-68.518299883,included_game_day
+2003,349,Army Black Knights,2002-12-30,-79.303011407864,included_game_day
+2003,349,Army Black Knights,2003-01-03,-99.99824154003892,included_game_day
+2003,349,Army Black Knights,2003-01-07,-96.30988456502111,included_game_day
+2003,349,Army Black Knights,2003-01-11,-93.6946926053199,included_game_day
+2003,349,Army Black Knights,2003-01-15,-105.43790087401153,included_game_day
+2003,349,Army Black Knights,2003-01-18,-127.43592310777386,included_game_day
+2003,349,Army Black Knights,2003-01-20,-114.54980909022169,included_game_day
+2003,349,Army Black Knights,2003-01-24,-119.0738029461834,included_game_day
+2003,349,Army Black Knights,2003-01-26,-119.47394235519491,included_game_day
+2003,349,Army Black Knights,2003-01-31,-135.50882944616697,included_game_day
+2003,349,Army Black Knights,2003-02-02,-138.97827207669556,included_game_day
+2003,349,Army Black Knights,2003-02-08,-127.27328228595425,included_game_day
+2003,349,Army Black Knights,2003-02-12,-128.58046617185093,included_game_day
+2003,349,Army Black Knights,2003-02-15,-132.75862511649865,included_game_day
+2003,349,Army Black Knights,2003-02-21,-129.13827615201063,included_game_day
+2003,349,Army Black Knights,2003-02-23,-119.73955010183167,included_game_day
+2003,349,Army Black Knights,2003-02-27,-136.13748511301202,included_game_day
+2003,349,Army Black Knights,2003-03-01,-134.25052355575835,included_game_day
+2003,349,Army Black Knights,2003-03-08,-128.8521597374707,included_game_day
+2004,349,Army Black Knights,2003-11-21,0.0,included_game_day
+2004,349,Army Black Knights,2003-11-25,-11.21,included_game_day
+2004,349,Army Black Knights,2003-11-29,-22.9067,included_game_day
+2004,349,Army Black Knights,2003-12-05,-27.185167,included_game_day
+2004,349,Army Black Knights,2003-12-06,-41.6263023,included_game_day
+2004,349,Army Black Knights,2003-12-11,-68.61984207,included_game_day
+2004,349,Army Black Knights,2003-12-30,-82.54731518684541,included_game_day
+2004,349,Army Black Knights,2004-01-02,-106.92147775337216,included_game_day
+2004,349,Army Black Knights,2004-01-04,-109.30809098335828,included_game_day
+2004,349,Army Black Knights,2004-01-06,-119.82052696803974,included_game_day
+2004,349,Army Black Knights,2004-01-10,-137.56669047750202,included_game_day
+2004,349,Army Black Knights,2004-01-14,-158.9109622344278,included_game_day
+2004,349,Army Black Knights,2004-01-17,-141.97649445408396,included_game_day
+2004,349,Army Black Knights,2004-01-23,-164.43648565486984,included_game_day
+2004,349,Army Black Knights,2004-01-25,-167.3599835839384,included_game_day
+2004,349,Army Black Knights,2004-01-30,-164.30714470197447,included_game_day
+2004,349,Army Black Knights,2004-02-01,-158.44814253683774,included_game_day
+2004,349,Army Black Knights,2004-02-07,-179.77897111031348,included_game_day
+2004,349,Army Black Knights,2004-02-11,-172.37758674674066,included_game_day
+2004,349,Army Black Knights,2004-02-14,-152.0012441422348,included_game_day
+2004,349,Army Black Knights,2004-02-20,-136.13927370737056,included_game_day
+2004,349,Army Black Knights,2004-02-22,-168.43832128982316,included_game_day
+2004,349,Army Black Knights,2004-02-26,-161.81413120803202,included_game_day
+2004,349,Army Black Knights,2004-02-28,-171.15003119693074,included_game_day
+2004,349,Army Black Knights,2004-03-06,-169.00615336745872,included_game_day
+2005,349,Army Black Knights,2004-11-20,-10.0,included_game_day
+2005,349,Army Black Knights,2004-11-22,-29.1,included_game_day
+2005,349,Army Black Knights,2004-11-24,-37.79,included_game_day
+2005,349,Army Black Knights,2004-11-28,-38.441,included_game_day
+2005,349,Army Black Knights,2004-12-04,-47.9655271,included_game_day
+2005,349,Army Black Knights,2004-12-06,-70.81769560000001,included_game_day
+2005,349,Army Black Knights,2004-12-19,-77.16448219371,included_game_day
+2005,349,Army Black Knights,2004-12-30,-86.1688903251573,included_game_day
+2005,349,Army Black Knights,2005-01-02,-91.50561570058045,included_game_day
+2005,349,Army Black Knights,2005-01-04,-100.35750689088562,included_game_day
+2005,349,Army Black Knights,2005-01-08,-95.27589755374217,included_game_day
+2005,349,Army Black Knights,2005-01-12,-122.56835850341042,included_game_day
+2005,349,Army Black Knights,2005-01-15,-118.21785102849007,included_game_day
+2005,349,Army Black Knights,2005-01-21,-145.48359989612393,included_game_day
+2005,349,Army Black Knights,2005-01-23,-121.69322774020733,included_game_day
+2005,349,Army Black Knights,2005-01-28,-125.34435040560673,included_game_day
+2005,349,Army Black Knights,2005-01-30,-133.9853420844242,included_game_day
+2005,349,Army Black Knights,2005-02-04,-143.25411672285506,included_game_day
+2005,349,Army Black Knights,2005-02-06,-146.99323483358458,included_game_day
+2005,349,Army Black Knights,2005-02-11,-139.66191837185312,included_game_day
+2005,349,Army Black Knights,2005-02-13,-139.69772507222663,included_game_day
+2005,349,Army Black Knights,2005-02-19,-141.20964988273914,included_game_day
+2005,349,Army Black Knights,2005-02-26,-131.1712561846982,included_game_day
+2005,349,Army Black Knights,2005-03-04,-140.1405412262654,included_game_day
+2006,349,Army Black Knights,2005-11-15,-29.0,included_game_day
+2006,349,Army Black Knights,2005-11-21,-19.1,included_game_day
+2006,349,Army Black Knights,2005-11-26,-25.160000000000004,included_game_day
+2006,349,Army Black Knights,2005-11-29,-29.291122,included_game_day
+2006,349,Army Black Knights,2005-12-02,-20.27235509,included_game_day
+2006,349,Army Black Knights,2005-12-05,-30.242816310000002,included_game_day
+2006,349,Army Black Knights,2005-12-08,-43.196508679000004,included_game_day
+2006,349,Army Black Knights,2005-12-20,-76.09995931860001,included_game_day
+2006,349,Army Black Knights,2005-12-31,-80.15329011370908,included_game_day
+2006,349,Army Black Knights,2006-01-04,-94.32800576364284,included_game_day
+2006,349,Army Black Knights,2006-01-07,-105.08131955490143,included_game_day
+2006,349,Army Black Knights,2006-01-11,-133.13236124285905,included_game_day
+2006,349,Army Black Knights,2006-01-14,-121.18586284473612,included_game_day
+2006,349,Army Black Knights,2006-01-18,-113.83232844849289,included_game_day
+2006,349,Army Black Knights,2006-01-22,-97.56078825956908,included_game_day
+2006,349,Army Black Knights,2006-01-25,-119.64585492834829,included_game_day
+2006,349,Army Black Knights,2006-01-28,-130.64599660619388,included_game_day
+2006,349,Army Black Knights,2006-02-01,-123.63116733770116,included_game_day
+2006,349,Army Black Knights,2006-02-05,-127.59272601867526,included_game_day
+2006,349,Army Black Knights,2006-02-08,-156.9359614413947,included_game_day
+2006,349,Army Black Knights,2006-02-11,-167.2504191534527,included_game_day
+2006,349,Army Black Knights,2006-02-15,-171.36346463666484,included_game_day
+2006,349,Army Black Knights,2006-02-22,-169.7214617487609,included_game_day
+2006,349,Army Black Knights,2006-02-25,-162.71427443931483,included_game_day
+2006,349,Army Black Knights,2006-03-03,-146.108524591758,included_game_day
+2007,349,Army Black Knights,2006-11-10,15.0,included_game_day
+2007,349,Army Black Knights,2006-11-11,9.3,included_game_day
+2007,349,Army Black Knights,2006-11-12,23.6,included_game_day
+2007,349,Army Black Knights,2006-11-18,25.51,included_game_day
+2007,349,Army Black Knights,2006-11-21,9.783000000000001,included_game_day
+2007,349,Army Black Knights,2006-11-25,15.89517,included_game_day
+2007,349,Army Black Knights,2006-11-28,16.171393000000002,included_game_day
+2007,349,Army Black Knights,2006-12-02,17.98742761,included_game_day
+2007,349,Army Black Knights,2006-12-06,24.108705910998,included_game_day
+2007,349,Army Black Knights,2006-12-21,-5.538740588392468,included_game_day
+2007,349,Army Black Knights,2006-12-28,-7.977385043164247,included_game_day
+2007,349,Army Black Knights,2006-12-31,-8.882360907878292,included_game_day
+2007,349,Army Black Knights,2007-01-02,-20.20167904013921,included_game_day
+2007,349,Army Black Knights,2007-01-06,-24.923487931628095,included_game_day
+2007,349,Army Black Knights,2007-01-09,-41.129132822029774,included_game_day
+2007,349,Army Black Knights,2007-01-13,-38.394493998738255,included_game_day
+2007,349,Army Black Knights,2007-01-17,-32.0637032749326,included_game_day
+2007,349,Army Black Knights,2007-01-21,-32.40426408475181,included_game_day
+2007,349,Army Black Knights,2007-01-24,-41.92558845851166,included_game_day
+2007,349,Army Black Knights,2007-01-27,-56.655817328814564,included_game_day
+2007,349,Army Black Knights,2007-02-03,-63.822878020386895,included_game_day
+2007,349,Army Black Knights,2007-02-06,-71.06547996311137,included_game_day
+2007,349,Army Black Knights,2007-02-10,-76.88865417127279,included_game_day
+2007,349,Army Black Knights,2007-02-14,-81.37537426368478,included_game_day
+2007,349,Army Black Knights,2007-02-17,-84.79250628386293,included_game_day
+2007,349,Army Black Knights,2007-02-21,-70.09447145242855,included_game_day
+2007,349,Army Black Knights,2007-02-24,-65.00134151081227,included_game_day
+2007,349,Army Black Knights,2007-02-28,-59.86730042800079,included_game_day
+2007,349,Army Black Knights,2007-03-04,-65.99677300550013,included_game_day
+2008,349,Army Black Knights,2007-11-10,-29.0,included_game_day
+2008,349,Army Black Knights,2007-11-12,-8.899999999999999,included_game_day
+2008,349,Army Black Knights,2007-11-16,-23.909999999999997,included_game_day
+2008,349,Army Black Knights,2007-11-20,-34.379,included_game_day
+2008,349,Army Black Knights,2007-11-24,-34.863246,included_game_day
+2008,349,Army Black Knights,2007-11-28,-36.9067386,included_game_day
+2008,349,Army Black Knights,2007-12-01,-32.00639544,included_game_day
+2008,349,Army Black Knights,2007-12-06,-31.284738608249995,included_game_day
+2008,349,Army Black Knights,2007-12-09,-36.254223759125,included_game_day
+2008,349,Army Black Knights,2007-12-13,-38.1156813526325,included_game_day
+2008,349,Army Black Knights,2007-12-22,-40.16713750650389,included_game_day
+2008,349,Army Black Knights,2008-01-02,-39.516854706684185,included_game_day
+2008,349,Army Black Knights,2008-01-05,-39.22287748551405,included_game_day
+2008,349,Army Black Knights,2008-01-08,-58.176041049080474,included_game_day
+2008,349,Army Black Knights,2008-01-12,-58.179738223633855,included_game_day
+2008,349,Army Black Knights,2008-01-16,-35.07132758181266,included_game_day
+2008,349,Army Black Knights,2008-01-20,-43.061717058790265,included_game_day
+2008,349,Army Black Knights,2008-01-23,-52.51681793286217,included_game_day
+2008,349,Army Black Knights,2008-01-27,-41.63019213450177,included_game_day
+2008,349,Army Black Knights,2008-01-30,-58.79385202107238,included_game_day
+2008,349,Army Black Knights,2008-02-03,-36.12082886718463,included_game_day
+2008,349,Army Black Knights,2008-02-09,-35.443062479918964,included_game_day
+2008,349,Army Black Knights,2008-02-14,-47.41031975259976,included_game_day
+2008,349,Army Black Knights,2008-02-16,-48.30397957720458,included_game_day
+2008,349,Army Black Knights,2008-02-20,-46.10629714314062,included_game_day
+2008,349,Army Black Knights,2008-02-23,-51.53975165026213,included_game_day
+2008,349,Army Black Knights,2008-02-27,-45.228139608854235,included_game_day
+2008,349,Army Black Knights,2008-03-01,-45.20660650660846,included_game_day
+2008,349,Army Black Knights,2008-03-05,-41.1207184656751,included_game_day
+2008,349,Army Black Knights,2008-03-09,-46.76485777505583,included_game_day
+2009,349,Army Black Knights,2008-11-15,12.0,included_game_day
+2009,349,Army Black Knights,2008-11-17,12.2,included_game_day
+2009,349,Army Black Knights,2008-11-20,3.2799999999999994,included_game_day
+2009,349,Army Black Knights,2008-11-23,-12.802000000000001,included_game_day
+2009,349,Army Black Knights,2008-11-26,-18.0985,included_game_day
+2009,349,Army Black Knights,2008-11-29,-24.411820000000002,included_game_day
+2009,349,Army Black Knights,2008-12-01,-45.6071784,included_game_day
+2009,349,Army Black Knights,2008-12-08,-31.835128127400004,included_game_day
+2009,349,Army Black Knights,2008-12-10,-34.309059160660006,included_game_day
+2009,349,Army Black Knights,2008-12-13,-22.662392780284005,included_game_day
+2009,349,Army Black Knights,2008-12-21,-29.325080542985603,included_game_day
+2009,349,Army Black Knights,2008-12-30,-39.1885665608646,included_game_day
+2009,349,Army Black Knights,2009-01-03,-35.79314413949285,included_game_day
+2009,349,Army Black Knights,2009-01-06,-40.07013228844963,included_game_day
+2009,349,Army Black Knights,2009-01-10,-69.31301493865836,included_game_day
+2009,349,Army Black Knights,2009-01-14,-78.45627735932189,included_game_day
+2009,349,Army Black Knights,2009-01-17,-87.36835245006085,included_game_day
+2009,349,Army Black Knights,2009-01-25,-77.48388263920171,included_game_day
+2009,349,Army Black Knights,2009-01-28,-78.30731669955335,included_game_day
+2009,349,Army Black Knights,2009-01-31,-69.18928457361736,included_game_day
+2009,349,Army Black Knights,2009-02-04,-79.70222293219936,included_game_day
+2009,349,Army Black Knights,2009-02-07,-78.51635386015579,included_game_day
+2009,349,Army Black Knights,2009-02-11,-66.69112386167559,included_game_day
+2009,349,Army Black Knights,2009-02-14,-57.76282011504195,included_game_day
+2009,349,Army Black Knights,2009-02-18,-71.71631247966157,included_game_day
+2009,349,Army Black Knights,2009-02-21,-67.94465368643156,included_game_day
+2009,349,Army Black Knights,2009-02-25,-42.955708480444756,included_game_day
+2009,349,Army Black Knights,2009-02-28,-23.848069626665136,included_game_day
+2009,349,Army Black Knights,2009-03-04,-27.93773225547581,included_game_day
+2009,349,Army Black Knights,2009-03-08,-17.749986973275995,included_game_day
+2010,349,Army Black Knights,2009-11-13,-4.0,included_game_day
+2010,349,Army Black Knights,2009-11-17,-0.6000000000000001,included_game_day
+2010,349,Army Black Knights,2009-11-21,7.49,included_game_day
+2010,349,Army Black Knights,2009-11-23,9.376,included_game_day
+2010,349,Army Black Knights,2009-11-28,18.957583,included_game_day
+2010,349,Army Black Knights,2009-11-30,12.8274017,included_game_day
+2010,349,Army Black Knights,2009-12-03,8.784341529999999,included_game_day
+2010,349,Army Black Knights,2009-12-07,22.675772476899997,included_game_day
+2010,349,Army Black Knights,2009-12-12,30.814908302209997,included_game_day
+2010,349,Army Black Knights,2009-12-22,30.552387328863055,included_game_day
+2010,349,Army Black Knights,2009-12-30,19.07284494992465,included_game_day
+2010,349,Army Black Knights,2010-01-02,12.250316056590677,included_game_day
+2010,349,Army Black Knights,2010-01-06,8.68257952660578,included_game_day
+2010,349,Army Black Knights,2010-01-09,-0.9443977551367144,included_game_day
+2010,349,Army Black Knights,2010-01-13,0.6380350284598268,included_game_day
+2010,349,Army Black Knights,2010-01-17,-23.093661305817555,included_game_day
+2010,349,Army Black Knights,2010-01-20,-8.748196008777379,included_game_day
+2010,349,Army Black Knights,2010-01-23,-18.25471326842828,included_game_day
+2010,349,Army Black Knights,2010-01-27,-22.45343634332282,included_game_day
+2010,349,Army Black Knights,2010-01-30,-28.732935731504547,included_game_day
+2010,349,Army Black Knights,2010-02-07,-20.50025794115014,included_game_day
+2010,349,Army Black Knights,2010-02-10,-37.556162046570314,included_game_day
+2010,349,Army Black Knights,2010-02-13,-41.06428099674722,included_game_day
+2010,349,Army Black Knights,2010-02-17,-42.514838416741505,included_game_day
+2010,349,Army Black Knights,2010-02-20,-26.375614758586217,included_game_day
+2010,349,Army Black Knights,2010-02-24,-55.77204965385312,included_game_day
+2010,349,Army Black Knights,2010-02-27,-66.21429250766437,included_game_day
+2010,349,Army Black Knights,2010-03-03,-72.80945479976573,included_game_day
+2011,349,Army Black Knights,2010-11-15,-16.8,included_game_day
+2011,349,Army Black Knights,2010-11-18,-9.920000000000002,included_game_day
+2011,349,Army Black Knights,2010-11-20,-0.3680000000000021,included_game_day
+2011,349,Army Black Knights,2010-11-23,5.969799999999998,included_game_day
+2011,349,Army Black Knights,2010-11-27,-0.5272000000000014,included_game_day
+2011,349,Army Black Knights,2010-12-01,-1.1834080000000018,included_game_day
+2011,349,Army Black Knights,2010-12-04,-19.2253557,included_game_day
+2011,349,Army Black Knights,2010-12-09,-6.731256116000001,included_game_day
+2011,349,Army Black Knights,2010-12-11,-10.807443304400001,included_game_day
+2011,349,Army Black Knights,2010-12-19,-10.481060330050974,included_game_day
+2011,349,Army Black Knights,2010-12-21,-6.9336239084458775,included_game_day
+2011,349,Army Black Knights,2010-12-29,-3.9901192207393965,included_game_day
+2011,349,Army Black Knights,2010-12-31,-2.6412580111255384,included_game_day
+2011,349,Army Black Knights,2011-01-03,9.791399693470266,included_game_day
+2011,349,Army Black Knights,2011-01-08,6.463081796115498,included_game_day
+2011,349,Army Black Knights,2011-01-12,-15.347376863569052,included_game_day
+2011,349,Army Black Knights,2011-01-15,-6.660934870244539,included_game_day
+2011,349,Army Black Knights,2011-01-19,-4.710648533304549,included_game_day
+2011,349,Army Black Knights,2011-01-22,-18.8647992023872,included_game_day
+2011,349,Army Black Knights,2011-01-26,-49.860087636459326,included_game_day
+2011,349,Army Black Knights,2011-01-29,-19.92783250958971,included_game_day
+2011,349,Army Black Knights,2011-02-05,-35.46327287700046,included_game_day
+2011,349,Army Black Knights,2011-02-09,-41.24384903802423,included_game_day
+2011,349,Army Black Knights,2011-02-12,-53.369959783946626,included_game_day
+2011,349,Army Black Knights,2011-02-16,-56.68528230571745,included_game_day
+2011,349,Army Black Knights,2011-02-19,-71.29800094503352,included_game_day
+2011,349,Army Black Knights,2011-02-23,-84.57052628040191,included_game_day
+2011,349,Army Black Knights,2011-02-26,-80.55428161381927,included_game_day
+2011,349,Army Black Knights,2011-03-02,-90.34128588055316,included_game_day
+2012,349,Army Black Knights,2011-11-11,-13.0,included_game_day
+2012,349,Army Black Knights,2011-11-12,-23.0,included_game_day
+2012,349,Army Black Knights,2011-11-19,-34.66,included_game_day
+2012,349,Army Black Knights,2011-11-22,-32.351,included_game_day
+2012,349,Army Black Knights,2011-11-26,-41.780080999999996,included_game_day
+2012,349,Army Black Knights,2011-11-30,-46.2161676,included_game_day
+2012,349,Army Black Knights,2011-12-03,-24.68113064,included_game_day
+2012,349,Army Black Knights,2011-12-07,-25.2125186183,included_game_day
+2012,349,Army Black Knights,2011-12-10,-23.759570231117998,included_game_day
+2012,349,Army Black Knights,2011-12-18,-30.048619950026197,included_game_day
+2012,349,Army Black Knights,2011-12-21,-30.877202533568116,included_game_day
+2012,349,Army Black Knights,2011-12-28,-33.76628152226769,included_game_day
+2012,349,Army Black Knights,2011-12-31,-27.681643165609852,included_game_day
+2012,349,Army Black Knights,2012-01-03,-20.40635940776174,included_game_day
+2012,349,Army Black Knights,2012-01-07,-35.41688703488215,included_game_day
+2012,349,Army Black Knights,2012-01-11,-46.85020330979357,included_game_day
+2012,349,Army Black Knights,2012-01-14,-32.964955016908064,included_game_day
+2012,349,Army Black Knights,2012-01-18,-27.02545256980733,included_game_day
+2012,349,Army Black Knights,2012-01-21,-32.85097786852423,included_game_day
+2012,349,Army Black Knights,2012-01-25,-32.85427655168064,included_game_day
+2012,349,Army Black Knights,2012-01-29,-39.1655100405456,included_game_day
+2012,349,Army Black Knights,2012-02-04,-37.80732289718926,included_game_day
+2012,349,Army Black Knights,2012-02-08,-56.420694002455534,included_game_day
+2012,349,Army Black Knights,2012-02-11,-59.047887590961,included_game_day
+2012,349,Army Black Knights,2012-02-15,-39.95519141160591,included_game_day
+2012,349,Army Black Knights,2012-02-18,-61.04905613318405,included_game_day
+2012,349,Army Black Knights,2012-02-22,-84.82472536968592,included_game_day
+2012,349,Army Black Knights,2012-02-25,-73.40747170597838,included_game_day
+2012,349,Army Black Knights,2012-02-29,-76.86723697900895,included_game_day
+2013,349,Army Black Knights,2012-11-10,-11.0,included_game_day
+2013,349,Army Black Knights,2012-11-11,-4.4,included_game_day
+2013,349,Army Black Knights,2012-11-16,-2.987000000000001,included_game_day
+2013,349,Army Black Knights,2012-11-20,7.5417,included_game_day
+2013,349,Army Black Knights,2012-11-24,2.48262,included_game_day
+2013,349,Army Black Knights,2012-12-01,-8.381096,included_game_day
+2013,349,Army Black Knights,2012-12-04,19.6120446,included_game_day
+2013,349,Army Black Knights,2012-12-08,8.0070541001,included_game_day
+2013,349,Army Black Knights,2012-12-11,8.19405664208,included_game_day
+2013,349,Army Black Knights,2012-12-14,27.807472474059,included_game_day
+2013,349,Army Black Knights,2012-12-29,24.34985692401169,included_game_day
+2013,349,Army Black Knights,2012-12-31,24.651341287687305,included_game_day
+2013,349,Army Black Knights,2013-01-05,7.4665589792310385,included_game_day
+2013,349,Army Black Knights,2013-01-08,-15.423398605254299,included_game_day
+2013,349,Army Black Knights,2013-01-12,-23.402645262458826,included_game_day
+2013,349,Army Black Knights,2013-01-16,-3.5063702788200892,included_game_day
+2013,349,Army Black Knights,2013-01-20,-20.590827634446235,included_game_day
+2013,349,Army Black Knights,2013-01-23,-23.42486234729333,included_game_day
+2013,349,Army Black Knights,2013-01-26,-14.727833969916052,included_game_day
+2013,349,Army Black Knights,2013-01-30,2.883079801657253,included_game_day
+2013,349,Army Black Knights,2013-02-03,-2.354056997195552,included_game_day
+2013,349,Army Black Knights,2013-02-09,0.26919025954438336,included_game_day
+2013,349,Army Black Knights,2013-02-13,23.895190903721687,included_game_day
+2013,349,Army Black Knights,2013-02-16,15.678524377245544,included_game_day
+2013,349,Army Black Knights,2013-02-20,20.611766828318068,included_game_day
+2013,349,Army Black Knights,2013-02-23,32.33843733390212,included_game_day
+2013,349,Army Black Knights,2013-02-27,28.801064386462773,included_game_day
+2013,349,Army Black Knights,2013-03-02,28.476173427234112,included_game_day
+2013,349,Army Black Knights,2013-03-06,39.1213722966213,included_game_day
+2013,349,Army Black Knights,2013-03-09,37.460831924863605,included_game_day
+2014,349,Army Black Knights,2013-11-08,-11.0,included_game_day
+2014,349,Army Black Knights,2013-11-09,4.300000000000001,included_game_day
+2014,349,Army Black Knights,2013-11-15,-4.0,included_game_day
+2014,349,Army Black Knights,2013-11-19,-20.448,included_game_day
+2014,349,Army Black Knights,2013-11-24,-45.78102,included_game_day
+2014,349,Army Black Knights,2013-11-30,-52.000972,included_game_day
+2014,349,Army Black Knights,2013-12-04,-59.722521287,included_game_day
+2014,349,Army Black Knights,2013-12-07,-44.1079516283,included_game_day
+2014,349,Army Black Knights,2013-12-13,-37.29571054417,included_game_day
+2014,349,Army Black Knights,2013-12-22,-35.348747037507536,included_game_day
+2014,349,Army Black Knights,2014-01-02,-12.113564796859194,included_game_day
+2014,349,Army Black Knights,2014-01-05,-10.642958627333039,included_game_day
+2014,349,Army Black Knights,2014-01-08,-3.1101299273381873,included_game_day
+2014,349,Army Black Knights,2014-01-11,-0.4105413236441908,included_game_day
+2014,349,Army Black Knights,2014-01-15,-7.048077824570598,included_game_day
+2014,349,Army Black Knights,2014-01-19,-3.2096540591917466,included_game_day
+2014,349,Army Black Knights,2014-01-22,3.801664674869049,included_game_day
+2014,349,Army Black Knights,2014-01-25,-3.478370058106233,included_game_day
+2014,349,Army Black Knights,2014-01-29,-3.2298460977242445,included_game_day
+2014,349,Army Black Knights,2014-02-01,2.01164128506912,included_game_day
+2014,349,Army Black Knights,2014-02-05,16.144178393629133,included_game_day
+2014,349,Army Black Knights,2014-02-08,-20.71054424533066,included_game_day
+2014,349,Army Black Knights,2014-02-12,-15.45244927831832,included_game_day
+2014,349,Army Black Knights,2014-02-15,-23.948329458979774,included_game_day
+2014,349,Army Black Knights,2014-02-19,-18.545335000137236,included_game_day
+2014,349,Army Black Knights,2014-02-22,-14.586389405437103,included_game_day
+2014,349,Army Black Knights,2014-02-26,-13.622857227100983,included_game_day
+2014,349,Army Black Knights,2014-03-01,-14.166977464249658,included_game_day
+2014,349,Army Black Knights,2014-03-05,-6.626361328165556,included_game_day
+2014,349,Army Black Knights,2014-03-08,-17.071161561706994,included_game_day
+2015,349,Army Black Knights,2014-11-14,3.0,included_game_day
+2015,349,Army Black Knights,2014-11-15,5.8,included_game_day
+2015,349,Army Black Knights,2014-11-19,9.42,included_game_day
+2015,349,Army Black Knights,2014-11-22,25.478,included_game_day
+2015,349,Army Black Knights,2014-11-25,39.03819,included_game_day
+2015,349,Army Black Knights,2014-11-30,32.373613000000006,included_game_day
+2015,349,Army Black Knights,2014-12-03,28.468062800000006,included_game_day
+2015,349,Army Black Knights,2014-12-09,12.122910706500004,included_game_day
+2015,349,Army Black Knights,2014-12-13,23.094012938850003,included_game_day
+2015,349,Army Black Knights,2014-12-21,11.285789831605003,included_game_day
+2015,349,Army Black Knights,2014-12-31,-6.76761462189654,included_game_day
+2015,349,Army Black Knights,2015-01-03,10.56718270338603,included_game_day
+2015,349,Army Black Knights,2015-01-07,-8.499308863610652,included_game_day
+2015,349,Army Black Knights,2015-01-10,-24.207423477473796,included_game_day
+2015,349,Army Black Knights,2015-01-14,-21.784704370692452,included_game_day
+2015,349,Army Black Knights,2015-01-17,-25.796267085340165,included_game_day
+2015,349,Army Black Knights,2015-01-21,-24.468643033260918,included_game_day
+2015,349,Army Black Knights,2015-01-26,-19.302675830259037,included_game_day
+2015,349,Army Black Knights,2015-01-29,-20.70308784984316,included_game_day
+2015,349,Army Black Knights,2015-01-31,-34.335590468197616,included_game_day
+2015,349,Army Black Knights,2015-02-04,-59.048922579083104,included_game_day
+2015,349,Army Black Knights,2015-02-07,-63.80460211251096,included_game_day
+2015,349,Army Black Knights,2015-02-11,-75.03344005230659,included_game_day
+2015,349,Army Black Knights,2015-02-15,-74.16160394321551,included_game_day
+2015,349,Army Black Knights,2015-02-18,-79.58933386669047,included_game_day
+2015,349,Army Black Knights,2015-02-22,-69.29695881025363,included_game_day
+2015,349,Army Black Knights,2015-02-25,-66.93475241905769,included_game_day
+2015,349,Army Black Knights,2015-02-28,-71.82783578903528,included_game_day
+2015,349,Army Black Knights,2015-03-03,-69.62291744935577,included_game_day
+2016,349,Army Black Knights,2015-11-15,17.3,included_game_day
+2016,349,Army Black Knights,2015-11-18,26.17,included_game_day
+2016,349,Army Black Knights,2015-11-22,17.276000000000003,included_game_day
+2016,349,Army Black Knights,2015-11-24,6.371500000000003,included_game_day
+2016,349,Army Black Knights,2015-11-27,18.75647,included_game_day
+2016,349,Army Black Knights,2015-11-28,12.401029999999999,included_game_day
+2016,349,Army Black Knights,2015-12-02,24.346033,included_game_day
+2016,349,Army Black Knights,2015-12-08,34.246755177,included_game_day
+2016,349,Army Black Knights,2015-12-12,42.3245366215,included_game_day
+2016,349,Army Black Knights,2015-12-20,22.023885387880004,included_game_day
+2016,349,Army Black Knights,2015-12-28,29.761015243442287,included_game_day
+2016,349,Army Black Knights,2015-12-30,28.651632253895848,included_game_day
+2016,349,Army Black Knights,2016-01-02,13.53266994686118,included_game_day
+2016,349,Army Black Knights,2016-01-06,-3.29268355338807,included_game_day
+2016,349,Army Black Knights,2016-01-09,7.87714838817609,included_game_day
+2016,349,Army Black Knights,2016-01-13,-8.238387303470402,included_game_day
+2016,349,Army Black Knights,2016-01-17,-4.3841647604584235,included_game_day
+2016,349,Army Black Knights,2016-01-20,-13.13133456903951,included_game_day
+2016,349,Army Black Knights,2016-01-27,-27.941244130485426,included_game_day
+2016,349,Army Black Knights,2016-01-30,-49.12612204981711,included_game_day
+2016,349,Army Black Knights,2016-02-01,-63.19819953006175,included_game_day
+2016,349,Army Black Knights,2016-02-03,-61.42062464033982,included_game_day
+2016,349,Army Black Knights,2016-02-06,-64.29840464111919,included_game_day
+2016,349,Army Black Knights,2016-02-08,-53.228817936500896,included_game_day
+2016,349,Army Black Knights,2016-02-13,-47.21300809832644,included_game_day
+2016,349,Army Black Knights,2016-02-17,-50.62809397813736,included_game_day
+2016,349,Army Black Knights,2016-02-20,-41.98163500444109,included_game_day
+2016,349,Army Black Knights,2016-02-23,-27.225337993256865,included_game_day
+2016,349,Army Black Knights,2016-02-27,-34.73106472840119,included_game_day
+2016,349,Army Black Knights,2016-03-03,-32.200381244517516,included_game_day
+2016,349,Army Black Knights,2016-03-06,-61.677294682509384,included_game_day
+2016,349,Army Black Knights,2016-03-16,-71.55205584342701,included_game_day
+2017,349,Army Black Knights,2016-11-11,-11.0,included_game_day
+2017,349,Army Black Knights,2016-11-19,-15.289,included_game_day
+2017,349,Army Black Knights,2016-11-20,-25.9161,included_game_day
+2017,349,Army Black Knights,2016-11-23,-15.23249,included_game_day
+2017,349,Army Black Knights,2016-11-26,-9.526801,included_game_day
+2017,349,Army Black Knights,2016-11-30,3.6405790999999983,included_game_day
+2017,349,Army Black Knights,2016-12-03,13.527681643999998,included_game_day
+2017,349,Army Black Knights,2016-12-07,20.4519840296,included_game_day
+2017,349,Army Black Knights,2016-12-10,15.991917293039998,included_game_day
+2017,349,Army Black Knights,2016-12-19,13.35811181362254,included_game_day
+2017,349,Army Black Knights,2016-12-21,17.056023642700687,included_game_day
+2017,349,Army Black Knights,2016-12-30,9.77420672923892,included_game_day
+2017,349,Army Black Knights,2017-01-02,6.035957400317132,included_game_day
+2017,349,Army Black Knights,2017-01-05,-6.716183469405648,included_game_day
+2017,349,Army Black Knights,2017-01-08,-3.3479310850736317,included_game_day
+2017,349,Army Black Knights,2017-01-11,-16.415006608931474,included_game_day
+2017,349,Army Black Knights,2017-01-14,-13.81406819735763,included_game_day
+2017,349,Army Black Knights,2017-01-18,-27.68927144276865,included_game_day
+2017,349,Army Black Knights,2017-01-21,-43.14769850991166,included_game_day
+2017,349,Army Black Knights,2017-01-25,-37.78608423113985,included_game_day
+2017,349,Army Black Knights,2017-01-28,-52.78844151391956,included_game_day
+2017,349,Army Black Knights,2017-02-01,-57.21214507412093,included_game_day
+2017,349,Army Black Knights,2017-02-04,-67.01662850011463,included_game_day
+2017,349,Army Black Knights,2017-02-08,-73.47120197983374,included_game_day
+2017,349,Army Black Knights,2017-02-11,-80.90621975743326,included_game_day
+2017,349,Army Black Knights,2017-02-15,-67.19674540997852,included_game_day
+2017,349,Army Black Knights,2017-02-18,-53.96991118089014,included_game_day
+2017,349,Army Black Knights,2017-02-22,-41.59553021934249,included_game_day
+2017,349,Army Black Knights,2017-02-25,-43.54770888701529,included_game_day
+2017,349,Army Black Knights,2017-02-28,-32.925788765479275,included_game_day
+2017,349,Army Black Knights,2017-03-02,-33.549762102520546,included_game_day
+2018,349,Army Black Knights,2017-11-10,0.0,included_game_day
+2018,349,Army Black Knights,2017-11-18,22.99,included_game_day
+2018,349,Army Black Knights,2017-11-21,26.9891,included_game_day
+2018,349,Army Black Knights,2017-11-27,19.066646,included_game_day
+2018,349,Army Black Knights,2017-12-01,25.127078769999997,included_game_day
+2018,349,Army Black Knights,2017-12-02,24.540162030999998,included_game_day
+2018,349,Army Black Knights,2017-12-06,21.2068875041,included_game_day
+2018,349,Army Black Knights,2017-12-08,-1.9258147472900013,included_game_day
+2018,349,Army Black Knights,2017-12-12,8.482323166219999,included_game_day
+2018,349,Army Black Knights,2017-12-17,28.645519653982,included_game_day
+2018,349,Army Black Knights,2017-12-29,16.651972693891707,included_game_day
+2018,349,Army Black Knights,2018-01-02,18.53283048053364,included_game_day
+2018,349,Army Black Knights,2018-01-05,-3.0637748729325978,included_game_day
+2018,349,Army Black Knights,2018-01-08,-6.102518171460559,included_game_day
+2018,349,Army Black Knights,2018-01-11,-2.9512961175781323,included_game_day
+2018,349,Army Black Knights,2018-01-14,-0.2385472796187904,included_game_day
+2018,349,Army Black Knights,2018-01-17,-8.823310723340729,included_game_day
+2018,349,Army Black Knights,2018-01-20,-4.057886338270459,included_game_day
+2018,349,Army Black Knights,2018-01-24,-12.273949663580026,included_game_day
+2018,349,Army Black Knights,2018-01-27,-24.289330884343723,included_game_day
+2018,349,Army Black Knights,2018-01-31,-23.833450760195362,included_game_day
+2018,349,Army Black Knights,2018-02-03,-22.803530022831765,included_game_day
+2018,349,Army Black Knights,2018-02-07,-49.16249572645889,included_game_day
+2018,349,Army Black Knights,2018-02-10,-56.23035892076196,included_game_day
+2018,349,Army Black Knights,2018-02-14,-64.90249837794263,included_game_day
+2018,349,Army Black Knights,2018-02-17,-88.71725806592232,included_game_day
+2018,349,Army Black Knights,2018-02-21,-80.83509025311714,included_game_day
+2018,349,Army Black Knights,2018-02-24,-82.396171339019,included_game_day
+2018,349,Army Black Knights,2018-02-27,-84.8554854030543,included_game_day
+2019,349,Army Black Knights,2018-11-06,1.0,included_game_day
+2019,349,Army Black Knights,2018-11-11,-14.7,included_game_day
+2019,349,Army Black Knights,2018-11-16,-15.129999999999999,included_game_day
+2019,349,Army Black Knights,2018-11-17,-22.4268,included_game_day
+2019,349,Army Black Knights,2018-11-18,-36.53,included_game_day
+2019,349,Army Black Knights,2018-11-24,-60.947154,included_game_day
+2019,349,Army Black Knights,2018-11-28,-51.1198026,included_game_day
+2019,349,Army Black Knights,2018-12-01,-48.48702067,included_game_day
+2019,349,Army Black Knights,2018-12-04,-46.1857745897,included_game_day
+2019,349,Army Black Knights,2018-12-08,-36.937852165020004,included_game_day
+2019,349,Army Black Knights,2018-12-12,-43.177368644518005,included_game_day
+2019,349,Army Black Knights,2018-12-22,-57.956045872032604,included_game_day
+2019,349,Army Black Knights,2019-01-02,-54.236040172644536,included_game_day
+2019,349,Army Black Knights,2019-01-05,-49.38022675107849,included_game_day
+2019,349,Army Black Knights,2019-01-09,-38.18139501313275,included_game_day
+2019,349,Army Black Knights,2019-01-12,-41.298608203505445,included_game_day
+2019,349,Army Black Knights,2019-01-16,-28.134603227401577,included_game_day
+2019,349,Army Black Knights,2019-01-19,-22.364610549274055,included_game_day
+2019,349,Army Black Knights,2019-01-23,-6.933392369181133,included_game_day
+2019,349,Army Black Knights,2019-01-26,-1.891226158117874,included_game_day
+2019,349,Army Black Knights,2019-01-30,-17.104997274813247,included_game_day
+2019,349,Army Black Knights,2019-02-02,-20.911663502181455,included_game_day
+2019,349,Army Black Knights,2019-02-06,-36.18619190673388,included_game_day
+2019,349,Army Black Knights,2019-02-09,-32.7393052836583,included_game_day
+2019,349,Army Black Knights,2019-02-13,-25.993061980785626,included_game_day
+2019,349,Army Black Knights,2019-02-16,-38.91788424291673,included_game_day
+2019,349,Army Black Knights,2019-02-20,-40.519292504933034,included_game_day
+2019,349,Army Black Knights,2019-02-24,-52.11918877927152,included_game_day
+2019,349,Army Black Knights,2019-02-27,-44.169565614882096,included_game_day
+2019,349,Army Black Knights,2019-03-02,-33.965007134636046,included_game_day
+2019,349,Army Black Knights,2019-03-07,-32.8177779707633,included_game_day
+2020,349,Army Black Knights,2019-11-05,-40.0,included_game_day
+2020,349,Army Black Knights,2019-11-12,-51.869,included_game_day
+2020,349,Army Black Knights,2019-11-18,-34.2071,included_game_day
+2020,349,Army Black Knights,2019-11-23,-48.271435,included_game_day
+2020,349,Army Black Knights,2019-11-30,-41.6462435,included_game_day
+2020,349,Army Black Knights,2019-12-04,-34.9847037,included_game_day
+2020,349,Army Black Knights,2019-12-07,-50.38774779536,included_game_day
+2020,349,Army Black Knights,2019-12-11,-56.158490511024,included_game_day
+2020,349,Army Black Knights,2019-12-14,-32.992849597768,included_game_day
+2020,349,Army Black Knights,2019-12-21,-53.511694716039415,included_game_day
+2020,349,Army Black Knights,2020-01-02,-54.4401094257722,included_game_day
+2020,349,Army Black Knights,2020-01-06,-55.20699624863753,included_game_day
+2020,349,Army Black Knights,2020-01-08,-62.29544988504546,included_game_day
+2020,349,Army Black Knights,2020-01-11,-75.3319991077076,included_game_day
+2020,349,Army Black Knights,2020-01-16,-63.3073330146965,included_game_day
+2020,349,Army Black Knights,2020-01-18,-65.62646344617336,included_game_day
+2020,349,Army Black Knights,2020-01-22,-35.30165792308301,included_game_day
+2020,349,Army Black Knights,2020-01-25,-21.612091791450233,included_game_day
+2020,349,Army Black Knights,2020-01-29,-15.788191129714756,included_game_day
+2020,349,Army Black Knights,2020-02-01,-19.389912099611117,included_game_day
+2020,349,Army Black Knights,2020-02-05,-29.661671360566757,included_game_day
+2020,349,Army Black Knights,2020-02-08,-34.851933995515,included_game_day
+2020,349,Army Black Knights,2020-02-12,-17.946060120279054,included_game_day
+2020,349,Army Black Knights,2020-02-15,-15.038133735543246,included_game_day
+2020,349,Army Black Knights,2020-02-19,-17.44984931307659,included_game_day
+2020,349,Army Black Knights,2020-02-22,-13.080830975843828,included_game_day
+2020,349,Army Black Knights,2020-02-26,-23.29045328972864,included_game_day
+2020,349,Army Black Knights,2020-02-29,-39.38342046406527,included_game_day
+2020,349,Army Black Knights,2020-03-05,-47.25626342661955,included_game_day
+2021,349,Army Black Knights,2020-11-27,19.6,included_game_day
+2021,349,Army Black Knights,2020-11-28,22.107,included_game_day
+2021,349,Army Black Knights,2020-12-02,12.8963,included_game_day
+2021,349,Army Black Knights,2020-12-06,10.24867,included_game_day
+2021,349,Army Black Knights,2021-01-02,-31.776197,included_game_day
+2021,349,Army Black Knights,2021-01-03,-19.3960906,included_game_day
+2021,349,Army Black Knights,2021-01-09,0.2435184599999971,included_game_day
+2021,349,Army Black Knights,2021-01-10,-14.044794292000002,included_game_day
+2021,349,Army Black Knights,2021-01-16,5.6392908279999965,included_game_day
+2021,349,Army Black Knights,2021-01-17,12.386558923999997,included_game_day
+2021,349,Army Black Knights,2021-01-23,10.111465576399997,included_game_day
+2021,349,Army Black Knights,2021-01-24,24.291390898319996,included_game_day
+2021,349,Army Black Knights,2021-02-13,19.387191325389917,included_game_day
+2021,349,Army Black Knights,2021-02-14,16.463831667045852,included_game_day
+2021,349,Army Black Knights,2021-02-20,9.247823255961432,included_game_day
+2021,349,Army Black Knights,2021-02-21,-10.524983472906104,included_game_day
+2021,349,Army Black Knights,2021-02-27,-28.20667229373233,included_game_day
+2021,349,Army Black Knights,2021-02-28,-28.352023350393306,included_game_day
+2021,349,Army Black Knights,2021-03-06,-5.184883063991201,included_game_day
+2021,349,Army Black Knights,2021-03-10,-8.825620368779823,included_game_day
+2021,349,Army Black Knights,2021-03-22,-16.11828510497341,included_game_day
+2022,349,Army Black Knights,2021-11-12,-22.2,included_game_day
+2022,349,Army Black Knights,2021-11-13,-14.43,included_game_day
+2022,349,Army Black Knights,2021-11-17,6.913,included_game_day
+2022,349,Army Black Knights,2021-11-20,5.3917,included_game_day
+2022,349,Army Black Knights,2021-11-27,5.84798,included_game_day
+2022,349,Army Black Knights,2021-11-30,-21.225929530000002,included_game_day
+2022,349,Army Black Knights,2021-12-04,-32.599093439,included_game_day
+2022,349,Army Black Knights,2021-12-10,-9.3950062563,included_game_day
+2022,349,Army Black Knights,2021-12-19,-35.107847972673,included_game_day
+2022,349,Army Black Knights,2021-12-22,-57.78391610592844,included_game_day
+2022,349,Army Black Knights,2022-01-01,-53.90452426998067,included_game_day
+2022,349,Army Black Knights,2022-01-04,-44.738415446083906,included_game_day
+2022,349,Army Black Knights,2022-01-07,-28.42637248984135,included_game_day
+2022,349,Army Black Knights,2022-01-10,-42.946602642671884,included_game_day
+2022,349,Army Black Knights,2022-01-13,-31.046367378235807,included_game_day
+2022,349,Army Black Knights,2022-01-16,-46.3388438798655,included_game_day
+2022,349,Army Black Knights,2022-01-19,-45.76587204332283,included_game_day
+2022,349,Army Black Knights,2022-01-22,-36.6506404186192,included_game_day
+2022,349,Army Black Knights,2022-01-26,-46.661143284424725,included_game_day
+2022,349,Army Black Knights,2022-01-29,-47.383202523560236,included_game_day
+2022,349,Army Black Knights,2022-02-02,-47.62340622005021,included_game_day
+2022,349,Army Black Knights,2022-02-05,-58.977984373670076,included_game_day
+2022,349,Army Black Knights,2022-02-09,-50.197505170775884,included_game_day
+2022,349,Army Black Knights,2022-02-12,-50.27158501031121,included_game_day
+2022,349,Army Black Knights,2022-02-16,-53.11492158676581,included_game_day
+2022,349,Army Black Knights,2022-02-19,-70.28491676312198,included_game_day
+2022,349,Army Black Knights,2022-02-23,-63.95226395656607,included_game_day
+2022,349,Army Black Knights,2022-02-26,-55.58708045161261,included_game_day
+2022,349,Army Black Knights,2022-03-03,-64.97315086111797,included_game_day
+2023,349,Army Black Knights,2022-11-12,-11.44,included_game_day
+2023,349,Army Black Knights,2022-11-16,-3.4159999999999986,included_game_day
+2023,349,Army Black Knights,2022-11-19,-11.868699999999999,included_game_day
+2023,349,Army Black Knights,2022-11-20,-26.31183,included_game_day
+2023,349,Army Black Knights,2022-11-24,-28.378847,included_game_day
+2023,349,Army Black Knights,2022-11-26,-28.4026723,included_game_day
+2023,349,Army Black Knights,2022-12-03,-18.93760437,included_game_day
+2023,349,Army Black Knights,2022-12-07,-25.1537571672,included_game_day
+2023,349,Army Black Knights,2022-12-10,-32.061348517469995,included_game_day
+2023,349,Army Black Knights,2022-12-18,-41.02149920300107,included_game_day
+2023,349,Army Black Knights,2022-12-20,-28.0994230427581,included_game_day
+2023,349,Army Black Knights,2022-12-30,-34.465273402322325,included_game_day
+2023,349,Army Black Knights,2023-01-02,-14.588892410119698,included_game_day
+2023,349,Army Black Knights,2023-01-05,3.7887757280578214,included_game_day
+2023,349,Army Black Knights,2023-01-09,3.165096249563418,included_game_day
+2023,349,Army Black Knights,2023-01-11,14.91167754250544,included_game_day
+2023,349,Army Black Knights,2023-01-14,24.589006938595602,included_game_day
+2023,349,Army Black Knights,2023-01-18,10.449475225567904,included_game_day
+2023,349,Army Black Knights,2023-01-21,-2.647775358785905,included_game_day
+2023,349,Army Black Knights,2023-01-25,-2.3519532991384113,included_game_day
+2023,349,Army Black Knights,2023-01-28,-0.771499958083202,included_game_day
+2023,349,Army Black Knights,2023-02-01,4.071482596019504,included_game_day
+2023,349,Army Black Knights,2023-02-04,-6.723350360702762,included_game_day
+2023,349,Army Black Knights,2023-02-08,-11.529473262184252,included_game_day
+2023,349,Army Black Knights,2023-02-11,-22.370254131767204,included_game_day
+2023,349,Army Black Knights,2023-02-15,-17.43369344158366,included_game_day
+2023,349,Army Black Knights,2023-02-18,-11.892257021317835,included_game_day
+2023,349,Army Black Knights,2023-02-22,-23.575557569717827,included_game_day
+2023,349,Army Black Knights,2023-02-25,-12.09347709828127,included_game_day
+2023,349,Army Black Knights,2023-03-02,-14.659200838547427,included_game_day
+2023,349,Army Black Knights,2023-03-05,-19.688847824709804,included_game_day
+2024,349,Army Black Knights,2023-11-06,-19.0,included_game_day
+2024,349,Army Black Knights,2023-11-09,-31.3,included_game_day
+2024,349,Army Black Knights,2023-11-12,-32.870000000000005,included_game_day
+2024,349,Army Black Knights,2023-11-17,-43.185,included_game_day
+2024,349,Army Black Knights,2023-11-21,-44.54345,included_game_day
+2024,349,Army Black Knights,2023-11-25,-44.432783,included_game_day
+2024,349,Army Black Knights,2023-11-29,-74.8384547,included_game_day
+2024,349,Army Black Knights,2023-12-05,-57.93886983,included_game_day
+2024,349,Army Black Knights,2023-12-08,-55.2215307133,included_game_day
+2024,349,Army Black Knights,2023-12-17,-58.32065433310359,included_game_day
+2024,349,Army Black Knights,2023-12-21,-42.43451242746918,included_game_day
+2024,349,Army Black Knights,2024-01-03,-50.575172693573805,included_game_day
+2024,349,Army Black Knights,2024-01-06,-46.58226934324111,included_game_day
+2024,349,Army Black Knights,2024-01-10,-61.088477333330175,included_game_day
+2024,349,Army Black Knights,2024-01-13,-72.94384608819354,included_game_day
+2024,349,Army Black Knights,2024-01-17,-76.35742260691882,included_game_day
+2024,349,Army Black Knights,2024-01-20,-72.82288742875198,included_game_day
+2024,349,Army Black Knights,2024-01-24,-58.561272386989515,included_game_day
+2024,349,Army Black Knights,2024-01-27,-69.20968149678113,included_game_day
+2024,349,Army Black Knights,2024-01-31,-75.39482725497746,included_game_day
+2024,349,Army Black Knights,2024-02-03,-83.29295620881665,included_game_day
+2024,349,Army Black Knights,2024-02-07,-64.14217636127793,included_game_day
+2024,349,Army Black Knights,2024-02-10,-67.25749604836719,included_game_day
+2024,349,Army Black Knights,2024-02-14,-52.162381118349565,included_game_day
+2024,349,Army Black Knights,2024-02-17,-48.94015023148289,included_game_day
+2024,349,Army Black Knights,2024-02-21,-81.85852336711338,included_game_day
+2024,349,Army Black Knights,2024-02-25,-90.14903291758968,included_game_day
+2024,349,Army Black Knights,2024-02-28,-109.49408676052374,included_game_day
+2024,349,Army Black Knights,2024-03-02,-107.1009975746762,included_game_day
+2024,349,Army Black Knights,2024-03-05,-126.19182005871643,included_game_day
+2025,349,Army Black Knights,2024-11-04,5.0,included_game_day
+2025,349,Army Black Knights,2024-11-08,-31.4,included_game_day
+2025,349,Army Black Knights,2024-11-15,-28.159999999999997,included_game_day
+2025,349,Army Black Knights,2024-11-20,-21.117299999999997,included_game_day
+2025,349,Army Black Knights,2024-11-22,-20.12287,included_game_day
+2025,349,Army Black Knights,2024-12-03,-18.149450511599998,included_game_day
+2025,349,Army Black Knights,2024-12-08,-36.563143081359996,included_game_day
+2025,349,Army Black Knights,2024-12-13,-42.733515722422,included_game_day
+2025,349,Army Black Knights,2024-12-22,-55.6513626900448,included_game_day
+2025,349,Army Black Knights,2024-12-29,-52.32268109269031,included_game_day
+2025,349,Army Black Knights,2025-01-02,-61.61378319683247,included_game_day
+2025,349,Army Black Knights,2025-01-05,-63.964722878228905,included_game_day
+2025,349,Army Black Knights,2025-01-08,-62.03032934961334,included_game_day
+2025,349,Army Black Knights,2025-01-11,-52.795516376334845,included_game_day
+2025,349,Army Black Knights,2025-01-15,-50.79632118329807,included_game_day
+2025,349,Army Black Knights,2025-01-18,-49.145204966822156,included_game_day
+2025,349,Army Black Knights,2025-01-22,-42.98496980779508,included_game_day
+2025,349,Army Black Knights,2025-01-26,-59.04315711017547,included_game_day
+2025,349,Army Black Knights,2025-01-29,-42.99100611874058,included_game_day
+2025,349,Army Black Knights,2025-02-01,-39.90043714613892,included_game_day
+2025,349,Army Black Knights,2025-02-05,-43.567802399896436,included_game_day
+2025,349,Army Black Knights,2025-02-08,-36.77673535474133,included_game_day
+2025,349,Army Black Knights,2025-02-12,-33.36463161397144,included_game_day
+2025,349,Army Black Knights,2025-02-15,-38.940671955695954,included_game_day
+2025,349,Army Black Knights,2025-02-19,-32.92327530285417,included_game_day
+2025,349,Army Black Knights,2025-02-23,-56.57877284512111,included_game_day
+2025,349,Army Black Knights,2025-02-25,-69.34353808081033,included_game_day
+2025,349,Army Black Knights,2025-03-01,-93.98577807293651,included_game_day
+2025,349,Army Black Knights,2025-03-06,-116.17889149579821,included_game_day
+2025,349,Army Black Knights,2025-03-23,-102.88744748955662,included_game_day
+2025,349,Army Black Knights,2025-03-24,-96.99750231511025,included_game_day
+2026,349,Army Black Knights,2025-11-08,-6.3,included_game_day
+2026,349,Army Black Knights,2025-11-11,-58.8,included_game_day
+2026,349,Army Black Knights,2025-11-15,-80.607,included_game_day
+2026,349,Army Black Knights,2025-11-18,-81.9685,included_game_day
+2026,349,Army Black Knights,2025-11-21,-80.32328000000001,included_game_day
+2026,349,Army Black Knights,2025-11-25,-92.90533200000002,included_game_day
+2026,349,Army Black Knights,2025-11-26,-80.11141880000001,included_game_day
+2026,349,Army Black Knights,2025-11-29,-79.53405097000001,included_game_day
+2026,349,Army Black Knights,2025-12-02,-80.53984002300001,included_game_day
+2026,349,Army Black Knights,2025-12-12,-68.8429871101094,included_game_day
+2026,349,Army Black Knights,2025-12-23,-68.06064890266462,included_game_day
+2026,349,Army Black Knights,2025-12-31,-57.7826013338712,included_game_day
+2026,349,Army Black Knights,2026-01-03,-63.68035130462744,included_game_day
+2026,349,Army Black Knights,2026-01-07,-78.61065822940019,included_game_day
+2026,349,Army Black Knights,2026-01-10,-80.03595953625327,included_game_day
+2026,349,Army Black Knights,2026-01-14,-83.06842428982957,included_game_day
+2026,349,Army Black Knights,2026-01-18,-91.74738250078155,included_game_day
+2026,349,Army Black Knights,2026-01-21,-87.52185705999287,included_game_day
+2026,349,Army Black Knights,2026-01-24,-102.97139983159241,included_game_day
+2026,349,Army Black Knights,2026-01-28,-98.31677840108804,included_game_day
+2026,349,Army Black Knights,2026-01-31,-99.56427636083615,included_game_day
+2026,349,Army Black Knights,2026-02-04,-103.48690809650128,included_game_day
+2026,349,Army Black Knights,2026-02-07,-107.0523526311973,included_game_day
+2026,349,Army Black Knights,2026-02-11,-121.49639962685936,included_game_day
+2026,349,Army Black Knights,2026-02-14,-123.62164510024436,included_game_day
+2026,349,Army Black Knights,2026-02-18,-103.35594880892683,included_game_day
+2026,349,Army Black Knights,2026-02-21,-108.74011476172306,included_game_day
+2026,349,Army Black Knights,2026-02-25,-116.50536219536806,included_game_day
+2026,349,Army Black Knights,2026-02-28,-117.36765034264623,included_game_day
+2026,349,Army Black Knights,2026-03-03,-125.38958054034534,included_game_day
+2027,349,Army Black Knights,2026-11-02,-31.0,included_game_day
+2027,349,Army Black Knights,2026-11-10,-36.47,included_game_day
+2027,349,Army Black Knights,2026-11-14,-34.87,included_game_day
+2027,349,Army Black Knights,2026-11-17,-40.2029,included_game_day
+2027,349,Army Black Knights,2026-11-21,-57.626587,included_game_day

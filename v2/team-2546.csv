@@ -1,0 +1,982 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1992,2546,SE Missouri St,1991-11-23,-25.0,included_game_day
+1992,2546,SE Missouri St,1991-11-25,-28.6,included_game_day
+1992,2546,SE Missouri St,1991-11-29,-35.54,included_game_day
+1992,2546,SE Missouri St,1991-11-30,-35.76,included_game_day
+1992,2546,SE Missouri St,1991-12-02,-10.479,included_game_day
+1992,2546,SE Missouri St,1991-12-05,-41.3387,included_game_day
+1992,2546,SE Missouri St,1991-12-07,-38.002880000000005,included_game_day
+1992,2546,SE Missouri St,1991-12-19,-37.250770107,included_game_day
+1992,2546,SE Missouri St,1991-12-30,-39.7974286054132,included_game_day
+1992,2546,SE Missouri St,1992-01-04,-39.34299900060186,included_game_day
+1992,2546,SE Missouri St,1992-01-06,-49.068236599744104,included_game_day
+1992,2546,SE Missouri St,1992-01-11,-46.56114024310653,included_game_day
+1992,2546,SE Missouri St,1992-01-13,-52.079875837713395,included_game_day
+1992,2546,SE Missouri St,1992-01-18,-41.13944722039319,included_game_day
+1992,2546,SE Missouri St,1992-01-20,-39.787121848198986,included_game_day
+1992,2546,SE Missouri St,1992-01-25,-45.32262884505033,included_game_day
+1992,2546,SE Missouri St,1992-01-27,-74.52074707368321,included_game_day
+1992,2546,SE Missouri St,1992-02-01,-77.45909253787309,included_game_day
+1992,2546,SE Missouri St,1992-02-03,-73.06933709287436,included_game_day
+1992,2546,SE Missouri St,1992-02-08,-77.10980820994088,included_game_day
+1992,2546,SE Missouri St,1992-02-10,-72.3841849514379,included_game_day
+1992,2546,SE Missouri St,1992-02-15,-80.2589535673473,included_game_day
+1992,2546,SE Missouri St,1992-02-17,-75.55326991501616,included_game_day
+1992,2546,SE Missouri St,1992-02-22,-65.16316567727259,included_game_day
+1992,2546,SE Missouri St,1992-02-24,-72.79453653680142,included_game_day
+1992,2546,SE Missouri St,1992-02-26,-43.59205021022387,included_game_day
+1993,2546,SE Missouri St,1992-12-01,-1.0,included_game_day
+1993,2546,SE Missouri St,1992-12-04,1.1,included_game_day
+1993,2546,SE Missouri St,1992-12-05,0.69,included_game_day
+1993,2546,SE Missouri St,1992-12-07,12.421,included_game_day
+1993,2546,SE Missouri St,1992-12-11,-6.821100000000001,included_game_day
+1993,2546,SE Missouri St,1992-12-12,4.105369999999999,included_game_day
+1993,2546,SE Missouri St,1992-12-17,-17.623167000000002,included_game_day
+1993,2546,SE Missouri St,1992-12-21,-36.4897708,included_game_day
+1993,2546,SE Missouri St,1993-01-02,-58.561282692125005,included_game_day
+1993,2546,SE Missouri St,1993-01-09,-79.0889681300105,included_game_day
+1993,2546,SE Missouri St,1993-01-11,-54.65920631614986,included_game_day
+1993,2546,SE Missouri St,1993-01-16,-68.20379439044696,included_game_day
+1993,2546,SE Missouri St,1993-01-18,-46.6975755252612,included_game_day
+1993,2546,SE Missouri St,1993-01-23,-52.07460450532105,included_game_day
+1993,2546,SE Missouri St,1993-01-25,-35.34339253473447,included_game_day
+1993,2546,SE Missouri St,1993-01-27,-38.51143027657072,included_game_day
+1993,2546,SE Missouri St,1993-01-30,-31.36154474379172,included_game_day
+1993,2546,SE Missouri St,1993-02-01,-34.16649722534056,included_game_day
+1993,2546,SE Missouri St,1993-02-06,-33.56511024124172,included_game_day
+1993,2546,SE Missouri St,1993-02-13,-49.743158474851725,included_game_day
+1993,2546,SE Missouri St,1993-02-15,-66.6705337421379,included_game_day
+1993,2546,SE Missouri St,1993-02-20,-43.23705025229593,included_game_day
+1993,2546,SE Missouri St,1993-02-22,-42.39197638271412,included_game_day
+1993,2546,SE Missouri St,1993-02-24,-54.17138894689427,included_game_day
+1993,2546,SE Missouri St,1993-02-27,-52.53596317254374,included_game_day
+1993,2546,SE Missouri St,1993-03-01,-63.58281487611302,included_game_day
+1994,2546,SE Missouri St,1993-11-27,-13.0,included_game_day
+1994,2546,SE Missouri St,1993-12-03,-12.53,included_game_day
+1994,2546,SE Missouri St,1993-12-04,-13.908,included_game_day
+1994,2546,SE Missouri St,1993-12-06,9.089799999999999,included_game_day
+1994,2546,SE Missouri St,1993-12-11,4.7808199999999985,included_game_day
+1994,2546,SE Missouri St,1993-12-12,29.174808,included_game_day
+1994,2546,SE Missouri St,1993-12-16,4.158531199999999,included_game_day
+1994,2546,SE Missouri St,1993-12-21,-22.36216240469,included_game_day
+1994,2546,SE Missouri St,1994-01-08,-43.624199890220545,included_game_day
+1994,2546,SE Missouri St,1994-01-10,-60.381071497304234,included_game_day
+1994,2546,SE Missouri St,1994-01-15,-58.32477427736253,included_game_day
+1994,2546,SE Missouri St,1994-01-17,-39.24813492518557,included_game_day
+1994,2546,SE Missouri St,1994-01-22,-47.45995612815052,included_game_day
+1994,2546,SE Missouri St,1994-01-24,-36.75290668630729,included_game_day
+1994,2546,SE Missouri St,1994-01-29,-36.65831939179367,included_game_day
+1994,2546,SE Missouri St,1994-01-31,-39.2395138253763,included_game_day
+1994,2546,SE Missouri St,1994-02-02,-32.83805743547208,included_game_day
+1994,2546,SE Missouri St,1994-02-05,-55.075009801735746,included_game_day
+1994,2546,SE Missouri St,1994-02-07,-62.248471748456375,included_game_day
+1994,2546,SE Missouri St,1994-02-14,-91.45423712003881,included_game_day
+1994,2546,SE Missouri St,1994-02-15,-84.29984316103894,included_game_day
+1994,2546,SE Missouri St,1994-02-19,-75.01739876602275,included_game_day
+1994,2546,SE Missouri St,1994-02-23,-72.30180747632758,included_game_day
+1994,2546,SE Missouri St,1994-02-26,-90.63708536982776,included_game_day
+1994,2546,SE Missouri St,1994-02-28,-62.75283816707313,included_game_day
+1994,2546,SE Missouri St,1994-03-02,-77.09768060257532,included_game_day
+1995,2546,SE Missouri St,1994-12-02,6.63,included_game_day
+1995,2546,SE Missouri St,1994-12-03,18.293,included_game_day
+1995,2546,SE Missouri St,1994-12-06,12.92175,included_game_day
+1995,2546,SE Missouri St,1994-12-10,11.2397026,included_game_day
+1995,2546,SE Missouri St,1994-12-15,5.113072539999999,included_game_day
+1995,2546,SE Missouri St,1994-12-20,-19.990871714,included_game_day
+1995,2546,SE Missouri St,1994-12-22,-34.493495732599996,included_game_day
+1995,2546,SE Missouri St,1995-01-07,-36.38497541653537,included_game_day
+1995,2546,SE Missouri St,1995-01-09,-38.964630286950324,included_game_day
+1995,2546,SE Missouri St,1995-01-14,-54.6643643153096,included_game_day
+1995,2546,SE Missouri St,1995-01-16,-52.954798207042444,included_game_day
+1995,2546,SE Missouri St,1995-01-21,-46.01556447207878,included_game_day
+1995,2546,SE Missouri St,1995-01-23,-47.05384353265242,included_game_day
+1995,2546,SE Missouri St,1995-01-28,-42.317492076287046,included_game_day
+1995,2546,SE Missouri St,1995-01-30,-61.02364590754604,included_game_day
+1995,2546,SE Missouri St,1995-02-01,-62.11529074349646,included_game_day
+1995,2546,SE Missouri St,1995-02-04,-84.90632259584089,included_game_day
+1995,2546,SE Missouri St,1995-02-06,-83.6150711099408,included_game_day
+1995,2546,SE Missouri St,1995-02-11,-72.2494113512246,included_game_day
+1995,2546,SE Missouri St,1995-02-13,-58.174033479766784,included_game_day
+1995,2546,SE Missouri St,1995-02-18,-76.4929556357734,included_game_day
+1995,2546,SE Missouri St,1995-02-25,-71.29888424338358,included_game_day
+1995,2546,SE Missouri St,1995-02-27,-62.82844404933288,included_game_day
+1995,2546,SE Missouri St,1995-03-02,-64.30653169181588,included_game_day
+1995,2546,SE Missouri St,1995-03-04,-73.95104168424892,included_game_day
+1996,2546,SE Missouri St,1995-12-01,14.43,included_game_day
+1996,2546,SE Missouri St,1995-12-02,8.167,included_game_day
+1996,2546,SE Missouri St,1995-12-05,1.3486899999999995,included_game_day
+1996,2546,SE Missouri St,1995-12-08,-8.34797,included_game_day
+1996,2546,SE Missouri St,1995-12-09,-6.3169507629999995,included_game_day
+1996,2546,SE Missouri St,1995-12-14,-7.8246846866999995,included_game_day
+1996,2546,SE Missouri St,1995-12-16,-28.66779731803,included_game_day
+1996,2546,SE Missouri St,1996-01-03,-53.49349740533559,included_game_day
+1996,2546,SE Missouri St,1996-01-06,-63.56273481056546,included_game_day
+1996,2546,SE Missouri St,1996-01-08,-46.119063096559486,included_game_day
+1996,2546,SE Missouri St,1996-01-11,-39.14375295583692,included_game_day
+1996,2546,SE Missouri St,1996-01-13,-28.74470038626065,included_game_day
+1996,2546,SE Missouri St,1996-01-15,-37.78194670408992,included_game_day
+1996,2546,SE Missouri St,1996-01-20,-52.61633490781993,included_game_day
+1996,2546,SE Missouri St,1996-01-22,-51.47962757284622,included_game_day
+1996,2546,SE Missouri St,1996-01-25,-74.87163102428846,included_game_day
+1996,2546,SE Missouri St,1996-02-01,-65.44065471098054,included_game_day
+1996,2546,SE Missouri St,1996-02-03,-70.49010079630732,included_game_day
+1996,2546,SE Missouri St,1996-02-05,-71.71812512669831,included_game_day
+1996,2546,SE Missouri St,1996-02-08,-85.6476117279751,included_game_day
+1996,2546,SE Missouri St,1996-02-10,-95.52945916214544,included_game_day
+1996,2546,SE Missouri St,1996-02-12,-90.4115781499985,included_game_day
+1996,2546,SE Missouri St,1996-02-17,-116.23469754852859,included_game_day
+1996,2546,SE Missouri St,1996-02-19,-108.30472741021076,included_game_day
+1996,2546,SE Missouri St,1996-02-22,-115.7565323978143,included_game_day
+1996,2546,SE Missouri St,1996-02-24,-114.92148027232915,included_game_day
+1997,2546,SE Missouri St,1996-11-30,-8.45,included_game_day
+1997,2546,SE Missouri St,1996-12-07,-27.7903298,included_game_day
+1997,2546,SE Missouri St,1996-12-09,-15.356112819999998,included_game_day
+1997,2546,SE Missouri St,1996-12-12,-24.891361537999998,included_game_day
+1997,2546,SE Missouri St,1996-12-15,-28.2386369842,included_game_day
+1997,2546,SE Missouri St,1996-12-30,-37.40494974613843,included_game_day
+1997,2546,SE Missouri St,1996-12-31,-44.61884452245438,included_game_day
+1997,2546,SE Missouri St,1997-01-01,-44.17559046725483,included_game_day
+1997,2546,SE Missouri St,1997-01-04,-52.97372462989772,included_game_day
+1997,2546,SE Missouri St,1997-01-06,-35.20559782070835,included_game_day
+1997,2546,SE Missouri St,1997-01-09,-31.739028231892245,included_game_day
+1997,2546,SE Missouri St,1997-01-11,-37.97884205101142,included_game_day
+1997,2546,SE Missouri St,1997-01-13,-27.902860901608353,included_game_day
+1997,2546,SE Missouri St,1997-01-18,-20.734499670653143,included_game_day
+1997,2546,SE Missouri St,1997-01-20,-22.667101021597574,included_game_day
+1997,2546,SE Missouri St,1997-01-23,-22.404414352664073,included_game_day
+1997,2546,SE Missouri St,1997-01-25,-29.620298615236806,included_game_day
+1997,2546,SE Missouri St,1997-02-01,-33.0900534235056,included_game_day
+1997,2546,SE Missouri St,1997-02-03,-32.24100923887077,included_game_day
+1997,2546,SE Missouri St,1997-02-06,-44.044803375838335,included_game_day
+1997,2546,SE Missouri St,1997-02-08,-48.77318405082845,included_game_day
+1997,2546,SE Missouri St,1997-02-10,-61.71566498477016,included_game_day
+1997,2546,SE Missouri St,1997-02-15,-48.895759146777266,included_game_day
+1997,2546,SE Missouri St,1997-02-17,-38.70263618596729,included_game_day
+1997,2546,SE Missouri St,1997-02-20,-65.27248805448889,included_game_day
+1997,2546,SE Missouri St,1997-02-22,-92.45539861168517,included_game_day
+1997,2546,SE Missouri St,1997-02-25,-94.63236050549715,included_game_day
+1998,2546,SE Missouri St,1997-11-16,0.0,included_game_day
+1998,2546,SE Missouri St,1997-11-27,6.314,included_game_day
+1998,2546,SE Missouri St,1997-12-04,-1.3609,included_game_day
+1998,2546,SE Missouri St,1997-12-06,5.6187136,included_game_day
+1998,2546,SE Missouri St,1997-12-11,-13.157509772000001,included_game_day
+1998,2546,SE Missouri St,1997-12-13,-11.665770767700002,included_game_day
+1998,2546,SE Missouri St,1997-12-29,-26.6459889228805,included_game_day
+1998,2546,SE Missouri St,1998-01-03,-27.328471059909553,included_game_day
+1998,2546,SE Missouri St,1998-01-05,-29.955579779590348,included_game_day
+1998,2546,SE Missouri St,1998-01-08,-24.546561920550715,included_game_day
+1998,2546,SE Missouri St,1998-01-10,-39.10418645271363,included_game_day
+1998,2546,SE Missouri St,1998-01-13,-36.44988675462348,included_game_day
+1998,2546,SE Missouri St,1998-01-15,-46.03732005378742,included_game_day
+1998,2546,SE Missouri St,1998-01-17,-66.13734713495467,included_game_day
+1998,2546,SE Missouri St,1998-01-24,-65.87900906304999,included_game_day
+1998,2546,SE Missouri St,1998-01-29,-52.30698390013175,included_game_day
+1998,2546,SE Missouri St,1998-01-31,-35.79553147139344,included_game_day
+1998,2546,SE Missouri St,1998-02-03,-4.702602515013087,included_game_day
+1998,2546,SE Missouri St,1998-02-05,-34.536981584650405,included_game_day
+1998,2546,SE Missouri St,1998-02-07,-14.768382630422174,included_game_day
+1998,2546,SE Missouri St,1998-02-12,-1.5836350081190957,included_game_day
+1998,2546,SE Missouri St,1998-02-14,-5.481312951854019,included_game_day
+1998,2546,SE Missouri St,1998-02-21,5.822495784928108,included_game_day
+1998,2546,SE Missouri St,1998-02-24,-19.830869847067675,included_game_day
+1999,2546,SE Missouri St,1998-11-17,1.0,included_game_day
+1999,2546,SE Missouri St,1998-11-23,-12.89,included_game_day
+1999,2546,SE Missouri St,1998-12-03,-3.806902000000001,included_game_day
+1999,2546,SE Missouri St,1998-12-05,18.800073966,included_game_day
+1999,2546,SE Missouri St,1998-12-08,21.0592915694,included_game_day
+1999,2546,SE Missouri St,1998-12-10,26.323369322459996,included_game_day
+1999,2546,SE Missouri St,1998-12-22,22.741591101459996,included_game_day
+1999,2546,SE Missouri St,1998-12-28,-0.9105502131788157,included_game_day
+1999,2546,SE Missouri St,1998-12-30,-1.0609688589256123,included_game_day
+1999,2546,SE Missouri St,1999-01-04,-8.234410118923872,included_game_day
+1999,2546,SE Missouri St,1999-01-07,0.08420597803102936,included_game_day
+1999,2546,SE Missouri St,1999-01-09,8.894161978072216,included_game_day
+1999,2546,SE Missouri St,1999-01-12,16.535510939925985,included_game_day
+1999,2546,SE Missouri St,1999-01-14,17.35290292990301,included_game_day
+1999,2546,SE Missouri St,1999-01-16,12.497858457254713,included_game_day
+1999,2546,SE Missouri St,1999-01-23,21.00801835364809,included_game_day
+1999,2546,SE Missouri St,1999-01-30,29.734323563363716,included_game_day
+1999,2546,SE Missouri St,1999-02-02,24.592324576818605,included_game_day
+1999,2546,SE Missouri St,1999-02-04,27.830028144085862,included_game_day
+1999,2546,SE Missouri St,1999-02-06,11.275644457764205,included_game_day
+1999,2546,SE Missouri St,1999-02-11,8.775238660405664,included_game_day
+1999,2546,SE Missouri St,1999-02-13,13.129374148621222,included_game_day
+1999,2546,SE Missouri St,1999-02-16,15.787815772719417,included_game_day
+1999,2546,SE Missouri St,1999-02-20,28.58056910275199,included_game_day
+1999,2546,SE Missouri St,1999-02-23,37.81477176677805,included_game_day
+1999,2546,SE Missouri St,1999-02-27,36.948263706715245,included_game_day
+1999,2546,SE Missouri St,1999-02-28,41.50848930571271,included_game_day
+2000,2546,SE Missouri St,1999-11-19,21.0,included_game_day
+2000,2546,SE Missouri St,1999-11-27,19.1,included_game_day
+2000,2546,SE Missouri St,1999-12-02,26.839897,included_game_day
+2000,2546,SE Missouri St,1999-12-10,12.3292274,included_game_day
+2000,2546,SE Missouri St,1999-12-11,17.698355924730002,included_game_day
+2000,2546,SE Missouri St,1999-12-18,13.595255272928002,included_game_day
+2000,2546,SE Missouri St,1999-12-22,19.93803114479284,included_game_day
+2000,2546,SE Missouri St,2000-01-02,13.785369700717109,included_game_day
+2000,2546,SE Missouri St,2000-01-06,34.80299564988536,included_game_day
+2000,2546,SE Missouri St,2000-01-08,30.84501292101784,included_game_day
+2000,2546,SE Missouri St,2000-01-10,42.77348237924872,included_game_day
+2000,2546,SE Missouri St,2000-01-13,24.136759628514763,included_game_day
+2000,2546,SE Missouri St,2000-01-15,33.49477323209757,included_game_day
+2000,2546,SE Missouri St,2000-01-18,40.11321608101712,included_game_day
+2000,2546,SE Missouri St,2000-01-22,43.81145149641712,included_game_day
+2000,2546,SE Missouri St,2000-01-27,54.43171006759649,included_game_day
+2000,2546,SE Missouri St,2000-01-29,49.07217907414674,included_game_day
+2000,2546,SE Missouri St,2000-02-03,34.053235869658806,included_game_day
+2000,2546,SE Missouri St,2000-02-05,31.766617305760484,included_game_day
+2000,2546,SE Missouri St,2000-02-08,44.755663761200864,included_game_day
+2000,2546,SE Missouri St,2000-02-10,42.74907030261165,included_game_day
+2000,2546,SE Missouri St,2000-02-12,21.19336503037713,included_game_day
+2000,2546,SE Missouri St,2000-02-19,25.08979774486173,included_game_day
+2000,2546,SE Missouri St,2000-02-24,38.60423918332613,included_game_day
+2000,2546,SE Missouri St,2000-02-26,38.712932949643516,included_game_day
+2000,2546,SE Missouri St,2000-02-29,26.1719791425368,included_game_day
+2000,2546,SE Missouri St,2000-03-04,44.05413085450331,included_game_day
+2000,2546,SE Missouri St,2000-03-05,59.11184639268295,included_game_day
+2000,2546,SE Missouri St,2000-03-16,66.38622282920718,included_game_day
+2001,2546,SE Missouri St,2000-11-24,-16.0,included_game_day
+2001,2546,SE Missouri St,2000-11-25,7.592489999999998,included_game_day
+2001,2546,SE Missouri St,2000-11-26,9.088040999999999,included_game_day
+2001,2546,SE Missouri St,2000-11-29,0.7498368999999983,included_game_day
+2001,2546,SE Missouri St,2000-12-05,0.8924601699999983,included_game_day
+2001,2546,SE Missouri St,2000-12-09,-5.244915777000001,included_game_day
+2001,2546,SE Missouri St,2000-12-16,-4.770316869300001,included_game_day
+2001,2546,SE Missouri St,2000-12-20,13.74883804776179,included_game_day
+2001,2546,SE Missouri St,2000-12-27,3.5225168274425016,included_game_day
+2001,2546,SE Missouri St,2000-12-28,3.3717599868061345,included_game_day
+2001,2546,SE Missouri St,2001-01-04,31.23544789159471,included_game_day
+2001,2546,SE Missouri St,2001-01-06,2.571979568963176,included_game_day
+2001,2546,SE Missouri St,2001-01-11,-4.522459993009392,included_game_day
+2001,2546,SE Missouri St,2001-01-13,-3.040950342503278,included_game_day
+2001,2546,SE Missouri St,2001-01-20,-10.686788402410142,included_game_day
+2001,2546,SE Missouri St,2001-01-27,-6.815869421891922,included_game_day
+2001,2546,SE Missouri St,2001-01-29,-8.616114315971409,included_game_day
+2001,2546,SE Missouri St,2001-02-01,-15.583027866011397,included_game_day
+2001,2546,SE Missouri St,2001-02-03,-23.43093260828443,included_game_day
+2001,2546,SE Missouri St,2001-02-06,-27.05136310153574,included_game_day
+2001,2546,SE Missouri St,2001-02-08,-31.149195135779415,included_game_day
+2001,2546,SE Missouri St,2001-02-10,-19.154765999779723,included_game_day
+2001,2546,SE Missouri St,2001-02-17,-18.48396043794321,included_game_day
+2001,2546,SE Missouri St,2001-02-22,-18.48975199666985,included_game_day
+2001,2546,SE Missouri St,2001-02-24,-24.470464664975633,included_game_day
+2001,2546,SE Missouri St,2001-02-27,-20.700711864963854,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2001-11-16,-14.0,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2001-11-24,-19.5,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2001-11-27,-28.6339,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2001-12-01,-41.87897,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2001-12-05,-36.828189,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2001-12-15,-57.38834822290001,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2001-12-17,-72.58164466386,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2001-12-22,-71.29640003572291,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-01-02,-70.98559249014558,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-01-05,-77.04179859592318,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-01-07,-93.12481435141206,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-01-10,-77.02169759905755,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-01-12,-80.76523056069098,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-01-17,-88.20312214497312,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-01-19,-92.09368110962939,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-01-24,-92.5538915563418,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-01-26,-88.52883994977579,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-01-31,-89.19178625344658,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-02-02,-86.80124712454119,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-02-07,-94.37505905749546,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-02-09,-84.17107235695937,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-02-14,-56.8894879426411,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-02-16,-59.29489283640271,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-02-19,-46.081796594592404,included_game_day
+2002,2546,Southeast Missouri State Redhawks,2002-02-23,-75.53324503076757,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2002-11-22,-9.0,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2002-11-28,2.4939999999999998,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2002-11-29,-15.7254,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2002-12-01,-32.42286,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2002-12-07,-43.895774,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2002-12-14,-30.996966820000004,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2002-12-17,-48.444039194000005,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2002-12-21,-28.693212305878006,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2002-12-29,-32.26156962763021,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-01-04,-45.04877407072231,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-01-09,-26.00676563489886,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-01-11,-32.56471112496565,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-01-16,-43.481636187914745,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-01-18,-29.284787645460224,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-01-21,-41.81344770282139,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-01-25,-50.7469744270462,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-01-30,-46.43633964965343,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-02-01,-39.13811127972564,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-02-04,-46.68582808198687,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-02-06,-52.111502119447344,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-02-08,-62.68434139044886,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-02-13,-74.66681722365739,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-02-15,-67.44283375080113,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-02-18,-72.50403854972,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-02-22,-75.26674060586892,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-02-27,-78.36479116327585,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-03-01,-80.87563613081593,included_game_day
+2003,2546,Southeast Missouri State Redhawks,2003-03-04,-74.48840656817298,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2003-11-21,-2.0,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2003-11-29,-10.7,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2003-11-30,-4.861999999999999,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2003-12-03,-10.0308,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2003-12-06,6.5593,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2003-12-09,1.3555386300000007,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2003-12-22,1.598710787293001,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2003-12-31,-3.5854578863548188,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-01-03,-4.926117617418318,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-01-08,-13.031524028303071,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-01-10,-18.91013242236385,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-01-13,-0.15424518957341604,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-01-15,-3.8849292833823075,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-01-22,-4.592862583090455,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-01-24,-2.422242389553114,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-01-29,-19.197469070203923,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-01-31,-30.50347211979851,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-02-05,-23.820772634507705,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-02-07,-24.48913591286222,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-02-10,-37.31666454080605,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-02-14,-41.852904654245975,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-02-19,-46.90700100035146,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-02-21,-46.004706246564275,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-02-26,-42.624954205859254,included_game_day
+2004,2546,Southeast Missouri State Redhawks,2004-02-28,-61.62178381961291,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2004-11-19,-1.0,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2004-11-27,-6.029999999999999,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2004-12-01,-20.072,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2004-12-09,-25.569664691,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2004-12-18,-26.65700288914,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2004-12-22,-28.1460673523737,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2004-12-29,-11.49831357186962,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-01-06,-21.581254573445932,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-01-08,-20.12256872954269,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-01-11,-10.319705891922775,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-01-13,-11.443275434246521,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-01-20,-13.538052444620927,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-01-22,-7.198740064965049,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-01-27,0.2985215034176072,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-01-29,3.4200480053011324,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-02-03,1.5430490072927414,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-02-05,10.321280040541101,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-02-08,15.152760073058005,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-02-12,25.637410836083063,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-02-17,13.055563985743866,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-02-19,-18.9117771829998,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-02-24,-21.37141784220772,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-02-26,-11.052490333763254,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-03-01,-0.8775621877034219,included_game_day
+2005,2546,Southeast Missouri State Redhawks,2005-03-04,-15.771438292139004,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2005-11-21,-5.1,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2005-11-24,2.391000000000001,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2005-11-27,-8.278099999999998,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2005-12-03,-17.883589999999998,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2005-12-08,-18.095231,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2005-12-10,-31.761918039999998,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2005-12-19,-43.99164038258,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2005-12-21,-50.37419421136338,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2005-12-28,-53.469703116574465,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2006-01-02,-49.639748514652226,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2006-01-05,-36.42057388733223,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2006-01-07,-37.113443443864014,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2006-01-14,-43.788081510277934,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2006-01-19,-43.913276028292955,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2006-01-21,-48.77232988955469,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2006-01-26,-66.64370522256515,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2006-01-28,-67.1430979349536,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2006-01-30,-71.39745572538277,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2006-02-04,-82.03255359766824,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2006-02-09,-84.57964590578183,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2006-02-11,-110.06392072720084,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2006-02-15,-122.2933489588338,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2006-02-18,-128.10626495015293,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2006-02-23,-106.94650031706,included_game_day
+2006,2546,Southeast Missouri State Redhawks,2006-02-25,-114.4826445144867,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2006-11-10,-37.0,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2006-11-18,-81.583,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2006-11-24,-76.80909,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2006-11-27,-82.783881,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2006-11-29,-101.4681691,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2006-12-02,-96.73649108,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2006-12-07,-91.15216418758999,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2006-12-09,-96.122976307731,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2006-12-17,-96.6304164060748,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2006-12-19,-93.05059342471633,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2006-12-23,-97.92010764319545,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2006-12-30,-113.66388465158388,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-01-02,-83.98730685848378,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-01-04,-70.05377618420616,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-01-08,-52.334308916900696,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-01-13,-46.7961932702051,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-01-18,-35.13534771492493,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-01-20,-42.18121107883393,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-01-24,-35.43845616789274,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-01-27,-57.86929365668274,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-01-29,-55.76090818492044,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-02-03,-52.618303926774125,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-02-08,-53.11281085164583,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-02-10,-56.717341550586255,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-02-13,-64.29341493271014,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-02-17,-81.306778087259,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-02-22,-72.2783788454012,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-02-24,-76.22781371999677,included_game_day
+2007,2546,Southeast Missouri State Redhawks,2007-02-27,-93.66200775350623,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2007-11-10,-28.0,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2007-11-14,-41.2,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2007-11-20,-31.619000000000003,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2007-11-23,-37.54092,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2007-11-24,-37.426148,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2007-11-28,-29.261662199999996,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2007-12-01,-36.39204599,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2007-12-06,-32.33945951932,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2007-12-08,-25.961400219038,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2007-12-18,-21.573180141454202,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2007-12-20,-22.55638486953978,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2007-12-22,-52.7464355256359,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2008-01-02,-42.8846481883052,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2008-01-05,-31.61053791397562,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2008-01-07,-63.569742849910526,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2008-01-12,-57.92474721125824,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2008-01-17,-64.0211415576023,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2008-01-24,-69.3015732224838,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2008-01-26,-59.309826082720065,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2008-01-29,-53.22948738413817,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2008-02-02,-74.8671776733968,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2008-02-07,-79.90588816902724,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2008-02-09,-79.39356764923025,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2008-02-14,-106.07687363805391,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2008-02-16,-107.39797580779184,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2008-02-23,-99.71882248736807,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2008-02-28,-106.23631547534454,included_game_day
+2008,2546,Southeast Missouri State Redhawks,2008-03-01,-109.80073223592234,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2008-11-14,-40.0,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2008-11-16,-49.4,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2008-11-25,-71.5522,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2008-11-28,-65.08781,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2008-11-29,-78.97319,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2008-12-04,-98.095371,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2008-12-06,-106.1386622,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2008-12-10,-100.96253586,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2008-12-14,-102.41057375521001,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2008-12-21,-98.32427958642901,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2008-12-23,-102.92897151132867,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2008-12-31,-107.08824975714137,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-01-03,-122.41073876601287,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-01-05,-111.33841753046119,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-01-10,-125.93197945415359,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-01-12,-130.66576269476946,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-01-15,-127.28719982526226,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-01-17,-119.55552307941859,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-01-22,-114.33293501424478,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-01-24,-124.40448371297404,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-01-29,-129.2446102545664,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-01-31,-138.32009199259542,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-02-07,-130.1192452546203,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-02-12,-132.9167607559653,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-02-14,-125.84025624520729,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-02-17,-131.5103828124237,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-02-21,-154.62432086466043,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-02-26,-147.7222859591059,included_game_day
+2009,2546,Southeast Missouri State Redhawks,2009-02-28,-141.41990884045862,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2009-11-14,-15.0,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2009-11-18,-40.5,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2009-11-22,-27.903,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2009-11-24,-37.2254,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2009-11-27,-54.12586,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2009-11-28,-81.886933,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2009-11-29,-57.942501,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2009-12-03,-57.3137412,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2009-12-05,-45.608145081,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2009-12-09,-63.5923570179,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2009-12-22,-74.52130433388379,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-01-02,-85.53769032665541,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-01-04,-70.64646861935285,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-01-09,-83.70827589206773,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-01-14,-112.2013124723832,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-01-16,-113.14730099987952,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-01-21,-104.12321520150986,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-01-23,-105.8868660764346,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-01-28,-98.88887921934509,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-01-30,-104.45292399266577,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-02-02,-93.832425563924,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-02-06,-119.01108303245236,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-02-09,-121.08476080941583,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-02-11,-113.77491920983833,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-02-13,-119.16035433943046,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-02-16,-104.54129420901054,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-02-20,-107.56871725558962,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-02-25,-111.27727789066641,included_game_day
+2010,2546,Southeast Missouri State Redhawks,2010-02-27,-108.32005604619164,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2010-11-13,-19.0,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2010-11-16,-27.6,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2010-11-20,-29.340000000000003,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2010-11-22,-37.5088,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2010-11-24,-35.59804,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2010-11-27,-46.087019,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2010-12-02,-63.470652,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2010-12-04,-74.719471172,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2010-12-06,-83.02547753726,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2010-12-08,-87.953405924534,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2010-12-19,-71.44044865943013,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2010-12-21,-63.60341181421462,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2010-12-29,-65.19662928307721,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-01-03,-63.491663112913756,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-01-08,-61.450575592657394,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-01-13,-66.56809733177597,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-01-15,-78.92478001354169,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-01-20,-85.65823799963687,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-01-22,-110.61822587300148,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-01-27,-119.07355260441736,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-01-29,-119.6724836276718,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-02-05,-104.54445417937478,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-02-07,-86.70644572676642,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-02-10,-88.14072871584024,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-02-12,-83.30651033466624,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-02-16,-66.87224204081738,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-02-19,-55.33031242539147,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-02-24,-54.64180605869285,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-02-26,-67.39734964310951,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-03-02,-46.07332988765116,included_game_day
+2011,2546,Southeast Missouri State Redhawks,2011-03-03,-54.410166730730325,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2011-11-11,-12.0,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2011-11-16,-8.1,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2011-11-20,-29.779000000000003,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2011-11-26,-22.407100000000003,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2011-11-29,-37.355090000000004,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2011-12-03,-36.778275036000004,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2011-12-05,-49.0286404294,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2011-12-10,-50.96386327716,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2011-12-19,-69.84597256828299,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2011-12-22,-61.68055952547689,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2011-12-28,-45.008672102071,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-01-02,-28.861932354472746,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-01-05,-33.00230344056146,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-01-07,-31.692107019147297,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-01-12,-22.618605073574983,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-01-14,-19.139030277509193,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-01-21,-30.2423408406642,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-01-26,-25.706075701077285,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-01-30,-5.700666680333672,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-02-02,-1.8297817838321322,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-02-04,-7.674586255902355,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-02-09,8.356579831957806,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-02-11,15.426411019911386,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-02-15,7.943080257534551,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-02-18,-3.6884729956210345,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-02-23,-10.066076049222072,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-02-25,-19.147675776294527,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-02-29,-13.818921936931567,included_game_day
+2012,2546,Southeast Missouri State Redhawks,2012-03-01,-16.741009541197325,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2012-11-09,-16.0,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2012-11-15,-8.49,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2012-11-18,6.369,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2012-11-19,4.7291,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2012-11-20,-1.2196999999999996,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2012-11-24,-6.51861,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2012-11-29,9.408851000000002,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2012-12-01,6.256853000000001,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2012-12-04,-2.6578993229999988,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2012-12-08,-10.45209820653,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2012-12-19,4.1787854369805295,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2012-12-22,-1.0296404738114546,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2012-12-29,-9.86112715457579,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-01-03,-18.056679524258637,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-01-05,-23.504030396025755,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-01-10,-43.5387544947577,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-01-12,-48.29749579005244,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-01-17,-67.10329280288407,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-01-19,-60.055250381689234,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-01-24,-58.866014570967224,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-01-26,-63.56957325728975,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-02-02,-67.09899909677692,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-02-07,-60.827364061674956,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-02-09,-49.15246999821413,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-02-16,-31.42992955382796,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-02-20,-30.55391506192226,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-02-23,-39.50990287935141,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-02-28,-14.33494120637193,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-03-02,6.919014217504401,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-03-06,11.936891692458438,included_game_day
+2013,2546,Southeast Missouri State Redhawks,2013-03-07,0.76613688064222,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2013-11-08,-20.0,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2013-11-16,-8.35,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2013-11-18,-9.115,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2013-11-29,1.0427649999999993,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2013-11-30,27.50588644,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2013-12-01,31.27204724,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2013-12-07,24.938507865299997,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2013-12-14,9.980264824074997,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2013-12-21,8.419981319986299,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2013-12-23,1.9522415023441582,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2013-12-29,3.9704350449929144,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-01-02,-4.728984662975961,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-01-04,-11.62097098667272,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-01-09,-27.511006840567475,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-01-11,-27.781552858683742,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-01-16,-35.03755900510173,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-01-18,-23.703498338430435,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-01-23,-25.64715039175688,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-01-25,-37.84484706668354,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-01-29,-32.70200949729302,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-02-01,-24.006392524409534,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-02-06,-28.864632921168088,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-02-08,-23.599378353530582,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-02-12,-43.246367019543314,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-02-20,-33.35921671830208,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-02-22,-33.23057544704205,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-02-27,-38.72009068488521,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-03-01,-31.501290981701008,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-03-05,-15.716680342208981,included_game_day
+2014,2546,Southeast Missouri State Redhawks,2014-03-06,-20.264696311789322,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2014-11-14,-7.0,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2014-11-15,-17.9,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2014-11-22,-13.201999999999998,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2014-11-25,-13.701799999999999,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2014-11-29,13.929480000000002,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2014-12-02,10.014732000000002,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2014-12-06,6.4600039600000025,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2014-12-10,6.459310764000002,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2014-12-13,-11.055666032399998,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2014-12-20,-16.462723328967,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2014-12-22,-42.50864612725137,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-01-01,-35.410726637355815,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-01-03,-22.285697705935142,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-01-08,-38.13784186592953,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-01-10,-47.83180828083251,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-01-14,-30.421956257002275,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-01-17,-28.871579385922704,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-01-24,-41.962170241138836,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-01-29,-58.7318299484956,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-01-31,-51.37850252061445,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-02-05,-44.53936380018931,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-02-07,-42.44705472353869,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-02-12,-16.39943724140935,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-02-14,-10.179370467175817,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-02-19,-11.608720563194517,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-02-22,-19.750825989053812,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-02-28,-5.446938226057636,included_game_day
+2015,2546,Southeast Missouri State Redhawks,2015-03-04,-6.145705792505995,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2015-11-13,-28.0,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2015-11-15,-37.2,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2015-11-19,-48.08,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2015-11-24,-54.988,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2015-11-28,-67.850663,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2015-12-02,-79.44107919999999,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2015-12-05,-79.44510997999998,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2015-12-08,-101.82440279199999,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2015-12-12,-102.72540235279999,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2015-12-19,-103.66169323507089,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2015-12-22,-89.42981758419793,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2015-12-31,-91.55917824078706,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2016-01-02,-92.05378570885307,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2016-01-07,-106.79289133802746,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2016-01-09,-114.44240780063984,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2016-01-13,-128.69032657604114,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2016-01-16,-147.49413467071093,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2016-01-24,-130.66117633139783,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2016-01-28,-114.3169327952385,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2016-01-30,-117.41635288211226,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2016-02-04,-115.69402523047721,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2016-02-06,-113.3497762216168,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2016-02-11,-114.62130155188848,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2016-02-13,-129.39363484058185,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2016-02-18,-131.84559368364862,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2016-02-20,-130.74400186966182,included_game_day
+2016,2546,Southeast Missouri State Redhawks,2016-02-27,-127.62312197959862,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2016-11-11,-16.0,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2016-11-16,-10.8,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2016-11-18,-14.420000000000002,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2016-11-22,-11.120800000000003,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2016-11-28,-18.585620000000002,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2016-12-01,-0.4001240000000017,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2016-12-04,-17.0042663462,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2016-12-07,-21.93520076158,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2016-12-10,-34.437073641922,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2016-12-17,-29.62096237729702,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2016-12-19,-23.135138525945663,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2016-12-22,-40.24329644030027,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2016-12-23,-56.66714822762892,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2016-12-31,-26.432340417317285,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-01-05,-23.620015056416783,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-01-07,-28.274807046297347,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-01-10,-27.139290227614023,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-01-14,-35.98000668779632,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-01-19,-42.20145017720988,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-01-21,-32.10723042945992,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-01-26,-25.44557060720956,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-01-28,-15.862773776710908,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-02-01,-25.68029159726533,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-02-04,-34.22939955007593,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-02-09,-35.65593940023477,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-02-11,-39.23116528857235,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-02-18,-9.897116950329274,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-02-23,0.18617931906864094,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-02-25,-20.99752877939725,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-03-01,-16.86375135671002,included_game_day
+2017,2546,Southeast Missouri State Redhawks,2017-03-02,-39.40424706226709,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2017-11-13,2.0,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2017-11-16,-9.280000000000001,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2017-11-21,5.2905999999999995,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2017-11-22,-1.2050200000000002,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2017-11-26,-13.8492505,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2017-12-02,-1.9646349,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2017-12-06,-4.65177229,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2017-12-09,4.8061850715,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2017-12-16,-4.528579378982,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2017-12-20,-10.65174275139067,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2017-12-22,-38.598413426369376,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2017-12-28,-56.619661324219436,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2017-12-31,-46.64373587809598,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2018-01-04,-49.13280640252208,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2018-01-06,-47.33233160426486,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2018-01-11,-51.03710440789189,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2018-01-13,-60.7465377673325,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2018-01-18,-48.251356462740766,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2018-01-20,-32.735618155885675,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2018-01-25,-42.97721771118075,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2018-01-27,-55.05130393538951,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2018-02-01,-57.5890716104027,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2018-02-03,-71.44939264360315,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2018-02-08,-50.67264774087228,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2018-02-10,-45.75412015022312,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2018-02-15,-44.05750754852643,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2018-02-17,-45.97617775661653,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2018-02-22,-47.76639590526898,included_game_day
+2018,2546,Southeast Missouri State Redhawks,2018-02-24,-62.52845336014407,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2018-11-06,-7.0,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2018-11-10,-14.3,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2018-11-16,-10.458,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2018-11-17,9.902800000000001,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2018-11-19,-13.8532,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2018-12-01,-22.070197092,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2018-12-04,-10.4818402198,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2018-12-08,-18.12549601574,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2018-12-15,-23.007174758266,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2018-12-17,-27.148977894580398,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2018-12-21,-28.19101068247836,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-01-03,-33.9686088378453,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-01-05,-35.76346515777038,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-01-10,-49.068613181118565,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-01-12,-57.243947442158046,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-01-17,-58.11151137260013,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-01-19,-54.326423506757976,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-01-24,-60.92947639261829,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-01-26,-58.42558240001032,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-01-31,-69.3623449239757,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-02-02,-99.50544921888489,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-02-07,-96.95060364712465,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-02-09,-103.57147452101428,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-02-14,-104.43606533614472,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-02-16,-86.38414090149936,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-02-21,-83.38612409408121,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-02-23,-99.53490928701055,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-02-28,-85.23231533776925,included_game_day
+2019,2546,Southeast Missouri State Redhawks,2019-03-02,-83.55829546134127,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2019-11-06,-15.0,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2019-11-10,-16.7,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2019-11-19,-26.6834,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2019-11-27,-34.746175199999996,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2019-11-29,-38.058685679999996,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2019-11-30,-24.261101679999996,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2019-12-05,-30.248237566099995,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2019-12-07,-26.839724596189996,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2019-12-15,-39.869414597270996,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2019-12-17,-50.2696806035257,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2019-12-21,-61.7085606571029,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-01-02,-71.11480798838296,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-01-04,-80.14409762252491,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-01-09,-93.5696582147806,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-01-11,-91.7407472513713,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-01-16,-111.0281496921192,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-01-18,-102.76081837695295,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-01-23,-118.62012867259273,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-01-25,-106.15194856638702,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-01-30,-117.46697890669057,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-02-01,-121.36947693076596,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-02-06,-112.8651900687004,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-02-08,-117.97741099664955,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-02-13,-117.19998162617541,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-02-15,-112.98244137344177,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-02-20,-110.39614770002227,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-02-22,-115.17556240942986,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-02-27,-110.74932642731004,included_game_day
+2020,2546,Southeast Missouri State Redhawks,2020-02-29,-118.49128258962728,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2020-11-28,5.0,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2020-12-02,-6.5,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2020-12-07,-7.1018810000000006,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2020-12-09,-12.583385800000002,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2020-12-15,-14.316453220000001,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2020-12-18,-17.907807898,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2020-12-22,-19.5256816952,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2020-12-30,-34.675460578490004,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-01-02,-34.8959396052418,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-01-07,-32.09866573714497,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-01-16,-46.22763724463307,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-01-19,-38.4078269352052,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-01-21,-41.492985172138475,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-01-26,-51.038898492235106,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-01-28,-52.15046949950667,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-01-30,-27.853768028270352,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-02-01,-43.29363850442224,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-02-04,-46.43655043154187,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-02-06,-57.02262907302371,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-02-12,-63.92569346428929,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-02-13,-67.36721491984629,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-02-16,-56.12043208429189,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-02-20,-28.533006728400434,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-02-22,-50.46306644368727,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-02-25,-41.68635612985682,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-02-27,-37.99606413924548,included_game_day
+2021,2546,Southeast Missouri State Redhawks,2021-03-03,-35.905605360265184,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2021-11-09,8.0,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2021-11-13,-15.100000000000001,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2021-11-19,-31.98,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2021-11-26,-28.285913,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2021-11-27,-30.47887375,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2021-11-28,-33.262209750000004,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2021-12-08,-34.60861488094,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2021-12-11,-46.4677402442843,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2021-12-15,-62.1578940775357,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2021-12-18,-62.12402851101543,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2021-12-21,-69.56468257522462,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2021-12-30,-78.29356665267268,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-01-01,-60.15839306820756,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-01-06,-83.38250811137675,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-01-08,-87.69511616751376,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-01-20,-63.81846952203102,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-01-22,-40.061327194789264,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-01-27,-37.21603013712509,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-01-29,-33.74668641483463,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-02-03,-57.208379335919176,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-02-05,-62.36728289284135,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-02-07,-29.89486216557804,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-02-10,-37.444460242126894,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-02-12,-36.43502781169332,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-02-17,-36.93366007653156,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-02-19,-17.513020873994616,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-02-24,-19.657587470467682,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-02-26,-9.31185496920959,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-03-03,14.896488360522627,included_game_day
+2022,2546,Southeast Missouri State Redhawks,2022-03-04,11.752240028555878,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2022-11-07,6.0,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2022-11-16,13.73,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2022-11-19,3.2390000000000008,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2022-11-26,16.0756,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2022-11-27,14.453440500000001,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2022-11-28,-0.5644194999999996,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2022-12-04,5.440331310000001,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2022-12-07,-21.96546230361,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2022-12-14,-27.498445440638,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2022-12-17,-44.778094827950056,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2022-12-21,-42.81045477602158,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2022-12-29,-43.46865092064325,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2022-12-31,-30.951359416605495,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-01-05,-33.362261077491674,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-01-07,-28.429932525300913,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-01-12,-12.183449408782984,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-01-14,-9.875545586891027,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-01-19,-35.90455497653602,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-01-21,-31.979915675393432,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-01-26,-20.88943378682481,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-01-28,-12.598439631088205,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-02-02,-19.45991845743544,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-02-04,-21.93314716762677,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-02-09,-41.40053820870766,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-02-11,-48.36396612550354,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-02-16,-39.810408464930276,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-02-18,-37.99193767326592,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-02-23,-43.52535818748116,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-02-25,-56.99848742128584,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-03-01,-41.013331711716994,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-03-02,-31.283089596351942,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-03-03,-20.6564723298932,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-03-04,-13.902417580477731,included_game_day
+2023,2546,Southeast Missouri State Redhawks,2023-03-14,-15.059961019167673,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2023-11-06,-18.0,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2023-11-10,-44.6,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2023-11-15,-61.64,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2023-11-20,-58.3728,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2023-11-25,-66.67189,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2023-11-26,-73.06083100000001,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2023-11-30,-98.73684235,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2023-12-09,-89.75070202782601,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2023-12-21,-99.30894882703582,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2023-12-29,-100.05490373868388,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2023-12-31,-111.58704457482109,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2024-01-04,-106.97852812357662,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2024-01-11,-114.37870669768427,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2024-01-13,-118.1165965170498,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2024-01-20,-105.98953138967332,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2024-01-25,-122.24751696973921,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2024-01-27,-115.65996009483452,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2024-01-30,-116.66229985629553,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2024-02-03,-131.00171119045552,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2024-02-08,-111.98143177291031,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2024-02-10,-108.93505790476107,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2024-02-15,-120.6024233234337,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2024-02-17,-113.39969046070932,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2024-02-22,-125.38276472101138,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2024-02-24,-124.75219042282532,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2024-02-29,-127.42146170662775,included_game_day
+2024,2546,Southeast Missouri State Redhawks,2024-03-02,-115.3481948900979,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2024-11-04,-25.0,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2024-11-10,-24.9,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2024-11-17,-32.497699999999995,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2024-11-21,-27.750229999999995,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2024-11-22,-35.630486999999995,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2024-11-30,-17.460355459999995,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2024-12-05,-26.512557209699995,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2024-12-08,-38.54765290472999,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2024-12-19,-38.092291441287394,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2024-12-21,-23.151340007142995,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-01-02,-21.758576066843435,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-01-04,-22.915870672640423,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-01-09,-18.812143062600505,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-01-11,-36.85546534001691,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-01-14,-42.18324570247756,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-01-16,-31.709687638755348,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-01-23,-37.02066776629542,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-01-25,-19.04977828370574,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-01-30,-13.172709372472772,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-02-01,-14.931570636187546,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-02-06,13.345950265487856,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-02-08,11.5472203093098,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-02-11,27.636037024618666,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-02-15,31.710221832300704,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-02-20,36.4712926303454,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-02-22,38.927078423564524,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-02-27,52.28938257408083,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-03-01,28.35841392042398,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-03-07,41.76804442319684,included_game_day
+2025,2546,Southeast Missouri State Redhawks,2025-03-08,15.24826546232336,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2025-11-03,-22.0,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2025-11-07,-19.4,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2025-11-15,-33.3972,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2025-11-18,-50.87138,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2025-11-25,-31.502965500000002,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2025-11-26,-35.27786045,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2025-11-29,-45.241021095,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2025-12-06,-37.9276714355,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2025-12-18,-44.703882159547,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2025-12-20,-31.04239858930302,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-01-01,-30.741707814808194,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-01-03,-17.038599228650497,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-01-08,-12.117182540949804,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-01-10,-16.457539919167466,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-01-15,-33.250364639228934,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-01-17,-50.139352459646695,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-01-20,-30.402792348081157,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-01-22,-30.020737931581138,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-01-29,-33.89834246944616,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-01-31,-16.732204862630972,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-02-05,-11.600480802441329,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-02-07,2.6019531300154437,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-02-12,-12.829255972787058,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-02-14,1.5459242001139533,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-02-17,9.350753862969277,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-02-21,10.968707024416359,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-02-26,-0.9373472863704801,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-02-28,7.330209533660531,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-03-05,4.425703040009367,included_game_day
+2026,2546,Southeast Missouri State Redhawks,2026-03-06,-3.710871244050347,included_game_day
+2027,2546,Southeast Missouri State Redhawks,2026-11-02,4.0,included_game_day
+2027,2546,Southeast Missouri State Redhawks,2026-11-08,-1.2000000000000002,included_game_day
+2027,2546,Southeast Missouri State Redhawks,2026-11-13,-14.352,included_game_day
+2027,2546,Southeast Missouri State Redhawks,2026-11-19,-42.326706,included_game_day

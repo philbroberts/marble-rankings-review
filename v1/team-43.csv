@@ -1,0 +1,1042 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,43,Yale,1987-11-28,-15.0,included_game_day
+1988,43,Yale,1987-12-02,-16.9,included_game_day
+1988,43,Yale,1987-12-05,-28.179,included_game_day
+1988,43,Yale,1987-12-06,-19.46315,included_game_day
+1988,43,Yale,1987-12-09,-40.306875,included_game_day
+1988,43,Yale,1987-12-29,-52.393618578064,included_game_day
+1988,43,Yale,1987-12-30,-67.92218889497,included_game_day
+1988,43,Yale,1988-01-04,-64.280031005473,included_game_day
+1988,43,Yale,1988-01-07,-58.85163423869827,included_game_day
+1988,43,Yale,1988-01-09,-70.05750896245053,included_game_day
+1988,43,Yale,1988-01-13,-77.41166865930747,included_game_day
+1988,43,Yale,1988-01-16,-71.6332722515087,included_game_day
+1988,43,Yale,1988-01-21,-45.745221625785504,included_game_day
+1988,43,Yale,1988-01-23,-34.71130956211881,included_game_day
+1988,43,Yale,1988-01-29,-53.31445890881656,included_game_day
+1988,43,Yale,1988-01-30,-45.27687266514485,included_game_day
+1988,43,Yale,1988-02-05,-53.101721662193626,included_game_day
+1988,43,Yale,1988-02-06,-74.01752852857015,included_game_day
+1988,43,Yale,1988-02-12,-79.13179189980463,included_game_day
+1988,43,Yale,1988-02-13,-80.46463046022274,included_game_day
+1988,43,Yale,1988-02-19,-69.94289131357831,included_game_day
+1988,43,Yale,1988-02-20,-65.78718703096662,included_game_day
+1988,43,Yale,1988-02-26,-64.90517929085945,included_game_day
+1988,43,Yale,1988-02-27,-54.08618080517371,included_game_day
+1988,43,Yale,1988-03-04,-53.72465263783714,included_game_day
+1988,43,Yale,1988-03-05,-50.43525936204943,included_game_day
+1989,43,Yale,1988-11-26,12.0,included_game_day
+1989,43,Yale,1988-11-30,-22.299999999999997,included_game_day
+1989,43,Yale,1988-12-02,-31.407999999999998,included_game_day
+1989,43,Yale,1988-12-05,-39.8745,included_game_day
+1989,43,Yale,1988-12-10,-37.894279,included_game_day
+1989,43,Yale,1988-12-27,-52.716537347614995,included_game_day
+1989,43,Yale,1988-12-28,-67.605499148094,included_game_day
+1989,43,Yale,1988-12-29,-58.237818725323464,included_game_day
+1989,43,Yale,1989-01-04,-50.63340640159112,included_game_day
+1989,43,Yale,1989-01-06,-51.6682473222375,included_game_day
+1989,43,Yale,1989-01-10,-57.16472165541836,included_game_day
+1989,43,Yale,1989-01-14,-55.54355383454886,included_game_day
+1989,43,Yale,1989-01-17,-74.93934823529106,included_game_day
+1989,43,Yale,1989-01-20,-73.70283453852124,included_game_day
+1989,43,Yale,1989-01-27,-77.23167379633189,included_game_day
+1989,43,Yale,1989-01-28,-74.57916345856299,included_game_day
+1989,43,Yale,1989-02-03,-62.27107341388684,included_game_day
+1989,43,Yale,1989-02-04,-54.866958917510736,included_game_day
+1989,43,Yale,1989-02-10,-53.597034197548936,included_game_day
+1989,43,Yale,1989-02-11,-49.49437572418128,included_game_day
+1989,43,Yale,1989-02-17,-50.44421447895712,included_game_day
+1989,43,Yale,1989-02-18,-54.79049102529543,included_game_day
+1989,43,Yale,1989-02-24,-37.887895180815505,included_game_day
+1989,43,Yale,1989-02-25,-60.019617624643345,included_game_day
+1989,43,Yale,1989-03-03,-56.62315458504212,included_game_day
+1989,43,Yale,1989-03-04,-61.95076557593212,included_game_day
+1990,43,Yale,1989-11-30,-23.358,included_game_day
+1990,43,Yale,1989-12-04,-6.128499999999999,included_game_day
+1990,43,Yale,1989-12-06,-6.624949999999999,included_game_day
+1990,43,Yale,1989-12-09,-18.531955,included_game_day
+1990,43,Yale,1989-12-28,-12.669440410097426,included_game_day
+1990,43,Yale,1989-12-30,-7.687697503570124,included_game_day
+1990,43,Yale,1990-01-04,16.859067777038,included_game_day
+1990,43,Yale,1990-01-06,23.903730162049502,included_game_day
+1990,43,Yale,1990-01-08,13.083633091784076,included_game_day
+1990,43,Yale,1990-01-12,16.349233181482678,included_game_day
+1990,43,Yale,1990-01-13,0.6618522294321139,included_game_day
+1990,43,Yale,1990-01-19,-8.150760926733915,included_game_day
+1990,43,Yale,1990-01-23,-10.884144206373838,included_game_day
+1990,43,Yale,1990-01-27,-15.660896403342669,included_game_day
+1990,43,Yale,1990-02-02,-21.53233924462689,included_game_day
+1990,43,Yale,1990-02-03,-15.062057305312237,included_game_day
+1990,43,Yale,1990-02-09,-20.14044349362974,included_game_day
+1990,43,Yale,1990-02-10,-20.933761220785826,included_game_day
+1990,43,Yale,1990-02-16,-10.788070389874713,included_game_day
+1990,43,Yale,1990-02-17,-12.526891852813973,included_game_day
+1990,43,Yale,1990-02-23,-7.746008500005711,included_game_day
+1990,43,Yale,1990-02-24,-3.9890237407734555,included_game_day
+1990,43,Yale,1990-03-02,10.151736248495936,included_game_day
+1990,43,Yale,1990-03-03,4.152239189338932,included_game_day
+1991,43,Yale,1990-11-23,1.0,included_game_day
+1991,43,Yale,1990-11-24,-11.7,included_game_day
+1991,43,Yale,1990-11-29,-12.209999999999999,included_game_day
+1991,43,Yale,1990-12-01,-15.790899999999999,included_game_day
+1991,43,Yale,1990-12-04,-18.68102,included_game_day
+1991,43,Yale,1990-12-07,2.3982819999999982,included_game_day
+1991,43,Yale,1990-12-29,-12.68901369637,included_game_day
+1991,43,Yale,1991-01-03,-0.48261856260300107,included_game_day
+1991,43,Yale,1991-01-05,5.426746020541257,included_game_day
+1991,43,Yale,1991-01-11,-14.85164405545662,included_game_day
+1991,43,Yale,1991-01-12,-19.129846955434648,included_game_day
+1991,43,Yale,1991-01-15,-16.252874853583513,included_game_day
+1991,43,Yale,1991-01-19,-4.7014641592308255,included_game_day
+1991,43,Yale,1991-01-22,-26.092434118505885,included_game_day
+1991,43,Yale,1991-01-26,-16.277696692138072,included_game_day
+1991,43,Yale,1991-02-01,-32.57143509440639,included_game_day
+1991,43,Yale,1991-02-02,-17.757712924128413,included_game_day
+1991,43,Yale,1991-02-08,-20.434575193319304,included_game_day
+1991,43,Yale,1991-02-09,-13.151925277403889,included_game_day
+1991,43,Yale,1991-02-15,-17.88405945069148,included_game_day
+1991,43,Yale,1991-02-16,-13.103158704172843,included_game_day
+1991,43,Yale,1991-02-22,-0.3418047425173558,included_game_day
+1991,43,Yale,1991-02-23,-8.25613694298278,included_game_day
+1991,43,Yale,1991-03-01,4.5204163884163915,included_game_day
+1991,43,Yale,1991-03-02,11.698524884909029,included_game_day
+1992,43,Yale,1991-11-22,0.0,included_game_day
+1992,43,Yale,1991-11-26,3.4,included_game_day
+1992,43,Yale,1991-11-29,-15.24,included_game_day
+1992,43,Yale,1991-12-03,-7.6392,included_game_day
+1992,43,Yale,1991-12-06,15.391920000000002,included_game_day
+1992,43,Yale,1991-12-07,33.547536,included_game_day
+1992,43,Yale,1991-12-27,36.57734554016132,included_game_day
+1992,43,Yale,1991-12-28,27.099667884563186,included_game_day
+1992,43,Yale,1992-01-02,29.520242176385523,included_game_day
+1992,43,Yale,1992-01-08,35.909105682333475,included_game_day
+1992,43,Yale,1992-01-11,36.37709256371548,included_game_day
+1992,43,Yale,1992-01-18,26.03174112519495,included_game_day
+1992,43,Yale,1992-01-25,21.85552702908869,included_game_day
+1992,43,Yale,1992-01-31,17.46108305434387,included_game_day
+1992,43,Yale,1992-02-01,12.7897054557723,included_game_day
+1992,43,Yale,1992-02-07,4.513065135410617,included_game_day
+1992,43,Yale,1992-02-08,-16.588235112671732,included_game_day
+1992,43,Yale,1992-02-14,-4.33827125481973,included_game_day
+1992,43,Yale,1992-02-15,-7.712611092416928,included_game_day
+1992,43,Yale,1992-02-21,-16.15435642288557,included_game_day
+1992,43,Yale,1992-02-22,-16.46751453898483,included_game_day
+1992,43,Yale,1992-02-28,-0.001857952689558573,included_game_day
+1992,43,Yale,1992-02-29,-3.7167460593733317,included_game_day
+1992,43,Yale,1992-03-06,11.459410473861933,included_game_day
+1992,43,Yale,1992-03-07,10.362560888286623,included_game_day
+1993,43,Yale,1992-12-01,-15.0,included_game_day
+1993,43,Yale,1992-12-03,-7.5,included_game_day
+1993,43,Yale,1992-12-05,-17.27,included_game_day
+1993,43,Yale,1992-12-08,-18.866,included_game_day
+1993,43,Yale,1992-12-10,-40.1841,included_game_day
+1993,43,Yale,1992-12-28,-42.141504634302,included_game_day
+1993,43,Yale,1992-12-30,-34.6319081955438,included_game_day
+1993,43,Yale,1993-01-06,-32.8792564309906,included_game_day
+1993,43,Yale,1993-01-09,-39.78376066460534,included_game_day
+1993,43,Yale,1993-01-11,-43.88482944807591,included_game_day
+1993,43,Yale,1993-01-16,-35.24805029873458,included_game_day
+1993,43,Yale,1993-01-23,-29.382847571943874,included_game_day
+1993,43,Yale,1993-01-29,-34.59684958842922,included_game_day
+1993,43,Yale,1993-01-30,-40.77129428940722,included_game_day
+1993,43,Yale,1993-02-05,-44.75307389116289,included_game_day
+1993,43,Yale,1993-02-06,-37.51742277527752,included_game_day
+1993,43,Yale,1993-02-12,-45.16085125142383,included_game_day
+1993,43,Yale,1993-02-13,-29.853398815855364,included_game_day
+1993,43,Yale,1993-02-19,-38.172574129532215,included_game_day
+1993,43,Yale,1993-02-20,-36.54888957622971,included_game_day
+1993,43,Yale,1993-02-23,-33.60824737222973,included_game_day
+1993,43,Yale,1993-02-26,-32.476402321754335,included_game_day
+1993,43,Yale,1993-02-27,-33.77983473940357,included_game_day
+1993,43,Yale,1993-03-05,-40.4773588507654,included_game_day
+1993,43,Yale,1993-03-06,-25.813349479770636,included_game_day
+1994,43,Yale,1993-11-27,-21.0,included_game_day
+1994,43,Yale,1993-12-01,-25.0791,included_game_day
+1994,43,Yale,1993-12-03,-33.60119,included_game_day
+1994,43,Yale,1993-12-04,-22.000671000000004,included_game_day
+1994,43,Yale,1993-12-08,-13.797603900000004,included_game_day
+1994,43,Yale,1993-12-11,-17.701743510000004,included_game_day
+1994,43,Yale,1993-12-12,-28.605274159000004,included_game_day
+1994,43,Yale,1993-12-30,-56.074031053763704,included_game_day
+1994,43,Yale,1994-01-02,-54.132107787087335,included_game_day
+1994,43,Yale,1994-01-06,-66.81756032818946,included_game_day
+1994,43,Yale,1994-01-08,-70.39731265868998,included_game_day
+1994,43,Yale,1994-01-15,-53.432891570800756,included_game_day
+1994,43,Yale,1994-01-22,-60.6023665014448,included_game_day
+1994,43,Yale,1994-01-28,-57.18292693998758,included_game_day
+1994,43,Yale,1994-01-29,-76.88699388829991,included_game_day
+1994,43,Yale,1994-02-04,-66.09882926509752,included_game_day
+1994,43,Yale,1994-02-05,-94.47932844701677,included_game_day
+1994,43,Yale,1994-02-11,-93.09565162470467,included_game_day
+1994,43,Yale,1994-02-12,-89.54186923388451,included_game_day
+1994,43,Yale,1994-02-18,-72.03077526464165,included_game_day
+1994,43,Yale,1994-02-19,-57.641338753656925,included_game_day
+1994,43,Yale,1994-02-25,-66.97724175844677,included_game_day
+1994,43,Yale,1994-02-26,-72.99556106843443,included_game_day
+1994,43,Yale,1994-03-04,-65.74142305980872,included_game_day
+1994,43,Yale,1994-03-05,-65.34528937150684,included_game_day
+1995,43,Yale,1994-11-25,-8.0,included_game_day
+1995,43,Yale,1994-11-26,-14.4,included_game_day
+1995,43,Yale,1994-12-02,-55.699,included_game_day
+1995,43,Yale,1994-12-07,-49.0332,included_game_day
+1995,43,Yale,1994-12-29,-68.5488542697,included_game_day
+1995,43,Yale,1994-12-30,-57.01090237283978,included_game_day
+1995,43,Yale,1995-01-03,-64.2814092118677,included_game_day
+1995,43,Yale,1995-01-09,-60.87962630227407,included_game_day
+1995,43,Yale,1995-01-14,-67.78322631215048,included_game_day
+1995,43,Yale,1995-01-17,-63.84612168237586,included_game_day
+1995,43,Yale,1995-01-21,-56.76271215325444,included_game_day
+1995,43,Yale,1995-01-27,-54.848773272011954,included_game_day
+1995,43,Yale,1995-01-28,-51.274593045703405,included_game_day
+1995,43,Yale,1995-01-31,-64.10774405819512,included_game_day
+1995,43,Yale,1995-02-03,-62.64903309856645,included_game_day
+1995,43,Yale,1995-02-04,-75.85499613534088,included_game_day
+1995,43,Yale,1995-02-10,-82.04627489958476,included_game_day
+1995,43,Yale,1995-02-11,-72.25027177357771,included_game_day
+1995,43,Yale,1995-02-17,-87.72896983290826,included_game_day
+1995,43,Yale,1995-02-18,-100.37915411538019,included_game_day
+1995,43,Yale,1995-02-22,-104.42970124945244,included_game_day
+1995,43,Yale,1995-02-24,-103.75191509536724,included_game_day
+1995,43,Yale,1995-02-25,-102.66500763542733,included_game_day
+1995,43,Yale,1995-03-03,-103.71575758826049,included_game_day
+1995,43,Yale,1995-03-04,-81.34527625960789,included_game_day
+1996,43,Yale,1995-11-24,-22.0,included_game_day
+1996,43,Yale,1995-11-25,-42.7,included_game_day
+1996,43,Yale,1995-11-29,-21.42,included_game_day
+1996,43,Yale,1995-12-02,-44.409000000000006,included_game_day
+1996,43,Yale,1995-12-07,-45.009629000000004,included_game_day
+1996,43,Yale,1995-12-08,-54.73592910000001,included_game_day
+1996,43,Yale,1995-12-29,-69.61564465159701,included_game_day
+1996,43,Yale,1995-12-30,-66.77999443765918,included_game_day
+1996,43,Yale,1996-01-04,-71.24703226954203,included_game_day
+1996,43,Yale,1996-01-12,-60.315721040330246,included_game_day
+1996,43,Yale,1996-01-13,-63.86267636261737,included_game_day
+1996,43,Yale,1996-01-20,-59.45635295192573,included_game_day
+1996,43,Yale,1996-01-27,-72.93129422337242,included_game_day
+1996,43,Yale,1996-02-02,-79.83534397034018,included_game_day
+1996,43,Yale,1996-02-03,-95.15982483095655,included_game_day
+1996,43,Yale,1996-02-05,-101.22764408710917,included_game_day
+1996,43,Yale,1996-02-09,-90.42078352711825,included_game_day
+1996,43,Yale,1996-02-10,-105.79852130461163,included_game_day
+1996,43,Yale,1996-02-14,-108.4303646487878,included_game_day
+1996,43,Yale,1996-02-16,-95.17864310440244,included_game_day
+1996,43,Yale,1996-02-17,-106.81093427164019,included_game_day
+1996,43,Yale,1996-02-23,-113.05419797178897,included_game_day
+1996,43,Yale,1996-02-24,-116.39868850332162,included_game_day
+1996,43,Yale,1996-03-01,-109.16807352498053,included_game_day
+1996,43,Yale,1996-03-02,-115.07545592205688,included_game_day
+1997,43,Yale,1996-11-22,-4.0,included_game_day
+1997,43,Yale,1996-11-26,5.359999999999999,included_game_day
+1997,43,Yale,1996-11-29,-21.076,included_game_day
+1997,43,Yale,1996-12-04,-18.095682,included_game_day
+1997,43,Yale,1996-12-06,-12.8711138,included_game_day
+1997,43,Yale,1996-12-07,-10.36880042,included_game_day
+1997,43,Yale,1996-12-10,-10.704320377999998,included_game_day
+1997,43,Yale,1996-12-30,-13.721373171061998,included_game_day
+1997,43,Yale,1997-01-06,-29.643199754663165,included_game_day
+1997,43,Yale,1997-01-10,-48.02539922141035,included_game_day
+1997,43,Yale,1997-01-11,-55.23398049961527,included_game_day
+1997,43,Yale,1997-01-13,-30.06063265463829,included_game_day
+1997,43,Yale,1997-01-18,-42.96951256762107,included_game_day
+1997,43,Yale,1997-01-23,-26.407147126815936,included_game_day
+1997,43,Yale,1997-01-25,-26.090476494425445,included_game_day
+1997,43,Yale,1997-01-31,-21.943821430258232,included_game_day
+1997,43,Yale,1997-02-01,-28.7712984369116,included_game_day
+1997,43,Yale,1997-02-07,-52.147757609823714,included_game_day
+1997,43,Yale,1997-02-08,-54.121920704742806,included_game_day
+1997,43,Yale,1997-02-14,-66.93653602696216,included_game_day
+1997,43,Yale,1997-02-15,-56.986204398772465,included_game_day
+1997,43,Yale,1997-02-21,-58.15418670224723,included_game_day
+1997,43,Yale,1997-02-22,-57.32951360260439,included_game_day
+1997,43,Yale,1997-02-28,-60.53314649141559,included_game_day
+1997,43,Yale,1997-03-01,-71.88206896254869,included_game_day
+1998,43,Yale,1997-11-15,-28.0,included_game_day
+1998,43,Yale,1997-11-21,-31.6,included_game_day
+1998,43,Yale,1997-11-25,-38.064,included_game_day
+1998,43,Yale,1997-11-29,-44.0176,included_game_day
+1998,43,Yale,1997-12-04,-29.40484,included_game_day
+1998,43,Yale,1997-12-05,-34.3178058,included_game_day
+1998,43,Yale,1997-12-08,-47.86573182,included_game_day
+1998,43,Yale,1997-12-10,-33.5914684236,included_game_day
+1998,43,Yale,1997-12-29,-24.41981727001467,included_game_day
+1998,43,Yale,1997-12-30,-35.24218804120062,included_game_day
+1998,43,Yale,1998-01-09,-36.84822593153342,included_game_day
+1998,43,Yale,1998-01-10,-36.838862307924636,included_game_day
+1998,43,Yale,1998-01-13,-19.241503778947404,included_game_day
+1998,43,Yale,1998-01-17,-24.308203120481366,included_game_day
+1998,43,Yale,1998-01-24,-23.361562593708534,included_game_day
+1998,43,Yale,1998-01-30,-32.78627071076266,included_game_day
+1998,43,Yale,1998-01-31,-28.754954561844773,included_game_day
+1998,43,Yale,1998-02-06,-31.95104783370448,included_game_day
+1998,43,Yale,1998-02-07,-15.531910819786166,included_game_day
+1998,43,Yale,1998-02-13,-14.909898121527991,included_game_day
+1998,43,Yale,1998-02-14,-26.94288206060369,included_game_day
+1998,43,Yale,1998-02-20,-28.899044976750243,included_game_day
+1998,43,Yale,1998-02-21,-48.122273961814145,included_game_day
+1998,43,Yale,1998-02-27,-50.618175276389934,included_game_day
+1998,43,Yale,1998-02-28,-43.824394826339905,included_game_day
+1999,43,Yale,1998-11-13,-21.0,included_game_day
+1999,43,Yale,1998-11-15,-19.3,included_game_day
+1999,43,Yale,1998-11-19,-34.17,included_game_day
+1999,43,Yale,1998-11-28,-9.258500000000002,included_game_day
+1999,43,Yale,1998-12-03,-20.015344000000002,included_game_day
+1999,43,Yale,1998-12-04,-24.652740540000003,included_game_day
+1999,43,Yale,1998-12-07,-33.5312289564,included_game_day
+1999,43,Yale,1998-12-09,-39.10546576836,included_game_day
+1999,43,Yale,1998-12-27,-56.15847136285316,included_game_day
+1999,43,Yale,1998-12-28,-75.56259478652977,included_game_day
+1999,43,Yale,1999-01-08,-69.37216663828002,included_game_day
+1999,43,Yale,1999-01-09,-85.65912346626698,included_game_day
+1999,43,Yale,1999-01-16,-93.22155584798068,included_game_day
+1999,43,Yale,1999-01-22,-109.27150175335164,included_game_day
+1999,43,Yale,1999-01-25,-109.64255176351782,included_game_day
+1999,43,Yale,1999-01-30,-115.638243009454,included_game_day
+1999,43,Yale,1999-01-31,-102.73272343416258,included_game_day
+1999,43,Yale,1999-02-05,-112.06786230091446,included_game_day
+1999,43,Yale,1999-02-06,-97.24583783248247,included_game_day
+1999,43,Yale,1999-02-12,-79.31938361652249,included_game_day
+1999,43,Yale,1999-02-13,-87.28045850781473,included_game_day
+1999,43,Yale,1999-02-19,-84.88615048014111,included_game_day
+1999,43,Yale,1999-02-20,-89.43300283403954,included_game_day
+1999,43,Yale,1999-02-26,-104.21456102213912,included_game_day
+1999,43,Yale,1999-02-27,-121.32466611129765,included_game_day
+2000,43,Yale,1999-11-19,-10.0,included_game_day
+2000,43,Yale,1999-11-21,-12.369,included_game_day
+2000,43,Yale,1999-11-25,-22.3321,included_game_day
+2000,43,Yale,1999-11-26,-20.09889,included_game_day
+2000,43,Yale,1999-12-02,-31.901001,included_game_day
+2000,43,Yale,1999-12-03,-50.06080079,included_game_day
+2000,43,Yale,1999-12-06,-47.597630711,included_game_day
+2000,43,Yale,1999-12-09,-55.9464310989,included_game_day
+2000,43,Yale,1999-12-20,-64.0838099828,included_game_day
+2000,43,Yale,1999-12-28,-75.37834684627464,included_game_day
+2000,43,Yale,1999-12-30,-73.42428642743661,included_game_day
+2000,43,Yale,2000-01-08,-85.47392773666242,included_game_day
+2000,43,Yale,2000-01-14,-74.6576893895635,included_game_day
+2000,43,Yale,2000-01-15,-74.74830727835712,included_game_day
+2000,43,Yale,2000-01-21,-61.200060230694255,included_game_day
+2000,43,Yale,2000-01-29,-68.13143291107299,included_game_day
+2000,43,Yale,2000-01-31,-74.62740802161386,included_game_day
+2000,43,Yale,2000-02-04,-92.58816739528663,included_game_day
+2000,43,Yale,2000-02-05,-79.11173237668845,included_game_day
+2000,43,Yale,2000-02-11,-83.02801690402575,included_game_day
+2000,43,Yale,2000-02-12,-70.20581996984792,included_game_day
+2000,43,Yale,2000-02-18,-73.48716458604427,included_game_day
+2000,43,Yale,2000-02-19,-89.95207398839321,included_game_day
+2000,43,Yale,2000-02-25,-96.8427187061938,included_game_day
+2000,43,Yale,2000-02-26,-104.13353465842012,included_game_day
+2000,43,Yale,2000-03-03,-92.70640133364194,included_game_day
+2000,43,Yale,2000-03-04,-90.16988455556213,included_game_day
+2001,43,Yale,2000-11-17,-17.0,included_game_day
+2001,43,Yale,2000-11-19,-21.1,included_game_day
+2001,43,Yale,2000-11-22,-12.290000000000001,included_game_day
+2001,43,Yale,2000-11-30,-42.847,included_game_day
+2001,43,Yale,2000-12-01,-45.30907,included_game_day
+2001,43,Yale,2000-12-04,-30.4649118,included_game_day
+2001,43,Yale,2000-12-07,-26.81552062,included_game_day
+2001,43,Yale,2000-12-11,-31.16302248001,included_game_day
+2001,43,Yale,2000-12-29,-32.90435258698138,included_game_day
+2001,43,Yale,2000-12-30,-38.36881982866464,included_game_day
+2001,43,Yale,2001-01-03,-34.586781684497524,included_game_day
+2001,43,Yale,2001-01-06,-32.37995686881656,included_game_day
+2001,43,Yale,2001-01-12,-23.138571790812055,included_game_day
+2001,43,Yale,2001-01-13,-21.051059257687854,included_game_day
+2001,43,Yale,2001-01-19,-21.436203956672156,included_game_day
+2001,43,Yale,2001-01-23,-34.40845478231007,included_game_day
+2001,43,Yale,2001-02-02,-37.7226325176315,included_game_day
+2001,43,Yale,2001-02-03,-45.51578735728681,included_game_day
+2001,43,Yale,2001-02-09,-56.353719440822935,included_game_day
+2001,43,Yale,2001-02-10,-56.97180236597974,included_game_day
+2001,43,Yale,2001-02-16,-32.81282326005285,included_game_day
+2001,43,Yale,2001-02-17,-25.732784913764014,included_game_day
+2001,43,Yale,2001-02-23,-25.449911828488013,included_game_day
+2001,43,Yale,2001-02-24,-15.078329042517911,included_game_day
+2001,43,Yale,2001-03-02,-29.083669050372475,included_game_day
+2001,43,Yale,2001-03-03,-56.84148828152418,included_game_day
+2001,43,Yale,2001-03-07,-60.02554436978197,included_game_day
+2002,43,Yale Bulldogs,2001-11-18,16.0,included_game_day
+2002,43,Yale Bulldogs,2001-11-24,2.658899999999999,included_game_day
+2002,43,Yale Bulldogs,2001-11-28,10.33701,included_game_day
+2002,43,Yale Bulldogs,2001-12-01,14.09443,included_game_day
+2002,43,Yale Bulldogs,2001-12-03,5.413100979999999,included_game_day
+2002,43,Yale Bulldogs,2001-12-05,37.066810882,included_game_day
+2002,43,Yale Bulldogs,2001-12-08,36.4509208318,included_game_day
+2002,43,Yale Bulldogs,2001-12-11,36.388835818619995,included_game_day
+2002,43,Yale Bulldogs,2002-01-02,44.061288732652784,included_game_day
+2002,43,Yale Bulldogs,2002-01-11,46.315372213352155,included_game_day
+2002,43,Yale Bulldogs,2002-01-12,37.23996813671699,included_game_day
+2002,43,Yale Bulldogs,2002-01-19,27.999024632297093,included_game_day
+2002,43,Yale Bulldogs,2002-01-26,34.60626982876118,included_game_day
+2002,43,Yale Bulldogs,2002-02-01,45.90637160558752,included_game_day
+2002,43,Yale Bulldogs,2002-02-02,55.49887343002554,included_game_day
+2002,43,Yale Bulldogs,2002-02-08,55.79779824129687,included_game_day
+2002,43,Yale Bulldogs,2002-02-09,61.16486667148966,included_game_day
+2002,43,Yale Bulldogs,2002-02-15,64.90001819871146,included_game_day
+2002,43,Yale Bulldogs,2002-02-16,78.15867588734736,included_game_day
+2002,43,Yale Bulldogs,2002-02-22,62.02518838000577,included_game_day
+2002,43,Yale Bulldogs,2002-02-23,61.48483791441543,included_game_day
+2002,43,Yale Bulldogs,2002-03-01,55.49004689400832,included_game_day
+2002,43,Yale Bulldogs,2002-03-02,66.58895510181875,included_game_day
+2002,43,Yale Bulldogs,2002-03-07,82.73644509098062,included_game_day
+2002,43,Yale Bulldogs,2002-03-14,82.37020860368177,included_game_day
+2002,43,Yale Bulldogs,2002-03-19,57.35516707793265,included_game_day
+2003,43,Yale Bulldogs,2002-11-22,-6.0,included_game_day
+2003,43,Yale Bulldogs,2002-11-27,-14.4,included_game_day
+2003,43,Yale Bulldogs,2002-12-01,1.4100000000000001,included_game_day
+2003,43,Yale Bulldogs,2002-12-05,17.601490000000002,included_game_day
+2003,43,Yale Bulldogs,2002-12-07,24.1035091,included_game_day
+2003,43,Yale Bulldogs,2002-12-11,23.247405190000002,included_game_day
+2003,43,Yale Bulldogs,2002-12-12,29.020758771000004,included_game_day
+2003,43,Yale Bulldogs,2002-12-30,11.279091763206463,included_game_day
+2003,43,Yale Bulldogs,2003-01-02,3.006250428329844,included_game_day
+2003,43,Yale Bulldogs,2003-01-05,2.2752461494244285,included_game_day
+2003,43,Yale Bulldogs,2003-01-08,-11.436179042779521,included_game_day
+2003,43,Yale Bulldogs,2003-01-18,-28.574782932252106,included_game_day
+2003,43,Yale Bulldogs,2003-01-20,-41.46089694980428,included_game_day
+2003,43,Yale Bulldogs,2003-01-24,-45.88316865962713,included_game_day
+2003,43,Yale Bulldogs,2003-01-31,-35.238925057744964,included_game_day
+2003,43,Yale Bulldogs,2003-02-01,-6.802149987402011,included_game_day
+2003,43,Yale Bulldogs,2003-02-07,-4.757240764025758,included_game_day
+2003,43,Yale Bulldogs,2003-02-08,-2.5676504456226366,included_game_day
+2003,43,Yale Bulldogs,2003-02-14,-2.481710208117184,included_game_day
+2003,43,Yale Bulldogs,2003-02-15,-3.108817760425048,included_game_day
+2003,43,Yale Bulldogs,2003-02-21,5.020811075590544,included_game_day
+2003,43,Yale Bulldogs,2003-02-22,1.7640949892496725,included_game_day
+2003,43,Yale Bulldogs,2003-02-28,-7.159765939853809,included_game_day
+2003,43,Yale Bulldogs,2003-03-01,-5.693642446831719,included_game_day
+2003,43,Yale Bulldogs,2003-03-07,6.5021179184895,included_game_day
+2003,43,Yale Bulldogs,2003-03-08,14.546635471624526,included_game_day
+2004,43,Yale Bulldogs,2003-11-17,-7.0,included_game_day
+2004,43,Yale Bulldogs,2003-11-22,11.7,included_game_day
+2004,43,Yale Bulldogs,2003-11-23,19.15,included_game_day
+2004,43,Yale Bulldogs,2003-11-26,20.334999999999997,included_game_day
+2004,43,Yale Bulldogs,2003-11-29,-5.453500000000002,included_game_day
+2004,43,Yale Bulldogs,2003-12-04,2.4540469999999983,included_game_day
+2004,43,Yale Bulldogs,2003-12-07,-14.543717700000002,included_game_day
+2004,43,Yale Bulldogs,2003-12-11,-9.160177740000002,included_game_day
+2004,43,Yale Bulldogs,2003-12-20,-25.690280510860003,included_game_day
+2004,43,Yale Bulldogs,2003-12-30,-17.97736721749818,included_game_day
+2004,43,Yale Bulldogs,2004-01-03,-23.380090497010084,included_game_day
+2004,43,Yale Bulldogs,2004-01-07,-23.697637247428332,included_game_day
+2004,43,Yale Bulldogs,2004-01-16,-39.268702316264225,included_game_day
+2004,43,Yale Bulldogs,2004-01-23,-47.72555437133294,included_game_day
+2004,43,Yale Bulldogs,2004-01-30,-39.99005026901699,included_game_day
+2004,43,Yale Bulldogs,2004-01-31,-35.884731408481116,included_game_day
+2004,43,Yale Bulldogs,2004-02-06,-37.57798111244802,included_game_day
+2004,43,Yale Bulldogs,2004-02-07,-14.536209207538594,included_game_day
+2004,43,Yale Bulldogs,2004-02-13,19.391854741282,included_game_day
+2004,43,Yale Bulldogs,2004-02-14,0.819292629982801,included_game_day
+2004,43,Yale Bulldogs,2004-02-20,-5.733612273029649,included_game_day
+2004,43,Yale Bulldogs,2004-02-21,-2.7366916047843164,included_game_day
+2004,43,Yale Bulldogs,2004-02-27,3.0558563332508397,included_game_day
+2004,43,Yale Bulldogs,2004-02-28,-11.418085079574386,included_game_day
+2004,43,Yale Bulldogs,2004-03-05,-7.465125468512893,included_game_day
+2004,43,Yale Bulldogs,2004-03-06,-18.91878221993526,included_game_day
+2005,43,Yale Bulldogs,2004-11-19,2.0,included_game_day
+2005,43,Yale Bulldogs,2004-11-20,15.8,included_game_day
+2005,43,Yale Bulldogs,2004-11-22,-6.43,included_game_day
+2005,43,Yale Bulldogs,2004-11-28,-16.54916,included_game_day
+2005,43,Yale Bulldogs,2004-12-01,-3.0903709,included_game_day
+2005,43,Yale Bulldogs,2004-12-04,-13.420622810000001,included_game_day
+2005,43,Yale Bulldogs,2004-12-08,-42.654964848999995,included_game_day
+2005,43,Yale Bulldogs,2004-12-19,-29.530668573882966,included_game_day
+2005,43,Yale Bulldogs,2004-12-28,-24.172625841179368,included_game_day
+2005,43,Yale Bulldogs,2004-12-29,-14.511495990233266,included_game_day
+2005,43,Yale Bulldogs,2005-01-05,-12.65603036247425,included_game_day
+2005,43,Yale Bulldogs,2005-01-10,-19.964958560573255,included_game_day
+2005,43,Yale Bulldogs,2005-01-15,-33.08498551020118,included_game_day
+2005,43,Yale Bulldogs,2005-01-28,-47.245312534496385,included_game_day
+2005,43,Yale Bulldogs,2005-01-29,-54.88006488880649,included_game_day
+2005,43,Yale Bulldogs,2005-02-04,-36.83756326108268,included_game_day
+2005,43,Yale Bulldogs,2005-02-05,-36.78644515192328,included_game_day
+2005,43,Yale Bulldogs,2005-02-11,-30.48328226629929,included_game_day
+2005,43,Yale Bulldogs,2005-02-12,-30.383306269887747,included_game_day
+2005,43,Yale Bulldogs,2005-02-18,-18.522288150172624,included_game_day
+2005,43,Yale Bulldogs,2005-02-19,7.075786556318725,included_game_day
+2005,43,Yale Bulldogs,2005-02-22,-8.494784084948448,included_game_day
+2005,43,Yale Bulldogs,2005-02-25,-22.22031309452104,included_game_day
+2005,43,Yale Bulldogs,2005-02-26,-22.670204257871106,included_game_day
+2005,43,Yale Bulldogs,2005-03-04,-9.76630108025255,included_game_day
+2005,43,Yale Bulldogs,2005-03-05,-4.798911754639327,included_game_day
+2005,43,Yale Bulldogs,2005-03-08,-15.87104392296812,included_game_day
+2006,43,Yale Bulldogs,2005-11-18,4.0,included_game_day
+2006,43,Yale Bulldogs,2005-11-19,-1.2000000000000002,included_game_day
+2006,43,Yale Bulldogs,2005-11-20,3.0999999999999996,included_game_day
+2006,43,Yale Bulldogs,2005-11-26,-19.31649,included_game_day
+2006,43,Yale Bulldogs,2005-11-28,-15.533841000000002,included_game_day
+2006,43,Yale Bulldogs,2005-12-03,-18.810930300000003,included_game_day
+2006,43,Yale Bulldogs,2005-12-08,-30.566964270000003,included_game_day
+2006,43,Yale Bulldogs,2005-12-18,-14.094004221000002,included_game_day
+2006,43,Yale Bulldogs,2005-12-20,-13.929848796300002,included_game_day
+2006,43,Yale Bulldogs,2005-12-22,-19.304700585670002,included_game_day
+2006,43,Yale Bulldogs,2005-12-29,-26.63129894381684,included_game_day
+2006,43,Yale Bulldogs,2005-12-30,-20.185820183876178,included_game_day
+2006,43,Yale Bulldogs,2006-01-02,-15.901157609238286,included_game_day
+2006,43,Yale Bulldogs,2006-01-04,-47.01493726746828,included_game_day
+2006,43,Yale Bulldogs,2006-01-09,-33.33589599789332,included_game_day
+2006,43,Yale Bulldogs,2006-01-14,-25.582565118769487,included_game_day
+2006,43,Yale Bulldogs,2006-01-21,-32.37990041547042,included_game_day
+2006,43,Yale Bulldogs,2006-01-27,-24.346322160376303,included_game_day
+2006,43,Yale Bulldogs,2006-01-28,-15.622912423180813,included_game_day
+2006,43,Yale Bulldogs,2006-02-03,-36.19826735098985,included_game_day
+2006,43,Yale Bulldogs,2006-02-04,-44.41369957462584,included_game_day
+2006,43,Yale Bulldogs,2006-02-10,-45.85078749723594,included_game_day
+2006,43,Yale Bulldogs,2006-02-11,-37.541425953813096,included_game_day
+2006,43,Yale Bulldogs,2006-02-17,-47.515040168369005,included_game_day
+2006,43,Yale Bulldogs,2006-02-18,-32.14300137967701,included_game_day
+2006,43,Yale Bulldogs,2006-02-24,-34.44890495204879,included_game_day
+2006,43,Yale Bulldogs,2006-02-25,-29.2027983801178,included_game_day
+2006,43,Yale Bulldogs,2006-03-03,-24.6839619966937,included_game_day
+2006,43,Yale Bulldogs,2006-03-04,-39.27252682063226,included_game_day
+2007,43,Yale Bulldogs,2006-11-19,-3.5999999999999996,included_game_day
+2007,43,Yale Bulldogs,2006-11-21,-9.695,included_game_day
+2007,43,Yale Bulldogs,2006-11-25,-27.744504,included_game_day
+2007,43,Yale Bulldogs,2006-11-29,-30.2748906,included_game_day
+2007,43,Yale Bulldogs,2006-12-02,-35.18838941,included_game_day
+2007,43,Yale Bulldogs,2006-12-04,-41.964477719,included_game_day
+2007,43,Yale Bulldogs,2006-12-09,-19.638910180135102,included_game_day
+2007,43,Yale Bulldogs,2006-12-11,-21.74956410207159,included_game_day
+2007,43,Yale Bulldogs,2006-12-28,-19.272491220415333,included_game_day
+2007,43,Yale Bulldogs,2006-12-30,1.0526583523068922,included_game_day
+2007,43,Yale Bulldogs,2007-01-03,-6.5921495998512505,included_game_day
+2007,43,Yale Bulldogs,2007-01-06,-5.094344623675568,included_game_day
+2007,43,Yale Bulldogs,2007-01-13,9.278159367488055,included_game_day
+2007,43,Yale Bulldogs,2007-01-20,-4.223837439581047,included_game_day
+2007,43,Yale Bulldogs,2007-01-26,4.228319466224146,included_game_day
+2007,43,Yale Bulldogs,2007-01-27,7.700639667298152,included_game_day
+2007,43,Yale Bulldogs,2007-02-02,7.924014592978444,included_game_day
+2007,43,Yale Bulldogs,2007-02-03,17.463838921000374,included_game_day
+2007,43,Yale Bulldogs,2007-02-09,32.26908270600494,included_game_day
+2007,43,Yale Bulldogs,2007-02-10,30.72264538900629,included_game_day
+2007,43,Yale Bulldogs,2007-02-16,22.11047333195618,included_game_day
+2007,43,Yale Bulldogs,2007-02-17,25.09202763354891,included_game_day
+2007,43,Yale Bulldogs,2007-02-23,32.42121397882249,included_game_day
+2007,43,Yale Bulldogs,2007-02-24,4.924660893094753,included_game_day
+2007,43,Yale Bulldogs,2007-03-02,-15.289642378246043,included_game_day
+2007,43,Yale Bulldogs,2007-03-03,-17.81799117578599,included_game_day
+2008,43,Yale Bulldogs,2007-11-10,8.0,included_game_day
+2008,43,Yale Bulldogs,2007-11-14,4.0,included_game_day
+2008,43,Yale Bulldogs,2007-11-20,4.1127,included_game_day
+2008,43,Yale Bulldogs,2007-11-23,-21.12957,included_game_day
+2008,43,Yale Bulldogs,2007-11-28,-33.678575,included_game_day
+2008,43,Yale Bulldogs,2007-12-01,-35.4348945,included_game_day
+2008,43,Yale Bulldogs,2007-12-04,-26.6280654209,included_game_day
+2008,43,Yale Bulldogs,2007-12-08,-18.548372904609998,included_game_day
+2008,43,Yale Bulldogs,2007-12-11,-33.201979560549,included_game_day
+2008,43,Yale Bulldogs,2007-12-29,-44.22842941127963,included_game_day
+2008,43,Yale Bulldogs,2008-01-02,-27.822724198357758,included_game_day
+2008,43,Yale Bulldogs,2008-01-05,-30.51002000912309,included_game_day
+2008,43,Yale Bulldogs,2008-01-08,-33.00976949853427,included_game_day
+2008,43,Yale Bulldogs,2008-01-26,-34.18769023057439,included_game_day
+2008,43,Yale Bulldogs,2008-02-01,-51.402415850815565,included_game_day
+2008,43,Yale Bulldogs,2008-02-02,-65.25948423458382,included_game_day
+2008,43,Yale Bulldogs,2008-02-08,-53.80566238261025,included_game_day
+2008,43,Yale Bulldogs,2008-02-09,-20.35392841909721,included_game_day
+2008,43,Yale Bulldogs,2008-02-15,-10.62451770372453,included_game_day
+2008,43,Yale Bulldogs,2008-02-16,-27.40839263232835,included_game_day
+2008,43,Yale Bulldogs,2008-02-22,-37.43321164481769,included_game_day
+2008,43,Yale Bulldogs,2008-02-23,-39.33709472273933,included_game_day
+2008,43,Yale Bulldogs,2008-02-29,-50.162378663173534,included_game_day
+2008,43,Yale Bulldogs,2008-03-01,-48.75122378803862,included_game_day
+2008,43,Yale Bulldogs,2008-03-07,-47.21254497721174,included_game_day
+2008,43,Yale Bulldogs,2008-03-08,-31.77844878602646,included_game_day
+2009,43,Yale Bulldogs,2008-11-14,-11.0,included_game_day
+2009,43,Yale Bulldogs,2008-11-18,-38.3,included_game_day
+2009,43,Yale Bulldogs,2008-11-21,-50.33,included_game_day
+2009,43,Yale Bulldogs,2008-11-24,-41.711,included_game_day
+2009,43,Yale Bulldogs,2008-11-30,-44.44167,included_game_day
+2009,43,Yale Bulldogs,2008-12-03,-36.62119981,included_game_day
+2009,43,Yale Bulldogs,2008-12-06,-38.523500079,included_game_day
+2009,43,Yale Bulldogs,2008-12-10,-42.5945401971,included_game_day
+2009,43,Yale Bulldogs,2008-12-28,-36.133763250880314,included_game_day
+2009,43,Yale Bulldogs,2008-12-30,-35.520917120668194,included_game_day
+2009,43,Yale Bulldogs,2009-01-02,-50.951661663244295,included_game_day
+2009,43,Yale Bulldogs,2009-01-07,-28.585582057129656,included_game_day
+2009,43,Yale Bulldogs,2009-01-10,-25.010757722404406,included_game_day
+2009,43,Yale Bulldogs,2009-01-16,-15.824150282757989,included_game_day
+2009,43,Yale Bulldogs,2009-01-23,-20.474864331040855,included_game_day
+2009,43,Yale Bulldogs,2009-01-30,-30.659783352748075,included_game_day
+2009,43,Yale Bulldogs,2009-01-31,-46.42260607084068,included_game_day
+2009,43,Yale Bulldogs,2009-02-06,-21.570583507446166,included_game_day
+2009,43,Yale Bulldogs,2009-02-07,-27.428693521696033,included_game_day
+2009,43,Yale Bulldogs,2009-02-13,-11.800077704005298,included_game_day
+2009,43,Yale Bulldogs,2009-02-14,-21.849443592512408,included_game_day
+2009,43,Yale Bulldogs,2009-02-20,-5.58000882417582,included_game_day
+2009,43,Yale Bulldogs,2009-02-21,-2.5754251039697476,included_game_day
+2009,43,Yale Bulldogs,2009-02-27,4.581068980891991,included_game_day
+2009,43,Yale Bulldogs,2009-02-28,-4.030265653658291,included_game_day
+2009,43,Yale Bulldogs,2009-03-06,1.668615507193751,included_game_day
+2009,43,Yale Bulldogs,2009-03-07,-15.180830305409367,included_game_day
+2010,43,Yale Bulldogs,2009-11-13,-6.0,included_game_day
+2010,43,Yale Bulldogs,2009-11-16,-13.7,included_game_day
+2010,43,Yale Bulldogs,2009-11-17,-3.369999999999999,included_game_day
+2010,43,Yale Bulldogs,2009-11-21,-12.726999999999999,included_game_day
+2010,43,Yale Bulldogs,2009-11-23,-26.4623,included_game_day
+2010,43,Yale Bulldogs,2009-11-24,-24.80817,included_game_day
+2010,43,Yale Bulldogs,2009-11-28,-34.389753,included_game_day
+2010,43,Yale Bulldogs,2009-12-02,-24.9637249,included_game_day
+2010,43,Yale Bulldogs,2009-12-07,-34.3244083717,included_game_day
+2010,43,Yale Bulldogs,2009-12-09,-26.558648108230003,included_game_day
+2010,43,Yale Bulldogs,2009-12-21,-24.3513871711386,included_game_day
+2010,43,Yale Bulldogs,2009-12-29,-24.95037920477894,included_game_day
+2010,43,Yale Bulldogs,2009-12-31,-41.21233710845732,included_game_day
+2010,43,Yale Bulldogs,2010-01-03,-59.10238685305771,included_game_day
+2010,43,Yale Bulldogs,2010-01-05,-57.871367789592135,included_game_day
+2010,43,Yale Bulldogs,2010-01-09,-36.94457218561644,included_game_day
+2010,43,Yale Bulldogs,2010-01-15,-52.41645708785492,included_game_day
+2010,43,Yale Bulldogs,2010-01-22,-41.79396500964572,included_game_day
+2010,43,Yale Bulldogs,2010-01-29,-40.922318183510164,included_game_day
+2010,43,Yale Bulldogs,2010-01-30,-50.42940174328382,included_game_day
+2010,43,Yale Bulldogs,2010-02-05,-47.95436472290264,included_game_day
+2010,43,Yale Bulldogs,2010-02-06,-31.911330949231065,included_game_day
+2010,43,Yale Bulldogs,2010-02-12,-30.23958398037928,included_game_day
+2010,43,Yale Bulldogs,2010-02-13,-29.623278546432044,included_game_day
+2010,43,Yale Bulldogs,2010-02-19,-44.04986637369031,included_game_day
+2010,43,Yale Bulldogs,2010-02-20,-57.768958881483314,included_game_day
+2010,43,Yale Bulldogs,2010-02-26,-50.79039989917431,included_game_day
+2010,43,Yale Bulldogs,2010-02-27,-57.438138102163705,included_game_day
+2010,43,Yale Bulldogs,2010-03-05,-46.64575508782717,included_game_day
+2010,43,Yale Bulldogs,2010-03-06,-55.23052266654529,included_game_day
+2011,43,Yale Bulldogs,2010-11-13,-9.0,included_game_day
+2011,43,Yale Bulldogs,2010-11-15,-4.9,included_game_day
+2011,43,Yale Bulldogs,2010-11-18,9.29,included_game_day
+2011,43,Yale Bulldogs,2010-11-23,-9.0002,included_game_day
+2011,43,Yale Bulldogs,2010-11-27,-2.5031999999999996,included_game_day
+2011,43,Yale Bulldogs,2010-11-30,-2.0467129999999996,included_game_day
+2011,43,Yale Bulldogs,2010-12-04,0.9435111000000003,included_game_day
+2011,43,Yale Bulldogs,2010-12-06,17.623885810000004,included_game_day
+2011,43,Yale Bulldogs,2010-12-08,34.030033382400006,included_game_day
+2011,43,Yale Bulldogs,2010-12-19,14.809219053127947,included_game_day
+2011,43,Yale Bulldogs,2010-12-28,1.102780579405879,included_game_day
+2011,43,Yale Bulldogs,2010-12-31,-6.143479361935979,included_game_day
+2011,43,Yale Bulldogs,2011-01-05,-5.83881434689948,included_game_day
+2011,43,Yale Bulldogs,2011-01-15,-0.6043222576049319,included_game_day
+2011,43,Yale Bulldogs,2011-01-22,1.6465932868405648,included_game_day
+2011,43,Yale Bulldogs,2011-01-28,-4.354428753825181,included_game_day
+2011,43,Yale Bulldogs,2011-01-29,-0.47502193652027724,included_game_day
+2011,43,Yale Bulldogs,2011-02-04,-7.228642173273429,included_game_day
+2011,43,Yale Bulldogs,2011-02-05,-4.149965167415234,included_game_day
+2011,43,Yale Bulldogs,2011-02-11,1.7513698839553342,included_game_day
+2011,43,Yale Bulldogs,2011-02-12,3.2470110030986596,included_game_day
+2011,43,Yale Bulldogs,2011-02-18,-0.6230968639541521,included_game_day
+2011,43,Yale Bulldogs,2011-02-19,-5.552007590988965,included_game_day
+2011,43,Yale Bulldogs,2011-02-25,-14.883635098846266,included_game_day
+2011,43,Yale Bulldogs,2011-02-26,-8.440667873961324,included_game_day
+2011,43,Yale Bulldogs,2011-03-04,-1.6044160089947423,included_game_day
+2011,43,Yale Bulldogs,2011-03-05,-12.010270096903643,included_game_day
+2012,43,Yale Bulldogs,2011-11-11,4.0,included_game_day
+2012,43,Yale Bulldogs,2011-11-15,-0.5999999999999996,included_game_day
+2012,43,Yale Bulldogs,2011-11-22,-6.6418099999999995,included_game_day
+2012,43,Yale Bulldogs,2011-11-26,2.7872710000000005,included_game_day
+2012,43,Yale Bulldogs,2011-11-29,2.379795699999999,included_game_day
+2012,43,Yale Bulldogs,2011-12-03,15.715184789999999,included_game_day
+2012,43,Yale Bulldogs,2011-12-05,21.122016398,included_game_day
+2012,43,Yale Bulldogs,2011-12-07,25.8990212452,included_game_day
+2012,43,Yale Bulldogs,2011-12-18,22.3724769164036,included_game_day
+2012,43,Yale Bulldogs,2011-12-29,22.97578361659474,included_game_day
+2012,43,Yale Bulldogs,2011-12-31,16.787745820193503,included_game_day
+2012,43,Yale Bulldogs,2012-01-03,25.63110081219755,included_game_day
+2012,43,Yale Bulldogs,2012-01-14,14.296254178504263,included_game_day
+2012,43,Yale Bulldogs,2012-01-21,20.228376871549635,included_game_day
+2012,43,Yale Bulldogs,2012-01-27,-6.2328436965527345,included_game_day
+2012,43,Yale Bulldogs,2012-01-28,-4.085380041683164,included_game_day
+2012,43,Yale Bulldogs,2012-02-03,2.4074742903593327,included_game_day
+2012,43,Yale Bulldogs,2012-02-04,4.087717303597991,included_game_day
+2012,43,Yale Bulldogs,2012-02-10,4.9083603191066905,included_game_day
+2012,43,Yale Bulldogs,2012-02-11,9.528648889856825,included_game_day
+2012,43,Yale Bulldogs,2012-02-17,14.768150281150046,included_game_day
+2012,43,Yale Bulldogs,2012-02-18,9.89960944400668,included_game_day
+2012,43,Yale Bulldogs,2012-02-24,14.169640437202332,included_game_day
+2012,43,Yale Bulldogs,2012-02-25,38.41435007906723,included_game_day
+2012,43,Yale Bulldogs,2012-03-02,36.67663616498118,included_game_day
+2012,43,Yale Bulldogs,2012-03-03,16.983816249931877,included_game_day
+2012,43,Yale Bulldogs,2012-03-14,11.881105767163442,included_game_day
+2013,43,Yale Bulldogs,2012-11-10,-3.0,included_game_day
+2013,43,Yale Bulldogs,2012-11-12,-25.7,included_game_day
+2013,43,Yale Bulldogs,2012-11-16,-31.581,included_game_day
+2013,43,Yale Bulldogs,2012-11-17,-27.457,included_game_day
+2013,43,Yale Bulldogs,2012-11-18,-37.209,included_game_day
+2013,43,Yale Bulldogs,2012-11-21,-43.0491,included_game_day
+2013,43,Yale Bulldogs,2012-11-24,-37.99002,included_game_day
+2013,43,Yale Bulldogs,2012-11-29,-47.614918,included_game_day
+2013,43,Yale Bulldogs,2012-12-05,-39.3825086,included_game_day
+2013,43,Yale Bulldogs,2012-12-08,-40.7352539871,included_game_day
+2013,43,Yale Bulldogs,2012-12-28,-42.987524413794,included_game_day
+2013,43,Yale Bulldogs,2012-12-30,-41.86017763166139,included_game_day
+2013,43,Yale Bulldogs,2013-01-01,-35.84060930198863,included_game_day
+2013,43,Yale Bulldogs,2013-01-04,-22.32151911409859,included_game_day
+2013,43,Yale Bulldogs,2013-01-06,-30.368314791370203,included_game_day
+2013,43,Yale Bulldogs,2013-01-19,-42.281271278802976,included_game_day
+2013,43,Yale Bulldogs,2013-01-26,-31.811636468749196,included_game_day
+2013,43,Yale Bulldogs,2013-02-01,-24.242105277949676,included_game_day
+2013,43,Yale Bulldogs,2013-02-02,-34.275474802111695,included_game_day
+2013,43,Yale Bulldogs,2013-02-08,-24.138465624047615,included_game_day
+2013,43,Yale Bulldogs,2013-02-09,-9.963293059315658,included_game_day
+2013,43,Yale Bulldogs,2013-02-15,-20.911366286843755,included_game_day
+2013,43,Yale Bulldogs,2013-02-16,-3.031557213688952,included_game_day
+2013,43,Yale Bulldogs,2013-02-22,-3.208642410059907,included_game_day
+2013,43,Yale Bulldogs,2013-02-23,-6.989072911394626,included_game_day
+2013,43,Yale Bulldogs,2013-03-01,-18.97769130525152,included_game_day
+2013,43,Yale Bulldogs,2013-03-02,-11.014539332738806,included_game_day
+2013,43,Yale Bulldogs,2013-03-08,-2.080779017449924,included_game_day
+2013,43,Yale Bulldogs,2013-03-09,5.483004109264358,included_game_day
+2014,43,Yale Bulldogs,2013-11-09,16.0,included_game_day
+2014,43,Yale Bulldogs,2013-11-11,-0.5,included_game_day
+2014,43,Yale Bulldogs,2013-11-14,2.0,included_game_day
+2014,43,Yale Bulldogs,2013-11-19,11.4198,included_game_day
+2014,43,Yale Bulldogs,2013-11-23,-14.57436,included_game_day
+2014,43,Yale Bulldogs,2013-11-26,-8.453474,included_game_day
+2014,43,Yale Bulldogs,2013-11-30,-4.32580355,included_game_day
+2014,43,Yale Bulldogs,2013-12-04,-13.704743995,included_game_day
+2014,43,Yale Bulldogs,2013-12-07,-8.456567846999999,included_game_day
+2014,43,Yale Bulldogs,2013-12-17,-2.9362586198699994,included_game_day
+2014,43,Yale Bulldogs,2013-12-20,-6.184313380557848,included_game_day
+2014,43,Yale Bulldogs,2014-01-04,-13.829462370800698,included_game_day
+2014,43,Yale Bulldogs,2014-01-08,-23.413418522605753,included_game_day
+2014,43,Yale Bulldogs,2014-01-18,-17.543483605931456,included_game_day
+2014,43,Yale Bulldogs,2014-01-25,-30.847535672592016,included_game_day
+2014,43,Yale Bulldogs,2014-01-31,-15.352081471050427,included_game_day
+2014,43,Yale Bulldogs,2014-02-01,-24.1483868523485,included_game_day
+2014,43,Yale Bulldogs,2014-02-07,-7.445191924517925,included_game_day
+2014,43,Yale Bulldogs,2014-02-08,12.874804812069666,included_game_day
+2014,43,Yale Bulldogs,2014-02-14,18.92744688656601,included_game_day
+2014,43,Yale Bulldogs,2014-02-15,19.221646970907393,included_game_day
+2014,43,Yale Bulldogs,2014-02-21,26.26793861568278,included_game_day
+2014,43,Yale Bulldogs,2014-02-23,12.358150382378305,included_game_day
+2014,43,Yale Bulldogs,2014-02-28,6.102364635426589,included_game_day
+2014,43,Yale Bulldogs,2014-03-01,9.73762636978819,included_game_day
+2014,43,Yale Bulldogs,2014-03-07,6.525117069626978,included_game_day
+2014,43,Yale Bulldogs,2014-03-08,-9.478877604849282,included_game_day
+2014,43,Yale Bulldogs,2014-03-19,-12.15962154141204,included_game_day
+2014,43,Yale Bulldogs,2014-03-22,-1.779131354225811,included_game_day
+2014,43,Yale Bulldogs,2014-03-26,6.997595661479888,included_game_day
+2014,43,Yale Bulldogs,2014-04-01,25.135641560138964,included_game_day
+2014,43,Yale Bulldogs,2014-04-03,24.540795966741438,included_game_day
+2015,43,Yale Bulldogs,2014-11-14,0.0,included_game_day
+2015,43,Yale Bulldogs,2014-11-21,12.13,included_game_day
+2015,43,Yale Bulldogs,2014-11-22,17.827,included_game_day
+2015,43,Yale Bulldogs,2014-11-23,30.307000000000002,included_game_day
+2015,43,Yale Bulldogs,2014-11-26,48.5124,included_game_day
+2015,43,Yale Bulldogs,2014-11-28,47.62202,included_game_day
+2015,43,Yale Bulldogs,2014-11-30,51.554788,included_game_day
+2015,43,Yale Bulldogs,2014-12-03,53.8510468,included_game_day
+2015,43,Yale Bulldogs,2014-12-05,55.14204642,included_game_day
+2015,43,Yale Bulldogs,2014-12-08,16.343938873,included_game_day
+2015,43,Yale Bulldogs,2014-12-18,19.4604388221,included_game_day
+2015,43,Yale Bulldogs,2014-12-20,8.643768100094999,included_game_day
+2015,43,Yale Bulldogs,2014-12-30,14.523371986987733,included_game_day
+2015,43,Yale Bulldogs,2015-01-03,19.090185963426006,included_game_day
+2015,43,Yale Bulldogs,2015-01-09,13.2579664572899,included_game_day
+2015,43,Yale Bulldogs,2015-01-17,30.169250616693727,included_game_day
+2015,43,Yale Bulldogs,2015-01-24,23.69827794421679,included_game_day
+2015,43,Yale Bulldogs,2015-01-30,27.797296191347247,included_game_day
+2015,43,Yale Bulldogs,2015-01-31,36.469134018760464,included_game_day
+2015,43,Yale Bulldogs,2015-02-06,45.31967046131279,included_game_day
+2015,43,Yale Bulldogs,2015-02-07,40.482637273948384,included_game_day
+2015,43,Yale Bulldogs,2015-02-13,60.65454228467494,included_game_day
+2015,43,Yale Bulldogs,2015-02-14,67.06386792279913,included_game_day
+2015,43,Yale Bulldogs,2015-02-20,67.6538488904347,included_game_day
+2015,43,Yale Bulldogs,2015-02-21,53.80350848960291,included_game_day
+2015,43,Yale Bulldogs,2015-02-27,68.10078437744237,included_game_day
+2015,43,Yale Bulldogs,2015-02-28,54.265210379742996,included_game_day
+2015,43,Yale Bulldogs,2015-03-06,68.13935864466006,included_game_day
+2015,43,Yale Bulldogs,2015-03-07,64.23411649958295,included_game_day
+2015,43,Yale Bulldogs,2015-03-14,60.3501753088416,included_game_day
+2016,43,Yale Bulldogs,2015-11-13,13.0,included_game_day
+2016,43,Yale Bulldogs,2015-11-16,31.9,included_game_day
+2016,43,Yale Bulldogs,2015-11-19,42.4,included_game_day
+2016,43,Yale Bulldogs,2015-11-22,44.137,included_game_day
+2016,43,Yale Bulldogs,2015-11-25,27.1518,included_game_day
+2016,43,Yale Bulldogs,2015-11-29,-6.319403000000001,included_game_day
+2016,43,Yale Bulldogs,2015-12-02,20.321547699999996,included_game_day
+2016,43,Yale Bulldogs,2015-12-05,34.015424339999996,included_game_day
+2016,43,Yale Bulldogs,2015-12-09,30.579583783499995,included_game_day
+2016,43,Yale Bulldogs,2015-12-13,24.658300727249994,included_game_day
+2016,43,Yale Bulldogs,2015-12-30,33.33635794678367,included_game_day
+2016,43,Yale Bulldogs,2016-01-02,60.65282560483866,included_game_day
+2016,43,Yale Bulldogs,2016-01-06,68.87516935827398,included_game_day
+2016,43,Yale Bulldogs,2016-01-16,64.17023178239576,included_game_day
+2016,43,Yale Bulldogs,2016-01-22,81.40628172169318,included_game_day
+2016,43,Yale Bulldogs,2016-01-29,91.63829278952437,included_game_day
+2016,43,Yale Bulldogs,2016-01-30,90.80384115836499,included_game_day
+2016,43,Yale Bulldogs,2016-02-05,96.09194068186387,included_game_day
+2016,43,Yale Bulldogs,2016-02-06,111.8636036723031,included_game_day
+2016,43,Yale Bulldogs,2016-02-12,109.86145948055761,included_game_day
+2016,43,Yale Bulldogs,2016-02-13,111.45167825806561,included_game_day
+2016,43,Yale Bulldogs,2016-02-19,101.51443902291201,included_game_day
+2016,43,Yale Bulldogs,2016-02-20,113.44009581435364,included_game_day
+2016,43,Yale Bulldogs,2016-02-26,104.97838456223707,included_game_day
+2016,43,Yale Bulldogs,2016-02-27,93.9527194855868,included_game_day
+2016,43,Yale Bulldogs,2016-03-04,103.91613108705891,included_game_day
+2016,43,Yale Bulldogs,2016-03-05,118.44522507427024,included_game_day
+2016,43,Yale Bulldogs,2016-03-17,122.46018489288636,included_game_day
+2016,43,Yale Bulldogs,2016-03-19,113.7851655287455,included_game_day
+2017,43,Yale Bulldogs,2016-11-13,11.0,included_game_day
+2017,43,Yale Bulldogs,2016-11-17,14.9,included_game_day
+2017,43,Yale Bulldogs,2016-11-20,-1.5909999999999993,included_game_day
+2017,43,Yale Bulldogs,2016-11-22,-2.1461999999999994,included_game_day
+2017,43,Yale Bulldogs,2016-11-26,1.2629699000000008,included_game_day
+2017,43,Yale Bulldogs,2016-11-30,-9.448329729999998,included_game_day
+2017,43,Yale Bulldogs,2016-12-03,-9.377619703999997,included_game_day
+2017,43,Yale Bulldogs,2016-12-08,2.891848991437003,included_game_day
+2017,43,Yale Bulldogs,2016-12-11,17.450945697093303,included_game_day
+2017,43,Yale Bulldogs,2016-12-13,38.02556283168897,included_game_day
+2017,43,Yale Bulldogs,2016-12-22,33.931941270859404,included_game_day
+2017,43,Yale Bulldogs,2017-01-02,37.83226458286002,included_game_day
+2017,43,Yale Bulldogs,2017-01-13,47.40768215501416,included_game_day
+2017,43,Yale Bulldogs,2017-01-14,44.41637941151316,included_game_day
+2017,43,Yale Bulldogs,2017-01-20,40.34924418478125,included_game_day
+2017,43,Yale Bulldogs,2017-01-27,40.09553600339572,included_game_day
+2017,43,Yale Bulldogs,2017-02-03,46.77489836439315,included_game_day
+2017,43,Yale Bulldogs,2017-02-04,47.19513931173559,included_game_day
+2017,43,Yale Bulldogs,2017-02-10,42.47568213572976,included_game_day
+2017,43,Yale Bulldogs,2017-02-11,31.162666182307248,included_game_day
+2017,43,Yale Bulldogs,2017-02-17,11.87738766081538,included_game_day
+2017,43,Yale Bulldogs,2017-02-19,-6.379736578824939,included_game_day
+2017,43,Yale Bulldogs,2017-02-24,-11.070683202492633,included_game_day
+2017,43,Yale Bulldogs,2017-02-25,-0.14705613957046282,included_game_day
+2017,43,Yale Bulldogs,2017-03-03,18.9248713834231,included_game_day
+2017,43,Yale Bulldogs,2017-03-04,14.009709148862841,included_game_day
+2017,43,Yale Bulldogs,2017-03-11,20.116176295791,included_game_day
+2017,43,Yale Bulldogs,2017-03-12,17.326652690945,included_game_day
+2018,43,Yale Bulldogs,2017-11-10,-13.0,included_game_day
+2018,43,Yale Bulldogs,2017-11-12,-33.5,included_game_day
+2018,43,Yale Bulldogs,2017-11-14,-7.460000000000001,included_game_day
+2018,43,Yale Bulldogs,2017-11-17,-10.194,included_game_day
+2018,43,Yale Bulldogs,2017-11-22,-2.5465999999999998,included_game_day
+2018,43,Yale Bulldogs,2017-11-25,-9.2872,included_game_day
+2018,43,Yale Bulldogs,2017-11-27,4.519629999999999,included_game_day
+2018,43,Yale Bulldogs,2017-11-29,11.674844610000001,included_game_day
+2018,43,Yale Bulldogs,2017-12-02,-5.712945300999998,included_game_day
+2018,43,Yale Bulldogs,2017-12-06,4.363986681100002,included_game_day
+2018,43,Yale Bulldogs,2017-12-09,5.876217476190002,included_game_day
+2018,43,Yale Bulldogs,2017-12-12,-7.380167031173698,included_game_day
+2018,43,Yale Bulldogs,2017-12-22,-33.912406970834425,included_game_day
+2018,43,Yale Bulldogs,2017-12-30,-21.195298782413726,included_game_day
+2018,43,Yale Bulldogs,2018-01-06,-29.4628982555043,included_game_day
+2018,43,Yale Bulldogs,2018-01-12,-24.49933319248998,included_game_day
+2018,43,Yale Bulldogs,2018-01-19,-21.528481142078526,included_game_day
+2018,43,Yale Bulldogs,2018-01-26,-25.186420666387317,included_game_day
+2018,43,Yale Bulldogs,2018-01-27,-21.49023256126353,included_game_day
+2018,43,Yale Bulldogs,2018-02-02,-13.590361057348925,included_game_day
+2018,43,Yale Bulldogs,2018-02-03,-16.06892541244744,included_game_day
+2018,43,Yale Bulldogs,2018-02-09,-15.547006828542266,included_game_day
+2018,43,Yale Bulldogs,2018-02-10,-13.012166906476939,included_game_day
+2018,43,Yale Bulldogs,2018-02-16,-0.14971859665356035,included_game_day
+2018,43,Yale Bulldogs,2018-02-17,-10.36192808780541,included_game_day
+2018,43,Yale Bulldogs,2018-02-23,-9.163634578839511,included_game_day
+2018,43,Yale Bulldogs,2018-02-24,3.844382753146613,included_game_day
+2018,43,Yale Bulldogs,2018-03-02,7.13089350238079,included_game_day
+2018,43,Yale Bulldogs,2018-03-03,5.5907115723515535,included_game_day
+2018,43,Yale Bulldogs,2018-03-10,-12.87150185308794,included_game_day
+2019,43,Yale Bulldogs,2018-11-09,17.0,included_game_day
+2019,43,Yale Bulldogs,2018-11-17,12.073,included_game_day
+2019,43,Yale Bulldogs,2018-11-21,4.5384,included_game_day
+2019,43,Yale Bulldogs,2018-11-28,43.620704,included_game_day
+2019,43,Yale Bulldogs,2018-12-01,49.275886622,included_game_day
+2019,43,Yale Bulldogs,2018-12-05,53.585664329800004,included_game_day
+2019,43,Yale Bulldogs,2018-12-08,35.16186479967,included_game_day
+2019,43,Yale Bulldogs,2018-12-11,34.049894006844,included_game_day
+2019,43,Yale Bulldogs,2018-12-20,30.0436451424286,included_game_day
+2019,43,Yale Bulldogs,2018-12-22,33.54516991279176,included_game_day
+2019,43,Yale Bulldogs,2019-01-02,41.168273268418744,included_game_day
+2019,43,Yale Bulldogs,2019-01-05,40.16590514262561,included_game_day
+2019,43,Yale Bulldogs,2019-01-19,47.67136568284257,included_game_day
+2019,43,Yale Bulldogs,2019-01-25,52.675734115016134,included_game_day
+2019,43,Yale Bulldogs,2019-02-01,35.365718161087536,included_game_day
+2019,43,Yale Bulldogs,2019-02-02,55.75269046588719,included_game_day
+2019,43,Yale Bulldogs,2019-02-08,62.72347916890018,included_game_day
+2019,43,Yale Bulldogs,2019-02-09,68.47935006398299,included_game_day
+2019,43,Yale Bulldogs,2019-02-15,66.72319268709316,included_game_day
+2019,43,Yale Bulldogs,2019-02-16,68.66928635615464,included_game_day
+2019,43,Yale Bulldogs,2019-02-22,75.87741617621207,included_game_day
+2019,43,Yale Bulldogs,2019-02-23,66.44236553943509,included_game_day
+2019,43,Yale Bulldogs,2019-03-01,77.15538580773493,included_game_day
+2019,43,Yale Bulldogs,2019-03-02,55.528555786778796,included_game_day
+2019,43,Yale Bulldogs,2019-03-08,44.35059489528068,included_game_day
+2019,43,Yale Bulldogs,2019-03-09,65.2723345373163,included_game_day
+2019,43,Yale Bulldogs,2019-03-16,60.009726250944794,included_game_day
+2019,43,Yale Bulldogs,2019-03-17,69.43715306512634,included_game_day
+2019,43,Yale Bulldogs,2019-03-21,69.47185940712093,included_game_day
+2020,43,Yale Bulldogs,2019-11-05,8.0,included_game_day
+2020,43,Yale Bulldogs,2019-11-11,5.96,included_game_day
+2020,43,Yale Bulldogs,2019-11-17,5.2299999999999995,included_game_day
+2020,43,Yale Bulldogs,2019-11-20,13.489,included_game_day
+2020,43,Yale Bulldogs,2019-11-23,21.723965,included_game_day
+2020,43,Yale Bulldogs,2019-11-25,39.984067499999995,included_game_day
+2020,43,Yale Bulldogs,2019-11-26,51.36126204999999,included_game_day
+2020,43,Yale Bulldogs,2019-12-01,60.06716629499999,included_game_day
+2020,43,Yale Bulldogs,2019-12-04,65.954115011,included_game_day
+2020,43,Yale Bulldogs,2019-12-07,72.2887603812,included_game_day
+2020,43,Yale Bulldogs,2019-12-11,68.236096032933,included_game_day
+2020,43,Yale Bulldogs,2019-12-22,77.29842884618677,included_game_day
+2020,43,Yale Bulldogs,2019-12-30,72.18156922406848,included_game_day
+2020,43,Yale Bulldogs,2020-01-17,74.59051374422484,included_game_day
+2020,43,Yale Bulldogs,2020-01-20,68.05022234032762,included_game_day
+2020,43,Yale Bulldogs,2020-01-24,73.63140709684242,included_game_day
+2020,43,Yale Bulldogs,2020-01-31,88.91151887791119,included_game_day
+2020,43,Yale Bulldogs,2020-02-01,86.35042113690105,included_game_day
+2020,43,Yale Bulldogs,2020-02-07,77.40108107090535,included_game_day
+2020,43,Yale Bulldogs,2020-02-08,81.6004366113598,included_game_day
+2020,43,Yale Bulldogs,2020-02-14,100.84781424741058,included_game_day
+2020,43,Yale Bulldogs,2020-02-15,84.85994704440628,included_game_day
+2020,43,Yale Bulldogs,2020-02-21,73.18866500100908,included_game_day
+2020,43,Yale Bulldogs,2020-02-22,80.52406585046798,included_game_day
+2020,43,Yale Bulldogs,2020-02-28,72.7215107521607,included_game_day
+2020,43,Yale Bulldogs,2020-02-29,68.70108755729858,included_game_day
+2020,43,Yale Bulldogs,2020-03-06,76.76585667467754,included_game_day
+2020,43,Yale Bulldogs,2020-03-07,59.61407900574745,included_game_day
+2021,43,Yale Bulldogs,2021-04-05,0,zero_game_snapshot
+2022,43,Yale Bulldogs,2021-11-12,18.4,included_game_day
+2022,43,Yale Bulldogs,2021-11-14,-12.340000000000003,included_game_day
+2022,43,Yale Bulldogs,2021-11-16,15.153999999999996,included_game_day
+2022,43,Yale Bulldogs,2021-11-19,9.444599999999998,included_game_day
+2022,43,Yale Bulldogs,2021-11-23,3.160339999999997,included_game_day
+2022,43,Yale Bulldogs,2021-11-24,11.923135999999996,included_game_day
+2022,43,Yale Bulldogs,2021-11-28,-0.008430600000004063,included_game_day
+2022,43,Yale Bulldogs,2021-12-01,2.181765642749996,included_game_day
+2022,43,Yale Bulldogs,2021-12-04,-8.679568214125004,included_game_day
+2022,43,Yale Bulldogs,2021-12-07,1.5121182947874967,included_game_day
+2022,43,Yale Bulldogs,2021-12-12,-8.436816216721253,included_game_day
+2022,43,Yale Bulldogs,2021-12-14,-13.854837949957727,included_game_day
+2022,43,Yale Bulldogs,2021-12-28,-30.274940465706017,included_game_day
+2022,43,Yale Bulldogs,2022-01-15,-3.977703904231472,included_game_day
+2022,43,Yale Bulldogs,2022-01-17,1.747368658946745,included_game_day
+2022,43,Yale Bulldogs,2022-01-22,-6.269210267065836,included_game_day
+2022,43,Yale Bulldogs,2022-01-25,-7.922947561934296,included_game_day
+2022,43,Yale Bulldogs,2022-01-29,4.054134951197388,included_game_day
+2022,43,Yale Bulldogs,2022-02-04,1.4110603682171456,included_game_day
+2022,43,Yale Bulldogs,2022-02-05,0.7737195141551361,included_game_day
+2022,43,Yale Bulldogs,2022-02-09,6.263846830905528,included_game_day
+2022,43,Yale Bulldogs,2022-02-12,20.692095195135824,included_game_day
+2022,43,Yale Bulldogs,2022-02-18,25.28729910845988,included_game_day
+2022,43,Yale Bulldogs,2022-02-19,20.84230677681134,included_game_day
+2022,43,Yale Bulldogs,2022-02-22,23.957324709093882,included_game_day
+2022,43,Yale Bulldogs,2022-02-26,15.07215933450413,included_game_day
+2022,43,Yale Bulldogs,2022-03-05,15.266157072337114,included_game_day
+2022,43,Yale Bulldogs,2022-03-12,16.711652607251565,included_game_day
+2022,43,Yale Bulldogs,2022-03-13,24.743134394664246,included_game_day
+2022,43,Yale Bulldogs,2022-03-18,11.423428805051824,included_game_day
+2023,43,Yale Bulldogs,2022-11-11,13.1,included_game_day
+2023,43,Yale Bulldogs,2022-11-13,33.8,included_game_day
+2023,43,Yale Bulldogs,2022-11-14,38.699999999999996,included_game_day
+2023,43,Yale Bulldogs,2022-11-22,57.72963,included_game_day
+2023,43,Yale Bulldogs,2022-11-27,54.910922,included_game_day
+2023,43,Yale Bulldogs,2022-11-30,86.3050762,included_game_day
+2023,43,Yale Bulldogs,2022-12-03,75.65148908,included_game_day
+2023,43,Yale Bulldogs,2022-12-06,66.75869340517,included_game_day
+2023,43,Yale Bulldogs,2022-12-10,61.46493541558301,included_game_day
+2023,43,Yale Bulldogs,2022-12-12,70.2632440499007,included_game_day
+2023,43,Yale Bulldogs,2022-12-22,84.9286868829733,included_game_day
+2023,43,Yale Bulldogs,2022-12-31,71.06974657782244,included_game_day
+2023,43,Yale Bulldogs,2023-01-06,51.346336039086474,included_game_day
+2023,43,Yale Bulldogs,2023-01-07,49.073406672308025,included_game_day
+2023,43,Yale Bulldogs,2023-01-13,40.785847447077884,included_game_day
+2023,43,Yale Bulldogs,2023-01-16,37.23690899959431,included_game_day
+2023,43,Yale Bulldogs,2023-01-21,38.42584245824305,included_game_day
+2023,43,Yale Bulldogs,2023-01-28,59.91950341665135,included_game_day
+2023,43,Yale Bulldogs,2023-02-03,69.3688301521658,included_game_day
+2023,43,Yale Bulldogs,2023-02-04,81.91910374151631,included_game_day
+2023,43,Yale Bulldogs,2023-02-11,92.25292147726049,included_game_day
+2023,43,Yale Bulldogs,2023-02-17,88.00055225987012,included_game_day
+2023,43,Yale Bulldogs,2023-02-18,96.97399574272067,included_game_day
+2023,43,Yale Bulldogs,2023-02-25,103.6973768370919,included_game_day
+2023,43,Yale Bulldogs,2023-03-04,106.96491818957566,included_game_day
+2023,43,Yale Bulldogs,2023-03-11,116.97631988546438,included_game_day
+2023,43,Yale Bulldogs,2023-03-12,101.61091596381262,included_game_day
+2023,43,Yale Bulldogs,2023-03-14,92.87455481190769,included_game_day
+2024,43,Yale Bulldogs,2023-11-10,-12.0,included_game_day
+2024,43,Yale Bulldogs,2023-11-12,-4.8,included_game_day
+2024,43,Yale Bulldogs,2023-11-17,13.651999999999997,included_game_day
+2024,43,Yale Bulldogs,2023-11-18,2.725299999999997,included_game_day
+2024,43,Yale Bulldogs,2023-11-19,0.9404999999999974,included_game_day
+2024,43,Yale Bulldogs,2023-11-26,-0.7395900000000024,included_game_day
+2024,43,Yale Bulldogs,2023-11-29,0.8124989999999981,included_game_day
+2024,43,Yale Bulldogs,2023-12-02,4.153388669999998,included_game_day
+2024,43,Yale Bulldogs,2023-12-06,-7.733117480470002,included_game_day
+2024,43,Yale Bulldogs,2023-12-11,1.5679676649697978,included_game_day
+2024,43,Yale Bulldogs,2023-12-22,-2.810369825463182,included_game_day
+2024,43,Yale Bulldogs,2023-12-30,11.331832483402243,included_game_day
+2024,43,Yale Bulldogs,2024-01-03,18.379932045186404,included_game_day
+2024,43,Yale Bulldogs,2024-01-09,25.35551176073945,included_game_day
+2024,43,Yale Bulldogs,2024-01-15,38.403520347999695,included_game_day
+2024,43,Yale Bulldogs,2024-01-20,53.12006517221019,included_game_day
+2024,43,Yale Bulldogs,2024-01-27,60.6780194730935,included_game_day
+2024,43,Yale Bulldogs,2024-02-02,64.51305997198162,included_game_day
+2024,43,Yale Bulldogs,2024-02-03,67.7528566538198,included_game_day
+2024,43,Yale Bulldogs,2024-02-10,65.42557637447416,included_game_day
+2024,43,Yale Bulldogs,2024-02-16,72.89194061884531,included_game_day
+2024,43,Yale Bulldogs,2024-02-17,63.18490363044674,included_game_day
+2024,43,Yale Bulldogs,2024-02-23,61.57324567820476,included_game_day
+2024,43,Yale Bulldogs,2024-02-24,64.50962174130431,included_game_day
+2024,43,Yale Bulldogs,2024-03-01,68.54089958968693,included_game_day
+2024,43,Yale Bulldogs,2024-03-02,75.73500319658727,included_game_day
+2024,43,Yale Bulldogs,2024-03-09,61.44547229175042,included_game_day
+2024,43,Yale Bulldogs,2024-03-16,73.07406908981444,included_game_day
+2024,43,Yale Bulldogs,2024-03-17,69.1298340920131,included_game_day
+2024,43,Yale Bulldogs,2024-03-22,86.13714775520546,included_game_day
+2024,43,Yale Bulldogs,2024-03-24,61.12622239989062,included_game_day
+2025,43,Yale Bulldogs,2024-11-04,23.0,included_game_day
+2025,43,Yale Bulldogs,2024-11-08,11.7,included_game_day
+2025,43,Yale Bulldogs,2024-11-11,8.6,included_game_day
+2025,43,Yale Bulldogs,2024-11-16,9.044,included_game_day
+2025,43,Yale Bulldogs,2024-11-20,27.0686,included_game_day
+2025,43,Yale Bulldogs,2024-11-23,45.56839,included_game_day
+2025,43,Yale Bulldogs,2024-11-24,33.654817,included_game_day
+2025,43,Yale Bulldogs,2024-12-02,33.9842571536,included_game_day
+2025,43,Yale Bulldogs,2024-12-07,39.440038955839995,included_game_day
+2025,43,Yale Bulldogs,2024-12-20,50.83933046143402,included_game_day
+2025,43,Yale Bulldogs,2024-12-21,47.70865515638086,included_game_day
+2025,43,Yale Bulldogs,2025-01-01,62.9641743784268,included_game_day
+2025,43,Yale Bulldogs,2025-01-11,72.72364974822119,included_game_day
+2025,43,Yale Bulldogs,2025-01-18,72.14526593826832,included_game_day
+2025,43,Yale Bulldogs,2025-01-20,75.22116678528467,included_game_day
+2025,43,Yale Bulldogs,2025-01-25,89.40722453700883,included_game_day
+2025,43,Yale Bulldogs,2025-01-31,90.83170972604286,included_game_day
+2025,43,Yale Bulldogs,2025-02-01,109.35268175768758,included_game_day
+2025,43,Yale Bulldogs,2025-02-08,120.60102786066541,included_game_day
+2025,43,Yale Bulldogs,2025-02-14,100.58304451807635,included_game_day
+2025,43,Yale Bulldogs,2025-02-15,114.26773618038115,included_game_day
+2025,43,Yale Bulldogs,2025-02-21,102.35326756330704,included_game_day
+2025,43,Yale Bulldogs,2025-02-22,106.77530333473142,included_game_day
+2025,43,Yale Bulldogs,2025-02-28,108.18346906871724,included_game_day
+2025,43,Yale Bulldogs,2025-03-01,90.91507671791884,included_game_day
+2025,43,Yale Bulldogs,2025-03-08,92.50108304699035,included_game_day
+2025,43,Yale Bulldogs,2025-03-15,82.1922303812591,included_game_day
+2025,43,Yale Bulldogs,2025-03-16,86.55667050072871,included_game_day
+2025,43,Yale Bulldogs,2025-03-20,81.70693958974468,included_game_day
+2026,43,Yale Bulldogs,2025-11-07,34.4,included_game_day
+2026,43,Yale Bulldogs,2025-11-11,70.07,included_game_day
+2026,43,Yale Bulldogs,2025-11-15,67.693,included_game_day
+2026,43,Yale Bulldogs,2025-11-18,52.5622,included_game_day
+2026,43,Yale Bulldogs,2025-11-21,48.43760999999999,included_game_day
+2026,43,Yale Bulldogs,2025-11-23,53.353714,included_game_day
+2026,43,Yale Bulldogs,2025-11-24,58.8046758,included_game_day
+2026,43,Yale Bulldogs,2025-11-30,59.2410421961,included_game_day
+2026,43,Yale Bulldogs,2025-12-07,62.51776664749,included_game_day
+2026,43,Yale Bulldogs,2025-12-10,59.739322660711,included_game_day
+2026,43,Yale Bulldogs,2025-12-29,43.980990488963435,included_game_day
+2026,43,Yale Bulldogs,2026-01-05,59.58703946569546,included_game_day
+2026,43,Yale Bulldogs,2026-01-10,36.665475873335865,included_game_day
+2026,43,Yale Bulldogs,2026-01-17,62.4327018537041,included_game_day
+2026,43,Yale Bulldogs,2026-01-19,71.14615392567481,included_game_day
+2026,43,Yale Bulldogs,2026-01-24,84.40434018039986,included_game_day
+2026,43,Yale Bulldogs,2026-01-30,85.63799245537581,included_game_day
+2026,43,Yale Bulldogs,2026-01-31,73.40564698825678,included_game_day
+2026,43,Yale Bulldogs,2026-02-06,68.94188464912622,included_game_day
+2026,43,Yale Bulldogs,2026-02-09,70.68713391254212,included_game_day
+2026,43,Yale Bulldogs,2026-02-13,76.70214644218514,included_game_day
+2026,43,Yale Bulldogs,2026-02-14,75.81637290952152,included_game_day
+2026,43,Yale Bulldogs,2026-02-21,70.52538840986844,included_game_day
+2026,43,Yale Bulldogs,2026-02-27,65.34966148760314,included_game_day
+2026,43,Yale Bulldogs,2026-02-28,66.65757296972056,included_game_day
+2026,43,Yale Bulldogs,2026-03-07,79.44299654658947,included_game_day
+2026,43,Yale Bulldogs,2026-03-14,87.11626546537366,included_game_day
+2026,43,Yale Bulldogs,2026-03-15,78.56765855708367,included_game_day
+2026,43,Yale Bulldogs,2026-03-17,71.85392261872137,included_game_day
+2027,43,Yale Bulldogs,2026-11-02,7.0,included_game_day
+2027,43,Yale Bulldogs,2026-11-06,-2.9000000000000004,included_game_day
+2027,43,Yale Bulldogs,2026-11-10,-22.019999999999996,included_game_day
+2027,43,Yale Bulldogs,2026-11-13,-29.868999999999996,included_game_day
+2027,43,Yale Bulldogs,2026-11-18,-27.204099999999997,included_game_day
+2027,43,Yale Bulldogs,2026-11-23,-31.391949999999998,included_game_day

@@ -1,0 +1,1230 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,248,Houston,1987-11-27,11.0,included_game_day
+1988,248,Houston,1987-12-05,19.6,included_game_day
+1988,248,Houston,1987-12-07,22.741,included_game_day
+1988,248,Houston,1987-12-12,-2.0524400000000007,included_game_day
+1988,248,Houston,1987-12-17,-4.60055,included_game_day
+1988,248,Houston,1987-12-20,2.019586254,included_game_day
+1988,248,Houston,1987-12-21,8.618625851007,included_game_day
+1988,248,Houston,1988-01-02,5.760994818260854,included_game_day
+1988,248,Houston,1988-01-06,4.923291661421792,included_game_day
+1988,248,Houston,1988-01-09,4.872704580003453,included_game_day
+1988,248,Houston,1988-01-13,4.337094800738052,included_game_day
+1988,248,Houston,1988-01-16,20.089438326344982,included_game_day
+1988,248,Houston,1988-01-19,20.320844249552216,included_game_day
+1988,248,Houston,1988-01-23,21.60997167406906,included_game_day
+1988,248,Houston,1988-01-27,8.710716996537517,included_game_day
+1988,248,Houston,1988-01-30,13.759275476153594,included_game_day
+1988,248,Houston,1988-02-03,20.11749905510842,included_game_day
+1988,248,Houston,1988-02-06,27.137028376257465,included_game_day
+1988,248,Houston,1988-02-07,50.16568202885833,included_game_day
+1988,248,Houston,1988-02-10,50.086712763585574,included_game_day
+1988,248,Houston,1988-02-13,55.026480731634955,included_game_day
+1988,248,Houston,1988-02-17,64.10048379008765,included_game_day
+1988,248,Houston,1988-02-20,65.40070128302952,included_game_day
+1988,248,Houston,1988-02-24,63.45253939445561,included_game_day
+1988,248,Houston,1988-02-27,44.19721749887101,included_game_day
+1988,248,Houston,1988-03-03,50.53681333371153,included_game_day
+1988,248,Houston,1988-03-05,55.27553752468165,included_game_day
+1988,248,Houston,1988-03-11,66.40131333880026,included_game_day
+1988,248,Houston,1988-03-12,46.20205574122775,included_game_day
+1988,248,Houston,1988-03-17,49.22319631588083,included_game_day
+1988,248,Houston,1988-03-21,45.806013037155004,included_game_day
+1989,248,Houston,1988-11-26,10.0,included_game_day
+1989,248,Houston,1988-11-30,-21.0,included_game_day
+1989,248,Houston,1988-12-03,-5.609,included_game_day
+1989,248,Houston,1988-12-05,11.1483,included_game_day
+1989,248,Houston,1988-12-10,12.258253,included_game_day
+1989,248,Houston,1988-12-14,27.822087699999997,included_game_day
+1989,248,Houston,1988-12-17,42.80949593,included_game_day
+1989,248,Houston,1988-12-22,62.868251051665,included_game_day
+1989,248,Houston,1988-12-27,57.1914422150835,included_game_day
+1989,248,Houston,1988-12-28,46.071305079611335,included_game_day
+1989,248,Houston,1988-12-29,36.7036246568408,included_game_day
+1989,248,Houston,1989-01-04,45.428405278447286,included_game_day
+1989,248,Houston,1989-01-07,48.03762878990409,included_game_day
+1989,248,Houston,1989-01-11,45.4924723621727,included_game_day
+1989,248,Houston,1989-01-14,42.94665314101107,included_game_day
+1989,248,Houston,1989-01-18,34.844634661427605,included_game_day
+1989,248,Houston,1989-01-21,34.08420314487061,included_game_day
+1989,248,Houston,1989-01-25,33.2751358214076,included_game_day
+1989,248,Houston,1989-01-28,28.18727900180545,included_game_day
+1989,248,Houston,1989-02-01,35.44602988042411,included_game_day
+1989,248,Houston,1989-02-04,32.04833775276308,included_game_day
+1989,248,Houston,1989-02-11,35.44017047086756,included_game_day
+1989,248,Houston,1989-02-12,45.5849892381253,included_game_day
+1989,248,Houston,1989-02-15,63.30613714426877,included_game_day
+1989,248,Houston,1989-02-18,41.63668821833879,included_game_day
+1989,248,Houston,1989-02-19,36.825953288157194,included_game_day
+1989,248,Houston,1989-02-22,23.614853815802313,included_game_day
+1989,248,Houston,1989-02-25,25.10832108348103,included_game_day
+1989,248,Houston,1989-03-01,28.756954359553,included_game_day
+1989,248,Houston,1989-03-04,14.506068169492014,included_game_day
+1989,248,Houston,1989-03-10,7.2512810920612285,included_game_day
+1990,248,Houston,1989-11-15,4.0,included_game_day
+1990,248,Houston,1989-11-16,0.0,included_game_day
+1990,248,Houston,1989-12-02,34.118,included_game_day
+1990,248,Houston,1989-12-05,47.678006,included_game_day
+1990,248,Houston,1989-12-09,33.9689022,included_game_day
+1990,248,Houston,1989-12-13,28.591114550000004,included_game_day
+1990,248,Houston,1989-12-16,22.420284595000005,included_game_day
+1990,248,Houston,1989-12-18,26.868822835500005,included_game_day
+1990,248,Houston,1989-12-28,24.554146922730006,included_game_day
+1990,248,Houston,1989-12-29,34.85864068673553,included_game_day
+1990,248,Houston,1990-01-03,37.96961847337594,included_game_day
+1990,248,Houston,1990-01-06,51.28131481399801,included_game_day
+1990,248,Houston,1990-01-10,43.192430970568275,included_game_day
+1990,248,Houston,1990-01-13,53.52739889281136,included_game_day
+1990,248,Houston,1990-01-17,56.85389632008044,included_game_day
+1990,248,Houston,1990-01-20,41.61476344436135,included_game_day
+1990,248,Houston,1990-01-22,44.94300867291739,included_game_day
+1990,248,Houston,1990-01-24,54.031885971747656,included_game_day
+1990,248,Houston,1990-01-27,65.31421974954216,included_game_day
+1990,248,Houston,1990-01-30,81.1928241862482,included_game_day
+1990,248,Houston,1990-02-07,87.78077955855397,included_game_day
+1990,248,Houston,1990-02-10,96.05318842478883,included_game_day
+1990,248,Houston,1990-02-14,85.1292033800799,included_game_day
+1990,248,Houston,1990-02-17,85.32488902135933,included_game_day
+1990,248,Houston,1990-02-21,101.99687032339233,included_game_day
+1990,248,Houston,1990-02-24,97.5307138891557,included_game_day
+1990,248,Houston,1990-02-28,111.59178306947614,included_game_day
+1990,248,Houston,1990-03-05,111.71608308800937,included_game_day
+1990,248,Houston,1990-03-09,108.43037408799864,included_game_day
+1990,248,Houston,1990-03-10,109.78412827296935,included_game_day
+1990,248,Houston,1990-03-11,105.20533625120635,included_game_day
+1990,248,Houston,1990-03-15,98.12765820037414,included_game_day
+1991,248,Houston,1990-11-24,14.0,included_game_day
+1991,248,Houston,1990-11-26,49.6,included_game_day
+1991,248,Houston,1990-11-30,56.789,included_game_day
+1991,248,Houston,1990-12-01,47.6561,included_game_day
+1991,248,Houston,1990-12-05,40.342290000000006,included_game_day
+1991,248,Houston,1990-12-08,59.870375838,included_game_day
+1991,248,Houston,1990-12-15,60.7749060442,included_game_day
+1991,248,Houston,1990-12-17,90.768118618462,included_game_day
+1991,248,Houston,1990-12-27,110.729439344491,included_game_day
+1991,248,Houston,1990-12-29,89.2431239950842,included_game_day
+1991,248,Houston,1991-01-02,89.1752135627079,included_game_day
+1991,248,Houston,1991-01-06,80.80984457925977,included_game_day
+1991,248,Houston,1991-01-09,75.15788062472419,included_game_day
+1991,248,Houston,1991-01-12,61.236363781457975,included_game_day
+1991,248,Houston,1991-01-17,61.11159673672947,included_game_day
+1991,248,Houston,1991-01-19,51.831358679739985,included_game_day
+1991,248,Houston,1991-01-23,51.374818689695665,included_game_day
+1991,248,Houston,1991-01-26,45.95351062540174,included_game_day
+1991,248,Houston,1991-01-30,50.72382713783358,included_game_day
+1991,248,Houston,1991-02-02,54.55012475365153,included_game_day
+1991,248,Houston,1991-02-07,57.611249295326786,included_game_day
+1991,248,Houston,1991-02-09,46.87682302902644,included_game_day
+1991,248,Houston,1991-02-17,59.34893874058908,included_game_day
+1991,248,Houston,1991-02-20,70.214586010072,included_game_day
+1991,248,Houston,1991-02-23,62.98751202971554,included_game_day
+1991,248,Houston,1991-02-27,83.29730918417276,included_game_day
+1991,248,Houston,1991-03-02,69.02525211733061,included_game_day
+1991,248,Houston,1991-03-08,59.7002955475806,included_game_day
+1991,248,Houston,1991-03-13,55.78204157524432,included_game_day
+1992,248,Houston,1991-11-23,27.0,included_game_day
+1992,248,Houston,1991-11-27,21.9,included_game_day
+1992,248,Houston,1991-11-30,19.61,included_game_day
+1992,248,Houston,1991-12-03,32.731,included_game_day
+1992,248,Houston,1991-12-06,55.4173,included_game_day
+1992,248,Houston,1991-12-07,73.0273725,included_game_day
+1992,248,Houston,1991-12-14,75.82330025,included_game_day
+1992,248,Houston,1991-12-21,77.77178632500001,included_game_day
+1992,248,Houston,1991-12-30,84.30433975686609,included_game_day
+1992,248,Houston,1992-01-02,79.9396878240475,included_game_day
+1992,248,Houston,1992-01-09,69.60517976592207,included_game_day
+1992,248,Houston,1992-01-11,64.94820186709637,included_game_day
+1992,248,Houston,1992-01-18,81.89727913788921,included_game_day
+1992,248,Houston,1992-01-21,89.23264763820558,included_game_day
+1992,248,Houston,1992-01-25,96.5571932834909,included_game_day
+1992,248,Houston,1992-01-29,86.84811980055562,included_game_day
+1992,248,Houston,1992-02-01,79.48231595462916,included_game_day
+1992,248,Houston,1992-02-05,84.07055447063156,included_game_day
+1992,248,Houston,1992-02-09,62.16542866389743,included_game_day
+1992,248,Houston,1992-02-12,67.74588604583028,included_game_day
+1992,248,Houston,1992-02-17,78.31100184521253,included_game_day
+1992,248,Houston,1992-02-19,78.54098984918316,included_game_day
+1992,248,Houston,1992-02-26,81.24568882162289,included_game_day
+1992,248,Houston,1992-02-29,74.82824026498527,included_game_day
+1992,248,Houston,1992-03-04,77.2353846186322,included_game_day
+1992,248,Houston,1992-03-07,75.37483872656193,included_game_day
+1992,248,Houston,1992-03-13,74.88640201290572,included_game_day
+1992,248,Houston,1992-03-14,76.15779508935063,included_game_day
+1992,248,Houston,1992-03-15,98.39613380151813,included_game_day
+1992,248,Houston,1992-03-19,93.9031860575981,included_game_day
+1993,248,Houston,1992-12-05,23.2,included_game_day
+1993,248,Houston,1992-12-12,43.921499999999995,included_game_day
+1993,248,Houston,1992-12-13,45.32695,included_game_day
+1993,248,Houston,1992-12-17,60.384262699999994,included_game_day
+1993,248,Houston,1992-12-22,59.854069135281996,included_game_day
+1993,248,Houston,1992-12-28,49.4634165217538,included_game_day
+1993,248,Houston,1993-01-02,42.07500793907682,included_game_day
+1993,248,Houston,1993-01-04,40.27402496159743,included_game_day
+1993,248,Houston,1993-01-11,62.9838420518314,included_game_day
+1993,248,Houston,1993-01-14,67.09139676993959,included_game_day
+1993,248,Houston,1993-01-16,70.31076607326806,included_game_day
+1993,248,Houston,1993-01-19,69.48470394705967,included_game_day
+1993,248,Houston,1993-01-23,74.13633674963678,included_game_day
+1993,248,Houston,1993-01-26,65.00257398201013,included_game_day
+1993,248,Houston,1993-01-30,55.32243277121343,included_game_day
+1993,248,Houston,1993-02-02,47.40591631052694,included_game_day
+1993,248,Houston,1993-02-06,36.48171763455152,included_game_day
+1993,248,Houston,1993-02-08,42.04261581383777,included_game_day
+1993,248,Houston,1993-02-10,57.78647383852553,included_game_day
+1993,248,Houston,1993-02-13,67.53343821279105,included_game_day
+1993,248,Houston,1993-02-17,84.50215073092706,included_game_day
+1993,248,Houston,1993-02-21,90.72865014543224,included_game_day
+1993,248,Houston,1993-02-23,86.5505902337043,included_game_day
+1993,248,Houston,1993-02-27,87.71127182646411,included_game_day
+1993,248,Houston,1993-03-03,78.84252001134494,included_game_day
+1993,248,Houston,1993-03-06,79.52609568269392,included_game_day
+1993,248,Houston,1993-03-12,87.61151494074176,included_game_day
+1993,248,Houston,1993-03-13,87.5748303476649,included_game_day
+1993,248,Houston,1993-03-14,70.49411000409881,included_game_day
+1993,248,Houston,1993-03-17,63.544407477093074,included_game_day
+1994,248,Houston,1993-11-27,13.0,included_game_day
+1994,248,Houston,1993-11-30,3.6999999999999993,included_game_day
+1994,248,Houston,1993-12-03,-6.263,included_game_day
+1994,248,Houston,1993-12-04,12.6683,included_game_day
+1994,248,Houston,1993-12-07,8.59047,included_game_day
+1994,248,Houston,1993-12-10,-7.497588,included_game_day
+1994,248,Houston,1993-12-20,-20.42726674183,included_game_day
+1994,248,Houston,1993-12-23,-26.185971808037,included_game_day
+1994,248,Houston,1993-12-30,-39.1541816687796,included_game_day
+1994,248,Houston,1994-01-03,-48.96482351648982,included_game_day
+1994,248,Houston,1994-01-12,-60.646111950447505,included_game_day
+1994,248,Houston,1994-01-15,-59.414872673423616,included_game_day
+1994,248,Houston,1994-01-19,-62.81749342486761,included_game_day
+1994,248,Houston,1994-01-22,-57.714254720733635,included_game_day
+1994,248,Houston,1994-01-26,-61.4014084238857,included_game_day
+1994,248,Houston,1994-01-29,-80.75808055061917,included_game_day
+1994,248,Houston,1994-02-02,-74.57948392165511,included_game_day
+1994,248,Houston,1994-02-05,-59.24092667389072,included_game_day
+1994,248,Houston,1994-02-08,-63.14560301885154,included_game_day
+1994,248,Houston,1994-02-13,-44.089691578295515,included_game_day
+1994,248,Houston,1994-02-16,-40.01163621550941,included_game_day
+1994,248,Houston,1994-02-19,-35.10213375319143,included_game_day
+1994,248,Houston,1994-02-24,-31.549900359266033,included_game_day
+1994,248,Houston,1994-02-26,-29.36080488053404,included_game_day
+1994,248,Houston,1994-03-01,-17.228202414664352,included_game_day
+1994,248,Houston,1994-03-05,-16.73221563551165,included_game_day
+1994,248,Houston,1994-03-10,-35.61644802078905,included_game_day
+1995,248,Houston,1994-11-25,-1.0,included_game_day
+1995,248,Houston,1994-11-29,-22.3,included_game_day
+1995,248,Houston,1994-12-03,-27.77,included_game_day
+1995,248,Houston,1994-12-08,-30.926029999999997,included_game_day
+1995,248,Houston,1994-12-10,-35.992159199999996,included_game_day
+1995,248,Houston,1994-12-17,-39.7445576552,included_game_day
+1995,248,Houston,1994-12-21,-33.741768121,included_game_day
+1995,248,Houston,1994-12-23,-46.8902384257,included_game_day
+1995,248,Houston,1994-12-30,-59.7108850246742,included_game_day
+1995,248,Houston,1995-01-03,-58.30917894499694,included_game_day
+1995,248,Houston,1995-01-06,-76.12711418269105,included_game_day
+1995,248,Houston,1995-01-11,-82.44205337903895,included_game_day
+1995,248,Houston,1995-01-14,-81.31426183316137,included_game_day
+1995,248,Houston,1995-01-18,-89.69378656852884,included_game_day
+1995,248,Houston,1995-01-21,-85.02145897097095,included_game_day
+1995,248,Houston,1995-01-25,-78.84934105776907,included_game_day
+1995,248,Houston,1995-01-28,-75.81459472825725,included_game_day
+1995,248,Houston,1995-02-01,-50.90237946374914,included_game_day
+1995,248,Houston,1995-02-08,-37.27195779316979,included_game_day
+1995,248,Houston,1995-02-11,-46.36045848696125,included_game_day
+1995,248,Houston,1995-02-15,-53.738848922383596,included_game_day
+1995,248,Houston,1995-02-18,-47.71192020186345,included_game_day
+1995,248,Houston,1995-02-22,-53.69037936954851,included_game_day
+1995,248,Houston,1995-02-28,-46.21754034870685,included_game_day
+1995,248,Houston,1995-03-04,-56.72672177625834,included_game_day
+1995,248,Houston,1995-03-09,-48.12437105038257,included_game_day
+1995,248,Houston,1995-03-10,-47.22030225757426,included_game_day
+1996,248,Houston,1995-11-27,1.0,included_game_day
+1996,248,Houston,1995-11-29,7.9,included_game_day
+1996,248,Houston,1995-12-02,6.1027000000000005,included_game_day
+1996,248,Houston,1995-12-06,-13.976269999999998,included_game_day
+1996,248,Houston,1995-12-09,-12.938702999999999,included_game_day
+1996,248,Houston,1995-12-19,-27.0137738,included_game_day
+1996,248,Houston,1995-12-21,-37.527583336999996,included_game_day
+1996,248,Houston,1995-12-28,-5.8372504694590575,included_game_day
+1996,248,Houston,1996-01-06,1.4357541922312418,included_game_day
+1996,248,Houston,1996-01-08,-2.1882787863383317,included_game_day
+1996,248,Houston,1996-01-13,6.701306271219195,included_game_day
+1996,248,Houston,1996-01-17,6.418305168419889,included_game_day
+1996,248,Houston,1996-01-20,0.18456767132932494,included_game_day
+1996,248,Houston,1996-01-24,9.396464422382795,included_game_day
+1996,248,Houston,1996-01-27,17.693429099414985,included_game_day
+1996,248,Houston,1996-02-03,8.492297337170323,included_game_day
+1996,248,Houston,1996-02-05,28.259185656497607,included_game_day
+1996,248,Houston,1996-02-10,25.438540060066686,included_game_day
+1996,248,Houston,1996-02-14,27.702585204401913,included_game_day
+1996,248,Houston,1996-02-17,23.11433329798296,included_game_day
+1996,248,Houston,1996-02-21,27.206377378292526,included_game_day
+1996,248,Houston,1996-02-24,30.39379281131987,included_game_day
+1996,248,Houston,1996-02-28,27.574182865566836,included_game_day
+1996,248,Houston,1996-03-02,42.56119128310545,included_game_day
+1996,248,Houston,1996-03-07,28.202705421867677,included_game_day
+1997,248,Houston,1996-11-30,17.0,included_game_day
+1997,248,Houston,1996-12-04,18.181318,included_game_day
+1997,248,Houston,1996-12-07,-0.2934137999999997,included_game_day
+1997,248,Houston,1996-12-13,-2.49064162,included_game_day
+1997,248,Houston,1996-12-14,12.823135542,included_game_day
+1997,248,Houston,1996-12-19,7.400094445800001,included_game_day
+1997,248,Houston,1996-12-21,6.457272003134001,included_game_day
+1997,248,Houston,1996-12-28,-1.153142155069399,included_game_day
+1997,248,Houston,1996-12-30,13.849105955468342,included_game_day
+1997,248,Houston,1997-01-04,18.842778990409876,included_game_day
+1997,248,Houston,1997-01-11,10.193740375184719,included_game_day
+1997,248,Houston,1997-01-15,7.872083017822309,included_game_day
+1997,248,Houston,1997-01-18,0.5787642845222223,included_game_day
+1997,248,Houston,1997-01-22,15.575938499689933,included_game_day
+1997,248,Houston,1997-01-25,7.899816204339297,included_game_day
+1997,248,Houston,1997-01-29,6.490900440346222,included_game_day
+1997,248,Houston,1997-02-06,-8.620664170929375,included_game_day
+1997,248,Houston,1997-02-08,-28.08612776566528,included_game_day
+1997,248,Houston,1997-02-12,-17.590070198349643,included_game_day
+1997,248,Houston,1997-02-15,-18.100664159453007,included_game_day
+1997,248,Houston,1997-02-18,-31.067844233080972,included_game_day
+1997,248,Houston,1997-02-23,-28.261860202893764,included_game_day
+1997,248,Houston,1997-02-26,-30.823404779131998,included_game_day
+1997,248,Houston,1997-03-02,-25.805346127130036,included_game_day
+1997,248,Houston,1997-03-05,-21.859770910145517,included_game_day
+1998,248,Houston,1997-11-24,6.0,included_game_day
+1998,248,Houston,1997-11-29,11.080300000000001,included_game_day
+1998,248,Houston,1997-12-01,6.548801000000001,included_game_day
+1998,248,Houston,1997-12-04,7.081610900000001,included_game_day
+1998,248,Houston,1997-12-06,16.29727981,included_game_day
+1998,248,Houston,1997-12-09,12.405621829,included_game_day
+1998,248,Houston,1997-12-19,-5.6470042627977985,included_game_day
+1998,248,Houston,1997-12-20,-27.201626904171228,included_game_day
+1998,248,Houston,1997-12-27,-38.662871474688906,included_game_day
+1998,248,Houston,1997-12-30,-53.28051515949616,included_game_day
+1998,248,Houston,1998-01-04,-52.89137471519724,included_game_day
+1998,248,Houston,1998-01-08,-54.74964626157876,included_game_day
+1998,248,Houston,1998-01-10,-72.69885102582784,included_game_day
+1998,248,Houston,1998-01-15,-79.60345123344791,included_game_day
+1998,248,Houston,1998-01-18,-84.18209226206027,included_game_day
+1998,248,Houston,1998-01-24,-75.52236974002969,included_game_day
+1998,248,Houston,1998-01-26,-71.38351748455138,included_game_day
+1998,248,Houston,1998-01-29,-63.358726498276496,included_game_day
+1998,248,Houston,1998-01-31,-68.11515863857294,included_game_day
+1998,248,Houston,1998-02-05,-70.6500601197786,included_game_day
+1998,248,Houston,1998-02-07,-67.09511941252755,included_game_day
+1998,248,Houston,1998-02-12,-62.297345175688804,included_game_day
+1998,248,Houston,1998-02-14,-64.30967580887508,included_game_day
+1998,248,Houston,1998-02-19,-71.4480271901581,included_game_day
+1998,248,Houston,1998-02-21,-99.60446091728559,included_game_day
+1998,248,Houston,1998-02-26,-95.11176710352693,included_game_day
+1998,248,Houston,1998-02-28,-102.32393348449514,included_game_day
+1998,248,Houston,1998-03-04,-101.32183594327424,included_game_day
+1999,248,Houston,1998-11-17,-1.0,included_game_day
+1999,248,Houston,1998-11-21,-0.9699999999999998,included_game_day
+1999,248,Houston,1998-11-23,-12.433,included_game_day
+1999,248,Houston,1998-11-28,-14.206984,included_game_day
+1999,248,Houston,1998-11-30,-0.8534856000000008,included_game_day
+1999,248,Houston,1998-12-03,-8.499979040000001,included_game_day
+1999,248,Houston,1998-12-05,-12.369445496000003,included_game_day
+1999,248,Houston,1998-12-12,-24.051853572400002,included_game_day
+1999,248,Houston,1998-12-22,-45.82196845758756,included_game_day
+1999,248,Houston,1998-12-28,-26.11404652948002,included_game_day
+1999,248,Houston,1998-12-29,-27.22097357615826,included_game_day
+1999,248,Houston,1999-01-02,-31.017804670009788,included_game_day
+1999,248,Houston,1999-01-07,-18.468536774365788,included_game_day
+1999,248,Houston,1999-01-09,-43.31563550164973,included_game_day
+1999,248,Houston,1999-01-13,-46.421556565964636,included_game_day
+1999,248,Houston,1999-01-17,-41.12021877817841,included_game_day
+1999,248,Houston,1999-01-21,-46.729622992218125,included_game_day
+1999,248,Houston,1999-01-23,-41.547006798542014,included_game_day
+1999,248,Houston,1999-01-30,-53.78769620326001,included_game_day
+1999,248,Houston,1999-02-04,-52.442270072565506,included_game_day
+1999,248,Houston,1999-02-06,-38.320693645209616,included_game_day
+1999,248,Houston,1999-02-11,-21.938216573304807,included_game_day
+1999,248,Houston,1999-02-13,-18.879784177727224,included_game_day
+1999,248,Houston,1999-02-16,-32.37339832748448,included_game_day
+1999,248,Houston,1999-02-23,-29.203849901524475,included_game_day
+1999,248,Houston,1999-02-27,-28.941518617183593,included_game_day
+1999,248,Houston,1999-03-03,-44.4974431425768,included_game_day
+2000,248,Houston,1999-11-18,1.0,included_game_day
+2000,248,Houston,1999-11-19,-23.3,included_game_day
+2000,248,Houston,1999-11-27,-37.04,included_game_day
+2000,248,Houston,1999-12-04,-32.5312659,included_game_day
+2000,248,Houston,1999-12-05,-36.92349262,included_game_day
+2000,248,Houston,1999-12-07,-25.427690547999998,included_game_day
+2000,248,Houston,1999-12-11,-11.287338027099999,included_game_day
+2000,248,Houston,1999-12-15,-8.750898851979999,included_game_day
+2000,248,Houston,1999-12-18,-9.247054881159999,included_game_day
+2000,248,Houston,1999-12-21,-11.836131161889998,included_game_day
+2000,248,Houston,1999-12-30,-8.102517550721,included_game_day
+2000,248,Houston,2000-01-02,-5.332808014646099,included_game_day
+2000,248,Houston,2000-01-05,-1.531261391096674,included_game_day
+2000,248,Houston,2000-01-08,3.433066654755523,included_game_day
+2000,248,Houston,2000-01-12,-7.292539869062333,included_game_day
+2000,248,Houston,2000-01-16,-11.118313314457415,included_game_day
+2000,248,Houston,2000-01-22,5.329639236916281,included_game_day
+2000,248,Houston,2000-01-26,6.380487364155696,included_game_day
+2000,248,Houston,2000-01-29,12.437728873784303,included_game_day
+2000,248,Houston,2000-02-02,6.897975372806473,included_game_day
+2000,248,Houston,2000-02-05,11.203733611250673,included_game_day
+2000,248,Houston,2000-02-12,7.028278297688694,included_game_day
+2000,248,Houston,2000-02-17,12.340641395372714,included_game_day
+2000,248,Houston,2000-02-19,8.964332771412142,included_game_day
+2000,248,Houston,2000-02-23,2.086326587345969,included_game_day
+2000,248,Houston,2000-02-26,3.631151227046484,included_game_day
+2000,248,Houston,2000-03-01,1.6729348654137493,included_game_day
+2000,248,Houston,2000-03-04,-1.602557227538508,included_game_day
+2000,248,Houston,2000-03-08,3.606165665046043,included_game_day
+2000,248,Houston,2000-03-09,-3.685714855127939,included_game_day
+2001,248,Houston,2000-11-16,-3.0,included_game_day
+2001,248,Houston,2000-11-17,17.9,included_game_day
+2001,248,Houston,2000-11-21,1.0999999999999979,included_game_day
+2001,248,Houston,2000-11-25,11.589999999999998,included_game_day
+2001,248,Houston,2000-11-28,11.307999999999998,included_game_day
+2001,248,Houston,2000-11-30,2.1583399999999973,included_game_day
+2001,248,Houston,2000-12-17,-13.481367448990001,included_game_day
+2001,248,Houston,2000-12-20,-23.994097914091,included_game_day
+2001,248,Houston,2000-12-23,-38.514374155431085,included_game_day
+2001,248,Houston,2000-12-27,-28.288052935111796,included_game_day
+2001,248,Houston,2000-12-28,-24.23136292807384,included_game_day
+2001,248,Houston,2000-12-31,-29.601672788856156,included_game_day
+2001,248,Houston,2001-01-06,-28.973275677094037,included_game_day
+2001,248,Houston,2001-01-10,-25.45185040362218,included_game_day
+2001,248,Houston,2001-01-17,-37.088357820185315,included_game_day
+2001,248,Houston,2001-01-20,-25.65011031336718,included_game_day
+2001,248,Houston,2001-01-24,-32.970733641060264,included_game_day
+2001,248,Houston,2001-01-27,-49.76801049585724,included_game_day
+2001,248,Houston,2001-01-31,-50.24176329590644,included_game_day
+2001,248,Houston,2001-02-04,-41.98649711139542,included_game_day
+2001,248,Houston,2001-02-07,-46.74720914094664,included_game_day
+2001,248,Houston,2001-02-14,-45.55730345379762,included_game_day
+2001,248,Houston,2001-02-17,-53.13182994164778,included_game_day
+2001,248,Houston,2001-02-19,-26.873630845019377,included_game_day
+2001,248,Houston,2001-02-21,-26.277663131703758,included_game_day
+2001,248,Houston,2001-02-24,-46.40022815089361,included_game_day
+2001,248,Houston,2001-02-28,-37.774680252873225,included_game_day
+2001,248,Houston,2001-03-03,-33.291726116128544,included_game_day
+2001,248,Houston,2001-03-07,-37.07550035444413,included_game_day
+2002,248,Houston Cougars,2001-11-19,-8.0,included_game_day
+2002,248,Houston Cougars,2001-11-29,-9.652000000000001,included_game_day
+2002,248,Houston Cougars,2001-12-02,-6.856400000000001,included_game_day
+2002,248,Houston Cougars,2001-12-04,-11.152370000000001,included_game_day
+2002,248,Houston Cougars,2001-12-14,-15.5403797,included_game_day
+2002,248,Houston Cougars,2001-12-16,7.326632311900001,included_game_day
+2002,248,Houston Cougars,2001-12-20,16.083757351189,included_game_day
+2002,248,Houston Cougars,2001-12-23,21.5695232618422,included_game_day
+2002,248,Houston Cougars,2001-12-30,41.61264424957767,included_game_day
+2002,248,Houston Cougars,2002-01-05,38.77761333174845,included_game_day
+2002,248,Houston Cougars,2002-01-08,42.87922673124858,included_game_day
+2002,248,Houston Cougars,2002-01-12,32.39456675040045,included_game_day
+2002,248,Houston Cougars,2002-01-15,40.3721104194278,included_game_day
+2002,248,Houston Cougars,2002-01-17,37.89593324798685,included_game_day
+2002,248,Houston Cougars,2002-01-19,48.968628427168944,included_game_day
+2002,248,Houston Cougars,2002-01-23,47.930059570844776,included_game_day
+2002,248,Houston Cougars,2002-01-26,34.99173551322329,included_game_day
+2002,248,Houston Cougars,2002-01-29,26.35820242005169,included_game_day
+2002,248,Houston Cougars,2002-02-02,16.790006492080778,included_game_day
+2002,248,Houston Cougars,2002-02-05,26.286119734944187,included_game_day
+2002,248,Houston Cougars,2002-02-09,9.545627932126024,included_game_day
+2002,248,Houston Cougars,2002-02-12,27.67164627523701,included_game_day
+2002,248,Houston Cougars,2002-02-16,42.249238714282676,included_game_day
+2002,248,Houston Cougars,2002-02-19,41.693919138710626,included_game_day
+2002,248,Houston Cougars,2002-02-23,17.605101907970084,included_game_day
+2002,248,Houston Cougars,2002-02-26,-7.80121358813771,included_game_day
+2002,248,Houston Cougars,2002-03-02,-3.5858521357146724,included_game_day
+2002,248,Houston Cougars,2002-03-06,1.729939879354772,included_game_day
+2002,248,Houston Cougars,2002-03-07,23.005606612459488,included_game_day
+2002,248,Houston Cougars,2002-03-08,24.510979306284895,included_game_day
+2002,248,Houston Cougars,2002-03-13,19.69125079031334,included_game_day
+2003,248,Houston Cougars,2002-11-23,-6.0,included_game_day
+2003,248,Houston Cougars,2002-11-27,-20.785,included_game_day
+2003,248,Houston Cougars,2002-11-30,-19.7425,included_game_day
+2003,248,Houston Cougars,2002-12-04,-15.88705,included_game_day
+2003,248,Houston Cougars,2002-12-07,-21.815845,included_game_day
+2003,248,Houston Cougars,2002-12-09,-26.1662855,included_game_day
+2003,248,Houston Cougars,2002-12-21,-35.749153869,included_game_day
+2003,248,Houston Cougars,2002-12-23,-50.365424889595,included_game_day
+2003,248,Houston Cougars,2003-01-01,-44.84007048681572,included_game_day
+2003,248,Houston Cougars,2003-01-04,-54.28278134358179,included_game_day
+2003,248,Houston Cougars,2003-01-08,-66.7795897443155,included_game_day
+2003,248,Houston Cougars,2003-01-11,-68.80480537681628,included_game_day
+2003,248,Houston Cougars,2003-01-18,-50.42705395533543,included_game_day
+2003,248,Houston Cougars,2003-01-22,-49.29549113011887,included_game_day
+2003,248,Houston Cougars,2003-01-25,-40.73411116044744,included_game_day
+2003,248,Houston Cougars,2003-01-29,-36.305743541353706,included_game_day
+2003,248,Houston Cougars,2003-02-01,-23.233319324286196,included_game_day
+2003,248,Houston Cougars,2003-02-04,-27.101906151982767,included_game_day
+2003,248,Houston Cougars,2003-02-08,-35.95898638184984,included_game_day
+2003,248,Houston Cougars,2003-02-12,-30.459320002402222,included_game_day
+2003,248,Houston Cougars,2003-02-15,-38.98258471982277,included_game_day
+2003,248,Houston Cougars,2003-02-18,-37.31449745560623,included_game_day
+2003,248,Houston Cougars,2003-02-22,-55.712620724981896,included_game_day
+2003,248,Houston Cougars,2003-02-26,-47.80719147959488,included_game_day
+2003,248,Houston Cougars,2003-03-01,-29.74814107928087,included_game_day
+2003,248,Houston Cougars,2003-03-06,-31.49206061956854,included_game_day
+2003,248,Houston Cougars,2003-03-08,-27.233710076486698,included_game_day
+2003,248,Houston Cougars,2003-03-12,-41.05047464983954,included_game_day
+2004,248,Houston Cougars,2003-11-21,-17.0,included_game_day
+2004,248,Houston Cougars,2003-12-03,-24.060789999999997,included_game_day
+2004,248,Houston Cougars,2003-12-06,-17.354710999999998,included_game_day
+2004,248,Houston Cougars,2003-12-08,-37.91144702,included_game_day
+2004,248,Houston Cougars,2003-12-17,-29.280285438099998,included_game_day
+2004,248,Houston Cougars,2003-12-20,-15.714505244289999,included_game_day
+2004,248,Houston Cougars,2003-12-23,-16.660734084242513,included_game_day
+2004,248,Houston Cougars,2003-12-27,-9.951881841176261,included_game_day
+2004,248,Houston Cougars,2003-12-30,4.323501368245646,included_game_day
+2004,248,Houston Cougars,2004-01-03,-5.935525647247985,included_game_day
+2004,248,Houston Cougars,2004-01-07,-16.939119557544664,included_game_day
+2004,248,Houston Cougars,2004-01-10,-29.568444816883392,included_game_day
+2004,248,Houston Cougars,2004-01-13,-33.034843863094736,included_game_day
+2004,248,Houston Cougars,2004-01-17,-25.646762132407382,included_game_day
+2004,248,Houston Cougars,2004-01-19,-32.841838358819416,included_game_day
+2004,248,Houston Cougars,2004-01-24,-35.73474458738848,included_game_day
+2004,248,Houston Cougars,2004-01-28,-25.15972156452473,included_game_day
+2004,248,Houston Cougars,2004-01-31,-14.746369365308299,included_game_day
+2004,248,Houston Cougars,2004-02-03,-20.51415670771827,included_game_day
+2004,248,Houston Cougars,2004-02-07,-9.008837394766541,included_game_day
+2004,248,Houston Cougars,2004-02-11,-24.618333949077286,included_game_day
+2004,248,Houston Cougars,2004-02-14,-33.36688831512892,included_game_day
+2004,248,Houston Cougars,2004-02-18,-50.502315582803824,included_game_day
+2004,248,Houston Cougars,2004-02-21,-52.20355695095365,included_game_day
+2004,248,Houston Cougars,2004-02-28,-47.819203946498284,included_game_day
+2004,248,Houston Cougars,2004-03-03,-58.644394575834085,included_game_day
+2004,248,Houston Cougars,2004-03-05,-50.50279546916869,included_game_day
+2005,248,Houston Cougars,2004-11-15,6.0,included_game_day
+2005,248,Houston Cougars,2004-11-16,-7.1,included_game_day
+2005,248,Houston Cougars,2004-11-19,3.610000000000001,included_game_day
+2005,248,Houston Cougars,2004-11-23,-10.284999999999998,included_game_day
+2005,248,Houston Cougars,2004-11-24,-11.525999999999998,included_game_day
+2005,248,Houston Cougars,2004-11-27,29.626600000000003,included_game_day
+2005,248,Houston Cougars,2004-11-30,27.817940000000004,included_game_day
+2005,248,Houston Cougars,2004-12-04,35.8967631,included_game_day
+2005,248,Houston Cougars,2004-12-16,37.8049129928,included_game_day
+2005,248,Houston Cougars,2004-12-18,39.76463809352,included_game_day
+2005,248,Houston Cougars,2004-12-21,43.323128544409,included_game_day
+2005,248,Houston Cougars,2004-12-24,7.022770110883485,included_game_day
+2005,248,Houston Cougars,2004-12-29,6.471604389120355,included_game_day
+2005,248,Houston Cougars,2005-01-05,21.501003797481715,included_game_day
+2005,248,Houston Cougars,2005-01-08,14.029328359170057,included_game_day
+2005,248,Houston Cougars,2005-01-11,9.161881108714512,included_game_day
+2005,248,Houston Cougars,2005-01-15,12.528318421988729,included_game_day
+2005,248,Houston Cougars,2005-01-19,10.192614835188522,included_game_day
+2005,248,Houston Cougars,2005-01-22,27.521241549629856,included_game_day
+2005,248,Houston Cougars,2005-01-26,15.97244392116625,included_game_day
+2005,248,Houston Cougars,2005-01-29,12.732139214530216,included_game_day
+2005,248,Houston Cougars,2005-02-02,25.301633062308362,included_game_day
+2005,248,Houston Cougars,2005-02-05,39.027384874042575,included_game_day
+2005,248,Houston Cougars,2005-02-09,23.795104712580994,included_game_day
+2005,248,Houston Cougars,2005-02-12,40.14175202703552,included_game_day
+2005,248,Houston Cougars,2005-02-16,52.52848872525911,included_game_day
+2005,248,Houston Cougars,2005-02-19,59.13967707882323,included_game_day
+2005,248,Houston Cougars,2005-02-26,56.90715017023005,included_game_day
+2005,248,Houston Cougars,2005-03-02,35.698043376781726,included_game_day
+2005,248,Houston Cougars,2005-03-05,31.61930455347319,included_game_day
+2005,248,Houston Cougars,2005-03-09,21.665683590655405,included_game_day
+2005,248,Houston Cougars,2005-03-16,11.239246943877198,included_game_day
+2006,248,Houston Cougars,2005-11-26,-4.029999999999999,included_game_day
+2006,248,Houston Cougars,2005-11-29,6.65535,included_game_day
+2006,248,Houston Cougars,2005-12-03,10.4933028,included_game_day
+2006,248,Houston Cougars,2005-12-10,27.472759510000003,included_game_day
+2006,248,Houston Cougars,2005-12-17,25.708496302300002,included_game_day
+2006,248,Houston Cougars,2005-12-20,17.881689972394003,included_game_day
+2006,248,Houston Cougars,2005-12-23,27.0660270297546,included_game_day
+2006,248,Houston Cougars,2005-12-27,49.62728783539757,included_game_day
+2006,248,Houston Cougars,2005-12-31,49.446376200177326,included_game_day
+2006,248,Houston Cougars,2006-01-03,51.13866925930218,included_game_day
+2006,248,Houston Cougars,2006-01-07,50.69094288596432,included_game_day
+2006,248,Houston Cougars,2006-01-11,35.931533434445235,included_game_day
+2006,248,Houston Cougars,2006-01-14,16.9647796071535,included_game_day
+2006,248,Houston Cougars,2006-01-18,8.178775320666988,included_game_day
+2006,248,Houston Cougars,2006-01-21,17.708727164431103,included_game_day
+2006,248,Houston Cougars,2006-01-25,37.294323350768096,included_game_day
+2006,248,Houston Cougars,2006-01-28,43.63435114938202,included_game_day
+2006,248,Houston Cougars,2006-02-01,47.24326440940666,included_game_day
+2006,248,Houston Cougars,2006-02-04,46.29095905621874,included_game_day
+2006,248,Houston Cougars,2006-02-07,57.96842449575803,included_game_day
+2006,248,Houston Cougars,2006-02-11,61.65263544089974,included_game_day
+2006,248,Houston Cougars,2006-02-15,63.51377797994,included_game_day
+2006,248,Houston Cougars,2006-02-18,77.87611188153753,included_game_day
+2006,248,Houston Cougars,2006-02-25,74.60862855420035,included_game_day
+2006,248,Houston Cougars,2006-03-01,63.113931418952646,included_game_day
+2006,248,Houston Cougars,2006-03-04,67.94267119854429,included_game_day
+2006,248,Houston Cougars,2006-03-09,77.27695905934652,included_game_day
+2006,248,Houston Cougars,2006-03-10,72.94882927200086,included_game_day
+2006,248,Houston Cougars,2006-03-15,77.17199796848999,included_game_day
+2006,248,Houston Cougars,2006-03-20,80.86970808159701,included_game_day
+2007,248,Houston Cougars,2006-11-13,6.0,included_game_day
+2007,248,Houston Cougars,2006-11-18,10.16,included_game_day
+2007,248,Houston Cougars,2006-11-22,41.144000000000005,included_game_day
+2007,248,Houston Cougars,2006-11-25,36.58560000000001,included_game_day
+2007,248,Houston Cougars,2006-11-29,67.1612671,included_game_day
+2007,248,Houston Cougars,2006-12-02,52.196517141,included_game_day
+2007,248,Houston Cougars,2006-12-17,34.431955377570006,included_game_day
+2007,248,Houston Cougars,2006-12-21,46.131402910123,included_game_day
+2007,248,Houston Cougars,2006-12-22,40.0177954330927,included_game_day
+2007,248,Houston Cougars,2006-12-23,24.480749965810098,included_game_day
+2007,248,Houston Cougars,2006-12-30,12.961205648129269,included_game_day
+2007,248,Houston Cougars,2007-01-03,15.428665610508796,included_game_day
+2007,248,Houston Cougars,2007-01-11,14.423807506901847,included_game_day
+2007,248,Houston Cougars,2007-01-13,26.636064645696223,included_game_day
+2007,248,Houston Cougars,2007-01-17,21.123642540487765,included_game_day
+2007,248,Houston Cougars,2007-01-20,28.3261358689685,included_game_day
+2007,248,Houston Cougars,2007-01-24,29.162836174714748,included_game_day
+2007,248,Houston Cougars,2007-01-27,45.748672688615954,included_game_day
+2007,248,Houston Cougars,2007-01-29,40.333567698043026,included_game_day
+2007,248,Houston Cougars,2007-01-31,39.44760645849699,included_game_day
+2007,248,Houston Cougars,2007-02-03,36.41313174849607,included_game_day
+2007,248,Houston Cougars,2007-02-07,50.223946818862956,included_game_day
+2007,248,Houston Cougars,2007-02-10,57.926694286664194,included_game_day
+2007,248,Houston Cougars,2007-02-14,48.13576831307101,included_game_day
+2007,248,Houston Cougars,2007-02-17,49.68279357421199,included_game_day
+2007,248,Houston Cougars,2007-02-19,46.459026636107005,included_game_day
+2007,248,Houston Cougars,2007-02-21,50.16235583956657,included_game_day
+2007,248,Houston Cougars,2007-02-25,55.83039980156586,included_game_day
+2007,248,Houston Cougars,2007-02-28,55.79172228254145,included_game_day
+2007,248,Houston Cougars,2007-03-03,56.56595917063133,included_game_day
+2007,248,Houston Cougars,2007-03-08,55.07478997334805,included_game_day
+2007,248,Houston Cougars,2007-03-09,60.819151796303636,included_game_day
+2007,248,Houston Cougars,2007-03-10,63.91717543499745,included_game_day
+2008,248,Houston Cougars,2007-11-09,26.0,included_game_day
+2008,248,Houston Cougars,2007-11-15,24.0,included_game_day
+2008,248,Houston Cougars,2007-11-16,25.92,included_game_day
+2008,248,Houston Cougars,2007-11-18,35.989000000000004,included_game_day
+2008,248,Houston Cougars,2007-11-21,33.4795,included_game_day
+2008,248,Houston Cougars,2007-11-24,64.53775,included_game_day
+2008,248,Houston Cougars,2007-11-26,59.37027500000001,included_game_day
+2008,248,Houston Cougars,2007-12-01,57.158561500000005,included_game_day
+2008,248,Houston Cougars,2007-12-04,54.0915319858,included_game_day
+2008,248,Houston Cougars,2007-12-08,62.72113346302,included_game_day
+2008,248,Houston Cougars,2007-12-18,71.7283211106801,included_game_day
+2008,248,Houston Cougars,2007-12-29,67.28899776680458,included_game_day
+2008,248,Houston Cougars,2008-01-02,63.715547424565614,included_game_day
+2008,248,Houston Cougars,2008-01-12,47.103839947507694,included_game_day
+2008,248,Houston Cougars,2008-01-16,69.52858506105082,included_game_day
+2008,248,Houston Cougars,2008-01-23,66.31491811344723,included_game_day
+2008,248,Houston Cougars,2008-01-26,70.89768306768039,included_game_day
+2008,248,Houston Cougars,2008-01-30,68.87247516530654,included_game_day
+2008,248,Houston Cougars,2008-02-02,74.17516762892014,included_game_day
+2008,248,Houston Cougars,2008-02-06,79.03247975722238,included_game_day
+2008,248,Houston Cougars,2008-02-09,87.88646757193706,included_game_day
+2008,248,Houston Cougars,2008-02-13,92.8397247757261,included_game_day
+2008,248,Houston Cougars,2008-02-16,98.38523776084563,included_game_day
+2008,248,Houston Cougars,2008-02-20,98.88008097887658,included_game_day
+2008,248,Houston Cougars,2008-02-23,84.71818544854968,included_game_day
+2008,248,Houston Cougars,2008-02-27,106.46478205946892,included_game_day
+2008,248,Houston Cougars,2008-03-01,90.69205074432269,included_game_day
+2008,248,Houston Cougars,2008-03-05,89.81325750618831,included_game_day
+2008,248,Houston Cougars,2008-03-08,79.09917587039115,included_game_day
+2008,248,Houston Cougars,2008-03-13,71.85729311838939,included_game_day
+2008,248,Houston Cougars,2008-03-18,72.57539137477202,included_game_day
+2008,248,Houston Cougars,2008-03-24,91.21919517472428,included_game_day
+2008,248,Houston Cougars,2008-03-26,88.98040566972686,included_game_day
+2009,248,Houston Cougars,2008-11-10,-2.0,included_game_day
+2009,248,Houston Cougars,2008-11-11,14.399999999999999,included_game_day
+2009,248,Houston Cougars,2008-11-15,18.96,included_game_day
+2009,248,Houston Cougars,2008-11-18,66.564,included_game_day
+2009,248,Houston Cougars,2008-11-29,90.823533,included_game_day
+2009,248,Houston Cougars,2008-12-02,87.6315797,included_game_day
+2009,248,Houston Cougars,2008-12-13,95.48458046374,included_game_day
+2009,248,Houston Cougars,2008-12-20,91.03938878352601,included_game_day
+2009,248,Houston Cougars,2008-12-28,75.55091467569211,included_game_day
+2009,248,Houston Cougars,2008-12-30,92.50595629884326,included_game_day
+2009,248,Houston Cougars,2009-01-03,71.9915952289038,included_game_day
+2009,248,Houston Cougars,2009-01-06,75.51750880098652,included_game_day
+2009,248,Houston Cougars,2009-01-10,90.33207971802692,included_game_day
+2009,248,Houston Cougars,2009-01-14,98.30684053664376,included_game_day
+2009,248,Houston Cougars,2009-01-17,88.20711537820375,included_game_day
+2009,248,Houston Cougars,2009-01-21,92.31570403526952,included_game_day
+2009,248,Houston Cougars,2009-01-24,85.74132918293073,included_game_day
+2009,248,Houston Cougars,2009-01-28,73.04410861432139,included_game_day
+2009,248,Houston Cougars,2009-01-31,68.99223303556107,included_game_day
+2009,248,Houston Cougars,2009-02-04,100.69411629496867,included_game_day
+2009,248,Houston Cougars,2009-02-07,86.93785888223135,included_game_day
+2009,248,Houston Cougars,2009-02-11,92.28756483391084,included_game_day
+2009,248,Houston Cougars,2009-02-14,97.80093054054498,included_game_day
+2009,248,Houston Cougars,2009-02-18,84.69444375359885,included_game_day
+2009,248,Houston Cougars,2009-02-21,81.51195399876194,included_game_day
+2009,248,Houston Cougars,2009-02-25,74.74119193282681,included_game_day
+2009,248,Houston Cougars,2009-02-28,72.56368431944821,included_game_day
+2009,248,Houston Cougars,2009-03-04,73.5586019568329,included_game_day
+2009,248,Houston Cougars,2009-03-07,72.60863537312598,included_game_day
+2009,248,Houston Cougars,2009-03-11,71.84866210616045,included_game_day
+2009,248,Houston Cougars,2009-03-12,76.06120307194203,included_game_day
+2009,248,Houston Cougars,2009-03-13,66.23299446209013,included_game_day
+2009,248,Houston Cougars,2009-03-18,59.666935670319795,included_game_day
+2010,248,Houston Cougars,2009-11-17,27.0,included_game_day
+2010,248,Houston Cougars,2009-11-21,14.29,included_game_day
+2010,248,Houston Cougars,2009-11-26,20.026335,included_game_day
+2010,248,Houston Cougars,2009-11-27,13.406516499999999,included_game_day
+2010,248,Houston Cougars,2009-12-06,17.97694765,included_game_day
+2010,248,Houston Cougars,2009-12-14,18.980192886161,included_game_day
+2010,248,Houston Cougars,2009-12-19,19.9179776891305,included_game_day
+2010,248,Houston Cougars,2009-12-21,36.46256708162244,included_game_day
+2010,248,Houston Cougars,2009-12-23,54.81484381935989,included_game_day
+2010,248,Houston Cougars,2009-12-29,47.17342459996757,included_game_day
+2010,248,Houston Cougars,2010-01-01,47.771140713266526,included_game_day
+2010,248,Houston Cougars,2010-01-03,47.034481220600526,included_game_day
+2010,248,Houston Cougars,2010-01-06,60.11126652975956,included_game_day
+2010,248,Houston Cougars,2010-01-09,54.17231564456488,included_game_day
+2010,248,Houston Cougars,2010-01-13,64.06522407075994,included_game_day
+2010,248,Houston Cougars,2010-01-16,75.81156699961208,included_game_day
+2010,248,Houston Cougars,2010-01-20,57.4319712309944,included_game_day
+2010,248,Houston Cougars,2010-01-23,48.93941242205599,included_game_day
+2010,248,Houston Cougars,2010-01-30,62.34724922146079,included_game_day
+2010,248,Houston Cougars,2010-02-03,64.10765762147906,included_game_day
+2010,248,Houston Cougars,2010-02-06,56.49989847048135,included_game_day
+2010,248,Houston Cougars,2010-02-09,57.09282269579712,included_game_day
+2010,248,Houston Cougars,2010-02-13,58.83064781508161,included_game_day
+2010,248,Houston Cougars,2010-02-16,51.63984168852273,included_game_day
+2010,248,Houston Cougars,2010-02-20,47.472694022321214,included_game_day
+2010,248,Houston Cougars,2010-02-24,66.00026370515253,included_game_day
+2010,248,Houston Cougars,2010-02-27,54.677168180634034,included_game_day
+2010,248,Houston Cougars,2010-03-03,47.76119698595009,included_game_day
+2010,248,Houston Cougars,2010-03-06,38.34573582416238,included_game_day
+2010,248,Houston Cougars,2010-03-10,41.29611722385608,included_game_day
+2010,248,Houston Cougars,2010-03-11,48.18479903578478,included_game_day
+2010,248,Houston Cougars,2010-03-12,57.714068488620484,included_game_day
+2010,248,Houston Cougars,2010-03-13,73.71699379123059,included_game_day
+2010,248,Houston Cougars,2010-03-19,70.07650043832615,included_game_day
+2011,248,Houston Cougars,2010-11-12,-2.0,included_game_day
+2011,248,Houston Cougars,2010-11-14,12.3,included_game_day
+2011,248,Houston Cougars,2010-11-17,5.550000000000001,included_game_day
+2011,248,Houston Cougars,2010-11-23,12.7562,included_game_day
+2011,248,Houston Cougars,2010-11-27,-1.2022678000000013,included_game_day
+2011,248,Houston Cougars,2010-11-30,-9.251015520000001,included_game_day
+2011,248,Houston Cougars,2010-12-04,-1.8095059680000016,included_game_day
+2011,248,Houston Cougars,2010-12-06,-3.2143241503000013,included_game_day
+2011,248,Houston Cougars,2010-12-11,-10.01756077527,included_game_day
+2011,248,Houston Cougars,2010-12-18,-16.399041713309,included_game_day
+2011,248,Houston Cougars,2010-12-21,-16.07959873629036,included_game_day
+2011,248,Houston Cougars,2011-01-05,-17.033633888058887,included_game_day
+2011,248,Houston Cougars,2011-01-08,-3.1553572956084626,included_game_day
+2011,248,Houston Cougars,2011-01-15,2.1881067409882764,included_game_day
+2011,248,Houston Cougars,2011-01-19,9.981250405921614,included_game_day
+2011,248,Houston Cougars,2011-01-22,9.702347776487787,included_game_day
+2011,248,Houston Cougars,2011-01-26,3.8496392935293153,included_game_day
+2011,248,Houston Cougars,2011-01-29,4.649129238434633,included_game_day
+2011,248,Houston Cougars,2011-02-01,7.2315568904277265,included_game_day
+2011,248,Houston Cougars,2011-02-05,8.679838684175015,included_game_day
+2011,248,Houston Cougars,2011-02-12,15.291891638717091,included_game_day
+2011,248,Houston Cougars,2011-02-16,-0.9166732935525292,included_game_day
+2011,248,Houston Cougars,2011-02-19,-2.8369873700546595,included_game_day
+2011,248,Houston Cougars,2011-02-22,-6.402659370047887,included_game_day
+2011,248,Houston Cougars,2011-02-26,-14.803994957595007,included_game_day
+2011,248,Houston Cougars,2011-03-02,-14.572216860453528,included_game_day
+2011,248,Houston Cougars,2011-03-05,-30.846052411519864,included_game_day
+2011,248,Houston Cougars,2011-03-09,-30.35334757588312,included_game_day
+2012,248,Houston Cougars,2011-11-12,43.0,included_game_day
+2012,248,Houston Cougars,2011-11-14,48.7,included_game_day
+2012,248,Houston Cougars,2011-11-18,59.237,included_game_day
+2012,248,Houston Cougars,2011-11-22,48.1201,included_game_day
+2012,248,Houston Cougars,2011-11-26,37.4615498,included_game_day
+2012,248,Houston Cougars,2011-11-29,31.49892582,included_game_day
+2012,248,Houston Cougars,2011-12-03,41.9642318736,included_game_day
+2012,248,Houston Cougars,2011-12-06,38.80714208644,included_game_day
+2012,248,Houston Cougars,2011-12-17,37.045187074216,included_game_day
+2012,248,Houston Cougars,2011-12-20,33.4683249517944,included_game_day
+2012,248,Houston Cougars,2011-12-28,21.84687186211992,included_game_day
+2012,248,Houston Cougars,2011-12-30,36.02009710608277,included_game_day
+2012,248,Houston Cougars,2012-01-04,31.84323209146703,included_game_day
+2012,248,Houston Cougars,2012-01-07,13.096217470775233,included_game_day
+2012,248,Houston Cougars,2012-01-11,8.70853245625966,included_game_day
+2012,248,Houston Cougars,2012-01-14,-22.03388255262883,included_game_day
+2012,248,Houston Cougars,2012-01-18,-34.1311204512225,included_game_day
+2012,248,Houston Cougars,2012-01-21,-27.735261543850903,included_game_day
+2012,248,Houston Cougars,2012-01-28,-20.178801611049046,included_game_day
+2012,248,Houston Cougars,2012-02-01,-25.02650868102799,included_game_day
+2012,248,Houston Cougars,2012-02-04,-39.376041054575374,included_game_day
+2012,248,Houston Cougars,2012-02-08,-46.59745286803267,included_game_day
+2012,248,Houston Cougars,2012-02-11,-57.35936230646697,included_game_day
+2012,248,Houston Cougars,2012-02-18,-44.902283398061265,included_game_day
+2012,248,Houston Cougars,2012-02-22,-40.66186234596468,included_game_day
+2012,248,Houston Cougars,2012-02-25,-38.61697458577896,included_game_day
+2012,248,Houston Cougars,2012-02-29,-9.00509083010968,included_game_day
+2012,248,Houston Cougars,2012-03-03,-1.6498336225360237,included_game_day
+2012,248,Houston Cougars,2012-03-07,-5.295136337338853,included_game_day
+2013,248,Houston Cougars,2012-11-09,2.0,included_game_day
+2013,248,Houston Cougars,2012-11-13,6.7,included_game_day
+2013,248,Houston Cougars,2012-11-17,34.980000000000004,included_game_day
+2013,248,Houston Cougars,2012-11-25,34.511,included_game_day
+2013,248,Houston Cougars,2012-11-28,29.211993300000003,included_game_day
+2013,248,Houston Cougars,2012-12-01,13.499030470000003,included_game_day
+2013,248,Houston Cougars,2012-12-04,19.373822913,included_game_day
+2013,248,Houston Cougars,2012-12-08,11.5310110908,included_game_day
+2013,248,Houston Cougars,2012-12-15,27.939799719377,included_game_day
+2013,248,Houston Cougars,2012-12-22,37.13519756466476,included_game_day
+2013,248,Houston Cougars,2012-12-29,27.016140867508753,included_game_day
+2013,248,Houston Cougars,2013-01-03,38.8954085744725,included_game_day
+2013,248,Houston Cougars,2013-01-09,43.528959802248146,included_game_day
+2013,248,Houston Cougars,2013-01-12,31.53926987205319,included_game_day
+2013,248,Houston Cougars,2013-01-16,20.09826764553855,included_game_day
+2013,248,Houston Cougars,2013-01-19,14.426953526794941,included_game_day
+2013,248,Houston Cougars,2013-01-23,-6.0865837917899785,included_game_day
+2013,248,Houston Cougars,2013-01-26,-5.821611947260536,included_game_day
+2013,248,Houston Cougars,2013-01-30,-19.763011321070984,included_game_day
+2013,248,Houston Cougars,2013-02-02,-9.408218570178278,included_game_day
+2013,248,Houston Cougars,2013-02-09,-12.647073937376991,included_game_day
+2013,248,Houston Cougars,2013-02-13,6.166377532647015,included_game_day
+2013,248,Houston Cougars,2013-02-16,-0.6441508711747623,included_game_day
+2013,248,Houston Cougars,2013-02-20,8.302575451409037,included_game_day
+2013,248,Houston Cougars,2013-02-27,3.1911615240452464,included_game_day
+2013,248,Houston Cougars,2013-03-02,23.473541646816283,included_game_day
+2013,248,Houston Cougars,2013-03-06,29.29908152323115,included_game_day
+2013,248,Houston Cougars,2013-03-09,33.38203662584364,included_game_day
+2013,248,Houston Cougars,2013-03-13,23.81590094036787,included_game_day
+2013,248,Houston Cougars,2013-03-14,15.435274287950886,included_game_day
+2013,248,Houston Cougars,2013-03-20,14.21656595259176,included_game_day
+2013,248,Houston Cougars,2013-03-25,12.488692973877258,included_game_day
+2014,248,Houston Cougars,2013-11-08,3.0,included_game_day
+2014,248,Houston Cougars,2013-11-11,17.0,included_game_day
+2014,248,Houston Cougars,2013-11-14,28.9,included_game_day
+2014,248,Houston Cougars,2013-11-17,36.256,included_game_day
+2014,248,Houston Cougars,2013-11-21,36.1659,included_game_day
+2014,248,Houston Cougars,2013-11-25,25.804177000000003,included_game_day
+2014,248,Houston Cougars,2013-11-26,12.097423600000003,included_game_day
+2014,248,Houston Cougars,2013-11-30,15.171302440000003,included_game_day
+2014,248,Houston Cougars,2013-12-04,5.132927407000004,included_game_day
+2014,248,Houston Cougars,2013-12-07,-4.173049824699996,included_game_day
+2014,248,Houston Cougars,2013-12-09,18.655309437770008,included_game_day
+2014,248,Houston Cougars,2013-12-14,18.997864327071007,included_game_day
+2014,248,Houston Cougars,2013-12-21,17.553115134233906,included_game_day
+2014,248,Houston Cougars,2013-12-31,24.676802093420683,included_game_day
+2014,248,Houston Cougars,2014-01-04,33.51097808229855,included_game_day
+2014,248,Houston Cougars,2014-01-07,39.79795152853328,included_game_day
+2014,248,Houston Cougars,2014-01-16,15.139121123668541,included_game_day
+2014,248,Houston Cougars,2014-01-19,32.94962991915841,included_game_day
+2014,248,Houston Cougars,2014-01-23,18.504084962602906,included_game_day
+2014,248,Houston Cougars,2014-01-26,17.702256847790913,included_game_day
+2014,248,Houston Cougars,2014-01-30,-7.091438709087761,included_game_day
+2014,248,Houston Cougars,2014-02-01,-27.940367477436254,included_game_day
+2014,248,Houston Cougars,2014-02-05,-24.295314941011267,included_game_day
+2014,248,Houston Cougars,2014-02-09,-11.639681398432947,included_game_day
+2014,248,Houston Cougars,2014-02-15,-7.619300709285406,included_game_day
+2014,248,Houston Cougars,2014-02-19,3.8017962367120592,included_game_day
+2014,248,Houston Cougars,2014-02-22,2.391550210016222,included_game_day
+2014,248,Houston Cougars,2014-02-27,17.731309908519368,included_game_day
+2014,248,Houston Cougars,2014-03-01,29.66778476138601,included_game_day
+2014,248,Houston Cougars,2014-03-04,30.571215441541717,included_game_day
+2014,248,Houston Cougars,2014-03-07,7.363890440109259,included_game_day
+2014,248,Houston Cougars,2014-03-13,20.977407835295708,included_game_day
+2014,248,Houston Cougars,2014-03-14,16.109399380630247,included_game_day
+2015,248,Houston Cougars,2014-11-14,6.0,included_game_day
+2015,248,Houston Cougars,2014-11-22,14.076,included_game_day
+2015,248,Houston Cougars,2014-11-25,-3.5516000000000005,included_game_day
+2015,248,Houston Cougars,2014-12-04,6.051029999999999,included_game_day
+2015,248,Houston Cougars,2014-12-06,9.418213719999999,included_game_day
+2015,248,Houston Cougars,2014-12-16,8.6979164428,included_game_day
+2015,248,Houston Cougars,2014-12-17,-10.425702230230002,included_game_day
+2015,248,Houston Cougars,2014-12-20,-32.322524432514825,included_game_day
+2015,248,Houston Cougars,2014-12-22,-24.298269994089942,included_game_day
+2015,248,Houston Cougars,2014-12-23,-2.627280137167702,included_game_day
+2015,248,Houston Cougars,2014-12-28,4.403325637712907,included_game_day
+2015,248,Houston Cougars,2014-12-31,-6.354462365190265,included_game_day
+2015,248,Houston Cougars,2015-01-04,-17.548233589281928,included_game_day
+2015,248,Houston Cougars,2015-01-06,-23.468598348036714,included_game_day
+2015,248,Houston Cougars,2015-01-11,-37.788501992372844,included_game_day
+2015,248,Houston Cougars,2015-01-14,-40.40429195458685,included_game_day
+2015,248,Houston Cougars,2015-01-17,-41.54176884869257,included_game_day
+2015,248,Houston Cougars,2015-01-21,-38.76941575820598,included_game_day
+2015,248,Houston Cougars,2015-01-24,-41.89475837725725,included_game_day
+2015,248,Houston Cougars,2015-01-28,-33.20457684722784,included_game_day
+2015,248,Houston Cougars,2015-02-01,-26.288401141970617,included_game_day
+2015,248,Houston Cougars,2015-02-05,-32.629371151065314,included_game_day
+2015,248,Houston Cougars,2015-02-12,-27.654606349061943,included_game_day
+2015,248,Houston Cougars,2015-02-15,-29.286848640669803,included_game_day
+2015,248,Houston Cougars,2015-02-17,-32.75827666714048,included_game_day
+2015,248,Houston Cougars,2015-02-21,-37.4512687148499,included_game_day
+2015,248,Houston Cougars,2015-02-26,-36.28641139887439,included_game_day
+2015,248,Houston Cougars,2015-03-01,-26.061956164716847,included_game_day
+2015,248,Houston Cougars,2015-03-04,-19.387877374851236,included_game_day
+2015,248,Houston Cougars,2015-03-08,-4.03548835146799,included_game_day
+2015,248,Houston Cougars,2015-03-12,-1.6195308503496646,included_game_day
+2015,248,Houston Cougars,2015-03-13,-2.8465272301156244,included_game_day
+2016,248,Houston Cougars,2015-11-18,35.8,included_game_day
+2016,248,Houston Cougars,2015-11-21,71.50999999999999,included_game_day
+2016,248,Houston Cougars,2015-11-28,74.564,included_game_day
+2016,248,Houston Cougars,2015-11-30,72.08239999999999,included_game_day
+2016,248,Houston Cougars,2015-12-02,76.79039298,included_game_day
+2016,248,Houston Cougars,2015-12-08,66.13850674102,included_game_day
+2016,248,Houston Cougars,2015-12-13,64.777897084918,included_game_day
+2016,248,Houston Cougars,2015-12-16,57.64383164344329,included_game_day
+2016,248,Houston Cougars,2015-12-19,58.83848826186596,included_game_day
+2016,248,Houston Cougars,2015-12-21,47.581345886228775,included_game_day
+2016,248,Houston Cougars,2015-12-22,47.44314262314887,included_game_day
+2016,248,Houston Cougars,2015-12-28,56.44421360243959,included_game_day
+2016,248,Houston Cougars,2015-12-30,54.47734596267002,included_game_day
+2016,248,Houston Cougars,2016-01-02,80.53646967011278,included_game_day
+2016,248,Houston Cougars,2016-01-05,87.44328760899508,included_game_day
+2016,248,Houston Cougars,2016-01-13,80.13146603991764,included_game_day
+2016,248,Houston Cougars,2016-01-17,65.6268484513082,included_game_day
+2016,248,Houston Cougars,2016-01-19,73.5549722477696,included_game_day
+2016,248,Houston Cougars,2016-01-23,48.8949119547333,included_game_day
+2016,248,Houston Cougars,2016-01-27,64.04043273229394,included_game_day
+2016,248,Houston Cougars,2016-01-30,63.58448589815126,included_game_day
+2016,248,Houston Cougars,2016-02-01,70.5676473981819,included_game_day
+2016,248,Houston Cougars,2016-02-07,58.86908663891685,included_game_day
+2016,248,Houston Cougars,2016-02-10,63.875769544982894,included_game_day
+2016,248,Houston Cougars,2016-02-13,77.77269005992376,included_game_day
+2016,248,Houston Cougars,2016-02-17,84.06663863833636,included_game_day
+2016,248,Houston Cougars,2016-02-21,74.90038664428216,included_game_day
+2016,248,Houston Cougars,2016-02-24,94.68584821579853,included_game_day
+2016,248,Houston Cougars,2016-02-28,109.63881581896324,included_game_day
+2016,248,Houston Cougars,2016-03-03,120.65195208599556,included_game_day
+2016,248,Houston Cougars,2016-03-11,101.43982501054973,included_game_day
+2016,248,Houston Cougars,2016-03-16,81.6994628138844,included_game_day
+2017,248,Houston Cougars,2016-11-11,38.0,included_game_day
+2017,248,Houston Cougars,2016-11-21,69.40010000000001,included_game_day
+2017,248,Houston Cougars,2016-11-22,90.88739000000001,included_game_day
+2017,248,Houston Cougars,2016-11-23,84.33829100000001,included_game_day
+2017,248,Houston Cougars,2016-11-26,100.8308319,included_game_day
+2017,248,Houston Cougars,2016-11-29,74.86154859000001,included_game_day
+2017,248,Houston Cougars,2016-12-03,100.21378223100001,included_game_day
+2017,248,Houston Cougars,2016-12-06,86.77241779300002,included_game_day
+2017,248,Houston Cougars,2016-12-10,85.18929256438001,included_game_day
+2017,248,Houston Cougars,2016-12-17,96.82308858144484,included_game_day
+2017,248,Houston Cougars,2016-12-21,102.16898266189557,included_game_day
+2017,248,Houston Cougars,2016-12-23,87.79034464415601,included_game_day
+2017,248,Houston Cougars,2016-12-28,98.98385790296311,included_game_day
+2017,248,Houston Cougars,2016-12-31,105.15364142406379,included_game_day
+2017,248,Houston Cougars,2017-01-04,94.26051258449534,included_game_day
+2017,248,Houston Cougars,2017-01-07,87.12076575678081,included_game_day
+2017,248,Houston Cougars,2017-01-11,96.59548135455503,included_game_day
+2017,248,Houston Cougars,2017-01-14,87.93402153785402,included_game_day
+2017,248,Houston Cougars,2017-01-19,78.96418800750348,included_game_day
+2017,248,Houston Cougars,2017-01-21,66.90684695750525,included_game_day
+2017,248,Houston Cougars,2017-01-24,65.1805525518544,included_game_day
+2017,248,Houston Cougars,2017-01-28,72.11349949172627,included_game_day
+2017,248,Houston Cougars,2017-02-01,85.34964394055638,included_game_day
+2017,248,Houston Cougars,2017-02-08,102.71308884503256,included_game_day
+2017,248,Houston Cougars,2017-02-11,105.69964817078778,included_game_day
+2017,248,Houston Cougars,2017-02-18,98.58917152775166,included_game_day
+2017,248,Houston Cougars,2017-02-22,97.85040089224805,included_game_day
+2017,248,Houston Cougars,2017-02-26,96.32316024958992,included_game_day
+2017,248,Houston Cougars,2017-03-02,84.77565355481937,included_game_day
+2017,248,Houston Cougars,2017-03-05,94.61471460137047,included_game_day
+2017,248,Houston Cougars,2017-03-10,80.12657128269471,included_game_day
+2017,248,Houston Cougars,2017-03-15,70.1477851770805,included_game_day
+2018,248,Houston Cougars,2017-11-10,25.0,included_game_day
+2018,248,Houston Cougars,2017-11-17,17.3,included_game_day
+2018,248,Houston Cougars,2017-11-18,20.361,included_game_day
+2018,248,Houston Cougars,2017-11-19,23.01122,included_game_day
+2018,248,Houston Cougars,2017-11-25,56.062568,included_game_day
+2018,248,Houston Cougars,2017-11-29,53.455262399999995,included_game_day
+2018,248,Houston Cougars,2017-12-02,79.06427047,included_game_day
+2018,248,Houston Cougars,2017-12-06,88.70588572,included_game_day
+2018,248,Houston Cougars,2017-12-09,97.4785691005,included_game_day
+2018,248,Houston Cougars,2017-12-13,89.98215770715,included_game_day
+2018,248,Houston Cougars,2017-12-17,94.48905114746739,included_game_day
+2018,248,Houston Cougars,2017-12-20,99.12625764454444,included_game_day
+2018,248,Houston Cougars,2017-12-28,108.47839385554174,included_game_day
+2018,248,Houston Cougars,2017-12-30,97.10874260929126,included_game_day
+2018,248,Houston Cougars,2018-01-04,81.53542755518143,included_game_day
+2018,248,Houston Cougars,2018-01-11,105.96282560245028,included_game_day
+2018,248,Houston Cougars,2018-01-14,105.99274865112224,included_game_day
+2018,248,Houston Cougars,2018-01-17,89.86539638234754,included_game_day
+2018,248,Houston Cougars,2018-01-20,104.11897830869992,included_game_day
+2018,248,Houston Cougars,2018-01-28,104.8622415558272,included_game_day
+2018,248,Houston Cougars,2018-01-31,104.95329026610196,included_game_day
+2018,248,Houston Cougars,2018-02-03,104.24435370879985,included_game_day
+2018,248,Houston Cougars,2018-02-08,107.28884348731258,included_game_day
+2018,248,Houston Cougars,2018-02-11,124.273670478836,included_game_day
+2018,248,Houston Cougars,2018-02-15,134.2026061138619,included_game_day
+2018,248,Houston Cougars,2018-02-18,150.72021255589206,included_game_day
+2018,248,Houston Cougars,2018-02-22,133.64105880205486,included_game_day
+2018,248,Houston Cougars,2018-02-25,161.6701034816821,included_game_day
+2018,248,Houston Cougars,2018-02-28,165.67887059038236,included_game_day
+2018,248,Houston Cougars,2018-03-04,154.84380554265792,included_game_day
+2018,248,Houston Cougars,2018-03-09,169.1657602759995,included_game_day
+2018,248,Houston Cougars,2018-03-10,167.63222550092593,included_game_day
+2018,248,Houston Cougars,2018-03-11,166.8712250726457,included_game_day
+2018,248,Houston Cougars,2018-03-15,164.51150094869942,included_game_day
+2018,248,Houston Cougars,2018-03-17,166.9729936467905,included_game_day
+2019,248,Houston Cougars,2018-11-10,42.6,included_game_day
+2019,248,Houston Cougars,2018-11-14,45.74,included_game_day
+2019,248,Houston Cougars,2018-11-19,59.904300000000006,included_game_day
+2019,248,Houston Cougars,2018-11-24,77.68086000000001,included_game_day
+2019,248,Houston Cougars,2018-11-28,70.60211191,included_game_day
+2019,248,Houston Cougars,2018-12-01,67.98027131900001,included_game_day
+2019,248,Houston Cougars,2018-12-04,80.01286943910002,included_game_day
+2019,248,Houston Cougars,2018-12-08,87.98094531759001,included_game_day
+2019,248,Houston Cougars,2018-12-12,89.061164729831,included_game_day
+2019,248,Houston Cougars,2018-12-16,84.9919540151559,included_game_day
+2019,248,Houston Cougars,2018-12-20,94.59181434497111,included_game_day
+2019,248,Houston Cougars,2018-12-23,97.3547001651694,included_game_day
+2019,248,Houston Cougars,2018-12-29,108.1957518853901,included_game_day
+2019,248,Houston Cougars,2019-01-02,115.79329405494556,included_game_day
+2019,248,Houston Cougars,2019-01-06,122.26037110199135,included_game_day
+2019,248,Houston Cougars,2019-01-09,114.67627912897427,included_game_day
+2019,248,Houston Cougars,2019-01-12,109.35874123142159,included_game_day
+2019,248,Houston Cougars,2019-01-16,119.79608365564003,included_game_day
+2019,248,Houston Cougars,2019-01-19,125.36292121246804,included_game_day
+2019,248,Houston Cougars,2019-01-23,153.35705457351332,included_game_day
+2019,248,Houston Cougars,2019-01-27,154.69578544684074,included_game_day
+2019,248,Houston Cougars,2019-01-31,149.2888653826267,included_game_day
+2019,248,Houston Cougars,2019-02-07,153.37227270179008,included_game_day
+2019,248,Houston Cougars,2019-02-10,154.1368008678106,included_game_day
+2019,248,Houston Cougars,2019-02-14,154.8767444858816,included_game_day
+2019,248,Houston Cougars,2019-02-17,168.52562471367978,included_game_day
+2019,248,Houston Cougars,2019-02-23,165.5327619795131,included_game_day
+2019,248,Houston Cougars,2019-02-27,180.61987321947208,included_game_day
+2019,248,Houston Cougars,2019-03-02,167.88262629075462,included_game_day
+2019,248,Houston Cougars,2019-03-07,159.24572731883515,included_game_day
+2019,248,Houston Cougars,2019-03-10,173.35243166555267,included_game_day
+2019,248,Houston Cougars,2019-03-15,198.7758142988375,included_game_day
+2019,248,Houston Cougars,2019-03-16,192.22384624883324,included_game_day
+2019,248,Houston Cougars,2019-03-17,170.72024062031264,included_game_day
+2019,248,Houston Cougars,2019-03-22,188.00694874411766,included_game_day
+2019,248,Houston Cougars,2019-03-24,190.52701402750534,included_game_day
+2019,248,Houston Cougars,2019-03-29,186.4862678488013,included_game_day
+2020,248,Houston Cougars,2019-11-12,21.84,included_game_day
+2020,248,Houston Cougars,2019-11-15,16.657,included_game_day
+2020,248,Houston Cougars,2019-11-19,25.1652,included_game_day
+2020,248,Houston Cougars,2019-11-22,19.82688,included_game_day
+2020,248,Houston Cougars,2019-11-26,46.703292,included_game_day
+2020,248,Houston Cougars,2019-12-04,50.1979086251,included_game_day
+2020,248,Houston Cougars,2019-12-08,70.47402010962,included_game_day
+2020,248,Houston Cougars,2019-12-11,67.637316103228,included_game_day
+2020,248,Houston Cougars,2019-12-15,57.4995677252752,included_game_day
+2020,248,Houston Cougars,2019-12-19,70.68661776743889,included_game_day
+2020,248,Houston Cougars,2019-12-22,85.51249555805106,included_game_day
+2020,248,Houston Cougars,2019-12-23,87.6873303180839,included_game_day
+2020,248,Houston Cougars,2019-12-25,91.72226591622952,included_game_day
+2020,248,Houston Cougars,2020-01-03,98.0299121671722,included_game_day
+2020,248,Houston Cougars,2020-01-07,100.28582948332598,included_game_day
+2020,248,Houston Cougars,2020-01-11,93.65887531072887,included_game_day
+2020,248,Houston Cougars,2020-01-15,97.14098275302361,included_game_day
+2020,248,Houston Cougars,2020-01-18,110.60804380915026,included_game_day
+2020,248,Houston Cougars,2020-01-23,105.53445979855543,included_game_day
+2020,248,Houston Cougars,2020-01-26,112.92148518150555,included_game_day
+2020,248,Houston Cougars,2020-01-29,113.19054313671697,included_game_day
+2020,248,Houston Cougars,2020-02-01,114.60813461349775,included_game_day
+2020,248,Houston Cougars,2020-02-06,109.97329234791425,included_game_day
+2020,248,Houston Cougars,2020-02-09,137.91856936180824,included_game_day
+2020,248,Houston Cougars,2020-02-12,136.00800335041532,included_game_day
+2020,248,Houston Cougars,2020-02-15,130.97042255047404,included_game_day
+2020,248,Houston Cougars,2020-02-19,155.98411848945068,included_game_day
+2020,248,Houston Cougars,2020-02-22,148.77862088466944,included_game_day
+2020,248,Houston Cougars,2020-03-01,153.23348391510117,included_game_day
+2020,248,Houston Cougars,2020-03-05,144.5397359957738,included_game_day
+2020,248,Houston Cougars,2020-03-08,141.4922569656833,included_game_day
+2021,248,Houston Cougars,2020-11-25,41.0,included_game_day
+2021,248,Houston Cougars,2020-11-27,43.9,included_game_day
+2021,248,Houston Cougars,2020-11-29,56.739999999999995,included_game_day
+2021,248,Houston Cougars,2020-12-05,57.68079999999999,included_game_day
+2021,248,Houston Cougars,2020-12-20,77.31271999999998,included_game_day
+2021,248,Houston Cougars,2020-12-22,93.48144799999999,included_game_day
+2021,248,Houston Cougars,2020-12-26,96.85680917948298,included_game_day
+2021,248,Houston Cougars,2020-12-29,91.44955249883468,included_game_day
+2021,248,Houston Cougars,2021-01-03,107.15963392495121,included_game_day
+2021,248,Houston Cougars,2021-01-06,102.26560752478636,included_game_day
+2021,248,Houston Cougars,2021-01-09,110.63077668158373,included_game_day
+2021,248,Houston Cougars,2021-01-17,112.98691229266421,included_game_day
+2021,248,Houston Cougars,2021-01-20,127.87946537057499,included_game_day
+2021,248,Houston Cougars,2021-01-23,135.51970278264648,included_game_day
+2021,248,Houston Cougars,2021-01-28,146.57549782637062,included_game_day
+2021,248,Houston Cougars,2021-01-31,156.79315974385895,included_game_day
+2021,248,Houston Cougars,2021-02-03,131.89198519777852,included_game_day
+2021,248,Houston Cougars,2021-02-10,139.18408708690552,included_game_day
+2021,248,Houston Cougars,2021-02-18,125.28077905993912,included_game_day
+2021,248,Houston Cougars,2021-02-21,148.08841038092243,included_game_day
+2021,248,Houston Cougars,2021-02-25,160.80969694291986,included_game_day
+2021,248,Houston Cougars,2021-02-28,184.37687853839552,included_game_day
+2021,248,Houston Cougars,2021-03-07,175.48223168725121,included_game_day
+2021,248,Houston Cougars,2021-03-12,181.02224339411663,included_game_day
+2021,248,Houston Cougars,2021-03-13,175.29750934575154,included_game_day
+2021,248,Houston Cougars,2021-03-14,196.2214710857185,included_game_day
+2021,248,Houston Cougars,2021-03-19,209.1193787334772,included_game_day
+2021,248,Houston Cougars,2021-03-21,195.11860348462218,included_game_day
+2021,248,Houston Cougars,2021-03-27,201.0647784336453,included_game_day
+2021,248,Houston Cougars,2021-03-29,197.4746710118663,included_game_day
+2021,248,Houston Cougars,2021-04-03,175.50111966160472,included_game_day
+2022,248,Houston Cougars,2021-11-09,5.0,included_game_day
+2022,248,Houston Cougars,2021-11-12,36.1,included_game_day
+2022,248,Houston Cougars,2021-11-16,50.3,included_game_day
+2022,248,Houston Cougars,2021-11-22,64.4102,included_game_day
+2022,248,Houston Cougars,2021-11-23,61.356572,included_game_day
+2022,248,Houston Cougars,2021-11-24,83.3665938,included_game_day
+2022,248,Houston Cougars,2021-11-30,102.55707345,included_game_day
+2022,248,Houston Cougars,2021-12-03,154.507462955,included_game_day
+2022,248,Houston Cougars,2021-12-06,164.0347571022,included_game_day
+2022,248,Houston Cougars,2021-12-11,159.51907812848,included_game_day
+2022,248,Houston Cougars,2021-12-14,154.61613322251281,included_game_day
+2022,248,Houston Cougars,2021-12-18,154.50349212772582,included_game_day
+2022,248,Houston Cougars,2021-12-22,172.97604245622523,included_game_day
+2022,248,Houston Cougars,2022-01-02,163.66799674168945,included_game_day
+2022,248,Houston Cougars,2022-01-05,164.5723097614626,included_game_day
+2022,248,Houston Cougars,2022-01-08,158.05934776607322,included_game_day
+2022,248,Houston Cougars,2022-01-15,147.81570894381815,included_game_day
+2022,248,Houston Cougars,2022-01-18,148.63233445381584,included_game_day
+2022,248,Houston Cougars,2022-01-22,173.86300443579375,included_game_day
+2022,248,Houston Cougars,2022-01-29,176.82072534087308,included_game_day
+2022,248,Houston Cougars,2022-02-02,171.33561324001272,included_game_day
+2022,248,Houston Cougars,2022-02-06,185.49944780587342,included_game_day
+2022,248,Houston Cougars,2022-02-09,175.49826866777045,included_game_day
+2022,248,Houston Cougars,2022-02-12,153.52168797799973,included_game_day
+2022,248,Houston Cougars,2022-02-17,155.6510202917571,included_game_day
+2022,248,Houston Cougars,2022-02-20,148.4015195102682,included_game_day
+2022,248,Houston Cougars,2022-02-23,157.2897447955373,included_game_day
+2022,248,Houston Cougars,2022-02-27,162.3325536040327,included_game_day
+2022,248,Houston Cougars,2022-03-01,162.199092183265,included_game_day
+2022,248,Houston Cougars,2022-03-03,185.27496328904866,included_game_day
+2022,248,Houston Cougars,2022-03-06,166.88537361030802,included_game_day
+2022,248,Houston Cougars,2022-03-11,165.64483649276693,included_game_day
+2022,248,Houston Cougars,2022-03-12,176.0625343940364,included_game_day
+2022,248,Houston Cougars,2022-03-13,190.2551522041622,included_game_day
+2022,248,Houston Cougars,2022-03-18,195.48186621505926,included_game_day
+2022,248,Houston Cougars,2022-03-20,201.59924871053374,included_game_day
+2022,248,Houston Cougars,2022-03-24,210.10882256672545,included_game_day
+2022,248,Houston Cougars,2022-03-26,198.44975442527152,included_game_day
+2023,248,Houston Cougars,2022-11-07,44.0,included_game_day
+2023,248,Houston Cougars,2022-11-11,65.6,included_game_day
+2023,248,Houston Cougars,2022-11-14,93.53999999999999,included_game_day
+2023,248,Houston Cougars,2022-11-16,111.4202,included_game_day
+2023,248,Houston Cougars,2022-11-20,117.26068,included_game_day
+2023,248,Houston Cougars,2022-11-26,114.1725826,included_game_day
+2023,248,Houston Cougars,2022-11-29,145.50164433999998,included_game_day
+2023,248,Houston Cougars,2022-12-03,142.46260123969998,included_game_day
+2023,248,Houston Cougars,2022-12-06,153.91290174773,included_game_day
+2023,248,Houston Cougars,2022-12-10,137.570193903879,included_game_day
+2023,248,Houston Cougars,2022-12-13,144.1165048116011,included_game_day
+2023,248,Houston Cougars,2022-12-17,148.203044871968,included_game_day
+2023,248,Houston Cougars,2022-12-21,160.93301824468932,included_game_day
+2023,248,Houston Cougars,2022-12-28,183.68007038415553,included_game_day
+2023,248,Houston Cougars,2022-12-31,175.7763149930546,included_game_day
+2023,248,Houston Cougars,2023-01-05,191.3872041397068,included_game_day
+2023,248,Houston Cougars,2023-01-08,194.75901058429167,included_game_day
+2023,248,Houston Cougars,2023-01-11,178.44504456022895,included_game_day
+2023,248,Houston Cougars,2023-01-17,189.91090239008142,included_game_day
+2023,248,Houston Cougars,2023-01-22,168.12163676252726,included_game_day
+2023,248,Houston Cougars,2023-01-25,172.52737909029844,included_game_day
+2023,248,Houston Cougars,2023-01-28,166.11917983823048,included_game_day
+2023,248,Houston Cougars,2023-02-02,163.2536020069763,included_game_day
+2023,248,Houston Cougars,2023-02-05,170.63730714744153,included_game_day
+2023,248,Houston Cougars,2023-02-08,181.18049705585642,included_game_day
+2023,248,Houston Cougars,2023-02-16,179.01674288755507,included_game_day
+2023,248,Houston Cougars,2023-02-19,175.08573028051657,included_game_day
+2023,248,Houston Cougars,2023-02-22,193.37234213099012,included_game_day
+2023,248,Houston Cougars,2023-02-25,192.28319056300333,included_game_day
+2023,248,Houston Cougars,2023-03-02,191.58532815898428,included_game_day
+2023,248,Houston Cougars,2023-03-05,188.08673152631192,included_game_day
+2023,248,Houston Cougars,2023-03-10,182.4964621641985,included_game_day
+2023,248,Houston Cougars,2023-03-11,197.06486040584892,included_game_day
+2023,248,Houston Cougars,2023-03-12,181.7656361699432,included_game_day
+2023,248,Houston Cougars,2023-03-16,178.90890702490853,included_game_day
+2023,248,Houston Cougars,2023-03-18,188.43857501096687,included_game_day
+2023,248,Houston Cougars,2023-03-24,166.89769862786085,included_game_day
+2024,248,Houston Cougars,2023-11-06,50.0,included_game_day
+2024,248,Houston Cougars,2023-11-11,74.0,included_game_day
+2024,248,Houston Cougars,2023-11-13,93.1,included_game_day
+2024,248,Houston Cougars,2023-11-16,100.347,included_game_day
+2024,248,Houston Cougars,2023-11-17,106.1133,included_game_day
+2024,248,Houston Cougars,2023-11-19,111.61435999999999,included_game_day
+2024,248,Houston Cougars,2023-11-24,131.036134,included_game_day
+2024,248,Houston Cougars,2023-12-01,131.305281286,included_game_day
+2024,248,Houston Cougars,2023-12-06,147.0874975445,included_game_day
+2024,248,Houston Cougars,2023-12-09,159.34356131195,included_game_day
+2024,248,Houston Cougars,2023-12-16,152.782102057733,included_game_day
+2024,248,Houston Cougars,2023-12-21,168.78146259122764,included_game_day
+2024,248,Houston Cougars,2023-12-30,188.11092179822958,included_game_day
+2024,248,Houston Cougars,2024-01-06,200.1409543147514,included_game_day
+2024,248,Houston Cougars,2024-01-09,195.63824603525583,included_game_day
+2024,248,Houston Cougars,2024-01-13,190.44397584190762,included_game_day
+2024,248,Houston Cougars,2024-01-17,203.10242151380652,included_game_day
+2024,248,Houston Cougars,2024-01-20,203.17704326769984,included_game_day
+2024,248,Houston Cougars,2024-01-23,208.79729899682548,included_game_day
+2024,248,Houston Cougars,2024-01-27,215.04468264171464,included_game_day
+2024,248,Houston Cougars,2024-01-29,209.89919780438265,included_game_day
+2024,248,Houston Cougars,2024-02-03,191.96475430040806,included_game_day
+2024,248,Houston Cougars,2024-02-06,186.9959071310098,included_game_day
+2024,248,Houston Cougars,2024-02-10,187.03469592493704,included_game_day
+2024,248,Houston Cougars,2024-02-17,199.87425926450965,included_game_day
+2024,248,Houston Cougars,2024-02-19,202.19300826771064,included_game_day
+2024,248,Houston Cougars,2024-02-24,204.48174532551073,included_game_day
+2024,248,Houston Cougars,2024-02-27,196.9664178801248,included_game_day
+2024,248,Houston Cougars,2024-03-02,190.6371083558561,included_game_day
+2024,248,Houston Cougars,2024-03-06,191.32147436563312,included_game_day
+2024,248,Houston Cougars,2024-03-09,212.5010160656637,included_game_day
+2024,248,Houston Cougars,2024-03-14,217.48526994421758,included_game_day
+2024,248,Houston Cougars,2024-03-15,233.083891825323,included_game_day
+2024,248,Houston Cougars,2024-03-16,199.2438195845559,included_game_day
+2024,248,Houston Cougars,2024-03-22,222.87570326221532,included_game_day
+2024,248,Houston Cougars,2024-03-24,217.4011735730425,included_game_day
+2024,248,Houston Cougars,2024-03-29,211.85382371057975,included_game_day
+2025,248,Houston Cougars,2024-11-04,54.0,included_game_day
+2025,248,Houston Cougars,2024-11-09,48.48,included_game_day
+2025,248,Houston Cougars,2024-11-13,85.93199999999999,included_game_day
+2025,248,Houston Cougars,2024-11-22,110.55066,included_game_day
+2025,248,Houston Cougars,2024-11-26,100.473204,included_game_day
+2025,248,Houston Cougars,2024-11-28,105.69354202,included_game_day
+2025,248,Houston Cougars,2024-11-30,93.445656238,included_game_day
+2025,248,Houston Cougars,2024-12-07,116.1917851398,included_game_day
+2025,248,Houston Cougars,2024-12-10,122.60035597906,included_game_day
+2025,248,Houston Cougars,2024-12-18,132.6818926433526,included_game_day
+2025,248,Houston Cougars,2024-12-21,153.56107354226725,included_game_day
+2025,248,Houston Cougars,2024-12-30,156.01968182906924,included_game_day
+2025,248,Houston Cougars,2025-01-04,181.47873758177593,included_game_day
+2025,248,Houston Cougars,2025-01-06,184.53839122726185,included_game_day
+2025,248,Houston Cougars,2025-01-11,202.10610382592728,included_game_day
+2025,248,Houston Cougars,2025-01-15,204.8121955748652,included_game_day
+2025,248,Houston Cougars,2025-01-18,191.25355739850468,included_game_day
+2025,248,Houston Cougars,2025-01-22,210.02764852853736,included_game_day
+2025,248,Houston Cougars,2025-01-25,213.83467171502872,included_game_day
+2025,248,Houston Cougars,2025-01-29,217.07796602350686,included_game_day
+2025,248,Houston Cougars,2025-02-01,207.23150183641846,included_game_day
+2025,248,Houston Cougars,2025-02-04,193.06736866680416,included_game_day
+2025,248,Houston Cougars,2025-02-08,185.99994739154778,included_game_day
+2025,248,Houston Cougars,2025-02-10,188.33951852405875,included_game_day
+2025,248,Houston Cougars,2025-02-15,193.8955322684528,included_game_day
+2025,248,Houston Cougars,2025-02-18,196.84783264291394,included_game_day
+2025,248,Houston Cougars,2025-02-22,198.3405420411217,included_game_day
+2025,248,Houston Cougars,2025-02-24,207.72493888556224,included_game_day
+2025,248,Houston Cougars,2025-03-01,201.7160014580614,included_game_day
+2025,248,Houston Cougars,2025-03-03,195.6509923723525,included_game_day
+2025,248,Houston Cougars,2025-03-08,193.47296377688053,included_game_day
+2025,248,Houston Cougars,2025-03-13,188.69391680510387,included_game_day
+2025,248,Houston Cougars,2025-03-14,207.40784741929022,included_game_day
+2025,248,Houston Cougars,2025-03-15,210.75054433928707,included_game_day
+2025,248,Houston Cougars,2025-03-20,228.98449328289192,included_game_day
+2025,248,Houston Cougars,2025-03-22,232.92106162097167,included_game_day
+2025,248,Houston Cougars,2025-03-28,225.86333471702758,included_game_day
+2025,248,Houston Cougars,2025-03-30,242.1169512468059,included_game_day
+2025,248,Houston Cougars,2025-04-05,249.9254579876766,included_game_day
+2025,248,Houston Cougars,2025-04-07,248.41856594136675,included_game_day
+2026,248,Houston Cougars,2025-11-03,15.0,included_game_day
+2026,248,Houston Cougars,2025-11-08,28.6,included_game_day
+2026,248,Houston Cougars,2025-11-12,51.72,included_game_day
+2026,248,Houston Cougars,2025-11-16,53.461,included_game_day
+2026,248,Houston Cougars,2025-11-20,83.76177,included_game_day
+2026,248,Houston Cougars,2025-11-24,87.487723,included_game_day
+2026,248,Houston Cougars,2025-11-25,87.2236267,included_game_day
+2026,248,Houston Cougars,2025-11-26,92.56474546999999,included_game_day
+2026,248,Houston Cougars,2025-12-06,101.21762627525999,included_game_day
+2026,248,Houston Cougars,2025-12-10,116.59770899543399,included_game_day
+2026,248,Houston Cougars,2025-12-13,138.71027146196948,included_game_day
+2026,248,Houston Cougars,2025-12-20,146.28052478135544,included_game_day
+2026,248,Houston Cougars,2025-12-29,136.49761264447955,included_game_day
+2026,248,Houston Cougars,2026-01-03,141.42067122871467,included_game_day
+2026,248,Houston Cougars,2026-01-06,141.12357150802842,included_game_day
+2026,248,Houston Cougars,2026-01-10,162.93930007470922,included_game_day
+2026,248,Houston Cougars,2026-01-13,181.893425827218,included_game_day
+2026,248,Houston Cougars,2026-01-18,194.81340002436423,included_game_day
+2026,248,Houston Cougars,2026-01-24,190.17443477883663,included_game_day
+2026,248,Houston Cougars,2026-01-28,192.91260281903018,included_game_day
+2026,248,Houston Cougars,2026-01-31,200.29729972660238,included_game_day
+2026,248,Houston Cougars,2026-02-04,210.04034740822001,included_game_day
+2026,248,Houston Cougars,2026-02-07,216.7848002625503,included_game_day
+2026,248,Houston Cougars,2026-02-10,213.7399154437801,included_game_day
+2026,248,Houston Cougars,2026-02-14,202.43814868867764,included_game_day
+2026,248,Houston Cougars,2026-02-16,201.91059592485402,included_game_day
+2026,248,Houston Cougars,2026-02-21,193.36987677562277,included_game_day
+2026,248,Houston Cougars,2026-02-23,177.88666268330857,included_game_day
+2026,248,Houston Cougars,2026-02-28,202.35776496247004,included_game_day
+2026,248,Houston Cougars,2026-03-04,200.46301462003004,included_game_day
+2026,248,Houston Cougars,2026-03-07,194.54511442675266,included_game_day
+2026,248,Houston Cougars,2026-03-12,194.46751150541073,included_game_day
+2026,248,Houston Cougars,2026-03-13,210.45278931437656,included_game_day
+2026,248,Houston Cougars,2026-03-14,208.42855239244284,included_game_day
+2026,248,Houston Cougars,2026-03-19,222.6742116598176,included_game_day
+2026,248,Houston Cougars,2026-03-21,242.73068692722526,included_game_day
+2026,248,Houston Cougars,2026-03-26,230.55452363165838,included_game_day
+2027,248,Houston Cougars,2026-11-02,36.0,included_game_day
+2027,248,Houston Cougars,2026-11-08,51.39,included_game_day
+2027,248,Houston Cougars,2026-11-11,89.131,included_game_day
+2027,248,Houston Cougars,2026-11-17,98.1409,included_game_day
+2027,248,Houston Cougars,2026-11-18,106.253934,included_game_day
+2027,248,Houston Cougars,2026-11-19,114.8082875,included_game_day

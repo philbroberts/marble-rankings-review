@@ -1,0 +1,884 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1996,2747,Wofford,1995-11-25,-23.0,included_game_day
+1996,2747,Wofford,1995-11-27,-55.999,included_game_day
+1996,2747,Wofford,1995-11-30,-79.8491,included_game_day
+1996,2747,Wofford,1995-12-02,-89.53419000000001,included_game_day
+1996,2747,Wofford,1995-12-03,-97.282262,included_game_day
+1996,2747,Wofford,1995-12-04,-101.6280358,included_game_day
+1996,2747,Wofford,1995-12-19,-100.23862321193,included_game_day
+1996,2747,Wofford,1996-01-04,-119.45627826629304,included_game_day
+1996,2747,Wofford,1996-01-06,-117.22949529729604,included_game_day
+1996,2747,Wofford,1996-01-09,-135.7065771707007,included_game_day
+1996,2747,Wofford,1996-01-15,-130.2181824555494,included_game_day
+1996,2747,Wofford,1996-01-17,-135.82532528300675,included_game_day
+1996,2747,Wofford,1996-01-24,-135.83650295711777,included_game_day
+1996,2747,Wofford,1996-01-29,-148.6919108891734,included_game_day
+1996,2747,Wofford,1996-01-31,-151.05298148497883,included_game_day
+1996,2747,Wofford,1996-02-03,-149.32699310842258,included_game_day
+1996,2747,Wofford,1996-02-06,-174.8487243788386,included_game_day
+1996,2747,Wofford,1996-02-08,-173.94851817216485,included_game_day
+1996,2747,Wofford,1996-02-14,-169.98282427077675,included_game_day
+1996,2747,Wofford,1996-02-19,-170.15026644546285,included_game_day
+1996,2747,Wofford,1996-02-21,-154.08832969282582,included_game_day
+1996,2747,Wofford,1996-02-26,-158.6449234896507,included_game_day
+1996,2747,Wofford,1996-02-28,-167.95884438673528,included_game_day
+1997,2747,Wofford,1996-11-22,-22.0,included_game_day
+1997,2747,Wofford,1996-11-27,-49.71,included_game_day
+1997,2747,Wofford,1996-12-02,-66.1322,included_game_day
+1997,2747,Wofford,1996-12-07,-35.942054,included_game_day
+1997,2747,Wofford,1996-12-17,-43.9570492,included_game_day
+1997,2747,Wofford,1996-12-20,-67.83771379242,included_game_day
+1997,2747,Wofford,1997-01-04,-81.08793588338601,included_game_day
+1997,2747,Wofford,1997-01-06,-109.78231062587415,included_game_day
+1997,2747,Wofford,1997-01-09,-129.74373549645938,included_game_day
+1997,2747,Wofford,1997-01-13,-138.11503475133668,included_game_day
+1997,2747,Wofford,1997-01-16,-113.35637333843891,included_game_day
+1997,2747,Wofford,1997-01-20,-126.11931741462604,included_game_day
+1997,2747,Wofford,1997-01-22,-122.2457190312382,included_game_day
+1997,2747,Wofford,1997-01-25,-134.34197809152573,included_game_day
+1997,2747,Wofford,1997-01-29,-118.05267626059573,included_game_day
+1997,2747,Wofford,1997-02-01,-123.54868585873118,included_game_day
+1997,2747,Wofford,1997-02-08,-107.29494364311424,included_game_day
+1997,2747,Wofford,1997-02-10,-112.69234640902764,included_game_day
+1997,2747,Wofford,1997-02-13,-115.29805391661755,included_game_day
+1997,2747,Wofford,1997-02-15,-98.35540537858927,included_game_day
+1997,2747,Wofford,1997-02-19,-101.62759774826154,included_game_day
+1997,2747,Wofford,1997-02-22,-115.91496076823287,included_game_day
+1997,2747,Wofford,1997-02-24,-102.78680749599212,included_game_day
+1997,2747,Wofford,1997-03-01,-107.83228007753672,included_game_day
+1998,2747,Wofford,1997-11-15,-14.0,included_game_day
+1998,2747,Wofford,1997-11-17,-31.560000000000002,included_game_day
+1998,2747,Wofford,1997-11-25,-40.6274,included_game_day
+1998,2747,Wofford,1997-11-29,-40.95066,included_game_day
+1998,2747,Wofford,1997-12-01,-51.104834,included_game_day
+1998,2747,Wofford,1997-12-07,-67.93086023,included_game_day
+1998,2747,Wofford,1997-12-14,-88.144069627,included_game_day
+1998,2747,Wofford,1997-12-17,-88.37344954608,included_game_day
+1998,2747,Wofford,1998-01-03,-101.2532291369482,included_game_day
+1998,2747,Wofford,1998-01-05,-93.31113849329843,included_game_day
+1998,2747,Wofford,1998-01-07,-98.29700969216218,included_game_day
+1998,2747,Wofford,1998-01-10,-105.22946705336525,included_game_day
+1998,2747,Wofford,1998-01-12,-113.7141220029247,included_game_day
+1998,2747,Wofford,1998-01-17,-98.84793647999736,included_game_day
+1998,2747,Wofford,1998-01-19,-104.47763034674483,included_game_day
+1998,2747,Wofford,1998-01-24,-99.21896143896973,included_game_day
+1998,2747,Wofford,1998-01-26,-92.45344513044137,included_game_day
+1998,2747,Wofford,1998-01-28,-80.76224570626268,included_game_day
+1998,2747,Wofford,1998-02-02,-92.05703063173146,included_game_day
+1998,2747,Wofford,1998-02-07,-105.17557732979195,included_game_day
+1998,2747,Wofford,1998-02-11,-105.80356361917588,included_game_day
+1998,2747,Wofford,1998-02-14,-99.13538350721147,included_game_day
+1998,2747,Wofford,1998-02-16,-110.8129223896854,included_game_day
+1998,2747,Wofford,1998-02-21,-101.78471494819453,included_game_day
+1999,2747,Wofford,1998-11-13,-3.0,included_game_day
+1999,2747,Wofford,1998-11-16,-18.7,included_game_day
+1999,2747,Wofford,1998-11-23,-65.33,included_game_day
+1999,2747,Wofford,1998-12-02,-64.910881,included_game_day
+1999,2747,Wofford,1998-12-05,-74.5704929,included_game_day
+1999,2747,Wofford,1998-12-15,-75.910518094714,included_game_day
+1999,2747,Wofford,1998-12-16,-75.58223775358661,included_game_day
+1999,2747,Wofford,1999-01-04,-62.637346908105336,included_game_day
+1999,2747,Wofford,1999-01-09,-52.949859769742574,included_game_day
+1999,2747,Wofford,1999-01-11,-53.45622125295977,included_game_day
+1999,2747,Wofford,1999-01-16,-56.415089993781194,included_game_day
+1999,2747,Wofford,1999-01-18,-58.23896416697745,included_game_day
+1999,2747,Wofford,1999-01-20,-53.86175195420277,included_game_day
+1999,2747,Wofford,1999-01-23,-38.12192952640845,included_game_day
+1999,2747,Wofford,1999-01-25,-34.225509234688786,included_game_day
+1999,2747,Wofford,1999-01-30,-45.318414422793566,included_game_day
+1999,2747,Wofford,1999-02-01,-52.151744905135736,included_game_day
+1999,2747,Wofford,1999-02-04,-54.79395429290096,included_game_day
+1999,2747,Wofford,1999-02-06,-48.72679597118605,included_game_day
+1999,2747,Wofford,1999-02-08,-52.63285293467942,included_game_day
+1999,2747,Wofford,1999-02-10,-41.931318503016186,included_game_day
+1999,2747,Wofford,1999-02-13,-34.3700909576856,included_game_day
+1999,2747,Wofford,1999-02-16,-32.445336715602906,included_game_day
+1999,2747,Wofford,1999-02-20,-24.892758285439008,included_game_day
+1999,2747,Wofford,1999-02-25,-42.553586283898866,included_game_day
+2000,2747,Wofford,1999-11-19,-11.0,included_game_day
+2000,2747,Wofford,1999-11-21,0.8000000000000007,included_game_day
+2000,2747,Wofford,1999-11-23,-14.28,included_game_day
+2000,2747,Wofford,1999-11-27,-23.762,included_game_day
+2000,2747,Wofford,1999-12-11,-43.5300523,included_game_day
+2000,2747,Wofford,1999-12-18,-63.959466931,included_game_day
+2000,2747,Wofford,1999-12-19,-71.8710160379,included_game_day
+2000,2747,Wofford,1999-12-22,-70.72428140725,included_game_day
+2000,2747,Wofford,2000-01-05,-67.71257540474659,included_game_day
+2000,2747,Wofford,2000-01-08,-63.64514016595577,included_game_day
+2000,2747,Wofford,2000-01-10,-69.41950232735536,included_game_day
+2000,2747,Wofford,2000-01-15,-51.4755422927987,included_game_day
+2000,2747,Wofford,2000-01-17,-66.94777715250365,included_game_day
+2000,2747,Wofford,2000-01-20,-73.37017636715062,included_game_day
+2000,2747,Wofford,2000-01-22,-68.14945663510827,included_game_day
+2000,2747,Wofford,2000-01-24,-44.579290512572044,included_game_day
+2000,2747,Wofford,2000-01-29,-40.67154820581261,included_game_day
+2000,2747,Wofford,2000-01-31,-38.206189538459576,included_game_day
+2000,2747,Wofford,2000-02-03,-28.109748990888836,included_game_day
+2000,2747,Wofford,2000-02-07,-25.909456898914563,included_game_day
+2000,2747,Wofford,2000-02-12,-37.3455571771496,included_game_day
+2000,2747,Wofford,2000-02-14,-32.32992332262451,included_game_day
+2000,2747,Wofford,2000-02-19,-50.03100261709898,included_game_day
+2000,2747,Wofford,2000-02-22,-49.81207763155159,included_game_day
+2000,2747,Wofford,2000-02-26,-51.445462991903014,included_game_day
+2000,2747,Wofford,2000-03-02,-48.47175455642871,included_game_day
+2000,2747,Wofford,2000-03-03,-41.52785791510404,included_game_day
+2000,2747,Wofford,2000-03-04,-42.588577637764985,included_game_day
+2001,2747,Wofford,2000-11-17,-40.0,included_game_day
+2001,2747,Wofford,2000-11-21,-59.9,included_game_day
+2001,2747,Wofford,2000-11-29,-51.681,included_game_day
+2001,2747,Wofford,2000-12-02,-53.0674,included_game_day
+2001,2747,Wofford,2000-12-07,-36.748974000000004,included_game_day
+2001,2747,Wofford,2000-12-16,-29.816136018100003,included_game_day
+2001,2747,Wofford,2000-12-21,-41.239514731090004,included_game_day
+2001,2747,Wofford,2001-01-02,-28.175062098484403,included_game_day
+2001,2747,Wofford,2001-01-06,-36.211892962916465,included_game_day
+2001,2747,Wofford,2001-01-08,-31.55483072353732,included_game_day
+2001,2747,Wofford,2001-01-13,-37.25970303129796,included_game_day
+2001,2747,Wofford,2001-01-15,-15.87449541049553,included_game_day
+2001,2747,Wofford,2001-01-20,-7.713453858799417,included_game_day
+2001,2747,Wofford,2001-01-22,-29.501769029136724,included_game_day
+2001,2747,Wofford,2001-01-27,-18.96595579197062,included_game_day
+2001,2747,Wofford,2001-01-29,-27.42847322434555,included_game_day
+2001,2747,Wofford,2001-02-03,-27.771614643988887,included_game_day
+2001,2747,Wofford,2001-02-05,-23.58605036665042,included_game_day
+2001,2747,Wofford,2001-02-10,-35.363137589796814,included_game_day
+2001,2747,Wofford,2001-02-13,0.30202905954512715,included_game_day
+2001,2747,Wofford,2001-02-17,13.282634183004681,included_game_day
+2001,2747,Wofford,2001-02-19,18.03951372819697,included_game_day
+2001,2747,Wofford,2001-02-24,16.069621810368133,included_game_day
+2001,2747,Wofford,2001-03-01,7.498507055815104,included_game_day
+2002,2747,Wofford Terriers,2001-11-13,-24.0,included_game_day
+2002,2747,Wofford Terriers,2001-11-24,-19.997,included_game_day
+2002,2747,Wofford Terriers,2001-11-26,-18.9183,included_game_day
+2002,2747,Wofford Terriers,2001-11-28,-36.53426,included_game_day
+2002,2747,Wofford Terriers,2001-12-02,-46.390844,included_game_day
+2002,2747,Wofford Terriers,2001-12-05,-72.8013956,included_game_day
+2002,2747,Wofford Terriers,2001-12-21,-71.32142229871,included_game_day
+2002,2747,Wofford Terriers,2002-01-02,-54.982070578635145,included_game_day
+2002,2747,Wofford Terriers,2002-01-05,-43.73828757721064,included_game_day
+2002,2747,Wofford Terriers,2002-01-07,-30.018834539564878,included_game_day
+2002,2747,Wofford Terriers,2002-01-12,-39.04801902285156,included_game_day
+2002,2747,Wofford Terriers,2002-01-14,-33.81685952903956,included_game_day
+2002,2747,Wofford Terriers,2002-01-19,-37.931735834630516,included_game_day
+2002,2747,Wofford Terriers,2002-01-23,-44.092003549072075,included_game_day
+2002,2747,Wofford Terriers,2002-01-26,-44.984507062068815,included_game_day
+2002,2747,Wofford Terriers,2002-01-30,-48.41407068387654,included_game_day
+2002,2747,Wofford Terriers,2002-02-02,-44.961384458561646,included_game_day
+2002,2747,Wofford Terriers,2002-02-04,-66.97409969936236,included_game_day
+2002,2747,Wofford Terriers,2002-02-09,-52.6417206634199,included_game_day
+2002,2747,Wofford Terriers,2002-02-11,-66.82284634591454,included_game_day
+2002,2747,Wofford Terriers,2002-02-16,-65.17197197379812,included_game_day
+2002,2747,Wofford Terriers,2002-02-18,-72.91792656856619,included_game_day
+2002,2747,Wofford Terriers,2002-02-23,-71.94580294851193,included_game_day
+2002,2747,Wofford Terriers,2002-02-28,-88.35495566911024,included_game_day
+2003,2747,Wofford Terriers,2002-11-22,-15.0,included_game_day
+2003,2747,Wofford Terriers,2002-11-24,-17.5,included_game_day
+2003,2747,Wofford Terriers,2002-12-02,-9.70572,included_game_day
+2003,2747,Wofford Terriers,2002-12-14,-14.22332485,included_game_day
+2003,2747,Wofford Terriers,2002-12-16,-17.712568208,included_game_day
+2003,2747,Wofford Terriers,2002-12-29,-18.595634950049003,included_game_day
+2003,2747,Wofford Terriers,2003-01-02,-31.658923533882522,included_game_day
+2003,2747,Wofford Terriers,2003-01-06,-40.00229029672458,included_game_day
+2003,2747,Wofford Terriers,2003-01-11,-39.35754023417506,included_game_day
+2003,2747,Wofford Terriers,2003-01-13,-24.094908768830454,included_game_day
+2003,2747,Wofford Terriers,2003-01-18,-28.937621811047457,included_game_day
+2003,2747,Wofford Terriers,2003-01-20,-19.448334544674427,included_game_day
+2003,2747,Wofford Terriers,2003-01-25,-42.21381562208331,included_game_day
+2003,2747,Wofford Terriers,2003-01-27,-41.6534000843118,included_game_day
+2003,2747,Wofford Terriers,2003-02-01,-48.02985292162505,included_game_day
+2003,2747,Wofford Terriers,2003-02-03,-28.682515071366314,included_game_day
+2003,2747,Wofford Terriers,2003-02-08,-32.012043321593325,included_game_day
+2003,2747,Wofford Terriers,2003-02-10,-17.094212628265254,included_game_day
+2003,2747,Wofford Terriers,2003-02-15,-17.44854630958992,included_game_day
+2003,2747,Wofford Terriers,2003-02-18,-21.949150035773158,included_game_day
+2003,2747,Wofford Terriers,2003-02-22,-30.801435427965753,included_game_day
+2003,2747,Wofford Terriers,2003-02-24,-41.390563525164325,included_game_day
+2003,2747,Wofford Terriers,2003-03-01,-38.138660338448354,included_game_day
+2003,2747,Wofford Terriers,2003-03-05,-39.72294909766311,included_game_day
+2003,2747,Wofford Terriers,2003-03-06,-37.9309968921396,included_game_day
+2004,2747,Wofford Terriers,2003-11-21,-8.0,included_game_day
+2004,2747,Wofford Terriers,2003-11-29,-8.3475,included_game_day
+2004,2747,Wofford Terriers,2003-12-04,-25.255750000000003,included_game_day
+2004,2747,Wofford Terriers,2003-12-13,-21.800545000000003,included_game_day
+2004,2747,Wofford Terriers,2003-12-15,-37.69564004,included_game_day
+2004,2747,Wofford Terriers,2003-12-17,-62.072493576,included_game_day
+2004,2747,Wofford Terriers,2003-12-20,-74.31307208359999,included_game_day
+2004,2747,Wofford Terriers,2003-12-29,-79.67318159817317,included_game_day
+2004,2747,Wofford Terriers,2004-01-04,-78.7183024017609,included_game_day
+2004,2747,Wofford Terriers,2004-01-07,-81.46475029365904,included_game_day
+2004,2747,Wofford Terriers,2004-01-10,-63.744225111783194,included_game_day
+2004,2747,Wofford Terriers,2004-01-17,-55.662609043436376,included_game_day
+2004,2747,Wofford Terriers,2004-01-19,-56.70530184069713,included_game_day
+2004,2747,Wofford Terriers,2004-01-24,-81.13682786740647,included_game_day
+2004,2747,Wofford Terriers,2004-01-28,-88.69374022337448,included_game_day
+2004,2747,Wofford Terriers,2004-01-31,-103.88440002335804,included_game_day
+2004,2747,Wofford Terriers,2004-02-02,-105.42443270430525,included_game_day
+2004,2747,Wofford Terriers,2004-02-07,-98.53690437510409,included_game_day
+2004,2747,Wofford Terriers,2004-02-09,-100.32070390166662,included_game_day
+2004,2747,Wofford Terriers,2004-02-11,-80.75332206653789,included_game_day
+2004,2747,Wofford Terriers,2004-02-14,-77.97209737730087,included_game_day
+2004,2747,Wofford Terriers,2004-02-18,-74.13898037006192,included_game_day
+2004,2747,Wofford Terriers,2004-02-23,-89.19161683040285,included_game_day
+2004,2747,Wofford Terriers,2004-02-28,-85.23310716725393,included_game_day
+2004,2747,Wofford Terriers,2004-03-03,-74.06495630846713,included_game_day
+2004,2747,Wofford Terriers,2004-03-04,-77.12569643507429,included_game_day
+2005,2747,Wofford Terriers,2004-11-20,0.0,included_game_day
+2005,2747,Wofford Terriers,2004-11-29,-5.916271,included_game_day
+2005,2747,Wofford Terriers,2004-12-01,-3.3827439,included_game_day
+2005,2747,Wofford Terriers,2004-12-05,9.828700063000001,included_game_day
+2005,2747,Wofford Terriers,2004-12-11,12.5327494267,included_game_day
+2005,2747,Wofford Terriers,2004-12-18,30.30741861533,included_game_day
+2005,2747,Wofford Terriers,2004-12-19,23.733104738297,included_game_day
+2005,2747,Wofford Terriers,2004-12-31,-1.8725807006221586,included_game_day
+2005,2747,Wofford Terriers,2005-01-05,-21.912231549492724,included_game_day
+2005,2747,Wofford Terriers,2005-01-08,-16.954283850223007,included_game_day
+2005,2747,Wofford Terriers,2005-01-15,-40.006431213697965,included_game_day
+2005,2747,Wofford Terriers,2005-01-17,-43.94584100854454,included_game_day
+2005,2747,Wofford Terriers,2005-01-22,-54.31467691642357,included_game_day
+2005,2747,Wofford Terriers,2005-01-24,-48.61211785757951,included_game_day
+2005,2747,Wofford Terriers,2005-01-31,-36.146581884339696,included_game_day
+2005,2747,Wofford Terriers,2005-02-05,-39.16848527263946,included_game_day
+2005,2747,Wofford Terriers,2005-02-07,-39.534593023039555,included_game_day
+2005,2747,Wofford Terriers,2005-02-12,-51.79535454451345,included_game_day
+2005,2747,Wofford Terriers,2005-02-14,-40.71559692931962,included_game_day
+2005,2747,Wofford Terriers,2005-02-17,-37.1421893310874,included_game_day
+2005,2747,Wofford Terriers,2005-02-19,-30.619321883996992,included_game_day
+2005,2747,Wofford Terriers,2005-02-21,-26.12540230147406,included_game_day
+2005,2747,Wofford Terriers,2005-02-26,-34.083338666027686,included_game_day
+2005,2747,Wofford Terriers,2005-03-02,-42.156711293116345,included_game_day
+2006,2747,Wofford Terriers,2005-11-12,8.0,included_game_day
+2006,2747,Wofford Terriers,2005-11-13,-8.2,included_game_day
+2006,2747,Wofford Terriers,2005-11-19,-11.379999999999999,included_game_day
+2006,2747,Wofford Terriers,2005-11-26,-9.322,included_game_day
+2006,2747,Wofford Terriers,2005-11-30,-15.6756,included_game_day
+2006,2747,Wofford Terriers,2005-12-06,-2.6584047999999996,included_game_day
+2006,2747,Wofford Terriers,2005-12-10,-25.07874563,included_game_day
+2006,2747,Wofford Terriers,2005-12-17,-44.916850667,included_game_day
+2006,2747,Wofford Terriers,2005-12-30,-32.22647038599472,included_game_day
+2006,2747,Wofford Terriers,2006-01-04,-39.87726851438384,included_game_day
+2006,2747,Wofford Terriers,2006-01-07,-49.973900392538056,included_game_day
+2006,2747,Wofford Terriers,2006-01-09,-82.39871525744277,included_game_day
+2006,2747,Wofford Terriers,2006-01-14,-85.2653582557844,included_game_day
+2006,2747,Wofford Terriers,2006-01-16,-72.75453244631376,included_game_day
+2006,2747,Wofford Terriers,2006-01-21,-76.86815288084537,included_game_day
+2006,2747,Wofford Terriers,2006-01-28,-56.58730484908585,included_game_day
+2006,2747,Wofford Terriers,2006-01-30,-54.155182569998914,included_game_day
+2006,2747,Wofford Terriers,2006-02-02,-50.42584798374951,included_game_day
+2006,2747,Wofford Terriers,2006-02-06,-58.545078736777675,included_game_day
+2006,2747,Wofford Terriers,2006-02-11,-38.31393538751064,included_game_day
+2006,2747,Wofford Terriers,2006-02-13,-39.798001177997875,included_game_day
+2006,2747,Wofford Terriers,2006-02-18,-18.74028982738772,included_game_day
+2006,2747,Wofford Terriers,2006-02-22,-18.41969935438228,included_game_day
+2006,2747,Wofford Terriers,2006-02-25,-40.36085981594054,included_game_day
+2006,2747,Wofford Terriers,2006-03-02,-38.58293809032397,included_game_day
+2007,2747,Wofford Terriers,2006-11-10,-1.0,included_game_day
+2007,2747,Wofford Terriers,2006-11-18,2.956,included_game_day
+2007,2747,Wofford Terriers,2006-11-21,11.370399999999998,included_game_day
+2007,2747,Wofford Terriers,2006-11-25,7.690859999999998,included_game_day
+2007,2747,Wofford Terriers,2006-11-27,-15.217886000000004,included_game_day
+2007,2747,Wofford Terriers,2006-11-29,-23.022097400000003,included_game_day
+2007,2747,Wofford Terriers,2006-12-02,-45.57023216,included_game_day
+2007,2747,Wofford Terriers,2006-12-05,-51.047287815400004,included_game_day
+2007,2747,Wofford Terriers,2006-12-16,-50.778639962459,included_game_day
+2007,2747,Wofford Terriers,2006-12-20,-63.673023660221105,included_game_day
+2007,2747,Wofford Terriers,2006-12-31,-78.55111464942654,included_game_day
+2007,2747,Wofford Terriers,2007-01-06,-85.39161500288739,included_game_day
+2007,2747,Wofford Terriers,2007-01-08,-80.8168211485496,included_game_day
+2007,2747,Wofford Terriers,2007-01-13,-74.09676222791845,included_game_day
+2007,2747,Wofford Terriers,2007-01-15,-68.88092055298232,included_game_day
+2007,2747,Wofford Terriers,2007-01-20,-65.66827831876375,included_game_day
+2007,2747,Wofford Terriers,2007-01-22,-54.93764364233621,included_game_day
+2007,2747,Wofford Terriers,2007-01-29,-56.6489344298433,included_game_day
+2007,2747,Wofford Terriers,2007-02-03,-55.99195454144794,included_game_day
+2007,2747,Wofford Terriers,2007-02-05,-47.355735398190006,included_game_day
+2007,2747,Wofford Terriers,2007-02-10,-51.448941967098804,included_game_day
+2007,2747,Wofford Terriers,2007-02-12,-44.52455240548138,included_game_day
+2007,2747,Wofford Terriers,2007-02-17,-51.917827812479864,included_game_day
+2007,2747,Wofford Terriers,2007-02-19,-38.3510600819097,included_game_day
+2007,2747,Wofford Terriers,2007-02-22,-65.28298341402133,included_game_day
+2007,2747,Wofford Terriers,2007-02-25,-54.577981706695695,included_game_day
+2007,2747,Wofford Terriers,2007-02-28,-59.63160275256656,included_game_day
+2008,2747,Wofford Terriers,2007-11-09,-19.0,included_game_day
+2008,2747,Wofford Terriers,2007-12-03,-30.594155572000002,included_game_day
+2008,2747,Wofford Terriers,2007-12-08,-31.80812887927,included_game_day
+2008,2747,Wofford Terriers,2007-12-15,-35.037799573343,included_game_day
+2008,2747,Wofford Terriers,2007-12-17,-35.2328845999177,included_game_day
+2008,2747,Wofford Terriers,2007-12-19,-22.798197596807235,included_game_day
+2008,2747,Wofford Terriers,2007-12-22,-27.65779339991059,included_game_day
+2008,2747,Wofford Terriers,2007-12-23,-19.27855296766099,included_game_day
+2008,2747,Wofford Terriers,2008-01-03,-25.38422125953454,included_game_day
+2008,2747,Wofford Terriers,2008-01-10,-27.244418017821637,included_game_day
+2008,2747,Wofford Terriers,2008-01-12,-57.63290910094686,included_game_day
+2008,2747,Wofford Terriers,2008-01-17,-56.09421388058458,included_game_day
+2008,2747,Wofford Terriers,2008-01-24,-38.001854004959355,included_game_day
+2008,2747,Wofford Terriers,2008-01-26,-34.83705001544993,included_game_day
+2008,2747,Wofford Terriers,2008-01-28,-33.52059678221839,included_game_day
+2008,2747,Wofford Terriers,2008-01-30,-31.11372437805176,included_game_day
+2008,2747,Wofford Terriers,2008-02-02,-9.332966911150521,included_game_day
+2008,2747,Wofford Terriers,2008-02-07,2.6378577606580365,included_game_day
+2008,2747,Wofford Terriers,2008-02-09,-9.179295155171342,included_game_day
+2008,2747,Wofford Terriers,2008-02-11,-32.79605583343864,included_game_day
+2008,2747,Wofford Terriers,2008-02-14,-40.69653113003255,included_game_day
+2008,2747,Wofford Terriers,2008-02-18,-50.46093463204211,included_game_day
+2008,2747,Wofford Terriers,2008-02-23,-49.17133949032144,included_game_day
+2008,2747,Wofford Terriers,2008-02-28,-51.3319110215752,included_game_day
+2008,2747,Wofford Terriers,2008-03-01,-49.507040422118735,included_game_day
+2008,2747,Wofford Terriers,2008-03-07,-39.85362933312929,included_game_day
+2008,2747,Wofford Terriers,2008-03-08,-55.53554461022828,included_game_day
+2009,2747,Wofford Terriers,2008-11-16,0.0,included_game_day
+2009,2747,Wofford Terriers,2008-11-19,-45.926,included_game_day
+2009,2747,Wofford Terriers,2008-11-22,-40.4955,included_game_day
+2009,2747,Wofford Terriers,2008-11-23,-20.17595,included_game_day
+2009,2747,Wofford Terriers,2008-11-25,-17.488355,included_game_day
+2009,2747,Wofford Terriers,2008-12-06,-23.51714324,included_game_day
+2009,2747,Wofford Terriers,2008-12-20,-19.637822994136,included_game_day
+2009,2747,Wofford Terriers,2009-01-02,-18.995041989839883,included_game_day
+2009,2747,Wofford Terriers,2009-01-05,-21.176466285274646,included_game_day
+2009,2747,Wofford Terriers,2009-01-08,-18.082914885184778,included_game_day
+2009,2747,Wofford Terriers,2009-01-10,-9.150745110221907,included_game_day
+2009,2747,Wofford Terriers,2009-01-15,-11.678503171046003,included_game_day
+2009,2747,Wofford Terriers,2009-01-17,-15.32358188314295,included_game_day
+2009,2747,Wofford Terriers,2009-01-22,-38.889630281894036,included_game_day
+2009,2747,Wofford Terriers,2009-01-24,-43.973891980293516,included_game_day
+2009,2747,Wofford Terriers,2009-01-26,-48.612919855163106,included_game_day
+2009,2747,Wofford Terriers,2009-01-29,-39.818603948278955,included_game_day
+2009,2747,Wofford Terriers,2009-01-31,-49.82390747800345,included_game_day
+2009,2747,Wofford Terriers,2009-02-05,-56.91451858627157,included_game_day
+2009,2747,Wofford Terriers,2009-02-07,-44.42127827408484,included_game_day
+2009,2747,Wofford Terriers,2009-02-09,-34.30592370553185,included_game_day
+2009,2747,Wofford Terriers,2009-02-12,-40.3524043946123,included_game_day
+2009,2747,Wofford Terriers,2009-02-14,-43.146932708591805,included_game_day
+2009,2747,Wofford Terriers,2009-02-21,-41.918523874830186,included_game_day
+2009,2747,Wofford Terriers,2009-02-23,-30.361804195409448,included_game_day
+2009,2747,Wofford Terriers,2009-02-26,-25.285303307512535,included_game_day
+2009,2747,Wofford Terriers,2009-02-28,-7.823183912943481,included_game_day
+2009,2747,Wofford Terriers,2009-03-02,5.5384601663102995,included_game_day
+2009,2747,Wofford Terriers,2009-03-06,-13.90252550457941,included_game_day
+2010,2747,Wofford Terriers,2009-11-13,0.0,included_game_day
+2010,2747,Wofford Terriers,2009-11-17,6.5,included_game_day
+2010,2747,Wofford Terriers,2009-11-22,6.25,included_game_day
+2010,2747,Wofford Terriers,2009-11-24,1.7680000000000007,included_game_day
+2010,2747,Wofford Terriers,2009-11-27,2.4146160000000005,included_game_day
+2010,2747,Wofford Terriers,2009-11-28,-1.8342711999999999,included_game_day
+2010,2747,Wofford Terriers,2009-12-02,-1.4436760799999995,included_game_day
+2010,2747,Wofford Terriers,2009-12-04,-2.180465067,included_game_day
+2010,2747,Wofford Terriers,2009-12-07,-6.6451955773,included_game_day
+2010,2747,Wofford Terriers,2009-12-12,-1.0846981430599998,included_game_day
+2010,2747,Wofford Terriers,2009-12-19,8.656417420441002,included_game_day
+2010,2747,Wofford Terriers,2009-12-21,26.196975208396903,included_game_day
+2010,2747,Wofford Terriers,2009-12-29,17.859814748057204,included_game_day
+2010,2747,Wofford Terriers,2009-12-30,21.90495326521512,included_game_day
+2010,2747,Wofford Terriers,2010-01-07,28.8837544261335,included_game_day
+2010,2747,Wofford Terriers,2010-01-09,37.82079025864051,included_game_day
+2010,2747,Wofford Terriers,2010-01-14,36.11330319610221,included_game_day
+2010,2747,Wofford Terriers,2010-01-16,35.29185290554637,included_game_day
+2010,2747,Wofford Terriers,2010-01-21,34.57232318293388,included_game_day
+2010,2747,Wofford Terriers,2010-01-22,36.463319262046724,included_game_day
+2010,2747,Wofford Terriers,2010-01-25,38.345757904161424,included_game_day
+2010,2747,Wofford Terriers,2010-01-30,38.30320700877505,included_game_day
+2010,2747,Wofford Terriers,2010-02-03,38.34132885295243,included_game_day
+2010,2747,Wofford Terriers,2010-02-06,41.55329648526266,included_game_day
+2010,2747,Wofford Terriers,2010-02-10,45.42606391221538,included_game_day
+2010,2747,Wofford Terriers,2010-02-13,44.61335721433999,included_game_day
+2010,2747,Wofford Terriers,2010-02-17,64.81036404530141,included_game_day
+2010,2747,Wofford Terriers,2010-02-20,56.81266322323954,included_game_day
+2010,2747,Wofford Terriers,2010-02-25,55.844544791980454,included_game_day
+2010,2747,Wofford Terriers,2010-02-27,53.65584333400191,included_game_day
+2010,2747,Wofford Terriers,2010-03-06,53.835294316215226,included_game_day
+2010,2747,Wofford Terriers,2010-03-07,66.82924962056329,included_game_day
+2010,2747,Wofford Terriers,2010-03-08,70.63362126394924,included_game_day
+2010,2747,Wofford Terriers,2010-03-19,75.42924634776602,included_game_day
+2011,2747,Wofford Terriers,2010-11-12,-11.0,included_game_day
+2011,2747,Wofford Terriers,2010-11-15,-12.9,included_game_day
+2011,2747,Wofford Terriers,2010-11-18,2.379999999999999,included_game_day
+2011,2747,Wofford Terriers,2010-11-19,-9.12786,included_game_day
+2011,2747,Wofford Terriers,2010-11-21,-3.4608740000000004,included_game_day
+2011,2747,Wofford Terriers,2010-11-24,-10.9745866,included_game_day
+2011,2747,Wofford Terriers,2010-11-27,-9.08927294,included_game_day
+2011,2747,Wofford Terriers,2010-12-02,1.3002522879999994,included_game_day
+2011,2747,Wofford Terriers,2010-12-04,5.0086163591999995,included_game_day
+2011,2747,Wofford Terriers,2010-12-11,0.7062114570299993,included_game_day
+2011,2747,Wofford Terriers,2010-12-18,10.469368526517,included_game_day
+2011,2747,Wofford Terriers,2010-12-29,6.5819901646641945,included_game_day
+2011,2747,Wofford Terriers,2010-12-30,-3.3712244723827496,included_game_day
+2011,2747,Wofford Terriers,2011-01-06,4.7800897743772826,included_game_day
+2011,2747,Wofford Terriers,2011-01-08,1.332654444542801,included_game_day
+2011,2747,Wofford Terriers,2011-01-12,-0.637543501868961,included_game_day
+2011,2747,Wofford Terriers,2011-01-15,7.604497303421839,included_game_day
+2011,2747,Wofford Terriers,2011-01-20,30.789238545744915,included_game_day
+2011,2747,Wofford Terriers,2011-01-22,56.24765654529746,included_game_day
+2011,2747,Wofford Terriers,2011-01-24,47.822053474771266,included_game_day
+2011,2747,Wofford Terriers,2011-01-27,50.84062670768998,included_game_day
+2011,2747,Wofford Terriers,2011-01-29,49.29162979588292,included_game_day
+2011,2747,Wofford Terriers,2011-02-03,24.752761636227227,included_game_day
+2011,2747,Wofford Terriers,2011-02-05,37.15218572730549,included_game_day
+2011,2747,Wofford Terriers,2011-02-09,20.113893052086226,included_game_day
+2011,2747,Wofford Terriers,2011-02-12,9.561387577341655,included_game_day
+2011,2747,Wofford Terriers,2011-02-16,13.300213094240146,included_game_day
+2011,2747,Wofford Terriers,2011-02-19,12.68785454078933,included_game_day
+2011,2747,Wofford Terriers,2011-02-23,48.39255717645916,included_game_day
+2011,2747,Wofford Terriers,2011-02-26,59.81952790286199,included_game_day
+2011,2747,Wofford Terriers,2011-03-05,64.78328982234288,included_game_day
+2011,2747,Wofford Terriers,2011-03-06,72.39579635989836,included_game_day
+2011,2747,Wofford Terriers,2011-03-07,81.40596202176191,included_game_day
+2011,2747,Wofford Terriers,2011-03-17,78.09171078141672,included_game_day
+2012,2747,Wofford Terriers,2011-11-11,-10.0,included_game_day
+2012,2747,Wofford Terriers,2011-11-19,-34.94,included_game_day
+2012,2747,Wofford Terriers,2011-11-22,-23.438,included_game_day
+2012,2747,Wofford Terriers,2011-11-25,-30.964489999999998,included_game_day
+2012,2747,Wofford Terriers,2011-11-26,-25.816291,included_game_day
+2012,2747,Wofford Terriers,2011-12-01,-27.7361938,included_game_day
+2012,2747,Wofford Terriers,2011-12-03,-12.21893918,included_game_day
+2012,2747,Wofford Terriers,2011-12-06,6.852781137000001,included_game_day
+2012,2747,Wofford Terriers,2011-12-18,1.5600786665100017,included_game_day
+2012,2747,Wofford Terriers,2011-12-21,-6.396992860405459,included_game_day
+2012,2747,Wofford Terriers,2011-12-28,-13.916184144139702,included_game_day
+2012,2747,Wofford Terriers,2012-01-02,-4.744342007913346,included_game_day
+2012,2747,Wofford Terriers,2012-01-05,12.780144211560355,included_game_day
+2012,2747,Wofford Terriers,2012-01-07,0.9198763255833207,included_game_day
+2012,2747,Wofford Terriers,2012-01-12,0.03324342677070824,included_game_day
+2012,2747,Wofford Terriers,2012-01-14,18.03923994552656,included_game_day
+2012,2747,Wofford Terriers,2012-01-19,21.267517688788125,included_game_day
+2012,2747,Wofford Terriers,2012-01-21,26.227383485705897,included_game_day
+2012,2747,Wofford Terriers,2012-01-26,20.87385397777122,included_game_day
+2012,2747,Wofford Terriers,2012-01-28,29.562457519472872,included_game_day
+2012,2747,Wofford Terriers,2012-01-30,43.25179921832219,included_game_day
+2012,2747,Wofford Terriers,2012-02-04,25.02933692170669,included_game_day
+2012,2747,Wofford Terriers,2012-02-06,11.658658700143869,included_game_day
+2012,2747,Wofford Terriers,2012-02-09,-4.415585659115605,included_game_day
+2012,2747,Wofford Terriers,2012-02-11,-4.347800789252083,included_game_day
+2012,2747,Wofford Terriers,2012-02-15,0.5426214706927519,included_game_day
+2012,2747,Wofford Terriers,2012-02-18,-14.149345318228999,included_game_day
+2012,2747,Wofford Terriers,2012-02-21,-2.451663039302826,included_game_day
+2012,2747,Wofford Terriers,2012-02-25,5.469234489805078,included_game_day
+2012,2747,Wofford Terriers,2012-03-03,-22.77006877476975,included_game_day
+2012,2747,Wofford Terriers,2012-03-14,-30.450938488337886,included_game_day
+2013,2747,Wofford Terriers,2012-11-09,-12.0,included_game_day
+2013,2747,Wofford Terriers,2012-11-16,-10.8,included_game_day
+2013,2747,Wofford Terriers,2012-11-18,-24.189700000000002,included_game_day
+2013,2747,Wofford Terriers,2012-11-20,-18.635060000000003,included_game_day
+2013,2747,Wofford Terriers,2012-11-23,-12.748597000000004,included_game_day
+2013,2747,Wofford Terriers,2012-11-24,-28.192837300000004,included_game_day
+2013,2747,Wofford Terriers,2012-11-28,-18.068553570000002,included_game_day
+2013,2747,Wofford Terriers,2012-12-05,-5.124618013000003,included_game_day
+2013,2747,Wofford Terriers,2012-12-08,-5.720798304600002,included_game_day
+2013,2747,Wofford Terriers,2012-12-18,35.39479401477,included_game_day
+2013,2747,Wofford Terriers,2012-12-22,38.41097690147344,included_game_day
+2013,2747,Wofford Terriers,2012-12-30,9.665402178363454,included_game_day
+2013,2747,Wofford Terriers,2013-01-04,3.9581896308059186,included_game_day
+2013,2747,Wofford Terriers,2013-01-08,-4.282544701507604,included_game_day
+2013,2747,Wofford Terriers,2013-01-12,5.57420760806205,included_game_day
+2013,2747,Wofford Terriers,2013-01-14,-5.085039752792136,included_game_day
+2013,2747,Wofford Terriers,2013-01-16,-27.678631713173253,included_game_day
+2013,2747,Wofford Terriers,2013-01-19,-28.20589924713707,included_game_day
+2013,2747,Wofford Terriers,2013-01-24,-22.22781755808375,included_game_day
+2013,2747,Wofford Terriers,2013-01-26,-52.90771014071613,included_game_day
+2013,2747,Wofford Terriers,2013-01-31,-62.021059842938385,included_game_day
+2013,2747,Wofford Terriers,2013-02-02,-63.59252637353419,included_game_day
+2013,2747,Wofford Terriers,2013-02-07,-48.864853558459785,included_game_day
+2013,2747,Wofford Terriers,2013-02-09,-42.82123861876516,included_game_day
+2013,2747,Wofford Terriers,2013-02-11,-40.6203703810184,included_game_day
+2013,2747,Wofford Terriers,2013-02-14,-47.02461369586712,included_game_day
+2013,2747,Wofford Terriers,2013-02-16,-29.69586180979523,included_game_day
+2013,2747,Wofford Terriers,2013-02-21,-23.38731402774685,included_game_day
+2013,2747,Wofford Terriers,2013-02-28,-22.5568552803188,included_game_day
+2013,2747,Wofford Terriers,2013-03-02,-26.898320783188367,included_game_day
+2013,2747,Wofford Terriers,2013-03-08,-46.655450488472724,included_game_day
+2014,2747,Wofford Terriers,2013-11-08,-17.0,included_game_day
+2014,2747,Wofford Terriers,2013-11-16,-33.4,included_game_day
+2014,2747,Wofford Terriers,2013-11-21,-43.7594,included_game_day
+2014,2747,Wofford Terriers,2013-11-24,-45.65666,included_game_day
+2014,2747,Wofford Terriers,2013-12-04,-36.121871600000006,included_game_day
+2014,2747,Wofford Terriers,2013-12-07,-37.98731387560001,included_game_day
+2014,2747,Wofford Terriers,2013-12-14,-38.60623109071001,included_game_day
+2014,2747,Wofford Terriers,2013-12-17,-41.76991998195701,included_game_day
+2014,2747,Wofford Terriers,2013-12-21,-29.192931790524668,included_game_day
+2014,2747,Wofford Terriers,2013-12-30,-8.914575252425358,included_game_day
+2014,2747,Wofford Terriers,2014-01-02,-2.784812144791151,included_game_day
+2014,2747,Wofford Terriers,2014-01-04,-26.20392147742235,included_game_day
+2014,2747,Wofford Terriers,2014-01-09,-33.28534465572725,included_game_day
+2014,2747,Wofford Terriers,2014-01-11,-33.33642775360176,included_game_day
+2014,2747,Wofford Terriers,2014-01-18,-51.46423258688675,included_game_day
+2014,2747,Wofford Terriers,2014-01-20,-39.30996156994652,included_game_day
+2014,2747,Wofford Terriers,2014-01-23,-28.19939659876788,included_game_day
+2014,2747,Wofford Terriers,2014-01-25,-7.152357906239114,included_game_day
+2014,2747,Wofford Terriers,2014-02-01,2.9674360168593203,included_game_day
+2014,2747,Wofford Terriers,2014-02-06,6.509360930145236,included_game_day
+2014,2747,Wofford Terriers,2014-02-08,15.059181573890912,included_game_day
+2014,2747,Wofford Terriers,2014-02-15,14.779137710670208,included_game_day
+2014,2747,Wofford Terriers,2014-02-20,19.269319052568406,included_game_day
+2014,2747,Wofford Terriers,2014-02-22,15.098475490476678,included_game_day
+2014,2747,Wofford Terriers,2014-02-27,21.98662837131649,included_game_day
+2014,2747,Wofford Terriers,2014-03-01,5.58450766559158,included_game_day
+2014,2747,Wofford Terriers,2014-03-08,12.025498764197737,included_game_day
+2014,2747,Wofford Terriers,2014-03-09,18.980837966502612,included_game_day
+2014,2747,Wofford Terriers,2014-03-10,17.854722233372314,included_game_day
+2014,2747,Wofford Terriers,2014-03-20,12.069112811754511,included_game_day
+2015,2747,Wofford Terriers,2014-11-15,-12.0,included_game_day
+2015,2747,Wofford Terriers,2014-11-18,-0.5999999999999996,included_game_day
+2015,2747,Wofford Terriers,2014-11-21,17.14,included_game_day
+2015,2747,Wofford Terriers,2014-11-22,17.617,included_game_day
+2015,2747,Wofford Terriers,2014-11-23,28.729,included_game_day
+2015,2747,Wofford Terriers,2014-11-29,27.011509999999998,included_game_day
+2015,2747,Wofford Terriers,2014-12-03,31.384759,included_game_day
+2015,2747,Wofford Terriers,2014-12-14,41.522198020199994,included_game_day
+2015,2747,Wofford Terriers,2014-12-17,36.920685155979996,included_game_day
+2015,2747,Wofford Terriers,2014-12-22,14.030405860808635,included_game_day
+2015,2747,Wofford Terriers,2014-12-31,1.9651543198179482,included_game_day
+2015,2747,Wofford Terriers,2015-01-03,3.019169762535838,included_game_day
+2015,2747,Wofford Terriers,2015-01-05,9.508808821820462,included_game_day
+2015,2747,Wofford Terriers,2015-01-08,4.490765066883778,included_game_day
+2015,2747,Wofford Terriers,2015-01-10,5.339323257737798,included_game_day
+2015,2747,Wofford Terriers,2015-01-15,-1.678769712997406,included_game_day
+2015,2747,Wofford Terriers,2015-01-17,11.377409026070282,included_game_day
+2015,2747,Wofford Terriers,2015-01-22,27.939293605521417,included_game_day
+2015,2747,Wofford Terriers,2015-01-24,29.244039577994435,included_game_day
+2015,2747,Wofford Terriers,2015-01-29,37.42868455668486,included_game_day
+2015,2747,Wofford Terriers,2015-01-31,34.86019634406401,included_game_day
+2015,2747,Wofford Terriers,2015-02-05,42.95412056979079,included_game_day
+2015,2747,Wofford Terriers,2015-02-07,34.07211768921295,included_game_day
+2015,2747,Wofford Terriers,2015-02-12,17.767119323291464,included_game_day
+2015,2747,Wofford Terriers,2015-02-14,37.51630804331188,included_game_day
+2015,2747,Wofford Terriers,2015-02-19,41.73402858686935,included_game_day
+2015,2747,Wofford Terriers,2015-02-21,50.69007628625668,included_game_day
+2015,2747,Wofford Terriers,2015-02-26,52.96724757992453,included_game_day
+2015,2747,Wofford Terriers,2015-02-28,40.75086678274127,included_game_day
+2015,2747,Wofford Terriers,2015-03-07,53.70747299729764,included_game_day
+2015,2747,Wofford Terriers,2015-03-08,57.06375264876165,included_game_day
+2015,2747,Wofford Terriers,2015-03-09,47.97886015789796,included_game_day
+2015,2747,Wofford Terriers,2015-03-19,50.8223393019279,included_game_day
+2016,2747,Wofford Terriers,2015-11-13,-6.0,included_game_day
+2016,2747,Wofford Terriers,2015-11-18,-17.97,included_game_day
+2016,2747,Wofford Terriers,2015-11-21,-12.773,included_game_day
+2016,2747,Wofford Terriers,2015-11-24,-17.7457,included_game_day
+2016,2747,Wofford Terriers,2015-11-28,-4.868179999999999,included_game_day
+2016,2747,Wofford Terriers,2015-12-01,-13.915717,included_game_day
+2016,2747,Wofford Terriers,2015-12-06,-19.089904442,included_game_day
+2016,2747,Wofford Terriers,2015-12-14,-29.248584057800002,included_game_day
+2016,2747,Wofford Terriers,2015-12-19,-36.045693641860005,included_game_day
+2016,2747,Wofford Terriers,2015-12-22,-39.42607335495526,included_game_day
+2016,2747,Wofford Terriers,2015-12-31,-48.990725993428896,included_game_day
+2016,2747,Wofford Terriers,2016-01-02,-41.60675232413038,included_game_day
+2016,2747,Wofford Terriers,2016-01-05,-36.954838968985605,included_game_day
+2016,2747,Wofford Terriers,2016-01-09,-29.850510044627775,included_game_day
+2016,2747,Wofford Terriers,2016-01-11,-35.308989771234586,included_game_day
+2016,2747,Wofford Terriers,2016-01-14,-33.94448494177111,included_game_day
+2016,2747,Wofford Terriers,2016-01-16,-25.752588285767292,included_game_day
+2016,2747,Wofford Terriers,2016-01-23,-19.922945514027457,included_game_day
+2016,2747,Wofford Terriers,2016-01-28,-5.128246189638627,included_game_day
+2016,2747,Wofford Terriers,2016-01-30,7.7469395328404165,included_game_day
+2016,2747,Wofford Terriers,2016-02-04,2.5161875824265163,included_game_day
+2016,2747,Wofford Terriers,2016-02-06,4.080993486853679,included_game_day
+2016,2747,Wofford Terriers,2016-02-08,21.1883387351848,included_game_day
+2016,2747,Wofford Terriers,2016-02-11,27.81450544008989,included_game_day
+2016,2747,Wofford Terriers,2016-02-13,20.99822092651893,included_game_day
+2016,2747,Wofford Terriers,2016-02-15,12.71457867147916,included_game_day
+2016,2747,Wofford Terriers,2016-02-20,14.776094071374851,included_game_day
+2016,2747,Wofford Terriers,2016-02-25,9.197902897442733,included_game_day
+2016,2747,Wofford Terriers,2016-02-27,7.913986203108054,included_game_day
+2016,2747,Wofford Terriers,2016-03-05,1.719106169578657,included_game_day
+2017,2747,Wofford Terriers,2016-11-12,-19.0,included_game_day
+2017,2747,Wofford Terriers,2016-11-21,-17.671,included_game_day
+2017,2747,Wofford Terriers,2016-11-22,-25.4564,included_game_day
+2017,2747,Wofford Terriers,2016-11-23,-28.927621,included_game_day
+2017,2747,Wofford Terriers,2016-11-27,-32.1008949,included_game_day
+2017,2747,Wofford Terriers,2016-12-03,-38.763199906,included_game_day
+2017,2747,Wofford Terriers,2016-12-10,-33.277297595928,included_game_day
+2017,2747,Wofford Terriers,2016-12-15,-21.8860373905952,included_game_day
+2017,2747,Wofford Terriers,2016-12-19,-20.956891346603427,included_game_day
+2017,2747,Wofford Terriers,2016-12-22,-20.109581824455613,included_game_day
+2017,2747,Wofford Terriers,2016-12-31,-7.9372318344509285,included_game_day
+2017,2747,Wofford Terriers,2017-01-02,-19.277558940874712,included_game_day
+2017,2747,Wofford Terriers,2017-01-05,-20.536440297029106,included_game_day
+2017,2747,Wofford Terriers,2017-01-08,-15.137667643644505,included_game_day
+2017,2747,Wofford Terriers,2017-01-14,-5.642791227534497,included_game_day
+2017,2747,Wofford Terriers,2017-01-19,-1.089044688098367,included_game_day
+2017,2747,Wofford Terriers,2017-01-22,0.966280318875274,included_game_day
+2017,2747,Wofford Terriers,2017-01-25,18.132837577888836,included_game_day
+2017,2747,Wofford Terriers,2017-01-28,-1.5683343026334242,included_game_day
+2017,2747,Wofford Terriers,2017-02-02,1.9858827291162289,included_game_day
+2017,2747,Wofford Terriers,2017-02-04,8.10824223583152,included_game_day
+2017,2747,Wofford Terriers,2017-02-06,13.439415118218282,included_game_day
+2017,2747,Wofford Terriers,2017-02-09,12.18819264547917,included_game_day
+2017,2747,Wofford Terriers,2017-02-11,2.645205197182941,included_game_day
+2017,2747,Wofford Terriers,2017-02-15,-14.963814367224307,included_game_day
+2017,2747,Wofford Terriers,2017-02-18,-0.3348988096896903,included_game_day
+2017,2747,Wofford Terriers,2017-02-22,10.640464157598272,included_game_day
+2017,2747,Wofford Terriers,2017-02-25,7.1415926456451615,included_game_day
+2017,2747,Wofford Terriers,2017-03-04,16.881592090693385,included_game_day
+2017,2747,Wofford Terriers,2017-03-05,14.688277273868419,included_game_day
+2018,2747,Wofford Terriers,2017-11-10,-24.0,included_game_day
+2018,2747,Wofford Terriers,2017-11-16,-33.72,included_game_day
+2018,2747,Wofford Terriers,2017-11-19,-37.78859,included_game_day
+2018,2747,Wofford Terriers,2017-11-22,-44.382881,included_game_day
+2018,2747,Wofford Terriers,2017-11-26,-57.6183939,included_game_day
+2018,2747,Wofford Terriers,2017-11-29,-42.54029451,included_game_day
+2018,2747,Wofford Terriers,2017-12-06,-38.304812814,included_game_day
+2018,2747,Wofford Terriers,2017-12-17,-23.630151612600002,included_game_day
+2018,2747,Wofford Terriers,2017-12-20,-1.1534718948667049,included_game_day
+2018,2747,Wofford Terriers,2017-12-30,1.4399421008914555,included_game_day
+2018,2747,Wofford Terriers,2018-01-04,30.371300641774646,included_game_day
+2018,2747,Wofford Terriers,2018-01-06,28.806717039217993,included_game_day
+2018,2747,Wofford Terriers,2018-01-10,22.145701788277453,included_game_day
+2018,2747,Wofford Terriers,2018-01-13,32.82354871232478,included_game_day
+2018,2747,Wofford Terriers,2018-01-18,30.381433892049543,included_game_day
+2018,2747,Wofford Terriers,2018-01-20,20.069603297778787,included_game_day
+2018,2747,Wofford Terriers,2018-01-24,27.713233669804826,included_game_day
+2018,2747,Wofford Terriers,2018-01-27,18.946693183565543,included_game_day
+2018,2747,Wofford Terriers,2018-01-29,14.29720921162409,included_game_day
+2018,2747,Wofford Terriers,2018-02-01,5.1699920336197405,included_game_day
+2018,2747,Wofford Terriers,2018-02-03,-1.0085202292559128,included_game_day
+2018,2747,Wofford Terriers,2018-02-07,1.098784731678986,included_game_day
+2018,2747,Wofford Terriers,2018-02-10,-16.411435359644706,included_game_day
+2018,2747,Wofford Terriers,2018-02-15,-2.667825197409016,included_game_day
+2018,2747,Wofford Terriers,2018-02-17,3.1585377650051027,included_game_day
+2018,2747,Wofford Terriers,2018-02-20,-2.7532692488412094,included_game_day
+2018,2747,Wofford Terriers,2018-02-23,9.57990304663215,included_game_day
+2018,2747,Wofford Terriers,2018-02-25,7.841407822287742,included_game_day
+2018,2747,Wofford Terriers,2018-03-03,30.450611642812216,included_game_day
+2018,2747,Wofford Terriers,2018-03-04,33.87540770613202,included_game_day
+2018,2747,Wofford Terriers,2018-03-16,24.703063548174455,included_game_day
+2019,2747,Wofford Terriers,2018-11-06,-14.0,included_game_day
+2019,2747,Wofford Terriers,2018-11-10,-2.3000000000000007,included_game_day
+2019,2747,Wofford Terriers,2018-11-18,-6.15,included_game_day
+2019,2747,Wofford Terriers,2018-11-21,14.338199999999999,included_game_day
+2019,2747,Wofford Terriers,2018-11-26,39.57188,included_game_day
+2019,2747,Wofford Terriers,2018-12-01,53.78727577,included_game_day
+2019,2747,Wofford Terriers,2018-12-04,30.549359725000002,included_game_day
+2019,2747,Wofford Terriers,2018-12-09,37.417751327000005,included_game_day
+2019,2747,Wofford Terriers,2018-12-15,62.15614048098001,included_game_day
+2019,2747,Wofford Terriers,2018-12-19,56.305569429631404,included_game_day
+2019,2747,Wofford Terriers,2018-12-29,65.25118462449018,included_game_day
+2019,2747,Wofford Terriers,2019-01-03,87.72859033557849,included_game_day
+2019,2747,Wofford Terriers,2019-01-05,79.43180637260281,included_game_day
+2019,2747,Wofford Terriers,2019-01-10,107.2071796952953,included_game_day
+2019,2747,Wofford Terriers,2019-01-12,103.68556428305035,included_game_day
+2019,2747,Wofford Terriers,2019-01-19,101.22146508707743,included_game_day
+2019,2747,Wofford Terriers,2019-01-24,88.7005257640808,included_game_day
+2019,2747,Wofford Terriers,2019-01-26,83.91131035013825,included_game_day
+2019,2747,Wofford Terriers,2019-01-31,89.04153822539266,included_game_day
+2019,2747,Wofford Terriers,2019-02-02,114.90967484315591,included_game_day
+2019,2747,Wofford Terriers,2019-02-07,117.1140100142103,included_game_day
+2019,2747,Wofford Terriers,2019-02-09,122.17397323929868,included_game_day
+2019,2747,Wofford Terriers,2019-02-14,109.29169296608605,included_game_day
+2019,2747,Wofford Terriers,2019-02-16,132.07440014397017,included_game_day
+2019,2747,Wofford Terriers,2019-02-23,141.73496411943376,included_game_day
+2019,2747,Wofford Terriers,2019-02-28,151.71725545031975,included_game_day
+2019,2747,Wofford Terriers,2019-03-02,159.9866197400558,included_game_day
+2019,2747,Wofford Terriers,2019-03-09,165.42808281376787,included_game_day
+2019,2747,Wofford Terriers,2019-03-10,163.03703167970207,included_game_day
+2019,2747,Wofford Terriers,2019-03-11,165.3653913194237,included_game_day
+2019,2747,Wofford Terriers,2019-03-21,173.90050312419848,included_game_day
+2019,2747,Wofford Terriers,2019-03-23,169.03595302600587,included_game_day
+2020,2747,Wofford Terriers,2019-11-09,23.3,included_game_day
+2020,2747,Wofford Terriers,2019-11-12,19.57,included_game_day
+2020,2747,Wofford Terriers,2019-11-16,6.8260000000000005,included_game_day
+2020,2747,Wofford Terriers,2019-11-18,-5.672599999999999,included_game_day
+2020,2747,Wofford Terriers,2019-11-21,-18.075339999999997,included_game_day
+2020,2747,Wofford Terriers,2019-11-26,2.543407900000002,included_game_day
+2020,2747,Wofford Terriers,2019-12-02,11.677918110000002,included_game_day
+2020,2747,Wofford Terriers,2019-12-07,10.516254549000001,included_game_day
+2020,2747,Wofford Terriers,2019-12-15,18.678060084083,included_game_day
+2020,2747,Wofford Terriers,2019-12-19,2.5699060832936986,included_game_day
+2020,2747,Wofford Terriers,2019-12-22,5.9460158818562405,included_game_day
+2020,2747,Wofford Terriers,2020-01-01,14.674082789412031,included_game_day
+2020,2747,Wofford Terriers,2020-01-04,21.865931708751283,included_game_day
+2020,2747,Wofford Terriers,2020-01-08,22.81537829545501,included_game_day
+2020,2747,Wofford Terriers,2020-01-11,15.23510028204957,included_game_day
+2020,2747,Wofford Terriers,2020-01-15,6.851158702725838,included_game_day
+2020,2747,Wofford Terriers,2020-01-17,22.525878435459994,included_game_day
+2020,2747,Wofford Terriers,2020-01-22,24.97097471531964,included_game_day
+2020,2747,Wofford Terriers,2020-01-25,16.748652123515996,included_game_day
+2020,2747,Wofford Terriers,2020-01-29,33.51299788120076,included_game_day
+2020,2747,Wofford Terriers,2020-02-01,41.519102626485655,included_game_day
+2020,2747,Wofford Terriers,2020-02-05,42.64548169999102,included_game_day
+2020,2747,Wofford Terriers,2020-02-08,29.311093668285597,included_game_day
+2020,2747,Wofford Terriers,2020-02-12,19.583483208370495,included_game_day
+2020,2747,Wofford Terriers,2020-02-15,7.863921552258404,included_game_day
+2020,2747,Wofford Terriers,2020-02-19,15.076590719268703,included_game_day
+2020,2747,Wofford Terriers,2020-02-22,21.98784457570593,included_game_day
+2020,2747,Wofford Terriers,2020-02-26,18.96621825349741,included_game_day
+2020,2747,Wofford Terriers,2020-02-29,11.088858882853154,included_game_day
+2020,2747,Wofford Terriers,2020-03-06,14.281001886184976,included_game_day
+2020,2747,Wofford Terriers,2020-03-07,29.56239764887079,included_game_day
+2020,2747,Wofford Terriers,2020-03-08,33.83173416682798,included_game_day
+2020,2747,Wofford Terriers,2020-03-09,26.009557193503905,included_game_day
+2021,2747,Wofford Terriers,2020-12-07,1.1529999999999996,included_game_day
+2021,2747,Wofford Terriers,2020-12-12,-1.77193537,included_game_day
+2021,2747,Wofford Terriers,2020-12-15,6.632258167,included_game_day
+2021,2747,Wofford Terriers,2020-12-21,-7.3641768117,included_game_day
+2021,2747,Wofford Terriers,2020-12-29,11.990253713292,included_game_day
+2021,2747,Wofford Terriers,2021-01-02,19.2767771541948,included_game_day
+2021,2747,Wofford Terriers,2021-01-06,5.66025648854132,included_game_day
+2021,2747,Wofford Terriers,2021-01-09,12.767039956018536,included_game_day
+2021,2747,Wofford Terriers,2021-01-13,16.071286189835362,included_game_day
+2021,2747,Wofford Terriers,2021-01-16,38.06956237451975,included_game_day
+2021,2747,Wofford Terriers,2021-01-23,42.359787048565096,included_game_day
+2021,2747,Wofford Terriers,2021-01-27,30.923610849878834,included_game_day
+2021,2747,Wofford Terriers,2021-01-30,30.15856699379343,included_game_day
+2021,2747,Wofford Terriers,2021-02-01,34.79378939914002,included_game_day
+2021,2747,Wofford Terriers,2021-02-03,25.57015638126589,included_game_day
+2021,2747,Wofford Terriers,2021-02-06,39.92520992545779,included_game_day
+2021,2747,Wofford Terriers,2021-02-10,22.803889658564348,included_game_day
+2021,2747,Wofford Terriers,2021-02-13,5.016757741252089,included_game_day
+2021,2747,Wofford Terriers,2021-02-17,13.893063384018216,included_game_day
+2021,2747,Wofford Terriers,2021-02-20,34.56118209798825,included_game_day
+2021,2747,Wofford Terriers,2021-02-27,35.954661591479415,included_game_day
+2021,2747,Wofford Terriers,2021-03-06,35.32915216592109,included_game_day
+2022,2747,Wofford Terriers,2021-11-12,-4.2,included_game_day
+2022,2747,Wofford Terriers,2021-11-19,8.227,included_game_day
+2022,2747,Wofford Terriers,2021-11-21,26.24073,included_game_day
+2022,2747,Wofford Terriers,2021-11-23,17.655157,included_game_day
+2022,2747,Wofford Terriers,2021-11-28,20.029230575,included_game_day
+2022,2747,Wofford Terriers,2021-12-01,6.8210529875,included_game_day
+2022,2747,Wofford Terriers,2021-12-05,26.95788869675,included_game_day
+2022,2747,Wofford Terriers,2021-12-08,34.62651980155,included_game_day
+2022,2747,Wofford Terriers,2021-12-12,33.654733510341,included_game_day
+2022,2747,Wofford Terriers,2021-12-18,56.5357003286999,included_game_day
+2022,2747,Wofford Terriers,2021-12-29,42.34258720342346,included_game_day
+2022,2747,Wofford Terriers,2022-01-05,34.785605036550635,included_game_day
+2022,2747,Wofford Terriers,2022-01-08,42.600708548716014,included_game_day
+2022,2747,Wofford Terriers,2022-01-10,38.32625491995822,included_game_day
+2022,2747,Wofford Terriers,2022-01-12,53.16047362888003,included_game_day
+2022,2747,Wofford Terriers,2022-01-15,65.6392514931758,included_game_day
+2022,2747,Wofford Terriers,2022-01-19,63.78511019556318,included_game_day
+2022,2747,Wofford Terriers,2022-01-22,36.51487057386041,included_game_day
+2022,2747,Wofford Terriers,2022-01-26,31.597814599300712,included_game_day
+2022,2747,Wofford Terriers,2022-01-29,44.03163336571326,included_game_day
+2022,2747,Wofford Terriers,2022-01-31,33.08339034816547,included_game_day
+2022,2747,Wofford Terriers,2022-02-05,25.948463416659017,included_game_day
+2022,2747,Wofford Terriers,2022-02-09,19.36602868269477,included_game_day
+2022,2747,Wofford Terriers,2022-02-12,17.41050267900995,included_game_day
+2022,2747,Wofford Terriers,2022-02-16,22.730400623356342,included_game_day
+2022,2747,Wofford Terriers,2022-02-19,30.531943778781827,included_game_day
+2022,2747,Wofford Terriers,2022-02-23,43.05752411044051,included_game_day
+2022,2747,Wofford Terriers,2022-02-26,40.421909907304254,included_game_day
+2022,2747,Wofford Terriers,2022-03-05,37.278596264229115,included_game_day
+2022,2747,Wofford Terriers,2022-03-06,15.25838826919951,included_game_day
+2023,2747,Wofford Terriers,2022-11-12,-8.0,included_game_day
+2023,2747,Wofford Terriers,2022-11-14,-9.76,included_game_day
+2023,2747,Wofford Terriers,2022-11-18,-10.859,included_game_day
+2023,2747,Wofford Terriers,2022-11-20,-4.56681,included_game_day
+2023,2747,Wofford Terriers,2022-11-27,1.5182207099999996,included_game_day
+2023,2747,Wofford Terriers,2022-12-01,6.036159073999999,included_game_day
+2023,2747,Wofford Terriers,2022-12-03,6.3410167785999985,included_game_day
+2023,2747,Wofford Terriers,2022-12-06,10.02401637429,included_game_day
+2023,2747,Wofford Terriers,2022-12-10,-13.996384533139,included_game_day
+2023,2747,Wofford Terriers,2022-12-20,-0.31239521384408064,included_game_day
+2023,2747,Wofford Terriers,2022-12-29,-8.00840035636217,included_game_day
+2023,2747,Wofford Terriers,2022-12-31,-18.58163209330653,included_game_day
+2023,2747,Wofford Terriers,2023-01-04,-15.44311469111221,included_game_day
+2023,2747,Wofford Terriers,2023-01-07,-3.5333911487695673,included_game_day
+2023,2747,Wofford Terriers,2023-01-11,-23.86457981070088,included_game_day
+2023,2747,Wofford Terriers,2023-01-14,-12.75051187660469,included_game_day
+2023,2747,Wofford Terriers,2023-01-18,-15.966030727047357,included_game_day
+2023,2747,Wofford Terriers,2023-01-22,-26.660414572257046,included_game_day
+2023,2747,Wofford Terriers,2023-01-25,-16.044560813614062,included_game_day
+2023,2747,Wofford Terriers,2023-01-28,-5.858311686533405,included_game_day
+2023,2747,Wofford Terriers,2023-02-01,-30.394704781414845,included_game_day
+2023,2747,Wofford Terriers,2023-02-04,-29.070204184800733,included_game_day
+2023,2747,Wofford Terriers,2023-02-08,-35.86309492040758,included_game_day
+2023,2747,Wofford Terriers,2023-02-12,-30.59019038472708,included_game_day
+2023,2747,Wofford Terriers,2023-02-15,-31.192228023333335,included_game_day
+2023,2747,Wofford Terriers,2023-02-18,-27.81796536967758,included_game_day
+2023,2747,Wofford Terriers,2023-02-22,-40.73101196438726,included_game_day
+2023,2747,Wofford Terriers,2023-02-25,-28.5171772153157,included_game_day
+2023,2747,Wofford Terriers,2023-03-04,-18.32045491065586,included_game_day
+2023,2747,Wofford Terriers,2023-03-05,-28.90921690487495,included_game_day
+2024,2747,Wofford Terriers,2023-11-11,-2.0,included_game_day
+2024,2747,Wofford Terriers,2023-11-14,-15.09,included_game_day
+2024,2747,Wofford Terriers,2023-11-19,-27.863,included_game_day
+2024,2747,Wofford Terriers,2023-11-24,-34.8579,included_game_day
+2024,2747,Wofford Terriers,2023-11-25,-38.77142,included_game_day
+2024,2747,Wofford Terriers,2023-11-26,-41.322569,included_game_day
+2024,2747,Wofford Terriers,2023-12-02,-27.29066535,included_game_day
+2024,2747,Wofford Terriers,2023-12-06,-8.2832984725,included_game_day
+2024,2747,Wofford Terriers,2023-12-09,-1.0013867212500003,included_game_day
+2024,2747,Wofford Terriers,2023-12-20,1.7622225306240988,included_game_day
+2024,2747,Wofford Terriers,2024-01-03,-6.714890390750037,included_game_day
+2024,2747,Wofford Terriers,2024-01-06,-3.7791018977806585,included_game_day
+2024,2747,Wofford Terriers,2024-01-10,-6.815728496647524,included_game_day
+2024,2747,Wofford Terriers,2024-01-13,-3.6278218887815914,included_game_day
+2024,2747,Wofford Terriers,2024-01-17,-6.175786489953269,included_game_day
+2024,2747,Wofford Terriers,2024-01-20,-22.464009813366516,included_game_day
+2024,2747,Wofford Terriers,2024-01-24,-34.98215066995093,included_game_day
+2024,2747,Wofford Terriers,2024-01-27,-20.104805930570738,included_game_day
+2024,2747,Wofford Terriers,2024-01-31,-10.229410007984114,included_game_day
+2024,2747,Wofford Terriers,2024-02-03,-6.470241891475738,included_game_day
+2024,2747,Wofford Terriers,2024-02-07,-12.021964213855902,included_game_day
+2024,2747,Wofford Terriers,2024-02-10,-5.094767140202174,included_game_day
+2024,2747,Wofford Terriers,2024-02-14,8.407214617964732,included_game_day
+2024,2747,Wofford Terriers,2024-02-17,-5.638684691354285,included_game_day
+2024,2747,Wofford Terriers,2024-02-21,-14.115280956943456,included_game_day
+2024,2747,Wofford Terriers,2024-02-24,-21.07667076399582,included_game_day
+2024,2747,Wofford Terriers,2024-02-28,10.183457523837603,included_game_day
+2024,2747,Wofford Terriers,2024-03-02,4.920340006939277,included_game_day
+2024,2747,Wofford Terriers,2024-03-09,-12.171114635592613,included_game_day
+2025,2747,Wofford Terriers,2024-11-09,-6.58,included_game_day
+2025,2747,Wofford Terriers,2024-11-13,-6.782,included_game_day
+2025,2747,Wofford Terriers,2024-11-16,-47.923199999999994,included_game_day
+2025,2747,Wofford Terriers,2024-11-22,-35.29254999999999,included_game_day
+2025,2747,Wofford Terriers,2024-11-23,-30.693257999999993,included_game_day
+2025,2747,Wofford Terriers,2024-11-24,-36.13204199999999,included_game_day
+2025,2747,Wofford Terriers,2024-12-01,-16.137716639999994,included_game_day
+2025,2747,Wofford Terriers,2024-12-04,6.065417771500005,included_game_day
+2025,2747,Wofford Terriers,2024-12-07,-11.707707254649996,included_game_day
+2025,2747,Wofford Terriers,2024-12-16,-17.229852467734997,included_game_day
+2025,2747,Wofford Terriers,2024-12-18,-11.282643539863496,included_game_day
+2025,2747,Wofford Terriers,2025-01-01,-14.866322731570197,included_game_day
+2025,2747,Wofford Terriers,2025-01-04,-4.23674829236816,included_game_day
+2025,2747,Wofford Terriers,2025-01-08,-10.869833615255043,included_game_day
+2025,2747,Wofford Terriers,2025-01-13,14.387555433003978,included_game_day
+2025,2747,Wofford Terriers,2025-01-15,15.227582564290728,included_game_day
+2025,2747,Wofford Terriers,2025-01-18,28.134184789353125,included_game_day
+2025,2747,Wofford Terriers,2025-01-22,22.525494959360454,included_game_day
+2025,2747,Wofford Terriers,2025-01-25,10.832924922209987,included_game_day
+2025,2747,Wofford Terriers,2025-01-29,-5.181563283299834,included_game_day
+2025,2747,Wofford Terriers,2025-02-01,13.101111120944314,included_game_day
+2025,2747,Wofford Terriers,2025-02-05,3.608463113452977,included_game_day
+2025,2747,Wofford Terriers,2025-02-08,14.904278981491068,included_game_day
+2025,2747,Wofford Terriers,2025-02-12,4.843867558433491,included_game_day
+2025,2747,Wofford Terriers,2025-02-15,-2.751739320035357,included_game_day
+2025,2747,Wofford Terriers,2025-02-19,34.618367645489386,included_game_day
+2025,2747,Wofford Terriers,2025-02-22,25.92639842860664,included_game_day
+2025,2747,Wofford Terriers,2025-02-26,40.12178871825225,included_game_day
+2025,2747,Wofford Terriers,2025-03-01,33.113468582643534,included_game_day
+2025,2747,Wofford Terriers,2025-03-08,44.26244116631576,included_game_day
+2025,2747,Wofford Terriers,2025-03-09,52.90289695388009,included_game_day
+2025,2747,Wofford Terriers,2025-03-10,60.33974472784672,included_game_day
+2025,2747,Wofford Terriers,2025-03-20,57.267690176350605,included_game_day
+2026,2747,Wofford Terriers,2025-11-03,-21.0,included_game_day
+2026,2747,Wofford Terriers,2025-11-08,-11.8,included_game_day
+2026,2747,Wofford Terriers,2025-11-11,-35.03,included_game_day
+2026,2747,Wofford Terriers,2025-11-15,-26.447000000000003,included_game_day
+2026,2747,Wofford Terriers,2025-11-19,-24.718300000000003,included_game_day
+2026,2747,Wofford Terriers,2025-11-26,-29.854886200000003,included_game_day
+2026,2747,Wofford Terriers,2025-11-29,-23.571719380000005,included_game_day
+2026,2747,Wofford Terriers,2025-12-03,-20.058805090600003,included_game_day
+2026,2747,Wofford Terriers,2025-12-06,-42.53173768544001,included_game_day
+2026,2747,Wofford Terriers,2025-12-15,-23.174144187082007,included_game_day
+2026,2747,Wofford Terriers,2025-12-17,-23.974808902797204,included_game_day
+2026,2747,Wofford Terriers,2025-12-31,-21.48312422369473,included_game_day
+2026,2747,Wofford Terriers,2026-01-03,-18.167097128545556,included_game_day
+2026,2747,Wofford Terriers,2026-01-07,-12.63291322434786,included_game_day
+2026,2747,Wofford Terriers,2026-01-10,-18.34451538581226,included_game_day
+2026,2747,Wofford Terriers,2026-01-14,-34.95349367936825,included_game_day
+2026,2747,Wofford Terriers,2026-01-17,-23.390391618527882,included_game_day
+2026,2747,Wofford Terriers,2026-01-21,-18.812306230934695,included_game_day
+2026,2747,Wofford Terriers,2026-01-24,-14.120547783642856,included_game_day
+2026,2747,Wofford Terriers,2026-01-29,11.851477026204673,included_game_day
+2026,2747,Wofford Terriers,2026-02-01,-3.276519557571657,included_game_day
+2026,2747,Wofford Terriers,2026-02-04,-1.649194423215663,included_game_day
+2026,2747,Wofford Terriers,2026-02-07,1.0100093378342123,included_game_day
+2026,2747,Wofford Terriers,2026-02-11,-12.86980064947807,included_game_day
+2026,2747,Wofford Terriers,2026-02-14,-25.377589532882347,included_game_day
+2026,2747,Wofford Terriers,2026-02-18,-37.23942122511997,included_game_day
+2026,2747,Wofford Terriers,2026-02-21,-47.19892743900364,included_game_day
+2026,2747,Wofford Terriers,2026-02-25,-32.61170568871931,included_game_day
+2026,2747,Wofford Terriers,2026-02-28,-48.99669504494348,included_game_day
+2026,2747,Wofford Terriers,2026-03-07,-52.33157791646023,included_game_day
+2027,2747,Wofford Terriers,2026-11-03,-28.0,included_game_day
+2027,2747,Wofford Terriers,2026-11-06,-60.7,included_game_day
+2027,2747,Wofford Terriers,2026-11-14,-60.740500000000004,included_game_day
+2027,2747,Wofford Terriers,2026-11-18,-51.21905,included_game_day
+2027,2747,Wofford Terriers,2026-11-21,-48.044859,included_game_day

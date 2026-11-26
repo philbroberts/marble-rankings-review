@@ -1,0 +1,631 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,2113,Centenary,1987-11-27,15.0,included_game_day
+1988,2113,Centenary,1987-11-28,-4.399999999999999,included_game_day
+1988,2113,Centenary,1987-11-30,-8.919999999999998,included_game_day
+1988,2113,Centenary,1987-12-04,-9.086999999999998,included_game_day
+1988,2113,Centenary,1987-12-05,-7.0882999999999985,included_game_day
+1988,2113,Centenary,1987-12-12,-58.8353557,included_game_day
+1988,2113,Centenary,1988-01-02,-47.167521266,included_game_day
+1988,2113,Centenary,1988-01-04,-43.91243027902087,included_game_day
+1988,2113,Centenary,1988-01-07,-60.289804970506836,included_game_day
+1988,2113,Centenary,1988-01-09,-53.57590132532006,included_game_day
+1988,2113,Centenary,1988-01-14,-50.10154539817936,included_game_day
+1988,2113,Centenary,1988-01-16,-60.66864931287985,included_game_day
+1988,2113,Centenary,1988-01-21,-49.61246425196625,included_game_day
+1988,2113,Centenary,1988-01-23,-46.42531764653401,included_game_day
+1988,2113,Centenary,1988-01-30,-42.13637052958041,included_game_day
+1988,2113,Centenary,1988-02-04,-31.740732815704924,included_game_day
+1988,2113,Centenary,1988-02-06,-28.948506151464485,included_game_day
+1988,2113,Centenary,1988-02-11,-31.49093603775175,included_game_day
+1988,2113,Centenary,1988-02-13,-39.46559978211164,included_game_day
+1988,2113,Centenary,1988-02-18,-31.489638465212565,included_game_day
+1988,2113,Centenary,1988-02-20,-22.321719582626734,included_game_day
+1988,2113,Centenary,1988-02-25,-44.06083163093234,included_game_day
+1988,2113,Centenary,1988-02-27,-44.61647893615939,included_game_day
+1988,2113,Centenary,1988-03-05,-39.06898073599797,included_game_day
+1988,2113,Centenary,1988-03-10,-55.51297135828291,included_game_day
+1989,2113,Centenary,1988-11-25,0.0,included_game_day
+1989,2113,Centenary,1988-11-26,-24.3,included_game_day
+1989,2113,Centenary,1988-11-30,-26.28,included_game_day
+1989,2113,Centenary,1988-12-05,-16.585700000000003,included_game_day
+1989,2113,Centenary,1988-12-09,-19.609701700000002,included_game_day
+1989,2113,Centenary,1988-12-10,-25.349848530000003,included_game_day
+1989,2113,Centenary,1988-12-17,-51.54798540785001,included_game_day
+1989,2113,Centenary,1988-12-31,-39.341871377301125,included_game_day
+1989,2113,Centenary,1989-01-04,-26.041210626384196,included_game_day
+1989,2113,Centenary,1989-01-07,-33.81838386399608,included_game_day
+1989,2113,Centenary,1989-01-12,-49.41447121692504,included_game_day
+1989,2113,Centenary,1989-01-14,-62.83489801862417,included_game_day
+1989,2113,Centenary,1989-01-19,-53.928451233797404,included_game_day
+1989,2113,Centenary,1989-01-21,-25.58057611101167,included_game_day
+1989,2113,Centenary,1989-01-26,-23.76341268697179,included_game_day
+1989,2113,Centenary,1989-01-28,-25.165215482307325,included_game_day
+1989,2113,Centenary,1989-02-04,-24.31074564043315,included_game_day
+1989,2113,Centenary,1989-02-09,-12.17636626977455,included_game_day
+1989,2113,Centenary,1989-02-11,-34.26086668437959,included_game_day
+1989,2113,Centenary,1989-02-16,-39.27667030416082,included_game_day
+1989,2113,Centenary,1989-02-18,-46.51842731025123,included_game_day
+1989,2113,Centenary,1989-02-23,-41.1480033227188,included_game_day
+1989,2113,Centenary,1989-02-25,-33.04420213269508,included_game_day
+1989,2113,Centenary,1989-03-02,-27.423341545703764,included_game_day
+1989,2113,Centenary,1989-03-04,-24.875808962898105,included_game_day
+1989,2113,Centenary,1989-03-07,-23.542862427775987,included_game_day
+1989,2113,Centenary,1989-03-08,-17.826655112582237,included_game_day
+1989,2113,Centenary,1989-03-09,-33.17907494319975,included_game_day
+1990,2113,Centenary,1989-11-24,5.0,included_game_day
+1990,2113,Centenary,1989-11-25,-13.8,included_game_day
+1990,2113,Centenary,1989-11-29,-44.84,included_game_day
+1990,2113,Centenary,1989-12-05,-30.947230000000005,included_game_day
+1990,2113,Centenary,1989-12-08,-11.723389000000005,included_game_day
+1990,2113,Centenary,1989-12-09,-38.5333527,included_game_day
+1990,2113,Centenary,1989-12-14,-33.583981539,included_game_day
+1990,2113,Centenary,1989-12-16,-10.8324596693,included_game_day
+1990,2113,Centenary,1989-12-18,-24.84492731237,included_game_day
+1990,2113,Centenary,1990-01-04,-9.965391322036705,included_game_day
+1990,2113,Centenary,1990-01-06,19.121179692298984,included_game_day
+1990,2113,Centenary,1990-01-11,15.56803965529297,included_game_day
+1990,2113,Centenary,1990-01-13,13.724219331669287,included_game_day
+1990,2113,Centenary,1990-01-18,27.61816958021782,included_game_day
+1990,2113,Centenary,1990-01-20,4.656231152755083,included_game_day
+1990,2113,Centenary,1990-01-23,-8.911349444735045,included_game_day
+1990,2113,Centenary,1990-02-01,-5.272514659035057,included_game_day
+1990,2113,Centenary,1990-02-03,-23.653997333670436,included_game_day
+1990,2113,Centenary,1990-02-08,-8.697930126742776,included_game_day
+1990,2113,Centenary,1990-02-10,-8.436463305851994,included_game_day
+1990,2113,Centenary,1990-02-15,8.895038785608836,included_game_day
+1990,2113,Centenary,1990-02-17,23.983880889212006,included_game_day
+1990,2113,Centenary,1990-03-01,23.487830239222802,included_game_day
+1990,2113,Centenary,1990-03-03,20.632856384008996,included_game_day
+1990,2113,Centenary,1990-03-06,12.521513249539012,included_game_day
+1990,2113,Centenary,1990-03-07,14.588024041596226,included_game_day
+1990,2113,Centenary,1990-03-08,8.998303726131352,included_game_day
+1991,2113,Centenary,1990-11-23,9.0,included_game_day
+1991,2113,Centenary,1990-11-24,1.2000000000000002,included_game_day
+1991,2113,Centenary,1990-11-26,15.079999999999998,included_game_day
+1991,2113,Centenary,1990-11-30,4.071999999999999,included_game_day
+1991,2113,Centenary,1990-12-01,-10.203780000000002,included_game_day
+1991,2113,Centenary,1990-12-05,-52.169222,included_game_day
+1991,2113,Centenary,1990-12-08,-48.8806898,included_game_day
+1991,2113,Centenary,1990-12-15,-39.292968213179996,included_game_day
+1991,2113,Centenary,1990-12-17,-69.28618078744199,included_game_day
+1991,2113,Centenary,1991-01-10,-69.55783954191548,included_game_day
+1991,2113,Centenary,1991-01-12,-76.66579930770365,included_game_day
+1991,2113,Centenary,1991-01-14,-94.02515435000451,included_game_day
+1991,2113,Centenary,1991-01-17,-84.9798614515567,included_game_day
+1991,2113,Centenary,1991-01-19,-79.17619992295248,included_game_day
+1991,2113,Centenary,1991-01-21,-116.21118356872479,included_game_day
+1991,2113,Centenary,1991-01-24,-130.84558958885515,included_game_day
+1991,2113,Centenary,1991-01-26,-120.85144889998914,included_game_day
+1991,2113,Centenary,1991-01-31,-124.24558574959649,included_game_day
+1991,2113,Centenary,1991-02-02,-113.04894805209778,included_game_day
+1991,2113,Centenary,1991-02-06,-108.58964331436127,included_game_day
+1991,2113,Centenary,1991-02-09,-83.61595617670652,included_game_day
+1991,2113,Centenary,1991-02-14,-76.44566718685601,included_game_day
+1991,2113,Centenary,1991-02-16,-61.074851030482066,included_game_day
+1991,2113,Centenary,1991-02-21,-51.563253104363724,included_game_day
+1991,2113,Centenary,1991-02-23,-44.53791651058984,included_game_day
+1991,2113,Centenary,1991-02-28,-40.78808134328844,included_game_day
+1991,2113,Centenary,1991-03-02,-57.82098211854235,included_game_day
+1991,2113,Centenary,1991-03-05,-56.26193370736818,included_game_day
+1991,2113,Centenary,1991-03-06,-60.56982478360646,included_game_day
+1992,2113,Centenary,1991-11-22,-1.0,included_game_day
+1992,2113,Centenary,1991-11-23,-2.7,included_game_day
+1992,2113,Centenary,1991-12-06,-20.9333,included_game_day
+1992,2113,Centenary,1991-12-07,-0.483234999999997,included_game_day
+1992,2113,Centenary,1991-12-14,-17.609313686999997,included_game_day
+1992,2113,Centenary,1991-12-16,-26.335632318299997,included_game_day
+1992,2113,Centenary,1992-01-04,-54.16271562726797,included_game_day
+1992,2113,Centenary,1992-01-09,-87.54532195556118,included_game_day
+1992,2113,Centenary,1992-01-11,-104.5317894349483,included_game_day
+1992,2113,Centenary,1992-01-16,-115.60484629419823,included_game_day
+1992,2113,Centenary,1992-01-18,-121.86307094724654,included_game_day
+1992,2113,Centenary,1992-01-23,-114.92072312822546,included_game_day
+1992,2113,Centenary,1992-01-25,-117.77614648885557,included_game_day
+1992,2113,Centenary,1992-01-27,-124.83752591336022,included_game_day
+1992,2113,Centenary,1992-01-30,-121.83928471439756,included_game_day
+1992,2113,Centenary,1992-02-01,-106.8784454244726,included_game_day
+1992,2113,Centenary,1992-02-08,-120.37425134385066,included_game_day
+1992,2113,Centenary,1992-02-13,-101.55657807000529,included_game_day
+1992,2113,Centenary,1992-02-15,-96.60295596034712,included_game_day
+1992,2113,Centenary,1992-02-17,-107.16807175972937,included_game_day
+1992,2113,Centenary,1992-02-20,-103.26575511015216,included_game_day
+1992,2113,Centenary,1992-02-22,-113.05745860967,included_game_day
+1992,2113,Centenary,1992-02-27,-99.6949361984423,included_game_day
+1992,2113,Centenary,1992-02-29,-105.63369322489687,included_game_day
+1992,2113,Centenary,1992-03-06,-106.38469884606053,included_game_day
+1993,2113,Centenary,1992-12-04,-17.5,included_game_day
+1993,2113,Centenary,1992-12-05,-13.7,included_game_day
+1993,2113,Centenary,1992-12-07,3.7669999999999995,included_game_day
+1993,2113,Centenary,1992-12-10,-15.6997,included_game_day
+1993,2113,Centenary,1992-12-19,-22.344484,included_game_day
+1993,2113,Centenary,1992-12-21,-41.49107133,included_game_day
+1993,2113,Centenary,1993-01-06,-52.21104781369611,included_game_day
+1993,2113,Centenary,1993-01-09,-48.18770846496734,included_game_day
+1993,2113,Centenary,1993-01-11,-63.59758930508704,included_game_day
+1993,2113,Centenary,1993-01-13,-62.149198827199655,included_game_day
+1993,2113,Centenary,1993-01-16,-54.23157083530587,included_game_day
+1993,2113,Centenary,1993-01-21,-56.276642492619,included_game_day
+1993,2113,Centenary,1993-01-23,-51.267297060957574,included_game_day
+1993,2113,Centenary,1993-01-28,-50.96664612516631,included_game_day
+1993,2113,Centenary,1993-01-30,-49.61047221322319,included_game_day
+1993,2113,Centenary,1993-02-03,-73.26808623607639,included_game_day
+1993,2113,Centenary,1993-02-06,-76.32259456518334,included_game_day
+1993,2113,Centenary,1993-02-11,-82.87546357336234,included_game_day
+1993,2113,Centenary,1993-02-13,-85.47269600938019,included_game_day
+1993,2113,Centenary,1993-02-18,-97.09582645254564,included_game_day
+1993,2113,Centenary,1993-02-20,-87.50937674992763,included_game_day
+1993,2113,Centenary,1993-02-25,-88.53630799608905,included_game_day
+1993,2113,Centenary,1993-02-27,-100.58169317044171,included_game_day
+1994,2113,Centenary,1993-11-27,-14.0,included_game_day
+1994,2113,Centenary,1993-12-03,1.0350000000000001,included_game_day
+1994,2113,Centenary,1993-12-04,-5.468499999999999,included_game_day
+1994,2113,Centenary,1993-12-18,19.67865,included_game_day
+1994,2113,Centenary,1994-01-03,18.2828750051019,included_game_day
+1994,2113,Centenary,1994-01-06,3.761850320597894,included_game_day
+1994,2113,Centenary,1994-01-08,6.44723968652845,included_game_day
+1994,2113,Centenary,1994-01-13,6.194186712242698,included_game_day
+1994,2113,Centenary,1994-01-15,20.109180872497035,included_game_day
+1994,2113,Centenary,1994-01-20,17.248031440343084,included_game_day
+1994,2113,Centenary,1994-01-22,19.32874325591139,included_game_day
+1994,2113,Centenary,1994-01-27,6.087770297849342,included_game_day
+1994,2113,Centenary,1994-01-29,15.552012438273882,included_game_day
+1994,2113,Centenary,1994-01-31,1.9675881888878894,included_game_day
+1994,2113,Centenary,1994-02-03,-8.215867022692484,included_game_day
+1994,2113,Centenary,1994-02-05,-5.3276281396696215,included_game_day
+1994,2113,Centenary,1994-02-08,-1.4481121948802183,included_game_day
+1994,2113,Centenary,1994-02-10,-7.37015625865094,included_game_day
+1994,2113,Centenary,1994-02-12,-6.431822624706297,included_game_day
+1994,2113,Centenary,1994-02-17,-4.274523494244295,included_game_day
+1994,2113,Centenary,1994-02-19,-24.749328084186292,included_game_day
+1994,2113,Centenary,1994-02-21,-27.58713244617875,included_game_day
+1994,2113,Centenary,1994-02-26,-40.22816738677659,included_game_day
+1994,2113,Centenary,1994-02-28,-30.81572263493807,included_game_day
+1994,2113,Centenary,1994-03-03,-27.74457214853295,included_game_day
+1994,2113,Centenary,1994-03-04,-27.60134573581313,included_game_day
+1995,2113,Centenary,1994-11-26,-12.0,included_game_day
+1995,2113,Centenary,1994-11-28,-33.8,included_game_day
+1995,2113,Centenary,1994-12-02,-19.419999999999998,included_game_day
+1995,2113,Centenary,1994-12-03,-18.018,included_game_day
+1995,2113,Centenary,1994-12-06,-36.78575,included_game_day
+1995,2113,Centenary,1994-12-10,-59.067175,included_game_day
+1995,2113,Centenary,1994-12-17,-51.5986575,included_game_day
+1995,2113,Centenary,1995-01-02,-57.636027747065484,included_game_day
+1995,2113,Centenary,1995-01-04,-55.39428072119893,included_game_day
+1995,2113,Centenary,1995-01-07,-61.22782813494493,included_game_day
+1995,2113,Centenary,1995-01-09,-69.20296991688991,included_game_day
+1995,2113,Centenary,1995-01-12,-63.00375335097846,included_game_day
+1995,2113,Centenary,1995-01-14,-90.01289907758134,included_game_day
+1995,2113,Centenary,1995-01-19,-103.22374352279546,included_game_day
+1995,2113,Centenary,1995-01-21,-98.50222314613784,included_game_day
+1995,2113,Centenary,1995-01-28,-86.92136326852206,included_game_day
+1995,2113,Centenary,1995-01-30,-74.62032218817104,included_game_day
+1995,2113,Centenary,1995-02-04,-70.9461683499386,included_game_day
+1995,2113,Centenary,1995-02-06,-75.62610152015066,included_game_day
+1995,2113,Centenary,1995-02-11,-83.75492176394262,included_game_day
+1995,2113,Centenary,1995-02-13,-73.1616445162499,included_game_day
+1995,2113,Centenary,1995-02-18,-67.72205396865402,included_game_day
+1995,2113,Centenary,1995-02-20,-69.01069275193397,included_game_day
+1995,2113,Centenary,1995-02-23,-60.522723589241174,included_game_day
+1995,2113,Centenary,1995-02-25,-51.57084119129962,included_game_day
+1995,2113,Centenary,1995-03-02,-52.50819633273793,included_game_day
+1996,2113,Centenary,1995-11-22,-16.0,included_game_day
+1996,2113,Centenary,1995-12-02,-10.4,included_game_day
+1996,2113,Centenary,1995-12-06,-19.2947,included_game_day
+1996,2113,Centenary,1995-12-08,-18.716369999999998,included_game_day
+1996,2113,Centenary,1995-12-09,-18.247293699999997,included_game_day
+1996,2113,Centenary,1995-12-16,-26.34857743,included_game_day
+1996,2113,Centenary,1995-12-19,-21.675051063999998,included_game_day
+1996,2113,Centenary,1996-01-04,-21.939213708872998,included_game_day
+1996,2113,Centenary,1996-01-06,-11.399472331964187,included_game_day
+1996,2113,Centenary,1996-01-11,9.491706545458076,included_game_day
+1996,2113,Centenary,1996-01-13,-12.433246850493585,included_game_day
+1996,2113,Centenary,1996-01-18,-8.362970785498298,included_game_day
+1996,2113,Centenary,1996-01-20,-16.647391145619615,included_game_day
+1996,2113,Centenary,1996-01-23,-30.066685412307898,included_game_day
+1996,2113,Centenary,1996-01-27,-37.6149899870593,included_game_day
+1996,2113,Centenary,1996-02-01,-58.55765130001348,included_game_day
+1996,2113,Centenary,1996-02-05,-53.58579655522356,included_game_day
+1996,2113,Centenary,1996-02-08,-44.986330122883416,included_game_day
+1996,2113,Centenary,1996-02-10,-41.46417274183683,included_game_day
+1996,2113,Centenary,1996-02-15,-49.96841017977053,included_game_day
+1996,2113,Centenary,1996-02-17,-30.865693803367108,included_game_day
+1996,2113,Centenary,1996-02-19,-46.729578979540484,included_game_day
+1996,2113,Centenary,1996-02-22,-66.21481290214557,included_game_day
+1996,2113,Centenary,1996-02-24,-76.8336261864068,included_game_day
+1996,2113,Centenary,1996-02-29,-86.188621811854,included_game_day
+1997,2113,Centenary,1996-11-23,-13.0,included_game_day
+1997,2113,Centenary,1996-11-25,-38.1,included_game_day
+1997,2113,Centenary,1996-11-27,-58.58,included_game_day
+1997,2113,Centenary,1996-12-02,-63.122,included_game_day
+1997,2113,Centenary,1996-12-07,-59.31186,included_game_day
+1997,2113,Centenary,1996-12-14,-84.63197082,included_game_day
+1997,2113,Centenary,1996-12-16,-84.89740273800001,included_game_day
+1997,2113,Centenary,1996-12-19,-97.34982471420001,included_game_day
+1997,2113,Centenary,1997-01-02,-107.19814155090239,included_game_day
+1997,2113,Centenary,1997-01-04,-116.44508402060089,included_game_day
+1997,2113,Centenary,1997-01-06,-124.81329461803924,included_game_day
+1997,2113,Centenary,1997-01-09,-115.35778726663256,included_game_day
+1997,2113,Centenary,1997-01-11,-119.24088357855516,included_game_day
+1997,2113,Centenary,1997-01-16,-112.42371463983868,included_game_day
+1997,2113,Centenary,1997-01-18,-131.61164603048442,included_game_day
+1997,2113,Centenary,1997-01-25,-128.47616985637285,included_game_day
+1997,2113,Centenary,1997-01-30,-98.61259911657028,included_game_day
+1997,2113,Centenary,1997-02-01,-110.3093447396741,included_game_day
+1997,2113,Centenary,1997-02-06,-121.86598899105732,included_game_day
+1997,2113,Centenary,1997-02-08,-128.32123571470063,included_game_day
+1997,2113,Centenary,1997-02-13,-117.61989112449999,included_game_day
+1997,2113,Centenary,1997-02-15,-110.7371906082421,included_game_day
+1997,2113,Centenary,1997-02-20,-101.35701623300875,included_game_day
+1997,2113,Centenary,1997-02-22,-99.7561942203576,included_game_day
+1997,2113,Centenary,1997-02-27,-95.47553661023667,included_game_day
+1998,2113,Centenary,1997-11-15,-21.0,included_game_day
+1998,2113,Centenary,1997-11-19,-32.9,included_game_day
+1998,2113,Centenary,1997-11-22,-35.619,included_game_day
+1998,2113,Centenary,1997-11-24,-47.0571,included_game_day
+1998,2113,Centenary,1997-11-29,-44.23469,included_game_day
+1998,2113,Centenary,1997-12-01,-39.703191000000004,included_game_day
+1998,2113,Centenary,1997-12-06,-66.0131878,included_game_day
+1998,2113,Centenary,1997-12-08,-46.427574889999995,included_game_day
+1998,2113,Centenary,1997-12-13,-46.138617751,included_game_day
+1998,2113,Centenary,1997-12-14,-66.08923103469999,included_game_day
+1998,2113,Centenary,1997-12-18,-55.77121107544999,included_game_day
+1998,2113,Centenary,1997-12-21,-46.79201817255499,included_game_day
+1998,2113,Centenary,1997-12-29,-63.05602549561674,included_game_day
+1998,2113,Centenary,1998-01-03,-69.71227770327548,included_game_day
+1998,2113,Centenary,1998-01-05,-76.17914725908227,included_game_day
+1998,2113,Centenary,1998-01-10,-83.73301701021762,included_game_day
+1998,2113,Centenary,1998-01-12,-94.82990137458401,included_game_day
+1998,2113,Centenary,1998-01-15,-76.78863594482887,included_game_day
+1998,2113,Centenary,1998-01-17,-67.10067019325444,included_game_day
+1998,2113,Centenary,1998-01-23,-63.77570732899733,included_game_day
+1998,2113,Centenary,1998-01-29,-60.44372334105715,included_game_day
+1998,2113,Centenary,1998-01-31,-68.28908236693188,included_game_day
+1998,2113,Centenary,1998-02-02,-71.06110613380733,included_game_day
+1998,2113,Centenary,1998-02-05,-52.12863638152561,included_game_day
+1998,2113,Centenary,1998-02-07,-49.74966615808544,included_game_day
+1998,2113,Centenary,1998-02-12,-58.76556308054066,included_game_day
+1998,2113,Centenary,1998-02-14,-47.38781975522157,included_game_day
+1998,2113,Centenary,1998-02-19,-45.37425338701236,included_game_day
+1998,2113,Centenary,1998-02-21,-48.386968979692796,included_game_day
+1998,2113,Centenary,1998-02-26,-60.32190494682934,included_game_day
+1999,2113,Centenary,1998-11-14,4.0,included_game_day
+1999,2113,Centenary,1998-11-21,0.7199999999999998,included_game_day
+1999,2113,Centenary,1998-11-29,-27.141000000000002,included_game_day
+1999,2113,Centenary,1998-12-02,-18.416900000000002,included_game_day
+1999,2113,Centenary,1998-12-05,-23.418518400000004,included_game_day
+1999,2113,Centenary,1998-12-08,-15.346974500000004,included_game_day
+1999,2113,Centenary,1998-12-12,-16.530086060000002,included_game_day
+1999,2113,Centenary,1998-12-18,-31.183842891020003,included_game_day
+1999,2113,Centenary,1998-12-30,-46.386187695363965,included_game_day
+1999,2113,Centenary,1999-01-02,-31.033200168782045,included_game_day
+1999,2113,Centenary,1999-01-04,-41.625145232604694,included_game_day
+1999,2113,Centenary,1999-01-09,-41.76507476282748,included_game_day
+1999,2113,Centenary,1999-01-11,-33.74312380299273,included_game_day
+1999,2113,Centenary,1999-01-16,-45.942272366584334,included_game_day
+1999,2113,Centenary,1999-01-18,-36.85886599881185,included_game_day
+1999,2113,Centenary,1999-01-23,-27.615360995291198,included_game_day
+1999,2113,Centenary,1999-01-25,-35.773486599141776,included_game_day
+1999,2113,Centenary,1999-01-28,-48.23476517088316,included_game_day
+1999,2113,Centenary,1999-02-02,-48.74966875510683,included_game_day
+1999,2113,Centenary,1999-02-06,-46.56809557335522,included_game_day
+1999,2113,Centenary,1999-02-08,-43.544891494672726,included_game_day
+1999,2113,Centenary,1999-02-13,-48.636571248406625,included_game_day
+1999,2113,Centenary,1999-02-15,-47.847288127114794,included_game_day
+1999,2113,Centenary,1999-02-18,-64.53055986784398,included_game_day
+1999,2113,Centenary,1999-02-20,-58.96694119678922,included_game_day
+1999,2113,Centenary,1999-02-25,-50.63350107057819,included_game_day
+1999,2113,Centenary,1999-02-26,-49.607712818419714,included_game_day
+2000,2113,Centenary,1999-11-20,0.0,included_game_day
+2000,2113,Centenary,1999-11-26,-16.2974,included_game_day
+2000,2113,Centenary,1999-11-27,-23.83446,included_game_day
+2000,2113,Centenary,1999-12-01,-20.251014,included_game_day
+2000,2113,Centenary,1999-12-04,-22.459877500000005,included_game_day
+2000,2113,Centenary,1999-12-08,-7.843823250000003,included_game_day
+2000,2113,Centenary,1999-12-11,-20.849754930100005,included_game_day
+2000,2113,Centenary,1999-12-18,-13.845158563438774,included_game_day
+2000,2113,Centenary,1999-12-21,-29.017039951333896,included_game_day
+2000,2113,Centenary,1999-12-30,-33.34703776684773,included_game_day
+2000,2113,Centenary,2000-01-03,-29.436540375909402,included_game_day
+2000,2113,Centenary,2000-01-05,-22.134503944201327,included_game_day
+2000,2113,Centenary,2000-01-10,-22.51484169039123,included_game_day
+2000,2113,Centenary,2000-01-12,-30.143950510190997,included_game_day
+2000,2113,Centenary,2000-01-15,-41.01945978693589,included_game_day
+2000,2113,Centenary,2000-01-22,-42.95316951472682,included_game_day
+2000,2113,Centenary,2000-01-24,-57.84704113580436,included_game_day
+2000,2113,Centenary,2000-01-31,-60.6887222271326,included_game_day
+2000,2113,Centenary,2000-02-05,-55.30342980193706,included_game_day
+2000,2113,Centenary,2000-02-08,-61.616582536316656,included_game_day
+2000,2113,Centenary,2000-02-15,-68.05116834446923,included_game_day
+2000,2113,Centenary,2000-02-19,-75.54640336575287,included_game_day
+2000,2113,Centenary,2000-02-26,-80.22379632665339,included_game_day
+2001,2113,Centenary,2000-11-21,4.0,included_game_day
+2001,2113,Centenary,2000-11-25,-6.4,included_game_day
+2001,2113,Centenary,2000-11-28,-27.921369999999996,included_game_day
+2001,2113,Centenary,2000-12-01,-42.479232999999994,included_game_day
+2001,2113,Centenary,2000-12-02,-52.862693699999994,included_game_day
+2001,2113,Centenary,2000-12-05,-58.53402542999999,included_game_day
+2001,2113,Centenary,2000-12-09,-58.227351586999994,included_game_day
+2001,2113,Centenary,2000-12-16,-53.72768048342999,included_game_day
+2001,2113,Centenary,2000-12-19,-58.52237950838699,included_game_day
+2001,2113,Centenary,2000-12-30,-77.9620669891322,included_game_day
+2001,2113,Centenary,2001-01-02,-66.93117168994061,included_game_day
+2001,2113,Centenary,2001-01-04,-66.92154988880927,included_game_day
+2001,2113,Centenary,2001-01-17,-91.36140703065365,included_game_day
+2001,2113,Centenary,2001-01-20,-73.95859425547027,included_game_day
+2001,2113,Centenary,2001-01-22,-70.74723700353191,included_game_day
+2001,2113,Centenary,2001-02-01,-70.17815120198121,included_game_day
+2001,2113,Centenary,2001-02-12,-89.41080454449491,included_game_day
+2001,2113,Centenary,2001-02-17,-89.35977442789311,included_game_day
+2001,2113,Centenary,2001-02-21,-91.66716374823218,included_game_day
+2001,2113,Centenary,2001-02-24,-104.72045560497926,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2001-11-20,-13.0,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2001-12-01,13.010000000000002,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2001-12-05,17.986547,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2001-12-08,19.5456982,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2001-12-15,1.5016796170000006,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2001-12-17,-23.705904274399998,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2001-12-21,-26.99049310696,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2001-12-28,-32.614014029755,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2001-12-29,-20.1426945032606,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2002-01-03,-14.589571789844802,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2002-01-07,-38.954470056053104,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2002-01-10,-19.728198621068,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2002-01-12,-27.33423939169912,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2002-01-24,-34.203207601898455,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2002-01-26,-40.748641212816224,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2002-01-30,-21.212467158792034,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2002-02-02,-18.149638364867933,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2002-02-05,-20.64388270842171,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2002-02-07,-26.933105476875845,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2002-02-19,-33.168217353832944,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2002-02-23,-36.21927143421682,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2002-02-25,-10.687236193200235,included_game_day
+2002,2113,Centenary (LA) Gentlemen,2002-03-02,-40.60920386739425,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2002-11-22,-26.0,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2002-11-23,-40.4,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2002-11-24,-55.84,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2002-11-26,-32.256,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2002-11-30,-33.5544,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2002-12-03,-23.40896,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2002-12-07,-5.426463999999999,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2002-12-14,-18.298495199999998,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2002-12-20,-12.116321826499998,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2002-12-28,-29.1774206483272,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2003-01-02,-43.530476021692365,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2003-01-04,-50.30286565309057,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2003-01-07,-63.13111893337131,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2003-01-11,-59.89753556001685,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2003-01-13,-47.108524496714175,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2003-01-15,-75.73282467268663,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2003-01-18,-78.12496527817645,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2003-01-25,-71.32662806081413,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2003-02-04,-40.76380888227749,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2003-02-08,-52.51165389368504,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2003-02-12,-42.67816974612113,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2003-02-18,-58.43668738918509,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2003-02-22,-59.020831296448904,included_game_day
+2003,2113,Centenary (LA) Gentlemen,2003-02-24,-57.570509001288016,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2003-11-25,-9.8,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2003-11-29,-32.870000000000005,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2003-12-02,-14.544300000000003,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2003-12-06,-12.409614000000003,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2003-12-11,-10.634525080000003,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2003-12-22,-17.685456806800005,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2003-12-27,-2.339967606506269,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2003-12-30,-18.176229923511503,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-01-03,-9.505950226798262,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-01-08,-11.592537137098834,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-01-10,-11.751517489087854,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-01-15,-18.187247385008824,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-01-17,-7.5975243965277635,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-01-19,-0.40244817011572565,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-01-22,-9.324410620615534,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-01-29,-13.851766261866048,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-01-31,-12.004408169432793,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-02-05,-9.719251599281602,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-02-07,-7.778804516394807,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-02-12,-20.779079499144615,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-02-14,14.75821448867093,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-02-19,20.636979597351367,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-02-21,14.481100036359116,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-02-26,13.227968660346322,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-02-28,-3.163778910176598,included_game_day
+2004,2113,Centenary (LA) Gentlemen,2004-03-07,-24.616346494452536,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2004-11-20,-8.0,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2004-11-27,-51.65,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2004-11-30,-54.324999999999996,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2004-12-03,-77.8125439,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2004-12-04,-89.37168151,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2004-12-11,-80.087621359,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2004-12-18,-83.99444505222,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2004-12-22,-107.56360095581766,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2004-12-28,-114.31782668376015,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-01-03,-113.44454618429448,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-01-06,-118.49277889740743,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-01-08,-114.64514414538539,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-01-11,-109.77769689492985,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-01-15,-112.57814521267576,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-01-20,-117.45787643765053,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-01-22,-123.70539042407188,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-01-24,-120.57766482382941,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-01-27,-133.31224674978034,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-02-03,-143.73390835093264,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-02-05,-132.7184976791107,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-02-10,-116.91956344554072,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-02-12,-116.96101146079006,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-02-14,-120.27669197323496,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-02-19,-118.44475958887622,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-02-26,-119.26555908216626,included_game_day
+2005,2113,Centenary (LA) Gentlemen,2005-02-28,-138.7193208281765,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2005-11-22,-15.682,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2005-11-26,-52.0138,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2005-11-29,-51.707100000000004,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2005-12-06,-53.99115939000001,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2005-12-10,-81.8142926846,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2005-12-17,-69.85922686714001,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2005-12-19,-70.743619636144,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2005-12-22,-81.38466589011307,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2005-12-29,-93.63069320857409,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-01-03,-95.32298626769895,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-01-05,-96.89939726700742,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-01-07,-96.80906242656481,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-01-10,-100.58727475529757,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-01-12,-106.72180981196134,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-01-14,-100.38148821343526,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-01-19,-99.77436676199818,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-01-21,-82.71112944530395,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-01-26,-93.11941445923166,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-01-28,-100.24852137944278,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-02-02,-113.61287856322141,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-02-04,-122.67344861770992,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-02-11,-122.0220951943376,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-02-13,-119.39069472374959,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-02-16,-123.63768652724943,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-02-18,-134.11306613140422,included_game_day
+2006,2113,Centenary (LA) Gentlemen,2006-02-23,-146.13918448021062,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2006-11-11,-3.0,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2006-11-14,0.2999999999999998,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2006-11-17,-10.129999999999999,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2006-11-18,14.153000000000002,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2006-11-19,-1.1022999999999978,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2006-11-28,-0.14059839999999824,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2006-11-30,2.3520183400000017,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2006-12-02,0.9254905760000023,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2006-12-09,-25.542038521659997,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2006-12-16,-50.541578030493994,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2006-12-18,-77.93768254175339,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2006-12-21,-70.1155987602142,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2006-12-28,-61.04803262969715,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2006-12-30,-59.86195022728688,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-01-02,-58.835129779887154,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-01-04,-63.82566420529452,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-01-06,-62.201167221734764,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-01-11,-65.49958547520298,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-01-13,-76.55742236222171,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-01-20,-90.05999118216332,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-01-25,-89.66135931527516,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-01-27,-90.78627538576232,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-02-01,-93.19141989822008,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-02-03,-100.4037067664137,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-02-08,-85.99989857964799,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-02-10,-85.74797728014667,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-02-15,-73.98262946879476,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-02-17,-73.93729082441945,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-02-22,-71.34167107311251,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-02-24,-89.74830994089622,included_game_day
+2007,2113,Centenary (LA) Gentlemen,2007-03-03,-94.24515861246924,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2007-11-09,3.0,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2007-11-10,-3.2,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2007-11-17,14.29,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2007-11-20,9.9659,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2007-11-24,-6.794079999999999,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2007-11-27,-2.350738999999999,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2007-12-01,3.1740321600000003,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2007-12-06,2.825306068,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2007-12-08,-3.8969210385179998,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2007-12-13,-1.4445431005061997,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2007-12-20,-18.36591369034058,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2007-12-22,-56.884388707790606,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2007-12-30,-58.19224577552687,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2008-01-05,-60.94002256400482,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2008-01-10,-64.86329331027964,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2008-01-12,-80.87731586244281,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2008-01-17,-70.05753608864735,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2008-01-24,-68.94822330063776,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2008-01-26,-69.06812114121752,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2008-02-02,-63.71116833980183,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2008-02-07,-84.49376813786805,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2008-02-09,-113.94123284043044,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2008-02-14,-119.30657994185117,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2008-02-16,-109.78703475218494,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2008-02-21,-109.83959775305722,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2008-02-23,-120.37827157198673,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2008-02-28,-120.85332188657864,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2008-03-01,-109.07313094241933,included_game_day
+2008,2113,Centenary (LA) Gentlemen,2008-03-08,-121.53870643456136,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2008-11-15,-19.0,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2008-11-18,-49.1,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2008-11-20,-43.21,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2008-11-21,-43.389,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2008-11-24,-56.2761,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2008-11-28,-47.969136,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2008-11-29,-39.3415134,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2008-12-01,-45.101275599999994,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2008-12-04,-52.86755501,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2008-12-06,-60.211279618999995,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2008-12-13,-57.34792500115999,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2008-12-20,-59.869724929159794,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2008-12-23,-62.74806657818332,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2008-12-30,-66.99441374897566,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-01-02,-79.56180136217067,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-01-08,-54.94009832770513,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-01-10,-59.23221926053124,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-01-15,-53.37948213062952,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-01-17,-44.798242108235755,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-01-22,-19.351593734598943,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-01-24,-19.723753698988787,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-01-31,-26.735355665353463,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-02-05,-40.37863282096738,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-02-07,-42.85421847565763,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-02-12,-54.61157780099407,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-02-14,-58.82160132340419,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-02-19,-62.206538886253426,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-02-21,-67.98368251740116,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-02-26,-63.74103716627741,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-02-28,-53.115681946727555,included_game_day
+2009,2113,Centenary (LA) Gentlemen,2009-03-07,-43.55996146459269,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2009-11-13,-20.0,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2009-11-17,-10.0,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2009-11-27,-2.8565370000000003,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2009-11-30,-9.0320981,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2009-12-03,-9.80939069,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2009-12-05,-16.017611244,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2009-12-09,-31.76434717744,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2009-12-12,-32.931448140972,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2009-12-19,-61.7800398096048,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2009-12-22,-77.86001021735566,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2009-12-28,-63.49314337924327,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2009-12-31,-70.11920306475938,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2010-01-02,-94.79716438578555,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2010-01-07,-81.02481191645201,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2010-01-09,-114.51858744657014,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2010-01-14,-125.80699893776875,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2010-01-16,-125.820661337076,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2010-01-23,-146.80798008058107,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2010-01-28,-143.50732024239736,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2010-01-30,-147.0071825580045,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2010-02-04,-137.17204171510258,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2010-02-06,-120.99026701003453,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2010-02-11,-118.4709471490236,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2010-02-13,-125.59802374122626,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2010-02-16,-128.78242949856593,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2010-02-25,-136.5795918909817,included_game_day
+2010,2113,Centenary (LA) Gentlemen,2010-02-27,-136.99327705399085,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2010-11-12,-61.0,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2010-11-15,-74.9,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2010-11-19,-103.77000000000001,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2010-11-22,-109.47550000000001,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2010-11-24,-136.39045000000002,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2010-11-30,-148.78887500000002,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2010-12-02,-139.8236185,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2010-12-04,-132.53741297000002,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2010-12-11,-135.021137879,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2010-12-18,-139.2353008778692,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2010-12-20,-150.37834228941938,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2010-12-28,-161.7751431937689,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2010-12-30,-179.96052388377635,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2011-01-06,-178.82413647631049,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2011-01-08,-174.1210456228526,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2011-01-13,-170.33366198065414,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2011-01-15,-175.7250760084687,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2011-01-19,-193.06197649613912,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2011-01-22,-183.81524235649653,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2011-01-27,-173.9192515402062,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2011-01-29,-175.11419267818715,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2011-02-03,-182.44038388677424,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2011-02-05,-192.0719256347887,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2011-02-10,-198.43174524876906,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2011-02-12,-213.32578621246446,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2011-02-15,-212.66232390886685,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2011-02-24,-193.858809008925,included_game_day
+2011,2113,Centenary (LA) Gentlemen,2011-02-26,-197.76150114684327,included_game_day

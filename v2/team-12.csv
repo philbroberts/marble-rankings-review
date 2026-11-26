@@ -1,0 +1,1326 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,12,Arizona,1987-11-27,55.0,included_game_day
+1988,12,Arizona,1987-11-28,67.8,included_game_day
+1988,12,Arizona,1987-11-29,73.39999999999999,included_game_day
+1988,12,Arizona,1987-12-04,95.05999999999999,included_game_day
+1988,12,Arizona,1987-12-05,88.81339999999999,included_game_day
+1988,12,Arizona,1987-12-08,92.66905999999999,included_game_day
+1988,12,Arizona,1987-12-12,103.23653499999999,included_game_day
+1988,12,Arizona,1987-12-16,110.88580645129998,included_game_day
+1988,12,Arizona,1987-12-20,140.07640180353,included_game_day
+1988,12,Arizona,1987-12-22,163.743314404877,included_game_day
+1988,12,Arizona,1987-12-29,167.6471400695359,included_game_day
+1988,12,Arizona,1987-12-30,170.70822255595732,included_game_day
+1988,12,Arizona,1988-01-02,158.73960666769977,included_game_day
+1988,12,Arizona,1988-01-07,166.83506340329882,included_game_day
+1988,12,Arizona,1988-01-09,175.9748253416246,included_game_day
+1988,12,Arizona,1988-01-14,188.58933662326504,included_game_day
+1988,12,Arizona,1988-01-16,190.43975188229945,included_game_day
+1988,12,Arizona,1988-01-21,206.19419015557924,included_game_day
+1988,12,Arizona,1988-01-24,199.41251157114903,included_game_day
+1988,12,Arizona,1988-01-28,219.31697651127618,included_game_day
+1988,12,Arizona,1988-01-30,215.5516342580953,included_game_day
+1988,12,Arizona,1988-02-04,191.98463201394063,included_game_day
+1988,12,Arizona,1988-02-06,179.11249884093786,included_game_day
+1988,12,Arizona,1988-02-11,191.83871854592488,included_game_day
+1988,12,Arizona,1988-02-14,190.03680395589242,included_game_day
+1988,12,Arizona,1988-02-18,200.686199551572,included_game_day
+1988,12,Arizona,1988-02-20,191.55084858892187,included_game_day
+1988,12,Arizona,1988-02-25,201.61360649703298,included_game_day
+1988,12,Arizona,1988-03-03,214.4625764167249,included_game_day
+1988,12,Arizona,1988-03-05,206.87600264759183,included_game_day
+1988,12,Arizona,1988-03-11,201.9671494754605,included_game_day
+1988,12,Arizona,1988-03-12,199.56000869501509,included_game_day
+1988,12,Arizona,1988-03-13,200.16012281811874,included_game_day
+1988,12,Arizona,1988-03-18,218.82816967280456,included_game_day
+1988,12,Arizona,1988-03-20,239.9209130874537,included_game_day
+1988,12,Arizona,1988-03-25,251.2374991398825,included_game_day
+1988,12,Arizona,1988-03-27,263.0901231188482,included_game_day
+1988,12,Arizona,1988-04-02,252.2477811615954,included_game_day
+1989,12,Arizona,1988-11-30,10.68,included_game_day
+1989,12,Arizona,1988-12-02,6.3309264999999995,included_game_day
+1989,12,Arizona,1988-12-03,22.31648385,included_game_day
+1989,12,Arizona,1988-12-10,29.059835465,included_game_day
+1989,12,Arizona,1988-12-18,45.819444988499995,included_game_day
+1989,12,Arizona,1988-12-20,93.70182375169165,included_game_day
+1989,12,Arizona,1988-12-23,96.19694969755749,included_game_day
+1989,12,Arizona,1988-12-28,106.84888224292992,included_game_day
+1989,12,Arizona,1988-12-30,122.6921129054618,included_game_day
+1989,12,Arizona,1989-01-05,121.65036689569581,included_game_day
+1989,12,Arizona,1989-01-07,132.14740141396413,included_game_day
+1989,12,Arizona,1989-01-12,146.24260578199792,included_game_day
+1989,12,Arizona,1989-01-14,149.31947449908765,included_game_day
+1989,12,Arizona,1989-01-19,168.72516560613994,included_game_day
+1989,12,Arizona,1989-01-21,162.9838248006886,included_game_day
+1989,12,Arizona,1989-01-26,174.5619497295235,included_game_day
+1989,12,Arizona,1989-01-29,190.30196497958914,included_game_day
+1989,12,Arizona,1989-02-02,204.6084944527949,included_game_day
+1989,12,Arizona,1989-02-05,204.78222823400546,included_game_day
+1989,12,Arizona,1989-02-09,206.77712513384296,included_game_day
+1989,12,Arizona,1989-02-12,206.53402785070477,included_game_day
+1989,12,Arizona,1989-02-16,205.18166031920308,included_game_day
+1989,12,Arizona,1989-02-18,227.42759898254212,included_game_day
+1989,12,Arizona,1989-02-23,236.3413751265054,included_game_day
+1989,12,Arizona,1989-02-26,237.84145036509935,included_game_day
+1989,12,Arizona,1989-03-02,240.56784405033025,included_game_day
+1989,12,Arizona,1989-03-04,229.91743205863844,included_game_day
+1989,12,Arizona,1989-03-10,215.68304808804515,included_game_day
+1989,12,Arizona,1989-03-11,216.8164896013609,included_game_day
+1989,12,Arizona,1989-03-12,230.3347263885178,included_game_day
+1989,12,Arizona,1989-03-16,238.4114401629578,included_game_day
+1989,12,Arizona,1989-03-18,250.02445792887679,included_game_day
+1989,12,Arizona,1989-03-23,239.063021772506,included_game_day
+1990,12,Arizona,1989-11-25,7.0,included_game_day
+1990,12,Arizona,1989-11-30,2.17,included_game_day
+1990,12,Arizona,1989-12-02,-15.057,included_game_day
+1990,12,Arizona,1989-12-06,29.060679999999998,included_game_day
+1990,12,Arizona,1989-12-19,52.71337791104,included_game_day
+1990,12,Arizona,1989-12-28,66.37196352068,included_game_day
+1990,12,Arizona,1989-12-29,82.08722329944358,included_game_day
+1990,12,Arizona,1990-01-02,81.40248919551433,included_game_day
+1990,12,Arizona,1990-01-04,85.5300122853644,included_game_day
+1990,12,Arizona,1990-01-06,95.44300425253405,included_game_day
+1990,12,Arizona,1990-01-11,105.3406095176139,included_game_day
+1990,12,Arizona,1990-01-13,100.40434744632739,included_game_day
+1990,12,Arizona,1990-01-17,105.55327065874916,included_game_day
+1990,12,Arizona,1990-01-20,112.96544547600698,included_game_day
+1990,12,Arizona,1990-01-25,111.88004075574406,included_game_day
+1990,12,Arizona,1990-01-27,97.25818861963637,included_game_day
+1990,12,Arizona,1990-02-01,112.50330086712076,included_game_day
+1990,12,Arizona,1990-02-03,119.94152510265512,included_game_day
+1990,12,Arizona,1990-02-08,130.63832482840445,included_game_day
+1990,12,Arizona,1990-02-10,133.619465747524,included_game_day
+1990,12,Arizona,1990-02-15,139.54590246012086,included_game_day
+1990,12,Arizona,1990-02-18,138.68606535208747,included_game_day
+1990,12,Arizona,1990-02-21,162.05976240568,included_game_day
+1990,12,Arizona,1990-02-23,172.75108988610515,included_game_day
+1990,12,Arizona,1990-02-25,173.43463425730295,included_game_day
+1990,12,Arizona,1990-03-01,184.67928177827392,included_game_day
+1990,12,Arizona,1990-03-03,199.5252696756511,included_game_day
+1990,12,Arizona,1990-03-09,206.663275712576,included_game_day
+1990,12,Arizona,1990-03-10,218.22751462238801,included_game_day
+1990,12,Arizona,1990-03-11,219.7316378859344,included_game_day
+1990,12,Arizona,1990-03-16,212.86744874207926,included_game_day
+1990,12,Arizona,1990-03-18,183.79955713696373,included_game_day
+1991,12,Arizona,1990-11-14,39.0,included_game_day
+1991,12,Arizona,1990-11-16,41.7,included_game_day
+1991,12,Arizona,1990-11-21,68.75,included_game_day
+1991,12,Arizona,1990-11-23,79.883,included_game_day
+1991,12,Arizona,1990-11-26,107.8947,included_game_day
+1991,12,Arizona,1990-12-01,119.91523,included_game_day
+1991,12,Arizona,1990-12-05,138.618607,included_game_day
+1991,12,Arizona,1990-12-08,122.8328463,included_game_day
+1991,12,Arizona,1990-12-23,129.000825992084,included_game_day
+1991,12,Arizona,1990-12-27,126.3804494424584,included_game_day
+1991,12,Arizona,1990-12-28,132.98157234848696,included_game_day
+1991,12,Arizona,1991-01-03,112.9619029161098,included_game_day
+1991,12,Arizona,1991-01-05,123.1896107530098,included_game_day
+1991,12,Arizona,1991-01-10,116.30442751972474,included_game_day
+1991,12,Arizona,1991-01-12,119.26173931964689,included_game_day
+1991,12,Arizona,1991-01-16,121.80690584065741,included_game_day
+1991,12,Arizona,1991-01-19,126.81432208098306,included_game_day
+1991,12,Arizona,1991-01-24,129.30310694482986,included_game_day
+1991,12,Arizona,1991-01-26,116.01041440003226,included_game_day
+1991,12,Arizona,1991-01-31,118.3472825320836,included_game_day
+1991,12,Arizona,1991-02-02,134.10430391071523,included_game_day
+1991,12,Arizona,1991-02-07,127.52889219353276,included_game_day
+1991,12,Arizona,1991-02-10,143.39899114419433,included_game_day
+1991,12,Arizona,1991-02-13,154.67311163969555,included_game_day
+1991,12,Arizona,1991-02-17,142.13486486321585,included_game_day
+1991,12,Arizona,1991-02-21,167.09176659018135,included_game_day
+1991,12,Arizona,1991-02-24,172.97314442074764,included_game_day
+1991,12,Arizona,1991-02-26,181.14998165684284,included_game_day
+1991,12,Arizona,1991-02-28,205.49358976272447,included_game_day
+1991,12,Arizona,1991-03-02,186.00271831368715,included_game_day
+1991,12,Arizona,1991-03-07,181.42973246040523,included_game_day
+1991,12,Arizona,1991-03-09,206.59873743078563,included_game_day
+1991,12,Arizona,1991-03-14,205.60946319317046,included_game_day
+1991,12,Arizona,1991-03-16,209.51789624442867,included_game_day
+1991,12,Arizona,1991-03-21,199.49206844611564,included_game_day
+1992,12,Arizona,1991-11-29,16.355,included_game_day
+1992,12,Arizona,1991-11-30,33.0195,included_game_day
+1992,12,Arizona,1991-12-07,47.31155,included_game_day
+1992,12,Arizona,1991-12-15,59.378074196,included_game_day
+1992,12,Arizona,1991-12-18,95.7162217764,included_game_day
+1992,12,Arizona,1991-12-21,91.62078376876,included_game_day
+1992,12,Arizona,1991-12-28,91.029858040391,included_game_day
+1992,12,Arizona,1991-12-29,105.67761087074827,included_game_day
+1992,12,Arizona,1992-01-02,113.07714589477847,included_game_day
+1992,12,Arizona,1992-01-05,113.46700717443163,included_game_day
+1992,12,Arizona,1992-01-09,142.63759108266632,included_game_day
+1992,12,Arizona,1992-01-11,133.94635790123925,included_game_day
+1992,12,Arizona,1992-01-16,122.83420363548686,included_game_day
+1992,12,Arizona,1992-01-18,135.81723355986688,included_game_day
+1992,12,Arizona,1992-01-23,159.9502375551222,included_game_day
+1992,12,Arizona,1992-01-25,170.20920102094829,included_game_day
+1992,12,Arizona,1992-01-30,192.19329249038745,included_game_day
+1992,12,Arizona,1992-02-02,202.97173871375875,included_game_day
+1992,12,Arizona,1992-02-06,195.49550352528507,included_game_day
+1992,12,Arizona,1992-02-09,193.10686003973836,included_game_day
+1992,12,Arizona,1992-02-13,201.84139853524934,included_game_day
+1992,12,Arizona,1992-02-15,210.73472340664134,included_game_day
+1992,12,Arizona,1992-02-20,189.8903429136476,included_game_day
+1992,12,Arizona,1992-02-23,182.1375478955935,included_game_day
+1992,12,Arizona,1992-02-27,206.54878723214603,included_game_day
+1992,12,Arizona,1992-03-01,202.21651334560414,included_game_day
+1992,12,Arizona,1992-03-05,201.4757241202953,included_game_day
+1992,12,Arizona,1992-03-07,192.7013746614441,included_game_day
+1992,12,Arizona,1992-03-12,179.02259006492625,included_game_day
+1992,12,Arizona,1992-03-14,170.3221778506899,included_game_day
+1992,12,Arizona,1992-03-20,155.30409646397376,included_game_day
+1993,12,Arizona,1992-12-06,-7.02,included_game_day
+1993,12,Arizona,1992-12-08,9.582,included_game_day
+1993,12,Arizona,1992-12-12,25.1667,included_game_day
+1993,12,Arizona,1992-12-22,17.552695057999998,included_game_day
+1993,12,Arizona,1992-12-28,51.8040615522,included_game_day
+1993,12,Arizona,1992-12-30,48.072476717979995,included_game_day
+1993,12,Arizona,1993-01-02,54.187553295846996,included_game_day
+1993,12,Arizona,1993-01-07,58.065571894028395,included_game_day
+1993,12,Arizona,1993-01-09,69.11222894778871,included_game_day
+1993,12,Arizona,1993-01-14,79.08677455901162,included_game_day
+1993,12,Arizona,1993-01-16,96.60626914759231,included_game_day
+1993,12,Arizona,1993-01-20,97.8202507518663,included_game_day
+1993,12,Arizona,1993-01-23,104.95087357758047,included_game_day
+1993,12,Arizona,1993-01-28,125.0599161735677,included_game_day
+1993,12,Arizona,1993-01-30,121.40535330081862,included_game_day
+1993,12,Arizona,1993-02-04,139.53057283222137,included_game_day
+1993,12,Arizona,1993-02-07,140.01418469612716,included_game_day
+1993,12,Arizona,1993-02-11,142.40243346682306,included_game_day
+1993,12,Arizona,1993-02-13,142.46845954000895,included_game_day
+1993,12,Arizona,1993-02-18,164.7420361487088,included_game_day
+1993,12,Arizona,1993-02-21,175.71745698907262,included_game_day
+1993,12,Arizona,1993-02-25,167.14461069150022,included_game_day
+1993,12,Arizona,1993-02-27,175.22333090948615,included_game_day
+1993,12,Arizona,1993-03-04,161.2254835566683,included_game_day
+1993,12,Arizona,1993-03-07,156.50950029075793,included_game_day
+1993,12,Arizona,1993-03-11,152.24690284838178,included_game_day
+1993,12,Arizona,1993-03-13,158.98841318086266,included_game_day
+1993,12,Arizona,1993-03-18,142.9270873101163,included_game_day
+1994,12,Arizona,1993-11-29,25.5,included_game_day
+1994,12,Arizona,1993-12-01,45.19,included_game_day
+1994,12,Arizona,1993-12-05,61.62779999999999,included_game_day
+1994,12,Arizona,1993-12-09,66.47601999999999,included_game_day
+1994,12,Arizona,1993-12-14,76.5602759,included_game_day
+1994,12,Arizona,1993-12-18,99.08469971,included_game_day
+1994,12,Arizona,1993-12-21,107.92290973899999,included_game_day
+1994,12,Arizona,1993-12-22,109.0992162651,included_game_day
+1994,12,Arizona,1993-12-23,106.92192404711,included_game_day
+1994,12,Arizona,1993-12-28,117.36293805257799,included_game_day
+1994,12,Arizona,1993-12-29,135.35368338399618,included_game_day
+1994,12,Arizona,1994-01-05,137.91512897624028,included_game_day
+1994,12,Arizona,1994-01-08,141.50510109317986,included_game_day
+1994,12,Arizona,1994-01-13,126.38347181271766,included_game_day
+1994,12,Arizona,1994-01-15,132.60927265159611,included_game_day
+1994,12,Arizona,1994-01-20,127.65615795751499,included_game_day
+1994,12,Arizona,1994-01-22,126.47375188781838,included_game_day
+1994,12,Arizona,1994-01-27,121.03094338759429,included_game_day
+1994,12,Arizona,1994-01-29,147.37931906769535,included_game_day
+1994,12,Arizona,1994-02-03,156.82063663873407,included_game_day
+1994,12,Arizona,1994-02-05,129.1752977780243,included_game_day
+1994,12,Arizona,1994-02-10,141.30546003027516,included_game_day
+1994,12,Arizona,1994-02-13,160.54192838323664,included_game_day
+1994,12,Arizona,1994-02-17,173.81728287684996,included_game_day
+1994,12,Arizona,1994-02-19,187.88002190299798,included_game_day
+1994,12,Arizona,1994-02-24,192.6232762927809,included_game_day
+1994,12,Arizona,1994-02-26,182.29647825316917,included_game_day
+1994,12,Arizona,1994-03-03,191.53972915512747,included_game_day
+1994,12,Arizona,1994-03-05,193.82966570890665,included_game_day
+1994,12,Arizona,1994-03-12,173.87956208165787,included_game_day
+1994,12,Arizona,1994-03-18,186.57960668057487,included_game_day
+1994,12,Arizona,1994-03-20,187.58374044152694,included_game_day
+1994,12,Arizona,1994-03-24,196.21604390053292,included_game_day
+1994,12,Arizona,1994-03-26,211.277192530019,included_game_day
+1994,12,Arizona,1994-04-02,198.35763121982347,included_game_day
+1995,12,Arizona,1994-11-24,-2.0,included_game_day
+1995,12,Arizona,1994-11-26,8.84,included_game_day
+1995,12,Arizona,1994-11-30,31.183,included_game_day
+1995,12,Arizona,1994-12-06,50.6697,included_game_day
+1995,12,Arizona,1994-12-08,53.82573,included_game_day
+1995,12,Arizona,1994-12-12,73.39225993,included_game_day
+1995,12,Arizona,1994-12-17,83.433025137,included_game_day
+1995,12,Arizona,1994-12-22,77.64196327133,included_game_day
+1995,12,Arizona,1994-12-28,91.366429898197,included_game_day
+1995,12,Arizona,1994-12-29,91.0941033892713,included_game_day
+1995,12,Arizona,1995-01-05,93.00002585527194,included_game_day
+1995,12,Arizona,1995-01-07,101.45269116349452,included_game_day
+1995,12,Arizona,1995-01-12,115.88945994947953,included_game_day
+1995,12,Arizona,1995-01-14,124.24490519991545,included_game_day
+1995,12,Arizona,1995-01-19,109.55896994758714,included_game_day
+1995,12,Arizona,1995-01-21,118.78367938092212,included_game_day
+1995,12,Arizona,1995-01-26,125.03444868764585,included_game_day
+1995,12,Arizona,1995-01-28,127.99613490841689,included_game_day
+1995,12,Arizona,1995-02-02,126.81405510397832,included_game_day
+1995,12,Arizona,1995-02-04,137.82165571970862,included_game_day
+1995,12,Arizona,1995-02-09,142.22931636461806,included_game_day
+1995,12,Arizona,1995-02-12,127.22490117086532,included_game_day
+1995,12,Arizona,1995-02-16,119.1024587639726,included_game_day
+1995,12,Arizona,1995-02-19,116.35958005508415,included_game_day
+1995,12,Arizona,1995-02-23,114.476300517206,included_game_day
+1995,12,Arizona,1995-02-25,129.0854006546677,included_game_day
+1995,12,Arizona,1995-03-02,128.8301914075868,included_game_day
+1995,12,Arizona,1995-03-04,129.4596484045524,included_game_day
+1995,12,Arizona,1995-03-11,118.24229914811976,included_game_day
+1995,12,Arizona,1995-03-16,109.47789554098813,included_game_day
+1996,12,Arizona,1995-11-15,31.0,included_game_day
+1996,12,Arizona,1995-11-17,41.4,included_game_day
+1996,12,Arizona,1995-11-22,46.4,included_game_day
+1996,12,Arizona,1995-11-24,59.927,included_game_day
+1996,12,Arizona,1995-12-02,61.7243,included_game_day
+1996,12,Arizona,1995-12-05,75.84858,included_game_day
+1996,12,Arizona,1995-12-09,72.127394,included_game_day
+1996,12,Arizona,1995-12-16,84.7016546,included_game_day
+1996,12,Arizona,1995-12-23,71.93314380261,included_game_day
+1996,12,Arizona,1995-12-28,110.2280799934894,included_game_day
+1996,12,Arizona,1995-12-30,102.69422906368446,included_game_day
+1996,12,Arizona,1996-01-04,76.11659056736104,included_game_day
+1996,12,Arizona,1996-01-06,68.78733467026844,included_game_day
+1996,12,Arizona,1996-01-10,90.70704869990246,included_game_day
+1996,12,Arizona,1996-01-18,92.58532767469823,included_game_day
+1996,12,Arizona,1996-01-20,101.00209163519236,included_game_day
+1996,12,Arizona,1996-01-25,93.98806056005404,included_game_day
+1996,12,Arizona,1996-01-27,91.04052784013066,included_game_day
+1996,12,Arizona,1996-02-01,84.13976369475199,included_game_day
+1996,12,Arizona,1996-02-03,94.77709364776669,included_game_day
+1996,12,Arizona,1996-02-07,89.19540851430479,included_game_day
+1996,12,Arizona,1996-02-11,102.7983478560068,included_game_day
+1996,12,Arizona,1996-02-15,105.20449268749165,included_game_day
+1996,12,Arizona,1996-02-17,107.5851037943262,included_game_day
+1996,12,Arizona,1996-02-22,115.85516900083468,included_game_day
+1996,12,Arizona,1996-02-24,118.9323417320281,included_game_day
+1996,12,Arizona,1996-02-29,126.68890849157228,included_game_day
+1996,12,Arizona,1996-03-03,121.55819213387414,included_game_day
+1996,12,Arizona,1996-03-07,109.20719277477461,included_game_day
+1996,12,Arizona,1996-03-09,105.43687523774766,included_game_day
+1996,12,Arizona,1996-03-15,136.64272992440294,included_game_day
+1996,12,Arizona,1996-03-17,151.2537068931628,included_game_day
+1996,12,Arizona,1996-03-22,152.52472268673688,included_game_day
+1997,12,Arizona,1996-11-22,11.0,included_game_day
+1997,12,Arizona,1996-11-26,23.6,included_game_day
+1997,12,Arizona,1996-11-30,23.998,included_game_day
+1997,12,Arizona,1996-12-07,34.0722,included_game_day
+1997,12,Arizona,1996-12-09,36.2057872,included_game_day
+1997,12,Arizona,1996-12-14,54.04073048000001,included_game_day
+1997,12,Arizona,1996-12-21,53.054459013800006,included_game_day
+1997,12,Arizona,1996-12-28,106.575526953098,included_game_day
+1997,12,Arizona,1996-12-29,135.3403218262882,included_game_day
+1997,12,Arizona,1997-01-02,128.2575985353181,included_game_day
+1997,12,Arizona,1997-01-04,120.7156409636536,included_game_day
+1997,12,Arizona,1997-01-11,120.0399592459516,included_game_day
+1997,12,Arizona,1997-01-16,106.41418436292905,included_game_day
+1997,12,Arizona,1997-01-18,98.04641286769494,included_game_day
+1997,12,Arizona,1997-01-23,136.44555557716305,included_game_day
+1997,12,Arizona,1997-01-25,150.93430425644675,included_game_day
+1997,12,Arizona,1997-01-30,151.80880454719784,included_game_day
+1997,12,Arizona,1997-02-02,138.6676586646767,included_game_day
+1997,12,Arizona,1997-02-05,133.57089943310598,included_game_day
+1997,12,Arizona,1997-02-09,150.5748968125485,included_game_day
+1997,12,Arizona,1997-02-13,140.04470808132646,included_game_day
+1997,12,Arizona,1997-02-15,156.0772104758622,included_game_day
+1997,12,Arizona,1997-02-20,143.1482755136384,included_game_day
+1997,12,Arizona,1997-02-22,137.8275500071867,included_game_day
+1997,12,Arizona,1997-02-27,135.7928408659089,included_game_day
+1997,12,Arizona,1997-03-02,146.739748634596,included_game_day
+1997,12,Arizona,1997-03-06,148.75743034378974,included_game_day
+1997,12,Arizona,1997-03-08,142.6314469407924,included_game_day
+1997,12,Arizona,1997-03-13,145.78798930979022,included_game_day
+1997,12,Arizona,1997-03-15,146.37958060728798,included_game_day
+1997,12,Arizona,1997-03-21,157.24858233150272,included_game_day
+1997,12,Arizona,1997-03-23,157.8291447383455,included_game_day
+1997,12,Arizona,1997-03-29,170.39472054448638,included_game_day
+1997,12,Arizona,1997-03-31,185.6064361676372,included_game_day
+1998,12,Arizona,1997-11-20,54.2,included_game_day
+1998,12,Arizona,1997-11-24,82.805,included_game_day
+1998,12,Arizona,1997-11-25,94.8015,included_game_day
+1998,12,Arizona,1997-11-26,85.61595,included_game_day
+1998,12,Arizona,1997-11-29,102.82755499999999,included_game_day
+1998,12,Arizona,1997-12-02,97.40627749999999,included_game_day
+1998,12,Arizona,1997-12-06,100.49220754999999,included_game_day
+1998,12,Arizona,1997-12-08,111.93192379499999,included_game_day
+1998,12,Arizona,1997-12-13,114.38740744849999,included_game_day
+1998,12,Arizona,1997-12-23,108.66914586248525,included_game_day
+1998,12,Arizona,1997-12-28,119.0258849465458,included_game_day
+1998,12,Arizona,1997-12-29,151.00607747420779,included_game_day
+1998,12,Arizona,1998-01-03,150.92475851492426,included_game_day
+1998,12,Arizona,1998-01-05,153.02947606836307,included_game_day
+1998,12,Arizona,1998-01-08,155.31081987531655,included_game_day
+1998,12,Arizona,1998-01-10,167.33454290316618,included_game_day
+1998,12,Arizona,1998-01-15,179.40257740880017,included_game_day
+1998,12,Arizona,1998-01-18,192.00307132736356,included_game_day
+1998,12,Arizona,1998-01-22,200.99030393414714,included_game_day
+1998,12,Arizona,1998-01-25,190.62614062515826,included_game_day
+1998,12,Arizona,1998-01-29,208.60200032430473,included_game_day
+1998,12,Arizona,1998-01-31,208.1659272742941,included_game_day
+1998,12,Arizona,1998-02-05,222.1747328964487,included_game_day
+1998,12,Arizona,1998-02-07,218.9207347529258,included_game_day
+1998,12,Arizona,1998-02-14,206.47465639780305,included_game_day
+1998,12,Arizona,1998-02-19,188.74586057517973,included_game_day
+1998,12,Arizona,1998-02-21,193.33274905221413,included_game_day
+1998,12,Arizona,1998-02-26,181.98025590464331,included_game_day
+1998,12,Arizona,1998-02-28,206.89651028217946,included_game_day
+1998,12,Arizona,1998-03-05,181.0739699656833,included_game_day
+1998,12,Arizona,1998-03-07,175.93053136137644,included_game_day
+1998,12,Arizona,1998-03-12,198.08724781142098,included_game_day
+1998,12,Arizona,1998-03-14,222.52900138949664,included_game_day
+1998,12,Arizona,1998-03-19,223.2572161871507,included_game_day
+1998,12,Arizona,1998-03-21,189.74203830634644,included_game_day
+1999,12,Arizona,1998-11-13,1.0,included_game_day
+1999,12,Arizona,1998-11-25,11.99,included_game_day
+1999,12,Arizona,1998-11-28,17.6441,included_game_day
+1999,12,Arizona,1998-12-05,28.780191000000002,included_game_day
+1999,12,Arizona,1998-12-14,45.4567307,included_game_day
+1999,12,Arizona,1998-12-19,56.6848558072382,included_game_day
+1999,12,Arizona,1998-12-28,88.48204185944978,included_game_day
+1999,12,Arizona,1998-12-30,95.28887033010241,included_game_day
+1999,12,Arizona,1999-01-02,87.97483829432954,included_game_day
+1999,12,Arizona,1999-01-04,97.43200349336888,included_game_day
+1999,12,Arizona,1999-01-07,99.79392072235008,included_game_day
+1999,12,Arizona,1999-01-09,91.25788138634202,included_game_day
+1999,12,Arizona,1999-01-14,94.34823900002468,included_game_day
+1999,12,Arizona,1999-01-16,95.73965659757174,included_game_day
+1999,12,Arizona,1999-01-21,97.10944445104266,included_game_day
+1999,12,Arizona,1999-01-24,93.60138839826395,included_game_day
+1999,12,Arizona,1999-01-28,102.5254905781568,included_game_day
+1999,12,Arizona,1999-01-30,112.01016121596092,included_game_day
+1999,12,Arizona,1999-02-04,106.85554126567952,included_game_day
+1999,12,Arizona,1999-02-06,101.16330760209267,included_game_day
+1999,12,Arizona,1999-02-10,99.60187749966268,included_game_day
+1999,12,Arizona,1999-02-13,93.43720808721156,included_game_day
+1999,12,Arizona,1999-02-18,100.11681454738049,included_game_day
+1999,12,Arizona,1999-02-20,101.20366943629486,included_game_day
+1999,12,Arizona,1999-02-25,85.04153075131481,included_game_day
+1999,12,Arizona,1999-02-27,80.20434592286226,included_game_day
+1999,12,Arizona,1999-03-04,91.8235516360321,included_game_day
+1999,12,Arizona,1999-03-06,110.26534031319787,included_game_day
+1999,12,Arizona,1999-03-12,107.38413757855685,included_game_day
+2000,12,Arizona,1999-11-16,16.0,included_game_day
+2000,12,Arizona,1999-11-19,36.5,included_game_day
+2000,12,Arizona,1999-11-24,51.198,included_game_day
+2000,12,Arizona,1999-11-26,60.9011,included_game_day
+2000,12,Arizona,1999-12-01,78.27099,included_game_day
+2000,12,Arizona,1999-12-04,86.278731,included_game_day
+2000,12,Arizona,1999-12-07,77.699422613,included_game_day
+2000,12,Arizona,1999-12-11,87.9787952958,included_game_day
+2000,12,Arizona,1999-12-13,100.08957070922,included_game_day
+2000,12,Arizona,1999-12-18,109.961953372991,included_game_day
+2000,12,Arizona,1999-12-21,94.7524628230929,included_game_day
+2000,12,Arizona,1999-12-28,99.18007140316848,included_game_day
+2000,12,Arizona,1999-12-30,102.86078053351953,included_game_day
+2000,12,Arizona,2000-01-06,104.5083693616895,included_game_day
+2000,12,Arizona,2000-01-08,114.27086262126959,included_game_day
+2000,12,Arizona,2000-01-13,101.73836293516706,included_game_day
+2000,12,Arizona,2000-01-15,96.27970257512376,included_game_day
+2000,12,Arizona,2000-01-20,114.15865527457737,included_game_day
+2000,12,Arizona,2000-01-22,109.47510106775988,included_game_day
+2000,12,Arizona,2000-01-26,134.52458215198766,included_game_day
+2000,12,Arizona,2000-01-29,109.58048528713309,included_game_day
+2000,12,Arizona,2000-02-03,111.82088501716112,included_game_day
+2000,12,Arizona,2000-02-05,114.71164315438598,included_game_day
+2000,12,Arizona,2000-02-10,115.47148150802391,included_game_day
+2000,12,Arizona,2000-02-12,125.1306504499444,included_game_day
+2000,12,Arizona,2000-02-17,126.53059709056845,included_game_day
+2000,12,Arizona,2000-02-19,130.2345025889264,included_game_day
+2000,12,Arizona,2000-02-26,129.43190780050665,included_game_day
+2000,12,Arizona,2000-03-02,119.83949822386555,included_game_day
+2000,12,Arizona,2000-03-04,113.83043504693379,included_game_day
+2000,12,Arizona,2000-03-09,128.93564343607784,included_game_day
+2000,12,Arizona,2000-03-11,124.61655153144216,included_game_day
+2000,12,Arizona,2000-03-16,132.7022131290724,included_game_day
+2000,12,Arizona,2000-03-18,123.97734411021565,included_game_day
+2001,12,Arizona,2000-11-21,18.51,included_game_day
+2001,12,Arizona,2000-11-22,23.615000000000002,included_game_day
+2001,12,Arizona,2000-11-25,20.8535,included_game_day
+2001,12,Arizona,2000-11-29,37.58515,included_game_day
+2001,12,Arizona,2000-12-02,84.005635,included_game_day
+2001,12,Arizona,2000-12-09,80.6496789,included_game_day
+2001,12,Arizona,2000-12-16,77.43986319769999,included_game_day
+2001,12,Arizona,2000-12-20,89.663462430735,included_game_day
+2001,12,Arizona,2000-12-28,96.3214216127876,included_game_day
+2001,12,Arizona,2000-12-30,90.05461031341216,included_game_day
+2001,12,Arizona,2001-01-04,88.91624073867996,included_game_day
+2001,12,Arizona,2001-01-06,82.3469523304911,included_game_day
+2001,12,Arizona,2001-01-11,108.46408391223713,included_game_day
+2001,12,Arizona,2001-01-13,122.48450061563896,included_game_day
+2001,12,Arizona,2001-01-18,128.31342129871152,included_game_day
+2001,12,Arizona,2001-01-20,146.08734567525647,included_game_day
+2001,12,Arizona,2001-01-24,139.82654241739021,included_game_day
+2001,12,Arizona,2001-01-27,159.09136618693657,included_game_day
+2001,12,Arizona,2001-02-01,139.6073540876253,included_game_day
+2001,12,Arizona,2001-02-03,151.94074029125852,included_game_day
+2001,12,Arizona,2001-02-08,149.92389615401564,included_game_day
+2001,12,Arizona,2001-02-10,167.01872456044504,included_game_day
+2001,12,Arizona,2001-02-15,161.59323319553175,included_game_day
+2001,12,Arizona,2001-02-17,204.0854274455536,included_game_day
+2001,12,Arizona,2001-02-21,223.3466434541308,included_game_day
+2001,12,Arizona,2001-03-01,209.29258404811475,included_game_day
+2001,12,Arizona,2001-03-03,225.6124550109638,included_game_day
+2001,12,Arizona,2001-03-08,224.41770580059057,included_game_day
+2001,12,Arizona,2001-03-10,216.2395563198631,included_game_day
+2001,12,Arizona,2001-03-16,223.99209076862167,included_game_day
+2001,12,Arizona,2001-03-18,234.93280253460838,included_game_day
+2001,12,Arizona,2001-03-23,233.75009426562667,included_game_day
+2001,12,Arizona,2001-03-25,238.09237026111947,included_game_day
+2001,12,Arizona,2001-03-31,253.748173145533,included_game_day
+2001,12,Arizona,2001-04-02,246.53903152192373,included_game_day
+2002,12,Arizona Wildcats,2001-11-08,7.0,included_game_day
+2002,12,Arizona Wildcats,2001-11-17,23.3,included_game_day
+2002,12,Arizona Wildcats,2001-12-01,11.139000000000001,included_game_day
+2002,12,Arizona Wildcats,2001-12-04,20.105694,included_game_day
+2002,12,Arizona Wildcats,2001-12-08,30.31761314,included_game_day
+2002,12,Arizona Wildcats,2001-12-15,21.303596448599997,included_game_day
+2002,12,Arizona Wildcats,2001-12-20,26.44239048251,included_game_day
+2002,12,Arizona Wildcats,2001-12-22,8.8361768040089,included_game_day
+2002,12,Arizona Wildcats,2001-12-28,26.10596213896601,included_game_day
+2002,12,Arizona Wildcats,2001-12-30,31.45568500397451,included_game_day
+2002,12,Arizona Wildcats,2002-01-04,30.517135628605008,included_game_day
+2002,12,Arizona Wildcats,2002-01-06,33.74021577702231,included_game_day
+2002,12,Arizona Wildcats,2002-01-10,37.80795954561256,included_game_day
+2002,12,Arizona Wildcats,2002-01-12,41.57992947270826,included_game_day
+2002,12,Arizona Wildcats,2002-01-17,61.52236638851472,included_game_day
+2002,12,Arizona Wildcats,2002-01-19,68.6945532295093,included_game_day
+2002,12,Arizona Wildcats,2002-01-23,52.310943336975555,included_game_day
+2002,12,Arizona Wildcats,2002-01-26,54.602614423001334,included_game_day
+2002,12,Arizona Wildcats,2002-01-31,71.02311153476293,included_game_day
+2002,12,Arizona Wildcats,2002-02-02,86.16622426782976,included_game_day
+2002,12,Arizona Wildcats,2002-02-07,79.90633613265382,included_game_day
+2002,12,Arizona Wildcats,2002-02-09,76.3825095855338,included_game_day
+2002,12,Arizona Wildcats,2002-02-14,77.36401936635399,included_game_day
+2002,12,Arizona Wildcats,2002-02-16,79.58973965585488,included_game_day
+2002,12,Arizona Wildcats,2002-02-20,83.76567948426855,included_game_day
+2002,12,Arizona Wildcats,2002-02-28,76.89646268148671,included_game_day
+2002,12,Arizona Wildcats,2002-03-02,123.49728912992529,included_game_day
+2002,12,Arizona Wildcats,2002-03-07,130.46989062011002,included_game_day
+2002,12,Arizona Wildcats,2002-03-08,133.282825477471,included_game_day
+2002,12,Arizona Wildcats,2002-03-09,143.54183472898444,included_game_day
+2002,12,Arizona Wildcats,2002-03-14,136.3858424877473,included_game_day
+2002,12,Arizona Wildcats,2002-03-16,136.31624357098144,included_game_day
+2002,12,Arizona Wildcats,2002-03-21,121.90822824924678,included_game_day
+2003,12,Arizona Wildcats,2002-11-23,36.0,included_game_day
+2003,12,Arizona Wildcats,2002-11-27,64.726,included_game_day
+2003,12,Arizona Wildcats,2002-12-03,87.2612,included_game_day
+2003,12,Arizona Wildcats,2002-12-07,88.97608,included_game_day
+2003,12,Arizona Wildcats,2002-12-15,86.887482901,included_game_day
+2003,12,Arizona Wildcats,2002-12-21,90.0744580889,included_game_day
+2003,12,Arizona Wildcats,2002-12-28,106.41701787791,included_game_day
+2003,12,Arizona Wildcats,2002-12-30,108.24330750279209,included_game_day
+2003,12,Arizona Wildcats,2003-01-03,120.61861941506406,included_game_day
+2003,12,Arizona Wildcats,2003-01-04,125.51563758581744,included_game_day
+2003,12,Arizona Wildcats,2003-01-09,121.10960521526867,included_game_day
+2003,12,Arizona Wildcats,2003-01-11,124.79841504885079,included_game_day
+2003,12,Arizona Wildcats,2003-01-16,126.03556602968074,included_game_day
+2003,12,Arizona Wildcats,2003-01-18,152.83934151650394,included_game_day
+2003,12,Arizona Wildcats,2003-01-22,153.42707767094907,included_game_day
+2003,12,Arizona Wildcats,2003-01-25,177.0763901776913,included_game_day
+2003,12,Arizona Wildcats,2003-01-30,156.78381880414085,included_game_day
+2003,12,Arizona Wildcats,2003-02-01,159.88594283870066,included_game_day
+2003,12,Arizona Wildcats,2003-02-06,148.3907546873115,included_game_day
+2003,12,Arizona Wildcats,2003-02-08,141.97873469889853,included_game_day
+2003,12,Arizona Wildcats,2003-02-13,161.7758517973062,included_game_day
+2003,12,Arizona Wildcats,2003-02-15,173.12114569424165,included_game_day
+2003,12,Arizona Wildcats,2003-02-22,192.02703762275718,included_game_day
+2003,12,Arizona Wildcats,2003-02-27,195.81047624210743,included_game_day
+2003,12,Arizona Wildcats,2003-03-01,191.73887005390938,included_game_day
+2003,12,Arizona Wildcats,2003-03-06,180.9521509133926,included_game_day
+2003,12,Arizona Wildcats,2003-03-08,175.87726385647753,included_game_day
+2003,12,Arizona Wildcats,2003-03-13,148.22190474890064,included_game_day
+2003,12,Arizona Wildcats,2003-03-20,162.52662049906016,included_game_day
+2003,12,Arizona Wildcats,2003-03-22,153.52586984118602,included_game_day
+2003,12,Arizona Wildcats,2003-03-27,161.85157126956153,included_game_day
+2003,12,Arizona Wildcats,2003-03-29,158.70332106364296,included_game_day
+2004,12,Arizona Wildcats,2003-11-24,32.4,included_game_day
+2004,12,Arizona Wildcats,2003-11-28,28.916,included_game_day
+2004,12,Arizona Wildcats,2003-12-06,34.170529,included_game_day
+2004,12,Arizona Wildcats,2003-12-09,47.7013011,included_game_day
+2004,12,Arizona Wildcats,2003-12-13,54.67768099,included_game_day
+2004,12,Arizona Wildcats,2003-12-17,53.9752062468,included_game_day
+2004,12,Arizona Wildcats,2003-12-22,61.174702936773,included_game_day
+2004,12,Arizona Wildcats,2003-12-28,62.5090839294934,included_game_day
+2004,12,Arizona Wildcats,2003-12-30,56.86732251658406,included_game_day
+2004,12,Arizona Wildcats,2004-01-03,75.48810585656429,included_game_day
+2004,12,Arizona Wildcats,2004-01-08,87.16153193463322,included_game_day
+2004,12,Arizona Wildcats,2004-01-10,76.2454430793698,included_game_day
+2004,12,Arizona Wildcats,2004-01-15,61.048491291012894,included_game_day
+2004,12,Arizona Wildcats,2004-01-17,85.9718868215111,included_game_day
+2004,12,Arizona Wildcats,2004-01-22,107.94510156639137,included_game_day
+2004,12,Arizona Wildcats,2004-01-25,124.18026951376301,included_game_day
+2004,12,Arizona Wildcats,2004-01-29,103.50500179724816,included_game_day
+2004,12,Arizona Wildcats,2004-01-31,98.09268568406867,included_game_day
+2004,12,Arizona Wildcats,2004-02-05,90.9663933686757,included_game_day
+2004,12,Arizona Wildcats,2004-02-07,94.6697812639838,included_game_day
+2004,12,Arizona Wildcats,2004-02-12,107.34679502059605,included_game_day
+2004,12,Arizona Wildcats,2004-02-14,114.20546653242056,included_game_day
+2004,12,Arizona Wildcats,2004-02-19,123.11563521410642,included_game_day
+2004,12,Arizona Wildcats,2004-02-21,106.96850623627418,included_game_day
+2004,12,Arizona Wildcats,2004-02-26,92.53481171400959,included_game_day
+2004,12,Arizona Wildcats,2004-02-28,93.15892983679834,included_game_day
+2004,12,Arizona Wildcats,2004-03-07,101.97133899027074,included_game_day
+2004,12,Arizona Wildcats,2004-03-11,91.4766411166871,included_game_day
+2004,12,Arizona Wildcats,2004-03-12,89.61311478470189,included_game_day
+2004,12,Arizona Wildcats,2004-03-18,88.71907829349149,included_game_day
+2005,12,Arizona Wildcats,2004-11-16,8.0,included_game_day
+2005,12,Arizona Wildcats,2004-11-18,22.1,included_game_day
+2005,12,Arizona Wildcats,2004-11-21,7.8160000000000025,included_game_day
+2005,12,Arizona Wildcats,2004-11-24,14.292400000000002,included_game_day
+2005,12,Arizona Wildcats,2004-11-26,13.747860000000003,included_game_day
+2005,12,Arizona Wildcats,2004-11-30,38.61619400000001,included_game_day
+2005,12,Arizona Wildcats,2004-12-05,41.485750900000006,included_game_day
+2005,12,Arizona Wildcats,2004-12-11,39.895386300000006,included_game_day
+2005,12,Arizona Wildcats,2004-12-18,48.8243715607,included_game_day
+2005,12,Arizona Wildcats,2004-12-21,73.42925439513,included_game_day
+2005,12,Arizona Wildcats,2004-12-28,90.06613977377225,included_game_day
+2005,12,Arizona Wildcats,2004-12-30,93.11206907454716,included_game_day
+2005,12,Arizona Wildcats,2005-01-02,108.28416435524608,included_game_day
+2005,12,Arizona Wildcats,2005-01-06,124.85200587937537,included_game_day
+2005,12,Arizona Wildcats,2005-01-08,104.89408519866046,included_game_day
+2005,12,Arizona Wildcats,2005-01-13,99.61858612427189,included_game_day
+2005,12,Arizona Wildcats,2005-01-15,95.51769130649515,included_game_day
+2005,12,Arizona Wildcats,2005-01-20,102.6076857141467,included_game_day
+2005,12,Arizona Wildcats,2005-01-22,105.86418085748022,included_game_day
+2005,12,Arizona Wildcats,2005-01-27,118.49381014084067,included_game_day
+2005,12,Arizona Wildcats,2005-01-29,99.34035283221743,included_game_day
+2005,12,Arizona Wildcats,2005-02-03,110.99739127663085,included_game_day
+2005,12,Arizona Wildcats,2005-02-05,121.84970741071407,included_game_day
+2005,12,Arizona Wildcats,2005-02-10,124.63172535435935,included_game_day
+2005,12,Arizona Wildcats,2005-02-12,131.04228872860986,included_game_day
+2005,12,Arizona Wildcats,2005-02-17,142.0324146279636,included_game_day
+2005,12,Arizona Wildcats,2005-02-20,149.36712639065672,included_game_day
+2005,12,Arizona Wildcats,2005-02-24,140.96410750694398,included_game_day
+2005,12,Arizona Wildcats,2005-02-26,135.20182143655114,included_game_day
+2005,12,Arizona Wildcats,2005-03-05,130.30340543412606,included_game_day
+2005,12,Arizona Wildcats,2005-03-10,136.04504292389552,included_game_day
+2005,12,Arizona Wildcats,2005-03-11,155.15074690574477,included_game_day
+2005,12,Arizona Wildcats,2005-03-12,140.31070859376774,included_game_day
+2005,12,Arizona Wildcats,2005-03-17,152.22868841008,included_game_day
+2005,12,Arizona Wildcats,2005-03-19,166.4682313374875,included_game_day
+2005,12,Arizona Wildcats,2005-03-24,167.8601205554862,included_game_day
+2005,12,Arizona Wildcats,2005-03-26,170.45762144937515,included_game_day
+2006,12,Arizona Wildcats,2005-11-21,17.1,included_game_day
+2006,12,Arizona Wildcats,2005-11-22,6.320000000000002,included_game_day
+2006,12,Arizona Wildcats,2005-11-23,3.605420000000002,included_game_day
+2006,12,Arizona Wildcats,2005-11-27,35.034878,included_game_day
+2006,12,Arizona Wildcats,2005-12-03,31.1969252,included_game_day
+2006,12,Arizona Wildcats,2005-12-08,33.5739899678,included_game_day
+2006,12,Arizona Wildcats,2005-12-10,37.288429831020004,included_game_day
+2006,12,Arizona Wildcats,2005-12-17,67.89692436731801,included_game_day
+2006,12,Arizona Wildcats,2005-12-19,91.43807324958621,included_game_day
+2006,12,Arizona Wildcats,2005-12-21,87.34259378670059,included_game_day
+2006,12,Arizona Wildcats,2005-12-29,106.38561862826015,included_game_day
+2006,12,Arizona Wildcats,2005-12-31,113.58693206574374,included_game_day
+2006,12,Arizona Wildcats,2006-01-05,100.3369462035341,included_game_day
+2006,12,Arizona Wildcats,2006-01-07,104.29800374729089,included_game_day
+2006,12,Arizona Wildcats,2006-01-12,87.98587561128812,included_game_day
+2006,12,Arizona Wildcats,2006-01-14,80.79869726913192,included_game_day
+2006,12,Arizona Wildcats,2006-01-19,82.14167903102637,included_game_day
+2006,12,Arizona Wildcats,2006-01-21,82.57259559745671,included_game_day
+2006,12,Arizona Wildcats,2006-01-25,85.17888960069858,included_game_day
+2006,12,Arizona Wildcats,2006-01-28,71.54577163425851,included_game_day
+2006,12,Arizona Wildcats,2006-02-02,65.6134784028397,included_game_day
+2006,12,Arizona Wildcats,2006-02-04,60.376958589181015,included_game_day
+2006,12,Arizona Wildcats,2006-02-09,56.07515789969447,included_game_day
+2006,12,Arizona Wildcats,2006-02-11,68.9538980255935,included_game_day
+2006,12,Arizona Wildcats,2006-02-16,64.13270516386139,included_game_day
+2006,12,Arizona Wildcats,2006-02-19,71.74010500641388,included_game_day
+2006,12,Arizona Wildcats,2006-02-25,83.47765867002349,included_game_day
+2006,12,Arizona Wildcats,2006-03-02,78.29768858248144,included_game_day
+2006,12,Arizona Wildcats,2006-03-04,79.31035640253586,included_game_day
+2006,12,Arizona Wildcats,2006-03-09,76.76376520887152,included_game_day
+2006,12,Arizona Wildcats,2006-03-10,75.71564104302472,included_game_day
+2006,12,Arizona Wildcats,2006-03-17,91.071697467231,included_game_day
+2006,12,Arizona Wildcats,2006-03-19,95.20897554779155,included_game_day
+2007,12,Arizona Wildcats,2006-11-12,0.0,included_game_day
+2007,12,Arizona Wildcats,2006-11-15,16.91,included_game_day
+2007,12,Arizona Wildcats,2006-11-19,27.051000000000002,included_game_day
+2007,12,Arizona Wildcats,2006-11-22,48.0689,included_game_day
+2007,12,Arizona Wildcats,2006-11-28,55.188415,included_game_day
+2007,12,Arizona Wildcats,2006-12-02,68.79124197,included_game_day
+2007,12,Arizona Wildcats,2006-12-05,75.461830823,included_game_day
+2007,12,Arizona Wildcats,2006-12-09,94.5508995067,included_game_day
+2007,12,Arizona Wildcats,2006-12-17,112.31546127013,included_game_day
+2007,12,Arizona Wildcats,2006-12-20,114.0657867362738,included_game_day
+2007,12,Arizona Wildcats,2006-12-28,113.98349323181701,included_game_day
+2007,12,Arizona Wildcats,2006-12-30,117.92842998683989,included_game_day
+2007,12,Arizona Wildcats,2007-01-04,125.54169607397023,included_game_day
+2007,12,Arizona Wildcats,2007-01-06,120.34645418623224,included_game_day
+2007,12,Arizona Wildcats,2007-01-11,114.57418624498274,included_game_day
+2007,12,Arizona Wildcats,2007-01-14,109.58472716979361,included_game_day
+2007,12,Arizona Wildcats,2007-01-18,107.17941307628013,included_game_day
+2007,12,Arizona Wildcats,2007-01-20,109.16943853607329,included_game_day
+2007,12,Arizona Wildcats,2007-01-24,118.38247992773272,included_game_day
+2007,12,Arizona Wildcats,2007-01-27,98.74593058528828,included_game_day
+2007,12,Arizona Wildcats,2007-02-01,90.96445009181677,included_game_day
+2007,12,Arizona Wildcats,2007-02-03,113.99600392177787,included_game_day
+2007,12,Arizona Wildcats,2007-02-08,106.84720748156008,included_game_day
+2007,12,Arizona Wildcats,2007-02-10,111.20983704591656,included_game_day
+2007,12,Arizona Wildcats,2007-02-15,102.86242631474842,included_game_day
+2007,12,Arizona Wildcats,2007-02-17,89.52020249639754,included_game_day
+2007,12,Arizona Wildcats,2007-02-25,88.7312555767544,included_game_day
+2007,12,Arizona Wildcats,2007-03-01,89.79108371352528,included_game_day
+2007,12,Arizona Wildcats,2007-03-03,97.62099481867045,included_game_day
+2007,12,Arizona Wildcats,2007-03-08,80.2287283747597,included_game_day
+2007,12,Arizona Wildcats,2007-03-16,72.96843225371087,included_game_day
+2008,12,Arizona Wildcats,2007-11-13,4.0,included_game_day
+2008,12,Arizona Wildcats,2007-11-17,1.8439999999999999,included_game_day
+2008,12,Arizona Wildcats,2007-11-19,14.853599999999998,included_game_day
+2008,12,Arizona Wildcats,2007-11-25,17.1759466,included_game_day
+2008,12,Arizona Wildcats,2007-11-28,41.48835194,included_game_day
+2008,12,Arizona Wildcats,2007-12-02,56.131214946,included_game_day
+2008,12,Arizona Wildcats,2007-12-08,60.3985132314,included_game_day
+2008,12,Arizona Wildcats,2007-12-16,70.05442647426,included_game_day
+2008,12,Arizona Wildcats,2007-12-19,73.120214520834,included_game_day
+2008,12,Arizona Wildcats,2007-12-22,83.5379102875078,included_game_day
+2008,12,Arizona Wildcats,2007-12-29,76.42929374181307,included_game_day
+2008,12,Arizona Wildcats,2008-01-03,79.41809743567805,included_game_day
+2008,12,Arizona Wildcats,2008-01-05,65.10092082010753,included_game_day
+2008,12,Arizona Wildcats,2008-01-09,67.59847265398639,included_game_day
+2008,12,Arizona Wildcats,2008-01-12,84.21018013104431,included_game_day
+2008,12,Arizona Wildcats,2008-01-17,86.35535191991667,included_game_day
+2008,12,Arizona Wildcats,2008-01-24,100.83066162411217,included_game_day
+2008,12,Arizona Wildcats,2008-01-26,110.08391631275677,included_game_day
+2008,12,Arizona Wildcats,2008-01-31,123.10210110838823,included_game_day
+2008,12,Arizona Wildcats,2008-02-02,110.5202619246014,included_game_day
+2008,12,Arizona Wildcats,2008-02-10,97.78024601823252,included_game_day
+2008,12,Arizona Wildcats,2008-02-14,99.92965838578478,included_game_day
+2008,12,Arizona Wildcats,2008-02-16,99.72033030057362,included_game_day
+2008,12,Arizona Wildcats,2008-02-21,92.23423397612098,included_game_day
+2008,12,Arizona Wildcats,2008-02-23,110.0217712439456,included_game_day
+2008,12,Arizona Wildcats,2008-02-28,93.61272884529859,included_game_day
+2008,12,Arizona Wildcats,2008-03-02,99.26377480286938,included_game_day
+2008,12,Arizona Wildcats,2008-03-06,120.53791257622318,included_game_day
+2008,12,Arizona Wildcats,2008-03-08,110.93063028980262,included_game_day
+2008,12,Arizona Wildcats,2008-03-12,121.17028130829172,included_game_day
+2008,12,Arizona Wildcats,2008-03-13,110.07574385639485,included_game_day
+2008,12,Arizona Wildcats,2008-03-20,100.8927247834478,included_game_day
+2009,12,Arizona Wildcats,2008-11-17,10.0,included_game_day
+2009,12,Arizona Wildcats,2008-11-18,7.46,included_game_day
+2009,12,Arizona Wildcats,2008-11-24,27.78947,included_game_day
+2009,12,Arizona Wildcats,2008-11-25,24.188723000000003,included_game_day
+2009,12,Arizona Wildcats,2008-11-30,33.0869307,included_game_day
+2009,12,Arizona Wildcats,2008-12-02,48.58017063,included_game_day
+2009,12,Arizona Wildcats,2008-12-05,49.591649567,included_game_day
+2009,12,Arizona Wildcats,2008-12-10,61.0545228803,included_game_day
+2009,12,Arizona Wildcats,2008-12-14,67.572658724873,included_game_day
+2009,12,Arizona Wildcats,2008-12-20,53.588003335531695,included_game_day
+2009,12,Arizona Wildcats,2008-12-23,72.38311118815062,included_game_day
+2009,12,Arizona Wildcats,2008-12-29,65.03859099881164,included_game_day
+2009,12,Arizona Wildcats,2009-01-02,58.78942448981031,included_game_day
+2009,12,Arizona Wildcats,2009-01-04,46.76703253252059,included_game_day
+2009,12,Arizona Wildcats,2009-01-08,52.3065819168402,included_game_day
+2009,12,Arizona Wildcats,2009-01-10,61.05044842420158,included_game_day
+2009,12,Arizona Wildcats,2009-01-15,49.47340221803758,included_game_day
+2009,12,Arizona Wildcats,2009-01-17,55.875932380177666,included_game_day
+2009,12,Arizona Wildcats,2009-01-21,56.57195551188158,included_game_day
+2009,12,Arizona Wildcats,2009-01-24,63.146330364220375,included_game_day
+2009,12,Arizona Wildcats,2009-01-29,76.28029272303182,included_game_day
+2009,12,Arizona Wildcats,2009-01-31,83.68800901654473,included_game_day
+2009,12,Arizona Wildcats,2009-02-05,82.5420050852534,included_game_day
+2009,12,Arizona Wildcats,2009-02-07,84.90023612713111,included_game_day
+2009,12,Arizona Wildcats,2009-02-12,89.32267934234766,included_game_day
+2009,12,Arizona Wildcats,2009-02-14,106.77951003141823,included_game_day
+2009,12,Arizona Wildcats,2009-02-22,110.2079931137244,included_game_day
+2009,12,Arizona Wildcats,2009-02-26,93.60965001953531,included_game_day
+2009,12,Arizona Wildcats,2009-02-28,95.44706902926546,included_game_day
+2009,12,Arizona Wildcats,2009-03-05,85.70141860483642,included_game_day
+2009,12,Arizona Wildcats,2009-03-07,95.88602413479848,included_game_day
+2009,12,Arizona Wildcats,2009-03-12,86.18140747293924,included_game_day
+2009,12,Arizona Wildcats,2009-03-20,100.9230600188981,included_game_day
+2009,12,Arizona Wildcats,2009-03-22,113.80354173170153,included_game_day
+2009,12,Arizona Wildcats,2009-03-27,82.6518697932415,included_game_day
+2010,12,Arizona Wildcats,2009-11-15,14.0,included_game_day
+2010,12,Arizona Wildcats,2009-11-19,29.67,included_game_day
+2010,12,Arizona Wildcats,2009-11-24,30.937510000000003,included_game_day
+2010,12,Arizona Wildcats,2009-11-25,17.506859000000002,included_game_day
+2010,12,Arizona Wildcats,2009-12-02,14.487824370000002,included_game_day
+2010,12,Arizona Wildcats,2009-12-06,1.3797360424000011,included_game_day
+2010,12,Arizona Wildcats,2009-12-09,20.84472572516,included_game_day
+2010,12,Arizona Wildcats,2009-12-12,11.296271988629,included_game_day
+2010,12,Arizona Wildcats,2009-12-21,5.201429408578974,included_game_day
+2010,12,Arizona Wildcats,2009-12-23,6.8962280583862885,included_game_day
+2010,12,Arizona Wildcats,2009-12-28,-11.920406942408253,included_game_day
+2010,12,Arizona Wildcats,2009-12-31,-7.521767305520875,included_game_day
+2010,12,Arizona Wildcats,2010-01-02,13.36607005744322,included_game_day
+2010,12,Arizona Wildcats,2010-01-08,12.716300500377443,included_game_day
+2010,12,Arizona Wildcats,2010-01-10,31.054984222404993,included_game_day
+2010,12,Arizona Wildcats,2010-01-14,26.769129251619425,included_game_day
+2010,12,Arizona Wildcats,2010-01-16,44.163209720447206,included_game_day
+2010,12,Arizona Wildcats,2010-01-23,74.47965552790829,included_game_day
+2010,12,Arizona Wildcats,2010-01-28,74.90080692953177,included_game_day
+2010,12,Arizona Wildcats,2010-01-31,79.66825874097347,included_game_day
+2010,12,Arizona Wildcats,2010-02-04,79.61801264976296,included_game_day
+2010,12,Arizona Wildcats,2010-02-06,57.711561426540115,included_game_day
+2010,12,Arizona Wildcats,2010-02-11,60.538338177929,included_game_day
+2010,12,Arizona Wildcats,2010-02-13,44.25035931286524,included_game_day
+2010,12,Arizona Wildcats,2010-02-21,40.735975515601304,included_game_day
+2010,12,Arizona Wildcats,2010-02-25,26.577170444231932,included_game_day
+2010,12,Arizona Wildcats,2010-02-27,31.75307960889166,included_game_day
+2010,12,Arizona Wildcats,2010-03-04,32.832522466520786,included_game_day
+2010,12,Arizona Wildcats,2010-03-06,32.138548895566764,included_game_day
+2010,12,Arizona Wildcats,2010-03-11,24.923465411276815,included_game_day
+2011,12,Arizona Wildcats,2010-11-14,44.5,included_game_day
+2011,12,Arizona Wildcats,2010-11-18,64.95,included_game_day
+2011,12,Arizona Wildcats,2010-11-21,79.555,included_game_day
+2011,12,Arizona Wildcats,2010-11-23,101.36351,included_game_day
+2011,12,Arizona Wildcats,2010-11-26,114.76359000000001,included_game_day
+2011,12,Arizona Wildcats,2010-11-27,111.25023100000001,included_game_day
+2011,12,Arizona Wildcats,2010-12-01,132.5943349,included_game_day
+2011,12,Arizona Wildcats,2010-12-05,139.84111477000002,included_game_day
+2011,12,Arizona Wildcats,2010-12-08,132.3985805821,included_game_day
+2011,12,Arizona Wildcats,2010-12-11,110.59445840420001,included_game_day
+2011,12,Arizona Wildcats,2010-12-16,104.84813332308,included_game_day
+2011,12,Arizona Wildcats,2010-12-19,109.25177084191891,included_game_day
+2011,12,Arizona Wildcats,2010-12-22,122.92079357821416,included_game_day
+2011,12,Arizona Wildcats,2010-12-30,132.81063399545292,included_game_day
+2011,12,Arizona Wildcats,2011-01-02,123.2396450498003,included_game_day
+2011,12,Arizona Wildcats,2011-01-06,111.01265569377748,included_game_day
+2011,12,Arizona Wildcats,2011-01-09,111.60714393502215,included_game_day
+2011,12,Arizona Wildcats,2011-01-15,108.45122504720862,included_game_day
+2011,12,Arizona Wildcats,2011-01-20,100.3996207631732,included_game_day
+2011,12,Arizona Wildcats,2011-01-22,104.53321504211762,included_game_day
+2011,12,Arizona Wildcats,2011-01-27,108.22313237980362,included_game_day
+2011,12,Arizona Wildcats,2011-01-29,110.70100068466597,included_game_day
+2011,12,Arizona Wildcats,2011-02-03,113.9467328818806,included_game_day
+2011,12,Arizona Wildcats,2011-02-05,113.33275710263598,included_game_day
+2011,12,Arizona Wildcats,2011-02-13,120.84409272618757,included_game_day
+2011,12,Arizona Wildcats,2011-02-17,119.70677800207787,included_game_day
+2011,12,Arizona Wildcats,2011-02-19,120.34407001411002,included_game_day
+2011,12,Arizona Wildcats,2011-02-24,110.253304662829,included_game_day
+2011,12,Arizona Wildcats,2011-02-26,88.33631929968445,included_game_day
+2011,12,Arizona Wildcats,2011-03-03,86.44537048629816,included_game_day
+2011,12,Arizona Wildcats,2011-03-05,84.05499710586713,included_game_day
+2011,12,Arizona Wildcats,2011-03-10,83.4913536486006,included_game_day
+2011,12,Arizona Wildcats,2011-03-11,90.14405856590339,included_game_day
+2011,12,Arizona Wildcats,2011-03-12,91.57190543084009,included_game_day
+2011,12,Arizona Wildcats,2011-03-18,89.30392706900722,included_game_day
+2011,12,Arizona Wildcats,2011-03-20,98.03168889124251,included_game_day
+2011,12,Arizona Wildcats,2011-03-24,125.42546548668807,included_game_day
+2011,12,Arizona Wildcats,2011-03-26,128.88294895969636,included_game_day
+2012,12,Arizona Wildcats,2011-11-07,6.0,included_game_day
+2012,12,Arizona Wildcats,2011-11-09,10.4,included_game_day
+2012,12,Arizona Wildcats,2011-11-13,16.36,included_game_day
+2012,12,Arizona Wildcats,2011-11-17,29.706,included_game_day
+2012,12,Arizona Wildcats,2011-11-18,18.563699999999997,included_game_day
+2012,12,Arizona Wildcats,2011-11-23,12.999939999999997,included_game_day
+2012,12,Arizona Wildcats,2011-11-29,27.441645799999996,included_game_day
+2012,12,Arizona Wildcats,2011-12-03,28.169878229999995,included_game_day
+2012,12,Arizona Wildcats,2011-12-07,34.18355934099999,included_game_day
+2012,12,Arizona Wildcats,2011-12-10,47.31550238707999,included_game_day
+2012,12,Arizona Wildcats,2011-12-17,36.68194377515089,included_game_day
+2012,12,Arizona Wildcats,2011-12-20,44.2140839760668,included_game_day
+2012,12,Arizona Wildcats,2011-12-22,67.95030582327172,included_game_day
+2012,12,Arizona Wildcats,2011-12-31,74.05489947405367,included_game_day
+2012,12,Arizona Wildcats,2012-01-05,66.65555166416445,included_game_day
+2012,12,Arizona Wildcats,2012-01-08,73.66288979373513,included_game_day
+2012,12,Arizona Wildcats,2012-01-12,78.97373176924492,included_game_day
+2012,12,Arizona Wildcats,2012-01-14,69.86769658764874,included_game_day
+2012,12,Arizona Wildcats,2012-01-19,81.20985452232787,included_game_day
+2012,12,Arizona Wildcats,2012-01-21,78.9480755409872,included_game_day
+2012,12,Arizona Wildcats,2012-01-26,96.01845074519005,included_game_day
+2012,12,Arizona Wildcats,2012-01-28,86.60769941893012,included_game_day
+2012,12,Arizona Wildcats,2012-02-02,95.76686280718766,included_game_day
+2012,12,Arizona Wildcats,2012-02-04,108.17353996826446,included_game_day
+2012,12,Arizona Wildcats,2012-02-09,114.81138572615346,included_game_day
+2012,12,Arizona Wildcats,2012-02-11,98.58968958055377,included_game_day
+2012,12,Arizona Wildcats,2012-02-16,98.7106466433601,included_game_day
+2012,12,Arizona Wildcats,2012-02-18,87.8790819309186,included_game_day
+2012,12,Arizona Wildcats,2012-02-23,85.89793054640457,included_game_day
+2012,12,Arizona Wildcats,2012-02-25,82.28006296308396,included_game_day
+2012,12,Arizona Wildcats,2012-03-04,63.86357917325515,included_game_day
+2012,12,Arizona Wildcats,2012-03-08,74.47422470220968,included_game_day
+2012,12,Arizona Wildcats,2012-03-09,82.90296323953037,included_game_day
+2012,12,Arizona Wildcats,2012-03-10,78.4267690964861,included_game_day
+2012,12,Arizona Wildcats,2012-03-14,63.25739846006357,included_game_day
+2013,12,Arizona Wildcats,2012-11-11,5.3,included_game_day
+2013,12,Arizona Wildcats,2012-11-15,24.470000000000002,included_game_day
+2013,12,Arizona Wildcats,2012-11-19,38.308,included_game_day
+2013,12,Arizona Wildcats,2012-11-28,71.982928,included_game_day
+2013,12,Arizona Wildcats,2012-12-01,100.5071272,included_game_day
+2013,12,Arizona Wildcats,2012-12-04,97.980432393,included_game_day
+2013,12,Arizona Wildcats,2012-12-08,108.3377085136,included_game_day
+2013,12,Arizona Wildcats,2012-12-15,108.62884897277,included_game_day
+2013,12,Arizona Wildcats,2012-12-18,122.016738398293,included_game_day
+2013,12,Arizona Wildcats,2012-12-22,121.93345248576126,included_game_day
+2013,12,Arizona Wildcats,2012-12-23,138.46414334655722,included_game_day
+2013,12,Arizona Wildcats,2012-12-25,133.54408786264023,included_game_day
+2013,12,Arizona Wildcats,2013-01-03,133.8607189178947,included_game_day
+2013,12,Arizona Wildcats,2013-01-05,124.69011628370166,included_game_day
+2013,12,Arizona Wildcats,2013-01-10,123.78485072624616,included_game_day
+2013,12,Arizona Wildcats,2013-01-12,126.96813325299105,included_game_day
+2013,12,Arizona Wildcats,2013-01-19,142.1889341083234,included_game_day
+2013,12,Arizona Wildcats,2013-01-24,122.38159867538664,included_game_day
+2013,12,Arizona Wildcats,2013-01-26,134.2708730723104,included_game_day
+2013,12,Arizona Wildcats,2013-01-31,131.9735804289037,included_game_day
+2013,12,Arizona Wildcats,2013-02-02,138.86621586127066,included_game_day
+2013,12,Arizona Wildcats,2013-02-06,137.73804590905505,included_game_day
+2013,12,Arizona Wildcats,2013-02-10,117.16235187606736,included_game_day
+2013,12,Arizona Wildcats,2013-02-14,103.50491639385793,included_game_day
+2013,12,Arizona Wildcats,2013-02-17,100.19337920607357,included_game_day
+2013,12,Arizona Wildcats,2013-02-20,108.88113221154472,included_game_day
+2013,12,Arizona Wildcats,2013-02-23,113.33533502403291,included_game_day
+2013,12,Arizona Wildcats,2013-02-27,97.28980338639057,included_game_day
+2013,12,Arizona Wildcats,2013-03-02,94.66601482604501,included_game_day
+2013,12,Arizona Wildcats,2013-03-09,103.0679681215812,included_game_day
+2013,12,Arizona Wildcats,2013-03-14,110.82301815804271,included_game_day
+2013,12,Arizona Wildcats,2013-03-15,106.32127246451638,included_game_day
+2013,12,Arizona Wildcats,2013-03-21,123.01208792051878,included_game_day
+2013,12,Arizona Wildcats,2013-03-23,138.44220260370795,included_game_day
+2013,12,Arizona Wildcats,2013-03-28,139.3850510439066,included_game_day
+2014,12,Arizona Wildcats,2013-11-08,8.0,included_game_day
+2014,12,Arizona Wildcats,2013-11-11,38.2,included_game_day
+2014,12,Arizona Wildcats,2013-11-14,49.68000000000001,included_game_day
+2014,12,Arizona Wildcats,2013-11-18,88.82060000000001,included_game_day
+2014,12,Arizona Wildcats,2013-11-19,104.83254000000001,included_game_day
+2014,12,Arizona Wildcats,2013-11-27,101.09930600000001,included_game_day
+2014,12,Arizona Wildcats,2013-11-29,103.49532105000002,included_game_day
+2014,12,Arizona Wildcats,2013-12-03,115.45895043100002,included_game_day
+2014,12,Arizona Wildcats,2013-12-07,107.47470835790001,included_game_day
+2014,12,Arizona Wildcats,2013-12-11,123.97661257528802,included_game_day
+2014,12,Arizona Wildcats,2013-12-14,128.4371246042792,included_game_day
+2014,12,Arizona Wildcats,2013-12-19,136.13471695652927,included_game_day
+2014,12,Arizona Wildcats,2013-12-23,148.71603137557634,included_game_day
+2014,12,Arizona Wildcats,2014-01-02,168.69147274040432,included_game_day
+2014,12,Arizona Wildcats,2014-01-04,160.28285190045742,included_game_day
+2014,12,Arizona Wildcats,2014-01-09,163.00155069837643,included_game_day
+2014,12,Arizona Wildcats,2014-01-12,168.7192052081934,included_game_day
+2014,12,Arizona Wildcats,2014-01-16,181.010037217178,included_game_day
+2014,12,Arizona Wildcats,2014-01-23,178.88645795831326,included_game_day
+2014,12,Arizona Wildcats,2014-01-26,175.82733380515577,included_game_day
+2014,12,Arizona Wildcats,2014-01-29,172.40707520888228,included_game_day
+2014,12,Arizona Wildcats,2014-02-01,163.9163129940928,included_game_day
+2014,12,Arizona Wildcats,2014-02-06,155.1279879542399,included_game_day
+2014,12,Arizona Wildcats,2014-02-09,164.15302855924747,included_game_day
+2014,12,Arizona Wildcats,2014-02-14,157.72335335012758,included_game_day
+2014,12,Arizona Wildcats,2014-02-19,157.5446194231164,included_game_day
+2014,12,Arizona Wildcats,2014-02-22,179.63844704963677,included_game_day
+2014,12,Arizona Wildcats,2014-02-26,193.23658641146264,included_game_day
+2014,12,Arizona Wildcats,2014-03-02,194.25796534050687,included_game_day
+2014,12,Arizona Wildcats,2014-03-05,186.1926264028225,included_game_day
+2014,12,Arizona Wildcats,2014-03-08,174.82194153039103,included_game_day
+2014,12,Arizona Wildcats,2014-03-13,200.35115967148013,included_game_day
+2014,12,Arizona Wildcats,2014-03-14,206.32007047526372,included_game_day
+2014,12,Arizona Wildcats,2014-03-15,196.24262591420887,included_game_day
+2014,12,Arizona Wildcats,2014-03-21,188.47325224014793,included_game_day
+2014,12,Arizona Wildcats,2014-03-23,207.16953850439327,included_game_day
+2014,12,Arizona Wildcats,2014-03-27,207.65525360568233,included_game_day
+2014,12,Arizona Wildcats,2014-03-29,204.8710502859726,included_game_day
+2015,12,Arizona Wildcats,2014-11-14,20.0,included_game_day
+2015,12,Arizona Wildcats,2014-11-16,31.2,included_game_day
+2015,12,Arizona Wildcats,2014-11-19,43.629999999999995,included_game_day
+2015,12,Arizona Wildcats,2014-11-24,59.714999999999996,included_game_day
+2015,12,Arizona Wildcats,2014-11-25,61.437999999999995,included_game_day
+2015,12,Arizona Wildcats,2014-11-26,62.90606999999999,included_game_day
+2015,12,Arizona Wildcats,2014-12-02,78.384773,included_game_day
+2015,12,Arizona Wildcats,2014-12-06,81.13375094,included_game_day
+2015,12,Arizona Wildcats,2014-12-09,97.334840387,included_game_day
+2015,12,Arizona Wildcats,2014-12-13,114.887692545,included_game_day
+2015,12,Arizona Wildcats,2014-12-16,133.99781492005,included_game_day
+2015,12,Arizona Wildcats,2014-12-19,132.720544248745,included_game_day
+2015,12,Arizona Wildcats,2014-12-23,117.92714110770324,included_game_day
+2015,12,Arizona Wildcats,2015-01-04,134.1796605449235,included_game_day
+2015,12,Arizona Wildcats,2015-01-08,147.68925059090034,included_game_day
+2015,12,Arizona Wildcats,2015-01-11,139.63753495903677,included_game_day
+2015,12,Arizona Wildcats,2015-01-15,142.11773942241211,included_game_day
+2015,12,Arizona Wildcats,2015-01-17,159.44565908262885,included_game_day
+2015,12,Arizona Wildcats,2015-01-22,162.42485795277668,included_game_day
+2015,12,Arizona Wildcats,2015-01-24,168.70214642922866,included_game_day
+2015,12,Arizona Wildcats,2015-01-28,187.94680017871724,included_game_day
+2015,12,Arizona Wildcats,2015-01-30,194.35651669196184,included_game_day
+2015,12,Arizona Wildcats,2015-02-07,181.82614226115018,included_game_day
+2015,12,Arizona Wildcats,2015-02-13,193.3608492654338,included_game_day
+2015,12,Arizona Wildcats,2015-02-15,202.1140278959807,included_game_day
+2015,12,Arizona Wildcats,2015-02-19,209.16628480583216,included_game_day
+2015,12,Arizona Wildcats,2015-02-21,203.06965608654374,included_game_day
+2015,12,Arizona Wildcats,2015-02-26,214.9871198891077,included_game_day
+2015,12,Arizona Wildcats,2015-02-28,221.0960205274891,included_game_day
+2015,12,Arizona Wildcats,2015-03-05,236.76067917538143,included_game_day
+2015,12,Arizona Wildcats,2015-03-07,240.04405959684502,included_game_day
+2015,12,Arizona Wildcats,2015-03-12,241.00663815836032,included_game_day
+2015,12,Arizona Wildcats,2015-03-13,233.36402328835393,included_game_day
+2015,12,Arizona Wildcats,2015-03-14,248.2071049526149,included_game_day
+2015,12,Arizona Wildcats,2015-03-19,244.38085928998842,included_game_day
+2015,12,Arizona Wildcats,2015-03-21,246.69210206661907,included_game_day
+2015,12,Arizona Wildcats,2015-03-26,241.84166016571552,included_game_day
+2015,12,Arizona Wildcats,2015-03-28,230.7886555288692,included_game_day
+2016,12,Arizona Wildcats,2015-11-13,15.0,included_game_day
+2016,12,Arizona Wildcats,2015-11-16,40.3,included_game_day
+2016,12,Arizona Wildcats,2015-11-19,46.97,included_game_day
+2016,12,Arizona Wildcats,2015-11-22,55.318,included_game_day
+2016,12,Arizona Wildcats,2015-11-26,46.6981,included_game_day
+2016,12,Arizona Wildcats,2015-11-27,41.388382,included_game_day
+2016,12,Arizona Wildcats,2015-11-29,47.8005928,included_game_day
+2016,12,Arizona Wildcats,2015-12-05,59.96497202,included_game_day
+2016,12,Arizona Wildcats,2015-12-09,66.2148902332,included_game_day
+2016,12,Arizona Wildcats,2015-12-13,92.82571124308,included_game_day
+2016,12,Arizona Wildcats,2015-12-16,128.214419292772,included_game_day
+2016,12,Arizona Wildcats,2015-12-19,127.65105732063279,included_game_day
+2016,12,Arizona Wildcats,2015-12-22,127.7492143841849,included_game_day
+2016,12,Arizona Wildcats,2016-01-03,136.1605174583545,included_game_day
+2016,12,Arizona Wildcats,2016-01-07,126.10763045296501,included_game_day
+2016,12,Arizona Wildcats,2016-01-09,125.0047045845528,included_game_day
+2016,12,Arizona Wildcats,2016-01-14,147.22530008875975,included_game_day
+2016,12,Arizona Wildcats,2016-01-16,155.6046513202234,included_game_day
+2016,12,Arizona Wildcats,2016-01-21,161.71840158403162,included_game_day
+2016,12,Arizona Wildcats,2016-01-23,156.07877334116014,included_game_day
+2016,12,Arizona Wildcats,2016-01-28,140.25075098959036,included_game_day
+2016,12,Arizona Wildcats,2016-01-30,143.86607085844986,included_game_day
+2016,12,Arizona Wildcats,2016-02-03,144.56334548632836,included_game_day
+2016,12,Arizona Wildcats,2016-02-06,144.18685643491372,included_game_day
+2016,12,Arizona Wildcats,2016-02-12,138.0794439553698,included_game_day
+2016,12,Arizona Wildcats,2016-02-14,138.8099712343142,included_game_day
+2016,12,Arizona Wildcats,2016-02-17,164.1055333407743,included_game_day
+2016,12,Arizona Wildcats,2016-02-24,151.70178273632177,included_game_day
+2016,12,Arizona Wildcats,2016-02-27,149.2547672910321,included_game_day
+2016,12,Arizona Wildcats,2016-03-03,147.93486487449525,included_game_day
+2016,12,Arizona Wildcats,2016-03-05,166.35502795631655,included_game_day
+2016,12,Arizona Wildcats,2016-03-10,161.40234285759672,included_game_day
+2016,12,Arizona Wildcats,2016-03-11,152.05413067994044,included_game_day
+2016,12,Arizona Wildcats,2016-03-17,144.47979656562657,included_game_day
+2017,12,Arizona Wildcats,2016-11-11,2.0,included_game_day
+2017,12,Arizona Wildcats,2016-11-15,10.8,included_game_day
+2017,12,Arizona Wildcats,2016-11-18,35.1,included_game_day
+2017,12,Arizona Wildcats,2016-11-21,40.05200000000001,included_game_day
+2017,12,Arizona Wildcats,2016-11-24,43.764,included_game_day
+2017,12,Arizona Wildcats,2016-11-25,43.47185,included_game_day
+2017,12,Arizona Wildcats,2016-11-30,60.10125480000001,included_game_day
+2017,12,Arizona Wildcats,2016-12-03,56.479723549000006,included_game_day
+2017,12,Arizona Wildcats,2016-12-06,68.58632139410001,included_game_day
+2017,12,Arizona Wildcats,2016-12-10,87.22007498659,included_game_day
+2017,12,Arizona Wildcats,2016-12-14,84.520470272489,included_game_day
+2017,12,Arizona Wildcats,2016-12-17,85.84726247492411,included_game_day
+2017,12,Arizona Wildcats,2016-12-20,107.86447248650776,included_game_day
+2017,12,Arizona Wildcats,2016-12-30,113.10555264099699,included_game_day
+2017,12,Arizona Wildcats,2017-01-01,144.1493001942973,included_game_day
+2017,12,Arizona Wildcats,2017-01-05,143.3736395854663,included_game_day
+2017,12,Arizona Wildcats,2017-01-07,138.71807063023877,included_game_day
+2017,12,Arizona Wildcats,2017-01-12,138.68703915798406,included_game_day
+2017,12,Arizona Wildcats,2017-01-19,139.72083861501167,included_game_day
+2017,12,Arizona Wildcats,2017-01-21,154.94336693906004,included_game_day
+2017,12,Arizona Wildcats,2017-01-26,148.19940787523933,included_game_day
+2017,12,Arizona Wildcats,2017-01-29,141.20068001707045,included_game_day
+2017,12,Arizona Wildcats,2017-02-02,140.66316828217037,included_game_day
+2017,12,Arizona Wildcats,2017-02-04,116.28529142440843,included_game_day
+2017,12,Arizona Wildcats,2017-02-08,110.90859161361047,included_game_day
+2017,12,Arizona Wildcats,2017-02-11,111.61875568096738,included_game_day
+2017,12,Arizona Wildcats,2017-02-16,117.96441154494102,included_game_day
+2017,12,Arizona Wildcats,2017-02-18,112.64391320527842,included_game_day
+2017,12,Arizona Wildcats,2017-02-23,116.25005649796515,included_game_day
+2017,12,Arizona Wildcats,2017-02-25,113.32792488847565,included_game_day
+2017,12,Arizona Wildcats,2017-03-04,117.52292111706545,included_game_day
+2017,12,Arizona Wildcats,2017-03-09,126.4722358857084,included_game_day
+2017,12,Arizona Wildcats,2017-03-10,140.07564693797485,included_game_day
+2017,12,Arizona Wildcats,2017-03-11,146.71979222740867,included_game_day
+2017,12,Arizona Wildcats,2017-03-16,153.88569803475988,included_game_day
+2017,12,Arizona Wildcats,2017-03-18,164.63991313267866,included_game_day
+2017,12,Arizona Wildcats,2017-03-23,157.50682751859884,included_game_day
+2018,12,Arizona Wildcats,2017-11-10,31.0,included_game_day
+2018,12,Arizona Wildcats,2017-11-12,49.1,included_game_day
+2018,12,Arizona Wildcats,2017-11-16,71.14,included_game_day
+2018,12,Arizona Wildcats,2017-11-22,64.31530000000001,included_game_day
+2018,12,Arizona Wildcats,2017-11-23,59.114290000000004,included_game_day
+2018,12,Arizona Wildcats,2017-11-24,38.587573000000006,included_game_day
+2018,12,Arizona Wildcats,2017-11-29,63.50144452000001,included_game_day
+2018,12,Arizona Wildcats,2017-12-02,73.272714768,included_game_day
+2018,12,Arizona Wildcats,2017-12-05,78.2389393572,included_game_day
+2018,12,Arizona Wildcats,2017-12-09,77.96604816688999,included_game_day
+2018,12,Arizona Wildcats,2017-12-16,87.279365068579,included_game_day
+2018,12,Arizona Wildcats,2017-12-18,105.8199794888311,included_game_day
+2018,12,Arizona Wildcats,2017-12-21,105.81070387546498,included_game_day
+2018,12,Arizona Wildcats,2017-12-30,113.09057275346325,included_game_day
+2018,12,Arizona Wildcats,2018-01-04,123.99170379751226,included_game_day
+2018,12,Arizona Wildcats,2018-01-06,113.63456808269775,included_game_day
+2018,12,Arizona Wildcats,2018-01-11,112.92924624689346,included_game_day
+2018,12,Arizona Wildcats,2018-01-13,113.12251187972048,included_game_day
+2018,12,Arizona Wildcats,2018-01-17,119.58933421611508,included_game_day
+2018,12,Arizona Wildcats,2018-01-20,116.67291600045866,included_game_day
+2018,12,Arizona Wildcats,2018-01-25,114.13891972970217,included_game_day
+2018,12,Arizona Wildcats,2018-01-27,106.33284633321009,included_game_day
+2018,12,Arizona Wildcats,2018-01-31,125.07566160297114,included_game_day
+2018,12,Arizona Wildcats,2018-02-03,117.89430648948213,included_game_day
+2018,12,Arizona Wildcats,2018-02-08,103.10514626360765,included_game_day
+2018,12,Arizona Wildcats,2018-02-10,113.28873208887262,included_game_day
+2018,12,Arizona Wildcats,2018-02-15,120.6153992465958,included_game_day
+2018,12,Arizona Wildcats,2018-02-22,125.92196336192492,included_game_day
+2018,12,Arizona Wildcats,2018-02-24,119.1731547901001,included_game_day
+2018,12,Arizona Wildcats,2018-03-01,117.3852422883995,included_game_day
+2018,12,Arizona Wildcats,2018-03-03,105.98439815959408,included_game_day
+2018,12,Arizona Wildcats,2018-03-08,114.33314507272404,included_game_day
+2018,12,Arizona Wildcats,2018-03-09,124.32182662896683,included_game_day
+2018,12,Arizona Wildcats,2018-03-10,138.2203488190003,included_game_day
+2018,12,Arizona Wildcats,2018-03-15,114.14261229843493,included_game_day
+2019,12,Arizona Wildcats,2018-11-07,27.0,included_game_day
+2019,12,Arizona Wildcats,2018-11-11,42.3,included_game_day
+2019,12,Arizona Wildcats,2018-11-14,65.81,included_game_day
+2019,12,Arizona Wildcats,2018-11-19,68.09400000000001,included_game_day
+2019,12,Arizona Wildcats,2018-11-20,52.56190000000001,included_game_day
+2019,12,Arizona Wildcats,2018-11-21,37.09274500000001,included_game_day
+2019,12,Arizona Wildcats,2018-11-29,62.34391403000001,included_game_day
+2019,12,Arizona Wildcats,2018-12-02,68.60038544700001,included_game_day
+2019,12,Arizona Wildcats,2018-12-06,70.15050416300001,included_game_day
+2019,12,Arizona Wildcats,2018-12-09,64.85911141240001,included_game_day
+2019,12,Arizona Wildcats,2018-12-15,49.72210058216001,included_game_day
+2019,12,Arizona Wildcats,2018-12-19,60.52058303858191,included_game_day
+2019,12,Arizona Wildcats,2018-12-22,49.939451943723725,included_game_day
+2019,12,Arizona Wildcats,2019-01-03,55.21083650574086,included_game_day
+2019,12,Arizona Wildcats,2019-01-05,51.6263860070372,included_game_day
+2019,12,Arizona Wildcats,2019-01-09,53.04857844833427,included_game_day
+2019,12,Arizona Wildcats,2019-01-12,68.17846875448811,included_game_day
+2019,12,Arizona Wildcats,2019-01-17,59.06635169950823,included_game_day
+2019,12,Arizona Wildcats,2019-01-19,67.47074864360772,included_game_day
+2019,12,Arizona Wildcats,2019-01-24,44.408493561709875,included_game_day
+2019,12,Arizona Wildcats,2019-01-26,23.27638049828766,included_game_day
+2019,12,Arizona Wildcats,2019-01-31,23.631671289596525,included_game_day
+2019,12,Arizona Wildcats,2019-02-07,22.640119835022603,included_game_day
+2019,12,Arizona Wildcats,2019-02-09,1.3433730238364952,included_game_day
+2019,12,Arizona Wildcats,2019-02-14,1.3779961476776643,included_game_day
+2019,12,Arizona Wildcats,2019-02-17,3.621375527270641,included_game_day
+2019,12,Arizona Wildcats,2019-02-21,16.394385483217878,included_game_day
+2019,12,Arizona Wildcats,2019-02-24,31.106612632854407,included_game_day
+2019,12,Arizona Wildcats,2019-02-28,37.87557262896957,included_game_day
+2019,12,Arizona Wildcats,2019-03-02,16.340694364363195,included_game_day
+2019,12,Arizona Wildcats,2019-03-09,7.913916050859283,included_game_day
+2019,12,Arizona Wildcats,2019-03-13,-2.3193019023279007,included_game_day
+2020,12,Arizona Wildcats,2019-11-06,36.0,included_game_day
+2020,12,Arizona Wildcats,2019-11-10,52.35,included_game_day
+2020,12,Arizona Wildcats,2019-11-14,91.251,included_game_day
+2020,12,Arizona Wildcats,2019-11-17,109.17590000000001,included_game_day
+2020,12,Arizona Wildcats,2019-11-21,100.71435000000001,included_game_day
+2020,12,Arizona Wildcats,2019-11-24,121.64893500000001,included_game_day
+2020,12,Arizona Wildcats,2019-11-28,111.68614640000001,included_game_day
+2020,12,Arizona Wildcats,2019-11-29,111.35925676000001,included_game_day
+2020,12,Arizona Wildcats,2019-12-01,111.19002982900001,included_game_day
+2020,12,Arizona Wildcats,2019-12-07,106.70646005950002,included_game_day
+2020,12,Arizona Wildcats,2019-12-11,142.519513047109,included_game_day
+2020,12,Arizona Wildcats,2019-12-14,133.760941826111,included_game_day
+2020,12,Arizona Wildcats,2019-12-21,125.17432925476919,included_game_day
+2020,12,Arizona Wildcats,2020-01-04,141.21718137165138,included_game_day
+2020,12,Arizona Wildcats,2020-01-09,139.38072932904612,included_game_day
+2020,12,Arizona Wildcats,2020-01-12,117.05988574539926,included_game_day
+2020,12,Arizona Wildcats,2020-01-16,120.3974126822805,included_game_day
+2020,12,Arizona Wildcats,2020-01-18,138.87533258449042,included_game_day
+2020,12,Arizona Wildcats,2020-01-25,131.78927286833408,included_game_day
+2020,12,Arizona Wildcats,2020-01-30,131.2967052513785,included_game_day
+2020,12,Arizona Wildcats,2020-02-01,139.78738226144827,included_game_day
+2020,12,Arizona Wildcats,2020-02-06,133.50029849394423,included_game_day
+2020,12,Arizona Wildcats,2020-02-08,105.36455383594821,included_game_day
+2020,12,Arizona Wildcats,2020-02-13,112.028796096971,included_game_day
+2020,12,Arizona Wildcats,2020-02-15,119.20174225228642,included_game_day
+2020,12,Arizona Wildcats,2020-02-20,134.2308059080025,included_game_day
+2020,12,Arizona Wildcats,2020-02-22,125.768894133614,included_game_day
+2020,12,Arizona Wildcats,2020-02-27,113.4470267549249,included_game_day
+2020,12,Arizona Wildcats,2020-02-29,107.40122109824934,included_game_day
+2020,12,Arizona Wildcats,2020-03-05,114.33372239837414,included_game_day
+2020,12,Arizona Wildcats,2020-03-07,99.2878531427887,included_game_day
+2020,12,Arizona Wildcats,2020-03-11,103.25115773832036,included_game_day
+2021,12,Arizona Wildcats,2020-11-27,14.7,included_game_day
+2021,12,Arizona Wildcats,2020-12-05,13.239999999999998,included_game_day
+2021,12,Arizona Wildcats,2020-12-07,51.916,included_game_day
+2021,12,Arizona Wildcats,2020-12-09,68.6534,included_game_day
+2021,12,Arizona Wildcats,2020-12-12,66.167083,included_game_day
+2021,12,Arizona Wildcats,2020-12-19,64.24609818,included_game_day
+2021,12,Arizona Wildcats,2020-12-22,60.7950155584,included_game_day
+2021,12,Arizona Wildcats,2020-12-28,75.78547435636,included_game_day
+2021,12,Arizona Wildcats,2020-12-31,94.254841935564,included_game_day
+2021,12,Arizona Wildcats,2021-01-02,95.963322971657,included_game_day
+2021,12,Arizona Wildcats,2021-01-07,77.29671101062777,included_game_day
+2021,12,Arizona Wildcats,2021-01-09,67.46919962868861,included_game_day
+2021,12,Arizona Wildcats,2021-01-14,97.21687240067743,included_game_day
+2021,12,Arizona Wildcats,2021-01-21,91.79403452219825,included_game_day
+2021,12,Arizona Wildcats,2021-01-25,92.45576421941489,included_game_day
+2021,12,Arizona Wildcats,2021-01-28,76.32200999493568,included_game_day
+2021,12,Arizona Wildcats,2021-01-30,85.80526951890067,included_game_day
+2021,12,Arizona Wildcats,2021-02-04,69.30338803051075,included_game_day
+2021,12,Arizona Wildcats,2021-02-06,71.23854488239913,included_game_day
+2021,12,Arizona Wildcats,2021-02-11,70.08122781506766,included_game_day
+2021,12,Arizona Wildcats,2021-02-13,64.32968615705711,included_game_day
+2021,12,Arizona Wildcats,2021-02-18,51.42241112258323,included_game_day
+2021,12,Arizona Wildcats,2021-02-20,70.23180623351804,included_game_day
+2021,12,Arizona Wildcats,2021-02-25,81.02417077382216,included_game_day
+2021,12,Arizona Wildcats,2021-02-27,64.75812980653872,included_game_day
+2021,12,Arizona Wildcats,2021-03-01,57.23430752259097,included_game_day
+2022,12,Arizona Wildcats,2021-11-09,26.0,included_game_day
+2022,12,Arizona Wildcats,2021-11-12,74.4,included_game_day
+2022,12,Arizona Wildcats,2021-11-16,116.611,included_game_day
+2022,12,Arizona Wildcats,2021-11-19,110.0219,included_game_day
+2022,12,Arizona Wildcats,2021-11-21,121.24854,included_game_day
+2022,12,Arizona Wildcats,2021-11-27,149.887206,included_game_day
+2022,12,Arizona Wildcats,2021-12-05,160.426413892,included_game_day
+2022,12,Arizona Wildcats,2021-12-08,179.45511718208,included_game_day
+2022,12,Arizona Wildcats,2021-12-11,176.88984923878,included_game_day
+2022,12,Arizona Wildcats,2021-12-15,180.840021721526,included_game_day
+2022,12,Arizona Wildcats,2021-12-18,183.3544005132334,included_game_day
+2022,12,Arizona Wildcats,2021-12-22,178.3380879931795,included_game_day
+2022,12,Arizona Wildcats,2022-01-03,171.77303500680384,included_game_day
+2022,12,Arizona Wildcats,2022-01-13,176.3825265518911,included_game_day
+2022,12,Arizona Wildcats,2022-01-15,173.2562970895933,included_game_day
+2022,12,Arizona Wildcats,2022-01-20,191.18597488713738,included_game_day
+2022,12,Arizona Wildcats,2022-01-23,202.54198818127867,included_game_day
+2022,12,Arizona Wildcats,2022-01-25,178.69214341710367,included_game_day
+2022,12,Arizona Wildcats,2022-01-29,165.6203131472753,included_game_day
+2022,12,Arizona Wildcats,2022-02-03,169.94545951207326,included_game_day
+2022,12,Arizona Wildcats,2022-02-05,166.49788432850224,included_game_day
+2022,12,Arizona Wildcats,2022-02-07,164.63191295581208,included_game_day
+2022,12,Arizona Wildcats,2022-02-10,172.6422562155125,included_game_day
+2022,12,Arizona Wildcats,2022-02-12,185.3979322139286,included_game_day
+2022,12,Arizona Wildcats,2022-02-17,169.21978754815007,included_game_day
+2022,12,Arizona Wildcats,2022-02-19,156.11553988903935,included_game_day
+2022,12,Arizona Wildcats,2022-02-24,165.80817288607355,included_game_day
+2022,12,Arizona Wildcats,2022-02-26,141.13731289296442,included_game_day
+2022,12,Arizona Wildcats,2022-03-01,156.69166856681156,included_game_day
+2022,12,Arizona Wildcats,2022-03-03,150.04581926562156,included_game_day
+2022,12,Arizona Wildcats,2022-03-05,159.47496614408433,included_game_day
+2022,12,Arizona Wildcats,2022-03-10,149.0978520344578,included_game_day
+2022,12,Arizona Wildcats,2022-03-11,153.134733759327,included_game_day
+2022,12,Arizona Wildcats,2022-03-12,160.6569959063275,included_game_day
+2022,12,Arizona Wildcats,2022-03-18,166.91772295318734,included_game_day
+2022,12,Arizona Wildcats,2022-03-20,166.69498727245096,included_game_day
+2022,12,Arizona Wildcats,2022-03-24,158.18541341625922,included_game_day
+2023,12,Arizona Wildcats,2022-11-07,39.0,included_game_day
+2023,12,Arizona Wildcats,2022-11-11,48.4,included_game_day
+2023,12,Arizona Wildcats,2022-11-17,66.358,included_game_day
+2023,12,Arizona Wildcats,2022-11-21,68.3892,included_game_day
+2023,12,Arizona Wildcats,2022-11-22,83.41364,included_game_day
+2023,12,Arizona Wildcats,2022-11-23,85.97954,included_game_day
+2023,12,Arizona Wildcats,2022-12-01,72.3399414,included_game_day
+2023,12,Arizona Wildcats,2022-12-04,69.7633773387,included_game_day
+2023,12,Arizona Wildcats,2022-12-10,88.3133394418942,included_game_day
+2023,12,Arizona Wildcats,2022-12-13,116.26918634770479,included_game_day
+2023,12,Arizona Wildcats,2022-12-17,122.12588623933253,included_game_day
+2023,12,Arizona Wildcats,2022-12-20,129.6523787521735,included_game_day
+2023,12,Arizona Wildcats,2022-12-22,134.68729952201915,included_game_day
+2023,12,Arizona Wildcats,2022-12-31,138.36138335310082,included_game_day
+2023,12,Arizona Wildcats,2023-01-05,124.19911428960411,included_game_day
+2023,12,Arizona Wildcats,2023-01-07,100.32766968269405,included_game_day
+2023,12,Arizona Wildcats,2023-01-12,102.72703146771921,included_game_day
+2023,12,Arizona Wildcats,2023-01-14,79.33850089808291,included_game_day
+2023,12,Arizona Wildcats,2023-01-19,91.34876539887021,included_game_day
+2023,12,Arizona Wildcats,2023-01-21,102.27365643729864,included_game_day
+2023,12,Arizona Wildcats,2023-01-26,105.43888059282986,included_game_day
+2023,12,Arizona Wildcats,2023-01-28,122.69575509502675,included_game_day
+2023,12,Arizona Wildcats,2023-02-02,130.73425808462312,included_game_day
+2023,12,Arizona Wildcats,2023-02-04,144.91547147305405,included_game_day
+2023,12,Arizona Wildcats,2023-02-09,149.33428862914516,included_game_day
+2023,12,Arizona Wildcats,2023-02-11,131.60447942618566,included_game_day
+2023,12,Arizona Wildcats,2023-02-16,149.44438035761243,included_game_day
+2023,12,Arizona Wildcats,2023-02-18,148.21978390956176,included_game_day
+2023,12,Arizona Wildcats,2023-02-25,133.3780680899234,included_game_day
+2023,12,Arizona Wildcats,2023-03-02,141.08661625831738,included_game_day
+2023,12,Arizona Wildcats,2023-03-04,136.68871040757483,included_game_day
+2023,12,Arizona Wildcats,2023-03-09,141.73553125803753,included_game_day
+2023,12,Arizona Wildcats,2023-03-10,152.70616747763782,included_game_day
+2023,12,Arizona Wildcats,2023-03-11,156.85043670093364,included_game_day
+2023,12,Arizona Wildcats,2023-03-16,144.03416148990013,included_game_day
+2024,12,Arizona Wildcats,2023-11-06,60.0,included_game_day
+2024,12,Arizona Wildcats,2023-11-10,65.5,included_game_day
+2024,12,Arizona Wildcats,2023-11-13,92.95,included_game_day
+2024,12,Arizona Wildcats,2023-11-17,110.565,included_game_day
+2024,12,Arizona Wildcats,2023-11-19,141.8945,included_game_day
+2024,12,Arizona Wildcats,2023-11-23,139.05701,included_game_day
+2024,12,Arizona Wildcats,2023-12-02,151.24945333,included_game_day
+2024,12,Arizona Wildcats,2023-12-09,166.44312489556,included_game_day
+2024,12,Arizona Wildcats,2023-12-16,152.8101399245189,included_game_day
+2024,12,Arizona Wildcats,2023-12-20,159.38257427879464,included_game_day
+2024,12,Arizona Wildcats,2023-12-23,154.66569470574342,included_game_day
+2024,12,Arizona Wildcats,2023-12-29,161.7924511141675,included_game_day
+2024,12,Arizona Wildcats,2023-12-31,131.51490816597598,included_game_day
+2024,12,Arizona Wildcats,2024-01-04,173.91173305616192,included_game_day
+2024,12,Arizona Wildcats,2024-01-06,181.39231625975967,included_game_day
+2024,12,Arizona Wildcats,2024-01-13,169.2991893494561,included_game_day
+2024,12,Arizona Wildcats,2024-01-17,166.45416093927125,included_game_day
+2024,12,Arizona Wildcats,2024-01-20,151.934410774666,included_game_day
+2024,12,Arizona Wildcats,2024-01-25,133.35472408803815,included_game_day
+2024,12,Arizona Wildcats,2024-01-27,139.18707187354894,included_game_day
+2024,12,Arizona Wildcats,2024-02-01,150.6511347207014,included_game_day
+2024,12,Arizona Wildcats,2024-02-04,148.4677016090985,included_game_day
+2024,12,Arizona Wildcats,2024-02-08,149.38138024969908,included_game_day
+2024,12,Arizona Wildcats,2024-02-10,166.9965077901627,included_game_day
+2024,12,Arizona Wildcats,2024-02-17,193.3336560239359,included_game_day
+2024,12,Arizona Wildcats,2024-02-22,179.8662840795104,included_game_day
+2024,12,Arizona Wildcats,2024-02-24,181.23592342546075,included_game_day
+2024,12,Arizona Wildcats,2024-02-28,185.1916982950756,included_game_day
+2024,12,Arizona Wildcats,2024-03-02,189.44148215292773,included_game_day
+2024,12,Arizona Wildcats,2024-03-07,198.6814158239732,included_game_day
+2024,12,Arizona Wildcats,2024-03-09,172.53703608202386,included_game_day
+2024,12,Arizona Wildcats,2024-03-14,183.30039864489382,included_game_day
+2024,12,Arizona Wildcats,2024-03-15,161.8246269776994,included_game_day
+2024,12,Arizona Wildcats,2024-03-21,167.8381761924703,included_game_day
+2024,12,Arizona Wildcats,2024-03-23,170.89724023564577,included_game_day
+2024,12,Arizona Wildcats,2024-03-28,160.63574696999936,included_game_day
+2025,12,Arizona Wildcats,2024-11-04,26.0,included_game_day
+2025,12,Arizona Wildcats,2024-11-09,78.0,included_game_day
+2025,12,Arizona Wildcats,2024-11-15,63.341,included_game_day
+2025,12,Arizona Wildcats,2024-11-22,50.30162,included_game_day
+2025,12,Arizona Wildcats,2024-11-27,81.3002402,included_game_day
+2025,12,Arizona Wildcats,2024-11-28,74.62406098000001,included_game_day
+2025,12,Arizona Wildcats,2024-11-29,65.65880967500001,included_game_day
+2025,12,Arizona Wildcats,2024-12-07,91.56682945470001,included_game_day
+2025,12,Arizona Wildcats,2024-12-14,92.04204339365201,included_game_day
+2025,12,Arizona Wildcats,2024-12-18,116.3336927488138,included_game_day
+2025,12,Arizona Wildcats,2024-12-21,152.5246087182246,included_game_day
+2025,12,Arizona Wildcats,2024-12-30,148.42410651051742,included_game_day
+2025,12,Arizona Wildcats,2025-01-04,152.84020546344027,included_game_day
+2025,12,Arizona Wildcats,2025-01-07,170.8392814789682,included_game_day
+2025,12,Arizona Wildcats,2025-01-11,159.1725066792458,included_game_day
+2025,12,Arizona Wildcats,2025-01-14,164.5780651096424,included_game_day
+2025,12,Arizona Wildcats,2025-01-18,150.22063981715755,included_game_day
+2025,12,Arizona Wildcats,2025-01-21,153.29145528152984,included_game_day
+2025,12,Arizona Wildcats,2025-01-25,150.11230063723355,included_game_day
+2025,12,Arizona Wildcats,2025-01-27,162.2029993874434,included_game_day
+2025,12,Arizona Wildcats,2025-02-01,163.72418289549637,included_game_day
+2025,12,Arizona Wildcats,2025-02-04,174.75756818041478,included_game_day
+2025,12,Arizona Wildcats,2025-02-08,180.8654734236214,included_game_day
+2025,12,Arizona Wildcats,2025-02-11,173.89965596799917,included_game_day
+2025,12,Arizona Wildcats,2025-02-15,168.34364222360512,included_game_day
+2025,12,Arizona Wildcats,2025-02-17,173.72904079205335,included_game_day
+2025,12,Arizona Wildcats,2025-02-22,167.44931759186332,included_game_day
+2025,12,Arizona Wildcats,2025-02-26,169.57079017155056,included_game_day
+2025,12,Arizona Wildcats,2025-03-01,151.76548806091512,included_game_day
+2025,12,Arizona Wildcats,2025-03-04,149.95015494018523,included_game_day
+2025,12,Arizona Wildcats,2025-03-08,142.66823141483482,included_game_day
+2025,12,Arizona Wildcats,2025-03-13,151.5051770585426,included_game_day
+2025,12,Arizona Wildcats,2025-03-14,160.83481661925865,included_game_day
+2025,12,Arizona Wildcats,2025-03-15,157.4921196992618,included_game_day
+2025,12,Arizona Wildcats,2025-03-21,175.21713567031006,included_game_day
+2025,12,Arizona Wildcats,2025-03-23,176.6641893518063,included_game_day
+2025,12,Arizona Wildcats,2025-03-27,179.75082317078082,included_game_day
+2026,12,Arizona Wildcats,2025-11-03,6.0,included_game_day
+2026,12,Arizona Wildcats,2025-11-07,28.9,included_game_day
+2026,12,Arizona Wildcats,2025-11-11,57.41,included_game_day
+2026,12,Arizona Wildcats,2025-11-14,58.132,included_game_day
+2026,12,Arizona Wildcats,2025-11-19,68.787,included_game_day
+2026,12,Arizona Wildcats,2025-11-24,88.379755,included_game_day
+2026,12,Arizona Wildcats,2025-11-29,111.99498238700001,included_game_day
+2026,12,Arizona Wildcats,2025-12-06,135.129795446514,included_game_day
+2026,12,Arizona Wildcats,2025-12-13,155.5613977284226,included_game_day
+2026,12,Arizona Wildcats,2025-12-16,169.17791997374036,included_game_day
+2026,12,Arizona Wildcats,2025-12-20,179.1656869393664,included_game_day
+2026,12,Arizona Wildcats,2025-12-22,184.36687615728633,included_game_day
+2026,12,Arizona Wildcats,2025-12-29,190.40326772117197,included_game_day
+2026,12,Arizona Wildcats,2026-01-03,194.97746827698265,included_game_day
+2026,12,Arizona Wildcats,2026-01-07,204.21415150385047,included_game_day
+2026,12,Arizona Wildcats,2026-01-10,210.12017813235138,included_game_day
+2026,12,Arizona Wildcats,2026-01-14,195.78384365083238,included_game_day
+2026,12,Arizona Wildcats,2026-01-17,194.854660910199,included_game_day
+2026,12,Arizona Wildcats,2026-01-21,208.5514390953872,included_game_day
+2026,12,Arizona Wildcats,2026-01-24,228.69685510658923,included_game_day
+2026,12,Arizona Wildcats,2026-01-26,227.07889599468626,included_game_day
+2026,12,Arizona Wildcats,2026-01-31,224.42228553510466,included_game_day
+2026,12,Arizona Wildcats,2026-02-07,243.45640562567064,included_game_day
+2026,12,Arizona Wildcats,2026-02-09,234.73876067720542,included_game_day
+2026,12,Arizona Wildcats,2026-02-14,222.10489698524964,included_game_day
+2026,12,Arizona Wildcats,2026-02-18,216.50340443254157,included_game_day
+2026,12,Arizona Wildcats,2026-02-21,225.04412358177282,included_game_day
+2026,12,Arizona Wildcats,2026-02-24,219.87292579761962,included_game_day
+2026,12,Arizona Wildcats,2026-02-28,233.28772821233716,included_game_day
+2026,12,Arizona Wildcats,2026-03-02,240.5141920443226,included_game_day
+2026,12,Arizona Wildcats,2026-03-07,233.9417363404167,included_game_day
+2026,12,Arizona Wildcats,2026-03-12,238.80348574609948,included_game_day
+2026,12,Arizona Wildcats,2026-03-13,240.21042009503927,included_game_day
+2026,12,Arizona Wildcats,2026-03-14,242.234657016973,included_game_day
+2026,12,Arizona Wildcats,2026-03-20,251.07893102529567,included_game_day
+2026,12,Arizona Wildcats,2026-03-22,250.89625840726234,included_game_day
+2026,12,Arizona Wildcats,2026-03-26,264.2267493148189,included_game_day
+2026,12,Arizona Wildcats,2026-03-28,273.0570923083633,included_game_day
+2026,12,Arizona Wildcats,2026-04-04,255.00151193996433,included_game_day
+2027,12,Arizona Wildcats,2026-11-02,-9.0,included_game_day
+2027,12,Arizona Wildcats,2026-11-05,8.899999999999999,included_game_day
+2027,12,Arizona Wildcats,2026-11-10,32.97,included_game_day
+2027,12,Arizona Wildcats,2026-11-13,48.413,included_game_day
+2027,12,Arizona Wildcats,2026-11-18,54.62122,included_game_day
+2027,12,Arizona Wildcats,2026-11-23,62.655040400000004,included_game_day

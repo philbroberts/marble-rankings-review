@@ -1,0 +1,939 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1993,2630,TN Martin,1992-12-03,-17.8,included_game_day
+1993,2630,TN Martin,1992-12-05,-3.0200000000000014,included_game_day
+1993,2630,TN Martin,1992-12-11,-14.367700000000001,included_game_day
+1993,2630,TN Martin,1992-12-14,-15.74393,included_game_day
+1993,2630,TN Martin,1992-12-16,-41.524937,included_game_day
+1993,2630,TN Martin,1992-12-21,-57.79037069,included_game_day
+1993,2630,TN Martin,1993-01-13,-76.93645028656898,included_game_day
+1993,2630,TN Martin,1993-01-16,-80.71921753302306,included_game_day
+1993,2630,TN Martin,1993-01-18,-78.59838275341122,included_game_day
+1993,2630,TN Martin,1993-01-23,-78.93552128095668,included_game_day
+1993,2630,TN Martin,1993-01-25,-87.02376995309696,included_game_day
+1993,2630,TN Martin,1993-01-27,-83.85573221126072,included_game_day
+1993,2630,TN Martin,1993-01-30,-83.48150368137367,included_game_day
+1993,2630,TN Martin,1993-02-01,-89.98256541990021,included_game_day
+1993,2630,TN Martin,1993-02-06,-102.64492058568332,included_game_day
+1993,2630,TN Martin,1993-02-08,-104.39656531863533,included_game_day
+1993,2630,TN Martin,1993-02-10,-124.8323102236169,included_game_day
+1993,2630,TN Martin,1993-02-13,-130.83106654994168,included_game_day
+1993,2630,TN Martin,1993-02-15,-126.5538034714724,included_game_day
+1993,2630,TN Martin,1993-02-18,-135.6069510658284,included_game_day
+1993,2630,TN Martin,1993-02-20,-140.1861020245156,included_game_day
+1993,2630,TN Martin,1993-02-24,-128.40668946033546,included_game_day
+1993,2630,TN Martin,1993-02-27,-129.04937370038058,included_game_day
+1993,2630,TN Martin,1993-03-01,-126.79896812038503,included_game_day
+1994,2630,TN Martin,1993-11-26,-14.0,included_game_day
+1994,2630,TN Martin,1993-12-01,-43.6,included_game_day
+1994,2630,TN Martin,1993-12-04,-49.21,included_game_day
+1994,2630,TN Martin,1993-12-10,-67.0744581,included_game_day
+1994,2630,TN Martin,1993-12-11,-70.13071519,included_game_day
+1994,2630,TN Martin,1993-12-13,-91.49672567100001,included_game_day
+1994,2630,TN Martin,1994-01-03,-83.1384854383654,included_game_day
+1994,2630,TN Martin,1994-01-10,-91.65844253386781,included_game_day
+1994,2630,TN Martin,1994-01-13,-98.93620271587841,included_game_day
+1994,2630,TN Martin,1994-01-15,-110.29370492188299,included_game_day
+1994,2630,TN Martin,1994-01-17,-131.87297091825,included_game_day
+1994,2630,TN Martin,1994-01-22,-140.3894617097182,included_game_day
+1994,2630,TN Martin,1994-01-24,-151.09651115156143,included_game_day
+1994,2630,TN Martin,1994-01-26,-148.32003125388647,included_game_day
+1994,2630,TN Martin,1994-01-31,-145.74326231542017,included_game_day
+1994,2630,TN Martin,1994-02-02,-142.4182462862316,included_game_day
+1994,2630,TN Martin,1994-02-05,-149.16532858701217,included_game_day
+1994,2630,TN Martin,1994-02-07,-139.50414316844808,included_game_day
+1994,2630,TN Martin,1994-02-09,-139.71257828107562,included_game_day
+1994,2630,TN Martin,1994-02-16,-141.42395140980238,included_game_day
+1994,2630,TN Martin,1994-02-19,-129.3284199430324,included_game_day
+1994,2630,TN Martin,1994-02-21,-135.65458641132932,included_game_day
+1994,2630,TN Martin,1994-02-26,-117.31930851782914,included_game_day
+1994,2630,TN Martin,1994-02-28,-107.78579280148432,included_game_day
+1994,2630,TN Martin,1994-03-02,-107.94206183731848,included_game_day
+1995,2630,TN Martin,1994-11-26,-71.0,included_game_day
+1995,2630,TN Martin,1994-12-01,-78.2,included_game_day
+1995,2630,TN Martin,1994-12-03,-92.83,included_game_day
+1995,2630,TN Martin,1994-12-05,-94.43315,included_game_day
+1995,2630,TN Martin,1994-12-09,-90.063935,included_game_day
+1995,2630,TN Martin,1994-12-10,-128.3188255,included_game_day
+1995,2630,TN Martin,1994-12-13,-117.06694295,included_game_day
+1995,2630,TN Martin,1994-12-31,-134.18457035425675,included_game_day
+1995,2630,TN Martin,1995-01-04,-118.77384450085037,included_game_day
+1995,2630,TN Martin,1995-01-07,-115.96219460342614,included_game_day
+1995,2630,TN Martin,1995-01-09,-114.85105859977246,included_game_day
+1995,2630,TN Martin,1995-01-14,-101.89964466770937,included_game_day
+1995,2630,TN Martin,1995-01-21,-106.39835507781521,included_game_day
+1995,2630,TN Martin,1995-01-23,-105.36007601724157,included_game_day
+1995,2630,TN Martin,1995-01-26,-97.85553782193834,included_game_day
+1995,2630,TN Martin,1995-01-28,-108.08081165658906,included_game_day
+1995,2630,TN Martin,1995-01-30,-100.55441356589856,included_game_day
+1995,2630,TN Martin,1995-02-01,-109.33119262136405,included_game_day
+1995,2630,TN Martin,1995-02-04,-111.46536101498945,included_game_day
+1995,2630,TN Martin,1995-02-06,-118.07193555198594,included_game_day
+1995,2630,TN Martin,1995-02-08,-123.45747158823204,included_game_day
+1995,2630,TN Martin,1995-02-16,-107.61544259070598,included_game_day
+1995,2630,TN Martin,1995-02-18,-96.67526517518272,included_game_day
+1995,2630,TN Martin,1995-02-20,-84.55224171187523,included_game_day
+1995,2630,TN Martin,1995-02-25,-89.74631310426504,included_game_day
+1995,2630,TN Martin,1995-02-27,-105.67111674243284,included_game_day
+1996,2630,TN Martin,1995-11-24,-16.0,included_game_day
+1996,2630,TN Martin,1995-11-25,-26.4,included_game_day
+1996,2630,TN Martin,1995-12-01,-56.05,included_game_day
+1996,2630,TN Martin,1995-12-02,-67.845,included_game_day
+1996,2630,TN Martin,1995-12-07,-44.3322,included_game_day
+1996,2630,TN Martin,1995-12-16,-56.030101529999996,included_game_day
+1996,2630,TN Martin,1996-01-06,-45.817010950322434,included_game_day
+1996,2630,TN Martin,1996-01-08,-46.365961689333886,included_game_day
+1996,2630,TN Martin,1996-01-11,-53.34127183005645,included_game_day
+1996,2630,TN Martin,1996-01-13,-49.639583032180894,included_game_day
+1996,2630,TN Martin,1996-01-15,-50.60348168668851,included_game_day
+1996,2630,TN Martin,1996-01-20,-59.01843910044677,included_game_day
+1996,2630,TN Martin,1996-01-27,-63.35205994856821,included_game_day
+1996,2630,TN Martin,1996-01-29,-47.49753716066193,included_game_day
+1996,2630,TN Martin,1996-02-03,-43.412790535714656,included_game_day
+1996,2630,TN Martin,1996-02-05,-41.01299113946623,included_game_day
+1996,2630,TN Martin,1996-02-08,-27.083504538189437,included_game_day
+1996,2630,TN Martin,1996-02-10,-26.52938606135312,included_game_day
+1996,2630,TN Martin,1996-02-12,-21.77625007606625,included_game_day
+1996,2630,TN Martin,1996-02-17,-19.670308654975123,included_game_day
+1996,2630,TN Martin,1996-02-21,-39.24418080268444,included_game_day
+1996,2630,TN Martin,1996-02-24,-32.714602711376756,included_game_day
+1996,2630,TN Martin,1996-02-26,-26.882849372385614,included_game_day
+1996,2630,TN Martin,1996-03-02,-35.07708632987328,included_game_day
+1997,2630,TN Martin,1996-11-22,-3.0,included_game_day
+1997,2630,TN Martin,1996-11-26,-30.475,included_game_day
+1997,2630,TN Martin,1996-11-29,-43.6275,included_game_day
+1997,2630,TN Martin,1996-12-01,-44.72157,included_game_day
+1997,2630,TN Martin,1996-12-05,-54.182413,included_game_day
+1997,2630,TN Martin,1996-12-06,-39.0470117,included_game_day
+1997,2630,TN Martin,1996-12-16,-60.1382834102,included_game_day
+1997,2630,TN Martin,1997-01-06,-70.53990193254732,included_game_day
+1997,2630,TN Martin,1997-01-09,-74.00647152136342,included_game_day
+1997,2630,TN Martin,1997-01-11,-67.78086709348712,included_game_day
+1997,2630,TN Martin,1997-01-13,-79.65734921330575,included_game_day
+1997,2630,TN Martin,1997-01-16,-81.2735953001406,included_game_day
+1997,2630,TN Martin,1997-01-18,-88.6760666866781,included_game_day
+1997,2630,TN Martin,1997-01-20,-71.2947366870482,included_game_day
+1997,2630,TN Martin,1997-01-25,-73.02995800985948,included_game_day
+1997,2630,TN Martin,1997-01-27,-68.60564058101191,included_game_day
+1997,2630,TN Martin,1997-01-30,-57.479813794492586,included_game_day
+1997,2630,TN Martin,1997-02-01,-70.01305121827635,included_game_day
+1997,2630,TN Martin,1997-02-08,-77.81206801526355,included_game_day
+1997,2630,TN Martin,1997-02-10,-69.8372688618093,included_game_day
+1997,2630,TN Martin,1997-02-13,-41.08739059992246,included_game_day
+1997,2630,TN Martin,1997-02-15,-39.44624801860748,included_game_day
+1997,2630,TN Martin,1997-02-17,-34.40115487118328,included_game_day
+1997,2630,TN Martin,1997-02-20,-7.831303002661681,included_game_day
+1997,2630,TN Martin,1997-02-22,-30.763937952344268,included_game_day
+1998,2630,TN Martin,1997-11-21,-13.0,included_game_day
+1998,2630,TN Martin,1997-11-22,-36.306,included_game_day
+1998,2630,TN Martin,1997-11-27,-51.0669,included_game_day
+1998,2630,TN Martin,1997-12-04,-46.43804,included_game_day
+1998,2630,TN Martin,1997-12-06,-44.2258146,included_game_day
+1998,2630,TN Martin,1997-12-12,-59.3970602988,included_game_day
+1998,2630,TN Martin,1997-12-13,-75.39207649295,included_game_day
+1998,2630,TN Martin,1997-12-20,-81.7054664471136,included_game_day
+1998,2630,TN Martin,1997-12-31,-83.80960481567337,included_game_day
+1998,2630,TN Martin,1998-01-03,-69.8631640080463,included_game_day
+1998,2630,TN Martin,1998-01-05,-78.54197170639091,included_game_day
+1998,2630,TN Martin,1998-01-10,-77.33332556840264,included_game_day
+1998,2630,TN Martin,1998-01-13,-72.32421974626287,included_game_day
+1998,2630,TN Martin,1998-01-15,-62.73678644709893,included_game_day
+1998,2630,TN Martin,1998-01-17,-65.04980644363326,included_game_day
+1998,2630,TN Martin,1998-01-22,-63.96036719421974,included_game_day
+1998,2630,TN Martin,1998-01-24,-90.61223439588639,included_game_day
+1998,2630,TN Martin,1998-01-26,-87.75151808507877,included_game_day
+1998,2630,TN Martin,1998-01-29,-96.45743780779945,included_game_day
+1998,2630,TN Martin,1998-01-31,-109.0824364392895,included_game_day
+1998,2630,TN Martin,1998-02-03,-107.54458399950924,included_game_day
+1998,2630,TN Martin,1998-02-07,-112.9209064073914,included_game_day
+1998,2630,TN Martin,1998-02-12,-126.10565402969448,included_game_day
+1998,2630,TN Martin,1998-02-14,-121.25427309128762,included_game_day
+1998,2630,TN Martin,1998-02-19,-132.00976161691472,included_game_day
+1998,2630,TN Martin,1998-02-21,-145.19880594114971,included_game_day
+1999,2630,TN Martin,1998-11-18,-15.8,included_game_day
+1999,2630,TN Martin,1998-11-21,-32.32,included_game_day
+1999,2630,TN Martin,1998-11-23,-61.6774,included_game_day
+1999,2630,TN Martin,1998-11-28,-63.491659999999996,included_game_day
+1999,2630,TN Martin,1998-12-03,-48.020607,included_game_day
+1999,2630,TN Martin,1998-12-05,-54.956490099999996,included_game_day
+1999,2630,TN Martin,1998-12-14,-76.27695668999999,included_game_day
+1999,2630,TN Martin,1999-01-02,-77.92759992833794,included_game_day
+1999,2630,TN Martin,1999-01-04,-91.32035169698995,included_game_day
+1999,2630,TN Martin,1999-01-09,-101.82554409369507,included_game_day
+1999,2630,TN Martin,1999-01-12,-111.7931030678492,included_game_day
+1999,2630,TN Martin,1999-01-14,-91.19754179657996,included_game_day
+1999,2630,TN Martin,1999-01-16,-86.34249732393165,included_game_day
+1999,2630,TN Martin,1999-01-21,-84.74555108743874,included_game_day
+1999,2630,TN Martin,1999-01-23,-96.174012115048,included_game_day
+1999,2630,TN Martin,1999-01-28,-89.2683913060901,included_game_day
+1999,2630,TN Martin,1999-01-30,-98.85765643982747,included_game_day
+1999,2630,TN Martin,1999-02-02,-113.01741427173584,included_game_day
+1999,2630,TN Martin,1999-02-06,-95.42690863196464,included_game_day
+1999,2630,TN Martin,1999-02-11,-87.68340645743876,included_game_day
+1999,2630,TN Martin,1999-02-13,-92.03754194565433,included_game_day
+1999,2630,TN Martin,1999-02-18,-98.64506182615864,included_game_day
+1999,2630,TN Martin,1999-02-20,-102.03655705913584,included_game_day
+2000,2630,TN Martin,1999-11-19,-13.0,included_game_day
+2000,2630,TN Martin,1999-11-21,-31.4,included_game_day
+2000,2630,TN Martin,1999-11-27,-46.73,included_game_day
+2000,2630,TN Martin,1999-12-11,-49.259131470999996,included_game_day
+2000,2630,TN Martin,1999-12-14,-59.52130512389999,included_game_day
+2000,2630,TN Martin,1999-12-16,-88.20733992260999,included_game_day
+2000,2630,TN Martin,1999-12-21,-82.494990922174,included_game_day
+2000,2630,TN Martin,1999-12-30,-89.06094563037294,included_game_day
+2000,2630,TN Martin,2000-01-03,-73.56986027888092,included_game_day
+2000,2630,TN Martin,2000-01-08,-83.59374512809084,included_game_day
+2000,2630,TN Martin,2000-01-13,-64.95702237735689,included_game_day
+2000,2630,TN Martin,2000-01-15,-51.48825490429644,included_game_day
+2000,2630,TN Martin,2000-01-18,-45.10354211421222,included_game_day
+2000,2630,TN Martin,2000-01-20,-21.309718862410737,included_game_day
+2000,2630,TN Martin,2000-01-22,-14.559667797311118,included_game_day
+2000,2630,TN Martin,2000-01-27,-21.583368096272885,included_game_day
+2000,2630,TN Martin,2000-01-29,-33.278028498397916,included_game_day
+2000,2630,TN Martin,2000-02-05,-45.175153004609655,included_game_day
+2000,2630,TN Martin,2000-02-08,-65.3102708246913,included_game_day
+2000,2630,TN Martin,2000-02-10,-63.303677366102086,included_game_day
+2000,2630,TN Martin,2000-02-12,-58.47463630595484,included_game_day
+2000,2630,TN Martin,2000-02-17,-57.15793247800346,included_game_day
+2000,2630,TN Martin,2000-02-19,-60.67556332607393,included_game_day
+2000,2630,TN Martin,2000-02-21,-65.50973733610704,included_game_day
+2000,2630,TN Martin,2000-02-24,-68.57434646468256,included_game_day
+2000,2630,TN Martin,2000-02-26,-76.69660512142366,included_game_day
+2000,2630,TN Martin,2000-02-29,-64.15565131431694,included_game_day
+2001,2630,TN Martin,2000-11-25,10.4,included_game_day
+2001,2630,TN Martin,2000-11-29,-22.300804,included_game_day
+2001,2630,TN Martin,2000-12-09,-29.862708357,included_game_day
+2001,2630,TN Martin,2000-12-18,-51.1972111682,included_game_day
+2001,2630,TN Martin,2000-12-21,-51.70077141399452,included_game_day
+2001,2630,TN Martin,2000-12-29,-57.65311399721642,included_game_day
+2001,2630,TN Martin,2001-01-02,-68.684009296408,included_game_day
+2001,2630,TN Martin,2001-01-06,-67.53827671355849,included_game_day
+2001,2630,TN Martin,2001-01-11,-69.70736348794826,included_game_day
+2001,2630,TN Martin,2001-01-13,-71.18887313845437,included_game_day
+2001,2630,TN Martin,2001-01-15,-62.50320505190702,included_game_day
+2001,2630,TN Martin,2001-01-18,-56.68028580956433,included_game_day
+2001,2630,TN Martin,2001-01-20,-59.36917372073143,included_game_day
+2001,2630,TN Martin,2001-01-25,-79.34350520974685,included_game_day
+2001,2630,TN Martin,2001-01-27,-73.40918756805202,included_game_day
+2001,2630,TN Martin,2001-02-01,-72.92879226246328,included_game_day
+2001,2630,TN Martin,2001-02-03,-58.7869689577432,included_game_day
+2001,2630,TN Martin,2001-02-06,-37.52968911661575,included_game_day
+2001,2630,TN Martin,2001-02-08,-21.204903775782505,included_game_day
+2001,2630,TN Martin,2001-02-10,-33.19933291178219,included_game_day
+2001,2630,TN Martin,2001-02-15,-52.20233713758003,included_game_day
+2001,2630,TN Martin,2001-02-17,-58.7459203056764,included_game_day
+2001,2630,TN Martin,2001-02-22,-63.45747041340151,included_game_day
+2001,2630,TN Martin,2001-02-24,-63.536641563666294,included_game_day
+2001,2630,TN Martin,2001-02-27,-61.59997848387812,included_game_day
+2002,2630,UT Martin Skyhawks,2001-11-13,-23.0,included_game_day
+2002,2630,UT Martin Skyhawks,2001-11-19,-16.7,included_game_day
+2002,2630,UT Martin Skyhawks,2001-12-06,-12.570685339999999,included_game_day
+2002,2630,UT Martin Skyhawks,2001-12-08,-8.500755515999998,included_game_day
+2002,2630,UT Martin Skyhawks,2001-12-21,-31.930330267118997,included_game_day
+2002,2630,UT Martin Skyhawks,2001-12-28,-44.3223628375884,included_game_day
+2002,2630,UT Martin Skyhawks,2002-01-03,-50.59345462792762,included_game_day
+2002,2630,UT Martin Skyhawks,2002-01-10,-36.628058182200036,included_game_day
+2002,2630,UT Martin Skyhawks,2002-01-12,-25.144146403512334,included_game_day
+2002,2630,UT Martin Skyhawks,2002-01-17,-17.706254819230196,included_game_day
+2002,2630,UT Martin Skyhawks,2002-01-19,-19.939818315726598,included_game_day
+2002,2630,UT Martin Skyhawks,2002-01-21,-16.246036900285134,included_game_day
+2002,2630,UT Martin Skyhawks,2002-01-24,-32.59481849680829,included_game_day
+2002,2630,UT Martin Skyhawks,2002-01-26,-28.921936244352096,included_game_day
+2002,2630,UT Martin Skyhawks,2002-01-31,-31.66258532964166,included_game_day
+2002,2630,UT Martin Skyhawks,2002-02-02,-54.046289695240255,included_game_day
+2002,2630,UT Martin Skyhawks,2002-02-07,-49.7109146900041,included_game_day
+2002,2630,UT Martin Skyhawks,2002-02-09,-51.355228213776655,included_game_day
+2002,2630,UT Martin Skyhawks,2002-02-14,-78.63681262809493,included_game_day
+2002,2630,UT Martin Skyhawks,2002-02-16,-65.13982571589546,included_game_day
+2002,2630,UT Martin Skyhawks,2002-02-21,-74.70096128878802,included_game_day
+2002,2630,UT Martin Skyhawks,2002-02-23,-75.77949610721019,included_game_day
+2003,2630,UT Martin Skyhawks,2002-11-22,8.0,included_game_day
+2003,2630,UT Martin Skyhawks,2002-11-27,-1.1515000000000004,included_game_day
+2003,2630,UT Martin Skyhawks,2002-12-07,9.122613079999999,included_game_day
+2003,2630,UT Martin Skyhawks,2002-12-15,14.085184257999998,included_game_day
+2003,2630,UT Martin Skyhawks,2002-12-17,-4.712796986940003,included_game_day
+2003,2630,UT Martin Skyhawks,2002-12-21,-15.284650604146002,included_game_day
+2003,2630,UT Martin Skyhawks,2002-12-30,-34.00811527776108,included_game_day
+2003,2630,UT Martin Skyhawks,2003-01-09,-35.10820083665563,included_game_day
+2003,2630,UT Martin Skyhawks,2003-01-11,-31.73396175445659,included_game_day
+2003,2630,UT Martin Skyhawks,2003-01-16,-20.817036691507496,included_game_day
+2003,2630,UT Martin Skyhawks,2003-01-18,-26.676840880683528,included_game_day
+2003,2630,UT Martin Skyhawks,2003-01-20,-32.198211653975136,included_game_day
+2003,2630,UT Martin Skyhawks,2003-01-23,-28.217265137877018,included_game_day
+2003,2630,UT Martin Skyhawks,2003-01-25,-48.90351547588534,included_game_day
+2003,2630,UT Martin Skyhawks,2003-01-27,-51.234682750381275,included_game_day
+2003,2630,UT Martin Skyhawks,2003-02-01,-61.19281660236575,included_game_day
+2003,2630,UT Martin Skyhawks,2003-02-06,-52.258683621693905,included_game_day
+2003,2630,UT Martin Skyhawks,2003-02-08,-52.50909972253423,included_game_day
+2003,2630,UT Martin Skyhawks,2003-02-13,-40.52662388932569,included_game_day
+2003,2630,UT Martin Skyhawks,2003-02-15,-41.94445943255379,included_game_day
+2003,2630,UT Martin Skyhawks,2003-02-20,-60.913938424365924,included_game_day
+2003,2630,UT Martin Skyhawks,2003-02-22,-49.79456122872624,included_game_day
+2003,2630,UT Martin Skyhawks,2003-03-01,-67.77945244883128,included_game_day
+2003,2630,UT Martin Skyhawks,2003-03-04,-68.72847614852584,included_game_day
+2004,2630,UT Martin Skyhawks,2003-11-17,-14.0,included_game_day
+2004,2630,UT Martin Skyhawks,2003-11-18,18.6,included_game_day
+2004,2630,UT Martin Skyhawks,2003-11-22,3.740000000000002,included_game_day
+2004,2630,UT Martin Skyhawks,2003-11-29,-24.973999999999997,included_game_day
+2004,2630,UT Martin Skyhawks,2003-12-03,-36.43165499999999,included_game_day
+2004,2630,UT Martin Skyhawks,2003-12-06,-39.313489499999996,included_game_day
+2004,2630,UT Martin Skyhawks,2003-12-20,-7.556950842999996,included_game_day
+2004,2630,UT Martin Skyhawks,2003-12-22,-34.878092665859995,included_game_day
+2004,2630,UT Martin Skyhawks,2003-12-30,-37.8854871501824,included_game_day
+2004,2630,UT Martin Skyhawks,2004-01-02,-24.92029317011515,included_game_day
+2004,2630,UT Martin Skyhawks,2004-01-08,-24.379914610809312,included_game_day
+2004,2630,UT Martin Skyhawks,2004-01-10,-27.686150735495684,included_game_day
+2004,2630,UT Martin Skyhawks,2004-01-15,-44.65301918931246,included_game_day
+2004,2630,UT Martin Skyhawks,2004-01-17,-51.271996345728546,included_game_day
+2004,2630,UT Martin Skyhawks,2004-01-20,-62.955689882836964,included_game_day
+2004,2630,UT Martin Skyhawks,2004-01-22,-50.79692855087258,included_game_day
+2004,2630,UT Martin Skyhawks,2004-01-29,-43.87590320802722,included_game_day
+2004,2630,UT Martin Skyhawks,2004-01-31,-43.67647726689048,included_game_day
+2004,2630,UT Martin Skyhawks,2004-02-05,-50.359176752181284,included_game_day
+2004,2630,UT Martin Skyhawks,2004-02-07,-55.07087068997232,included_game_day
+2004,2630,UT Martin Skyhawks,2004-02-12,-69.11903377357456,included_game_day
+2004,2630,UT Martin Skyhawks,2004-02-14,-64.10952368220748,included_game_day
+2004,2630,UT Martin Skyhawks,2004-02-17,-87.69073739818556,included_game_day
+2004,2630,UT Martin Skyhawks,2004-02-21,-97.51792243018599,included_game_day
+2004,2630,UT Martin Skyhawks,2004-02-26,-92.59325034339578,included_game_day
+2004,2630,UT Martin Skyhawks,2004-02-28,-73.59642072964212,included_game_day
+2005,2630,UT Martin Skyhawks,2004-11-20,-39.0,included_game_day
+2005,2630,UT Martin Skyhawks,2004-11-27,-61.461,included_game_day
+2005,2630,UT Martin Skyhawks,2004-12-01,-58.3549,included_game_day
+2005,2630,UT Martin Skyhawks,2004-12-06,-73.6200023,included_game_day
+2005,2630,UT Martin Skyhawks,2004-12-11,-65.362766499,included_game_day
+2005,2630,UT Martin Skyhawks,2004-12-18,-70.2434582281382,included_game_day
+2005,2630,UT Martin Skyhawks,2004-12-21,-81.825048205849,included_game_day
+2005,2630,UT Martin Skyhawks,2004-12-29,-87.7185958249118,included_game_day
+2005,2630,UT Martin Skyhawks,2004-12-30,-82.14413292811209,included_game_day
+2005,2630,UT Martin Skyhawks,2005-01-06,-81.27571648631972,included_game_day
+2005,2630,UT Martin Skyhawks,2005-01-08,-92.92242482380072,included_game_day
+2005,2630,UT Martin Skyhawks,2005-01-13,-83.60787159677932,included_game_day
+2005,2630,UT Martin Skyhawks,2005-01-15,-74.43587523107726,included_game_day
+2005,2630,UT Martin Skyhawks,2005-01-18,-93.65021360960576,included_game_day
+2005,2630,UT Martin Skyhawks,2005-01-20,-103.9430251401101,included_game_day
+2005,2630,UT Martin Skyhawks,2005-01-27,-104.78494083789636,included_game_day
+2005,2630,UT Martin Skyhawks,2005-01-29,-115.34994197478278,included_game_day
+2005,2630,UT Martin Skyhawks,2005-02-03,-113.47294297677439,included_game_day
+2005,2630,UT Martin Skyhawks,2005-02-05,-116.571940383165,included_game_day
+2005,2630,UT Martin Skyhawks,2005-02-10,-113.88762135262672,included_game_day
+2005,2630,UT Martin Skyhawks,2005-02-12,-100.90731459475984,included_game_day
+2005,2630,UT Martin Skyhawks,2005-02-15,-110.3377890995844,included_game_day
+2005,2630,UT Martin Skyhawks,2005-02-19,-92.50551051638226,included_game_day
+2005,2630,UT Martin Skyhawks,2005-02-24,-88.18214275776306,included_game_day
+2005,2630,UT Martin Skyhawks,2005-02-26,-98.50107026620752,included_game_day
+2006,2630,UT Martin Skyhawks,2005-11-19,-14.0,included_game_day
+2006,2630,UT Martin Skyhawks,2005-12-01,-14.333,included_game_day
+2006,2630,UT Martin Skyhawks,2005-12-03,-4.7275100000000005,included_game_day
+2006,2630,UT Martin Skyhawks,2005-12-10,-18.33502359922,included_game_day
+2006,2630,UT Martin Skyhawks,2005-12-19,-11.366658023998001,included_game_day
+2006,2630,UT Martin Skyhawks,2005-12-21,-28.0927716047308,included_game_day
+2006,2630,UT Martin Skyhawks,2005-12-28,-32.47481746822312,included_game_day
+2006,2630,UT Martin Skyhawks,2005-12-30,-50.05071315722712,included_game_day
+2006,2630,UT Martin Skyhawks,2006-01-02,-38.07112138245742,included_game_day
+2006,2630,UT Martin Skyhawks,2006-01-05,-48.976821011415716,included_game_day
+2006,2630,UT Martin Skyhawks,2006-01-07,-44.73392699839542,included_game_day
+2006,2630,UT Martin Skyhawks,2006-01-12,-53.2412534074463,included_game_day
+2006,2630,UT Martin Skyhawks,2006-01-14,-60.96830736532553,included_game_day
+2006,2630,UT Martin Skyhawks,2006-01-19,-60.62261716399511,included_game_day
+2006,2630,UT Martin Skyhawks,2006-01-21,-60.41432096904316,included_game_day
+2006,2630,UT Martin Skyhawks,2006-01-26,-53.59675766160443,included_game_day
+2006,2630,UT Martin Skyhawks,2006-01-28,-54.12555071109422,included_game_day
+2006,2630,UT Martin Skyhawks,2006-01-30,-46.9794853860469,included_game_day
+2006,2630,UT Martin Skyhawks,2006-02-02,-37.74843444823746,included_game_day
+2006,2630,UT Martin Skyhawks,2006-02-04,-27.11333657595199,included_game_day
+2006,2630,UT Martin Skyhawks,2006-02-09,-27.12902307778073,included_game_day
+2006,2630,UT Martin Skyhawks,2006-02-11,-11.043376407308479,included_game_day
+2006,2630,UT Martin Skyhawks,2006-02-16,-11.765813824980322,included_game_day
+2006,2630,UT Martin Skyhawks,2006-02-18,-2.8316438036065747,included_game_day
+2006,2630,UT Martin Skyhawks,2006-02-25,-11.87620249993487,included_game_day
+2006,2630,UT Martin Skyhawks,2006-02-28,-14.111849456997506,included_game_day
+2007,2630,UT Martin Skyhawks,2006-11-10,6.0,included_game_day
+2007,2630,UT Martin Skyhawks,2006-11-11,-6.800000000000001,included_game_day
+2007,2630,UT Martin Skyhawks,2006-11-12,-18.9,included_game_day
+2007,2630,UT Martin Skyhawks,2006-11-16,-24.009999999999998,included_game_day
+2007,2630,UT Martin Skyhawks,2006-11-20,-32.437,included_game_day
+2007,2630,UT Martin Skyhawks,2006-11-25,-30.103519999999996,included_game_day
+2007,2630,UT Martin Skyhawks,2006-11-29,-44.1513889,included_game_day
+2007,2630,UT Martin Skyhawks,2006-12-02,-48.88306692,included_game_day
+2007,2630,UT Martin Skyhawks,2006-12-09,-43.584656961240995,included_game_day
+2007,2630,UT Martin Skyhawks,2006-12-16,-58.86397128007431,included_game_day
+2007,2630,UT Martin Skyhawks,2006-12-18,-58.76227389154588,included_game_day
+2007,2630,UT Martin Skyhawks,2006-12-20,-68.0625596502237,included_game_day
+2007,2630,UT Martin Skyhawks,2006-12-29,-66.74286258710991,included_game_day
+2007,2630,UT Martin Skyhawks,2007-01-02,-74.32931866262814,included_game_day
+2007,2630,UT Martin Skyhawks,2007-01-04,-80.41330114250354,included_game_day
+2007,2630,UT Martin Skyhawks,2007-01-06,-72.9630730517565,included_game_day
+2007,2630,UT Martin Skyhawks,2007-01-11,-52.72940351069003,included_game_day
+2007,2630,UT Martin Skyhawks,2007-01-13,-68.45368466883656,included_game_day
+2007,2630,UT Martin Skyhawks,2007-01-18,-81.5383160384351,included_game_day
+2007,2630,UT Martin Skyhawks,2007-01-20,-88.76146848561912,included_game_day
+2007,2630,UT Martin Skyhawks,2007-01-25,-91.24629896438601,included_game_day
+2007,2630,UT Martin Skyhawks,2007-01-27,-67.82232013137622,included_game_day
+2007,2630,UT Martin Skyhawks,2007-01-29,-100.72982966949846,included_game_day
+2007,2630,UT Martin Skyhawks,2007-02-01,-94.33486560345727,included_game_day
+2007,2630,UT Martin Skyhawks,2007-02-03,-97.4774698616036,included_game_day
+2007,2630,UT Martin Skyhawks,2007-02-06,-89.74203991026322,included_game_day
+2007,2630,UT Martin Skyhawks,2007-02-10,-102.26826607265897,included_game_day
+2007,2630,UT Martin Skyhawks,2007-02-13,-98.22968274258712,included_game_day
+2007,2630,UT Martin Skyhawks,2007-02-17,-100.19362305139686,included_game_day
+2007,2630,UT Martin Skyhawks,2007-02-24,-117.15673248069037,included_game_day
+2008,2630,UT Martin Skyhawks,2007-11-05,-28.0,included_game_day
+2008,2630,UT Martin Skyhawks,2007-11-06,-21.4,included_game_day
+2008,2630,UT Martin Skyhawks,2007-11-15,-26.83,included_game_day
+2008,2630,UT Martin Skyhawks,2007-11-17,-34.797,included_game_day
+2008,2630,UT Martin Skyhawks,2007-11-29,-33.25767326,included_game_day
+2008,2630,UT Martin Skyhawks,2007-12-01,-22.203719633999995,included_game_day
+2008,2630,UT Martin Skyhawks,2007-12-08,-19.643534331079994,included_game_day
+2008,2630,UT Martin Skyhawks,2007-12-17,-25.670262083989996,included_game_day
+2008,2630,UT Martin Skyhawks,2007-12-19,-43.990403477471574,included_game_day
+2008,2630,UT Martin Skyhawks,2007-12-22,-58.82671124038182,included_game_day
+2008,2630,UT Martin Skyhawks,2007-12-29,-50.512217093848484,included_game_day
+2008,2630,UT Martin Skyhawks,2008-01-03,-54.68097349145713,included_game_day
+2008,2630,UT Martin Skyhawks,2008-01-05,-41.94268240341729,included_game_day
+2008,2630,UT Martin Skyhawks,2008-01-07,-36.500653767135965,included_game_day
+2008,2630,UT Martin Skyhawks,2008-01-10,-32.497533691766684,included_game_day
+2008,2630,UT Martin Skyhawks,2008-01-12,-40.998885547842626,included_game_day
+2008,2630,UT Martin Skyhawks,2008-01-17,-50.175475203262366,included_game_day
+2008,2630,UT Martin Skyhawks,2008-01-24,-32.093079751551514,included_game_day
+2008,2630,UT Martin Skyhawks,2008-01-26,-23.77626530221481,included_game_day
+2008,2630,UT Martin Skyhawks,2008-01-29,-42.00250758651811,included_game_day
+2008,2630,UT Martin Skyhawks,2008-01-31,-49.606390276724476,included_game_day
+2008,2630,UT Martin Skyhawks,2008-02-02,-27.968699987465843,included_game_day
+2008,2630,UT Martin Skyhawks,2008-02-07,-21.776616400973754,included_game_day
+2008,2630,UT Martin Skyhawks,2008-02-09,-23.38217319391744,included_game_day
+2008,2630,UT Martin Skyhawks,2008-02-14,-19.287895335433127,included_game_day
+2008,2630,UT Martin Skyhawks,2008-02-16,-17.966793165695208,included_game_day
+2008,2630,UT Martin Skyhawks,2008-02-23,-12.793862839825456,included_game_day
+2008,2630,UT Martin Skyhawks,2008-03-01,-49.82545126609632,included_game_day
+2008,2630,UT Martin Skyhawks,2008-03-04,-44.789011835374446,included_game_day
+2008,2630,UT Martin Skyhawks,2008-03-07,-37.57121341362526,included_game_day
+2009,2630,UT Martin Skyhawks,2008-11-18,-20.4,included_game_day
+2009,2630,UT Martin Skyhawks,2008-11-22,-8.559999999999999,included_game_day
+2009,2630,UT Martin Skyhawks,2008-11-25,-20.104,included_game_day
+2009,2630,UT Martin Skyhawks,2008-11-28,-38.345903,included_game_day
+2009,2630,UT Martin Skyhawks,2008-12-04,-46.84018677,included_game_day
+2009,2630,UT Martin Skyhawks,2008-12-06,-38.781434793,included_game_day
+2009,2630,UT Martin Skyhawks,2008-12-15,-20.588933779660003,included_game_day
+2009,2630,UT Martin Skyhawks,2008-12-27,-23.319052749193666,included_game_day
+2009,2630,UT Martin Skyhawks,2008-12-28,-15.05142518734736,included_game_day
+2009,2630,UT Martin Skyhawks,2008-12-31,4.200291814227677,included_game_day
+2009,2630,UT Martin Skyhawks,2009-01-05,4.754395415893079,included_game_day
+2009,2630,UT Martin Skyhawks,2009-01-08,-10.992992890026915,included_game_day
+2009,2630,UT Martin Skyhawks,2009-01-10,-3.2698118603120836,included_game_day
+2009,2630,UT Martin Skyhawks,2009-01-12,1.4639713803037662,included_game_day
+2009,2630,UT Martin Skyhawks,2009-01-15,14.98029164515082,included_game_day
+2009,2630,UT Martin Skyhawks,2009-01-17,32.67035757231957,included_game_day
+2009,2630,UT Martin Skyhawks,2009-01-22,27.44776950714575,included_game_day
+2009,2630,UT Martin Skyhawks,2009-01-24,34.74313961876456,included_game_day
+2009,2630,UT Martin Skyhawks,2009-02-05,38.02162164891894,included_game_day
+2009,2630,UT Martin Skyhawks,2009-02-07,54.2434494268624,included_game_day
+2009,2630,UT Martin Skyhawks,2009-02-12,66.50860347860446,included_game_day
+2009,2630,UT Martin Skyhawks,2009-02-14,60.71767918766907,included_game_day
+2009,2630,UT Martin Skyhawks,2009-02-18,69.7742668402089,included_game_day
+2009,2630,UT Martin Skyhawks,2009-02-21,54.574837125560165,included_game_day
+2009,2630,UT Martin Skyhawks,2009-02-23,40.00799605668819,included_game_day
+2009,2630,UT Martin Skyhawks,2009-02-26,56.254643687343915,included_game_day
+2009,2630,UT Martin Skyhawks,2009-02-28,63.77804985527696,included_game_day
+2009,2630,UT Martin Skyhawks,2009-03-03,68.97114514442319,included_game_day
+2009,2630,UT Martin Skyhawks,2009-03-06,57.19021074106227,included_game_day
+2009,2630,UT Martin Skyhawks,2009-03-18,61.03264228866746,included_game_day
+2010,2630,UT Martin Skyhawks,2009-11-14,-25.0,included_game_day
+2010,2630,UT Martin Skyhawks,2009-11-17,-34.5,included_game_day
+2010,2630,UT Martin Skyhawks,2009-11-25,-41.7896,included_game_day
+2010,2630,UT Martin Skyhawks,2009-12-03,-51.14248372,included_game_day
+2010,2630,UT Martin Skyhawks,2009-12-05,-57.589924648,included_game_day
+2010,2630,UT Martin Skyhawks,2009-12-09,-71.4146736125,included_game_day
+2010,2630,UT Martin Skyhawks,2009-12-12,-81.74630782244999,included_game_day
+2010,2630,UT Martin Skyhawks,2009-12-19,-92.6793778882405,included_game_day
+2010,2630,UT Martin Skyhawks,2009-12-22,-98.93728802174633,included_game_day
+2010,2630,UT Martin Skyhawks,2010-01-04,-104.38233588764133,included_game_day
+2010,2630,UT Martin Skyhawks,2010-01-07,-110.25947696418339,included_game_day
+2010,2630,UT Martin Skyhawks,2010-01-09,-116.62227280045042,included_game_day
+2010,2630,UT Martin Skyhawks,2010-01-14,-127.54875674499125,included_game_day
+2010,2630,UT Martin Skyhawks,2010-01-16,-132.90644301618292,included_game_day
+2010,2630,UT Martin Skyhawks,2010-01-21,-141.9305288145526,included_game_day
+2010,2630,UT Martin Skyhawks,2010-01-23,-142.25429910150362,included_game_day
+2010,2630,UT Martin Skyhawks,2010-01-25,-129.07151678129517,included_game_day
+2010,2630,UT Martin Skyhawks,2010-01-30,-140.70010426218687,included_game_day
+2010,2630,UT Martin Skyhawks,2010-02-04,-135.95211640011627,included_game_day
+2010,2630,UT Martin Skyhawks,2010-02-06,-139.74786080208702,included_game_day
+2010,2630,UT Martin Skyhawks,2010-02-09,-137.67418302512354,included_game_day
+2010,2630,UT Martin Skyhawks,2010-02-11,-135.94010757741364,included_game_day
+2010,2630,UT Martin Skyhawks,2010-02-13,-134.77244291149518,included_game_day
+2010,2630,UT Martin Skyhawks,2010-02-16,-139.35968061198977,included_game_day
+2010,2630,UT Martin Skyhawks,2010-02-20,-141.14461374441038,included_game_day
+2010,2630,UT Martin Skyhawks,2010-02-25,-148.34815469631897,included_game_day
+2010,2630,UT Martin Skyhawks,2010-02-27,-134.45207644943213,included_game_day
+2011,2630,UT Martin Skyhawks,2010-11-15,13.9,included_game_day
+2011,2630,UT Martin Skyhawks,2010-11-18,-8.13,included_game_day
+2011,2630,UT Martin Skyhawks,2010-11-20,-13.985000000000001,included_game_day
+2011,2630,UT Martin Skyhawks,2010-11-23,-24.853,included_game_day
+2011,2630,UT Martin Skyhawks,2010-11-27,-45.697,included_game_day
+2011,2630,UT Martin Skyhawks,2010-12-02,-57.60393165000001,included_game_day
+2011,2630,UT Martin Skyhawks,2010-12-04,-58.88259035400001,included_game_day
+2011,2630,UT Martin Skyhawks,2010-12-08,-45.52343533150001,included_game_day
+2011,2630,UT Martin Skyhawks,2010-12-11,-60.41564866975001,included_game_day
+2011,2630,UT Martin Skyhawks,2010-12-21,-69.5636141770776,included_game_day
+2011,2630,UT Martin Skyhawks,2010-12-27,-101.56992156568538,included_game_day
+2011,2630,UT Martin Skyhawks,2010-12-29,-88.14696758144264,included_game_day
+2011,2630,UT Martin Skyhawks,2011-01-03,-89.8519337516061,included_game_day
+2011,2630,UT Martin Skyhawks,2011-01-08,-88.58316649132993,included_game_day
+2011,2630,UT Martin Skyhawks,2011-01-10,-87.64985383106453,included_game_day
+2011,2630,UT Martin Skyhawks,2011-01-13,-83.38984551836701,included_game_day
+2011,2630,UT Martin Skyhawks,2011-01-15,-76.25935987449341,included_game_day
+2011,2630,UT Martin Skyhawks,2011-01-20,-69.52590188839824,included_game_day
+2011,2630,UT Martin Skyhawks,2011-01-22,-68.21945254183053,included_game_day
+2011,2630,UT Martin Skyhawks,2011-01-24,-65.96476729240484,included_game_day
+2011,2630,UT Martin Skyhawks,2011-01-29,-70.57439501352701,included_game_day
+2011,2630,UT Martin Skyhawks,2011-02-03,-86.75025268343762,included_game_day
+2011,2630,UT Martin Skyhawks,2011-02-05,-87.24985410069294,included_game_day
+2011,2630,UT Martin Skyhawks,2011-02-10,-73.87853101691286,included_game_day
+2011,2630,UT Martin Skyhawks,2011-02-12,-85.58103369786227,included_game_day
+2011,2630,UT Martin Skyhawks,2011-02-15,-63.680533214224255,included_game_day
+2011,2630,UT Martin Skyhawks,2011-02-19,-68.34336202626133,included_game_day
+2011,2630,UT Martin Skyhawks,2011-02-24,-56.71698637619811,included_game_day
+2011,2630,UT Martin Skyhawks,2011-02-26,-61.762626361260835,included_game_day
+2011,2630,UT Martin Skyhawks,2011-03-02,-54.955611199649084,included_game_day
+2011,2630,UT Martin Skyhawks,2011-03-03,-74.97749445280685,included_game_day
+2012,2630,UT Martin Skyhawks,2011-11-11,-32.0,included_game_day
+2012,2630,UT Martin Skyhawks,2011-11-13,-34.8,included_game_day
+2012,2630,UT Martin Skyhawks,2011-11-17,-49.47,included_game_day
+2012,2630,UT Martin Skyhawks,2011-11-22,-58.3086,included_game_day
+2012,2630,UT Martin Skyhawks,2011-11-25,-72.053533,included_game_day
+2012,2630,UT Martin Skyhawks,2011-11-27,-59.0947897,included_game_day
+2012,2630,UT Martin Skyhawks,2011-11-30,-66.89336073,included_game_day
+2012,2630,UT Martin Skyhawks,2011-12-03,-86.547353257,included_game_day
+2012,2630,UT Martin Skyhawks,2011-12-06,-90.4083231127,included_game_day
+2012,2630,UT Martin Skyhawks,2011-12-10,-88.329323500106,included_game_day
+2012,2630,UT Martin Skyhawks,2011-12-18,-90.2927933503114,included_game_day
+2012,2630,UT Martin Skyhawks,2011-12-21,-94.67911390366078,included_game_day
+2012,2630,UT Martin Skyhawks,2011-12-29,-100.83439568942693,included_game_day
+2012,2630,UT Martin Skyhawks,2011-12-31,-120.2656432153599,included_game_day
+2012,2630,UT Martin Skyhawks,2012-01-05,-116.12527212927118,included_game_day
+2012,2630,UT Martin Skyhawks,2012-01-07,-119.99547384417707,included_game_day
+2012,2630,UT Martin Skyhawks,2012-01-12,-120.86518309625929,included_game_day
+2012,2630,UT Martin Skyhawks,2012-01-19,-116.5410286038963,included_game_day
+2012,2630,UT Martin Skyhawks,2012-01-21,-111.24874337768641,included_game_day
+2012,2630,UT Martin Skyhawks,2012-01-26,-118.7139593975017,included_game_day
+2012,2630,UT Martin Skyhawks,2012-01-28,-123.78415891618972,included_game_day
+2012,2630,UT Martin Skyhawks,2012-02-02,-128.08517235124307,included_game_day
+2012,2630,UT Martin Skyhawks,2012-02-04,-117.36292537730074,included_game_day
+2012,2630,UT Martin Skyhawks,2012-02-09,-133.3940914651609,included_game_day
+2012,2630,UT Martin Skyhawks,2012-02-11,-131.65352223319692,included_game_day
+2012,2630,UT Martin Skyhawks,2012-02-14,-125.80023987571572,included_game_day
+2012,2630,UT Martin Skyhawks,2012-02-18,-135.8140450055424,included_game_day
+2012,2630,UT Martin Skyhawks,2012-02-23,-148.59938148492063,included_game_day
+2012,2630,UT Martin Skyhawks,2012-02-25,-160.8481333842316,included_game_day
+2013,2630,UT Martin Skyhawks,2012-11-09,-13.0,included_game_day
+2013,2630,UT Martin Skyhawks,2012-11-11,-31.7,included_game_day
+2013,2630,UT Martin Skyhawks,2012-11-16,-36.53,included_game_day
+2013,2630,UT Martin Skyhawks,2012-11-24,-51.26959,included_game_day
+2013,2630,UT Martin Skyhawks,2012-11-29,-70.36744287,included_game_day
+2013,2630,UT Martin Skyhawks,2012-12-01,-70.68494158300001,included_game_day
+2013,2630,UT Martin Skyhawks,2012-12-05,-62.89771342470001,included_game_day
+2013,2630,UT Martin Skyhawks,2012-12-08,-84.16762579620001,included_game_day
+2013,2630,UT Martin Skyhawks,2012-12-15,-92.04755632165,included_game_day
+2013,2630,UT Martin Skyhawks,2012-12-19,-109.34450728145481,included_game_day
+2013,2630,UT Martin Skyhawks,2012-12-29,-100.51302060069048,included_game_day
+2013,2630,UT Martin Skyhawks,2012-12-31,-103.4806510151537,included_game_day
+2013,2630,UT Martin Skyhawks,2013-01-03,-103.37504404035104,included_game_day
+2013,2630,UT Martin Skyhawks,2013-01-05,-101.39964948448808,included_game_day
+2013,2630,UT Martin Skyhawks,2013-01-10,-122.48037370262331,included_game_day
+2013,2630,UT Martin Skyhawks,2013-01-12,-132.6139910608223,included_game_day
+2013,2630,UT Martin Skyhawks,2013-01-19,-139.10755884529377,included_game_day
+2013,2630,UT Martin Skyhawks,2013-01-24,-143.19578579961583,included_game_day
+2013,2630,UT Martin Skyhawks,2013-01-26,-127.81142002817336,included_game_day
+2013,2630,UT Martin Skyhawks,2013-01-31,-106.81724354194981,included_game_day
+2013,2630,UT Martin Skyhawks,2013-02-07,-134.29070797362945,included_game_day
+2013,2630,UT Martin Skyhawks,2013-02-09,-121.92706555435242,included_game_day
+2013,2630,UT Martin Skyhawks,2013-02-16,-139.6496059987386,included_game_day
+2013,2630,UT Martin Skyhawks,2013-02-21,-143.5919013575612,included_game_day
+2013,2630,UT Martin Skyhawks,2013-02-23,-136.47843244097,included_game_day
+2013,2630,UT Martin Skyhawks,2013-02-28,-115.95809405504096,included_game_day
+2013,2630,UT Martin Skyhawks,2013-03-02,-145.6558094317905,included_game_day
+2013,2630,UT Martin Skyhawks,2013-03-06,-141.73669425648927,included_game_day
+2014,2630,UT Martin Skyhawks,2013-11-08,-15.0,included_game_day
+2014,2630,UT Martin Skyhawks,2013-11-10,-37.7,included_game_day
+2014,2630,UT Martin Skyhawks,2013-11-13,-40.36,included_game_day
+2014,2630,UT Martin Skyhawks,2013-11-17,-57.934,included_game_day
+2014,2630,UT Martin Skyhawks,2013-11-20,-71.48859999999999,included_game_day
+2014,2630,UT Martin Skyhawks,2013-11-22,-74.22214,included_game_day
+2014,2630,UT Martin Skyhawks,2013-11-25,-84.28844099999999,included_game_day
+2014,2630,UT Martin Skyhawks,2013-11-30,-103.18788869999999,included_game_day
+2014,2630,UT Martin Skyhawks,2013-12-04,-82.450745101,included_game_day
+2014,2630,UT Martin Skyhawks,2013-12-07,-70.4989308749,included_game_day
+2014,2630,UT Martin Skyhawks,2013-12-16,-66.26930305539,included_game_day
+2014,2630,UT Martin Skyhawks,2013-12-19,-93.079566901551,included_game_day
+2014,2630,UT Martin Skyhawks,2013-12-21,-97.33934735553291,included_game_day
+2014,2630,UT Martin Skyhawks,2013-12-30,-94.8008446683067,included_game_day
+2014,2630,UT Martin Skyhawks,2014-01-02,-100.228400582933,included_game_day
+2014,2630,UT Martin Skyhawks,2014-01-05,-104.6379947573124,included_game_day
+2014,2630,UT Martin Skyhawks,2014-01-11,-111.6373246487537,included_game_day
+2014,2630,UT Martin Skyhawks,2014-01-13,-92.46818428423973,included_game_day
+2014,2630,UT Martin Skyhawks,2014-01-18,-86.52992667346031,included_game_day
+2014,2630,UT Martin Skyhawks,2014-01-23,-82.207058947634,included_game_day
+2014,2630,UT Martin Skyhawks,2014-01-25,-87.10598973470744,included_game_day
+2014,2630,UT Martin Skyhawks,2014-01-30,-95.84375084956862,included_game_day
+2014,2630,UT Martin Skyhawks,2014-02-06,-102.55134378237133,included_game_day
+2014,2630,UT Martin Skyhawks,2014-02-08,-100.06926501365785,included_game_day
+2014,2630,UT Martin Skyhawks,2014-02-12,-80.42227634764512,included_game_day
+2014,2630,UT Martin Skyhawks,2014-02-20,-92.07280400570181,included_game_day
+2014,2630,UT Martin Skyhawks,2014-02-22,-92.20144527696183,included_game_day
+2014,2630,UT Martin Skyhawks,2014-02-27,-97.1270728743042,included_game_day
+2014,2630,UT Martin Skyhawks,2014-03-01,-101.67798684563684,included_game_day
+2015,2630,UT Martin Skyhawks,2014-11-14,-13.0,included_game_day
+2015,2630,UT Martin Skyhawks,2014-11-17,-6.7,included_game_day
+2015,2630,UT Martin Skyhawks,2014-11-25,11.053500000000003,included_game_day
+2015,2630,UT Martin Skyhawks,2014-11-28,5.492730000000003,included_game_day
+2015,2630,UT Martin Skyhawks,2014-12-03,19.978350000000002,included_game_day
+2015,2630,UT Martin Skyhawks,2014-12-06,23.107678840000002,included_game_day
+2015,2630,UT Martin Skyhawks,2014-12-15,21.27631100616,included_game_day
+2015,2630,UT Martin Skyhawks,2014-12-17,15.5441674185697,included_game_day
+2015,2630,UT Martin Skyhawks,2014-12-20,15.906710903805727,included_game_day
+2015,2630,UT Martin Skyhawks,2014-12-22,-1.7952061558647472,included_game_day
+2015,2630,UT Martin Skyhawks,2014-12-30,-9.501486395207383,included_game_day
+2015,2630,UT Martin Skyhawks,2015-01-08,-17.898821908513156,included_game_day
+2015,2630,UT Martin Skyhawks,2015-01-10,-16.604439232250307,included_game_day
+2015,2630,UT Martin Skyhawks,2015-01-15,-10.861522378245446,included_game_day
+2015,2630,UT Martin Skyhawks,2015-01-17,-18.88968414705694,included_game_day
+2015,2630,UT Martin Skyhawks,2015-01-22,-19.777487938083993,included_game_day
+2015,2630,UT Martin Skyhawks,2015-01-24,-6.6868970828678655,included_game_day
+2015,2630,UT Martin Skyhawks,2015-01-29,20.18851589264237,included_game_day
+2015,2630,UT Martin Skyhawks,2015-01-31,27.613445758308437,included_game_day
+2015,2630,UT Martin Skyhawks,2015-02-05,31.59691287272107,included_game_day
+2015,2630,UT Martin Skyhawks,2015-02-07,28.029120097754728,included_game_day
+2015,2630,UT Martin Skyhawks,2015-02-12,1.9815026156253843,included_game_day
+2015,2630,UT Martin Skyhawks,2015-02-14,-4.431533120541792,included_game_day
+2015,2630,UT Martin Skyhawks,2015-02-19,-3.164671087346867,included_game_day
+2015,2630,UT Martin Skyhawks,2015-02-21,-10.152556111746591,included_game_day
+2015,2630,UT Martin Skyhawks,2015-02-26,-0.29232723768668656,included_game_day
+2015,2630,UT Martin Skyhawks,2015-02-28,0.2524806828958752,included_game_day
+2015,2630,UT Martin Skyhawks,2015-03-05,-6.946352017802999,included_game_day
+2015,2630,UT Martin Skyhawks,2015-03-19,21.324268086539348,included_game_day
+2015,2630,UT Martin Skyhawks,2015-03-21,34.609949704910754,included_game_day
+2015,2630,UT Martin Skyhawks,2015-03-25,37.25629087872524,included_game_day
+2015,2630,UT Martin Skyhawks,2015-03-31,27.05249425522876,included_game_day
+2016,2630,UT Martin Skyhawks,2015-11-13,-31.0,included_game_day
+2016,2630,UT Martin Skyhawks,2015-11-16,-37.9,included_game_day
+2016,2630,UT Martin Skyhawks,2015-11-21,-41.11,included_game_day
+2016,2630,UT Martin Skyhawks,2015-11-22,-31.897,included_game_day
+2016,2630,UT Martin Skyhawks,2015-11-28,-51.308899999999994,included_game_day
+2016,2630,UT Martin Skyhawks,2015-12-01,-46.7647669,included_game_day
+2016,2630,UT Martin Skyhawks,2015-12-09,-55.87471968,included_game_day
+2016,2630,UT Martin Skyhawks,2015-12-11,-45.696791151,included_game_day
+2016,2630,UT Martin Skyhawks,2015-12-16,-31.1985337182,included_game_day
+2016,2630,UT Martin Skyhawks,2015-12-18,-30.17125143418,included_game_day
+2016,2630,UT Martin Skyhawks,2015-12-21,-18.83421530752952,included_game_day
+2016,2630,UT Martin Skyhawks,2015-12-29,-10.432385985120051,included_game_day
+2016,2630,UT Martin Skyhawks,2016-01-07,0.361428461654258,included_game_day
+2016,2630,UT Martin Skyhawks,2016-01-09,-1.1452880216534194,included_game_day
+2016,2630,UT Martin Skyhawks,2016-01-13,3.7899209226704142,included_game_day
+2016,2630,UT Martin Skyhawks,2016-01-16,-22.856438847521776,included_game_day
+2016,2630,UT Martin Skyhawks,2016-01-21,-29.164551277579687,included_game_day
+2016,2630,UT Martin Skyhawks,2016-01-24,-45.99750961689281,included_game_day
+2016,2630,UT Martin Skyhawks,2016-01-28,-51.49102542381543,included_game_day
+2016,2630,UT Martin Skyhawks,2016-01-30,-45.791253306253914,included_game_day
+2016,2630,UT Martin Skyhawks,2016-02-04,-40.433299333338766,included_game_day
+2016,2630,UT Martin Skyhawks,2016-02-06,-26.065029524333596,included_game_day
+2016,2630,UT Martin Skyhawks,2016-02-11,-24.793504194061917,included_game_day
+2016,2630,UT Martin Skyhawks,2016-02-13,-21.690493323871053,included_game_day
+2016,2630,UT Martin Skyhawks,2016-02-18,-26.039291348305454,included_game_day
+2016,2630,UT Martin Skyhawks,2016-02-20,-18.58148865629319,included_game_day
+2016,2630,UT Martin Skyhawks,2016-02-25,-0.7234514826573175,included_game_day
+2016,2630,UT Martin Skyhawks,2016-02-27,-22.305573058390795,included_game_day
+2016,2630,UT Martin Skyhawks,2016-03-04,-3.1069166750329735,included_game_day
+2016,2630,UT Martin Skyhawks,2016-03-05,-14.35525188117786,included_game_day
+2016,2630,UT Martin Skyhawks,2016-03-16,-5.091146870601344,included_game_day
+2016,2630,UT Martin Skyhawks,2016-03-20,-2.0025285783537914,included_game_day
+2017,2630,UT Martin Skyhawks,2016-11-11,0.0,included_game_day
+2017,2630,UT Martin Skyhawks,2016-11-13,5.0,included_game_day
+2017,2630,UT Martin Skyhawks,2016-11-18,11.86,included_game_day
+2017,2630,UT Martin Skyhawks,2016-11-21,15.556099999999999,included_game_day
+2017,2630,UT Martin Skyhawks,2016-11-23,17.476499999999998,included_game_day
+2017,2630,UT Martin Skyhawks,2016-11-25,-6.284149000000003,included_game_day
+2017,2630,UT Martin Skyhawks,2016-11-29,-7.201717100000002,included_game_day
+2017,2630,UT Martin Skyhawks,2016-12-01,-4.959368260000002,included_game_day
+2017,2630,UT Martin Skyhawks,2016-12-10,-16.5070924032,included_game_day
+2017,2630,UT Martin Skyhawks,2016-12-14,-33.94574246388,included_game_day
+2017,2630,UT Martin Skyhawks,2016-12-17,-16.338037663481998,included_game_day
+2017,2630,UT Martin Skyhawks,2016-12-20,-7.054126406182018,included_game_day
+2017,2630,UT Martin Skyhawks,2016-12-22,-13.211965576138809,included_game_day
+2017,2630,UT Martin Skyhawks,2016-12-29,-34.418383828815465,included_game_day
+2017,2630,UT Martin Skyhawks,2016-12-31,-33.02190014624186,included_game_day
+2017,2630,UT Martin Skyhawks,2017-01-05,-41.59368179168415,included_game_day
+2017,2630,UT Martin Skyhawks,2017-01-07,-45.54645482943701,included_game_day
+2017,2630,UT Martin Skyhawks,2017-01-14,-36.70573836925471,included_game_day
+2017,2630,UT Martin Skyhawks,2017-01-19,-27.211684405972,included_game_day
+2017,2630,UT Martin Skyhawks,2017-01-21,-28.687815774626632,included_game_day
+2017,2630,UT Martin Skyhawks,2017-01-26,-23.235569833248455,included_game_day
+2017,2630,UT Martin Skyhawks,2017-01-28,-27.12724205284428,included_game_day
+2017,2630,UT Martin Skyhawks,2017-02-01,1.9235932711143278,included_game_day
+2017,2630,UT Martin Skyhawks,2017-02-04,8.696204677962525,included_game_day
+2017,2630,UT Martin Skyhawks,2017-02-09,-4.648728984434486,included_game_day
+2017,2630,UT Martin Skyhawks,2017-02-11,-5.890681906141586,included_game_day
+2017,2630,UT Martin Skyhawks,2017-02-18,-35.22473024438466,included_game_day
+2017,2630,UT Martin Skyhawks,2017-02-23,-40.38319373562973,included_game_day
+2017,2630,UT Martin Skyhawks,2017-02-25,-34.25961941464156,included_game_day
+2017,2630,UT Martin Skyhawks,2017-03-03,-26.846732708159557,included_game_day
+2017,2630,UT Martin Skyhawks,2017-03-04,-33.15472338424256,included_game_day
+2017,2630,UT Martin Skyhawks,2017-03-16,-14.173128759637798,included_game_day
+2017,2630,UT Martin Skyhawks,2017-03-20,-32.0202889067387,included_game_day
+2018,2630,UT Martin Skyhawks,2017-11-10,-8.0,included_game_day
+2018,2630,UT Martin Skyhawks,2017-11-12,-2.8000000000000007,included_game_day
+2018,2630,UT Martin Skyhawks,2017-11-15,9.959999999999999,included_game_day
+2018,2630,UT Martin Skyhawks,2017-11-18,-4.336,included_game_day
+2018,2630,UT Martin Skyhawks,2017-11-22,-11.176449999999999,included_game_day
+2018,2630,UT Martin Skyhawks,2017-11-26,-27.147778,included_game_day
+2018,2630,UT Martin Skyhawks,2017-11-29,-45.4670292,included_game_day
+2018,2630,UT Martin Skyhawks,2017-12-02,-44.022761779999996,included_game_day
+2018,2630,UT Martin Skyhawks,2017-12-05,-25.186442072,included_game_day
+2018,2630,UT Martin Skyhawks,2017-12-16,-45.88529064852,included_game_day
+2018,2630,UT Martin Skyhawks,2017-12-22,-50.4391943159913,included_game_day
+2018,2630,UT Martin Skyhawks,2017-12-28,-50.041551265657255,included_game_day
+2018,2630,UT Martin Skyhawks,2017-12-30,-50.116360589793516,included_game_day
+2018,2630,UT Martin Skyhawks,2018-01-04,-49.11766034869978,included_game_day
+2018,2630,UT Martin Skyhawks,2018-01-06,-49.11043137362289,included_game_day
+2018,2630,UT Martin Skyhawks,2018-01-11,-63.44609877680901,included_game_day
+2018,2630,UT Martin Skyhawks,2018-01-13,-72.16901758281892,included_game_day
+2018,2630,UT Martin Skyhawks,2018-01-18,-87.82734600630458,included_game_day
+2018,2630,UT Martin Skyhawks,2018-01-20,-84.87360200827482,included_game_day
+2018,2630,UT Martin Skyhawks,2018-01-25,-69.1896551132741,included_game_day
+2018,2630,UT Martin Skyhawks,2018-01-27,-71.76169101730082,included_game_day
+2018,2630,UT Martin Skyhawks,2018-02-01,-71.14286778675708,included_game_day
+2018,2630,UT Martin Skyhawks,2018-02-03,-72.81770230913219,included_game_day
+2018,2630,UT Martin Skyhawks,2018-02-08,-71.48737183438072,included_game_day
+2018,2630,UT Martin Skyhawks,2018-02-10,-76.40589942502987,included_game_day
+2018,2630,UT Martin Skyhawks,2018-02-15,-81.61015611440737,included_game_day
+2018,2630,UT Martin Skyhawks,2018-02-17,-90.49760117646193,included_game_day
+2018,2630,UT Martin Skyhawks,2018-02-22,-105.38697045401985,included_game_day
+2018,2630,UT Martin Skyhawks,2018-02-24,-90.62491299914475,included_game_day
+2019,2630,UT Martin Skyhawks,2018-11-10,-13.5,included_game_day
+2019,2630,UT Martin Skyhawks,2018-11-16,-26.512999999999998,included_game_day
+2019,2630,UT Martin Skyhawks,2018-11-21,-25.6027,included_game_day
+2019,2630,UT Martin Skyhawks,2018-12-01,-18.621185999999998,included_game_day
+2019,2630,UT Martin Skyhawks,2018-12-05,-29.855620554999998,included_game_day
+2019,2630,UT Martin Skyhawks,2018-12-08,-39.1190143065,included_game_day
+2019,2630,UT Martin Skyhawks,2018-12-18,-39.6241932121346,included_game_day
+2019,2630,UT Martin Skyhawks,2018-12-22,-65.85617427242379,included_game_day
+2019,2630,UT Martin Skyhawks,2018-12-30,-69.42652792116564,included_game_day
+2019,2630,UT Martin Skyhawks,2019-01-03,-71.91717203709611,included_game_day
+2019,2630,UT Martin Skyhawks,2019-01-05,-70.12231571717103,included_game_day
+2019,2630,UT Martin Skyhawks,2019-01-10,-80.20005350320908,included_game_day
+2019,2630,UT Martin Skyhawks,2019-01-12,-71.73102788967857,included_game_day
+2019,2630,UT Martin Skyhawks,2019-01-17,-90.45653953684524,included_game_day
+2019,2630,UT Martin Skyhawks,2019-01-19,-91.9160878647744,included_game_day
+2019,2630,UT Martin Skyhawks,2019-01-24,-93.46880437608154,included_game_day
+2019,2630,UT Martin Skyhawks,2019-01-26,-78.49731388642346,included_game_day
+2019,2630,UT Martin Skyhawks,2019-01-31,-79.86354432938391,included_game_day
+2019,2630,UT Martin Skyhawks,2019-02-02,-76.56283440801539,included_game_day
+2019,2630,UT Martin Skyhawks,2019-02-07,-65.07355418334933,included_game_day
+2019,2630,UT Martin Skyhawks,2019-02-09,-52.217382672318664,included_game_day
+2019,2630,UT Martin Skyhawks,2019-02-14,-51.35279185718822,included_game_day
+2019,2630,UT Martin Skyhawks,2019-02-16,-51.17013989735115,included_game_day
+2019,2630,UT Martin Skyhawks,2019-02-21,-43.803899466909314,included_game_day
+2019,2630,UT Martin Skyhawks,2019-02-23,-46.36370848369198,included_game_day
+2019,2630,UT Martin Skyhawks,2019-02-28,-78.82242049366948,included_game_day
+2019,2630,UT Martin Skyhawks,2019-03-02,-78.02133481868641,included_game_day
+2019,2630,UT Martin Skyhawks,2019-03-06,-73.71851107273645,included_game_day
+2019,2630,UT Martin Skyhawks,2019-03-07,-69.88064806145455,included_game_day
+2020,2630,UT Martin Skyhawks,2019-11-09,-20.0,included_game_day
+2020,2630,UT Martin Skyhawks,2019-11-13,-11.2,included_game_day
+2020,2630,UT Martin Skyhawks,2019-11-16,-47.11,included_game_day
+2020,2630,UT Martin Skyhawks,2019-11-19,-57.2622,included_game_day
+2020,2630,UT Martin Skyhawks,2019-11-26,-71.8478435,included_game_day
+2020,2630,UT Martin Skyhawks,2019-11-27,-64.78292549999999,included_game_day
+2020,2630,UT Martin Skyhawks,2019-12-06,-62.36382514999999,included_game_day
+2020,2630,UT Martin Skyhawks,2019-12-14,-72.52430885882909,included_game_day
+2020,2630,UT Martin Skyhawks,2019-12-18,-84.31028450071017,included_game_day
+2020,2630,UT Martin Skyhawks,2020-01-02,-82.87666448172043,included_game_day
+2020,2630,UT Martin Skyhawks,2020-01-04,-93.22547669741073,included_game_day
+2020,2630,UT Martin Skyhawks,2020-01-09,-74.56492912888594,included_game_day
+2020,2630,UT Martin Skyhawks,2020-01-11,-69.20585051127996,included_game_day
+2020,2630,UT Martin Skyhawks,2020-01-16,-83.55573784785517,included_game_day
+2020,2630,UT Martin Skyhawks,2020-01-18,-87.73290098487988,included_game_day
+2020,2630,UT Martin Skyhawks,2020-01-23,-88.42239283217496,included_game_day
+2020,2630,UT Martin Skyhawks,2020-01-25,-82.12961465272855,included_game_day
+2020,2630,UT Martin Skyhawks,2020-01-30,-90.39209737436366,included_game_day
+2020,2630,UT Martin Skyhawks,2020-02-01,-94.15160979983918,included_game_day
+2020,2630,UT Martin Skyhawks,2020-02-06,-86.35558641632281,included_game_day
+2020,2630,UT Martin Skyhawks,2020-02-08,-100.20311729190811,included_game_day
+2020,2630,UT Martin Skyhawks,2020-02-13,-100.98054666238225,included_game_day
+2020,2630,UT Martin Skyhawks,2020-02-15,-96.22144877320663,included_game_day
+2020,2630,UT Martin Skyhawks,2020-02-20,-107.5513205533057,included_game_day
+2020,2630,UT Martin Skyhawks,2020-02-22,-112.76676832924176,included_game_day
+2020,2630,UT Martin Skyhawks,2020-02-27,-128.16888805048242,included_game_day
+2020,2630,UT Martin Skyhawks,2020-02-29,-120.42693188816519,included_game_day
+2021,2630,UT Martin Skyhawks,2020-12-02,-0.22999999999999954,included_game_day
+2021,2630,UT Martin Skyhawks,2020-12-18,3.361354678,included_game_day
+2021,2630,UT Martin Skyhawks,2020-12-20,-22.2269274898,included_game_day
+2021,2630,UT Martin Skyhawks,2020-12-22,-58.14463115793001,included_game_day
+2021,2630,UT Martin Skyhawks,2020-12-30,-57.371745542137006,included_game_day
+2021,2630,UT Martin Skyhawks,2021-01-02,-69.54412947348551,included_game_day
+2021,2630,UT Martin Skyhawks,2021-01-07,-76.25569370806258,included_game_day
+2021,2630,UT Martin Skyhawks,2021-01-09,-78.60217181649335,included_game_day
+2021,2630,UT Martin Skyhawks,2021-01-16,-96.89205900538002,included_game_day
+2021,2630,UT Martin Skyhawks,2021-01-21,-121.48299251816036,included_game_day
+2021,2630,UT Martin Skyhawks,2021-01-23,-136.95211837310478,included_game_day
+2021,2630,UT Martin Skyhawks,2021-01-26,-127.40620505300815,included_game_day
+2021,2630,UT Martin Skyhawks,2021-01-28,-115.38145502346764,included_game_day
+2021,2630,UT Martin Skyhawks,2021-01-30,-127.94761327688879,included_game_day
+2021,2630,UT Martin Skyhawks,2021-02-04,-130.65313811794118,included_game_day
+2021,2630,UT Martin Skyhawks,2021-02-06,-126.74580889099695,included_game_day
+2021,2630,UT Martin Skyhawks,2021-02-08,-113.0378941506143,included_game_day
+2021,2630,UT Martin Skyhawks,2021-02-11,-118.07156235830819,included_game_day
+2021,2630,UT Martin Skyhawks,2021-02-13,-127.17942698191877,included_game_day
+2021,2630,UT Martin Skyhawks,2021-02-18,-131.9646215978586,included_game_day
+2021,2630,UT Martin Skyhawks,2021-02-20,-126.23382549254868,included_game_day
+2021,2630,UT Martin Skyhawks,2021-02-25,-133.85044890712587,included_game_day
+2021,2630,UT Martin Skyhawks,2021-02-27,-118.6126713783346,included_game_day
+2022,2630,UT Martin Skyhawks,2021-11-09,-25.0,included_game_day
+2022,2630,UT Martin Skyhawks,2021-11-19,-28.38,included_game_day
+2022,2630,UT Martin Skyhawks,2021-11-20,-39.06288,included_game_day
+2022,2630,UT Martin Skyhawks,2021-11-21,-33.29248,included_game_day
+2022,2630,UT Martin Skyhawks,2021-11-27,-41.396007,included_game_day
+2022,2630,UT Martin Skyhawks,2021-12-01,-42.963233599999995,included_game_day
+2022,2630,UT Martin Skyhawks,2021-12-04,-49.936714906499994,included_game_day
+2022,2630,UT Martin Skyhawks,2021-12-11,-53.59667953728,included_game_day
+2022,2630,UT Martin Skyhawks,2021-12-14,-42.5314020418359,included_game_day
+2022,2630,UT Martin Skyhawks,2021-12-19,-60.02574916107804,included_game_day
+2022,2630,UT Martin Skyhawks,2021-12-30,-53.01642489962731,included_game_day
+2022,2630,UT Martin Skyhawks,2022-01-06,-31.182220874418373,included_game_day
+2022,2630,UT Martin Skyhawks,2022-01-08,-46.98154163264956,included_game_day
+2022,2630,UT Martin Skyhawks,2022-01-12,-51.844231642479485,included_game_day
+2022,2630,UT Martin Skyhawks,2022-01-15,-59.82669742325549,included_game_day
+2022,2630,UT Martin Skyhawks,2022-01-20,-79.91318853505041,included_game_day
+2022,2630,UT Martin Skyhawks,2022-01-22,-64.43019392343052,included_game_day
+2022,2630,UT Martin Skyhawks,2022-01-24,-58.66050540510607,included_game_day
+2022,2630,UT Martin Skyhawks,2022-01-27,-78.99816271677958,included_game_day
+2022,2630,UT Martin Skyhawks,2022-01-29,-88.36361562568011,included_game_day
+2022,2630,UT Martin Skyhawks,2022-02-03,-64.90192270459556,included_game_day
+2022,2630,UT Martin Skyhawks,2022-02-05,-77.34692562494828,included_game_day
+2022,2630,UT Martin Skyhawks,2022-02-10,-83.62378269720061,included_game_day
+2022,2630,UT Martin Skyhawks,2022-02-12,-100.03410498472088,included_game_day
+2022,2630,UT Martin Skyhawks,2022-02-16,-95.88890088099214,included_game_day
+2022,2630,UT Martin Skyhawks,2022-02-19,-78.9586868387253,included_game_day
+2022,2630,UT Martin Skyhawks,2022-02-24,-76.81412024225223,included_game_day
+2022,2630,UT Martin Skyhawks,2022-02-26,-86.01222865479484,included_game_day
+2023,2630,UT Martin Skyhawks,2022-11-07,-19.0,included_game_day
+2023,2630,UT Martin Skyhawks,2022-11-09,-30.7,included_game_day
+2023,2630,UT Martin Skyhawks,2022-11-18,-25.898,included_game_day
+2023,2630,UT Martin Skyhawks,2022-11-20,-24.442,included_game_day
+2023,2630,UT Martin Skyhawks,2022-11-22,-26.6251,included_game_day
+2023,2630,UT Martin Skyhawks,2022-11-28,-30.007604999999998,included_game_day
+2023,2630,UT Martin Skyhawks,2022-12-03,-31.147411299999998,included_game_day
+2023,2630,UT Martin Skyhawks,2022-12-11,-34.14341051178,included_game_day
+2023,2630,UT Martin Skyhawks,2022-12-17,-21.837718709386067,included_game_day
+2023,2630,UT Martin Skyhawks,2022-12-29,-36.410490097513026,included_game_day
+2023,2630,UT Martin Skyhawks,2022-12-31,-35.060376025467306,included_game_day
+2023,2630,UT Martin Skyhawks,2023-01-05,-32.649474364581124,included_game_day
+2023,2630,UT Martin Skyhawks,2023-01-07,-43.03798759120959,included_game_day
+2023,2630,UT Martin Skyhawks,2023-01-12,-27.179541819379818,included_game_day
+2023,2630,UT Martin Skyhawks,2023-01-14,-40.16563948334095,included_game_day
+2023,2630,UT Martin Skyhawks,2023-01-19,-14.136630093695956,included_game_day
+2023,2630,UT Martin Skyhawks,2023-01-21,-10.905478291822893,included_game_day
+2023,2630,UT Martin Skyhawks,2023-01-26,-15.864706832301616,included_game_day
+2023,2630,UT Martin Skyhawks,2023-01-28,-15.414768054113615,included_game_day
+2023,2630,UT Martin Skyhawks,2023-02-02,-27.730760687333394,included_game_day
+2023,2630,UT Martin Skyhawks,2023-02-04,-36.46850103820313,included_game_day
+2023,2630,UT Martin Skyhawks,2023-02-09,-41.86071261392192,included_game_day
+2023,2630,UT Martin Skyhawks,2023-02-11,-22.8232454866439,included_game_day
+2023,2630,UT Martin Skyhawks,2023-02-16,-21.087747330035587,included_game_day
+2023,2630,UT Martin Skyhawks,2023-02-18,-11.568427115046607,included_game_day
+2023,2630,UT Martin Skyhawks,2023-02-23,-20.733268112574706,included_game_day
+2023,2630,UT Martin Skyhawks,2023-02-25,-30.098117981373576,included_game_day
+2023,2630,UT Martin Skyhawks,2023-03-02,-24.028645362293336,included_game_day
+2023,2630,UT Martin Skyhawks,2023-03-03,-40.593898637120574,included_game_day
+2024,2630,UT Martin Skyhawks,2023-11-11,-19.5,included_game_day
+2024,2630,UT Martin Skyhawks,2023-11-17,-8.55,included_game_day
+2024,2630,UT Martin Skyhawks,2023-11-19,-20.783,included_game_day
+2024,2630,UT Martin Skyhawks,2023-11-22,-20.758000000000003,included_game_day
+2024,2630,UT Martin Skyhawks,2023-11-25,3.1596452999999975,included_game_day
+2024,2630,UT Martin Skyhawks,2023-11-30,-20.739298390000002,included_game_day
+2024,2630,UT Martin Skyhawks,2023-12-02,-22.712359571,included_game_day
+2024,2630,UT Martin Skyhawks,2023-12-12,-25.6213081584,included_game_day
+2024,2630,UT Martin Skyhawks,2023-12-18,-25.144985713675002,included_game_day
+2024,2630,UT Martin Skyhawks,2023-12-28,-6.5833295021114395,included_game_day
+2024,2630,UT Martin Skyhawks,2023-12-30,-2.2343826217396243,included_game_day
+2024,2630,UT Martin Skyhawks,2024-01-04,-17.80814666228256,included_game_day
+2024,2630,UT Martin Skyhawks,2024-01-11,-30.82581517353897,included_game_day
+2024,2630,UT Martin Skyhawks,2024-01-13,-29.585003725303128,included_game_day
+2024,2630,UT Martin Skyhawks,2024-01-18,-38.56938719033221,included_game_day
+2024,2630,UT Martin Skyhawks,2024-01-25,-22.31140161026632,included_game_day
+2024,2630,UT Martin Skyhawks,2024-01-27,-26.019396732397254,included_game_day
+2024,2630,UT Martin Skyhawks,2024-02-01,-8.71637760052829,included_game_day
+2024,2630,UT Martin Skyhawks,2024-02-03,3.6780845427764817,included_game_day
+2024,2630,UT Martin Skyhawks,2024-02-06,-15.277124126279496,included_game_day
+2024,2630,UT Martin Skyhawks,2024-02-10,-8.83312981617502,included_game_day
+2024,2630,UT Martin Skyhawks,2024-02-15,-9.60605803933881,included_game_day
+2024,2630,UT Martin Skyhawks,2024-02-17,-0.8580454628874552,included_game_day
+2024,2630,UT Martin Skyhawks,2024-02-22,10.92297826084918,included_game_day
+2024,2630,UT Martin Skyhawks,2024-02-24,10.292403962663123,included_game_day
+2024,2630,UT Martin Skyhawks,2024-02-29,9.403426336576585,included_game_day
+2024,2630,UT Martin Skyhawks,2024-03-02,7.813481178273795,included_game_day
+2024,2630,UT Martin Skyhawks,2024-03-08,5.474105595662277,included_game_day
+2025,2630,UT Martin Skyhawks,2024-11-04,5.0,included_game_day
+2025,2630,UT Martin Skyhawks,2024-11-11,-8.6,included_game_day
+2025,2630,UT Martin Skyhawks,2024-11-16,-4.534599999999999,included_game_day
+2025,2630,UT Martin Skyhawks,2024-11-21,-7.461939999999999,included_game_day
+2025,2630,UT Martin Skyhawks,2024-11-22,-25.081725999999996,included_game_day
+2025,2630,UT Martin Skyhawks,2024-11-27,-50.74679689999999,included_game_day
+2025,2630,UT Martin Skyhawks,2024-12-03,-64.17278217299999,included_game_day
+2025,2630,UT Martin Skyhawks,2024-12-11,-69.75125348655999,included_game_day
+2025,2630,UT Martin Skyhawks,2024-12-19,-66.94281396782898,included_game_day
+2025,2630,UT Martin Skyhawks,2024-12-21,-27.990812564171385,included_game_day
+2025,2630,UT Martin Skyhawks,2025-01-02,-33.331522124813304,included_game_day
+2025,2630,UT Martin Skyhawks,2025-01-04,-32.17422751901632,included_game_day
+2025,2630,UT Martin Skyhawks,2025-01-09,-29.884359822585107,included_game_day
+2025,2630,UT Martin Skyhawks,2025-01-11,-30.56755897098279,included_game_day
+2025,2630,UT Martin Skyhawks,2025-01-16,-34.123635210469246,included_game_day
+2025,2630,UT Martin Skyhawks,2025-01-18,-31.864492386306686,included_game_day
+2025,2630,UT Martin Skyhawks,2025-01-21,-30.02361625395346,included_game_day
+2025,2630,UT Martin Skyhawks,2025-01-25,-40.27908917137604,included_game_day
+2025,2630,UT Martin Skyhawks,2025-01-30,-46.15615808260901,included_game_day
+2025,2630,UT Martin Skyhawks,2025-02-01,-57.56340292841098,included_game_day
+2025,2630,UT Martin Skyhawks,2025-02-06,-65.70613601519068,included_game_day
+2025,2630,UT Martin Skyhawks,2025-02-08,-63.951514772368505,included_game_day
+2025,2630,UT Martin Skyhawks,2025-02-13,-48.18861595815552,included_game_day
+2025,2630,UT Martin Skyhawks,2025-02-15,-46.10379815462522,included_game_day
+2025,2630,UT Martin Skyhawks,2025-02-18,-56.75589785494488,included_game_day
+2025,2630,UT Martin Skyhawks,2025-02-20,-57.64993804007469,included_game_day
+2025,2630,UT Martin Skyhawks,2025-02-27,-48.20895532804291,included_game_day
+2025,2630,UT Martin Skyhawks,2025-03-01,-69.5331197279862,included_game_day
+2025,2630,UT Martin Skyhawks,2025-03-05,-66.48394673825737,included_game_day
+2025,2630,UT Martin Skyhawks,2025-03-06,-67.71298388421182,included_game_day
+2026,2630,UT Martin Skyhawks,2025-11-04,8.0,included_game_day
+2026,2630,UT Martin Skyhawks,2025-11-12,23.59,included_game_day
+2026,2630,UT Martin Skyhawks,2025-11-18,16.055999999999997,included_game_day
+2026,2630,UT Martin Skyhawks,2025-11-22,9.820939999999997,included_game_day
+2026,2630,UT Martin Skyhawks,2025-11-23,-1.4590910000000026,included_game_day
+2026,2630,UT Martin Skyhawks,2025-12-02,11.612969409999998,included_game_day
+2026,2630,UT Martin Skyhawks,2025-12-07,14.196493306999997,included_game_day
+2026,2630,UT Martin Skyhawks,2025-12-10,-11.371028086732004,included_game_day
+2026,2630,UT Martin Skyhawks,2025-12-18,-17.673030127884804,included_game_day
+2026,2630,UT Martin Skyhawks,2025-12-20,9.202916089711376,included_game_day
+2026,2630,UT Martin Skyhawks,2026-01-01,2.2125229738288663,included_game_day
+2026,2630,UT Martin Skyhawks,2026-01-03,-5.842347485438982,included_game_day
+2026,2630,UT Martin Skyhawks,2026-01-08,-0.2510595785153633,included_game_day
+2026,2630,UT Martin Skyhawks,2026-01-10,11.499461475401747,included_game_day
+2026,2630,UT Martin Skyhawks,2026-01-15,8.872827662200825,included_game_day
+2026,2630,UT Martin Skyhawks,2026-01-17,17.22624865600868,included_game_day
+2026,2630,UT Martin Skyhawks,2026-01-20,-2.5103114555568595,included_game_day
+2026,2630,UT Martin Skyhawks,2026-01-29,1.9645046615834287,included_game_day
+2026,2630,UT Martin Skyhawks,2026-01-31,31.27613631818845,included_game_day
+2026,2630,UT Martin Skyhawks,2026-02-03,22.093258619483468,included_game_day
+2026,2630,UT Martin Skyhawks,2026-02-05,30.796658608666014,included_game_day
+2026,2630,UT Martin Skyhawks,2026-02-07,12.662323915706995,included_game_day
+2026,2630,UT Martin Skyhawks,2026-02-12,11.35790412020878,included_game_day
+2026,2630,UT Martin Skyhawks,2026-02-14,19.594220828667197,included_game_day
+2026,2630,UT Martin Skyhawks,2026-02-17,11.789391165811873,included_game_day
+2026,2630,UT Martin Skyhawks,2026-02-19,5.538379422659452,included_game_day
+2026,2630,UT Martin Skyhawks,2026-02-26,12.893917366135028,included_game_day
+2026,2630,UT Martin Skyhawks,2026-02-28,-15.014052547744996,included_game_day
+2026,2630,UT Martin Skyhawks,2026-03-05,-19.312383343245166,included_game_day
+2026,2630,UT Martin Skyhawks,2026-03-06,-26.20892619479917,included_game_day
+2027,2630,UT Martin Skyhawks,2026-11-02,1.0,included_game_day
+2027,2630,UT Martin Skyhawks,2026-11-07,2.9,included_game_day
+2027,2630,UT Martin Skyhawks,2026-11-10,21.419999999999998,included_game_day
+2027,2630,UT Martin Skyhawks,2026-11-20,21.880059999999997,included_game_day
+2027,2630,UT Martin Skyhawks,2026-11-22,20.279942999999996,included_game_day
+2027,2630,UT Martin Skyhawks,2026-11-23,26.794162989999997,included_game_day

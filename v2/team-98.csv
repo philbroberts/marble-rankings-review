@@ -1,0 +1,1191 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,98,WKU,1987-12-02,14.0,included_game_day
+1988,98,WKU,1987-12-05,-1.4000000000000004,included_game_day
+1988,98,WKU,1987-12-07,2.2137099999999994,included_game_day
+1988,98,WKU,1987-12-19,5.945437399999998,included_game_day
+1988,98,WKU,1987-12-20,21.978485334999995,included_game_day
+1988,98,WKU,1987-12-21,29.628332266499996,included_game_day
+1988,98,WKU,1987-12-28,16.639600715189996,included_game_day
+1988,98,WKU,1988-01-02,19.503458161341328,included_game_day
+1988,98,WKU,1988-01-04,6.640815411870406,included_game_day
+1988,98,WKU,1988-01-09,7.964117132777802,included_game_day
+1988,98,WKU,1988-01-12,13.200921723470678,included_game_day
+1988,98,WKU,1988-01-16,23.495685882358153,included_game_day
+1988,98,WKU,1988-01-18,18.12368380169793,included_game_day
+1988,98,WKU,1988-01-23,18.51165814225237,included_game_day
+1988,98,WKU,1988-01-25,22.35443879837398,included_game_day
+1988,98,WKU,1988-01-30,3.383892158155618,included_game_day
+1988,98,WKU,1988-02-04,-8.056534047790677,included_game_day
+1988,98,WKU,1988-02-06,5.89255028302091,included_game_day
+1988,98,WKU,1988-02-11,-2.827009540438967,included_game_day
+1988,98,WKU,1988-02-13,-3.1058788000115705,included_game_day
+1988,98,WKU,1988-02-15,-15.219757920036159,included_game_day
+1988,98,WKU,1988-02-18,-11.79338949089553,included_game_day
+1988,98,WKU,1988-02-20,-25.59496352003022,included_game_day
+1988,98,WKU,1988-02-24,-33.850784557483024,included_game_day
+1988,98,WKU,1988-02-27,-37.13450021384903,included_game_day
+1988,98,WKU,1988-03-05,-32.20958653297827,included_game_day
+1989,98,WKU,1988-11-25,17.0,included_game_day
+1989,98,WKU,1988-11-28,4.9,included_game_day
+1989,98,WKU,1988-12-02,23.909999999999997,included_game_day
+1989,98,WKU,1988-12-03,26.258999999999997,included_game_day
+1989,98,WKU,1988-12-05,42.593866,included_game_day
+1989,98,WKU,1988-12-08,28.482084864999997,included_game_day
+1989,98,WKU,1988-12-10,36.587861378499994,included_game_day
+1989,98,WKU,1988-12-17,45.42758412564999,included_game_day
+1989,98,WKU,1988-12-20,47.91902241400349,included_game_day
+1989,98,WKU,1988-12-22,49.60901317260314,included_game_day
+1989,98,WKU,1989-01-02,43.9777399766651,included_game_day
+1989,98,WKU,1989-01-05,37.05855454850268,included_game_day
+1989,98,WKU,1989-01-08,28.040827031165584,included_game_day
+1989,98,WKU,1989-01-10,15.622149428050026,included_game_day
+1989,98,WKU,1989-01-14,6.134514193483586,included_game_day
+1989,98,WKU,1989-01-19,2.1517381516406537,included_game_day
+1989,98,WKU,1989-01-21,5.176622614335389,included_game_day
+1989,98,WKU,1989-01-26,20.605131759171197,included_game_day
+1989,98,WKU,1989-01-28,-9.597332478553337,included_game_day
+1989,98,WKU,1989-02-02,-8.95017416011053,included_game_day
+1989,98,WKU,1989-02-04,-15.985277466293006,included_game_day
+1989,98,WKU,1989-02-09,-22.99130763069673,included_game_day
+1989,98,WKU,1989-02-13,-22.62793992583874,included_game_day
+1989,98,WKU,1989-02-16,-11.79397159290001,included_game_day
+1989,98,WKU,1989-02-18,-28.37692341026951,included_game_day
+1989,98,WKU,1989-02-21,-30.67749627441428,included_game_day
+1989,98,WKU,1989-02-25,-8.195859635424359,included_game_day
+1989,98,WKU,1989-03-04,-0.5586194983100565,included_game_day
+1989,98,WKU,1989-03-05,-5.77221487993438,included_game_day
+1990,98,WKU,1989-11-24,-7.0,included_game_day
+1990,98,WKU,1989-11-25,-19.2,included_game_day
+1990,98,WKU,1989-11-29,-22.28,included_game_day
+1990,98,WKU,1989-12-01,5.948,included_game_day
+1990,98,WKU,1989-12-02,-0.0918000000000001,included_game_day
+1990,98,WKU,1989-12-04,4.59738,included_game_day
+1990,98,WKU,1989-12-09,-0.4784979999999992,included_game_day
+1990,98,WKU,1989-12-20,-11.285503074999998,included_game_day
+1990,98,WKU,1989-12-28,-19.215315086012428,included_game_day
+1990,98,WKU,1990-01-02,-35.34911481250445,included_game_day
+1990,98,WKU,1990-01-06,-24.46206469534069,included_game_day
+1990,98,WKU,1990-01-08,-27.40457485602049,included_game_day
+1990,98,WKU,1990-01-11,-9.771641318076082,included_game_day
+1990,98,WKU,1990-01-13,-6.127797445953647,included_game_day
+1990,98,WKU,1990-01-16,-23.392707651067198,included_game_day
+1990,98,WKU,1990-01-20,-24.833823774125886,included_game_day
+1990,98,WKU,1990-01-22,-24.828371965382278,included_game_day
+1990,98,WKU,1990-01-27,-10.861596811631347,included_game_day
+1990,98,WKU,1990-02-01,-14.661712387944927,included_game_day
+1990,98,WKU,1990-02-02,-18.680093610376336,included_game_day
+1990,98,WKU,1990-02-03,-17.98439421634214,included_game_day
+1990,98,WKU,1990-02-10,-34.00401108515175,included_game_day
+1990,98,WKU,1990-02-12,-41.93537830621163,included_game_day
+1990,98,WKU,1990-02-15,-41.144446225790695,included_game_day
+1990,98,WKU,1990-02-17,-41.28210843779135,included_game_day
+1990,98,WKU,1990-02-19,-43.43782728980542,included_game_day
+1990,98,WKU,1990-02-21,-41.07836394859895,included_game_day
+1990,98,WKU,1990-02-24,-26.773073144805558,included_game_day
+1990,98,WKU,1990-03-03,-48.08507078917225,included_game_day
+1991,98,WKU,1990-11-24,-15.0,included_game_day
+1991,98,WKU,1990-11-28,-61.83,included_game_day
+1991,98,WKU,1990-12-01,-54.2183,included_game_day
+1991,98,WKU,1990-12-05,-35.8668,included_game_day
+1991,98,WKU,1990-12-07,-11.711399999999998,included_game_day
+1991,98,WKU,1990-12-08,-20.576926442999998,included_game_day
+1991,98,WKU,1990-12-17,-27.140752261699998,included_game_day
+1991,98,WKU,1990-12-21,-31.58874764158,included_game_day
+1991,98,WKU,1990-12-28,-25.1492974745299,included_game_day
+1991,98,WKU,1991-01-02,-18.910016395352706,included_game_day
+1991,98,WKU,1991-01-05,-20.52787298692362,included_game_day
+1991,98,WKU,1991-01-07,-8.285642870981977,included_game_day
+1991,98,WKU,1991-01-12,-2.0199910072111624,included_game_day
+1991,98,WKU,1991-01-14,-9.270804580914564,included_game_day
+1991,98,WKU,1991-01-17,-10.30719275762646,included_game_day
+1991,98,WKU,1991-01-19,2.198267681257228,included_game_day
+1991,98,WKU,1991-01-26,10.304398871164267,included_game_day
+1991,98,WKU,1991-01-28,10.98333831799745,included_game_day
+1991,98,WKU,1991-01-30,18.20884112669383,included_game_day
+1991,98,WKU,1991-02-04,3.880505972586308,included_game_day
+1991,98,WKU,1991-02-09,7.329105825955169,included_game_day
+1991,98,WKU,1991-02-11,9.657030745694762,included_game_day
+1991,98,WKU,1991-02-14,-2.8168818635841095,included_game_day
+1991,98,WKU,1991-02-16,10.982946336962648,included_game_day
+1991,98,WKU,1991-02-18,8.559142305125159,included_game_day
+1991,98,WKU,1991-02-21,-0.1571487207979647,included_game_day
+1991,98,WKU,1991-02-23,10.737002313117664,included_game_day
+1991,98,WKU,1991-03-02,-5.547676859749835,included_game_day
+1992,98,WKU,1991-11-27,-11.82,included_game_day
+1992,98,WKU,1991-12-02,-11.738,included_game_day
+1992,98,WKU,1991-12-04,-5.254757,included_game_day
+1992,98,WKU,1991-12-11,-10.33667447,included_game_day
+1992,98,WKU,1991-12-14,3.697502976999999,included_game_day
+1992,98,WKU,1991-12-19,5.977535556299999,included_game_day
+1992,98,WKU,1991-12-23,14.601327987375997,included_game_day
+1992,98,WKU,1991-12-30,16.590180679520397,included_game_day
+1992,98,WKU,1992-01-08,19.425193021031433,included_game_day
+1992,98,WKU,1992-01-11,20.99540598377283,included_game_day
+1992,98,WKU,1992-01-18,12.851758820249215,included_game_day
+1992,98,WKU,1992-01-21,23.217290625200338,included_game_day
+1992,98,WKU,1992-01-23,13.287802446796823,included_game_day
+1992,98,WKU,1992-01-25,23.438389237823564,included_game_day
+1992,98,WKU,1992-01-29,27.457946715142885,included_game_day
+1992,98,WKU,1992-02-01,41.160118085029595,included_game_day
+1992,98,WKU,1992-02-03,36.10312512486461,included_game_day
+1992,98,WKU,1992-02-05,29.453736908990372,included_game_day
+1992,98,WKU,1992-02-08,39.957038217203504,included_game_day
+1992,98,WKU,1992-02-10,38.07457426857073,included_game_day
+1992,98,WKU,1992-02-13,40.327025476345774,included_game_day
+1992,98,WKU,1992-02-15,42.43854908212087,included_game_day
+1992,98,WKU,1992-02-20,56.319507522096416,included_game_day
+1992,98,WKU,1992-02-22,63.01715158807783,included_game_day
+1992,98,WKU,1992-02-27,52.361113315113066,included_game_day
+1992,98,WKU,1992-02-29,72.92840965331939,included_game_day
+1992,98,WKU,1992-03-02,69.80613277962172,included_game_day
+1992,98,WKU,1992-03-06,66.15570776587822,included_game_day
+1992,98,WKU,1992-03-07,56.03202764182964,included_game_day
+1992,98,WKU,1992-03-18,44.580479284298505,included_game_day
+1993,98,WKU,1992-12-02,15.6,included_game_day
+1993,98,WKU,1992-12-05,8.607,included_game_day
+1993,98,WKU,1992-12-19,14.4509644,included_game_day
+1993,98,WKU,1992-12-21,19.43832526,included_game_day
+1993,98,WKU,1992-12-30,30.031707714699998,included_game_day
+1993,98,WKU,1993-01-02,48.68896675693,included_game_day
+1993,98,WKU,1993-01-06,51.3149054689128,included_game_day
+1993,98,WKU,1993-01-09,85.21503390848228,included_game_day
+1993,98,WKU,1993-01-11,108.28437070652647,included_game_day
+1993,98,WKU,1993-01-14,128.70492991233473,included_game_day
+1993,98,WKU,1993-01-16,132.44667799018134,included_game_day
+1993,98,WKU,1993-01-21,123.80106541574402,included_game_day
+1993,98,WKU,1993-01-24,106.33191444179067,included_game_day
+1993,98,WKU,1993-01-27,138.8881883820622,included_game_day
+1993,98,WKU,1993-01-31,154.5033531791175,included_game_day
+1993,98,WKU,1993-02-02,143.6592726527621,included_game_day
+1993,98,WKU,1993-02-06,148.543454009651,included_game_day
+1993,98,WKU,1993-02-08,154.98195063899863,included_game_day
+1993,98,WKU,1993-02-11,138.73867573240997,included_game_day
+1993,98,WKU,1993-02-13,143.51716771091864,included_game_day
+1993,98,WKU,1993-02-16,142.76716517370312,included_game_day
+1993,98,WKU,1993-02-20,136.8419145645916,included_game_day
+1993,98,WKU,1993-02-22,128.0961321026417,included_game_day
+1993,98,WKU,1993-02-25,130.20389769979582,included_game_day
+1993,98,WKU,1993-02-27,147.2958174945675,included_game_day
+1993,98,WKU,1993-03-01,140.86483089666314,included_game_day
+1993,98,WKU,1993-03-07,141.42194710235543,included_game_day
+1993,98,WKU,1993-03-08,144.04408210547916,included_game_day
+1993,98,WKU,1993-03-09,151.61662994168205,included_game_day
+1993,98,WKU,1993-03-18,147.74096162675585,included_game_day
+1993,98,WKU,1993-03-20,156.2953715823996,included_game_day
+1993,98,WKU,1993-03-25,150.99013770085534,included_game_day
+1994,98,WKU,1993-11-17,-11.0,included_game_day
+1994,98,WKU,1993-12-11,-0.43032499999999985,included_game_day
+1994,98,WKU,1993-12-18,13.7491158883,included_game_day
+1994,98,WKU,1993-12-22,16.50859904757,included_game_day
+1994,98,WKU,1993-12-27,32.438491049813,included_game_day
+1994,98,WKU,1993-12-28,27.63678547916824,included_game_day
+1994,98,WKU,1994-01-03,26.36599370802658,included_game_day
+1994,98,WKU,1994-01-05,14.08959218424429,included_game_day
+1994,98,WKU,1994-01-08,19.61479457965536,included_game_day
+1994,98,WKU,1994-01-10,23.76979049810968,included_game_day
+1994,98,WKU,1994-01-13,21.894222421539386,included_game_day
+1994,98,WKU,1994-01-15,42.34238428648937,included_game_day
+1994,98,WKU,1994-01-22,35.6002783826517,included_game_day
+1994,98,WKU,1994-01-24,38.81831389260117,included_game_day
+1994,98,WKU,1994-01-29,59.93223002180789,included_game_day
+1994,98,WKU,1994-02-01,73.32200836456452,included_game_day
+1994,98,WKU,1994-02-05,89.47098017266597,included_game_day
+1994,98,WKU,1994-02-10,112.29658714258746,included_game_day
+1994,98,WKU,1994-02-12,91.86038787895193,included_game_day
+1994,98,WKU,1994-02-15,79.33129001920412,included_game_day
+1994,98,WKU,1994-02-17,76.71264247956245,included_game_day
+1994,98,WKU,1994-02-19,98.12408106218125,included_game_day
+1994,98,WKU,1994-02-24,89.58566802827674,included_game_day
+1994,98,WKU,1994-02-26,92.70545890080722,included_game_day
+1994,98,WKU,1994-02-28,86.24856537057073,included_game_day
+1994,98,WKU,1994-03-01,85.36971562822762,included_game_day
+1994,98,WKU,1994-03-05,75.3266762679831,included_game_day
+1994,98,WKU,1994-03-06,76.6567879129644,included_game_day
+1994,98,WKU,1994-03-07,67.80902771346474,included_game_day
+1994,98,WKU,1994-03-17,61.68140741552008,included_game_day
+1995,98,WKU,1994-12-03,-7.5600000000000005,included_game_day
+1995,98,WKU,1994-12-05,4.076765,included_game_day
+1995,98,WKU,1994-12-17,-5.137143676999999,included_game_day
+1995,98,WKU,1994-12-21,0.8051488907,included_game_day
+1995,98,WKU,1994-12-28,21.7522697937354,included_game_day
+1995,98,WKU,1995-01-05,30.107061594893135,included_game_day
+1995,98,WKU,1995-01-07,28.97449099626602,included_game_day
+1995,98,WKU,1995-01-11,42.81635776812354,included_game_day
+1995,98,WKU,1995-01-13,68.00985534842502,included_game_day
+1995,98,WKU,1995-01-16,85.30801299706154,included_game_day
+1995,98,WKU,1995-01-19,100.39293034546672,included_game_day
+1995,98,WKU,1995-01-21,94.24273148231404,included_game_day
+1995,98,WKU,1995-01-26,88.24589562924976,included_game_day
+1995,98,WKU,1995-01-28,85.4391015137818,included_game_day
+1995,98,WKU,1995-02-02,95.04324697435999,included_game_day
+1995,98,WKU,1995-02-04,96.94413023664883,included_game_day
+1995,98,WKU,1995-02-09,97.99345469334048,included_game_day
+1995,98,WKU,1995-02-11,96.71152590638033,included_game_day
+1995,98,WKU,1995-02-13,92.52166904730862,included_game_day
+1995,98,WKU,1995-02-16,91.66269941798325,included_game_day
+1995,98,WKU,1995-02-18,89.40238616299075,included_game_day
+1995,98,WKU,1995-02-20,86.04657013373756,included_game_day
+1995,98,WKU,1995-02-23,107.8039047041272,included_game_day
+1995,98,WKU,1995-02-25,97.54832797731115,included_game_day
+1995,98,WKU,1995-02-27,95.87992790084652,included_game_day
+1995,98,WKU,1995-03-03,94.374271246178,included_game_day
+1995,98,WKU,1995-03-04,88.51821676982146,included_game_day
+1995,98,WKU,1995-03-05,87.8983354693512,included_game_day
+1995,98,WKU,1995-03-16,91.22895115099078,included_game_day
+1995,98,WKU,1995-03-18,97.82545152531682,included_game_day
+1996,98,WKU,1995-11-24,-18.0,included_game_day
+1996,98,WKU,1995-11-28,-9.81,included_game_day
+1996,98,WKU,1995-12-04,-15.752399,included_game_day
+1996,98,WKU,1995-12-06,-7.6409704000000005,included_game_day
+1996,98,WKU,1995-12-09,12.655641539999998,included_game_day
+1996,98,WKU,1995-12-19,6.134129896899999,included_game_day
+1996,98,WKU,1995-12-23,2.4129298172099993,included_game_day
+1996,98,WKU,1995-12-31,14.015662132253047,included_game_day
+1996,98,WKU,1996-01-04,-4.415057036508729,included_game_day
+1996,98,WKU,1996-01-06,-5.371395111855115,included_game_day
+1996,98,WKU,1996-01-11,-6.393231529777902,included_game_day
+1996,98,WKU,1996-01-14,6.482999435791319,included_game_day
+1996,98,WKU,1996-01-18,19.42622454896764,included_game_day
+1996,98,WKU,1996-01-21,35.7746572251002,included_game_day
+1996,98,WKU,1996-01-27,26.093569128182455,included_game_day
+1996,98,WKU,1996-02-01,22.052527240501114,included_game_day
+1996,98,WKU,1996-02-03,9.461653605739539,included_game_day
+1996,98,WKU,1996-02-05,29.618769475341345,included_game_day
+1996,98,WKU,1996-02-08,47.11301495814608,included_game_day
+1996,98,WKU,1996-02-10,37.597155669738754,included_game_day
+1996,98,WKU,1996-02-15,42.29473136631959,included_game_day
+1996,98,WKU,1996-02-18,43.87728183170788,included_game_day
+1996,98,WKU,1996-02-20,54.42476173975215,included_game_day
+1996,98,WKU,1996-02-22,42.45676181229943,included_game_day
+1996,98,WKU,1996-02-24,22.27690333861988,included_game_day
+1996,98,WKU,1996-03-02,17.00198962922652,included_game_day
+1997,98,WKU,1996-11-23,-22.0,included_game_day
+1997,98,WKU,1996-11-29,-8.8475,included_game_day
+1997,98,WKU,1996-12-04,-2.11975,included_game_day
+1997,98,WKU,1996-12-07,-14.887545,included_game_day
+1997,98,WKU,1996-12-21,-0.8567994075699996,included_game_day
+1997,98,WKU,1996-12-23,14.595207501217,included_game_day
+1997,98,WKU,1996-12-28,-1.4600116215387011,included_game_day
+1997,98,WKU,1997-01-02,-17.871507081364832,included_game_day
+1997,98,WKU,1997-01-05,-10.968085824921946,included_game_day
+1997,98,WKU,1997-01-09,-34.26779463134521,included_game_day
+1997,98,WKU,1997-01-11,-21.686913336159535,included_game_day
+1997,98,WKU,1997-01-16,-31.536132029650492,included_game_day
+1997,98,WKU,1997-01-18,-27.14221569661575,included_game_day
+1997,98,WKU,1997-01-20,-24.337265283740344,included_game_day
+1997,98,WKU,1997-01-25,-20.932837117206052,included_game_day
+1997,98,WKU,1997-01-27,-5.7852404604771515,included_game_day
+1997,98,WKU,1997-01-30,-10.282951436703495,included_game_day
+1997,98,WKU,1997-02-01,-0.03741127915336051,included_game_day
+1997,98,WKU,1997-02-04,1.0059447875170342,included_game_day
+1997,98,WKU,1997-02-06,12.306447198502354,included_game_day
+1997,98,WKU,1997-02-09,5.063890604757566,included_game_day
+1997,98,WKU,1997-02-11,-0.6913047437196802,included_game_day
+1997,98,WKU,1997-02-13,-9.402169866124087,included_game_day
+1997,98,WKU,1997-02-15,-44.650286439607,included_game_day
+1997,98,WKU,1997-02-22,-54.58055949712278,included_game_day
+1997,98,WKU,1997-03-01,-49.793196355592194,included_game_day
+1998,98,WKU,1997-11-18,-5.68,included_game_day
+1998,98,WKU,1997-11-29,2.888,included_game_day
+1998,98,WKU,1997-12-03,9.98055581,included_game_day
+1998,98,WKU,1997-12-06,-16.929887201,included_game_day
+1998,98,WKU,1997-12-08,-28.318449620899997,included_game_day
+1998,98,WKU,1997-12-18,-22.544600426250998,included_game_day
+1998,98,WKU,1997-12-21,-26.5019986436259,included_game_day
+1998,98,WKU,1997-12-27,-19.54495448203516,included_game_day
+1998,98,WKU,1997-12-30,-34.686710766293814,included_game_day
+1998,98,WKU,1998-01-03,-41.32147855513486,included_game_day
+1998,98,WKU,1998-01-05,-38.17715555352791,included_game_day
+1998,98,WKU,1998-01-08,-23.257373724047554,included_game_day
+1998,98,WKU,1998-01-10,-32.946969200583084,included_game_day
+1998,98,WKU,1998-01-15,-29.486150861704754,included_game_day
+1998,98,WKU,1998-01-18,-34.31692647384652,included_game_day
+1998,98,WKU,1998-01-22,-46.374086494041904,included_game_day
+1998,98,WKU,1998-01-24,-62.005071287810225,included_game_day
+1998,98,WKU,1998-01-26,-64.86578759861784,included_game_day
+1998,98,WKU,1998-01-29,-50.321916856350505,included_game_day
+1998,98,WKU,1998-01-31,-27.060444838875146,included_game_day
+1998,98,WKU,1998-02-05,-37.43172729018339,included_game_day
+1998,98,WKU,1998-02-07,-45.47817992409892,included_game_day
+1998,98,WKU,1998-02-12,-46.29449750967699,included_game_day
+1998,98,WKU,1998-02-15,-56.04051904970291,included_game_day
+1998,98,WKU,1998-02-19,-59.94575384569143,included_game_day
+1998,98,WKU,1998-02-21,-53.71113126402356,included_game_day
+1998,98,WKU,1998-02-23,-35.92117889863047,included_game_day
+1998,98,WKU,1998-02-27,-32.34256767485082,included_game_day
+1998,98,WKU,1998-02-28,-34.462083201753885,included_game_day
+1999,98,WKU,1998-11-14,-2.0,included_game_day
+1999,98,WKU,1998-11-18,-2.7,included_game_day
+1999,98,WKU,1998-11-22,-20.43,included_game_day
+1999,98,WKU,1998-11-25,-23.84448,included_game_day
+1999,98,WKU,1998-12-03,-18.86971846,included_game_day
+1999,98,WKU,1998-12-05,-28.664458114000002,included_game_day
+1999,98,WKU,1998-12-08,-42.606207312600006,included_game_day
+1999,98,WKU,1998-12-19,-38.82517770554001,included_game_day
+1999,98,WKU,1998-12-23,-28.264582632138687,included_game_day
+1999,98,WKU,1998-12-29,-25.517306984069506,included_game_day
+1999,98,WKU,1998-12-30,-16.45542454667,included_game_day
+1999,98,WKU,1999-01-04,-7.199629608724575,included_game_day
+1999,98,WKU,1999-01-09,11.352617941668662,included_game_day
+1999,98,WKU,1999-01-12,18.385991780162673,included_game_day
+1999,98,WKU,1999-01-16,9.571993645205712,included_game_day
+1999,98,WKU,1999-01-21,17.442455334029436,included_game_day
+1999,98,WKU,1999-01-28,21.284472814194686,included_game_day
+1999,98,WKU,1999-01-30,17.19371549496178,included_game_day
+1999,98,WKU,1999-02-02,6.603904765039106,included_game_day
+1999,98,WKU,1999-02-04,-2.2734338161070315,included_game_day
+1999,98,WKU,1999-02-06,-14.3272521680755,included_game_day
+1999,98,WKU,1999-02-10,-15.683150151300769,included_game_day
+1999,98,WKU,1999-02-13,-24.368664308245386,included_game_day
+1999,98,WKU,1999-02-18,-41.14453369672434,included_game_day
+1999,98,WKU,1999-02-20,-39.29441665207886,included_game_day
+1999,98,WKU,1999-02-27,-26.90274383000334,included_game_day
+1999,98,WKU,1999-02-28,-10.227307309193659,included_game_day
+1999,98,WKU,1999-03-02,-19.96145668053413,included_game_day
+2000,98,WKU,1999-11-20,-12.0,included_game_day
+2000,98,WKU,1999-11-23,-17.8,included_game_day
+2000,98,WKU,1999-11-27,-39.019999999999996,included_game_day
+2000,98,WKU,1999-11-30,-45.2863,included_game_day
+2000,98,WKU,1999-12-04,-46.29902971,included_game_day
+2000,98,WKU,1999-12-07,-18.247127778,included_game_day
+2000,98,WKU,1999-12-11,-6.851079561200001,included_game_day
+2000,98,WKU,1999-12-18,-19.33341867508,included_game_day
+2000,98,WKU,1999-12-29,-21.886773795082,included_game_day
+2000,98,WKU,1999-12-30,-28.999156125928604,included_game_day
+2000,98,WKU,2000-01-08,-55.14176875557267,included_game_day
+2000,98,WKU,2000-01-13,-49.08541250297786,included_game_day
+2000,98,WKU,2000-01-15,-52.539074751513795,included_game_day
+2000,98,WKU,2000-01-18,-81.94699960525465,included_game_day
+2000,98,WKU,2000-01-22,-70.30370017329524,included_game_day
+2000,98,WKU,2000-01-24,-64.42747520400303,included_game_day
+2000,98,WKU,2000-01-27,-60.4123999835499,included_game_day
+2000,98,WKU,2000-01-29,-63.38421584349548,included_game_day
+2000,98,WKU,2000-01-31,-53.23772837782933,included_game_day
+2000,98,WKU,2000-02-09,-55.98365258955674,included_game_day
+2000,98,WKU,2000-02-12,-38.45208158902875,included_game_day
+2000,98,WKU,2000-02-17,-35.55374053374892,included_game_day
+2000,98,WKU,2000-02-19,-32.29778434171986,included_game_day
+2000,98,WKU,2000-02-21,-19.377134272026197,included_game_day
+2000,98,WKU,2000-02-24,-10.085521312627849,included_game_day
+2000,98,WKU,2000-02-26,5.958511565145093,included_game_day
+2000,98,WKU,2000-02-28,-6.13237136489521,included_game_day
+2000,98,WKU,2000-03-05,13.942054574057153,included_game_day
+2000,98,WKU,2000-03-06,13.257305754720836,included_game_day
+2001,98,WKU,2000-11-18,5.0,included_game_day
+2001,98,WKU,2000-11-25,23.368000000000002,included_game_day
+2001,98,WKU,2000-11-28,17.132,included_game_day
+2001,98,WKU,2000-12-02,1.0131000000000014,included_game_day
+2001,98,WKU,2000-12-05,-0.2952329509999987,included_game_day
+2001,98,WKU,2000-12-09,2.5564351541000008,included_game_day
+2001,98,WKU,2000-12-16,12.020898693700001,included_game_day
+2001,98,WKU,2000-12-21,7.218705044120002,included_game_day
+2001,98,WKU,2000-12-28,14.351459467851452,included_game_day
+2001,98,WKU,2000-12-31,29.250593207985627,included_game_day
+2001,98,WKU,2001-01-06,40.88719306708215,included_game_day
+2001,98,WKU,2001-01-10,31.832093433642722,included_game_day
+2001,98,WKU,2001-01-13,35.83849832846858,included_game_day
+2001,98,WKU,2001-01-16,40.89787404718624,included_game_day
+2001,98,WKU,2001-01-18,42.205523677630005,included_game_day
+2001,98,WKU,2001-01-25,54.33912776703329,included_game_day
+2001,98,WKU,2001-01-27,52.818851654443606,included_game_day
+2001,98,WKU,2001-02-01,50.442958990607565,included_game_day
+2001,98,WKU,2001-02-03,70.37509847332858,included_game_day
+2001,98,WKU,2001-02-10,67.55534986639984,included_game_day
+2001,98,WKU,2001-02-15,68.898895449755,included_game_day
+2001,98,WKU,2001-02-17,79.4403430555706,included_game_day
+2001,98,WKU,2001-02-22,112.71746626280293,included_game_day
+2001,98,WKU,2001-02-24,127.40909381129927,included_game_day
+2001,98,WKU,2001-03-03,127.79697065603483,included_game_day
+2001,98,WKU,2001-03-05,125.49036242813787,included_game_day
+2001,98,WKU,2001-03-06,128.889578324026,included_game_day
+2001,98,WKU,2001-03-16,120.88320685276155,included_game_day
+2002,98,Western Kentucky Hilltoppers,2001-11-15,15.0,included_game_day
+2002,98,Western Kentucky Hilltoppers,2001-11-20,38.5,included_game_day
+2002,98,Western Kentucky Hilltoppers,2001-11-24,55.65,included_game_day
+2002,98,Western Kentucky Hilltoppers,2001-11-27,51.795,included_game_day
+2002,98,Western Kentucky Hilltoppers,2001-12-02,46.998760000000004,included_game_day
+2002,98,Western Kentucky Hilltoppers,2001-12-05,56.720416,included_game_day
+2002,98,Western Kentucky Hilltoppers,2001-12-08,52.47282429,included_game_day
+2002,98,Western Kentucky Hilltoppers,2001-12-19,83.37278331988,included_game_day
+2002,98,Western Kentucky Hilltoppers,2001-12-22,104.252271069062,included_game_day
+2002,98,Western Kentucky Hilltoppers,2001-12-28,108.9419893044062,included_game_day
+2002,98,Western Kentucky Hilltoppers,2001-12-30,95.09850478295823,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-01-02,94.50439201938535,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-01-05,82.78840510938122,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-01-10,74.28599027101332,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-01-13,84.15572424800813,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-01-16,87.57785329153049,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-01-19,104.28885376079081,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-01-24,106.81105409637031,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-01-27,95.27079271557733,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-01-31,82.59961728279742,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-02-03,90.85204177857476,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-02-07,93.17257670565228,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-02-09,94.62391245453449,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-02-16,108.15508141850825,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-02-23,96.44647582652678,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-03-02,97.68481970513308,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-03-04,89.42744416505862,included_game_day
+2002,98,Western Kentucky Hilltoppers,2002-03-14,76.11295526363219,included_game_day
+2003,98,Western Kentucky Hilltoppers,2002-11-23,-36.0,included_game_day
+2003,98,Western Kentucky Hilltoppers,2002-11-26,-28.4,included_game_day
+2003,98,Western Kentucky Hilltoppers,2002-12-01,-5.32,included_game_day
+2003,98,Western Kentucky Hilltoppers,2002-12-03,-7.16794,included_game_day
+2003,98,Western Kentucky Hilltoppers,2002-12-07,-16.863946,included_game_day
+2003,98,Western Kentucky Hilltoppers,2002-12-15,-2.4761593999999985,included_game_day
+2003,98,Western Kentucky Hilltoppers,2002-12-18,4.877262069200002,included_game_day
+2003,98,Western Kentucky Hilltoppers,2002-12-20,34.90512605928,included_game_day
+2003,98,Western Kentucky Hilltoppers,2002-12-23,18.708003879802,included_game_day
+2003,98,Western Kentucky Hilltoppers,2002-12-29,22.01872569088803,included_game_day
+2003,98,Western Kentucky Hilltoppers,2002-12-30,45.56942671208761,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-01-04,34.44465032049851,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-01-09,43.6406478408331,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-01-11,49.473669687806705,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-01-16,62.68603198148712,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-01-18,71.51901974871737,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-01-25,62.372792554634806,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-01-30,67.11795174173616,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-02-01,48.17687479431828,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-02-05,45.92776812776886,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-02-08,52.05508591649922,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-02-13,62.59695220372805,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-02-15,59.42912398112322,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-02-19,66.67405924724874,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-02-22,64.08532511649369,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-02-26,71.90292252907648,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-03-01,78.48379281388816,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-03-08,75.91417967088297,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-03-10,90.28951632270903,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-03-11,94.24660597567775,included_game_day
+2003,98,Western Kentucky Hilltoppers,2003-03-20,99.16058378519796,included_game_day
+2004,98,Western Kentucky Hilltoppers,2003-11-21,-18.9,included_game_day
+2004,98,Western Kentucky Hilltoppers,2003-11-25,-18.909999999999997,included_game_day
+2004,98,Western Kentucky Hilltoppers,2003-11-29,-24.161599999999996,included_game_day
+2004,98,Western Kentucky Hilltoppers,2003-12-04,-48.79924,included_game_day
+2004,98,Western Kentucky Hilltoppers,2003-12-07,-45.938744,included_game_day
+2004,98,Western Kentucky Hilltoppers,2003-12-13,-30.10100275,included_game_day
+2004,98,Western Kentucky Hilltoppers,2003-12-16,-24.5242174392,included_game_day
+2004,98,Western Kentucky Hilltoppers,2003-12-20,-16.65896153098,included_game_day
+2004,98,Western Kentucky Hilltoppers,2003-12-23,-4.636889326257002,included_game_day
+2004,98,Western Kentucky Hilltoppers,2003-12-30,18.616437324115708,included_game_day
+2004,98,Western Kentucky Hilltoppers,2004-01-07,17.897689805003566,included_game_day
+2004,98,Western Kentucky Hilltoppers,2004-01-10,10.049698532024253,included_game_day
+2004,98,Western Kentucky Hilltoppers,2004-01-15,22.76850557277131,included_game_day
+2004,98,Western Kentucky Hilltoppers,2004-01-17,25.641334620323995,included_game_day
+2004,98,Western Kentucky Hilltoppers,2004-01-22,9.745615961031492,included_game_day
+2004,98,Western Kentucky Hilltoppers,2004-01-24,15.896552946685722,included_game_day
+2004,98,Western Kentucky Hilltoppers,2004-01-29,7.5358456855650555,included_game_day
+2004,98,Western Kentucky Hilltoppers,2004-01-31,8.62061564474092,included_game_day
+2004,98,Western Kentucky Hilltoppers,2004-02-05,8.17338747173142,included_game_day
+2004,98,Western Kentucky Hilltoppers,2004-02-12,24.940942771920827,included_game_day
+2004,98,Western Kentucky Hilltoppers,2004-02-14,18.506849857327655,included_game_day
+2004,98,Western Kentucky Hilltoppers,2004-02-19,14.000387355920061,included_game_day
+2004,98,Western Kentucky Hilltoppers,2004-02-21,34.281748905953506,included_game_day
+2004,98,Western Kentucky Hilltoppers,2004-02-26,20.03833858713113,included_game_day
+2004,98,Western Kentucky Hilltoppers,2004-02-28,32.46604060712977,included_game_day
+2004,98,Western Kentucky Hilltoppers,2004-03-07,13.686508157377673,included_game_day
+2005,98,Western Kentucky Hilltoppers,2004-11-19,0.0,included_game_day
+2005,98,Western Kentucky Hilltoppers,2004-11-23,13.0,included_game_day
+2005,98,Western Kentucky Hilltoppers,2004-11-27,33.55,included_game_day
+2005,98,Western Kentucky Hilltoppers,2004-12-01,47.592,included_game_day
+2005,98,Western Kentucky Hilltoppers,2004-12-04,56.439713999999995,included_game_day
+2005,98,Western Kentucky Hilltoppers,2004-12-08,63.26761787699999,included_game_day
+2005,98,Western Kentucky Hilltoppers,2004-12-11,56.466578289299996,included_game_day
+2005,98,Western Kentucky Hilltoppers,2004-12-18,61.68424963493,included_game_day
+2005,98,Western Kentucky Hilltoppers,2004-12-28,62.276182278749836,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-01-01,71.6060775391208,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-01-05,70.46524010399504,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-01-13,60.51470555271949,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-01-15,54.83944485960154,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-01-20,54.523354804097636,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-01-22,43.27242252873661,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-01-27,27.040364246293997,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-01-29,20.0398403303729,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-02-03,26.383135209247236,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-02-05,25.6345924445654,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-02-07,29.928758877464478,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-02-10,33.75197810080305,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-02-12,30.73411908341238,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-02-17,23.521271931381943,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-02-19,32.80595565763421,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-02-24,32.32581306280369,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-02-26,25.289258218998867,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-03-06,30.986078198992978,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-03-07,26.9994119681038,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-03-16,33.03645591261071,included_game_day
+2005,98,Western Kentucky Hilltoppers,2005-03-19,35.515585698314794,included_game_day
+2006,98,Western Kentucky Hilltoppers,2005-11-18,26.0,included_game_day
+2006,98,Western Kentucky Hilltoppers,2005-11-22,32.36,included_game_day
+2006,98,Western Kentucky Hilltoppers,2005-11-26,23.869799999999998,included_game_day
+2006,98,Western Kentucky Hilltoppers,2005-11-29,43.779317,included_game_day
+2006,98,Western Kentucky Hilltoppers,2005-12-03,46.6641653,included_game_day
+2006,98,Western Kentucky Hilltoppers,2005-12-06,45.588230870000004,included_game_day
+2006,98,Western Kentucky Hilltoppers,2005-12-10,24.512495391,included_game_day
+2006,98,Western Kentucky Hilltoppers,2005-12-14,25.5826215619,included_game_day
+2006,98,Western Kentucky Hilltoppers,2005-12-19,30.48327862073,included_game_day
+2006,98,Western Kentucky Hilltoppers,2005-12-21,34.578758083615625,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-01-02,42.23137978580851,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-01-05,38.93691686025881,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-01-07,62.658478758243156,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-01-12,53.203347295180315,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-01-14,65.90875954779247,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-01-19,37.34036192078924,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-01-21,40.54183586542531,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-01-26,41.58333201199378,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-01-28,41.025609798482535,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-01-31,37.290468828897005,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-02-09,35.52450848284357,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-02-11,50.38330018681687,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-02-16,47.20138914305398,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-02-18,62.75101327567492,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-02-23,52.11669860556329,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-02-25,53.713396520340524,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-03-05,60.79798768079068,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-03-06,60.10381704259498,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-03-07,38.990371699649,included_game_day
+2006,98,Western Kentucky Hilltoppers,2006-03-15,30.16875616059317,included_game_day
+2007,98,Western Kentucky Hilltoppers,2006-11-11,44.0,included_game_day
+2007,98,Western Kentucky Hilltoppers,2006-11-14,51.3,included_game_day
+2007,98,Western Kentucky Hilltoppers,2006-11-19,61.17,included_game_day
+2007,98,Western Kentucky Hilltoppers,2006-11-21,73.92830000000001,included_game_day
+2007,98,Western Kentucky Hilltoppers,2006-11-24,52.54411100000001,included_game_day
+2007,98,Western Kentucky Hilltoppers,2006-11-25,61.02756780000001,included_game_day
+2007,98,Western Kentucky Hilltoppers,2006-11-28,70.63863102,included_game_day
+2007,98,Western Kentucky Hilltoppers,2006-12-02,85.329265418,included_game_day
+2007,98,Western Kentucky Hilltoppers,2006-12-06,94.0083860152,included_game_day
+2007,98,Western Kentucky Hilltoppers,2006-12-09,80.43815940628001,included_game_day
+2007,98,Western Kentucky Hilltoppers,2006-12-16,68.274016048993,included_game_day
+2007,98,Western Kentucky Hilltoppers,2006-12-19,57.782244325577686,included_game_day
+2007,98,Western Kentucky Hilltoppers,2006-12-22,68.22185197883162,included_game_day
+2007,98,Western Kentucky Hilltoppers,2006-12-28,67.75087597485664,included_game_day
+2007,98,Western Kentucky Hilltoppers,2006-12-30,67.5112837470003,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-01-03,58.461370760931125,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-01-06,52.6929275143477,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-01-11,53.56595028134798,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-01-13,44.833690243990674,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-01-17,33.385942605896005,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-01-21,26.078733974175076,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-01-25,24.502810531261797,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-01-27,25.120719405607712,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-01-31,21.047825531072704,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-02-03,19.39989468429562,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-02-08,22.178326189771795,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-02-10,24.296740524703644,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-02-14,7.406044526750506,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-02-17,2.6796276579205873,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-02-24,10.322955871233097,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-03-04,7.196091495051403,included_game_day
+2007,98,Western Kentucky Hilltoppers,2007-03-05,-0.35299082457782305,included_game_day
+2008,98,Western Kentucky Hilltoppers,2007-11-09,32.0,included_game_day
+2008,98,Western Kentucky Hilltoppers,2007-11-17,49.6,included_game_day
+2008,98,Western Kentucky Hilltoppers,2007-11-22,49.549800000000005,included_game_day
+2008,98,Western Kentucky Hilltoppers,2007-11-24,49.191504,included_game_day
+2008,98,Western Kentucky Hilltoppers,2007-12-01,40.915768760000006,included_game_day
+2008,98,Western Kentucky Hilltoppers,2007-12-05,46.77128464900001,included_game_day
+2008,98,Western Kentucky Hilltoppers,2007-12-08,58.790957324580006,included_game_day
+2008,98,Western Kentucky Hilltoppers,2007-12-15,56.598276058542005,included_game_day
+2008,98,Western Kentucky Hilltoppers,2007-12-18,57.164140036074656,included_game_day
+2008,98,Western Kentucky Hilltoppers,2007-12-22,43.82301395017138,included_game_day
+2008,98,Western Kentucky Hilltoppers,2007-12-29,46.726321443958895,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-01-02,43.26971223131464,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-01-05,43.09690956835879,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-01-10,62.71016675591265,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-01-12,64.32225297703981,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-01-16,65.28710077260726,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-01-23,81.40256625269079,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-01-27,76.20017838696823,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-01-31,87.75953834308564,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-02-02,85.9957663063294,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-02-07,90.36757584350347,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-02-13,107.14736675623578,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-02-16,104.07691645639372,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-02-21,93.73463554494067,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-02-23,83.60784583799058,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-02-27,89.44952412392314,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-03-01,91.1916920847876,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-03-09,99.90331706351495,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-03-10,104.22209875234377,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-03-11,105.84319037999653,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-03-21,110.95839243924182,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-03-23,116.48255720682116,included_game_day
+2008,98,Western Kentucky Hilltoppers,2008-03-27,114.21397985306277,included_game_day
+2009,98,Western Kentucky Hilltoppers,2008-11-15,-4.5600000000000005,included_game_day
+2009,98,Western Kentucky Hilltoppers,2008-11-22,-29.704,included_game_day
+2009,98,Western Kentucky Hilltoppers,2008-11-26,-23.650760000000002,included_game_day
+2009,98,Western Kentucky Hilltoppers,2008-11-30,-1.9255540000000018,included_game_day
+2009,98,Western Kentucky Hilltoppers,2008-12-02,1.9034736999999984,included_game_day
+2009,98,Western Kentucky Hilltoppers,2008-12-06,17.212077802299998,included_game_day
+2009,98,Western Kentucky Hilltoppers,2008-12-13,-10.399136790530001,included_game_day
+2009,98,Western Kentucky Hilltoppers,2008-12-18,-2.1477903635930016,included_game_day
+2009,98,Western Kentucky Hilltoppers,2008-12-21,15.672972221106301,included_game_day
+2009,98,Western Kentucky Hilltoppers,2008-12-28,6.44284523888064,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-01-01,22.03117282136283,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-01-03,48.31556154818358,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-01-05,23.271676060304042,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-01-08,13.943732381910147,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-01-10,33.795802517709966,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-01-15,33.83634486651709,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-01-17,30.990764793761205,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-01-22,23.401355044067515,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-01-24,17.840006012140975,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-01-31,15.53362278467667,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-02-02,20.679024134679207,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-02-05,23.70294453766443,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-02-07,24.89792415343407,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-02-14,22.420203537123072,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-02-19,34.700338806328524,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-02-21,34.937772974345016,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-02-26,39.65532961684798,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-02-28,57.07592820244189,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-03-08,65.38190895764757,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-03-09,65.31453190772245,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-03-10,67.68443305105804,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-03-19,73.95664316774591,included_game_day
+2009,98,Western Kentucky Hilltoppers,2009-03-21,83.91338840529016,included_game_day
+2010,98,Western Kentucky Hilltoppers,2009-11-16,4.0,included_game_day
+2010,98,Western Kentucky Hilltoppers,2009-11-17,-2.0700000000000003,included_game_day
+2010,98,Western Kentucky Hilltoppers,2009-11-23,-7.106,included_game_day
+2010,98,Western Kentucky Hilltoppers,2009-11-24,-10.85397,included_game_day
+2010,98,Western Kentucky Hilltoppers,2009-12-02,-21.496555899999997,included_game_day
+2010,98,Western Kentucky Hilltoppers,2009-12-06,-8.885438933999998,included_game_day
+2010,98,Western Kentucky Hilltoppers,2009-12-08,-6.690215351199998,included_game_day
+2010,98,Western Kentucky Hilltoppers,2009-12-11,4.949670925020002,included_game_day
+2010,98,Western Kentucky Hilltoppers,2009-12-19,-13.224079363996687,included_game_day
+2010,98,Western Kentucky Hilltoppers,2009-12-22,1.2328610833776015,included_game_day
+2010,98,Western Kentucky Hilltoppers,2009-12-31,7.25375410760543,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-01-04,19.244045150195518,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-01-07,24.588531681144133,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-01-10,18.891103706506726,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-01-14,20.764162429170916,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-01-16,24.936265691533762,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-01-18,23.01613213150535,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-01-21,14.546386493251582,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-01-23,-0.3173692706737654,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-01-25,-0.33613167104666086,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-01-28,-6.033096756081775,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-01-30,2.215080206709068,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-02-04,-3.1190108530957463,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-02-06,12.429140723639039,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-02-09,11.836216498323271,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-02-11,18.893052774699434,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-02-13,33.654837692539395,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-02-18,52.372733866707506,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-02-20,52.66860380830321,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-02-25,58.63702357044874,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-02-27,75.77252524807093,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-03-06,82.66544219934488,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-03-07,74.0323926620307,included_game_day
+2010,98,Western Kentucky Hilltoppers,2010-03-08,61.04745757345644,included_game_day
+2011,98,Western Kentucky Hilltoppers,2010-11-12,31.0,included_game_day
+2011,98,Western Kentucky Hilltoppers,2010-11-15,46.9,included_game_day
+2011,98,Western Kentucky Hilltoppers,2010-11-18,25.529999999999998,included_game_day
+2011,98,Western Kentucky Hilltoppers,2010-11-19,20.686999999999998,included_game_day
+2011,98,Western Kentucky Hilltoppers,2010-11-21,4.998599999999998,included_game_day
+2011,98,Western Kentucky Hilltoppers,2010-11-27,2.9812653399999984,included_game_day
+2011,98,Western Kentucky Hilltoppers,2010-12-01,-6.970922593999999,included_game_day
+2011,98,Western Kentucky Hilltoppers,2010-12-04,-12.2355488446,included_game_day
+2011,98,Western Kentucky Hilltoppers,2010-12-08,-8.417367441140001,included_game_day
+2011,98,Western Kentucky Hilltoppers,2010-12-11,-4.313313999298601,included_game_day
+2011,98,Western Kentucky Hilltoppers,2010-12-18,-10.711312859712741,included_game_day
+2011,98,Western Kentucky Hilltoppers,2010-12-22,-33.531442238732005,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-01-01,-35.318475446590725,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-01-06,-41.45975142505743,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-01-13,-56.70979516666904,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-01-15,-58.79876125417383,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-01-20,-46.8875409036055,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-01-22,-32.177068243684914,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-01-27,-28.65823468584911,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-01-29,-16.584482462481784,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-02-03,-28.314446301063086,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-02-05,-18.094198284777647,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-02-10,-28.04462492645741,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-02-12,-17.864034917770944,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-02-14,-16.438533036937898,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-02-17,-12.949183480439327,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-02-19,-12.7570778518336,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-02-24,-13.555228427291532,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-02-26,-28.516807606917308,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-03-05,-21.780049210628327,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-03-06,-14.58959709503301,included_game_day
+2011,98,Western Kentucky Hilltoppers,2011-03-07,-32.02491215594277,included_game_day
+2012,98,Western Kentucky Hilltoppers,2011-11-11,-14.0,included_game_day
+2012,98,Western Kentucky Hilltoppers,2011-11-14,-15.7,included_game_day
+2012,98,Western Kentucky Hilltoppers,2011-11-17,-27.759999999999998,included_game_day
+2012,98,Western Kentucky Hilltoppers,2011-11-18,-43.301,included_game_day
+2012,98,Western Kentucky Hilltoppers,2011-11-20,-46.1069,included_game_day
+2012,98,Western Kentucky Hilltoppers,2011-11-23,-69.35162,included_game_day
+2012,98,Western Kentucky Hilltoppers,2011-11-26,-61.838758,included_game_day
+2012,98,Western Kentucky Hilltoppers,2011-12-01,-66.30751839999999,included_game_day
+2012,98,Western Kentucky Hilltoppers,2011-12-04,-56.72809776,included_game_day
+2012,98,Western Kentucky Hilltoppers,2011-12-07,-42.416427983999995,included_game_day
+2012,98,Western Kentucky Hilltoppers,2011-12-10,-47.45387701111999,included_game_day
+2012,98,Western Kentucky Hilltoppers,2011-12-17,-61.90697985630799,included_game_day
+2012,98,Western Kentucky Hilltoppers,2011-12-23,-53.64845797595419,included_game_day
+2012,98,Western Kentucky Hilltoppers,2011-12-29,-47.20166670366721,included_game_day
+2012,98,Western Kentucky Hilltoppers,2011-12-31,-67.22018877472105,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-01-05,-65.49861573831797,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-01-07,-69.52165819527893,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-01-12,-76.5104521029723,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-01-15,-73.40760592449227,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-01-21,-59.38776489469436,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-01-26,-50.41009760045522,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-01-28,-35.14399264759377,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-02-04,-29.06904773342759,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-02-09,-24.086320504605766,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-02-11,-31.55829861324077,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-02-16,-26.33188131050099,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-02-18,-28.707727671059967,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-02-23,-28.204408319674037,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-02-25,-14.184091853974222,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-03-03,-13.151012674288147,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-03-04,-7.017299087542765,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-03-05,5.5341160800705715,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-03-06,11.809342030229429,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-03-13,7.209199460390066,included_game_day
+2012,98,Western Kentucky Hilltoppers,2012-03-15,10.406516168169304,included_game_day
+2013,98,Western Kentucky Hilltoppers,2012-11-10,0.0,included_game_day
+2013,98,Western Kentucky Hilltoppers,2012-11-13,17.8,included_game_day
+2013,98,Western Kentucky Hilltoppers,2012-11-17,22.259,included_game_day
+2013,98,Western Kentucky Hilltoppers,2012-11-20,17.8071,included_game_day
+2013,98,Western Kentucky Hilltoppers,2012-11-21,27.256619999999998,included_game_day
+2013,98,Western Kentucky Hilltoppers,2012-11-29,34.799577,included_game_day
+2013,98,Western Kentucky Hilltoppers,2012-12-01,34.277472096,included_game_day
+2013,98,Western Kentucky Hilltoppers,2012-12-05,31.377249836399997,included_game_day
+2013,98,Western Kentucky Hilltoppers,2012-12-08,36.724504341759996,included_game_day
+2013,98,Western Kentucky Hilltoppers,2012-12-16,35.052195667713995,included_game_day
+2013,98,Western Kentucky Hilltoppers,2012-12-18,11.918925808619598,included_game_day
+2013,98,Western Kentucky Hilltoppers,2012-12-22,4.209271291674266,included_game_day
+2013,98,Western Kentucky Hilltoppers,2012-12-27,13.390264673337319,included_game_day
+2013,98,Western Kentucky Hilltoppers,2012-12-29,12.848871288142917,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-01-03,4.369965630700925,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-01-05,-3.7870253803047387,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-01-12,-13.349650005733588,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-01-17,5.598417905339248,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-01-19,-5.291009740581204,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-01-24,-10.356765593835018,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-01-26,-15.821778932365174,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-01-31,-18.525810891777073,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-02-07,-8.682101236642438,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-02-09,-25.472407559148927,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-02-14,-31.285480460160258,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-02-16,-32.605215784780874,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-02-21,-25.292705188929915,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-02-23,-12.941602224519782,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-02-28,-9.360039295312765,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-03-02,-4.05863205551192,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-03-08,-2.8961744822525564,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-03-09,-0.3433386838909245,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-03-10,4.395688319445484,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-03-11,6.631803719154264,included_game_day
+2013,98,Western Kentucky Hilltoppers,2013-03-22,16.36807756729244,included_game_day
+2014,98,Western Kentucky Hilltoppers,2013-11-12,-14.0,included_game_day
+2014,98,Western Kentucky Hilltoppers,2013-11-16,-9.879999999999999,included_game_day
+2014,98,Western Kentucky Hilltoppers,2013-11-21,-0.5400189999999991,included_game_day
+2014,98,Western Kentucky Hilltoppers,2013-11-23,-9.025767099999998,included_game_day
+2014,98,Western Kentucky Hilltoppers,2013-11-26,-14.485501099999997,included_game_day
+2014,98,Western Kentucky Hilltoppers,2013-11-30,-2.990479989999997,included_game_day
+2014,98,Western Kentucky Hilltoppers,2013-12-02,-14.791312790999998,included_game_day
+2014,98,Western Kentucky Hilltoppers,2013-12-07,-2.0956051116999976,included_game_day
+2014,98,Western Kentucky Hilltoppers,2013-12-14,-0.1372912181879986,included_game_day
+2014,98,Western Kentucky Hilltoppers,2013-12-18,2.3383694825408012,included_game_day
+2014,98,Western Kentucky Hilltoppers,2013-12-21,2.7331389706837212,included_game_day
+2014,98,Western Kentucky Hilltoppers,2013-12-30,-0.5451007736100939,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-01-02,3.9082528238627328,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-01-04,11.486898399477584,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-01-09,-11.450210895320799,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-01-16,-21.683732265678756,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-01-18,-15.914385497075076,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-01-23,3.992629856424797,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-01-25,18.654530751487385,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-01-30,16.02238450331238,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-02-01,10.354182021603382,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-02-08,9.018617923577498,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-02-10,-0.3958978468746146,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-02-13,-3.212689066899241,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-02-15,-19.755858355195947,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-02-22,-16.23834863942542,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-02-27,-15.29613604511352,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-03-01,-22.17547674552489,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-03-06,-14.555159751487514,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-03-08,-18.58009556538117,included_game_day
+2014,98,Western Kentucky Hilltoppers,2014-03-15,-13.149758360841734,included_game_day
+2015,98,Western Kentucky Hilltoppers,2014-11-15,4.0,included_game_day
+2015,98,Western Kentucky Hilltoppers,2014-11-18,-16.7,included_game_day
+2015,98,Western Kentucky Hilltoppers,2014-11-22,-16.229999999999997,included_game_day
+2015,98,Western Kentucky Hilltoppers,2014-11-25,-22.022999999999996,included_game_day
+2015,98,Western Kentucky Hilltoppers,2014-11-27,-19.716469999999997,included_game_day
+2015,98,Western Kentucky Hilltoppers,2014-12-03,-7.304740869999996,included_game_day
+2015,98,Western Kentucky Hilltoppers,2014-12-06,-18.263602282999997,included_game_day
+2015,98,Western Kentucky Hilltoppers,2014-12-13,-1.2569212056999994,included_game_day
+2015,98,Western Kentucky Hilltoppers,2014-12-17,-1.3928787646200007,included_game_day
+2015,98,Western Kentucky Hilltoppers,2014-12-20,0.6203733677750005,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-01-04,11.8126397492972,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-01-08,17.684344651758366,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-01-10,29.086921117124167,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-01-15,29.038144386719495,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-01-17,33.00135172451236,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-01-22,39.61034915515685,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-01-24,41.122753478784034,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-01-29,32.52304166119241,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-01-31,33.812742525383285,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-02-05,29.295431362686596,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-02-07,13.080030176886243,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-02-14,5.654175655203999,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-02-19,5.118013060747725,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-02-22,7.518136176720479,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-02-26,-0.8046618940972836,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-02-28,4.367955895379041,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-03-05,12.989301196347359,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-03-07,-0.8016256992437967,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-03-11,8.080744288675158,included_game_day
+2015,98,Western Kentucky Hilltoppers,2015-03-12,6.997870208768968,included_game_day
+2016,98,Western Kentucky Hilltoppers,2015-11-18,-2.12,included_game_day
+2016,98,Western Kentucky Hilltoppers,2015-11-21,-3.668,included_game_day
+2016,98,Western Kentucky Hilltoppers,2015-11-23,-6.5862,included_game_day
+2016,98,Western Kentucky Hilltoppers,2015-11-24,21.848419999999997,included_game_day
+2016,98,Western Kentucky Hilltoppers,2015-11-25,12.095937999999997,included_game_day
+2016,98,Western Kentucky Hilltoppers,2015-12-01,12.074000199999997,included_game_day
+2016,98,Western Kentucky Hilltoppers,2015-12-05,-9.361161490000004,included_game_day
+2016,98,Western Kentucky Hilltoppers,2015-12-13,0.2491267016999963,included_game_day
+2016,98,Western Kentucky Hilltoppers,2015-12-16,6.4003487068299965,included_game_day
+2016,98,Western Kentucky Hilltoppers,2015-12-19,5.164817015768994,included_game_day
+2016,98,Western Kentucky Hilltoppers,2015-12-22,6.482920273643194,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-01-03,-10.663858387709379,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-01-07,-16.037933050777173,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-01-09,-21.913986785136174,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-01-14,-33.10235582798279,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-01-16,-28.349112121626398,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-01-21,-25.56113846519343,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-01-23,-38.978519172844685,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-01-28,-25.258847354854662,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-01-30,-25.217802234195105,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-02-04,-20.208997561795737,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-02-06,-22.07230756131878,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-02-13,-22.18803270672039,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-02-18,-23.84404754773123,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-02-20,-17.350486592028254,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-02-25,-4.698055761920132,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-02-27,1.0927260634517761,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-03-03,4.5694060399994445,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-03-05,10.1302981806179,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-03-09,10.61936803211885,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-03-10,26.32057801419502,included_game_day
+2016,98,Western Kentucky Hilltoppers,2016-03-11,17.947460778110113,included_game_day
+2017,98,Western Kentucky Hilltoppers,2016-11-12,10.0,included_game_day
+2017,98,Western Kentucky Hilltoppers,2016-11-16,12.27,included_game_day
+2017,98,Western Kentucky Hilltoppers,2016-11-19,-8.297,included_game_day
+2017,98,Western Kentucky Hilltoppers,2016-11-22,9.790699999999998,included_game_day
+2017,98,Western Kentucky Hilltoppers,2016-11-25,-27.82919,included_game_day
+2017,98,Western Kentucky Hilltoppers,2016-11-26,-29.218994000000002,included_game_day
+2017,98,Western Kentucky Hilltoppers,2016-11-30,-45.903892600000006,included_game_day
+2017,98,Western Kentucky Hilltoppers,2016-12-03,-39.01917404,included_game_day
+2017,98,Western Kentucky Hilltoppers,2016-12-11,-11.771359591570004,included_game_day
+2017,98,Western Kentucky Hilltoppers,2016-12-14,-21.528094917837002,included_game_day
+2017,98,Western Kentucky Hilltoppers,2016-12-17,-31.295898586580304,included_game_day
+2017,98,Western Kentucky Hilltoppers,2016-12-21,-26.148491075014036,included_game_day
+2017,98,Western Kentucky Hilltoppers,2016-12-28,-32.34339944849499,included_game_day
+2017,98,Western Kentucky Hilltoppers,2016-12-31,-12.741286279247596,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-01-02,-10.038125794842612,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-01-05,-14.592188235912928,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-01-07,-26.911082767288416,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-01-12,-39.583781847871336,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-01-14,-40.43448209669237,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-01-21,-44.6656302003431,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-01-26,-46.2668786171961,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-01-28,-36.28533846886103,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-02-02,-32.793213894944515,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-02-04,-17.844276378957606,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-02-11,-25.270624208026778,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-02-16,-43.524881169467484,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-02-19,-31.57917696151777,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-02-23,-37.00400947786656,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-02-25,-39.106477228858665,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-03-02,-38.35540792200726,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-03-04,-28.67367889364856,included_game_day
+2017,98,Western Kentucky Hilltoppers,2017-03-08,-33.39129084813451,included_game_day
+2018,98,Western Kentucky Hilltoppers,2017-11-10,-8.0,included_game_day
+2018,98,Western Kentucky Hilltoppers,2017-11-19,1.3399999999999999,included_game_day
+2018,98,Western Kentucky Hilltoppers,2017-11-22,1.7849999999999984,included_game_day
+2018,98,Western Kentucky Hilltoppers,2017-11-23,17.569679999999998,included_game_day
+2018,98,Western Kentucky Hilltoppers,2017-11-24,25.563333,included_game_day
+2018,98,Western Kentucky Hilltoppers,2017-11-29,48.0609017,included_game_day
+2018,98,Western Kentucky Hilltoppers,2017-12-02,58.44794953,included_game_day
+2018,98,Western Kentucky Hilltoppers,2017-12-10,51.39700225357,included_game_day
+2018,98,Western Kentucky Hilltoppers,2017-12-13,48.6247746130207,included_game_day
+2018,98,Western Kentucky Hilltoppers,2017-12-16,56.51597422206063,included_game_day
+2018,98,Western Kentucky Hilltoppers,2017-12-19,47.035211263512785,included_game_day
+2018,98,Western Kentucky Hilltoppers,2017-12-22,60.552552288213086,included_game_day
+2018,98,Western Kentucky Hilltoppers,2017-12-28,55.47149449361982,included_game_day
+2018,98,Western Kentucky Hilltoppers,2017-12-30,58.156655188378174,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-01-06,85.37603150599139,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-01-11,94.55785881535861,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-01-13,92.73811341238554,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-01-18,95.81208412957959,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-01-20,84.57800957525335,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-01-27,88.79433024987131,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-02-01,89.49518701865613,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-02-03,72.03382993939616,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-02-08,68.78833166161903,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-02-10,63.838661158227495,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-02-15,69.68547913551856,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-02-17,78.48925618980243,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-02-22,96.18258993734952,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-02-24,119.43588601451827,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-03-01,104.22413498613804,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-03-03,71.41773057888541,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-03-08,98.38288506789134,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-03-09,107.04586270050167,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-03-10,102.41018465694634,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-03-13,112.66819899336855,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-03-19,118.25673531381014,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-03-21,126.5153860575031,included_game_day
+2018,98,Western Kentucky Hilltoppers,2018-03-27,119.76314241597625,included_game_day
+2019,98,Western Kentucky Hilltoppers,2018-11-06,-15.0,included_game_day
+2019,98,Western Kentucky Hilltoppers,2018-11-10,-1.5,included_game_day
+2019,98,Western Kentucky Hilltoppers,2018-11-15,10.65,included_game_day
+2019,98,Western Kentucky Hilltoppers,2018-11-16,16.3583,included_game_day
+2019,98,Western Kentucky Hilltoppers,2018-11-18,2.9938000000000002,included_game_day
+2019,98,Western Kentucky Hilltoppers,2018-11-24,-3.8655799999999996,included_game_day
+2019,98,Western Kentucky Hilltoppers,2018-12-01,4.55517,included_game_day
+2019,98,Western Kentucky Hilltoppers,2018-12-05,-2.4281905509999993,included_game_day
+2019,98,Western Kentucky Hilltoppers,2018-12-08,10.295273350840002,included_game_day
+2019,98,Western Kentucky Hilltoppers,2018-12-16,-1.3701154972439973,included_game_day
+2019,98,Western Kentucky Hilltoppers,2018-12-19,1.9338640380274015,included_game_day
+2019,98,Western Kentucky Hilltoppers,2018-12-22,10.402075079093153,included_game_day
+2019,98,Western Kentucky Hilltoppers,2018-12-29,24.693131897977977,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-01-03,37.034371602794884,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-01-05,38.98976235763316,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-01-12,36.31617381162474,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-01-17,25.88080362937682,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-01-19,23.667436684247605,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-01-21,27.856340014802214,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-01-24,29.683634650713984,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-01-26,19.689447858145453,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-01-31,26.041552958803674,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-02-02,32.32771600621415,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-02-07,37.28355464873591,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-02-09,43.36895718584164,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-02-14,39.72970710311902,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-02-16,22.902211774222554,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-02-23,24.636111628984565,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-02-28,32.34475733527083,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-03-03,36.03479410996556,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-03-06,28.760197747824495,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-03-14,40.368477781782886,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-03-15,56.008447923924,included_game_day
+2019,98,Western Kentucky Hilltoppers,2019-03-16,47.2994621031692,included_game_day
+2020,98,Western Kentucky Hilltoppers,2019-11-05,9.0,included_game_day
+2020,98,Western Kentucky Hilltoppers,2019-11-09,27.1,included_game_day
+2020,98,Western Kentucky Hilltoppers,2019-11-15,32.28,included_game_day
+2020,98,Western Kentucky Hilltoppers,2019-11-22,27.952,included_game_day
+2020,98,Western Kentucky Hilltoppers,2019-11-23,39.38157,included_game_day
+2020,98,Western Kentucky Hilltoppers,2019-11-25,41.455286810000004,included_game_day
+2020,98,Western Kentucky Hilltoppers,2019-11-29,28.533765129000003,included_game_day
+2020,98,Western Kentucky Hilltoppers,2019-12-03,28.4927336661,included_game_day
+2020,98,Western Kentucky Hilltoppers,2019-12-07,38.10967496749,included_game_day
+2020,98,Western Kentucky Hilltoppers,2019-12-21,36.351565961431,included_game_day
+2020,98,Western Kentucky Hilltoppers,2019-12-28,17.851712286888485,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-01-02,25.874277197156626,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-01-04,23.13035608425141,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-01-09,14.285970774203312,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-01-11,23.77063261428159,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-01-16,19.256598414634162,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-01-18,33.97815743102052,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-01-22,39.208726328561625,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-01-25,40.39318144659451,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-01-30,33.36982526552935,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-02-01,26.23632629458931,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-02-06,38.650670102971844,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-02-08,29.19600352063947,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-02-13,30.775590269708996,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-02-15,34.306158304157286,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-02-22,25.497311669084638,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-02-27,29.842408483927066,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-03-01,32.44310016574224,included_game_day
+2020,98,Western Kentucky Hilltoppers,2020-03-07,39.727482994364955,included_game_day
+2021,98,Western Kentucky Hilltoppers,2020-11-25,6.0,included_game_day
+2021,98,Western Kentucky Hilltoppers,2020-11-26,13.1,included_game_day
+2021,98,Western Kentucky Hilltoppers,2020-11-27,7.87,included_game_day
+2021,98,Western Kentucky Hilltoppers,2020-12-01,-6.652,included_game_day
+2021,98,Western Kentucky Hilltoppers,2020-12-06,1.8288999999999982,included_game_day
+2021,98,Western Kentucky Hilltoppers,2020-12-10,0.6460099999999982,included_game_day
+2021,98,Western Kentucky Hilltoppers,2020-12-13,3.042762999999998,included_game_day
+2021,98,Western Kentucky Hilltoppers,2020-12-19,10.174020299999999,included_game_day
+2021,98,Western Kentucky Hilltoppers,2020-12-22,15.596521319099999,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-01-01,21.88135420439,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-01-02,18.909220512622,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-01-08,19.51596885597906,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-01-09,13.001367530664709,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-01-15,22.805504278205976,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-01-17,30.64881367623899,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-01-23,40.840521267225974,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-01-24,49.99388734001556,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-02-12,49.05354770717184,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-02-13,65.30127600089685,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-02-25,52.5799894388994,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-02-28,66.09878638799995,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-03-01,55.9138239472804,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-03-05,47.72936536435624,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-03-06,46.18179849801692,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-03-11,58.32541531024802,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-03-12,63.845776614867845,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-03-13,61.69295479669089,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-03-17,61.58242067295795,included_game_day
+2021,98,Western Kentucky Hilltoppers,2021-03-25,59.319978838680434,included_game_day
+2022,98,Western Kentucky Hilltoppers,2021-11-09,2.0,included_game_day
+2022,98,Western Kentucky Hilltoppers,2021-11-12,-1.0,included_game_day
+2022,98,Western Kentucky Hilltoppers,2021-11-14,-10.95,included_game_day
+2022,98,Western Kentucky Hilltoppers,2021-11-19,-12.019999999999998,included_game_day
+2022,98,Western Kentucky Hilltoppers,2021-11-24,5.672250000000004,included_game_day
+2022,98,Western Kentucky Hilltoppers,2021-11-27,13.775777000000003,included_game_day
+2022,98,Western Kentucky Hilltoppers,2021-12-04,16.54886983,included_game_day
+2022,98,Western Kentucky Hilltoppers,2021-12-08,4.670229287575001,included_game_day
+2022,98,Western Kentucky Hilltoppers,2021-12-11,32.077935703292496,included_game_day
+2022,98,Western Kentucky Hilltoppers,2021-12-18,40.814478865735545,included_game_day
+2022,98,Western Kentucky Hilltoppers,2021-12-22,15.489516428491942,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-01-01,20.94915698410454,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-01-08,28.02903491540861,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-01-13,36.45799705110122,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-01-15,29.873633341631265,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-01-20,24.106013447328298,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-01-22,18.26429655870865,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-01-27,21.174356560286007,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-01-29,10.408289495492905,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-02-03,29.10182812372992,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-02-05,47.623489704344934,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-02-10,53.29430777292085,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-02-12,48.709901912414395,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-02-14,46.30826498536147,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-02-17,46.93749227590817,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-02-19,47.19850549705885,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-02-26,33.86099716507796,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-03-02,43.08789488369192,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-03-05,39.46941305858308,included_game_day
+2022,98,Western Kentucky Hilltoppers,2022-03-10,38.65666512965563,included_game_day
+2023,98,Western Kentucky Hilltoppers,2022-11-10,9.0,included_game_day
+2023,98,Western Kentucky Hilltoppers,2022-11-21,-12.614,included_game_day
+2023,98,Western Kentucky Hilltoppers,2022-11-22,-1.0712810000000008,included_game_day
+2023,98,Western Kentucky Hilltoppers,2022-11-23,8.1058971,included_game_day
+2023,98,Western Kentucky Hilltoppers,2022-11-26,21.53743219,included_game_day
+2023,98,Western Kentucky Hilltoppers,2022-11-30,18.704266570999998,included_game_day
+2023,98,Western Kentucky Hilltoppers,2022-12-10,16.42055966332,included_game_day
+2023,98,Western Kentucky Hilltoppers,2022-12-14,-4.522525862509202,included_game_day
+2023,98,Western Kentucky Hilltoppers,2022-12-22,-12.499415067661612,included_game_day
+2023,98,Western Kentucky Hilltoppers,2022-12-29,-13.51753609291952,included_game_day
+2023,98,Western Kentucky Hilltoppers,2022-12-31,-12.616524371948735,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-01-05,-11.531481366561476,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-01-07,-3.5445453925083816,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-01-11,9.369430298002676,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-01-14,14.812948576734907,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-01-16,6.062753399633337,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-01-19,-0.514277887688209,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-01-21,-3.3360820554912083,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-01-26,-12.283766115778551,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-01-28,-3.034987498131244,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-02-02,-6.3176360228335575,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-02-04,-2.7665363660987885,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-02-09,2.667595682451601,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-02-16,2.8049660703572816,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-02-18,-0.5492767073202867,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-02-23,7.137185862284225,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-02-25,1.6926157772755062,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-03-02,8.39199272438755,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-03-04,-14.69552279291295,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-03-08,-7.607114668299866,included_game_day
+2023,98,Western Kentucky Hilltoppers,2023-03-09,-17.517470890580526,included_game_day
+2024,98,Western Kentucky Hilltoppers,2023-11-09,-5.6,included_game_day
+2024,98,Western Kentucky Hilltoppers,2023-11-14,2.91,included_game_day
+2024,98,Western Kentucky Hilltoppers,2023-11-24,7.588,included_game_day
+2024,98,Western Kentucky Hilltoppers,2023-11-25,-1.25251,included_game_day
+2024,98,Western Kentucky Hilltoppers,2023-11-26,-15.135217,included_game_day
+2024,98,Western Kentucky Hilltoppers,2023-12-03,-9.181929830000001,included_game_day
+2024,98,Western Kentucky Hilltoppers,2023-12-09,3.5791232728599987,included_game_day
+2024,98,Western Kentucky Hilltoppers,2023-12-12,14.806134386574,included_game_day
+2024,98,Western Kentucky Hilltoppers,2023-12-16,8.3348750062376,included_game_day
+2024,98,Western Kentucky Hilltoppers,2023-12-19,13.938563759613839,included_game_day
+2024,98,Western Kentucky Hilltoppers,2023-12-30,8.406778793518535,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-01-06,9.518890218692519,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-01-10,4.000479593127355,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-01-13,15.948658559308022,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-01-18,10.424342597169646,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-01-20,2.8052362651423515,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-01-25,9.91798245626347,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-02-01,1.5100269602499239,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-02-03,14.836156969079976,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-02-07,30.417711147400546,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-02-10,41.370597557930644,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-02-15,43.74762781527898,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-02-17,43.36286670827598,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-02-24,32.576710150773955,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-02-28,25.54384653677215,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-03-02,17.146110695209444,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-03-09,14.108898354494677,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-03-14,24.814328220226745,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-03-15,48.83821921484399,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-03-16,52.409794438217276,included_game_day
+2024,98,Western Kentucky Hilltoppers,2024-03-22,42.20475379118783,included_game_day
+2025,98,Western Kentucky Hilltoppers,2024-11-04,-10.0,included_game_day
+2025,98,Western Kentucky Hilltoppers,2024-11-09,-7.3,included_game_day
+2025,98,Western Kentucky Hilltoppers,2024-11-17,-4.9498,included_game_day
+2025,98,Western Kentucky Hilltoppers,2024-11-20,1.99296,included_game_day
+2025,98,Western Kentucky Hilltoppers,2024-11-26,-2.7149453999999995,included_game_day
+2025,98,Western Kentucky Hilltoppers,2024-11-30,3.460471343,included_game_day
+2025,98,Western Kentucky Hilltoppers,2024-12-07,16.743371864700002,included_game_day
+2025,98,Western Kentucky Hilltoppers,2024-12-10,31.40606793123,included_game_day
+2025,98,Western Kentucky Hilltoppers,2024-12-14,33.782619291610004,included_game_day
+2025,98,Western Kentucky Hilltoppers,2024-12-17,39.927161352259006,included_game_day
+2025,98,Western Kentucky Hilltoppers,2024-12-29,2.623696689415283,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-01-02,13.759702443960574,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-01-04,-5.20437124861952,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-01-09,-12.547076425553051,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-01-11,0.23723243346545075,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-01-18,-7.267327368603718,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-01-23,-12.417445471331046,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-01-25,-2.649522448137656,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-01-30,-2.0817854924066457,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-02-01,28.53499880186076,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-02-06,21.143135044470704,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-02-08,24.141066573795218,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-02-15,10.147198878867687,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-02-20,-11.515742980912208,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-02-22,-12.178047270126234,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-02-27,-1.5619630643832618,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-03-01,-14.684896898510894,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-03-06,-12.680645665871113,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-03-08,-38.1160564459812,included_game_day
+2025,98,Western Kentucky Hilltoppers,2025-03-11,-44.15253996763227,included_game_day
+2026,98,Western Kentucky Hilltoppers,2025-11-03,9.0,included_game_day
+2026,98,Western Kentucky Hilltoppers,2025-11-10,19.1,included_game_day
+2026,98,Western Kentucky Hilltoppers,2025-11-16,26.82,included_game_day
+2026,98,Western Kentucky Hilltoppers,2025-11-26,29.162096000000002,included_game_day
+2026,98,Western Kentucky Hilltoppers,2025-11-27,26.497937320000002,included_game_day
+2026,98,Western Kentucky Hilltoppers,2025-11-28,34.463456327,included_game_day
+2026,98,Western Kentucky Hilltoppers,2025-12-06,22.4562056781,included_game_day
+2026,98,Western Kentucky Hilltoppers,2025-12-10,6.500732838005801,included_game_day
+2026,98,Western Kentucky Hilltoppers,2025-12-19,10.648025458764721,included_game_day
+2026,98,Western Kentucky Hilltoppers,2025-12-29,-1.7010480990049874,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-01-02,9.455207616803506,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-01-04,6.807814843615722,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-01-08,-6.856850610593655,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-01-10,3.895631572566643,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-01-14,15.061572801765609,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-01-17,-6.002701349520946,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-01-21,-11.106489512124192,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-01-24,-17.743718378914277,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-01-28,-15.334626738561855,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-01-31,-7.359792365284829,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-02-05,-15.503067542378133,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-02-07,-8.217185564077985,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-02-14,-10.62190042191282,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-02-18,-9.403865117156098,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-02-21,20.092174271146842,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-02-26,37.64635817144574,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-02-28,59.70199316442772,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-03-05,42.319692140674135,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-03-07,12.971641746559953,included_game_day
+2026,98,Western Kentucky Hilltoppers,2026-03-12,1.9239376606180887,included_game_day
+2027,98,Western Kentucky Hilltoppers,2026-11-02,22.0,included_game_day
+2027,98,Western Kentucky Hilltoppers,2026-11-08,18.3,included_game_day
+2027,98,Western Kentucky Hilltoppers,2026-11-16,18.222,included_game_day
+2027,98,Western Kentucky Hilltoppers,2026-11-20,32.628966000000005,included_game_day
+2027,98,Western Kentucky Hilltoppers,2026-11-22,44.57104650000001,included_game_day

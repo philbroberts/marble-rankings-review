@@ -1,0 +1,783 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1999,2502,Portland St,1998-11-23,5.6,included_game_day
+1999,2502,Portland St,1998-11-28,44.0474,included_game_day
+1999,2502,Portland St,1998-12-02,37.464179800000004,included_game_day
+1999,2502,Portland St,1998-12-05,41.985461820000005,included_game_day
+1999,2502,Portland St,1998-12-12,33.57130378800001,included_game_day
+1999,2502,Portland St,1998-12-21,31.25725082348781,included_game_day
+1999,2502,Portland St,1998-12-28,11.54932889538027,included_game_day
+1999,2502,Portland St,1998-12-29,20.37736282396377,included_game_day
+1999,2502,Portland St,1999-01-04,40.480379047085734,included_game_day
+1999,2502,Portland St,1999-01-07,42.141679916093125,included_game_day
+1999,2502,Portland St,1999-01-09,15.388273798630149,included_game_day
+1999,2502,Portland St,1999-01-16,23.072650092831125,included_game_day
+1999,2502,Portland St,1999-01-17,9.339884654359302,included_game_day
+1999,2502,Portland St,1999-01-21,18.249983584889158,included_game_day
+1999,2502,Portland St,1999-01-23,15.13714362078027,included_game_day
+1999,2502,Portland St,1999-01-28,10.925934824202024,included_game_day
+1999,2502,Portland St,1999-01-30,12.113744809928662,included_game_day
+1999,2502,Portland St,1999-02-04,3.0639927985099717,included_game_day
+1999,2502,Portland St,1999-02-11,-13.066172341399945,included_game_day
+1999,2502,Portland St,1999-02-13,-14.477662488284155,included_game_day
+1999,2502,Portland St,1999-02-18,-7.196873251966519,included_game_day
+1999,2502,Portland St,1999-02-20,-17.41826508726191,included_game_day
+1999,2502,Portland St,1999-02-25,-18.059748079842052,included_game_day
+1999,2502,Portland St,1999-02-27,-20.151966570800198,included_game_day
+1999,2502,Portland St,1999-03-04,-15.910744994677293,included_game_day
+1999,2502,Portland St,1999-03-05,-27.479842738706992,included_game_day
+2000,2502,Portland St,1999-11-20,-19.0,included_game_day
+2000,2502,Portland St,1999-11-23,-10.1,included_game_day
+2000,2502,Portland St,1999-11-27,5.25,included_game_day
+2000,2502,Portland St,1999-11-29,13.98371,included_game_day
+2000,2502,Portland St,1999-12-03,7.571239,included_game_day
+2000,2502,Portland St,1999-12-11,7.663873296,included_game_day
+2000,2502,Portland St,1999-12-20,-3.6185420122000007,included_game_day
+2000,2502,Portland St,1999-12-28,-14.04051186949,included_game_day
+2000,2502,Portland St,1999-12-29,-16.577767805817302,included_game_day
+2000,2502,Portland St,2000-01-07,-27.26930426460422,included_game_day
+2000,2502,Portland St,2000-01-13,-10.332157224672148,included_game_day
+2000,2502,Portland St,2000-01-15,11.494932426591223,included_game_day
+2000,2502,Portland St,2000-01-20,22.61512148975188,included_game_day
+2000,2502,Portland St,2000-01-22,21.32477165647252,included_game_day
+2000,2502,Portland St,2000-01-27,18.448554530507508,included_game_day
+2000,2502,Portland St,2000-01-29,0.16714380458317635,included_game_day
+2000,2502,Portland St,2000-02-03,-14.686574866950375,included_game_day
+2000,2502,Portland St,2000-02-05,-39.2601318044477,included_game_day
+2000,2502,Portland St,2000-02-11,-38.918977354445566,included_game_day
+2000,2502,Portland St,2000-02-17,-28.9824678581225,included_game_day
+2000,2502,Portland St,2000-02-19,-12.533954171940028,included_game_day
+2000,2502,Portland St,2000-02-24,-18.610976399908807,included_game_day
+2000,2502,Portland St,2000-02-26,-12.430944089077814,included_game_day
+2000,2502,Portland St,2000-03-02,-20.500424494922875,included_game_day
+2000,2502,Portland St,2000-03-04,-12.0997389279187,included_game_day
+2000,2502,Portland St,2000-03-08,-9.39839913655525,included_game_day
+2001,2502,Portland St,2000-11-20,-25.0,included_game_day
+2001,2502,Portland St,2000-11-25,-35.22,included_game_day
+2001,2502,Portland St,2000-11-28,-61.059,included_game_day
+2001,2502,Portland St,2000-11-30,-77.34609999999999,included_game_day
+2001,2502,Portland St,2000-12-03,-64.763527,included_game_day
+2001,2502,Portland St,2000-12-09,-57.337568399999995,included_game_day
+2001,2502,Portland St,2000-12-13,-59.0734398325,included_game_day
+2001,2502,Portland St,2000-12-16,-46.39168590406,included_game_day
+2001,2502,Portland St,2000-12-20,-47.619938079144,included_game_day
+2001,2502,Portland St,2001-01-04,-61.78720788055412,included_game_day
+2001,2502,Portland St,2001-01-06,-57.566944772763364,included_game_day
+2001,2502,Portland St,2001-01-09,-52.19048019067105,included_game_day
+2001,2502,Portland St,2001-01-12,-56.24585823634501,included_game_day
+2001,2502,Portland St,2001-01-18,-64.0632807881107,included_game_day
+2001,2502,Portland St,2001-01-20,-83.98983510677358,included_game_day
+2001,2502,Portland St,2001-01-26,-84.79836441905515,included_game_day
+2001,2502,Portland St,2001-01-27,-77.36041660390603,included_game_day
+2001,2502,Portland St,2001-02-01,-68.20647177889082,included_game_day
+2001,2502,Portland St,2001-02-03,-72.69838903830507,included_game_day
+2001,2502,Portland St,2001-02-10,-78.14257820206376,included_game_day
+2001,2502,Portland St,2001-02-16,-60.42838996802878,included_game_day
+2001,2502,Portland St,2001-02-22,-77.82308547561792,included_game_day
+2001,2502,Portland St,2001-02-24,-70.10418675350553,included_game_day
+2001,2502,Portland St,2001-03-01,-61.44812745155783,included_game_day
+2001,2502,Portland St,2001-03-03,-57.90731392965262,included_game_day
+2002,2502,Portland State Vikings,2001-11-17,10.0,included_game_day
+2002,2502,Portland State Vikings,2001-11-20,24.8,included_game_day
+2002,2502,Portland State Vikings,2001-11-24,2.9200000000000017,included_game_day
+2002,2502,Portland State Vikings,2001-11-27,-15.125,included_game_day
+2002,2502,Portland State Vikings,2001-12-01,-41.06704,included_game_day
+2002,2502,Portland State Vikings,2001-12-08,-40.06453197,included_game_day
+2002,2502,Portland State Vikings,2001-12-12,-43.369385773,included_game_day
+2002,2502,Portland State Vikings,2001-12-15,-55.9731118327,included_game_day
+2002,2502,Portland State Vikings,2001-12-18,-41.508211548191,included_game_day
+2002,2502,Portland State Vikings,2001-12-19,-51.4660842266519,included_game_day
+2002,2502,Portland State Vikings,2001-12-29,-86.42993290735471,included_game_day
+2002,2502,Portland State Vikings,2002-01-05,-70.31463983605752,included_game_day
+2002,2502,Portland State Vikings,2002-01-11,-71.26117516655019,included_game_day
+2002,2502,Portland State Vikings,2002-01-12,-81.63101437723749,included_game_day
+2002,2502,Portland State Vikings,2002-01-19,-81.21307982058536,included_game_day
+2002,2502,Portland State Vikings,2002-01-25,-65.28488542263959,included_game_day
+2002,2502,Portland State Vikings,2002-01-26,-59.07064757745124,included_game_day
+2002,2502,Portland State Vikings,2002-02-01,-56.10530447503072,included_game_day
+2002,2502,Portland State Vikings,2002-02-02,-73.7886411319655,included_game_day
+2002,2502,Portland State Vikings,2002-02-08,-81.76864693044502,included_game_day
+2002,2502,Portland State Vikings,2002-02-09,-79.77052962702577,included_game_day
+2002,2502,Portland State Vikings,2002-02-16,-90.87134363262106,included_game_day
+2002,2502,Portland State Vikings,2002-02-22,-77.1609294521846,included_game_day
+2002,2502,Portland State Vikings,2002-02-23,-65.63067982146009,included_game_day
+2002,2502,Portland State Vikings,2002-03-01,-47.67297321414554,included_game_day
+2002,2502,Portland State Vikings,2002-03-02,-41.71373379852846,included_game_day
+2002,2502,Portland State Vikings,2002-03-07,-56.791215421700386,included_game_day
+2003,2502,Portland State Vikings,2002-11-22,1.0,included_game_day
+2003,2502,Portland State Vikings,2002-11-24,-11.1,included_game_day
+2003,2502,Portland State Vikings,2002-11-30,-18.88,included_game_day
+2003,2502,Portland State Vikings,2002-12-07,-34.8541955,included_game_day
+2003,2502,Portland State Vikings,2002-12-17,-28.636816719000002,included_game_day
+2003,2502,Portland State Vikings,2002-12-21,-32.120760123820006,included_game_day
+2003,2502,Portland State Vikings,2002-12-23,-46.5279611332152,included_game_day
+2003,2502,Portland State Vikings,2002-12-28,-59.05461589069368,included_game_day
+2003,2502,Portland State Vikings,2002-12-29,-61.781366844633894,included_game_day
+2003,2502,Portland State Vikings,2003-01-02,-92.64894196915127,included_game_day
+2003,2502,Portland State Vikings,2003-01-07,-81.60281228148061,included_game_day
+2003,2502,Portland State Vikings,2003-01-09,-76.26005965444675,included_game_day
+2003,2502,Portland State Vikings,2003-01-11,-79.48546778228798,included_game_day
+2003,2502,Portland State Vikings,2003-01-15,-73.64802367578024,included_game_day
+2003,2502,Portland State Vikings,2003-01-18,-57.754072598400036,included_game_day
+2003,2502,Portland State Vikings,2003-01-25,-66.32411423671955,included_game_day
+2003,2502,Portland State Vikings,2003-01-30,-65.87318358859346,included_game_day
+2003,2502,Portland State Vikings,2003-02-01,-57.75086885407948,included_game_day
+2003,2502,Portland State Vikings,2003-02-06,-76.50168921146366,included_game_day
+2003,2502,Portland State Vikings,2003-02-08,-78.21649640688096,included_game_day
+2003,2502,Portland State Vikings,2003-02-13,-80.12965706669716,included_game_day
+2003,2502,Portland State Vikings,2003-02-15,-90.47704702788998,included_game_day
+2003,2502,Portland State Vikings,2003-02-22,-94.81933608294565,included_game_day
+2003,2502,Portland State Vikings,2003-02-27,-82.04443028525648,included_game_day
+2003,2502,Portland State Vikings,2003-03-01,-79.11590659941633,included_game_day
+2004,2502,Portland State Vikings,2003-11-21,-5.0,included_game_day
+2004,2502,Portland State Vikings,2003-11-29,-14.5,included_game_day
+2004,2502,Portland State Vikings,2003-12-02,-16.05,included_game_day
+2004,2502,Portland State Vikings,2003-12-06,-16.06167,included_game_day
+2004,2502,Portland State Vikings,2003-12-13,-1.8224029999999996,included_game_day
+2004,2502,Portland State Vikings,2003-12-16,3.375868715700001,included_game_day
+2004,2502,Portland State Vikings,2003-12-19,17.7972266628,included_game_day
+2004,2502,Portland State Vikings,2003-12-22,1.5215939052600014,included_game_day
+2004,2502,Portland State Vikings,2003-12-27,18.163164908688,included_game_day
+2004,2502,Portland State Vikings,2003-12-30,11.766452650490098,included_game_day
+2004,2502,Portland State Vikings,2004-01-02,-1.1987413295771514,included_game_day
+2004,2502,Portland State Vikings,2004-01-08,-10.469259047326156,included_game_day
+2004,2502,Portland State Vikings,2004-01-10,-4.569514490313844,included_game_day
+2004,2502,Portland State Vikings,2004-01-15,-16.335954216180845,included_game_day
+2004,2502,Portland State Vikings,2004-01-17,-8.290188533221926,included_game_day
+2004,2502,Portland State Vikings,2004-01-24,-18.640459409634424,included_game_day
+2004,2502,Portland State Vikings,2004-01-29,-25.87714380096642,included_game_day
+2004,2502,Portland State Vikings,2004-01-31,-44.104073759817915,included_game_day
+2004,2502,Portland State Vikings,2004-02-05,-41.43511267748026,included_game_day
+2004,2502,Portland State Vikings,2004-02-07,-44.03027710009518,included_game_day
+2004,2502,Portland State Vikings,2004-02-12,-38.045077927556875,included_game_day
+2004,2502,Portland State Vikings,2004-02-14,-36.07835892038294,included_game_day
+2004,2502,Portland State Vikings,2004-02-21,-28.937829871361497,included_game_day
+2004,2502,Portland State Vikings,2004-02-26,-41.522846444348794,included_game_day
+2004,2502,Portland State Vikings,2004-02-28,-49.01610397512935,included_game_day
+2005,2502,Portland State Vikings,2004-11-19,-15.0,included_game_day
+2005,2502,Portland State Vikings,2004-11-24,-22.857,included_game_day
+2005,2502,Portland State Vikings,2004-11-27,-8.5213,included_game_day
+2005,2502,Portland State Vikings,2004-11-29,-0.9871699999999999,included_game_day
+2005,2502,Portland State Vikings,2004-12-01,-7.139253000000001,included_game_day
+2005,2502,Portland State Vikings,2004-12-04,-18.7773997,included_game_day
+2005,2502,Portland State Vikings,2004-12-11,-30.732757730000003,included_game_day
+2005,2502,Portland State Vikings,2004-12-16,-14.169683790382003,included_game_day
+2005,2502,Portland State Vikings,2004-12-18,-9.288992061243803,included_game_day
+2005,2502,Portland State Vikings,2004-12-29,16.404093035051485,included_game_day
+2005,2502,Portland State Vikings,2005-01-01,18.368586020357174,included_game_day
+2005,2502,Portland State Vikings,2005-01-06,14.433555064519776,included_game_day
+2005,2502,Portland State Vikings,2005-01-08,24.17117951643891,included_game_day
+2005,2502,Portland State Vikings,2005-01-15,29.04076113819471,included_game_day
+2005,2502,Portland State Vikings,2005-01-20,19.369468898644804,included_game_day
+2005,2502,Portland State Vikings,2005-01-22,8.350542424023887,included_game_day
+2005,2502,Portland State Vikings,2005-01-27,14.28038150332654,included_game_day
+2005,2502,Portland State Vikings,2005-01-29,23.45339339831585,included_game_day
+2005,2502,Portland State Vikings,2005-02-03,25.125459463898252,included_game_day
+2005,2502,Portland State Vikings,2005-02-05,24.45779555531709,included_game_day
+2005,2502,Portland State Vikings,2005-02-12,12.948376187588266,included_game_day
+2005,2502,Portland State Vikings,2005-02-17,23.091301696007747,included_game_day
+2005,2502,Portland State Vikings,2005-02-19,4.748327030821226,included_game_day
+2005,2502,Portland State Vikings,2005-02-24,9.304480978763484,included_game_day
+2005,2502,Portland State Vikings,2005-02-26,-5.200377448991203,included_game_day
+2005,2502,Portland State Vikings,2005-03-08,-21.493252490605997,included_game_day
+2006,2502,Portland State Vikings,2005-11-18,-35.0,included_game_day
+2006,2502,Portland State Vikings,2005-11-21,-15.324000000000002,included_game_day
+2006,2502,Portland State Vikings,2005-11-23,-18.791600000000003,included_game_day
+2006,2502,Portland State Vikings,2005-11-25,-19.01244,included_game_day
+2006,2502,Portland State Vikings,2005-11-26,10.013479999999998,included_game_day
+2006,2502,Portland State Vikings,2005-11-30,5.124033999999998,included_game_day
+2006,2502,Portland State Vikings,2005-12-03,-1.4811694000000015,included_game_day
+2006,2502,Portland State Vikings,2005-12-07,-22.034747966,included_game_day
+2006,2502,Portland State Vikings,2005-12-10,-19.1881696982,included_game_day
+2006,2502,Portland State Vikings,2005-12-27,-8.17591793877568,included_game_day
+2006,2502,Portland State Vikings,2005-12-30,18.768194677561308,included_game_day
+2006,2502,Portland State Vikings,2006-01-05,4.413469348928162,included_game_day
+2006,2502,Portland State Vikings,2006-01-07,-2.8778828159207244,included_game_day
+2006,2502,Portland State Vikings,2006-01-14,-28.933348206592132,included_game_day
+2006,2502,Portland State Vikings,2006-01-19,-20.24399560869442,included_game_day
+2006,2502,Portland State Vikings,2006-01-21,-26.691628967534044,included_game_day
+2006,2502,Portland State Vikings,2006-01-26,-36.831270206800646,included_game_day
+2006,2502,Portland State Vikings,2006-01-28,-30.817656283801604,included_game_day
+2006,2502,Portland State Vikings,2006-02-02,-30.973094483738805,included_game_day
+2006,2502,Portland State Vikings,2006-02-04,-33.48834324865772,included_game_day
+2006,2502,Portland State Vikings,2006-02-11,-33.84466187267673,included_game_day
+2006,2502,Portland State Vikings,2006-02-16,-21.060771844888233,included_game_day
+2006,2502,Portland State Vikings,2006-02-18,-7.326002122131708,included_game_day
+2006,2502,Portland State Vikings,2006-02-23,11.183655321406466,included_game_day
+2006,2502,Portland State Vikings,2006-02-25,13.323804197891691,included_game_day
+2006,2502,Portland State Vikings,2006-03-04,9.698904653694747,included_game_day
+2007,2502,Portland State Vikings,2006-11-10,-28.0,included_game_day
+2007,2502,Portland State Vikings,2006-11-11,-19.1,included_game_day
+2007,2502,Portland State Vikings,2006-11-12,-60.300000000000004,included_game_day
+2007,2502,Portland State Vikings,2006-11-18,-48.28,included_game_day
+2007,2502,Portland State Vikings,2006-11-27,-35.242580000000004,included_game_day
+2007,2502,Portland State Vikings,2006-11-30,-37.396699000000005,included_game_day
+2007,2502,Portland State Vikings,2006-12-02,-32.744067005000005,included_game_day
+2007,2502,Portland State Vikings,2006-12-10,-21.946001866800003,included_game_day
+2007,2502,Portland State Vikings,2006-12-16,-44.832166421014,included_game_day
+2007,2502,Portland State Vikings,2006-12-19,-18.9443016215076,included_game_day
+2007,2502,Portland State Vikings,2006-12-21,5.5953134812830925,included_game_day
+2007,2502,Portland State Vikings,2006-12-28,-5.028029169095717,included_game_day
+2007,2502,Portland State Vikings,2006-12-30,-1.225021725410686,included_game_day
+2007,2502,Portland State Vikings,2007-01-04,-11.456384452910834,included_game_day
+2007,2502,Portland State Vikings,2007-01-06,-2.2568932797194687,included_game_day
+2007,2502,Portland State Vikings,2007-01-10,-10.045379184698891,included_game_day
+2007,2502,Portland State Vikings,2007-01-13,-33.177512334204756,included_game_day
+2007,2502,Portland State Vikings,2007-01-18,-26.036604120345658,included_game_day
+2007,2502,Portland State Vikings,2007-01-20,-22.46405789277691,included_game_day
+2007,2502,Portland State Vikings,2007-01-26,-33.02372547096823,included_game_day
+2007,2502,Portland State Vikings,2007-01-27,-24.837186618644672,included_game_day
+2007,2502,Portland State Vikings,2007-02-01,-17.87031118720906,included_game_day
+2007,2502,Portland State Vikings,2007-02-03,-25.531743202992114,included_game_day
+2007,2502,Portland State Vikings,2007-02-08,-28.919130324991247,included_game_day
+2007,2502,Portland State Vikings,2007-02-10,-19.093404583141638,included_game_day
+2007,2502,Portland State Vikings,2007-02-17,-18.686928043881302,included_game_day
+2007,2502,Portland State Vikings,2007-02-22,-3.584289867537077,included_game_day
+2007,2502,Portland State Vikings,2007-02-24,-0.3358508188939946,included_game_day
+2007,2502,Portland State Vikings,2007-03-03,16.71295849878495,included_game_day
+2007,2502,Portland State Vikings,2007-03-06,11.68277012846773,included_game_day
+2008,2502,Portland State Vikings,2007-11-09,-18.0,included_game_day
+2008,2502,Portland State Vikings,2007-11-17,-14.7,included_game_day
+2008,2502,Portland State Vikings,2007-11-18,-7.180999999999999,included_game_day
+2008,2502,Portland State Vikings,2007-11-24,-15.052509999999998,included_game_day
+2008,2502,Portland State Vikings,2007-11-28,-6.570336899999997,included_game_day
+2008,2502,Portland State Vikings,2007-12-01,5.424662790000003,included_game_day
+2008,2502,Portland State Vikings,2007-12-09,6.053534445560004,included_game_day
+2008,2502,Portland State Vikings,2007-12-12,4.510837605804003,included_game_day
+2008,2502,Portland State Vikings,2007-12-18,-11.549514145701597,included_game_day
+2008,2502,Portland State Vikings,2007-12-22,-14.831356138661317,included_game_day
+2008,2502,Portland State Vikings,2007-12-28,-24.87795692741155,included_game_day
+2008,2502,Portland State Vikings,2008-01-03,-10.212229483962242,included_game_day
+2008,2502,Portland State Vikings,2008-01-05,2.551037071421648,included_game_day
+2008,2502,Portland State Vikings,2008-01-10,-2.1755973940511897,included_game_day
+2008,2502,Portland State Vikings,2008-01-13,1.257061796923935,included_game_day
+2008,2502,Portland State Vikings,2008-01-31,-0.7667402325664634,included_game_day
+2008,2502,Portland State Vikings,2008-02-02,6.873462095284508,included_game_day
+2008,2502,Portland State Vikings,2008-02-07,13.578243845072844,included_game_day
+2008,2502,Portland State Vikings,2008-02-09,25.377668729600664,included_game_day
+2008,2502,Portland State Vikings,2008-02-14,36.15158531194328,included_game_day
+2008,2502,Portland State Vikings,2008-02-16,29.23576724343164,included_game_day
+2008,2502,Portland State Vikings,2008-02-20,32.91098581744436,included_game_day
+2008,2502,Portland State Vikings,2008-02-23,22.344910138642476,included_game_day
+2008,2502,Portland State Vikings,2008-02-28,45.98395104982497,included_game_day
+2008,2502,Portland State Vikings,2008-03-01,97.50565816411606,included_game_day
+2008,2502,Portland State Vikings,2008-03-04,81.35403306684216,included_game_day
+2008,2502,Portland State Vikings,2008-03-11,76.35490640449758,included_game_day
+2008,2502,Portland State Vikings,2008-03-12,86.97954822514279,included_game_day
+2008,2502,Portland State Vikings,2008-03-20,78.7612388105294,included_game_day
+2009,2502,Portland State Vikings,2008-11-15,7.0,included_game_day
+2009,2502,Portland State Vikings,2008-11-18,8.6,included_game_day
+2009,2502,Portland State Vikings,2008-11-23,6.7299999999999995,included_game_day
+2009,2502,Portland State Vikings,2008-11-27,27.2954,included_game_day
+2009,2502,Portland State Vikings,2008-11-28,17.76016,included_game_day
+2009,2502,Portland State Vikings,2008-11-29,27.964025999999997,included_game_day
+2009,2502,Portland State Vikings,2008-12-06,24.127118799999998,included_game_day
+2009,2502,Portland State Vikings,2008-12-14,30.1000197152,included_game_day
+2009,2502,Portland State Vikings,2008-12-17,25.36258652238,included_game_day
+2009,2502,Portland State Vikings,2008-12-20,47.68146702609203,included_game_day
+2009,2502,Portland State Vikings,2008-12-23,64.68307150162904,included_game_day
+2009,2502,Portland State Vikings,2008-12-27,58.01489010607259,included_game_day
+2009,2502,Portland State Vikings,2008-12-29,50.24149100427339,included_game_day
+2009,2502,Portland State Vikings,2009-01-02,49.18304839475556,included_game_day
+2009,2502,Portland State Vikings,2009-01-04,46.18590557797469,included_game_day
+2009,2502,Portland State Vikings,2009-01-08,22.263211218974014,included_game_day
+2009,2502,Portland State Vikings,2009-01-10,38.93601211367876,included_game_day
+2009,2502,Portland State Vikings,2009-01-18,48.27385900591755,included_game_day
+2009,2502,Portland State Vikings,2009-01-24,54.79408937875978,included_game_day
+2009,2502,Portland State Vikings,2009-01-29,43.701041366932046,included_game_day
+2009,2502,Portland State Vikings,2009-02-01,35.497478094083185,included_game_day
+2009,2502,Portland State Vikings,2009-02-05,38.64732862167658,included_game_day
+2009,2502,Portland State Vikings,2009-02-08,34.105245352729604,included_game_day
+2009,2502,Portland State Vikings,2009-02-12,20.173073455758825,included_game_day
+2009,2502,Portland State Vikings,2009-02-14,14.280765335764283,included_game_day
+2009,2502,Portland State Vikings,2009-02-19,9.080021316195737,included_game_day
+2009,2502,Portland State Vikings,2009-02-21,19.184871422664926,included_game_day
+2009,2502,Portland State Vikings,2009-02-25,14.459249931742724,included_game_day
+2009,2502,Portland State Vikings,2009-02-28,13.960972224589323,included_game_day
+2009,2502,Portland State Vikings,2009-03-10,21.270220851164872,included_game_day
+2009,2502,Portland State Vikings,2009-03-11,16.930812914807145,included_game_day
+2009,2502,Portland State Vikings,2009-03-20,8.631767003910674,included_game_day
+2010,2502,Portland State Vikings,2009-11-13,-7.0,included_game_day
+2010,2502,Portland State Vikings,2009-11-14,-11.5,included_game_day
+2010,2502,Portland State Vikings,2009-11-15,-61.6,included_game_day
+2010,2502,Portland State Vikings,2009-11-21,-51.66,included_game_day
+2010,2502,Portland State Vikings,2009-11-29,-60.38444199999999,included_game_day
+2010,2502,Portland State Vikings,2009-12-02,-42.80543254,included_game_day
+2010,2502,Portland State Vikings,2009-12-05,-21.889659285999997,included_game_day
+2010,2502,Portland State Vikings,2009-12-13,-7.403710215763496,included_game_day
+2010,2502,Portland State Vikings,2009-12-15,-17.568507251287148,included_game_day
+2010,2502,Portland State Vikings,2009-12-19,-30.875688031192936,included_game_day
+2010,2502,Portland State Vikings,2009-12-21,-28.98695577300106,included_game_day
+2010,2502,Portland State Vikings,2010-01-02,-8.76843851481803,included_game_day
+2010,2502,Portland State Vikings,2010-01-08,-10.508834961726564,included_game_day
+2010,2502,Portland State Vikings,2010-01-09,-35.76081502271556,included_game_day
+2010,2502,Portland State Vikings,2010-01-15,-11.930310678075067,included_game_day
+2010,2502,Portland State Vikings,2010-01-17,-25.96379873846565,included_game_day
+2010,2502,Portland State Vikings,2010-01-22,-19.07580210216084,included_game_day
+2010,2502,Portland State Vikings,2010-01-23,-27.227204579808745,included_game_day
+2010,2502,Portland State Vikings,2010-01-30,-23.25369050573528,included_game_day
+2010,2502,Portland State Vikings,2010-02-05,-9.148836871805697,included_game_day
+2010,2502,Portland State Vikings,2010-02-07,-19.796028869420184,included_game_day
+2010,2502,Portland State Vikings,2010-02-12,-18.68736546733993,included_game_day
+2010,2502,Portland State Vikings,2010-02-13,-31.438130234898736,included_game_day
+2010,2502,Portland State Vikings,2010-02-18,-30.468004037406065,included_game_day
+2010,2502,Portland State Vikings,2010-02-20,-25.504348416233626,included_game_day
+2010,2502,Portland State Vikings,2010-02-26,0.30060862775675545,included_game_day
+2010,2502,Portland State Vikings,2010-02-28,9.24901268502856,included_game_day
+2010,2502,Portland State Vikings,2010-03-02,-2.0695802614575527,included_game_day
+2010,2502,Portland State Vikings,2010-03-06,2.2594136368437105,included_game_day
+2010,2502,Portland State Vikings,2010-03-09,2.117096787479639,included_game_day
+2011,2502,Portland State Vikings,2010-11-12,-1.0,included_game_day
+2011,2502,Portland State Vikings,2010-11-19,-16.560000000000002,included_game_day
+2011,2502,Portland State Vikings,2010-11-20,-9.814000000000002,included_game_day
+2011,2502,Portland State Vikings,2010-11-21,-1.9140000000000015,included_game_day
+2011,2502,Portland State Vikings,2010-12-01,-4.293377600000001,included_game_day
+2011,2502,Portland State Vikings,2010-12-05,-19.7706786694,included_game_day
+2011,2502,Portland State Vikings,2010-12-12,-17.50778009457,included_game_day
+2011,2502,Portland State Vikings,2010-12-15,-28.541858289917,included_game_day
+2011,2502,Portland State Vikings,2010-12-18,-37.7871397585903,included_game_day
+2011,2502,Portland State Vikings,2010-12-20,-38.750030978273955,included_game_day
+2011,2502,Portland State Vikings,2010-12-23,-20.2404779273896,included_game_day
+2011,2502,Portland State Vikings,2010-12-29,-35.75773351130814,included_game_day
+2011,2502,Portland State Vikings,2011-01-02,-28.006265939128475,included_game_day
+2011,2502,Portland State Vikings,2011-01-08,-19.69381182061558,included_game_day
+2011,2502,Portland State Vikings,2011-01-13,-25.295284537907758,included_game_day
+2011,2502,Portland State Vikings,2011-01-15,-22.688046788632327,included_game_day
+2011,2502,Portland State Vikings,2011-01-20,-22.782989615187706,included_game_day
+2011,2502,Portland State Vikings,2011-01-22,-35.51913377386874,included_game_day
+2011,2502,Portland State Vikings,2011-01-27,-49.87745315258672,included_game_day
+2011,2502,Portland State Vikings,2011-01-29,-49.878144063082324,included_game_day
+2011,2502,Portland State Vikings,2011-02-03,-57.87869679147881,included_game_day
+2011,2502,Portland State Vikings,2011-02-05,-59.464710833694284,included_game_day
+2011,2502,Portland State Vikings,2011-02-10,-69.33699830859395,included_game_day
+2011,2502,Portland State Vikings,2011-02-16,-76.69437871553575,included_game_day
+2011,2502,Portland State Vikings,2011-02-19,-67.16590688466296,included_game_day
+2011,2502,Portland State Vikings,2011-02-24,-60.92741702639951,included_game_day
+2011,2502,Portland State Vikings,2011-02-26,-59.79212630948005,included_game_day
+2011,2502,Portland State Vikings,2011-03-02,-74.13728747856771,included_game_day
+2011,2502,Portland State Vikings,2011-03-10,-59.26786138577212,included_game_day
+2012,2502,Portland State Vikings,2011-11-11,-5.0,included_game_day
+2012,2502,Portland State Vikings,2011-11-15,-6.5,included_game_day
+2012,2502,Portland State Vikings,2011-11-25,-15.632083999999999,included_game_day
+2012,2502,Portland State Vikings,2011-11-26,4.6335944,included_game_day
+2012,2502,Portland State Vikings,2011-11-27,3.1533543999999996,included_game_day
+2012,2502,Portland State Vikings,2011-12-10,-2.7623995729000006,included_game_day
+2012,2502,Portland State Vikings,2011-12-12,-6.88595659271,included_game_day
+2012,2502,Portland State Vikings,2011-12-15,-6.880876622417,included_game_day
+2012,2502,Portland State Vikings,2011-12-18,-28.54639812902697,included_game_day
+2012,2502,Portland State Vikings,2011-12-22,-24.61127950342427,included_game_day
+2012,2502,Portland State Vikings,2011-12-28,-30.089948909855213,included_game_day
+2012,2502,Portland State Vikings,2011-12-30,-45.49177648806532,included_game_day
+2012,2502,Portland State Vikings,2012-01-05,-31.477305653675177,included_game_day
+2012,2502,Portland State Vikings,2012-01-07,-36.20969566240532,included_game_day
+2012,2502,Portland State Vikings,2012-01-12,-20.529647328432354,included_game_day
+2012,2502,Portland State Vikings,2012-01-16,-18.42831015456547,included_game_day
+2012,2502,Portland State Vikings,2012-01-21,-13.818598859753696,included_game_day
+2012,2502,Portland State Vikings,2012-01-26,-25.375843614547872,included_game_day
+2012,2502,Portland State Vikings,2012-01-29,-21.631970748050435,included_game_day
+2012,2502,Portland State Vikings,2012-02-02,-26.184674402519626,included_game_day
+2012,2502,Portland State Vikings,2012-02-04,-23.584150755492555,included_game_day
+2012,2502,Portland State Vikings,2012-02-09,-13.27577386151028,included_game_day
+2012,2502,Portland State Vikings,2012-02-15,-0.56364285876802,included_game_day
+2012,2502,Portland State Vikings,2012-02-18,-5.6894289906315,included_game_day
+2012,2502,Portland State Vikings,2012-02-23,-2.427549014590568,included_game_day
+2012,2502,Portland State Vikings,2012-02-25,-3.6450139121819607,included_game_day
+2012,2502,Portland State Vikings,2012-02-28,-11.199693155526509,included_game_day
+2012,2502,Portland State Vikings,2012-03-03,3.0868792643922287,included_game_day
+2012,2502,Portland State Vikings,2012-03-06,0.7743635133780882,included_game_day
+2012,2502,Portland State Vikings,2012-03-10,-8.269264276153995,included_game_day
+2013,2502,Portland State Vikings,2012-11-12,-7.3,included_game_day
+2013,2502,Portland State Vikings,2012-11-21,-28.441,included_game_day
+2013,2502,Portland State Vikings,2012-11-25,-40.64931,included_game_day
+2013,2502,Portland State Vikings,2012-12-01,-44.47913751,included_game_day
+2013,2502,Portland State Vikings,2012-12-12,-43.987664074,included_game_day
+2013,2502,Portland State Vikings,2012-12-20,-35.38711504036,included_game_day
+2013,2502,Portland State Vikings,2012-12-22,-35.29766649788605,included_game_day
+2013,2502,Portland State Vikings,2013-01-03,-35.61605942636344,included_game_day
+2013,2502,Portland State Vikings,2013-01-05,-36.910323942422785,included_game_day
+2013,2502,Portland State Vikings,2013-01-10,-21.22232750261698,included_game_day
+2013,2502,Portland State Vikings,2013-01-12,-29.43061210868057,included_game_day
+2013,2502,Portland State Vikings,2013-01-17,-49.294453972768345,included_game_day
+2013,2502,Portland State Vikings,2013-01-19,-55.97630676706519,included_game_day
+2013,2502,Portland State Vikings,2013-01-24,-67.65944943853964,included_game_day
+2013,2502,Portland State Vikings,2013-01-28,-79.22962188624878,included_game_day
+2013,2502,Portland State Vikings,2013-01-31,-86.58617593052897,included_game_day
+2013,2502,Portland State Vikings,2013-02-02,-91.89616885098793,included_game_day
+2013,2502,Portland State Vikings,2013-02-07,-95.46782457128779,included_game_day
+2013,2502,Portland State Vikings,2013-02-09,-94.19656481952546,included_game_day
+2013,2502,Portland State Vikings,2013-02-14,-71.29220159780559,included_game_day
+2013,2502,Portland State Vikings,2013-02-18,-65.75678069392715,included_game_day
+2013,2502,Portland State Vikings,2013-02-23,-63.81085297472553,included_game_day
+2013,2502,Portland State Vikings,2013-02-28,-74.6173663688792,included_game_day
+2013,2502,Portland State Vikings,2013-03-02,-83.1013120229999,included_game_day
+2013,2502,Portland State Vikings,2013-03-07,-93.59839474571385,included_game_day
+2013,2502,Portland State Vikings,2013-03-09,-91.89253354553736,included_game_day
+2014,2502,Portland State Vikings,2013-11-08,-16.0,included_game_day
+2014,2502,Portland State Vikings,2013-11-22,-13.7036,included_game_day
+2014,2502,Portland State Vikings,2013-11-23,-14.19414,included_game_day
+2014,2502,Portland State Vikings,2013-11-24,-3.0021400000000007,included_game_day
+2014,2502,Portland State Vikings,2013-11-29,-9.98869177,included_game_day
+2014,2502,Portland State Vikings,2013-12-07,-23.669387311999998,included_game_day
+2014,2502,Portland State Vikings,2013-12-14,-27.631929827340997,included_game_day
+2014,2502,Portland State Vikings,2014-01-02,-35.57408781604968,included_game_day
+2014,2502,Portland State Vikings,2014-01-04,-48.01080762338924,included_game_day
+2014,2502,Portland State Vikings,2014-01-09,-51.61206172013832,included_game_day
+2014,2502,Portland State Vikings,2014-01-11,-48.95251817147411,included_game_day
+2014,2502,Portland State Vikings,2014-01-16,-42.326370879535986,included_game_day
+2014,2502,Portland State Vikings,2014-01-18,-55.449162209508,included_game_day
+2014,2502,Portland State Vikings,2014-01-25,-66.30721742291973,included_game_day
+2014,2502,Portland State Vikings,2014-01-27,-60.04013262491353,included_game_day
+2014,2502,Portland State Vikings,2014-01-30,-30.49220839270133,included_game_day
+2014,2502,Portland State Vikings,2014-02-01,-31.155216046330807,included_game_day
+2014,2502,Portland State Vikings,2014-02-06,-33.13147550111026,included_game_day
+2014,2502,Portland State Vikings,2014-02-08,-40.83539772622994,included_game_day
+2014,2502,Portland State Vikings,2014-02-13,-46.47403809916333,included_game_day
+2014,2502,Portland State Vikings,2014-02-15,-56.018371967468596,included_game_day
+2014,2502,Portland State Vikings,2014-02-20,-55.11790930366248,included_game_day
+2014,2502,Portland State Vikings,2014-02-24,-36.87221579036353,included_game_day
+2014,2502,Portland State Vikings,2014-02-27,-42.926716344550464,included_game_day
+2014,2502,Portland State Vikings,2014-03-01,-30.574189724837094,included_game_day
+2014,2502,Portland State Vikings,2014-03-06,-22.08984012517719,included_game_day
+2014,2502,Portland State Vikings,2014-03-08,-22.18543784405299,included_game_day
+2014,2502,Portland State Vikings,2014-03-13,-14.652866244883931,included_game_day
+2014,2502,Portland State Vikings,2014-03-14,-32.717328450109704,included_game_day
+2014,2502,Portland State Vikings,2014-03-18,-46.92015125246649,included_game_day
+2015,2502,Portland State Vikings,2014-11-15,11.0,included_game_day
+2015,2502,Portland State Vikings,2014-11-24,7.54,included_game_day
+2015,2502,Portland State Vikings,2014-11-26,15.43674,included_game_day
+2015,2502,Portland State Vikings,2014-11-30,-2.4877910000000014,included_game_day
+2015,2502,Portland State Vikings,2014-12-03,-9.293051400000001,included_game_day
+2015,2502,Portland State Vikings,2014-12-06,-33.86704426,included_game_day
+2015,2502,Portland State Vikings,2014-12-13,-30.5809338088,included_game_day
+2015,2502,Portland State Vikings,2014-12-18,-59.3410280822768,included_game_day
+2015,2502,Portland State Vikings,2015-01-01,-61.98692598267123,included_game_day
+2015,2502,Portland State Vikings,2015-01-03,-75.85906515358761,included_game_day
+2015,2502,Portland State Vikings,2015-01-08,-73.33624168558812,included_game_day
+2015,2502,Portland State Vikings,2015-01-10,-63.765542695982504,included_game_day
+2015,2502,Portland State Vikings,2015-01-15,-64.84704662535421,included_game_day
+2015,2502,Portland State Vikings,2015-01-17,-50.866682839503746,included_game_day
+2015,2502,Portland State Vikings,2015-01-22,-40.71145494797293,included_game_day
+2015,2502,Portland State Vikings,2015-01-24,-45.57042808086343,included_game_day
+2015,2502,Portland State Vikings,2015-01-29,-63.614936705773005,included_game_day
+2015,2502,Portland State Vikings,2015-01-31,-51.42289488214989,included_game_day
+2015,2502,Portland State Vikings,2015-02-07,-47.51845010677271,included_game_day
+2015,2502,Portland State Vikings,2015-02-12,-54.61043804909209,included_game_day
+2015,2502,Portland State Vikings,2015-02-14,-41.86046145314811,included_game_day
+2015,2502,Portland State Vikings,2015-02-19,-40.17974269815449,included_game_day
+2015,2502,Portland State Vikings,2015-02-21,-27.14962565068629,included_game_day
+2015,2502,Portland State Vikings,2015-02-28,-42.01054992569317,included_game_day
+2015,2502,Portland State Vikings,2015-03-05,-42.6422193407694,included_game_day
+2015,2502,Portland State Vikings,2015-03-07,-28.29322414258002,included_game_day
+2015,2502,Portland State Vikings,2015-03-12,-36.204215678584426,included_game_day
+2016,2502,Portland State Vikings,2015-11-13,-7.0,included_game_day
+2016,2502,Portland State Vikings,2015-11-22,10.760000000000002,included_game_day
+2016,2502,Portland State Vikings,2015-11-25,13.284000000000002,included_game_day
+2016,2502,Portland State Vikings,2015-12-02,5.036153500000001,included_game_day
+2016,2502,Portland State Vikings,2015-12-06,-15.65874015,included_game_day
+2016,2502,Portland State Vikings,2015-12-12,-25.994573662059,included_game_day
+2016,2502,Portland State Vikings,2015-12-17,-39.2454785012531,included_game_day
+2016,2502,Portland State Vikings,2015-12-22,-43.44549284061164,included_game_day
+2016,2502,Portland State Vikings,2015-12-29,-36.5704811129185,included_game_day
+2016,2502,Portland State Vikings,2016-01-02,-28.621186959621525,included_game_day
+2016,2502,Portland State Vikings,2016-01-07,-37.78062185853646,included_game_day
+2016,2502,Portland State Vikings,2016-01-09,-28.887063701688973,included_game_day
+2016,2502,Portland State Vikings,2016-01-14,-40.12303371543846,included_game_day
+2016,2502,Portland State Vikings,2016-01-16,-49.6748148993102,included_game_day
+2016,2502,Portland State Vikings,2016-01-23,-27.60477629282215,included_game_day
+2016,2502,Portland State Vikings,2016-01-28,-52.726887803961645,included_game_day
+2016,2502,Portland State Vikings,2016-01-30,-49.11617283668352,included_game_day
+2016,2502,Portland State Vikings,2016-02-04,-37.92446484511609,included_game_day
+2016,2502,Portland State Vikings,2016-02-06,-39.500298558952856,included_game_day
+2016,2502,Portland State Vikings,2016-02-11,-50.83581051101071,included_game_day
+2016,2502,Portland State Vikings,2016-02-13,-48.14564120054419,included_game_day
+2016,2502,Portland State Vikings,2016-02-18,-55.94055739110857,included_game_day
+2016,2502,Portland State Vikings,2016-02-20,-35.68761571912571,included_game_day
+2016,2502,Portland State Vikings,2016-02-25,-32.62322137772523,included_game_day
+2016,2502,Portland State Vikings,2016-02-27,-31.69611192089524,included_game_day
+2016,2502,Portland State Vikings,2016-03-03,-38.21365623486334,included_game_day
+2016,2502,Portland State Vikings,2016-03-05,-49.50123947559847,included_game_day
+2016,2502,Portland State Vikings,2016-03-08,-44.82488726491669,included_game_day
+2016,2502,Portland State Vikings,2016-03-10,-43.163040385517114,included_game_day
+2017,2502,Portland State Vikings,2016-11-11,-15.0,included_game_day
+2017,2502,Portland State Vikings,2016-11-13,-16.5,included_game_day
+2017,2502,Portland State Vikings,2016-11-25,-29.826,included_game_day
+2017,2502,Portland State Vikings,2016-11-27,-20.62948,included_game_day
+2017,2502,Portland State Vikings,2016-12-03,-13.733796050000002,included_game_day
+2017,2502,Portland State Vikings,2016-12-10,-7.377647531100003,included_game_day
+2017,2502,Portland State Vikings,2016-12-16,3.903384428409998,included_game_day
+2017,2502,Portland State Vikings,2016-12-20,8.145944187414159,included_game_day
+2017,2502,Portland State Vikings,2016-12-29,40.43837914867133,included_game_day
+2017,2502,Portland State Vikings,2016-12-31,17.31608115993477,included_game_day
+2017,2502,Portland State Vikings,2017-01-07,9.907797800747463,included_game_day
+2017,2502,Portland State Vikings,2017-01-14,13.92683110584443,included_game_day
+2017,2502,Portland State Vikings,2017-01-16,-2.3375262766538096,included_game_day
+2017,2502,Portland State Vikings,2017-01-19,6.162142661528305,included_game_day
+2017,2502,Portland State Vikings,2017-01-21,-6.597159624170873,included_game_day
+2017,2502,Portland State Vikings,2017-01-28,-12.069770024077648,included_game_day
+2017,2502,Portland State Vikings,2017-02-02,-27.49818555625948,included_game_day
+2017,2502,Portland State Vikings,2017-02-04,-27.096151749853824,included_game_day
+2017,2502,Portland State Vikings,2017-02-09,-31.98228007700507,included_game_day
+2017,2502,Portland State Vikings,2017-02-11,-33.87303105364549,included_game_day
+2017,2502,Portland State Vikings,2017-02-16,-33.04125132374305,included_game_day
+2017,2502,Portland State Vikings,2017-02-18,-31.055241110885646,included_game_day
+2017,2502,Portland State Vikings,2017-02-23,-36.19775843033472,included_game_day
+2017,2502,Portland State Vikings,2017-02-25,-32.73780607588096,included_game_day
+2017,2502,Portland State Vikings,2017-03-02,-36.55468804498671,included_game_day
+2017,2502,Portland State Vikings,2017-03-04,-37.010290928104396,included_game_day
+2017,2502,Portland State Vikings,2017-03-07,-27.13898901083037,included_game_day
+2017,2502,Portland State Vikings,2017-03-09,-45.49060150905192,included_game_day
+2018,2502,Portland State Vikings,2017-11-11,8.0,included_game_day
+2018,2502,Portland State Vikings,2017-11-18,22.27,included_game_day
+2018,2502,Portland State Vikings,2017-11-20,23.2636,included_game_day
+2018,2502,Portland State Vikings,2017-11-23,10.545990000000002,included_game_day
+2018,2502,Portland State Vikings,2017-11-24,9.264481000000002,included_game_day
+2018,2502,Portland State Vikings,2017-11-26,14.778637000000002,included_game_day
+2018,2502,Portland State Vikings,2017-12-06,24.889547498,included_game_day
+2018,2502,Portland State Vikings,2017-12-09,26.186277573199998,included_game_day
+2018,2502,Portland State Vikings,2017-12-13,22.393286204157,included_game_day
+2018,2502,Portland State Vikings,2017-12-21,48.58582267815585,included_game_day
+2018,2502,Portland State Vikings,2017-12-30,34.01421246295329,included_game_day
+2018,2502,Portland State Vikings,2018-01-04,27.143927235270073,included_game_day
+2018,2502,Portland State Vikings,2018-01-06,31.44888410146406,included_game_day
+2018,2502,Portland State Vikings,2018-01-11,42.416445464253165,included_game_day
+2018,2502,Portland State Vikings,2018-01-13,39.32184207447935,included_game_day
+2018,2502,Portland State Vikings,2018-01-18,36.9274401392714,included_game_day
+2018,2502,Portland State Vikings,2018-01-20,32.158493124868706,included_game_day
+2018,2502,Portland State Vikings,2018-01-27,10.753961580721736,included_game_day
+2018,2502,Portland State Vikings,2018-02-01,-0.3811296539840683,included_game_day
+2018,2502,Portland State Vikings,2018-02-03,12.99710691538748,included_game_day
+2018,2502,Portland State Vikings,2018-02-08,2.9739581439302007,included_game_day
+2018,2502,Portland State Vikings,2018-02-10,2.630259144923654,included_game_day
+2018,2502,Portland State Vikings,2018-02-15,-5.498178166819171,included_game_day
+2018,2502,Portland State Vikings,2018-02-17,2.4424110246363204,included_game_day
+2018,2502,Portland State Vikings,2018-02-22,3.2557351266410315,included_game_day
+2018,2502,Portland State Vikings,2018-02-24,-0.5922803602796378,included_game_day
+2018,2502,Portland State Vikings,2018-03-01,-4.920150506991414,included_game_day
+2018,2502,Portland State Vikings,2018-03-03,-5.84439504848765,included_game_day
+2018,2502,Portland State Vikings,2018-03-06,-8.443944565596514,included_game_day
+2018,2502,Portland State Vikings,2018-03-08,-9.05760360882362,included_game_day
+2018,2502,Portland State Vikings,2018-03-17,-5.544234112983678,included_game_day
+2019,2502,Portland State Vikings,2018-11-06,-24.0,included_game_day
+2019,2502,Portland State Vikings,2018-11-10,-18.6,included_game_day
+2019,2502,Portland State Vikings,2018-11-23,-23.2462,included_game_day
+2019,2502,Portland State Vikings,2018-11-28,-30.342195200000003,included_game_day
+2019,2502,Portland State Vikings,2018-12-05,-24.858798500000002,included_game_day
+2019,2502,Portland State Vikings,2018-12-12,-32.010436974360005,included_game_day
+2019,2502,Portland State Vikings,2018-12-15,-55.987290910004006,included_game_day
+2019,2502,Portland State Vikings,2018-12-20,-57.367013257458254,included_game_day
+2019,2502,Portland State Vikings,2018-12-31,-68.6860398225194,included_game_day
+2019,2502,Portland State Vikings,2019-01-03,-73.41138604401647,included_game_day
+2019,2502,Portland State Vikings,2019-01-05,-55.02042250983865,included_game_day
+2019,2502,Portland State Vikings,2019-01-12,-60.57634097364314,included_game_day
+2019,2502,Portland State Vikings,2019-01-17,-72.71194448631388,included_game_day
+2019,2502,Portland State Vikings,2019-01-19,-75.72425953903152,included_game_day
+2019,2502,Portland State Vikings,2019-01-24,-63.93210402647897,included_game_day
+2019,2502,Portland State Vikings,2019-01-26,-55.19696173159825,included_game_day
+2019,2502,Portland State Vikings,2019-01-31,-43.77296123747607,included_game_day
+2019,2502,Portland State Vikings,2019-02-02,-48.76058320112826,included_game_day
+2019,2502,Portland State Vikings,2019-02-07,-58.947850516919786,included_game_day
+2019,2502,Portland State Vikings,2019-02-11,-64.60133039690726,included_game_day
+2019,2502,Portland State Vikings,2019-02-14,-61.374549773205004,included_game_day
+2019,2502,Portland State Vikings,2019-02-16,-54.00139289512158,included_game_day
+2019,2502,Portland State Vikings,2019-02-21,-54.91610580151609,included_game_day
+2019,2502,Portland State Vikings,2019-02-23,-48.478374758116914,included_game_day
+2019,2502,Portland State Vikings,2019-02-28,-56.00088739693838,included_game_day
+2019,2502,Portland State Vikings,2019-03-02,-52.023786048078186,included_game_day
+2019,2502,Portland State Vikings,2019-03-07,-34.62767126356201,included_game_day
+2019,2502,Portland State Vikings,2019-03-09,-32.015527695460804,included_game_day
+2019,2502,Portland State Vikings,2019-03-14,-39.751110755543934,included_game_day
+2020,2502,Portland State Vikings,2019-11-09,-5.0,included_game_day
+2020,2502,Portland State Vikings,2019-11-15,-9.324,included_game_day
+2020,2502,Portland State Vikings,2019-11-20,-16.5382,included_game_day
+2020,2502,Portland State Vikings,2019-11-23,-0.6410699999999991,included_game_day
+2020,2502,Portland State Vikings,2019-11-26,8.092955,included_game_day
+2020,2502,Portland State Vikings,2019-11-27,-1.5527104999999999,included_game_day
+2020,2502,Portland State Vikings,2019-12-01,4.291608050000001,included_game_day
+2020,2502,Portland State Vikings,2019-12-06,-0.07880208799999977,included_game_day
+2020,2502,Portland State Vikings,2019-12-17,-2.5887608296101,included_game_day
+2020,2502,Portland State Vikings,2019-12-19,9.801331750709094,included_game_day
+2020,2502,Portland State Vikings,2019-12-28,15.228185797148896,included_game_day
+2020,2502,Portland State Vikings,2019-12-30,9.564940964585787,included_game_day
+2020,2502,Portland State Vikings,2020-01-02,-6.366295252925029,included_game_day
+2020,2502,Portland State Vikings,2020-01-04,-3.2344754633245287,included_game_day
+2020,2502,Portland State Vikings,2020-01-11,-0.6361758161592554,included_game_day
+2020,2502,Portland State Vikings,2020-01-13,-11.201802134813342,included_game_day
+2020,2502,Portland State Vikings,2020-01-18,-12.752288385037268,included_game_day
+2020,2502,Portland State Vikings,2020-01-20,-3.4651281246091816,included_game_day
+2020,2502,Portland State Vikings,2020-01-23,-13.555608184613208,included_game_day
+2020,2502,Portland State Vikings,2020-01-25,-11.455306106927482,included_game_day
+2020,2502,Portland State Vikings,2020-01-30,-5.401081116949702,included_game_day
+2020,2502,Portland State Vikings,2020-02-08,-28.84791940177039,included_game_day
+2020,2502,Portland State Vikings,2020-02-10,-4.89160540652713,included_game_day
+2020,2502,Portland State Vikings,2020-02-15,-13.613038090344132,included_game_day
+2020,2502,Portland State Vikings,2020-02-17,-0.4623177992995249,included_game_day
+2020,2502,Portland State Vikings,2020-02-20,3.8853789534811023,included_game_day
+2020,2502,Portland State Vikings,2020-02-27,12.63514033123305,included_game_day
+2020,2502,Portland State Vikings,2020-02-29,15.0936776484908,included_game_day
+2020,2502,Portland State Vikings,2020-03-05,21.872366284396147,included_game_day
+2020,2502,Portland State Vikings,2020-03-07,21.35391958376364,included_game_day
+2021,2502,Portland State Vikings,2020-12-05,-11.5,included_game_day
+2021,2502,Portland State Vikings,2020-12-13,-16.4241,included_game_day
+2021,2502,Portland State Vikings,2020-12-18,-46.281873399999995,included_game_day
+2021,2502,Portland State Vikings,2020-12-20,-40.16809212,included_game_day
+2021,2502,Portland State Vikings,2020-12-22,-38.243737838,included_game_day
+2021,2502,Portland State Vikings,2021-01-14,-38.54643541357328,included_game_day
+2021,2502,Portland State Vikings,2021-01-16,-36.7885934740319,included_game_day
+2021,2502,Portland State Vikings,2021-01-21,-45.25021908535945,included_game_day
+2021,2502,Portland State Vikings,2021-01-23,-19.019519574421487,included_game_day
+2021,2502,Portland State Vikings,2021-02-04,-26.792829345733516,included_game_day
+2021,2502,Portland State Vikings,2021-02-06,-22.011477162783137,included_game_day
+2021,2502,Portland State Vikings,2021-02-18,-17.175622115131155,included_game_day
+2021,2502,Portland State Vikings,2021-02-20,3.6930619229904273,included_game_day
+2021,2502,Portland State Vikings,2021-02-25,1.2529725952962303,included_game_day
+2021,2502,Portland State Vikings,2021-02-27,9.300901133140872,included_game_day
+2021,2502,Portland State Vikings,2021-03-04,-0.8998055841781856,included_game_day
+2021,2502,Portland State Vikings,2021-03-06,-18.06037095803343,included_game_day
+2021,2502,Portland State Vikings,2021-03-10,-37.535869231433075,included_game_day
+2022,2502,Portland State Vikings,2021-11-09,-6.0,included_game_day
+2022,2502,Portland State Vikings,2021-11-23,-23.625105,included_game_day
+2022,2502,Portland State Vikings,2021-11-26,-41.6017165,included_game_day
+2022,2502,Portland State Vikings,2021-12-02,-32.246411168,included_game_day
+2022,2502,Portland State Vikings,2021-12-04,-31.5792847237,included_game_day
+2022,2502,Portland State Vikings,2021-12-11,-37.89234972933,included_game_day
+2022,2502,Portland State Vikings,2021-12-18,-41.4945026403336,included_game_day
+2022,2502,Portland State Vikings,2021-12-21,-47.42739437988993,included_game_day
+2022,2502,Portland State Vikings,2021-12-30,-52.53804045747931,included_game_day
+2022,2502,Portland State Vikings,2022-01-15,-43.0741081989017,included_game_day
+2022,2502,Portland State Vikings,2022-01-17,-46.302592493327055,included_game_day
+2022,2502,Portland State Vikings,2022-01-20,-45.47053846261163,included_game_day
+2022,2502,Portland State Vikings,2022-01-22,-54.42345013785736,included_game_day
+2022,2502,Portland State Vikings,2022-01-24,-66.40172992048738,included_game_day
+2022,2502,Portland State Vikings,2022-01-27,-67.17894554108821,included_game_day
+2022,2502,Portland State Vikings,2022-01-29,-45.11365234214503,included_game_day
+2022,2502,Portland State Vikings,2022-01-31,-42.149835254876805,included_game_day
+2022,2502,Portland State Vikings,2022-02-03,-29.778781585062227,included_game_day
+2022,2502,Portland State Vikings,2022-02-05,-30.918278453502502,included_game_day
+2022,2502,Portland State Vikings,2022-02-10,-22.348602123569396,included_game_day
+2022,2502,Portland State Vikings,2022-02-12,-28.672854400708488,included_game_day
+2022,2502,Portland State Vikings,2022-02-17,-35.72185022874271,included_game_day
+2022,2502,Portland State Vikings,2022-02-24,-29.957709533619788,included_game_day
+2022,2502,Portland State Vikings,2022-02-26,-33.68090184430034,included_game_day
+2022,2502,Portland State Vikings,2022-03-03,-25.929136992152948,included_game_day
+2022,2502,Portland State Vikings,2022-03-05,-30.13926171227174,included_game_day
+2022,2502,Portland State Vikings,2022-03-09,-20.690796797910416,included_game_day
+2022,2502,Portland State Vikings,2022-03-10,-3.7647925850481627,included_game_day
+2022,2502,Portland State Vikings,2022-03-11,-11.259304607854272,included_game_day
+2023,2502,Portland State Vikings,2022-11-11,-0.9199999999999999,included_game_day
+2023,2502,Portland State Vikings,2022-11-13,-8.128,included_game_day
+2023,2502,Portland State Vikings,2022-11-19,9.456800000000001,included_game_day
+2023,2502,Portland State Vikings,2022-11-25,-22.302925,included_game_day
+2023,2502,Portland State Vikings,2022-11-27,-9.389681199999998,included_game_day
+2023,2502,Portland State Vikings,2022-12-03,-5.593730861999999,included_game_day
+2023,2502,Portland State Vikings,2022-12-10,-26.586935725399996,included_game_day
+2023,2502,Portland State Vikings,2022-12-13,-23.824636216598996,included_game_day
+2023,2502,Portland State Vikings,2022-12-17,-34.2698065329491,included_game_day
+2023,2502,Portland State Vikings,2022-12-22,-24.586025283515188,included_game_day
+2023,2502,Portland State Vikings,2022-12-31,-32.12878427029001,included_game_day
+2023,2502,Portland State Vikings,2023-01-05,-37.13700842299785,included_game_day
+2023,2502,Portland State Vikings,2023-01-07,-16.94133451880448,included_game_day
+2023,2502,Portland State Vikings,2023-01-12,-25.32895261713306,included_game_day
+2023,2502,Portland State Vikings,2023-01-14,-33.30048178539418,included_game_day
+2023,2502,Portland State Vikings,2023-01-19,-44.25976432973073,included_game_day
+2023,2502,Portland State Vikings,2023-01-21,-33.20251271031498,included_game_day
+2023,2502,Portland State Vikings,2023-01-26,-37.582997502519426,included_game_day
+2023,2502,Portland State Vikings,2023-01-28,-43.39350909987145,included_game_day
+2023,2502,Portland State Vikings,2023-02-02,-44.8200012860038,included_game_day
+2023,2502,Portland State Vikings,2023-02-04,-48.674099524539045,included_game_day
+2023,2502,Portland State Vikings,2023-02-09,-51.187575550325796,included_game_day
+2023,2502,Portland State Vikings,2023-02-11,-44.77332241318082,included_game_day
+2023,2502,Portland State Vikings,2023-02-16,-38.650608367060734,included_game_day
+2023,2502,Portland State Vikings,2023-02-18,-48.03226485047362,included_game_day
+2023,2502,Portland State Vikings,2023-02-25,-51.278133100908896,included_game_day
+2023,2502,Portland State Vikings,2023-02-27,-55.76829889168617,included_game_day
+2023,2502,Portland State Vikings,2023-03-04,-54.65582472219133,included_game_day
+2024,2502,Portland State Vikings,2023-11-06,10.0,included_game_day
+2024,2502,Portland State Vikings,2023-11-09,18.0,included_game_day
+2024,2502,Portland State Vikings,2023-11-17,22.944,included_game_day
+2024,2502,Portland State Vikings,2023-11-18,34.2231,included_game_day
+2024,2502,Portland State Vikings,2023-11-19,24.079100000000004,included_game_day
+2024,2502,Portland State Vikings,2023-11-28,17.579960000000003,included_game_day
+2024,2502,Portland State Vikings,2023-12-02,15.814858400000004,included_game_day
+2024,2502,Portland State Vikings,2023-12-15,11.114829893789103,included_game_day
+2024,2502,Portland State Vikings,2023-12-18,14.803594162894992,included_game_day
+2024,2502,Portland State Vikings,2023-12-28,-20.7556321702945,included_game_day
+2024,2502,Portland State Vikings,2023-12-30,-14.47129471881236,included_game_day
+2024,2502,Portland State Vikings,2024-01-06,-30.400839042036182,included_game_day
+2024,2502,Portland State Vikings,2024-01-11,-42.72045291957401,included_game_day
+2024,2502,Portland State Vikings,2024-01-13,-34.435595827538634,included_game_day
+2024,2502,Portland State Vikings,2024-01-18,-60.57945394666132,included_game_day
+2024,2502,Portland State Vikings,2024-01-20,-81.46679496448434,included_game_day
+2024,2502,Portland State Vikings,2024-01-25,-45.197178423117535,included_game_day
+2024,2502,Portland State Vikings,2024-01-27,-43.43045740381666,included_game_day
+2024,2502,Portland State Vikings,2024-02-03,-42.527851771053854,included_game_day
+2024,2502,Portland State Vikings,2024-02-05,-49.74147992273478,included_game_day
+2024,2502,Portland State Vikings,2024-02-08,-51.14102515356038,included_game_day
+2024,2502,Portland State Vikings,2024-02-10,-47.29976910669371,included_game_day
+2024,2502,Portland State Vikings,2024-02-15,-34.454566717205196,included_game_day
+2024,2502,Portland State Vikings,2024-02-17,-26.387837128821275,included_game_day
+2024,2502,Portland State Vikings,2024-02-22,-30.7694014808884,included_game_day
+2024,2502,Portland State Vikings,2024-02-24,-33.55328816427913,included_game_day
+2024,2502,Portland State Vikings,2024-03-02,-48.60310919551048,included_game_day
+2024,2502,Portland State Vikings,2024-03-04,-39.83816294013397,included_game_day
+2024,2502,Portland State Vikings,2024-03-11,-39.179534918148725,included_game_day
+2025,2502,Portland State Vikings,2024-11-04,-5.0,included_game_day
+2025,2502,Portland State Vikings,2024-11-12,7.8420000000000005,included_game_day
+2025,2502,Portland State Vikings,2024-11-22,-8.50707,included_game_day
+2025,2502,Portland State Vikings,2024-11-23,-35.081098,included_game_day
+2025,2502,Portland State Vikings,2024-11-24,-29.642314,included_game_day
+2025,2502,Portland State Vikings,2024-11-30,-31.31636059,included_game_day
+2025,2502,Portland State Vikings,2024-12-04,-42.451419209,included_game_day
+2025,2502,Portland State Vikings,2024-12-07,-47.7493845592,included_game_day
+2025,2502,Portland State Vikings,2024-12-18,-38.0804895633724,included_game_day
+2025,2502,Portland State Vikings,2024-12-21,-31.288461211795763,included_game_day
+2025,2502,Portland State Vikings,2025-01-04,-36.850926776507684,included_game_day
+2025,2502,Portland State Vikings,2025-01-09,-37.10138613567854,included_game_day
+2025,2502,Portland State Vikings,2025-01-11,-26.110021165695713,included_game_day
+2025,2502,Portland State Vikings,2025-01-16,-21.02784725064593,included_game_day
+2025,2502,Portland State Vikings,2025-01-18,-6.184461208241274,included_game_day
+2025,2502,Portland State Vikings,2025-01-23,3.4443875946583127,included_game_day
+2025,2502,Portland State Vikings,2025-01-25,15.629808177340369,included_game_day
+2025,2502,Portland State Vikings,2025-01-30,-0.785019791258101,included_game_day
+2025,2502,Portland State Vikings,2025-02-01,-1.0174053786105466,included_game_day
+2025,2502,Portland State Vikings,2025-02-06,4.816029941012504,included_game_day
+2025,2502,Portland State Vikings,2025-02-08,-2.5025264068574113,included_game_day
+2025,2502,Portland State Vikings,2025-02-13,3.769353869131292,included_game_day
+2025,2502,Portland State Vikings,2025-02-15,13.911871364612665,included_game_day
+2025,2502,Portland State Vikings,2025-02-20,4.239713080954289,included_game_day
+2025,2502,Portland State Vikings,2025-02-22,-4.258670681564169,included_game_day
+2025,2502,Portland State Vikings,2025-02-27,7.321837463517442,included_game_day
+2025,2502,Portland State Vikings,2025-03-01,7.773181234868478,included_game_day
+2025,2502,Portland State Vikings,2025-03-03,-5.743766975305395,included_game_day
+2025,2502,Portland State Vikings,2025-03-10,-21.77786157472764,included_game_day
+2026,2502,Portland State Vikings,2025-11-04,-7.0,included_game_day
+2026,2502,Portland State Vikings,2025-11-12,-13.6,included_game_day
+2026,2502,Portland State Vikings,2025-11-17,-4.649699999999999,included_game_day
+2026,2502,Portland State Vikings,2025-11-25,1.2472400000000006,included_game_day
+2026,2502,Portland State Vikings,2025-12-03,8.043047430800002,included_game_day
+2026,2502,Portland State Vikings,2025-12-06,-6.009979256479998,included_game_day
+2026,2502,Portland State Vikings,2025-12-17,-5.772716429467998,included_game_day
+2026,2502,Portland State Vikings,2025-12-20,-7.939127441361198,included_game_day
+2026,2502,Portland State Vikings,2026-01-01,-1.1217030610884615,included_game_day
+2026,2502,Portland State Vikings,2026-01-03,9.070416212698088,included_game_day
+2026,2502,Portland State Vikings,2026-01-10,25.038275875320103,included_game_day
+2026,2502,Portland State Vikings,2026-01-15,21.901156735796768,included_game_day
+2026,2502,Portland State Vikings,2026-01-17,18.18345852354003,included_game_day
+2026,2502,Portland State Vikings,2026-01-22,19.596855336030035,included_game_day
+2026,2502,Portland State Vikings,2026-01-24,22.98620397882867,included_game_day
+2026,2502,Portland State Vikings,2026-01-29,14.764586277042866,included_game_day
+2026,2502,Portland State Vikings,2026-01-31,19.796705639220747,included_game_day
+2026,2502,Portland State Vikings,2026-02-02,34.108175961896464,included_game_day
+2026,2502,Portland State Vikings,2026-02-07,31.057260724024204,included_game_day
+2026,2502,Portland State Vikings,2026-02-12,29.59432941239158,included_game_day
+2026,2502,Portland State Vikings,2026-02-14,18.335992514932656,included_game_day
+2026,2502,Portland State Vikings,2026-02-19,23.00115867314783,included_game_day
+2026,2502,Portland State Vikings,2026-02-21,6.14223754826239,included_game_day
+2026,2502,Portland State Vikings,2026-02-26,-8.087028268364964,included_game_day
+2026,2502,Portland State Vikings,2026-02-28,-14.60703167284327,included_game_day
+2026,2502,Portland State Vikings,2026-03-02,7.084107063758143,included_game_day
+2026,2502,Portland State Vikings,2026-03-08,4.912788601343857,included_game_day
+2026,2502,Portland State Vikings,2026-03-10,-2.775924763416511,included_game_day
+2027,2502,Portland State Vikings,2026-11-07,-15.8,included_game_day
+2027,2502,Portland State Vikings,2026-11-11,-25.79,included_game_day
+2027,2502,Portland State Vikings,2026-11-14,-3.0702,included_game_day
+2027,2502,Portland State Vikings,2026-11-16,-10.10838,included_game_day
+2027,2502,Portland State Vikings,2026-11-22,-29.211262,included_game_day

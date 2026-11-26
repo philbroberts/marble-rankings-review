@@ -1,0 +1,1194 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,328,Utah St,1987-11-27,-10.0,included_game_day
+1988,328,Utah St,1987-12-01,-16.2,included_game_day
+1988,328,Utah St,1987-12-05,-6.2475999999999985,included_game_day
+1988,328,Utah St,1987-12-11,11.742316000000002,included_game_day
+1988,328,Utah St,1987-12-12,19.553004840000003,included_game_day
+1988,328,Utah St,1987-12-19,18.597550285000004,included_game_day
+1988,328,Utah St,1987-12-22,26.392597368660006,included_game_day
+1988,328,Utah St,1987-12-29,35.628635035588005,included_game_day
+1988,328,Utah St,1987-12-31,17.558248191869204,included_game_day
+1988,328,Utah St,1988-01-02,22.369691427949334,included_game_day
+1988,328,Utah St,1988-01-04,44.59007908425571,included_game_day
+1988,328,Utah St,1988-01-07,43.753031527881724,included_game_day
+1988,328,Utah St,1988-01-09,42.40970890306814,included_game_day
+1988,328,Utah St,1988-01-14,32.972138570801675,included_game_day
+1988,328,Utah St,1988-01-16,38.46363626723462,included_game_day
+1988,328,Utah St,1988-01-19,40.237462293758256,included_game_day
+1988,328,Utah St,1988-01-21,37.65708443022751,included_game_day
+1988,328,Utah St,1988-01-30,61.45652381012491,included_game_day
+1988,328,Utah St,1988-02-04,59.87356203250062,included_game_day
+1988,328,Utah St,1988-02-06,70.42423242780158,included_game_day
+1988,328,Utah St,1988-02-11,88.47180071744111,included_game_day
+1988,328,Utah St,1988-02-13,96.1780838283782,included_game_day
+1988,328,Utah St,1988-02-18,82.14216048572065,included_game_day
+1988,328,Utah St,1988-02-20,75.87373984746921,included_game_day
+1988,328,Utah St,1988-02-27,67.13399021747519,included_game_day
+1988,328,Utah St,1988-03-03,70.53713782545174,included_game_day
+1988,328,Utah St,1988-03-05,79.13801365182908,included_game_day
+1988,328,Utah St,1988-03-11,79.09198793106272,included_game_day
+1988,328,Utah St,1988-03-12,82.87117018357418,included_game_day
+1988,328,Utah St,1988-03-13,82.625364180645,included_game_day
+1988,328,Utah St,1988-03-18,77.85947151191719,included_game_day
+1989,328,Utah St,1988-11-30,-15.9,included_game_day
+1989,328,Utah St,1988-12-03,-3.3865999999999996,included_game_day
+1989,328,Utah St,1988-12-10,-11.26351185,included_game_day
+1989,328,Utah St,1988-12-15,-27.56504133,included_game_day
+1989,328,Utah St,1988-12-17,-31.842889776699998,included_game_day
+1989,328,Utah St,1988-12-19,-26.974055449029997,included_game_day
+1989,328,Utah St,1988-12-21,-27.883217639156996,included_game_day
+1989,328,Utah St,1988-12-28,-2.9889557425833786,included_game_day
+1989,328,Utah St,1988-12-29,-3.5372396621479076,included_game_day
+1989,328,Utah St,1989-01-03,-5.492003270916277,included_game_day
+1989,328,Utah St,1989-01-05,4.940085268016554,included_game_day
+1989,328,Utah St,1989-01-08,13.237636360306954,included_game_day
+1989,328,Utah St,1989-01-10,6.6298283506728035,included_game_day
+1989,328,Utah St,1989-01-14,23.528147882602568,included_game_day
+1989,328,Utah St,1989-01-16,48.61795474556179,included_game_day
+1989,328,Utah St,1989-01-19,36.424224856103734,included_game_day
+1989,328,Utah St,1989-01-21,26.82400107812186,included_game_day
+1989,328,Utah St,1989-01-25,6.476971145595403,included_game_day
+1989,328,Utah St,1989-01-28,8.894925025017002,included_game_day
+1989,328,Utah St,1989-02-02,17.632094386322784,included_game_day
+1989,328,Utah St,1989-02-04,38.641600259923024,included_game_day
+1989,328,Utah St,1989-02-13,27.52695988201088,included_game_day
+1989,328,Utah St,1989-02-16,32.59820484557344,included_game_day
+1989,328,Utah St,1989-02-25,29.754694209943285,included_game_day
+1989,328,Utah St,1989-02-28,22.918388191799274,included_game_day
+1989,328,Utah St,1989-03-02,23.17807182022092,included_game_day
+1989,328,Utah St,1989-03-04,15.09824750976285,included_game_day
+1989,328,Utah St,1989-03-09,13.75787438926678,included_game_day
+1990,328,Utah St,1989-11-28,3.2,included_game_day
+1990,328,Utah St,1989-11-30,-2.732,included_game_day
+1990,328,Utah St,1989-12-08,-10.838532,included_game_day
+1990,328,Utah St,1989-12-09,-16.1674998,included_game_day
+1990,328,Utah St,1989-12-12,-6.525315798000001,included_game_day
+1990,328,Utah St,1989-12-18,-8.480919647750001,included_game_day
+1990,328,Utah St,1989-12-20,4.665449451074998,included_game_day
+1990,328,Utah St,1989-12-28,3.4898416054305987,included_game_day
+1990,328,Utah St,1989-12-30,6.088941339034673,included_game_day
+1990,328,Utah St,1990-01-02,14.844316874276206,included_game_day
+1990,328,Utah St,1990-01-04,-1.3730236393893485,included_game_day
+1990,328,Utah St,1990-01-06,-3.35940502956955,included_game_day
+1990,328,Utah St,1990-01-13,-4.037868722391577,included_game_day
+1990,328,Utah St,1990-01-15,-8.547686953732377,included_game_day
+1990,328,Utah St,1990-01-18,-0.35259870046436603,included_game_day
+1990,328,Utah St,1990-01-20,4.849244587816502,included_game_day
+1990,328,Utah St,1990-01-25,3.1693804563219667,included_game_day
+1990,328,Utah St,1990-01-27,-0.7670454613119593,included_game_day
+1990,328,Utah St,1990-02-01,-18.76390544382102,included_game_day
+1990,328,Utah St,1990-02-03,-22.442421622586572,included_game_day
+1990,328,Utah St,1990-02-10,-17.128265673419676,included_game_day
+1990,328,Utah St,1990-02-15,-10.992210629953053,included_game_day
+1990,328,Utah St,1990-02-17,-12.617819141146567,included_game_day
+1990,328,Utah St,1990-02-22,-21.0684208599126,included_game_day
+1990,328,Utah St,1990-02-24,-19.856848436511598,included_game_day
+1990,328,Utah St,1990-03-01,-6.055255379655506,included_game_day
+1990,328,Utah St,1990-03-03,-16.83057306319551,included_game_day
+1990,328,Utah St,1990-03-08,-25.56744470125416,included_game_day
+1991,328,Utah St,1990-11-24,-1.6,included_game_day
+1991,328,Utah St,1990-12-01,-7.968999999999999,included_game_day
+1991,328,Utah St,1990-12-04,-12.9621,included_game_day
+1991,328,Utah St,1990-12-08,-18.809089999999998,included_game_day
+1991,328,Utah St,1990-12-13,-3.6183909999999972,included_game_day
+1991,328,Utah St,1990-12-19,8.540548150000003,included_game_day
+1991,328,Utah St,1990-12-21,4.814393392000003,included_game_day
+1991,328,Utah St,1990-12-22,-4.330153736399998,included_game_day
+1991,328,Utah St,1990-12-29,-8.151167729305998,included_game_day
+1991,328,Utah St,1991-01-02,8.030019704937734,included_game_day
+1991,328,Utah St,1991-01-04,12.570375169592184,included_game_day
+1991,328,Utah St,1991-01-07,12.985175895362477,included_game_day
+1991,328,Utah St,1991-01-09,2.4937061123052473,included_game_day
+1991,328,Utah St,1991-01-17,10.25941833551294,included_game_day
+1991,328,Utah St,1991-01-19,26.347394304451417,included_game_day
+1991,328,Utah St,1991-01-24,13.414696207132586,included_game_day
+1991,328,Utah St,1991-01-26,4.224039611720531,included_game_day
+1991,328,Utah St,1991-01-28,-18.262750397967313,included_game_day
+1991,328,Utah St,1991-01-31,-11.682300276551551,included_game_day
+1991,328,Utah St,1991-02-02,-3.8214696680527798,included_game_day
+1991,328,Utah St,1991-02-09,-1.5328051812537629,included_game_day
+1991,328,Utah St,1991-02-14,-22.175829341397456,included_game_day
+1991,328,Utah St,1991-02-16,-24.67830214251383,included_game_day
+1991,328,Utah St,1991-02-21,-24.348198491877767,included_game_day
+1991,328,Utah St,1991-02-23,-26.223772289072766,included_game_day
+1991,328,Utah St,1991-02-28,-37.485764984757296,included_game_day
+1991,328,Utah St,1991-03-02,-37.25598768772368,included_game_day
+1991,328,Utah St,1991-03-08,-34.77828287314688,included_game_day
+1992,328,Utah St,1991-11-26,-19.0,included_game_day
+1992,328,Utah St,1991-12-03,-27.384,included_game_day
+1992,328,Utah St,1991-12-07,-4.2490999999999985,included_game_day
+1992,328,Utah St,1991-12-10,5.7871700000000015,included_game_day
+1992,328,Utah St,1991-12-13,-4.166103,included_game_day
+1992,328,Utah St,1991-12-30,4.74017343444163,included_game_day
+1992,328,Utah St,1992-01-04,15.819962570754658,included_game_day
+1992,328,Utah St,1992-01-09,24.37460502518582,included_game_day
+1992,328,Utah St,1992-01-11,35.80539195269374,included_game_day
+1992,328,Utah St,1992-01-13,41.997379576054335,included_game_day
+1992,328,Utah St,1992-01-16,40.26331225899869,included_game_day
+1992,328,Utah St,1992-01-18,22.795053022414326,included_game_day
+1992,328,Utah St,1992-01-23,29.108144241381886,included_game_day
+1992,328,Utah St,1992-01-25,27.109920486143942,included_game_day
+1992,328,Utah St,1992-01-30,28.391965850955152,included_game_day
+1992,328,Utah St,1992-02-06,15.714929697177224,included_game_day
+1992,328,Utah St,1992-02-08,6.928750889281625,included_game_day
+1992,328,Utah St,1992-02-10,6.89095382523879,included_game_day
+1992,328,Utah St,1992-02-13,5.0388823352764875,included_game_day
+1992,328,Utah St,1992-02-15,23.154769902019485,included_game_day
+1992,328,Utah St,1992-02-20,2.402688840792237,included_game_day
+1992,328,Utah St,1992-02-22,-2.099163060253643,included_game_day
+1992,328,Utah St,1992-02-29,6.599286305085297,included_game_day
+1992,328,Utah St,1992-03-03,12.570800067465704,included_game_day
+1992,328,Utah St,1992-03-07,13.271524884972411,included_game_day
+1992,328,Utah St,1992-03-13,-2.317949436630709,included_game_day
+1993,328,Utah St,1992-12-04,-12.3,included_game_day
+1993,328,Utah St,1992-12-08,-9.219000000000001,included_game_day
+1993,328,Utah St,1992-12-12,-10.496200000000002,included_game_day
+1993,328,Utah St,1992-12-18,-24.6439728,included_game_day
+1993,328,Utah St,1992-12-22,-10.373988520000001,included_game_day
+1993,328,Utah St,1993-01-02,17.205076222974,included_game_day
+1993,328,Utah St,1993-01-07,21.071184714852837,included_game_day
+1993,328,Utah St,1993-01-09,5.105893418633459,included_game_day
+1993,328,Utah St,1993-01-14,18.218535967758427,included_game_day
+1993,328,Utah St,1993-01-16,16.853404833762013,included_game_day
+1993,328,Utah St,1993-01-19,1.1674839273866677,included_game_day
+1993,328,Utah St,1993-01-23,1.3970932303404222,included_game_day
+1993,328,Utah St,1993-01-25,-0.48111239915231163,included_game_day
+1993,328,Utah St,1993-01-30,-2.9605172986806467,included_game_day
+1993,328,Utah St,1993-02-01,-13.813872124163144,included_game_day
+1993,328,Utah St,1993-02-04,14.571559016285878,included_game_day
+1993,328,Utah St,1993-02-06,18.673994248454537,included_game_day
+1993,328,Utah St,1993-02-11,13.566591678320153,included_game_day
+1993,328,Utah St,1993-02-13,23.638899024883898,included_game_day
+1993,328,Utah St,1993-02-18,11.923378938708876,included_game_day
+1993,328,Utah St,1993-02-20,18.23378618832544,included_game_day
+1993,328,Utah St,1993-02-25,2.242013921928258,included_game_day
+1993,328,Utah St,1993-02-27,5.256383869811394,included_game_day
+1993,328,Utah St,1993-03-06,-14.714690872963505,included_game_day
+1993,328,Utah St,1993-03-12,-22.63390060285221,included_game_day
+1994,328,Utah St,1993-12-03,-10.0,included_game_day
+1994,328,Utah St,1993-12-07,-12.301,included_game_day
+1994,328,Utah St,1993-12-14,-22.42133803,included_game_day
+1994,328,Utah St,1993-12-20,-21.104570907000003,included_game_day
+1994,328,Utah St,1993-12-28,-10.913721786048653,included_game_day
+1994,328,Utah St,1993-12-29,-11.642279103909457,included_game_day
+1994,328,Utah St,1994-01-03,-5.185387025039241,included_game_day
+1994,328,Utah St,1994-01-05,0.49941477812225,included_game_day
+1994,328,Utah St,1994-01-08,-18.85222144032297,included_game_day
+1994,328,Utah St,1994-01-10,-37.46285007344011,included_game_day
+1994,328,Utah St,1994-01-15,-33.78938232654619,included_game_day
+1994,328,Utah St,1994-01-17,-46.55200011405158,included_game_day
+1994,328,Utah St,1994-01-20,-42.76614807260324,included_game_day
+1994,328,Utah St,1994-01-22,-39.47155756625315,included_game_day
+1994,328,Utah St,1994-01-29,-45.57755160249087,included_game_day
+1994,328,Utah St,1994-02-03,-43.89618338651396,included_game_day
+1994,328,Utah St,1994-02-05,-36.83345933704003,included_game_day
+1994,328,Utah St,1994-02-10,-32.94368645275383,included_game_day
+1994,328,Utah St,1994-02-12,-23.976145224898886,included_game_day
+1994,328,Utah St,1994-02-17,-20.61301000922153,included_game_day
+1994,328,Utah St,1994-02-19,-28.916793344517263,included_game_day
+1994,328,Utah St,1994-02-24,-21.393891928150918,included_game_day
+1994,328,Utah St,1994-02-26,-8.068794799427577,included_game_day
+1994,328,Utah St,1994-03-05,-5.5000069252219514,included_game_day
+1994,328,Utah St,1994-03-11,-20.736016510934114,included_game_day
+1995,328,Utah St,1994-11-26,-10.0,included_game_day
+1995,328,Utah St,1994-12-01,14.122,included_game_day
+1995,328,Utah St,1994-12-17,28.5804849362,included_game_day
+1995,328,Utah St,1994-12-23,25.08067963258,included_game_day
+1995,328,Utah St,1994-12-29,24.938184725522,included_game_day
+1995,328,Utah St,1995-01-02,31.222121210553162,included_game_day
+1995,328,Utah St,1995-01-05,35.94202126786175,included_game_day
+1995,328,Utah St,1995-01-07,37.85503586079706,included_game_day
+1995,328,Utah St,1995-01-11,53.441167726082455,included_game_day
+1995,328,Utah St,1995-01-14,59.81051667764587,included_game_day
+1995,328,Utah St,1995-01-16,59.97320664978815,included_game_day
+1995,328,Utah St,1995-01-19,71.69843601663403,included_game_day
+1995,328,Utah St,1995-01-21,52.9346039715902,included_game_day
+1995,328,Utah St,1995-01-28,63.86494074693759,included_game_day
+1995,328,Utah St,1995-02-02,69.25000115506097,included_game_day
+1995,328,Utah St,1995-02-04,57.11029610178289,included_game_day
+1995,328,Utah St,1995-02-09,73.48019857369434,included_game_day
+1995,328,Utah St,1995-02-11,86.44774360431722,included_game_day
+1995,328,Utah St,1995-02-13,77.96159210508479,included_game_day
+1995,328,Utah St,1995-02-16,79.07109582646224,included_game_day
+1995,328,Utah St,1995-02-18,93.35261113276725,included_game_day
+1995,328,Utah St,1995-02-21,98.39606573749253,included_game_day
+1995,328,Utah St,1995-02-25,81.01167834014089,included_game_day
+1995,328,Utah St,1995-03-02,83.13457211895953,included_game_day
+1995,328,Utah St,1995-03-04,81.52512011648297,included_game_day
+1995,328,Utah St,1995-03-10,66.48431458855818,included_game_day
+1995,328,Utah St,1995-03-17,54.941111160337506,included_game_day
+1996,328,Utah St,1995-11-24,-2.0,included_game_day
+1996,328,Utah St,1995-11-27,-9.39,included_game_day
+1996,328,Utah St,1995-12-05,-28.035,included_game_day
+1996,328,Utah St,1995-12-09,-32.1723419,included_game_day
+1996,328,Utah St,1995-12-16,-32.110225170999996,included_game_day
+1996,328,Utah St,1995-12-28,-10.517012789859997,included_game_day
+1996,328,Utah St,1995-12-29,-0.0007153153022425585,included_game_day
+1996,328,Utah St,1996-01-04,-6.131425767685711,included_game_day
+1996,328,Utah St,1996-01-08,1.6437718381046587,included_game_day
+1996,328,Utah St,1996-01-11,-1.48900835586733,included_game_day
+1996,328,Utah St,1996-01-13,-1.2664892481398036,included_game_day
+1996,328,Utah St,1996-01-15,-6.207070163113867,included_game_day
+1996,328,Utah St,1996-01-18,-7.011144328709318,included_game_day
+1996,328,Utah St,1996-01-20,-9.841997318565493,included_game_day
+1996,328,Utah St,1996-01-25,8.307141232787199,included_game_day
+1996,328,Utah St,1996-01-27,-0.6718015619830346,included_game_day
+1996,328,Utah St,1996-01-29,10.23496071031851,included_game_day
+1996,328,Utah St,1996-02-03,20.52671587546901,included_game_day
+1996,328,Utah St,1996-02-08,12.537883038115217,included_game_day
+1996,328,Utah St,1996-02-10,1.6131556693832803,included_game_day
+1996,328,Utah St,1996-02-15,12.733414465706943,included_game_day
+1996,328,Utah St,1996-02-17,-8.574196271675397,included_game_day
+1996,328,Utah St,1996-02-22,-8.372585467410332,included_game_day
+1996,328,Utah St,1996-02-24,1.098088589328226,included_game_day
+1996,328,Utah St,1996-02-26,0.3308439519325912,included_game_day
+1996,328,Utah St,1996-03-02,6.821770915417274,included_game_day
+1996,328,Utah St,1996-03-08,11.880446443635092,included_game_day
+1996,328,Utah St,1996-03-09,29.298976216189324,included_game_day
+1996,328,Utah St,1996-03-10,26.704753255150102,included_game_day
+1997,328,Utah St,1996-11-26,-22.0,included_game_day
+1997,328,Utah St,1996-12-10,-28.157700000000002,included_game_day
+1997,328,Utah St,1996-12-14,-25.624780172,included_game_day
+1997,328,Utah St,1996-12-19,-10.344234154800002,included_game_day
+1997,328,Utah St,1996-12-21,-13.134913155020001,included_game_day
+1997,328,Utah St,1996-12-27,9.273918741331997,included_game_day
+1997,328,Utah St,1996-12-28,17.730799386311595,included_game_day
+1997,328,Utah St,1997-01-02,20.060064960335936,included_game_day
+1997,328,Utah St,1997-01-04,13.566666756663079,included_game_day
+1997,328,Utah St,1997-01-09,34.28059017660536,included_game_day
+1997,328,Utah St,1997-01-12,32.59505024724039,included_game_day
+1997,328,Utah St,1997-01-16,47.27690789663141,included_game_day
+1997,328,Utah St,1997-01-18,44.04014862588993,included_game_day
+1997,328,Utah St,1997-01-23,53.99619011343535,included_game_day
+1997,328,Utah St,1997-01-25,38.028255301833255,included_game_day
+1997,328,Utah St,1997-01-30,41.143737385540305,included_game_day
+1997,328,Utah St,1997-02-01,36.43256038417741,included_game_day
+1997,328,Utah St,1997-02-06,36.687671165145794,included_game_day
+1997,328,Utah St,1997-02-08,19.450039663033532,included_game_day
+1997,328,Utah St,1997-02-15,35.47603320173057,included_game_day
+1997,328,Utah St,1997-02-20,33.358505125116025,included_game_day
+1997,328,Utah St,1997-02-22,48.71351262664835,included_game_day
+1997,328,Utah St,1997-02-27,28.751041896647422,included_game_day
+1997,328,Utah St,1997-03-01,45.051426534430824,included_game_day
+1997,328,Utah St,1997-03-07,52.089870620114496,included_game_day
+1997,328,Utah St,1997-03-08,39.12662854606879,included_game_day
+1998,328,Utah St,1997-11-17,15.0,included_game_day
+1998,328,Utah St,1997-11-19,8.25,included_game_day
+1998,328,Utah St,1997-11-29,10.922,included_game_day
+1998,328,Utah St,1997-12-03,9.484380000000002,included_game_day
+1998,328,Utah St,1997-12-06,11.410630900000001,included_game_day
+1998,328,Utah St,1997-12-10,8.562590840000002,included_game_day
+1998,328,Utah St,1997-12-20,18.13691802557,included_game_day
+1998,328,Utah St,1997-12-27,14.3167753772805,included_game_day
+1998,328,Utah St,1997-12-30,12.92615479551495,included_game_day
+1998,328,Utah St,1998-01-03,11.547217663755927,included_game_day
+1998,328,Utah St,1998-01-08,19.15853582584552,included_game_day
+1998,328,Utah St,1998-01-10,23.274945891699574,included_game_day
+1998,328,Utah St,1998-01-15,20.580575479168004,included_game_day
+1998,328,Utah St,1998-01-17,20.779878744095072,included_game_day
+1998,328,Utah St,1998-01-22,48.464833759049924,included_game_day
+1998,328,Utah St,1998-01-24,44.94763724289248,included_game_day
+1998,328,Utah St,1998-01-29,47.84824253419248,included_game_day
+1998,328,Utah St,1998-01-31,33.69526769337216,included_game_day
+1998,328,Utah St,1998-02-05,46.851379317068854,included_game_day
+1998,328,Utah St,1998-02-07,60.360749545702205,included_game_day
+1998,328,Utah St,1998-02-12,59.660426978802235,included_game_day
+1998,328,Utah St,1998-02-14,44.08033841796812,included_game_day
+1998,328,Utah St,1998-02-19,54.19811701918428,included_game_day
+1998,328,Utah St,1998-02-21,43.37793721647809,included_game_day
+1998,328,Utah St,1998-02-26,41.135110533853464,included_game_day
+1998,328,Utah St,1998-02-28,52.18789248989252,included_game_day
+1998,328,Utah St,1998-03-06,47.75830437543867,included_game_day
+1998,328,Utah St,1998-03-07,49.98023076492783,included_game_day
+1998,328,Utah St,1998-03-08,70.15559503503589,included_game_day
+1998,328,Utah St,1998-03-12,63.01452510094581,included_game_day
+1999,328,Utah St,1998-11-18,5.0,included_game_day
+1999,328,Utah St,1998-11-24,5.732,included_game_day
+1999,328,Utah St,1998-12-05,2.2245457,included_game_day
+1999,328,Utah St,1998-12-10,3.4061465856,included_game_day
+1999,328,Utah St,1998-12-19,-6.8224173563459996,included_game_day
+1999,328,Utah St,1998-12-29,-0.30316504143439893,included_game_day
+1999,328,Utah St,1998-12-30,17.155957354616376,included_game_day
+1999,328,Utah St,1999-01-02,15.578721325800018,included_game_day
+1999,328,Utah St,1999-01-07,3.5284469919646906,included_game_day
+1999,328,Utah St,1999-01-09,-7.395284681708704,included_game_day
+1999,328,Utah St,1999-01-14,8.920478929324885,included_game_day
+1999,328,Utah St,1999-01-16,1.4189159988584805,included_game_day
+1999,328,Utah St,1999-01-21,12.333730745910506,included_game_day
+1999,328,Utah St,1999-01-23,-6.8104825561322695,included_game_day
+1999,328,Utah St,1999-01-28,8.183499522716206,included_game_day
+1999,328,Utah St,1999-01-30,16.16441326221743,included_game_day
+1999,328,Utah St,1999-02-04,-0.9237385561326832,included_game_day
+1999,328,Utah St,1999-02-06,-15.701013562846363,included_game_day
+1999,328,Utah St,1999-02-11,3.781895995224403,included_game_day
+1999,328,Utah St,1999-02-13,0.17108434487237645,included_game_day
+1999,328,Utah St,1999-02-18,0.583602631397345,included_game_day
+1999,328,Utah St,1999-02-20,3.3505384113063696,included_game_day
+1999,328,Utah St,1999-02-25,3.188485557095256,included_game_day
+1999,328,Utah St,1999-02-27,-3.793286356929646,included_game_day
+1999,328,Utah St,1999-03-04,-5.020001840011319,included_game_day
+2000,328,Utah St,1999-11-22,1.2000000000000002,included_game_day
+2000,328,Utah St,1999-11-24,4.991,included_game_day
+2000,328,Utah St,1999-11-30,-3.9885900000000003,included_game_day
+2000,328,Utah St,1999-12-07,-33.219364,included_game_day
+2000,328,Utah St,1999-12-09,-9.7524577,included_game_day
+2000,328,Utah St,1999-12-21,-20.852364403991,included_game_day
+2000,328,Utah St,1999-12-28,-10.163434750306518,included_game_day
+2000,328,Utah St,1999-12-29,-6.743809029666169,included_game_day
+2000,328,Utah St,2000-01-04,14.75746968512851,included_game_day
+2000,328,Utah St,2000-01-08,7.530148766044757,included_game_day
+2000,328,Utah St,2000-01-13,13.600745758818102,included_game_day
+2000,328,Utah St,2000-01-15,42.60258553439679,included_game_day
+2000,328,Utah St,2000-01-20,40.0837875268475,included_game_day
+2000,328,Utah St,2000-01-22,45.42691540543048,included_game_day
+2000,328,Utah St,2000-01-27,50.57419018722624,included_game_day
+2000,328,Utah St,2000-01-30,52.97895518719304,included_game_day
+2000,328,Utah St,2000-02-03,47.82727493376764,included_game_day
+2000,328,Utah St,2000-02-05,56.84914153796725,included_game_day
+2000,328,Utah St,2000-02-10,57.8599257899089,included_game_day
+2000,328,Utah St,2000-02-12,72.89508426174662,included_game_day
+2000,328,Utah St,2000-02-17,71.83963282228767,included_game_day
+2000,328,Utah St,2000-02-19,68.7020307929024,included_game_day
+2000,328,Utah St,2000-02-24,70.37731017292376,included_game_day
+2000,328,Utah St,2000-02-26,63.33665208961128,included_game_day
+2000,328,Utah St,2000-03-02,71.72159421646052,included_game_day
+2000,328,Utah St,2000-03-04,71.72653840802693,included_game_day
+2000,328,Utah St,2000-03-09,84.7856364725437,included_game_day
+2000,328,Utah St,2000-03-10,79.23773141276016,included_game_day
+2000,328,Utah St,2000-03-11,82.24137782537449,included_game_day
+2000,328,Utah St,2000-03-17,78.29853878263737,included_game_day
+2001,328,Utah St,2000-11-17,9.0,included_game_day
+2001,328,Utah St,2000-11-18,13.7,included_game_day
+2001,328,Utah St,2000-11-19,10.809999999999999,included_game_day
+2001,328,Utah St,2000-11-29,14.853399999999999,included_game_day
+2001,328,Utah St,2000-12-06,11.446319599999999,included_game_day
+2001,328,Utah St,2000-12-16,14.596239968069998,included_game_day
+2001,328,Utah St,2000-12-23,22.089263110363,included_game_day
+2001,328,Utah St,2000-12-29,54.6990734630969,included_game_day
+2001,328,Utah St,2000-12-30,52.27408499733906,included_game_day
+2001,328,Utah St,2001-01-04,61.11799311986832,included_game_day
+2001,328,Utah St,2001-01-06,67.31452528303464,included_game_day
+2001,328,Utah St,2001-01-11,71.01734074148162,included_game_day
+2001,328,Utah St,2001-01-13,78.02310501665346,included_game_day
+2001,328,Utah St,2001-01-20,83.585099918931,included_game_day
+2001,328,Utah St,2001-01-25,90.65502162460126,included_game_day
+2001,328,Utah St,2001-01-27,80.3676212623447,included_game_day
+2001,328,Utah St,2001-01-31,74.4772277857891,included_game_day
+2001,328,Utah St,2001-02-02,83.29214192040212,included_game_day
+2001,328,Utah St,2001-02-08,91.41865394185811,included_game_day
+2001,328,Utah St,2001-02-10,79.00661866421768,included_game_day
+2001,328,Utah St,2001-02-15,95.12630400928933,included_game_day
+2001,328,Utah St,2001-02-17,71.65324368195239,included_game_day
+2001,328,Utah St,2001-02-24,62.940213449330514,included_game_day
+2001,328,Utah St,2001-03-01,84.84704090230039,included_game_day
+2001,328,Utah St,2001-03-03,92.67743477077262,included_game_day
+2001,328,Utah St,2001-03-08,105.23114299229593,included_game_day
+2001,328,Utah St,2001-03-09,114.61056465507092,included_game_day
+2001,328,Utah St,2001-03-10,115.27462392784746,included_game_day
+2001,328,Utah St,2001-03-15,121.60769272999283,included_game_day
+2001,328,Utah St,2001-03-17,94.86956230524592,included_game_day
+2002,328,Utah State Aggies,2001-11-17,16.1,included_game_day
+2002,328,Utah State Aggies,2001-11-23,31.590000000000003,included_game_day
+2002,328,Utah State Aggies,2001-11-28,30.406000000000002,included_game_day
+2002,328,Utah State Aggies,2001-12-01,34.878930000000004,included_game_day
+2002,328,Utah State Aggies,2001-12-04,30.696164000000003,included_game_day
+2002,328,Utah State Aggies,2001-12-08,27.241549300000003,included_game_day
+2002,328,Utah State Aggies,2001-12-20,31.944884552300003,included_game_day
+2002,328,Utah State Aggies,2001-12-22,36.77429766509,included_game_day
+2002,328,Utah State Aggies,2001-12-28,42.397818587885,included_game_day
+2002,328,Utah State Aggies,2001-12-29,50.1677128278946,included_game_day
+2002,328,Utah State Aggies,2002-01-03,48.09506690947044,included_game_day
+2002,328,Utah State Aggies,2002-01-05,55.93967634009381,included_game_day
+2002,328,Utah State Aggies,2002-01-10,49.544686136166575,included_game_day
+2002,328,Utah State Aggies,2002-01-12,42.67433427613197,included_game_day
+2002,328,Utah State Aggies,2002-01-17,67.01070182699144,included_game_day
+2002,328,Utah State Aggies,2002-01-19,43.127440501193675,included_game_day
+2002,328,Utah State Aggies,2002-01-26,45.035877318435666,included_game_day
+2002,328,Utah State Aggies,2002-01-31,51.16997856316935,included_game_day
+2002,328,Utah State Aggies,2002-02-02,75.63029281238246,included_game_day
+2002,328,Utah State Aggies,2002-02-07,74.47131875202939,included_game_day
+2002,328,Utah State Aggies,2002-02-09,78.0754051482012,included_game_day
+2002,328,Utah State Aggies,2002-02-14,70.28614147781157,included_game_day
+2002,328,Utah State Aggies,2002-02-16,74.06887922969784,included_game_day
+2002,328,Utah State Aggies,2002-02-23,66.48657495004016,included_game_day
+2002,328,Utah State Aggies,2002-02-28,61.84424596542414,included_game_day
+2002,328,Utah State Aggies,2002-03-02,51.27358560207775,included_game_day
+2002,328,Utah State Aggies,2002-03-07,57.320910863096834,included_game_day
+2002,328,Utah State Aggies,2002-03-08,56.34982031294258,included_game_day
+2002,328,Utah State Aggies,2002-03-10,48.08671942446155,included_game_day
+2002,328,Utah State Aggies,2002-03-12,34.96763489933528,included_game_day
+2003,328,Utah State Aggies,2002-11-23,18.0,included_game_day
+2003,328,Utah State Aggies,2002-11-29,18.87,included_game_day
+2003,328,Utah State Aggies,2002-11-30,32.52698,included_game_day
+2003,328,Utah State Aggies,2002-12-07,20.150891100000003,included_game_day
+2003,328,Utah State Aggies,2002-12-14,18.4619997733,included_game_day
+2003,328,Utah State Aggies,2002-12-17,24.41200108789,included_game_day
+2003,328,Utah State Aggies,2002-12-21,22.891172545329002,included_game_day
+2003,328,Utah State Aggies,2002-12-27,37.043966866214305,included_game_day
+2003,328,Utah State Aggies,2002-12-28,38.48650271719537,included_game_day
+2003,328,Utah State Aggies,2003-01-02,55.22248888092888,included_game_day
+2003,328,Utah State Aggies,2003-01-04,43.143882222502256,included_game_day
+2003,328,Utah State Aggies,2003-01-09,48.11437903543539,included_game_day
+2003,328,Utah State Aggies,2003-01-11,57.729961246811996,included_game_day
+2003,328,Utah State Aggies,2003-01-15,54.25924361632335,included_game_day
+2003,328,Utah State Aggies,2003-01-18,51.63129307488217,included_game_day
+2003,328,Utah State Aggies,2003-01-23,57.06403837990426,included_game_day
+2003,328,Utah State Aggies,2003-01-25,43.6920642099975,included_game_day
+2003,328,Utah State Aggies,2003-02-01,43.104246400379154,included_game_day
+2003,328,Utah State Aggies,2003-02-06,32.19697827846332,included_game_day
+2003,328,Utah State Aggies,2003-02-08,30.107302853273787,included_game_day
+2003,328,Utah State Aggies,2003-02-13,24.542784574068143,included_game_day
+2003,328,Utah State Aggies,2003-02-15,44.24444616208784,included_game_day
+2003,328,Utah State Aggies,2003-02-20,60.25256352053337,included_game_day
+2003,328,Utah State Aggies,2003-02-22,42.72262746512833,included_game_day
+2003,328,Utah State Aggies,2003-03-01,31.005857290308658,included_game_day
+2003,328,Utah State Aggies,2003-03-06,34.49023572198051,included_game_day
+2003,328,Utah State Aggies,2003-03-08,31.102846077229703,included_game_day
+2003,328,Utah State Aggies,2003-03-13,27.542911631929005,included_game_day
+2003,328,Utah State Aggies,2003-03-14,38.72317261572286,included_game_day
+2003,328,Utah State Aggies,2003-03-16,37.21941267906317,included_game_day
+2003,328,Utah State Aggies,2003-03-20,52.036221213822714,included_game_day
+2004,328,Utah State Aggies,2003-11-25,9.0,included_game_day
+2004,328,Utah State Aggies,2003-11-29,10.536,included_game_day
+2004,328,Utah State Aggies,2003-12-03,0.4215099999999996,included_game_day
+2004,328,Utah State Aggies,2003-12-13,7.892443157,included_game_day
+2004,328,Utah State Aggies,2003-12-18,27.29021076701,included_game_day
+2004,328,Utah State Aggies,2003-12-23,30.653021101211998,included_game_day
+2004,328,Utah State Aggies,2003-12-29,49.01955078511763,included_game_day
+2004,328,Utah State Aggies,2003-12-30,55.45064750586789,included_game_day
+2004,328,Utah State Aggies,2004-01-03,57.029737413740804,included_game_day
+2004,328,Utah State Aggies,2004-01-08,61.38026358466571,included_game_day
+2004,328,Utah State Aggies,2004-01-10,65.02093731730382,included_game_day
+2004,328,Utah State Aggies,2004-01-15,72.32132422103618,included_game_day
+2004,328,Utah State Aggies,2004-01-17,87.98980040511675,included_game_day
+2004,328,Utah State Aggies,2004-01-22,87.90431990739822,included_game_day
+2004,328,Utah State Aggies,2004-01-24,83.55434015006071,included_game_day
+2004,328,Utah State Aggies,2004-01-29,79.17015449430035,included_game_day
+2004,328,Utah State Aggies,2004-01-31,99.35387519936737,included_game_day
+2004,328,Utah State Aggies,2004-02-05,98.30422363666003,included_game_day
+2004,328,Utah State Aggies,2004-02-07,97.22211032705651,included_game_day
+2004,328,Utah State Aggies,2004-02-12,111.40957919862865,included_game_day
+2004,328,Utah State Aggies,2004-02-14,104.38205522011177,included_game_day
+2004,328,Utah State Aggies,2004-02-19,92.77710966206774,included_game_day
+2004,328,Utah State Aggies,2004-02-21,101.33866906563338,included_game_day
+2004,328,Utah State Aggies,2004-02-26,105.9761259670179,included_game_day
+2004,328,Utah State Aggies,2004-02-28,96.51394321504853,included_game_day
+2004,328,Utah State Aggies,2004-03-05,93.61140673698824,included_game_day
+2004,328,Utah State Aggies,2004-03-12,78.1437928817315,included_game_day
+2004,328,Utah State Aggies,2004-03-17,61.369609982998824,included_game_day
+2005,328,Utah State Aggies,2004-11-19,13.0,included_game_day
+2005,328,Utah State Aggies,2004-11-20,5.7,included_game_day
+2005,328,Utah State Aggies,2004-11-21,15.68,included_game_day
+2005,328,Utah State Aggies,2004-11-27,37.112,included_game_day
+2005,328,Utah State Aggies,2004-12-01,40.683729,included_game_day
+2005,328,Utah State Aggies,2004-12-04,62.3391041,included_game_day
+2005,328,Utah State Aggies,2004-12-07,48.62946539,included_game_day
+2005,328,Utah State Aggies,2004-12-11,55.0978015369,included_game_day
+2005,328,Utah State Aggies,2004-12-18,71.30828465161,included_game_day
+2005,328,Utah State Aggies,2004-12-23,54.766315693241,included_game_day
+2005,328,Utah State Aggies,2004-12-29,72.71079514882102,included_game_day
+2005,328,Utah State Aggies,2004-12-30,111.8976716417213,included_game_day
+2005,328,Utah State Aggies,2005-01-06,105.67964240905901,included_game_day
+2005,328,Utah State Aggies,2005-01-08,95.19453569284178,included_game_day
+2005,328,Utah State Aggies,2005-01-13,87.24976765009642,included_game_day
+2005,328,Utah State Aggies,2005-01-15,81.80332474170966,included_game_day
+2005,328,Utah State Aggies,2005-01-20,94.53657702172535,included_game_day
+2005,328,Utah State Aggies,2005-01-22,104.18515757889796,included_game_day
+2005,328,Utah State Aggies,2005-01-27,123.62674638823846,included_game_day
+2005,328,Utah State Aggies,2005-01-29,139.1371646781176,included_game_day
+2005,328,Utah State Aggies,2005-02-03,142.855729257644,included_game_day
+2005,328,Utah State Aggies,2005-02-05,160.6880165273415,included_game_day
+2005,328,Utah State Aggies,2005-02-10,165.4268652383951,included_game_day
+2005,328,Utah State Aggies,2005-02-12,154.06610091364033,included_game_day
+2005,328,Utah State Aggies,2005-02-17,160.5385067442491,included_game_day
+2005,328,Utah State Aggies,2005-02-19,146.16309264687334,included_game_day
+2005,328,Utah State Aggies,2005-02-24,139.11361937074597,included_game_day
+2005,328,Utah State Aggies,2005-02-26,158.5939810243983,included_game_day
+2005,328,Utah State Aggies,2005-03-04,155.6916485015193,included_game_day
+2005,328,Utah State Aggies,2005-03-11,147.84195634127252,included_game_day
+2005,328,Utah State Aggies,2005-03-13,159.49050675689037,included_game_day
+2005,328,Utah State Aggies,2005-03-17,147.57252694057811,included_game_day
+2006,328,Utah State Aggies,2005-11-19,8.0,included_game_day
+2006,328,Utah State Aggies,2005-11-21,9.2,included_game_day
+2006,328,Utah State Aggies,2005-11-30,13.347,included_game_day
+2006,328,Utah State Aggies,2005-12-05,27.580020339999997,included_game_day
+2006,328,Utah State Aggies,2005-12-10,32.425735352,included_game_day
+2006,328,Utah State Aggies,2005-12-17,24.921587437079996,included_game_day
+2006,328,Utah State Aggies,2005-12-20,20.160073998389397,included_game_day
+2006,328,Utah State Aggies,2005-12-22,30.416111412430457,included_game_day
+2006,328,Utah State Aggies,2005-12-29,55.17523631240685,included_game_day
+2006,328,Utah State Aggies,2005-12-30,77.9222862715682,included_game_day
+2006,328,Utah State Aggies,2006-01-05,81.19264990534572,included_game_day
+2006,328,Utah State Aggies,2006-01-07,72.43066723049631,included_game_day
+2006,328,Utah State Aggies,2006-01-12,70.03511092805732,included_game_day
+2006,328,Utah State Aggies,2006-01-14,76.383149620316,included_game_day
+2006,328,Utah State Aggies,2006-01-18,76.50284904919806,included_game_day
+2006,328,Utah State Aggies,2006-01-24,82.13000001039012,included_game_day
+2006,328,Utah State Aggies,2006-01-27,82.97271875933586,included_game_day
+2006,328,Utah State Aggies,2006-01-31,83.21782150635349,included_game_day
+2006,328,Utah State Aggies,2006-02-02,70.3877242822973,included_game_day
+2006,328,Utah State Aggies,2006-02-04,69.59245612484315,included_game_day
+2006,328,Utah State Aggies,2006-02-11,52.590563386629384,included_game_day
+2006,328,Utah State Aggies,2006-02-15,77.98141422194733,included_game_day
+2006,328,Utah State Aggies,2006-02-18,73.6497370125125,included_game_day
+2006,328,Utah State Aggies,2006-02-23,70.63703083510715,included_game_day
+2006,328,Utah State Aggies,2006-02-25,51.20448177390335,included_game_day
+2006,328,Utah State Aggies,2006-03-02,54.17238413765402,included_game_day
+2006,328,Utah State Aggies,2006-03-04,43.07329998537473,included_game_day
+2006,328,Utah State Aggies,2006-03-09,38.1940326635513,included_game_day
+2006,328,Utah State Aggies,2006-03-10,40.66637047632794,included_game_day
+2006,328,Utah State Aggies,2006-03-11,42.58226962687439,included_game_day
+2006,328,Utah State Aggies,2006-03-16,39.81496268759715,included_game_day
+2007,328,Utah State Aggies,2006-11-10,-14.0,included_game_day
+2007,328,Utah State Aggies,2006-11-17,-3.5700000000000003,included_game_day
+2007,328,Utah State Aggies,2006-11-19,28.6593,included_game_day
+2007,328,Utah State Aggies,2006-11-25,30.533140000000003,included_game_day
+2007,328,Utah State Aggies,2006-11-29,28.746752500000003,included_game_day
+2007,328,Utah State Aggies,2006-12-02,58.875206250000005,included_game_day
+2007,328,Utah State Aggies,2006-12-06,54.557059575000004,included_game_day
+2007,328,Utah State Aggies,2006-12-09,58.624328050180004,included_game_day
+2007,328,Utah State Aggies,2006-12-16,44.217760291104,included_game_day
+2007,328,Utah State Aggies,2006-12-21,44.8253194170105,included_game_day
+2007,328,Utah State Aggies,2006-12-23,45.97558356583724,included_game_day
+2007,328,Utah State Aggies,2007-01-04,36.97686537373376,included_game_day
+2007,328,Utah State Aggies,2007-01-06,33.62583136451239,included_game_day
+2007,328,Utah State Aggies,2007-01-10,40.82209079817717,included_game_day
+2007,328,Utah State Aggies,2007-01-13,48.5122386542849,included_game_day
+2007,328,Utah State Aggies,2007-01-15,47.97429106345198,included_game_day
+2007,328,Utah State Aggies,2007-01-18,46.45990231455308,included_game_day
+2007,328,Utah State Aggies,2007-01-20,38.26447254615944,included_game_day
+2007,328,Utah State Aggies,2007-01-27,28.150380515504185,included_game_day
+2007,328,Utah State Aggies,2007-01-30,24.041928575894726,included_game_day
+2007,328,Utah State Aggies,2007-02-03,21.413361540623068,included_game_day
+2007,328,Utah State Aggies,2007-02-05,33.45843271775675,included_game_day
+2007,328,Utah State Aggies,2007-02-10,31.830268359059538,included_game_day
+2007,328,Utah State Aggies,2007-02-14,39.759630610992886,included_game_day
+2007,328,Utah State Aggies,2007-02-17,48.79768285209566,included_game_day
+2007,328,Utah State Aggies,2007-02-22,47.90634367921099,included_game_day
+2007,328,Utah State Aggies,2007-02-24,30.453992780086935,included_game_day
+2007,328,Utah State Aggies,2007-03-01,36.27980826933774,included_game_day
+2007,328,Utah State Aggies,2007-03-03,27.18173982953251,included_game_day
+2007,328,Utah State Aggies,2007-03-08,32.57105698985974,included_game_day
+2007,328,Utah State Aggies,2007-03-09,44.25927760505726,included_game_day
+2007,328,Utah State Aggies,2007-03-10,46.64826966998971,included_game_day
+2007,328,Utah State Aggies,2007-03-13,42.674957451897,included_game_day
+2008,328,Utah State Aggies,2007-11-09,8.0,included_game_day
+2008,328,Utah State Aggies,2007-11-10,3.2,included_game_day
+2008,328,Utah State Aggies,2007-11-15,-9.98,included_game_day
+2008,328,Utah State Aggies,2007-11-17,-25.282,included_game_day
+2008,328,Utah State Aggies,2007-11-20,-22.3289,included_game_day
+2008,328,Utah State Aggies,2007-11-23,-38.59101,included_game_day
+2008,328,Utah State Aggies,2007-11-24,-19.565058999999998,included_game_day
+2008,328,Utah State Aggies,2007-12-01,-12.147218499999997,included_game_day
+2008,328,Utah State Aggies,2007-12-05,-28.31974368,included_game_day
+2008,328,Utah State Aggies,2007-12-08,-7.672471611999999,included_game_day
+2008,328,Utah State Aggies,2007-12-15,2.98504775539158,included_game_day
+2008,328,Utah State Aggies,2007-12-20,22.587874070229123,included_game_day
+2008,328,Utah State Aggies,2007-12-21,37.34083190664508,included_game_day
+2008,328,Utah State Aggies,2007-12-29,57.00629351031714,included_game_day
+2008,328,Utah State Aggies,2008-01-03,52.44015392754373,included_game_day
+2008,328,Utah State Aggies,2008-01-12,61.75577933802114,included_game_day
+2008,328,Utah State Aggies,2008-01-17,60.632574960766114,included_game_day
+2008,328,Utah State Aggies,2008-01-24,57.96214301873234,included_game_day
+2008,328,Utah State Aggies,2008-01-26,28.373250514869053,included_game_day
+2008,328,Utah State Aggies,2008-02-02,41.39959634891172,included_game_day
+2008,328,Utah State Aggies,2008-02-07,46.793990263254464,included_game_day
+2008,328,Utah State Aggies,2008-02-09,38.06526807561555,included_game_day
+2008,328,Utah State Aggies,2008-02-11,39.72662609962542,included_game_day
+2008,328,Utah State Aggies,2008-02-17,32.908067190971046,included_game_day
+2008,328,Utah State Aggies,2008-02-18,24.682035826719158,included_game_day
+2008,328,Utah State Aggies,2008-02-22,34.415739493060805,included_game_day
+2008,328,Utah State Aggies,2008-02-28,44.581644503234216,included_game_day
+2008,328,Utah State Aggies,2008-03-03,49.6070852295529,included_game_day
+2008,328,Utah State Aggies,2008-03-06,69.90579186991565,included_game_day
+2008,328,Utah State Aggies,2008-03-08,80.22091168738815,included_game_day
+2008,328,Utah State Aggies,2008-03-13,85.42071330026215,included_game_day
+2008,328,Utah State Aggies,2008-03-14,67.83700105321856,included_game_day
+2008,328,Utah State Aggies,2008-03-19,63.35645419929314,included_game_day
+2009,328,Utah State Aggies,2008-11-17,5.0,included_game_day
+2009,328,Utah State Aggies,2008-11-25,27.684,included_game_day
+2009,328,Utah State Aggies,2008-11-29,61.9384,included_game_day
+2009,328,Utah State Aggies,2008-12-02,55.535051,included_game_day
+2009,328,Utah State Aggies,2008-12-06,56.8656838,included_game_day
+2009,328,Utah State Aggies,2008-12-13,75.351190431177,included_game_day
+2009,328,Utah State Aggies,2008-12-17,78.1764809833663,included_game_day
+2009,328,Utah State Aggies,2008-12-20,80.86366322544768,included_game_day
+2009,328,Utah State Aggies,2008-12-22,76.07879661356539,included_game_day
+2009,328,Utah State Aggies,2008-12-29,94.03852106137646,included_game_day
+2009,328,Utah State Aggies,2008-12-30,87.1162599198047,included_game_day
+2009,328,Utah State Aggies,2008-12-31,79.05452468227166,included_game_day
+2009,328,Utah State Aggies,2009-01-05,77.98466563585059,included_game_day
+2009,328,Utah State Aggies,2009-01-08,84.6156696511666,included_game_day
+2009,328,Utah State Aggies,2009-01-10,91.54216410277876,included_game_day
+2009,328,Utah State Aggies,2009-01-15,81.2093831035802,included_game_day
+2009,328,Utah State Aggies,2009-01-17,84.57292106094772,included_game_day
+2009,328,Utah State Aggies,2009-01-22,82.07234926814701,included_game_day
+2009,328,Utah State Aggies,2009-01-25,88.69635797581155,included_game_day
+2009,328,Utah State Aggies,2009-01-29,90.3831068993307,included_game_day
+2009,328,Utah State Aggies,2009-01-31,90.66700204931469,included_game_day
+2009,328,Utah State Aggies,2009-02-05,98.98668017198074,included_game_day
+2009,328,Utah State Aggies,2009-02-07,91.94930126153898,included_game_day
+2009,328,Utah State Aggies,2009-02-12,93.6139807026887,included_game_day
+2009,328,Utah State Aggies,2009-02-14,78.6506706125147,included_game_day
+2009,328,Utah State Aggies,2009-02-18,78.15524715238666,included_game_day
+2009,328,Utah State Aggies,2009-02-21,68.50252019877321,included_game_day
+2009,328,Utah State Aggies,2009-02-26,78.25555360846232,included_game_day
+2009,328,Utah State Aggies,2009-02-28,62.743771004718774,included_game_day
+2009,328,Utah State Aggies,2009-03-07,62.09196943618453,included_game_day
+2009,328,Utah State Aggies,2009-03-12,70.41823710116644,included_game_day
+2009,328,Utah State Aggies,2009-03-13,66.08563194445543,included_game_day
+2009,328,Utah State Aggies,2009-03-14,75.75461328371169,included_game_day
+2009,328,Utah State Aggies,2009-03-20,80.090398107342,included_game_day
+2010,328,Utah State Aggies,2009-11-13,9.0,included_game_day
+2010,328,Utah State Aggies,2009-11-18,9.1,included_game_day
+2010,328,Utah State Aggies,2009-11-21,8.08,included_game_day
+2010,328,Utah State Aggies,2009-11-24,32.622,included_game_day
+2010,328,Utah State Aggies,2009-11-28,62.685664,included_game_day
+2010,328,Utah State Aggies,2009-12-02,73.1413192,included_game_day
+2010,328,Utah State Aggies,2009-12-05,63.56037648,included_game_day
+2010,328,Utah State Aggies,2009-12-12,82.418160295,included_game_day
+2010,328,Utah State Aggies,2009-12-16,87.13708019931,included_game_day
+2010,328,Utah State Aggies,2009-12-18,67.03108578427901,included_game_day
+2010,328,Utah State Aggies,2009-12-21,60.911400082734815,included_game_day
+2010,328,Utah State Aggies,2009-12-22,72.07294562661075,included_game_day
+2010,328,Utah State Aggies,2009-12-23,75.23603381979575,included_game_day
+2010,328,Utah State Aggies,2010-01-02,65.05834184500937,included_game_day
+2010,328,Utah State Aggies,2010-01-04,46.426348647749926,included_game_day
+2010,328,Utah State Aggies,2010-01-11,82.0734660337815,included_game_day
+2010,328,Utah State Aggies,2010-01-13,92.41033394591435,included_game_day
+2010,328,Utah State Aggies,2010-01-16,101.82890297692613,included_game_day
+2010,328,Utah State Aggies,2010-01-21,124.30604778777064,included_game_day
+2010,328,Utah State Aggies,2010-01-23,127.75589238903703,included_game_day
+2010,328,Utah State Aggies,2010-01-30,133.41526594378126,included_game_day
+2010,328,Utah State Aggies,2010-02-03,135.57806570684482,included_game_day
+2010,328,Utah State Aggies,2010-02-06,135.25301407806535,included_game_day
+2010,328,Utah State Aggies,2010-02-11,128.46260585841415,included_game_day
+2010,328,Utah State Aggies,2010-02-13,135.5857910986207,included_game_day
+2010,328,Utah State Aggies,2010-02-17,129.3687502699827,included_game_day
+2010,328,Utah State Aggies,2010-02-21,128.55670333325614,included_game_day
+2010,328,Utah State Aggies,2010-02-26,121.92583237578319,included_game_day
+2010,328,Utah State Aggies,2010-03-01,142.0908004466808,included_game_day
+2010,328,Utah State Aggies,2010-03-06,147.18541605888652,included_game_day
+2010,328,Utah State Aggies,2010-03-11,161.36323894462416,included_game_day
+2010,328,Utah State Aggies,2010-03-12,177.81445784381708,included_game_day
+2010,328,Utah State Aggies,2010-03-13,159.60911749156585,included_game_day
+2010,328,Utah State Aggies,2010-03-19,141.25550897319786,included_game_day
+2011,328,Utah State Aggies,2010-11-13,9.0,included_game_day
+2011,328,Utah State Aggies,2010-11-17,7.5,included_game_day
+2011,328,Utah State Aggies,2010-11-20,23.882,included_game_day
+2011,328,Utah State Aggies,2010-11-24,37.0358,included_game_day
+2011,328,Utah State Aggies,2010-11-27,30.489530000000002,included_game_day
+2011,328,Utah State Aggies,2010-12-01,35.0421904,included_game_day
+2011,328,Utah State Aggies,2010-12-04,25.234215214000002,included_game_day
+2011,328,Utah State Aggies,2010-12-07,46.4928617147,included_game_day
+2011,328,Utah State Aggies,2010-12-11,58.23270351884,included_game_day
+2011,328,Utah State Aggies,2010-12-18,72.4674586312544,included_game_day
+2011,328,Utah State Aggies,2010-12-21,79.78010118780668,included_game_day
+2011,328,Utah State Aggies,2010-12-22,88.60141823121461,included_game_day
+2011,328,Utah State Aggies,2010-12-23,110.57779678392615,included_game_day
+2011,328,Utah State Aggies,2010-12-29,106.96625130435498,included_game_day
+2011,328,Utah State Aggies,2010-12-31,102.21254341888708,included_game_day
+2011,328,Utah State Aggies,2011-01-08,108.21463191899784,included_game_day
+2011,328,Utah State Aggies,2011-01-13,116.26630446611892,included_game_day
+2011,328,Utah State Aggies,2011-01-15,119.35261504502587,included_game_day
+2011,328,Utah State Aggies,2011-01-20,115.38935119809416,included_game_day
+2011,328,Utah State Aggies,2011-01-22,111.972492250993,included_game_day
+2011,328,Utah State Aggies,2011-01-27,120.2478024624628,included_game_day
+2011,328,Utah State Aggies,2011-01-30,114.04367499266904,included_game_day
+2011,328,Utah State Aggies,2011-02-02,123.09884778174674,included_game_day
+2011,328,Utah State Aggies,2011-02-05,137.18267258672373,included_game_day
+2011,328,Utah State Aggies,2011-02-09,119.14450568100654,included_game_day
+2011,328,Utah State Aggies,2011-02-12,120.26027579019696,included_game_day
+2011,328,Utah State Aggies,2011-02-19,128.79103365221545,included_game_day
+2011,328,Utah State Aggies,2011-02-26,132.92624286097453,included_game_day
+2011,328,Utah State Aggies,2011-03-02,128.29508261927072,included_game_day
+2011,328,Utah State Aggies,2011-03-05,155.87600827942575,included_game_day
+2011,328,Utah State Aggies,2011-03-11,143.90904723264032,included_game_day
+2011,328,Utah State Aggies,2011-03-12,145.25880902824056,included_game_day
+2011,328,Utah State Aggies,2011-03-17,138.3571052435916,included_game_day
+2012,328,Utah State Aggies,2011-11-11,4.0,included_game_day
+2012,328,Utah State Aggies,2011-11-15,-3.4000000000000004,included_game_day
+2012,328,Utah State Aggies,2011-11-19,-3.91,included_game_day
+2012,328,Utah State Aggies,2011-11-22,-7.079000000000001,included_game_day
+2012,328,Utah State Aggies,2011-11-26,7.688099999999999,included_game_day
+2012,328,Utah State Aggies,2011-11-30,-8.428265,included_game_day
+2012,328,Utah State Aggies,2011-12-03,-17.9844622,included_game_day
+2012,328,Utah State Aggies,2011-12-06,-12.208875881,included_game_day
+2012,328,Utah State Aggies,2011-12-10,-7.83788399374,included_game_day
+2012,328,Utah State Aggies,2011-12-17,12.211678877253497,included_game_day
+2012,328,Utah State Aggies,2011-12-20,14.126662647335149,included_game_day
+2012,328,Utah State Aggies,2011-12-21,30.850389952135576,included_game_day
+2012,328,Utah State Aggies,2011-12-22,48.26093568527338,included_game_day
+2012,328,Utah State Aggies,2011-12-31,53.91174577033487,included_game_day
+2012,328,Utah State Aggies,2012-01-05,65.90712389209044,included_game_day
+2012,328,Utah State Aggies,2012-01-07,54.99389355894186,included_game_day
+2012,328,Utah State Aggies,2012-01-12,35.86952725490884,included_game_day
+2012,328,Utah State Aggies,2012-01-14,35.07060778247966,included_game_day
+2012,328,Utah State Aggies,2012-01-19,23.575699648601883,included_game_day
+2012,328,Utah State Aggies,2012-01-21,22.198148950211866,included_game_day
+2012,328,Utah State Aggies,2012-01-26,23.928893937826775,included_game_day
+2012,328,Utah State Aggies,2012-01-28,30.48401717775515,included_game_day
+2012,328,Utah State Aggies,2012-02-02,36.65871323617799,included_game_day
+2012,328,Utah State Aggies,2012-02-04,30.54810405322607,included_game_day
+2012,328,Utah State Aggies,2012-02-09,36.55501669930664,included_game_day
+2012,328,Utah State Aggies,2012-02-11,23.96509339309014,included_game_day
+2012,328,Utah State Aggies,2012-02-18,13.850929044696588,included_game_day
+2012,328,Utah State Aggies,2012-02-24,27.796264335672994,included_game_day
+2012,328,Utah State Aggies,2012-03-01,33.825970891161845,included_game_day
+2012,328,Utah State Aggies,2012-03-04,28.94710265946142,included_game_day
+2012,328,Utah State Aggies,2012-03-08,25.678665281099356,included_game_day
+2012,328,Utah State Aggies,2012-03-14,22.667607552624567,included_game_day
+2012,328,Utah State Aggies,2012-03-17,39.11080476642826,included_game_day
+2012,328,Utah State Aggies,2012-03-21,42.55391884192592,included_game_day
+2012,328,Utah State Aggies,2012-03-25,64.58980087643735,included_game_day
+2012,328,Utah State Aggies,2012-03-28,57.574446872885275,included_game_day
+2013,328,Utah State Aggies,2012-11-10,5.0,included_game_day
+2013,328,Utah State Aggies,2012-11-15,-7.5,included_game_day
+2013,328,Utah State Aggies,2012-11-17,-2.1899999999999995,included_game_day
+2013,328,Utah State Aggies,2012-11-24,5.172000000000001,included_game_day
+2013,328,Utah State Aggies,2012-11-28,13.25806,included_game_day
+2013,328,Utah State Aggies,2012-12-15,14.620100821440001,included_game_day
+2013,328,Utah State Aggies,2012-12-20,11.3013074948249,included_game_day
+2013,328,Utah State Aggies,2012-12-21,19.233704387031807,included_game_day
+2013,328,Utah State Aggies,2012-12-22,28.613946458882182,included_game_day
+2013,328,Utah State Aggies,2012-12-29,30.27321892213072,included_game_day
+2013,328,Utah State Aggies,2012-12-31,49.635629163651174,included_game_day
+2013,328,Utah State Aggies,2013-01-03,47.65438685783407,included_game_day
+2013,328,Utah State Aggies,2013-01-05,47.49639931591197,included_game_day
+2013,328,Utah State Aggies,2013-01-11,44.801590863137754,included_game_day
+2013,328,Utah State Aggies,2013-01-17,32.36107537569171,included_game_day
+2013,328,Utah State Aggies,2013-01-19,30.69249311466353,included_game_day
+2013,328,Utah State Aggies,2013-01-24,16.70284487050828,included_game_day
+2013,328,Utah State Aggies,2013-01-26,15.909081589845766,included_game_day
+2013,328,Utah State Aggies,2013-01-31,26.95626877459243,included_game_day
+2013,328,Utah State Aggies,2013-02-02,46.51868154029658,included_game_day
+2013,328,Utah State Aggies,2013-02-08,65.16288799804026,included_game_day
+2013,328,Utah State Aggies,2013-02-14,62.05408864911463,included_game_day
+2013,328,Utah State Aggies,2013-02-16,61.38986538240395,included_game_day
+2013,328,Utah State Aggies,2013-02-19,63.56800735502081,included_game_day
+2013,328,Utah State Aggies,2013-02-23,69.2973266276426,included_game_day
+2013,328,Utah State Aggies,2013-02-28,49.973791763224156,included_game_day
+2013,328,Utah State Aggies,2013-03-02,33.14765869085117,included_game_day
+2013,328,Utah State Aggies,2013-03-07,34.64433877083499,included_game_day
+2013,328,Utah State Aggies,2013-03-09,43.61665836706835,included_game_day
+2013,328,Utah State Aggies,2013-03-14,35.05987687923889,included_game_day
+2014,328,Utah State Aggies,2013-11-08,10.0,included_game_day
+2014,328,Utah State Aggies,2013-11-12,39.0,included_game_day
+2014,328,Utah State Aggies,2013-11-16,47.66,included_game_day
+2014,328,Utah State Aggies,2013-11-23,62.5823,included_game_day
+2014,328,Utah State Aggies,2013-11-26,62.71507,included_game_day
+2014,328,Utah State Aggies,2013-11-30,48.539877499999996,included_game_day
+2014,328,Utah State Aggies,2013-12-07,32.60200252,included_game_day
+2014,328,Utah State Aggies,2013-12-14,34.0181474947,included_game_day
+2014,328,Utah State Aggies,2013-12-19,42.50137883344,included_game_day
+2014,328,Utah State Aggies,2013-12-20,45.334778269636324,included_game_day
+2014,328,Utah State Aggies,2013-12-21,55.62728503916688,included_game_day
+2014,328,Utah State Aggies,2014-01-01,48.16099048878736,included_game_day
+2014,328,Utah State Aggies,2014-01-04,56.23030941055029,included_game_day
+2014,328,Utah State Aggies,2014-01-11,46.849015263598474,included_game_day
+2014,328,Utah State Aggies,2014-01-15,48.43025998333651,included_game_day
+2014,328,Utah State Aggies,2014-01-18,49.57771137445667,included_game_day
+2014,328,Utah State Aggies,2014-01-22,33.89538422330027,included_game_day
+2014,328,Utah State Aggies,2014-01-25,33.21815005493617,included_game_day
+2014,328,Utah State Aggies,2014-01-28,20.41995026512499,included_game_day
+2014,328,Utah State Aggies,2014-02-01,7.635796801627503,included_game_day
+2014,328,Utah State Aggies,2014-02-05,15.622866005688167,included_game_day
+2014,328,Utah State Aggies,2014-02-08,23.73463339520025,included_game_day
+2014,328,Utah State Aggies,2014-02-11,38.10405801882223,included_game_day
+2014,328,Utah State Aggies,2014-02-15,25.948774290617507,included_game_day
+2014,328,Utah State Aggies,2014-02-18,20.54210235966245,included_game_day
+2014,328,Utah State Aggies,2014-02-22,16.128860777258907,included_game_day
+2014,328,Utah State Aggies,2014-02-25,19.861629269466597,included_game_day
+2014,328,Utah State Aggies,2014-03-01,29.25065605170548,included_game_day
+2014,328,Utah State Aggies,2014-03-05,35.84662542611647,included_game_day
+2014,328,Utah State Aggies,2014-03-12,38.142112880824634,included_game_day
+2014,328,Utah State Aggies,2014-03-13,12.117471105843812,included_game_day
+2015,328,Utah State Aggies,2014-11-14,8.0,included_game_day
+2015,328,Utah State Aggies,2014-11-16,15.2,included_game_day
+2015,328,Utah State Aggies,2014-11-19,18.08,included_game_day
+2015,328,Utah State Aggies,2014-11-22,13.221999999999998,included_game_day
+2015,328,Utah State Aggies,2014-11-26,8.672799999999999,included_game_day
+2015,328,Utah State Aggies,2014-12-02,-1.3291510000000013,included_game_day
+2015,328,Utah State Aggies,2014-12-07,-2.088808330000001,included_game_day
+2015,328,Utah State Aggies,2014-12-13,-1.1855719007000012,included_game_day
+2015,328,Utah State Aggies,2014-12-18,-6.496219730550002,included_game_day
+2015,328,Utah State Aggies,2014-12-19,1.464715121117699,included_game_day
+2015,328,Utah State Aggies,2014-12-20,-4.037660999524701,included_game_day
+2015,328,Utah State Aggies,2014-12-31,9.72088562504377,included_game_day
+2015,328,Utah State Aggies,2015-01-03,18.137175337619695,included_game_day
+2015,328,Utah State Aggies,2015-01-07,7.896328824646346,included_game_day
+2015,328,Utah State Aggies,2015-01-10,2.0525427533590967,included_game_day
+2015,328,Utah State Aggies,2015-01-17,11.040240685313089,included_game_day
+2015,328,Utah State Aggies,2015-01-20,24.074898597462195,included_game_day
+2015,328,Utah State Aggies,2015-01-24,25.197996403140053,included_game_day
+2015,328,Utah State Aggies,2015-01-27,36.47348811433024,included_game_day
+2015,328,Utah State Aggies,2015-01-31,25.057896782855604,included_game_day
+2015,328,Utah State Aggies,2015-02-03,23.221366620431176,included_game_day
+2015,328,Utah State Aggies,2015-02-07,30.47190798310354,included_game_day
+2015,328,Utah State Aggies,2015-02-10,32.43660079165309,included_game_day
+2015,328,Utah State Aggies,2015-02-18,37.35020220837889,included_game_day
+2015,328,Utah State Aggies,2015-02-21,35.733857371372764,included_game_day
+2015,328,Utah State Aggies,2015-02-24,51.37701883548468,included_game_day
+2015,328,Utah State Aggies,2015-02-28,62.08488540952477,included_game_day
+2015,328,Utah State Aggies,2015-03-04,34.83829821588304,included_game_day
+2015,328,Utah State Aggies,2015-03-07,31.24987097732936,included_game_day
+2015,328,Utah State Aggies,2015-03-12,27.651986620259184,included_game_day
+2016,328,Utah State Aggies,2015-11-13,6.0,included_game_day
+2016,328,Utah State Aggies,2015-11-24,25.125,included_game_day
+2016,328,Utah State Aggies,2015-11-29,-2.260480000000001,included_game_day
+2016,328,Utah State Aggies,2015-12-01,-3.016832000000001,included_game_day
+2016,328,Utah State Aggies,2015-12-09,-8.765535193000002,included_game_day
+2016,328,Utah State Aggies,2015-12-12,-19.5263643225,included_game_day
+2016,328,Utah State Aggies,2015-12-21,-2.8358799657600002,included_game_day
+2016,328,Utah State Aggies,2015-12-22,-0.15762497808097997,included_game_day
+2016,328,Utah State Aggies,2015-12-23,11.82703299361438,included_game_day
+2016,328,Utah State Aggies,2015-12-30,18.57196807432484,included_game_day
+2016,328,Utah State Aggies,2016-01-02,13.678269283214771,included_game_day
+2016,328,Utah State Aggies,2016-01-05,-3.368462473130151,included_game_day
+2016,328,Utah State Aggies,2016-01-09,-15.370681103534421,included_game_day
+2016,328,Utah State Aggies,2016-01-12,-2.4783358899974903,included_game_day
+2016,328,Utah State Aggies,2016-01-16,4.707230617893709,included_game_day
+2016,328,Utah State Aggies,2016-01-19,-3.2263265304434405,included_game_day
+2016,328,Utah State Aggies,2016-01-23,-9.743650902206511,included_game_day
+2016,328,Utah State Aggies,2016-01-30,-15.85485465108783,included_game_day
+2016,328,Utah State Aggies,2016-02-02,-9.194381461510366,included_game_day
+2016,328,Utah State Aggies,2016-02-06,-27.096746222208836,included_game_day
+2016,328,Utah State Aggies,2016-02-09,-13.584556324863158,included_game_day
+2016,328,Utah State Aggies,2016-02-17,-1.5350502561188506,included_game_day
+2016,328,Utah State Aggies,2016-02-20,-3.6130330807120377,included_game_day
+2016,328,Utah State Aggies,2016-02-24,-3.738347532125349,included_game_day
+2016,328,Utah State Aggies,2016-02-27,6.5303056947874225,included_game_day
+2016,328,Utah State Aggies,2016-03-01,18.02224876583309,included_game_day
+2016,328,Utah State Aggies,2016-03-05,15.433505030364254,included_game_day
+2016,328,Utah State Aggies,2016-03-09,30.27829183476375,included_game_day
+2016,328,Utah State Aggies,2016-03-10,33.42016242122946,included_game_day
+2017,328,Utah State Aggies,2016-11-11,19.0,included_game_day
+2017,328,Utah State Aggies,2016-11-14,23.1,included_game_day
+2017,328,Utah State Aggies,2016-11-19,50.27,included_game_day
+2017,328,Utah State Aggies,2016-11-22,27.721000000000004,included_game_day
+2017,328,Utah State Aggies,2016-11-23,6.048970000000004,included_game_day
+2017,328,Utah State Aggies,2016-11-30,-4.708175859999995,included_game_day
+2017,328,Utah State Aggies,2016-12-03,-6.657267616999996,included_game_day
+2017,328,Utah State Aggies,2016-12-10,-1.3547365459599963,included_game_day
+2017,328,Utah State Aggies,2016-12-19,0.890235705613013,included_game_day
+2017,328,Utah State Aggies,2016-12-21,-9.127898617815688,included_game_day
+2017,328,Utah State Aggies,2016-12-28,-10.45702356122602,included_game_day
+2017,328,Utah State Aggies,2016-12-31,-11.591198201246982,included_game_day
+2017,328,Utah State Aggies,2017-01-04,-7.2312934913695655,included_game_day
+2017,328,Utah State Aggies,2017-01-07,3.3859527057641907,included_game_day
+2017,328,Utah State Aggies,2017-01-11,-0.029917354098956572,included_game_day
+2017,328,Utah State Aggies,2017-01-14,-11.639938337219888,included_game_day
+2017,328,Utah State Aggies,2017-01-21,-20.775257723359076,included_game_day
+2017,328,Utah State Aggies,2017-01-24,-24.49569404480757,included_game_day
+2017,328,Utah State Aggies,2017-01-28,-6.836976726629569,included_game_day
+2017,328,Utah State Aggies,2017-02-01,16.49737744154673,included_game_day
+2017,328,Utah State Aggies,2017-02-04,19.911645354141,included_game_day
+2017,328,Utah State Aggies,2017-02-07,7.722685065528111,included_game_day
+2017,328,Utah State Aggies,2017-02-11,11.495424453316787,included_game_day
+2017,328,Utah State Aggies,2017-02-15,9.167028344920773,included_game_day
+2017,328,Utah State Aggies,2017-02-18,7.739263436493518,included_game_day
+2017,328,Utah State Aggies,2017-02-22,14.060835628693209,included_game_day
+2017,328,Utah State Aggies,2017-02-25,38.365653159772464,included_game_day
+2017,328,Utah State Aggies,2017-03-01,20.56678357415098,included_game_day
+2017,328,Utah State Aggies,2017-03-08,41.14790813078906,included_game_day
+2017,328,Utah State Aggies,2017-03-09,34.20606261969006,included_game_day
+2018,328,Utah State Aggies,2017-11-10,-3.0,included_game_day
+2018,328,Utah State Aggies,2017-11-13,2.9000000000000004,included_game_day
+2018,328,Utah State Aggies,2017-11-15,29.659999999999997,included_game_day
+2018,328,Utah State Aggies,2017-11-18,22.205999999999996,included_game_day
+2018,328,Utah State Aggies,2017-11-20,21.212399999999995,included_game_day
+2018,328,Utah State Aggies,2017-11-24,21.104619999999997,included_game_day
+2018,328,Utah State Aggies,2017-11-25,29.567328099999997,included_game_day
+2018,328,Utah State Aggies,2017-11-28,28.933734289999997,included_game_day
+2018,328,Utah State Aggies,2017-12-02,17.840344060999996,included_game_day
+2018,328,Utah State Aggies,2017-12-06,12.324750634899996,included_game_day
+2018,328,Utah State Aggies,2017-12-09,6.550708823409996,included_game_day
+2018,328,Utah State Aggies,2017-12-20,8.615431109118996,included_game_day
+2018,328,Utah State Aggies,2017-12-27,14.451190301172508,included_game_day
+2018,328,Utah State Aggies,2017-12-30,1.4930595552960373,included_game_day
+2018,328,Utah State Aggies,2018-01-03,5.602587613030426,included_game_day
+2018,328,Utah State Aggies,2018-01-06,22.95168415319682,included_game_day
+2018,328,Utah State Aggies,2018-01-10,4.5392846986156705,included_game_day
+2018,328,Utah State Aggies,2018-01-13,-8.925341592849621,included_game_day
+2018,328,Utah State Aggies,2018-01-17,1.003189981400391,included_game_day
+2018,328,Utah State Aggies,2018-01-20,-9.399547866188847,included_game_day
+2018,328,Utah State Aggies,2018-01-24,5.779977724817579,included_game_day
+2018,328,Utah State Aggies,2018-01-27,17.120292786964285,included_game_day
+2018,328,Utah State Aggies,2018-01-31,25.70313667134546,included_game_day
+2018,328,Utah State Aggies,2018-02-07,8.43713745029422,included_game_day
+2018,328,Utah State Aggies,2018-02-10,18.503590983041846,included_game_day
+2018,328,Utah State Aggies,2018-02-14,6.027734603666531,included_game_day
+2018,328,Utah State Aggies,2018-02-17,7.578147130345682,included_game_day
+2018,328,Utah State Aggies,2018-02-24,-5.609755437074654,included_game_day
+2018,328,Utah State Aggies,2018-02-28,-12.128310788108465,included_game_day
+2018,328,Utah State Aggies,2018-03-03,-1.7969174104180219,included_game_day
+2018,328,Utah State Aggies,2018-03-07,2.1788143060534075,included_game_day
+2018,328,Utah State Aggies,2018-03-08,14.096679887069131,included_game_day
+2018,328,Utah State Aggies,2018-03-09,3.864809618583166,included_game_day
+2019,328,Utah State Aggies,2018-11-06,33.0,included_game_day
+2019,328,Utah State Aggies,2018-11-09,52.7,included_game_day
+2019,328,Utah State Aggies,2018-11-13,71.06,included_game_day
+2019,328,Utah State Aggies,2018-11-16,76.797,included_game_day
+2019,328,Utah State Aggies,2018-11-19,92.0876,included_game_day
+2019,328,Utah State Aggies,2018-11-21,83.70155,included_game_day
+2019,328,Utah State Aggies,2018-11-28,90.78927159999999,included_game_day
+2019,328,Utah State Aggies,2018-12-01,112.75689625,included_game_day
+2019,328,Utah State Aggies,2018-12-05,92.787870064,included_game_day
+2019,328,Utah State Aggies,2018-12-08,92.17762810512001,included_game_day
+2019,328,Utah State Aggies,2018-12-15,110.99055731330802,included_game_day
+2019,328,Utah State Aggies,2018-12-20,101.3906969834928,included_game_day
+2019,328,Utah State Aggies,2019-01-02,83.84709041742468,included_game_day
+2019,328,Utah State Aggies,2019-01-05,84.9350607038245,included_game_day
+2019,328,Utah State Aggies,2019-01-09,80.75360989676803,included_game_day
+2019,328,Utah State Aggies,2019-01-12,82.42598292531554,included_game_day
+2019,328,Utah State Aggies,2019-01-16,84.30170442657791,included_game_day
+2019,328,Utah State Aggies,2019-01-19,87.00796077378351,included_game_day
+2019,328,Utah State Aggies,2019-01-26,81.37932457836321,included_game_day
+2019,328,Utah State Aggies,2019-01-30,86.78941549320501,included_game_day
+2019,328,Utah State Aggies,2019-02-02,92.69388724503344,included_game_day
+2019,328,Utah State Aggies,2019-02-05,93.68665032899867,included_game_day
+2019,328,Utah State Aggies,2019-02-09,83.94424020267903,included_game_day
+2019,328,Utah State Aggies,2019-02-13,80.25145206783827,included_game_day
+2019,328,Utah State Aggies,2019-02-16,83.55576614472949,included_game_day
+2019,328,Utah State Aggies,2019-02-20,88.1146657658263,included_game_day
+2019,328,Utah State Aggies,2019-02-23,93.48142324436692,included_game_day
+2019,328,Utah State Aggies,2019-02-26,102.85374218254819,included_game_day
+2019,328,Utah State Aggies,2019-03-02,109.82833966041187,included_game_day
+2019,328,Utah State Aggies,2019-03-05,107.73522928359134,included_game_day
+2019,328,Utah State Aggies,2019-03-14,102.76357497792512,included_game_day
+2019,328,Utah State Aggies,2019-03-15,126.29193514429821,included_game_day
+2019,328,Utah State Aggies,2019-03-16,126.50121605015926,included_game_day
+2019,328,Utah State Aggies,2019-03-22,102.87964041472978,included_game_day
+2020,328,Utah State Aggies,2019-11-05,5.0,included_game_day
+2020,328,Utah State Aggies,2019-11-08,56.5,included_game_day
+2020,328,Utah State Aggies,2019-11-12,89.03,included_game_day
+2020,328,Utah State Aggies,2019-11-15,100.32300000000001,included_game_day
+2020,328,Utah State Aggies,2019-11-18,114.88570000000001,included_game_day
+2020,328,Utah State Aggies,2019-11-22,109.10732000000002,included_game_day
+2020,328,Utah State Aggies,2019-11-24,105.35646700000001,included_game_day
+2020,328,Utah State Aggies,2019-11-29,94.13553952000001,included_game_day
+2020,328,Utah State Aggies,2019-12-04,90.10094604480001,included_game_day
+2020,328,Utah State Aggies,2019-12-07,82.66139493582001,included_game_day
+2020,328,Utah State Aggies,2019-12-14,79.591757228583,included_game_day
+2020,328,Utah State Aggies,2019-12-18,76.1809125386291,included_game_day
+2020,328,Utah State Aggies,2019-12-21,77.66734310254026,included_game_day
+2020,328,Utah State Aggies,2020-01-01,54.65726144610269,included_game_day
+2020,328,Utah State Aggies,2020-01-04,48.63108060142022,included_game_day
+2020,328,Utah State Aggies,2020-01-07,29.79150963686916,included_game_day
+2020,328,Utah State Aggies,2020-01-11,38.90600977258259,included_game_day
+2020,328,Utah State Aggies,2020-01-18,35.35401348668826,included_game_day
+2020,328,Utah State Aggies,2020-01-21,56.26626920583955,included_game_day
+2020,328,Utah State Aggies,2020-01-25,71.53165413006178,included_game_day
+2020,328,Utah State Aggies,2020-01-28,83.9816344071484,included_game_day
+2020,328,Utah State Aggies,2020-02-01,80.5926583536899,included_game_day
+2020,328,Utah State Aggies,2020-02-05,86.30649939185744,included_game_day
+2020,328,Utah State Aggies,2020-02-08,90.97328368834262,included_game_day
+2020,328,Utah State Aggies,2020-02-11,95.65687645081394,included_game_day
+2020,328,Utah State Aggies,2020-02-15,100.48571919896978,included_game_day
+2020,328,Utah State Aggies,2020-02-19,99.66197258071378,included_game_day
+2020,328,Utah State Aggies,2020-02-25,116.52864242229855,included_game_day
+2020,328,Utah State Aggies,2020-02-29,103.32788958641602,included_game_day
+2020,328,Utah State Aggies,2020-03-05,97.11012123068103,included_game_day
+2020,328,Utah State Aggies,2020-03-06,91.53912357809541,included_game_day
+2020,328,Utah State Aggies,2020-03-07,99.29473399821839,included_game_day
+2021,328,Utah State Aggies,2020-11-25,-16.0,included_game_day
+2021,328,Utah State Aggies,2020-11-26,-39.2,included_game_day
+2021,328,Utah State Aggies,2020-11-27,-25.190000000000005,included_game_day
+2021,328,Utah State Aggies,2020-12-05,-26.982600000000005,included_game_day
+2021,328,Utah State Aggies,2020-12-18,-16.274421493000006,included_game_day
+2021,328,Utah State Aggies,2020-12-21,24.545958846299996,included_game_day
+2021,328,Utah State Aggies,2020-12-23,45.202263117739996,included_game_day
+2021,328,Utah State Aggies,2020-12-31,76.157957387966,included_game_day
+2021,328,Utah State Aggies,2021-01-02,84.92251280414679,included_game_day
+2021,328,Utah State Aggies,2021-01-06,106.38523275121211,included_game_day
+2021,328,Utah State Aggies,2021-01-08,127.55540870886438,included_game_day
+2021,328,Utah State Aggies,2021-01-14,129.3311536597638,included_game_day
+2021,328,Utah State Aggies,2021-01-16,123.75174962048334,included_game_day
+2021,328,Utah State Aggies,2021-01-19,134.37517735334683,included_game_day
+2021,328,Utah State Aggies,2021-01-21,115.87391953963763,included_game_day
+2021,328,Utah State Aggies,2021-01-25,103.60714542640939,included_game_day
+2021,328,Utah State Aggies,2021-01-27,105.7937261358268,included_game_day
+2021,328,Utah State Aggies,2021-02-04,111.1507324023295,included_game_day
+2021,328,Utah State Aggies,2021-02-17,101.80404085675335,included_game_day
+2021,328,Utah State Aggies,2021-02-19,99.32668762029243,included_game_day
+2021,328,Utah State Aggies,2021-02-26,96.54173202822545,included_game_day
+2021,328,Utah State Aggies,2021-02-28,112.31376755457187,included_game_day
+2021,328,Utah State Aggies,2021-03-04,109.9999471507148,included_game_day
+2021,328,Utah State Aggies,2021-03-06,106.79129381597352,included_game_day
+2021,328,Utah State Aggies,2021-03-11,116.21790581547576,included_game_day
+2021,328,Utah State Aggies,2021-03-12,124.94909924728869,included_game_day
+2021,328,Utah State Aggies,2021-03-13,113.70682514539222,included_game_day
+2021,328,Utah State Aggies,2021-03-19,99.09220911106233,included_game_day
+2022,328,Utah State Aggies,2021-11-09,-6.0,included_game_day
+2022,328,Utah State Aggies,2021-11-12,6.300000000000001,included_game_day
+2022,328,Utah State Aggies,2021-11-18,12.769100000000002,included_game_day
+2022,328,Utah State Aggies,2021-11-19,40.70049,included_game_day
+2022,328,Utah State Aggies,2021-11-21,48.069591,included_game_day
+2022,328,Utah State Aggies,2021-11-27,52.7688079,included_game_day
+2022,328,Utah State Aggies,2021-12-02,47.277483202,included_game_day
+2022,328,Utah State Aggies,2021-12-08,41.487762835403,included_game_day
+2022,328,Utah State Aggies,2021-12-11,63.0096360470627,included_game_day
+2022,328,Utah State Aggies,2021-12-15,77.15252518249143,included_game_day
+2022,328,Utah State Aggies,2021-12-18,59.176579964103084,included_game_day
+2022,328,Utah State Aggies,2021-12-21,65.10947170365941,included_game_day
+2022,328,Utah State Aggies,2021-12-29,56.12316666586406,included_game_day
+2022,328,Utah State Aggies,2022-01-08,55.55657621269718,included_game_day
+2022,328,Utah State Aggies,2022-01-12,53.07495473257318,included_game_day
+2022,328,Utah State Aggies,2022-01-15,50.40558286016917,included_game_day
+2022,328,Utah State Aggies,2022-01-18,50.36610005419807,included_game_day
+2022,328,Utah State Aggies,2022-01-20,47.90874543882273,included_game_day
+2022,328,Utah State Aggies,2022-01-26,67.51583790763698,included_game_day
+2022,328,Utah State Aggies,2022-01-29,93.85866115536547,included_game_day
+2022,328,Utah State Aggies,2022-02-01,107.42881493369988,included_game_day
+2022,328,Utah State Aggies,2022-02-03,99.69885083562703,included_game_day
+2022,328,Utah State Aggies,2022-02-05,105.76977612802521,included_game_day
+2022,328,Utah State Aggies,2022-02-08,104.63598804714891,included_game_day
+2022,328,Utah State Aggies,2022-02-11,76.66442407309275,included_game_day
+2022,328,Utah State Aggies,2022-02-15,59.80858275505204,included_game_day
+2022,328,Utah State Aggies,2022-02-19,55.42341982984941,included_game_day
+2022,328,Utah State Aggies,2022-02-22,69.78013882707965,included_game_day
+2022,328,Utah State Aggies,2022-02-26,56.83305238695451,included_game_day
+2022,328,Utah State Aggies,2022-03-04,68.26477754084074,included_game_day
+2022,328,Utah State Aggies,2022-03-09,80.68878083867773,included_game_day
+2022,328,Utah State Aggies,2022-03-10,80.06210009825281,included_game_day
+2022,328,Utah State Aggies,2022-03-15,60.64655282682448,included_game_day
+2023,328,Utah State Aggies,2022-11-07,14.0,included_game_day
+2023,328,Utah State Aggies,2022-11-11,31.6,included_game_day
+2023,328,Utah State Aggies,2022-11-14,49.43,included_game_day
+2023,328,Utah State Aggies,2022-11-17,50.354,included_game_day
+2023,328,Utah State Aggies,2022-11-22,51.1944,included_game_day
+2023,328,Utah State Aggies,2022-12-01,45.82426443,included_game_day
+2023,328,Utah State Aggies,2022-12-04,65.70815615699999,included_game_day
+2023,328,Utah State Aggies,2022-12-11,74.62150417576,included_game_day
+2023,328,Utah State Aggies,2022-12-19,58.806241958667435,included_game_day
+2023,328,Utah State Aggies,2022-12-22,82.27365108789516,included_game_day
+2023,328,Utah State Aggies,2022-12-23,69.84462769359025,included_game_day
+2023,328,Utah State Aggies,2022-12-25,75.50908961539812,included_game_day
+2023,328,Utah State Aggies,2022-12-31,77.62199148600871,included_game_day
+2023,328,Utah State Aggies,2023-01-03,87.4643072760856,included_game_day
+2023,328,Utah State Aggies,2023-01-07,64.95156931885259,included_game_day
+2023,328,Utah State Aggies,2023-01-10,75.67509966295913,included_game_day
+2023,328,Utah State Aggies,2023-01-13,63.69981116595831,included_game_day
+2023,328,Utah State Aggies,2023-01-17,62.48084615787585,included_game_day
+2023,328,Utah State Aggies,2023-01-21,54.30363184550881,included_game_day
+2023,328,Utah State Aggies,2023-01-25,50.712424555657186,included_game_day
+2023,328,Utah State Aggies,2023-01-28,65.82736137823504,included_game_day
+2023,328,Utah State Aggies,2023-02-01,76.48048763079737,included_game_day
+2023,328,Utah State Aggies,2023-02-04,80.05695766132861,included_game_day
+2023,328,Utah State Aggies,2023-02-08,78.54152958207864,included_game_day
+2023,328,Utah State Aggies,2023-02-11,71.51291965959733,included_game_day
+2023,328,Utah State Aggies,2023-02-14,75.71971984132837,included_game_day
+2023,328,Utah State Aggies,2023-02-18,83.33079028722045,included_game_day
+2023,328,Utah State Aggies,2023-02-21,87.39266318825341,included_game_day
+2023,328,Utah State Aggies,2023-03-01,109.66347048523176,included_game_day
+2023,328,Utah State Aggies,2023-03-04,117.14849844981798,included_game_day
+2023,328,Utah State Aggies,2023-03-09,126.88949531471938,included_game_day
+2023,328,Utah State Aggies,2023-03-10,132.48242948690816,included_game_day
+2023,328,Utah State Aggies,2023-03-11,125.72958024486077,included_game_day
+2023,328,Utah State Aggies,2023-03-16,109.82351800684211,included_game_day
+2024,328,Utah State Aggies,2023-11-11,-2.5,included_game_day
+2024,328,Utah State Aggies,2023-11-14,3.95,included_game_day
+2024,328,Utah State Aggies,2023-11-19,27.195,included_game_day
+2024,328,Utah State Aggies,2023-11-20,29.91811,included_game_day
+2024,328,Utah State Aggies,2023-11-21,62.684173,included_game_day
+2024,328,Utah State Aggies,2023-11-28,62.9770092,included_game_day
+2024,328,Utah State Aggies,2023-12-02,68.149384684,included_game_day
+2024,328,Utah State Aggies,2023-12-06,84.06066502710999,included_game_day
+2024,328,Utah State Aggies,2023-12-13,80.91727044529298,included_game_day
+2024,328,Utah State Aggies,2023-12-16,79.40506572076409,included_game_day
+2024,328,Utah State Aggies,2023-12-22,82.73296682434841,included_game_day
+2024,328,Utah State Aggies,2024-01-02,105.77617233925315,included_game_day
+2024,328,Utah State Aggies,2024-01-06,106.27979719156751,included_game_day
+2024,328,Utah State Aggies,2024-01-09,114.4987089927754,included_game_day
+2024,328,Utah State Aggies,2024-01-13,111.96826134586058,included_game_day
+2024,328,Utah State Aggies,2024-01-16,101.04080951479662,included_game_day
+2024,328,Utah State Aggies,2024-01-20,105.91883723426635,included_game_day
+2024,328,Utah State Aggies,2024-01-27,111.1268343111639,included_game_day
+2024,328,Utah State Aggies,2024-01-30,114.8748113001879,included_game_day
+2024,328,Utah State Aggies,2024-02-03,100.07894327797976,included_game_day
+2024,328,Utah State Aggies,2024-02-06,80.19673659470355,included_game_day
+2024,328,Utah State Aggies,2024-02-10,97.66604573037549,included_game_day
+2024,328,Utah State Aggies,2024-02-14,97.66172033060496,included_game_day
+2024,328,Utah State Aggies,2024-02-17,78.31057731502648,included_game_day
+2024,328,Utah State Aggies,2024-02-20,84.06274513647917,included_game_day
+2024,328,Utah State Aggies,2024-02-27,78.4061948836746,included_game_day
+2024,328,Utah State Aggies,2024-03-01,72.86334210191,included_game_day
+2024,328,Utah State Aggies,2024-03-06,81.84128118621516,included_game_day
+2024,328,Utah State Aggies,2024-03-09,82.1791977891329,included_game_day
+2024,328,Utah State Aggies,2024-03-14,79.99794433710267,included_game_day
+2024,328,Utah State Aggies,2024-03-15,66.98663933204217,included_game_day
+2024,328,Utah State Aggies,2024-03-22,87.02390549610283,included_game_day
+2024,328,Utah State Aggies,2024-03-24,55.89566221597754,included_game_day
+2025,328,Utah State Aggies,2024-11-06,48.2,included_game_day
+2025,328,Utah State Aggies,2024-11-09,69.98,included_game_day
+2025,328,Utah State Aggies,2024-11-18,66.78200000000001,included_game_day
+2025,328,Utah State Aggies,2024-11-22,75.00953000000001,included_game_day
+2025,328,Utah State Aggies,2024-11-28,77.10393800000001,included_game_day
+2025,328,Utah State Aggies,2024-11-29,77.05873348000001,included_game_day
+2025,328,Utah State Aggies,2024-12-04,67.91233005700002,included_game_day
+2025,328,Utah State Aggies,2024-12-07,82.53408077900002,included_game_day
+2025,328,Utah State Aggies,2024-12-14,92.02597075083003,included_game_day
+2025,328,Utah State Aggies,2024-12-17,86.83424140910512,included_game_day
+2025,328,Utah State Aggies,2024-12-22,94.4307171242315,included_game_day
+2025,328,Utah State Aggies,2024-12-28,95.70653388884583,included_game_day
+2025,328,Utah State Aggies,2024-12-31,99.48295080414985,included_game_day
+2025,328,Utah State Aggies,2025-01-04,85.41169713035288,included_game_day
+2025,328,Utah State Aggies,2025-01-07,86.20654395566125,included_game_day
+2025,328,Utah State Aggies,2025-01-11,84.5887046968943,included_game_day
+2025,328,Utah State Aggies,2025-01-15,76.0994733271241,included_game_day
+2025,328,Utah State Aggies,2025-01-22,91.35022575963984,included_game_day
+2025,328,Utah State Aggies,2025-01-25,108.48140401823899,included_game_day
+2025,328,Utah State Aggies,2025-01-29,101.56408464406631,included_game_day
+2025,328,Utah State Aggies,2025-02-01,79.01242771125926,included_game_day
+2025,328,Utah State Aggies,2025-02-04,76.78377861879532,included_game_day
+2025,328,Utah State Aggies,2025-02-07,72.84978670839641,included_game_day
+2025,328,Utah State Aggies,2025-02-11,76.4010188835924,included_game_day
+2025,328,Utah State Aggies,2025-02-16,82.0460373129257,included_game_day
+2025,328,Utah State Aggies,2025-02-19,116.76403263733089,included_game_day
+2025,328,Utah State Aggies,2025-02-22,118.30753578601553,included_game_day
+2025,328,Utah State Aggies,2025-02-26,102.47014169524749,included_game_day
+2025,328,Utah State Aggies,2025-03-01,77.65331282710358,included_game_day
+2025,328,Utah State Aggies,2025-03-08,95.839200823719,included_game_day
+2025,328,Utah State Aggies,2025-03-13,101.71584244536834,included_game_day
+2025,328,Utah State Aggies,2025-03-14,94.12826200202656,included_game_day
+2025,328,Utah State Aggies,2025-03-20,73.00915602682873,included_game_day
+2026,328,Utah State Aggies,2025-11-07,5.6,included_game_day
+2026,328,Utah State Aggies,2025-11-12,12.1,included_game_day
+2026,328,Utah State Aggies,2025-11-15,30.4794,included_game_day
+2026,328,Utah State Aggies,2025-11-21,47.14846,included_game_day
+2026,328,Utah State Aggies,2025-11-23,80.07083527,included_game_day
+2026,328,Utah State Aggies,2025-11-29,71.863585743,included_game_day
+2026,328,Utah State Aggies,2025-12-04,59.591290175,included_game_day
+2026,328,Utah State Aggies,2025-12-07,83.79142636323,included_game_day
+2026,328,Utah State Aggies,2025-12-13,87.597725034457,included_game_day
+2026,328,Utah State Aggies,2025-12-20,125.99517396288313,included_game_day
+2026,328,Utah State Aggies,2025-12-30,124.11461764615579,included_game_day
+2026,328,Utah State Aggies,2026-01-03,122.03941543666446,included_game_day
+2026,328,Utah State Aggies,2026-01-06,140.27363074199798,included_game_day
+2026,328,Utah State Aggies,2026-01-10,157.8656928985476,included_game_day
+2026,328,Utah State Aggies,2026-01-14,154.11496507058115,included_game_day
+2026,328,Utah State Aggies,2026-01-17,136.8380431072279,included_game_day
+2026,328,Utah State Aggies,2026-01-20,109.87849580028445,included_game_day
+2026,328,Utah State Aggies,2026-01-23,108.9114950333984,included_game_day
+2026,328,Utah State Aggies,2026-01-28,128.2921264193205,included_game_day
+2026,328,Utah State Aggies,2026-01-31,128.46026066725986,included_game_day
+2026,328,Utah State Aggies,2026-02-04,151.60132282391194,included_game_day
+2026,328,Utah State Aggies,2026-02-07,142.2789326461562,included_game_day
+2026,328,Utah State Aggies,2026-02-10,138.8375094161432,included_game_day
+2026,328,Utah State Aggies,2026-02-14,150.65482760981726,included_game_day
+2026,328,Utah State Aggies,2026-02-18,157.82597163633494,included_game_day
+2026,328,Utah State Aggies,2026-02-21,146.42774981060506,included_game_day
+2026,328,Utah State Aggies,2026-02-25,126.8416330415285,included_game_day
+2026,328,Utah State Aggies,2026-02-28,124.08523844698536,included_game_day
+2026,328,Utah State Aggies,2026-03-03,89.13854161392484,included_game_day
+2026,328,Utah State Aggies,2026-03-07,89.53808592428322,included_game_day
+2026,328,Utah State Aggies,2026-03-12,106.00646638119889,included_game_day
+2026,328,Utah State Aggies,2026-03-13,114.49093978031502,included_game_day
+2026,328,Utah State Aggies,2026-03-14,123.83572152687861,included_game_day
+2026,328,Utah State Aggies,2026-03-20,129.25220484496216,included_game_day
+2026,328,Utah State Aggies,2026-03-22,129.43487746299553,included_game_day
+2027,328,Utah State Aggies,2026-11-02,33.0,included_game_day
+2027,328,Utah State Aggies,2026-11-07,57.01,included_game_day
+2027,328,Utah State Aggies,2026-11-10,76.609,included_game_day
+2027,328,Utah State Aggies,2026-11-13,105.2481,included_game_day
+2027,328,Utah State Aggies,2026-11-18,115.90929,included_game_day

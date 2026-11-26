@@ -1,0 +1,1234 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,228,Clemson,1987-11-27,15.0,included_game_day
+1988,228,Clemson,1987-11-30,31.5,included_game_day
+1988,228,Clemson,1987-12-02,34.65,included_game_day
+1988,228,Clemson,1987-12-05,63.185,included_game_day
+1988,228,Clemson,1987-12-12,71.5901776,included_game_day
+1988,228,Clemson,1987-12-15,61.10115984000001,included_game_day
+1988,228,Clemson,1987-12-16,92.93324424600002,included_game_day
+1988,228,Clemson,1987-12-28,92.25136973551001,included_game_day
+1988,228,Clemson,1987-12-29,125.308776978004,included_game_day
+1988,228,Clemson,1988-01-06,115.34798141843537,included_game_day
+1988,228,Clemson,1988-01-09,98.46716092253551,included_game_day
+1988,228,Clemson,1988-01-10,93.24420691627078,included_game_day
+1988,228,Clemson,1988-01-13,109.27037576470394,included_game_day
+1988,228,Clemson,1988-01-16,108.12527008174959,included_game_day
+1988,228,Clemson,1988-01-20,107.04458593112942,included_game_day
+1988,228,Clemson,1988-01-23,105.08452731059356,included_game_day
+1988,228,Clemson,1988-01-26,96.93996149633783,included_game_day
+1988,228,Clemson,1988-02-01,69.42146534611207,included_game_day
+1988,228,Clemson,1988-02-04,47.200221239528986,included_game_day
+1988,228,Clemson,1988-02-06,42.748577457130395,included_game_day
+1988,228,Clemson,1988-02-10,38.12925449584896,included_game_day
+1988,228,Clemson,1988-02-18,21.479636471262513,included_game_day
+1988,228,Clemson,1988-02-21,22.815194099101298,included_game_day
+1988,228,Clemson,1988-02-24,17.959549400986724,included_game_day
+1988,228,Clemson,1988-02-28,-5.815657208771498,included_game_day
+1988,228,Clemson,1988-03-02,10.387028872269937,included_game_day
+1988,228,Clemson,1988-03-05,19.993074427151523,included_game_day
+1988,228,Clemson,1988-03-11,27.15245142830581,included_game_day
+1988,228,Clemson,1988-03-17,27.06112835416166,included_game_day
+1989,228,Clemson,1988-11-28,7.45,included_game_day
+1989,228,Clemson,1988-12-01,22.005,included_game_day
+1989,228,Clemson,1988-12-03,2.804500000000001,included_game_day
+1989,228,Clemson,1988-12-10,36.7709577,included_game_day
+1989,228,Clemson,1988-12-13,57.33734043,included_game_day
+1989,228,Clemson,1988-12-17,69.12433268699999,included_game_day
+1989,228,Clemson,1988-12-27,67.19055324550627,included_game_day
+1989,228,Clemson,1988-12-28,72.86802054542416,included_game_day
+1989,228,Clemson,1988-12-29,58.22587988158372,included_game_day
+1989,228,Clemson,1989-01-05,54.12234852593362,included_game_day
+1989,228,Clemson,1989-01-07,63.79709475524936,included_game_day
+1989,228,Clemson,1989-01-11,68.66523251017256,included_game_day
+1989,228,Clemson,1989-01-14,75.54786177627919,included_game_day
+1989,228,Clemson,1989-01-18,84.78003280900029,included_game_day
+1989,228,Clemson,1989-01-21,87.38774863160712,included_game_day
+1989,228,Clemson,1989-01-25,92.19400362239145,included_game_day
+1989,228,Clemson,1989-01-29,69.558933173188,included_game_day
+1989,228,Clemson,1989-02-01,77.67884604064128,included_game_day
+1989,228,Clemson,1989-02-04,84.84954333090951,included_game_day
+1989,228,Clemson,1989-02-07,68.32490498269678,included_game_day
+1989,228,Clemson,1989-02-11,74.18688659731839,included_game_day
+1989,228,Clemson,1989-02-15,67.32736222923197,included_game_day
+1989,228,Clemson,1989-02-18,70.63301997012508,included_game_day
+1989,228,Clemson,1989-02-22,75.79029270961155,included_game_day
+1989,228,Clemson,1989-02-25,73.59260757037832,included_game_day
+1989,228,Clemson,1989-03-01,91.2175520407256,included_game_day
+1989,228,Clemson,1989-03-04,91.2323012743524,included_game_day
+1989,228,Clemson,1989-03-10,76.28959215101666,included_game_day
+1989,228,Clemson,1989-03-16,94.54161782214764,included_game_day
+1989,228,Clemson,1989-03-18,82.92860005622866,included_game_day
+1990,228,Clemson,1989-11-25,13.7,included_game_day
+1990,228,Clemson,1989-11-26,4.449999999999999,included_game_day
+1990,228,Clemson,1989-11-28,24.005,included_game_day
+1990,228,Clemson,1989-12-06,27.083828999999998,included_game_day
+1990,228,Clemson,1989-12-09,58.0246461,included_game_day
+1990,228,Clemson,1989-12-18,84.32240039,included_game_day
+1990,228,Clemson,1989-12-27,78.58488619234184,included_game_day
+1990,228,Clemson,1989-12-28,84.09852783889511,included_game_day
+1990,228,Clemson,1990-01-03,87.94629253004744,included_game_day
+1990,228,Clemson,1990-01-06,86.93129440255616,included_game_day
+1990,228,Clemson,1990-01-09,97.09105571788331,included_game_day
+1990,228,Clemson,1990-01-11,105.41161391817718,included_game_day
+1990,228,Clemson,1990-01-13,113.24864524580475,included_game_day
+1990,228,Clemson,1990-01-15,145.15891421190446,included_game_day
+1990,228,Clemson,1990-01-17,157.59801613003592,included_game_day
+1990,228,Clemson,1990-01-20,168.8761730169853,included_game_day
+1990,228,Clemson,1990-01-25,159.43136513624907,included_game_day
+1990,228,Clemson,1990-01-27,136.01360912181207,included_game_day
+1990,228,Clemson,1990-01-31,127.29608834160605,included_game_day
+1990,228,Clemson,1990-02-03,131.86833625483933,included_game_day
+1990,228,Clemson,1990-02-07,129.6795556565945,included_game_day
+1990,228,Clemson,1990-02-10,132.03093433352717,included_game_day
+1990,228,Clemson,1990-02-12,137.9030145059846,included_game_day
+1990,228,Clemson,1990-02-14,130.42483977183426,included_game_day
+1990,228,Clemson,1990-02-21,137.5005251629368,included_game_day
+1990,228,Clemson,1990-02-24,137.66302325410047,included_game_day
+1990,228,Clemson,1990-02-28,141.78701985137894,included_game_day
+1990,228,Clemson,1990-03-03,127.26243415452888,included_game_day
+1990,228,Clemson,1990-03-05,115.03289679751698,included_game_day
+1990,228,Clemson,1990-03-09,118.63334248482634,included_game_day
+1990,228,Clemson,1990-03-10,111.30194140858731,included_game_day
+1990,228,Clemson,1990-03-15,109.28566102068132,included_game_day
+1990,228,Clemson,1990-03-17,119.51631573320425,included_game_day
+1990,228,Clemson,1990-03-22,124.10987796852186,included_game_day
+1991,228,Clemson,1990-11-24,14.0,included_game_day
+1991,228,Clemson,1990-11-26,43.42,included_game_day
+1991,228,Clemson,1990-11-28,47.978,included_game_day
+1991,228,Clemson,1990-12-02,44.0002,included_game_day
+1991,228,Clemson,1990-12-04,24.52718,included_game_day
+1991,228,Clemson,1990-12-08,28.467642,included_game_day
+1991,228,Clemson,1990-12-15,15.937309652000001,included_game_day
+1991,228,Clemson,1990-12-17,34.1701713291,included_game_day
+1991,228,Clemson,1990-12-20,30.38918275619,included_game_day
+1991,228,Clemson,1991-01-02,37.47807535823381,included_game_day
+1991,228,Clemson,1991-01-05,24.19749273425474,included_game_day
+1991,228,Clemson,1991-01-08,23.72246209032003,included_game_day
+1991,228,Clemson,1991-01-12,18.057110847032526,included_game_day
+1991,228,Clemson,1991-01-16,28.698467539297553,included_game_day
+1991,228,Clemson,1991-01-19,8.98846142848642,included_game_day
+1991,228,Clemson,1991-01-24,-0.85068594647006,included_game_day
+1991,228,Clemson,1991-01-26,-14.092427857564642,included_game_day
+1991,228,Clemson,1991-01-31,-12.175641004362921,included_game_day
+1991,228,Clemson,1991-02-02,-5.0243990369058285,included_game_day
+1991,228,Clemson,1991-02-06,0.32221918708826536,included_game_day
+1991,228,Clemson,1991-02-10,-5.331968231835809,included_game_day
+1991,228,Clemson,1991-02-16,0.35498486792726425,included_game_day
+1991,228,Clemson,1991-02-23,9.01456941431238,included_game_day
+1991,228,Clemson,1991-02-24,-4.177728134357329,included_game_day
+1991,228,Clemson,1991-02-27,0.2424613856062141,included_game_day
+1991,228,Clemson,1991-03-02,15.063598603520102,included_game_day
+1991,228,Clemson,1991-03-08,26.161116517100158,included_game_day
+1992,228,Clemson,1991-11-30,44.065,included_game_day
+1992,228,Clemson,1991-12-07,56.638425,included_game_day
+1992,228,Clemson,1991-12-14,68.6671625,included_game_day
+1992,228,Clemson,1991-12-16,65.94224625000001,included_game_day
+1992,228,Clemson,1991-12-28,54.12281281977001,included_game_day
+1992,228,Clemson,1991-12-29,47.49210696318201,included_game_day
+1992,228,Clemson,1992-01-04,36.31599437256381,included_game_day
+1992,228,Clemson,1992-01-09,14.52064258017974,included_game_day
+1992,228,Clemson,1992-01-11,40.84070306311061,included_game_day
+1992,228,Clemson,1992-01-18,30.40638016667465,included_game_day
+1992,228,Clemson,1992-01-22,36.13230727252158,included_game_day
+1992,228,Clemson,1992-01-25,22.027259220196633,included_game_day
+1992,228,Clemson,1992-01-27,0.4861200742541989,included_game_day
+1992,228,Clemson,1992-01-29,4.773450037599023,included_game_day
+1992,228,Clemson,1992-02-01,8.131770799928285,included_game_day
+1992,228,Clemson,1992-02-05,30.562887269695658,included_game_day
+1992,228,Clemson,1992-02-08,25.70198397024412,included_game_day
+1992,228,Clemson,1992-02-12,25.404857715457716,included_game_day
+1992,228,Clemson,1992-02-15,26.176773637260933,included_game_day
+1992,228,Clemson,1992-02-18,30.57474366405542,included_game_day
+1992,228,Clemson,1992-02-22,40.719392422691755,included_game_day
+1992,228,Clemson,1992-02-26,39.00714691512856,included_game_day
+1992,228,Clemson,1992-02-29,25.971934504711328,included_game_day
+1992,228,Clemson,1992-03-04,36.95969699346979,included_game_day
+1992,228,Clemson,1992-03-08,26.228654091833587,included_game_day
+1992,228,Clemson,1992-03-12,23.741980720252045,included_game_day
+1993,228,Clemson,1992-12-02,22.0,included_game_day
+1993,228,Clemson,1992-12-05,35.8,included_game_day
+1993,228,Clemson,1992-12-12,51.413,included_game_day
+1993,228,Clemson,1992-12-17,69.5017,included_game_day
+1993,228,Clemson,1992-12-19,76.93583,included_game_day
+1993,228,Clemson,1992-12-21,82.24224699999999,included_game_day
+1993,228,Clemson,1992-12-28,93.24230535999999,included_game_day
+1993,228,Clemson,1992-12-30,93.16749836399998,included_game_day
+1993,228,Clemson,1993-01-03,84.43353505829998,included_game_day
+1993,228,Clemson,1993-01-06,51.40680747700114,included_game_day
+1993,228,Clemson,1993-01-13,40.5719585222254,included_game_day
+1993,228,Clemson,1993-01-16,44.71636639867355,included_game_day
+1993,228,Clemson,1993-01-20,28.996866522765522,included_game_day
+1993,228,Clemson,1993-01-24,21.009135669010856,included_game_day
+1993,228,Clemson,1993-01-26,31.56759935608119,included_game_day
+1993,228,Clemson,1993-01-31,25.749950495492,included_game_day
+1993,228,Clemson,1993-02-04,33.64234797919769,included_game_day
+1993,228,Clemson,1993-02-06,38.106881404573414,included_game_day
+1993,228,Clemson,1993-02-08,43.83989215280175,included_game_day
+1993,228,Clemson,1993-02-13,38.27967238833879,included_game_day
+1993,228,Clemson,1993-02-17,43.63071473169126,included_game_day
+1993,228,Clemson,1993-02-20,46.409691206749756,included_game_day
+1993,228,Clemson,1993-02-24,56.271242719865825,included_game_day
+1993,228,Clemson,1993-02-27,65.65513222969787,included_game_day
+1993,228,Clemson,1993-03-03,66.00217179115961,included_game_day
+1993,228,Clemson,1993-03-07,57.72359718085791,included_game_day
+1993,228,Clemson,1993-03-12,75.67911657258861,included_game_day
+1993,228,Clemson,1993-03-13,70.3029829814313,included_game_day
+1993,228,Clemson,1993-03-17,78.726472258705,included_game_day
+1993,228,Clemson,1993-03-22,81.86706657727747,included_game_day
+1994,228,Clemson,1993-11-29,27.6,included_game_day
+1994,228,Clemson,1993-12-01,44.84,included_game_day
+1994,228,Clemson,1993-12-04,52.356,included_game_day
+1994,228,Clemson,1993-12-15,36.960817000000006,included_game_day
+1994,228,Clemson,1993-12-18,41.3108962,included_game_day
+1994,228,Clemson,1993-12-19,36.813286180000006,included_game_day
+1994,228,Clemson,1993-12-27,36.361718622110004,included_game_day
+1994,228,Clemson,1993-12-28,51.853102607183814,included_game_day
+1994,228,Clemson,1993-12-29,56.32450850780236,included_game_day
+1994,228,Clemson,1994-01-05,50.47008617128412,included_game_day
+1994,228,Clemson,1994-01-08,52.07965494393864,included_game_day
+1994,228,Clemson,1994-01-10,57.55820214623571,included_game_day
+1994,228,Clemson,1994-01-12,48.296634527326646,included_game_day
+1994,228,Clemson,1994-01-15,16.107399791390534,included_game_day
+1994,228,Clemson,1994-01-19,17.616773291102536,included_game_day
+1994,228,Clemson,1994-01-22,29.651240189491816,included_game_day
+1994,228,Clemson,1994-01-24,34.2870072345485,included_game_day
+1994,228,Clemson,1994-01-26,25.261547908189858,included_game_day
+1994,228,Clemson,1994-01-29,38.621034658800895,included_game_day
+1994,228,Clemson,1994-02-02,56.217157010923444,included_game_day
+1994,228,Clemson,1994-02-05,62.72600084309637,included_game_day
+1994,228,Clemson,1994-02-09,48.74607371725112,included_game_day
+1994,228,Clemson,1994-02-12,42.219560207921326,included_game_day
+1994,228,Clemson,1994-02-17,59.218002502181015,included_game_day
+1994,228,Clemson,1994-02-19,48.51440440893798,included_game_day
+1994,228,Clemson,1994-02-22,42.941338237983146,included_game_day
+1994,228,Clemson,1994-02-26,52.35690422741139,included_game_day
+1994,228,Clemson,1994-03-02,68.55567071593279,included_game_day
+1994,228,Clemson,1994-03-05,61.53801104745527,included_game_day
+1994,228,Clemson,1994-03-10,67.93889838885727,included_game_day
+1994,228,Clemson,1994-03-11,62.55780124544375,included_game_day
+1994,228,Clemson,1994-03-17,72.32304002060891,included_game_day
+1994,228,Clemson,1994-03-21,89.05389101301625,included_game_day
+1994,228,Clemson,1994-03-23,77.10369639741141,included_game_day
+1995,228,Clemson,1994-11-29,27.1,included_game_day
+1995,228,Clemson,1994-12-03,46.19,included_game_day
+1995,228,Clemson,1994-12-05,56.757,included_game_day
+1995,228,Clemson,1994-12-08,73.5338,included_game_day
+1995,228,Clemson,1994-12-10,76.9028004,included_game_day
+1995,228,Clemson,1994-12-18,74.78321036,included_game_day
+1995,228,Clemson,1994-12-20,86.390036624,included_game_day
+1995,228,Clemson,1994-12-29,78.130762176873,included_game_day
+1995,228,Clemson,1995-01-04,92.01732838799339,included_game_day
+1995,228,Clemson,1995-01-07,104.094852674403,included_game_day
+1995,228,Clemson,1995-01-11,85.47394285019055,included_game_day
+1995,228,Clemson,1995-01-14,69.59290334597543,included_game_day
+1995,228,Clemson,1995-01-18,66.41054022463486,included_game_day
+1995,228,Clemson,1995-01-21,62.55571916902535,included_game_day
+1995,228,Clemson,1995-01-25,66.60103463532796,included_game_day
+1995,228,Clemson,1995-01-28,77.17411818001382,included_game_day
+1995,228,Clemson,1995-02-01,53.581633987045606,included_game_day
+1995,228,Clemson,1995-02-04,62.576576769188875,included_game_day
+1995,228,Clemson,1995-02-08,56.228647755765834,included_game_day
+1995,228,Clemson,1995-02-11,43.09722157364212,included_game_day
+1995,228,Clemson,1995-02-16,31.362422655517946,included_game_day
+1995,228,Clemson,1995-02-18,32.055454779401146,included_game_day
+1995,228,Clemson,1995-02-22,27.06441023724204,included_game_day
+1995,228,Clemson,1995-02-25,27.848501153642825,included_game_day
+1995,228,Clemson,1995-03-01,46.00007392774519,included_game_day
+1995,228,Clemson,1995-03-04,48.759214949833385,included_game_day
+1995,228,Clemson,1995-03-10,43.43974920746906,included_game_day
+1995,228,Clemson,1995-03-17,43.13642631767574,included_game_day
+1996,228,Clemson,1995-11-26,39.0,included_game_day
+1996,228,Clemson,1995-11-29,68.1,included_game_day
+1996,228,Clemson,1995-12-02,73.88499999999999,included_game_day
+1996,228,Clemson,1995-12-06,79.32391,included_game_day
+1996,228,Clemson,1995-12-09,86.04557989999999,included_game_day
+1996,228,Clemson,1995-12-16,85.86844201,included_game_day
+1996,228,Clemson,1995-12-19,90.38549241442999,included_game_day
+1996,228,Clemson,1995-12-23,104.259940545967,included_game_day
+1996,228,Clemson,1995-12-30,115.0144052407403,included_game_day
+1996,228,Clemson,1996-01-03,112.81283073337967,included_game_day
+1996,228,Clemson,1996-01-10,114.26716098213812,included_game_day
+1996,228,Clemson,1996-01-14,84.9203839681719,included_game_day
+1996,228,Clemson,1996-01-16,73.96358936696933,included_game_day
+1996,228,Clemson,1996-01-21,86.63182795212423,included_game_day
+1996,228,Clemson,1996-01-24,84.92108976712338,included_game_day
+1996,228,Clemson,1996-01-27,77.80598968125342,included_game_day
+1996,228,Clemson,1996-01-30,79.96887662987841,included_game_day
+1996,228,Clemson,1996-02-03,55.455694187417215,included_game_day
+1996,228,Clemson,1996-02-06,80.97742545783323,included_game_day
+1996,228,Clemson,1996-02-10,71.88788649262706,included_game_day
+1996,228,Clemson,1996-02-14,66.9226895647192,included_game_day
+1996,228,Clemson,1996-02-17,72.18816381961308,included_game_day
+1996,228,Clemson,1996-02-21,59.785568866418544,included_game_day
+1996,228,Clemson,1996-02-24,67.2911967269657,included_game_day
+1996,228,Clemson,1996-02-28,75.00358675991092,included_game_day
+1996,228,Clemson,1996-03-03,70.368835105908,included_game_day
+1996,228,Clemson,1996-03-08,78.20692658782477,included_game_day
+1996,228,Clemson,1996-03-09,78.45212776984367,included_game_day
+1996,228,Clemson,1996-03-14,75.47991662324327,included_game_day
+1997,228,Clemson,1996-11-15,8.0,included_game_day
+1997,228,Clemson,1996-11-23,27.2,included_game_day
+1997,228,Clemson,1996-11-29,34.58,included_game_day
+1997,228,Clemson,1996-11-30,36.452,included_game_day
+1997,228,Clemson,1996-12-01,27.4336,included_game_day
+1997,228,Clemson,1996-12-04,46.90024,included_game_day
+1997,228,Clemson,1996-12-07,59.401877999999996,included_game_day
+1997,228,Clemson,1996-12-14,70.725236862,included_game_day
+1997,228,Clemson,1996-12-17,87.2363048758,included_game_day
+1997,228,Clemson,1996-12-20,111.11696946821999,included_game_day
+1997,228,Clemson,1996-12-22,120.89558121579799,included_game_day
+1997,228,Clemson,1996-12-30,126.53332645178116,included_game_day
+1997,228,Clemson,1997-01-04,123.03900855370027,included_game_day
+1997,228,Clemson,1997-01-07,130.9767912381768,included_game_day
+1997,228,Clemson,1997-01-11,139.22799850241714,included_game_day
+1997,228,Clemson,1997-01-15,146.84917684570263,included_game_day
+1997,228,Clemson,1997-01-18,144.99252470945024,included_game_day
+1997,228,Clemson,1997-01-23,141.6303561230725,included_game_day
+1997,228,Clemson,1997-01-26,126.40032783693148,included_game_day
+1997,228,Clemson,1997-01-30,127.81598542031615,included_game_day
+1997,228,Clemson,1997-02-01,120.3961493875506,included_game_day
+1997,228,Clemson,1997-02-04,119.3527933208802,included_game_day
+1997,228,Clemson,1997-02-08,131.3946608825229,included_game_day
+1997,228,Clemson,1997-02-12,130.9959826005287,included_game_day
+1997,228,Clemson,1997-02-15,129.44093168184725,included_game_day
+1997,228,Clemson,1997-02-18,131.9399481204644,included_game_day
+1997,228,Clemson,1997-02-23,123.38171705329252,included_game_day
+1997,228,Clemson,1997-02-26,119.6603579715395,included_game_day
+1997,228,Clemson,1997-03-01,117.04338975404498,included_game_day
+1997,228,Clemson,1997-03-07,101.18785164771836,included_game_day
+1997,228,Clemson,1997-03-14,113.22681162036913,included_game_day
+1997,228,Clemson,1997-03-16,123.64173532556157,included_game_day
+1997,228,Clemson,1997-03-20,122.59039416705158,included_game_day
+1998,228,Clemson,1997-11-14,14.0,included_game_day
+1998,228,Clemson,1997-11-21,43.2,included_game_day
+1998,228,Clemson,1997-11-22,44.260000000000005,included_game_day
+1998,228,Clemson,1997-11-23,30.917300000000004,included_game_day
+1998,228,Clemson,1997-11-29,18.708325000000002,included_game_day
+1998,228,Clemson,1997-12-04,34.0338925,included_game_day
+1998,228,Clemson,1997-12-06,31.16922125,included_game_day
+1998,228,Clemson,1997-12-13,22.06252463578,included_game_day
+1998,228,Clemson,1997-12-17,24.750018156842,included_game_day
+1998,228,Clemson,1997-12-19,26.2327860051378,included_game_day
+1998,228,Clemson,1997-12-22,33.04563571033386,included_game_day
+1998,228,Clemson,1997-12-28,49.037482675378314,included_game_day
+1998,228,Clemson,1997-12-30,64.17923895963696,included_game_day
+1998,228,Clemson,1998-01-03,69.11330288308558,included_game_day
+1998,228,Clemson,1998-01-08,66.3051952889581,included_game_day
+1998,228,Clemson,1998-01-13,87.3076852877179,included_game_day
+1998,228,Clemson,1998-01-17,106.23751204784519,included_game_day
+1998,228,Clemson,1998-01-20,112.80196240733171,included_game_day
+1998,228,Clemson,1998-01-24,110.26495542309375,included_game_day
+1998,228,Clemson,1998-01-28,114.92175360177748,included_game_day
+1998,228,Clemson,1998-01-31,102.8419643847131,included_game_day
+1998,228,Clemson,1998-02-04,86.55838497618004,included_game_day
+1998,228,Clemson,1998-02-07,105.79378875276524,included_game_day
+1998,228,Clemson,1998-02-11,122.9543869794493,included_game_day
+1998,228,Clemson,1998-02-15,150.19444563556766,included_game_day
+1998,228,Clemson,1998-02-18,151.071514710447,included_game_day
+1998,228,Clemson,1998-02-21,135.72989544194166,included_game_day
+1998,228,Clemson,1998-02-26,139.17863009350103,included_game_day
+1998,228,Clemson,1998-03-01,146.13097364496528,included_game_day
+1998,228,Clemson,1998-03-06,159.3371275306782,included_game_day
+1998,228,Clemson,1998-03-07,166.15294352859553,included_game_day
+1998,228,Clemson,1998-03-13,153.36887308789042,included_game_day
+1999,228,Clemson,1998-11-13,21.0,included_game_day
+1999,228,Clemson,1998-11-16,42.5,included_game_day
+1999,228,Clemson,1998-11-19,54.85,included_game_day
+1999,228,Clemson,1998-11-23,45.482,included_game_day
+1999,228,Clemson,1998-11-25,78.51912999999999,included_game_day
+1999,228,Clemson,1998-11-30,97.481557,included_game_day
+1999,228,Clemson,1998-12-03,115.7334013,included_game_day
+1999,228,Clemson,1998-12-12,103.656807149,included_game_day
+1999,228,Clemson,1998-12-16,104.9177833627,included_game_day
+1999,228,Clemson,1998-12-21,112.35237478536509,included_game_day
+1999,228,Clemson,1998-12-26,116.29354950439458,included_game_day
+1999,228,Clemson,1998-12-29,89.18706361507438,included_game_day
+1999,228,Clemson,1999-01-02,75.93096098831037,included_game_day
+1999,228,Clemson,1999-01-05,85.29332786903868,included_game_day
+1999,228,Clemson,1999-01-09,75.89596872240827,included_game_day
+1999,228,Clemson,1999-01-12,71.63895163274775,included_game_day
+1999,228,Clemson,1999-01-17,64.28468752049423,included_game_day
+1999,228,Clemson,1999-01-20,59.74600321950231,included_game_day
+1999,228,Clemson,1999-01-24,70.08637017453704,included_game_day
+1999,228,Clemson,1999-01-28,64.08274918180237,included_game_day
+1999,228,Clemson,1999-02-04,83.1190623019724,included_game_day
+1999,228,Clemson,1999-02-06,71.41774398174528,included_game_day
+1999,228,Clemson,1999-02-10,62.53097161271332,included_game_day
+1999,228,Clemson,1999-02-14,89.38250450554341,included_game_day
+1999,228,Clemson,1999-02-17,102.71266684594157,included_game_day
+1999,228,Clemson,1999-02-20,97.82558973064334,included_game_day
+1999,228,Clemson,1999-02-24,94.89264710879908,included_game_day
+1999,228,Clemson,1999-02-28,112.10405586413519,included_game_day
+1999,228,Clemson,1999-03-04,100.86544039459127,included_game_day
+1999,228,Clemson,1999-03-10,110.8693388195476,included_game_day
+1999,228,Clemson,1999-03-16,121.50223955412501,included_game_day
+1999,228,Clemson,1999-03-18,131.9499408083294,included_game_day
+1999,228,Clemson,1999-03-23,131.45680348579523,included_game_day
+1999,228,Clemson,1999-03-25,126.4101335569866,included_game_day
+2000,228,Clemson,1999-11-19,27.0,included_game_day
+2000,228,Clemson,1999-11-21,15.2,included_game_day
+2000,228,Clemson,1999-11-26,14.879999999999999,included_game_day
+2000,228,Clemson,1999-11-27,-3.030000000000001,included_game_day
+2000,228,Clemson,1999-11-28,-19.0091,included_game_day
+2000,228,Clemson,1999-12-01,-19.103510999999997,included_game_day
+2000,228,Clemson,1999-12-04,-5.253435899999998,included_game_day
+2000,228,Clemson,1999-12-11,-19.320224443899995,included_game_day
+2000,228,Clemson,1999-12-16,-14.104536599509997,included_game_day
+2000,228,Clemson,1999-12-18,-10.587991378358996,included_game_day
+2000,228,Clemson,1999-12-22,-31.6046262550931,included_game_day
+2000,228,Clemson,1999-12-30,-20.689970415596,included_game_day
+2000,228,Clemson,2000-01-06,-27.279375121522108,included_game_day
+2000,228,Clemson,2000-01-09,-34.50440693408909,included_game_day
+2000,228,Clemson,2000-01-12,-28.862886004228642,included_game_day
+2000,228,Clemson,2000-01-15,-24.244453056270764,included_game_day
+2000,228,Clemson,2000-01-19,-31.550361252625752,included_game_day
+2000,228,Clemson,2000-01-22,-26.071232391815585,included_game_day
+2000,228,Clemson,2000-01-26,1.7586171660574657,included_game_day
+2000,228,Clemson,2000-01-29,-9.619487162525164,included_game_day
+2000,228,Clemson,2000-02-02,0.3011735892163383,included_game_day
+2000,228,Clemson,2000-02-06,-5.782711244927238,included_game_day
+2000,228,Clemson,2000-02-08,-14.095522577143472,included_game_day
+2000,228,Clemson,2000-02-12,11.926169892103362,included_game_day
+2000,228,Clemson,2000-02-15,6.664188876109618,included_game_day
+2000,228,Clemson,2000-02-22,4.577878031012846,included_game_day
+2000,228,Clemson,2000-02-27,15.638805544418194,included_game_day
+2000,228,Clemson,2000-03-01,15.476331008281047,included_game_day
+2000,228,Clemson,2000-03-04,2.6157270270704593,included_game_day
+2000,228,Clemson,2000-03-09,-10.073577063967203,included_game_day
+2001,228,Clemson,2000-11-17,16.0,included_game_day
+2001,228,Clemson,2000-11-21,12.9,included_game_day
+2001,228,Clemson,2000-11-25,16.61,included_game_day
+2001,228,Clemson,2000-11-28,27.588,included_game_day
+2001,228,Clemson,2000-12-02,50.7192,included_game_day
+2001,228,Clemson,2000-12-05,55.15802291,included_game_day
+2001,228,Clemson,2000-12-09,42.579405819,included_game_day
+2001,228,Clemson,2000-12-16,35.6465678371,included_game_day
+2001,228,Clemson,2000-12-20,35.40748768539,included_game_day
+2001,228,Clemson,2000-12-21,29.30781179630361,included_game_day
+2001,228,Clemson,2000-12-22,25.99420351558074,included_game_day
+2001,228,Clemson,2000-12-28,17.87170761665161,included_game_day
+2001,228,Clemson,2000-12-30,25.59357163720289,included_game_day
+2001,228,Clemson,2001-01-02,27.352663844647132,included_game_day
+2001,228,Clemson,2001-01-07,5.4053482083294995,included_game_day
+2001,228,Clemson,2001-01-13,14.01118145547014,included_game_day
+2001,228,Clemson,2001-01-17,3.298847482916912,included_game_day
+2001,228,Clemson,2001-01-21,14.853313145531839,included_game_day
+2001,228,Clemson,2001-01-24,16.425019964539757,included_game_day
+2001,228,Clemson,2001-01-27,-4.441502475021995,included_game_day
+2001,228,Clemson,2001-01-31,-6.319797793714306,included_game_day
+2001,228,Clemson,2001-02-04,-0.34437086047154786,included_game_day
+2001,228,Clemson,2001-02-07,5.785849592884967,included_game_day
+2001,228,Clemson,2001-02-14,-17.098449554962713,included_game_day
+2001,228,Clemson,2001-02-18,10.223474716384608,included_game_day
+2001,228,Clemson,2001-02-21,-14.974034535802005,included_game_day
+2001,228,Clemson,2001-02-25,-23.170214846710884,included_game_day
+2001,228,Clemson,2001-02-28,-20.42252214255137,included_game_day
+2001,228,Clemson,2001-03-03,-32.90547149156512,included_game_day
+2001,228,Clemson,2001-03-08,-25.891830970776127,included_game_day
+2001,228,Clemson,2001-03-09,-26.617326187501206,included_game_day
+2002,228,Clemson Tigers,2001-11-19,16.7,included_game_day
+2002,228,Clemson Tigers,2001-11-20,16.03,included_game_day
+2002,228,Clemson Tigers,2001-11-24,12.027000000000001,included_game_day
+2002,228,Clemson Tigers,2001-11-28,24.233330000000002,included_game_day
+2002,228,Clemson Tigers,2001-11-30,43.771997,included_game_day
+2002,228,Clemson Tigers,2001-12-02,34.259057299999995,included_game_day
+2002,228,Clemson Tigers,2001-12-05,36.31359987,included_game_day
+2002,228,Clemson Tigers,2001-12-08,10.513563008999999,included_game_day
+2002,228,Clemson Tigers,2001-12-15,9.154659728099999,included_game_day
+2002,228,Clemson Tigers,2001-12-18,-2.1732472447100015,included_game_day
+2002,228,Clemson Tigers,2001-12-22,28.006275809469898,included_game_day
+2002,228,Clemson Tigers,2001-12-28,53.11336495894791,included_game_day
+2002,228,Clemson Tigers,2002-01-02,45.44091204491512,included_game_day
+2002,228,Clemson Tigers,2002-01-05,49.90939290298465,included_game_day
+2002,228,Clemson Tigers,2002-01-08,69.34136358457282,included_game_day
+2002,228,Clemson Tigers,2002-01-12,35.909578075699066,included_game_day
+2002,228,Clemson Tigers,2002-01-15,38.04551971170786,included_game_day
+2002,228,Clemson Tigers,2002-01-20,39.614440374295285,included_game_day
+2002,228,Clemson Tigers,2002-01-24,39.27173997397786,included_game_day
+2002,228,Clemson Tigers,2002-01-27,10.793628136193526,included_game_day
+2002,228,Clemson Tigers,2002-02-02,17.007711499703564,included_game_day
+2002,228,Clemson Tigers,2002-02-06,-8.637950417925019,included_game_day
+2002,228,Clemson Tigers,2002-02-16,-24.96228560025625,included_game_day
+2002,228,Clemson Tigers,2002-02-20,-23.487971600630537,included_game_day
+2002,228,Clemson Tigers,2002-02-23,-14.857826673813186,included_game_day
+2002,228,Clemson Tigers,2002-02-27,-31.557320411436823,included_game_day
+2002,228,Clemson Tigers,2002-03-07,-34.84721553221436,included_game_day
+2003,228,Clemson Tigers,2002-11-24,2.5,included_game_day
+2003,228,Clemson Tigers,2002-11-27,32.864000000000004,included_game_day
+2003,228,Clemson Tigers,2002-12-03,29.366600000000005,included_game_day
+2003,228,Clemson Tigers,2002-12-07,29.298573400000006,included_game_day
+2003,228,Clemson Tigers,2002-12-14,29.350609060000004,included_game_day
+2003,228,Clemson Tigers,2002-12-19,36.54633123400001,included_game_day
+2003,228,Clemson Tigers,2002-12-22,42.90047672160001,included_game_day
+2003,228,Clemson Tigers,2002-12-28,43.50422349039201,included_game_day
+2003,228,Clemson Tigers,2002-12-31,61.997596785503305,included_game_day
+2003,228,Clemson Tigers,2003-01-05,45.580688553882204,included_game_day
+2003,228,Clemson Tigers,2003-01-11,45.455025937547006,included_game_day
+2003,228,Clemson Tigers,2003-01-14,48.03579774588479,included_game_day
+2003,228,Clemson Tigers,2003-01-18,46.6885249123637,included_game_day
+2003,228,Clemson Tigers,2003-01-21,46.92324726034617,included_game_day
+2003,228,Clemson Tigers,2003-01-25,51.612684170324485,included_game_day
+2003,228,Clemson Tigers,2003-01-28,34.197828598240406,included_game_day
+2003,228,Clemson Tigers,2003-02-02,18.626379469786425,included_game_day
+2003,228,Clemson Tigers,2003-02-05,25.173104681950093,included_game_day
+2003,228,Clemson Tigers,2003-02-09,28.311682003320538,included_game_day
+2003,228,Clemson Tigers,2003-02-12,14.747343726649351,included_game_day
+2003,228,Clemson Tigers,2003-02-15,18.560864740041907,included_game_day
+2003,228,Clemson Tigers,2003-02-18,32.6068517988446,included_game_day
+2003,228,Clemson Tigers,2003-02-22,44.80058443155679,included_game_day
+2003,228,Clemson Tigers,2003-02-25,21.872048217910955,included_game_day
+2003,228,Clemson Tigers,2003-03-01,22.562779402511822,included_game_day
+2003,228,Clemson Tigers,2003-03-05,22.02224373427736,included_game_day
+2003,228,Clemson Tigers,2003-03-08,20.149080778244695,included_game_day
+2003,228,Clemson Tigers,2003-03-13,8.214617313567018,included_game_day
+2004,228,Clemson Tigers,2003-11-21,27.25,included_game_day
+2004,228,Clemson Tigers,2003-11-24,28.525,included_game_day
+2004,228,Clemson Tigers,2003-11-29,28.8725,included_game_day
+2004,228,Clemson Tigers,2003-12-03,21.23146,included_game_day
+2004,228,Clemson Tigers,2003-12-06,11.382110699999998,included_game_day
+2004,228,Clemson Tigers,2003-12-13,10.033684786199998,included_game_day
+2004,228,Clemson Tigers,2003-12-15,23.38640000758,included_game_day
+2004,228,Clemson Tigers,2003-12-17,8.273078806822,included_game_day
+2004,228,Clemson Tigers,2003-12-20,7.4085647561398,included_game_day
+2004,228,Clemson Tigers,2003-12-22,17.52603503552582,included_game_day
+2004,228,Clemson Tigers,2003-12-30,27.279908608760458,included_game_day
+2004,228,Clemson Tigers,2004-01-03,17.018622452508932,included_game_day
+2004,228,Clemson Tigers,2004-01-10,15.623639356909287,included_game_day
+2004,228,Clemson Tigers,2004-01-13,24.386690286381498,included_game_day
+2004,228,Clemson Tigers,2004-01-17,19.581089409374155,included_game_day
+2004,228,Clemson Tigers,2004-01-20,13.371256333000616,included_game_day
+2004,228,Clemson Tigers,2004-01-25,7.548956889818417,included_game_day
+2004,228,Clemson Tigers,2004-01-27,18.260497291594568,included_game_day
+2004,228,Clemson Tigers,2004-01-31,35.7261579114055,included_game_day
+2004,228,Clemson Tigers,2004-02-08,29.337404673159657,included_game_day
+2004,228,Clemson Tigers,2004-02-12,18.800763597033153,included_game_day
+2004,228,Clemson Tigers,2004-02-14,14.90413269106756,included_game_day
+2004,228,Clemson Tigers,2004-02-18,31.275105891228215,included_game_day
+2004,228,Clemson Tigers,2004-02-21,24.791786734086045,included_game_day
+2004,228,Clemson Tigers,2004-02-24,12.262723539006105,included_game_day
+2004,228,Clemson Tigers,2004-02-28,0.9251361282836985,included_game_day
+2004,228,Clemson Tigers,2004-03-02,1.022355996987356,included_game_day
+2004,228,Clemson Tigers,2004-03-11,4.788536924414544,included_game_day
+2005,228,Clemson Tigers,2004-11-19,41.0,included_game_day
+2005,228,Clemson Tigers,2004-11-23,46.8,included_game_day
+2005,228,Clemson Tigers,2004-11-26,39.05,included_game_day
+2005,228,Clemson Tigers,2004-12-01,47.11878,included_game_day
+2005,228,Clemson Tigers,2004-12-04,52.48641313,included_game_day
+2005,228,Clemson Tigers,2004-12-11,60.018971817,included_game_day
+2005,228,Clemson Tigers,2004-12-14,76.346825710576,included_game_day
+2005,228,Clemson Tigers,2004-12-17,87.9459475145453,included_game_day
+2005,228,Clemson Tigers,2004-12-21,68.61692211412907,included_game_day
+2005,228,Clemson Tigers,2004-12-22,90.38263953264499,included_game_day
+2005,228,Clemson Tigers,2004-12-23,65.8194684960747,included_game_day
+2005,228,Clemson Tigers,2004-12-29,86.14844053314724,included_game_day
+2005,228,Clemson Tigers,2005-01-02,87.59116978113852,included_game_day
+2005,228,Clemson Tigers,2005-01-08,51.820166782008904,included_game_day
+2005,228,Clemson Tigers,2005-01-12,57.7127832751592,included_game_day
+2005,228,Clemson Tigers,2005-01-15,55.40810971883,included_game_day
+2005,228,Clemson Tigers,2005-01-19,49.975273226793654,included_game_day
+2005,228,Clemson Tigers,2005-01-22,47.899019776687815,included_game_day
+2005,228,Clemson Tigers,2005-01-26,48.835586563549676,included_game_day
+2005,228,Clemson Tigers,2005-01-29,39.463869090422385,included_game_day
+2005,228,Clemson Tigers,2005-02-01,58.38320874043229,included_game_day
+2005,228,Clemson Tigers,2005-02-08,51.498932116955395,included_game_day
+2005,228,Clemson Tigers,2005-02-12,42.57658724568492,included_game_day
+2005,228,Clemson Tigers,2005-02-16,50.50483212387961,included_game_day
+2005,228,Clemson Tigers,2005-02-19,41.051874242314454,included_game_day
+2005,228,Clemson Tigers,2005-02-22,52.632025689578775,included_game_day
+2005,228,Clemson Tigers,2005-02-27,54.13911450742932,included_game_day
+2005,228,Clemson Tigers,2005-03-01,51.372143548045614,included_game_day
+2005,228,Clemson Tigers,2005-03-05,51.55576052259373,included_game_day
+2005,228,Clemson Tigers,2005-03-10,69.01725417511503,included_game_day
+2005,228,Clemson Tigers,2005-03-11,80.41179087545017,included_game_day
+2005,228,Clemson Tigers,2005-03-16,77.03196044992757,included_game_day
+2006,228,Clemson Tigers,2005-11-18,24.64,included_game_day
+2006,228,Clemson Tigers,2005-11-21,48.164,included_game_day
+2006,228,Clemson Tigers,2005-11-23,78.5676,included_game_day
+2006,228,Clemson Tigers,2005-11-26,86.51084,included_game_day
+2006,228,Clemson Tigers,2005-11-29,93.303566,included_game_day
+2006,228,Clemson Tigers,2005-12-03,104.496352,included_game_day
+2006,228,Clemson Tigers,2005-12-06,91.4791568,included_game_day
+2006,228,Clemson Tigers,2005-12-09,86.35637192,included_game_day
+2006,228,Clemson Tigers,2005-12-20,99.40420694856,included_game_day
+2006,228,Clemson Tigers,2005-12-21,94.40088144904584,included_game_day
+2006,228,Clemson Tigers,2005-12-28,89.91675594365624,included_game_day
+2006,228,Clemson Tigers,2005-12-30,65.62217731992934,included_game_day
+2006,228,Clemson Tigers,2006-01-04,72.8795062019412,included_game_day
+2006,228,Clemson Tigers,2006-01-07,65.93679092208224,included_game_day
+2006,228,Clemson Tigers,2006-01-11,63.24259024751285,included_game_day
+2006,228,Clemson Tigers,2006-01-14,63.84370850483502,included_game_day
+2006,228,Clemson Tigers,2006-01-18,44.115521645068995,included_game_day
+2006,228,Clemson Tigers,2006-01-21,57.660772795224396,included_game_day
+2006,228,Clemson Tigers,2006-01-29,50.47208911600123,included_game_day
+2006,228,Clemson Tigers,2006-02-01,47.68383966708304,included_game_day
+2006,228,Clemson Tigers,2006-02-04,42.7810707207957,included_game_day
+2006,228,Clemson Tigers,2006-02-08,40.716184981583524,included_game_day
+2006,228,Clemson Tigers,2006-02-11,45.063355017115484,included_game_day
+2006,228,Clemson Tigers,2006-02-14,57.42877450266522,included_game_day
+2006,228,Clemson Tigers,2006-02-22,52.660470307668724,included_game_day
+2006,228,Clemson Tigers,2006-02-25,78.79729052982468,included_game_day
+2006,228,Clemson Tigers,2006-03-01,85.44735100823404,included_game_day
+2006,228,Clemson Tigers,2006-03-04,93.49980595663715,included_game_day
+2006,228,Clemson Tigers,2006-03-09,90.88569615289994,included_game_day
+2006,228,Clemson Tigers,2006-03-15,99.84163383546405,included_game_day
+2006,228,Clemson Tigers,2006-03-20,95.62566646599055,included_game_day
+2007,228,Clemson Tigers,2006-11-10,36.0,included_game_day
+2007,228,Clemson Tigers,2006-11-11,40.3,included_game_day
+2007,228,Clemson Tigers,2006-11-12,44.4,included_game_day
+2007,228,Clemson Tigers,2006-11-15,47.56,included_game_day
+2007,228,Clemson Tigers,2006-11-17,69.804,included_game_day
+2007,228,Clemson Tigers,2006-11-21,66.0827,included_game_day
+2007,228,Clemson Tigers,2006-11-24,78.74840900000001,included_game_day
+2007,228,Clemson Tigers,2006-11-29,93.93956144,included_game_day
+2007,228,Clemson Tigers,2006-12-02,109.659211286,included_game_day
+2007,228,Clemson Tigers,2006-12-05,115.13626694140001,included_game_day
+2007,228,Clemson Tigers,2006-12-19,112.77130073168162,included_game_day
+2007,228,Clemson Tigers,2006-12-23,138.93336424050574,included_game_day
+2007,228,Clemson Tigers,2006-12-28,147.7815142837405,included_game_day
+2007,228,Clemson Tigers,2006-12-31,132.3668041758913,included_game_day
+2007,228,Clemson Tigers,2007-01-03,135.26378465920976,included_game_day
+2007,228,Clemson Tigers,2007-01-06,134.0568132854649,included_game_day
+2007,228,Clemson Tigers,2007-01-09,136.98613891810913,included_game_day
+2007,228,Clemson Tigers,2007-01-13,134.28948010850348,included_game_day
+2007,228,Clemson Tigers,2007-01-17,115.72614911965567,included_game_day
+2007,228,Clemson Tigers,2007-01-20,130.76964280343782,included_game_day
+2007,228,Clemson Tigers,2007-01-25,133.0258945732354,included_game_day
+2007,228,Clemson Tigers,2007-01-28,124.80562960025897,included_game_day
+2007,228,Clemson Tigers,2007-02-03,106.9790315103002,included_game_day
+2007,228,Clemson Tigers,2007-02-07,118.76000689467337,included_game_day
+2007,228,Clemson Tigers,2007-02-14,107.9607379527604,included_game_day
+2007,228,Clemson Tigers,2007-02-18,91.02143084092651,included_game_day
+2007,228,Clemson Tigers,2007-02-22,88.01607440907476,included_game_day
+2007,228,Clemson Tigers,2007-02-24,86.75635040738595,included_game_day
+2007,228,Clemson Tigers,2007-02-28,81.13092784883332,included_game_day
+2007,228,Clemson Tigers,2007-03-04,87.36974600762446,included_game_day
+2007,228,Clemson Tigers,2007-03-08,85.9470774098165,included_game_day
+2007,228,Clemson Tigers,2007-03-14,82.51569309198803,included_game_day
+2007,228,Clemson Tigers,2007-03-19,101.33584568549038,included_game_day
+2007,228,Clemson Tigers,2007-03-21,104.18808222922273,included_game_day
+2007,228,Clemson Tigers,2007-03-27,108.87531344020414,included_game_day
+2007,228,Clemson Tigers,2007-03-29,108.32292954651751,included_game_day
+2008,228,Clemson Tigers,2007-11-12,42.0,included_game_day
+2008,228,Clemson Tigers,2007-11-15,45.5,included_game_day
+2008,228,Clemson Tigers,2007-11-18,54.102000000000004,included_game_day
+2008,228,Clemson Tigers,2007-11-21,57.06606000000001,included_game_day
+2008,228,Clemson Tigers,2007-11-24,77.9766144,included_game_day
+2008,228,Clemson Tigers,2007-11-27,77.62298996,included_game_day
+2008,228,Clemson Tigers,2007-12-01,86.209737937,included_game_day
+2008,228,Clemson Tigers,2007-12-05,93.3209294746,included_game_day
+2008,228,Clemson Tigers,2007-12-21,98.79903107299405,included_game_day
+2008,228,Clemson Tigers,2007-12-22,94.56571169076045,included_game_day
+2008,228,Clemson Tigers,2007-12-29,112.53356644942356,included_game_day
+2008,228,Clemson Tigers,2008-01-01,138.08164119453758,included_game_day
+2008,228,Clemson Tigers,2008-01-06,140.10177607189087,included_game_day
+2008,228,Clemson Tigers,2008-01-09,115.77017310534515,included_game_day
+2008,228,Clemson Tigers,2008-01-12,120.97089968683885,included_game_day
+2008,228,Clemson Tigers,2008-01-15,122.52813762520171,included_game_day
+2008,228,Clemson Tigers,2008-01-22,116.52919182290863,included_game_day
+2008,228,Clemson Tigers,2008-01-27,112.59168870395601,included_game_day
+2008,228,Clemson Tigers,2008-02-02,125.9319684250288,included_game_day
+2008,228,Clemson Tigers,2008-02-07,150.40465820782256,included_game_day
+2008,228,Clemson Tigers,2008-02-10,147.19100121312232,included_game_day
+2008,228,Clemson Tigers,2008-02-14,151.4398944848174,included_game_day
+2008,228,Clemson Tigers,2008-02-16,147.63065124278654,included_game_day
+2008,228,Clemson Tigers,2008-02-19,130.74853285526353,included_game_day
+2008,228,Clemson Tigers,2008-02-27,133.9797745999211,included_game_day
+2008,228,Clemson Tigers,2008-03-02,134.38864171470925,included_game_day
+2008,228,Clemson Tigers,2008-03-06,124.6561677045108,included_game_day
+2008,228,Clemson Tigers,2008-03-09,119.07273096066045,included_game_day
+2008,228,Clemson Tigers,2008-03-14,144.21846653599277,included_game_day
+2008,228,Clemson Tigers,2008-03-15,150.05552899580306,included_game_day
+2008,228,Clemson Tigers,2008-03-16,149.43394037638964,included_game_day
+2008,228,Clemson Tigers,2008-03-21,137.8514887991027,included_game_day
+2009,228,Clemson Tigers,2008-11-14,29.0,included_game_day
+2009,228,Clemson Tigers,2008-11-15,38.5,included_game_day
+2009,228,Clemson Tigers,2008-11-16,40.74,included_game_day
+2009,228,Clemson Tigers,2008-11-19,86.666,included_game_day
+2009,228,Clemson Tigers,2008-11-22,82.81439999999999,included_game_day
+2009,228,Clemson Tigers,2008-11-25,104.80395999999999,included_game_day
+2009,228,Clemson Tigers,2008-11-28,108.007364,included_game_day
+2009,228,Clemson Tigers,2008-12-02,107.4412036,included_game_day
+2009,228,Clemson Tigers,2008-12-07,99.176063344,included_game_day
+2009,228,Clemson Tigers,2008-12-13,109.8954436086,included_game_day
+2009,228,Clemson Tigers,2008-12-16,123.74920682974,included_game_day
+2009,228,Clemson Tigers,2008-12-21,139.6463674546684,included_game_day
+2009,228,Clemson Tigers,2008-12-30,150.1389516863453,included_game_day
+2009,228,Clemson Tigers,2009-01-03,145.2167438093234,included_game_day
+2009,228,Clemson Tigers,2009-01-06,137.24068669230093,included_game_day
+2009,228,Clemson Tigers,2009-01-10,139.71500565728192,included_game_day
+2009,228,Clemson Tigers,2009-01-17,129.93463576482435,included_game_day
+2009,228,Clemson Tigers,2009-01-21,115.83959070094224,included_game_day
+2009,228,Clemson Tigers,2009-01-25,117.33598834400372,included_game_day
+2009,228,Clemson Tigers,2009-01-29,122.16508224051712,included_game_day
+2009,228,Clemson Tigers,2009-02-04,154.69938757331028,included_game_day
+2009,228,Clemson Tigers,2009-02-07,141.33833300150928,included_game_day
+2009,228,Clemson Tigers,2009-02-10,147.2481391746122,included_game_day
+2009,228,Clemson Tigers,2009-02-15,133.45324849272373,included_game_day
+2009,228,Clemson Tigers,2009-02-17,151.8026801742156,included_game_day
+2009,228,Clemson Tigers,2009-02-22,148.9130639037184,included_game_day
+2009,228,Clemson Tigers,2009-02-25,133.74257275436318,included_game_day
+2009,228,Clemson Tigers,2009-02-28,125.83482022895916,included_game_day
+2009,228,Clemson Tigers,2009-03-03,132.4039543747857,included_game_day
+2009,228,Clemson Tigers,2009-03-08,127.58671195212128,included_game_day
+2009,228,Clemson Tigers,2009-03-12,112.8968049227315,included_game_day
+2009,228,Clemson Tigers,2009-03-19,107.59415976733385,included_game_day
+2010,228,Clemson Tigers,2009-11-13,40.0,included_game_day
+2010,228,Clemson Tigers,2009-11-17,78.9,included_game_day
+2010,228,Clemson Tigers,2009-11-20,92.337,included_game_day
+2010,228,Clemson Tigers,2009-11-23,114.9753,included_game_day
+2010,228,Clemson Tigers,2009-11-26,97.29477,included_game_day
+2010,228,Clemson Tigers,2009-11-27,94.690576,included_game_day
+2010,228,Clemson Tigers,2009-11-29,88.8431134,included_game_day
+2010,228,Clemson Tigers,2009-12-02,80.61066625999999,included_game_day
+2010,228,Clemson Tigers,2009-12-06,84.88587532399998,included_game_day
+2010,228,Clemson Tigers,2009-12-13,102.36370493869998,included_game_day
+2010,228,Clemson Tigers,2009-12-16,109.97126591482998,included_game_day
+2010,228,Clemson Tigers,2009-12-19,136.077573645744,included_game_day
+2010,228,Clemson Tigers,2009-12-22,146.6179102274367,included_game_day
+2010,228,Clemson Tigers,2009-12-29,128.79943553449826,included_game_day
+2010,228,Clemson Tigers,2010-01-03,117.39103709088681,included_game_day
+2010,228,Clemson Tigers,2010-01-09,126.92428849728107,included_game_day
+2010,228,Clemson Tigers,2010-01-13,141.86618009562005,included_game_day
+2010,228,Clemson Tigers,2010-01-16,140.16093539894248,included_game_day
+2010,228,Clemson Tigers,2010-01-19,137.97944004257266,included_game_day
+2010,228,Clemson Tigers,2010-01-23,126.81503781301254,included_game_day
+2010,228,Clemson Tigers,2010-01-26,118.30017374921314,included_game_day
+2010,228,Clemson Tigers,2010-01-31,129.50102442997178,included_game_day
+2010,228,Clemson Tigers,2010-02-06,119.3157125790352,included_game_day
+2010,228,Clemson Tigers,2010-02-10,125.58252939134957,included_game_day
+2010,228,Clemson Tigers,2010-02-13,125.61113663974743,included_game_day
+2010,228,Clemson Tigers,2010-02-20,139.88530522687546,included_game_day
+2010,228,Clemson Tigers,2010-02-24,135.81535093617302,included_game_day
+2010,228,Clemson Tigers,2010-02-28,142.27875066065388,included_game_day
+2010,228,Clemson Tigers,2010-03-02,147.9380067010126,included_game_day
+2010,228,Clemson Tigers,2010-03-07,139.76205527860512,included_game_day
+2010,228,Clemson Tigers,2010-03-11,131.73962253385773,included_game_day
+2010,228,Clemson Tigers,2010-03-19,121.2888123718849,included_game_day
+2011,228,Clemson Tigers,2010-11-12,20.0,included_game_day
+2011,228,Clemson Tigers,2010-11-15,21.9,included_game_day
+2011,228,Clemson Tigers,2010-11-19,31.81,included_game_day
+2011,228,Clemson Tigers,2010-11-21,29.333,included_game_day
+2011,228,Clemson Tigers,2010-11-22,34.546549999999996,included_game_day
+2011,228,Clemson Tigers,2010-11-26,41.774255,included_game_day
+2011,228,Clemson Tigers,2010-11-30,30.306441588999995,included_game_day
+2011,228,Clemson Tigers,2010-12-05,30.492900005499997,included_game_day
+2011,228,Clemson Tigers,2010-12-12,32.06188571795,included_game_day
+2011,228,Clemson Tigers,2010-12-17,42.1106303029041,included_game_day
+2011,228,Clemson Tigers,2010-12-19,32.98682112391449,included_game_day
+2011,228,Clemson Tigers,2010-12-22,44.36822256605664,included_game_day
+2011,228,Clemson Tigers,2010-12-27,71.19912479124865,included_game_day
+2011,228,Clemson Tigers,2010-12-29,71.8531220792788,included_game_day
+2011,228,Clemson Tigers,2011-01-02,69.21854384771645,included_game_day
+2011,228,Clemson Tigers,2011-01-08,74.71315841104169,included_game_day
+2011,228,Clemson Tigers,2011-01-12,90.93387985020652,included_game_day
+2011,228,Clemson Tigers,2011-01-18,83.87223754821913,included_game_day
+2011,228,Clemson Tigers,2011-01-22,88.56001600858329,included_game_day
+2011,228,Clemson Tigers,2011-01-25,91.33943322438766,included_game_day
+2011,228,Clemson Tigers,2011-01-29,108.45417422003425,included_game_day
+2011,228,Clemson Tigers,2011-02-02,98.60132319619305,included_game_day
+2011,228,Clemson Tigers,2011-02-05,106.83941833425794,included_game_day
+2011,228,Clemson Tigers,2011-02-08,104.61005748839028,included_game_day
+2011,228,Clemson Tigers,2011-02-12,104.56322867897855,included_game_day
+2011,228,Clemson Tigers,2011-02-17,93.33272958440605,included_game_day
+2011,228,Clemson Tigers,2011-02-20,97.42530767795165,included_game_day
+2011,228,Clemson Tigers,2011-02-26,91.58449722749023,included_game_day
+2011,228,Clemson Tigers,2011-03-02,92.70706769982533,included_game_day
+2011,228,Clemson Tigers,2011-03-05,99.07025170927967,included_game_day
+2011,228,Clemson Tigers,2011-03-11,120.57808860621273,included_game_day
+2011,228,Clemson Tigers,2011-03-12,118.97782497005011,included_game_day
+2011,228,Clemson Tigers,2011-03-15,132.98307336247063,included_game_day
+2011,228,Clemson Tigers,2011-03-17,123.20050001007148,included_game_day
+2012,228,Clemson Tigers,2011-11-11,18.0,included_game_day
+2012,228,Clemson Tigers,2011-11-16,42.9,included_game_day
+2012,228,Clemson Tigers,2011-11-19,34.086,included_game_day
+2012,228,Clemson Tigers,2011-11-22,27.367399999999996,included_game_day
+2012,228,Clemson Tigers,2011-11-25,30.59876,included_game_day
+2012,228,Clemson Tigers,2011-11-29,49.076770999999994,included_game_day
+2012,228,Clemson Tigers,2011-12-04,35.5029898018,included_game_day
+2012,228,Clemson Tigers,2011-12-10,22.37104675572,included_game_day
+2012,228,Clemson Tigers,2011-12-17,34.042589914638,included_game_day
+2012,228,Clemson Tigers,2011-12-19,45.3337853358062,included_game_day
+2012,228,Clemson Tigers,2011-12-22,28.82849516694933,included_game_day
+2012,228,Clemson Tigers,2011-12-23,30.745407019189336,included_game_day
+2012,228,Clemson Tigers,2011-12-25,21.47433257251232,included_game_day
+2012,228,Clemson Tigers,2012-01-01,23.5536578283537,included_game_day
+2012,228,Clemson Tigers,2012-01-07,46.011644640282555,included_game_day
+2012,228,Clemson Tigers,2012-01-12,37.40876391211147,included_game_day
+2012,228,Clemson Tigers,2012-01-15,34.66467130298498,included_game_day
+2012,228,Clemson Tigers,2012-01-18,36.06442763461634,included_game_day
+2012,228,Clemson Tigers,2012-01-21,30.49690885527628,included_game_day
+2012,228,Clemson Tigers,2012-01-28,32.87825606219566,included_game_day
+2012,228,Clemson Tigers,2012-01-31,39.19393908657237,included_game_day
+2012,228,Clemson Tigers,2012-02-04,40.501959690782606,included_game_day
+2012,228,Clemson Tigers,2012-02-07,33.016588076979026,included_game_day
+2012,228,Clemson Tigers,2012-02-11,49.24773225777944,included_game_day
+2012,228,Clemson Tigers,2012-02-14,63.13039075047703,included_game_day
+2012,228,Clemson Tigers,2012-02-18,53.35043077192364,included_game_day
+2012,228,Clemson Tigers,2012-02-21,68.39451551099964,included_game_day
+2012,228,Clemson Tigers,2012-02-25,67.28250377942418,included_game_day
+2012,228,Clemson Tigers,2012-03-01,63.30306013559862,included_game_day
+2012,228,Clemson Tigers,2012-03-04,61.25427532282843,included_game_day
+2012,228,Clemson Tigers,2012-03-08,52.98666316272167,included_game_day
+2013,228,Clemson Tigers,2012-11-12,30.0,included_game_day
+2013,228,Clemson Tigers,2012-11-16,44.6,included_game_day
+2013,228,Clemson Tigers,2012-11-22,41.170700000000004,included_game_day
+2013,228,Clemson Tigers,2012-11-23,57.512330000000006,included_game_day
+2013,228,Clemson Tigers,2012-11-25,63.51655000000001,included_game_day
+2013,228,Clemson Tigers,2012-11-28,43.911395000000006,included_game_day
+2013,228,Clemson Tigers,2012-12-02,51.553193599000004,included_game_day
+2013,228,Clemson Tigers,2012-12-08,41.195917478400006,included_game_day
+2013,228,Clemson Tigers,2012-12-15,50.63904015386001,included_game_day
+2013,228,Clemson Tigers,2012-12-19,20.50097726847401,included_game_day
+2013,228,Clemson Tigers,2012-12-23,40.97846321349249,included_game_day
+2013,228,Clemson Tigers,2013-01-01,63.621757429899034,included_game_day
+2013,228,Clemson Tigers,2013-01-05,53.318176918372345,included_game_day
+2013,228,Clemson Tigers,2013-01-08,38.70945445805381,included_game_day
+2013,228,Clemson Tigers,2013-01-12,56.37562133454311,included_game_day
+2013,228,Clemson Tigers,2013-01-15,66.4473328572198,included_game_day
+2013,228,Clemson Tigers,2013-01-20,70.06785474725402,included_game_day
+2013,228,Clemson Tigers,2013-01-24,67.12443884104744,included_game_day
+2013,228,Clemson Tigers,2013-01-27,62.68487950288536,included_game_day
+2013,228,Clemson Tigers,2013-01-29,60.743664706090385,included_game_day
+2013,228,Clemson Tigers,2013-02-02,52.66223611307975,included_game_day
+2013,228,Clemson Tigers,2013-02-07,23.04383440949679,included_game_day
+2013,228,Clemson Tigers,2013-02-10,26.689835361699597,included_game_day
+2013,228,Clemson Tigers,2013-02-14,35.41664477624376,included_game_day
+2013,228,Clemson Tigers,2013-02-17,43.24232974815305,included_game_day
+2013,228,Clemson Tigers,2013-02-23,35.61133327149596,included_game_day
+2013,228,Clemson Tigers,2013-02-28,32.14945057043953,included_game_day
+2013,228,Clemson Tigers,2013-03-02,22.396228857098578,included_game_day
+2013,228,Clemson Tigers,2013-03-05,13.583885847253846,included_game_day
+2013,228,Clemson Tigers,2013-03-09,13.776492397829616,included_game_day
+2013,228,Clemson Tigers,2013-03-14,11.089851218768324,included_game_day
+2014,228,Clemson Tigers,2013-11-08,17.0,included_game_day
+2014,228,Clemson Tigers,2013-11-13,32.08,included_game_day
+2014,228,Clemson Tigers,2013-11-17,43.242,included_game_day
+2014,228,Clemson Tigers,2013-11-21,52.9858,included_game_day
+2014,228,Clemson Tigers,2013-11-22,76.07061999999999,included_game_day
+2014,228,Clemson Tigers,2013-11-24,67.477888,included_game_day
+2014,228,Clemson Tigers,2013-11-29,85.8966435,included_game_day
+2014,228,Clemson Tigers,2013-12-03,81.83190535,included_game_day
+2014,228,Clemson Tigers,2013-12-07,78.6219886627,included_game_day
+2014,228,Clemson Tigers,2013-12-14,98.34919200221,included_game_day
+2014,228,Clemson Tigers,2013-12-19,87.603766239809,included_game_day
+2014,228,Clemson Tigers,2013-12-30,102.60976348628235,included_game_day
+2014,228,Clemson Tigers,2014-01-04,93.2267564659494,included_game_day
+2014,228,Clemson Tigers,2014-01-09,73.86668717327505,included_game_day
+2014,228,Clemson Tigers,2014-01-11,90.55347234850106,included_game_day
+2014,228,Clemson Tigers,2014-01-15,90.37031083239671,included_game_day
+2014,228,Clemson Tigers,2014-01-18,88.94570424880166,included_game_day
+2014,228,Clemson Tigers,2014-01-21,63.12874888984114,included_game_day
+2014,228,Clemson Tigers,2014-01-26,46.56388833141662,included_game_day
+2014,228,Clemson Tigers,2014-02-01,57.18261888915798,included_game_day
+2014,228,Clemson Tigers,2014-02-04,54.719465668863236,included_game_day
+2014,228,Clemson Tigers,2014-02-09,53.137211840072695,included_game_day
+2014,228,Clemson Tigers,2014-02-11,50.253371349204485,included_game_day
+2014,228,Clemson Tigers,2014-02-15,51.71986553639451,included_game_day
+2014,228,Clemson Tigers,2014-02-18,65.41468936159424,included_game_day
+2014,228,Clemson Tigers,2014-02-22,70.83624631978552,included_game_day
+2014,228,Clemson Tigers,2014-02-25,60.24468486585266,included_game_day
+2014,228,Clemson Tigers,2014-03-02,62.712979428969376,included_game_day
+2014,228,Clemson Tigers,2014-03-04,64.09594638056407,included_game_day
+2014,228,Clemson Tigers,2014-03-08,57.506119148448576,included_game_day
+2014,228,Clemson Tigers,2014-03-13,58.563034729567995,included_game_day
+2014,228,Clemson Tigers,2014-03-14,66.21454875723386,included_game_day
+2014,228,Clemson Tigers,2014-03-18,79.53339507151114,included_game_day
+2014,228,Clemson Tigers,2014-03-23,78.28057109435088,included_game_day
+2014,228,Clemson Tigers,2014-03-25,79.96346617194843,included_game_day
+2014,228,Clemson Tigers,2014-04-01,75.88546435325952,included_game_day
+2015,228,Clemson Tigers,2014-11-14,42.0,included_game_day
+2015,228,Clemson Tigers,2014-11-17,31.8,included_game_day
+2015,228,Clemson Tigers,2014-11-21,27.880000000000003,included_game_day
+2015,228,Clemson Tigers,2014-11-22,34.592,included_game_day
+2015,228,Clemson Tigers,2014-11-24,35.5499,included_game_day
+2015,228,Clemson Tigers,2014-11-28,32.08691,included_game_day
+2015,228,Clemson Tigers,2014-12-01,18.595305000000003,included_game_day
+2015,228,Clemson Tigers,2014-12-07,23.772837974,included_game_day
+2015,228,Clemson Tigers,2014-12-14,28.2071492166,included_game_day
+2015,228,Clemson Tigers,2014-12-19,13.221470859940002,included_game_day
+2015,228,Clemson Tigers,2014-12-22,14.432944573113971,included_game_day
+2015,228,Clemson Tigers,2014-12-30,10.940253127135131,included_game_day
+2015,228,Clemson Tigers,2015-01-03,-2.3661375720404205,included_game_day
+2015,228,Clemson Tigers,2015-01-07,8.172490408409592,included_game_day
+2015,228,Clemson Tigers,2015-01-10,23.29519476940336,included_game_day
+2015,228,Clemson Tigers,2015-01-13,18.541663235598214,included_game_day
+2015,228,Clemson Tigers,2015-01-17,35.34767056604019,included_game_day
+2015,228,Clemson Tigers,2015-01-19,25.91621926147209,included_game_day
+2015,228,Clemson Tigers,2015-01-24,24.98083935980396,included_game_day
+2015,228,Clemson Tigers,2015-01-28,45.57799742920136,included_game_day
+2015,228,Clemson Tigers,2015-01-31,55.20903457330477,included_game_day
+2015,228,Clemson Tigers,2015-02-04,62.254013822442545,included_game_day
+2015,228,Clemson Tigers,2015-02-08,53.46809650509228,included_game_day
+2015,228,Clemson Tigers,2015-02-10,53.7914541851702,included_game_day
+2015,228,Clemson Tigers,2015-02-14,67.32595533947149,included_game_day
+2015,228,Clemson Tigers,2015-02-16,57.45140159871571,included_game_day
+2015,228,Clemson Tigers,2015-02-21,48.527263441244116,included_game_day
+2015,228,Clemson Tigers,2015-02-28,51.708718984913986,included_game_day
+2015,228,Clemson Tigers,2015-03-03,47.12347534444871,included_game_day
+2015,228,Clemson Tigers,2015-03-07,43.64135576787022,included_game_day
+2015,228,Clemson Tigers,2015-03-11,40.76797528651125,included_game_day
+2016,228,Clemson Tigers,2015-11-13,31.0,included_game_day
+2016,228,Clemson Tigers,2015-11-15,57.0,included_game_day
+2016,228,Clemson Tigers,2015-11-19,63.96,included_game_day
+2016,228,Clemson Tigers,2015-11-23,43.796,included_game_day
+2016,228,Clemson Tigers,2015-11-25,57.18721,included_game_day
+2016,228,Clemson Tigers,2015-11-30,48.3265812,included_game_day
+2016,228,Clemson Tigers,2015-12-02,54.34240858,included_game_day
+2016,228,Clemson Tigers,2015-12-06,59.516596022,included_game_day
+2016,228,Clemson Tigers,2015-12-13,48.3510499528,included_game_day
+2016,228,Clemson Tigers,2015-12-15,64.03201004752,included_game_day
+2016,228,Clemson Tigers,2015-12-18,56.777425165568005,included_game_day
+2016,228,Clemson Tigers,2015-12-22,33.41854690889821,included_game_day
+2016,228,Clemson Tigers,2015-12-30,35.42695955539604,included_game_day
+2016,228,Clemson Tigers,2016-01-02,45.914394969239154,included_game_day
+2016,228,Clemson Tigers,2016-01-05,50.30853446038415,included_game_day
+2016,228,Clemson Tigers,2016-01-10,62.91944684039854,included_game_day
+2016,228,Clemson Tigers,2016-01-13,75.67677173990202,included_game_day
+2016,228,Clemson Tigers,2016-01-16,89.00049680669707,included_game_day
+2016,228,Clemson Tigers,2016-01-19,86.38921094196067,included_game_day
+2016,228,Clemson Tigers,2016-01-27,96.93896579114413,included_game_day
+2016,228,Clemson Tigers,2016-01-30,85.68624022011555,included_game_day
+2016,228,Clemson Tigers,2016-02-02,94.09807489494557,included_game_day
+2016,228,Clemson Tigers,2016-02-06,88.89424916355266,included_game_day
+2016,228,Clemson Tigers,2016-02-08,81.26833172011615,included_game_day
+2016,228,Clemson Tigers,2016-02-13,89.51137571473055,included_game_day
+2016,228,Clemson Tigers,2016-02-17,83.6249475090463,included_game_day
+2016,228,Clemson Tigers,2016-02-20,81.4096990631033,included_game_day
+2016,228,Clemson Tigers,2016-02-23,80.43801968362813,included_game_day
+2016,228,Clemson Tigers,2016-03-01,77.46237167626131,included_game_day
+2016,228,Clemson Tigers,2016-03-05,83.61512674010179,included_game_day
+2016,228,Clemson Tigers,2016-03-09,79.25456636522507,included_game_day
+2017,228,Clemson Tigers,2016-11-11,7.0,included_game_day
+2017,228,Clemson Tigers,2016-11-17,24.2,included_game_day
+2017,228,Clemson Tigers,2016-11-18,19.186,included_game_day
+2017,228,Clemson Tigers,2016-11-20,15.0095,included_game_day
+2017,228,Clemson Tigers,2016-11-25,15.354849999999999,included_game_day
+2017,228,Clemson Tigers,2016-11-30,14.0530587,included_game_day
+2017,228,Clemson Tigers,2016-12-04,36.00231727,included_game_day
+2017,228,Clemson Tigers,2016-12-10,70.1104426429,included_game_day
+2017,228,Clemson Tigers,2016-12-13,76.54679183120601,included_game_day
+2017,228,Clemson Tigers,2016-12-18,88.52599022502241,included_game_day
+2017,228,Clemson Tigers,2016-12-21,94.37166180873268,included_game_day
+2017,228,Clemson Tigers,2016-12-28,104.40798539894267,included_game_day
+2017,228,Clemson Tigers,2016-12-31,110.5447264932395,included_game_day
+2017,228,Clemson Tigers,2017-01-03,107.56686717725863,included_game_day
+2017,228,Clemson Tigers,2017-01-07,106.22418383583855,included_game_day
+2017,228,Clemson Tigers,2017-01-12,84.43299142673962,included_game_day
+2017,228,Clemson Tigers,2017-01-14,83.80692917106195,included_game_day
+2017,228,Clemson Tigers,2017-01-19,60.468975449659766,included_game_day
+2017,228,Clemson Tigers,2017-01-22,58.39187052995294,included_game_day
+2017,228,Clemson Tigers,2017-01-28,61.57593021746619,included_game_day
+2017,228,Clemson Tigers,2017-02-01,71.11547139281916,included_game_day
+2017,228,Clemson Tigers,2017-02-05,32.57429474228587,included_game_day
+2017,228,Clemson Tigers,2017-02-07,35.45387908395341,included_game_day
+2017,228,Clemson Tigers,2017-02-11,47.248389220143046,included_game_day
+2017,228,Clemson Tigers,2017-02-14,63.02849618487376,included_game_day
+2017,228,Clemson Tigers,2017-02-18,63.592855399671954,included_game_day
+2017,228,Clemson Tigers,2017-02-21,68.00072218432636,included_game_day
+2017,228,Clemson Tigers,2017-02-25,71.82208993291043,included_game_day
+2017,228,Clemson Tigers,2017-03-01,65.67680118387112,included_game_day
+2017,228,Clemson Tigers,2017-03-04,67.95611352564607,included_game_day
+2017,228,Clemson Tigers,2017-03-07,75.81195129223714,included_game_day
+2017,228,Clemson Tigers,2017-03-08,75.17099785621541,included_game_day
+2018,228,Clemson Tigers,2017-11-10,25.0,included_game_day
+2018,228,Clemson Tigers,2017-11-12,43.5,included_game_day
+2018,228,Clemson Tigers,2017-11-16,44.65,included_game_day
+2018,228,Clemson Tigers,2017-11-17,60.68,included_game_day
+2018,228,Clemson Tigers,2017-11-19,50.612,included_game_day
+2018,228,Clemson Tigers,2017-11-24,43.06909,included_game_day
+2018,228,Clemson Tigers,2017-11-29,59.015154300000006,included_game_day
+2018,228,Clemson Tigers,2017-12-03,82.186704021,included_game_day
+2018,228,Clemson Tigers,2017-12-09,86.59297946748,included_game_day
+2018,228,Clemson Tigers,2017-12-16,86.23471018733201,included_game_day
+2018,228,Clemson Tigers,2017-12-19,95.52736902921711,included_game_day
+2018,228,Clemson Tigers,2017-12-22,117.61575139381736,included_game_day
+2018,228,Clemson Tigers,2017-12-30,128.87721657031636,included_game_day
+2018,228,Clemson Tigers,2018-01-03,129.3185701429372,included_game_day
+2018,228,Clemson Tigers,2018-01-06,126.72416908130535,included_game_day
+2018,228,Clemson Tigers,2018-01-11,124.33901432028587,included_game_day
+2018,228,Clemson Tigers,2018-01-13,127.30938564499475,included_game_day
+2018,228,Clemson Tigers,2018-01-16,123.30937270377288,included_game_day
+2018,228,Clemson Tigers,2018-01-20,126.5630682782092,included_game_day
+2018,228,Clemson Tigers,2018-01-23,108.81091029287336,included_game_day
+2018,228,Clemson Tigers,2018-01-28,106.28729981586375,included_game_day
+2018,228,Clemson Tigers,2018-01-30,108.06072648418491,included_game_day
+2018,228,Clemson Tigers,2018-02-03,112.62080314002714,included_game_day
+2018,228,Clemson Tigers,2018-02-08,117.36987754170053,included_game_day
+2018,228,Clemson Tigers,2018-02-14,117.19923501256933,included_game_day
+2018,228,Clemson Tigers,2018-02-18,111.80519443560142,included_game_day
+2018,228,Clemson Tigers,2018-02-21,107.7533097856035,included_game_day
+2018,228,Clemson Tigers,2018-02-24,102.7676050552998,included_game_day
+2018,228,Clemson Tigers,2018-02-28,110.48535822970331,included_game_day
+2018,228,Clemson Tigers,2018-03-03,106.46622993616907,included_game_day
+2018,228,Clemson Tigers,2018-03-08,110.74668527894679,included_game_day
+2018,228,Clemson Tigers,2018-03-09,111.9952781821274,included_game_day
+2018,228,Clemson Tigers,2018-03-16,120.59130811249148,included_game_day
+2018,228,Clemson Tigers,2018-03-18,150.0281442085937,included_game_day
+2018,228,Clemson Tigers,2018-03-23,147.41888692689366,included_game_day
+2019,228,Clemson Tigers,2018-11-06,17.0,included_game_day
+2019,228,Clemson Tigers,2018-11-09,32.3,included_game_day
+2019,228,Clemson Tigers,2018-11-14,40.83,included_game_day
+2019,228,Clemson Tigers,2018-11-19,45.1661,included_game_day
+2019,228,Clemson Tigers,2018-11-20,59.57909,included_game_day
+2019,228,Clemson Tigers,2018-11-21,52.471051,included_game_day
+2019,228,Clemson Tigers,2018-11-26,54.210250800000004,included_game_day
+2019,228,Clemson Tigers,2018-12-04,44.775678309,included_game_day
+2019,228,Clemson Tigers,2018-12-08,35.54638542838,included_game_day
+2019,228,Clemson Tigers,2018-12-15,37.828238577713,included_game_day
+2019,228,Clemson Tigers,2018-12-18,55.4625361412462,included_game_day
+2019,228,Clemson Tigers,2018-12-22,62.95222315980808,included_game_day
+2019,228,Clemson Tigers,2018-12-30,79.31508934544439,included_game_day
+2019,228,Clemson Tigers,2019-01-05,77.31774591065633,included_game_day
+2019,228,Clemson Tigers,2019-01-09,74.24661451857509,included_game_day
+2019,228,Clemson Tigers,2019-01-12,62.27268563771452,included_game_day
+2019,228,Clemson Tigers,2019-01-16,73.43621846296584,included_game_day
+2019,228,Clemson Tigers,2019-01-22,68.02569880841915,included_game_day
+2019,228,Clemson Tigers,2019-01-26,74.32832396808847,included_game_day
+2019,228,Clemson Tigers,2019-01-29,84.19604763651516,included_game_day
+2019,228,Clemson Tigers,2019-02-03,98.8417349872695,included_game_day
+2019,228,Clemson Tigers,2019-02-06,118.32972934599651,included_game_day
+2019,228,Clemson Tigers,2019-02-09,126.93080638319049,included_game_day
+2019,228,Clemson Tigers,2019-02-13,122.05969447210967,included_game_day
+2019,228,Clemson Tigers,2019-02-16,127.93787924513224,included_game_day
+2019,228,Clemson Tigers,2019-02-19,113.46200883667515,included_game_day
+2019,228,Clemson Tigers,2019-02-23,112.81293676841315,included_game_day
+2019,228,Clemson Tigers,2019-02-27,121.55035866517447,included_game_day
+2019,228,Clemson Tigers,2019-03-02,125.60686002142869,included_game_day
+2019,228,Clemson Tigers,2019-03-06,120.94269498576818,included_game_day
+2019,228,Clemson Tigers,2019-03-09,128.00724354092546,included_game_day
+2019,228,Clemson Tigers,2019-03-13,125.9670164080023,included_game_day
+2019,228,Clemson Tigers,2019-03-19,120.48366437461873,included_game_day
+2019,228,Clemson Tigers,2019-03-24,105.0259036820748,included_game_day
+2020,228,Clemson Tigers,2019-11-05,-10.0,included_game_day
+2020,228,Clemson Tigers,2019-11-07,22.0,included_game_day
+2020,228,Clemson Tigers,2019-11-10,30.0,included_game_day
+2020,228,Clemson Tigers,2019-11-17,44.36,included_game_day
+2020,228,Clemson Tigers,2019-11-21,64.93343,included_game_day
+2020,228,Clemson Tigers,2019-11-24,63.43243272,included_game_day
+2020,228,Clemson Tigers,2019-11-26,57.663742368,included_game_day
+2020,228,Clemson Tigers,2019-12-02,42.2376301012,included_game_day
+2020,228,Clemson Tigers,2019-12-08,30.160122872579997,included_game_day
+2020,228,Clemson Tigers,2019-12-15,11.412401783899998,included_game_day
+2020,228,Clemson Tigers,2019-12-20,38.859424165470614,included_game_day
+2020,228,Clemson Tigers,2019-12-22,29.797091352216853,included_game_day
+2020,228,Clemson Tigers,2019-12-31,22.357930328042062,included_game_day
+2020,228,Clemson Tigers,2020-01-04,36.91504287583544,included_game_day
+2020,228,Clemson Tigers,2020-01-11,39.73965208190829,included_game_day
+2020,228,Clemson Tigers,2020-01-14,59.29975659899851,included_game_day
+2020,228,Clemson Tigers,2020-01-18,57.68960486378288,included_game_day
+2020,228,Clemson Tigers,2020-01-21,53.62566584619989,included_game_day
+2020,228,Clemson Tigers,2020-01-25,44.36727025417303,included_game_day
+2020,228,Clemson Tigers,2020-01-28,46.307835087885486,included_game_day
+2020,228,Clemson Tigers,2020-02-01,34.51752929271147,included_game_day
+2020,228,Clemson Tigers,2020-02-05,33.47389845765131,included_game_day
+2020,228,Clemson Tigers,2020-02-09,31.311347214364588,included_game_day
+2020,228,Clemson Tigers,2020-02-12,55.674090422713256,included_game_day
+2020,228,Clemson Tigers,2020-02-15,74.44266937516068,included_game_day
+2020,228,Clemson Tigers,2020-02-22,85.97499084811405,included_game_day
+2020,228,Clemson Tigers,2020-02-25,78.13178980995418,included_game_day
+2020,228,Clemson Tigers,2020-02-29,80.90733229646474,included_game_day
+2020,228,Clemson Tigers,2020-03-04,63.71329274653336,included_game_day
+2020,228,Clemson Tigers,2020-03-06,59.20190839053843,included_game_day
+2020,228,Clemson Tigers,2020-03-11,61.50773965959778,included_game_day
+2021,228,Clemson Tigers,2020-11-25,11.0,included_game_day
+2021,228,Clemson Tigers,2020-11-26,22.2,included_game_day
+2021,228,Clemson Tigers,2020-12-02,49.8,included_game_day
+2021,228,Clemson Tigers,2020-12-09,65.70260999999999,included_game_day
+2021,228,Clemson Tigers,2020-12-12,69.78684899999999,included_game_day
+2021,228,Clemson Tigers,2020-12-15,60.696583059999995,included_game_day
+2021,228,Clemson Tigers,2020-12-21,62.384911523,included_game_day
+2021,228,Clemson Tigers,2020-12-29,66.11738322823,included_game_day
+2021,228,Clemson Tigers,2021-01-02,64.82194720240099,included_game_day
+2021,228,Clemson Tigers,2021-01-05,66.11046221542789,included_game_day
+2021,228,Clemson Tigers,2021-01-16,28.45781854376437,included_game_day
+2021,228,Clemson Tigers,2021-01-20,15.3259806477297,included_game_day
+2021,228,Clemson Tigers,2021-01-23,5.2949026148374045,included_game_day
+2021,228,Clemson Tigers,2021-01-27,9.269320250676065,included_game_day
+2021,228,Clemson Tigers,2021-01-30,-11.558382727148084,included_game_day
+2021,228,Clemson Tigers,2021-02-02,5.659320164003853,included_game_day
+2021,228,Clemson Tigers,2021-02-06,24.370184482974764,included_game_day
+2021,228,Clemson Tigers,2021-02-12,25.445770503658807,included_game_day
+2021,228,Clemson Tigers,2021-02-24,43.59425240627746,included_game_day
+2021,228,Clemson Tigers,2021-02-27,38.739575785819575,included_game_day
+2021,228,Clemson Tigers,2021-03-03,32.30506732230212,included_game_day
+2021,228,Clemson Tigers,2021-03-06,43.38199659920684,included_game_day
+2021,228,Clemson Tigers,2021-03-10,32.80220926585899,included_game_day
+2021,228,Clemson Tigers,2021-03-19,29.058811152422102,included_game_day
+2022,228,Clemson Tigers,2021-11-09,8.0,included_game_day
+2022,228,Clemson Tigers,2021-11-12,12.2,included_game_day
+2022,228,Clemson Tigers,2021-11-15,29.44,included_game_day
+2022,228,Clemson Tigers,2021-11-18,54.875,included_game_day
+2022,228,Clemson Tigers,2021-11-19,49.5143,included_game_day
+2022,228,Clemson Tigers,2021-11-21,39.404799999999994,included_game_day
+2022,228,Clemson Tigers,2021-11-26,59.171907999999995,included_game_day
+2022,228,Clemson Tigers,2021-11-30,47.261327580499994,included_game_day
+2022,228,Clemson Tigers,2021-12-04,40.129912367749995,included_game_day
+2022,228,Clemson Tigers,2021-12-11,48.654507951418,included_game_day
+2022,228,Clemson Tigers,2021-12-14,56.057682446176194,included_game_day
+2022,228,Clemson Tigers,2021-12-18,62.954770029353575,included_game_day
+2022,228,Clemson Tigers,2021-12-22,81.66786858953503,included_game_day
+2022,228,Clemson Tigers,2022-01-04,64.56838088021848,included_game_day
+2022,228,Clemson Tigers,2022-01-08,67.17033882979916,included_game_day
+2022,228,Clemson Tigers,2022-01-12,51.7402484898514,included_game_day
+2022,228,Clemson Tigers,2022-01-15,40.34937062623932,included_game_day
+2022,228,Clemson Tigers,2022-01-18,30.511815596286297,included_game_day
+2022,228,Clemson Tigers,2022-01-22,51.27653619549279,included_game_day
+2022,228,Clemson Tigers,2022-01-25,61.00057614587359,included_game_day
+2022,228,Clemson Tigers,2022-02-02,60.56428823052596,included_game_day
+2022,228,Clemson Tigers,2022-02-05,51.82961323660642,included_game_day
+2022,228,Clemson Tigers,2022-02-08,47.59387892240946,included_game_day
+2022,228,Clemson Tigers,2022-02-10,36.001481785674414,included_game_day
+2022,228,Clemson Tigers,2022-02-12,21.484406274175907,included_game_day
+2022,228,Clemson Tigers,2022-02-15,21.12672509058445,included_game_day
+2022,228,Clemson Tigers,2022-02-19,11.713842124742731,included_game_day
+2022,228,Clemson Tigers,2022-02-23,29.113735302870417,included_game_day
+2022,228,Clemson Tigers,2022-02-26,40.67894748377607,included_game_day
+2022,228,Clemson Tigers,2022-03-02,34.90182596843252,included_game_day
+2022,228,Clemson Tigers,2022-03-05,43.25874500042049,included_game_day
+2022,228,Clemson Tigers,2022-03-08,42.52823563440011,included_game_day
+2022,228,Clemson Tigers,2022-03-09,47.28682179659253,included_game_day
+2023,228,Clemson Tigers,2022-11-07,8.0,included_game_day
+2023,228,Clemson Tigers,2022-11-11,8.2,included_game_day
+2023,228,Clemson Tigers,2022-11-15,11.32,included_game_day
+2023,228,Clemson Tigers,2022-11-18,16.828,included_game_day
+2023,228,Clemson Tigers,2022-11-21,41.0942,included_game_day
+2023,228,Clemson Tigers,2022-11-25,44.2715,included_game_day
+2023,228,Clemson Tigers,2022-11-26,43.6830173,included_game_day
+2023,228,Clemson Tigers,2022-11-29,49.08158007,included_game_day
+2023,228,Clemson Tigers,2022-12-02,67.1296239163,included_game_day
+2023,228,Clemson Tigers,2022-12-07,65.37658611747,included_game_day
+2023,228,Clemson Tigers,2022-12-10,39.10547940903599,included_game_day
+2023,228,Clemson Tigers,2022-12-17,68.46048187684144,included_game_day
+2023,228,Clemson Tigers,2022-12-21,80.51833711998182,included_game_day
+2023,228,Clemson Tigers,2022-12-30,90.85894263959571,included_game_day
+2023,228,Clemson Tigers,2023-01-04,95.86445088313292,included_game_day
+2023,228,Clemson Tigers,2023-01-07,98.7077158562562,included_game_day
+2023,228,Clemson Tigers,2023-01-11,90.88021774655257,included_game_day
+2023,228,Clemson Tigers,2023-01-14,93.44997868776126,included_game_day
+2023,228,Clemson Tigers,2023-01-17,83.20080305806167,included_game_day
+2023,228,Clemson Tigers,2023-01-21,78.49870730100105,included_game_day
+2023,228,Clemson Tigers,2023-01-24,86.10319077440322,included_game_day
+2023,228,Clemson Tigers,2023-01-28,80.77034857603404,included_game_day
+2023,228,Clemson Tigers,2023-01-31,65.62820513220053,included_game_day
+2023,228,Clemson Tigers,2023-02-04,61.44195941914323,included_game_day
+2023,228,Clemson Tigers,2023-02-11,46.57616228413974,included_game_day
+2023,228,Clemson Tigers,2023-02-15,76.54186145666051,included_game_day
+2023,228,Clemson Tigers,2023-02-18,55.06095468885875,included_game_day
+2023,228,Clemson Tigers,2023-02-22,68.17906047018269,included_game_day
+2023,228,Clemson Tigers,2023-02-25,100.29177984491892,included_game_day
+2023,228,Clemson Tigers,2023-02-28,92.22395373843233,included_game_day
+2023,228,Clemson Tigers,2023-03-04,103.50516384483596,included_game_day
+2023,228,Clemson Tigers,2023-03-09,128.7909245145284,included_game_day
+2023,228,Clemson Tigers,2023-03-10,103.72320414535324,included_game_day
+2023,228,Clemson Tigers,2023-03-15,85.78653031099559,included_game_day
+2024,228,Clemson Tigers,2023-11-06,19.0,included_game_day
+2024,228,Clemson Tigers,2023-11-10,17.6,included_game_day
+2024,228,Clemson Tigers,2023-11-12,19.26,included_game_day
+2024,228,Clemson Tigers,2023-11-19,31.796,included_game_day
+2024,228,Clemson Tigers,2023-11-24,39.8627381,included_game_day
+2024,228,Clemson Tigers,2023-11-28,56.5136328,included_game_day
+2024,228,Clemson Tigers,2023-12-03,71.173953702,included_game_day
+2024,228,Clemson Tigers,2023-12-06,72.5468486668,included_game_day
+2024,228,Clemson Tigers,2023-12-09,83.20079652412,included_game_day
+2024,228,Clemson Tigers,2023-12-16,81.02288697411,included_game_day
+2024,228,Clemson Tigers,2023-12-22,94.27702041767189,included_game_day
+2024,228,Clemson Tigers,2023-12-29,118.26984429590298,included_game_day
+2024,228,Clemson Tigers,2024-01-03,105.73902982393825,included_game_day
+2024,228,Clemson Tigers,2024-01-06,94.82402016930524,included_game_day
+2024,228,Clemson Tigers,2024-01-10,77.86758891074548,included_game_day
+2024,228,Clemson Tigers,2024-01-13,83.48677428447512,included_game_day
+2024,228,Clemson Tigers,2024-01-16,70.20814327839487,included_game_day
+2024,228,Clemson Tigers,2024-01-20,82.95107260002412,included_game_day
+2024,228,Clemson Tigers,2024-01-27,88.94857289666486,included_game_day
+2024,228,Clemson Tigers,2024-01-30,79.23535565214172,included_game_day
+2024,228,Clemson Tigers,2024-02-03,73.89244791103368,included_game_day
+2024,228,Clemson Tigers,2024-02-06,89.76079073916083,included_game_day
+2024,228,Clemson Tigers,2024-02-10,94.26003026227906,included_game_day
+2024,228,Clemson Tigers,2024-02-14,104.57343530853966,included_game_day
+2024,228,Clemson Tigers,2024-02-17,95.26222121020521,included_game_day
+2024,228,Clemson Tigers,2024-02-21,111.53750795823662,included_game_day
+2024,228,Clemson Tigers,2024-02-24,113.1917418984793,included_game_day
+2024,228,Clemson Tigers,2024-02-27,114.8482054403145,included_game_day
+2024,228,Clemson Tigers,2024-03-02,103.37379164968767,included_game_day
+2024,228,Clemson Tigers,2024-03-05,109.5679133300716,included_game_day
+2024,228,Clemson Tigers,2024-03-09,106.94536512990456,included_game_day
+2024,228,Clemson Tigers,2024-03-13,79.00706710501561,included_game_day
+2024,228,Clemson Tigers,2024-03-22,105.43873477562705,included_game_day
+2024,228,Clemson Tigers,2024-03-24,118.28230757918178,included_game_day
+2024,228,Clemson Tigers,2024-03-28,128.54380084482818,included_game_day
+2024,228,Clemson Tigers,2024-03-30,122.69098634576282,included_game_day
+2025,228,Clemson Tigers,2024-11-04,24.0,included_game_day
+2025,228,Clemson Tigers,2024-11-08,41.9,included_game_day
+2025,228,Clemson Tigers,2024-11-12,48.41,included_game_day
+2025,228,Clemson Tigers,2024-11-17,36.509,included_game_day
+2025,228,Clemson Tigers,2024-11-21,57.3558,included_game_day
+2025,228,Clemson Tigers,2024-11-25,72.85390000000001,included_game_day
+2025,228,Clemson Tigers,2024-11-26,85.5073775,included_game_day
+2025,228,Clemson Tigers,2024-11-29,93.47794975,included_game_day
+2025,228,Clemson Tigers,2024-12-03,98.25435611159999,included_game_day
+2025,228,Clemson Tigers,2024-12-07,103.02802416313999,included_game_day
+2025,228,Clemson Tigers,2024-12-14,88.11135212257275,included_game_day
+2025,228,Clemson Tigers,2024-12-17,84.94276097387967,included_game_day
+2025,228,Clemson Tigers,2024-12-21,87.4287373477909,included_game_day
+2025,228,Clemson Tigers,2025-01-01,93.30969492164594,included_game_day
+2025,228,Clemson Tigers,2025-01-04,94.45913536174292,included_game_day
+2025,228,Clemson Tigers,2025-01-07,86.45261564367736,included_game_day
+2025,228,Clemson Tigers,2025-01-11,102.90152862965573,included_game_day
+2025,228,Clemson Tigers,2025-01-14,108.88209186575678,included_game_day
+2025,228,Clemson Tigers,2025-01-18,112.29413902457141,included_game_day
+2025,228,Clemson Tigers,2025-01-22,112.29096061081512,included_game_day
+2025,228,Clemson Tigers,2025-01-25,117.8803663021701,included_game_day
+2025,228,Clemson Tigers,2025-02-01,121.6482032670824,included_game_day
+2025,228,Clemson Tigers,2025-02-04,107.0219548416517,included_game_day
+2025,228,Clemson Tigers,2025-02-08,120.33188275732512,included_game_day
+2025,228,Clemson Tigers,2025-02-10,131.75740741469374,included_game_day
+2025,228,Clemson Tigers,2025-02-15,152.48218304938678,included_game_day
+2025,228,Clemson Tigers,2025-02-22,162.5089907760531,included_game_day
+2025,228,Clemson Tigers,2025-02-26,158.6388161440354,included_game_day
+2025,228,Clemson Tigers,2025-03-01,162.76407300118137,included_game_day
+2025,228,Clemson Tigers,2025-03-05,155.7320321411506,included_game_day
+2025,228,Clemson Tigers,2025-03-08,153.55489679805575,included_game_day
+2025,228,Clemson Tigers,2025-03-13,150.435201638934,included_game_day
+2025,228,Clemson Tigers,2025-03-14,145.92117431187836,included_game_day
+2025,228,Clemson Tigers,2025-03-20,139.70580835481888,included_game_day
+2026,228,Clemson Tigers,2025-11-03,47.0,included_game_day
+2026,228,Clemson Tigers,2025-11-07,74.9,included_game_day
+2026,228,Clemson Tigers,2025-11-11,87.736,included_game_day
+2026,228,Clemson Tigers,2025-11-15,80.0224,included_game_day
+2026,228,Clemson Tigers,2025-11-17,86.29906,included_game_day
+2026,228,Clemson Tigers,2025-11-21,86.408174,included_game_day
+2026,228,Clemson Tigers,2025-11-23,92.0136426,included_game_day
+2026,228,Clemson Tigers,2025-11-28,112.23515033999999,included_game_day
+2026,228,Clemson Tigers,2025-12-03,108.09696752599999,included_game_day
+2026,228,Clemson Tigers,2025-12-09,106.30570077923,included_game_day
+2026,228,Clemson Tigers,2025-12-13,99.21067130780699,included_game_day
+2026,228,Clemson Tigers,2025-12-16,98.69313475857118,included_game_day
+2026,228,Clemson Tigers,2025-12-21,98.34404187095642,included_game_day
+2026,228,Clemson Tigers,2025-12-31,99.99702953808162,included_game_day
+2026,228,Clemson Tigers,2026-01-03,104.7261338249113,included_game_day
+2026,228,Clemson Tigers,2026-01-07,108.48399982212263,included_game_day
+2026,228,Clemson Tigers,2026-01-10,122.54711734709863,included_game_day
+2026,228,Clemson Tigers,2026-01-13,131.6582119721396,included_game_day
+2026,228,Clemson Tigers,2026-01-17,139.37122383928437,included_game_day
+2026,228,Clemson Tigers,2026-01-20,131.02588649715318,included_game_day
+2026,228,Clemson Tigers,2026-01-24,138.03994377899926,included_game_day
+2026,228,Clemson Tigers,2026-01-31,135.57124033510087,included_game_day
+2026,228,Clemson Tigers,2026-02-04,130.44434980848465,included_game_day
+2026,228,Clemson Tigers,2026-02-07,150.3928086804801,included_game_day
+2026,228,Clemson Tigers,2026-02-11,130.55102922610783,included_game_day
+2026,228,Clemson Tigers,2026-02-14,128.92001202216807,included_game_day
+2026,228,Clemson Tigers,2026-02-18,116.37940940348786,included_game_day
+2026,228,Clemson Tigers,2026-02-21,104.6068831495109,included_game_day
+2026,228,Clemson Tigers,2026-02-28,112.5734413643118,included_game_day
+2026,228,Clemson Tigers,2026-03-03,113.04187445675797,included_game_day
+2026,228,Clemson Tigers,2026-03-07,98.50757080064776,included_game_day
+2026,228,Clemson Tigers,2026-03-11,104.83011915936623,included_game_day
+2026,228,Clemson Tigers,2026-03-12,108.52212567581549,included_game_day
+2026,228,Clemson Tigers,2026-03-13,112.95786154252968,included_game_day
+2026,228,Clemson Tigers,2026-03-20,106.89481824379853,included_game_day
+2027,228,Clemson Tigers,2026-11-02,10.0,included_game_day
+2027,228,Clemson Tigers,2026-11-06,12.7,included_game_day
+2027,228,Clemson Tigers,2026-11-09,21.1,included_game_day
+2027,228,Clemson Tigers,2026-11-13,11.694,included_game_day
+2027,228,Clemson Tigers,2026-11-16,41.4715,included_game_day
+2027,228,Clemson Tigers,2026-11-23,28.82593,included_game_day

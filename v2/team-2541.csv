@@ -1,0 +1,1161 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,2541,Santa Clara,1987-11-27,0.0,included_game_day
+1988,2541,Santa Clara,1987-12-01,4.836,included_game_day
+1988,2541,Santa Clara,1987-12-05,9.3524,included_game_day
+1988,2541,Santa Clara,1987-12-12,7.743099999999999,included_game_day
+1988,2541,Santa Clara,1987-12-14,6.483203499999999,included_game_day
+1988,2541,Santa Clara,1987-12-19,0.8766482639999991,included_game_day
+1988,2541,Santa Clara,1987-12-21,3.2393630600000014,included_game_day
+1988,2541,Santa Clara,1987-12-27,12.61513869542,included_game_day
+1988,2541,Santa Clara,1987-12-29,25.580560593005,included_game_day
+1988,2541,Santa Clara,1987-12-30,49.0418023090065,included_game_day
+1988,2541,Santa Clara,1988-01-02,49.99127913926825,included_game_day
+1988,2541,Santa Clara,1988-01-05,65.83639263738198,included_game_day
+1988,2541,Santa Clara,1988-01-15,72.05160699781916,included_game_day
+1988,2541,Santa Clara,1988-01-16,71.00253531870226,included_game_day
+1988,2541,Santa Clara,1988-01-21,65.24162243159621,included_game_day
+1988,2541,Santa Clara,1988-01-23,60.72571512401712,included_game_day
+1988,2541,Santa Clara,1988-01-27,58.363943552877785,included_game_day
+1988,2541,Santa Clara,1988-01-30,60.474526295966314,included_game_day
+1988,2541,Santa Clara,1988-02-05,64.18129809626866,included_game_day
+1988,2541,Santa Clara,1988-02-06,66.03757522825512,included_game_day
+1988,2541,Santa Clara,1988-02-12,55.5225969338443,included_game_day
+1988,2541,Santa Clara,1988-02-13,49.7080811360353,included_game_day
+1988,2541,Santa Clara,1988-02-19,55.78840853278403,included_game_day
+1988,2541,Santa Clara,1988-02-20,59.324366880414594,included_game_day
+1988,2541,Santa Clara,1988-02-25,53.017630087171895,included_game_day
+1988,2541,Santa Clara,1988-02-27,51.63734180600545,included_game_day
+1988,2541,Santa Clara,1988-03-05,43.8033375592607,included_game_day
+1988,2541,Santa Clara,1988-03-06,49.75684381826262,included_game_day
+1988,2541,Santa Clara,1988-03-07,45.39369730887979,included_game_day
+1988,2541,Santa Clara,1988-03-17,26.49927023339171,included_game_day
+1989,2541,Santa Clara,1988-11-28,12.0,included_game_day
+1989,2541,Santa Clara,1988-12-03,13.76035,included_game_day
+1989,2541,Santa Clara,1988-12-09,32.134285,included_game_day
+1989,2541,Santa Clara,1988-12-10,17.2768111665,included_game_day
+1989,2541,Santa Clara,1988-12-14,17.55793750885,included_game_day
+1989,2541,Santa Clara,1988-12-17,17.476512707965,included_game_day
+1989,2541,Santa Clara,1988-12-20,26.7277262383185,included_game_day
+1989,2541,Santa Clara,1988-12-22,32.452518096963146,included_game_day
+1989,2541,Santa Clara,1988-12-27,46.80746915996683,included_game_day
+1989,2541,Santa Clara,1988-12-29,58.09616875716715,included_game_day
+1989,2541,Santa Clara,1988-12-30,68.59127318372944,included_game_day
+1989,2541,Santa Clara,1989-01-07,70.48185121934124,included_game_day
+1989,2541,Santa Clara,1989-01-11,59.586499437052616,included_game_day
+1989,2541,Santa Clara,1989-01-12,52.62550045864438,included_game_day
+1989,2541,Santa Clara,1989-01-20,29.243516018368965,included_game_day
+1989,2541,Santa Clara,1989-01-21,23.450082816624658,included_game_day
+1989,2541,Santa Clara,1989-01-27,19.815336255229212,included_game_day
+1989,2541,Santa Clara,1989-01-28,14.18710060046623,included_game_day
+1989,2541,Santa Clara,1989-02-03,22.12981953272906,included_game_day
+1989,2541,Santa Clara,1989-02-04,12.081670214260743,included_game_day
+1989,2541,Santa Clara,1989-02-10,4.043150759486091,included_game_day
+1989,2541,Santa Clara,1989-02-11,-13.915862785080881,included_game_day
+1989,2541,Santa Clara,1989-02-15,21.283907006238664,included_game_day
+1989,2541,Santa Clara,1989-02-18,14.443722839294301,included_game_day
+1989,2541,Santa Clara,1989-02-24,8.582227995598846,included_game_day
+1989,2541,Santa Clara,1989-02-25,20.66125550811001,included_game_day
+1989,2541,Santa Clara,1989-03-04,25.583537641265618,included_game_day
+1989,2541,Santa Clara,1989-03-05,39.275349999161264,included_game_day
+1989,2541,Santa Clara,1989-03-06,38.457003418922646,included_game_day
+1989,2541,Santa Clara,1989-03-15,28.67638259596877,included_game_day
+1990,2541,Santa Clara,1989-11-25,-1.0,included_game_day
+1990,2541,Santa Clara,1989-11-28,-2.9799999999999995,included_game_day
+1990,2541,Santa Clara,1989-12-01,22.198,included_game_day
+1990,2541,Santa Clara,1989-12-09,20.49533,included_game_day
+1990,2541,Santa Clara,1989-12-11,8.211663999999999,included_game_day
+1990,2541,Santa Clara,1989-12-15,-7.558396810000001,included_game_day
+1990,2541,Santa Clara,1989-12-18,-20.426008549000002,included_game_day
+1990,2541,Santa Clara,1989-12-20,-21.850645214100002,included_game_day
+1990,2541,Santa Clara,1989-12-29,-6.390736205690002,included_game_day
+1990,2541,Santa Clara,1989-12-30,-14.956892898945721,included_game_day
+1990,2541,Santa Clara,1990-01-02,-25.72764157864434,included_game_day
+1990,2541,Santa Clara,1990-01-06,-48.24528620698315,included_game_day
+1990,2541,Santa Clara,1990-01-11,-52.31278358509378,included_game_day
+1990,2541,Santa Clara,1990-01-13,-46.83589909246938,included_game_day
+1990,2541,Santa Clara,1990-01-19,-41.32850507111051,included_game_day
+1990,2541,Santa Clara,1990-01-20,-42.0992596299292,included_game_day
+1990,2541,Santa Clara,1990-01-27,-61.02829367963867,included_game_day
+1990,2541,Santa Clara,1990-02-01,-62.2882443662575,included_game_day
+1990,2541,Santa Clara,1990-02-03,-53.66750016992178,included_game_day
+1990,2541,Santa Clara,1990-02-05,-61.16779746401752,included_game_day
+1990,2541,Santa Clara,1990-02-08,-85.52117237753937,included_game_day
+1990,2541,Santa Clara,1990-02-10,-80.21474949028334,included_game_day
+1990,2541,Santa Clara,1990-02-15,-54.3525288859872,included_game_day
+1990,2541,Santa Clara,1990-02-17,-65.28249881926017,included_game_day
+1990,2541,Santa Clara,1990-02-23,-66.39644049039623,included_game_day
+1990,2541,Santa Clara,1990-02-24,-80.49985625171747,included_game_day
+1990,2541,Santa Clara,1990-03-03,-80.06044293010346,included_game_day
+1991,2541,Santa Clara,1990-11-23,7.0,included_game_day
+1991,2541,Santa Clara,1990-11-24,4.5,included_game_day
+1991,2541,Santa Clara,1990-11-25,18.61,included_game_day
+1991,2541,Santa Clara,1990-11-29,26.149,included_game_day
+1991,2541,Santa Clara,1990-12-08,24.573700000000002,included_game_day
+1991,2541,Santa Clara,1990-12-11,14.039808243000003,included_game_day
+1991,2541,Santa Clara,1990-12-13,11.871986418700002,included_game_day
+1991,2541,Santa Clara,1990-12-15,-16.97611222317,included_game_day
+1991,2541,Santa Clara,1990-12-18,-8.880460112053,included_game_day
+1991,2541,Santa Clara,1990-12-20,-5.549059100847698,included_game_day
+1991,2541,Santa Clara,1990-12-22,-12.389446794232928,included_game_day
+1991,2541,Santa Clara,1990-12-28,4.3169766676073635,included_game_day
+1991,2541,Santa Clara,1990-12-29,13.019850955713489,included_game_day
+1991,2541,Santa Clara,1991-01-05,19.020808097046437,included_game_day
+1991,2541,Santa Clara,1991-01-11,28.755196081352608,included_game_day
+1991,2541,Santa Clara,1991-01-12,20.706645203670927,included_game_day
+1991,2541,Santa Clara,1991-01-17,40.52213363705086,included_game_day
+1991,2541,Santa Clara,1991-01-19,27.437292228742034,included_game_day
+1991,2541,Santa Clara,1991-01-24,17.447658552347452,included_game_day
+1991,2541,Santa Clara,1991-01-26,14.573717809258536,included_game_day
+1991,2541,Santa Clara,1991-01-31,32.2745652147874,included_game_day
+1991,2541,Santa Clara,1991-02-02,36.29342858980709,included_game_day
+1991,2541,Santa Clara,1991-02-09,31.226229301332715,included_game_day
+1991,2541,Santa Clara,1991-02-15,22.202129587474904,included_game_day
+1991,2541,Santa Clara,1991-02-16,29.189331654889695,included_game_day
+1991,2541,Santa Clara,1991-02-21,18.32812771984921,included_game_day
+1991,2541,Santa Clara,1991-02-23,7.631812335906687,included_game_day
+1991,2541,Santa Clara,1991-03-02,-3.3014343921072253,included_game_day
+1992,2541,Santa Clara,1991-11-22,-8.0,included_game_day
+1992,2541,Santa Clara,1991-11-29,-25.0,included_game_day
+1992,2541,Santa Clara,1991-12-01,-17.395,included_game_day
+1992,2541,Santa Clara,1991-12-07,-19.99665,included_game_day
+1992,2541,Santa Clara,1991-12-14,-32.596985,included_game_day
+1992,2541,Santa Clara,1991-12-21,-38.729597999999996,included_game_day
+1992,2541,Santa Clara,1991-12-27,-37.967002100212596,included_game_day
+1992,2541,Santa Clara,1991-12-28,-45.54157603349304,included_game_day
+1992,2541,Santa Clara,1991-12-30,-45.30928787659286,included_game_day
+1992,2541,Santa Clara,1992-01-02,-43.02424130868994,included_game_day
+1992,2541,Santa Clara,1992-01-05,-43.4141025883431,included_game_day
+1992,2541,Santa Clara,1992-01-11,-42.83529769585479,included_game_day
+1992,2541,Santa Clara,1992-01-17,-30.429610962728404,included_game_day
+1992,2541,Santa Clara,1992-01-18,-9.985703602185712,included_game_day
+1992,2541,Santa Clara,1992-01-23,12.371706074722287,included_game_day
+1992,2541,Santa Clara,1992-01-25,14.528100514675954,included_game_day
+1992,2541,Santa Clara,1992-02-01,30.064448619629964,included_game_day
+1992,2541,Santa Clara,1992-02-07,15.374784044629266,included_game_day
+1992,2541,Santa Clara,1992-02-08,25.831256645051162,included_game_day
+1992,2541,Santa Clara,1992-02-13,19.196434725388677,included_game_day
+1992,2541,Santa Clara,1992-02-15,19.67066633875484,included_game_day
+1992,2541,Santa Clara,1992-02-20,28.992672514888305,included_game_day
+1992,2541,Santa Clara,1992-02-22,34.12996076940699,included_game_day
+1992,2541,Santa Clara,1992-02-27,45.21926720614135,included_game_day
+1992,2541,Santa Clara,1992-02-29,24.307159415539516,included_game_day
+1992,2541,Santa Clara,1992-03-07,21.54113696827426,included_game_day
+1992,2541,Santa Clara,1992-03-08,18.880627482890727,included_game_day
+1993,2541,Santa Clara,1992-12-01,18.0,included_game_day
+1993,2541,Santa Clara,1992-12-05,10.9262,included_game_day
+1993,2541,Santa Clara,1992-12-11,-2.966420000000001,included_game_day
+1993,2541,Santa Clara,1992-12-12,2.886231999999999,included_game_day
+1993,2541,Santa Clara,1992-12-15,13.381068799999998,included_game_day
+1993,2541,Santa Clara,1992-12-20,6.639261919999997,included_game_day
+1993,2541,Santa Clara,1992-12-23,-13.816048293,included_game_day
+1993,2541,Santa Clara,1992-12-29,-11.4477879297,included_game_day
+1993,2541,Santa Clara,1992-12-30,-17.47796514415,included_game_day
+1993,2541,Santa Clara,1993-01-02,-44.32966703750202,included_game_day
+1993,2541,Santa Clara,1993-01-09,-49.412517972841435,included_game_day
+1993,2541,Santa Clara,1993-01-14,-36.577326218011876,included_game_day
+1993,2541,Santa Clara,1993-01-16,-34.44295476843978,included_game_day
+1993,2541,Santa Clara,1993-01-21,-28.942487279362254,included_game_day
+1993,2541,Santa Clara,1993-01-23,-26.733142881590815,included_game_day
+1993,2541,Santa Clara,1993-01-30,-26.535562560484596,included_game_day
+1993,2541,Santa Clara,1993-02-04,-26.574403164266336,included_game_day
+1993,2541,Santa Clara,1993-02-06,-10.281391705472466,included_game_day
+1993,2541,Santa Clara,1993-02-12,-5.246982538437372,included_game_day
+1993,2541,Santa Clara,1993-02-13,5.766567922836892,included_game_day
+1993,2541,Santa Clara,1993-02-18,-1.3820833603026195,included_game_day
+1993,2541,Santa Clara,1993-02-20,2.974201192773913,included_game_day
+1993,2541,Santa Clara,1993-02-26,0.18860908466834658,included_game_day
+1993,2541,Santa Clara,1993-02-27,2.1418961237015397,included_game_day
+1993,2541,Santa Clara,1993-03-06,7.796287678870196,included_game_day
+1993,2541,Santa Clara,1993-03-07,14.64817816830397,included_game_day
+1993,2541,Santa Clara,1993-03-08,28.375154473398943,included_game_day
+1993,2541,Santa Clara,1993-03-18,44.436480344145316,included_game_day
+1993,2541,Santa Clara,1993-03-20,41.61864506155434,included_game_day
+1994,2541,Santa Clara,1993-11-17,-7.0,included_game_day
+1994,2541,Santa Clara,1993-12-01,-0.8300000000000001,included_game_day
+1994,2541,Santa Clara,1993-12-04,16.204,included_game_day
+1994,2541,Santa Clara,1993-12-11,3.0136000000000003,included_game_day
+1994,2541,Santa Clara,1993-12-14,11.804514000000001,included_game_day
+1994,2541,Santa Clara,1993-12-18,-10.71990981,included_game_day
+1994,2541,Santa Clara,1993-12-20,2.9192072262999993,included_game_day
+1994,2541,Santa Clara,1993-12-22,-4.166945011603,included_game_day
+1994,2541,Santa Clara,1993-12-29,7.310388086557301,included_game_day
+1994,2541,Santa Clara,1993-12-30,8.37390643308764,included_game_day
+1994,2541,Santa Clara,1994-01-14,17.77059750610217,included_game_day
+1994,2541,Santa Clara,1994-01-15,27.073903982493743,included_game_day
+1994,2541,Santa Clara,1994-01-21,23.792810091543142,included_game_day
+1994,2541,Santa Clara,1994-01-22,41.46007662664483,included_game_day
+1994,2541,Santa Clara,1994-01-27,33.59388985472618,included_game_day
+1994,2541,Santa Clara,1994-01-29,23.851486135768244,included_game_day
+1994,2541,Santa Clara,1994-02-04,22.03201741815672,included_game_day
+1994,2541,Santa Clara,1994-02-05,20.117285988283683,included_game_day
+1994,2541,Santa Clara,1994-02-10,37.58550084438525,included_game_day
+1994,2541,Santa Clara,1994-02-12,36.09332366468826,included_game_day
+1994,2541,Santa Clara,1994-02-16,19.057026747867063,included_game_day
+1994,2541,Santa Clara,1994-02-20,12.427989214410104,included_game_day
+1994,2541,Santa Clara,1994-02-25,39.94873928196208,included_game_day
+1994,2541,Santa Clara,1994-02-26,27.365661968434708,included_game_day
+1994,2541,Santa Clara,1994-03-05,20.15769916550208,included_game_day
+1995,2541,Santa Clara,1994-11-29,6.2,included_game_day
+1995,2541,Santa Clara,1994-12-02,19.98,included_game_day
+1995,2541,Santa Clara,1994-12-03,46.822,included_game_day
+1995,2541,Santa Clara,1994-12-10,36.26675,included_game_day
+1995,2541,Santa Clara,1994-12-13,38.966015,included_game_day
+1995,2541,Santa Clara,1994-12-16,49.7502635,included_game_day
+1995,2541,Santa Clara,1994-12-17,67.36917439654,included_game_day
+1995,2541,Santa Clara,1994-12-20,62.49400540628601,included_game_day
+1995,2541,Santa Clara,1994-12-22,66.45885176565741,included_game_day
+1995,2541,Santa Clara,1994-12-30,43.58652447772067,included_game_day
+1995,2541,Santa Clara,1995-01-07,39.247526789802876,included_game_day
+1995,2541,Santa Clara,1995-01-13,46.048975920047305,included_game_day
+1995,2541,Santa Clara,1995-01-14,51.30010608952871,included_game_day
+1995,2541,Santa Clara,1995-01-19,58.23781265066003,included_game_day
+1995,2541,Santa Clara,1995-01-21,35.79280485393531,included_game_day
+1995,2541,Santa Clara,1995-01-27,61.83679861655553,included_game_day
+1995,2541,Santa Clara,1995-01-28,62.999818699912744,included_game_day
+1995,2541,Santa Clara,1995-02-02,84.82053784599874,included_game_day
+1995,2541,Santa Clara,1995-02-04,92.77174197833702,included_game_day
+1995,2541,Santa Clara,1995-02-07,99.5973098029142,included_game_day
+1995,2541,Santa Clara,1995-02-10,102.2757163263271,included_game_day
+1995,2541,Santa Clara,1995-02-12,97.55841180857126,included_game_day
+1995,2541,Santa Clara,1995-02-18,111.50356845771077,included_game_day
+1995,2541,Santa Clara,1995-02-24,105.39688728967309,included_game_day
+1995,2541,Santa Clara,1995-02-25,80.31800642373281,included_game_day
+1995,2541,Santa Clara,1995-03-04,62.36303369848396,included_game_day
+1995,2541,Santa Clara,1995-03-17,59.71273447524737,included_game_day
+1996,2541,Santa Clara,1995-11-20,9.0,included_game_day
+1996,2541,Santa Clara,1995-11-21,-3.0999999999999996,included_game_day
+1996,2541,Santa Clara,1995-11-22,1.0899999999999999,included_game_day
+1996,2541,Santa Clara,1995-11-25,5.981,included_game_day
+1996,2541,Santa Clara,1995-12-01,36.4389,included_game_day
+1996,2541,Santa Clara,1995-12-09,66.96241,included_game_day
+1996,2541,Santa Clara,1995-12-12,67.44204470000001,included_game_day
+1996,2541,Santa Clara,1995-12-16,40.31632633000001,included_game_day
+1996,2541,Santa Clara,1995-12-18,42.36090369700001,included_game_day
+1996,2541,Santa Clara,1995-12-22,41.87283175560001,included_game_day
+1996,2541,Santa Clara,1995-12-29,27.09446357439401,included_game_day
+1996,2541,Santa Clara,1995-12-30,28.10539904138651,included_game_day
+1996,2541,Santa Clara,1996-01-12,38.39909726384489,included_game_day
+1996,2541,Santa Clara,1996-01-13,56.73853254054654,included_game_day
+1996,2541,Santa Clara,1996-01-19,44.71810960178652,included_game_day
+1996,2541,Santa Clara,1996-01-20,49.92481692383126,included_game_day
+1996,2541,Santa Clara,1996-01-26,34.09018278146705,included_game_day
+1996,2541,Santa Clara,1996-01-27,46.49278446238679,included_game_day
+1996,2541,Santa Clara,1996-02-01,57.91791379350424,included_game_day
+1996,2541,Santa Clara,1996-02-03,39.98122211662849,included_game_day
+1996,2541,Santa Clara,1996-02-09,50.631868775127884,included_game_day
+1996,2541,Santa Clara,1996-02-10,66.44004658243392,included_game_day
+1996,2541,Santa Clara,1996-02-14,74.74494405079695,included_game_day
+1996,2541,Santa Clara,1996-02-18,64.38886202548736,included_game_day
+1996,2541,Santa Clara,1996-02-22,51.504493441459765,included_game_day
+1996,2541,Santa Clara,1996-02-24,61.22678555971138,included_game_day
+1996,2541,Santa Clara,1996-03-02,41.12441535232075,included_game_day
+1996,2541,Santa Clara,1996-03-15,60.226650216998465,included_game_day
+1996,2541,Santa Clara,1996-03-17,47.308562951654565,included_game_day
+1997,2541,Santa Clara,1996-11-22,-15.0,included_game_day
+1997,2541,Santa Clara,1996-11-26,-18.4,included_game_day
+1997,2541,Santa Clara,1996-11-29,-10.159999999999998,included_game_day
+1997,2541,Santa Clara,1996-12-01,-18.476,included_game_day
+1997,2541,Santa Clara,1996-12-06,-10.356399999999999,included_game_day
+1997,2541,Santa Clara,1996-12-07,3.1529300000000013,included_game_day
+1997,2541,Santa Clara,1996-12-13,9.582537000000002,included_game_day
+1997,2541,Santa Clara,1996-12-14,4.8452581322000015,included_game_day
+1997,2541,Santa Clara,1996-12-17,7.353273798980002,included_game_day
+1997,2541,Santa Clara,1996-12-21,-5.673491380917998,included_game_day
+1997,2541,Santa Clara,1996-12-27,-12.723164799248199,included_game_day
+1997,2541,Santa Clara,1996-12-28,12.72342026049262,included_game_day
+1997,2541,Santa Clara,1997-01-09,7.068959929481479,included_game_day
+1997,2541,Santa Clara,1997-01-11,19.569290971445543,included_game_day
+1997,2541,Santa Clara,1997-01-15,19.501192287228573,included_game_day
+1997,2541,Santa Clara,1997-01-18,15.446713339854995,included_game_day
+1997,2541,Santa Clara,1997-01-24,25.474062046518902,included_game_day
+1997,2541,Santa Clara,1997-01-25,39.27457653731449,included_game_day
+1997,2541,Santa Clara,1997-01-30,52.31498812995096,included_game_day
+1997,2541,Santa Clara,1997-02-01,41.58543567842475,included_game_day
+1997,2541,Santa Clara,1997-02-07,48.922437343004745,included_game_day
+1997,2541,Santa Clara,1997-02-09,47.7148113646256,included_game_day
+1997,2541,Santa Clara,1997-02-14,34.74871058192228,included_game_day
+1997,2541,Santa Clara,1997-02-15,34.9086688884253,included_game_day
+1997,2541,Santa Clara,1997-02-21,34.74349359791776,included_game_day
+1997,2541,Santa Clara,1997-02-22,45.380438185316905,included_game_day
+1997,2541,Santa Clara,1997-03-01,30.42725913646047,included_game_day
+1998,2541,Santa Clara,1997-11-14,-23.0,included_game_day
+1998,2541,Santa Clara,1997-11-25,-18.6851,included_game_day
+1998,2541,Santa Clara,1997-11-29,-3.9835899999999995,included_game_day
+1998,2541,Santa Clara,1997-12-02,1.1655890000000007,included_game_day
+1998,2541,Santa Clara,1997-12-06,15.7825301,included_game_day
+1998,2541,Santa Clara,1997-12-13,29.73656409,included_game_day
+1998,2541,Santa Clara,1997-12-17,41.879360911022005,included_game_day
+1998,2541,Santa Clara,1997-12-19,59.9319870028198,included_game_day
+1998,2541,Santa Clara,1997-12-20,52.50803899931413,included_game_day
+1998,2541,Santa Clara,1997-12-29,57.47379174053272,included_game_day
+1998,2541,Santa Clara,1997-12-30,54.60784016938276,included_game_day
+1998,2541,Santa Clara,1998-01-08,51.3600828399359,included_game_day
+1998,2541,Santa Clara,1998-01-10,52.15629569475573,included_game_day
+1998,2541,Santa Clara,1998-01-16,53.35421198379045,included_game_day
+1998,2541,Santa Clara,1998-01-17,65.66430147839989,included_game_day
+1998,2541,Santa Clara,1998-01-22,71.39156393151721,included_game_day
+1998,2541,Santa Clara,1998-01-24,55.973373894011075,included_game_day
+1998,2541,Santa Clara,1998-01-29,41.562335459774275,included_game_day
+1998,2541,Santa Clara,1998-01-31,43.59976491625876,included_game_day
+1998,2541,Santa Clara,1998-02-06,47.22970848144636,included_game_day
+1998,2541,Santa Clara,1998-02-07,67.26712684569651,included_game_day
+1998,2541,Santa Clara,1998-02-13,69.77713731386685,included_game_day
+1998,2541,Santa Clara,1998-02-14,53.93961947064158,included_game_day
+1998,2541,Santa Clara,1998-02-20,33.80169531511102,included_game_day
+1998,2541,Santa Clara,1998-02-21,23.411191862405822,included_game_day
+1998,2541,Santa Clara,1998-02-28,35.77142546375879,included_game_day
+1998,2541,Santa Clara,1998-03-01,36.46819256706606,included_game_day
+1999,2541,Santa Clara,1998-11-14,-2.0,included_game_day
+1999,2541,Santa Clara,1998-11-19,-11.8,included_game_day
+1999,2541,Santa Clara,1998-11-22,15.48,included_game_day
+1999,2541,Santa Clara,1998-12-01,15.67999,included_game_day
+1999,2541,Santa Clara,1998-12-04,-1.5306154999999997,included_game_day
+1999,2541,Santa Clara,1998-12-05,-11.060950609999999,included_game_day
+1999,2541,Santa Clara,1998-12-14,-23.3290515958,included_game_day
+1999,2541,Santa Clara,1998-12-17,-16.32618140222,included_game_day
+1999,2541,Santa Clara,1998-12-21,-2.7724841951780004,included_game_day
+1999,2541,Santa Clara,1998-12-22,-32.90742852403,included_game_day
+1999,2541,Santa Clara,1998-12-29,-36.38163147758507,included_game_day
+1999,2541,Santa Clara,1998-12-30,-53.65348430830802,included_game_day
+1999,2541,Santa Clara,1999-01-08,-43.06225771060268,included_game_day
+1999,2541,Santa Clara,1999-01-09,-23.803591569870846,included_game_day
+1999,2541,Santa Clara,1999-01-15,-27.305810630877183,included_game_day
+1999,2541,Santa Clara,1999-01-16,-41.606020601815906,included_game_day
+1999,2541,Santa Clara,1999-01-22,-43.54589870134227,included_game_day
+1999,2541,Santa Clara,1999-01-23,-31.293700999754893,included_game_day
+1999,2541,Santa Clara,1999-01-28,-31.491942838484995,included_game_day
+1999,2541,Santa Clara,1999-01-30,-27.735926638328667,included_game_day
+1999,2541,Santa Clara,1999-02-03,-33.10436737389996,included_game_day
+1999,2541,Santa Clara,1999-02-06,-27.399119962357,included_game_day
+1999,2541,Santa Clara,1999-02-12,-23.523666581787843,included_game_day
+1999,2541,Santa Clara,1999-02-14,-9.309168773703378,included_game_day
+1999,2541,Santa Clara,1999-02-18,-23.102752293802027,included_game_day
+1999,2541,Santa Clara,1999-02-20,-26.675807099293777,included_game_day
+1999,2541,Santa Clara,1999-02-27,-19.088589830942936,included_game_day
+1999,2541,Santa Clara,1999-02-28,-17.155769549939613,included_game_day
+1999,2541,Santa Clara,1999-03-01,-32.08721044590287,included_game_day
+2000,2541,Santa Clara,1999-11-20,5.0,included_game_day
+2000,2541,Santa Clara,1999-11-26,10.7,included_game_day
+2000,2541,Santa Clara,1999-11-27,-5.73,included_game_day
+2000,2541,Santa Clara,1999-11-28,-23.1965,included_game_day
+2000,2541,Santa Clara,1999-12-01,-10.68126,included_game_day
+2000,2541,Santa Clara,1999-12-04,-4.678364,included_game_day
+2000,2541,Santa Clara,1999-12-14,-27.840263155690003,included_game_day
+2000,2541,Santa Clara,1999-12-18,-36.112569300721006,included_game_day
+2000,2541,Santa Clara,1999-12-21,-46.952799237698095,included_game_day
+2000,2541,Santa Clara,1999-12-27,-54.88085202472129,included_game_day
+2000,2541,Santa Clara,1999-12-29,-41.421356409551365,included_game_day
+2000,2541,Santa Clara,1999-12-30,-30.613438154651526,included_game_day
+2000,2541,Santa Clara,2000-01-06,2.5353424775309463,included_game_day
+2000,2541,Santa Clara,2000-01-08,2.8830299708012657,included_game_day
+2000,2541,Santa Clara,2000-01-13,15.406993518677712,included_game_day
+2000,2541,Santa Clara,2000-01-15,-1.4019963583060715,included_game_day
+2000,2541,Santa Clara,2000-01-21,-5.729215869813414,included_game_day
+2000,2541,Santa Clara,2000-01-22,-19.73042975967089,included_game_day
+2000,2541,Santa Clara,2000-01-28,-13.931400871556873,included_game_day
+2000,2541,Santa Clara,2000-01-29,-7.137270753889686,included_game_day
+2000,2541,Santa Clara,2000-02-04,6.4243941296684195,included_game_day
+2000,2541,Santa Clara,2000-02-05,9.735506133143318,included_game_day
+2000,2541,Santa Clara,2000-02-10,23.384395735923235,included_game_day
+2000,2541,Santa Clara,2000-02-12,25.68503142574344,included_game_day
+2000,2541,Santa Clara,2000-02-16,32.58882376533945,included_game_day
+2000,2541,Santa Clara,2000-02-18,26.111857637016257,included_game_day
+2000,2541,Santa Clara,2000-02-25,43.79859655388484,included_game_day
+2000,2541,Santa Clara,2000-02-27,34.22772539688613,included_game_day
+2000,2541,Santa Clara,2000-03-04,46.78246707475929,included_game_day
+2000,2541,Santa Clara,2000-03-05,46.690818680165734,included_game_day
+2001,2541,Santa Clara,2000-11-17,-9.0,included_game_day
+2001,2541,Santa Clara,2000-11-18,8.3,included_game_day
+2001,2541,Santa Clara,2000-11-22,-11.529999999999998,included_game_day
+2001,2541,Santa Clara,2000-11-29,8.754000000000001,included_game_day
+2001,2541,Santa Clara,2000-12-01,3.630600000000001,included_game_day
+2001,2541,Santa Clara,2000-12-02,2.970313000000001,included_game_day
+2001,2541,Santa Clara,2000-12-13,-9.50074321,included_game_day
+2001,2541,Santa Clara,2000-12-18,-45.555364057706,included_game_day
+2001,2541,Santa Clara,2000-12-20,-58.1871510177154,included_game_day
+2001,2541,Santa Clara,2000-12-23,-47.85725739959696,included_game_day
+2001,2541,Santa Clara,2000-12-29,-38.706330213271464,included_game_day
+2001,2541,Santa Clara,2000-12-30,-40.39705099346719,included_game_day
+2001,2541,Santa Clara,2001-01-02,-35.600343490627836,included_game_day
+2001,2541,Santa Clara,2001-01-05,-34.22264551524929,included_game_day
+2001,2541,Santa Clara,2001-01-12,-44.63694067032729,included_game_day
+2001,2541,Santa Clara,2001-01-13,-31.8334068685367,included_game_day
+2001,2541,Santa Clara,2001-01-18,-26.302589882247197,included_game_day
+2001,2541,Santa Clara,2001-01-20,-26.441141515421904,included_game_day
+2001,2541,Santa Clara,2001-01-25,-15.515050270916117,included_game_day
+2001,2541,Santa Clara,2001-01-27,-10.632797775412559,included_game_day
+2001,2541,Santa Clara,2001-01-31,-1.278445220905013,included_game_day
+2001,2541,Santa Clara,2001-02-03,-4.794963177298977,included_game_day
+2001,2541,Santa Clara,2001-02-08,-4.634264938844431,included_game_day
+2001,2541,Santa Clara,2001-02-10,-12.566656166407338,included_game_day
+2001,2541,Santa Clara,2001-02-16,-0.004660144893575691,included_game_day
+2001,2541,Santa Clara,2001-02-17,1.0280934611115686,included_game_day
+2001,2541,Santa Clara,2001-02-22,23.616734241709914,included_game_day
+2001,2541,Santa Clara,2001-02-24,22.840967339189035,included_game_day
+2001,2541,Santa Clara,2001-03-03,28.49510495455382,included_game_day
+2001,2541,Santa Clara,2001-03-04,40.014383963154685,included_game_day
+2001,2541,Santa Clara,2001-03-05,44.68886257172753,included_game_day
+2002,2541,Santa Clara Broncos,2001-11-17,-5.0,included_game_day
+2002,2541,Santa Clara Broncos,2001-11-20,-5.05,included_game_day
+2002,2541,Santa Clara Broncos,2001-11-24,-20.475,included_game_day
+2002,2541,Santa Clara Broncos,2001-11-27,-19.5275,included_game_day
+2002,2541,Santa Clara Broncos,2001-12-01,-37.970690000000005,included_game_day
+2002,2541,Santa Clara Broncos,2001-12-12,-70.74321560000001,included_game_day
+2002,2541,Santa Clara Broncos,2001-12-15,-71.32410898761002,included_game_day
+2002,2541,Santa Clara Broncos,2001-12-18,-85.78900927211902,included_game_day
+2002,2541,Santa Clara Broncos,2001-12-28,-80.49265471452686,included_game_day
+2002,2541,Santa Clara Broncos,2001-12-29,-67.35148329263636,included_game_day
+2002,2541,Santa Clara Broncos,2002-01-04,-52.383240082483,included_game_day
+2002,2541,Santa Clara Broncos,2002-01-11,-34.48949159535834,included_game_day
+2002,2541,Santa Clara Broncos,2002-01-13,-20.456008225628715,included_game_day
+2002,2541,Santa Clara Broncos,2002-01-16,-28.222607682606984,included_game_day
+2002,2541,Santa Clara Broncos,2002-01-19,-10.435887248189601,included_game_day
+2002,2541,Santa Clara Broncos,2002-01-24,-14.561715696789703,included_game_day
+2002,2541,Santa Clara Broncos,2002-01-26,-11.204896851385659,included_game_day
+2002,2541,Santa Clara Broncos,2002-02-01,-10.944255429454243,included_game_day
+2002,2541,Santa Clara Broncos,2002-02-02,-24.04485650521195,included_game_day
+2002,2541,Santa Clara Broncos,2002-02-07,-27.152004602771825,included_game_day
+2002,2541,Santa Clara Broncos,2002-02-09,-19.26389005363553,included_game_day
+2002,2541,Santa Clara Broncos,2002-02-14,-7.634688096135804,included_game_day
+2002,2541,Santa Clara Broncos,2002-02-16,-6.335205295634734,included_game_day
+2002,2541,Santa Clara Broncos,2002-02-22,-3.602853931422927,included_game_day
+2002,2541,Santa Clara Broncos,2002-02-23,-32.295568952794326,included_game_day
+2002,2541,Santa Clara Broncos,2002-03-02,-41.21807587393692,included_game_day
+2003,2541,Santa Clara Broncos,2002-11-22,9.0,included_game_day
+2003,2541,Santa Clara Broncos,2002-11-27,8.7,included_game_day
+2003,2541,Santa Clara Broncos,2002-11-30,2.329999999999999,included_game_day
+2003,2541,Santa Clara Broncos,2002-12-04,-9.229955,included_game_day
+2003,2541,Santa Clara Broncos,2002-12-07,-29.5272865,included_game_day
+2003,2541,Santa Clara Broncos,2002-12-14,-23.139502959999998,included_game_day
+2003,2541,Santa Clara Broncos,2002-12-20,-16.775462624409997,included_game_day
+2003,2541,Santa Clara Broncos,2002-12-22,11.018067545031002,included_game_day
+2003,2541,Santa Clara Broncos,2002-12-27,9.391371720769902,included_game_day
+2003,2541,Santa Clara Broncos,2002-12-28,14.348959147741912,included_game_day
+2003,2541,Santa Clara Broncos,2002-12-30,13.50303910787272,included_game_day
+2003,2541,Santa Clara Broncos,2003-01-04,-4.750932928922612,included_game_day
+2003,2541,Santa Clara Broncos,2003-01-11,-0.7275335455974918,included_game_day
+2003,2541,Santa Clara Broncos,2003-01-17,0.5589581239851205,included_game_day
+2003,2541,Santa Clara Broncos,2003-01-18,-6.425351173337287,included_game_day
+2003,2541,Santa Clara Broncos,2003-01-22,-11.817312566815271,included_game_day
+2003,2541,Santa Clara Broncos,2003-01-25,-8.08192662414023,included_game_day
+2003,2541,Santa Clara Broncos,2003-01-30,-33.15077384295836,included_game_day
+2003,2541,Santa Clara Broncos,2003-02-01,-51.24361523461383,included_game_day
+2003,2541,Santa Clara Broncos,2003-02-08,-59.888050368034584,included_game_day
+2003,2541,Santa Clara Broncos,2003-02-13,-70.30636037610232,included_game_day
+2003,2541,Santa Clara Broncos,2003-02-16,-52.90271376376528,included_game_day
+2003,2541,Santa Clara Broncos,2003-02-21,-53.84225938617084,included_game_day
+2003,2541,Santa Clara Broncos,2003-02-23,-45.185554031445434,included_game_day
+2003,2541,Santa Clara Broncos,2003-02-27,-39.49191395007534,included_game_day
+2003,2541,Santa Clara Broncos,2003-03-01,-55.683746301991775,included_game_day
+2003,2541,Santa Clara Broncos,2003-03-07,-62.080780841388034,included_game_day
+2004,2541,Santa Clara Broncos,2003-11-24,-10.9,included_game_day
+2004,2541,Santa Clara Broncos,2003-11-25,-12.010000000000002,included_game_day
+2004,2541,Santa Clara Broncos,2003-11-26,-1.7041400000000024,included_game_day
+2004,2541,Santa Clara Broncos,2003-11-29,-0.5337260000000024,included_game_day
+2004,2541,Santa Clara Broncos,2003-12-03,3.192646599999998,included_game_day
+2004,2541,Santa Clara Broncos,2003-12-06,22.209378440000002,included_game_day
+2004,2541,Santa Clara Broncos,2003-12-13,25.830920575,included_game_day
+2004,2541,Santa Clara Broncos,2003-12-15,12.124803805300001,included_game_day
+2004,2541,Santa Clara Broncos,2003-12-17,-6.248192524229999,included_game_day
+2004,2541,Santa Clara Broncos,2003-12-20,-7.108742770746998,included_game_day
+2004,2541,Santa Clara Broncos,2003-12-22,-8.889282228345298,included_game_day
+2004,2541,Santa Clara Broncos,2003-12-29,-5.609383205390769,included_game_day
+2004,2541,Santa Clara Broncos,2003-12-30,-2.6852666161169108,included_game_day
+2004,2541,Santa Clara Broncos,2004-01-03,-20.07265074471752,included_game_day
+2004,2541,Santa Clara Broncos,2004-01-09,-12.521606239443926,included_game_day
+2004,2541,Santa Clara Broncos,2004-01-15,-8.43066791431528,included_game_day
+2004,2541,Santa Clara Broncos,2004-01-17,4.9274675176927865,included_game_day
+2004,2541,Santa Clara Broncos,2004-01-22,-19.27342913572172,included_game_day
+2004,2541,Santa Clara Broncos,2004-01-24,-36.33598283904372,included_game_day
+2004,2541,Santa Clara Broncos,2004-01-29,-27.3952407398534,included_game_day
+2004,2541,Santa Clara Broncos,2004-01-31,-29.457295111863022,included_game_day
+2004,2541,Santa Clara Broncos,2004-02-05,-33.939997401590965,included_game_day
+2004,2541,Santa Clara Broncos,2004-02-07,-39.52615923337332,included_game_day
+2004,2541,Santa Clara Broncos,2004-02-12,-55.758201932864644,included_game_day
+2004,2541,Santa Clara Broncos,2004-02-14,-49.92311882475087,included_game_day
+2004,2541,Santa Clara Broncos,2004-02-21,-70.86395805461508,included_game_day
+2004,2541,Santa Clara Broncos,2004-02-26,-62.174854855357104,included_game_day
+2004,2541,Santa Clara Broncos,2004-02-28,-53.37453762439388,included_game_day
+2004,2541,Santa Clara Broncos,2004-03-05,-26.104491578299747,included_game_day
+2004,2541,Santa Clara Broncos,2004-03-06,-17.217074686938744,included_game_day
+2004,2541,Santa Clara Broncos,2004-03-08,1.2074328040863165,included_game_day
+2005,2541,Santa Clara Broncos,2004-11-12,6.0,included_game_day
+2005,2541,Santa Clara Broncos,2004-11-13,-24.3,included_game_day
+2005,2541,Santa Clara Broncos,2004-11-14,10.900000000000002,included_game_day
+2005,2541,Santa Clara Broncos,2004-11-19,17.810000000000002,included_game_day
+2005,2541,Santa Clara Broncos,2004-11-23,15.129000000000001,included_game_day
+2005,2541,Santa Clara Broncos,2004-11-28,18.774181,included_game_day
+2005,2541,Santa Clara Broncos,2004-12-01,25.123362899999997,included_game_day
+2005,2541,Santa Clara Broncos,2004-12-04,26.215361809999997,included_game_day
+2005,2541,Santa Clara Broncos,2004-12-12,10.853652109999997,included_game_day
+2005,2541,Santa Clara Broncos,2004-12-14,-6.709349901000005,included_game_day
+2005,2541,Santa Clara Broncos,2004-12-22,-0.4876805621777134,included_game_day
+2005,2541,Santa Clara Broncos,2004-12-28,-17.561327331718346,included_game_day
+2005,2541,Santa Clara Broncos,2004-12-29,-27.22245718266445,included_game_day
+2005,2541,Santa Clara Broncos,2004-12-31,-34.15153399722061,included_game_day
+2005,2541,Santa Clara Broncos,2005-01-06,-30.3026425908405,included_game_day
+2005,2541,Santa Clara Broncos,2005-01-08,-13.967962942611216,included_game_day
+2005,2541,Santa Clara Broncos,2005-01-15,21.50478952894391,included_game_day
+2005,2541,Santa Clara Broncos,2005-01-20,31.187308405252843,included_game_day
+2005,2541,Santa Clara Broncos,2005-01-22,43.4873123503983,included_game_day
+2005,2541,Santa Clara Broncos,2005-01-27,36.59659898554297,included_game_day
+2005,2541,Santa Clara Broncos,2005-01-29,45.083395543769626,included_game_day
+2005,2541,Santa Clara Broncos,2005-02-03,30.94441759971301,included_game_day
+2005,2541,Santa Clara Broncos,2005-02-05,22.789408700423593,included_game_day
+2005,2541,Santa Clara Broncos,2005-02-11,25.99104811277257,included_game_day
+2005,2541,Santa Clara Broncos,2005-02-17,17.014798644443843,included_game_day
+2005,2541,Santa Clara Broncos,2005-02-19,19.78554754521403,included_game_day
+2005,2541,Santa Clara Broncos,2005-02-24,10.314861125310623,included_game_day
+2005,2541,Santa Clara Broncos,2005-02-26,10.525181008523134,included_game_day
+2005,2541,Santa Clara Broncos,2005-03-05,14.595352488477264,included_game_day
+2005,2541,Santa Clara Broncos,2005-03-07,16.987574719604527,included_game_day
+2006,2541,Santa Clara Broncos,2005-11-22,-0.2290000000000001,included_game_day
+2006,2541,Santa Clara Broncos,2005-11-26,1.7308999999999997,included_game_day
+2006,2541,Santa Clara Broncos,2005-11-29,8.31021,included_game_day
+2006,2541,Santa Clara Broncos,2005-12-03,-1.6822882000000003,included_game_day
+2006,2541,Santa Clara Broncos,2005-12-10,5.407882959999999,included_game_day
+2006,2541,Santa Clara Broncos,2005-12-13,2.174432722702,included_game_day
+2006,2541,Santa Clara Broncos,2005-12-17,-6.1390058849282,included_game_day
+2006,2541,Santa Clara Broncos,2005-12-22,-14.477348897063141,included_game_day
+2006,2541,Santa Clara Broncos,2005-12-28,-24.230673048315467,included_game_day
+2006,2541,Santa Clara Broncos,2005-12-29,-8.24011094213405,included_game_day
+2006,2541,Santa Clara Broncos,2006-01-07,-3.335209119891265,included_game_day
+2006,2541,Santa Clara Broncos,2006-01-10,-12.454668097852604,included_game_day
+2006,2541,Santa Clara Broncos,2006-01-16,-8.233445915585298,included_game_day
+2006,2541,Santa Clara Broncos,2006-01-21,-15.224314087682341,included_game_day
+2006,2541,Santa Clara Broncos,2006-01-23,-37.113455835688484,included_game_day
+2006,2541,Santa Clara Broncos,2006-01-28,-46.43480860984722,included_game_day
+2006,2541,Santa Clara Broncos,2006-01-30,-53.899778256563906,included_game_day
+2006,2541,Santa Clara Broncos,2006-02-04,-50.404800303889125,included_game_day
+2006,2541,Santa Clara Broncos,2006-02-06,-24.170656206506877,included_game_day
+2006,2541,Santa Clara Broncos,2006-02-11,-17.7024825721522,included_game_day
+2006,2541,Santa Clara Broncos,2006-02-13,-22.527943664668456,included_game_day
+2006,2541,Santa Clara Broncos,2006-02-19,-25.219359338014016,included_game_day
+2006,2541,Santa Clara Broncos,2006-02-20,-15.592235018196696,included_game_day
+2006,2541,Santa Clara Broncos,2006-02-25,-5.64534513332304,included_game_day
+2006,2541,Santa Clara Broncos,2006-02-27,-6.614516631895045,included_game_day
+2006,2541,Santa Clara Broncos,2006-03-03,-7.826372413720508,included_game_day
+2006,2541,Santa Clara Broncos,2006-03-04,-4.093030611472228,included_game_day
+2007,2541,Santa Clara Broncos,2006-11-18,7.4,included_game_day
+2007,2541,Santa Clara Broncos,2006-11-20,-14.3851,included_game_day
+2007,2541,Santa Clara Broncos,2006-11-25,-18.94636,included_game_day
+2007,2541,Santa Clara Broncos,2006-11-27,-6.304023999999998,included_game_day
+2007,2541,Santa Clara Broncos,2006-11-29,3.5262103100000015,included_game_day
+2007,2541,Santa Clara Broncos,2006-12-01,19.802841969,included_game_day
+2007,2541,Santa Clara Broncos,2006-12-02,-0.4104536179,included_game_day
+2007,2541,Santa Clara Broncos,2006-12-09,19.47159693578,included_game_day
+2007,2541,Santa Clara Broncos,2006-12-11,38.814184307771,included_game_day
+2007,2541,Santa Clara Broncos,2006-12-16,58.2783039289939,included_game_day
+2007,2541,Santa Clara Broncos,2006-12-19,46.32796090527792,included_game_day
+2007,2541,Santa Clara Broncos,2006-12-23,45.177696756451176,included_game_day
+2007,2541,Santa Clara Broncos,2006-12-28,47.72207124450763,included_game_day
+2007,2541,Santa Clara Broncos,2006-12-29,23.058372162832608,included_game_day
+2007,2541,Santa Clara Broncos,2007-01-06,26.053413556606955,included_game_day
+2007,2541,Santa Clara Broncos,2007-01-13,20.190070594119362,included_game_day
+2007,2541,Santa Clara Broncos,2007-01-15,24.030207221262543,included_game_day
+2007,2541,Santa Clara Broncos,2007-01-20,40.9371691870468,included_game_day
+2007,2541,Santa Clara Broncos,2007-01-22,40.32572830902804,included_game_day
+2007,2541,Santa Clara Broncos,2007-01-27,20.35888185628912,included_game_day
+2007,2541,Santa Clara Broncos,2007-01-29,35.16530895041519,included_game_day
+2007,2541,Santa Clara Broncos,2007-02-03,43.33607790530516,included_game_day
+2007,2541,Santa Clara Broncos,2007-02-05,46.7493968575633,included_game_day
+2007,2541,Santa Clara Broncos,2007-02-10,61.13520778914888,included_game_day
+2007,2541,Santa Clara Broncos,2007-02-13,77.11164028744753,included_game_day
+2007,2541,Santa Clara Broncos,2007-02-17,72.98212502082411,included_game_day
+2007,2541,Santa Clara Broncos,2007-02-24,63.12010494481387,included_game_day
+2007,2541,Santa Clara Broncos,2007-02-26,43.80487285535909,included_game_day
+2007,2541,Santa Clara Broncos,2007-03-04,59.31602228255105,included_game_day
+2007,2541,Santa Clara Broncos,2007-03-05,56.25427418107551,included_game_day
+2008,2541,Santa Clara Broncos,2007-11-17,-8.7,included_game_day
+2008,2541,Santa Clara Broncos,2007-11-19,13.318999999999999,included_game_day
+2008,2541,Santa Clara Broncos,2007-11-25,20.783099999999997,included_game_day
+2008,2541,Santa Clara Broncos,2007-11-29,24.613345999999996,included_game_day
+2008,2541,Santa Clara Broncos,2007-12-01,17.195505499999996,included_game_day
+2008,2541,Santa Clara Broncos,2007-12-08,27.793504107299995,included_game_day
+2008,2541,Santa Clara Broncos,2007-12-12,16.494728101635996,included_game_day
+2008,2541,Santa Clara Broncos,2007-12-17,21.989582655065636,included_game_day
+2008,2541,Santa Clara Broncos,2007-12-19,8.861679890679072,included_game_day
+2008,2541,Santa Clara Broncos,2007-12-22,1.4681545976913437,included_game_day
+2008,2541,Santa Clara Broncos,2007-12-28,7.991961857651614,included_game_day
+2008,2541,Santa Clara Broncos,2007-12-29,8.836604466503273,included_game_day
+2008,2541,Santa Clara Broncos,2008-01-07,-3.04615785161357,included_game_day
+2008,2541,Santa Clara Broncos,2008-01-12,-21.42608869237945,included_game_day
+2008,2541,Santa Clara Broncos,2008-01-21,-12.770283041700505,included_game_day
+2008,2541,Santa Clara Broncos,2008-01-26,-10.70659757316961,included_game_day
+2008,2541,Santa Clara Broncos,2008-01-28,6.550025659137727,included_game_day
+2008,2541,Santa Clara Broncos,2008-02-02,10.50134323744726,included_game_day
+2008,2541,Santa Clara Broncos,2008-02-04,0.3249696186490798,included_game_day
+2008,2541,Santa Clara Broncos,2008-02-11,6.0600291691051,included_game_day
+2008,2541,Santa Clara Broncos,2008-02-16,-4.412870568472126,included_game_day
+2008,2541,Santa Clara Broncos,2008-02-18,3.4041612446523946,included_game_day
+2008,2541,Santa Clara Broncos,2008-02-23,-0.4866406840161974,included_game_day
+2008,2541,Santa Clara Broncos,2008-02-25,21.704030186943843,included_game_day
+2008,2541,Santa Clara Broncos,2008-03-01,7.12077401065409,included_game_day
+2008,2541,Santa Clara Broncos,2008-03-03,-9.682130256419368,included_game_day
+2008,2541,Santa Clara Broncos,2008-03-08,-13.539324527889006,included_game_day
+2008,2541,Santa Clara Broncos,2008-03-09,0.4040714855991876,included_game_day
+2009,2541,Santa Clara Broncos,2008-11-17,-0.6000000000000001,included_game_day
+2009,2541,Santa Clara Broncos,2008-11-18,-5.540000000000001,included_game_day
+2009,2541,Santa Clara Broncos,2008-11-24,-8.218,included_game_day
+2009,2541,Santa Clara Broncos,2008-11-25,-4.617253,included_game_day
+2009,2541,Santa Clara Broncos,2008-11-30,-0.5946949999999998,included_game_day
+2009,2541,Santa Clara Broncos,2008-12-03,4.8429745,included_game_day
+2009,2541,Santa Clara Broncos,2008-12-06,16.7482778183,included_game_day
+2009,2541,Santa Clara Broncos,2008-12-17,10.19025859754,included_game_day
+2009,2541,Santa Clara Broncos,2008-12-20,6.148327020347,included_game_day
+2009,2541,Santa Clara Broncos,2008-12-23,0.4167692045817999,included_game_day
+2009,2541,Santa Clara Broncos,2008-12-29,7.145786953553452,included_game_day
+2009,2541,Santa Clara Broncos,2008-12-30,7.992855691992346,included_game_day
+2009,2541,Santa Clara Broncos,2009-01-02,3.1950846641615955,included_game_day
+2009,2541,Santa Clara Broncos,2009-01-04,-2.8621330042332938,included_game_day
+2009,2541,Santa Clara Broncos,2009-01-09,5.699796302578599,included_game_day
+2009,2541,Santa Clara Broncos,2009-01-11,-1.1707721995495346,included_game_day
+2009,2541,Santa Clara Broncos,2009-01-15,-28.829778629814253,included_game_day
+2009,2541,Santa Clara Broncos,2009-01-17,-22.940208665905594,included_game_day
+2009,2541,Santa Clara Broncos,2009-01-23,-14.723783629524913,included_game_day
+2009,2541,Santa Clara Broncos,2009-01-25,-0.4507402821373159,included_game_day
+2009,2541,Santa Clara Broncos,2009-01-29,7.870792636797331,included_game_day
+2009,2541,Santa Clara Broncos,2009-01-31,4.117963056514897,included_game_day
+2009,2541,Santa Clara Broncos,2009-02-05,7.5860193634563435,included_game_day
+2009,2541,Santa Clara Broncos,2009-02-07,30.57214032061493,included_game_day
+2009,2541,Santa Clara Broncos,2009-02-12,14.22442688418936,included_game_day
+2009,2541,Santa Clara Broncos,2009-02-14,5.058025388064632,included_game_day
+2009,2541,Santa Clara Broncos,2009-02-21,0.15157055839611822,included_game_day
+2009,2541,Santa Clara Broncos,2009-02-26,2.576464717566454,included_game_day
+2009,2541,Santa Clara Broncos,2009-02-28,3.398411175795503,included_game_day
+2009,2541,Santa Clara Broncos,2009-03-07,12.073196086688554,included_game_day
+2009,2541,Santa Clara Broncos,2009-03-08,-8.082137166482667,included_game_day
+2010,2541,Santa Clara Broncos,2009-11-13,6.0,included_game_day
+2010,2541,Santa Clara Broncos,2009-11-19,-26.21,included_game_day
+2010,2541,Santa Clara Broncos,2009-11-22,-47.149,included_game_day
+2010,2541,Santa Clara Broncos,2009-11-25,-63.5941,included_game_day
+2010,2541,Santa Clara Broncos,2009-11-28,-53.24979,included_game_day
+2010,2541,Santa Clara Broncos,2009-12-01,-32.108074699999996,included_game_day
+2010,2541,Santa Clara Broncos,2009-12-05,-30.863712496999995,included_game_day
+2010,2541,Santa Clara Broncos,2009-12-14,-29.719062320926696,included_game_day
+2010,2541,Santa Clara Broncos,2009-12-16,-37.683810728034025,included_game_day
+2010,2541,Santa Clara Broncos,2009-12-21,-33.53504553247929,included_game_day
+2010,2541,Santa Clara Broncos,2009-12-23,-40.22972985545764,included_game_day
+2010,2541,Santa Clara Broncos,2009-12-29,-51.68880008036365,included_game_day
+2010,2541,Santa Clara Broncos,2009-12-30,-55.733938597521565,included_game_day
+2010,2541,Santa Clara Broncos,2010-01-02,-52.07440702543583,included_game_day
+2010,2541,Santa Clara Broncos,2010-01-04,-50.32571373846337,included_game_day
+2010,2541,Santa Clara Broncos,2010-01-08,-59.15614371700286,included_game_day
+2010,2541,Santa Clara Broncos,2010-01-10,-52.118192355497385,included_game_day
+2010,2541,Santa Clara Broncos,2010-01-14,-50.11608347698019,included_game_day
+2010,2541,Santa Clara Broncos,2010-01-16,-53.34572364018028,included_game_day
+2010,2541,Santa Clara Broncos,2010-01-23,-48.15294019640548,included_game_day
+2010,2541,Santa Clara Broncos,2010-01-28,-44.61281843390126,included_game_day
+2010,2541,Santa Clara Broncos,2010-01-30,-57.08678280292532,included_game_day
+2010,2541,Santa Clara Broncos,2010-02-04,-49.54681844648222,included_game_day
+2010,2541,Santa Clara Broncos,2010-02-06,-27.859670853565028,included_game_day
+2010,2541,Santa Clara Broncos,2010-02-11,-37.194754951525844,included_game_day
+2010,2541,Santa Clara Broncos,2010-02-13,-38.31536955709269,included_game_day
+2010,2541,Santa Clara Broncos,2010-02-20,-40.88840545852253,included_game_day
+2010,2541,Santa Clara Broncos,2010-02-25,-60.78856108023229,included_game_day
+2010,2541,Santa Clara Broncos,2010-02-27,-58.23544671126214,included_game_day
+2010,2541,Santa Clara Broncos,2010-03-05,-58.180657980915754,included_game_day
+2011,2541,Santa Clara Broncos,2010-11-12,2.0,included_game_day
+2011,2541,Santa Clara Broncos,2010-11-15,-7.3100000000000005,included_game_day
+2011,2541,Santa Clara Broncos,2010-11-18,-6.299,included_game_day
+2011,2541,Santa Clara Broncos,2010-11-21,6.3609,included_game_day
+2011,2541,Santa Clara Broncos,2010-11-23,5.36431,included_game_day
+2011,2541,Santa Clara Broncos,2010-11-26,-8.03577,included_game_day
+2011,2541,Santa Clara Broncos,2010-11-27,-17.639513,included_game_day
+2011,2541,Santa Clara Broncos,2010-12-04,-28.701496791,included_game_day
+2011,2541,Santa Clara Broncos,2010-12-10,-16.5546578629,included_game_day
+2011,2541,Santa Clara Broncos,2010-12-14,-23.91697549207,included_game_day
+2011,2541,Santa Clara Broncos,2010-12-17,-10.432944869057,included_game_day
+2011,2541,Santa Clara Broncos,2010-12-19,-8.0508377762703,included_game_day
+2011,2541,Santa Clara Broncos,2010-12-22,12.782254727399803,included_game_day
+2011,2541,Santa Clara Broncos,2010-12-29,7.335718896123829,included_game_day
+2011,2541,Santa Clara Broncos,2010-12-30,17.12661980961268,included_game_day
+2011,2541,Santa Clara Broncos,2011-01-08,4.217143495347035,included_game_day
+2011,2541,Santa Clara Broncos,2011-01-13,5.248833568977883,included_game_day
+2011,2541,Santa Clara Broncos,2011-01-15,-2.827082891456211,included_game_day
+2011,2541,Santa Clara Broncos,2011-01-20,18.334213740400678,included_game_day
+2011,2541,Santa Clara Broncos,2011-01-22,28.621771221955548,included_game_day
+2011,2541,Santa Clara Broncos,2011-01-27,35.94135244879794,included_game_day
+2011,2541,Santa Clara Broncos,2011-01-29,40.53388262393655,included_game_day
+2011,2541,Santa Clara Broncos,2011-02-05,34.53416112561334,included_game_day
+2011,2541,Santa Clara Broncos,2011-02-10,30.078647858547093,included_game_day
+2011,2541,Santa Clara Broncos,2011-02-12,18.722961078532762,included_game_day
+2011,2541,Santa Clara Broncos,2011-02-17,20.016421171722655,included_game_day
+2011,2541,Santa Clara Broncos,2011-02-19,14.828211599508817,included_game_day
+2011,2541,Santa Clara Broncos,2011-02-24,11.251577215789872,included_game_day
+2011,2541,Santa Clara Broncos,2011-02-26,7.120741383307299,included_game_day
+2011,2541,Santa Clara Broncos,2011-03-05,11.427840055768431,included_game_day
+2011,2541,Santa Clara Broncos,2011-03-06,8.461540315239876,included_game_day
+2011,2541,Santa Clara Broncos,2011-03-15,13.64649661891809,included_game_day
+2011,2541,Santa Clara Broncos,2011-03-18,24.123289609810517,included_game_day
+2011,2541,Santa Clara Broncos,2011-03-22,31.916820801333696,included_game_day
+2011,2541,Santa Clara Broncos,2011-03-25,53.30557707327577,included_game_day
+2011,2541,Santa Clara Broncos,2011-03-30,70.17440393971413,included_game_day
+2012,2541,Santa Clara Broncos,2011-11-15,-30.0,included_game_day
+2012,2541,Santa Clara Broncos,2011-11-19,-6.170000000000002,included_game_day
+2012,2541,Santa Clara Broncos,2011-11-24,-2.7430000000000017,included_game_day
+2012,2541,Santa Clara Broncos,2011-11-26,-10.638490000000003,included_game_day
+2012,2541,Santa Clara Broncos,2011-11-27,-3.8306030000000018,included_game_day
+2012,2541,Santa Clara Broncos,2011-12-03,-0.6899987580000033,included_game_day
+2012,2541,Santa Clara Broncos,2011-12-11,-32.3295052833,included_game_day
+2012,2541,Santa Clara Broncos,2011-12-17,-33.92492815629,included_game_day
+2012,2541,Santa Clara Broncos,2011-12-21,-35.2489233968546,included_game_day
+2012,2541,Santa Clara Broncos,2011-12-29,-21.17087247708158,included_game_day
+2012,2541,Santa Clara Broncos,2011-12-30,-15.891556371036735,included_game_day
+2012,2541,Santa Clara Broncos,2012-01-05,-31.854428301184626,included_game_day
+2012,2541,Santa Clara Broncos,2012-01-07,-36.85955662151357,included_game_day
+2012,2541,Santa Clara Broncos,2012-01-12,-55.46148992198246,included_game_day
+2012,2541,Santa Clara Broncos,2012-01-14,-51.753884850382576,included_game_day
+2012,2541,Santa Clara Broncos,2012-01-21,-54.97153611334989,included_game_day
+2012,2541,Santa Clara Broncos,2012-01-23,-61.88368227748336,included_game_day
+2012,2541,Santa Clara Broncos,2012-01-26,-71.12134762078672,included_game_day
+2012,2541,Santa Clara Broncos,2012-01-28,-78.96268338526201,included_game_day
+2012,2541,Santa Clara Broncos,2012-02-02,-87.94071805622954,included_game_day
+2012,2541,Santa Clara Broncos,2012-02-04,-83.90725089573147,included_game_day
+2012,2541,Santa Clara Broncos,2012-02-09,-86.29419591933667,included_game_day
+2012,2541,Santa Clara Broncos,2012-02-11,-79.2308743772916,included_game_day
+2012,2541,Santa Clara Broncos,2012-02-16,-74.62211280005377,included_game_day
+2012,2541,Santa Clara Broncos,2012-02-18,-74.14603681600465,included_game_day
+2012,2541,Santa Clara Broncos,2012-02-23,-84.32392648291267,included_game_day
+2012,2541,Santa Clara Broncos,2012-02-25,-72.83611213488977,included_game_day
+2012,2541,Santa Clara Broncos,2012-02-29,-77.97191396454586,included_game_day
+2013,2541,Santa Clara Broncos,2012-11-14,16.4,included_game_day
+2013,2541,Santa Clara Broncos,2012-11-20,30.067999999999998,included_game_day
+2013,2541,Santa Clara Broncos,2012-11-21,30.5478,included_game_day
+2013,2541,Santa Clara Broncos,2012-11-23,36.0326,included_game_day
+2013,2541,Santa Clara Broncos,2012-11-28,27.946540000000002,included_game_day
+2013,2541,Santa Clara Broncos,2012-12-01,14.130270451000001,included_game_day
+2013,2541,Santa Clara Broncos,2012-12-11,37.89183708515,included_game_day
+2013,2541,Santa Clara Broncos,2012-12-15,41.780730280223004,included_game_day
+2013,2541,Santa Clara Broncos,2012-12-17,40.410271158028706,included_game_day
+2013,2541,Santa Clara Broncos,2012-12-21,36.00623258007984,included_game_day
+2013,2541,Santa Clara Broncos,2012-12-22,57.16091856461604,included_game_day
+2013,2541,Santa Clara Broncos,2012-12-29,56.438707121499164,included_game_day
+2013,2541,Santa Clara Broncos,2013-01-02,53.1913461700162,included_game_day
+2013,2541,Santa Clara Broncos,2013-01-05,50.34737333171056,included_game_day
+2013,2541,Santa Clara Broncos,2013-01-10,41.71842783680657,included_game_day
+2013,2541,Santa Clara Broncos,2013-01-12,27.550583167381753,included_game_day
+2013,2541,Santa Clara Broncos,2013-01-17,59.4943396851485,included_game_day
+2013,2541,Santa Clara Broncos,2013-01-19,60.85350226950399,included_game_day
+2013,2541,Santa Clara Broncos,2013-01-23,76.31841287881988,included_game_day
+2013,2541,Santa Clara Broncos,2013-01-26,85.00183931672844,included_game_day
+2013,2541,Santa Clara Broncos,2013-01-31,91.6241291567028,included_game_day
+2013,2541,Santa Clara Broncos,2013-02-02,78.66785681220257,included_game_day
+2013,2541,Santa Clara Broncos,2013-02-07,59.48919794807169,included_game_day
+2013,2541,Santa Clara Broncos,2013-02-14,60.65277309874123,included_game_day
+2013,2541,Santa Clara Broncos,2013-02-16,58.788178469746015,included_game_day
+2013,2541,Santa Clara Broncos,2013-02-20,30.124017923352284,included_game_day
+2013,2541,Santa Clara Broncos,2013-02-23,37.121799788437094,included_game_day
+2013,2541,Santa Clara Broncos,2013-02-28,48.64706248036034,included_game_day
+2013,2541,Santa Clara Broncos,2013-03-02,48.82578260462921,included_game_day
+2013,2541,Santa Clara Broncos,2013-03-08,38.63649237825696,included_game_day
+2013,2541,Santa Clara Broncos,2013-03-19,44.358827906255264,included_game_day
+2013,2541,Santa Clara Broncos,2013-03-25,53.31436113804314,included_game_day
+2013,2541,Santa Clara Broncos,2013-03-27,68.14414698764713,included_game_day
+2013,2541,Santa Clara Broncos,2013-04-01,67.98671188959345,included_game_day
+2013,2541,Santa Clara Broncos,2013-04-03,58.860763811150505,included_game_day
+2013,2541,Santa Clara Broncos,2013-04-05,61.56000534839615,included_game_day
+2014,2541,Santa Clara Broncos,2013-11-12,9.0,included_game_day
+2014,2541,Santa Clara Broncos,2013-11-16,0.8100000000000005,included_game_day
+2014,2541,Santa Clara Broncos,2013-11-22,-9.6998,included_game_day
+2014,2541,Santa Clara Broncos,2013-11-29,-18.878045999999998,included_game_day
+2014,2541,Santa Clara Broncos,2013-11-30,-22.917889969999997,included_game_day
+2014,2541,Santa Clara Broncos,2013-12-05,0.48740034700000123,included_game_day
+2014,2541,Santa Clara Broncos,2013-12-07,-8.484977317699999,included_game_day
+2014,2541,Santa Clara Broncos,2013-12-16,2.4503698248560024,included_game_day
+2014,2541,Santa Clara Broncos,2013-12-18,4.376702792023003,included_game_day
+2014,2541,Santa Clara Broncos,2013-12-22,-10.294279362762882,included_game_day
+2014,2541,Santa Clara Broncos,2013-12-23,-8.242334237731253,included_game_day
+2014,2541,Santa Clara Broncos,2013-12-28,-10.338400468261128,included_game_day
+2014,2541,Santa Clara Broncos,2013-12-30,7.408638064466608,included_game_day
+2014,2541,Santa Clara Broncos,2014-01-02,-4.7238923757126905,included_game_day
+2014,2541,Santa Clara Broncos,2014-01-04,-1.140152018064283,included_game_day
+2014,2541,Santa Clara Broncos,2014-01-09,10.275485623953992,included_game_day
+2014,2541,Santa Clara Broncos,2014-01-11,-0.26484603108477067,included_game_day
+2014,2541,Santa Clara Broncos,2014-01-16,-8.162827067385656,included_game_day
+2014,2541,Santa Clara Broncos,2014-01-18,-10.689211695266458,included_game_day
+2014,2541,Santa Clara Broncos,2014-01-25,-14.740137695937207,included_game_day
+2014,2541,Santa Clara Broncos,2014-01-29,-6.604837600060353,included_game_day
+2014,2541,Santa Clara Broncos,2014-02-01,-18.112736751018623,included_game_day
+2014,2541,Santa Clara Broncos,2014-02-06,-17.480616600046005,included_game_day
+2014,2541,Santa Clara Broncos,2014-02-08,-6.43694311034764,included_game_day
+2014,2541,Santa Clara Broncos,2014-02-15,-11.411017222691063,included_game_day
+2014,2541,Santa Clara Broncos,2014-02-20,7.81002110003717,included_game_day
+2014,2541,Santa Clara Broncos,2014-02-22,-13.019418667153316,included_game_day
+2014,2541,Santa Clara Broncos,2014-02-27,-17.24889180949291,included_game_day
+2014,2541,Santa Clara Broncos,2014-03-01,-5.788513140998095,included_game_day
+2014,2541,Santa Clara Broncos,2014-03-06,10.76754177584246,included_game_day
+2014,2541,Santa Clara Broncos,2014-03-08,20.818757397897148,included_game_day
+2015,2541,Santa Clara Broncos,2014-11-14,14.0,included_game_day
+2015,2541,Santa Clara Broncos,2014-11-19,11.120000000000001,included_game_day
+2015,2541,Santa Clara Broncos,2014-11-24,-10.0792,included_game_day
+2015,2541,Santa Clara Broncos,2014-11-27,-16.91228,included_game_day
+2015,2541,Santa Clara Broncos,2014-11-28,-37.613051999999996,included_game_day
+2015,2541,Santa Clara Broncos,2014-11-30,-29.889168099999996,included_game_day
+2015,2541,Santa Clara Broncos,2014-12-06,-20.088932229999998,included_game_day
+2015,2541,Santa Clara Broncos,2014-12-13,-14.456724415599998,included_game_day
+2015,2541,Santa Clara Broncos,2014-12-20,-21.00347981058512,included_game_day
+2015,2541,Santa Clara Broncos,2014-12-23,-33.81455078774917,included_game_day
+2015,2541,Santa Clara Broncos,2014-12-27,-38.11471461474815,included_game_day
+2015,2541,Santa Clara Broncos,2014-12-29,-16.49233428830563,included_game_day
+2015,2541,Santa Clara Broncos,2015-01-01,-46.19608582655967,included_game_day
+2015,2541,Santa Clara Broncos,2015-01-03,-37.07610141120746,included_game_day
+2015,2541,Santa Clara Broncos,2015-01-08,-44.07245751063918,included_game_day
+2015,2541,Santa Clara Broncos,2015-01-10,-42.63391725723226,included_game_day
+2015,2541,Santa Clara Broncos,2015-01-17,-34.26916905211998,included_game_day
+2015,2541,Santa Clara Broncos,2015-01-22,-35.232720734300024,included_game_day
+2015,2541,Santa Clara Broncos,2015-01-24,-27.846306697511427,included_game_day
+2015,2541,Santa Clara Broncos,2015-01-29,-25.369257295528723,included_game_day
+2015,2541,Santa Clara Broncos,2015-01-31,-32.93020092427153,included_game_day
+2015,2541,Santa Clara Broncos,2015-02-05,-29.316544314331626,included_game_day
+2015,2541,Santa Clara Broncos,2015-02-07,-47.901188545774204,included_game_day
+2015,2541,Santa Clara Broncos,2015-02-12,-47.470987680960214,included_game_day
+2015,2541,Santa Clara Broncos,2015-02-19,-46.54822593922764,included_game_day
+2015,2541,Santa Clara Broncos,2015-02-21,-37.34279621215671,included_game_day
+2015,2541,Santa Clara Broncos,2015-02-26,-48.40038389132557,included_game_day
+2015,2541,Santa Clara Broncos,2015-02-28,-36.3057537706449,included_game_day
+2015,2541,Santa Clara Broncos,2015-03-06,-8.546919056650424,included_game_day
+2015,2541,Santa Clara Broncos,2015-03-07,3.501907186716002,included_game_day
+2016,2541,Santa Clara Broncos,2015-11-13,-5.0,included_game_day
+2016,2541,Santa Clara Broncos,2015-11-14,-30.8,included_game_day
+2016,2541,Santa Clara Broncos,2015-11-15,-34.9,included_game_day
+2016,2541,Santa Clara Broncos,2015-11-19,-42.41,included_game_day
+2016,2541,Santa Clara Broncos,2015-11-23,-50.881,included_game_day
+2016,2541,Santa Clara Broncos,2015-11-26,-42.2611,included_game_day
+2016,2541,Santa Clara Broncos,2015-11-27,-49.850802,included_game_day
+2016,2541,Santa Clara Broncos,2015-11-29,-27.6738728,included_game_day
+2016,2541,Santa Clara Broncos,2015-12-05,-27.400561520000004,included_game_day
+2016,2541,Santa Clara Broncos,2015-12-15,-24.744156344648204,included_game_day
+2016,2541,Santa Clara Broncos,2015-12-18,-19.578686065305384,included_game_day
+2016,2541,Santa Clara Broncos,2015-12-21,-19.484200735705645,included_game_day
+2016,2541,Santa Clara Broncos,2015-12-23,-29.181944212653796,included_game_day
+2016,2541,Santa Clara Broncos,2015-12-31,-21.80357768302764,included_game_day
+2016,2541,Santa Clara Broncos,2016-01-02,-13.887712168869314,included_game_day
+2016,2541,Santa Clara Broncos,2016-01-07,-38.34417656397443,included_game_day
+2016,2541,Santa Clara Broncos,2016-01-09,-24.622787627575093,included_game_day
+2016,2541,Santa Clara Broncos,2016-01-14,-21.359957857233276,included_game_day
+2016,2541,Santa Clara Broncos,2016-01-16,-34.57900005312813,included_game_day
+2016,2541,Santa Clara Broncos,2016-01-21,-49.99689675800609,included_game_day
+2016,2541,Santa Clara Broncos,2016-01-28,-48.229549480236365,included_game_day
+2016,2541,Santa Clara Broncos,2016-01-30,-36.67227628784924,included_game_day
+2016,2541,Santa Clara Broncos,2016-02-06,-35.33973017897114,included_game_day
+2016,2541,Santa Clara Broncos,2016-02-11,-36.84913430226256,included_game_day
+2016,2541,Santa Clara Broncos,2016-02-13,-59.915590352544974,included_game_day
+2016,2541,Santa Clara Broncos,2016-02-18,-51.108668925031466,included_game_day
+2016,2541,Santa Clara Broncos,2016-02-20,-52.15969888701696,included_game_day
+2016,2541,Santa Clara Broncos,2016-02-25,-59.34414287658963,included_game_day
+2016,2541,Santa Clara Broncos,2016-02-27,-54.80846127536311,included_game_day
+2016,2541,Santa Clara Broncos,2016-03-05,-47.0552471224392,included_game_day
+2017,2541,Santa Clara Broncos,2016-11-11,0.0,included_game_day
+2017,2541,Santa Clara Broncos,2016-11-12,-9.4,included_game_day
+2017,2541,Santa Clara Broncos,2016-11-13,-17.8,included_game_day
+2017,2541,Santa Clara Broncos,2016-11-19,-6.420000000000002,included_game_day
+2017,2541,Santa Clara Broncos,2016-11-21,-2.828000000000001,included_game_day
+2017,2541,Santa Clara Broncos,2016-11-24,-6.54,included_game_day
+2017,2541,Santa Clara Broncos,2016-11-25,-15.96623,included_game_day
+2017,2541,Santa Clara Broncos,2016-11-30,-22.242682,included_game_day
+2017,2541,Santa Clara Broncos,2016-12-03,-31.885788599999998,included_game_day
+2017,2541,Santa Clara Broncos,2016-12-13,-13.412072809999998,included_game_day
+2017,2541,Santa Clara Broncos,2016-12-17,-12.560478981609998,included_game_day
+2017,2541,Santa Clara Broncos,2016-12-22,2.5192504192401213,included_game_day
+2017,2541,Santa Clara Broncos,2016-12-29,-18.208352573177407,included_game_day
+2017,2541,Santa Clara Broncos,2016-12-31,-0.9912476284392469,included_game_day
+2017,2541,Santa Clara Broncos,2017-01-05,23.629011992477306,included_game_day
+2017,2541,Santa Clara Broncos,2017-01-07,13.736272328716655,included_game_day
+2017,2541,Santa Clara Broncos,2017-01-12,15.703195369771553,included_game_day
+2017,2541,Santa Clara Broncos,2017-01-14,23.589126264642026,included_game_day
+2017,2541,Santa Clara Broncos,2017-01-19,7.100780642940993,included_game_day
+2017,2541,Santa Clara Broncos,2017-01-21,2.06841929127737,included_game_day
+2017,2541,Santa Clara Broncos,2017-01-26,15.54128295979043,included_game_day
+2017,2541,Santa Clara Broncos,2017-01-28,10.774254458444563,included_game_day
+2017,2541,Santa Clara Broncos,2017-02-02,18.898769366308642,included_game_day
+2017,2541,Santa Clara Broncos,2017-02-04,8.063882293284088,included_game_day
+2017,2541,Santa Clara Broncos,2017-02-09,13.860003555836975,included_game_day
+2017,2541,Santa Clara Broncos,2017-02-11,26.09470704992141,included_game_day
+2017,2541,Santa Clara Broncos,2017-02-16,66.61767061907062,included_game_day
+2017,2541,Santa Clara Broncos,2017-02-18,48.49388424546603,included_game_day
+2017,2541,Santa Clara Broncos,2017-02-23,36.977740794375904,included_game_day
+2017,2541,Santa Clara Broncos,2017-02-25,38.524191451307956,included_game_day
+2017,2541,Santa Clara Broncos,2017-03-04,44.76500576873704,included_game_day
+2017,2541,Santa Clara Broncos,2017-03-06,56.30526166037961,included_game_day
+2018,2541,Santa Clara Broncos,2017-11-15,-30.5,included_game_day
+2018,2541,Santa Clara Broncos,2017-11-18,-35.730000000000004,included_game_day
+2018,2541,Santa Clara Broncos,2017-11-22,-43.447,included_game_day
+2018,2541,Santa Clara Broncos,2017-11-25,-55.77762,included_game_day
+2018,2541,Santa Clara Broncos,2017-11-30,-28.480843,included_game_day
+2018,2541,Santa Clara Broncos,2017-12-02,-22.14315175,included_game_day
+2018,2541,Santa Clara Broncos,2017-12-09,-23.4398818252,included_game_day
+2018,2541,Santa Clara Broncos,2017-12-14,-37.58233061019,included_game_day
+2018,2541,Santa Clara Broncos,2017-12-18,-43.53674818797626,included_game_day
+2018,2541,Santa Clara Broncos,2017-12-21,-60.14677360823955,included_game_day
+2018,2541,Santa Clara Broncos,2017-12-28,-56.33625936000256,included_game_day
+2018,2541,Santa Clara Broncos,2017-12-30,-83.61087760290897,included_game_day
+2018,2541,Santa Clara Broncos,2018-01-04,-59.28161829737577,included_game_day
+2018,2541,Santa Clara Broncos,2018-01-06,-62.12839515811715,included_game_day
+2018,2541,Santa Clara Broncos,2018-01-11,-71.86791805600431,included_game_day
+2018,2541,Santa Clara Broncos,2018-01-13,-94.77529447696732,included_game_day
+2018,2541,Santa Clara Broncos,2018-01-18,-76.76720995619004,included_game_day
+2018,2541,Santa Clara Broncos,2018-01-20,-69.85202875010665,included_game_day
+2018,2541,Santa Clara Broncos,2018-01-25,-67.50434806318589,included_game_day
+2018,2541,Santa Clara Broncos,2018-01-27,-52.064401509177316,included_game_day
+2018,2541,Santa Clara Broncos,2018-02-01,-67.91820444847149,included_game_day
+2018,2541,Santa Clara Broncos,2018-02-03,-76.15469788203382,included_game_day
+2018,2541,Santa Clara Broncos,2018-02-08,-79.9967442806832,included_game_day
+2018,2541,Santa Clara Broncos,2018-02-10,-67.59323461699472,included_game_day
+2018,2541,Santa Clara Broncos,2018-02-15,-52.79175006954692,included_game_day
+2018,2541,Santa Clara Broncos,2018-02-17,-38.26692830726921,included_game_day
+2018,2541,Santa Clara Broncos,2018-02-22,-43.6515454611356,included_game_day
+2018,2541,Santa Clara Broncos,2018-02-24,-52.63248686695365,included_game_day
+2018,2541,Santa Clara Broncos,2018-03-02,-68.75032650141341,included_game_day
+2019,2541,Santa Clara Broncos,2018-11-09,-20.0,included_game_day
+2019,2541,Santa Clara Broncos,2018-11-15,-31.13,included_game_day
+2019,2541,Santa Clara Broncos,2018-11-18,-41.843,included_game_day
+2019,2541,Santa Clara Broncos,2018-11-20,-48.5602,included_game_day
+2019,2541,Santa Clara Broncos,2018-11-24,-34.24378,included_game_day
+2019,2541,Santa Clara Broncos,2018-11-26,-41.6007133,included_game_day
+2019,2541,Santa Clara Broncos,2018-11-29,-39.00918639,included_game_day
+2019,2541,Santa Clara Broncos,2018-12-01,-33.678077151000004,included_game_day
+2019,2541,Santa Clara Broncos,2018-12-07,-39.844708035900005,included_game_day
+2019,2541,Santa Clara Broncos,2018-12-13,-25.273886318368906,included_game_day
+2019,2541,Santa Clara Broncos,2018-12-18,-14.977739902279517,included_game_day
+2019,2541,Santa Clara Broncos,2018-12-21,-0.3555722530935643,included_game_day
+2019,2541,Santa Clara Broncos,2018-12-29,13.883671978691545,included_game_day
+2019,2541,Santa Clara Broncos,2019-01-03,26.08068337575479,included_game_day
+2019,2541,Santa Clara Broncos,2019-01-05,3.133475011722993,included_game_day
+2019,2541,Santa Clara Broncos,2019-01-10,4.724751052900294,included_game_day
+2019,2541,Santa Clara Broncos,2019-01-12,5.04644844199925,included_game_day
+2019,2541,Santa Clara Broncos,2019-01-17,-1.4003641369208895,included_game_day
+2019,2541,Santa Clara Broncos,2019-01-19,14.123744294978941,included_game_day
+2019,2541,Santa Clara Broncos,2019-01-24,-27.54222937790012,included_game_day
+2019,2541,Santa Clara Broncos,2019-01-26,-34.15023590273109,included_game_day
+2019,2541,Santa Clara Broncos,2019-02-02,-37.06527175217179,included_game_day
+2019,2541,Santa Clara Broncos,2019-02-07,-18.910180250375298,included_game_day
+2019,2541,Santa Clara Broncos,2019-02-09,-12.160453117009677,included_game_day
+2019,2541,Santa Clara Broncos,2019-02-14,-17.879972133889645,included_game_day
+2019,2541,Santa Clara Broncos,2019-02-16,-15.331681701035444,included_game_day
+2019,2541,Santa Clara Broncos,2019-02-23,-6.264401244516526,included_game_day
+2019,2541,Santa Clara Broncos,2019-02-28,-1.310645286125368,included_game_day
+2019,2541,Santa Clara Broncos,2019-03-02,9.30464400325378,included_game_day
+2019,2541,Santa Clara Broncos,2019-03-08,-4.9218413607932945,included_game_day
+2020,2541,Santa Clara Broncos,2019-11-08,11.0,included_game_day
+2020,2541,Santa Clara Broncos,2019-11-12,17.7,included_game_day
+2020,2541,Santa Clara Broncos,2019-11-16,5.187999999999999,included_game_day
+2020,2541,Santa Clara Broncos,2019-11-22,14.361199999999998,included_game_day
+2020,2541,Santa Clara Broncos,2019-11-27,22.12872,included_game_day
+2020,2541,Santa Clara Broncos,2019-11-29,25.44123048,included_game_day
+2020,2541,Santa Clara Broncos,2019-11-30,31.40744232,included_game_day
+2020,2541,Santa Clara Broncos,2019-12-04,4.019171569000001,included_game_day
+2020,2541,Santa Clara Broncos,2019-12-07,17.3768570505,included_game_day
+2020,2541,Santa Clara Broncos,2019-12-14,16.344236974158,included_game_day
+2020,2541,Santa Clara Broncos,2019-12-18,9.157461928976561,included_game_day
+2020,2541,Santa Clara Broncos,2019-12-20,14.502235337283343,included_game_day
+2020,2541,Santa Clara Broncos,2019-12-29,38.52441110878001,included_game_day
+2020,2541,Santa Clara Broncos,2020-01-04,47.61222024890592,included_game_day
+2020,2541,Santa Clara Broncos,2020-01-09,29.213186254687187,included_game_day
+2020,2541,Santa Clara Broncos,2020-01-11,40.90543034515661,included_game_day
+2020,2541,Santa Clara Broncos,2020-01-16,6.881932846059854,included_game_day
+2020,2541,Santa Clara Broncos,2020-01-18,11.00586439266473,included_game_day
+2020,2541,Santa Clara Broncos,2020-01-23,2.8041082598507536,included_game_day
+2020,2541,Santa Clara Broncos,2020-01-25,13.960584409778907,included_game_day
+2020,2541,Santa Clara Broncos,2020-01-30,17.27832151397256,included_game_day
+2020,2541,Santa Clara Broncos,2020-02-01,35.135818099977826,included_game_day
+2020,2541,Santa Clara Broncos,2020-02-06,20.07929837064338,included_game_day
+2020,2541,Santa Clara Broncos,2020-02-13,11.144175847613877,included_game_day
+2020,2541,Santa Clara Broncos,2020-02-15,-2.8042569520895384,included_game_day
+2020,2541,Santa Clara Broncos,2020-02-20,3.6181737733882215,included_game_day
+2020,2541,Santa Clara Broncos,2020-02-22,-3.4594510908029132,included_game_day
+2020,2541,Santa Clara Broncos,2020-02-27,-3.752163738002725,included_game_day
+2020,2541,Santa Clara Broncos,2020-02-29,-11.823211939509449,included_game_day
+2020,2541,Santa Clara Broncos,2020-03-05,-6.280050500714825,included_game_day
+2020,2541,Santa Clara Broncos,2020-03-06,-15.63853427941783,included_game_day
+2021,2541,Santa Clara Broncos,2020-11-25,10.0,included_game_day
+2021,2541,Santa Clara Broncos,2020-11-27,8.2,included_game_day
+2021,2541,Santa Clara Broncos,2020-11-28,22.9,included_game_day
+2021,2541,Santa Clara Broncos,2020-12-02,23.61,included_game_day
+2021,2541,Santa Clara Broncos,2020-12-09,28.385883999999997,included_game_day
+2021,2541,Santa Clara Broncos,2020-12-22,14.131811610999998,included_game_day
+2021,2541,Santa Clara Broncos,2020-12-29,-0.7997395501000018,included_game_day
+2021,2541,Santa Clara Broncos,2021-01-09,9.840630906499998,included_game_day
+2021,2541,Santa Clara Broncos,2021-01-14,-9.24343218415,included_game_day
+2021,2541,Santa Clara Broncos,2021-01-17,-3.5868091081810007,included_game_day
+2021,2541,Santa Clara Broncos,2021-01-21,-24.681500561075822,included_game_day
+2021,2541,Santa Clara Broncos,2021-01-23,-15.379555686843654,included_game_day
+2021,2541,Santa Clara Broncos,2021-02-16,-18.239264813229624,included_game_day
+2021,2541,Santa Clara Broncos,2021-02-18,-34.754353476345976,included_game_day
+2021,2541,Santa Clara Broncos,2021-02-20,-28.35130199465258,included_game_day
+2021,2541,Santa Clara Broncos,2021-02-25,-12.356791338199198,included_game_day
+2021,2541,Santa Clara Broncos,2021-03-04,-19.834917190466424,included_game_day
+2021,2541,Santa Clara Broncos,2021-03-05,-13.056369283537293,included_game_day
+2021,2541,Santa Clara Broncos,2021-03-06,-18.951031715309462,included_game_day
+2022,2541,Santa Clara Broncos,2021-11-09,4.0,included_game_day
+2022,2541,Santa Clara Broncos,2021-11-12,17.5,included_game_day
+2022,2541,Santa Clara Broncos,2021-11-16,34.83,included_game_day
+2022,2541,Santa Clara Broncos,2021-11-19,57.117999999999995,included_game_day
+2022,2541,Santa Clara Broncos,2021-11-22,74.508,included_game_day
+2022,2541,Santa Clara Broncos,2021-11-25,61.976214,included_game_day
+2022,2541,Santa Clara Broncos,2021-11-27,50.6120526,included_game_day
+2022,2541,Santa Clara Broncos,2021-11-30,55.22006794,included_game_day
+2022,2541,Santa Clara Broncos,2021-12-04,46.050218096,included_game_day
+2022,2541,Santa Clara Broncos,2021-12-07,41.99566631570001,included_game_day
+2022,2541,Santa Clara Broncos,2021-12-11,30.526633314734006,included_game_day
+2022,2541,Santa Clara Broncos,2021-12-14,24.666641675957607,included_game_day
+2022,2541,Santa Clara Broncos,2021-12-17,26.371882889489665,included_game_day
+2022,2541,Santa Clara Broncos,2021-12-19,35.6054144895467,included_game_day
+2022,2541,Santa Clara Broncos,2021-12-21,57.17048975105462,included_game_day
+2022,2541,Santa Clara Broncos,2022-01-12,62.97287774113106,included_game_day
+2022,2541,Santa Clara Broncos,2022-01-15,40.7351288091273,included_game_day
+2022,2541,Santa Clara Broncos,2022-01-20,39.46099555981159,included_game_day
+2022,2541,Santa Clara Broncos,2022-01-24,36.00121502183332,included_game_day
+2022,2541,Santa Clara Broncos,2022-01-27,38.067766605062545,included_game_day
+2022,2541,Santa Clara Broncos,2022-01-29,43.20118161073623,included_game_day
+2022,2541,Santa Clara Broncos,2022-01-31,52.64672858169598,included_game_day
+2022,2541,Santa Clara Broncos,2022-02-03,58.62743841291126,included_game_day
+2022,2541,Santa Clara Broncos,2022-02-05,67.51239148052373,included_game_day
+2022,2541,Santa Clara Broncos,2022-02-08,73.96392310070101,included_game_day
+2022,2541,Santa Clara Broncos,2022-02-12,57.73413872620812,included_game_day
+2022,2541,Santa Clara Broncos,2022-02-17,54.507019284605235,included_game_day
+2022,2541,Santa Clara Broncos,2022-02-19,64.30916156907281,included_game_day
+2022,2541,Santa Clara Broncos,2022-02-24,69.13385617196029,included_game_day
+2022,2541,Santa Clara Broncos,2022-02-26,73.25238885859916,included_game_day
+2022,2541,Santa Clara Broncos,2022-03-06,91.7283366540113,included_game_day
+2022,2541,Santa Clara Broncos,2022-03-07,92.84755199863584,included_game_day
+2022,2541,Santa Clara Broncos,2022-03-15,78.61724826865304,included_game_day
+2023,2541,Santa Clara Broncos,2022-11-07,9.0,included_game_day
+2023,2541,Santa Clara Broncos,2022-11-10,19.9,included_game_day
+2023,2541,Santa Clara Broncos,2022-11-14,2.0700000000000003,included_game_day
+2023,2541,Santa Clara Broncos,2022-11-18,13.002,included_game_day
+2023,2541,Santa Clara Broncos,2022-11-20,8.494600000000002,included_game_day
+2023,2541,Santa Clara Broncos,2022-11-26,21.53621,included_game_day
+2023,2541,Santa Clara Broncos,2022-11-30,21.849771,included_game_day
+2023,2541,Santa Clara Broncos,2022-12-03,21.23103343,included_game_day
+2023,2541,Santa Clara Broncos,2022-12-07,19.258433657,included_game_day
+2023,2541,Santa Clara Broncos,2022-12-10,1.0360593626100005,included_game_day
+2023,2541,Santa Clara Broncos,2022-12-13,-1.7262401461909995,included_game_day
+2023,2541,Santa Clara Broncos,2022-12-15,11.066248660287101,included_game_day
+2023,2541,Santa Clara Broncos,2022-12-18,9.04856359729899,included_game_day
+2023,2541,Santa Clara Broncos,2022-12-22,28.913848000560993,included_game_day
+2023,2541,Santa Clara Broncos,2022-12-29,41.62393087290124,included_game_day
+2023,2541,Santa Clara Broncos,2022-12-31,40.97951698369857,included_game_day
+2023,2541,Santa Clara Broncos,2023-01-05,49.26419151159834,included_game_day
+2023,2541,Santa Clara Broncos,2023-01-07,45.827136213002426,included_game_day
+2023,2541,Santa Clara Broncos,2023-01-14,54.41629667033317,included_game_day
+2023,2541,Santa Clara Broncos,2023-01-19,59.37686964755593,included_game_day
+2023,2541,Santa Clara Broncos,2023-01-21,52.76120641427612,included_game_day
+2023,2541,Santa Clara Broncos,2023-01-28,35.578891588655175,included_game_day
+2023,2541,Santa Clara Broncos,2023-02-02,28.205589778934563,included_game_day
+2023,2541,Santa Clara Broncos,2023-02-04,47.82771144062906,included_game_day
+2023,2541,Santa Clara Broncos,2023-02-09,40.74370192513231,included_game_day
+2023,2541,Santa Clara Broncos,2023-02-11,39.14802919467818,included_game_day
+2023,2541,Santa Clara Broncos,2023-02-16,51.70300065264706,included_game_day
+2023,2541,Santa Clara Broncos,2023-02-18,66.2704104819347,included_game_day
+2023,2541,Santa Clara Broncos,2023-02-23,63.0230852582785,included_game_day
+2023,2541,Santa Clara Broncos,2023-02-25,74.82775076322704,included_game_day
+2023,2541,Santa Clara Broncos,2023-03-05,63.38904496928653,included_game_day
+2023,2541,Santa Clara Broncos,2023-03-15,62.157515046899576,included_game_day
+2024,2541,Santa Clara Broncos,2023-11-08,5.0,included_game_day
+2024,2541,Santa Clara Broncos,2023-11-11,19.08,included_game_day
+2024,2541,Santa Clara Broncos,2023-11-14,34.102,included_game_day
+2024,2541,Santa Clara Broncos,2023-11-18,23.636799999999997,included_game_day
+2024,2541,Santa Clara Broncos,2023-11-20,49.87439,included_game_day
+2024,2541,Santa Clara Broncos,2023-11-24,55.539919,included_game_day
+2024,2541,Santa Clara Broncos,2023-11-25,24.723197099999997,included_game_day
+2024,2541,Santa Clara Broncos,2023-12-02,9.740845089999997,included_game_day
+2024,2541,Santa Clara Broncos,2023-12-09,2.6267192089399973,included_game_day
+2024,2541,Santa Clara Broncos,2023-12-13,5.770113790756996,included_game_day
+2024,2541,Santa Clara Broncos,2023-12-16,22.3234642413263,included_game_day
+2024,2541,Santa Clara Broncos,2023-12-20,18.26519111658567,included_game_day
+2024,2541,Santa Clara Broncos,2023-12-23,28.611653263191076,included_game_day
+2024,2541,Santa Clara Broncos,2023-12-30,14.469450954325652,included_game_day
+2024,2541,Santa Clara Broncos,2024-01-04,26.274294769324626,included_game_day
+2024,2541,Santa Clara Broncos,2024-01-06,28.210596435102545,included_game_day
+2024,2541,Santa Clara Broncos,2024-01-11,32.96706328295832,included_game_day
+2024,2541,Santa Clara Broncos,2024-01-13,13.288005236125688,included_game_day
+2024,2541,Santa Clara Broncos,2024-01-18,20.93110228622719,included_game_day
+2024,2541,Santa Clara Broncos,2024-01-20,22.398370941697454,included_game_day
+2024,2541,Santa Clara Broncos,2024-01-25,34.55318546478811,included_game_day
+2024,2541,Santa Clara Broncos,2024-01-31,43.85693705218752,included_game_day
+2024,2541,Santa Clara Broncos,2024-02-03,18.237468325825215,included_game_day
+2024,2541,Santa Clara Broncos,2024-02-10,24.33846639402178,included_game_day
+2024,2541,Santa Clara Broncos,2024-02-15,31.047522287129773,included_game_day
+2024,2541,Santa Clara Broncos,2024-02-17,39.07404723200476,included_game_day
+2024,2541,Santa Clara Broncos,2024-02-22,37.71932567312486,included_game_day
+2024,2541,Santa Clara Broncos,2024-02-24,37.78451367433344,included_game_day
+2024,2541,Santa Clara Broncos,2024-02-29,20.65244557127425,included_game_day
+2024,2541,Santa Clara Broncos,2024-03-02,29.94431782548822,included_game_day
+2024,2541,Santa Clara Broncos,2024-03-09,44.75202055010533,included_game_day
+2024,2541,Santa Clara Broncos,2024-03-11,42.27589224084489,included_game_day
+2025,2541,Santa Clara Broncos,2024-11-04,7.0,included_game_day
+2025,2541,Santa Clara Broncos,2024-11-08,-0.2999999999999998,included_game_day
+2025,2541,Santa Clara Broncos,2024-11-13,-12.695,included_game_day
+2025,2541,Santa Clara Broncos,2024-11-16,-30.2455,included_game_day
+2025,2541,Santa Clara Broncos,2024-11-19,11.280050000000003,included_game_day
+2025,2541,Santa Clara Broncos,2024-11-23,11.560845000000002,included_game_day
+2025,2541,Santa Clara Broncos,2024-11-28,31.9215705,included_game_day
+2025,2541,Santa Clara Broncos,2024-11-29,22.1440103,included_game_day
+2025,2541,Santa Clara Broncos,2024-12-03,32.449477,included_game_day
+2025,2541,Santa Clara Broncos,2024-12-07,37.57112114022,included_game_day
+2025,2541,Santa Clara Broncos,2024-12-14,50.602050054198,included_game_day
+2025,2541,Santa Clara Broncos,2024-12-18,62.61051515674821,included_game_day
+2025,2541,Santa Clara Broncos,2024-12-21,69.60978523673705,included_game_day
+2025,2541,Santa Clara Broncos,2024-12-28,71.69448411596352,included_game_day
+2025,2541,Santa Clara Broncos,2024-12-30,72.41869259965023,included_game_day
+2025,2541,Santa Clara Broncos,2025-01-02,62.95976710132941,included_game_day
+2025,2541,Santa Clara Broncos,2025-01-09,60.39519375549803,included_game_day
+2025,2541,Santa Clara Broncos,2025-01-11,80.0375496427369,included_game_day
+2025,2541,Santa Clara Broncos,2025-01-16,70.66547122494131,included_game_day
+2025,2541,Santa Clara Broncos,2025-01-18,83.89441126494624,included_game_day
+2025,2541,Santa Clara Broncos,2025-01-23,105.59878961809176,included_game_day
+2025,2541,Santa Clara Broncos,2025-01-25,93.08027576682478,included_game_day
+2025,2541,Santa Clara Broncos,2025-01-29,82.61655305273662,included_game_day
+2025,2541,Santa Clara Broncos,2025-02-01,96.68147842388467,included_game_day
+2025,2541,Santa Clara Broncos,2025-02-06,128.26063737532183,included_game_day
+2025,2541,Santa Clara Broncos,2025-02-08,125.79330352441198,included_game_day
+2025,2541,Santa Clara Broncos,2025-02-11,123.51360807463513,included_game_day
+2025,2541,Santa Clara Broncos,2025-02-20,119.39480362438906,included_game_day
+2025,2541,Santa Clara Broncos,2025-02-22,139.63933956110938,included_game_day
+2025,2541,Santa Clara Broncos,2025-02-25,121.97646785390361,included_game_day
+2025,2541,Santa Clara Broncos,2025-03-01,137.3412700052973,included_game_day
+2025,2541,Santa Clara Broncos,2025-03-09,115.22286517297239,included_game_day
+2025,2541,Santa Clara Broncos,2025-03-18,139.76358036788653,included_game_day
+2025,2541,Santa Clara Broncos,2025-03-23,124.50569629579319,included_game_day
+2026,2541,Santa Clara Broncos,2025-11-07,9.0,included_game_day
+2026,2541,Santa Clara Broncos,2025-11-10,30.39,included_game_day
+2026,2541,Santa Clara Broncos,2025-11-15,41.515,included_game_day
+2026,2541,Santa Clara Broncos,2025-11-18,42.56737,included_game_day
+2026,2541,Santa Clara Broncos,2025-11-21,67.064693,included_game_day
+2026,2541,Santa Clara Broncos,2025-11-27,68.5619637,included_game_day
+2026,2541,Santa Clara Broncos,2025-11-28,74.53949922000001,included_game_day
+2026,2541,Santa Clara Broncos,2025-12-03,71.690807398,included_game_day
+2026,2541,Santa Clara Broncos,2025-12-06,42.3925396402,included_game_day
+2026,2541,Santa Clara Broncos,2025-12-13,41.4823499087754,included_game_day
+2026,2541,Santa Clara Broncos,2025-12-17,39.80381077351636,included_game_day
+2026,2541,Santa Clara Broncos,2025-12-20,25.880532050385252,included_game_day
+2026,2541,Santa Clara Broncos,2025-12-28,64.69749876659459,included_game_day
+2026,2541,Santa Clara Broncos,2025-12-30,63.284610144121814,included_game_day
+2026,2541,Santa Clara Broncos,2026-01-02,66.1109901234366,included_game_day
+2026,2541,Santa Clara Broncos,2026-01-04,82.63996256687561,included_game_day
+2026,2541,Santa Clara Broncos,2026-01-08,84.9740278161077,included_game_day
+2026,2541,Santa Clara Broncos,2026-01-10,105.79742308233531,included_game_day
+2026,2541,Santa Clara Broncos,2026-01-14,109.94697101372037,included_game_day
+2026,2541,Santa Clara Broncos,2026-01-17,115.33942855406515,included_game_day
+2026,2541,Santa Clara Broncos,2026-01-24,116.63216242355641,included_game_day
+2026,2541,Santa Clara Broncos,2026-01-28,121.22066404717702,included_game_day
+2026,2541,Santa Clara Broncos,2026-01-31,138.72639576531122,included_game_day
+2026,2541,Santa Clara Broncos,2026-02-04,146.77856308933346,included_game_day
+2026,2541,Santa Clara Broncos,2026-02-07,141.30874666989897,included_game_day
+2026,2541,Santa Clara Broncos,2026-02-11,135.82043568900863,included_game_day
+2026,2541,Santa Clara Broncos,2026-02-14,128.1783586435985,included_game_day
+2026,2541,Santa Clara Broncos,2026-02-21,137.5767849379849,included_game_day
+2026,2541,Santa Clara Broncos,2026-02-25,122.17067290949724,included_game_day
+2026,2541,Santa Clara Broncos,2026-02-28,127.37252848066173,included_game_day
+2026,2541,Santa Clara Broncos,2026-03-08,124.71480856619921,included_game_day
+2026,2541,Santa Clara Broncos,2026-03-09,134.22212413363712,included_game_day
+2026,2541,Santa Clara Broncos,2026-03-10,126.522128183641,included_game_day
+2026,2541,Santa Clara Broncos,2026-03-20,122.06063621758261,included_game_day
+2027,2541,Santa Clara Broncos,2026-11-02,16.0,included_game_day
+2027,2541,Santa Clara Broncos,2026-11-04,31.5,included_game_day
+2027,2541,Santa Clara Broncos,2026-11-07,31.35,included_game_day
+2027,2541,Santa Clara Broncos,2026-11-11,37.125,included_game_day
+2027,2541,Santa Clara Broncos,2026-11-14,42.7055,included_game_day
+2027,2541,Santa Clara Broncos,2026-11-19,32.999430000000004,included_game_day
+2027,2541,Santa Clara Broncos,2026-11-23,31.944705000000003,included_game_day

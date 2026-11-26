@@ -1,0 +1,1223 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,257,Richmond,1987-11-27,2.0,included_game_day
+1988,257,Richmond,1987-11-28,-11.43,included_game_day
+1988,257,Richmond,1987-12-04,-4.387,included_game_day
+1988,257,Richmond,1987-12-05,15.4224,included_game_day
+1988,257,Richmond,1987-12-09,27.37752,included_game_day
+1988,257,Richmond,1987-12-18,30.489622659000002,included_game_day
+1988,257,Richmond,1987-12-19,37.2779449641,included_game_day
+1988,257,Richmond,1987-12-22,50.047570209789995,included_game_day
+1988,257,Richmond,1988-01-04,29.852404286131996,included_game_day
+1988,257,Richmond,1988-01-06,51.780923010896316,included_game_day
+1988,257,Richmond,1988-01-09,55.42385597006281,included_game_day
+1988,257,Richmond,1988-01-11,49.09996837705621,included_game_day
+1988,257,Richmond,1988-01-13,55.93263528277907,included_game_day
+1988,257,Richmond,1988-01-16,64.42611634453375,included_game_day
+1988,257,Richmond,1988-01-20,52.3451952655915,included_game_day
+1988,257,Richmond,1988-01-23,43.170993388192784,included_game_day
+1988,257,Richmond,1988-01-27,44.06993672939586,included_game_day
+1988,257,Richmond,1988-01-30,45.90380969767649,included_game_day
+1988,257,Richmond,1988-02-02,44.91026848028106,included_game_day
+1988,257,Richmond,1988-02-06,26.455629671891405,included_game_day
+1988,257,Richmond,1988-02-10,11.12146072207122,included_game_day
+1988,257,Richmond,1988-02-13,20.458174427360685,included_game_day
+1988,257,Richmond,1988-02-15,15.944716028661125,included_game_day
+1988,257,Richmond,1988-02-17,19.973140669591462,included_game_day
+1988,257,Richmond,1988-02-20,18.555909581030335,included_game_day
+1988,257,Richmond,1988-02-24,17.290845957480975,included_game_day
+1988,257,Richmond,1988-02-27,18.22826281125793,included_game_day
+1988,257,Richmond,1988-03-05,33.72123491457881,included_game_day
+1988,257,Richmond,1988-03-06,29.925656569660923,included_game_day
+1988,257,Richmond,1988-03-07,32.970374493953884,included_game_day
+1988,257,Richmond,1988-03-18,46.14526262593765,included_game_day
+1988,257,Richmond,1988-03-20,54.67359752809351,included_game_day
+1988,257,Richmond,1988-03-24,45.24083687433668,included_game_day
+1989,257,Richmond,1988-11-25,15.0,included_game_day
+1989,257,Richmond,1988-11-26,5.6,included_game_day
+1989,257,Richmond,1988-11-28,21.04,included_game_day
+1989,257,Richmond,1988-12-02,5.035999999999998,included_game_day
+1989,257,Richmond,1988-12-05,3.032899999999998,included_game_day
+1989,257,Richmond,1988-12-07,15.729609999999997,included_game_day
+1989,257,Richmond,1988-12-10,11.891035918499998,included_game_day
+1989,257,Richmond,1988-12-20,4.580938892649998,included_game_day
+1989,257,Richmond,1988-12-29,-9.838389822590738,included_game_day
+1989,257,Richmond,1988-12-30,-3.8203540926052977,included_game_day
+1989,257,Richmond,1989-01-05,8.919131314060387,included_game_day
+1989,257,Richmond,1989-01-07,-4.765138071148485,included_game_day
+1989,257,Richmond,1989-01-09,-3.7085458156874065,included_game_day
+1989,257,Richmond,1989-01-11,20.91895526860143,included_game_day
+1989,257,Richmond,1989-01-14,16.26050058661094,included_game_day
+1989,257,Richmond,1989-01-18,14.583368392827474,included_game_day
+1989,257,Richmond,1989-01-21,37.14871106015141,included_game_day
+1989,257,Richmond,1989-01-25,35.645145704800015,included_game_day
+1989,257,Richmond,1989-01-28,29.527789432911227,included_game_day
+1989,257,Richmond,1989-02-02,33.91621473220628,included_game_day
+1989,257,Richmond,1989-02-04,30.046049479263182,included_game_day
+1989,257,Richmond,1989-02-08,24.70124988640579,included_game_day
+1989,257,Richmond,1989-02-11,39.55602384860909,included_game_day
+1989,257,Richmond,1989-02-15,43.30385096673069,included_game_day
+1989,257,Richmond,1989-02-18,42.27436198252955,included_game_day
+1989,257,Richmond,1989-02-22,52.42540060184117,included_game_day
+1989,257,Richmond,1989-02-25,45.2030853952905,included_game_day
+1989,257,Richmond,1989-03-04,44.58819525355899,included_game_day
+1989,257,Richmond,1989-03-05,36.89366780300059,included_game_day
+1989,257,Richmond,1989-03-15,53.649662278832544,included_game_day
+1989,257,Richmond,1989-03-21,46.67711369154538,included_game_day
+1990,257,Richmond,1989-11-15,-6.0,included_game_day
+1990,257,Richmond,1989-11-28,-13.2,included_game_day
+1990,257,Richmond,1989-12-01,-8.6,included_game_day
+1990,257,Richmond,1989-12-02,-2.3430999999999997,included_game_day
+1990,257,Richmond,1989-12-04,-7.822089999999999,included_game_day
+1990,257,Richmond,1989-12-06,6.023339,included_game_day
+1990,257,Richmond,1989-12-09,14.9914751,included_game_day
+1990,257,Richmond,1989-12-20,16.736538590000002,included_game_day
+1990,257,Richmond,1989-12-21,8.839517804349002,included_game_day
+1990,257,Richmond,1989-12-28,24.217128330869116,included_game_day
+1990,257,Richmond,1989-12-30,8.134096229030963,included_game_day
+1990,257,Richmond,1990-01-08,15.141422563760868,included_game_day
+1990,257,Richmond,1990-01-10,14.334019356548367,included_game_day
+1990,257,Richmond,1990-01-13,30.103802343584782,included_game_day
+1990,257,Richmond,1990-01-15,27.687911695908838,included_game_day
+1990,257,Richmond,1990-01-17,6.65243186909122,included_game_day
+1990,257,Richmond,1990-01-20,17.06481073680926,included_game_day
+1990,257,Richmond,1990-01-24,26.479146040177334,included_game_day
+1990,257,Richmond,1990-01-27,21.012467942894453,included_game_day
+1990,257,Richmond,1990-01-29,15.970994909852033,included_game_day
+1990,257,Richmond,1990-02-02,-13.075282184301846,included_game_day
+1990,257,Richmond,1990-02-07,-12.220327467610675,included_game_day
+1990,257,Richmond,1990-02-10,9.474135689873735,included_game_day
+1990,257,Richmond,1990-02-12,7.252168606657519,included_game_day
+1990,257,Richmond,1990-02-14,12.135513057062422,included_game_day
+1990,257,Richmond,1990-02-17,9.94448764779608,included_game_day
+1990,257,Richmond,1990-02-21,4.7799702016924055,included_game_day
+1990,257,Richmond,1990-02-24,7.956873431180981,included_game_day
+1990,257,Richmond,1990-03-03,14.28340839070409,included_game_day
+1990,257,Richmond,1990-03-04,12.491031895243028,included_game_day
+1990,257,Richmond,1990-03-05,19.429685953134204,included_game_day
+1990,257,Richmond,1990-03-16,-2.808033363882032,included_game_day
+1991,257,Richmond,1990-11-23,8.0,included_game_day
+1991,257,Richmond,1990-11-24,-37.7,included_game_day
+1991,257,Richmond,1990-12-01,-30.42,included_game_day
+1991,257,Richmond,1990-12-05,-22.868000000000002,included_game_day
+1991,257,Richmond,1990-12-09,-6.993414700000002,included_game_day
+1991,257,Richmond,1990-12-11,8.961508971299999,included_game_day
+1991,257,Richmond,1990-12-22,-10.72290552583,included_game_day
+1991,257,Richmond,1990-12-28,-13.641565681247,included_game_day
+1991,257,Richmond,1990-12-29,-20.057804696346846,included_game_day
+1991,257,Richmond,1991-01-03,-6.83789944244506,included_game_day
+1991,257,Richmond,1991-01-07,-20.088425715253116,included_game_day
+1991,257,Richmond,1991-01-09,-23.247641204322694,included_game_day
+1991,257,Richmond,1991-01-12,-36.44140321999513,included_game_day
+1991,257,Richmond,1991-01-16,-33.43127859806115,included_game_day
+1991,257,Richmond,1991-01-19,-16.364936051440775,included_game_day
+1991,257,Richmond,1991-01-21,-20.950566418045092,included_game_day
+1991,257,Richmond,1991-01-23,-10.307048281695627,included_game_day
+1991,257,Richmond,1991-01-26,5.333619087441493,included_game_day
+1991,257,Richmond,1991-02-02,18.657786992583592,included_game_day
+1991,257,Richmond,1991-02-04,21.09159446288396,included_game_day
+1991,257,Richmond,1991-02-06,37.334047304906136,included_game_day
+1991,257,Richmond,1991-02-09,55.02143177672671,included_game_day
+1991,257,Richmond,1991-02-13,57.55230448674746,included_game_day
+1991,257,Richmond,1991-02-16,68.467952662254,included_game_day
+1991,257,Richmond,1991-02-20,67.49210463041115,included_game_day
+1991,257,Richmond,1991-02-23,56.777038494762046,included_game_day
+1991,257,Richmond,1991-03-02,66.74510964332306,included_game_day
+1991,257,Richmond,1991-03-03,65.16268459039817,included_game_day
+1991,257,Richmond,1991-03-04,60.148903714669764,included_game_day
+1991,257,Richmond,1991-03-14,71.91896775149326,included_game_day
+1991,257,Richmond,1991-03-16,60.185527554357016,included_game_day
+1992,257,Richmond,1991-11-22,-4.0,included_game_day
+1992,257,Richmond,1991-11-24,9.4,included_game_day
+1992,257,Richmond,1991-11-29,38.46,included_game_day
+1992,257,Richmond,1991-11-30,49.444500000000005,included_game_day
+1992,257,Richmond,1991-12-04,47.67005,included_game_day
+1992,257,Richmond,1991-12-07,45.862045,included_game_day
+1992,257,Richmond,1991-12-10,55.43213637,included_game_day
+1992,257,Richmond,1991-12-21,43.243119113,included_game_day
+1992,257,Richmond,1991-12-28,45.4156969879,included_game_day
+1992,257,Richmond,1991-12-29,51.2740259962017,included_game_day
+1992,257,Richmond,1992-01-02,53.28914885765807,included_game_day
+1992,257,Richmond,1992-01-06,44.223610278104864,included_game_day
+1992,257,Richmond,1992-01-08,47.60380601815072,included_game_day
+1992,257,Richmond,1992-01-11,44.926164135240086,included_game_day
+1992,257,Richmond,1992-01-13,49.62393230426987,included_game_day
+1992,257,Richmond,1992-01-18,57.38573833716834,included_game_day
+1992,257,Richmond,1992-01-22,54.757374335021794,included_game_day
+1992,257,Richmond,1992-01-25,45.901442993605464,included_game_day
+1992,257,Richmond,1992-01-29,55.63757486033123,included_game_day
+1992,257,Richmond,1992-02-03,39.50499227822633,included_game_day
+1992,257,Richmond,1992-02-08,55.20023291074645,included_game_day
+1992,257,Richmond,1992-02-10,53.82765944570319,included_game_day
+1992,257,Richmond,1992-02-15,75.90995123440933,included_game_day
+1992,257,Richmond,1992-02-17,66.2823683799723,included_game_day
+1992,257,Richmond,1992-02-22,80.32367867268613,included_game_day
+1992,257,Richmond,1992-02-26,92.96838417621797,included_game_day
+1992,257,Richmond,1992-02-29,98.09910038944807,included_game_day
+1992,257,Richmond,1992-03-07,92.48553897678492,included_game_day
+1992,257,Richmond,1992-03-08,77.94314951374494,included_game_day
+1992,257,Richmond,1992-03-18,66.28778426191454,included_game_day
+1993,257,Richmond,1992-12-05,9.0,included_game_day
+1993,257,Richmond,1992-12-07,27.17,included_game_day
+1993,257,Richmond,1992-12-09,6.755600000000001,included_game_day
+1993,257,Richmond,1992-12-19,-1.4815999999999985,included_game_day
+1993,257,Richmond,1992-12-28,-13.770654229999998,included_game_day
+1993,257,Richmond,1992-12-29,-17.582341336412,included_game_day
+1993,257,Richmond,1993-01-02,-27.159578623612802,included_game_day
+1993,257,Richmond,1993-01-05,-11.750767473888303,included_game_day
+1993,257,Richmond,1993-01-09,-12.096640210655671,included_game_day
+1993,257,Richmond,1993-01-11,-6.4313104013815074,included_game_day
+1993,257,Richmond,1993-01-14,-4.778594347150229,included_game_day
+1993,257,Richmond,1993-01-16,16.40746043203318,included_game_day
+1993,257,Richmond,1993-01-20,11.645476940231994,included_game_day
+1993,257,Richmond,1993-01-23,1.5346569614004029,included_game_day
+1993,257,Richmond,1993-01-30,1.647951890985107,included_game_day
+1993,257,Richmond,1993-02-03,16.28938325168658,included_game_day
+1993,257,Richmond,1993-02-06,41.705555464875836,included_game_day
+1993,257,Richmond,1993-02-08,45.22953038179121,included_game_day
+1993,257,Richmond,1993-02-13,45.743233481294574,included_game_day
+1993,257,Richmond,1993-02-15,51.088123732410615,included_game_day
+1993,257,Richmond,1993-02-17,43.66033067230822,included_game_day
+1993,257,Richmond,1993-02-20,40.5700351807293,included_game_day
+1993,257,Richmond,1993-02-22,36.61393128243955,included_game_day
+1993,257,Richmond,1993-02-24,24.058003581060298,included_game_day
+1993,257,Richmond,1993-02-27,29.591535712927545,included_game_day
+1993,257,Richmond,1993-03-01,48.74598723974006,included_game_day
+1993,257,Richmond,1993-03-06,30.237998173000022,included_game_day
+1994,257,Richmond,1993-11-29,11.0,included_game_day
+1994,257,Richmond,1993-12-01,31.9,included_game_day
+1994,257,Richmond,1993-12-04,29.4256,included_game_day
+1994,257,Richmond,1993-12-18,52.7978466,included_game_day
+1994,257,Richmond,1993-12-21,30.2213539,included_game_day
+1994,257,Richmond,1993-12-23,26.81816634,included_game_day
+1994,257,Richmond,1993-12-30,16.660325936871,included_game_day
+1994,257,Richmond,1994-01-03,31.7111516475461,included_game_day
+1994,257,Richmond,1994-01-05,24.283281623213234,included_game_day
+1994,257,Richmond,1994-01-08,0.023352397807293812,included_game_day
+1994,257,Richmond,1994-01-11,-0.8969040676595652,included_game_day
+1994,257,Richmond,1994-01-13,-2.3145721477863415,included_game_day
+1994,257,Richmond,1994-01-15,-23.2000881443888,included_game_day
+1994,257,Richmond,1994-01-17,-7.617268787150225,included_game_day
+1994,257,Richmond,1994-01-19,-12.59854900083076,included_game_day
+1994,257,Richmond,1994-01-22,-4.110544320746692,included_game_day
+1994,257,Richmond,1994-01-26,0.19030429149031303,included_game_day
+1994,257,Richmond,1994-01-29,5.865694556150773,included_game_day
+1994,257,Richmond,1994-02-05,31.68377460322175,included_game_day
+1994,257,Richmond,1994-02-07,16.806152567511006,included_game_day
+1994,257,Richmond,1994-02-09,30.09554410794643,included_game_day
+1994,257,Richmond,1994-02-12,17.22291855754176,included_game_day
+1994,257,Richmond,1994-02-16,37.02895357792488,included_game_day
+1994,257,Richmond,1994-02-19,31.406071887042962,included_game_day
+1994,257,Richmond,1994-02-23,22.866105001880015,included_game_day
+1994,257,Richmond,1994-02-26,21.811419581954162,included_game_day
+1994,257,Richmond,1994-03-05,21.27689913625787,included_game_day
+1994,257,Richmond,1994-03-06,24.092386799270617,included_game_day
+1995,257,Richmond,1994-11-26,-27.0,included_game_day
+1995,257,Richmond,1994-11-28,-27.3,included_game_day
+1995,257,Richmond,1994-12-03,-1.5700000000000003,included_game_day
+1995,257,Richmond,1994-12-05,0.9659999999999997,included_game_day
+1995,257,Richmond,1994-12-08,-2.4258600000000006,included_game_day
+1995,257,Richmond,1994-12-11,0.19485259999999904,included_game_day
+1995,257,Richmond,1994-12-22,-25.11337046,included_game_day
+1995,257,Richmond,1994-12-28,-38.837837086867,included_game_day
+1995,257,Richmond,1994-12-29,-38.151112494934296,included_game_day
+1995,257,Richmond,1995-01-03,-38.05458671371387,included_game_day
+1995,257,Richmond,1995-01-07,-49.665522566903746,included_game_day
+1995,257,Richmond,1995-01-11,-47.31033017990343,included_game_day
+1995,257,Richmond,1995-01-14,-41.91682916673119,included_game_day
+1995,257,Richmond,1995-01-18,-36.06735325530539,included_game_day
+1995,257,Richmond,1995-01-21,-37.95293429798591,included_game_day
+1995,257,Richmond,1995-01-24,-44.686183457858164,included_game_day
+1995,257,Richmond,1995-01-28,-59.836452815828466,included_game_day
+1995,257,Richmond,1995-01-30,-64.14084498394598,included_game_day
+1995,257,Richmond,1995-02-01,-79.84546006640664,included_game_day
+1995,257,Richmond,1995-02-04,-71.80043605956806,included_game_day
+1995,257,Richmond,1995-02-08,-70.8555717753533,included_game_day
+1995,257,Richmond,1995-02-11,-69.23611127224176,included_game_day
+1995,257,Richmond,1995-02-13,-75.0725592808893,included_game_day
+1995,257,Richmond,1995-02-18,-83.5843023993607,included_game_day
+1995,257,Richmond,1995-02-22,-81.14221810192008,included_game_day
+1995,257,Richmond,1995-02-25,-70.80675104779556,included_game_day
+1995,257,Richmond,1995-03-04,-55.44379217409994,included_game_day
+1995,257,Richmond,1995-03-05,-60.33668569931077,included_game_day
+1996,257,Richmond,1995-11-25,10.0,included_game_day
+1996,257,Richmond,1995-11-28,7.629,included_game_day
+1996,257,Richmond,1995-12-01,7.4331,included_game_day
+1996,257,Richmond,1995-12-02,-5.6414100000000005,included_game_day
+1996,257,Richmond,1995-12-05,-1.9233690000000006,included_game_day
+1996,257,Richmond,1995-12-09,-18.0851511,included_game_day
+1996,257,Richmond,1995-12-29,-2.795113067000001,included_game_day
+1996,257,Richmond,1995-12-30,-9.325564552739001,included_game_day
+1996,257,Richmond,1996-01-04,-11.7192767648551,included_game_day
+1996,257,Richmond,1996-01-06,-29.209892292247503,included_game_day
+1996,257,Richmond,1996-01-10,-32.590659344202955,included_game_day
+1996,257,Richmond,1996-01-13,-48.341576320857655,included_game_day
+1996,257,Richmond,1996-01-15,-41.33486955070386,included_game_day
+1996,257,Richmond,1996-01-17,-60.051930494408325,included_game_day
+1996,257,Richmond,1996-01-20,-75.0472947789225,included_game_day
+1996,257,Richmond,1996-01-24,-79.36905792299454,included_game_day
+1996,257,Richmond,1996-01-27,-73.76873274906181,included_game_day
+1996,257,Richmond,1996-01-29,-58.00027498325224,included_game_day
+1996,257,Richmond,1996-01-31,-61.16562859134877,included_game_day
+1996,257,Richmond,1996-02-03,-69.16599642479612,included_game_day
+1996,257,Richmond,1996-02-07,-64.60996756120491,included_game_day
+1996,257,Richmond,1996-02-10,-64.71512769229741,included_game_day
+1996,257,Richmond,1996-02-17,-63.15081325753543,included_game_day
+1996,257,Richmond,1996-02-21,-69.20418683553419,included_game_day
+1996,257,Richmond,1996-02-24,-59.74948983811532,included_game_day
+1996,257,Richmond,1996-02-26,-55.17381987363565,included_game_day
+1996,257,Richmond,1996-03-01,-38.62273265794849,included_game_day
+1996,257,Richmond,1996-03-02,-59.171650778030084,included_game_day
+1997,257,Richmond,1996-11-25,-9.1,included_game_day
+1997,257,Richmond,1996-11-27,18.61,included_game_day
+1997,257,Richmond,1996-12-01,-3.5450000000000017,included_game_day
+1997,257,Richmond,1996-12-05,-6.370575000000001,included_game_day
+1997,257,Richmond,1996-12-19,3.8344125,included_game_day
+1997,257,Richmond,1996-12-27,16.165644389592,included_game_day
+1997,257,Richmond,1996-12-28,15.513171855722799,included_game_day
+1997,257,Richmond,1997-01-02,26.38997407319052,included_game_day
+1997,257,Richmond,1997-01-04,16.056526961216708,included_game_day
+1997,257,Richmond,1997-01-08,10.069434333874037,included_game_day
+1997,257,Richmond,1997-01-11,11.444903986054642,included_game_day
+1997,257,Richmond,1997-01-15,0.11154113735407023,included_game_day
+1997,257,Richmond,1997-01-18,2.248494819322371,included_game_day
+1997,257,Richmond,1997-01-20,-1.3869909121330233,included_game_day
+1997,257,Richmond,1997-01-25,-20.80758906929436,included_game_day
+1997,257,Richmond,1997-01-27,-8.75682107657367,included_game_day
+1997,257,Richmond,1997-01-30,-12.961466736700714,included_game_day
+1997,257,Richmond,1997-02-01,-19.681765781377216,included_game_day
+1997,257,Richmond,1997-02-05,-8.191784556149937,included_game_day
+1997,257,Richmond,1997-02-08,-12.82502037683317,included_game_day
+1997,257,Richmond,1997-02-12,-17.547579891625112,included_game_day
+1997,257,Richmond,1997-02-15,-10.69702258213203,included_game_day
+1997,257,Richmond,1997-02-17,-1.0773290753119653,included_game_day
+1997,257,Richmond,1997-02-19,2.194863294360305,included_game_day
+1997,257,Richmond,1997-02-22,9.702334120154323,included_game_day
+1997,257,Richmond,1997-02-24,3.8505971664267147,included_game_day
+1997,257,Richmond,1997-02-28,25.554568272694915,included_game_day
+1997,257,Richmond,1997-03-01,14.171202008424807,included_game_day
+1998,257,Richmond,1997-11-16,1.0,included_game_day
+1998,257,Richmond,1997-11-19,-18.6,included_game_day
+1998,257,Richmond,1997-11-24,12.462499999999999,included_game_day
+1998,257,Richmond,1997-11-29,16.55225,included_game_day
+1998,257,Richmond,1997-12-05,47.56194657,included_game_day
+1998,257,Richmond,1997-12-06,48.044894913,included_game_day
+1998,257,Richmond,1997-12-20,66.52033852686,included_game_day
+1998,257,Richmond,1997-12-29,71.93422294797276,included_game_day
+1998,257,Richmond,1997-12-30,69.4473954456535,included_game_day
+1998,257,Richmond,1998-01-03,81.92910989379709,included_game_day
+1998,257,Richmond,1998-01-07,77.99108768208366,included_game_day
+1998,257,Richmond,1998-01-10,68.19900752343078,included_game_day
+1998,257,Richmond,1998-01-14,73.64908817184549,included_game_day
+1998,257,Richmond,1998-01-17,58.8595549123973,included_game_day
+1998,257,Richmond,1998-01-19,69.3787938686401,included_game_day
+1998,257,Richmond,1998-01-21,58.12576607607525,included_game_day
+1998,257,Richmond,1998-01-24,57.35873395856788,included_game_day
+1998,257,Richmond,1998-01-28,66.86845754869702,included_game_day
+1998,257,Richmond,1998-01-31,56.25573667320849,included_game_day
+1998,257,Richmond,1998-02-04,61.52166825750736,included_game_day
+1998,257,Richmond,1998-02-07,62.51958073387193,included_game_day
+1998,257,Richmond,1998-02-09,58.557572569765625,included_game_day
+1998,257,Richmond,1998-02-16,88.80624793980927,included_game_day
+1998,257,Richmond,1998-02-18,86.19570785374938,included_game_day
+1998,257,Richmond,1998-02-21,74.1670436036049,included_game_day
+1998,257,Richmond,1998-02-23,70.22551561765351,included_game_day
+1998,257,Richmond,1998-02-25,74.33217970025603,included_game_day
+1998,257,Richmond,1998-02-28,61.10374954246646,included_game_day
+1998,257,Richmond,1998-03-01,70.35230534608102,included_game_day
+1998,257,Richmond,1998-03-12,73.44851698471945,included_game_day
+1998,257,Richmond,1998-03-14,57.75152403973442,included_game_day
+1999,257,Richmond,1998-11-14,3.0,included_game_day
+1999,257,Richmond,1998-11-19,-10.4,included_game_day
+1999,257,Richmond,1998-11-21,-4.0600000000000005,included_game_day
+1999,257,Richmond,1998-11-28,23.962600000000002,included_game_day
+1999,257,Richmond,1998-12-01,16.64754,included_game_day
+1999,257,Richmond,1998-12-05,16.9323456298,included_game_day
+1999,257,Richmond,1998-12-18,31.58610246082,included_game_day
+1999,257,Richmond,1998-12-19,19.134710740138,included_game_day
+1999,257,Richmond,1998-12-29,18.356820944352823,included_game_day
+1999,257,Richmond,1998-12-30,16.4227900165669,included_game_day
+1999,257,Richmond,1999-01-02,36.56298185306369,included_game_day
+1999,257,Richmond,1999-01-04,25.006106739274227,included_game_day
+1999,257,Richmond,1999-01-09,24.682158253170414,included_game_day
+1999,257,Richmond,1999-01-11,31.054034846747435,included_game_day
+1999,257,Richmond,1999-01-13,10.907811049835601,included_game_day
+1999,257,Richmond,1999-01-18,5.394382153944875,included_game_day
+1999,257,Richmond,1999-01-20,6.835646218307422,included_game_day
+1999,257,Richmond,1999-01-23,5.6183040951135785,included_game_day
+1999,257,Richmond,1999-01-27,12.501482194836171,included_game_day
+1999,257,Richmond,1999-01-30,4.591930882704575,included_game_day
+1999,257,Richmond,1999-02-06,-1.1128049895274144,included_game_day
+1999,257,Richmond,1999-02-08,5.555260223213755,included_game_day
+1999,257,Richmond,1999-02-10,3.336027888142711,included_game_day
+1999,257,Richmond,1999-02-13,14.39816117440576,included_game_day
+1999,257,Richmond,1999-02-17,-0.9408495696359775,included_game_day
+1999,257,Richmond,1999-02-20,5.95962812434842,included_game_day
+1999,257,Richmond,1999-02-26,1.724715714923322,included_game_day
+2000,257,Richmond,1999-11-22,-6.8,included_game_day
+2000,257,Richmond,1999-11-24,-0.7999999999999998,included_game_day
+2000,257,Richmond,1999-12-01,8.169039999999999,included_game_day
+2000,257,Richmond,1999-12-03,4.109935999999999,included_game_day
+2000,257,Richmond,1999-12-04,14.5572564,included_game_day
+2000,257,Richmond,1999-12-07,6.016576787,included_game_day
+2000,257,Richmond,1999-12-16,14.387199718623,included_game_day
+2000,257,Richmond,1999-12-18,19.1778448438106,included_game_day
+2000,257,Richmond,1999-12-21,20.25284433522954,included_game_day
+2000,257,Richmond,1999-12-28,12.245619650371786,included_game_day
+2000,257,Richmond,1999-12-30,25.590025381033406,included_game_day
+2000,257,Richmond,2000-01-05,26.06375561223875,included_game_day
+2000,257,Richmond,2000-01-08,16.09652217358342,included_game_day
+2000,257,Richmond,2000-01-12,22.374411704753786,included_game_day
+2000,257,Richmond,2000-01-15,27.10341100346387,included_game_day
+2000,257,Richmond,2000-01-18,34.81833864985789,included_game_day
+2000,257,Richmond,2000-01-22,40.107457461438685,included_game_day
+2000,257,Richmond,2000-01-26,34.53351756891518,included_game_day
+2000,257,Richmond,2000-01-29,34.79684484041932,included_game_day
+2000,257,Richmond,2000-02-02,30.4075006604082,included_game_day
+2000,257,Richmond,2000-02-08,31.32351990906612,included_game_day
+2000,257,Richmond,2000-02-10,26.87592979717166,included_game_day
+2000,257,Richmond,2000-02-12,38.93150280569145,included_game_day
+2000,257,Richmond,2000-02-16,35.92643002974779,included_game_day
+2000,257,Richmond,2000-02-19,43.42824355765774,included_game_day
+2000,257,Richmond,2000-02-23,35.653099965633565,included_game_day
+2000,257,Richmond,2000-02-26,29.643460963266136,included_game_day
+2000,257,Richmond,2000-03-04,38.02430998988354,included_game_day
+2000,257,Richmond,2000-03-05,50.90430147403541,included_game_day
+2000,257,Richmond,2000-03-06,40.428872152610985,included_game_day
+2001,257,Richmond,2000-11-17,32.0,included_game_day
+2001,257,Richmond,2000-11-20,25.490000000000002,included_game_day
+2001,257,Richmond,2000-11-25,39.991,included_game_day
+2001,257,Richmond,2000-12-02,56.89205,included_game_day
+2001,257,Richmond,2000-12-06,69.3435444,included_game_day
+2001,257,Richmond,2000-12-09,73.31268236,included_game_day
+2001,257,Richmond,2000-12-12,71.23089066239,included_game_day
+2001,257,Richmond,2000-12-21,85.373975376151,included_game_day
+2001,257,Richmond,2000-12-29,75.33986741116483,included_game_day
+2001,257,Richmond,2000-12-30,68.82054178482014,included_game_day
+2001,257,Richmond,2001-01-03,57.95723683411255,included_game_day
+2001,257,Richmond,2001-01-06,72.49033212509872,included_game_day
+2001,257,Richmond,2001-01-09,61.86404249893273,included_game_day
+2001,257,Richmond,2001-01-12,65.11647576739385,included_game_day
+2001,257,Richmond,2001-01-17,67.89917267398889,included_game_day
+2001,257,Richmond,2001-01-20,50.12681406367959,included_game_day
+2001,257,Richmond,2001-01-24,43.28871739777142,included_game_day
+2001,257,Richmond,2001-01-27,46.692736282259865,included_game_day
+2001,257,Richmond,2001-01-31,42.98255477905953,included_game_day
+2001,257,Richmond,2001-02-03,46.75271883923391,included_game_day
+2001,257,Richmond,2001-02-05,58.031146992230084,included_game_day
+2001,257,Richmond,2001-02-10,50.870955557467035,included_game_day
+2001,257,Richmond,2001-02-14,50.03750266487998,included_game_day
+2001,257,Richmond,2001-02-17,46.211792714850816,included_game_day
+2001,257,Richmond,2001-02-21,71.05816138134743,included_game_day
+2001,257,Richmond,2001-02-24,87.22575055805753,included_game_day
+2001,257,Richmond,2001-02-27,100.52739647391668,included_game_day
+2001,257,Richmond,2001-03-16,112.06426989012513,included_game_day
+2001,257,Richmond,2001-03-19,95.34680467947183,included_game_day
+2002,257,Richmond Spiders,2001-11-16,-2.0,included_game_day
+2002,257,Richmond Spiders,2001-11-24,1.403,included_game_day
+2002,257,Richmond Spiders,2001-11-28,14.27696,included_game_day
+2002,257,Richmond Spiders,2001-12-01,0.5831239999999998,included_game_day
+2002,257,Richmond Spiders,2001-12-05,-9.137858099999999,included_game_day
+2002,257,Richmond Spiders,2001-12-08,-24.40248869,included_game_day
+2002,257,Richmond Spiders,2001-12-17,-36.6431769136018,included_game_day
+2002,257,Richmond Spiders,2001-12-20,-27.00841552794162,included_game_day
+2002,257,Richmond Spiders,2001-12-22,-13.160671089622756,included_game_day
+2002,257,Richmond Spiders,2001-12-28,-19.00891619550348,included_game_day
+2002,257,Richmond Spiders,2001-12-29,-17.021664600801955,included_game_day
+2002,257,Richmond Spiders,2002-01-02,-19.291118242136374,included_game_day
+2002,257,Richmond Spiders,2002-01-05,1.8099212518151013,included_game_day
+2002,257,Richmond Spiders,2002-01-12,3.798633492197995,included_game_day
+2002,257,Richmond Spiders,2002-01-16,8.328706124782089,included_game_day
+2002,257,Richmond Spiders,2002-01-19,6.396844752650049,included_game_day
+2002,257,Richmond Spiders,2002-01-23,16.83798135294358,included_game_day
+2002,257,Richmond Spiders,2002-01-26,8.198067600847278,included_game_day
+2002,257,Richmond Spiders,2002-01-30,9.08998215600179,included_game_day
+2002,257,Richmond Spiders,2002-02-02,12.464132445333359,included_game_day
+2002,257,Richmond Spiders,2002-02-06,31.600597340670195,included_game_day
+2002,257,Richmond Spiders,2002-02-16,27.198330463496966,included_game_day
+2002,257,Richmond Spiders,2002-02-20,22.570723096407242,included_game_day
+2002,257,Richmond Spiders,2002-02-23,11.743514315339398,included_game_day
+2002,257,Richmond Spiders,2002-02-27,19.353781691328578,included_game_day
+2002,257,Richmond Spiders,2002-03-02,42.81809330819782,included_game_day
+2002,257,Richmond Spiders,2002-03-07,46.56324547544585,included_game_day
+2002,257,Richmond Spiders,2002-03-08,48.962888881251324,included_game_day
+2002,257,Richmond Spiders,2002-03-09,43.692171157492616,included_game_day
+2002,257,Richmond Spiders,2002-03-13,44.71416269793694,included_game_day
+2002,257,Richmond Spiders,2002-03-16,56.24424229797576,included_game_day
+2002,257,Richmond Spiders,2002-03-18,59.144510346545,included_game_day
+2002,257,Richmond Spiders,2002-03-20,39.84917207047635,included_game_day
+2003,257,Richmond Spiders,2002-11-22,43.0,included_game_day
+2003,257,Richmond Spiders,2002-11-27,42.74,included_game_day
+2003,257,Richmond Spiders,2002-11-30,41.716,included_game_day
+2003,257,Richmond Spiders,2002-12-04,40.0454,included_game_day
+2003,257,Richmond Spiders,2002-12-07,35.6387788,included_game_day
+2003,257,Richmond Spiders,2002-12-16,27.646527709999997,included_game_day
+2003,257,Richmond Spiders,2002-12-17,44.0996544903,included_game_day
+2003,257,Richmond Spiders,2002-12-19,16.475939879269998,included_game_day
+2003,257,Richmond Spiders,2002-12-28,41.2242843181711,included_game_day
+2003,257,Richmond Spiders,2002-12-29,58.49436024748049,included_game_day
+2003,257,Richmond Spiders,2003-01-04,56.180662900401344,included_game_day
+2003,257,Richmond Spiders,2003-01-07,70.47433173418806,included_game_day
+2003,257,Richmond Spiders,2003-01-11,76.64217204087629,included_game_day
+2003,257,Richmond Spiders,2003-01-15,61.837000599480305,included_game_day
+2003,257,Richmond Spiders,2003-01-18,62.18768298912794,included_game_day
+2003,257,Richmond Spiders,2003-01-21,57.760840333690695,included_game_day
+2003,257,Richmond Spiders,2003-01-25,63.64510657835247,included_game_day
+2003,257,Richmond Spiders,2003-01-28,86.51673922292576,included_game_day
+2003,257,Richmond Spiders,2003-02-01,73.21004829205113,included_game_day
+2003,257,Richmond Spiders,2003-02-08,57.26027794006051,included_game_day
+2003,257,Richmond Spiders,2003-02-12,47.889620258731036,included_game_day
+2003,257,Richmond Spiders,2003-02-16,31.092587483855272,included_game_day
+2003,257,Richmond Spiders,2003-02-19,26.918349922630362,included_game_day
+2003,257,Richmond Spiders,2003-02-22,24.42100771404376,included_game_day
+2003,257,Richmond Spiders,2003-03-01,21.141429339503034,included_game_day
+2003,257,Richmond Spiders,2003-03-05,19.129769390300496,included_game_day
+2003,257,Richmond Spiders,2003-03-08,25.011356203330017,included_game_day
+2003,257,Richmond Spiders,2003-03-13,16.7774580953414,included_game_day
+2003,257,Richmond Spiders,2003-03-19,2.550898490995033,included_game_day
+2004,257,Richmond Spiders,2003-11-17,13.0,included_game_day
+2004,257,Richmond Spiders,2003-11-18,25.0,included_game_day
+2004,257,Richmond Spiders,2003-11-24,32.886,included_game_day
+2004,257,Richmond Spiders,2003-11-25,26.337900000000005,included_game_day
+2004,257,Richmond Spiders,2003-11-29,20.504110000000004,included_game_day
+2004,257,Richmond Spiders,2003-12-03,35.298129,included_game_day
+2004,257,Richmond Spiders,2003-12-06,28.8939321,included_game_day
+2004,257,Richmond Spiders,2003-12-13,39.42370889,included_game_day
+2004,257,Richmond Spiders,2003-12-20,31.926869985990002,included_game_day
+2004,257,Richmond Spiders,2003-12-23,29.126184070691004,included_game_day
+2004,257,Richmond Spiders,2003-12-29,49.676916474808806,included_game_day
+2004,257,Richmond Spiders,2003-12-31,63.65327688877203,included_game_day
+2004,257,Richmond Spiders,2004-01-03,57.79153019101,included_game_day
+2004,257,Richmond Spiders,2004-01-06,48.23612741582928,included_game_day
+2004,257,Richmond Spiders,2004-01-10,37.32232277118605,included_game_day
+2004,257,Richmond Spiders,2004-01-14,26.69632763272883,included_game_day
+2004,257,Richmond Spiders,2004-01-17,35.00905858183008,included_game_day
+2004,257,Richmond Spiders,2004-01-22,43.78826149099807,included_game_day
+2004,257,Richmond Spiders,2004-01-25,60.41110540749639,included_game_day
+2004,257,Richmond Spiders,2004-01-31,67.00981211369955,included_game_day
+2004,257,Richmond Spiders,2004-02-04,62.705622294783616,included_game_day
+2004,257,Richmond Spiders,2004-02-07,81.98454812688198,included_game_day
+2004,257,Richmond Spiders,2004-02-10,66.05686199414669,included_game_day
+2004,257,Richmond Spiders,2004-02-14,67.59060917155803,included_game_day
+2004,257,Richmond Spiders,2004-02-18,75.21235243327489,included_game_day
+2004,257,Richmond Spiders,2004-02-21,79.51208091017602,included_game_day
+2004,257,Richmond Spiders,2004-02-25,75.35060377408918,included_game_day
+2004,257,Richmond Spiders,2004-02-28,88.39954779686263,included_game_day
+2004,257,Richmond Spiders,2004-03-06,76.25863562271365,included_game_day
+2004,257,Richmond Spiders,2004-03-10,76.30914776484198,included_game_day
+2004,257,Richmond Spiders,2004-03-11,90.70719806831308,included_game_day
+2004,257,Richmond Spiders,2004-03-12,89.01863676581532,included_game_day
+2004,257,Richmond Spiders,2004-03-19,85.68705369476527,included_game_day
+2005,257,Richmond Spiders,2004-11-19,9.0,included_game_day
+2005,257,Richmond Spiders,2004-11-26,17.0106,included_game_day
+2005,257,Richmond Spiders,2004-11-28,-3.371500000000001,included_game_day
+2005,257,Richmond Spiders,2004-12-01,4.873949999999999,included_game_day
+2005,257,Richmond Spiders,2004-12-04,-4.123146400000001,included_game_day
+2005,257,Richmond Spiders,2004-12-11,-9.425000221000001,included_game_day
+2005,257,Richmond Spiders,2004-12-17,9.917299082486998,included_game_day
+2005,257,Richmond Spiders,2004-12-23,15.0637566666816,included_game_day
+2005,257,Richmond Spiders,2004-12-28,20.525432781521438,included_game_day
+2005,257,Richmond Spiders,2004-12-30,17.47950348074652,included_game_day
+2005,257,Richmond Spiders,2005-01-04,6.645051730689525,included_game_day
+2005,257,Richmond Spiders,2005-01-08,-17.72340654357344,included_game_day
+2005,257,Richmond Spiders,2005-01-12,-19.24393049991718,included_game_day
+2005,257,Richmond Spiders,2005-01-15,-14.606924712824414,included_game_day
+2005,257,Richmond Spiders,2005-01-19,-31.468620519141773,included_game_day
+2005,257,Richmond Spiders,2005-01-22,-10.004185414431134,included_game_day
+2005,257,Richmond Spiders,2005-01-26,-4.9653874061134875,included_game_day
+2005,257,Richmond Spiders,2005-01-29,0.1944151539997101,included_game_day
+2005,257,Richmond Spiders,2005-02-01,-8.040752967242177,included_game_day
+2005,257,Richmond Spiders,2005-02-05,-4.249264386897408,included_game_day
+2005,257,Richmond Spiders,2005-02-09,-21.595101466110428,included_game_day
+2005,257,Richmond Spiders,2005-02-12,-24.290312938291976,included_game_day
+2005,257,Richmond Spiders,2005-02-16,-24.252657390137315,included_game_day
+2005,257,Richmond Spiders,2005-02-19,-26.47288692964539,included_game_day
+2005,257,Richmond Spiders,2005-02-27,-13.678413255910822,included_game_day
+2005,257,Richmond Spiders,2005-03-02,-21.85205537643565,included_game_day
+2005,257,Richmond Spiders,2005-03-05,-18.048808481402922,included_game_day
+2005,257,Richmond Spiders,2005-03-09,-18.087508150766233,included_game_day
+2005,257,Richmond Spiders,2005-03-10,-17.069439709829535,included_game_day
+2006,257,Richmond Spiders,2005-11-18,1.0,included_game_day
+2006,257,Richmond Spiders,2005-11-22,-14.9,included_game_day
+2006,257,Richmond Spiders,2005-11-26,-8.41,included_game_day
+2006,257,Richmond Spiders,2005-12-01,-2.4069000000000003,included_game_day
+2006,257,Richmond Spiders,2005-12-03,-19.86591,included_game_day
+2006,257,Richmond Spiders,2005-12-04,-11.063022,included_game_day
+2006,257,Richmond Spiders,2005-12-05,-11.15047,included_game_day
+2006,257,Richmond Spiders,2005-12-10,-16.4586697308,included_game_day
+2006,257,Richmond Spiders,2005-12-20,-6.362637413956001,included_game_day
+2006,257,Richmond Spiders,2005-12-22,-11.127867167874232,included_game_day
+2006,257,Richmond Spiders,2005-12-27,-36.24938693984681,included_game_day
+2006,257,Richmond Spiders,2005-12-31,-33.89024200784958,included_game_day
+2006,257,Richmond Spiders,2006-01-02,-24.190463841201765,included_game_day
+2006,257,Richmond Spiders,2006-01-07,-31.194369605655112,included_game_day
+2006,257,Richmond Spiders,2006-01-11,-18.741197502381866,included_game_day
+2006,257,Richmond Spiders,2006-01-14,-10.971008822027029,included_game_day
+2006,257,Richmond Spiders,2006-01-18,-1.1689629505032357,included_game_day
+2006,257,Richmond Spiders,2006-01-21,-10.059741350572082,included_game_day
+2006,257,Richmond Spiders,2006-01-28,-1.383997014966214,included_game_day
+2006,257,Richmond Spiders,2006-02-01,-16.021040230981285,included_game_day
+2006,257,Richmond Spiders,2006-02-05,-25.354356533841766,included_game_day
+2006,257,Richmond Spiders,2006-02-08,-31.290106425219403,included_game_day
+2006,257,Richmond Spiders,2006-02-12,-48.93351241802441,included_game_day
+2006,257,Richmond Spiders,2006-02-15,-52.86569693426896,included_game_day
+2006,257,Richmond Spiders,2006-02-18,-52.81042772239458,included_game_day
+2006,257,Richmond Spiders,2006-02-22,-77.35381365344028,included_game_day
+2006,257,Richmond Spiders,2006-02-25,-93.06666013940621,included_game_day
+2006,257,Richmond Spiders,2006-03-01,-68.53228486215498,included_game_day
+2006,257,Richmond Spiders,2006-03-04,-70.77155476084172,included_game_day
+2006,257,Richmond Spiders,2006-03-08,-65.0101940907691,included_game_day
+2007,257,Richmond Spiders,2006-11-14,2.6,included_game_day
+2007,257,Richmond Spiders,2006-11-17,11.9,included_game_day
+2007,257,Richmond Spiders,2006-11-20,17.645,included_game_day
+2007,257,Richmond Spiders,2006-11-25,4.948499999999999,included_game_day
+2007,257,Richmond Spiders,2006-11-29,-17.325941320000002,included_game_day
+2007,257,Richmond Spiders,2006-12-02,-23.113945782000002,included_game_day
+2007,257,Richmond Spiders,2006-12-05,-4.110651203800003,included_game_day
+2007,257,Richmond Spiders,2006-12-09,-11.362273102110002,included_game_day
+2007,257,Richmond Spiders,2006-12-20,-25.093416096730003,included_game_day
+2007,257,Richmond Spiders,2006-12-22,-29.523347791642603,included_game_day
+2007,257,Richmond Spiders,2006-12-28,-43.885463382136,included_game_day
+2007,257,Richmond Spiders,2006-12-31,-45.31525125669975,included_game_day
+2007,257,Richmond Spiders,2007-01-03,-40.60244228692083,included_game_day
+2007,257,Richmond Spiders,2007-01-06,-42.51745193796438,included_game_day
+2007,257,Richmond Spiders,2007-01-10,-37.1872948000287,included_game_day
+2007,257,Richmond Spiders,2007-01-13,-53.27599355405764,included_game_day
+2007,257,Richmond Spiders,2007-01-17,-49.03724618991343,included_game_day
+2007,257,Richmond Spiders,2007-01-20,-61.12686753461934,included_game_day
+2007,257,Richmond Spiders,2007-01-24,-77.11793537753529,included_game_day
+2007,257,Richmond Spiders,2007-01-27,-87.72547130156305,included_game_day
+2007,257,Richmond Spiders,2007-01-31,-103.77918022386773,included_game_day
+2007,257,Richmond Spiders,2007-02-03,-100.74303347674064,included_game_day
+2007,257,Richmond Spiders,2007-02-07,-104.68453629872737,included_game_day
+2007,257,Richmond Spiders,2007-02-14,-98.20883025474069,included_game_day
+2007,257,Richmond Spiders,2007-02-17,-92.89879997976225,included_game_day
+2007,257,Richmond Spiders,2007-02-21,-96.75689712980054,included_game_day
+2007,257,Richmond Spiders,2007-02-24,-74.33478129583617,included_game_day
+2007,257,Richmond Spiders,2007-02-28,-71.1391894579535,included_game_day
+2007,257,Richmond Spiders,2007-03-03,-63.210087274626495,included_game_day
+2007,257,Richmond Spiders,2007-03-07,-53.19640202931385,included_game_day
+2008,257,Richmond Spiders,2007-11-05,2.0,included_game_day
+2008,257,Richmond Spiders,2007-11-06,-9.4,included_game_day
+2008,257,Richmond Spiders,2007-11-10,-14.46,included_game_day
+2008,257,Richmond Spiders,2007-11-13,-8.014000000000001,included_game_day
+2008,257,Richmond Spiders,2007-11-17,-11.212600000000002,included_game_day
+2008,257,Richmond Spiders,2007-11-20,-5.075540000000002,included_game_day
+2008,257,Richmond Spiders,2007-11-24,-4.748796000000001,included_game_day
+2008,257,Richmond Spiders,2007-11-28,-7.1338164000000015,included_game_day
+2008,257,Richmond Spiders,2007-12-05,-19.360675775500003,included_game_day
+2008,257,Richmond Spiders,2007-12-08,-34.51989720195,included_game_day
+2008,257,Richmond Spiders,2007-12-19,-26.9554908886047,included_game_day
+2008,257,Richmond Spiders,2007-12-30,-25.31797232551223,included_game_day
+2008,257,Richmond Spiders,2008-01-03,-15.24611665482134,included_game_day
+2008,257,Richmond Spiders,2008-01-09,-10.502243582892632,included_game_day
+2008,257,Richmond Spiders,2008-01-12,-17.75058963919809,included_game_day
+2008,257,Richmond Spiders,2008-01-16,-10.679048303596801,included_game_day
+2008,257,Richmond Spiders,2008-01-26,10.586852105885107,included_game_day
+2008,257,Richmond Spiders,2008-01-30,7.2195069030112204,included_game_day
+2008,257,Richmond Spiders,2008-02-02,21.589511134871415,included_game_day
+2008,257,Richmond Spiders,2008-02-06,27.996539324667268,included_game_day
+2008,257,Richmond Spiders,2008-02-10,13.836892623879505,included_game_day
+2008,257,Richmond Spiders,2008-02-16,27.66193750607568,included_game_day
+2008,257,Richmond Spiders,2008-02-20,29.50143882569382,included_game_day
+2008,257,Richmond Spiders,2008-02-23,19.319919985421933,included_game_day
+2008,257,Richmond Spiders,2008-02-27,24.686212986872928,included_game_day
+2008,257,Richmond Spiders,2008-03-01,22.449305788906308,included_game_day
+2008,257,Richmond Spiders,2008-03-05,23.14318364448403,included_game_day
+2008,257,Richmond Spiders,2008-03-08,12.059240026455464,included_game_day
+2008,257,Richmond Spiders,2008-03-13,4.380221939223295,included_game_day
+2008,257,Richmond Spiders,2008-03-18,6.199313955131796,included_game_day
+2009,257,Richmond Spiders,2008-11-18,-2.0,included_game_day
+2009,257,Richmond Spiders,2008-11-24,8.7038,included_game_day
+2009,257,Richmond Spiders,2008-11-25,17.71114,included_game_day
+2009,257,Richmond Spiders,2008-11-26,-0.36085999999999885,included_game_day
+2009,257,Richmond Spiders,2008-11-30,4.4762640000000005,included_game_day
+2009,257,Richmond Spiders,2008-12-03,2.7847296000000004,included_game_day
+2009,257,Richmond Spiders,2008-12-06,1.0013364095999986,included_game_day
+2009,257,Richmond Spiders,2008-12-13,2.830267661039998,included_game_day
+2009,257,Richmond Spiders,2008-12-19,3.5862433476846975,included_game_day
+2009,257,Richmond Spiders,2008-12-22,18.554588783635246,included_game_day
+2009,257,Richmond Spiders,2008-12-28,16.67142746149735,included_game_day
+2009,257,Richmond Spiders,2008-12-31,16.74162645088777,included_game_day
+2009,257,Richmond Spiders,2009-01-03,40.23359854649535,included_game_day
+2009,257,Richmond Spiders,2009-01-10,47.95616367195822,included_game_day
+2009,257,Richmond Spiders,2009-01-14,37.10211922802746,included_game_day
+2009,257,Richmond Spiders,2009-01-17,25.58690957172998,included_game_day
+2009,257,Richmond Spiders,2009-01-21,31.83248205437237,included_game_day
+2009,257,Richmond Spiders,2009-01-25,38.369213772651534,included_game_day
+2009,257,Richmond Spiders,2009-01-28,25.734060488552835,included_game_day
+2009,257,Richmond Spiders,2009-01-31,26.10230648209221,included_game_day
+2009,257,Richmond Spiders,2009-02-04,18.09530177566947,included_game_day
+2009,257,Richmond Spiders,2009-02-08,2.2642676232933923,included_game_day
+2009,257,Richmond Spiders,2009-02-11,8.319437545915907,included_game_day
+2009,257,Richmond Spiders,2009-02-14,10.149997770647259,included_game_day
+2009,257,Richmond Spiders,2009-02-18,24.569351224037025,included_game_day
+2009,257,Richmond Spiders,2009-02-21,28.73834076811365,included_game_day
+2009,257,Richmond Spiders,2009-02-25,24.587605038187505,included_game_day
+2009,257,Richmond Spiders,2009-02-28,9.375389213626924,included_game_day
+2009,257,Richmond Spiders,2009-03-03,15.143542521835963,included_game_day
+2009,257,Richmond Spiders,2009-03-07,27.754957351306068,included_game_day
+2009,257,Richmond Spiders,2009-03-11,40.391908279972434,included_game_day
+2009,257,Richmond Spiders,2009-03-12,37.338149314107966,included_game_day
+2009,257,Richmond Spiders,2009-03-18,36.57103913490791,included_game_day
+2009,257,Richmond Spiders,2009-03-23,34.327779108657474,included_game_day
+2009,257,Richmond Spiders,2009-03-25,23.331304730574807,included_game_day
+2010,257,Richmond Spiders,2009-11-13,9.0,included_game_day
+2010,257,Richmond Spiders,2009-11-16,49.5,included_game_day
+2010,257,Richmond Spiders,2009-11-19,40.24,included_game_day
+2010,257,Richmond Spiders,2009-11-22,59.834,included_game_day
+2010,257,Richmond Spiders,2009-11-24,58.7321,included_game_day
+2010,257,Richmond Spiders,2009-11-27,55.75349,included_game_day
+2010,257,Richmond Spiders,2009-11-28,66.65164,included_game_day
+2010,257,Richmond Spiders,2009-12-02,69.700632,included_game_day
+2010,257,Richmond Spiders,2009-12-12,61.4766443955,included_game_day
+2010,257,Richmond Spiders,2009-12-16,44.23773473955001,included_game_day
+2010,257,Richmond Spiders,2009-12-19,51.024386397435,included_game_day
+2010,257,Richmond Spiders,2009-12-22,63.0708754238472,included_game_day
+2010,257,Richmond Spiders,2009-12-28,58.32935925253097,included_game_day
+2010,257,Richmond Spiders,2009-12-31,58.34016077985393,included_game_day
+2010,257,Richmond Spiders,2010-01-02,59.94872557163119,included_game_day
+2010,257,Richmond Spiders,2010-01-06,70.85397799771592,included_game_day
+2010,257,Richmond Spiders,2010-01-09,64.54236953456041,included_game_day
+2010,257,Richmond Spiders,2010-01-13,60.308282777709856,included_game_day
+2010,257,Richmond Spiders,2010-01-16,55.937767359071316,included_game_day
+2010,257,Richmond Spiders,2010-01-20,38.633077484101776,included_game_day
+2010,257,Richmond Spiders,2010-01-23,44.94169425000302,included_game_day
+2010,257,Richmond Spiders,2010-01-30,67.87301215698484,included_game_day
+2010,257,Richmond Spiders,2010-02-03,71.30360544528686,included_game_day
+2010,257,Richmond Spiders,2010-02-06,86.53922796334274,included_game_day
+2010,257,Richmond Spiders,2010-02-10,90.31312760367183,included_game_day
+2010,257,Richmond Spiders,2010-02-13,102.22933370884823,included_game_day
+2010,257,Richmond Spiders,2010-02-17,104.1569923844823,included_game_day
+2010,257,Richmond Spiders,2010-02-20,97.54363875293897,included_game_day
+2010,257,Richmond Spiders,2010-02-28,102.87123759152561,included_game_day
+2010,257,Richmond Spiders,2010-03-04,105.01690313213176,included_game_day
+2010,257,Richmond Spiders,2010-03-06,104.97612329605498,included_game_day
+2010,257,Richmond Spiders,2010-03-12,97.90874227064067,included_game_day
+2010,257,Richmond Spiders,2010-03-13,106.39546060114708,included_game_day
+2010,257,Richmond Spiders,2010-03-14,104.18858988824539,included_game_day
+2010,257,Richmond Spiders,2010-03-18,96.62795616634645,included_game_day
+2011,257,Richmond Spiders,2010-11-12,39.0,included_game_day
+2011,257,Richmond Spiders,2010-11-15,54.0,included_game_day
+2011,257,Richmond Spiders,2010-11-18,46.28,included_game_day
+2011,257,Richmond Spiders,2010-11-21,48.762,included_game_day
+2011,257,Richmond Spiders,2010-11-23,73.0688,included_game_day
+2011,257,Richmond Spiders,2010-11-26,75.4168,included_game_day
+2011,257,Richmond Spiders,2010-11-27,89.118579,included_game_day
+2011,257,Richmond Spiders,2010-12-01,79.1402161,included_game_day
+2011,257,Richmond Spiders,2010-12-05,80.1065395,included_game_day
+2011,257,Richmond Spiders,2010-12-11,84.164632809966,included_game_day
+2011,257,Richmond Spiders,2010-12-18,64.7145887713064,included_game_day
+2011,257,Richmond Spiders,2010-12-22,60.24276466337552,included_game_day
+2011,257,Richmond Spiders,2010-12-26,70.78927247670502,included_game_day
+2011,257,Richmond Spiders,2010-12-29,73.66693462755792,included_game_day
+2011,257,Richmond Spiders,2011-01-02,66.78134850309164,included_game_day
+2011,257,Richmond Spiders,2011-01-05,70.0573734791376,included_game_day
+2011,257,Richmond Spiders,2011-01-08,84.3546915264639,included_game_day
+2011,257,Richmond Spiders,2011-01-13,67.46998664570143,included_game_day
+2011,257,Richmond Spiders,2011-01-19,68.75765551576596,included_game_day
+2011,257,Richmond Spiders,2011-01-22,80.22307316260634,included_game_day
+2011,257,Richmond Spiders,2011-01-25,90.06058892729688,included_game_day
+2011,257,Richmond Spiders,2011-01-29,62.88885276180349,included_game_day
+2011,257,Richmond Spiders,2011-02-02,58.02318340067269,included_game_day
+2011,257,Richmond Spiders,2011-02-05,62.335038741166166,included_game_day
+2011,257,Richmond Spiders,2011-02-09,62.95594749970783,included_game_day
+2011,257,Richmond Spiders,2011-02-12,66.31691967268331,included_game_day
+2011,257,Richmond Spiders,2011-02-17,51.232801804020696,included_game_day
+2011,257,Richmond Spiders,2011-02-20,63.29060255703392,included_game_day
+2011,257,Richmond Spiders,2011-02-26,68.90678522113478,included_game_day
+2011,257,Richmond Spiders,2011-03-02,76.13765105754443,included_game_day
+2011,257,Richmond Spiders,2011-03-05,84.78930695391296,included_game_day
+2011,257,Richmond Spiders,2011-03-11,88.85930783147478,included_game_day
+2011,257,Richmond Spiders,2011-03-12,94.37321120216508,included_game_day
+2011,257,Richmond Spiders,2011-03-13,102.97411819631799,included_game_day
+2011,257,Richmond Spiders,2011-03-17,105.22585196772658,included_game_day
+2011,257,Richmond Spiders,2011-03-19,118.90691251860093,included_game_day
+2011,257,Richmond Spiders,2011-03-25,107.5499307716177,included_game_day
+2012,257,Richmond Spiders,2011-11-11,7.0,included_game_day
+2012,257,Richmond Spiders,2011-11-14,-3.6999999999999993,included_game_day
+2012,257,Richmond Spiders,2011-11-17,15.75,included_game_day
+2012,257,Richmond Spiders,2011-11-19,36.887,included_game_day
+2012,257,Richmond Spiders,2011-11-22,28.0653,included_game_day
+2012,257,Richmond Spiders,2011-11-23,31.415580000000002,included_game_day
+2012,257,Richmond Spiders,2011-11-30,56.2814552,included_game_day
+2012,257,Richmond Spiders,2011-12-03,62.209566215600006,included_game_day
+2012,257,Richmond Spiders,2011-12-09,41.35112630204,included_game_day
+2012,257,Richmond Spiders,2011-12-14,31.312803047710602,included_game_day
+2012,257,Richmond Spiders,2011-12-17,17.36842912465354,included_game_day
+2012,257,Richmond Spiders,2011-12-20,20.610939774217606,included_game_day
+2012,257,Richmond Spiders,2011-12-23,17.44783993275597,included_game_day
+2012,257,Richmond Spiders,2011-12-28,23.44626489487637,included_game_day
+2012,257,Richmond Spiders,2011-12-30,28.87266345710479,included_game_day
+2012,257,Richmond Spiders,2012-01-04,24.925041750611825,included_game_day
+2012,257,Richmond Spiders,2012-01-07,38.26211857973537,included_game_day
+2012,257,Richmond Spiders,2012-01-14,48.936403325759954,included_game_day
+2012,257,Richmond Spiders,2012-01-18,25.207843482464522,included_game_day
+2012,257,Richmond Spiders,2012-01-21,14.372820184437959,included_game_day
+2012,257,Richmond Spiders,2012-01-25,47.77869582397297,included_game_day
+2012,257,Richmond Spiders,2012-01-28,37.61970642112166,included_game_day
+2012,257,Richmond Spiders,2012-02-01,25.982601279621967,included_game_day
+2012,257,Richmond Spiders,2012-02-04,21.456554577321505,included_game_day
+2012,257,Richmond Spiders,2012-02-08,26.54079054394417,included_game_day
+2012,257,Richmond Spiders,2012-02-11,17.66593751630171,included_game_day
+2012,257,Richmond Spiders,2012-02-15,18.14699451588279,included_game_day
+2012,257,Richmond Spiders,2012-02-18,13.612649402812261,included_game_day
+2012,257,Richmond Spiders,2012-02-22,25.573136314429846,included_game_day
+2012,257,Richmond Spiders,2012-02-25,23.596961895624567,included_game_day
+2012,257,Richmond Spiders,2012-02-29,37.18694527260423,included_game_day
+2012,257,Richmond Spiders,2012-03-06,35.32161640569342,included_game_day
+2013,257,Richmond Spiders,2012-11-09,39.0,included_game_day
+2013,257,Richmond Spiders,2012-11-13,75.67,included_game_day
+2013,257,Richmond Spiders,2012-11-15,73.60300000000001,included_game_day
+2013,257,Richmond Spiders,2012-11-18,61.356700000000004,included_game_day
+2013,257,Richmond Spiders,2012-11-20,55.802060000000004,included_game_day
+2013,257,Richmond Spiders,2012-11-24,34.774867,included_game_day
+2013,257,Richmond Spiders,2012-11-28,37.9918423,included_game_day
+2013,257,Richmond Spiders,2012-12-01,30.15438847,included_game_day
+2013,257,Richmond Spiders,2012-12-04,54.62436917,included_game_day
+2013,257,Richmond Spiders,2012-12-08,51.23784895063,included_game_day
+2013,257,Richmond Spiders,2012-12-15,56.3589398494097,included_game_day
+2013,257,Richmond Spiders,2012-12-18,38.29959787424146,included_game_day
+2013,257,Richmond Spiders,2012-12-22,32.22822958178731,included_game_day
+2013,257,Richmond Spiders,2012-12-29,22.173662898482732,included_game_day
+2013,257,Richmond Spiders,2013-01-02,42.68430166114949,included_game_day
+2013,257,Richmond Spiders,2013-01-09,38.15681207043007,included_game_day
+2013,257,Richmond Spiders,2013-01-12,31.298824500992414,included_game_day
+2013,257,Richmond Spiders,2013-01-16,24.383083960405997,included_game_day
+2013,257,Richmond Spiders,2013-01-19,43.71136052201989,included_game_day
+2013,257,Richmond Spiders,2013-01-24,63.573913152007634,included_game_day
+2013,257,Richmond Spiders,2013-01-27,56.252464615764744,included_game_day
+2013,257,Richmond Spiders,2013-01-30,50.682632450711516,included_game_day
+2013,257,Richmond Spiders,2013-02-02,48.80276136982204,included_game_day
+2013,257,Richmond Spiders,2013-02-09,42.166799710614015,included_game_day
+2013,257,Richmond Spiders,2013-02-13,37.45740313837953,included_game_day
+2013,257,Richmond Spiders,2013-02-16,35.566230357171094,included_game_day
+2013,257,Richmond Spiders,2013-02-23,45.29874794280566,included_game_day
+2013,257,Richmond Spiders,2013-02-27,49.11747413847796,included_game_day
+2013,257,Richmond Spiders,2013-03-02,49.399377087636786,included_game_day
+2013,257,Richmond Spiders,2013-03-06,51.11482222503179,included_game_day
+2013,257,Richmond Spiders,2013-03-09,59.27621737360855,included_game_day
+2013,257,Richmond Spiders,2013-03-14,47.19455196811717,included_game_day
+2013,257,Richmond Spiders,2013-03-20,50.44431477903594,included_game_day
+2013,257,Richmond Spiders,2013-03-25,47.24074865181896,included_game_day
+2014,257,Richmond Spiders,2013-11-08,-1.0,included_game_day
+2014,257,Richmond Spiders,2013-11-11,4.8,included_game_day
+2014,257,Richmond Spiders,2013-11-16,-9.940000000000001,included_game_day
+2014,257,Richmond Spiders,2013-11-19,-2.1130000000000013,included_game_day
+2014,257,Richmond Spiders,2013-11-23,-10.5159,included_game_day
+2014,257,Richmond Spiders,2013-11-24,8.925706,included_game_day
+2014,257,Richmond Spiders,2013-11-27,33.6641854,included_game_day
+2014,257,Richmond Spiders,2013-11-30,37.476760479999996,included_game_day
+2014,257,Richmond Spiders,2013-12-04,49.448643276,included_game_day
+2014,257,Richmond Spiders,2013-12-07,41.604796188899996,included_game_day
+2014,257,Richmond Spiders,2013-12-14,52.944542616991,included_game_day
+2014,257,Richmond Spiders,2013-12-22,45.202228823496604,included_game_day
+2014,257,Richmond Spiders,2013-12-28,45.342360756787116,included_game_day
+2014,257,Richmond Spiders,2013-12-31,46.393170098590275,included_game_day
+2014,257,Richmond Spiders,2014-01-04,46.6751084390442,included_game_day
+2014,257,Richmond Spiders,2014-01-08,35.42616318451485,included_game_day
+2014,257,Richmond Spiders,2014-01-11,36.833967951221666,included_game_day
+2014,257,Richmond Spiders,2014-01-18,47.68596004839566,included_game_day
+2014,257,Richmond Spiders,2014-01-22,50.45365890031201,included_game_day
+2014,257,Richmond Spiders,2014-01-25,62.314097047070746,included_game_day
+2014,257,Richmond Spiders,2014-01-29,49.44649039275616,included_game_day
+2014,257,Richmond Spiders,2014-02-01,47.4246174911931,included_game_day
+2014,257,Richmond Spiders,2014-02-05,48.70376409174632,included_game_day
+2014,257,Richmond Spiders,2014-02-12,63.04399844198803,included_game_day
+2014,257,Richmond Spiders,2014-02-15,61.03309391476397,included_game_day
+2014,257,Richmond Spiders,2014-02-18,51.37208273505563,included_game_day
+2014,257,Richmond Spiders,2014-02-22,57.54976603516847,included_game_day
+2014,257,Richmond Spiders,2014-02-26,47.1329679853058,included_game_day
+2014,257,Richmond Spiders,2014-03-01,24.53550156097679,included_game_day
+2014,257,Richmond Spiders,2014-03-06,25.351496998763132,included_game_day
+2014,257,Richmond Spiders,2014-03-08,20.25125323872417,included_game_day
+2014,257,Richmond Spiders,2014-03-13,34.23914394854278,included_game_day
+2014,257,Richmond Spiders,2014-03-14,25.71656848604472,included_game_day
+2015,257,Richmond Spiders,2014-11-14,15.0,included_game_day
+2015,257,Richmond Spiders,2014-11-18,12.2,included_game_day
+2015,257,Richmond Spiders,2014-11-22,34.28,included_game_day
+2015,257,Richmond Spiders,2014-11-26,27.80768,included_game_day
+2015,257,Richmond Spiders,2014-11-30,29.907391,included_game_day
+2015,257,Richmond Spiders,2014-12-03,27.2438109,included_game_day
+2015,257,Richmond Spiders,2014-12-07,21.23148081,included_game_day
+2015,257,Richmond Spiders,2014-12-13,24.17369647086,included_game_day
+2015,257,Richmond Spiders,2014-12-18,27.658507174849,included_game_day
+2015,257,Richmond Spiders,2014-12-20,29.99344852871303,included_game_day
+2015,257,Richmond Spiders,2014-12-23,21.61405360769237,included_game_day
+2015,257,Richmond Spiders,2014-12-28,14.555044503832663,included_game_day
+2015,257,Richmond Spiders,2014-12-31,10.72358035543309,included_game_day
+2015,257,Richmond Spiders,2015-01-03,7.772214996038427,included_game_day
+2015,257,Richmond Spiders,2015-01-08,14.263512096771294,included_game_day
+2015,257,Richmond Spiders,2015-01-11,30.68025578972338,included_game_day
+2015,257,Richmond Spiders,2015-01-15,33.75299993276482,included_game_day
+2015,257,Richmond Spiders,2015-01-17,64.7340347756853,included_game_day
+2015,257,Richmond Spiders,2015-01-24,66.62495276709538,included_game_day
+2015,257,Richmond Spiders,2015-01-28,84.43411127953335,included_game_day
+2015,257,Richmond Spiders,2015-01-31,99.21311221508573,included_game_day
+2015,257,Richmond Spiders,2015-02-05,94.32791554652503,included_game_day
+2015,257,Richmond Spiders,2015-02-08,82.26895246193314,included_game_day
+2015,257,Richmond Spiders,2015-02-11,69.3192049876143,included_game_day
+2015,257,Richmond Spiders,2015-02-14,57.776156970482276,included_game_day
+2015,257,Richmond Spiders,2015-02-18,72.04993204883935,included_game_day
+2015,257,Richmond Spiders,2015-02-21,71.98576246247345,included_game_day
+2015,257,Richmond Spiders,2015-02-25,74.82944545893122,included_game_day
+2015,257,Richmond Spiders,2015-02-28,76.55949854174854,included_game_day
+2015,257,Richmond Spiders,2015-03-04,76.39688216002908,included_game_day
+2015,257,Richmond Spiders,2015-03-07,73.23003906480366,included_game_day
+2015,257,Richmond Spiders,2015-03-13,68.39373919570602,included_game_day
+2015,257,Richmond Spiders,2015-03-18,70.04237474319001,included_game_day
+2015,257,Richmond Spiders,2015-03-22,70.64995073591871,included_game_day
+2015,257,Richmond Spiders,2015-03-24,67.27230825237834,included_game_day
+2016,257,Richmond Spiders,2015-11-13,-15.0,included_game_day
+2016,257,Richmond Spiders,2015-11-15,6.5,included_game_day
+2016,257,Richmond Spiders,2015-11-18,19.13,included_game_day
+2016,257,Richmond Spiders,2015-11-21,39.907,included_game_day
+2016,257,Richmond Spiders,2015-11-26,37.565529999999995,included_game_day
+2016,257,Richmond Spiders,2015-11-27,41.732657999999994,included_game_day
+2016,257,Richmond Spiders,2015-12-01,28.606525299999994,included_game_day
+2016,257,Richmond Spiders,2015-12-05,43.899009369999995,included_game_day
+2016,257,Richmond Spiders,2015-12-12,49.130310404999996,included_game_day
+2016,257,Richmond Spiders,2015-12-16,61.96871867738,included_game_day
+2016,257,Richmond Spiders,2015-12-22,76.71981589017,included_game_day
+2016,257,Richmond Spiders,2015-12-29,64.71719469386873,included_game_day
+2016,257,Richmond Spiders,2016-01-02,56.1857641304138,included_game_day
+2016,257,Richmond Spiders,2016-01-05,47.59612303835878,included_game_day
+2016,257,Richmond Spiders,2016-01-10,61.39195935045863,included_game_day
+2016,257,Richmond Spiders,2016-01-13,68.88682268647496,included_game_day
+2016,257,Richmond Spiders,2016-01-16,65.61548548347928,included_game_day
+2016,257,Richmond Spiders,2016-01-25,48.03373640724055,included_game_day
+2016,257,Richmond Spiders,2016-01-28,61.481036028774795,included_game_day
+2016,257,Richmond Spiders,2016-01-31,47.28836131396038,included_game_day
+2016,257,Richmond Spiders,2016-02-03,30.75743858266426,included_game_day
+2016,257,Richmond Spiders,2016-02-06,37.23479491617107,included_game_day
+2016,257,Richmond Spiders,2016-02-10,45.167314255290535,included_game_day
+2016,257,Richmond Spiders,2016-02-13,39.13383376677206,included_game_day
+2016,257,Richmond Spiders,2016-02-16,36.127120828465365,included_game_day
+2016,257,Richmond Spiders,2016-02-19,34.20063486509488,included_game_day
+2016,257,Richmond Spiders,2016-02-24,23.842566358552872,included_game_day
+2016,257,Richmond Spiders,2016-02-27,41.23719895044887,included_game_day
+2016,257,Richmond Spiders,2016-03-01,39.376693711086084,included_game_day
+2016,257,Richmond Spiders,2016-03-05,23.08141556030075,included_game_day
+2016,257,Richmond Spiders,2016-03-10,36.53570476677081,included_game_day
+2016,257,Richmond Spiders,2016-03-11,24.518435791066203,included_game_day
+2017,257,Richmond Spiders,2016-11-11,0.0,included_game_day
+2017,257,Richmond Spiders,2016-11-14,-5.6,included_game_day
+2017,257,Richmond Spiders,2016-11-20,0.9990000000000006,included_game_day
+2017,257,Richmond Spiders,2016-11-22,8.0645,included_game_day
+2017,257,Richmond Spiders,2016-11-25,3.414760000000001,included_game_day
+2017,257,Richmond Spiders,2016-11-26,16.111208,included_game_day
+2017,257,Richmond Spiders,2016-11-30,14.570336200000002,included_game_day
+2017,257,Richmond Spiders,2016-12-03,7.323280680000002,included_game_day
+2017,257,Richmond Spiders,2016-12-10,8.795490086100001,included_game_day
+2017,257,Richmond Spiders,2016-12-17,11.5195572632638,included_game_day
+2017,257,Richmond Spiders,2016-12-20,28.039542588036817,included_game_day
+2017,257,Richmond Spiders,2016-12-23,9.315900200501673,included_game_day
+2017,257,Richmond Spiders,2016-12-31,20.019397697746406,included_game_day
+2017,257,Richmond Spiders,2017-01-04,19.330334940403837,included_game_day
+2017,257,Richmond Spiders,2017-01-08,29.728862291093414,included_game_day
+2017,257,Richmond Spiders,2017-01-11,45.48367559504631,included_game_day
+2017,257,Richmond Spiders,2017-01-14,48.12407755696557,included_game_day
+2017,257,Richmond Spiders,2017-01-19,39.52713730976576,included_game_day
+2017,257,Richmond Spiders,2017-01-22,29.744946993078504,included_game_day
+2017,257,Richmond Spiders,2017-01-25,43.3326906873703,included_game_day
+2017,257,Richmond Spiders,2017-01-28,42.681131373427846,included_game_day
+2017,257,Richmond Spiders,2017-02-01,45.4322564208405,included_game_day
+2017,257,Richmond Spiders,2017-02-04,47.70765554703637,included_game_day
+2017,257,Richmond Spiders,2017-02-11,59.23291863758831,included_game_day
+2017,257,Richmond Spiders,2017-02-14,36.397100714713766,included_game_day
+2017,257,Richmond Spiders,2017-02-17,29.033485288472104,included_game_day
+2017,257,Richmond Spiders,2017-02-21,35.56728469230557,included_game_day
+2017,257,Richmond Spiders,2017-02-25,58.3289886732326,included_game_day
+2017,257,Richmond Spiders,2017-03-01,64.53154313747355,included_game_day
+2017,257,Richmond Spiders,2017-03-04,60.599574504425746,included_game_day
+2017,257,Richmond Spiders,2017-03-10,61.976255095688025,included_game_day
+2017,257,Richmond Spiders,2017-03-11,55.71997747620262,included_game_day
+2017,257,Richmond Spiders,2017-03-19,55.94659957827137,included_game_day
+2017,257,Richmond Spiders,2017-03-21,43.91015397983553,included_game_day
+2018,257,Richmond Spiders,2017-11-10,-16.0,included_game_day
+2018,257,Richmond Spiders,2017-11-13,-50.4,included_game_day
+2018,257,Richmond Spiders,2017-11-20,-26.18,included_game_day
+2018,257,Richmond Spiders,2017-11-21,-40.9481,included_game_day
+2018,257,Richmond Spiders,2017-11-22,-41.174642,included_game_day
+2018,257,Richmond Spiders,2017-11-25,-40.947277799999995,included_game_day
+2018,257,Richmond Spiders,2017-11-29,-43.17375001999999,included_game_day
+2018,257,Richmond Spiders,2017-12-02,-63.891871888,included_game_day
+2018,257,Richmond Spiders,2017-12-06,-69.4449030772,included_game_day
+2018,257,Richmond Spiders,2017-12-10,-66.40003513927,included_game_day
+2018,257,Richmond Spiders,2017-12-19,-72.115419546465,included_game_day
+2018,257,Richmond Spiders,2017-12-23,-60.43704568669997,included_game_day
+2018,257,Richmond Spiders,2017-12-30,-42.9530338759887,included_game_day
+2018,257,Richmond Spiders,2018-01-03,-42.81839468274166,included_game_day
+2018,257,Richmond Spiders,2018-01-06,-43.49265917576971,included_game_day
+2018,257,Richmond Spiders,2018-01-09,-46.601511582249586,included_game_day
+2018,257,Richmond Spiders,2018-01-13,-39.62674214941485,included_game_day
+2018,257,Richmond Spiders,2018-01-17,-16.363414521158376,included_game_day
+2018,257,Richmond Spiders,2018-01-20,-10.450584409659248,included_game_day
+2018,257,Richmond Spiders,2018-01-24,0.22447202889227924,included_game_day
+2018,257,Richmond Spiders,2018-01-28,14.100247899585082,included_game_day
+2018,257,Richmond Spiders,2018-02-03,-0.6009737918885474,included_game_day
+2018,257,Richmond Spiders,2018-02-07,-1.5898756255470219,included_game_day
+2018,257,Richmond Spiders,2018-02-10,0.7419543279135978,included_game_day
+2018,257,Richmond Spiders,2018-02-13,-2.72827622209122,included_game_day
+2018,257,Richmond Spiders,2018-02-17,-9.268449073748382,included_game_day
+2018,257,Richmond Spiders,2018-02-21,-33.6602022816372,included_game_day
+2018,257,Richmond Spiders,2018-02-24,-34.66472450554365,included_game_day
+2018,257,Richmond Spiders,2018-02-28,-13.609170021855654,included_game_day
+2018,257,Richmond Spiders,2018-03-03,3.004629838263231,included_game_day
+2018,257,Richmond Spiders,2018-03-08,13.255770407025256,included_game_day
+2018,257,Richmond Spiders,2018-03-09,14.488858247522488,included_game_day
+2019,257,Richmond Spiders,2018-11-09,-8.0,included_game_day
+2019,257,Richmond Spiders,2018-11-14,11.77,included_game_day
+2019,257,Richmond Spiders,2018-11-16,16.145,included_game_day
+2019,257,Richmond Spiders,2018-11-19,2.35426,included_game_day
+2019,257,Richmond Spiders,2018-11-21,-3.3077819999999996,included_game_day
+2019,257,Richmond Spiders,2018-11-25,-29.0017955,included_game_day
+2019,257,Richmond Spiders,2018-11-28,-28.758929950000002,included_game_day
+2019,257,Richmond Spiders,2018-12-01,-19.911077525000003,included_game_day
+2019,257,Richmond Spiders,2018-12-05,-0.08999856800000217,included_game_day
+2019,257,Richmond Spiders,2018-12-15,-18.5687962413235,included_game_day
+2019,257,Richmond Spiders,2018-12-19,-22.869874636378853,included_game_day
+2019,257,Richmond Spiders,2018-12-22,-5.818659989493966,included_game_day
+2019,257,Richmond Spiders,2018-12-29,5.346504229012231,included_game_day
+2019,257,Richmond Spiders,2019-01-06,-11.381679793375165,included_game_day
+2019,257,Richmond Spiders,2019-01-09,-21.279618269618467,included_game_day
+2019,257,Richmond Spiders,2019-01-12,0.4028763757767386,included_game_day
+2019,257,Richmond Spiders,2019-01-16,-9.447659011017771,included_game_day
+2019,257,Richmond Spiders,2019-01-19,-15.084687584908032,included_game_day
+2019,257,Richmond Spiders,2019-01-23,-18.89777004387444,included_game_day
+2019,257,Richmond Spiders,2019-01-26,-27.703589990800133,included_game_day
+2019,257,Richmond Spiders,2019-01-30,-15.599000398592526,included_game_day
+2019,257,Richmond Spiders,2019-02-02,-28.03748285548387,included_game_day
+2019,257,Richmond Spiders,2019-02-06,-10.308733925306495,included_game_day
+2019,257,Richmond Spiders,2019-02-09,10.69141702817312,included_game_day
+2019,257,Richmond Spiders,2019-02-13,2.3896093426389324,included_game_day
+2019,257,Richmond Spiders,2019-02-20,-0.8776289174869554,included_game_day
+2019,257,Richmond Spiders,2019-02-23,10.049749924410213,included_game_day
+2019,257,Richmond Spiders,2019-02-27,-2.220593512983381,included_game_day
+2019,257,Richmond Spiders,2019-03-02,5.052479134319086,included_game_day
+2019,257,Richmond Spiders,2019-03-06,-6.353336377063295,included_game_day
+2019,257,Richmond Spiders,2019-03-09,-6.051897972760502,included_game_day
+2019,257,Richmond Spiders,2019-03-13,-10.906488451443622,included_game_day
+2019,257,Richmond Spiders,2019-03-14,-9.765803297687057,included_game_day
+2020,257,Richmond Spiders,2019-11-08,-2.0999999999999996,included_game_day
+2020,257,Richmond Spiders,2019-11-14,-2.6999999999999997,included_game_day
+2020,257,Richmond Spiders,2019-11-17,13.8274,included_game_day
+2020,257,Richmond Spiders,2019-11-22,36.89806,included_game_day
+2020,257,Richmond Spiders,2019-11-25,47.689904,included_game_day
+2020,257,Richmond Spiders,2019-11-26,38.2613793,included_game_day
+2020,257,Richmond Spiders,2019-11-30,51.67357707,included_game_day
+2020,257,Richmond Spiders,2019-12-03,60.305286083,included_game_day
+2020,257,Richmond Spiders,2019-12-08,70.2451929247,included_game_day
+2020,257,Richmond Spiders,2019-12-14,66.35610419433,included_game_day
+2020,257,Richmond Spiders,2019-12-18,62.66839718219242,included_game_day
+2020,257,Richmond Spiders,2019-12-22,40.598950143809034,included_game_day
+2020,257,Richmond Spiders,2019-12-29,33.99438740810726,included_game_day
+2020,257,Richmond Spiders,2020-01-02,51.87271910513624,included_game_day
+2020,257,Richmond Spiders,2020-01-05,61.30370817260508,included_game_day
+2020,257,Richmond Spiders,2020-01-11,39.91856791067588,included_game_day
+2020,257,Richmond Spiders,2020-01-14,47.66085973441227,included_game_day
+2020,257,Richmond Spiders,2020-01-18,56.139177453936796,included_game_day
+2020,257,Richmond Spiders,2020-01-22,64.4054886270567,included_game_day
+2020,257,Richmond Spiders,2020-01-25,62.70999852906273,included_game_day
+2020,257,Richmond Spiders,2020-01-28,50.216834579655476,included_game_day
+2020,257,Richmond Spiders,2020-02-01,65.5275918717301,included_game_day
+2020,257,Richmond Spiders,2020-02-08,64.37373705982218,included_game_day
+2020,257,Richmond Spiders,2020-02-12,87.45006915126041,included_game_day
+2020,257,Richmond Spiders,2020-02-15,101.99206083977982,included_game_day
+2020,257,Richmond Spiders,2020-02-19,102.3071559674193,included_game_day
+2020,257,Richmond Spiders,2020-02-22,93.78084818218906,included_game_day
+2020,257,Richmond Spiders,2020-02-26,87.08241856712415,included_game_day
+2020,257,Richmond Spiders,2020-02-29,98.99920031937381,included_game_day
+2020,257,Richmond Spiders,2020-03-03,112.51349507198053,included_game_day
+2020,257,Richmond Spiders,2020-03-06,119.08744178602251,included_game_day
+2021,257,Richmond Spiders,2020-11-27,14.7,included_game_day
+2021,257,Richmond Spiders,2020-11-29,31.529999999999998,included_game_day
+2021,257,Richmond Spiders,2020-12-07,30.377,included_game_day
+2021,257,Richmond Spiders,2020-12-09,32.0283,included_game_day
+2021,257,Richmond Spiders,2020-12-13,19.792498000000002,included_game_day
+2021,257,Richmond Spiders,2020-12-16,34.2445291,included_game_day
+2021,257,Richmond Spiders,2020-12-18,35.42399029,included_game_day
+2021,257,Richmond Spiders,2020-12-22,23.561247920699998,included_game_day
+2021,257,Richmond Spiders,2020-12-30,34.63629552933,included_game_day
+2021,257,Richmond Spiders,2021-01-02,25.996867404367,included_game_day
+2021,257,Richmond Spiders,2021-01-06,28.4590385276014,included_game_day
+2021,257,Richmond Spiders,2021-01-09,47.992921062757276,included_game_day
+2021,257,Richmond Spiders,2021-01-23,29.692453458653226,included_game_day
+2021,257,Richmond Spiders,2021-01-26,45.77267541316559,included_game_day
+2021,257,Richmond Spiders,2021-02-17,39.331746936798076,included_game_day
+2021,257,Richmond Spiders,2021-02-20,41.91132724319556,included_game_day
+2021,257,Richmond Spiders,2021-02-23,52.55312016738378,included_game_day
+2021,257,Richmond Spiders,2021-02-26,51.596074592453306,included_game_day
+2021,257,Richmond Spiders,2021-03-01,34.95840914665459,included_game_day
+2021,257,Richmond Spiders,2021-03-04,27.23520285567625,included_game_day
+2021,257,Richmond Spiders,2021-03-17,42.797535252111714,included_game_day
+2021,257,Richmond Spiders,2021-03-25,40.64762522697754,included_game_day
+2022,257,Richmond Spiders,2021-11-09,7.0,included_game_day
+2022,257,Richmond Spiders,2021-11-12,-5.300000000000001,included_game_day
+2022,257,Richmond Spiders,2021-11-16,9.79,included_game_day
+2022,257,Richmond Spiders,2021-11-20,13.440999999999999,included_game_day
+2022,257,Richmond Spiders,2021-11-22,22.76317,included_game_day
+2022,257,Richmond Spiders,2021-11-25,16.067283,included_game_day
+2022,257,Richmond Spiders,2021-11-27,7.9474547,included_game_day
+2022,257,Richmond Spiders,2021-12-01,21.155632287499998,included_game_day
+2022,257,Richmond Spiders,2021-12-05,29.340829984449996,included_game_day
+2022,257,Richmond Spiders,2021-12-11,27.270768083496996,included_game_day
+2022,257,Richmond Spiders,2021-12-17,35.8774003109,included_game_day
+2022,257,Richmond Spiders,2021-12-19,34.17632799355875,included_game_day
+2022,257,Richmond Spiders,2021-12-22,53.49286044427523,included_game_day
+2022,257,Richmond Spiders,2021-12-30,18.877201343701216,included_game_day
+2022,257,Richmond Spiders,2022-01-02,18.837393374490397,included_game_day
+2022,257,Richmond Spiders,2022-01-05,22.528755414168995,included_game_day
+2022,257,Richmond Spiders,2022-01-14,22.741084049418983,included_game_day
+2022,257,Richmond Spiders,2022-01-18,37.45952555666618,included_game_day
+2022,257,Richmond Spiders,2022-01-22,43.19567209828982,included_game_day
+2022,257,Richmond Spiders,2022-01-25,53.88759309822835,included_game_day
+2022,257,Richmond Spiders,2022-01-29,50.47897643123448,included_game_day
+2022,257,Richmond Spiders,2022-02-01,61.478037660256994,included_game_day
+2022,257,Richmond Spiders,2022-02-04,64.76530482340317,included_game_day
+2022,257,Richmond Spiders,2022-02-07,61.97663270396277,included_game_day
+2022,257,Richmond Spiders,2022-02-09,59.74569500841045,included_game_day
+2022,257,Richmond Spiders,2022-02-12,62.37659124482581,included_game_day
+2022,257,Richmond Spiders,2022-02-18,45.22811713680683,included_game_day
+2022,257,Richmond Spiders,2022-02-22,57.53337779914605,included_game_day
+2022,257,Richmond Spiders,2022-02-25,58.66073339821375,included_game_day
+2022,257,Richmond Spiders,2022-03-01,58.633088849290125,included_game_day
+2022,257,Richmond Spiders,2022-03-04,54.6384021185649,included_game_day
+2022,257,Richmond Spiders,2022-03-10,53.10903828203159,included_game_day
+2022,257,Richmond Spiders,2022-03-11,68.81739763621545,included_game_day
+2022,257,Richmond Spiders,2022-03-12,76.112785271202,included_game_day
+2022,257,Richmond Spiders,2022-03-13,82.24508434789874,included_game_day
+2022,257,Richmond Spiders,2022-03-17,95.69411246011286,included_game_day
+2022,257,Richmond Spiders,2022-03-19,65.76963054735997,included_game_day
+2023,257,Richmond Spiders,2022-11-07,18.0,included_game_day
+2023,257,Richmond Spiders,2022-11-11,26.2,included_game_day
+2023,257,Richmond Spiders,2022-11-14,23.74,included_game_day
+2023,257,Richmond Spiders,2022-11-17,15.935999999999998,included_game_day
+2023,257,Richmond Spiders,2022-11-21,13.542499999999999,included_game_day
+2023,257,Richmond Spiders,2022-11-22,24.437046,included_game_day
+2023,257,Richmond Spiders,2022-11-30,3.3117047,included_game_day
+2023,257,Richmond Spiders,2022-12-03,2.0763918103,included_game_day
+2023,257,Richmond Spiders,2022-12-10,33.689464844149,included_game_day
+2023,257,Richmond Spiders,2022-12-13,52.6555040870904,included_game_day
+2023,257,Richmond Spiders,2022-12-17,23.300501619284958,included_game_day
+2023,257,Richmond Spiders,2022-12-21,28.35129004357526,included_game_day
+2023,257,Richmond Spiders,2022-12-28,33.52492868606422,included_game_day
+2023,257,Richmond Spiders,2022-12-31,33.41580864985634,included_game_day
+2023,257,Richmond Spiders,2023-01-04,36.593937339463345,included_game_day
+2023,257,Richmond Spiders,2023-01-07,35.08578755434695,included_game_day
+2023,257,Richmond Spiders,2023-01-11,39.51418702530465,included_game_day
+2023,257,Richmond Spiders,2023-01-14,30.31318377553965,included_game_day
+2023,257,Richmond Spiders,2023-01-17,28.61697748799018,included_game_day
+2023,257,Richmond Spiders,2023-01-20,18.485889812926988,included_game_day
+2023,257,Richmond Spiders,2023-01-25,8.719715815982894,included_game_day
+2023,257,Richmond Spiders,2023-01-28,-8.407400571744901,included_game_day
+2023,257,Richmond Spiders,2023-02-01,-14.358889192723785,included_game_day
+2023,257,Richmond Spiders,2023-02-05,-1.7582938371985808,included_game_day
+2023,257,Richmond Spiders,2023-02-08,-4.409779631043398,included_game_day
+2023,257,Richmond Spiders,2023-02-11,-8.923616136824949,included_game_day
+2023,257,Richmond Spiders,2023-02-15,-10.953146483487169,included_game_day
+2023,257,Richmond Spiders,2023-02-21,-5.964777086323509,included_game_day
+2023,257,Richmond Spiders,2023-02-24,-6.865099136677631,included_game_day
+2023,257,Richmond Spiders,2023-03-01,-21.0084058638634,included_game_day
+2023,257,Richmond Spiders,2023-03-04,-21.26556611172601,included_game_day
+2023,257,Richmond Spiders,2023-03-07,12.703151636336997,included_game_day
+2023,257,Richmond Spiders,2023-03-08,9.100551663240607,included_game_day
+2024,257,Richmond Spiders,2023-11-06,15.0,included_game_day
+2024,257,Richmond Spiders,2023-11-11,52.4,included_game_day
+2024,257,Richmond Spiders,2023-11-15,45.199999999999996,included_game_day
+2024,257,Richmond Spiders,2023-11-20,41.851,included_game_day
+2024,257,Richmond Spiders,2023-11-21,55.632776,included_game_day
+2024,257,Richmond Spiders,2023-11-25,74.4241445,included_game_day
+2024,257,Richmond Spiders,2023-11-29,61.509804949999996,included_game_day
+2024,257,Richmond Spiders,2023-12-02,67.284259453,included_game_day
+2024,257,Richmond Spiders,2023-12-06,57.209285014200006,included_game_day
+2024,257,Richmond Spiders,2023-12-09,46.58167325328,included_game_day
+2024,257,Richmond Spiders,2023-12-16,48.0571253372863,included_game_day
+2024,257,Richmond Spiders,2023-12-21,36.81816761313167,included_game_day
+2024,257,Richmond Spiders,2023-12-30,41.18935842405977,included_game_day
+2024,257,Richmond Spiders,2024-01-06,53.1287099247056,included_game_day
+2024,257,Richmond Spiders,2024-01-09,56.24488321214756,included_game_day
+2024,257,Richmond Spiders,2024-01-13,59.410966302486,included_game_day
+2024,257,Richmond Spiders,2024-01-16,59.65384299318435,included_game_day
+2024,257,Richmond Spiders,2024-01-20,62.7524624551189,included_game_day
+2024,257,Richmond Spiders,2024-01-24,63.217582823477414,included_game_day
+2024,257,Richmond Spiders,2024-01-27,69.7654765883099,included_game_day
+2024,257,Richmond Spiders,2024-01-31,79.45525452151287,included_game_day
+2024,257,Richmond Spiders,2024-02-03,69.74941407704793,included_game_day
+2024,257,Richmond Spiders,2024-02-10,72.6018485121823,included_game_day
+2024,257,Richmond Spiders,2024-02-14,57.4996080646808,included_game_day
+2024,257,Richmond Spiders,2024-02-17,65.55245123584776,included_game_day
+2024,257,Richmond Spiders,2024-02-21,68.61224513169832,included_game_day
+2024,257,Richmond Spiders,2024-02-24,66.39575241497249,included_game_day
+2024,257,Richmond Spiders,2024-02-28,75.74713243626634,included_game_day
+2024,257,Richmond Spiders,2024-03-02,75.12778619036389,included_game_day
+2024,257,Richmond Spiders,2024-03-06,74.47030600289906,included_game_day
+2024,257,Richmond Spiders,2024-03-09,56.14527098722777,included_game_day
+2024,257,Richmond Spiders,2024-03-14,50.82522712339198,included_game_day
+2024,257,Richmond Spiders,2024-03-19,39.16373039093969,included_game_day
+2025,257,Richmond Spiders,2024-11-09,-11.0,included_game_day
+2025,257,Richmond Spiders,2024-11-13,-25.478,included_game_day
+2025,257,Richmond Spiders,2024-11-16,-24.9906,included_game_day
+2025,257,Richmond Spiders,2024-11-20,-23.91254,included_game_day
+2025,257,Richmond Spiders,2024-11-26,-21.4025116,included_game_day
+2025,257,Richmond Spiders,2024-11-27,-9.13811044,included_game_day
+2025,257,Richmond Spiders,2024-12-08,-37.913355669299996,included_game_day
+2025,257,Richmond Spiders,2024-12-14,-42.25414276073499,included_game_day
+2025,257,Richmond Spiders,2024-12-18,-42.708978489461494,included_game_day
+2025,257,Richmond Spiders,2024-12-21,-39.70155092709534,included_game_day
+2025,257,Richmond Spiders,2024-12-28,-57.755322291820434,included_game_day
+2025,257,Richmond Spiders,2024-12-31,-45.93103694167801,included_game_day
+2025,257,Richmond Spiders,2025-01-04,-33.69291830397399,included_game_day
+2025,257,Richmond Spiders,2025-01-08,-26.193197837489485,included_game_day
+2025,257,Richmond Spiders,2025-01-11,-25.660618669033383,included_game_day
+2025,257,Richmond Spiders,2025-01-15,-27.4388902608057,included_game_day
+2025,257,Richmond Spiders,2025-01-18,-28.594238663877835,included_game_day
+2025,257,Richmond Spiders,2025-01-25,-33.404776193699384,included_game_day
+2025,257,Richmond Spiders,2025-01-29,-32.440641257171094,included_game_day
+2025,257,Richmond Spiders,2025-02-01,-55.51337295475091,included_game_day
+2025,257,Richmond Spiders,2025-02-05,-46.55695081983493,included_game_day
+2025,257,Richmond Spiders,2025-02-08,-48.22932283966121,included_game_day
+2025,257,Richmond Spiders,2025-02-11,-51.549865694445025,included_game_day
+2025,257,Richmond Spiders,2025-02-15,-47.53818131002235,included_game_day
+2025,257,Richmond Spiders,2025-02-19,-41.39173621792297,included_game_day
+2025,257,Richmond Spiders,2025-02-22,-42.12446555663014,included_game_day
+2025,257,Richmond Spiders,2025-02-25,-42.54710939654093,included_game_day
+2025,257,Richmond Spiders,2025-03-01,-39.27056730570955,included_game_day
+2025,257,Richmond Spiders,2025-03-08,-38.1573522548288,included_game_day
+2025,257,Richmond Spiders,2025-03-12,-38.03834454799357,included_game_day
+2026,257,Richmond Spiders,2025-11-08,12.0,included_game_day
+2026,257,Richmond Spiders,2025-11-11,12.4,included_game_day
+2026,257,Richmond Spiders,2025-11-19,37.7709,included_game_day
+2026,257,Richmond Spiders,2025-11-22,58.39891,included_game_day
+2026,257,Richmond Spiders,2025-11-27,49.026535,included_game_day
+2026,257,Richmond Spiders,2025-11-28,48.927122430000004,included_game_day
+2026,257,Richmond Spiders,2025-12-03,63.91933196466,included_game_day
+2026,257,Richmond Spiders,2025-12-06,60.618750670194004,included_game_day
+2026,257,Richmond Spiders,2025-12-13,64.96575567951581,included_game_day
+2026,257,Richmond Spiders,2025-12-17,59.52168015385047,included_game_day
+2026,257,Richmond Spiders,2025-12-20,65.95827240876382,included_game_day
+2026,257,Richmond Spiders,2025-12-28,52.06599913660832,included_game_day
+2026,257,Richmond Spiders,2025-12-31,35.09910849179718,included_game_day
+2026,257,Richmond Spiders,2026-01-04,45.28487514548438,included_game_day
+2026,257,Richmond Spiders,2026-01-07,55.903685618958875,included_game_day
+2026,257,Richmond Spiders,2026-01-11,43.02933814618318,included_game_day
+2026,257,Richmond Spiders,2026-01-14,52.865348748420736,included_game_day
+2026,257,Richmond Spiders,2026-01-17,41.28340914732328,included_game_day
+2026,257,Richmond Spiders,2026-01-21,35.701070858152974,included_game_day
+2026,257,Richmond Spiders,2026-01-24,26.052742727371992,included_game_day
+2026,257,Richmond Spiders,2026-01-27,27.27012714554038,included_game_day
+2026,257,Richmond Spiders,2026-01-31,-2.5748862812848827,included_game_day
+2026,257,Richmond Spiders,2026-02-07,-0.7608377389098262,included_game_day
+2026,257,Richmond Spiders,2026-02-10,13.451364247699523,included_game_day
+2026,257,Richmond Spiders,2026-02-14,7.691317881866578,included_game_day
+2026,257,Richmond Spiders,2026-02-18,11.40520674495563,included_game_day
+2026,257,Richmond Spiders,2026-02-21,12.17274833993987,included_game_day
+2026,257,Richmond Spiders,2026-02-28,3.285108028625114,included_game_day
+2026,257,Richmond Spiders,2026-03-03,2.915490250468827,included_game_day
+2026,257,Richmond Spiders,2026-03-07,4.47462563984899,included_game_day
+2026,257,Richmond Spiders,2026-03-11,-8.04153580846815,included_game_day
+2027,257,Richmond Spiders,2026-11-02,20.0,included_game_day
+2027,257,Richmond Spiders,2026-11-08,44.9,included_game_day
+2027,257,Richmond Spiders,2026-11-12,32.89,included_game_day
+2027,257,Richmond Spiders,2026-11-16,22.29166,included_game_day
+2027,257,Richmond Spiders,2026-11-20,7.884694,included_game_day
+2027,257,Richmond Spiders,2026-11-22,11.912154699999999,included_game_day

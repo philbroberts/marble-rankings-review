@@ -1,0 +1,1254 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,238,Vanderbilt,1987-11-27,26.0,included_game_day
+1988,238,Vanderbilt,1987-11-30,33.8,included_game_day
+1988,238,Vanderbilt,1987-12-05,32.4447,included_game_day
+1988,238,Vanderbilt,1987-12-08,33.04483,included_game_day
+1988,238,Vanderbilt,1987-12-19,42.599974487,included_game_day
+1988,238,Vanderbilt,1987-12-21,42.242554375,included_game_day
+1988,238,Vanderbilt,1987-12-28,67.0605965785,included_game_day
+1988,238,Vanderbilt,1987-12-29,72.12968799596,included_game_day
+1988,238,Vanderbilt,1987-12-31,65.26591299226399,included_game_day
+1988,238,Vanderbilt,1988-01-06,43.4965697519216,included_game_day
+1988,238,Vanderbilt,1988-01-09,41.21340071485988,included_game_day
+1988,238,Vanderbilt,1988-01-13,43.65101843041062,included_game_day
+1988,238,Vanderbilt,1988-01-16,50.889821029600924,included_game_day
+1988,238,Vanderbilt,1988-01-20,65.9867522104268,included_game_day
+1988,238,Vanderbilt,1988-01-23,72.64952525274744,included_game_day
+1988,238,Vanderbilt,1988-01-27,90.30857106309392,included_game_day
+1988,238,Vanderbilt,1988-01-30,117.42080694171429,included_game_day
+1988,238,Vanderbilt,1988-02-03,118.3315938676213,included_game_day
+1988,238,Vanderbilt,1988-02-06,99.68407536788993,included_game_day
+1988,238,Vanderbilt,1988-02-10,117.93758269194828,included_game_day
+1988,238,Vanderbilt,1988-02-13,126.91943253661822,included_game_day
+1988,238,Vanderbilt,1988-02-17,106.52053023037374,included_game_day
+1988,238,Vanderbilt,1988-02-20,111.1480658770792,included_game_day
+1988,238,Vanderbilt,1988-02-24,89.86682671898106,included_game_day
+1988,238,Vanderbilt,1988-02-27,98.59239190576986,included_game_day
+1988,238,Vanderbilt,1988-03-02,82.7034594065474,included_game_day
+1988,238,Vanderbilt,1988-03-05,70.02971171143338,included_game_day
+1988,238,Vanderbilt,1988-03-11,64.96643749336697,included_game_day
+1988,238,Vanderbilt,1988-03-18,69.73233016209477,included_game_day
+1988,238,Vanderbilt,1988-03-20,83.27250060010894,included_game_day
+1988,238,Vanderbilt,1988-03-25,74.57968681432659,included_game_day
+1989,238,Vanderbilt,1988-11-25,-30.0,included_game_day
+1989,238,Vanderbilt,1988-11-27,-42.25,included_game_day
+1989,238,Vanderbilt,1988-11-30,-37.925,included_game_day
+1989,238,Vanderbilt,1988-12-03,-38.1325,included_game_day
+1989,238,Vanderbilt,1988-12-07,-37.524014535,included_game_day
+1989,238,Vanderbilt,1988-12-10,-37.5469770815,included_game_day
+1989,238,Vanderbilt,1988-12-14,-16.452652473350003,included_game_day
+1989,238,Vanderbilt,1988-12-19,-1.9378424787386521,included_game_day
+1989,238,Vanderbilt,1988-12-22,20.994546953949598,included_game_day
+1989,238,Vanderbilt,1988-12-29,48.74196371955463,included_game_day
+1989,238,Vanderbilt,1988-12-30,31.356706951582108,included_game_day
+1989,238,Vanderbilt,1989-01-04,51.207541276912096,included_game_day
+1989,238,Vanderbilt,1989-01-07,40.33201470427292,included_game_day
+1989,238,Vanderbilt,1989-01-11,47.80482208050769,included_game_day
+1989,238,Vanderbilt,1989-01-14,43.870965772691385,included_game_day
+1989,238,Vanderbilt,1989-01-18,46.35666450894877,included_game_day
+1989,238,Vanderbilt,1989-01-21,60.66040718133354,included_game_day
+1989,238,Vanderbilt,1989-01-25,50.99127875128215,included_game_day
+1989,238,Vanderbilt,1989-01-28,59.41060122432566,included_game_day
+1989,238,Vanderbilt,1989-02-01,67.594550790173,included_game_day
+1989,238,Vanderbilt,1989-02-04,59.62627266515522,included_game_day
+1989,238,Vanderbilt,1989-02-08,83.21037594585306,included_game_day
+1989,238,Vanderbilt,1989-02-11,74.16484645885906,included_game_day
+1989,238,Vanderbilt,1989-02-15,87.2025298628838,included_game_day
+1989,238,Vanderbilt,1989-02-18,118.16987819363305,included_game_day
+1989,238,Vanderbilt,1989-02-22,120.78320795027906,included_game_day
+1989,238,Vanderbilt,1989-02-25,115.82187129702412,included_game_day
+1989,238,Vanderbilt,1989-03-01,121.10326998582701,included_game_day
+1989,238,Vanderbilt,1989-03-04,99.85025452698213,included_game_day
+1989,238,Vanderbilt,1989-03-10,103.97643345133838,included_game_day
+1989,238,Vanderbilt,1989-03-11,97.43627825140021,included_game_day
+1989,238,Vanderbilt,1989-03-17,77.87042908373662,included_game_day
+1990,238,Vanderbilt,1989-11-27,9.1,included_game_day
+1990,238,Vanderbilt,1989-11-29,-9.290000000000001,included_game_day
+1990,238,Vanderbilt,1989-12-03,-1.1392000000000007,included_game_day
+1990,238,Vanderbilt,1989-12-06,-19.475,included_game_day
+1990,238,Vanderbilt,1989-12-09,-8.028637680000001,included_game_day
+1990,238,Vanderbilt,1989-12-16,7.322671646,included_game_day
+1990,238,Vanderbilt,1989-12-23,18.778193890399997,included_game_day
+1990,238,Vanderbilt,1989-12-30,20.492899184122,included_game_day
+1990,238,Vanderbilt,1990-01-03,33.09499462121065,included_game_day
+1990,238,Vanderbilt,1990-01-06,34.47585110220189,included_game_day
+1990,238,Vanderbilt,1990-01-10,35.188235883808325,included_game_day
+1990,238,Vanderbilt,1990-01-13,12.399999401082543,included_game_day
+1990,238,Vanderbilt,1990-01-16,-5.644322663388955,included_game_day
+1990,238,Vanderbilt,1990-01-20,-5.128799397623901,included_game_day
+1990,238,Vanderbilt,1990-01-24,7.761375839582456,included_game_day
+1990,238,Vanderbilt,1990-01-27,20.854821576764508,included_game_day
+1990,238,Vanderbilt,1990-01-31,23.471091578566966,included_game_day
+1990,238,Vanderbilt,1990-02-03,19.099937639041855,included_game_day
+1990,238,Vanderbilt,1990-02-07,-0.6096120452745168,included_game_day
+1990,238,Vanderbilt,1990-02-10,4.315464494308883,included_game_day
+1990,238,Vanderbilt,1990-02-14,6.926670012982237,included_game_day
+1990,238,Vanderbilt,1990-02-18,0.9229781075525505,included_game_day
+1990,238,Vanderbilt,1990-02-20,-11.566930794851,included_game_day
+1990,238,Vanderbilt,1990-02-24,-6.285504997452842,included_game_day
+1990,238,Vanderbilt,1990-02-28,-13.997942065457876,included_game_day
+1990,238,Vanderbilt,1990-03-03,12.787147036236187,included_game_day
+1990,238,Vanderbilt,1990-03-08,18.129260611751764,included_game_day
+1990,238,Vanderbilt,1990-03-09,29.455641405661034,included_game_day
+1990,238,Vanderbilt,1990-03-10,26.043500243777657,included_game_day
+1990,238,Vanderbilt,1990-03-15,34.09175861077602,included_game_day
+1990,238,Vanderbilt,1990-03-19,34.44562468388285,included_game_day
+1990,238,Vanderbilt,1990-03-21,38.455172029298836,included_game_day
+1990,238,Vanderbilt,1990-03-26,53.38272572980277,included_game_day
+1990,238,Vanderbilt,1990-03-28,55.6881521743024,included_game_day
+1991,238,Vanderbilt,1990-11-14,-34.0,included_game_day
+1991,238,Vanderbilt,1990-11-26,3.3999999999999986,included_game_day
+1991,238,Vanderbilt,1990-11-30,7.599999999999999,included_game_day
+1991,238,Vanderbilt,1990-12-01,10.751,included_game_day
+1991,238,Vanderbilt,1990-12-04,-0.1670069999999999,included_game_day
+1991,238,Vanderbilt,1990-12-08,-7.660519300000001,included_game_day
+1991,238,Vanderbilt,1990-12-13,8.388101129999999,included_game_day
+1991,238,Vanderbilt,1990-12-20,19.7876223727,included_game_day
+1991,238,Vanderbilt,1990-12-22,14.342458657973,included_game_day
+1991,238,Vanderbilt,1990-12-28,11.6961530594957,included_game_day
+1991,238,Vanderbilt,1990-12-29,13.984784620981157,included_game_day
+1991,238,Vanderbilt,1991-01-02,7.01934440657541,included_game_day
+1991,238,Vanderbilt,1991-01-05,23.176714926016388,included_game_day
+1991,238,Vanderbilt,1991-01-08,59.21695580326495,included_game_day
+1991,238,Vanderbilt,1991-01-12,40.375285681589915,included_game_day
+1991,238,Vanderbilt,1991-01-16,62.62505435883602,included_game_day
+1991,238,Vanderbilt,1991-01-19,62.600845507066225,included_game_day
+1991,238,Vanderbilt,1991-01-23,90.96421427813537,included_game_day
+1991,238,Vanderbilt,1991-01-30,89.04797871449283,included_game_day
+1991,238,Vanderbilt,1991-02-02,90.34132457375975,included_game_day
+1991,238,Vanderbilt,1991-02-06,111.0014534449013,included_game_day
+1991,238,Vanderbilt,1991-02-09,89.29842717461734,included_game_day
+1991,238,Vanderbilt,1991-02-13,79.42714305546362,included_game_day
+1991,238,Vanderbilt,1991-02-16,85.93881743816618,included_game_day
+1991,238,Vanderbilt,1991-02-20,95.06491622416661,included_game_day
+1991,238,Vanderbilt,1991-02-23,69.13757923686893,included_game_day
+1991,238,Vanderbilt,1991-02-27,72.13937834366054,included_game_day
+1991,238,Vanderbilt,1991-03-02,78.00573842531962,included_game_day
+1991,238,Vanderbilt,1991-03-08,69.14295358912443,included_game_day
+1991,238,Vanderbilt,1991-03-15,63.00404300693824,included_game_day
+1992,238,Vanderbilt,1991-11-25,4.0,included_game_day
+1992,238,Vanderbilt,1991-11-30,18.83,included_game_day
+1992,238,Vanderbilt,1991-12-02,19.339,included_game_day
+1992,238,Vanderbilt,1991-12-05,33.8695,included_game_day
+1992,238,Vanderbilt,1991-12-07,24.574256000000002,included_game_day
+1992,238,Vanderbilt,1991-12-10,-8.528514599999998,included_game_day
+1992,238,Vanderbilt,1991-12-21,8.947829124100004,included_game_day
+1992,238,Vanderbilt,1991-12-29,31.466543092690003,included_game_day
+1992,238,Vanderbilt,1991-12-30,29.407670441368104,included_game_day
+1992,238,Vanderbilt,1992-01-04,17.473559471939367,included_game_day
+1992,238,Vanderbilt,1992-01-08,26.15544730853432,included_game_day
+1992,238,Vanderbilt,1992-01-11,30.637706907054014,included_game_day
+1992,238,Vanderbilt,1992-01-15,24.884100464377862,included_game_day
+1992,238,Vanderbilt,1992-01-22,29.17295704834956,included_game_day
+1992,238,Vanderbilt,1992-01-25,12.685315945484508,included_game_day
+1992,238,Vanderbilt,1992-01-29,11.044608198902196,included_game_day
+1992,238,Vanderbilt,1992-02-01,2.935783549723027,included_game_day
+1992,238,Vanderbilt,1992-02-04,9.785651181209694,included_game_day
+1992,238,Vanderbilt,1992-02-08,14.491288798540108,included_game_day
+1992,238,Vanderbilt,1992-02-12,11.094048145637878,included_game_day
+1992,238,Vanderbilt,1992-02-15,29.698402312923985,included_game_day
+1992,238,Vanderbilt,1992-02-19,16.606048966193537,included_game_day
+1992,238,Vanderbilt,1992-02-22,21.905856259173085,included_game_day
+1992,238,Vanderbilt,1992-02-26,43.050966415845366,included_game_day
+1992,238,Vanderbilt,1992-03-01,31.800802157626578,included_game_day
+1992,238,Vanderbilt,1992-03-04,21.528164816479613,included_game_day
+1992,238,Vanderbilt,1992-03-07,30.146631166494387,included_game_day
+1992,238,Vanderbilt,1992-03-12,53.96036134771607,included_game_day
+1992,238,Vanderbilt,1992-03-13,42.46834210856717,included_game_day
+1992,238,Vanderbilt,1992-03-18,38.40541652643504,included_game_day
+1993,238,Vanderbilt,1992-11-25,18.0,included_game_day
+1993,238,Vanderbilt,1992-11-27,1.0,included_game_day
+1993,238,Vanderbilt,1992-11-28,1.9,included_game_day
+1993,238,Vanderbilt,1992-12-03,18.709999999999997,included_game_day
+1993,238,Vanderbilt,1992-12-05,48.638999999999996,included_game_day
+1993,238,Vanderbilt,1992-12-09,43.8251,included_game_day
+1993,238,Vanderbilt,1992-12-12,46.71289,included_game_day
+1993,238,Vanderbilt,1992-12-18,73.474601,included_game_day
+1993,238,Vanderbilt,1992-12-19,111.32938305282,included_game_day
+1993,238,Vanderbilt,1992-12-28,144.506024747538,included_game_day
+1993,238,Vanderbilt,1992-12-29,151.6341791545842,included_game_day
+1993,238,Vanderbilt,1993-01-02,139.89882295315078,included_game_day
+1993,238,Vanderbilt,1993-01-06,125.13098179912743,included_game_day
+1993,238,Vanderbilt,1993-01-09,119.44731967777199,included_game_day
+1993,238,Vanderbilt,1993-01-13,131.69833728968808,included_game_day
+1993,238,Vanderbilt,1993-01-16,129.64960228302587,included_game_day
+1993,238,Vanderbilt,1993-01-20,137.43299071027417,included_game_day
+1993,238,Vanderbilt,1993-01-27,148.24542698862587,included_game_day
+1993,238,Vanderbilt,1993-01-30,145.1303189047984,included_game_day
+1993,238,Vanderbilt,1993-02-03,129.9255814968158,included_game_day
+1993,238,Vanderbilt,1993-02-06,123.43353423752559,included_game_day
+1993,238,Vanderbilt,1993-02-10,136.80625751434332,included_game_day
+1993,238,Vanderbilt,1993-02-13,144.62189597153943,included_game_day
+1993,238,Vanderbilt,1993-02-17,160.40367935916277,included_game_day
+1993,238,Vanderbilt,1993-02-20,168.8917430217364,included_game_day
+1993,238,Vanderbilt,1993-02-24,165.09360256286914,included_game_day
+1993,238,Vanderbilt,1993-02-27,189.94747375886033,included_game_day
+1993,238,Vanderbilt,1993-03-02,179.24081831845467,included_game_day
+1993,238,Vanderbilt,1993-03-06,166.8184828661846,included_game_day
+1993,238,Vanderbilt,1993-03-12,171.34217749646902,included_game_day
+1993,238,Vanderbilt,1993-03-13,150.6065055207393,included_game_day
+1993,238,Vanderbilt,1993-03-18,159.09036175018738,included_game_day
+1993,238,Vanderbilt,1993-03-20,168.01110373600935,included_game_day
+1993,238,Vanderbilt,1993-03-26,156.11758964249105,included_game_day
+1994,238,Vanderbilt,1993-11-26,20.0,included_game_day
+1994,238,Vanderbilt,1993-12-01,49.6,included_game_day
+1994,238,Vanderbilt,1993-12-03,64.97,included_game_day
+1994,238,Vanderbilt,1993-12-04,52.333299999999994,included_game_day
+1994,238,Vanderbilt,1993-12-08,56.506705999999994,included_game_day
+1994,238,Vanderbilt,1993-12-18,47.57208539999999,included_game_day
+1994,238,Vanderbilt,1993-12-21,70.18941894,included_game_day
+1994,238,Vanderbilt,1993-12-28,77.41470016279999,included_game_day
+1994,238,Vanderbilt,1993-12-29,84.92754872152099,included_game_day
+1994,238,Vanderbilt,1994-01-04,67.16952466423791,included_game_day
+1994,238,Vanderbilt,1994-01-08,71.83447074901159,included_game_day
+1994,238,Vanderbilt,1994-01-12,62.991032177661616,included_game_day
+1994,238,Vanderbilt,1994-01-15,59.440481789669455,included_game_day
+1994,238,Vanderbilt,1994-01-19,68.57589120212337,included_game_day
+1994,238,Vanderbilt,1994-01-26,68.10052604574504,included_game_day
+1994,238,Vanderbilt,1994-01-29,64.02290823242465,included_game_day
+1994,238,Vanderbilt,1994-02-01,62.18034797546663,included_game_day
+1994,238,Vanderbilt,1994-02-06,59.40926266492093,included_game_day
+1994,238,Vanderbilt,1994-02-09,75.0110776749689,included_game_day
+1994,238,Vanderbilt,1994-02-12,75.20063557852092,included_game_day
+1994,238,Vanderbilt,1994-02-16,90.84729062208035,included_game_day
+1994,238,Vanderbilt,1994-02-19,83.99985392644884,included_game_day
+1994,238,Vanderbilt,1994-02-23,72.69227018539428,included_game_day
+1994,238,Vanderbilt,1994-02-26,84.41739370677895,included_game_day
+1994,238,Vanderbilt,1994-03-01,94.04910867706508,included_game_day
+1994,238,Vanderbilt,1994-03-06,94.91641687368022,included_game_day
+1994,238,Vanderbilt,1994-03-10,64.83259178215377,included_game_day
+1994,238,Vanderbilt,1994-03-17,74.2586028082965,included_game_day
+1994,238,Vanderbilt,1994-03-21,89.55194485696782,included_game_day
+1994,238,Vanderbilt,1994-03-23,101.50213947257267,included_game_day
+1994,238,Vanderbilt,1994-03-28,103.8019615315223,included_game_day
+1994,238,Vanderbilt,1994-03-30,96.21996054094167,included_game_day
+1995,238,Vanderbilt,1994-11-26,21.0,included_game_day
+1995,238,Vanderbilt,1994-11-30,48.2,included_game_day
+1995,238,Vanderbilt,1994-12-03,27.213,included_game_day
+1995,238,Vanderbilt,1994-12-06,31.5391,included_game_day
+1995,238,Vanderbilt,1994-12-11,63.00599,included_game_day
+1995,238,Vanderbilt,1994-12-21,52.7310164206,included_game_day
+1995,238,Vanderbilt,1994-12-28,74.666374644805,included_game_day
+1995,238,Vanderbilt,1994-12-29,73.05381391196865,included_game_day
+1995,238,Vanderbilt,1995-01-04,76.63226123408187,included_game_day
+1995,238,Vanderbilt,1995-01-07,67.7498308103922,included_game_day
+1995,238,Vanderbilt,1995-01-11,72.02381330303217,included_game_day
+1995,238,Vanderbilt,1995-01-15,60.40534463906346,included_game_day
+1995,238,Vanderbilt,1995-01-21,61.630387749926676,included_game_day
+1995,238,Vanderbilt,1995-01-25,59.467367219229814,included_game_day
+1995,238,Vanderbilt,1995-01-28,70.39320182745989,included_game_day
+1995,238,Vanderbilt,1995-01-29,64.72400706419754,included_game_day
+1995,238,Vanderbilt,1995-02-01,48.28973216348634,included_game_day
+1995,238,Vanderbilt,1995-02-04,34.68524207425253,included_game_day
+1995,238,Vanderbilt,1995-02-08,58.62045472165889,included_game_day
+1995,238,Vanderbilt,1995-02-11,55.57989559150592,included_game_day
+1995,238,Vanderbilt,1995-02-15,63.25707126425737,included_game_day
+1995,238,Vanderbilt,1995-02-18,66.10071875672628,included_game_day
+1995,238,Vanderbilt,1995-02-22,49.08617109586487,included_game_day
+1995,238,Vanderbilt,1995-02-25,50.116350983641325,included_game_day
+1995,238,Vanderbilt,1995-03-01,45.90223571717361,included_game_day
+1995,238,Vanderbilt,1995-03-05,34.78194583797433,included_game_day
+1995,238,Vanderbilt,1995-03-09,55.44332004569216,included_game_day
+1995,238,Vanderbilt,1995-03-10,59.7232828322132,included_game_day
+1996,238,Vanderbilt,1995-11-20,-8.0,included_game_day
+1996,238,Vanderbilt,1995-11-22,-2.99,included_game_day
+1996,238,Vanderbilt,1995-11-27,30.009,included_game_day
+1996,238,Vanderbilt,1995-12-02,47.1181,included_game_day
+1996,238,Vanderbilt,1995-12-05,61.48929,included_game_day
+1996,238,Vanderbilt,1995-12-07,63.330360999999996,included_game_day
+1996,238,Vanderbilt,1995-12-09,51.6355459,included_game_day
+1996,238,Vanderbilt,1995-12-12,59.77376640999999,included_game_day
+1996,238,Vanderbilt,1995-12-17,55.75730643599999,included_game_day
+1996,238,Vanderbilt,1995-12-23,60.45251901604999,included_game_day
+1996,238,Vanderbilt,1995-12-30,46.45352853791199,included_game_day
+1996,238,Vanderbilt,1996-01-03,39.610937536081636,included_game_day
+1996,238,Vanderbilt,1996-01-06,47.27802220487981,included_game_day
+1996,238,Vanderbilt,1996-01-10,38.97908375176747,included_game_day
+1996,238,Vanderbilt,1996-01-13,50.91129319387034,included_game_day
+1996,238,Vanderbilt,1996-01-17,50.930670463114424,included_game_day
+1996,238,Vanderbilt,1996-01-20,58.13190871838322,included_game_day
+1996,238,Vanderbilt,1996-01-24,35.07787066664673,included_game_day
+1996,238,Vanderbilt,1996-01-27,46.91873744021931,included_game_day
+1996,238,Vanderbilt,1996-01-31,59.70176629068305,included_game_day
+1996,238,Vanderbilt,1996-02-07,35.18051029796674,included_game_day
+1996,238,Vanderbilt,1996-02-10,12.14880082605395,included_game_day
+1996,238,Vanderbilt,1996-02-13,26.85464996032481,included_game_day
+1996,238,Vanderbilt,1996-02-17,37.86136518593273,included_game_day
+1996,238,Vanderbilt,1996-02-21,41.077025638091285,included_game_day
+1996,238,Vanderbilt,1996-02-24,28.046204089669992,included_game_day
+1996,238,Vanderbilt,1996-02-28,35.45729364855508,included_game_day
+1996,238,Vanderbilt,1996-03-02,23.58107392474503,included_game_day
+1996,238,Vanderbilt,1996-03-07,20.171046315155664,included_game_day
+1996,238,Vanderbilt,1996-03-13,29.81710743325913,included_game_day
+1996,238,Vanderbilt,1996-03-18,26.3343749378962,included_game_day
+1997,238,Vanderbilt,1996-11-20,5.0,included_game_day
+1997,238,Vanderbilt,1996-11-22,-18.9,included_game_day
+1997,238,Vanderbilt,1996-12-04,-12.812489999999999,included_game_day
+1997,238,Vanderbilt,1996-12-07,-3.4900209999999987,included_game_day
+1997,238,Vanderbilt,1996-12-09,-2.5019364999999993,included_game_day
+1997,238,Vanderbilt,1996-12-15,39.80534345,included_game_day
+1997,238,Vanderbilt,1996-12-21,55.238334835,included_game_day
+1997,238,Vanderbilt,1996-12-23,80.91557501762,included_game_day
+1997,238,Vanderbilt,1996-12-29,68.319213228946,included_game_day
+1997,238,Vanderbilt,1996-12-31,78.88524887552433,included_game_day
+1997,238,Vanderbilt,1997-01-04,82.62633406181381,included_game_day
+1997,238,Vanderbilt,1997-01-08,73.55501414042722,included_game_day
+1997,238,Vanderbilt,1997-01-11,57.076530609427905,included_game_day
+1997,238,Vanderbilt,1997-01-15,62.6824505324669,included_game_day
+1997,238,Vanderbilt,1997-01-18,64.24442856154299,included_game_day
+1997,238,Vanderbilt,1997-01-22,67.97818363364628,included_game_day
+1997,238,Vanderbilt,1997-01-25,54.53880432551652,included_game_day
+1997,238,Vanderbilt,1997-01-29,55.0831717725949,included_game_day
+1997,238,Vanderbilt,1997-02-01,68.2799752115185,included_game_day
+1997,238,Vanderbilt,1997-02-05,69.22895075713872,included_game_day
+1997,238,Vanderbilt,1997-02-08,73.73271069990105,included_game_day
+1997,238,Vanderbilt,1997-02-12,75.1143738089334,included_game_day
+1997,238,Vanderbilt,1997-02-15,86.75454578078941,included_game_day
+1997,238,Vanderbilt,1997-02-19,95.6931170841515,included_game_day
+1997,238,Vanderbilt,1997-02-22,105.33678332326224,included_game_day
+1997,238,Vanderbilt,1997-02-26,92.4303098827651,included_game_day
+1997,238,Vanderbilt,1997-03-01,91.25773188228221,included_game_day
+1997,238,Vanderbilt,1997-03-06,87.1687652121357,included_game_day
+1997,238,Vanderbilt,1997-03-07,85.59997370743329,included_game_day
+1997,238,Vanderbilt,1997-03-13,76.0132626101113,included_game_day
+1998,238,Vanderbilt,1997-11-15,25.0,included_game_day
+1998,238,Vanderbilt,1997-11-18,66.5,included_game_day
+1998,238,Vanderbilt,1997-11-21,65.65,included_game_day
+1998,238,Vanderbilt,1997-11-24,86.08500000000001,included_game_day
+1998,238,Vanderbilt,1997-11-27,100.8459,included_game_day
+1998,238,Vanderbilt,1997-11-29,106.38441,included_game_day
+1998,238,Vanderbilt,1997-12-03,99.480115,included_game_day
+1998,238,Vanderbilt,1997-12-09,100.018721406,included_game_day
+1998,238,Vanderbilt,1997-12-18,97.1370639754,included_game_day
+1998,238,Vanderbilt,1997-12-22,97.03782779426,included_game_day
+1998,238,Vanderbilt,1997-12-28,96.11507920732457,included_game_day
+1998,238,Vanderbilt,1997-12-29,92.44130238215882,included_game_day
+1998,238,Vanderbilt,1997-12-30,99.25802224633377,included_game_day
+1998,238,Vanderbilt,1998-01-03,96.87618465050979,included_game_day
+1998,238,Vanderbilt,1998-01-07,91.40499964950564,included_game_day
+1998,238,Vanderbilt,1998-01-10,85.13104408331324,included_game_day
+1998,238,Vanderbilt,1998-01-14,85.94408926943426,included_game_day
+1998,238,Vanderbilt,1998-01-17,84.18702745423066,included_game_day
+1998,238,Vanderbilt,1998-01-24,68.48069330902266,included_game_day
+1998,238,Vanderbilt,1998-01-27,71.40051202065901,included_game_day
+1998,238,Vanderbilt,1998-01-31,77.46855882012453,included_game_day
+1998,238,Vanderbilt,1998-02-03,72.5119893380975,included_game_day
+1998,238,Vanderbilt,1998-02-07,72.99133724562746,included_game_day
+1998,238,Vanderbilt,1998-02-11,67.31620145626978,included_game_day
+1998,238,Vanderbilt,1998-02-14,45.19241806259233,included_game_day
+1998,238,Vanderbilt,1998-02-18,60.1856563371782,included_game_day
+1998,238,Vanderbilt,1998-02-21,54.247707333216795,included_game_day
+1998,238,Vanderbilt,1998-02-25,43.32314689925005,included_game_day
+1998,238,Vanderbilt,1998-02-28,58.30345152202726,included_game_day
+1998,238,Vanderbilt,1998-03-05,48.81821972620268,included_game_day
+1998,238,Vanderbilt,1998-03-11,54.181419480813,included_game_day
+1998,238,Vanderbilt,1998-03-17,60.15545732595602,included_game_day
+1998,238,Vanderbilt,1998-03-19,53.92214388897874,included_game_day
+1999,238,Vanderbilt,1998-11-09,9.0,included_game_day
+1999,238,Vanderbilt,1998-11-10,-2.0,included_game_day
+1999,238,Vanderbilt,1998-11-14,46.2,included_game_day
+1999,238,Vanderbilt,1998-11-16,48.580000000000005,included_game_day
+1999,238,Vanderbilt,1998-11-21,44.152,included_game_day
+1999,238,Vanderbilt,1998-11-24,46.7368,included_game_day
+1999,238,Vanderbilt,1998-11-28,51.88733,included_game_day
+1999,238,Vanderbilt,1998-11-30,49.013296999999994,included_game_day
+1999,238,Vanderbilt,1998-12-05,40.945497759999995,included_game_day
+1999,238,Vanderbilt,1998-12-19,71.30733106,included_game_day
+1999,238,Vanderbilt,1998-12-22,50.271847851202,included_game_day
+1999,238,Vanderbilt,1999-01-02,69.31875900751491,included_game_day
+1999,238,Vanderbilt,1999-01-06,44.511366147613415,included_game_day
+1999,238,Vanderbilt,1999-01-09,38.380634963216814,included_game_day
+1999,238,Vanderbilt,1999-01-13,36.11583966547868,included_game_day
+1999,238,Vanderbilt,1999-01-20,39.80957266827927,included_game_day
+1999,238,Vanderbilt,1999-01-23,34.977117644008324,included_game_day
+1999,238,Vanderbilt,1999-01-27,28.62994267786934,included_game_day
+1999,238,Vanderbilt,1999-01-30,13.803543469318445,included_game_day
+1999,238,Vanderbilt,1999-02-03,0.05162083549507557,included_game_day
+1999,238,Vanderbilt,1999-02-06,13.065511451011293,included_game_day
+1999,238,Vanderbilt,1999-02-10,18.936607071179154,included_game_day
+1999,238,Vanderbilt,1999-02-13,33.67490080310928,included_game_day
+1999,238,Vanderbilt,1999-02-17,39.794738667969185,included_game_day
+1999,238,Vanderbilt,1999-02-21,39.25541507789292,included_game_day
+1999,238,Vanderbilt,1999-02-24,30.79871995131814,included_game_day
+1999,238,Vanderbilt,1999-02-27,38.42755182296361,included_game_day
+1999,238,Vanderbilt,1999-03-04,23.496249663947264,included_game_day
+2000,238,Vanderbilt,1999-11-23,15.3,included_game_day
+2000,238,Vanderbilt,1999-11-27,30.630000000000003,included_game_day
+2000,238,Vanderbilt,1999-11-29,35.58540000000001,included_game_day
+2000,238,Vanderbilt,1999-12-04,36.61055100000001,included_game_day
+2000,238,Vanderbilt,1999-12-07,58.557477000000006,included_game_day
+2000,238,Vanderbilt,1999-12-11,78.3255293,included_game_day
+2000,238,Vanderbilt,1999-12-18,90.80786841388,included_game_day
+2000,238,Vanderbilt,1999-12-20,108.773197653692,included_game_day
+2000,238,Vanderbilt,1999-12-22,93.9106177864838,included_game_day
+2000,238,Vanderbilt,1999-12-29,101.80708468985178,included_game_day
+2000,238,Vanderbilt,2000-01-05,117.52979379569045,included_game_day
+2000,238,Vanderbilt,2000-01-08,97.94257182683482,included_game_day
+2000,238,Vanderbilt,2000-01-12,106.67339365130962,included_game_day
+2000,238,Vanderbilt,2000-01-15,106.70934324419704,included_game_day
+2000,238,Vanderbilt,2000-01-22,97.02191962672677,included_game_day
+2000,238,Vanderbilt,2000-01-26,93.94676154437532,included_game_day
+2000,238,Vanderbilt,2000-01-29,77.75837758355291,included_game_day
+2000,238,Vanderbilt,2000-02-02,87.02829085393225,included_game_day
+2000,238,Vanderbilt,2000-02-06,95.62750997196486,included_game_day
+2000,238,Vanderbilt,2000-02-09,89.75206501031248,included_game_day
+2000,238,Vanderbilt,2000-02-12,72.659157802161,included_game_day
+2000,238,Vanderbilt,2000-02-16,67.3774356108655,included_game_day
+2000,238,Vanderbilt,2000-02-19,93.4550816935483,included_game_day
+2000,238,Vanderbilt,2000-02-23,78.84402727009802,included_game_day
+2000,238,Vanderbilt,2000-02-26,66.63596109894696,included_game_day
+2000,238,Vanderbilt,2000-03-01,70.54727792640804,included_game_day
+2000,238,Vanderbilt,2000-03-04,62.726784421208265,included_game_day
+2000,238,Vanderbilt,2000-03-09,86.46041321585594,included_game_day
+2000,238,Vanderbilt,2000-03-10,83.56860558758049,included_game_day
+2000,238,Vanderbilt,2000-03-14,65.2221251350846,included_game_day
+2001,238,Vanderbilt,2000-11-17,2.0,included_game_day
+2001,238,Vanderbilt,2000-11-18,15.8,included_game_day
+2001,238,Vanderbilt,2000-11-19,18.7,included_game_day
+2001,238,Vanderbilt,2000-11-22,29.119999999999997,included_game_day
+2001,238,Vanderbilt,2000-11-24,31.007999999999996,included_game_day
+2001,238,Vanderbilt,2000-11-28,37.244,included_game_day
+2001,238,Vanderbilt,2000-12-02,35.7976,included_game_day
+2001,238,Vanderbilt,2000-12-09,36.486081500000004,included_game_day
+2001,238,Vanderbilt,2000-12-16,45.950076852,included_game_day
+2001,238,Vanderbilt,2000-12-21,57.37345556499,included_game_day
+2001,238,Vanderbilt,2000-12-30,42.2719975873676,included_game_day
+2001,238,Vanderbilt,2001-01-06,28.821829367257056,included_game_day
+2001,238,Vanderbilt,2001-01-10,42.661664366722356,included_game_day
+2001,238,Vanderbilt,2001-01-13,66.28171161349889,included_game_day
+2001,238,Vanderbilt,2001-01-17,62.040425255449044,included_game_day
+2001,238,Vanderbilt,2001-01-20,76.79673577488268,included_game_day
+2001,238,Vanderbilt,2001-01-24,64.19192040305695,included_game_day
+2001,238,Vanderbilt,2001-01-27,59.089032775410885,included_game_day
+2001,238,Vanderbilt,2001-01-31,67.47889531745543,included_game_day
+2001,238,Vanderbilt,2001-02-03,52.9287367841687,included_game_day
+2001,238,Vanderbilt,2001-02-07,52.073316626794266,included_game_day
+2001,238,Vanderbilt,2001-02-10,44.31151917358364,included_game_day
+2001,238,Vanderbilt,2001-02-14,47.102331490836015,included_game_day
+2001,238,Vanderbilt,2001-02-17,50.886589929409894,included_game_day
+2001,238,Vanderbilt,2001-02-21,41.92815948191095,included_game_day
+2001,238,Vanderbilt,2001-02-24,35.00279074800037,included_game_day
+2001,238,Vanderbilt,2001-02-28,37.584738086868754,included_game_day
+2001,238,Vanderbilt,2001-03-03,43.542824861514156,included_game_day
+2001,238,Vanderbilt,2001-03-08,26.81970808758456,included_game_day
+2002,238,Vanderbilt Commodores,2001-11-16,32.0,included_game_day
+2002,238,Vanderbilt Commodores,2001-11-19,18.8,included_game_day
+2002,238,Vanderbilt Commodores,2001-11-23,35.71,included_game_day
+2002,238,Vanderbilt Commodores,2001-11-24,21.979,included_game_day
+2002,238,Vanderbilt Commodores,2001-11-29,23.8326,included_game_day
+2002,238,Vanderbilt Commodores,2001-12-02,28.62884,included_game_day
+2002,238,Vanderbilt Commodores,2001-12-05,23.578059,included_game_day
+2002,238,Vanderbilt Commodores,2001-12-08,22.0189078,included_game_day
+2002,238,Vanderbilt Commodores,2001-12-10,15.338140524,included_game_day
+2002,238,Vanderbilt Commodores,2001-12-20,36.4612906106,included_game_day
+2002,238,Vanderbilt Commodores,2001-12-22,42.07996593226,included_game_day
+2002,238,Vanderbilt Commodores,2001-12-29,40.8976411036808,included_game_day
+2002,238,Vanderbilt Commodores,2002-01-05,33.629279321166386,included_game_day
+2002,238,Vanderbilt Commodores,2002-01-09,34.283704730498414,included_game_day
+2002,238,Vanderbilt Commodores,2002-01-12,34.3372687459094,included_game_day
+2002,238,Vanderbilt Commodores,2002-01-16,40.89655280360941,included_game_day
+2002,238,Vanderbilt Commodores,2002-01-19,60.0315334063269,included_game_day
+2002,238,Vanderbilt Commodores,2002-01-26,64.53528162003005,included_game_day
+2002,238,Vanderbilt Commodores,2002-01-30,60.52118346650993,included_game_day
+2002,238,Vanderbilt Commodores,2002-02-02,55.93049520668997,included_game_day
+2002,238,Vanderbilt Commodores,2002-02-06,57.90413280207624,included_game_day
+2002,238,Vanderbilt Commodores,2002-02-09,47.05076950159352,included_game_day
+2002,238,Vanderbilt Commodores,2002-02-16,27.850231120081638,included_game_day
+2002,238,Vanderbilt Commodores,2002-02-20,10.078901185693155,included_game_day
+2002,238,Vanderbilt Commodores,2002-02-23,24.09431368152942,included_game_day
+2002,238,Vanderbilt Commodores,2002-02-27,45.43318681627804,included_game_day
+2002,238,Vanderbilt Commodores,2002-03-02,37.17133496323596,included_game_day
+2002,238,Vanderbilt Commodores,2002-03-07,36.31369414656936,included_game_day
+2002,238,Vanderbilt Commodores,2002-03-13,41.133422662540916,included_game_day
+2002,238,Vanderbilt Commodores,2002-03-15,32.80388376825049,included_game_day
+2003,238,Vanderbilt Commodores,2002-11-22,19.0,included_game_day
+2003,238,Vanderbilt Commodores,2002-11-24,42.1,included_game_day
+2003,238,Vanderbilt Commodores,2002-11-26,72.59,included_game_day
+2003,238,Vanderbilt Commodores,2002-12-01,58.67100000000001,included_game_day
+2003,238,Vanderbilt Commodores,2002-12-04,58.94095000000001,included_game_day
+2003,238,Vanderbilt Commodores,2002-12-07,70.64558550000001,included_game_day
+2003,238,Vanderbilt Commodores,2002-12-09,56.73425885000001,included_game_day
+2003,238,Vanderbilt Commodores,2002-12-15,49.68275996500001,included_game_day
+2003,238,Vanderbilt Commodores,2002-12-21,43.85392936878001,included_game_day
+2003,238,Vanderbilt Commodores,2002-12-30,45.59603276088781,included_game_day
+2003,238,Vanderbilt Commodores,2003-01-02,56.630630102755475,included_game_day
+2003,238,Vanderbilt Commodores,2003-01-08,62.176294159696766,included_game_day
+2003,238,Vanderbilt Commodores,2003-01-11,62.04514162050383,included_game_day
+2003,238,Vanderbilt Commodores,2003-01-14,38.312276910924446,included_game_day
+2003,238,Vanderbilt Commodores,2003-01-18,37.46943267289597,included_game_day
+2003,238,Vanderbilt Commodores,2003-01-22,37.54796496146629,included_game_day
+2003,238,Vanderbilt Commodores,2003-01-29,46.445258321543335,included_game_day
+2003,238,Vanderbilt Commodores,2003-02-01,55.82189032862673,included_game_day
+2003,238,Vanderbilt Commodores,2003-02-05,42.53384085639314,included_game_day
+2003,238,Vanderbilt Commodores,2003-02-08,24.77100289863931,included_game_day
+2003,238,Vanderbilt Commodores,2003-02-12,14.301078999886164,included_game_day
+2003,238,Vanderbilt Commodores,2003-02-15,12.955245036466401,included_game_day
+2003,238,Vanderbilt Commodores,2003-02-22,20.472565593775332,included_game_day
+2003,238,Vanderbilt Commodores,2003-02-26,5.15908599563496,included_game_day
+2003,238,Vanderbilt Commodores,2003-03-01,-0.821135657235998,included_game_day
+2003,238,Vanderbilt Commodores,2003-03-05,-40.93196028668284,included_game_day
+2003,238,Vanderbilt Commodores,2003-03-08,-37.74368281880325,included_game_day
+2003,238,Vanderbilt Commodores,2003-03-13,-7.03349105697594,included_game_day
+2003,238,Vanderbilt Commodores,2003-03-14,1.2462083162121296,included_game_day
+2004,238,Vanderbilt Commodores,2003-11-21,18.0,included_game_day
+2004,238,Vanderbilt Commodores,2003-11-24,26.6,included_game_day
+2004,238,Vanderbilt Commodores,2003-11-29,55.314,included_game_day
+2004,238,Vanderbilt Commodores,2003-12-03,66.5176,included_game_day
+2004,238,Vanderbilt Commodores,2003-12-06,82.7094924,included_game_day
+2004,238,Vanderbilt Commodores,2003-12-10,86.06236971999999,included_game_day
+2004,238,Vanderbilt Commodores,2003-12-13,95.521721348,included_game_day
+2004,238,Vanderbilt Commodores,2003-12-20,107.76229985559999,included_game_day
+2004,238,Vanderbilt Commodores,2003-12-22,107.40789420439461,included_game_day
+2004,238,Vanderbilt Commodores,2003-12-30,118.81123704780914,included_game_day
+2004,238,Vanderbilt Commodores,2004-01-03,145.53228035691023,included_game_day
+2004,238,Vanderbilt Commodores,2004-01-07,142.53114506241494,included_game_day
+2004,238,Vanderbilt Commodores,2004-01-10,128.30273226809038,included_game_day
+2004,238,Vanderbilt Commodores,2004-01-14,115.34343049477141,included_game_day
+2004,238,Vanderbilt Commodores,2004-01-17,130.22961490025688,included_game_day
+2004,238,Vanderbilt Commodores,2004-01-24,115.06046440008964,included_game_day
+2004,238,Vanderbilt Commodores,2004-01-28,112.79259986195039,included_game_day
+2004,238,Vanderbilt Commodores,2004-01-31,114.30575494615469,included_game_day
+2004,238,Vanderbilt Commodores,2004-02-07,108.18732565341443,included_game_day
+2004,238,Vanderbilt Commodores,2004-02-11,122.18602441710061,included_game_day
+2004,238,Vanderbilt Commodores,2004-02-14,118.06853916719615,included_game_day
+2004,238,Vanderbilt Commodores,2004-02-18,119.234422396394,included_game_day
+2004,238,Vanderbilt Commodores,2004-02-21,132.45918440542462,included_game_day
+2004,238,Vanderbilt Commodores,2004-02-25,135.56853168693377,included_game_day
+2004,238,Vanderbilt Commodores,2004-02-28,131.69103989833167,included_game_day
+2004,238,Vanderbilt Commodores,2004-03-03,121.4061969081747,included_game_day
+2004,238,Vanderbilt Commodores,2004-03-06,108.92110714143202,included_game_day
+2004,238,Vanderbilt Commodores,2004-03-11,116.29615447948753,included_game_day
+2004,238,Vanderbilt Commodores,2004-03-12,127.46909813876752,included_game_day
+2004,238,Vanderbilt Commodores,2004-03-13,106.50395398659391,included_game_day
+2004,238,Vanderbilt Commodores,2004-03-19,119.04894343653197,included_game_day
+2004,238,Vanderbilt Commodores,2004-03-21,125.20449645220693,included_game_day
+2004,238,Vanderbilt Commodores,2004-03-25,113.05190238538127,included_game_day
+2005,238,Vanderbilt Commodores,2004-11-19,13.0,included_game_day
+2005,238,Vanderbilt Commodores,2004-11-21,30.7,included_game_day
+2005,238,Vanderbilt Commodores,2004-11-23,47.93,included_game_day
+2005,238,Vanderbilt Commodores,2004-11-26,27.96,included_game_day
+2005,238,Vanderbilt Commodores,2004-11-27,12.104000000000001,included_game_day
+2005,238,Vanderbilt Commodores,2004-12-01,20.8176,included_game_day
+2005,238,Vanderbilt Commodores,2004-12-04,16.41554,included_game_day
+2005,238,Vanderbilt Commodores,2004-12-09,6.383616,included_game_day
+2005,238,Vanderbilt Commodores,2004-12-18,28.253501063363,included_game_day
+2005,238,Vanderbilt Commodores,2004-12-20,53.67962696015,included_game_day
+2005,238,Vanderbilt Commodores,2004-12-22,59.728178697765,included_game_day
+2005,238,Vanderbilt Commodores,2004-12-29,68.75347827458141,included_game_day
+2005,238,Vanderbilt Commodores,2005-01-02,85.19714844992723,included_game_day
+2005,238,Vanderbilt Commodores,2005-01-05,94.71444773077442,included_game_day
+2005,238,Vanderbilt Commodores,2005-01-08,118.06475059366447,included_game_day
+2005,238,Vanderbilt Commodores,2005-01-12,105.5454328410417,included_game_day
+2005,238,Vanderbilt Commodores,2005-01-15,88.68577065159275,included_game_day
+2005,238,Vanderbilt Commodores,2005-01-22,70.83878725228953,included_game_day
+2005,238,Vanderbilt Commodores,2005-01-26,68.5515478754998,included_game_day
+2005,238,Vanderbilt Commodores,2005-01-29,85.46980284418106,included_game_day
+2005,238,Vanderbilt Commodores,2005-02-02,82.43227183345799,included_game_day
+2005,238,Vanderbilt Commodores,2005-02-05,74.08477787400807,included_game_day
+2005,238,Vanderbilt Commodores,2005-02-07,93.9458181651342,included_game_day
+2005,238,Vanderbilt Commodores,2005-02-12,90.43678525078052,included_game_day
+2005,238,Vanderbilt Commodores,2005-02-16,109.35986881307943,included_game_day
+2005,238,Vanderbilt Commodores,2005-02-19,119.64802747380494,included_game_day
+2005,238,Vanderbilt Commodores,2005-02-26,131.1444413029885,included_game_day
+2005,238,Vanderbilt Commodores,2005-03-02,133.2487101619566,included_game_day
+2005,238,Vanderbilt Commodores,2005-03-05,120.79521177632782,included_game_day
+2005,238,Vanderbilt Commodores,2005-03-10,99.35134103883661,included_game_day
+2005,238,Vanderbilt Commodores,2005-03-16,106.3595793039969,included_game_day
+2005,238,Vanderbilt Commodores,2005-03-21,100.25848377199195,included_game_day
+2005,238,Vanderbilt Commodores,2005-03-23,94.50099140070566,included_game_day
+2006,238,Vanderbilt Commodores,2005-11-18,18.0,included_game_day
+2006,238,Vanderbilt Commodores,2005-11-20,34.2,included_game_day
+2006,238,Vanderbilt Commodores,2005-11-22,60.016000000000005,included_game_day
+2006,238,Vanderbilt Commodores,2005-11-26,67.3544,included_game_day
+2006,238,Vanderbilt Commodores,2005-11-30,67.23666,included_game_day
+2006,238,Vanderbilt Commodores,2005-12-10,49.829930944,included_game_day
+2006,238,Vanderbilt Commodores,2005-12-17,57.846937849599996,included_game_day
+2006,238,Vanderbilt Commodores,2005-12-20,48.366001947247995,included_game_day
+2006,238,Vanderbilt Commodores,2005-12-22,46.25661686913119,included_game_day
+2006,238,Vanderbilt Commodores,2005-12-30,51.27371274823345,included_game_day
+2006,238,Vanderbilt Commodores,2006-01-03,44.38786992077734,included_game_day
+2006,238,Vanderbilt Commodores,2006-01-07,65.82875923875231,included_game_day
+2006,238,Vanderbilt Commodores,2006-01-10,70.74276617268059,included_game_day
+2006,238,Vanderbilt Commodores,2006-01-14,62.90765688607104,included_game_day
+2006,238,Vanderbilt Commodores,2006-01-18,57.59754936978081,included_game_day
+2006,238,Vanderbilt Commodores,2006-01-21,79.61878592430479,included_game_day
+2006,238,Vanderbilt Commodores,2006-01-28,66.53730176438383,included_game_day
+2006,238,Vanderbilt Commodores,2006-02-01,68.24124562008274,included_game_day
+2006,238,Vanderbilt Commodores,2006-02-04,60.07111030902239,included_game_day
+2006,238,Vanderbilt Commodores,2006-02-08,58.786024959174156,included_game_day
+2006,238,Vanderbilt Commodores,2006-02-11,58.985036484413584,included_game_day
+2006,238,Vanderbilt Commodores,2006-02-15,60.2660969869291,included_game_day
+2006,238,Vanderbilt Commodores,2006-02-18,77.70160977850067,included_game_day
+2006,238,Vanderbilt Commodores,2006-02-22,67.04393555608286,included_game_day
+2006,238,Vanderbilt Commodores,2006-02-25,71.42153832187279,included_game_day
+2006,238,Vanderbilt Commodores,2006-03-01,78.25814547282104,included_game_day
+2006,238,Vanderbilt Commodores,2006-03-04,69.14155587061528,included_game_day
+2006,238,Vanderbilt Commodores,2006-03-09,64.67062695768323,included_game_day
+2006,238,Vanderbilt Commodores,2006-03-10,52.71502616950898,included_game_day
+2006,238,Vanderbilt Commodores,2006-03-15,50.67420735649621,included_game_day
+2007,238,Vanderbilt Commodores,2006-11-15,-18.3,included_game_day
+2007,238,Vanderbilt Commodores,2006-11-21,-20.581000000000003,included_game_day
+2007,238,Vanderbilt Commodores,2006-11-25,-15.401900000000003,included_game_day
+2007,238,Vanderbilt Commodores,2006-11-28,-23.104430000000004,included_game_day
+2007,238,Vanderbilt Commodores,2006-12-02,-19.799052718000006,included_game_day
+2007,238,Vanderbilt Commodores,2006-12-05,20.921011337799996,included_game_day
+2007,238,Vanderbilt Commodores,2006-12-07,24.138215989119995,included_game_day
+2007,238,Vanderbilt Commodores,2006-12-09,33.178122752208,included_game_day
+2007,238,Vanderbilt Commodores,2006-12-16,51.7075131914318,included_game_day
+2007,238,Vanderbilt Commodores,2006-12-20,55.54800421951521,included_game_day
+2007,238,Vanderbilt Commodores,2006-12-21,41.35355115988641,included_game_day
+2007,238,Vanderbilt Commodores,2006-12-29,63.63953469494778,included_game_day
+2007,238,Vanderbilt Commodores,2007-01-02,64.2343016425124,included_game_day
+2007,238,Vanderbilt Commodores,2007-01-06,60.06681006266669,included_game_day
+2007,238,Vanderbilt Commodores,2007-01-10,61.35636814863547,included_game_day
+2007,238,Vanderbilt Commodores,2007-01-13,56.29493622163225,included_game_day
+2007,238,Vanderbilt Commodores,2007-01-17,80.66540437518057,included_game_day
+2007,238,Vanderbilt Commodores,2007-01-20,93.9600595359857,included_game_day
+2007,238,Vanderbilt Commodores,2007-01-24,107.00378057512921,included_game_day
+2007,238,Vanderbilt Commodores,2007-01-27,105.70668875450265,included_game_day
+2007,238,Vanderbilt Commodores,2007-01-31,108.37637682502834,included_game_day
+2007,238,Vanderbilt Commodores,2007-02-03,109.50183990669646,included_game_day
+2007,238,Vanderbilt Commodores,2007-02-10,81.2945067139226,included_game_day
+2007,238,Vanderbilt Commodores,2007-02-14,80.42433933403943,included_game_day
+2007,238,Vanderbilt Commodores,2007-02-17,101.67128842823257,included_game_day
+2007,238,Vanderbilt Commodores,2007-02-21,92.53965278472053,included_game_day
+2007,238,Vanderbilt Commodores,2007-02-25,93.1728633846987,included_game_day
+2007,238,Vanderbilt Commodores,2007-02-28,100.59453234295884,included_game_day
+2007,238,Vanderbilt Commodores,2007-03-03,79.70836839897946,included_game_day
+2007,238,Vanderbilt Commodores,2007-03-09,79.1463200329393,included_game_day
+2007,238,Vanderbilt Commodores,2007-03-15,107.41218025132471,included_game_day
+2007,238,Vanderbilt Commodores,2007-03-17,113.43348008656923,included_game_day
+2007,238,Vanderbilt Commodores,2007-03-23,122.58216640676919,included_game_day
+2008,238,Vanderbilt Commodores,2007-11-10,11.0,included_game_day
+2008,238,Vanderbilt Commodores,2007-11-13,20.0,included_game_day
+2008,238,Vanderbilt Commodores,2007-11-20,25.05,included_game_day
+2008,238,Vanderbilt Commodores,2007-11-23,41.312110000000004,included_game_day
+2008,238,Vanderbilt Commodores,2007-11-24,50.650469,included_game_day
+2008,238,Vanderbilt Commodores,2007-11-29,49.8331918,included_game_day
+2008,238,Vanderbilt Commodores,2007-12-01,56.263510248,included_game_day
+2008,238,Vanderbilt Commodores,2007-12-05,54.873498883100005,included_game_day
+2008,238,Vanderbilt Commodores,2007-12-08,68.51010969479,included_game_day
+2008,238,Vanderbilt Commodores,2007-12-12,69.782438647267,included_game_day
+2008,238,Vanderbilt Commodores,2007-12-22,64.31823022495152,included_game_day
+2008,238,Vanderbilt Commodores,2007-12-29,56.003736078418186,included_game_day
+2008,238,Vanderbilt Commodores,2007-12-31,69.38585721565329,included_game_day
+2008,238,Vanderbilt Commodores,2008-01-03,71.38307907356378,included_game_day
+2008,238,Vanderbilt Commodores,2008-01-05,76.75756563487278,included_game_day
+2008,238,Vanderbilt Commodores,2008-01-09,77.68590039820631,included_game_day
+2008,238,Vanderbilt Commodores,2008-01-12,71.50369581881063,included_game_day
+2008,238,Vanderbilt Commodores,2008-01-17,61.31202021296777,included_game_day
+2008,238,Vanderbilt Commodores,2008-01-27,48.56561935196591,included_game_day
+2008,238,Vanderbilt Commodores,2008-01-30,39.91859820942663,included_game_day
+2008,238,Vanderbilt Commodores,2008-02-02,40.4757385289948,included_game_day
+2008,238,Vanderbilt Commodores,2008-02-06,50.29029698929251,included_game_day
+2008,238,Vanderbilt Commodores,2008-02-09,54.74512491730961,included_game_day
+2008,238,Vanderbilt Commodores,2008-02-12,95.26277020329584,included_game_day
+2008,238,Vanderbilt Commodores,2008-02-16,93.35369293164247,included_game_day
+2008,238,Vanderbilt Commodores,2008-02-23,97.2360354336463,included_game_day
+2008,238,Vanderbilt Commodores,2008-02-26,104.831478092898,included_game_day
+2008,238,Vanderbilt Commodores,2008-03-01,103.04806691591955,included_game_day
+2008,238,Vanderbilt Commodores,2008-03-05,102.33938064184228,included_game_day
+2008,238,Vanderbilt Commodores,2008-03-08,94.94877357039786,included_game_day
+2008,238,Vanderbilt Commodores,2008-03-13,97.46453634529371,included_game_day
+2008,238,Vanderbilt Commodores,2008-03-14,91.5024622307113,included_game_day
+2008,238,Vanderbilt Commodores,2008-03-21,69.64375142480264,included_game_day
+2009,238,Vanderbilt Commodores,2008-11-16,23.1,included_game_day
+2009,238,Vanderbilt Commodores,2008-11-20,14.560000000000002,included_game_day
+2009,238,Vanderbilt Commodores,2008-11-24,18.376,included_game_day
+2009,238,Vanderbilt Commodores,2008-11-26,31.8784,included_game_day
+2009,238,Vanderbilt Commodores,2008-11-29,44.09966,included_game_day
+2009,238,Vanderbilt Commodores,2008-11-30,48.7618716,included_game_day
+2009,238,Vanderbilt Commodores,2008-12-03,23.18909634,included_game_day
+2009,238,Vanderbilt Commodores,2008-12-06,16.90109726,included_game_day
+2009,238,Vanderbilt Commodores,2008-12-10,34.789658634,included_game_day
+2009,238,Vanderbilt Commodores,2008-12-16,51.09384833403,included_game_day
+2009,238,Vanderbilt Commodores,2008-12-20,63.29217011618,included_game_day
+2009,238,Vanderbilt Commodores,2008-12-22,64.9559670722506,included_game_day
+2009,238,Vanderbilt Commodores,2008-12-31,79.83581060838014,included_game_day
+2009,238,Vanderbilt Commodores,2009-01-03,104.66685847594738,included_game_day
+2009,238,Vanderbilt Commodores,2009-01-10,99.01330090644386,included_game_day
+2009,238,Vanderbilt Commodores,2009-01-14,97.69141581293476,included_game_day
+2009,238,Vanderbilt Commodores,2009-01-17,93.15484052712749,included_game_day
+2009,238,Vanderbilt Commodores,2009-01-20,74.23052557813085,included_game_day
+2009,238,Vanderbilt Commodores,2009-01-25,49.601319008814315,included_game_day
+2009,238,Vanderbilt Commodores,2009-01-28,46.21340292636685,included_game_day
+2009,238,Vanderbilt Commodores,2009-01-31,59.40932707692007,included_game_day
+2009,238,Vanderbilt Commodores,2009-02-05,57.45884414444656,included_game_day
+2009,238,Vanderbilt Commodores,2009-02-07,63.852471309753405,included_game_day
+2009,238,Vanderbilt Commodores,2009-02-14,52.54775924686213,included_game_day
+2009,238,Vanderbilt Commodores,2009-02-17,69.35102141683652,included_game_day
+2009,238,Vanderbilt Commodores,2009-02-21,61.81610808753877,included_game_day
+2009,238,Vanderbilt Commodores,2009-02-25,51.464678271950504,included_game_day
+2009,238,Vanderbilt Commodores,2009-02-28,66.49376543965846,included_game_day
+2009,238,Vanderbilt Commodores,2009-03-04,83.44151778344421,included_game_day
+2009,238,Vanderbilt Commodores,2009-03-08,90.79809860545284,included_game_day
+2009,238,Vanderbilt Commodores,2009-03-12,82.7643549360437,included_game_day
+2010,238,Vanderbilt Commodores,2009-11-16,18.2,included_game_day
+2010,238,Vanderbilt Commodores,2009-11-20,25.89,included_game_day
+2010,238,Vanderbilt Commodores,2009-11-23,16.631,included_game_day
+2010,238,Vanderbilt Commodores,2009-11-25,30.061651,included_game_day
+2010,238,Vanderbilt Commodores,2009-12-02,38.4391699,included_game_day
+2010,238,Vanderbilt Commodores,2009-12-05,46.070834476,included_game_day
+2010,238,Vanderbilt Commodores,2009-12-08,39.708647411,included_game_day
+2010,238,Vanderbilt Commodores,2009-12-11,28.06876113478,included_game_day
+2010,238,Vanderbilt Commodores,2009-12-19,30.051200085715003,included_game_day
+2010,238,Vanderbilt Commodores,2009-12-21,61.5709115782435,included_game_day
+2010,238,Vanderbilt Commodores,2009-12-30,92.2607973855898,included_game_day
+2010,238,Vanderbilt Commodores,2010-01-02,118.41328655885411,included_game_day
+2010,238,Vanderbilt Commodores,2010-01-04,124.2463341228757,included_game_day
+2010,238,Vanderbilt Commodores,2010-01-09,125.14717677868454,included_game_day
+2010,238,Vanderbilt Commodores,2010-01-13,123.22675766590345,included_game_day
+2010,238,Vanderbilt Commodores,2010-01-16,130.48348957654613,included_game_day
+2010,238,Vanderbilt Commodores,2010-01-23,124.1854971394395,included_game_day
+2010,238,Vanderbilt Commodores,2010-01-27,135.50675370610412,included_game_day
+2010,238,Vanderbilt Commodores,2010-01-30,127.1832757646875,included_game_day
+2010,238,Vanderbilt Commodores,2010-02-03,123.41544959370547,included_game_day
+2010,238,Vanderbilt Commodores,2010-02-06,105.00549687410494,included_game_day
+2010,238,Vanderbilt Commodores,2010-02-09,122.32653202788083,included_game_day
+2010,238,Vanderbilt Commodores,2010-02-13,109.7869639010379,included_game_day
+2010,238,Vanderbilt Commodores,2010-02-18,115.2376336282704,included_game_day
+2010,238,Vanderbilt Commodores,2010-02-20,115.9724290371848,included_game_day
+2010,238,Vanderbilt Commodores,2010-02-25,108.83635730330884,included_game_day
+2010,238,Vanderbilt Commodores,2010-02-27,123.29498472097472,included_game_day
+2010,238,Vanderbilt Commodores,2010-03-02,127.52075962615073,included_game_day
+2010,238,Vanderbilt Commodores,2010-03-06,109.47101632737525,included_game_day
+2010,238,Vanderbilt Commodores,2010-03-12,116.96677702414858,included_game_day
+2010,238,Vanderbilt Commodores,2010-03-13,103.3393887133961,included_game_day
+2010,238,Vanderbilt Commodores,2010-03-18,103.8596478521806,included_game_day
+2011,238,Vanderbilt Commodores,2010-11-12,38.0,included_game_day
+2011,238,Vanderbilt Commodores,2010-11-18,48.370000000000005,included_game_day
+2011,238,Vanderbilt Commodores,2010-11-19,43.803000000000004,included_game_day
+2011,238,Vanderbilt Commodores,2010-11-21,51.119400000000006,included_game_day
+2011,238,Vanderbilt Commodores,2010-11-24,69.72154,included_game_day
+2011,238,Vanderbilt Commodores,2010-11-27,73.45938600000001,included_game_day
+2011,238,Vanderbilt Commodores,2010-12-01,83.411573934,included_game_day
+2011,238,Vanderbilt Commodores,2010-12-04,89.4477579426,included_game_day
+2011,238,Vanderbilt Commodores,2010-12-08,85.74316308374,included_game_day
+2011,238,Vanderbilt Commodores,2010-12-18,102.75321333602614,included_game_day
+2011,238,Vanderbilt Commodores,2010-12-21,112.82159216545219,included_game_day
+2011,238,Vanderbilt Commodores,2010-12-29,108.58793066484132,included_game_day
+2011,238,Vanderbilt Commodores,2011-01-02,126.09383436843714,included_game_day
+2011,238,Vanderbilt Commodores,2011-01-08,111.00510356750588,included_game_day
+2011,238,Vanderbilt Commodores,2011-01-12,110.60116701888431,included_game_day
+2011,238,Vanderbilt Commodores,2011-01-15,103.94240954707234,included_game_day
+2011,238,Vanderbilt Commodores,2011-01-19,103.6839561683622,included_game_day
+2011,238,Vanderbilt Commodores,2011-01-22,122.76265335307286,included_game_day
+2011,238,Vanderbilt Commodores,2011-01-27,118.88224550859401,included_game_day
+2011,238,Vanderbilt Commodores,2011-01-29,94.55949600641777,included_game_day
+2011,238,Vanderbilt Commodores,2011-02-01,94.17569266458148,included_game_day
+2011,238,Vanderbilt Commodores,2011-02-05,102.61377008625016,included_game_day
+2011,238,Vanderbilt Commodores,2011-02-10,104.54333767390551,included_game_day
+2011,238,Vanderbilt Commodores,2011-02-12,109.93248885394415,included_game_day
+2011,238,Vanderbilt Commodores,2011-02-16,116.8721039461245,included_game_day
+2011,238,Vanderbilt Commodores,2011-02-19,121.65754377430495,included_game_day
+2011,238,Vanderbilt Commodores,2011-02-22,104.60322540334182,included_game_day
+2011,238,Vanderbilt Commodores,2011-02-26,114.75624877582074,included_game_day
+2011,238,Vanderbilt Commodores,2011-03-01,118.5089893456312,included_game_day
+2011,238,Vanderbilt Commodores,2011-03-05,106.58482425304203,included_game_day
+2011,238,Vanderbilt Commodores,2011-03-10,102.19163865203882,included_game_day
+2011,238,Vanderbilt Commodores,2011-03-11,102.14261568214724,included_game_day
+2011,238,Vanderbilt Commodores,2011-03-12,95.49145591040393,included_game_day
+2011,238,Vanderbilt Commodores,2011-03-17,93.23972213899533,included_game_day
+2012,238,Vanderbilt Commodores,2011-11-11,11.0,included_game_day
+2012,238,Vanderbilt Commodores,2011-11-13,-6.100000000000001,included_game_day
+2012,238,Vanderbilt Commodores,2011-11-15,2.6099999999999994,included_game_day
+2012,238,Vanderbilt Commodores,2011-11-19,11.975,included_game_day
+2012,238,Vanderbilt Commodores,2011-11-21,16.101599999999998,included_game_day
+2012,238,Vanderbilt Commodores,2011-11-25,21.031926999999996,included_game_day
+2012,238,Vanderbilt Commodores,2011-11-28,7.680139299999997,included_game_day
+2012,238,Vanderbilt Commodores,2011-12-02,15.688306859999997,included_game_day
+2012,238,Vanderbilt Commodores,2011-12-07,24.264613045999997,included_game_day
+2012,238,Vanderbilt Commodores,2011-12-17,15.348157008199998,included_game_day
+2012,238,Vanderbilt Commodores,2011-12-19,32.5315569294,included_game_day
+2012,238,Vanderbilt Commodores,2011-12-21,55.7333966254225,included_game_day
+2012,238,Vanderbilt Commodores,2011-12-29,82.34880501412366,included_game_day
+2012,238,Vanderbilt Commodores,2012-01-02,74.41990396044513,included_game_day
+2012,238,Vanderbilt Commodores,2012-01-07,92.99255013717188,included_game_day
+2012,238,Vanderbilt Commodores,2012-01-10,99.8042106382551,included_game_day
+2012,238,Vanderbilt Commodores,2012-01-14,97.10149148867707,included_game_day
+2012,238,Vanderbilt Commodores,2012-01-19,110.95416425656697,included_game_day
+2012,238,Vanderbilt Commodores,2012-01-21,102.90506521348064,included_game_day
+2012,238,Vanderbilt Commodores,2012-01-24,112.17545993820153,included_game_day
+2012,238,Vanderbilt Commodores,2012-01-28,114.07969480331917,included_game_day
+2012,238,Vanderbilt Commodores,2012-01-31,103.24512550532224,included_game_day
+2012,238,Vanderbilt Commodores,2012-02-04,100.6942984585574,included_game_day
+2012,238,Vanderbilt Commodores,2012-02-08,107.35520794964049,included_game_day
+2012,238,Vanderbilt Commodores,2012-02-11,109.2658748980581,included_game_day
+2012,238,Vanderbilt Commodores,2012-02-16,130.6541999136751,included_game_day
+2012,238,Vanderbilt Commodores,2012-02-19,132.01325156383737,included_game_day
+2012,238,Vanderbilt Commodores,2012-02-22,125.41855772986543,included_game_day
+2012,238,Vanderbilt Commodores,2012-02-25,127.10715618474926,included_game_day
+2012,238,Vanderbilt Commodores,2012-02-28,132.99546934013222,included_game_day
+2012,238,Vanderbilt Commodores,2012-03-03,123.57753826813007,included_game_day
+2012,238,Vanderbilt Commodores,2012-03-09,138.12413296822479,included_game_day
+2012,238,Vanderbilt Commodores,2012-03-10,143.37240205875457,included_game_day
+2012,238,Vanderbilt Commodores,2012-03-11,156.24017588980212,included_game_day
+2012,238,Vanderbilt Commodores,2012-03-15,156.60184701719768,included_game_day
+2012,238,Vanderbilt Commodores,2012-03-17,152.83813658900246,included_game_day
+2013,238,Vanderbilt Commodores,2012-11-10,12.0,included_game_day
+2013,238,Vanderbilt Commodores,2012-11-16,-10.77,included_game_day
+2013,238,Vanderbilt Commodores,2012-11-22,-23.113,included_game_day
+2013,238,Vanderbilt Commodores,2012-11-23,-43.038830000000004,included_game_day
+2013,238,Vanderbilt Commodores,2012-11-25,-16.910410000000002,included_game_day
+2013,238,Vanderbilt Commodores,2012-12-01,-30.138792000000002,included_game_day
+2013,238,Vanderbilt Commodores,2012-12-06,-18.114662091000003,included_game_day
+2013,238,Vanderbilt Commodores,2012-12-15,-4.100929396530002,included_game_day
+2013,238,Vanderbilt Commodores,2012-12-17,0.9134548181229976,included_game_day
+2013,238,Vanderbilt Commodores,2012-12-21,4.876061050165027,included_game_day
+2013,238,Vanderbilt Commodores,2012-12-29,-10.90528817353389,included_game_day
+2013,238,Vanderbilt Commodores,2013-01-02,3.0684068661422224,included_game_day
+2013,238,Vanderbilt Commodores,2013-01-10,12.983296515895717,included_game_day
+2013,238,Vanderbilt Commodores,2013-01-12,-1.1199707015316598,included_game_day
+2013,238,Vanderbilt Commodores,2013-01-15,-0.19719896150323635,included_game_day
+2013,238,Vanderbilt Commodores,2013-01-19,10.960372084256882,included_game_day
+2013,238,Vanderbilt Commodores,2013-01-23,20.263869882171917,included_game_day
+2013,238,Vanderbilt Commodores,2013-01-26,7.350878476978647,included_game_day
+2013,238,Vanderbilt Commodores,2013-01-29,12.846583072788086,included_game_day
+2013,238,Vanderbilt Commodores,2013-02-02,11.189116283767472,included_game_day
+2013,238,Vanderbilt Commodores,2013-02-06,14.22924519350541,included_game_day
+2013,238,Vanderbilt Commodores,2013-02-09,37.61504068915065,included_game_day
+2013,238,Vanderbilt Commodores,2013-02-13,21.443748388612526,included_game_day
+2013,238,Vanderbilt Commodores,2013-02-16,27.517492911458383,included_game_day
+2013,238,Vanderbilt Commodores,2013-02-20,32.62017235977109,included_game_day
+2013,238,Vanderbilt Commodores,2013-02-23,66.99834511433082,included_game_day
+2013,238,Vanderbilt Commodores,2013-02-27,61.81588961494417,included_game_day
+2013,238,Vanderbilt Commodores,2013-03-02,62.184065793289555,included_game_day
+2013,238,Vanderbilt Commodores,2013-03-06,52.58818606477119,included_game_day
+2013,238,Vanderbilt Commodores,2013-03-09,50.680657361528645,included_game_day
+2013,238,Vanderbilt Commodores,2013-03-14,55.4420351789662,included_game_day
+2013,238,Vanderbilt Commodores,2013-03-15,75.04116586698521,included_game_day
+2013,238,Vanderbilt Commodores,2013-03-16,65.45251691003793,included_game_day
+2014,238,Vanderbilt Commodores,2013-11-12,3.0,included_game_day
+2014,238,Vanderbilt Commodores,2013-11-15,10.0,included_game_day
+2014,238,Vanderbilt Commodores,2013-11-19,6.655,included_game_day
+2014,238,Vanderbilt Commodores,2013-11-22,4.10755,included_game_day
+2014,238,Vanderbilt Commodores,2013-11-23,6.024923,included_game_day
+2014,238,Vanderbilt Commodores,2013-11-25,14.621966700000002,included_game_day
+2014,238,Vanderbilt Commodores,2013-12-02,14.129749980000001,included_game_day
+2014,238,Vanderbilt Commodores,2013-12-05,11.815672343000001,included_game_day
+2014,238,Vanderbilt Commodores,2013-12-17,4.7529750614970006,included_game_day
+2014,238,Vanderbilt Commodores,2013-12-21,18.9880068463233,included_game_day
+2014,238,Vanderbilt Commodores,2013-12-30,14.363139054177783,included_game_day
+2014,238,Vanderbilt Commodores,2014-01-04,38.40678963206156,included_game_day
+2014,238,Vanderbilt Commodores,2014-01-07,35.723845754833896,included_game_day
+2014,238,Vanderbilt Commodores,2014-01-11,31.94763500307036,included_game_day
+2014,238,Vanderbilt Commodores,2014-01-16,35.0205340619515,included_game_day
+2014,238,Vanderbilt Commodores,2014-01-18,15.879715958304843,included_game_day
+2014,238,Vanderbilt Commodores,2014-01-22,5.954738296372469,included_game_day
+2014,238,Vanderbilt Commodores,2014-01-25,23.35360121826952,included_game_day
+2014,238,Vanderbilt Commodores,2014-01-29,32.20760879766341,included_game_day
+2014,238,Vanderbilt Commodores,2014-02-01,32.125288842527276,included_game_day
+2014,238,Vanderbilt Commodores,2014-02-05,40.913575819041405,included_game_day
+2014,238,Vanderbilt Commodores,2014-02-08,39.83913699610312,included_game_day
+2014,238,Vanderbilt Commodores,2014-02-13,34.93517664733787,included_game_day
+2014,238,Vanderbilt Commodores,2014-02-15,32.4276904934757,included_game_day
+2014,238,Vanderbilt Commodores,2014-02-19,37.25038931951133,included_game_day
+2014,238,Vanderbilt Commodores,2014-02-22,49.86401178909524,included_game_day
+2014,238,Vanderbilt Commodores,2014-02-25,54.50167771009211,included_game_day
+2014,238,Vanderbilt Commodores,2014-03-01,23.896921801564257,included_game_day
+2014,238,Vanderbilt Commodores,2014-03-06,19.337456131261945,included_game_day
+2014,238,Vanderbilt Commodores,2014-03-08,19.86830932510886,included_game_day
+2014,238,Vanderbilt Commodores,2014-03-12,-1.2316333991257196,included_game_day
+2015,238,Vanderbilt Commodores,2014-11-20,4.2,included_game_day
+2015,238,Vanderbilt Commodores,2014-11-23,30.779999999999998,included_game_day
+2015,238,Vanderbilt Commodores,2014-11-25,32.2072,included_game_day
+2015,238,Vanderbilt Commodores,2014-11-28,23.56832,included_game_day
+2015,238,Vanderbilt Commodores,2014-11-29,36.01678,included_game_day
+2015,238,Vanderbilt Commodores,2014-12-04,34.67054968,included_game_day
+2015,238,Vanderbilt Commodores,2014-12-13,49.1895028105628,included_game_day
+2015,238,Vanderbilt Commodores,2014-12-16,58.384445244106516,included_game_day
+2015,238,Vanderbilt Commodores,2014-12-20,53.309731216085865,included_game_day
+2015,238,Vanderbilt Commodores,2014-12-22,72.77317803158428,included_game_day
+2015,238,Vanderbilt Commodores,2014-12-31,80.19151175137046,included_game_day
+2015,238,Vanderbilt Commodores,2015-01-03,75.62469777493219,included_game_day
+2015,238,Vanderbilt Commodores,2015-01-06,78.22703533170497,included_game_day
+2015,238,Vanderbilt Commodores,2015-01-10,71.61749950116821,included_game_day
+2015,238,Vanderbilt Commodores,2015-01-14,64.83868183636633,included_game_day
+2015,238,Vanderbilt Commodores,2015-01-17,55.875612116762156,included_game_day
+2015,238,Vanderbilt Commodores,2015-01-20,68.21424020413393,included_game_day
+2015,238,Vanderbilt Commodores,2015-01-24,62.743864591796346,included_game_day
+2015,238,Vanderbilt Commodores,2015-01-27,60.256606893658,included_game_day
+2015,238,Vanderbilt Commodores,2015-01-31,52.51793391904636,included_game_day
+2015,238,Vanderbilt Commodores,2015-02-03,58.0395602167653,included_game_day
+2015,238,Vanderbilt Commodores,2015-02-07,70.4576443337748,included_game_day
+2015,238,Vanderbilt Commodores,2015-02-11,60.74411087922208,included_game_day
+2015,238,Vanderbilt Commodores,2015-02-14,71.53144303581593,included_game_day
+2015,238,Vanderbilt Commodores,2015-02-18,71.99193901580898,included_game_day
+2015,238,Vanderbilt Commodores,2015-02-21,81.04629294623726,included_game_day
+2015,238,Vanderbilt Commodores,2015-02-26,87.15644851343747,included_game_day
+2015,238,Vanderbilt Commodores,2015-02-28,88.18644545490268,included_game_day
+2015,238,Vanderbilt Commodores,2015-03-04,87.05539998903139,included_game_day
+2015,238,Vanderbilt Commodores,2015-03-07,99.25279408937604,included_game_day
+2015,238,Vanderbilt Commodores,2015-03-12,86.12350839275975,included_game_day
+2015,238,Vanderbilt Commodores,2015-03-18,97.04299932969133,included_game_day
+2015,238,Vanderbilt Commodores,2015-03-20,107.78158570326154,included_game_day
+2015,238,Vanderbilt Commodores,2015-03-24,104.04061745034208,included_game_day
+2016,238,Vanderbilt Commodores,2015-11-13,36.0,included_game_day
+2016,238,Vanderbilt Commodores,2015-11-16,64.0,included_game_day
+2016,238,Vanderbilt Commodores,2015-11-19,61.6,included_game_day
+2016,238,Vanderbilt Commodores,2015-11-23,94.605,included_game_day
+2016,238,Vanderbilt Commodores,2015-11-24,108.24016,included_game_day
+2016,238,Vanderbilt Commodores,2015-11-25,94.853714,included_game_day
+2016,238,Vanderbilt Commodores,2015-12-02,132.3285726,included_game_day
+2016,238,Vanderbilt Commodores,2015-12-06,129.882666836,included_game_day
+2016,238,Vanderbilt Commodores,2015-12-09,112.7803201016,included_game_day
+2016,238,Vanderbilt Commodores,2015-12-19,119.57742968566001,included_game_day
+2016,238,Vanderbilt Commodores,2015-12-22,113.19852256465195,included_game_day
+2016,238,Vanderbilt Commodores,2015-12-30,122.91967167284946,included_game_day
+2016,238,Vanderbilt Commodores,2016-01-02,103.89274874083594,included_game_day
+2016,238,Vanderbilt Commodores,2016-01-05,96.42078439601912,included_game_day
+2016,238,Vanderbilt Commodores,2016-01-09,95.86475576007783,included_game_day
+2016,238,Vanderbilt Commodores,2016-01-12,100.23991256587492,included_game_day
+2016,238,Vanderbilt Commodores,2016-01-16,98.63907943108389,included_game_day
+2016,238,Vanderbilt Commodores,2016-01-20,110.32373391994022,included_game_day
+2016,238,Vanderbilt Commodores,2016-01-23,92.8200934910612,included_game_day
+2016,238,Vanderbilt Commodores,2016-01-26,91.86056520671487,included_game_day
+2016,238,Vanderbilt Commodores,2016-01-30,80.61157822704254,included_game_day
+2016,238,Vanderbilt Commodores,2016-02-04,100.37851323247266,included_game_day
+2016,238,Vanderbilt Commodores,2016-02-06,89.71304235411628,included_game_day
+2016,238,Vanderbilt Commodores,2016-02-10,89.42253634692757,included_game_day
+2016,238,Vanderbilt Commodores,2016-02-13,107.28798579179255,included_game_day
+2016,238,Vanderbilt Commodores,2016-02-16,103.5826757390877,included_game_day
+2016,238,Vanderbilt Commodores,2016-02-20,107.04826780625896,included_game_day
+2016,238,Vanderbilt Commodores,2016-02-23,120.52140066663507,included_game_day
+2016,238,Vanderbilt Commodores,2016-02-27,134.8329712512729,included_game_day
+2016,238,Vanderbilt Commodores,2016-03-01,137.27399480077722,included_game_day
+2016,238,Vanderbilt Commodores,2016-03-05,129.22065237470835,included_game_day
+2016,238,Vanderbilt Commodores,2016-03-10,117.11618981687417,included_game_day
+2016,238,Vanderbilt Commodores,2016-03-15,101.47114534131056,included_game_day
+2017,238,Vanderbilt Commodores,2016-11-11,-24.0,included_game_day
+2017,238,Vanderbilt Commodores,2016-11-15,-10.6,included_game_day
+2017,238,Vanderbilt Commodores,2016-11-18,10.360000000000001,included_game_day
+2017,238,Vanderbilt Commodores,2016-11-21,1.4921000000000006,included_game_day
+2017,238,Vanderbilt Commodores,2016-11-24,-0.802299999999998,included_game_day
+2017,238,Vanderbilt Commodores,2016-11-25,8.623930000000001,included_game_day
+2017,238,Vanderbilt Commodores,2016-11-29,33.624786,included_game_day
+2017,238,Vanderbilt Commodores,2016-12-03,31.3176795,included_game_day
+2017,238,Vanderbilt Commodores,2016-12-06,47.5018483863,included_game_day
+2017,238,Vanderbilt Commodores,2016-12-08,28.006798917669997,included_game_day
+2017,238,Vanderbilt Commodores,2016-12-17,28.814369980202997,included_game_day
+2017,238,Vanderbilt Commodores,2016-12-21,29.820838163884304,included_game_day
+2017,238,Vanderbilt Commodores,2016-12-29,37.533038965723236,included_game_day
+2017,238,Vanderbilt Commodores,2017-01-04,53.45956981886238,included_game_day
+2017,238,Vanderbilt Commodores,2017-01-07,54.53705175956187,included_game_day
+2017,238,Vanderbilt Commodores,2017-01-10,61.42883367596808,included_game_day
+2017,238,Vanderbilt Commodores,2017-01-14,45.04889319677959,included_game_day
+2017,238,Vanderbilt Commodores,2017-01-17,43.67398864799245,included_game_day
+2017,238,Vanderbilt Commodores,2017-01-21,57.37628063492414,included_game_day
+2017,238,Vanderbilt Commodores,2017-01-24,55.37385122393066,included_game_day
+2017,238,Vanderbilt Commodores,2017-01-28,65.2988011729637,included_game_day
+2017,238,Vanderbilt Commodores,2017-01-31,82.07954415976366,included_game_day
+2017,238,Vanderbilt Commodores,2017-02-04,69.78958964047006,included_game_day
+2017,238,Vanderbilt Commodores,2017-02-07,84.97816933719635,included_game_day
+2017,238,Vanderbilt Commodores,2017-02-11,57.241470910975174,included_game_day
+2017,238,Vanderbilt Commodores,2017-02-16,58.76476456848626,included_game_day
+2017,238,Vanderbilt Commodores,2017-02-18,67.85730986121327,included_game_day
+2017,238,Vanderbilt Commodores,2017-02-22,83.27512128422019,included_game_day
+2017,238,Vanderbilt Commodores,2017-02-25,104.69370687028763,included_game_day
+2017,238,Vanderbilt Commodores,2017-02-28,107.68106487034558,included_game_day
+2017,238,Vanderbilt Commodores,2017-03-04,114.20534574852046,included_game_day
+2017,238,Vanderbilt Commodores,2017-03-09,135.0124022761433,included_game_day
+2017,238,Vanderbilt Commodores,2017-03-10,149.1511213259209,included_game_day
+2017,238,Vanderbilt Commodores,2017-03-11,130.2948161347331,included_game_day
+2017,238,Vanderbilt Commodores,2017-03-16,122.70573834669483,included_game_day
+2018,238,Vanderbilt Commodores,2017-11-10,16.0,included_game_day
+2018,238,Vanderbilt Commodores,2017-11-13,8.3,included_game_day
+2018,238,Vanderbilt Commodores,2017-11-17,5.370000000000001,included_game_day
+2018,238,Vanderbilt Commodores,2017-11-19,1.8830000000000005,included_game_day
+2018,238,Vanderbilt Commodores,2017-11-23,-17.38409,included_game_day
+2018,238,Vanderbilt Commodores,2017-11-24,-23.385871,included_game_day
+2018,238,Vanderbilt Commodores,2017-11-28,-12.0506971,included_game_day
+2018,238,Vanderbilt Commodores,2017-12-03,-13.158482379,included_game_day
+2018,238,Vanderbilt Commodores,2017-12-06,-14.615231151100001,included_game_day
+2018,238,Vanderbilt Commodores,2017-12-17,-9.925479179527102,included_game_day
+2018,238,Vanderbilt Commodores,2017-12-20,14.46098963224679,included_game_day
+2018,238,Vanderbilt Commodores,2017-12-22,39.864489426451684,included_game_day
+2018,238,Vanderbilt Commodores,2017-12-30,37.94447930716836,included_game_day
+2018,238,Vanderbilt Commodores,2018-01-02,37.57154109157517,included_game_day
+2018,238,Vanderbilt Commodores,2018-01-06,28.716248202539013,included_game_day
+2018,238,Vanderbilt Commodores,2018-01-09,24.99715200230193,included_game_day
+2018,238,Vanderbilt Commodores,2018-01-13,21.349138750680343,included_game_day
+2018,238,Vanderbilt Commodores,2018-01-16,9.548740051108851,included_game_day
+2018,238,Vanderbilt Commodores,2018-01-20,19.936325572071443,included_game_day
+2018,238,Vanderbilt Commodores,2018-01-23,27.268027790063,included_game_day
+2018,238,Vanderbilt Commodores,2018-01-27,36.4755744616168,included_game_day
+2018,238,Vanderbilt Commodores,2018-01-30,44.2714605089497,included_game_day
+2018,238,Vanderbilt Commodores,2018-02-03,47.20170821380117,included_game_day
+2018,238,Vanderbilt Commodores,2018-02-07,60.52919842868647,included_game_day
+2018,238,Vanderbilt Commodores,2018-02-10,46.10933361160015,included_game_day
+2018,238,Vanderbilt Commodores,2018-02-14,47.96481085229711,included_game_day
+2018,238,Vanderbilt Commodores,2018-02-17,51.73904229789412,included_game_day
+2018,238,Vanderbilt Commodores,2018-02-20,45.426242047318226,included_game_day
+2018,238,Vanderbilt Commodores,2018-02-24,37.153605836701935,included_game_day
+2018,238,Vanderbilt Commodores,2018-02-27,28.459735492524977,included_game_day
+2018,238,Vanderbilt Commodores,2018-03-03,42.78119295207999,included_game_day
+2018,238,Vanderbilt Commodores,2018-03-07,29.104701826502037,included_game_day
+2019,238,Vanderbilt Commodores,2018-11-06,10.0,included_game_day
+2019,238,Vanderbilt Commodores,2018-11-11,17.8,included_game_day
+2019,238,Vanderbilt Commodores,2018-11-16,36.620000000000005,included_game_day
+2019,238,Vanderbilt Commodores,2018-11-19,40.011,included_game_day
+2019,238,Vanderbilt Commodores,2018-11-23,33.98657,included_game_day
+2019,238,Vanderbilt Commodores,2018-11-27,55.2620303,included_game_day
+2019,238,Vanderbilt Commodores,2018-12-01,46.682522989999995,included_game_day
+2019,238,Vanderbilt Commodores,2018-12-05,60.710692521,included_game_day
+2019,238,Vanderbilt Commodores,2018-12-17,74.64379903652,included_game_day
+2019,238,Vanderbilt Commodores,2018-12-22,65.38365801397899,included_game_day
+2019,238,Vanderbilt Commodores,2018-12-29,64.780133751561,included_game_day
+2019,238,Vanderbilt Commodores,2018-12-31,72.43186690717454,included_game_day
+2019,238,Vanderbilt Commodores,2019-01-05,60.9561840654799,included_game_day
+2019,238,Vanderbilt Commodores,2019-01-09,41.011048057141295,included_game_day
+2019,238,Vanderbilt Commodores,2019-01-12,41.82367928078969,included_game_day
+2019,238,Vanderbilt Commodores,2019-01-16,34.5164324439547,included_game_day
+2019,238,Vanderbilt Commodores,2019-01-19,20.600522285928797,included_game_day
+2019,238,Vanderbilt Commodores,2019-01-23,27.512980800699907,included_game_day
+2019,238,Vanderbilt Commodores,2019-01-26,5.098093294169196,included_game_day
+2019,238,Vanderbilt Commodores,2019-01-29,-18.8865552503836,included_game_day
+2019,238,Vanderbilt Commodores,2019-02-02,-23.20736385577756,included_game_day
+2019,238,Vanderbilt Commodores,2019-02-05,-13.631337586669355,included_game_day
+2019,238,Vanderbilt Commodores,2019-02-09,-16.946124127058596,included_game_day
+2019,238,Vanderbilt Commodores,2019-02-13,-13.203385814445413,included_game_day
+2019,238,Vanderbilt Commodores,2019-02-16,-12.739855759896837,included_game_day
+2019,238,Vanderbilt Commodores,2019-02-19,-5.2772375422523865,included_game_day
+2019,238,Vanderbilt Commodores,2019-02-23,-4.462905338047909,included_game_day
+2019,238,Vanderbilt Commodores,2019-02-27,-12.975919042132423,included_game_day
+2019,238,Vanderbilt Commodores,2019-03-02,-11.040640035233691,included_game_day
+2019,238,Vanderbilt Commodores,2019-03-06,-45.09147600444513,included_game_day
+2019,238,Vanderbilt Commodores,2019-03-09,-46.22861336193709,included_game_day
+2019,238,Vanderbilt Commodores,2019-03-13,-56.255954222877776,included_game_day
+2020,238,Vanderbilt Commodores,2019-11-06,15.0,included_game_day
+2020,238,Vanderbilt Commodores,2019-11-11,11.9,included_game_day
+2020,238,Vanderbilt Commodores,2019-11-14,12.5,included_game_day
+2020,238,Vanderbilt Commodores,2019-11-20,24.211199999999998,included_game_day
+2020,238,Vanderbilt Commodores,2019-11-22,50.86208,included_game_day
+2020,238,Vanderbilt Commodores,2019-11-25,45.860451999999995,included_game_day
+2020,238,Vanderbilt Commodores,2019-11-30,31.341182679999996,included_game_day
+2020,238,Vanderbilt Commodores,2019-12-03,40.094690648,included_game_day
+2020,238,Vanderbilt Commodores,2019-12-14,36.547533953336,included_game_day
+2020,238,Vanderbilt Commodores,2019-12-18,28.5546919837609,included_game_day
+2020,238,Vanderbilt Commodores,2019-12-21,29.44197913009281,included_game_day
+2020,238,Vanderbilt Commodores,2019-12-30,34.00823018841453,included_game_day
+2020,238,Vanderbilt Commodores,2020-01-04,23.332243351607623,included_game_day
+2020,238,Vanderbilt Commodores,2020-01-08,33.063945216163674,included_game_day
+2020,238,Vanderbilt Commodores,2020-01-11,6.668092141578377,included_game_day
+2020,238,Vanderbilt Commodores,2020-01-15,-1.9209615250622125,included_game_day
+2020,238,Vanderbilt Commodores,2020-01-18,-22.716148743039113,included_game_day
+2020,238,Vanderbilt Commodores,2020-01-22,-27.449381676974955,included_game_day
+2020,238,Vanderbilt Commodores,2020-01-25,-44.162018906448075,included_game_day
+2020,238,Vanderbilt Commodores,2020-01-29,-34.1972472330482,included_game_day
+2020,238,Vanderbilt Commodores,2020-02-01,-31.32167491162036,included_game_day
+2020,238,Vanderbilt Commodores,2020-02-05,-11.824164909692882,included_game_day
+2020,238,Vanderbilt Commodores,2020-02-08,-6.170451333058791,included_game_day
+2020,238,Vanderbilt Commodores,2020-02-11,-10.879806712948945,included_game_day
+2020,238,Vanderbilt Commodores,2020-02-15,-17.309935628219712,included_game_day
+2020,238,Vanderbilt Commodores,2020-02-18,-9.252103983111361,included_game_day
+2020,238,Vanderbilt Commodores,2020-02-22,-10.842778338507319,included_game_day
+2020,238,Vanderbilt Commodores,2020-02-26,-18.809319145080167,included_game_day
+2020,238,Vanderbilt Commodores,2020-02-29,-35.750386216414675,included_game_day
+2020,238,Vanderbilt Commodores,2020-03-03,-12.438807954828864,included_game_day
+2020,238,Vanderbilt Commodores,2020-03-07,3.0986210299615085,included_game_day
+2020,238,Vanderbilt Commodores,2020-03-11,-4.632789519572484,included_game_day
+2021,238,Vanderbilt Commodores,2020-11-27,3.0,included_game_day
+2021,238,Vanderbilt Commodores,2020-12-13,24.312809,included_game_day
+2021,238,Vanderbilt Commodores,2020-12-16,9.860777900000002,included_game_day
+2021,238,Vanderbilt Commodores,2020-12-19,13.216231870000001,included_game_day
+2021,238,Vanderbilt Commodores,2020-12-22,-2.217602336999999,included_game_day
+2021,238,Vanderbilt Commodores,2020-12-27,13.394065876700001,included_game_day
+2021,238,Vanderbilt Commodores,2020-12-30,-4.6852266809700005,included_game_day
+2021,238,Vanderbilt Commodores,2021-01-05,-3.8314986732410703,included_game_day
+2021,238,Vanderbilt Commodores,2021-01-09,-4.215772473207146,included_game_day
+2021,238,Vanderbilt Commodores,2021-01-16,-9.177227652069654,included_game_day
+2021,238,Vanderbilt Commodores,2021-01-23,-24.396812540572427,included_game_day
+2021,238,Vanderbilt Commodores,2021-01-27,-18.13604415720141,included_game_day
+2021,238,Vanderbilt Commodores,2021-01-30,-5.260298495648652,included_game_day
+2021,238,Vanderbilt Commodores,2021-02-06,-3.0623354574001036,included_game_day
+2021,238,Vanderbilt Commodores,2021-02-09,-5.95645177645029,included_game_day
+2021,238,Vanderbilt Commodores,2021-02-13,23.688693501073747,included_game_day
+2021,238,Vanderbilt Commodores,2021-02-17,17.55572057140632,included_game_day
+2021,238,Vanderbilt Commodores,2021-02-20,29.849113576992544,included_game_day
+2021,238,Vanderbilt Commodores,2021-02-24,18.311203110524005,included_game_day
+2021,238,Vanderbilt Commodores,2021-02-27,24.760531865514963,included_game_day
+2021,238,Vanderbilt Commodores,2021-03-02,18.66161423732844,included_game_day
+2021,238,Vanderbilt Commodores,2021-03-04,34.026749009259376,included_game_day
+2021,238,Vanderbilt Commodores,2021-03-06,29.75536507485377,included_game_day
+2021,238,Vanderbilt Commodores,2021-03-10,36.77888397513181,included_game_day
+2021,238,Vanderbilt Commodores,2021-03-11,33.5726709282897,included_game_day
+2022,238,Vanderbilt Commodores,2021-11-10,15.8,included_game_day
+2022,238,Vanderbilt Commodores,2021-11-14,30.5,included_game_day
+2022,238,Vanderbilt Commodores,2021-11-17,11.899999999999999,included_game_day
+2022,238,Vanderbilt Commodores,2021-11-20,20.971999999999998,included_game_day
+2022,238,Vanderbilt Commodores,2021-11-24,36.461299999999994,included_game_day
+2022,238,Vanderbilt Commodores,2021-11-29,61.121185999999994,included_game_day
+2022,238,Vanderbilt Commodores,2021-12-04,49.61571251699999,included_game_day
+2022,238,Vanderbilt Commodores,2021-12-07,37.70916050176999,included_game_day
+2022,238,Vanderbilt Commodores,2021-12-10,28.779780317192994,included_game_day
+2022,238,Vanderbilt Commodores,2021-12-18,45.589526221219245,included_game_day
+2022,238,Vanderbilt Commodores,2021-12-22,58.23899266509732,included_game_day
+2022,238,Vanderbilt Commodores,2021-12-23,62.47563855857536,included_game_day
+2022,238,Vanderbilt Commodores,2022-01-04,64.63715549605418,included_game_day
+2022,238,Vanderbilt Commodores,2022-01-08,55.58136714918303,included_game_day
+2022,238,Vanderbilt Commodores,2022-01-11,50.25617608959635,included_game_day
+2022,238,Vanderbilt Commodores,2022-01-15,52.04264823161769,included_game_day
+2022,238,Vanderbilt Commodores,2022-01-18,46.752436562052935,included_game_day
+2022,238,Vanderbilt Commodores,2022-01-22,33.79292032620376,included_game_day
+2022,238,Vanderbilt Commodores,2022-01-26,26.602103555018445,included_game_day
+2022,238,Vanderbilt Commodores,2022-01-29,26.1189529307388,included_game_day
+2022,238,Vanderbilt Commodores,2022-02-02,37.79689623682152,included_game_day
+2022,238,Vanderbilt Commodores,2022-02-05,49.04827904603982,included_game_day
+2022,238,Vanderbilt Commodores,2022-02-08,50.35839876401476,included_game_day
+2022,238,Vanderbilt Commodores,2022-02-12,54.30109536742629,included_game_day
+2022,238,Vanderbilt Commodores,2022-02-16,52.739658509259,included_game_day
+2022,238,Vanderbilt Commodores,2022-02-19,52.468686896060504,included_game_day
+2022,238,Vanderbilt Commodores,2022-02-22,51.2399543252302,included_game_day
+2022,238,Vanderbilt Commodores,2022-02-26,50.529290623872335,included_game_day
+2022,238,Vanderbilt Commodores,2022-03-01,44.939578464151026,included_game_day
+2022,238,Vanderbilt Commodores,2022-03-05,47.953851388561986,included_game_day
+2022,238,Vanderbilt Commodores,2022-03-09,73.0694719943086,included_game_day
+2022,238,Vanderbilt Commodores,2022-03-10,79.891814116598,included_game_day
+2022,238,Vanderbilt Commodores,2022-03-11,81.44838053217518,included_game_day
+2022,238,Vanderbilt Commodores,2022-03-15,87.24576223236184,included_game_day
+2022,238,Vanderbilt Commodores,2022-03-20,89.11011450247648,included_game_day
+2022,238,Vanderbilt Commodores,2022-03-22,85.73289064008027,included_game_day
+2023,238,Vanderbilt Commodores,2022-11-07,-12.0,included_game_day
+2023,238,Vanderbilt Commodores,2022-11-11,-25.8,included_game_day
+2023,238,Vanderbilt Commodores,2022-11-15,-18.560000000000002,included_game_day
+2023,238,Vanderbilt Commodores,2022-11-18,10.033999999999999,included_game_day
+2023,238,Vanderbilt Commodores,2022-11-23,7.268111999999998,included_game_day
+2023,238,Vanderbilt Commodores,2022-11-24,12.167740799999997,included_game_day
+2023,238,Vanderbilt Commodores,2022-11-30,9.084736119999997,included_game_day
+2023,238,Vanderbilt Commodores,2022-12-03,8.779878415399997,included_game_day
+2023,238,Vanderbilt Commodores,2022-12-07,11.872919754429997,included_game_day
+2023,238,Vanderbilt Commodores,2022-12-09,8.529628294986997,included_game_day
+2023,238,Vanderbilt Commodores,2022-12-17,12.319451844185817,included_game_day
+2023,238,Vanderbilt Commodores,2022-12-22,11.104523418742135,included_game_day
+2023,238,Vanderbilt Commodores,2022-12-30,41.98137195456365,included_game_day
+2023,238,Vanderbilt Commodores,2023-01-03,36.694873328638636,included_game_day
+2023,238,Vanderbilt Commodores,2023-01-07,42.92355809998291,included_game_day
+2023,238,Vanderbilt Commodores,2023-01-10,53.48161923317764,included_game_day
+2023,238,Vanderbilt Commodores,2023-01-14,67.13813639844619,included_game_day
+2023,238,Vanderbilt Commodores,2023-01-17,62.23946201466289,included_game_day
+2023,238,Vanderbilt Commodores,2023-01-21,66.92512242111489,included_game_day
+2023,238,Vanderbilt Commodores,2023-01-24,49.54058247870367,included_game_day
+2023,238,Vanderbilt Commodores,2023-01-28,53.40805103154827,included_game_day
+2023,238,Vanderbilt Commodores,2023-01-31,7.956603135539865,included_game_day
+2023,238,Vanderbilt Commodores,2023-02-04,6.185172800829598,included_game_day
+2023,238,Vanderbilt Commodores,2023-02-08,19.968652838667875,included_game_day
+2023,238,Vanderbilt Commodores,2023-02-11,37.1873412102412,included_game_day
+2023,238,Vanderbilt Commodores,2023-02-14,43.47878462621017,included_game_day
+2023,238,Vanderbilt Commodores,2023-02-18,50.92272624745013,included_game_day
+2023,238,Vanderbilt Commodores,2023-02-22,39.02651289489704,included_game_day
+2023,238,Vanderbilt Commodores,2023-02-25,52.931075173367276,included_game_day
+2023,238,Vanderbilt Commodores,2023-03-01,65.29880059260184,included_game_day
+2023,238,Vanderbilt Commodores,2023-03-04,68.84776954124698,included_game_day
+2023,238,Vanderbilt Commodores,2023-03-09,68.42812843867691,included_game_day
+2023,238,Vanderbilt Commodores,2023-03-10,81.23949397378985,included_game_day
+2023,238,Vanderbilt Commodores,2023-03-11,74.24730444476333,included_game_day
+2023,238,Vanderbilt Commodores,2023-03-14,82.98366559666826,included_game_day
+2023,238,Vanderbilt Commodores,2023-03-18,81.48514515782732,included_game_day
+2023,238,Vanderbilt Commodores,2023-03-22,74.85536501903832,included_game_day
+2024,238,Vanderbilt Commodores,2023-11-07,-9.0,included_game_day
+2024,238,Vanderbilt Commodores,2023-11-10,-6.7,included_game_day
+2024,238,Vanderbilt Commodores,2023-11-14,-4.18,included_game_day
+2024,238,Vanderbilt Commodores,2023-11-17,-4.712,included_game_day
+2024,238,Vanderbilt Commodores,2023-11-23,-4.868799999999999,included_game_day
+2024,238,Vanderbilt Commodores,2023-11-24,-21.467494000000002,included_game_day
+2024,238,Vanderbilt Commodores,2023-11-29,-38.4735937,included_game_day
+2024,238,Vanderbilt Commodores,2023-12-02,-25.803569994,included_game_day
+2024,238,Vanderbilt Commodores,2023-12-06,-34.1194513876,included_game_day
+2024,238,Vanderbilt Commodores,2023-12-16,-47.682568187436004,included_game_day
+2024,238,Vanderbilt Commodores,2023-12-19,-44.5731632785872,included_game_day
+2024,238,Vanderbilt Commodores,2023-12-23,-31.599007597598124,included_game_day
+2024,238,Vanderbilt Commodores,2023-12-30,-22.30136218237923,included_game_day
+2024,238,Vanderbilt Commodores,2024-01-06,-10.904682205247056,included_game_day
+2024,238,Vanderbilt Commodores,2024-01-09,-8.55752379266147,included_game_day
+2024,238,Vanderbilt Commodores,2024-01-13,-10.060205023289148,included_game_day
+2024,238,Vanderbilt Commodores,2024-01-17,-11.204983847435168,included_game_day
+2024,238,Vanderbilt Commodores,2024-01-20,-11.87950357742504,included_game_day
+2024,238,Vanderbilt Commodores,2024-01-27,-10.357843143767887,included_game_day
+2024,238,Vanderbilt Commodores,2024-01-31,-17.799101994834505,included_game_day
+2024,238,Vanderbilt Commodores,2024-02-03,-11.265638126801385,included_game_day
+2024,238,Vanderbilt Commodores,2024-02-06,-36.770198199485165,included_game_day
+2024,238,Vanderbilt Commodores,2024-02-10,-34.30069229424473,included_game_day
+2024,238,Vanderbilt Commodores,2024-02-13,-22.879966119109355,included_game_day
+2024,238,Vanderbilt Commodores,2024-02-17,-36.68911232019228,included_game_day
+2024,238,Vanderbilt Commodores,2024-02-21,-44.338647615191576,included_game_day
+2024,238,Vanderbilt Commodores,2024-02-24,-38.00080798540104,included_game_day
+2024,238,Vanderbilt Commodores,2024-02-27,-26.76378104696978,included_game_day
+2024,238,Vanderbilt Commodores,2024-03-02,-36.850160369502596,included_game_day
+2024,238,Vanderbilt Commodores,2024-03-06,-31.698687753786217,included_game_day
+2024,238,Vanderbilt Commodores,2024-03-09,-18.449476066317946,included_game_day
+2024,238,Vanderbilt Commodores,2024-03-13,-18.15993956464601,included_game_day
+2025,238,Vanderbilt Commodores,2024-11-04,36.0,included_game_day
+2025,238,Vanderbilt Commodores,2024-11-10,35.9,included_game_day
+2025,238,Vanderbilt Commodores,2024-11-13,47.66,included_game_day
+2025,238,Vanderbilt Commodores,2024-11-16,45.084199999999996,included_game_day
+2025,238,Vanderbilt Commodores,2024-11-21,48.51083,included_game_day
+2025,238,Vanderbilt Commodores,2024-11-22,62.051512,included_game_day
+2025,238,Vanderbilt Commodores,2024-11-24,48.583685100000004,included_game_day
+2025,238,Vanderbilt Commodores,2024-11-29,69.94361854,included_game_day
+2025,238,Vanderbilt Commodores,2024-12-04,80.776000486,included_game_day
+2025,238,Vanderbilt Commodores,2024-12-08,83.81124259267,included_game_day
+2025,238,Vanderbilt Commodores,2024-12-18,119.06419035328366,included_game_day
+2025,238,Vanderbilt Commodores,2024-12-21,126.93505611048658,included_game_day
+2025,238,Vanderbilt Commodores,2024-12-30,144.699772020354,included_game_day
+2025,238,Vanderbilt Commodores,2025-01-04,152.72161849437845,included_game_day
+2025,238,Vanderbilt Commodores,2025-01-07,136.57758133711866,included_game_day
+2025,238,Vanderbilt Commodores,2025-01-11,129.08183149198558,included_game_day
+2025,238,Vanderbilt Commodores,2025-01-15,120.32157638520991,included_game_day
+2025,238,Vanderbilt Commodores,2025-01-18,123.75540282896297,included_game_day
+2025,238,Vanderbilt Commodores,2025-01-21,113.34762417579338,included_game_day
+2025,238,Vanderbilt Commodores,2025-01-25,116.75303122553777,included_game_day
+2025,238,Vanderbilt Commodores,2025-02-01,86.99553227513091,included_game_day
+2025,238,Vanderbilt Commodores,2025-02-04,89.38195299151468,included_game_day
+2025,238,Vanderbilt Commodores,2025-02-08,98.73015087393898,included_game_day
+2025,238,Vanderbilt Commodores,2025-02-11,94.84545624286525,included_game_day
+2025,238,Vanderbilt Commodores,2025-02-15,101.79617888142045,included_game_day
+2025,238,Vanderbilt Commodores,2025-02-19,86.98409741737241,included_game_day
+2025,238,Vanderbilt Commodores,2025-02-22,91.53339256852381,included_game_day
+2025,238,Vanderbilt Commodores,2025-02-26,99.9845774848782,included_game_day
+2025,238,Vanderbilt Commodores,2025-03-01,110.5597723285626,included_game_day
+2025,238,Vanderbilt Commodores,2025-03-04,93.9557530109074,included_game_day
+2025,238,Vanderbilt Commodores,2025-03-08,89.03592371429268,included_game_day
+2025,238,Vanderbilt Commodores,2025-03-12,80.7930407019911,included_game_day
+2025,238,Vanderbilt Commodores,2025-03-21,84.03015020529928,included_game_day
+2026,238,Vanderbilt Commodores,2025-11-03,41.0,included_game_day
+2026,238,Vanderbilt Commodores,2025-11-08,52.0,included_game_day
+2026,238,Vanderbilt Commodores,2025-11-12,72.78999999999999,included_game_day
+2026,238,Vanderbilt Commodores,2025-11-15,84.2974,included_game_day
+2026,238,Vanderbilt Commodores,2025-11-20,100.24096,included_game_day
+2026,238,Vanderbilt Commodores,2025-11-26,97.898864,included_game_day
+2026,238,Vanderbilt Commodores,2025-11-27,110.50944388,included_game_day
+2026,238,Vanderbilt Commodores,2025-11-28,134.186026063,included_game_day
+2026,238,Vanderbilt Commodores,2025-12-03,145.35811890070002,included_game_day
+2026,238,Vanderbilt Commodores,2025-12-13,137.34449270964723,included_game_day
+2026,238,Vanderbilt Commodores,2025-12-17,134.80344461852278,included_game_day
+2026,238,Vanderbilt Commodores,2025-12-21,163.4117527998182,included_game_day
+2026,238,Vanderbilt Commodores,2025-12-29,179.68549171840885,included_game_day
+2026,238,Vanderbilt Commodores,2026-01-03,183.7236792386773,included_game_day
+2026,238,Vanderbilt Commodores,2026-01-07,182.292552972423,included_game_day
+2026,238,Vanderbilt Commodores,2026-01-10,181.4772783913051,included_game_day
+2026,238,Vanderbilt Commodores,2026-01-14,159.68529377956781,included_game_day
+2026,238,Vanderbilt Commodores,2026-01-17,153.89629782078148,included_game_day
+2026,238,Vanderbilt Commodores,2026-01-20,129.48320990955241,included_game_day
+2026,238,Vanderbilt Commodores,2026-01-24,155.00281753417897,included_game_day
+2026,238,Vanderbilt Commodores,2026-01-27,173.79676788459875,included_game_day
+2026,238,Vanderbilt Commodores,2026-01-31,161.84035209992288,included_game_day
+2026,238,Vanderbilt Commodores,2026-02-07,146.9163467051097,included_game_day
+2026,238,Vanderbilt Commodores,2026-02-10,154.85871957265476,included_game_day
+2026,238,Vanderbilt Commodores,2026-02-14,163.02760200484667,included_game_day
+2026,238,Vanderbilt Commodores,2026-02-18,155.29132547429168,included_game_day
+2026,238,Vanderbilt Commodores,2026-02-21,148.08501987404574,included_game_day
+2026,238,Vanderbilt Commodores,2026-02-25,149.6264280770156,included_game_day
+2026,238,Vanderbilt Commodores,2026-02-28,135.70822311323195,included_game_day
+2026,238,Vanderbilt Commodores,2026-03-03,132.1159088145807,included_game_day
+2026,238,Vanderbilt Commodores,2026-03-07,141.48990594160514,included_game_day
+2026,238,Vanderbilt Commodores,2026-03-13,149.38901404525467,included_game_day
+2026,238,Vanderbilt Commodores,2026-03-14,177.02639482868815,included_game_day
+2026,238,Vanderbilt Commodores,2026-03-15,164.1090116763503,included_game_day
+2026,238,Vanderbilt Commodores,2026-03-19,167.99016704689618,included_game_day
+2026,238,Vanderbilt Commodores,2026-03-21,163.78268314418958,included_game_day
+2027,238,Vanderbilt Commodores,2026-11-02,43.0,included_game_day
+2027,238,Vanderbilt Commodores,2026-11-05,60.5,included_game_day
+2027,238,Vanderbilt Commodores,2026-11-10,75.68,included_game_day
+2027,238,Vanderbilt Commodores,2026-11-13,89.042,included_game_day
+2027,238,Vanderbilt Commodores,2026-11-17,114.23826,included_game_day
+2027,238,Vanderbilt Commodores,2026-11-20,109.524975,included_game_day

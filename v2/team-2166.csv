@@ -1,0 +1,1132 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,2166,Davidson,1987-12-03,-10.85,included_game_day
+1988,2166,Davidson,1987-12-05,-8.375,included_game_day
+1988,2166,Davidson,1987-12-09,-29.0855,included_game_day
+1988,2166,Davidson,1987-12-12,-37.44065,included_game_day
+1988,2166,Davidson,1987-12-19,-31.125363198,included_game_day
+1988,2166,Davidson,1987-12-28,-31.2290945888,included_game_day
+1988,2166,Davidson,1987-12-30,-18.924855976419998,included_game_day
+1988,2166,Davidson,1988-01-02,-38.048807460777994,included_game_day
+1988,2166,Davidson,1988-01-09,-31.654025220047075,included_game_day
+1988,2166,Davidson,1988-01-13,-31.44651785023122,included_game_day
+1988,2166,Davidson,1988-01-16,-11.176139739870518,included_game_day
+1988,2166,Davidson,1988-01-18,1.4328280187153766,included_game_day
+1988,2166,Davidson,1988-01-23,-8.783976291834009,included_game_day
+1988,2166,Davidson,1988-01-25,-0.27242318154240763,included_game_day
+1988,2166,Davidson,1988-01-30,-0.38749918329675914,included_game_day
+1988,2166,Davidson,1988-02-01,-8.598733854598134,included_game_day
+1988,2166,Davidson,1988-02-04,-11.655029716656323,included_game_day
+1988,2166,Davidson,1988-02-06,-22.58142268417859,included_game_day
+1988,2166,Davidson,1988-02-08,-17.19993735984794,included_game_day
+1988,2166,Davidson,1988-02-11,-17.43543481383486,included_game_day
+1988,2166,Davidson,1988-02-18,-20.65509178743828,included_game_day
+1988,2166,Davidson,1988-02-20,-23.786847748450395,included_game_day
+1988,2166,Davidson,1988-02-27,-25.573124259808758,included_game_day
+1988,2166,Davidson,1988-02-29,-34.35553002222449,included_game_day
+1988,2166,Davidson,1988-03-04,-45.346801992224805,included_game_day
+1989,2166,Davidson,1988-11-25,2.0,included_game_day
+1989,2166,Davidson,1988-11-26,-21.2,included_game_day
+1989,2166,Davidson,1988-11-27,-37.06,included_game_day
+1989,2166,Davidson,1988-11-30,-50.898,included_game_day
+1989,2166,Davidson,1988-12-10,-56.708200000000005,included_game_day
+1989,2166,Davidson,1988-12-22,-85.379531,included_game_day
+1989,2166,Davidson,1988-12-28,-78.40438193187,included_game_day
+1989,2166,Davidson,1988-12-29,-70.0718582580785,included_game_day
+1989,2166,Davidson,1989-01-05,-93.29544886216274,included_game_day
+1989,2166,Davidson,1989-01-07,-97.14868762558511,included_game_day
+1989,2166,Davidson,1989-01-09,-93.7285576555011,included_game_day
+1989,2166,Davidson,1989-01-11,-92.12381309018345,included_game_day
+1989,2166,Davidson,1989-01-14,-83.74269072243504,included_game_day
+1989,2166,Davidson,1989-01-18,-80.5892803016732,included_game_day
+1989,2166,Davidson,1989-01-21,-90.12318936148539,included_game_day
+1989,2166,Davidson,1989-01-23,-104.23996708231105,included_game_day
+1989,2166,Davidson,1989-01-26,-108.91260660782898,included_game_day
+1989,2166,Davidson,1989-01-28,-98.18589163688347,included_game_day
+1989,2166,Davidson,1989-01-30,-104.10227577147275,included_game_day
+1989,2166,Davidson,1989-02-02,-105.64418070241818,included_game_day
+1989,2166,Davidson,1989-02-08,-112.7022746723877,included_game_day
+1989,2166,Davidson,1989-02-11,-136.57029860327893,included_game_day
+1989,2166,Davidson,1989-02-13,-130.19926558814237,included_game_day
+1989,2166,Davidson,1989-02-16,-129.21351627844973,included_game_day
+1989,2166,Davidson,1989-02-18,-129.9450415882767,included_game_day
+1989,2166,Davidson,1989-02-22,-120.1170955558952,included_game_day
+1989,2166,Davidson,1989-02-25,-110.81575419126739,included_game_day
+1989,2166,Davidson,1989-02-27,-108.49890919893693,included_game_day
+1990,2166,Davidson,1989-11-25,-16.0,included_game_day
+1990,2166,Davidson,1989-11-27,-12.4,included_game_day
+1990,2166,Davidson,1989-12-01,-22.998,included_game_day
+1990,2166,Davidson,1989-12-08,-16.997979,included_game_day
+1990,2166,Davidson,1989-12-21,-52.4827339,included_game_day
+1990,2166,Davidson,1989-12-29,-56.210380390022806,included_game_day
+1990,2166,Davidson,1990-01-04,-55.48737837770671,included_game_day
+1990,2166,Davidson,1990-01-08,-84.85250118803977,included_game_day
+1990,2166,Davidson,1990-01-11,-86.39919225212533,included_game_day
+1990,2166,Davidson,1990-01-13,-89.91113700459977,included_game_day
+1990,2166,Davidson,1990-01-15,-97.76025913727362,included_game_day
+1990,2166,Davidson,1990-01-18,-104.58953917243527,included_game_day
+1990,2166,Davidson,1990-01-20,-101.60906989528323,included_game_day
+1990,2166,Davidson,1990-01-22,-112.53587393668134,included_game_day
+1990,2166,Davidson,1990-01-25,-111.41517069767423,included_game_day
+1990,2166,Davidson,1990-01-31,-106.48839851105136,included_game_day
+1990,2166,Davidson,1990-02-03,-109.33817568742958,included_game_day
+1990,2166,Davidson,1990-02-05,-111.58848760014065,included_game_day
+1990,2166,Davidson,1990-02-08,-123.69712242760161,included_game_day
+1990,2166,Davidson,1990-02-10,-129.5569463860486,included_game_day
+1990,2166,Davidson,1990-02-15,-122.47220828294853,included_game_day
+1990,2166,Davidson,1990-02-19,-139.1758721998517,included_game_day
+1990,2166,Davidson,1990-02-22,-141.68100274988072,included_game_day
+1990,2166,Davidson,1990-02-24,-127.51654342357314,included_game_day
+1990,2166,Davidson,1990-02-27,-128.05359167506893,included_game_day
+1991,2166,Davidson,1990-11-23,-20.0,included_game_day
+1991,2166,Davidson,1990-11-24,-29.2,included_game_day
+1991,2166,Davidson,1990-11-27,-30.28,included_game_day
+1991,2166,Davidson,1990-12-05,-31.54815,included_game_day
+1991,2166,Davidson,1990-12-08,-44.474204,included_game_day
+1991,2166,Davidson,1990-12-10,-54.713627599999995,included_game_day
+1991,2166,Davidson,1990-12-29,-58.01317019382999,included_game_day
+1991,2166,Davidson,1991-01-05,-63.36847104242661,included_game_day
+1991,2166,Davidson,1991-01-08,-49.89302770417342,included_game_day
+1991,2166,Davidson,1991-01-12,-55.35639565708335,included_game_day
+1991,2166,Davidson,1991-01-14,-51.02911090773273,included_game_day
+1991,2166,Davidson,1991-01-17,-42.457828587965444,included_game_day
+1991,2166,Davidson,1991-01-19,-42.906934522195904,included_game_day
+1991,2166,Davidson,1991-01-21,-51.97254673037055,included_game_day
+1991,2166,Davidson,1991-01-23,-70.97710222679805,included_game_day
+1991,2166,Davidson,1991-01-26,-81.99274908736227,included_game_day
+1991,2166,Davidson,1991-01-28,-83.00276492587057,included_game_day
+1991,2166,Davidson,1991-01-31,-69.15767623349923,included_game_day
+1991,2166,Davidson,1991-02-02,-71.42427745078882,included_game_day
+1991,2166,Davidson,1991-02-06,-62.21886923080992,included_game_day
+1991,2166,Davidson,1991-02-11,-62.40097002867947,included_game_day
+1991,2166,Davidson,1991-02-13,-67.70093033454435,included_game_day
+1991,2166,Davidson,1991-02-16,-72.51828219636921,included_game_day
+1991,2166,Davidson,1991-02-20,-66.16791604330672,included_game_day
+1991,2166,Davidson,1991-02-25,-62.607262168087765,included_game_day
+1991,2166,Davidson,1991-02-28,-54.51178284211166,included_game_day
+1991,2166,Davidson,1991-03-01,-45.68300986729429,included_game_day
+1992,2166,Davidson,1991-11-23,-20.0,included_game_day
+1992,2166,Davidson,1991-12-02,-18.88,included_game_day
+1992,2166,Davidson,1991-12-30,-35.83788186931962,included_game_day
+1992,2166,Davidson,1992-01-04,-48.003993460720096,included_game_day
+1992,2166,Davidson,1992-01-08,-66.23191527422219,included_game_day
+1992,2166,Davidson,1992-01-11,-65.1858624606572,included_game_day
+1992,2166,Davidson,1992-01-13,-65.38361182656571,included_game_day
+1992,2166,Davidson,1992-01-15,-48.70513195125339,included_game_day
+1992,2166,Davidson,1992-01-18,-59.45161293770046,included_game_day
+1992,2166,Davidson,1992-01-21,-55.85493916317131,included_game_day
+1992,2166,Davidson,1992-01-25,-63.92451718314186,included_game_day
+1992,2166,Davidson,1992-01-28,-59.583472376540946,included_game_day
+1992,2166,Davidson,1992-02-01,-56.68078601296851,included_game_day
+1992,2166,Davidson,1992-02-03,-61.070567184592356,included_game_day
+1992,2166,Davidson,1992-02-08,-61.775170844368056,included_game_day
+1992,2166,Davidson,1992-02-10,-59.09941317342282,included_game_day
+1992,2166,Davidson,1992-02-13,-69.8873912301019,included_game_day
+1992,2166,Davidson,1992-02-15,-77.40851528932637,included_game_day
+1992,2166,Davidson,1992-02-19,-69.22874888498755,included_game_day
+1992,2166,Davidson,1992-02-22,-73.71300843179111,included_game_day
+1992,2166,Davidson,1992-02-24,-70.62488590778818,included_game_day
+1992,2166,Davidson,1992-02-26,-61.55278374754032,included_game_day
+1992,2166,Davidson,1992-02-29,-59.107055654019256,included_game_day
+1992,2166,Davidson,1992-03-02,-52.05776849227094,included_game_day
+1992,2166,Davidson,1992-03-05,-56.82564920536424,included_game_day
+1993,2166,Davidson,1992-12-21,-5.306417,included_game_day
+1993,2166,Davidson,1992-12-28,-20.7128552312,included_game_day
+1993,2166,Davidson,1993-01-03,-53.9040372157025,included_game_day
+1993,2166,Davidson,1993-01-06,-36.60337669413225,included_game_day
+1993,2166,Davidson,1993-01-09,-40.63052638472795,included_game_day
+1993,2166,Davidson,1993-01-11,-47.967956796828624,included_game_day
+1993,2166,Davidson,1993-01-16,-45.892340985865424,included_game_day
+1993,2166,Davidson,1993-01-17,-48.8921362710668,included_game_day
+1993,2166,Davidson,1993-01-20,-44.78039814149311,included_game_day
+1993,2166,Davidson,1993-01-23,-35.57255381187692,included_game_day
+1993,2166,Davidson,1993-01-24,-20.656730163714066,included_game_day
+1993,2166,Davidson,1993-01-27,-11.35623106782412,included_game_day
+1993,2166,Davidson,1993-01-30,-10.842834065473665,included_game_day
+1993,2166,Davidson,1993-01-31,-5.089635920760049,included_game_day
+1993,2166,Davidson,1993-02-06,-11.875528147494663,included_game_day
+1993,2166,Davidson,1993-02-07,-24.828873574289318,included_game_day
+1993,2166,Davidson,1993-02-10,-31.356940605735492,included_game_day
+1993,2166,Davidson,1993-02-13,-19.24107678608356,included_game_day
+1993,2166,Davidson,1993-02-17,-19.902607239055445,included_game_day
+1993,2166,Davidson,1993-02-20,-28.78980355109532,included_game_day
+1993,2166,Davidson,1993-02-21,-12.461079590880743,included_game_day
+1993,2166,Davidson,1993-02-27,-3.902418361272767,included_game_day
+1993,2166,Davidson,1993-02-28,-0.5332032700982055,included_game_day
+1993,2166,Davidson,1993-03-05,-0.7129810068206401,included_game_day
+1993,2166,Davidson,1993-03-06,7.183720187156092,included_game_day
+1994,2166,Davidson,1993-12-04,24.0,included_game_day
+1994,2166,Davidson,1993-12-06,19.56304,included_game_day
+1994,2166,Davidson,1993-12-11,26.334796,included_game_day
+1994,2166,Davidson,1993-12-19,30.83240602,included_game_day
+1994,2166,Davidson,1993-12-30,19.236418744651,included_game_day
+1994,2166,Davidson,1994-01-02,21.3668888511799,included_game_day
+1994,2166,Davidson,1994-01-05,14.78335895198422,included_game_day
+1994,2166,Davidson,1994-01-08,14.54384235659114,included_game_day
+1994,2166,Davidson,1994-01-13,9.515597098134212,included_game_day
+1994,2166,Davidson,1994-01-15,10.911129811823722,included_game_day
+1994,2166,Davidson,1994-01-17,0.1660929639582296,included_game_day
+1994,2166,Davidson,1994-01-19,-7.797107370665718,included_game_day
+1994,2166,Davidson,1994-01-22,4.056337564046294,included_game_day
+1994,2166,Davidson,1994-01-26,4.967567208309181,included_game_day
+1994,2166,Davidson,1994-01-29,3.456467261187133,included_game_day
+1994,2166,Davidson,1994-01-31,7.90267893547357,included_game_day
+1994,2166,Davidson,1994-02-05,12.949133571430465,included_game_day
+1994,2166,Davidson,1994-02-07,17.57558039136906,included_game_day
+1994,2166,Davidson,1994-02-12,23.247057788038695,included_game_day
+1994,2166,Davidson,1994-02-15,42.53080134064095,included_game_day
+1994,2166,Davidson,1994-02-19,37.843884714614305,included_game_day
+1994,2166,Davidson,1994-02-21,34.61123842704206,included_game_day
+1994,2166,Davidson,1994-02-26,41.32035114174799,included_game_day
+1994,2166,Davidson,1994-02-28,33.602723713918394,included_game_day
+1994,2166,Davidson,1994-03-04,29.178758252917838,included_game_day
+1994,2166,Davidson,1994-03-05,29.653425593461847,included_game_day
+1994,2166,Davidson,1994-03-06,27.91702300972217,included_game_day
+1994,2166,Davidson,1994-03-17,14.774192669162185,included_game_day
+1995,2166,Davidson,1994-11-29,-13.3,included_game_day
+1995,2166,Davidson,1994-12-02,-0.870000000000001,included_game_day
+1995,2166,Davidson,1994-12-03,-15.886700000000001,included_game_day
+1995,2166,Davidson,1994-12-10,-3.257950000000001,included_game_day
+1995,2166,Davidson,1994-12-17,9.9477628,included_game_day
+1995,2166,Davidson,1994-12-22,12.90725812964,included_game_day
+1995,2166,Davidson,1994-12-29,16.383010316676,included_game_day
+1995,2166,Davidson,1994-12-30,9.8712924565824,included_game_day
+1995,2166,Davidson,1995-01-12,-5.70673580054544,included_game_day
+1995,2166,Davidson,1995-01-14,-3.333001333272432,included_game_day
+1995,2166,Davidson,1995-01-16,-14.70402125715356,included_game_day
+1995,2166,Davidson,1995-01-21,-19.956069083950688,included_game_day
+1995,2166,Davidson,1995-01-23,-26.052156488528222,included_game_day
+1995,2166,Davidson,1995-01-28,-13.369271848736906,included_game_day
+1995,2166,Davidson,1995-01-30,-27.323967904997488,included_game_day
+1995,2166,Davidson,1995-02-04,-37.52381125052921,included_game_day
+1995,2166,Davidson,1995-02-07,-44.22172920135699,included_game_day
+1995,2166,Davidson,1995-02-11,-43.9096864015871,included_game_day
+1995,2166,Davidson,1995-02-13,-55.298155972486015,included_game_day
+1995,2166,Davidson,1995-02-18,-35.33512777319796,included_game_day
+1995,2166,Davidson,1995-02-20,-46.50731025851384,included_game_day
+1995,2166,Davidson,1995-02-25,-39.14908424025151,included_game_day
+1995,2166,Davidson,1995-02-27,-31.928751969614403,included_game_day
+1995,2166,Davidson,1995-03-03,-37.921997218506306,included_game_day
+1996,2166,Davidson,1995-11-27,4.0,included_game_day
+1996,2166,Davidson,1995-12-05,-15.671399999999998,included_game_day
+1996,2166,Davidson,1995-12-09,-12.169249999999998,included_game_day
+1996,2166,Davidson,1995-12-16,23.325565000000005,included_game_day
+1996,2166,Davidson,1995-12-28,54.518728082291005,included_game_day
+1996,2166,Davidson,1995-12-29,43.712818569457475,included_game_day
+1996,2166,Davidson,1996-01-02,57.294055832211725,included_game_day
+1996,2166,Davidson,1996-01-06,75.24139328601584,included_game_day
+1996,2166,Davidson,1996-01-13,89.57606492467502,included_game_day
+1996,2166,Davidson,1996-01-15,76.83091603038427,included_game_day
+1996,2166,Davidson,1996-01-18,86.34793550248017,included_game_day
+1996,2166,Davidson,1996-01-23,93.6658758705474,included_game_day
+1996,2166,Davidson,1996-01-27,138.91936451928962,included_game_day
+1996,2166,Davidson,1996-01-29,136.10558729858533,included_game_day
+1996,2166,Davidson,1996-01-31,129.45017785214068,included_game_day
+1996,2166,Davidson,1996-02-03,128.1892672868423,included_game_day
+1996,2166,Davidson,1996-02-05,128.69360518680674,included_game_day
+1996,2166,Davidson,1996-02-10,119.22074357049678,included_game_day
+1996,2166,Davidson,1996-02-13,136.30888882764089,included_game_day
+1996,2166,Davidson,1996-02-17,134.10639492446913,included_game_day
+1996,2166,Davidson,1996-02-19,140.6332579315043,included_game_day
+1996,2166,Davidson,1996-02-24,134.4714136142397,included_game_day
+1996,2166,Davidson,1996-02-26,123.26320855834496,included_game_day
+1996,2166,Davidson,1996-03-01,123.02186196030803,included_game_day
+1996,2166,Davidson,1996-03-02,133.16067932436087,included_game_day
+1996,2166,Davidson,1996-03-03,109.84623451759285,included_game_day
+1996,2166,Davidson,1996-03-13,78.19551762448584,included_game_day
+1997,2166,Davidson,1996-11-23,17.0,included_game_day
+1997,2166,Davidson,1996-11-29,0.33999999999999986,included_game_day
+1997,2166,Davidson,1996-12-02,2.9059999999999997,included_game_day
+1997,2166,Davidson,1996-12-05,-18.739600000000003,included_game_day
+1997,2166,Davidson,1996-12-11,-33.750958780000005,included_game_day
+1997,2166,Davidson,1996-12-14,-35.628441602,included_game_day
+1997,2166,Davidson,1996-12-21,-18.0991740358,included_game_day
+1997,2166,Davidson,1997-01-02,-28.586181326763032,included_game_day
+1997,2166,Davidson,1997-01-08,-30.458801211243024,included_game_day
+1997,2166,Davidson,1997-01-11,-18.44224712069223,included_game_day
+1997,2166,Davidson,1997-01-13,-17.057037660789803,included_game_day
+1997,2166,Davidson,1997-01-18,-25.38692772954748,included_game_day
+1997,2166,Davidson,1997-01-20,-40.90350365260055,included_game_day
+1997,2166,Davidson,1997-01-22,-27.826259872768663,included_game_day
+1997,2166,Davidson,1997-01-27,-24.033597414445868,included_game_day
+1997,2166,Davidson,1997-02-01,-20.462198955689175,included_game_day
+1997,2166,Davidson,1997-02-03,-22.190379334180776,included_game_day
+1997,2166,Davidson,1997-02-06,-21.235326683898037,included_game_day
+1997,2166,Davidson,1997-02-08,-17.78194509473645,included_game_day
+1997,2166,Davidson,1997-02-10,21.09326536857362,included_game_day
+1997,2166,Davidson,1997-02-15,32.36956743398257,included_game_day
+1997,2166,Davidson,1997-02-17,44.93795808165802,included_game_day
+1997,2166,Davidson,1997-02-22,37.39704149076607,included_game_day
+1997,2166,Davidson,1997-02-28,51.66692921507608,included_game_day
+1997,2166,Davidson,1997-03-01,43.398962788719636,included_game_day
+1998,2166,Davidson,1997-11-20,-28.4,included_game_day
+1998,2166,Davidson,1997-11-23,-11.66,included_game_day
+1998,2166,Davidson,1997-12-03,-12.566975,included_game_day
+1998,2166,Davidson,1997-12-10,-20.0629542,included_game_day
+1998,2166,Davidson,1997-12-14,0.1502551969999999,included_game_day
+1998,2166,Davidson,1997-12-20,-7.16035299082,included_game_day
+1998,2166,Davidson,1997-12-28,-4.272779300377149,included_game_day
+1998,2166,Davidson,1997-12-29,13.342478391563581,included_game_day
+1998,2166,Davidson,1998-01-02,33.47628842654723,included_game_day
+1998,2166,Davidson,1998-01-05,16.867762088877498,included_game_day
+1998,2166,Davidson,1998-01-08,5.530625159339369,included_game_day
+1998,2166,Davidson,1998-01-12,-4.952018407554997,included_game_day
+1998,2166,Davidson,1998-01-17,-1.6401136008791237,included_game_day
+1998,2166,Davidson,1998-01-19,10.385466834373965,included_game_day
+1998,2166,Davidson,1998-01-22,-0.5211641442639561,included_game_day
+1998,2166,Davidson,1998-01-24,-1.9504449929742957,included_game_day
+1998,2166,Davidson,1998-01-31,7.263125045187062,included_game_day
+1998,2166,Davidson,1998-02-04,-0.6586501358058658,included_game_day
+1998,2166,Davidson,1998-02-07,-4.676895217013069,included_game_day
+1998,2166,Davidson,1998-02-09,9.751078116908916,included_game_day
+1998,2166,Davidson,1998-02-14,14.807269461731805,included_game_day
+1998,2166,Davidson,1998-02-16,34.479012502524206,included_game_day
+1998,2166,Davidson,1998-02-19,38.937855592262444,included_game_day
+1998,2166,Davidson,1998-02-21,40.75877408914566,included_game_day
+1998,2166,Davidson,1998-02-27,35.56370631487065,included_game_day
+1998,2166,Davidson,1998-02-28,36.913022501406836,included_game_day
+1998,2166,Davidson,1998-03-01,37.68047187640195,included_game_day
+1998,2166,Davidson,1998-03-13,31.732200369546465,included_game_day
+1999,2166,Davidson,1998-11-17,-30.1,included_game_day
+1999,2166,Davidson,1998-11-23,-28.37,included_game_day
+1999,2166,Davidson,1998-11-27,-19.701120000000003,included_game_day
+1999,2166,Davidson,1998-12-04,-22.731732646,included_game_day
+1999,2166,Davidson,1998-12-05,-15.5891843334,included_game_day
+1999,2166,Davidson,1998-12-08,-24.535121610060003,included_game_day
+1999,2166,Davidson,1998-12-29,-6.776895379259582,included_game_day
+1999,2166,Davidson,1999-01-02,1.2467467358276547,included_game_day
+1999,2166,Davidson,1999-01-04,18.344077078946476,included_game_day
+1999,2166,Davidson,1999-01-09,9.19417267488861,included_game_day
+1999,2166,Davidson,1999-01-11,-5.376817994618326,included_game_day
+1999,2166,Davidson,1999-01-16,10.457400286214712,included_game_day
+1999,2166,Davidson,1999-01-18,5.0787026165367415,included_game_day
+1999,2166,Davidson,1999-01-23,21.218625255657717,included_game_day
+1999,2166,Davidson,1999-01-25,17.584103659736915,included_game_day
+1999,2166,Davidson,1999-01-30,16.52027860367008,included_game_day
+1999,2166,Davidson,1999-02-01,18.620706518012867,included_game_day
+1999,2166,Davidson,1999-02-03,34.6972030653454,included_game_day
+1999,2166,Davidson,1999-02-06,49.58047574810369,included_game_day
+1999,2166,Davidson,1999-02-08,43.60347523354665,included_game_day
+1999,2166,Davidson,1999-02-13,24.877451463141327,included_game_day
+1999,2166,Davidson,1999-02-16,22.952697221058635,included_game_day
+1999,2166,Davidson,1999-02-20,19.8500236411158,included_game_day
+1999,2166,Davidson,1999-02-26,-2.5189997501535544,included_game_day
+2000,2166,Davidson,1999-11-16,-7.0,included_game_day
+2000,2166,Davidson,1999-12-01,-21.7212,included_game_day
+2000,2166,Davidson,1999-12-08,-25.80107094,included_game_day
+2000,2166,Davidson,1999-12-21,-52.396473357999994,included_game_day
+2000,2166,Davidson,1999-12-29,-48.22025720404329,included_game_day
+2000,2166,Davidson,1999-12-30,-53.457185983635505,included_game_day
+2000,2166,Davidson,2000-01-02,-47.59120211709609,included_game_day
+2000,2166,Davidson,2000-01-08,-45.547960139849074,included_game_day
+2000,2166,Davidson,2000-01-10,-30.735082204814102,included_game_day
+2000,2166,Davidson,2000-01-15,-9.223013946187901,included_game_day
+2000,2166,Davidson,2000-01-18,-11.171769298973334,included_game_day
+2000,2166,Davidson,2000-01-20,-4.749370084326365,included_game_day
+2000,2166,Davidson,2000-01-22,-6.81520546426532,included_game_day
+2000,2166,Davidson,2000-01-25,-5.896811581820694,included_game_day
+2000,2166,Davidson,2000-01-29,-15.511892700064092,included_game_day
+2000,2166,Davidson,2000-01-31,-15.668054044865642,included_game_day
+2000,2166,Davidson,2000-02-02,-6.5149205845907225,included_game_day
+2000,2166,Davidson,2000-02-05,-27.711760546095178,included_game_day
+2000,2166,Davidson,2000-02-08,-4.9604350419311345,included_game_day
+2000,2166,Davidson,2000-02-12,-18.7163860862896,included_game_day
+2000,2166,Davidson,2000-02-14,2.325355004701553,included_game_day
+2000,2166,Davidson,2000-02-19,18.680013245482005,included_game_day
+2000,2166,Davidson,2000-02-21,21.97031070170572,included_game_day
+2000,2166,Davidson,2000-02-26,10.967211856817901,included_game_day
+2000,2166,Davidson,2000-03-03,4.02331521549324,included_game_day
+2001,2166,Davidson,2000-11-17,-26.0,included_game_day
+2001,2166,Davidson,2000-11-18,-43.3,included_game_day
+2001,2166,Davidson,2000-11-19,-32.17,included_game_day
+2001,2166,Davidson,2000-11-24,-51.593,included_game_day
+2001,2166,Davidson,2000-11-28,-47.773700000000005,included_game_day
+2001,2166,Davidson,2000-12-02,-49.284381,included_game_day
+2001,2166,Davidson,2000-12-05,-72.06075340000001,included_game_day
+2001,2166,Davidson,2000-12-09,-73.72648466000001,included_game_day
+2001,2166,Davidson,2000-12-29,-78.6865915511344,included_game_day
+2001,2166,Davidson,2000-12-30,-66.36009692920798,included_game_day
+2001,2166,Davidson,2001-01-03,-49.966222451983505,included_game_day
+2001,2166,Davidson,2001-01-06,-43.61968659048945,included_game_day
+2001,2166,Davidson,2001-01-08,-46.44240204129629,included_game_day
+2001,2166,Davidson,2001-01-13,-57.643324339558845,included_game_day
+2001,2166,Davidson,2001-01-16,-60.16886005494126,included_game_day
+2001,2166,Davidson,2001-01-20,-55.4398320492531,included_game_day
+2001,2166,Davidson,2001-01-23,-70.46612274273213,included_game_day
+2001,2166,Davidson,2001-01-27,-67.80033950764243,included_game_day
+2001,2166,Davidson,2001-01-30,-64.37134715190173,included_game_day
+2001,2166,Davidson,2001-02-03,-55.91597187060421,included_game_day
+2001,2166,Davidson,2001-02-05,-60.10153614794268,included_game_day
+2001,2166,Davidson,2001-02-10,-63.38905078666696,included_game_day
+2001,2166,Davidson,2001-02-12,-64.95210768574105,included_game_day
+2001,2166,Davidson,2001-02-17,-64.42075911353186,included_game_day
+2001,2166,Davidson,2001-02-19,-49.200423601933,included_game_day
+2001,2166,Davidson,2001-02-24,-39.64152573516216,included_game_day
+2001,2166,Davidson,2001-03-01,-31.070410980609132,included_game_day
+2001,2166,Davidson,2001-03-02,-21.28040416264777,included_game_day
+2001,2166,Davidson,2001-03-03,-23.65371893078742,included_game_day
+2002,2166,Davidson Wildcats,2001-11-16,-11.0,included_game_day
+2002,2166,Davidson Wildcats,2001-11-20,-4.0,included_game_day
+2002,2166,Davidson Wildcats,2001-12-01,-8.516808000000001,included_game_day
+2002,2166,Davidson Wildcats,2001-12-04,-11.245548200000002,included_game_day
+2002,2166,Davidson Wildcats,2001-12-08,-24.17270818,included_game_day
+2002,2166,Davidson Wildcats,2001-12-15,-25.0548470854,included_game_day
+2002,2166,Davidson Wildcats,2001-12-22,-13.449548086859998,included_game_day
+2002,2166,Davidson Wildcats,2002-01-05,-8.223835632073568,included_game_day
+2002,2166,Davidson Wildcats,2002-01-08,-5.79882010748895,included_game_day
+2002,2166,Davidson Wildcats,2002-01-12,-2.3240415776011907,included_game_day
+2002,2166,Davidson Wildcats,2002-01-16,-1.2666518621408414,included_game_day
+2002,2166,Davidson Wildcats,2002-01-19,3.3702635693141274,included_game_day
+2002,2166,Davidson Wildcats,2002-01-23,10.438341097274838,included_game_day
+2002,2166,Davidson Wildcats,2002-01-26,0.7198567198539596,included_game_day
+2002,2166,Davidson Wildcats,2002-01-30,4.149420341661682,included_game_day
+2002,2166,Davidson Wildcats,2002-02-02,13.227491490383283,included_game_day
+2002,2166,Davidson Wildcats,2002-02-05,17.18404776129068,included_game_day
+2002,2166,Davidson Wildcats,2002-02-09,16.81577506252306,included_game_day
+2002,2166,Davidson Wildcats,2002-02-16,5.107012375683592,included_game_day
+2002,2166,Davidson Wildcats,2002-02-19,18.606232327920708,included_game_day
+2002,2166,Davidson Wildcats,2002-02-23,7.057112786158234,included_game_day
+2002,2166,Davidson Wildcats,2002-03-01,15.922849813135988,included_game_day
+2002,2166,Davidson Wildcats,2002-03-02,26.444923810755864,included_game_day
+2002,2166,Davidson Wildcats,2002-03-03,26.89257748642287,included_game_day
+2002,2166,Davidson Wildcats,2002-03-14,33.125282989307976,included_game_day
+2003,2166,Davidson Wildcats,2002-11-25,-7.5,included_game_day
+2003,2166,Davidson Wildcats,2002-11-27,5.359999999999999,included_game_day
+2003,2166,Davidson Wildcats,2002-12-07,23.52110481,included_game_day
+2003,2166,Davidson Wildcats,2002-12-10,23.500055979000003,included_game_day
+2003,2166,Davidson Wildcats,2002-12-28,7.1574961899900025,included_game_day
+2003,2166,Davidson Wildcats,2002-12-30,-10.067637098383187,included_game_day
+2003,2166,Davidson Wildcats,2003-01-05,-4.33973048245344,included_game_day
+2003,2166,Davidson Wildcats,2003-01-08,-9.716437295796315,included_game_day
+2003,2166,Davidson Wildcats,2003-01-11,1.864430809034662,included_game_day
+2003,2166,Davidson Wildcats,2003-01-13,3.8002490353433185,included_game_day
+2003,2166,Davidson Wildcats,2003-01-18,1.3873793122457094,included_game_day
+2003,2166,Davidson Wildcats,2003-01-21,-4.845014518532654,included_game_day
+2003,2166,Davidson Wildcats,2003-01-25,-3.445718919091247,included_game_day
+2003,2166,Davidson Wildcats,2003-01-27,9.465086548682441,included_game_day
+2003,2166,Davidson Wildcats,2003-02-01,15.443525580962302,included_game_day
+2003,2166,Davidson Wildcats,2003-02-03,-3.9038122692964343,included_game_day
+2003,2166,Davidson Wildcats,2003-02-08,9.73649806239259,included_game_day
+2003,2166,Davidson Wildcats,2003-02-11,11.725763867650288,included_game_day
+2003,2166,Davidson Wildcats,2003-02-15,-7.40989772149914,included_game_day
+2003,2166,Davidson Wildcats,2003-02-18,1.3027704746320499,included_game_day
+2003,2166,Davidson Wildcats,2003-02-22,18.377095442644936,included_game_day
+2003,2166,Davidson Wildcats,2003-02-25,11.893157264241182,included_game_day
+2003,2166,Davidson Wildcats,2003-03-01,32.1184657685388,included_game_day
+2003,2166,Davidson Wildcats,2003-03-06,9.219625198099955,included_game_day
+2004,2166,Davidson Wildcats,2003-11-18,-28.0,included_game_day
+2004,2166,Davidson Wildcats,2003-11-24,-42.9,included_game_day
+2004,2166,Davidson Wildcats,2003-12-01,-39.831,included_game_day
+2004,2166,Davidson Wildcats,2003-12-03,-30.452998,included_game_day
+2004,2166,Davidson Wildcats,2003-12-06,-36.4925832,included_game_day
+2004,2166,Davidson Wildcats,2003-12-11,-34.84369598,included_game_day
+2004,2166,Davidson Wildcats,2003-12-22,-45.631494524947996,included_game_day
+2004,2166,Davidson Wildcats,2003-12-29,-58.9316565725932,included_game_day
+2004,2166,Davidson Wildcats,2004-01-03,-50.32878191075595,included_game_day
+2004,2166,Davidson Wildcats,2004-01-06,-33.48738154823897,included_game_day
+2004,2166,Davidson Wildcats,2004-01-10,-34.88983571089697,included_game_day
+2004,2166,Davidson Wildcats,2004-01-13,-22.928064428315018,included_game_day
+2004,2166,Davidson Wildcats,2004-01-17,-31.009680496661836,included_game_day
+2004,2166,Davidson Wildcats,2004-01-21,-27.36417578993974,included_game_day
+2004,2166,Davidson Wildcats,2004-01-24,-22.11693310312701,included_game_day
+2004,2166,Davidson Wildcats,2004-01-28,-13.315839003866806,included_game_day
+2004,2166,Davidson Wildcats,2004-01-31,-7.1292382647315495,included_game_day
+2004,2166,Davidson Wildcats,2004-02-03,-1.509228392238441,included_game_day
+2004,2166,Davidson Wildcats,2004-02-07,6.867225031797105,included_game_day
+2004,2166,Davidson Wildcats,2004-02-10,22.444080564467676,included_game_day
+2004,2166,Davidson Wildcats,2004-02-14,30.359072695088727,included_game_day
+2004,2166,Davidson Wildcats,2004-02-18,26.525955687849766,included_game_day
+2004,2166,Davidson Wildcats,2004-02-24,24.597136819850448,included_game_day
+2004,2166,Davidson Wildcats,2004-02-28,27.13308254336136,included_game_day
+2004,2166,Davidson Wildcats,2004-03-04,24.55928498080452,included_game_day
+2004,2166,Davidson Wildcats,2004-03-05,19.41434154751631,included_game_day
+2005,2166,Davidson Wildcats,2004-11-19,7.8100000000000005,included_game_day
+2005,2166,Davidson Wildcats,2004-11-22,0.9290000000000003,included_game_day
+2005,2166,Davidson Wildcats,2004-11-27,-14.8239,included_game_day
+2005,2166,Davidson Wildcats,2004-11-30,-39.97651,included_game_day
+2005,2166,Davidson Wildcats,2004-12-04,-28.924508999999997,included_game_day
+2005,2166,Davidson Wildcats,2004-12-08,-43.993662840999995,included_game_day
+2005,2166,Davidson Wildcats,2004-12-19,-42.170831089920995,included_game_day
+2005,2166,Davidson Wildcats,2004-12-29,-50.563697781426605,included_game_day
+2005,2166,Davidson Wildcats,2005-01-02,-43.96873667824715,included_game_day
+2005,2166,Davidson Wildcats,2005-01-05,-38.57046086730816,included_game_day
+2005,2166,Davidson Wildcats,2005-01-08,-30.23224561639729,included_game_day
+2005,2166,Davidson Wildcats,2005-01-11,-32.182588304402216,included_game_day
+2005,2166,Davidson Wildcats,2005-01-15,-25.967997208113744,included_game_day
+2005,2166,Davidson Wildcats,2005-01-19,-8.375353083582755,included_game_day
+2005,2166,Davidson Wildcats,2005-01-22,2.6955340276660316,included_game_day
+2005,2166,Davidson Wildcats,2005-01-26,-8.311260394001007,included_game_day
+2005,2166,Davidson Wildcats,2005-01-29,7.72812874697895,included_game_day
+2005,2166,Davidson Wildcats,2005-01-31,20.916004704072897,included_game_day
+2005,2166,Davidson Wildcats,2005-02-05,27.170437223359563,included_game_day
+2005,2166,Davidson Wildcats,2005-02-07,27.53654497375966,included_game_day
+2005,2166,Davidson Wildcats,2005-02-12,28.742719324967485,included_game_day
+2005,2166,Davidson Wildcats,2005-02-14,29.440025961415824,included_game_day
+2005,2166,Davidson Wildcats,2005-02-22,24.295234052989695,included_game_day
+2005,2166,Davidson Wildcats,2005-02-26,32.253170417543316,included_game_day
+2005,2166,Davidson Wildcats,2005-03-03,32.353484144806416,included_game_day
+2005,2166,Davidson Wildcats,2005-03-04,16.725163428277106,included_game_day
+2005,2166,Davidson Wildcats,2005-03-16,38.08055411912876,included_game_day
+2005,2166,Davidson Wildcats,2005-03-19,57.65610137925668,included_game_day
+2005,2166,Davidson Wildcats,2005-03-23,46.87929700852034,included_game_day
+2006,2166,Davidson Wildcats,2005-11-19,-19.63,included_game_day
+2006,2166,Davidson Wildcats,2005-11-22,-17.467,included_game_day
+2006,2166,Davidson Wildcats,2005-11-26,-7.5402999999999984,included_game_day
+2006,2166,Davidson Wildcats,2005-11-30,-8.033331999999998,included_game_day
+2006,2166,Davidson Wildcats,2005-12-03,28.797268300000002,included_game_day
+2006,2166,Davidson Wildcats,2005-12-07,33.997827050000005,included_game_day
+2006,2166,Davidson Wildcats,2005-12-18,30.884998523400004,included_game_day
+2006,2166,Davidson Wildcats,2005-12-29,23.584282635802843,included_game_day
+2006,2166,Davidson Wildcats,2006-01-03,9.15641270407405,included_game_day
+2006,2166,Davidson Wildcats,2006-01-07,19.253044582228263,included_game_day
+2006,2166,Davidson Wildcats,2006-01-10,37.420423753384014,included_game_day
+2006,2166,Davidson Wildcats,2006-01-14,32.498657960377564,included_game_day
+2006,2166,Davidson Wildcats,2006-01-17,42.899836321265624,included_game_day
+2006,2166,Davidson Wildcats,2006-01-21,62.00323280347575,included_game_day
+2006,2166,Davidson Wildcats,2006-01-23,49.3344313245008,included_game_day
+2006,2166,Davidson Wildcats,2006-01-27,58.87771000635772,included_game_day
+2006,2166,Davidson Wildcats,2006-01-29,56.627246483287834,included_game_day
+2006,2166,Davidson Wildcats,2006-02-04,36.8944561945069,included_game_day
+2006,2166,Davidson Wildcats,2006-02-08,43.766354755892735,included_game_day
+2006,2166,Davidson Wildcats,2006-02-11,23.535211406625695,included_game_day
+2006,2166,Davidson Wildcats,2006-02-13,11.587485136630939,included_game_day
+2006,2166,Davidson Wildcats,2006-02-18,25.261683872778267,included_game_day
+2006,2166,Davidson Wildcats,2006-02-21,24.707655583249792,included_game_day
+2006,2166,Davidson Wildcats,2006-02-25,21.651392467890936,included_game_day
+2006,2166,Davidson Wildcats,2006-03-03,10.560532959809933,included_game_day
+2006,2166,Davidson Wildcats,2006-03-04,9.492345568862934,included_game_day
+2006,2166,Davidson Wildcats,2006-03-05,29.316554289003346,included_game_day
+2006,2166,Davidson Wildcats,2006-03-17,33.49000238644633,included_game_day
+2007,2166,Davidson Wildcats,2006-11-10,7.0,included_game_day
+2007,2166,Davidson Wildcats,2006-11-11,1.0,included_game_day
+2007,2166,Davidson Wildcats,2006-11-12,28.9,included_game_day
+2007,2166,Davidson Wildcats,2006-11-15,34.01,included_game_day
+2007,2166,Davidson Wildcats,2006-11-19,32.711,included_game_day
+2007,2166,Davidson Wildcats,2006-11-25,12.140647999999999,included_game_day
+2007,2166,Davidson Wildcats,2006-12-01,23.879482838999998,included_game_day
+2007,2166,Davidson Wildcats,2006-12-04,26.625349159,included_game_day
+2007,2166,Davidson Wildcats,2006-12-09,47.1588026639,included_game_day
+2007,2166,Davidson Wildcats,2006-12-18,55.96938911305406,included_game_day
+2007,2166,Davidson Wildcats,2006-12-21,63.43745949051597,included_game_day
+2007,2166,Davidson Wildcats,2006-12-22,64.44976872349577,included_game_day
+2007,2166,Davidson Wildcats,2006-12-30,62.160314476704606,included_game_day
+2007,2166,Davidson Wildcats,2007-01-06,63.08142161891953,included_game_day
+2007,2166,Davidson Wildcats,2007-01-10,66.38376805776194,included_game_day
+2007,2166,Davidson Wildcats,2007-01-13,59.66370913713079,included_game_day
+2007,2166,Davidson Wildcats,2007-01-16,67.90962379055638,included_game_day
+2007,2166,Davidson Wildcats,2007-01-20,54.4582899519486,included_game_day
+2007,2166,Davidson Wildcats,2007-01-23,57.675820075760875,included_game_day
+2007,2166,Davidson Wildcats,2007-01-27,62.15066767651999,included_game_day
+2007,2166,Davidson Wildcats,2007-01-30,81.90291176291892,included_game_day
+2007,2166,Davidson Wildcats,2007-02-03,81.73261455494253,included_game_day
+2007,2166,Davidson Wildcats,2007-02-06,95.77837285754727,included_game_day
+2007,2166,Davidson Wildcats,2007-02-12,104.19663070943466,included_game_day
+2007,2166,Davidson Wildcats,2007-02-17,123.74984949322177,included_game_day
+2007,2166,Davidson Wildcats,2007-02-19,110.18308176265161,included_game_day
+2007,2166,Davidson Wildcats,2007-02-22,112.58129864004977,included_game_day
+2007,2166,Davidson Wildcats,2007-02-24,107.02474414124345,included_game_day
+2007,2166,Davidson Wildcats,2007-03-01,99.31621261516577,included_game_day
+2007,2166,Davidson Wildcats,2007-03-02,113.203554075796,included_game_day
+2007,2166,Davidson Wildcats,2007-03-03,108.98132164620283,included_game_day
+2007,2166,Davidson Wildcats,2007-03-15,104.38670217208195,included_game_day
+2008,2166,Davidson Wildcats,2007-11-14,-4.0,included_game_day
+2008,2166,Davidson Wildcats,2007-11-21,-7.863239999999999,included_game_day
+2008,2166,Davidson Wildcats,2007-11-24,23.840094,included_game_day
+2008,2166,Davidson Wildcats,2007-11-26,37.9636146,included_game_day
+2008,2166,Davidson Wildcats,2007-12-01,42.450252992,included_game_day
+2008,2166,Davidson Wildcats,2007-12-05,34.494943971800005,included_game_day
+2008,2166,Davidson Wildcats,2007-12-08,28.759517399620005,included_game_day
+2008,2166,Davidson Wildcats,2007-12-13,34.83414528665801,included_game_day
+2008,2166,Davidson Wildcats,2007-12-21,34.770632886976806,included_game_day
+2008,2166,Davidson Wildcats,2008-01-03,56.2162807676321,included_game_day
+2008,2166,Davidson Wildcats,2008-01-05,52.63771533450636,included_game_day
+2008,2166,Davidson Wildcats,2008-01-09,48.87067115092609,included_game_day
+2008,2166,Davidson Wildcats,2008-01-12,79.25916223405132,included_game_day
+2008,2166,Davidson Wildcats,2008-01-16,85.93575595401705,included_game_day
+2008,2166,Davidson Wildcats,2008-01-21,86.36489524520955,included_game_day
+2008,2166,Davidson Wildcats,2008-01-24,83.32570787727072,included_game_day
+2008,2166,Davidson Wildcats,2008-01-26,90.54812725944791,included_game_day
+2008,2166,Davidson Wildcats,2008-01-30,88.14125485528128,included_game_day
+2008,2166,Davidson Wildcats,2008-02-02,94.55429778467087,included_game_day
+2008,2166,Davidson Wildcats,2008-02-06,85.65563454219236,included_game_day
+2008,2166,Davidson Wildcats,2008-02-09,99.8312791578656,included_game_day
+2008,2166,Davidson Wildcats,2008-02-13,99.41888731727724,included_game_day
+2008,2166,Davidson Wildcats,2008-02-16,111.89005915423219,included_game_day
+2008,2166,Davidson Wildcats,2008-02-19,110.43611119169992,included_game_day
+2008,2166,Davidson Wildcats,2008-02-22,121.4037192115078,included_game_day
+2008,2166,Davidson Wildcats,2008-02-27,118.81838271126814,included_game_day
+2008,2166,Davidson Wildcats,2008-03-01,133.32721789588084,included_game_day
+2008,2166,Davidson Wildcats,2008-03-08,149.00913317297983,included_game_day
+2008,2166,Davidson Wildcats,2008-03-09,170.21246309661973,included_game_day
+2008,2166,Davidson Wildcats,2008-03-10,168.07810570064697,included_game_day
+2008,2166,Davidson Wildcats,2008-03-21,170.75570476687147,included_game_day
+2008,2166,Davidson Wildcats,2008-03-23,174.47817073065968,included_game_day
+2008,2166,Davidson Wildcats,2008-03-28,193.23515798027444,included_game_day
+2008,2166,Davidson Wildcats,2008-03-30,197.76224445956979,included_game_day
+2009,2166,Davidson Wildcats,2008-11-17,35.0,included_game_day
+2009,2166,Davidson Wildcats,2008-11-18,36.043,included_game_day
+2009,2166,Davidson Wildcats,2008-11-21,53.6987,included_game_day
+2009,2166,Davidson Wildcats,2008-11-24,62.27803,included_game_day
+2009,2166,Davidson Wildcats,2008-11-25,80.1704,included_game_day
+2009,2166,Davidson Wildcats,2008-12-06,79.1993587,included_game_day
+2009,2166,Davidson Wildcats,2008-12-09,82.67987328160001,included_game_day
+2009,2166,Davidson Wildcats,2008-12-13,67.72142295344001,included_game_day
+2009,2166,Davidson Wildcats,2008-12-20,57.00859870929601,included_game_day
+2009,2166,Davidson Wildcats,2008-12-29,62.809553688547766,included_game_day
+2009,2166,Davidson Wildcats,2009-01-03,69.93398268417637,included_game_day
+2009,2166,Davidson Wildcats,2009-01-07,71.63150583386133,included_game_day
+2009,2166,Davidson Wildcats,2009-01-10,79.06318905578097,included_game_day
+2009,2166,Davidson Wildcats,2009-01-12,88.04713227923222,included_game_day
+2009,2166,Davidson Wildcats,2009-01-14,83.40297904350302,included_game_day
+2009,2166,Davidson Wildcats,2009-01-17,93.89259876096212,included_game_day
+2009,2166,Davidson Wildcats,2009-01-21,110.26775273411111,included_game_day
+2009,2166,Davidson Wildcats,2009-01-24,115.3520144325106,included_game_day
+2009,2166,Davidson Wildcats,2009-01-28,127.29953660117022,included_game_day
+2009,2166,Davidson Wildcats,2009-01-31,117.7131867144954,included_game_day
+2009,2166,Davidson Wildcats,2009-02-02,122.95523447146591,included_game_day
+2009,2166,Davidson Wildcats,2009-02-05,124.18256910177774,included_game_day
+2009,2166,Davidson Wildcats,2009-02-07,105.2292694036637,included_game_day
+2009,2166,Davidson Wildcats,2009-02-12,111.27575009274413,included_game_day
+2009,2166,Davidson Wildcats,2009-02-14,108.81590626344195,included_game_day
+2009,2166,Davidson Wildcats,2009-02-18,78.39747420437453,included_game_day
+2009,2166,Davidson Wildcats,2009-02-21,63.11561850181787,included_game_day
+2009,2166,Davidson Wildcats,2009-02-25,63.495585615132775,included_game_day
+2009,2166,Davidson Wildcats,2009-02-28,85.5437712342336,included_game_day
+2009,2166,Davidson Wildcats,2009-03-02,82.83097481458688,included_game_day
+2009,2166,Davidson Wildcats,2009-03-07,85.53565934850313,included_game_day
+2009,2166,Davidson Wildcats,2009-03-08,71.93366930208492,included_game_day
+2009,2166,Davidson Wildcats,2009-03-17,81.30475415741839,included_game_day
+2009,2166,Davidson Wildcats,2009-03-23,71.66545941040474,included_game_day
+2010,2166,Davidson Wildcats,2009-11-14,-8.0,included_game_day
+2010,2166,Davidson Wildcats,2009-11-19,-11.89,included_game_day
+2010,2166,Davidson Wildcats,2009-11-20,-28.176000000000002,included_game_day
+2010,2166,Davidson Wildcats,2009-11-22,-27.23888,included_game_day
+2010,2166,Davidson Wildcats,2009-11-28,-32.644112,included_game_day
+2010,2166,Davidson Wildcats,2009-12-03,-14.8940442,included_game_day
+2010,2166,Davidson Wildcats,2009-12-05,-22.867979965,included_game_day
+2010,2166,Davidson Wildcats,2009-12-12,-24.13349902735,included_game_day
+2010,2166,Davidson Wildcats,2009-12-20,-20.610863328515,included_game_day
+2010,2166,Davidson Wildcats,2009-12-21,-7.986629835287349,included_game_day
+2010,2166,Davidson Wildcats,2009-12-28,11.253646991671385,included_game_day
+2010,2166,Davidson Wildcats,2009-12-30,8.990827287365452,included_game_day
+2010,2166,Davidson Wildcats,2010-01-04,12.13316468364722,included_game_day
+2010,2166,Davidson Wildcats,2010-01-09,-5.3733224266603585,included_game_day
+2010,2166,Davidson Wildcats,2010-01-13,-2.1011997094561874,included_game_day
+2010,2166,Davidson Wildcats,2010-01-16,-1.279749418900348,included_game_day
+2010,2166,Davidson Wildcats,2010-01-20,-14.234577870536178,included_game_day
+2010,2166,Davidson Wildcats,2010-01-23,-15.36138122814922,included_game_day
+2010,2166,Davidson Wildcats,2010-01-28,1.2106652990062798,included_game_day
+2010,2166,Davidson Wildcats,2010-01-30,-0.2912657542865613,included_game_day
+2010,2166,Davidson Wildcats,2010-02-06,-3.2089472561360513,included_game_day
+2010,2166,Davidson Wildcats,2010-02-11,-8.376071730513019,included_game_day
+2010,2166,Davidson Wildcats,2010-02-13,-3.4165744760457653,included_game_day
+2010,2166,Davidson Wildcats,2010-02-17,-23.613581307007188,included_game_day
+2010,2166,Davidson Wildcats,2010-02-20,-27.008870056978687,included_game_day
+2010,2166,Davidson Wildcats,2010-02-22,-34.862594388384935,included_game_day
+2010,2166,Davidson Wildcats,2010-02-24,-36.90809940253312,included_game_day
+2010,2166,Davidson Wildcats,2010-02-27,-33.84409079198243,included_game_day
+2010,2166,Davidson Wildcats,2010-03-05,-44.39288390354188,included_game_day
+2011,2166,Davidson Wildcats,2010-11-13,-2.0,included_game_day
+2011,2166,Davidson Wildcats,2010-11-18,-13.7,included_game_day
+2011,2166,Davidson Wildcats,2010-11-19,-6.196999999999999,included_game_day
+2011,2166,Davidson Wildcats,2010-11-21,9.4914,included_game_day
+2011,2166,Davidson Wildcats,2010-11-27,0.8746196000000008,included_game_day
+2011,2166,Davidson Wildcats,2010-11-29,13.058627640000001,included_game_day
+2011,2166,Davidson Wildcats,2010-12-02,8.773157476000002,included_game_day
+2011,2166,Davidson Wildcats,2010-12-04,22.3800515424,included_game_day
+2011,2166,Davidson Wildcats,2010-12-11,31.28360385024,included_game_day
+2011,2166,Davidson Wildcats,2010-12-20,30.5870785625264,included_game_day
+2011,2166,Davidson Wildcats,2010-12-21,33.64696770079944,included_game_day
+2011,2166,Davidson Wildcats,2011-01-02,16.14106399720363,included_game_day
+2011,2166,Davidson Wildcats,2011-01-05,-2.160464692293914,included_game_day
+2011,2166,Davidson Wildcats,2011-01-08,-9.129606773020054,included_game_day
+2011,2166,Davidson Wildcats,2011-01-12,1.782864551039049,included_game_day
+2011,2166,Davidson Wildcats,2011-01-15,-6.4591762542517515,included_game_day
+2011,2166,Davidson Wildcats,2011-01-17,-22.737729635885298,included_game_day
+2011,2166,Davidson Wildcats,2011-01-20,-27.442349829339527,included_game_day
+2011,2166,Davidson Wildcats,2011-01-26,-41.05860410354151,included_game_day
+2011,2166,Davidson Wildcats,2011-01-29,-24.951764958778455,included_game_day
+2011,2166,Davidson Wildcats,2011-01-31,-26.38662686391425,included_game_day
+2011,2166,Davidson Wildcats,2011-02-03,-18.443558507956347,included_game_day
+2011,2166,Davidson Wildcats,2011-02-05,-13.230741024887195,included_game_day
+2011,2166,Davidson Wildcats,2011-02-09,3.8075516503320728,included_game_day
+2011,2166,Davidson Wildcats,2011-02-12,-1.3121632663196738,included_game_day
+2011,2166,Davidson Wildcats,2011-02-16,10.3331874382508,included_game_day
+2011,2166,Davidson Wildcats,2011-02-19,11.120122174205994,included_game_day
+2011,2166,Davidson Wildcats,2011-02-24,9.551339204819477,included_game_day
+2011,2166,Davidson Wildcats,2011-02-26,8.769587372748932,included_game_day
+2011,2166,Davidson Wildcats,2011-03-04,-6.855814092907504,included_game_day
+2011,2166,Davidson Wildcats,2011-03-15,13.604348627197727,included_game_day
+2011,2166,Davidson Wildcats,2011-03-21,9.886933474316578,included_game_day
+2012,2166,Davidson Wildcats,2011-11-14,10.7,included_game_day
+2012,2166,Davidson Wildcats,2011-11-18,3.268,included_game_day
+2012,2166,Davidson Wildcats,2011-11-21,12.93889,included_game_day
+2012,2166,Davidson Wildcats,2011-11-26,14.984681,included_game_day
+2012,2166,Davidson Wildcats,2011-12-01,16.9045838,included_game_day
+2012,2166,Davidson Wildcats,2011-12-03,31.45136872,included_game_day
+2012,2166,Davidson Wildcats,2011-12-07,22.875062534,included_game_day
+2012,2166,Davidson Wildcats,2011-12-10,2.285596515800002,included_game_day
+2012,2166,Davidson Wildcats,2011-12-19,20.21212075783,included_game_day
+2012,2166,Davidson Wildcats,2011-12-22,16.8288682987252,included_game_day
+2012,2166,Davidson Wildcats,2011-12-29,16.463145470984706,included_game_day
+2012,2166,Davidson Wildcats,2012-01-05,37.836558268758736,included_game_day
+2012,2166,Davidson Wildcats,2012-01-07,50.758991727201945,included_game_day
+2012,2166,Davidson Wildcats,2012-01-12,61.28686587825845,included_game_day
+2012,2166,Davidson Wildcats,2012-01-14,57.846327156023314,included_game_day
+2012,2166,Davidson Wildcats,2012-01-19,69.25072971954575,included_game_day
+2012,2166,Davidson Wildcats,2012-01-21,75.74282026673897,included_game_day
+2012,2166,Davidson Wildcats,2012-01-26,68.47032203780073,included_game_day
+2012,2166,Davidson Wildcats,2012-01-28,55.21678251197173,included_game_day
+2012,2166,Davidson Wildcats,2012-02-01,68.72566412274922,included_game_day
+2012,2166,Davidson Wildcats,2012-02-04,81.32255470607848,included_game_day
+2012,2166,Davidson Wildcats,2012-02-06,94.6932329276413,included_game_day
+2012,2166,Davidson Wildcats,2012-02-09,87.04189887341676,included_game_day
+2012,2166,Davidson Wildcats,2012-02-11,73.00642373657436,included_game_day
+2012,2166,Davidson Wildcats,2012-02-15,85.44397307815788,included_game_day
+2012,2166,Davidson Wildcats,2012-02-18,72.3890197782273,included_game_day
+2012,2166,Davidson Wildcats,2012-02-23,76.55843063973415,included_game_day
+2012,2166,Davidson Wildcats,2012-02-25,87.1606602716681,included_game_day
+2012,2166,Davidson Wildcats,2012-03-03,93.15464401134294,included_game_day
+2012,2166,Davidson Wildcats,2012-03-04,95.06046403308983,included_game_day
+2012,2166,Davidson Wildcats,2012-03-05,85.79321034106243,included_game_day
+2012,2166,Davidson Wildcats,2012-03-15,83.16863148538542,included_game_day
+2013,2166,Davidson Wildcats,2012-11-13,-2.0,included_game_day
+2013,2166,Davidson Wildcats,2012-11-17,-4.2,included_game_day
+2013,2166,Davidson Wildcats,2012-11-22,8.143,included_game_day
+2013,2166,Davidson Wildcats,2012-11-23,12.08013,included_game_day
+2013,2166,Davidson Wildcats,2012-11-25,8.194814000000001,included_game_day
+2013,2166,Davidson Wildcats,2012-12-01,33.9917856,included_game_day
+2013,2166,Davidson Wildcats,2012-12-05,28.913579071,included_game_day
+2013,2166,Davidson Wildcats,2012-12-08,29.5097593626,included_game_day
+2013,2166,Davidson Wildcats,2012-12-15,34.7558273243,included_game_day
+2013,2166,Davidson Wildcats,2012-12-22,21.682562748741532,included_game_day
+2013,2166,Davidson Wildcats,2012-12-29,31.73712943204611,included_game_day
+2013,2166,Davidson Wildcats,2013-01-02,26.629518046497914,included_game_day
+2013,2166,Davidson Wildcats,2013-01-05,47.977543260239834,included_game_day
+2013,2166,Davidson Wildcats,2013-01-12,44.75578667571543,included_game_day
+2013,2166,Davidson Wildcats,2013-01-14,23.72303061660581,included_game_day
+2013,2166,Davidson Wildcats,2013-01-17,36.734460453265775,included_game_day
+2013,2166,Davidson Wildcats,2013-01-19,38.2075697461993,included_game_day
+2013,2166,Davidson Wildcats,2013-01-24,39.22606142869827,included_game_day
+2013,2166,Davidson Wildcats,2013-01-26,58.05880140949996,included_game_day
+2013,2166,Davidson Wildcats,2013-01-31,62.264274851103536,included_game_day
+2013,2166,Davidson Wildcats,2013-02-02,63.83574138169934,included_game_day
+2013,2166,Davidson Wildcats,2013-02-07,63.289937378994644,included_game_day
+2013,2166,Davidson Wildcats,2013-02-09,84.90659958477885,included_game_day
+2013,2166,Davidson Wildcats,2013-02-14,98.01054760521286,included_game_day
+2013,2166,Davidson Wildcats,2013-02-16,93.27573490293906,included_game_day
+2013,2166,Davidson Wildcats,2013-02-20,104.36397523043757,included_game_day
+2013,2166,Davidson Wildcats,2013-02-23,98.7442934555711,included_game_day
+2013,2166,Davidson Wildcats,2013-02-27,96.01339492288103,included_game_day
+2013,2166,Davidson Wildcats,2013-03-02,113.73750461633514,included_game_day
+2013,2166,Davidson Wildcats,2013-03-09,124.89250534162687,included_game_day
+2013,2166,Davidson Wildcats,2013-03-10,111.99439762807815,included_game_day
+2013,2166,Davidson Wildcats,2013-03-11,122.12161411665647,included_game_day
+2013,2166,Davidson Wildcats,2013-03-21,119.85827319645277,included_game_day
+2014,2166,Davidson Wildcats,2013-11-08,-31.0,included_game_day
+2014,2166,Davidson Wildcats,2013-11-11,-35.0,included_game_day
+2014,2166,Davidson Wildcats,2013-11-16,-43.22,included_game_day
+2014,2166,Davidson Wildcats,2013-11-21,-26.165999999999997,included_game_day
+2014,2166,Davidson Wildcats,2013-11-22,-49.25082,included_game_day
+2014,2166,Davidson Wildcats,2013-11-24,-62.846447999999995,included_game_day
+2014,2166,Davidson Wildcats,2013-11-30,-54.877329198,included_game_day
+2014,2166,Davidson Wildcats,2013-12-04,-32.9888682116,included_game_day
+2014,2166,Davidson Wildcats,2013-12-11,-46.958100435554,included_game_day
+2014,2166,Davidson Wildcats,2013-12-15,-55.9546052341986,included_game_day
+2014,2166,Davidson Wildcats,2013-12-21,-52.2063452757959,included_game_day
+2014,2166,Davidson Wildcats,2013-12-29,-45.3559720051366,included_game_day
+2014,2166,Davidson Wildcats,2014-01-01,-56.97590547110315,included_game_day
+2014,2166,Davidson Wildcats,2014-01-04,-33.556796138471945,included_game_day
+2014,2166,Davidson Wildcats,2014-01-09,-18.75619186564479,included_game_day
+2014,2166,Davidson Wildcats,2014-01-11,-16.943162551143836,included_game_day
+2014,2166,Davidson Wildcats,2014-01-16,-22.996854551084873,included_game_day
+2014,2166,Davidson Wildcats,2014-01-18,-12.380069983033094,included_game_day
+2014,2166,Davidson Wildcats,2014-01-23,-5.349642328172257,included_game_day
+2014,2166,Davidson Wildcats,2014-01-25,15.253834221711097,included_game_day
+2014,2166,Davidson Wildcats,2014-01-30,52.923601038662305,included_game_day
+2014,2166,Davidson Wildcats,2014-02-01,48.27400985948017,included_game_day
+2014,2166,Davidson Wildcats,2014-02-06,60.555227039960556,included_game_day
+2014,2166,Davidson Wildcats,2014-02-08,54.33663791250269,included_game_day
+2014,2166,Davidson Wildcats,2014-02-15,59.29798251763086,included_game_day
+2014,2166,Davidson Wildcats,2014-02-17,47.560883431651135,included_game_day
+2014,2166,Davidson Wildcats,2014-02-22,51.73172699374286,included_game_day
+2014,2166,Davidson Wildcats,2014-02-27,69.0910263626678,included_game_day
+2014,2166,Davidson Wildcats,2014-03-01,82.89110886820453,included_game_day
+2014,2166,Davidson Wildcats,2014-03-08,89.16168276900505,included_game_day
+2014,2166,Davidson Wildcats,2014-03-09,74.5570158652489,included_game_day
+2014,2166,Davidson Wildcats,2014-03-18,65.97185608519045,included_game_day
+2015,2166,Davidson Wildcats,2014-11-18,32.0,included_game_day
+2015,2166,Davidson Wildcats,2014-11-22,15.77,included_game_day
+2015,2166,Davidson Wildcats,2014-11-26,44.3852,included_game_day
+2015,2166,Davidson Wildcats,2014-11-29,61.90168,included_game_day
+2015,2166,Davidson Wildcats,2014-12-03,60.6582911,included_game_day
+2015,2166,Davidson Wildcats,2014-12-06,76.79597563920001,included_game_day
+2015,2166,Davidson Wildcats,2014-12-10,82.91368414498001,included_game_day
+2015,2166,Davidson Wildcats,2014-12-13,86.219192831482,included_game_day
+2015,2166,Davidson Wildcats,2014-12-20,91.19821549037025,included_game_day
+2015,2166,Davidson Wildcats,2014-12-30,91.20992676148646,included_game_day
+2015,2166,Davidson Wildcats,2015-01-03,94.16129212088111,included_game_day
+2015,2166,Davidson Wildcats,2015-01-07,91.91161563253269,included_game_day
+2015,2166,Davidson Wildcats,2015-01-10,111.7029753229971,included_game_day
+2015,2166,Davidson Wildcats,2015-01-14,113.56334836196966,included_game_day
+2015,2166,Davidson Wildcats,2015-01-17,82.58231351904918,included_game_day
+2015,2166,Davidson Wildcats,2015-01-20,98.25574698246439,included_game_day
+2015,2166,Davidson Wildcats,2015-01-24,95.81037001539315,included_game_day
+2015,2166,Davidson Wildcats,2015-01-31,83.49836995766324,included_game_day
+2015,2166,Davidson Wildcats,2015-02-04,72.49507196303045,included_game_day
+2015,2166,Davidson Wildcats,2015-02-07,83.87197456700198,included_game_day
+2015,2166,Davidson Wildcats,2015-02-11,90.54050237247888,included_game_day
+2015,2166,Davidson Wildcats,2015-02-14,97.75159694436928,included_game_day
+2015,2166,Davidson Wildcats,2015-02-18,94.82455686001495,included_game_day
+2015,2166,Davidson Wildcats,2015-02-21,101.62064216986924,included_game_day
+2015,2166,Davidson Wildcats,2015-02-25,103.24296362639474,included_game_day
+2015,2166,Davidson Wildcats,2015-02-28,105.03297130715103,included_game_day
+2015,2166,Davidson Wildcats,2015-03-05,126.29992587420863,included_game_day
+2015,2166,Davidson Wildcats,2015-03-07,145.62886292756443,included_game_day
+2015,2166,Davidson Wildcats,2015-03-13,134.88398030766524,included_game_day
+2015,2166,Davidson Wildcats,2015-03-14,107.36591630119119,included_game_day
+2015,2166,Davidson Wildcats,2015-03-20,77.9532583659864,included_game_day
+2016,2166,Davidson Wildcats,2015-11-14,2.0,included_game_day
+2016,2166,Davidson Wildcats,2015-11-21,2.82,included_game_day
+2016,2166,Davidson Wildcats,2015-11-23,7.799999999999999,included_game_day
+2016,2166,Davidson Wildcats,2015-12-01,38.162563899999995,included_game_day
+2016,2166,Davidson Wildcats,2015-12-06,11.391425509999994,included_game_day
+2016,2166,Davidson Wildcats,2015-12-09,16.824463218999995,included_game_day
+2016,2166,Davidson Wildcats,2015-12-12,42.16626999459999,included_game_day
+2016,2166,Davidson Wildcats,2015-12-20,23.85494293127289,included_game_day
+2016,2166,Davidson Wildcats,2015-12-23,24.62708792555658,included_game_day
+2016,2166,Davidson Wildcats,2015-12-28,6.377633313972581,included_game_day
+2016,2166,Davidson Wildcats,2016-01-02,0.5423849897937849,included_game_day
+2016,2166,Davidson Wildcats,2016-01-06,8.731185364098753,included_game_day
+2016,2166,Davidson Wildcats,2016-01-09,6.5822059885388935,included_game_day
+2016,2166,Davidson Wildcats,2016-01-12,9.240930526742094,included_game_day
+2016,2166,Davidson Wildcats,2016-01-16,14.525280917412719,included_game_day
+2016,2166,Davidson Wildcats,2016-01-20,-0.20200527890799513,included_game_day
+2016,2166,Davidson Wildcats,2016-01-25,17.379743797330732,included_game_day
+2016,2166,Davidson Wildcats,2016-01-29,14.931383531267478,included_game_day
+2016,2166,Davidson Wildcats,2016-02-03,12.154407378245054,included_game_day
+2016,2166,Davidson Wildcats,2016-02-06,27.11229323907132,included_game_day
+2016,2166,Davidson Wildcats,2016-02-10,25.629342004636715,included_game_day
+2016,2166,Davidson Wildcats,2016-02-13,19.066704383705137,included_game_day
+2016,2166,Davidson Wildcats,2016-02-16,22.073417322011828,included_game_day
+2016,2166,Davidson Wildcats,2016-02-20,35.27263472481599,included_game_day
+2016,2166,Davidson Wildcats,2016-02-23,44.04245343343178,included_game_day
+2016,2166,Davidson Wildcats,2016-02-27,31.35333791777076,included_game_day
+2016,2166,Davidson Wildcats,2016-03-02,31.55810969708435,included_game_day
+2016,2166,Davidson Wildcats,2016-03-05,41.436393575665086,included_game_day
+2016,2166,Davidson Wildcats,2016-03-10,46.40871216369378,included_game_day
+2016,2166,Davidson Wildcats,2016-03-11,51.819775245970355,included_game_day
+2016,2166,Davidson Wildcats,2016-03-12,35.23500920910199,included_game_day
+2016,2166,Davidson Wildcats,2016-03-15,32.43551872685587,included_game_day
+2017,2166,Davidson Wildcats,2016-11-12,9.0,included_game_day
+2017,2166,Davidson Wildcats,2016-11-17,-8.2,included_game_day
+2017,2166,Davidson Wildcats,2016-11-18,12.234000000000002,included_game_day
+2017,2166,Davidson Wildcats,2016-11-20,20.564700000000002,included_game_day
+2017,2166,Davidson Wildcats,2016-11-26,37.826980000000006,included_game_day
+2017,2166,Davidson Wildcats,2016-11-29,58.655936000000004,included_game_day
+2017,2166,Davidson Wildcats,2016-12-04,40.12460300000001,included_game_day
+2017,2166,Davidson Wildcats,2016-12-07,43.96324862520001,included_game_day
+2017,2166,Davidson Wildcats,2016-12-17,37.71637711369101,included_game_day
+2017,2166,Davidson Wildcats,2016-12-21,48.02783777070941,included_game_day
+2017,2166,Davidson Wildcats,2016-12-28,66.35087517294899,included_game_day
+2017,2166,Davidson Wildcats,2016-12-31,55.647377675704256,included_game_day
+2017,2166,Davidson Wildcats,2017-01-05,50.94384776143708,included_game_day
+2017,2166,Davidson Wildcats,2017-01-08,49.441063685800145,included_game_day
+2017,2166,Davidson Wildcats,2017-01-11,30.393183370502875,included_game_day
+2017,2166,Davidson Wildcats,2017-01-14,40.310269143051485,included_game_day
+2017,2166,Davidson Wildcats,2017-01-19,35.44984907345025,included_game_day
+2017,2166,Davidson Wildcats,2017-01-24,38.93509890394975,included_game_day
+2017,2166,Davidson Wildcats,2017-01-28,54.054214253260646,included_game_day
+2017,2166,Davidson Wildcats,2017-01-31,67.2816982033166,included_game_day
+2017,2166,Davidson Wildcats,2017-02-03,54.66294878299711,included_game_day
+2017,2166,Davidson Wildcats,2017-02-08,41.42193002306427,included_game_day
+2017,2166,Davidson Wildcats,2017-02-11,36.66248063419907,included_game_day
+2017,2166,Davidson Wildcats,2017-02-15,42.8567110318246,included_game_day
+2017,2166,Davidson Wildcats,2017-02-18,44.37147932680675,included_game_day
+2017,2166,Davidson Wildcats,2017-02-21,37.83767992297329,included_game_day
+2017,2166,Davidson Wildcats,2017-02-24,35.751027603093746,included_game_day
+2017,2166,Davidson Wildcats,2017-02-28,38.73765311787308,included_game_day
+2017,2166,Davidson Wildcats,2017-03-04,44.70696182313047,included_game_day
+2017,2166,Davidson Wildcats,2017-03-09,46.95921923910187,included_game_day
+2017,2166,Davidson Wildcats,2017-03-10,59.153276179467426,included_game_day
+2017,2166,Davidson Wildcats,2017-03-11,39.10633632430628,included_game_day
+2018,2166,Davidson Wildcats,2017-11-10,45.0,included_game_day
+2018,2166,Davidson Wildcats,2017-11-14,64.5,included_game_day
+2018,2166,Davidson Wildcats,2017-11-21,54.7475,included_game_day
+2018,2166,Davidson Wildcats,2017-11-25,33.371506000000004,included_game_day
+2018,2166,Davidson Wildcats,2017-11-28,46.0990891,included_game_day
+2018,2166,Davidson Wildcats,2017-12-01,36.26130211,included_game_day
+2018,2166,Davidson Wildcats,2017-12-05,49.36499426100001,included_game_day
+2018,2166,Davidson Wildcats,2017-12-16,38.089181940100005,included_game_day
+2018,2166,Davidson Wildcats,2017-12-22,36.998362667209776,included_game_day
+2018,2166,Davidson Wildcats,2017-12-24,26.890068418995988,included_game_day
+2018,2166,Davidson Wildcats,2017-12-25,34.403072420412684,included_game_day
+2018,2166,Davidson Wildcats,2017-12-30,16.91906060970142,included_game_day
+2018,2166,Davidson Wildcats,2018-01-03,13.976827251621023,included_game_day
+2018,2166,Davidson Wildcats,2018-01-07,39.31451484699572,included_game_day
+2018,2166,Davidson Wildcats,2018-01-10,56.40692239134039,included_game_day
+2018,2166,Davidson Wildcats,2018-01-14,78.58097084837438,included_game_day
+2018,2166,Davidson Wildcats,2018-01-19,83.51475939531142,included_game_day
+2018,2166,Davidson Wildcats,2018-01-23,78.9822307358203,included_game_day
+2018,2166,Davidson Wildcats,2018-01-28,65.10645486512749,included_game_day
+2018,2166,Davidson Wildcats,2018-01-31,75.21360404995507,included_game_day
+2018,2166,Davidson Wildcats,2018-02-03,93.56068455990837,included_game_day
+2018,2166,Davidson Wildcats,2018-02-06,111.77400925126372,included_game_day
+2018,2166,Davidson Wildcats,2018-02-09,101.13685809310836,included_game_day
+2018,2166,Davidson Wildcats,2018-02-14,106.28297445912231,included_game_day
+2018,2166,Davidson Wildcats,2018-02-17,91.86292076912834,included_game_day
+2018,2166,Davidson Wildcats,2018-02-21,97.67963633033534,included_game_day
+2018,2166,Davidson Wildcats,2018-02-24,100.02491763734166,included_game_day
+2018,2166,Davidson Wildcats,2018-02-27,96.76089893017934,included_game_day
+2018,2166,Davidson Wildcats,2018-03-02,93.55668546472371,included_game_day
+2018,2166,Davidson Wildcats,2018-03-09,104.15771892372042,included_game_day
+2018,2166,Davidson Wildcats,2018-03-10,114.17730312849841,included_game_day
+2018,2166,Davidson Wildcats,2018-03-11,111.87546364453917,included_game_day
+2018,2166,Davidson Wildcats,2018-03-15,110.96930038205387,included_game_day
+2019,2166,Davidson Wildcats,2018-11-06,17.0,included_game_day
+2019,2166,Davidson Wildcats,2018-11-09,15.3,included_game_day
+2019,2166,Davidson Wildcats,2018-11-15,16.7,included_game_day
+2019,2166,Davidson Wildcats,2018-11-16,-0.7070000000000007,included_game_day
+2019,2166,Davidson Wildcats,2018-11-18,11.1185,included_game_day
+2019,2166,Davidson Wildcats,2018-11-24,14.578899999999999,included_game_day
+2019,2166,Davidson Wildcats,2018-11-27,28.478617,included_game_day
+2019,2166,Davidson Wildcats,2018-12-01,34.235792819,included_game_day
+2019,2166,Davidson Wildcats,2018-12-04,45.3225260371,included_game_day
+2019,2166,Davidson Wildcats,2018-12-15,42.484873945531,included_game_day
+2019,2166,Davidson Wildcats,2018-12-17,37.3180836156679,included_game_day
+2019,2166,Davidson Wildcats,2018-12-29,26.107916728307053,included_game_day
+2019,2166,Davidson Wildcats,2019-01-05,24.1743864983788,included_game_day
+2019,2166,Davidson Wildcats,2019-01-09,34.11351145415371,included_game_day
+2019,2166,Davidson Wildcats,2019-01-12,41.4350187318009,included_game_day
+2019,2166,Davidson Wildcats,2019-01-15,34.182055250079614,included_game_day
+2019,2166,Davidson Wildcats,2019-01-19,39.819083823969876,included_game_day
+2019,2166,Davidson Wildcats,2019-01-23,38.66676862289251,included_game_day
+2019,2166,Davidson Wildcats,2019-01-26,42.51960610160178,included_game_day
+2019,2166,Davidson Wildcats,2019-02-01,52.45263053482104,included_game_day
+2019,2166,Davidson Wildcats,2019-02-06,62.68782908032578,included_game_day
+2019,2166,Davidson Wildcats,2019-02-09,51.52445077006321,included_game_day
+2019,2166,Davidson Wildcats,2019-02-12,55.82962293903955,included_game_day
+2019,2166,Davidson Wildcats,2019-02-15,51.1801530647859,included_game_day
+2019,2166,Davidson Wildcats,2019-02-19,49.66585316182877,included_game_day
+2019,2166,Davidson Wildcats,2019-02-22,53.434921671087224,included_game_day
+2019,2166,Davidson Wildcats,2019-02-27,38.83830756993726,included_game_day
+2019,2166,Davidson Wildcats,2019-03-02,50.840324006923176,included_game_day
+2019,2166,Davidson Wildcats,2019-03-06,66.66104766596463,included_game_day
+2019,2166,Davidson Wildcats,2019-03-09,66.35960926166183,included_game_day
+2019,2166,Davidson Wildcats,2019-03-15,69.69246733349895,included_game_day
+2019,2166,Davidson Wildcats,2019-03-16,44.25360103462876,included_game_day
+2019,2166,Davidson Wildcats,2019-03-19,34.88408925836039,included_game_day
+2020,2166,Davidson Wildcats,2019-11-08,-9.4,included_game_day
+2020,2166,Davidson Wildcats,2019-11-12,-18.66,included_game_day
+2020,2166,Davidson Wildcats,2019-11-16,16.808000000000003,included_game_day
+2020,2166,Davidson Wildcats,2019-11-19,31.316100000000002,included_game_day
+2020,2166,Davidson Wildcats,2019-11-22,17.497390000000003,included_game_day
+2020,2166,Davidson Wildcats,2019-11-28,7.437493500000002,included_game_day
+2020,2166,Davidson Wildcats,2019-11-29,15.626760550000002,included_game_day
+2020,2166,Davidson Wildcats,2019-12-01,6.428891635000001,included_game_day
+2020,2166,Davidson Wildcats,2019-12-07,19.193613030100003,included_game_day
+2020,2166,Davidson Wildcats,2019-12-10,49.60366010066001,included_game_day
+2020,2166,Davidson Wildcats,2019-12-22,55.104489713310016,included_game_day
+2020,2166,Davidson Wildcats,2019-12-30,50.5382386549883,included_game_day
+2020,2166,Davidson Wildcats,2020-01-05,47.49318641149452,included_game_day
+2020,2166,Davidson Wildcats,2020-01-08,37.419029841580645,included_game_day
+2020,2166,Davidson Wildcats,2020-01-11,27.34148614803972,included_game_day
+2020,2166,Davidson Wildcats,2020-01-14,19.599194324303337,included_game_day
+2020,2166,Davidson Wildcats,2020-01-19,29.249178276244173,included_game_day
+2020,2166,Davidson Wildcats,2020-01-22,41.61749121386117,included_game_day
+2020,2166,Davidson Wildcats,2020-01-25,49.16656383083209,included_game_day
+2020,2166,Davidson Wildcats,2020-01-29,45.184102016339814,included_game_day
+2020,2166,Davidson Wildcats,2020-02-01,70.14304704175174,included_game_day
+2020,2166,Davidson Wildcats,2020-02-07,64.95088827772891,included_game_day
+2020,2166,Davidson Wildcats,2020-02-11,81.9700893064119,included_game_day
+2020,2166,Davidson Wildcats,2020-02-14,111.42275472960134,included_game_day
+2020,2166,Davidson Wildcats,2020-02-18,93.62121470194515,included_game_day
+2020,2166,Davidson Wildcats,2020-02-22,92.53835225043612,included_game_day
+2020,2166,Davidson Wildcats,2020-02-25,103.75093692020238,included_game_day
+2020,2166,Davidson Wildcats,2020-02-28,94.14214784544097,included_game_day
+2020,2166,Davidson Wildcats,2020-03-03,80.62785309283426,included_game_day
+2020,2166,Davidson Wildcats,2020-03-06,83.93658789256996,included_game_day
+2021,2166,Davidson Wildcats,2020-11-25,6.0,included_game_day
+2021,2166,Davidson Wildcats,2020-11-30,6.7,included_game_day
+2021,2166,Davidson Wildcats,2020-12-01,6.62,included_game_day
+2021,2166,Davidson Wildcats,2020-12-02,5.1850000000000005,included_game_day
+2021,2166,Davidson Wildcats,2020-12-11,33.86225,included_game_day
+2021,2166,Davidson Wildcats,2020-12-15,16.284679000000004,included_game_day
+2021,2166,Davidson Wildcats,2020-12-18,28.877889800000005,included_game_day
+2021,2166,Davidson Wildcats,2020-12-22,44.31172400700001,included_game_day
+2021,2166,Davidson Wildcats,2020-12-30,33.23667639837001,included_game_day
+2021,2166,Davidson Wildcats,2021-01-05,47.814720426442605,included_game_day
+2021,2166,Davidson Wildcats,2021-01-08,29.555462827183668,included_game_day
+2021,2166,Davidson Wildcats,2021-01-12,30.97251012598633,included_game_day
+2021,2166,Davidson Wildcats,2021-01-16,52.31597889841699,included_game_day
+2021,2166,Davidson Wildcats,2021-01-20,51.930719804586,included_game_day
+2021,2166,Davidson Wildcats,2021-01-24,62.89445181780899,included_game_day
+2021,2166,Davidson Wildcats,2021-02-21,54.60205729844594,included_game_day
+2021,2166,Davidson Wildcats,2021-02-24,49.968141682955505,included_game_day
+2021,2166,Davidson Wildcats,2021-02-27,56.32942809355024,included_game_day
+2021,2166,Davidson Wildcats,2021-03-05,87.97949389300445,included_game_day
+2021,2166,Davidson Wildcats,2021-03-06,76.07296797609507,included_game_day
+2021,2166,Davidson Wildcats,2021-03-18,57.89095262796968,included_game_day
+2022,2166,Davidson Wildcats,2021-11-09,19.0,included_game_day
+2022,2166,Davidson Wildcats,2021-11-13,19.03,included_game_day
+2022,2166,Davidson Wildcats,2021-11-18,7.147,included_game_day
+2022,2166,Davidson Wildcats,2021-11-19,16.88449,included_game_day
+2022,2166,Davidson Wildcats,2021-11-21,27.296391,included_game_day
+2022,2166,Davidson Wildcats,2021-11-27,33.8527519,included_game_day
+2022,2166,Davidson Wildcats,2021-11-30,48.80974671,included_game_day
+2022,2166,Davidson Wildcats,2021-12-04,57.777713031999994,included_game_day
+2022,2166,Davidson Wildcats,2021-12-12,65.010332529615,included_game_day
+2022,2166,Davidson Wildcats,2021-12-18,71.30033630375887,included_game_day
+2022,2166,Davidson Wildcats,2021-12-21,73.31146674246169,included_game_day
+2022,2166,Davidson Wildcats,2022-01-05,88.17551292212643,included_game_day
+2022,2166,Davidson Wildcats,2022-01-08,86.86915211047584,included_game_day
+2022,2166,Davidson Wildcats,2022-01-11,84.65204176666889,included_game_day
+2022,2166,Davidson Wildcats,2022-01-14,84.4397131314189,included_game_day
+2022,2166,Davidson Wildcats,2022-01-18,86.69797039121079,included_game_day
+2022,2166,Davidson Wildcats,2022-01-22,83.54887911355408,included_game_day
+2022,2166,Davidson Wildcats,2022-01-26,76.46582881519136,included_game_day
+2022,2166,Davidson Wildcats,2022-01-29,70.80548353883016,included_game_day
+2022,2166,Davidson Wildcats,2022-02-01,74.53273084470668,included_game_day
+2022,2166,Davidson Wildcats,2022-02-05,72.26938681184777,included_game_day
+2022,2166,Davidson Wildcats,2022-02-09,67.84262732294843,included_game_day
+2022,2166,Davidson Wildcats,2022-02-12,58.363392463433044,included_game_day
+2022,2166,Davidson Wildcats,2022-02-14,54.39873243615122,included_game_day
+2022,2166,Davidson Wildcats,2022-02-19,77.18465754501963,included_game_day
+2022,2166,Davidson Wildcats,2022-02-23,87.80011342564443,included_game_day
+2022,2166,Davidson Wildcats,2022-02-26,96.45339182004568,included_game_day
+2022,2166,Davidson Wildcats,2022-03-02,97.68628497363788,included_game_day
+2022,2166,Davidson Wildcats,2022-03-05,95.75884972206421,included_game_day
+2022,2166,Davidson Wildcats,2022-03-11,103.63158096133654,included_game_day
+2022,2166,Davidson Wildcats,2022-03-12,117.4357760381694,included_game_day
+2022,2166,Davidson Wildcats,2022-03-13,111.30347696147265,included_game_day
+2022,2166,Davidson Wildcats,2022-03-18,106.04855264139256,included_game_day
+2023,2166,Davidson Wildcats,2022-11-09,8.0,included_game_day
+2023,2166,Davidson Wildcats,2022-11-13,6.4,included_game_day
+2023,2166,Davidson Wildcats,2022-11-17,-14.834000000000001,included_game_day
+2023,2166,Davidson Wildcats,2022-11-18,-7.298700000000001,included_game_day
+2023,2166,Davidson Wildcats,2022-11-20,-0.3524800000000008,included_game_day
+2023,2166,Davidson Wildcats,2022-11-25,8.881063999999999,included_game_day
+2023,2166,Davidson Wildcats,2022-11-29,6.730407949999999,included_game_day
+2023,2166,Davidson Wildcats,2022-12-03,5.744144651999999,included_game_day
+2023,2166,Davidson Wildcats,2022-12-07,5.383199806799999,included_game_day
+2023,2166,Davidson Wildcats,2022-12-17,7.1858232595171,included_game_day
+2023,2166,Davidson Wildcats,2022-12-21,-3.2153771494412986,included_game_day
+2023,2166,Davidson Wildcats,2022-12-28,17.10968384038612,included_game_day
+2023,2166,Davidson Wildcats,2022-12-31,5.407842606110085,included_game_day
+2023,2166,Davidson Wildcats,2023-01-04,23.263120628406952,included_game_day
+2023,2166,Davidson Wildcats,2023-01-07,9.36978226392395,included_game_day
+2023,2166,Davidson Wildcats,2023-01-11,4.94138279296625,included_game_day
+2023,2166,Davidson Wildcats,2023-01-14,9.547788769182151,included_game_day
+2023,2166,Davidson Wildcats,2023-01-17,14.436264698976498,included_game_day
+2023,2166,Davidson Wildcats,2023-01-24,17.598731153623547,included_game_day
+2023,2166,Davidson Wildcats,2023-01-27,13.718094579987538,included_game_day
+2023,2166,Davidson Wildcats,2023-01-31,15.483605422472678,included_game_day
+2023,2166,Davidson Wildcats,2023-02-04,31.139618293697133,included_game_day
+2023,2166,Davidson Wildcats,2023-02-11,26.10371588759262,included_game_day
+2023,2166,Davidson Wildcats,2023-02-15,15.929360065047572,included_game_day
+2023,2166,Davidson Wildcats,2023-02-18,13.425496118556396,included_game_day
+2023,2166,Davidson Wildcats,2023-02-22,21.35929178666079,included_game_day
+2023,2166,Davidson Wildcats,2023-02-26,33.113937455143194,included_game_day
+2023,2166,Davidson Wildcats,2023-03-01,19.322993700066995,included_game_day
+2023,2166,Davidson Wildcats,2023-03-04,29.634501084286928,included_game_day
+2023,2166,Davidson Wildcats,2023-03-08,36.26180063939847,included_game_day
+2023,2166,Davidson Wildcats,2023-03-09,25.19571296509247,included_game_day
+2024,2166,Davidson Wildcats,2023-11-10,4.2,included_game_day
+2024,2166,Davidson Wildcats,2023-11-12,2.5400000000000005,included_game_day
+2024,2166,Davidson Wildcats,2023-11-17,0.6320000000000006,included_game_day
+2024,2166,Davidson Wildcats,2023-11-21,19.793860000000002,included_game_day
+2024,2166,Davidson Wildcats,2023-11-24,-16.200536,included_game_day
+2024,2166,Davidson Wildcats,2023-11-29,-5.233758999999999,included_game_day
+2024,2166,Davidson Wildcats,2023-12-02,3.7754624900000007,included_game_day
+2024,2166,Davidson Wildcats,2023-12-06,8.16450187,included_game_day
+2024,2166,Davidson Wildcats,2023-12-09,20.013804072730004,included_game_day
+2024,2166,Davidson Wildcats,2023-12-21,12.631965897379803,included_game_day
+2024,2166,Davidson Wildcats,2023-12-30,14.039533221085776,included_game_day
+2024,2166,Davidson Wildcats,2024-01-03,4.888427358858426,included_game_day
+2024,2166,Davidson Wildcats,2024-01-09,-5.09862517910477,included_game_day
+2024,2166,Davidson Wildcats,2024-01-13,-4.346752586857391,included_game_day
+2024,2166,Davidson Wildcats,2024-01-17,10.640037612529902,included_game_day
+2024,2166,Davidson Wildcats,2024-01-20,7.541418150595346,included_game_day
+2024,2166,Davidson Wildcats,2024-01-24,30.152400753125058,included_game_day
+2024,2166,Davidson Wildcats,2024-01-27,24.87193146865898,included_game_day
+2024,2166,Davidson Wildcats,2024-02-04,16.780930295853388,included_game_day
+2024,2166,Davidson Wildcats,2024-02-07,34.50630715498192,included_game_day
+2024,2166,Davidson Wildcats,2024-02-10,29.81970333696423,included_game_day
+2024,2166,Davidson Wildcats,2024-02-13,34.37986540259354,included_game_day
+2024,2166,Davidson Wildcats,2024-02-17,40.846846065944916,included_game_day
+2024,2166,Davidson Wildcats,2024-02-20,46.44731796444013,included_game_day
+2024,2166,Davidson Wildcats,2024-02-24,48.66381068116595,included_game_day
+2024,2166,Davidson Wildcats,2024-02-27,43.380465126254954,included_game_day
+2024,2166,Davidson Wildcats,2024-03-02,40.89987538962808,included_game_day
+2024,2166,Davidson Wildcats,2024-03-06,31.44285572342212,included_game_day
+2024,2166,Davidson Wildcats,2024-03-09,16.219616601397952,included_game_day
+2024,2166,Davidson Wildcats,2024-03-12,4.2899957618046844,included_game_day
+2025,2166,Davidson Wildcats,2024-11-08,8.4,included_game_day
+2025,2166,Davidson Wildcats,2024-11-16,9.86,included_game_day
+2025,2166,Davidson Wildcats,2024-11-22,30.287822,included_game_day
+2025,2166,Davidson Wildcats,2024-11-27,-0.7107982000000028,included_game_day
+2025,2166,Davidson Wildcats,2024-11-28,15.485268819999998,included_game_day
+2025,2166,Davidson Wildcats,2024-11-29,0.6194945149999995,included_game_day
+2025,2166,Davidson Wildcats,2024-12-06,-6.600521372199999,included_game_day
+2025,2166,Davidson Wildcats,2024-12-10,-7.96282328298,included_game_day
+2025,2166,Davidson Wildcats,2024-12-14,22.220519041848,included_game_day
+2025,2166,Davidson Wildcats,2024-12-18,23.97073886407984,included_game_day
+2025,2166,Davidson Wildcats,2024-12-21,27.012144320423086,included_game_day
+2025,2166,Davidson Wildcats,2024-12-28,38.38582819202916,included_game_day
+2025,2166,Davidson Wildcats,2024-12-31,32.337415148480446,included_game_day
+2025,2166,Davidson Wildcats,2025-01-04,34.30086370959794,included_game_day
+2025,2166,Davidson Wildcats,2025-01-11,33.92242299162841,included_game_day
+2025,2166,Davidson Wildcats,2025-01-15,28.741015287153324,included_game_day
+2025,2166,Davidson Wildcats,2025-01-18,30.07284983991608,included_game_day
+2025,2166,Davidson Wildcats,2025-01-21,13.300386037906655,included_game_day
+2025,2166,Davidson Wildcats,2025-01-25,18.110923567728207,included_game_day
+2025,2166,Davidson Wildcats,2025-02-01,16.58795794151057,included_game_day
+2025,2166,Davidson Wildcats,2025-02-04,16.719328981902265,included_game_day
+2025,2166,Davidson Wildcats,2025-02-08,18.391701001728546,included_game_day
+2025,2166,Davidson Wildcats,2025-02-12,32.261888984275,included_game_day
+2025,2166,Davidson Wildcats,2025-02-15,22.64620478952645,included_game_day
+2025,2166,Davidson Wildcats,2025-02-18,12.264777685028843,included_game_day
+2025,2166,Davidson Wildcats,2025-02-22,22.391814424146826,included_game_day
+2025,2166,Davidson Wildcats,2025-02-25,19.650587287373828,included_game_day
+2025,2166,Davidson Wildcats,2025-02-28,13.092702547053719,included_game_day
+2025,2166,Davidson Wildcats,2025-03-05,7.7375501666289335,included_game_day
+2025,2166,Davidson Wildcats,2025-03-08,3.0327248135235116,included_game_day
+2025,2166,Davidson Wildcats,2025-03-12,2.9137171066882805,included_game_day
+2025,2166,Davidson Wildcats,2025-03-13,0.48776884067483817,included_game_day
+2026,2166,Davidson Wildcats,2025-11-07,12.5,included_game_day
+2026,2166,Davidson Wildcats,2025-11-11,22.53,included_game_day
+2026,2166,Davidson Wildcats,2025-11-15,26.138,included_game_day
+2026,2166,Davidson Wildcats,2025-11-21,36.372212700000006,included_game_day
+2026,2166,Davidson Wildcats,2025-11-23,3.4498374300000023,included_game_day
+2026,2166,Davidson Wildcats,2025-11-28,16.704313687000003,included_game_day
+2026,2166,Davidson Wildcats,2025-12-04,18.692179480900002,included_game_day
+2026,2166,Davidson Wildcats,2025-12-07,12.182829885510001,included_game_day
+2026,2166,Davidson Wildcats,2025-12-13,37.149078986759,included_game_day
+2026,2166,Davidson Wildcats,2025-12-18,25.5462176470447,included_game_day
+2026,2166,Davidson Wildcats,2025-12-22,8.741043845313563,included_game_day
+2026,2166,Davidson Wildcats,2025-12-30,2.630022580845674,included_game_day
+2026,2166,Davidson Wildcats,2026-01-03,8.627418465558065,included_game_day
+2026,2166,Davidson Wildcats,2026-01-07,21.644364210499553,included_game_day
+2026,2166,Davidson Wildcats,2026-01-10,-8.311915691809396,included_game_day
+2026,2166,Davidson Wildcats,2026-01-14,9.49979190068671,included_game_day
+2026,2166,Davidson Wildcats,2026-01-21,10.319733633035394,included_game_day
+2026,2166,Davidson Wildcats,2026-01-24,8.976050663704335,included_game_day
+2026,2166,Davidson Wildcats,2026-01-28,8.819992877287783,included_game_day
+2026,2166,Davidson Wildcats,2026-01-31,38.66500630411304,included_game_day
+2026,2166,Davidson Wildcats,2026-02-03,41.6953944784445,included_game_day
+2026,2166,Davidson Wildcats,2026-02-06,46.50423494594844,included_game_day
+2026,2166,Davidson Wildcats,2026-02-15,34.830206512757094,included_game_day
+2026,2166,Davidson Wildcats,2026-02-18,31.11631764966804,included_game_day
+2026,2166,Davidson Wildcats,2026-02-21,28.905157210641956,included_game_day
+2026,2166,Davidson Wildcats,2026-02-25,43.25854692089624,included_game_day
+2026,2166,Davidson Wildcats,2026-03-01,39.25967722560053,included_game_day
+2026,2166,Davidson Wildcats,2026-03-04,34.13360148773655,included_game_day
+2026,2166,Davidson Wildcats,2026-03-07,39.26707981620081,included_game_day
+2026,2166,Davidson Wildcats,2026-03-12,37.5232890950802,included_game_day
+2026,2166,Davidson Wildcats,2026-03-13,27.171286057537486,included_game_day
+2026,2166,Davidson Wildcats,2026-03-17,29.027183247578606,included_game_day
+2027,2166,Davidson Wildcats,2026-11-02,18.0,included_game_day
+2027,2166,Davidson Wildcats,2026-11-07,22.91,included_game_day
+2027,2166,Davidson Wildcats,2026-11-10,33.219,included_game_day
+2027,2166,Davidson Wildcats,2026-11-14,20.4308,included_game_day
+2027,2166,Davidson Wildcats,2026-11-17,8.430220000000002,included_game_day
+2027,2166,Davidson Wildcats,2026-11-23,35.426169200000004,included_game_day

@@ -1,0 +1,1191 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,45,G Washington,1987-11-28,15.0,included_game_day
+1988,45,G Washington,1987-11-30,6.5,included_game_day
+1988,45,G Washington,1987-12-05,13.76,included_game_day
+1988,45,G Washington,1987-12-08,13.894269999999999,included_game_day
+1988,45,G Washington,1987-12-12,18.3470341,included_game_day
+1988,45,G Washington,1987-12-21,1.1655318399999999,included_game_day
+1988,45,G Washington,1987-12-23,28.437392471,included_game_day
+1988,45,G Washington,1988-01-02,7.779641769071109,included_game_day
+1988,45,G Washington,1988-01-06,3.1438531584854976,included_game_day
+1988,45,G Washington,1988-01-09,-1.47856378523056,included_game_day
+1988,45,G Washington,1988-01-16,-12.481159644613118,included_game_day
+1988,45,G Washington,1988-01-18,-37.708437242906456,included_game_day
+1988,45,G Washington,1988-01-21,-40.49136738366428,included_game_day
+1988,45,G Washington,1988-01-24,-41.87636642220886,included_game_day
+1988,45,G Washington,1988-01-28,-34.78443498066616,included_game_day
+1988,45,G Washington,1988-01-30,-23.927935636121248,included_game_day
+1988,45,G Washington,1988-02-04,-35.8965049259355,included_game_day
+1988,45,G Washington,1988-02-06,-21.118335306197107,included_game_day
+1988,45,G Washington,1988-02-11,-11.053941917742923,included_game_day
+1988,45,G Washington,1988-02-14,-15.147824734679398,included_game_day
+1988,45,G Washington,1988-02-18,-5.222344718469984,included_game_day
+1988,45,G Washington,1988-02-20,-18.962912031591298,included_game_day
+1988,45,G Washington,1988-02-25,-0.09153597269411762,included_game_day
+1988,45,G Washington,1988-02-27,1.044130790516351,included_game_day
+1988,45,G Washington,1988-03-02,7.775527581854795,included_game_day
+1988,45,G Washington,1988-03-05,-8.99225192960229,included_game_day
+1989,45,G Washington,1988-11-26,-12.0,included_game_day
+1989,45,G Washington,1988-11-28,-20.7,included_game_day
+1989,45,G Washington,1988-12-03,-46.14,included_game_day
+1989,45,G Washington,1988-12-07,-58.525999999999996,included_game_day
+1989,45,G Washington,1988-12-10,-71.33215,included_game_day
+1989,45,G Washington,1988-12-19,-78.65811993,included_game_day
+1989,45,G Washington,1988-12-28,-84.2337260583,included_game_day
+1989,45,G Washington,1988-12-29,-92.12745366703999,included_game_day
+1989,45,G Washington,1989-01-03,-107.62456028735421,included_game_day
+1989,45,G Washington,1989-01-07,-104.65850688251155,included_game_day
+1989,45,G Washington,1989-01-09,-114.97757940835568,included_game_day
+1989,45,G Washington,1989-01-12,-124.22262145719931,included_game_day
+1989,45,G Washington,1989-01-15,-123.60380826339008,included_game_day
+1989,45,G Washington,1989-01-17,-104.36960411019948,included_game_day
+1989,45,G Washington,1989-01-21,-74.98334746540283,included_game_day
+1989,45,G Washington,1989-01-23,-87.71786747898825,included_game_day
+1989,45,G Washington,1989-01-26,-101.626635289449,included_game_day
+1989,45,G Washington,1989-01-29,-100.01757072075229,included_game_day
+1989,45,G Washington,1989-02-04,-106.99784843107075,included_game_day
+1989,45,G Washington,1989-02-06,-106.59812962078836,included_game_day
+1989,45,G Washington,1989-02-09,-115.82676779024703,included_game_day
+1989,45,G Washington,1989-02-11,-120.20935460526778,included_game_day
+1989,45,G Washington,1989-02-16,-131.59643489847738,included_game_day
+1989,45,G Washington,1989-02-18,-129.4759453372193,included_game_day
+1989,45,G Washington,1989-02-23,-116.29825290417048,included_game_day
+1989,45,G Washington,1989-02-25,-133.70461530133323,included_game_day
+1989,45,G Washington,1989-03-01,-129.7403338650803,included_game_day
+1989,45,G Washington,1989-03-04,-129.56890871607794,included_game_day
+1990,45,G Washington,1989-11-25,10.0,included_game_day
+1990,45,G Washington,1989-11-27,26.0,included_game_day
+1990,45,G Washington,1989-12-02,32.595,included_game_day
+1990,45,G Washington,1989-12-04,30.823099999999997,included_game_day
+1990,45,G Washington,1989-12-08,5.871789999999997,included_game_day
+1990,45,G Washington,1989-12-09,11.200757799999998,included_game_day
+1990,45,G Washington,1989-12-16,11.257459859999997,included_game_day
+1990,45,G Washington,1989-12-19,7.744697120860998,included_game_day
+1990,45,G Washington,1989-12-30,18.3271878264347,included_game_day
+1990,45,G Washington,1990-01-06,19.971636154663962,included_game_day
+1990,45,G Washington,1990-01-09,16.222136975871834,included_game_day
+1990,45,G Washington,1990-01-11,2.673640715197614,included_game_day
+1990,45,G Washington,1990-01-14,-13.857647965310392,included_game_day
+1990,45,G Washington,1990-01-18,-24.785956652933038,included_game_day
+1990,45,G Washington,1990-01-20,-20.606574970017228,included_game_day
+1990,45,G Washington,1990-01-22,-36.06129804097256,included_game_day
+1990,45,G Washington,1990-01-25,-32.82252412550332,included_game_day
+1990,45,G Washington,1990-01-27,-30.99542268178875,included_game_day
+1990,45,G Washington,1990-02-01,-49.02709312498855,included_game_day
+1990,45,G Washington,1990-02-03,-52.6082305850518,included_game_day
+1990,45,G Washington,1990-02-05,-45.13006616474694,included_game_day
+1990,45,G Washington,1990-02-08,-31.81811577041691,included_game_day
+1990,45,G Washington,1990-02-10,-53.910139242554266,included_game_day
+1990,45,G Washington,1990-02-15,-43.728911543635924,included_game_day
+1990,45,G Washington,1990-02-17,-45.240969089017284,included_game_day
+1990,45,G Washington,1990-02-19,-31.242437862358386,included_game_day
+1990,45,G Washington,1990-02-24,-30.59869355692488,included_game_day
+1990,45,G Washington,1990-02-28,-32.040186653174956,included_game_day
+1990,45,G Washington,1990-03-03,-31.075597311197544,included_game_day
+1990,45,G Washington,1990-03-04,-33.926314801027395,included_game_day
+1991,45,G Washington,1990-11-24,-6.0,included_game_day
+1991,45,G Washington,1990-11-26,1.5999999999999996,included_game_day
+1991,45,G Washington,1990-11-30,19.11,included_game_day
+1991,45,G Washington,1990-12-01,15.959,included_game_day
+1991,45,G Washington,1990-12-04,29.242179999999998,included_game_day
+1991,45,G Washington,1990-12-08,20.032991999999997,included_game_day
+1991,45,G Washington,1990-12-10,56.9718994,included_game_day
+1991,45,G Washington,1990-12-22,66.20729868,included_game_day
+1991,45,G Washington,1990-12-27,64.9103740618,included_game_day
+1991,45,G Washington,1991-01-03,53.8104942545842,included_game_day
+1991,45,G Washington,1991-01-05,44.01216884798105,included_game_day
+1991,45,G Washington,1991-01-10,32.31620122378142,included_game_day
+1991,45,G Washington,1991-01-14,40.98832482691309,included_game_day
+1991,45,G Washington,1991-01-17,26.784293705435942,included_game_day
+1991,45,G Washington,1991-01-21,34.43669428894918,included_game_day
+1991,45,G Washington,1991-01-24,37.848031402166264,included_game_day
+1991,45,G Washington,1991-01-26,37.315619346731424,included_game_day
+1991,45,G Washington,1991-01-29,49.04875446292505,included_game_day
+1991,45,G Washington,1991-01-31,73.72268556013918,included_game_day
+1991,45,G Washington,1991-02-03,82.5195207122337,included_game_day
+1991,45,G Washington,1991-02-07,65.0876280035555,included_game_day
+1991,45,G Washington,1991-02-09,66.653248645395,included_game_day
+1991,45,G Washington,1991-02-12,63.56066948305487,included_game_day
+1991,45,G Washington,1991-02-16,54.52659257845513,included_game_day
+1991,45,G Washington,1991-02-19,52.50704865567649,included_game_day
+1991,45,G Washington,1991-02-23,56.773575122714576,included_game_day
+1991,45,G Washington,1991-02-27,49.48639790110318,included_game_day
+1991,45,G Washington,1991-03-03,50.2815754439621,included_game_day
+1991,45,G Washington,1991-03-04,52.10279954478278,included_game_day
+1991,45,G Washington,1991-03-07,49.201642618132915,included_game_day
+1991,45,G Washington,1991-03-13,40.9970723733231,included_game_day
+1992,45,G Washington,1991-11-30,12.312,included_game_day
+1992,45,G Washington,1991-12-03,16.1508,included_game_day
+1992,45,G Washington,1991-12-07,24.0500903,included_game_day
+1992,45,G Washington,1991-12-10,20.028926470000002,included_game_day
+1992,45,G Washington,1991-12-14,34.134398434000005,included_game_day
+1992,45,G Washington,1991-12-20,23.033058590600003,included_game_day
+1992,45,G Washington,1991-12-21,23.608714022330005,included_game_day
+1992,45,G Washington,1991-12-27,38.921007922642005,included_game_day
+1992,45,G Washington,1991-12-28,48.34161918369347,included_game_day
+1992,45,G Washington,1992-01-05,56.74039854834631,included_game_day
+1992,45,G Washington,1992-01-10,58.769904963948136,included_game_day
+1992,45,G Washington,1992-01-13,43.729138244986345,included_game_day
+1992,45,G Washington,1992-01-15,43.72930358920412,included_game_day
+1992,45,G Washington,1992-01-18,45.802512923911166,included_game_day
+1992,45,G Washington,1992-01-20,37.37756727422687,included_game_day
+1992,45,G Washington,1992-01-25,20.0838914195882,included_game_day
+1992,45,G Washington,1992-01-30,27.208959762716688,included_game_day
+1992,45,G Washington,1992-02-01,19.75862894925663,included_game_day
+1992,45,G Washington,1992-02-03,8.690975624057845,included_game_day
+1992,45,G Washington,1992-02-08,-11.658475431029885,included_game_day
+1992,45,G Washington,1992-02-12,-2.303092505332172,included_game_day
+1992,45,G Washington,1992-02-17,7.999064555854575,included_game_day
+1992,45,G Washington,1992-02-20,2.507459624267515,included_game_day
+1992,45,G Washington,1992-02-23,13.657090183537974,included_game_day
+1992,45,G Washington,1992-02-27,18.51772406951791,included_game_day
+1992,45,G Washington,1992-02-29,0.5078592171970442,included_game_day
+1992,45,G Washington,1992-03-04,-11.607190135927125,included_game_day
+1992,45,G Washington,1992-03-08,-10.696169905970558,included_game_day
+1993,45,G Washington,1992-12-01,25.0,included_game_day
+1993,45,G Washington,1992-12-04,43.5,included_game_day
+1993,45,G Washington,1992-12-05,57.84,included_game_day
+1993,45,G Washington,1992-12-08,67.2444,included_game_day
+1993,45,G Washington,1992-12-11,69.90796,included_game_day
+1993,45,G Washington,1992-12-12,79.59245,included_game_day
+1993,45,G Washington,1992-12-21,86.394644448,included_game_day
+1993,45,G Washington,1992-12-23,81.71604254949999,included_game_day
+1993,45,G Washington,1992-12-30,105.01315482174999,included_game_day
+1993,45,G Washington,1993-01-02,100.07075196375182,included_game_day
+1993,45,G Washington,1993-01-06,113.79439790385241,included_game_day
+1993,45,G Washington,1993-01-08,94.71453524472912,included_game_day
+1993,45,G Washington,1993-01-12,82.63594693465167,included_game_day
+1993,45,G Washington,1993-01-16,77.62011186933809,included_game_day
+1993,45,G Washington,1993-01-23,86.20626443969947,included_game_day
+1993,45,G Washington,1993-01-30,100.58382292652543,included_game_day
+1993,45,G Washington,1993-02-02,102.65999426530867,included_game_day
+1993,45,G Washington,1993-02-06,94.9481562677913,included_game_day
+1993,45,G Washington,1993-02-10,92.04684110105443,included_game_day
+1993,45,G Washington,1993-02-13,89.19213599245498,included_game_day
+1993,45,G Washington,1993-02-15,83.84724574133894,included_game_day
+1993,45,G Washington,1993-02-18,96.69718358197119,included_game_day
+1993,45,G Washington,1993-02-21,93.35902635770533,included_game_day
+1993,45,G Washington,1993-02-25,91.18288255509032,included_game_day
+1993,45,G Washington,1993-02-28,86.627026400039,included_game_day
+1993,45,G Washington,1993-03-04,85.59770156699213,included_game_day
+1993,45,G Washington,1993-03-07,73.77424170055463,included_game_day
+1993,45,G Washington,1993-03-19,90.28886994536147,included_game_day
+1993,45,G Washington,1993-03-21,103.36288139829243,included_game_day
+1993,45,G Washington,1993-03-26,101.88427174678225,included_game_day
+1994,45,G Washington,1993-11-29,38.0,included_game_day
+1994,45,G Washington,1993-12-03,13.17237,included_game_day
+1994,45,G Washington,1993-12-04,16.745133,included_game_day
+1994,45,G Washington,1993-12-10,26.5804197,included_game_day
+1994,45,G Washington,1993-12-11,41.80073473,included_game_day
+1994,45,G Washington,1993-12-18,45.667831220000004,included_game_day
+1994,45,G Washington,1993-12-27,59.3344084677,included_game_day
+1994,45,G Washington,1993-12-28,54.129801136353976,included_game_day
+1994,45,G Washington,1994-01-03,45.30894386151407,included_game_day
+1994,45,G Washington,1994-01-06,57.12656772428307,included_game_day
+1994,45,G Washington,1994-01-08,43.531709195753066,included_game_day
+1994,45,G Washington,1994-01-12,53.932576176544245,included_game_day
+1994,45,G Washington,1994-01-16,48.8917375163954,included_game_day
+1994,45,G Washington,1994-01-19,41.916531275370204,included_game_day
+1994,45,G Washington,1994-01-22,54.20937000526264,included_game_day
+1994,45,G Washington,1994-01-29,47.25673195592279,included_game_day
+1994,45,G Washington,1994-02-01,61.14946145161777,included_game_day
+1994,45,G Washington,1994-02-03,45.628699877057485,included_game_day
+1994,45,G Washington,1994-02-05,53.758791618164636,included_game_day
+1994,45,G Washington,1994-02-12,60.10897800605088,included_game_day
+1994,45,G Washington,1994-02-15,58.058130075635084,included_game_day
+1994,45,G Washington,1994-02-18,59.82814027264966,included_game_day
+1994,45,G Washington,1994-02-21,59.84891844893982,included_game_day
+1994,45,G Washington,1994-02-24,58.68857053852962,included_game_day
+1994,45,G Washington,1994-02-27,74.07316295783444,included_game_day
+1994,45,G Washington,1994-03-02,63.91722907281306,included_game_day
+1994,45,G Washington,1994-03-06,67.79248196479595,included_game_day
+1994,45,G Washington,1994-03-07,56.57666696367619,included_game_day
+1994,45,G Washington,1994-03-17,70.22756956882546,included_game_day
+1994,45,G Washington,1994-03-19,68.9557355477034,included_game_day
+1995,45,G Washington,1994-11-16,10.0,included_game_day
+1995,45,G Washington,1994-11-17,9.6,included_game_day
+1995,45,G Washington,1994-11-18,5.3,included_game_day
+1995,45,G Washington,1994-11-19,14.754000000000001,included_game_day
+1995,45,G Washington,1994-12-02,32.2786,included_game_day
+1995,45,G Washington,1994-12-03,39.389739999999996,included_game_day
+1995,45,G Washington,1994-12-06,13.781265999999995,included_game_day
+1995,45,G Washington,1994-12-11,11.160553399999996,included_game_day
+1995,45,G Washington,1994-12-27,9.239323199999998,included_game_day
+1995,45,G Washington,1994-12-28,14.769988872769998,included_game_day
+1995,45,G Washington,1995-01-03,20.443996192949697,included_game_day
+1995,45,G Washington,1995-01-05,21.785660665734106,included_game_day
+1995,45,G Washington,1995-01-07,8.708477245686316,included_game_day
+1995,45,G Washington,1995-01-10,7.745030884045204,included_game_day
+1995,45,G Washington,1995-01-12,-0.30032843656435926,included_game_day
+1995,45,G Washington,1995-01-14,-9.44298623780336,included_game_day
+1995,45,G Washington,1995-01-19,6.408919177499511,included_game_day
+1995,45,G Washington,1995-01-22,11.700281693015857,included_game_day
+1995,45,G Washington,1995-01-24,20.931716138187454,included_game_day
+1995,45,G Washington,1995-01-26,31.575139622866402,included_game_day
+1995,45,G Washington,1995-01-30,29.49095500265584,included_game_day
+1995,45,G Washington,1995-02-04,43.50309804538446,included_game_day
+1995,45,G Washington,1995-02-07,32.09352291995128,included_game_day
+1995,45,G Washington,1995-02-11,35.44180696331717,included_game_day
+1995,45,G Washington,1995-02-14,53.775975794134624,included_game_day
+1995,45,G Washington,1995-02-18,42.24722873167528,included_game_day
+1995,45,G Washington,1995-02-20,50.439546178037084,included_game_day
+1995,45,G Washington,1995-02-24,52.2541318412963,included_game_day
+1995,45,G Washington,1995-02-26,37.407920154707575,included_game_day
+1995,45,G Washington,1995-02-28,37.2063232026637,included_game_day
+1995,45,G Washington,1995-03-04,30.292436532607333,included_game_day
+1995,45,G Washington,1995-03-17,26.203484798243302,included_game_day
+1996,45,G Washington,1995-11-24,9.0,included_game_day
+1996,45,G Washington,1995-11-25,13.1,included_game_day
+1996,45,G Washington,1995-12-02,2.9800000000000004,included_game_day
+1996,45,G Washington,1995-12-03,-15.477999999999998,included_game_day
+1996,45,G Washington,1995-12-05,-2.678499999999998,included_game_day
+1996,45,G Washington,1995-12-09,1.8125510000000027,included_game_day
+1996,45,G Washington,1995-12-27,13.958354355008703,included_game_day
+1996,45,G Washington,1995-12-28,13.788065352856833,included_game_day
+1996,45,G Washington,1996-01-06,44.9455677531531,included_game_day
+1996,45,G Washington,1996-01-09,46.609530887513436,included_game_day
+1996,45,G Washington,1996-01-13,38.59651621511116,included_game_day
+1996,45,G Washington,1996-01-15,39.21154458179679,included_game_day
+1996,45,G Washington,1996-01-21,54.96155664014323,included_game_day
+1996,45,G Washington,1996-01-25,71.86487593515429,included_game_day
+1996,45,G Washington,1996-02-01,81.36340199539862,included_game_day
+1996,45,G Washington,1996-02-03,92.91618090621554,included_game_day
+1996,45,G Washington,1996-02-05,91.76059042958151,included_game_day
+1996,45,G Washington,1996-02-07,90.79249326242356,included_game_day
+1996,45,G Washington,1996-02-10,85.1842885791295,included_game_day
+1996,45,G Washington,1996-02-13,86.83520318846472,included_game_day
+1996,45,G Washington,1996-02-18,71.9943206535609,included_game_day
+1996,45,G Washington,1996-02-21,73.66970314169915,included_game_day
+1996,45,G Washington,1996-02-24,96.33725714794267,included_game_day
+1996,45,G Washington,1996-02-26,96.25533488749358,included_game_day
+1996,45,G Washington,1996-02-29,93.11375737339381,included_game_day
+1996,45,G Washington,1996-03-02,87.42590557621621,included_game_day
+1996,45,G Washington,1996-03-07,96.75984222213638,included_game_day
+1996,45,G Washington,1996-03-08,91.70022538366683,included_game_day
+1996,45,G Washington,1996-03-15,95.15047807570404,included_game_day
+1997,45,G Washington,1996-11-22,27.0,included_game_day
+1997,45,G Washington,1996-11-23,29.4,included_game_day
+1997,45,G Washington,1996-11-26,35.56,included_game_day
+1997,45,G Washington,1996-11-30,22.264000000000003,included_game_day
+1997,45,G Washington,1996-12-02,42.1826,included_game_day
+1997,45,G Washington,1996-12-08,58.093090000000004,included_game_day
+1997,45,G Washington,1996-12-09,60.551855100000004,included_game_day
+1997,45,G Washington,1996-12-11,37.25411179,included_game_day
+1997,45,G Washington,1996-12-30,32.8331243672306,included_game_day
+1997,45,G Washington,1997-01-04,44.89436392750612,included_game_day
+1997,45,G Washington,1997-01-06,36.470715001790424,included_game_day
+1997,45,G Washington,1997-01-11,47.98261969552255,included_game_day
+1997,45,G Washington,1997-01-15,40.94022411717884,included_game_day
+1997,45,G Washington,1997-01-18,62.21057001880402,included_game_day
+1997,45,G Washington,1997-01-23,62.8089229915499,included_game_day
+1997,45,G Washington,1997-01-25,56.04605548670803,included_game_day
+1997,45,G Washington,1997-01-30,48.457940793836684,included_game_day
+1997,45,G Washington,1997-02-01,47.744925827431466,included_game_day
+1997,45,G Washington,1997-02-04,47.173962404938635,included_game_day
+1997,45,G Washington,1997-02-11,43.32439418728077,included_game_day
+1997,45,G Washington,1997-02-15,41.62975950646298,included_game_day
+1997,45,G Washington,1997-02-17,69.69323731770035,included_game_day
+1997,45,G Washington,1997-02-20,79.8664963498347,included_game_day
+1997,45,G Washington,1997-02-22,72.50127412143463,included_game_day
+1997,45,G Washington,1997-02-26,68.78383560584004,included_game_day
+1997,45,G Washington,1997-03-01,75.32036273578159,included_game_day
+1997,45,G Washington,1997-03-06,86.397886138322,included_game_day
+1997,45,G Washington,1997-03-07,84.29707884693758,included_game_day
+1997,45,G Washington,1997-03-12,70.31069815123075,included_game_day
+1998,45,G Washington,1997-11-14,34.0,included_game_day
+1998,45,G Washington,1997-11-15,33.0,included_game_day
+1998,45,G Washington,1997-11-19,53.7,included_game_day
+1998,45,G Washington,1997-11-24,36.93000000000001,included_game_day
+1998,45,G Washington,1997-11-25,46.401500000000006,included_game_day
+1998,45,G Washington,1997-11-26,57.515350000000005,included_game_day
+1998,45,G Washington,1997-12-03,27.304245000000005,included_game_day
+1998,45,G Washington,1997-12-07,26.534135915000004,included_game_day
+1998,45,G Washington,1997-12-08,34.1185418235,included_game_day
+1998,45,G Washington,1997-12-13,33.83784304115,included_game_day
+1998,45,G Washington,1997-12-20,40.434514065745,included_game_day
+1998,45,G Washington,1997-12-27,61.2456783389705,included_game_day
+1998,45,G Washington,1997-12-28,66.21371761505436,included_game_day
+1998,45,G Washington,1998-01-03,63.98917915598821,included_game_day
+1998,45,G Washington,1998-01-07,74.37794842228678,included_game_day
+1998,45,G Washington,1998-01-10,44.391707942933806,included_game_day
+1998,45,G Washington,1998-01-14,57.827607185476985,included_game_day
+1998,45,G Washington,1998-01-18,79.45698962655686,included_game_day
+1998,45,G Washington,1998-01-22,75.27168938216835,included_game_day
+1998,45,G Washington,1998-01-24,80.37062816647656,included_game_day
+1998,45,G Washington,1998-01-31,82.68640557844334,included_game_day
+1998,45,G Washington,1998-02-05,90.5425213994273,included_game_day
+1998,45,G Washington,1998-02-07,89.6612900930998,included_game_day
+1998,45,G Washington,1998-02-10,76.14053779316471,included_game_day
+1998,45,G Washington,1998-02-14,63.032715328988715,included_game_day
+1998,45,G Washington,1998-02-16,62.75866690428232,included_game_day
+1998,45,G Washington,1998-02-22,55.98226079877276,included_game_day
+1998,45,G Washington,1998-02-25,67.71348087602847,included_game_day
+1998,45,G Washington,1998-02-28,63.00872651172002,included_game_day
+1998,45,G Washington,1998-03-05,69.45668034823746,included_game_day
+1998,45,G Washington,1998-03-06,89.98792805583574,included_game_day
+1998,45,G Washington,1998-03-07,82.62186468950625,included_game_day
+1998,45,G Washington,1998-03-13,69.33320956890711,included_game_day
+1999,45,G Washington,1998-11-13,9.0,included_game_day
+1999,45,G Washington,1998-11-17,18.259999999999998,included_game_day
+1999,45,G Washington,1998-11-29,12.618799999999998,included_game_day
+1999,45,G Washington,1998-12-02,35.9617751,included_game_day
+1999,45,G Washington,1998-12-06,25.90833939,included_game_day
+1999,45,G Washington,1998-12-07,12.302195193,included_game_day
+1999,45,G Washington,1998-12-12,17.87442644445,included_game_day
+1999,45,G Washington,1998-12-23,16.901942578261597,included_game_day
+1999,45,G Washington,1998-12-26,36.486514896794716,included_game_day
+1999,45,G Washington,1998-12-30,48.733229812924954,included_game_day
+1999,45,G Washington,1999-01-02,68.6046533669424,included_game_day
+1999,45,G Washington,1999-01-09,72.74717700755018,included_game_day
+1999,45,G Washington,1999-01-14,78.6060379303128,included_game_day
+1999,45,G Washington,1999-01-17,62.57334496289346,included_game_day
+1999,45,G Washington,1999-01-21,70.85403896340472,included_game_day
+1999,45,G Washington,1999-01-23,79.28442045228613,included_game_day
+1999,45,G Washington,1999-01-28,112.41400383070396,included_game_day
+1999,45,G Washington,1999-01-31,111.28016854794537,included_game_day
+1999,45,G Washington,1999-02-03,103.36319993181353,included_game_day
+1999,45,G Washington,1999-02-06,93.0430167256387,included_game_day
+1999,45,G Washington,1999-02-12,105.14151796077856,included_game_day
+1999,45,G Washington,1999-02-14,101.02728361524301,included_game_day
+1999,45,G Washington,1999-02-17,96.58322342842351,included_game_day
+1999,45,G Washington,1999-02-20,85.64314196125278,included_game_day
+1999,45,G Washington,1999-02-24,82.792591650179,included_game_day
+1999,45,G Washington,1999-02-27,84.54515027642377,included_game_day
+1999,45,G Washington,1999-03-04,85.0022029870916,included_game_day
+1999,45,G Washington,1999-03-05,67.68413565425654,included_game_day
+1999,45,G Washington,1999-03-11,48.53758670455876,included_game_day
+2000,45,G Washington,1999-11-18,-1.0,included_game_day
+2000,45,G Washington,1999-11-19,5.1,included_game_day
+2000,45,G Washington,1999-11-20,-12.910000000000002,included_game_day
+2000,45,G Washington,1999-11-26,-2.6190000000000015,included_game_day
+2000,45,G Washington,1999-11-30,-16.5374,included_game_day
+2000,45,G Washington,1999-12-04,-2.0610600000000012,included_game_day
+2000,45,G Washington,1999-12-05,9.504563099999999,included_game_day
+2000,45,G Washington,1999-12-08,2.3706477899999987,included_game_day
+2000,45,G Washington,1999-12-11,-0.754340145700001,included_game_day
+2000,45,G Washington,1999-12-22,20.2622947310341,included_game_day
+2000,45,G Washington,1999-12-31,14.570676215589906,included_game_day
+2000,45,G Washington,2000-01-03,5.9939310251295925,included_game_day
+2000,45,G Washington,2000-01-08,-2.738329407241123,included_game_day
+2000,45,G Washington,2000-01-12,1.8191352433966808,included_game_day
+2000,45,G Washington,2000-01-15,-3.862693513227897,included_game_day
+2000,45,G Washington,2000-01-19,-9.305085277887324,included_game_day
+2000,45,G Washington,2000-01-22,-6.9022719183785295,included_game_day
+2000,45,G Washington,2000-01-26,-0.9102621349328963,included_game_day
+2000,45,G Washington,2000-01-29,20.680432964672125,included_game_day
+2000,45,G Washington,2000-02-02,24.864429771981527,included_game_day
+2000,45,G Washington,2000-02-05,33.503362213252416,included_game_day
+2000,45,G Washington,2000-02-09,38.17448061748203,included_game_day
+2000,45,G Washington,2000-02-12,24.873629914804106,included_game_day
+2000,45,G Washington,2000-02-17,23.686343546514255,included_game_day
+2000,45,G Washington,2000-02-19,24.53902472359725,included_game_day
+2000,45,G Washington,2000-02-22,17.250986475189617,included_game_day
+2000,45,G Washington,2000-02-26,23.381527455534144,included_game_day
+2000,45,G Washington,2000-02-29,31.622112257835163,included_game_day
+2000,45,G Washington,2000-03-04,11.284377171107838,included_game_day
+2000,45,G Washington,2000-03-09,-2.1899077871153114,included_game_day
+2001,45,G Washington,2000-11-18,17.0,included_game_day
+2001,45,G Washington,2000-11-20,14.3,included_game_day
+2001,45,G Washington,2000-11-24,45.58,included_game_day
+2001,45,G Washington,2000-11-25,56.168,included_game_day
+2001,45,G Washington,2000-11-28,40.6402,included_game_day
+2001,45,G Washington,2000-12-02,48.08448,included_game_day
+2001,45,G Washington,2000-12-03,39.034924000000004,included_game_day
+2001,45,G Washington,2000-12-09,35.065786040000006,included_game_day
+2001,45,G Washington,2000-12-11,18.702624958100007,included_game_day
+2001,45,G Washington,2000-12-28,15.475300235049206,included_game_day
+2001,45,G Washington,2000-12-29,6.923566377670918,included_game_day
+2001,45,G Washington,2000-12-30,9.732534569547743,included_game_day
+2001,45,G Washington,2001-01-03,8.81283912437404,included_game_day
+2001,45,G Washington,2001-01-06,-7.4018511106571125,included_game_day
+2001,45,G Washington,2001-01-10,-7.267874977750854,included_game_day
+2001,45,G Washington,2001-01-13,11.720116013397398,included_game_day
+2001,45,G Washington,2001-01-16,11.20723548642349,included_game_day
+2001,45,G Washington,2001-01-20,9.477996194048458,included_game_day
+2001,45,G Washington,2001-01-23,10.392201881531705,included_game_day
+2001,45,G Washington,2001-01-27,20.277955915369375,included_game_day
+2001,45,G Washington,2001-02-03,23.018675655658214,included_game_day
+2001,45,G Washington,2001-02-08,-0.9189950665835092,included_game_day
+2001,45,G Washington,2001-02-11,13.936102016475296,included_game_day
+2001,45,G Washington,2001-02-14,34.22415462158594,included_game_day
+2001,45,G Washington,2001-02-17,35.6986399117801,included_game_day
+2001,45,G Washington,2001-02-21,41.63559718689452,included_game_day
+2001,45,G Washington,2001-02-24,29.902977900006633,included_game_day
+2001,45,G Washington,2001-02-28,26.319266249902814,included_game_day
+2001,45,G Washington,2001-03-03,27.337099345592343,included_game_day
+2001,45,G Washington,2001-03-07,39.20274861597935,included_game_day
+2001,45,G Washington,2001-03-08,53.967478870220994,included_game_day
+2001,45,G Washington,2001-03-09,61.728001535136585,included_game_day
+2002,45,George Washington Revolutionaries,2001-11-15,2.0,included_game_day
+2002,45,George Washington Revolutionaries,2001-11-19,-19.2,included_game_day
+2002,45,George Washington Revolutionaries,2001-11-23,-7.411,included_game_day
+2002,45,George Washington Revolutionaries,2001-11-24,5.930100000000001,included_game_day
+2002,45,George Washington Revolutionaries,2001-11-28,2.983790000000001,included_game_day
+2002,45,George Washington Revolutionaries,2001-12-02,-2.602104999999998,included_game_day
+2002,45,George Washington Revolutionaries,2001-12-03,-2.1344195999999984,included_game_day
+2002,45,George Washington Revolutionaries,2001-12-05,5.480653360000002,included_game_day
+2002,45,George Washington Revolutionaries,2001-12-08,14.248685484000001,included_game_day
+2002,45,George Washington Revolutionaries,2001-12-29,3.415474114204102,included_game_day
+2002,45,George Washington Revolutionaries,2002-01-03,11.020225439630938,included_game_day
+2002,45,George Washington Revolutionaries,2002-01-06,30.778761178815074,included_game_day
+2002,45,George Washington Revolutionaries,2002-01-09,13.574512819967715,included_game_day
+2002,45,George Washington Revolutionaries,2002-01-13,11.89999582700685,included_game_day
+2002,45,George Washington Revolutionaries,2002-01-17,8.68082938583228,included_game_day
+2002,45,George Washington Revolutionaries,2002-01-19,0.7825562475783823,included_game_day
+2002,45,George Washington Revolutionaries,2002-01-23,-9.769449285632522,included_game_day
+2002,45,George Washington Revolutionaries,2002-01-26,-32.88278684760759,included_game_day
+2002,45,George Washington Revolutionaries,2002-01-30,-33.774701402762105,included_game_day
+2002,45,George Washington Revolutionaries,2002-02-02,-40.75457040561202,included_game_day
+2002,45,George Washington Revolutionaries,2002-02-09,-57.0645528131314,included_game_day
+2002,45,George Washington Revolutionaries,2002-02-14,-52.86001423838588,included_game_day
+2002,45,George Washington Revolutionaries,2002-02-16,-56.89124787321683,included_game_day
+2002,45,George Washington Revolutionaries,2002-02-21,-75.7013647142712,included_game_day
+2002,45,George Washington Revolutionaries,2002-02-23,-64.87415593320335,included_game_day
+2002,45,George Washington Revolutionaries,2002-03-02,-59.36314826995882,included_game_day
+2002,45,George Washington Revolutionaries,2002-03-06,-62.36150957936368,included_game_day
+2003,45,George Washington Revolutionaries,2002-11-25,-7.4,included_game_day
+2003,45,George Washington Revolutionaries,2002-11-29,2.24,included_game_day
+2003,45,George Washington Revolutionaries,2002-11-30,1.84273,included_game_day
+2003,45,George Washington Revolutionaries,2002-12-03,20.144357,included_game_day
+2003,45,George Washington Revolutionaries,2002-12-07,13.4961713,included_game_day
+2003,45,George Washington Revolutionaries,2002-12-08,5.557763489999999,included_game_day
+2003,45,George Washington Revolutionaries,2002-12-11,21.751833141,included_game_day
+2003,45,George Washington Revolutionaries,2002-12-22,31.229955146848,included_game_day
+2003,45,George Washington Revolutionaries,2002-12-28,17.4632994814772,included_game_day
+2003,45,George Washington Revolutionaries,2002-12-30,19.73893892002564,included_game_day
+2003,45,George Washington Revolutionaries,2003-01-02,14.804921585287696,included_game_day
+2003,45,George Washington Revolutionaries,2003-01-05,10.634744434909155,included_game_day
+2003,45,George Washington Revolutionaries,2003-01-11,-3.8003405245286217,included_game_day
+2003,45,George Washington Revolutionaries,2003-01-18,-12.08074356524452,included_game_day
+2003,45,George Washington Revolutionaries,2003-01-21,-7.653900909807273,included_game_day
+2003,45,George Washington Revolutionaries,2003-01-25,-18.036151755539052,included_game_day
+2003,45,George Washington Revolutionaries,2003-01-29,-0.11756855026678537,included_game_day
+2003,45,George Washington Revolutionaries,2003-02-01,-0.1568316572888957,included_game_day
+2003,45,George Washington Revolutionaries,2003-02-04,-1.465496407054598,included_game_day
+2003,45,George Washington Revolutionaries,2003-02-08,-0.9541308580835812,included_game_day
+2003,45,George Washington Revolutionaries,2003-02-12,-10.080707490026597,included_game_day
+2003,45,George Washington Revolutionaries,2003-02-16,6.716325284849166,included_game_day
+2003,45,George Washington Revolutionaries,2003-02-19,-1.5021631365644126,included_game_day
+2003,45,George Washington Revolutionaries,2003-02-22,3.883867576787077,included_game_day
+2003,45,George Washington Revolutionaries,2003-02-26,3.304716492167806,included_game_day
+2003,45,George Washington Revolutionaries,2003-03-01,18.743694574105998,included_game_day
+2003,45,George Washington Revolutionaries,2003-03-08,20.17297409636342,included_game_day
+2003,45,George Washington Revolutionaries,2003-03-10,28.75554581333517,included_game_day
+2003,45,George Washington Revolutionaries,2003-03-13,39.44483518145931,included_game_day
+2004,45,George Washington Revolutionaries,2003-11-21,7.0,included_game_day
+2004,45,George Washington Revolutionaries,2003-11-25,10.66,included_game_day
+2004,45,George Washington Revolutionaries,2003-11-28,18.837,included_game_day
+2004,45,George Washington Revolutionaries,2003-11-29,33.8534,included_game_day
+2004,45,George Washington Revolutionaries,2003-12-03,28.984864,included_game_day
+2004,45,George Washington Revolutionaries,2003-12-06,30.962258600000002,included_game_day
+2004,45,George Washington Revolutionaries,2003-12-07,28.19117009,included_game_day
+2004,45,George Washington Revolutionaries,2003-12-10,38.052871980999996,included_game_day
+2004,45,George Washington Revolutionaries,2003-12-20,27.226484216479296,included_game_day
+2004,45,George Washington Revolutionaries,2003-12-23,22.026339413831366,included_game_day
+2004,45,George Washington Revolutionaries,2003-12-29,16.865695759988228,included_game_day
+2004,45,George Washington Revolutionaries,2004-01-03,19.68478539101207,included_game_day
+2004,45,George Washington Revolutionaries,2004-01-07,34.33775514313178,included_game_day
+2004,45,George Washington Revolutionaries,2004-01-10,48.14596758554062,included_game_day
+2004,45,George Washington Revolutionaries,2004-01-17,57.57290135112794,included_game_day
+2004,45,George Washington Revolutionaries,2004-01-21,50.180685855181686,included_game_day
+2004,45,George Washington Revolutionaries,2004-01-24,67.84309643953303,included_game_day
+2004,45,George Washington Revolutionaries,2004-01-28,86.39817246952802,included_game_day
+2004,45,George Washington Revolutionaries,2004-01-31,79.79946576332486,included_game_day
+2004,45,George Washington Revolutionaries,2004-02-04,85.86266426405378,included_game_day
+2004,45,George Washington Revolutionaries,2004-02-07,88.86657767607369,included_game_day
+2004,45,George Washington Revolutionaries,2004-02-11,83.59188390853885,included_game_day
+2004,45,George Washington Revolutionaries,2004-02-18,79.9436742552044,included_game_day
+2004,45,George Washington Revolutionaries,2004-02-21,95.84004400182366,included_game_day
+2004,45,George Washington Revolutionaries,2004-02-28,82.79109997905022,included_game_day
+2004,45,George Washington Revolutionaries,2004-03-03,67.68084161578801,included_game_day
+2004,45,George Washington Revolutionaries,2004-03-06,75.61353960190704,included_game_day
+2004,45,George Washington Revolutionaries,2004-03-11,99.08074543088807,included_game_day
+2004,45,George Washington Revolutionaries,2004-03-12,75.3404425004986,included_game_day
+2004,45,George Washington Revolutionaries,2004-03-17,62.98155099253482,included_game_day
+2005,45,George Washington Revolutionaries,2004-11-15,-18.0,included_game_day
+2005,45,George Washington Revolutionaries,2004-11-20,2.7399999999999984,included_game_day
+2005,45,George Washington Revolutionaries,2004-11-28,17.4694,included_game_day
+2005,45,George Washington Revolutionaries,2004-12-01,35.57586,included_game_day
+2005,45,George Washington Revolutionaries,2004-12-04,53.15434997,included_game_day
+2005,45,George Washington Revolutionaries,2004-12-05,62.225029903,included_game_day
+2005,45,George Washington Revolutionaries,2004-12-11,73.6251862237,included_game_day
+2005,45,George Washington Revolutionaries,2004-12-18,76.3530073120008,included_game_day
+2005,45,George Washington Revolutionaries,2004-12-23,78.54665540048042,included_game_day
+2005,45,George Washington Revolutionaries,2004-12-29,78.43585363653133,included_game_day
+2005,45,George Washington Revolutionaries,2005-01-05,95.4453636011826,included_game_day
+2005,45,George Washington Revolutionaries,2005-01-08,109.05205043133743,included_game_day
+2005,45,George Washington Revolutionaries,2005-01-12,117.35434309374926,included_game_day
+2005,45,George Washington Revolutionaries,2005-01-15,97.66438196924194,included_game_day
+2005,45,George Washington Revolutionaries,2005-01-19,103.17573052796463,included_game_day
+2005,45,George Washington Revolutionaries,2005-01-22,81.711295423254,included_game_day
+2005,45,George Washington Revolutionaries,2005-01-25,72.21304115917962,included_game_day
+2005,45,George Washington Revolutionaries,2005-01-30,72.8039058581994,included_game_day
+2005,45,George Washington Revolutionaries,2005-02-05,91.45278381207412,included_game_day
+2005,45,George Washington Revolutionaries,2005-02-12,94.14799528425566,included_game_day
+2005,45,George Washington Revolutionaries,2005-02-16,90.27184598414877,included_game_day
+2005,45,George Washington Revolutionaries,2005-02-19,94.84962418676561,included_game_day
+2005,45,George Washington Revolutionaries,2005-02-26,93.92698188609498,included_game_day
+2005,45,George Washington Revolutionaries,2005-03-01,72.51889891818959,included_game_day
+2005,45,George Washington Revolutionaries,2005-03-05,92.41282068560898,included_game_day
+2005,45,George Washington Revolutionaries,2005-03-10,94.53351649414526,included_game_day
+2005,45,George Washington Revolutionaries,2005-03-11,104.16816159816423,included_game_day
+2005,45,George Washington Revolutionaries,2005-03-12,113.65829339313788,included_game_day
+2005,45,George Washington Revolutionaries,2005-03-18,107.03084775479604,included_game_day
+2006,45,George Washington Revolutionaries,2005-11-23,42.07,included_game_day
+2006,45,George Washington Revolutionaries,2005-11-26,41.5088,included_game_day
+2006,45,George Washington Revolutionaries,2005-11-30,47.84752,included_game_day
+2006,45,George Washington Revolutionaries,2005-12-02,49.891018,included_game_day
+2006,45,George Washington Revolutionaries,2005-12-05,54.818984900000004,included_game_day
+2006,45,George Washington Revolutionaries,2005-12-08,70.42643641000001,included_game_day
+2006,45,George Washington Revolutionaries,2005-12-10,78.2357556804,included_game_day
+2006,45,George Washington Revolutionaries,2005-12-17,83.14807102296001,included_game_day
+2006,45,George Washington Revolutionaries,2005-12-30,67.62096543443246,included_game_day
+2006,45,George Washington Revolutionaries,2006-01-04,77.38170164073813,included_game_day
+2006,45,George Washington Revolutionaries,2006-01-07,76.47820379047639,included_game_day
+2006,45,George Washington Revolutionaries,2006-01-11,70.7345066602882,included_game_day
+2006,45,George Washington Revolutionaries,2006-01-14,75.00518192570166,included_game_day
+2006,45,George Washington Revolutionaries,2006-01-16,86.51206491103285,included_game_day
+2006,45,George Washington Revolutionaries,2006-01-21,99.86602458819438,included_game_day
+2006,45,George Washington Revolutionaries,2006-01-25,97.659540770466,included_game_day
+2006,45,George Washington Revolutionaries,2006-01-28,105.35142352702276,included_game_day
+2006,45,George Washington Revolutionaries,2006-02-02,110.64579674041391,included_game_day
+2006,45,George Washington Revolutionaries,2006-02-05,119.9791130432744,included_game_day
+2006,45,George Washington Revolutionaries,2006-02-08,121.31386012718485,included_game_day
+2006,45,George Washington Revolutionaries,2006-02-11,119.68205859163267,included_game_day
+2006,45,George Washington Revolutionaries,2006-02-15,107.68699518447488,included_game_day
+2006,45,George Washington Revolutionaries,2006-02-18,107.63172597260049,included_game_day
+2006,45,George Washington Revolutionaries,2006-02-22,111.24007397276002,included_game_day
+2006,45,George Washington Revolutionaries,2006-02-25,114.37840517219936,included_game_day
+2006,45,George Washington Revolutionaries,2006-03-01,109.34469528095251,included_game_day
+2006,45,George Washington Revolutionaries,2006-03-04,100.29530660005788,included_game_day
+2006,45,George Washington Revolutionaries,2006-03-09,79.89379821751501,included_game_day
+2006,45,George Washington Revolutionaries,2006-03-16,82.62278541758434,included_game_day
+2006,45,George Washington Revolutionaries,2006-03-18,79.99398047026587,included_game_day
+2007,45,George Washington Revolutionaries,2006-11-10,16.0,included_game_day
+2007,45,George Washington Revolutionaries,2006-11-14,53.0,included_game_day
+2007,45,George Washington Revolutionaries,2006-11-17,58.15,included_game_day
+2007,45,George Washington Revolutionaries,2006-11-21,68.6072,included_game_day
+2007,45,George Washington Revolutionaries,2006-11-26,46.7676,included_game_day
+2007,45,George Washington Revolutionaries,2006-12-03,44.300529345,included_game_day
+2007,45,George Washington Revolutionaries,2006-12-05,55.6470763105,included_game_day
+2007,45,George Washington Revolutionaries,2006-12-09,48.058086636249996,included_game_day
+2007,45,George Washington Revolutionaries,2006-12-12,61.836308070308995,included_game_day
+2007,45,George Washington Revolutionaries,2006-12-28,50.64172722113659,included_game_day
+2007,45,George Washington Revolutionaries,2006-12-29,77.38526121391887,included_game_day
+2007,45,George Washington Revolutionaries,2007-01-03,77.70328343488828,included_game_day
+2007,45,George Washington Revolutionaries,2007-01-06,75.6866032390455,included_game_day
+2007,45,George Washington Revolutionaries,2007-01-10,69.51787095226535,included_game_day
+2007,45,George Washington Revolutionaries,2007-01-13,69.11148008738449,included_game_day
+2007,45,George Washington Revolutionaries,2007-01-17,64.87273272324028,included_game_day
+2007,45,George Washington Revolutionaries,2007-01-20,64.98748024727973,included_game_day
+2007,45,George Washington Revolutionaries,2007-01-24,69.19609675695811,included_game_day
+2007,45,George Washington Revolutionaries,2007-01-27,70.66621351868099,included_game_day
+2007,45,George Washington Revolutionaries,2007-01-31,49.800298916375354,included_game_day
+2007,45,George Washington Revolutionaries,2007-02-03,41.311811659498034,included_game_day
+2007,45,George Washington Revolutionaries,2007-02-10,16.153996196780895,included_game_day
+2007,45,George Washington Revolutionaries,2007-02-14,16.553155932142936,included_game_day
+2007,45,George Washington Revolutionaries,2007-02-17,28.520228519854804,included_game_day
+2007,45,George Washington Revolutionaries,2007-02-21,32.3783256698931,included_game_day
+2007,45,George Washington Revolutionaries,2007-02-24,39.9876619574681,included_game_day
+2007,45,George Washington Revolutionaries,2007-03-01,40.33050983275905,included_game_day
+2007,45,George Washington Revolutionaries,2007-03-03,34.959124677744924,included_game_day
+2007,45,George Washington Revolutionaries,2007-03-08,42.18655871165924,included_game_day
+2007,45,George Washington Revolutionaries,2007-03-09,58.054353432549625,included_game_day
+2007,45,George Washington Revolutionaries,2007-03-10,61.80492221679338,included_game_day
+2007,45,George Washington Revolutionaries,2007-03-15,33.53906199840797,included_game_day
+2008,45,George Washington Revolutionaries,2007-11-10,12.0,included_game_day
+2008,45,George Washington Revolutionaries,2007-11-14,21.6,included_game_day
+2008,45,George Washington Revolutionaries,2007-11-24,13.518464000000002,included_game_day
+2008,45,George Washington Revolutionaries,2007-11-28,0.8598446000000006,included_game_day
+2008,45,George Washington Revolutionaries,2007-12-02,0.2325601400000008,included_game_day
+2008,45,George Washington Revolutionaries,2007-12-05,23.96028991,included_game_day
+2008,45,George Washington Revolutionaries,2007-12-09,-4.00043287083,included_game_day
+2008,45,George Washington Revolutionaries,2007-12-13,-18.369645843997,included_game_day
+2008,45,George Washington Revolutionaries,2007-12-23,-24.06933367054509,included_game_day
+2008,45,George Washington Revolutionaries,2007-12-29,-49.39337282931076,included_game_day
+2008,45,George Washington Revolutionaries,2008-01-10,-19.065430275791662,included_game_day
+2008,45,George Washington Revolutionaries,2008-01-16,-27.081809185065246,included_game_day
+2008,45,George Washington Revolutionaries,2008-01-23,-23.671091301405983,included_game_day
+2008,45,George Washington Revolutionaries,2008-01-26,-33.076686701651695,included_game_day
+2008,45,George Washington Revolutionaries,2008-01-30,-27.45126452755602,included_game_day
+2008,45,George Washington Revolutionaries,2008-02-03,-29.32781368751314,included_game_day
+2008,45,George Washington Revolutionaries,2008-02-06,-50.66800947817562,included_game_day
+2008,45,George Washington Revolutionaries,2008-02-09,-40.05759208573178,included_game_day
+2008,45,George Washington Revolutionaries,2008-02-13,-55.99586097540086,included_game_day
+2008,45,George Washington Revolutionaries,2008-02-16,-42.31374957702508,included_game_day
+2008,45,George Washington Revolutionaries,2008-02-23,-32.132230736753186,included_game_day
+2008,45,George Washington Revolutionaries,2008-02-27,-8.829974866551073,included_game_day
+2008,45,George Washington Revolutionaries,2008-03-01,0.16972379655515013,included_game_day
+2008,45,George Washington Revolutionaries,2008-03-06,-7.908649244488926,included_game_day
+2008,45,George Washington Revolutionaries,2008-03-08,-3.6889766529927037,included_game_day
+2009,45,George Washington Revolutionaries,2008-11-14,8.0,included_game_day
+2009,45,George Washington Revolutionaries,2008-11-19,18.2,included_game_day
+2009,45,George Washington Revolutionaries,2008-11-22,7.82,included_game_day
+2009,45,George Washington Revolutionaries,2008-11-26,11.92225,included_game_day
+2009,45,George Washington Revolutionaries,2008-12-07,-10.225684518,included_game_day
+2009,45,George Washington Revolutionaries,2008-12-13,1.5419586994400003,included_game_day
+2009,45,George Washington Revolutionaries,2008-12-17,9.357499678496001,included_game_day
+2009,45,George Washington Revolutionaries,2008-12-23,15.69359111463283,included_game_day
+2009,45,George Washington Revolutionaries,2008-12-27,5.571830464214848,included_game_day
+2009,45,George Washington Revolutionaries,2008-12-30,-29.349073626776924,included_game_day
+2009,45,George Washington Revolutionaries,2009-01-03,-32.54075019887594,included_game_day
+2009,45,George Washington Revolutionaries,2009-01-10,-40.26331532433881,included_game_day
+2009,45,George Washington Revolutionaries,2009-01-14,-32.30137223517423,included_game_day
+2009,45,George Washington Revolutionaries,2009-01-17,-29.4870481147945,included_game_day
+2009,45,George Washington Revolutionaries,2009-01-22,-26.20103330571081,included_game_day
+2009,45,George Washington Revolutionaries,2009-01-25,-23.40122378358858,included_game_day
+2009,45,George Washington Revolutionaries,2009-01-28,-25.571343742061963,included_game_day
+2009,45,George Washington Revolutionaries,2009-02-04,-26.455634257986848,included_game_day
+2009,45,George Washington Revolutionaries,2009-02-07,-12.705681732327434,included_game_day
+2009,45,George Washington Revolutionaries,2009-02-11,-23.71061235479109,included_game_day
+2009,45,George Washington Revolutionaries,2009-02-14,-36.10036887150992,included_game_day
+2009,45,George Washington Revolutionaries,2009-02-19,-7.494854125641002,included_game_day
+2009,45,George Washington Revolutionaries,2009-02-22,-11.937309910545501,included_game_day
+2009,45,George Washington Revolutionaries,2009-02-25,-7.534553207418289,included_game_day
+2009,45,George Washington Revolutionaries,2009-02-28,7.677662617142292,included_game_day
+2009,45,George Washington Revolutionaries,2009-03-04,-5.594726295044093,included_game_day
+2009,45,George Washington Revolutionaries,2009-03-07,-10.779411067835202,included_game_day
+2010,45,George Washington Revolutionaries,2009-11-15,7.2,included_game_day
+2010,45,George Washington Revolutionaries,2009-11-17,18.88,included_game_day
+2010,45,George Washington Revolutionaries,2009-11-21,54.698899999999995,included_game_day
+2010,45,George Washington Revolutionaries,2009-11-24,61.45000999999999,included_game_day
+2010,45,George Washington Revolutionaries,2009-11-28,43.993008999999994,included_game_day
+2010,45,George Washington Revolutionaries,2009-12-02,53.768928499999994,included_game_day
+2010,45,George Washington Revolutionaries,2009-12-06,58.836012640999996,included_game_day
+2010,45,George Washington Revolutionaries,2009-12-09,42.71147717756,included_game_day
+2010,45,George Washington Revolutionaries,2009-12-12,41.101662191803996,included_game_day
+2010,45,George Washington Revolutionaries,2009-12-22,41.0746713450106,included_game_day
+2010,45,George Washington Revolutionaries,2009-12-28,36.07849063091377,included_game_day
+2010,45,George Washington Revolutionaries,2009-12-30,27.716335246430443,included_game_day
+2010,45,George Washington Revolutionaries,2010-01-02,25.75851254010667,included_game_day
+2010,45,George Washington Revolutionaries,2010-01-06,35.074152947205896,included_game_day
+2010,45,George Washington Revolutionaries,2010-01-10,29.62820405300238,included_game_day
+2010,45,George Washington Revolutionaries,2010-01-13,29.29208455726039,included_game_day
+2010,45,George Washington Revolutionaries,2010-01-20,21.719245143114172,included_game_day
+2010,45,George Washington Revolutionaries,2010-01-23,15.410628377212932,included_game_day
+2010,45,George Washington Revolutionaries,2010-01-27,20.83776670416941,included_game_day
+2010,45,George Washington Revolutionaries,2010-01-30,23.516423320377275,included_game_day
+2010,45,George Washington Revolutionaries,2010-02-03,27.401636190316026,included_game_day
+2010,45,George Washington Revolutionaries,2010-02-06,12.538918275035117,included_game_day
+2010,45,George Washington Revolutionaries,2010-02-13,27.979696296163322,included_game_day
+2010,45,George Washington Revolutionaries,2010-02-17,28.02345606904905,included_game_day
+2010,45,George Washington Revolutionaries,2010-02-20,34.63680970059237,included_game_day
+2010,45,George Washington Revolutionaries,2010-02-24,34.278394652483186,included_game_day
+2010,45,George Washington Revolutionaries,2010-02-27,37.56243581407413,included_game_day
+2010,45,George Washington Revolutionaries,2010-03-03,14.669393809330707,included_game_day
+2010,45,George Washington Revolutionaries,2010-03-06,13.926719332358202,included_game_day
+2010,45,George Washington Revolutionaries,2010-03-09,15.379539047486741,included_game_day
+2010,45,George Washington Revolutionaries,2010-03-16,15.400013485721004,included_game_day
+2011,45,George Washington Revolutionaries,2010-11-16,-8.9,included_game_day
+2011,45,George Washington Revolutionaries,2010-11-17,8.72,included_game_day
+2011,45,George Washington Revolutionaries,2010-11-22,6.771000000000001,included_game_day
+2011,45,George Washington Revolutionaries,2010-11-23,-6.84005,included_game_day
+2011,45,George Washington Revolutionaries,2010-11-29,-17.967999,included_game_day
+2011,45,George Washington Revolutionaries,2010-12-01,-23.298207566,included_game_day
+2011,45,George Washington Revolutionaries,2010-12-05,-33.46274832339999,included_game_day
+2011,45,George Washington Revolutionaries,2010-12-08,-29.472661927059992,included_game_day
+2011,45,George Washington Revolutionaries,2010-12-18,-16.277911381757782,included_game_day
+2011,45,George Washington Revolutionaries,2010-12-22,-16.942688153612444,included_game_day
+2011,45,George Washington Revolutionaries,2010-12-27,-40.90099981604084,included_game_day
+2011,45,George Washington Revolutionaries,2010-12-31,-43.85458613584345,included_game_day
+2011,45,George Washington Revolutionaries,2011-01-02,-10.294095722841888,included_game_day
+2011,45,George Washington Revolutionaries,2011-01-05,-7.702467981148278,included_game_day
+2011,45,George Washington Revolutionaries,2011-01-08,1.9611477859733792,included_game_day
+2011,45,George Washington Revolutionaries,2011-01-12,15.18302290638464,included_game_day
+2011,45,George Washington Revolutionaries,2011-01-15,10.346675346346764,included_game_day
+2011,45,George Washington Revolutionaries,2011-01-19,9.05900647628223,included_game_day
+2011,45,George Washington Revolutionaries,2011-01-22,-9.45912149534333,included_game_day
+2011,45,George Washington Revolutionaries,2011-01-26,-4.147749410042623,included_game_day
+2011,45,George Washington Revolutionaries,2011-01-29,-0.7713705201740906,included_game_day
+2011,45,George Washington Revolutionaries,2011-02-02,-10.550824072793947,included_game_day
+2011,45,George Washington Revolutionaries,2011-02-05,-1.4558736734172015,included_game_day
+2011,45,George Washington Revolutionaries,2011-02-09,-2.076782431958865,included_game_day
+2011,45,George Washington Revolutionaries,2011-02-13,7.7164516008425785,included_game_day
+2011,45,George Washington Revolutionaries,2011-02-19,9.706256034185511,included_game_day
+2011,45,George Washington Revolutionaries,2011-02-23,19.678053052391846,included_game_day
+2011,45,George Washington Revolutionaries,2011-02-26,7.866275606141652,included_game_day
+2011,45,George Washington Revolutionaries,2011-03-02,24.856839688834416,included_game_day
+2011,45,George Washington Revolutionaries,2011-03-05,23.081820407290387,included_game_day
+2011,45,George Washington Revolutionaries,2011-03-08,4.569082556919476,included_game_day
+2012,45,George Washington Revolutionaries,2011-11-11,13.0,included_game_day
+2012,45,George Washington Revolutionaries,2011-11-13,-10.5,included_game_day
+2012,45,George Washington Revolutionaries,2011-11-21,3.3499999999999996,included_game_day
+2012,45,George Washington Revolutionaries,2011-11-22,2.6052199999999996,included_game_day
+2012,45,George Washington Revolutionaries,2011-11-23,27.40922,included_game_day
+2012,45,George Washington Revolutionaries,2011-12-01,18.986598,included_game_day
+2012,45,George Washington Revolutionaries,2011-12-04,5.05755012,included_game_day
+2012,45,George Washington Revolutionaries,2011-12-07,-5.858993504000001,included_game_day
+2012,45,George Washington Revolutionaries,2011-12-10,-24.8376723872,included_game_day
+2012,45,George Washington Revolutionaries,2011-12-15,-27.60522882143,included_game_day
+2012,45,George Washington Revolutionaries,2011-12-22,-32.7178004192426,included_game_day
+2012,45,George Washington Revolutionaries,2011-12-28,-42.306732167202945,included_game_day
+2012,45,George Washington Revolutionaries,2011-12-31,-27.93634705319366,included_game_day
+2012,45,George Washington Revolutionaries,2012-01-04,-27.690109699427957,included_game_day
+2012,45,George Washington Revolutionaries,2012-01-07,-33.27062581103988,included_game_day
+2012,45,George Washington Revolutionaries,2012-01-11,-30.447689908663513,included_game_day
+2012,45,George Washington Revolutionaries,2012-01-14,-38.34919510719437,included_game_day
+2012,45,George Washington Revolutionaries,2012-01-18,-14.620635263898937,included_game_day
+2012,45,George Washington Revolutionaries,2012-01-21,-5.922812193964196,included_game_day
+2012,45,George Washington Revolutionaries,2012-01-25,-9.21172558228394,included_game_day
+2012,45,George Washington Revolutionaries,2012-01-28,-19.787982930030235,included_game_day
+2012,45,George Washington Revolutionaries,2012-02-01,-15.372671988356247,included_game_day
+2012,45,George Washington Revolutionaries,2012-02-04,-20.689811992871093,included_game_day
+2012,45,George Washington Revolutionaries,2012-02-08,-12.207739732480437,included_game_day
+2012,45,George Washington Revolutionaries,2012-02-11,-3.3328867048379767,included_game_day
+2012,45,George Washington Revolutionaries,2012-02-18,-5.938397235523967,included_game_day
+2012,45,George Washington Revolutionaries,2012-02-22,-12.610768662146764,included_game_day
+2012,45,George Washington Revolutionaries,2012-02-25,-8.978281763427868,included_game_day
+2012,45,George Washington Revolutionaries,2012-02-29,-9.360023602583212,included_game_day
+2012,45,George Washington Revolutionaries,2012-03-03,-14.83334001348074,included_game_day
+2012,45,George Washington Revolutionaries,2012-03-06,-20.211993142198764,included_game_day
+2013,45,George Washington Revolutionaries,2012-11-10,-10.0,included_game_day
+2013,45,George Washington Revolutionaries,2012-11-17,6.68,included_game_day
+2013,45,George Washington Revolutionaries,2012-11-21,-4.947800000000001,included_game_day
+2013,45,George Washington Revolutionaries,2012-11-24,11.716919999999998,included_game_day
+2013,45,George Washington Revolutionaries,2012-11-26,-5.412408000000003,included_game_day
+2013,45,George Washington Revolutionaries,2012-11-28,-5.811603200000002,included_game_day
+2013,45,George Washington Revolutionaries,2012-12-02,3.497324319999999,included_game_day
+2013,45,George Washington Revolutionaries,2012-12-04,6.026580387999999,included_game_day
+2013,45,George Washington Revolutionaries,2012-12-08,4.940217769199999,included_game_day
+2013,45,George Washington Revolutionaries,2012-12-11,7.7226701239799995,included_game_day
+2013,45,George Washington Revolutionaries,2012-12-22,7.648454900422,included_game_day
+2013,45,George Washington Revolutionaries,2012-12-30,36.38763966759735,included_game_day
+2013,45,George Washington Revolutionaries,2013-01-04,24.611173746158435,included_game_day
+2013,45,George Washington Revolutionaries,2013-01-09,40.18562328808334,included_game_day
+2013,45,George Washington Revolutionaries,2013-01-12,26.665451476544636,included_game_day
+2013,45,George Washington Revolutionaries,2013-01-16,25.279924006210386,included_game_day
+2013,45,George Washington Revolutionaries,2013-01-19,30.288757759917978,included_game_day
+2013,45,George Washington Revolutionaries,2013-01-23,32.05671313198611,included_game_day
+2013,45,George Washington Revolutionaries,2013-01-26,57.170978114362654,included_game_day
+2013,45,George Washington Revolutionaries,2013-02-02,46.19608218098377,included_game_day
+2013,45,George Washington Revolutionaries,2013-02-06,61.31007718867639,included_game_day
+2013,45,George Washington Revolutionaries,2013-02-09,57.67068989375391,included_game_day
+2013,45,George Washington Revolutionaries,2013-02-16,39.708056940855286,included_game_day
+2013,45,George Washington Revolutionaries,2013-02-20,33.39509574892878,included_game_day
+2013,45,George Washington Revolutionaries,2013-02-23,23.486009899528646,included_game_day
+2013,45,George Washington Revolutionaries,2013-02-27,19.66728370385635,included_game_day
+2013,45,George Washington Revolutionaries,2013-03-02,20.733307050040477,included_game_day
+2013,45,George Washington Revolutionaries,2013-03-06,17.949230526973512,included_game_day
+2013,45,George Washington Revolutionaries,2013-03-09,21.004874543575745,included_game_day
+2013,45,George Washington Revolutionaries,2013-03-14,18.557816233565703,included_game_day
+2014,45,George Washington Revolutionaries,2013-11-08,19.0,included_game_day
+2014,45,George Washington Revolutionaries,2013-11-12,39.4,included_game_day
+2014,45,George Washington Revolutionaries,2013-11-16,46.1,included_game_day
+2014,45,George Washington Revolutionaries,2013-11-19,79.762,included_game_day
+2014,45,George Washington Revolutionaries,2013-11-28,80.87905,included_game_day
+2014,45,George Washington Revolutionaries,2013-11-29,61.507974880000006,included_game_day
+2014,45,George Washington Revolutionaries,2013-12-01,70.39861565400001,included_game_day
+2014,45,George Washington Revolutionaries,2013-12-04,63.73563962860001,included_game_day
+2014,45,George Washington Revolutionaries,2013-12-08,63.67259947564001,included_game_day
+2014,45,George Washington Revolutionaries,2013-12-11,65.81948742464601,included_game_day
+2014,45,George Washington Revolutionaries,2013-12-21,62.99561636101041,included_game_day
+2014,45,George Washington Revolutionaries,2013-12-28,66.06071114285544,included_game_day
+2014,45,George Washington Revolutionaries,2013-12-31,52.68877895536656,included_game_day
+2014,45,George Washington Revolutionaries,2014-01-03,63.68194638143767,included_game_day
+2014,45,George Washington Revolutionaries,2014-01-09,58.77992358138431,included_game_day
+2014,45,George Washington Revolutionaries,2014-01-11,64.91721052573683,included_game_day
+2014,45,George Washington Revolutionaries,2014-01-14,75.35135349914236,included_game_day
+2014,45,George Washington Revolutionaries,2014-01-18,84.53354203514607,included_game_day
+2014,45,George Washington Revolutionaries,2014-01-25,84.35530242295827,included_game_day
+2014,45,George Washington Revolutionaries,2014-01-29,98.83843112839827,included_game_day
+2014,45,George Washington Revolutionaries,2014-02-01,85.82126320142532,included_game_day
+2014,45,George Washington Revolutionaries,2014-02-05,88.8020410474794,included_game_day
+2014,45,George Washington Revolutionaries,2014-02-08,99.6343064323684,included_game_day
+2014,45,George Washington Revolutionaries,2014-02-12,85.95990507248955,included_game_day
+2014,45,George Washington Revolutionaries,2014-02-15,74.4229821176806,included_game_day
+2014,45,George Washington Revolutionaries,2014-02-18,84.08399329738894,included_game_day
+2014,45,George Washington Revolutionaries,2014-02-22,82.81386650880381,included_game_day
+2014,45,George Washington Revolutionaries,2014-03-02,81.91233821656388,included_game_day
+2014,45,George Washington Revolutionaries,2014-03-05,85.0112197134144,included_game_day
+2014,45,George Washington Revolutionaries,2014-03-08,77.467398660057,included_game_day
+2014,45,George Washington Revolutionaries,2014-03-14,84.3630839281018,included_game_day
+2014,45,George Washington Revolutionaries,2014-03-15,70.68037201389765,included_game_day
+2014,45,George Washington Revolutionaries,2014-03-21,66.51389443759992,included_game_day
+2015,45,George Washington Revolutionaries,2014-11-14,49.0,included_game_day
+2015,45,George Washington Revolutionaries,2014-11-16,64.1,included_game_day
+2015,45,George Washington Revolutionaries,2014-11-21,49.65599999999999,included_game_day
+2015,45,George Washington Revolutionaries,2014-11-26,61.35217999999999,included_game_day
+2015,45,George Washington Revolutionaries,2014-11-29,58.319951999999994,included_game_day
+2015,45,George Washington Revolutionaries,2014-12-04,65.969304353,included_game_day
+2015,45,George Washington Revolutionaries,2014-12-07,69.4434919077,included_game_day
+2015,45,George Washington Revolutionaries,2014-12-11,77.17508647713,included_game_day
+2015,45,George Washington Revolutionaries,2014-12-14,61.48703016988699,included_game_day
+2015,45,George Washington Revolutionaries,2014-12-22,82.34340241043051,included_game_day
+2015,45,George Washington Revolutionaries,2014-12-23,83.4885136875012,included_game_day
+2015,45,George Washington Revolutionaries,2014-12-25,90.01200812614651,included_game_day
+2015,45,George Washington Revolutionaries,2014-12-30,93.40342888129923,included_game_day
+2015,45,George Washington Revolutionaries,2015-01-03,90.23483412225148,included_game_day
+2015,45,George Washington Revolutionaries,2015-01-06,76.85598727946541,included_game_day
+2015,45,George Washington Revolutionaries,2015-01-10,61.407697220137834,included_game_day
+2015,45,George Washington Revolutionaries,2015-01-15,58.33495307709639,included_game_day
+2015,45,George Washington Revolutionaries,2015-01-17,56.72017799205811,included_game_day
+2015,45,George Washington Revolutionaries,2015-01-22,70.20754353682952,included_game_day
+2015,45,George Washington Revolutionaries,2015-01-24,71.81965402067902,included_game_day
+2015,45,George Washington Revolutionaries,2015-01-27,52.97570586672103,included_game_day
+2015,45,George Washington Revolutionaries,2015-01-31,51.9493257371527,included_game_day
+2015,45,George Washington Revolutionaries,2015-02-06,53.27634763183511,included_game_day
+2015,45,George Washington Revolutionaries,2015-02-11,29.43743240852902,included_game_day
+2015,45,George Washington Revolutionaries,2015-02-14,18.481196100825965,included_game_day
+2015,45,George Washington Revolutionaries,2015-02-18,21.408236185180296,included_game_day
+2015,45,George Washington Revolutionaries,2015-02-21,21.4724057715462,included_game_day
+2015,45,George Washington Revolutionaries,2015-02-25,41.14304043395768,included_game_day
+2015,45,George Washington Revolutionaries,2015-02-28,39.35303275320139,included_game_day
+2015,45,George Washington Revolutionaries,2015-03-04,53.04314429768917,included_game_day
+2015,45,George Washington Revolutionaries,2015-03-07,68.24842497854759,included_game_day
+2015,45,George Washington Revolutionaries,2015-03-12,77.42596776561982,included_game_day
+2015,45,George Washington Revolutionaries,2015-03-13,63.10608572810098,included_game_day
+2015,45,George Washington Revolutionaries,2015-03-17,69.6073728471531,included_game_day
+2015,45,George Washington Revolutionaries,2015-03-22,59.31827244727335,included_game_day
+2016,45,George Washington Revolutionaries,2015-11-13,6.0,included_game_day
+2016,45,George Washington Revolutionaries,2015-11-16,10.9,included_game_day
+2016,45,George Washington Revolutionaries,2015-11-19,17.23,included_game_day
+2016,45,George Washington Revolutionaries,2015-11-22,26.124000000000002,included_game_day
+2016,45,George Washington Revolutionaries,2015-11-24,43.6475,included_game_day
+2016,45,George Washington Revolutionaries,2015-11-27,46.1963,included_game_day
+2016,45,George Washington Revolutionaries,2015-11-28,49.69959,included_game_day
+2016,45,George Washington Revolutionaries,2015-12-02,52.389521,included_game_day
+2016,45,George Washington Revolutionaries,2015-12-08,55.562629825200005,included_game_day
+2016,45,George Washington Revolutionaries,2015-12-12,77.30073993928,included_game_day
+2016,45,George Washington Revolutionaries,2015-12-19,77.86725572017201,included_game_day
+2016,45,George Washington Revolutionaries,2015-12-22,51.166574499724746,included_game_day
+2016,45,George Washington Revolutionaries,2015-12-29,67.7417593769961,included_game_day
+2016,45,George Washington Revolutionaries,2016-01-03,69.93022208588663,included_game_day
+2016,45,George Washington Revolutionaries,2016-01-06,56.8121768389788,included_game_day
+2016,45,George Washington Revolutionaries,2016-01-09,74.55511799093478,included_game_day
+2016,45,George Washington Revolutionaries,2016-01-12,78.72504204010295,included_game_day
+2016,45,George Washington Revolutionaries,2016-01-15,72.90361051932942,included_game_day
+2016,45,George Washington Revolutionaries,2016-01-22,72.50673262258297,included_game_day
+2016,45,George Washington Revolutionaries,2016-01-28,59.05943300104873,included_game_day
+2016,45,George Washington Revolutionaries,2016-01-31,57.16162200104323,included_game_day
+2016,45,George Washington Revolutionaries,2016-02-03,59.93859815406565,included_game_day
+2016,45,George Washington Revolutionaries,2016-02-06,72.53033360226341,included_game_day
+2016,45,George Washington Revolutionaries,2016-02-10,54.07400256471187,included_game_day
+2016,45,George Washington Revolutionaries,2016-02-13,50.978735668951074,included_game_day
+2016,45,George Washington Revolutionaries,2016-02-17,56.18327700422837,included_game_day
+2016,45,George Washington Revolutionaries,2016-02-21,80.61994979967483,included_game_day
+2016,45,George Washington Revolutionaries,2016-02-24,90.97801830621682,included_game_day
+2016,45,George Washington Revolutionaries,2016-02-27,84.58057801784904,included_game_day
+2016,45,George Washington Revolutionaries,2016-03-01,90.34094848289168,included_game_day
+2016,45,George Washington Revolutionaries,2016-03-05,80.46266460431094,included_game_day
+2016,45,George Washington Revolutionaries,2016-03-10,75.76165846847776,included_game_day
+2016,45,George Washington Revolutionaries,2016-03-11,69.9597026257094,included_game_day
+2016,45,George Washington Revolutionaries,2016-03-16,67.86967916078197,included_game_day
+2016,45,George Washington Revolutionaries,2016-03-21,87.07618186907541,included_game_day
+2016,45,George Washington Revolutionaries,2016-03-23,90.42574558247465,included_game_day
+2016,45,George Washington Revolutionaries,2016-03-29,114.1292186876109,included_game_day
+2016,45,George Washington Revolutionaries,2016-03-31,130.35237018140123,included_game_day
+2017,45,George Washington Revolutionaries,2016-11-11,1.0,included_game_day
+2017,45,George Washington Revolutionaries,2016-11-15,0.6699999999999999,included_game_day
+2017,45,George Washington Revolutionaries,2016-11-17,15.903,included_game_day
+2017,45,George Washington Revolutionaries,2016-11-21,7.0837,included_game_day
+2017,45,George Washington Revolutionaries,2016-11-22,-0.39381999999999984,included_game_day
+2017,45,George Washington Revolutionaries,2016-11-26,-10.345502,included_game_day
+2017,45,George Washington Revolutionaries,2016-11-29,-5.9619168,included_game_day
+2017,45,George Washington Revolutionaries,2016-12-03,-8.47472248,included_game_day
+2017,45,George Washington Revolutionaries,2016-12-04,-20.206461332,included_game_day
+2017,45,George Washington Revolutionaries,2016-12-07,-7.826463258799999,included_game_day
+2017,45,George Washington Revolutionaries,2016-12-10,-0.06625254371999922,included_game_day
+2017,45,George Washington Revolutionaries,2016-12-15,18.29057457987124,included_game_day
+2017,45,George Washington Revolutionaries,2016-12-22,21.449105128200117,included_game_day
+2017,45,George Washington Revolutionaries,2016-12-30,18.61207853303244,included_game_day
+2017,45,George Washington Revolutionaries,2017-01-05,23.315608447299624,included_game_day
+2017,45,George Washington Revolutionaries,2017-01-08,12.917081096610046,included_game_day
+2017,45,George Washington Revolutionaries,2017-01-11,-7.455478903458962,included_game_day
+2017,45,George Washington Revolutionaries,2017-01-15,-9.77086253118139,included_game_day
+2017,45,George Washington Revolutionaries,2017-01-18,-12.61439527118887,included_game_day
+2017,45,George Washington Revolutionaries,2017-01-25,13.79578670188806,included_game_day
+2017,45,George Washington Revolutionaries,2017-01-28,10.3227531431338,included_game_day
+2017,45,George Washington Revolutionaries,2017-01-31,8.18624768279913,included_game_day
+2017,45,George Washington Revolutionaries,2017-02-04,5.910848556603268,included_game_day
+2017,45,George Washington Revolutionaries,2017-02-08,12.346024954137603,included_game_day
+2017,45,George Washington Revolutionaries,2017-02-11,18.60478461045442,included_game_day
+2017,45,George Washington Revolutionaries,2017-02-15,12.410554212828885,included_game_day
+2017,45,George Washington Revolutionaries,2017-02-19,18.046188810319723,included_game_day
+2017,45,George Washington Revolutionaries,2017-02-23,26.89053249795414,included_game_day
+2017,45,George Washington Revolutionaries,2017-02-26,34.74793764527051,included_game_day
+2017,45,George Washington Revolutionaries,2017-03-01,34.315405932808346,included_game_day
+2017,45,George Washington Revolutionaries,2017-03-04,45.93589290058047,included_game_day
+2017,45,George Washington Revolutionaries,2017-03-09,44.36638041704855,included_game_day
+2017,45,George Washington Revolutionaries,2017-03-10,42.989699825786275,included_game_day
+2017,45,George Washington Revolutionaries,2017-03-15,42.933156824876534,included_game_day
+2017,45,George Washington Revolutionaries,2017-03-20,26.971760448290027,included_game_day
+2018,45,George Washington Revolutionaries,2017-11-10,6.0,included_game_day
+2018,45,George Washington Revolutionaries,2017-11-14,-11.600000000000001,included_game_day
+2018,45,George Washington Revolutionaries,2017-11-18,-7.230000000000001,included_game_day
+2018,45,George Washington Revolutionaries,2017-11-20,-8.884,included_game_day
+2018,45,George Washington Revolutionaries,2017-11-23,-16.7435,included_game_day
+2018,45,George Washington Revolutionaries,2017-11-24,-16.48545,included_game_day
+2018,45,George Washington Revolutionaries,2017-11-29,-15.982662900000001,included_game_day
+2018,45,George Washington Revolutionaries,2017-12-03,-5.005282760000002,included_game_day
+2018,45,George Washington Revolutionaries,2017-12-06,-0.27360674500000126,included_game_day
+2018,45,George Washington Revolutionaries,2017-12-09,-10.668093184700002,included_game_day
+2018,45,George Washington Revolutionaries,2017-12-16,-10.93633213143,included_game_day
+2018,45,George Washington Revolutionaries,2017-12-20,-13.615657138439,included_game_day
+2018,45,George Washington Revolutionaries,2017-12-23,-6.7182594579697765,included_game_day
+2018,45,George Washington Revolutionaries,2017-12-30,-3.9792210480475223,included_game_day
+2018,45,George Washington Revolutionaries,2018-01-03,-14.494066807582008,included_game_day
+2018,45,George Washington Revolutionaries,2018-01-06,-29.761409709557604,included_game_day
+2018,45,George Washington Revolutionaries,2018-01-10,-46.85381725390227,included_game_day
+2018,45,George Washington Revolutionaries,2018-01-13,-53.828586686737005,included_game_day
+2018,45,George Washington Revolutionaries,2018-01-17,-44.06151379191769,included_game_day
+2018,45,George Washington Revolutionaries,2018-01-20,-61.681041762236575,included_game_day
+2018,45,George Washington Revolutionaries,2018-01-28,-65.45712984366705,included_game_day
+2018,45,George Washington Revolutionaries,2018-01-31,-61.315590850511896,included_game_day
+2018,45,George Washington Revolutionaries,2018-02-03,-79.6626713604652,included_game_day
+2018,45,George Washington Revolutionaries,2018-02-07,-63.871289649951265,included_game_day
+2018,45,George Washington Revolutionaries,2018-02-10,-66.42426930909774,included_game_day
+2018,45,George Washington Revolutionaries,2018-02-14,-49.92352410151104,included_game_day
+2018,45,George Washington Revolutionaries,2018-02-17,-23.185981152636543,included_game_day
+2018,45,George Washington Revolutionaries,2018-02-21,1.2057720552522717,included_game_day
+2018,45,George Washington Revolutionaries,2018-02-24,-2.366594240428821,included_game_day
+2018,45,George Washington Revolutionaries,2018-02-28,3.2429484980478076,included_game_day
+2018,45,George Washington Revolutionaries,2018-03-03,-6.429444225745593,included_game_day
+2018,45,George Washington Revolutionaries,2018-03-07,-10.138405577485043,included_game_day
+2018,45,George Washington Revolutionaries,2018-03-08,-14.615580507243285,included_game_day
+2019,45,George Washington Revolutionaries,2018-11-06,-6.0,included_game_day
+2019,45,George Washington Revolutionaries,2018-11-08,-17.1,included_game_day
+2019,45,George Washington Revolutionaries,2018-11-11,-28.590000000000003,included_game_day
+2019,45,George Washington Revolutionaries,2018-11-17,-42.434000000000005,included_game_day
+2019,45,George Washington Revolutionaries,2018-11-18,-72.533,included_game_day
+2019,45,George Washington Revolutionaries,2018-11-24,-42.48678,included_game_day
+2019,45,George Washington Revolutionaries,2018-11-28,-58.097958000000006,included_game_day
+2019,45,George Washington Revolutionaries,2018-12-01,-71.53878204,included_game_day
+2019,45,George Washington Revolutionaries,2018-12-05,-68.764647673,included_game_day
+2019,45,George Washington Revolutionaries,2018-12-08,-68.78181763815,included_game_day
+2019,45,George Washington Revolutionaries,2018-12-14,-61.720585948946,included_game_day
+2019,45,George Washington Revolutionaries,2018-12-22,-64.5784469397324,included_game_day
+2019,45,George Washington Revolutionaries,2018-12-29,-56.44147718709305,included_game_day
+2019,45,George Washington Revolutionaries,2019-01-06,-35.482174020465536,included_game_day
+2019,45,George Washington Revolutionaries,2019-01-09,-34.454671815666416,included_game_day
+2019,45,George Washington Revolutionaries,2019-01-12,-56.137166461061625,included_game_day
+2019,45,George Washington Revolutionaries,2019-01-16,-47.64319330696265,included_game_day
+2019,45,George Washington Revolutionaries,2019-01-20,-51.704068186803774,included_game_day
+2019,45,George Washington Revolutionaries,2019-01-23,-50.55175298572641,included_game_day
+2019,45,George Washington Revolutionaries,2019-01-26,-43.761186103018595,included_game_day
+2019,45,George Washington Revolutionaries,2019-01-30,-27.979501139173433,included_game_day
+2019,45,George Washington Revolutionaries,2019-02-06,-30.30722439051034,included_game_day
+2019,45,George Washington Revolutionaries,2019-02-09,-51.30737534398995,included_game_day
+2019,45,George Washington Revolutionaries,2019-02-13,-64.78241446075249,included_game_day
+2019,45,George Washington Revolutionaries,2019-02-16,-69.78362041085475,included_game_day
+2019,45,George Washington Revolutionaries,2019-02-20,-57.17066535310995,included_game_day
+2019,45,George Washington Revolutionaries,2019-02-23,-63.0623450653214,included_game_day
+2019,45,George Washington Revolutionaries,2019-02-26,-84.39736358427379,included_game_day
+2019,45,George Washington Revolutionaries,2019-03-02,-78.45903867520585,included_game_day
+2019,45,George Washington Revolutionaries,2019-03-06,-85.9274892574042,included_game_day
+2019,45,George Washington Revolutionaries,2019-03-09,-98.51800322181882,included_game_day
+2019,45,George Washington Revolutionaries,2019-03-13,-90.51635541735095,included_game_day
+2019,45,George Washington Revolutionaries,2019-03-14,-86.38893136932943,included_game_day
+2020,45,George Washington Revolutionaries,2019-11-05,-11.0,included_game_day
+2020,45,George Washington Revolutionaries,2019-11-09,1.0999999999999996,included_game_day
+2020,45,George Washington Revolutionaries,2019-11-12,-6.210000000000001,included_game_day
+2020,45,George Washington Revolutionaries,2019-11-16,-14.883000000000001,included_game_day
+2020,45,George Washington Revolutionaries,2019-11-22,-22.58383,included_game_day
+2020,45,George Washington Revolutionaries,2019-11-23,-13.535246999999998,included_game_day
+2020,45,George Washington Revolutionaries,2019-11-24,-9.861339329999998,included_game_day
+2020,45,George Washington Revolutionaries,2019-12-01,-13.577975746999998,included_game_day
+2020,45,George Washington Revolutionaries,2019-12-04,-18.0465363223,included_game_day
+2020,45,George Washington Revolutionaries,2019-12-07,-4.689152425870001,included_game_day
+2020,45,George Washington Revolutionaries,2019-12-21,-17.130130291966,included_game_day
+2020,45,George Washington Revolutionaries,2019-12-28,-9.730061553431632,included_game_day
+2020,45,George Washington Revolutionaries,2019-12-31,-25.814845842909314,included_game_day
+2020,45,George Washington Revolutionaries,2020-01-05,-28.728809694631682,included_game_day
+2020,45,George Washington Revolutionaries,2020-01-08,-23.597574667082263,included_game_day
+2020,45,George Washington Revolutionaries,2020-01-11,-22.32997563799042,included_game_day
+2020,45,George Washington Revolutionaries,2020-01-15,-16.24397424158509,included_game_day
+2020,45,George Washington Revolutionaries,2020-01-18,10.604323001313922,included_game_day
+2020,45,George Washington Revolutionaries,2020-01-22,3.1887956903596173,included_game_day
+2020,45,George Washington Revolutionaries,2020-01-25,9.341945685909332,included_game_day
+2020,45,George Washington Revolutionaries,2020-01-29,13.324407500401609,included_game_day
+2020,45,George Washington Revolutionaries,2020-02-01,-1.986349791673005,included_game_day
+2020,45,George Washington Revolutionaries,2020-02-05,-21.466968345178515,included_game_day
+2020,45,George Washington Revolutionaries,2020-02-08,-45.258239871742354,included_game_day
+2020,45,George Washington Revolutionaries,2020-02-15,-31.880322984196027,included_game_day
+2020,45,George Washington Revolutionaries,2020-02-19,-19.186903833029945,included_game_day
+2020,45,George Washington Revolutionaries,2020-02-22,-33.20344796846008,included_game_day
+2020,45,George Washington Revolutionaries,2020-02-26,-26.50501835339517,included_game_day
+2020,45,George Washington Revolutionaries,2020-02-29,-41.12690731969402,included_game_day
+2020,45,George Washington Revolutionaries,2020-03-04,-56.39667623652832,included_game_day
+2020,45,George Washington Revolutionaries,2020-03-07,-56.7435253949789,included_game_day
+2020,45,George Washington Revolutionaries,2020-03-11,-75.38632315880145,included_game_day
+2021,45,George Washington Revolutionaries,2020-11-25,-4.0,included_game_day
+2021,45,George Washington Revolutionaries,2020-12-01,-10.6,included_game_day
+2021,45,George Washington Revolutionaries,2020-12-05,2.76,included_game_day
+2021,45,George Washington Revolutionaries,2020-12-07,-4.036,included_game_day
+2021,45,George Washington Revolutionaries,2020-12-11,-4.616439999999999,included_game_day
+2021,45,George Washington Revolutionaries,2020-12-14,-8.804796,included_game_day
+2021,45,George Washington Revolutionaries,2020-12-22,-11.332613091999999,included_game_day
+2021,45,George Washington Revolutionaries,2020-12-30,16.800648217200003,included_game_day
+2021,45,George Washington Revolutionaries,2021-01-02,0.4855833954800026,included_game_day
+2021,45,George Washington Revolutionaries,2021-01-03,1.4335315381040021,included_game_day
+2021,45,George Washington Revolutionaries,2021-01-13,-3.4375014442208305,included_game_day
+2021,45,George Washington Revolutionaries,2021-01-17,-16.395812894758247,included_game_day
+2021,45,George Washington Revolutionaries,2021-02-21,-7.653534171981157,included_game_day
+2021,45,George Washington Revolutionaries,2021-02-24,-6.716417441239176,included_game_day
+2021,45,George Washington Revolutionaries,2021-02-26,-42.75509402121206,included_game_day
+2021,45,George Washington Revolutionaries,2021-03-03,-45.1568302802461,included_game_day
+2021,45,George Washington Revolutionaries,2021-03-04,-49.82495068376406,included_game_day
+2022,45,George Washington Revolutionaries,2021-11-09,0.0,included_game_day
+2022,45,George Washington Revolutionaries,2021-11-11,-2.9000000000000004,included_game_day
+2022,45,George Washington Revolutionaries,2021-11-13,-18.009999999999998,included_game_day
+2022,45,George Washington Revolutionaries,2021-11-16,-28.468999999999998,included_game_day
+2022,45,George Washington Revolutionaries,2021-11-19,-39.171842999999996,included_game_day
+2022,45,George Washington Revolutionaries,2021-11-22,-28.343658699999995,included_game_day
+2022,45,George Washington Revolutionaries,2021-11-23,-33.87071983,included_game_day
+2022,45,George Washington Revolutionaries,2021-11-24,-43.998813847,included_game_day
+2022,45,George Washington Revolutionaries,2021-12-01,-42.1718161823,included_game_day
+2022,45,George Washington Revolutionaries,2021-12-04,-45.10806404507,included_game_day
+2022,45,George Washington Revolutionaries,2021-12-08,-35.955949277238005,included_game_day
+2022,45,George Washington Revolutionaries,2021-12-13,-29.970802660761155,included_game_day
+2022,45,George Washington Revolutionaries,2022-01-08,-50.248492025399784,included_game_day
+2022,45,George Washington Revolutionaries,2022-01-11,-62.23531597234137,included_game_day
+2022,45,George Washington Revolutionaries,2022-01-17,-54.32361355548765,included_game_day
+2022,45,George Washington Revolutionaries,2022-01-19,-56.697933707838374,included_game_day
+2022,45,George Washington Revolutionaries,2022-01-22,-39.274287507225765,included_game_day
+2022,45,George Washington Revolutionaries,2022-01-26,-37.49622232310413,included_game_day
+2022,45,George Washington Revolutionaries,2022-01-30,-27.39220179630719,included_game_day
+2022,45,George Washington Revolutionaries,2022-02-02,-28.100709483882415,included_game_day
+2022,45,George Washington Revolutionaries,2022-02-05,-25.83736545102351,included_game_day
+2022,45,George Washington Revolutionaries,2022-02-09,-11.438062488302906,included_game_day
+2022,45,George Washington Revolutionaries,2022-02-12,-22.781453512593085,included_game_day
+2022,45,George Washington Revolutionaries,2022-02-16,-2.235162939544111,included_game_day
+2022,45,George Washington Revolutionaries,2022-02-19,8.280723760199052,included_game_day
+2022,45,George Washington Revolutionaries,2022-02-22,-4.02453690214017,included_game_day
+2022,45,George Washington Revolutionaries,2022-02-27,-4.823774651239299,included_game_day
+2022,45,George Washington Revolutionaries,2022-03-02,-12.361616733531598,included_game_day
+2022,45,George Washington Revolutionaries,2022-03-05,-13.59440560309525,included_game_day
+2022,45,George Washington Revolutionaries,2022-03-10,-24.899646038802736,included_game_day
+2023,45,George Washington Revolutionaries,2022-11-11,4.1,included_game_day
+2023,45,George Washington Revolutionaries,2022-11-14,2.9499999999999997,included_game_day
+2023,45,George Washington Revolutionaries,2022-11-18,0.4149999999999996,included_game_day
+2023,45,George Washington Revolutionaries,2022-11-22,-12.302570000000001,included_game_day
+2023,45,George Washington Revolutionaries,2022-11-26,5.268186999999999,included_game_day
+2023,45,George Washington Revolutionaries,2022-11-30,21.6414153,included_game_day
+2023,45,George Washington Revolutionaries,2022-12-04,13.276369129999999,included_game_day
+2023,45,George Washington Revolutionaries,2022-12-10,7.644303909549999,included_game_day
+2023,45,George Washington Revolutionaries,2022-12-13,10.290873821135799,included_game_day
+2023,45,George Washington Revolutionaries,2022-12-22,12.105901594956539,included_game_day
+2023,45,George Washington Revolutionaries,2022-12-23,-0.3879438739300056,included_game_day
+2023,45,George Washington Revolutionaries,2022-12-25,-19.648345364467623,included_game_day
+2023,45,George Washington Revolutionaries,2022-12-31,-4.80290445407358,included_game_day
+2023,45,George Washington Revolutionaries,2023-01-04,-7.981033143680589,included_game_day
+2023,45,George Washington Revolutionaries,2023-01-07,-0.9319457567260647,included_game_day
+2023,45,George Washington Revolutionaries,2023-01-14,-7.458397534600526,included_game_day
+2023,45,George Washington Revolutionaries,2023-01-16,2.9273458767504623,included_game_day
+2023,45,George Washington Revolutionaries,2023-01-21,15.989018502808541,included_game_day
+2023,45,George Washington Revolutionaries,2023-01-25,12.676328499967827,included_game_day
+2023,45,George Washington Revolutionaries,2023-01-28,1.5616456003958845,included_game_day
+2023,45,George Washington Revolutionaries,2023-02-01,-11.801879594890117,included_game_day
+2023,45,George Washington Revolutionaries,2023-02-04,-38.27315177564675,included_game_day
+2023,45,George Washington Revolutionaries,2023-02-08,-35.62166598180193,included_game_day
+2023,45,George Washington Revolutionaries,2023-02-11,-39.58701376324182,included_game_day
+2023,45,George Washington Revolutionaries,2023-02-15,-52.256724008072034,included_game_day
+2023,45,George Washington Revolutionaries,2023-02-19,-41.698926584997324,included_game_day
+2023,45,George Washington Revolutionaries,2023-02-22,-30.590686785863653,included_game_day
+2023,45,George Washington Revolutionaries,2023-02-25,-24.795500095618817,included_game_day
+2023,45,George Washington Revolutionaries,2023-03-01,-11.004556340542615,included_game_day
+2023,45,George Washington Revolutionaries,2023-03-04,-8.048391869778056,included_game_day
+2023,45,George Washington Revolutionaries,2023-03-08,-18.60019675886305,included_game_day
+2024,45,George Washington Revolutionaries,2023-11-06,42.0,included_game_day
+2024,45,George Washington Revolutionaries,2023-11-11,42.16,included_game_day
+2024,45,George Washington Revolutionaries,2023-11-14,45.013999999999996,included_game_day
+2024,45,George Washington Revolutionaries,2023-11-18,50.23459999999999,included_game_day
+2024,45,George Washington Revolutionaries,2023-11-24,52.47133999999999,included_game_day
+2024,45,George Washington Revolutionaries,2023-11-25,41.45208399999999,included_game_day
+2024,45,George Washington Revolutionaries,2023-11-26,49.687451499999995,included_game_day
+2024,45,George Washington Revolutionaries,2023-12-01,30.266946149999995,included_game_day
+2024,45,George Washington Revolutionaries,2023-12-05,26.347843959919995,included_game_day
+2024,45,George Washington Revolutionaries,2023-12-09,42.33090750378,included_game_day
+2024,45,George Washington Revolutionaries,2023-12-21,25.539299258727727,included_game_day
+2024,45,George Washington Revolutionaries,2023-12-30,15.173537833189094,included_game_day
+2024,45,George Washington Revolutionaries,2024-01-03,4.730238815057639,included_game_day
+2024,45,George Washington Revolutionaries,2024-01-06,12.420100743369028,included_game_day
+2024,45,George Washington Revolutionaries,2024-01-13,11.66822815112165,included_game_day
+2024,45,George Washington Revolutionaries,2024-01-15,24.975368438528832,included_game_day
+2024,45,George Washington Revolutionaries,2024-01-20,17.403666138704008,included_game_day
+2024,45,George Washington Revolutionaries,2024-01-24,16.9385457703455,included_game_day
+2024,45,George Washington Revolutionaries,2024-01-27,-0.849581509148063,included_game_day
+2024,45,George Washington Revolutionaries,2024-01-30,-9.549760687536278,included_game_day
+2024,45,George Washington Revolutionaries,2024-02-06,-39.19170847623782,included_game_day
+2024,45,George Washington Revolutionaries,2024-02-10,-40.22738611436877,included_game_day
+2024,45,George Washington Revolutionaries,2024-02-13,-51.97196022364962,included_game_day
+2024,45,George Washington Revolutionaries,2024-02-17,-60.02480339481657,included_game_day
+2024,45,George Washington Revolutionaries,2024-02-21,-52.47691267184906,included_game_day
+2024,45,George Washington Revolutionaries,2024-02-24,-52.21174986076461,included_game_day
+2024,45,George Washington Revolutionaries,2024-02-27,-55.45771456957007,included_game_day
+2024,45,George Washington Revolutionaries,2024-03-02,-53.39697733874654,included_game_day
+2024,45,George Washington Revolutionaries,2024-03-06,-32.15306787049876,included_game_day
+2024,45,George Washington Revolutionaries,2024-03-09,-21.999677910507863,included_game_day
+2024,45,George Washington Revolutionaries,2024-03-12,-21.263840289813576,included_game_day
+2025,45,George Washington Revolutionaries,2024-11-04,14.0,included_game_day
+2025,45,George Washington Revolutionaries,2024-11-08,37.6,included_game_day
+2025,45,George Washington Revolutionaries,2024-11-12,34.660000000000004,included_game_day
+2025,45,George Washington Revolutionaries,2024-11-18,42.03497,included_game_day
+2025,45,George Washington Revolutionaries,2024-11-22,27.111104,included_game_day
+2025,45,George Washington Revolutionaries,2024-11-23,26.003807600000002,included_game_day
+2025,45,George Washington Revolutionaries,2024-11-25,31.899669780000004,included_game_day
+2025,45,George Washington Revolutionaries,2024-11-29,34.28892612200001,included_game_day
+2025,45,George Washington Revolutionaries,2024-12-04,20.724663545800006,included_game_day
+2025,45,George Washington Revolutionaries,2024-12-07,21.733130508020004,included_game_day
+2025,45,George Washington Revolutionaries,2024-12-13,27.903503149082006,included_game_day
+2025,45,George Washington Revolutionaries,2024-12-18,40.4875312096038,included_game_day
+2025,45,George Washington Revolutionaries,2024-12-31,28.663245859461377,included_game_day
+2025,45,George Washington Revolutionaries,2025-01-04,50.08672084669419,included_game_day
+2025,45,George Washington Revolutionaries,2025-01-08,61.09181784673612,included_game_day
+2025,45,George Washington Revolutionaries,2025-01-15,46.32537024566311,included_game_day
+2025,45,George Washington Revolutionaries,2025-01-18,48.41293029417191,included_game_day
+2025,45,George Washington Revolutionaries,2025-01-22,33.07940645710579,included_game_day
+2025,45,George Washington Revolutionaries,2025-01-25,36.23657317158353,included_game_day
+2025,45,George Washington Revolutionaries,2025-01-29,35.27243823505524,included_game_day
+2025,45,George Washington Revolutionaries,2025-02-01,24.009021223416696,included_game_day
+2025,45,George Washington Revolutionaries,2025-02-05,23.048542394251974,included_game_day
+2025,45,George Washington Revolutionaries,2025-02-09,35.98882471881439,included_game_day
+2025,45,George Washington Revolutionaries,2025-02-12,36.10504703678954,included_game_day
+2025,45,George Washington Revolutionaries,2025-02-15,45.72073123153809,included_game_day
+2025,45,George Washington Revolutionaries,2025-02-19,34.11631336081223,included_game_day
+2025,45,George Washington Revolutionaries,2025-02-22,48.996931989537,included_game_day
+2025,45,George Washington Revolutionaries,2025-02-26,31.302100252858434,included_game_day
+2025,45,George Washington Revolutionaries,2025-03-01,29.086843062480966,included_game_day
+2025,45,George Washington Revolutionaries,2025-03-05,48.38460689526841,included_game_day
+2025,45,George Washington Revolutionaries,2025-03-13,46.061869961608764,included_game_day
+2025,45,George Washington Revolutionaries,2025-03-14,30.530519780669607,included_game_day
+2025,45,George Washington Revolutionaries,2025-03-31,7.5057671417412735,included_game_day
+2026,45,George Washington Revolutionaries,2025-11-03,17.0,included_game_day
+2026,45,George Washington Revolutionaries,2025-11-08,22.5,included_game_day
+2026,45,George Washington Revolutionaries,2025-11-12,56.56,included_game_day
+2026,45,George Washington Revolutionaries,2025-11-15,69.764,included_game_day
+2026,45,George Washington Revolutionaries,2025-11-19,96.7393,included_game_day
+2026,45,George Washington Revolutionaries,2025-11-23,82.43407,included_game_day
+2026,45,George Washington Revolutionaries,2025-11-24,86.9120145,included_game_day
+2026,45,George Washington Revolutionaries,2025-11-25,80.4080585,included_game_day
+2026,45,George Washington Revolutionaries,2025-12-02,81.413847553,included_game_day
+2026,45,George Washington Revolutionaries,2025-12-06,87.72942142389999,included_game_day
+2026,45,George Washington Revolutionaries,2025-12-10,59.385675511109994,included_game_day
+2026,45,George Washington Revolutionaries,2025-12-13,52.397092688497,included_game_day
+2026,45,George Washington Revolutionaries,2025-12-31,69.36398333330813,included_game_day
+2026,45,George Washington Revolutionaries,2026-01-03,75.89655926450926,included_game_day
+2026,45,George Washington Revolutionaries,2026-01-06,70.25240801794278,included_game_day
+2026,45,George Washington Revolutionaries,2026-01-10,89.80516023315165,included_game_day
+2026,45,George Washington Revolutionaries,2026-01-14,71.99345264065555,included_game_day
+2026,45,George Washington Revolutionaries,2026-01-19,69.21778955034317,included_game_day
+2026,45,George Washington Revolutionaries,2026-01-24,78.86611768112415,included_game_day
+2026,45,George Washington Revolutionaries,2026-01-27,89.39409429343975,included_game_day
+2026,45,George Washington Revolutionaries,2026-01-31,63.17852349486325,included_game_day
+2026,45,George Washington Revolutionaries,2026-02-04,59.96188800163611,included_game_day
+2026,45,George Washington Revolutionaries,2026-02-07,59.882188890764596,included_game_day
+2026,45,George Washington Revolutionaries,2026-02-10,59.269125061697196,included_game_day
+2026,45,George Washington Revolutionaries,2026-02-13,73.0571105695849,included_game_day
+2026,45,George Washington Revolutionaries,2026-02-17,64.91249420814671,included_game_day
+2026,45,George Washington Revolutionaries,2026-02-24,86.9522004036792,included_game_day
+2026,45,George Washington Revolutionaries,2026-02-27,80.57850371961065,included_game_day
+2026,45,George Washington Revolutionaries,2026-03-04,78.89960161436271,included_game_day
+2026,45,George Washington Revolutionaries,2026-03-07,62.27886934128659,included_game_day
+2026,45,George Washington Revolutionaries,2026-03-12,61.89983372006166,included_game_day
+2026,45,George Washington Revolutionaries,2026-03-13,58.55618377286643,included_game_day
+2026,45,George Washington Revolutionaries,2026-03-18,61.915841569193596,included_game_day
+2026,45,George Washington Revolutionaries,2026-03-22,43.7499165536501,included_game_day
+2027,45,George Washington Revolutionaries,2026-11-02,49.0,included_game_day
+2027,45,George Washington Revolutionaries,2026-11-07,53.4,included_game_day
+2027,45,George Washington Revolutionaries,2026-11-10,66.1,included_game_day
+2027,45,George Washington Revolutionaries,2026-11-13,84.151,included_game_day
+2027,45,George Washington Revolutionaries,2026-11-20,72.04977099999999,included_game_day
+2027,45,George Washington Revolutionaries,2026-11-22,60.10769049999999,included_game_day

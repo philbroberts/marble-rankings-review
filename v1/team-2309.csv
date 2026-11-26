@@ -1,0 +1,1189 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,2309,Kent,1987-12-05,-2.598,included_game_day
+1988,2309,Kent,1987-12-09,-9.712316000000001,included_game_day
+1988,2309,Kent,1987-12-12,6.791766599999999,included_game_day
+1988,2309,Kent,1987-12-19,3.249731679999999,included_game_day
+1988,2309,Kent,1987-12-30,-6.134805783350701,included_game_day
+1988,2309,Kent,1988-01-02,-4.1730784194756305,included_game_day
+1988,2309,Kent,1988-01-06,-5.436301997452068,included_game_day
+1988,2309,Kent,1988-01-09,-5.546011340220613,included_game_day
+1988,2309,Kent,1988-01-13,-8.730874939385256,included_game_day
+1988,2309,Kent,1988-01-16,-2.601277764731277,included_game_day
+1988,2309,Kent,1988-01-20,-3.9790489654095564,included_game_day
+1988,2309,Kent,1988-01-23,-20.524666879643572,included_game_day
+1988,2309,Kent,1988-01-26,-38.29107731751053,included_game_day
+1988,2309,Kent,1988-01-30,-39.747239924179844,included_game_day
+1988,2309,Kent,1988-02-03,-40.62603747946511,included_game_day
+1988,2309,Kent,1988-02-06,-39.88248499588755,included_game_day
+1988,2309,Kent,1988-02-10,-44.0636655372941,included_game_day
+1988,2309,Kent,1988-02-13,-67.748950315893,included_game_day
+1988,2309,Kent,1988-02-17,-53.28601106553956,included_game_day
+1988,2309,Kent,1988-02-20,-49.92258387485401,included_game_day
+1988,2309,Kent,1988-02-27,-49.161596380012014,included_game_day
+1988,2309,Kent,1988-03-02,-59.33654635403639,included_game_day
+1988,2309,Kent,1988-03-05,-65.89533248270911,included_game_day
+1988,2309,Kent,1988-03-08,-65.58718749900953,included_game_day
+1989,2309,Kent,1988-11-25,-4.0,included_game_day
+1989,2309,Kent,1988-11-26,-7.9,included_game_day
+1989,2309,Kent,1988-11-30,-11.280000000000001,included_game_day
+1989,2309,Kent,1988-12-03,-6.252000000000001,included_game_day
+1989,2309,Kent,1988-12-07,7.761199999999999,included_game_day
+1989,2309,Kent,1988-12-10,6.206662999999998,included_game_day
+1989,2309,Kent,1988-12-17,10.999384833299999,included_game_day
+1989,2309,Kent,1988-12-22,-3.911910056872001,included_game_day
+1989,2309,Kent,1988-12-29,9.446431427037657,included_game_day
+1989,2309,Kent,1988-12-30,20.700777321996327,included_game_day
+1989,2309,Kent,1989-01-04,23.68247909931828,included_game_day
+1989,2309,Kent,1989-01-07,22.8576819417138,included_game_day
+1989,2309,Kent,1989-01-11,21.694050544649272,included_game_day
+1989,2309,Kent,1989-01-14,9.849567665140302,included_game_day
+1989,2309,Kent,1989-01-17,25.313094268975686,included_game_day
+1989,2309,Kent,1989-01-21,28.71835732659428,included_game_day
+1989,2309,Kent,1989-01-25,18.319524907834047,included_game_day
+1989,2309,Kent,1989-01-28,7.5734558219049575,included_game_day
+1989,2309,Kent,1989-02-01,22.50367719852931,included_game_day
+1989,2309,Kent,1989-02-04,9.488590890360499,included_game_day
+1989,2309,Kent,1989-02-08,12.230772193082373,included_game_day
+1989,2309,Kent,1989-02-11,30.588725880635902,included_game_day
+1989,2309,Kent,1989-02-18,36.17015937920213,included_game_day
+1989,2309,Kent,1989-02-22,24.625325501749565,included_game_day
+1989,2309,Kent,1989-02-25,36.01344022189028,included_game_day
+1989,2309,Kent,1989-03-01,54.97576622674771,included_game_day
+1989,2309,Kent,1989-03-04,66.35037032210876,included_game_day
+1989,2309,Kent,1989-03-09,64.34677412965671,included_game_day
+1989,2309,Kent,1989-03-10,104.63814400906753,included_game_day
+1989,2309,Kent,1989-03-12,100.8435894905108,included_game_day
+1989,2309,Kent,1989-03-15,85.01753689143747,included_game_day
+1990,2309,Kent,1989-11-28,-7.2,included_game_day
+1990,2309,Kent,1989-12-01,5.2,included_game_day
+1990,2309,Kent,1989-12-02,10.007000000000001,included_game_day
+1990,2309,Kent,1989-12-06,31.16167,included_game_day
+1990,2309,Kent,1989-12-09,47.228703,included_game_day
+1990,2309,Kent,1989-12-19,43.95340284,included_game_day
+1990,2309,Kent,1989-12-23,44.799217651970004,included_game_day
+1990,2309,Kent,1989-12-29,41.037489438583,included_game_day
+1990,2309,Kent,1989-12-30,46.1768750546137,included_game_day
+1990,2309,Kent,1990-01-03,34.019476668304435,included_game_day
+1990,2309,Kent,1990-01-06,36.0230172475238,included_game_day
+1990,2309,Kent,1990-01-13,49.05036749533491,included_game_day
+1990,2309,Kent,1990-01-17,55.37584685533551,included_game_day
+1990,2309,Kent,1990-01-20,45.96216573283456,included_game_day
+1990,2309,Kent,1990-01-24,38.94348735155512,included_game_day
+1990,2309,Kent,1990-01-27,48.23819081667433,included_game_day
+1990,2309,Kent,1990-01-31,47.917310487013964,included_game_day
+1990,2309,Kent,1990-02-03,39.74661686461273,included_game_day
+1990,2309,Kent,1990-02-07,48.547246489738754,included_game_day
+1990,2309,Kent,1990-02-10,60.59275876914879,included_game_day
+1990,2309,Kent,1990-02-14,40.037463823948755,included_game_day
+1990,2309,Kent,1990-02-17,65.64342923773441,included_game_day
+1990,2309,Kent,1990-02-21,59.42622958815964,included_game_day
+1990,2309,Kent,1990-02-24,52.35166528352223,included_game_day
+1990,2309,Kent,1990-02-28,54.40632601935641,included_game_day
+1990,2309,Kent,1990-03-03,62.9903592296721,included_game_day
+1990,2309,Kent,1990-03-09,40.49546243684625,included_game_day
+1990,2309,Kent,1990-03-15,30.681528266204225,included_game_day
+1991,2309,Kent,1990-11-23,12.0,included_game_day
+1991,2309,Kent,1990-11-24,-11.600000000000001,included_game_day
+1991,2309,Kent,1990-11-29,-30.78,included_game_day
+1991,2309,Kent,1990-12-01,-14.214200000000002,included_game_day
+1991,2309,Kent,1990-12-04,-16.30148,included_game_day
+1991,2309,Kent,1990-12-07,-25.537512,included_game_day
+1991,2309,Kent,1990-12-08,-19.1390788,included_game_day
+1991,2309,Kent,1990-12-22,-5.335509872207,included_game_day
+1991,2309,Kent,1991-01-02,-6.3481832224379815,included_game_day
+1991,2309,Kent,1991-01-05,3.7965668838113675,included_game_day
+1991,2309,Kent,1991-01-09,6.404676044839519,included_game_day
+1991,2309,Kent,1991-01-12,-4.083608344739243,included_game_day
+1991,2309,Kent,1991-01-16,-16.61575960979555,included_game_day
+1991,2309,Kent,1991-01-19,-20.399889199056027,included_game_day
+1991,2309,Kent,1991-01-23,-21.040122965146338,included_game_day
+1991,2309,Kent,1991-01-26,-22.9444700420712,included_game_day
+1991,2309,Kent,1991-01-30,-1.8684340089357292,included_game_day
+1991,2309,Kent,1991-02-02,0.3259011393820104,included_game_day
+1991,2309,Kent,1991-02-06,-1.5859925118493305,included_game_day
+1991,2309,Kent,1991-02-09,-11.53138115306919,included_game_day
+1991,2309,Kent,1991-02-13,0.26620139361518547,included_game_day
+1991,2309,Kent,1991-02-16,1.3407847061729044,included_game_day
+1991,2309,Kent,1991-02-20,12.720503426939878,included_game_day
+1991,2309,Kent,1991-02-23,-9.880058192202611,included_game_day
+1991,2309,Kent,1991-02-27,-20.57806867907742,included_game_day
+1991,2309,Kent,1991-03-02,-20.698453673290928,included_game_day
+1991,2309,Kent,1991-03-08,-26.281035812021685,included_game_day
+1992,2309,Kent,1991-12-03,-0.07109999999999994,included_game_day
+1992,2309,Kent,1991-12-06,-8.481975,included_game_day
+1992,2309,Kent,1991-12-07,-26.0920475,included_game_day
+1992,2309,Kent,1991-12-11,-27.004531749999998,included_game_day
+1992,2309,Kent,1991-12-14,1.217698557320002,included_game_day
+1992,2309,Kent,1991-12-21,-5.344671298411998,included_game_day
+1992,2309,Kent,1991-12-27,-23.40535788044922,included_game_day
+1992,2309,Kent,1991-12-28,-30.327809133326298,included_game_day
+1992,2309,Kent,1992-01-02,-25.832844190553466,included_game_day
+1992,2309,Kent,1992-01-08,-2.368143743648403,included_game_day
+1992,2309,Kent,1992-01-11,-3.6493374829700205,included_game_day
+1992,2309,Kent,1992-01-15,-19.80070095083775,included_game_day
+1992,2309,Kent,1992-01-18,-22.489604991900368,included_game_day
+1992,2309,Kent,1992-01-22,-12.101154868641329,included_game_day
+1992,2309,Kent,1992-01-25,-23.45243587502599,included_game_day
+1992,2309,Kent,1992-01-29,-16.758990938891554,included_game_day
+1992,2309,Kent,1992-02-01,-18.17032268043457,included_game_day
+1992,2309,Kent,1992-02-05,-13.740209340374024,included_game_day
+1992,2309,Kent,1992-02-08,-25.5587774273053,included_game_day
+1992,2309,Kent,1992-02-12,-18.148697840793275,included_game_day
+1992,2309,Kent,1992-02-15,-18.887187669881975,included_game_day
+1992,2309,Kent,1992-02-19,-10.200422123470041,included_game_day
+1992,2309,Kent,1992-02-22,-13.96512315399958,included_game_day
+1992,2309,Kent,1992-02-26,-16.161756575213477,included_game_day
+1992,2309,Kent,1992-02-29,-4.862749768066271,included_game_day
+1992,2309,Kent,1992-03-07,6.869235129122412,included_game_day
+1992,2309,Kent,1992-03-13,6.153222914694924,included_game_day
+1993,2309,Kent,1992-12-04,12.0,included_game_day
+1993,2309,Kent,1992-12-05,-7.300000000000001,included_game_day
+1993,2309,Kent,1992-12-09,-18.7025,included_game_day
+1993,2309,Kent,1992-12-12,-14.504884,included_game_day
+1993,2309,Kent,1992-12-21,-9.758146343020002,included_game_day
+1993,2309,Kent,1992-12-28,-7.800741708718002,included_game_day
+1993,2309,Kent,1992-12-30,-13.588282626446201,included_game_day
+1993,2309,Kent,1993-01-02,-33.87797012980158,included_game_day
+1993,2309,Kent,1993-01-06,-39.591295331815225,included_game_day
+1993,2309,Kent,1993-01-09,-39.99592486532934,included_game_day
+1993,2309,Kent,1993-01-13,-36.55251250670647,included_game_day
+1993,2309,Kent,1993-01-16,-43.51003329125273,included_game_day
+1993,2309,Kent,1993-01-20,-44.646133050344055,included_game_day
+1993,2309,Kent,1993-01-23,-37.97057734889604,included_game_day
+1993,2309,Kent,1993-01-27,-25.721947646296176,included_game_day
+1993,2309,Kent,1993-01-30,-26.618352088099954,included_game_day
+1993,2309,Kent,1993-02-03,-37.9728211237572,included_game_day
+1993,2309,Kent,1993-02-06,-37.278770422663214,included_game_day
+1993,2309,Kent,1993-02-10,-8.88620014802764,included_game_day
+1993,2309,Kent,1993-02-13,-8.2338376284988,included_game_day
+1993,2309,Kent,1993-02-17,-4.860687651501275,included_game_day
+1993,2309,Kent,1993-02-20,-11.805813594082254,included_game_day
+1993,2309,Kent,1993-02-24,-15.01698542140262,included_game_day
+1993,2309,Kent,1993-02-27,-25.611430096340037,included_game_day
+1993,2309,Kent,1993-03-03,-48.091484163337,included_game_day
+1993,2309,Kent,1993-03-06,-28.39208499083677,included_game_day
+1993,2309,Kent,1993-03-11,-41.16835604641061,included_game_day
+1994,2309,Kent,1993-12-01,20.0,included_game_day
+1994,2309,Kent,1993-12-04,25.8,included_game_day
+1994,2309,Kent,1993-12-07,33.5919,included_game_day
+1994,2309,Kent,1993-12-11,45.84921,included_game_day
+1994,2309,Kent,1993-12-18,13.067973371,included_game_day
+1994,2309,Kent,1993-12-23,7.919806037070001,included_game_day
+1994,2309,Kent,1993-12-28,-13.292843106637001,included_game_day
+1994,2309,Kent,1993-12-30,14.1759137881267,included_game_day
+1994,2309,Kent,1994-01-03,19.074605499538126,included_game_day
+1994,2309,Kent,1994-01-08,25.56370661143858,included_game_day
+1994,2309,Kent,1994-01-12,8.691083385272687,included_game_day
+1994,2309,Kent,1994-01-15,2.320638753385964,included_game_day
+1994,2309,Kent,1994-01-19,2.49135536818671,included_game_day
+1994,2309,Kent,1994-01-22,-7.860277207857143,included_game_day
+1994,2309,Kent,1994-01-25,-26.17200712420547,included_game_day
+1994,2309,Kent,1994-01-29,-6.503682994987116,included_game_day
+1994,2309,Kent,1994-02-02,-34.487425541080874,included_game_day
+1994,2309,Kent,1994-02-05,-27.68065805089917,included_game_day
+1994,2309,Kent,1994-02-09,-31.133369374470497,included_game_day
+1994,2309,Kent,1994-02-12,-3.94794095237782,included_game_day
+1994,2309,Kent,1994-02-16,-0.7578145928913402,included_game_day
+1994,2309,Kent,1994-02-19,-13.985913640986595,included_game_day
+1994,2309,Kent,1994-02-23,-8.981574846194185,included_game_day
+1994,2309,Kent,1994-02-26,-11.083541118886583,included_game_day
+1994,2309,Kent,1994-03-02,-1.389038621425012,included_game_day
+1994,2309,Kent,1994-03-05,-14.013386983125303,included_game_day
+1994,2309,Kent,1994-03-08,-15.836044407228657,included_game_day
+1995,2309,Kent,1994-12-02,-27.893,included_game_day
+1995,2309,Kent,1994-12-03,-14.2467,included_game_day
+1995,2309,Kent,1994-12-07,-25.982129999999998,included_game_day
+1995,2309,Kent,1994-12-10,-21.265386999999997,included_game_day
+1995,2309,Kent,1994-12-19,-26.835926934,included_game_day
+1995,2309,Kent,1994-12-22,-44.73364631215,included_game_day
+1995,2309,Kent,1994-12-28,-41.850428188365,included_game_day
+1995,2309,Kent,1994-12-30,-47.31537842345722,included_game_day
+1995,2309,Kent,1995-01-04,-46.849854121819995,included_game_day
+1995,2309,Kent,1995-01-07,-37.429849118189196,included_game_day
+1995,2309,Kent,1995-01-11,-49.266765338142264,included_game_day
+1995,2309,Kent,1995-01-14,-53.4942004783919,included_game_day
+1995,2309,Kent,1995-01-18,-58.62453960889679,included_game_day
+1995,2309,Kent,1995-01-21,-64.19975488406473,included_game_day
+1995,2309,Kent,1995-01-25,-55.78309422084935,included_game_day
+1995,2309,Kent,1995-01-28,-60.19538836967602,included_game_day
+1995,2309,Kent,1995-02-01,-73.0419530174477,included_game_day
+1995,2309,Kent,1995-02-04,-61.15225338925653,included_game_day
+1995,2309,Kent,1995-02-08,-62.22790882003461,included_game_day
+1995,2309,Kent,1995-02-11,-59.12914608019585,included_game_day
+1995,2309,Kent,1995-02-15,-55.6167626763538,included_game_day
+1995,2309,Kent,1995-02-18,-55.70476513182938,included_game_day
+1995,2309,Kent,1995-02-22,-59.36384640173702,included_game_day
+1995,2309,Kent,1995-02-25,-81.09633754338006,included_game_day
+1995,2309,Kent,1995-03-01,-53.10573891239324,included_game_day
+1995,2309,Kent,1995-03-04,-44.33517162694241,included_game_day
+1995,2309,Kent,1995-03-07,-52.318717798581744,included_game_day
+1996,2309,Kent,1995-11-25,14.0,included_game_day
+1996,2309,Kent,1995-11-29,33.6,included_game_day
+1996,2309,Kent,1995-12-02,38.421,included_game_day
+1996,2309,Kent,1995-12-09,22.146488899999998,included_game_day
+1996,2309,Kent,1995-12-23,22.79487386299,included_game_day
+1996,2309,Kent,1995-12-29,7.338607318571999,included_game_day
+1996,2309,Kent,1995-12-30,-3.201687478741201,included_game_day
+1996,2309,Kent,1996-01-03,-1.7588147243767338,included_game_day
+1996,2309,Kent,1996-01-06,-11.77237961301929,included_game_day
+1996,2309,Kent,1996-01-10,-12.240770581114681,included_game_day
+1996,2309,Kent,1996-01-13,-13.919545109579902,included_game_day
+1996,2309,Kent,1996-01-17,0.6121865056008513,included_game_day
+1996,2309,Kent,1996-01-20,3.2896378832286635,included_game_day
+1996,2309,Kent,1996-01-24,-7.2462663633905775,included_game_day
+1996,2309,Kent,1996-01-27,-8.559323447433577,included_game_day
+1996,2309,Kent,1996-01-31,1.771614597473512,included_game_day
+1996,2309,Kent,1996-02-03,1.324442965300425,included_game_day
+1996,2309,Kent,1996-02-07,-1.5989650390681944,included_game_day
+1996,2309,Kent,1996-02-10,-19.654056822967917,included_game_day
+1996,2309,Kent,1996-02-14,-3.5235213161292975,included_game_day
+1996,2309,Kent,1996-02-17,-18.37922539714545,included_game_day
+1996,2309,Kent,1996-02-21,3.0274937325394475,included_game_day
+1996,2309,Kent,1996-02-24,25.282426468003983,included_game_day
+1996,2309,Kent,1996-02-28,15.651805771025062,included_game_day
+1996,2309,Kent,1996-03-02,7.0546399673462545,included_game_day
+1996,2309,Kent,1996-03-05,3.240583125691437,included_game_day
+1997,2309,Kent,1996-11-26,-17.0,included_game_day
+1997,2309,Kent,1996-11-30,-25.03,included_game_day
+1997,2309,Kent,1996-12-03,-35.7233,included_game_day
+1997,2309,Kent,1996-12-07,-40.34141,included_game_day
+1997,2309,Kent,1996-12-27,-43.933180443864,included_game_day
+1997,2309,Kent,1996-12-28,-51.731717760803605,included_game_day
+1997,2309,Kent,1997-01-04,-54.5802796247289,included_game_day
+1997,2309,Kent,1997-01-08,-48.90560189646721,included_game_day
+1997,2309,Kent,1997-01-11,-32.147494076369114,included_game_day
+1997,2309,Kent,1997-01-13,-43.34498986994038,included_game_day
+1997,2309,Kent,1997-01-15,-47.66701153121848,included_game_day
+1997,2309,Kent,1997-01-18,-33.23862171196033,included_game_day
+1997,2309,Kent,1997-01-22,-30.47507426644459,included_game_day
+1997,2309,Kent,1997-01-25,-15.600041133078294,included_game_day
+1997,2309,Kent,1997-01-29,-14.34614623836394,included_game_day
+1997,2309,Kent,1997-02-01,-15.044400865281148,included_game_day
+1997,2309,Kent,1997-02-05,-11.749360304234452,included_game_day
+1997,2309,Kent,1997-02-08,-24.081347295831975,included_game_day
+1997,2309,Kent,1997-02-12,-17.25224841624241,included_game_day
+1997,2309,Kent,1997-02-15,-10.583195033034174,included_game_day
+1997,2309,Kent,1997-02-19,3.0524327764053805,included_game_day
+1997,2309,Kent,1997-02-24,-13.022935816056782,included_game_day
+1997,2309,Kent,1997-02-26,-38.29703421366635,included_game_day
+1997,2309,Kent,1997-03-01,-50.284556068114085,included_game_day
+1997,2309,Kent,1997-03-04,-44.282658523083825,included_game_day
+1998,2309,Kent,1997-11-19,-3.0,included_game_day
+1998,2309,Kent,1997-11-25,-21.95,included_game_day
+1998,2309,Kent,1997-11-29,-14.9636,included_game_day
+1998,2309,Kent,1997-12-02,-21.809739999999998,included_game_day
+1998,2309,Kent,1997-12-06,-20.641870499999996,included_game_day
+1998,2309,Kent,1997-12-10,-13.295707605999997,included_game_day
+1998,2309,Kent,1997-12-20,-14.297944658413996,included_game_day
+1998,2309,Kent,1997-12-28,-17.940167102243915,included_game_day
+1998,2309,Kent,1997-12-30,-18.289327240568355,included_game_day
+1998,2309,Kent,1998-01-03,-26.820473418863955,included_game_day
+1998,2309,Kent,1998-01-05,-37.50443353069103,included_game_day
+1998,2309,Kent,1998-01-08,-28.55761424344114,included_game_day
+1998,2309,Kent,1998-01-10,-24.797593654067924,included_game_day
+1998,2309,Kent,1998-01-14,-40.13833298115256,included_game_day
+1998,2309,Kent,1998-01-17,-39.08635965796086,included_game_day
+1998,2309,Kent,1998-01-24,-58.49086451771118,included_game_day
+1998,2309,Kent,1998-01-29,-60.11682355743273,included_game_day
+1998,2309,Kent,1998-01-31,-73.08282492847155,included_game_day
+1998,2309,Kent,1998-02-05,-58.99518796587105,included_game_day
+1998,2309,Kent,1998-02-07,-56.44177465839118,included_game_day
+1998,2309,Kent,1998-02-11,-40.33253412945845,included_game_day
+1998,2309,Kent,1998-02-14,-34.29910473982911,included_game_day
+1998,2309,Kent,1998-02-19,-39.527189930382846,included_game_day
+1998,2309,Kent,1998-02-23,-13.732196700673992,included_game_day
+1998,2309,Kent,1998-02-25,-39.1934698422563,included_game_day
+1998,2309,Kent,1998-02-28,-19.939444364210686,included_game_day
+1998,2309,Kent,1998-03-03,-19.32322042747913,included_game_day
+1999,2309,Kent,1998-11-14,-13.0,included_game_day
+1999,2309,Kent,1998-11-18,-3.6999999999999993,included_game_day
+1999,2309,Kent,1998-11-22,14.030000000000001,included_game_day
+1999,2309,Kent,1998-11-28,19.093600000000002,included_game_day
+1999,2309,Kent,1998-12-02,24.93316,included_game_day
+1999,2309,Kent,1998-12-05,33.51253806,included_game_day
+1999,2309,Kent,1998-12-12,35.252424433899996,included_game_day
+1999,2309,Kent,1998-12-19,30.713986480265994,included_game_day
+1999,2309,Kent,1998-12-21,29.372752202692794,included_game_day
+1999,2309,Kent,1998-12-30,27.604968178437293,included_game_day
+1999,2309,Kent,1999-01-02,20.44974733603714,included_game_day
+1999,2309,Kent,1999-01-06,29.11065163838775,included_game_day
+1999,2309,Kent,1999-01-09,30.82641926067605,included_game_day
+1999,2309,Kent,1999-01-16,29.39391073467604,included_game_day
+1999,2309,Kent,1999-01-20,38.849557669948396,included_game_day
+1999,2309,Kent,1999-01-23,30.9476864704438,included_game_day
+1999,2309,Kent,1999-01-27,33.37191727574908,included_game_day
+1999,2309,Kent,1999-01-30,33.42360189288437,included_game_day
+1999,2309,Kent,1999-02-03,34.251798879873306,included_game_day
+1999,2309,Kent,1999-02-06,42.09512449029106,included_game_day
+1999,2309,Kent,1999-02-10,63.95000720646357,included_game_day
+1999,2309,Kent,1999-02-13,72.26887640332782,included_game_day
+1999,2309,Kent,1999-02-20,83.10967231213367,included_game_day
+1999,2309,Kent,1999-02-24,72.5057031377173,included_game_day
+1999,2309,Kent,1999-02-27,68.42140092810621,included_game_day
+1999,2309,Kent,1999-03-02,80.08341462147774,included_game_day
+1999,2309,Kent,1999-03-03,88.3750589994861,included_game_day
+1999,2309,Kent,1999-03-12,84.81723122088016,included_game_day
+2000,2309,Kent,1999-11-23,16.6,included_game_day
+2000,2309,Kent,1999-12-04,29.996740000000003,included_game_day
+2000,2309,Kent,1999-12-08,31.38192,included_game_day
+2000,2309,Kent,1999-12-11,44.4747727887,included_game_day
+2000,2309,Kent,1999-12-21,61.732642906733105,included_game_day
+2000,2309,Kent,1999-12-28,64.7495228049188,included_game_day
+2000,2309,Kent,1999-12-29,77.91880631277994,included_game_day
+2000,2309,Kent,2000-01-02,79.00305836398981,included_game_day
+2000,2309,Kent,2000-01-05,73.46995892301823,included_game_day
+2000,2309,Kent,2000-01-08,63.216997770922845,included_game_day
+2000,2309,Kent,2000-01-12,74.83861731379059,included_game_day
+2000,2309,Kent,2000-01-15,89.24012198773406,included_game_day
+2000,2309,Kent,2000-01-17,103.15085169576668,included_game_day
+2000,2309,Kent,2000-01-19,114.65893288791602,included_game_day
+2000,2309,Kent,2000-01-22,106.14542841959735,included_game_day
+2000,2309,Kent,2000-01-26,113.8502678851594,included_game_day
+2000,2309,Kent,2000-01-29,85.85451608068081,included_game_day
+2000,2309,Kent,2000-01-31,79.82719811993258,included_game_day
+2000,2309,Kent,2000-02-05,74.90915866376403,included_game_day
+2000,2309,Kent,2000-02-07,78.20086742797417,included_game_day
+2000,2309,Kent,2000-02-09,79.48101557864285,included_game_day
+2000,2309,Kent,2000-02-12,78.90300390161254,included_game_day
+2000,2309,Kent,2000-02-16,66.49585967615161,included_game_day
+2000,2309,Kent,2000-02-19,87.03019185872157,included_game_day
+2000,2309,Kent,2000-02-26,76.15364447533211,included_game_day
+2000,2309,Kent,2000-03-05,74.52207182232658,included_game_day
+2000,2309,Kent,2000-03-16,78.1173453342291,included_game_day
+2000,2309,Kent,2000-03-20,93.56829675475149,included_game_day
+2000,2309,Kent,2000-03-22,86.62203022892842,included_game_day
+2001,2309,Kent,2000-11-25,-8.704,included_game_day
+2001,2309,Kent,2000-11-29,-4.727600000000001,included_game_day
+2001,2309,Kent,2000-12-01,-6.313840000000001,included_game_day
+2001,2309,Kent,2000-12-02,4.0696207,included_game_day
+2001,2309,Kent,2000-12-06,22.567906530000002,included_game_day
+2001,2309,Kent,2000-12-09,37.643853074000006,included_game_day
+2001,2309,Kent,2000-12-20,45.936785298192106,included_game_day
+2001,2309,Kent,2000-12-21,43.484347674918695,included_game_day
+2001,2309,Kent,2000-12-22,46.50048377832933,included_game_day
+2001,2309,Kent,2000-12-30,38.54936264025323,included_game_day
+2001,2309,Kent,2001-01-03,39.93501097169058,included_game_day
+2001,2309,Kent,2001-01-06,41.44854079529311,included_game_day
+2001,2309,Kent,2001-01-08,40.66719504237597,included_game_day
+2001,2309,Kent,2001-01-10,54.658803658216826,included_game_day
+2001,2309,Kent,2001-01-17,51.84070935319801,included_game_day
+2001,2309,Kent,2001-01-20,68.57850958031875,included_game_day
+2001,2309,Kent,2001-01-24,83.50694078976515,included_game_day
+2001,2309,Kent,2001-01-27,94.63985035233921,included_game_day
+2001,2309,Kent,2001-01-30,83.42766219408432,included_game_day
+2001,2309,Kent,2001-02-03,93.37017806047432,included_game_day
+2001,2309,Kent,2001-02-07,79.63362583616923,included_game_day
+2001,2309,Kent,2001-02-11,81.54578698129177,included_game_day
+2001,2309,Kent,2001-02-14,85.17310452742078,included_game_day
+2001,2309,Kent,2001-02-17,89.25943353407536,included_game_day
+2001,2309,Kent,2001-02-20,94.2123770709098,included_game_day
+2001,2309,Kent,2001-02-24,77.11046303865481,included_game_day
+2001,2309,Kent,2001-02-28,93.61695717050519,included_game_day
+2001,2309,Kent,2001-03-03,73.73537412631963,included_game_day
+2001,2309,Kent,2001-03-08,76.11818874379307,included_game_day
+2001,2309,Kent,2001-03-09,85.75604532277488,included_game_day
+2001,2309,Kent,2001-03-10,85.18320080165891,included_game_day
+2001,2309,Kent,2001-03-15,96.49112534850089,included_game_day
+2001,2309,Kent,2001-03-17,77.59918954553908,included_game_day
+2002,2309,Kent State Golden Flashes,2001-11-23,-0.10000000000000009,included_game_day
+2002,2309,Kent State Golden Flashes,2001-11-24,26.4153,included_game_day
+2002,2309,Kent State Golden Flashes,2001-11-25,31.5769,included_game_day
+2002,2309,Kent State Golden Flashes,2001-12-01,45.30281,included_game_day
+2002,2309,Kent State Golden Flashes,2001-12-15,30.463629973,included_game_day
+2002,2309,Kent State Golden Flashes,2001-12-20,30.6972467854838,included_game_day
+2002,2309,Kent State Golden Flashes,2001-12-22,43.65216543915142,included_game_day
+2002,2309,Kent State Golden Flashes,2001-12-29,48.99798172792574,included_game_day
+2002,2309,Kent State Golden Flashes,2001-12-31,57.93853791020871,included_game_day
+2002,2309,Kent State Golden Flashes,2002-01-02,83.43141028893729,included_game_day
+2002,2309,Kent State Golden Flashes,2002-01-05,81.84883526027046,included_game_day
+2002,2309,Kent State Golden Flashes,2002-01-09,77.84446768025694,included_game_day
+2002,2309,Kent State Golden Flashes,2002-01-12,85.80963722900617,included_game_day
+2002,2309,Kent State Golden Flashes,2002-01-16,100.67610426058457,included_game_day
+2002,2309,Kent State Golden Flashes,2002-01-19,88.93894023110542,included_game_day
+2002,2309,Kent State Golden Flashes,2002-01-22,116.75640454752947,included_game_day
+2002,2309,Kent State Golden Flashes,2002-01-26,116.8043827061788,included_game_day
+2002,2309,Kent State Golden Flashes,2002-01-29,116.25073355656383,included_game_day
+2002,2309,Kent State Golden Flashes,2002-02-02,126.40703190473572,included_game_day
+2002,2309,Kent State Golden Flashes,2002-02-04,128.77347576111993,included_game_day
+2002,2309,Kent State Golden Flashes,2002-02-09,145.11623445782016,included_game_day
+2002,2309,Kent State Golden Flashes,2002-02-16,145.84118945386476,included_game_day
+2002,2309,Kent State Golden Flashes,2002-02-19,166.6639666727744,included_game_day
+2002,2309,Kent State Golden Flashes,2002-02-23,157.91403134634706,included_game_day
+2002,2309,Kent State Golden Flashes,2002-02-25,143.7292120617909,included_game_day
+2002,2309,Kent State Golden Flashes,2002-03-02,135.79491108089815,included_game_day
+2002,2309,Kent State Golden Flashes,2002-03-07,129.64552642528008,included_game_day
+2002,2309,Kent State Golden Flashes,2002-03-08,139.95094968133284,included_game_day
+2002,2309,Kent State Golden Flashes,2002-03-09,142.27974000774597,included_game_day
+2002,2309,Kent State Golden Flashes,2002-03-14,144.85702458497184,included_game_day
+2002,2309,Kent State Golden Flashes,2002-03-16,157.37022793369275,included_game_day
+2002,2309,Kent State Golden Flashes,2002-03-21,163.80291522221404,included_game_day
+2002,2309,Kent State Golden Flashes,2002-03-23,154.06577577586344,included_game_day
+2003,2309,Kent State Golden Flashes,2002-11-30,1.48,included_game_day
+2003,2309,Kent State Golden Flashes,2002-12-04,24.2471,included_game_day
+2003,2309,Kent State Golden Flashes,2002-12-07,30.11008,included_game_day
+2003,2309,Kent State Golden Flashes,2002-12-14,51.26052808,included_game_day
+2003,2309,Kent State Golden Flashes,2002-12-18,56.863426352,included_game_day
+2003,2309,Kent State Golden Flashes,2002-12-21,43.323838516562,included_game_day
+2003,2309,Kent State Golden Flashes,2002-12-28,43.7229584372467,included_game_day
+2003,2309,Kent State Golden Flashes,2003-01-04,37.76805841806612,included_game_day
+2003,2309,Kent State Golden Flashes,2003-01-08,42.758183411609146,included_game_day
+2003,2309,Kent State Golden Flashes,2003-01-11,30.66089231976757,included_game_day
+2003,2309,Kent State Golden Flashes,2003-01-15,28.40548477407171,included_game_day
+2003,2309,Kent State Golden Flashes,2003-01-18,38.99598745547618,included_game_day
+2003,2309,Kent State Golden Flashes,2003-01-23,44.00327145209685,included_game_day
+2003,2309,Kent State Golden Flashes,2003-01-25,46.18240299959465,included_game_day
+2003,2309,Kent State Golden Flashes,2003-01-29,44.100190345689995,included_game_day
+2003,2309,Kent State Golden Flashes,2003-02-01,57.81568801251173,included_game_day
+2003,2309,Kent State Golden Flashes,2003-02-03,59.2947485971683,included_game_day
+2003,2309,Kent State Golden Flashes,2003-02-06,60.154026661097596,included_game_day
+2003,2309,Kent State Golden Flashes,2003-02-08,46.92104872582394,included_game_day
+2003,2309,Kent State Golden Flashes,2003-02-12,36.71366179035019,included_game_day
+2003,2309,Kent State Golden Flashes,2003-02-15,27.962826084817465,included_game_day
+2003,2309,Kent State Golden Flashes,2003-02-18,60.44420768196225,included_game_day
+2003,2309,Kent State Golden Flashes,2003-02-22,52.20458081766067,included_game_day
+2003,2309,Kent State Golden Flashes,2003-02-25,34.158322643067685,included_game_day
+2003,2309,Kent State Golden Flashes,2003-03-01,12.033563551275208,included_game_day
+2003,2309,Kent State Golden Flashes,2003-03-08,18.391096413138687,included_game_day
+2003,2309,Kent State Golden Flashes,2003-03-13,34.984262173230036,included_game_day
+2003,2309,Kent State Golden Flashes,2003-03-14,32.45270054530262,included_game_day
+2003,2309,Kent State Golden Flashes,2003-03-15,32.275712007090476,included_game_day
+2003,2309,Kent State Golden Flashes,2003-03-19,23.03405632061159,included_game_day
+2004,2309,Kent State Golden Flashes,2003-11-25,1.9,included_game_day
+2004,2309,Kent State Golden Flashes,2003-11-29,8.57179,included_game_day
+2004,2309,Kent State Golden Flashes,2003-12-02,19.772111,included_game_day
+2004,2309,Kent State Golden Flashes,2003-12-14,7.745115499999999,included_game_day
+2004,2309,Kent State Golden Flashes,2003-12-17,54.48605519358,included_game_day
+2004,2309,Kent State Golden Flashes,2003-12-20,51.150361205022,included_game_day
+2004,2309,Kent State Golden Flashes,2003-12-27,69.0475163386124,included_game_day
+2004,2309,Kent State Golden Flashes,2003-12-30,88.35433005236499,included_game_day
+2004,2309,Kent State Golden Flashes,2004-01-03,74.79882915389592,included_game_day
+2004,2309,Kent State Golden Flashes,2004-01-06,71.05084926357517,included_game_day
+2004,2309,Kent State Golden Flashes,2004-01-10,66.59390488423642,included_game_day
+2004,2309,Kent State Golden Flashes,2004-01-14,54.382288817808345,included_game_day
+2004,2309,Kent State Golden Flashes,2004-01-21,70.06853675390016,included_game_day
+2004,2309,Kent State Golden Flashes,2004-01-25,99.30107309465441,included_game_day
+2004,2309,Kent State Golden Flashes,2004-01-28,99.63749847969083,included_game_day
+2004,2309,Kent State Golden Flashes,2004-01-31,97.21532845736114,included_game_day
+2004,2309,Kent State Golden Flashes,2004-02-04,87.60235731874876,included_game_day
+2004,2309,Kent State Golden Flashes,2004-02-07,86.99689220744513,included_game_day
+2004,2309,Kent State Golden Flashes,2004-02-11,78.82313044163668,included_game_day
+2004,2309,Kent State Golden Flashes,2004-02-14,77.35948134504342,included_game_day
+2004,2309,Kent State Golden Flashes,2004-02-18,86.18776151295576,included_game_day
+2004,2309,Kent State Golden Flashes,2004-02-21,95.49182502431466,included_game_day
+2004,2309,Kent State Golden Flashes,2004-02-25,76.19685737386122,included_game_day
+2004,2309,Kent State Golden Flashes,2004-02-29,68.14215768195095,included_game_day
+2004,2309,Kent State Golden Flashes,2004-03-03,56.71990927837413,included_game_day
+2004,2309,Kent State Golden Flashes,2004-03-06,49.197321133479875,included_game_day
+2004,2309,Kent State Golden Flashes,2004-03-11,53.70929270475199,included_game_day
+2004,2309,Kent State Golden Flashes,2004-03-12,56.69816356571519,included_game_day
+2004,2309,Kent State Golden Flashes,2004-03-13,56.171017445744,included_game_day
+2004,2309,Kent State Golden Flashes,2004-03-17,39.361123591390594,included_game_day
+2005,2309,Kent State Golden Flashes,2004-11-19,27.0,included_game_day
+2005,2309,Kent State Golden Flashes,2004-11-20,26.9929,included_game_day
+2005,2309,Kent State Golden Flashes,2004-11-22,22.79361,included_game_day
+2005,2309,Kent State Golden Flashes,2004-11-24,36.174249,included_game_day
+2005,2309,Kent State Golden Flashes,2004-11-27,45.496824100000005,included_game_day
+2005,2309,Kent State Golden Flashes,2004-12-01,46.717141690000005,included_game_day
+2005,2309,Kent State Golden Flashes,2004-12-07,62.085085111000005,included_game_day
+2005,2309,Kent State Golden Flashes,2004-12-11,64.48978182990001,included_game_day
+2005,2309,Kent State Golden Flashes,2004-12-29,65.8834738395609,included_game_day
+2005,2309,Kent State Golden Flashes,2005-01-02,53.141235593490585,included_game_day
+2005,2309,Kent State Golden Flashes,2005-01-05,47.832967171553534,included_game_day
+2005,2309,Kent State Golden Flashes,2005-01-08,63.21095370630367,included_game_day
+2005,2309,Kent State Golden Flashes,2005-01-12,50.01946273569118,included_game_day
+2005,2309,Kent State Golden Flashes,2005-01-15,22.953676160044264,included_game_day
+2005,2309,Kent State Golden Flashes,2005-01-17,16.315517503745035,included_game_day
+2005,2309,Kent State Golden Flashes,2005-01-19,18.69784873920575,included_game_day
+2005,2309,Kent State Golden Flashes,2005-01-22,18.295905199497064,included_game_day
+2005,2309,Kent State Golden Flashes,2005-01-29,19.074762029012497,included_game_day
+2005,2309,Kent State Golden Flashes,2005-02-01,22.324731646164224,included_game_day
+2005,2309,Kent State Golden Flashes,2005-02-06,27.83245422752087,included_game_day
+2005,2309,Kent State Golden Flashes,2005-02-09,38.115102698814724,included_game_day
+2005,2309,Kent State Golden Flashes,2005-02-12,29.51560302020601,included_game_day
+2005,2309,Kent State Golden Flashes,2005-02-15,23.466131895449635,included_game_day
+2005,2309,Kent State Golden Flashes,2005-02-19,14.57108525519386,included_game_day
+2005,2309,Kent State Golden Flashes,2005-02-26,22.77727846761225,included_game_day
+2005,2309,Kent State Golden Flashes,2005-03-02,4.798551259082025,included_game_day
+2005,2309,Kent State Golden Flashes,2005-03-05,23.492226041632037,included_game_day
+2005,2309,Kent State Golden Flashes,2005-03-07,42.630374546916286,included_game_day
+2005,2309,Kent State Golden Flashes,2005-03-10,37.369851413172945,included_game_day
+2005,2309,Kent State Golden Flashes,2005-03-16,31.332807468666033,included_game_day
+2006,2309,Kent State Golden Flashes,2005-11-21,-13.440999999999999,included_game_day
+2006,2309,Kent State Golden Flashes,2005-11-22,7.863099999999999,included_game_day
+2006,2309,Kent State Golden Flashes,2005-11-25,2.7630999999999997,included_game_day
+2006,2309,Kent State Golden Flashes,2005-11-26,14.1266,included_game_day
+2006,2309,Kent State Golden Flashes,2005-11-30,22.268340000000002,included_game_day
+2006,2309,Kent State Golden Flashes,2005-12-03,27.505032,included_game_day
+2006,2309,Kent State Golden Flashes,2005-12-08,41.0573979228,included_game_day
+2006,2309,Kent State Golden Flashes,2005-12-10,33.30964827052,included_game_day
+2006,2309,Kent State Golden Flashes,2005-12-22,32.10793914549354,included_game_day
+2006,2309,Kent State Golden Flashes,2005-12-30,30.58449931369247,included_game_day
+2006,2309,Kent State Golden Flashes,2006-01-04,34.998343986984246,included_game_day
+2006,2309,Kent State Golden Flashes,2006-01-07,31.767108620919007,included_game_day
+2006,2309,Kent State Golden Flashes,2006-01-11,37.73620122749821,included_game_day
+2006,2309,Kent State Golden Flashes,2006-01-14,42.35967565611505,included_game_day
+2006,2309,Kent State Golden Flashes,2006-01-17,43.926118268177575,included_game_day
+2006,2309,Kent State Golden Flashes,2006-01-21,54.68737513873354,included_game_day
+2006,2309,Kent State Golden Flashes,2006-01-24,61.04143563940002,included_game_day
+2006,2309,Kent State Golden Flashes,2006-01-26,44.52983523046069,included_game_day
+2006,2309,Kent State Golden Flashes,2006-01-29,57.882457221431025,included_game_day
+2006,2309,Kent State Golden Flashes,2006-02-01,69.74941125620985,included_game_day
+2006,2309,Kent State Golden Flashes,2006-02-04,72.67063905718364,included_game_day
+2006,2309,Kent State Golden Flashes,2006-02-07,53.09237787121516,included_game_day
+2006,2309,Kent State Golden Flashes,2006-02-12,58.39786637983175,included_game_day
+2006,2309,Kent State Golden Flashes,2006-02-15,59.826108827207214,included_game_day
+2006,2309,Kent State Golden Flashes,2006-02-18,62.47577788436246,included_game_day
+2006,2309,Kent State Golden Flashes,2006-02-21,70.22176322029767,included_game_day
+2006,2309,Kent State Golden Flashes,2006-02-25,71.18639327688166,included_game_day
+2006,2309,Kent State Golden Flashes,2006-02-28,82.46636549439228,included_game_day
+2006,2309,Kent State Golden Flashes,2006-03-04,73.30905639757815,included_game_day
+2006,2309,Kent State Golden Flashes,2006-03-09,72.62248328559616,included_game_day
+2006,2309,Kent State Golden Flashes,2006-03-10,81.5083602152384,included_game_day
+2006,2309,Kent State Golden Flashes,2006-03-11,82.29581655279489,included_game_day
+2006,2309,Kent State Golden Flashes,2006-03-17,75.29926232035041,included_game_day
+2007,2309,Kent State Golden Flashes,2006-11-10,52.0,included_game_day
+2007,2309,Kent State Golden Flashes,2006-11-11,54.4,included_game_day
+2007,2309,Kent State Golden Flashes,2006-11-12,34.15,included_game_day
+2007,2309,Kent State Golden Flashes,2006-11-18,37.186,included_game_day
+2007,2309,Kent State Golden Flashes,2006-11-21,39.4674,included_game_day
+2007,2309,Kent State Golden Flashes,2006-11-25,42.629414999999995,included_game_day
+2007,2309,Kent State Golden Flashes,2006-11-29,34.383433499999995,included_game_day
+2007,2309,Kent State Golden Flashes,2006-12-09,39.38499261489999,included_game_day
+2007,2309,Kent State Golden Flashes,2006-12-19,41.295207995309795,included_game_day
+2007,2309,Kent State Golden Flashes,2006-12-22,28.663046612768174,included_game_day
+2007,2309,Kent State Golden Flashes,2006-12-30,45.270275485373205,included_game_day
+2007,2309,Kent State Golden Flashes,2007-01-02,37.412686716094626,included_game_day
+2007,2309,Kent State Golden Flashes,2007-01-07,37.27250280965443,included_game_day
+2007,2309,Kent State Golden Flashes,2007-01-10,48.15543670013683,included_game_day
+2007,2309,Kent State Golden Flashes,2007-01-14,48.06406464637293,included_game_day
+2007,2309,Kent State Golden Flashes,2007-01-17,46.12007610997111,included_game_day
+2007,2309,Kent State Golden Flashes,2007-01-20,36.03075018099818,included_game_day
+2007,2309,Kent State Golden Flashes,2007-01-24,38.650945536913696,included_game_day
+2007,2309,Kent State Golden Flashes,2007-01-27,49.233100323921946,included_game_day
+2007,2309,Kent State Golden Flashes,2007-01-31,51.38737814325614,included_game_day
+2007,2309,Kent State Golden Flashes,2007-02-03,76.14500257693201,included_game_day
+2007,2309,Kent State Golden Flashes,2007-02-06,72.093841494068,included_game_day
+2007,2309,Kent State Golden Flashes,2007-02-11,45.60853496589783,included_game_day
+2007,2309,Kent State Golden Flashes,2007-02-14,57.766120893969116,included_game_day
+2007,2309,Kent State Golden Flashes,2007-02-17,66.31216763420139,included_game_day
+2007,2309,Kent State Golden Flashes,2007-02-21,54.59150219890296,included_game_day
+2007,2309,Kent State Golden Flashes,2007-02-24,56.662073743061974,included_game_day
+2007,2309,Kent State Golden Flashes,2007-03-01,61.601153182067065,included_game_day
+2007,2309,Kent State Golden Flashes,2007-03-04,61.268525942500155,included_game_day
+2007,2309,Kent State Golden Flashes,2007-03-08,63.73450176342039,included_game_day
+2007,2309,Kent State Golden Flashes,2007-03-09,65.23918225292573,included_game_day
+2008,2309,Kent State Golden Flashes,2007-11-10,2.0,included_game_day
+2008,2309,Kent State Golden Flashes,2007-11-15,6.02,included_game_day
+2008,2309,Kent State Golden Flashes,2007-11-18,25.418,included_game_day
+2008,2309,Kent State Golden Flashes,2007-11-20,35.35274,included_game_day
+2008,2309,Kent State Golden Flashes,2007-11-23,25.581485999999998,included_game_day
+2008,2309,Kent State Golden Flashes,2007-11-24,31.088222799999997,included_game_day
+2008,2309,Kent State Golden Flashes,2007-11-28,68.18052512,included_game_day
+2008,2309,Kent State Golden Flashes,2007-12-01,71.869382608,included_game_day
+2008,2309,Kent State Golden Flashes,2007-12-05,71.738467964,included_game_day
+2008,2309,Kent State Golden Flashes,2007-12-08,85.13818120213,included_game_day
+2008,2309,Kent State Golden Flashes,2007-12-20,70.87594543677649,included_game_day
+2008,2309,Kent State Golden Flashes,2007-12-29,77.04657180219321,included_game_day
+2008,2309,Kent State Golden Flashes,2008-01-02,62.73950715395736,included_game_day
+2008,2309,Kent State Golden Flashes,2008-01-06,55.42580008387948,included_game_day
+2008,2309,Kent State Golden Flashes,2008-01-09,52.020841254101526,included_game_day
+2008,2309,Kent State Golden Flashes,2008-01-12,55.49020619950384,included_game_day
+2008,2309,Kent State Golden Flashes,2008-01-17,65.09206737434263,included_game_day
+2008,2309,Kent State Golden Flashes,2008-01-23,70.5558427786151,included_game_day
+2008,2309,Kent State Golden Flashes,2008-01-27,73.28607933951089,included_game_day
+2008,2309,Kent State Golden Flashes,2008-01-30,78.0333877951622,included_game_day
+2008,2309,Kent State Golden Flashes,2008-02-02,65.23909890130406,included_game_day
+2008,2309,Kent State Golden Flashes,2008-02-09,61.185634178543474,included_game_day
+2008,2309,Kent State Golden Flashes,2008-02-12,68.4963742942792,included_game_day
+2008,2309,Kent State Golden Flashes,2008-02-16,71.32757363467675,included_game_day
+2008,2309,Kent State Golden Flashes,2008-02-19,71.0201532125336,included_game_day
+2008,2309,Kent State Golden Flashes,2008-02-24,89.82899212803733,included_game_day
+2008,2309,Kent State Golden Flashes,2008-03-01,74.33517720474045,included_game_day
+2008,2309,Kent State Golden Flashes,2008-03-04,79.69354939197552,included_game_day
+2008,2309,Kent State Golden Flashes,2008-03-09,82.68087155240512,included_game_day
+2008,2309,Kent State Golden Flashes,2008-03-13,89.91837328939555,included_game_day
+2008,2309,Kent State Golden Flashes,2008-03-14,88.03242747331967,included_game_day
+2008,2309,Kent State Golden Flashes,2008-03-15,105.25989445513736,included_game_day
+2008,2309,Kent State Golden Flashes,2008-03-20,91.15577635190701,included_game_day
+2009,2309,Kent State Golden Flashes,2008-11-17,33.7,included_game_day
+2009,2309,Kent State Golden Flashes,2008-11-19,35.330000000000005,included_game_day
+2009,2309,Kent State Golden Flashes,2008-11-23,46.245000000000005,included_game_day
+2009,2309,Kent State Golden Flashes,2008-11-28,39.758970000000005,included_game_day
+2009,2309,Kent State Golden Flashes,2008-11-29,32.97408000000001,included_game_day
+2009,2309,Kent State Golden Flashes,2008-12-01,13.230014000000008,included_game_day
+2009,2309,Kent State Golden Flashes,2008-12-04,5.990420213000007,included_game_day
+2009,2309,Kent State Golden Flashes,2008-12-06,-2.862286008299993,included_game_day
+2009,2309,Kent State Golden Flashes,2008-12-15,-2.5092406036699932,included_game_day
+2009,2309,Kent State Golden Flashes,2008-12-18,-3.7449697250429947,included_game_day
+2009,2309,Kent State Golden Flashes,2008-12-23,-21.537495664203096,included_game_day
+2009,2309,Kent State Golden Flashes,2009-01-03,4.554439094320092,included_game_day
+2009,2309,Kent State Golden Flashes,2009-01-05,-5.792836714780002,included_game_day
+2009,2309,Kent State Golden Flashes,2009-01-11,-8.166546115542559,included_game_day
+2009,2309,Kent State Golden Flashes,2009-01-14,15.283443062769773,included_game_day
+2009,2309,Kent State Golden Flashes,2009-01-17,1.9181167009307831,included_game_day
+2009,2309,Kent State Golden Flashes,2009-01-21,-3.8957158335571176,included_game_day
+2009,2309,Kent State Golden Flashes,2009-01-24,-12.25494726388878,included_game_day
+2009,2309,Kent State Golden Flashes,2009-01-27,-2.7870678075145214,included_game_day
+2009,2309,Kent State Golden Flashes,2009-01-31,17.317774666609818,included_game_day
+2009,2309,Kent State Golden Flashes,2009-02-03,33.128463035449705,included_game_day
+2009,2309,Kent State Golden Flashes,2009-02-07,36.66506505701515,included_game_day
+2009,2309,Kent State Golden Flashes,2009-02-10,28.23642735037068,included_game_day
+2009,2309,Kent State Golden Flashes,2009-02-14,21.72812367952105,included_game_day
+2009,2309,Kent State Golden Flashes,2009-02-17,30.539720154501495,included_game_day
+2009,2309,Kent State Golden Flashes,2009-02-21,29.509551077594306,included_game_day
+2009,2309,Kent State Golden Flashes,2009-02-26,26.402531593522234,included_game_day
+2009,2309,Kent State Golden Flashes,2009-03-01,22.787373222969677,included_game_day
+2009,2309,Kent State Golden Flashes,2009-03-05,24.62070850403041,included_game_day
+2009,2309,Kent State Golden Flashes,2009-03-08,27.21423862444421,included_game_day
+2009,2309,Kent State Golden Flashes,2009-03-10,19.994840276073603,included_game_day
+2009,2309,Kent State Golden Flashes,2009-03-12,15.971653786031228,included_game_day
+2009,2309,Kent State Golden Flashes,2009-03-17,18.252261391364186,included_game_day
+2010,2309,Kent State Golden Flashes,2009-11-13,0.0,included_game_day
+2010,2309,Kent State Golden Flashes,2009-11-14,5.2,included_game_day
+2010,2309,Kent State Golden Flashes,2009-11-15,-0.20000000000000018,included_game_day
+2010,2309,Kent State Golden Flashes,2009-11-18,9.52,included_game_day
+2010,2309,Kent State Golden Flashes,2009-11-25,-7.235071999999999,included_game_day
+2010,2309,Kent State Golden Flashes,2009-11-29,0.755665200000001,included_game_day
+2010,2309,Kent State Golden Flashes,2009-12-04,-4.502910939999998,included_game_day
+2010,2309,Kent State Golden Flashes,2009-12-12,-9.263255558699997,included_game_day
+2010,2309,Kent State Golden Flashes,2009-12-20,-0.8828903178299985,included_game_day
+2010,2309,Kent State Golden Flashes,2009-12-22,12.825370604999902,included_game_day
+2010,2309,Kent State Golden Flashes,2009-12-29,21.1625310653396,included_game_day
+2010,2309,Kent State Golden Flashes,2009-12-30,16.710141770844473,included_game_day
+2010,2309,Kent State Golden Flashes,2010-01-04,19.981358007079486,included_game_day
+2010,2309,Kent State Golden Flashes,2010-01-09,25.729169228756078,included_game_day
+2010,2309,Kent State Golden Flashes,2010-01-12,22.3985798334807,included_game_day
+2010,2309,Kent State Golden Flashes,2010-01-17,8.151144946889673,included_game_day
+2010,2309,Kent State Golden Flashes,2010-01-20,43.083548496640006,included_game_day
+2010,2309,Kent State Golden Flashes,2010-01-23,59.18952483353257,included_game_day
+2010,2309,Kent State Golden Flashes,2010-01-26,61.482116559799,included_game_day
+2010,2309,Kent State Golden Flashes,2010-01-30,53.92457977793609,included_game_day
+2010,2309,Kent State Golden Flashes,2010-02-01,70.87688340209695,included_game_day
+2010,2309,Kent State Golden Flashes,2010-02-04,71.6400149277546,included_game_day
+2010,2309,Kent State Golden Flashes,2010-02-06,72.10065837435549,included_game_day
+2010,2309,Kent State Golden Flashes,2010-02-10,94.32073560321632,included_game_day
+2010,2309,Kent State Golden Flashes,2010-02-13,71.45676930759298,included_game_day
+2010,2309,Kent State Golden Flashes,2010-02-17,71.2267396162565,included_game_day
+2010,2309,Kent State Golden Flashes,2010-02-20,59.72850538289657,included_game_day
+2010,2309,Kent State Golden Flashes,2010-02-24,61.365511564760226,included_game_day
+2010,2309,Kent State Golden Flashes,2010-02-27,60.53368248800065,included_game_day
+2010,2309,Kent State Golden Flashes,2010-03-05,74.87523353460756,included_game_day
+2010,2309,Kent State Golden Flashes,2010-03-11,54.93550705098569,included_game_day
+2010,2309,Kent State Golden Flashes,2010-03-17,53.078707533831206,included_game_day
+2010,2309,Kent State Golden Flashes,2010-03-22,42.651782377806114,included_game_day
+2011,2309,Kent State Golden Flashes,2010-11-12,1.0,included_game_day
+2011,2309,Kent State Golden Flashes,2010-11-13,40.8,included_game_day
+2011,2309,Kent State Golden Flashes,2010-11-14,38.4,included_game_day
+2011,2309,Kent State Golden Flashes,2010-11-16,36.76,included_game_day
+2011,2309,Kent State Golden Flashes,2010-11-19,34.024,included_game_day
+2011,2309,Kent State Golden Flashes,2010-11-26,32.9204,included_game_day
+2011,2309,Kent State Golden Flashes,2010-12-02,38.591651,included_game_day
+2011,2309,Kent State Golden Flashes,2010-12-05,26.9902584242,included_game_day
+2011,2309,Kent State Golden Flashes,2010-12-09,21.23309337178,included_game_day
+2011,2309,Kent State Golden Flashes,2010-12-12,22.321985699942,included_game_day
+2011,2309,Kent State Golden Flashes,2010-12-21,26.150251037733902,included_game_day
+2011,2309,Kent State Golden Flashes,2010-12-28,10.785502236626375,included_game_day
+2011,2309,Kent State Golden Flashes,2010-12-31,1.177488627388783,included_game_day
+2011,2309,Kent State Golden Flashes,2011-01-08,1.9901809699346131,included_game_day
+2011,2309,Kent State Golden Flashes,2011-01-11,14.202920548733632,included_game_day
+2011,2309,Kent State Golden Flashes,2011-01-15,18.805256116648103,included_game_day
+2011,2309,Kent State Golden Flashes,2011-01-19,-2.157091092299673,included_game_day
+2011,2309,Kent State Golden Flashes,2011-01-23,13.39334353032338,included_game_day
+2011,2309,Kent State Golden Flashes,2011-01-27,29.98857903077851,included_game_day
+2011,2309,Kent State Golden Flashes,2011-01-30,30.26697497725105,included_game_day
+2011,2309,Kent State Golden Flashes,2011-02-05,30.758208975001168,included_game_day
+2011,2309,Kent State Golden Flashes,2011-02-09,28.960131774132353,included_game_day
+2011,2309,Kent State Golden Flashes,2011-02-12,31.806146927645692,included_game_day
+2011,2309,Kent State Golden Flashes,2011-02-16,23.609050691526345,included_game_day
+2011,2309,Kent State Golden Flashes,2011-02-18,18.14414143433929,included_game_day
+2011,2309,Kent State Golden Flashes,2011-02-21,20.351170490127462,included_game_day
+2011,2309,Kent State Golden Flashes,2011-02-24,22.618035540158154,included_game_day
+2011,2309,Kent State Golden Flashes,2011-02-26,16.930472635380717,included_game_day
+2011,2309,Kent State Golden Flashes,2011-03-01,17.250184118325805,included_game_day
+2011,2309,Kent State Golden Flashes,2011-03-04,27.53027637534838,included_game_day
+2011,2309,Kent State Golden Flashes,2011-03-10,38.12664465380565,included_game_day
+2011,2309,Kent State Golden Flashes,2011-03-11,44.89715364175115,included_game_day
+2011,2309,Kent State Golden Flashes,2011-03-12,43.87231984369177,included_game_day
+2011,2309,Kent State Golden Flashes,2011-03-15,51.641705156155176,included_game_day
+2011,2309,Kent State Golden Flashes,2011-03-20,57.69372482365265,included_game_day
+2011,2309,Kent State Golden Flashes,2011-03-22,58.802077384900976,included_game_day
+2012,2309,Kent State Golden Flashes,2011-11-15,13.4,included_game_day
+2012,2309,Kent State Golden Flashes,2011-11-19,24.766,included_game_day
+2012,2309,Kent State Golden Flashes,2011-11-22,17.008399999999998,included_game_day
+2012,2309,Kent State Golden Flashes,2011-11-28,21.059565,included_game_day
+2012,2309,Kent State Golden Flashes,2011-12-01,31.784670354,included_game_day
+2012,2309,Kent State Golden Flashes,2011-12-03,30.6095533216,included_game_day
+2012,2309,Kent State Golden Flashes,2011-12-06,52.08910145944,included_game_day
+2012,2309,Kent State Golden Flashes,2011-12-10,48.593500541476004,included_game_day
+2012,2309,Kent State Golden Flashes,2011-12-20,48.90132666968305,included_game_day
+2012,2309,Kent State Golden Flashes,2011-12-21,44.955847283513585,included_game_day
+2012,2309,Kent State Golden Flashes,2011-12-22,27.545301550375783,included_game_day
+2012,2309,Kent State Golden Flashes,2011-12-29,41.04424972947175,included_game_day
+2012,2309,Kent State Golden Flashes,2012-01-07,43.62712818317435,included_game_day
+2012,2309,Kent State Golden Flashes,2012-01-11,37.55422976616322,included_game_day
+2012,2309,Kent State Golden Flashes,2012-01-14,36.10197313104427,included_game_day
+2012,2309,Kent State Golden Flashes,2012-01-18,18.186417043581947,included_game_day
+2012,2309,Kent State Golden Flashes,2012-01-21,15.718065686663834,included_game_day
+2012,2309,Kent State Golden Flashes,2012-01-25,32.93091136136836,included_game_day
+2012,2309,Kent State Golden Flashes,2012-01-28,45.998878803517115,included_game_day
+2012,2309,Kent State Golden Flashes,2012-01-31,45.94652228856343,included_game_day
+2012,2309,Kent State Golden Flashes,2012-02-04,39.842634167551054,included_game_day
+2012,2309,Kent State Golden Flashes,2012-02-08,36.66461538170471,included_game_day
+2012,2309,Kent State Golden Flashes,2012-02-11,49.42443650806532,included_game_day
+2012,2309,Kent State Golden Flashes,2012-02-14,51.12068709670109,included_game_day
+2012,2309,Kent State Golden Flashes,2012-02-18,35.2165555089549,included_game_day
+2012,2309,Kent State Golden Flashes,2012-02-21,30.271878012199252,included_game_day
+2012,2309,Kent State Golden Flashes,2012-02-25,16.826282643135933,included_game_day
+2012,2309,Kent State Golden Flashes,2012-02-29,27.785926462605175,included_game_day
+2012,2309,Kent State Golden Flashes,2012-03-02,20.72773871672878,included_game_day
+2012,2309,Kent State Golden Flashes,2012-03-08,21.463148802797956,included_game_day
+2012,2309,Kent State Golden Flashes,2012-03-09,20.743057597489923,included_game_day
+2012,2309,Kent State Golden Flashes,2012-03-15,8.799356791181937,included_game_day
+2013,2309,Kent State Golden Flashes,2012-11-09,1.0,included_game_day
+2013,2309,Kent State Golden Flashes,2012-11-13,-16.1,included_game_day
+2013,2309,Kent State Golden Flashes,2012-11-16,14.309999999999999,included_game_day
+2013,2309,Kent State Golden Flashes,2012-11-18,9.017,included_game_day
+2013,2309,Kent State Golden Flashes,2012-11-20,5.492299999999999,included_game_day
+2013,2309,Kent State Golden Flashes,2012-11-24,20.67258,included_game_day
+2013,2309,Kent State Golden Flashes,2012-11-28,29.315302000000003,included_game_day
+2013,2309,Kent State Golden Flashes,2012-12-01,10.862822940000001,included_game_day
+2013,2309,Kent State Golden Flashes,2012-12-04,1.3229920160000006,included_game_day
+2013,2309,Kent State Golden Flashes,2012-12-09,-0.0014694674999997659,included_game_day
+2013,2309,Kent State Golden Flashes,2012-12-20,18.148615611662827,included_game_day
+2013,2309,Kent State Golden Flashes,2012-12-22,17.268813036218905,included_game_day
+2013,2309,Kent State Golden Flashes,2013-01-02,30.902235310398986,included_game_day
+2013,2309,Kent State Golden Flashes,2013-01-09,12.612476582019866,included_game_day
+2013,2309,Kent State Golden Flashes,2013-01-12,23.39208834398864,included_game_day
+2013,2309,Kent State Golden Flashes,2013-01-16,32.824869204047246,included_game_day
+2013,2309,Kent State Golden Flashes,2013-01-19,30.497759389135396,included_game_day
+2013,2309,Kent State Golden Flashes,2013-01-23,11.94459033253759,included_game_day
+2013,2309,Kent State Golden Flashes,2013-01-26,13.719193960686423,included_game_day
+2013,2309,Kent State Golden Flashes,2013-01-30,5.62650228699507,included_game_day
+2013,2309,Kent State Golden Flashes,2013-02-02,13.12534236083335,included_game_day
+2013,2309,Kent State Golden Flashes,2013-02-06,13.44236236769262,included_game_day
+2013,2309,Kent State Golden Flashes,2013-02-09,17.659008860588568,included_game_day
+2013,2309,Kent State Golden Flashes,2013-02-13,25.987041154258602,included_game_day
+2013,2309,Kent State Golden Flashes,2013-02-16,31.639871040534324,included_game_day
+2013,2309,Kent State Golden Flashes,2013-02-23,36.48408019740823,included_game_day
+2013,2309,Kent State Golden Flashes,2013-02-27,30.392787610374047,included_game_day
+2013,2309,Kent State Golden Flashes,2013-03-02,44.873705993588736,included_game_day
+2013,2309,Kent State Golden Flashes,2013-03-05,44.097741595921434,included_game_day
+2013,2309,Kent State Golden Flashes,2013-03-08,54.46761912601305,included_game_day
+2013,2309,Kent State Golden Flashes,2013-03-14,51.89210969546529,included_game_day
+2013,2309,Kent State Golden Flashes,2013-03-15,50.44556266259335,included_game_day
+2013,2309,Kent State Golden Flashes,2013-03-20,42.781782098091206,included_game_day
+2013,2309,Kent State Golden Flashes,2013-03-24,30.334421659483993,included_game_day
+2014,2309,Kent State Golden Flashes,2013-11-11,7.8,included_game_day
+2014,2309,Kent State Golden Flashes,2013-11-13,8.82,included_game_day
+2014,2309,Kent State Golden Flashes,2013-11-17,20.828,included_game_day
+2014,2309,Kent State Golden Flashes,2013-11-21,26.53249,included_game_day
+2014,2309,Kent State Golden Flashes,2013-11-22,22.122740999999998,included_game_day
+2014,2309,Kent State Golden Flashes,2013-11-23,19.852500999999997,included_game_day
+2014,2309,Kent State Golden Flashes,2013-11-27,20.022350899999996,included_game_day
+2014,2309,Kent State Golden Flashes,2013-12-01,25.795025195999997,included_game_day
+2014,2309,Kent State Golden Flashes,2013-12-04,14.234347316399997,included_game_day
+2014,2309,Kent State Golden Flashes,2013-12-21,16.617945529012395,included_game_day
+2014,2309,Kent State Golden Flashes,2013-12-28,5.65015344898994,included_game_day
+2014,2309,Kent State Golden Flashes,2013-12-31,9.495564261913376,included_game_day
+2014,2309,Kent State Golden Flashes,2014-01-08,4.4330740802927995,included_game_day
+2014,2309,Kent State Golden Flashes,2014-01-11,5.807936089055744,included_game_day
+2014,2309,Kent State Golden Flashes,2014-01-15,14.507146093904073,included_game_day
+2014,2309,Kent State Golden Flashes,2014-01-18,8.163072028356577,included_game_day
+2014,2309,Kent State Golden Flashes,2014-01-23,-11.748677196398706,included_game_day
+2014,2309,Kent State Golden Flashes,2014-01-26,-5.277259706364356,included_game_day
+2014,2309,Kent State Golden Flashes,2014-01-29,-13.642505268556581,included_game_day
+2014,2309,Kent State Golden Flashes,2014-02-01,-9.800154503981588,included_game_day
+2014,2309,Kent State Golden Flashes,2014-02-05,-15.853223114734565,included_game_day
+2014,2309,Kent State Golden Flashes,2014-02-08,-27.466876644520866,included_game_day
+2014,2309,Kent State Golden Flashes,2014-02-12,-27.828945326977436,included_game_day
+2014,2309,Kent State Golden Flashes,2014-02-15,-26.846202523657986,included_game_day
+2014,2309,Kent State Golden Flashes,2014-02-19,-12.829306863151558,included_game_day
+2014,2309,Kent State Golden Flashes,2014-02-22,-18.980339615938426,included_game_day
+2014,2309,Kent State Golden Flashes,2014-02-26,-22.92687133767548,included_game_day
+2014,2309,Kent State Golden Flashes,2014-03-01,-0.6148207797838126,included_game_day
+2014,2309,Kent State Golden Flashes,2014-03-04,-20.66864771909538,included_game_day
+2014,2309,Kent State Golden Flashes,2014-03-07,-17.756935975782568,included_game_day
+2014,2309,Kent State Golden Flashes,2014-03-10,-23.489585168910462,included_game_day
+2015,2309,Kent State Golden Flashes,2014-11-15,11.0,included_game_day
+2015,2309,Kent State Golden Flashes,2014-11-21,31.9,included_game_day
+2015,2309,Kent State Golden Flashes,2014-11-22,42.626999999999995,included_game_day
+2015,2309,Kent State Golden Flashes,2014-11-23,30.146999999999995,included_game_day
+2015,2309,Kent State Golden Flashes,2014-11-29,15.101779999999996,included_game_day
+2015,2309,Kent State Golden Flashes,2014-12-06,22.299064076999997,included_game_day
+2015,2309,Kent State Golden Flashes,2014-12-14,26.180146388299995,included_game_day
+2015,2309,Kent State Golden Flashes,2014-12-19,24.337494379818395,included_game_day
+2015,2309,Kent State Golden Flashes,2014-12-21,22.687893289034154,included_game_day
+2015,2309,Kent State Golden Flashes,2014-12-22,26.123725686511595,included_game_day
+2015,2309,Kent State Golden Flashes,2014-12-30,16.035351119838385,included_game_day
+2015,2309,Kent State Golden Flashes,2015-01-02,26.847253604187102,included_game_day
+2015,2309,Kent State Golden Flashes,2015-01-07,23.757116639819895,included_game_day
+2015,2309,Kent State Golden Flashes,2015-01-10,27.70674215696432,included_game_day
+2015,2309,Kent State Golden Flashes,2015-01-14,30.380065612105145,included_game_day
+2015,2309,Kent State Golden Flashes,2015-01-17,32.12330229165538,included_game_day
+2015,2309,Kent State Golden Flashes,2015-01-21,37.77756564290739,included_game_day
+2015,2309,Kent State Golden Flashes,2015-01-24,46.758570431811016,included_game_day
+2015,2309,Kent State Golden Flashes,2015-01-27,57.36572728593376,included_game_day
+2015,2309,Kent State Golden Flashes,2015-01-30,34.71022337976754,included_game_day
+2015,2309,Kent State Golden Flashes,2015-02-04,35.62624771408604,included_game_day
+2015,2309,Kent State Golden Flashes,2015-02-07,26.66941244571285,included_game_day
+2015,2309,Kent State Golden Flashes,2015-02-10,22.75430422117814,included_game_day
+2015,2309,Kent State Golden Flashes,2015-02-13,32.391874196440654,included_game_day
+2015,2309,Kent State Golden Flashes,2015-02-18,26.738984607478525,included_game_day
+2015,2309,Kent State Golden Flashes,2015-02-21,36.48216912401789,included_game_day
+2015,2309,Kent State Golden Flashes,2015-02-24,32.13484677365778,included_game_day
+2015,2309,Kent State Golden Flashes,2015-02-28,28.09204955635463,included_game_day
+2015,2309,Kent State Golden Flashes,2015-03-03,33.96075047441024,included_game_day
+2015,2309,Kent State Golden Flashes,2015-03-06,32.57778403078897,included_game_day
+2015,2309,Kent State Golden Flashes,2015-03-12,33.58759773295558,included_game_day
+2015,2309,Kent State Golden Flashes,2015-03-18,47.92869348829288,included_game_day
+2015,2309,Kent State Golden Flashes,2015-03-23,52.597118320326146,included_game_day
+2015,2309,Kent State Golden Flashes,2015-03-27,49.989287497354425,included_game_day
+2016,2309,Kent State Golden Flashes,2015-11-14,6.0,included_game_day
+2016,2309,Kent State Golden Flashes,2015-11-18,8.01,included_game_day
+2016,2309,Kent State Golden Flashes,2015-11-21,11.229,included_game_day
+2016,2309,Kent State Golden Flashes,2015-11-24,24.9421,included_game_day
+2016,2309,Kent State Golden Flashes,2015-11-28,20.2584,included_game_day
+2016,2309,Kent State Golden Flashes,2015-12-05,21.400675570000004,included_game_day
+2016,2309,Kent State Golden Flashes,2015-12-07,28.246142973000005,included_game_day
+2016,2309,Kent State Golden Flashes,2015-12-10,35.80648289370001,included_game_day
+2016,2309,Kent State Golden Flashes,2015-12-12,36.149164575258006,included_game_day
+2016,2309,Kent State Golden Flashes,2015-12-22,31.587092675036473,included_game_day
+2016,2309,Kent State Golden Flashes,2015-12-23,25.11792150311812,included_game_day
+2016,2309,Kent State Golden Flashes,2015-12-30,18.281420293478497,included_game_day
+2016,2309,Kent State Golden Flashes,2016-01-05,20.24401756899298,included_game_day
+2016,2309,Kent State Golden Flashes,2016-01-08,4.964451766878019,included_game_day
+2016,2309,Kent State Golden Flashes,2016-01-12,5.542777578605813,included_game_day
+2016,2309,Kent State Golden Flashes,2016-01-16,9.044352004677025,included_game_day
+2016,2309,Kent State Golden Flashes,2016-01-19,21.90730395093373,included_game_day
+2016,2309,Kent State Golden Flashes,2016-01-23,25.690416622021836,included_game_day
+2016,2309,Kent State Golden Flashes,2016-01-26,34.900483291932346,included_game_day
+2016,2309,Kent State Golden Flashes,2016-01-29,23.33781472062294,included_game_day
+2016,2309,Kent State Golden Flashes,2016-02-02,0.2852804798977111,included_game_day
+2016,2309,Kent State Golden Flashes,2016-02-06,-13.612362887371738,included_game_day
+2016,2309,Kent State Golden Flashes,2016-02-09,-15.971109608980726,included_game_day
+2016,2309,Kent State Golden Flashes,2016-02-13,-14.835997567186169,included_game_day
+2016,2309,Kent State Golden Flashes,2016-02-16,-11.677862867608544,included_game_day
+2016,2309,Kent State Golden Flashes,2016-02-19,2.214232581922399,included_game_day
+2016,2309,Kent State Golden Flashes,2016-02-23,-10.625814945421139,included_game_day
+2016,2309,Kent State Golden Flashes,2016-02-27,-22.3885464915719,included_game_day
+2016,2309,Kent State Golden Flashes,2016-03-01,-13.687565405431542,included_game_day
+2016,2309,Kent State Golden Flashes,2016-03-04,-16.889230338761113,included_game_day
+2016,2309,Kent State Golden Flashes,2016-03-07,-26.522231704855958,included_game_day
+2017,2309,Kent State Golden Flashes,2016-11-12,5.0,included_game_day
+2017,2309,Kent State Golden Flashes,2016-11-16,25.43,included_game_day
+2017,2309,Kent State Golden Flashes,2016-11-21,20.857,included_game_day
+2017,2309,Kent State Golden Flashes,2016-11-22,9.831389999999999,included_game_day
+2017,2309,Kent State Golden Flashes,2016-11-23,13.302610999999999,included_game_day
+2017,2309,Kent State Golden Flashes,2016-11-27,13.180849899999998,included_game_day
+2017,2309,Kent State Golden Flashes,2016-12-02,31.91111186,included_game_day
+2017,2309,Kent State Golden Flashes,2016-12-07,53.9358904244,included_game_day
+2017,2309,Kent State Golden Flashes,2016-12-10,60.96338811386,included_game_day
+2017,2309,Kent State Golden Flashes,2016-12-18,44.363975610474,included_game_day
+2017,2309,Kent State Golden Flashes,2016-12-21,17.40152095084744,included_game_day
+2017,2309,Kent State Golden Flashes,2016-12-27,28.177505311364698,included_game_day
+2017,2309,Kent State Golden Flashes,2017-01-03,33.06792371599168,included_game_day
+2017,2309,Kent State Golden Flashes,2017-01-06,20.51991607487673,included_game_day
+2017,2309,Kent State Golden Flashes,2017-01-10,11.729826195320662,included_game_day
+2017,2309,Kent State Golden Flashes,2017-01-14,7.834794768173374,included_game_day
+2017,2309,Kent State Golden Flashes,2017-01-17,-11.85730904961233,included_game_day
+2017,2309,Kent State Golden Flashes,2017-01-21,11.483643387835802,included_game_day
+2017,2309,Kent State Golden Flashes,2017-01-24,21.45443552467829,included_game_day
+2017,2309,Kent State Golden Flashes,2017-01-28,7.816453658996007,included_game_day
+2017,2309,Kent State Golden Flashes,2017-01-31,19.39284077575645,included_game_day
+2017,2309,Kent State Golden Flashes,2017-02-04,18.438688719775485,included_game_day
+2017,2309,Kent State Golden Flashes,2017-02-07,7.894863220132706,included_game_day
+2017,2309,Kent State Golden Flashes,2017-02-11,-9.008101081164394,included_game_day
+2017,2309,Kent State Golden Flashes,2017-02-14,-13.50068690147401,included_game_day
+2017,2309,Kent State Golden Flashes,2017-02-17,-1.635944839617375,included_game_day
+2017,2309,Kent State Golden Flashes,2017-02-21,16.00354519529995,included_game_day
+2017,2309,Kent State Golden Flashes,2017-02-25,20.715797231023323,included_game_day
+2017,2309,Kent State Golden Flashes,2017-02-28,25.658138364274556,included_game_day
+2017,2309,Kent State Golden Flashes,2017-03-03,11.951861732155821,included_game_day
+2017,2309,Kent State Golden Flashes,2017-03-06,10.813655480562081,included_game_day
+2017,2309,Kent State Golden Flashes,2017-03-09,17.36132699358269,included_game_day
+2017,2309,Kent State Golden Flashes,2017-03-10,22.442042862348753,included_game_day
+2017,2309,Kent State Golden Flashes,2017-03-11,29.986117013926957,included_game_day
+2017,2309,Kent State Golden Flashes,2017-03-17,23.877798848144916,included_game_day
+2018,2309,Kent State Golden Flashes,2017-11-11,33.0,included_game_day
+2018,2309,Kent State Golden Flashes,2017-11-19,31.074,included_game_day
+2018,2309,Kent State Golden Flashes,2017-11-21,15.718400000000003,included_game_day
+2018,2309,Kent State Golden Flashes,2017-11-24,10.018190000000002,included_game_day
+2018,2309,Kent State Golden Flashes,2017-11-25,-1.7948499999999985,included_game_day
+2018,2309,Kent State Golden Flashes,2017-11-29,3.171081390000001,included_game_day
+2018,2309,Kent State Golden Flashes,2017-12-02,7.813269021000001,included_game_day
+2018,2309,Kent State Golden Flashes,2017-12-06,-4.824804143100001,included_game_day
+2018,2309,Kent State Golden Flashes,2017-12-09,-11.187890511790002,included_game_day
+2018,2309,Kent State Golden Flashes,2017-12-18,-23.526261366982702,included_game_day
+2018,2309,Kent State Golden Flashes,2017-12-21,-21.08633191538734,included_game_day
+2018,2309,Kent State Golden Flashes,2017-12-28,-23.0909747293874,included_game_day
+2018,2309,Kent State Golden Flashes,2018-01-02,-34.46382780106642,included_game_day
+2018,2309,Kent State Golden Flashes,2018-01-06,-13.15128567784009,included_game_day
+2018,2309,Kent State Golden Flashes,2018-01-09,-23.24580574302152,included_game_day
+2018,2309,Kent State Golden Flashes,2018-01-12,-23.127921854247436,included_game_day
+2018,2309,Kent State Golden Flashes,2018-01-16,-22.352419180688045,included_game_day
+2018,2309,Kent State Golden Flashes,2018-01-20,-16.713791962149998,included_game_day
+2018,2309,Kent State Golden Flashes,2018-01-23,-11.810498762325913,included_game_day
+2018,2309,Kent State Golden Flashes,2018-01-27,0.22619917293206981,included_game_day
+2018,2309,Kent State Golden Flashes,2018-01-30,9.05679037789303,included_game_day
+2018,2309,Kent State Golden Flashes,2018-02-03,-1.6299399784833675,included_game_day
+2018,2309,Kent State Golden Flashes,2018-02-06,-8.90810823460486,included_game_day
+2018,2309,Kent State Golden Flashes,2018-02-09,-25.624234350075714,included_game_day
+2018,2309,Kent State Golden Flashes,2018-02-13,-25.431542891058132,included_game_day
+2018,2309,Kent State Golden Flashes,2018-02-17,-24.029163353183193,included_game_day
+2018,2309,Kent State Golden Flashes,2018-02-20,-32.42039485215469,included_game_day
+2018,2309,Kent State Golden Flashes,2018-02-24,-34.72438629788362,included_game_day
+2018,2309,Kent State Golden Flashes,2018-02-27,-26.986072055862643,included_game_day
+2018,2309,Kent State Golden Flashes,2018-03-02,-29.657409206583313,included_game_day
+2018,2309,Kent State Golden Flashes,2018-03-05,-34.72643118954999,included_game_day
+2018,2309,Kent State Golden Flashes,2018-03-08,-28.868350480854645,included_game_day
+2018,2309,Kent State Golden Flashes,2018-03-09,-33.091895174785364,included_game_day
+2019,2309,Kent State Golden Flashes,2018-11-10,5.3,included_game_day
+2019,2309,Kent State Golden Flashes,2018-11-16,-5.230000000000001,included_game_day
+2019,2309,Kent State Golden Flashes,2018-11-18,20.011,included_game_day
+2019,2309,Kent State Golden Flashes,2018-11-20,29.7667,included_game_day
+2019,2309,Kent State Golden Flashes,2018-11-23,35.79113,included_game_day
+2019,2309,Kent State Golden Flashes,2018-11-28,40.09327547,included_game_day
+2019,2309,Kent State Golden Flashes,2018-12-01,40.931343228,included_game_day
+2019,2309,Kent State Golden Flashes,2018-12-08,40.241769937200004,included_game_day
+2019,2309,Kent State Golden Flashes,2018-12-15,34.797560299730314,included_game_day
+2019,2309,Kent State Golden Flashes,2018-12-21,41.82167169676123,included_game_day
+2019,2309,Kent State Golden Flashes,2018-12-28,31.79416800950201,included_game_day
+2019,2309,Kent State Golden Flashes,2019-01-05,4.815815497441761,included_game_day
+2019,2309,Kent State Golden Flashes,2019-01-08,14.650730794546648,included_game_day
+2019,2309,Kent State Golden Flashes,2019-01-12,-21.58830351049241,included_game_day
+2019,2309,Kent State Golden Flashes,2019-01-15,-2.385343085875622,included_game_day
+2019,2309,Kent State Golden Flashes,2019-01-19,8.720412336785127,included_game_day
+2019,2309,Kent State Golden Flashes,2019-01-22,14.778908253644438,included_game_day
+2019,2309,Kent State Golden Flashes,2019-01-25,13.099438751590936,included_game_day
+2019,2309,Kent State Golden Flashes,2019-02-02,20.497585549645457,included_game_day
+2019,2309,Kent State Golden Flashes,2019-02-05,22.15458611687793,included_game_day
+2019,2309,Kent State Golden Flashes,2019-02-08,7.182551887885314,included_game_day
+2019,2309,Kent State Golden Flashes,2019-02-14,20.83655878314013,included_game_day
+2019,2309,Kent State Golden Flashes,2019-02-16,30.834507059705743,included_game_day
+2019,2309,Kent State Golden Flashes,2019-02-19,23.56837577579273,included_game_day
+2019,2309,Kent State Golden Flashes,2019-02-22,17.215211214954003,included_game_day
+2019,2309,Kent State Golden Flashes,2019-02-26,12.08374254451439,included_game_day
+2019,2309,Kent State Golden Flashes,2019-03-01,13.262162477306566,included_game_day
+2019,2309,Kent State Golden Flashes,2019-03-05,28.369187291521037,included_game_day
+2019,2309,Kent State Golden Flashes,2019-03-08,29.85190685296237,included_game_day
+2019,2309,Kent State Golden Flashes,2019-03-14,22.2532405423238,included_game_day
+2019,2309,Kent State Golden Flashes,2019-03-21,16.040571719171755,included_game_day
+2020,2309,Kent State Golden Flashes,2019-11-11,8.1,included_game_day
+2020,2309,Kent State Golden Flashes,2019-11-16,12.9,included_game_day
+2020,2309,Kent State Golden Flashes,2019-11-19,16.1757,included_game_day
+2020,2309,Kent State Golden Flashes,2019-11-25,8.579025999999997,included_game_day
+2020,2309,Kent State Golden Flashes,2019-11-30,24.422749769999996,included_game_day
+2020,2309,Kent State Golden Flashes,2019-12-03,48.12624507888,included_game_day
+2020,2309,Kent State Golden Flashes,2019-12-07,55.076009743491994,included_game_day
+2020,2309,Kent State Golden Flashes,2019-12-16,45.24544741253959,included_game_day
+2020,2309,Kent State Golden Flashes,2019-12-17,47.10677385066563,included_game_day
+2020,2309,Kent State Golden Flashes,2019-12-21,69.86117716327354,included_game_day
+2020,2309,Kent State Golden Flashes,2019-12-30,43.07767561879255,included_game_day
+2020,2309,Kent State Golden Flashes,2020-01-03,59.71279793787053,included_game_day
+2020,2309,Kent State Golden Flashes,2020-01-07,59.352382838260276,included_game_day
+2020,2309,Kent State Golden Flashes,2020-01-11,53.79008255359021,included_game_day
+2020,2309,Kent State Golden Flashes,2020-01-14,44.767329748116474,included_game_day
+2020,2309,Kent State Golden Flashes,2020-01-18,34.77196486998052,included_game_day
+2020,2309,Kent State Golden Flashes,2020-01-21,19.47192867650676,included_game_day
+2020,2309,Kent State Golden Flashes,2020-01-24,26.5955627254315,included_game_day
+2020,2309,Kent State Golden Flashes,2020-01-28,41.57517084126805,included_game_day
+2020,2309,Kent State Golden Flashes,2020-01-31,41.834190221565116,included_game_day
+2020,2309,Kent State Golden Flashes,2020-02-04,30.043826827538624,included_game_day
+2020,2309,Kent State Golden Flashes,2020-02-07,27.88755212083002,included_game_day
+2020,2309,Kent State Golden Flashes,2020-02-15,37.14166655706513,included_game_day
+2020,2309,Kent State Golden Flashes,2020-02-18,14.314171287530009,included_game_day
+2020,2309,Kent State Golden Flashes,2020-02-21,7.663690376819717,included_game_day
+2020,2309,Kent State Golden Flashes,2020-02-25,10.68197930129121,included_game_day
+2020,2309,Kent State Golden Flashes,2020-02-28,6.6885991831601865,included_game_day
+2020,2309,Kent State Golden Flashes,2020-03-03,17.156849098810458,included_game_day
+2020,2309,Kent State Golden Flashes,2020-03-06,20.61167594887005,included_game_day
+2020,2309,Kent State Golden Flashes,2020-03-09,21.493747687426996,included_game_day
+2021,2309,Kent State Golden Flashes,2020-12-04,0.8796999999999997,included_game_day
+2021,2309,Kent State Golden Flashes,2020-12-08,17.1135,included_game_day
+2021,2309,Kent State Golden Flashes,2020-12-13,30.702895499999997,included_game_day
+2021,2309,Kent State Golden Flashes,2021-01-01,28.40620095,included_game_day
+2021,2309,Kent State Golden Flashes,2021-01-05,26.2871397861607,included_game_day
+2021,2309,Kent State Golden Flashes,2021-01-09,43.10317198068693,included_game_day
+2021,2309,Kent State Golden Flashes,2021-01-12,47.857977819094266,included_game_day
+2021,2309,Kent State Golden Flashes,2021-01-16,58.5860513527967,included_game_day
+2021,2309,Kent State Golden Flashes,2021-01-19,56.41356220112758,included_game_day
+2021,2309,Kent State Golden Flashes,2021-01-23,60.20599319565085,included_game_day
+2021,2309,Kent State Golden Flashes,2021-01-27,57.786639322674375,included_game_day
+2021,2309,Kent State Golden Flashes,2021-01-30,52.2716886528892,included_game_day
+2021,2309,Kent State Golden Flashes,2021-02-02,53.77777177790034,included_game_day
+2021,2309,Kent State Golden Flashes,2021-02-05,40.02477427862816,included_game_day
+2021,2309,Kent State Golden Flashes,2021-02-09,41.740853639302394,included_game_day
+2021,2309,Kent State Golden Flashes,2021-02-13,46.517883841148006,included_game_day
+2021,2309,Kent State Golden Flashes,2021-02-16,44.9630481818837,included_game_day
+2021,2309,Kent State Golden Flashes,2021-02-20,41.27708373062259,included_game_day
+2021,2309,Kent State Golden Flashes,2021-02-24,18.380033358186065,included_game_day
+2021,2309,Kent State Golden Flashes,2021-02-27,35.496633161072864,included_game_day
+2021,2309,Kent State Golden Flashes,2021-03-05,30.031577996430286,included_game_day
+2021,2309,Kent State Golden Flashes,2021-03-11,9.074671444591207,included_game_day
+2022,2309,Kent State Golden Flashes,2021-11-12,-11.0,included_game_day
+2022,2309,Kent State Golden Flashes,2021-11-22,-3.6142699999999994,included_game_day
+2022,2309,Kent State Golden Flashes,2021-11-23,1.9127911300000013,included_game_day
+2022,2309,Kent State Golden Flashes,2021-11-24,-4.000181982999998,included_game_day
+2022,2309,Kent State Golden Flashes,2021-12-06,-18.06945209025,included_game_day
+2022,2309,Kent State Golden Flashes,2021-12-09,-3.1188601767650006,included_game_day
+2022,2309,Kent State Golden Flashes,2021-12-12,-7.8252698641734995,included_game_day
+2022,2309,Kent State Golden Flashes,2021-12-19,-15.669002612632148,included_game_day
+2022,2309,Kent State Golden Flashes,2021-12-29,-31.253522772144564,included_game_day
+2022,2309,Kent State Golden Flashes,2022-01-01,-23.287796075554446,included_game_day
+2022,2309,Kent State Golden Flashes,2022-01-04,-21.2892239273837,included_game_day
+2022,2309,Kent State Golden Flashes,2022-01-07,-20.19525094070379,included_game_day
+2022,2309,Kent State Golden Flashes,2022-01-11,-31.028500568747006,included_game_day
+2022,2309,Kent State Golden Flashes,2022-01-14,-17.621685517564337,included_game_day
+2022,2309,Kent State Golden Flashes,2022-01-18,-7.1375692231342,included_game_day
+2022,2309,Kent State Golden Flashes,2022-01-21,-14.595638994859897,included_game_day
+2022,2309,Kent State Golden Flashes,2022-01-25,-15.604379012573041,included_game_day
+2022,2309,Kent State Golden Flashes,2022-01-29,-4.8782669025991865,included_game_day
+2022,2309,Kent State Golden Flashes,2022-02-01,7.150682634815464,included_game_day
+2022,2309,Kent State Golden Flashes,2022-02-05,17.8507750830299,included_game_day
+2022,2309,Kent State Golden Flashes,2022-02-08,18.896386320160275,included_game_day
+2022,2309,Kent State Golden Flashes,2022-02-11,23.57363329104747,included_game_day
+2022,2309,Kent State Golden Flashes,2022-02-15,47.975288312002505,included_game_day
+2022,2309,Kent State Golden Flashes,2022-02-18,68.91005453371766,included_game_day
+2022,2309,Kent State Golden Flashes,2022-02-22,67.0878959210199,included_game_day
+2022,2309,Kent State Golden Flashes,2022-02-26,57.586427074088036,included_game_day
+2022,2309,Kent State Golden Flashes,2022-03-01,56.26185751715049,included_game_day
+2022,2309,Kent State Golden Flashes,2022-03-04,56.11295682473161,included_game_day
+2022,2309,Kent State Golden Flashes,2022-03-10,56.41416882762203,included_game_day
+2022,2309,Kent State Golden Flashes,2022-03-11,58.46216338259608,included_game_day
+2022,2309,Kent State Golden Flashes,2022-03-12,36.77094667961124,included_game_day
+2022,2309,Kent State Golden Flashes,2022-03-16,33.258176123435106,included_game_day
+2023,2309,Kent State Golden Flashes,2022-11-07,25.0,included_game_day
+2023,2309,Kent State Golden Flashes,2022-11-14,34.672,included_game_day
+2023,2309,Kent State Golden Flashes,2022-11-16,51.2128,included_game_day
+2023,2309,Kent State Golden Flashes,2022-11-19,69.45882,included_game_day
+2023,2309,Kent State Golden Flashes,2022-11-23,66.379706,included_game_day
+2023,2309,Kent State Golden Flashes,2022-11-26,69.4678034,included_game_day
+2023,2309,Kent State Golden Flashes,2022-12-02,73.0097817658,included_game_day
+2023,2309,Kent State Golden Flashes,2022-12-05,66.480746836,included_game_day
+2023,2309,Kent State Golden Flashes,2022-12-10,73.4446868062969,included_game_day
+2023,2309,Kent State Golden Flashes,2022-12-21,79.3996293360894,included_game_day
+2023,2309,Kent State Golden Flashes,2022-12-22,73.30157904553646,included_game_day
+2023,2309,Kent State Golden Flashes,2023-01-03,65.52081577022632,included_game_day
+2023,2309,Kent State Golden Flashes,2023-01-07,58.04155103679925,included_game_day
+2023,2309,Kent State Golden Flashes,2023-01-10,64.80237567102488,included_game_day
+2023,2309,Kent State Golden Flashes,2023-01-13,67.98740055890902,included_game_day
+2023,2309,Kent State Golden Flashes,2023-01-17,68.17498209062327,included_game_day
+2023,2309,Kent State Golden Flashes,2023-01-20,81.94150738184156,included_game_day
+2023,2309,Kent State Golden Flashes,2023-01-24,62.38515218105101,included_game_day
+2023,2309,Kent State Golden Flashes,2023-01-27,60.48449201392848,included_game_day
+2023,2309,Kent State Golden Flashes,2023-01-31,53.93780022327623,included_game_day
+2023,2309,Kent State Golden Flashes,2023-02-03,46.8425348524404,included_game_day
+2023,2309,Kent State Golden Flashes,2023-02-07,57.544891865584646,included_game_day
+2023,2309,Kent State Golden Flashes,2023-02-10,61.87040231587512,included_game_day
+2023,2309,Kent State Golden Flashes,2023-02-14,73.69844113592052,included_game_day
+2023,2309,Kent State Golden Flashes,2023-02-17,82.89095821612254,included_game_day
+2023,2309,Kent State Golden Flashes,2023-02-21,65.98497479671866,included_game_day
+2023,2309,Kent State Golden Flashes,2023-02-25,64.78326918199615,included_game_day
+2023,2309,Kent State Golden Flashes,2023-02-28,64.72145349255331,included_game_day
+2023,2309,Kent State Golden Flashes,2023-03-03,65.71388164342841,included_game_day
+2023,2309,Kent State Golden Flashes,2023-03-09,75.84730107770127,included_game_day
+2023,2309,Kent State Golden Flashes,2023-03-10,81.35695912797671,included_game_day
+2023,2309,Kent State Golden Flashes,2023-03-11,99.8283614933291,included_game_day
+2023,2309,Kent State Golden Flashes,2023-03-17,87.7288600847209,included_game_day
+2024,2309,Kent State Golden Flashes,2023-11-09,-7.4,included_game_day
+2024,2309,Kent State Golden Flashes,2023-11-11,0.33999999999999986,included_game_day
+2024,2309,Kent State Golden Flashes,2023-11-17,37.096000000000004,included_game_day
+2024,2309,Kent State Golden Flashes,2023-11-19,30.901100000000003,included_game_day
+2024,2309,Kent State Golden Flashes,2023-11-20,34.001020000000004,included_game_day
+2024,2309,Kent State Golden Flashes,2023-11-26,19.851413000000004,included_game_day
+2024,2309,Kent State Golden Flashes,2023-12-05,29.965089617000004,included_game_day
+2024,2309,Kent State Golden Flashes,2023-12-09,27.945829310686,included_game_day
+2024,2309,Kent State Golden Flashes,2023-12-21,18.239269387138144,included_game_day
+2024,2309,Kent State Golden Flashes,2023-12-29,6.11663396680688,included_game_day
+2024,2309,Kent State Golden Flashes,2024-01-02,14.45058304050169,included_game_day
+2024,2309,Kent State Golden Flashes,2024-01-06,8.880419756627008,included_game_day
+2024,2309,Kent State Golden Flashes,2024-01-09,-10.935112923753456,included_game_day
+2024,2309,Kent State Golden Flashes,2024-01-13,-28.637512668722124,included_game_day
+2024,2309,Kent State Golden Flashes,2024-01-16,-23.609730493719134,included_game_day
+2024,2309,Kent State Golden Flashes,2024-01-19,-25.969150188552153,included_game_day
+2024,2309,Kent State Golden Flashes,2024-01-23,-14.006756564015248,included_game_day
+2024,2309,Kent State Golden Flashes,2024-01-26,-23.252415825384418,included_game_day
+2024,2309,Kent State Golden Flashes,2024-01-30,-30.249957164772947,included_game_day
+2024,2309,Kent State Golden Flashes,2024-02-02,-6.587076942845535,included_game_day
+2024,2309,Kent State Golden Flashes,2024-02-06,-13.726956216924634,included_game_day
+2024,2309,Kent State Golden Flashes,2024-02-10,-15.312612870490085,included_game_day
+2024,2309,Kent State Golden Flashes,2024-02-17,12.942948695075916,included_game_day
+2024,2309,Kent State Golden Flashes,2024-02-20,9.486007220680138,included_game_day
+2024,2309,Kent State Golden Flashes,2024-02-23,3.2815317590523776,included_game_day
+2024,2309,Kent State Golden Flashes,2024-02-27,-1.346428176046107,included_game_day
+2024,2309,Kent State Golden Flashes,2024-03-02,-3.7885846680801087,included_game_day
+2024,2309,Kent State Golden Flashes,2024-03-05,-12.391471014671561,included_game_day
+2024,2309,Kent State Golden Flashes,2024-03-08,-20.143167239892783,included_game_day
+2024,2309,Kent State Golden Flashes,2024-03-14,-6.344524220069758,included_game_day
+2024,2309,Kent State Golden Flashes,2024-03-15,5.5660016593712704,included_game_day
+2024,2309,Kent State Golden Flashes,2024-03-16,5.911110752548412,included_game_day
+2025,2309,Kent State Golden Flashes,2024-11-04,7.0,included_game_day
+2025,2309,Kent State Golden Flashes,2024-11-13,-8.268,included_game_day
+2025,2309,Kent State Golden Flashes,2024-11-21,-11.07985,included_game_day
+2025,2309,Kent State Golden Flashes,2024-11-23,5.911674999999999,included_game_day
+2025,2309,Kent State Golden Flashes,2024-11-28,15.475099029999999,included_game_day
+2025,2309,Kent State Golden Flashes,2024-11-29,8.353271006999998,included_game_day
+2025,2309,Kent State Golden Flashes,2024-11-30,14.865418447,included_game_day
+2025,2309,Kent State Golden Flashes,2024-12-06,22.955190251300003,included_game_day
+2025,2309,Kent State Golden Flashes,2024-12-15,36.356066863440006,included_game_day
+2025,2309,Kent State Golden Flashes,2024-12-22,17.00923536119867,included_game_day
+2025,2309,Kent State Golden Flashes,2025-01-04,2.975433008808251,included_game_day
+2025,2309,Kent State Golden Flashes,2025-01-07,12.185468482055905,included_game_day
+2025,2309,Kent State Golden Flashes,2025-01-10,24.855645885629777,included_game_day
+2025,2309,Kent State Golden Flashes,2025-01-14,1.607527970338296,included_game_day
+2025,2309,Kent State Golden Flashes,2025-01-18,-7.9154133544827765,included_game_day
+2025,2309,Kent State Golden Flashes,2025-01-21,13.012655831419828,included_game_day
+2025,2309,Kent State Golden Flashes,2025-01-24,13.733288925594099,included_game_day
+2025,2309,Kent State Golden Flashes,2025-01-28,20.311411805764216,included_game_day
+2025,2309,Kent State Golden Flashes,2025-01-31,8.31104316624672,included_game_day
+2025,2309,Kent State Golden Flashes,2025-02-04,24.78927563064596,included_game_day
+2025,2309,Kent State Golden Flashes,2025-02-08,27.180673292944146,included_game_day
+2025,2309,Kent State Golden Flashes,2025-02-11,26.74113553600996,included_game_day
+2025,2309,Kent State Golden Flashes,2025-02-14,21.849795655903662,included_game_day
+2025,2309,Kent State Golden Flashes,2025-02-18,22.11786655352351,included_game_day
+2025,2309,Kent State Golden Flashes,2025-02-21,18.26414918863071,included_game_day
+2025,2309,Kent State Golden Flashes,2025-02-25,48.88461937409244,included_game_day
+2025,2309,Kent State Golden Flashes,2025-02-28,45.54658698481282,included_game_day
+2025,2309,Kent State Golden Flashes,2025-03-04,38.70581306386699,included_game_day
+2025,2309,Kent State Golden Flashes,2025-03-07,34.585402555131154,included_game_day
+2025,2309,Kent State Golden Flashes,2025-03-13,33.06970164763912,included_game_day
+2025,2309,Kent State Golden Flashes,2025-03-14,23.485527775105957,included_game_day
+2025,2309,Kent State Golden Flashes,2025-03-18,45.86169331792557,included_game_day
+2025,2309,Kent State Golden Flashes,2025-03-23,52.1075986314101,included_game_day
+2025,2309,Kent State Golden Flashes,2025-03-26,46.883493407759566,included_game_day
+2026,2309,Kent State Golden Flashes,2025-11-03,-9.0,included_game_day
+2026,2309,Kent State Golden Flashes,2025-11-07,-3.0999999999999996,included_game_day
+2026,2309,Kent State Golden Flashes,2025-11-10,3.210000000000001,included_game_day
+2026,2309,Kent State Golden Flashes,2025-11-15,5.883000000000001,included_game_day
+2026,2309,Kent State Golden Flashes,2025-11-16,10.830000000000002,included_game_day
+2026,2309,Kent State Golden Flashes,2025-11-18,18.658,included_game_day
+2026,2309,Kent State Golden Flashes,2025-11-22,28.38937,included_game_day
+2026,2309,Kent State Golden Flashes,2025-12-03,36.523092399999996,included_game_day
+2026,2309,Kent State Golden Flashes,2025-12-14,22.807850415199997,included_game_day
+2026,2309,Kent State Golden Flashes,2025-12-20,36.27703511674342,included_game_day
+2026,2309,Kent State Golden Flashes,2025-12-29,9.53884347135346,included_game_day
+2026,2309,Kent State Golden Flashes,2026-01-03,0.9646055697695353,included_game_day
+2026,2309,Kent State Golden Flashes,2026-01-06,5.32771034858196,included_game_day
+2026,2309,Kent State Golden Flashes,2026-01-10,-3.539163719787221,included_game_day
+2026,2309,Kent State Golden Flashes,2026-01-13,7.794198146120327,included_game_day
+2026,2309,Kent State Golden Flashes,2026-01-16,7.347941451572815,included_game_day
+2026,2309,Kent State Golden Flashes,2026-01-20,6.691126847259897,included_game_day
+2026,2309,Kent State Golden Flashes,2026-01-24,8.927967949630665,included_game_day
+2026,2309,Kent State Golden Flashes,2026-01-27,16.181898130861807,included_game_day
+2026,2309,Kent State Golden Flashes,2026-01-30,10.707956044919017,included_game_day
+2026,2309,Kent State Golden Flashes,2026-02-03,17.304222847180952,included_game_day
+2026,2309,Kent State Golden Flashes,2026-02-07,13.384468801057512,included_game_day
+2026,2309,Kent State Golden Flashes,2026-02-11,9.693190641613064,included_game_day
+2026,2309,Kent State Golden Flashes,2026-02-14,10.132656648701696,included_game_day
+2026,2309,Kent State Golden Flashes,2026-02-17,20.404385866278623,included_game_day
+2026,2309,Kent State Golden Flashes,2026-02-24,14.909376330184223,included_game_day
+2026,2309,Kent State Golden Flashes,2026-02-27,-3.2171470658353414,included_game_day
+2026,2309,Kent State Golden Flashes,2026-03-03,12.917347139901672,included_game_day
+2026,2309,Kent State Golden Flashes,2026-03-06,11.338253801009381,included_game_day
+2026,2309,Kent State Golden Flashes,2026-03-12,18.23106932933476,included_game_day
+2026,2309,Kent State Golden Flashes,2026-03-13,19.896555850620715,included_game_day
+2026,2309,Kent State Golden Flashes,2026-03-18,3.967154456479637,included_game_day
+2027,2309,Kent State Golden Flashes,2026-11-02,-7.0,included_game_day
+2027,2309,Kent State Golden Flashes,2026-11-11,-20.6,included_game_day
+2027,2309,Kent State Golden Flashes,2026-11-16,-38.388000000000005,included_game_day
+2027,2309,Kent State Golden Flashes,2026-11-21,-28.527496000000006,included_game_day

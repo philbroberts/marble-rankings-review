@@ -1,0 +1,1227 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,46,Georgetown,1987-12-05,30.7,included_game_day
+1988,46,Georgetown,1987-12-09,27.457096999999997,included_game_day
+1988,46,Georgetown,1987-12-16,54.7204815,included_game_day
+1988,46,Georgetown,1987-12-19,67.8774773,included_game_day
+1988,46,Georgetown,1987-12-21,81.36282657,included_game_day
+1988,46,Georgetown,1987-12-30,90.2033474047956,included_game_day
+1988,46,Georgetown,1988-01-02,100.20206442878126,included_game_day
+1988,46,Georgetown,1988-01-06,102.52313086416714,included_game_day
+1988,46,Georgetown,1988-01-09,110.4535524015906,included_game_day
+1988,46,Georgetown,1988-01-13,99.80861002537719,included_game_day
+1988,46,Georgetown,1988-01-16,97.95016872456814,included_game_day
+1988,46,Georgetown,1988-01-20,84.23292977787162,included_game_day
+1988,46,Georgetown,1988-01-24,98.34520532116274,included_game_day
+1988,46,Georgetown,1988-01-27,114.01488696964266,included_game_day
+1988,46,Georgetown,1988-01-30,106.52063424126095,included_game_day
+1988,46,Georgetown,1988-02-01,100.38944172281923,included_game_day
+1988,46,Georgetown,1988-02-06,92.41832381409156,included_game_day
+1988,46,Georgetown,1988-02-09,101.14194504193395,included_game_day
+1988,46,Georgetown,1988-02-13,110.73687119117909,included_game_day
+1988,46,Georgetown,1988-02-15,106.97216354833003,included_game_day
+1988,46,Georgetown,1988-02-20,109.02646809443549,included_game_day
+1988,46,Georgetown,1988-02-24,103.87977974915988,included_game_day
+1988,46,Georgetown,1988-02-29,98.92091043982947,included_game_day
+1988,46,Georgetown,1988-03-05,103.4967571166152,included_game_day
+1988,46,Georgetown,1988-03-11,103.15743445804378,included_game_day
+1988,46,Georgetown,1988-03-18,102.1393526845495,included_game_day
+1988,46,Georgetown,1988-03-20,87.49564582965792,included_game_day
+1989,46,Georgetown,1988-12-14,9.0905506182515,included_game_day
+1989,46,Georgetown,1988-12-17,19.551698842426347,included_game_day
+1989,46,Georgetown,1988-12-20,44.089026942183715,included_game_day
+1989,46,Georgetown,1988-12-28,63.57808775611885,included_game_day
+1989,46,Georgetown,1988-12-29,72.48005256558966,included_game_day
+1989,46,Georgetown,1989-01-03,75.69426347844214,included_game_day
+1989,46,Georgetown,1989-01-07,104.74314607256458,included_game_day
+1989,46,Georgetown,1989-01-11,107.98018583652879,included_game_day
+1989,46,Georgetown,1989-01-14,125.75537815588265,included_game_day
+1989,46,Georgetown,1989-01-18,133.45760433903502,included_game_day
+1989,46,Georgetown,1989-01-21,129.636672422722,included_game_day
+1989,46,Georgetown,1989-01-23,131.94544193193212,included_game_day
+1989,46,Georgetown,1989-01-28,122.05830443282319,included_game_day
+1989,46,Georgetown,1989-02-01,128.96151328222643,included_game_day
+1989,46,Georgetown,1989-02-05,137.72723621592198,included_game_day
+1989,46,Georgetown,1989-02-08,151.0052497914032,included_game_day
+1989,46,Georgetown,1989-02-11,139.8850823905455,included_game_day
+1989,46,Georgetown,1989-02-13,148.88170812367517,included_game_day
+1989,46,Georgetown,1989-02-18,147.81132847936436,included_game_day
+1989,46,Georgetown,1989-02-22,143.51852592582455,included_game_day
+1989,46,Georgetown,1989-02-25,146.84574820179483,included_game_day
+1989,46,Georgetown,1989-02-27,144.44246244687253,included_game_day
+1989,46,Georgetown,1989-03-05,143.79100238041082,included_game_day
+1989,46,Georgetown,1989-03-10,163.0042084865166,included_game_day
+1989,46,Georgetown,1989-03-11,179.0974377350504,included_game_day
+1989,46,Georgetown,1989-03-12,186.89215951781944,included_game_day
+1989,46,Georgetown,1989-03-17,169.86770462621018,included_game_day
+1989,46,Georgetown,1989-03-19,168.01529773783196,included_game_day
+1989,46,Georgetown,1989-03-24,169.53383151841746,included_game_day
+1989,46,Georgetown,1989-03-26,166.40870791035277,included_game_day
+1990,46,Georgetown,1989-12-02,45.45,included_game_day
+1990,46,Georgetown,1989-12-07,58.833267000000006,included_game_day
+1990,46,Georgetown,1989-12-09,71.50994030000001,included_game_day
+1990,46,Georgetown,1989-12-20,97.15185667100002,included_game_day
+1990,46,Georgetown,1989-12-29,122.56016337226099,included_game_day
+1990,46,Georgetown,1990-01-02,147.04414655627997,included_game_day
+1990,46,Georgetown,1990-01-06,140.0228340868763,included_game_day
+1990,46,Georgetown,1990-01-08,145.7255853151642,included_game_day
+1990,46,Georgetown,1990-01-13,143.64649789127023,included_game_day
+1990,46,Georgetown,1990-01-17,148.1675199573262,included_game_day
+1990,46,Georgetown,1990-01-20,142.4536128488041,included_game_day
+1990,46,Georgetown,1990-01-22,139.54863105752813,included_game_day
+1990,46,Georgetown,1990-01-27,112.83733493097398,included_game_day
+1990,46,Georgetown,1990-01-30,125.05824345485998,included_game_day
+1990,46,Georgetown,1990-02-03,130.79222676797295,included_game_day
+1990,46,Georgetown,1990-02-07,137.08003996492954,included_game_day
+1990,46,Georgetown,1990-02-10,135.14438529256375,included_game_day
+1990,46,Georgetown,1990-02-13,126.18426878831278,included_game_day
+1990,46,Georgetown,1990-02-17,126.7979157524282,included_game_day
+1990,46,Georgetown,1990-02-21,118.79333771986403,included_game_day
+1990,46,Georgetown,1990-02-24,140.72085245370394,included_game_day
+1990,46,Georgetown,1990-02-28,159.18722364194062,included_game_day
+1990,46,Georgetown,1990-03-04,157.44601805643794,included_game_day
+1990,46,Georgetown,1990-03-09,154.22794228875614,included_game_day
+1990,46,Georgetown,1990-03-10,149.0573786037726,included_game_day
+1990,46,Georgetown,1990-03-16,160.3998156702864,included_game_day
+1990,46,Georgetown,1990-03-18,152.89401400323302,included_game_day
+1991,46,Georgetown,1990-12-05,9.609333000000001,included_game_day
+1991,46,Georgetown,1990-12-08,20.622517700000003,included_game_day
+1991,46,Georgetown,1990-12-15,8.806846001000002,included_game_day
+1991,46,Georgetown,1990-12-22,15.866285850423003,included_game_day
+1991,46,Georgetown,1990-12-29,37.352601199829806,included_game_day
+1991,46,Georgetown,1991-01-02,49.40144614891632,included_game_day
+1991,46,Georgetown,1991-01-05,62.84087821358885,included_game_day
+1991,46,Georgetown,1991-01-08,67.00477958670854,included_game_day
+1991,46,Georgetown,1991-01-12,67.63043211744592,included_game_day
+1991,46,Georgetown,1991-01-14,60.324947242609035,included_game_day
+1991,46,Georgetown,1991-01-19,69.00127371863272,included_game_day
+1991,46,Georgetown,1991-01-21,68.86946627332665,included_game_day
+1991,46,Georgetown,1991-01-27,83.42395855977867,included_game_day
+1991,46,Georgetown,1991-01-30,88.71729921302975,included_game_day
+1991,46,Georgetown,1991-02-03,76.95028468421977,included_game_day
+1991,46,Georgetown,1991-02-06,89.92526417326386,included_game_day
+1991,46,Georgetown,1991-02-09,95.80036318953499,included_game_day
+1991,46,Georgetown,1991-02-11,94.21862886219198,included_game_day
+1991,46,Georgetown,1991-02-16,85.97786629272159,included_game_day
+1991,46,Georgetown,1991-02-20,71.14480723881289,included_game_day
+1991,46,Georgetown,1991-02-23,85.80441088509325,included_game_day
+1991,46,Georgetown,1991-02-25,78.53282027186566,included_game_day
+1991,46,Georgetown,1991-03-03,85.23716155282487,included_game_day
+1991,46,Georgetown,1991-03-07,106.64784320166618,included_game_day
+1991,46,Georgetown,1991-03-08,120.43340349799914,included_game_day
+1991,46,Georgetown,1991-03-10,107.75384776726251,included_game_day
+1991,46,Georgetown,1991-03-15,113.89275834944871,included_game_day
+1991,46,Georgetown,1991-03-17,121.96709781722822,included_game_day
+1992,46,Georgetown,1991-12-05,-5.522,included_game_day
+1992,46,Georgetown,1991-12-09,4.114663199999999,included_game_day
+1992,46,Georgetown,1991-12-21,25.99611573,included_game_day
+1992,46,Georgetown,1991-12-28,54.7556709005984,included_game_day
+1992,46,Georgetown,1992-01-04,43.2922897477954,included_game_day
+1992,46,Georgetown,1992-01-06,52.88939908318353,included_game_day
+1992,46,Georgetown,1992-01-11,60.98042750386705,included_game_day
+1992,46,Georgetown,1992-01-15,49.144386514674466,included_game_day
+1992,46,Georgetown,1992-01-18,44.0911882340827,included_game_day
+1992,46,Georgetown,1992-01-22,57.25215312067165,included_game_day
+1992,46,Georgetown,1992-01-25,67.09022257447698,included_game_day
+1992,46,Georgetown,1992-01-29,77.67412375573865,included_game_day
+1992,46,Georgetown,1992-02-01,76.60919295925066,included_game_day
+1992,46,Georgetown,1992-02-04,85.49625828844152,included_game_day
+1992,46,Georgetown,1992-02-08,55.60509024760087,included_game_day
+1992,46,Georgetown,1992-02-12,68.04833137784993,included_game_day
+1992,46,Georgetown,1992-02-15,74.6466606446944,included_game_day
+1992,46,Georgetown,1992-02-19,72.94142062220921,included_game_day
+1992,46,Georgetown,1992-02-23,79.36433495453038,included_game_day
+1992,46,Georgetown,1992-02-26,82.27855977749377,included_game_day
+1992,46,Georgetown,1992-02-29,94.178875181889,included_game_day
+1992,46,Georgetown,1992-03-02,82.24218015614234,included_game_day
+1992,46,Georgetown,1992-03-07,89.0354985041124,included_game_day
+1992,46,Georgetown,1992-03-13,90.57257896384479,included_game_day
+1992,46,Georgetown,1992-03-14,99.00597653032538,included_game_day
+1992,46,Georgetown,1992-03-15,92.5139561471338,included_game_day
+1992,46,Georgetown,1992-03-19,102.8241007706536,included_game_day
+1992,46,Georgetown,1992-03-21,92.99068453645769,included_game_day
+1993,46,Georgetown,1992-12-09,13.09,included_game_day
+1993,46,Georgetown,1992-12-12,36.5975,included_game_day
+1993,46,Georgetown,1992-12-19,42.202974,included_game_day
+1993,46,Georgetown,1992-12-28,43.823668105799996,included_game_day
+1993,46,Georgetown,1993-01-02,27.109518501913996,included_game_day
+1993,46,Georgetown,1993-01-05,31.923989337050415,included_game_day
+1993,46,Georgetown,1993-01-09,33.42331909998644,included_game_day
+1993,46,Georgetown,1993-01-13,59.221083287130995,included_game_day
+1993,46,Georgetown,1993-01-16,72.73087189038029,included_game_day
+1993,46,Georgetown,1993-01-18,94.24703489940063,included_game_day
+1993,46,Georgetown,1993-01-23,79.28005746249032,included_game_day
+1993,46,Georgetown,1993-01-27,89.81622046735862,included_game_day
+1993,46,Georgetown,1993-01-30,81.25221551354683,included_game_day
+1993,46,Georgetown,1993-02-01,64.68474836003878,included_game_day
+1993,46,Georgetown,1993-02-06,51.56136393588018,included_game_day
+1993,46,Georgetown,1993-02-08,42.30594293595475,included_game_day
+1993,46,Georgetown,1993-02-13,27.75878458852483,included_game_day
+1993,46,Georgetown,1993-02-17,35.94186129239031,included_game_day
+1993,46,Georgetown,1993-02-21,37.70291112626518,included_game_day
+1993,46,Georgetown,1993-02-23,32.91500105897063,included_game_day
+1993,46,Georgetown,1993-02-28,33.49081053816337,included_game_day
+1993,46,Georgetown,1993-03-03,46.8285221005339,included_game_day
+1993,46,Georgetown,1993-03-07,61.913857983119364,included_game_day
+1993,46,Georgetown,1993-03-11,69.13466430756979,included_game_day
+1993,46,Georgetown,1993-03-12,63.84292433611963,included_game_day
+1993,46,Georgetown,1993-03-17,76.13604523629559,included_game_day
+1993,46,Georgetown,1993-03-22,96.31711943877075,included_game_day
+1993,46,Georgetown,1993-03-24,102.25147351918395,included_game_day
+1993,46,Georgetown,1993-03-29,105.21353084736661,included_game_day
+1993,46,Georgetown,1993-03-31,106.33788490881918,included_game_day
+1994,46,Georgetown,1993-11-26,-1.0,included_game_day
+1994,46,Georgetown,1993-12-04,-2.38,included_game_day
+1994,46,Georgetown,1993-12-07,22.737,included_game_day
+1994,46,Georgetown,1993-12-10,58.13539,included_game_day
+1994,46,Georgetown,1993-12-18,75.6702367,included_game_day
+1994,46,Georgetown,1993-12-30,88.98542893097424,included_game_day
+1994,46,Georgetown,1994-01-04,89.2699712151146,included_game_day
+1994,46,Georgetown,1994-01-08,89.12622995939039,included_game_day
+1994,46,Georgetown,1994-01-12,96.31484313223548,included_game_day
+1994,46,Georgetown,1994-01-15,104.18809001626427,included_game_day
+1994,46,Georgetown,1994-01-17,108.41681568228202,included_game_day
+1994,46,Georgetown,1994-01-22,82.29014960382389,included_game_day
+1994,46,Georgetown,1994-01-24,77.468854500189,included_game_day
+1994,46,Georgetown,1994-01-29,99.82475935118987,included_game_day
+1994,46,Georgetown,1994-01-31,99.10233154366861,included_game_day
+1994,46,Georgetown,1994-02-05,115.15211096728126,included_game_day
+1994,46,Georgetown,1994-02-07,118.14324903207022,included_game_day
+1994,46,Georgetown,1994-02-16,112.32172716239357,included_game_day
+1994,46,Georgetown,1994-02-19,122.403424678914,included_game_day
+1994,46,Georgetown,1994-02-22,114.44758237800708,included_game_day
+1994,46,Georgetown,1994-02-26,122.41767215863793,included_game_day
+1994,46,Georgetown,1994-02-28,119.68347499489018,included_game_day
+1994,46,Georgetown,1994-03-06,117.22997302656094,included_game_day
+1994,46,Georgetown,1994-03-08,116.02742394295514,included_game_day
+1994,46,Georgetown,1994-03-11,139.55296014836614,included_game_day
+1994,46,Georgetown,1994-03-12,141.06256822543696,included_game_day
+1994,46,Georgetown,1994-03-13,131.54212695682597,included_game_day
+1994,46,Georgetown,1994-03-18,137.7054318041776,included_game_day
+1994,46,Georgetown,1994-03-20,126.17149185134966,included_game_day
+1995,46,Georgetown,1994-11-27,-20.4,included_game_day
+1995,46,Georgetown,1994-11-30,10.240000000000002,included_game_day
+1995,46,Georgetown,1994-12-03,14.216000000000001,included_game_day
+1995,46,Georgetown,1994-12-06,14.44749,included_game_day
+1995,46,Georgetown,1994-12-10,25.194327,included_game_day
+1995,46,Georgetown,1994-12-17,57.33248616,included_game_day
+1995,46,Georgetown,1994-12-28,63.4116500984772,included_game_day
+1995,46,Georgetown,1994-12-29,66.03182900533949,included_game_day
+1995,46,Georgetown,1995-01-03,71.48703168404684,included_game_day
+1995,46,Georgetown,1995-01-07,68.3335986705059,included_game_day
+1995,46,Georgetown,1995-01-10,87.14116791942581,included_game_day
+1995,46,Georgetown,1995-01-14,91.09022978787267,included_game_day
+1995,46,Georgetown,1995-01-16,79.46448663733186,included_game_day
+1995,46,Georgetown,1995-01-18,82.79794834425512,included_game_day
+1995,46,Georgetown,1995-01-22,80.60708391745641,included_game_day
+1995,46,Georgetown,1995-01-24,90.65187865199992,included_game_day
+1995,46,Georgetown,1995-01-28,92.88663342316346,included_game_day
+1995,46,Georgetown,1995-01-30,90.4068449464162,included_game_day
+1995,46,Georgetown,1995-02-04,76.10952891172197,included_game_day
+1995,46,Georgetown,1995-02-08,59.49350177783698,included_game_day
+1995,46,Georgetown,1995-02-14,61.247482841359485,included_game_day
+1995,46,Georgetown,1995-02-18,67.34359808809918,included_game_day
+1995,46,Georgetown,1995-02-20,105.23585500857891,included_game_day
+1995,46,Georgetown,1995-02-26,111.89797203504067,included_game_day
+1995,46,Georgetown,1995-03-01,106.05422125796285,included_game_day
+1995,46,Georgetown,1995-03-05,95.04563253581368,included_game_day
+1995,46,Georgetown,1995-03-10,98.53431621482937,included_game_day
+1995,46,Georgetown,1995-03-11,93.8061574019675,included_game_day
+1995,46,Georgetown,1995-03-17,99.44325761062811,included_game_day
+1995,46,Georgetown,1995-03-19,100.64244708984353,included_game_day
+1995,46,Georgetown,1995-03-23,98.66629448260701,included_game_day
+1996,46,Georgetown,1995-11-16,46.0,included_game_day
+1996,46,Georgetown,1995-11-17,63.4,included_game_day
+1996,46,Georgetown,1995-11-22,81.67,included_game_day
+1996,46,Georgetown,1995-11-24,68.143,included_game_day
+1996,46,Georgetown,1995-12-02,70.3667,included_game_day
+1996,46,Georgetown,1995-12-04,90.86823999999999,included_game_day
+1996,46,Georgetown,1995-12-08,131.32543809999999,included_game_day
+1996,46,Georgetown,1995-12-18,141.99469896,included_game_day
+1996,46,Georgetown,1995-12-20,163.62015526047,included_game_day
+1996,46,Georgetown,1995-12-28,149.749808752023,included_game_day
+1996,46,Georgetown,1996-01-03,165.3393195882007,included_game_day
+1996,46,Georgetown,1996-01-06,158.2255910545209,included_game_day
+1996,46,Georgetown,1996-01-09,134.76673434081113,included_game_day
+1996,46,Georgetown,1996-01-13,127.33878960664268,included_game_day
+1996,46,Georgetown,1996-01-15,124.15836274931414,included_game_day
+1996,46,Georgetown,1996-01-20,140.43752254703358,included_game_day
+1996,46,Georgetown,1996-01-24,149.0642732962686,included_game_day
+1996,46,Georgetown,1996-01-27,129.57195740507956,included_game_day
+1996,46,Georgetown,1996-01-31,143.41017904872496,included_game_day
+1996,46,Georgetown,1996-02-03,145.32666582531866,included_game_day
+1996,46,Georgetown,1996-02-05,136.63739734417052,included_game_day
+1996,46,Georgetown,1996-02-10,114.63909645952815,included_game_day
+1996,46,Georgetown,1996-02-13,121.42183097292106,included_game_day
+1996,46,Georgetown,1996-02-17,137.43457793345442,included_game_day
+1996,46,Georgetown,1996-02-19,154.1898905285477,included_game_day
+1996,46,Georgetown,1996-02-24,147.74644484408665,included_game_day
+1996,46,Georgetown,1996-02-27,138.27101620799692,included_game_day
+1996,46,Georgetown,1996-03-02,175.07130835254816,included_game_day
+1996,46,Georgetown,1996-03-07,192.2944487434362,included_game_day
+1996,46,Georgetown,1996-03-08,193.76643606189856,included_game_day
+1996,46,Georgetown,1996-03-09,195.55227457249094,included_game_day
+1996,46,Georgetown,1996-03-15,214.79301986231607,included_game_day
+1996,46,Georgetown,1996-03-17,215.15181681998303,included_game_day
+1996,46,Georgetown,1996-03-21,216.68625907727025,included_game_day
+1996,46,Georgetown,1996-03-23,187.7451728422245,included_game_day
+1997,46,Georgetown,1996-11-23,13.0,included_game_day
+1997,46,Georgetown,1996-11-26,43.9,included_game_day
+1997,46,Georgetown,1996-11-30,65.81,included_game_day
+1997,46,Georgetown,1996-12-02,58.629000000000005,included_game_day
+1997,46,Georgetown,1996-12-04,56.965900000000005,included_game_day
+1997,46,Georgetown,1996-12-07,44.272510000000004,included_game_day
+1997,46,Georgetown,1996-12-10,62.530311620000006,included_game_day
+1997,46,Georgetown,1996-12-21,75.837758898,included_game_day
+1997,46,Georgetown,1996-12-28,58.30478536539083,included_game_day
+1997,46,Georgetown,1997-01-02,67.68692716200323,included_game_day
+1997,46,Georgetown,1997-01-04,59.890810128022,included_game_day
+1997,46,Georgetown,1997-01-07,66.23732248109505,included_game_day
+1997,46,Georgetown,1997-01-11,50.578558874574995,included_game_day
+1997,46,Georgetown,1997-01-13,50.75242182098383,included_game_day
+1997,46,Georgetown,1997-01-18,51.45486190996032,included_game_day
+1997,46,Georgetown,1997-01-21,52.82179183668093,included_game_day
+1997,46,Georgetown,1997-01-25,28.779797600899457,included_game_day
+1997,46,Georgetown,1997-01-27,46.601238908537866,included_game_day
+1997,46,Georgetown,1997-02-01,50.16620183145323,included_game_day
+1997,46,Georgetown,1997-02-03,54.31677489560287,included_game_day
+1997,46,Georgetown,1997-02-08,56.359291007347835,included_game_day
+1997,46,Georgetown,1997-02-12,64.02821416557128,included_game_day
+1997,46,Georgetown,1997-02-20,84.1726555677197,included_game_day
+1997,46,Georgetown,1997-02-22,93.27821539738683,included_game_day
+1997,46,Georgetown,1997-02-26,90.4557072533769,included_game_day
+1997,46,Georgetown,1997-03-02,102.92186279065469,included_game_day
+1997,46,Georgetown,1997-03-06,99.85204970771417,included_game_day
+1997,46,Georgetown,1997-03-07,83.84175760832298,included_game_day
+1997,46,Georgetown,1997-03-14,72.64510364823678,included_game_day
+1998,46,Georgetown,1997-11-15,14.0,included_game_day
+1998,46,Georgetown,1997-11-17,56.0,included_game_day
+1998,46,Georgetown,1997-11-21,51.85,included_game_day
+1998,46,Georgetown,1997-11-25,62.375,included_game_day
+1998,46,Georgetown,1997-12-03,47.40576,included_game_day
+1998,46,Georgetown,1997-12-06,41.2514425,included_game_day
+1998,46,Georgetown,1997-12-18,67.0165848501,included_game_day
+1998,46,Georgetown,1997-12-31,76.52942796563036,included_game_day
+1998,46,Georgetown,1998-01-03,71.31848042496813,included_game_day
+1998,46,Georgetown,1998-01-05,66.49040054113983,included_game_day
+1998,46,Georgetown,1998-01-10,54.589712551018266,included_game_day
+1998,46,Georgetown,1998-01-12,59.26462737647301,included_game_day
+1998,46,Georgetown,1998-01-17,57.30677605739653,included_game_day
+1998,46,Georgetown,1998-01-20,49.87697286181796,included_game_day
+1998,46,Georgetown,1998-01-24,52.0233646097652,included_game_day
+1998,46,Georgetown,1998-01-26,30.787364743693566,included_game_day
+1998,46,Georgetown,1998-02-01,21.67481358569112,included_game_day
+1998,46,Georgetown,1998-02-03,13.100649342718876,included_game_day
+1998,46,Georgetown,1998-02-07,32.53992760161407,included_game_day
+1998,46,Georgetown,1998-02-11,19.59951586014895,included_game_day
+1998,46,Georgetown,1998-02-14,21.302085607486354,included_game_day
+1998,46,Georgetown,1998-02-17,13.540655670366775,included_game_day
+1998,46,Georgetown,1998-02-21,28.421846826848494,included_game_day
+1998,46,Georgetown,1998-02-25,19.681698381470174,included_game_day
+1998,46,Georgetown,1998-03-01,23.635033395442665,included_game_day
+1998,46,Georgetown,1998-03-04,32.92475025975211,included_game_day
+1998,46,Georgetown,1998-03-05,34.62137080039813,included_game_day
+1998,46,Georgetown,1998-03-11,39.70040522055174,included_game_day
+1998,46,Georgetown,1998-03-16,45.839446064145136,included_game_day
+1999,46,Georgetown,1998-11-10,-16.0,included_game_day
+1999,46,Georgetown,1998-11-11,-29.6,included_game_day
+1999,46,Georgetown,1998-11-15,-0.6400000000000006,included_game_day
+1999,46,Georgetown,1998-11-18,17.424,included_game_day
+1999,46,Georgetown,1998-11-23,39.571600000000004,included_game_day
+1999,46,Georgetown,1998-11-24,44.04444,included_game_day
+1999,46,Georgetown,1998-11-30,41.185795999999996,included_game_day
+1999,46,Georgetown,1998-12-02,45.2549564,included_game_day
+1999,46,Georgetown,1998-12-08,39.355397579599995,included_game_day
+1999,46,Georgetown,1998-12-22,59.130527140539996,included_game_day
+1999,46,Georgetown,1998-12-30,56.75590325455643,included_game_day
+1999,46,Georgetown,1999-01-02,47.34813058444642,included_game_day
+1999,46,Georgetown,1999-01-04,41.0556833327425,included_game_day
+1999,46,Georgetown,1999-01-09,45.90981143900888,included_game_day
+1999,46,Georgetown,1999-01-11,59.29453638681605,included_game_day
+1999,46,Georgetown,1999-01-16,56.09479171884192,included_game_day
+1999,46,Georgetown,1999-01-19,45.93452538981905,included_game_day
+1999,46,Georgetown,1999-01-23,53.21024060531689,included_game_day
+1999,46,Georgetown,1999-01-25,57.38564918953942,included_game_day
+1999,46,Georgetown,1999-01-30,58.6301780764982,included_game_day
+1999,46,Georgetown,1999-02-02,68.82128782985492,included_game_day
+1999,46,Georgetown,1999-02-06,61.59433820743228,included_game_day
+1999,46,Georgetown,1999-02-10,70.03252431673653,included_game_day
+1999,46,Georgetown,1999-02-17,61.645897263949905,included_game_day
+1999,46,Georgetown,1999-02-20,62.9339850508603,included_game_day
+1999,46,Georgetown,1999-02-23,71.96663395818372,included_game_day
+1999,46,Georgetown,1999-02-27,68.48638866655409,included_game_day
+1999,46,Georgetown,1999-03-03,66.70219243325039,included_game_day
+1999,46,Georgetown,1999-03-04,64.27903427931955,included_game_day
+1999,46,Georgetown,1999-03-10,60.25987587365907,included_game_day
+2000,46,Georgetown,1999-11-19,10.0,included_game_day
+2000,46,Georgetown,1999-11-22,25.0,included_game_day
+2000,46,Georgetown,1999-11-23,18.310000000000002,included_game_day
+2000,46,Georgetown,1999-11-24,8.151000000000002,included_game_day
+2000,46,Georgetown,1999-11-28,-0.407099999999998,included_game_day
+2000,46,Georgetown,1999-12-06,29.589141641000005,included_game_day
+2000,46,Georgetown,1999-12-08,30.963694476900002,included_game_day
+2000,46,Georgetown,1999-12-12,36.287540856220005,included_game_day
+2000,46,Georgetown,1999-12-18,36.783696885400005,included_game_day
+2000,46,Georgetown,1999-12-30,53.964814487033514,included_game_day
+2000,46,Georgetown,2000-01-02,62.72224946656537,included_game_day
+2000,46,Georgetown,2000-01-05,52.482976234325825,included_game_day
+2000,46,Georgetown,2000-01-08,45.890872171618376,included_game_day
+2000,46,Georgetown,2000-01-10,47.69614515945979,included_game_day
+2000,46,Georgetown,2000-01-15,49.59229260107862,included_game_day
+2000,46,Georgetown,2000-01-18,53.51283419142854,included_game_day
+2000,46,Georgetown,2000-01-22,35.73742490063744,included_game_day
+2000,46,Georgetown,2000-01-26,35.62439334954163,included_game_day
+2000,46,Georgetown,2000-01-29,51.645886114701284,included_game_day
+2000,46,Georgetown,2000-02-01,52.1036904282435,included_game_day
+2000,46,Georgetown,2000-02-05,42.42572746799763,included_game_day
+2000,46,Georgetown,2000-02-07,26.55396716461685,included_game_day
+2000,46,Georgetown,2000-02-13,34.92967391573999,included_game_day
+2000,46,Georgetown,2000-02-20,40.04089507337347,included_game_day
+2000,46,Georgetown,2000-02-22,26.791767973397107,included_game_day
+2000,46,Georgetown,2000-02-27,26.608992786792253,included_game_day
+2000,46,Georgetown,2000-03-01,39.535647191069465,included_game_day
+2000,46,Georgetown,2000-03-04,19.69776207032175,included_game_day
+2000,46,Georgetown,2000-03-08,20.88363144715359,included_game_day
+2000,46,Georgetown,2000-03-09,35.06554281887203,included_game_day
+2000,46,Georgetown,2000-03-10,29.24730209373171,included_game_day
+2000,46,Georgetown,2000-03-15,39.94795063787885,included_game_day
+2000,46,Georgetown,2000-03-21,31.463308375891245,included_game_day
+2001,46,Georgetown,2000-11-17,7.0,included_game_day
+2001,46,Georgetown,2000-11-24,18.3,included_game_day
+2001,46,Georgetown,2000-11-25,30.1503,included_game_day
+2001,46,Georgetown,2000-11-26,46.00849,included_game_day
+2001,46,Georgetown,2000-12-02,76.257081,included_game_day
+2001,46,Georgetown,2000-12-05,75.3642329,included_game_day
+2001,46,Georgetown,2000-12-09,95.09377091210001,included_game_day
+2001,46,Georgetown,2000-12-12,92.86911597879,included_game_day
+2001,46,Georgetown,2000-12-16,107.33676595767,included_game_day
+2001,46,Georgetown,2000-12-22,112.065538464103,included_game_day
+2001,46,Georgetown,2000-12-31,117.43584832488531,included_game_day
+2001,46,Georgetown,2001-01-03,136.72937478055908,included_game_day
+2001,46,Georgetown,2001-01-06,137.44890285336425,included_game_day
+2001,46,Georgetown,2001-01-10,132.6633198761796,included_game_day
+2001,46,Georgetown,2001-01-13,142.4349171358539,included_game_day
+2001,46,Georgetown,2001-01-15,143.67254557835827,included_game_day
+2001,46,Georgetown,2001-01-20,125.74158714192352,included_game_day
+2001,46,Georgetown,2001-01-25,130.03222884518385,included_game_day
+2001,46,Georgetown,2001-01-27,117.86742449677521,included_game_day
+2001,46,Georgetown,2001-01-29,109.64628507264865,included_game_day
+2001,46,Georgetown,2001-02-03,114.66864444111536,included_game_day
+2001,46,Georgetown,2001-02-05,125.31084374143725,included_game_day
+2001,46,Georgetown,2001-02-10,101.52327510429123,included_game_day
+2001,46,Georgetown,2001-02-12,91.02180976663817,included_game_day
+2001,46,Georgetown,2001-02-17,89.99917884313396,included_game_day
+2001,46,Georgetown,2001-02-21,85.23175534167532,included_game_day
+2001,46,Georgetown,2001-02-24,90.55788442556087,included_game_day
+2001,46,Georgetown,2001-02-28,97.72969399911402,included_game_day
+2001,46,Georgetown,2001-03-04,108.24372407027693,included_game_day
+2001,46,Georgetown,2001-03-08,82.46072035871599,included_game_day
+2001,46,Georgetown,2001-03-15,89.63257712602591,included_game_day
+2001,46,Georgetown,2001-03-17,104.1367560361222,included_game_day
+2001,46,Georgetown,2001-03-22,106.01020938185184,included_game_day
+2002,46,Georgetown Hoyas,2001-11-19,-10.0,included_game_day
+2002,46,Georgetown Hoyas,2001-11-21,10.2,included_game_day
+2002,46,Georgetown Hoyas,2001-11-24,55.620000000000005,included_game_day
+2002,46,Georgetown Hoyas,2001-11-26,76.358,included_game_day
+2002,46,Georgetown Hoyas,2001-11-28,91.81665000000001,included_game_day
+2002,46,Georgetown Hoyas,2001-12-06,90.31627014000001,included_game_day
+2002,46,Georgetown Hoyas,2001-12-10,97.87291974500002,included_game_day
+2002,46,Georgetown Hoyas,2001-12-15,100.62690428116002,included_game_day
+2002,46,Georgetown Hoyas,2001-12-17,107.60135008694402,included_game_day
+2002,46,Georgetown Hoyas,2001-12-20,97.37940571993862,included_game_day
+2002,46,Georgetown Hoyas,2001-12-29,85.50314678393495,included_game_day
+2002,46,Georgetown Hoyas,2002-01-02,74.02230732142746,included_game_day
+2002,46,Georgetown Hoyas,2002-01-05,72.3724822073432,included_game_day
+2002,46,Georgetown Hoyas,2002-01-12,103.52922823603832,included_game_day
+2002,46,Georgetown Hoyas,2002-01-16,119.28294371680964,included_game_day
+2002,46,Georgetown Hoyas,2002-01-19,115.17440755560035,included_game_day
+2002,46,Georgetown Hoyas,2002-01-21,127.96090306196545,included_game_day
+2002,46,Georgetown Hoyas,2002-01-26,120.43156181988415,included_game_day
+2002,46,Georgetown Hoyas,2002-01-28,129.58746047211022,included_game_day
+2002,46,Georgetown Hoyas,2002-02-02,118.25747623586484,included_game_day
+2002,46,Georgetown Hoyas,2002-02-09,110.3018682909515,included_game_day
+2002,46,Georgetown Hoyas,2002-02-12,113.53761044523712,included_game_day
+2002,46,Georgetown Hoyas,2002-02-16,100.18375353618009,included_game_day
+2002,46,Georgetown Hoyas,2002-02-19,96.25829097855659,included_game_day
+2002,46,Georgetown Hoyas,2002-02-24,104.17287172041308,included_game_day
+2002,46,Georgetown Hoyas,2002-02-27,104.71699178307429,included_game_day
+2002,46,Georgetown Hoyas,2002-03-02,114.05294594437355,included_game_day
+2002,46,Georgetown Hoyas,2002-03-06,104.14247050181017,included_game_day
+2002,46,Georgetown Hoyas,2002-03-07,97.81541859125926,included_game_day
+2003,46,Georgetown Hoyas,2002-11-22,50.0,included_game_day
+2003,46,Georgetown Hoyas,2002-11-25,62.315,included_game_day
+2003,46,Georgetown Hoyas,2002-11-30,83.0035,included_game_day
+2003,46,Georgetown Hoyas,2002-12-02,96.49418,included_game_day
+2003,46,Georgetown Hoyas,2002-12-05,95.5645949,included_game_day
+2003,46,Georgetown Hoyas,2002-12-16,115.14942948800001,included_game_day
+2003,46,Georgetown Hoyas,2002-12-20,122.20131560920001,included_game_day
+2003,46,Georgetown Hoyas,2002-12-28,111.20833726343001,included_game_day
+2003,46,Georgetown Hoyas,2002-12-31,133.36488169949345,included_game_day
+2003,46,Georgetown Hoyas,2003-01-08,128.45293579963544,included_game_day
+2003,46,Georgetown Hoyas,2003-01-12,116.50956375667565,included_game_day
+2003,46,Georgetown Hoyas,2003-01-14,95.87797602948137,included_game_day
+2003,46,Georgetown Hoyas,2003-01-18,83.2964641157282,included_game_day
+2003,46,Georgetown Hoyas,2003-01-20,82.4361758554154,included_game_day
+2003,46,Georgetown Hoyas,2003-01-25,93.16767298530777,included_game_day
+2003,46,Georgetown Hoyas,2003-01-29,74.66993867531853,included_game_day
+2003,46,Georgetown Hoyas,2003-02-01,81.00007574283099,included_game_day
+2003,46,Georgetown Hoyas,2003-02-03,79.38878188087122,included_game_day
+2003,46,Georgetown Hoyas,2003-02-08,67.22890674777165,included_game_day
+2003,46,Georgetown Hoyas,2003-02-11,58.78674790599928,included_game_day
+2003,46,Georgetown Hoyas,2003-02-15,69.0364050223746,included_game_day
+2003,46,Georgetown Hoyas,2003-02-18,59.06150128269553,included_game_day
+2003,46,Georgetown Hoyas,2003-02-22,62.32693593126274,included_game_day
+2003,46,Georgetown Hoyas,2003-02-25,74.5835483066813,included_game_day
+2003,46,Georgetown Hoyas,2003-03-01,68.20477916800728,included_game_day
+2003,46,Georgetown Hoyas,2003-03-03,67.05194863065425,included_game_day
+2003,46,Georgetown Hoyas,2003-03-08,59.11735118303338,included_game_day
+2003,46,Georgetown Hoyas,2003-03-12,66.78183560215237,included_game_day
+2003,46,Georgetown Hoyas,2003-03-13,71.26732748237605,included_game_day
+2003,46,Georgetown Hoyas,2003-03-18,82.70074995989307,included_game_day
+2003,46,Georgetown Hoyas,2003-03-24,95.80814102125174,included_game_day
+2003,46,Georgetown Hoyas,2003-03-26,101.45645189858637,included_game_day
+2003,46,Georgetown Hoyas,2003-04-01,115.78790660748578,included_game_day
+2003,46,Georgetown Hoyas,2003-04-03,111.91316531108438,included_game_day
+2004,46,Georgetown Hoyas,2003-11-21,44.0,included_game_day
+2004,46,Georgetown Hoyas,2003-11-23,43.6,included_game_day
+2004,46,Georgetown Hoyas,2003-11-25,49.115,included_game_day
+2004,46,Georgetown Hoyas,2003-11-29,49.9035,included_game_day
+2004,46,Georgetown Hoyas,2003-12-03,59.15115,included_game_day
+2004,46,Georgetown Hoyas,2003-12-06,65.1907352,included_game_day
+2004,46,Georgetown Hoyas,2003-12-13,71.52118878,included_game_day
+2004,46,Georgetown Hoyas,2003-12-20,90.087915041,included_game_day
+2004,46,Georgetown Hoyas,2003-12-22,97.23733778066,included_game_day
+2004,46,Georgetown Hoyas,2004-01-03,93.65045072765838,included_game_day
+2004,46,Georgetown Hoyas,2004-01-06,76.48563397648329,included_game_day
+2004,46,Georgetown Hoyas,2004-01-10,69.22752534619482,included_game_day
+2004,46,Georgetown Hoyas,2004-01-14,58.98192477665263,included_game_day
+2004,46,Georgetown Hoyas,2004-01-20,50.12260420010951,included_game_day
+2004,46,Georgetown Hoyas,2004-01-24,43.35520856346246,included_game_day
+2004,46,Georgetown Hoyas,2004-01-26,38.579472751646605,included_game_day
+2004,46,Georgetown Hoyas,2004-01-31,49.39115200614346,included_game_day
+2004,46,Georgetown Hoyas,2004-02-05,32.37525192577529,included_game_day
+2004,46,Georgetown Hoyas,2004-02-07,46.00048705547852,included_game_day
+2004,46,Georgetown Hoyas,2004-02-11,30.873218958278542,included_game_day
+2004,46,Georgetown Hoyas,2004-02-14,29.7611727275456,included_game_day
+2004,46,Georgetown Hoyas,2004-02-18,16.709151599457122,included_game_day
+2004,46,Georgetown Hoyas,2004-02-21,14.540295517278745,included_game_day
+2004,46,Georgetown Hoyas,2004-02-24,15.277331819691183,included_game_day
+2004,46,Georgetown Hoyas,2004-02-28,-0.4325527704993686,included_game_day
+2004,46,Georgetown Hoyas,2004-03-04,-2.6149940174456265,included_game_day
+2004,46,Georgetown Hoyas,2004-03-06,-10.006280119899362,included_game_day
+2004,46,Georgetown Hoyas,2004-03-10,-5.87971804023905,included_game_day
+2005,46,Georgetown Hoyas,2004-11-22,-21.5,included_game_day
+2005,46,Georgetown Hoyas,2004-11-26,13.649999999999999,included_game_day
+2005,46,Georgetown Hoyas,2004-11-30,38.80261,included_game_day
+2005,46,Georgetown Hoyas,2004-12-06,44.889090010000004,included_game_day
+2005,46,Georgetown Hoyas,2004-12-09,32.757435593000004,included_game_day
+2005,46,Georgetown Hoyas,2004-12-11,41.4465823298,included_game_day
+2005,46,Georgetown Hoyas,2004-12-20,19.963667803969003,included_game_day
+2005,46,Georgetown Hoyas,2004-12-22,24.7509291669421,included_game_day
+2005,46,Georgetown Hoyas,2004-12-23,49.31410020351239,included_game_day
+2005,46,Georgetown Hoyas,2004-12-28,46.196237909095714,included_game_day
+2005,46,Georgetown Hoyas,2004-12-30,59.020683273983956,included_game_day
+2005,46,Georgetown Hoyas,2005-01-05,68.91854240520121,included_game_day
+2005,46,Georgetown Hoyas,2005-01-08,64.14461011044295,included_game_day
+2005,46,Georgetown Hoyas,2005-01-11,64.16929783180386,included_game_day
+2005,46,Georgetown Hoyas,2005-01-15,73.3462099929544,included_game_day
+2005,46,Georgetown Hoyas,2005-01-18,78.10546211565813,included_game_day
+2005,46,Georgetown Hoyas,2005-01-23,74.9442464394395,included_game_day
+2005,46,Georgetown Hoyas,2005-01-25,77.82274571877667,included_game_day
+2005,46,Georgetown Hoyas,2005-01-29,69.4854574595347,included_game_day
+2005,46,Georgetown Hoyas,2005-02-02,74.23105973633665,included_game_day
+2005,46,Georgetown Hoyas,2005-02-05,74.85425426272094,included_game_day
+2005,46,Georgetown Hoyas,2005-02-12,75.74224201632444,included_game_day
+2005,46,Georgetown Hoyas,2005-02-16,74.03035488535859,included_game_day
+2005,46,Georgetown Hoyas,2005-02-20,62.337057675737185,included_game_day
+2005,46,Georgetown Hoyas,2005-02-27,57.327912751837644,included_game_day
+2005,46,Georgetown Hoyas,2005-03-02,51.533799206653285,included_game_day
+2005,46,Georgetown Hoyas,2005-03-05,45.15281507989628,included_game_day
+2005,46,Georgetown Hoyas,2005-03-09,44.91089884346408,included_game_day
+2005,46,Georgetown Hoyas,2005-03-10,57.080936331083045,included_game_day
+2005,46,Georgetown Hoyas,2005-03-16,81.37309408398218,included_game_day
+2005,46,Georgetown Hoyas,2005-03-22,93.57444987024994,included_game_day
+2005,46,Georgetown Hoyas,2005-03-24,91.30077589771192,included_game_day
+2006,46,Georgetown Hoyas,2005-11-18,26.0,included_game_day
+2006,46,Georgetown Hoyas,2005-11-21,33.4,included_game_day
+2006,46,Georgetown Hoyas,2005-11-26,26.0616,included_game_day
+2006,46,Georgetown Hoyas,2005-12-03,49.084914,included_game_day
+2006,46,Georgetown Hoyas,2005-12-08,45.996698207799994,included_game_day
+2006,46,Georgetown Hoyas,2005-12-11,60.95404841102,included_game_day
+2006,46,Georgetown Hoyas,2005-12-17,65.38049275391799,included_game_day
+2006,46,Georgetown Hoyas,2005-12-21,64.5481613783812,included_game_day
+2006,46,Georgetown Hoyas,2005-12-27,74.8940431719911,included_game_day
+2006,46,Georgetown Hoyas,2005-12-28,84.74782589660826,included_game_day
+2006,46,Georgetown Hoyas,2006-01-05,88.55928935813887,included_game_day
+2006,46,Georgetown Hoyas,2006-01-08,101.04897492702678,included_game_day
+2006,46,Georgetown Hoyas,2006-01-11,96.1859634629498,included_game_day
+2006,46,Georgetown Hoyas,2006-01-14,98.50449634036566,included_game_day
+2006,46,Georgetown Hoyas,2006-01-17,86.55181479541046,included_game_day
+2006,46,Georgetown Hoyas,2006-01-21,98.17163494169512,included_game_day
+2006,46,Georgetown Hoyas,2006-01-24,101.3045690320049,included_game_day
+2006,46,Georgetown Hoyas,2006-01-28,115.27626933279704,included_game_day
+2006,46,Georgetown Hoyas,2006-01-31,126.85291000169607,included_game_day
+2006,46,Georgetown Hoyas,2006-02-05,126.67134674009839,included_game_day
+2006,46,Georgetown Hoyas,2006-02-09,138.04657873429252,included_game_day
+2006,46,Georgetown Hoyas,2006-02-12,118.4728794770324,included_game_day
+2006,46,Georgetown Hoyas,2006-02-16,111.89071496020932,included_game_day
+2006,46,Georgetown Hoyas,2006-02-19,108.27767864027885,included_game_day
+2006,46,Georgetown Hoyas,2006-02-22,116.08879564226565,included_game_day
+2006,46,Georgetown Hoyas,2006-02-25,124.10708058937425,included_game_day
+2006,46,Georgetown Hoyas,2006-03-04,105.16831672848771,included_game_day
+2006,46,Georgetown Hoyas,2006-03-08,105.96148576303143,included_game_day
+2006,46,Georgetown Hoyas,2006-03-09,111.36757528215054,included_game_day
+2006,46,Georgetown Hoyas,2006-03-10,101.58605698599467,included_game_day
+2006,46,Georgetown Hoyas,2006-03-17,101.16513414538535,included_game_day
+2006,46,Georgetown Hoyas,2006-03-19,123.73637944744584,included_game_day
+2006,46,Georgetown Hoyas,2006-03-24,128.23837792651037,included_game_day
+2007,46,Georgetown Hoyas,2006-11-11,7.0,included_game_day
+2007,46,Georgetown Hoyas,2006-11-15,25.3,included_game_day
+2007,46,Georgetown Hoyas,2006-11-19,8.120000000000001,included_game_day
+2007,46,Georgetown Hoyas,2006-11-22,19.66516,included_game_day
+2007,46,Georgetown Hoyas,2006-11-27,29.588166219999998,included_game_day
+2007,46,Georgetown Hoyas,2006-11-29,25.739499598000002,included_game_day
+2007,46,Georgetown Hoyas,2006-12-02,26.3307925182,included_game_day
+2007,46,Georgetown Hoyas,2006-12-05,54.546644009779996,included_game_day
+2007,46,Georgetown Hoyas,2006-12-09,62.581229118802,included_game_day
+2007,46,Georgetown Hoyas,2006-12-16,84.24809222919001,included_game_day
+2007,46,Georgetown Hoyas,2006-12-20,101.06073475942802,included_game_day
+2007,46,Georgetown Hoyas,2006-12-23,110.27387584247012,included_game_day
+2007,46,Georgetown Hoyas,2006-12-30,124.49783419008926,included_game_day
+2007,46,Georgetown Hoyas,2007-01-06,144.58052665236198,included_game_day
+2007,46,Georgetown Hoyas,2007-01-08,134.31028212021073,included_game_day
+2007,46,Georgetown Hoyas,2007-01-13,132.41406299041586,included_game_day
+2007,46,Georgetown Hoyas,2007-01-17,132.73489506512442,included_game_day
+2007,46,Georgetown Hoyas,2007-01-19,142.01076929275658,included_game_day
+2007,46,Georgetown Hoyas,2007-01-24,147.44007981177026,included_game_day
+2007,46,Georgetown Hoyas,2007-01-27,145.65171857997603,included_game_day
+2007,46,Georgetown Hoyas,2007-02-01,160.52872277156447,included_game_day
+2007,46,Georgetown Hoyas,2007-02-07,167.29402420935813,included_game_day
+2007,46,Georgetown Hoyas,2007-02-10,177.1784229835686,included_game_day
+2007,46,Georgetown Hoyas,2007-02-12,185.7477846963295,included_game_day
+2007,46,Georgetown Hoyas,2007-02-17,186.80740312953867,included_game_day
+2007,46,Georgetown Hoyas,2007-02-21,180.74140501054544,included_game_day
+2007,46,Georgetown Hoyas,2007-02-24,180.91859612322915,included_game_day
+2007,46,Georgetown Hoyas,2007-02-26,161.36062324353003,included_game_day
+2007,46,Georgetown Hoyas,2007-03-03,162.36781747366638,included_game_day
+2007,46,Georgetown Hoyas,2007-03-08,161.49103051474248,included_game_day
+2007,46,Georgetown Hoyas,2007-03-09,158.4346643007811,included_game_day
+2007,46,Georgetown Hoyas,2007-03-10,177.7074205354805,included_game_day
+2007,46,Georgetown Hoyas,2007-03-15,191.17344895113095,included_game_day
+2007,46,Georgetown Hoyas,2007-03-17,184.92034328856886,included_game_day
+2007,46,Georgetown Hoyas,2007-03-23,175.7716569683689,included_game_day
+2007,46,Georgetown Hoyas,2007-03-25,193.9065162341712,included_game_day
+2007,46,Georgetown Hoyas,2007-03-31,188.91349001941694,included_game_day
+2008,46,Georgetown Hoyas,2007-11-10,12.0,included_game_day
+2008,46,Georgetown Hoyas,2007-11-15,33.379999999999995,included_game_day
+2008,46,Georgetown Hoyas,2007-11-21,39.331999999999994,included_game_day
+2008,46,Georgetown Hoyas,2007-11-28,57.17559290999999,included_game_day
+2008,46,Georgetown Hoyas,2007-12-01,58.89312661899999,included_game_day
+2008,46,Georgetown Hoyas,2007-12-05,63.716551349099994,included_game_day
+2008,46,Georgetown Hoyas,2007-12-09,84.981136533073,included_game_day
+2008,46,Georgetown Hoyas,2007-12-15,129.3109142090107,included_game_day
+2008,46,Georgetown Hoyas,2007-12-22,115.21545094473844,included_game_day
+2008,46,Georgetown Hoyas,2007-12-29,129.79277182390953,included_game_day
+2008,46,Georgetown Hoyas,2007-12-31,141.7846426686045,included_game_day
+2008,46,Georgetown Hoyas,2008-01-05,140.52684663734664,included_game_day
+2008,46,Georgetown Hoyas,2008-01-08,146.65264732945792,included_game_day
+2008,46,Georgetown Hoyas,2008-01-12,144.23417173717263,included_game_day
+2008,46,Georgetown Hoyas,2008-01-14,135.9646197679077,included_game_day
+2008,46,Georgetown Hoyas,2008-01-21,130.20755252390884,included_game_day
+2008,46,Georgetown Hoyas,2008-01-26,135.90724854510069,included_game_day
+2008,46,Georgetown Hoyas,2008-01-30,158.53506613186462,included_game_day
+2008,46,Georgetown Hoyas,2008-02-02,158.69611119400454,included_game_day
+2008,46,Georgetown Hoyas,2008-02-05,150.42938264555008,included_game_day
+2008,46,Georgetown Hoyas,2008-02-09,147.35025485935927,included_game_day
+2008,46,Georgetown Hoyas,2008-02-11,132.887895669248,included_game_day
+2008,46,Georgetown Hoyas,2008-02-16,124.40265915683221,included_game_day
+2008,46,Georgetown Hoyas,2008-02-18,130.2171022368439,included_game_day
+2008,46,Georgetown Hoyas,2008-02-23,139.97376358603083,included_game_day
+2008,46,Georgetown Hoyas,2008-02-27,133.38102478519482,included_game_day
+2008,46,Georgetown Hoyas,2008-03-01,141.1084891517845,included_game_day
+2008,46,Georgetown Hoyas,2008-03-08,144.46866839235716,included_game_day
+2008,46,Georgetown Hoyas,2008-03-13,159.92875241581973,included_game_day
+2008,46,Georgetown Hoyas,2008-03-14,174.18617471705358,included_game_day
+2008,46,Georgetown Hoyas,2008-03-15,160.42899697675406,included_game_day
+2008,46,Georgetown Hoyas,2008-03-21,167.98036440475363,included_game_day
+2008,46,Georgetown Hoyas,2008-03-23,164.25789844096542,included_game_day
+2009,46,Georgetown Hoyas,2008-11-17,5.5,included_game_day
+2009,46,Georgetown Hoyas,2008-11-22,29.73,included_game_day
+2009,46,Georgetown Hoyas,2008-11-27,33.81971,included_game_day
+2009,46,Georgetown Hoyas,2008-11-28,26.372568,included_game_day
+2009,46,Georgetown Hoyas,2008-11-30,55.283180200000004,included_game_day
+2009,46,Georgetown Hoyas,2008-12-06,70.21809001,included_game_day
+2009,46,Georgetown Hoyas,2008-12-08,120.174365892,included_game_day
+2009,46,Georgetown Hoyas,2008-12-13,122.0478546728,included_game_day
+2009,46,Georgetown Hoyas,2008-12-20,118.881410402925,included_game_day
+2009,46,Georgetown Hoyas,2008-12-23,134.79568441648925,included_game_day
+2009,46,Georgetown Hoyas,2008-12-29,149.56844144045596,included_game_day
+2009,46,Georgetown Hoyas,2009-01-03,130.01939597199367,included_game_day
+2009,46,Georgetown Hoyas,2009-01-05,124.12472868870125,included_game_day
+2009,46,Georgetown Hoyas,2009-01-10,123.2857739347867,included_game_day
+2009,46,Georgetown Hoyas,2009-01-14,132.97184049295345,included_game_day
+2009,46,Georgetown Hoyas,2009-01-17,131.43817843840043,included_game_day
+2009,46,Georgetown Hoyas,2009-01-22,110.61632088747471,included_game_day
+2009,46,Georgetown Hoyas,2009-01-25,99.0950962800944,included_game_day
+2009,46,Georgetown Hoyas,2009-01-28,89.0965106915612,included_game_day
+2009,46,Georgetown Hoyas,2009-01-31,86.00018679938766,included_game_day
+2009,46,Georgetown Hoyas,2009-02-03,84.88556547559213,included_game_day
+2009,46,Georgetown Hoyas,2009-02-07,77.10432077582324,included_game_day
+2009,46,Georgetown Hoyas,2009-02-14,77.44693063862898,included_game_day
+2009,46,Georgetown Hoyas,2009-02-18,97.48653936767997,included_game_day
+2009,46,Georgetown Hoyas,2009-02-21,91.24719456064854,included_game_day
+2009,46,Georgetown Hoyas,2009-02-23,75.51311604338194,included_game_day
+2009,46,Georgetown Hoyas,2009-02-28,85.03684827395057,included_game_day
+2009,46,Georgetown Hoyas,2009-03-03,77.63658151426013,included_game_day
+2009,46,Georgetown Hoyas,2009-03-07,68.09001163599278,included_game_day
+2009,46,Georgetown Hoyas,2009-03-10,57.15870071451006,included_game_day
+2009,46,Georgetown Hoyas,2009-03-18,60.73932915010066,included_game_day
+2010,46,Georgetown Hoyas,2009-11-13,19.0,included_game_day
+2010,46,Georgetown Hoyas,2009-11-17,17.4,included_game_day
+2010,46,Georgetown Hoyas,2009-11-21,37.049,included_game_day
+2010,46,Georgetown Hoyas,2009-11-28,66.31157999999999,included_game_day
+2010,46,Georgetown Hoyas,2009-11-30,78.61893889999999,included_game_day
+2010,46,Georgetown Hoyas,2009-12-05,88.33653862499999,included_game_day
+2010,46,Georgetown Hoyas,2009-12-08,92.14050287309999,included_game_day
+2010,46,Georgetown Hoyas,2009-12-12,97.37714398278999,included_game_day
+2010,46,Georgetown Hoyas,2009-12-19,87.26930377660499,included_game_day
+2010,46,Georgetown Hoyas,2009-12-23,97.84570744432449,included_game_day
+2010,46,Georgetown Hoyas,2009-12-31,98.99784187376657,included_game_day
+2010,46,Georgetown Hoyas,2010-01-03,107.99173163392845,included_game_day
+2010,46,Georgetown Hoyas,2010-01-06,108.27230274936346,included_game_day
+2010,46,Georgetown Hoyas,2010-01-09,107.08885874023183,included_game_day
+2010,46,Georgetown Hoyas,2010-01-14,114.9511521181641,included_game_day
+2010,46,Georgetown Hoyas,2010-01-17,115.80119722494064,included_game_day
+2010,46,Georgetown Hoyas,2010-01-20,126.86656024260202,included_game_day
+2010,46,Georgetown Hoyas,2010-01-23,133.67576818843048,included_game_day
+2010,46,Georgetown Hoyas,2010-01-25,123.62776818349478,included_game_day
+2010,46,Georgetown Hoyas,2010-01-30,140.28689319531756,included_game_day
+2010,46,Georgetown Hoyas,2010-02-03,120.96694932152718,included_game_day
+2010,46,Georgetown Hoyas,2010-02-06,135.340485753553,included_game_day
+2010,46,Georgetown Hoyas,2010-02-09,139.0302786922864,included_game_day
+2010,46,Georgetown Hoyas,2010-02-14,124.04638338169156,included_game_day
+2010,46,Georgetown Hoyas,2010-02-18,120.04988196557368,included_game_day
+2010,46,Georgetown Hoyas,2010-02-23,131.8612988345597,included_game_day
+2010,46,Georgetown Hoyas,2010-02-27,110.95861671937632,included_game_day
+2010,46,Georgetown Hoyas,2010-03-01,103.66917274257233,included_game_day
+2010,46,Georgetown Hoyas,2010-03-06,123.73701254357174,included_game_day
+2010,46,Georgetown Hoyas,2010-03-10,137.11821044956014,included_game_day
+2010,46,Georgetown Hoyas,2010-03-11,146.90741790003318,included_game_day
+2010,46,Georgetown Hoyas,2010-03-12,167.95883485922607,included_game_day
+2010,46,Georgetown Hoyas,2010-03-13,163.54491878999886,included_game_day
+2010,46,Georgetown Hoyas,2010-03-18,140.73110882188917,included_game_day
+2011,46,Georgetown Hoyas,2010-11-12,6.0,included_game_day
+2011,46,Georgetown Hoyas,2010-11-15,21.6,included_game_day
+2011,46,Georgetown Hoyas,2010-11-18,37.3014,included_game_day
+2011,46,Georgetown Hoyas,2010-11-19,48.80926,included_game_day
+2011,46,Georgetown Hoyas,2010-11-21,63.228134,included_game_day
+2011,46,Georgetown Hoyas,2010-11-27,68.9158266,included_game_day
+2011,46,Georgetown Hoyas,2010-11-30,76.96243854000001,included_game_day
+2011,46,Georgetown Hoyas,2010-12-04,86.77041372600002,included_game_day
+2011,46,Georgetown Hoyas,2010-12-09,82.97665746094002,included_game_day
+2011,46,Georgetown Hoyas,2010-12-12,100.72491772408601,included_game_day
+2011,46,Georgetown Hoyas,2010-12-18,113.06623331102561,included_game_day
+2011,46,Georgetown Hoyas,2010-12-23,126.88564321603297,included_game_day
+2011,46,Georgetown Hoyas,2010-12-29,113.88742296862175,included_game_day
+2011,46,Georgetown Hoyas,2011-01-01,110.36682659490702,included_game_day
+2011,46,Georgetown Hoyas,2011-01-03,107.8658573466168,included_game_day
+2011,46,Georgetown Hoyas,2011-01-08,95.72272844981995,included_game_day
+2011,46,Georgetown Hoyas,2011-01-12,82.21476022201071,included_game_day
+2011,46,Georgetown Hoyas,2011-01-15,89.40108323011508,included_game_day
+2011,46,Georgetown Hoyas,2011-01-18,92.62538121381941,included_game_day
+2011,46,Georgetown Hoyas,2011-01-26,111.85126232478878,included_game_day
+2011,46,Georgetown Hoyas,2011-01-29,120.86049620975973,included_game_day
+2011,46,Georgetown Hoyas,2011-01-31,121.46985930536913,included_game_day
+2011,46,Georgetown Hoyas,2011-02-05,114.20388685281796,included_game_day
+2011,46,Georgetown Hoyas,2011-02-09,127.6841934645807,included_game_day
+2011,46,Georgetown Hoyas,2011-02-13,132.08165916236504,included_game_day
+2011,46,Georgetown Hoyas,2011-02-16,124.71652262197046,included_game_day
+2011,46,Georgetown Hoyas,2011-02-19,122.01979373486112,included_game_day
+2011,46,Georgetown Hoyas,2011-02-23,105.08957170797827,included_game_day
+2011,46,Georgetown Hoyas,2011-02-26,97.60842607492295,included_game_day
+2011,46,Georgetown Hoyas,2011-03-05,80.5858010407963,included_game_day
+2011,46,Georgetown Hoyas,2011-03-09,66.55815378988623,included_game_day
+2011,46,Georgetown Hoyas,2011-03-18,49.537649812774745,included_game_day
+2012,46,Georgetown Hoyas,2011-11-12,26.0,included_game_day
+2012,46,Georgetown Hoyas,2011-11-14,58.8,included_game_day
+2012,46,Georgetown Hoyas,2011-11-21,52.26,included_game_day
+2012,46,Georgetown Hoyas,2011-11-23,50.593252,included_game_day
+2012,46,Georgetown Hoyas,2011-11-28,64.7598228,included_game_day
+2012,46,Georgetown Hoyas,2011-12-01,72.03758662,included_game_day
+2012,46,Georgetown Hoyas,2011-12-03,97.663341918,included_game_day
+2012,46,Georgetown Hoyas,2011-12-10,95.15377837731,included_game_day
+2012,46,Georgetown Hoyas,2011-12-17,109.28673552245701,included_game_day
+2012,46,Georgetown Hoyas,2011-12-22,111.45008232465136,included_game_day
+2012,46,Georgetown Hoyas,2011-12-28,114.54704579887385,included_game_day
+2012,46,Georgetown Hoyas,2011-12-31,111.0722175473389,included_game_day
+2012,46,Georgetown Hoyas,2012-01-04,109.06136679685983,included_game_day
+2012,46,Georgetown Hoyas,2012-01-07,98.26599896830793,included_game_day
+2012,46,Georgetown Hoyas,2012-01-09,90.58377083371427,included_game_day
+2012,46,Georgetown Hoyas,2012-01-15,105.26425414943365,included_game_day
+2012,46,Georgetown Hoyas,2012-01-17,105.43744890190517,included_game_day
+2012,46,Georgetown Hoyas,2012-01-21,98.66085769090358,included_game_day
+2012,46,Georgetown Hoyas,2012-01-28,83.75397712202346,included_game_day
+2012,46,Georgetown Hoyas,2012-02-01,94.50182690509622,included_game_day
+2012,46,Georgetown Hoyas,2012-02-04,116.69636686662756,included_game_day
+2012,46,Georgetown Hoyas,2012-02-08,122.1079098347433,included_game_day
+2012,46,Georgetown Hoyas,2012-02-12,116.1786429734211,included_game_day
+2012,46,Georgetown Hoyas,2012-02-18,120.10328600091142,included_game_day
+2012,46,Georgetown Hoyas,2012-02-21,100.8561500153368,included_game_day
+2012,46,Georgetown Hoyas,2012-02-25,111.78665310101923,included_game_day
+2012,46,Georgetown Hoyas,2012-02-27,127.7321659203481,included_game_day
+2012,46,Georgetown Hoyas,2012-03-03,116.31932385115556,included_game_day
+2012,46,Georgetown Hoyas,2012-03-07,122.33064721097703,included_game_day
+2012,46,Georgetown Hoyas,2012-03-08,118.88508540852796,included_game_day
+2012,46,Georgetown Hoyas,2012-03-16,135.7657834179131,included_game_day
+2012,46,Georgetown Hoyas,2012-03-18,129.99240146323353,included_game_day
+2013,46,Georgetown Hoyas,2012-11-11,3.0,included_game_day
+2013,46,Georgetown Hoyas,2012-11-14,3.84,included_game_day
+2013,46,Georgetown Hoyas,2012-11-19,16.019,included_game_day
+2013,46,Georgetown Hoyas,2012-11-20,14.9164,included_game_day
+2013,46,Georgetown Hoyas,2012-11-24,29.97276,included_game_day
+2013,46,Georgetown Hoyas,2012-11-30,27.9494498,included_game_day
+2013,46,Georgetown Hoyas,2012-12-04,53.02494838,included_game_day
+2013,46,Georgetown Hoyas,2012-12-08,50.5320600763,included_game_day
+2013,46,Georgetown Hoyas,2012-12-10,67.87657892867,included_game_day
+2013,46,Georgetown Hoyas,2012-12-15,70.904805296983,included_game_day
+2013,46,Georgetown Hoyas,2012-12-22,72.87618770834791,included_game_day
+2013,46,Georgetown Hoyas,2013-01-05,73.26836692376766,included_game_day
+2013,46,Georgetown Hoyas,2013-01-08,47.78168365501294,included_game_day
+2013,46,Georgetown Hoyas,2013-01-12,64.44515253890471,included_game_day
+2013,46,Georgetown Hoyas,2013-01-16,69.33450594736901,included_game_day
+2013,46,Georgetown Hoyas,2013-01-19,64.94560020551738,included_game_day
+2013,46,Georgetown Hoyas,2013-01-21,87.20398673219326,included_game_day
+2013,46,Georgetown Hoyas,2013-01-26,93.92060616612208,included_game_day
+2013,46,Georgetown Hoyas,2013-01-30,107.62955827629375,included_game_day
+2013,46,Georgetown Hoyas,2013-02-02,110.46273188858899,included_game_day
+2013,46,Georgetown Hoyas,2013-02-09,110.6948422273406,included_game_day
+2013,46,Georgetown Hoyas,2013-02-11,114.18866558138636,included_game_day
+2013,46,Georgetown Hoyas,2013-02-15,124.43992391692846,included_game_day
+2013,46,Georgetown Hoyas,2013-02-20,132.64543831168442,included_game_day
+2013,46,Georgetown Hoyas,2013-02-23,149.48954075412777,included_game_day
+2013,46,Georgetown Hoyas,2013-02-27,147.87686574087033,included_game_day
+2013,46,Georgetown Hoyas,2013-03-02,144.7329464009715,included_game_day
+2013,46,Georgetown Hoyas,2013-03-06,132.30736301923426,included_game_day
+2013,46,Georgetown Hoyas,2013-03-09,151.88438317424595,included_game_day
+2013,46,Georgetown Hoyas,2013-03-14,165.0138160961577,included_game_day
+2013,46,Georgetown Hoyas,2013-03-15,158.02429154681818,included_game_day
+2013,46,Georgetown Hoyas,2013-03-22,137.6010709252628,included_game_day
+2014,46,Georgetown Hoyas,2013-11-08,-7.0,included_game_day
+2014,46,Georgetown Hoyas,2013-11-13,8.7,included_game_day
+2014,46,Georgetown Hoyas,2013-11-21,0.9679999999999991,included_game_day
+2014,46,Georgetown Hoyas,2013-11-22,28.07022,included_game_day
+2014,46,Georgetown Hoyas,2013-11-24,32.541191999999995,included_game_day
+2014,46,Georgetown Hoyas,2013-11-30,44.80518789999999,included_game_day
+2014,46,Georgetown Hoyas,2013-12-05,72.68936881338999,included_game_day
+2014,46,Georgetown Hoyas,2013-12-07,72.912205932051,included_game_day
+2014,46,Georgetown Hoyas,2013-12-17,72.1969115646219,included_game_day
+2014,46,Georgetown Hoyas,2013-12-21,54.07592448426131,included_game_day
+2014,46,Georgetown Hoyas,2013-12-28,79.25245734934835,included_game_day
+2014,46,Georgetown Hoyas,2013-12-31,75.99182961093086,included_game_day
+2014,46,Georgetown Hoyas,2014-01-04,89.54431280375795,included_game_day
+2014,46,Georgetown Hoyas,2014-01-08,67.84261592962673,included_game_day
+2014,46,Georgetown Hoyas,2014-01-11,71.15660988954832,included_game_day
+2014,46,Georgetown Hoyas,2014-01-15,63.36957933168236,included_game_day
+2014,46,Georgetown Hoyas,2014-01-18,48.54314409014751,included_game_day
+2014,46,Georgetown Hoyas,2014-01-20,38.45055766316392,included_game_day
+2014,46,Georgetown Hoyas,2014-01-25,41.88098275186891,included_game_day
+2014,46,Georgetown Hoyas,2014-01-27,43.05564218282978,included_game_day
+2014,46,Georgetown Hoyas,2014-02-01,58.48104052171661,included_game_day
+2014,46,Georgetown Hoyas,2014-02-03,67.19605267133895,included_game_day
+2014,46,Georgetown Hoyas,2014-02-08,68.54634571031298,included_game_day
+2014,46,Georgetown Hoyas,2014-02-10,76.5911248078467,included_game_day
+2014,46,Georgetown Hoyas,2014-02-16,60.72337649644516,included_game_day
+2014,46,Georgetown Hoyas,2014-02-20,47.81880061962312,included_game_day
+2014,46,Georgetown Hoyas,2014-02-22,70.1173927800625,included_game_day
+2014,46,Georgetown Hoyas,2014-02-27,70.76952670163881,included_game_day
+2014,46,Georgetown Hoyas,2014-03-04,87.44961590732031,included_game_day
+2014,46,Georgetown Hoyas,2014-03-08,79.35215096567714,included_game_day
+2014,46,Georgetown Hoyas,2014-03-12,63.0723444424366,included_game_day
+2014,46,Georgetown Hoyas,2014-03-18,72.80199459789326,included_game_day
+2014,46,Georgetown Hoyas,2014-03-24,62.863735048127644,included_game_day
+2015,46,Georgetown Hoyas,2014-11-15,18.0,included_game_day
+2015,46,Georgetown Hoyas,2014-11-18,29.2,included_game_day
+2015,46,Georgetown Hoyas,2014-11-22,32.137,included_game_day
+2015,46,Georgetown Hoyas,2014-11-26,31.7013,included_game_day
+2015,46,Georgetown Hoyas,2014-11-27,36.88006,included_game_day
+2015,46,Georgetown Hoyas,2014-11-28,34.415144,included_game_day
+2015,46,Georgetown Hoyas,2014-12-07,61.6196486,included_game_day
+2015,46,Georgetown Hoyas,2014-12-10,52.058224795,included_game_day
+2015,46,Georgetown Hoyas,2014-12-13,71.04213044880001,included_game_day
+2015,46,Georgetown Hoyas,2014-12-20,65.74851490225865,included_game_day
+2015,46,Georgetown Hoyas,2014-12-27,72.79494977492404,included_game_day
+2015,46,Georgetown Hoyas,2014-12-31,59.93361045956809,included_game_day
+2015,46,Georgetown Hoyas,2015-01-03,68.51827327777902,included_game_day
+2015,46,Georgetown Hoyas,2015-01-06,69.42588042506931,included_game_day
+2015,46,Georgetown Hoyas,2015-01-10,70.1713075695852,included_game_day
+2015,46,Georgetown Hoyas,2015-01-13,72.31485519742624,included_game_day
+2015,46,Georgetown Hoyas,2015-01-17,74.29516740846462,included_game_day
+2015,46,Georgetown Hoyas,2015-01-19,98.78112494743819,included_game_day
+2015,46,Georgetown Hoyas,2015-01-24,106.54876927107227,included_game_day
+2015,46,Georgetown Hoyas,2015-01-27,87.96321600471362,included_game_day
+2015,46,Georgetown Hoyas,2015-01-31,110.44478935694983,included_game_day
+2015,46,Georgetown Hoyas,2015-02-04,99.72451054507933,included_game_day
+2015,46,Georgetown Hoyas,2015-02-07,90.75994564171286,included_game_day
+2015,46,Georgetown Hoyas,2015-02-10,108.13939813705693,included_game_day
+2015,46,Georgetown Hoyas,2015-02-17,124.0038122368501,included_game_day
+2015,46,Georgetown Hoyas,2015-02-21,113.69821095270726,included_game_day
+2015,46,Georgetown Hoyas,2015-02-28,101.11059409481645,included_game_day
+2015,46,Georgetown Hoyas,2015-03-03,110.84339165019628,included_game_day
+2015,46,Georgetown Hoyas,2015-03-07,102.87239629459614,included_game_day
+2015,46,Georgetown Hoyas,2015-03-12,102.29643502327762,included_game_day
+2015,46,Georgetown Hoyas,2015-03-13,99.8120073730133,included_game_day
+2015,46,Georgetown Hoyas,2015-03-19,102.35722606604307,included_game_day
+2015,46,Georgetown Hoyas,2015-03-21,96.83786772334999,included_game_day
+2016,46,Georgetown Hoyas,2015-11-14,-5.0,included_game_day
+2016,46,Georgetown Hoyas,2015-11-17,-3.4000000000000004,included_game_day
+2016,46,Georgetown Hoyas,2015-11-22,-1.4350000000000005,included_game_day
+2016,46,Georgetown Hoyas,2015-11-28,17.262099999999997,included_game_day
+2016,46,Georgetown Hoyas,2015-12-01,24.907335999999997,included_game_day
+2016,46,Georgetown Hoyas,2015-12-05,30.31056219,included_game_day
+2016,46,Georgetown Hoyas,2015-12-07,39.538112624,included_game_day
+2016,46,Georgetown Hoyas,2015-12-12,41.7213093616,included_game_day
+2016,46,Georgetown Hoyas,2015-12-15,23.967964504186998,included_game_day
+2016,46,Georgetown Hoyas,2015-12-19,16.0506388808693,included_game_day
+2016,46,Georgetown Hoyas,2015-12-22,12.53088850522138,included_game_day
+2016,46,Georgetown Hoyas,2015-12-30,28.033912128313908,included_game_day
+2016,46,Georgetown Hoyas,2016-01-02,37.020480895559615,included_game_day
+2016,46,Georgetown Hoyas,2016-01-05,30.532159200867518,included_game_day
+2016,46,Georgetown Hoyas,2016-01-09,36.64622886922606,included_game_day
+2016,46,Georgetown Hoyas,2016-01-13,52.430332883000986,included_game_day
+2016,46,Georgetown Hoyas,2016-01-16,54.37314056198336,included_game_day
+2016,46,Georgetown Hoyas,2016-01-19,73.34863761207798,included_game_day
+2016,46,Georgetown Hoyas,2016-01-23,73.38540203327396,included_game_day
+2016,46,Georgetown Hoyas,2016-01-26,74.0746278964139,included_game_day
+2016,46,Georgetown Hoyas,2016-01-30,67.65111178100383,included_game_day
+2016,46,Georgetown Hoyas,2016-02-02,61.48187515069909,included_game_day
+2016,46,Georgetown Hoyas,2016-02-06,60.84758191589808,included_game_day
+2016,46,Georgetown Hoyas,2016-02-08,70.42320377496486,included_game_day
+2016,46,Georgetown Hoyas,2016-02-13,69.3585778658412,included_game_day
+2016,46,Georgetown Hoyas,2016-02-17,61.19078649748968,included_game_day
+2016,46,Georgetown Hoyas,2016-02-20,46.20536616303872,included_game_day
+2016,46,Georgetown Hoyas,2016-02-27,46.370874516093885,included_game_day
+2016,46,Georgetown Hoyas,2016-03-01,49.227148746336404,included_game_day
+2016,46,Georgetown Hoyas,2016-03-05,49.97034993768726,included_game_day
+2016,46,Georgetown Hoyas,2016-03-09,57.17172014005398,included_game_day
+2016,46,Georgetown Hoyas,2016-03-10,53.04614407289799,included_game_day
+2017,46,Georgetown Hoyas,2016-11-12,42.0,included_game_day
+2017,46,Georgetown Hoyas,2016-11-15,34.1,included_game_day
+2017,46,Georgetown Hoyas,2016-11-17,20.990000000000002,included_game_day
+2017,46,Georgetown Hoyas,2016-11-21,24.8,included_game_day
+2017,46,Georgetown Hoyas,2016-11-22,10.1945,included_game_day
+2017,46,Georgetown Hoyas,2016-11-23,-13.478879999999998,included_game_day
+2017,46,Georgetown Hoyas,2016-11-27,-9.261292,included_game_day
+2017,46,Georgetown Hoyas,2016-11-30,28.828367600000007,included_game_day
+2017,46,Georgetown Hoyas,2016-12-04,28.290041928000008,included_game_day
+2017,46,Georgetown Hoyas,2016-12-10,42.707932618170005,included_game_day
+2017,46,Georgetown Hoyas,2016-12-17,54.50936044901,included_game_day
+2017,46,Georgetown Hoyas,2016-12-22,70.213684278387,included_game_day
+2017,46,Georgetown Hoyas,2016-12-28,65.01747007956968,included_game_day
+2017,46,Georgetown Hoyas,2016-12-31,61.564092885612745,included_game_day
+2017,46,Georgetown Hoyas,2017-01-04,56.25603653714343,included_game_day
+2017,46,Georgetown Hoyas,2017-01-07,50.45258991479459,included_game_day
+2017,46,Georgetown Hoyas,2017-01-09,74.90622214564638,included_game_day
+2017,46,Georgetown Hoyas,2017-01-14,70.57075434886555,included_game_day
+2017,46,Georgetown Hoyas,2017-01-16,46.46727168263496,included_game_day
+2017,46,Georgetown Hoyas,2017-01-22,43.46384387721444,included_game_day
+2017,46,Georgetown Hoyas,2017-01-25,69.02648301035865,included_game_day
+2017,46,Georgetown Hoyas,2017-01-28,80.78788610268073,included_game_day
+2017,46,Georgetown Hoyas,2017-01-31,77.33620461805742,included_game_day
+2017,46,Georgetown Hoyas,2017-02-04,71.61687076213464,included_game_day
+2017,46,Georgetown Hoyas,2017-02-07,73.87291058892215,included_game_day
+2017,46,Georgetown Hoyas,2017-02-11,90.43855086490893,included_game_day
+2017,46,Georgetown Hoyas,2017-02-19,80.02858171436479,included_game_day
+2017,46,Georgetown Hoyas,2017-02-22,63.95573906279688,included_game_day
+2017,46,Georgetown Hoyas,2017-02-25,57.24633835018516,included_game_day
+2017,46,Georgetown Hoyas,2017-02-28,57.836897631183575,included_game_day
+2017,46,Georgetown Hoyas,2017-03-04,41.18818561109473,included_game_day
+2017,46,Georgetown Hoyas,2017-03-08,38.37602512471779,included_game_day
+2018,46,Georgetown Hoyas,2017-11-12,10.4,included_game_day
+2018,46,Georgetown Hoyas,2017-11-15,36.61,included_game_day
+2018,46,Georgetown Hoyas,2017-11-18,51.099000000000004,included_game_day
+2018,46,Georgetown Hoyas,2017-11-25,50.87163580000001,included_game_day
+2018,46,Georgetown Hoyas,2017-11-28,57.62931162000001,included_game_day
+2018,46,Georgetown Hoyas,2017-12-03,53.217150368000006,included_game_day
+2018,46,Georgetown Hoyas,2017-12-07,50.126928980200006,included_game_day
+2018,46,Georgetown Hoyas,2017-12-09,50.394848718780004,included_game_day
+2018,46,Georgetown Hoyas,2017-12-16,41.204299693964,included_game_day
+2018,46,Georgetown Hoyas,2017-12-20,48.37098523915353,included_game_day
+2018,46,Georgetown Hoyas,2017-12-23,64.18982038434,included_game_day
+2018,46,Georgetown Hoyas,2017-12-27,63.856546135991245,included_game_day
+2018,46,Georgetown Hoyas,2017-12-30,58.403654056497714,included_game_day
+2018,46,Georgetown Hoyas,2018-01-02,68.97250512247648,included_game_day
+2018,46,Georgetown Hoyas,2018-01-06,49.06850411899643,included_game_day
+2018,46,Georgetown Hoyas,2018-01-09,52.5810149077104,included_game_day
+2018,46,Georgetown Hoyas,2018-01-13,46.46294135751174,included_game_day
+2018,46,Georgetown Hoyas,2018-01-17,24.327380286728264,included_game_day
+2018,46,Georgetown Hoyas,2018-01-20,26.188261596964903,included_game_day
+2018,46,Georgetown Hoyas,2018-01-24,22.249856975146788,included_game_day
+2018,46,Georgetown Hoyas,2018-01-27,27.76424588554957,included_game_day
+2018,46,Georgetown Hoyas,2018-02-03,36.245291329814684,included_game_day
+2018,46,Georgetown Hoyas,2018-02-06,39.84171029519777,included_game_day
+2018,46,Georgetown Hoyas,2018-02-10,45.19238214112434,included_game_day
+2018,46,Georgetown Hoyas,2018-02-13,61.52989646938736,included_game_day
+2018,46,Georgetown Hoyas,2018-02-21,52.85890025061519,included_game_day
+2018,46,Georgetown Hoyas,2018-02-24,44.4351954851391,included_game_day
+2018,46,Georgetown Hoyas,2018-02-26,41.04313772303467,included_game_day
+2018,46,Georgetown Hoyas,2018-03-03,34.33120870679711,included_game_day
+2018,46,Georgetown Hoyas,2018-03-07,26.713944387188754,included_game_day
+2019,46,Georgetown Hoyas,2018-11-06,12.0,included_game_day
+2019,46,Georgetown Hoyas,2018-11-10,15.8,included_game_day
+2019,46,Georgetown Hoyas,2018-11-13,28.82,included_game_day
+2019,46,Georgetown Hoyas,2018-11-16,15.338000000000001,included_game_day
+2019,46,Georgetown Hoyas,2018-11-18,20.5411,included_game_day
+2019,46,Georgetown Hoyas,2018-11-24,23.426859999999998,included_game_day
+2019,46,Georgetown Hoyas,2018-11-28,23.18399445,included_game_day
+2019,46,Georgetown Hoyas,2018-12-03,34.591504827,included_game_day
+2019,46,Georgetown Hoyas,2018-12-08,39.89589051117,included_game_day
+2019,46,Georgetown Hoyas,2018-12-15,27.237260723203,included_game_day
+2019,46,Georgetown Hoyas,2018-12-18,29.8685757741766,included_game_day
+2019,46,Georgetown Hoyas,2018-12-22,29.694346716999878,included_game_day
+2019,46,Georgetown Hoyas,2018-12-29,53.02681675769948,included_game_day
+2019,46,Georgetown Hoyas,2019-01-02,64.0747534438762,included_game_day
+2019,46,Georgetown Hoyas,2019-01-05,62.197232495971804,included_game_day
+2019,46,Georgetown Hoyas,2019-01-09,55.52929643148864,included_game_day
+2019,46,Georgetown Hoyas,2019-01-12,58.13451441092724,included_game_day
+2019,46,Georgetown Hoyas,2019-01-15,56.63512637626092,included_game_day
+2019,46,Georgetown Hoyas,2019-01-21,48.99321279327363,included_game_day
+2019,46,Georgetown Hoyas,2019-01-27,66.82655769124408,included_game_day
+2019,46,Georgetown Hoyas,2019-01-31,67.18265608062194,included_game_day
+2019,46,Georgetown Hoyas,2019-02-03,65.48372139355587,included_game_day
+2019,46,Georgetown Hoyas,2019-02-06,75.25923128339785,included_game_day
+2019,46,Georgetown Hoyas,2019-02-09,65.44195845830549,included_game_day
+2019,46,Georgetown Hoyas,2019-02-13,51.216623142246696,included_game_day
+2019,46,Georgetown Hoyas,2019-02-20,68.45899608136199,included_game_day
+2019,46,Georgetown Hoyas,2019-02-23,58.018851045049935,included_game_day
+2019,46,Georgetown Hoyas,2019-02-27,60.22215076545612,included_game_day
+2019,46,Georgetown Hoyas,2019-03-02,62.524265064972724,included_game_day
+2019,46,Georgetown Hoyas,2019-03-06,29.91236203357858,included_game_day
+2019,46,Georgetown Hoyas,2019-03-09,42.83746731793097,included_game_day
+2019,46,Georgetown Hoyas,2019-03-14,29.616497660309292,included_game_day
+2019,46,Georgetown Hoyas,2019-03-20,23.140504652136237,included_game_day
+2020,46,Georgetown Hoyas,2019-11-06,10.0,included_game_day
+2020,46,Georgetown Hoyas,2019-11-09,12.9,included_game_day
+2020,46,Georgetown Hoyas,2019-11-14,-1.1500000000000004,included_game_day
+2020,46,Georgetown Hoyas,2019-11-17,3.9574999999999996,included_game_day
+2020,46,Georgetown Hoyas,2019-11-21,23.73914,included_game_day
+2020,46,Georgetown Hoyas,2019-11-22,23.821741099999997,included_game_day
+2020,46,Georgetown Hoyas,2019-11-30,19.06395099,included_game_day
+2020,46,Georgetown Hoyas,2019-12-04,36.844306097,included_game_day
+2020,46,Georgetown Hoyas,2019-12-07,60.84982172109,included_game_day
+2020,46,Georgetown Hoyas,2019-12-14,67.5798110156786,included_game_day
+2020,46,Georgetown Hoyas,2019-12-17,80.65094774665766,included_game_day
+2020,46,Georgetown Hoyas,2019-12-21,93.19210702917879,included_game_day
+2020,46,Georgetown Hoyas,2019-12-28,100.80874018754925,included_game_day
+2020,46,Georgetown Hoyas,2019-12-31,79.67097234994351,included_game_day
+2020,46,Georgetown Hoyas,2020-01-03,67.3182586554969,included_game_day
+2020,46,Georgetown Hoyas,2020-01-08,86.50604745519293,included_game_day
+2020,46,Georgetown Hoyas,2020-01-11,74.88496539427919,included_game_day
+2020,46,Georgetown Hoyas,2020-01-15,76.10129023430842,included_game_day
+2020,46,Georgetown Hoyas,2020-01-18,70.53234432020645,included_game_day
+2020,46,Georgetown Hoyas,2020-01-22,61.17507894987132,included_game_day
+2020,46,Georgetown Hoyas,2020-01-28,56.83530223413414,included_game_day
+2020,46,Georgetown Hoyas,2020-02-02,60.07166993772941,included_game_day
+2020,46,Georgetown Hoyas,2020-02-05,54.18409373922874,included_game_day
+2020,46,Georgetown Hoyas,2020-02-08,53.34437423227775,included_game_day
+2020,46,Georgetown Hoyas,2020-02-15,65.84238288316487,included_game_day
+2020,46,Georgetown Hoyas,2020-02-19,53.52437842866918,included_game_day
+2020,46,Georgetown Hoyas,2020-02-22,45.625382164653935,included_game_day
+2020,46,Georgetown Hoyas,2020-02-26,32.25367040531256,included_game_day
+2020,46,Georgetown Hoyas,2020-03-01,30.562529334853174,included_game_day
+2020,46,Georgetown Hoyas,2020-03-04,28.07941840959655,included_game_day
+2020,46,Georgetown Hoyas,2020-03-07,33.727242509483524,included_game_day
+2020,46,Georgetown Hoyas,2020-03-11,22.80677568139297,included_game_day
+2021,46,Georgetown Hoyas,2020-11-25,5.0,included_game_day
+2021,46,Georgetown Hoyas,2020-12-01,-6.771000000000001,included_game_day
+2021,46,Georgetown Hoyas,2020-12-06,-15.9082,included_game_day
+2021,46,Georgetown Hoyas,2020-12-08,11.88136,included_game_day
+2021,46,Georgetown Hoyas,2020-12-11,-0.3009959999999996,included_game_day
+2021,46,Georgetown Hoyas,2020-12-13,1.3552314090000006,included_game_day
+2021,46,Georgetown Hoyas,2020-12-20,-6.9674921865099995,included_game_day
+2021,46,Georgetown Hoyas,2020-12-23,-9.899408623439001,included_game_day
+2021,46,Georgetown Hoyas,2021-01-02,-13.138686278473102,included_game_day
+2021,46,Georgetown Hoyas,2021-01-06,-17.97863626517757,included_game_day
+2021,46,Georgetown Hoyas,2021-01-09,-11.371605633889812,included_game_day
+2021,46,Georgetown Hoyas,2021-01-30,-8.412278297720654,included_game_day
+2021,46,Georgetown Hoyas,2021-02-03,11.53047608012524,included_game_day
+2021,46,Georgetown Hoyas,2021-02-07,12.266307524416106,included_game_day
+2021,46,Georgetown Hoyas,2021-02-09,0.1214530341047837,included_game_day
+2021,46,Georgetown Hoyas,2021-02-13,12.987076513377403,included_game_day
+2021,46,Georgetown Hoyas,2021-02-20,20.65597100742604,included_game_day
+2021,46,Georgetown Hoyas,2021-02-23,8.24129273938547,included_game_day
+2021,46,Georgetown Hoyas,2021-02-27,16.661433385491627,included_game_day
+2021,46,Georgetown Hoyas,2021-03-02,22.34383209546759,included_game_day
+2021,46,Georgetown Hoyas,2021-03-06,16.156934292377542,included_game_day
+2021,46,Georgetown Hoyas,2021-03-10,36.93102015771165,included_game_day
+2021,46,Georgetown Hoyas,2021-03-11,43.48903488030169,included_game_day
+2021,46,Georgetown Hoyas,2021-03-12,50.53722214901431,included_game_day
+2021,46,Georgetown Hoyas,2021-03-13,82.56297532036103,included_game_day
+2021,46,Georgetown Hoyas,2021-03-20,61.408240298663884,included_game_day
+2022,46,Georgetown Hoyas,2021-11-13,-13.3,included_game_day
+2022,46,Georgetown Hoyas,2021-11-16,8.469999999999999,included_game_day
+2022,46,Georgetown Hoyas,2021-11-19,15.133599999999998,included_game_day
+2022,46,Georgetown Hoyas,2021-11-25,-3.2427360000000007,included_game_day
+2022,46,Georgetown Hoyas,2021-11-26,-7.541350400000001,included_game_day
+2022,46,Georgetown Hoyas,2021-11-30,-0.9145024500000005,included_game_day
+2022,46,Georgetown Hoyas,2021-12-05,-10.556835215,included_game_day
+2022,46,Georgetown Hoyas,2021-12-08,19.728479841664,included_game_day
+2022,46,Georgetown Hoyas,2021-12-11,19.6337761613536,included_game_day
+2022,46,Georgetown Hoyas,2021-12-15,27.117014734118243,included_game_day
+2022,46,Georgetown Hoyas,2021-12-18,19.940090197722718,included_game_day
+2022,46,Georgetown Hoyas,2022-01-07,-7.128986106072752,included_game_day
+2022,46,Georgetown Hoyas,2022-01-13,-25.15834931166147,included_game_day
+2022,46,Georgetown Hoyas,2022-01-16,-33.949154650240885,included_game_day
+2022,46,Georgetown Hoyas,2022-01-20,-29.116044104278785,included_game_day
+2022,46,Georgetown Hoyas,2022-01-22,-25.342884963015564,included_game_day
+2022,46,Georgetown Hoyas,2022-01-25,-31.978857889003347,included_game_day
+2022,46,Georgetown Hoyas,2022-01-29,-29.260612771231685,included_game_day
+2022,46,Georgetown Hoyas,2022-02-01,-31.541193418040724,included_game_day
+2022,46,Georgetown Hoyas,2022-02-03,-38.89934761753085,included_game_day
+2022,46,Georgetown Hoyas,2022-02-06,-49.53871713136316,included_game_day
+2022,46,Georgetown Hoyas,2022-02-09,-45.96283822513852,included_game_day
+2022,46,Georgetown Hoyas,2022-02-12,-55.07531633998978,included_game_day
+2022,46,Georgetown Hoyas,2022-02-14,-53.3652988318708,included_game_day
+2022,46,Georgetown Hoyas,2022-02-16,-45.871667897948896,included_game_day
+2022,46,Georgetown Hoyas,2022-02-19,-31.942416239309857,included_game_day
+2022,46,Georgetown Hoyas,2022-02-24,-32.38123198627534,included_game_day
+2022,46,Georgetown Hoyas,2022-02-27,-30.610329663957696,included_game_day
+2022,46,Georgetown Hoyas,2022-03-02,-21.4876572787267,included_game_day
+2022,46,Georgetown Hoyas,2022-03-05,-35.51967031624524,included_game_day
+2022,46,Georgetown Hoyas,2022-03-09,-28.189391064974302,included_game_day
+2023,46,Georgetown Hoyas,2022-11-08,5.0,included_game_day
+2023,46,Georgetown Hoyas,2022-11-12,33.1,included_game_day
+2023,46,Georgetown Hoyas,2022-11-15,18.71,included_game_day
+2023,46,Georgetown Hoyas,2022-11-18,-1.932299999999998,included_game_day
+2023,46,Georgetown Hoyas,2022-11-20,4.708180000000002,included_game_day
+2023,46,Georgetown Hoyas,2022-11-23,-3.3561679999999967,included_game_day
+2023,46,Georgetown Hoyas,2022-11-26,-1.1203570999999979,included_game_day
+2023,46,Georgetown Hoyas,2022-11-30,-6.624514589999999,included_game_day
+2023,46,Georgetown Hoyas,2022-12-03,-17.699338961000002,included_game_day
+2023,46,Georgetown Hoyas,2022-12-07,-10.829892180580002,included_game_day
+2023,46,Georgetown Hoyas,2022-12-10,-23.351547583771,included_game_day
+2023,46,Georgetown Hoyas,2022-12-16,-28.804630800565903,included_game_day
+2023,46,Georgetown Hoyas,2022-12-20,-14.04044367654475,included_game_day
+2023,46,Georgetown Hoyas,2022-12-29,-19.503415175745232,included_game_day
+2023,46,Georgetown Hoyas,2023-01-01,-46.83522422718502,included_game_day
+2023,46,Georgetown Hoyas,2023-01-04,-55.48654710487902,included_game_day
+2023,46,Georgetown Hoyas,2023-01-07,-57.910832195857644,included_game_day
+2023,46,Georgetown Hoyas,2023-01-10,-63.67812368477071,included_game_day
+2023,46,Georgetown Hoyas,2023-01-16,-54.79135986023294,included_game_day
+2023,46,Georgetown Hoyas,2023-01-21,-49.19289240829697,included_game_day
+2023,46,Georgetown Hoyas,2023-01-24,-41.86369255975295,included_game_day
+2023,46,Georgetown Hoyas,2023-01-29,-33.04143775015962,included_game_day
+2023,46,Georgetown Hoyas,2023-02-01,-28.18045314369729,included_game_day
+2023,46,Georgetown Hoyas,2023-02-04,-21.880169311382154,included_game_day
+2023,46,Georgetown Hoyas,2023-02-08,-17.524724766684034,included_game_day
+2023,46,Georgetown Hoyas,2023-02-11,-20.935883695343453,included_game_day
+2023,46,Georgetown Hoyas,2023-02-14,-17.653658511053532,included_game_day
+2023,46,Georgetown Hoyas,2023-02-19,-7.808529401227233,included_game_day
+2023,46,Georgetown Hoyas,2023-02-22,-16.929236725013883,included_game_day
+2023,46,Georgetown Hoyas,2023-02-26,-28.488848830411612,included_game_day
+2023,46,Georgetown Hoyas,2023-03-01,-51.38932909787371,included_game_day
+2023,46,Georgetown Hoyas,2023-03-08,-70.66279454690165,included_game_day
+2024,46,Georgetown Hoyas,2023-11-07,34.0,included_game_day
+2024,46,Georgetown Hoyas,2023-11-11,26.7,included_game_day
+2024,46,Georgetown Hoyas,2023-11-15,17.849,included_game_day
+2024,46,Georgetown Hoyas,2023-11-18,23.4511,included_game_day
+2024,46,Georgetown Hoyas,2023-11-19,21.69479,included_game_day
+2024,46,Georgetown Hoyas,2023-11-25,18.063025000000003,included_game_day
+2024,46,Georgetown Hoyas,2023-11-29,13.282322500000003,included_game_day
+2024,46,Georgetown Hoyas,2023-12-02,18.371656360000003,included_game_day
+2024,46,Georgetown Hoyas,2023-12-09,2.1579747382860006,included_game_day
+2024,46,Georgetown Hoyas,2023-12-12,4.961718849923402,included_game_day
+2024,46,Georgetown Hoyas,2023-12-16,10.596592107060061,included_game_day
+2024,46,Georgetown Hoyas,2023-12-19,8.983630042920055,included_game_day
+2024,46,Georgetown Hoyas,2023-12-22,-11.030130952953204,included_game_day
+2024,46,Georgetown Hoyas,2024-01-02,-19.828833002046352,included_game_day
+2024,46,Georgetown Hoyas,2024-01-06,-24.982188714255567,included_game_day
+2024,46,Georgetown Hoyas,2024-01-09,-23.789821533843142,included_game_day
+2024,46,Georgetown Hoyas,2024-01-14,-18.21401919237182,included_game_day
+2024,46,Georgetown Hoyas,2024-01-19,-4.7252439669213615,included_game_day
+2024,46,Georgetown Hoyas,2024-01-23,-27.162361438271375,included_game_day
+2024,46,Georgetown Hoyas,2024-01-27,-20.9864056337349,included_game_day
+2024,46,Georgetown Hoyas,2024-02-03,-45.08967088759887,included_game_day
+2024,46,Georgetown Hoyas,2024-02-07,-35.71987466654066,included_game_day
+2024,46,Georgetown Hoyas,2024-02-10,-43.07066649259133,included_game_day
+2024,46,Georgetown Hoyas,2024-02-13,-47.19531247209455,included_game_day
+2024,46,Georgetown Hoyas,2024-02-16,-52.039795777201434,included_game_day
+2024,46,Georgetown Hoyas,2024-02-21,-47.73958568068862,included_game_day
+2024,46,Georgetown Hoyas,2024-02-24,-52.471452501718204,included_game_day
+2024,46,Georgetown Hoyas,2024-02-27,-63.349589841655764,included_game_day
+2024,46,Georgetown Hoyas,2024-03-02,-60.75584822523367,included_game_day
+2024,46,Georgetown Hoyas,2024-03-05,-66.39575389214289,included_game_day
+2024,46,Georgetown Hoyas,2024-03-09,-53.508854604934605,included_game_day
+2024,46,Georgetown Hoyas,2024-03-13,-61.367819133999326,included_game_day
+2025,46,Georgetown Hoyas,2024-11-06,0.9000000000000004,included_game_day
+2025,46,Georgetown Hoyas,2024-11-09,6.3100000000000005,included_game_day
+2025,46,Georgetown Hoyas,2024-11-16,-15.341,included_game_day
+2025,46,Georgetown Hoyas,2024-11-20,9.50107,included_game_day
+2025,46,Georgetown Hoyas,2024-11-23,17.167493,included_game_day
+2025,46,Georgetown Hoyas,2024-11-26,33.0946437,included_game_day
+2025,46,Georgetown Hoyas,2024-11-30,59.345182453999996,included_game_day
+2025,46,Georgetown Hoyas,2024-12-02,73.1164081983,included_game_day
+2025,46,Georgetown Hoyas,2024-12-06,62.19844730196999,included_game_day
+2025,46,Georgetown Hoyas,2024-12-14,64.8522005566868,included_game_day
+2025,46,Georgetown Hoyas,2024-12-18,84.84357521849832,included_game_day
+2025,46,Georgetown Hoyas,2024-12-22,79.56206668286191,included_game_day
+2025,46,Georgetown Hoyas,2024-12-28,85.22954989873531,included_game_day
+2025,46,Georgetown Hoyas,2025-01-03,89.2704041125532,included_game_day
+2025,46,Georgetown Hoyas,2025-01-07,88.64121097349242,included_game_day
+2025,46,Georgetown Hoyas,2025-01-11,80.65639977890056,included_game_day
+2025,46,Georgetown Hoyas,2025-01-14,84.18897352746211,included_game_day
+2025,46,Georgetown Hoyas,2025-01-17,68.12937971047461,included_game_day
+2025,46,Georgetown Hoyas,2025-01-20,75.52196782957806,included_game_day
+2025,46,Georgetown Hoyas,2025-01-25,65.29761628935839,included_game_day
+2025,46,Georgetown Hoyas,2025-01-28,45.77562300184828,included_game_day
+2025,46,Georgetown Hoyas,2025-01-31,44.61711544038154,included_game_day
+2025,46,Georgetown Hoyas,2025-02-04,48.10758531709013,included_game_day
+2025,46,Georgetown Hoyas,2025-02-08,47.337980984408524,included_game_day
+2025,46,Georgetown Hoyas,2025-02-15,40.380887782959725,included_game_day
+2025,46,Georgetown Hoyas,2025-02-19,60.713867516823655,included_game_day
+2025,46,Georgetown Hoyas,2025-02-23,59.28633390906791,included_game_day
+2025,46,Georgetown Hoyas,2025-02-26,52.290342641531204,included_game_day
+2025,46,Georgetown Hoyas,2025-03-01,41.102486118670505,included_game_day
+2025,46,Georgetown Hoyas,2025-03-04,45.838287349078996,included_game_day
+2025,46,Georgetown Hoyas,2025-03-08,37.82228156281553,included_game_day
+2025,46,Georgetown Hoyas,2025-03-12,30.40947693380476,included_game_day
+2025,46,Georgetown Hoyas,2025-03-31,29.308219336280086,included_game_day
+2025,46,Georgetown Hoyas,2025-04-02,19.600988169493498,included_game_day
+2026,46,Georgetown Hoyas,2025-11-03,14.0,included_game_day
+2026,46,Georgetown Hoyas,2025-11-07,27.8,included_game_day
+2026,46,Georgetown Hoyas,2025-11-12,30.6,included_game_day
+2026,46,Georgetown Hoyas,2025-11-15,38.3136,included_game_day
+2026,46,Georgetown Hoyas,2025-11-22,46.66354,included_game_day
+2026,46,Georgetown Hoyas,2025-11-27,40.8630449,included_game_day
+2026,46,Georgetown Hoyas,2025-11-28,34.250293209999995,included_game_day
+2026,46,Georgetown Hoyas,2025-12-03,34.435659689,included_game_day
+2026,46,Georgetown Hoyas,2025-12-07,22.827228527299997,included_game_day
+2026,46,Georgetown Hoyas,2025-12-13,21.5778060057622,included_game_day
+2026,46,Georgetown Hoyas,2025-12-17,32.31022393795885,included_game_day
+2026,46,Georgetown Hoyas,2025-12-20,23.254631229341733,included_game_day
+2026,46,Georgetown Hoyas,2025-12-22,28.126180648871088,included_game_day
+2026,46,Georgetown Hoyas,2025-12-31,20.880264333413905,included_game_day
+2026,46,Georgetown Hoyas,2026-01-06,19.74077849474569,included_game_day
+2026,46,Georgetown Hoyas,2026-01-10,14.38006282027576,included_game_day
+2026,46,Georgetown Hoyas,2026-01-13,20.75626817903887,included_game_day
+2026,46,Georgetown Hoyas,2026-01-17,28.922761160335014,included_game_day
+2026,46,Georgetown Hoyas,2026-01-21,23.913912740896837,included_game_day
+2026,46,Georgetown Hoyas,2026-01-24,32.36132840313116,included_game_day
+2026,46,Georgetown Hoyas,2026-01-28,39.69000446365431,included_game_day
+2026,46,Georgetown Hoyas,2026-01-31,57.165876812510334,included_game_day
+2026,46,Georgetown Hoyas,2026-02-04,57.885983726929666,included_game_day
+2026,46,Georgetown Hoyas,2026-02-07,53.51542533907632,included_game_day
+2026,46,Georgetown Hoyas,2026-02-14,63.51709171583995,included_game_day
+2026,46,Georgetown Hoyas,2026-02-18,51.65114206611317,included_game_day
+2026,46,Georgetown Hoyas,2026-02-21,50.97022219438175,included_game_day
+2026,46,Georgetown Hoyas,2026-02-24,31.036013008538863,included_game_day
+2026,46,Georgetown Hoyas,2026-02-28,26.597048664788353,included_game_day
+2026,46,Georgetown Hoyas,2026-03-03,39.85146660911241,included_game_day
+2026,46,Georgetown Hoyas,2026-03-07,37.66379423860117,included_game_day
+2026,46,Georgetown Hoyas,2026-03-11,42.75428473186817,included_game_day
+2026,46,Georgetown Hoyas,2026-03-12,62.22609250696216,included_game_day
+2026,46,Georgetown Hoyas,2026-03-13,56.2620689625809,included_game_day
+2027,46,Georgetown Hoyas,2026-11-02,19.0,included_game_day
+2027,46,Georgetown Hoyas,2026-11-07,28.7,included_game_day
+2027,46,Georgetown Hoyas,2026-11-10,27.04,included_game_day
+2027,46,Georgetown Hoyas,2026-11-13,36.446,included_game_day
+2027,46,Georgetown Hoyas,2026-11-18,57.174229999999994,included_game_day
+2027,46,Georgetown Hoyas,2026-11-21,65.80851609999999,included_game_day

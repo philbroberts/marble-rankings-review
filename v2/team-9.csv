@@ -1,0 +1,1208 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,9,Arizona St,1987-11-27,12.0,included_game_day
+1988,9,Arizona St,1987-12-01,15.93,included_game_day
+1988,9,Arizona St,1987-12-04,33.707,included_game_day
+1988,9,Arizona St,1987-12-05,13.8976,included_game_day
+1988,9,Arizona St,1987-12-08,5.459285000000001,included_game_day
+1988,9,Arizona St,1987-12-20,10.046645313,included_game_day
+1988,9,Arizona St,1987-12-22,16.402097243837,included_game_day
+1988,9,Arizona St,1987-12-27,22.113846540588302,included_game_day
+1988,9,Arizona St,1987-12-28,25.056715561203774,included_game_day
+1988,9,Arizona St,1987-12-29,17.264312529558126,included_game_day
+1988,9,Arizona St,1988-01-07,42.92746478033574,included_game_day
+1988,9,Arizona St,1988-01-09,54.79459003111129,included_game_day
+1988,9,Arizona St,1988-01-14,51.71668994027771,included_game_day
+1988,9,Arizona St,1988-01-16,45.4955636338888,included_game_day
+1988,9,Arizona St,1988-01-21,28.037990375820833,included_game_day
+1988,9,Arizona St,1988-01-23,28.457160972420517,included_game_day
+1988,9,Arizona St,1988-01-28,8.552696032293369,included_game_day
+1988,9,Arizona St,1988-01-30,14.355499650890284,included_game_day
+1988,9,Arizona St,1988-02-04,20.900810832337253,included_game_day
+1988,9,Arizona St,1988-02-06,-5.844408844826148,included_game_day
+1988,9,Arizona St,1988-02-11,-5.8817442347787505,included_game_day
+1988,9,Arizona St,1988-02-13,-12.92872219271878,included_game_day
+1988,9,Arizona St,1988-02-18,-8.23300973518661,included_game_day
+1988,9,Arizona St,1988-02-20,-17.82157232996709,included_game_day
+1988,9,Arizona St,1988-02-25,-27.884330238078192,included_game_day
+1988,9,Arizona St,1988-03-03,-33.830867019914585,included_game_day
+1988,9,Arizona St,1988-03-06,-40.7223467404971,included_game_day
+1988,9,Arizona St,1988-03-10,-51.03177081699466,included_game_day
+1989,9,Arizona St,1988-11-25,-1.0,included_game_day
+1989,9,Arizona St,1988-11-26,13.6,included_game_day
+1989,9,Arizona St,1988-12-01,24.04,included_game_day
+1989,9,Arizona St,1988-12-03,31.0317,included_game_day
+1989,9,Arizona St,1988-12-08,36.03685,included_game_day
+1989,9,Arizona St,1988-12-17,36.489645,included_game_day
+1989,9,Arizona St,1988-12-20,27.83031261765,included_game_day
+1989,9,Arizona St,1988-12-22,48.723366741607485,included_game_day
+1989,9,Arizona St,1988-12-28,43.052139301815146,included_game_day
+1989,9,Arizona St,1988-12-29,38.40348856934328,included_game_day
+1989,9,Arizona St,1989-01-05,22.64984673701391,included_game_day
+1989,9,Arizona St,1989-01-07,7.716501945069309,included_game_day
+1989,9,Arizona St,1989-01-12,2.0825898348277434,included_game_day
+1989,9,Arizona St,1989-01-14,-12.225245076028212,included_game_day
+1989,9,Arizona St,1989-01-19,-11.813328174687243,included_game_day
+1989,9,Arizona St,1989-01-21,-1.2349259109626889,included_game_day
+1989,9,Arizona St,1989-01-26,-12.81305083979756,included_game_day
+1989,9,Arizona St,1989-01-28,-17.86789994722143,included_game_day
+1989,9,Arizona St,1989-02-02,-19.458901254487863,included_game_day
+1989,9,Arizona St,1989-02-04,-22.606938105194974,included_game_day
+1989,9,Arizona St,1989-02-09,-15.07488931445417,included_game_day
+1989,9,Arizona St,1989-02-11,-8.29377034975445,included_game_day
+1989,9,Arizona St,1989-02-16,3.4767649060619927,included_game_day
+1989,9,Arizona St,1989-02-18,-3.434639577825247,included_game_day
+1989,9,Arizona St,1989-02-23,-12.348415721788513,included_game_day
+1989,9,Arizona St,1989-03-02,-22.994701145428763,included_game_day
+1989,9,Arizona St,1989-03-05,-36.457331677668144,included_game_day
+1989,9,Arizona St,1989-03-09,-44.998669962516146,included_game_day
+1990,9,Arizona St,1989-11-30,-18.9,included_game_day
+1990,9,Arizona St,1989-12-02,-17.657,included_game_day
+1990,9,Arizona St,1989-12-05,-16.788220000000003,included_game_day
+1990,9,Arizona St,1989-12-07,-10.519878000000002,included_game_day
+1990,9,Arizona St,1989-12-16,4.732321799999998,included_game_day
+1990,9,Arizona St,1989-12-19,13.671465544017398,included_game_day
+1990,9,Arizona St,1989-12-22,8.23512232561566,included_game_day
+1990,9,Arizona St,1989-12-28,23.835800810304093,included_game_day
+1990,9,Arizona St,1989-12-29,28.104414389604294,included_game_day
+1990,9,Arizona St,1990-01-04,35.49947189709947,included_game_day
+1990,9,Arizona St,1990-01-06,44.80454440780602,included_game_day
+1990,9,Arizona St,1990-01-11,42.71270489635523,included_game_day
+1990,9,Arizona St,1990-01-13,31.893579570544965,included_game_day
+1990,9,Arizona St,1990-01-17,26.74465635812321,included_game_day
+1990,9,Arizona St,1990-01-20,28.597252523577588,included_game_day
+1990,9,Arizona St,1990-01-25,34.97397994955338,included_game_day
+1990,9,Arizona St,1990-01-27,45.79626225396211,included_game_day
+1990,9,Arizona St,1990-02-01,47.028404583795705,included_game_day
+1990,9,Arizona St,1990-02-04,52.771984010115716,included_game_day
+1990,9,Arizona St,1990-02-08,45.84728956672507,included_game_day
+1990,9,Arizona St,1990-02-10,12.88383287349248,included_game_day
+1990,9,Arizona St,1990-02-15,6.957396160895632,included_game_day
+1990,9,Arizona St,1990-02-23,7.166590428248091,included_game_day
+1990,9,Arizona St,1990-02-25,0.27810235837389996,included_game_day
+1990,9,Arizona St,1990-03-01,-8.292891153440346,included_game_day
+1990,9,Arizona St,1990-03-03,-1.999955843492132,included_game_day
+1990,9,Arizona St,1990-03-08,0.2575358746774761,included_game_day
+1990,9,Arizona St,1990-03-09,13.06109957267658,included_game_day
+1990,9,Arizona St,1990-03-10,15.306393759918263,included_game_day
+1990,9,Arizona St,1990-03-15,0.8998322832746428,included_game_day
+1991,9,Arizona St,1990-11-23,-1.0,included_game_day
+1991,9,Arizona St,1990-11-24,6.1,included_game_day
+1991,9,Arizona St,1990-11-29,40.5,included_game_day
+1991,9,Arizona St,1990-12-01,30.788,included_game_day
+1991,9,Arizona St,1990-12-05,35.61412,included_game_day
+1991,9,Arizona St,1990-12-12,44.04454787,included_game_day
+1991,9,Arizona St,1990-12-21,71.11556996519,included_game_day
+1991,9,Arizona St,1990-12-22,91.047868355581,included_game_day
+1991,9,Arizona St,1990-12-28,108.22972722002291,included_game_day
+1991,9,Arizona St,1990-12-29,108.0622992392762,included_game_day
+1991,9,Arizona St,1991-01-03,93.30415279992438,included_game_day
+1991,9,Arizona St,1991-01-05,101.2541922656412,included_game_day
+1991,9,Arizona St,1991-01-10,85.10123151600843,included_game_day
+1991,9,Arizona St,1991-01-12,84.71340452975201,included_game_day
+1991,9,Arizona St,1991-01-16,82.1682380087415,included_game_day
+1991,9,Arizona St,1991-01-24,68.19134284075399,included_game_day
+1991,9,Arizona St,1991-01-26,85.29354714223902,included_game_day
+1991,9,Arizona St,1991-01-31,87.58509705070135,included_game_day
+1991,9,Arizona St,1991-02-02,77.53081010448064,included_game_day
+1991,9,Arizona St,1991-02-07,66.27515139288819,included_game_day
+1991,9,Arizona St,1991-02-09,76.14019609920668,included_game_day
+1991,9,Arizona St,1991-02-13,64.86607560370544,included_game_day
+1991,9,Arizona St,1991-02-21,81.51890240126035,included_game_day
+1991,9,Arizona St,1991-02-23,88.04171020172485,included_game_day
+1991,9,Arizona St,1991-02-28,100.54650632068336,included_game_day
+1991,9,Arizona St,1991-03-02,70.51610114959277,included_game_day
+1991,9,Arizona St,1991-03-07,67.47206570677237,included_game_day
+1991,9,Arizona St,1991-03-09,75.20944369951013,included_game_day
+1991,9,Arizona St,1991-03-15,75.57305150539078,included_game_day
+1991,9,Arizona St,1991-03-17,88.08649625005202,included_game_day
+1992,9,Arizona St,1991-11-25,-4.9,included_game_day
+1992,9,Arizona St,1991-11-26,4.289999999999999,included_game_day
+1992,9,Arizona St,1991-11-27,-28.089,included_game_day
+1992,9,Arizona St,1991-12-03,-21.2701,included_game_day
+1992,9,Arizona St,1991-12-05,-0.5930900000000001,included_game_day
+1992,9,Arizona St,1991-12-07,4.386619,included_game_day
+1992,9,Arizona St,1991-12-14,-11.6855357914,included_game_day
+1992,9,Arizona St,1991-12-21,16.45304528774,included_game_day
+1992,9,Arizona St,1991-12-23,14.656049726966,included_game_day
+1992,9,Arizona St,1991-12-27,13.017464854269399,included_game_day
+1992,9,Arizona St,1991-12-28,32.49161431165971,included_game_day
+1992,9,Arizona St,1992-01-04,31.795194600295826,included_game_day
+1992,9,Arizona St,1992-01-09,13.342979563418044,included_game_day
+1992,9,Arizona St,1992-01-12,5.608907841930614,included_game_day
+1992,9,Arizona St,1992-01-16,28.615085068303543,included_game_day
+1992,9,Arizona St,1992-01-18,37.14727351241996,included_game_day
+1992,9,Arizona St,1992-01-23,13.01426951716465,included_game_day
+1992,9,Arizona St,1992-01-30,-1.7675654598424941,included_game_day
+1992,9,Arizona St,1992-02-01,-6.784206489268168,included_game_day
+1992,9,Arizona St,1992-02-06,-8.073842582703044,included_game_day
+1992,9,Arizona St,1992-02-08,-8.697896122683174,included_game_day
+1992,9,Arizona St,1992-02-13,-4.312057970255119,included_game_day
+1992,9,Arizona St,1992-02-16,2.2909184767041113,included_game_day
+1992,9,Arizona St,1992-02-20,23.135298969697832,included_game_day
+1992,9,Arizona St,1992-02-22,24.865520334548194,included_game_day
+1992,9,Arizona St,1992-02-27,22.461134560345847,included_game_day
+1992,9,Arizona St,1992-03-01,22.39889129676787,included_game_day
+1992,9,Arizona St,1992-03-05,31.435928878436254,included_game_day
+1992,9,Arizona St,1992-03-08,27.847277022375074,included_game_day
+1992,9,Arizona St,1992-03-12,19.421853789062602,included_game_day
+1992,9,Arizona St,1992-03-14,24.438899739434685,included_game_day
+1992,9,Arizona St,1992-03-18,33.4141076171947,included_game_day
+1992,9,Arizona St,1992-03-23,9.456329897310322,included_game_day
+1993,9,Arizona St,1992-12-01,-7.0,included_game_day
+1993,9,Arizona St,1992-12-08,-8.8,included_game_day
+1993,9,Arizona St,1992-12-21,-0.37191676800000195,included_game_day
+1993,9,Arizona St,1992-12-22,3.035096498799998,included_game_day
+1993,9,Arizona St,1992-12-28,23.59924963292,included_game_day
+1993,9,Arizona St,1992-12-29,35.031015862627996,included_game_day
+1993,9,Arizona St,1993-01-07,32.08669659251728,included_game_day
+1993,9,Arizona St,1993-01-09,31.78699900121351,included_game_day
+1993,9,Arizona St,1993-01-14,34.28641249494741,included_game_day
+1993,9,Arizona St,1993-01-16,38.74608519033217,included_game_day
+1993,9,Arizona St,1993-01-20,37.532103586058184,included_game_day
+1993,9,Arizona St,1993-01-24,15.450416716249311,included_game_day
+1993,9,Arizona St,1993-01-28,30.235291241785703,included_game_day
+1993,9,Arizona St,1993-01-30,38.8049878117537,included_game_day
+1993,9,Arizona St,1993-02-04,44.978510440589886,included_game_day
+1993,9,Arizona St,1993-02-06,55.93389230487524,included_game_day
+1993,9,Arizona St,1993-02-11,61.17042584863155,included_game_day
+1993,9,Arizona St,1993-02-13,35.20422562700743,included_game_day
+1993,9,Arizona St,1993-02-18,12.930649018307584,included_game_day
+1993,9,Arizona St,1993-02-21,37.56456667074558,included_game_day
+1993,9,Arizona St,1993-02-25,43.16092735970268,included_game_day
+1993,9,Arizona St,1993-02-27,52.70101865482452,included_game_day
+1993,9,Arizona St,1993-03-04,48.40820001512897,included_game_day
+1993,9,Arizona St,1993-03-06,27.491650487028632,included_game_day
+1993,9,Arizona St,1993-03-11,24.399467785491062,included_game_day
+1993,9,Arizona St,1993-03-13,56.77413333787922,included_game_day
+1993,9,Arizona St,1993-03-17,44.481012437703264,included_game_day
+1994,9,Arizona St,1993-11-27,8.0,included_game_day
+1994,9,Arizona St,1993-12-02,-4.048,included_game_day
+1994,9,Arizona St,1993-12-05,-3.7231999999999994,included_game_day
+1994,9,Arizona St,1993-12-17,4.944591300000002,included_game_day
+1994,9,Arizona St,1993-12-18,-6.116854616069998,included_game_day
+1994,9,Arizona St,1993-12-22,-1.357916654462998,included_game_day
+1994,9,Arizona St,1993-12-28,10.900122010983303,included_game_day
+1994,9,Arizona St,1993-12-29,20.9681393064372,included_game_day
+1994,9,Arizona St,1994-01-05,18.4066937141931,included_game_day
+1994,9,Arizona St,1994-01-08,24.413238697847007,included_game_day
+1994,9,Arizona St,1994-01-13,35.99415442047537,included_game_day
+1994,9,Arizona St,1994-01-15,40.93578273532983,included_game_day
+1994,9,Arizona St,1994-01-20,67.03537323813194,included_game_day
+1994,9,Arizona St,1994-01-22,60.13495995480534,included_game_day
+1994,9,Arizona St,1994-01-27,53.95493109189417,included_game_day
+1994,9,Arizona St,1994-01-29,50.3082855212849,included_game_day
+1994,9,Arizona St,1994-02-03,50.31483691132394,included_game_day
+1994,9,Arizona St,1994-02-05,53.51847094089594,included_game_day
+1994,9,Arizona St,1994-02-10,44.646434565228596,included_game_day
+1994,9,Arizona St,1994-02-12,49.01646691353394,included_game_day
+1994,9,Arizona St,1994-02-17,45.17515649406686,included_game_day
+1994,9,Arizona St,1994-02-19,23.65965272723583,included_game_day
+1994,9,Arizona St,1994-02-24,18.73694641272781,included_game_day
+1994,9,Arizona St,1994-02-26,32.92018291255946,included_game_day
+1994,9,Arizona St,1994-03-03,25.311173110377204,included_game_day
+1994,9,Arizona St,1994-03-05,34.32862943641889,included_game_day
+1994,9,Arizona St,1994-03-12,54.278733063667666,included_game_day
+1994,9,Arizona St,1994-03-17,51.58930331649439,included_game_day
+1995,9,Arizona St,1994-11-21,30.0,included_game_day
+1995,9,Arizona St,1994-11-22,44.2,included_game_day
+1995,9,Arizona St,1994-11-23,48.03,included_game_day
+1995,9,Arizona St,1994-12-01,63.727000000000004,included_game_day
+1995,9,Arizona St,1994-12-03,43.974500000000006,included_game_day
+1995,9,Arizona St,1994-12-17,64.94988154,included_game_day
+1995,9,Arizona St,1994-12-18,51.015668386,included_game_day
+1995,9,Arizona St,1994-12-20,82.32890688994,included_game_day
+1995,9,Arizona St,1994-12-22,84.37690230294601,included_game_day
+1995,9,Arizona St,1994-12-28,88.5407673164414,included_game_day
+1995,9,Arizona St,1994-12-29,90.15332804927776,included_game_day
+1995,9,Arizona St,1995-01-05,88.24740558327711,included_game_day
+1995,9,Arizona St,1995-01-07,94.76063591233368,included_game_day
+1995,9,Arizona St,1995-01-12,81.94766663916758,included_game_day
+1995,9,Arizona St,1995-01-14,88.89126099898678,included_game_day
+1995,9,Arizona St,1995-01-19,89.21512803031457,included_game_day
+1995,9,Arizona St,1995-01-21,76.50076402017919,included_game_day
+1995,9,Arizona St,1995-01-26,56.295269228532206,included_game_day
+1995,9,Arizona St,1995-01-28,63.169802619822555,included_game_day
+1995,9,Arizona St,1995-02-02,59.13872024665131,included_game_day
+1995,9,Arizona St,1995-02-05,83.96058988883316,included_game_day
+1995,9,Arizona St,1995-02-09,97.09665372641733,included_game_day
+1995,9,Arizona St,1995-02-11,103.13604850616494,included_game_day
+1995,9,Arizona St,1995-02-16,105.19578441382306,included_game_day
+1995,9,Arizona St,1995-02-18,101.08849792332384,included_game_day
+1995,9,Arizona St,1995-02-23,94.36392058649041,included_game_day
+1995,9,Arizona St,1995-02-25,118.86853494925944,included_game_day
+1995,9,Arizona St,1995-03-02,111.78589344125761,included_game_day
+1995,9,Arizona St,1995-03-04,97.2861558402258,included_game_day
+1995,9,Arizona St,1995-03-11,108.50350509665846,included_game_day
+1995,9,Arizona St,1995-03-16,119.73659574526411,included_game_day
+1995,9,Arizona St,1995-03-18,126.80150316195248,included_game_day
+1995,9,Arizona St,1995-03-23,115.67146900441388,included_game_day
+1996,9,Arizona St,1995-11-25,23.0,included_game_day
+1996,9,Arizona St,1995-11-28,22.7,included_game_day
+1996,9,Arizona St,1995-12-02,16.93,included_game_day
+1996,9,Arizona St,1995-12-05,11.54,included_game_day
+1996,9,Arizona St,1995-12-16,13.667456171,included_game_day
+1996,9,Arizona St,1995-12-22,19.8534415702133,included_game_day
+1996,9,Arizona St,1995-12-29,16.33974821349197,included_game_day
+1996,9,Arizona St,1995-12-30,7.9406544341097725,included_game_day
+1996,9,Arizona St,1996-01-04,2.927696341034795,included_game_day
+1996,9,Arizona St,1996-01-06,-2.0155250333913104,included_game_day
+1996,9,Arizona St,1996-01-10,-23.935239063025335,included_game_day
+1996,9,Arizona St,1996-01-18,-27.19210502495147,included_game_day
+1996,9,Arizona St,1996-01-20,-38.71173857514988,included_game_day
+1996,9,Arizona St,1996-01-25,-31.686797248930972,included_game_day
+1996,9,Arizona St,1996-01-27,-13.730536328143124,included_game_day
+1996,9,Arizona St,1996-02-01,-26.592358600027335,included_game_day
+1996,9,Arizona St,1996-02-03,-11.039757686852344,included_game_day
+1996,9,Arizona St,1996-02-07,-5.458072553390441,included_game_day
+1996,9,Arizona St,1996-02-11,-17.027062750376984,included_game_day
+1996,9,Arizona St,1996-02-15,-13.022877583019852,included_game_day
+1996,9,Arizona St,1996-02-17,-15.275224690780824,included_game_day
+1996,9,Arizona St,1996-02-22,-18.39721124594195,included_game_day
+1996,9,Arizona St,1996-02-24,-27.35592105605751,included_game_day
+1996,9,Arizona St,1996-02-29,-30.385069281541018,included_game_day
+1996,9,Arizona St,1996-03-02,-43.47241809659435,included_game_day
+1996,9,Arizona St,1996-03-07,-30.697258596472196,included_game_day
+1996,9,Arizona St,1996-03-09,-34.58761294662715,included_game_day
+1997,9,Arizona St,1996-11-22,39.0,included_game_day
+1997,9,Arizona St,1996-11-27,27.7,included_game_day
+1997,9,Arizona St,1996-11-29,18.52,included_game_day
+1997,9,Arizona St,1996-11-30,26.645,included_game_day
+1997,9,Arizona St,1996-12-02,21.8555,included_game_day
+1997,9,Arizona St,1996-12-07,17.2700008,included_game_day
+1997,9,Arizona St,1996-12-20,19.5732549568,included_game_day
+1997,9,Arizona St,1996-12-22,6.7280630528500005,included_game_day
+1997,9,Arizona St,1996-12-27,18.673174747565,included_game_day
+1997,9,Arizona St,1996-12-28,6.894300355013209,included_game_day
+1997,9,Arizona St,1997-01-02,-6.889730482357912,included_game_day
+1997,9,Arizona St,1997-01-04,3.958823786633591,included_game_day
+1997,9,Arizona St,1997-01-11,4.634505504335593,included_game_day
+1997,9,Arizona St,1997-01-16,-5.5763873949697,included_game_day
+1997,9,Arizona St,1997-01-18,-11.277950125597865,included_game_day
+1997,9,Arizona St,1997-01-23,-30.987839848309218,included_game_day
+1997,9,Arizona St,1997-01-25,-31.525186138187507,included_game_day
+1997,9,Arizona St,1997-01-30,-33.53379370927928,included_game_day
+1997,9,Arizona St,1997-02-01,-42.29993365103069,included_game_day
+1997,9,Arizona St,1997-02-05,-37.203174419459955,included_game_day
+1997,9,Arizona St,1997-02-13,-33.02840703655511,included_game_day
+1997,9,Arizona St,1997-02-15,-33.14524650974458,included_game_day
+1997,9,Arizona St,1997-02-20,-35.024550180981706,included_game_day
+1997,9,Arizona St,1997-02-22,-29.55041558129872,included_game_day
+1997,9,Arizona St,1997-02-27,-25.682378455289964,included_game_day
+1997,9,Arizona St,1997-03-01,-29.162623836192328,included_game_day
+1997,9,Arizona St,1997-03-06,-30.644821597302492,included_game_day
+1997,9,Arizona St,1997-03-08,-33.090451035838285,included_game_day
+1998,9,Arizona St,1997-11-16,3.0,included_game_day
+1998,9,Arizona St,1997-11-17,18.1,included_game_day
+1998,9,Arizona St,1997-11-19,27.990000000000002,included_game_day
+1998,9,Arizona St,1997-11-27,29.973200000000002,included_game_day
+1998,9,Arizona St,1997-11-28,10.814620000000001,included_game_day
+1998,9,Arizona St,1997-12-01,44.733158,included_game_day
+1998,9,Arizona St,1997-12-03,48.0181422,included_game_day
+1998,9,Arizona St,1997-12-10,40.11738996,included_game_day
+1998,9,Arizona St,1997-12-19,41.4821331375,included_game_day
+1998,9,Arizona St,1997-12-22,37.976950738075004,included_game_day
+1998,9,Arizona St,1997-12-27,63.882756923237615,included_game_day
+1998,9,Arizona St,1997-12-28,68.31911662473902,included_game_day
+1998,9,Arizona St,1998-01-03,62.05831856080271,included_game_day
+1998,9,Arizona St,1998-01-05,53.87990738878804,included_game_day
+1998,9,Arizona St,1998-01-08,32.95414547379078,included_game_day
+1998,9,Arizona St,1998-01-11,38.014887959506154,included_game_day
+1998,9,Arizona St,1998-01-15,25.94685345387216,included_game_day
+1998,9,Arizona St,1998-01-22,9.435944275026184,included_game_day
+1998,9,Arizona St,1998-01-24,21.781166326365135,included_game_day
+1998,9,Arizona St,1998-01-29,22.054511159457732,included_game_day
+1998,9,Arizona St,1998-01-31,40.08994783525959,included_game_day
+1998,9,Arizona St,1998-02-05,47.817148238144064,included_game_day
+1998,9,Arizona St,1998-02-07,54.45995120169821,included_game_day
+1998,9,Arizona St,1998-02-14,66.90602955682097,included_game_day
+1998,9,Arizona St,1998-02-19,42.20699797778792,included_game_day
+1998,9,Arizona St,1998-02-21,48.677847579428445,included_game_day
+1998,9,Arizona St,1998-02-26,41.17395336838139,included_game_day
+1998,9,Arizona St,1998-02-28,62.17258910395094,included_game_day
+1998,9,Arizona St,1998-03-05,56.33558852824691,included_game_day
+1998,9,Arizona St,1998-03-07,3.1513944187935934,included_game_day
+1998,9,Arizona St,1998-03-11,-5.99003697625654,included_game_day
+1999,9,Arizona St,1998-11-13,16.0,included_game_day
+1999,9,Arizona St,1998-11-17,-5.060000000000002,included_game_day
+1999,9,Arizona St,1998-11-23,-22.054000000000002,included_game_day
+1999,9,Arizona St,1998-11-24,-20.064300000000003,included_game_day
+1999,9,Arizona St,1998-12-01,-28.6324989,included_game_day
+1999,9,Arizona St,1998-12-05,-13.941841010000001,included_game_day
+1999,9,Arizona St,1998-12-08,-3.965893417,included_game_day
+1999,9,Arizona St,1998-12-19,8.6302390623,included_game_day
+1999,9,Arizona St,1998-12-22,18.0622707787496,included_game_day
+1999,9,Arizona St,1998-12-28,28.888208043894025,included_game_day
+1999,9,Arizona St,1999-01-02,33.73912829287501,included_game_day
+1999,9,Arizona St,1999-01-04,37.31147366440217,included_game_day
+1999,9,Arizona St,1999-01-07,59.21392407527631,included_game_day
+1999,9,Arizona St,1999-01-09,82.16145752316865,included_game_day
+1999,9,Arizona St,1999-01-14,79.07109990948598,included_game_day
+1999,9,Arizona St,1999-01-21,44.95529813323815,included_game_day
+1999,9,Arizona St,1999-01-23,53.26654304779534,included_game_day
+1999,9,Arizona St,1999-01-28,53.72272681539563,included_game_day
+1999,9,Arizona St,1999-01-30,53.74228493558603,included_game_day
+1999,9,Arizona St,1999-02-04,56.65238712383324,included_game_day
+1999,9,Arizona St,1999-02-06,55.54900657779275,included_game_day
+1999,9,Arizona St,1999-02-10,57.11043668022275,included_game_day
+1999,9,Arizona St,1999-02-18,55.31876187536735,included_game_day
+1999,9,Arizona St,1999-02-20,69.14225231070381,included_game_day
+1999,9,Arizona St,1999-02-25,71.08974455026888,included_game_day
+1999,9,Arizona St,1999-02-27,67.55521222238943,included_game_day
+1999,9,Arizona St,1999-03-04,68.5203484652006,included_game_day
+1999,9,Arizona St,1999-03-06,54.146033352819614,included_game_day
+2000,9,Arizona St,1999-11-20,19.0,included_game_day
+2000,9,Arizona St,1999-11-25,3.1999999999999993,included_game_day
+2000,9,Arizona St,1999-11-27,3.3864,included_game_day
+2000,9,Arizona St,1999-12-01,13.35856,included_game_day
+2000,9,Arizona St,1999-12-04,16.656837000000003,included_game_day
+2000,9,Arizona St,1999-12-07,10.037834310000003,included_game_day
+2000,9,Arizona St,1999-12-18,15.485131329508103,included_game_day
+2000,9,Arizona St,1999-12-21,26.325361266485192,included_game_day
+2000,9,Arizona St,1999-12-28,45.891467090016675,included_game_day
+2000,9,Arizona St,1999-12-29,49.506565558261954,included_game_day
+2000,9,Arizona St,2000-01-06,42.020647380398444,included_game_day
+2000,9,Arizona St,2000-01-08,48.587490641063525,included_game_day
+2000,9,Arizona St,2000-01-13,51.76129827369358,included_game_day
+2000,9,Arizona St,2000-01-15,58.733004990958904,included_game_day
+2000,9,Arizona St,2000-01-20,65.24301701489708,included_game_day
+2000,9,Arizona St,2000-01-22,63.437743000427986,included_game_day
+2000,9,Arizona St,2000-01-25,59.969911910037645,included_game_day
+2000,9,Arizona St,2000-01-26,34.920430825809866,included_game_day
+2000,9,Arizona St,2000-02-03,40.01021255509874,included_game_day
+2000,9,Arizona St,2000-02-05,29.983599585327397,included_game_day
+2000,9,Arizona St,2000-02-10,26.881329734427553,included_game_day
+2000,9,Arizona St,2000-02-12,41.34821559469753,included_game_day
+2000,9,Arizona St,2000-02-17,70.4839307590809,included_game_day
+2000,9,Arizona St,2000-02-19,82.2085547047289,included_game_day
+2000,9,Arizona St,2000-02-26,83.01114949314865,included_game_day
+2000,9,Arizona St,2000-03-02,83.7597847110819,included_game_day
+2000,9,Arizona St,2000-03-04,83.6938284010474,included_game_day
+2000,9,Arizona St,2000-03-09,83.92170573312225,included_game_day
+2000,9,Arizona St,2000-03-11,87.50726621473305,included_game_day
+2000,9,Arizona St,2000-03-15,87.38359450588865,included_game_day
+2000,9,Arizona St,2000-03-21,85.86601871221555,included_game_day
+2001,9,Arizona St,2000-11-10,-2.0,included_game_day
+2001,9,Arizona St,2000-11-11,6.0,included_game_day
+2001,9,Arizona St,2000-11-17,24.4,included_game_day
+2001,9,Arizona St,2000-11-21,32.96,included_game_day
+2001,9,Arizona St,2000-11-25,41.664,included_game_day
+2001,9,Arizona St,2000-12-02,65.0707271,included_game_day
+2001,9,Arizona St,2000-12-16,62.570639137499995,included_game_day
+2001,9,Arizona St,2000-12-20,67.98334241762,included_game_day
+2001,9,Arizona St,2000-12-22,105.38329125238099,included_game_day
+2001,9,Arizona St,2000-12-29,87.16433937888695,included_game_day
+2001,9,Arizona St,2000-12-30,97.53892168321181,included_game_day
+2001,9,Arizona St,2001-01-04,80.39274779138732,included_game_day
+2001,9,Arizona St,2001-01-06,62.33440142633083,included_game_day
+2001,9,Arizona St,2001-01-11,53.03816248410023,included_game_day
+2001,9,Arizona St,2001-01-13,25.47445989231074,included_game_day
+2001,9,Arizona St,2001-01-18,19.983149355849676,included_game_day
+2001,9,Arizona St,2001-01-20,3.479313096593902,included_game_day
+2001,9,Arizona St,2001-01-24,9.74011635446016,included_game_day
+2001,9,Arizona St,2001-02-01,24.54023855107095,included_game_day
+2001,9,Arizona St,2001-02-04,59.45974042527738,included_game_day
+2001,9,Arizona St,2001-02-08,48.50556706894764,included_game_day
+2001,9,Arizona St,2001-02-10,69.03392466766014,included_game_day
+2001,9,Arizona St,2001-02-15,64.30961922633682,included_game_day
+2001,9,Arizona St,2001-02-17,66.69758753132568,included_game_day
+2001,9,Arizona St,2001-02-21,47.43637152274847,included_game_day
+2001,9,Arizona St,2001-03-01,53.553585095399235,included_game_day
+2001,9,Arizona St,2001-03-03,48.88423746585796,included_game_day
+2001,9,Arizona St,2001-03-08,35.96779008001995,included_game_day
+2001,9,Arizona St,2001-03-10,28.85698228377843,included_game_day
+2002,9,Arizona State Sun Devils,2001-11-17,28.0,included_game_day
+2002,9,Arizona State Sun Devils,2001-11-20,13.2,included_game_day
+2002,9,Arizona State Sun Devils,2001-11-24,4.279999999999999,included_game_day
+2002,9,Arizona State Sun Devils,2001-11-27,9.352,included_game_day
+2002,9,Arizona State Sun Devils,2001-12-13,6.1402036,included_game_day
+2002,9,Arizona State Sun Devils,2001-12-20,7.722431388610999,included_game_day
+2002,9,Arizona State Sun Devils,2001-12-22,5.705462525128899,included_game_day
+2002,9,Arizona State Sun Devils,2001-12-28,22.962997090324208,included_game_day
+2002,9,Arizona State Sun Devils,2001-12-29,38.02580429042479,included_game_day
+2002,9,Arizona State Sun Devils,2002-01-04,44.10604127068626,included_game_day
+2002,9,Arizona State Sun Devils,2002-01-06,58.99631120618253,included_game_day
+2002,9,Arizona State Sun Devils,2002-01-10,40.83312760733664,included_game_day
+2002,9,Arizona State Sun Devils,2002-01-12,46.78480581603644,included_game_day
+2002,9,Arizona State Sun Devils,2002-01-17,41.94696459186134,included_game_day
+2002,9,Arizona State Sun Devils,2002-01-19,34.85845430417184,included_game_day
+2002,9,Arizona State Sun Devils,2002-01-23,51.242064196705584,included_game_day
+2002,9,Arizona State Sun Devils,2002-01-31,53.59897249323065,included_game_day
+2002,9,Arizona State Sun Devils,2002-02-02,50.47778408679316,included_game_day
+2002,9,Arizona State Sun Devils,2002-02-07,87.61003815064431,included_game_day
+2002,9,Arizona State Sun Devils,2002-02-09,84.83175744070451,included_game_day
+2002,9,Arizona State Sun Devils,2002-02-14,67.58614242077768,included_game_day
+2002,9,Arizona State Sun Devils,2002-02-16,71.34913793999146,included_game_day
+2002,9,Arizona State Sun Devils,2002-02-20,67.1731981115778,included_game_day
+2002,9,Arizona State Sun Devils,2002-02-28,56.698923562055,included_game_day
+2002,9,Arizona State Sun Devils,2002-03-02,53.223304031772706,included_game_day
+2002,9,Arizona State Sun Devils,2002-03-07,46.25070254158797,included_game_day
+2002,9,Arizona State Sun Devils,2002-03-12,45.817176716378015,included_game_day
+2003,9,Arizona State Sun Devils,2002-11-22,0.0,included_game_day
+2003,9,Arizona State Sun Devils,2002-11-25,-14.0,included_game_day
+2003,9,Arizona State Sun Devils,2002-11-27,-4.904,included_game_day
+2003,9,Arizona State Sun Devils,2002-11-30,15.086400000000001,included_game_day
+2003,9,Arizona State Sun Devils,2002-12-04,13.510910000000003,included_game_day
+2003,9,Arizona State Sun Devils,2002-12-07,-5.349820999999999,included_game_day
+2003,9,Arizona State Sun Devils,2002-12-10,7.950220100000001,included_game_day
+2003,9,Arizona State Sun Devils,2002-12-21,28.268770631085005,included_game_day
+2003,9,Arizona State Sun Devils,2002-12-27,48.0719950995255,included_game_day
+2003,9,Arizona State Sun Devils,2002-12-28,56.050654269298654,included_game_day
+2003,9,Arizona State Sun Devils,2003-01-02,74.22155947522079,included_game_day
+2003,9,Arizona State Sun Devils,2003-01-04,58.761514999022694,included_game_day
+2003,9,Arizona State Sun Devils,2003-01-09,85.34331372703015,included_game_day
+2003,9,Arizona State Sun Devils,2003-01-11,113.39511697941498,included_game_day
+2003,9,Arizona State Sun Devils,2003-01-16,117.91491741480361,included_game_day
+2003,9,Arizona State Sun Devils,2003-01-18,108.71670306095528,included_game_day
+2003,9,Arizona State Sun Devils,2003-01-22,108.12896690651014,included_game_day
+2003,9,Arizona State Sun Devils,2003-01-30,105.87075493353558,included_game_day
+2003,9,Arizona State Sun Devils,2003-02-01,98.72800422175574,included_game_day
+2003,9,Arizona State Sun Devils,2003-02-06,119.34384317524754,included_game_day
+2003,9,Arizona State Sun Devils,2003-02-08,112.0523838053426,included_game_day
+2003,9,Arizona State Sun Devils,2003-02-13,133.51642902326682,included_game_day
+2003,9,Arizona State Sun Devils,2003-02-15,132.1800649793969,included_game_day
+2003,9,Arizona State Sun Devils,2003-02-22,113.27417305088136,included_game_day
+2003,9,Arizona State Sun Devils,2003-02-27,102.36531097413086,included_game_day
+2003,9,Arizona State Sun Devils,2003-03-02,93.7365783964087,included_game_day
+2003,9,Arizona State Sun Devils,2003-03-06,104.45510083505684,included_game_day
+2003,9,Arizona State Sun Devils,2003-03-08,101.47543053047698,included_game_day
+2003,9,Arizona State Sun Devils,2003-03-13,95.855704217545,included_game_day
+2003,9,Arizona State Sun Devils,2003-03-20,114.68706171801931,included_game_day
+2003,9,Arizona State Sun Devils,2003-03-22,91.2754244954073,included_game_day
+2004,9,Arizona State Sun Devils,2003-11-22,14.0,included_game_day
+2004,9,Arizona State Sun Devils,2003-11-24,15.2,included_game_day
+2004,9,Arizona State Sun Devils,2003-11-29,18.46,included_game_day
+2004,9,Arizona State Sun Devils,2003-12-03,15.331500000000002,included_game_day
+2004,9,Arizona State Sun Devils,2003-12-09,12.409385,included_game_day
+2004,9,Arizona State Sun Devils,2003-12-17,12.978208200000001,included_game_day
+2004,9,Arizona State Sun Devils,2003-12-22,23.25333006544,included_game_day
+2004,9,Arizona State Sun Devils,2003-12-29,28.518899313313,included_game_day
+2004,9,Arizona State Sun Devils,2003-12-30,23.07515591638641,included_game_day
+2004,9,Arizona State Sun Devils,2004-01-03,4.4543725764061755,included_game_day
+2004,9,Arizona State Sun Devils,2004-01-08,11.515069332583165,included_game_day
+2004,9,Arizona State Sun Devils,2004-01-10,-3.581543544756686,included_game_day
+2004,9,Arizona State Sun Devils,2004-01-15,-5.374433529117606,included_game_day
+2004,9,Arizona State Sun Devils,2004-01-17,13.110297522209915,included_game_day
+2004,9,Arizona State Sun Devils,2004-01-22,7.24212902419856,included_game_day
+2004,9,Arizona State Sun Devils,2004-01-24,4.890998074322045,included_game_day
+2004,9,Arizona State Sun Devils,2004-01-29,-2.3877971933300355,included_game_day
+2004,9,Arizona State Sun Devils,2004-01-31,-4.338731467484106,included_game_day
+2004,9,Arizona State Sun Devils,2004-02-05,-19.634397713124017,included_game_day
+2004,9,Arizona State Sun Devils,2004-02-07,-12.275352457258425,included_game_day
+2004,9,Arizona State Sun Devils,2004-02-12,-4.6965899465806995,included_game_day
+2004,9,Arizona State Sun Devils,2004-02-14,-19.350640444573223,included_game_day
+2004,9,Arizona State Sun Devils,2004-02-19,-22.5734197912002,included_game_day
+2004,9,Arizona State Sun Devils,2004-02-21,-2.8763793453208493,included_game_day
+2004,9,Arizona State Sun Devils,2004-02-26,-19.359449091185525,included_game_day
+2004,9,Arizona State Sun Devils,2004-02-28,-38.71697862847769,included_game_day
+2004,9,Arizona State Sun Devils,2004-03-07,-47.529387781950085,included_game_day
+2005,9,Arizona State Sun Devils,2004-11-21,24.7,included_game_day
+2005,9,Arizona State Sun Devils,2004-11-23,25.7,included_game_day
+2005,9,Arizona State Sun Devils,2004-11-26,29.4,included_game_day
+2005,9,Arizona State Sun Devils,2004-11-27,45.256,included_game_day
+2005,9,Arizona State Sun Devils,2004-11-30,47.3363539,included_game_day
+2005,9,Arizona State Sun Devils,2004-12-04,38.645138509999995,included_game_day
+2005,9,Arizona State Sun Devils,2004-12-06,38.104943319,included_game_day
+2005,9,Arizona State Sun Devils,2004-12-12,46.1171389871,included_game_day
+2005,9,Arizona State Sun Devils,2004-12-20,75.5073434872229,included_game_day
+2005,9,Arizona State Sun Devils,2004-12-22,69.2856741484006,included_game_day
+2005,9,Arizona State Sun Devils,2004-12-28,85.17753301403505,included_game_day
+2005,9,Arizona State Sun Devils,2004-12-29,94.83302188153623,included_game_day
+2005,9,Arizona State Sun Devils,2005-01-02,79.66092660083731,included_game_day
+2005,9,Arizona State Sun Devils,2005-01-06,88.06224576432498,included_game_day
+2005,9,Arizona State Sun Devils,2005-01-08,93.99549499513346,included_game_day
+2005,9,Arizona State Sun Devils,2005-01-13,82.28595532306358,included_game_day
+2005,9,Arizona State Sun Devils,2005-01-15,66.79881914367354,included_game_day
+2005,9,Arizona State Sun Devils,2005-01-20,39.95146558854114,included_game_day
+2005,9,Arizona State Sun Devils,2005-01-22,56.88908312722293,included_game_day
+2005,9,Arizona State Sun Devils,2005-01-27,56.89687800804353,included_game_day
+2005,9,Arizona State Sun Devils,2005-01-30,55.1602746480116,included_game_day
+2005,9,Arizona State Sun Devils,2005-02-03,61.20030553350622,included_game_day
+2005,9,Arizona State Sun Devils,2005-02-05,52.50564486334942,included_game_day
+2005,9,Arizona State Sun Devils,2005-02-10,35.42027977818442,included_game_day
+2005,9,Arizona State Sun Devils,2005-02-12,23.567038690718128,included_game_day
+2005,9,Arizona State Sun Devils,2005-02-17,23.768426864515554,included_game_day
+2005,9,Arizona State Sun Devils,2005-02-19,29.386926360343345,included_game_day
+2005,9,Arizona State Sun Devils,2005-02-24,35.3818508539736,included_game_day
+2005,9,Arizona State Sun Devils,2005-02-26,36.21766141230045,included_game_day
+2005,9,Arizona State Sun Devils,2005-03-05,41.116077414725524,included_game_day
+2005,9,Arizona State Sun Devils,2005-03-10,49.13435676346067,included_game_day
+2005,9,Arizona State Sun Devils,2005-03-17,40.74994379160413,included_game_day
+2006,9,Arizona State Sun Devils,2005-11-23,14.7,included_game_day
+2006,9,Arizona State Sun Devils,2005-11-26,19.799999999999997,included_game_day
+2006,9,Arizona State Sun Devils,2005-11-28,31.592999999999996,included_game_day
+2006,9,Arizona State Sun Devils,2005-11-30,40.09068,included_game_day
+2006,9,Arizona State Sun Devils,2005-12-05,28.56149087,included_game_day
+2006,9,Arizona State Sun Devils,2005-12-10,18.755279997000002,included_game_day
+2006,9,Arizona State Sun Devils,2005-12-17,7.336826550696003,included_game_day
+2006,9,Arizona State Sun Devils,2005-12-21,21.6720739136504,included_game_day
+2006,9,Arizona State Sun Devils,2005-12-22,33.23844347522288,included_game_day
+2006,9,Arizona State Sun Devils,2005-12-29,21.58958897831989,included_game_day
+2006,9,Arizona State Sun Devils,2005-12-31,12.303611816561567,included_game_day
+2006,9,Arizona State Sun Devils,2006-01-05,13.152935130399397,included_game_day
+2006,9,Arizona State Sun Devils,2006-01-07,16.271347547945147,included_game_day
+2006,9,Arizona State Sun Devils,2006-01-12,6.253874730365256,included_game_day
+2006,9,Arizona State Sun Devils,2006-01-14,13.377372309655335,included_game_day
+2006,9,Arizona State Sun Devils,2006-01-19,-17.392241869714177,included_game_day
+2006,9,Arizona State Sun Devils,2006-01-21,-21.364464370124566,included_game_day
+2006,9,Arizona State Sun Devils,2006-01-25,-23.970758373366436,included_game_day
+2006,9,Arizona State Sun Devils,2006-02-02,-17.61308741340874,included_game_day
+2006,9,Arizona State Sun Devils,2006-02-04,-4.036265416918944,included_game_day
+2006,9,Arizona State Sun Devils,2006-02-09,11.396937313703697,included_game_day
+2006,9,Arizona State Sun Devils,2006-02-11,-0.5766811792864655,included_game_day
+2006,9,Arizona State Sun Devils,2006-02-16,-3.822971760545043,included_game_day
+2006,9,Arizona State Sun Devils,2006-02-18,9.115641642509914,included_game_day
+2006,9,Arizona State Sun Devils,2006-02-25,-2.621912021099689,included_game_day
+2006,9,Arizona State Sun Devils,2006-03-02,-16.950103265085765,included_game_day
+2006,9,Arizona State Sun Devils,2006-03-04,-3.569300150362679,included_game_day
+2006,9,Arizona State Sun Devils,2006-03-08,-11.068545145568821,included_game_day
+2007,9,Arizona State Sun Devils,2006-11-13,-10.1,included_game_day
+2007,9,Arizona State Sun Devils,2006-11-18,-22.119999999999997,included_game_day
+2007,9,Arizona State Sun Devils,2006-11-21,-14.386999999999997,included_game_day
+2007,9,Arizona State Sun Devils,2006-11-25,-14.664154899999996,included_game_day
+2007,9,Arizona State Sun Devils,2006-11-28,-7.916729409999995,included_game_day
+2007,9,Arizona State Sun Devils,2006-12-02,-10.578178372999995,included_game_day
+2007,9,Arizona State Sun Devils,2006-12-16,-16.594947653267795,included_game_day
+2007,9,Arizona State Sun Devils,2006-12-19,-5.254579862810015,included_game_day
+2007,9,Arizona State Sun Devils,2006-12-21,-6.439448179686114,included_game_day
+2007,9,Arizona State Sun Devils,2006-12-22,-7.451757412665905,included_game_day
+2007,9,Arizona State Sun Devils,2006-12-28,-17.353466502142375,included_game_day
+2007,9,Arizona State Sun Devils,2006-12-30,-17.28560533231186,included_game_day
+2007,9,Arizona State Sun Devils,2007-01-04,-24.966173940211615,included_game_day
+2007,9,Arizona State Sun Devils,2007-01-06,-23.82477406908916,included_game_day
+2007,9,Arizona State Sun Devils,2007-01-11,-17.324288562180204,included_game_day
+2007,9,Arizona State Sun Devils,2007-01-13,-27.752255434463503,included_game_day
+2007,9,Arizona State Sun Devils,2007-01-18,-17.215375089055147,included_game_day
+2007,9,Arizona State Sun Devils,2007-01-20,-8.70014754733241,included_game_day
+2007,9,Arizona State Sun Devils,2007-01-24,-17.91318893899184,included_game_day
+2007,9,Arizona State Sun Devils,2007-02-01,-18.002835902278548,included_game_day
+2007,9,Arizona State Sun Devils,2007-02-03,-8.331291697646213,included_game_day
+2007,9,Arizona State Sun Devils,2007-02-08,1.535907727106128,included_game_day
+2007,9,Arizona State Sun Devils,2007-02-10,-3.6519994496227195,included_game_day
+2007,9,Arizona State Sun Devils,2007-02-15,3.3582436149175496,included_game_day
+2007,9,Arizona State Sun Devils,2007-02-18,21.630733299966117,included_game_day
+2007,9,Arizona State Sun Devils,2007-02-25,22.419680219609262,included_game_day
+2007,9,Arizona State Sun Devils,2007-03-01,21.938626280205682,included_game_day
+2007,9,Arizona State Sun Devils,2007-03-03,25.57173453295435,included_game_day
+2007,9,Arizona State Sun Devils,2007-03-07,26.108576990364416,included_game_day
+2008,9,Arizona State Sun Devils,2007-11-19,-22.09,included_game_day
+2008,9,Arizona State Sun Devils,2007-11-20,-1.966000000000001,included_game_day
+2008,9,Arizona State Sun Devils,2007-11-21,1.6460999999999992,included_game_day
+2008,9,Arizona State Sun Devils,2007-11-26,32.800689999999996,included_game_day
+2008,9,Arizona State Sun Devils,2007-11-28,56.2454031,included_game_day
+2008,9,Arizona State Sun Devils,2007-12-02,39.93712805,included_game_day
+2008,9,Arizona State Sun Devils,2007-12-05,68.492761221,included_game_day
+2008,9,Arizona State Sun Devils,2007-12-08,65.2413162549,included_game_day
+2008,9,Arizona State Sun Devils,2007-12-15,90.4806480528078,included_game_day
+2008,9,Arizona State Sun Devils,2007-12-18,83.41574352761381,included_game_day
+2008,9,Arizona State Sun Devils,2007-12-22,78.31261962028626,included_game_day
+2008,9,Arizona State Sun Devils,2007-12-29,102.64869166529874,included_game_day
+2008,9,Arizona State Sun Devils,2008-01-03,104.15954051137365,included_game_day
+2008,9,Arizona State Sun Devils,2008-01-05,110.07643915889608,included_game_day
+2008,9,Arizona State Sun Devils,2008-01-09,107.57888732501722,included_game_day
+2008,9,Arizona State Sun Devils,2008-01-17,117.29260338290283,included_game_day
+2008,9,Arizona State Sun Devils,2008-01-24,96.85600395264231,included_game_day
+2008,9,Arizona State Sun Devils,2008-01-26,95.8337174831457,included_game_day
+2008,9,Arizona State Sun Devils,2008-01-31,72.66149434840952,included_game_day
+2008,9,Arizona State Sun Devils,2008-02-02,63.12010286091256,included_game_day
+2008,9,Arizona State Sun Devils,2008-02-10,75.86011876728145,included_game_day
+2008,9,Arizona State Sun Devils,2008-02-14,83.8574808524361,included_game_day
+2008,9,Arizona State Sun Devils,2008-02-16,74.18422849981278,included_game_day
+2008,9,Arizona State Sun Devils,2008-02-21,71.50927051698548,included_game_day
+2008,9,Arizona State Sun Devils,2008-02-23,90.5928898033369,included_game_day
+2008,9,Arizona State Sun Devils,2008-02-28,76.0962563164113,included_game_day
+2008,9,Arizona State Sun Devils,2008-03-01,90.72066965038242,included_game_day
+2008,9,Arizona State Sun Devils,2008-03-06,86.692271879453,included_game_day
+2008,9,Arizona State Sun Devils,2008-03-08,84.09614616781306,included_game_day
+2008,9,Arizona State Sun Devils,2008-03-13,82.37999181032528,included_game_day
+2008,9,Arizona State Sun Devils,2008-03-18,82.83107161630089,included_game_day
+2008,9,Arizona State Sun Devils,2008-03-20,97.45279015654867,included_game_day
+2008,9,Arizona State Sun Devils,2008-03-25,85.74488312244868,included_game_day
+2009,9,Arizona State Sun Devils,2008-11-14,13.0,included_game_day
+2009,9,Arizona State Sun Devils,2008-11-18,21.7,included_game_day
+2009,9,Arizona State Sun Devils,2008-11-23,32.668,included_game_day
+2009,9,Arizona State Sun Devils,2008-11-27,58.60136,included_game_day
+2009,9,Arizona State Sun Devils,2008-11-29,51.3964493,included_game_day
+2009,9,Arizona State Sun Devils,2008-11-30,78.04062517,included_game_day
+2009,9,Arizona State Sun Devils,2008-12-04,85.081483396,included_game_day
+2009,9,Arizona State Sun Devils,2008-12-07,99.4141660064,included_game_day
+2009,9,Arizona State Sun Devils,2008-12-14,86.01439128576,included_game_day
+2009,9,Arizona State Sun Devils,2008-12-20,92.339419979484,included_game_day
+2009,9,Arizona State Sun Devils,2008-12-23,112.34159009774547,included_game_day
+2009,9,Arizona State Sun Devils,2008-12-29,136.05466778990368,included_game_day
+2009,9,Arizona State Sun Devils,2009-01-02,165.22253858179363,included_game_day
+2009,9,Arizona State Sun Devils,2009-01-04,153.57989396539423,included_game_day
+2009,9,Arizona State Sun Devils,2009-01-08,167.59826652373422,included_game_day
+2009,9,Arizona State Sun Devils,2009-01-10,163.50073757050052,included_game_day
+2009,9,Arizona State Sun Devils,2009-01-15,145.72273382260474,included_game_day
+2009,9,Arizona State Sun Devils,2009-01-17,152.83616369721682,included_game_day
+2009,9,Arizona State Sun Devils,2009-01-21,152.1401405655129,included_game_day
+2009,9,Arizona State Sun Devils,2009-01-29,129.7198422424738,included_game_day
+2009,9,Arizona State Sun Devils,2009-01-31,112.88305717757875,included_game_day
+2009,9,Arizona State Sun Devils,2009-02-05,111.02097476940673,included_game_day
+2009,9,Arizona State Sun Devils,2009-02-07,115.25627465595834,included_game_day
+2009,9,Arizona State Sun Devils,2009-02-12,126.21568705341333,included_game_day
+2009,9,Arizona State Sun Devils,2009-02-15,131.06434085448,included_game_day
+2009,9,Arizona State Sun Devils,2009-02-22,127.63585777217384,included_game_day
+2009,9,Arizona State Sun Devils,2009-02-26,128.11896692158084,included_game_day
+2009,9,Arizona State Sun Devils,2009-02-28,125.389360756025,included_game_day
+2009,9,Arizona State Sun Devils,2009-03-05,105.62915110585078,included_game_day
+2009,9,Arizona State Sun Devils,2009-03-07,118.83985751620611,included_game_day
+2009,9,Arizona State Sun Devils,2009-03-12,128.54447417806534,included_game_day
+2009,9,Arizona State Sun Devils,2009-03-13,140.34457009909448,included_game_day
+2009,9,Arizona State Sun Devils,2009-03-14,133.64566822191068,included_game_day
+2009,9,Arizona State Sun Devils,2009-03-20,138.58816151137881,included_game_day
+2009,9,Arizona State Sun Devils,2009-03-22,130.50747228841507,included_game_day
+2010,9,Arizona State Sun Devils,2009-11-13,49.0,included_game_day
+2010,9,Arizona State Sun Devils,2009-11-16,63.1,included_game_day
+2010,9,Arizona State Sun Devils,2009-11-17,58.370000000000005,included_game_day
+2010,9,Arizona State Sun Devils,2009-11-20,89.333,included_game_day
+2010,9,Arizona State Sun Devils,2009-11-25,83.7349,included_game_day
+2010,9,Arizona State Sun Devils,2009-11-27,94.88701,included_game_day
+2010,9,Arizona State Sun Devils,2009-11-30,95.7934256,included_game_day
+2010,9,Arizona State Sun Devils,2009-12-03,84.83750286,included_game_day
+2010,9,Arizona State Sun Devils,2009-12-08,75.906059993,included_game_day
+2010,9,Arizona State Sun Devils,2009-12-12,104.565026710614,included_game_day
+2010,9,Arizona State Sun Devils,2009-12-19,101.59938824919071,included_game_day
+2010,9,Arizona State Sun Devils,2009-12-21,113.78104862032365,included_game_day
+2010,9,Arizona State Sun Devils,2009-12-23,100.119550234566,included_game_day
+2010,9,Arizona State Sun Devils,2009-12-31,93.59033424451646,included_game_day
+2010,9,Arizona State Sun Devils,2010-01-02,82.99803579902263,included_game_day
+2010,9,Arizona State Sun Devils,2010-01-08,95.56526934587045,included_game_day
+2010,9,Arizona State Sun Devils,2010-01-10,113.76055681566852,included_game_day
+2010,9,Arizona State Sun Devils,2010-01-14,128.97715427391617,included_game_day
+2010,9,Arizona State Sun Devils,2010-01-16,127.32766779505803,included_game_day
+2010,9,Arizona State Sun Devils,2010-01-23,97.01122198759695,included_game_day
+2010,9,Arizona State Sun Devils,2010-01-28,86.51834454941384,included_game_day
+2010,9,Arizona State Sun Devils,2010-01-30,95.69351190872442,included_game_day
+2010,9,Arizona State Sun Devils,2010-02-04,101.7890661874811,included_game_day
+2010,9,Arizona State Sun Devils,2010-02-06,82.53176396074088,included_game_day
+2010,9,Arizona State Sun Devils,2010-02-11,81.99029569035761,included_game_day
+2010,9,Arizona State Sun Devils,2010-02-13,79.10652134022585,included_game_day
+2010,9,Arizona State Sun Devils,2010-02-21,82.62090513748979,included_game_day
+2010,9,Arizona State Sun Devils,2010-02-25,88.8115003545275,included_game_day
+2010,9,Arizona State Sun Devils,2010-02-27,79.26102330640244,included_game_day
+2010,9,Arizona State Sun Devils,2010-03-04,76.6645525786889,included_game_day
+2010,9,Arizona State Sun Devils,2010-03-06,78.14490385357539,included_game_day
+2010,9,Arizona State Sun Devils,2010-03-11,63.44341730078712,included_game_day
+2010,9,Arizona State Sun Devils,2010-03-16,55.09362181296799,included_game_day
+2011,9,Arizona State Sun Devils,2010-11-16,-10.4,included_game_day
+2011,9,Arizona State Sun Devils,2010-11-20,-6.8500000000000005,included_game_day
+2011,9,Arizona State Sun Devils,2010-11-25,9.111,included_game_day
+2011,9,Arizona State Sun Devils,2010-11-27,7.237900000000001,included_game_day
+2011,9,Arizona State Sun Devils,2010-11-28,3.0064720000000005,included_game_day
+2011,9,Arizona State Sun Devils,2010-12-02,-1.196549899999999,included_game_day
+2011,9,Arizona State Sun Devils,2010-12-05,-2.1628732999999993,included_game_day
+2011,9,Arizona State Sun Devils,2010-12-11,15.915306924031201,included_game_day
+2011,9,Arizona State Sun Devils,2010-12-17,18.87848927075808,included_game_day
+2011,9,Arizona State Sun Devils,2010-12-21,28.945260195216573,included_game_day
+2011,9,Arizona State Sun Devils,2010-12-23,21.365546335507617,included_game_day
+2011,9,Arizona State Sun Devils,2010-12-30,-0.21943164189025666,included_game_day
+2011,9,Arizona State Sun Devils,2011-01-01,6.99544725563506,included_game_day
+2011,9,Arizona State Sun Devils,2011-01-06,-7.453209316521704,included_game_day
+2011,9,Arizona State Sun Devils,2011-01-08,-11.388214300310043,included_game_day
+2011,9,Arizona State Sun Devils,2011-01-12,0.04795505688692003,included_game_day
+2011,9,Arizona State Sun Devils,2011-01-15,3.203873944700444,included_game_day
+2011,9,Arizona State Sun Devils,2011-01-20,-2.514827209975463,included_game_day
+2011,9,Arizona State Sun Devils,2011-01-22,5.335334160111072,included_game_day
+2011,9,Arizona State Sun Devils,2011-01-27,7.2982765232573055,included_game_day
+2011,9,Arizona State Sun Devils,2011-01-29,8.342695979060734,included_game_day
+2011,9,Arizona State Sun Devils,2011-02-03,12.727615880213365,included_game_day
+2011,9,Arizona State Sun Devils,2011-02-05,8.446113338151799,included_game_day
+2011,9,Arizona State Sun Devils,2011-02-13,0.9347777146002159,included_game_day
+2011,9,Arizona State Sun Devils,2011-02-17,-5.160231128977662,included_game_day
+2011,9,Arizona State Sun Devils,2011-02-19,-0.583381995159864,included_game_day
+2011,9,Arizona State Sun Devils,2011-02-24,-8.175956103321713,included_game_day
+2011,9,Arizona State Sun Devils,2011-02-26,-12.405642307731455,included_game_day
+2011,9,Arizona State Sun Devils,2011-03-03,9.255166468904022,included_game_day
+2011,9,Arizona State Sun Devils,2011-03-05,18.46142781993441,included_game_day
+2011,9,Arizona State Sun Devils,2011-03-09,11.108486044182857,included_game_day
+2012,9,Arizona State Sun Devils,2011-11-11,3.0,included_game_day
+2012,9,Arizona State Sun Devils,2011-11-15,-6.300000000000001,included_game_day
+2012,9,Arizona State Sun Devils,2011-11-18,-14.700000000000001,included_game_day
+2012,9,Arizona State Sun Devils,2011-11-24,-22.7554,included_game_day
+2012,9,Arizona State Sun Devils,2011-11-25,9.450669999999995,included_game_day
+2012,9,Arizona State Sun Devils,2011-11-27,7.089892759999995,included_game_day
+2012,9,Arizona State Sun Devils,2011-12-03,14.820473293999996,included_game_day
+2012,9,Arizona State Sun Devils,2011-12-07,2.1121029745999955,included_game_day
+2012,9,Arizona State Sun Devils,2011-12-10,7.247863863939997,included_game_day
+2012,9,Arizona State Sun Devils,2011-12-17,-3.9048935766960033,included_game_day
+2012,9,Arizona State Sun Devils,2011-12-19,-4.090087575019543,included_game_day
+2012,9,Arizona State Sun Devils,2011-12-21,-11.003757668908802,included_game_day
+2012,9,Arizona State Sun Devils,2011-12-31,-17.108351319690748,included_game_day
+2012,9,Arizona State Sun Devils,2012-01-05,-2.237541955294958,included_game_day
+2012,9,Arizona State Sun Devils,2012-01-07,-11.267710841260396,included_game_day
+2012,9,Arizona State Sun Devils,2012-01-12,-19.136478530755557,included_game_day
+2012,9,Arizona State Sun Devils,2012-01-14,-3.076783920347676,included_game_day
+2012,9,Arizona State Sun Devils,2012-01-19,-11.78024518376225,included_game_day
+2012,9,Arizona State Sun Devils,2012-01-21,-40.40750886540994,included_game_day
+2012,9,Arizona State Sun Devils,2012-01-26,-40.14990371563208,included_game_day
+2012,9,Arizona State Sun Devils,2012-01-28,-32.87676810618758,included_game_day
+2012,9,Arizona State Sun Devils,2012-02-02,-45.908945603504996,included_game_day
+2012,9,Arizona State Sun Devils,2012-02-04,-49.414034051829695,included_game_day
+2012,9,Arizona State Sun Devils,2012-02-09,-53.63531646049789,included_game_day
+2012,9,Arizona State Sun Devils,2012-02-11,-59.48036963552156,included_game_day
+2012,9,Arizona State Sun Devils,2012-02-16,-52.82755084058082,included_game_day
+2012,9,Arizona State Sun Devils,2012-02-18,-63.57696544194165,included_game_day
+2012,9,Arizona State Sun Devils,2012-02-23,-63.21071875803719,included_game_day
+2012,9,Arizona State Sun Devils,2012-02-25,-61.88477493520424,included_game_day
+2012,9,Arizona State Sun Devils,2012-03-04,-43.46829114537542,included_game_day
+2012,9,Arizona State Sun Devils,2012-03-07,-52.625084695855165,included_game_day
+2013,9,Arizona State Sun Devils,2012-11-10,12.0,included_game_day
+2013,9,Arizona State Sun Devils,2012-11-18,32.67,included_game_day
+2013,9,Arizona State Sun Devils,2012-11-20,33.9079,included_game_day
+2013,9,Arizona State Sun Devils,2012-11-23,51.619969999999995,included_game_day
+2013,9,Arizona State Sun Devils,2012-11-24,41.509646,included_game_day
+2013,9,Arizona State Sun Devils,2012-11-28,40.5721379,included_game_day
+2013,9,Arizona State Sun Devils,2012-12-01,54.04387911,included_game_day
+2013,9,Arizona State Sun Devils,2012-12-05,53.071419335,included_game_day
+2013,9,Arizona State Sun Devils,2012-12-08,56.5403031915,included_game_day
+2013,9,Arizona State Sun Devils,2012-12-12,35.179170086246,included_game_day
+2013,9,Arizona State Sun Devils,2012-12-15,44.1761904311044,included_game_day
+2013,9,Arizona State Sun Devils,2012-12-22,57.741291044027335,included_game_day
+2013,9,Arizona State Sun Devils,2012-12-29,59.80660122720809,included_game_day
+2013,9,Arizona State Sun Devils,2013-01-02,55.623055821514335,included_game_day
+2013,9,Arizona State Sun Devils,2013-01-06,63.70012697535594,included_game_day
+2013,9,Arizona State Sun Devils,2013-01-10,73.91318797739362,included_game_day
+2013,9,Arizona State Sun Devils,2013-01-13,79.17614180631448,included_game_day
+2013,9,Arizona State Sun Devils,2013-01-19,63.955340950982134,included_game_day
+2013,9,Arizona State Sun Devils,2013-01-24,62.546341139164575,included_game_day
+2013,9,Arizona State Sun Devils,2013-01-26,81.68399854643738,included_game_day
+2013,9,Arizona State Sun Devils,2013-01-31,83.81910256934138,included_game_day
+2013,9,Arizona State Sun Devils,2013-02-02,78.79671624057225,included_game_day
+2013,9,Arizona State Sun Devils,2013-02-07,75.8172039448618,included_game_day
+2013,9,Arizona State Sun Devils,2013-02-09,71.10675217950863,included_game_day
+2013,9,Arizona State Sun Devils,2013-02-13,61.027062439120385,included_game_day
+2013,9,Arizona State Sun Devils,2013-02-16,68.3488994488266,included_game_day
+2013,9,Arizona State Sun Devils,2013-02-20,72.24603954744882,included_game_day
+2013,9,Arizona State Sun Devils,2013-02-23,55.859751218235324,included_game_day
+2013,9,Arizona State Sun Devils,2013-02-27,57.54776972542417,included_game_day
+2013,9,Arizona State Sun Devils,2013-03-02,58.68554778140694,included_game_day
+2013,9,Arizona State Sun Devils,2013-03-09,50.28359448587075,included_game_day
+2013,9,Arizona State Sun Devils,2013-03-13,55.73070777678727,included_game_day
+2013,9,Arizona State Sun Devils,2013-03-14,53.516802604119725,included_game_day
+2013,9,Arizona State Sun Devils,2013-03-20,67.01944384966687,included_game_day
+2013,9,Arizona State Sun Devils,2013-03-22,73.34198413035446,included_game_day
+2014,9,Arizona State Sun Devils,2013-11-08,32.0,included_game_day
+2014,9,Arizona State Sun Devils,2013-11-12,60.9,included_game_day
+2014,9,Arizona State Sun Devils,2013-11-15,79.81,included_game_day
+2014,9,Arizona State Sun Devils,2013-11-19,80.2478,included_game_day
+2014,9,Arizona State Sun Devils,2013-11-22,82.40152,included_game_day
+2014,9,Arizona State Sun Devils,2013-11-25,75.12926800000001,included_game_day
+2014,9,Arizona State Sun Devils,2013-11-28,45.867076200000014,included_game_day
+2014,9,Arizona State Sun Devils,2013-11-29,60.460523580000014,included_game_day
+2014,9,Arizona State Sun Devils,2013-12-01,52.58690845400001,included_game_day
+2014,9,Arizona State Sun Devils,2013-12-06,73.76853111860001,included_game_day
+2014,9,Arizona State Sun Devils,2013-12-14,96.41867800674001,included_game_day
+2014,9,Arizona State Sun Devils,2013-12-21,101.211578121214,included_game_day
+2014,9,Arizona State Sun Devils,2013-12-28,104.51028151596084,included_game_day
+2014,9,Arizona State Sun Devils,2014-01-02,80.07639071873577,included_game_day
+2014,9,Arizona State Sun Devils,2014-01-05,88.91825201276502,included_game_day
+2014,9,Arizona State Sun Devils,2014-01-09,102.39156798874069,included_game_day
+2014,9,Arizona State Sun Devils,2014-01-12,91.62752529803949,included_game_day
+2014,9,Arizona State Sun Devils,2014-01-16,79.33669328905488,included_game_day
+2014,9,Arizona State Sun Devils,2014-01-23,81.44319585990861,included_game_day
+2014,9,Arizona State Sun Devils,2014-01-25,98.4886586626573,included_game_day
+2014,9,Arizona State Sun Devils,2014-01-29,111.71208026247179,included_game_day
+2014,9,Arizona State Sun Devils,2014-02-01,106.04537288009405,included_game_day
+2014,9,Arizona State Sun Devils,2014-02-06,101.52681967167422,included_game_day
+2014,9,Arizona State Sun Devils,2014-02-08,99.85627646804845,included_game_day
+2014,9,Arizona State Sun Devils,2014-02-14,106.28595167716836,included_game_day
+2014,9,Arizona State Sun Devils,2014-02-19,96.53005656729633,included_game_day
+2014,9,Arizona State Sun Devils,2014-02-23,75.48852571126938,included_game_day
+2014,9,Arizona State Sun Devils,2014-02-26,88.59539793245109,included_game_day
+2014,9,Arizona State Sun Devils,2014-03-01,99.93802826981295,included_game_day
+2014,9,Arizona State Sun Devils,2014-03-04,96.88777820411237,included_game_day
+2014,9,Arizona State Sun Devils,2014-03-08,92.36599187383588,included_game_day
+2014,9,Arizona State Sun Devils,2014-03-13,71.23302849972386,included_game_day
+2014,9,Arizona State Sun Devils,2014-03-20,70.19569652883831,included_game_day
+2015,9,Arizona State Sun Devils,2014-11-14,33.0,included_game_day
+2015,9,Arizona State Sun Devils,2014-11-17,36.7,included_game_day
+2015,9,Arizona State Sun Devils,2014-11-20,53.620000000000005,included_game_day
+2015,9,Arizona State Sun Devils,2014-11-24,49.81700000000001,included_game_day
+2015,9,Arizona State Sun Devils,2014-11-25,42.16010000000001,included_game_day
+2015,9,Arizona State Sun Devils,2014-11-29,41.115390000000005,included_game_day
+2015,9,Arizona State Sun Devils,2014-12-03,55.589563000000005,included_game_day
+2015,9,Arizona State Sun Devils,2014-12-06,57.942836500000006,included_game_day
+2015,9,Arizona State Sun Devils,2014-12-13,59.52840084750001,included_game_day
+2015,9,Arizona State Sun Devils,2014-12-16,49.55567003875001,included_game_day
+2015,9,Arizona State Sun Devils,2014-12-20,36.19359354086641,included_game_day
+2015,9,Arizona State Sun Devils,2014-12-23,68.39687017804945,included_game_day
+2015,9,Arizona State Sun Devils,2014-12-28,70.45233547990598,included_game_day
+2015,9,Arizona State Sun Devils,2015-01-04,54.19981604268571,included_game_day
+2015,9,Arizona State Sun Devils,2015-01-08,48.97451362375002,included_game_day
+2015,9,Arizona State Sun Devils,2015-01-10,48.653659357246525,included_game_day
+2015,9,Arizona State Sun Devils,2015-01-15,39.40291232028352,included_game_day
+2015,9,Arizona State Sun Devils,2015-01-17,43.658558601196646,included_game_day
+2015,9,Arizona State Sun Devils,2015-01-22,77.16291239187441,included_game_day
+2015,9,Arizona State Sun Devils,2015-01-25,62.0724660440829,included_game_day
+2015,9,Arizona State Sun Devils,2015-01-28,77.62485485153627,included_game_day
+2015,9,Arizona State Sun Devils,2015-01-30,69.05277238384524,included_game_day
+2015,9,Arizona State Sun Devils,2015-02-07,81.5831468146569,included_game_day
+2015,9,Arizona State Sun Devils,2015-02-13,70.39531223201755,included_game_day
+2015,9,Arizona State Sun Devils,2015-02-15,77.91963153878608,included_game_day
+2015,9,Arizona State Sun Devils,2015-02-18,76.83967221369295,included_game_day
+2015,9,Arizona State Sun Devils,2015-02-22,70.71413900078802,included_game_day
+2015,9,Arizona State Sun Devils,2015-02-26,40.19880425324729,included_game_day
+2015,9,Arizona State Sun Devils,2015-03-01,33.211606858884494,included_game_day
+2015,9,Arizona State Sun Devils,2015-03-05,40.58748202901037,included_game_day
+2015,9,Arizona State Sun Devils,2015-03-07,37.73652866196135,included_game_day
+2015,9,Arizona State Sun Devils,2015-03-11,31.408648969876,included_game_day
+2015,9,Arizona State Sun Devils,2015-03-18,46.11813467047706,included_game_day
+2015,9,Arizona State Sun Devils,2015-03-22,45.51055867774836,included_game_day
+2016,9,Arizona State Sun Devils,2015-11-13,-6.0,included_game_day
+2016,9,Arizona State Sun Devils,2015-11-16,1.2000000000000002,included_game_day
+2016,9,Arizona State Sun Devils,2015-11-18,33.36,included_game_day
+2016,9,Arizona State Sun Devils,2015-11-23,34.783,included_game_day
+2016,9,Arizona State Sun Devils,2015-11-24,23.9784,included_game_day
+2016,9,Arizona State Sun Devils,2015-11-29,19.880741,included_game_day
+2016,9,Arizona State Sun Devils,2015-12-02,30.5598238,included_game_day
+2016,9,Arizona State Sun Devils,2015-12-05,45.98157832,included_game_day
+2016,9,Arizona State Sun Devils,2015-12-12,37.6467436196,included_game_day
+2016,9,Arizona State Sun Devils,2015-12-16,51.52830539202,included_game_day
+2016,9,Arizona State Sun Devils,2015-12-19,56.35156013769,included_game_day
+2016,9,Arizona State Sun Devils,2015-12-22,52.852006534921,included_game_day
+2016,9,Arizona State Sun Devils,2015-12-28,61.862245125880904,included_game_day
+2016,9,Arizona State Sun Devils,2016-01-03,53.4509420517113,included_game_day
+2016,9,Arizona State Sun Devils,2016-01-07,51.4095453536148,included_game_day
+2016,9,Arizona State Sun Devils,2016-01-09,46.83704425923823,included_game_day
+2016,9,Arizona State Sun Devils,2016-01-14,52.85724071970025,included_game_day
+2016,9,Arizona State Sun Devils,2016-01-16,44.070523059971755,included_game_day
+2016,9,Arizona State Sun Devils,2016-01-21,46.4318115150101,included_game_day
+2016,9,Arizona State Sun Devils,2016-01-23,46.851470732958816,included_game_day
+2016,9,Arizona State Sun Devils,2016-01-28,62.35730172687289,included_game_day
+2016,9,Arizona State Sun Devils,2016-01-31,48.484228771888816,included_game_day
+2016,9,Arizona State Sun Devils,2016-02-03,39.85247612747694,included_game_day
+2016,9,Arizona State Sun Devils,2016-02-06,47.881382765664895,included_game_day
+2016,9,Arizona State Sun Devils,2016-02-12,57.60397543001476,included_game_day
+2016,9,Arizona State Sun Devils,2016-02-14,41.76559229891515,included_game_day
+2016,9,Arizona State Sun Devils,2016-02-17,16.470030192455056,included_game_day
+2016,9,Arizona State Sun Devils,2016-02-25,-3.4453477974371864,included_game_day
+2016,9,Arizona State Sun Devils,2016-02-28,-4.8536352276232915,included_game_day
+2016,9,Arizona State Sun Devils,2016-03-03,8.145268207969115,included_game_day
+2016,9,Arizona State Sun Devils,2016-03-05,15.068305941392259,included_game_day
+2016,9,Arizona State Sun Devils,2016-03-09,10.239185166406969,included_game_day
+2017,9,Arizona State Sun Devils,2016-11-11,15.0,included_game_day
+2017,9,Arizona State Sun Devils,2016-11-13,31.9,included_game_day
+2017,9,Arizona State Sun Devils,2016-11-17,9.709999999999997,included_game_day
+2017,9,Arizona State Sun Devils,2016-11-18,15.540999999999997,included_game_day
+2017,9,Arizona State Sun Devils,2016-11-20,7.210299999999997,included_game_day
+2017,9,Arizona State Sun Devils,2016-11-23,14.493269999999997,included_game_day
+2017,9,Arizona State Sun Devils,2016-11-28,-20.592991100000006,included_game_day
+2017,9,Arizona State Sun Devils,2016-12-03,5.803744869999996,included_game_day
+2017,9,Arizona State Sun Devils,2016-12-06,-18.108924207200005,included_game_day
+2017,9,Arizona State Sun Devils,2016-12-10,-0.23988374030000514,included_game_day
+2017,9,Arizona State Sun Devils,2016-12-17,-10.788243863740005,included_game_day
+2017,9,Arizona State Sun Devils,2016-12-20,-11.96094843197736,included_game_day
+2017,9,Arizona State Sun Devils,2016-12-22,10.504605732527796,included_game_day
+2017,9,Arizona State Sun Devils,2016-12-30,18.619986003802502,included_game_day
+2017,9,Arizona State Sun Devils,2017-01-01,11.261406791113338,included_game_day
+2017,9,Arizona State Sun Devils,2017-01-05,11.878800484677525,included_game_day
+2017,9,Arizona State Sun Devils,2017-01-07,8.407755907691609,included_game_day
+2017,9,Arizona State Sun Devils,2017-01-12,8.438787379946326,included_game_day
+2017,9,Arizona State Sun Devils,2017-01-19,3.2729356550073305,included_game_day
+2017,9,Arizona State Sun Devils,2017-01-22,7.7447655166298475,included_game_day
+2017,9,Arizona State Sun Devils,2017-01-25,15.57447260295437,included_game_day
+2017,9,Arizona State Sun Devils,2017-01-29,-1.558201120873715,included_game_day
+2017,9,Arizona State Sun Devils,2017-02-02,16.046532304173468,included_game_day
+2017,9,Arizona State Sun Devils,2017-02-04,24.078186514053083,included_game_day
+2017,9,Arizona State Sun Devils,2017-02-08,1.1817471555115837,included_game_day
+2017,9,Arizona State Sun Devils,2017-02-11,6.8530717526831095,included_game_day
+2017,9,Arizona State Sun Devils,2017-02-16,6.620444685531104,included_game_day
+2017,9,Arizona State Sun Devils,2017-02-18,-11.168633937349004,included_game_day
+2017,9,Arizona State Sun Devils,2017-02-23,-8.035592343969089,included_game_day
+2017,9,Arizona State Sun Devils,2017-02-26,-4.722112825626281,included_game_day
+2017,9,Arizona State Sun Devils,2017-03-04,-8.917109054216088,included_game_day
+2017,9,Arizona State Sun Devils,2017-03-08,5.0060768557831,included_game_day
+2017,9,Arizona State Sun Devils,2017-03-09,-1.1274348176558462,included_game_day
+2018,9,Arizona State Sun Devils,2017-11-10,17.0,included_game_day
+2018,9,Arizona State Sun Devils,2017-11-14,34.3,included_game_day
+2018,9,Arizona State Sun Devils,2017-11-17,59.769999999999996,included_game_day
+2018,9,Arizona State Sun Devils,2017-11-19,71.221,included_game_day
+2018,9,Arizona State Sun Devils,2017-11-23,72.845,included_game_day
+2018,9,Arizona State Sun Devils,2017-11-24,92.59855,included_game_day
+2018,9,Arizona State Sun Devils,2017-12-02,97.73851334,included_game_day
+2018,9,Arizona State Sun Devils,2017-12-08,107.15886464144,included_game_day
+2018,9,Arizona State Sun Devils,2017-12-10,122.282288564629,included_game_day
+2018,9,Arizona State Sun Devils,2017-12-17,117.5925365930561,included_game_day
+2018,9,Arizona State Sun Devils,2017-12-19,124.99734331371046,included_game_day
+2018,9,Arizona State Sun Devils,2017-12-22,148.6093926554477,included_game_day
+2018,9,Arizona State Sun Devils,2017-12-30,141.32952377744942,included_game_day
+2018,9,Arizona State Sun Devils,2018-01-04,121.2285040965514,included_game_day
+2018,9,Arizona State Sun Devils,2018-01-07,121.2257289018867,included_game_day
+2018,9,Arizona State Sun Devils,2018-01-11,108.29641486558414,included_game_day
+2018,9,Arizona State Sun Devils,2018-01-13,101.19544053507164,included_game_day
+2018,9,Arizona State Sun Devils,2018-01-17,87.77651959334712,included_game_day
+2018,9,Arizona State Sun Devils,2018-01-20,83.1312589247396,included_game_day
+2018,9,Arizona State Sun Devils,2018-01-25,73.45869524029979,included_game_day
+2018,9,Arizona State Sun Devils,2018-01-27,80.49952067263483,included_game_day
+2018,9,Arizona State Sun Devils,2018-02-01,76.36203064990663,included_game_day
+2018,9,Arizona State Sun Devils,2018-02-04,78.22764596102192,included_game_day
+2018,9,Arizona State Sun Devils,2018-02-08,78.97357468938141,included_game_day
+2018,9,Arizona State Sun Devils,2018-02-10,86.55540366610445,included_game_day
+2018,9,Arizona State Sun Devils,2018-02-15,79.22873650838127,included_game_day
+2018,9,Arizona State Sun Devils,2018-02-22,74.69597441230299,included_game_day
+2018,9,Arizona State Sun Devils,2018-02-24,70.06382459952849,included_game_day
+2018,9,Arizona State Sun Devils,2018-03-01,83.76526642184147,included_game_day
+2018,9,Arizona State Sun Devils,2018-03-03,76.6969340071368,included_game_day
+2018,9,Arizona State Sun Devils,2018-03-07,58.11637103866534,included_game_day
+2018,9,Arizona State Sun Devils,2018-03-14,55.013431448320446,included_game_day
+2019,9,Arizona State Sun Devils,2018-11-06,5.0,included_game_day
+2019,9,Arizona State Sun Devils,2018-11-09,27.6,included_game_day
+2019,9,Arizona State Sun Devils,2018-11-12,53.260000000000005,included_game_day
+2019,9,Arizona State Sun Devils,2018-11-19,58.22710000000001,included_game_day
+2019,9,Arizona State Sun Devils,2018-11-21,66.61315,included_game_day
+2019,9,Arizona State Sun Devils,2018-11-28,73.80700413000001,included_game_day
+2019,9,Arizona State Sun Devils,2018-12-01,69.92856711700001,included_game_day
+2019,9,Arizona State Sun Devils,2018-12-07,69.4486346223,included_game_day
+2019,9,Arizona State Sun Devils,2018-12-15,70.0417576762,included_game_day
+2019,9,Arizona State Sun Devils,2018-12-17,56.108651160680004,included_game_day
+2019,9,Arizona State Sun Devils,2018-12-22,60.51046049592729,included_game_day
+2019,9,Arizona State Sun Devils,2018-12-29,46.32838727841279,included_game_day
+2019,9,Arizona State Sun Devils,2019-01-03,28.888158860667403,included_game_day
+2019,9,Arizona State Sun Devils,2019-01-05,49.73753427478846,included_game_day
+2019,9,Arizona State Sun Devils,2019-01-09,58.02752841202004,included_game_day
+2019,9,Arizona State Sun Devils,2019-01-12,39.66738736868912,included_game_day
+2019,9,Arizona State Sun Devils,2019-01-17,42.27215778777957,included_game_day
+2019,9,Arizona State Sun Devils,2019-01-19,55.66188353496854,included_game_day
+2019,9,Arizona State Sun Devils,2019-01-24,66.486936800804,included_game_day
+2019,9,Arizona State Sun Devils,2019-01-26,66.82928841137631,included_game_day
+2019,9,Arizona State Sun Devils,2019-01-31,66.47399762006745,included_game_day
+2019,9,Arizona State Sun Devils,2019-02-07,30.162736964855682,included_game_day
+2019,9,Arizona State Sun Devils,2019-02-09,47.61723408821324,included_game_day
+2019,9,Arizona State Sun Devils,2019-02-13,48.30551807214593,included_game_day
+2019,9,Arizona State Sun Devils,2019-02-16,61.64046437877204,included_game_day
+2019,9,Arizona State Sun Devils,2019-02-20,75.18226355663994,included_game_day
+2019,9,Arizona State Sun Devils,2019-02-24,64.52188371405552,included_game_day
+2019,9,Arizona State Sun Devils,2019-02-28,35.41131774392777,included_game_day
+2019,9,Arizona State Sun Devils,2019-03-03,42.07291122932408,included_game_day
+2019,9,Arizona State Sun Devils,2019-03-09,50.49968954282799,included_game_day
+2019,9,Arizona State Sun Devils,2019-03-14,57.36179328465767,included_game_day
+2019,9,Arizona State Sun Devils,2019-03-15,58.768147574122224,included_game_day
+2019,9,Arizona State Sun Devils,2019-03-20,62.81622444084467,included_game_day
+2019,9,Arizona State Sun Devils,2019-03-22,56.26333489699234,included_game_day
+2020,9,Arizona State Sun Devils,2019-11-08,-10.0,included_game_day
+2020,9,Arizona State Sun Devils,2019-11-14,24.950000000000003,included_game_day
+2020,9,Arizona State Sun Devils,2019-11-17,60.355000000000004,included_game_day
+2020,9,Arizona State Sun Devils,2019-11-23,72.986975,included_game_day
+2020,9,Arizona State Sun Devils,2019-11-24,69.390146,included_game_day
+2020,9,Arizona State Sun Devils,2019-11-26,62.606381400000004,included_game_day
+2020,9,Arizona State Sun Devils,2019-12-03,67.48715347000001,included_game_day
+2020,9,Arizona State Sun Devils,2019-12-07,67.80153937386801,included_game_day
+2020,9,Arizona State Sun Devils,2019-12-11,64.53803989748121,included_game_day
+2020,9,Arizona State Sun Devils,2019-12-14,79.64322715363309,included_game_day
+2020,9,Arizona State Sun Devils,2019-12-18,37.886619402948064,included_game_day
+2020,9,Arizona State Sun Devils,2019-12-21,30.55058449641726,included_game_day
+2020,9,Arizona State Sun Devils,2019-12-28,35.60285042359097,included_game_day
+2020,9,Arizona State Sun Devils,2020-01-04,19.559998306708792,included_game_day
+2020,9,Arizona State Sun Devils,2020-01-09,33.628031105138646,included_game_day
+2020,9,Arizona State Sun Devils,2020-01-11,34.734139293445175,included_game_day
+2020,9,Arizona State Sun Devils,2020-01-16,33.672191783548996,included_game_day
+2020,9,Arizona State Sun Devils,2020-01-18,48.014735422927146,included_game_day
+2020,9,Arizona State Sun Devils,2020-01-25,55.10079513908347,included_game_day
+2020,9,Arizona State Sun Devils,2020-01-29,51.889981829416,included_game_day
+2020,9,Arizona State Sun Devils,2020-02-01,60.436600078047796,included_game_day
+2020,9,Arizona State Sun Devils,2020-02-06,71.73729472648517,included_game_day
+2020,9,Arizona State Sun Devils,2020-02-08,69.88392808922784,included_game_day
+2020,9,Arizona State Sun Devils,2020-02-13,78.09218692932754,included_game_day
+2020,9,Arizona State Sun Devils,2020-02-16,75.81724165491012,included_game_day
+2020,9,Arizona State Sun Devils,2020-02-20,79.57218015593315,included_game_day
+2020,9,Arizona State Sun Devils,2020-02-22,72.06129365571296,included_game_day
+2020,9,Arizona State Sun Devils,2020-02-27,72.16436882598587,included_game_day
+2020,9,Arizona State Sun Devils,2020-02-29,65.4351407159285,included_game_day
+2020,9,Arizona State Sun Devils,2020-03-05,53.039572841105304,included_game_day
+2020,9,Arizona State Sun Devils,2020-03-07,52.71498883693203,included_game_day
+2021,9,Arizona State Sun Devils,2020-11-25,6.0,included_game_day
+2021,9,Arizona State Sun Devils,2020-11-26,-2.6999999999999993,included_game_day
+2021,9,Arizona State Sun Devils,2020-11-29,15.470000000000002,included_game_day
+2021,9,Arizona State Sun Devils,2020-12-03,25.378,included_game_day
+2021,9,Arizona State Sun Devils,2020-12-10,10.350200000000001,included_game_day
+2021,9,Arizona State Sun Devils,2020-12-13,17.018626,included_game_day
+2021,9,Arizona State Sun Devils,2020-12-16,-1.0555819,included_game_day
+2021,9,Arizona State Sun Devils,2021-01-07,-4.38033977875154,included_game_day
+2021,9,Arizona State Sun Devils,2021-01-09,-6.145924268637001,included_game_day
+2021,9,Arizona State Sun Devils,2021-01-16,-7.011506384114503,included_game_day
+2021,9,Arizona State Sun Devils,2021-01-21,-1.5886685056353098,included_game_day
+2021,9,Arizona State Sun Devils,2021-01-25,-2.2503982028519545,included_game_day
+2021,9,Arizona State Sun Devils,2021-01-28,-1.8720644875811137,included_game_day
+2021,9,Arizona State Sun Devils,2021-01-30,6.040339581087203,included_game_day
+2021,9,Arizona State Sun Devils,2021-02-11,-3.234608012926694,included_game_day
+2021,9,Arizona State Sun Devils,2021-02-14,-3.8288780839924237,included_game_day
+2021,9,Arizona State Sun Devils,2021-02-17,-6.790518048889778,included_game_day
+2021,9,Arizona State Sun Devils,2021-02-20,1.7049548406784165,included_game_day
+2021,9,Arizona State Sun Devils,2021-02-23,27.517004384618573,included_game_day
+2021,9,Arizona State Sun Devils,2021-02-25,23.1666440197707,included_game_day
+2021,9,Arizona State Sun Devils,2021-02-27,24.586288327419147,included_game_day
+2021,9,Arizona State Sun Devils,2021-03-04,22.571494151389913,included_game_day
+2021,9,Arizona State Sun Devils,2021-03-06,-13.308803653020064,included_game_day
+2021,9,Arizona State Sun Devils,2021-03-10,-3.383579008857387,included_game_day
+2021,9,Arizona State Sun Devils,2021-03-11,-11.7236197142695,included_game_day
+2022,9,Arizona State Sun Devils,2021-11-09,13.0,included_game_day
+2022,9,Arizona State Sun Devils,2021-11-11,6.7,included_game_day
+2022,9,Arizona State Sun Devils,2021-11-15,8.788,included_game_day
+2022,9,Arizona State Sun Devils,2021-11-18,9.5792,included_game_day
+2022,9,Arizona State Sun Devils,2021-11-24,7.299379999999999,included_game_day
+2022,9,Arizona State Sun Devils,2021-11-25,-1.0143780000000007,included_game_day
+2022,9,Arizona State Sun Devils,2021-11-26,-11.487674250000001,included_game_day
+2022,9,Arizona State Sun Devils,2021-12-01,-29.918832325,included_game_day
+2022,9,Arizona State Sun Devils,2021-12-05,-20.7081839198,included_game_day
+2022,9,Arizona State Sun Devils,2021-12-09,-11.003498993589998,included_game_day
+2022,9,Arizona State Sun Devils,2021-12-14,-0.7777035269747277,included_game_day
+2022,9,Arizona State Sun Devils,2021-12-19,2.255895035727546,included_game_day
+2022,9,Arizona State Sun Devils,2022-01-02,-15.318453747527075,included_game_day
+2022,9,Arizona State Sun Devils,2022-01-15,-31.460762481515467,included_game_day
+2022,9,Arizona State Sun Devils,2022-01-17,-29.490040094242822,included_game_day
+2022,9,Arizona State Sun Devils,2022-01-22,-24.07869635806953,included_game_day
+2022,9,Arizona State Sun Devils,2022-01-24,-32.02615928117977,included_game_day
+2022,9,Arizona State Sun Devils,2022-01-29,-18.95432901135143,included_game_day
+2022,9,Arizona State Sun Devils,2022-02-03,-17.351658268272054,included_game_day
+2022,9,Arizona State Sun Devils,2022-02-05,-2.161829398399174,included_game_day
+2022,9,Arizona State Sun Devils,2022-02-07,-0.29585802570903397,included_game_day
+2022,9,Arizona State Sun Devils,2022-02-10,-19.129760889555403,included_game_day
+2022,9,Arizona State Sun Devils,2022-02-12,-2.544284571288273,included_game_day
+2022,9,Arizona State Sun Devils,2022-02-17,25.313670487415195,included_game_day
+2022,9,Arizona State Sun Devils,2022-02-19,32.76176646086584,included_game_day
+2022,9,Arizona State Sun Devils,2022-02-21,32.633577716665826,included_game_day
+2022,9,Arizona State Sun Devils,2022-02-24,56.68535496536766,included_game_day
+2022,9,Arizona State Sun Devils,2022-02-26,57.3517431550656,included_game_day
+2022,9,Arizona State Sun Devils,2022-03-03,77.01680369897488,included_game_day
+2022,9,Arizona State Sun Devils,2022-03-05,76.00302581468756,included_game_day
+2022,9,Arizona State Sun Devils,2022-03-09,68.19200350725771,included_game_day
+2023,9,Arizona State Sun Devils,2022-11-07,0.0,included_game_day
+2023,9,Arizona State Sun Devils,2022-11-10,11.5,included_game_day
+2023,9,Arizona State Sun Devils,2022-11-13,9.56,included_game_day
+2023,9,Arizona State Sun Devils,2022-11-16,14.864,included_game_day
+2023,9,Arizona State Sun Devils,2022-11-17,43.129599999999996,included_game_day
+2023,9,Arizona State Sun Devils,2022-11-22,64.41064,included_game_day
+2023,9,Arizona State Sun Devils,2022-11-27,75.456054,included_game_day
+2023,9,Arizona State Sun Devils,2022-12-01,75.14657439999999,included_game_day
+2023,9,Arizona State Sun Devils,2022-12-04,69.28527471017999,included_game_day
+2023,9,Arizona State Sun Devils,2022-12-07,81.63692999576199,included_game_day
+2023,9,Arizona State Sun Devils,2022-12-12,81.080427768328,included_game_day
+2023,9,Arizona State Sun Devils,2022-12-18,93.3760892377091,included_game_day
+2023,9,Arizona State Sun Devils,2022-12-21,51.4281378328358,included_game_day
+2023,9,Arizona State Sun Devils,2022-12-31,47.754054001754135,included_game_day
+2023,9,Arizona State Sun Devils,2023-01-05,50.83523335939295,included_game_day
+2023,9,Arizona State Sun Devils,2023-01-08,51.8418062016167,included_game_day
+2023,9,Arizona State Sun Devils,2023-01-12,71.50846393158776,included_game_day
+2023,9,Arizona State Sun Devils,2023-01-14,69.54981011322103,included_game_day
+2023,9,Arizona State Sun Devils,2023-01-19,64.11068407654696,included_game_day
+2023,9,Arizona State Sun Devils,2023-01-21,53.442703809409124,included_game_day
+2023,9,Arizona State Sun Devils,2023-01-26,49.505472898896855,included_game_day
+2023,9,Arizona State Sun Devils,2023-01-28,35.630992992715136,included_game_day
+2023,9,Arizona State Sun Devils,2023-02-02,38.62159287896152,included_game_day
+2023,9,Arizona State Sun Devils,2023-02-04,34.26366179120477,included_game_day
+2023,9,Arizona State Sun Devils,2023-02-09,41.79394343657647,included_game_day
+2023,9,Arizona State Sun Devils,2023-02-11,41.08303168070623,included_game_day
+2023,9,Arizona State Sun Devils,2023-02-16,31.76251881363951,included_game_day
+2023,9,Arizona State Sun Devils,2023-02-18,39.80262571317823,included_game_day
+2023,9,Arizona State Sun Devils,2023-02-25,54.64434153281658,included_game_day
+2023,9,Arizona State Sun Devils,2023-03-02,49.362476668158294,included_game_day
+2023,9,Arizona State Sun Devils,2023-03-04,55.70172916188939,included_game_day
+2023,9,Arizona State Sun Devils,2023-03-08,50.88924282540732,included_game_day
+2023,9,Arizona State Sun Devils,2023-03-09,61.44189345404041,included_game_day
+2023,9,Arizona State Sun Devils,2023-03-10,50.471257234440124,included_game_day
+2023,9,Arizona State Sun Devils,2023-03-15,75.78262262177054,included_game_day
+2023,9,Arizona State Sun Devils,2023-03-17,77.93939781027208,included_game_day
+2024,9,Arizona State Sun Devils,2023-11-08,-15.0,included_game_day
+2024,9,Arizona State Sun Devils,2023-11-11,-8.9,included_game_day
+2024,9,Arizona State Sun Devils,2023-11-16,-5.305000000000001,included_game_day
+2024,9,Arizona State Sun Devils,2023-11-23,-20.85574,included_game_day
+2024,9,Arizona State Sun Devils,2023-11-24,-4.257045999999999,included_game_day
+2024,9,Arizona State Sun Devils,2023-11-29,10.639901600000002,included_game_day
+2024,9,Arizona State Sun Devils,2023-12-03,24.017425430000003,included_game_day
+2024,9,Arizona State Sun Devils,2023-12-06,25.987563431,included_game_day
+2024,9,Arizona State Sun Devils,2023-12-09,18.523897865099002,included_game_day
+2024,9,Arizona State Sun Devils,2023-12-16,5.514746016857099,included_game_day
+2024,9,Arizona State Sun Devils,2023-12-20,-9.291081910849257,included_game_day
+2024,9,Arizona State Sun Devils,2023-12-29,-0.5901815171713025,included_game_day
+2024,9,Arizona State Sun Devils,2023-12-31,4.349486872701851,included_game_day
+2024,9,Arizona State Sun Devils,2024-01-04,23.72371778597268,included_game_day
+2024,9,Arizona State Sun Devils,2024-01-06,28.659979225140347,included_game_day
+2024,9,Arizona State Sun Devils,2024-01-11,19.726121751814265,included_game_day
+2024,9,Arizona State Sun Devils,2024-01-17,11.007292589748095,included_game_day
+2024,9,Arizona State Sun Devils,2024-01-20,24.275956696552527,included_game_day
+2024,9,Arizona State Sun Devils,2024-01-25,11.765095057285142,included_game_day
+2024,9,Arizona State Sun Devils,2024-01-27,-0.9396913889418332,included_game_day
+2024,9,Arizona State Sun Devils,2024-02-01,-8.744525278540248,included_game_day
+2024,9,Arizona State Sun Devils,2024-02-03,-24.633709000894115,included_game_day
+2024,9,Arizona State Sun Devils,2024-02-08,-21.28189070586864,included_game_day
+2024,9,Arizona State Sun Devils,2024-02-10,-1.48462069783141,included_game_day
+2024,9,Arizona State Sun Devils,2024-02-14,10.36799012789465,included_game_day
+2024,9,Arizona State Sun Devils,2024-02-17,-15.969158105878545,included_game_day
+2024,9,Arizona State Sun Devils,2024-02-22,-12.687843034223812,included_game_day
+2024,9,Arizona State Sun Devils,2024-02-24,10.793672121609196,included_game_day
+2024,9,Arizona State Sun Devils,2024-02-28,6.837897251994351,included_game_day
+2024,9,Arizona State Sun Devils,2024-03-07,4.66008849115939,included_game_day
+2024,9,Arizona State Sun Devils,2024-03-09,-3.545831838722859,included_game_day
+2024,9,Arizona State Sun Devils,2024-03-13,-30.386434425892634,included_game_day
+2025,9,Arizona State Sun Devils,2024-11-05,4.0,included_game_day
+2025,9,Arizona State Sun Devils,2024-11-08,11.3,included_game_day
+2025,9,Arizona State Sun Devils,2024-11-10,8.670000000000002,included_game_day
+2025,9,Arizona State Sun Devils,2024-11-14,19.233000000000004,included_game_day
+2025,9,Arizona State Sun Devils,2024-11-17,30.249700000000004,included_game_day
+2025,9,Arizona State Sun Devils,2024-11-20,27.306160000000006,included_game_day
+2025,9,Arizona State Sun Devils,2024-11-28,33.26864200000001,included_game_day
+2025,9,Arizona State Sun Devils,2024-11-29,40.90074666000001,included_game_day
+2025,9,Arizona State Sun Devils,2024-12-03,68.14204835400001,included_game_day
+2025,9,Arizona State Sun Devils,2024-12-14,57.515892564100014,included_game_day
+2025,9,Arizona State Sun Devils,2024-12-21,64.67864449500787,included_game_day
+2025,9,Arizona State Sun Devils,2024-12-31,53.11548836846657,included_game_day
+2025,9,Arizona State Sun Devils,2025-01-04,69.28984142526639,included_game_day
+2025,9,Arizona State Sun Devils,2025-01-08,61.77402265392364,included_game_day
+2025,9,Arizona State Sun Devils,2025-01-11,59.71336357940012,included_game_day
+2025,9,Arizona State Sun Devils,2025-01-14,46.32585804960677,included_game_day
+2025,9,Arizona State Sun Devils,2025-01-18,46.19525492454644,included_game_day
+2025,9,Arizona State Sun Devils,2025-01-21,63.55624913219186,included_game_day
+2025,9,Arizona State Sun Devils,2025-01-25,57.718809021874115,included_game_day
+2025,9,Arizona State Sun Devils,2025-01-28,57.41483446797304,included_game_day
+2025,9,Arizona State Sun Devils,2025-02-01,55.89365095992007,included_game_day
+2025,9,Arizona State Sun Devils,2025-02-04,56.4927753077082,included_game_day
+2025,9,Arizona State Sun Devils,2025-02-09,42.81892810792636,included_game_day
+2025,9,Arizona State Sun Devils,2025-02-12,53.50990683406117,included_game_day
+2025,9,Arizona State Sun Devils,2025-02-15,43.418536013064355,included_game_day
+2025,9,Arizona State Sun Devils,2025-02-18,40.466235638603195,included_game_day
+2025,9,Arizona State Sun Devils,2025-02-23,61.122051720469656,included_game_day
+2025,9,Arizona State Sun Devils,2025-02-26,57.73099974745699,included_game_day
+2025,9,Arizona State Sun Devils,2025-03-01,33.61215685361614,included_game_day
+2025,9,Arizona State Sun Devils,2025-03-04,35.42748997434604,included_game_day
+2025,9,Arizona State Sun Devils,2025-03-08,18.178093984560356,included_game_day
+2025,9,Arizona State Sun Devils,2025-03-11,18.297784151566447,included_game_day
+2025,9,Arizona State Sun Devils,2025-03-31,13.17979787566064,included_game_day
+2026,9,Arizona State Sun Devils,2025-11-04,14.0,included_game_day
+2026,9,Arizona State Sun Devils,2025-11-09,22.810000000000002,included_game_day
+2026,9,Arizona State Sun Devils,2025-11-14,13.643000000000002,included_game_day
+2026,9,Arizona State Sun Devils,2025-11-17,19.655700000000003,included_game_day
+2026,9,Arizona State Sun Devils,2025-11-20,33.21714,included_game_day
+2026,9,Arizona State Sun Devils,2025-11-24,38.037256,included_game_day
+2026,9,Arizona State Sun Devils,2025-11-25,39.5175154,included_game_day
+2026,9,Arizona State Sun Devils,2025-11-26,28.8790561366,included_game_day
+2026,9,Arizona State Sun Devils,2025-12-06,49.31796128715,included_game_day
+2026,9,Arizona State Sun Devils,2025-12-09,63.290642325953996,included_game_day
+2026,9,Arizona State Sun Devils,2025-12-13,64.20083205737859,included_game_day
+2026,9,Arizona State Sun Devils,2025-12-17,55.01555644038639,included_game_day
+2026,9,Arizona State Sun Devils,2025-12-21,42.6860723039522,included_game_day
+2026,9,Arizona State Sun Devils,2026-01-03,34.450044520056515,included_game_day
+2026,9,Arizona State Sun Devils,2026-01-07,23.27341287253546,included_game_day
+2026,9,Arizona State Sun Devils,2026-01-10,26.756833317161227,included_game_day
+2026,9,Arizona State Sun Devils,2026-01-14,41.09316779868024,included_game_day
+2026,9,Arizona State Sun Devils,2026-01-18,28.173193601534017,included_game_day
+2026,9,Arizona State Sun Devils,2026-01-21,18.376794224408844,included_game_day
+2026,9,Arizona State Sun Devils,2026-01-24,36.351681259657255,included_game_day
+2026,9,Arizona State Sun Devils,2026-01-27,40.51279139887029,included_game_day
+2026,9,Arizona State Sun Devils,2026-01-31,43.16940185845189,included_game_day
+2026,9,Arizona State Sun Devils,2026-02-04,51.57757404824357,included_game_day
+2026,9,Arizona State Sun Devils,2026-02-07,45.92434007782322,included_game_day
+2026,9,Arizona State Sun Devils,2026-02-10,52.90484270506073,included_game_day
+2026,9,Arizona State Sun Devils,2026-02-17,67.71775717951499,included_game_day
+2026,9,Arizona State Sun Devils,2026-02-21,66.11935590848454,included_game_day
+2026,9,Arizona State Sun Devils,2026-02-24,57.61987493489126,included_game_day
+2026,9,Arizona State Sun Devils,2026-02-28,65.07956675221186,included_game_day
+2026,9,Arizona State Sun Devils,2026-03-03,79.63222482999842,included_game_day
+2026,9,Arizona State Sun Devils,2026-03-07,70.5015926170192,included_game_day
+2026,9,Arizona State Sun Devils,2026-03-10,77.50982491937594,included_game_day
+2026,9,Arizona State Sun Devils,2026-03-11,38.504495918756895,included_game_day
+2027,9,Arizona State Sun Devils,2026-11-02,7.0,included_game_day
+2027,9,Arizona State Sun Devils,2026-11-06,30.3,included_game_day
+2027,9,Arizona State Sun Devils,2026-11-10,46.370000000000005,included_game_day
+2027,9,Arizona State Sun Devils,2026-11-13,65.51818,included_game_day
+2027,9,Arizona State Sun Devils,2026-11-18,50.392434,included_game_day

@@ -1,0 +1,1312 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,57,Florida,1987-11-20,27.0,included_game_day
+1988,57,Florida,1987-11-21,36.3,included_game_day
+1988,57,Florida,1987-11-22,42.14,included_game_day
+1988,57,Florida,1987-11-23,47.435,included_game_day
+1988,57,Florida,1987-12-03,44.1715,included_game_day
+1988,57,Florida,1987-12-12,65.70236270000001,included_game_day
+1988,57,Florida,1987-12-16,93.45775643,included_game_day
+1988,57,Florida,1987-12-21,88.18235329750001,included_game_day
+1988,57,Florida,1987-12-29,71.52408792375002,included_game_day
+1988,57,Florida,1987-12-30,91.25945367005573,included_game_day
+1988,57,Florida,1988-01-02,82.609817571454,included_game_day
+1988,57,Florida,1988-01-04,94.7500072543579,included_game_day
+1988,57,Florida,1988-01-06,92.5674386692389,included_game_day
+1988,57,Florida,1988-01-09,104.11812016167042,included_game_day
+1988,57,Florida,1988-01-13,105.47467737180826,included_game_day
+1988,57,Florida,1988-01-16,97.24240565010909,included_game_day
+1988,57,Florida,1988-01-20,102.43496109550632,included_game_day
+1988,57,Florida,1988-01-23,120.3280761729489,included_game_day
+1988,57,Florida,1988-01-27,121.43092984929761,included_game_day
+1988,57,Florida,1988-01-30,94.31869397067724,included_game_day
+1988,57,Florida,1988-02-03,97.88306087454406,included_game_day
+1988,57,Florida,1988-02-06,87.78252274534587,included_game_day
+1988,57,Florida,1988-02-10,81.5630605665594,included_game_day
+1988,57,Florida,1988-02-13,83.68499385007875,included_game_day
+1988,57,Florida,1988-02-15,87.45266603540165,included_game_day
+1988,57,Florida,1988-02-17,72.58482256125924,included_game_day
+1988,57,Florida,1988-02-20,81.82171470388445,included_game_day
+1988,57,Florida,1988-02-24,69.70306691354523,included_game_day
+1988,57,Florida,1988-03-02,85.59199941276769,included_game_day
+1988,57,Florida,1988-03-05,81.76041559433173,included_game_day
+1988,57,Florida,1988-03-06,63.72003269838035,included_game_day
+1988,57,Florida,1988-03-11,67.44025670939746,included_game_day
+1988,57,Florida,1988-03-12,67.00320769846212,included_game_day
+1988,57,Florida,1988-03-17,69.3189312809994,included_game_day
+1988,57,Florida,1988-03-19,55.122177547769375,included_game_day
+1989,57,Florida,1988-11-25,-15.0,included_game_day
+1989,57,Florida,1988-11-27,-2.7650000000000006,included_game_day
+1989,57,Florida,1988-11-30,-0.8485000000000005,included_game_day
+1989,57,Florida,1988-12-03,-18.83865,included_game_day
+1989,57,Florida,1988-12-06,-40.896385,included_game_day
+1989,57,Florida,1988-12-10,-47.815471026850005,included_game_day
+1989,57,Florida,1988-12-19,-23.038666246165004,included_game_day
+1989,57,Florida,1988-12-22,-24.795625453391153,included_game_day
+1989,57,Florida,1988-12-27,-37.63628982587684,included_game_day
+1989,57,Florida,1988-12-28,-29.158355838489154,included_game_day
+1989,57,Florida,1989-01-05,-30.108826562772403,included_game_day
+1989,57,Florida,1989-01-07,-3.0915365129883945,included_game_day
+1989,57,Florida,1989-01-09,4.669739250905396,included_game_day
+1989,57,Florida,1989-01-12,-10.464454461869193,included_game_day
+1989,57,Florida,1989-01-14,-2.0621330670336544,included_game_day
+1989,57,Florida,1989-01-18,0.7035945074666596,included_game_day
+1989,57,Florida,1989-01-21,23.96912288081971,included_game_day
+1989,57,Florida,1989-01-25,33.6382513108711,included_game_day
+1989,57,Florida,1989-02-01,43.00197555855155,included_game_day
+1989,57,Florida,1989-02-04,38.48308683143446,included_game_day
+1989,57,Florida,1989-02-05,43.116703888362956,included_game_day
+1989,57,Florida,1989-02-08,46.480906446519775,included_game_day
+1989,57,Florida,1989-02-11,51.02113602101137,included_game_day
+1989,57,Florida,1989-02-15,49.56032543230191,included_game_day
+1989,57,Florida,1989-02-18,64.26262375633529,included_game_day
+1989,57,Florida,1989-02-22,71.16984141772961,included_game_day
+1989,57,Florida,1989-02-25,76.13117807098456,included_game_day
+1989,57,Florida,1989-03-01,86.26217070114355,included_game_day
+1989,57,Florida,1989-03-04,66.2941199067343,included_game_day
+1989,57,Florida,1989-03-10,62.10504271350977,included_game_day
+1989,57,Florida,1989-03-11,72.13235424270067,included_game_day
+1989,57,Florida,1989-03-12,61.43062248362009,included_game_day
+1989,57,Florida,1989-03-17,40.65657175424271,included_game_day
+1990,57,Florida,1989-11-27,8.0,included_game_day
+1990,57,Florida,1989-11-28,2.2699999999999996,included_game_day
+1990,57,Florida,1989-12-01,11.581,included_game_day
+1990,57,Florida,1989-12-05,-5.059100000000001,included_game_day
+1990,57,Florida,1989-12-09,8.059275,included_game_day
+1990,57,Florida,1989-12-16,6.796697333059999,included_game_day
+1990,57,Florida,1989-12-23,43.957214551912,included_game_day
+1990,57,Florida,1990-01-03,27.370428133363053,included_game_day
+1990,57,Florida,1990-01-06,58.354831360284194,included_game_day
+1990,57,Florida,1990-01-10,48.071618519268945,included_game_day
+1990,57,Florida,1990-01-13,62.35621652662797,included_game_day
+1990,57,Florida,1990-01-17,48.84147460161406,included_game_day
+1990,57,Florida,1990-01-20,23.772952974439658,included_game_day
+1990,57,Florida,1990-01-24,10.882777737233301,included_game_day
+1990,57,Florida,1990-01-27,4.962458291273862,included_game_day
+1990,57,Florida,1990-01-30,4.3843576126118595,included_game_day
+1990,57,Florida,1990-02-03,-18.543770672952988,included_game_day
+1990,57,Florida,1990-02-06,-12.276506758728402,included_game_day
+1990,57,Florida,1990-02-10,-10.34085208636261,included_game_day
+1990,57,Florida,1990-02-12,-8.135367829706896,included_game_day
+1990,57,Florida,1990-02-14,-22.927185458746223,included_game_day
+1990,57,Florida,1990-02-17,-33.17234203240651,included_game_day
+1990,57,Florida,1990-02-19,-36.88150393915913,included_game_day
+1990,57,Florida,1990-02-21,-58.75267282086942,included_game_day
+1990,57,Florida,1990-02-24,-64.03409861826758,included_game_day
+1990,57,Florida,1990-02-27,-36.301277941362855,included_game_day
+1990,57,Florida,1990-03-03,-33.79171720860803,included_game_day
+1990,57,Florida,1990-03-08,-39.1338307841236,included_game_day
+1991,57,Florida,1990-11-24,-6.0,included_game_day
+1991,57,Florida,1990-11-27,-10.4,included_game_day
+1991,57,Florida,1990-11-30,12.99,included_game_day
+1991,57,Florida,1990-12-05,-9.879,included_game_day
+1991,57,Florida,1990-12-07,-8.758950800000001,included_game_day
+1991,57,Florida,1990-12-15,20.469343701379998,included_game_day
+1991,57,Florida,1990-12-21,18.197817057810298,included_game_day
+1991,57,Florida,1990-12-30,14.474438372332306,included_game_day
+1991,57,Florida,1991-01-02,28.305443563727344,included_game_day
+1991,57,Florida,1991-01-05,27.19113680636937,included_game_day
+1991,57,Florida,1991-01-09,26.715591033886856,included_game_day
+1991,57,Florida,1991-01-12,13.997678529772761,included_game_day
+1991,57,Florida,1991-01-16,5.035048492500135,included_game_day
+1991,57,Florida,1991-01-19,12.821860651955783,included_game_day
+1991,57,Florida,1991-01-23,9.78039205605099,included_game_day
+1991,57,Florida,1991-01-26,11.801858641709966,included_game_day
+1991,57,Florida,1991-01-30,13.718094205352507,included_game_day
+1991,57,Florida,1991-02-02,19.481341068241512,included_game_day
+1991,57,Florida,1991-02-06,24.2762323609727,included_game_day
+1991,57,Florida,1991-02-09,17.199493874540185,included_game_day
+1991,57,Florida,1991-02-12,40.101424975637784,included_game_day
+1991,57,Florida,1991-02-16,44.84840210695884,included_game_day
+1991,57,Florida,1991-02-20,38.868624064087186,included_game_day
+1991,57,Florida,1991-02-23,24.78913230889547,included_game_day
+1991,57,Florida,1991-02-27,20.80297916025136,included_game_day
+1991,57,Florida,1991-03-02,14.93661907859228,included_game_day
+1991,57,Florida,1991-03-08,16.853798990283863,included_game_day
+1992,57,Florida,1991-11-23,7.0,included_game_day
+1992,57,Florida,1991-11-26,14.7,included_game_day
+1992,57,Florida,1991-12-02,17.9925,included_game_day
+1992,57,Florida,1991-12-04,18.19325,included_game_day
+1992,57,Florida,1991-12-07,34.232924999999994,included_game_day
+1992,57,Florida,1991-12-15,32.06028249999999,included_game_day
+1992,57,Florida,1991-12-21,53.111499372999994,included_game_day
+1992,57,Florida,1991-12-29,26.684318843229995,included_game_day
+1992,57,Florida,1991-12-30,25.982476663127578,included_game_day
+1992,57,Florida,1992-01-02,41.167718314741215,included_game_day
+1992,57,Florida,1992-01-08,41.14664331240677,included_game_day
+1992,57,Florida,1992-01-11,31.363865442171857,included_game_day
+1992,57,Florida,1992-01-15,28.6450285095411,included_game_day
+1992,57,Florida,1992-01-18,31.693797746461062,included_game_day
+1992,57,Florida,1992-01-22,34.29654601969906,included_game_day
+1992,57,Florida,1992-01-25,50.784187122564106,included_game_day
+1992,57,Florida,1992-01-27,51.66367822954467,included_game_day
+1992,57,Florida,1992-02-01,45.329228630913015,included_game_day
+1992,57,Florida,1992-02-05,35.33093597523508,included_game_day
+1992,57,Florida,1992-02-08,54.74364219380806,included_game_day
+1992,57,Florida,1992-02-12,56.63761467062229,included_game_day
+1992,57,Florida,1992-02-19,63.20416874761219,included_game_day
+1992,57,Florida,1992-02-22,62.62842803742164,included_game_day
+1992,57,Florida,1992-02-26,67.44915212001185,included_game_day
+1992,57,Florida,1992-02-29,53.92542167493302,included_game_day
+1992,57,Florida,1992-03-04,77.71282831662734,included_game_day
+1992,57,Florida,1992-03-07,69.09436196661257,included_game_day
+1992,57,Florida,1992-03-13,71.38949699544092,included_game_day
+1992,57,Florida,1992-03-18,83.04486224727133,included_game_day
+1992,57,Florida,1992-03-23,86.38320761791579,included_game_day
+1992,57,Florida,1992-03-27,98.75758532680278,included_game_day
+1992,57,Florida,1992-03-30,93.24204361720854,included_game_day
+1992,57,Florida,1992-04-01,88.50446676246803,included_game_day
+1993,57,Florida,1992-12-01,15.0,included_game_day
+1993,57,Florida,1992-12-04,20.9,included_game_day
+1993,57,Florida,1992-12-08,22.81,included_game_day
+1993,57,Florida,1992-12-19,19.18431896,included_game_day
+1993,57,Florida,1992-12-20,19.795746328,included_game_day
+1993,57,Florida,1992-12-22,15.5636546952,included_game_day
+1993,57,Florida,1992-12-28,16.59115147568,included_game_day
+1993,57,Florida,1992-12-29,31.4899767564962,included_game_day
+1993,57,Florida,1993-01-02,42.96710486744778,included_game_day
+1993,57,Florida,1993-01-06,48.294360585573,included_game_day
+1993,57,Florida,1993-01-09,53.97802270692844,included_game_day
+1993,57,Florida,1993-01-13,58.11501876427705,included_game_day
+1993,57,Florida,1993-01-16,57.61588533492496,included_game_day
+1993,57,Florida,1993-01-20,44.321064278979264,included_game_day
+1993,57,Florida,1993-01-24,61.12509641395836,included_game_day
+1993,57,Florida,1993-01-26,76.25903648941792,included_game_day
+1993,57,Florida,1993-01-30,65.33163111156296,included_game_day
+1993,57,Florida,1993-02-03,68.34475536125969,included_game_day
+1993,57,Florida,1993-02-06,60.069045234698365,included_game_day
+1993,57,Florida,1993-02-09,59.89501290223413,included_game_day
+1993,57,Florida,1993-02-17,95.28431598489922,included_game_day
+1993,57,Florida,1993-02-20,86.79625232232557,included_game_day
+1993,57,Florida,1993-02-24,86.40476577086083,included_game_day
+1993,57,Florida,1993-02-27,92.67989394685448,included_game_day
+1993,57,Florida,1993-03-03,74.28974888484802,included_game_day
+1993,57,Florida,1993-03-07,72.74720081720406,included_game_day
+1993,57,Florida,1993-03-11,53.46634788986658,included_game_day
+1993,57,Florida,1993-03-17,53.19827724757214,included_game_day
+1994,57,Florida,1993-11-26,17.0,included_game_day
+1994,57,Florida,1993-12-04,26.841,included_game_day
+1994,57,Florida,1993-12-05,33.2689,included_game_day
+1994,57,Florida,1993-12-08,39.42201,included_game_day
+1994,57,Florida,1993-12-11,76.009809,included_game_day
+1994,57,Florida,1993-12-18,62.6048491,included_game_day
+1994,57,Florida,1993-12-20,68.760688292,included_game_day
+1994,57,Florida,1993-12-22,75.5903705928,included_game_day
+1994,57,Florida,1993-12-27,80.87796439882,included_game_day
+1994,57,Florida,1993-12-28,65.0761557043237,included_game_day
+1994,57,Florida,1993-12-29,64.77094635075676,included_game_day
+1994,57,Florida,1994-01-05,61.92597724203928,included_game_day
+1994,57,Florida,1994-01-08,69.0897598345519,included_game_day
+1994,57,Florida,1994-01-11,66.7878854953636,included_game_day
+1994,57,Florida,1994-01-15,64.76358450636741,included_game_day
+1994,57,Florida,1994-01-18,72.98424171996095,included_game_day
+1994,57,Florida,1994-01-22,64.49053943479544,included_game_day
+1994,57,Florida,1994-01-26,87.32434791254113,included_game_day
+1994,57,Florida,1994-01-29,91.40196572586152,included_game_day
+1994,57,Florida,1994-02-02,80.5543107238441,included_game_day
+1994,57,Florida,1994-02-05,87.50780585793814,included_game_day
+1994,57,Florida,1994-02-09,102.05693384760492,included_game_day
+1994,57,Florida,1994-02-12,98.812984934497,included_game_day
+1994,57,Florida,1994-02-16,107.6375283176619,included_game_day
+1994,57,Florida,1994-02-19,116.28327048104629,included_game_day
+1994,57,Florida,1994-02-21,119.94350539924103,included_game_day
+1994,57,Florida,1994-02-26,108.21838187785636,included_game_day
+1994,57,Florida,1994-03-02,111.43345955525751,included_game_day
+1994,57,Florida,1994-03-05,105.40039644366718,included_game_day
+1994,57,Florida,1994-03-11,125.17485306267554,included_game_day
+1994,57,Florida,1994-03-12,140.38928672568798,included_game_day
+1994,57,Florida,1994-03-13,128.38115079581252,included_game_day
+1994,57,Florida,1994-03-17,120.55743634292139,included_game_day
+1994,57,Florida,1994-03-19,130.7137380306713,included_game_day
+1994,57,Florida,1994-03-25,144.52047056547687,included_game_day
+1994,57,Florida,1994-03-27,149.7327285993629,included_game_day
+1994,57,Florida,1994-04-02,146.5655347521813,included_game_day
+1995,57,Florida,1994-11-25,6.0,included_game_day
+1995,57,Florida,1994-11-29,34.8,included_game_day
+1995,57,Florida,1994-12-03,45.349999999999994,included_game_day
+1995,57,Florida,1994-12-07,41.6288,included_game_day
+1995,57,Florida,1994-12-10,59.965222999999995,included_game_day
+1995,57,Florida,1994-12-17,66.0782969,included_game_day
+1995,57,Florida,1994-12-21,57.06524321,included_game_day
+1995,57,Florida,1994-12-30,61.8494249564,included_game_day
+1995,57,Florida,1995-01-03,57.80795699718515,included_game_day
+1995,57,Florida,1995-01-07,66.69038742087483,included_game_day
+1995,57,Florida,1995-01-10,57.168101676401925,included_game_day
+1995,57,Florida,1995-01-14,56.50490752542984,included_game_day
+1995,57,Florida,1995-01-18,60.190802149903206,included_game_day
+1995,57,Florida,1995-01-22,75.9795784122618,included_game_day
+1995,57,Florida,1995-01-25,70.89386254212064,included_game_day
+1995,57,Florida,1995-01-28,76.02079658527407,included_game_day
+1995,57,Florida,1995-02-01,61.12701606514974,included_game_day
+1995,57,Florida,1995-02-07,85.16829746631443,included_game_day
+1995,57,Florida,1995-02-11,86.71160388655329,included_game_day
+1995,57,Florida,1995-02-15,96.1580916445108,included_game_day
+1995,57,Florida,1995-02-18,98.00497751950651,included_game_day
+1995,57,Florida,1995-02-20,109.96445094460253,included_game_day
+1995,57,Florida,1995-02-22,89.35053321187947,included_game_day
+1995,57,Florida,1995-02-25,84.64060125138029,included_game_day
+1995,57,Florida,1995-02-28,74.69933692518077,included_game_day
+1995,57,Florida,1995-03-05,85.81962680438005,included_game_day
+1995,57,Florida,1995-03-09,79.97641473404974,included_game_day
+1995,57,Florida,1995-03-10,101.74126214872399,included_game_day
+1995,57,Florida,1995-03-11,101.16750781305677,included_game_day
+1995,57,Florida,1995-03-17,101.77495006390984,included_game_day
+1996,57,Florida,1995-11-24,15.0,included_game_day
+1996,57,Florida,1995-11-28,1.9000000000000004,included_game_day
+1996,57,Florida,1995-12-02,12.02,included_game_day
+1996,57,Florida,1995-12-03,-9.982,included_game_day
+1996,57,Florida,1995-12-09,-34.0994,included_game_day
+1996,57,Florida,1995-12-16,-48.249894960000006,included_game_day
+1996,57,Florida,1995-12-20,-18.033005464000006,included_game_day
+1996,57,Florida,1995-12-29,1.449247073370394,included_game_day
+1996,57,Florida,1995-12-30,13.650741833280641,included_game_day
+1996,57,Florida,1996-01-03,8.344189335486758,included_game_day
+1996,57,Florida,1996-01-06,10.714302776516512,included_game_day
+1996,57,Florida,1996-01-11,5.5951338432510465,included_game_day
+1996,57,Florida,1996-01-13,21.762904070257726,included_game_day
+1996,57,Florida,1996-01-17,12.35754716537623,included_game_day
+1996,57,Florida,1996-01-20,17.591528201018303,included_game_day
+1996,57,Florida,1996-01-24,40.64556625275479,included_game_day
+1996,57,Florida,1996-01-27,38.60981061949154,included_game_day
+1996,57,Florida,1996-01-31,36.10719504477268,included_game_day
+1996,57,Florida,1996-02-03,45.927418524633495,included_game_day
+1996,57,Florida,1996-02-07,55.16190065101109,included_game_day
+1996,57,Florida,1996-02-10,49.20729216876254,included_game_day
+1996,57,Florida,1996-02-13,34.501443034491686,included_game_day
+1996,57,Florida,1996-02-21,34.642807430122126,included_game_day
+1996,57,Florida,1996-02-24,23.466817779056,included_game_day
+1996,57,Florida,1996-02-28,14.98906115072708,included_game_day
+1996,57,Florida,1996-03-02,21.79840819240725,included_game_day
+1996,57,Florida,1996-03-07,38.86992029173905,included_game_day
+1996,57,Florida,1996-03-08,38.84005987599161,included_game_day
+1997,57,Florida,1996-11-22,14.0,included_game_day
+1997,57,Florida,1996-11-25,18.6,included_game_day
+1997,57,Florida,1996-11-29,15.020000000000001,included_game_day
+1997,57,Florida,1996-12-01,6.4808,included_game_day
+1997,57,Florida,1996-12-04,-14.48728,included_game_day
+1997,57,Florida,1996-12-07,1.1316729999999993,included_game_day
+1997,57,Florida,1996-12-10,32.4328967,included_game_day
+1997,57,Florida,1996-12-14,34.92340703,included_game_day
+1997,57,Florida,1996-12-21,28.186548635,included_game_day
+1997,57,Florida,1996-12-28,16.635096085,included_game_day
+1997,57,Florida,1996-12-29,44.445993523248205,included_game_day
+1997,57,Florida,1997-01-05,61.17591333486058,included_game_day
+1997,57,Florida,1997-01-08,54.21342312130985,included_game_day
+1997,57,Florida,1997-01-11,43.042070460809654,included_game_day
+1997,57,Florida,1997-01-15,41.11129781223263,included_game_day
+1997,57,Florida,1997-01-18,59.827038032088495,included_game_day
+1997,57,Florida,1997-01-22,58.33973155702978,included_game_day
+1997,57,Florida,1997-01-25,61.19529382299997,included_game_day
+1997,57,Florida,1997-01-29,47.05120616183091,included_game_day
+1997,57,Florida,1997-02-01,33.85440272290731,included_game_day
+1997,57,Florida,1997-02-03,36.952328541931166,included_game_day
+1997,57,Florida,1997-02-08,40.532400393848846,included_game_day
+1997,57,Florida,1997-02-12,44.15657948715486,included_game_day
+1997,57,Florida,1997-02-15,39.02744711080797,included_game_day
+1997,57,Florida,1997-02-19,52.81129360337049,included_game_day
+1997,57,Florida,1997-02-23,52.14144500384354,included_game_day
+1997,57,Florida,1997-02-26,40.70452987793626,included_game_day
+1997,57,Florida,1997-03-01,41.877107878419146,included_game_day
+1997,57,Florida,1997-03-06,28.53021538223126,included_game_day
+1998,57,Florida,1997-11-15,0.0,included_game_day
+1998,57,Florida,1997-11-18,10.74,included_game_day
+1998,57,Florida,1997-11-21,14.866,included_game_day
+1998,57,Florida,1997-11-29,25.0669,included_game_day
+1998,57,Florida,1997-12-03,47.823040000000006,included_game_day
+1998,57,Florida,1997-12-09,45.55870079500001,included_game_day
+1998,57,Florida,1997-12-14,46.540302735500006,included_game_day
+1998,57,Florida,1997-12-22,75.08197280777536,included_game_day
+1998,57,Florida,1997-12-27,58.56146785047852,included_game_day
+1998,57,Florida,1998-01-03,70.64534052707262,included_game_day
+1998,57,Florida,1998-01-07,68.02627054994205,included_game_day
+1998,57,Florida,1998-01-10,69.55389524757246,included_game_day
+1998,57,Florida,1998-01-14,73.83257358481572,included_game_day
+1998,57,Florida,1998-01-17,62.37521258689455,included_game_day
+1998,57,Florida,1998-01-19,57.12368600215067,included_game_day
+1998,57,Florida,1998-01-24,72.83002014735867,included_game_day
+1998,57,Florida,1998-01-28,76.61942203510765,included_game_day
+1998,57,Florida,1998-02-01,94.43338600297187,included_game_day
+1998,57,Florida,1998-02-04,92.41216952939453,included_game_day
+1998,57,Florida,1998-02-07,79.10658963957397,included_game_day
+1998,57,Florida,1998-02-11,91.84432569375493,included_game_day
+1998,57,Florida,1998-02-14,73.82151439111635,included_game_day
+1998,57,Florida,1998-02-18,49.589660616691134,included_game_day
+1998,57,Florida,1998-02-21,47.168646218744044,included_game_day
+1998,57,Florida,1998-02-25,53.12619312702219,included_game_day
+1998,57,Florida,1998-02-28,38.14588850424498,included_game_day
+1998,57,Florida,1998-03-05,41.05080775419453,included_game_day
+1998,57,Florida,1998-03-06,35.411715001934205,included_game_day
+1998,57,Florida,1998-03-11,30.332680581780597,included_game_day
+1999,57,Florida,1998-11-16,11.0,included_game_day
+1999,57,Florida,1998-11-20,32.3,included_game_day
+1999,57,Florida,1998-11-23,53.762,included_game_day
+1999,57,Florida,1998-11-30,84.14488,included_game_day
+1999,57,Florida,1998-12-05,79.39396500000001,included_game_day
+1999,57,Florida,1998-12-09,58.207986866000006,included_game_day
+1999,57,Florida,1998-12-12,53.78248217160001,included_game_day
+1999,57,Florida,1998-12-20,97.37360172324401,included_game_day
+1999,57,Florida,1998-12-22,127.27798294888214,included_game_day
+1999,57,Florida,1998-12-27,131.41326512413494,included_game_day
+1999,57,Florida,1999-01-02,101.24483040849992,included_game_day
+1999,57,Florida,1999-01-06,126.05222326840142,included_game_day
+1999,57,Florida,1999-01-10,126.01671868144965,included_game_day
+1999,57,Florida,1999-01-13,133.5076156701179,included_game_day
+1999,57,Florida,1999-01-16,125.04303530502432,included_game_day
+1999,57,Florida,1999-01-20,136.8699227628627,included_game_day
+1999,57,Florida,1999-01-23,154.05163889839113,included_game_day
+1999,57,Florida,1999-01-27,144.71266753705044,included_game_day
+1999,57,Florida,1999-01-30,134.63498421958684,included_game_day
+1999,57,Florida,1999-02-04,144.4650113837952,included_game_day
+1999,57,Florida,1999-02-06,127.43715088431853,included_game_day
+1999,57,Florida,1999-02-10,93.97963905166986,included_game_day
+1999,57,Florida,1999-02-13,106.73951302684192,included_game_day
+1999,57,Florida,1999-02-16,117.79116241087061,included_game_day
+1999,57,Florida,1999-02-24,127.08703866777277,included_game_day
+1999,57,Florida,1999-02-27,119.45820679612731,included_game_day
+1999,57,Florida,1999-03-04,130.56570557095546,included_game_day
+1999,57,Florida,1999-03-05,129.09722881450838,included_game_day
+1999,57,Florida,1999-03-11,142.83072607405742,included_game_day
+1999,57,Florida,1999-03-13,145.87625051833632,included_game_day
+1999,57,Florida,1999-03-18,144.68122749508143,included_game_day
+2000,57,Florida,1999-11-19,32.0,included_game_day
+2000,57,Florida,1999-11-22,30.8,included_game_day
+2000,57,Florida,1999-11-23,16.72,included_game_day
+2000,57,Florida,1999-11-24,26.878999999999998,included_game_day
+2000,57,Florida,1999-11-29,79.33160000000001,included_game_day
+2000,57,Florida,1999-12-04,117.65741,included_game_day
+2000,57,Florida,1999-12-11,119.08768071641,included_game_day
+2000,57,Florida,1999-12-19,150.706177050355,included_game_day
+2000,57,Florida,1999-12-21,159.92960941078348,included_game_day
+2000,57,Florida,1999-12-23,170.94060265667963,included_game_day
+2000,57,Florida,1999-12-28,188.88832573298612,included_game_day
+2000,57,Florida,1999-12-30,189.03417574823848,included_game_day
+2000,57,Florida,2000-01-05,173.3114666423998,included_game_day
+2000,57,Florida,2000-01-08,171.11889508480454,included_game_day
+2000,57,Florida,2000-01-12,188.4426722509578,included_game_day
+2000,57,Florida,2000-01-18,179.33704386805854,included_game_day
+2000,57,Florida,2000-01-22,173.0538297421111,included_game_day
+2000,57,Florida,2000-01-26,162.0629219361512,included_game_day
+2000,57,Florida,2000-01-29,178.25130589697363,included_game_day
+2000,57,Florida,2000-02-02,171.44545128127064,included_game_day
+2000,57,Florida,2000-02-05,180.41966585484028,included_game_day
+2000,57,Florida,2000-02-08,190.88251282512084,included_game_day
+2000,57,Florida,2000-02-12,188.35711100429558,included_game_day
+2000,57,Florida,2000-02-15,188.22598047954577,included_game_day
+2000,57,Florida,2000-02-19,201.79954622383246,included_game_day
+2000,57,Florida,2000-02-23,209.89694323976462,included_game_day
+2000,57,Florida,2000-02-27,224.42454392590838,included_game_day
+2000,57,Florida,2000-03-01,226.41541047574194,included_game_day
+2000,57,Florida,2000-03-04,204.48738609686606,included_game_day
+2000,57,Florida,2000-03-09,209.82417162857365,included_game_day
+2000,57,Florida,2000-03-10,188.8030095689272,included_game_day
+2000,57,Florida,2000-03-17,183.66261111183448,included_game_day
+2000,57,Florida,2000-03-19,197.1774837992777,included_game_day
+2000,57,Florida,2000-03-24,206.532869473962,included_game_day
+2000,57,Florida,2000-03-26,216.6224715027708,included_game_day
+2000,57,Florida,2000-04-01,220.576557154358,included_game_day
+2000,57,Florida,2000-04-03,209.47142911269742,included_game_day
+2001,57,Florida,2000-11-17,18.0,included_game_day
+2001,57,Florida,2000-11-27,66.88974999999999,included_game_day
+2001,57,Florida,2000-12-02,63.83877499999999,included_game_day
+2001,57,Florida,2000-12-06,55.73721749999999,included_game_day
+2001,57,Florida,2000-12-09,65.02339484999999,included_game_day
+2001,57,Florida,2000-12-10,124.22381820899999,included_game_day
+2001,57,Florida,2000-12-16,126.92522782309999,included_game_day
+2001,57,Florida,2000-12-19,149.64124403008998,included_game_day
+2001,57,Florida,2000-12-23,172.59743907505987,included_game_day
+2001,57,Florida,2000-12-28,172.91967013077837,included_game_day
+2001,57,Florida,2000-12-30,194.20945055993906,included_game_day
+2001,57,Florida,2001-01-07,183.06645973974187,included_game_day
+2001,57,Florida,2001-01-10,178.7988872458466,included_game_day
+2001,57,Florida,2001-01-17,159.6035304497854,included_game_day
+2001,57,Florida,2001-01-20,144.84721993035177,included_game_day
+2001,57,Florida,2001-01-24,143.71794650766472,included_game_day
+2001,57,Florida,2001-01-27,145.55099142169695,included_game_day
+2001,57,Florida,2001-01-30,154.04280459535153,included_game_day
+2001,57,Florida,2001-02-03,159.59414647921733,included_game_day
+2001,57,Florida,2001-02-06,160.46932190430834,included_game_day
+2001,57,Florida,2001-02-10,165.49416009521937,included_game_day
+2001,57,Florida,2001-02-13,163.99670661098222,included_game_day
+2001,57,Florida,2001-02-18,167.0997378690113,included_game_day
+2001,57,Florida,2001-02-21,179.8097524394887,included_game_day
+2001,57,Florida,2001-02-24,190.82226413668417,included_game_day
+2001,57,Florida,2001-02-28,188.24031679781578,included_game_day
+2001,57,Florida,2001-03-04,191.13867044580957,included_game_day
+2001,57,Florida,2001-03-09,188.3282807908434,included_game_day
+2001,57,Florida,2001-03-10,178.82586361138158,included_game_day
+2001,57,Florida,2001-03-16,186.832235082646,included_game_day
+2001,57,Florida,2001-03-18,159.4988286730496,included_game_day
+2002,57,Florida Gators,2001-11-08,5.0,included_game_day
+2002,57,Florida Gators,2001-11-16,22.5,included_game_day
+2002,57,Florida Gators,2001-11-28,67.102356,included_game_day
+2002,57,Florida Gators,2001-12-02,76.8357204,included_game_day
+2002,57,Florida Gators,2001-12-05,70.28287836,included_game_day
+2002,57,Florida Gators,2001-12-08,92.644806494,included_game_day
+2002,57,Florida Gators,2001-12-15,103.7283725036,included_game_day
+2002,57,Florida Gators,2001-12-18,135.10898932825,included_game_day
+2002,57,Florida Gators,2001-12-22,132.446818672056,included_game_day
+2002,57,Florida Gators,2001-12-28,139.3599642063251,included_game_day
+2002,57,Florida Gators,2001-12-30,170.14284982933978,included_game_day
+2002,57,Florida Gators,2002-01-05,170.28104232372957,included_game_day
+2002,57,Florida Gators,2002-01-09,164.81934488460823,included_game_day
+2002,57,Florida Gators,2002-01-12,164.76578086919724,included_game_day
+2002,57,Florida Gators,2002-01-16,188.5840095163907,included_game_day
+2002,57,Florida Gators,2002-01-19,170.45923489765053,included_game_day
+2002,57,Florida Gators,2002-01-26,162.6065950387246,included_game_day
+2002,57,Florida Gators,2002-01-29,154.75835990911963,included_game_day
+2002,57,Florida Gators,2002-02-02,173.96134771959436,included_game_day
+2002,57,Florida Gators,2002-02-05,179.37049979724907,included_game_day
+2002,57,Florida Gators,2002-02-09,190.2238630977318,included_game_day
+2002,57,Florida Gators,2002-02-12,200.7121277849427,included_game_day
+2002,57,Florida Gators,2002-02-16,177.2818713430987,included_game_day
+2002,57,Florida Gators,2002-02-20,185.7281751421509,included_game_day
+2002,57,Florida Gators,2002-02-23,182.48731177584105,included_game_day
+2002,57,Florida Gators,2002-02-26,172.8603419630789,included_game_day
+2002,57,Florida Gators,2002-03-02,167.18872495619772,included_game_day
+2002,57,Florida Gators,2002-03-07,167.78899785683737,included_game_day
+2002,57,Florida Gators,2002-03-08,157.37956567350759,included_game_day
+2002,57,Florida Gators,2002-03-15,146.36713801128076,included_game_day
+2003,57,Florida Gators,2002-11-19,18.0,included_game_day
+2003,57,Florida Gators,2002-11-21,48.9,included_game_day
+2003,57,Florida Gators,2002-11-24,84.81,included_game_day
+2003,57,Florida Gators,2002-11-27,77.06400000000001,included_game_day
+2003,57,Florida Gators,2002-11-29,86.39920000000001,included_game_day
+2003,57,Florida Gators,2002-12-03,79.27963000000001,included_game_day
+2003,57,Florida Gators,2002-12-06,82.40985080000002,included_game_day
+2003,57,Florida Gators,2002-12-08,89.23062272000001,included_game_day
+2003,57,Florida Gators,2002-12-14,96.51261054900002,included_game_day
+2003,57,Florida Gators,2002-12-21,95.47547093965801,included_game_day
+2003,57,Florida Gators,2002-12-23,91.2712825802202,included_game_day
+2003,57,Florida Gators,2002-12-28,108.16701665719819,included_game_day
+2003,57,Florida Gators,2002-12-30,120.08321930992037,included_game_day
+2003,57,Florida Gators,2003-01-07,133.10411160740472,included_game_day
+2003,57,Florida Gators,2003-01-11,131.9741224376413,included_game_day
+2003,57,Florida Gators,2003-01-15,133.96409044797446,included_game_day
+2003,57,Florida Gators,2003-01-18,128.25475555859924,included_game_day
+2003,57,Florida Gators,2003-01-22,128.1762232700289,included_game_day
+2003,57,Florida Gators,2003-01-28,145.19617029391955,included_game_day
+2003,57,Florida Gators,2003-02-01,139.39076610294535,included_game_day
+2003,57,Florida Gators,2003-02-04,128.4831882153404,included_game_day
+2003,57,Florida Gators,2003-02-08,136.47551997457046,included_game_day
+2003,57,Florida Gators,2003-02-12,145.46883331747875,included_game_day
+2003,57,Florida Gators,2003-02-15,136.09232090525583,included_game_day
+2003,57,Florida Gators,2003-02-17,148.12845060955573,included_game_day
+2003,57,Florida Gators,2003-02-22,140.6111300522468,included_game_day
+2003,57,Florida Gators,2003-02-25,162.24954554276664,included_game_day
+2003,57,Florida Gators,2003-03-01,156.4674463985271,included_game_day
+2003,57,Florida Gators,2003-03-04,154.00204264936542,included_game_day
+2003,57,Florida Gators,2003-03-08,156.41998265220312,included_game_day
+2003,57,Florida Gators,2003-03-14,149.48555433900435,included_game_day
+2003,57,Florida Gators,2003-03-21,164.59782492130387,included_game_day
+2003,57,Florida Gators,2003-03-23,135.53045415016427,included_game_day
+2004,57,Florida Gators,2003-11-25,37.56,included_game_day
+2004,57,Florida Gators,2003-11-28,41.044000000000004,included_game_day
+2004,57,Florida Gators,2003-12-02,53.402,included_game_day
+2004,57,Florida Gators,2003-12-04,72.3397,included_game_day
+2004,57,Florida Gators,2003-12-06,73.36188,included_game_day
+2004,57,Florida Gators,2003-12-10,64.798843889,included_game_day
+2004,57,Florida Gators,2003-12-13,57.3021636701,included_game_day
+2004,57,Florida Gators,2003-12-20,63.52135089734,included_game_day
+2004,57,Florida Gators,2003-12-22,68.28508126997,included_game_day
+2004,57,Florida Gators,2003-12-27,103.34119701611759,included_game_day
+2004,57,Florida Gators,2004-01-03,113.84932570448213,included_game_day
+2004,57,Florida Gators,2004-01-07,121.14221955146677,included_game_day
+2004,57,Florida Gators,2004-01-10,154.2052745496261,included_game_day
+2004,57,Florida Gators,2004-01-17,139.31909014414063,included_game_day
+2004,57,Florida Gators,2004-01-21,122.6134563644052,included_game_day
+2004,57,Florida Gators,2004-01-24,131.4700150289579,included_game_day
+2004,57,Florida Gators,2004-01-27,139.5781707382117,included_game_day
+2004,57,Florida Gators,2004-01-31,132.7559582853036,included_game_day
+2004,57,Florida Gators,2004-02-03,123.12146201875214,included_game_day
+2004,57,Florida Gators,2004-02-07,129.23989131149239,included_game_day
+2004,57,Florida Gators,2004-02-14,119.55092081832014,included_game_day
+2004,57,Florida Gators,2004-02-17,101.97047879236922,included_game_day
+2004,57,Florida Gators,2004-02-21,112.14627639549664,included_game_day
+2004,57,Florida Gators,2004-02-25,119.2375946527995,included_game_day
+2004,57,Florida Gators,2004-02-28,120.96442252482389,included_game_day
+2004,57,Florida Gators,2004-03-03,120.47451993770433,included_game_day
+2004,57,Florida Gators,2004-03-07,107.17213473214903,included_game_day
+2004,57,Florida Gators,2004-03-12,107.81765661703142,included_game_day
+2004,57,Florida Gators,2004-03-13,128.78280076920504,included_game_day
+2004,57,Florida Gators,2004-03-14,120.352177723983,included_game_day
+2004,57,Florida Gators,2004-03-18,98.19344121926531,included_game_day
+2005,57,Florida Gators,2004-11-19,25.0,included_game_day
+2005,57,Florida Gators,2004-11-23,64.5,included_game_day
+2005,57,Florida Gators,2004-11-27,76.651506,included_game_day
+2005,57,Florida Gators,2004-11-30,96.0203554,included_game_day
+2005,57,Florida Gators,2004-12-04,74.96528296,included_game_day
+2005,57,Florida Gators,2004-12-08,100.353350964,included_game_day
+2005,57,Florida Gators,2004-12-11,88.0480893676,included_game_day
+2005,57,Florida Gators,2004-12-19,105.34010713384001,included_game_day
+2005,57,Florida Gators,2004-12-22,144.02007014987979,included_game_day
+2005,57,Florida Gators,2004-12-29,156.0719116575918,included_game_day
+2005,57,Florida Gators,2005-01-02,134.30401483228866,included_game_day
+2005,57,Florida Gators,2005-01-08,141.73894066783177,included_game_day
+2005,57,Florida Gators,2005-01-12,136.9488109465521,included_game_day
+2005,57,Florida Gators,2005-01-15,153.80847313600106,included_game_day
+2005,57,Florida Gators,2005-01-19,132.33309416285908,included_game_day
+2005,57,Florida Gators,2005-01-25,137.90607675235958,included_game_day
+2005,57,Florida Gators,2005-01-29,136.14083236324183,included_game_day
+2005,57,Florida Gators,2005-02-01,121.29924374295459,included_game_day
+2005,57,Florida Gators,2005-02-05,151.4028721038909,included_game_day
+2005,57,Florida Gators,2005-02-08,153.99306751334268,included_game_day
+2005,57,Florida Gators,2005-02-12,157.01143106281316,included_game_day
+2005,57,Florida Gators,2005-02-16,178.14196400997176,included_game_day
+2005,57,Florida Gators,2005-02-19,167.1116021983781,included_game_day
+2005,57,Florida Gators,2005-02-27,162.11999416441049,included_game_day
+2005,57,Florida Gators,2005-03-02,158.21956994161513,included_game_day
+2005,57,Florida Gators,2005-03-06,156.0261334078632,included_game_day
+2005,57,Florida Gators,2005-03-11,160.60573654468737,included_game_day
+2005,57,Florida Gators,2005-03-12,169.64373970046375,included_game_day
+2005,57,Florida Gators,2005-03-13,188.2168789815084,included_game_day
+2005,57,Florida Gators,2005-03-18,176.3994477488403,included_game_day
+2005,57,Florida Gators,2005-03-20,159.3758059468874,included_game_day
+2006,57,Florida Gators,2005-11-09,26.0,included_game_day
+2006,57,Florida Gators,2005-11-10,40.8,included_game_day
+2006,57,Florida Gators,2005-11-17,46.11,included_game_day
+2006,57,Florida Gators,2005-11-18,50.359,included_game_day
+2006,57,Florida Gators,2005-11-25,54.6531,included_game_day
+2006,57,Florida Gators,2005-11-28,66.79339,included_game_day
+2006,57,Florida Gators,2005-12-03,90.83900700000001,included_game_day
+2006,57,Florida Gators,2005-12-06,96.70449154,included_game_day
+2006,57,Florida Gators,2005-12-09,110.51044918600002,included_game_day
+2006,57,Florida Gators,2005-12-18,135.193362394052,included_game_day
+2006,57,Florida Gators,2005-12-22,141.6343329043138,included_game_day
+2006,57,Florida Gators,2005-12-30,154.397628639483,included_game_day
+2006,57,Florida Gators,2006-01-03,160.15198007857708,included_game_day
+2006,57,Florida Gators,2006-01-07,170.5349990180122,included_game_day
+2006,57,Florida Gators,2006-01-11,169.84531825525406,included_game_day
+2006,57,Florida Gators,2006-01-14,163.8952097026916,included_game_day
+2006,57,Florida Gators,2006-01-18,170.82826737384926,included_game_day
+2006,57,Florida Gators,2006-01-21,161.57155346053707,included_game_day
+2006,57,Florida Gators,2006-01-25,148.80394432509522,included_game_day
+2006,57,Florida Gators,2006-01-28,161.88542848501618,included_game_day
+2006,57,Florida Gators,2006-01-31,163.42297464960654,included_game_day
+2006,57,Florida Gators,2006-02-04,165.92540402063725,included_game_day
+2006,57,Florida Gators,2006-02-08,148.28725264378215,included_game_day
+2006,57,Florida Gators,2006-02-11,151.79564150956872,included_game_day
+2006,57,Florida Gators,2006-02-15,150.5145810070532,included_game_day
+2006,57,Florida Gators,2006-02-18,145.0170772924118,included_game_day
+2006,57,Florida Gators,2006-02-22,134.5509878197911,included_game_day
+2006,57,Florida Gators,2006-02-26,127.01416098951643,included_game_day
+2006,57,Florida Gators,2006-03-01,123.15437697690841,included_game_day
+2006,57,Florida Gators,2006-03-05,140.31900258255666,included_game_day
+2006,57,Florida Gators,2006-03-10,138.38912178468178,included_game_day
+2006,57,Florida Gators,2006-03-11,155.2572315926251,included_game_day
+2006,57,Florida Gators,2006-03-12,149.20356322778792,included_game_day
+2006,57,Florida Gators,2006-03-16,166.29148780061723,included_game_day
+2006,57,Florida Gators,2006-03-18,178.7563642380911,included_game_day
+2006,57,Florida Gators,2006-03-24,174.25436575902657,included_game_day
+2006,57,Florida Gators,2006-03-26,186.43280544466847,included_game_day
+2006,57,Florida Gators,2006-04-01,193.37632778554908,included_game_day
+2006,57,Florida Gators,2006-04-03,211.1096304067533,included_game_day
+2007,57,Florida Gators,2006-11-10,22.0,included_game_day
+2007,57,Florida Gators,2006-11-14,59.29,included_game_day
+2007,57,Florida Gators,2006-11-16,79.36099999999999,included_game_day
+2007,57,Florida Gators,2006-11-18,117.48489999999998,included_game_day
+2007,57,Florida Gators,2006-11-21,160.08641,included_game_day
+2007,57,Florida Gators,2006-11-24,181.470599,included_game_day
+2007,57,Florida Gators,2006-11-25,166.0462622,included_game_day
+2007,57,Florida Gators,2006-11-28,192.35953438,included_game_day
+2007,57,Florida Gators,2006-12-03,173.70427878200002,included_game_day
+2007,57,Florida Gators,2006-12-06,178.74750450820002,included_game_day
+2007,57,Florida Gators,2006-12-17,172.75180227738002,included_game_day
+2007,57,Florida Gators,2006-12-20,166.28908373303406,included_game_day
+2007,57,Florida Gators,2006-12-23,186.28848957274607,included_game_day
+2007,57,Florida Gators,2006-12-30,173.7676368890832,included_game_day
+2007,57,Florida Gators,2007-01-02,179.83020661571405,included_game_day
+2007,57,Florida Gators,2007-01-06,183.91124378143581,included_game_day
+2007,57,Florida Gators,2007-01-09,180.67947693840887,included_game_day
+2007,57,Florida Gators,2007-01-13,200.03174034954304,included_game_day
+2007,57,Florida Gators,2007-01-20,191.3023683009452,included_game_day
+2007,57,Florida Gators,2007-01-24,187.71400894168636,included_game_day
+2007,57,Florida Gators,2007-01-27,202.40356945975958,included_game_day
+2007,57,Florida Gators,2007-01-31,199.7338813892339,included_game_day
+2007,57,Florida Gators,2007-02-03,199.5069875889845,included_game_day
+2007,57,Florida Gators,2007-02-07,202.40684328609018,included_game_day
+2007,57,Florida Gators,2007-02-10,200.5787994668162,included_game_day
+2007,57,Florida Gators,2007-02-14,192.89383027597083,included_game_day
+2007,57,Florida Gators,2007-02-17,171.6468811817777,included_game_day
+2007,57,Florida Gators,2007-02-21,168.19054010960582,included_game_day
+2007,57,Florida Gators,2007-02-24,151.25867940501536,included_game_day
+2007,57,Florida Gators,2007-02-27,138.20430148058773,included_game_day
+2007,57,Florida Gators,2007-03-04,145.95512571603484,included_game_day
+2007,57,Florida Gators,2007-03-09,154.8465228231406,included_game_day
+2007,57,Florida Gators,2007-03-10,166.5253065030504,included_game_day
+2007,57,Florida Gators,2007-03-11,180.52043571276243,included_game_day
+2007,57,Florida Gators,2007-03-16,197.0271958648422,included_game_day
+2007,57,Florida Gators,2007-03-18,194.81308260689002,included_game_day
+2007,57,Florida Gators,2007-03-23,191.70348439222286,included_game_day
+2007,57,Florida Gators,2007-03-25,191.37840967219296,included_game_day
+2007,57,Florida Gators,2007-03-31,196.0159729809253,included_game_day
+2007,57,Florida Gators,2007-04-02,201.31130371297107,included_game_day
+2008,57,Florida Gators,2007-11-09,7.0,included_game_day
+2008,57,Florida Gators,2007-11-11,31.0,included_game_day
+2008,57,Florida Gators,2007-11-14,70.93,included_game_day
+2008,57,Florida Gators,2007-11-17,88.70700000000001,included_game_day
+2008,57,Florida Gators,2007-11-20,123.3563,included_game_day
+2008,57,Florida Gators,2007-11-23,99.4836058,included_game_day
+2008,57,Florida Gators,2007-11-27,105.06711542000001,included_game_day
+2008,57,Florida Gators,2007-11-30,119.41175367800001,included_game_day
+2008,57,Florida Gators,2007-12-03,118.65988527430001,included_game_day
+2008,57,Florida Gators,2007-12-05,133.12541163087002,included_game_day
+2008,57,Florida Gators,2007-12-15,124.58163037038301,included_game_day
+2008,57,Florida Gators,2007-12-19,130.7829825753052,included_game_day
+2008,57,Florida Gators,2007-12-22,114.60843721137624,included_game_day
+2008,57,Florida Gators,2007-12-29,122.80552255378564,included_game_day
+2008,57,Florida Gators,2008-01-02,124.14039059317005,included_game_day
+2008,57,Florida Gators,2008-01-08,126.6009921096537,included_game_day
+2008,57,Florida Gators,2008-01-12,128.8614317046087,included_game_day
+2008,57,Florida Gators,2008-01-16,127.70386483849263,included_game_day
+2008,57,Florida Gators,2008-01-23,123.84801160294917,included_game_day
+2008,57,Florida Gators,2008-01-27,136.59441246395102,included_game_day
+2008,57,Florida Gators,2008-02-02,117.92506003552214,included_game_day
+2008,57,Florida Gators,2008-02-05,101.85543282114784,included_game_day
+2008,57,Florida Gators,2008-02-09,100.55056600620047,included_game_day
+2008,57,Florida Gators,2008-02-13,76.17199748676215,included_game_day
+2008,57,Florida Gators,2008-02-16,78.08107475841553,included_game_day
+2008,57,Florida Gators,2008-02-20,73.70263486706779,included_game_day
+2008,57,Florida Gators,2008-02-27,86.1618489253287,included_game_day
+2008,57,Florida Gators,2008-03-01,76.1395550641974,included_game_day
+2008,57,Florida Gators,2008-03-05,78.00368834273432,included_game_day
+2008,57,Florida Gators,2008-03-09,75.80683413245195,included_game_day
+2008,57,Florida Gators,2008-03-13,62.808542419091005,included_game_day
+2008,57,Florida Gators,2008-03-19,85.49309079517766,included_game_day
+2008,57,Florida Gators,2008-03-21,110.37371981554881,included_game_day
+2008,57,Florida Gators,2008-03-25,122.0816268496488,included_game_day
+2008,57,Florida Gators,2008-04-01,109.00036359831012,included_game_day
+2009,57,Florida Gators,2008-11-14,19.0,included_game_day
+2009,57,Florida Gators,2008-11-16,37.4,included_game_day
+2009,57,Florida Gators,2008-11-20,44.66,included_game_day
+2009,57,Florida Gators,2008-11-24,36.132999999999996,included_game_day
+2009,57,Florida Gators,2008-11-25,38.7878,included_game_day
+2009,57,Florida Gators,2008-11-30,54.279045999999994,included_game_day
+2009,57,Florida Gators,2008-12-02,49.8414661,included_game_day
+2009,57,Florida Gators,2008-12-07,49.30671109,included_game_day
+2009,57,Florida Gators,2008-12-10,70.557665921,included_game_day
+2009,57,Florida Gators,2008-12-20,86.8004497179,included_game_day
+2009,57,Florida Gators,2008-12-22,75.48334023164439,included_game_day
+2009,57,Florida Gators,2008-12-28,89.64966306235216,included_game_day
+2009,57,Florida Gators,2008-12-30,95.14234860510948,included_game_day
+2009,57,Florida Gators,2009-01-03,91.45807390922074,included_game_day
+2009,57,Florida Gators,2009-01-06,98.50485024073186,included_game_day
+2009,57,Florida Gators,2009-01-10,97.2647319795992,included_game_day
+2009,57,Florida Gators,2009-01-14,100.28479972574947,included_game_day
+2009,57,Florida Gators,2009-01-17,108.15971619020878,included_game_day
+2009,57,Florida Gators,2009-01-21,107.93845988496544,included_game_day
+2009,57,Florida Gators,2009-01-25,132.56766645428198,included_game_day
+2009,57,Florida Gators,2009-01-28,142.48811217020457,included_game_day
+2009,57,Florida Gators,2009-01-31,123.0555282033117,included_game_day
+2009,57,Florida Gators,2009-02-03,121.52269873036468,included_game_day
+2009,57,Florida Gators,2009-02-10,120.22665575371047,included_game_day
+2009,57,Florida Gators,2009-02-14,106.24346438128119,included_game_day
+2009,57,Florida Gators,2009-02-18,104.0018881238591,included_game_day
+2009,57,Florida Gators,2009-02-21,111.53680145315684,included_game_day
+2009,57,Florida Gators,2009-02-24,109.37563499208804,included_game_day
+2009,57,Florida Gators,2009-03-01,100.07633724243667,included_game_day
+2009,57,Florida Gators,2009-03-04,89.07801880682338,included_game_day
+2009,57,Florida Gators,2009-03-07,91.73196530442553,included_game_day
+2009,57,Florida Gators,2009-03-12,98.52384329213517,included_game_day
+2009,57,Florida Gators,2009-03-13,98.07330058835299,included_game_day
+2009,57,Florida Gators,2009-03-18,110.66339499908882,included_game_day
+2009,57,Florida Gators,2009-03-20,119.549861830548,included_game_day
+2009,57,Florida Gators,2009-03-24,100.42493047467698,included_game_day
+2010,57,Florida Gators,2009-11-15,25.0,included_game_day
+2010,57,Florida Gators,2009-11-18,37.75,included_game_day
+2010,57,Florida Gators,2009-11-20,52.975,included_game_day
+2010,57,Florida Gators,2009-11-24,70.3315,included_game_day
+2010,57,Florida Gators,2009-11-27,72.327,included_game_day
+2010,57,Florida Gators,2009-11-28,80.02386,included_game_day
+2010,57,Florida Gators,2009-12-01,78.03041479999999,included_game_day
+2010,57,Florida Gators,2009-12-04,86.82820141299999,included_game_day
+2010,57,Florida Gators,2009-12-10,82.10425131839999,included_game_day
+2010,57,Florida Gators,2009-12-19,75.31759966051499,included_game_day
+2010,57,Florida Gators,2009-12-22,62.771058806156034,included_game_day
+2010,57,Florida Gators,2009-12-28,62.46903562600108,included_game_day
+2010,57,Florida Gators,2009-12-30,82.3717299209133,included_game_day
+2010,57,Florida Gators,2010-01-03,83.25476068096417,included_game_day
+2010,57,Florida Gators,2010-01-09,82.35391802515532,included_game_day
+2010,57,Florida Gators,2010-01-12,73.88328172675024,included_game_day
+2010,57,Florida Gators,2010-01-16,77.19219211262178,included_game_day
+2010,57,Florida Gators,2010-01-21,81.44839705585909,included_game_day
+2010,57,Florida Gators,2010-01-23,78.13005456607551,included_game_day
+2010,57,Florida Gators,2010-01-27,89.78978109278762,included_game_day
+2010,57,Florida Gators,2010-01-31,93.41848360745097,included_game_day
+2010,57,Florida Gators,2010-02-04,94.68102612910148,included_game_day
+2010,57,Florida Gators,2010-02-06,98.54020753877626,included_game_day
+2010,57,Florida Gators,2010-02-10,90.73752807641603,included_game_day
+2010,57,Florida Gators,2010-02-13,77.52458807854944,included_game_day
+2010,57,Florida Gators,2010-02-18,79.2009359209683,included_game_day
+2010,57,Florida Gators,2010-02-20,86.16514147348452,included_game_day
+2010,57,Florida Gators,2010-02-23,98.19772825500516,included_game_day
+2010,57,Florida Gators,2010-02-27,95.55273377273477,included_game_day
+2010,57,Florida Gators,2010-03-02,91.32695886755876,included_game_day
+2010,57,Florida Gators,2010-03-07,93.96989056409458,included_game_day
+2010,57,Florida Gators,2010-03-11,99.18558141141467,included_game_day
+2010,57,Florida Gators,2010-03-12,90.46417168977125,included_game_day
+2010,57,Florida Gators,2010-03-18,91.7428473961433,included_game_day
+2011,57,Florida Gators,2010-11-12,14.0,included_game_day
+2011,57,Florida Gators,2010-11-16,-4.600000000000001,included_game_day
+2011,57,Florida Gators,2010-11-18,37.44,included_game_day
+2011,57,Florida Gators,2010-11-21,38.133399999999995,included_game_day
+2011,57,Florida Gators,2010-11-23,43.54485999999999,included_game_day
+2011,57,Florida Gators,2010-11-28,55.32030999999999,included_game_day
+2011,57,Florida Gators,2010-12-01,55.04632099999999,included_game_day
+2011,57,Florida Gators,2010-12-05,69.4186079,included_game_day
+2011,57,Florida Gators,2010-12-09,75.17577295242,included_game_day
+2011,57,Florida Gators,2010-12-18,88.814536666292,included_game_day
+2011,57,Florida Gators,2010-12-20,75.499732119938,included_game_day
+2011,57,Florida Gators,2010-12-22,65.98742664537924,included_game_day
+2011,57,Florida Gators,2010-12-31,68.53872695903387,included_game_day
+2011,57,Florida Gators,2011-01-03,87.11007173640677,included_game_day
+2011,57,Florida Gators,2011-01-08,89.05141622362513,included_game_day
+2011,57,Florida Gators,2011-01-11,94.04721356552952,included_game_day
+2011,57,Florida Gators,2011-01-15,82.56571331453864,included_game_day
+2011,57,Florida Gators,2011-01-20,77.41647586659349,included_game_day
+2011,57,Florida Gators,2011-01-22,102.75318220138385,included_game_day
+2011,57,Florida Gators,2011-01-25,117.7084047919761,included_game_day
+2011,57,Florida Gators,2011-01-29,100.7214625880548,included_game_day
+2011,57,Florida Gators,2011-02-01,101.1052659298911,included_game_day
+2011,57,Florida Gators,2011-02-05,104.93214939241024,included_game_day
+2011,57,Florida Gators,2011-02-09,118.45077339912918,included_game_day
+2011,57,Florida Gators,2011-02-12,112.75928691202826,included_game_day
+2011,57,Florida Gators,2011-02-20,106.10971036583496,included_game_day
+2011,57,Florida Gators,2011-02-24,108.83458996850938,included_game_day
+2011,57,Florida Gators,2011-02-26,106.99559713577783,included_game_day
+2011,57,Florida Gators,2011-03-01,129.2673384197394,included_game_day
+2011,57,Florida Gators,2011-03-05,141.19150351232858,included_game_day
+2011,57,Florida Gators,2011-03-11,145.6310179647142,included_game_day
+2011,57,Florida Gators,2011-03-12,152.2821777364575,included_game_day
+2011,57,Florida Gators,2011-03-13,136.05941032095973,included_game_day
+2011,57,Florida Gators,2011-03-17,154.24265687656668,included_game_day
+2011,57,Florida Gators,2011-03-19,155.0404670009059,included_game_day
+2011,57,Florida Gators,2011-03-24,164.1075522891453,included_game_day
+2011,57,Florida Gators,2011-03-26,156.55853746601707,included_game_day
+2012,57,Florida Gators,2011-11-11,37.0,included_game_day
+2012,57,Florida Gators,2011-11-15,32.1,included_game_day
+2012,57,Florida Gators,2011-11-17,60.3,included_game_day
+2012,57,Florida Gators,2011-11-21,65.53399999999999,included_game_day
+2012,57,Florida Gators,2011-11-25,102.19599,included_game_day
+2012,57,Florida Gators,2011-11-28,118.065091,included_game_day
+2012,57,Florida Gators,2011-12-02,118.30668933999999,included_game_day
+2012,57,Florida Gators,2011-12-07,112.293008229,included_game_day
+2012,57,Florida Gators,2011-12-09,112.9069721854,included_game_day
+2012,57,Florida Gators,2011-12-17,127.12294994112,included_game_day
+2012,57,Florida Gators,2011-12-19,130.895927775644,included_game_day
+2012,57,Florida Gators,2011-12-22,140.67426824671008,included_game_day
+2012,57,Florida Gators,2011-12-29,131.09540565258237,included_game_day
+2012,57,Florida Gators,2011-12-31,137.2834434489836,included_game_day
+2012,57,Florida Gators,2012-01-03,139.26328207422355,included_game_day
+2012,57,Florida Gators,2012-01-07,119.06399697737832,included_game_day
+2012,57,Florida Gators,2012-01-10,126.14322166238904,included_game_day
+2012,57,Florida Gators,2012-01-14,132.95864896084223,included_game_day
+2012,57,Florida Gators,2012-01-21,134.69251176170096,included_game_day
+2012,57,Florida Gators,2012-01-26,131.00704719186473,included_game_day
+2012,57,Florida Gators,2012-01-28,134.75808117255508,included_game_day
+2012,57,Florida Gators,2012-02-02,127.73685503767379,included_game_day
+2012,57,Florida Gators,2012-02-04,130.28768208443864,included_game_day
+2012,57,Florida Gators,2012-02-07,120.97370378992508,included_game_day
+2012,57,Florida Gators,2012-02-11,105.34873373430594,included_game_day
+2012,57,Florida Gators,2012-02-14,115.12246817700617,included_game_day
+2012,57,Florida Gators,2012-02-18,139.12114062275785,included_game_day
+2012,57,Florida Gators,2012-02-21,138.71181650465908,included_game_day
+2012,57,Florida Gators,2012-02-25,115.99028773857881,included_game_day
+2012,57,Florida Gators,2012-02-28,110.10197458319585,included_game_day
+2012,57,Florida Gators,2012-03-04,102.28939264511943,included_game_day
+2012,57,Florida Gators,2012-03-09,102.72259170143141,included_game_day
+2012,57,Florida Gators,2012-03-10,110.42565266452014,included_game_day
+2012,57,Florida Gators,2012-03-16,134.0641323301615,included_game_day
+2012,57,Florida Gators,2012-03-18,155.35399243782797,included_game_day
+2012,57,Florida Gators,2012-03-22,163.87944115919723,included_game_day
+2012,57,Florida Gators,2012-03-24,159.08781988517686,included_game_day
+2013,57,Florida Gators,2012-11-11,41.9,included_game_day
+2013,57,Florida Gators,2012-11-14,56.41,included_game_day
+2013,57,Florida Gators,2012-11-18,73.059,included_game_day
+2013,57,Florida Gators,2012-11-20,81.0409,included_game_day
+2013,57,Florida Gators,2012-11-23,84.45689999999999,included_game_day
+2013,57,Florida Gators,2012-11-29,112.77828339999999,included_game_day
+2013,57,Florida Gators,2012-12-05,131.24911310529998,included_game_day
+2013,57,Florida Gators,2012-12-15,130.95797264612997,included_game_day
+2013,57,Florida Gators,2012-12-19,146.27384123082626,included_game_day
+2013,57,Florida Gators,2012-12-22,129.70183331168963,included_game_day
+2013,57,Florida Gators,2012-12-29,137.21052411318527,included_game_day
+2013,57,Florida Gators,2013-01-06,145.25731979045688,included_game_day
+2013,57,Florida Gators,2013-01-09,161.77153244887592,included_game_day
+2013,57,Florida Gators,2013-01-12,174.4341911964969,included_game_day
+2013,57,Florida Gators,2013-01-17,187.71141132868098,included_game_day
+2013,57,Florida Gators,2013-01-19,207.60913868539612,included_game_day
+2013,57,Florida Gators,2013-01-23,205.68734813772227,included_game_day
+2013,57,Florida Gators,2013-01-26,219.35525422982275,included_game_day
+2013,57,Florida Gators,2013-01-30,236.6879664410134,included_game_day
+2013,57,Florida Gators,2013-02-02,234.847761406683,included_game_day
+2013,57,Florida Gators,2013-02-05,210.7632546003802,included_game_day
+2013,57,Florida Gators,2013-02-09,206.96366248725107,included_game_day
+2013,57,Florida Gators,2013-02-12,213.2685575684398,included_game_day
+2013,57,Florida Gators,2013-02-16,227.7314193800716,included_game_day
+2013,57,Florida Gators,2013-02-19,217.91875912509008,included_game_day
+2013,57,Florida Gators,2013-02-23,217.96027432316583,included_game_day
+2013,57,Florida Gators,2013-02-26,201.9349167438767,included_game_day
+2013,57,Florida Gators,2013-03-02,196.22526850810598,included_game_day
+2013,57,Florida Gators,2013-03-06,205.82114823662434,included_game_day
+2013,57,Florida Gators,2013-03-09,192.00028088357234,included_game_day
+2013,57,Florida Gators,2013-03-15,199.64716972520932,included_game_day
+2013,57,Florida Gators,2013-03-16,197.15713344575383,included_game_day
+2013,57,Florida Gators,2013-03-17,185.31575262662443,included_game_day
+2013,57,Florida Gators,2013-03-22,202.62201537744352,included_game_day
+2013,57,Florida Gators,2013-03-24,206.03439064475623,included_game_day
+2013,57,Florida Gators,2013-03-29,206.214727134822,included_game_day
+2013,57,Florida Gators,2013-03-31,181.98684971326546,included_game_day
+2014,57,Florida Gators,2013-11-08,5.0,included_game_day
+2014,57,Florida Gators,2013-11-12,2.6,included_game_day
+2014,57,Florida Gators,2013-11-16,28.790000000000003,included_game_day
+2014,57,Florida Gators,2013-11-18,37.045500000000004,included_game_day
+2014,57,Florida Gators,2013-11-21,51.96954,included_game_day
+2014,57,Florida Gators,2013-11-25,73.415212,included_game_day
+2014,57,Florida Gators,2013-11-29,70.319154,included_game_day
+2014,57,Florida Gators,2013-12-02,71.9506292,included_game_day
+2014,57,Florida Gators,2013-12-10,74.36433048533999,included_game_day
+2014,57,Florida Gators,2013-12-17,77.69911929621199,included_game_day
+2014,57,Florida Gators,2013-12-21,86.3920764546477,included_game_day
+2014,57,Florida Gators,2013-12-29,109.21255350312953,included_game_day
+2014,57,Florida Gators,2014-01-04,108.93061516267561,included_game_day
+2014,57,Florida Gators,2014-01-08,114.98931186705444,included_game_day
+2014,57,Florida Gators,2014-01-11,120.74374874083753,included_game_day
+2014,57,Florida Gators,2014-01-14,130.1391442323959,included_game_day
+2014,57,Florida Gators,2014-01-18,130.66740847246774,included_game_day
+2014,57,Florida Gators,2014-01-23,129.10531866935673,included_game_day
+2014,57,Florida Gators,2014-01-25,149.93593919780028,included_game_day
+2014,57,Florida Gators,2014-01-30,148.98576920318936,included_game_day
+2014,57,Florida Gators,2014-02-01,163.7098107009479,included_game_day
+2014,57,Florida Gators,2014-02-04,162.17685627574423,included_game_day
+2014,57,Florida Gators,2014-02-08,152.50346478238941,included_game_day
+2014,57,Florida Gators,2014-02-11,160.2593239325692,included_game_day
+2014,57,Florida Gators,2014-02-15,171.38205301770242,included_game_day
+2014,57,Florida Gators,2014-02-19,160.49367090632998,included_game_day
+2014,57,Florida Gators,2014-02-22,156.24067099906395,included_game_day
+2014,57,Florida Gators,2014-02-25,151.60300507806707,included_game_day
+2014,57,Florida Gators,2014-03-01,159.01403396923087,included_game_day
+2014,57,Florida Gators,2014-03-04,173.29818651961816,included_game_day
+2014,57,Florida Gators,2014-03-08,181.9904848845384,included_game_day
+2014,57,Florida Gators,2014-03-14,191.62547746010796,included_game_day
+2014,57,Florida Gators,2014-03-15,196.1892634344524,included_game_day
+2014,57,Florida Gators,2014-03-16,189.3069253712207,included_game_day
+2014,57,Florida Gators,2014-03-20,186.41371685357802,included_game_day
+2014,57,Florida Gators,2014-03-22,197.47641186487965,included_game_day
+2014,57,Florida Gators,2014-03-27,206.6086206384393,included_game_day
+2014,57,Florida Gators,2014-03-29,205.25288052335017,included_game_day
+2014,57,Florida Gators,2014-04-05,190.61078850637037,included_game_day
+2015,57,Florida Gators,2014-11-14,20.0,included_game_day
+2015,57,Florida Gators,2014-11-17,16.2,included_game_day
+2015,57,Florida Gators,2014-11-21,17.78,included_game_day
+2015,57,Florida Gators,2014-11-26,18.215700000000002,included_game_day
+2015,57,Florida Gators,2014-11-27,22.437340000000003,included_game_day
+2015,57,Florida Gators,2014-11-28,17.305416,included_game_day
+2015,57,Florida Gators,2014-12-05,17.16097095,included_game_day
+2015,57,Florida Gators,2014-12-08,55.959078497,included_game_day
+2015,57,Florida Gators,2014-12-12,67.51741576730001,included_game_day
+2015,57,Florida Gators,2014-12-14,94.22149868087001,included_game_day
+2015,57,Florida Gators,2014-12-20,98.51189281355302,included_game_day
+2015,57,Florida Gators,2014-12-30,91.58595422253154,included_game_day
+2015,57,Florida Gators,2015-01-03,80.85131532812746,included_game_day
+2015,57,Florida Gators,2015-01-07,91.09817474337567,included_game_day
+2015,57,Florida Gators,2015-01-10,101.97413196620957,included_game_day
+2015,57,Florida Gators,2015-01-15,109.92203638977313,included_game_day
+2015,57,Florida Gators,2015-01-17,96.99064680259094,included_game_day
+2015,57,Florida Gators,2015-01-20,72.15951761127619,included_game_day
+2015,57,Florida Gators,2015-01-24,77.28975055109599,included_game_day
+2015,57,Florida Gators,2015-01-27,80.90679414633637,included_game_day
+2015,57,Florida Gators,2015-01-31,77.7341968962358,included_game_day
+2015,57,Florida Gators,2015-02-03,72.21257059851686,included_game_day
+2015,57,Florida Gators,2015-02-07,75.50459394231393,included_game_day
+2015,57,Florida Gators,2015-02-12,74.69358354244164,included_game_day
+2015,57,Florida Gators,2015-02-14,76.13640283574641,included_game_day
+2015,57,Florida Gators,2015-02-18,75.67590685575337,included_game_day
+2015,57,Florida Gators,2015-02-21,73.16845263873614,included_game_day
+2015,57,Florida Gators,2015-02-24,52.19971981382888,included_game_day
+2015,57,Florida Gators,2015-02-28,63.583517137549904,included_game_day
+2015,57,Florida Gators,2015-03-03,67.63745526216046,included_game_day
+2015,57,Florida Gators,2015-03-07,69.1822796163532,included_game_day
+2015,57,Florida Gators,2015-03-12,75.86914834616306,included_game_day
+2015,57,Florida Gators,2015-03-13,75.43632095653626,included_game_day
+2016,57,Florida Gators,2015-11-13,21.0,included_game_day
+2016,57,Florida Gators,2015-11-16,62.1,included_game_day
+2016,57,Florida Gators,2015-11-21,69.07600000000001,included_game_day
+2016,57,Florida Gators,2015-11-22,57.40690000000001,included_game_day
+2016,57,Florida Gators,2015-11-25,71.44459,included_game_day
+2016,57,Florida Gators,2015-11-27,80.471331,included_game_day
+2016,57,Florida Gators,2015-12-01,93.5974637,included_game_day
+2016,57,Florida Gators,2015-12-08,84.06244145100001,included_game_day
+2016,57,Florida Gators,2015-12-12,87.10765615351711,included_game_day
+2016,57,Florida Gators,2015-12-19,83.1738758908474,included_game_day
+2016,57,Florida Gators,2015-12-22,91.46556307605486,included_game_day
+2016,57,Florida Gators,2015-12-29,84.66953536691845,included_game_day
+2016,57,Florida Gators,2016-01-02,91.66899166853386,included_game_day
+2016,57,Florida Gators,2016-01-06,74.09504458969388,included_game_day
+2016,57,Florida Gators,2016-01-09,77.71296906776985,included_game_day
+2016,57,Florida Gators,2016-01-12,81.00645314422714,included_game_day
+2016,57,Florida Gators,2016-01-16,88.34510016627158,included_game_day
+2016,57,Florida Gators,2016-01-19,81.98306987260005,included_game_day
+2016,57,Florida Gators,2016-01-23,103.22481064759788,included_game_day
+2016,57,Florida Gators,2016-01-26,104.18433893194421,included_game_day
+2016,57,Florida Gators,2016-01-30,122.80350096929462,included_game_day
+2016,57,Florida Gators,2016-02-03,119.6422407719556,included_game_day
+2016,57,Florida Gators,2016-02-06,102.97063019901753,included_game_day
+2016,57,Florida Gators,2016-02-09,99.11249471184232,included_game_day
+2016,57,Florida Gators,2016-02-13,83.88920647469686,included_game_day
+2016,57,Florida Gators,2016-02-16,86.59469424537502,included_game_day
+2016,57,Florida Gators,2016-02-20,81.7795964100201,included_game_day
+2016,57,Florida Gators,2016-02-23,68.306463549644,included_game_day
+2016,57,Florida Gators,2016-02-27,62.598022501467696,included_game_day
+2016,57,Florida Gators,2016-03-01,60.270773844158484,included_game_day
+2016,57,Florida Gators,2016-03-05,65.34829286612171,included_game_day
+2016,57,Florida Gators,2016-03-10,70.36386414386611,included_game_day
+2016,57,Florida Gators,2016-03-11,69.80686902609524,included_game_day
+2016,57,Florida Gators,2016-03-15,92.12828572244092,included_game_day
+2016,57,Florida Gators,2016-03-20,100.57181900306773,included_game_day
+2016,57,Florida Gators,2016-03-23,97.2222552896685,included_game_day
+2017,57,Florida Gators,2016-11-11,21.0,included_game_day
+2017,57,Florida Gators,2016-11-13,40.9,included_game_day
+2017,57,Florida Gators,2016-11-17,44.51,included_game_day
+2017,57,Florida Gators,2016-11-21,57.7757,included_game_day
+2017,57,Florida Gators,2016-11-24,61.93113,included_game_day
+2017,57,Florida Gators,2016-11-25,58.391517,included_game_day
+2017,57,Florida Gators,2016-11-27,69.2954577,included_game_day
+2017,57,Florida Gators,2016-12-01,90.50752163,included_game_day
+2017,57,Florida Gators,2016-12-06,84.1079103448,included_game_day
+2017,57,Florida Gators,2016-12-11,88.363766678122,included_game_day
+2017,57,Florida Gators,2016-12-17,118.6762696835298,included_game_day
+2017,57,Florida Gators,2016-12-21,125.76225253661146,included_game_day
+2017,57,Florida Gators,2016-12-29,134.9652943839617,included_game_day
+2017,57,Florida Gators,2017-01-03,128.92561126606412,included_game_day
+2017,57,Florida Gators,2017-01-07,132.14932761200743,included_game_day
+2017,57,Florida Gators,2017-01-10,141.25008557932247,included_game_day
+2017,57,Florida Gators,2017-01-14,135.70005914927646,included_game_day
+2017,57,Florida Gators,2017-01-18,130.69690851730937,included_game_day
+2017,57,Florida Gators,2017-01-21,116.99461653037767,included_game_day
+2017,57,Florida Gators,2017-01-25,140.0741919888384,included_game_day
+2017,57,Florida Gators,2017-01-28,167.44451701056454,included_game_day
+2017,57,Florida Gators,2017-02-02,183.89453727342558,included_game_day
+2017,57,Florida Gators,2017-02-04,201.70306706522246,included_game_day
+2017,57,Florida Gators,2017-02-07,203.30193673305718,included_game_day
+2017,57,Florida Gators,2017-02-11,193.20998903894926,included_game_day
+2017,57,Florida Gators,2017-02-14,200.17054736888485,included_game_day
+2017,57,Florida Gators,2017-02-18,191.72293739562713,included_game_day
+2017,57,Florida Gators,2017-02-21,192.61041087636735,included_game_day
+2017,57,Florida Gators,2017-02-25,181.71673043131176,included_game_day
+2017,57,Florida Gators,2017-03-01,182.9238736520944,included_game_day
+2017,57,Florida Gators,2017-03-04,176.3995927739195,included_game_day
+2017,57,Florida Gators,2017-03-10,162.26087372414187,included_game_day
+2017,57,Florida Gators,2017-03-16,168.58528114976178,included_game_day
+2017,57,Florida Gators,2017-03-18,191.7636600784689,included_game_day
+2017,57,Florida Gators,2017-03-24,188.93713987116305,included_game_day
+2017,57,Florida Gators,2017-03-26,176.80308916164762,included_game_day
+2018,57,Florida Gators,2017-11-13,36.1,included_game_day
+2018,57,Florida Gators,2017-11-16,65.171,included_game_day
+2018,57,Florida Gators,2017-11-19,61.58390000000001,included_game_day
+2018,57,Florida Gators,2017-11-23,75.49835,included_game_day
+2018,57,Florida Gators,2017-11-24,82.874369,included_game_day
+2018,57,Florida Gators,2017-11-26,81.034373,included_game_day
+2018,57,Florida Gators,2017-12-04,61.618714770000004,included_game_day
+2018,57,Florida Gators,2017-12-06,50.11823536,included_game_day
+2018,57,Florida Gators,2017-12-09,63.010286666,included_game_day
+2018,57,Florida Gators,2017-12-16,63.368555946148,included_game_day
+2018,57,Florida Gators,2017-12-20,60.4313202763066,included_game_day
+2018,57,Florida Gators,2017-12-22,60.66438823361844,included_game_day
+2018,57,Florida Gators,2017-12-30,62.584398352901765,included_game_day
+2018,57,Florida Gators,2018-01-02,85.1242350295253,included_game_day
+2018,57,Florida Gators,2018-01-06,91.07839003909932,included_game_day
+2018,57,Florida Gators,2018-01-10,102.85219806184915,included_game_day
+2018,57,Florida Gators,2018-01-13,93.73243040900068,included_game_day
+2018,57,Florida Gators,2018-01-17,104.93050268034051,included_game_day
+2018,57,Florida Gators,2018-01-20,107.64635874295487,included_game_day
+2018,57,Florida Gators,2018-01-24,93.60509854205442,included_game_day
+2018,57,Florida Gators,2018-01-27,110.24051536497147,included_game_day
+2018,57,Florida Gators,2018-01-30,96.04425826350636,included_game_day
+2018,57,Florida Gators,2018-02-03,71.59431008515739,included_game_day
+2018,57,Florida Gators,2018-02-07,76.25009522848829,included_game_day
+2018,57,Florida Gators,2018-02-10,97.74172224840265,included_game_day
+2018,57,Florida Gators,2018-02-14,85.70712530826721,included_game_day
+2018,57,Florida Gators,2018-02-17,81.9328938626702,included_game_day
+2018,57,Florida Gators,2018-02-21,81.636718547469,included_game_day
+2018,57,Florida Gators,2018-02-24,91.63525170078644,included_game_day
+2018,57,Florida Gators,2018-02-27,115.69153922248108,included_game_day
+2018,57,Florida Gators,2018-03-03,127.31973295606238,included_game_day
+2018,57,Florida Gators,2018-03-09,116.09588174118683,included_game_day
+2018,57,Florida Gators,2018-03-15,127.81866426686224,included_game_day
+2018,57,Florida Gators,2018-03-17,124.97838644824783,included_game_day
+2019,57,Florida Gators,2018-11-06,-18.0,included_game_day
+2019,57,Florida Gators,2018-11-09,10.8,included_game_day
+2019,57,Florida Gators,2018-11-14,18.83,included_game_day
+2019,57,Florida Gators,2018-11-21,16.252,included_game_day
+2019,57,Florida Gators,2018-11-22,38.52446,included_game_day
+2019,57,Florida Gators,2018-11-23,33.227272,included_game_day
+2019,57,Florida Gators,2018-11-27,57.8642358,included_game_day
+2019,57,Florida Gators,2018-12-04,67.2603413504,included_game_day
+2019,57,Florida Gators,2018-12-08,65.89912037948,included_game_day
+2019,57,Florida Gators,2018-12-18,65.211580169853,included_game_day
+2019,57,Florida Gators,2018-12-22,77.37946885180236,included_game_day
+2019,57,Florida Gators,2018-12-29,109.17132604820951,included_game_day
+2019,57,Florida Gators,2019-01-05,92.54116537421888,included_game_day
+2019,57,Florida Gators,2019-01-09,99.20241444662392,included_game_day
+2019,57,Florida Gators,2019-01-12,92.46504139413707,included_game_day
+2019,57,Florida Gators,2019-01-15,91.67529577964359,included_game_day
+2019,57,Florida Gators,2019-01-19,97.61959610456634,included_game_day
+2019,57,Florida Gators,2019-01-22,92.67604819362164,included_game_day
+2019,57,Florida Gators,2019-01-26,92.65479744871915,included_game_day
+2019,57,Florida Gators,2019-01-30,91.75467479793711,included_game_day
+2019,57,Florida Gators,2019-02-02,85.5028329574628,included_game_day
+2019,57,Florida Gators,2019-02-05,80.58125754011888,included_game_day
+2019,57,Florida Gators,2019-02-09,80.48125899907323,included_game_day
+2019,57,Florida Gators,2019-02-13,76.73852068646005,included_game_day
+2019,57,Florida Gators,2019-02-16,97.21251449442886,included_game_day
+2019,57,Florida Gators,2019-02-20,108.59403759017279,included_game_day
+2019,57,Florida Gators,2019-02-23,100.40695762110695,included_game_day
+2019,57,Florida Gators,2019-02-27,108.91997132519147,included_game_day
+2019,57,Florida Gators,2019-03-02,90.74019472462669,included_game_day
+2019,57,Florida Gators,2019-03-06,89.93985646862764,included_game_day
+2019,57,Florida Gators,2019-03-09,90.95584629761842,included_game_day
+2019,57,Florida Gators,2019-03-14,105.77357484757779,included_game_day
+2019,57,Florida Gators,2019-03-15,110.66364614063274,included_game_day
+2019,57,Florida Gators,2019-03-16,109.85630010292294,included_game_day
+2019,57,Florida Gators,2019-03-21,121.13238902370374,included_game_day
+2019,57,Florida Gators,2019-03-23,112.19471209466037,included_game_day
+2020,57,Florida Gators,2019-11-05,12.0,included_game_day
+2020,57,Florida Gators,2019-11-10,-4.100000000000001,included_game_day
+2020,57,Florida Gators,2019-11-14,-0.40000000000000124,included_game_day
+2020,57,Florida Gators,2019-11-17,-0.32100000000000106,included_game_day
+2020,57,Florida Gators,2019-11-21,6.807099999999998,included_game_day
+2020,57,Florida Gators,2019-11-22,29.6804,included_game_day
+2020,57,Florida Gators,2019-11-24,36.503629,included_game_day
+2020,57,Florida Gators,2019-11-29,34.2131186,included_game_day
+2020,57,Florida Gators,2019-12-07,29.147019876900004,included_game_day
+2020,57,Florida Gators,2019-12-17,61.04521817774061,included_game_day
+2020,57,Florida Gators,2019-12-21,59.55878761382946,included_game_day
+2020,57,Florida Gators,2019-12-28,79.97197611512846,included_game_day
+2020,57,Florida Gators,2020-01-04,82.09056705586491,included_game_day
+2020,57,Florida Gators,2020-01-07,91.63298265956347,included_game_day
+2020,57,Florida Gators,2020-01-11,75.57862058788274,included_game_day
+2020,57,Florida Gators,2020-01-14,81.79368491961716,included_game_day
+2020,57,Florida Gators,2020-01-18,103.88984093497774,included_game_day
+2020,57,Florida Gators,2020-01-21,104.26686830052034,included_game_day
+2020,57,Florida Gators,2020-01-25,92.86370679477449,included_game_day
+2020,57,Florida Gators,2020-01-28,84.55847598123023,included_game_day
+2020,57,Florida Gators,2020-02-01,81.68290365980239,included_game_day
+2020,57,Florida Gators,2020-02-05,79.48268529838374,included_game_day
+2020,57,Florida Gators,2020-02-08,60.49673490630931,included_game_day
+2020,57,Florida Gators,2020-02-12,74.81890413434337,included_game_day
+2020,57,Florida Gators,2020-02-15,81.24903304961414,included_game_day
+2020,57,Florida Gators,2020-02-18,89.51757626632468,included_game_day
+2020,57,Florida Gators,2020-02-22,89.64893942863579,included_game_day
+2020,57,Florida Gators,2020-02-26,100.94225732964438,included_game_day
+2020,57,Florida Gators,2020-02-29,93.4703654735799,included_game_day
+2020,57,Florida Gators,2020-03-04,105.23537956302677,included_game_day
+2020,57,Florida Gators,2020-03-07,101.1601386905447,included_game_day
+2021,57,Florida Gators,2020-12-02,9.2107,included_game_day
+2021,57,Florida Gators,2020-12-03,27.67863,included_game_day
+2021,57,Florida Gators,2020-12-06,66.120167,included_game_day
+2021,57,Florida Gators,2020-12-12,52.6011403,included_game_day
+2021,57,Florida Gators,2020-12-30,70.68043285767,included_game_day
+2021,57,Florida Gators,2021-01-02,73.94082535549,included_game_day
+2021,57,Florida Gators,2021-01-05,61.41872422502867,included_game_day
+2021,57,Florida Gators,2021-01-09,34.57668434138484,included_game_day
+2021,57,Florida Gators,2021-01-12,42.089570288704714,included_game_day
+2021,57,Florida Gators,2021-01-16,42.106759298125866,included_game_day
+2021,57,Florida Gators,2021-01-19,73.00919646001631,included_game_day
+2021,57,Florida Gators,2021-01-23,78.21087129313774,included_game_day
+2021,57,Florida Gators,2021-01-27,71.95010290976673,included_game_day
+2021,57,Florida Gators,2021-01-30,79.63418267932869,included_game_day
+2021,57,Florida Gators,2021-02-03,63.445331091073164,included_game_day
+2021,57,Florida Gators,2021-02-16,59.65237052758207,included_game_day
+2021,57,Florida Gators,2021-02-20,58.742331502619614,included_game_day
+2021,57,Florida Gators,2021-02-23,76.92088904565509,included_game_day
+2021,57,Florida Gators,2021-02-27,82.36663909647672,included_game_day
+2021,57,Florida Gators,2021-03-03,73.16949696524615,included_game_day
+2021,57,Florida Gators,2021-03-07,64.71675350671075,included_game_day
+2021,57,Florida Gators,2021-03-11,67.92296655355285,included_game_day
+2021,57,Florida Gators,2021-03-12,56.840150482040315,included_game_day
+2021,57,Florida Gators,2021-03-19,62.66159280584813,included_game_day
+2021,57,Florida Gators,2021-03-21,57.227605350943385,included_game_day
+2022,57,Florida Gators,2021-11-09,10.0,included_game_day
+2022,57,Florida Gators,2021-11-14,25.2,included_game_day
+2022,57,Florida Gators,2021-11-18,56.4,included_game_day
+2022,57,Florida Gators,2021-11-22,70.0938,included_game_day
+2022,57,Florida Gators,2021-11-24,69.54933,included_game_day
+2022,57,Florida Gators,2021-11-28,99.981821,included_game_day
+2022,57,Florida Gators,2021-12-01,93.800369191,included_game_day
+2022,57,Florida Gators,2021-12-06,61.5763533819,included_game_day
+2022,57,Florida Gators,2021-12-08,72.0695702894117,included_game_day
+2022,57,Florida Gators,2021-12-12,64.10657723482053,included_game_day
+2022,57,Florida Gators,2021-12-18,66.80978333708799,included_game_day
+2022,57,Florida Gators,2021-12-22,80.91182425143033,included_game_day
+2022,57,Florida Gators,2022-01-05,65.64876362730237,included_game_day
+2022,57,Florida Gators,2022-01-08,65.10920102675813,included_game_day
+2022,57,Florida Gators,2022-01-12,64.92800601449518,included_game_day
+2022,57,Florida Gators,2022-01-15,71.95307580155207,included_game_day
+2022,57,Florida Gators,2022-01-19,77.15727420356123,included_game_day
+2022,57,Florida Gators,2022-01-22,90.1167904394104,included_game_day
+2022,57,Florida Gators,2022-01-24,67.08436994582709,included_game_day
+2022,57,Florida Gators,2022-01-26,69.08119965340956,included_game_day
+2022,57,Florida Gators,2022-01-29,74.40570940331158,included_game_day
+2022,57,Florida Gators,2022-02-02,70.59305971483782,included_game_day
+2022,57,Florida Gators,2022-02-05,69.33340600689021,included_game_day
+2022,57,Florida Gators,2022-02-09,65.60470124672834,included_game_day
+2022,57,Florida Gators,2022-02-12,58.370427465974345,included_game_day
+2022,57,Florida Gators,2022-02-15,57.4437069005632,included_game_day
+2022,57,Florida Gators,2022-02-19,64.72415257489895,included_game_day
+2022,57,Florida Gators,2022-02-22,61.34435962240945,included_game_day
+2022,57,Florida Gators,2022-02-26,64.63216902665927,included_game_day
+2022,57,Florida Gators,2022-03-01,70.22188118638057,included_game_day
+2022,57,Florida Gators,2022-03-05,67.4702808626016,included_game_day
+2022,57,Florida Gators,2022-03-10,64.64435040575172,included_game_day
+2022,57,Florida Gators,2022-03-16,65.25469240266717,included_game_day
+2022,57,Florida Gators,2022-03-20,48.597268344427974,included_game_day
+2023,57,Florida Gators,2022-11-07,33.0,included_game_day
+2023,57,Florida Gators,2022-11-11,36.7,included_game_day
+2023,57,Florida Gators,2022-11-14,27.150000000000002,included_game_day
+2023,57,Florida Gators,2022-11-18,33.419000000000004,included_game_day
+2023,57,Florida Gators,2022-11-24,26.867700000000006,included_game_day
+2023,57,Florida Gators,2022-11-25,36.863457000000004,included_game_day
+2023,57,Florida Gators,2022-11-27,11.245846800000006,included_game_day
+2023,57,Florida Gators,2022-11-30,38.67446212,included_game_day
+2023,57,Florida Gators,2022-12-04,71.214688608,included_game_day
+2023,57,Florida Gators,2022-12-07,54.5768526522,included_game_day
+2023,57,Florida Gators,2022-12-14,83.918522446018,included_game_day
+2023,57,Florida Gators,2022-12-20,72.0718405448979,included_game_day
+2023,57,Florida Gators,2022-12-28,73.24017775187534,included_game_day
+2023,57,Florida Gators,2023-01-04,64.22487618753225,included_game_day
+2023,57,Florida Gators,2023-01-07,67.46366032964136,included_game_day
+2023,57,Florida Gators,2023-01-10,78.51527653512439,included_game_day
+2023,57,Florida Gators,2023-01-14,84.1279660701636,included_game_day
+2023,57,Florida Gators,2023-01-18,87.95003640877894,included_game_day
+2023,57,Florida Gators,2023-01-21,88.12455027516984,included_game_day
+2023,57,Florida Gators,2023-01-25,89.83548240794775,included_game_day
+2023,57,Florida Gators,2023-01-28,81.41756768901297,included_game_day
+2023,57,Florida Gators,2023-02-01,102.56322410562218,included_game_day
+2023,57,Florida Gators,2023-02-04,99.43794615247589,included_game_day
+2023,57,Florida Gators,2023-02-08,82.15553655440112,included_game_day
+2023,57,Florida Gators,2023-02-11,64.9368481828278,included_game_day
+2023,57,Florida Gators,2023-02-15,69.28651743563786,included_game_day
+2023,57,Florida Gators,2023-02-18,55.77067108016814,included_game_day
+2023,57,Florida Gators,2023-02-22,48.072135679599405,included_game_day
+2023,57,Florida Gators,2023-02-25,34.16757340112917,included_game_day
+2023,57,Florida Gators,2023-02-28,37.79910844762431,included_game_day
+2023,57,Florida Gators,2023-03-04,40.62197782392842,included_game_day
+2023,57,Florida Gators,2023-03-09,43.283732154576384,included_game_day
+2023,57,Florida Gators,2023-03-15,25.278522772209417,included_game_day
+2024,57,Florida Gators,2023-11-06,17.0,included_game_day
+2024,57,Florida Gators,2023-11-10,15.0,included_game_day
+2024,57,Florida Gators,2023-11-14,25.07,included_game_day
+2024,57,Florida Gators,2023-11-17,44.7,included_game_day
+2024,57,Florida Gators,2023-11-22,66.0769,included_game_day
+2024,57,Florida Gators,2023-11-24,61.405593999999994,included_game_day
+2024,57,Florida Gators,2023-11-29,49.57117579999999,included_game_day
+2024,57,Florida Gators,2023-12-05,60.93316740499999,included_game_day
+2024,57,Florida Gators,2023-12-09,71.56077916592,included_game_day
+2024,57,Florida Gators,2023-12-14,68.33558966177999,included_game_day
+2024,57,Florida Gators,2023-12-19,70.60062234069146,included_game_day
+2024,57,Florida Gators,2023-12-22,90.60076010965403,included_game_day
+2024,57,Florida Gators,2023-12-30,103.9729989777696,included_game_day
+2024,57,Florida Gators,2024-01-06,100.21002172341764,included_game_day
+2024,57,Florida Gators,2024-01-10,80.89953752093365,included_game_day
+2024,57,Florida Gators,2024-01-13,93.49405569247388,included_game_day
+2024,57,Florida Gators,2024-01-16,81.35662800409867,included_game_day
+2024,57,Florida Gators,2024-01-20,90.88259439082066,included_game_day
+2024,57,Florida Gators,2024-01-24,96.06676881000419,included_game_day
+2024,57,Florida Gators,2024-01-27,93.69364589115585,included_game_day
+2024,57,Florida Gators,2024-01-31,100.18948862750871,included_game_day
+2024,57,Florida Gators,2024-02-03,98.22694735211765,included_game_day
+2024,57,Florida Gators,2024-02-10,120.18155678393049,included_game_day
+2024,57,Florida Gators,2024-02-13,111.84215072159715,included_game_day
+2024,57,Florida Gators,2024-02-17,113.50586005584356,included_game_day
+2024,57,Florida Gators,2024-02-21,119.03974868271382,included_game_day
+2024,57,Florida Gators,2024-02-24,112.70190905292328,included_game_day
+2024,57,Florida Gators,2024-02-28,105.28460115673913,included_game_day
+2024,57,Florida Gators,2024-03-02,100.08081680670236,included_game_day
+2024,57,Florida Gators,2024-03-05,120.79342912089649,included_game_day
+2024,57,Florida Gators,2024-03-09,107.54421743342822,included_game_day
+2024,57,Florida Gators,2024-03-14,104.5511214032407,included_game_day
+2024,57,Florida Gators,2024-03-15,120.72268159653882,included_game_day
+2024,57,Florida Gators,2024-03-16,124.07270574641966,included_game_day
+2024,57,Florida Gators,2024-03-17,113.53162407725489,included_game_day
+2024,57,Florida Gators,2024-03-22,111.58898369539251,included_game_day
+2025,57,Florida Gators,2024-11-04,15.0,included_game_day
+2025,57,Florida Gators,2024-11-07,31.5,included_game_day
+2025,57,Florida Gators,2024-11-11,49.72,included_game_day
+2025,57,Florida Gators,2024-11-15,63.321,included_game_day
+2025,57,Florida Gators,2024-11-19,70.1979,included_game_day
+2025,57,Florida Gators,2024-11-22,86.33896,included_game_day
+2025,57,Florida Gators,2024-11-28,97.119192,included_game_day
+2025,57,Florida Gators,2024-11-29,128.3936453,included_game_day
+2025,57,Florida Gators,2024-12-04,131.880490455,included_game_day
+2025,57,Florida Gators,2024-12-14,142.5066462449,included_game_day
+2025,57,Florida Gators,2024-12-17,140.1649649773677,included_game_day
+2025,57,Florida Gators,2024-12-21,175.579880602979,included_game_day
+2025,57,Florida Gators,2024-12-29,184.9224714903157,included_game_day
+2025,57,Florida Gators,2025-01-04,174.78439309219073,included_game_day
+2025,57,Florida Gators,2025-01-07,203.09266118380538,included_game_day
+2025,57,Florida Gators,2025-01-11,203.47870719112035,included_game_day
+2025,57,Florida Gators,2025-01-14,192.0424197451004,included_game_day
+2025,57,Florida Gators,2025-01-18,206.04812625602605,included_game_day
+2025,57,Florida Gators,2025-01-22,192.93794830974815,included_game_day
+2025,57,Florida Gators,2025-01-25,212.47137606835656,included_game_day
+2025,57,Florida Gators,2025-02-01,190.8597394389686,included_game_day
+2025,57,Florida Gators,2025-02-04,188.47331872258482,included_game_day
+2025,57,Florida Gators,2025-02-08,204.18552826043114,included_game_day
+2025,57,Florida Gators,2025-02-11,209.77915514310277,included_game_day
+2025,57,Florida Gators,2025-02-15,210.36267368494944,included_game_day
+2025,57,Florida Gators,2025-02-18,215.0682033390533,included_game_day
+2025,57,Florida Gators,2025-02-22,216.72677504267665,included_game_day
+2025,57,Florida Gators,2025-02-25,201.6394371865979,included_game_day
+2025,57,Florida Gators,2025-03-01,209.23489914950943,included_game_day
+2025,57,Florida Gators,2025-03-05,217.1626185282497,included_game_day
+2025,57,Florida Gators,2025-03-08,221.26026434871608,included_game_day
+2025,57,Florida Gators,2025-03-14,229.2182230793212,included_game_day
+2025,57,Florida Gators,2025-03-15,251.4334223120706,included_game_day
+2025,57,Florida Gators,2025-03-16,253.45406418993892,included_game_day
+2025,57,Florida Gators,2025-03-21,253.95661401233286,included_game_day
+2025,57,Florida Gators,2025-03-23,244.26453725191573,included_game_day
+2025,57,Florida Gators,2025-03-27,255.719089397478,included_game_day
+2025,57,Florida Gators,2025-03-29,253.02116931335019,included_game_day
+2025,57,Florida Gators,2025-04-05,254.85653752457807,included_game_day
+2025,57,Florida Gators,2025-04-07,256.36342957088794,included_game_day
+2026,57,Florida Gators,2025-11-03,-6.0,included_game_day
+2026,57,Florida Gators,2025-11-06,31.6,included_game_day
+2026,57,Florida Gators,2025-11-11,33.45,included_game_day
+2026,57,Florida Gators,2025-11-16,52.071,included_game_day
+2026,57,Florida Gators,2025-11-21,75.837913,included_game_day
+2026,57,Florida Gators,2025-11-27,69.7633217,included_game_day
+2026,57,Florida Gators,2025-11-28,77.93906559000001,included_game_day
+2026,57,Florida Gators,2025-12-02,90.66948850500002,included_game_day
+2026,57,Florida Gators,2025-12-09,89.49984728498002,included_game_day
+2026,57,Florida Gators,2025-12-13,96.48843010759302,included_game_day
+2026,57,Florida Gators,2025-12-17,109.76549482276812,included_game_day
+2026,57,Florida Gators,2025-12-21,126.31324658908531,included_game_day
+2026,57,Florida Gators,2025-12-29,130.81825168459005,included_game_day
+2026,57,Florida Gators,2026-01-03,122.9823277579997,included_game_day
+2026,57,Florida Gators,2026-01-06,138.50123437222507,included_game_day
+2026,57,Florida Gators,2026-01-10,159.77466626115464,included_game_day
+2026,57,Florida Gators,2026-01-13,171.79533419170457,included_game_day
+2026,57,Florida Gators,2026-01-17,177.5843301504909,included_game_day
+2026,57,Florida Gators,2026-01-20,184.40019136101972,included_game_day
+2026,57,Florida Gators,2026-01-24,164.26509089846377,included_game_day
+2026,57,Florida Gators,2026-01-28,203.03678431312449,included_game_day
+2026,57,Florida Gators,2026-02-01,217.00919551942107,included_game_day
+2026,57,Florida Gators,2026-02-07,233.84059541547856,included_game_day
+2026,57,Florida Gators,2026-02-11,244.89639515076803,included_game_day
+2026,57,Florida Gators,2026-02-14,239.2324200982877,included_game_day
+2026,57,Florida Gators,2026-02-17,226.583991896054,included_game_day
+2026,57,Florida Gators,2026-02-21,229.54923935686097,included_game_day
+2026,57,Florida Gators,2026-02-25,234.76197781947525,included_game_day
+2026,57,Florida Gators,2026-02-28,259.6651274775,included_game_day
+2026,57,Florida Gators,2026-03-03,265.455133048903,included_game_day
+2026,57,Florida Gators,2026-03-07,261.24477354915615,included_game_day
+2026,57,Florida Gators,2026-03-13,255.76282187958958,included_game_day
+2026,57,Florida Gators,2026-03-14,228.1254410961561,included_game_day
+2026,57,Florida Gators,2026-03-20,260.7434389449371,included_game_day
+2026,57,Florida Gators,2026-03-22,245.50814223583833,included_game_day
+2027,57,Florida Gators,2026-11-02,10.0,included_game_day
+2027,57,Florida Gators,2026-11-05,37.0,included_game_day
+2027,57,Florida Gators,2026-11-10,51.120000000000005,included_game_day
+2027,57,Florida Gators,2026-11-13,71.349,included_game_day
+2027,57,Florida Gators,2026-11-17,79.27124,included_game_day
+2027,57,Florida Gators,2026-11-18,71.158206,included_game_day
+2027,57,Florida Gators,2026-11-19,84.3100275,included_game_day

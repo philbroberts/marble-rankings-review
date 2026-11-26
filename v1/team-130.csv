@@ -1,0 +1,1294 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,130,Michigan,1987-11-27,33.0,included_game_day
+1988,130,Michigan,1987-11-28,20.2,included_game_day
+1988,130,Michigan,1987-11-29,19.0,included_game_day
+1988,130,Michigan,1987-12-02,35.1,included_game_day
+1988,130,Michigan,1987-12-05,57.2819,included_game_day
+1988,130,Michigan,1987-12-07,94.87370999999999,included_game_day
+1988,130,Michigan,1987-12-10,101.12950799999999,included_game_day
+1988,130,Michigan,1987-12-12,141.6218395,included_game_day
+1988,130,Michigan,1987-12-21,136.1144991411,included_game_day
+1988,130,Michigan,1987-12-28,136.79637365159,included_game_day
+1988,130,Michigan,1987-12-29,157.34627482043598,included_game_day
+1988,130,Michigan,1988-01-06,167.36675778473844,included_game_day
+1988,130,Michigan,1988-01-09,184.62679720694646,included_game_day
+1988,130,Michigan,1988-01-14,187.50009184316085,included_game_day
+1988,130,Michigan,1988-01-18,173.61643132482456,included_game_day
+1988,130,Michigan,1988-01-21,164.62761706979785,included_game_day
+1988,130,Michigan,1988-01-24,169.29685027178058,included_game_day
+1988,130,Michigan,1988-01-28,175.11537290596803,included_game_day
+1988,130,Michigan,1988-01-31,160.2978511379817,included_game_day
+1988,130,Michigan,1988-02-03,174.9452708371299,included_game_day
+1988,130,Michigan,1988-02-07,164.06236255524132,included_game_day
+1988,130,Michigan,1988-02-11,164.17607376830293,included_game_day
+1988,130,Michigan,1988-02-13,175.89375297185347,included_game_day
+1988,130,Michigan,1988-02-17,164.2578695742247,included_game_day
+1988,130,Michigan,1988-02-22,153.28367555435332,included_game_day
+1988,130,Michigan,1988-02-27,148.95676535218126,included_game_day
+1988,130,Michigan,1988-03-02,164.1335762663595,included_game_day
+1988,130,Michigan,1988-03-05,155.65744582221106,included_game_day
+1988,130,Michigan,1988-03-09,149.58216241833867,included_game_day
+1988,130,Michigan,1988-03-12,156.01790098949485,included_game_day
+1988,130,Michigan,1988-03-17,157.3513939486992,included_game_day
+1988,130,Michigan,1988-03-19,171.54814768192924,included_game_day
+1988,130,Michigan,1988-03-25,163.57210226499708,included_game_day
+1989,130,Michigan,1988-11-25,30.0,included_game_day
+1989,130,Michigan,1988-11-26,31.0,included_game_day
+1989,130,Michigan,1988-11-27,39.55,included_game_day
+1989,130,Michigan,1988-12-02,70.08985,included_game_day
+1989,130,Michigan,1988-12-07,108.69736499999999,included_game_day
+1989,130,Michigan,1988-12-10,146.6434435,included_game_day
+1989,130,Michigan,1988-12-12,153.38766237,included_game_day
+1989,130,Michigan,1988-12-21,177.31496048593803,included_game_day
+1989,130,Michigan,1988-12-29,199.36681250283658,included_game_day
+1989,130,Michigan,1989-01-07,205.62417802504513,included_game_day
+1989,130,Michigan,1989-01-12,204.35845481116843,included_game_day
+1989,130,Michigan,1989-01-14,190.93442481187967,included_game_day
+1989,130,Michigan,1989-01-16,208.25429588040856,included_game_day
+1989,130,Michigan,1989-01-21,193.09403268819855,included_game_day
+1989,130,Michigan,1989-01-23,182.42812679823902,included_game_day
+1989,130,Michigan,1989-01-29,184.30434869902223,included_game_day
+1989,130,Michigan,1989-02-04,186.68449103135225,included_game_day
+1989,130,Michigan,1989-02-09,184.17953389128812,included_game_day
+1989,130,Michigan,1989-02-11,169.66637908534125,included_game_day
+1989,130,Michigan,1989-02-16,171.45961848104096,included_game_day
+1989,130,Michigan,1989-02-19,169.88409072394435,included_game_day
+1989,130,Michigan,1989-02-23,185.38383273031948,included_game_day
+1989,130,Michigan,1989-02-25,197.1886631728368,included_game_day
+1989,130,Michigan,1989-02-27,212.4288098216135,included_game_day
+1989,130,Michigan,1989-03-05,224.97443825579091,included_game_day
+1989,130,Michigan,1989-03-09,214.17128004862747,included_game_day
+1989,130,Michigan,1989-03-11,192.4888822951041,included_game_day
+1989,130,Michigan,1989-03-17,185.3774308473469,included_game_day
+1989,130,Michigan,1989-03-19,191.19705689696286,included_game_day
+1989,130,Michigan,1989-03-23,196.0283989389372,included_game_day
+1989,130,Michigan,1989-03-25,228.40005037853237,included_game_day
+1989,130,Michigan,1989-04-01,228.02369807816393,included_game_day
+1989,130,Michigan,1989-04-03,226.88877260521355,included_game_day
+1990,130,Michigan,1989-11-25,-7.0,included_game_day
+1990,130,Michigan,1989-11-27,5.699999999999999,included_game_day
+1990,130,Michigan,1989-11-29,12.85,included_game_day
+1990,130,Michigan,1989-12-02,35.245,included_game_day
+1990,130,Michigan,1989-12-06,74.87889999999999,included_game_day
+1990,130,Michigan,1989-12-09,80.798408,included_game_day
+1990,130,Michigan,1989-12-11,91.73653719999999,included_game_day
+1990,130,Michigan,1989-12-16,95.80563167999999,included_game_day
+1990,130,Michigan,1989-12-23,94.39656730349999,included_game_day
+1990,130,Michigan,1989-12-30,105.2782063637706,included_game_day
+1990,130,Michigan,1990-01-08,108.73189905125422,included_game_day
+1990,130,Michigan,1990-01-13,114.08277083374185,included_game_day
+1990,130,Michigan,1990-01-15,120.80229442185964,included_game_day
+1990,130,Michigan,1990-01-18,113.46997599206775,included_game_day
+1990,130,Michigan,1990-01-20,106.65310590364052,included_game_day
+1990,130,Michigan,1990-01-25,107.6933299421655,included_game_day
+1990,130,Michigan,1990-01-27,107.30269807653244,included_game_day
+1990,130,Michigan,1990-01-31,88.63800080910951,included_game_day
+1990,130,Michigan,1990-02-03,99.41244467829397,included_game_day
+1990,130,Michigan,1990-02-08,104.49231664149062,included_game_day
+1990,130,Michigan,1990-02-11,117.94351606852403,included_game_day
+1990,130,Michigan,1990-02-15,125.35089552678883,included_game_day
+1990,130,Michigan,1990-02-18,121.85713529762427,included_game_day
+1990,130,Michigan,1990-02-24,129.92116298278026,included_game_day
+1990,130,Michigan,1990-03-01,125.21516631571845,included_game_day
+1990,130,Michigan,1990-03-04,125.34131476227718,included_game_day
+1990,130,Michigan,1990-03-08,146.33234072828404,included_game_day
+1990,130,Michigan,1990-03-11,156.46692565910058,included_game_day
+1990,130,Michigan,1990-03-16,150.18270671860333,included_game_day
+1990,130,Michigan,1990-03-18,117.35529900691577,included_game_day
+1991,130,Michigan,1990-11-28,6.0,included_game_day
+1991,130,Michigan,1990-12-01,18.9,included_game_day
+1991,130,Michigan,1990-12-04,16.009999999999998,included_game_day
+1991,130,Michigan,1990-12-08,17.057399699999998,included_game_day
+1991,130,Michigan,1990-12-10,33.15132041,included_game_day
+1991,130,Michigan,1990-12-12,40.002668189,included_game_day
+1991,130,Michigan,1990-12-15,24.8795902721,included_game_day
+1991,130,Michigan,1990-12-22,30.32373201595,included_game_day
+1991,130,Michigan,1990-12-28,32.1272559489062,included_game_day
+1991,130,Michigan,1990-12-29,42.482990167571394,included_game_day
+1991,130,Michigan,1991-01-03,31.765556907021853,included_game_day
+1991,130,Michigan,1991-01-05,32.43079012353677,included_game_day
+1991,130,Michigan,1991-01-10,38.08516973033026,included_game_day
+1991,130,Michigan,1991-01-12,26.491795205988268,included_game_day
+1991,130,Michigan,1991-01-17,25.70998294367231,included_game_day
+1991,130,Michigan,1991-01-19,30.477471688687853,included_game_day
+1991,130,Michigan,1991-01-24,32.90147652110222,included_game_day
+1991,130,Michigan,1991-01-26,23.500573472942854,included_game_day
+1991,130,Michigan,1991-01-31,33.67869698704851,included_game_day
+1991,130,Michigan,1991-02-09,47.43289537534874,included_game_day
+1991,130,Michigan,1991-02-11,47.99251695754728,included_game_day
+1991,130,Michigan,1991-02-16,44.659940984725665,included_game_day
+1991,130,Michigan,1991-02-18,36.13315956537489,included_game_day
+1991,130,Michigan,1991-02-21,39.45660396909323,included_game_day
+1991,130,Michigan,1991-02-24,23.867024870276182,included_game_day
+1991,130,Michigan,1991-02-28,28.804088703177992,included_game_day
+1991,130,Michigan,1991-03-03,34.68760081238799,included_game_day
+1991,130,Michigan,1991-03-09,29.432018121690163,included_game_day
+1991,130,Michigan,1991-03-13,29.779021466908652,included_game_day
+1992,130,Michigan,1991-12-02,29.887999999999998,included_game_day
+1992,130,Michigan,1991-12-07,47.423649999999995,included_game_day
+1992,130,Michigan,1991-12-09,82.21380644999999,included_game_day
+1992,130,Michigan,1991-12-12,83.451216025,included_game_day
+1992,130,Michigan,1991-12-14,79.8718484225,included_game_day
+1992,130,Michigan,1991-12-16,84.77580097204999,included_game_day
+1992,130,Michigan,1991-12-21,98.704343335158,included_game_day
+1992,130,Michigan,1991-12-28,99.9222937470522,included_game_day
+1992,130,Michigan,1991-12-30,105.45675183285397,included_game_day
+1992,130,Michigan,1992-01-09,115.2331384396674,included_game_day
+1992,130,Michigan,1992-01-11,103.91606255666086,included_game_day
+1992,130,Michigan,1992-01-15,90.37292893686842,included_game_day
+1992,130,Michigan,1992-01-18,94.42110727701139,included_game_day
+1992,130,Michigan,1992-01-21,97.2358915150854,included_game_day
+1992,130,Michigan,1992-01-25,104.93270990585631,included_game_day
+1992,130,Michigan,1992-01-29,116.00757220207805,included_game_day
+1992,130,Michigan,1992-02-02,104.46442632852826,included_game_day
+1992,130,Michigan,1992-02-05,111.4078182648451,included_game_day
+1992,130,Michigan,1992-02-09,113.81607065747453,included_game_day
+1992,130,Michigan,1992-02-12,117.51204715810928,included_game_day
+1992,130,Michigan,1992-02-15,103.32140150400289,included_game_day
+1992,130,Michigan,1992-02-19,122.64039342999621,included_game_day
+1992,130,Michigan,1992-02-22,122.05864537272414,included_game_day
+1992,130,Michigan,1992-02-26,100.13986998492317,included_game_day
+1992,130,Michigan,1992-03-03,97.27320985360593,included_game_day
+1992,130,Michigan,1992-03-08,114.484465393661,included_game_day
+1992,130,Michigan,1992-03-11,122.48240277090633,included_game_day
+1992,130,Michigan,1992-03-14,125.55644743136568,included_game_day
+1992,130,Michigan,1992-03-20,128.43662458454392,included_game_day
+1992,130,Michigan,1992-03-22,138.108906663114,included_game_day
+1992,130,Michigan,1992-03-27,144.40723802167506,included_game_day
+1992,130,Michigan,1992-03-29,153.54844015793333,included_game_day
+1992,130,Michigan,1992-04-04,165.71887923880493,included_game_day
+1992,130,Michigan,1992-04-06,149.86278434789514,included_game_day
+1993,130,Michigan,1992-12-01,7.0,included_game_day
+1993,130,Michigan,1992-12-05,2.8,included_game_day
+1993,130,Michigan,1992-12-07,16.32,included_game_day
+1993,130,Michigan,1992-12-09,22.688000000000002,included_game_day
+1993,130,Michigan,1992-12-14,50.6074,included_game_day
+1993,130,Michigan,1992-12-19,75.7203494,included_game_day
+1993,130,Michigan,1992-12-21,86.30002746000001,included_game_day
+1993,130,Michigan,1992-12-27,100.6113633166,included_game_day
+1993,130,Michigan,1992-12-28,108.30790287592201,included_game_day
+1993,130,Michigan,1992-12-29,121.31390564327921,included_game_day
+1993,130,Michigan,1993-01-02,133.1992944545513,included_game_day
+1993,130,Michigan,1993-01-07,140.8065109366017,included_game_day
+1993,130,Michigan,1993-01-09,164.24765956749843,included_game_day
+1993,130,Michigan,1993-01-12,162.61424809463978,included_game_day
+1993,130,Michigan,1993-01-16,157.47010060780295,included_game_day
+1993,130,Michigan,1993-01-20,160.9367946505359,included_game_day
+1993,130,Michigan,1993-01-23,156.41750349672475,included_game_day
+1993,130,Michigan,1993-01-26,152.07071191086993,included_game_day
+1993,130,Michigan,1993-01-31,147.06197658786482,included_game_day
+1993,130,Michigan,1993-02-02,147.9552129785372,included_game_day
+1993,130,Michigan,1993-02-07,145.39456538971893,included_game_day
+1993,130,Michigan,1993-02-10,154.17443511644237,included_game_day
+1993,130,Michigan,1993-02-14,158.42277751889262,included_game_day
+1993,130,Michigan,1993-02-17,146.64279971469304,included_game_day
+1993,130,Michigan,1993-02-20,154.9095496846763,included_game_day
+1993,130,Michigan,1993-02-28,149.71880102578046,included_game_day
+1993,130,Michigan,1993-03-02,153.99886004106258,included_game_day
+1993,130,Michigan,1993-03-07,151.45311981402895,included_game_day
+1993,130,Michigan,1993-03-10,147.93358862650135,included_game_day
+1993,130,Michigan,1993-03-13,155.73599791710734,included_game_day
+1993,130,Michigan,1993-03-19,176.96774008230707,included_game_day
+1993,130,Michigan,1993-03-21,168.57678488319064,included_game_day
+1993,130,Michigan,1993-03-26,170.0553945347008,included_game_day
+1993,130,Michigan,1993-03-28,172.1468027706652,included_game_day
+1993,130,Michigan,1993-04-03,186.05814271665275,included_game_day
+1993,130,Michigan,1993-04-05,187.33490150659736,included_game_day
+1994,130,Michigan,1993-11-26,10.0,included_game_day
+1994,130,Michigan,1993-11-29,18.5,included_game_day
+1994,130,Michigan,1993-12-02,30.05,included_game_day
+1994,130,Michigan,1993-12-04,36.345,included_game_day
+1994,130,Michigan,1993-12-06,46.66601,included_game_day
+1994,130,Michigan,1993-12-11,35.847984,included_game_day
+1994,130,Michigan,1993-12-20,68.9226064917,included_game_day
+1994,130,Michigan,1993-12-28,87.27039136676,included_game_day
+1994,130,Michigan,1993-12-29,69.2796460353418,included_game_day
+1994,130,Michigan,1994-01-03,86.03652650702972,included_game_day
+1994,130,Michigan,1994-01-05,91.06237325015888,included_game_day
+1994,130,Michigan,1994-01-08,93.2299943276118,included_game_day
+1994,130,Michigan,1994-01-13,90.58578965743665,included_game_day
+1994,130,Michigan,1994-01-16,84.98699351704138,included_game_day
+1994,130,Michigan,1994-01-20,79.5705321036932,included_game_day
+1994,130,Michigan,1994-01-23,91.31706705909734,included_game_day
+1994,130,Michigan,1994-01-29,93.11514256291795,included_game_day
+1994,130,Michigan,1994-02-01,103.13660088400698,included_game_day
+1994,130,Michigan,1994-02-05,110.90065183019028,included_game_day
+1994,130,Michigan,1994-02-08,131.85110678893994,included_game_day
+1994,130,Michigan,1994-02-13,130.65144148750133,included_game_day
+1994,130,Michigan,1994-02-16,135.19985372984624,included_game_day
+1994,130,Michigan,1994-02-19,142.61849970121432,included_game_day
+1994,130,Michigan,1994-02-22,144.07306303061353,included_game_day
+1994,130,Michigan,1994-03-02,125.87718520948928,included_game_day
+1994,130,Michigan,1994-03-06,124.41195321129068,included_game_day
+1994,130,Michigan,1994-03-09,120.175391103561,included_game_day
+1994,130,Michigan,1994-03-12,113.67494769355453,included_game_day
+1994,130,Michigan,1994-03-17,114.90863044559897,included_game_day
+1994,130,Michigan,1994-03-19,123.68381190423534,included_game_day
+1994,130,Michigan,1994-03-25,128.5791593581974,included_game_day
+1994,130,Michigan,1994-03-27,124.52387269929366,included_game_day
+1995,130,Michigan,1994-11-21,2.0,included_game_day
+1995,130,Michigan,1994-11-22,-12.2,included_game_day
+1995,130,Michigan,1994-11-23,-7.7299999999999995,included_game_day
+1995,130,Michigan,1994-11-30,-30.073,included_game_day
+1995,130,Michigan,1994-12-03,-12.3657,included_game_day
+1995,130,Michigan,1994-12-05,-3.39813,included_game_day
+1995,130,Michigan,1994-12-10,-2.1669696,included_game_day
+1995,130,Michigan,1994-12-13,-3.0357362399999994,included_game_day
+1995,130,Michigan,1994-12-22,-7.150690459299999,included_game_day
+1995,130,Michigan,1994-12-29,1.895497891384001,included_game_day
+1995,130,Michigan,1994-12-30,2.3321533778806005,included_game_day
+1995,130,Michigan,1995-01-03,14.275304315115992,included_game_day
+1995,130,Michigan,1995-01-08,15.30731264916235,included_game_day
+1995,130,Michigan,1995-01-11,24.38965134485013,included_game_day
+1995,130,Michigan,1995-01-14,37.062080134314236,included_game_day
+1995,130,Michigan,1995-01-17,55.43119030363481,included_game_day
+1995,130,Michigan,1995-01-22,55.67183163820897,included_game_day
+1995,130,Michigan,1995-01-24,75.28429057925769,included_game_day
+1995,130,Michigan,1995-01-29,62.85688517416672,included_game_day
+1995,130,Michigan,1995-02-01,61.89817720724062,included_game_day
+1995,130,Michigan,1995-02-04,49.326074810193234,included_game_day
+1995,130,Michigan,1995-02-08,49.205125003374754,included_game_day
+1995,130,Michigan,1995-02-11,47.95975535623913,included_game_day
+1995,130,Michigan,1995-02-19,59.012387235411666,included_game_day
+1995,130,Michigan,1995-02-21,64.2523063917023,included_game_day
+1995,130,Michigan,1995-02-26,74.81318288860841,included_game_day
+1995,130,Michigan,1995-03-01,65.32269525254668,included_game_day
+1995,130,Michigan,1995-03-05,52.10108605397454,included_game_day
+1995,130,Michigan,1995-03-08,56.29143081877024,included_game_day
+1995,130,Michigan,1995-03-12,61.204492285747,included_game_day
+1995,130,Michigan,1995-03-16,57.87387660410742,included_game_day
+1996,130,Michigan,1995-11-15,5.0,included_game_day
+1996,130,Michigan,1995-11-17,21.4,included_game_day
+1996,130,Michigan,1995-11-22,16.4,included_game_day
+1996,130,Michigan,1995-11-24,-0.45700000000000074,included_game_day
+1996,130,Michigan,1995-11-27,26.188699999999997,included_game_day
+1996,130,Michigan,1995-11-29,54.569829999999996,included_game_day
+1996,130,Michigan,1995-12-02,72.193847,included_game_day
+1996,130,Michigan,1995-12-05,68.4710623,included_game_day
+1996,130,Michigan,1995-12-09,66.34683706999999,included_game_day
+1996,130,Michigan,1995-12-16,60.936885462999996,included_game_day
+1996,130,Michigan,1995-12-18,75.00517361669999,included_game_day
+1996,130,Michigan,1995-12-28,66.45963295395569,included_game_day
+1996,130,Michigan,1995-12-29,77.26554246678923,included_game_day
+1996,130,Michigan,1996-01-03,74.77482519988581,included_game_day
+1996,130,Michigan,1996-01-06,95.482306704492,included_game_day
+1996,130,Michigan,1996-01-09,106.4934273824137,included_game_day
+1996,130,Michigan,1996-01-13,122.69469693758171,included_game_day
+1996,130,Michigan,1996-01-21,123.60970773456064,included_game_day
+1996,130,Michigan,1996-01-23,110.28092490082363,included_game_day
+1996,130,Michigan,1996-01-28,105.3749129448776,included_game_day
+1996,130,Michigan,1996-01-31,81.94478200450669,included_game_day
+1996,130,Michigan,1996-02-03,94.91377957031935,included_game_day
+1996,130,Michigan,1996-02-10,99.05195267245016,included_game_day
+1996,130,Michigan,1996-02-13,93.37720083820349,included_game_day
+1996,130,Michigan,1996-02-18,99.98146815811035,included_game_day
+1996,130,Michigan,1996-02-22,94.5040126839603,included_game_day
+1996,130,Michigan,1996-02-24,89.02006014073918,included_game_day
+1996,130,Michigan,1996-02-27,107.79967107824386,included_game_day
+1996,130,Michigan,1996-03-03,100.16146723933808,included_game_day
+1996,130,Michigan,1996-03-06,114.65361791357483,included_game_day
+1996,130,Michigan,1996-03-09,117.71176732422748,included_game_day
+1996,130,Michigan,1996-03-15,113.20525857867024,included_game_day
+1997,130,Michigan,1996-11-26,21.0,included_game_day
+1997,130,Michigan,1996-11-30,27.83,included_game_day
+1997,130,Michigan,1996-12-02,25.677,included_game_day
+1997,130,Michigan,1996-12-05,36.5868,included_game_day
+1997,130,Michigan,1996-12-08,44.8712458,included_game_day
+1997,130,Michigan,1996-12-11,59.145150019999996,included_game_day
+1997,130,Michigan,1996-12-15,64.17801581799999,included_game_day
+1997,130,Michigan,1996-12-21,65.16428728419999,included_game_day
+1997,130,Michigan,1996-12-27,60.234569241468186,included_game_day
+1997,130,Michigan,1996-12-28,70.04039313932837,included_game_day
+1997,130,Michigan,1996-12-29,60.667162589868276,included_game_day
+1997,130,Michigan,1997-01-02,55.37421721555174,included_game_day
+1997,130,Michigan,1997-01-04,66.9708474603828,included_game_day
+1997,130,Michigan,1997-01-09,82.86466861305951,included_game_day
+1997,130,Michigan,1997-01-11,91.29533180141792,included_game_day
+1997,130,Michigan,1997-01-16,107.3729023502477,included_game_day
+1997,130,Michigan,1997-01-19,112.97188059711404,included_game_day
+1997,130,Michigan,1997-01-21,108.70589529232687,included_game_day
+1997,130,Michigan,1997-01-25,122.15832319739617,included_game_day
+1997,130,Michigan,1997-01-28,119.81842410895378,included_game_day
+1997,130,Michigan,1997-02-01,130.862046963752,included_game_day
+1997,130,Michigan,1997-02-06,121.71829738912615,included_game_day
+1997,130,Michigan,1997-02-08,123.28092001181874,included_game_day
+1997,130,Michigan,1997-02-16,113.61065579241813,included_game_day
+1997,130,Michigan,1997-02-20,110.00810657360957,included_game_day
+1997,130,Michigan,1997-02-23,101.2149113170532,included_game_day
+1997,130,Michigan,1997-02-26,102.94821361370606,included_game_day
+1997,130,Michigan,1997-03-02,87.68286324403742,included_game_day
+1997,130,Michigan,1997-03-05,91.02494586691901,included_game_day
+1997,130,Michigan,1997-03-09,92.46524518961263,included_game_day
+1997,130,Michigan,1997-03-13,96.74807517507038,included_game_day
+1997,130,Michigan,1997-03-18,99.28155402280251,included_game_day
+1997,130,Michigan,1997-03-20,100.41410105167046,included_game_day
+1997,130,Michigan,1997-03-25,116.56069443751606,included_game_day
+1997,130,Michigan,1997-03-27,126.0462544992588,included_game_day
+1998,130,Michigan,1997-11-15,-8.0,included_game_day
+1998,130,Michigan,1997-11-19,5.9,included_game_day
+1998,130,Michigan,1997-11-24,11.703,included_game_day
+1998,130,Michigan,1997-11-30,13.832699999999999,included_game_day
+1998,130,Michigan,1997-12-03,17.9164913,included_game_day
+1998,130,Michigan,1997-12-06,39.65642617,included_game_day
+1998,130,Michigan,1997-12-08,35.105123553000006,included_game_day
+1998,130,Michigan,1997-12-10,22.628139457300005,included_game_day
+1998,130,Michigan,1997-12-13,45.79051721967001,included_game_day
+1998,130,Michigan,1997-12-20,68.82292913982701,included_game_day
+1998,130,Michigan,1997-12-24,93.1245177875818,included_game_day
+1998,130,Michigan,1997-12-26,124.9315518121681,included_game_day
+1998,130,Michigan,1997-12-31,130.8280809400874,included_game_day
+1998,130,Michigan,1998-01-03,138.97823272344482,included_game_day
+1998,130,Michigan,1998-01-06,117.58103785251564,included_game_day
+1998,130,Michigan,1998-01-10,125.32062898014381,included_game_day
+1998,130,Michigan,1998-01-17,130.54653607190565,included_game_day
+1998,130,Michigan,1998-01-20,127.17435210613124,included_game_day
+1998,130,Michigan,1998-01-25,116.2097572436336,included_game_day
+1998,130,Michigan,1998-01-29,109.47682847394162,included_game_day
+1998,130,Michigan,1998-02-01,127.32974286336952,included_game_day
+1998,130,Michigan,1998-02-05,115.58368768874051,included_game_day
+1998,130,Michigan,1998-02-07,102.70619296470203,included_game_day
+1998,130,Michigan,1998-02-11,91.76340331069059,included_game_day
+1998,130,Michigan,1998-02-17,95.05930388332285,included_game_day
+1998,130,Michigan,1998-02-22,142.5409699405334,included_game_day
+1998,130,Michigan,1998-02-25,153.8325022089869,included_game_day
+1998,130,Michigan,1998-02-28,141.42177369918758,included_game_day
+1998,130,Michigan,1998-03-06,150.84794608201528,included_game_day
+1998,130,Michigan,1998-03-07,160.1315256503603,included_game_day
+1998,130,Michigan,1998-03-08,168.19775680784707,included_game_day
+1998,130,Michigan,1998-03-13,174.14602831470256,included_game_day
+1998,130,Michigan,1998-03-15,160.33432236239753,included_game_day
+1999,130,Michigan,1998-11-13,-4.0,included_game_day
+1999,130,Michigan,1998-11-16,-17.6,included_game_day
+1999,130,Michigan,1998-11-19,-8.830000000000002,included_game_day
+1999,130,Michigan,1998-11-23,0.5379999999999985,included_game_day
+1999,130,Michigan,1998-11-24,-5.779800000000002,included_game_day
+1999,130,Michigan,1998-11-25,-20.796490000000002,included_game_day
+1999,130,Michigan,1998-11-30,-11.469441000000002,included_game_day
+1999,130,Michigan,1998-12-02,19.2942301,included_game_day
+1999,130,Michigan,1998-12-06,8.59263433,included_game_day
+1999,130,Michigan,1998-12-09,31.882690025,included_game_day
+1999,130,Michigan,1998-12-12,3.5664372018999977,included_game_day
+1999,130,Michigan,1998-12-21,8.630804701409998,included_game_day
+1999,130,Michigan,1998-12-27,4.495522526157211,included_game_day
+1999,130,Michigan,1998-12-30,16.28125802425636,included_game_day
+1999,130,Michigan,1999-01-02,2.759484051299509,included_game_day
+1999,130,Michigan,1999-01-05,25.29189858567073,included_game_day
+1999,130,Michigan,1999-01-09,24.885839161020073,included_game_day
+1999,130,Michigan,1999-01-16,42.039654444362895,included_game_day
+1999,130,Michigan,1999-01-20,42.4620863055331,included_game_day
+1999,130,Michigan,1999-01-23,36.81307516326744,included_game_day
+1999,130,Michigan,1999-01-28,30.096978377383632,included_game_day
+1999,130,Michigan,1999-01-30,18.986144833750487,included_game_day
+1999,130,Michigan,1999-02-04,2.6269997519333117,included_game_day
+1999,130,Michigan,1999-02-07,16.352047946868097,included_game_day
+1999,130,Michigan,1999-02-09,27.886019014846564,included_game_day
+1999,130,Michigan,1999-02-18,23.363063979566704,included_game_day
+1999,130,Michigan,1999-02-21,31.957804120592105,included_game_day
+1999,130,Michigan,1999-02-24,25.08463843541115,included_game_day
+1999,130,Michigan,1999-02-27,49.94947955262889,included_game_day
+1999,130,Michigan,1999-03-04,56.71449807057154,included_game_day
+1999,130,Michigan,1999-03-05,45.25607059326302,included_game_day
+2000,130,Michigan,1999-11-19,17.0,included_game_day
+2000,130,Michigan,1999-11-23,17.4,included_game_day
+2000,130,Michigan,1999-11-27,26.439999999999998,included_game_day
+2000,130,Michigan,1999-12-01,31.6698,included_game_day
+2000,130,Michigan,1999-12-04,33.84854,included_game_day
+2000,130,Michigan,1999-12-08,32.46336,included_game_day
+2000,130,Michigan,1999-12-11,27.9945114,included_game_day
+2000,130,Michigan,1999-12-19,13.868965922100001,included_game_day
+2000,130,Michigan,1999-12-23,18.92243119482093,included_game_day
+2000,130,Michigan,1999-12-28,29.165447304019835,included_game_day
+2000,130,Michigan,2000-01-02,38.24390884782348,included_game_day
+2000,130,Michigan,2000-01-05,25.554462415466833,included_game_day
+2000,130,Michigan,2000-01-08,36.68900018806023,included_game_day
+2000,130,Michigan,2000-01-16,46.965069645687706,included_game_day
+2000,130,Michigan,2000-01-19,54.38615195403163,included_game_day
+2000,130,Michigan,2000-01-22,48.73235140688948,included_game_day
+2000,130,Michigan,2000-01-25,24.378614111177463,included_game_day
+2000,130,Michigan,2000-02-01,13.866660647961607,included_game_day
+2000,130,Michigan,2000-02-06,0.9657346446352992,included_game_day
+2000,130,Michigan,2000-02-09,-1.480433797457783,included_game_day
+2000,130,Michigan,2000-02-13,-11.677174995279989,included_game_day
+2000,130,Michigan,2000-02-16,-16.276266917315724,included_game_day
+2000,130,Michigan,2000-02-19,-10.05983800162767,included_game_day
+2000,130,Michigan,2000-02-24,-0.9003924794582172,included_game_day
+2000,130,Michigan,2000-02-26,-0.19281336701293306,included_game_day
+2000,130,Michigan,2000-02-29,8.784314145887588,included_game_day
+2000,130,Michigan,2000-03-04,-21.157968835477103,included_game_day
+2000,130,Michigan,2000-03-09,-25.256143167211185,included_game_day
+2000,130,Michigan,2000-03-15,-22.656659823455115,included_game_day
+2001,130,Michigan,2000-11-17,-4.0,included_game_day
+2001,130,Michigan,2000-11-21,6.5,included_game_day
+2001,130,Michigan,2000-11-25,21.658,included_game_day
+2001,130,Michigan,2000-11-28,16.471100000000003,included_game_day
+2001,130,Michigan,2000-12-02,-15.626919999999995,included_game_day
+2001,130,Michigan,2000-12-03,-24.300355999999994,included_game_day
+2001,130,Michigan,2000-12-09,-48.297493659999994,included_game_day
+2001,130,Michigan,2000-12-13,-28.358899906999994,included_game_day
+2001,130,Michigan,2000-12-27,-25.796554477341505,included_game_day
+2001,130,Michigan,2000-12-30,-12.662954429345035,included_game_day
+2001,130,Michigan,2001-01-03,-16.63366516342187,included_game_day
+2001,130,Michigan,2001-01-09,-4.749544622358357,included_game_day
+2001,130,Michigan,2001-01-13,-20.020232724906663,included_game_day
+2001,130,Michigan,2001-01-18,-21.824602666324243,included_game_day
+2001,130,Michigan,2001-01-20,-7.00615478335461,included_game_day
+2001,130,Michigan,2001-01-25,1.3188021740635474,included_game_day
+2001,130,Michigan,2001-01-27,11.224592044980398,included_game_day
+2001,130,Michigan,2001-01-30,-4.067986157010386,included_game_day
+2001,130,Michigan,2001-02-03,-19.0932641899662,included_game_day
+2001,130,Michigan,2001-02-07,-20.510092446329,included_game_day
+2001,130,Michigan,2001-02-11,-19.34911733908362,included_game_day
+2001,130,Michigan,2001-02-14,-3.2580241545519684,included_game_day
+2001,130,Michigan,2001-02-17,-21.804021649394073,included_game_day
+2001,130,Michigan,2001-02-24,-37.479025795727125,included_game_day
+2001,130,Michigan,2001-02-28,-43.47187397813769,included_game_day
+2001,130,Michigan,2001-03-03,-38.53251746466528,included_game_day
+2001,130,Michigan,2001-03-08,-30.165550751663872,included_game_day
+2002,130,Michigan Wolverines,2001-11-16,5.0,included_game_day
+2002,130,Michigan Wolverines,2001-11-20,30.2,included_game_day
+2002,130,Michigan Wolverines,2001-11-23,19.903,included_game_day
+2002,130,Michigan Wolverines,2001-11-28,14.5427,included_game_day
+2002,130,Michigan Wolverines,2001-12-01,5.308772999999999,included_game_day
+2002,130,Michigan Wolverines,2001-12-04,27.795741699999997,included_game_day
+2002,130,Michigan Wolverines,2001-12-08,11.243344726,included_game_day
+2002,130,Michigan Wolverines,2001-12-22,31.9083172716,included_game_day
+2002,130,Michigan Wolverines,2002-01-02,32.64251315542207,included_game_day
+2002,130,Michigan Wolverines,2002-01-05,33.847443347487584,included_game_day
+2002,130,Michigan Wolverines,2002-01-09,29.41247855756229,included_game_day
+2002,130,Michigan Wolverines,2002-01-12,15.373232693690248,included_game_day
+2002,130,Michigan Wolverines,2002-01-16,7.743169137830226,included_game_day
+2002,130,Michigan Wolverines,2002-01-19,11.553128078750555,included_game_day
+2002,130,Michigan Wolverines,2002-01-24,3.514927657654722,included_game_day
+2002,130,Michigan Wolverines,2002-01-26,17.36692250131406,included_game_day
+2002,130,Michigan Wolverines,2002-01-30,-2.5831390947992716,included_game_day
+2002,130,Michigan Wolverines,2002-02-02,8.032335847210057,included_game_day
+2002,130,Michigan Wolverines,2002-02-07,5.398930475552692,included_game_day
+2002,130,Michigan Wolverines,2002-02-09,4.996086820800487,included_game_day
+2002,130,Michigan Wolverines,2002-02-11,5.297552900131162,included_game_day
+2002,130,Michigan Wolverines,2002-02-17,-3.5838966179150944,included_game_day
+2002,130,Michigan Wolverines,2002-02-23,-16.2808226944509,included_game_day
+2002,130,Michigan Wolverines,2002-02-27,-24.868639150041567,included_game_day
+2002,130,Michigan Wolverines,2002-03-02,-24.98931878438969,included_game_day
+2002,130,Michigan Wolverines,2002-03-07,3.9584457796208596,included_game_day
+2002,130,Michigan Wolverines,2002-03-08,8.967125615741308,included_game_day
+2003,130,Michigan Wolverines,2002-11-23,-23.0,included_game_day
+2003,130,Michigan Wolverines,2002-11-24,-30.7,included_game_day
+2003,130,Michigan Wolverines,2002-11-25,-43.222,included_game_day
+2003,130,Michigan Wolverines,2002-11-30,-42.5589,included_game_day
+2003,130,Michigan Wolverines,2002-12-03,-51.42501,included_game_day
+2003,130,Michigan Wolverines,2002-12-07,-59.214698999999996,included_game_day
+2003,130,Michigan Wolverines,2002-12-11,-29.565551107999998,included_game_day
+2003,130,Michigan Wolverines,2002-12-14,1.3944540028000034,included_game_day
+2003,130,Michigan Wolverines,2002-12-21,7.223284599020004,included_game_day
+2003,130,Michigan Wolverines,2002-12-23,33.384346487678,included_game_day
+2003,130,Michigan Wolverines,2002-12-28,39.754958439320205,included_game_day
+2003,130,Michigan Wolverines,2003-01-02,40.987281913870504,included_game_day
+2003,130,Michigan Wolverines,2003-01-04,34.56829770185333,included_game_day
+2003,130,Michigan Wolverines,2003-01-08,40.52838580396625,included_game_day
+2003,130,Michigan Wolverines,2003-01-11,45.174586963040106,included_game_day
+2003,130,Michigan Wolverines,2003-01-15,58.65040165911009,included_game_day
+2003,130,Michigan Wolverines,2003-01-18,62.981926326703125,included_game_day
+2003,130,Michigan Wolverines,2003-01-22,70.9801046278962,included_game_day
+2003,130,Michigan Wolverines,2003-01-26,71.6258854728752,included_game_day
+2003,130,Michigan Wolverines,2003-01-29,72.944082397202,included_game_day
+2003,130,Michigan Wolverines,2003-02-01,66.59038583623432,included_game_day
+2003,130,Michigan Wolverines,2003-02-08,71.93604959351973,included_game_day
+2003,130,Michigan Wolverines,2003-02-12,57.73631133762313,included_game_day
+2003,130,Michigan Wolverines,2003-02-15,69.49900516124316,included_game_day
+2003,130,Michigan Wolverines,2003-02-19,85.86461188855594,included_game_day
+2003,130,Michigan Wolverines,2003-02-26,60.93037697639059,included_game_day
+2003,130,Michigan Wolverines,2003-03-01,64.26940215733845,included_game_day
+2003,130,Michigan Wolverines,2003-03-05,72.26032980388935,included_game_day
+2003,130,Michigan Wolverines,2003-03-08,61.31928182819946,included_game_day
+2003,130,Michigan Wolverines,2003-03-14,51.04791789325219,included_game_day
+2004,130,Michigan Wolverines,2003-11-21,25.431,included_game_day
+2004,130,Michigan Wolverines,2003-11-26,54.760400000000004,included_game_day
+2004,130,Michigan Wolverines,2003-11-30,53.99436,included_game_day
+2004,130,Michigan Wolverines,2003-12-02,58.436524,included_game_day
+2004,130,Michigan Wolverines,2003-12-06,42.2446316,included_game_day
+2004,130,Michigan Wolverines,2003-12-13,47.082695583,included_game_day
+2004,130,Michigan Wolverines,2003-12-20,43.8992272105,included_game_day
+2004,130,Michigan Wolverines,2003-12-22,38.08750364945,included_game_day
+2004,130,Michigan Wolverines,2003-12-27,35.7373190312963,included_game_day
+2004,130,Michigan Wolverines,2003-12-30,31.25079156332974,included_game_day
+2004,130,Michigan Wolverines,2004-01-03,57.56716066371396,included_game_day
+2004,130,Michigan Wolverines,2004-01-07,71.57792345313017,included_game_day
+2004,130,Michigan Wolverines,2004-01-11,55.17739378590187,included_game_day
+2004,130,Michigan Wolverines,2004-01-17,37.35569690980614,included_game_day
+2004,130,Michigan Wolverines,2004-01-21,37.08920464119653,included_game_day
+2004,130,Michigan Wolverines,2004-01-24,42.01059160719396,included_game_day
+2004,130,Michigan Wolverines,2004-01-28,44.48558565413058,included_game_day
+2004,130,Michigan Wolverines,2004-01-31,36.93121349737818,included_game_day
+2004,130,Michigan Wolverines,2004-02-07,36.690393475671506,included_game_day
+2004,130,Michigan Wolverines,2004-02-11,31.057205723105856,included_game_day
+2004,130,Michigan Wolverines,2004-02-14,26.33331342385082,included_game_day
+2004,130,Michigan Wolverines,2004-02-18,36.03286386197487,included_game_day
+2004,130,Michigan Wolverines,2004-02-22,52.17409638785804,included_game_day
+2004,130,Michigan Wolverines,2004-02-24,47.32043532811037,included_game_day
+2004,130,Michigan Wolverines,2004-02-29,49.52754502527695,included_game_day
+2004,130,Michigan Wolverines,2004-03-03,42.32394203555433,included_game_day
+2004,130,Michigan Wolverines,2004-03-06,50.403202638879634,included_game_day
+2004,130,Michigan Wolverines,2004-03-12,60.46634017070558,included_game_day
+2004,130,Michigan Wolverines,2004-03-13,54.14006148023342,included_game_day
+2004,130,Michigan Wolverines,2004-03-16,51.517891618208964,included_game_day
+2004,130,Michigan Wolverines,2004-03-22,61.06650060855749,included_game_day
+2004,130,Michigan Wolverines,2004-03-24,73.73034329307436,included_game_day
+2004,130,Michigan Wolverines,2004-03-30,93.48817737696349,included_game_day
+2004,130,Michigan Wolverines,2004-04-01,94.90713269946033,included_game_day
+2005,130,Michigan Wolverines,2004-11-15,10.0,included_game_day
+2005,130,Michigan Wolverines,2004-11-17,16.2,included_game_day
+2005,130,Michigan Wolverines,2004-11-19,32.58,included_game_day
+2005,130,Michigan Wolverines,2004-11-24,26.1036,included_game_day
+2005,130,Michigan Wolverines,2004-11-26,13.87154,included_game_day
+2005,130,Michigan Wolverines,2004-11-30,-10.386614000000002,included_game_day
+2005,130,Michigan Wolverines,2004-12-04,-7.757152600000001,included_game_day
+2005,130,Michigan Wolverines,2004-12-07,-0.34431983000000166,included_game_day
+2005,130,Michigan Wolverines,2004-12-11,8.236968752999998,included_game_day
+2005,130,Michigan Wolverines,2004-12-14,0.31963686247966905,included_game_day
+2005,130,Michigan Wolverines,2004-12-18,3.327135269831702,included_game_day
+2005,130,Michigan Wolverines,2004-12-29,12.575302771981434,included_game_day
+2005,130,Michigan Wolverines,2004-12-31,22.57110093110857,included_game_day
+2005,130,Michigan Wolverines,2005-01-05,33.52703698217076,included_game_day
+2005,130,Michigan Wolverines,2005-01-08,49.393102749913474,included_game_day
+2005,130,Michigan Wolverines,2005-01-12,51.91825738899097,included_game_day
+2005,130,Michigan Wolverines,2005-01-15,50.63275279058959,included_game_day
+2005,130,Michigan Wolverines,2005-01-19,42.09702890370781,included_game_day
+2005,130,Michigan Wolverines,2005-01-22,34.04557916502073,included_game_day
+2005,130,Michigan Wolverines,2005-01-27,36.96282206587372,included_game_day
+2005,130,Michigan Wolverines,2005-01-30,7.195203052492921,included_game_day
+2005,130,Michigan Wolverines,2005-02-02,-6.603848239339252,included_game_day
+2005,130,Michigan Wolverines,2005-02-05,-21.22032203863551,included_game_day
+2005,130,Michigan Wolverines,2005-02-08,-10.05779278117734,included_game_day
+2005,130,Michigan Wolverines,2005-02-12,-12.908854470071551,included_game_day
+2005,130,Michigan Wolverines,2005-02-16,-24.3703944283617,included_game_day
+2005,130,Michigan Wolverines,2005-02-20,-27.381187388499484,included_game_day
+2005,130,Michigan Wolverines,2005-02-26,-35.220748628040866,included_game_day
+2005,130,Michigan Wolverines,2005-03-05,-28.47572532483978,included_game_day
+2005,130,Michigan Wolverines,2005-03-10,-23.058447270785408,included_game_day
+2006,130,Michigan Wolverines,2005-11-18,24.0,included_game_day
+2006,130,Michigan Wolverines,2005-11-22,28.2,included_game_day
+2006,130,Michigan Wolverines,2005-11-26,26.9012,included_game_day
+2006,130,Michigan Wolverines,2005-11-29,47.56205799999999,included_game_day
+2006,130,Michigan Wolverines,2005-12-03,51.495252199999996,included_game_day
+2006,130,Michigan Wolverines,2005-12-07,62.174701327799994,included_game_day
+2006,130,Michigan Wolverines,2005-12-10,82.38192097102,included_game_day
+2006,130,Michigan Wolverines,2005-12-17,68.22524215411799,included_game_day
+2006,130,Michigan Wolverines,2005-12-22,68.02743602421195,included_game_day
+2006,130,Michigan Wolverines,2005-12-28,80.47721942017169,included_game_day
+2006,130,Michigan Wolverines,2005-12-31,79.21200157357157,included_game_day
+2006,130,Michigan Wolverines,2006-01-03,81.2342136221194,included_game_day
+2006,130,Michigan Wolverines,2006-01-07,70.37657653415914,included_game_day
+2006,130,Michigan Wolverines,2006-01-14,75.1178478359567,included_game_day
+2006,130,Michigan Wolverines,2006-01-18,83.79282067356527,included_game_day
+2006,130,Michigan Wolverines,2006-01-21,97.0511810889655,included_game_day
+2006,130,Michigan Wolverines,2006-01-25,101.20393905153351,included_game_day
+2006,130,Michigan Wolverines,2006-01-28,107.86516532998091,included_game_day
+2006,130,Michigan Wolverines,2006-02-01,107.02684377683508,included_game_day
+2006,130,Michigan Wolverines,2006-02-04,79.90673644992296,included_game_day
+2006,130,Michigan Wolverines,2006-02-09,73.93512204255951,included_game_day
+2006,130,Michigan Wolverines,2006-02-11,54.310523742190924,included_game_day
+2006,130,Michigan Wolverines,2006-02-15,74.15020177944322,included_game_day
+2006,130,Michigan Wolverines,2006-02-18,60.34426428909815,included_game_day
+2006,130,Michigan Wolverines,2006-02-21,72.35719552678398,included_game_day
+2006,130,Michigan Wolverines,2006-02-25,73.64700982124607,included_game_day
+2006,130,Michigan Wolverines,2006-03-04,67.64910511723855,included_game_day
+2006,130,Michigan Wolverines,2006-03-09,59.625762980593734,included_game_day
+2006,130,Michigan Wolverines,2006-03-16,73.3772235875608,included_game_day
+2006,130,Michigan Wolverines,2006-03-20,76.47426691404412,included_game_day
+2006,130,Michigan Wolverines,2006-03-22,80.1249793765453,included_game_day
+2006,130,Michigan Wolverines,2006-03-28,100.90038390014385,included_game_day
+2006,130,Michigan Wolverines,2006-03-30,89.58088467908593,included_game_day
+2007,130,Michigan Wolverines,2006-11-10,17.0,included_game_day
+2007,130,Michigan Wolverines,2006-11-11,23.0,included_game_day
+2007,130,Michigan Wolverines,2006-11-12,46.3,included_game_day
+2007,130,Michigan Wolverines,2006-11-15,42.67999999999999,included_game_day
+2007,130,Michigan Wolverines,2006-11-17,66.642,included_game_day
+2007,130,Michigan Wolverines,2006-11-22,65.9568,included_game_day
+2007,130,Michigan Wolverines,2006-11-25,69.93971,included_game_day
+2007,130,Michigan Wolverines,2006-11-27,61.496555,included_game_day
+2007,130,Michigan Wolverines,2006-12-02,84.04468976,included_game_day
+2007,130,Michigan Wolverines,2006-12-07,84.9871147881,included_game_day
+2007,130,Michigan Wolverines,2006-12-09,94.13383451515,included_game_day
+2007,130,Michigan Wolverines,2006-12-16,93.649412557437,included_game_day
+2007,130,Michigan Wolverines,2006-12-23,60.07481486388975,included_game_day
+2007,130,Michigan Wolverines,2006-12-28,62.51345931866153,included_game_day
+2007,130,Michigan Wolverines,2006-12-30,48.289500971042386,included_game_day
+2007,130,Michigan Wolverines,2007-01-03,61.439903466657476,included_game_day
+2007,130,Michigan Wolverines,2007-01-06,73.14471684462355,included_game_day
+2007,130,Michigan Wolverines,2007-01-13,61.52060525157814,included_game_day
+2007,130,Michigan Wolverines,2007-01-17,79.04721538871976,included_game_day
+2007,130,Michigan Wolverines,2007-01-20,92.56016343668892,included_game_day
+2007,130,Michigan Wolverines,2007-01-24,88.6027301254246,included_game_day
+2007,130,Michigan Wolverines,2007-01-27,81.6353362979614,included_game_day
+2007,130,Michigan Wolverines,2007-01-31,70.25175984601438,included_game_day
+2007,130,Michigan Wolverines,2007-02-06,71.18969197106652,included_game_day
+2007,130,Michigan Wolverines,2007-02-10,62.07877277913827,included_game_day
+2007,130,Michigan Wolverines,2007-02-13,53.19772049905925,included_game_day
+2007,130,Michigan Wolverines,2007-02-17,60.205115883597784,included_game_day
+2007,130,Michigan Wolverines,2007-02-21,54.85052308357595,included_game_day
+2007,130,Michigan Wolverines,2007-02-24,63.152374326746596,included_game_day
+2007,130,Michigan Wolverines,2007-02-27,79.04104568116685,included_game_day
+2007,130,Michigan Wolverines,2007-03-03,79.61319607399145,included_game_day
+2007,130,Michigan Wolverines,2007-03-08,76.10678618600426,included_game_day
+2007,130,Michigan Wolverines,2007-03-09,76.91514748906266,included_game_day
+2007,130,Michigan Wolverines,2007-03-13,80.88845970715536,included_game_day
+2007,130,Michigan Wolverines,2007-03-15,66.56775736791118,included_game_day
+2008,130,Michigan Wolverines,2007-11-09,24.0,included_game_day
+2008,130,Michigan Wolverines,2007-11-11,35.8,included_game_day
+2008,130,Michigan Wolverines,2007-11-15,14.419999999999998,included_game_day
+2008,130,Michigan Wolverines,2007-11-21,4.326999999999998,included_game_day
+2008,130,Michigan Wolverines,2007-11-23,5.966839999999998,included_game_day
+2008,130,Michigan Wolverines,2007-11-24,6.325135999999999,included_game_day
+2008,130,Michigan Wolverines,2007-11-28,-4.971857400000001,included_game_day
+2008,130,Michigan Wolverines,2007-12-01,-15.16641486,included_game_day
+2008,130,Michigan Wolverines,2007-12-08,-24.8154373612,included_game_day
+2008,130,Michigan Wolverines,2007-12-12,-10.641815393492001,included_game_day
+2008,130,Michigan Wolverines,2007-12-15,-23.8682322036008,included_game_day
+2008,130,Michigan Wolverines,2007-12-22,-26.99703800028674,included_game_day
+2008,130,Michigan Wolverines,2008-01-02,-31.060222003353793,included_game_day
+2008,130,Michigan Wolverines,2008-01-05,-27.74118772887939,included_game_day
+2008,130,Michigan Wolverines,2008-01-08,-29.00772123097717,included_game_day
+2008,130,Michigan Wolverines,2008-01-12,-14.529314615670653,included_game_day
+2008,130,Michigan Wolverines,2008-01-16,-23.640324030286145,included_game_day
+2008,130,Michigan Wolverines,2008-01-22,-6.748019265368569,included_game_day
+2008,130,Michigan Wolverines,2008-01-27,-5.872269384350355,included_game_day
+2008,130,Michigan Wolverines,2008-01-31,-12.225200897267161,included_game_day
+2008,130,Michigan Wolverines,2008-02-05,-7.339866024172338,included_game_day
+2008,130,Michigan Wolverines,2008-02-09,-3.2411353335846975,included_game_day
+2008,130,Michigan Wolverines,2008-02-14,11.42407823815571,included_game_day
+2008,130,Michigan Wolverines,2008-02-17,27.45326848920454,included_game_day
+2008,130,Michigan Wolverines,2008-02-21,24.964085257171433,included_game_day
+2008,130,Michigan Wolverines,2008-02-23,32.87564640561015,included_game_day
+2008,130,Michigan Wolverines,2008-02-26,21.645031030276208,included_game_day
+2008,130,Michigan Wolverines,2008-03-01,13.704914143407258,included_game_day
+2008,130,Michigan Wolverines,2008-03-09,7.043896490279629,included_game_day
+2008,130,Michigan Wolverines,2008-03-13,15.046853477140267,included_game_day
+2008,130,Michigan Wolverines,2008-03-14,13.55413605337969,included_game_day
+2009,130,Michigan Wolverines,2008-11-12,18.3,included_game_day
+2009,130,Michigan Wolverines,2008-11-20,21.6,included_game_day
+2009,130,Michigan Wolverines,2008-11-21,12.268400000000002,included_game_day
+2009,130,Michigan Wolverines,2008-11-25,41.38256,included_game_day
+2009,130,Michigan Wolverines,2008-11-29,35.316348,included_game_day
+2009,130,Michigan Wolverines,2008-12-03,31.44152098,included_game_day
+2009,130,Michigan Wolverines,2008-12-06,45.851600712,included_game_day
+2009,130,Michigan Wolverines,2008-12-13,65.11959984079999,included_game_day
+2009,130,Michigan Wolverines,2008-12-20,71.33921378497998,included_game_day
+2009,130,Michigan Wolverines,2008-12-22,71.41708550645157,included_game_day
+2009,130,Michigan Wolverines,2008-12-29,62.41204291741751,included_game_day
+2009,130,Michigan Wolverines,2008-12-31,45.67252756717176,included_game_day
+2009,130,Michigan Wolverines,2009-01-04,60.70683613486813,included_game_day
+2009,130,Michigan Wolverines,2009-01-07,59.28242728081908,included_game_day
+2009,130,Michigan Wolverines,2009-01-11,70.12567552729381,included_game_day
+2009,130,Michigan Wolverines,2009-01-14,63.48029695992821,included_game_day
+2009,130,Michigan Wolverines,2009-01-17,53.89480667865142,included_game_day
+2009,130,Michigan Wolverines,2009-01-20,41.9178591739815,included_game_day
+2009,130,Michigan Wolverines,2009-01-24,50.52486109569279,included_game_day
+2009,130,Michigan Wolverines,2009-01-28,36.209706662112325,included_game_day
+2009,130,Michigan Wolverines,2009-01-31,30.052078167915802,included_game_day
+2009,130,Michigan Wolverines,2009-02-05,51.75393551824242,included_game_day
+2009,130,Michigan Wolverines,2009-02-07,62.060883742174966,included_game_day
+2009,130,Michigan Wolverines,2009-02-10,55.49930656501492,included_game_day
+2009,130,Michigan Wolverines,2009-02-15,60.77549293769085,included_game_day
+2009,130,Michigan Wolverines,2009-02-19,69.53679694424085,included_game_day
+2009,130,Michigan Wolverines,2009-02-22,57.185852716407666,included_game_day
+2009,130,Michigan Wolverines,2009-02-26,69.3579782166251,included_game_day
+2009,130,Michigan Wolverines,2009-03-01,70.57565226161937,included_game_day
+2009,130,Michigan Wolverines,2009-03-07,76.82228179665506,included_game_day
+2009,130,Michigan Wolverines,2009-03-12,100.8249571126953,included_game_day
+2009,130,Michigan Wolverines,2009-03-13,89.87035336875498,included_game_day
+2009,130,Michigan Wolverines,2009-03-19,95.17299852415263,included_game_day
+2009,130,Michigan Wolverines,2009-03-21,91.20515017028316,included_game_day
+2010,130,Michigan Wolverines,2009-11-20,16.03,included_game_day
+2010,130,Michigan Wolverines,2009-11-26,23.38823,included_game_day
+2010,130,Michigan Wolverines,2009-11-27,16.839866999999998,included_game_day
+2010,130,Michigan Wolverines,2009-11-29,14.7760918,included_game_day
+2010,130,Michigan Wolverines,2009-12-02,11.10189292,included_game_day
+2010,130,Michigan Wolverines,2009-12-05,17.296178668,included_game_day
+2010,130,Michigan Wolverines,2009-12-09,2.7145451202000004,included_game_day
+2010,130,Michigan Wolverines,2009-12-13,10.64547705551,included_game_day
+2010,130,Michigan Wolverines,2009-12-19,18.950037411115296,included_game_day
+2010,130,Michigan Wolverines,2009-12-22,38.95761914740926,included_game_day
+2010,130,Michigan Wolverines,2009-12-31,35.64908981679284,included_game_day
+2010,130,Michigan Wolverines,2010-01-03,49.465521001710584,included_game_day
+2010,130,Michigan Wolverines,2010-01-07,61.71934601216881,included_game_day
+2010,130,Michigan Wolverines,2010-01-10,51.59283514411962,included_game_day
+2010,130,Michigan Wolverines,2010-01-14,69.42343874861048,included_game_day
+2010,130,Michigan Wolverines,2010-01-17,72.98500064870154,included_game_day
+2010,130,Michigan Wolverines,2010-01-20,77.53654495167159,included_game_day
+2010,130,Michigan Wolverines,2010-01-23,75.76884689416346,included_game_day
+2010,130,Michigan Wolverines,2010-01-26,77.93606910078124,included_game_day
+2010,130,Michigan Wolverines,2010-01-30,83.05953707245818,included_game_day
+2010,130,Michigan Wolverines,2010-02-02,69.52416125775146,included_game_day
+2010,130,Michigan Wolverines,2010-02-06,56.725264742767834,included_game_day
+2010,130,Michigan Wolverines,2010-02-11,71.34157034766346,included_game_day
+2010,130,Michigan Wolverines,2010-02-16,71.6433316700131,included_game_day
+2010,130,Michigan Wolverines,2010-02-20,61.226978161084524,included_game_day
+2010,130,Michigan Wolverines,2010-02-23,53.520757996828706,included_game_day
+2010,130,Michigan Wolverines,2010-02-27,56.59007739859696,included_game_day
+2010,130,Michigan Wolverines,2010-03-02,87.14819100511684,included_game_day
+2010,130,Michigan Wolverines,2010-03-07,77.18687005869164,included_game_day
+2010,130,Michigan Wolverines,2010-03-11,74.99268956667329,included_game_day
+2010,130,Michigan Wolverines,2010-03-12,83.18214775284845,included_game_day
+2011,130,Michigan Wolverines,2010-11-13,28.0,included_game_day
+2011,130,Michigan Wolverines,2010-11-18,41.3,included_game_day
+2011,130,Michigan Wolverines,2010-11-21,55.370999999999995,included_game_day
+2011,130,Michigan Wolverines,2010-11-26,49.8777,included_game_day
+2011,130,Michigan Wolverines,2010-11-27,37.096120889999995,included_game_day
+2011,130,Michigan Wolverines,2010-11-30,48.563934300999996,included_game_day
+2011,130,Michigan Wolverines,2010-12-04,48.256350630899995,included_game_day
+2011,130,Michigan Wolverines,2010-12-10,52.287213047049995,included_game_day
+2011,130,Michigan Wolverines,2010-12-14,60.85054461222799,included_game_day
+2011,130,Michigan Wolverines,2010-12-18,77.31667591860116,included_game_day
+2011,130,Michigan Wolverines,2010-12-23,75.04467129741747,included_game_day
+2011,130,Michigan Wolverines,2010-12-28,54.28065234758509,included_game_day
+2011,130,Michigan Wolverines,2011-01-02,54.481426162214895,included_game_day
+2011,130,Michigan Wolverines,2011-01-05,46.964272580214924,included_game_day
+2011,130,Michigan Wolverines,2011-01-09,50.597908862052485,included_game_day
+2011,130,Michigan Wolverines,2011-01-12,57.93781584857807,included_game_day
+2011,130,Michigan Wolverines,2011-01-15,40.71887260198768,included_game_day
+2011,130,Michigan Wolverines,2011-01-18,34.26060742876811,included_game_day
+2011,130,Michigan Wolverines,2011-01-22,30.7952374991292,included_game_day
+2011,130,Michigan Wolverines,2011-01-27,42.17637213737571,included_game_day
+2011,130,Michigan Wolverines,2011-01-30,51.92335064782272,included_game_day
+2011,130,Michigan Wolverines,2011-02-03,59.1555284978069,included_game_day
+2011,130,Michigan Wolverines,2011-02-06,65.63350843697634,included_game_day
+2011,130,Michigan Wolverines,2011-02-09,72.79218318255047,included_game_day
+2011,130,Michigan Wolverines,2011-02-12,71.47264962136558,included_game_day
+2011,130,Michigan Wolverines,2011-02-16,75.74931123855518,included_game_day
+2011,130,Michigan Wolverines,2011-02-19,77.6374607625863,included_game_day
+2011,130,Michigan Wolverines,2011-02-23,80.79907383215966,included_game_day
+2011,130,Michigan Wolverines,2011-02-26,89.95331101499379,included_game_day
+2011,130,Michigan Wolverines,2011-03-05,91.7328380324237,included_game_day
+2011,130,Michigan Wolverines,2011-03-11,98.38403063458307,included_game_day
+2011,130,Michigan Wolverines,2011-03-12,101.68319784843078,included_game_day
+2011,130,Michigan Wolverines,2011-03-18,128.6295914219676,included_game_day
+2011,130,Michigan Wolverines,2011-03-20,135.66735402460432,included_game_day
+2012,130,Michigan Wolverines,2011-11-14,9.7,included_game_day
+2012,130,Michigan Wolverines,2011-11-17,7.129999999999999,included_game_day
+2012,130,Michigan Wolverines,2011-11-21,19.737,included_game_day
+2012,130,Michigan Wolverines,2011-11-22,16.10868,included_game_day
+2012,130,Michigan Wolverines,2011-11-23,26.244411999999997,included_game_day
+2012,130,Michigan Wolverines,2011-11-29,21.829973579999997,included_game_day
+2012,130,Michigan Wolverines,2011-12-03,31.746282001999997,included_game_day
+2012,130,Michigan Wolverines,2011-12-10,44.807448952499996,included_game_day
+2012,130,Michigan Wolverines,2011-12-13,44.63766061171199,included_game_day
+2012,130,Michigan Wolverines,2011-12-17,61.942768117240796,included_game_day
+2012,130,Michigan Wolverines,2011-12-22,62.18176624125318,included_game_day
+2012,130,Michigan Wolverines,2011-12-29,71.77415775209826,included_game_day
+2012,130,Michigan Wolverines,2012-01-01,72.76747127008319,included_game_day
+2012,130,Michigan Wolverines,2012-01-05,82.63655872801748,included_game_day
+2012,130,Michigan Wolverines,2012-01-08,103.93581428508004,included_game_day
+2012,130,Michigan Wolverines,2012-01-11,96.43785110375073,included_game_day
+2012,130,Michigan Wolverines,2012-01-14,77.36014269532618,included_game_day
+2012,130,Michigan Wolverines,2012-01-17,84.44731280581601,included_game_day
+2012,130,Michigan Wolverines,2012-01-21,83.12605885490684,included_game_day
+2012,130,Michigan Wolverines,2012-01-24,86.55232344959306,included_game_day
+2012,130,Michigan Wolverines,2012-01-29,87.41747832141803,included_game_day
+2012,130,Michigan Wolverines,2012-02-01,99.70538846660541,included_game_day
+2012,130,Michigan Wolverines,2012-02-05,99.75800758246072,included_game_day
+2012,130,Michigan Wolverines,2012-02-08,110.08680573945226,included_game_day
+2012,130,Michigan Wolverines,2012-02-12,111.13859594728125,included_game_day
+2012,130,Michigan Wolverines,2012-02-18,120.54425152925809,included_game_day
+2012,130,Michigan Wolverines,2012-02-21,130.76073673774582,included_game_day
+2012,130,Michigan Wolverines,2012-02-25,109.03296481143838,included_game_day
+2012,130,Michigan Wolverines,2012-03-01,116.02821751767766,included_game_day
+2012,130,Michigan Wolverines,2012-03-04,114.31954111998392,included_game_day
+2012,130,Michigan Wolverines,2012-03-09,113.68361605672521,included_game_day
+2012,130,Michigan Wolverines,2012-03-10,98.0137293871837,included_game_day
+2012,130,Michigan Wolverines,2012-03-16,90.77528503498993,included_game_day
+2013,130,Michigan Wolverines,2012-11-12,35.0,included_game_day
+2013,130,Michigan Wolverines,2012-11-13,62.7,included_game_day
+2013,130,Michigan Wolverines,2012-11-21,68.7397,included_game_day
+2013,130,Michigan Wolverines,2012-11-23,81.55842,included_game_day
+2013,130,Michigan Wolverines,2012-11-27,80.538376,included_game_day
+2013,130,Michigan Wolverines,2012-12-01,88.121877,included_game_day
+2013,130,Michigan Wolverines,2012-12-04,109.78883852,included_game_day
+2013,130,Michigan Wolverines,2012-12-08,111.81806757219,included_game_day
+2013,130,Michigan Wolverines,2012-12-11,118.17476279627101,included_game_day
+2013,130,Michigan Wolverines,2012-12-15,124.5287524503727,included_game_day
+2013,130,Michigan Wolverines,2012-12-20,145.40260409963034,included_game_day
+2013,130,Michigan Wolverines,2012-12-29,141.45692684839096,included_game_day
+2013,130,Michigan Wolverines,2013-01-03,162.31979294351854,included_game_day
+2013,130,Michigan Wolverines,2013-01-06,182.79317865183074,included_game_day
+2013,130,Michigan Wolverines,2013-01-09,175.54467086398654,included_game_day
+2013,130,Michigan Wolverines,2013-01-13,170.1772774809184,included_game_day
+2013,130,Michigan Wolverines,2013-01-17,178.9582541325279,included_game_day
+2013,130,Michigan Wolverines,2013-01-24,179.66018833579722,included_game_day
+2013,130,Michigan Wolverines,2013-01-27,184.55051522297038,included_game_day
+2013,130,Michigan Wolverines,2013-01-30,188.55476686819944,included_game_day
+2013,130,Michigan Wolverines,2013-02-02,185.06415036241347,included_game_day
+2013,130,Michigan Wolverines,2013-02-05,178.66028786005214,included_game_day
+2013,130,Michigan Wolverines,2013-02-09,172.63792691696221,included_game_day
+2013,130,Michigan Wolverines,2013-02-12,148.1436941003326,included_game_day
+2013,130,Michigan Wolverines,2013-02-17,135.17657472156773,included_game_day
+2013,130,Michigan Wolverines,2013-02-24,141.66808192676385,included_game_day
+2013,130,Michigan Wolverines,2013-02-27,123.74136933747769,included_game_day
+2013,130,Michigan Wolverines,2013-03-03,123.51405946837808,included_game_day
+2013,130,Michigan Wolverines,2013-03-06,125.7414363402158,included_game_day
+2013,130,Michigan Wolverines,2013-03-10,127.29523454155827,included_game_day
+2013,130,Michigan Wolverines,2013-03-14,132.30350391400788,included_game_day
+2013,130,Michigan Wolverines,2013-03-15,122.463477694116,included_game_day
+2013,130,Michigan Wolverines,2013-03-21,132.19120569134307,included_game_day
+2013,130,Michigan Wolverines,2013-03-23,160.74972569952575,included_game_day
+2013,130,Michigan Wolverines,2013-03-29,163.93595291925655,included_game_day
+2013,130,Michigan Wolverines,2013-03-31,188.1638303408131,included_game_day
+2013,130,Michigan Wolverines,2013-04-06,192.49292139339633,included_game_day
+2013,130,Michigan Wolverines,2013-04-08,191.7345741882005,included_game_day
+2014,130,Michigan Wolverines,2013-11-08,24.0,included_game_day
+2014,130,Michigan Wolverines,2013-11-12,51.3,included_game_day
+2014,130,Michigan Wolverines,2013-11-17,47.209999999999994,included_game_day
+2014,130,Michigan Wolverines,2013-11-21,62.801199999999994,included_game_day
+2014,130,Michigan Wolverines,2013-11-22,65.49194,included_game_day
+2014,130,Michigan Wolverines,2013-11-24,59.900168,included_game_day
+2014,130,Michigan Wolverines,2013-11-29,90.3121512,included_game_day
+2014,130,Michigan Wolverines,2013-12-03,80.54728022500001,included_game_day
+2014,130,Michigan Wolverines,2013-12-07,118.58173286520001,included_game_day
+2014,130,Michigan Wolverines,2013-12-14,114.1212208362088,included_game_day
+2014,130,Michigan Wolverines,2013-12-21,112.49676817422622,included_game_day
+2014,130,Michigan Wolverines,2013-12-28,122.11593997697489,included_game_day
+2014,130,Michigan Wolverines,2014-01-02,122.60059034689391,included_game_day
+2014,130,Michigan Wolverines,2014-01-05,130.0282831160183,included_game_day
+2014,130,Michigan Wolverines,2014-01-09,122.95088207986528,included_game_day
+2014,130,Michigan Wolverines,2014-01-14,123.20625341628255,included_game_day
+2014,130,Michigan Wolverines,2014-01-18,136.0850717660763,included_game_day
+2014,130,Michigan Wolverines,2014-01-22,144.97601884823408,included_game_day
+2014,130,Michigan Wolverines,2014-01-25,154.3356093719418,included_game_day
+2014,130,Michigan Wolverines,2014-01-30,149.5497481314859,included_game_day
+2014,130,Michigan Wolverines,2014-02-02,133.59784741635352,included_game_day
+2014,130,Michigan Wolverines,2014-02-05,151.22676972741644,included_game_day
+2014,130,Michigan Wolverines,2014-02-08,136.41254054305068,included_game_day
+2014,130,Michigan Wolverines,2014-02-11,149.1614425425447,included_game_day
+2014,130,Michigan Wolverines,2014-02-16,129.85700512127607,included_game_day
+2014,130,Michigan Wolverines,2014-02-23,136.21531107379997,included_game_day
+2014,130,Michigan Wolverines,2014-02-26,129.88413575318134,included_game_day
+2014,130,Michigan Wolverines,2014-03-01,130.33864607291787,included_game_day
+2014,130,Michigan Wolverines,2014-03-04,159.4895814729282,included_game_day
+2014,130,Michigan Wolverines,2014-03-08,151.49962533856078,included_game_day
+2014,130,Michigan Wolverines,2014-03-14,145.00520018771377,included_game_day
+2014,130,Michigan Wolverines,2014-03-15,144.7834382783024,included_game_day
+2014,130,Michigan Wolverines,2014-03-16,129.99862801719428,included_game_day
+2014,130,Michigan Wolverines,2014-03-20,135.78423743881208,included_game_day
+2014,130,Michigan Wolverines,2014-03-22,144.39551777110626,included_game_day
+2014,130,Michigan Wolverines,2014-03-28,150.58415756860842,included_game_day
+2014,130,Michigan Wolverines,2014-03-30,147.57958552569758,included_game_day
+2015,130,Michigan Wolverines,2014-11-17,21.0,included_game_day
+2015,130,Michigan Wolverines,2014-11-20,23.89,included_game_day
+2015,130,Michigan Wolverines,2014-11-24,33.639,included_game_day
+2015,130,Michigan Wolverines,2014-11-25,31.749270000000003,included_game_day
+2015,130,Michigan Wolverines,2014-11-29,48.884463000000004,included_game_day
+2015,130,Michigan Wolverines,2014-12-02,51.9190887,included_game_day
+2015,130,Michigan Wolverines,2014-12-06,39.59380193,included_game_day
+2015,130,Michigan Wolverines,2014-12-09,32.863361966999996,included_game_day
+2015,130,Michigan Wolverines,2014-12-13,15.310509808999996,included_game_day
+2015,130,Michigan Wolverines,2014-12-20,5.951349270814395,included_game_day
+2015,130,Michigan Wolverines,2014-12-22,3.518017659196955,included_game_day
+2015,130,Michigan Wolverines,2014-12-30,18.823415692999326,included_game_day
+2015,130,Michigan Wolverines,2015-01-03,12.574541286170234,included_game_day
+2015,130,Michigan Wolverines,2015-01-06,27.44838562959213,included_game_day
+2015,130,Michigan Wolverines,2015-01-10,36.28963172145488,included_game_day
+2015,130,Michigan Wolverines,2015-01-13,32.91234177537963,included_game_day
+2015,130,Michigan Wolverines,2015-01-17,31.852577696355937,included_game_day
+2015,130,Michigan Wolverines,2015-01-20,37.712204480468884,included_game_day
+2015,130,Michigan Wolverines,2015-01-24,43.51342659997779,included_game_day
+2015,130,Michigan Wolverines,2015-01-27,55.55460181414059,included_game_day
+2015,130,Michigan Wolverines,2015-02-01,53.851314636131704,included_game_day
+2015,130,Michigan Wolverines,2015-02-05,34.04246262541341,included_game_day
+2015,130,Michigan Wolverines,2015-02-08,38.42444399734103,included_game_day
+2015,130,Michigan Wolverines,2015-02-12,33.940536784720436,included_game_day
+2015,130,Michigan Wolverines,2015-02-17,26.91513655963903,included_game_day
+2015,130,Michigan Wolverines,2015-02-22,44.756558208575726,included_game_day
+2015,130,Michigan Wolverines,2015-02-28,41.508257644340105,included_game_day
+2015,130,Michigan Wolverines,2015-03-03,40.55448943811062,included_game_day
+2015,130,Michigan Wolverines,2015-03-07,38.52997312442068,included_game_day
+2015,130,Michigan Wolverines,2015-03-12,62.16956922819045,included_game_day
+2015,130,Michigan Wolverines,2015-03-13,64.36247501835565,included_game_day
+2016,130,Michigan Wolverines,2015-11-16,18.4,included_game_day
+2016,130,Michigan Wolverines,2015-11-25,9.607099999999999,included_game_day
+2016,130,Michigan Wolverines,2015-11-26,61.41309,included_game_day
+2016,130,Michigan Wolverines,2015-11-27,62.969950999999995,included_game_day
+2016,130,Michigan Wolverines,2015-12-01,69.7078399,included_game_day
+2016,130,Michigan Wolverines,2015-12-05,77.668693041,included_game_day
+2016,130,Michigan Wolverines,2015-12-08,58.4423631299,included_game_day
+2016,130,Michigan Wolverines,2015-12-12,85.96433292591,included_game_day
+2016,130,Michigan Wolverines,2015-12-15,85.069594692419,included_game_day
+2016,130,Michigan Wolverines,2015-12-19,129.7461505998498,included_game_day
+2016,130,Michigan Wolverines,2015-12-23,137.58824463812903,included_game_day
+2016,130,Michigan Wolverines,2015-12-30,138.44205451395464,included_game_day
+2016,130,Michigan Wolverines,2016-01-02,148.4316346484385,included_game_day
+2016,130,Michigan Wolverines,2016-01-07,134.1627068601781,included_game_day
+2016,130,Michigan Wolverines,2016-01-12,133.68185213839888,included_game_day
+2016,130,Michigan Wolverines,2016-01-17,128.1746302168477,included_game_day
+2016,130,Michigan Wolverines,2016-01-20,113.57941879667055,included_game_day
+2016,130,Michigan Wolverines,2016-01-23,127.6445179557825,included_game_day
+2016,130,Michigan Wolverines,2016-01-27,112.70993111173924,included_game_day
+2016,130,Michigan Wolverines,2016-01-30,109.5401421575224,included_game_day
+2016,130,Michigan Wolverines,2016-02-02,97.45769790905923,included_game_day
+2016,130,Michigan Wolverines,2016-02-06,85.4015499571834,included_game_day
+2016,130,Michigan Wolverines,2016-02-10,85.90166787225384,included_game_day
+2016,130,Michigan Wolverines,2016-02-13,93.49764807300458,included_game_day
+2016,130,Michigan Wolverines,2016-02-16,83.42123824227507,included_game_day
+2016,130,Michigan Wolverines,2016-02-21,85.97958038125039,included_game_day
+2016,130,Michigan Wolverines,2016-02-24,87.71751385709713,included_game_day
+2016,130,Michigan Wolverines,2016-02-28,83.81120337777486,included_game_day
+2016,130,Michigan Wolverines,2016-03-05,73.2577541204178,included_game_day
+2016,130,Michigan Wolverines,2016-03-10,75.67879898011145,included_game_day
+2016,130,Michigan Wolverines,2016-03-11,88.4726494213196,included_game_day
+2016,130,Michigan Wolverines,2016-03-12,79.96743314038615,included_game_day
+2016,130,Michigan Wolverines,2016-03-16,83.24313401732998,included_game_day
+2016,130,Michigan Wolverines,2016-03-18,74.44883679360375,included_game_day
+2017,130,Michigan Wolverines,2016-11-11,15.0,included_game_day
+2017,130,Michigan Wolverines,2016-11-13,21.8,included_game_day
+2017,130,Michigan Wolverines,2016-11-17,42.53,included_game_day
+2017,130,Michigan Wolverines,2016-11-18,65.497,included_game_day
+2017,130,Michigan Wolverines,2016-11-23,53.1137,included_game_day
+2017,130,Michigan Wolverines,2016-11-26,57.113239,included_game_day
+2017,130,Michigan Wolverines,2016-11-30,51.9923104,included_game_day
+2017,130,Michigan Wolverines,2016-12-03,67.57789789,included_game_day
+2017,130,Michigan Wolverines,2016-12-06,61.715773183,included_game_day
+2017,130,Michigan Wolverines,2016-12-10,54.3042909987,included_game_day
+2017,130,Michigan Wolverines,2016-12-13,82.857117859064,included_game_day
+2017,130,Michigan Wolverines,2016-12-17,114.4300536272876,included_game_day
+2017,130,Michigan Wolverines,2016-12-22,107.52786568839602,included_game_day
+2017,130,Michigan Wolverines,2017-01-01,103.0198304976019,included_game_day
+2017,130,Michigan Wolverines,2017-01-04,98.06067661236474,included_game_day
+2017,130,Michigan Wolverines,2017-01-07,85.11845684999153,included_game_day
+2017,130,Michigan Wolverines,2017-01-11,67.06229701416636,included_game_day
+2017,130,Michigan Wolverines,2017-01-14,65.8590217274238,included_game_day
+2017,130,Michigan Wolverines,2017-01-17,74.95055708761956,included_game_day
+2017,130,Michigan Wolverines,2017-01-21,77.13585598657632,included_game_day
+2017,130,Michigan Wolverines,2017-01-26,108.10201763751473,included_game_day
+2017,130,Michigan Wolverines,2017-01-29,99.58455915002538,included_game_day
+2017,130,Michigan Wolverines,2017-02-04,87.6743476986226,included_game_day
+2017,130,Michigan Wolverines,2017-02-07,114.03919726091489,included_game_day
+2017,130,Michigan Wolverines,2017-02-12,126.35252634800788,included_game_day
+2017,130,Michigan Wolverines,2017-02-16,130.04026109672958,included_game_day
+2017,130,Michigan Wolverines,2017-02-19,123.92686213603238,included_game_day
+2017,130,Michigan Wolverines,2017-02-22,119.46965985332773,included_game_day
+2017,130,Michigan Wolverines,2017-02-25,133.35769293423235,included_game_day
+2017,130,Michigan Wolverines,2017-03-01,128.0194499525772,included_game_day
+2017,130,Michigan Wolverines,2017-03-05,156.45023418909076,included_game_day
+2017,130,Michigan Wolverines,2017-03-09,167.64822598466668,included_game_day
+2017,130,Michigan Wolverines,2017-03-10,170.19360555417506,included_game_day
+2017,130,Michigan Wolverines,2017-03-11,170.94231864567726,included_game_day
+2017,130,Michigan Wolverines,2017-03-12,183.86367647688746,included_game_day
+2017,130,Michigan Wolverines,2017-03-17,179.7829294596783,included_game_day
+2017,130,Michigan Wolverines,2017-03-19,181.99477687883834,included_game_day
+2017,130,Michigan Wolverines,2017-03-23,180.0605837572313,included_game_day
+2018,130,Michigan Wolverines,2017-11-11,14.1,included_game_day
+2018,130,Michigan Wolverines,2017-11-13,16.689999999999998,included_game_day
+2018,130,Michigan Wolverines,2017-11-16,26.020999999999997,included_game_day
+2018,130,Michigan Wolverines,2017-11-20,26.179899999999996,included_game_day
+2018,130,Michigan Wolverines,2017-11-22,33.296080999999994,included_game_day
+2018,130,Michigan Wolverines,2017-11-26,70.60947289999999,included_game_day
+2018,130,Michigan Wolverines,2017-11-29,58.066333599999986,included_game_day
+2018,130,Michigan Wolverines,2017-12-02,64.99421651999998,included_game_day
+2018,130,Michigan Wolverines,2017-12-04,57.249964445999986,included_game_day
+2018,130,Michigan Wolverines,2017-12-09,63.01263853739999,included_game_day
+2018,130,Michigan Wolverines,2017-12-12,74.10226546445999,included_game_day
+2018,130,Michigan Wolverines,2017-12-16,91.72056003946298,included_game_day
+2018,130,Michigan Wolverines,2017-12-21,115.59153522296911,included_game_day
+2018,130,Michigan Wolverines,2017-12-30,113.15665263164007,included_game_day
+2018,130,Michigan Wolverines,2018-01-02,120.1631863446723,included_game_day
+2018,130,Michigan Wolverines,2018-01-06,121.62703901217694,included_game_day
+2018,130,Michigan Wolverines,2018-01-09,125.44598503300195,included_game_day
+2018,130,Michigan Wolverines,2018-01-13,145.11130689802218,included_game_day
+2018,130,Michigan Wolverines,2018-01-15,137.42394973068915,included_game_day
+2018,130,Michigan Wolverines,2018-01-18,112.87932633192915,included_game_day
+2018,130,Michigan Wolverines,2018-01-21,118.30164114767629,included_game_day
+2018,130,Michigan Wolverines,2018-01-25,128.81789221257017,included_game_day
+2018,130,Michigan Wolverines,2018-01-29,131.26904877996094,included_game_day
+2018,130,Michigan Wolverines,2018-02-03,120.42577902268715,included_game_day
+2018,130,Michigan Wolverines,2018-02-06,110.17774211780696,included_game_day
+2018,130,Michigan Wolverines,2018-02-11,117.71410935515915,included_game_day
+2018,130,Michigan Wolverines,2018-02-14,122.18378957715316,included_game_day
+2018,130,Michigan Wolverines,2018-02-18,132.1950301197623,included_game_day
+2018,130,Michigan Wolverines,2018-02-21,146.38821515968365,included_game_day
+2018,130,Michigan Wolverines,2018-02-24,169.9134595656026,included_game_day
+2018,130,Michigan Wolverines,2018-03-01,163.92564305802185,included_game_day
+2018,130,Michigan Wolverines,2018-03-02,178.29381994161847,included_game_day
+2018,130,Michigan Wolverines,2018-03-03,188.7755179274069,included_game_day
+2018,130,Michigan Wolverines,2018-03-04,195.3601729602577,included_game_day
+2018,130,Michigan Wolverines,2018-03-15,199.12642792961046,included_game_day
+2018,130,Michigan Wolverines,2018-03-17,196.66493523151937,included_game_day
+2018,130,Michigan Wolverines,2018-03-22,215.3231545682397,included_game_day
+2018,130,Michigan Wolverines,2018-03-24,209.66233245668138,included_game_day
+2018,130,Michigan Wolverines,2018-03-31,213.25710451338836,included_game_day
+2018,130,Michigan Wolverines,2018-04-02,199.65151682665748,included_game_day
+2019,130,Michigan Wolverines,2018-11-06,16.0,included_game_day
+2019,130,Michigan Wolverines,2018-11-10,31.3,included_game_day
+2019,130,Michigan Wolverines,2018-11-14,62.97,included_game_day
+2019,130,Michigan Wolverines,2018-11-17,76.814,included_game_day
+2019,130,Michigan Wolverines,2018-11-18,89.81899999999999,included_game_day
+2019,130,Michigan Wolverines,2018-11-23,101.57097999999999,included_game_day
+2019,130,Michigan Wolverines,2018-11-28,117.3143209,included_game_day
+2019,130,Michigan Wolverines,2018-12-01,130.48087644,included_game_day
+2019,130,Michigan Wolverines,2018-12-04,128.6447812869,included_game_day
+2019,130,Michigan Wolverines,2018-12-08,124.19919106444001,included_game_day
+2019,130,Michigan Wolverines,2018-12-15,114.75876199288301,included_game_day
+2019,130,Michigan Wolverines,2018-12-22,116.9874385168367,included_game_day
+2019,130,Michigan Wolverines,2018-12-30,116.9027306775599,included_game_day
+2019,130,Michigan Wolverines,2019-01-03,120.54392871530132,included_game_day
+2019,130,Michigan Wolverines,2019-01-06,126.66387556430028,included_game_day
+2019,130,Michigan Wolverines,2019-01-10,128.56336046696202,included_game_day
+2019,130,Michigan Wolverines,2019-01-13,137.57919197212487,included_game_day
+2019,130,Michigan Wolverines,2019-01-19,126.39825961044465,included_game_day
+2019,130,Michigan Wolverines,2019-01-22,116.24720679493987,included_game_day
+2019,130,Michigan Wolverines,2019-01-25,137.28150262323283,included_game_day
+2019,130,Michigan Wolverines,2019-01-29,143.98187832965576,included_game_day
+2019,130,Michigan Wolverines,2019-02-01,127.00693454994654,included_game_day
+2019,130,Michigan Wolverines,2019-02-05,130.82148329676076,included_game_day
+2019,130,Michigan Wolverines,2019-02-09,137.27572873185005,included_game_day
+2019,130,Michigan Wolverines,2019-02-12,124.28818555356395,included_game_day
+2019,130,Michigan Wolverines,2019-02-16,135.49976972702748,included_game_day
+2019,130,Michigan Wolverines,2019-02-21,140.87958049358062,included_game_day
+2019,130,Michigan Wolverines,2019-02-24,133.69977143388425,included_game_day
+2019,130,Michigan Wolverines,2019-02-28,149.81685676557504,included_game_day
+2019,130,Michigan Wolverines,2019-03-03,155.74057244320855,included_game_day
+2019,130,Michigan Wolverines,2019-03-09,147.45238727271408,included_game_day
+2019,130,Michigan Wolverines,2019-03-15,159.89243346808422,included_game_day
+2019,130,Michigan Wolverines,2019-03-16,180.33659147832617,included_game_day
+2019,130,Michigan Wolverines,2019-03-17,174.61380388308658,included_game_day
+2019,130,Michigan Wolverines,2019-03-21,181.7556197332701,included_game_day
+2019,130,Michigan Wolverines,2019-03-23,190.69329666231346,included_game_day
+2019,130,Michigan Wolverines,2019-03-28,171.41890030176862,included_game_day
+2020,130,Michigan Wolverines,2019-11-05,5.0,included_game_day
+2020,130,Michigan Wolverines,2019-11-12,13.8,included_game_day
+2020,130,Michigan Wolverines,2019-11-15,27.46,included_game_day
+2020,130,Michigan Wolverines,2019-11-22,60.919000000000004,included_game_day
+2020,130,Michigan Wolverines,2019-11-27,67.82390000000001,included_game_day
+2020,130,Michigan Wolverines,2019-11-28,74.54788400000001,included_game_day
+2020,130,Michigan Wolverines,2019-11-29,97.44089642,included_game_day
+2020,130,Michigan Wolverines,2019-12-03,85.2129659461,included_game_day
+2020,130,Michigan Wolverines,2019-12-06,92.437805606066,included_game_day
+2020,130,Michigan Wolverines,2019-12-11,84.1885337140744,included_game_day
+2020,130,Michigan Wolverines,2019-12-14,80.13099926546695,included_game_day
+2020,130,Michigan Wolverines,2019-12-21,101.69931817564574,included_game_day
+2020,130,Michigan Wolverines,2019-12-29,111.87649162023386,included_game_day
+2020,130,Michigan Wolverines,2020-01-05,101.54491764054801,included_game_day
+2020,130,Michigan Wolverines,2020-01-09,102.32169200363352,included_game_day
+2020,130,Michigan Wolverines,2020-01-12,96.85862860757902,included_game_day
+2020,130,Michigan Wolverines,2020-01-17,95.20869030632365,included_game_day
+2020,130,Michigan Wolverines,2020-01-22,83.33781332765314,included_game_day
+2020,130,Michigan Wolverines,2020-01-25,81.66430800760622,included_game_day
+2020,130,Michigan Wolverines,2020-01-28,88.98653388414719,included_game_day
+2020,130,Michigan Wolverines,2020-02-01,96.71829630101163,included_game_day
+2020,130,Michigan Wolverines,2020-02-04,90.81381069806235,included_game_day
+2020,130,Michigan Wolverines,2020-02-08,102.6457078104762,included_game_day
+2020,130,Michigan Wolverines,2020-02-12,121.54709069315872,included_game_day
+2020,130,Michigan Wolverines,2020-02-16,137.66893997683488,included_game_day
+2020,130,Michigan Wolverines,2020-02-19,145.02778474620501,included_game_day
+2020,130,Michigan Wolverines,2020-02-22,152.27444152684328,included_game_day
+2020,130,Michigan Wolverines,2020-02-27,137.86198265976302,included_game_day
+2020,130,Michigan Wolverines,2020-03-01,125.11320869234356,included_game_day
+2020,130,Michigan Wolverines,2020-03-05,130.37971124687357,included_game_day
+2020,130,Michigan Wolverines,2020-03-08,117.09512925074435,included_game_day
+2021,130,Michigan Wolverines,2020-11-25,11.0,included_game_day
+2021,130,Michigan Wolverines,2020-11-29,9.17,included_game_day
+2021,130,Michigan Wolverines,2020-12-02,24.453,included_game_day
+2021,130,Michigan Wolverines,2020-12-06,41.3347,included_game_day
+2021,130,Michigan Wolverines,2020-12-09,58.43373,included_game_day
+2021,130,Michigan Wolverines,2020-12-13,56.844527639999995,included_game_day
+2021,130,Michigan Wolverines,2020-12-25,65.829330266,included_game_day
+2021,130,Michigan Wolverines,2020-12-31,79.594742727524,included_game_day
+2021,130,Michigan Wolverines,2021-01-03,93.7712356404883,included_game_day
+2021,130,Michigan Wolverines,2021-01-06,114.76190598456877,included_game_day
+2021,130,Michigan Wolverines,2021-01-12,133.60955291033383,included_game_day
+2021,130,Michigan Wolverines,2021-01-16,111.03272170566233,included_game_day
+2021,130,Michigan Wolverines,2021-01-19,125.32784737956314,included_game_day
+2021,130,Michigan Wolverines,2021-01-22,140.17804415271252,included_game_day
+2021,130,Michigan Wolverines,2021-02-14,144.90492635165864,included_game_day
+2021,130,Michigan Wolverines,2021-02-18,140.68521836468756,included_game_day
+2021,130,Michigan Wolverines,2021-02-21,147.51163049421956,included_game_day
+2021,130,Michigan Wolverines,2021-02-25,165.2581358842967,included_game_day
+2021,130,Michigan Wolverines,2021-02-27,171.0378977341618,included_game_day
+2021,130,Michigan Wolverines,2021-03-02,139.6393273939087,included_game_day
+2021,130,Michigan Wolverines,2021-03-04,144.51643595775462,included_game_day
+2021,130,Michigan Wolverines,2021-03-07,129.41812280883136,included_game_day
+2021,130,Michigan Wolverines,2021-03-12,135.8794412974254,included_game_day
+2021,130,Michigan Wolverines,2021-03-13,130.66700507066034,included_game_day
+2021,130,Michigan Wolverines,2021-03-20,137.01161112421434,included_game_day
+2021,130,Michigan Wolverines,2021-03-22,143.90974128710351,included_game_day
+2021,130,Michigan Wolverines,2021-03-28,159.7796881971055,included_game_day
+2021,130,Michigan Wolverines,2021-03-30,153.34745507199918,included_game_day
+2022,130,Michigan Wolverines,2021-11-10,9.0,included_game_day
+2022,130,Michigan Wolverines,2021-11-13,33.67,included_game_day
+2022,130,Michigan Wolverines,2021-11-16,32.477000000000004,included_game_day
+2022,130,Michigan Wolverines,2021-11-20,42.28830000000001,included_game_day
+2022,130,Michigan Wolverines,2021-11-21,31.061660000000007,included_game_day
+2022,130,Michigan Wolverines,2021-11-24,32.421684000000006,included_game_day
+2022,130,Michigan Wolverines,2021-12-01,13.396416800000004,included_game_day
+2022,130,Michigan Wolverines,2021-12-04,25.647579227130002,included_game_day
+2022,130,Michigan Wolverines,2021-12-07,63.110644042967,included_game_day
+2022,130,Michigan Wolverines,2021-12-11,48.2024844300153,included_game_day
+2022,130,Michigan Wolverines,2021-12-18,78.97779987866377,included_game_day
+2022,130,Michigan Wolverines,2021-12-30,66.5665576102912,included_game_day
+2022,130,Michigan Wolverines,2022-01-04,57.3411975411356,included_game_day
+2022,130,Michigan Wolverines,2022-01-14,54.64923270037283,included_game_day
+2022,130,Michigan Wolverines,2022-01-18,69.25372030783201,included_game_day
+2022,130,Michigan Wolverines,2022-01-23,93.39726724694115,included_game_day
+2022,130,Michigan Wolverines,2022-01-26,87.35646489100482,included_game_day
+2022,130,Michigan Wolverines,2022-01-29,75.80685279359925,included_game_day
+2022,130,Michigan Wolverines,2022-02-01,67.60071783281872,included_game_day
+2022,130,Michigan Wolverines,2022-02-05,73.47664088718044,included_game_day
+2022,130,Michigan Wolverines,2022-02-08,74.63422279447782,included_game_day
+2022,130,Michigan Wolverines,2022-02-10,104.37205043751064,included_game_day
+2022,130,Michigan Wolverines,2022-02-12,90.5232598437776,included_game_day
+2022,130,Michigan Wolverines,2022-02-17,102.30147841149667,included_game_day
+2022,130,Michigan Wolverines,2022-02-20,88.36627811532162,included_game_day
+2022,130,Michigan Wolverines,2022-02-23,94.46535604889061,included_game_day
+2022,130,Michigan Wolverines,2022-02-27,85.02114643083075,included_game_day
+2022,130,Michigan Wolverines,2022-03-01,97.0467969053933,included_game_day
+2022,130,Michigan Wolverines,2022-03-03,88.57117128800881,included_game_day
+2022,130,Michigan Wolverines,2022-03-06,97.30492999371408,included_game_day
+2022,130,Michigan Wolverines,2022-03-10,89.17617637410841,included_game_day
+2022,130,Michigan Wolverines,2022-03-17,101.34870007121143,included_game_day
+2022,130,Michigan Wolverines,2022-03-19,117.99702370214177,included_game_day
+2022,130,Michigan Wolverines,2022-03-24,113.0549256410356,included_game_day
+2023,130,Michigan Wolverines,2022-11-07,16.0,included_game_day
+2023,130,Michigan Wolverines,2022-11-11,19.4,included_game_day
+2023,130,Michigan Wolverines,2022-11-16,47.519999999999996,included_game_day
+2023,130,Michigan Wolverines,2022-11-17,19.254399999999997,included_game_day
+2023,130,Michigan Wolverines,2022-11-20,18.027959999999997,included_game_day
+2023,130,Michigan Wolverines,2022-11-23,22.110563999999997,included_game_day
+2023,130,Michigan Wolverines,2022-11-29,23.509627599999998,included_game_day
+2023,130,Michigan Wolverines,2022-12-04,25.766459367699998,included_game_day
+2023,130,Michigan Wolverines,2022-12-08,40.035985600418,included_game_day
+2023,130,Michigan Wolverines,2022-12-17,39.9305193345548,included_game_day
+2023,130,Michigan Wolverines,2022-12-21,39.99882360054508,included_game_day
+2023,130,Michigan Wolverines,2022-12-29,26.2753921683666,included_game_day
+2023,130,Michigan Wolverines,2023-01-01,65.24558665136595,included_game_day
+2023,130,Michigan Wolverines,2023-01-04,72.49581591987133,included_game_day
+2023,130,Michigan Wolverines,2023-01-07,68.11428455191282,included_game_day
+2023,130,Michigan Wolverines,2023-01-12,62.955538143785816,included_game_day
+2023,130,Michigan Wolverines,2023-01-15,68.98062403111068,included_game_day
+2023,130,Michigan Wolverines,2023-01-19,64.66555806387892,included_game_day
+2023,130,Michigan Wolverines,2023-01-22,56.93092539285652,included_game_day
+2023,130,Michigan Wolverines,2023-01-26,56.00129191777875,included_game_day
+2023,130,Michigan Wolverines,2023-01-29,37.05921725602761,included_game_day
+2023,130,Michigan Wolverines,2023-02-02,61.28034664535802,included_game_day
+2023,130,Michigan Wolverines,2023-02-05,66.9046318183211,included_game_day
+2023,130,Michigan Wolverines,2023-02-08,78.71905113407476,included_game_day
+2023,130,Michigan Wolverines,2023-02-11,78.07644758215375,included_game_day
+2023,130,Michigan Wolverines,2023-02-14,71.27110547890778,included_game_day
+2023,130,Michigan Wolverines,2023-02-18,82.9465383696875,included_game_day
+2023,130,Michigan Wolverines,2023-02-23,99.28006688666144,included_game_day
+2023,130,Michigan Wolverines,2023-02-26,99.49448524827869,included_game_day
+2023,130,Michigan Wolverines,2023-03-02,96.01862493150412,included_game_day
+2023,130,Michigan Wolverines,2023-03-05,95.59756194370901,included_game_day
+2023,130,Michigan Wolverines,2023-03-09,79.15389240738227,included_game_day
+2023,130,Michigan Wolverines,2023-03-14,87.99846120825887,included_game_day
+2023,130,Michigan Wolverines,2023-03-18,89.49698164709982,included_game_day
+2024,130,Michigan Wolverines,2023-11-07,22.0,included_game_day
+2024,130,Michigan Wolverines,2023-11-10,46.1,included_game_day
+2024,130,Michigan Wolverines,2023-11-13,61.79,included_game_day
+2024,130,Michigan Wolverines,2023-11-17,44.271,included_game_day
+2024,130,Michigan Wolverines,2023-11-22,39.8649,included_game_day
+2024,130,Michigan Wolverines,2023-11-23,42.876978,included_game_day
+2024,130,Michigan Wolverines,2023-11-24,24.0606133,included_game_day
+2024,130,Michigan Wolverines,2023-12-02,25.46882856,included_game_day
+2024,130,Michigan Wolverines,2023-12-05,20.0880598328,included_game_day
+2024,130,Michigan Wolverines,2023-12-10,35.916386106909,included_game_day
+2024,130,Michigan Wolverines,2023-12-16,40.985916450894706,included_game_day
+2024,130,Michigan Wolverines,2023-12-19,38.72088377198323,included_game_day
+2024,130,Michigan Wolverines,2023-12-29,25.303156424279706,included_game_day
+2024,130,Michigan Wolverines,2024-01-04,26.88663034463045,included_game_day
+2024,130,Michigan Wolverines,2024-01-07,20.011173587407967,included_game_day
+2024,130,Michigan Wolverines,2024-01-11,19.312933396556936,included_game_day
+2024,130,Michigan Wolverines,2024-01-15,29.938202666934302,included_game_day
+2024,130,Michigan Wolverines,2024-01-18,21.59930812873834,included_game_day
+2024,130,Michigan Wolverines,2024-01-23,6.890748946001072,included_game_day
+2024,130,Michigan Wolverines,2024-01-27,1.3767287491462579,included_game_day
+2024,130,Michigan Wolverines,2024-01-30,-2.960653236307559,included_game_day
+2024,130,Michigan Wolverines,2024-02-03,-14.76883732822393,included_game_day
+2024,130,Michigan Wolverines,2024-02-07,-1.4791822696153218,included_game_day
+2024,130,Michigan Wolverines,2024-02-10,-11.252074997899538,included_game_day
+2024,130,Michigan Wolverines,2024-02-13,-23.859435699264584,included_game_day
+2024,130,Michigan Wolverines,2024-02-17,-21.315718661327715,included_game_day
+2024,130,Michigan Wolverines,2024-02-22,-21.068766054202158,included_game_day
+2024,130,Michigan Wolverines,2024-02-25,-12.664183686592285,included_game_day
+2024,130,Michigan Wolverines,2024-02-29,-35.81792045703409,included_game_day
+2024,130,Michigan Wolverines,2024-03-03,-45.018486577495665,included_game_day
+2024,130,Michigan Wolverines,2024-03-10,-47.57533723858046,included_game_day
+2024,130,Michigan Wolverines,2024-03-13,-45.20373615159669,included_game_day
+2025,130,Michigan Wolverines,2024-11-04,45.0,included_game_day
+2025,130,Michigan Wolverines,2024-11-10,40.88,included_game_day
+2025,130,Michigan Wolverines,2024-11-15,50.761,included_game_day
+2025,130,Michigan Wolverines,2024-11-18,70.4799,included_game_day
+2025,130,Michigan Wolverines,2024-11-21,71.22433000000001,included_game_day
+2025,130,Michigan Wolverines,2024-11-25,76.16042800000001,included_game_day
+2025,130,Michigan Wolverines,2024-11-27,101.04527000000002,included_game_day
+2025,130,Michigan Wolverines,2024-12-03,104.76304888200002,included_game_day
+2025,130,Michigan Wolverines,2024-12-07,100.51452868740002,included_game_day
+2025,130,Michigan Wolverines,2024-12-10,97.20231171011902,included_game_day
+2025,130,Michigan Wolverines,2024-12-18,95.11435838822632,included_game_day
+2025,130,Michigan Wolverines,2024-12-22,116.89251472382175,included_game_day
+2025,130,Michigan Wolverines,2024-12-29,154.19597938666547,included_game_day
+2025,130,Michigan Wolverines,2025-01-04,160.29588024839893,included_game_day
+2025,130,Michigan Wolverines,2025-01-07,178.77234161560307,included_game_day
+2025,130,Michigan Wolverines,2025-01-12,176.65275360425363,included_game_day
+2025,130,Michigan Wolverines,2025-01-16,159.7433261106512,included_game_day
+2025,130,Michigan Wolverines,2025-01-19,152.89016953471676,included_game_day
+2025,130,Michigan Wolverines,2025-01-24,128.10756746752332,included_game_day
+2025,130,Michigan Wolverines,2025-01-27,124.93967483312062,included_game_day
+2025,130,Michigan Wolverines,2025-02-01,124.48584310005826,included_game_day
+2025,130,Michigan Wolverines,2025-02-05,118.73786904919228,included_game_day
+2025,130,Michigan Wolverines,2025-02-08,119.81713696226544,included_game_day
+2025,130,Michigan Wolverines,2025-02-11,123.9492934523677,included_game_day
+2025,130,Michigan Wolverines,2025-02-16,130.81141958155814,included_game_day
+2025,130,Michigan Wolverines,2025-02-21,117.80352993754796,included_game_day
+2025,130,Michigan Wolverines,2025-02-24,119.30069414568992,included_game_day
+2025,130,Michigan Wolverines,2025-02-27,112.52473234498954,included_game_day
+2025,130,Michigan Wolverines,2025-03-02,88.19772376760469,included_game_day
+2025,130,Michigan Wolverines,2025-03-05,87.00479349128442,included_game_day
+2025,130,Michigan Wolverines,2025-03-09,82.39616689358459,included_game_day
+2025,130,Michigan Wolverines,2025-03-14,106.5612904985648,included_game_day
+2025,130,Michigan Wolverines,2025-03-15,115.93931664297946,included_game_day
+2025,130,Michigan Wolverines,2025-03-16,127.14682202564317,included_game_day
+2025,130,Michigan Wolverines,2025-03-20,133.17889055743694,included_game_day
+2025,130,Michigan Wolverines,2025-03-22,145.1519107318805,included_game_day
+2025,130,Michigan Wolverines,2025-03-28,137.54993666075285,included_game_day
+2026,130,Michigan Wolverines,2025-11-03,40.0,included_game_day
+2026,130,Michigan Wolverines,2025-11-11,39.29,included_game_day
+2026,130,Michigan Wolverines,2025-11-14,45.917,included_game_day
+2026,130,Michigan Wolverines,2025-11-19,63.8453,included_game_day
+2026,130,Michigan Wolverines,2025-11-24,100.5909554,included_game_day
+2026,130,Michigan Wolverines,2025-11-25,129.57013586,included_game_day
+2026,130,Michigan Wolverines,2025-11-26,173.92844193399998,included_game_day
+2026,130,Michigan Wolverines,2025-12-06,194.35626211539997,included_game_day
+2026,130,Michigan Wolverines,2025-12-09,208.52610584880898,included_game_day
+2026,130,Michigan Wolverines,2025-12-13,208.12879974057807,included_game_day
+2026,130,Michigan Wolverines,2025-12-21,232.99361389742057,included_game_day
+2026,130,Michigan Wolverines,2025-12-29,256.9813998061029,included_game_day
+2026,130,Michigan Wolverines,2026-01-02,265.29626459951743,included_game_day
+2026,130,Michigan Wolverines,2026-01-06,244.37445681255525,included_game_day
+2026,130,Michigan Wolverines,2026-01-10,221.23897225075362,included_game_day
+2026,130,Michigan Wolverines,2026-01-14,221.40550956845513,included_game_day
+2026,130,Michigan Wolverines,2026-01-17,215.22881050671313,included_game_day
+2026,130,Michigan Wolverines,2026-01-20,214.08247204684423,included_game_day
+2026,130,Michigan Wolverines,2026-01-23,212.91438047754454,included_game_day
+2026,130,Michigan Wolverines,2026-01-27,209.9413654083756,included_game_day
+2026,130,Michigan Wolverines,2026-01-30,223.09197576217016,included_game_day
+2026,130,Michigan Wolverines,2026-02-05,237.61885893659192,included_game_day
+2026,130,Michigan Wolverines,2026-02-08,248.51618522990128,included_game_day
+2026,130,Michigan Wolverines,2026-02-11,242.6597780454837,included_game_day
+2026,130,Michigan Wolverines,2026-02-14,257.6793547544043,included_game_day
+2026,130,Michigan Wolverines,2026-02-17,263.65623127387914,included_game_day
+2026,130,Michigan Wolverines,2026-02-21,255.762085147763,included_game_day
+2026,130,Michigan Wolverines,2026-02-24,244.16053802024658,included_game_day
+2026,130,Michigan Wolverines,2026-02-27,258.3018745201747,included_game_day
+2026,130,Michigan Wolverines,2026-03-05,249.02433414012637,included_game_day
+2026,130,Michigan Wolverines,2026-03-08,247.18032567831742,included_game_day
+2026,130,Michigan Wolverines,2026-03-13,240.865545049557,included_game_day
+2026,130,Michigan Wolverines,2026-03-14,235.45361686145472,included_game_day
+2026,130,Michigan Wolverines,2026-03-15,221.79971255204697,included_game_day
+2026,130,Michigan Wolverines,2026-03-19,224.2910896107413,included_game_day
+2026,130,Michigan Wolverines,2026-03-21,237.3312181926173,included_game_day
+2026,130,Michigan Wolverines,2026-03-27,245.07715103250595,included_game_day
+2026,130,Michigan Wolverines,2026-03-29,272.5012886243737,included_game_day
+2026,130,Michigan Wolverines,2026-04-04,290.55686899277265,included_game_day
+2026,130,Michigan Wolverines,2026-04-06,286.71415981346286,included_game_day
+2027,130,Michigan Wolverines,2026-11-02,13.0,included_game_day
+2027,130,Michigan Wolverines,2026-11-06,7.4,included_game_day
+2027,130,Michigan Wolverines,2026-11-11,26.339999999999996,included_game_day
+2027,130,Michigan Wolverines,2026-11-15,66.923,included_game_day
+2027,130,Michigan Wolverines,2026-11-21,61.454832,included_game_day

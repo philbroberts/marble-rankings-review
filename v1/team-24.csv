@@ -1,0 +1,1242 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,24,Stanford,1987-11-27,-3.0,included_game_day
+1988,24,Stanford,1987-11-29,8.36,included_game_day
+1988,24,Stanford,1987-12-01,3.523999999999999,included_game_day
+1988,24,Stanford,1987-12-04,21.711599999999997,included_game_day
+1988,24,Stanford,1987-12-05,29.34444,included_game_day
+1988,24,Stanford,1987-12-12,31.851736,included_game_day
+1988,24,Stanford,1987-12-18,57.0818204,included_game_day
+1988,24,Stanford,1987-12-21,66.57971506,included_game_day
+1988,24,Stanford,1987-12-23,66.6038427326,included_game_day
+1988,24,Stanford,1987-12-28,73.118920960657,included_game_day
+1988,24,Stanford,1987-12-29,63.895835037334294,included_game_day
+1988,24,Stanford,1988-01-07,38.23268278655668,included_game_day
+1988,24,Stanford,1988-01-09,29.092920848230897,included_game_day
+1988,24,Stanford,1988-01-14,33.20968017704402,included_game_day
+1988,24,Stanford,1988-01-16,25.120559945640533,included_game_day
+1988,24,Stanford,1988-01-23,29.171653640767317,included_game_day
+1988,24,Stanford,1988-01-28,44.772032076657155,included_game_day
+1988,24,Stanford,1988-01-30,29.88161181654856,included_game_day
+1988,24,Stanford,1988-02-04,53.448614060703235,included_game_day
+1988,24,Stanford,1988-02-06,80.19383373786664,included_game_day
+1988,24,Stanford,1988-02-11,75.90395130635176,included_game_day
+1988,24,Stanford,1988-02-13,64.99558179283136,included_game_day
+1988,24,Stanford,1988-02-20,66.14452199405605,included_game_day
+1988,24,Stanford,1988-02-25,80.50500869509466,included_game_day
+1988,24,Stanford,1988-02-27,73.6799876546383,included_game_day
+1988,24,Stanford,1988-03-03,54.5682517876287,included_game_day
+1988,24,Stanford,1988-03-05,51.82653106063231,included_game_day
+1988,24,Stanford,1988-03-11,67.89574167100639,included_game_day
+1988,24,Stanford,1988-03-12,70.30288245145181,included_game_day
+1988,24,Stanford,1988-03-17,64.94861170773797,included_game_day
+1988,24,Stanford,1988-03-21,58.394577291689075,included_game_day
+1989,24,Stanford,1988-11-18,19.0,included_game_day
+1989,24,Stanford,1988-11-20,12.3,included_game_day
+1989,24,Stanford,1988-11-28,6.176585000000001,included_game_day
+1989,24,Stanford,1988-12-02,45.968691500000006,included_game_day
+1989,24,Stanford,1988-12-03,52.776422350000004,included_game_day
+1989,24,Stanford,1988-12-10,93.647380115,included_game_day
+1989,24,Stanford,1988-12-17,114.56663210350001,included_game_day
+1989,24,Stanford,1988-12-23,107.35336143284852,included_game_day
+1989,24,Stanford,1988-12-27,112.46623011792155,included_game_day
+1989,24,Stanford,1988-12-29,114.88939603982939,included_game_day
+1989,24,Stanford,1988-12-30,132.2746528078019,included_game_day
+1989,24,Stanford,1989-01-05,133.31639881756792,included_game_day
+1989,24,Stanford,1989-01-07,148.2497436095125,included_game_day
+1989,24,Stanford,1989-01-12,132.6043836209771,included_game_day
+1989,24,Stanford,1989-01-14,166.50705376306482,included_game_day
+1989,24,Stanford,1989-01-16,184.20236614357873,included_game_day
+1989,24,Stanford,1989-01-19,165.76274962157518,included_game_day
+1989,24,Stanford,1989-01-21,161.33467536302172,included_game_day
+1989,24,Stanford,1989-01-26,161.9621022301799,included_game_day
+1989,24,Stanford,1989-01-29,146.22208698011426,included_game_day
+1989,24,Stanford,1989-02-02,147.81308828738068,included_game_day
+1989,24,Stanford,1989-02-04,152.33197701449777,included_game_day
+1989,24,Stanford,1989-02-09,143.28112855842534,included_game_day
+1989,24,Stanford,1989-02-12,134.23059223700636,included_game_day
+1989,24,Stanford,1989-02-16,150.81257712689202,included_game_day
+1989,24,Stanford,1989-02-20,154.8587318693105,included_game_day
+1989,24,Stanford,1989-02-23,143.40227499401118,included_game_day
+1989,24,Stanford,1989-02-25,145.43722078649566,included_game_day
+1989,24,Stanford,1989-03-02,135.25417151695447,included_game_day
+1989,24,Stanford,1989-03-10,127.39581674112901,included_game_day
+1989,24,Stanford,1989-03-11,131.99885747292996,included_game_day
+1989,24,Stanford,1989-03-12,118.48062068577305,included_game_day
+1989,24,Stanford,1989-03-16,117.94718912735271,included_game_day
+1990,24,Stanford,1989-11-27,15.5,included_game_day
+1990,24,Stanford,1989-12-01,32.97,included_game_day
+1990,24,Stanford,1989-12-02,30.892,included_game_day
+1990,24,Stanford,1989-12-16,43.7654858,included_game_day
+1990,24,Stanford,1989-12-18,56.633097539000005,included_game_day
+1990,24,Stanford,1989-12-22,49.09755348510001,included_game_day
+1990,24,Stanford,1989-12-29,59.43319026137001,included_game_day
+1990,24,Stanford,1989-12-30,48.24272474306916,included_game_day
+1990,24,Stanford,1990-01-05,46.86105231496664,included_game_day
+1990,24,Stanford,1990-01-07,39.254449871340626,included_game_day
+1990,24,Stanford,1990-01-11,26.25351733355241,included_game_day
+1990,24,Stanford,1990-01-14,47.18938983096887,included_game_day
+1990,24,Stanford,1990-01-18,56.56187593547552,included_game_day
+1990,24,Stanford,1990-01-21,62.11139827337779,included_game_day
+1990,24,Stanford,1990-01-25,63.1968029936407,included_game_day
+1990,24,Stanford,1990-01-27,52.37452068923197,included_game_day
+1990,24,Stanford,1990-02-01,51.09439151402458,included_game_day
+1990,24,Stanford,1990-02-03,44.02496392828819,included_game_day
+1990,24,Stanford,1990-02-08,46.49452947752695,included_game_day
+1990,24,Stanford,1990-02-11,48.514491107225865,included_game_day
+1990,24,Stanford,1990-02-15,40.58065992926645,included_game_day
+1990,24,Stanford,1990-02-18,48.97303720993131,included_game_day
+1990,24,Stanford,1990-02-23,38.28170972950618,included_game_day
+1990,24,Stanford,1990-02-25,45.170197799380375,included_game_day
+1990,24,Stanford,1990-02-28,41.537192476149116,included_game_day
+1990,24,Stanford,1990-03-04,68.6307882175641,included_game_day
+1990,24,Stanford,1990-03-09,82.3056648106961,included_game_day
+1990,24,Stanford,1990-03-10,70.7414259008841,included_game_day
+1990,24,Stanford,1990-03-15,60.2902971502015,included_game_day
+1991,24,Stanford,1990-11-23,24.0,included_game_day
+1991,24,Stanford,1990-11-24,36.7,included_game_day
+1991,24,Stanford,1990-11-30,19.190000000000005,included_game_day
+1991,24,Stanford,1990-12-01,43.391000000000005,included_game_day
+1991,24,Stanford,1990-12-15,72.23909864187,included_game_day
+1991,24,Stanford,1990-12-19,87.754077265683,included_game_day
+1991,24,Stanford,1990-12-21,90.0256039092527,included_game_day
+1991,24,Stanford,1990-12-23,78.19639227602742,included_game_day
+1991,24,Stanford,1990-12-29,84.57073697046468,included_game_day
+1991,24,Stanford,1990-12-30,75.98748820239828,included_game_day
+1991,24,Stanford,1991-01-03,65.99237121054678,included_game_day
+1991,24,Stanford,1991-01-06,60.630875666361135,included_game_day
+1991,24,Stanford,1991-01-10,89.05323889886259,included_game_day
+1991,24,Stanford,1991-01-12,111.88800580737593,included_game_day
+1991,24,Stanford,1991-01-16,122.99122859854074,included_game_day
+1991,24,Stanford,1991-01-19,101.70217071945117,included_game_day
+1991,24,Stanford,1991-01-24,99.21338585560436,included_game_day
+1991,24,Stanford,1991-01-26,82.11118155411933,included_game_day
+1991,24,Stanford,1991-01-31,84.73712817613816,included_game_day
+1991,24,Stanford,1991-02-02,81.89440775798259,included_game_day
+1991,24,Stanford,1991-02-07,75.41461843565583,included_game_day
+1991,24,Stanford,1991-02-10,69.92700495414948,included_game_day
+1991,24,Stanford,1991-02-14,83.44035983370999,included_game_day
+1991,24,Stanford,1991-02-16,81.39434357925452,included_game_day
+1991,24,Stanford,1991-02-21,64.74151678169962,included_game_day
+1991,24,Stanford,1991-02-26,56.56467954560442,included_game_day
+1991,24,Stanford,1991-03-02,67.93062885158807,included_game_day
+1991,24,Stanford,1991-03-07,60.51775582421783,included_game_day
+1991,24,Stanford,1991-03-13,64.4360097965541,included_game_day
+1991,24,Stanford,1991-03-18,74.06513971023278,included_game_day
+1991,24,Stanford,1991-03-21,88.43173518170018,included_game_day
+1991,24,Stanford,1991-03-25,87.79298249594251,included_game_day
+1991,24,Stanford,1991-03-27,95.47980352982826,included_game_day
+1992,24,Stanford,1991-11-22,39.0,included_game_day
+1992,24,Stanford,1991-11-23,37.0,included_game_day
+1992,24,Stanford,1991-11-30,44.0,included_game_day
+1992,24,Stanford,1991-12-14,56.600335,included_game_day
+1992,24,Stanford,1991-12-21,66.7006666,included_game_day
+1992,24,Stanford,1991-12-27,82.6429162032625,included_game_day
+1992,24,Stanford,1991-12-28,75.08224788374025,included_game_day
+1992,24,Stanford,1992-01-02,88.64839628935182,included_game_day
+1992,24,Stanford,1992-01-04,90.14712051639182,included_game_day
+1992,24,Stanford,1992-01-09,89.1466914826202,included_game_day
+1992,24,Stanford,1992-01-11,100.72184280440021,included_game_day
+1992,24,Stanford,1992-01-18,104.96208611443168,included_game_day
+1992,24,Stanford,1992-01-23,86.97511488512292,included_game_day
+1992,24,Stanford,1992-01-25,82.17372876982343,included_game_day
+1992,24,Stanford,1992-01-30,80.12495338282595,included_game_day
+1992,24,Stanford,1992-02-02,78.20938682902197,included_game_day
+1992,24,Stanford,1992-02-06,85.68562201749565,included_game_day
+1992,24,Stanford,1992-02-08,86.30967555747577,included_game_day
+1992,24,Stanford,1992-02-11,80.98691698157918,included_game_day
+1992,24,Stanford,1992-02-15,104.28799649895774,included_game_day
+1992,24,Stanford,1992-02-20,84.06264468276308,included_game_day
+1992,24,Stanford,1992-02-22,83.85538823964755,included_game_day
+1992,24,Stanford,1992-02-27,81.78626690436677,included_game_day
+1992,24,Stanford,1992-03-01,92.76926711345169,included_game_day
+1992,24,Stanford,1992-03-05,83.7322295317833,included_game_day
+1992,24,Stanford,1992-03-07,92.50657899063451,included_game_day
+1992,24,Stanford,1992-03-12,93.60258938103672,included_game_day
+1992,24,Stanford,1992-03-14,104.37304367387999,included_game_day
+1992,24,Stanford,1992-03-19,95.75725496049533,included_game_day
+1993,24,Stanford,1992-12-03,-2.8,included_game_day
+1993,24,Stanford,1992-12-05,-22.62,included_game_day
+1993,24,Stanford,1992-12-12,3.825099999999999,included_game_day
+1993,24,Stanford,1992-12-19,19.7896097,included_game_day
+1993,24,Stanford,1992-12-21,16.01315873,included_game_day
+1993,24,Stanford,1992-12-22,7.569971736000001,included_game_day
+1993,24,Stanford,1992-12-28,3.5587091624000013,included_game_day
+1993,24,Stanford,1992-12-29,-5.994984077670198,included_game_day
+1993,24,Stanford,1993-01-02,20.856717815681826,included_game_day
+1993,24,Stanford,1993-01-07,5.682128430732224,included_game_day
+1993,24,Stanford,1993-01-09,6.3501383807660705,included_game_day
+1993,24,Stanford,1993-01-12,-5.336235525288888,included_game_day
+1993,24,Stanford,1993-01-14,-15.593527422697212,included_game_day
+1993,24,Stanford,1993-01-21,-14.474524200977125,included_game_day
+1993,24,Stanford,1993-01-23,-13.556988143683396,included_game_day
+1993,24,Stanford,1993-01-28,-16.440658090701536,included_game_day
+1993,24,Stanford,1993-01-30,-17.342451385153783,included_game_day
+1993,24,Stanford,1993-02-04,-35.46767091655654,included_game_day
+1993,24,Stanford,1993-02-06,-46.4230527808419,included_game_day
+1993,24,Stanford,1993-02-14,-63.32304787392026,included_game_day
+1993,24,Stanford,1993-02-18,-66.95247184912652,included_game_day
+1993,24,Stanford,1993-02-20,-45.110782776287756,included_game_day
+1993,24,Stanford,1993-02-25,-40.79255949425419,included_game_day
+1993,24,Stanford,1993-02-27,-60.227167742131044,included_game_day
+1993,24,Stanford,1993-03-04,-55.93434910243549,included_game_day
+1993,24,Stanford,1993-03-07,-51.21836583652511,included_game_day
+1993,24,Stanford,1993-03-11,-58.519533423910985,included_game_day
+1993,24,Stanford,1993-03-13,-65.38654803473753,included_game_day
+1994,24,Stanford,1993-11-26,28.0,included_game_day
+1994,24,Stanford,1993-11-27,34.3,included_game_day
+1994,24,Stanford,1993-12-11,47.490399999999994,included_game_day
+1994,24,Stanford,1993-12-20,52.471271331299995,included_game_day
+1994,24,Stanford,1993-12-22,55.04666290816999,included_game_day
+1994,24,Stanford,1993-12-27,54.95013396077599,included_game_day
+1994,24,Stanford,1993-12-29,68.13033020053939,included_game_day
+1994,24,Stanford,1993-12-30,63.591260101242455,included_game_day
+1994,24,Stanford,1994-01-06,53.97115731759506,included_game_day
+1994,24,Stanford,1994-01-08,60.22239592413061,included_game_day
+1994,24,Stanford,1994-01-13,48.64148020150225,included_game_day
+1994,24,Stanford,1994-01-15,42.41567936262379,included_game_day
+1994,24,Stanford,1994-01-20,52.220992351777966,included_game_day
+1994,24,Stanford,1994-01-27,54.49205848541943,included_game_day
+1994,24,Stanford,1994-01-29,54.88079289924969,included_game_day
+1994,24,Stanford,1994-02-03,53.5062257049658,included_game_day
+1994,24,Stanford,1994-02-05,50.476920300532925,included_game_day
+1994,24,Stanford,1994-02-10,38.34675804828206,included_game_day
+1994,24,Stanford,1994-02-12,33.97672569997672,included_game_day
+1994,24,Stanford,1994-02-17,25.022420650671883,included_game_day
+1994,24,Stanford,1994-02-24,36.67374084486345,included_game_day
+1994,24,Stanford,1994-02-26,29.564968639698336,included_game_day
+1994,24,Stanford,1994-03-03,39.24707926684977,included_game_day
+1994,24,Stanford,1994-03-05,43.388612363001045,included_game_day
+1994,24,Stanford,1994-03-10,44.26466694061494,included_game_day
+1994,24,Stanford,1994-03-12,54.083593879950755,included_game_day
+1994,24,Stanford,1994-03-17,47.82397798931732,included_game_day
+1995,24,Stanford,1994-11-25,9.0,included_game_day
+1995,24,Stanford,1994-11-26,14.3,included_game_day
+1995,24,Stanford,1994-12-03,24.17,included_game_day
+1995,24,Stanford,1994-12-10,51.683662,included_game_day
+1995,24,Stanford,1994-12-16,79.40017721999999,included_game_day
+1995,24,Stanford,1994-12-19,94.03150952399999,included_game_day
+1995,24,Stanford,1994-12-22,103.32266156802999,included_game_day
+1995,24,Stanford,1994-12-27,111.14090215534699,included_game_day
+1995,24,Stanford,1994-12-29,105.8503560241123,included_game_day
+1995,24,Stanford,1995-01-05,112.93919701712427,included_game_day
+1995,24,Stanford,1995-01-07,96.63094318067266,included_game_day
+1995,24,Stanford,1995-01-12,109.44391245383876,included_game_day
+1995,24,Stanford,1995-01-14,101.08846720340284,included_game_day
+1995,24,Stanford,1995-01-19,105.42362207081659,included_game_day
+1995,24,Stanford,1995-01-26,108.35984505764455,included_game_day
+1995,24,Stanford,1995-01-28,103.11702755412043,included_game_day
+1995,24,Stanford,1995-02-02,100.62193177372292,included_game_day
+1995,24,Stanford,1995-02-04,101.8982621688029,included_game_day
+1995,24,Stanford,1995-02-09,97.49060152389347,included_game_day
+1995,24,Stanford,1995-02-11,91.45120674414586,included_game_day
+1995,24,Stanford,1995-02-15,98.02504403181563,included_game_day
+1995,24,Stanford,1995-02-21,88.66419466703171,included_game_day
+1995,24,Stanford,1995-02-23,88.62079580026155,included_game_day
+1995,24,Stanford,1995-03-02,60.24926120537657,included_game_day
+1995,24,Stanford,1995-03-04,55.716234020270115,included_game_day
+1995,24,Stanford,1995-03-09,62.27343612144024,included_game_day
+1995,24,Stanford,1995-03-11,63.03339449935274,included_game_day
+1995,24,Stanford,1995-03-17,64.87289486948697,included_game_day
+1995,24,Stanford,1995-03-19,54.19044812564668,included_game_day
+1996,24,Stanford,1995-11-24,29.0,included_game_day
+1996,24,Stanford,1995-11-25,36.3,included_game_day
+1996,24,Stanford,1995-11-28,31.069999999999997,included_game_day
+1996,24,Stanford,1995-12-01,43.212999999999994,included_game_day
+1996,24,Stanford,1995-12-02,22.495189999999994,included_game_day
+1996,24,Stanford,1995-12-22,39.761551,included_game_day
+1996,24,Stanford,1995-12-28,60.5366357029,included_game_day
+1996,24,Stanford,1995-12-30,57.81107350336,included_game_day
+1996,24,Stanford,1996-01-04,62.82403159643498,included_game_day
+1996,24,Stanford,1996-01-06,70.15328749352759,included_game_day
+1996,24,Stanford,1996-01-11,67.75508074073105,included_game_day
+1996,24,Stanford,1996-01-14,61.28116493041206,included_game_day
+1996,24,Stanford,1996-01-18,74.20719035026268,included_game_day
+1996,24,Stanford,1996-01-20,91.61325596510117,included_game_day
+1996,24,Stanford,1996-01-25,88.10498291632622,included_game_day
+1996,24,Stanford,1996-01-27,96.94345603151383,included_game_day
+1996,24,Stanford,1996-01-31,107.04766935517065,included_game_day
+1996,24,Stanford,1996-02-04,122.94832763702958,included_game_day
+1996,24,Stanford,1996-02-08,135.50940687350885,included_game_day
+1996,24,Stanford,1996-02-10,130.103894573214,included_game_day
+1996,24,Stanford,1996-02-15,127.7337379199177,included_game_day
+1996,24,Stanford,1996-02-17,119.12840657986139,included_game_day
+1996,24,Stanford,1996-02-22,100.07141744247932,included_game_day
+1996,24,Stanford,1996-02-24,104.76932624766022,included_game_day
+1996,24,Stanford,1996-03-03,88.04819854287878,included_game_day
+1996,24,Stanford,1996-03-07,100.39919790197831,included_game_day
+1996,24,Stanford,1996-03-09,104.28955225213326,included_game_day
+1996,24,Stanford,1996-03-14,107.26476366516299,included_game_day
+1996,24,Stanford,1996-03-16,107.24417311139413,included_game_day
+1997,24,Stanford,1996-11-27,35.1,included_game_day
+1997,24,Stanford,1996-11-29,30.32,included_game_day
+1997,24,Stanford,1996-12-07,51.477000000000004,included_game_day
+1997,24,Stanford,1996-12-14,53.44264356,included_game_day
+1997,24,Stanford,1996-12-22,52.689019435,included_game_day
+1997,24,Stanford,1996-12-28,59.053991981302,included_game_day
+1997,24,Stanford,1997-01-02,72.83802281867312,included_game_day
+1997,24,Stanford,1997-01-04,80.37998039033762,included_game_day
+1997,24,Stanford,1997-01-09,124.2042893193375,included_game_day
+1997,24,Stanford,1997-01-11,133.04628055226956,included_game_day
+1997,24,Stanford,1997-01-16,134.53320061569738,included_game_day
+1997,24,Stanford,1997-01-18,113.14482720977279,included_game_day
+1997,24,Stanford,1997-01-23,114.97557399534361,included_game_day
+1997,24,Stanford,1997-01-25,125.4982110140785,included_game_day
+1997,24,Stanford,1997-01-29,120.80101562454777,included_game_day
+1997,24,Stanford,1997-02-06,117.00575441593419,included_game_day
+1997,24,Stanford,1997-02-08,96.81322720308907,included_game_day
+1997,24,Stanford,1997-02-13,115.2223732175059,included_game_day
+1997,24,Stanford,1997-02-15,129.84076073263017,included_game_day
+1997,24,Stanford,1997-02-20,132.74277863308376,included_game_day
+1997,24,Stanford,1997-02-22,113.45246497149543,included_game_day
+1997,24,Stanford,1997-02-24,143.2792116232617,included_game_day
+1997,24,Stanford,1997-03-01,146.9165657265333,included_game_day
+1997,24,Stanford,1997-03-06,144.89888401733955,included_game_day
+1997,24,Stanford,1997-03-08,147.34451345587536,included_game_day
+1997,24,Stanford,1997-03-14,156.1049338693961,included_game_day
+1997,24,Stanford,1997-03-16,160.3454955766367,included_game_day
+1997,24,Stanford,1997-03-20,156.4105851306894,included_game_day
+1998,24,Stanford,1997-11-18,27.0,included_game_day
+1998,24,Stanford,1997-11-29,28.7993,included_game_day
+1998,24,Stanford,1997-11-30,40.4675509,included_game_day
+1998,24,Stanford,1997-12-06,47.22177381,included_game_day
+1998,24,Stanford,1997-12-16,66.160475858,included_game_day
+1998,24,Stanford,1997-12-19,66.83179962159,included_game_day
+1998,24,Stanford,1997-12-22,86.44696850545749,included_game_day
+1998,24,Stanford,1997-12-27,125.19768042746774,included_game_day
+1998,24,Stanford,1997-12-29,118.81427602903318,included_game_day
+1998,24,Stanford,1997-12-30,121.68022760018313,included_game_day
+1998,24,Stanford,1998-01-03,138.40394400544844,included_game_day
+1998,24,Stanford,1998-01-05,150.97922704897545,included_game_day
+1998,24,Stanford,1998-01-10,144.09053115848096,included_game_day
+1998,24,Stanford,1998-01-15,164.78305028951058,included_game_day
+1998,24,Stanford,1998-01-17,165.18411883230414,included_game_day
+1998,24,Stanford,1998-01-22,165.97845403958053,included_game_day
+1998,24,Stanford,1998-01-24,160.38473761662283,included_game_day
+1998,24,Stanford,1998-01-29,142.40887791747636,included_game_day
+1998,24,Stanford,1998-01-31,124.3734412416745,included_game_day
+1998,24,Stanford,1998-02-04,121.40383140492796,included_game_day
+1998,24,Stanford,1998-02-07,107.13745430758281,included_game_day
+1998,24,Stanford,1998-02-12,110.03433629534044,included_game_day
+1998,24,Stanford,1998-02-14,120.47988294168613,included_game_day
+1998,24,Stanford,1998-02-19,132.97365635719467,included_game_day
+1998,24,Stanford,1998-02-21,133.63890546895786,included_game_day
+1998,24,Stanford,1998-02-26,141.1427996800049,included_game_day
+1998,24,Stanford,1998-02-28,116.22654530246875,included_game_day
+1998,24,Stanford,1998-03-05,134.61084433431142,included_game_day
+1998,24,Stanford,1998-03-07,127.48764355837852,included_game_day
+1998,24,Stanford,1998-03-13,133.74193308594005,included_game_day
+1998,24,Stanford,1998-03-15,146.47737073357098,included_game_day
+1998,24,Stanford,1998-03-20,157.50079658048125,included_game_day
+1998,24,Stanford,1998-03-22,156.42584604953305,included_game_day
+1998,24,Stanford,1998-03-28,163.20236698006767,included_game_day
+1999,24,Stanford,1998-11-16,32.0,included_game_day
+1999,24,Stanford,1998-11-20,53.4,included_game_day
+1999,24,Stanford,1998-11-25,58.48368,included_game_day
+1999,24,Stanford,1998-11-27,50.277866,included_game_day
+1999,24,Stanford,1998-12-06,59.846897420000005,included_game_day
+1999,24,Stanford,1998-12-07,73.453041617,included_game_day
+1999,24,Stanford,1998-12-17,112.80898481298,included_game_day
+1999,24,Stanford,1998-12-19,115.878072516302,included_game_day
+1999,24,Stanford,1998-12-22,146.013016845154,included_game_day
+1999,24,Stanford,1998-12-29,144.8716934330552,included_game_day
+1999,24,Stanford,1999-01-02,145.4027650841453,included_game_day
+1999,24,Stanford,1999-01-04,154.57181263989466,included_game_day
+1999,24,Stanford,1999-01-09,152.22532250837236,included_game_day
+1999,24,Stanford,1999-01-14,162.65855118155272,included_game_day
+1999,24,Stanford,1999-01-16,170.11908054124262,included_game_day
+1999,24,Stanford,1999-01-21,200.63746966887896,included_game_day
+1999,24,Stanford,1999-01-23,192.84241019719246,included_game_day
+1999,24,Stanford,1999-01-28,183.9183080172996,included_game_day
+1999,24,Stanford,1999-01-30,183.8987498971092,included_game_day
+1999,24,Stanford,1999-02-03,175.29762753923768,included_game_day
+1999,24,Stanford,1999-02-06,160.9181676135467,included_game_day
+1999,24,Stanford,1999-02-11,155.14477736666703,included_game_day
+1999,24,Stanford,1999-02-13,136.1169153198704,included_game_day
+1999,24,Stanford,1999-02-18,166.54171824205895,included_game_day
+1999,24,Stanford,1999-02-20,158.61717470635443,included_game_day
+1999,24,Stanford,1999-02-25,156.66968246678937,included_game_day
+1999,24,Stanford,1999-02-27,161.5068672952419,included_game_day
+1999,24,Stanford,1999-03-04,167.74434809293655,included_game_day
+1999,24,Stanford,1999-03-06,140.07993363582995,included_game_day
+1999,24,Stanford,1999-03-11,144.87775704541292,included_game_day
+1999,24,Stanford,1999-03-13,135.88311962767673,included_game_day
+2000,24,Stanford,1999-11-11,1.0,included_game_day
+2000,24,Stanford,1999-11-12,15.1,included_game_day
+2000,24,Stanford,1999-11-20,29.59,included_game_day
+2000,24,Stanford,1999-11-27,41.201,included_game_day
+2000,24,Stanford,1999-12-11,44.504254106,included_game_day
+2000,24,Stanford,1999-12-16,63.7301656024,included_game_day
+2000,24,Stanford,1999-12-18,74.96705634786,included_game_day
+2000,24,Stanford,1999-12-21,93.980629875984,included_game_day
+2000,24,Stanford,1999-12-29,129.4104550000346,included_game_day
+2000,24,Stanford,1999-12-30,134.6473837796268,included_game_day
+2000,24,Stanford,2000-01-06,142.13330195749032,included_game_day
+2000,24,Stanford,2000-01-08,132.37080869791023,included_game_day
+2000,24,Stanford,2000-01-13,151.73037054427476,included_game_day
+2000,24,Stanford,2000-01-15,165.07225520435492,included_game_day
+2000,24,Stanford,2000-01-22,166.67236944663284,included_game_day
+2000,24,Stanford,2000-01-27,176.46127746848924,included_game_day
+2000,24,Stanford,2000-01-29,176.1369422358265,included_game_day
+2000,24,Stanford,2000-02-03,184.0543833046236,included_game_day
+2000,24,Stanford,2000-02-05,189.77754386122228,included_game_day
+2000,24,Stanford,2000-02-10,193.77685905781573,included_game_day
+2000,24,Stanford,2000-02-12,198.02426818254764,included_game_day
+2000,24,Stanford,2000-02-19,232.2996749761847,included_game_day
+2000,24,Stanford,2000-02-24,243.8364961936401,included_game_day
+2000,24,Stanford,2000-02-26,245.72489534648693,included_game_day
+2000,24,Stanford,2000-03-02,269.13937486597104,included_game_day
+2000,24,Stanford,2000-03-04,244.88251893837426,included_game_day
+2000,24,Stanford,2000-03-09,229.7773105492302,included_game_day
+2000,24,Stanford,2000-03-11,226.1917500676194,included_game_day
+2000,24,Stanford,2000-03-17,222.899814133519,included_game_day
+2000,24,Stanford,2000-03-19,203.29175568571924,included_game_day
+2001,24,Stanford,2000-11-23,24.27,included_game_day
+2001,24,Stanford,2000-11-24,44.233599999999996,included_game_day
+2001,24,Stanford,2000-11-25,54.004439999999995,included_game_day
+2001,24,Stanford,2000-12-02,74.04137499999999,included_game_day
+2001,24,Stanford,2000-12-18,96.62409458648798,included_game_day
+2001,24,Stanford,2000-12-19,104.04456389179919,included_game_day
+2001,24,Stanford,2000-12-21,112.26412757268636,included_game_day
+2001,24,Stanford,2000-12-29,124.38646198477123,included_game_day
+2001,24,Stanford,2000-12-30,126.07718276496696,included_game_day
+2001,24,Stanford,2001-01-04,143.22335665679145,included_game_day
+2001,24,Stanford,2001-01-06,149.7926450649803,included_game_day
+2001,24,Stanford,2001-01-11,157.63871562719072,included_game_day
+2001,24,Stanford,2001-01-13,170.73361024893256,included_game_day
+2001,24,Stanford,2001-01-17,187.77960908420445,included_game_day
+2001,24,Stanford,2001-01-20,202.12013086999835,included_game_day
+2001,24,Stanford,2001-01-25,212.8734439404341,included_game_day
+2001,24,Stanford,2001-01-27,204.07716889945547,included_game_day
+2001,24,Stanford,2001-02-01,196.87942887651056,included_game_day
+2001,24,Stanford,2001-02-03,174.73560544906564,included_game_day
+2001,24,Stanford,2001-02-08,171.14362044605195,included_game_day
+2001,24,Stanford,2001-02-10,172.04339924398744,included_game_day
+2001,24,Stanford,2001-02-17,200.14004000575432,included_game_day
+2001,24,Stanford,2001-02-22,186.800708684283,included_game_day
+2001,24,Stanford,2001-02-24,177.66978211052182,included_game_day
+2001,24,Stanford,2001-03-01,170.85253455836627,included_game_day
+2001,24,Stanford,2001-03-03,173.6649629072315,included_game_day
+2001,24,Stanford,2001-03-08,174.85971211760474,included_game_day
+2001,24,Stanford,2001-03-10,181.97051991384626,included_game_day
+2001,24,Stanford,2001-03-15,193.55448980999137,included_game_day
+2001,24,Stanford,2001-03-17,190.01285155432092,included_game_day
+2001,24,Stanford,2001-03-22,199.6579367110733,included_game_day
+2001,24,Stanford,2001-03-24,187.79192665473485,included_game_day
+2002,24,Stanford Cardinal,2001-11-17,18.0,included_game_day
+2002,24,Stanford Cardinal,2001-11-20,31.2,included_game_day
+2002,24,Stanford Cardinal,2001-11-24,48.004,included_game_day
+2002,24,Stanford Cardinal,2001-12-01,37.5483,included_game_day
+2002,24,Stanford Cardinal,2001-12-15,43.553852027999994,included_game_day
+2002,24,Stanford Cardinal,2001-12-18,68.9130616672,included_game_day
+2002,24,Stanford Cardinal,2001-12-19,78.8709343456609,included_game_day
+2002,24,Stanford Cardinal,2001-12-23,73.16588965341481,included_game_day
+2002,24,Stanford Cardinal,2001-12-29,81.63477805663673,included_game_day
+2002,24,Stanford Cardinal,2002-01-04,96.88271457356213,included_game_day
+2002,24,Stanford Cardinal,2002-01-06,81.08106378710244,included_game_day
+2002,24,Stanford Cardinal,2002-01-10,95.92544310482826,included_game_day
+2002,24,Stanford Cardinal,2002-01-12,94.51023973141344,included_game_day
+2002,24,Stanford Cardinal,2002-01-17,111.49903890683558,included_game_day
+2002,24,Stanford Cardinal,2002-01-19,141.47094376318537,included_game_day
+2002,24,Stanford Cardinal,2002-01-24,145.93105418261342,included_game_day
+2002,24,Stanford Cardinal,2002-01-26,134.81114716195623,included_game_day
+2002,24,Stanford Cardinal,2002-01-31,132.45423886543117,included_game_day
+2002,24,Stanford Cardinal,2002-02-02,117.31112613236434,included_game_day
+2002,24,Stanford Cardinal,2002-02-07,118.4339645460615,included_game_day
+2002,24,Stanford Cardinal,2002-02-09,124.16605180766092,included_game_day
+2002,24,Stanford Cardinal,2002-02-14,138.00999780301345,included_game_day
+2002,24,Stanford Cardinal,2002-02-16,130.39350649518377,included_game_day
+2002,24,Stanford Cardinal,2002-02-21,107.09370604285161,included_game_day
+2002,24,Stanford Cardinal,2002-02-23,95.07351145645019,included_game_day
+2002,24,Stanford Cardinal,2002-02-28,101.94272825923203,included_game_day
+2002,24,Stanford Cardinal,2002-03-02,105.41834778951433,included_game_day
+2002,24,Stanford Cardinal,2002-03-07,86.28255515079435,included_game_day
+2002,24,Stanford Cardinal,2002-03-14,99.59704405222078,included_game_day
+2002,24,Stanford Cardinal,2002-03-16,90.84921625054714,included_game_day
+2003,24,Stanford Cardinal,2002-11-18,1.0,included_game_day
+2003,24,Stanford Cardinal,2002-11-20,2.5,included_game_day
+2003,24,Stanford Cardinal,2002-11-24,17.35,included_game_day
+2003,24,Stanford Cardinal,2002-11-27,25.096000000000004,included_game_day
+2003,24,Stanford Cardinal,2002-11-29,13.760800000000003,included_game_day
+2003,24,Stanford Cardinal,2002-12-14,32.11994405,included_game_day
+2003,24,Stanford Cardinal,2002-12-16,22.177795513,included_game_day
+2003,24,Stanford Cardinal,2002-12-17,5.7246687327,included_game_day
+2003,24,Stanford Cardinal,2002-12-19,28.429841859430002,included_game_day
+2003,24,Stanford Cardinal,2002-12-22,44.077192978841,included_game_day
+2003,24,Stanford Cardinal,2002-12-28,51.6040886930646,included_game_day
+2003,24,Stanford Cardinal,2002-12-30,69.34575570085813,included_game_day
+2003,24,Stanford Cardinal,2003-01-04,54.95028957160466,included_game_day
+2003,24,Stanford Cardinal,2003-01-09,47.92443890962864,included_game_day
+2003,24,Stanford Cardinal,2003-01-11,73.58716495109095,included_game_day
+2003,24,Stanford Cardinal,2003-01-16,70.00940275583122,included_game_day
+2003,24,Stanford Cardinal,2003-01-18,60.95082473206248,included_game_day
+2003,24,Stanford Cardinal,2003-01-23,51.58269679996518,included_game_day
+2003,24,Stanford Cardinal,2003-01-25,54.150676442186686,included_game_day
+2003,24,Stanford Cardinal,2003-01-30,74.44324781573715,included_game_day
+2003,24,Stanford Cardinal,2003-02-01,81.58599852751699,included_game_day
+2003,24,Stanford Cardinal,2003-02-06,67.05854552986773,included_game_day
+2003,24,Stanford Cardinal,2003-02-09,76.55302795643017,included_game_day
+2003,24,Stanford Cardinal,2003-02-13,75.26979604539746,included_game_day
+2003,24,Stanford Cardinal,2003-02-15,76.71471394436685,included_game_day
+2003,24,Stanford Cardinal,2003-02-20,80.43159223690269,included_game_day
+2003,24,Stanford Cardinal,2003-02-22,84.18555228337648,included_game_day
+2003,24,Stanford Cardinal,2003-02-27,95.09441436012696,included_game_day
+2003,24,Stanford Cardinal,2003-03-01,99.16602054832501,included_game_day
+2003,24,Stanford Cardinal,2003-03-08,105.72009027095565,included_game_day
+2003,24,Stanford Cardinal,2003-03-13,88.4590389470849,included_game_day
+2003,24,Stanford Cardinal,2003-03-20,93.50953281086758,included_game_day
+2003,24,Stanford Cardinal,2003-03-22,83.25197780610341,included_game_day
+2004,24,Stanford Cardinal,2003-11-22,15.0,included_game_day
+2004,24,Stanford Cardinal,2003-11-25,28.801000000000002,included_game_day
+2004,24,Stanford Cardinal,2003-11-30,38.0889,included_game_day
+2004,24,Stanford Cardinal,2003-12-06,40.91409,included_game_day
+2004,24,Stanford Cardinal,2003-12-13,51.8722731,included_game_day
+2004,24,Stanford Cardinal,2003-12-15,66.55304723500001,included_game_day
+2004,24,Stanford Cardinal,2003-12-20,72.1850451354,included_game_day
+2004,24,Stanford Cardinal,2003-12-22,87.48828316976,included_game_day
+2004,24,Stanford Cardinal,2003-12-28,108.6353016708494,included_game_day
+2004,24,Stanford Cardinal,2004-01-02,115.20788152513616,included_game_day
+2004,24,Stanford Cardinal,2004-01-04,115.06134013817606,included_game_day
+2004,24,Stanford Cardinal,2004-01-08,108.00064338199907,included_game_day
+2004,24,Stanford Cardinal,2004-01-10,118.91673223726248,included_game_day
+2004,24,Stanford Cardinal,2004-01-17,113.58961435718868,included_game_day
+2004,24,Stanford Cardinal,2004-01-22,114.76655802801949,included_game_day
+2004,24,Stanford Cardinal,2004-01-24,109.08856207233823,included_game_day
+2004,24,Stanford Cardinal,2004-01-29,112.78790091263541,included_game_day
+2004,24,Stanford Cardinal,2004-01-31,112.70460607611678,included_game_day
+2004,24,Stanford Cardinal,2004-02-05,128.00027232175668,included_game_day
+2004,24,Stanford Cardinal,2004-02-07,124.29688442644859,included_game_day
+2004,24,Stanford Cardinal,2004-02-14,129.52689694277035,included_game_day
+2004,24,Stanford Cardinal,2004-02-19,126.91590280564198,included_game_day
+2004,24,Stanford Cardinal,2004-02-21,128.25471797224273,included_game_day
+2004,24,Stanford Cardinal,2004-02-26,139.20839361638008,included_game_day
+2004,24,Stanford Cardinal,2004-02-28,144.51781721546334,included_game_day
+2004,24,Stanford Cardinal,2004-03-04,135.88122297582782,included_game_day
+2004,24,Stanford Cardinal,2004-03-06,120.83610614782201,included_game_day
+2004,24,Stanford Cardinal,2004-03-11,129.2383398650912,included_game_day
+2004,24,Stanford Cardinal,2004-03-12,121.24790393589842,included_game_day
+2004,24,Stanford Cardinal,2004-03-13,126.5936039551906,included_game_day
+2004,24,Stanford Cardinal,2004-03-18,137.46279935680136,included_game_day
+2004,24,Stanford Cardinal,2004-03-20,129.24971537269397,included_game_day
+2005,24,Stanford Cardinal,2004-11-19,7.0,included_game_day
+2005,24,Stanford Cardinal,2004-11-22,-2.6999999999999993,included_game_day
+2005,24,Stanford Cardinal,2004-11-23,0.20090000000000074,included_game_day
+2005,24,Stanford Cardinal,2004-11-24,-18.41919,included_game_day
+2005,24,Stanford Cardinal,2004-11-28,-22.064371,included_game_day
+2005,24,Stanford Cardinal,2004-12-11,-32.9478763473,included_game_day
+2005,24,Stanford Cardinal,2004-12-13,-19.712439812570004,included_game_day
+2005,24,Stanford Cardinal,2004-12-18,-15.722762787325923,included_game_day
+2005,24,Stanford Cardinal,2004-12-22,-5.679319956247262,included_game_day
+2005,24,Stanford Cardinal,2004-12-23,5.149757893336201,included_game_day
+2005,24,Stanford Cardinal,2004-12-31,-2.029751497856382,included_game_day
+2005,24,Stanford Cardinal,2005-01-02,13.674118235714069,included_game_day
+2005,24,Stanford Cardinal,2005-01-06,5.272799072226393,included_game_day
+2005,24,Stanford Cardinal,2005-01-08,25.23071975294129,included_game_day
+2005,24,Stanford Cardinal,2005-01-15,43.85379666180729,included_game_day
+2005,24,Stanford Cardinal,2005-01-20,59.73947027205468,included_game_day
+2005,24,Stanford Cardinal,2005-01-22,67.35506303794637,included_game_day
+2005,24,Stanford Cardinal,2005-01-27,62.81117093456657,included_game_day
+2005,24,Stanford Cardinal,2005-01-29,75.56058350295775,included_game_day
+2005,24,Stanford Cardinal,2005-02-03,69.52055261746314,included_game_day
+2005,24,Stanford Cardinal,2005-02-05,58.668236483379914,included_game_day
+2005,24,Stanford Cardinal,2005-02-12,68.09624878525142,included_game_day
+2005,24,Stanford Cardinal,2005-02-17,68.16073490582505,included_game_day
+2005,24,Stanford Cardinal,2005-02-20,78.08927650228004,included_game_day
+2005,24,Stanford Cardinal,2005-02-24,75.08483090127223,included_game_day
+2005,24,Stanford Cardinal,2005-02-26,73.03077637291449,included_game_day
+2005,24,Stanford Cardinal,2005-03-03,55.01811332351456,included_game_day
+2005,24,Stanford Cardinal,2005-03-05,72.38264194335484,included_game_day
+2005,24,Stanford Cardinal,2005-03-10,67.9783138796676,included_game_day
+2005,24,Stanford Cardinal,2005-03-11,74.50854164703503,included_game_day
+2005,24,Stanford Cardinal,2005-03-18,47.78194364625962,included_game_day
+2006,24,Stanford Cardinal,2005-11-19,-15.81,included_game_day
+2006,24,Stanford Cardinal,2005-11-23,-3.9290000000000003,included_game_day
+2006,24,Stanford Cardinal,2005-11-28,14.765499999999998,included_game_day
+2006,24,Stanford Cardinal,2005-12-02,-1.939204000000002,included_game_day
+2006,24,Stanford Cardinal,2005-12-04,-8.4121102,included_game_day
+2006,24,Stanford Cardinal,2005-12-18,-10.841340105,included_game_day
+2006,24,Stanford Cardinal,2005-12-19,9.86125119985536,included_game_day
+2006,24,Stanford Cardinal,2005-12-21,23.045126543165352,included_game_day
+2006,24,Stanford Cardinal,2005-12-29,14.32194387092472,included_game_day
+2006,24,Stanford Cardinal,2005-12-31,10.596932880259736,included_game_day
+2006,24,Stanford Cardinal,2006-01-05,20.821963692396487,included_game_day
+2006,24,Stanford Cardinal,2006-01-07,20.296925434590904,included_game_day
+2006,24,Stanford Cardinal,2006-01-13,34.22851488807638,included_game_day
+2006,24,Stanford Cardinal,2006-01-19,32.88553312618194,included_game_day
+2006,24,Stanford Cardinal,2006-01-21,36.85775562659233,included_game_day
+2006,24,Stanford Cardinal,2006-01-26,45.02917809799798,included_game_day
+2006,24,Stanford Cardinal,2006-01-29,58.219142624972484,included_game_day
+2006,24,Stanford Cardinal,2006-02-02,59.16315756664804,included_game_day
+2006,24,Stanford Cardinal,2006-02-04,64.84455804694353,included_game_day
+2006,24,Stanford Cardinal,2006-02-09,66.61093708709119,included_game_day
+2006,24,Stanford Cardinal,2006-02-11,66.96041300812776,included_game_day
+2006,24,Stanford Cardinal,2006-02-16,70.20670358938634,included_game_day
+2006,24,Stanford Cardinal,2006-02-19,62.59930374683384,included_game_day
+2006,24,Stanford Cardinal,2006-02-23,53.66178270454125,included_game_day
+2006,24,Stanford Cardinal,2006-02-25,54.55246882565923,included_game_day
+2006,24,Stanford Cardinal,2006-03-02,50.243225848972784,included_game_day
+2006,24,Stanford Cardinal,2006-03-04,33.84444446589251,included_game_day
+2006,24,Stanford Cardinal,2006-03-09,36.39103565955684,included_game_day
+2006,24,Stanford Cardinal,2006-03-14,49.68405206401623,included_game_day
+2006,24,Stanford Cardinal,2006-03-17,47.957946179076664,included_game_day
+2007,24,Stanford Cardinal,2006-11-11,17.0,included_game_day
+2007,24,Stanford Cardinal,2006-11-14,32.8,included_game_day
+2007,24,Stanford Cardinal,2006-11-15,-4.109999999999999,included_game_day
+2007,24,Stanford Cardinal,2006-11-17,-1.7089999999999996,included_game_day
+2007,24,Stanford Cardinal,2006-11-25,33.9863,included_game_day
+2007,24,Stanford Cardinal,2006-11-28,33.37764,included_game_day
+2007,24,Stanford Cardinal,2006-12-03,43.45538052,included_game_day
+2007,24,Stanford Cardinal,2006-12-16,23.9912608987771,included_game_day
+2007,24,Stanford Cardinal,2006-12-19,33.53115169256939,included_game_day
+2007,24,Stanford Cardinal,2006-12-28,43.43286078204586,included_game_day
+2007,24,Stanford Cardinal,2006-12-30,39.48792402702297,included_game_day
+2007,24,Stanford Cardinal,2007-01-03,33.8648600269539,included_game_day
+2007,24,Stanford Cardinal,2007-01-07,40.48762823244282,included_game_day
+2007,24,Stanford Cardinal,2007-01-11,40.96950789918759,included_game_day
+2007,24,Stanford Cardinal,2007-01-13,47.451967307122395,included_game_day
+2007,24,Stanford Cardinal,2007-01-18,50.67367603323821,included_game_day
+2007,24,Stanford Cardinal,2007-01-20,59.39213072419159,included_game_day
+2007,24,Stanford Cardinal,2007-01-25,77.39508493041738,included_game_day
+2007,24,Stanford Cardinal,2007-01-28,88.23127895059656,included_game_day
+2007,24,Stanford Cardinal,2007-01-31,79.9750406479701,included_game_day
+2007,24,Stanford Cardinal,2007-02-03,98.09037173168343,included_game_day
+2007,24,Stanford Cardinal,2007-02-08,89.18544075245633,included_game_day
+2007,24,Stanford Cardinal,2007-02-11,75.4393859917566,included_game_day
+2007,24,Stanford Cardinal,2007-02-15,76.37992170623559,included_game_day
+2007,24,Stanford Cardinal,2007-02-17,92.7856832053564,included_game_day
+2007,24,Stanford Cardinal,2007-02-22,92.28817996285623,included_game_day
+2007,24,Stanford Cardinal,2007-02-24,87.60914082557345,included_game_day
+2007,24,Stanford Cardinal,2007-03-01,88.09019476497703,included_game_day
+2007,24,Stanford Cardinal,2007-03-03,80.26028365983186,included_game_day
+2007,24,Stanford Cardinal,2007-03-08,80.267888851148,included_game_day
+2007,24,Stanford Cardinal,2007-03-15,69.93679612966606,included_game_day
+2008,24,Stanford Cardinal,2007-11-09,55.0,included_game_day
+2008,24,Stanford Cardinal,2007-11-10,86.4,included_game_day
+2008,24,Stanford Cardinal,2007-11-11,99.60000000000001,included_game_day
+2008,24,Stanford Cardinal,2007-11-15,103.64000000000001,included_game_day
+2008,24,Stanford Cardinal,2007-11-17,85.12700000000001,included_game_day
+2008,24,Stanford Cardinal,2007-11-20,85.0143,included_game_day
+2008,24,Stanford Cardinal,2007-11-24,94.00197,included_game_day
+2008,24,Stanford Cardinal,2007-11-27,100.651363,included_game_day
+2008,24,Stanford Cardinal,2007-12-02,120.7105550112,included_game_day
+2008,24,Stanford Cardinal,2007-12-19,133.83845777558656,included_game_day
+2008,24,Stanford Cardinal,2007-12-22,128.1736998842283,included_game_day
+2008,24,Stanford Cardinal,2007-12-29,120.890668457599,included_game_day
+2008,24,Stanford Cardinal,2008-01-03,110.05031095957985,included_game_day
+2008,24,Stanford Cardinal,2008-01-05,109.21458400622062,included_game_day
+2008,24,Stanford Cardinal,2008-01-10,121.0342884395061,included_game_day
+2008,24,Stanford Cardinal,2008-01-13,115.66189801976792,included_game_day
+2008,24,Stanford Cardinal,2008-01-17,113.51672623089556,included_game_day
+2008,24,Stanford Cardinal,2008-01-26,117.66528679240477,included_game_day
+2008,24,Stanford Cardinal,2008-01-31,129.30975349535564,included_game_day
+2008,24,Stanford Cardinal,2008-02-02,132.7763041741104,included_game_day
+2008,24,Stanford Cardinal,2008-02-07,152.70027889008526,included_game_day
+2008,24,Stanford Cardinal,2008-02-09,145.8337396188279,included_game_day
+2008,24,Stanford Cardinal,2008-02-14,137.83637753367327,included_game_day
+2008,24,Stanford Cardinal,2008-02-16,138.04570561888443,included_game_day
+2008,24,Stanford Cardinal,2008-02-24,136.9209560248786,included_game_day
+2008,24,Stanford Cardinal,2008-02-28,130.55504483180556,included_game_day
+2008,24,Stanford Cardinal,2008-03-01,135.48775618614215,included_game_day
+2008,24,Stanford Cardinal,2008-03-06,134.3861948138715,included_game_day
+2008,24,Stanford Cardinal,2008-03-08,120.22490678932303,included_game_day
+2008,24,Stanford Cardinal,2008-03-13,131.3194442412199,included_game_day
+2008,24,Stanford Cardinal,2008-03-14,138.2944401468522,included_game_day
+2008,24,Stanford Cardinal,2008-03-15,139.87210568381437,included_game_day
+2008,24,Stanford Cardinal,2008-03-20,155.84144019003423,included_game_day
+2008,24,Stanford Cardinal,2008-03-22,154.87812677708348,included_game_day
+2008,24,Stanford Cardinal,2008-03-28,136.89898889988842,included_game_day
+2009,24,Stanford Cardinal,2008-11-14,11.0,included_game_day
+2009,24,Stanford Cardinal,2008-11-18,24.9,included_game_day
+2009,24,Stanford Cardinal,2008-11-26,36.648044999999996,included_game_day
+2009,24,Stanford Cardinal,2008-11-29,46.635074499999995,included_game_day
+2009,24,Stanford Cardinal,2008-12-14,55.40441706349999,included_game_day
+2009,24,Stanford Cardinal,2008-12-17,52.509461088449996,included_game_day
+2009,24,Stanford Cardinal,2008-12-20,58.832748862695,included_game_day
+2009,24,Stanford Cardinal,2008-12-23,64.5643066784602,included_game_day
+2009,24,Stanford Cardinal,2008-12-28,102.53039603357703,included_game_day
+2009,24,Stanford Cardinal,2008-12-30,97.73337570880307,included_game_day
+2009,24,Stanford Cardinal,2009-01-02,68.56550491691313,included_game_day
+2009,24,Stanford Cardinal,2009-01-04,80.58789687420284,included_game_day
+2009,24,Stanford Cardinal,2009-01-08,85.47880475544606,included_game_day
+2009,24,Stanford Cardinal,2009-01-10,83.39669630667112,included_game_day
+2009,24,Stanford Cardinal,2009-01-17,91.58476351947081,included_game_day
+2009,24,Stanford Cardinal,2009-01-22,97.95843389884797,included_game_day
+2009,24,Stanford Cardinal,2009-01-24,69.66263854614292,included_game_day
+2009,24,Stanford Cardinal,2009-01-29,73.80838100094418,included_game_day
+2009,24,Stanford Cardinal,2009-01-31,49.739626155615056,included_game_day
+2009,24,Stanford Cardinal,2009-02-05,60.06063747651835,included_game_day
+2009,24,Stanford Cardinal,2009-02-08,56.07418893097567,included_game_day
+2009,24,Stanford Cardinal,2009-02-10,75.46419088559512,included_game_day
+2009,24,Stanford Cardinal,2009-02-14,73.70702302049592,included_game_day
+2009,24,Stanford Cardinal,2009-02-19,59.03688511821081,included_game_day
+2009,24,Stanford Cardinal,2009-02-21,43.223374938567076,included_game_day
+2009,24,Stanford Cardinal,2009-02-26,45.46234723151814,included_game_day
+2009,24,Stanford Cardinal,2009-02-28,57.78726425428284,included_game_day
+2009,24,Stanford Cardinal,2009-03-05,77.54747390445705,included_game_day
+2009,24,Stanford Cardinal,2009-03-07,67.36286837449498,included_game_day
+2009,24,Stanford Cardinal,2009-03-11,69.94170594892739,included_game_day
+2009,24,Stanford Cardinal,2009-03-12,65.11989788664178,included_game_day
+2009,24,Stanford Cardinal,2009-03-18,76.02351595973396,included_game_day
+2009,24,Stanford Cardinal,2009-03-23,88.82916634819149,included_game_day
+2009,24,Stanford Cardinal,2009-03-25,82.04885076899274,included_game_day
+2010,24,Stanford Cardinal,2009-11-13,-10.0,included_game_day
+2010,24,Stanford Cardinal,2009-11-15,4.199999999999999,included_game_day
+2010,24,Stanford Cardinal,2009-11-18,-2.920000000000001,included_game_day
+2010,24,Stanford Cardinal,2009-11-21,18.081,included_game_day
+2010,24,Stanford Cardinal,2009-11-24,25.5796,included_game_day
+2010,24,Stanford Cardinal,2009-11-25,21.095579999999998,included_game_day
+2010,24,Stanford Cardinal,2009-11-29,29.820021999999998,included_game_day
+2010,24,Stanford Cardinal,2009-12-13,36.024443793799996,included_game_day
+2010,24,Stanford Cardinal,2009-12-16,34.98440185084,included_game_day
+2010,24,Stanford Cardinal,2009-12-19,34.689846811346,included_game_day
+2010,24,Stanford Cardinal,2009-12-22,29.44735528062113,included_game_day
+2010,24,Stanford Cardinal,2009-12-29,26.06739004215719,included_game_day
+2010,24,Stanford Cardinal,2010-01-02,11.475416912670546,included_game_day
+2010,24,Stanford Cardinal,2010-01-06,15.15384004491069,included_game_day
+2010,24,Stanford Cardinal,2010-01-09,24.228041565691434,included_game_day
+2010,24,Stanford Cardinal,2010-01-14,-4.41831719101517,included_game_day
+2010,24,Stanford Cardinal,2010-01-16,-1.1390342448791007,included_game_day
+2010,24,Stanford Cardinal,2010-01-21,19.388046776028112,included_game_day
+2010,24,Stanford Cardinal,2010-01-23,28.691169544143044,included_game_day
+2010,24,Stanford Cardinal,2010-01-28,28.270018142519568,included_game_day
+2010,24,Stanford Cardinal,2010-01-30,19.094850783208997,included_game_day
+2010,24,Stanford Cardinal,2010-02-04,18.587050131618632,included_game_day
+2010,24,Stanford Cardinal,2010-02-06,21.451222808392963,included_game_day
+2010,24,Stanford Cardinal,2010-02-11,21.5520956916294,included_game_day
+2010,24,Stanford Cardinal,2010-02-13,11.183703683358498,included_game_day
+2010,24,Stanford Cardinal,2010-02-18,18.66896596893983,included_game_day
+2010,24,Stanford Cardinal,2010-02-20,34.52685730786691,included_game_day
+2010,24,Stanford Cardinal,2010-02-25,28.3362620908292,included_game_day
+2010,24,Stanford Cardinal,2010-02-27,23.160352926169473,included_game_day
+2010,24,Stanford Cardinal,2010-03-06,21.130038325692723,included_game_day
+2010,24,Stanford Cardinal,2010-03-11,35.83152487848099,included_game_day
+2010,24,Stanford Cardinal,2010-03-12,30.92321648746333,included_game_day
+2011,24,Stanford Cardinal,2010-11-15,13.0,included_game_day
+2011,24,Stanford Cardinal,2010-11-18,33.010000000000005,included_game_day
+2011,24,Stanford Cardinal,2010-11-21,61.850100000000005,included_game_day
+2011,24,Stanford Cardinal,2010-11-25,51.955090000000006,included_game_day
+2011,24,Stanford Cardinal,2010-11-26,35.963621,included_game_day
+2011,24,Stanford Cardinal,2010-11-28,37.950077900000004,included_game_day
+2011,24,Stanford Cardinal,2010-12-12,34.89008768000001,included_game_day
+2011,24,Stanford Cardinal,2010-12-15,38.029869226458565,included_game_day
+2011,24,Stanford Cardinal,2010-12-18,8.000053991486709,included_game_day
+2011,24,Stanford Cardinal,2010-12-21,7.744834315907264,included_game_day
+2011,24,Stanford Cardinal,2010-12-28,21.451272789629332,included_game_day
+2011,24,Stanford Cardinal,2011-01-02,32.50888153406741,included_game_day
+2011,24,Stanford Cardinal,2011-01-06,46.95753810622418,included_game_day
+2011,24,Stanford Cardinal,2011-01-09,46.36304986497951,included_game_day
+2011,24,Stanford Cardinal,2011-01-13,57.404443609210006,included_game_day
+2011,24,Stanford Cardinal,2011-01-15,53.91693458573572,included_game_day
+2011,24,Stanford Cardinal,2011-01-20,35.20615796543792,included_game_day
+2011,24,Stanford Cardinal,2011-01-22,29.231294682497882,included_game_day
+2011,24,Stanford Cardinal,2011-01-27,15.574360242218017,included_game_day
+2011,24,Stanford Cardinal,2011-01-29,23.15832265681233,included_game_day
+2011,24,Stanford Cardinal,2011-02-03,19.912590459597695,included_game_day
+2011,24,Stanford Cardinal,2011-02-05,24.19409300165926,included_game_day
+2011,24,Stanford Cardinal,2011-02-10,44.830070255071206,included_game_day
+2011,24,Stanford Cardinal,2011-02-12,46.51391681326567,included_game_day
+2011,24,Stanford Cardinal,2011-02-17,42.38230792287599,included_game_day
+2011,24,Stanford Cardinal,2011-02-19,24.277208876034198,included_game_day
+2011,24,Stanford Cardinal,2011-02-24,16.896350351398475,included_game_day
+2011,24,Stanford Cardinal,2011-02-26,41.04147202997901,included_game_day
+2011,24,Stanford Cardinal,2011-03-01,38.863772614034374,included_game_day
+2011,24,Stanford Cardinal,2011-03-05,25.18195767842025,included_game_day
+2011,24,Stanford Cardinal,2011-03-09,18.874913773395978,included_game_day
+2012,24,Stanford Cardinal,2011-11-11,36.0,included_game_day
+2012,24,Stanford Cardinal,2011-11-14,45.9,included_game_day
+2012,24,Stanford Cardinal,2011-11-15,52.48,included_game_day
+2012,24,Stanford Cardinal,2011-11-18,69.622,included_game_day
+2012,24,Stanford Cardinal,2011-11-23,82.4828,included_game_day
+2012,24,Stanford Cardinal,2011-11-25,79.02163,included_game_day
+2012,24,Stanford Cardinal,2011-11-28,107.575867,included_game_day
+2012,24,Stanford Cardinal,2011-12-01,123.6558803,included_game_day
+2012,24,Stanford Cardinal,2011-12-04,114.61414828000001,included_game_day
+2012,24,Stanford Cardinal,2011-12-17,116.196233305671,included_game_day
+2012,24,Stanford Cardinal,2011-12-19,116.05723216633262,included_game_day
+2012,24,Stanford Cardinal,2011-12-22,95.23374247064555,included_game_day
+2012,24,Stanford Cardinal,2011-12-29,87.92467234368728,included_game_day
+2012,24,Stanford Cardinal,2011-12-31,84.99968011930726,included_game_day
+2012,24,Stanford Cardinal,2012-01-05,71.7440811536304,included_game_day
+2012,24,Stanford Cardinal,2012-01-07,77.85821764198626,included_game_day
+2012,24,Stanford Cardinal,2012-01-12,58.83970041527786,included_game_day
+2012,24,Stanford Cardinal,2012-01-14,74.51180075196994,included_game_day
+2012,24,Stanford Cardinal,2012-01-19,59.840244840612556,included_game_day
+2012,24,Stanford Cardinal,2012-01-21,47.8767223730299,included_game_day
+2012,24,Stanford Cardinal,2012-01-29,46.8014569206383,included_game_day
+2012,24,Stanford Cardinal,2012-02-02,59.833634417955714,included_game_day
+2012,24,Stanford Cardinal,2012-02-04,47.42695725687891,included_game_day
+2012,24,Stanford Cardinal,2012-02-09,42.93431963653704,included_game_day
+2012,24,Stanford Cardinal,2012-02-12,47.099287482084755,included_game_day
+2012,24,Stanford Cardinal,2012-02-16,47.783923687311045,included_game_day
+2012,24,Stanford Cardinal,2012-02-19,43.77704868535691,included_game_day
+2012,24,Stanford Cardinal,2012-02-23,72.2258334677648,included_game_day
+2012,24,Stanford Cardinal,2012-02-25,58.821716333266785,included_game_day
+2012,24,Stanford Cardinal,2012-03-04,64.96377334982711,included_game_day
+2012,24,Stanford Cardinal,2012-03-07,74.12056690030686,included_game_day
+2012,24,Stanford Cardinal,2012-03-08,70.11853315850713,included_game_day
+2012,24,Stanford Cardinal,2012-03-13,75.40061965869936,included_game_day
+2012,24,Stanford Cardinal,2012-03-19,74.49774719740574,included_game_day
+2012,24,Stanford Cardinal,2012-03-21,99.42357068632056,included_game_day
+2012,24,Stanford Cardinal,2012-03-27,107.8177997093365,included_game_day
+2012,24,Stanford Cardinal,2012-03-29,131.87757371821283,included_game_day
+2013,24,Stanford Cardinal,2012-11-09,12.0,included_game_day
+2013,24,Stanford Cardinal,2012-11-12,20.8,included_game_day
+2013,24,Stanford Cardinal,2012-11-15,30.43,included_game_day
+2013,24,Stanford Cardinal,2012-11-18,19.587,included_game_day
+2013,24,Stanford Cardinal,2012-11-22,15.1593,included_game_day
+2013,24,Stanford Cardinal,2012-11-23,31.395989999999998,included_game_day
+2013,24,Stanford Cardinal,2012-11-24,31.685721299999997,included_game_day
+2013,24,Stanford Cardinal,2012-11-28,33.865549169999994,included_game_day
+2013,24,Stanford Cardinal,2012-12-02,38.89879425299999,included_game_day
+2013,24,Stanford Cardinal,2012-12-15,53.57365578119999,included_game_day
+2013,24,Stanford Cardinal,2012-12-18,48.509621615630955,included_game_day
+2013,24,Stanford Cardinal,2012-12-21,51.85580908789006,included_game_day
+2013,24,Stanford Cardinal,2012-12-29,42.580745128901256,included_game_day
+2013,24,Stanford Cardinal,2013-01-03,39.94859130669563,included_game_day
+2013,24,Stanford Cardinal,2013-01-05,39.6349349528549,included_game_day
+2013,24,Stanford Cardinal,2013-01-09,47.823495679076494,included_game_day
+2013,24,Stanford Cardinal,2013-01-12,39.09480357539236,included_game_day
+2013,24,Stanford Cardinal,2013-01-19,45.58251391608637,included_game_day
+2013,24,Stanford Cardinal,2013-01-24,29.283730820225475,included_game_day
+2013,24,Stanford Cardinal,2013-01-27,62.75701647342663,included_game_day
+2013,24,Stanford Cardinal,2013-01-30,88.82911660264746,included_game_day
+2013,24,Stanford Cardinal,2013-02-03,87.58451633911443,included_game_day
+2013,24,Stanford Cardinal,2013-02-06,88.71268629133006,included_game_day
+2013,24,Stanford Cardinal,2013-02-09,93.42313805668323,included_game_day
+2013,24,Stanford Cardinal,2013-02-14,84.37262587771424,included_game_day
+2013,24,Stanford Cardinal,2013-02-16,71.27260366857244,included_game_day
+2013,24,Stanford Cardinal,2013-02-21,80.21532555314877,included_game_day
+2013,24,Stanford Cardinal,2013-02-23,72.02000919355532,included_game_day
+2013,24,Stanford Cardinal,2013-02-27,68.37814268862064,included_game_day
+2013,24,Stanford Cardinal,2013-03-03,76.29508392339521,included_game_day
+2013,24,Stanford Cardinal,2013-03-06,94.75472739503593,included_game_day
+2013,24,Stanford Cardinal,2013-03-13,89.30761410411941,included_game_day
+2013,24,Stanford Cardinal,2013-03-19,84.33599557347054,included_game_day
+2013,24,Stanford Cardinal,2013-03-23,75.25527290599935,included_game_day
+2014,24,Stanford Cardinal,2013-11-08,1.0,included_game_day
+2014,24,Stanford Cardinal,2013-11-11,-10.5,included_game_day
+2014,24,Stanford Cardinal,2013-11-14,1.9499999999999993,included_game_day
+2014,24,Stanford Cardinal,2013-11-17,11.515,included_game_day
+2014,24,Stanford Cardinal,2013-11-21,32.54867,included_game_day
+2014,24,Stanford Cardinal,2013-11-25,42.910393,included_game_day
+2014,24,Stanford Cardinal,2013-11-26,26.7933964,included_game_day
+2014,24,Stanford Cardinal,2013-12-01,50.511992883999994,included_game_day
+2014,24,Stanford Cardinal,2013-12-14,61.788500911869995,included_game_day
+2014,24,Stanford Cardinal,2013-12-18,67.876694216383,included_game_day
+2014,24,Stanford Cardinal,2013-12-21,69.50114687836557,included_game_day
+2014,24,Stanford Cardinal,2013-12-29,74.70685041919961,included_game_day
+2014,24,Stanford Cardinal,2014-01-02,62.62143216196848,included_game_day
+2014,24,Stanford Cardinal,2014-01-09,53.230155182827964,included_game_day
+2014,24,Stanford Cardinal,2014-01-12,61.55984594452815,included_game_day
+2014,24,Stanford Cardinal,2014-01-15,85.72598422941383,included_game_day
+2014,24,Stanford Cardinal,2014-01-18,89.86740157160315,included_game_day
+2014,24,Stanford Cardinal,2014-01-23,79.75187998524672,included_game_day
+2014,24,Stanford Cardinal,2014-01-26,81.62474784242087,included_game_day
+2014,24,Stanford Cardinal,2014-01-29,85.04500643869436,included_game_day
+2014,24,Stanford Cardinal,2014-02-01,90.7117138210721,included_game_day
+2014,24,Stanford Cardinal,2014-02-05,104.23956396654259,included_game_day
+2014,24,Stanford Cardinal,2014-02-12,93.80688416896494,included_game_day
+2014,24,Stanford Cardinal,2014-02-15,97.6444320040087,included_game_day
+2014,24,Stanford Cardinal,2014-02-20,104.7792274974384,included_game_day
+2014,24,Stanford Cardinal,2014-02-22,116.55724792308658,included_game_day
+2014,24,Stanford Cardinal,2014-02-26,103.45037570190486,included_game_day
+2014,24,Stanford Cardinal,2014-03-02,102.42899677286064,included_game_day
+2014,24,Stanford Cardinal,2014-03-05,91.5326760097671,included_game_day
+2014,24,Stanford Cardinal,2014-03-08,91.39335931894102,included_game_day
+2014,24,Stanford Cardinal,2014-03-12,91.03635813271566,included_game_day
+2014,24,Stanford Cardinal,2014-03-13,112.16932150682769,included_game_day
+2014,24,Stanford Cardinal,2014-03-14,88.10002187992632,included_game_day
+2014,24,Stanford Cardinal,2014-03-21,97.80183868559074,included_game_day
+2014,24,Stanford Cardinal,2014-03-23,106.14249594898857,included_game_day
+2014,24,Stanford Cardinal,2014-03-27,93.57679856438405,included_game_day
+2015,24,Stanford Cardinal,2014-11-15,12.0,included_game_day
+2015,24,Stanford Cardinal,2014-11-16,18.3,included_game_day
+2015,24,Stanford Cardinal,2014-11-21,45.19,included_game_day
+2015,24,Stanford Cardinal,2014-11-22,41.3782,included_game_day
+2015,24,Stanford Cardinal,2014-11-25,67.72568,included_game_day
+2015,24,Stanford Cardinal,2014-11-30,48.127151999999995,included_game_day
+2015,24,Stanford Cardinal,2014-12-13,46.178667650499996,included_game_day
+2015,24,Stanford Cardinal,2014-12-17,43.69228420845,included_game_day
+2015,24,Stanford Cardinal,2014-12-20,47.595070050185,included_game_day
+2015,24,Stanford Cardinal,2014-12-23,62.2108395628979,included_game_day
+2015,24,Stanford Cardinal,2014-12-29,79.58068329495725,included_game_day
+2015,24,Stanford Cardinal,2015-01-02,83.52295981399546,included_game_day
+2015,24,Stanford Cardinal,2015-01-04,87.07697212449523,included_game_day
+2015,24,Stanford Cardinal,2015-01-08,76.63635348380043,included_game_day
+2015,24,Stanford Cardinal,2015-01-11,74.4949655370655,included_game_day
+2015,24,Stanford Cardinal,2015-01-14,80.51798008938869,included_game_day
+2015,24,Stanford Cardinal,2015-01-17,89.23764778410715,included_game_day
+2015,24,Stanford Cardinal,2015-01-22,86.25844891395933,included_game_day
+2015,24,Stanford Cardinal,2015-01-25,101.34889526175084,included_game_day
+2015,24,Stanford Cardinal,2015-01-28,110.25623445992184,included_game_day
+2015,24,Stanford Cardinal,2015-01-31,97.932576066976,included_game_day
+2015,24,Stanford Cardinal,2015-02-05,89.05699567821867,included_game_day
+2015,24,Stanford Cardinal,2015-02-08,83.46599490716684,included_game_day
+2015,24,Stanford Cardinal,2015-02-12,80.09154792813008,included_game_day
+2015,24,Stanford Cardinal,2015-02-15,71.26881587363599,included_game_day
+2015,24,Stanford Cardinal,2015-02-21,73.26447969336559,included_game_day
+2015,24,Stanford Cardinal,2015-02-26,93.66620895739301,included_game_day
+2015,24,Stanford Cardinal,2015-03-01,86.9703585601432,included_game_day
+2015,24,Stanford Cardinal,2015-03-05,79.59448339001733,included_game_day
+2015,24,Stanford Cardinal,2015-03-07,76.31110296855374,included_game_day
+2015,24,Stanford Cardinal,2015-03-11,70.1437324581761,included_game_day
+2015,24,Stanford Cardinal,2015-03-12,53.685220930708155,included_game_day
+2015,24,Stanford Cardinal,2015-03-17,62.57455149855682,included_game_day
+2015,24,Stanford Cardinal,2015-03-22,70.37190317406697,included_game_day
+2015,24,Stanford Cardinal,2015-03-24,74.11287142698643,included_game_day
+2015,24,Stanford Cardinal,2015-03-31,81.28178429146551,included_game_day
+2015,24,Stanford Cardinal,2015-04-02,84.4932163543385,included_game_day
+2016,24,Stanford Cardinal,2015-11-13,1.0,included_game_day
+2016,24,Stanford Cardinal,2015-11-15,29.7,included_game_day
+2016,24,Stanford Cardinal,2015-11-19,11.93,included_game_day
+2016,24,Stanford Cardinal,2015-11-22,-0.963000000000001,included_game_day
+2016,24,Stanford Cardinal,2015-11-26,-8.0027,included_game_day
+2016,24,Stanford Cardinal,2015-11-27,-4.4403500000000005,included_game_day
+2016,24,Stanford Cardinal,2015-12-12,6.983585662562,included_game_day
+2016,24,Stanford Cardinal,2015-12-15,23.1852782733238,included_game_day
+2016,24,Stanford Cardinal,2015-12-19,23.718910377402317,included_game_day
+2016,24,Stanford Cardinal,2015-12-21,28.074860382141082,included_game_day
+2016,24,Stanford Cardinal,2016-01-01,34.59196079176987,included_game_day
+2016,24,Stanford Cardinal,2016-01-03,33.93335664874505,included_game_day
+2016,24,Stanford Cardinal,2016-01-06,45.75230709985694,included_game_day
+2016,24,Stanford Cardinal,2016-01-10,37.8744972517993,included_game_day
+2016,24,Stanford Cardinal,2016-01-14,46.74215395830551,included_game_day
+2016,24,Stanford Cardinal,2016-01-21,40.628403694497294,included_game_day
+2016,24,Stanford Cardinal,2016-01-23,40.208744476548574,included_game_day
+2016,24,Stanford Cardinal,2016-01-27,30.13078556600944,included_game_day
+2016,24,Stanford Cardinal,2016-01-30,17.89396621522106,included_game_day
+2016,24,Stanford Cardinal,2016-02-06,12.05420644895224,included_game_day
+2016,24,Stanford Cardinal,2016-02-11,0.23771244923076296,included_game_day
+2016,24,Stanford Cardinal,2016-02-13,14.016529571385773,included_game_day
+2016,24,Stanford Cardinal,2016-02-18,26.025391417339204,included_game_day
+2016,24,Stanford Cardinal,2016-02-20,21.561222456035566,included_game_day
+2016,24,Stanford Cardinal,2016-02-25,44.83681137372015,included_game_day
+2016,24,Stanford Cardinal,2016-02-27,55.135399128300776,included_game_day
+2016,24,Stanford Cardinal,2016-03-03,42.136495692708365,included_game_day
+2016,24,Stanford Cardinal,2016-03-05,23.716332610887054,included_game_day
+2016,24,Stanford Cardinal,2016-03-09,3.601337607236662,included_game_day
+2017,24,Stanford Cardinal,2016-11-11,10.0,included_game_day
+2017,24,Stanford Cardinal,2016-11-15,32.16,included_game_day
+2017,24,Stanford Cardinal,2016-11-17,44.20399999999999,included_game_day
+2017,24,Stanford Cardinal,2016-11-20,43.78359999999999,included_game_day
+2017,24,Stanford Cardinal,2016-11-24,33.79523999999999,included_game_day
+2017,24,Stanford Cardinal,2016-11-25,35.39031599999999,included_game_day
+2017,24,Stanford Cardinal,2016-11-27,50.55874569999999,included_game_day
+2017,24,Stanford Cardinal,2016-11-30,34.27487432999999,included_game_day
+2017,24,Stanford Cardinal,2016-12-03,28.295492194999987,included_game_day
+2017,24,Stanford Cardinal,2016-12-19,13.042720478893187,included_game_day
+2017,24,Stanford Cardinal,2016-12-22,11.658408445274869,included_game_day
+2017,24,Stanford Cardinal,2016-12-30,3.5430281740001615,included_game_day
+2017,24,Stanford Cardinal,2017-01-01,-27.500719379300158,included_game_day
+2017,24,Stanford Cardinal,2017-01-05,-31.72036850059281,included_game_day
+2017,24,Stanford Cardinal,2017-01-08,-24.784697753865014,included_game_day
+2017,24,Stanford Cardinal,2017-01-12,3.5390556720194937,included_game_day
+2017,24,Stanford Cardinal,2017-01-14,9.934746051090809,included_game_day
+2017,24,Stanford Cardinal,2017-01-19,20.12733481156262,included_game_day
+2017,24,Stanford Cardinal,2017-01-21,21.347288767893488,included_game_day
+2017,24,Stanford Cardinal,2017-01-29,17.377835582301177,included_game_day
+2017,24,Stanford Cardinal,2017-02-02,9.268752373742888,included_game_day
+2017,24,Stanford Cardinal,2017-02-04,22.51829331642889,included_game_day
+2017,24,Stanford Cardinal,2017-02-08,27.89499312722684,included_game_day
+2017,24,Stanford Cardinal,2017-02-11,22.223668530055313,included_game_day
+2017,24,Stanford Cardinal,2017-02-17,31.73130849903205,included_game_day
+2017,24,Stanford Cardinal,2017-02-22,33.000924931836614,included_game_day
+2017,24,Stanford Cardinal,2017-02-25,43.10804660246564,included_game_day
+2017,24,Stanford Cardinal,2017-03-02,27.182772762135414,included_game_day
+2017,24,Stanford Cardinal,2017-03-04,30.314750045775796,included_game_day
+2017,24,Stanford Cardinal,2017-03-08,16.39156413577661,included_game_day
+2018,24,Stanford Cardinal,2017-11-10,13.0,included_game_day
+2018,24,Stanford Cardinal,2017-11-12,17.7,included_game_day
+2018,24,Stanford Cardinal,2017-11-14,6.239999999999998,included_game_day
+2018,24,Stanford Cardinal,2017-11-17,17.516,included_game_day
+2018,24,Stanford Cardinal,2017-11-20,-9.271600000000003,included_game_day
+2018,24,Stanford Cardinal,2017-11-23,-23.18605,included_game_day
+2018,24,Stanford Cardinal,2017-11-24,-25.593959,included_game_day
+2018,24,Stanford Cardinal,2017-11-26,-31.108115,included_game_day
+2018,24,Stanford Cardinal,2017-11-29,-15.747227500000001,included_game_day
+2018,24,Stanford Cardinal,2017-12-03,-27.9091650808,included_game_day
+2018,24,Stanford Cardinal,2017-12-15,-18.806619352915803,included_game_day
+2018,24,Stanford Cardinal,2017-12-17,-7.3185207111892225,included_game_day
+2018,24,Stanford Cardinal,2017-12-21,-14.265495150634802,included_game_day
+2018,24,Stanford Cardinal,2017-12-30,-21.026334188556657,included_game_day
+2018,24,Stanford Cardinal,2018-01-04,-6.040457704844258,included_game_day
+2018,24,Stanford Cardinal,2018-01-07,0.645256642445025,included_game_day
+2018,24,Stanford Cardinal,2018-01-11,11.970204751908973,included_game_day
+2018,24,Stanford Cardinal,2018-01-13,27.00623111782639,included_game_day
+2018,24,Stanford Cardinal,2018-01-17,40.42515205955091,included_game_day
+2018,24,Stanford Cardinal,2018-01-20,43.341570275207324,included_game_day
+2018,24,Stanford Cardinal,2018-01-24,47.254920687088514,included_game_day
+2018,24,Stanford Cardinal,2018-01-27,36.23128234452339,included_game_day
+2018,24,Stanford Cardinal,2018-02-01,43.48000741990363,included_game_day
+2018,24,Stanford Cardinal,2018-02-03,78.69619339117182,included_game_day
+2018,24,Stanford Cardinal,2018-02-08,63.9444186178824,included_game_day
+2018,24,Stanford Cardinal,2018-02-11,55.69762973821817,included_game_day
+2018,24,Stanford Cardinal,2018-02-18,50.82016302721258,included_game_day
+2018,24,Stanford Cardinal,2018-02-22,63.5201740036257,included_game_day
+2018,24,Stanford Cardinal,2018-02-24,51.294029773094096,included_game_day
+2018,24,Stanford Cardinal,2018-03-01,53.0819422747947,included_game_day
+2018,24,Stanford Cardinal,2018-03-03,60.150274689499376,included_game_day
+2018,24,Stanford Cardinal,2018-03-07,64.61301173346452,included_game_day
+2018,24,Stanford Cardinal,2018-03-08,56.79156161142979,included_game_day
+2018,24,Stanford Cardinal,2018-03-14,56.53160380832218,included_game_day
+2018,24,Stanford Cardinal,2018-03-19,57.01067480192412,included_game_day
+2019,24,Stanford Cardinal,2018-11-06,19.0,included_game_day
+2019,24,Stanford Cardinal,2018-11-09,33.0,included_game_day
+2019,24,Stanford Cardinal,2018-11-12,21.25,included_game_day
+2019,24,Stanford Cardinal,2018-11-21,8.9766,included_game_day
+2019,24,Stanford Cardinal,2018-11-22,-13.29586,included_game_day
+2019,24,Stanford Cardinal,2018-11-23,-4.2061519999999994,included_game_day
+2019,24,Stanford Cardinal,2018-11-28,2.8898432000000005,included_game_day
+2019,24,Stanford Cardinal,2018-12-01,3.83631788,included_game_day
+2019,24,Stanford Cardinal,2018-12-15,8.673624450621002,included_game_day
+2019,24,Stanford Cardinal,2018-12-18,4.019795415213901,included_game_day
+2019,24,Stanford Cardinal,2018-12-22,7.526395817260182,included_game_day
+2019,24,Stanford Cardinal,2018-12-29,6.8394125135011645,included_game_day
+2019,24,Stanford Cardinal,2019-01-03,-11.610148333004359,included_game_day
+2019,24,Stanford Cardinal,2019-01-06,-14.15168957999206,included_game_day
+2019,24,Stanford Cardinal,2019-01-09,-15.573882021289133,included_game_day
+2019,24,Stanford Cardinal,2019-01-12,2.786259022041783,included_game_day
+2019,24,Stanford Cardinal,2019-01-17,-1.952474068403962,included_game_day
+2019,24,Stanford Cardinal,2019-01-19,11.66942912708809,included_game_day
+2019,24,Stanford Cardinal,2019-01-24,6.367265850865896,included_game_day
+2019,24,Stanford Cardinal,2019-01-26,19.519295008193655,included_game_day
+2019,24,Stanford Cardinal,2019-02-03,14.810900267820987,included_game_day
+2019,24,Stanford Cardinal,2019-02-07,45.37393935789146,included_game_day
+2019,24,Stanford Cardinal,2019-02-10,24.57074793292404,included_game_day
+2019,24,Stanford Cardinal,2019-02-13,25.78692921374708,included_game_day
+2019,24,Stanford Cardinal,2019-02-16,47.058456157451076,included_game_day
+2019,24,Stanford Cardinal,2019-02-20,33.516656979583175,included_game_day
+2019,24,Stanford Cardinal,2019-02-24,18.804429829946645,included_game_day
+2019,24,Stanford Cardinal,2019-02-28,61.449027848197176,included_game_day
+2019,24,Stanford Cardinal,2019-03-03,59.56499801657776,included_game_day
+2019,24,Stanford Cardinal,2019-03-07,39.09975122805244,included_game_day
+2019,24,Stanford Cardinal,2019-03-13,27.990970753949373,included_game_day
+2020,24,Stanford Cardinal,2019-11-06,8.0,included_game_day
+2020,24,Stanford Cardinal,2019-11-09,18.7,included_game_day
+2020,24,Stanford Cardinal,2019-11-12,42.58,included_game_day
+2020,24,Stanford Cardinal,2019-11-16,55.092,included_game_day
+2020,24,Stanford Cardinal,2019-11-19,60.14949,included_game_day
+2020,24,Stanford Cardinal,2019-11-21,85.575571,included_game_day
+2020,24,Stanford Cardinal,2019-11-25,100.831411,included_game_day
+2020,24,Stanford Cardinal,2019-11-26,98.32307915,included_game_day
+2020,24,Stanford Cardinal,2019-12-01,97.678429405,included_game_day
+2020,24,Stanford Cardinal,2019-12-14,103.9893246402604,included_game_day
+2020,24,Stanford Cardinal,2019-12-17,104.19429275823605,included_game_day
+2020,24,Stanford Cardinal,2019-12-21,95.41799304586532,included_game_day
+2020,24,Stanford Cardinal,2019-12-29,79.44296971003384,included_game_day
+2020,24,Stanford Cardinal,2020-01-02,80.3836969271173,included_game_day
+2020,24,Stanford Cardinal,2020-01-09,85.05281448341273,included_game_day
+2020,24,Stanford Cardinal,2020-01-11,101.36183522325078,included_game_day
+2020,24,Stanford Cardinal,2020-01-15,108.51703801567858,included_game_day
+2020,24,Stanford Cardinal,2020-01-18,102.57923847541798,included_game_day
+2020,24,Stanford Cardinal,2020-01-26,88.68089081056472,included_game_day
+2020,24,Stanford Cardinal,2020-01-30,74.13073279838514,included_game_day
+2020,24,Stanford Cardinal,2020-02-01,83.51991495633678,included_game_day
+2020,24,Stanford Cardinal,2020-02-06,71.14377273745887,included_game_day
+2020,24,Stanford Cardinal,2020-02-08,71.96651649022486,included_game_day
+2020,24,Stanford Cardinal,2020-02-13,63.75825765012516,included_game_day
+2020,24,Stanford Cardinal,2020-02-15,56.585311494809744,included_game_day
+2020,24,Stanford Cardinal,2020-02-20,65.54731271737363,included_game_day
+2020,24,Stanford Cardinal,2020-02-23,79.64006470610684,included_game_day
+2020,24,Stanford Cardinal,2020-02-26,78.42012988240295,included_game_day
+2020,24,Stanford Cardinal,2020-03-01,83.86669467770841,included_game_day
+2020,24,Stanford Cardinal,2020-03-05,78.13843935817825,included_game_day
+2020,24,Stanford Cardinal,2020-03-07,72.70359893401651,included_game_day
+2020,24,Stanford Cardinal,2020-03-11,50.13245617381227,included_game_day
+2021,24,Stanford Cardinal,2020-11-30,20.1,included_game_day
+2021,24,Stanford Cardinal,2020-12-01,18.07,included_game_day
+2021,24,Stanford Cardinal,2020-12-02,2.8049999999999997,included_game_day
+2021,24,Stanford Cardinal,2020-12-06,34.6548,included_game_day
+2021,24,Stanford Cardinal,2020-12-15,46.9572348,included_game_day
+2021,24,Stanford Cardinal,2020-12-19,48.87821962,included_game_day
+2021,24,Stanford Cardinal,2020-12-21,52.868641658,included_game_day
+2021,24,Stanford Cardinal,2021-01-02,41.865652015284,included_game_day
+2021,24,Stanford Cardinal,2021-01-04,51.0967937189832,included_game_day
+2021,24,Stanford Cardinal,2021-01-07,56.18809260400448,included_game_day
+2021,24,Stanford Cardinal,2021-01-09,70.53993725830496,included_game_day
+2021,24,Stanford Cardinal,2021-01-14,54.47732625255712,included_game_day
+2021,24,Stanford Cardinal,2021-01-16,50.5039773010984,included_game_day
+2021,24,Stanford Cardinal,2021-01-23,51.11822197462285,included_game_day
+2021,24,Stanford Cardinal,2021-01-28,67.25197619910205,included_game_day
+2021,24,Stanford Cardinal,2021-01-30,59.33957213043373,included_game_day
+2021,24,Stanford Cardinal,2021-02-02,53.42656527191621,included_game_day
+2021,24,Stanford Cardinal,2021-02-04,64.25104331578665,included_game_day
+2021,24,Stanford Cardinal,2021-02-07,57.910625750883,included_game_day
+2021,24,Stanford Cardinal,2021-02-11,41.7131606401184,included_game_day
+2021,24,Stanford Cardinal,2021-02-13,46.86966767952833,included_game_day
+2021,24,Stanford Cardinal,2021-02-18,59.36250159428201,included_game_day
+2021,24,Stanford Cardinal,2021-02-20,51.450607154535035,included_game_day
+2021,24,Stanford Cardinal,2021-02-25,46.35653502772642,included_game_day
+2021,24,Stanford Cardinal,2021-02-27,29.817848943335644,included_game_day
+2021,24,Stanford Cardinal,2021-03-03,0.6101852857031638,included_game_day
+2021,24,Stanford Cardinal,2021-03-10,-21.36608338311812,included_game_day
+2022,24,Stanford Cardinal,2021-11-09,9.0,included_game_day
+2022,24,Stanford Cardinal,2021-11-12,-4.5,included_game_day
+2022,24,Stanford Cardinal,2021-11-15,6.8100000000000005,included_game_day
+2022,24,Stanford Cardinal,2021-11-17,15.369,included_game_day
+2022,24,Stanford Cardinal,2021-11-20,-13.363,included_game_day
+2022,24,Stanford Cardinal,2021-11-23,-3.0608000000000004,included_game_day
+2022,24,Stanford Cardinal,2021-11-28,-0.03186400000000056,included_game_day
+2022,24,Stanford Cardinal,2021-12-12,0.26902273217999984,included_game_day
+2022,24,Stanford Cardinal,2021-12-16,5.74919371047248,included_game_day
+2022,24,Stanford Cardinal,2021-12-19,8.47708866226533,included_game_day
+2022,24,Stanford Cardinal,2021-12-22,18.447985522568597,included_game_day
+2022,24,Stanford Cardinal,2021-12-23,22.329278335372123,included_game_day
+2022,24,Stanford Cardinal,2022-01-11,33.97284168166051,included_game_day
+2022,24,Stanford Cardinal,2022-01-13,46.90471754597614,included_game_day
+2022,24,Stanford Cardinal,2022-01-15,42.553075065034186,included_game_day
+2022,24,Stanford Cardinal,2022-01-20,24.623397267490095,included_game_day
+2022,24,Stanford Cardinal,2022-01-22,19.212053531316805,included_game_day
+2022,24,Stanford Cardinal,2022-01-27,32.73026191157895,included_game_day
+2022,24,Stanford Cardinal,2022-01-29,22.301541343098478,included_game_day
+2022,24,Stanford Cardinal,2022-02-01,24.735784623345857,included_game_day
+2022,24,Stanford Cardinal,2022-02-03,23.06523994900497,included_game_day
+2022,24,Stanford Cardinal,2022-02-06,38.43189254754078,included_game_day
+2022,24,Stanford Cardinal,2022-02-08,34.524383448845086,included_game_day
+2022,24,Stanford Cardinal,2022-02-10,35.50979579701611,included_game_day
+2022,24,Stanford Cardinal,2022-02-12,39.67904464971794,included_game_day
+2022,24,Stanford Cardinal,2022-02-17,29.650863765171046,included_game_day
+2022,24,Stanford Cardinal,2022-02-19,12.262028925005836,included_game_day
+2022,24,Stanford Cardinal,2022-02-26,0.23317555491168562,included_game_day
+2022,24,Stanford Cardinal,2022-03-03,6.8790248561016725,included_game_day
+2022,24,Stanford Cardinal,2022-03-05,7.892802740388994,included_game_day
+2022,24,Stanford Cardinal,2022-03-09,15.703825047818851,included_game_day
+2022,24,Stanford Cardinal,2022-03-10,26.0809391574454,included_game_day
+2023,24,Stanford Cardinal,2022-11-07,7.0,included_game_day
+2023,24,Stanford Cardinal,2022-11-11,-1.4000000000000004,included_game_day
+2023,24,Stanford Cardinal,2022-11-15,-14.05,included_game_day
+2023,24,Stanford Cardinal,2022-11-18,20.554999999999996,included_game_day
+2023,24,Stanford Cardinal,2022-11-24,16.751299999999997,included_game_day
+2023,24,Stanford Cardinal,2022-11-25,21.030797999999997,included_game_day
+2023,24,Stanford Cardinal,2022-11-27,14.635088831999997,included_game_day
+2023,24,Stanford Cardinal,2022-12-01,6.533577501799996,included_game_day
+2023,24,Stanford Cardinal,2022-12-04,12.394877191619996,included_game_day
+2023,24,Stanford Cardinal,2022-12-16,42.37301853691753,included_game_day
+2023,24,Stanford Cardinal,2022-12-18,39.68147944213518,included_game_day
+2023,24,Stanford Cardinal,2022-12-22,49.58421103072825,included_game_day
+2023,24,Stanford Cardinal,2022-12-29,44.767262405683525,included_game_day
+2023,24,Stanford Cardinal,2022-12-31,41.66248451876513,included_game_day
+2023,24,Stanford Cardinal,2023-01-06,14.877085813657043,included_game_day
+2023,24,Stanford Cardinal,2023-01-12,0.37881612623200667,included_game_day
+2023,24,Stanford Cardinal,2023-01-14,9.68892362980395,included_game_day
+2023,24,Stanford Cardinal,2023-01-19,24.108089223452275,included_game_day
+2023,24,Stanford Cardinal,2023-01-21,33.50062709096749,included_game_day
+2023,24,Stanford Cardinal,2023-01-25,29.807565737933785,included_game_day
+2023,24,Stanford Cardinal,2023-01-28,46.922747736221815,included_game_day
+2023,24,Stanford Cardinal,2023-02-02,60.12326242631984,included_game_day
+2023,24,Stanford Cardinal,2023-02-05,39.566478244921775,included_game_day
+2023,24,Stanford Cardinal,2023-02-09,32.036196599550074,included_game_day
+2023,24,Stanford Cardinal,2023-02-11,49.76600580250958,included_game_day
+2023,24,Stanford Cardinal,2023-02-16,54.00441690831634,included_game_day
+2023,24,Stanford Cardinal,2023-02-18,50.25051673609699,included_game_day
+2023,24,Stanford Cardinal,2023-02-23,43.95709361712239,included_game_day
+2023,24,Stanford Cardinal,2023-02-26,51.21999970337179,included_game_day
+2023,24,Stanford Cardinal,2023-03-02,69.2647428940466,included_game_day
+2023,24,Stanford Cardinal,2023-03-04,69.20786212046491,included_game_day
+2023,24,Stanford Cardinal,2023-03-08,77.15691891220177,included_game_day
+2023,24,Stanford Cardinal,2023-03-09,72.11009806173908,included_game_day
+2024,24,Stanford Cardinal,2023-11-06,6.0,included_game_day
+2024,24,Stanford Cardinal,2023-11-10,19.3,included_game_day
+2024,24,Stanford Cardinal,2023-11-14,4.2780000000000005,included_game_day
+2024,24,Stanford Cardinal,2023-11-17,22.032200000000003,included_game_day
+2024,24,Stanford Cardinal,2023-11-22,19.985680000000002,included_game_day
+2024,24,Stanford Cardinal,2023-11-23,16.973602000000003,included_game_day
+2024,24,Stanford Cardinal,2023-11-24,-8.843408299999997,included_game_day
+2024,24,Stanford Cardinal,2023-12-03,14.057213523900003,included_game_day
+2024,24,Stanford Cardinal,2023-12-17,27.045038122968002,included_game_day
+2024,24,Stanford Cardinal,2023-12-21,17.7179220259303,included_game_day
+2024,24,Stanford Cardinal,2023-12-29,9.017021632252344,included_game_day
+2024,24,Stanford Cardinal,2023-12-31,39.29456458044386,included_game_day
+2024,24,Stanford Cardinal,2024-01-03,46.22934494687891,included_game_day
+2024,24,Stanford Cardinal,2024-01-06,32.5812099403893,included_game_day
+2024,24,Stanford Cardinal,2024-01-11,36.81506517494581,included_game_day
+2024,24,Stanford Cardinal,2024-01-14,47.721442281304704,included_game_day
+2024,24,Stanford Cardinal,2024-01-18,33.204715459876994,included_game_day
+2024,24,Stanford Cardinal,2024-01-20,41.910003386324064,included_game_day
+2024,24,Stanford Cardinal,2024-01-26,41.01196971507401,included_game_day
+2024,24,Stanford Cardinal,2024-02-01,48.81680360467242,included_game_day
+2024,24,Stanford Cardinal,2024-02-04,51.000236716275325,included_game_day
+2024,24,Stanford Cardinal,2024-02-07,38.49512920181773,included_game_day
+2024,24,Stanford Cardinal,2024-02-10,63.8093433766579,included_game_day
+2024,24,Stanford Cardinal,2024-02-15,46.45809506569573,included_game_day
+2024,24,Stanford Cardinal,2024-02-17,43.36941078947184,included_game_day
+2024,24,Stanford Cardinal,2024-02-22,28.25330537611455,included_game_day
+2024,24,Stanford Cardinal,2024-02-24,6.669279192478651,included_game_day
+2024,24,Stanford Cardinal,2024-02-29,-10.301009525344792,included_game_day
+2024,24,Stanford Cardinal,2024-03-03,-7.089925515092537,included_game_day
+2024,24,Stanford Cardinal,2024-03-07,13.42074034619129,included_game_day
+2024,24,Stanford Cardinal,2024-03-13,21.82927303521835,included_game_day
+2024,24,Stanford Cardinal,2024-03-14,11.346185441847156,included_game_day
+2025,24,Stanford Cardinal,2024-11-04,20.0,included_game_day
+2025,24,Stanford Cardinal,2024-11-08,41.3,included_game_day
+2025,24,Stanford Cardinal,2024-11-12,60.17,included_game_day
+2025,24,Stanford Cardinal,2024-11-17,65.583,included_game_day
+2025,24,Stanford Cardinal,2024-11-20,64.088,included_game_day
+2025,24,Stanford Cardinal,2024-11-23,63.807204999999996,included_game_day
+2025,24,Stanford Cardinal,2024-11-26,50.630444499999996,included_game_day
+2025,24,Stanford Cardinal,2024-11-30,33.998303789999994,included_game_day
+2025,24,Stanford Cardinal,2024-12-03,40.500831080999994,included_game_day
+2025,24,Stanford Cardinal,2024-12-07,51.7430417776,included_game_day
+2025,24,Stanford Cardinal,2024-12-17,47.805368979079,included_game_day
+2025,24,Stanford Cardinal,2024-12-21,36.2383130863413,included_game_day
+2025,24,Stanford Cardinal,2025-01-01,30.357355512486258,included_game_day
+2025,24,Stanford Cardinal,2025-01-04,27.24045059131283,included_game_day
+2025,24,Stanford Cardinal,2025-01-08,30.947673073100518,included_game_day
+2025,24,Stanford Cardinal,2025-01-11,46.75698106074803,included_game_day
+2025,24,Stanford Cardinal,2025-01-15,38.15212067750498,included_game_day
+2025,24,Stanford Cardinal,2025-01-18,47.722499890731136,included_game_day
+2025,24,Stanford Cardinal,2025-01-22,70.87731633151955,included_game_day
+2025,24,Stanford Cardinal,2025-01-25,74.49045356218978,included_game_day
+2025,24,Stanford Cardinal,2025-01-29,73.34121136599053,included_game_day
+2025,24,Stanford Cardinal,2025-02-01,54.44847702215658,included_game_day
+2025,24,Stanford Cardinal,2025-02-05,47.344617783307235,included_game_day
+2025,24,Stanford Cardinal,2025-02-08,41.644284066551485,included_game_day
+2025,24,Stanford Cardinal,2025-02-12,36.04267335171638,included_game_day
+2025,24,Stanford Cardinal,2025-02-15,18.98063631071769,included_game_day
+2025,24,Stanford Cardinal,2025-02-22,19.982795559224183,included_game_day
+2025,24,Stanford Cardinal,2025-02-26,31.873154523720867,included_game_day
+2025,24,Stanford Cardinal,2025-03-01,41.61095049986608,included_game_day
+2025,24,Stanford Cardinal,2025-03-05,39.731040296473296,included_game_day
+2025,24,Stanford Cardinal,2025-03-08,32.43560204790353,included_game_day
+2025,24,Stanford Cardinal,2025-03-12,36.30041914966925,included_game_day
+2025,24,Stanford Cardinal,2025-03-13,45.07758684063687,included_game_day
+2025,24,Stanford Cardinal,2025-03-18,58.32074645277082,included_game_day
+2025,24,Stanford Cardinal,2025-03-23,52.07484113928629,included_game_day
+2026,24,Stanford Cardinal,2025-11-04,7.0,included_game_day
+2026,24,Stanford Cardinal,2025-11-08,26.3,included_game_day
+2026,24,Stanford Cardinal,2025-11-12,28.759,included_game_day
+2026,24,Stanford Cardinal,2025-11-18,46.4014,included_game_day
+2026,24,Stanford Cardinal,2025-11-21,33.35609,included_game_day
+2026,24,Stanford Cardinal,2025-11-27,36.1317821,included_game_day
+2026,24,Stanford Cardinal,2025-11-28,42.57261682,included_game_day
+2026,24,Stanford Cardinal,2025-12-01,55.550178568,included_game_day
+2026,24,Stanford Cardinal,2025-12-07,42.9163086612,included_game_day
+2026,24,Stanford Cardinal,2025-12-13,43.0048446429087,included_game_day
+2026,24,Stanford Cardinal,2025-12-17,52.00448579839883,included_game_day
+2026,24,Stanford Cardinal,2025-12-20,63.41657583722175,included_game_day
+2026,24,Stanford Cardinal,2025-12-27,60.877013041655125,included_game_day
+2026,24,Stanford Cardinal,2025-12-30,50.25414382841397,included_game_day
+2026,24,Stanford Cardinal,2026-01-02,63.70894081655048,included_game_day
+2026,24,Stanford Cardinal,2026-01-07,69.17142879167548,included_game_day
+2026,24,Stanford Cardinal,2026-01-10,66.27777803862666,included_game_day
+2026,24,Stanford Cardinal,2026-01-14,73.72889195309163,included_game_day
+2026,24,Stanford Cardinal,2026-01-17,51.036206587765875,included_game_day
+2026,24,Stanford Cardinal,2026-01-24,37.6303258741989,included_game_day
+2026,24,Stanford Cardinal,2026-01-28,39.848653917495135,included_game_day
+2026,24,Stanford Cardinal,2026-01-31,34.30233506893861,included_game_day
+2026,24,Stanford Cardinal,2026-02-04,39.42922559555484,included_game_day
+2026,24,Stanford Cardinal,2026-02-07,57.818588909906715,included_game_day
+2026,24,Stanford Cardinal,2026-02-11,63.20558827274875,included_game_day
+2026,24,Stanford Cardinal,2026-02-14,59.90652133526178,included_game_day
+2026,24,Stanford Cardinal,2026-02-21,57.481654754788295,included_game_day
+2026,24,Stanford Cardinal,2026-02-25,58.937255888819365,included_game_day
+2026,24,Stanford Cardinal,2026-02-28,83.10130811208806,included_game_day
+2026,24,Stanford Cardinal,2026-03-04,87.89413334864275,included_game_day
+2026,24,Stanford Cardinal,2026-03-07,91.54771046954136,included_game_day
+2026,24,Stanford Cardinal,2026-03-10,86.28098576295713,included_game_day
+2026,24,Stanford Cardinal,2026-04-02,78.08980432892767,included_game_day
+2027,24,Stanford Cardinal,2026-11-02,6.0,included_game_day
+2027,24,Stanford Cardinal,2026-11-06,19.1,included_game_day
+2027,24,Stanford Cardinal,2026-11-09,31.86,included_game_day
+2027,24,Stanford Cardinal,2026-11-13,25.084,included_game_day
+2027,24,Stanford Cardinal,2026-11-17,24.6556,included_game_day
+2027,24,Stanford Cardinal,2026-11-19,29.97333,included_game_day

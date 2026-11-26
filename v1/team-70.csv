@@ -1,0 +1,1108 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,70,Idaho,1987-11-27,4.0,included_game_day
+1988,70,Idaho,1987-11-28,9.8,included_game_day
+1988,70,Idaho,1987-12-04,5.089,included_game_day
+1988,70,Idaho,1987-12-05,-4.2499,included_game_day
+1988,70,Idaho,1987-12-11,-7.897756,included_game_day
+1988,70,Idaho,1987-12-12,-8.7638331,included_game_day
+1988,70,Idaho,1987-12-22,-25.9853058001,included_game_day
+1988,70,Idaho,1987-12-26,-17.24600301309,included_game_day
+1988,70,Idaho,1988-01-02,-12.430426369231,included_game_day
+1988,70,Idaho,1988-01-07,-11.466411203985013,included_game_day
+1988,70,Idaho,1988-01-09,-4.8259997622309765,included_game_day
+1988,70,Idaho,1988-01-15,3.4733982434313955,included_game_day
+1988,70,Idaho,1988-01-16,9.361596091559104,included_game_day
+1988,70,Idaho,1988-01-21,23.82656793911881,included_game_day
+1988,70,Idaho,1988-01-23,24.98435479054871,included_game_day
+1988,70,Idaho,1988-01-29,27.69395310319304,included_game_day
+1988,70,Idaho,1988-02-02,12.101836227375147,included_game_day
+1988,70,Idaho,1988-02-06,5.847330850869161,included_game_day
+1988,70,Idaho,1988-02-11,-0.4218299911917258,included_game_day
+1988,70,Idaho,1988-02-13,-1.4307019288498255,included_game_day
+1988,70,Idaho,1988-02-18,-5.626251423027191,included_game_day
+1988,70,Idaho,1988-02-20,-18.38848185266107,included_game_day
+1988,70,Idaho,1988-02-25,-16.580791571086376,included_game_day
+1988,70,Idaho,1988-02-27,-22.115532437160788,included_game_day
+1988,70,Idaho,1988-03-03,-17.490149804492436,included_game_day
+1988,70,Idaho,1988-03-05,-36.91385228488941,included_game_day
+1988,70,Idaho,1988-03-09,-40.625419152562834,included_game_day
+1989,70,Idaho,1988-11-25,25.0,included_game_day
+1989,70,Idaho,1988-11-26,30.6,included_game_day
+1989,70,Idaho,1988-11-29,35.0,included_game_day
+1989,70,Idaho,1988-12-03,26.28,included_game_day
+1989,70,Idaho,1988-12-05,37.212,included_game_day
+1989,70,Idaho,1988-12-09,46.931923000000005,included_game_day
+1989,70,Idaho,1988-12-10,63.610570700000004,included_game_day
+1989,70,Idaho,1988-12-27,48.13467879174634,included_game_day
+1989,70,Idaho,1989-01-05,36.593322822661726,included_game_day
+1989,70,Idaho,1989-01-07,45.6542945909893,included_game_day
+1989,70,Idaho,1989-01-12,64.7135688333397,included_game_day
+1989,70,Idaho,1989-01-14,90.47888478199177,included_game_day
+1989,70,Idaho,1989-01-20,89.8730250480049,included_game_day
+1989,70,Idaho,1989-01-21,88.9372857951916,included_game_day
+1989,70,Idaho,1989-01-26,103.18869439294096,included_game_day
+1989,70,Idaho,1989-01-28,108.05529795770337,included_game_day
+1989,70,Idaho,1989-02-05,96.9485808095133,included_game_day
+1989,70,Idaho,1989-02-09,89.09976104641974,included_game_day
+1989,70,Idaho,1989-02-11,81.24415016433223,included_game_day
+1989,70,Idaho,1989-02-16,81.85284771897231,included_game_day
+1989,70,Idaho,1989-02-18,85.96351238516165,included_game_day
+1989,70,Idaho,1989-02-23,84.93146986535862,included_game_day
+1989,70,Idaho,1989-03-02,87.5726271500116,included_game_day
+1989,70,Idaho,1989-03-04,110.68386235184678,included_game_day
+1989,70,Idaho,1989-03-10,123.00875697506962,included_game_day
+1989,70,Idaho,1989-03-11,126.50878546409314,included_game_day
+1989,70,Idaho,1989-03-16,114.79965821747109,included_game_day
+1990,70,Idaho,1989-11-30,-20.7654,included_game_day
+1990,70,Idaho,1989-12-05,4.331160000000001,included_game_day
+1990,70,Idaho,1989-12-08,0.1769740000000004,included_game_day
+1990,70,Idaho,1989-12-09,26.9869377,included_game_day
+1990,70,Idaho,1989-12-11,35.97826764,included_game_day
+1990,70,Idaho,1989-12-14,41.898386709,included_game_day
+1990,70,Idaho,1989-12-16,57.181935518100005,included_game_day
+1990,70,Idaho,1989-12-29,60.94366373148701,included_game_day
+1990,70,Idaho,1989-12-30,77.94246888845927,included_game_day
+1990,70,Idaho,1990-01-04,82.87741799789927,included_game_day
+1990,70,Idaho,1990-01-06,107.76154007524988,included_game_day
+1990,70,Idaho,1990-01-11,109.62619254055944,included_game_day
+1990,70,Idaho,1990-01-13,95.41770834797653,included_game_day
+1990,70,Idaho,1990-01-18,98.30051837064752,included_game_day
+1990,70,Idaho,1990-01-20,100.72675002908193,included_game_day
+1990,70,Idaho,1990-01-26,99.96098763506572,included_game_day
+1990,70,Idaho,1990-01-27,109.09111900033899,included_game_day
+1990,70,Idaho,1990-02-01,82.5654959485987,included_game_day
+1990,70,Idaho,1990-02-03,76.66788428010787,included_game_day
+1990,70,Idaho,1990-02-08,86.18772704186355,included_game_day
+1990,70,Idaho,1990-02-10,90.6851558585204,included_game_day
+1990,70,Idaho,1990-02-14,91.83577683487279,included_game_day
+1990,70,Idaho,1990-02-22,88.23995072865748,included_game_day
+1990,70,Idaho,1990-02-24,79.15177676104773,included_game_day
+1990,70,Idaho,1990-03-01,94.4100811457667,included_game_day
+1990,70,Idaho,1990-03-09,92.99416068512035,included_game_day
+1990,70,Idaho,1990-03-10,88.92509225968239,included_game_day
+1990,70,Idaho,1990-03-15,72.1571308308007,included_game_day
+1991,70,Idaho,1990-11-23,1.0,included_game_day
+1991,70,Idaho,1990-11-24,-3.0999999999999996,included_game_day
+1991,70,Idaho,1990-12-01,1.2100000000000009,included_game_day
+1991,70,Idaho,1990-12-04,1.1771800000000008,included_game_day
+1991,70,Idaho,1990-12-14,-15.776141200000001,included_game_day
+1991,70,Idaho,1990-12-16,-33.455543188,included_game_day
+1991,70,Idaho,1990-12-22,-26.8432202134738,included_game_day
+1991,70,Idaho,1990-12-28,-27.72549367247653,included_game_day
+1991,70,Idaho,1991-01-03,-40.71336136046316,included_game_day
+1991,70,Idaho,1991-01-05,-21.658469170828926,included_game_day
+1991,70,Idaho,1991-01-11,-20.46463556143274,included_game_day
+1991,70,Idaho,1991-01-12,-14.437359377537994,included_game_day
+1991,70,Idaho,1991-01-17,-13.439592091418401,included_game_day
+1991,70,Idaho,1991-01-19,-11.830909243584209,included_game_day
+1991,70,Idaho,1991-01-24,-4.956274741093624,included_game_day
+1991,70,Idaho,1991-01-26,10.098972865919782,included_game_day
+1991,70,Idaho,1991-02-02,20.166872824805452,included_game_day
+1991,70,Idaho,1991-02-07,15.612235344255279,included_game_day
+1991,70,Idaho,1991-02-09,17.275461032515572,included_game_day
+1991,70,Idaho,1991-02-14,21.467920930852916,included_game_day
+1991,70,Idaho,1991-02-16,0.964021749079695,included_game_day
+1991,70,Idaho,1991-02-24,1.0235405550709284,included_game_day
+1991,70,Idaho,1991-02-25,11.48971110328994,included_game_day
+1991,70,Idaho,1991-02-28,0.24766825835528472,included_game_day
+1991,70,Idaho,1991-03-02,9.400649491731013,included_game_day
+1991,70,Idaho,1991-03-07,14.48589115674212,included_game_day
+1991,70,Idaho,1991-03-08,32.460382454420284,included_game_day
+1991,70,Idaho,1991-03-09,26.40158278304026,included_game_day
+1992,70,Idaho,1991-11-22,12.0,included_game_day
+1992,70,Idaho,1991-11-29,-8.0,included_game_day
+1992,70,Idaho,1991-11-30,-2.55,included_game_day
+1992,70,Idaho,1991-12-05,-25.845000000000002,included_game_day
+1992,70,Idaho,1991-12-10,-26.209318100000004,included_game_day
+1992,70,Idaho,1991-12-14,-12.651848590000004,included_game_day
+1992,70,Idaho,1991-12-22,-26.454914045200002,included_game_day
+1992,70,Idaho,1991-12-27,-36.4165360770773,included_game_day
+1992,70,Idaho,1991-12-28,-39.63039846416957,included_game_day
+1992,70,Idaho,1992-01-02,-52.12043264320407,included_game_day
+1992,70,Idaho,1992-01-04,-50.197513982224564,included_game_day
+1992,70,Idaho,1992-01-11,-31.937063193653824,included_game_day
+1992,70,Idaho,1992-01-16,-23.85896208608523,included_game_day
+1992,70,Idaho,1992-01-18,-25.549368005042297,included_game_day
+1992,70,Idaho,1992-01-23,-27.590397004440444,included_game_day
+1992,70,Idaho,1992-01-25,-37.39745818739559,included_game_day
+1992,70,Idaho,1992-01-30,-31.446298390306392,included_game_day
+1992,70,Idaho,1992-02-04,-4.904673360080537,included_game_day
+1992,70,Idaho,1992-02-06,-7.74647215274612,included_game_day
+1992,70,Idaho,1992-02-08,9.372875255125868,included_game_day
+1992,70,Idaho,1992-02-15,3.2334685530298026,included_game_day
+1992,70,Idaho,1992-02-20,3.421329830201333,included_game_day
+1992,70,Idaho,1992-02-22,14.885331983148063,included_game_day
+1992,70,Idaho,1992-02-27,9.586838089095654,included_game_day
+1992,70,Idaho,1992-02-29,23.05358539540876,included_game_day
+1992,70,Idaho,1992-03-03,6.176090970594014,included_game_day
+1992,70,Idaho,1992-03-07,1.2580066037846436,included_game_day
+1992,70,Idaho,1992-03-12,20.220581853938576,included_game_day
+1992,70,Idaho,1992-03-13,11.925061419027498,included_game_day
+1993,70,Idaho,1992-12-04,10.0,included_game_day
+1993,70,Idaho,1992-12-05,8.58,included_game_day
+1993,70,Idaho,1992-12-09,6.712,included_game_day
+1993,70,Idaho,1992-12-12,-11.729099999999999,included_game_day
+1993,70,Idaho,1992-12-18,-6.977029299999999,included_game_day
+1993,70,Idaho,1992-12-21,7.033406630000001,included_game_day
+1993,70,Idaho,1992-12-29,6.205946447989801,included_game_day
+1993,70,Idaho,1992-12-30,3.6402550839426207,included_game_day
+1993,70,Idaho,1993-01-02,8.68897111024836,included_game_day
+1993,70,Idaho,1993-01-15,14.585201934074927,included_game_day
+1993,70,Idaho,1993-01-16,20.666345596158298,included_game_day
+1993,70,Idaho,1993-01-22,34.85135089401967,included_game_day
+1993,70,Idaho,1993-01-28,34.285535011616666,included_game_day
+1993,70,Idaho,1993-01-30,36.77804031927791,included_game_day
+1993,70,Idaho,1993-02-05,46.120724489038565,included_game_day
+1993,70,Idaho,1993-02-06,49.17459460546633,included_game_day
+1993,70,Idaho,1993-02-12,44.435942313639146,included_game_day
+1993,70,Idaho,1993-02-13,39.85960549504053,included_game_day
+1993,70,Idaho,1993-02-17,30.541461500205912,included_game_day
+1993,70,Idaho,1993-02-22,23.160377840542985,included_game_day
+1993,70,Idaho,1993-02-28,38.533116151179456,included_game_day
+1993,70,Idaho,1993-03-01,19.51015480818749,included_game_day
+1993,70,Idaho,1993-03-05,39.772355628156525,included_game_day
+1993,70,Idaho,1993-03-06,45.05325748553342,included_game_day
+1993,70,Idaho,1993-03-11,39.69471135038839,included_game_day
+1993,70,Idaho,1993-03-12,22.555862068703025,included_game_day
+1994,70,Idaho,1993-12-03,-9.0,included_game_day
+1994,70,Idaho,1993-12-04,-7.035,included_game_day
+1994,70,Idaho,1993-12-07,-20.1119,included_game_day
+1994,70,Idaho,1993-12-12,-9.996939999999999,included_game_day
+1994,70,Idaho,1993-12-18,8.507658000000003,included_game_day
+1994,70,Idaho,1993-12-21,7.2729972000000025,included_game_day
+1994,70,Idaho,1993-12-30,3.416431363020002,included_game_day
+1994,70,Idaho,1994-01-03,16.127772112695517,included_game_day
+1994,70,Idaho,1994-01-14,29.093130441843442,included_game_day
+1994,70,Idaho,1994-01-15,36.321844915647695,included_game_day
+1994,70,Idaho,1994-01-21,24.580391752815693,included_game_day
+1994,70,Idaho,1994-01-27,17.953004444926925,included_game_day
+1994,70,Idaho,1994-01-29,11.179680347951619,included_game_day
+1994,70,Idaho,1994-02-04,17.940713211832495,included_game_day
+1994,70,Idaho,1994-02-05,14.227302223755746,included_game_day
+1994,70,Idaho,1994-02-11,11.799610620421456,included_game_day
+1994,70,Idaho,1994-02-12,19.683139702704995,included_game_day
+1994,70,Idaho,1994-02-16,21.093445291090784,included_game_day
+1994,70,Idaho,1994-02-19,29.44751605052086,included_game_day
+1994,70,Idaho,1994-02-24,34.84945497657083,included_game_day
+1994,70,Idaho,1994-02-26,28.70527911799763,included_game_day
+1994,70,Idaho,1994-03-04,30.696132535422148,included_game_day
+1994,70,Idaho,1994-03-05,23.190309037726266,included_game_day
+1994,70,Idaho,1994-03-10,33.412296500482555,included_game_day
+1994,70,Idaho,1994-03-11,25.38543895605022,included_game_day
+1995,70,Idaho,1994-12-06,-5.406000000000001,included_game_day
+1995,70,Idaho,1994-12-10,-26.665399999999998,included_game_day
+1995,70,Idaho,1994-12-16,-11.935579999999998,included_game_day
+1995,70,Idaho,1994-12-21,-29.564771159999996,included_game_day
+1995,70,Idaho,1994-12-29,-43.361790724849996,included_game_day
+1995,70,Idaho,1994-12-30,-39.599111182679394,included_game_day
+1995,70,Idaho,1995-01-03,-45.241041275532375,included_game_day
+1995,70,Idaho,1995-01-09,-27.862972293969392,included_game_day
+1995,70,Idaho,1995-01-13,-29.521512435158925,included_game_day
+1995,70,Idaho,1995-01-14,-26.437396801537894,included_game_day
+1995,70,Idaho,1995-01-17,-20.282565503241734,included_game_day
+1995,70,Idaho,1995-01-21,-16.940248900079872,included_game_day
+1995,70,Idaho,1995-01-26,-26.798376775319262,included_game_day
+1995,70,Idaho,1995-01-28,-22.128772838481485,included_game_day
+1995,70,Idaho,1995-02-03,-23.460644742963666,included_game_day
+1995,70,Idaho,1995-02-04,-6.0022211858968255,included_game_day
+1995,70,Idaho,1995-02-10,-4.0518203243911755,included_game_day
+1995,70,Idaho,1995-02-11,1.6571858730624172,included_game_day
+1995,70,Idaho,1995-02-17,4.822198753717515,included_game_day
+1995,70,Idaho,1995-02-26,-3.8683936570997197,included_game_day
+1995,70,Idaho,1995-02-27,0.5861874054088378,included_game_day
+1995,70,Idaho,1995-03-03,-18.37373333162978,included_game_day
+1995,70,Idaho,1995-03-04,-24.316532779707572,included_game_day
+1995,70,Idaho,1995-03-09,-20.324605893482364,included_game_day
+1996,70,Idaho,1995-12-01,0.20000000000000018,included_game_day
+1996,70,Idaho,1995-12-02,7.167000000000001,included_game_day
+1996,70,Idaho,1995-12-06,9.0432,included_game_day
+1996,70,Idaho,1995-12-09,-6.214119999999999,included_game_day
+1996,70,Idaho,1995-12-17,-8.762574153,included_game_day
+1996,70,Idaho,1995-12-27,2.25546433349,included_game_day
+1996,70,Idaho,1995-12-28,2.42575333564187,included_game_day
+1996,70,Idaho,1996-01-06,0.9091498898435457,included_game_day
+1996,70,Idaho,1996-01-12,-19.58815595580051,included_game_day
+1996,70,Idaho,1996-01-13,-22.17824375917867,included_game_day
+1996,70,Idaho,1996-01-16,-11.3663547531559,included_game_day
+1996,70,Idaho,1996-01-19,5.022670566339045,included_game_day
+1996,70,Idaho,1996-01-25,5.848077904625585,included_game_day
+1996,70,Idaho,1996-01-27,-3.253752667062775,included_game_day
+1996,70,Idaho,1996-02-02,-23.10826501892926,included_game_day
+1996,70,Idaho,1996-02-03,-17.62407951469455,included_game_day
+1996,70,Idaho,1996-02-09,-21.33867803816919,included_game_day
+1996,70,Idaho,1996-02-10,-34.54187114626829,included_game_day
+1996,70,Idaho,1996-02-13,-39.38583147104016,included_game_day
+1996,70,Idaho,1996-02-17,-35.33572563423088,included_game_day
+1996,70,Idaho,1996-02-22,-49.980228673965286,included_game_day
+1996,70,Idaho,1996-02-24,-47.71399384051071,included_game_day
+1996,70,Idaho,1996-02-29,-40.84379619487246,included_game_day
+1996,70,Idaho,1996-03-02,-25.813019829464846,included_game_day
+1996,70,Idaho,1996-03-07,-14.788398737138753,included_game_day
+1996,70,Idaho,1996-03-08,-26.64216106545969,included_game_day
+1997,70,Idaho,1996-11-24,-20.0,included_game_day
+1997,70,Idaho,1996-11-27,-16.0,included_game_day
+1997,70,Idaho,1996-11-30,-26.63,included_game_day
+1997,70,Idaho,1996-12-03,-32.277,included_game_day
+1997,70,Idaho,1996-12-05,-24.137,included_game_day
+1997,70,Idaho,1996-12-14,-23.753305846,included_game_day
+1997,70,Idaho,1996-12-28,-24.2504875514,included_game_day
+1997,70,Idaho,1996-12-29,-29.382475635886,included_game_day
+1997,70,Idaho,1997-01-09,-42.57480911704433,included_game_day
+1997,70,Idaho,1997-01-12,-40.88926918767936,included_game_day
+1997,70,Idaho,1997-01-16,-35.06390972728767,included_game_day
+1997,70,Idaho,1997-01-18,-35.71565046488918,included_game_day
+1997,70,Idaho,1997-01-23,-51.329477972404455,included_game_day
+1997,70,Idaho,1997-01-25,-43.9420667793278,included_game_day
+1997,70,Idaho,1997-01-30,-32.91307839760545,included_game_day
+1997,70,Idaho,1997-02-01,-30.725226682084223,included_game_day
+1997,70,Idaho,1997-02-06,-44.77838957654838,included_game_day
+1997,70,Idaho,1997-02-08,-60.1353867111646,included_game_day
+1997,70,Idaho,1997-02-11,-47.463043096842796,included_game_day
+1997,70,Idaho,1997-02-13,-40.12366095921564,included_game_day
+1997,70,Idaho,1997-02-15,-65.69924756441495,included_game_day
+1997,70,Idaho,1997-02-20,-63.5817194878004,included_game_day
+1997,70,Idaho,1997-02-22,-61.55722820874899,included_game_day
+1997,70,Idaho,1997-02-27,-55.71681987567609,included_game_day
+1997,70,Idaho,1997-03-02,-64.76991853082488,included_game_day
+1998,70,Idaho,1997-11-29,-8.0,included_game_day
+1998,70,Idaho,1997-12-06,-13.322823633,included_game_day
+1998,70,Idaho,1997-12-10,-15.6514830067,included_game_day
+1998,70,Idaho,1997-12-12,-11.55563783403,included_game_day
+1998,70,Idaho,1997-12-20,-6.456168212226999,included_game_day
+1998,70,Idaho,1997-12-23,6.8542280043807,included_game_day
+1998,70,Idaho,1997-12-29,-4.143853712753674,included_game_day
+1998,70,Idaho,1998-01-05,8.541431505240443,included_game_day
+1998,70,Idaho,1998-01-08,28.303903058335166,included_game_day
+1998,70,Idaho,1998-01-10,49.19582958145169,included_game_day
+1998,70,Idaho,1998-01-15,47.7478720555884,included_game_day
+1998,70,Idaho,1998-01-17,27.814951456711025,included_game_day
+1998,70,Idaho,1998-01-22,23.292868597475515,included_game_day
+1998,70,Idaho,1998-01-24,26.810065113632955,included_game_day
+1998,70,Idaho,1998-01-29,13.007542565789818,included_game_day
+1998,70,Idaho,1998-01-31,15.65946183920044,included_game_day
+1998,70,Idaho,1998-02-05,13.689971909136826,included_game_day
+1998,70,Idaho,1998-02-07,14.232155085500862,included_game_day
+1998,70,Idaho,1998-02-12,20.805349112332465,included_game_day
+1998,70,Idaho,1998-02-14,25.25812443012969,included_game_day
+1998,70,Idaho,1998-02-19,15.140345828913533,included_game_day
+1998,70,Idaho,1998-02-21,18.881032241171823,included_game_day
+1998,70,Idaho,1998-02-26,20.317987173537595,included_game_day
+1998,70,Idaho,1998-02-28,7.920960279739337,included_game_day
+1998,70,Idaho,1998-03-06,9.780773156613023,included_game_day
+1999,70,Idaho,1998-11-24,-8.73,included_game_day
+1999,70,Idaho,1998-11-28,-8.647,included_game_day
+1999,70,Idaho,1998-12-05,-7.9273092,included_game_day
+1999,70,Idaho,1998-12-11,-7.90146673,included_game_day
+1999,70,Idaho,1998-12-12,-13.839299021,included_game_day
+1999,70,Idaho,1998-12-20,-30.630383989899997,included_game_day
+1999,70,Idaho,1998-12-22,-56.739249403334,included_game_day
+1999,70,Idaho,1999-01-02,-67.37850823135115,included_game_day
+1999,70,Idaho,1999-01-07,-71.42595050182896,included_game_day
+1999,70,Idaho,1999-01-09,-37.29391695400051,included_game_day
+1999,70,Idaho,1999-01-14,-28.0637400914236,included_game_day
+1999,70,Idaho,1999-01-16,-27.1281161040676,included_game_day
+1999,70,Idaho,1999-01-21,-19.108402274517246,included_game_day
+1999,70,Idaho,1999-01-23,0.035811027525529227,included_game_day
+1999,70,Idaho,1999-01-28,0.31808849464416733,included_game_day
+1999,70,Idaho,1999-01-30,8.594990412896475,included_game_day
+1999,70,Idaho,1999-02-04,33.3317651631773,included_game_day
+1999,70,Idaho,1999-02-06,28.513724008983715,included_game_day
+1999,70,Idaho,1999-02-08,23.145221138228642,included_game_day
+1999,70,Idaho,1999-02-11,23.85041884162458,included_game_day
+1999,70,Idaho,1999-02-13,24.29626721012206,included_game_day
+1999,70,Idaho,1999-02-18,23.883748923597093,included_game_day
+1999,70,Idaho,1999-02-20,29.14570391531446,included_game_day
+1999,70,Idaho,1999-02-28,33.272569522564766,included_game_day
+1999,70,Idaho,1999-03-04,19.274188488842096,included_game_day
+2000,70,Idaho,1999-11-19,1.0,included_game_day
+2000,70,Idaho,1999-11-20,-26.2,included_game_day
+2000,70,Idaho,1999-11-27,-25.78,included_game_day
+2000,70,Idaho,1999-11-29,-36.482,included_game_day
+2000,70,Idaho,1999-12-01,-43.51799,included_game_day
+2000,70,Idaho,1999-12-05,-39.601191,included_game_day
+2000,70,Idaho,1999-12-10,-17.8654461503,included_game_day
+2000,70,Idaho,1999-12-11,-13.454514475269999,included_game_day
+2000,70,Idaho,1999-12-29,-12.5001412176454,included_game_day
+2000,70,Idaho,2000-01-04,-11.657477132355096,included_game_day
+2000,70,Idaho,2000-01-13,-20.09365125180689,included_game_day
+2000,70,Idaho,2000-01-15,-16.66192558921655,included_game_day
+2000,70,Idaho,2000-01-20,-20.534002656392268,included_game_day
+2000,70,Idaho,2000-01-22,-27.534946385897427,included_game_day
+2000,70,Idaho,2000-01-27,-25.378159813105817,included_game_day
+2000,70,Idaho,2000-01-30,-27.78292481307261,included_game_day
+2000,70,Idaho,2000-02-03,-28.828156044329766,included_game_day
+2000,70,Idaho,2000-02-05,-40.80689720666447,included_game_day
+2000,70,Idaho,2000-02-10,-44.82380004884161,included_game_day
+2000,70,Idaho,2000-02-12,-41.30571027256347,included_game_day
+2000,70,Idaho,2000-02-17,-44.49035825566739,included_game_day
+2000,70,Idaho,2000-02-19,-34.052787002134636,included_game_day
+2000,70,Idaho,2000-02-24,-36.76413247171784,included_game_day
+2000,70,Idaho,2000-02-27,-32.81392664189631,included_game_day
+2000,70,Idaho,2000-03-02,-41.198868768745555,included_game_day
+2000,70,Idaho,2000-03-04,-47.026697100575014,included_game_day
+2000,70,Idaho,2000-03-09,-45.34742233608806,included_game_day
+2001,70,Idaho,2000-11-17,-15.0,included_game_day
+2001,70,Idaho,2000-11-25,-56.870000000000005,included_game_day
+2001,70,Idaho,2000-11-29,-70.63300000000001,included_game_day
+2001,70,Idaho,2000-12-02,-94.88841900000001,included_game_day
+2001,70,Idaho,2000-12-09,-98.442959306,included_game_day
+2001,70,Idaho,2000-12-14,-109.955919023461,included_game_day
+2001,70,Idaho,2000-12-16,-133.4234182476459,included_game_day
+2001,70,Idaho,2000-12-23,-119.19741762699383,included_game_day
+2001,70,Idaho,2000-12-30,-120.02737424832864,included_game_day
+2001,70,Idaho,2001-01-02,-126.91668524846848,included_game_day
+2001,70,Idaho,2001-01-06,-133.1132174116348,included_game_day
+2001,70,Idaho,2001-01-11,-117.09654584938787,included_game_day
+2001,70,Idaho,2001-01-13,-131.55209182708944,included_game_day
+2001,70,Idaho,2001-01-20,-124.31939951155368,included_game_day
+2001,70,Idaho,2001-01-22,-113.36343101297732,included_game_day
+2001,70,Idaho,2001-01-25,-122.21898199796445,included_game_day
+2001,70,Idaho,2001-01-27,-111.93158163570789,included_game_day
+2001,70,Idaho,2001-02-03,-113.98454790010807,included_game_day
+2001,70,Idaho,2001-02-08,-102.49016727638829,included_game_day
+2001,70,Idaho,2001-02-10,-99.74878858039108,included_game_day
+2001,70,Idaho,2001-02-17,-92.16357185009325,included_game_day
+2001,70,Idaho,2001-02-22,-94.48754622198427,included_game_day
+2001,70,Idaho,2001-02-24,-80.55345066297527,included_game_day
+2001,70,Idaho,2001-03-01,-76.13701784017407,included_game_day
+2001,70,Idaho,2001-03-03,-73.87706791137772,included_game_day
+2002,70,Idaho Vandals,2001-11-24,-8.1,included_game_day
+2002,70,Idaho Vandals,2001-11-28,-19.4551,included_game_day
+2002,70,Idaho Vandals,2001-12-01,-48.17985,included_game_day
+2002,70,Idaho Vandals,2001-12-04,-63.703471,included_game_day
+2002,70,Idaho Vandals,2001-12-06,-73.76026350000001,included_game_day
+2002,70,Idaho Vandals,2001-12-08,-71.25752732000001,included_game_day
+2002,70,Idaho Vandals,2001-12-12,-70.118081398,included_game_day
+2002,70,Idaho Vandals,2001-12-15,-78.7915737512,included_game_day
+2002,70,Idaho Vandals,2001-12-22,-81.95525971901,included_game_day
+2002,70,Idaho Vandals,2001-12-30,-64.58938058534784,included_game_day
+2002,70,Idaho Vandals,2002-01-03,-73.35265371856428,included_game_day
+2002,70,Idaho Vandals,2002-01-05,-74.86599839050014,included_game_day
+2002,70,Idaho Vandals,2002-01-10,-70.89853550979784,included_game_day
+2002,70,Idaho Vandals,2002-01-12,-100.97020550834318,included_game_day
+2002,70,Idaho Vandals,2002-01-17,-88.84261727752573,included_game_day
+2002,70,Idaho Vandals,2002-01-19,-77.78819132638645,included_game_day
+2002,70,Idaho Vandals,2002-01-26,-79.69662814362844,included_game_day
+2002,70,Idaho Vandals,2002-01-31,-75.75554489930302,included_game_day
+2002,70,Idaho Vandals,2002-02-02,-63.15571155726883,included_game_day
+2002,70,Idaho Vandals,2002-02-07,-60.52594552715591,included_game_day
+2002,70,Idaho Vandals,2002-02-09,-52.95339834751985,included_game_day
+2002,70,Idaho Vandals,2002-02-14,-66.16818530927607,included_game_day
+2002,70,Idaho Vandals,2002-02-16,-61.75416356687901,included_game_day
+2002,70,Idaho Vandals,2002-02-23,-54.171859287221324,included_game_day
+2002,70,Idaho Vandals,2002-02-28,-63.02635910731226,included_game_day
+2002,70,Idaho Vandals,2002-03-03,-58.253161787731436,included_game_day
+2002,70,Idaho Vandals,2002-03-07,-64.30048704875051,included_game_day
+2003,70,Idaho Vandals,2002-11-23,6.0,included_game_day
+2003,70,Idaho Vandals,2002-11-30,-1.1654999999999998,included_game_day
+2003,70,Idaho Vandals,2002-12-04,0.5900500000000002,included_game_day
+2003,70,Idaho Vandals,2002-12-07,-3.3119549999999998,included_game_day
+2003,70,Idaho Vandals,2002-12-12,-14.866353479999999,included_game_day
+2003,70,Idaho Vandals,2002-12-14,-22.591039121999998,included_game_day
+2003,70,Idaho Vandals,2002-12-21,-30.623416581599997,included_game_day
+2003,70,Idaho Vandals,2002-12-27,-17.73951802544,included_game_day
+2003,70,Idaho Vandals,2003-01-02,-35.27552465631748,included_game_day
+2003,70,Idaho Vandals,2003-01-04,-20.836934371606034,included_game_day
+2003,70,Idaho Vandals,2003-01-09,-30.269474869294086,included_game_day
+2003,70,Idaho Vandals,2003-01-11,-16.454692028474632,included_game_day
+2003,70,Idaho Vandals,2003-01-16,-24.850866447320612,included_game_day
+2003,70,Idaho Vandals,2003-01-18,-30.716429545347133,included_game_day
+2003,70,Idaho Vandals,2003-01-23,-29.15412663132672,included_game_day
+2003,70,Idaho Vandals,2003-01-25,-32.18611388618595,included_game_day
+2003,70,Idaho Vandals,2003-02-01,-31.598296076567607,included_game_day
+2003,70,Idaho Vandals,2003-02-06,-24.609571620663655,included_game_day
+2003,70,Idaho Vandals,2003-02-08,-22.654731128283625,included_game_day
+2003,70,Idaho Vandals,2003-02-13,-24.40871650800043,included_game_day
+2003,70,Idaho Vandals,2003-02-15,-35.96518102315809,included_game_day
+2003,70,Idaho Vandals,2003-02-20,-32.529805024309084,included_game_day
+2003,70,Idaho Vandals,2003-02-22,-34.44507428306841,included_game_day
+2003,70,Idaho Vandals,2003-03-01,-22.728304108248732,included_game_day
+2003,70,Idaho Vandals,2003-03-06,-20.134454843501935,included_game_day
+2003,70,Idaho Vandals,2003-03-08,-30.884483041616207,included_game_day
+2003,70,Idaho Vandals,2003-03-13,-28.520154399120976,included_game_day
+2004,70,Idaho Vandals,2003-11-17,21.0,included_game_day
+2004,70,Idaho Vandals,2003-11-18,12.5,included_game_day
+2004,70,Idaho Vandals,2003-11-21,-7.149999999999999,included_game_day
+2004,70,Idaho Vandals,2003-11-29,-11.630999999999998,included_game_day
+2004,70,Idaho Vandals,2003-12-06,-24.9029,included_game_day
+2004,70,Idaho Vandals,2003-12-13,-32.118098427,included_game_day
+2004,70,Idaho Vandals,2003-12-20,-29.5560239224,included_game_day
+2004,70,Idaho Vandals,2003-12-28,-28.758453415403,included_game_day
+2004,70,Idaho Vandals,2004-01-03,-30.33754332327591,included_game_day
+2004,70,Idaho Vandals,2004-01-08,-49.43481618612895,included_game_day
+2004,70,Idaho Vandals,2004-01-10,-53.872887272309555,included_game_day
+2004,70,Idaho Vandals,2004-01-15,-46.88633467962606,included_game_day
+2004,70,Idaho Vandals,2004-01-17,-45.12525926657395,included_game_day
+2004,70,Idaho Vandals,2004-01-22,-32.955283533174274,included_game_day
+2004,70,Idaho Vandals,2004-01-24,-39.93770758729185,included_game_day
+2004,70,Idaho Vandals,2004-01-29,-50.94381101704047,included_game_day
+2004,70,Idaho Vandals,2004-01-31,-45.43976299051467,included_game_day
+2004,70,Idaho Vandals,2004-02-02,-34.887738034526194,included_game_day
+2004,70,Idaho Vandals,2004-02-05,-17.95764597062052,included_game_day
+2004,70,Idaho Vandals,2004-02-07,-5.171180260058332,included_game_day
+2004,70,Idaho Vandals,2004-02-12,-2.2483447407785278,included_game_day
+2004,70,Idaho Vandals,2004-02-14,2.467422750419904,included_game_day
+2004,70,Idaho Vandals,2004-02-19,4.2368984112314925,included_game_day
+2004,70,Idaho Vandals,2004-02-21,3.8069630898798907,included_game_day
+2004,70,Idaho Vandals,2004-02-26,-0.9099996481818531,included_game_day
+2004,70,Idaho Vandals,2004-02-28,-2.5114215655542678,included_game_day
+2004,70,Idaho Vandals,2004-03-05,0.39111491250601294,included_game_day
+2004,70,Idaho Vandals,2004-03-11,1.8318998732116087,included_game_day
+2004,70,Idaho Vandals,2004-03-12,7.4116318810046815,included_game_day
+2005,70,Idaho Vandals,2004-11-19,-7.0,included_game_day
+2005,70,Idaho Vandals,2004-11-20,-18.3,included_game_day
+2005,70,Idaho Vandals,2004-11-24,-24.82,included_game_day
+2005,70,Idaho Vandals,2004-11-30,-24.557850000000002,included_game_day
+2005,70,Idaho Vandals,2004-12-04,-29.434235,included_game_day
+2005,70,Idaho Vandals,2004-12-08,-29.492579233,included_game_day
+2005,70,Idaho Vandals,2004-12-18,-54.11140493208,included_game_day
+2005,70,Idaho Vandals,2004-12-23,-37.569435973710995,included_game_day
+2005,70,Idaho Vandals,2004-12-30,-44.01929931074284,included_game_day
+2005,70,Idaho Vandals,2005-01-02,-41.990670910404226,included_game_day
+2005,70,Idaho Vandals,2005-01-06,-30.5663102262608,included_game_day
+2005,70,Idaho Vandals,2005-01-08,-20.916138348858652,included_game_day
+2005,70,Idaho Vandals,2005-01-13,-16.0604186916267,included_game_day
+2005,70,Idaho Vandals,2005-01-15,-14.085214491650676,included_game_day
+2005,70,Idaho Vandals,2005-01-20,-16.851037037750437,included_game_day
+2005,70,Idaho Vandals,2005-01-22,-16.525673807790298,included_game_day
+2005,70,Idaho Vandals,2005-01-27,-19.274940130588053,included_game_day
+2005,70,Idaho Vandals,2005-01-29,-15.431500431233001,included_game_day
+2005,70,Idaho Vandals,2005-02-03,-26.919266832804993,included_game_day
+2005,70,Idaho Vandals,2005-02-05,-18.966915560138986,included_game_day
+2005,70,Idaho Vandals,2005-02-10,-34.435122498918275,included_game_day
+2005,70,Idaho Vandals,2005-02-12,-35.65784475634404,included_game_day
+2005,70,Idaho Vandals,2005-02-17,-36.497599142251204,included_game_day
+2005,70,Idaho Vandals,2005-02-19,-37.61606388911416,included_game_day
+2005,70,Idaho Vandals,2005-02-24,-44.11236391173824,included_game_day
+2005,70,Idaho Vandals,2005-02-26,-60.429344204391725,included_game_day
+2005,70,Idaho Vandals,2005-03-04,-57.527011681512725,included_game_day
+2005,70,Idaho Vandals,2005-03-09,-62.87603287109981,included_game_day
+2006,70,Idaho Vandals,2005-11-18,-6.0,included_game_day
+2006,70,Idaho Vandals,2005-11-22,-15.8226,included_game_day
+2006,70,Idaho Vandals,2005-11-26,-35.97034,included_game_day
+2006,70,Idaho Vandals,2005-11-30,-51.596046,included_game_day
+2006,70,Idaho Vandals,2005-12-03,-37.6351414,included_game_day
+2006,70,Idaho Vandals,2005-12-07,-43.568965288,included_game_day
+2006,70,Idaho Vandals,2005-12-10,-46.4155435558,included_game_day
+2006,70,Idaho Vandals,2005-12-21,-38.734791775405824,included_game_day
+2006,70,Idaho Vandals,2005-12-30,-65.6789043917428,included_game_day
+2006,70,Idaho Vandals,2006-01-05,-74.080827176007,included_game_day
+2006,70,Idaho Vandals,2006-01-07,-74.64565139654863,included_game_day
+2006,70,Idaho Vandals,2006-01-12,-86.48450214935593,included_game_day
+2006,70,Idaho Vandals,2006-01-14,-92.83254084161462,included_game_day
+2006,70,Idaho Vandals,2006-01-21,-93.66454299224901,included_game_day
+2006,70,Idaho Vandals,2006-01-24,-84.2791168294535,included_game_day
+2006,70,Idaho Vandals,2006-01-28,-93.07298079501233,included_game_day
+2006,70,Idaho Vandals,2006-01-30,-116.44957619526869,included_game_day
+2006,70,Idaho Vandals,2006-02-03,-121.28675422749238,included_game_day
+2006,70,Idaho Vandals,2006-02-06,-99.61429946862052,included_game_day
+2006,70,Idaho Vandals,2006-02-09,-103.50092826019109,included_game_day
+2006,70,Idaho Vandals,2006-02-15,-128.89177909550904,included_game_day
+2006,70,Idaho Vandals,2006-02-18,-124.81818449453581,included_game_day
+2006,70,Idaho Vandals,2006-02-20,-111.35932619257972,included_game_day
+2006,70,Idaho Vandals,2006-02-22,-104.89846204579959,included_game_day
+2006,70,Idaho Vandals,2006-02-25,-104.9884226520177,included_game_day
+2006,70,Idaho Vandals,2006-02-27,-112.41543841256664,included_game_day
+2006,70,Idaho Vandals,2006-03-04,-103.24982171866192,included_game_day
+2006,70,Idaho Vandals,2006-03-09,-91.85434094742868,included_game_day
+2007,70,Idaho Vandals,2006-11-10,-18.0,included_game_day
+2007,70,Idaho Vandals,2006-11-16,-12.515,included_game_day
+2007,70,Idaho Vandals,2006-11-19,-27.2345,included_game_day
+2007,70,Idaho Vandals,2006-11-22,-38.03405,included_game_day
+2007,70,Idaho Vandals,2006-11-26,-47.89513,included_game_day
+2007,70,Idaho Vandals,2006-11-29,-57.953037,included_game_day
+2007,70,Idaho Vandals,2006-12-02,-76.487472845,included_game_day
+2007,70,Idaho Vandals,2006-12-06,-90.8484419355,included_game_day
+2007,70,Idaho Vandals,2006-12-10,-92.17935864356001,included_game_day
+2007,70,Idaho Vandals,2006-12-16,-97.25796542561001,included_game_day
+2007,70,Idaho Vandals,2006-12-21,-115.3412129568139,included_game_day
+2007,70,Idaho Vandals,2006-12-30,-112.9278801626078,included_game_day
+2007,70,Idaho Vandals,2007-01-04,-111.10627955770471,included_game_day
+2007,70,Idaho Vandals,2007-01-06,-114.24768709592632,included_game_day
+2007,70,Idaho Vandals,2007-01-11,-106.86723725404428,included_game_day
+2007,70,Idaho Vandals,2007-01-15,-106.32928966321137,included_game_day
+2007,70,Idaho Vandals,2007-01-18,-92.88264555624934,included_game_day
+2007,70,Idaho Vandals,2007-01-20,-92.66888273709392,included_game_day
+2007,70,Idaho Vandals,2007-01-24,-94.17955956900799,included_game_day
+2007,70,Idaho Vandals,2007-01-27,-99.99557661216116,included_game_day
+2007,70,Idaho Vandals,2007-02-01,-102.46759496379012,included_game_day
+2007,70,Idaho Vandals,2007-02-03,-96.4111299524343,included_game_day
+2007,70,Idaho Vandals,2007-02-07,-102.82321086921536,included_game_day
+2007,70,Idaho Vandals,2007-02-10,-101.19504651051815,included_game_day
+2007,70,Idaho Vandals,2007-02-14,-101.55415761803822,included_game_day
+2007,70,Idaho Vandals,2007-02-17,-110.65459881261847,included_game_day
+2007,70,Idaho Vandals,2007-02-22,-109.9272616427084,included_game_day
+2007,70,Idaho Vandals,2007-03-02,-105.3932035472704,included_game_day
+2007,70,Idaho Vandals,2007-03-03,-102.45109809696153,included_game_day
+2007,70,Idaho Vandals,2007-03-06,-94.09741373671443,included_game_day
+2007,70,Idaho Vandals,2007-03-08,-104.81400519465339,included_game_day
+2008,70,Idaho Vandals,2007-11-13,-31.67,included_game_day
+2008,70,Idaho Vandals,2007-11-16,-52.863,included_game_day
+2008,70,Idaho Vandals,2007-11-24,-51.3645,included_game_day
+2008,70,Idaho Vandals,2007-11-28,-67.89365000000001,included_game_day
+2008,70,Idaho Vandals,2007-12-01,-72.25817400000001,included_game_day
+2008,70,Idaho Vandals,2007-12-05,-77.89063660000001,included_game_day
+2008,70,Idaho Vandals,2007-12-09,-70.94095617516001,included_game_day
+2008,70,Idaho Vandals,2007-12-15,-73.41256570114639,included_game_day
+2008,70,Idaho Vandals,2007-12-18,-47.61549554566175,included_game_day
+2008,70,Idaho Vandals,2007-12-22,-42.512371638334194,included_game_day
+2008,70,Idaho Vandals,2008-01-02,-47.34611867703504,included_game_day
+2008,70,Idaho Vandals,2008-01-05,-52.25506205896041,included_game_day
+2008,70,Idaho Vandals,2008-01-10,-52.909630659376134,included_game_day
+2008,70,Idaho Vandals,2008-01-12,-58.63966616692593,included_game_day
+2008,70,Idaho Vandals,2008-01-17,-54.99024368121961,included_game_day
+2008,70,Idaho Vandals,2008-01-24,-43.95995969079116,included_game_day
+2008,70,Idaho Vandals,2008-01-26,-51.05477736920632,included_game_day
+2008,70,Idaho Vandals,2008-02-02,-52.09287049497994,included_game_day
+2008,70,Idaho Vandals,2008-02-06,-79.77876099502122,included_game_day
+2008,70,Idaho Vandals,2008-02-09,-86.35018550759924,included_game_day
+2008,70,Idaho Vandals,2008-02-14,-74.72025279903967,included_game_day
+2008,70,Idaho Vandals,2008-02-16,-76.92659320800782,included_game_day
+2008,70,Idaho Vandals,2008-02-23,-80.13980872474934,included_game_day
+2008,70,Idaho Vandals,2008-02-29,-63.72810357539669,included_game_day
+2008,70,Idaho Vandals,2008-03-01,-56.943009955359344,included_game_day
+2008,70,Idaho Vandals,2008-03-08,-67.25812977283185,included_game_day
+2008,70,Idaho Vandals,2008-03-13,-70.21474228276638,included_game_day
+2009,70,Idaho Vandals,2008-11-16,-35.0,included_game_day
+2009,70,Idaho Vandals,2008-11-18,-62.5,included_game_day
+2009,70,Idaho Vandals,2008-11-22,-50.25,included_game_day
+2009,70,Idaho Vandals,2008-11-24,-52.738,included_game_day
+2009,70,Idaho Vandals,2008-11-28,0.009799999999998477,included_game_day
+2009,70,Idaho Vandals,2008-12-01,13.38539,included_game_day
+2009,70,Idaho Vandals,2008-12-06,12.3749639,included_game_day
+2009,70,Idaho Vandals,2008-12-10,2.8188419099999997,included_game_day
+2009,70,Idaho Vandals,2008-12-17,8.10200629154,included_game_day
+2009,70,Idaho Vandals,2008-12-20,15.71948998910661,included_game_day
+2009,70,Idaho Vandals,2008-12-21,3.43903624380655,included_game_day
+2009,70,Idaho Vandals,2008-12-29,-0.19089012094632984,included_game_day
+2009,70,Idaho Vandals,2009-01-03,8.355934218060893,included_game_day
+2009,70,Idaho Vandals,2009-01-05,9.42579326448197,included_game_day
+2009,70,Idaho Vandals,2009-01-08,24.19161323550542,included_game_day
+2009,70,Idaho Vandals,2009-01-15,23.467863883522476,included_game_day
+2009,70,Idaho Vandals,2009-01-17,10.630504927700795,included_game_day
+2009,70,Idaho Vandals,2009-01-24,18.173274898218896,included_game_day
+2009,70,Idaho Vandals,2009-01-29,17.576672949008028,included_game_day
+2009,70,Idaho Vandals,2009-01-31,10.206715482855609,included_game_day
+2009,70,Idaho Vandals,2009-02-07,-11.40390432696375,included_game_day
+2009,70,Idaho Vandals,2009-02-12,-13.068583768113475,included_game_day
+2009,70,Idaho Vandals,2009-02-14,-9.212485211227067,included_game_day
+2009,70,Idaho Vandals,2009-02-18,-0.39681770099210034,included_game_day
+2009,70,Idaho Vandals,2009-02-21,1.0695458749467917,included_game_day
+2009,70,Idaho Vandals,2009-02-26,-6.731649150642431,included_game_day
+2009,70,Idaho Vandals,2009-02-28,-2.240886429300742,included_game_day
+2009,70,Idaho Vandals,2009-03-05,7.678499779860205,included_game_day
+2009,70,Idaho Vandals,2009-03-07,3.617935614947033,included_game_day
+2009,70,Idaho Vandals,2009-03-12,-1.0404990012328916,included_game_day
+2009,70,Idaho Vandals,2009-03-18,-3.0269010305023087,included_game_day
+2009,70,Idaho Vandals,2009-03-23,-6.290733264948584,included_game_day
+2010,70,Idaho Vandals,2009-11-13,10.0,included_game_day
+2010,70,Idaho Vandals,2009-11-15,3.4000000000000004,included_game_day
+2010,70,Idaho Vandals,2009-11-21,17.560000000000002,included_game_day
+2010,70,Idaho Vandals,2009-11-24,25.036,included_game_day
+2010,70,Idaho Vandals,2009-11-28,39.6267,included_game_day
+2010,70,Idaho Vandals,2009-12-03,35.6217903,included_game_day
+2010,70,Idaho Vandals,2009-12-06,51.842275584,included_game_day
+2010,70,Idaho Vandals,2009-12-09,42.75314026145,included_game_day
+2010,70,Idaho Vandals,2009-12-22,10.566993330019102,included_game_day
+2010,70,Idaho Vandals,2010-01-03,19.568434774239392,included_game_day
+2010,70,Idaho Vandals,2010-01-04,17.799101705426,included_game_day
+2010,70,Idaho Vandals,2010-01-09,15.756231841850841,included_game_day
+2010,70,Idaho Vandals,2010-01-11,6.993295640152093,included_game_day
+2010,70,Idaho Vandals,2010-01-16,8.804493800434598,included_game_day
+2010,70,Idaho Vandals,2010-01-23,5.354649199168202,included_game_day
+2010,70,Idaho Vandals,2010-01-25,-9.50190395966984,included_game_day
+2010,70,Idaho Vandals,2010-01-28,6.156199167973822,included_game_day
+2010,70,Idaho Vandals,2010-01-30,5.043263574416755,included_game_day
+2010,70,Idaho Vandals,2010-02-03,2.880463811353205,included_game_day
+2010,70,Idaho Vandals,2010-02-06,31.154738041375442,included_game_day
+2010,70,Idaho Vandals,2010-02-10,29.304524342020862,included_game_day
+2010,70,Idaho Vandals,2010-02-13,40.880901748429295,included_game_day
+2010,70,Idaho Vandals,2010-02-18,43.865464357245735,included_game_day
+2010,70,Idaho Vandals,2010-02-20,23.30781147347591,included_game_day
+2010,70,Idaho Vandals,2010-02-24,11.175802353989074,included_game_day
+2010,70,Idaho Vandals,2010-02-27,5.638738709542139,included_game_day
+2010,70,Idaho Vandals,2010-03-04,14.955889256260033,included_game_day
+2010,70,Idaho Vandals,2010-03-06,13.444726812940255,included_game_day
+2010,70,Idaho Vandals,2010-03-11,3.8160618414476364,included_game_day
+2011,70,Idaho Vandals,2010-11-16,-10.82,included_game_day
+2011,70,Idaho Vandals,2010-11-20,-25.671,included_game_day
+2011,70,Idaho Vandals,2010-11-22,-63.7839,included_game_day
+2011,70,Idaho Vandals,2010-11-27,-49.16451000000001,included_game_day
+2011,70,Idaho Vandals,2010-12-03,-30.319603000000008,included_game_day
+2011,70,Idaho Vandals,2010-12-04,-29.34642905360001,included_game_day
+2011,70,Idaho Vandals,2010-12-05,-19.065657293600008,included_game_day
+2011,70,Idaho Vandals,2010-12-11,-30.159061740240006,included_game_day
+2011,70,Idaho Vandals,2010-12-18,-28.717789585449317,included_game_day
+2011,70,Idaho Vandals,2010-12-21,-17.547013214776985,included_game_day
+2011,70,Idaho Vandals,2010-12-29,-26.7819364248662,included_game_day
+2011,70,Idaho Vandals,2010-12-31,1.862732094173527,included_game_day
+2011,70,Idaho Vandals,2011-01-07,20.57475981077768,included_game_day
+2011,70,Idaho Vandals,2011-01-08,29.971864047587363,included_game_day
+2011,70,Idaho Vandals,2011-01-12,27.59781163481702,included_game_day
+2011,70,Idaho Vandals,2011-01-15,22.646128592006924,included_game_day
+2011,70,Idaho Vandals,2011-01-17,31.78582570043438,included_game_day
+2011,70,Idaho Vandals,2011-01-22,27.454468689595366,included_game_day
+2011,70,Idaho Vandals,2011-01-27,7.337983830225323,included_game_day
+2011,70,Idaho Vandals,2011-01-29,4.049607433908159,included_game_day
+2011,70,Idaho Vandals,2011-02-03,-4.532494074647044,included_game_day
+2011,70,Idaho Vandals,2011-02-05,6.80100352955175,included_game_day
+2011,70,Idaho Vandals,2011-02-09,24.839170435268947,included_game_day
+2011,70,Idaho Vandals,2011-02-12,20.567790891577907,included_game_day
+2011,70,Idaho Vandals,2011-02-19,29.589189773267837,included_game_day
+2011,70,Idaho Vandals,2011-02-24,40.143125739806344,included_game_day
+2011,70,Idaho Vandals,2011-02-26,36.00791653104726,included_game_day
+2011,70,Idaho Vandals,2011-03-03,32.59013891558674,included_game_day
+2011,70,Idaho Vandals,2011-03-05,29.475342752675793,included_game_day
+2011,70,Idaho Vandals,2011-03-10,19.112126648108635,included_game_day
+2011,70,Idaho Vandals,2011-03-16,14.46428029369666,included_game_day
+2012,70,Idaho Vandals,2011-11-12,-5.0,included_game_day
+2012,70,Idaho Vandals,2011-11-17,-6.8,included_game_day
+2012,70,Idaho Vandals,2011-11-26,-1.2936000000000005,included_game_day
+2012,70,Idaho Vandals,2011-11-30,-8.591808,included_game_day
+2012,70,Idaho Vandals,2011-12-03,10.0672608,included_game_day
+2012,70,Idaho Vandals,2011-12-07,7.050335821,included_game_day
+2012,70,Idaho Vandals,2011-12-09,29.0797550099,included_game_day
+2012,70,Idaho Vandals,2011-12-11,39.44716002591,included_game_day
+2012,70,Idaho Vandals,2011-12-17,58.8184203373117,included_game_day
+2012,70,Idaho Vandals,2011-12-20,45.83589439890585,included_game_day
+2012,70,Idaho Vandals,2011-12-22,39.99197227421727,included_game_day
+2012,70,Idaho Vandals,2011-12-31,37.55172214880682,included_game_day
+2012,70,Idaho Vandals,2012-01-05,16.35428863900658,included_game_day
+2012,70,Idaho Vandals,2012-01-07,15.90587466171942,included_game_day
+2012,70,Idaho Vandals,2012-01-12,15.014147758263604,included_game_day
+2012,70,Idaho Vandals,2012-01-14,9.80019266470171,included_game_day
+2012,70,Idaho Vandals,2012-01-21,11.177743363091727,included_game_day
+2012,70,Idaho Vandals,2012-01-26,9.878008137982704,included_game_day
+2012,70,Idaho Vandals,2012-01-28,1.6676927080590396,included_game_day
+2012,70,Idaho Vandals,2012-02-02,-5.678426325429877,included_game_day
+2012,70,Idaho Vandals,2012-02-04,8.49504447746918,included_game_day
+2012,70,Idaho Vandals,2012-02-07,2.064857090109874,included_game_day
+2012,70,Idaho Vandals,2012-02-09,5.241626706446735,included_game_day
+2012,70,Idaho Vandals,2012-02-11,8.178495822597181,included_game_day
+2012,70,Idaho Vandals,2012-02-18,13.304281954460661,included_game_day
+2012,70,Idaho Vandals,2012-02-24,-0.6410533365157463,included_game_day
+2012,70,Idaho Vandals,2012-03-02,17.767651320225742,included_game_day
+2012,70,Idaho Vandals,2012-03-03,20.197248521710435,included_game_day
+2012,70,Idaho Vandals,2012-03-08,11.169139350125196,included_game_day
+2012,70,Idaho Vandals,2012-03-14,17.099579690661457,included_game_day
+2012,70,Idaho Vandals,2012-03-17,0.6563824768577682,included_game_day
+2013,70,Idaho Vandals,2012-11-09,-13.0,included_game_day
+2013,70,Idaho Vandals,2012-11-17,-18.1,included_game_day
+2013,70,Idaho Vandals,2012-11-20,-9.257200000000001,included_game_day
+2013,70,Idaho Vandals,2012-11-23,-18.6182,included_game_day
+2013,70,Idaho Vandals,2012-11-28,-21.2832715,included_game_day
+2013,70,Idaho Vandals,2012-12-01,-14.76445335,included_game_day
+2013,70,Idaho Vandals,2012-12-06,-11.401858015,included_game_day
+2013,70,Idaho Vandals,2012-12-08,-15.5771456435,included_game_day
+2013,70,Idaho Vandals,2012-12-20,-17.6864743964993,included_game_day
+2013,70,Idaho Vandals,2012-12-29,-7.963176562946035,included_game_day
+2013,70,Idaho Vandals,2013-01-03,6.074511438613136,included_game_day
+2013,70,Idaho Vandals,2013-01-05,6.2324989805352295,included_game_day
+2013,70,Idaho Vandals,2013-01-10,2.5872836163839557,included_game_day
+2013,70,Idaho Vandals,2013-01-12,0.12163387997211395,included_game_day
+2013,70,Idaho Vandals,2013-01-17,2.929943700384184,included_game_day
+2013,70,Idaho Vandals,2013-01-19,18.248395586242722,included_game_day
+2013,70,Idaho Vandals,2013-01-24,1.0672848449189374,included_game_day
+2013,70,Idaho Vandals,2013-01-26,-3.619046562687597,included_game_day
+2013,70,Idaho Vandals,2013-01-31,-14.66623374743426,included_game_day
+2013,70,Idaho Vandals,2013-02-02,-20.48545820686008,included_game_day
+2013,70,Idaho Vandals,2013-02-07,-10.89436802088946,included_game_day
+2013,70,Idaho Vandals,2013-02-09,-13.675561073147966,included_game_day
+2013,70,Idaho Vandals,2013-02-14,-16.71076329249192,included_game_day
+2013,70,Idaho Vandals,2013-02-16,-16.40268092849747,included_game_day
+2013,70,Idaho Vandals,2013-02-23,-12.742481774497401,included_game_day
+2013,70,Idaho Vandals,2013-02-28,-30.820494015938344,included_game_day
+2013,70,Idaho Vandals,2013-03-02,-23.161054737424152,included_game_day
+2013,70,Idaho Vandals,2013-03-09,-22.231758621055345,included_game_day
+2013,70,Idaho Vandals,2013-03-14,-29.802352127565566,included_game_day
+2014,70,Idaho Vandals,2013-11-09,1.0,included_game_day
+2014,70,Idaho Vandals,2013-11-13,-14.29,included_game_day
+2014,70,Idaho Vandals,2013-11-21,-23.81193,included_game_day
+2014,70,Idaho Vandals,2013-11-22,-10.660007,included_game_day
+2014,70,Idaho Vandals,2013-11-23,-14.806167,included_game_day
+2014,70,Idaho Vandals,2013-11-27,-16.8129993,included_game_day
+2014,70,Idaho Vandals,2013-11-30,-13.293551970000001,included_game_day
+2014,70,Idaho Vandals,2013-12-07,-14.9833377949,included_game_day
+2014,70,Idaho Vandals,2013-12-11,-23.29481246541,included_game_day
+2014,70,Idaho Vandals,2013-12-14,-19.332269950069,included_game_day
+2014,70,Idaho Vandals,2013-12-20,-18.640953883414,included_game_day
+2014,70,Idaho Vandals,2013-12-22,-26.7312159023826,included_game_day
+2014,70,Idaho Vandals,2013-12-28,-29.03675529509334,included_game_day
+2014,70,Idaho Vandals,2014-01-02,-41.75124094843492,included_game_day
+2014,70,Idaho Vandals,2014-01-04,-49.93400905363046,included_game_day
+2014,70,Idaho Vandals,2014-01-09,-48.81693901674975,included_game_day
+2014,70,Idaho Vandals,2014-01-11,-57.71158372568378,included_game_day
+2014,70,Idaho Vandals,2014-01-16,-61.26337161042605,included_game_day
+2014,70,Idaho Vandals,2014-01-18,-55.87506467874738,included_game_day
+2014,70,Idaho Vandals,2014-01-23,-65.5056590611455,included_game_day
+2014,70,Idaho Vandals,2014-02-01,-65.25299644791679,included_game_day
+2014,70,Idaho Vandals,2014-02-06,-49.88367700792803,included_game_day
+2014,70,Idaho Vandals,2014-02-08,-48.96671287903438,included_game_day
+2014,70,Idaho Vandals,2014-02-13,-52.9096584049058,included_game_day
+2014,70,Idaho Vandals,2014-02-15,-46.75376889388145,included_game_day
+2014,70,Idaho Vandals,2014-02-18,-40.23651143934818,included_game_day
+2014,70,Idaho Vandals,2014-02-22,-34.91813463004215,included_game_day
+2014,70,Idaho Vandals,2014-03-01,-40.51323257635965,included_game_day
+2014,70,Idaho Vandals,2014-03-06,-38.599290132316796,included_game_day
+2014,70,Idaho Vandals,2014-03-08,-29.705408423094347,included_game_day
+2014,70,Idaho Vandals,2014-03-13,-29.590303055716387,included_game_day
+2014,70,Idaho Vandals,2014-03-14,-22.21695131561461,included_game_day
+2014,70,Idaho Vandals,2014-03-15,-35.23655357748366,included_game_day
+2015,70,Idaho Vandals,2014-11-17,2.1,included_game_day
+2015,70,Idaho Vandals,2014-11-20,-6.110000000000001,included_game_day
+2015,70,Idaho Vandals,2014-11-25,-16.354100000000003,included_game_day
+2015,70,Idaho Vandals,2014-11-29,-26.72043,included_game_day
+2015,70,Idaho Vandals,2014-12-03,-18.7193362,included_game_day
+2015,70,Idaho Vandals,2014-12-06,-8.85890224,included_game_day
+2015,70,Idaho Vandals,2014-12-11,-14.709792681300002,included_game_day
+2015,70,Idaho Vandals,2014-12-13,-11.26595720657,included_game_day
+2015,70,Idaho Vandals,2014-12-22,-23.5913434163801,included_game_day
+2015,70,Idaho Vandals,2015-01-01,-5.8467688083914915,included_game_day
+2015,70,Idaho Vandals,2015-01-03,-10.808956250237392,included_game_day
+2015,70,Idaho Vandals,2015-01-10,-13.45024799906652,included_game_day
+2015,70,Idaho Vandals,2015-01-15,-15.043408766849568,included_game_day
+2015,70,Idaho Vandals,2015-01-17,-29.02377255270003,included_game_day
+2015,70,Idaho Vandals,2015-01-22,-46.507847631118665,included_game_day
+2015,70,Idaho Vandals,2015-01-24,-42.992642607357816,included_game_day
+2015,70,Idaho Vandals,2015-01-31,-36.184983982758325,included_game_day
+2015,70,Idaho Vandals,2015-02-05,-30.955141613798986,included_game_day
+2015,70,Idaho Vandals,2015-02-07,-38.43832952996646,included_game_day
+2015,70,Idaho Vandals,2015-02-12,-31.346341587647085,included_game_day
+2015,70,Idaho Vandals,2015-02-14,-20.51586084354565,included_game_day
+2015,70,Idaho Vandals,2015-02-19,-24.102532322579954,included_game_day
+2015,70,Idaho Vandals,2015-02-21,-27.84156008383584,included_game_day
+2015,70,Idaho Vandals,2015-02-26,-22.211093387540256,included_game_day
+2015,70,Idaho Vandals,2015-02-28,-25.26870098857311,included_game_day
+2015,70,Idaho Vandals,2015-03-05,-37.69631991061231,included_game_day
+2015,70,Idaho Vandals,2015-03-07,-41.40299604969865,included_game_day
+2015,70,Idaho Vandals,2015-03-12,-43.941449187211646,included_game_day
+2016,70,Idaho Vandals,2015-11-14,23.0,included_game_day
+2016,70,Idaho Vandals,2015-11-17,0.6999999999999993,included_game_day
+2016,70,Idaho Vandals,2015-11-23,5.629999999999999,included_game_day
+2016,70,Idaho Vandals,2015-11-24,9.306239999999999,included_game_day
+2016,70,Idaho Vandals,2015-11-25,-10.440640000000002,included_game_day
+2016,70,Idaho Vandals,2015-11-28,-18.066576,included_game_day
+2016,70,Idaho Vandals,2015-12-02,-16.518788400000002,included_game_day
+2016,70,Idaho Vandals,2015-12-05,-25.84011646,included_game_day
+2016,70,Idaho Vandals,2015-12-07,-33.928242051,included_game_day
+2016,70,Idaho Vandals,2015-12-10,-26.657206780899998,included_game_day
+2016,70,Idaho Vandals,2015-12-22,-5.435376805265996,included_game_day
+2016,70,Idaho Vandals,2015-12-31,-4.665885493432196,included_game_day
+2016,70,Idaho Vandals,2016-01-02,-4.292304506064455,included_game_day
+2016,70,Idaho Vandals,2016-01-09,-18.760188810905344,included_game_day
+2016,70,Idaho Vandals,2016-01-14,-24.1888746108786,included_game_day
+2016,70,Idaho Vandals,2016-01-16,-39.60078415427233,included_game_day
+2016,70,Idaho Vandals,2016-01-21,-26.77750584406547,included_game_day
+2016,70,Idaho Vandals,2016-01-23,-28.35032376343176,included_game_day
+2016,70,Idaho Vandals,2016-01-28,-36.619738131180355,included_game_day
+2016,70,Idaho Vandals,2016-01-30,-40.23045309845848,included_game_day
+2016,70,Idaho Vandals,2016-02-04,-23.70079399281732,included_game_day
+2016,70,Idaho Vandals,2016-02-06,-35.271367808008414,included_game_day
+2016,70,Idaho Vandals,2016-02-11,-39.10929116488866,included_game_day
+2016,70,Idaho Vandals,2016-02-13,-36.09480310618795,included_game_day
+2016,70,Idaho Vandals,2016-02-18,-28.299886915623578,included_game_day
+2016,70,Idaho Vandals,2016-02-20,-30.429289837597143,included_game_day
+2016,70,Idaho Vandals,2016-02-27,-26.75276908816371,included_game_day
+2016,70,Idaho Vandals,2016-03-03,-21.621225610367876,included_game_day
+2016,70,Idaho Vandals,2016-03-05,-10.836476730652372,included_game_day
+2016,70,Idaho Vandals,2016-03-10,-6.73006994483307,included_game_day
+2016,70,Idaho Vandals,2016-03-11,-12.465948888139636,included_game_day
+2016,70,Idaho Vandals,2016-03-16,-19.905759558697024,included_game_day
+2017,70,Idaho Vandals,2016-11-16,-11.1,included_game_day
+2017,70,Idaho Vandals,2016-11-18,1.0099999999999998,included_game_day
+2017,70,Idaho Vandals,2016-11-21,0.8810000000000002,included_game_day
+2017,70,Idaho Vandals,2016-11-25,-3.67047,included_game_day
+2017,70,Idaho Vandals,2016-11-29,-16.448611999999997,included_game_day
+2017,70,Idaho Vandals,2016-12-03,-17.903303969999996,included_game_day
+2017,70,Idaho Vandals,2016-12-07,-29.878458571599996,included_game_day
+2017,70,Idaho Vandals,2016-12-10,-30.800399857289996,included_game_day
+2017,70,Idaho Vandals,2016-12-22,-29.416087823671678,included_game_day
+2017,70,Idaho Vandals,2016-12-30,-40.802755493540445,included_game_day
+2017,70,Idaho Vandals,2017-01-05,-54.00718491061274,included_game_day
+2017,70,Idaho Vandals,2017-01-07,-54.7292573832609,included_game_day
+2017,70,Idaho Vandals,2017-01-12,-69.6537671692006,included_game_day
+2017,70,Idaho Vandals,2017-01-14,-54.71428588493542,included_game_day
+2017,70,Idaho Vandals,2017-01-19,-49.634947541779866,included_game_day
+2017,70,Idaho Vandals,2017-01-21,-42.05830771144609,included_game_day
+2017,70,Idaho Vandals,2017-01-26,-39.719634731277914,included_game_day
+2017,70,Idaho Vandals,2017-01-28,-26.353925345895977,included_game_day
+2017,70,Idaho Vandals,2017-02-02,-10.925509813714145,included_game_day
+2017,70,Idaho Vandals,2017-02-04,-3.9472152021078166,included_game_day
+2017,70,Idaho Vandals,2017-02-09,5.539235795964476,included_game_day
+2017,70,Idaho Vandals,2017-02-11,-14.671810555310149,included_game_day
+2017,70,Idaho Vandals,2017-02-17,-18.06642384303021,included_game_day
+2017,70,Idaho Vandals,2017-02-23,-22.271562571765685,included_game_day
+2017,70,Idaho Vandals,2017-02-25,-18.991067417339924,included_game_day
+2017,70,Idaho Vandals,2017-03-02,-21.59777939963102,included_game_day
+2017,70,Idaho Vandals,2017-03-04,-19.683223701472542,included_game_day
+2017,70,Idaho Vandals,2017-03-09,-13.967453056605658,included_game_day
+2017,70,Idaho Vandals,2017-03-10,-13.801057900427523,included_game_day
+2017,70,Idaho Vandals,2017-03-15,5.372712193090724,included_game_day
+2017,70,Idaho Vandals,2017-03-22,2.9479299382576,included_game_day
+2018,70,Idaho Vandals,2017-11-10,-21.0,included_game_day
+2018,70,Idaho Vandals,2017-11-18,-12.9,included_game_day
+2018,70,Idaho Vandals,2017-11-22,-5.183000000000001,included_game_day
+2018,70,Idaho Vandals,2017-11-24,-8.8733,included_game_day
+2018,70,Idaho Vandals,2017-11-25,0.6811100000000003,included_game_day
+2018,70,Idaho Vandals,2017-12-03,9.944107895,included_game_day
+2018,70,Idaho Vandals,2017-12-06,35.4242394255,included_game_day
+2018,70,Idaho Vandals,2017-12-09,19.81705441173,included_game_day
+2018,70,Idaho Vandals,2017-12-18,51.661488998878,included_game_day
+2018,70,Idaho Vandals,2017-12-21,33.892279657232024,included_game_day
+2018,70,Idaho Vandals,2017-12-29,43.69702542332799,included_game_day
+2018,70,Idaho Vandals,2017-12-31,42.72151424786294,included_game_day
+2018,70,Idaho Vandals,2018-01-04,30.193495897209928,included_game_day
+2018,70,Idaho Vandals,2018-01-06,25.88853903101594,included_game_day
+2018,70,Idaho Vandals,2018-01-12,35.0957267060766,included_game_day
+2018,70,Idaho Vandals,2018-01-18,30.29128443644653,included_game_day
+2018,70,Idaho Vandals,2018-01-20,23.267383160149624,included_game_day
+2018,70,Idaho Vandals,2018-01-25,2.488853756439376,included_game_day
+2018,70,Idaho Vandals,2018-01-27,19.403049233663687,included_game_day
+2018,70,Idaho Vandals,2018-02-01,30.53814046836949,included_game_day
+2018,70,Idaho Vandals,2018-02-03,48.59035875331142,included_game_day
+2018,70,Idaho Vandals,2018-02-09,44.73362282501626,included_game_day
+2018,70,Idaho Vandals,2018-02-15,41.24832725780176,included_game_day
+2018,70,Idaho Vandals,2018-02-17,42.4617839001788,included_game_day
+2018,70,Idaho Vandals,2018-02-22,33.81231796578895,included_game_day
+2018,70,Idaho Vandals,2018-02-24,43.491313274138115,included_game_day
+2018,70,Idaho Vandals,2018-03-01,38.00454152115981,included_game_day
+2018,70,Idaho Vandals,2018-03-03,25.21665536442939,included_game_day
+2018,70,Idaho Vandals,2018-03-08,3.348836030742504,included_game_day
+2019,70,Idaho Vandals,2018-11-06,-15.0,included_game_day
+2019,70,Idaho Vandals,2018-11-13,-21.8,included_game_day
+2019,70,Idaho Vandals,2018-11-24,-29.66158,included_game_day
+2019,70,Idaho Vandals,2018-12-01,-14.937326630000001,included_game_day
+2019,70,Idaho Vandals,2018-12-05,-27.754035767,included_game_day
+2019,70,Idaho Vandals,2018-12-08,-36.1060799693,included_game_day
+2019,70,Idaho Vandals,2018-12-15,-48.75606341042,included_game_day
+2019,70,Idaho Vandals,2018-12-21,-63.37823105960595,included_game_day
+2019,70,Idaho Vandals,2018-12-29,-82.05704093337029,included_game_day
+2019,70,Idaho Vandals,2018-12-31,-83.56446291115107,included_game_day
+2019,70,Idaho Vandals,2019-01-03,-82.60268195910206,included_game_day
+2019,70,Idaho Vandals,2019-01-05,-75.2662389974927,included_game_day
+2019,70,Idaho Vandals,2019-01-10,-83.77872800392726,included_game_day
+2019,70,Idaho Vandals,2019-01-19,-92.19792129271862,included_game_day
+2019,70,Idaho Vandals,2019-01-24,-106.58068107767176,included_game_day
+2019,70,Idaho Vandals,2019-01-26,-115.31582337255247,included_game_day
+2019,70,Idaho Vandals,2019-02-02,-126.88058130677395,included_game_day
+2019,70,Idaho Vandals,2019-02-04,-134.32533409174147,included_game_day
+2019,70,Idaho Vandals,2019-02-07,-154.1389587151447,included_game_day
+2019,70,Idaho Vandals,2019-02-09,-151.2924609833204,included_game_day
+2019,70,Idaho Vandals,2019-02-14,-166.37488779235292,included_game_day
+2019,70,Idaho Vandals,2019-02-18,-173.96153193046848,included_game_day
+2019,70,Idaho Vandals,2019-02-21,-181.89500209737426,included_game_day
+2019,70,Idaho Vandals,2019-02-23,-173.70350114633163,included_game_day
+2019,70,Idaho Vandals,2019-02-28,-166.18098850751016,included_game_day
+2019,70,Idaho Vandals,2019-03-02,-152.363357270045,included_game_day
+2019,70,Idaho Vandals,2019-03-07,-170.25922569468509,included_game_day
+2019,70,Idaho Vandals,2019-03-09,-162.6579455424614,included_game_day
+2019,70,Idaho Vandals,2019-03-13,-152.50398890328037,included_game_day
+2020,70,Idaho Vandals,2019-11-09,-1.7999999999999998,included_game_day
+2020,70,Idaho Vandals,2019-11-14,-5.72,included_game_day
+2020,70,Idaho Vandals,2019-11-15,-7.4871,included_game_day
+2020,70,Idaho Vandals,2019-11-17,-18.1431,included_game_day
+2020,70,Idaho Vandals,2019-11-26,-37.047031000000004,included_game_day
+2020,70,Idaho Vandals,2019-11-30,-54.549735695,included_game_day
+2020,70,Idaho Vandals,2019-12-04,-64.7773362555,included_game_day
+2020,70,Idaho Vandals,2019-12-14,-60.51318165389,included_game_day
+2020,70,Idaho Vandals,2019-12-21,-78.96140883026894,included_game_day
+2020,70,Idaho Vandals,2019-12-28,-72.84940948671343,included_game_day
+2020,70,Idaho Vandals,2019-12-30,-69.74742121052238,included_game_day
+2020,70,Idaho Vandals,2020-01-02,-53.81618499301156,included_game_day
+2020,70,Idaho Vandals,2020-01-09,-56.420106548418254,included_game_day
+2020,70,Idaho Vandals,2020-01-16,-58.90844896218603,included_game_day
+2020,70,Idaho Vandals,2020-01-18,-51.59028533437203,included_game_day
+2020,70,Idaho Vandals,2020-01-25,-66.85301511082147,included_game_day
+2020,70,Idaho Vandals,2020-01-27,-88.52925912677338,included_game_day
+2020,70,Idaho Vandals,2020-02-01,-81.03788775443225,included_game_day
+2020,70,Idaho Vandals,2020-02-03,-58.93852981325887,included_game_day
+2020,70,Idaho Vandals,2020-02-06,-75.1010214194512,included_game_day
+2020,70,Idaho Vandals,2020-02-08,-79.60582304679818,included_game_day
+2020,70,Idaho Vandals,2020-02-13,-62.105835179898065,included_game_day
+2020,70,Idaho Vandals,2020-02-17,-75.25655547094267,included_game_day
+2020,70,Idaho Vandals,2020-02-20,-90.84453275847657,included_game_day
+2020,70,Idaho Vandals,2020-02-22,-97.33578750698524,included_game_day
+2020,70,Idaho Vandals,2020-02-27,-122.807838229056,included_game_day
+2020,70,Idaho Vandals,2020-02-29,-142.32902160217466,included_game_day
+2020,70,Idaho Vandals,2020-03-05,-145.94120927163496,included_game_day
+2020,70,Idaho Vandals,2020-03-07,-137.6002478773767,included_game_day
+2020,70,Idaho Vandals,2020-03-11,-130.09883241218847,included_game_day
+2021,70,Idaho Vandals,2020-12-03,-19.0,included_game_day
+2021,70,Idaho Vandals,2020-12-05,-28.2,included_game_day
+2021,70,Idaho Vandals,2020-12-09,-25.149,included_game_day
+2021,70,Idaho Vandals,2020-12-12,-31.37884,included_game_day
+2021,70,Idaho Vandals,2020-12-18,-63.018664033,included_game_day
+2021,70,Idaho Vandals,2020-12-31,-82.13452784313915,included_game_day
+2021,70,Idaho Vandals,2021-01-02,-89.42721889125048,included_game_day
+2021,70,Idaho Vandals,2021-01-07,-81.44855827912542,included_game_day
+2021,70,Idaho Vandals,2021-01-09,-86.06562978942539,included_game_day
+2021,70,Idaho Vandals,2021-01-14,-105.27669637222866,included_game_day
+2021,70,Idaho Vandals,2021-01-16,-114.64554963847127,included_game_day
+2021,70,Idaho Vandals,2021-01-28,-127.6339579267106,included_game_day
+2021,70,Idaho Vandals,2021-01-30,-132.02468455730207,included_game_day
+2021,70,Idaho Vandals,2021-02-04,-133.3941826071872,included_game_day
+2021,70,Idaho Vandals,2021-02-06,-140.48978104709528,included_game_day
+2021,70,Idaho Vandals,2021-02-11,-153.35819529107752,included_game_day
+2021,70,Idaho Vandals,2021-02-13,-143.65292668626333,included_game_day
+2021,70,Idaho Vandals,2021-02-18,-148.48878173391532,included_game_day
+2021,70,Idaho Vandals,2021-02-20,-169.3574657720369,included_game_day
+2021,70,Idaho Vandals,2021-02-26,-152.82676054188337,included_game_day
+2021,70,Idaho Vandals,2021-02-28,-154.60219635776056,included_game_day
+2021,70,Idaho Vandals,2021-03-10,-144.70131237027903,included_game_day
+2022,70,Idaho Vandals,2021-11-10,-9.0,included_game_day
+2022,70,Idaho Vandals,2021-11-15,-10.31,included_game_day
+2022,70,Idaho Vandals,2021-11-18,-57.2275,included_game_day
+2022,70,Idaho Vandals,2021-11-22,-88.80205,included_game_day
+2022,70,Idaho Vandals,2021-11-24,-87.55504499999999,included_game_day
+2022,70,Idaho Vandals,2021-11-27,-96.5878305,included_game_day
+2022,70,Idaho Vandals,2021-12-04,-94.64886504,included_game_day
+2022,70,Idaho Vandals,2021-12-08,-70.884746206,included_game_day
+2022,70,Idaho Vandals,2021-12-11,-64.1178715854,included_game_day
+2022,70,Idaho Vandals,2022-01-06,-79.61506133406806,included_game_day
+2022,70,Idaho Vandals,2022-01-08,-73.55865822813006,included_game_day
+2022,70,Idaho Vandals,2022-01-13,-73.93124676314356,included_game_day
+2022,70,Idaho Vandals,2022-01-15,-81.44100897679711,included_game_day
+2022,70,Idaho Vandals,2022-01-17,-81.64465968795467,included_game_day
+2022,70,Idaho Vandals,2022-01-20,-96.32503902069566,included_game_day
+2022,70,Idaho Vandals,2022-01-22,-94.20624796415763,included_game_day
+2022,70,Idaho Vandals,2022-01-24,-82.2279681815276,included_game_day
+2022,70,Idaho Vandals,2022-01-27,-88.58865267648677,included_game_day
+2022,70,Idaho Vandals,2022-01-29,-79.625536413823,included_game_day
+2022,70,Idaho Vandals,2022-02-03,-86.05459618547724,included_game_day
+2022,70,Idaho Vandals,2022-02-10,-99.98467212276438,included_game_day
+2022,70,Idaho Vandals,2022-02-12,-87.73317170184463,included_game_day
+2022,70,Idaho Vandals,2022-02-17,-77.88654179344229,included_game_day
+2022,70,Idaho Vandals,2022-02-19,-70.6605442665435,included_game_day
+2022,70,Idaho Vandals,2022-02-24,-103.60520100130404,included_game_day
+2022,70,Idaho Vandals,2022-02-26,-96.16325332282644,included_game_day
+2022,70,Idaho Vandals,2022-03-03,-103.91501817497382,included_game_day
+2022,70,Idaho Vandals,2022-03-05,-99.01736681094388,included_game_day
+2022,70,Idaho Vandals,2022-03-09,-97.34375510673735,included_game_day
+2023,70,Idaho Vandals,2022-11-07,-2.0,included_game_day
+2023,70,Idaho Vandals,2022-11-13,-8.780000000000001,included_game_day
+2023,70,Idaho Vandals,2022-11-16,-22.022000000000002,included_game_day
+2023,70,Idaho Vandals,2022-11-19,-35.8176,included_game_day
+2023,70,Idaho Vandals,2022-11-23,-45.079966999999996,included_game_day
+2023,70,Idaho Vandals,2022-11-25,-33.6394216,included_game_day
+2023,70,Idaho Vandals,2022-12-02,2.376615433000005,included_game_day
+2023,70,Idaho Vandals,2022-12-06,4.965622970670004,included_game_day
+2023,70,Idaho Vandals,2022-12-11,-0.7114994163969968,included_game_day
+2023,70,Idaho Vandals,2022-12-19,1.568760088012703,included_game_day
+2023,70,Idaho Vandals,2022-12-21,-4.766817798900167,included_game_day
+2023,70,Idaho Vandals,2022-12-29,-14.303704133520045,included_game_day
+2023,70,Idaho Vandals,2022-12-31,-21.036870849572537,included_game_day
+2023,70,Idaho Vandals,2023-01-05,-25.180269381064146,included_game_day
+2023,70,Idaho Vandals,2023-01-07,-45.37594328525752,included_game_day
+2023,70,Idaho Vandals,2023-01-14,-57.76987568108119,included_game_day
+2023,70,Idaho Vandals,2023-01-16,-45.879477040561156,included_game_day
+2023,70,Idaho Vandals,2023-01-19,-39.871069192369205,included_game_day
+2023,70,Idaho Vandals,2023-01-21,-43.95232629480727,included_game_day
+2023,70,Idaho Vandals,2023-01-26,-50.992758676387986,included_game_day
+2023,70,Idaho Vandals,2023-01-28,-57.65843096119497,included_game_day
+2023,70,Idaho Vandals,2023-02-02,-56.23193877506262,included_game_day
+2023,70,Idaho Vandals,2023-02-04,-43.608011093703446,included_game_day
+2023,70,Idaho Vandals,2023-02-11,-44.1978985276152,included_game_day
+2023,70,Idaho Vandals,2023-02-16,-41.025779614417814,included_game_day
+2023,70,Idaho Vandals,2023-02-18,-65.82370839140702,included_game_day
+2023,70,Idaho Vandals,2023-02-23,-71.55363340238833,included_game_day
+2023,70,Idaho Vandals,2023-02-25,-76.98195644643381,included_game_day
+2023,70,Idaho Vandals,2023-02-27,-87.48694021500256,included_game_day
+2023,70,Idaho Vandals,2023-03-04,-90.9288994431224,included_game_day
+2024,70,Idaho Vandals,2023-11-06,-22.0,included_game_day
+2024,70,Idaho Vandals,2023-11-09,-26.4,included_game_day
+2024,70,Idaho Vandals,2023-11-22,-58.2154,included_game_day
+2024,70,Idaho Vandals,2023-11-24,-47.179460000000006,included_game_day
+2024,70,Idaho Vandals,2023-11-29,-46.48134400000001,included_game_day
+2024,70,Idaho Vandals,2023-12-02,-32.81442126,included_game_day
+2024,70,Idaho Vandals,2023-12-05,-10.324737519800003,included_game_day
+2024,70,Idaho Vandals,2023-12-09,-6.064540485420003,included_game_day
+2024,70,Idaho Vandals,2023-12-17,-19.052365084488002,included_game_day
+2024,70,Idaho Vandals,2023-12-21,-33.5174677456392,included_game_day
+2024,70,Idaho Vandals,2023-12-28,-37.912257655473084,included_game_day
+2024,70,Idaho Vandals,2023-12-30,-44.19659510695523,included_game_day
+2024,70,Idaho Vandals,2024-01-03,-45.20639360905348,included_game_day
+2024,70,Idaho Vandals,2024-01-13,-62.09585266147184,included_game_day
+2024,70,Idaho Vandals,2024-01-18,-63.07294844348724,included_game_day
+2024,70,Idaho Vandals,2024-01-20,-73.97187536815971,included_game_day
+2024,70,Idaho Vandals,2024-01-25,-94.44165200636698,included_game_day
+2024,70,Idaho Vandals,2024-01-27,-107.44902801840283,included_game_day
+2024,70,Idaho Vandals,2024-02-01,-95.53441821449202,included_game_day
+2024,70,Idaho Vandals,2024-02-03,-78.44490900915753,included_game_day
+2024,70,Idaho Vandals,2024-02-05,-59.13111877913691,included_game_day
+2024,70,Idaho Vandals,2024-02-10,-52.963057414841444,included_game_day
+2024,70,Idaho Vandals,2024-02-15,-50.11011077025735,included_game_day
+2024,70,Idaho Vandals,2024-02-17,-47.42656022409483,included_game_day
+2024,70,Idaho Vandals,2024-02-22,-54.21783954423634,included_game_day
+2024,70,Idaho Vandals,2024-02-24,-42.452425302696234,included_game_day
+2024,70,Idaho Vandals,2024-02-29,-60.99192531527101,included_game_day
+2024,70,Idaho Vandals,2024-03-02,-80.9536466417454,included_game_day
+2024,70,Idaho Vandals,2024-03-04,-89.71859289712191,included_game_day
+2024,70,Idaho Vandals,2024-03-09,-96.20617725042814,included_game_day
+2025,70,Idaho Vandals,2024-11-07,-7.3,included_game_day
+2025,70,Idaho Vandals,2024-11-11,-24.470000000000002,included_game_day
+2025,70,Idaho Vandals,2024-11-16,-36.0533,included_game_day
+2025,70,Idaho Vandals,2024-11-23,-46.369424,included_game_day
+2025,70,Idaho Vandals,2024-11-24,-48.626847600000005,included_game_day
+2025,70,Idaho Vandals,2024-11-30,-37.72499399,included_game_day
+2025,70,Idaho Vandals,2024-12-04,-31.162424905,included_game_day
+2025,70,Idaho Vandals,2024-12-07,-34.5349784945,included_game_day
+2025,70,Idaho Vandals,2024-12-15,-50.685683402491,included_game_day
+2025,70,Idaho Vandals,2024-12-18,-51.5458351362029,included_game_day
+2025,70,Idaho Vandals,2024-12-21,-25.464184582257772,included_game_day
+2025,70,Idaho Vandals,2025-01-02,-23.838902259421964,included_game_day
+2025,70,Idaho Vandals,2025-01-04,-27.836301451588888,included_game_day
+2025,70,Idaho Vandals,2025-01-09,-17.187736435850304,included_game_day
+2025,70,Idaho Vandals,2025-01-11,-28.17910140583313,included_game_day
+2025,70,Idaho Vandals,2025-01-18,-26.200638919163318,included_game_day
+2025,70,Idaho Vandals,2025-01-20,-30.539613431737894,included_game_day
+2025,70,Idaho Vandals,2025-01-23,-28.77929578124797,included_game_day
+2025,70,Idaho Vandals,2025-01-25,-38.71618036300228,included_game_day
+2025,70,Idaho Vandals,2025-01-30,-30.126702622622936,included_game_day
+2025,70,Idaho Vandals,2025-02-01,-42.683052182380045,included_game_day
+2025,70,Idaho Vandals,2025-02-06,-48.516487502003095,included_game_day
+2025,70,Idaho Vandals,2025-02-08,-55.68018846142673,included_game_day
+2025,70,Idaho Vandals,2025-02-15,-53.21726733426573,included_game_day
+2025,70,Idaho Vandals,2025-02-20,-43.53912699865056,included_game_day
+2025,70,Idaho Vandals,2025-02-22,-51.66567226239355,included_game_day
+2025,70,Idaho Vandals,2025-02-27,-55.18878224521241,included_game_day
+2025,70,Idaho Vandals,2025-03-01,-58.27105046153086,included_game_day
+2025,70,Idaho Vandals,2025-03-03,-66.08471296952786,included_game_day
+2025,70,Idaho Vandals,2025-03-10,-50.05061837010561,included_game_day
+2025,70,Idaho Vandals,2025-03-11,-66.57467693588944,included_game_day
+2026,70,Idaho Vandals,2025-11-03,5.0,included_game_day
+2026,70,Idaho Vandals,2025-11-12,2.9,included_game_day
+2026,70,Idaho Vandals,2025-11-15,-0.1431,included_game_day
+2026,70,Idaho Vandals,2025-11-26,11.494216,included_game_day
+2026,70,Idaho Vandals,2025-11-28,-15.7062793,included_game_day
+2026,70,Idaho Vandals,2025-12-03,8.450186399999998,included_game_day
+2026,70,Idaho Vandals,2025-12-06,14.393256543799998,included_game_day
+2026,70,Idaho Vandals,2025-12-10,6.280929577729998,included_game_day
+2026,70,Idaho Vandals,2025-12-21,7.174134022470519,included_game_day
+2026,70,Idaho Vandals,2025-12-23,0.05135186054582608,included_game_day
+2026,70,Idaho Vandals,2026-01-03,-7.211426295701611,included_game_day
+2026,70,Idaho Vandals,2026-01-08,-18.474705196396275,included_game_day
+2026,70,Idaho Vandals,2026-01-10,-15.987375999645344,included_game_day
+2026,70,Idaho Vandals,2026-01-15,-20.67623661654193,included_game_day
+2026,70,Idaho Vandals,2026-01-17,-7.497149191573026,included_game_day
+2026,70,Idaho Vandals,2026-01-22,-6.509658235983631,included_game_day
+2026,70,Idaho Vandals,2026-01-24,-9.899006878782263,included_game_day
+2026,70,Idaho Vandals,2026-01-29,-16.72997784895713,included_game_day
+2026,70,Idaho Vandals,2026-01-31,-4.419490160372158,included_game_day
+2026,70,Idaho Vandals,2026-02-05,-7.972175090670563,included_game_day
+2026,70,Idaho Vandals,2026-02-07,-10.098197036637425,included_game_day
+2026,70,Idaho Vandals,2026-02-12,-27.11759574029118,included_game_day
+2026,70,Idaho Vandals,2026-02-14,-5.012345902915595,included_game_day
+2026,70,Idaho Vandals,2026-02-19,-9.67751206113077,included_game_day
+2026,70,Idaho Vandals,2026-02-21,-5.433171662076639,included_game_day
+2026,70,Idaho Vandals,2026-02-26,4.012210140955586,included_game_day
+2026,70,Idaho Vandals,2026-02-28,-8.424551937144829,included_game_day
+2026,70,Idaho Vandals,2026-03-02,3.7117712797556113,included_game_day
+2026,70,Idaho Vandals,2026-03-07,20.18024894309584,included_game_day
+2026,70,Idaho Vandals,2026-03-08,23.374318967307836,included_game_day
+2026,70,Idaho Vandals,2026-03-10,37.015231371489065,included_game_day
+2026,70,Idaho Vandals,2026-03-11,40.88514506619021,included_game_day
+2026,70,Idaho Vandals,2026-03-19,26.639485798815475,included_game_day
+2027,70,Idaho Vandals,2026-11-06,-7.3,included_game_day
+2027,70,Idaho Vandals,2026-11-13,-22.362000000000002,included_game_day
+2027,70,Idaho Vandals,2026-11-18,-32.415310000000005,included_game_day
+2027,70,Idaho Vandals,2026-11-20,-27.791933000000004,included_game_day

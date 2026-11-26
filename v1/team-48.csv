@@ -1,0 +1,1149 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,48,Delaware,1987-11-27,10.0,included_game_day
+1988,48,Delaware,1987-11-28,-2.6999999999999993,included_game_day
+1988,48,Delaware,1987-12-08,7.181700000000001,included_game_day
+1988,48,Delaware,1987-12-11,16.341646500000003,included_game_day
+1988,48,Delaware,1988-01-02,39.23206846543307,included_game_day
+1988,48,Delaware,1988-01-05,27.706079771601914,included_game_day
+1988,48,Delaware,1988-01-07,24.301693520116494,included_game_day
+1988,48,Delaware,1988-01-09,21.180556197109492,included_game_day
+1988,48,Delaware,1988-01-13,27.137806008617076,included_game_day
+1988,48,Delaware,1988-01-18,20.938699879106913,included_game_day
+1988,48,Delaware,1988-01-20,20.71581552515893,included_game_day
+1988,48,Delaware,1988-01-23,23.83721880843769,included_game_day
+1988,48,Delaware,1988-01-25,30.670490174484158,included_game_day
+1988,48,Delaware,1988-01-30,20.541678001817466,included_game_day
+1988,48,Delaware,1988-02-01,8.299700490102692,included_game_day
+1988,48,Delaware,1988-02-03,2.6450269457100966,included_game_day
+1988,48,Delaware,1988-02-06,4.502934502296234,included_game_day
+1988,48,Delaware,1988-02-10,12.221764779626696,included_game_day
+1988,48,Delaware,1988-02-13,11.07242954593638,included_game_day
+1988,48,Delaware,1988-02-17,0.040174885322674214,included_game_day
+1988,48,Delaware,1988-02-20,-11.079296544824402,included_game_day
+1988,48,Delaware,1988-02-24,-4.485495054122375,included_game_day
+1988,48,Delaware,1988-02-27,9.10416355289642,included_game_day
+1988,48,Delaware,1988-03-05,-4.063625216982842,included_game_day
+1989,48,Delaware,1988-11-25,-3.0,included_game_day
+1989,48,Delaware,1988-11-26,-12.7,included_game_day
+1989,48,Delaware,1988-12-03,-25.33,included_game_day
+1989,48,Delaware,1988-12-10,-15.939599999999999,included_game_day
+1989,48,Delaware,1988-12-22,-12.3773423753,included_game_day
+1989,48,Delaware,1989-01-04,-4.669920161582976,included_game_day
+1989,48,Delaware,1989-01-07,-14.061534699589696,included_game_day
+1989,48,Delaware,1989-01-11,-26.773395023147494,included_game_day
+1989,48,Delaware,1989-01-14,-31.62502616644167,included_game_day
+1989,48,Delaware,1989-01-18,-35.91947743581284,included_game_day
+1989,48,Delaware,1989-01-21,-41.341667743934316,included_game_day
+1989,48,Delaware,1989-01-25,-22.871492767358568,included_game_day
+1989,48,Delaware,1989-01-28,-7.27196913338094,included_game_day
+1989,48,Delaware,1989-01-30,-1.5511774048954177,included_game_day
+1989,48,Delaware,1989-02-01,-3.8809463111530995,included_game_day
+1989,48,Delaware,1989-02-04,-8.934472311536684,included_game_day
+1989,48,Delaware,1989-02-08,-8.86991524976889,included_game_day
+1989,48,Delaware,1989-02-11,-7.301920985632166,included_game_day
+1989,48,Delaware,1989-02-15,-0.004339347965072626,included_game_day
+1989,48,Delaware,1989-02-18,12.208003999338903,included_game_day
+1989,48,Delaware,1989-02-22,9.065793304708084,included_game_day
+1989,48,Delaware,1989-02-25,-1.7698107694006033,included_game_day
+1989,48,Delaware,1989-02-27,-18.177491436130357,included_game_day
+1989,48,Delaware,1989-03-04,-22.26881270387757,included_game_day
+1990,48,Delaware,1989-11-25,-3.0,included_game_day
+1990,48,Delaware,1989-12-01,-15.54,included_game_day
+1990,48,Delaware,1989-12-09,-2.4889589999999995,included_game_day
+1990,48,Delaware,1989-12-14,-12.923974927,included_game_day
+1990,48,Delaware,1989-12-29,-6.505887157689999,included_game_day
+1990,48,Delaware,1989-12-30,5.910471541634601,included_game_day
+1990,48,Delaware,1990-01-03,-4.066336893361349,included_game_day
+1990,48,Delaware,1990-01-07,-1.351916331464862,included_game_day
+1990,48,Delaware,1990-01-13,-9.231517870736262,included_game_day
+1990,48,Delaware,1990-01-17,-10.218522016764934,included_game_day
+1990,48,Delaware,1990-01-20,26.060946019128764,included_game_day
+1990,48,Delaware,1990-01-24,30.760342601586775,included_game_day
+1990,48,Delaware,1990-01-27,38.73272637237881,included_game_day
+1990,48,Delaware,1990-01-29,46.05730968190856,included_game_day
+1990,48,Delaware,1990-01-31,30.86373989715392,included_game_day
+1990,48,Delaware,1990-02-03,12.841534758380465,included_game_day
+1990,48,Delaware,1990-02-07,12.609288603749434,included_game_day
+1990,48,Delaware,1990-02-10,38.8655103614654,included_game_day
+1990,48,Delaware,1990-02-14,34.551912755661064,included_game_day
+1990,48,Delaware,1990-02-17,29.99803273368287,included_game_day
+1990,48,Delaware,1990-02-21,23.88949980222325,included_game_day
+1990,48,Delaware,1990-02-24,28.660464723586127,included_game_day
+1990,48,Delaware,1990-02-28,8.172898113209321,included_game_day
+1990,48,Delaware,1990-03-03,8.381725901706275,included_game_day
+1990,48,Delaware,1990-03-04,-3.5296925045864995,included_game_day
+1991,48,Delaware,1990-11-24,-22.0,included_game_day
+1991,48,Delaware,1990-11-28,-24.891,included_game_day
+1991,48,Delaware,1990-12-05,-27.272582,included_game_day
+1991,48,Delaware,1990-12-07,-28.9093388,included_game_day
+1991,48,Delaware,1990-12-09,-37.01192102,included_game_day
+1991,48,Delaware,1990-12-11,-38.447199818,included_game_day
+1991,48,Delaware,1990-12-23,-32.85403054717,included_game_day
+1991,48,Delaware,1991-01-03,-30.1658699393711,included_game_day
+1991,48,Delaware,1991-01-05,-26.853941433275295,included_game_day
+1991,48,Delaware,1991-01-07,-22.804322340100917,included_game_day
+1991,48,Delaware,1991-01-12,-45.73360530279282,included_game_day
+1991,48,Delaware,1991-01-17,-29.441449243495796,included_game_day
+1991,48,Delaware,1991-01-19,-21.571417522216425,included_game_day
+1991,48,Delaware,1991-01-23,-32.5940908492543,included_game_day
+1991,48,Delaware,1991-01-26,-40.101198589142825,included_game_day
+1991,48,Delaware,1991-01-28,-13.967253487703406,included_game_day
+1991,48,Delaware,1991-01-30,-12.31424966703584,included_game_day
+1991,48,Delaware,1991-02-02,-16.32383764600582,included_game_day
+1991,48,Delaware,1991-02-04,-28.08204863424327,included_game_day
+1991,48,Delaware,1991-02-07,-25.483396787665637,included_game_day
+1991,48,Delaware,1991-02-09,-26.673069254085572,included_game_day
+1991,48,Delaware,1991-02-13,-36.75106808879849,included_game_day
+1991,48,Delaware,1991-02-16,-35.26721425460707,included_game_day
+1991,48,Delaware,1991-02-20,-31.73060472699457,included_game_day
+1991,48,Delaware,1991-02-23,-25.017548345592164,included_game_day
+1991,48,Delaware,1991-02-26,-8.811904516354975,included_game_day
+1991,48,Delaware,1991-03-02,-7.560982432554635,included_game_day
+1991,48,Delaware,1991-03-03,-12.21355421726113,included_game_day
+1992,48,Delaware,1991-11-27,21.28,included_game_day
+1992,48,Delaware,1991-11-29,28.772000000000002,included_game_day
+1992,48,Delaware,1991-11-30,42.394800000000004,included_game_day
+1992,48,Delaware,1991-12-05,30.566320000000005,included_game_day
+1992,48,Delaware,1991-12-10,43.77738190000001,included_game_day
+1992,48,Delaware,1991-12-23,57.45125867689801,included_game_day
+1992,48,Delaware,1992-01-02,34.9189617465922,included_game_day
+1992,48,Delaware,1992-01-04,14.887440085433955,included_game_day
+1992,48,Delaware,1992-01-07,12.443839494031574,included_game_day
+1992,48,Delaware,1992-01-11,24.83095699139257,included_game_day
+1992,48,Delaware,1992-01-17,29.488020274058936,included_game_day
+1992,48,Delaware,1992-01-19,35.31107830599039,included_game_day
+1992,48,Delaware,1992-01-24,61.986755692702644,included_game_day
+1992,48,Delaware,1992-01-25,47.18887847855529,included_game_day
+1992,48,Delaware,1992-01-28,48.491738356270645,included_game_day
+1992,48,Delaware,1992-02-01,53.58072519753288,included_game_day
+1992,48,Delaware,1992-02-02,52.73124708453736,included_game_day
+1992,48,Delaware,1992-02-08,51.52214197761819,included_game_day
+1992,48,Delaware,1992-02-14,55.02757673980797,included_game_day
+1992,48,Delaware,1992-02-15,49.14728806074115,included_game_day
+1992,48,Delaware,1992-02-22,74.06866801567847,included_game_day
+1992,48,Delaware,1992-02-23,73.89306403648283,included_game_day
+1992,48,Delaware,1992-02-28,71.03517362079762,included_game_day
+1992,48,Delaware,1992-02-29,53.40089783735904,included_game_day
+1992,48,Delaware,1992-03-04,51.991621643542985,included_game_day
+1992,48,Delaware,1992-03-07,70.07591255535351,included_game_day
+1992,48,Delaware,1992-03-08,70.5439204187495,included_game_day
+1992,48,Delaware,1992-03-09,86.17691052025613,included_game_day
+1992,48,Delaware,1992-03-20,58.884990467226245,included_game_day
+1993,48,Delaware,1992-11-18,-18.0,included_game_day
+1993,48,Delaware,1992-12-01,-12.3,included_game_day
+1993,48,Delaware,1992-12-08,-16.493000000000002,included_game_day
+1993,48,Delaware,1992-12-10,6.458039999999997,included_game_day
+1993,48,Delaware,1992-12-18,0.2897309999999971,included_game_day
+1993,48,Delaware,1992-12-19,7.673757899999997,included_game_day
+1993,48,Delaware,1992-12-29,8.667162723999997,included_game_day
+1993,48,Delaware,1992-12-30,25.1549620218,included_game_day
+1993,48,Delaware,1993-01-04,35.074469943574954,included_game_day
+1993,48,Delaware,1993-01-06,33.155515079816254,included_game_day
+1993,48,Delaware,1993-01-09,34.27950987828754,included_game_day
+1993,48,Delaware,1993-01-15,31.717841839118645,included_game_day
+1993,48,Delaware,1993-01-17,49.42508647449547,included_game_day
+1993,48,Delaware,1993-01-22,37.381469448444015,included_game_day
+1993,48,Delaware,1993-01-24,33.20379930796129,included_game_day
+1993,48,Delaware,1993-01-29,25.1669288480829,included_game_day
+1993,48,Delaware,1993-01-31,20.413396137878202,included_game_day
+1993,48,Delaware,1993-02-06,7.604432627060117,included_game_day
+1993,48,Delaware,1993-02-11,12.863254594304493,included_game_day
+1993,48,Delaware,1993-02-13,20.471607533647564,included_game_day
+1993,48,Delaware,1993-02-19,5.083223903297373,included_game_day
+1993,48,Delaware,1993-02-21,13.071577669347977,included_game_day
+1993,48,Delaware,1993-02-26,14.22062228662023,included_game_day
+1993,48,Delaware,1993-02-28,3.0249207698057408,included_game_day
+1993,48,Delaware,1993-03-03,23.049919264003663,included_game_day
+1993,48,Delaware,1993-03-06,14.268019269790681,included_game_day
+1993,48,Delaware,1993-03-07,46.549772208064866,included_game_day
+1993,48,Delaware,1993-03-08,50.97684561829223,included_game_day
+1993,48,Delaware,1993-03-19,51.98490160693599,included_game_day
+1994,48,Delaware,1993-11-27,-9.0,included_game_day
+1994,48,Delaware,1993-12-04,-17.34,included_game_day
+1994,48,Delaware,1993-12-11,-30.549852,included_game_day
+1994,48,Delaware,1993-12-20,-35.536201146193,included_game_day
+1994,48,Delaware,1993-12-21,-30.259148721573702,included_game_day
+1994,48,Delaware,1993-12-29,-25.91719429318833,included_game_day
+1994,48,Delaware,1993-12-30,-11.180878650869499,included_game_day
+1994,48,Delaware,1994-01-03,-2.567548595782549,included_game_day
+1994,48,Delaware,1994-01-05,4.860321428550316,included_game_day
+1994,48,Delaware,1994-01-08,2.541045148338794,included_game_day
+1994,48,Delaware,1994-01-14,-5.37693527818555,included_game_day
+1994,48,Delaware,1994-01-16,-13.756045599794927,included_game_day
+1994,48,Delaware,1994-01-21,-3.6388151107260924,included_game_day
+1994,48,Delaware,1994-01-23,-11.213817931760826,included_game_day
+1994,48,Delaware,1994-01-27,2.248166714425105,included_game_day
+1994,48,Delaware,1994-01-29,-1.3341701671789536,included_game_day
+1994,48,Delaware,1994-02-05,-3.020750091782059,included_game_day
+1994,48,Delaware,1994-02-11,14.364051326763985,included_game_day
+1994,48,Delaware,1994-02-13,32.127459173489235,included_game_day
+1994,48,Delaware,1994-02-18,28.212265536580563,included_game_day
+1994,48,Delaware,1994-02-20,11.210685266895222,included_game_day
+1994,48,Delaware,1994-02-25,9.882402438357857,included_game_day
+1994,48,Delaware,1994-02-27,8.04540927828334,included_game_day
+1994,48,Delaware,1994-03-02,9.986586141165908,included_game_day
+1994,48,Delaware,1994-03-05,-2.6756137171726344,included_game_day
+1995,48,Delaware,1994-11-26,5.0,included_game_day
+1995,48,Delaware,1994-12-01,16.5,included_game_day
+1995,48,Delaware,1994-12-02,-0.5549999999999997,included_game_day
+1995,48,Delaware,1994-12-17,-3.7820187929999998,included_game_day
+1995,48,Delaware,1994-12-22,-15.6651595567,included_game_day
+1995,48,Delaware,1994-12-30,-47.185854682729996,included_game_day
+1995,48,Delaware,1995-01-03,-47.282380463950425,included_game_day
+1995,48,Delaware,1995-01-07,-28.918166894334284,included_game_day
+1995,48,Delaware,1995-01-10,-24.108869174901148,included_game_day
+1995,48,Delaware,1995-01-13,-14.308532228428469,included_game_day
+1995,48,Delaware,1995-01-15,-4.2512075669841405,included_game_day
+1995,48,Delaware,1995-01-20,-4.028988205804538,included_game_day
+1995,48,Delaware,1995-01-22,-10.574401399918942,included_game_day
+1995,48,Delaware,1995-01-27,-10.152489933455977,included_game_day
+1995,48,Delaware,1995-01-29,-13.84210821644064,included_game_day
+1995,48,Delaware,1995-02-03,-6.975743108062321,included_game_day
+1995,48,Delaware,1995-02-09,-5.707537110767829,included_game_day
+1995,48,Delaware,1995-02-11,-27.354648043533388,included_game_day
+1995,48,Delaware,1995-02-13,-26.824109090313843,included_game_day
+1995,48,Delaware,1995-02-17,5.746701461283632,included_game_day
+1995,48,Delaware,1995-02-19,-1.6666010010245689,included_game_day
+1995,48,Delaware,1995-02-24,11.869726526349968,included_game_day
+1995,48,Delaware,1995-02-26,15.465405874196513,included_game_day
+1995,48,Delaware,1995-02-28,20.644596438532524,included_game_day
+1995,48,Delaware,1995-03-02,23.125956993229053,included_game_day
+1996,48,Delaware,1995-11-29,5.04,included_game_day
+1996,48,Delaware,1995-12-02,-6.4639999999999995,included_game_day
+1996,48,Delaware,1995-12-08,-21.79039,included_game_day
+1996,48,Delaware,1995-12-09,-1.258990009999998,included_game_day
+1996,48,Delaware,1995-12-19,-0.1977874859999984,included_game_day
+1996,48,Delaware,1995-12-30,-3.293591164407899,included_game_day
+1996,48,Delaware,1996-01-04,-2.467844061243559,included_game_day
+1996,48,Delaware,1996-01-06,-1.7899383651974254,included_game_day
+1996,48,Delaware,1996-01-11,9.861825524539018,included_game_day
+1996,48,Delaware,1996-01-13,24.789085914019793,included_game_day
+1996,48,Delaware,1996-01-16,18.615163736309704,included_game_day
+1996,48,Delaware,1996-01-18,7.447443780234785,included_game_day
+1996,48,Delaware,1996-01-20,3.8045686056341115,included_game_day
+1996,48,Delaware,1996-01-26,14.349992045041892,included_game_day
+1996,48,Delaware,1996-01-28,22.902529389932482,included_game_day
+1996,48,Delaware,1996-02-01,17.994588554525116,included_game_day
+1996,48,Delaware,1996-02-04,8.576453414809091,included_game_day
+1996,48,Delaware,1996-02-07,23.61887810093939,included_game_day
+1996,48,Delaware,1996-02-09,5.046157346896209,included_game_day
+1996,48,Delaware,1996-02-11,13.472496413251482,included_game_day
+1996,48,Delaware,1996-02-16,14.147375052656118,included_game_day
+1996,48,Delaware,1996-02-18,19.345849349220117,included_game_day
+1996,48,Delaware,1996-02-21,22.411572236539204,included_game_day
+1996,48,Delaware,1996-02-24,23.864150546394473,included_game_day
+1996,48,Delaware,1996-03-02,11.02621319427869,included_game_day
+1997,48,Delaware,1996-11-22,25.0,included_game_day
+1997,48,Delaware,1996-11-26,31.0,included_game_day
+1997,48,Delaware,1996-11-29,23.62,included_game_day
+1997,48,Delaware,1996-11-30,29.628,included_game_day
+1997,48,Delaware,1996-12-01,38.1672,included_game_day
+1997,48,Delaware,1996-12-04,13.113579999999999,included_game_day
+1997,48,Delaware,1996-12-06,19.938522,included_game_day
+1997,48,Delaware,1996-12-08,17.8240648,included_game_day
+1997,48,Delaware,1996-12-30,17.640780110014397,included_game_day
+1997,48,Delaware,1997-01-03,12.04023093297762,included_game_day
+1997,48,Delaware,1997-01-05,45.65948578991726,included_game_day
+1997,48,Delaware,1997-01-07,29.320058771580904,included_game_day
+1997,48,Delaware,1997-01-10,-5.085307392747772,included_game_day
+1997,48,Delaware,1997-01-12,9.965950403729769,included_game_day
+1997,48,Delaware,1997-01-16,37.99152057978621,included_game_day
+1997,48,Delaware,1997-01-18,35.94447097295064,included_game_day
+1997,48,Delaware,1997-01-21,29.551743901113234,included_game_day
+1997,48,Delaware,1997-01-24,28.461303940285937,included_game_day
+1997,48,Delaware,1997-01-26,24.436053798582098,included_game_day
+1997,48,Delaware,1997-01-31,25.482533218818407,included_game_day
+1997,48,Delaware,1997-02-02,27.048474931193226,included_game_day
+1997,48,Delaware,1997-02-06,19.122600244258862,included_game_day
+1997,48,Delaware,1997-02-08,15.630847008063332,included_game_day
+1997,48,Delaware,1997-02-13,3.5522221642532816,included_game_day
+1997,48,Delaware,1997-02-15,19.287071144850536,included_game_day
+1997,48,Delaware,1997-02-18,15.456025103412479,included_game_day
+1997,48,Delaware,1997-02-22,5.939568214737154,included_game_day
+1997,48,Delaware,1997-03-01,14.66679879134465,included_game_day
+1997,48,Delaware,1997-03-02,9.99872623058036,included_game_day
+1998,48,Delaware,1997-11-14,4.0,included_game_day
+1998,48,Delaware,1997-11-15,5.0,included_game_day
+1998,48,Delaware,1997-11-22,-14.5,included_game_day
+1998,48,Delaware,1997-11-25,-20.713,included_game_day
+1998,48,Delaware,1997-11-29,-10.4404,included_game_day
+1998,48,Delaware,1997-12-03,-7.92652,included_game_day
+1998,48,Delaware,1997-12-06,-6.4276751,included_game_day
+1998,48,Delaware,1997-12-09,0.4351009000000001,included_game_day
+1998,48,Delaware,1998-01-05,4.0921325498075465,included_game_day
+1998,48,Delaware,1998-01-08,-2.219870040476371,included_game_day
+1998,48,Delaware,1998-01-10,5.1072969338991205,included_game_day
+1998,48,Delaware,1998-01-13,2.988636792123722,included_game_day
+1998,48,Delaware,1998-01-16,-19.91650602452682,included_game_day
+1998,48,Delaware,1998-01-18,1.3289222256150062,included_game_day
+1998,48,Delaware,1998-01-22,13.309242462953964,included_game_day
+1998,48,Delaware,1998-01-25,27.14711599443342,included_game_day
+1998,48,Delaware,1998-01-29,39.57597760004693,included_game_day
+1998,48,Delaware,1998-01-31,32.56019655353202,included_game_day
+1998,48,Delaware,1998-02-03,47.662769155890665,included_game_day
+1998,48,Delaware,1998-02-06,37.41584925795199,included_game_day
+1998,48,Delaware,1998-02-08,25.866771045830944,included_game_day
+1998,48,Delaware,1998-02-14,20.785036870638034,included_game_day
+1998,48,Delaware,1998-02-19,8.30450620849918,included_game_day
+1998,48,Delaware,1998-02-21,2.779419642881275,included_game_day
+1998,48,Delaware,1998-02-28,17.778593395676094,included_game_day
+1998,48,Delaware,1998-03-01,26.675736839350332,included_game_day
+1998,48,Delaware,1998-03-07,32.40861146498487,included_game_day
+1998,48,Delaware,1998-03-13,4.4405109252605115,included_game_day
+1999,48,Delaware,1998-11-14,8.0,included_game_day
+1999,48,Delaware,1998-11-18,17.2,included_game_day
+1999,48,Delaware,1998-11-23,24.16,included_game_day
+1999,48,Delaware,1998-11-25,38.980000000000004,included_game_day
+1999,48,Delaware,1998-12-01,37.981417060000005,included_game_day
+1999,48,Delaware,1998-12-04,45.99598135400001,included_game_day
+1999,48,Delaware,1998-12-12,60.09539882624001,included_game_day
+1999,48,Delaware,1998-12-21,63.27364715581601,included_game_day
+1999,48,Delaware,1998-12-22,36.11541311089441,included_game_day
+1999,48,Delaware,1998-12-27,33.30129451074003,included_game_day
+1999,48,Delaware,1999-01-03,46.38337869534061,included_game_day
+1999,48,Delaware,1999-01-05,38.04422283460836,included_game_day
+1999,48,Delaware,1999-01-10,31.767078903517042,included_game_day
+1999,48,Delaware,1999-01-14,29.92479281131806,included_game_day
+1999,48,Delaware,1999-01-16,33.92002154611859,included_game_day
+1999,48,Delaware,1999-01-19,35.49761518523463,included_game_day
+1999,48,Delaware,1999-01-22,25.004262710609083,included_game_day
+1999,48,Delaware,1999-01-24,33.98790485554538,included_game_day
+1999,48,Delaware,1999-01-27,39.3651202922878,included_game_day
+1999,48,Delaware,1999-01-29,33.67867077817638,included_game_day
+1999,48,Delaware,1999-01-31,48.84054074146634,included_game_day
+1999,48,Delaware,1999-02-07,54.642903873250894,included_game_day
+1999,48,Delaware,1999-02-10,76.5989005310283,included_game_day
+1999,48,Delaware,1999-02-13,80.76019330082164,included_game_day
+1999,48,Delaware,1999-02-15,78.64961260586215,included_game_day
+1999,48,Delaware,1999-02-18,92.34500684154598,included_game_day
+1999,48,Delaware,1999-02-20,96.93889147925401,included_game_day
+1999,48,Delaware,1999-02-27,96.42624629952314,included_game_day
+1999,48,Delaware,1999-02-28,103.01334463285414,included_game_day
+1999,48,Delaware,1999-03-06,112.98942476993861,included_game_day
+1999,48,Delaware,1999-03-12,105.30348455196805,included_game_day
+2000,48,Delaware,1999-11-20,5.0,included_game_day
+2000,48,Delaware,1999-11-21,10.7,included_game_day
+2000,48,Delaware,1999-11-23,8.129999999999999,included_game_day
+2000,48,Delaware,1999-11-27,6.0169999999999995,included_game_day
+2000,48,Delaware,1999-11-29,-15.132900000000003,included_game_day
+2000,48,Delaware,1999-12-02,-8.583410000000002,included_game_day
+2000,48,Delaware,1999-12-04,2.3330309999999965,included_game_day
+2000,48,Delaware,1999-12-11,3.3850538899999973,included_game_day
+2000,48,Delaware,1999-12-21,34.0024559779,included_game_day
+2000,48,Delaware,1999-12-28,45.98716270667891,included_game_day
+2000,48,Delaware,1999-12-30,42.30645357632787,included_game_day
+2000,48,Delaware,2000-01-02,38.50739565359965,included_game_day
+2000,48,Delaware,2000-01-04,61.995230633651886,included_game_day
+2000,48,Delaware,2000-01-09,64.7264815935743,included_game_day
+2000,48,Delaware,2000-01-11,65.84749228975316,included_game_day
+2000,48,Delaware,2000-01-14,57.83344576215251,included_game_day
+2000,48,Delaware,2000-01-16,31.346971782366893,included_game_day
+2000,48,Delaware,2000-01-22,34.78020392817311,included_game_day
+2000,48,Delaware,2000-01-27,59.9585061393564,included_game_day
+2000,48,Delaware,2000-01-29,37.818531562193414,included_game_day
+2000,48,Delaware,2000-02-04,36.864006263198654,included_game_day
+2000,48,Delaware,2000-02-06,34.773358176013176,included_game_day
+2000,48,Delaware,2000-02-10,31.50821521118969,included_game_day
+2000,48,Delaware,2000-02-12,35.68940203707892,included_game_day
+2000,48,Delaware,2000-02-14,38.7888266259447,included_game_day
+2000,48,Delaware,2000-02-19,41.69713605398035,included_game_day
+2000,48,Delaware,2000-02-24,43.6561080578904,included_game_day
+2000,48,Delaware,2000-02-26,60.34824368417978,included_game_day
+2000,48,Delaware,2000-03-04,56.156784193309214,included_game_day
+2000,48,Delaware,2000-03-05,76.67519942614342,included_game_day
+2000,48,Delaware,2000-03-11,76.33965256494386,included_game_day
+2000,48,Delaware,2000-03-15,68.14934222877821,included_game_day
+2001,48,Delaware,2000-11-13,-4.0,included_game_day
+2001,48,Delaware,2000-11-20,18.4,included_game_day
+2001,48,Delaware,2000-11-25,12.87,included_game_day
+2001,48,Delaware,2000-11-27,7.403499999999999,included_game_day
+2001,48,Delaware,2000-11-30,22.02295,included_game_day
+2001,48,Delaware,2000-12-03,9.424155,included_game_day
+2001,48,Delaware,2000-12-07,19.7143581,included_game_day
+2001,48,Delaware,2000-12-09,10.312218509999997,included_game_day
+2001,48,Delaware,2000-12-16,21.517493016548997,included_game_day
+2001,48,Delaware,2000-12-20,27.3604283148941,included_game_day
+2001,48,Delaware,2000-12-21,24.879591360604692,included_game_day
+2001,48,Delaware,2000-12-30,25.501608357405743,included_game_day
+2001,48,Delaware,2001-01-04,47.41593054851551,included_game_day
+2001,48,Delaware,2001-01-06,44.39903659919291,included_game_day
+2001,48,Delaware,2001-01-11,47.00526997707956,included_game_day
+2001,48,Delaware,2001-01-13,46.00720011567816,included_game_day
+2001,48,Delaware,2001-01-17,47.30127193284387,included_game_day
+2001,48,Delaware,2001-01-20,48.37593367926078,included_game_day
+2001,48,Delaware,2001-01-25,52.65460984825631,included_game_day
+2001,48,Delaware,2001-01-27,38.03564333761199,included_game_day
+2001,48,Delaware,2001-02-01,45.13226473465838,included_game_day
+2001,48,Delaware,2001-02-04,32.16500281600875,included_game_day
+2001,48,Delaware,2001-02-08,27.36761429247413,included_game_day
+2001,48,Delaware,2001-02-10,47.167208412207344,included_game_day
+2001,48,Delaware,2001-02-17,45.315389863539714,included_game_day
+2001,48,Delaware,2001-02-22,56.679050535685576,included_game_day
+2001,48,Delaware,2001-02-24,60.84563114672005,included_game_day
+2001,48,Delaware,2001-03-03,57.782310111570254,included_game_day
+2001,48,Delaware,2001-03-04,88.73678946977564,included_game_day
+2001,48,Delaware,2001-03-10,78.486379010584,included_game_day
+2002,48,Delaware Blue Hens,2001-11-18,-18.6,included_game_day
+2002,48,Delaware Blue Hens,2001-11-24,-12.913,included_game_day
+2002,48,Delaware Blue Hens,2001-11-28,-41.279700000000005,included_game_day
+2002,48,Delaware Blue Hens,2001-12-06,-21.134704610000004,included_game_day
+2002,48,Delaware Blue Hens,2001-12-08,-28.590863649000003,included_game_day
+2002,48,Delaware Blue Hens,2001-12-15,-39.324173715378,included_game_day
+2002,48,Delaware Blue Hens,2001-12-22,-1.3838518038402015,included_game_day
+2002,48,Delaware Blue Hens,2001-12-30,9.2734265174772,included_game_day
+2002,48,Delaware Blue Hens,2002-01-03,8.528157106572545,included_game_day
+2002,48,Delaware Blue Hens,2002-01-05,0.04812257744955062,included_game_day
+2002,48,Delaware Blue Hens,2002-01-07,0.4170841903089313,included_game_day
+2002,48,Delaware Blue Hens,2002-01-12,15.250206149138826,included_game_day
+2002,48,Delaware Blue Hens,2002-01-14,5.370521259126031,included_game_day
+2002,48,Delaware Blue Hens,2002-01-17,6.7949930427231005,included_game_day
+2002,48,Delaware Blue Hens,2002-01-19,7.524590653305666,included_game_day
+2002,48,Delaware Blue Hens,2002-01-23,-13.506244064312053,included_game_day
+2002,48,Delaware Blue Hens,2002-01-26,-20.507784880536477,included_game_day
+2002,48,Delaware Blue Hens,2002-01-30,-13.536926843648962,included_game_day
+2002,48,Delaware Blue Hens,2002-02-02,-10.250163060123535,included_game_day
+2002,48,Delaware Blue Hens,2002-02-06,-25.727350115705455,included_game_day
+2002,48,Delaware Blue Hens,2002-02-09,-25.96827760116445,included_game_day
+2002,48,Delaware Blue Hens,2002-02-16,-23.33604886352147,included_game_day
+2002,48,Delaware Blue Hens,2002-02-20,-15.828061254539119,included_game_day
+2002,48,Delaware Blue Hens,2002-02-23,-10.36939300991804,included_game_day
+2002,48,Delaware Blue Hens,2002-02-25,-7.229879759092908,included_game_day
+2002,48,Delaware Blue Hens,2002-03-02,21.11076043341788,included_game_day
+2002,48,Delaware Blue Hens,2002-03-03,13.432366214147788,included_game_day
+2003,48,Delaware Blue Hens,2002-11-22,-14.0,included_game_day
+2003,48,Delaware Blue Hens,2002-12-01,12.198,included_game_day
+2003,48,Delaware Blue Hens,2002-12-03,9.3002,included_game_day
+2003,48,Delaware Blue Hens,2002-12-09,0.48100020000000043,included_game_day
+2003,48,Delaware Blue Hens,2002-12-14,-13.189762953999999,included_game_day
+2003,48,Delaware Blue Hens,2002-12-19,-16.740584433499997,included_game_day
+2003,48,Delaware Blue Hens,2002-12-21,0.5502079038500014,included_game_day
+2003,48,Delaware Blue Hens,2002-12-27,8.383205417850302,included_game_day
+2003,48,Delaware Blue Hens,2002-12-28,1.5968457399054188,included_game_day
+2003,48,Delaware Blue Hens,2003-01-02,-3.709248181520824,included_game_day
+2003,48,Delaware Blue Hens,2003-01-04,9.902582707685639,included_game_day
+2003,48,Delaware Blue Hens,2003-01-08,13.931603386646884,included_game_day
+2003,48,Delaware Blue Hens,2003-01-11,13.457863840403517,included_game_day
+2003,48,Delaware Blue Hens,2003-01-15,19.8163712945592,included_game_day
+2003,48,Delaware Blue Hens,2003-01-18,14.83442160328847,included_game_day
+2003,48,Delaware Blue Hens,2003-01-23,9.258192361805584,included_game_day
+2003,48,Delaware Blue Hens,2003-01-25,7.3103209078256945,included_game_day
+2003,48,Delaware Blue Hens,2003-01-29,2.976868364266246,included_game_day
+2003,48,Delaware Blue Hens,2003-02-01,30.46932861707065,included_game_day
+2003,48,Delaware Blue Hens,2003-02-05,20.026223943205572,included_game_day
+2003,48,Delaware Blue Hens,2003-02-08,12.481878879919732,included_game_day
+2003,48,Delaware Blue Hens,2003-02-13,8.642036711738529,included_game_day
+2003,48,Delaware Blue Hens,2003-02-15,13.328626214212642,included_game_day
+2003,48,Delaware Blue Hens,2003-02-19,-5.380579861455287,included_game_day
+2003,48,Delaware Blue Hens,2003-02-22,3.5539865250639426,included_game_day
+2003,48,Delaware Blue Hens,2003-02-26,-3.2466193685531337,included_game_day
+2003,48,Delaware Blue Hens,2003-03-01,-13.493421785813965,included_game_day
+2003,48,Delaware Blue Hens,2003-03-08,7.1775166043732845,included_game_day
+2003,48,Delaware Blue Hens,2003-03-09,7.473803286871224,included_game_day
+2004,48,Delaware Blue Hens,2003-11-21,4.0,included_game_day
+2004,48,Delaware Blue Hens,2003-11-25,12.8,included_game_day
+2004,48,Delaware Blue Hens,2003-11-30,4.48011,included_game_day
+2004,48,Delaware Blue Hens,2003-12-03,21.344998999999998,included_game_day
+2004,48,Delaware Blue Hens,2003-12-06,35.1372681,included_game_day
+2004,48,Delaware Blue Hens,2003-12-10,27.580078999999998,included_game_day
+2004,48,Delaware Blue Hens,2003-12-13,27.18129071,included_game_day
+2004,48,Delaware Blue Hens,2003-12-23,45.268895047251,included_game_day
+2004,48,Delaware Blue Hens,2003-12-30,25.245305827581628,included_game_day
+2004,48,Delaware Blue Hens,2004-01-03,26.905608226389816,included_game_day
+2004,48,Delaware Blue Hens,2004-01-07,2.4852517435263906,included_game_day
+2004,48,Delaware Blue Hens,2004-01-10,-2.917864208489439,included_game_day
+2004,48,Delaware Blue Hens,2004-01-12,4.592981656783219,included_game_day
+2004,48,Delaware Blue Hens,2004-01-15,3.9741886707386183,included_game_day
+2004,48,Delaware Blue Hens,2004-01-17,7.602516719921356,included_game_day
+2004,48,Delaware Blue Hens,2004-01-21,11.155797540727795,included_game_day
+2004,48,Delaware Blue Hens,2004-01-24,16.000520970860887,included_game_day
+2004,48,Delaware Blue Hens,2004-01-28,21.82534207077957,included_game_day
+2004,48,Delaware Blue Hens,2004-01-31,18.074211672618198,included_game_day
+2004,48,Delaware Blue Hens,2004-02-04,20.13132109682411,included_game_day
+2004,48,Delaware Blue Hens,2004-02-07,10.057585303922359,included_game_day
+2004,48,Delaware Blue Hens,2004-02-11,12.537793659562006,included_game_day
+2004,48,Delaware Blue Hens,2004-02-14,9.340358025312925,included_game_day
+2004,48,Delaware Blue Hens,2004-02-16,9.499002587901867,included_game_day
+2004,48,Delaware Blue Hens,2004-02-21,0.11898373176572896,included_game_day
+2004,48,Delaware Blue Hens,2004-02-25,3.385758233007545,included_game_day
+2004,48,Delaware Blue Hens,2004-02-28,20.085590866334023,included_game_day
+2004,48,Delaware Blue Hens,2004-03-06,19.0301645441262,included_game_day
+2005,48,Delaware Blue Hens,2004-11-19,-17.259999999999998,included_game_day
+2005,48,Delaware Blue Hens,2004-11-26,5.606000000000002,included_game_day
+2005,48,Delaware Blue Hens,2004-11-29,5.931540000000002,included_game_day
+2005,48,Delaware Blue Hens,2004-12-02,-0.4345809999999979,included_game_day
+2005,48,Delaware Blue Hens,2004-12-04,-3.347068799999998,included_game_day
+2005,48,Delaware Blue Hens,2004-12-08,-4.603919519999998,included_game_day
+2005,48,Delaware Blue Hens,2004-12-11,-5.955056353289998,included_game_day
+2005,48,Delaware Blue Hens,2004-12-20,-27.876312758843998,included_game_day
+2005,48,Delaware Blue Hens,2004-12-21,-47.7334338341896,included_game_day
+2005,48,Delaware Blue Hens,2004-12-22,-41.7510303683264,included_game_day
+2005,48,Delaware Blue Hens,2004-12-29,-55.54965484370476,included_game_day
+2005,48,Delaware Blue Hens,2005-01-02,-59.38915373484272,included_game_day
+2005,48,Delaware Blue Hens,2005-01-05,-74.14608728259606,included_game_day
+2005,48,Delaware Blue Hens,2005-01-08,-59.75240972015238,included_game_day
+2005,48,Delaware Blue Hens,2005-01-12,-51.50691136505661,included_game_day
+2005,48,Delaware Blue Hens,2005-01-15,-21.71787097577517,included_game_day
+2005,48,Delaware Blue Hens,2005-01-19,-28.042626435307923,included_game_day
+2005,48,Delaware Blue Hens,2005-01-22,-31.466800710167252,included_game_day
+2005,48,Delaware Blue Hens,2005-01-26,-25.51514757491277,included_game_day
+2005,48,Delaware Blue Hens,2005-01-29,-26.87612871964412,included_game_day
+2005,48,Delaware Blue Hens,2005-01-31,-29.97495555194621,included_game_day
+2005,48,Delaware Blue Hens,2005-02-02,-35.26579181350651,included_game_day
+2005,48,Delaware Blue Hens,2005-02-05,-14.49756643577064,included_game_day
+2005,48,Delaware Blue Hens,2005-02-09,-14.543614847701187,included_game_day
+2005,48,Delaware Blue Hens,2005-02-12,-13.190637151141866,included_game_day
+2005,48,Delaware Blue Hens,2005-02-16,-13.030985041816976,included_game_day
+2005,48,Delaware Blue Hens,2005-02-19,-30.558028654492382,included_game_day
+2005,48,Delaware Blue Hens,2005-02-26,-25.374796013553905,included_game_day
+2005,48,Delaware Blue Hens,2005-03-04,-13.425131801623841,included_game_day
+2005,48,Delaware Blue Hens,2005-03-05,-17.727741289662127,included_game_day
+2006,48,Delaware Blue Hens,2005-11-18,17.0,included_game_day
+2006,48,Delaware Blue Hens,2005-11-19,12.6,included_game_day
+2006,48,Delaware Blue Hens,2005-11-20,3.5,included_game_day
+2006,48,Delaware Blue Hens,2005-11-22,-20.85,included_game_day
+2006,48,Delaware Blue Hens,2005-11-26,-32.152,included_game_day
+2006,48,Delaware Blue Hens,2005-12-01,-28.691986,included_game_day
+2006,48,Delaware Blue Hens,2005-12-03,-34.84106474,included_game_day
+2006,48,Delaware Blue Hens,2005-12-10,-35.9143474335,included_game_day
+2006,48,Delaware Blue Hens,2005-12-19,-23.81882927125,included_game_day
+2006,48,Delaware Blue Hens,2005-12-29,-18.86952913091867,included_game_day
+2006,48,Delaware Blue Hens,2005-12-31,-34.771647622216285,included_game_day
+2006,48,Delaware Blue Hens,2006-01-05,-42.86837668195609,included_game_day
+2006,48,Delaware Blue Hens,2006-01-07,-40.00542961476335,included_game_day
+2006,48,Delaware Blue Hens,2006-01-12,-33.21148989534837,included_game_day
+2006,48,Delaware Blue Hens,2006-01-14,-38.60053506207586,included_game_day
+2006,48,Delaware Blue Hens,2006-01-19,-21.136417555343552,included_game_day
+2006,48,Delaware Blue Hens,2006-01-21,-22.99787744926209,included_game_day
+2006,48,Delaware Blue Hens,2006-01-26,-21.55866743206293,included_game_day
+2006,48,Delaware Blue Hens,2006-01-28,-4.836524010908583,included_game_day
+2006,48,Delaware Blue Hens,2006-02-02,-0.4515475560616,included_game_day
+2006,48,Delaware Blue Hens,2006-02-04,-13.864550370581245,included_game_day
+2006,48,Delaware Blue Hens,2006-02-06,-34.91211109289107,included_game_day
+2006,48,Delaware Blue Hens,2006-02-09,-35.229809574989844,included_game_day
+2006,48,Delaware Blue Hens,2006-02-11,-21.440859925082364,included_game_day
+2006,48,Delaware Blue Hens,2006-02-15,-15.146808289271128,included_game_day
+2006,48,Delaware Blue Hens,2006-02-18,-28.09190519755539,included_game_day
+2006,48,Delaware Blue Hens,2006-02-23,-39.82587740248295,included_game_day
+2006,48,Delaware Blue Hens,2006-02-25,-48.25581513466767,included_game_day
+2006,48,Delaware Blue Hens,2006-03-03,-32.95945784809113,included_game_day
+2006,48,Delaware Blue Hens,2006-03-04,-30.397674502799966,included_game_day
+2007,48,Delaware Blue Hens,2006-11-14,-20.4,included_game_day
+2007,48,Delaware Blue Hens,2006-11-17,-35.06,included_game_day
+2007,48,Delaware Blue Hens,2006-11-21,-44.411,included_game_day
+2007,48,Delaware Blue Hens,2006-11-26,-49.4576,included_game_day
+2007,48,Delaware Blue Hens,2006-11-29,-51.82474,included_game_day
+2007,48,Delaware Blue Hens,2006-12-03,-52.37909214,included_game_day
+2007,48,Delaware Blue Hens,2006-12-06,-50.545107112,included_game_day
+2007,48,Delaware Blue Hens,2006-12-20,-51.53298288591259,included_game_day
+2007,48,Delaware Blue Hens,2006-12-23,-52.005607805708024,included_game_day
+2007,48,Delaware Blue Hens,2006-12-28,-27.921184031951697,included_game_day
+2007,48,Delaware Blue Hens,2006-12-29,-21.3957205204305,included_game_day
+2007,48,Delaware Blue Hens,2006-12-30,-22.87213785405402,included_game_day
+2007,48,Delaware Blue Hens,2007-01-03,-41.76461150284574,included_game_day
+2007,48,Delaware Blue Hens,2007-01-06,-57.36602360422872,included_game_day
+2007,48,Delaware Blue Hens,2007-01-08,-63.40259244242906,included_game_day
+2007,48,Delaware Blue Hens,2007-01-10,-86.53933691541208,included_game_day
+2007,48,Delaware Blue Hens,2007-01-13,-65.26408520280206,included_game_day
+2007,48,Delaware Blue Hens,2007-01-17,-84.68002648136473,included_game_day
+2007,48,Delaware Blue Hens,2007-01-20,-81.36953706723418,included_game_day
+2007,48,Delaware Blue Hens,2007-01-24,-92.50360511147811,included_game_day
+2007,48,Delaware Blue Hens,2007-01-27,-92.45010723364375,included_game_day
+2007,48,Delaware Blue Hens,2007-01-29,-77.64666022607084,included_game_day
+2007,48,Delaware Blue Hens,2007-01-31,-90.9200219073629,included_game_day
+2007,48,Delaware Blue Hens,2007-02-03,-97.02037674848285,included_game_day
+2007,48,Delaware Blue Hens,2007-02-07,-86.20393386816336,included_game_day
+2007,48,Delaware Blue Hens,2007-02-10,-83.20190968294986,included_game_day
+2007,48,Delaware Blue Hens,2007-02-14,-93.59874324081188,included_game_day
+2007,48,Delaware Blue Hens,2007-02-17,-100.59080215791025,included_game_day
+2007,48,Delaware Blue Hens,2007-02-21,-106.16797227182407,included_game_day
+2007,48,Delaware Blue Hens,2007-02-24,-106.56447168424283,included_game_day
+2007,48,Delaware Blue Hens,2007-03-02,-103.32685829769561,included_game_day
+2008,48,Delaware Blue Hens,2007-11-11,-8.0,included_game_day
+2008,48,Delaware Blue Hens,2007-11-17,-9.0,included_game_day
+2008,48,Delaware Blue Hens,2007-11-27,-12.2268,included_game_day
+2008,48,Delaware Blue Hens,2007-11-30,-18.7146652,included_game_day
+2008,48,Delaware Blue Hens,2007-12-03,-13.886379955999999,included_game_day
+2008,48,Delaware Blue Hens,2007-12-05,-0.47756236039999855,included_game_day
+2008,48,Delaware Blue Hens,2007-12-08,-12.826724154559999,included_game_day
+2008,48,Delaware Blue Hens,2007-12-16,-44.5264371341674,included_game_day
+2008,48,Delaware Blue Hens,2007-12-19,-27.777341909891696,included_game_day
+2008,48,Delaware Blue Hens,2007-12-22,-13.042690999708626,included_game_day
+2008,48,Delaware Blue Hens,2007-12-28,-36.85983812633508,included_game_day
+2008,48,Delaware Blue Hens,2008-01-02,-24.11820129058197,included_game_day
+2008,48,Delaware Blue Hens,2008-01-05,-17.616187775596433,included_game_day
+2008,48,Delaware Blue Hens,2008-01-09,-9.883545808848034,included_game_day
+2008,48,Delaware Blue Hens,2008-01-12,-3.9889666711569687,included_game_day
+2008,48,Delaware Blue Hens,2008-01-16,-15.485583085675053,included_game_day
+2008,48,Delaware Blue Hens,2008-01-23,-10.677811156808804,included_game_day
+2008,48,Delaware Blue Hens,2008-01-26,-18.082040526869115,included_game_day
+2008,48,Delaware Blue Hens,2008-01-30,-25.759749399983992,included_game_day
+2008,48,Delaware Blue Hens,2008-02-02,-30.40793511127304,included_game_day
+2008,48,Delaware Blue Hens,2008-02-06,-30.28689248776193,included_game_day
+2008,48,Delaware Blue Hens,2008-02-09,-32.98351101252136,included_game_day
+2008,48,Delaware Blue Hens,2008-02-13,-29.25336501940878,included_game_day
+2008,48,Delaware Blue Hens,2008-02-16,-36.70161045903333,included_game_day
+2008,48,Delaware Blue Hens,2008-02-20,-35.4294737538727,included_game_day
+2008,48,Delaware Blue Hens,2008-02-23,-26.85772266444925,included_game_day
+2008,48,Delaware Blue Hens,2008-02-27,-23.022775035057787,included_game_day
+2008,48,Delaware Blue Hens,2008-03-01,-39.47904599208617,included_game_day
+2008,48,Delaware Blue Hens,2008-03-07,-32.22612038314806,included_game_day
+2008,48,Delaware Blue Hens,2008-03-08,-51.387631366142905,included_game_day
+2009,48,Delaware Blue Hens,2008-11-16,-11.1,included_game_day
+2009,48,Delaware Blue Hens,2008-11-18,-18.689999999999998,included_game_day
+2009,48,Delaware Blue Hens,2008-11-21,-9.580999999999998,included_game_day
+2009,48,Delaware Blue Hens,2008-11-23,-4.2134899999999975,included_game_day
+2009,48,Delaware Blue Hens,2008-11-25,-20.462140999999995,included_game_day
+2009,48,Delaware Blue Hens,2008-11-29,-17.926224299999994,included_game_day
+2009,48,Delaware Blue Hens,2008-12-03,-24.330406269999994,included_game_day
+2009,48,Delaware Blue Hens,2008-12-06,-26.972120202999996,included_game_day
+2009,48,Delaware Blue Hens,2008-12-09,-13.883233130699995,included_game_day
+2009,48,Delaware Blue Hens,2008-12-13,-7.826153382029996,included_game_day
+2009,48,Delaware Blue Hens,2008-12-21,-0.3031931090379958,included_game_day
+2009,48,Delaware Blue Hens,2008-12-23,-15.1313512332577,included_game_day
+2009,48,Delaware Blue Hens,2008-12-30,-11.31555399805768,included_game_day
+2009,48,Delaware Blue Hens,2009-01-03,-6.778525310094285,included_game_day
+2009,48,Delaware Blue Hens,2009-01-05,-14.195554371847017,included_game_day
+2009,48,Delaware Blue Hens,2009-01-07,-17.01514866820932,included_game_day
+2009,48,Delaware Blue Hens,2009-01-10,-29.152129408338244,included_game_day
+2009,48,Delaware Blue Hens,2009-01-15,-45.51745549873,included_game_day
+2009,48,Delaware Blue Hens,2009-01-17,-37.34871538116238,included_game_day
+2009,48,Delaware Blue Hens,2009-01-20,-39.99378620416365,included_game_day
+2009,48,Delaware Blue Hens,2009-01-24,-31.34245687275913,included_game_day
+2009,48,Delaware Blue Hens,2009-01-27,-41.08439620949908,included_game_day
+2009,48,Delaware Blue Hens,2009-01-31,-40.71154948771601,included_game_day
+2009,48,Delaware Blue Hens,2009-02-04,-34.293510622091794,included_game_day
+2009,48,Delaware Blue Hens,2009-02-07,-36.878727064302076,included_game_day
+2009,48,Delaware Blue Hens,2009-02-12,-19.94063383945962,included_game_day
+2009,48,Delaware Blue Hens,2009-02-14,-32.43789594847984,included_game_day
+2009,48,Delaware Blue Hens,2009-02-18,-31.9869965008818,included_game_day
+2009,48,Delaware Blue Hens,2009-02-21,-18.814814641221744,included_game_day
+2009,48,Delaware Blue Hens,2009-02-25,-23.409698259488298,included_game_day
+2009,48,Delaware Blue Hens,2009-02-28,-9.696615698990144,included_game_day
+2009,48,Delaware Blue Hens,2009-03-06,-26.00080226555584,included_game_day
+2010,48,Delaware Blue Hens,2009-11-14,-23.0,included_game_day
+2010,48,Delaware Blue Hens,2009-11-18,-41.08,included_game_day
+2010,48,Delaware Blue Hens,2009-11-21,-35.352,included_game_day
+2010,48,Delaware Blue Hens,2009-11-24,-60.861799999999995,included_game_day
+2010,48,Delaware Blue Hens,2009-11-28,-60.675456999999994,included_game_day
+2010,48,Delaware Blue Hens,2009-12-01,-60.15891129999999,included_game_day
+2010,48,Delaware Blue Hens,2009-12-05,-66.73376336999999,included_game_day
+2010,48,Delaware Blue Hens,2009-12-09,-62.86967410054999,included_game_day
+2010,48,Delaware Blue Hens,2009-12-12,-73.399533614685,included_game_day
+2010,48,Delaware Blue Hens,2009-12-20,-53.1948597174625,included_game_day
+2010,48,Delaware Blue Hens,2009-12-23,-68.00578494192355,included_game_day
+2010,48,Delaware Blue Hens,2009-12-29,-54.889393284765006,included_game_day
+2010,48,Delaware Blue Hens,2010-01-02,-49.4438960790191,included_game_day
+2010,48,Delaware Blue Hens,2010-01-04,-49.276106064868245,included_game_day
+2010,48,Delaware Blue Hens,2010-01-06,-44.59240336258063,included_game_day
+2010,48,Delaware Blue Hens,2010-01-09,-44.96056655108992,included_game_day
+2010,48,Delaware Blue Hens,2010-01-13,-35.635283116320856,included_game_day
+2010,48,Delaware Blue Hens,2010-01-16,-43.32531607430544,included_game_day
+2010,48,Delaware Blue Hens,2010-01-20,-51.10913994604756,included_game_day
+2010,48,Delaware Blue Hens,2010-01-23,-49.56152162181732,included_game_day
+2010,48,Delaware Blue Hens,2010-01-27,-49.808601423784836,included_game_day
+2010,48,Delaware Blue Hens,2010-01-30,-50.94215178952774,included_game_day
+2010,48,Delaware Blue Hens,2010-02-02,-57.2718583037562,included_game_day
+2010,48,Delaware Blue Hens,2010-02-08,-54.31179303104578,included_game_day
+2010,48,Delaware Blue Hens,2010-02-10,-56.55712492224691,included_game_day
+2010,48,Delaware Blue Hens,2010-02-13,-51.09529500273667,included_game_day
+2010,48,Delaware Blue Hens,2010-02-16,-58.39294864218685,included_game_day
+2010,48,Delaware Blue Hens,2010-02-20,-64.5765047905202,included_game_day
+2010,48,Delaware Blue Hens,2010-02-24,-62.2958378518316,included_game_day
+2010,48,Delaware Blue Hens,2010-02-27,-76.10159429823278,included_game_day
+2010,48,Delaware Blue Hens,2010-03-05,-74.96024083765856,included_game_day
+2011,48,Delaware Blue Hens,2010-11-13,-16.0,included_game_day
+2011,48,Delaware Blue Hens,2010-11-17,-26.9,included_game_day
+2011,48,Delaware Blue Hens,2010-11-19,1.4000000000000021,included_game_day
+2011,48,Delaware Blue Hens,2010-11-27,2.6995500000000012,included_game_day
+2011,48,Delaware Blue Hens,2010-12-04,11.360926290000002,included_game_day
+2011,48,Delaware Blue Hens,2010-12-08,17.81950131066,included_game_day
+2011,48,Delaware Blue Hens,2010-12-11,23.5221687846254,included_game_day
+2011,48,Delaware Blue Hens,2010-12-18,13.703808142977861,included_game_day
+2011,48,Delaware Blue Hens,2010-12-22,-1.683103585359925,included_game_day
+2011,48,Delaware Blue Hens,2010-12-29,3.7634322459160483,included_game_day
+2011,48,Delaware Blue Hens,2010-12-30,-7.067169544203566,included_game_day
+2011,48,Delaware Blue Hens,2011-01-03,-3.7217264626903734,included_game_day
+2011,48,Delaware Blue Hens,2011-01-05,0.2551050806489794,included_game_day
+2011,48,Delaware Blue Hens,2011-01-08,-4.315275283009198,included_game_day
+2011,48,Delaware Blue Hens,2011-01-12,-26.536028812020632,included_game_day
+2011,48,Delaware Blue Hens,2011-01-15,-23.38521357343999,included_game_day
+2011,48,Delaware Blue Hens,2011-01-19,-26.948532827553663,included_game_day
+2011,48,Delaware Blue Hens,2011-01-22,-19.63929014610351,included_game_day
+2011,48,Delaware Blue Hens,2011-01-24,-30.34437675913157,included_game_day
+2011,48,Delaware Blue Hens,2011-01-26,-23.64094263763441,included_game_day
+2011,48,Delaware Blue Hens,2011-01-29,-24.326122192275314,included_game_day
+2011,48,Delaware Blue Hens,2011-02-02,-20.32926461917529,included_game_day
+2011,48,Delaware Blue Hens,2011-02-05,-27.716189191261876,included_game_day
+2011,48,Delaware Blue Hens,2011-02-09,-32.05735030854983,included_game_day
+2011,48,Delaware Blue Hens,2011-02-12,-33.027330848363974,included_game_day
+2011,48,Delaware Blue Hens,2011-02-15,-22.689147846757667,included_game_day
+2011,48,Delaware Blue Hens,2011-02-19,-22.173615781071526,included_game_day
+2011,48,Delaware Blue Hens,2011-02-23,-21.236974609355194,included_game_day
+2011,48,Delaware Blue Hens,2011-02-26,-35.06146703604836,included_game_day
+2011,48,Delaware Blue Hens,2011-03-04,-29.922966516932547,included_game_day
+2011,48,Delaware Blue Hens,2011-03-05,-25.2335670801829,included_game_day
+2012,48,Delaware Blue Hens,2011-11-11,-1.0,included_game_day
+2012,48,Delaware Blue Hens,2011-11-18,-4.3,included_game_day
+2012,48,Delaware Blue Hens,2011-11-22,0.00010000000000065512,included_game_day
+2012,48,Delaware Blue Hens,2011-11-26,-0.9356479999999991,included_game_day
+2012,48,Delaware Blue Hens,2011-11-30,-5.2625931999999995,included_game_day
+2012,48,Delaware Blue Hens,2011-12-03,4.235476070000001,included_game_day
+2012,48,Delaware Blue Hens,2011-12-07,-4.030552743999998,included_game_day
+2012,48,Delaware Blue Hens,2011-12-10,12.547365382390002,included_game_day
+2012,48,Delaware Blue Hens,2011-12-19,20.079030530784802,included_game_day
+2012,48,Delaware Blue Hens,2011-12-22,7.748621433917897,included_game_day
+2012,48,Delaware Blue Hens,2011-12-30,6.514487298994974,included_game_day
+2012,48,Delaware Blue Hens,2012-01-02,3.1159028784197087,included_game_day
+2012,48,Delaware Blue Hens,2012-01-04,1.0803585095629127,included_game_day
+2012,48,Delaware Blue Hens,2012-01-07,6.067334347938161,included_game_day
+2012,48,Delaware Blue Hens,2012-01-11,2.236324769549389,included_game_day
+2012,48,Delaware Blue Hens,2012-01-14,-5.250653637265122,included_game_day
+2012,48,Delaware Blue Hens,2012-01-18,-22.439982145116808,included_game_day
+2012,48,Delaware Blue Hens,2012-01-21,-12.713736545267711,included_game_day
+2012,48,Delaware Blue Hens,2012-01-23,-11.674689452585135,included_game_day
+2012,48,Delaware Blue Hens,2012-01-25,-10.183840138617413,included_game_day
+2012,48,Delaware Blue Hens,2012-01-28,-11.581598411491983,included_game_day
+2012,48,Delaware Blue Hens,2012-02-01,-3.4558040425318755,included_game_day
+2012,48,Delaware Blue Hens,2012-02-04,1.0094343926858649,included_game_day
+2012,48,Delaware Blue Hens,2012-02-08,11.597885395522809,included_game_day
+2012,48,Delaware Blue Hens,2012-02-11,22.74800578199054,included_game_day
+2012,48,Delaware Blue Hens,2012-02-14,35.813117193839865,included_game_day
+2012,48,Delaware Blue Hens,2012-02-18,27.672539113139837,included_game_day
+2012,48,Delaware Blue Hens,2012-02-22,20.530738346461042,included_game_day
+2012,48,Delaware Blue Hens,2012-02-25,23.48667611840262,included_game_day
+2012,48,Delaware Blue Hens,2012-03-02,15.102406282872183,included_game_day
+2012,48,Delaware Blue Hens,2012-03-03,6.122794608294862,included_game_day
+2012,48,Delaware Blue Hens,2012-03-14,-4.70704668003359,included_game_day
+2013,48,Delaware Blue Hens,2012-11-10,-4.0,included_game_day
+2013,48,Delaware Blue Hens,2012-11-12,11.6,included_game_day
+2013,48,Delaware Blue Hens,2012-11-13,19.96,included_game_day
+2013,48,Delaware Blue Hens,2012-11-21,20.7341,included_game_day
+2013,48,Delaware Blue Hens,2012-11-23,-0.6335799999999985,included_game_day
+2013,48,Delaware Blue Hens,2012-11-25,0.06877800000000178,included_game_day
+2013,48,Delaware Blue Hens,2012-11-28,-7.354275299999999,included_game_day
+2013,48,Delaware Blue Hens,2012-12-01,-33.821601433,included_game_day
+2013,48,Delaware Blue Hens,2012-12-04,-23.534246086399996,included_game_day
+2013,48,Delaware Blue Hens,2012-12-08,-36.793114040759995,included_game_day
+2013,48,Delaware Blue Hens,2012-12-16,-40.120867268007,included_game_day
+2013,48,Delaware Blue Hens,2012-12-21,-20.825550772926295,included_game_day
+2013,48,Delaware Blue Hens,2012-12-31,-16.75477205778997,included_game_day
+2013,48,Delaware Blue Hens,2013-01-05,-4.13286892899178,included_game_day
+2013,48,Delaware Blue Hens,2013-01-09,0.15343091795780062,included_game_day
+2013,48,Delaware Blue Hens,2013-01-12,2.181720243665445,included_game_day
+2013,48,Delaware Blue Hens,2013-01-16,-4.92974470503119,included_game_day
+2013,48,Delaware Blue Hens,2013-01-19,-10.615569998588722,included_game_day
+2013,48,Delaware Blue Hens,2013-01-23,-22.928124804030297,included_game_day
+2013,48,Delaware Blue Hens,2013-01-28,-15.340853289526581,included_game_day
+2013,48,Delaware Blue Hens,2013-01-30,-10.90608016556342,included_game_day
+2013,48,Delaware Blue Hens,2013-02-02,-4.124481847144484,included_game_day
+2013,48,Delaware Blue Hens,2013-02-06,-21.420338683512743,included_game_day
+2013,48,Delaware Blue Hens,2013-02-09,-7.274585915042424,included_game_day
+2013,48,Delaware Blue Hens,2013-02-11,-14.32897504010394,included_game_day
+2013,48,Delaware Blue Hens,2013-02-13,-6.242921544241556,included_game_day
+2013,48,Delaware Blue Hens,2013-02-17,-10.655937891889447,included_game_day
+2013,48,Delaware Blue Hens,2013-02-21,-12.57571945833083,included_game_day
+2013,48,Delaware Blue Hens,2013-02-23,-16.03849971087105,included_game_day
+2013,48,Delaware Blue Hens,2013-02-27,-19.749959032503128,included_game_day
+2013,48,Delaware Blue Hens,2013-03-02,-15.34053419341068,included_game_day
+2013,48,Delaware Blue Hens,2013-03-09,-16.68451207421562,included_game_day
+2013,48,Delaware Blue Hens,2013-03-10,-16.23504581534482,included_game_day
+2014,48,Delaware Blue Hens,2013-11-08,1.0,included_game_day
+2014,48,Delaware Blue Hens,2013-11-10,-4.1,included_game_day
+2014,48,Delaware Blue Hens,2013-11-17,11.520000000000001,included_game_day
+2014,48,Delaware Blue Hens,2013-11-19,27.968000000000004,included_game_day
+2014,48,Delaware Blue Hens,2013-11-22,31.081400000000002,included_game_day
+2014,48,Delaware Blue Hens,2013-11-25,34.87906,included_game_day
+2014,48,Delaware Blue Hens,2013-11-30,44.0281905,included_game_day
+2014,48,Delaware Blue Hens,2013-12-03,46.274551450000004,included_game_day
+2014,48,Delaware Blue Hens,2013-12-07,47.01477494617001,included_game_day
+2014,48,Delaware Blue Hens,2013-12-16,29.286187199834952,included_game_day
+2014,48,Delaware Blue Hens,2013-12-18,30.749173459650812,included_game_day
+2014,48,Delaware Blue Hens,2013-12-21,27.959175409463874,included_game_day
+2014,48,Delaware Blue Hens,2013-12-30,24.760133881347436,included_game_day
+2014,48,Delaware Blue Hens,2014-01-01,30.203862496640156,included_game_day
+2014,48,Delaware Blue Hens,2014-01-04,31.818724121563335,included_game_day
+2014,48,Delaware Blue Hens,2014-01-08,26.182411809379197,included_game_day
+2014,48,Delaware Blue Hens,2014-01-11,26.40346905740511,included_game_day
+2014,48,Delaware Blue Hens,2014-01-15,26.224329033548337,included_game_day
+2014,48,Delaware Blue Hens,2014-01-18,26.957950072484522,included_game_day
+2014,48,Delaware Blue Hens,2014-01-20,39.004365378406696,included_game_day
+2014,48,Delaware Blue Hens,2014-01-25,40.20610255904555,included_game_day
+2014,48,Delaware Blue Hens,2014-01-29,56.770449835480704,included_game_day
+2014,48,Delaware Blue Hens,2014-02-01,40.01783286888017,included_game_day
+2014,48,Delaware Blue Hens,2014-02-03,43.945814464220256,included_game_day
+2014,48,Delaware Blue Hens,2014-02-05,37.88477403408884,included_game_day
+2014,48,Delaware Blue Hens,2014-02-12,41.24956368619601,included_game_day
+2014,48,Delaware Blue Hens,2014-02-17,26.549660071697147,included_game_day
+2014,48,Delaware Blue Hens,2014-02-19,23.90471301051142,included_game_day
+2014,48,Delaware Blue Hens,2014-02-23,13.818769611766015,included_game_day
+2014,48,Delaware Blue Hens,2014-02-26,22.098436091405766,included_game_day
+2014,48,Delaware Blue Hens,2014-03-01,24.41937893668573,included_game_day
+2014,48,Delaware Blue Hens,2014-03-08,28.15411806619337,included_game_day
+2014,48,Delaware Blue Hens,2014-03-09,35.85100730778722,included_game_day
+2014,48,Delaware Blue Hens,2014-03-10,33.36672522177219,included_game_day
+2014,48,Delaware Blue Hens,2014-03-20,30.202067292427905,included_game_day
+2015,48,Delaware Blue Hens,2014-11-17,-3.0,included_game_day
+2015,48,Delaware Blue Hens,2014-11-21,-19.0,included_game_day
+2015,48,Delaware Blue Hens,2014-11-23,-35.147,included_game_day
+2015,48,Delaware Blue Hens,2014-11-25,-61.494479999999996,included_game_day
+2015,48,Delaware Blue Hens,2014-11-30,-76.681889,included_game_day
+2015,48,Delaware Blue Hens,2014-12-03,-72.77633879999999,included_game_day
+2015,48,Delaware Blue Hens,2014-12-07,-86.3697486,included_game_day
+2015,48,Delaware Blue Hens,2014-12-18,-100.972250816915,included_game_day
+2015,48,Delaware Blue Hens,2014-12-20,-94.36815583807349,included_game_day
+2015,48,Delaware Blue Hens,2014-12-22,-90.60435739902915,included_game_day
+2015,48,Delaware Blue Hens,2014-12-30,-76.3886200740941,included_game_day
+2015,48,Delaware Blue Hens,2015-01-03,-88.74257134986105,included_game_day
+2015,48,Delaware Blue Hens,2015-01-05,-79.52311913780868,included_game_day
+2015,48,Delaware Blue Hens,2015-01-08,-71.04151157108534,included_game_day
+2015,48,Delaware Blue Hens,2015-01-10,-62.061466506061684,included_game_day
+2015,48,Delaware Blue Hens,2015-01-14,-61.98741373080688,included_game_day
+2015,48,Delaware Blue Hens,2015-01-17,-69.68625604396078,included_game_day
+2015,48,Delaware Blue Hens,2015-01-21,-57.160960120283,included_game_day
+2015,48,Delaware Blue Hens,2015-01-24,-64.66284188066044,included_game_day
+2015,48,Delaware Blue Hens,2015-01-28,-61.95336851988467,included_game_day
+2015,48,Delaware Blue Hens,2015-01-31,-60.61547944060049,included_game_day
+2015,48,Delaware Blue Hens,2015-02-04,-66.20114491941744,included_game_day
+2015,48,Delaware Blue Hens,2015-02-07,-50.45398921824737,included_game_day
+2015,48,Delaware Blue Hens,2015-02-10,-64.57532235303005,included_game_day
+2015,48,Delaware Blue Hens,2015-02-14,-45.59527949159466,included_game_day
+2015,48,Delaware Blue Hens,2015-02-19,-31.66764360207904,included_game_day
+2015,48,Delaware Blue Hens,2015-02-21,-47.98360425550523,included_game_day
+2015,48,Delaware Blue Hens,2015-02-26,-30.76516221540832,included_game_day
+2015,48,Delaware Blue Hens,2015-02-28,-23.657824555858756,included_game_day
+2015,48,Delaware Blue Hens,2015-03-07,-23.021753190812852,included_game_day
+2016,48,Delaware Blue Hens,2015-11-13,9.0,included_game_day
+2016,48,Delaware Blue Hens,2015-11-24,0.22170000000000023,included_game_day
+2016,48,Delaware Blue Hens,2015-11-29,-17.509970000000003,included_game_day
+2016,48,Delaware Blue Hens,2015-12-01,-2.695148000000003,included_game_day
+2016,48,Delaware Blue Hens,2015-12-03,-0.33001820000000315,included_game_day
+2016,48,Delaware Blue Hens,2015-12-06,-8.304288970000002,included_game_day
+2016,48,Delaware Blue Hens,2015-12-12,-10.790698608300001,included_game_day
+2016,48,Delaware Blue Hens,2015-12-19,-16.355330768174003,included_game_day
+2016,48,Delaware Blue Hens,2015-12-22,-33.310689898644604,included_game_day
+2016,48,Delaware Blue Hens,2015-12-29,-49.676260018828636,included_game_day
+2016,48,Delaware Blue Hens,2015-12-31,-50.996604314444895,included_game_day
+2016,48,Delaware Blue Hens,2016-01-02,-54.918030981642744,included_game_day
+2016,48,Delaware Blue Hens,2016-01-07,-74.64039600477496,included_game_day
+2016,48,Delaware Blue Hens,2016-01-09,-83.76084377135852,included_game_day
+2016,48,Delaware Blue Hens,2016-01-14,-78.74194593047582,included_game_day
+2016,48,Delaware Blue Hens,2016-01-16,-80.33557889826007,included_game_day
+2016,48,Delaware Blue Hens,2016-01-21,-72.41076770034229,included_game_day
+2016,48,Delaware Blue Hens,2016-01-23,-60.66006517477152,included_game_day
+2016,48,Delaware Blue Hens,2016-01-28,-68.48053511746515,included_game_day
+2016,48,Delaware Blue Hens,2016-01-30,-59.66221751710482,included_game_day
+2016,48,Delaware Blue Hens,2016-02-04,-78.67259819686905,included_game_day
+2016,48,Delaware Blue Hens,2016-02-06,-87.76325438141957,included_game_day
+2016,48,Delaware Blue Hens,2016-02-11,-80.25887079479608,included_game_day
+2016,48,Delaware Blue Hens,2016-02-13,-79.8922894229731,included_game_day
+2016,48,Delaware Blue Hens,2016-02-18,-67.8383671220229,included_game_day
+2016,48,Delaware Blue Hens,2016-02-20,-77.09341436021653,included_game_day
+2016,48,Delaware Blue Hens,2016-02-25,-82.19181925526206,included_game_day
+2016,48,Delaware Blue Hens,2016-02-27,-96.0492455097292,included_game_day
+2016,48,Delaware Blue Hens,2016-03-04,-88.20925430246886,included_game_day
+2017,48,Delaware Blue Hens,2016-11-13,17.0,included_game_day
+2017,48,Delaware Blue Hens,2016-11-15,12.1,included_game_day
+2017,48,Delaware Blue Hens,2016-11-18,16.06,included_game_day
+2017,48,Delaware Blue Hens,2016-11-19,-8.532,included_game_day
+2017,48,Delaware Blue Hens,2016-11-20,-10.4,included_game_day
+2017,48,Delaware Blue Hens,2016-12-02,-1.517183952,included_game_day
+2017,48,Delaware Blue Hens,2016-12-11,-16.076280657656298,included_game_day
+2017,48,Delaware Blue Hens,2016-12-17,-18.08408194945557,included_game_day
+2017,48,Delaware Blue Hens,2016-12-20,-23.778621329755012,included_game_day
+2017,48,Delaware Blue Hens,2016-12-22,-49.32971801233783,included_game_day
+2017,48,Delaware Blue Hens,2016-12-28,-35.46621555527727,included_game_day
+2017,48,Delaware Blue Hens,2016-12-31,-32.987264291682635,included_game_day
+2017,48,Delaware Blue Hens,2017-01-02,-36.80380467300503,included_game_day
+2017,48,Delaware Blue Hens,2017-01-05,-61.59896363930085,included_game_day
+2017,48,Delaware Blue Hens,2017-01-07,-58.78161343194404,included_game_day
+2017,48,Delaware Blue Hens,2017-01-12,-78.20487647856264,included_game_day
+2017,48,Delaware Blue Hens,2017-01-14,-86.80496718618033,included_game_day
+2017,48,Delaware Blue Hens,2017-01-19,-67.89034592034167,included_game_day
+2017,48,Delaware Blue Hens,2017-01-21,-78.6322402849083,included_game_day
+2017,48,Delaware Blue Hens,2017-01-26,-93.48880405165912,included_game_day
+2017,48,Delaware Blue Hens,2017-01-28,-83.64561625195562,included_game_day
+2017,48,Delaware Blue Hens,2017-02-02,-81.54833060950129,included_game_day
+2017,48,Delaware Blue Hens,2017-02-04,-91.36575436490125,included_game_day
+2017,48,Delaware Blue Hens,2017-02-09,-79.55471060306333,included_game_day
+2017,48,Delaware Blue Hens,2017-02-11,-69.43782758749698,included_game_day
+2017,48,Delaware Blue Hens,2017-02-16,-66.38193658787881,included_game_day
+2017,48,Delaware Blue Hens,2017-02-18,-80.32533163328748,included_game_day
+2017,48,Delaware Blue Hens,2017-02-23,-75.91785937685853,included_game_day
+2017,48,Delaware Blue Hens,2017-02-25,-85.89734176717926,included_game_day
+2017,48,Delaware Blue Hens,2017-03-03,-69.95690921728506,included_game_day
+2017,48,Delaware Blue Hens,2017-03-04,-64.507134730422,included_game_day
+2018,48,Delaware Blue Hens,2017-11-10,16.0,included_game_day
+2018,48,Delaware Blue Hens,2017-11-14,10.6,included_game_day
+2018,48,Delaware Blue Hens,2017-11-20,-1.3600000000000012,included_game_day
+2018,48,Delaware Blue Hens,2017-11-22,-1.2189000000000014,included_game_day
+2018,48,Delaware Blue Hens,2017-11-27,-15.025730000000001,included_game_day
+2018,48,Delaware Blue Hens,2017-12-01,-18.2649323,included_game_day
+2018,48,Delaware Blue Hens,2017-12-06,-21.238588093,included_game_day
+2018,48,Delaware Blue Hens,2017-12-09,-39.212510817790005,included_game_day
+2018,48,Delaware Blue Hens,2017-12-17,-38.960344360284004,included_game_day
+2018,48,Delaware Blue Hens,2017-12-20,-26.064107658901396,included_game_day
+2018,48,Delaware Blue Hens,2017-12-28,-29.032195359406778,included_game_day
+2018,48,Delaware Blue Hens,2017-12-30,-29.716597444271393,included_game_day
+2018,48,Delaware Blue Hens,2018-01-02,-36.26483280231989,included_game_day
+2018,48,Delaware Blue Hens,2018-01-05,-61.19630300693925,included_game_day
+2018,48,Delaware Blue Hens,2018-01-07,-45.12949442806162,included_game_day
+2018,48,Delaware Blue Hens,2018-01-11,-44.274494287163364,included_game_day
+2018,48,Delaware Blue Hens,2018-01-13,-39.91259636191423,included_game_day
+2018,48,Delaware Blue Hens,2018-01-18,-60.73056120491148,included_game_day
+2018,48,Delaware Blue Hens,2018-01-20,-60.27646345799326,included_game_day
+2018,48,Delaware Blue Hens,2018-01-25,-63.653663923320096,included_game_day
+2018,48,Delaware Blue Hens,2018-01-27,-65.77716142283833,included_game_day
+2018,48,Delaware Blue Hens,2018-02-01,-62.91103647053879,included_game_day
+2018,48,Delaware Blue Hens,2018-02-03,-68.45574839339176,included_game_day
+2018,48,Delaware Blue Hens,2018-02-08,-65.29675661328187,included_game_day
+2018,48,Delaware Blue Hens,2018-02-10,-75.20136161262083,included_game_day
+2018,48,Delaware Blue Hens,2018-02-15,-66.52425928907059,included_game_day
+2018,48,Delaware Blue Hens,2018-02-17,-53.240488376080314,included_game_day
+2018,48,Delaware Blue Hens,2018-02-22,-51.62711208155122,included_game_day
+2018,48,Delaware Blue Hens,2018-02-24,-51.27511655884297,included_game_day
+2018,48,Delaware Blue Hens,2018-03-03,-48.39913343640518,included_game_day
+2018,48,Delaware Blue Hens,2018-03-04,-63.60495640840007,included_game_day
+2019,48,Delaware Blue Hens,2018-11-06,-3.0,included_game_day
+2019,48,Delaware Blue Hens,2018-11-10,3.7,included_game_day
+2019,48,Delaware Blue Hens,2018-11-15,22.762999999999998,included_game_day
+2019,48,Delaware Blue Hens,2018-11-23,1.7406889999999997,included_game_day
+2019,48,Delaware Blue Hens,2018-11-26,3.8347721099999994,included_game_day
+2019,48,Delaware Blue Hens,2018-11-30,5.084101328999999,included_game_day
+2019,48,Delaware Blue Hens,2018-12-02,6.2996211960999995,included_game_day
+2019,48,Delaware Blue Hens,2018-12-05,-19.82324357051,included_game_day
+2019,48,Delaware Blue Hens,2018-12-09,-21.713842941959,included_game_day
+2019,48,Delaware Blue Hens,2018-12-16,-20.4021115411251,included_game_day
+2019,48,Delaware Blue Hens,2018-12-19,-38.440010286112596,included_game_day
+2019,48,Delaware Blue Hens,2018-12-28,-70.12311102844185,included_game_day
+2019,48,Delaware Blue Hens,2018-12-30,-57.67045209408336,included_game_day
+2019,48,Delaware Blue Hens,2019-01-03,-56.48290342412065,included_game_day
+2019,48,Delaware Blue Hens,2019-01-05,-53.07634470138065,included_game_day
+2019,48,Delaware Blue Hens,2019-01-10,-35.90899770629435,included_game_day
+2019,48,Delaware Blue Hens,2019-01-12,-40.25595835597282,included_game_day
+2019,48,Delaware Blue Hens,2019-01-17,-36.8480336903106,included_game_day
+2019,48,Delaware Blue Hens,2019-01-19,-44.27426694838145,included_game_day
+2019,48,Delaware Blue Hens,2019-01-26,-47.31341470570991,included_game_day
+2019,48,Delaware Blue Hens,2019-01-31,-48.64850655333039,included_game_day
+2019,48,Delaware Blue Hens,2019-02-02,-67.06423417726026,included_game_day
+2019,48,Delaware Blue Hens,2019-02-07,-69.58854827304062,included_game_day
+2019,48,Delaware Blue Hens,2019-02-09,-70.36389911714477,included_game_day
+2019,48,Delaware Blue Hens,2019-02-14,-58.094258855802565,included_game_day
+2019,48,Delaware Blue Hens,2019-02-16,-62.284061480129225,included_game_day
+2019,48,Delaware Blue Hens,2019-02-23,-66.80489640153095,included_game_day
+2019,48,Delaware Blue Hens,2019-02-28,-70.30438602642637,included_game_day
+2019,48,Delaware Blue Hens,2019-03-02,-84.57269621359993,included_game_day
+2019,48,Delaware Blue Hens,2019-03-10,-71.30136350749122,included_game_day
+2019,48,Delaware Blue Hens,2019-03-11,-63.31270201089232,included_game_day
+2020,48,Delaware Blue Hens,2019-11-08,3.0,included_game_day
+2020,48,Delaware Blue Hens,2019-11-09,5.75,included_game_day
+2020,48,Delaware Blue Hens,2019-11-10,13.55,included_game_day
+2020,48,Delaware Blue Hens,2019-11-16,23.924,included_game_day
+2020,48,Delaware Blue Hens,2019-11-19,39.3433,included_game_day
+2020,48,Delaware Blue Hens,2019-11-27,47.136497999999996,included_game_day
+2020,48,Delaware Blue Hens,2019-11-29,47.17218731,included_game_day
+2020,48,Delaware Blue Hens,2019-12-02,45.527302641999995,included_game_day
+2020,48,Delaware Blue Hens,2019-12-07,32.169918745569994,included_game_day
+2020,48,Delaware Blue Hens,2019-12-14,27.681155925231995,included_game_day
+2020,48,Delaware Blue Hens,2019-12-16,20.610438038408795,included_game_day
+2020,48,Delaware Blue Hens,2019-12-20,12.503055931891314,included_game_day
+2020,48,Delaware Blue Hens,2019-12-28,13.906777968776991,included_game_day
+2020,48,Delaware Blue Hens,2019-12-30,-1.9108298503682661,included_game_day
+2020,48,Delaware Blue Hens,2020-01-03,-8.809623210379279,included_game_day
+2020,48,Delaware Blue Hens,2020-01-09,-5.126730385237111,included_game_day
+2020,48,Delaware Blue Hens,2020-01-11,-18.832254181900456,included_game_day
+2020,48,Delaware Blue Hens,2020-01-16,-24.83064657486986,included_game_day
+2020,48,Delaware Blue Hens,2020-01-18,-32.21072711912052,included_game_day
+2020,48,Delaware Blue Hens,2020-01-23,-21.6324456220239,included_game_day
+2020,48,Delaware Blue Hens,2020-01-25,-9.0806889155318,included_game_day
+2020,48,Delaware Blue Hens,2020-02-01,-5.618434675792312,included_game_day
+2020,48,Delaware Blue Hens,2020-02-06,-1.0219709064210987,included_game_day
+2020,48,Delaware Blue Hens,2020-02-08,-8.880646344509916,included_game_day
+2020,48,Delaware Blue Hens,2020-02-13,-3.361319200934603,included_game_day
+2020,48,Delaware Blue Hens,2020-02-15,-7.4657611717908425,included_game_day
+2020,48,Delaware Blue Hens,2020-02-20,15.46976518917323,included_game_day
+2020,48,Delaware Blue Hens,2020-02-22,1.0270128460832701,included_game_day
+2020,48,Delaware Blue Hens,2020-02-27,-6.409204299311551,included_game_day
+2020,48,Delaware Blue Hens,2020-02-29,9.719640357600223,included_game_day
+2020,48,Delaware Blue Hens,2020-03-08,20.281734359069286,included_game_day
+2020,48,Delaware Blue Hens,2020-03-09,10.443200541398994,included_game_day
+2021,48,Delaware Blue Hens,2020-12-08,-9.840399999999999,included_game_day
+2021,48,Delaware Blue Hens,2020-12-11,-9.25996,included_game_day
+2021,48,Delaware Blue Hens,2020-12-19,-17.68658657,included_game_day
+2021,48,Delaware Blue Hens,2020-12-21,-24.471992913,included_game_day
+2021,48,Delaware Blue Hens,2021-01-02,-26.573409695400002,included_game_day
+2021,48,Delaware Blue Hens,2021-01-03,-38.25454312132,included_game_day
+2021,48,Delaware Blue Hens,2021-01-09,-40.204523265986595,included_game_day
+2021,48,Delaware Blue Hens,2021-01-15,-21.888625800998145,included_game_day
+2021,48,Delaware Blue Hens,2021-01-17,-26.235907829007388,included_game_day
+2021,48,Delaware Blue Hens,2021-01-23,-25.894330025745717,included_game_day
+2021,48,Delaware Blue Hens,2021-01-24,-13.62106778313638,included_game_day
+2021,48,Delaware Blue Hens,2021-01-30,4.64360584277035,included_game_day
+2021,48,Delaware Blue Hens,2021-01-31,1.255344743495737,included_game_day
+2021,48,Delaware Blue Hens,2021-03-07,-5.720694413496027,included_game_day
+2022,48,Delaware Blue Hens,2021-11-09,-19.0,included_game_day
+2022,48,Delaware Blue Hens,2021-11-13,3.3999999999999986,included_game_day
+2022,48,Delaware Blue Hens,2021-11-17,2.0999999999999988,included_game_day
+2022,48,Delaware Blue Hens,2021-11-22,7.736999999999999,included_game_day
+2022,48,Delaware Blue Hens,2021-11-23,18.984289999999998,included_game_day
+2022,48,Delaware Blue Hens,2021-11-24,9.778621599999997,included_game_day
+2022,48,Delaware Blue Hens,2021-11-27,9.414759439999997,included_game_day
+2022,48,Delaware Blue Hens,2021-11-30,9.346703995999999,included_game_day
+2022,48,Delaware Blue Hens,2021-12-02,17.2802180964,included_game_day
+2022,48,Delaware Blue Hens,2021-12-05,26.726451124759997,included_game_day
+2022,48,Delaware Blue Hens,2021-12-08,26.423818561483998,included_game_day
+2022,48,Delaware Blue Hens,2021-12-21,17.978607474456474,included_game_day
+2022,48,Delaware Blue Hens,2021-12-29,14.143802682843955,included_game_day
+2022,48,Delaware Blue Hens,2021-12-31,17.443422392685882,included_game_day
+2022,48,Delaware Blue Hens,2022-01-11,23.183533097223012,included_game_day
+2022,48,Delaware Blue Hens,2022-01-15,20.469706092673018,included_game_day
+2022,48,Delaware Blue Hens,2022-01-17,22.44645605657817,included_game_day
+2022,48,Delaware Blue Hens,2022-01-20,16.723758322366233,included_game_day
+2022,48,Delaware Blue Hens,2022-01-22,9.96459818475239,included_game_day
+2022,48,Delaware Blue Hens,2022-01-24,3.467698529495654,included_game_day
+2022,48,Delaware Blue Hens,2022-01-29,19.42556503110886,included_game_day
+2022,48,Delaware Blue Hens,2022-02-03,7.43897147795677,included_game_day
+2022,48,Delaware Blue Hens,2022-02-10,10.233788573357739,included_game_day
+2022,48,Delaware Blue Hens,2022-02-12,-4.91459194501245,included_game_day
+2022,48,Delaware Blue Hens,2022-02-14,10.03869770441531,included_game_day
+2022,48,Delaware Blue Hens,2022-02-17,13.303506603844342,included_game_day
+2022,48,Delaware Blue Hens,2022-02-19,8.58707010138407,included_game_day
+2022,48,Delaware Blue Hens,2022-02-24,2.272167243940915,included_game_day
+2022,48,Delaware Blue Hens,2022-02-26,-8.30360399744827,included_game_day
+2022,48,Delaware Blue Hens,2022-02-28,-4.839654890676995,included_game_day
+2022,48,Delaware Blue Hens,2022-03-06,6.348562625843828,included_game_day
+2022,48,Delaware Blue Hens,2022-03-07,28.99565625315182,included_game_day
+2022,48,Delaware Blue Hens,2022-03-08,32.54705124349622,included_game_day
+2022,48,Delaware Blue Hens,2022-03-18,22.69384686268653,included_game_day
+2023,48,Delaware Blue Hens,2022-11-11,-1.1,included_game_day
+2023,48,Delaware Blue Hens,2022-11-18,-26.293000000000003,included_game_day
+2023,48,Delaware Blue Hens,2022-11-25,-16.9437,included_game_day
+2023,48,Delaware Blue Hens,2022-11-26,5.093133700000003,included_game_day
+2023,48,Delaware Blue Hens,2022-11-27,-5.934116699999997,included_game_day
+2023,48,Delaware Blue Hens,2022-12-01,-13.132225029999997,included_game_day
+2023,48,Delaware Blue Hens,2022-12-03,-12.145961731999998,included_game_day
+2023,48,Delaware Blue Hens,2022-12-07,-16.33765911582,included_game_day
+2023,48,Delaware Blue Hens,2022-12-11,-6.29132499796,included_game_day
+2023,48,Delaware Blue Hens,2022-12-16,10.795767731061389,included_game_day
+2023,48,Delaware Blue Hens,2022-12-19,13.91531604759525,included_game_day
+2023,48,Delaware Blue Hens,2022-12-21,-9.924665989538395,included_game_day
+2023,48,Delaware Blue Hens,2022-12-29,-27.34123004419437,included_game_day
+2023,48,Delaware Blue Hens,2022-12-31,-31.169578574779372,included_game_day
+2023,48,Delaware Blue Hens,2023-01-07,-28.822083878012158,included_game_day
+2023,48,Delaware Blue Hens,2023-01-11,-15.038529771436336,included_game_day
+2023,48,Delaware Blue Hens,2023-01-14,-33.45843689129773,included_game_day
+2023,48,Delaware Blue Hens,2023-01-16,-32.533095644250366,included_game_day
+2023,48,Delaware Blue Hens,2023-01-19,-11.049122076580261,included_game_day
+2023,48,Delaware Blue Hens,2023-01-21,-8.384923579433888,included_game_day
+2023,48,Delaware Blue Hens,2023-01-26,-16.15543838450498,included_game_day
+2023,48,Delaware Blue Hens,2023-01-28,-19.263612803673574,included_game_day
+2023,48,Delaware Blue Hens,2023-02-02,-34.9577204690074,included_game_day
+2023,48,Delaware Blue Hens,2023-02-04,-44.19250142405253,included_game_day
+2023,48,Delaware Blue Hens,2023-02-08,-49.10925132502056,included_game_day
+2023,48,Delaware Blue Hens,2023-02-13,-45.492384045832495,included_game_day
+2023,48,Delaware Blue Hens,2023-02-16,-60.24957298018144,included_game_day
+2023,48,Delaware Blue Hens,2023-02-18,-49.44826063727811,included_game_day
+2023,48,Delaware Blue Hens,2023-02-23,-48.96450972995908,included_game_day
+2023,48,Delaware Blue Hens,2023-02-25,-32.328862299994675,included_game_day
+2023,48,Delaware Blue Hens,2023-03-04,-35.80942142271738,included_game_day
+2023,48,Delaware Blue Hens,2023-03-05,-55.60231792957666,included_game_day
+2024,48,Delaware Blue Hens,2023-11-06,24.0,included_game_day
+2024,48,Delaware Blue Hens,2023-11-12,27.5,included_game_day
+2024,48,Delaware Blue Hens,2023-11-15,33.85,included_game_day
+2024,48,Delaware Blue Hens,2023-11-24,35.9595,included_game_day
+2024,48,Delaware Blue Hens,2023-11-25,23.805759,included_game_day
+2024,48,Delaware Blue Hens,2023-11-26,15.570391499999998,included_game_day
+2024,48,Delaware Blue Hens,2023-12-02,18.823293899999996,included_game_day
+2024,48,Delaware Blue Hens,2023-12-05,31.286810467399995,included_game_day
+2024,48,Delaware Blue Hens,2023-12-11,30.358197754708996,included_game_day
+2024,48,Delaware Blue Hens,2023-12-16,35.592984953860494,included_game_day
+2024,48,Delaware Blue Hens,2023-12-20,19.835813376067325,included_game_day
+2024,48,Delaware Blue Hens,2023-12-30,19.813901247124594,included_game_day
+2024,48,Delaware Blue Hens,2024-01-04,33.13437994740452,included_game_day
+2024,48,Delaware Blue Hens,2024-01-06,28.64482661356175,included_game_day
+2024,48,Delaware Blue Hens,2024-01-11,29.240153087965723,included_game_day
+2024,48,Delaware Blue Hens,2024-01-14,25.237679780407603,included_game_day
+2024,48,Delaware Blue Hens,2024-01-18,19.853538909760367,included_game_day
+2024,48,Delaware Blue Hens,2024-01-20,7.765140138967727,included_game_day
+2024,48,Delaware Blue Hens,2024-01-25,15.788874739870097,included_game_day
+2024,48,Delaware Blue Hens,2024-01-27,2.8661924725999235,included_game_day
+2024,48,Delaware Blue Hens,2024-02-01,26.976513473305218,included_game_day
+2024,48,Delaware Blue Hens,2024-02-03,24.86666638766394,included_game_day
+2024,48,Delaware Blue Hens,2024-02-08,40.44308114511149,included_game_day
+2024,48,Delaware Blue Hens,2024-02-10,37.04819353877596,included_game_day
+2024,48,Delaware Blue Hens,2024-02-15,20.631128982266688,included_game_day
+2024,48,Delaware Blue Hens,2024-02-17,17.670062864631653,included_game_day
+2024,48,Delaware Blue Hens,2024-02-22,-1.7954573525414403,included_game_day
+2024,48,Delaware Blue Hens,2024-02-26,-12.168184919247992,included_game_day
+2024,48,Delaware Blue Hens,2024-02-29,-11.659019608995449,included_game_day
+2024,48,Delaware Blue Hens,2024-03-02,-32.47265158975655,included_game_day
+2024,48,Delaware Blue Hens,2024-03-09,-8.147926484169894,included_game_day
+2024,48,Delaware Blue Hens,2024-03-10,-16.181847990560257,included_game_day
+2025,48,Delaware Blue Hens,2024-11-04,-15.0,included_game_day
+2025,48,Delaware Blue Hens,2024-11-07,-15.0,included_game_day
+2025,48,Delaware Blue Hens,2024-11-12,-5.42,included_game_day
+2025,48,Delaware Blue Hens,2024-11-18,-6.744,included_game_day
+2025,48,Delaware Blue Hens,2024-11-23,-13.56734,included_game_day
+2025,48,Delaware Blue Hens,2024-11-24,-1.6537670000000002,included_game_day
+2025,48,Delaware Blue Hens,2024-11-30,5.346239613,included_game_day
+2025,48,Delaware Blue Hens,2024-12-03,8.355613271700001,included_game_day
+2025,48,Delaware Blue Hens,2024-12-06,-7.51834058827,included_game_day
+2025,48,Delaware Blue Hens,2024-12-20,-14.08118081050628,included_game_day
+2025,48,Delaware Blue Hens,2024-12-28,-18.392771756452362,included_game_day
+2025,48,Delaware Blue Hens,2025-01-02,-17.026880080733388,included_game_day
+2025,48,Delaware Blue Hens,2025-01-04,-1.276327173484944,included_game_day
+2025,48,Delaware Blue Hens,2025-01-09,5.397657470176627,included_game_day
+2025,48,Delaware Blue Hens,2025-01-11,-1.5738000159077403,included_game_day
+2025,48,Delaware Blue Hens,2025-01-16,-3.892206115723874,included_game_day
+2025,48,Delaware Blue Hens,2025-01-18,-1.027902997071953,included_game_day
+2025,48,Delaware Blue Hens,2025-01-23,-25.087430463369124,included_game_day
+2025,48,Delaware Blue Hens,2025-01-25,-34.21142343698108,included_game_day
+2025,48,Delaware Blue Hens,2025-01-30,-43.08774731369498,included_game_day
+2025,48,Delaware Blue Hens,2025-02-01,-48.39539281089829,included_game_day
+2025,48,Delaware Blue Hens,2025-02-06,-51.91429389570432,included_game_day
+2025,48,Delaware Blue Hens,2025-02-08,-43.096868437378845,included_game_day
+2025,48,Delaware Blue Hens,2025-02-13,-39.10569826500642,included_game_day
+2025,48,Delaware Blue Hens,2025-02-15,-38.76646181443295,included_game_day
+2025,48,Delaware Blue Hens,2025-02-20,-43.39626036554614,included_game_day
+2025,48,Delaware Blue Hens,2025-02-22,-60.50219372245908,included_game_day
+2025,48,Delaware Blue Hens,2025-02-27,-61.45873502916261,included_game_day
+2025,48,Delaware Blue Hens,2025-03-01,-76.96780384844217,included_game_day
+2025,48,Delaware Blue Hens,2025-03-07,-73.11702423208344,included_game_day
+2025,48,Delaware Blue Hens,2025-03-08,-50.809387944503094,included_game_day
+2025,48,Delaware Blue Hens,2025-03-09,-26.90233535812584,included_game_day
+2025,48,Delaware Blue Hens,2025-03-10,-9.640981047007962,included_game_day
+2025,48,Delaware Blue Hens,2025-03-11,-5.363099894875928,included_game_day
+2026,48,Delaware Blue Hens,2025-11-03,-5.0,included_game_day
+2026,48,Delaware Blue Hens,2025-11-11,-13.92,included_game_day
+2026,48,Delaware Blue Hens,2025-11-18,-7.353,included_game_day
+2026,48,Delaware Blue Hens,2025-11-23,-25.299639999999997,included_game_day
+2026,48,Delaware Blue Hens,2025-11-25,-14.891319999999997,included_game_day
+2026,48,Delaware Blue Hens,2025-12-01,-39.02563162,included_game_day
+2026,48,Delaware Blue Hens,2025-12-06,-45.708037704,included_game_day
+2026,48,Delaware Blue Hens,2025-12-10,-17.36429179121,included_game_day
+2026,48,Delaware Blue Hens,2025-12-13,-45.097711972845204,included_game_day
+2026,48,Delaware Blue Hens,2025-12-16,-47.54390221788819,included_game_day
+2026,48,Delaware Blue Hens,2025-12-29,-68.71769798499012,included_game_day
+2026,48,Delaware Blue Hens,2026-01-02,-69.89529184260738,included_game_day
+2026,48,Delaware Blue Hens,2026-01-04,-50.664189649060994,included_game_day
+2026,48,Delaware Blue Hens,2026-01-08,-52.39334698961524,included_game_day
+2026,48,Delaware Blue Hens,2026-01-10,-50.865095368444514,included_game_day
+2026,48,Delaware Blue Hens,2026-01-15,-55.78703692781516,included_game_day
+2026,48,Delaware Blue Hens,2026-01-17,-80.93519286160797,included_game_day
+2026,48,Delaware Blue Hens,2026-01-24,-81.0353530567422,included_game_day
+2026,48,Delaware Blue Hens,2026-01-28,-59.87654889723958,included_game_day
+2026,48,Delaware Blue Hens,2026-01-31,-71.96428219935015,included_game_day
+2026,48,Delaware Blue Hens,2026-02-04,-67.54873575661868,included_game_day
+2026,48,Delaware Blue Hens,2026-02-07,-65.80645314531154,included_game_day
+2026,48,Delaware Blue Hens,2026-02-12,-56.21882080454806,included_game_day
+2026,48,Delaware Blue Hens,2026-02-14,-38.4415473743456,included_game_day
+2026,48,Delaware Blue Hens,2026-02-18,-39.65958267910233,included_game_day
+2026,48,Delaware Blue Hens,2026-02-21,-46.58511212615767,included_game_day
+2026,48,Delaware Blue Hens,2026-02-26,-49.9663086114866,included_game_day
+2026,48,Delaware Blue Hens,2026-02-28,-49.58463152666395,included_game_day
+2026,48,Delaware Blue Hens,2026-03-05,-39.24150273435532,included_game_day
+2026,48,Delaware Blue Hens,2026-03-07,-83.52188577251488,included_game_day
+2027,48,Delaware Blue Hens,2026-11-06,-5.6,included_game_day
+2027,48,Delaware Blue Hens,2026-11-11,-19.47,included_game_day
+2027,48,Delaware Blue Hens,2026-11-15,-17.964599999999997,included_game_day
+2027,48,Delaware Blue Hens,2026-11-20,-11.224529999999998,included_game_day
+2027,48,Delaware Blue Hens,2026-11-22,-32.18955699999999,included_game_day

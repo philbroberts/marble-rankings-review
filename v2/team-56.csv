@@ -1,0 +1,1092 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,56,Stetson,1987-11-30,22.3,included_game_day
+1988,56,Stetson,1987-12-03,13.183,included_game_day
+1988,56,Stetson,1987-12-16,2.6596264299999994,included_game_day
+1988,56,Stetson,1987-12-22,5.04948618445,included_game_day
+1988,56,Stetson,1987-12-30,4.627248337855,included_game_day
+1988,56,Stetson,1988-01-02,9.5398610225995,included_game_day
+1988,56,Stetson,1988-01-04,-7.342322650101313,included_game_day
+1988,56,Stetson,1988-01-07,0.657636368382156,included_game_day
+1988,56,Stetson,1988-01-09,7.297951064197581,included_game_day
+1988,56,Stetson,1988-01-16,-10.10679870374386,included_game_day
+1988,56,Stetson,1988-01-21,-21.162983764657458,included_game_day
+1988,56,Stetson,1988-01-23,-22.537746288250855,included_game_day
+1988,56,Stetson,1988-01-25,-4.282996701325178,included_game_day
+1988,56,Stetson,1988-01-28,0.8250651747717885,included_game_day
+1988,56,Stetson,1988-01-30,21.59314598079648,included_game_day
+1988,56,Stetson,1988-02-04,10.404988969648118,included_game_day
+1988,56,Stetson,1988-02-06,6.299786612396545,included_game_day
+1988,56,Stetson,1988-02-08,-10.884605312133704,included_game_day
+1988,56,Stetson,1988-02-11,-20.398736600245556,included_game_day
+1988,56,Stetson,1988-02-13,-19.724781988492758,included_game_day
+1988,56,Stetson,1988-02-20,-19.712840065682762,included_game_day
+1988,56,Stetson,1988-02-25,2.0262719826228413,included_game_day
+1988,56,Stetson,1988-02-27,9.920225565202077,included_game_day
+1988,56,Stetson,1988-03-03,18.17968582685907,included_game_day
+1988,56,Stetson,1988-03-05,-24.23015559377498,included_game_day
+1988,56,Stetson,1988-03-10,-22.874631016517874,included_game_day
+1989,56,Stetson,1988-11-26,9.0,included_game_day
+1989,56,Stetson,1988-11-30,22.6,included_game_day
+1989,56,Stetson,1988-12-05,6.480500000000003,included_game_day
+1989,56,Stetson,1988-12-07,11.111350000000002,included_game_day
+1989,56,Stetson,1988-12-09,4.724230000000002,included_game_day
+1989,56,Stetson,1988-12-17,-7.3983474664649975,included_game_day
+1989,56,Stetson,1988-12-19,11.803445052498002,included_game_day
+1989,56,Stetson,1988-12-30,11.541460547248201,included_game_day
+1989,56,Stetson,1989-01-02,24.07871017737623,included_game_day
+1989,56,Stetson,1989-01-05,32.43013846133462,included_game_day
+1989,56,Stetson,1989-01-07,19.228303860021636,included_game_day
+1989,56,Stetson,1989-01-11,12.368661783490218,included_game_day
+1989,56,Stetson,1989-01-14,10.141508458554576,included_game_day
+1989,56,Stetson,1989-01-16,5.898479981315388,included_game_day
+1989,56,Stetson,1989-01-19,26.28876355375816,included_game_day
+1989,56,Stetson,1989-01-21,32.591058129387136,included_game_day
+1989,56,Stetson,1989-01-26,30.773894705347256,included_game_day
+1989,56,Stetson,1989-01-28,25.507848953245826,included_game_day
+1989,56,Stetson,1989-02-04,17.468689647275948,included_game_day
+1989,56,Stetson,1989-02-06,5.378634183720344,included_game_day
+1989,56,Stetson,1989-02-11,4.6436035567757425,included_game_day
+1989,56,Stetson,1989-02-16,-3.6281635967983643,included_game_day
+1989,56,Stetson,1989-02-18,9.890008577518483,included_game_day
+1989,56,Stetson,1989-02-25,1.7862073874947555,included_game_day
+1989,56,Stetson,1989-02-27,7.8049831474510585,included_game_day
+1989,56,Stetson,1989-03-02,22.274744267793125,included_game_day
+1989,56,Stetson,1989-03-04,17.159593200847564,included_game_day
+1989,56,Stetson,1989-03-07,55.18680584430004,included_game_day
+1989,56,Stetson,1989-03-08,60.01595481507144,included_game_day
+1990,56,Stetson,1989-11-24,7.0,included_game_day
+1990,56,Stetson,1989-11-25,-6.699999999999999,included_game_day
+1990,56,Stetson,1989-11-26,-9.549999999999999,included_game_day
+1990,56,Stetson,1989-12-01,-35.315,included_game_day
+1990,56,Stetson,1989-12-02,-20.767899999999997,included_game_day
+1990,56,Stetson,1989-12-05,-27.507709999999996,included_game_day
+1990,56,Stetson,1989-12-08,-0.506338999999997,included_game_day
+1990,56,Stetson,1989-12-09,-7.633680099999997,included_game_day
+1990,56,Stetson,1989-12-16,-13.320253912019997,included_game_day
+1990,56,Stetson,1989-12-18,-25.845537650817995,included_game_day
+1990,56,Stetson,1989-12-20,-17.337412139609796,included_game_day
+1990,56,Stetson,1989-12-22,-18.576774244648817,included_game_day
+1990,56,Stetson,1989-12-30,-33.7644411693418,included_game_day
+1990,56,Stetson,1990-01-04,-35.823124794938636,included_game_day
+1990,56,Stetson,1990-01-06,-25.503161118899854,included_game_day
+1990,56,Stetson,1990-01-13,-27.336278182845376,included_game_day
+1990,56,Stetson,1990-01-18,-41.23022843139391,included_game_day
+1990,56,Stetson,1990-01-25,-67.57140582893103,included_game_day
+1990,56,Stetson,1990-01-27,-59.99245018197705,included_game_day
+1990,56,Stetson,1990-02-01,-59.50186515025119,included_game_day
+1990,56,Stetson,1990-02-03,-59.824657593236154,included_game_day
+1990,56,Stetson,1990-02-10,-56.29335264839091,included_game_day
+1990,56,Stetson,1990-02-12,-70.21654017835947,included_game_day
+1990,56,Stetson,1990-02-17,-85.30538228196264,included_game_day
+1990,56,Stetson,1990-02-22,-84.19737148521432,included_game_day
+1990,56,Stetson,1990-02-24,-87.17284416582162,included_game_day
+1990,56,Stetson,1990-02-27,-63.66288424601058,included_game_day
+1990,56,Stetson,1990-03-01,-50.66917627314354,included_game_day
+1990,56,Stetson,1990-03-03,-33.97513805545648,included_game_day
+1990,56,Stetson,1990-03-06,-6.813378829888848,included_game_day
+1990,56,Stetson,1990-03-07,-8.879889621946061,included_game_day
+1991,56,Stetson,1990-11-24,5.0,included_game_day
+1991,56,Stetson,1990-11-26,-0.9000000000000004,included_game_day
+1991,56,Stetson,1990-11-30,-5.542,included_game_day
+1991,56,Stetson,1990-12-01,-13.14629,included_game_day
+1991,56,Stetson,1990-12-04,-15.507971,included_game_day
+1991,56,Stetson,1990-12-06,-25.7554288,included_game_day
+1991,56,Stetson,1990-12-15,-19.831857561,included_game_day
+1991,56,Stetson,1990-12-21,-10.8492526452,included_game_day
+1991,56,Stetson,1990-12-27,-3.8768303964301305,included_game_day
+1991,56,Stetson,1990-12-28,-8.914103986637837,included_game_day
+1991,56,Stetson,1990-12-29,-22.852193422577486,included_game_day
+1991,56,Stetson,1991-01-05,-19.981745723939927,included_game_day
+1991,56,Stetson,1991-01-09,-14.300055380148985,included_game_day
+1991,56,Stetson,1991-01-12,-12.589053063900288,included_game_day
+1991,56,Stetson,1991-01-14,-14.107258545522942,included_game_day
+1991,56,Stetson,1991-01-19,2.4439833109613147,included_game_day
+1991,56,Stetson,1991-01-21,7.444756229971617,included_game_day
+1991,56,Stetson,1991-01-24,22.079162250101977,included_game_day
+1991,56,Stetson,1991-01-26,6.503007693742408,included_game_day
+1991,56,Stetson,1991-01-31,6.180532594360853,included_game_day
+1991,56,Stetson,1991-02-02,10.527742318841891,included_game_day
+1991,56,Stetson,1991-02-09,-9.545995841097866,included_game_day
+1991,56,Stetson,1991-02-14,-15.88809073736601,included_game_day
+1991,56,Stetson,1991-02-16,-12.067588922691847,included_game_day
+1991,56,Stetson,1991-02-18,-5.958871769298661,included_game_day
+1991,56,Stetson,1991-02-21,-15.470469695417002,included_game_day
+1991,56,Stetson,1991-02-23,-13.670710658792615,included_game_day
+1991,56,Stetson,1991-02-25,-12.210914152275885,included_game_day
+1991,56,Stetson,1991-02-28,-6.680006909782277,included_game_day
+1991,56,Stetson,1991-03-02,3.286957383959331,included_game_day
+1991,56,Stetson,1991-03-05,-9.450157186493966,included_game_day
+1992,56,Stetson,1991-11-22,-13.0,included_game_day
+1992,56,Stetson,1991-11-25,2.8000000000000007,included_game_day
+1992,56,Stetson,1991-11-27,-18.48,included_game_day
+1992,56,Stetson,1991-12-06,-18.879,included_game_day
+1992,56,Stetson,1991-12-07,-39.817229,included_game_day
+1992,56,Stetson,1991-12-17,-57.7960647352,included_game_day
+1992,56,Stetson,1991-12-21,-58.16893076168,included_game_day
+1992,56,Stetson,1991-12-30,-56.9409605311624,included_game_day
+1992,56,Stetson,1992-01-02,-65.62082001718538,included_game_day
+1992,56,Stetson,1992-01-04,-69.50124511387848,included_game_day
+1992,56,Stetson,1992-01-11,-83.35917514368091,included_game_day
+1992,56,Stetson,1992-01-16,-83.18158996112196,included_game_day
+1992,56,Stetson,1992-01-18,-72.43959275703568,included_game_day
+1992,56,Stetson,1992-01-23,-79.38194057605676,included_game_day
+1992,56,Stetson,1992-01-25,-72.46693162130796,included_game_day
+1992,56,Stetson,1992-01-30,-99.47406077114516,included_game_day
+1992,56,Stetson,1992-02-01,-87.35930060464828,included_game_day
+1992,56,Stetson,1992-02-08,-91.01150874485536,included_game_day
+1992,56,Stetson,1992-02-13,-101.14668513764039,included_game_day
+1992,56,Stetson,1992-02-15,-92.83162203700127,included_game_day
+1992,56,Stetson,1992-02-17,-68.14490526395716,included_game_day
+1992,56,Stetson,1992-02-20,-72.04722191353437,included_game_day
+1992,56,Stetson,1992-02-22,-74.1424075095172,included_game_day
+1992,56,Stetson,1992-02-27,-88.83872504274456,included_game_day
+1992,56,Stetson,1992-02-29,-94.85647359611428,included_game_day
+1992,56,Stetson,1992-03-06,-107.72936951903654,included_game_day
+1993,56,Stetson,1992-12-01,-15.0,included_game_day
+1993,56,Stetson,1992-12-04,-25.9,included_game_day
+1993,56,Stetson,1992-12-05,-29.16,included_game_day
+1993,56,Stetson,1992-12-11,-39.794,included_game_day
+1993,56,Stetson,1992-12-12,-40.13773,included_game_day
+1993,56,Stetson,1992-12-19,-48.501957,included_game_day
+1993,56,Stetson,1992-12-30,-46.330267694288,included_game_day
+1993,56,Stetson,1993-01-04,-46.1180922599295,included_game_day
+1993,56,Stetson,1993-01-07,-49.63130454867355,included_game_day
+1993,56,Stetson,1993-01-09,-51.905089485054624,included_game_day
+1993,56,Stetson,1993-01-14,-62.480252106706004,included_game_day
+1993,56,Stetson,1993-01-15,-80.32258395479641,included_game_day
+1993,56,Stetson,1993-01-16,-84.56569310534805,included_game_day
+1993,56,Stetson,1993-01-18,-64.68228740843719,included_game_day
+1993,56,Stetson,1993-01-21,-62.63721575112406,included_game_day
+1993,56,Stetson,1993-01-23,-60.490509106491466,included_game_day
+1993,56,Stetson,1993-01-30,-59.38618033076403,included_game_day
+1993,56,Stetson,1993-02-06,-58.64331721559766,included_game_day
+1993,56,Stetson,1993-02-11,-36.22978727999766,included_game_day
+1993,56,Stetson,1993-02-13,-41.70400044103471,included_game_day
+1993,56,Stetson,1993-02-18,-30.080869997869257,included_game_day
+1993,56,Stetson,1993-02-20,-27.643135814768847,included_game_day
+1993,56,Stetson,1993-02-27,-23.589259610794485,included_game_day
+1993,56,Stetson,1993-03-02,-12.124478524118489,included_game_day
+1994,56,Stetson,1993-11-27,-23.0,included_game_day
+1994,56,Stetson,1993-11-30,-24.7,included_game_day
+1994,56,Stetson,1993-12-11,-61.28779900000001,included_game_day
+1994,56,Stetson,1993-12-13,-52.089350200000005,included_game_day
+1994,56,Stetson,1993-12-29,-51.688205880000005,included_game_day
+1994,56,Stetson,1993-12-30,-42.273187283477,included_game_day
+1994,56,Stetson,1994-01-06,-31.431501075809216,included_game_day
+1994,56,Stetson,1994-01-08,-19.14556996464426,included_game_day
+1994,56,Stetson,1994-01-13,-26.09235499171861,included_game_day
+1994,56,Stetson,1994-01-15,-28.58235037586571,included_game_day
+1994,56,Stetson,1994-01-17,-19.070600639922148,included_game_day
+1994,56,Stetson,1994-01-22,-27.293976827120698,included_game_day
+1994,56,Stetson,1994-01-27,-39.269808297905264,included_game_day
+1994,56,Stetson,1994-01-29,-48.7340504383298,included_game_day
+1994,56,Stetson,1994-01-31,-55.700922575562345,included_game_day
+1994,56,Stetson,1994-02-03,-52.627196899554214,included_game_day
+1994,56,Stetson,1994-02-05,-71.78765519270291,included_game_day
+1994,56,Stetson,1994-02-07,-81.74267475073577,included_game_day
+1994,56,Stetson,1994-02-10,-75.79057898321086,included_game_day
+1994,56,Stetson,1994-02-12,-66.23769145493848,included_game_day
+1994,56,Stetson,1994-02-14,-71.95907532768643,included_game_day
+1994,56,Stetson,1994-02-16,-89.96684280040566,included_game_day
+1994,56,Stetson,1994-02-19,-83.99748185215718,included_game_day
+1994,56,Stetson,1994-02-26,-71.35644691155933,included_game_day
+1994,56,Stetson,1994-02-28,-70.7979720580873,included_game_day
+1994,56,Stetson,1994-03-03,-40.35119217530966,included_game_day
+1994,56,Stetson,1994-03-04,-28.569104650205464,included_game_day
+1994,56,Stetson,1994-03-05,-27.357747628590374,included_game_day
+1995,56,Stetson,1994-11-25,-6.0,included_game_day
+1995,56,Stetson,1994-11-30,-20.4,included_game_day
+1995,56,Stetson,1994-12-07,-14.423639999999999,included_game_day
+1995,56,Stetson,1994-12-20,-9.770881596999999,included_game_day
+1995,56,Stetson,1994-12-22,-33.1222641543,included_game_day
+1995,56,Stetson,1994-12-29,-32.967288120869995,included_game_day
+1995,56,Stetson,1994-12-30,-12.042789012557996,included_game_day
+1995,56,Stetson,1995-01-05,-16.686663758224796,included_game_day
+1995,56,Stetson,1995-01-07,-6.383980979836064,included_game_day
+1995,56,Stetson,1995-01-09,-14.750726604915233,included_game_day
+1995,56,Stetson,1995-01-12,-23.095210617007282,included_game_day
+1995,56,Stetson,1995-01-14,3.9139351095955988,included_game_day
+1995,56,Stetson,1995-01-19,5.148955964576256,included_game_day
+1995,56,Stetson,1995-01-21,17.024115194345598,included_game_day
+1995,56,Stetson,1995-01-23,35.94436635386497,included_game_day
+1995,56,Stetson,1995-01-28,36.0890475349881,included_game_day
+1995,56,Stetson,1995-01-30,23.78800645463708,included_game_day
+1995,56,Stetson,1995-02-04,8.781163171135795,included_game_day
+1995,56,Stetson,1995-02-06,12.65037597313759,included_game_day
+1995,56,Stetson,1995-02-08,-5.507776025027814,included_game_day
+1995,56,Stetson,1995-02-11,7.164419882647781,included_game_day
+1995,56,Stetson,1995-02-16,1.3427274273685175,included_game_day
+1995,56,Stetson,1995-02-18,4.0678686993269055,included_game_day
+1995,56,Stetson,1995-02-20,15.368663547889096,included_game_day
+1995,56,Stetson,1995-02-25,2.206395097630816,included_game_day
+1995,56,Stetson,1995-03-02,-11.323419662575807,included_game_day
+1996,56,Stetson,1995-11-24,-29.0,included_game_day
+1996,56,Stetson,1995-11-25,-8.3,included_game_day
+1996,56,Stetson,1995-11-29,-36.010000000000005,included_game_day
+1996,56,Stetson,1995-12-04,-36.081,included_game_day
+1996,56,Stetson,1995-12-20,-66.29788949600001,included_game_day
+1996,56,Stetson,1995-12-22,-79.61791303640001,included_game_day
+1996,56,Stetson,1995-12-28,-96.96917100057001,included_game_day
+1996,56,Stetson,1995-12-30,-82.29738747890332,included_game_day
+1996,56,Stetson,1996-01-04,-75.42455152890587,included_game_day
+1996,56,Stetson,1996-01-06,-98.09932172627002,included_game_day
+1996,56,Stetson,1996-01-11,-109.75782741405855,included_game_day
+1996,56,Stetson,1996-01-13,-87.83287401810689,included_game_day
+1996,56,Stetson,1996-01-18,-72.69603490640066,included_game_day
+1996,56,Stetson,1996-01-20,-80.1413277055783,included_game_day
+1996,56,Stetson,1996-01-25,-63.719709978556416,included_game_day
+1996,56,Stetson,1996-01-27,-55.523686393917735,included_game_day
+1996,56,Stetson,1996-02-01,-34.4452795338978,included_game_day
+1996,56,Stetson,1996-02-03,-32.82777219937047,included_game_day
+1996,56,Stetson,1996-02-05,-47.72264319149535,included_game_day
+1996,56,Stetson,1996-02-08,-54.2324628010826,included_game_day
+1996,56,Stetson,1996-02-10,-54.6972581069851,included_game_day
+1996,56,Stetson,1996-02-17,-61.829975541945025,included_game_day
+1996,56,Stetson,1996-02-22,-68.11568007299759,included_game_day
+1996,56,Stetson,1996-02-24,-56.19222278512427,included_game_day
+1996,56,Stetson,1996-02-29,-62.97023689855294,included_game_day
+1997,56,Stetson,1996-11-25,-3.1,included_game_day
+1997,56,Stetson,1996-11-27,0.7199999999999998,included_game_day
+1997,56,Stetson,1996-11-30,-12.661999999999999,included_game_day
+1997,56,Stetson,1996-12-14,-15.152510329999998,included_game_day
+1997,56,Stetson,1996-12-17,-34.553225435,included_game_day
+1997,56,Stetson,1996-12-21,-56.5913671175,included_game_day
+1997,56,Stetson,1996-12-28,-74.19710460051,included_game_day
+1997,56,Stetson,1996-12-30,-67.8374981867492,included_game_day
+1997,56,Stetson,1997-01-02,-67.03653483277913,included_game_day
+1997,56,Stetson,1997-01-04,-61.125391606782195,included_game_day
+1997,56,Stetson,1997-01-09,-64.18875038585857,included_game_day
+1997,56,Stetson,1997-01-11,-60.30565407393597,included_game_day
+1997,56,Stetson,1997-01-16,-63.41739857888297,included_game_day
+1997,56,Stetson,1997-01-18,-66.3741688362012,included_game_day
+1997,56,Stetson,1997-01-23,-60.96597118516589,included_game_day
+1997,56,Stetson,1997-01-25,-69.15209699847297,included_game_day
+1997,56,Stetson,1997-01-30,-86.1039288690539,included_game_day
+1997,56,Stetson,1997-02-01,-93.70518734225897,included_game_day
+1997,56,Stetson,1997-02-03,-78.64566803846388,included_game_day
+1997,56,Stetson,1997-02-06,-89.39484043563569,included_game_day
+1997,56,Stetson,1997-02-08,-83.85964585848694,included_game_day
+1997,56,Stetson,1997-02-15,-74.7215535040581,included_game_day
+1997,56,Stetson,1997-02-20,-72.90131609362511,included_game_day
+1997,56,Stetson,1997-02-22,-73.77223511703265,included_game_day
+1997,56,Stetson,1997-02-27,-78.18251022981161,included_game_day
+1998,56,Stetson,1997-11-15,-18.0,included_game_day
+1998,56,Stetson,1997-11-21,-22.125999999999998,included_game_day
+1998,56,Stetson,1997-11-29,-24.5753,included_game_day
+1998,56,Stetson,1997-12-04,-30.78703379,included_game_day
+1998,56,Stetson,1997-12-13,-38.6704809606,included_game_day
+1998,56,Stetson,1997-12-28,-56.36795471387801,included_game_day
+1998,56,Stetson,1997-12-29,-74.2270067374297,included_game_day
+1998,56,Stetson,1998-01-03,-63.39411499492128,included_game_day
+1998,56,Stetson,1998-01-05,-51.71784477043576,included_game_day
+1998,56,Stetson,1998-01-10,-44.16397501930041,included_game_day
+1998,56,Stetson,1998-01-12,-38.925518413974814,included_game_day
+1998,56,Stetson,1998-01-15,-48.65970296559901,included_game_day
+1998,56,Stetson,1998-01-17,-61.08924636476714,included_game_day
+1998,56,Stetson,1998-01-22,-44.650347024757764,included_game_day
+1998,56,Stetson,1998-01-24,-38.28961279209401,included_game_day
+1998,56,Stetson,1998-01-29,-41.62885306020006,included_game_day
+1998,56,Stetson,1998-01-31,-52.35926541059668,included_game_day
+1998,56,Stetson,1998-02-02,-50.22285365382434,included_game_day
+1998,56,Stetson,1998-02-05,-57.02082470981887,included_game_day
+1998,56,Stetson,1998-02-07,-48.22743132966604,included_game_day
+1998,56,Stetson,1998-02-14,-52.16012780533174,included_game_day
+1998,56,Stetson,1998-02-19,-47.367438369746246,included_game_day
+1998,56,Stetson,1998-02-21,-53.26914332157885,included_game_day
+1998,56,Stetson,1998-02-26,-70.47419593296733,included_game_day
+1999,56,Stetson,1998-11-14,-4.0,included_game_day
+1999,56,Stetson,1998-11-16,-25.5,included_game_day
+1999,56,Stetson,1998-11-25,-22.695999999999998,included_game_day
+1999,56,Stetson,1998-11-28,-33.521919999999994,included_game_day
+1999,56,Stetson,1998-12-05,-12.195154707799993,included_game_day
+1999,56,Stetson,1998-12-09,-18.143974837019996,included_game_day
+1999,56,Stetson,1998-12-21,-36.95265080700854,included_game_day
+1999,56,Stetson,1999-01-04,-26.36070574318589,included_game_day
+1999,56,Stetson,1999-01-07,-11.545565164479967,included_game_day
+1999,56,Stetson,1999-01-11,-19.567516124314718,included_game_day
+1999,56,Stetson,1999-01-14,-7.93053399269904,included_game_day
+1999,56,Stetson,1999-01-16,-23.307943085713745,included_game_day
+1999,56,Stetson,1999-01-21,-20.309544275888836,included_game_day
+1999,56,Stetson,1999-01-23,-11.397871327463104,included_game_day
+1999,56,Stetson,1999-01-28,1.100108444510651,included_game_day
+1999,56,Stetson,1999-01-30,-11.509599897372441,included_game_day
+1999,56,Stetson,1999-02-04,-8.2728817126861,included_game_day
+1999,56,Stetson,1999-02-06,-11.152494936429989,included_game_day
+1999,56,Stetson,1999-02-09,-23.329299947436475,included_game_day
+1999,56,Stetson,1999-02-13,-22.899947161545967,included_game_day
+1999,56,Stetson,1999-02-15,-9.823395803169154,included_game_day
+1999,56,Stetson,1999-02-18,3.221942849319978,included_game_day
+1999,56,Stetson,1999-02-20,-5.632539934678906,included_game_day
+1999,56,Stetson,1999-02-25,-13.965980060889938,included_game_day
+2000,56,Stetson,1999-11-22,0.0,included_game_day
+2000,56,Stetson,1999-11-26,-29.71,included_game_day
+2000,56,Stetson,1999-12-04,-35.611670000000004,included_game_day
+2000,56,Stetson,1999-12-06,-27.116653000000003,included_game_day
+2000,56,Stetson,1999-12-08,-16.950698870000004,included_game_day
+2000,56,Stetson,1999-12-18,-19.538839188000004,included_game_day
+2000,56,Stetson,1999-12-20,-37.504168427812004,included_game_day
+2000,56,Stetson,1999-12-22,-27.863627699633803,included_game_day
+2000,56,Stetson,1999-12-28,-27.04242673326232,included_game_day
+2000,56,Stetson,1999-12-29,-33.28739562152143,included_game_day
+2000,56,Stetson,2000-01-04,-42.4682234038303,included_game_day
+2000,56,Stetson,2000-01-08,-48.79427530811594,included_game_day
+2000,56,Stetson,2000-01-10,-60.07546494707663,included_game_day
+2000,56,Stetson,2000-01-15,-53.14500844585656,included_game_day
+2000,56,Stetson,2000-01-20,-49.80834943495918,included_game_day
+2000,56,Stetson,2000-01-22,-47.04546388006948,included_game_day
+2000,56,Stetson,2000-01-24,-48.775304411780745,included_game_day
+2000,56,Stetson,2000-01-29,-49.543309375557214,included_game_day
+2000,56,Stetson,2000-01-31,-28.911428208541118,included_game_day
+2000,56,Stetson,2000-02-03,-10.014848327144978,included_game_day
+2000,56,Stetson,2000-02-05,-32.98780495877999,included_game_day
+2000,56,Stetson,2000-02-10,-58.43268582240156,included_game_day
+2000,56,Stetson,2000-02-12,-56.07821196924926,included_game_day
+2000,56,Stetson,2000-02-17,-60.52309735002193,included_game_day
+2000,56,Stetson,2000-02-19,-69.6577346263305,included_game_day
+2000,56,Stetson,2000-02-24,-67.45352222067379,included_game_day
+2000,56,Stetson,2000-03-01,-88.46267137460585,included_game_day
+2001,56,Stetson,2000-11-18,26.0,included_game_day
+2001,56,Stetson,2000-11-27,45.2566,included_game_day
+2001,56,Stetson,2000-12-02,34.83319,included_game_day
+2001,56,Stetson,2000-12-04,22.470685000000003,included_game_day
+2001,56,Stetson,2000-12-07,4.859212200000002,included_game_day
+2001,56,Stetson,2000-12-09,-11.11114082,included_game_day
+2001,56,Stetson,2000-12-28,-1.7021447675147705,included_game_day
+2001,56,Stetson,2000-12-30,-18.562286324434933,included_game_day
+2001,56,Stetson,2001-01-03,-23.217057517185914,included_game_day
+2001,56,Stetson,2001-01-06,-14.027936348889536,included_game_day
+2001,56,Stetson,2001-01-08,-17.475023845436276,included_game_day
+2001,56,Stetson,2001-01-13,-10.527970154733072,included_game_day
+2001,56,Stetson,2001-01-17,-0.8213067633373861,included_game_day
+2001,56,Stetson,2001-01-20,5.709088186104701,included_game_day
+2001,56,Stetson,2001-01-22,-2.5076856991762213,included_game_day
+2001,56,Stetson,2001-01-27,8.050867696050116,included_game_day
+2001,56,Stetson,2001-01-29,6.094200713919101,included_game_day
+2001,56,Stetson,2001-02-01,-3.6175667928031796,included_game_day
+2001,56,Stetson,2001-02-03,1.742184205398452,included_game_day
+2001,56,Stetson,2001-02-08,5.151634752353456,included_game_day
+2001,56,Stetson,2001-02-10,16.983404351490734,included_game_day
+2001,56,Stetson,2001-02-15,11.481046275478523,included_game_day
+2001,56,Stetson,2001-02-17,16.145570360292346,included_game_day
+2001,56,Stetson,2001-02-21,-3.2878339638065945,included_game_day
+2001,56,Stetson,2001-02-24,-19.626512493199655,included_game_day
+2001,56,Stetson,2001-03-01,-15.628638543659466,included_game_day
+2001,56,Stetson,2001-03-02,-20.60999729528603,included_game_day
+2002,56,Stetson Hatters,2001-11-19,-13.0,included_game_day
+2002,56,Stetson Hatters,2001-11-24,3.971,included_game_day
+2002,56,Stetson Hatters,2001-11-29,-6.55777,included_game_day
+2002,56,Stetson Hatters,2001-12-01,-10.050203,included_game_day
+2002,56,Stetson Hatters,2001-12-06,-12.352919799999999,included_game_day
+2002,56,Stetson Hatters,2001-12-16,-3.519712219999999,included_game_day
+2002,56,Stetson Hatters,2001-12-22,-48.421725985253005,included_game_day
+2002,56,Stetson Hatters,2001-12-28,-55.3348715195221,included_game_day
+2002,56,Stetson Hatters,2002-01-02,-51.67354861572839,included_game_day
+2002,56,Stetson Hatters,2002-01-05,-72.41968717982124,included_game_day
+2002,56,Stetson Hatters,2002-01-07,-65.6460673305038,included_game_day
+2002,56,Stetson Hatters,2002-01-10,-71.02507573656294,included_game_day
+2002,56,Stetson Hatters,2002-01-12,-81.67616758319623,included_game_day
+2002,56,Stetson Hatters,2002-01-17,-102.18558662017297,included_game_day
+2002,56,Stetson Hatters,2002-01-19,-101.5736300599393,included_game_day
+2002,56,Stetson Hatters,2002-01-22,-81.83667360601461,included_game_day
+2002,56,Stetson Hatters,2002-01-26,-72.36270178967972,included_game_day
+2002,56,Stetson Hatters,2002-01-28,-70.47104959113017,included_game_day
+2002,56,Stetson Hatters,2002-02-02,-73.81067957978381,included_game_day
+2002,56,Stetson Hatters,2002-02-04,-81.47635939872083,included_game_day
+2002,56,Stetson Hatters,2002-02-07,-84.44400955623881,included_game_day
+2002,56,Stetson Hatters,2002-02-09,-82.1146325740941,included_game_day
+2002,56,Stetson Hatters,2002-02-14,-74.84890289208842,included_game_day
+2002,56,Stetson Hatters,2002-02-21,-80.045519051288,included_game_day
+2002,56,Stetson Hatters,2002-02-23,-81.56330596595502,included_game_day
+2003,56,Stetson Hatters,2002-11-24,-27.5,included_game_day
+2003,56,Stetson Hatters,2002-11-26,-52.25,included_game_day
+2003,56,Stetson Hatters,2002-11-30,-57.725,included_game_day
+2003,56,Stetson Hatters,2002-12-02,-67.1055,included_game_day
+2003,56,Stetson Hatters,2002-12-07,-74.98205,included_game_day
+2003,56,Stetson Hatters,2002-12-15,-70.386196946,included_game_day
+2003,56,Stetson Hatters,2002-12-18,-69.65948704819999,included_game_day
+2003,56,Stetson Hatters,2002-12-28,-76.38046817627,included_game_day
+2003,56,Stetson Hatters,2002-12-29,-69.78936309663194,included_game_day
+2003,56,Stetson Hatters,2003-01-04,-80.75311359850072,included_game_day
+2003,56,Stetson Hatters,2003-01-06,-77.83593726974324,included_game_day
+2003,56,Stetson Hatters,2003-01-10,-83.50282810152197,included_game_day
+2003,56,Stetson Hatters,2003-01-13,-82.82251495708721,included_game_day
+2003,56,Stetson Hatters,2003-01-18,-82.00913455069082,included_game_day
+2003,56,Stetson Hatters,2003-01-20,-84.80577314580925,included_game_day
+2003,56,Stetson Hatters,2003-01-23,-70.5382056932265,included_game_day
+2003,56,Stetson Hatters,2003-01-25,-65.46986735183393,included_game_day
+2003,56,Stetson Hatters,2003-01-31,-69.36168508982708,included_game_day
+2003,56,Stetson Hatters,2003-02-06,-69.15771143944114,included_game_day
+2003,56,Stetson Hatters,2003-02-08,-49.7943263592738,included_game_day
+2003,56,Stetson Hatters,2003-02-13,-48.36578855890018,included_game_day
+2003,56,Stetson Hatters,2003-02-15,-50.78792572003599,included_game_day
+2003,56,Stetson Hatters,2003-02-17,-76.03667175185555,included_game_day
+2003,56,Stetson Hatters,2003-02-22,-82.76352236176746,included_game_day
+2003,56,Stetson Hatters,2003-02-27,-112.42694285623882,included_game_day
+2003,56,Stetson Hatters,2003-03-01,-111.83276950864315,included_game_day
+2004,56,Stetson Hatters,2003-12-02,-17.4385,included_game_day
+2004,56,Stetson Hatters,2003-12-06,-18.460680000000004,included_game_day
+2004,56,Stetson Hatters,2003-12-15,-32.440326,included_game_day
+2004,56,Stetson Hatters,2003-12-20,-41.9965309745,included_game_day
+2004,56,Stetson Hatters,2003-12-30,-46.394418210693004,included_game_day
+2004,56,Stetson Hatters,2004-01-03,-54.06766723838251,included_game_day
+2004,56,Stetson Hatters,2004-01-05,-60.845109646640694,included_game_day
+2004,56,Stetson Hatters,2004-01-09,-68.42771135600054,included_game_day
+2004,56,Stetson Hatters,2004-01-11,-61.860119658627845,included_game_day
+2004,56,Stetson Hatters,2004-01-14,-61.32941244096382,included_game_day
+2004,56,Stetson Hatters,2004-01-17,-53.89585319657921,included_game_day
+2004,56,Stetson Hatters,2004-01-19,-44.62467316711605,included_game_day
+2004,56,Stetson Hatters,2004-01-22,-41.68714960843858,included_game_day
+2004,56,Stetson Hatters,2004-01-24,-67.98780013810885,included_game_day
+2004,56,Stetson Hatters,2004-01-27,-71.85607804266488,included_game_day
+2004,56,Stetson Hatters,2004-01-30,-80.7760629651113,included_game_day
+2004,56,Stetson Hatters,2004-02-01,-67.00847930410026,included_game_day
+2004,56,Stetson Hatters,2004-02-05,-75.79391608800711,included_game_day
+2004,56,Stetson Hatters,2004-02-07,-65.05178112016557,included_game_day
+2004,56,Stetson Hatters,2004-02-12,-52.950158657832134,included_game_day
+2004,56,Stetson Hatters,2004-02-14,-61.54626184075098,included_game_day
+2004,56,Stetson Hatters,2004-02-19,-76.49402211682441,included_game_day
+2004,56,Stetson Hatters,2004-02-21,-78.99093404657484,included_game_day
+2004,56,Stetson Hatters,2004-02-29,-64.74791490262132,included_game_day
+2004,56,Stetson Hatters,2004-03-04,-59.946446634761855,included_game_day
+2005,56,Stetson Hatters,2004-11-26,-24.47,included_game_day
+2005,56,Stetson Hatters,2004-12-02,-39.54585,included_game_day
+2005,56,Stetson Hatters,2004-12-04,-31.154037000000002,included_game_day
+2005,56,Stetson Hatters,2004-12-08,-56.54210500400001,included_game_day
+2005,56,Stetson Hatters,2004-12-18,-74.861152732069,included_game_day
+2005,56,Stetson Hatters,2004-12-23,-67.99832857796156,included_game_day
+2005,56,Stetson Hatters,2004-12-28,-91.8208325509177,included_game_day
+2005,56,Stetson Hatters,2004-12-31,-75.7144773233448,included_game_day
+2005,56,Stetson Hatters,2005-01-03,-67.3667784373876,included_game_day
+2005,56,Stetson Hatters,2005-01-07,-74.99886143006935,included_game_day
+2005,56,Stetson Hatters,2005-01-09,-81.41687489795008,included_game_day
+2005,56,Stetson Hatters,2005-01-11,-75.8756506897993,included_game_day
+2005,56,Stetson Hatters,2005-01-15,-69.99308451888123,included_game_day
+2005,56,Stetson Hatters,2005-01-17,-66.10225101484804,included_game_day
+2005,56,Stetson Hatters,2005-01-20,-70.46733928067795,included_game_day
+2005,56,Stetson Hatters,2005-01-22,-53.93736758448076,included_game_day
+2005,56,Stetson Hatters,2005-01-26,-72.76148124444973,included_game_day
+2005,56,Stetson Hatters,2005-01-29,-59.32180942492373,included_game_day
+2005,56,Stetson Hatters,2005-01-31,-52.98140804384367,included_game_day
+2005,56,Stetson Hatters,2005-02-03,-47.92405764543918,included_game_day
+2005,56,Stetson Hatters,2005-02-05,-44.68489120635002,included_game_day
+2005,56,Stetson Hatters,2005-02-10,-54.99989878735411,included_game_day
+2005,56,Stetson Hatters,2005-02-12,-58.384512186238176,included_game_day
+2005,56,Stetson Hatters,2005-02-20,-60.69317375594399,included_game_day
+2005,56,Stetson Hatters,2005-02-25,-55.7974677406556,included_game_day
+2005,56,Stetson Hatters,2005-02-27,-72.4014286144729,included_game_day
+2006,56,Stetson Hatters,2005-11-18,-27.0,included_game_day
+2006,56,Stetson Hatters,2005-11-19,-22.6,included_game_day
+2006,56,Stetson Hatters,2005-11-20,-34.5,included_game_day
+2006,56,Stetson Hatters,2005-11-26,-36.05,included_game_day
+2006,56,Stetson Hatters,2005-12-01,-45.791520999999996,included_game_day
+2006,56,Stetson Hatters,2005-12-03,-40.910058899999996,included_game_day
+2006,56,Stetson Hatters,2005-12-06,-64.78150815999999,included_game_day
+2006,56,Stetson Hatters,2005-12-17,-69.207952502898,included_game_day
+2006,56,Stetson Hatters,2005-12-20,-69.14082740048619,included_game_day
+2006,56,Stetson Hatters,2005-12-27,-61.91053496179675,included_game_day
+2006,56,Stetson Hatters,2006-01-02,-51.96222276717962,included_game_day
+2006,56,Stetson Hatters,2006-01-05,-46.442817427809274,included_game_day
+2006,56,Stetson Hatters,2006-01-09,-56.772115290137826,included_game_day
+2006,56,Stetson Hatters,2006-01-14,-56.36622656301982,included_game_day
+2006,56,Stetson Hatters,2006-01-16,-52.76379075377294,included_game_day
+2006,56,Stetson Hatters,2006-01-19,-58.41166595859464,included_game_day
+2006,56,Stetson Hatters,2006-01-21,-73.37175625548812,included_game_day
+2006,56,Stetson Hatters,2006-01-24,-82.40458210995725,included_game_day
+2006,56,Stetson Hatters,2006-01-28,-62.21922224104314,included_game_day
+2006,56,Stetson Hatters,2006-01-30,-46.09368003105497,included_game_day
+2006,56,Stetson Hatters,2006-02-02,-60.78717738653748,included_game_day
+2006,56,Stetson Hatters,2006-02-04,-62.20985912288707,included_game_day
+2006,56,Stetson Hatters,2006-02-06,-37.8708707364556,included_game_day
+2006,56,Stetson Hatters,2006-02-10,-38.61861716534303,included_game_day
+2006,56,Stetson Hatters,2006-02-12,-33.02376089945269,included_game_day
+2006,56,Stetson Hatters,2006-02-15,-42.70871586814741,included_game_day
+2006,56,Stetson Hatters,2006-02-17,-42.59779624950278,included_game_day
+2006,56,Stetson Hatters,2006-02-19,-34.16727643032126,included_game_day
+2006,56,Stetson Hatters,2006-02-23,-36.71102424311324,included_game_day
+2006,56,Stetson Hatters,2006-02-25,-24.308094689839205,included_game_day
+2006,56,Stetson Hatters,2006-03-02,-9.098490058053116,included_game_day
+2006,56,Stetson Hatters,2006-03-03,-13.152474283404162,included_game_day
+2007,56,Stetson Hatters,2006-11-10,-15.0,included_game_day
+2007,56,Stetson Hatters,2006-11-11,-15.3,included_game_day
+2007,56,Stetson Hatters,2006-11-12,-29.4,included_game_day
+2007,56,Stetson Hatters,2006-11-18,-36.46,included_game_day
+2007,56,Stetson Hatters,2006-11-27,-30.529,included_game_day
+2007,56,Stetson Hatters,2006-11-30,-30.794968,included_game_day
+2007,56,Stetson Hatters,2006-12-02,-46.55090624,included_game_day
+2007,56,Stetson Hatters,2006-12-05,-60.4495922162,included_game_day
+2007,56,Stetson Hatters,2006-12-16,-71.87538316607971,included_game_day
+2007,56,Stetson Hatters,2006-12-20,-65.41266462173374,included_game_day
+2007,56,Stetson Hatters,2006-12-23,-54.06808175822691,included_game_day
+2007,56,Stetson Hatters,2007-01-02,-71.70800735328982,included_game_day
+2007,56,Stetson Hatters,2007-01-07,-73.75277747373396,included_game_day
+2007,56,Stetson Hatters,2007-01-09,-60.05118214787963,included_game_day
+2007,56,Stetson Hatters,2007-01-13,-82.71594623165578,included_game_day
+2007,56,Stetson Hatters,2007-01-15,-74.40821769765499,included_game_day
+2007,56,Stetson Hatters,2007-01-18,-78.17560045478794,included_game_day
+2007,56,Stetson Hatters,2007-01-20,-75.543072924823,included_game_day
+2007,56,Stetson Hatters,2007-01-26,-88.82845093614023,included_game_day
+2007,56,Stetson Hatters,2007-02-01,-85.31969519921809,included_game_day
+2007,56,Stetson Hatters,2007-02-03,-76.90462965102185,included_game_day
+2007,56,Stetson Hatters,2007-02-08,-96.69954329186285,included_game_day
+2007,56,Stetson Hatters,2007-02-10,-115.50969694014036,included_game_day
+2007,56,Stetson Hatters,2007-02-13,-105.05089224722254,included_game_day
+2007,56,Stetson Hatters,2007-02-15,-102.12598791841792,included_game_day
+2007,56,Stetson Hatters,2007-02-18,-93.23978980984974,included_game_day
+2007,56,Stetson Hatters,2007-02-22,-114.32705856451076,included_game_day
+2007,56,Stetson Hatters,2007-02-24,-106.36319823413561,included_game_day
+2007,56,Stetson Hatters,2007-03-01,-104.3198230219326,included_game_day
+2008,56,Stetson Hatters,2007-11-13,-34.4,included_game_day
+2008,56,Stetson Hatters,2007-11-16,-39.62,included_game_day
+2008,56,Stetson Hatters,2007-11-17,-46.267799999999994,included_game_day
+2008,56,Stetson Hatters,2007-11-18,-55.37922,included_game_day
+2008,56,Stetson Hatters,2007-11-21,-44.681298,included_game_day
+2008,56,Stetson Hatters,2007-11-27,-50.26480762,included_game_day
+2008,56,Stetson Hatters,2007-11-30,-46.27615016,included_game_day
+2008,56,Stetson Hatters,2007-12-03,-45.753737668,included_game_day
+2008,56,Stetson Hatters,2007-12-17,-67.0873060469718,included_game_day
+2008,56,Stetson Hatters,2007-12-20,-58.40223262226433,included_game_day
+2008,56,Stetson Hatters,2007-12-29,-64.52869298833087,included_game_day
+2008,56,Stetson Hatters,2007-12-31,-61.634794119182295,included_game_day
+2008,56,Stetson Hatters,2008-01-03,-61.19532582065206,included_game_day
+2008,56,Stetson Hatters,2008-01-05,-62.082745099676686,included_game_day
+2008,56,Stetson Hatters,2008-01-11,-50.26116693533241,included_game_day
+2008,56,Stetson Hatters,2008-01-17,-46.105706242176566,included_game_day
+2008,56,Stetson Hatters,2008-01-21,-49.285533634817014,included_game_day
+2008,56,Stetson Hatters,2008-01-24,-51.156718876023554,included_game_day
+2008,56,Stetson Hatters,2008-01-26,-41.647394021204455,included_game_day
+2008,56,Stetson Hatters,2008-01-31,-48.42394991207679,included_game_day
+2008,56,Stetson Hatters,2008-02-02,-66.98507084436699,included_game_day
+2008,56,Stetson Hatters,2008-02-08,-61.194840031552246,included_game_day
+2008,56,Stetson Hatters,2008-02-10,-45.705784894721305,included_game_day
+2008,56,Stetson Hatters,2008-02-14,-57.237391768606315,included_game_day
+2008,56,Stetson Hatters,2008-02-16,-53.40360022625471,included_game_day
+2008,56,Stetson Hatters,2008-02-19,-64.77043025094441,included_game_day
+2008,56,Stetson Hatters,2008-02-23,-69.34032687624159,included_game_day
+2008,56,Stetson Hatters,2008-02-28,-62.368071410847385,included_game_day
+2008,56,Stetson Hatters,2008-03-01,-44.59499590646551,included_game_day
+2008,56,Stetson Hatters,2008-03-06,-58.21693464313274,included_game_day
+2009,56,Stetson Hatters,2008-11-14,-27.0,included_game_day
+2009,56,Stetson Hatters,2008-11-18,-21.3,included_game_day
+2009,56,Stetson Hatters,2008-11-20,-17.020000000000003,included_game_day
+2009,56,Stetson Hatters,2008-11-29,-22.173837600000002,included_game_day
+2009,56,Stetson Hatters,2008-12-04,-22.841604600000004,included_game_day
+2009,56,Stetson Hatters,2008-12-15,-18.293971798383005,included_game_day
+2009,56,Stetson Hatters,2008-12-20,-35.42348151007471,included_game_day
+2009,56,Stetson Hatters,2008-12-30,-40.91616705283202,included_game_day
+2009,56,Stetson Hatters,2009-01-03,-55.057256386858434,included_game_day
+2009,56,Stetson Hatters,2009-01-05,-39.649054933785315,included_game_day
+2009,56,Stetson Hatters,2009-01-08,-47.12347794587048,included_game_day
+2009,56,Stetson Hatters,2009-01-10,-47.681790511613585,included_game_day
+2009,56,Stetson Hatters,2009-01-12,-48.98135344392576,included_game_day
+2009,56,Stetson Hatters,2009-01-16,-32.90463705487637,included_game_day
+2009,56,Stetson Hatters,2009-01-18,-31.906528200510728,included_game_day
+2009,56,Stetson Hatters,2009-01-23,-49.14780918490183,included_game_day
+2009,56,Stetson Hatters,2009-01-25,-63.44820532471225,included_game_day
+2009,56,Stetson Hatters,2009-01-31,-56.887256230617666,included_game_day
+2009,56,Stetson Hatters,2009-02-02,-40.468811692524056,included_game_day
+2009,56,Stetson Hatters,2009-02-07,-38.41180758546309,included_game_day
+2009,56,Stetson Hatters,2009-02-09,-25.824489635648842,included_game_day
+2009,56,Stetson Hatters,2009-02-12,-21.366952607509205,included_game_day
+2009,56,Stetson Hatters,2009-02-14,-15.692110607190987,included_game_day
+2009,56,Stetson Hatters,2009-02-16,-26.997504213740967,included_game_day
+2009,56,Stetson Hatters,2009-02-21,-44.19424698193483,included_game_day
+2009,56,Stetson Hatters,2009-02-23,-49.6960054406964,included_game_day
+2009,56,Stetson Hatters,2009-02-27,-59.899809782400325,included_game_day
+2009,56,Stetson Hatters,2009-03-04,-59.99906584135578,included_game_day
+2010,56,Stetson Hatters,2009-11-15,-25.0,included_game_day
+2010,56,Stetson Hatters,2009-11-18,-59.2,included_game_day
+2010,56,Stetson Hatters,2009-11-21,-69.03,included_game_day
+2010,56,Stetson Hatters,2009-11-30,-86.23384708,included_game_day
+2010,56,Stetson Hatters,2009-12-02,-100.622240942,included_game_day
+2010,56,Stetson Hatters,2009-12-16,-103.019329990661,included_game_day
+2010,56,Stetson Hatters,2009-12-21,-108.77134861622616,included_game_day
+2010,56,Stetson Hatters,2009-12-29,-96.9881257838382,included_game_day
+2010,56,Stetson Hatters,2010-01-02,-107.6450443286365,included_game_day
+2010,56,Stetson Hatters,2010-01-04,-106.93673656514363,included_game_day
+2010,56,Stetson Hatters,2010-01-08,-109.17358784792893,included_game_day
+2010,56,Stetson Hatters,2010-01-10,-114.052928245035,included_game_day
+2010,56,Stetson Hatters,2010-01-14,-95.93988529144931,included_game_day
+2010,56,Stetson Hatters,2010-01-16,-107.82101365750816,included_game_day
+2010,56,Stetson Hatters,2010-01-22,-95.14293280747532,included_game_day
+2010,56,Stetson Hatters,2010-01-24,-112.51922935476861,included_game_day
+2010,56,Stetson Hatters,2010-01-27,-118.13250289705172,included_game_day
+2010,56,Stetson Hatters,2010-01-30,-141.8185311530307,included_game_day
+2010,56,Stetson Hatters,2010-02-01,-140.9393609432984,included_game_day
+2010,56,Stetson Hatters,2010-02-04,-149.7461835200136,included_game_day
+2010,56,Stetson Hatters,2010-02-06,-151.63474850102935,included_game_day
+2010,56,Stetson Hatters,2010-02-11,-127.63345363923253,included_game_day
+2010,56,Stetson Hatters,2010-02-13,-125.21109293711096,included_game_day
+2010,56,Stetson Hatters,2010-02-15,-138.53490785796345,included_game_day
+2010,56,Stetson Hatters,2010-02-18,-131.9587162904309,included_game_day
+2010,56,Stetson Hatters,2010-02-20,-133.0367145417156,included_game_day
+2010,56,Stetson Hatters,2010-02-27,-123.89567534742835,included_game_day
+2011,56,Stetson Hatters,2010-11-12,13.0,included_game_day
+2011,56,Stetson Hatters,2010-11-16,2.6999999999999993,included_game_day
+2011,56,Stetson Hatters,2010-11-23,-24.156000000000002,included_game_day
+2011,56,Stetson Hatters,2010-11-30,-22.481589000000003,included_game_day
+2011,56,Stetson Hatters,2010-12-02,-23.672774100000005,included_game_day
+2011,56,Stetson Hatters,2010-12-04,-11.497551090000005,included_game_day
+2011,56,Stetson Hatters,2010-12-12,-16.861108911000002,included_game_day
+2011,56,Stetson Hatters,2010-12-15,-38.713620878145,included_game_day
+2011,56,Stetson Hatters,2010-12-21,-37.6592362614805,included_game_day
+2011,56,Stetson Hatters,2010-12-22,-50.80657858553295,included_game_day
+2011,56,Stetson Hatters,2010-12-23,-75.59861346092555,included_game_day
+2011,56,Stetson Hatters,2011-01-03,-60.72633944683736,included_game_day
+2011,56,Stetson Hatters,2011-01-05,-63.807360806873355,included_game_day
+2011,56,Stetson Hatters,2011-01-08,-60.239752997205485,included_game_day
+2011,56,Stetson Hatters,2011-01-10,-69.78279041114034,included_game_day
+2011,56,Stetson Hatters,2011-01-14,-62.4413738898848,included_game_day
+2011,56,Stetson Hatters,2011-01-16,-68.50400807748844,included_game_day
+2011,56,Stetson Hatters,2011-01-18,-65.82729694195174,included_game_day
+2011,56,Stetson Hatters,2011-01-22,-90.84007351671049,included_game_day
+2011,56,Stetson Hatters,2011-01-25,-103.06524806567337,included_game_day
+2011,56,Stetson Hatters,2011-01-28,-107.14171121690954,included_game_day
+2011,56,Stetson Hatters,2011-01-30,-97.12930475383794,included_game_day
+2011,56,Stetson Hatters,2011-02-04,-113.57523221245218,included_game_day
+2011,56,Stetson Hatters,2011-02-06,-100.81610648588762,included_game_day
+2011,56,Stetson Hatters,2011-02-10,-99.72081217750497,included_game_day
+2011,56,Stetson Hatters,2011-02-12,-99.77470115688851,included_game_day
+2011,56,Stetson Hatters,2011-02-17,-102.95613460014546,included_game_day
+2011,56,Stetson Hatters,2011-02-21,-100.59770378071754,included_game_day
+2011,56,Stetson Hatters,2011-02-24,-100.71919526034237,included_game_day
+2011,56,Stetson Hatters,2011-02-26,-85.19579125726511,included_game_day
+2012,56,Stetson Hatters,2011-11-11,2.0,included_game_day
+2012,56,Stetson Hatters,2011-11-14,19.8,included_game_day
+2012,56,Stetson Hatters,2011-11-16,10.63,included_game_day
+2012,56,Stetson Hatters,2011-11-21,0.8870000000000005,included_game_day
+2012,56,Stetson Hatters,2011-11-28,-14.982101,included_game_day
+2012,56,Stetson Hatters,2011-12-01,-7.9852698,included_game_day
+2012,56,Stetson Hatters,2011-12-04,-27.742862730000002,included_game_day
+2012,56,Stetson Hatters,2011-12-17,-45.01129527362676,included_game_day
+2012,56,Stetson Hatters,2011-12-21,-49.04662049271038,included_game_day
+2012,56,Stetson Hatters,2011-12-29,-49.44678701612209,included_game_day
+2012,56,Stetson Hatters,2011-12-30,-48.60535136334335,included_game_day
+2012,56,Stetson Hatters,2012-01-02,-46.309191371773814,included_game_day
+2012,56,Stetson Hatters,2012-01-04,-50.16285718074,included_game_day
+2012,56,Stetson Hatters,2012-01-07,-43.33076755159059,included_game_day
+2012,56,Stetson Hatters,2012-01-09,-39.34225666013529,included_game_day
+2012,56,Stetson Hatters,2012-01-14,-38.77722308626386,included_game_day
+2012,56,Stetson Hatters,2012-01-16,-34.97472148025843,included_game_day
+2012,56,Stetson Hatters,2012-01-20,-45.656525134223145,included_game_day
+2012,56,Stetson Hatters,2012-01-23,-70.59538331213889,included_game_day
+2012,56,Stetson Hatters,2012-01-28,-72.56652210368263,included_game_day
+2012,56,Stetson Hatters,2012-01-30,-64.34568609777321,included_game_day
+2012,56,Stetson Hatters,2012-02-04,-58.755955810542346,included_game_day
+2012,56,Stetson Hatters,2012-02-06,-67.74648518012884,included_game_day
+2012,56,Stetson Hatters,2012-02-11,-75.8339865779282,included_game_day
+2012,56,Stetson Hatters,2012-02-13,-69.73952088496031,included_game_day
+2012,56,Stetson Hatters,2012-02-17,-53.41438958292534,included_game_day
+2012,56,Stetson Hatters,2012-02-23,-60.90307917363083,included_game_day
+2012,56,Stetson Hatters,2012-02-25,-66.61514689622369,included_game_day
+2013,56,Stetson Hatters,2012-11-09,-5.0,included_game_day
+2013,56,Stetson Hatters,2012-11-13,14.3,included_game_day
+2013,56,Stetson Hatters,2012-11-26,3.0086900000000014,included_game_day
+2013,56,Stetson Hatters,2012-11-28,-25.60940423,included_game_day
+2013,56,Stetson Hatters,2012-12-03,-45.2933737333,included_game_day
+2013,56,Stetson Hatters,2012-12-06,-56.97620506397,included_game_day
+2013,56,Stetson Hatters,2012-12-09,-57.551242061573,included_game_day
+2013,56,Stetson Hatters,2012-12-15,-62.6723329603527,included_game_day
+2013,56,Stetson Hatters,2012-12-18,-55.96658749251413,included_game_day
+2013,56,Stetson Hatters,2012-12-20,-64.64648672505989,included_game_day
+2013,56,Stetson Hatters,2012-12-31,-61.52683484417679,included_game_day
+2013,56,Stetson Hatters,2013-01-02,-50.821494663233295,included_game_day
+2013,56,Stetson Hatters,2013-01-05,-67.51929102794284,included_game_day
+2013,56,Stetson Hatters,2013-01-07,-62.476585625187184,included_game_day
+2013,56,Stetson Hatters,2013-01-10,-61.916752919061075,included_game_day
+2013,56,Stetson Hatters,2013-01-12,-48.01861144957324,included_game_day
+2013,56,Stetson Hatters,2013-01-17,-37.18617732168751,included_game_day
+2013,56,Stetson Hatters,2013-01-19,-29.471357158313086,included_game_day
+2013,56,Stetson Hatters,2013-01-25,-55.78910785510964,included_game_day
+2013,56,Stetson Hatters,2013-01-31,-53.928105792647855,included_game_day
+2013,56,Stetson Hatters,2013-02-02,-57.36397029992262,included_game_day
+2013,56,Stetson Hatters,2013-02-07,-47.121457932391706,included_game_day
+2013,56,Stetson Hatters,2013-02-09,-55.40039913044499,included_game_day
+2013,56,Stetson Hatters,2013-02-14,-43.62441619863137,included_game_day
+2013,56,Stetson Hatters,2013-02-16,-24.517385848425015,included_game_day
+2013,56,Stetson Hatters,2013-02-22,-12.949136533832885,included_game_day
+2013,56,Stetson Hatters,2013-02-28,-14.377596704891637,included_game_day
+2013,56,Stetson Hatters,2013-03-02,-23.514307941874797,included_game_day
+2013,56,Stetson Hatters,2013-03-07,-12.124642257524037,included_game_day
+2013,56,Stetson Hatters,2013-03-08,-22.506978319800865,included_game_day
+2014,56,Stetson Hatters,2013-11-08,-17.0,included_game_day
+2014,56,Stetson Hatters,2013-11-10,-42.4,included_game_day
+2014,56,Stetson Hatters,2013-11-14,-40.01,included_game_day
+2014,56,Stetson Hatters,2013-11-18,-43.0113,included_game_day
+2014,56,Stetson Hatters,2013-11-22,-40.37317,included_game_day
+2014,56,Stetson Hatters,2013-11-25,-53.539408,included_game_day
+2014,56,Stetson Hatters,2013-11-26,-69.1366172,included_game_day
+2014,56,Stetson Hatters,2013-11-27,-73.15525998,included_game_day
+2014,56,Stetson Hatters,2013-11-30,-81.124378782,included_game_day
+2014,56,Stetson Hatters,2013-12-03,-79.02518945279999,included_game_day
+2014,56,Stetson Hatters,2013-12-07,-88.51331384951999,included_game_day
+2014,56,Stetson Hatters,2013-12-17,-84.28770640560015,included_game_day
+2014,56,Stetson Hatters,2013-12-30,-79.3803817901484,included_game_day
+2014,56,Stetson Hatters,2014-01-01,-81.13715888338858,included_game_day
+2014,56,Stetson Hatters,2014-01-05,-89.83459446541143,included_game_day
+2014,56,Stetson Hatters,2014-01-09,-100.34689846650403,included_game_day
+2014,56,Stetson Hatters,2014-01-11,-105.55620854469896,included_game_day
+2014,56,Stetson Hatters,2014-01-16,-93.95791090228943,included_game_day
+2014,56,Stetson Hatters,2014-01-18,-85.17854241903564,included_game_day
+2014,56,Stetson Hatters,2014-01-23,-83.85519575735954,included_game_day
+2014,56,Stetson Hatters,2014-01-25,-102.4972622777926,included_game_day
+2014,56,Stetson Hatters,2014-01-31,-90.35173189218916,included_game_day
+2014,56,Stetson Hatters,2014-02-06,-92.14362507772576,included_game_day
+2014,56,Stetson Hatters,2014-02-08,-89.34439313150786,included_game_day
+2014,56,Stetson Hatters,2014-02-15,-106.98908832325536,included_game_day
+2014,56,Stetson Hatters,2014-02-17,-109.21168398680058,included_game_day
+2014,56,Stetson Hatters,2014-02-21,-118.43077066486684,included_game_day
+2014,56,Stetson Hatters,2014-02-23,-124.35537407560456,included_game_day
+2014,56,Stetson Hatters,2014-02-27,-157.14623972010716,included_game_day
+2014,56,Stetson Hatters,2014-03-01,-149.8267582420418,included_game_day
+2014,56,Stetson Hatters,2014-03-04,-151.257850924758,included_game_day
+2015,56,Stetson Hatters,2014-11-16,-6.0,included_game_day
+2015,56,Stetson Hatters,2014-11-18,-9.4,included_game_day
+2015,56,Stetson Hatters,2014-11-24,-25.334600000000002,included_game_day
+2015,56,Stetson Hatters,2014-11-26,-40.205132000000006,included_game_day
+2015,56,Stetson Hatters,2014-11-28,-55.650618800000004,included_game_day
+2015,56,Stetson Hatters,2014-11-29,-49.79960612,included_game_day
+2015,56,Stetson Hatters,2014-12-03,-57.964863508,included_game_day
+2015,56,Stetson Hatters,2014-12-06,-74.1025480472,included_game_day
+2015,56,Stetson Hatters,2014-12-16,-74.33680636925601,included_game_day
+2015,56,Stetson Hatters,2014-12-18,-77.93799896543041,included_game_day
+2015,56,Stetson Hatters,2014-12-22,-68.25016498001168,included_game_day
+2015,56,Stetson Hatters,2015-01-03,-76.04583300626393,included_game_day
+2015,56,Stetson Hatters,2015-01-10,-88.50286571370361,included_game_day
+2015,56,Stetson Hatters,2015-01-14,-89.05837442997795,included_game_day
+2015,56,Stetson Hatters,2015-01-17,-96.33395278096641,included_game_day
+2015,56,Stetson Hatters,2015-01-22,-101.05376667179078,included_game_day
+2015,56,Stetson Hatters,2015-01-24,-112.33093177793714,included_game_day
+2015,56,Stetson Hatters,2015-01-29,-97.74397785737928,included_game_day
+2015,56,Stetson Hatters,2015-01-31,-94.58584100284644,included_game_day
+2015,56,Stetson Hatters,2015-02-03,-84.8277623260934,included_game_day
+2015,56,Stetson Hatters,2015-02-07,-93.737970790736,included_game_day
+2015,56,Stetson Hatters,2015-02-12,-90.61672599878366,included_game_day
+2015,56,Stetson Hatters,2015-02-14,-107.63998606972598,included_game_day
+2015,56,Stetson Hatters,2015-02-19,-117.8022520473794,included_game_day
+2015,56,Stetson Hatters,2015-02-21,-124.47758159771294,included_game_day
+2015,56,Stetson Hatters,2015-02-25,-121.69367020641293,included_game_day
+2015,56,Stetson Hatters,2015-02-28,-116.2407730459042,included_game_day
+2015,56,Stetson Hatters,2015-03-03,-110.87845531749723,included_game_day
+2016,56,Stetson Hatters,2015-11-15,-21.5,included_game_day
+2016,56,Stetson Hatters,2015-11-17,-24.35,included_game_day
+2016,56,Stetson Hatters,2015-11-26,-14.63193,included_game_day
+2016,56,Stetson Hatters,2015-11-27,-34.743037,included_game_day
+2016,56,Stetson Hatters,2015-11-30,-21.9875833,included_game_day
+2016,56,Stetson Hatters,2015-12-02,-31.32317597,included_game_day
+2016,56,Stetson Hatters,2015-12-05,-44.615698573,included_game_day
+2016,56,Stetson Hatters,2015-12-14,-44.385067031430005,included_game_day
+2016,56,Stetson Hatters,2015-12-19,-43.22037828013001,included_game_day
+2016,56,Stetson Hatters,2015-12-22,-60.93367335729181,included_game_day
+2016,56,Stetson Hatters,2016-01-06,-75.02218119500544,included_game_day
+2016,56,Stetson Hatters,2016-01-09,-95.22805256027121,included_game_day
+2016,56,Stetson Hatters,2016-01-14,-92.86610912581675,included_game_day
+2016,56,Stetson Hatters,2016-01-16,-101.09202107935579,included_game_day
+2016,56,Stetson Hatters,2016-01-21,-100.09179062506014,included_game_day
+2016,56,Stetson Hatters,2016-01-23,-89.53501427867727,included_game_day
+2016,56,Stetson Hatters,2016-01-27,-88.68979900309915,included_game_day
+2016,56,Stetson Hatters,2016-01-30,-95.7588641225438,included_game_day
+2016,56,Stetson Hatters,2016-02-01,-74.79890047329269,included_game_day
+2016,56,Stetson Hatters,2016-02-06,-81.40058785991303,included_game_day
+2016,56,Stetson Hatters,2016-02-11,-74.61174503677903,included_game_day
+2016,56,Stetson Hatters,2016-02-13,-77.9530529189533,included_game_day
+2016,56,Stetson Hatters,2016-02-18,-88.06018555099826,included_game_day
+2016,56,Stetson Hatters,2016-02-20,-90.17241357401153,included_game_day
+2016,56,Stetson Hatters,2016-02-22,-93.58981382853266,included_game_day
+2016,56,Stetson Hatters,2016-02-25,-80.5258101778394,included_game_day
+2016,56,Stetson Hatters,2016-03-01,-57.18126530160011,included_game_day
+2016,56,Stetson Hatters,2016-03-03,-33.374696405349766,included_game_day
+2016,56,Stetson Hatters,2016-03-06,-26.165969276437536,included_game_day
+2017,56,Stetson Hatters,2016-11-14,12.0,included_game_day
+2017,56,Stetson Hatters,2016-11-18,2.8000000000000007,included_game_day
+2017,56,Stetson Hatters,2016-11-20,-16.698,included_game_day
+2017,56,Stetson Hatters,2016-11-22,-21.459200000000003,included_game_day
+2017,56,Stetson Hatters,2016-11-25,-39.60506,included_game_day
+2017,56,Stetson Hatters,2016-11-26,-32.37066,included_game_day
+2017,56,Stetson Hatters,2016-11-30,-56.146,included_game_day
+2017,56,Stetson Hatters,2016-12-05,-74.848203775,included_game_day
+2017,56,Stetson Hatters,2016-12-07,-59.863966929300005,included_game_day
+2017,56,Stetson Hatters,2016-12-10,-45.63236790637001,included_game_day
+2017,56,Stetson Hatters,2016-12-18,-57.91616345527301,included_game_day
+2017,56,Stetson Hatters,2016-12-22,-63.00183460031211,included_game_day
+2017,56,Stetson Hatters,2016-12-29,-72.53910393028298,included_game_day
+2017,56,Stetson Hatters,2017-01-07,-67.03427662746562,included_game_day
+2017,56,Stetson Hatters,2017-01-12,-84.25790087116434,included_game_day
+2017,56,Stetson Hatters,2017-01-14,-96.19097377931584,included_game_day
+2017,56,Stetson Hatters,2017-01-19,-86.40244320840951,included_game_day
+2017,56,Stetson Hatters,2017-01-21,-93.18117295878959,included_game_day
+2017,56,Stetson Hatters,2017-01-25,-97.60867358578805,included_game_day
+2017,56,Stetson Hatters,2017-01-28,-81.13677642526241,included_game_day
+2017,56,Stetson Hatters,2017-01-30,-85.50374803392648,included_game_day
+2017,56,Stetson Hatters,2017-02-01,-78.07338447667934,included_game_day
+2017,56,Stetson Hatters,2017-02-04,-105.49887998963578,included_game_day
+2017,56,Stetson Hatters,2017-02-09,-106.80547816892074,included_game_day
+2017,56,Stetson Hatters,2017-02-11,-106.41195615124285,included_game_day
+2017,56,Stetson Hatters,2017-02-16,-82.23642163093686,included_game_day
+2017,56,Stetson Hatters,2017-02-18,-82.51403973938002,included_game_day
+2017,56,Stetson Hatters,2017-02-23,-77.48211072150166,included_game_day
+2017,56,Stetson Hatters,2017-02-27,-93.45656750719897,included_game_day
+2018,56,Stetson Hatters,2017-11-12,9.0,included_game_day
+2018,56,Stetson Hatters,2017-11-15,0.4800000000000004,included_game_day
+2018,56,Stetson Hatters,2017-11-18,-11.888,included_game_day
+2018,56,Stetson Hatters,2017-11-22,-3.614320000000001,included_game_day
+2018,56,Stetson Hatters,2017-11-25,-36.646648,included_game_day
+2018,56,Stetson Hatters,2017-11-27,-20.0017012,included_game_day
+2018,56,Stetson Hatters,2017-11-30,-28.97495218,included_game_day
+2018,56,Stetson Hatters,2017-12-06,-38.3885951933,included_game_day
+2018,56,Stetson Hatters,2017-12-09,-33.192347098679996,included_game_day
+2018,56,Stetson Hatters,2017-12-16,-31.743215569681997,included_game_day
+2018,56,Stetson Hatters,2017-12-19,-49.5715289077297,included_game_day
+2018,56,Stetson Hatters,2017-12-29,-47.02143562172057,included_game_day
+2018,56,Stetson Hatters,2018-01-06,-77.92719753426714,included_game_day
+2018,56,Stetson Hatters,2018-01-11,-62.967473622428074,included_game_day
+2018,56,Stetson Hatters,2018-01-13,-53.705978983591166,included_game_day
+2018,56,Stetson Hatters,2018-01-15,-71.63297689520311,included_game_day
+2018,56,Stetson Hatters,2018-01-18,-86.97503389836277,included_game_day
+2018,56,Stetson Hatters,2018-01-20,-81.07190558283048,included_game_day
+2018,56,Stetson Hatters,2018-01-24,-85.16040284354894,included_game_day
+2018,56,Stetson Hatters,2018-01-27,-97.73585210975277,included_game_day
+2018,56,Stetson Hatters,2018-01-29,-98.91115158404953,included_game_day
+2018,56,Stetson Hatters,2018-02-03,-102.6951123295902,included_game_day
+2018,56,Stetson Hatters,2018-02-08,-117.20387429081583,included_game_day
+2018,56,Stetson Hatters,2018-02-10,-102.38404351582571,included_game_day
+2018,56,Stetson Hatters,2018-02-15,-106.87775084389342,included_game_day
+2018,56,Stetson Hatters,2018-02-17,-91.51029734645357,included_game_day
+2018,56,Stetson Hatters,2018-02-22,-98.53579351952796,included_game_day
+2018,56,Stetson Hatters,2018-02-26,-102.6117662094913,included_game_day
+2019,56,Stetson Hatters,2018-11-11,-6.29,included_game_day
+2019,56,Stetson Hatters,2018-11-14,-37.641,included_game_day
+2019,56,Stetson Hatters,2018-11-17,-49.9139,included_game_day
+2019,56,Stetson Hatters,2018-11-19,-59.72455,included_game_day
+2019,56,Stetson Hatters,2018-11-23,-67.922895,included_game_day
+2019,56,Stetson Hatters,2018-11-26,-74.3417735,included_game_day
+2019,56,Stetson Hatters,2018-11-28,-65.54399055,included_game_day
+2019,56,Stetson Hatters,2018-12-01,-108.173357045,included_game_day
+2019,56,Stetson Hatters,2018-12-05,-95.1366387233,included_game_day
+2019,56,Stetson Hatters,2018-12-08,-91.64401508997,included_game_day
+2019,56,Stetson Hatters,2018-12-16,-97.5946303384151,included_game_day
+2019,56,Stetson Hatters,2018-12-18,-98.82884193329159,included_game_day
+2019,56,Stetson Hatters,2018-12-21,-100.70507484499562,included_game_day
+2019,56,Stetson Hatters,2019-01-09,-104.80329523943087,included_game_day
+2019,56,Stetson Hatters,2019-01-12,-108.5790331351079,included_game_day
+2019,56,Stetson Hatters,2019-01-16,-112.29435746022988,included_game_day
+2019,56,Stetson Hatters,2019-01-19,-107.07180131538443,included_game_day
+2019,56,Stetson Hatters,2019-01-21,-122.77877960946634,included_game_day
+2019,56,Stetson Hatters,2019-01-24,-136.49038080103227,included_game_day
+2019,56,Stetson Hatters,2019-01-27,-141.0516715494541,included_game_day
+2019,56,Stetson Hatters,2019-01-30,-141.99017758665013,included_game_day
+2019,56,Stetson Hatters,2019-02-02,-126.91023539322187,included_game_day
+2019,56,Stetson Hatters,2019-02-05,-107.28728051700932,included_game_day
+2019,56,Stetson Hatters,2019-02-13,-125.9797384886481,included_game_day
+2019,56,Stetson Hatters,2019-02-16,-107.40763889283377,included_game_day
+2019,56,Stetson Hatters,2019-02-20,-100.96737152856832,included_game_day
+2019,56,Stetson Hatters,2019-02-23,-99.02540431706005,included_game_day
+2019,56,Stetson Hatters,2019-02-26,-98.44943045241347,included_game_day
+2019,56,Stetson Hatters,2019-03-01,-101.84240563011244,included_game_day
+2020,56,Stetson Hatters,2019-11-09,2.0,included_game_day
+2020,56,Stetson Hatters,2019-11-16,-20.927,included_game_day
+2020,56,Stetson Hatters,2019-11-18,-46.259699999999995,included_game_day
+2020,56,Stetson Hatters,2019-11-22,-47.95372999999999,included_game_day
+2020,56,Stetson Hatters,2019-11-23,-39.574256999999996,included_game_day
+2020,56,Stetson Hatters,2019-11-24,-42.9837363,included_game_day
+2020,56,Stetson Hatters,2019-11-30,-58.82746007,included_game_day
+2020,56,Stetson Hatters,2019-12-03,-52.236616273,included_game_day
+2020,56,Stetson Hatters,2019-12-07,-73.9573141757,included_game_day
+2020,56,Stetson Hatters,2019-12-15,-77.556086656583,included_game_day
+2020,56,Stetson Hatters,2019-12-17,-68.1812958438709,included_game_day
+2020,56,Stetson Hatters,2019-12-22,-78.1424752635918,included_game_day
+2020,56,Stetson Hatters,2019-12-30,-56.40278655732044,included_game_day
+2020,56,Stetson Hatters,2020-01-02,-59.73085485302504,included_game_day
+2020,56,Stetson Hatters,2020-01-04,-63.054644714010976,included_game_day
+2020,56,Stetson Hatters,2020-01-11,-72.36676693726234,included_game_day
+2020,56,Stetson Hatters,2020-01-16,-60.53075458773309,included_game_day
+2020,56,Stetson Hatters,2020-01-18,-49.433334031673326,included_game_day
+2020,56,Stetson Hatters,2020-01-23,-50.72833161664953,included_game_day
+2020,56,Stetson Hatters,2020-01-25,-36.20473146484582,included_game_day
+2020,56,Stetson Hatters,2020-01-30,-43.993073883922726,included_game_day
+2020,56,Stetson Hatters,2020-02-01,-39.49197795058307,included_game_day
+2020,56,Stetson Hatters,2020-02-06,-35.309018272501554,included_game_day
+2020,56,Stetson Hatters,2020-02-13,-28.34404387420078,included_game_day
+2020,56,Stetson Hatters,2020-02-15,-32.10337635554154,included_game_day
+2020,56,Stetson Hatters,2020-02-20,-41.58301456006327,included_game_day
+2020,56,Stetson Hatters,2020-02-22,-55.06645939024879,included_game_day
+2020,56,Stetson Hatters,2020-02-27,-62.420828147852035,included_game_day
+2020,56,Stetson Hatters,2020-02-29,-64.81483802644406,included_game_day
+2020,56,Stetson Hatters,2020-03-03,-55.64438723378858,included_game_day
+2020,56,Stetson Hatters,2020-03-05,-45.07718483471414,included_game_day
+2021,56,Stetson Hatters,2020-12-04,-17.906,included_game_day
+2021,56,Stetson Hatters,2020-12-06,-56.347536999999996,included_game_day
+2021,56,Stetson Hatters,2020-12-08,-59.875183299999996,included_game_day
+2021,56,Stetson Hatters,2020-12-15,-49.121538969999996,included_game_day
+2021,56,Stetson Hatters,2021-01-08,-36.190867473,included_game_day
+2021,56,Stetson Hatters,2021-01-09,-41.8463302754,included_game_day
+2021,56,Stetson Hatters,2021-01-15,-28.183732980543894,included_game_day
+2021,56,Stetson Hatters,2021-01-16,-33.25365514465901,included_game_day
+2021,56,Stetson Hatters,2021-01-22,-31.61093327352772,included_game_day
+2021,56,Stetson Hatters,2021-01-23,-36.296755776622696,included_game_day
+2021,56,Stetson Hatters,2021-01-29,-35.117848982005654,included_game_day
+2021,56,Stetson Hatters,2021-01-30,-22.174723546312023,included_game_day
+2021,56,Stetson Hatters,2021-02-05,-20.339194275458667,included_game_day
+2021,56,Stetson Hatters,2021-02-06,-31.87077085877598,included_game_day
+2021,56,Stetson Hatters,2021-02-12,-22.601433206634617,included_game_day
+2021,56,Stetson Hatters,2021-02-13,-36.185963084921525,included_game_day
+2021,56,Stetson Hatters,2021-02-19,-25.550540766598132,included_game_day
+2021,56,Stetson Hatters,2021-02-20,-37.04220291193942,included_game_day
+2021,56,Stetson Hatters,2021-02-26,-45.541435199969776,included_game_day
+2021,56,Stetson Hatters,2021-02-27,-30.34082103039406,included_game_day
+2021,56,Stetson Hatters,2021-03-04,-21.608759552652018,included_game_day
+2021,56,Stetson Hatters,2021-03-05,-24.620804711910004,included_game_day
+2021,56,Stetson Hatters,2021-03-22,-18.705261992396398,included_game_day
+2021,56,Stetson Hatters,2021-03-23,-17.985912676998108,included_game_day
+2022,56,Stetson Hatters,2021-11-12,-22.6,included_game_day
+2022,56,Stetson Hatters,2021-11-17,-29.200000000000003,included_game_day
+2022,56,Stetson Hatters,2021-11-19,-25.000000000000004,included_game_day
+2022,56,Stetson Hatters,2021-11-27,-26.759040000000002,included_game_day
+2022,56,Stetson Hatters,2021-12-01,-31.743931908870003,included_game_day
+2022,56,Stetson Hatters,2021-12-04,-30.022201350183003,included_game_day
+2022,56,Stetson Hatters,2021-12-11,-38.4957201174372,included_game_day
+2022,56,Stetson Hatters,2021-12-16,-28.28221728515648,included_game_day
+2022,56,Stetson Hatters,2021-12-20,-30.32245681656748,included_game_day
+2022,56,Stetson Hatters,2022-01-04,-43.92235720244471,included_game_day
+2022,56,Stetson Hatters,2022-01-08,-43.82346343525801,included_game_day
+2022,56,Stetson Hatters,2022-01-11,-42.25504256413811,included_game_day
+2022,56,Stetson Hatters,2022-01-15,-71.26718431716782,included_game_day
+2022,56,Stetson Hatters,2022-01-18,-71.38570520511755,included_game_day
+2022,56,Stetson Hatters,2022-01-22,-65.27598929935122,included_game_day
+2022,56,Stetson Hatters,2022-01-27,-89.83584837567713,included_game_day
+2022,56,Stetson Hatters,2022-01-29,-68.46779864624074,included_game_day
+2022,56,Stetson Hatters,2022-02-03,-59.30424437053368,included_game_day
+2022,56,Stetson Hatters,2022-02-05,-67.00166113188361,included_game_day
+2022,56,Stetson Hatters,2022-02-09,-55.576763503985845,included_game_day
+2022,56,Stetson Hatters,2022-02-12,-54.57619885166355,included_game_day
+2022,56,Stetson Hatters,2022-02-16,-74.23106202031519,included_game_day
+2022,56,Stetson Hatters,2022-02-19,-65.26394777966658,included_game_day
+2022,56,Stetson Hatters,2022-02-23,-62.75587506870522,included_game_day
+2022,56,Stetson Hatters,2022-02-26,-68.81515104362066,included_game_day
+2022,56,Stetson Hatters,2022-03-01,-69.62647097952824,included_game_day
+2023,56,Stetson Hatters,2022-11-07,12.0,included_game_day
+2023,56,Stetson Hatters,2022-11-14,13.91,included_game_day
+2023,56,Stetson Hatters,2022-11-18,22.719,included_game_day
+2023,56,Stetson Hatters,2022-11-19,14.321100000000001,included_game_day
+2023,56,Stetson Hatters,2022-11-27,14.076727000000002,included_game_day
+2023,56,Stetson Hatters,2022-12-04,-18.463499488,included_game_day
+2023,56,Stetson Hatters,2022-12-14,-12.71197040647,included_game_day
+2023,56,Stetson Hatters,2022-12-17,-29.5755852861668,included_game_day
+2023,56,Stetson Hatters,2022-12-21,-31.299700665723297,included_game_day
+2023,56,Stetson Hatters,2022-12-30,-19.967554213790823,included_game_day
+2023,56,Stetson Hatters,2023-01-02,-19.00970030171874,included_game_day
+2023,56,Stetson Hatters,2023-01-05,-8.905603367490995,included_game_day
+2023,56,Stetson Hatters,2023-01-07,-1.0991393819259399,included_game_day
+2023,56,Stetson Hatters,2023-01-12,27.45026636393067,included_game_day
+2023,56,Stetson Hatters,2023-01-14,12.991605850959031,included_game_day
+2023,56,Stetson Hatters,2023-01-19,8.415077195198998,included_game_day
+2023,56,Stetson Hatters,2023-01-21,2.857921674921002,included_game_day
+2023,56,Stetson Hatters,2023-01-26,-15.029213983272921,included_game_day
+2023,56,Stetson Hatters,2023-01-28,-18.431745474482057,included_game_day
+2023,56,Stetson Hatters,2023-02-02,-1.9743978337059396,included_game_day
+2023,56,Stetson Hatters,2023-02-04,4.149768921737049,included_game_day
+2023,56,Stetson Hatters,2023-02-09,3.7939567815263455,included_game_day
+2023,56,Stetson Hatters,2023-02-11,-10.12572975035612,included_game_day
+2023,56,Stetson Hatters,2023-02-15,-12.174089000767797,included_game_day
+2023,56,Stetson Hatters,2023-02-18,-6.812776401097139,included_game_day
+2023,56,Stetson Hatters,2023-02-22,5.669387824502948,included_game_day
+2023,56,Stetson Hatters,2023-02-24,-4.775502136441444,included_game_day
+2023,56,Stetson Hatters,2023-02-28,-19.13141410519696,included_game_day
+2023,56,Stetson Hatters,2023-03-19,-24.292816447758042,included_game_day
+2024,56,Stetson Hatters,2023-11-11,-15.0,included_game_day
+2024,56,Stetson Hatters,2023-11-13,-34.1,included_game_day
+2024,56,Stetson Hatters,2023-11-20,-15.151,included_game_day
+2024,56,Stetson Hatters,2023-11-21,-6.53337,included_game_day
+2024,56,Stetson Hatters,2023-11-26,3.1275270000000006,included_game_day
+2024,56,Stetson Hatters,2023-12-03,-24.4518767373,included_game_day
+2024,56,Stetson Hatters,2023-12-05,-40.75664336357001,included_game_day
+2024,56,Stetson Hatters,2023-12-17,-45.670800853921904,included_game_day
+2024,56,Stetson Hatters,2023-12-19,-30.364082527518573,included_game_day
+2024,56,Stetson Hatters,2023-12-22,-23.174617052667664,included_game_day
+2024,56,Stetson Hatters,2023-12-29,-18.871081146467226,included_game_day
+2024,56,Stetson Hatters,2024-01-04,-26.342524588508205,included_game_day
+2024,56,Stetson Hatters,2024-01-06,-18.124267063002918,included_game_day
+2024,56,Stetson Hatters,2024-01-10,-32.98989073784632,included_game_day
+2024,56,Stetson Hatters,2024-01-12,-16.339050913593184,included_game_day
+2024,56,Stetson Hatters,2024-01-15,-30.94361275376485,included_game_day
+2024,56,Stetson Hatters,2024-01-20,-54.2175955435939,included_game_day
+2024,56,Stetson Hatters,2024-01-25,-52.23269382662122,included_game_day
+2024,56,Stetson Hatters,2024-01-27,-27.045687606843572,included_game_day
+2024,56,Stetson Hatters,2024-02-01,-32.32241888498782,included_game_day
+2024,56,Stetson Hatters,2024-02-03,-27.158019152162904,included_game_day
+2024,56,Stetson Hatters,2024-02-07,-23.79349729092634,included_game_day
+2024,56,Stetson Hatters,2024-02-10,-17.23269236955565,included_game_day
+2024,56,Stetson Hatters,2024-02-17,-20.46171572026963,included_game_day
+2024,56,Stetson Hatters,2024-02-22,-35.37647356333121,included_game_day
+2024,56,Stetson Hatters,2024-02-24,-28.141052799116117,included_game_day
+2024,56,Stetson Hatters,2024-02-28,-15.262326627669783,included_game_day
+2024,56,Stetson Hatters,2024-03-01,-36.15436848215592,included_game_day
+2024,56,Stetson Hatters,2024-03-05,-26.857388328843484,included_game_day
+2024,56,Stetson Hatters,2024-03-07,-31.46140169779877,included_game_day
+2024,56,Stetson Hatters,2024-03-10,-31.264835318553057,included_game_day
+2024,56,Stetson Hatters,2024-03-22,-44.849078868753736,included_game_day
+2025,56,Stetson Hatters,2024-11-07,-6.0,included_game_day
+2025,56,Stetson Hatters,2024-11-11,-25.0,included_game_day
+2025,56,Stetson Hatters,2024-11-16,-36.65,included_game_day
+2025,56,Stetson Hatters,2024-11-21,-55.4191,included_game_day
+2025,56,Stetson Hatters,2024-11-22,-57.38466,included_game_day
+2025,56,Stetson Hatters,2024-11-23,-65.280228,included_game_day
+2025,56,Stetson Hatters,2024-12-03,-58.19835423999999,included_game_day
+2025,56,Stetson Hatters,2024-12-08,-63.674904551999994,included_game_day
+2025,56,Stetson Hatters,2024-12-14,-71.1939736339,included_game_day
+2025,56,Stetson Hatters,2024-12-17,-100.994210523654,included_game_day
+2025,56,Stetson Hatters,2024-12-29,-110.3368014109907,included_game_day
+2025,56,Stetson Hatters,2025-01-02,-108.19981608044301,included_game_day
+2025,56,Stetson Hatters,2025-01-04,-86.80671732306664,included_game_day
+2025,56,Stetson Hatters,2025-01-09,-79.70742335798003,included_game_day
+2025,56,Stetson Hatters,2025-01-11,-101.54754544097358,included_game_day
+2025,56,Stetson Hatters,2025-01-16,-129.9129428258451,included_game_day
+2025,56,Stetson Hatters,2025-01-18,-126.57781401826186,included_game_day
+2025,56,Stetson Hatters,2025-01-23,-116.48164630766449,included_game_day
+2025,56,Stetson Hatters,2025-01-25,-111.53749697902651,included_game_day
+2025,56,Stetson Hatters,2025-01-29,-105.22911625859379,included_game_day
+2025,56,Stetson Hatters,2025-02-01,-115.78746896916985,included_game_day
+2025,56,Stetson Hatters,2025-02-06,-116.7078246817145,included_game_day
+2025,56,Stetson Hatters,2025-02-08,-134.26660932322395,included_game_day
+2025,56,Stetson Hatters,2025-02-13,-146.63306546947527,included_game_day
+2025,56,Stetson Hatters,2025-02-15,-146.57582569456562,included_game_day
+2025,56,Stetson Hatters,2025-02-18,-150.64642841627975,included_game_day
+2025,56,Stetson Hatters,2025-02-20,-141.32431819743235,included_game_day
+2025,56,Stetson Hatters,2025-02-24,-136.4144307245769,included_game_day
+2025,56,Stetson Hatters,2025-02-26,-129.2382847358071,included_game_day
+2025,56,Stetson Hatters,2025-03-02,-133.82908911466228,included_game_day
+2026,56,Stetson Hatters,2025-11-03,-28.0,included_game_day
+2026,56,Stetson Hatters,2025-11-10,-58.26,included_game_day
+2026,56,Stetson Hatters,2025-11-16,-66.604,included_game_day
+2026,56,Stetson Hatters,2025-11-19,-61.97896,included_game_day
+2026,56,Stetson Hatters,2025-11-22,-45.707254,included_game_day
+2026,56,Stetson Hatters,2025-11-25,-60.0959286,included_game_day
+2026,56,Stetson Hatters,2025-11-29,-66.420584239,included_game_day
+2026,56,Stetson Hatters,2025-11-30,-76.1952823061,included_game_day
+2026,56,Stetson Hatters,2025-12-02,-85.24176240849,included_game_day
+2026,56,Stetson Hatters,2025-12-06,-100.63764124801101,included_game_day
+2026,56,Stetson Hatters,2025-12-22,-133.88607962255168,included_game_day
+2026,56,Stetson Hatters,2026-01-01,-120.55791336174806,included_game_day
+2026,56,Stetson Hatters,2026-01-03,-126.9929106454361,included_game_day
+2026,56,Stetson Hatters,2026-01-08,-108.8451768896224,included_game_day
+2026,56,Stetson Hatters,2026-01-10,-111.96872488523817,included_game_day
+2026,56,Stetson Hatters,2026-01-15,-102.7599288704703,included_game_day
+2026,56,Stetson Hatters,2026-01-17,-102.58107180142434,included_game_day
+2026,56,Stetson Hatters,2026-01-22,-94.48254586996207,included_game_day
+2026,56,Stetson Hatters,2026-01-23,-88.35901132303577,included_game_day
+2026,56,Stetson Hatters,2026-01-29,-80.20988685305468,included_game_day
+2026,56,Stetson Hatters,2026-01-31,-90.06060109341686,included_game_day
+2026,56,Stetson Hatters,2026-02-05,-105.92066010569886,included_game_day
+2026,56,Stetson Hatters,2026-02-07,-109.62372220142778,included_game_day
+2026,56,Stetson Hatters,2026-02-11,-105.68329126384232,included_game_day
+2026,56,Stetson Hatters,2026-02-14,-99.3254539349514,included_game_day
+2026,56,Stetson Hatters,2026-02-19,-102.04307025264757,included_game_day
+2026,56,Stetson Hatters,2026-02-21,-99.87346107656872,included_game_day
+2026,56,Stetson Hatters,2026-02-26,-99.12356508173075,included_game_day
+2026,56,Stetson Hatters,2026-02-28,-83.29608388920059,included_game_day
+2026,56,Stetson Hatters,2026-03-04,-66.98451130309782,included_game_day
+2026,56,Stetson Hatters,2026-03-06,-69.40658933433699,included_game_day
+2027,56,Stetson Hatters,2026-11-02,-10.0,included_game_day
+2027,56,Stetson Hatters,2026-11-03,-32.0,included_game_day
+2027,56,Stetson Hatters,2026-11-06,-59.6,included_game_day
+2027,56,Stetson Hatters,2026-11-12,-64.607,included_game_day
+2027,56,Stetson Hatters,2026-11-19,-66.0521,included_game_day

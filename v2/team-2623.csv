@@ -1,0 +1,1208 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,2623,Missouri St,1987-11-28,20.0,included_game_day
+1988,2623,Missouri St,1987-11-29,7.199999999999999,included_game_day
+1988,2623,Missouri St,1987-12-05,5.119199999999999,included_game_day
+1988,2623,Missouri St,1987-12-08,13.364279999999999,included_game_day
+1988,2623,Missouri St,1987-12-10,10.7676235,included_game_day
+1988,2623,Missouri St,1987-12-12,11.624215849999999,included_game_day
+1988,2623,Missouri St,1987-12-19,20.010064264999997,included_game_day
+1988,2623,Missouri St,1987-12-21,25.671842190999996,included_game_day
+1988,2623,Missouri St,1987-12-27,21.498937927443997,included_game_day
+1988,2623,Missouri St,1987-12-28,31.571156607039498,included_game_day
+1988,2623,Missouri St,1988-01-04,30.663509339344838,included_game_day
+1988,2623,Missouri St,1988-01-07,47.77413237961426,included_game_day
+1988,2623,Missouri St,1988-01-16,45.24794056980288,included_game_day
+1988,2623,Missouri St,1988-01-18,19.625788248049044,included_game_day
+1988,2623,Missouri St,1988-01-23,22.82842820956348,included_game_day
+1988,2623,Missouri St,1988-01-25,23.576420168394982,included_game_day
+1988,2623,Missouri St,1988-01-30,47.948845961327905,included_game_day
+1988,2623,Missouri St,1988-02-01,59.553342007480154,included_game_day
+1988,2623,Missouri St,1988-02-06,73.3358326695204,included_game_day
+1988,2623,Missouri St,1988-02-08,79.1048342782772,included_game_day
+1988,2623,Missouri St,1988-02-13,82.37995506862251,included_game_day
+1988,2623,Missouri St,1988-02-15,60.92067954993537,included_game_day
+1988,2623,Missouri St,1988-02-20,73.93422869760572,included_game_day
+1988,2623,Missouri St,1988-02-22,71.29189603780054,included_game_day
+1988,2623,Missouri St,1988-02-25,81.848614197163,included_game_day
+1988,2623,Missouri St,1988-03-05,91.43311822649895,included_game_day
+1988,2623,Missouri St,1988-03-18,89.03458843431345,included_game_day
+1989,2623,Missouri St,1988-11-18,-16.0,included_game_day
+1989,2623,Missouri St,1988-11-26,-11.39,included_game_day
+1989,2623,Missouri St,1988-12-06,-7.179,included_game_day
+1989,2623,Missouri St,1988-12-09,16.4259,included_game_day
+1989,2623,Missouri St,1988-12-10,22.033209999999997,included_game_day
+1989,2623,Missouri St,1988-12-15,20.417727957583498,included_game_day
+1989,2623,Missouri St,1988-12-20,7.240633765325148,included_game_day
+1989,2623,Missouri St,1988-12-22,-3.6037366706073666,included_game_day
+1989,2623,Missouri St,1988-12-29,-0.6042631675316299,included_game_day
+1989,2623,Missouri St,1988-12-30,-0.16993752705923537,included_game_day
+1989,2623,Missouri St,1989-01-03,2.888998924831688,included_game_day
+1989,2623,Missouri St,1989-01-07,8.449751753966972,included_game_day
+1989,2623,Missouri St,1989-01-14,25.130551300801162,included_game_day
+1989,2623,Missouri St,1989-01-16,37.10141541007951,included_game_day
+1989,2623,Missouri St,1989-01-21,36.89967741384185,included_game_day
+1989,2623,Missouri St,1989-01-23,29.53890814417869,included_game_day
+1989,2623,Missouri St,1989-01-28,23.105273923316737,included_game_day
+1989,2623,Missouri St,1989-01-30,36.65738901617874,included_game_day
+1989,2623,Missouri St,1989-02-04,47.48757104226943,included_game_day
+1989,2623,Missouri St,1989-02-06,52.7468127391965,included_game_day
+1989,2623,Missouri St,1989-02-11,58.36107338527269,included_game_day
+1989,2623,Missouri St,1989-02-13,48.08223126891911,included_game_day
+1989,2623,Missouri St,1989-02-18,49.59810911997868,included_game_day
+1989,2623,Missouri St,1989-02-20,60.009715119490565,included_game_day
+1989,2623,Missouri St,1989-02-25,50.33515545732422,included_game_day
+1989,2623,Missouri St,1989-02-27,33.13177538669014,included_game_day
+1989,2623,Missouri St,1989-03-04,39.38358820039743,included_game_day
+1989,2623,Missouri St,1989-03-07,59.967427068893386,included_game_day
+1989,2623,Missouri St,1989-03-08,58.11246837800301,included_game_day
+1989,2623,Missouri St,1989-03-17,57.14776382770276,included_game_day
+1990,2623,Missouri St,1989-11-24,-4.0,included_game_day
+1990,2623,Missouri St,1989-11-25,11.3,included_game_day
+1990,2623,Missouri St,1989-12-02,21.3606,included_game_day
+1990,2623,Missouri St,1989-12-05,8.786840000000002,included_game_day
+1990,2623,Missouri St,1989-12-08,21.088156,included_game_day
+1990,2623,Missouri St,1989-12-09,24.2464732,included_game_day
+1990,2623,Missouri St,1989-12-13,24.555347552,included_game_day
+1990,2623,Missouri St,1989-12-16,44.173563796799996,included_game_day
+1990,2623,Missouri St,1989-12-20,64.87291467192,included_game_day
+1990,2623,Missouri St,1989-12-23,84.396998716648,included_game_day
+1990,2623,Missouri St,1990-01-06,95.38216078335522,included_game_day
+1990,2623,Missouri St,1990-01-08,108.89410274429112,included_game_day
+1990,2623,Missouri St,1990-01-13,96.57676547006497,included_game_day
+1990,2623,Missouri St,1990-01-15,105.58379624480271,included_game_day
+1990,2623,Missouri St,1990-01-20,98.7579990502469,included_game_day
+1990,2623,Missouri St,1990-01-22,83.36917320101966,included_game_day
+1990,2623,Missouri St,1990-01-27,102.7627542741149,included_game_day
+1990,2623,Missouri St,1990-01-31,103.09861733124417,included_game_day
+1990,2623,Missouri St,1990-02-03,109.59579694891713,included_game_day
+1990,2623,Missouri St,1990-02-05,117.07203846405937,included_game_day
+1990,2623,Missouri St,1990-02-10,127.4088861775921,included_game_day
+1990,2623,Missouri St,1990-02-12,127.70775853757554,included_game_day
+1990,2623,Missouri St,1990-02-15,130.83393629575738,included_game_day
+1990,2623,Missouri St,1990-02-17,126.33115994916393,included_game_day
+1990,2623,Missouri St,1990-02-19,128.666437553704,included_game_day
+1990,2623,Missouri St,1990-02-24,117.00662965356176,included_game_day
+1990,2623,Missouri St,1990-03-01,113.73438566405265,included_game_day
+1990,2623,Missouri St,1990-03-06,106.8451320619385,included_game_day
+1990,2623,Missouri St,1990-03-15,93.37993782492516,included_game_day
+1991,2623,Missouri St,1990-11-23,9.0,included_game_day
+1991,2623,Missouri St,1990-11-24,8.6,included_game_day
+1991,2623,Missouri St,1990-11-29,12.03,included_game_day
+1991,2623,Missouri St,1990-12-01,-7.090000000000002,included_game_day
+1991,2623,Missouri St,1990-12-04,5.366999999999999,included_game_day
+1991,2623,Missouri St,1990-12-07,47.24404499999999,included_game_day
+1991,2623,Missouri St,1990-12-08,35.6346236,included_game_day
+1991,2623,Missouri St,1990-12-12,50.522277753,included_game_day
+1991,2623,Missouri St,1990-12-15,50.7250720247,included_game_day
+1991,2623,Missouri St,1990-12-19,56.64840982223,included_game_day
+1991,2623,Missouri St,1990-12-22,50.135088481859924,included_game_day
+1991,2623,Missouri St,1990-12-28,57.5091216122923,included_game_day
+1991,2623,Missouri St,1990-12-29,48.33266811713187,included_game_day
+1991,2623,Missouri St,1991-01-02,45.852261890522186,included_game_day
+1991,2623,Missouri St,1991-01-05,50.04119895609621,included_game_day
+1991,2623,Missouri St,1991-01-08,51.127779572662845,included_game_day
+1991,2623,Missouri St,1991-01-12,38.276605979957495,included_game_day
+1991,2623,Missouri St,1991-01-14,31.832674139960613,included_game_day
+1991,2623,Missouri St,1991-01-19,39.576773461758876,included_game_day
+1991,2623,Missouri St,1991-01-22,43.105579915693056,included_game_day
+1991,2623,Missouri St,1991-01-26,46.362751720219464,included_game_day
+1991,2623,Missouri St,1991-01-28,43.342577921626685,included_game_day
+1991,2623,Missouri St,1991-02-02,60.842062719202346,included_game_day
+1991,2623,Missouri St,1991-02-06,66.08935832929524,included_game_day
+1991,2623,Missouri St,1991-02-10,65.83840087183822,included_game_day
+1991,2623,Missouri St,1991-02-14,70.18482001202636,included_game_day
+1991,2623,Missouri St,1991-02-16,70.68817854262281,included_game_day
+1991,2623,Missouri St,1991-02-20,68.26944281526676,included_game_day
+1991,2623,Missouri St,1991-02-23,54.975603097888424,included_game_day
+1991,2623,Missouri St,1991-03-01,65.71255194791321,included_game_day
+1991,2623,Missouri St,1991-03-02,67.45259592734475,included_game_day
+1991,2623,Missouri St,1991-03-04,52.38182533095034,included_game_day
+1991,2623,Missouri St,1991-03-13,61.5986580631009,included_game_day
+1991,2623,Missouri St,1991-03-18,57.835595436634875,included_game_day
+1992,2623,Missouri St,1991-11-26,-2.4,included_game_day
+1992,2623,Missouri St,1991-12-06,29.374150000000004,included_game_day
+1992,2623,Missouri St,1991-12-07,29.756765,included_game_day
+1992,2623,Missouri St,1991-12-11,40.069578500000006,included_game_day
+1992,2623,Missouri St,1991-12-14,30.437275650000004,included_game_day
+1992,2623,Missouri St,1991-12-21,14.419655489000004,included_game_day
+1992,2623,Missouri St,1991-12-23,10.790024774167204,included_game_day
+1992,2623,Missouri St,1991-12-31,20.56086546044707,included_game_day
+1992,2623,Missouri St,1992-01-04,22.159680652263216,included_game_day
+1992,2623,Missouri St,1992-01-07,8.523504788948383,included_game_day
+1992,2623,Missouri St,1992-01-11,1.4967181681091555,included_game_day
+1992,2623,Missouri St,1992-01-15,20.21316572013025,included_game_day
+1992,2623,Missouri St,1992-01-18,22.240677611112854,included_game_day
+1992,2623,Missouri St,1992-01-23,39.68346067361696,included_game_day
+1992,2623,Missouri St,1992-01-25,41.220233844766895,included_game_day
+1992,2623,Missouri St,1992-01-27,41.57641691803845,included_game_day
+1992,2623,Missouri St,1992-02-01,51.43072522622944,included_game_day
+1992,2623,Missouri St,1992-02-04,51.97745642157709,included_game_day
+1992,2623,Missouri St,1992-02-08,49.01060772568277,included_game_day
+1992,2623,Missouri St,1992-02-13,54.49797892484972,included_game_day
+1992,2623,Missouri St,1992-02-15,57.873478535770104,included_game_day
+1992,2623,Missouri St,1992-02-20,56.55534912947624,included_game_day
+1992,2623,Missouri St,1992-02-22,59.92337261166621,included_game_day
+1992,2623,Missouri St,1992-02-26,63.450083167574746,included_game_day
+1992,2623,Missouri St,1992-02-29,64.15178874742735,included_game_day
+1992,2623,Missouri St,1992-03-02,58.59239434921042,included_game_day
+1992,2623,Missouri St,1992-03-07,51.56247696200603,included_game_day
+1992,2623,Missouri St,1992-03-08,50.42078323086254,included_game_day
+1992,2623,Missouri St,1992-03-09,52.51591257876999,included_game_day
+1992,2623,Missouri St,1992-03-20,50.55724462922542,included_game_day
+1993,2623,Missouri St,1992-12-01,6.0,included_game_day
+1993,2623,Missouri St,1992-12-04,15.8,included_game_day
+1993,2623,Missouri St,1992-12-05,17.22,included_game_day
+1993,2623,Missouri St,1992-12-07,24.241999999999997,included_game_day
+1993,2623,Missouri St,1992-12-12,35.077799999999996,included_game_day
+1993,2623,Missouri St,1992-12-22,31.829002499999998,included_game_day
+1993,2623,Missouri St,1992-12-30,20.33415495,included_game_day
+1993,2623,Missouri St,1993-01-02,32.2515404903,included_game_day
+1993,2623,Missouri St,1993-01-06,22.763928983945142,included_game_day
+1993,2623,Missouri St,1993-01-09,23.956526704396428,included_game_day
+1993,2623,Missouri St,1993-01-14,15.915758410932993,included_game_day
+1993,2623,Missouri St,1993-01-16,3.791210070200867,included_game_day
+1993,2623,Missouri St,1993-01-18,-12.178212966492152,included_game_day
+1993,2623,Missouri St,1993-01-23,-9.801308515411918,included_game_day
+1993,2623,Missouri St,1993-01-25,9.66738495152801,included_game_day
+1993,2623,Missouri St,1993-01-30,27.01534816994985,included_game_day
+1993,2623,Missouri St,1993-02-02,22.266978271464012,included_game_day
+1993,2623,Missouri St,1993-02-06,23.77511543609291,included_game_day
+1993,2623,Missouri St,1993-02-09,26.788127942952926,included_game_day
+1993,2623,Missouri St,1993-02-13,20.94088398117535,included_game_day
+1993,2623,Missouri St,1993-02-15,28.9167232299743,included_game_day
+1993,2623,Missouri St,1993-02-18,33.03591333689562,included_game_day
+1993,2623,Missouri St,1993-02-20,37.354440429259434,included_game_day
+1993,2623,Missouri St,1993-02-24,31.588566887211314,included_game_day
+1993,2623,Missouri St,1993-02-27,28.350536210751557,included_game_day
+1993,2623,Missouri St,1993-03-01,36.19949147172356,included_game_day
+1993,2623,Missouri St,1993-03-06,43.87193489980294,included_game_day
+1993,2623,Missouri St,1993-03-07,38.22240546523165,included_game_day
+1993,2623,Missouri St,1993-03-17,57.49893157903213,included_game_day
+1993,2623,Missouri St,1993-03-22,75.79407787739072,included_game_day
+1993,2623,Missouri St,1993-03-24,70.91385220223736,included_game_day
+1994,2623,Missouri St,1993-11-27,10.0,included_game_day
+1994,2623,Missouri St,1993-11-30,19.3,included_game_day
+1994,2623,Missouri St,1993-12-03,24.033,included_game_day
+1994,2623,Missouri St,1993-12-04,6.939700000000002,included_game_day
+1994,2623,Missouri St,1993-12-11,2.6305500000000013,included_game_day
+1994,2623,Missouri St,1993-12-18,14.114198000000002,included_game_day
+1994,2623,Missouri St,1993-12-21,33.80507201131,included_game_day
+1994,2623,Missouri St,1994-01-02,36.970254258769,included_game_day
+1994,2623,Missouri St,1994-01-05,10.470464180098244,included_game_day
+1994,2623,Missouri St,1994-01-08,7.29989559530042,included_game_day
+1994,2623,Missouri St,1994-01-12,-9.80560052363499,included_game_day
+1994,2623,Missouri St,1994-01-15,-22.78180611519118,included_game_day
+1994,2623,Missouri St,1994-01-19,-16.343044080775236,included_game_day
+1994,2623,Missouri St,1994-01-22,-22.890282693723076,included_game_day
+1994,2623,Missouri St,1994-01-24,-35.48569855873069,included_game_day
+1994,2623,Missouri St,1994-01-29,-53.658599579576496,included_game_day
+1994,2623,Missouri St,1994-02-01,-43.295384017794404,included_game_day
+1994,2623,Missouri St,1994-02-05,-33.50429415268239,included_game_day
+1994,2623,Missouri St,1994-02-09,-24.95534331373696,included_game_day
+1994,2623,Missouri St,1994-02-12,-25.7564884760917,included_game_day
+1994,2623,Missouri St,1994-02-16,-38.11801147402724,included_game_day
+1994,2623,Missouri St,1994-02-19,-31.910921203563078,included_game_day
+1994,2623,Missouri St,1994-02-21,0.49699463029485,included_game_day
+1994,2623,Missouri St,1994-02-24,22.813411809225435,included_game_day
+1994,2623,Missouri St,1994-02-26,23.558620399385703,included_game_day
+1994,2623,Missouri St,1994-02-28,14.911856359088592,included_game_day
+1994,2623,Missouri St,1994-03-05,18.163860568435414,included_game_day
+1995,2623,Missouri St,1994-11-26,16.0,included_game_day
+1995,2623,Missouri St,1994-11-29,37.3,included_game_day
+1995,2623,Missouri St,1994-12-02,54.599999999999994,included_game_day
+1995,2623,Missouri St,1994-12-03,53.19799999999999,included_game_day
+1995,2623,Missouri St,1994-12-10,72.18265,included_game_day
+1995,2623,Missouri St,1994-12-17,81.28416406,included_game_day
+1995,2623,Missouri St,1994-12-22,90.235275714,included_game_day
+1995,2623,Missouri St,1995-01-04,92.50755870114699,included_game_day
+1995,2623,Missouri St,1995-01-07,86.26006902122171,included_game_day
+1995,2623,Missouri St,1995-01-10,82.39355618221398,included_game_day
+1995,2623,Missouri St,1995-01-14,72.58131374958143,included_game_day
+1995,2623,Missouri St,1995-01-18,75.44831766651288,included_game_day
+1995,2623,Missouri St,1995-01-21,62.77432682689589,included_game_day
+1995,2623,Missouri St,1995-01-25,51.96633785053372,included_game_day
+1995,2623,Missouri St,1995-01-28,39.66212411876376,included_game_day
+1995,2623,Missouri St,1995-01-30,36.12283154502739,included_game_day
+1995,2623,Missouri St,1995-02-02,40.19452454269463,included_game_day
+1995,2623,Missouri St,1995-02-04,47.48103815938786,included_game_day
+1995,2623,Missouri St,1995-02-07,40.27965736989242,included_game_day
+1995,2623,Missouri St,1995-02-11,39.81360745090254,included_game_day
+1995,2623,Missouri St,1995-02-14,34.14514851906222,included_game_day
+1995,2623,Missouri St,1995-02-16,33.47035120907247,included_game_day
+1995,2623,Missouri St,1995-02-18,33.22365396561066,included_game_day
+1995,2623,Missouri St,1995-02-22,27.208707906950448,included_game_day
+1995,2623,Missouri St,1995-02-25,18.60012841602063,included_game_day
+1995,2623,Missouri St,1995-02-27,27.157748037631993,included_game_day
+1995,2623,Missouri St,1995-03-04,25.472443708411472,included_game_day
+1996,2623,Missouri St,1995-11-25,9.0,included_game_day
+1996,2623,Missouri St,1995-11-28,-12.899999999999999,included_game_day
+1996,2623,Missouri St,1995-12-01,16.75,included_game_day
+1996,2623,Missouri St,1995-12-02,36.475,included_game_day
+1996,2623,Missouri St,1995-12-09,18.892760000000003,included_game_day
+1996,2623,Missouri St,1995-12-16,24.356861700000003,included_game_day
+1996,2623,Missouri St,1995-12-19,25.730388160000004,included_game_day
+1996,2623,Missouri St,1995-12-23,24.543193482957005,included_game_day
+1996,2623,Missouri St,1995-12-30,18.679470663650275,included_game_day
+1996,2623,Missouri St,1996-01-03,25.805009795514348,included_game_day
+1996,2623,Missouri St,1996-01-07,36.86959284868854,included_game_day
+1996,2623,Missouri St,1996-01-11,29.992524603199648,included_game_day
+1996,2623,Missouri St,1996-01-13,39.90246674218361,included_game_day
+1996,2623,Missouri St,1996-01-17,31.351420772585698,included_game_day
+1996,2623,Missouri St,1996-01-20,21.998116139282097,included_game_day
+1996,2623,Missouri St,1996-01-22,13.295032397340316,included_game_day
+1996,2623,Missouri St,1996-01-27,9.05033680928811,included_game_day
+1996,2623,Missouri St,1996-01-31,24.204824071227954,included_game_day
+1996,2623,Missouri St,1996-02-03,29.015252556963343,included_game_day
+1996,2623,Missouri St,1996-02-07,21.418415134864258,included_game_day
+1996,2623,Missouri St,1996-02-13,27.13267813826777,included_game_day
+1996,2623,Missouri St,1996-02-17,48.449491244467055,included_game_day
+1996,2623,Missouri St,1996-02-19,48.04199582434925,included_game_day
+1996,2623,Missouri St,1996-02-22,50.074818511599595,included_game_day
+1996,2623,Missouri St,1996-02-24,42.89041870967771,included_game_day
+1996,2623,Missouri St,1996-02-26,36.11420578054335,included_game_day
+1996,2623,Missouri St,1996-03-02,40.76076391007261,included_game_day
+1996,2623,Missouri St,1996-03-03,41.17621318735696,included_game_day
+1997,2623,Missouri St,1996-11-25,7.7,included_game_day
+1997,2623,Missouri St,1996-11-30,18.33,included_game_day
+1997,2623,Missouri St,1996-12-02,9.151,included_game_day
+1997,2623,Missouri St,1996-12-06,21.031882,included_game_day
+1997,2623,Missouri St,1996-12-07,42.79141792,included_game_day
+1997,2623,Missouri St,1996-12-10,40.261056128,included_game_day
+1997,2623,Missouri St,1996-12-15,41.4179433852,included_game_day
+1997,2623,Missouri St,1996-12-21,51.872145853679996,included_game_day
+1997,2623,Missouri St,1996-12-30,65.92521589958372,included_game_day
+1997,2623,Missouri St,1996-12-31,67.57264611022634,included_game_day
+1997,2623,Missouri St,1997-01-01,32.00727364313876,included_game_day
+1997,2623,Missouri St,1997-01-05,33.96148193609208,included_game_day
+1997,2623,Missouri St,1997-01-09,46.5924631139166,included_game_day
+1997,2623,Missouri St,1997-01-12,44.19034190542518,included_game_day
+1997,2623,Missouri St,1997-01-15,33.125662277774296,included_game_day
+1997,2623,Missouri St,1997-01-18,23.859259662597594,included_game_day
+1997,2623,Missouri St,1997-01-22,33.98108381780192,included_game_day
+1997,2623,Missouri St,1997-01-25,14.280274747017213,included_game_day
+1997,2623,Missouri St,1997-01-27,14.405199824743674,included_game_day
+1997,2623,Missouri St,1997-01-30,18.359936027387974,included_game_day
+1997,2623,Missouri St,1997-02-01,23.761345161083305,included_game_day
+1997,2623,Missouri St,1997-02-04,38.096442318225755,included_game_day
+1997,2623,Missouri St,1997-02-08,34.61685125188906,included_game_day
+1997,2623,Missouri St,1997-02-10,50.36251850541496,included_game_day
+1997,2623,Missouri St,1997-02-13,35.67567924158283,included_game_day
+1997,2623,Missouri St,1997-02-15,45.64364685504148,included_game_day
+1997,2623,Missouri St,1997-02-17,46.74993776710247,included_game_day
+1997,2623,Missouri St,1997-02-22,49.71975013989094,included_game_day
+1997,2623,Missouri St,1997-02-24,54.10625185638466,included_game_day
+1997,2623,Missouri St,1997-03-01,70.18701593505875,included_game_day
+1997,2623,Missouri St,1997-03-02,73.58498648074242,included_game_day
+1997,2623,Missouri St,1997-03-03,71.31461568018511,included_game_day
+1997,2623,Missouri St,1997-03-12,69.07728373150366,included_game_day
+1998,2623,Missouri St,1997-11-16,-8.0,included_game_day
+1998,2623,Missouri St,1997-11-21,13.8,included_game_day
+1998,2623,Missouri St,1997-11-22,12.740000000000002,included_game_day
+1998,2623,Missouri St,1997-11-23,4.519700000000002,included_game_day
+1998,2623,Missouri St,1997-12-05,36.62842,included_game_day
+1998,2623,Missouri St,1997-12-06,41.4705177,included_game_day
+1998,2623,Missouri St,1997-12-09,25.30696872,included_game_day
+1998,2623,Missouri St,1997-12-12,21.21112354733,included_game_day
+1998,2623,Missouri St,1997-12-20,43.685079757297004,included_game_day
+1998,2623,Missouri St,1997-12-27,34.45618144993115,included_game_day
+1998,2623,Missouri St,1997-12-28,17.929937099611006,included_game_day
+1998,2623,Missouri St,1998-01-03,15.072672213234746,included_game_day
+1998,2623,Missouri St,1998-01-06,16.249776925958706,included_game_day
+1998,2623,Missouri St,1998-01-09,9.375327137047197,included_game_day
+1998,2623,Missouri St,1998-01-12,30.28433825338536,included_game_day
+1998,2623,Missouri St,1998-01-15,0.11296620466251284,included_game_day
+1998,2623,Missouri St,1998-01-18,11.840653665294234,included_game_day
+1998,2623,Missouri St,1998-01-21,4.522215338521293,included_game_day
+1998,2623,Missouri St,1998-01-24,9.635384894519621,included_game_day
+1998,2623,Missouri St,1998-01-28,25.534531971878373,included_game_day
+1998,2623,Missouri St,1998-01-31,41.03084702214203,included_game_day
+1998,2623,Missouri St,1998-02-02,30.836413783360953,included_game_day
+1998,2623,Missouri St,1998-02-07,21.02721750572555,included_game_day
+1998,2623,Missouri St,1998-02-09,37.52679191995571,included_game_day
+1998,2623,Missouri St,1998-02-12,45.95728434581686,included_game_day
+1998,2623,Missouri St,1998-02-15,62.15308123306665,included_game_day
+1998,2623,Missouri St,1998-02-18,50.72218424093879,included_game_day
+1998,2623,Missouri St,1998-02-21,58.883784206251676,included_game_day
+1998,2623,Missouri St,1998-02-23,61.033889849939044,included_game_day
+1998,2623,Missouri St,1998-02-28,54.75397436488894,included_game_day
+1998,2623,Missouri St,1998-03-01,62.350245988204776,included_game_day
+1998,2623,Missouri St,1998-03-02,56.85349741400096,included_game_day
+1999,2623,Missouri St,1998-11-14,18.0,included_game_day
+1999,2623,Missouri St,1998-11-18,26.0,included_game_day
+1999,2623,Missouri St,1998-11-20,4.600000000000001,included_game_day
+1999,2623,Missouri St,1998-11-23,4.350000000000001,included_game_day
+1999,2623,Missouri St,1998-12-04,26.70907,included_game_day
+1999,2623,Missouri St,1998-12-05,50.60354026,included_game_day
+1999,2623,Missouri St,1998-12-09,67.58200121600001,included_game_day
+1999,2623,Missouri St,1998-12-12,75.3806774354,included_game_day
+1999,2623,Missouri St,1998-12-19,70.50558711246,included_game_day
+1999,2623,Missouri St,1998-12-22,74.08736533346,included_game_day
+1999,2623,Missouri St,1998-12-30,83.16758875876695,included_game_day
+1999,2623,Missouri St,1999-01-02,94.21703374669485,included_game_day
+1999,2623,Missouri St,1999-01-05,87.9233205693783,included_game_day
+1999,2623,Missouri St,1999-01-10,82.15590619900101,included_game_day
+1999,2623,Missouri St,1999-01-13,77.50757062803619,included_game_day
+1999,2623,Missouri St,1999-01-16,107.30548960874204,included_game_day
+1999,2623,Missouri St,1999-01-18,93.12905767938578,included_game_day
+1999,2623,Missouri St,1999-01-21,90.29751518456646,included_game_day
+1999,2623,Missouri St,1999-01-23,79.72667444304642,included_game_day
+1999,2623,Missouri St,1999-01-27,73.86663659990847,included_game_day
+1999,2623,Missouri St,1999-01-31,94.15464169756072,included_game_day
+1999,2623,Missouri St,1999-02-03,81.0327064134378,included_game_day
+1999,2623,Missouri St,1999-02-06,70.04048995382058,included_game_day
+1999,2623,Missouri St,1999-02-10,69.37121733204931,included_game_day
+1999,2623,Missouri St,1999-02-13,84.97251129221397,included_game_day
+1999,2623,Missouri St,1999-02-17,82.9805008214465,included_game_day
+1999,2623,Missouri St,1999-02-20,91.10393711474462,included_game_day
+1999,2623,Missouri St,1999-02-22,86.00573336182019,included_game_day
+1999,2623,Missouri St,1999-02-27,83.5149849574559,included_game_day
+1999,2623,Missouri St,1999-02-28,73.49800617770394,included_game_day
+1999,2623,Missouri St,1999-03-12,87.34378316515804,included_game_day
+1999,2623,Missouri St,1999-03-14,122.9910011294626,included_game_day
+1999,2623,Missouri St,1999-03-19,127.88013341135004,included_game_day
+2000,2623,Missouri St,1999-11-20,3.0,included_game_day
+2000,2623,Missouri St,1999-11-26,7.95,included_game_day
+2000,2623,Missouri St,1999-11-27,-0.8370000000000006,included_game_day
+2000,2623,Missouri St,1999-11-28,10.503799999999998,included_game_day
+2000,2623,Missouri St,1999-12-03,26.567919999999997,included_game_day
+2000,2623,Missouri St,1999-12-04,17.099042999999995,included_game_day
+2000,2623,Missouri St,1999-12-07,13.169283999999994,included_game_day
+2000,2623,Missouri St,1999-12-11,27.705333390399996,included_game_day
+2000,2623,Missouri St,1999-12-18,32.66145425425999,included_game_day
+2000,2623,Missouri St,1999-12-22,27.663222274005594,included_game_day
+2000,2623,Missouri St,1999-12-29,33.83012783301305,included_game_day
+2000,2623,Missouri St,2000-01-02,38.9487818082998,included_game_day
+2000,2623,Missouri St,2000-01-05,42.08901549291823,included_game_day
+2000,2623,Missouri St,2000-01-08,39.01310161544936,included_game_day
+2000,2623,Missouri St,2000-01-12,38.519886401919905,included_game_day
+2000,2623,Missouri St,2000-01-15,38.39627355048045,included_game_day
+2000,2623,Missouri St,2000-01-19,21.775462832319718,included_game_day
+2000,2623,Missouri St,2000-01-22,8.31987713755196,included_game_day
+2000,2623,Missouri St,2000-01-26,42.86426044944065,included_game_day
+2000,2623,Missouri St,2000-01-30,29.465385554083205,included_game_day
+2000,2623,Missouri St,2000-02-02,22.700046483109027,included_game_day
+2000,2623,Missouri St,2000-02-06,41.72936436746578,included_game_day
+2000,2623,Missouri St,2000-02-10,42.89835265563694,included_game_day
+2000,2623,Missouri St,2000-02-12,50.397448687896286,included_game_day
+2000,2623,Missouri St,2000-02-16,55.90481985927653,included_game_day
+2000,2623,Missouri St,2000-02-19,59.836007846505666,included_game_day
+2000,2623,Missouri St,2000-02-23,61.72966503572292,included_game_day
+2000,2623,Missouri St,2000-02-26,60.55561494073528,included_game_day
+2000,2623,Missouri St,2000-02-28,68.36173417394903,included_game_day
+2000,2623,Missouri St,2000-03-04,70.9796473922809,included_game_day
+2000,2623,Missouri St,2000-03-05,82.29996878645814,included_game_day
+2000,2623,Missouri St,2000-03-06,71.35652189498137,included_game_day
+2000,2623,Missouri St,2000-03-16,81.2320419672379,included_game_day
+2000,2623,Missouri St,2000-03-21,59.206461046322005,included_game_day
+2001,2623,Missouri St,2000-11-18,10.0,included_game_day
+2001,2623,Missouri St,2000-12-01,17.691499999999998,included_game_day
+2001,2623,Missouri St,2000-12-02,29.27105,included_game_day
+2001,2623,Missouri St,2000-12-05,19.9795467,included_game_day
+2001,2623,Missouri St,2000-12-09,9.5010733,included_game_day
+2001,2623,Missouri St,2000-12-16,9.026474392299999,included_game_day
+2001,2623,Missouri St,2000-12-20,18.8125866514671,included_game_day
+2001,2623,Missouri St,2000-12-23,12.978819704852292,included_game_day
+2001,2623,Missouri St,2000-12-28,3.569823652367063,included_game_day
+2001,2623,Missouri St,2000-12-30,-19.553154451034555,included_game_day
+2001,2623,Missouri St,2001-01-02,-27.53223685519085,included_game_day
+2001,2623,Missouri St,2001-01-06,-16.354122094449362,included_game_day
+2001,2623,Missouri St,2001-01-11,-15.443821393172463,included_game_day
+2001,2623,Missouri St,2001-01-13,-21.779742299093105,included_game_day
+2001,2623,Missouri St,2001-01-17,-7.538880309374376,included_game_day
+2001,2623,Missouri St,2001-01-21,9.716263582579083,included_game_day
+2001,2623,Missouri St,2001-01-24,15.813606323721142,included_game_day
+2001,2623,Missouri St,2001-01-27,22.84654327012254,included_game_day
+2001,2623,Missouri St,2001-01-31,13.882929542749558,included_game_day
+2001,2623,Missouri St,2001-02-03,16.597168508353008,included_game_day
+2001,2623,Missouri St,2001-02-07,14.695664642900368,included_game_day
+2001,2623,Missouri St,2001-02-10,9.326172839750447,included_game_day
+2001,2623,Missouri St,2001-02-13,10.623443509742522,included_game_day
+2001,2623,Missouri St,2001-02-17,-4.518000478669986,included_game_day
+2001,2623,Missouri St,2001-02-21,-18.607862321920287,included_game_day
+2001,2623,Missouri St,2001-02-24,-8.736525370393576,included_game_day
+2001,2623,Missouri St,2001-02-26,-17.623534264151175,included_game_day
+2001,2623,Missouri St,2001-03-02,-6.378805397261351,included_game_day
+2001,2623,Missouri St,2001-03-03,-15.612885398956411,included_game_day
+2002,2623,Missouri State Bears,2001-11-16,1.0,included_game_day
+2002,2623,Missouri State Bears,2001-11-24,6.5,included_game_day
+2002,2623,Missouri State Bears,2001-11-27,2.757,included_game_day
+2002,2623,Missouri State Bears,2001-12-01,11.31607,included_game_day
+2002,2623,Missouri State Bears,2001-12-04,2.896423499999999,included_game_day
+2002,2623,Missouri State Bears,2001-12-07,18.380578626000002,included_game_day
+2002,2623,Missouri State Bears,2001-12-08,13.819771463400002,included_game_day
+2002,2623,Missouri State Bears,2001-12-17,20.82956470406,included_game_day
+2002,2623,Missouri State Bears,2001-12-20,15.284714232359,included_game_day
+2002,2623,Missouri State Bears,2001-12-21,11.469028855247,included_game_day
+2002,2623,Missouri State Bears,2001-12-22,-2.3787155830718625,included_game_day
+2002,2623,Missouri State Bears,2001-12-30,6.539032089660424,included_game_day
+2002,2623,Missouri State Bears,2002-01-02,7.286065754285425,included_game_day
+2002,2623,Missouri State Bears,2002-01-05,29.349565044808354,included_game_day
+2002,2623,Missouri State Bears,2002-01-07,24.315639939656833,included_game_day
+2002,2623,Missouri State Bears,2002-01-10,11.864373720368372,included_game_day
+2002,2623,Missouri State Bears,2002-01-13,7.481689158658481,included_game_day
+2002,2623,Missouri State Bears,2002-01-16,11.394719771430465,included_game_day
+2002,2623,Missouri State Bears,2002-01-19,10.014099633051757,included_game_day
+2002,2623,Missouri State Bears,2002-01-21,20.102166328948005,included_game_day
+2002,2623,Missouri State Bears,2002-01-27,22.79276199512742,included_game_day
+2002,2623,Missouri State Bears,2002-01-30,23.756336276156983,included_game_day
+2002,2623,Missouri State Bears,2002-02-02,23.81680363002326,included_game_day
+2002,2623,Missouri State Bears,2002-02-06,28.839531646098777,included_game_day
+2002,2623,Missouri State Bears,2002-02-09,18.143660993713986,included_game_day
+2002,2623,Missouri State Bears,2002-02-16,16.417403822672053,included_game_day
+2002,2623,Missouri State Bears,2002-02-20,15.138361770763794,included_game_day
+2002,2623,Missouri State Bears,2002-02-23,7.7714468305437405,included_game_day
+2002,2623,Missouri State Bears,2002-02-25,12.250761574954018,included_game_day
+2002,2623,Missouri State Bears,2002-03-02,20.700405689323595,included_game_day
+2003,2623,Missouri State Bears,2002-11-22,-6.0,included_game_day
+2003,2623,Missouri State Bears,2002-11-26,4.800000000000001,included_game_day
+2003,2623,Missouri State Bears,2002-11-30,3.3200000000000007,included_game_day
+2003,2623,Missouri State Bears,2002-12-06,31.54815,included_game_day
+2003,2623,Missouri State Bears,2002-12-07,18.71403927,included_game_day
+2003,2623,Missouri State Bears,2002-12-14,1.4027851430000027,included_game_day
+2003,2623,Missouri State Bears,2002-12-18,9.064229687220003,included_game_day
+2003,2623,Missouri State Bears,2002-12-21,-10.686597200901996,included_game_day
+2003,2623,Missouri State Bears,2002-12-29,16.977022661225202,included_game_day
+2003,2623,Missouri State Bears,2003-01-04,33.96197352077125,included_game_day
+2003,2623,Missouri State Bears,2003-01-08,30.63147574834423,included_game_day
+2003,2623,Missouri State Bears,2003-01-11,29.959447150794887,included_game_day
+2003,2623,Missouri State Bears,2003-01-15,31.40692018982535,included_game_day
+2003,2623,Missouri State Bears,2003-01-18,39.15558695008446,included_game_day
+2003,2623,Missouri State Bears,2003-01-22,35.159115415270506,included_game_day
+2003,2623,Missouri State Bears,2003-01-25,47.306286116233025,included_game_day
+2003,2623,Missouri State Bears,2003-01-28,55.38065185032061,included_game_day
+2003,2623,Missouri State Bears,2003-02-01,48.55475071411604,included_game_day
+2003,2623,Missouri State Bears,2003-02-03,59.02785038723028,included_game_day
+2003,2623,Missouri State Bears,2003-02-08,55.92741125490156,included_game_day
+2003,2623,Missouri State Bears,2003-02-12,62.4625280204953,included_game_day
+2003,2623,Missouri State Bears,2003-02-15,59.19337783964436,included_game_day
+2003,2623,Missouri State Bears,2003-02-19,57.24777219095878,included_game_day
+2003,2623,Missouri State Bears,2003-02-22,55.83972845984444,included_game_day
+2003,2623,Missouri State Bears,2003-02-26,51.5856587528153,included_game_day
+2003,2623,Missouri State Bears,2003-03-01,37.65581211343948,included_game_day
+2003,2623,Missouri State Bears,2003-03-03,31.367687120299937,included_game_day
+2003,2623,Missouri State Bears,2003-03-08,36.67029092437475,included_game_day
+2003,2623,Missouri State Bears,2003-03-09,34.845062655181785,included_game_day
+2004,2623,Missouri State Bears,2003-11-17,8.0,included_game_day
+2004,2623,Missouri State Bears,2003-11-18,26.6,included_game_day
+2004,2623,Missouri State Bears,2003-11-24,12.245000000000001,included_game_day
+2004,2623,Missouri State Bears,2003-11-25,28.617900000000002,included_game_day
+2004,2623,Missouri State Bears,2003-11-29,21.94611,included_game_day
+2004,2623,Missouri State Bears,2003-12-05,44.3485713,included_game_day
+2004,2623,Missouri State Bears,2003-12-06,43.82332117,included_game_day
+2004,2623,Missouri State Bears,2003-12-09,18.844199513,included_game_day
+2004,2623,Missouri State Bears,2003-12-13,-0.9845288883000016,included_game_day
+2004,2623,Missouri State Bears,2003-12-17,4.083634545029999,included_game_day
+2004,2623,Missouri State Bears,2003-12-20,17.512973531407,included_game_day
+2004,2623,Missouri State Bears,2003-12-30,24.012076322383198,included_game_day
+2004,2623,Missouri State Bears,2004-01-03,20.821920695635626,included_game_day
+2004,2623,Missouri State Bears,2004-01-07,26.775811209172357,included_game_day
+2004,2623,Missouri State Bears,2004-01-11,24.176136738576545,included_game_day
+2004,2623,Missouri State Bears,2004-01-15,23.580732777391635,included_game_day
+2004,2623,Missouri State Bears,2004-01-18,12.024934409200103,included_game_day
+2004,2623,Missouri State Bears,2004-01-21,11.012312495134744,included_game_day
+2004,2623,Missouri State Bears,2004-01-25,13.93764402151911,included_game_day
+2004,2623,Missouri State Bears,2004-01-28,0.9353552088696944,included_game_day
+2004,2623,Missouri State Bears,2004-01-31,16.32660500458917,included_game_day
+2004,2623,Missouri State Bears,2004-02-03,19.926897815097906,included_game_day
+2004,2623,Missouri State Bears,2004-02-07,25.82827146411033,included_game_day
+2004,2623,Missouri State Bears,2004-02-11,23.660810149624485,included_game_day
+2004,2623,Missouri State Bears,2004-02-14,27.109048736144246,included_game_day
+2004,2623,Missouri State Bears,2004-02-17,29.36681103018946,included_game_day
+2004,2623,Missouri State Bears,2004-02-21,23.021542099695424,included_game_day
+2004,2623,Missouri State Bears,2004-02-25,22.570918309115694,included_game_day
+2004,2623,Missouri State Bears,2004-02-28,46.26305534956374,included_game_day
+2004,2623,Missouri State Bears,2004-03-01,38.18107214872619,included_game_day
+2004,2623,Missouri State Bears,2004-03-06,50.65003440046091,included_game_day
+2004,2623,Missouri State Bears,2004-03-07,62.409265010683,included_game_day
+2004,2623,Missouri State Bears,2004-03-08,60.17944024193446,included_game_day
+2005,2623,Missouri State Bears,2004-11-20,-8.0,included_game_day
+2005,2623,Missouri State Bears,2004-11-24,-2.5999999999999996,included_game_day
+2005,2623,Missouri State Bears,2004-11-27,19.659999999999997,included_game_day
+2005,2623,Missouri State Bears,2004-12-03,48.815,included_game_day
+2005,2623,Missouri State Bears,2004-12-04,58.91256,included_game_day
+2005,2623,Missouri State Bears,2004-12-11,90.36881877100001,included_game_day
+2005,2623,Missouri State Bears,2004-12-19,86.68168930990001,included_game_day
+2005,2623,Missouri State Bears,2004-12-23,80.66796251994401,included_game_day
+2005,2623,Missouri State Bears,2004-12-30,76.12976692616633,included_game_day
+2005,2623,Missouri State Bears,2005-01-02,70.97442130693759,included_game_day
+2005,2623,Missouri State Bears,2005-01-05,59.52426798381103,included_game_day
+2005,2623,Missouri State Bears,2005-01-08,52.6906032027433,included_game_day
+2005,2623,Missouri State Bears,2005-01-12,52.847161206678194,included_game_day
+2005,2623,Missouri State Bears,2005-01-15,56.49453076327617,included_game_day
+2005,2623,Missouri State Bears,2005-01-18,45.385360554032474,included_game_day
+2005,2623,Missouri State Bears,2005-01-22,52.84307416565092,included_game_day
+2005,2623,Missouri State Bears,2005-01-26,66.35450544214784,included_game_day
+2005,2623,Missouri State Bears,2005-01-29,68.16892676839359,included_game_day
+2005,2623,Missouri State Bears,2005-02-03,81.29744418714228,included_game_day
+2005,2623,Missouri State Bears,2005-02-05,88.84683088542928,included_game_day
+2005,2623,Missouri State Bears,2005-02-09,90.8461953917335,included_game_day
+2005,2623,Missouri State Bears,2005-02-12,85.71719607655177,included_game_day
+2005,2623,Missouri State Bears,2005-02-15,77.13794582781696,included_game_day
+2005,2623,Missouri State Bears,2005-02-19,63.29988220108545,included_game_day
+2005,2623,Missouri State Bears,2005-02-26,67.90141023598997,included_game_day
+2005,2623,Missouri State Bears,2005-02-28,70.17718481101987,included_game_day
+2005,2623,Missouri State Bears,2005-03-05,79.98777804668978,included_game_day
+2005,2623,Missouri State Bears,2005-03-06,88.07663041841042,included_game_day
+2005,2623,Missouri State Bears,2005-03-07,74.51286446610686,included_game_day
+2005,2623,Missouri State Bears,2005-03-16,93.83602672040792,included_game_day
+2005,2623,Missouri State Bears,2005-03-19,74.26047946028,included_game_day
+2006,2623,Missouri State Bears,2005-11-19,33.0,included_game_day
+2006,2623,Missouri State Bears,2005-11-26,49.629999999999995,included_game_day
+2006,2623,Missouri State Bears,2005-12-02,89.98644999999999,included_game_day
+2006,2623,Missouri State Bears,2005-12-03,100.94224849999999,included_game_day
+2006,2623,Missouri State Bears,2005-12-07,107.82407991,included_game_day
+2006,2623,Missouri State Bears,2005-12-10,104.70354677984,included_game_day
+2006,2623,Missouri State Bears,2005-12-15,98.218593655856,included_game_day
+2006,2623,Missouri State Bears,2005-12-22,111.8377657097116,included_game_day
+2006,2623,Missouri State Bears,2005-12-28,86.60173224891683,included_game_day
+2006,2623,Missouri State Bears,2005-12-30,97.63548128252823,included_game_day
+2006,2623,Missouri State Bears,2006-01-02,98.83869974349086,included_game_day
+2006,2623,Missouri State Bears,2006-01-05,106.08124351890555,included_game_day
+2006,2623,Missouri State Bears,2006-01-07,91.53935930221883,included_game_day
+2006,2623,Missouri State Bears,2006-01-11,94.51160704343512,included_game_day
+2006,2623,Missouri State Bears,2006-01-14,69.97758540684721,included_game_day
+2006,2623,Missouri State Bears,2006-01-19,76.68779518833597,included_game_day
+2006,2623,Missouri State Bears,2006-01-22,68.06377694156785,included_game_day
+2006,2623,Missouri State Bears,2006-01-25,61.40275967633371,included_game_day
+2006,2623,Missouri State Bears,2006-01-29,73.99439531031719,included_game_day
+2006,2623,Missouri State Bears,2006-02-01,90.50203586501468,included_game_day
+2006,2623,Missouri State Bears,2006-02-04,95.46700084461648,included_game_day
+2006,2623,Missouri State Bears,2006-02-07,93.60964714484096,included_game_day
+2006,2623,Missouri State Bears,2006-02-11,102.00549646013708,included_game_day
+2006,2623,Missouri State Bears,2006-02-14,108.17998422998376,included_game_day
+2006,2623,Missouri State Bears,2006-02-18,116.97771290021637,included_game_day
+2006,2623,Missouri State Bears,2006-02-22,117.26891358694898,included_game_day
+2006,2623,Missouri State Bears,2006-02-25,114.84539672938365,included_game_day
+2006,2623,Missouri State Bears,2006-03-03,92.42299321462062,included_game_day
+2006,2623,Missouri State Bears,2006-03-17,94.14909909956017,included_game_day
+2006,2623,Missouri State Bears,2006-03-20,90.45138898645315,included_game_day
+2006,2623,Missouri State Bears,2006-03-22,75.5960428388281,included_game_day
+2007,2623,Missouri State Bears,2006-11-11,10.0,included_game_day
+2007,2623,Missouri State Bears,2006-11-19,26.194,included_game_day
+2007,2623,Missouri State Bears,2006-11-24,29.57056,included_game_day
+2007,2623,Missouri State Bears,2006-11-25,26.592056,included_game_day
+2007,2623,Missouri State Bears,2006-11-30,57.6698861,included_game_day
+2007,2623,Missouri State Bears,2006-12-02,77.8831816869,included_game_day
+2007,2623,Missouri State Bears,2006-12-06,82.13099433021,included_game_day
+2007,2623,Missouri State Bears,2006-12-09,92.505240372699,included_game_day
+2007,2623,Missouri State Bears,2006-12-16,101.6129995722701,included_game_day
+2007,2623,Missouri State Bears,2006-12-18,96.34185103196901,included_game_day
+2007,2623,Missouri State Bears,2006-12-22,104.968367308597,included_game_day
+2007,2623,Missouri State Bears,2006-12-30,98.55862293990268,included_game_day
+2007,2623,Missouri State Bears,2007-01-02,106.48036543622572,included_game_day
+2007,2623,Missouri State Bears,2007-01-07,110.25985760167956,included_game_day
+2007,2623,Missouri State Bears,2007-01-09,153.303730535319,included_game_day
+2007,2623,Missouri State Bears,2007-01-13,128.48798722078993,included_game_day
+2007,2623,Missouri State Bears,2007-01-15,129.77395718495504,included_game_day
+2007,2623,Missouri State Bears,2007-01-18,109.76225277490502,included_game_day
+2007,2623,Missouri State Bears,2007-01-21,96.63105166950605,included_game_day
+2007,2623,Missouri State Bears,2007-01-24,89.09895268477386,included_game_day
+2007,2623,Missouri State Bears,2007-01-27,101.27604845367455,included_game_day
+2007,2623,Missouri State Bears,2007-01-31,101.37490463065673,included_game_day
+2007,2623,Missouri State Bears,2007-02-03,124.42898837064725,included_game_day
+2007,2623,Missouri State Bears,2007-02-06,122.93996336499588,included_game_day
+2007,2623,Missouri State Bears,2007-02-10,120.96967890495691,included_game_day
+2007,2623,Missouri State Bears,2007-02-13,112.51202080469136,included_game_day
+2007,2623,Missouri State Bears,2007-02-16,95.65683476616557,included_game_day
+2007,2623,Missouri State Bears,2007-02-20,101.11118602946324,included_game_day
+2007,2623,Missouri State Bears,2007-02-24,108.93834292503995,included_game_day
+2007,2623,Missouri State Bears,2007-03-02,102.36278851079126,included_game_day
+2007,2623,Missouri State Bears,2007-03-03,87.90429248382472,included_game_day
+2007,2623,Missouri State Bears,2007-03-14,77.93153254623455,included_game_day
+2008,2623,Missouri State Bears,2007-11-10,-1.0,included_game_day
+2008,2623,Missouri State Bears,2007-11-17,28.88,included_game_day
+2008,2623,Missouri State Bears,2007-11-21,28.65966,included_game_day
+2008,2623,Missouri State Bears,2007-11-25,34.175984,included_game_day
+2008,2623,Missouri State Bears,2007-12-03,20.2136901,included_game_day
+2008,2623,Missouri State Bears,2007-12-05,22.562435326200003,included_game_day
+2008,2623,Missouri State Bears,2007-12-15,15.724635137280004,included_game_day
+2008,2623,Missouri State Bears,2007-12-17,18.05122666935098,included_game_day
+2008,2623,Missouri State Bears,2007-12-19,21.897731146506786,included_game_day
+2008,2623,Missouri State Bears,2007-12-22,14.963176787988917,included_game_day
+2008,2623,Missouri State Bears,2007-12-23,15.521930859900921,included_game_day
+2008,2623,Missouri State Bears,2007-12-30,10.153772286773481,included_game_day
+2008,2623,Missouri State Bears,2008-01-02,18.32880740645078,included_game_day
+2008,2623,Missouri State Bears,2008-01-05,17.965151138848764,included_game_day
+2008,2623,Missouri State Bears,2008-01-08,41.71345638274776,included_game_day
+2008,2623,Missouri State Bears,2008-01-12,40.86988075546698,included_game_day
+2008,2623,Missouri State Bears,2008-01-15,55.79637734805677,included_game_day
+2008,2623,Missouri State Bears,2008-01-20,39.445818737893624,included_game_day
+2008,2623,Missouri State Bears,2008-01-23,37.2342635283603,included_game_day
+2008,2623,Missouri State Bears,2008-01-26,11.396171410117223,included_game_day
+2008,2623,Missouri State Bears,2008-01-29,4.101541841825885,included_game_day
+2008,2623,Missouri State Bears,2008-02-02,6.223376261198192,included_game_day
+2008,2623,Missouri State Bears,2008-02-06,1.2563300470030363,included_game_day
+2008,2623,Missouri State Bears,2008-02-09,18.340927104141862,included_game_day
+2008,2623,Missouri State Bears,2008-02-13,13.677881366011592,included_game_day
+2008,2623,Missouri State Bears,2008-02-16,45.44232815402262,included_game_day
+2008,2623,Missouri State Bears,2008-02-19,27.420654675202538,included_game_day
+2008,2623,Missouri State Bears,2008-02-23,32.529966716924044,included_game_day
+2008,2623,Missouri State Bears,2008-02-26,39.382736279581486,included_game_day
+2008,2623,Missouri State Bears,2008-03-01,50.875866417871585,included_game_day
+2008,2623,Missouri State Bears,2008-03-06,63.98958868985059,included_game_day
+2008,2623,Missouri State Bears,2008-03-07,60.68379816986942,included_game_day
+2009,2623,Missouri State Bears,2008-11-14,-12.0,included_game_day
+2009,2623,Missouri State Bears,2008-11-17,-4.3,included_game_day
+2009,2623,Missouri State Bears,2008-11-22,-1.1559999999999997,included_game_day
+2009,2623,Missouri State Bears,2008-11-28,-11.5092,included_game_day
+2009,2623,Missouri State Bears,2008-12-03,11.772717,included_game_day
+2009,2623,Missouri State Bears,2008-12-06,14.0802031,included_game_day
+2009,2623,Missouri State Bears,2008-12-10,14.1104419927,included_game_day
+2009,2623,Missouri State Bears,2008-12-13,22.841697463430002,included_game_day
+2009,2623,Missouri State Bears,2008-12-20,16.41280444059483,included_game_day
+2009,2623,Missouri State Bears,2008-12-21,12.662427917945886,included_game_day
+2009,2623,Missouri State Bears,2008-12-22,-0.2315801021401942,included_game_day
+2009,2623,Missouri State Bears,2008-12-28,0.724519273982926,included_game_day
+2009,2623,Missouri State Bears,2008-12-31,-10.824815321813162,included_game_day
+2009,2623,Missouri State Bears,2009-01-03,-19.39251711398135,included_game_day
+2009,2623,Missouri State Bears,2009-01-07,-16.391586019920247,included_game_day
+2009,2623,Missouri State Bears,2009-01-10,-21.94892468341886,included_game_day
+2009,2623,Missouri State Bears,2009-01-14,-11.934098300475723,included_game_day
+2009,2623,Missouri State Bears,2009-01-18,-11.675894441240365,included_game_day
+2009,2623,Missouri State Bears,2009-01-21,10.091272010397999,included_game_day
+2009,2623,Missouri State Bears,2009-01-25,4.573885184292494,included_game_day
+2009,2623,Missouri State Bears,2009-01-29,-2.305871633875057,included_game_day
+2009,2623,Missouri State Bears,2009-02-01,-18.820034031116013,included_game_day
+2009,2623,Missouri State Bears,2009-02-04,-16.67507110816404,included_game_day
+2009,2623,Missouri State Bears,2009-02-07,-24.42648779165131,included_game_day
+2009,2623,Missouri State Bears,2009-02-10,-20.01697815199108,included_game_day
+2009,2623,Missouri State Bears,2009-02-14,-28.398050238006668,included_game_day
+2009,2623,Missouri State Bears,2009-02-17,-32.22003030627837,included_game_day
+2009,2623,Missouri State Bears,2009-02-21,-17.02060059162964,included_game_day
+2009,2623,Missouri State Bears,2009-02-24,-14.459831608704413,included_game_day
+2009,2623,Missouri State Bears,2009-02-28,-28.214929128274115,included_game_day
+2009,2623,Missouri State Bears,2009-03-05,-37.12297393224679,included_game_day
+2010,2623,Missouri State Bears,2009-11-16,8.1,included_game_day
+2010,2623,Missouri State Bears,2009-11-20,17.299999999999997,included_game_day
+2010,2623,Missouri State Bears,2009-11-21,29.665,included_game_day
+2010,2623,Missouri State Bears,2009-11-22,39.577,included_game_day
+2010,2623,Missouri State Bears,2009-11-28,46.336197,included_game_day
+2010,2623,Missouri State Bears,2009-12-02,53.91351023,included_game_day
+2010,2623,Missouri State Bears,2009-12-05,54.162585707,included_game_day
+2010,2623,Missouri State Bears,2009-12-09,67.9873346715,included_game_day
+2010,2623,Missouri State Bears,2009-12-12,72.96786438535,included_game_day
+2010,2623,Missouri State Bears,2009-12-19,82.73727777420599,included_game_day
+2010,2623,Missouri State Bears,2009-12-22,75.64473897682626,included_game_day
+2010,2623,Missouri State Bears,2009-12-29,84.89001852861227,included_game_day
+2010,2623,Missouri State Bears,2010-01-01,84.5773537195707,included_game_day
+2010,2623,Missouri State Bears,2010-01-03,80.00284951916196,included_game_day
+2010,2623,Missouri State Bears,2010-01-06,74.09830504776747,included_game_day
+2010,2623,Missouri State Bears,2010-01-09,82.84218735836943,included_game_day
+2010,2623,Missouri State Bears,2010-01-12,63.3613553040639,included_game_day
+2010,2623,Missouri State Bears,2010-01-16,42.67125779212912,included_game_day
+2010,2623,Missouri State Bears,2010-01-19,42.22984727144786,included_game_day
+2010,2623,Missouri State Bears,2010-01-24,38.927107871118565,included_game_day
+2010,2623,Missouri State Bears,2010-01-27,36.85042668587689,included_game_day
+2010,2623,Missouri State Bears,2010-01-30,40.43039194663404,included_game_day
+2010,2623,Missouri State Bears,2010-02-03,35.352889288618755,included_game_day
+2010,2623,Missouri State Bears,2010-02-06,49.82568962983706,included_game_day
+2010,2623,Missouri State Bears,2010-02-10,50.129131725276316,included_game_day
+2010,2623,Missouri State Bears,2010-02-14,52.39008422734312,included_game_day
+2010,2623,Missouri State Bears,2010-02-17,51.90387531143944,included_game_day
+2010,2623,Missouri State Bears,2010-02-20,50.760389045725226,included_game_day
+2010,2623,Missouri State Bears,2010-02-24,61.50028945182248,included_game_day
+2010,2623,Missouri State Bears,2010-02-27,56.64998439629741,included_game_day
+2010,2623,Missouri State Bears,2010-03-04,53.64185860602522,included_game_day
+2010,2623,Missouri State Bears,2010-03-05,45.102238573821644,included_game_day
+2010,2623,Missouri State Bears,2010-03-17,47.769507045367064,included_game_day
+2010,2623,Missouri State Bears,2010-03-22,70.98021739530587,included_game_day
+2010,2623,Missouri State Bears,2010-03-24,71.28249300795665,included_game_day
+2010,2623,Missouri State Bears,2010-03-30,80.3661764091987,included_game_day
+2011,2623,Missouri State Bears,2010-11-12,14.0,included_game_day
+2011,2623,Missouri State Bears,2010-11-16,21.1,included_game_day
+2011,2623,Missouri State Bears,2010-11-17,20.12,included_game_day
+2011,2623,Missouri State Bears,2010-11-19,9.628,included_game_day
+2011,2623,Missouri State Bears,2010-11-22,24.9283,included_game_day
+2011,2623,Missouri State Bears,2010-11-23,31.670569999999998,included_game_day
+2011,2623,Missouri State Bears,2010-12-01,58.5498294,included_game_day
+2011,2623,Missouri State Bears,2010-12-04,88.123066119,included_game_day
+2011,2623,Missouri State Bears,2010-12-11,75.12282424871,included_game_day
+2011,2623,Missouri State Bears,2010-12-18,79.7849271318198,included_game_day
+2011,2623,Missouri State Bears,2010-12-22,74.55892616407588,included_game_day
+2011,2623,Missouri State Bears,2010-12-29,76.70390686720977,included_game_day
+2011,2623,Missouri State Bears,2011-01-01,75.7178252487418,included_game_day
+2011,2623,Missouri State Bears,2011-01-04,87.63462352783202,included_game_day
+2011,2623,Missouri State Bears,2011-01-07,89.10699232756178,included_game_day
+2011,2623,Missouri State Bears,2011-01-09,96.36705087250343,included_game_day
+2011,2623,Missouri State Bears,2011-01-12,95.80249211746128,included_game_day
+2011,2623,Missouri State Bears,2011-01-16,95.60509095035962,included_game_day
+2011,2623,Missouri State Bears,2011-01-19,91.86325043561395,included_game_day
+2011,2623,Missouri State Bears,2011-01-22,84.0201303383547,included_game_day
+2011,2623,Missouri State Bears,2011-01-25,77.57660049219734,included_game_day
+2011,2623,Missouri State Bears,2011-01-30,71.56570952865933,included_game_day
+2011,2623,Missouri State Bears,2011-02-02,56.18384820647922,included_game_day
+2011,2623,Missouri State Bears,2011-02-05,55.372499521700696,included_game_day
+2011,2623,Missouri State Bears,2011-02-09,51.7400309172515,included_game_day
+2011,2623,Missouri State Bears,2011-02-12,55.28077298586881,included_game_day
+2011,2623,Missouri State Bears,2011-02-15,55.18432822399534,included_game_day
+2011,2623,Missouri State Bears,2011-02-19,44.74786176739844,included_game_day
+2011,2623,Missouri State Bears,2011-02-23,56.912751029013776,included_game_day
+2011,2623,Missouri State Bears,2011-02-26,62.01730911236938,included_game_day
+2011,2623,Missouri State Bears,2011-03-04,52.36997380545284,included_game_day
+2011,2623,Missouri State Bears,2011-03-05,62.30576205084086,included_game_day
+2011,2623,Missouri State Bears,2011-03-06,56.17008430623677,included_game_day
+2011,2623,Missouri State Bears,2011-03-15,64.8025635256248,included_game_day
+2011,2623,Missouri State Bears,2011-03-21,62.0045138277815,included_game_day
+2012,2623,Missouri State Bears,2011-11-11,25.0,included_game_day
+2012,2623,Missouri State Bears,2011-11-15,56.5,included_game_day
+2012,2623,Missouri State Bears,2011-11-26,55.029431,included_game_day
+2012,2623,Missouri State Bears,2011-11-30,50.8634679,included_game_day
+2012,2623,Missouri State Bears,2011-12-03,36.151347920000006,included_game_day
+2012,2623,Missouri State Bears,2011-12-07,27.880438218000005,included_game_day
+2012,2623,Missouri State Bears,2011-12-10,31.145011863200004,included_game_day
+2012,2623,Missouri State Bears,2011-12-17,37.2521628500723,included_game_day
+2012,2623,Missouri State Bears,2011-12-19,37.75251641080838,included_game_day
+2012,2623,Missouri State Bears,2011-12-22,39.74553831033491,included_game_day
+2012,2623,Missouri State Bears,2011-12-23,27.030116539855214,included_game_day
+2012,2623,Missouri State Bears,2011-12-28,51.01823599501017,included_game_day
+2012,2623,Missouri State Bears,2011-12-31,55.03245157321315,included_game_day
+2012,2623,Missouri State Bears,2012-01-04,42.48726527185865,included_game_day
+2012,2623,Missouri State Bears,2012-01-07,48.07765463788699,included_game_day
+2012,2623,Missouri State Bears,2012-01-10,50.3803376698952,included_game_day
+2012,2623,Missouri State Bears,2012-01-13,53.80365044740391,included_game_day
+2012,2623,Missouri State Bears,2012-01-15,40.51378581128747,included_game_day
+2012,2623,Missouri State Bears,2012-01-18,43.634118649353475,included_game_day
+2012,2623,Missouri State Bears,2012-01-21,38.79950280839664,included_game_day
+2012,2623,Missouri State Bears,2012-01-25,33.8014049072689,included_game_day
+2012,2623,Missouri State Bears,2012-01-28,43.64073663945111,included_game_day
+2012,2623,Missouri State Bears,2012-02-01,41.78186765702664,included_game_day
+2012,2623,Missouri State Bears,2012-02-04,61.33753308535931,included_game_day
+2012,2623,Missouri State Bears,2012-02-08,56.33043616981736,included_game_day
+2012,2623,Missouri State Bears,2012-02-12,49.97640872440473,included_game_day
+2012,2623,Missouri State Bears,2012-02-15,48.30063443045442,included_game_day
+2012,2623,Missouri State Bears,2012-02-18,39.57710818881122,included_game_day
+2012,2623,Missouri State Bears,2012-02-22,19.040615793973807,included_game_day
+2012,2623,Missouri State Bears,2012-02-25,19.79704115523421,included_game_day
+2012,2623,Missouri State Bears,2012-03-02,14.402181444242537,included_game_day
+2013,2623,Missouri State Bears,2012-11-17,-20.3,included_game_day
+2013,2623,Missouri State Bears,2012-11-19,-28.905,included_game_day
+2013,2623,Missouri State Bears,2012-11-24,-32.367649,included_game_day
+2013,2623,Missouri State Bears,2012-11-25,-28.7281431,included_game_day
+2013,2623,Missouri State Bears,2012-12-01,-49.600289371,included_game_day
+2013,2623,Missouri State Bears,2012-12-05,-62.007703433900005,included_game_day
+2013,2623,Missouri State Bears,2012-12-08,-66.65589811851001,included_game_day
+2013,2623,Missouri State Bears,2012-12-15,-67.17409287117901,included_game_day
+2013,2623,Missouri State Bears,2012-12-18,-80.65579036813811,included_game_day
+2013,2623,Missouri State Bears,2012-12-22,-87.7639471534607,included_game_day
+2013,2623,Missouri State Bears,2012-12-30,-69.62196413474612,included_game_day
+2013,2623,Missouri State Bears,2013-01-02,-60.64230423220654,included_game_day
+2013,2623,Missouri State Bears,2013-01-05,-39.27287645547803,included_game_day
+2013,2623,Missouri State Bears,2013-01-08,-25.349643500631007,included_game_day
+2013,2623,Missouri State Bears,2013-01-11,-32.90362492707108,included_game_day
+2013,2623,Missouri State Bears,2013-01-16,-30.136854551126167,included_game_day
+2013,2623,Missouri State Bears,2013-01-19,-26.25812795546571,included_game_day
+2013,2623,Missouri State Bears,2013-01-23,-26.379511330342766,included_game_day
+2013,2623,Missouri State Bears,2013-01-27,-20.848495075440923,included_game_day
+2013,2623,Missouri State Bears,2013-01-30,-14.96750754736037,included_game_day
+2013,2623,Missouri State Bears,2013-02-02,-12.704619285205906,included_game_day
+2013,2623,Missouri State Bears,2013-02-05,-11.973914028586853,included_game_day
+2013,2623,Missouri State Bears,2013-02-09,-28.79890327152617,included_game_day
+2013,2623,Missouri State Bears,2013-02-12,-19.691833542216138,included_game_day
+2013,2623,Missouri State Bears,2013-02-16,-25.009614741968832,included_game_day
+2013,2623,Missouri State Bears,2013-02-19,-23.392506149929687,included_game_day
+2013,2623,Missouri State Bears,2013-02-23,-18.41202319386602,included_game_day
+2013,2623,Missouri State Bears,2013-02-27,-44.05763279361773,included_game_day
+2013,2623,Missouri State Bears,2013-03-02,-36.0609319262351,included_game_day
+2013,2623,Missouri State Bears,2013-03-07,-24.02623027135618,included_game_day
+2013,2623,Missouri State Bears,2013-03-08,-22.31630589888899,included_game_day
+2014,2623,Missouri State Bears,2013-11-08,15.0,included_game_day
+2014,2623,Missouri State Bears,2013-11-16,12.6,included_game_day
+2014,2623,Missouri State Bears,2013-11-20,31.230000000000004,included_game_day
+2014,2623,Missouri State Bears,2013-11-24,38.878600000000006,included_game_day
+2014,2623,Missouri State Bears,2013-11-26,29.150955100000004,included_game_day
+2014,2623,Missouri State Bears,2013-11-29,38.89578499,included_game_day
+2014,2623,Missouri State Bears,2013-11-30,22.460400990000004,included_game_day
+2014,2623,Missouri State Bears,2013-12-13,26.541265644000003,included_game_day
+2014,2623,Missouri State Bears,2013-12-17,11.440061072590801,included_game_day
+2014,2623,Missouri State Bears,2013-12-21,22.13417692883172,included_game_day
+2014,2623,Missouri State Bears,2013-12-29,20.115983386182965,included_game_day
+2014,2623,Missouri State Bears,2014-01-02,21.62366647688036,included_game_day
+2014,2623,Missouri State Bears,2014-01-05,-12.544488216843341,included_game_day
+2014,2623,Missouri State Bears,2014-01-08,-9.110045847343848,included_game_day
+2014,2623,Missouri State Bears,2014-01-11,-3.43255368736615,included_game_day
+2014,2623,Missouri State Bears,2014-01-15,-9.760458455278835,included_game_day
+2014,2623,Missouri State Bears,2014-01-18,-5.374282840457203,included_game_day
+2014,2623,Missouri State Bears,2014-01-21,-8.39191685881515,included_game_day
+2014,2623,Missouri State Bears,2014-01-25,-8.287536371307695,included_game_day
+2014,2623,Missouri State Bears,2014-01-29,-14.884124054047952,included_game_day
+2014,2623,Missouri State Bears,2014-02-01,-4.3202235173821535,included_game_day
+2014,2623,Missouri State Bears,2014-02-05,8.292029068039422,included_game_day
+2014,2623,Missouri State Bears,2014-02-08,-6.562090740377442,included_game_day
+2014,2623,Missouri State Bears,2014-02-12,-5.622185799873405,included_game_day
+2014,2623,Missouri State Bears,2014-02-15,-6.8161804796508685,included_game_day
+2014,2623,Missouri State Bears,2014-02-18,-6.706279060874795,included_game_day
+2014,2623,Missouri State Bears,2014-02-22,5.064564193664959,included_game_day
+2014,2623,Missouri State Bears,2014-02-25,13.349255526534138,included_game_day
+2014,2623,Missouri State Bears,2014-03-01,6.865620069508145,included_game_day
+2014,2623,Missouri State Bears,2014-03-07,12.792295926467933,included_game_day
+2014,2623,Missouri State Bears,2014-03-08,2.4819130468161887,included_game_day
+2014,2623,Missouri State Bears,2014-03-19,-1.4703469006102177,included_game_day
+2015,2623,Missouri State Bears,2014-11-14,8.0,included_game_day
+2015,2623,Missouri State Bears,2014-11-22,-1.1099999999999994,included_game_day
+2015,2623,Missouri State Bears,2014-11-27,-13.5423,included_game_day
+2015,2623,Missouri State Bears,2014-11-29,-21.671988,included_game_day
+2015,2623,Missouri State Bears,2014-12-04,-18.690457199999997,included_game_day
+2015,2623,Missouri State Bears,2014-12-13,-1.1754804035999982,included_game_day
+2015,2623,Missouri State Bears,2014-12-15,-19.537474393239997,included_game_day
+2015,2623,Missouri State Bears,2014-12-17,-17.543200310015997,included_game_day
+2015,2623,Missouri State Bears,2014-12-20,-27.884522102349397,included_game_day
+2015,2623,Missouri State Bears,2014-12-22,-24.30869222909691,included_game_day
+2015,2623,Missouri State Bears,2014-12-31,-16.745016664326428,included_game_day
+2015,2623,Missouri State Bears,2015-01-03,0.11813546480571091,included_game_day
+2015,2623,Missouri State Bears,2015-01-07,-14.437682128007072,included_game_day
+2015,2623,Missouri State Bears,2015-01-11,-24.55833661307387,included_game_day
+2015,2623,Missouri State Bears,2015-01-14,-23.37653399508858,included_game_day
+2015,2623,Missouri State Bears,2015-01-18,-23.12784962211832,included_game_day
+2015,2623,Missouri State Bears,2015-01-21,-35.611747046443526,included_game_day
+2015,2623,Missouri State Bears,2015-01-24,-35.162958593560134,included_game_day
+2015,2623,Missouri State Bears,2015-01-28,-33.424112510389065,included_game_day
+2015,2623,Missouri State Bears,2015-01-31,-28.923259521323853,included_game_day
+2015,2623,Missouri State Bears,2015-02-04,-31.829039224075608,included_game_day
+2015,2623,Missouri State Bears,2015-02-07,-58.60688788588667,included_game_day
+2015,2623,Missouri State Bears,2015-02-10,-57.474917683404556,included_game_day
+2015,2623,Missouri State Bears,2015-02-15,-54.56908122953347,included_game_day
+2015,2623,Missouri State Bears,2015-02-18,-46.109569586526085,included_game_day
+2015,2623,Missouri State Bears,2015-02-22,-79.63340742982668,included_game_day
+2015,2623,Missouri State Bears,2015-02-25,-76.66718250643879,included_game_day
+2015,2623,Missouri State Bears,2015-02-28,-80.79005505657224,included_game_day
+2015,2623,Missouri State Bears,2015-03-05,-84.31941709343651,included_game_day
+2016,2623,Missouri State Bears,2015-11-13,-12.0,included_game_day
+2016,2623,Missouri State Bears,2015-11-19,-37.8,included_game_day
+2016,2623,Missouri State Bears,2015-11-22,-49.824,included_game_day
+2016,2623,Missouri State Bears,2015-12-01,-49.067648,included_game_day
+2016,2623,Missouri State Bears,2015-12-05,-36.7155192,included_game_day
+2016,2623,Missouri State Bears,2015-12-10,-24.838770249700005,included_game_day
+2016,2623,Missouri State Bears,2015-12-13,-31.433457013730006,included_game_day
+2016,2623,Missouri State Bears,2015-12-16,-11.972559826257005,included_game_day
+2016,2623,Missouri State Bears,2015-12-19,-31.342936726341303,included_game_day
+2016,2623,Missouri State Bears,2015-12-22,-45.57481237721426,included_game_day
+2016,2623,Missouri State Bears,2015-12-30,-53.18384481823635,included_game_day
+2016,2623,Missouri State Bears,2016-01-02,-60.192032092068686,included_game_day
+2016,2623,Missouri State Bears,2016-01-06,-51.13714570081531,included_game_day
+2016,2623,Missouri State Bears,2016-01-09,-43.89027500381933,included_game_day
+2016,2623,Missouri State Bears,2016-01-13,-47.5577587717283,included_game_day
+2016,2623,Missouri State Bears,2016-01-16,-33.98958372531316,included_game_day
+2016,2623,Missouri State Bears,2016-01-20,-23.51671620243262,included_game_day
+2016,2623,Missouri State Bears,2016-01-24,-34.71389931381956,included_game_day
+2016,2623,Missouri State Bears,2016-01-27,-32.79504958122321,included_game_day
+2016,2623,Missouri State Bears,2016-01-30,-30.15567845769559,included_game_day
+2016,2623,Missouri State Bears,2016-02-02,-38.79100266673982,included_game_day
+2016,2623,Missouri State Bears,2016-02-06,-44.578386658673956,included_game_day
+2016,2623,Missouri State Bears,2016-02-10,-47.484443359355055,included_game_day
+2016,2623,Missouri State Bears,2016-02-13,-42.05078835754482,included_game_day
+2016,2623,Missouri State Bears,2016-02-18,-50.424138536128275,included_game_day
+2016,2623,Missouri State Bears,2016-02-21,-60.87330217993727,included_game_day
+2016,2623,Missouri State Bears,2016-02-24,-56.69333335654765,included_game_day
+2016,2623,Missouri State Bears,2016-02-27,-58.66182018305041,included_game_day
+2016,2623,Missouri State Bears,2016-03-03,-57.51926980459878,included_game_day
+2016,2623,Missouri State Bears,2016-03-04,-57.04007855382985,included_game_day
+2017,2623,Missouri State Bears,2016-11-11,31.0,included_game_day
+2017,2623,Missouri State Bears,2016-11-13,52.3,included_game_day
+2017,2623,Missouri State Bears,2016-11-23,48.8095,included_game_day
+2017,2623,Missouri State Bears,2016-11-27,57.55085,included_game_day
+2017,2623,Missouri State Bears,2016-12-03,43.6863895,included_game_day
+2017,2623,Missouri State Bears,2016-12-07,48.61732391538,included_game_day
+2017,2623,Missouri State Bears,2016-12-10,39.464250817042,included_game_day
+2017,2623,Missouri State Bears,2016-12-14,33.7240390043278,included_game_day
+2017,2623,Missouri State Bears,2016-12-17,28.90792773970282,included_game_day
+2017,2623,Missouri State Bears,2016-12-19,33.00518936090343,included_game_day
+2017,2623,Missouri State Bears,2016-12-22,29.65693245311777,included_game_day
+2017,2623,Missouri State Bears,2016-12-23,39.061754755323285,included_game_day
+2017,2623,Missouri State Bears,2016-12-28,39.42751602887073,included_game_day
+2017,2623,Missouri State Bears,2016-12-31,37.411630952637914,included_game_day
+2017,2623,Missouri State Bears,2017-01-04,42.19761351290482,included_game_day
+2017,2623,Missouri State Bears,2017-01-07,26.24404931445031,included_game_day
+2017,2623,Missouri State Bears,2017-01-11,23.798277392681264,included_game_day
+2017,2623,Missouri State Bears,2017-01-15,21.70847261507655,included_game_day
+2017,2623,Missouri State Bears,2017-01-18,24.404978247121193,included_game_day
+2017,2623,Missouri State Bears,2017-01-21,27.95616591888401,included_game_day
+2017,2623,Missouri State Bears,2017-01-24,19.04054939519753,included_game_day
+2017,2623,Missouri State Bears,2017-01-28,17.184402747363855,included_game_day
+2017,2623,Missouri State Bears,2017-01-31,18.179812801747325,included_game_day
+2017,2623,Missouri State Bears,2017-02-04,8.766929989885066,included_game_day
+2017,2623,Missouri State Bears,2017-02-09,10.728492165808833,included_game_day
+2017,2623,Missouri State Bears,2017-02-12,4.773093415099829,included_game_day
+2017,2623,Missouri State Bears,2017-02-15,8.338793640166582,included_game_day
+2017,2623,Missouri State Bears,2017-02-18,5.880843468382928,included_game_day
+2017,2623,Missouri State Bears,2017-02-22,-4.530759682900886,included_game_day
+2017,2623,Missouri State Bears,2017-02-25,-6.482575848655387,included_game_day
+2017,2623,Missouri State Bears,2017-03-03,-2.442745661225456,included_game_day
+2017,2623,Missouri State Bears,2017-03-04,3.0286093521531354,included_game_day
+2018,2623,Missouri State Bears,2017-11-10,8.0,included_game_day
+2018,2623,Missouri State Bears,2017-11-15,27.72,included_game_day
+2018,2623,Missouri State Bears,2017-11-17,17.198,included_game_day
+2018,2623,Missouri State Bears,2017-11-20,17.028200000000002,included_game_day
+2018,2623,Missouri State Bears,2017-11-21,17.4401,included_game_day
+2018,2623,Missouri State Bears,2017-11-22,25.95363,included_game_day
+2018,2623,Missouri State Bears,2017-11-28,27.257398000000002,included_game_day
+2018,2623,Missouri State Bears,2017-12-02,46.986746280000006,included_game_day
+2018,2623,Missouri State Bears,2017-12-04,59.047939798,included_game_day
+2018,2623,Missouri State Bears,2017-12-08,58.32232512369,included_game_day
+2018,2623,Missouri State Bears,2017-12-10,41.609927713920996,included_game_day
+2018,2623,Missouri State Bears,2017-12-19,51.1310130542419,included_game_day
+2018,2623,Missouri State Bears,2017-12-22,51.76954255264901,included_game_day
+2018,2623,Missouri State Bears,2017-12-31,65.97650918574382,included_game_day
+2018,2623,Missouri State Bears,2018-01-04,64.393249278278,included_game_day
+2018,2623,Missouri State Bears,2018-01-07,53.78874226533903,included_game_day
+2018,2623,Missouri State Bears,2018-01-10,42.71892417823941,included_game_day
+2018,2623,Missouri State Bears,2018-01-14,37.924768414572945,included_game_day
+2018,2623,Missouri State Bears,2018-01-17,38.73091469227358,included_game_day
+2018,2623,Missouri State Bears,2018-01-20,35.21709178879927,included_game_day
+2018,2623,Missouri State Bears,2018-01-23,14.817977611548468,included_game_day
+2018,2623,Missouri State Bears,2018-01-27,9.565221262780774,included_game_day
+2018,2623,Missouri State Bears,2018-01-30,-13.386653497749585,included_game_day
+2018,2623,Missouri State Bears,2018-02-03,-21.654802165453294,included_game_day
+2018,2623,Missouri State Bears,2018-02-06,4.63060860114193,included_game_day
+2018,2623,Missouri State Bears,2018-02-10,17.985910221649757,included_game_day
+2018,2623,Missouri State Bears,2018-02-14,21.308127405352277,included_game_day
+2018,2623,Missouri State Bears,2018-02-18,13.060266394155343,included_game_day
+2018,2623,Missouri State Bears,2018-02-21,4.16643860964507,included_game_day
+2018,2623,Missouri State Bears,2018-02-24,-8.420943868582512,included_game_day
+2018,2623,Missouri State Bears,2018-03-01,-2.763332607588401,included_game_day
+2018,2623,Missouri State Bears,2018-03-02,-8.107473634661917,included_game_day
+2019,2623,Missouri State Bears,2018-11-06,31.0,included_game_day
+2019,2623,Missouri State Bears,2018-11-09,37.1,included_game_day
+2019,2623,Missouri State Bears,2018-11-11,43.39,included_game_day
+2019,2623,Missouri State Bears,2018-11-19,27.925,included_game_day
+2019,2623,Missouri State Bears,2018-11-20,9.046790000000001,included_game_day
+2019,2623,Missouri State Bears,2018-11-24,1.9421110000000015,included_game_day
+2019,2623,Missouri State Bears,2018-11-28,-19.398611900000002,included_game_day
+2019,2623,Missouri State Bears,2018-12-01,-35.27843551,included_game_day
+2019,2623,Missouri State Bears,2018-12-05,-28.295074959,included_game_day
+2019,2623,Missouri State Bears,2018-12-15,-33.957757545890004,included_game_day
+2019,2623,Missouri State Bears,2018-12-18,-38.6124220289957,included_game_day
+2019,2623,Missouri State Bears,2018-12-22,-24.314113907694363,included_game_day
+2019,2623,Missouri State Bears,2019-01-02,-23.067971799667944,included_game_day
+2019,2623,Missouri State Bears,2019-01-05,-43.85022036878475,included_game_day
+2019,2623,Missouri State Bears,2019-01-08,-22.618956276808706,included_game_day
+2019,2623,Missouri State Bears,2019-01-12,-16.92079152341581,included_game_day
+2019,2623,Missouri State Bears,2019-01-16,-24.22786902154145,included_game_day
+2019,2623,Missouri State Bears,2019-01-20,-25.986655171931027,included_game_day
+2019,2623,Missouri State Bears,2019-01-23,14.300144403033151,included_game_day
+2019,2623,Missouri State Bears,2019-01-26,24.60583484026248,included_game_day
+2019,2623,Missouri State Bears,2019-01-29,22.895920755623152,included_game_day
+2019,2623,Missouri State Bears,2019-02-02,16.359242978087686,included_game_day
+2019,2623,Missouri State Bears,2019-02-06,16.458899940119487,included_game_day
+2019,2623,Missouri State Bears,2019-02-10,12.355201502571983,included_game_day
+2019,2623,Missouri State Bears,2019-02-13,21.810759661517558,included_game_day
+2019,2623,Missouri State Bears,2019-02-17,30.16726740095399,included_game_day
+2019,2623,Missouri State Bears,2019-02-20,4.061857637284007,included_game_day
+2019,2623,Missouri State Bears,2019-02-23,3.4281871791749525,included_game_day
+2019,2623,Missouri State Bears,2019-02-27,-5.229586790041245,included_game_day
+2019,2623,Missouri State Bears,2019-03-02,-17.39702893234999,included_game_day
+2019,2623,Missouri State Bears,2019-03-08,-17.43189199715673,included_game_day
+2020,2623,Missouri State Bears,2019-11-05,-4.0,included_game_day
+2020,2623,Missouri State Bears,2019-11-10,-0.40000000000000036,included_game_day
+2020,2623,Missouri State Bears,2019-11-12,13.44,included_game_day
+2020,2623,Missouri State Bears,2019-11-15,15.512,included_game_day
+2020,2623,Missouri State Bears,2019-11-21,13.2929,included_game_day
+2020,2623,Missouri State Bears,2019-11-22,12.3468,included_game_day
+2020,2623,Missouri State Bears,2019-11-24,9.759709,included_game_day
+2020,2623,Missouri State Bears,2019-11-29,2.137766400000001,included_game_day
+2020,2623,Missouri State Bears,2019-12-03,-0.8381135099999986,included_game_day
+2020,2623,Missouri State Bears,2019-12-06,2.1366787910000022,included_game_day
+2020,2623,Missouri State Bears,2019-12-11,21.716262464781,included_game_day
+2020,2623,Missouri State Bears,2019-12-15,17.5300513982429,included_game_day
+2020,2623,Missouri State Bears,2019-12-21,10.502798163744611,included_game_day
+2020,2623,Missouri State Bears,2019-12-31,17.44257853229857,included_game_day
+2020,2623,Missouri State Bears,2020-01-04,18.96621501806213,included_game_day
+2020,2623,Missouri State Bears,2020-01-07,20.788181140312297,included_game_day
+2020,2623,Missouri State Bears,2020-01-11,-2.0381692398695677,included_game_day
+2020,2623,Missouri State Bears,2020-01-15,-10.780827212472817,included_game_day
+2020,2623,Missouri State Bears,2020-01-18,-4.473601970588901,included_game_day
+2020,2623,Missouri State Bears,2020-01-23,1.3629113232218328,included_game_day
+2020,2623,Missouri State Bears,2020-01-26,3.6064623683198995,included_game_day
+2020,2623,Missouri State Bears,2020-01-29,-13.917883064205114,included_game_day
+2020,2623,Missouri State Bears,2020-02-01,-23.37339771331107,included_game_day
+2020,2623,Missouri State Bears,2020-02-05,-8.40892130344527,included_game_day
+2020,2623,Missouri State Bears,2020-02-08,-3.4959367380234845,included_game_day
+2020,2623,Missouri State Bears,2020-02-12,30.94604976823641,included_game_day
+2020,2623,Missouri State Bears,2020-02-16,47.46671324976846,included_game_day
+2020,2623,Missouri State Bears,2020-02-19,45.78514301991662,included_game_day
+2020,2623,Missouri State Bears,2020-02-22,55.72783689406172,included_game_day
+2020,2623,Missouri State Bears,2020-02-25,40.778688361595414,included_game_day
+2020,2623,Missouri State Bears,2020-02-29,58.645210478187096,included_game_day
+2020,2623,Missouri State Bears,2020-03-06,84.02509995342744,included_game_day
+2020,2623,Missouri State Bears,2020-03-07,71.1040126514001,included_game_day
+2021,2623,Missouri State Bears,2020-12-19,16.463669963,included_game_day
+2021,2623,Missouri State Bears,2020-12-21,19.956242966700003,included_game_day
+2021,2623,Missouri State Bears,2020-12-27,38.484488670030004,included_game_day
+2021,2623,Missouri State Bears,2020-12-28,23.307085232694003,included_game_day
+2021,2623,Missouri State Bears,2021-01-02,26.995153242893604,included_game_day
+2021,2623,Missouri State Bears,2021-01-03,23.945607651053283,included_game_day
+2021,2623,Missouri State Bears,2021-01-09,36.88082374767795,included_game_day
+2021,2623,Missouri State Bears,2021-01-10,44.22899662497769,included_game_day
+2021,2623,Missouri State Bears,2021-01-26,43.22309758879939,included_game_day
+2021,2623,Missouri State Bears,2021-01-27,44.41837835985676,included_game_day
+2021,2623,Missouri State Bears,2021-01-31,23.732727720062787,included_game_day
+2021,2623,Missouri State Bears,2021-02-01,13.18420720822761,included_game_day
+2021,2623,Missouri State Bears,2021-02-06,16.38990254511464,included_game_day
+2021,2623,Missouri State Bears,2021-02-07,21.954458814624267,included_game_day
+2021,2623,Missouri State Bears,2021-02-10,25.63266039716754,included_game_day
+2021,2623,Missouri State Bears,2021-02-13,43.79321781288223,included_game_day
+2021,2623,Missouri State Bears,2021-02-14,51.32166374545399,included_game_day
+2021,2623,Missouri State Bears,2021-02-17,58.64075212309734,included_game_day
+2021,2623,Missouri State Bears,2021-02-26,62.40167863117724,included_game_day
+2021,2623,Missouri State Bears,2021-02-27,47.41041983764116,included_game_day
+2021,2623,Missouri State Bears,2021-03-05,51.88215009695497,included_game_day
+2021,2623,Missouri State Bears,2021-03-06,50.88943113375762,included_game_day
+2022,2623,Missouri State Bears,2021-11-09,-8.0,included_game_day
+2022,2623,Missouri State Bears,2021-11-13,6.02,included_game_day
+2022,2623,Missouri State Bears,2021-11-17,29.778,included_game_day
+2022,2623,Missouri State Bears,2021-11-22,51.3565,included_game_day
+2022,2623,Missouri State Bears,2021-11-23,44.84834,included_game_day
+2022,2623,Missouri State Bears,2021-11-24,54.976434017,included_game_day
+2022,2623,Missouri State Bears,2021-12-01,44.9896129153,included_game_day
+2022,2623,Missouri State Bears,2021-12-04,37.69968698427,included_game_day
+2022,2623,Missouri State Bears,2021-12-08,57.297875572233,included_game_day
+2022,2623,Missouri State Bears,2021-12-11,57.418818206139704,included_game_day
+2022,2623,Missouri State Bears,2021-12-15,62.80632410713123,included_game_day
+2022,2623,Missouri State Bears,2021-12-18,77.57572777980812,included_game_day
+2022,2623,Missouri State Bears,2021-12-22,60.283328792336036,included_game_day
+2022,2623,Missouri State Bears,2022-01-02,61.43353819462024,included_game_day
+2022,2623,Missouri State Bears,2022-01-05,63.24506846247772,included_game_day
+2022,2623,Missouri State Bears,2022-01-08,57.874018469622214,included_game_day
+2022,2623,Missouri State Bears,2022-01-12,56.53291158884928,included_game_day
+2022,2623,Missouri State Bears,2022-01-15,69.97647461927718,included_game_day
+2022,2623,Missouri State Bears,2022-01-19,86.31143394213991,included_game_day
+2022,2623,Missouri State Bears,2022-01-22,101.44057365148032,included_game_day
+2022,2623,Missouri State Bears,2022-01-25,89.12219085399553,included_game_day
+2022,2623,Missouri State Bears,2022-01-29,82.16868816616575,included_game_day
+2022,2623,Missouri State Bears,2022-02-02,95.51007361408406,included_game_day
+2022,2623,Missouri State Bears,2022-02-06,82.66024933370232,included_game_day
+2022,2623,Missouri State Bears,2022-02-09,87.6562159363949,included_game_day
+2022,2623,Missouri State Bears,2022-02-12,91.14692693650021,included_game_day
+2022,2623,Missouri State Bears,2022-02-15,84.0360301982911,included_game_day
+2022,2623,Missouri State Bears,2022-02-20,62.9607862945385,included_game_day
+2022,2623,Missouri State Bears,2022-02-23,77.31222327621718,included_game_day
+2022,2623,Missouri State Bears,2022-02-26,69.43833586746456,included_game_day
+2022,2623,Missouri State Bears,2022-03-04,69.9696950040348,included_game_day
+2022,2623,Missouri State Bears,2022-03-05,70.30580967915486,included_game_day
+2022,2623,Missouri State Bears,2022-03-15,59.072191295935134,included_game_day
+2023,2623,Missouri State Bears,2022-11-16,0.8900000000000001,included_game_day
+2023,2623,Missouri State Bears,2022-11-19,23.993000000000002,included_game_day
+2023,2623,Missouri State Bears,2022-11-25,2.478999999999999,included_game_day
+2023,2623,Missouri State Bears,2022-11-26,-1.3410133000000006,included_game_day
+2023,2623,Missouri State Bears,2022-11-27,4.4438127099999996,included_game_day
+2023,2623,Missouri State Bears,2022-11-30,23.707266539,included_game_day
+2023,2623,Missouri State Bears,2022-12-03,3.3944300313000006,included_game_day
+2023,2623,Missouri State Bears,2022-12-07,-7.1299873281,included_game_day
+2023,2623,Missouri State Bears,2022-12-10,-13.538169716539,included_game_day
+2023,2623,Missouri State Bears,2022-12-16,-8.397728388327101,included_game_day
+2023,2623,Missouri State Bears,2022-12-18,8.081339502768907,included_game_day
+2023,2623,Missouri State Bears,2022-12-28,22.240575086399218,included_game_day
+2023,2623,Missouri State Bears,2023-01-01,21.857120351817496,included_game_day
+2023,2623,Missouri State Bears,2023-01-04,30.42929555822704,included_game_day
+2023,2623,Missouri State Bears,2023-01-07,18.938296072087482,included_game_day
+2023,2623,Missouri State Bears,2023-01-11,7.317640122765818,included_game_day
+2023,2623,Missouri State Bears,2023-01-15,10.29816881415544,included_game_day
+2023,2623,Missouri State Bears,2023-01-18,21.470472667674493,included_game_day
+2023,2623,Missouri State Bears,2023-01-21,15.469916755245842,included_game_day
+2023,2623,Missouri State Bears,2023-01-24,7.605832717914515,included_game_day
+2023,2623,Missouri State Bears,2023-01-28,7.328249676536858,included_game_day
+2023,2623,Missouri State Bears,2023-02-01,8.499954716257864,included_game_day
+2023,2623,Missouri State Bears,2023-02-05,-7.163024934418111,included_game_day
+2023,2623,Missouri State Bears,2023-02-08,-4.175308269869905,included_game_day
+2023,2623,Missouri State Bears,2023-02-12,-6.0835769184494985,included_game_day
+2023,2623,Missouri State Bears,2023-02-15,-2.420615945285123,included_game_day
+2023,2623,Missouri State Bears,2023-02-18,-10.707459632559553,included_game_day
+2023,2623,Missouri State Bears,2023-02-21,-3.0439114814214063,included_game_day
+2023,2623,Missouri State Bears,2023-02-26,13.702569044758985,included_game_day
+2023,2623,Missouri State Bears,2023-03-02,22.81697048686282,included_game_day
+2023,2623,Missouri State Bears,2023-03-03,20.527567978544603,included_game_day
+2024,2623,Missouri State Bears,2023-11-06,-5.0,included_game_day
+2024,2623,Missouri State Bears,2023-11-13,7.4,included_game_day
+2024,2623,Missouri State Bears,2023-11-17,15.147,included_game_day
+2024,2623,Missouri State Bears,2023-11-19,21.341900000000003,included_game_day
+2024,2623,Missouri State Bears,2023-11-20,37.73398,included_game_day
+2024,2623,Missouri State Bears,2023-11-25,42.141626200000005,included_game_day
+2024,2623,Missouri State Bears,2023-11-29,52.62100258,included_game_day
+2024,2623,Missouri State Bears,2023-12-02,36.451844615,included_game_day
+2024,2623,Missouri State Bears,2023-12-05,27.3031165385,included_game_day
+2024,2623,Missouri State Bears,2023-12-09,31.363085523949998,included_game_day
+2024,2623,Missouri State Bears,2023-12-16,31.68897791705,included_game_day
+2024,2623,Missouri State Bears,2023-12-19,41.22322792346518,included_game_day
+2024,2623,Missouri State Bears,2023-12-23,52.97763761906077,included_game_day
+2024,2623,Missouri State Bears,2024-01-03,45.19393742316921,included_game_day
+2024,2623,Missouri State Bears,2024-01-06,20.04421838478271,included_game_day
+2024,2623,Missouri State Bears,2024-01-10,-8.109358935499206,included_game_day
+2024,2623,Missouri State Bears,2024-01-13,2.6167771951125047,included_game_day
+2024,2623,Missouri State Bears,2024-01-16,-4.237428452338914,included_game_day
+2024,2623,Missouri State Bears,2024-01-20,-20.5383199982097,included_game_day
+2024,2623,Missouri State Bears,2024-01-24,-5.83785055402358,included_game_day
+2024,2623,Missouri State Bears,2024-01-27,4.212065528344402,included_game_day
+2024,2623,Missouri State Bears,2024-01-31,11.813332846594218,included_game_day
+2024,2623,Missouri State Bears,2024-02-03,13.753430475349367,included_game_day
+2024,2623,Missouri State Bears,2024-02-07,8.431135914615208,included_game_day
+2024,2623,Missouri State Bears,2024-02-10,17.19612577932282,included_game_day
+2024,2623,Missouri State Bears,2024-02-14,12.173727189699267,included_game_day
+2024,2623,Missouri State Bears,2024-02-17,6.208154113252769,included_game_day
+2024,2623,Missouri State Bears,2024-02-21,-14.876359657511964,included_game_day
+2024,2623,Missouri State Bears,2024-02-24,-22.082744296091104,included_game_day
+2024,2623,Missouri State Bears,2024-02-28,-15.542218216030872,included_game_day
+2024,2623,Missouri State Bears,2024-03-03,-9.333644254428812,included_game_day
+2024,2623,Missouri State Bears,2024-03-07,16.773829416940323,included_game_day
+2024,2623,Missouri State Bears,2024-03-08,9.426986546268616,included_game_day
+2025,2623,Missouri State Bears,2024-11-04,-4.0,included_game_day
+2025,2623,Missouri State Bears,2024-11-16,0.13199999999999967,included_game_day
+2025,2623,Missouri State Bears,2024-11-19,5.7318,included_game_day
+2025,2623,Missouri State Bears,2024-11-24,18.534394,included_game_day
+2025,2623,Missouri State Bears,2024-11-25,17.6180421,included_game_day
+2025,2623,Missouri State Bears,2024-11-26,-1.7373498400000003,included_game_day
+2025,2623,Missouri State Bears,2024-12-01,1.5841259439999993,included_game_day
+2025,2623,Missouri State Bears,2024-12-07,-5.388789795324001,included_game_day
+2025,2623,Missouri State Bears,2024-12-14,-8.664343550521602,included_game_day
+2025,2623,Missouri State Bears,2024-12-22,3.1689513621898993,included_game_day
+2025,2623,Missouri State Bears,2024-12-29,-21.54940490171205,included_game_day
+2025,2623,Missouri State Bears,2025-01-01,-23.84909492931757,included_game_day
+2025,2623,Missouri State Bears,2025-01-04,-21.189128275484165,included_game_day
+2025,2623,Missouri State Bears,2025-01-07,-38.76434379434963,included_game_day
+2025,2623,Missouri State Bears,2025-01-11,-48.79206014328775,included_game_day
+2025,2623,Missouri State Bears,2025-01-15,-74.81423322243825,included_game_day
+2025,2623,Missouri State Bears,2025-01-18,-68.73964646187933,included_game_day
+2025,2623,Missouri State Bears,2025-01-21,-68.14886398726873,included_game_day
+2025,2623,Missouri State Bears,2025-01-25,-64.40227244666379,included_game_day
+2025,2623,Missouri State Bears,2025-01-29,-66.60539636981122,included_game_day
+2025,2623,Missouri State Bears,2025-02-01,-41.92395765295774,included_game_day
+2025,2623,Missouri State Bears,2025-02-05,-41.88403232259802,included_game_day
+2025,2623,Missouri State Bears,2025-02-08,-49.330231472092464,included_game_day
+2025,2623,Missouri State Bears,2025-02-12,-33.51574093925435,included_game_day
+2025,2623,Missouri State Bears,2025-02-16,-31.29991164169914,included_game_day
+2025,2623,Missouri State Bears,2025-02-19,-32.379383205431594,included_game_day
+2025,2623,Missouri State Bears,2025-02-22,-31.971020523072646,included_game_day
+2025,2623,Missouri State Bears,2025-02-26,-40.201732336638216,included_game_day
+2025,2623,Missouri State Bears,2025-03-02,-33.23146696097791,included_game_day
+2025,2623,Missouri State Bears,2025-03-06,-44.45786885084716,included_game_day
+2026,2623,Missouri State Bears,2025-11-11,-5.57,included_game_day
+2026,2623,Missouri State Bears,2025-11-15,-21.323,included_game_day
+2026,2623,Missouri State Bears,2025-11-22,-15.4387,included_game_day
+2026,2623,Missouri State Bears,2025-11-24,-35.1706682,included_game_day
+2026,2623,Missouri State Bears,2025-12-06,-46.962598241,included_game_day
+2026,2623,Missouri State Bears,2025-12-12,-52.90434686366601,included_game_day
+2026,2623,Missouri State Bears,2025-12-16,-56.329416298176405,included_game_day
+2026,2623,Missouri State Bears,2025-12-23,-49.281859888907555,included_game_day
+2026,2623,Missouri State Bears,2025-12-29,-28.10806412180562,included_game_day
+2026,2623,Missouri State Bears,2026-01-02,-7.803861424062642,included_game_day
+2026,2623,Missouri State Bears,2026-01-04,-2.474414565664354,included_game_day
+2026,2623,Missouri State Bears,2026-01-07,-10.90851031916691,included_game_day
+2026,2623,Missouri State Bears,2026-01-10,-4.444956135443696,included_game_day
+2026,2623,Missouri State Bears,2026-01-14,-15.61089736464266,included_game_day
+2026,2623,Missouri State Bears,2026-01-17,-11.955314664485883,included_game_day
+2026,2623,Missouri State Bears,2026-01-22,5.028172768767654,included_game_day
+2026,2623,Missouri State Bears,2026-01-24,7.883912296637453,included_game_day
+2026,2623,Missouri State Bears,2026-01-28,0.011366135650212605,included_game_day
+2026,2623,Missouri State Bears,2026-01-31,3.4775983276648694,included_game_day
+2026,2623,Missouri State Bears,2026-02-07,8.90740207342169,included_game_day
+2026,2623,Missouri State Bears,2026-02-12,1.5539134974764988,included_game_day
+2026,2623,Missouri State Bears,2026-02-14,-16.223359932725955,included_game_day
+2026,2623,Missouri State Bears,2026-02-18,-22.421912293667212,included_game_day
+2026,2623,Missouri State Bears,2026-02-21,-21.07739388971121,included_game_day
+2026,2623,Missouri State Bears,2026-02-26,-20.116976256799372,included_game_day
+2026,2623,Missouri State Bears,2026-02-28,-14.121017073108076,included_game_day
+2026,2623,Missouri State Bears,2026-03-05,3.2612839506455042,included_game_day
+2026,2623,Missouri State Bears,2026-03-07,-12.296695634608247,included_game_day
+2026,2623,Missouri State Bears,2026-03-10,-8.248302211782773,included_game_day
+2026,2623,Missouri State Bears,2026-03-11,1.393657928382611,included_game_day
+2026,2623,Missouri State Bears,2026-03-13,1.48784130537675,included_game_day
+2027,2623,Missouri State Bears,2026-11-16,2.518,included_game_day
+2027,2623,Missouri State Bears,2026-11-21,2.308194,included_game_day

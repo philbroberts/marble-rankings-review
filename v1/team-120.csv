@@ -1,0 +1,1267 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,120,Maryland,1987-11-27,17.0,included_game_day
+1988,120,Maryland,1987-11-28,24.1,included_game_day
+1988,120,Maryland,1987-12-03,32.39,included_game_day
+1988,120,Maryland,1987-12-05,6.151,included_game_day
+1988,120,Maryland,1987-12-10,15.287779,included_game_day
+1988,120,Maryland,1987-12-12,19.1637711,included_game_day
+1988,120,Maryland,1987-12-28,21.460644220000002,included_game_day
+1988,120,Maryland,1987-12-30,55.0660685247433,included_game_day
+1988,120,Maryland,1988-01-02,64.43504963306539,included_game_day
+1988,120,Maryland,1988-01-06,66.53977645943687,included_game_day
+1988,120,Maryland,1988-01-09,83.42059695533672,included_game_day
+1988,120,Maryland,1988-01-14,76.91163413659113,included_game_day
+1988,120,Maryland,1988-01-16,94.30460071341894,included_game_day
+1988,120,Maryland,1988-01-20,78.55399169589707,included_game_day
+1988,120,Maryland,1988-01-27,76.36067471696455,included_game_day
+1988,120,Maryland,1988-02-02,82.06050258163933,included_game_day
+1988,120,Maryland,1988-02-06,81.68677474461519,included_game_day
+1988,120,Maryland,1988-02-08,66.55534784431605,included_game_day
+1988,120,Maryland,1988-02-10,71.17467080559749,included_game_day
+1988,120,Maryland,1988-02-13,72.74811899956491,included_game_day
+1988,120,Maryland,1988-02-16,56.36454350305824,included_game_day
+1988,120,Maryland,1988-02-20,66.49702926981242,included_game_day
+1988,120,Maryland,1988-02-25,94.5342078183732,included_game_day
+1988,120,Maryland,1988-02-27,93.99222621814289,included_game_day
+1988,120,Maryland,1988-03-03,96.23048349407776,included_game_day
+1988,120,Maryland,1988-03-05,94.65794857726924,included_game_day
+1988,120,Maryland,1988-03-11,111.87629760616274,included_game_day
+1988,120,Maryland,1988-03-12,108.67541820012733,included_game_day
+1988,120,Maryland,1988-03-18,112.11833920048119,included_game_day
+1988,120,Maryland,1988-03-20,106.58996601585572,included_game_day
+1989,120,Maryland,1988-11-25,7.0,included_game_day
+1989,120,Maryland,1988-11-26,16.1,included_game_day
+1989,120,Maryland,1988-12-01,48.735,included_game_day
+1989,120,Maryland,1988-12-05,42.781549999999996,included_game_day
+1989,120,Maryland,1988-12-07,48.734494999999995,included_game_day
+1989,120,Maryland,1988-12-10,44.1521055,included_game_day
+1989,120,Maryland,1988-12-13,40.14819495,included_game_day
+1989,120,Maryland,1988-12-27,31.829050961889997,included_game_day
+1989,120,Maryland,1988-12-29,40.064397582701,included_game_day
+1989,120,Maryland,1988-12-30,31.46586188035961,included_game_day
+1989,120,Maryland,1989-01-02,24.915768111537588,included_game_day
+1989,120,Maryland,1989-01-04,10.869810819091068,included_game_day
+1989,120,Maryland,1989-01-07,1.1950645897753223,included_game_day
+1989,120,Maryland,1989-01-11,1.9737603115086895,included_game_day
+1989,120,Maryland,1989-01-14,8.852499759377386,included_game_day
+1989,120,Maryland,1989-01-17,5.734213153753629,included_game_day
+1989,120,Maryland,1989-01-24,0.8079673118182278,included_game_day
+1989,120,Maryland,1989-01-29,-9.006220043696441,included_game_day
+1989,120,Maryland,1989-02-01,-2.3785866104264795,included_game_day
+1989,120,Maryland,1989-02-04,-0.39684015121773086,included_game_day
+1989,120,Maryland,1989-02-07,16.127798196994995,included_game_day
+1989,120,Maryland,1989-02-11,9.451871847815408,included_game_day
+1989,120,Maryland,1989-02-14,14.743397372150087,included_game_day
+1989,120,Maryland,1989-02-19,15.299021790064122,included_game_day
+1989,120,Maryland,1989-02-25,0.4739670736080388,included_game_day
+1989,120,Maryland,1989-03-02,-2.448588587545789,included_game_day
+1989,120,Maryland,1989-03-05,-16.420388739930132,included_game_day
+1989,120,Maryland,1989-03-10,18.933505579179986,included_game_day
+1989,120,Maryland,1989-03-11,4.268698447189028,included_game_day
+1990,120,Maryland,1989-11-23,5.0,included_game_day
+1990,120,Maryland,1989-11-25,35.5,included_game_day
+1990,120,Maryland,1989-11-27,59.95,included_game_day
+1990,120,Maryland,1989-12-01,54.841,included_game_day
+1990,120,Maryland,1989-12-02,66.1769,included_game_day
+1990,120,Maryland,1989-12-04,40.77923,included_game_day
+1990,120,Maryland,1989-12-09,49.346716,included_game_day
+1990,120,Maryland,1989-12-12,35.9916544,included_game_day
+1990,120,Maryland,1989-12-22,51.563708612490004,included_game_day
+1990,120,Maryland,1989-12-30,57.27985376184533,included_game_day
+1990,120,Maryland,1990-01-04,57.7963112551346,included_game_day
+1990,120,Maryland,1990-01-06,58.81130938262588,included_game_day
+1990,120,Maryland,1990-01-10,68.1227135874106,included_game_day
+1990,120,Maryland,1990-01-13,70.52453484662469,included_game_day
+1990,120,Maryland,1990-01-17,74.95774310813,included_game_day
+1990,120,Maryland,1990-01-20,65.34207321802398,included_game_day
+1990,120,Maryland,1990-01-23,77.26120424263044,included_game_day
+1990,120,Maryland,1990-01-27,62.887310172280245,included_game_day
+1990,120,Maryland,1990-01-29,61.217331646557085,included_game_day
+1990,120,Maryland,1990-02-03,59.9805302723908,included_game_day
+1990,120,Maryland,1990-02-07,62.169310870635655,included_game_day
+1990,120,Maryland,1990-02-10,65.75880655744542,included_game_day
+1990,120,Maryland,1990-02-13,74.83186990332753,included_game_day
+1990,120,Maryland,1990-02-17,84.19782947791039,included_game_day
+1990,120,Maryland,1990-02-19,84.32585897381648,included_game_day
+1990,120,Maryland,1990-02-22,116.6108096460253,included_game_day
+1990,120,Maryland,1990-02-24,100.36032951059849,included_game_day
+1990,120,Maryland,1990-02-28,100.89421741997683,included_game_day
+1990,120,Maryland,1990-03-03,110.04042653734217,included_game_day
+1990,120,Maryland,1990-03-09,93.28676569443941,included_game_day
+1990,120,Maryland,1990-03-15,98.16665367806301,included_game_day
+1990,120,Maryland,1990-03-19,94.21756164958013,included_game_day
+1991,120,Maryland,1990-11-26,19.67,included_game_day
+1991,120,Maryland,1990-11-28,31.503,included_game_day
+1991,120,Maryland,1990-12-01,26.9527,included_game_day
+1991,120,Maryland,1990-12-03,12.00102,included_game_day
+1991,120,Maryland,1990-12-08,8.539536,included_game_day
+1991,120,Maryland,1990-12-11,16.3360668,included_game_day
+1991,120,Maryland,1990-12-22,23.85631394,included_game_day
+1991,120,Maryland,1990-12-27,28.01538892958,included_game_day
+1991,120,Maryland,1990-12-28,41.65785696525569,included_game_day
+1991,120,Maryland,1991-01-02,34.67224911844312,included_game_day
+1991,120,Maryland,1991-01-05,47.95283174242219,included_game_day
+1991,120,Maryland,1991-01-07,54.572546668158935,included_game_day
+1991,120,Maryland,1991-01-09,37.38558666242172,included_game_day
+1991,120,Maryland,1991-01-12,31.39850544750132,included_game_day
+1991,120,Maryland,1991-01-16,20.65055349341224,included_game_day
+1991,120,Maryland,1991-01-19,30.24760039801383,included_game_day
+1991,120,Maryland,1991-01-22,43.51168981493811,included_game_day
+1991,120,Maryland,1991-01-26,49.51423253263069,included_game_day
+1991,120,Maryland,1991-01-29,43.06266847049283,included_game_day
+1991,120,Maryland,1991-02-01,38.44178320303511,included_game_day
+1991,120,Maryland,1991-02-06,33.095164979041016,included_game_day
+1991,120,Maryland,1991-02-09,32.47519038149147,included_game_day
+1991,120,Maryland,1991-02-13,38.78801854742558,included_game_day
+1991,120,Maryland,1991-02-16,38.07532818526028,included_game_day
+1991,120,Maryland,1991-02-19,49.74782736743031,included_game_day
+1991,120,Maryland,1991-02-23,61.6749125407842,included_game_day
+1991,120,Maryland,1991-02-27,44.766860576684465,included_game_day
+1991,120,Maryland,1991-03-02,57.82670657193077,included_game_day
+1992,120,Maryland,1991-11-23,27.0,included_game_day
+1992,120,Maryland,1991-11-26,66.6,included_game_day
+1992,120,Maryland,1991-11-30,83.38999999999999,included_game_day
+1992,120,Maryland,1991-12-04,85.57779,included_game_day
+1992,120,Maryland,1991-12-07,86.05424599999999,included_game_day
+1992,120,Maryland,1991-12-10,66.02920139999999,included_game_day
+1992,120,Maryland,1991-12-21,59.706606359999995,included_game_day
+1992,120,Maryland,1991-12-23,63.692721005897994,included_game_day
+1992,120,Maryland,1991-12-28,43.00546159901639,included_game_day
+1992,120,Maryland,1991-12-29,32.335160660458655,included_game_day
+1992,120,Maryland,1992-01-05,18.04265776934369,included_game_day
+1992,120,Maryland,1992-01-08,7.386619439049765,included_game_day
+1992,120,Maryland,1992-01-11,5.105024084275875,included_game_day
+1992,120,Maryland,1992-01-13,-0.10455161797247925,included_game_day
+1992,120,Maryland,1992-01-18,-3.456682512146151,included_game_day
+1992,120,Maryland,1992-01-22,-4.9181732507278655,included_game_day
+1992,120,Maryland,1992-01-25,9.186874801597078,included_game_day
+1992,120,Maryland,1992-01-29,11.029576012194479,included_game_day
+1992,120,Maryland,1992-02-05,30.021162485859566,included_game_day
+1992,120,Maryland,1992-02-09,29.02022814005708,included_game_day
+1992,120,Maryland,1992-02-13,23.625505004486076,included_game_day
+1992,120,Maryland,1992-02-20,42.02123125041875,included_game_day
+1992,120,Maryland,1992-02-22,31.87658249178242,included_game_day
+1992,120,Maryland,1992-02-25,41.168060362480986,included_game_day
+1992,120,Maryland,1992-03-01,44.83673584121409,included_game_day
+1992,120,Maryland,1992-03-05,64.05552892506624,included_game_day
+1992,120,Maryland,1992-03-07,61.361920376018155,included_game_day
+1992,120,Maryland,1992-03-12,63.8485937475997,included_game_day
+1992,120,Maryland,1992-03-13,67.06033874454226,included_game_day
+1993,120,Maryland,1992-12-01,20.0,included_game_day
+1993,120,Maryland,1992-12-05,8.7,included_game_day
+1993,120,Maryland,1992-12-07,33.084999999999994,included_game_day
+1993,120,Maryland,1992-12-10,59.298959999999994,included_game_day
+1993,120,Maryland,1992-12-12,72.177064,included_game_day
+1993,120,Maryland,1992-12-23,67.1769076,included_game_day
+1993,120,Maryland,1992-12-26,91.16389344000001,included_game_day
+1993,120,Maryland,1992-12-28,84.57468693400001,included_game_day
+1993,120,Maryland,1993-01-02,103.73559009760001,included_game_day
+1993,120,Maryland,1993-01-05,86.78059485714482,included_game_day
+1993,120,Maryland,1993-01-09,73.1928065957862,included_game_day
+1993,120,Maryland,1993-01-13,56.93534754797744,included_game_day
+1993,120,Maryland,1993-01-16,41.05130540096066,included_game_day
+1993,120,Maryland,1993-01-19,58.399813953252576,included_game_day
+1993,120,Maryland,1993-01-23,56.593772539714195,included_game_day
+1993,120,Maryland,1993-01-26,46.035308852643865,included_game_day
+1993,120,Maryland,1993-01-30,43.31700208794603,included_game_day
+1993,120,Maryland,1993-02-04,41.936332485013935,included_game_day
+1993,120,Maryland,1993-02-06,30.42085202139686,included_game_day
+1993,120,Maryland,1993-02-09,29.392155536594228,included_game_day
+1993,120,Maryland,1993-02-13,36.70910634724664,included_game_day
+1993,120,Maryland,1993-02-17,29.37123128628856,included_game_day
+1993,120,Maryland,1993-02-24,40.11013781818633,included_game_day
+1993,120,Maryland,1993-02-27,30.72624830835428,included_game_day
+1993,120,Maryland,1993-03-03,32.00745728191986,included_game_day
+1993,120,Maryland,1993-03-06,25.173072784019205,included_game_day
+1993,120,Maryland,1993-03-11,43.92994684241678,included_game_day
+1993,120,Maryland,1993-03-12,25.881772433560442,included_game_day
+1994,120,Maryland,1993-11-26,1.0,included_game_day
+1994,120,Maryland,1993-11-27,48.9,included_game_day
+1994,120,Maryland,1993-11-30,58.01,included_game_day
+1994,120,Maryland,1993-12-02,58.208999999999996,included_game_day
+1994,120,Maryland,1993-12-04,72.4881,included_game_day
+1994,120,Maryland,1993-12-07,65.7944817,included_game_day
+1994,120,Maryland,1993-12-23,93.77945732,included_game_day
+1994,120,Maryland,1993-12-28,103.38340674641,included_game_day
+1994,120,Maryland,1993-12-29,88.273761109369,included_game_day
+1994,120,Maryland,1994-01-04,93.4682047744291,included_game_day
+1994,120,Maryland,1994-01-08,92.35640451858293,included_game_day
+1994,120,Maryland,1994-01-11,90.20178393517891,included_game_day
+1994,120,Maryland,1994-01-15,97.87210052265075,included_game_day
+1994,120,Maryland,1994-01-22,114.03241397096211,included_game_day
+1994,120,Maryland,1994-01-26,123.05787329732075,included_game_day
+1994,120,Maryland,1994-01-29,113.00801182181615,included_game_day
+1994,120,Maryland,1994-02-02,105.93900851460218,included_game_day
+1994,120,Maryland,1994-02-05,84.04372124593235,included_game_day
+1994,120,Maryland,1994-02-10,91.89771364537465,included_game_day
+1994,120,Maryland,1994-02-12,95.67796044160276,included_game_day
+1994,120,Maryland,1994-02-16,115.11915991557946,included_game_day
+1994,120,Maryland,1994-02-19,124.50908285377794,included_game_day
+1994,120,Maryland,1994-02-23,107.09699813226564,included_game_day
+1994,120,Maryland,1994-02-26,97.6814321428374,included_game_day
+1994,120,Maryland,1994-03-02,96.89324596427632,included_game_day
+1994,120,Maryland,1994-03-05,88.91245142712003,included_game_day
+1994,120,Maryland,1994-03-11,77.527815797395,included_game_day
+1994,120,Maryland,1994-03-17,87.74838392494182,included_game_day
+1994,120,Maryland,1994-03-19,102.63728644385566,included_game_day
+1994,120,Maryland,1994-03-25,97.74193898989363,included_game_day
+1995,120,Maryland,1994-11-22,12.5,included_game_day
+1995,120,Maryland,1994-11-23,8.67,included_game_day
+1995,120,Maryland,1994-11-29,34.803,included_game_day
+1995,120,Maryland,1994-12-03,64.9761,included_game_day
+1995,120,Maryland,1994-12-05,78.48549,included_game_day
+1995,120,Maryland,1994-12-08,123.157133,included_game_day
+1995,120,Maryland,1994-12-10,103.7011377,included_game_day
+1995,120,Maryland,1994-12-12,135.19821263,included_game_day
+1995,120,Maryland,1994-12-23,172.4160454023,included_game_day
+1995,120,Maryland,1994-12-27,172.16689079907,included_game_day
+1995,120,Maryland,1994-12-30,164.316132051903,included_game_day
+1995,120,Maryland,1995-01-04,166.64666086739751,included_game_day
+1995,120,Maryland,1995-01-07,153.85336138855678,included_game_day
+1995,120,Maryland,1995-01-10,159.61085891025667,included_game_day
+1995,120,Maryland,1995-01-14,169.29245595573053,included_game_day
+1995,120,Maryland,1995-01-22,183.00887383205142,included_game_day
+1995,120,Maryland,1995-01-25,178.9635583657488,included_game_day
+1995,120,Maryland,1995-01-28,169.30397102470232,included_game_day
+1995,120,Maryland,1995-02-01,171.7639121540916,included_game_day
+1995,120,Maryland,1995-02-04,162.07169698301243,included_game_day
+1995,120,Maryland,1995-02-07,173.10025082401634,included_game_day
+1995,120,Maryland,1995-02-11,174.31632693577805,included_game_day
+1995,120,Maryland,1995-02-15,162.25346409335665,included_game_day
+1995,120,Maryland,1995-02-19,163.54120472207654,included_game_day
+1995,120,Maryland,1995-02-22,164.9053194012499,included_game_day
+1995,120,Maryland,1995-02-25,164.1212284848491,included_game_day
+1995,120,Maryland,1995-03-01,160.7360793253178,included_game_day
+1995,120,Maryland,1995-03-05,138.3733206427704,included_game_day
+1995,120,Maryland,1995-03-10,137.5825920123351,included_game_day
+1995,120,Maryland,1995-03-11,134.91273513795704,included_game_day
+1995,120,Maryland,1995-03-16,155.94475059577925,included_game_day
+1995,120,Maryland,1995-03-18,168.98962923538988,included_game_day
+1995,120,Maryland,1995-03-23,155.61125628762358,included_game_day
+1996,120,Maryland,1995-11-24,-12.0,included_game_day
+1996,120,Maryland,1995-11-27,-10.8,included_game_day
+1996,120,Maryland,1995-12-02,-11.600000000000001,included_game_day
+1996,120,Maryland,1995-12-03,6.857999999999997,included_game_day
+1996,120,Maryland,1995-12-06,15.927742999999996,included_game_day
+1996,120,Maryland,1995-12-09,4.267958699999996,included_game_day
+1996,120,Maryland,1995-12-13,17.791490829999994,included_game_day
+1996,120,Maryland,1995-12-23,39.982702741,included_game_day
+1996,120,Maryland,1995-12-28,66.6874536479,included_game_day
+1996,120,Maryland,1996-01-03,50.63799656084265,included_game_day
+1996,120,Maryland,1996-01-06,53.794957178518956,included_game_day
+1996,120,Maryland,1996-01-13,48.00946097875911,included_game_day
+1996,120,Maryland,1996-01-17,90.39957053524145,included_game_day
+1996,120,Maryland,1996-01-20,89.52444610211573,included_game_day
+1996,120,Maryland,1996-01-24,91.23518428711658,included_game_day
+1996,120,Maryland,1996-01-28,84.28313286677178,included_game_day
+1996,120,Maryland,1996-02-01,88.95900292952055,included_game_day
+1996,120,Maryland,1996-02-03,100.79029985845634,included_game_day
+1996,120,Maryland,1996-02-06,112.597890502699,included_game_day
+1996,120,Maryland,1996-02-10,85.21483236613798,included_game_day
+1996,120,Maryland,1996-02-15,77.69673757493578,included_game_day
+1996,120,Maryland,1996-02-18,90.83945800881592,included_game_day
+1996,120,Maryland,1996-02-22,94.84184747189005,included_game_day
+1996,120,Maryland,1996-02-24,87.3362196113429,included_game_day
+1996,120,Maryland,1996-02-28,86.61569318359562,included_game_day
+1996,120,Maryland,1996-03-02,95.81388842701377,included_game_day
+1996,120,Maryland,1996-03-04,99.14442830548936,included_game_day
+1996,120,Maryland,1996-03-08,113.95844774180726,included_game_day
+1996,120,Maryland,1996-03-09,112.14676399909789,included_game_day
+1996,120,Maryland,1996-03-15,93.04452913442017,included_game_day
+1997,120,Maryland,1996-11-26,35.0,included_game_day
+1997,120,Maryland,1996-11-30,47.195,included_game_day
+1997,120,Maryland,1996-12-02,85.1455,included_game_day
+1997,120,Maryland,1996-12-04,106.48595,included_game_day
+1997,120,Maryland,1996-12-08,112.680741,included_game_day
+1997,120,Maryland,1996-12-09,110.2219759,included_game_day
+1997,120,Maryland,1996-12-12,113.59522081,included_game_day
+1997,120,Maryland,1996-12-21,102.5603289456,included_game_day
+1997,120,Maryland,1996-12-23,126.26926671304,included_game_day
+1997,120,Maryland,1996-12-27,119.297494751678,included_game_day
+1997,120,Maryland,1996-12-28,133.0127049210906,included_game_day
+1997,120,Maryland,1996-12-29,121.18361754770638,included_game_day
+1997,120,Maryland,1997-01-04,129.8210368493903,included_game_day
+1997,120,Maryland,1997-01-08,140.30124160821615,included_game_day
+1997,120,Maryland,1997-01-12,145.43978193527204,included_game_day
+1997,120,Maryland,1997-01-15,137.81860359198654,included_game_day
+1997,120,Maryland,1997-01-19,148.2132963979517,included_game_day
+1997,120,Maryland,1997-01-21,158.7457600453405,included_game_day
+1997,120,Maryland,1997-01-26,163.91945219550996,included_game_day
+1997,120,Maryland,1997-01-29,158.22736588882557,included_game_day
+1997,120,Maryland,1997-02-01,149.63080313862744,included_game_day
+1997,120,Maryland,1997-02-05,149.7714689373073,included_game_day
+1997,120,Maryland,1997-02-08,137.7296013756646,included_game_day
+1997,120,Maryland,1997-02-13,145.43089810646043,included_game_day
+1997,120,Maryland,1997-02-15,121.9430571131486,included_game_day
+1997,120,Maryland,1997-02-19,127.82655786190139,included_game_day
+1997,120,Maryland,1997-02-22,117.64228768121926,included_game_day
+1997,120,Maryland,1997-02-27,115.26956364871829,included_game_day
+1997,120,Maryland,1997-03-02,108.48800869077886,included_game_day
+1997,120,Maryland,1997-03-07,124.34354679710546,included_game_day
+1997,120,Maryland,1997-03-08,120.80675942221625,included_game_day
+1997,120,Maryland,1997-03-13,109.79533085138866,included_game_day
+1998,120,Maryland,1997-11-14,-4.0,included_game_day
+1998,120,Maryland,1997-11-18,4.4,included_game_day
+1998,120,Maryland,1997-11-22,28.96,included_game_day
+1998,120,Maryland,1997-11-25,71.964,included_game_day
+1998,120,Maryland,1997-12-04,56.6384325,included_game_day
+1998,120,Maryland,1997-12-07,62.378195000000005,included_game_day
+1998,120,Maryland,1997-12-08,54.7937890915,included_game_day
+1998,120,Maryland,1997-12-13,80.30698897655,included_game_day
+1998,120,Maryland,1997-12-22,128.1238993944875,included_game_day
+1998,120,Maryland,1997-12-27,150.77172910176057,included_game_day
+1998,120,Maryland,1997-12-30,135.5822256286011,included_game_day
+1998,120,Maryland,1998-01-03,108.6489059831591,included_game_day
+1998,120,Maryland,1998-01-07,111.86806166991987,included_game_day
+1998,120,Maryland,1998-01-10,112.3736459077851,included_game_day
+1998,120,Maryland,1998-01-14,120.91467507578416,included_game_day
+1998,120,Maryland,1998-01-17,102.96824502673238,included_game_day
+1998,120,Maryland,1998-01-21,107.43189256495212,included_game_day
+1998,120,Maryland,1998-01-24,109.96889954919008,included_game_day
+1998,120,Maryland,1998-01-29,98.13574270700111,included_game_day
+1998,120,Maryland,1998-02-01,95.63498406877598,included_game_day
+1998,120,Maryland,1998-02-07,102.92040239585188,included_game_day
+1998,120,Maryland,1998-02-11,109.12561767733916,included_game_day
+1998,120,Maryland,1998-02-14,105.72498848199415,included_game_day
+1998,120,Maryland,1998-02-19,91.36929656690104,included_game_day
+1998,120,Maryland,1998-02-21,103.5856684463222,included_game_day
+1998,120,Maryland,1998-02-24,106.5267957310799,included_game_day
+1998,120,Maryland,1998-02-28,123.05121735344153,included_game_day
+1998,120,Maryland,1998-03-06,137.9210678237653,included_game_day
+1998,120,Maryland,1998-03-07,138.74489569413515,included_game_day
+1998,120,Maryland,1998-03-12,145.88596562822522,included_game_day
+1998,120,Maryland,1998-03-14,149.81114936603728,included_game_day
+1998,120,Maryland,1998-03-19,149.08293456838322,included_game_day
+1999,120,Maryland,1998-11-14,64.0,included_game_day
+1999,120,Maryland,1998-11-17,80.1,included_game_day
+1999,120,Maryland,1998-11-20,99.09,included_game_day
+1999,120,Maryland,1998-11-23,122.19,included_game_day
+1999,120,Maryland,1998-11-27,127.621934,included_game_day
+1999,120,Maryland,1998-11-28,157.845786,included_game_day
+1999,120,Maryland,1998-12-03,165.9681802,included_game_day
+1999,120,Maryland,1998-12-06,156.39914878000002,included_game_day
+1999,120,Maryland,1998-12-07,163.30731927300002,included_game_day
+1999,120,Maryland,1998-12-12,146.37792466390002,included_game_day
+1999,120,Maryland,1998-12-19,159.5658391270814,included_game_day
+1999,120,Maryland,1998-12-23,202.24457133821647,included_game_day
+1999,120,Maryland,1998-12-30,207.6568669515759,included_game_day
+1999,120,Maryland,1999-01-03,187.493549039818,included_game_day
+1999,120,Maryland,1999-01-07,182.9278696130608,included_game_day
+1999,120,Maryland,1999-01-10,218.65430894324123,included_game_day
+1999,120,Maryland,1999-01-13,224.5270168851038,included_game_day
+1999,120,Maryland,1999-01-19,213.14967276984956,included_game_day
+1999,120,Maryland,1999-01-24,202.80930581481482,included_game_day
+1999,120,Maryland,1999-01-27,207.16011687535016,included_game_day
+1999,120,Maryland,1999-01-31,179.95127696973782,included_game_day
+1999,120,Maryland,1999-02-03,173.79387068163246,included_game_day
+1999,120,Maryland,1999-02-06,173.88505569588108,included_game_day
+1999,120,Maryland,1999-02-10,180.2772698682858,included_game_day
+1999,120,Maryland,1999-02-13,190.35539874998392,included_game_day
+1999,120,Maryland,1999-02-21,208.49616351220067,included_game_day
+1999,120,Maryland,1999-02-24,211.42910613404493,included_game_day
+1999,120,Maryland,1999-02-27,203.4611944712284,included_game_day
+1999,120,Maryland,1999-03-05,210.21072668792954,included_game_day
+1999,120,Maryland,1999-03-06,195.14120923616704,included_game_day
+1999,120,Maryland,1999-03-11,205.29160894598232,included_game_day
+1999,120,Maryland,1999-03-13,205.42323083452558,included_game_day
+1999,120,Maryland,1999-03-18,189.42334828309396,included_game_day
+2000,120,Maryland,1999-11-17,7.0,included_game_day
+2000,120,Maryland,1999-11-19,12.1,included_game_day
+2000,120,Maryland,1999-11-22,66.89,included_game_day
+2000,120,Maryland,1999-11-24,59.261,included_game_day
+2000,120,Maryland,1999-11-26,59.213100000000004,included_game_day
+2000,120,Maryland,1999-11-30,67.90869,included_game_day
+2000,120,Maryland,1999-12-04,63.59517100000001,included_game_day
+2000,120,Maryland,1999-12-05,52.02954790000001,included_game_day
+2000,120,Maryland,1999-12-07,56.55023672000001,included_game_day
+2000,120,Maryland,1999-12-11,58.29263630970001,included_game_day
+2000,120,Maryland,1999-12-27,53.943577402023905,included_game_day
+2000,120,Maryland,1999-12-30,76.03383911355051,included_game_day
+2000,120,Maryland,2000-01-02,111.57183073220563,included_game_day
+2000,120,Maryland,2000-01-06,110.0281689138526,included_game_day
+2000,120,Maryland,2000-01-09,103.45950118564487,included_game_day
+2000,120,Maryland,2000-01-15,97.09700201068875,included_game_day
+2000,120,Maryland,2000-01-19,113.24092735547592,included_game_day
+2000,120,Maryland,2000-01-22,107.76179849466575,included_game_day
+2000,120,Maryland,2000-01-27,94.89493829962097,included_game_day
+2000,120,Maryland,2000-01-29,109.91410430185105,included_game_day
+2000,120,Maryland,2000-02-02,118.63578597738608,included_game_day
+2000,120,Maryland,2000-02-06,117.16864892945816,included_game_day
+2000,120,Maryland,2000-02-09,140.5789539395119,included_game_day
+2000,120,Maryland,2000-02-13,138.38741276075842,included_game_day
+2000,120,Maryland,2000-02-16,145.93948841019915,included_game_day
+2000,120,Maryland,2000-02-19,145.8010804251419,included_game_day
+2000,120,Maryland,2000-02-22,147.88739127023865,included_game_day
+2000,120,Maryland,2000-02-26,148.12034983816181,included_game_day
+2000,120,Maryland,2000-03-01,146.3663705501892,included_game_day
+2000,120,Maryland,2000-03-04,139.97493207721627,included_game_day
+2000,120,Maryland,2000-03-10,146.79098128809252,included_game_day
+2000,120,Maryland,2000-03-11,142.66555250621983,included_game_day
+2000,120,Maryland,2000-03-12,134.92566084142533,included_game_day
+2000,120,Maryland,2000-03-16,141.35562275492893,included_game_day
+2000,120,Maryland,2000-03-18,101.96289606117833,included_game_day
+2001,120,Maryland,2000-11-20,23.8,included_game_day
+2001,120,Maryland,2000-11-21,14.440000000000001,included_game_day
+2001,120,Maryland,2000-11-22,6.655000000000001,included_game_day
+2001,120,Maryland,2000-11-29,5.490900000000001,included_game_day
+2001,120,Maryland,2000-12-02,37.58892,included_game_day
+2001,120,Maryland,2000-12-03,46.638476,included_game_day
+2001,120,Maryland,2000-12-06,85.74259296,included_game_day
+2001,120,Maryland,2000-12-09,83.868832864,included_game_day
+2001,120,Maryland,2000-12-13,101.869531321408,included_game_day
+2001,120,Maryland,2000-12-23,127.5318302259772,included_game_day
+2001,120,Maryland,2000-12-27,166.8832465112096,included_game_day
+2001,120,Maryland,2000-12-30,193.18449371164533,included_game_day
+2001,120,Maryland,2001-01-02,191.4254015042011,included_game_day
+2001,120,Maryland,2001-01-06,190.63859767222257,included_game_day
+2001,120,Maryland,2001-01-10,177.23580397303024,included_game_day
+2001,120,Maryland,2001-01-14,181.13363466235634,included_game_day
+2001,120,Maryland,2001-01-17,187.54584237865743,included_game_day
+2001,120,Maryland,2001-01-21,195.2670983387821,included_game_day
+2001,120,Maryland,2001-01-27,197.30204415318318,included_game_day
+2001,120,Maryland,2001-01-31,173.43447153871327,included_game_day
+2001,120,Maryland,2001-02-04,167.45904460547052,included_game_day
+2001,120,Maryland,2001-02-06,152.02350566690282,included_game_day
+2001,120,Maryland,2001-02-10,143.5898709437481,included_game_day
+2001,120,Maryland,2001-02-14,121.34659984861511,included_game_day
+2001,120,Maryland,2001-02-17,141.00235344260437,included_game_day
+2001,120,Maryland,2001-02-20,162.5337428998522,included_game_day
+2001,120,Maryland,2001-02-24,162.851532269416,included_game_day
+2001,120,Maryland,2001-02-27,188.65794815743882,included_game_day
+2001,120,Maryland,2001-03-03,217.94805529076743,included_game_day
+2001,120,Maryland,2001-03-09,230.09345028765594,included_game_day
+2001,120,Maryland,2001-03-10,230.86549038649042,included_game_day
+2001,120,Maryland,2001-03-15,217.42609794313066,included_game_day
+2001,120,Maryland,2001-03-17,222.87128949341863,included_game_day
+2001,120,Maryland,2001-03-22,220.997836147689,included_game_day
+2001,120,Maryland,2001-03-24,232.86384620402742,included_game_day
+2001,120,Maryland,2001-03-31,226.06305850462886,included_game_day
+2002,120,Maryland Terrapins,2001-11-08,-7.0,included_game_day
+2002,120,Maryland Terrapins,2001-11-09,-1.7999999999999998,included_game_day
+2002,120,Maryland Terrapins,2001-11-17,25.38,included_game_day
+2002,120,Maryland Terrapins,2001-11-24,45.486000000000004,included_game_day
+2002,120,Maryland Terrapins,2001-11-27,59.290400000000005,included_game_day
+2002,120,Maryland Terrapins,2001-12-02,58.48866100000001,included_game_day
+2002,120,Maryland Terrapins,2001-12-09,76.81274688,included_game_day
+2002,120,Maryland Terrapins,2001-12-11,99.859885916,included_game_day
+2002,120,Maryland Terrapins,2001-12-21,90.9102358816869,included_game_day
+2002,120,Maryland Terrapins,2001-12-27,103.77177029351822,included_game_day
+2002,120,Maryland Terrapins,2001-12-30,113.94015831887317,included_game_day
+2002,120,Maryland Terrapins,2002-01-03,118.1371351705586,included_game_day
+2002,120,Maryland Terrapins,2002-01-09,136.72237397112477,included_game_day
+2002,120,Maryland Terrapins,2002-01-13,128.86019732129597,included_game_day
+2002,120,Maryland Terrapins,2002-01-17,113.73472633758209,included_game_day
+2002,120,Maryland Terrapins,2002-01-20,112.16580567499467,included_game_day
+2002,120,Maryland Terrapins,2002-01-23,137.70913410769538,included_game_day
+2002,120,Maryland Terrapins,2002-01-26,147.5912343740697,included_game_day
+2002,120,Maryland Terrapins,2002-01-31,151.78412129339475,included_game_day
+2002,120,Maryland Terrapins,2002-02-03,159.92424406752517,included_game_day
+2002,120,Maryland Terrapins,2002-02-17,179.7808543960009,included_game_day
+2002,120,Maryland Terrapins,2002-02-20,178.3065403963752,included_game_day
+2002,120,Maryland Terrapins,2002-02-24,168.58956461416167,included_game_day
+2002,120,Maryland Terrapins,2002-02-27,187.14894142681806,included_game_day
+2002,120,Maryland Terrapins,2002-03-03,192.14067324460822,included_game_day
+2002,120,Maryland Terrapins,2002-03-08,193.80996827030393,included_game_day
+2002,120,Maryland Terrapins,2002-03-09,178.31112472707719,included_game_day
+2002,120,Maryland Terrapins,2002-03-15,177.31871158190086,included_game_day
+2002,120,Maryland Terrapins,2002-03-17,194.08926410853542,included_game_day
+2002,120,Maryland Terrapins,2002-03-22,193.53459680942467,included_game_day
+2002,120,Maryland Terrapins,2002-03-24,192.4801247981708,included_game_day
+2002,120,Maryland Terrapins,2002-03-30,207.37030494164935,included_game_day
+2002,120,Maryland Terrapins,2002-04-01,213.6344236337609,included_game_day
+2003,120,Maryland Terrapins,2002-11-24,9.6,included_game_day
+2003,120,Maryland Terrapins,2002-11-27,53.43,included_game_day
+2003,120,Maryland Terrapins,2002-11-30,93.179,included_game_day
+2003,120,Maryland Terrapins,2002-12-03,84.86299,included_game_day
+2003,120,Maryland Terrapins,2002-12-07,74.11209319999999,included_game_day
+2003,120,Maryland Terrapins,2002-12-08,82.05050100999999,included_game_day
+2003,120,Maryland Terrapins,2002-12-14,74.76851318099999,included_game_day
+2003,120,Maryland Terrapins,2002-12-23,104.70534786893099,included_game_day
+2003,120,Maryland Terrapins,2002-12-29,103.10748360630589,included_game_day
+2003,120,Maryland Terrapins,2003-01-04,112.52801636786614,included_game_day
+2003,120,Maryland Terrapins,2003-01-08,150.39200022697344,included_game_day
+2003,120,Maryland Terrapins,2003-01-11,164.682184331639,included_game_day
+2003,120,Maryland Terrapins,2003-01-15,154.99170778394978,included_game_day
+2003,120,Maryland Terrapins,2003-01-18,166.03495498825038,included_game_day
+2003,120,Maryland Terrapins,2003-01-22,173.81761636012934,included_game_day
+2003,120,Maryland Terrapins,2003-01-25,169.128179450151,included_game_day
+2003,120,Maryland Terrapins,2003-01-30,171.27875254610097,included_game_day
+2003,120,Maryland Terrapins,2003-02-02,166.75020044359172,included_game_day
+2003,120,Maryland Terrapins,2003-02-06,143.5973607457921,included_game_day
+2003,120,Maryland Terrapins,2003-02-09,134.99231530913883,included_game_day
+2003,120,Maryland Terrapins,2003-02-12,130.3679363527164,included_game_day
+2003,120,Maryland Terrapins,2003-02-17,151.79412360543407,included_game_day
+2003,120,Maryland Terrapins,2003-02-19,147.58646967173752,included_game_day
+2003,120,Maryland Terrapins,2003-02-22,175.5152222950984,included_game_day
+2003,120,Maryland Terrapins,2003-02-25,198.44375850874422,included_game_day
+2003,120,Maryland Terrapins,2003-03-02,191.6341656433468,included_game_day
+2003,120,Maryland Terrapins,2003-03-09,173.3655544425362,included_game_day
+2003,120,Maryland Terrapins,2003-03-14,144.31939457479822,included_game_day
+2003,120,Maryland Terrapins,2003-03-21,139.8320869824362,included_game_day
+2003,120,Maryland Terrapins,2003-03-23,155.25487432993057,included_game_day
+2003,120,Maryland Terrapins,2003-03-28,150.02853569504228,included_game_day
+2004,120,Maryland Terrapins,2003-11-22,28.0,included_game_day
+2004,120,Maryland Terrapins,2003-11-25,38.2,included_game_day
+2004,120,Maryland Terrapins,2003-11-29,44.867000000000004,included_game_day
+2004,120,Maryland Terrapins,2003-12-02,48.41030000000001,included_game_day
+2004,120,Maryland Terrapins,2003-12-06,33.39264150000001,included_game_day
+2004,120,Maryland Terrapins,2003-12-07,27.73151889000001,included_game_day
+2004,120,Maryland Terrapins,2003-12-10,36.294555001000006,included_game_day
+2004,120,Maryland Terrapins,2003-12-14,56.0326642679,included_game_day
+2004,120,Maryland Terrapins,2003-12-23,72.359731821349,included_game_day
+2004,120,Maryland Terrapins,2003-12-28,73.6558279149291,included_game_day
+2004,120,Maryland Terrapins,2004-01-03,89.79989306117284,included_game_day
+2004,120,Maryland Terrapins,2004-01-06,116.64524737474096,included_game_day
+2004,120,Maryland Terrapins,2004-01-14,122.19265561414362,included_game_day
+2004,120,Maryland Terrapins,2004-01-17,117.98571365962107,included_game_day
+2004,120,Maryland Terrapins,2004-01-21,115.14826190117863,included_game_day
+2004,120,Maryland Terrapins,2004-01-25,120.97056134436083,included_game_day
+2004,120,Maryland Terrapins,2004-01-29,114.08495229306871,included_game_day
+2004,120,Maryland Terrapins,2004-02-01,99.97169651714904,included_game_day
+2004,120,Maryland Terrapins,2004-02-04,100.31406192311427,included_game_day
+2004,120,Maryland Terrapins,2004-02-08,107.72561195893331,included_game_day
+2004,120,Maryland Terrapins,2004-02-15,100.96026216984032,included_game_day
+2004,120,Maryland Terrapins,2004-02-19,89.7063461044659,included_game_day
+2004,120,Maryland Terrapins,2004-02-22,79.50115478328664,included_game_day
+2004,120,Maryland Terrapins,2004-02-24,92.03021797836658,included_game_day
+2004,120,Maryland Terrapins,2004-02-28,85.19672914266134,included_game_day
+2004,120,Maryland Terrapins,2004-03-03,94.02963752169677,included_game_day
+2004,120,Maryland Terrapins,2004-03-07,95.65791838275926,included_game_day
+2004,120,Maryland Terrapins,2004-03-12,101.7844855279079,included_game_day
+2004,120,Maryland Terrapins,2004-03-13,111.61419232428706,included_game_day
+2004,120,Maryland Terrapins,2004-03-14,129.84202185079837,included_game_day
+2004,120,Maryland Terrapins,2004-03-18,125.78104400458301,included_game_day
+2004,120,Maryland Terrapins,2004-03-20,117.96571149930168,included_game_day
+2005,120,Maryland Terrapins,2004-11-19,33.0,included_game_day
+2005,120,Maryland Terrapins,2004-11-23,52.7,included_game_day
+2005,120,Maryland Terrapins,2004-11-26,73.26353,included_game_day
+2005,120,Maryland Terrapins,2004-11-30,65.973127,included_game_day
+2005,120,Maryland Terrapins,2004-12-04,83.86114930000001,included_game_day
+2005,120,Maryland Terrapins,2004-12-05,74.79046936700001,included_game_day
+2005,120,Maryland Terrapins,2004-12-12,83.09425223930002,included_game_day
+2005,120,Maryland Terrapins,2004-12-19,76.03018654250032,included_game_day
+2005,120,Maryland Terrapins,2004-12-23,89.60642830275029,included_game_day
+2005,120,Maryland Terrapins,2004-12-28,111.61264692108499,included_game_day
+2005,120,Maryland Terrapins,2005-01-04,125.1153944827237,included_game_day
+2005,120,Maryland Terrapins,2005-01-08,102.11957675218196,included_game_day
+2005,120,Maryland Terrapins,2005-01-11,94.47283335586096,included_game_day
+2005,120,Maryland Terrapins,2005-01-15,98.31782003396566,included_game_day
+2005,120,Maryland Terrapins,2005-01-19,101.75058877749561,included_game_day
+2005,120,Maryland Terrapins,2005-01-23,80.36326181040135,included_game_day
+2005,120,Maryland Terrapins,2005-01-26,102.0191084935843,included_game_day
+2005,120,Maryland Terrapins,2005-01-30,108.6572655905214,included_game_day
+2005,120,Maryland Terrapins,2005-02-01,89.7379259405115,included_game_day
+2005,120,Maryland Terrapins,2005-02-05,86.68654343648252,included_game_day
+2005,120,Maryland Terrapins,2005-02-08,93.03011889406692,included_game_day
+2005,120,Maryland Terrapins,2005-02-12,106.42979592805139,included_game_day
+2005,120,Maryland Terrapins,2005-02-16,88.13577128548087,included_game_day
+2005,120,Maryland Terrapins,2005-02-19,86.85338871495766,included_game_day
+2005,120,Maryland Terrapins,2005-02-22,75.27323726769333,included_game_day
+2005,120,Maryland Terrapins,2005-02-27,88.05228828945455,included_game_day
+2005,120,Maryland Terrapins,2005-03-05,76.1706970478067,included_game_day
+2005,120,Maryland Terrapins,2005-03-10,58.7092033952854,included_game_day
+2005,120,Maryland Terrapins,2005-03-16,69.88805767189324,included_game_day
+2005,120,Maryland Terrapins,2005-03-23,80.66486204262958,included_game_day
+2005,120,Maryland Terrapins,2005-03-26,84.63048959186878,included_game_day
+2005,120,Maryland Terrapins,2005-03-29,72.47857904442267,included_game_day
+2006,120,Maryland Terrapins,2005-11-18,23.42,included_game_day
+2006,120,Maryland Terrapins,2005-11-21,6.678000000000001,included_game_day
+2006,120,Maryland Terrapins,2005-11-23,18.9422,included_game_day
+2006,120,Maryland Terrapins,2005-11-27,37.27233,included_game_day
+2006,120,Maryland Terrapins,2005-11-30,49.170687,included_game_day
+2006,120,Maryland Terrapins,2005-12-05,44.2427201,included_game_day
+2006,120,Maryland Terrapins,2005-12-07,62.20296509,included_game_day
+2006,120,Maryland Terrapins,2005-12-11,59.3446296743,included_game_day
+2006,120,Maryland Terrapins,2005-12-23,71.48236176794,included_game_day
+2006,120,Maryland Terrapins,2005-12-28,71.69313078890386,included_game_day
+2006,120,Maryland Terrapins,2005-12-31,89.11160212280575,included_game_day
+2006,120,Maryland Terrapins,2006-01-04,109.95046916759662,included_game_day
+2006,120,Maryland Terrapins,2006-01-07,91.76808593252433,included_game_day
+2006,120,Maryland Terrapins,2006-01-11,80.37760669788102,included_game_day
+2006,120,Maryland Terrapins,2006-01-15,79.50874451318869,included_game_day
+2006,120,Maryland Terrapins,2006-01-21,83.88106954290163,included_game_day
+2006,120,Maryland Terrapins,2006-01-25,94.09524078825822,included_game_day
+2006,120,Maryland Terrapins,2006-01-28,84.23405091745472,included_game_day
+2006,120,Maryland Terrapins,2006-02-02,68.05872861598304,included_game_day
+2006,120,Maryland Terrapins,2006-02-05,71.04087687235192,included_game_day
+2006,120,Maryland Terrapins,2006-02-07,79.31248483387073,included_game_day
+2006,120,Maryland Terrapins,2006-02-11,78.71754987261288,included_game_day
+2006,120,Maryland Terrapins,2006-02-14,66.35213038706314,included_game_day
+2006,120,Maryland Terrapins,2006-02-18,64.57402547660509,included_game_day
+2006,120,Maryland Terrapins,2006-02-22,58.9087559077155,included_game_day
+2006,120,Maryland Terrapins,2006-02-26,47.98543104654239,included_game_day
+2006,120,Maryland Terrapins,2006-03-01,51.65258051186692,included_game_day
+2006,120,Maryland Terrapins,2006-03-05,53.20357748988831,included_game_day
+2006,120,Maryland Terrapins,2006-03-09,68.67516429528567,included_game_day
+2006,120,Maryland Terrapins,2006-03-10,60.48490756951541,included_game_day
+2006,120,Maryland Terrapins,2006-03-18,47.25242019051182,included_game_day
+2007,120,Maryland Terrapins,2006-11-07,24.0,included_game_day
+2007,120,Maryland Terrapins,2006-11-08,38.6,included_game_day
+2007,120,Maryland Terrapins,2006-11-12,70.74000000000001,included_game_day
+2007,120,Maryland Terrapins,2006-11-16,102.376,included_game_day
+2007,120,Maryland Terrapins,2006-11-17,96.9723,included_game_day
+2007,120,Maryland Terrapins,2006-11-20,98.76697,included_game_day
+2007,120,Maryland Terrapins,2006-11-24,104.64027300000001,included_game_day
+2007,120,Maryland Terrapins,2006-11-28,114.2598743,included_game_day
+2007,120,Maryland Terrapins,2006-12-03,101.64373773000001,included_game_day
+2007,120,Maryland Terrapins,2006-12-06,109.46303625300001,included_game_day
+2007,120,Maryland Terrapins,2006-12-10,96.71156836046,included_game_day
+2007,120,Maryland Terrapins,2006-12-13,129.0723721139405,included_game_day
+2007,120,Maryland Terrapins,2006-12-23,127.06169791562486,included_game_day
+2007,120,Maryland Terrapins,2006-12-28,148.22895986060132,included_game_day
+2007,120,Maryland Terrapins,2006-12-31,150.61118043139226,included_game_day
+2007,120,Maryland Terrapins,2007-01-04,151.9915088723669,included_game_day
+2007,120,Maryland Terrapins,2007-01-10,130.0195508220527,included_game_day
+2007,120,Maryland Terrapins,2007-01-13,132.71620963165836,included_game_day
+2007,120,Maryland Terrapins,2007-01-16,116.81454020213816,included_game_day
+2007,120,Maryland Terrapins,2007-01-21,116.84418008217472,included_game_day
+2007,120,Maryland Terrapins,2007-01-24,131.35271236424353,included_game_day
+2007,120,Maryland Terrapins,2007-01-30,114.35355642829803,included_game_day
+2007,120,Maryland Terrapins,2007-02-03,114.62530505931402,included_game_day
+2007,120,Maryland Terrapins,2007-02-06,106.10543028712274,included_game_day
+2007,120,Maryland Terrapins,2007-02-11,118.26347901064966,included_game_day
+2007,120,Maryland Terrapins,2007-02-14,128.5676668344216,included_game_day
+2007,120,Maryland Terrapins,2007-02-18,145.50697394625547,included_game_day
+2007,120,Maryland Terrapins,2007-02-21,156.0391947949623,included_game_day
+2007,120,Maryland Terrapins,2007-02-25,162.17989259535113,included_game_day
+2007,120,Maryland Terrapins,2007-02-28,172.11960618544697,included_game_day
+2007,120,Maryland Terrapins,2007-03-03,176.3086170663781,included_game_day
+2007,120,Maryland Terrapins,2007-03-08,153.03512690499412,included_game_day
+2007,120,Maryland Terrapins,2007-03-15,157.62974637911498,included_game_day
+2007,120,Maryland Terrapins,2007-03-17,146.0838968325709,included_game_day
+2008,120,Maryland Terrapins,2007-11-11,29.0,included_game_day
+2008,120,Maryland Terrapins,2007-11-12,33.8,included_game_day
+2008,120,Maryland Terrapins,2007-11-15,28.919999999999998,included_game_day
+2008,120,Maryland Terrapins,2007-11-19,18.747999999999998,included_game_day
+2008,120,Maryland Terrapins,2007-11-20,9.865999999999998,included_game_day
+2008,120,Maryland Terrapins,2007-11-23,26.65287,included_game_day
+2008,120,Maryland Terrapins,2007-11-28,35.881978000000004,included_game_day
+2008,120,Maryland Terrapins,2007-12-02,24.446759200000002,included_game_day
+2008,120,Maryland Terrapins,2007-12-06,46.962736484000004,included_game_day
+2008,120,Maryland Terrapins,2007-12-09,40.469429816120005,included_game_day
+2008,120,Maryland Terrapins,2007-12-12,32.260484983724005,included_game_day
+2008,120,Maryland Terrapins,2007-12-22,18.785837734026835,included_game_day
+2008,120,Maryland Terrapins,2007-12-28,42.60298486065329,included_game_day
+2008,120,Maryland Terrapins,2008-01-02,51.85094904320353,included_game_day
+2008,120,Maryland Terrapins,2008-01-05,56.84370430578465,included_game_day
+2008,120,Maryland Terrapins,2008-01-08,75.96901003952146,included_game_day
+2008,120,Maryland Terrapins,2008-01-12,78.2668585878729,included_game_day
+2008,120,Maryland Terrapins,2008-01-15,76.72144406064642,included_game_day
+2008,120,Maryland Terrapins,2008-01-27,75.55932637627643,included_game_day
+2008,120,Maryland Terrapins,2008-01-30,78.2288032998338,included_game_day
+2008,120,Maryland Terrapins,2008-02-02,82.38392073375115,included_game_day
+2008,120,Maryland Terrapins,2008-02-06,86.41094927973715,included_game_day
+2008,120,Maryland Terrapins,2008-02-09,91.81477958505393,included_game_day
+2008,120,Maryland Terrapins,2008-02-13,92.99079966556465,included_game_day
+2008,120,Maryland Terrapins,2008-02-16,94.74842941023039,included_game_day
+2008,120,Maryland Terrapins,2008-02-20,81.81600769892442,included_game_day
+2008,120,Maryland Terrapins,2008-02-23,69.73211243258159,included_game_day
+2008,120,Maryland Terrapins,2008-02-28,78.06844574780276,included_game_day
+2008,120,Maryland Terrapins,2008-03-02,77.65957863301459,included_game_day
+2008,120,Maryland Terrapins,2008-03-09,62.25894020966166,included_game_day
+2008,120,Maryland Terrapins,2008-03-13,55.400178710141894,included_game_day
+2008,120,Maryland Terrapins,2008-03-18,65.34032179135056,included_game_day
+2008,120,Maryland Terrapins,2008-03-20,52.32297917923388,included_game_day
+2009,120,Maryland Terrapins,2008-11-14,26.0,included_game_day
+2009,120,Maryland Terrapins,2008-11-18,43.3,included_game_day
+2009,120,Maryland Terrapins,2008-11-21,53.3,included_game_day
+2009,120,Maryland Terrapins,2008-11-27,70.27,included_game_day
+2009,120,Maryland Terrapins,2008-11-28,45.47869,included_game_day
+2009,120,Maryland Terrapins,2008-11-30,16.5680778,included_game_day
+2009,120,Maryland Terrapins,2008-12-03,20.442904820000003,included_game_day
+2009,120,Maryland Terrapins,2008-12-07,42.590839338,included_game_day
+2009,120,Maryland Terrapins,2008-12-12,55.00517449284,included_game_day
+2009,120,Maryland Terrapins,2008-12-22,61.36336499400636,included_game_day
+2009,120,Maryland Terrapins,2008-12-27,63.46675062879783,included_game_day
+2009,120,Maryland Terrapins,2008-12-30,75.3219553959832,included_game_day
+2009,120,Maryland Terrapins,2009-01-03,76.57222802226423,included_game_day
+2009,120,Maryland Terrapins,2009-01-07,62.74491380278876,included_game_day
+2009,120,Maryland Terrapins,2009-01-10,63.14336399364968,included_game_day
+2009,120,Maryland Terrapins,2009-01-14,68.38384723468997,included_game_day
+2009,120,Maryland Terrapins,2009-01-17,69.99005159825934,included_game_day
+2009,120,Maryland Terrapins,2009-01-20,69.0512525600478,included_game_day
+2009,120,Maryland Terrapins,2009-01-24,42.19610269456517,included_game_day
+2009,120,Maryland Terrapins,2009-01-27,32.3182983178385,included_game_day
+2009,120,Maryland Terrapins,2009-01-31,39.473235587948864,included_game_day
+2009,120,Maryland Terrapins,2009-02-03,42.61777927316472,included_game_day
+2009,120,Maryland Terrapins,2009-02-08,46.16816308024316,included_game_day
+2009,120,Maryland Terrapins,2009-02-14,56.947565307642236,included_game_day
+2009,120,Maryland Terrapins,2009-02-17,38.598133626150386,included_game_day
+2009,120,Maryland Terrapins,2009-02-21,55.12777961504284,included_game_day
+2009,120,Maryland Terrapins,2009-02-25,50.20781841152041,included_game_day
+2009,120,Maryland Terrapins,2009-03-01,67.77171576927167,included_game_day
+2009,120,Maryland Terrapins,2009-03-03,69.60058403359052,included_game_day
+2009,120,Maryland Terrapins,2009-03-07,64.13622838437128,included_game_day
+2009,120,Maryland Terrapins,2009-03-12,69.57776007278825,included_game_day
+2009,120,Maryland Terrapins,2009-03-13,87.52486132259001,included_game_day
+2009,120,Maryland Terrapins,2009-03-14,86.93445449731101,included_game_day
+2009,120,Maryland Terrapins,2009-03-19,99.22001826019817,included_game_day
+2009,120,Maryland Terrapins,2009-03-21,91.53522782947032,included_game_day
+2010,120,Maryland Terrapins,2009-11-13,35.0,included_game_day
+2010,120,Maryland Terrapins,2009-11-17,58.75,included_game_day
+2010,120,Maryland Terrapins,2009-11-20,76.875,included_game_day
+2010,120,Maryland Terrapins,2009-11-24,60.4434,included_game_day
+2010,120,Maryland Terrapins,2009-11-25,48.061218999999994,included_game_day
+2010,120,Maryland Terrapins,2009-12-01,59.369763899999995,included_game_day
+2010,120,Maryland Terrapins,2009-12-06,52.639756862999995,included_game_day
+2010,120,Maryland Terrapins,2009-12-12,58.458835969499994,included_game_day
+2010,120,Maryland Terrapins,2009-12-22,82.042112906412,included_game_day
+2010,120,Maryland Terrapins,2009-12-27,82.9831610059777,included_game_day
+2010,120,Maryland Terrapins,2009-12-30,68.85678846086124,included_game_day
+2010,120,Maryland Terrapins,2010-01-03,90.28303028458765,included_game_day
+2010,120,Maryland Terrapins,2010-01-10,101.7557723863204,included_game_day
+2010,120,Maryland Terrapins,2010-01-12,101.99726955852019,included_game_day
+2010,120,Maryland Terrapins,2010-01-16,117.70430570431463,included_game_day
+2010,120,Maryland Terrapins,2010-01-19,143.6860617452404,included_game_day
+2010,120,Maryland Terrapins,2010-01-23,159.5228693523958,included_game_day
+2010,120,Maryland Terrapins,2010-01-26,170.3086805567996,included_game_day
+2010,120,Maryland Terrapins,2010-01-31,159.10782987604097,included_game_day
+2010,120,Maryland Terrapins,2010-02-04,161.77639394211758,included_game_day
+2010,120,Maryland Terrapins,2010-02-07,171.48214897970269,included_game_day
+2010,120,Maryland Terrapins,2010-02-13,155.28405198010185,included_game_day
+2010,120,Maryland Terrapins,2010-02-15,165.5406327135674,included_game_day
+2010,120,Maryland Terrapins,2010-02-17,165.41351130706587,included_game_day
+2010,120,Maryland Terrapins,2010-02-20,159.1857623198511,included_game_day
+2010,120,Maryland Terrapins,2010-02-24,163.25571661055355,included_game_day
+2010,120,Maryland Terrapins,2010-02-27,164.8297139233866,included_game_day
+2010,120,Maryland Terrapins,2010-03-03,173.37676920899165,included_game_day
+2010,120,Maryland Terrapins,2010-03-06,168.7956817825192,included_game_day
+2010,120,Maryland Terrapins,2010-03-12,157.31206026218618,included_game_day
+2010,120,Maryland Terrapins,2010-03-19,160.9525536150906,included_game_day
+2010,120,Maryland Terrapins,2010-03-21,154.89109253577757,included_game_day
+2011,120,Maryland Terrapins,2010-11-08,26.0,included_game_day
+2011,120,Maryland Terrapins,2010-11-10,21.4,included_game_day
+2011,120,Maryland Terrapins,2010-11-14,47.06,included_game_day
+2011,120,Maryland Terrapins,2010-11-18,41.489000000000004,included_game_day
+2011,120,Maryland Terrapins,2010-11-19,38.7,included_game_day
+2011,120,Maryland Terrapins,2010-11-23,49.83,included_game_day
+2011,120,Maryland Terrapins,2010-11-26,57.281499999999994,included_game_day
+2011,120,Maryland Terrapins,2010-12-01,81.60111699999999,included_game_day
+2011,120,Maryland Terrapins,2010-12-05,74.62686523059999,included_game_day
+2011,120,Maryland Terrapins,2010-12-08,96.06472994761998,included_game_day
+2011,120,Maryland Terrapins,2010-12-12,85.57840362768398,included_game_day
+2011,120,Maryland Terrapins,2010-12-22,107.33568825581432,included_game_day
+2011,120,Maryland Terrapins,2010-12-29,110.85636239549224,included_game_day
+2011,120,Maryland Terrapins,2011-01-04,142.5954577648734,included_game_day
+2011,120,Maryland Terrapins,2011-01-09,143.6182293217096,included_game_day
+2011,120,Maryland Terrapins,2011-01-12,147.71582950624514,included_game_day
+2011,120,Maryland Terrapins,2011-01-15,142.7922969322638,included_game_day
+2011,120,Maryland Terrapins,2011-01-20,120.75002215186066,included_game_day
+2011,120,Maryland Terrapins,2011-01-22,116.0622436914965,included_game_day
+2011,120,Maryland Terrapins,2011-01-27,134.34282797377395,included_game_day
+2011,120,Maryland Terrapins,2011-01-30,141.49692072403815,included_game_day
+2011,120,Maryland Terrapins,2011-02-02,121.95076056875149,included_game_day
+2011,120,Maryland Terrapins,2011-02-05,120.72619175180715,included_game_day
+2011,120,Maryland Terrapins,2011-02-09,148.3194937683778,included_game_day
+2011,120,Maryland Terrapins,2011-02-12,136.16506146368494,included_game_day
+2011,120,Maryland Terrapins,2011-02-15,129.52417337813867,included_game_day
+2011,120,Maryland Terrapins,2011-02-20,125.92062972310742,included_game_day
+2011,120,Maryland Terrapins,2011-02-23,136.0377781742097,included_game_day
+2011,120,Maryland Terrapins,2011-02-27,128.3409929937826,included_game_day
+2011,120,Maryland Terrapins,2011-03-02,111.56303258999945,included_game_day
+2011,120,Maryland Terrapins,2011-03-05,86.47408128366888,included_game_day
+2011,120,Maryland Terrapins,2011-03-10,88.75722727338194,included_game_day
+2011,120,Maryland Terrapins,2011-03-11,80.59277635142038,included_game_day
+2012,120,Maryland Terrapins,2011-11-13,6.0,included_game_day
+2012,120,Maryland Terrapins,2011-11-17,-11.670000000000002,included_game_day
+2012,120,Maryland Terrapins,2011-11-18,-4.155000000000001,included_game_day
+2012,120,Maryland Terrapins,2011-11-20,-28.916900000000002,included_game_day
+2012,120,Maryland Terrapins,2011-11-25,-22.855890000000002,included_game_day
+2012,120,Maryland Terrapins,2011-11-29,-24.5452672,included_game_day
+2012,120,Maryland Terrapins,2011-12-04,-12.998758280000002,included_game_day
+2012,120,Maryland Terrapins,2011-12-07,-19.1292432137,included_game_day
+2012,120,Maryland Terrapins,2011-12-14,-18.772115372278,included_game_day
+2012,120,Maryland Terrapins,2011-12-23,-25.584772267913667,included_game_day
+2012,120,Maryland Terrapins,2011-12-28,-12.657380641669112,included_game_day
+2012,120,Maryland Terrapins,2011-12-31,-9.923178381357452,included_game_day
+2012,120,Maryland Terrapins,2012-01-03,-4.903055629893206,included_game_day
+2012,120,Maryland Terrapins,2012-01-08,1.752784451441947,included_game_day
+2012,120,Maryland Terrapins,2012-01-11,5.3727405610594055,included_game_day
+2012,120,Maryland Terrapins,2012-01-15,15.69518164558945,included_game_day
+2012,120,Maryland Terrapins,2012-01-17,13.744279790930783,included_game_day
+2012,120,Maryland Terrapins,2012-01-21,8.465922339198825,included_game_day
+2012,120,Maryland Terrapins,2012-01-25,2.313318793313499,included_game_day
+2012,120,Maryland Terrapins,2012-01-28,9.287275931642643,included_game_day
+2012,120,Maryland Terrapins,2012-02-01,14.480186108787086,included_game_day
+2012,120,Maryland Terrapins,2012-02-04,15.648243552746793,included_game_day
+2012,120,Maryland Terrapins,2012-02-07,23.133615166550374,included_game_day
+2012,120,Maryland Terrapins,2012-02-11,17.341095078674222,included_game_day
+2012,120,Maryland Terrapins,2012-02-16,26.14933009549737,included_game_day
+2012,120,Maryland Terrapins,2012-02-18,7.953562955153405,included_game_day
+2012,120,Maryland Terrapins,2012-02-21,17.584904949474875,included_game_day
+2012,120,Maryland Terrapins,2012-02-25,13.701133796888143,included_game_day
+2012,120,Maryland Terrapins,2012-02-29,8.209751986889241,included_game_day
+2012,120,Maryland Terrapins,2012-03-04,10.70637124757779,included_game_day
+2012,120,Maryland Terrapins,2012-03-08,29.622127925704405,included_game_day
+2012,120,Maryland Terrapins,2012-03-09,29.71463909087996,included_game_day
+2013,120,Maryland Terrapins,2012-11-09,-3.0,included_game_day
+2013,120,Maryland Terrapins,2012-11-12,16.9,included_game_day
+2013,120,Maryland Terrapins,2012-11-16,28.43,included_game_day
+2013,120,Maryland Terrapins,2012-11-20,24.9255,included_game_day
+2013,120,Maryland Terrapins,2012-11-24,34.95233,included_game_day
+2013,120,Maryland Terrapins,2012-11-27,61.940691900000004,included_game_day
+2013,120,Maryland Terrapins,2012-12-02,64.43822744,included_game_day
+2013,120,Maryland Terrapins,2012-12-05,79.14477218900001,included_game_day
+2013,120,Maryland Terrapins,2012-12-08,78.7247158137,included_game_day
+2013,120,Maryland Terrapins,2012-12-12,95.7969313542,included_game_day
+2013,120,Maryland Terrapins,2012-12-21,95.0086358975503,included_game_day
+2013,120,Maryland Terrapins,2012-12-29,105.97808893523552,included_game_day
+2013,120,Maryland Terrapins,2013-01-01,101.82821910636937,included_game_day
+2013,120,Maryland Terrapins,2013-01-05,111.2899647063263,included_game_day
+2013,120,Maryland Terrapins,2013-01-09,99.24992151830956,included_game_day
+2013,120,Maryland Terrapins,2013-01-13,96.48717060362856,included_game_day
+2013,120,Maryland Terrapins,2013-01-16,96.06110184295447,included_game_day
+2013,120,Maryland Terrapins,2013-01-19,86.97453089786103,included_game_day
+2013,120,Maryland Terrapins,2013-01-22,83.22144090830054,included_game_day
+2013,120,Maryland Terrapins,2013-01-26,71.01072560457689,included_game_day
+2013,120,Maryland Terrapins,2013-01-30,68.11631260452661,included_game_day
+2013,120,Maryland Terrapins,2013-02-02,85.64542821109175,included_game_day
+2013,120,Maryland Terrapins,2013-02-07,84.38371312134835,included_game_day
+2013,120,Maryland Terrapins,2013-02-10,74.55500388729683,included_game_day
+2013,120,Maryland Terrapins,2013-02-16,80.29773784259093,included_game_day
+2013,120,Maryland Terrapins,2013-02-19,66.93236498158215,included_game_day
+2013,120,Maryland Terrapins,2013-02-23,74.56336145823924,included_game_day
+2013,120,Maryland Terrapins,2013-02-27,62.185376304372305,included_game_day
+2013,120,Maryland Terrapins,2013-03-02,71.24691669104224,included_game_day
+2013,120,Maryland Terrapins,2013-03-06,63.235116706206966,included_game_day
+2013,120,Maryland Terrapins,2013-03-10,69.23307946577553,included_game_day
+2013,120,Maryland Terrapins,2013-03-14,76.96127494245864,included_game_day
+2013,120,Maryland Terrapins,2013-03-15,96.40652683167674,included_game_day
+2013,120,Maryland Terrapins,2013-03-16,97.20723665092022,included_game_day
+2013,120,Maryland Terrapins,2013-03-19,102.81277889323661,included_game_day
+2013,120,Maryland Terrapins,2013-03-21,110.718672103838,included_game_day
+2013,120,Maryland Terrapins,2013-03-26,112.90775405007717,included_game_day
+2013,120,Maryland Terrapins,2013-04-02,103.96449471718084,included_game_day
+2014,120,Maryland Terrapins,2013-11-08,-1.0,included_game_day
+2014,120,Maryland Terrapins,2013-11-13,15.350000000000001,included_game_day
+2014,120,Maryland Terrapins,2013-11-17,3.391000000000002,included_game_day
+2014,120,Maryland Terrapins,2013-11-22,19.1834,included_game_day
+2014,120,Maryland Terrapins,2013-11-24,31.56416,included_game_day
+2014,120,Maryland Terrapins,2013-11-25,38.0914387,included_game_day
+2014,120,Maryland Terrapins,2013-11-29,51.81190886,included_game_day
+2014,120,Maryland Terrapins,2013-12-04,43.105238099000005,included_game_day
+2014,120,Maryland Terrapins,2013-12-08,43.168278251960004,included_game_day
+2014,120,Maryland Terrapins,2013-12-12,47.401124295125,included_game_day
+2014,120,Maryland Terrapins,2013-12-14,39.2168616611865,included_game_day
+2014,120,Maryland Terrapins,2013-12-21,26.68476403641111,included_game_day
+2014,120,Maryland Terrapins,2013-12-29,30.720511717493643,included_game_day
+2014,120,Maryland Terrapins,2013-12-31,40.80501353825799,included_game_day
+2014,120,Maryland Terrapins,2014-01-04,53.26353540581273,included_game_day
+2014,120,Maryland Terrapins,2014-01-06,43.16224371000465,included_game_day
+2014,120,Maryland Terrapins,2014-01-12,27.744632622192213,included_game_day
+2014,120,Maryland Terrapins,2014-01-15,35.81271673430117,included_game_day
+2014,120,Maryland Terrapins,2014-01-20,26.701646952548195,included_game_day
+2014,120,Maryland Terrapins,2014-01-25,32.69079285910907,included_game_day
+2014,120,Maryland Terrapins,2014-01-29,33.99191975529336,included_game_day
+2014,120,Maryland Terrapins,2014-02-01,49.680094485427475,included_game_day
+2014,120,Maryland Terrapins,2014-02-04,44.63277997798657,included_game_day
+2014,120,Maryland Terrapins,2014-02-08,56.81327860505092,included_game_day
+2014,120,Maryland Terrapins,2014-02-10,61.047171340168006,included_game_day
+2014,120,Maryland Terrapins,2014-02-15,75.3076883662416,included_game_day
+2014,120,Maryland Terrapins,2014-02-18,76.16882826529286,included_game_day
+2014,120,Maryland Terrapins,2014-02-24,74.92763049701978,included_game_day
+2014,120,Maryland Terrapins,2014-03-02,72.45933593390306,included_game_day
+2014,120,Maryland Terrapins,2014-03-04,78.10775595733146,included_game_day
+2014,120,Maryland Terrapins,2014-03-09,90.05619098494371,included_game_day
+2014,120,Maryland Terrapins,2014-03-13,84.34766315748604,included_game_day
+2015,120,Maryland Terrapins,2014-11-14,31.0,included_game_day
+2015,120,Maryland Terrapins,2014-11-17,60.1,included_game_day
+2015,120,Maryland Terrapins,2014-11-20,65.59,included_game_day
+2015,120,Maryland Terrapins,2014-11-24,69.393,included_game_day
+2015,120,Maryland Terrapins,2014-11-25,75.2409,included_game_day
+2015,120,Maryland Terrapins,2014-11-28,70.88911,included_game_day
+2015,120,Maryland Terrapins,2014-11-30,74.366001,included_game_day
+2015,120,Maryland Terrapins,2014-12-03,63.817350899999994,included_game_day
+2015,120,Maryland Terrapins,2014-12-06,74.77423277999999,included_game_day
+2015,120,Maryland Terrapins,2014-12-10,77.48713021793999,included_game_day
+2015,120,Maryland Terrapins,2014-12-13,80.127754523346,included_game_day
+2015,120,Maryland Terrapins,2014-12-21,92.8736520871514,included_game_day
+2015,120,Maryland Terrapins,2014-12-27,91.99876030628684,included_game_day
+2015,120,Maryland Terrapins,2014-12-30,97.6810842081009,included_game_day
+2015,120,Maryland Terrapins,2015-01-03,107.11130023014483,included_game_day
+2015,120,Maryland Terrapins,2015-01-07,101.0197703130312,included_game_day
+2015,120,Maryland Terrapins,2015-01-10,109.92604306435918,included_game_day
+2015,120,Maryland Terrapins,2015-01-14,105.53636749727198,included_game_day
+2015,120,Maryland Terrapins,2015-01-17,119.92235103617175,included_game_day
+2015,120,Maryland Terrapins,2015-01-22,100.70970288773894,included_game_day
+2015,120,Maryland Terrapins,2015-01-25,92.65578394951733,included_game_day
+2015,120,Maryland Terrapins,2015-01-29,77.368791824842,included_game_day
+2015,120,Maryland Terrapins,2015-02-04,78.73095218394215,included_game_day
+2015,120,Maryland Terrapins,2015-02-08,66.41502161951463,included_game_day
+2015,120,Maryland Terrapins,2015-02-11,66.12154895483937,included_game_day
+2015,120,Maryland Terrapins,2015-02-14,71.56969787790521,included_game_day
+2015,120,Maryland Terrapins,2015-02-19,68.76568389533922,included_game_day
+2015,120,Maryland Terrapins,2015-02-24,82.27355256621951,included_game_day
+2015,120,Maryland Terrapins,2015-02-28,85.52185313045513,included_game_day
+2015,120,Maryland Terrapins,2015-03-03,84.94268348276135,included_game_day
+2015,120,Maryland Terrapins,2015-03-08,82.90635433627332,included_game_day
+2015,120,Maryland Terrapins,2015-03-13,89.82235685729044,included_game_day
+2015,120,Maryland Terrapins,2015-03-14,89.98678919572956,included_game_day
+2015,120,Maryland Terrapins,2015-03-20,90.16771072304839,included_game_day
+2015,120,Maryland Terrapins,2015-03-22,81.15297461488726,included_game_day
+2016,120,Maryland Terrapins,2015-11-13,21.0,included_game_day
+2016,120,Maryland Terrapins,2015-11-17,19.4,included_game_day
+2016,120,Maryland Terrapins,2015-11-24,27.0244,included_game_day
+2016,120,Maryland Terrapins,2015-11-25,51.484390000000005,included_game_day
+2016,120,Maryland Terrapins,2015-11-28,57.297630000000005,included_game_day
+2016,120,Maryland Terrapins,2015-12-01,53.20358,included_game_day
+2016,120,Maryland Terrapins,2015-12-04,82.393324,included_game_day
+2016,120,Maryland Terrapins,2015-12-08,93.24214171,included_game_day
+2016,120,Maryland Terrapins,2015-12-12,91.8390117371539,included_game_day
+2016,120,Maryland Terrapins,2015-12-19,107.85789641022261,included_game_day
+2016,120,Maryland Terrapins,2015-12-27,113.0975894379887,included_game_day
+2016,120,Maryland Terrapins,2015-12-30,108.12428570696696,included_game_day
+2016,120,Maryland Terrapins,2016-01-02,123.68704108337634,included_game_day
+2016,120,Maryland Terrapins,2016-01-06,129.6961752363574,included_game_day
+2016,120,Maryland Terrapins,2016-01-09,129.35415964238587,included_game_day
+2016,120,Maryland Terrapins,2016-01-12,129.8350143641651,included_game_day
+2016,120,Maryland Terrapins,2016-01-16,156.2585912097233,included_game_day
+2016,120,Maryland Terrapins,2016-01-19,150.87086180343053,included_game_day
+2016,120,Maryland Terrapins,2016-01-23,142.38140785983222,included_game_day
+2016,120,Maryland Terrapins,2016-01-28,147.48811219312864,included_game_day
+2016,120,Maryland Terrapins,2016-01-31,147.59296536865935,included_game_day
+2016,120,Maryland Terrapins,2016-02-03,148.26978911967555,included_game_day
+2016,120,Maryland Terrapins,2016-02-06,156.23564381570463,included_game_day
+2016,120,Maryland Terrapins,2016-02-13,134.82814754999575,included_game_day
+2016,120,Maryland Terrapins,2016-02-18,119.00465963202822,included_game_day
+2016,120,Maryland Terrapins,2016-02-21,116.4463174930529,included_game_day
+2016,120,Maryland Terrapins,2016-02-27,117.0118331085896,included_game_day
+2016,120,Maryland Terrapins,2016-03-03,129.7124256083563,included_game_day
+2016,120,Maryland Terrapins,2016-03-06,117.92407869544927,included_game_day
+2016,120,Maryland Terrapins,2016-03-11,123.85733515975146,included_game_day
+2016,120,Maryland Terrapins,2016-03-12,130.98444716454415,included_game_day
+2016,120,Maryland Terrapins,2016-03-18,128.3855613388114,included_game_day
+2016,120,Maryland Terrapins,2016-03-20,138.7510219536422,included_game_day
+2016,120,Maryland Terrapins,2016-03-24,130.02624629171345,included_game_day
+2017,120,Maryland Terrapins,2016-11-11,3.0,included_game_day
+2017,120,Maryland Terrapins,2016-11-15,10.9,included_game_day
+2017,120,Maryland Terrapins,2016-11-20,13.14,included_game_day
+2017,120,Maryland Terrapins,2016-11-22,21.5671,included_game_day
+2017,120,Maryland Terrapins,2016-11-25,26.216839999999998,included_game_day
+2017,120,Maryland Terrapins,2016-11-26,31.628391999999998,included_game_day
+2017,120,Maryland Terrapins,2016-11-29,13.6174508,included_game_day
+2017,120,Maryland Terrapins,2016-12-03,16.96911372,included_game_day
+2017,120,Maryland Terrapins,2016-12-07,29.503172628,included_game_day
+2017,120,Maryland Terrapins,2016-12-10,32.59100769816,included_game_day
+2017,120,Maryland Terrapins,2016-12-12,52.231284583374,included_game_day
+2017,120,Maryland Terrapins,2016-12-20,58.12578549771582,included_game_day
+2017,120,Maryland Terrapins,2016-12-27,79.99680605395794,included_game_day
+2017,120,Maryland Terrapins,2017-01-01,68.63847898863261,included_game_day
+2017,120,Maryland Terrapins,2017-01-07,81.58069875100583,included_game_day
+2017,120,Maryland Terrapins,2017-01-10,84.71671817674473,included_game_day
+2017,120,Maryland Terrapins,2017-01-14,90.50634819182676,included_game_day
+2017,120,Maryland Terrapins,2017-01-19,96.61516422054936,included_game_day
+2017,120,Maryland Terrapins,2017-01-24,95.90075607494983,included_game_day
+2017,120,Maryland Terrapins,2017-01-28,104.52795497868466,included_game_day
+2017,120,Maryland Terrapins,2017-01-31,108.52289827394164,included_game_day
+2017,120,Maryland Terrapins,2017-02-04,111.07415875560346,included_game_day
+2017,120,Maryland Terrapins,2017-02-07,100.05757939174558,included_game_day
+2017,120,Maryland Terrapins,2017-02-11,101.96959311714826,included_game_day
+2017,120,Maryland Terrapins,2017-02-15,115.45345461440618,included_game_day
+2017,120,Maryland Terrapins,2017-02-19,108.86232306161588,included_game_day
+2017,120,Maryland Terrapins,2017-02-22,90.47805780049977,included_game_day
+2017,120,Maryland Terrapins,2017-02-25,69.27975876309867,included_game_day
+2017,120,Maryland Terrapins,2017-02-28,86.73298704595784,included_game_day
+2017,120,Maryland Terrapins,2017-03-04,87.20313746192444,included_game_day
+2017,120,Maryland Terrapins,2017-03-10,79.7289061790908,included_game_day
+2017,120,Maryland Terrapins,2017-03-16,67.7802544194753,included_game_day
+2018,120,Maryland Terrapins,2017-11-10,15.0,included_game_day
+2018,120,Maryland Terrapins,2017-11-12,63.5,included_game_day
+2018,120,Maryland Terrapins,2017-11-15,70.2,included_game_day
+2018,120,Maryland Terrapins,2017-11-18,59.656000000000006,included_game_day
+2018,120,Maryland Terrapins,2017-11-20,78.2364,included_game_day
+2018,120,Maryland Terrapins,2017-11-24,72.63747000000001,included_game_day
+2018,120,Maryland Terrapins,2017-11-25,80.14694300000001,included_game_day
+2018,120,Maryland Terrapins,2017-11-27,78.74053570000001,included_game_day
+2018,120,Maryland Terrapins,2017-12-01,75.19077786000001,included_game_day
+2018,120,Maryland Terrapins,2017-12-03,75.68858055700001,included_game_day
+2018,120,Maryland Terrapins,2017-12-07,92.60523569130001,included_game_day
+2018,120,Maryland Terrapins,2017-12-09,95.42411860888001,included_game_day
+2018,120,Maryland Terrapins,2017-12-21,100.47027911332711,included_game_day
+2018,120,Maryland Terrapins,2017-12-29,107.76542825550993,included_game_day
+2018,120,Maryland Terrapins,2018-01-02,109.99398468831687,included_game_day
+2018,120,Maryland Terrapins,2018-01-04,94.04195891331983,included_game_day
+2018,120,Maryland Terrapins,2018-01-07,105.87938739232106,included_game_day
+2018,120,Maryland Terrapins,2018-01-11,88.23773522469173,included_game_day
+2018,120,Maryland Terrapins,2018-01-15,95.92509239202478,included_game_day
+2018,120,Maryland Terrapins,2018-01-18,99.55249829663597,included_game_day
+2018,120,Maryland Terrapins,2018-01-22,95.05994750452045,included_game_day
+2018,120,Maryland Terrapins,2018-01-28,94.98705217549076,included_game_day
+2018,120,Maryland Terrapins,2018-01-31,102.12600876369739,included_game_day
+2018,120,Maryland Terrapins,2018-02-04,96.36163580855458,included_game_day
+2018,120,Maryland Terrapins,2018-02-07,96.94711537001633,included_game_day
+2018,120,Maryland Terrapins,2018-02-10,109.07174852089123,included_game_day
+2018,120,Maryland Terrapins,2018-02-13,108.07771848833572,included_game_day
+2018,120,Maryland Terrapins,2018-02-17,105.52082096716094,included_game_day
+2018,120,Maryland Terrapins,2018-02-19,111.64065921887317,included_game_day
+2018,120,Maryland Terrapins,2018-02-24,88.11541481295421,included_game_day
+2018,120,Maryland Terrapins,2018-03-01,81.15880336697582,included_game_day
+2019,120,Maryland Terrapins,2018-11-06,3.0,included_game_day
+2019,120,Maryland Terrapins,2018-11-09,24.7,included_game_day
+2019,120,Maryland Terrapins,2018-11-12,40.34,included_game_day
+2019,120,Maryland Terrapins,2018-11-16,46.6839,included_game_day
+2019,120,Maryland Terrapins,2018-11-18,47.15781,included_game_day
+2019,120,Maryland Terrapins,2018-11-23,81.781169,included_game_day
+2019,120,Maryland Terrapins,2018-11-28,75.8787569,included_game_day
+2019,120,Maryland Terrapins,2018-12-01,76.28006792,included_game_day
+2019,120,Maryland Terrapins,2018-12-06,77.233393204,included_game_day
+2019,120,Maryland Terrapins,2018-12-08,85.77589477929,included_game_day
+2019,120,Maryland Terrapins,2018-12-11,94.953160462705,included_game_day
+2019,120,Maryland Terrapins,2018-12-22,83.55266322370248,included_game_day
+2019,120,Maryland Terrapins,2018-12-29,87.65908438827806,included_game_day
+2019,120,Maryland Terrapins,2019-01-02,91.50776874258868,included_game_day
+2019,120,Maryland Terrapins,2019-01-05,102.50197777556531,included_game_day
+2019,120,Maryland Terrapins,2019-01-08,117.20030948081673,included_game_day
+2019,120,Maryland Terrapins,2019-01-11,115.04262356836425,included_game_day
+2019,120,Maryland Terrapins,2019-01-14,114.01231743358186,included_game_day
+2019,120,Maryland Terrapins,2019-01-18,127.41147676821339,included_game_day
+2019,120,Maryland Terrapins,2019-01-21,122.47690088924496,included_game_day
+2019,120,Maryland Terrapins,2019-01-26,101.26395941864645,included_game_day
+2019,120,Maryland Terrapins,2019-01-29,110.71478507614191,included_game_day
+2019,120,Maryland Terrapins,2019-02-01,107.81984891312271,included_game_day
+2019,120,Maryland Terrapins,2019-02-06,122.09612934757752,included_game_day
+2019,120,Maryland Terrapins,2019-02-12,136.4040272881992,included_game_day
+2019,120,Maryland Terrapins,2019-02-16,125.19244311473567,included_game_day
+2019,120,Maryland Terrapins,2019-02-19,126.67699867268452,included_game_day
+2019,120,Maryland Terrapins,2019-02-23,127.68998921787613,included_game_day
+2019,120,Maryland Terrapins,2019-02-27,109.05401354191018,included_game_day
+2019,120,Maryland Terrapins,2019-03-03,103.13029786427667,included_game_day
+2019,120,Maryland Terrapins,2019-03-08,106.91852093453923,included_game_day
+2019,120,Maryland Terrapins,2019-03-14,91.43139025254551,included_game_day
+2019,120,Maryland Terrapins,2019-03-21,97.70085399965647,included_game_day
+2019,120,Maryland Terrapins,2019-03-23,97.9057196139986,included_game_day
+2020,120,Maryland Terrapins,2019-11-05,21.0,included_game_day
+2020,120,Maryland Terrapins,2019-11-09,34.7,included_game_day
+2020,120,Maryland Terrapins,2019-11-16,59.905,included_game_day
+2020,120,Maryland Terrapins,2019-11-19,68.8705,included_game_day
+2020,120,Maryland Terrapins,2019-11-22,83.95441000000001,included_game_day
+2020,120,Maryland Terrapins,2019-11-28,86.47851500000002,included_game_day
+2020,120,Maryland Terrapins,2019-11-29,86.24565060000002,included_game_day
+2020,120,Maryland Terrapins,2019-12-01,103.63948923500001,included_game_day
+2020,120,Maryland Terrapins,2019-12-04,117.3520139615,included_game_day
+2020,120,Maryland Terrapins,2019-12-07,109.86235537535,included_game_day
+2020,120,Maryland Terrapins,2019-12-10,102.983671081487,included_game_day
+2020,120,Maryland Terrapins,2019-12-19,98.16472717777741,included_game_day
+2020,120,Maryland Terrapins,2019-12-29,102.42551469551044,included_game_day
+2020,120,Maryland Terrapins,2020-01-04,112.08611369302477,included_game_day
+2020,120,Maryland Terrapins,2020-01-07,122.88781112702497,included_game_day
+2020,120,Maryland Terrapins,2020-01-10,105.16591715612111,included_game_day
+2020,120,Maryland Terrapins,2020-01-14,106.91703722492409,included_game_day
+2020,120,Maryland Terrapins,2020-01-18,111.64781850692202,included_game_day
+2020,120,Maryland Terrapins,2020-01-21,116.86111543905027,included_game_day
+2020,120,Maryland Terrapins,2020-01-26,117.41916995514421,included_game_day
+2020,120,Maryland Terrapins,2020-01-30,124.94640993062332,included_game_day
+2020,120,Maryland Terrapins,2020-02-04,124.3090085011537,included_game_day
+2020,120,Maryland Terrapins,2020-02-07,135.44472782128605,included_game_day
+2020,120,Maryland Terrapins,2020-02-11,119.9666249765732,included_game_day
+2020,120,Maryland Terrapins,2020-02-15,131.77234692662014,included_game_day
+2020,120,Maryland Terrapins,2020-02-18,124.13498056511816,included_game_day
+2020,120,Maryland Terrapins,2020-02-23,117.9576630699153,included_game_day
+2020,120,Maryland Terrapins,2020-02-26,119.84655122723947,included_game_day
+2020,120,Maryland Terrapins,2020-02-29,106.69794070084549,included_game_day
+2020,120,Maryland Terrapins,2020-03-03,97.53389128558133,included_game_day
+2020,120,Maryland Terrapins,2020-03-08,110.81847328171055,included_game_day
+2021,120,Maryland Terrapins,2020-11-25,15.0,included_game_day
+2021,120,Maryland Terrapins,2020-11-27,40.9,included_game_day
+2021,120,Maryland Terrapins,2020-11-29,51.891,included_game_day
+2021,120,Maryland Terrapins,2020-12-04,78.8261,included_game_day
+2021,120,Maryland Terrapins,2020-12-09,62.92349,included_game_day
+2021,120,Maryland Terrapins,2020-12-14,44.662441,included_game_day
+2021,120,Maryland Terrapins,2020-12-22,48.686236987,included_game_day
+2021,120,Maryland Terrapins,2020-12-25,48.0061361936,included_game_day
+2021,120,Maryland Terrapins,2020-12-28,63.48345488124,included_game_day
+2021,120,Maryland Terrapins,2020-12-31,49.718042419716,included_game_day
+2021,120,Maryland Terrapins,2021-01-04,44.937902771323095,included_game_day
+2021,120,Maryland Terrapins,2021-01-07,27.081134685762155,included_game_day
+2021,120,Maryland Terrapins,2021-01-10,43.98397844467051,included_game_day
+2021,120,Maryland Terrapins,2021-01-19,29.688852770769692,included_game_day
+2021,120,Maryland Terrapins,2021-01-23,51.76177470052175,included_game_day
+2021,120,Maryland Terrapins,2021-01-27,45.35041992642999,included_game_day
+2021,120,Maryland Terrapins,2021-02-02,46.306995085584056,included_game_day
+2021,120,Maryland Terrapins,2021-02-05,43.062711725891035,included_game_day
+2021,120,Maryland Terrapins,2021-02-08,38.90709387353604,included_game_day
+2021,120,Maryland Terrapins,2021-02-14,50.23257467176641,included_game_day
+2021,120,Maryland Terrapins,2021-02-16,53.332533928526885,included_game_day
+2021,120,Maryland Terrapins,2021-02-17,49.812501333935266,included_game_day
+2021,120,Maryland Terrapins,2021-02-21,63.52400664743364,included_game_day
+2021,120,Maryland Terrapins,2021-02-28,75.93279773340518,included_game_day
+2021,120,Maryland Terrapins,2021-03-03,66.86561320762874,included_game_day
+2021,120,Maryland Terrapins,2021-03-07,54.63127325891888,included_game_day
+2021,120,Maryland Terrapins,2021-03-11,64.03130769477153,included_game_day
+2021,120,Maryland Terrapins,2021-03-12,57.56998920617751,included_game_day
+2021,120,Maryland Terrapins,2021-03-20,72.4365958033886,included_game_day
+2021,120,Maryland Terrapins,2021-03-22,61.416369951740776,included_game_day
+2022,120,Maryland Terrapins,2021-11-09,11.0,included_game_day
+2022,120,Maryland Terrapins,2021-11-11,13.9,included_game_day
+2022,120,Maryland Terrapins,2021-11-13,22.14,included_game_day
+2022,120,Maryland Terrapins,2021-11-17,18.197000000000003,included_game_day
+2022,120,Maryland Terrapins,2021-11-19,15.804300000000001,included_game_day
+2022,120,Maryland Terrapins,2021-11-25,22.500187,included_game_day
+2022,120,Maryland Terrapins,2021-11-27,15.0794683,included_game_day
+2022,120,Maryland Terrapins,2021-12-01,15.234232600000002,included_game_day
+2022,120,Maryland Terrapins,2021-12-05,12.439639743500003,included_game_day
+2022,120,Maryland Terrapins,2021-12-12,20.402632798091172,included_game_day
+2022,120,Maryland Terrapins,2021-12-28,28.753367096691996,included_game_day
+2022,120,Maryland Terrapins,2021-12-30,36.52548122509357,included_game_day
+2022,120,Maryland Terrapins,2022-01-03,43.477374864847334,included_game_day
+2022,120,Maryland Terrapins,2022-01-06,46.14862508530824,included_game_day
+2022,120,Maryland Terrapins,2022-01-09,45.169040694535575,included_game_day
+2022,120,Maryland Terrapins,2022-01-12,56.65159628614862,included_game_day
+2022,120,Maryland Terrapins,2022-01-15,40.694108774964675,included_game_day
+2022,120,Maryland Terrapins,2022-01-18,26.08962116750549,included_game_day
+2022,120,Maryland Terrapins,2022-01-21,50.44092777045417,included_game_day
+2022,120,Maryland Terrapins,2022-01-25,62.07425219912743,included_game_day
+2022,120,Maryland Terrapins,2022-01-29,48.58971894159738,included_game_day
+2022,120,Maryland Terrapins,2022-02-01,50.071742648873105,included_game_day
+2022,120,Maryland Terrapins,2022-02-06,43.26963347891991,included_game_day
+2022,120,Maryland Terrapins,2022-02-10,23.318144527325522,included_game_day
+2022,120,Maryland Terrapins,2022-02-13,36.21379723277028,included_game_day
+2022,120,Maryland Terrapins,2022-02-18,48.10233214670846,included_game_day
+2022,120,Maryland Terrapins,2022-02-21,52.008919665429204,included_game_day
+2022,120,Maryland Terrapins,2022-02-24,45.15949150764375,included_game_day
+2022,120,Maryland Terrapins,2022-02-27,64.83908426469985,included_game_day
+2022,120,Maryland Terrapins,2022-03-02,67.48411017418572,included_game_day
+2022,120,Maryland Terrapins,2022-03-06,58.53486320076948,included_game_day
+2022,120,Maryland Terrapins,2022-03-10,54.37546562203649,included_game_day
+2023,120,Maryland Terrapins,2022-11-07,19.0,included_game_day
+2023,120,Maryland Terrapins,2022-11-10,33.1,included_game_day
+2023,120,Maryland Terrapins,2022-11-15,51.400000000000006,included_game_day
+2023,120,Maryland Terrapins,2022-11-19,77.71300000000001,included_game_day
+2023,120,Maryland Terrapins,2022-11-20,92.35146,included_game_day
+2023,120,Maryland Terrapins,2022-11-25,93.265682,included_game_day
+2023,120,Maryland Terrapins,2022-11-29,104.716159,included_game_day
+2023,120,Maryland Terrapins,2022-12-02,107.726087186,included_game_day
+2023,120,Maryland Terrapins,2022-12-06,99.42687121615,included_game_day
+2023,120,Maryland Terrapins,2022-12-11,102.2501283325758,included_game_day
+2023,120,Maryland Terrapins,2022-12-14,74.06315001373741,included_game_day
+2023,120,Maryland Terrapins,2022-12-22,89.81809358311068,included_game_day
+2023,120,Maryland Terrapins,2022-12-29,95.97733699836013,included_game_day
+2023,120,Maryland Terrapins,2023-01-01,57.007142515360776,included_game_day
+2023,120,Maryland Terrapins,2023-01-05,54.048659233399476,included_game_day
+2023,120,Maryland Terrapins,2023-01-08,65.1793418565735,included_game_day
+2023,120,Maryland Terrapins,2023-01-15,55.829964358793134,included_game_day
+2023,120,Maryland Terrapins,2023-01-19,60.14503032602489,included_game_day
+2023,120,Maryland Terrapins,2023-01-22,67.64387036114199,included_game_day
+2023,120,Maryland Terrapins,2023-01-25,79.74436428132685,included_game_day
+2023,120,Maryland Terrapins,2023-01-28,87.94838056967585,included_game_day
+2023,120,Maryland Terrapins,2023-01-31,98.31688779816271,included_game_day
+2023,120,Maryland Terrapins,2023-02-04,122.76229679236042,included_game_day
+2023,120,Maryland Terrapins,2023-02-07,115.39045445040914,included_game_day
+2023,120,Maryland Terrapins,2023-02-11,110.98763850644663,included_game_day
+2023,120,Maryland Terrapins,2023-02-16,124.5546437126257,included_game_day
+2023,120,Maryland Terrapins,2023-02-19,113.9672979109749,included_game_day
+2023,120,Maryland Terrapins,2023-02-22,112.69043252061522,included_game_day
+2023,120,Maryland Terrapins,2023-02-26,124.22914491282948,included_game_day
+2023,120,Maryland Terrapins,2023-03-01,106.28501874172314,included_game_day
+2023,120,Maryland Terrapins,2023-03-05,104.18500394758307,included_game_day
+2023,120,Maryland Terrapins,2023-03-09,107.37525207889206,included_game_day
+2023,120,Maryland Terrapins,2023-03-10,94.86063267513767,included_game_day
+2023,120,Maryland Terrapins,2023-03-16,98.49534597536523,included_game_day
+2023,120,Maryland Terrapins,2023-03-18,86.59821417088179,included_game_day
+2024,120,Maryland Terrapins,2023-11-07,12.0,included_game_day
+2024,120,Maryland Terrapins,2023-11-10,7.8,included_game_day
+2024,120,Maryland Terrapins,2023-11-12,3.6599999999999993,included_game_day
+2024,120,Maryland Terrapins,2023-11-17,-7.007600000000001,included_game_day
+2024,120,Maryland Terrapins,2023-11-21,15.374348000000001,included_game_day
+2024,120,Maryland Terrapins,2023-11-25,21.9735632,included_game_day
+2024,120,Maryland Terrapins,2023-11-28,39.41857688,included_game_day
+2024,120,Maryland Terrapins,2023-12-01,28.556639592000003,included_game_day
+2024,120,Maryland Terrapins,2023-12-06,29.047961059200002,included_game_day
+2024,120,Maryland Terrapins,2023-12-12,53.952419538702,included_game_day
+2024,120,Maryland Terrapins,2023-12-19,47.3425448714318,included_game_day
+2024,120,Maryland Terrapins,2023-12-22,56.3756112722113,included_game_day
+2024,120,Maryland Terrapins,2023-12-28,56.74947658402094,included_game_day
+2024,120,Maryland Terrapins,2024-01-02,48.97036612017112,included_game_day
+2024,120,Maryland Terrapins,2024-01-07,53.02877167889765,included_game_day
+2024,120,Maryland Terrapins,2024-01-11,53.72701186974868,included_game_day
+2024,120,Maryland Terrapins,2024-01-14,75.1517058047738,included_game_day
+2024,120,Maryland Terrapins,2024-01-17,74.1266324945035,included_game_day
+2024,120,Maryland Terrapins,2024-01-21,75.05753349530033,included_game_day
+2024,120,Maryland Terrapins,2024-01-24,81.35675721553952,included_game_day
+2024,120,Maryland Terrapins,2024-01-27,100.29208019340255,included_game_day
+2024,120,Maryland Terrapins,2024-02-03,96.49690126206849,included_game_day
+2024,120,Maryland Terrapins,2024-02-06,82.92378012950616,included_game_day
+2024,120,Maryland Terrapins,2024-02-10,76.69495700575091,included_game_day
+2024,120,Maryland Terrapins,2024-02-14,84.80332767849549,included_game_day
+2024,120,Maryland Terrapins,2024-02-17,81.85116277962744,included_game_day
+2024,120,Maryland Terrapins,2024-02-20,79.79736759279514,included_game_day
+2024,120,Maryland Terrapins,2024-02-25,96.01970992792786,included_game_day
+2024,120,Maryland Terrapins,2024-02-28,85.5084244154153,included_game_day
+2024,120,Maryland Terrapins,2024-03-03,70.9402700424867,included_game_day
+2024,120,Maryland Terrapins,2024-03-10,55.96253710790566,included_game_day
+2024,120,Maryland Terrapins,2024-03-13,66.21621078527409,included_game_day
+2024,120,Maryland Terrapins,2024-03-14,36.013754700402146,included_game_day
+2025,120,Maryland Terrapins,2024-11-04,27.0,included_game_day
+2025,120,Maryland Terrapins,2024-11-08,55.3,included_game_day
+2025,120,Maryland Terrapins,2024-11-11,71.61,included_game_day
+2025,120,Maryland Terrapins,2024-11-15,62.498,included_game_day
+2025,120,Maryland Terrapins,2024-11-19,117.044596,included_game_day
+2025,120,Maryland Terrapins,2024-11-24,111.2305664,included_game_day
+2025,120,Maryland Terrapins,2024-11-27,119.99821593,included_game_day
+2025,120,Maryland Terrapins,2024-12-01,131.570968285,included_game_day
+2025,120,Maryland Terrapins,2024-12-04,151.16189434249998,included_game_day
+2025,120,Maryland Terrapins,2024-12-08,140.93683734815,included_game_day
+2025,120,Maryland Terrapins,2024-12-17,171.7476707550986,included_game_day
+2025,120,Maryland Terrapins,2024-12-21,183.18112633903087,included_game_day
+2025,120,Maryland Terrapins,2024-12-28,161.1779767645528,included_game_day
+2025,120,Maryland Terrapins,2025-01-02,144.82083965872883,included_game_day
+2025,120,Maryland Terrapins,2025-01-05,137.97217425087612,included_game_day
+2025,120,Maryland Terrapins,2025-01-10,149.83336008111212,included_game_day
+2025,120,Maryland Terrapins,2025-01-13,137.35837325745848,included_game_day
+2025,120,Maryland Terrapins,2025-01-16,132.23097182344162,included_game_day
+2025,120,Maryland Terrapins,2025-01-19,125.81057524183664,included_game_day
+2025,120,Maryland Terrapins,2025-01-23,156.26786616321994,included_game_day
+2025,120,Maryland Terrapins,2025-01-26,150.1948081147521,included_game_day
+2025,120,Maryland Terrapins,2025-01-29,155.6869876663455,included_game_day
+2025,120,Maryland Terrapins,2025-02-06,152.857430265866,included_game_day
+2025,120,Maryland Terrapins,2025-02-09,151.13522768044214,included_game_day
+2025,120,Maryland Terrapins,2025-02-13,156.5392714490809,included_game_day
+2025,120,Maryland Terrapins,2025-02-16,171.04622325669922,included_game_day
+2025,120,Maryland Terrapins,2025-02-20,176.9184747640305,included_game_day
+2025,120,Maryland Terrapins,2025-02-26,170.60066856617408,included_game_day
+2025,120,Maryland Terrapins,2025-03-01,166.268421004402,included_game_day
+2025,120,Maryland Terrapins,2025-03-05,167.46135128072228,included_game_day
+2025,120,Maryland Terrapins,2025-03-08,170.60951153107396,included_game_day
+2025,120,Maryland Terrapins,2025-03-14,190.34155194271136,included_game_day
+2025,120,Maryland Terrapins,2025-03-15,180.9635257982967,included_game_day
+2025,120,Maryland Terrapins,2025-03-21,202.53725272398256,included_game_day
+2025,120,Maryland Terrapins,2025-03-23,198.8100587075386,included_game_day
+2025,120,Maryland Terrapins,2025-03-27,187.3555065619763,included_game_day
+2026,120,Maryland Terrapins,2025-11-03,22.0,included_game_day
+2026,120,Maryland Terrapins,2025-11-07,8.2,included_game_day
+2026,120,Maryland Terrapins,2025-11-11,17.845999999999997,included_game_day
+2026,120,Maryland Terrapins,2025-11-15,30.6389,included_game_day
+2026,120,Maryland Terrapins,2025-11-19,26.90721,included_game_day
+2026,120,Maryland Terrapins,2025-11-24,33.990636,included_game_day
+2026,120,Maryland Terrapins,2025-11-25,6.119809400000001,included_game_day
+2026,120,Maryland Terrapins,2025-11-26,-20.0209114,included_game_day
+2026,120,Maryland Terrapins,2025-12-02,2.35192129,included_game_day
+2026,120,Maryland Terrapins,2025-12-06,-5.446955233499999,included_game_day
+2026,120,Maryland Terrapins,2025-12-13,-5.049649125269099,included_game_day
+2026,120,Maryland Terrapins,2025-12-20,2.7098125289007733,included_game_day
+2026,120,Maryland Terrapins,2025-12-28,11.893407930929733,included_game_day
+2026,120,Maryland Terrapins,2026-01-02,4.086599388888305,included_game_day
+2026,120,Maryland Terrapins,2026-01-07,-4.534856251162393,included_game_day
+2026,120,Maryland Terrapins,2026-01-10,-4.042285436417363,included_game_day
+2026,120,Maryland Terrapins,2026-01-13,-12.758764750592196,included_game_day
+2026,120,Maryland Terrapins,2026-01-18,11.364929934279395,included_game_day
+2026,120,Maryland Terrapins,2026-01-21,11.152108239363322,included_game_day
+2026,120,Maryland Terrapins,2026-01-24,-12.25212796410144,included_game_day
+2026,120,Maryland Terrapins,2026-02-01,-29.380083314811912,included_game_day
+2026,120,Maryland Terrapins,2026-02-05,-39.82761607208997,included_game_day
+2026,120,Maryland Terrapins,2026-02-08,-21.437857270158734,included_game_day
+2026,120,Maryland Terrapins,2026-02-11,-0.7747021441543467,included_game_day
+2026,120,Maryland Terrapins,2026-02-15,-9.61958345578461,included_game_day
+2026,120,Maryland Terrapins,2026-02-18,-5.521433075052585,included_game_day
+2026,120,Maryland Terrapins,2026-02-21,4.671501578497928,included_game_day
+2026,120,Maryland Terrapins,2026-02-25,10.140262790067926,included_game_day
+2026,120,Maryland Terrapins,2026-03-01,2.1618609852665776,included_game_day
+2026,120,Maryland Terrapins,2026-03-04,-15.125129678195357,included_game_day
+2026,120,Maryland Terrapins,2026-03-08,-1.8182340876471166,included_game_day
+2026,120,Maryland Terrapins,2026-03-10,12.106749599465674,included_game_day
+2026,120,Maryland Terrapins,2026-03-11,10.996476555167403,included_game_day
+2027,120,Maryland Terrapins,2026-11-02,26.0,included_game_day
+2027,120,Maryland Terrapins,2026-11-07,16.3,included_game_day
+2027,120,Maryland Terrapins,2026-11-13,16.039900000000003,included_game_day
+2027,120,Maryland Terrapins,2026-11-16,64.65347,included_game_day
+2027,120,Maryland Terrapins,2026-11-20,63.970616,included_game_day

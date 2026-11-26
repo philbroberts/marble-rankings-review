@@ -1,0 +1,1224 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,202,Tulsa,1987-11-29,19.0,included_game_day
+1988,202,Tulsa,1987-12-04,11.957,included_game_day
+1988,202,Tulsa,1987-12-05,16.3536,included_game_day
+1988,202,Tulsa,1987-12-08,9.859966,included_game_day
+1988,202,Tulsa,1987-12-10,9.1163834,included_game_day
+1988,202,Tulsa,1987-12-12,-2.4807795400000003,included_game_day
+1988,202,Tulsa,1987-12-20,-10.802434422000001,included_game_day
+1988,202,Tulsa,1987-12-27,-14.910927850289001,included_game_day
+1988,202,Tulsa,1987-12-28,-9.608264683360499,included_game_day
+1988,202,Tulsa,1988-01-02,-40.27506886014838,included_game_day
+1988,202,Tulsa,1988-01-05,-56.11710535888936,included_game_day
+1988,202,Tulsa,1988-01-08,-54.078912385662235,included_game_day
+1988,202,Tulsa,1988-01-16,-66.58751769647623,included_game_day
+1988,202,Tulsa,1988-01-17,-64.10037631889873,included_game_day
+1988,202,Tulsa,1988-01-21,-59.24559658876897,included_game_day
+1988,202,Tulsa,1988-01-28,-37.17715006345425,included_game_day
+1988,202,Tulsa,1988-01-30,-28.83123710598102,included_game_day
+1988,202,Tulsa,1988-02-01,-23.406101118549152,included_game_day
+1988,202,Tulsa,1988-02-04,-23.025626190079834,included_game_day
+1988,202,Tulsa,1988-02-06,-6.281924422233573,included_game_day
+1988,202,Tulsa,1988-02-08,-14.094446886031836,included_game_day
+1988,202,Tulsa,1988-02-13,-21.09062063243887,included_game_day
+1988,202,Tulsa,1988-02-15,-38.71773189668042,included_game_day
+1988,202,Tulsa,1988-02-18,-32.48319097713973,included_game_day
+1988,202,Tulsa,1988-02-20,-12.438589724597502,included_game_day
+1988,202,Tulsa,1988-02-25,-3.4104394579975867,included_game_day
+1988,202,Tulsa,1988-02-27,-2.811649772633178,included_game_day
+1988,202,Tulsa,1988-03-05,-4.202182959129015,included_game_day
+1989,202,Tulsa,1988-12-02,-21.4,included_game_day
+1989,202,Tulsa,1988-12-03,-6.660999999999998,included_game_day
+1989,202,Tulsa,1988-12-05,-21.167199999999998,included_game_day
+1989,202,Tulsa,1988-12-07,-31.124031615,included_game_day
+1989,202,Tulsa,1988-12-15,-19.1011778035,included_game_day
+1989,202,Tulsa,1988-12-22,0.8665276068499992,included_game_day
+1989,202,Tulsa,1988-12-27,-14.009929139638125,included_game_day
+1989,202,Tulsa,1988-12-28,-2.8897920041659617,included_game_day
+1989,202,Tulsa,1988-12-29,6.727467841058035,included_game_day
+1989,202,Tulsa,1989-01-05,8.496527216184516,included_game_day
+1989,202,Tulsa,1989-01-07,2.935774387049233,included_game_day
+1989,202,Tulsa,1989-01-09,6.737009413032431,included_game_day
+1989,202,Tulsa,1989-01-14,6.588667529796301,included_game_day
+1989,202,Tulsa,1989-01-16,16.306753775054265,included_game_day
+1989,202,Tulsa,1989-01-19,20.289529816897197,included_game_day
+1989,202,Tulsa,1989-01-21,15.224649585857327,included_game_day
+1989,202,Tulsa,1989-01-23,9.758405868660743,included_game_day
+1989,202,Tulsa,1989-01-26,-2.558889530341313,included_game_day
+1989,202,Tulsa,1989-01-28,-1.8438623445159372,included_game_day
+1989,202,Tulsa,1989-01-30,-37.10845677423727,included_game_day
+1989,202,Tulsa,1989-02-02,-40.962458700839264,included_game_day
+1989,202,Tulsa,1989-02-04,-32.0338372431881,included_game_day
+1989,202,Tulsa,1989-02-06,-39.43437223630602,included_game_day
+1989,202,Tulsa,1989-02-11,-26.90251159113664,included_game_day
+1989,202,Tulsa,1989-02-16,-17.515189147768375,included_game_day
+1989,202,Tulsa,1989-02-18,-11.215654399256255,included_game_day
+1989,202,Tulsa,1989-02-20,-9.246997828210473,included_game_day
+1989,202,Tulsa,1989-02-23,-5.459978220882141,included_game_day
+1989,202,Tulsa,1989-02-27,0.3859235118158235,included_game_day
+1989,202,Tulsa,1989-03-05,-8.416189830783177,included_game_day
+1990,202,Tulsa,1989-11-30,11.905999999999999,included_game_day
+1990,202,Tulsa,1989-12-02,1.845399999999998,included_game_day
+1990,202,Tulsa,1989-12-04,23.977929999999997,included_game_day
+1990,202,Tulsa,1989-12-09,3.6077369999999966,included_game_day
+1990,202,Tulsa,1989-12-11,13.206313779999997,included_game_day
+1990,202,Tulsa,1989-12-14,10.239908489999998,included_game_day
+1990,202,Tulsa,1989-12-16,27.394304640999998,included_game_day
+1990,202,Tulsa,1989-12-22,25.701646344187996,included_game_day
+1990,202,Tulsa,1989-12-29,40.1157043145589,included_game_day
+1990,202,Tulsa,1989-12-30,29.36273598925824,included_game_day
+1990,202,Tulsa,1990-01-04,22.575251029199215,included_game_day
+1990,202,Tulsa,1990-01-06,25.575628934600704,included_game_day
+1990,202,Tulsa,1990-01-11,36.13511950120591,included_game_day
+1990,202,Tulsa,1990-01-13,51.6103389647513,included_game_day
+1990,202,Tulsa,1990-01-18,45.7844829674767,included_game_day
+1990,202,Tulsa,1990-01-20,31.495503058188504,included_game_day
+1990,202,Tulsa,1990-01-27,19.029812679081562,included_game_day
+1990,202,Tulsa,1990-01-29,22.379329552350953,included_game_day
+1990,202,Tulsa,1990-02-01,36.72804922560759,included_game_day
+1990,202,Tulsa,1990-02-03,55.4387215657181,included_game_day
+1990,202,Tulsa,1990-02-07,52.5651681837046,included_game_day
+1990,202,Tulsa,1990-02-10,51.60418518902653,included_game_day
+1990,202,Tulsa,1990-02-12,46.94453275075767,included_game_day
+1990,202,Tulsa,1990-02-15,41.90004189033954,included_game_day
+1990,202,Tulsa,1990-02-17,34.28183298000234,included_game_day
+1990,202,Tulsa,1990-02-22,37.555368593894194,included_game_day
+1990,202,Tulsa,1990-02-24,40.341844158741694,included_game_day
+1990,202,Tulsa,1990-03-03,36.44455191600095,included_game_day
+1990,202,Tulsa,1990-03-04,30.854804407267885,included_game_day
+1990,202,Tulsa,1990-03-15,27.101326008387638,included_game_day
+1991,202,Tulsa,1990-11-24,2.0,included_game_day
+1991,202,Tulsa,1990-11-28,24.618,included_game_day
+1991,202,Tulsa,1990-12-01,29.6762,included_game_day
+1991,202,Tulsa,1990-12-03,21.07496,included_game_day
+1991,202,Tulsa,1990-12-12,30.336887,included_game_day
+1991,202,Tulsa,1990-12-20,42.643040902894796,included_game_day
+1991,202,Tulsa,1990-12-22,40.47989548072532,included_game_day
+1991,202,Tulsa,1990-12-26,59.56504742350636,included_game_day
+1991,202,Tulsa,1990-12-28,60.10863943203069,included_game_day
+1991,202,Tulsa,1990-12-29,54.31318949770299,included_game_day
+1991,202,Tulsa,1991-01-02,100.4683891619965,included_game_day
+1991,202,Tulsa,1991-01-05,85.7319823340875,included_game_day
+1991,202,Tulsa,1991-01-08,97.09058057902877,included_game_day
+1991,202,Tulsa,1991-01-12,76.41771304066984,included_game_day
+1991,202,Tulsa,1991-01-17,75.48744415817288,included_game_day
+1991,202,Tulsa,1991-01-19,84.86483800110065,included_game_day
+1991,202,Tulsa,1991-01-22,81.33603154716647,included_game_day
+1991,202,Tulsa,1991-01-24,67.80210649178129,included_game_day
+1991,202,Tulsa,1991-01-31,58.97269753684818,included_game_day
+1991,202,Tulsa,1991-02-02,36.71243564601214,included_game_day
+1991,202,Tulsa,1991-02-07,62.8764640755542,included_game_day
+1991,202,Tulsa,1991-02-09,47.395589989002616,included_game_day
+1991,202,Tulsa,1991-02-14,46.0425694700013,included_game_day
+1991,202,Tulsa,1991-02-16,56.5008212690623,included_game_day
+1991,202,Tulsa,1991-02-20,58.91955699641835,included_game_day
+1991,202,Tulsa,1991-02-23,59.83992758474843,included_game_day
+1991,202,Tulsa,1991-02-25,54.394833988105376,included_game_day
+1991,202,Tulsa,1991-03-01,63.112991742228594,included_game_day
+1991,202,Tulsa,1991-03-02,61.372947762797054,included_game_day
+1991,202,Tulsa,1991-03-13,39.08322690284939,included_game_day
+1992,202,Tulsa,1991-11-26,-6.63,included_game_day
+1992,202,Tulsa,1991-12-05,-23.067,included_game_day
+1992,202,Tulsa,1991-12-14,20.7151451,included_game_day
+1992,202,Tulsa,1991-12-17,16.597356876600003,included_game_day
+1992,202,Tulsa,1991-12-23,10.823349159704003,included_game_day
+1992,202,Tulsa,1991-12-29,11.562773995033602,included_game_day
+1992,202,Tulsa,1992-01-02,26.16005439550024,included_game_day
+1992,202,Tulsa,1992-01-04,1.9886949669980147,included_game_day
+1992,202,Tulsa,1992-01-11,3.2166709976608168,included_game_day
+1992,202,Tulsa,1992-01-13,20.488284629956294,included_game_day
+1992,202,Tulsa,1992-01-18,18.460772738973688,included_game_day
+1992,202,Tulsa,1992-01-20,11.565921129994669,included_game_day
+1992,202,Tulsa,1992-01-23,23.06428460278596,included_game_day
+1992,202,Tulsa,1992-01-25,26.140991327739023,included_game_day
+1992,202,Tulsa,1992-01-30,29.969480345386206,included_game_day
+1992,202,Tulsa,1992-02-01,30.445143305526656,included_game_day
+1992,202,Tulsa,1992-02-03,12.3089694626339,included_game_day
+1992,202,Tulsa,1992-02-08,15.27581815852822,included_game_day
+1992,202,Tulsa,1992-02-10,6.232318331730893,included_game_day
+1992,202,Tulsa,1992-02-15,-4.588595927040945,included_game_day
+1992,202,Tulsa,1992-02-20,6.521226370922356,included_game_day
+1992,202,Tulsa,1992-02-22,5.06090759021753,included_game_day
+1992,202,Tulsa,1992-02-24,-8.957636997827127,included_game_day
+1992,202,Tulsa,1992-02-27,-15.344134104216865,included_game_day
+1992,202,Tulsa,1992-02-29,-12.50084886859279,included_game_day
+1992,202,Tulsa,1992-03-02,-4.634841163508421,included_game_day
+1992,202,Tulsa,1992-03-07,7.240366869189927,included_game_day
+1992,202,Tulsa,1992-03-08,11.372076709937048,included_game_day
+1992,202,Tulsa,1992-03-09,9.276947362029597,included_game_day
+1993,202,Tulsa,1992-12-01,28.0,included_game_day
+1993,202,Tulsa,1992-12-03,33.2,included_game_day
+1993,202,Tulsa,1992-12-04,26.880000000000003,included_game_day
+1993,202,Tulsa,1992-12-05,8.574000000000002,included_game_day
+1993,202,Tulsa,1992-12-09,-8.273399999999999,included_game_day
+1993,202,Tulsa,1992-12-15,-7.682283999999999,included_game_day
+1993,202,Tulsa,1992-12-19,2.2234344000000004,included_game_day
+1993,202,Tulsa,1992-12-23,0.7895707770000016,included_game_day
+1993,202,Tulsa,1993-01-03,-12.059549159299998,included_game_day
+1993,202,Tulsa,1993-01-05,-15.310093811541998,included_game_day
+1993,202,Tulsa,1993-01-09,-16.502691531993285,included_game_day
+1993,202,Tulsa,1993-01-11,3.5030346126462,included_game_day
+1993,202,Tulsa,1993-01-16,11.320260635001802,included_game_day
+1993,202,Tulsa,1993-01-18,11.590831544310193,included_game_day
+1993,202,Tulsa,1993-01-23,9.213927093229959,included_game_day
+1993,202,Tulsa,1993-01-27,19.34147801306539,included_game_day
+1993,202,Tulsa,1993-01-30,17.140385921068294,included_game_day
+1993,202,Tulsa,1993-02-02,8.263932228516659,included_game_day
+1993,202,Tulsa,1993-02-06,13.867923800324512,included_game_day
+1993,202,Tulsa,1993-02-10,24.467137610669983,included_game_day
+1993,202,Tulsa,1993-02-13,32.87174724272749,included_game_day
+1993,202,Tulsa,1993-02-18,27.195909609689046,included_game_day
+1993,202,Tulsa,1993-02-20,8.715721759226824,included_game_day
+1993,202,Tulsa,1993-02-22,5.596151380487133,included_game_day
+1993,202,Tulsa,1993-02-25,-8.773198040744582,included_game_day
+1993,202,Tulsa,1993-02-27,3.6835329434211133,included_game_day
+1993,202,Tulsa,1993-03-01,-14.44019127101365,included_game_day
+1994,202,Tulsa,1993-12-01,15.15,included_game_day
+1994,202,Tulsa,1993-12-06,33.8482,included_game_day
+1994,202,Tulsa,1993-12-11,38.15735,included_game_day
+1994,202,Tulsa,1993-12-20,25.969456517,included_game_day
+1994,202,Tulsa,1993-12-23,32.937251415,included_game_day
+1994,202,Tulsa,1993-12-29,51.467012607070004,included_game_day
+1994,202,Tulsa,1993-12-30,31.439782485745184,included_game_day
+1994,202,Tulsa,1994-01-03,46.383355270442664,included_game_day
+1994,202,Tulsa,1994-01-06,46.0255837348151,included_game_day
+1994,202,Tulsa,1994-01-08,53.09571470194908,included_game_day
+1994,202,Tulsa,1994-01-13,58.35534013071064,included_game_day
+1994,202,Tulsa,1994-01-15,67.22286419526509,included_game_day
+1994,202,Tulsa,1994-01-20,72.70940007443185,included_game_day
+1994,202,Tulsa,1994-01-22,91.64769511175152,included_game_day
+1994,202,Tulsa,1994-01-27,98.93989512166655,included_game_day
+1994,202,Tulsa,1994-01-29,109.54201856387732,included_game_day
+1994,202,Tulsa,1994-02-05,98.20917479291653,included_game_day
+1994,202,Tulsa,1994-02-07,89.73984584223379,included_game_day
+1994,202,Tulsa,1994-02-09,88.32799686673178,included_game_day
+1994,202,Tulsa,1994-02-12,100.19731887786577,included_game_day
+1994,202,Tulsa,1994-02-15,103.9528912306144,included_game_day
+1994,202,Tulsa,1994-02-19,97.74580096015023,included_game_day
+1994,202,Tulsa,1994-02-23,122.9445144752882,included_game_day
+1994,202,Tulsa,1994-02-26,107.7845379518264,included_game_day
+1994,202,Tulsa,1994-02-28,106.95382812277117,included_game_day
+1994,202,Tulsa,1994-03-05,104.74388379850127,included_game_day
+1994,202,Tulsa,1994-03-06,91.46061709824315,included_game_day
+1994,202,Tulsa,1994-03-18,100.17641740784734,included_game_day
+1994,202,Tulsa,1994-03-20,105.16317763306705,included_game_day
+1994,202,Tulsa,1994-03-25,91.03685709263296,included_game_day
+1995,202,Tulsa,1994-12-03,17.0,included_game_day
+1995,202,Tulsa,1994-12-07,19.460804,included_game_day
+1995,202,Tulsa,1994-12-10,57.4188142,included_game_day
+1995,202,Tulsa,1994-12-17,66.32390778,included_game_day
+1995,202,Tulsa,1994-12-23,52.9093947004,included_game_day
+1995,202,Tulsa,1994-12-31,54.235969040534,included_game_day
+1995,202,Tulsa,1995-01-03,74.36999126181848,included_game_day
+1995,202,Tulsa,1995-01-06,81.47134674135995,included_game_day
+1995,202,Tulsa,1995-01-07,67.08807946415604,included_game_day
+1995,202,Tulsa,1995-01-12,93.52541686475566,included_game_day
+1995,202,Tulsa,1995-01-14,101.56832207429044,included_game_day
+1995,202,Tulsa,1995-01-16,95.8198272957135,included_game_day
+1995,202,Tulsa,1995-01-19,71.02930751708071,included_game_day
+1995,202,Tulsa,1995-01-21,94.69443706327424,included_game_day
+1995,202,Tulsa,1995-01-25,105.5024260396364,included_game_day
+1995,202,Tulsa,1995-01-28,105.1604429355888,included_game_day
+1995,202,Tulsa,1995-02-01,104.05207959724846,included_game_day
+1995,202,Tulsa,1995-02-04,102.15119633495962,included_game_day
+1995,202,Tulsa,1995-02-06,122.08842214351887,included_game_day
+1995,202,Tulsa,1995-02-09,98.31220827422136,included_game_day
+1995,202,Tulsa,1995-02-11,113.12901813249933,included_game_day
+1995,202,Tulsa,1995-02-14,118.79747706433965,included_game_day
+1995,202,Tulsa,1995-02-18,112.581146449002,included_game_day
+1995,202,Tulsa,1995-02-20,107.74925326049085,included_game_day
+1995,202,Tulsa,1995-02-25,107.38369236679206,included_game_day
+1995,202,Tulsa,1995-02-27,109.15345130448127,included_game_day
+1995,202,Tulsa,1995-03-04,111.2879018341785,included_game_day
+1995,202,Tulsa,1995-03-05,117.38936177313185,included_game_day
+1995,202,Tulsa,1995-03-06,98.00547061181713,included_game_day
+1995,202,Tulsa,1995-03-17,102.9381297729631,included_game_day
+1995,202,Tulsa,1995-03-19,110.04011787379575,included_game_day
+1995,202,Tulsa,1995-03-24,92.90919350390861,included_game_day
+1996,202,Tulsa,1995-12-02,40.76601,included_game_day
+1996,202,Tulsa,1995-12-04,46.708409,included_game_day
+1996,202,Tulsa,1995-12-09,47.589668100000004,included_game_day
+1996,202,Tulsa,1995-12-17,115.12860729000002,included_game_day
+1996,202,Tulsa,1995-12-20,115.50883256100002,included_game_day
+1996,202,Tulsa,1995-12-30,91.67801246047875,included_game_day
+1996,202,Tulsa,1996-01-02,88.63495978718156,included_game_day
+1996,202,Tulsa,1996-01-06,91.7576313370168,included_game_day
+1996,202,Tulsa,1996-01-08,95.22961976679531,included_game_day
+1996,202,Tulsa,1996-01-11,103.0383668373127,included_game_day
+1996,202,Tulsa,1996-01-14,88.23212801751028,included_game_day
+1996,202,Tulsa,1996-01-17,67.81837443954967,included_game_day
+1996,202,Tulsa,1996-01-20,77.17167907285328,included_game_day
+1996,202,Tulsa,1996-01-24,68.69127878884939,included_game_day
+1996,202,Tulsa,1996-01-27,73.39904873390557,included_game_day
+1996,202,Tulsa,1996-01-29,80.59520942868657,included_game_day
+1996,202,Tulsa,1996-01-31,65.44072216674672,included_game_day
+1996,202,Tulsa,1996-02-04,57.396961741105144,included_game_day
+1996,202,Tulsa,1996-02-10,76.11233170135186,included_game_day
+1996,202,Tulsa,1996-02-12,87.49152294884216,included_game_day
+1996,202,Tulsa,1996-02-14,88.87209565394127,included_game_day
+1996,202,Tulsa,1996-02-17,81.98034671471513,included_game_day
+1996,202,Tulsa,1996-02-19,99.68071165264973,included_game_day
+1996,202,Tulsa,1996-02-21,92.137199347662,included_game_day
+1996,202,Tulsa,1996-02-24,82.55721941385605,included_game_day
+1996,202,Tulsa,1996-02-26,80.8306708004176,included_game_day
+1996,202,Tulsa,1996-03-02,86.93805395512268,included_game_day
+1996,202,Tulsa,1996-03-03,99.91839717361925,included_game_day
+1996,202,Tulsa,1996-03-04,110.3765381968205,included_game_day
+1996,202,Tulsa,1996-03-15,108.7251543134488,included_game_day
+1997,202,Tulsa,1996-11-20,4.0,included_game_day
+1997,202,Tulsa,1996-11-22,18.4,included_game_day
+1997,202,Tulsa,1996-11-27,16.549999999999997,included_game_day
+1997,202,Tulsa,1996-11-29,20.870199999999997,included_game_day
+1997,202,Tulsa,1996-12-02,38.813179999999996,included_game_day
+1997,202,Tulsa,1996-12-04,37.631862,included_game_day
+1997,202,Tulsa,1996-12-07,29.693675799999998,included_game_day
+1997,202,Tulsa,1996-12-14,33.84680797,included_game_day
+1997,202,Tulsa,1996-12-19,39.691446491,included_game_day
+1997,202,Tulsa,1996-12-27,49.4277812319,included_game_day
+1997,202,Tulsa,1996-12-28,58.69662960754442,included_game_day
+1997,202,Tulsa,1996-12-31,42.60090412499978,included_game_day
+1997,202,Tulsa,1997-01-04,48.21748095346587,included_game_day
+1997,202,Tulsa,1997-01-08,64.2266846587179,included_game_day
+1997,202,Tulsa,1997-01-11,64.66110427000996,included_game_day
+1997,202,Tulsa,1997-01-13,89.05164059631997,included_game_day
+1997,202,Tulsa,1997-01-16,111.49490538083359,included_game_day
+1997,202,Tulsa,1997-01-18,108.50837908477678,included_game_day
+1997,202,Tulsa,1997-01-25,104.25449753351032,included_game_day
+1997,202,Tulsa,1997-01-27,81.66265565178585,included_game_day
+1997,202,Tulsa,1997-01-30,91.655600771033,included_game_day
+1997,202,Tulsa,1997-02-01,104.69218340910358,included_game_day
+1997,202,Tulsa,1997-02-06,80.29638691518845,included_game_day
+1997,202,Tulsa,1997-02-10,82.4900289511885,included_game_day
+1997,202,Tulsa,1997-02-13,109.72822026939726,included_game_day
+1997,202,Tulsa,1997-02-16,106.1180086211426,included_game_day
+1997,202,Tulsa,1997-02-20,93.50346045738326,included_game_day
+1997,202,Tulsa,1997-02-22,93.32204080137848,included_game_day
+1997,202,Tulsa,1997-02-27,139.52188139412095,included_game_day
+1997,202,Tulsa,1997-03-01,150.9780390101149,included_game_day
+1997,202,Tulsa,1997-03-06,149.48170138776842,included_game_day
+1997,202,Tulsa,1997-03-07,136.96655248439447,included_game_day
+1997,202,Tulsa,1997-03-14,157.3760486722935,included_game_day
+1997,202,Tulsa,1997-03-16,146.96112496710106,included_game_day
+1998,202,Tulsa,1997-11-17,3.7,included_game_day
+1998,202,Tulsa,1997-11-21,-34.669999999999995,included_game_day
+1998,202,Tulsa,1997-11-23,-13.196999999999996,included_game_day
+1998,202,Tulsa,1997-11-29,-18.277299999999997,included_game_day
+1998,202,Tulsa,1997-12-01,2.7166400000000017,included_game_day
+1998,202,Tulsa,1997-12-06,10.117593900000001,included_game_day
+1998,202,Tulsa,1997-12-08,29.981530671999998,included_game_day
+1998,202,Tulsa,1997-12-14,34.6837999367,included_game_day
+1998,202,Tulsa,1997-12-20,24.541279249663997,included_game_day
+1998,202,Tulsa,1997-12-22,17.036165595332598,included_game_day
+1998,202,Tulsa,1997-12-28,25.27292781276242,included_game_day
+1998,202,Tulsa,1997-12-30,6.725105899192577,included_game_day
+1998,202,Tulsa,1998-01-03,21.06844278764452,included_game_day
+1998,202,Tulsa,1998-01-05,6.529562798043646,included_game_day
+1998,202,Tulsa,1998-01-11,-7.707866414943556,included_game_day
+1998,202,Tulsa,1998-01-15,-6.24312566471797,included_game_day
+1998,202,Tulsa,1998-01-17,10.710383961864402,included_game_day
+1998,202,Tulsa,1998-01-24,15.07353865493577,included_game_day
+1998,202,Tulsa,1998-01-29,31.62348266242661,included_game_day
+1998,202,Tulsa,1998-02-01,48.11334643758767,included_game_day
+1998,202,Tulsa,1998-02-05,47.54729513156826,included_game_day
+1998,202,Tulsa,1998-02-07,47.15738845678551,included_game_day
+1998,202,Tulsa,1998-02-12,38.13948597947808,included_game_day
+1998,202,Tulsa,1998-02-15,37.621613454835625,included_game_day
+1998,202,Tulsa,1998-02-19,41.304145123855506,included_game_day
+1998,202,Tulsa,1998-02-21,32.39202646904536,included_game_day
+1998,202,Tulsa,1998-02-26,45.079637445927794,included_game_day
+1998,202,Tulsa,1998-02-28,49.329437317769376,included_game_day
+1998,202,Tulsa,1998-03-03,47.911368177271406,included_game_day
+1998,202,Tulsa,1998-03-05,51.60137197261362,included_game_day
+1999,202,Tulsa,1998-11-15,11.6,included_game_day
+1999,202,Tulsa,1998-11-18,42.22,included_game_day
+1999,202,Tulsa,1998-11-22,21.825,included_game_day
+1999,202,Tulsa,1998-11-24,29.0425,included_game_day
+1999,202,Tulsa,1998-11-28,34.13825,included_game_day
+1999,202,Tulsa,1998-12-01,36.3286872,included_game_day
+1999,202,Tulsa,1998-12-04,42.21813634,included_game_day
+1999,202,Tulsa,1998-12-05,59.881380396,included_game_day
+1999,202,Tulsa,1998-12-08,75.250712072,included_game_day
+1999,202,Tulsa,1998-12-13,70.1398183151,included_game_day
+1999,202,Tulsa,1998-12-21,100.442428975727,included_game_day
+1999,202,Tulsa,1998-12-22,92.6802231318247,included_game_day
+1999,202,Tulsa,1998-12-23,86.84713277761709,included_game_day
+1999,202,Tulsa,1998-12-29,103.21470240567761,included_game_day
+1999,202,Tulsa,1999-01-02,83.88046409208093,included_game_day
+1999,202,Tulsa,1999-01-07,91.77051401549262,included_game_day
+1999,202,Tulsa,1999-01-10,93.29107480075092,included_game_day
+1999,202,Tulsa,1999-01-14,73.72418809462013,included_game_day
+1999,202,Tulsa,1999-01-16,58.76679590926121,included_game_day
+1999,202,Tulsa,1999-01-23,78.98574771186935,included_game_day
+1999,202,Tulsa,1999-01-28,88.1165552211666,included_game_day
+1999,202,Tulsa,1999-01-30,83.70276858512226,included_game_day
+1999,202,Tulsa,1999-02-04,65.214934993849,included_game_day
+1999,202,Tulsa,1999-02-06,63.99688381282599,included_game_day
+1999,202,Tulsa,1999-02-13,52.04040486809899,included_game_day
+1999,202,Tulsa,1999-02-15,51.365264390430156,included_game_day
+1999,202,Tulsa,1999-02-20,80.00973109514842,included_game_day
+1999,202,Tulsa,1999-02-25,81.13841958024601,included_game_day
+1999,202,Tulsa,1999-02-27,92.82855376833163,included_game_day
+1999,202,Tulsa,1999-03-04,120.2141896984001,included_game_day
+1999,202,Tulsa,1999-03-05,123.12055226424788,included_game_day
+1999,202,Tulsa,1999-03-12,131.5573015529477,included_game_day
+1999,202,Tulsa,1999-03-14,109.37119293021318,included_game_day
+2000,202,Tulsa,1999-11-21,28.0,included_game_day
+2000,202,Tulsa,1999-11-24,47.9,included_game_day
+2000,202,Tulsa,1999-11-27,83.857,included_game_day
+2000,202,Tulsa,1999-11-29,86.5933,included_game_day
+2000,202,Tulsa,1999-12-01,90.97497,included_game_day
+2000,202,Tulsa,1999-12-04,97.801453,included_game_day
+2000,202,Tulsa,1999-12-07,101.731212,included_game_day
+2000,202,Tulsa,1999-12-11,91.575849461,included_game_day
+2000,202,Tulsa,1999-12-18,92.5773202749,included_game_day
+2000,202,Tulsa,1999-12-21,102.4060484573,included_game_day
+2000,202,Tulsa,1999-12-22,113.4299040670989,included_game_day
+2000,202,Tulsa,1999-12-23,134.1135536089766,included_game_day
+2000,202,Tulsa,1999-12-28,139.46993489127595,included_game_day
+2000,202,Tulsa,1999-12-30,156.2654989204114,included_game_day
+2000,202,Tulsa,2000-01-06,169.05042978683565,included_game_day
+2000,202,Tulsa,2000-01-12,167.35949045999268,included_game_day
+2000,202,Tulsa,2000-01-15,166.17440595288977,included_game_day
+2000,202,Tulsa,2000-01-20,172.12776407776752,included_game_day
+2000,202,Tulsa,2000-01-22,178.10811427449778,included_game_day
+2000,202,Tulsa,2000-01-24,193.00198589557533,included_game_day
+2000,202,Tulsa,2000-01-27,198.57409858366404,included_game_day
+2000,202,Tulsa,2000-01-29,188.56286053014065,included_game_day
+2000,202,Tulsa,2000-02-03,182.98357827152833,included_game_day
+2000,202,Tulsa,2000-02-05,200.143145804706,included_game_day
+2000,202,Tulsa,2000-02-12,209.49751961867645,included_game_day
+2000,202,Tulsa,2000-02-18,207.6836876151466,included_game_day
+2000,202,Tulsa,2000-02-19,196.7230640180908,included_game_day
+2000,202,Tulsa,2000-02-24,179.82336836013454,included_game_day
+2000,202,Tulsa,2000-02-26,193.3163571727568,included_game_day
+2000,202,Tulsa,2000-03-04,189.79635807538855,included_game_day
+2000,202,Tulsa,2000-03-09,181.23374954376192,included_game_day
+2000,202,Tulsa,2000-03-10,191.0765520636627,included_game_day
+2000,202,Tulsa,2000-03-11,179.16672240885205,included_game_day
+2000,202,Tulsa,2000-03-17,196.2434375663764,included_game_day
+2000,202,Tulsa,2000-03-19,204.02266287181686,included_game_day
+2000,202,Tulsa,2000-03-24,205.08154698051973,included_game_day
+2000,202,Tulsa,2000-03-26,192.97952265142231,included_game_day
+2001,202,Tulsa,2000-11-10,2.0,included_game_day
+2001,202,Tulsa,2000-11-11,-5.0,included_game_day
+2001,202,Tulsa,2000-11-17,10.5,included_game_day
+2001,202,Tulsa,2000-11-20,17.52,included_game_day
+2001,202,Tulsa,2000-12-01,22.6434,included_game_day
+2001,202,Tulsa,2000-12-02,26.356017,included_game_day
+2001,202,Tulsa,2000-12-05,35.6475203,included_game_day
+2001,202,Tulsa,2000-12-10,35.22686106,included_game_day
+2001,202,Tulsa,2000-12-16,17.270411710599998,included_game_day
+2001,202,Tulsa,2000-12-19,9.523787711949996,included_game_day
+2001,202,Tulsa,2000-12-22,35.187937919595996,included_game_day
+2001,202,Tulsa,2000-12-30,88.17101196455229,included_game_day
+2001,202,Tulsa,2001-01-02,125.57048129426857,included_game_day
+2001,202,Tulsa,2001-01-06,107.21169551690683,included_game_day
+2001,202,Tulsa,2001-01-11,108.27669982661021,included_game_day
+2001,202,Tulsa,2001-01-13,95.8910892559405,included_game_day
+2001,202,Tulsa,2001-01-17,110.81035846783062,included_game_day
+2001,202,Tulsa,2001-01-20,121.2212784434006,included_game_day
+2001,202,Tulsa,2001-01-25,124.36014697254066,included_game_day
+2001,202,Tulsa,2001-01-28,120.52341172804758,included_game_day
+2001,202,Tulsa,2001-02-01,114.171039602403,included_game_day
+2001,202,Tulsa,2001-02-03,108.63167344291902,included_game_day
+2001,202,Tulsa,2001-02-08,117.44272029892653,included_game_day
+2001,202,Tulsa,2001-02-10,121.7162816458528,included_game_day
+2001,202,Tulsa,2001-02-15,115.1583270557334,included_game_day
+2001,202,Tulsa,2001-02-22,102.8762460549167,included_game_day
+2001,202,Tulsa,2001-02-24,112.2724839556139,included_game_day
+2001,202,Tulsa,2001-03-01,108.1070836230335,included_game_day
+2001,202,Tulsa,2001-03-03,105.4225149556191,included_game_day
+2001,202,Tulsa,2001-03-08,106.52807026414521,included_game_day
+2001,202,Tulsa,2001-03-09,103.75189244352997,included_game_day
+2001,202,Tulsa,2001-03-10,94.08377763421919,included_game_day
+2001,202,Tulsa,2001-03-14,84.73946490295756,included_game_day
+2001,202,Tulsa,2001-03-19,84.26595516298295,included_game_day
+2001,202,Tulsa,2001-03-21,89.7082594620741,included_game_day
+2001,202,Tulsa,2001-03-27,100.12481983014074,included_game_day
+2001,202,Tulsa,2001-03-29,120.05340707874625,included_game_day
+2002,202,Tulsa Golden Hurricane,2001-11-19,40.0,included_game_day
+2002,202,Tulsa Golden Hurricane,2001-11-24,77.55,included_game_day
+2002,202,Tulsa Golden Hurricane,2001-11-28,64.291,included_game_day
+2002,202,Tulsa Golden Hurricane,2001-12-01,67.11960499999999,included_game_day
+2002,202,Tulsa Golden Hurricane,2001-12-04,75.53925149999999,included_game_day
+2002,202,Tulsa Golden Hurricane,2001-12-08,79.76035902999999,included_game_day
+2002,202,Tulsa Golden Hurricane,2001-12-21,82.70969915831999,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-01-03,88.90381638442518,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-01-06,86.6042513157849,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-01-10,77.38256280551802,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-01-12,85.980743362271,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-01-17,86.6084785065629,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-01-19,93.31854953881708,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-01-24,101.76552930705263,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-01-26,85.83138084204536,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-01-28,89.07552041609074,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-01-31,97.15073609702674,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-02-02,88.54244394986891,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-02-07,91.14734721123916,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-02-09,95.44993063084735,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-02-14,105.74500555347169,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-02-16,107.57275790225965,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-02-23,100.85227539417696,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-02-28,96.44586965033514,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-03-07,101.07269594800968,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-03-08,106.8531416963632,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-03-09,93.7315512401758,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-03-14,101.55891403131521,included_game_day
+2002,202,Tulsa Golden Hurricane,2002-03-16,101.2237670408833,included_game_day
+2003,202,Tulsa Golden Hurricane,2002-11-23,13.0,included_game_day
+2003,202,Tulsa Golden Hurricane,2002-11-24,44.7,included_game_day
+2003,202,Tulsa Golden Hurricane,2002-11-30,46.39,included_game_day
+2003,202,Tulsa Golden Hurricane,2002-12-04,49.29205,included_game_day
+2003,202,Tulsa Golden Hurricane,2002-12-11,35.60149800000001,included_game_day
+2003,202,Tulsa Golden Hurricane,2002-12-14,52.912752127000005,included_game_day
+2003,202,Tulsa Golden Hurricane,2002-12-19,57.65776908710001,included_game_day
+2003,202,Tulsa Golden Hurricane,2002-12-23,60.65118149703001,included_game_day
+2003,202,Tulsa Golden Hurricane,2002-12-28,54.94289371269501,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-01-01,47.600133481287855,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-01-04,44.39912598091217,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-01-11,63.27814693344362,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-01-16,66.34713392016057,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-01-18,56.35609569035137,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-01-23,52.98255752982274,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-01-25,42.40474457330826,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-01-30,32.39953078451799,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-02-02,30.0083458791473,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-02-08,48.12919286130418,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-02-10,34.55977178033718,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-02-13,42.13792253046862,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-02-15,48.491047773265805,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-02-19,52.83596906440633,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-02-23,50.4931776997229,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-02-27,70.07261652007541,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-03-01,75.36814895801346,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-03-05,72.9466059374639,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-03-08,79.94199614016017,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-03-13,94.23857532239788,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-03-14,91.87902784477487,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-03-15,96.29884009723683,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-03-20,112.49041486261137,included_game_day
+2003,202,Tulsa Golden Hurricane,2003-03-22,115.41223153588354,included_game_day
+2004,202,Tulsa Golden Hurricane,2003-11-22,23.5,included_game_day
+2004,202,Tulsa Golden Hurricane,2003-11-25,18.08,included_game_day
+2004,202,Tulsa Golden Hurricane,2003-11-29,33.872,included_game_day
+2004,202,Tulsa Golden Hurricane,2003-12-01,27.9848,included_game_day
+2004,202,Tulsa Golden Hurricane,2003-12-06,21.5803493,included_game_day
+2004,202,Tulsa Golden Hurricane,2003-12-14,28.973784690000002,included_game_day
+2004,202,Tulsa Golden Hurricane,2003-12-20,26.11497061113,included_game_day
+2004,202,Tulsa Golden Hurricane,2003-12-23,56.70162886701701,included_game_day
+2004,202,Tulsa Golden Hurricane,2003-12-30,42.55265364008431,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-01-03,34.301612586005135,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-01-06,25.042004421212887,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-01-08,25.17288190104354,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-01-10,22.13307261890537,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-01-17,32.05357137458729,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-01-22,28.486740111632926,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-01-24,27.016233336065937,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-01-29,31.292530605391704,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-01-31,30.39570043455791,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-02-02,12.345899533452734,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-02-05,4.164067635846342,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-02-07,5.942555731245749,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-02-14,4.700413832356981,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-02-18,-16.485831402207417,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-02-21,-21.72788029552771,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-02-28,-43.27257487574127,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-02-29,-40.75180841542558,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-03-04,-51.91702606601306,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-03-06,-37.22078520090427,included_game_day
+2004,202,Tulsa Golden Hurricane,2004-03-09,-52.82220680123832,included_game_day
+2005,202,Tulsa Golden Hurricane,2004-11-16,-9.0,included_game_day
+2005,202,Tulsa Golden Hurricane,2004-11-21,-5.6,included_game_day
+2005,202,Tulsa Golden Hurricane,2004-11-30,-7.00286,included_game_day
+2005,202,Tulsa Golden Hurricane,2004-12-05,-31.352438,included_game_day
+2005,202,Tulsa Golden Hurricane,2004-12-12,9.928649619079998,included_game_day
+2005,202,Tulsa Golden Hurricane,2004-12-18,5.9241834395419986,included_game_day
+2005,202,Tulsa Golden Hurricane,2004-12-22,-3.2155436793622023,included_game_day
+2005,202,Tulsa Golden Hurricane,2004-12-28,2.3618255086036157,included_game_day
+2005,202,Tulsa Golden Hurricane,2004-12-30,-5.311985051523916,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-01-01,-16.6555388954675,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-01-06,-16.42452914300576,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-01-08,-36.05651340778131,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-01-10,-16.67075614389343,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-01-15,-20.243740853078357,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-01-20,-21.45606778908984,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-01-22,-17.41844044902477,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-01-27,-25.671383205483313,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-01-30,-19.2015142456535,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-02-03,-2.104542746770342,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-02-05,2.095373925845484,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-02-12,-4.640120611036661,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-02-16,-4.013807143524753,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-02-19,5.5392754470052825,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-02-21,3.670039386624607,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-02-25,10.260067547855275,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-02-27,31.999941320698223,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-03-03,29.127215424922035,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-03-05,19.700375050123544,included_game_day
+2005,202,Tulsa Golden Hurricane,2005-03-08,6.688944138577325,included_game_day
+2006,202,Tulsa Golden Hurricane,2005-11-19,-13.0,included_game_day
+2006,202,Tulsa Golden Hurricane,2005-11-22,-13.9,included_game_day
+2006,202,Tulsa Golden Hurricane,2005-11-26,-9.51,included_game_day
+2006,202,Tulsa Golden Hurricane,2005-11-30,-14.794234,included_game_day
+2006,202,Tulsa Golden Hurricane,2005-12-03,-25.3992566,included_game_day
+2006,202,Tulsa Golden Hurricane,2005-12-06,-14.247386658,included_game_day
+2006,202,Tulsa Golden Hurricane,2005-12-17,-16.9922903162,included_game_day
+2006,202,Tulsa Golden Hurricane,2005-12-19,-11.265973626466,included_game_day
+2006,202,Tulsa Golden Hurricane,2005-12-22,-15.188587271513398,included_game_day
+2006,202,Tulsa Golden Hurricane,2005-12-30,-23.85154353686244,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-01-02,-30.65534409666299,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-01-07,-33.75643511932089,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-01-11,-48.598575128993446,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-01-14,-45.520429365517685,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-01-18,-36.63908575034378,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-01-21,-33.184487671566515,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-01-28,-45.264636754516154,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-02-01,-51.846183410432545,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-02-04,-52.05010802042891,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-02-08,-37.954481135139574,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-02-11,-32.86288300408483,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-02-18,-47.225216905682345,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-02-22,-27.56205647608132,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-02-25,-15.238548598257399,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-03-01,-6.867817544881358,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-03-04,-9.877529881966957,included_game_day
+2006,202,Tulsa Golden Hurricane,2006-03-08,-23.726149143031492,included_game_day
+2007,202,Tulsa Golden Hurricane,2006-11-18,0.008000000000000007,included_game_day
+2007,202,Tulsa Golden Hurricane,2006-11-21,2.5903,included_game_day
+2007,202,Tulsa Golden Hurricane,2006-11-25,20.27015,included_game_day
+2007,202,Tulsa Golden Hurricane,2006-11-28,34.322135,included_game_day
+2007,202,Tulsa Golden Hurricane,2006-12-01,38.960445500000006,included_game_day
+2007,202,Tulsa Golden Hurricane,2006-12-04,51.87781399000001,included_game_day
+2007,202,Tulsa Golden Hurricane,2006-12-16,60.11887034200001,included_game_day
+2007,202,Tulsa Golden Hurricane,2006-12-21,48.76065415735176,included_game_day
+2007,202,Tulsa Golden Hurricane,2006-12-23,51.69319848075881,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-01-02,48.342880172847096,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-01-06,45.73016564689582,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-01-10,51.92657871423843,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-01-13,60.041045942882974,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-01-17,43.14857582529513,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-01-20,35.9460824968144,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-01-24,37.47443202575377,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-01-27,34.73385176646062,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-01-31,35.40581154588433,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-02-03,27.887788169442935,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-02-07,24.245710852627212,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-02-10,20.007330238169217,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-02-14,18.194570613789015,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-02-17,37.22810932588272,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-02-21,28.71119795962843,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-02-24,30.570356476483244,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-02-28,33.51170989534101,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-03-03,39.34762377485395,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-03-07,36.96253678431351,included_game_day
+2007,202,Tulsa Golden Hurricane,2007-03-08,37.983634431609616,included_game_day
+2008,202,Tulsa Golden Hurricane,2007-11-11,-17.0,included_game_day
+2008,202,Tulsa Golden Hurricane,2007-11-12,-1.1999999999999993,included_game_day
+2008,202,Tulsa Golden Hurricane,2007-11-16,11.163,included_game_day
+2008,202,Tulsa Golden Hurricane,2007-11-27,-1.1910799999999995,included_game_day
+2008,202,Tulsa Golden Hurricane,2007-12-01,-5.7597274999999994,included_game_day
+2008,202,Tulsa Golden Hurricane,2007-12-05,-17.865604863,included_game_day
+2008,202,Tulsa Golden Hurricane,2007-12-09,-5.374078116700002,included_game_day
+2008,202,Tulsa Golden Hurricane,2007-12-15,16.2219917249322,included_game_day
+2008,202,Tulsa Golden Hurricane,2007-12-18,25.543108569498955,included_game_day
+2008,202,Tulsa Golden Hurricane,2007-12-22,55.73315922559508,included_game_day
+2008,202,Tulsa Golden Hurricane,2007-12-30,59.777971429195574,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-01-07,73.4803297831136,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-01-12,68.23928643408446,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-01-16,57.00213432223342,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-01-23,53.58078284731842,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-01-26,51.608336262629315,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-01-30,43.20348290652095,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-02-02,42.74828891194255,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-02-06,37.89097678364031,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-02-09,50.252746240093515,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-02-13,46.47359583244391,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-02-16,67.59929832435176,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-02-20,79.78394580782464,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-02-23,81.5936983808432,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-02-27,80.18479892900712,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-03-01,97.84991266785146,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-03-05,88.23497959904695,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-03-08,100.68977279925357,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-03-12,103.19446965671607,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-03-13,112.08517457949817,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-03-14,107.26888023178589,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-03-15,91.1472153088117,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-03-19,103.3269798724018,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-03-24,108.8313001247502,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-03-26,111.07008962974761,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-03-31,111.84646185959093,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-04-02,98.46755964346559,included_game_day
+2008,202,Tulsa Golden Hurricane,2008-04-04,102.76443787056532,included_game_day
+2009,202,Tulsa Golden Hurricane,2008-11-15,4.0,included_game_day
+2009,202,Tulsa Golden Hurricane,2008-11-20,-9.06,included_game_day
+2009,202,Tulsa Golden Hurricane,2008-11-23,9.412999999999998,included_game_day
+2009,202,Tulsa Golden Hurricane,2008-11-25,37.7099,included_game_day
+2009,202,Tulsa Golden Hurricane,2008-11-28,52.62103,included_game_day
+2009,202,Tulsa Golden Hurricane,2008-11-29,48.146,included_game_day
+2009,202,Tulsa Golden Hurricane,2008-12-03,36.653833,included_game_day
+2009,202,Tulsa Golden Hurricane,2008-12-07,14.382592026999998,included_game_day
+2009,202,Tulsa Golden Hurricane,2008-12-10,14.352353134299998,included_game_day
+2009,202,Tulsa Golden Hurricane,2008-12-14,23.697058817569996,included_game_day
+2009,202,Tulsa Golden Hurricane,2008-12-20,48.97178136661769,included_game_day
+2009,202,Tulsa Golden Hurricane,2008-12-23,50.31790533903082,included_game_day
+2009,202,Tulsa Golden Hurricane,2008-12-30,49.58007975805534,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-01-07,60.86163236128202,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-01-10,74.47238834695631,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-01-13,77.32099092967569,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-01-17,85.7778615607653,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-01-21,77.15277796278,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-01-24,87.3323719110086,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-01-28,86.17501029631346,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-01-31,79.51171091755151,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-02-04,89.83728172859544,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-02-07,96.51125649694616,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-02-11,81.31486107152122,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-02-14,77.04315941971106,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-02-21,73.8043333394106,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-02-25,80.57509540534573,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-02-28,83.3672424868296,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-03-04,82.9498813861814,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-03-07,84.45518037920498,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-03-12,95.22573205473012,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-03-13,97.8603544120639,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-03-14,86.83505152918501,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-03-18,88.71307039671959,included_game_day
+2009,202,Tulsa Golden Hurricane,2009-03-20,75.01897282399852,included_game_day
+2010,202,Tulsa Golden Hurricane,2009-11-15,25.23,included_game_day
+2010,202,Tulsa Golden Hurricane,2009-11-17,31.207,included_game_day
+2010,202,Tulsa Golden Hurricane,2009-11-21,49.4363,included_game_day
+2010,202,Tulsa Golden Hurricane,2009-11-24,57.16897,included_game_day
+2010,202,Tulsa Golden Hurricane,2009-11-28,50.409773,included_game_day
+2010,202,Tulsa Golden Hurricane,2009-12-02,71.8503591,included_game_day
+2010,202,Tulsa Golden Hurricane,2009-12-06,65.20951099000001,included_game_day
+2010,202,Tulsa Golden Hurricane,2009-12-17,100.02291054640001,included_game_day
+2010,202,Tulsa Golden Hurricane,2009-12-19,113.89164576231902,included_game_day
+2010,202,Tulsa Golden Hurricane,2009-12-22,104.72849346232401,included_game_day
+2010,202,Tulsa Golden Hurricane,2009-12-23,68.73368299525491,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-01-02,88.88608314833925,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-01-06,90.72175767781276,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-01-09,96.66070856300745,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-01-13,96.63978994700852,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-01-16,103.90376987661149,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-01-20,101.72625669341836,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-01-23,86.5311645154458,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-01-26,78.4303543350046,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-01-30,74.71320554893944,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-02-03,73.20287935571542,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-02-06,66.7016839023064,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-02-10,69.59529803832572,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-02-13,60.181994673707734,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-02-17,60.803274681743254,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-02-20,56.72717113078218,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-02-25,56.54080998028298,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-02-27,58.98834151955394,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-03-03,57.49874776604715,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-03-06,41.13032416350225,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-03-10,41.71957219444591,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-03-11,63.695535675030726,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-03-12,56.36751187944082,included_game_day
+2010,202,Tulsa Golden Hurricane,2010-03-17,58.224311396595304,included_game_day
+2011,202,Tulsa Golden Hurricane,2010-11-12,-6.0,included_game_day
+2011,202,Tulsa Golden Hurricane,2010-11-16,5.199999999999999,included_game_day
+2011,202,Tulsa Golden Hurricane,2010-11-19,15.692,included_game_day
+2011,202,Tulsa Golden Hurricane,2010-11-25,12.0404,included_game_day
+2011,202,Tulsa Golden Hurricane,2010-11-26,28.031869,included_game_day
+2011,202,Tulsa Golden Hurricane,2010-11-28,39.9587731,included_game_day
+2011,202,Tulsa Golden Hurricane,2010-12-05,33.32128625,included_game_day
+2011,202,Tulsa Golden Hurricane,2010-12-08,14.965659712899999,included_game_day
+2011,202,Tulsa Golden Hurricane,2010-12-12,8.131738658994,included_game_day
+2011,202,Tulsa Golden Hurricane,2010-12-16,4.6523812207946,included_game_day
+2011,202,Tulsa Golden Hurricane,2010-12-21,10.590744327014974,included_game_day
+2011,202,Tulsa Golden Hurricane,2010-12-23,32.485855539845176,included_game_day
+2011,202,Tulsa Golden Hurricane,2010-12-30,31.6502793276499,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-01-05,27.168383660248505,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-01-08,32.973479271659585,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-01-12,21.53730991446262,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-01-15,40.11954339032165,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-01-19,32.32639972538831,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-01-22,38.15962099196624,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-01-26,31.13414479439637,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-01-29,34.14138563289418,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-02-02,41.71437482790061,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-02-05,40.26609303415332,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-02-12,39.45915013795337,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-02-16,52.424838676825914,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-02-19,62.123835533972375,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-02-23,46.990329489898144,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-02-26,44.826269103667215,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-03-02,54.58884227313565,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-03-05,61.408449013028466,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-03-10,66.45856505516649,included_game_day
+2011,202,Tulsa Golden Hurricane,2011-03-11,56.489551527377955,included_game_day
+2012,202,Tulsa Golden Hurricane,2011-11-11,13.0,included_game_day
+2012,202,Tulsa Golden Hurricane,2011-11-13,23.7,included_game_day
+2012,202,Tulsa Golden Hurricane,2011-11-17,35.76,included_game_day
+2012,202,Tulsa Golden Hurricane,2011-11-18,30.650999999999996,included_game_day
+2012,202,Tulsa Golden Hurricane,2011-11-20,25.629899999999996,included_game_day
+2012,202,Tulsa Golden Hurricane,2011-11-22,21.794309999999996,included_game_day
+2012,202,Tulsa Golden Hurricane,2011-11-26,23.264878999999997,included_game_day
+2012,202,Tulsa Golden Hurricane,2011-11-30,24.395698099999997,included_game_day
+2012,202,Tulsa Golden Hurricane,2011-12-03,16.665117565999996,included_game_day
+2012,202,Tulsa Golden Hurricane,2011-12-07,8.313553724399995,included_game_day
+2012,202,Tulsa Golden Hurricane,2011-12-17,11.985549597029996,included_game_day
+2012,202,Tulsa Golden Hurricane,2011-12-19,-0.6568671917754063,included_game_day
+2012,202,Tulsa Golden Hurricane,2011-12-28,5.539475988768714,included_game_day
+2012,202,Tulsa Golden Hurricane,2011-12-31,14.251446959925342,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-01-04,18.428311974541085,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-01-07,11.358924782906872,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-01-11,21.53504235514027,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-01-14,26.870554211563533,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-01-18,29.463065071620623,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-01-21,56.344242604716655,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-01-25,59.17409451987731,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-01-28,61.871847294404176,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-02-04,66.9016461715391,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-02-08,55.78345274762432,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-02-11,66.54536218605861,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-02-15,62.174924918451,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-02-18,72.37602368605656,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-02-25,71.83445027326292,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-02-29,67.41453839396738,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-03-03,62.267662891293114,included_game_day
+2012,202,Tulsa Golden Hurricane,2012-03-08,55.58124933294398,included_game_day
+2013,202,Tulsa Golden Hurricane,2012-11-15,19.9,included_game_day
+2013,202,Tulsa Golden Hurricane,2012-11-16,26.551,included_game_day
+2013,202,Tulsa Golden Hurricane,2012-11-17,10.111999999999998,included_game_day
+2013,202,Tulsa Golden Hurricane,2012-11-21,23.4908,included_game_day
+2013,202,Tulsa Golden Hurricane,2012-11-24,3.2317199999999993,included_game_day
+2013,202,Tulsa Golden Hurricane,2012-11-28,-13.674430000000001,included_game_day
+2013,202,Tulsa Golden Hurricane,2012-12-05,-1.2670159371000018,included_game_day
+2013,202,Tulsa Golden Hurricane,2012-12-08,-5.5030980976900015,included_game_day
+2013,202,Tulsa Golden Hurricane,2012-12-15,-9.586677405881002,included_game_day
+2013,202,Tulsa Golden Hurricane,2012-12-19,-9.789453105045798,included_game_day
+2013,202,Tulsa Golden Hurricane,2012-12-22,-0.8985224142935166,included_game_day
+2013,202,Tulsa Golden Hurricane,2012-12-29,-16.734540252767168,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-01-02,-13.767033609503919,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-01-06,-7.211705335978046,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-01-09,-27.03634665781869,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-01-12,-23.80866317782069,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-01-16,-16.713362985347796,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-01-19,-10.708419659054265,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-01-23,9.805117659530655,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-01-26,16.554538444126706,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-02-02,-3.837024974727342,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-02-06,-14.117199914124988,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-02-09,-1.9389065055707597,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-02-16,4.871621898251018,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-02-20,-5.97921843459161,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-02-23,-10.498319602529195,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-03-02,2.896741448999979,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-03-06,-5.923807100091196,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-03-09,-7.74108633662707,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-03-14,1.9109644614526413,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-03-15,2.98210245676057,included_game_day
+2013,202,Tulsa Golden Hurricane,2013-03-20,-10.859391871005478,included_game_day
+2014,202,Tulsa Golden Hurricane,2013-11-10,-9.0,included_game_day
+2014,202,Tulsa Golden Hurricane,2013-11-16,-6.6,included_game_day
+2014,202,Tulsa Golden Hurricane,2013-11-20,-28.8735,included_game_day
+2014,202,Tulsa Golden Hurricane,2013-11-23,-26.49785,included_game_day
+2014,202,Tulsa Golden Hurricane,2013-11-27,-20.227265,included_game_day
+2014,202,Tulsa Golden Hurricane,2013-11-29,-26.532956499999997,included_game_day
+2014,202,Tulsa Golden Hurricane,2013-11-30,-32.24468367,included_game_day
+2014,202,Tulsa Golden Hurricane,2013-12-04,-7.749320943000001,included_game_day
+2014,202,Tulsa Golden Hurricane,2013-12-10,-0.3349596487000017,included_game_day
+2014,202,Tulsa Golden Hurricane,2013-12-14,-0.6639895724860008,included_game_day
+2014,202,Tulsa Golden Hurricane,2013-12-18,-5.0254210469374,included_game_day
+2014,202,Tulsa Golden Hurricane,2013-12-21,-12.957759152763561,included_game_day
+2014,202,Tulsa Golden Hurricane,2013-12-29,-16.993506833846094,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-01-04,-5.112220422205336,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-01-09,12.151836470695308,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-01-12,18.369658985806993,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-01-16,15.175564839026194,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-01-18,29.22330675624121,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-01-23,29.320444233888924,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-01-25,16.389390232093337,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-02-01,41.43671077724457,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-02-06,48.060999532768186,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-02-08,48.30686750809866,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-02-13,55.216732993844786,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-02-15,84.650965285578,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-02-20,97.2642632962247,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-02-22,98.18863954542624,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-02-27,102.08071840196418,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-03-02,81.17525449339863,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-03-06,82.51396048963379,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-03-13,88.63654824121186,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-03-14,94.5175949121683,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-03-15,108.19840290889083,included_game_day
+2014,202,Tulsa Golden Hurricane,2014-03-21,95.94086956057876,included_game_day
+2015,202,Tulsa Golden Hurricane,2014-11-15,-6.0,included_game_day
+2015,202,Tulsa Golden Hurricane,2014-11-17,2.5999999999999996,included_game_day
+2015,202,Tulsa Golden Hurricane,2014-11-19,25.340000000000003,included_game_day
+2015,202,Tulsa Golden Hurricane,2014-11-24,41.093,included_game_day
+2015,202,Tulsa Golden Hurricane,2014-11-26,27.579890000000002,included_game_day
+2015,202,Tulsa Golden Hurricane,2014-11-29,10.581901000000002,included_game_day
+2015,202,Tulsa Golden Hurricane,2014-12-03,24.642769100000002,included_game_day
+2015,202,Tulsa Golden Hurricane,2014-12-07,28.69467111,included_game_day
+2015,202,Tulsa Golden Hurricane,2014-12-13,10.405266439000002,included_game_day
+2015,202,Tulsa Golden Hurricane,2014-12-17,8.410992355776003,included_game_day
+2015,202,Tulsa Golden Hurricane,2014-12-22,34.77198048739812,included_game_day
+2015,202,Tulsa Golden Hurricane,2014-12-31,31.707825393893106,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-01-04,42.901596617984765,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-01-10,53.72577444061837,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-01-13,60.835650284613365,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-01-17,70.50688910083014,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-01-21,86.11220512883162,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-01-24,77.74124279563837,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-01-27,80.52511070999272,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-01-31,70.30189876708238,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-02-05,76.64286877617708,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-02-07,64.47346967537611,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-02-12,40.99045850675296,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-02-18,44.69693171013188,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-02-22,61.30808423621781,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-02-25,71.17119679694588,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-02-28,75.0519676726681,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-03-04,63.09684163973026,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-03-08,66.11050535199074,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-03-13,67.3375017317567,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-03-14,63.58503523987928,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-03-17,58.81539348754971,included_game_day
+2015,202,Tulsa Golden Hurricane,2015-03-23,38.387230279950764,included_game_day
+2016,202,Tulsa Golden Hurricane,2015-11-14,14.0,included_game_day
+2016,202,Tulsa Golden Hurricane,2015-11-17,21.8,included_game_day
+2016,202,Tulsa Golden Hurricane,2015-11-22,28.37,included_game_day
+2016,202,Tulsa Golden Hurricane,2015-11-23,21.043,included_game_day
+2016,202,Tulsa Golden Hurricane,2015-11-28,13.506,included_game_day
+2016,202,Tulsa Golden Hurricane,2015-12-02,30.27796,included_game_day
+2016,202,Tulsa Golden Hurricane,2015-12-05,22.898194,included_game_day
+2016,202,Tulsa Golden Hurricane,2015-12-08,29.21436211,included_game_day
+2016,202,Tulsa Golden Hurricane,2015-12-13,35.80904887403,included_game_day
+2016,202,Tulsa Golden Hurricane,2015-12-19,30.4543255817429,included_game_day
+2016,202,Tulsa Golden Hurricane,2015-12-22,47.88068275692561,included_game_day
+2016,202,Tulsa Golden Hurricane,2015-12-29,43.18668170996013,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-01-02,31.40983137775182,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-01-05,40.27880322160863,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-01-10,52.520706011453115,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-01-14,62.8056598050498,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-01-19,72.17355814932043,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-01-24,80.35011973033957,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-01-27,65.20459895277895,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-01-30,65.86517449116083,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-02-04,63.58203980553135,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-02-07,75.2806005647964,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-02-10,90.51773358522583,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-02-13,95.25343437951454,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-02-18,96.85618092169449,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-02-21,95.28938330366687,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-02-23,107.91748204248505,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-02-28,93.5781682065645,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-03-05,86.46939698744322,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-03-11,62.7244419098244,included_game_day
+2016,202,Tulsa Golden Hurricane,2016-03-16,59.44874103288058,included_game_day
+2017,202,Tulsa Golden Hurricane,2016-11-11,-14.0,included_game_day
+2017,202,Tulsa Golden Hurricane,2016-11-16,-29.33,included_game_day
+2017,202,Tulsa Golden Hurricane,2016-11-19,-24.229999999999997,included_game_day
+2017,202,Tulsa Golden Hurricane,2016-11-22,-14.917699999999996,included_game_day
+2017,202,Tulsa Golden Hurricane,2016-11-28,-2.6242899999999967,included_game_day
+2017,202,Tulsa Golden Hurricane,2016-12-03,-9.022174999999997,included_game_day
+2017,202,Tulsa Golden Hurricane,2016-12-07,-6.957112187999997,included_game_day
+2017,202,Tulsa Golden Hurricane,2016-12-10,-6.883159261199998,included_game_day
+2017,202,Tulsa Golden Hurricane,2016-12-17,4.558421849832202,included_game_day
+2017,202,Tulsa Golden Hurricane,2016-12-22,23.57539976527898,included_game_day
+2017,202,Tulsa Golden Hurricane,2016-12-23,4.634839583320222,included_game_day
+2017,202,Tulsa Golden Hurricane,2016-12-25,-2.9231592988474677,included_game_day
+2017,202,Tulsa Golden Hurricane,2016-12-31,-3.7776469716207286,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-01-04,7.1154818679477225,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-01-11,21.44812828925318,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-01-14,26.04201189021061,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-01-18,20.963253797892442,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-01-21,29.42556194298628,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-01-25,25.18234787003315,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-01-28,37.3259696600325,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-02-01,43.91514797569843,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-02-04,30.663357148399857,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-02-07,12.578682102584814,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-02-11,9.592122776829587,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-02-14,-1.152000926288478,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-02-18,-4.441249213129948,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-02-23,-3.722301117624804,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-02-26,0.4042001440564693,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-03-02,-2.36333525775534,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-03-05,-16.36364208590306,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-03-09,-12.563887548421233,included_game_day
+2017,202,Tulsa Golden Hurricane,2017-03-10,-14.580227851050966,included_game_day
+2018,202,Tulsa Golden Hurricane,2017-11-10,-10.0,included_game_day
+2018,202,Tulsa Golden Hurricane,2017-11-13,7.0,included_game_day
+2018,202,Tulsa Golden Hurricane,2017-11-16,12.04,included_game_day
+2018,202,Tulsa Golden Hurricane,2017-11-17,6.574,included_game_day
+2018,202,Tulsa Golden Hurricane,2017-11-19,-11.672600000000001,included_game_day
+2018,202,Tulsa Golden Hurricane,2017-11-25,5.0341000000000005,included_game_day
+2018,202,Tulsa Golden Hurricane,2017-11-28,6.47772,included_game_day
+2018,202,Tulsa Golden Hurricane,2017-12-02,-0.6193519000000007,included_game_day
+2018,202,Tulsa Golden Hurricane,2017-12-09,17.389302818519997,included_game_day
+2018,202,Tulsa Golden Hurricane,2017-12-14,12.685057184275998,included_game_day
+2018,202,Tulsa Golden Hurricane,2017-12-16,22.308249939788396,included_game_day
+2018,202,Tulsa Golden Hurricane,2017-12-19,17.680262390703557,included_game_day
+2018,202,Tulsa Golden Hurricane,2017-12-28,34.49062689091532,included_game_day
+2018,202,Tulsa Golden Hurricane,2017-12-31,45.91476577220179,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-01-03,37.581547471982375,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-01-06,25.809408027869974,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-01-11,1.3820099806011186,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-01-13,9.614189544341427,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-01-17,11.432472285959816,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-01-20,23.095864274276664,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-01-28,16.472236108860905,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-02-01,29.60746004053493,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-02-04,29.271683903443154,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-02-08,24.590064958899106,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-02-15,24.720301286412596,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-02-18,21.82263784895127,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-02-21,28.68654971540102,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-02-25,39.02302159071648,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-03-01,42.71096552351483,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-03-04,58.02660405220888,included_game_day
+2018,202,Tulsa Golden Hurricane,2018-03-09,48.8079826016819,included_game_day
+2019,202,Tulsa Golden Hurricane,2018-11-06,14.0,included_game_day
+2019,202,Tulsa Golden Hurricane,2018-11-10,31.6,included_game_day
+2019,202,Tulsa Golden Hurricane,2018-11-16,28.423000000000002,included_game_day
+2019,202,Tulsa Golden Hurricane,2018-11-19,32.0737,included_game_day
+2019,202,Tulsa Golden Hurricane,2018-11-22,27.097700000000003,included_game_day
+2019,202,Tulsa Golden Hurricane,2018-11-23,13.952000000000002,included_game_day
+2019,202,Tulsa Golden Hurricane,2018-11-27,21.842114000000002,included_game_day
+2019,202,Tulsa Golden Hurricane,2018-12-01,18.184903820000002,included_game_day
+2019,202,Tulsa Golden Hurricane,2018-12-05,19.463650976,included_game_day
+2019,202,Tulsa Golden Hurricane,2018-12-08,22.246988278400003,included_game_day
+2019,202,Tulsa Golden Hurricane,2018-12-13,24.654485678980002,included_game_day
+2019,202,Tulsa Golden Hurricane,2018-12-16,32.126627105535,included_game_day
+2019,202,Tulsa Golden Hurricane,2018-12-22,34.17117358094472,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-01-02,26.573631411389258,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-01-05,29.312835559280412,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-01-10,29.823129010485996,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-01-12,15.813021950832667,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-01-16,22.895730236477668,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-01-19,29.523401913008826,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-01-24,16.744363306787605,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-01-27,15.405632433460179,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-01-30,35.885260193499214,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-02-02,24.188499413459432,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-02-09,44.63589730702077,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-02-14,58.71696946889215,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-02-17,53.83016791966284,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-02-20,27.193409219323073,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-02-23,22.86684604230934,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-02-28,14.555043958608323,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-03-03,16.231215876661885,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-03-09,22.978187731737645,included_game_day
+2019,202,Tulsa Golden Hurricane,2019-03-14,13.879788667224,included_game_day
+2020,202,Tulsa Golden Hurricane,2019-11-05,5.0,included_game_day
+2020,202,Tulsa Golden Hurricane,2019-11-09,-6.5,included_game_day
+2020,202,Tulsa Golden Hurricane,2019-11-12,-0.9800000000000004,included_game_day
+2020,202,Tulsa Golden Hurricane,2019-11-16,1.3079999999999998,included_game_day
+2020,202,Tulsa Golden Hurricane,2019-11-20,2.1571999999999996,included_game_day
+2020,202,Tulsa Golden Hurricane,2019-11-27,20.667758799999998,included_game_day
+2020,202,Tulsa Golden Hurricane,2019-11-30,35.187028119999994,included_game_day
+2020,202,Tulsa Golden Hurricane,2019-12-04,52.940703307999996,included_game_day
+2020,202,Tulsa Golden Hurricane,2019-12-07,41.27312688809,included_game_day
+2020,202,Tulsa Golden Hurricane,2019-12-11,48.2659504165986,included_game_day
+2020,202,Tulsa Golden Hurricane,2019-12-14,34.94387591279974,included_game_day
+2020,202,Tulsa Golden Hurricane,2019-12-21,21.425055160179543,included_game_day
+2020,202,Tulsa Golden Hurricane,2019-12-29,23.77085504406775,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-01-03,52.30621396458356,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-01-08,24.01628775735491,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-01-11,30.643241929952016,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-01-15,46.62605489013865,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-01-18,59.70466746852824,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-01-22,101.94991395109861,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-01-26,104.24950132736842,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-02-01,102.76883770384349,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-02-06,79.29921607913187,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-02-09,68.84087768534312,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-02-12,72.261149349237,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-02-15,81.1073819402405,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-02-19,56.093686001263855,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-02-22,74.806906635473,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-02-25,66.77476839824155,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-02-29,69.40184671291468,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-03-04,76.833534718026,included_game_day
+2020,202,Tulsa Golden Hurricane,2020-03-08,58.067060258435774,included_game_day
+2021,202,Tulsa Golden Hurricane,2020-11-28,-2.9,included_game_day
+2021,202,Tulsa Golden Hurricane,2020-11-29,-15.228,included_game_day
+2021,202,Tulsa Golden Hurricane,2020-12-04,-2.1898999999999997,included_game_day
+2021,202,Tulsa Golden Hurricane,2020-12-15,-10.193883699999999,included_game_day
+2021,202,Tulsa Golden Hurricane,2020-12-18,9.231736670000002,included_game_day
+2021,202,Tulsa Golden Hurricane,2020-12-21,22.784242373,included_game_day
+2021,202,Tulsa Golden Hurricane,2020-12-29,28.1914990536483,included_game_day
+2021,202,Tulsa Golden Hurricane,2021-01-02,31.26562768123047,included_game_day
+2021,202,Tulsa Golden Hurricane,2021-01-06,41.48001216091159,included_game_day
+2021,202,Tulsa Golden Hurricane,2021-01-13,23.747784809583386,included_game_day
+2021,202,Tulsa Golden Hurricane,2021-01-17,21.91244307177205,included_game_day
+2021,202,Tulsa Golden Hurricane,2021-01-20,7.019889993861266,included_game_day
+2021,202,Tulsa Golden Hurricane,2021-01-26,-0.017938797603025414,included_game_day
+2021,202,Tulsa Golden Hurricane,2021-01-30,9.737544878025624,included_game_day
+2021,202,Tulsa Golden Hurricane,2021-02-03,8.617235898599608,included_game_day
+2021,202,Tulsa Golden Hurricane,2021-02-06,-5.0298977106330565,included_game_day
+2021,202,Tulsa Golden Hurricane,2021-02-10,-18.489964295412385,included_game_day
+2021,202,Tulsa Golden Hurricane,2021-02-16,-15.074697719528316,included_game_day
+2021,202,Tulsa Golden Hurricane,2021-02-24,-19.512281852696596,included_game_day
+2021,202,Tulsa Golden Hurricane,2021-03-02,-17.44952587925235,included_game_day
+2021,202,Tulsa Golden Hurricane,2021-03-11,-25.412650919790373,included_game_day
+2022,202,Tulsa Golden Hurricane,2021-11-10,2.5,included_game_day
+2022,202,Tulsa Golden Hurricane,2021-11-13,-2.05,included_game_day
+2022,202,Tulsa Golden Hurricane,2021-11-15,1.0750000000000002,included_game_day
+2022,202,Tulsa Golden Hurricane,2021-11-20,9.7878,included_game_day
+2022,202,Tulsa Golden Hurricane,2021-11-21,1.2883899999999997,included_game_day
+2022,202,Tulsa Golden Hurricane,2021-11-26,9.048766,included_game_day
+2022,202,Tulsa Golden Hurricane,2021-11-29,1.6238225699999997,included_game_day
+2022,202,Tulsa Golden Hurricane,2021-12-03,0.997382782999999,included_game_day
+2022,202,Tulsa Golden Hurricane,2021-12-07,-9.275799232583001,included_game_day
+2022,202,Tulsa Golden Hurricane,2021-12-11,-5.286185826384701,included_game_day
+2022,202,Tulsa Golden Hurricane,2021-12-16,7.544586761184769,included_game_day
+2022,202,Tulsa Golden Hurricane,2021-12-29,5.753970482135842,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-01-04,12.903975270151673,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-01-12,5.622959543522704,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-01-15,15.866598365777755,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-01-20,2.2782450235002933,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-01-23,2.0653540825849657,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-01-26,-27.531501928079877,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-01-29,1.2857187327802393,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-02-01,-2.6251292307364436,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-02-05,-4.519554221418787,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-02-08,-12.996621310388132,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-02-12,-3.3705184796652805,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-02-14,-6.905459635749862,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-02-19,-1.5794918412985481,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-02-23,-2.7686779833219024,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-02-26,-7.065341629633021,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-03-02,-16.810368353468135,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-03-06,-15.0171928385183,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-03-10,-4.059212455641106,included_game_day
+2022,202,Tulsa Golden Hurricane,2022-03-11,-19.925558823253535,included_game_day
+2023,202,Tulsa Golden Hurricane,2022-11-07,0.0,included_game_day
+2023,202,Tulsa Golden Hurricane,2022-11-12,2.4,included_game_day
+2023,202,Tulsa Golden Hurricane,2022-11-17,22.43,included_game_day
+2023,202,Tulsa Golden Hurricane,2022-11-18,22.6388,included_game_day
+2023,202,Tulsa Golden Hurricane,2022-11-20,2.868549999999999,included_game_day
+2023,202,Tulsa Golden Hurricane,2022-11-25,-16.905645,included_game_day
+2023,202,Tulsa Golden Hurricane,2022-12-03,-30.4233205,included_game_day
+2023,202,Tulsa Golden Hurricane,2022-12-07,-36.68528173669,included_game_day
+2023,202,Tulsa Golden Hurricane,2022-12-10,-30.787700374543,included_game_day
+2023,202,Tulsa Golden Hurricane,2022-12-16,-28.690631528512203,included_game_day
+2023,202,Tulsa Golden Hurricane,2022-12-21,-31.596460360648663,included_game_day
+2023,202,Tulsa Golden Hurricane,2022-12-28,-54.34351250011486,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-01-01,-70.31809928237138,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-01-04,-72.92481167052081,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-01-10,-72.55360676528235,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-01-14,-64.7794606090206,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-01-18,-65.86287283597686,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-01-21,-55.112809049489044,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-01-24,-59.49656986110238,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-01-29,-60.37100546673547,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-02-01,-68.84854633789323,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-02-05,-73.9307937684096,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-02-08,-84.47398367682449,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-02-11,-111.26899814502949,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-02-15,-129.88975926225766,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-02-19,-135.36116126691502,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-02-21,-130.04538485379976,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-02-26,-132.63272669112112,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-03-01,-130.2638745157568,included_game_day
+2023,202,Tulsa Golden Hurricane,2023-03-09,-129.2103990318947,included_game_day
+2024,202,Tulsa Golden Hurricane,2023-11-06,14.0,included_game_day
+2024,202,Tulsa Golden Hurricane,2023-11-11,20.7,included_game_day
+2024,202,Tulsa Golden Hurricane,2023-11-16,29.784399999999998,included_game_day
+2024,202,Tulsa Golden Hurricane,2023-11-20,39.306960000000004,included_game_day
+2024,202,Tulsa Golden Hurricane,2023-11-25,33.93469,included_game_day
+2024,202,Tulsa Golden Hurricane,2023-12-02,22.620108900000005,included_game_day
+2024,202,Tulsa Golden Hurricane,2023-12-05,29.767590173300007,included_game_day
+2024,202,Tulsa Golden Hurricane,2023-12-10,14.622009454950007,included_game_day
+2024,202,Tulsa Golden Hurricane,2023-12-16,14.296117061850007,included_game_day
+2024,202,Tulsa Golden Hurricane,2023-12-19,21.316833321836107,included_game_day
+2024,202,Tulsa Golden Hurricane,2023-12-22,15.684413388144637,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-01-04,14.31259349901716,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-01-07,10.230768327771369,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-01-10,5.706934918971054,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-01-14,-0.32137267943610404,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-01-17,22.754867618041196,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-01-20,-0.007056625776783676,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-01-27,1.260273389912041,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-01-31,8.079106572367184,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-02-03,-12.972678201542841,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-02-07,-23.554310429274153,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-02-11,-26.779743143840474,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-02-14,-35.058222369007524,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-02-17,-27.10670817194299,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-02-21,-39.08015374208533,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-02-24,-34.17900344739701,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-02-28,-48.50523076298303,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-03-02,-35.34293289242494,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-03-09,-20.251260451875936,included_game_day
+2024,202,Tulsa Golden Hurricane,2024-03-14,-26.16227670816223,included_game_day
+2025,202,Tulsa Golden Hurricane,2024-11-09,14.8,included_game_day
+2025,202,Tulsa Golden Hurricane,2024-11-13,17.32,included_game_day
+2025,202,Tulsa Golden Hurricane,2024-11-16,13.188,included_game_day
+2025,202,Tulsa Golden Hurricane,2024-11-20,-5.443900000000001,included_game_day
+2025,202,Tulsa Golden Hurricane,2024-11-23,-35.10707,included_game_day
+2025,202,Tulsa Golden Hurricane,2024-11-26,-14.612811,included_game_day
+2025,202,Tulsa Golden Hurricane,2024-11-27,-19.00873966,included_game_day
+2025,202,Tulsa Golden Hurricane,2024-12-04,-39.846436143999995,included_game_day
+2025,202,Tulsa Golden Hurricane,2024-12-07,-44.410478409599996,included_game_day
+2025,202,Tulsa Golden Hurricane,2024-12-14,-51.496798822523594,included_game_day
+2025,202,Tulsa Golden Hurricane,2024-12-21,-24.732092690216234,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-01-01,-31.159671803064906,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-01-04,-54.85758979824392,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-01-07,-46.16921488478411,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-01-12,-43.767842242972826,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-01-18,-42.392519862784795,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-01-21,-50.38061271666948,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-01-26,-43.520991165245135,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-01-29,-48.522990541284024,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-02-02,-40.28494681733832,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-02-05,-36.385505108315634,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-02-08,-56.688246523544436,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-02-12,-41.238089619430895,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-02-15,-37.90829638141898,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-02-19,-43.78243790972097,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-02-22,-57.84711053050031,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-03-01,-55.33965949643186,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-03-04,-59.176394119935175,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-03-09,-37.47774612559007,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-03-13,-30.641739434236275,included_game_day
+2025,202,Tulsa Golden Hurricane,2025-03-14,-39.887259895290136,included_game_day
+2026,202,Tulsa Golden Hurricane,2025-11-07,19.8,included_game_day
+2026,202,Tulsa Golden Hurricane,2025-11-12,19.72,included_game_day
+2026,202,Tulsa Golden Hurricane,2025-11-17,24.1364,included_game_day
+2026,202,Tulsa Golden Hurricane,2025-11-21,28.861489999999996,included_game_day
+2026,202,Tulsa Golden Hurricane,2025-11-25,54.31032999999999,included_game_day
+2026,202,Tulsa Golden Hurricane,2025-11-26,56.91003138999999,included_game_day
+2026,202,Tulsa Golden Hurricane,2025-12-06,68.701961431,included_game_day
+2026,202,Tulsa Golden Hurricane,2025-12-10,81.29141795795,included_game_day
+2026,202,Tulsa Golden Hurricane,2025-12-13,87.973659045595,included_game_day
+2026,202,Tulsa Golden Hurricane,2025-12-19,83.82636642483608,included_game_day
+2026,202,Tulsa Golden Hurricane,2025-12-22,71.53623127914629,included_game_day
+2026,202,Tulsa Golden Hurricane,2025-12-31,105.41163239767268,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-01-04,92.17920020622375,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-01-10,71.0187719811619,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-01-14,79.63489447722299,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-01-18,102.00798746231986,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-01-21,108.24048585980813,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-01-24,101.51084082112455,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-01-28,103.89376416139275,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-02-01,106.13031937630363,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-02-04,102.51273096555474,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-02-08,97.58348050629537,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-02-11,80.44305442706306,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-02-14,77.24334275228952,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-02-18,67.78566576150084,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-02-22,71.3628842857895,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-02-25,102.24422734049078,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-03-05,119.33582025250186,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-03-08,106.52855074035944,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-03-13,103.1472446207362,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-03-14,87.25806127036616,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-03-17,84.57073354228702,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-03-22,88.6646558377125,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-03-24,90.99389344955851,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-04-02,99.42013185377954,included_game_day
+2026,202,Tulsa Golden Hurricane,2026-04-05,93.72219720187778,included_game_day
+2027,202,Tulsa Golden Hurricane,2026-11-05,15.8,included_game_day
+2027,202,Tulsa Golden Hurricane,2026-11-11,17.520000000000003,included_game_day
+2027,202,Tulsa Golden Hurricane,2026-11-16,17.598000000000003,included_game_day
+2027,202,Tulsa Golden Hurricane,2026-11-20,11.096349000000004,included_game_day
+2027,202,Tulsa Golden Hurricane,2026-11-23,16.6020214,included_game_day

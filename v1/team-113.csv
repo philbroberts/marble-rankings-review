@@ -1,0 +1,1210 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,113,Massachusetts,1987-12-01,1.9729999999999999,included_game_day
+1988,113,Massachusetts,1987-12-07,-18.1583,included_game_day
+1988,113,Massachusetts,1987-12-10,-0.7518899999999995,included_game_day
+1988,113,Massachusetts,1987-12-12,4.429099000000001,included_game_day
+1988,113,Massachusetts,1988-01-03,1.4034662539948957,included_game_day
+1988,113,Massachusetts,1988-01-05,16.22117423933785,included_game_day
+1988,113,Massachusetts,1988-01-11,-0.18356222842959724,included_game_day
+1988,113,Massachusetts,1988-01-14,-1.0718300849323565,included_game_day
+1988,113,Massachusetts,1988-01-16,-14.907925949716544,included_game_day
+1988,113,Massachusetts,1988-01-21,-17.4005845350356,included_game_day
+1988,113,Massachusetts,1988-01-23,-10.627240226271416,included_game_day
+1988,113,Massachusetts,1988-01-26,-26.219441535217022,included_game_day
+1988,113,Massachusetts,1988-01-30,-37.07594087976194,included_game_day
+1988,113,Massachusetts,1988-02-01,-31.95836524175798,included_game_day
+1988,113,Massachusetts,1988-02-04,-33.67766166356702,included_game_day
+1988,113,Massachusetts,1988-02-06,-30.474401421655273,included_game_day
+1988,113,Massachusetts,1988-02-11,-40.53879481010946,included_game_day
+1988,113,Massachusetts,1988-02-13,-51.39938100611141,included_game_day
+1988,113,Massachusetts,1988-02-15,-54.16125907632756,included_game_day
+1988,113,Massachusetts,1988-02-20,-49.89128910419069,included_game_day
+1988,113,Massachusetts,1988-02-27,-54.81421294392329,included_game_day
+1988,113,Massachusetts,1988-03-02,-51.89788147142855,included_game_day
+1988,113,Massachusetts,1988-03-05,-56.26205117430291,included_game_day
+1989,113,Massachusetts,1988-11-30,-4.8,included_game_day
+1989,113,Massachusetts,1988-12-03,-16.92,included_game_day
+1989,113,Massachusetts,1988-12-07,-12.82581,included_game_day
+1989,113,Massachusetts,1988-12-10,-4.696866,included_game_day
+1989,113,Massachusetts,1988-12-30,7.56515026692,included_game_day
+1989,113,Massachusetts,1989-01-03,-4.663774854071001,included_game_day
+1989,113,Massachusetts,1989-01-05,-32.41429568180231,included_game_day
+1989,113,Massachusetts,1989-01-08,-34.241945064330196,included_game_day
+1989,113,Massachusetts,1989-01-12,-50.21889444819429,included_game_day
+1989,113,Massachusetts,1989-01-14,-50.94211979778236,included_game_day
+1989,113,Massachusetts,1989-01-16,-45.9508935864869,included_game_day
+1989,113,Massachusetts,1989-01-19,-40.507037662232975,included_game_day
+1989,113,Massachusetts,1989-01-21,-69.89329430702962,included_game_day
+1989,113,Massachusetts,1989-01-24,-81.63217919382305,included_game_day
+1989,113,Massachusetts,1989-01-28,-60.470281426453056,included_game_day
+1989,113,Massachusetts,1989-01-30,-69.202867765452,included_game_day
+1989,113,Massachusetts,1989-02-06,-69.6608242051881,included_game_day
+1989,113,Massachusetts,1989-02-09,-82.26647061089554,included_game_day
+1989,113,Massachusetts,1989-02-13,-79.02202277446636,included_game_day
+1989,113,Massachusetts,1989-02-16,-89.62848299329889,included_game_day
+1989,113,Massachusetts,1989-02-18,-114.93494241838441,included_game_day
+1989,113,Massachusetts,1989-02-23,-120.36187687579802,included_game_day
+1989,113,Massachusetts,1989-02-25,-102.95551447863527,included_game_day
+1989,113,Massachusetts,1989-03-01,-100.932161419843,included_game_day
+1989,113,Massachusetts,1989-03-04,-101.31347897280918,included_game_day
+1990,113,Massachusetts,1989-12-02,18.907,included_game_day
+1990,113,Massachusetts,1989-12-06,19.40345,included_game_day
+1990,113,Massachusetts,1989-12-09,13.570363,included_game_day
+1990,113,Massachusetts,1989-12-14,26.6549325754,included_game_day
+1990,113,Massachusetts,1989-12-29,36.27484715491,included_game_day
+1990,113,Massachusetts,1989-12-30,16.796864478561197,included_game_day
+1990,113,Massachusetts,1990-01-04,24.095372568713294,included_game_day
+1990,113,Massachusetts,1990-01-06,32.030352810257924,included_game_day
+1990,113,Massachusetts,1990-01-09,40.73717436912964,included_game_day
+1990,113,Massachusetts,1990-01-11,54.28567062980386,included_game_day
+1990,113,Massachusetts,1990-01-13,58.700677092808675,included_game_day
+1990,113,Massachusetts,1990-01-15,70.36351117076585,included_game_day
+1990,113,Massachusetts,1990-01-18,66.04040364275164,included_game_day
+1990,113,Massachusetts,1990-01-20,52.1432547186527,included_game_day
+1990,113,Massachusetts,1990-01-25,38.9590209859259,included_game_day
+1990,113,Massachusetts,1990-01-27,36.13254439171754,included_game_day
+1990,113,Massachusetts,1990-01-30,22.66890104501076,included_game_day
+1990,113,Massachusetts,1990-02-03,15.902909075681247,included_game_day
+1990,113,Massachusetts,1990-02-05,18.2369369225782,included_game_day
+1990,113,Massachusetts,1990-02-08,17.09734200718772,included_game_day
+1990,113,Massachusetts,1990-02-11,17.90213774662915,included_game_day
+1990,113,Massachusetts,1990-02-15,7.7209100477108095,included_game_day
+1990,113,Massachusetts,1990-02-17,-0.3671868645187324,included_game_day
+1990,113,Massachusetts,1990-02-20,3.2819025357020415,included_game_day
+1990,113,Massachusetts,1990-02-24,35.3148976746221,included_game_day
+1990,113,Massachusetts,1990-02-28,46.623370196331514,included_game_day
+1990,113,Massachusetts,1990-03-04,68.63635293310824,included_game_day
+1990,113,Massachusetts,1990-03-05,72.0995121678308,included_game_day
+1990,113,Massachusetts,1990-03-06,72.08564553067544,included_game_day
+1990,113,Massachusetts,1990-03-15,67.20575754705183,included_game_day
+1991,113,Massachusetts,1990-11-26,-8.5,included_game_day
+1991,113,Massachusetts,1990-12-01,18.887999999999998,included_game_day
+1991,113,Massachusetts,1990-12-04,27.150299999999998,included_game_day
+1991,113,Massachusetts,1990-12-08,36.359488,included_game_day
+1991,113,Massachusetts,1990-12-11,30.5592042,included_game_day
+1991,113,Massachusetts,1990-12-28,37.05579763527,included_game_day
+1991,113,Massachusetts,1990-12-29,40.76834956685639,included_game_day
+1991,113,Massachusetts,1991-01-03,42.99617898782184,included_game_day
+1991,113,Massachusetts,1991-01-05,50.44473051428056,included_game_day
+1991,113,Massachusetts,1991-01-07,47.72938448257209,included_game_day
+1991,113,Massachusetts,1991-01-10,43.25585420624836,included_game_day
+1991,113,Massachusetts,1991-01-12,34.73316221521163,included_game_day
+1991,113,Massachusetts,1991-01-14,34.2227628053648,included_game_day
+1991,113,Massachusetts,1991-01-21,37.61066081051949,included_game_day
+1991,113,Massachusetts,1991-01-24,42.52391084781785,included_game_day
+1991,113,Massachusetts,1991-01-26,43.05632290325269,included_game_day
+1991,113,Massachusetts,1991-01-28,42.449669795844564,included_game_day
+1991,113,Massachusetts,1991-02-01,34.8006698647242,included_game_day
+1991,113,Massachusetts,1991-02-04,37.437405811713404,included_game_day
+1991,113,Massachusetts,1991-02-06,35.615858461439956,included_game_day
+1991,113,Massachusetts,1991-02-09,34.51714719039038,included_game_day
+1991,113,Massachusetts,1991-02-12,50.31567050402536,included_game_day
+1991,113,Massachusetts,1991-02-16,56.31739082031907,included_game_day
+1991,113,Massachusetts,1991-02-21,46.19333874190304,included_game_day
+1991,113,Massachusetts,1991-02-24,40.181298673254275,included_game_day
+1991,113,Massachusetts,1991-02-27,47.438173329692326,included_game_day
+1991,113,Massachusetts,1991-03-03,46.64299578683341,included_game_day
+1991,113,Massachusetts,1991-03-13,45.80660892329448,included_game_day
+1991,113,Massachusetts,1991-03-18,53.454057550502846,included_game_day
+1991,113,Massachusetts,1991-03-21,62.044208324123545,included_game_day
+1991,113,Massachusetts,1991-03-25,62.68296100988121,included_game_day
+1991,113,Massachusetts,1991-03-27,56.31033137570641,included_game_day
+1992,113,Massachusetts,1991-11-22,32.0,included_game_day
+1992,113,Massachusetts,1991-11-29,49.0,included_game_day
+1992,113,Massachusetts,1991-11-30,54.9,included_game_day
+1992,113,Massachusetts,1991-12-02,63.375,included_game_day
+1992,113,Massachusetts,1991-12-04,39.0875,included_game_day
+1992,113,Massachusetts,1991-12-07,54.164789999999996,included_game_day
+1992,113,Massachusetts,1991-12-10,62.243810999999994,included_game_day
+1992,113,Massachusetts,1991-12-12,71.08364610999999,included_game_day
+1992,113,Massachusetts,1991-12-14,56.978174145999986,included_game_day
+1992,113,Massachusetts,1991-12-27,76.81819344301319,included_game_day
+1992,113,Massachusetts,1991-12-28,100.32033112728547,included_game_day
+1992,113,Massachusetts,1992-01-04,113.58998274418134,included_game_day
+1992,113,Massachusetts,1992-01-08,103.58910673143096,included_game_day
+1992,113,Massachusetts,1992-01-13,93.73079168716413,included_game_day
+1992,113,Massachusetts,1992-01-15,93.73062634294635,included_game_day
+1992,113,Massachusetts,1992-01-20,110.70364718341156,included_game_day
+1992,113,Massachusetts,1992-01-23,127.85556097650282,included_game_day
+1992,113,Massachusetts,1992-01-25,134.5329032048316,included_game_day
+1992,113,Massachusetts,1992-01-28,102.36960170863433,included_game_day
+1992,113,Massachusetts,1992-01-30,103.86429272428049,included_game_day
+1992,113,Massachusetts,1992-02-04,107.12615073421891,included_game_day
+1992,113,Massachusetts,1992-02-08,99.42913390495464,included_game_day
+1992,113,Massachusetts,1992-02-16,108.26170378972813,included_game_day
+1992,113,Massachusetts,1992-02-18,119.91532156580323,included_game_day
+1992,113,Massachusetts,1992-02-22,135.912132574686,included_game_day
+1992,113,Massachusetts,1992-02-27,136.60633278298758,included_game_day
+1992,113,Massachusetts,1992-03-01,147.16965804871447,included_game_day
+1992,113,Massachusetts,1992-03-04,146.09558628370604,included_game_day
+1992,113,Massachusetts,1992-03-08,149.06293546932113,included_game_day
+1992,113,Massachusetts,1992-03-09,153.81584111575722,included_game_day
+1992,113,Massachusetts,1992-03-12,147.90510588928362,included_game_day
+1992,113,Massachusetts,1992-03-20,165.9810018999444,included_game_day
+1992,113,Massachusetts,1992-03-22,162.39557080515388,included_game_day
+1992,113,Massachusetts,1992-03-26,153.16581821839392,included_game_day
+1993,113,Massachusetts,1992-12-02,1.86362,included_game_day
+1993,113,Massachusetts,1992-12-05,24.677258000000002,included_game_day
+1993,113,Massachusetts,1992-12-08,37.603532200000004,included_game_day
+1993,113,Massachusetts,1992-12-12,35.20927898,included_game_day
+1993,113,Massachusetts,1992-12-28,50.273909882,included_game_day
+1993,113,Massachusetts,1992-12-29,63.376565767612,included_game_day
+1993,113,Massachusetts,1993-01-02,65.8269995815508,included_game_day
+1993,113,Massachusetts,1993-01-05,101.47763374044203,included_game_day
+1993,113,Massachusetts,1993-01-07,93.5829424956418,included_game_day
+1993,113,Massachusetts,1993-01-09,80.28802134545434,included_game_day
+1993,113,Massachusetts,1993-01-12,82.47759628151591,included_game_day
+1993,113,Massachusetts,1993-01-16,87.4934313468295,included_game_day
+1993,113,Massachusetts,1993-01-19,94.82545426084309,included_game_day
+1993,113,Massachusetts,1993-01-21,91.33952061315983,included_game_day
+1993,113,Massachusetts,1993-01-24,94.95354414532197,included_game_day
+1993,113,Massachusetts,1993-01-29,96.07424327946569,included_game_day
+1993,113,Massachusetts,1993-01-31,105.46301690528094,included_game_day
+1993,113,Massachusetts,1993-02-04,105.91945397394684,included_game_day
+1993,113,Massachusetts,1993-02-06,111.25444507410963,included_game_day
+1993,113,Massachusetts,1993-02-11,123.49979001506003,included_game_day
+1993,113,Massachusetts,1993-02-13,126.35449512365946,included_game_day
+1993,113,Massachusetts,1993-02-18,135.13641585447573,included_game_day
+1993,113,Massachusetts,1993-02-20,126.14819919782502,included_game_day
+1993,113,Massachusetts,1993-02-27,97.10330419972931,included_game_day
+1993,113,Massachusetts,1993-03-01,106.48544892396131,included_game_day
+1993,113,Massachusetts,1993-03-04,116.57605553315332,included_game_day
+1993,113,Massachusetts,1993-03-07,114.49283960370293,included_game_day
+1993,113,Massachusetts,1993-03-08,137.9622119202381,included_game_day
+1993,113,Massachusetts,1993-03-09,140.55289295389318,included_game_day
+1993,113,Massachusetts,1993-03-19,138.0936835830241,included_game_day
+1993,113,Massachusetts,1993-03-21,118.88831069301254,included_game_day
+1994,113,Massachusetts,1993-11-17,5.0,included_game_day
+1994,113,Massachusetts,1993-11-18,28.9,included_game_day
+1994,113,Massachusetts,1993-11-19,34.55,included_game_day
+1994,113,Massachusetts,1993-11-20,23.357,included_game_day
+1994,113,Massachusetts,1993-11-28,25.0213,included_game_day
+1994,113,Massachusetts,1993-12-04,45.62917,included_game_day
+1994,113,Massachusetts,1993-12-09,61.336013,included_game_day
+1994,113,Massachusetts,1993-12-11,74.1343917,included_game_day
+1994,113,Massachusetts,1993-12-28,92.286950376,included_game_day
+1994,113,Massachusetts,1993-12-29,107.39659601304099,included_game_day
+1994,113,Massachusetts,1994-01-04,111.40643895483689,included_game_day
+1994,113,Massachusetts,1994-01-08,124.31021007137333,included_game_day
+1994,113,Massachusetts,1994-01-13,137.5562077940047,included_game_day
+1994,113,Massachusetts,1994-01-15,145.7442233649949,included_game_day
+1994,113,Massachusetts,1994-01-18,140.34488242418445,included_game_day
+1994,113,Massachusetts,1994-01-20,144.84491857429458,included_game_day
+1994,113,Massachusetts,1994-01-22,132.55207984440216,included_game_day
+1994,113,Massachusetts,1994-01-27,128.33932346452232,included_game_day
+1994,113,Massachusetts,1994-01-30,142.5096603743879,included_game_day
+1994,113,Massachusetts,1994-02-03,131.83203368370985,included_game_day
+1994,113,Massachusetts,1994-02-06,131.54132481741254,included_game_day
+1994,113,Massachusetts,1994-02-10,124.40569241606924,included_game_day
+1994,113,Massachusetts,1994-02-13,122.1873163438827,included_game_day
+1994,113,Massachusetts,1994-02-15,112.39363313044336,included_game_day
+1994,113,Massachusetts,1994-02-18,119.17289086622822,included_game_day
+1994,113,Massachusetts,1994-02-20,114.9604571986963,included_game_day
+1994,113,Massachusetts,1994-02-22,127.34490001321335,included_game_day
+1994,113,Massachusetts,1994-02-24,132.5344947315778,included_game_day
+1994,113,Massachusetts,1994-02-27,117.14990231227299,included_game_day
+1994,113,Massachusetts,1994-03-02,120.58197974343142,included_game_day
+1994,113,Massachusetts,1994-03-06,130.57901375601028,included_game_day
+1994,113,Massachusetts,1994-03-07,138.41886252647274,included_game_day
+1994,113,Massachusetts,1994-03-10,146.26199096929727,included_game_day
+1994,113,Massachusetts,1994-03-17,156.63740911408016,included_game_day
+1994,113,Massachusetts,1994-03-19,141.74850659516633,included_game_day
+1995,113,Massachusetts,1994-11-25,24.0,included_game_day
+1995,113,Massachusetts,1994-12-03,17.1,included_game_day
+1995,113,Massachusetts,1994-12-08,38.59718,included_game_day
+1995,113,Massachusetts,1994-12-10,58.05317530000001,included_game_day
+1995,113,Massachusetts,1994-12-14,71.93767823,included_game_day
+1995,113,Massachusetts,1994-12-17,81.151586907,included_game_day
+1995,113,Massachusetts,1995-01-03,101.3957305429827,included_game_day
+1995,113,Massachusetts,1995-01-05,112.13261855311843,included_game_day
+1995,113,Massachusetts,1995-01-07,127.52999440676683,included_game_day
+1995,113,Massachusetts,1995-01-10,127.4272467482731,included_game_day
+1995,113,Massachusetts,1995-01-12,127.76507784317167,included_game_day
+1995,113,Massachusetts,1995-01-14,154.42188157877183,included_game_day
+1995,113,Massachusetts,1995-01-19,155.48774208610072,included_game_day
+1995,113,Massachusetts,1995-01-21,141.2613841274829,included_game_day
+1995,113,Massachusetts,1995-01-24,178.53836389644925,included_game_day
+1995,113,Massachusetts,1995-01-27,166.56002273248387,included_game_day
+1995,113,Massachusetts,1995-01-30,173.26646214937054,included_game_day
+1995,113,Massachusetts,1995-02-01,169.6123854299421,included_game_day
+1995,113,Massachusetts,1995-02-04,155.60024238721348,included_game_day
+1995,113,Massachusetts,1995-02-11,168.78349527149172,included_game_day
+1995,113,Massachusetts,1995-02-14,150.44932644067427,included_game_day
+1995,113,Massachusetts,1995-02-16,147.34773885866727,included_game_day
+1995,113,Massachusetts,1995-02-19,155.27674911886703,included_game_day
+1995,113,Massachusetts,1995-02-23,141.77844532514948,included_game_day
+1995,113,Massachusetts,1995-02-25,154.91548494912806,included_game_day
+1995,113,Massachusetts,1995-02-28,150.33263674418615,included_game_day
+1995,113,Massachusetts,1995-03-02,157.8587278283988,included_game_day
+1995,113,Massachusetts,1995-03-05,166.32825156119418,included_game_day
+1995,113,Massachusetts,1995-03-06,169.29957006711925,included_game_day
+1995,113,Massachusetts,1995-03-09,178.25916611317726,included_game_day
+1995,113,Massachusetts,1995-03-17,178.04842743108412,included_game_day
+1995,113,Massachusetts,1995-03-19,188.7308741749244,included_game_day
+1995,113,Massachusetts,1995-03-24,205.86179854481153,included_game_day
+1995,113,Massachusetts,1995-03-26,193.97232016090527,included_game_day
+1996,113,Massachusetts,1995-11-28,11.2,included_game_day
+1996,113,Massachusetts,1995-12-02,12.0,included_game_day
+1996,113,Massachusetts,1995-12-03,34.001999999999995,included_game_day
+1996,113,Massachusetts,1995-12-06,44.53999999999999,included_game_day
+1996,113,Massachusetts,1995-12-09,54.69958199999999,included_game_day
+1996,113,Massachusetts,1995-12-12,71.79367357,included_game_day
+1996,113,Massachusetts,1995-12-22,74.61195983399,included_game_day
+1996,113,Massachusetts,1995-12-27,90.937594320591,included_game_day
+1996,113,Massachusetts,1995-12-28,100.6239911106696,included_game_day
+1996,113,Massachusetts,1995-12-29,121.19546472747338,included_game_day
+1996,113,Massachusetts,1996-01-04,119.60627932969233,included_game_day
+1996,113,Massachusetts,1996-01-06,129.566225395266,included_game_day
+1996,113,Massachusetts,1996-01-09,126.5322940875002,included_game_day
+1996,113,Massachusetts,1996-01-14,130.45200924814552,included_game_day
+1996,113,Massachusetts,1996-01-17,127.15311511193283,included_game_day
+1996,113,Massachusetts,1996-01-20,116.5462300288966,included_game_day
+1996,113,Massachusetts,1996-01-23,124.2256013163336,included_game_day
+1996,113,Massachusetts,1996-01-27,130.97468583481617,included_game_day
+1996,113,Massachusetts,1996-01-30,136.53373209297615,included_game_day
+1996,113,Massachusetts,1996-02-01,157.68456087193078,included_game_day
+1996,113,Massachusetts,1996-02-04,151.50623397038314,included_game_day
+1996,113,Massachusetts,1996-02-06,153.15653417163654,included_game_day
+1996,113,Massachusetts,1996-02-11,168.04134683999993,included_game_day
+1996,113,Massachusetts,1996-02-15,161.41746139549178,included_game_day
+1996,113,Massachusetts,1996-02-17,172.42043122021113,included_game_day
+1996,113,Massachusetts,1996-02-20,170.34524320413428,included_game_day
+1996,113,Massachusetts,1996-02-24,147.67768919789077,included_game_day
+1996,113,Massachusetts,1996-02-28,135.29519477608267,included_game_day
+1996,113,Massachusetts,1996-03-02,138.45338807378238,included_game_day
+1996,113,Massachusetts,1996-03-07,136.16367383744083,included_game_day
+1996,113,Massachusetts,1996-03-08,141.2232906759104,included_game_day
+1996,113,Massachusetts,1996-03-09,153.29523046173884,included_game_day
+1996,113,Massachusetts,1996-03-14,157.05885812747437,included_game_day
+1996,113,Massachusetts,1996-03-16,157.07944868124324,included_game_day
+1996,113,Massachusetts,1996-03-21,167.2753967268127,included_game_day
+1996,113,Massachusetts,1996-03-23,196.21648296185845,included_game_day
+1996,113,Massachusetts,1996-03-30,199.01500936234598,included_game_day
+1997,113,Massachusetts,1996-11-26,-4.7,included_game_day
+1997,113,Massachusetts,1996-11-27,-8.002,included_game_day
+1997,113,Massachusetts,1996-12-04,-6.338900000000001,included_game_day
+1997,113,Massachusetts,1996-12-08,8.51999,included_game_day
+1997,113,Massachusetts,1996-12-10,-12.503879000000001,included_game_day
+1997,113,Massachusetts,1996-12-12,10.903556299999998,included_game_day
+1997,113,Massachusetts,1996-12-14,1.4857536699999976,included_game_day
+1997,113,Massachusetts,1996-12-20,-1.0814971597300023,included_game_day
+1997,113,Massachusetts,1996-12-22,1.0829559771329977,included_game_day
+1997,113,Massachusetts,1996-12-27,7.0307530545697,included_game_day
+1997,113,Massachusetts,1997-01-02,17.51776034553273,included_game_day
+1997,113,Massachusetts,1997-01-05,9.762644752101327,included_game_day
+1997,113,Massachusetts,1997-01-08,17.807398530055433,included_game_day
+1997,113,Massachusetts,1997-01-12,-1.3645003591361125,included_game_day
+1997,113,Massachusetts,1997-01-14,9.17579998806635,included_game_day
+1997,113,Massachusetts,1997-01-18,28.99881764851721,included_game_day
+1997,113,Massachusetts,1997-01-21,38.211788094482955,included_game_day
+1997,113,Massachusetts,1997-01-25,60.164908557994586,included_game_day
+1997,113,Massachusetts,1997-01-30,67.75302325086594,included_game_day
+1997,113,Massachusetts,1997-02-01,64.4900637775128,included_game_day
+1997,113,Massachusetts,1997-02-03,78.99147695772893,included_game_day
+1997,113,Massachusetts,1997-02-06,71.10593308225509,included_game_day
+1997,113,Massachusetts,1997-02-08,80.77292752429078,included_game_day
+1997,113,Massachusetts,1997-02-11,80.55248817334217,included_game_day
+1997,113,Massachusetts,1997-02-15,104.040329166654,included_game_day
+1997,113,Massachusetts,1997-02-20,99.55543344179456,included_game_day
+1997,113,Massachusetts,1997-02-23,91.49787185396944,included_game_day
+1997,113,Massachusetts,1997-02-25,81.39399159112922,included_game_day
+1997,113,Massachusetts,1997-03-01,86.11350977492656,included_game_day
+1997,113,Massachusetts,1997-03-05,96.0955967611857,included_game_day
+1997,113,Massachusetts,1997-03-06,85.0180733586453,included_game_day
+1997,113,Massachusetts,1997-03-14,73.02146819503926,included_game_day
+1998,113,Massachusetts,1997-11-22,-13.29,included_game_day
+1998,113,Massachusetts,1997-11-26,3.4021399999999993,included_game_day
+1998,113,Massachusetts,1997-11-28,-2.049374000000001,included_game_day
+1998,113,Massachusetts,1997-11-29,10.735823399999997,included_game_day
+1998,113,Massachusetts,1997-12-02,22.27354106,included_game_day
+1998,113,Massachusetts,1997-12-06,19.577186954,included_game_day
+1998,113,Massachusetts,1997-12-10,27.26986744095,included_game_day
+1998,113,Massachusetts,1997-12-14,33.913403587275,included_game_day
+1998,113,Massachusetts,1997-12-20,41.3194596994475,included_game_day
+1998,113,Massachusetts,1997-12-23,35.003148315507744,included_game_day
+1998,113,Massachusetts,1997-12-27,31.77680584206282,included_game_day
+1998,113,Massachusetts,1998-01-03,39.60066388709618,included_game_day
+1998,113,Massachusetts,1998-01-06,54.51554362875704,included_game_day
+1998,113,Massachusetts,1998-01-10,84.50178410811002,included_game_day
+1998,113,Massachusetts,1998-01-15,88.30960462205319,included_game_day
+1998,113,Massachusetts,1998-01-17,87.12009157323303,included_game_day
+1998,113,Massachusetts,1998-01-19,91.31915704799475,included_game_day
+1998,113,Massachusetts,1998-01-22,102.22578802663267,included_game_day
+1998,113,Massachusetts,1998-01-24,104.48090159503185,included_game_day
+1998,113,Massachusetts,1998-01-29,121.69953041686392,included_game_day
+1998,113,Massachusetts,1998-02-01,130.1091390316567,included_game_day
+1998,113,Massachusetts,1998-02-03,106.67612957312289,included_game_day
+1998,113,Massachusetts,1998-02-08,124.5478464600046,included_game_day
+1998,113,Massachusetts,1998-02-10,121.22088864929002,included_game_day
+1998,113,Massachusetts,1998-02-14,110.16709052260578,included_game_day
+1998,113,Massachusetts,1998-02-18,101.48531450324549,included_game_day
+1998,113,Massachusetts,1998-02-21,91.8276372150105,included_game_day
+1998,113,Massachusetts,1998-02-25,83.92078166144755,included_game_day
+1998,113,Massachusetts,1998-03-01,79.05336252853625,included_game_day
+1998,113,Massachusetts,1998-03-04,77.48826487689442,included_game_day
+1998,113,Massachusetts,1998-03-05,71.04031104037698,included_game_day
+1998,113,Massachusetts,1998-03-13,66.07941996963378,included_game_day
+1999,113,Massachusetts,1998-11-16,12.9,included_game_day
+1999,113,Massachusetts,1998-11-18,15.47,included_game_day
+1999,113,Massachusetts,1998-12-01,15.603000000000002,included_game_day
+1999,113,Massachusetts,1998-12-05,-4.162568869999998,included_game_day
+1999,113,Massachusetts,1998-12-09,2.693934731400004,included_game_day
+1999,113,Massachusetts,1998-12-12,30.140631717720005,included_game_day
+1999,113,Massachusetts,1998-12-15,20.419835293138004,included_game_day
+1999,113,Massachusetts,1998-12-19,33.0471406979442,included_game_day
+1999,113,Massachusetts,1998-12-29,15.28891446714378,included_game_day
+1999,113,Massachusetts,1999-01-02,27.723940645937628,included_game_day
+1999,113,Massachusetts,1999-01-05,0.5136526948816176,included_game_day
+1999,113,Massachusetts,1999-01-07,4.80892488438465,included_game_day
+1999,113,Massachusetts,1999-01-09,3.449159422119986,included_game_day
+1999,113,Massachusetts,1999-01-13,7.0737815541828,included_game_day
+1999,113,Massachusetts,1999-01-16,17.624525376076317,included_game_day
+1999,113,Massachusetts,1999-01-20,29.433358081433006,included_game_day
+1999,113,Massachusetts,1999-01-23,33.358997684897375,included_game_day
+1999,113,Massachusetts,1999-01-26,19.771959164699666,included_game_day
+1999,113,Massachusetts,1999-01-28,21.441455580513033,included_game_day
+1999,113,Massachusetts,1999-01-31,19.067377157393842,included_game_day
+1999,113,Massachusetts,1999-02-04,8.774540166382248,included_game_day
+1999,113,Massachusetts,1999-02-07,6.063904657349241,included_game_day
+1999,113,Massachusetts,1999-02-10,22.50956626908483,included_game_day
+1999,113,Massachusetts,1999-02-13,26.586681747047972,included_game_day
+1999,113,Massachusetts,1999-02-17,31.030741933867475,included_game_day
+1999,113,Massachusetts,1999-02-20,34.6367095852776,included_game_day
+1999,113,Massachusetts,1999-02-23,30.268294783419066,included_game_day
+1999,113,Massachusetts,1999-02-28,45.56954398971818,included_game_day
+1999,113,Massachusetts,1999-03-03,41.04949959167358,included_game_day
+1999,113,Massachusetts,1999-03-04,42.80111156114441,included_game_day
+2000,113,Massachusetts,1999-11-20,11.0,included_game_day
+2000,113,Massachusetts,1999-11-22,2.5790000000000006,included_game_day
+2000,113,Massachusetts,1999-11-29,-7.228899999999999,included_game_day
+2000,113,Massachusetts,1999-12-02,4.688549999999999,included_game_day
+2000,113,Massachusetts,1999-12-04,19.3943949,included_game_day
+2000,113,Massachusetts,1999-12-06,15.935255410000002,included_game_day
+2000,113,Massachusetts,1999-12-11,16.449067665100003,included_game_day
+2000,113,Massachusetts,1999-12-18,22.415548922490004,included_game_day
+2000,113,Massachusetts,1999-12-21,21.405036146755002,included_game_day
+2000,113,Massachusetts,1999-12-23,-0.9703780239954867,included_game_day
+2000,113,Massachusetts,1999-12-30,1.9287140566626486,included_game_day
+2000,113,Massachusetts,2000-01-06,-7.049678941325748,included_game_day
+2000,113,Massachusetts,2000-01-08,22.641452422343434,included_game_day
+2000,113,Massachusetts,2000-01-16,30.316112024325033,included_game_day
+2000,113,Massachusetts,2000-01-20,24.139104945755655,included_game_day
+2000,113,Massachusetts,2000-01-22,53.57327743274642,included_game_day
+2000,113,Massachusetts,2000-01-27,58.72222112550632,included_game_day
+2000,113,Massachusetts,2000-01-29,66.69969233891895,included_game_day
+2000,113,Massachusetts,2000-02-01,44.36706750494817,included_game_day
+2000,113,Massachusetts,2000-02-05,37.949181921236864,included_game_day
+2000,113,Massachusetts,2000-02-09,64.30660321784418,included_game_day
+2000,113,Massachusetts,2000-02-12,53.14291567732406,included_game_day
+2000,113,Massachusetts,2000-02-16,60.81344790226242,included_game_day
+2000,113,Massachusetts,2000-02-19,64.84084394387394,included_game_day
+2000,113,Massachusetts,2000-02-22,69.49280696351266,included_game_day
+2000,113,Massachusetts,2000-02-26,65.7873754785443,included_game_day
+2000,113,Massachusetts,2000-02-29,57.54679067624329,included_game_day
+2000,113,Massachusetts,2000-03-04,42.46981519357358,included_game_day
+2000,113,Massachusetts,2000-03-08,56.541527588876335,included_game_day
+2000,113,Massachusetts,2000-03-09,70.01581254709949,included_game_day
+2000,113,Massachusetts,2000-03-10,77.78282124530432,included_game_day
+2000,113,Massachusetts,2000-03-16,76.05085707449132,included_game_day
+2001,113,Massachusetts,2000-11-18,-1.0,included_game_day
+2001,113,Massachusetts,2000-11-20,-3.5,included_game_day
+2001,113,Massachusetts,2000-11-25,-12.620000000000001,included_game_day
+2001,113,Massachusetts,2000-12-02,-20.1162,included_game_day
+2001,113,Massachusetts,2000-12-07,-34.388380530999996,included_game_day
+2001,113,Massachusetts,2000-12-10,-22.435595087899998,included_game_day
+2001,113,Massachusetts,2000-12-12,-27.81183256911,included_game_day
+2001,113,Massachusetts,2000-12-14,-3.782795460298999,included_game_day
+2001,113,Massachusetts,2000-12-17,-6.6018873825691,included_game_day
+2001,113,Massachusetts,2000-12-29,-29.85338885228219,included_game_day
+2001,113,Massachusetts,2000-12-30,-23.334063225937488,included_game_day
+2001,113,Massachusetts,2001-01-06,-7.119372990906335,included_game_day
+2001,113,Massachusetts,2001-01-09,14.533962688353213,included_game_day
+2001,113,Massachusetts,2001-01-13,17.559235427986053,included_game_day
+2001,113,Massachusetts,2001-01-18,20.986847210496038,included_game_day
+2001,113,Massachusetts,2001-01-20,24.057203416983246,included_game_day
+2001,113,Massachusetts,2001-01-25,25.942388098151035,included_game_day
+2001,113,Massachusetts,2001-01-27,33.85228905344762,included_game_day
+2001,113,Massachusetts,2001-01-30,57.28469898647029,included_game_day
+2001,113,Massachusetts,2001-02-03,73.31778541175362,included_game_day
+2001,113,Massachusetts,2001-02-06,60.086704249949975,included_game_day
+2001,113,Massachusetts,2001-02-14,71.00924340268308,included_game_day
+2001,113,Massachusetts,2001-02-17,38.37548551127529,included_game_day
+2001,113,Massachusetts,2001-02-20,34.30940431801564,included_game_day
+2001,113,Massachusetts,2001-02-24,46.04202360490353,included_game_day
+2001,113,Massachusetts,2001-02-27,39.7970783135319,included_game_day
+2001,113,Massachusetts,2001-03-03,27.582327787085937,included_game_day
+2001,113,Massachusetts,2001-03-08,48.81052736592916,included_game_day
+2001,113,Massachusetts,2001-03-09,61.659780299347446,included_game_day
+2001,113,Massachusetts,2001-03-10,57.875020554858835,included_game_day
+2002,113,Massachusetts Minutemen,2001-11-16,3.0,included_game_day
+2002,113,Massachusetts Minutemen,2001-11-24,7.925,included_game_day
+2002,113,Massachusetts Minutemen,2001-11-27,19.5745,included_game_day
+2002,113,Massachusetts Minutemen,2001-12-01,32.89996,included_game_day
+2002,113,Massachusetts Minutemen,2001-12-04,14.114513500000001,included_game_day
+2002,113,Massachusetts Minutemen,2001-12-08,19.54754828,included_game_day
+2002,113,Massachusetts Minutemen,2001-12-11,13.423467834000002,included_game_day
+2002,113,Massachusetts Minutemen,2001-12-15,32.340619774282004,included_game_day
+2002,113,Massachusetts Minutemen,2001-12-23,41.7992983927938,included_game_day
+2002,113,Massachusetts Minutemen,2001-12-29,24.66667190495772,included_game_day
+2002,113,Massachusetts Minutemen,2002-01-05,-0.47772484140807947,included_game_day
+2002,113,Massachusetts Minutemen,2002-01-09,0.9038724707667214,included_game_day
+2002,113,Massachusetts Minutemen,2002-01-12,-10.900640181961062,included_game_day
+2002,113,Massachusetts Minutemen,2002-01-16,-15.430712814545156,included_game_day
+2002,113,Massachusetts Minutemen,2002-01-19,-4.737499084530656,included_game_day
+2002,113,Massachusetts Minutemen,2002-01-23,5.814506448680248,included_game_day
+2002,113,Massachusetts Minutemen,2002-01-26,14.914998885743174,included_game_day
+2002,113,Massachusetts Minutemen,2002-01-29,5.3485955147492525,included_game_day
+2002,113,Massachusetts Minutemen,2002-02-02,-8.817350555942625,included_game_day
+2002,113,Massachusetts Minutemen,2002-02-06,-17.26768308038515,included_game_day
+2002,113,Massachusetts Minutemen,2002-02-09,-3.3959484526825907,included_game_day
+2002,113,Massachusetts Minutemen,2002-02-13,-6.139471774511634,included_game_day
+2002,113,Massachusetts Minutemen,2002-02-16,-13.27996580438911,included_game_day
+2002,113,Massachusetts Minutemen,2002-02-19,-9.302762898460392,included_game_day
+2002,113,Massachusetts Minutemen,2002-02-23,-2.9528794569391046,included_game_day
+2002,113,Massachusetts Minutemen,2002-02-27,-1.5294230948100065,included_game_day
+2002,113,Massachusetts Minutemen,2002-03-02,-9.346761364007362,included_game_day
+2002,113,Massachusetts Minutemen,2002-03-06,-6.348400054602507,included_game_day
+2002,113,Massachusetts Minutemen,2002-03-07,1.097893199099122,included_game_day
+2003,113,Massachusetts Minutemen,2002-11-25,-10.0,included_game_day
+2003,113,Massachusetts Minutemen,2002-11-26,-22.560000000000002,included_game_day
+2003,113,Massachusetts Minutemen,2002-12-02,-19.378,included_game_day
+2003,113,Massachusetts Minutemen,2002-12-07,-38.347480000000004,included_game_day
+2003,113,Massachusetts Minutemen,2002-12-10,-35.6737653,included_game_day
+2003,113,Massachusetts Minutemen,2002-12-14,-32.075995003,included_game_day
+2003,113,Massachusetts Minutemen,2002-12-21,-31.899270707254004,included_game_day
+2003,113,Massachusetts Minutemen,2002-12-23,-8.012784027435604,included_game_day
+2003,113,Massachusetts Minutemen,2002-12-28,15.639061597809956,included_game_day
+2003,113,Massachusetts Minutemen,2003-01-02,32.50913854938486,included_game_day
+2003,113,Massachusetts Minutemen,2003-01-05,9.580634066921668,included_game_day
+2003,113,Massachusetts Minutemen,2003-01-09,14.77822366154238,included_game_day
+2003,113,Massachusetts Minutemen,2003-01-11,-4.000765320093926,included_game_day
+2003,113,Massachusetts Minutemen,2003-01-15,-10.840645058249372,included_game_day
+2003,113,Massachusetts Minutemen,2003-01-18,-14.986398385554256,included_game_day
+2003,113,Massachusetts Minutemen,2003-01-22,-31.476409367125072,included_game_day
+2003,113,Massachusetts Minutemen,2003-01-25,-21.094158521393293,included_game_day
+2003,113,Massachusetts Minutemen,2003-01-29,-38.21531538370078,included_game_day
+2003,113,Massachusetts Minutemen,2003-02-01,-37.229867570321076,included_game_day
+2003,113,Massachusetts Minutemen,2003-02-05,-49.52912169376412,included_game_day
+2003,113,Massachusetts Minutemen,2003-02-08,-56.446298873234255,included_game_day
+2003,113,Massachusetts Minutemen,2003-02-12,-47.07564119190478,included_game_day
+2003,113,Massachusetts Minutemen,2003-02-15,-31.40186556030074,included_game_day
+2003,113,Massachusetts Minutemen,2003-02-23,-20.986686055057973,included_game_day
+2003,113,Massachusetts Minutemen,2003-02-26,-52.322726185966594,included_game_day
+2003,113,Massachusetts Minutemen,2003-03-02,-49.43282573461027,included_game_day
+2003,113,Massachusetts Minutemen,2003-03-05,-43.73921793011237,included_game_day
+2003,113,Massachusetts Minutemen,2003-03-08,-34.00130873391906,included_game_day
+2003,113,Massachusetts Minutemen,2003-03-10,-42.58388045089082,included_game_day
+2004,113,Massachusetts Minutemen,2003-11-18,19.0,included_game_day
+2004,113,Massachusetts Minutemen,2003-11-21,-17.1,included_game_day
+2004,113,Massachusetts Minutemen,2003-11-24,-24.39,included_game_day
+2004,113,Massachusetts Minutemen,2003-12-02,-14.137,included_game_day
+2004,113,Massachusetts Minutemen,2003-12-06,-5.184867000000001,included_game_day
+2004,113,Massachusetts Minutemen,2003-12-09,-2.3013103000000004,included_game_day
+2004,113,Massachusetts Minutemen,2003-12-20,10.8174653162,included_game_day
+2004,113,Massachusetts Minutemen,2003-12-23,13.657428672226999,included_game_day
+2004,113,Massachusetts Minutemen,2003-12-28,21.4573914119303,included_game_day
+2004,113,Massachusetts Minutemen,2003-12-30,14.59929058242254,included_game_day
+2004,113,Massachusetts Minutemen,2004-01-03,10.335104391948018,included_game_day
+2004,113,Massachusetts Minutemen,2004-01-07,-7.580120432779875,included_game_day
+2004,113,Massachusetts Minutemen,2004-01-10,-21.38833287518871,included_game_day
+2004,113,Massachusetts Minutemen,2004-01-14,-25.911375352670806,included_game_day
+2004,113,Massachusetts Minutemen,2004-01-18,-44.63073353403131,included_game_day
+2004,113,Massachusetts Minutemen,2004-01-21,-47.40305639927962,included_game_day
+2004,113,Massachusetts Minutemen,2004-01-24,-43.31034258103002,included_game_day
+2004,113,Massachusetts Minutemen,2004-01-28,-46.27454847205342,included_game_day
+2004,113,Massachusetts Minutemen,2004-01-31,-30.784083226521854,included_game_day
+2004,113,Massachusetts Minutemen,2004-02-03,-11.525143348511541,included_game_day
+2004,113,Massachusetts Minutemen,2004-02-08,-15.545418639314777,included_game_day
+2004,113,Massachusetts Minutemen,2004-02-14,-23.127339482156863,included_game_day
+2004,113,Massachusetts Minutemen,2004-02-18,-29.659032663570724,included_game_day
+2004,113,Massachusetts Minutemen,2004-02-21,-47.04731290007108,included_game_day
+2004,113,Massachusetts Minutemen,2004-02-25,-52.51572833442597,included_game_day
+2004,113,Massachusetts Minutemen,2004-02-28,-49.58157253889786,included_game_day
+2004,113,Massachusetts Minutemen,2004-03-03,-43.00957394462725,included_game_day
+2004,113,Massachusetts Minutemen,2004-03-06,-30.868661770478262,included_game_day
+2004,113,Massachusetts Minutemen,2004-03-10,-32.85766639872988,included_game_day
+2005,113,Massachusetts Minutemen,2004-11-23,2.3784,included_game_day
+2005,113,Massachusetts Minutemen,2004-11-28,12.49756,included_game_day
+2005,113,Massachusetts Minutemen,2004-12-01,-9.217355999999999,included_game_day
+2005,113,Massachusetts Minutemen,2004-12-04,-13.284709009999998,included_game_day
+2005,113,Massachusetts Minutemen,2004-12-09,-4.019440710899998,included_game_day
+2005,113,Massachusetts Minutemen,2004-12-12,-25.765345330209996,included_game_day
+2005,113,Massachusetts Minutemen,2004-12-19,-27.588177081288997,included_game_day
+2005,113,Massachusetts Minutemen,2004-12-23,-18.505774475121097,included_game_day
+2005,113,Massachusetts Minutemen,2004-12-28,-9.654409725657553,included_game_day
+2005,113,Massachusetts Minutemen,2005-01-02,-23.985667761406994,included_game_day
+2005,113,Massachusetts Minutemen,2005-01-05,-35.69358183230959,included_game_day
+2005,113,Massachusetts Minutemen,2005-01-08,-28.143934473046983,included_game_day
+2005,113,Massachusetts Minutemen,2005-01-12,-29.545268151323963,included_game_day
+2005,113,Massachusetts Minutemen,2005-01-15,-9.85530702681664,included_game_day
+2005,113,Massachusetts Minutemen,2005-01-19,-2.0260503970980093,included_game_day
+2005,113,Massachusetts Minutemen,2005-01-22,-20.601474472377284,included_game_day
+2005,113,Massachusetts Minutemen,2005-01-26,-23.367361804981513,included_game_day
+2005,113,Massachusetts Minutemen,2005-01-29,-28.527164365094713,included_game_day
+2005,113,Massachusetts Minutemen,2005-02-05,-26.78898532791062,included_game_day
+2005,113,Massachusetts Minutemen,2005-02-09,-22.67128482513297,included_game_day
+2005,113,Massachusetts Minutemen,2005-02-12,-26.22041959087523,included_game_day
+2005,113,Massachusetts Minutemen,2005-02-15,-13.317146399811335,included_game_day
+2005,113,Massachusetts Minutemen,2005-02-19,-10.620592472050825,included_game_day
+2005,113,Massachusetts Minutemen,2005-02-26,-15.73645093245348,included_game_day
+2005,113,Massachusetts Minutemen,2005-03-01,-9.508221491135135,included_game_day
+2005,113,Massachusetts Minutemen,2005-03-05,-13.234480952208129,included_game_day
+2005,113,Massachusetts Minutemen,2005-03-09,-24.813310121521816,included_game_day
+2006,113,Massachusetts Minutemen,2005-11-18,2.0,included_game_day
+2006,113,Massachusetts Minutemen,2005-11-22,-0.1629999999999998,included_game_day
+2006,113,Massachusetts Minutemen,2005-11-25,-12.1467,included_game_day
+2006,113,Massachusetts Minutemen,2005-11-28,11.091809999999999,included_game_day
+2006,113,Massachusetts Minutemen,2005-12-08,4.7071261799999995,included_game_day
+2006,113,Massachusetts Minutemen,2005-12-12,20.36773101484,included_game_day
+2006,113,Massachusetts Minutemen,2005-12-23,22.74848942073,included_game_day
+2006,113,Massachusetts Minutemen,2005-12-27,40.2935937073986,included_game_day
+2006,113,Massachusetts Minutemen,2005-12-28,35.80731126522977,included_game_day
+2006,113,Massachusetts Minutemen,2006-01-03,16.315165252528516,included_game_day
+2006,113,Massachusetts Minutemen,2006-01-07,30.428741494145054,included_game_day
+2006,113,Massachusetts Minutemen,2006-01-11,37.4301323630648,included_game_day
+2006,113,Massachusetts Minutemen,2006-01-14,35.16561208863659,included_game_day
+2006,113,Massachusetts Minutemen,2006-01-18,43.737807860206175,included_game_day
+2006,113,Massachusetts Minutemen,2006-01-21,66.45740032044257,included_game_day
+2006,113,Massachusetts Minutemen,2006-01-25,60.69306343328603,included_game_day
+2006,113,Massachusetts Minutemen,2006-01-29,51.33087849075676,included_game_day
+2006,113,Massachusetts Minutemen,2006-02-01,23.732243836783752,included_game_day
+2006,113,Massachusetts Minutemen,2006-02-04,20.258644876791443,included_game_day
+2006,113,Massachusetts Minutemen,2006-02-08,-3.306413633231582,included_game_day
+2006,113,Massachusetts Minutemen,2006-02-12,-0.2685754799451274,included_game_day
+2006,113,Massachusetts Minutemen,2006-02-15,11.726487927212652,included_game_day
+2006,113,Massachusetts Minutemen,2006-02-19,14.071352661072602,included_game_day
+2006,113,Massachusetts Minutemen,2006-02-22,14.624508611780694,included_game_day
+2006,113,Massachusetts Minutemen,2006-02-25,32.277092633106115,included_game_day
+2006,113,Massachusetts Minutemen,2006-03-01,7.742717355854882,included_game_day
+2006,113,Massachusetts Minutemen,2006-03-04,18.605203497840797,included_game_day
+2006,113,Massachusetts Minutemen,2006-03-08,9.295192411429532,included_game_day
+2007,113,Massachusetts Minutemen,2006-11-11,34.0,included_game_day
+2007,113,Massachusetts Minutemen,2006-11-17,44.0,included_game_day
+2007,113,Massachusetts Minutemen,2006-11-18,30.3036,included_game_day
+2007,113,Massachusetts Minutemen,2006-11-19,48.4644,included_game_day
+2007,113,Massachusetts Minutemen,2006-11-22,47.141859999999994,included_game_day
+2007,113,Massachusetts Minutemen,2006-11-25,74.88807399999999,included_game_day
+2007,113,Massachusetts Minutemen,2006-11-28,88.3742736,included_game_day
+2007,113,Massachusetts Minutemen,2006-12-02,68.90280727999999,included_game_day
+2007,113,Massachusetts Minutemen,2006-12-06,66.88938433999999,included_game_day
+2007,113,Massachusetts Minutemen,2006-12-09,72.6131232172,included_game_day
+2007,113,Massachusetts Minutemen,2006-12-13,75.4984922699289,included_game_day
+2007,113,Massachusetts Minutemen,2006-12-22,63.02116471449102,included_game_day
+2007,113,Massachusetts Minutemen,2006-12-28,60.54409183283476,included_game_day
+2007,113,Massachusetts Minutemen,2007-01-02,50.957385650738544,included_game_day
+2007,113,Massachusetts Minutemen,2007-01-06,53.999280371244055,included_game_day
+2007,113,Massachusetts Minutemen,2007-01-10,60.168012658024196,included_game_day
+2007,113,Massachusetts Minutemen,2007-01-13,62.323515709215016,included_game_day
+2007,113,Massachusetts Minutemen,2007-01-18,60.833336624314,included_game_day
+2007,113,Massachusetts Minutemen,2007-01-21,58.45123842498555,included_game_day
+2007,113,Massachusetts Minutemen,2007-01-24,53.5007968637857,included_game_day
+2007,113,Massachusetts Minutemen,2007-01-28,56.582287247403244,included_game_day
+2007,113,Massachusetts Minutemen,2007-02-03,53.546140500276145,included_game_day
+2007,113,Massachusetts Minutemen,2007-02-08,68.8527149716438,included_game_day
+2007,113,Massachusetts Minutemen,2007-02-11,61.246836806093086,included_game_day
+2007,113,Massachusetts Minutemen,2007-02-15,72.89785467327232,included_game_day
+2007,113,Massachusetts Minutemen,2007-02-18,77.75044392434526,included_game_day
+2007,113,Massachusetts Minutemen,2007-02-21,96.21683276756744,included_game_day
+2007,113,Massachusetts Minutemen,2007-02-24,88.59508880261444,included_game_day
+2007,113,Massachusetts Minutemen,2007-02-28,110.8218151481598,included_game_day
+2007,113,Massachusetts Minutemen,2007-03-03,110.60577068834179,included_game_day
+2007,113,Massachusetts Minutemen,2007-03-08,95.07896349192194,included_game_day
+2007,113,Massachusetts Minutemen,2007-03-13,89.89261540011617,included_game_day
+2007,113,Massachusetts Minutemen,2007-03-15,81.80316766769081,included_game_day
+2008,113,Massachusetts Minutemen,2007-11-09,26.0,included_game_day
+2008,113,Massachusetts Minutemen,2007-11-10,35.4,included_game_day
+2008,113,Massachusetts Minutemen,2007-11-11,28.0,included_game_day
+2008,113,Massachusetts Minutemen,2007-11-14,32.0,included_game_day
+2008,113,Massachusetts Minutemen,2007-11-17,40.487,included_game_day
+2008,113,Massachusetts Minutemen,2007-11-28,48.310037,included_game_day
+2008,113,Massachusetts Minutemen,2007-12-01,36.3704237,included_game_day
+2008,113,Massachusetts Minutemen,2007-12-08,50.161675980400005,included_game_day
+2008,113,Massachusetts Minutemen,2007-12-12,55.997806029668006,included_game_day
+2008,113,Massachusetts Minutemen,2007-12-15,50.620019016829204,included_game_day
+2008,113,Massachusetts Minutemen,2007-12-22,66.74560301804362,included_game_day
+2008,113,Massachusetts Minutemen,2007-12-29,61.554494344414856,included_game_day
+2008,113,Massachusetts Minutemen,2008-01-02,65.12794468665383,included_game_day
+2008,113,Massachusetts Minutemen,2008-01-05,59.75345812534483,included_game_day
+2008,113,Massachusetts Minutemen,2008-01-09,50.560217872979045,included_game_day
+2008,113,Massachusetts Minutemen,2008-01-16,69.34654539042168,included_game_day
+2008,113,Massachusetts Minutemen,2008-01-23,68.46530165030666,included_game_day
+2008,113,Massachusetts Minutemen,2008-01-27,61.69099927340581,included_game_day
+2008,113,Massachusetts Minutemen,2008-01-30,83.68975435570349,included_game_day
+2008,113,Massachusetts Minutemen,2008-02-02,63.92280447261382,included_game_day
+2008,113,Massachusetts Minutemen,2008-02-07,66.15771632119728,included_game_day
+2008,113,Massachusetts Minutemen,2008-02-10,57.46722117338096,included_game_day
+2008,113,Massachusetts Minutemen,2008-02-14,44.35262198216491,included_game_day
+2008,113,Massachusetts Minutemen,2008-02-17,51.56715857467307,included_game_day
+2008,113,Massachusetts Minutemen,2008-02-21,64.7339273831161,included_game_day
+2008,113,Massachusetts Minutemen,2008-02-24,72.31714100720674,included_game_day
+2008,113,Massachusetts Minutemen,2008-03-01,74.55404820517336,included_game_day
+2008,113,Massachusetts Minutemen,2008-03-05,104.28807667047329,included_game_day
+2008,113,Massachusetts Minutemen,2008-03-08,100.06840407897707,included_game_day
+2008,113,Massachusetts Minutemen,2008-03-13,92.85883953734375,included_game_day
+2008,113,Massachusetts Minutemen,2008-03-18,106.79577344127026,included_game_day
+2008,113,Massachusetts Minutemen,2008-03-22,107.16730056447989,included_game_day
+2008,113,Massachusetts Minutemen,2008-03-25,111.26899433626194,included_game_day
+2008,113,Massachusetts Minutemen,2008-04-01,124.35025758760062,included_game_day
+2008,113,Massachusetts Minutemen,2008-04-03,117.80687431369256,included_game_day
+2009,113,Massachusetts Minutemen,2008-11-12,-4.0,included_game_day
+2009,113,Massachusetts Minutemen,2008-11-18,-20.2,included_game_day
+2009,113,Massachusetts Minutemen,2008-11-24,-22.1349,included_game_day
+2009,113,Massachusetts Minutemen,2008-11-29,-33.16486,included_game_day
+2009,113,Massachusetts Minutemen,2008-12-03,-32.0976085,included_game_day
+2009,113,Massachusetts Minutemen,2008-12-06,-31.28353409,included_game_day
+2009,113,Massachusetts Minutemen,2008-12-10,-21.1101782367,included_game_day
+2009,113,Massachusetts Minutemen,2008-12-13,-6.721583644990002,included_game_day
+2009,113,Massachusetts Minutemen,2008-12-20,10.023626116234997,included_game_day
+2009,113,Massachusetts Minutemen,2008-12-27,15.101330907203605,included_game_day
+2009,113,Massachusetts Minutemen,2008-12-30,-1.8537107159475443,included_game_day
+2009,113,Massachusetts Minutemen,2009-01-03,-26.68475858351478,included_game_day
+2009,113,Massachusetts Minutemen,2009-01-10,-6.296972121024442,included_game_day
+2009,113,Massachusetts Minutemen,2009-01-14,-7.170434222174722,included_game_day
+2009,113,Massachusetts Minutemen,2009-01-17,1.9318461066725012,included_game_day
+2009,113,Massachusetts Minutemen,2009-01-21,-0.9386684455519942,included_game_day
+2009,113,Massachusetts Minutemen,2009-01-24,-10.29019677030426,included_game_day
+2009,113,Massachusetts Minutemen,2009-01-31,6.032259417864811,included_game_day
+2009,113,Massachusetts Minutemen,2009-02-04,14.039264124287552,included_game_day
+2009,113,Massachusetts Minutemen,2009-02-08,10.282341873320203,included_game_day
+2009,113,Massachusetts Minutemen,2009-02-11,22.98350153328297,included_game_day
+2009,113,Massachusetts Minutemen,2009-02-14,14.86919898371589,included_game_day
+2009,113,Massachusetts Minutemen,2009-02-18,6.287830709619396,included_game_day
+2009,113,Massachusetts Minutemen,2009-02-22,14.00278932912759,included_game_day
+2009,113,Massachusetts Minutemen,2009-02-25,-1.9129116989848018,included_game_day
+2009,113,Massachusetts Minutemen,2009-03-01,-5.046226504721558,included_game_day
+2009,113,Massachusetts Minutemen,2009-03-04,8.226162407464827,included_game_day
+2009,113,Massachusetts Minutemen,2009-03-07,19.957509669543377,included_game_day
+2009,113,Massachusetts Minutemen,2009-03-11,12.970377232099619,included_game_day
+2010,113,Massachusetts Minutemen,2009-11-13,-14.0,included_game_day
+2010,113,Massachusetts Minutemen,2009-11-18,-27.9,included_game_day
+2010,113,Massachusetts Minutemen,2009-11-24,-14.18,included_game_day
+2010,113,Massachusetts Minutemen,2009-11-27,-21.5716,included_game_day
+2010,113,Massachusetts Minutemen,2009-11-28,-51.58534,included_game_day
+2010,113,Massachusetts Minutemen,2009-12-02,-43.196508890000004,included_game_day
+2010,113,Massachusetts Minutemen,2009-12-05,-17.282857601000003,included_game_day
+2010,113,Massachusetts Minutemen,2009-12-07,-20.022643094900005,included_game_day
+2010,113,Massachusetts Minutemen,2009-12-11,-5.173509056410005,included_game_day
+2010,113,Massachusetts Minutemen,2009-12-19,3.970010818997995,included_game_day
+2010,113,Massachusetts Minutemen,2009-12-23,-1.3745500513879438,included_game_day
+2010,113,Massachusetts Minutemen,2009-12-30,0.8882696529179892,included_game_day
+2010,113,Massachusetts Minutemen,2010-01-06,-9.556686425136053,included_game_day
+2010,113,Massachusetts Minutemen,2010-01-10,-17.79849803394511,included_game_day
+2010,113,Massachusetts Minutemen,2010-01-13,-13.564411277094557,included_game_day
+2010,113,Massachusetts Minutemen,2010-01-16,-12.581065744879488,included_game_day
+2010,113,Massachusetts Minutemen,2010-01-20,-14.742989151802224,included_game_day
+2010,113,Massachusetts Minutemen,2010-01-23,-22.69849935469138,included_game_day
+2010,113,Massachusetts Minutemen,2010-01-27,-12.291767203877328,included_game_day
+2010,113,Massachusetts Minutemen,2010-01-30,-21.77395395680598,included_game_day
+2010,113,Massachusetts Minutemen,2010-02-03,-16.454839223983384,included_game_day
+2010,113,Massachusetts Minutemen,2010-02-06,-11.92894326947038,included_game_day
+2010,113,Massachusetts Minutemen,2010-02-11,-4.372331447244558,included_game_day
+2010,113,Massachusetts Minutemen,2010-02-14,-1.582705974979386,included_game_day
+2010,113,Massachusetts Minutemen,2010-02-17,-1.6264657478651152,included_game_day
+2010,113,Massachusetts Minutemen,2010-02-21,-13.549359800770375,included_game_day
+2010,113,Massachusetts Minutemen,2010-02-27,-27.118553934286215,included_game_day
+2010,113,Massachusetts Minutemen,2010-03-03,-35.47533260091334,included_game_day
+2010,113,Massachusetts Minutemen,2010-03-06,-26.847417132035773,included_game_day
+2010,113,Massachusetts Minutemen,2010-03-09,-15.697686958088122,included_game_day
+2010,113,Massachusetts Minutemen,2010-03-12,-8.630305932673812,included_game_day
+2011,113,Massachusetts Minutemen,2010-11-12,7.0,included_game_day
+2011,113,Massachusetts Minutemen,2010-11-17,8.2,included_game_day
+2011,113,Massachusetts Minutemen,2010-11-20,21.235,included_game_day
+2011,113,Massachusetts Minutemen,2010-11-22,40.339058,included_game_day
+2011,113,Massachusetts Minutemen,2010-11-27,36.7071862,included_game_day
+2011,113,Massachusetts Minutemen,2010-12-01,39.729366580000004,included_game_day
+2011,113,Massachusetts Minutemen,2010-12-04,36.44279766060001,included_game_day
+2011,113,Massachusetts Minutemen,2010-12-08,11.872504535194008,included_game_day
+2011,113,Massachusetts Minutemen,2010-12-11,-15.080027361325392,included_game_day
+2011,113,Massachusetts Minutemen,2010-12-22,-11.467896036112853,included_game_day
+2011,113,Massachusetts Minutemen,2010-12-31,2.189342148094278,included_game_day
+2011,113,Massachusetts Minutemen,2011-01-03,-23.231699545956914,included_game_day
+2011,113,Massachusetts Minutemen,2011-01-09,-13.996770002777163,included_game_day
+2011,113,Massachusetts Minutemen,2011-01-12,-34.184878519856184,included_game_day
+2011,113,Massachusetts Minutemen,2011-01-15,-32.534536087432926,included_game_day
+2011,113,Massachusetts Minutemen,2011-01-19,-6.58816801583021,included_game_day
+2011,113,Massachusetts Minutemen,2011-01-22,-18.053585662670592,included_game_day
+2011,113,Massachusetts Minutemen,2011-01-26,-4.008641623238315,included_game_day
+2011,113,Massachusetts Minutemen,2011-01-30,3.684204433337377,included_game_day
+2011,113,Massachusetts Minutemen,2011-02-02,-10.060249950118944,included_game_day
+2011,113,Massachusetts Minutemen,2011-02-05,-14.144442103944423,included_game_day
+2011,113,Massachusetts Minutemen,2011-02-13,-23.937676136745864,included_game_day
+2011,113,Massachusetts Minutemen,2011-02-16,-31.953132776191286,included_game_day
+2011,113,Massachusetts Minutemen,2011-02-19,-18.67695839331205,included_game_day
+2011,113,Massachusetts Minutemen,2011-02-23,-6.4007181958354575,included_game_day
+2011,113,Massachusetts Minutemen,2011-02-27,-28.438963945812652,included_game_day
+2011,113,Massachusetts Minutemen,2011-03-02,-24.257861947617375,included_game_day
+2011,113,Massachusetts Minutemen,2011-03-05,-35.21617549441856,included_game_day
+2011,113,Massachusetts Minutemen,2011-03-08,-60.806391329482885,included_game_day
+2012,113,Massachusetts Minutemen,2011-11-11,15.0,included_game_day
+2012,113,Massachusetts Minutemen,2011-11-14,27.6,included_game_day
+2012,113,Massachusetts Minutemen,2011-11-17,41.74,included_game_day
+2012,113,Massachusetts Minutemen,2011-11-21,74.19200000000001,included_game_day
+2012,113,Massachusetts Minutemen,2011-11-24,53.80040000000001,included_game_day
+2012,113,Massachusetts Minutemen,2011-11-25,57.56116000000001,included_game_day
+2012,113,Massachusetts Minutemen,2011-11-26,28.590556000000007,included_game_day
+2012,113,Massachusetts Minutemen,2011-11-30,41.3698624,included_game_day
+2012,113,Massachusetts Minutemen,2011-12-03,34.797106898,included_game_day
+2012,113,Massachusetts Minutemen,2011-12-06,39.3072719182,included_game_day
+2012,113,Massachusetts Minutemen,2011-12-09,37.60166450818,included_game_day
+2012,113,Massachusetts Minutemen,2011-12-17,36.379596166782,included_game_day
+2012,113,Massachusetts Minutemen,2011-12-22,39.762848625886804,included_game_day
+2012,113,Massachusetts Minutemen,2011-12-30,64.48441454581162,included_game_day
+2012,113,Massachusetts Minutemen,2012-01-05,57.54407299577331,included_game_day
+2012,113,Massachusetts Minutemen,2012-01-08,56.96614117090785,included_game_day
+2012,113,Massachusetts Minutemen,2012-01-11,61.08560196204894,included_game_day
+2012,113,Massachusetts Minutemen,2012-01-14,68.32777164618457,included_game_day
+2012,113,Massachusetts Minutemen,2012-01-18,56.857610502198895,included_game_day
+2012,113,Massachusetts Minutemen,2012-01-21,67.69263380022545,included_game_day
+2012,113,Massachusetts Minutemen,2012-01-28,82.62799501452608,included_game_day
+2012,113,Massachusetts Minutemen,2012-02-01,71.45592796649531,included_game_day
+2012,113,Massachusetts Minutemen,2012-02-04,76.77306797101015,included_game_day
+2012,113,Massachusetts Minutemen,2012-02-08,80.88817122904645,included_game_day
+2012,113,Massachusetts Minutemen,2012-02-11,70.41741627927829,included_game_day
+2012,113,Massachusetts Minutemen,2012-02-18,66.4889405816562,included_game_day
+2012,113,Massachusetts Minutemen,2012-02-21,69.74699075329184,included_game_day
+2012,113,Massachusetts Minutemen,2012-02-25,37.49696907686176,included_game_day
+2012,113,Massachusetts Minutemen,2012-02-29,45.124747387293844,included_game_day
+2012,113,Massachusetts Minutemen,2012-03-03,42.11329528146884,included_game_day
+2012,113,Massachusetts Minutemen,2012-03-06,44.455357386579735,included_game_day
+2012,113,Massachusetts Minutemen,2012-03-09,56.16434152636593,included_game_day
+2012,113,Massachusetts Minutemen,2012-03-10,55.376839294503064,included_game_day
+2012,113,Massachusetts Minutemen,2012-03-13,62.02911881658428,included_game_day
+2012,113,Massachusetts Minutemen,2012-03-17,75.36433664286925,included_game_day
+2012,113,Massachusetts Minutemen,2012-03-20,83.36586091647999,included_game_day
+2012,113,Massachusetts Minutemen,2012-03-27,74.97163189346405,included_game_day
+2013,113,Massachusetts Minutemen,2012-11-13,0.0,included_game_day
+2013,113,Massachusetts Minutemen,2012-11-15,4.32,included_game_day
+2013,113,Massachusetts Minutemen,2012-11-16,-9.222,included_game_day
+2013,113,Massachusetts Minutemen,2012-11-18,-22.7881,included_game_day
+2013,113,Massachusetts Minutemen,2012-11-28,-18.1965376,included_game_day
+2013,113,Massachusetts Minutemen,2012-12-01,-29.919106037,included_game_day
+2013,113,Massachusetts Minutemen,2012-12-04,-18.9885509143,included_game_day
+2013,113,Massachusetts Minutemen,2012-12-15,-13.177055539969999,included_game_day
+2013,113,Massachusetts Minutemen,2012-12-19,-2.717893876091999,included_game_day
+2013,113,Massachusetts Minutemen,2012-12-22,2.674742793528531,included_game_day
+2013,113,Massachusetts Minutemen,2012-12-29,4.015325804499983,included_game_day
+2013,113,Massachusetts Minutemen,2013-01-02,5.753938175034334,included_game_day
+2013,113,Massachusetts Minutemen,2013-01-05,7.890811828820328,included_game_day
+2013,113,Massachusetts Minutemen,2013-01-10,10.082836186340238,included_game_day
+2013,113,Massachusetts Minutemen,2013-01-13,10.376893551556853,included_game_day
+2013,113,Massachusetts Minutemen,2013-01-17,15.368261543286314,included_game_day
+2013,113,Massachusetts Minutemen,2013-01-19,10.35942778957872,included_game_day
+2013,113,Massachusetts Minutemen,2013-01-27,17.680876325821615,included_game_day
+2013,113,Massachusetts Minutemen,2013-01-30,27.652114376349637,included_game_day
+2013,113,Massachusetts Minutemen,2013-02-02,27.69541273605217,included_game_day
+2013,113,Massachusetts Minutemen,2013-02-06,50.32227801987126,included_game_day
+2013,113,Massachusetts Minutemen,2013-02-09,64.1834509052488,included_game_day
+2013,113,Massachusetts Minutemen,2013-02-14,53.50132973408424,included_game_day
+2013,113,Massachusetts Minutemen,2013-02-16,47.30753529293933,included_game_day
+2013,113,Massachusetts Minutemen,2013-02-20,42.620466574395756,included_game_day
+2013,113,Massachusetts Minutemen,2013-02-23,50.31480211609201,included_game_day
+2013,113,Massachusetts Minutemen,2013-03-02,58.56378258457263,included_game_day
+2013,113,Massachusetts Minutemen,2013-03-07,43.318556306389276,included_game_day
+2013,113,Massachusetts Minutemen,2013-03-09,46.534291443475325,included_game_day
+2013,113,Massachusetts Minutemen,2013-03-14,48.98134975348537,included_game_day
+2013,113,Massachusetts Minutemen,2013-03-15,57.5117997724705,included_game_day
+2013,113,Massachusetts Minutemen,2013-03-16,55.525394723785126,included_game_day
+2013,113,Massachusetts Minutemen,2013-03-20,43.43118751653839,included_game_day
+2014,113,Massachusetts Minutemen,2013-11-10,12.9,included_game_day
+2014,113,Massachusetts Minutemen,2013-11-12,10.61,included_game_day
+2014,113,Massachusetts Minutemen,2013-11-17,25.159,included_game_day
+2014,113,Massachusetts Minutemen,2013-11-21,33.3121,included_game_day
+2014,113,Massachusetts Minutemen,2013-11-22,50.143299999999996,included_game_day
+2014,113,Massachusetts Minutemen,2013-11-24,58.736031999999994,included_game_day
+2014,113,Massachusetts Minutemen,2013-12-03,68.16995395,included_game_day
+2014,113,Massachusetts Minutemen,2013-12-07,77.2928193083,included_game_day
+2014,113,Massachusetts Minutemen,2013-12-14,90.86544966547,included_game_day
+2014,113,Massachusetts Minutemen,2013-12-18,99.160555778423,included_game_day
+2014,113,Massachusetts Minutemen,2013-12-21,94.7193244827971,included_game_day
+2014,113,Massachusetts Minutemen,2013-12-28,88.02977358355139,included_game_day
+2014,113,Massachusetts Minutemen,2014-01-04,80.17523187931367,included_game_day
+2014,113,Massachusetts Minutemen,2014-01-08,76.27460507462818,included_game_day
+2014,113,Massachusetts Minutemen,2014-01-11,76.19060468199336,included_game_day
+2014,113,Massachusetts Minutemen,2014-01-15,71.67287513624495,included_game_day
+2014,113,Massachusetts Minutemen,2014-01-18,75.36294856755914,included_game_day
+2014,113,Massachusetts Minutemen,2014-01-22,72.5952497156428,included_game_day
+2014,113,Massachusetts Minutemen,2014-01-26,98.37105280984609,included_game_day
+2014,113,Massachusetts Minutemen,2014-01-29,84.13161177505489,included_game_day
+2014,113,Massachusetts Minutemen,2014-02-01,78.12120137119156,included_game_day
+2014,113,Massachusetts Minutemen,2014-02-05,82.1230448767092,included_game_day
+2014,113,Massachusetts Minutemen,2014-02-09,83.12643304709198,included_game_day
+2014,113,Massachusetts Minutemen,2014-02-12,60.590675524400154,included_game_day
+2014,113,Massachusetts Minutemen,2014-02-15,72.1275984792091,included_game_day
+2014,113,Massachusetts Minutemen,2014-02-21,78.66373192510576,included_game_day
+2014,113,Massachusetts Minutemen,2014-02-26,72.27423990476242,included_game_day
+2014,113,Massachusetts Minutemen,2014-03-01,65.68638067635122,included_game_day
+2014,113,Massachusetts Minutemen,2014-03-05,68.9142423019563,included_game_day
+2014,113,Massachusetts Minutemen,2014-03-09,64.55016605104755,included_game_day
+2014,113,Massachusetts Minutemen,2014-03-13,66.42425134050501,included_game_day
+2014,113,Massachusetts Minutemen,2014-03-14,59.52856607246021,included_game_day
+2014,113,Massachusetts Minutemen,2014-03-21,51.43633958510725,included_game_day
+2015,113,Massachusetts Minutemen,2014-11-14,5.0,included_game_day
+2015,113,Massachusetts Minutemen,2014-11-16,14.0,included_game_day
+2015,113,Massachusetts Minutemen,2014-11-18,17.4,included_game_day
+2015,113,Massachusetts Minutemen,2014-11-22,11.572999999999997,included_game_day
+2015,113,Massachusetts Minutemen,2014-11-23,14.736599999999997,included_game_day
+2015,113,Massachusetts Minutemen,2014-11-26,39.190929999999994,included_game_day
+2015,113,Massachusetts Minutemen,2014-11-29,39.81459699999999,included_game_day
+2015,113,Massachusetts Minutemen,2014-12-02,18.442316299999995,included_game_day
+2015,113,Massachusetts Minutemen,2014-12-07,11.457402149999995,included_game_day
+2015,113,Massachusetts Minutemen,2014-12-13,25.203650243999995,included_game_day
+2015,113,Massachusetts Minutemen,2014-12-20,10.150597622571494,included_game_day
+2015,113,Massachusetts Minutemen,2014-12-23,13.017273538720845,included_game_day
+2015,113,Massachusetts Minutemen,2014-12-30,20.365313710846316,included_game_day
+2015,113,Massachusetts Minutemen,2015-01-03,3.0625101923003157,included_game_day
+2015,113,Massachusetts Minutemen,2015-01-07,15.208129802732467,included_game_day
+2015,113,Massachusetts Minutemen,2015-01-11,20.306705712722643,included_game_day
+2015,113,Massachusetts Minutemen,2015-01-14,18.44633267375009,included_game_day
+2015,113,Massachusetts Minutemen,2015-01-17,23.54841506748125,included_game_day
+2015,113,Massachusetts Minutemen,2015-01-21,17.46332648336501,included_game_day
+2015,113,Massachusetts Minutemen,2015-01-29,22.892223504866106,included_game_day
+2015,113,Massachusetts Minutemen,2015-01-31,24.03222678583184,included_game_day
+2015,113,Massachusetts Minutemen,2015-02-04,25.267874581327845,included_game_day
+2015,113,Massachusetts Minutemen,2015-02-08,31.26572134299901,included_game_day
+2015,113,Massachusetts Minutemen,2015-02-11,36.239455053524196,included_game_day
+2015,113,Massachusetts Minutemen,2015-02-14,34.48812061037981,included_game_day
+2015,113,Massachusetts Minutemen,2015-02-18,24.071343853307727,included_game_day
+2015,113,Massachusetts Minutemen,2015-02-21,28.11037147261255,included_game_day
+2015,113,Massachusetts Minutemen,2015-02-25,9.66810534088943,included_game_day
+2015,113,Massachusetts Minutemen,2015-02-28,14.933334724553987,included_game_day
+2015,113,Massachusetts Minutemen,2015-03-04,15.095951106273443,included_game_day
+2015,113,Massachusetts Minutemen,2015-03-07,-0.10932957458498471,included_game_day
+2015,113,Massachusetts Minutemen,2015-03-12,-4.743844429789714,included_game_day
+2016,113,Massachusetts Minutemen,2015-11-14,3.0,included_game_day
+2016,113,Massachusetts Minutemen,2015-11-17,10.8,included_game_day
+2016,113,Massachusetts Minutemen,2015-11-19,32.32,included_game_day
+2016,113,Massachusetts Minutemen,2015-11-23,52.484,included_game_day
+2016,113,Massachusetts Minutemen,2015-11-25,28.91449,included_game_day
+2016,113,Massachusetts Minutemen,2015-12-02,52.746566,included_game_day
+2016,113,Massachusetts Minutemen,2015-12-05,35.6820144,included_game_day
+2016,113,Massachusetts Minutemen,2015-12-08,34.3621406341,included_game_day
+2016,113,Massachusetts Minutemen,2015-12-13,32.58665249459,included_game_day
+2016,113,Massachusetts Minutemen,2015-12-16,30.753230949130998,included_game_day
+2016,113,Massachusetts Minutemen,2015-12-21,4.0570632516386205,included_game_day
+2016,113,Massachusetts Minutemen,2015-12-29,2.5739339700734627,included_game_day
+2016,113,Massachusetts Minutemen,2016-01-03,4.35500217122915,included_game_day
+2016,113,Massachusetts Minutemen,2016-01-06,-17.348547103011366,included_game_day
+2016,113,Massachusetts Minutemen,2016-01-09,-23.74564151738348,included_game_day
+2016,113,Massachusetts Minutemen,2016-01-12,-27.915565566551656,included_game_day
+2016,113,Massachusetts Minutemen,2016-01-16,-33.19991595722228,included_game_day
+2016,113,Massachusetts Minutemen,2016-01-23,-49.68195384644743,included_game_day
+2016,113,Massachusetts Minutemen,2016-01-27,-39.791206192818635,included_game_day
+2016,113,Massachusetts Minutemen,2016-01-30,-46.69009114587239,included_game_day
+2016,113,Massachusetts Minutemen,2016-02-02,-34.46899808226768,included_game_day
+2016,113,Massachusetts Minutemen,2016-02-06,-40.946354415774486,included_game_day
+2016,113,Massachusetts Minutemen,2016-02-11,-22.525297255412486,included_game_day
+2016,113,Massachusetts Minutemen,2016-02-14,-6.353136557952865,included_game_day
+2016,113,Massachusetts Minutemen,2016-02-17,-14.631223916295156,included_game_day
+2016,113,Massachusetts Minutemen,2016-02-21,-16.234706836461214,included_game_day
+2016,113,Massachusetts Minutemen,2016-02-24,-23.524598758090164,included_game_day
+2016,113,Massachusetts Minutemen,2016-02-27,-14.431263237190493,included_game_day
+2016,113,Massachusetts Minutemen,2016-03-03,-22.91880167596382,included_game_day
+2016,113,Massachusetts Minutemen,2016-03-05,-13.952639829629764,included_game_day
+2016,113,Massachusetts Minutemen,2016-03-10,-2.2121376896023683,included_game_day
+2016,113,Massachusetts Minutemen,2016-03-11,-6.858331848836913,included_game_day
+2017,113,Massachusetts Minutemen,2016-11-11,11.0,included_game_day
+2017,113,Massachusetts Minutemen,2016-11-14,10.9,included_game_day
+2017,113,Massachusetts Minutemen,2016-11-17,9.190000000000001,included_game_day
+2017,113,Massachusetts Minutemen,2016-11-20,12.865000000000002,included_game_day
+2017,113,Massachusetts Minutemen,2016-11-26,9.601150000000002,included_game_day
+2017,113,Massachusetts Minutemen,2016-11-30,12.626799700000003,included_game_day
+2017,113,Massachusetts Minutemen,2016-12-03,13.729247730000004,included_game_day
+2017,113,Massachusetts Minutemen,2016-12-08,32.17789081414,included_game_day
+2017,113,Massachusetts Minutemen,2016-12-10,33.716109657406,included_game_day
+2017,113,Massachusetts Minutemen,2016-12-13,23.0202767716654,included_game_day
+2017,113,Massachusetts Minutemen,2016-12-17,31.64455779437912,included_game_day
+2017,113,Massachusetts Minutemen,2016-12-22,36.6662328814689,included_game_day
+2017,113,Massachusetts Minutemen,2016-12-28,46.00929233017247,included_game_day
+2017,113,Massachusetts Minutemen,2016-12-30,30.500536317522442,included_game_day
+2017,113,Massachusetts Minutemen,2017-01-04,29.93218996054061,included_game_day
+2017,113,Massachusetts Minutemen,2017-01-07,19.84988897558276,included_game_day
+2017,113,Massachusetts Minutemen,2017-01-11,36.49987722407306,included_game_day
+2017,113,Massachusetts Minutemen,2017-01-15,41.47626736647499,included_game_day
+2017,113,Massachusetts Minutemen,2017-01-18,39.253369955059455,included_game_day
+2017,113,Massachusetts Minutemen,2017-01-21,26.01702355972604,included_game_day
+2017,113,Massachusetts Minutemen,2017-01-25,14.13351551023931,included_game_day
+2017,113,Massachusetts Minutemen,2017-01-28,8.227888207865728,included_game_day
+2017,113,Massachusetts Minutemen,2017-02-01,1.233870667102071,included_game_day
+2017,113,Massachusetts Minutemen,2017-02-07,-0.5182210575640092,included_game_day
+2017,113,Massachusetts Minutemen,2017-02-11,12.90908070588467,included_game_day
+2017,113,Massachusetts Minutemen,2017-02-15,-21.995606018353932,included_game_day
+2017,113,Massachusetts Minutemen,2017-02-18,-23.51037431333608,included_game_day
+2017,113,Massachusetts Minutemen,2017-02-23,-32.3547180009705,included_game_day
+2017,113,Massachusetts Minutemen,2017-02-26,-19.645466684357977,included_game_day
+2017,113,Massachusetts Minutemen,2017-03-01,-25.848021148598917,included_game_day
+2017,113,Massachusetts Minutemen,2017-03-04,-20.00015331012825,included_game_day
+2017,113,Massachusetts Minutemen,2017-03-08,-14.186173660208865,included_game_day
+2017,113,Massachusetts Minutemen,2017-03-09,-22.089277354424272,included_game_day
+2018,113,Massachusetts Minutemen,2017-11-10,2.0,included_game_day
+2018,113,Massachusetts Minutemen,2017-11-12,1.7999999999999998,included_game_day
+2018,113,Massachusetts Minutemen,2017-11-19,22.054,included_game_day
+2018,113,Massachusetts Minutemen,2017-11-21,17.737199999999998,included_game_day
+2018,113,Massachusetts Minutemen,2017-11-24,7.049949999999997,included_game_day
+2018,113,Massachusetts Minutemen,2017-11-25,4.954439999999998,included_game_day
+2018,113,Massachusetts Minutemen,2017-11-29,0.798806599999998,included_game_day
+2018,113,Massachusetts Minutemen,2017-12-02,2.6818905899999983,included_game_day
+2018,113,Massachusetts Minutemen,2017-12-06,8.528194248999998,included_game_day
+2018,113,Massachusetts Minutemen,2017-12-09,18.462584890229998,included_game_day
+2018,113,Massachusetts Minutemen,2017-12-16,26.987789756479998,included_game_day
+2018,113,Massachusetts Minutemen,2017-12-20,14.539637362043198,included_game_day
+2018,113,Massachusetts Minutemen,2017-12-22,11.802071919965716,included_game_day
+2018,113,Massachusetts Minutemen,2017-12-30,1.9401671829008915,included_game_day
+2018,113,Massachusetts Minutemen,2018-01-03,-14.124995481269432,included_game_day
+2018,113,Massachusetts Minutemen,2018-01-06,-5.286794121191544,included_game_day
+2018,113,Massachusetts Minutemen,2018-01-10,0.3446614048369865,included_game_day
+2018,113,Massachusetts Minutemen,2018-01-14,0.4583363278678818,included_game_day
+2018,113,Massachusetts Minutemen,2018-01-17,-8.863849136484014,included_game_day
+2018,113,Massachusetts Minutemen,2018-01-20,-29.889041206971918,included_game_day
+2018,113,Massachusetts Minutemen,2018-01-24,-39.21493143804135,included_game_day
+2018,113,Massachusetts Minutemen,2018-01-27,-53.733983487888445,included_game_day
+2018,113,Massachusetts Minutemen,2018-01-30,-42.49808988984718,included_game_day
+2018,113,Massachusetts Minutemen,2018-02-03,-35.73875323493491,included_game_day
+2018,113,Massachusetts Minutemen,2018-02-10,-41.416817233230766,included_game_day
+2018,113,Massachusetts Minutemen,2018-02-14,-57.91756244081746,included_game_day
+2018,113,Massachusetts Minutemen,2018-02-17,-43.497508750823485,included_game_day
+2018,113,Massachusetts Minutemen,2018-02-21,-48.07632163190519,included_game_day
+2018,113,Massachusetts Minutemen,2018-02-24,-44.10917966866368,included_game_day
+2018,113,Massachusetts Minutemen,2018-02-28,-65.16473415235168,included_game_day
+2018,113,Massachusetts Minutemen,2018-03-03,-52.86687085477,included_game_day
+2018,113,Massachusetts Minutemen,2018-03-07,-44.31221623322868,included_game_day
+2018,113,Massachusetts Minutemen,2018-03-08,-48.289491737984385,included_game_day
+2019,113,Massachusetts Minutemen,2018-11-06,5.0,included_game_day
+2019,113,Massachusetts Minutemen,2018-11-09,30.5,included_game_day
+2019,113,Massachusetts Minutemen,2018-11-13,20.09,included_game_day
+2019,113,Massachusetts Minutemen,2018-11-16,10.081,included_game_day
+2019,113,Massachusetts Minutemen,2018-11-19,32.1271,included_game_day
+2019,113,Massachusetts Minutemen,2018-11-22,52.5175,included_game_day
+2019,113,Massachusetts Minutemen,2018-11-23,32.99472,included_game_day
+2019,113,Massachusetts Minutemen,2018-11-28,30.368338,included_game_day
+2019,113,Massachusetts Minutemen,2018-12-04,22.799848056000002,included_game_day
+2019,113,Massachusetts Minutemen,2018-12-07,27.6912871261,included_game_day
+2019,113,Massachusetts Minutemen,2018-12-12,29.83070023669,included_game_day
+2019,113,Massachusetts Minutemen,2018-12-21,21.122587916876874,included_game_day
+2019,113,Massachusetts Minutemen,2018-12-30,7.498509592649553,included_game_day
+2019,113,Massachusetts Minutemen,2019-01-05,-10.668301819154896,included_game_day
+2019,113,Massachusetts Minutemen,2019-01-09,-5.18077811953995,included_game_day
+2019,113,Massachusetts Minutemen,2019-01-13,-0.28616572531329787,included_game_day
+2019,113,Massachusetts Minutemen,2019-01-16,-2.835794414545849,included_game_day
+2019,113,Massachusetts Minutemen,2019-01-19,-11.362870713038205,included_game_day
+2019,113,Massachusetts Minutemen,2019-01-23,-27.539881690826334,included_game_day
+2019,113,Massachusetts Minutemen,2019-01-27,-16.733124868144415,included_game_day
+2019,113,Massachusetts Minutemen,2019-01-30,-24.872091545851255,included_game_day
+2019,113,Massachusetts Minutemen,2019-02-02,-25.303724310509576,included_game_day
+2019,113,Massachusetts Minutemen,2019-02-06,-48.94595402229983,included_game_day
+2019,113,Massachusetts Minutemen,2019-02-09,-37.78257571203727,included_game_day
+2019,113,Massachusetts Minutemen,2019-02-13,-33.65406983340673,included_game_day
+2019,113,Massachusetts Minutemen,2019-02-20,-46.267024891151536,included_game_day
+2019,113,Massachusetts Minutemen,2019-02-23,-47.24188299496071,included_game_day
+2019,113,Massachusetts Minutemen,2019-02-26,-61.88130574021015,included_game_day
+2019,113,Massachusetts Minutemen,2019-03-02,-59.005675979504716,included_game_day
+2019,113,Massachusetts Minutemen,2019-03-06,-47.59986046812234,included_game_day
+2019,113,Massachusetts Minutemen,2019-03-09,-58.50152517714021,included_game_day
+2019,113,Massachusetts Minutemen,2019-03-13,-66.50317298160807,included_game_day
+2020,113,Massachusetts Minutemen,2019-11-05,12.0,included_game_day
+2020,113,Massachusetts Minutemen,2019-11-09,15.1,included_game_day
+2020,113,Massachusetts Minutemen,2019-11-12,20.509999999999998,included_game_day
+2020,113,Massachusetts Minutemen,2019-11-16,53.913999999999994,included_game_day
+2020,113,Massachusetts Minutemen,2019-11-20,55.882099999999994,included_game_day
+2020,113,Massachusetts Minutemen,2019-11-23,43.786165,included_game_day
+2020,113,Massachusetts Minutemen,2019-11-24,28.811825999999996,included_game_day
+2020,113,Massachusetts Minutemen,2019-11-29,9.38983845,included_game_day
+2020,113,Massachusetts Minutemen,2019-12-04,3.119747896699999,included_game_day
+2020,113,Massachusetts Minutemen,2019-12-07,-28.23788310147,included_game_day
+2020,113,Massachusetts Minutemen,2019-12-11,-24.185218753203,included_game_day
+2020,113,Massachusetts Minutemen,2019-12-20,-13.94005204644899,included_game_day
+2020,113,Massachusetts Minutemen,2019-12-30,-11.034871585493072,included_game_day
+2020,113,Massachusetts Minutemen,2020-01-05,-5.077270233675783,included_game_day
+2020,113,Massachusetts Minutemen,2020-01-08,0.8448947852391839,included_game_day
+2020,113,Massachusetts Minutemen,2020-01-11,-10.82877677856223,included_game_day
+2020,113,Massachusetts Minutemen,2020-01-15,-17.76100181259498,included_game_day
+2020,113,Massachusetts Minutemen,2020-01-18,-44.60929905549399,included_game_day
+2020,113,Massachusetts Minutemen,2020-01-22,-47.75179722893129,included_game_day
+2020,113,Massachusetts Minutemen,2020-01-25,-33.42573588285735,included_game_day
+2020,113,Massachusetts Minutemen,2020-01-29,-25.22644772954091,included_game_day
+2020,113,Massachusetts Minutemen,2020-02-01,-50.185392754952844,included_game_day
+2020,113,Massachusetts Minutemen,2020-02-04,-38.9847584056044,included_game_day
+2020,113,Massachusetts Minutemen,2020-02-09,-38.21119670780067,included_game_day
+2020,113,Massachusetts Minutemen,2020-02-15,-31.100177181394596,included_game_day
+2020,113,Massachusetts Minutemen,2020-02-18,-22.88045701029361,included_game_day
+2020,113,Massachusetts Minutemen,2020-02-22,-15.12799589712871,included_game_day
+2020,113,Massachusetts Minutemen,2020-02-26,-3.7497639103792615,included_game_day
+2020,113,Massachusetts Minutemen,2020-02-29,-15.66654566262892,included_game_day
+2020,113,Massachusetts Minutemen,2020-03-04,-1.7122837357181435,included_game_day
+2020,113,Massachusetts Minutemen,2020-03-07,-1.237174598956801,included_game_day
+2021,113,Massachusetts Minutemen,2020-12-11,12.0,included_game_day
+2021,113,Massachusetts Minutemen,2020-12-13,9.6,included_game_day
+2021,113,Massachusetts Minutemen,2020-12-16,30.3637527,included_game_day
+2021,113,Massachusetts Minutemen,2020-12-21,22.20690454626,included_game_day
+2021,113,Massachusetts Minutemen,2020-12-30,15.149562084303,included_game_day
+2021,113,Massachusetts Minutemen,2021-01-09,28.772548978132598,included_game_day
+2021,113,Massachusetts Minutemen,2021-01-13,28.206121433904542,included_game_day
+2021,113,Massachusetts Minutemen,2021-01-17,41.568039936815936,included_game_day
+2021,113,Massachusetts Minutemen,2021-01-24,30.60430792359294,included_game_day
+2021,113,Massachusetts Minutemen,2021-02-03,21.802300786213234,included_game_day
+2021,113,Massachusetts Minutemen,2021-02-06,38.32925648507781,included_game_day
+2021,113,Massachusetts Minutemen,2021-02-23,27.68746356088959,included_game_day
+2021,113,Massachusetts Minutemen,2021-03-01,13.312688204101581,included_game_day
+2021,113,Massachusetts Minutemen,2021-03-04,42.62069268515122,included_game_day
+2021,113,Massachusetts Minutemen,2021-03-05,32.19007195161585,included_game_day
+2022,113,Massachusetts Minutemen,2021-11-09,14.0,included_game_day
+2022,113,Massachusetts Minutemen,2021-11-12,-4.399999999999999,included_game_day
+2022,113,Massachusetts Minutemen,2021-11-15,19.34,included_game_day
+2022,113,Massachusetts Minutemen,2021-11-18,3.0519999999999996,included_game_day
+2022,113,Massachusetts Minutemen,2021-11-19,5.464474999999999,included_game_day
+2022,113,Massachusetts Minutemen,2021-11-21,-0.6626925000000012,included_game_day
+2022,113,Massachusetts Minutemen,2021-11-24,8.924118049999997,included_game_day
+2022,113,Massachusetts Minutemen,2021-11-27,7.939894244999997,included_game_day
+2022,113,Massachusetts Minutemen,2021-12-04,15.581097387499998,included_game_day
+2022,113,Massachusetts Minutemen,2021-12-07,10.528076345349998,included_game_day
+2022,113,Massachusetts Minutemen,2021-12-11,1.0449334038149978,included_game_day
+2022,113,Massachusetts Minutemen,2021-12-19,5.75101377127637,included_game_day
+2022,113,Massachusetts Minutemen,2022-01-05,2.059651731597773,included_game_day
+2022,113,Massachusetts Minutemen,2022-01-08,-5.301951327593622,included_game_day
+2022,113,Massachusetts Minutemen,2022-01-11,-3.084840983786675,included_game_day
+2022,113,Massachusetts Minutemen,2022-01-15,-11.727834156259165,included_game_day
+2022,113,Massachusetts Minutemen,2022-01-20,-0.8456148281799241,included_game_day
+2022,113,Massachusetts Minutemen,2022-01-23,-23.139839365716533,included_game_day
+2022,113,Massachusetts Minutemen,2022-01-26,-13.917370986016987,included_game_day
+2022,113,Massachusetts Minutemen,2022-01-30,-21.697127994670318,included_game_day
+2022,113,Massachusetts Minutemen,2022-02-05,-1.8443358238174845,included_game_day
+2022,113,Massachusetts Minutemen,2022-02-09,-16.243638786538085,included_game_day
+2022,113,Massachusetts Minutemen,2022-02-12,-15.376419766708908,included_game_day
+2022,113,Massachusetts Minutemen,2022-02-16,-16.5372943805139,included_game_day
+2022,113,Massachusetts Minutemen,2022-02-19,-15.665253024528901,included_game_day
+2022,113,Massachusetts Minutemen,2022-02-23,-20.193854002802773,included_game_day
+2022,113,Massachusetts Minutemen,2022-02-26,-28.593294382654626,included_game_day
+2022,113,Massachusetts Minutemen,2022-02-28,-36.16600304686359,included_game_day
+2022,113,Massachusetts Minutemen,2022-03-02,-28.224169978230755,included_game_day
+2022,113,Massachusetts Minutemen,2022-03-05,-16.64680996017013,included_game_day
+2022,113,Massachusetts Minutemen,2022-03-10,-5.341569524462644,included_game_day
+2022,113,Massachusetts Minutemen,2022-03-11,3.2265241989311004,included_game_day
+2023,113,Massachusetts Minutemen,2022-11-07,24.0,included_game_day
+2023,113,Massachusetts Minutemen,2022-11-10,6.800000000000001,included_game_day
+2023,113,Massachusetts Minutemen,2022-11-17,11.123000000000001,included_game_day
+2023,113,Massachusetts Minutemen,2022-11-18,11.546700000000001,included_game_day
+2023,113,Massachusetts Minutemen,2022-11-20,21.822950000000002,included_game_day
+2023,113,Massachusetts Minutemen,2022-11-29,28.04861294,included_game_day
+2023,113,Massachusetts Minutemen,2022-12-02,34.748618841,included_game_day
+2023,113,Massachusetts Minutemen,2022-12-05,35.136165648900004,included_game_day
+2023,113,Massachusetts Minutemen,2022-12-08,29.992872555592005,included_game_day
+2023,113,Massachusetts Minutemen,2022-12-11,42.066715571690004,included_game_day
+2023,113,Massachusetts Minutemen,2022-12-17,23.068412165082005,included_game_day
+2023,113,Massachusetts Minutemen,2022-12-20,23.547749666563234,included_game_day
+2023,113,Massachusetts Minutemen,2022-12-31,4.678788794988314,included_game_day
+2023,113,Massachusetts Minutemen,2023-01-04,12.50984072586466,included_game_day
+2023,113,Massachusetts Minutemen,2023-01-07,5.460753338910135,included_game_day
+2023,113,Massachusetts Minutemen,2023-01-11,-4.1436276390973665,included_game_day
+2023,113,Massachusetts Minutemen,2023-01-14,1.1335666430295595,included_game_day
+2023,113,Massachusetts Minutemen,2023-01-17,-18.18059623537836,included_game_day
+2023,113,Massachusetts Minutemen,2023-01-21,-19.175850156513942,included_game_day
+2023,113,Massachusetts Minutemen,2023-01-25,-9.409676159569848,included_game_day
+2023,113,Massachusetts Minutemen,2023-01-28,-1.310223408779473,included_game_day
+2023,113,Massachusetts Minutemen,2023-02-01,-7.956265865282791,included_game_day
+2023,113,Massachusetts Minutemen,2023-02-04,-23.612278736507243,included_game_day
+2023,113,Massachusetts Minutemen,2023-02-08,-25.346403962156213,included_game_day
+2023,113,Massachusetts Minutemen,2023-02-11,-34.665572366744094,included_game_day
+2023,113,Massachusetts Minutemen,2023-02-14,-40.70244594837742,included_game_day
+2023,113,Massachusetts Minutemen,2023-02-18,-11.804010686742217,included_game_day
+2023,113,Massachusetts Minutemen,2023-02-22,-23.310260633009463,included_game_day
+2023,113,Massachusetts Minutemen,2023-03-01,-21.264124289408272,included_game_day
+2023,113,Massachusetts Minutemen,2023-03-04,-11.578388631095974,included_game_day
+2023,113,Massachusetts Minutemen,2023-03-07,-45.54710637915898,included_game_day
+2024,113,Massachusetts Minutemen,2023-11-07,18.0,included_game_day
+2024,113,Massachusetts Minutemen,2023-11-13,34.22,included_game_day
+2024,113,Massachusetts Minutemen,2023-11-17,28.375,included_game_day
+2024,113,Massachusetts Minutemen,2023-11-22,49.8345,included_game_day
+2024,113,Massachusetts Minutemen,2023-12-02,51.40668659,included_game_day
+2024,113,Massachusetts Minutemen,2023-12-06,34.780003183999995,included_game_day
+2024,113,Massachusetts Minutemen,2023-12-09,45.14462353059999,included_game_day
+2024,113,Massachusetts Minutemen,2023-12-16,47.18265768991299,included_game_day
+2024,113,Massachusetts Minutemen,2023-12-21,40.277614131284295,included_game_day
+2024,113,Massachusetts Minutemen,2023-12-23,53.77794226008555,included_game_day
+2024,113,Massachusetts Minutemen,2023-12-24,67.48909751222986,included_game_day
+2024,113,Massachusetts Minutemen,2023-12-30,56.99023622115329,included_game_day
+2024,113,Massachusetts Minutemen,2024-01-03,70.4295476426414,included_game_day
+2024,113,Massachusetts Minutemen,2024-01-07,71.55455092448122,included_game_day
+2024,113,Massachusetts Minutemen,2024-01-10,76.10881571005659,included_game_day
+2024,113,Massachusetts Minutemen,2024-01-13,58.998429590769895,included_game_day
+2024,113,Massachusetts Minutemen,2024-01-17,59.25834544028058,included_game_day
+2024,113,Massachusetts Minutemen,2024-01-20,66.8300477401054,included_game_day
+2024,113,Massachusetts Minutemen,2024-01-23,62.76526613602014,included_game_day
+2024,113,Massachusetts Minutemen,2024-01-27,65.5927656797544,included_game_day
+2024,113,Massachusetts Minutemen,2024-02-03,61.197887626876025,included_game_day
+2024,113,Massachusetts Minutemen,2024-02-07,60.2357479063915,included_game_day
+2024,113,Massachusetts Minutemen,2024-02-11,51.579444037167335,included_game_day
+2024,113,Massachusetts Minutemen,2024-02-14,66.68168448466884,included_game_day
+2024,113,Massachusetts Minutemen,2024-02-17,57.09963222896475,included_game_day
+2024,113,Massachusetts Minutemen,2024-02-20,79.10192076199935,included_game_day
+2024,113,Massachusetts Minutemen,2024-02-24,65.32860305118078,included_game_day
+2024,113,Massachusetts Minutemen,2024-02-27,68.57456775998624,included_game_day
+2024,113,Massachusetts Minutemen,2024-03-02,71.0551574966131,included_game_day
+2024,113,Massachusetts Minutemen,2024-03-06,61.345235868432184,included_game_day
+2024,113,Massachusetts Minutemen,2024-03-14,47.03622601821145,included_game_day
+2025,113,Massachusetts Minutemen,2024-11-04,26.0,included_game_day
+2025,113,Massachusetts Minutemen,2024-11-08,22.9,included_game_day
+2025,113,Massachusetts Minutemen,2024-11-13,12.409999999999998,included_game_day
+2025,113,Massachusetts Minutemen,2024-11-16,5.216999999999999,included_game_day
+2025,113,Massachusetts Minutemen,2024-11-23,-0.08557600000000143,included_game_day
+2025,113,Massachusetts Minutemen,2024-11-24,-29.3697024,included_game_day
+2025,113,Massachusetts Minutemen,2024-11-27,-18.076162160000003,included_game_day
+2025,113,Massachusetts Minutemen,2024-12-01,-13.659559592000004,included_game_day
+2025,113,Massachusetts Minutemen,2024-12-04,-21.589249199400005,included_game_day
+2025,113,Massachusetts Minutemen,2024-12-07,-38.49121893886,included_game_day
+2025,113,Massachusetts Minutemen,2024-12-18,-30.8565881268214,included_game_day
+2025,113,Massachusetts Minutemen,2024-12-21,-38.01934005772926,included_game_day
+2025,113,Massachusetts Minutemen,2024-12-31,-33.54985056463783,included_game_day
+2025,113,Massachusetts Minutemen,2025-01-04,-45.78796920234185,included_game_day
+2025,113,Massachusetts Minutemen,2025-01-08,-35.06172020765199,included_game_day
+2025,113,Massachusetts Minutemen,2025-01-11,-29.175091597448134,included_game_day
+2025,113,Massachusetts Minutemen,2025-01-15,-25.168092712916106,included_game_day
+2025,113,Massachusetts Minutemen,2025-01-19,-4.922308076489234,included_game_day
+2025,113,Massachusetts Minutemen,2025-01-22,10.41121576057688,included_game_day
+2025,113,Massachusetts Minutemen,2025-01-29,6.789418484183852,included_game_day
+2025,113,Massachusetts Minutemen,2025-02-01,20.929577363097746,included_game_day
+2025,113,Massachusetts Minutemen,2025-02-04,17.381534923132463,included_game_day
+2025,113,Massachusetts Minutemen,2025-02-09,37.09358082719307,included_game_day
+2025,113,Massachusetts Minutemen,2025-02-12,23.223392844646618,included_game_day
+2025,113,Massachusetts Minutemen,2025-02-15,4.6877967666676845,included_game_day
+2025,113,Massachusetts Minutemen,2025-02-19,-7.07750035194001,included_game_day
+2025,113,Massachusetts Minutemen,2025-02-22,-21.958118980664786,included_game_day
+2025,113,Massachusetts Minutemen,2025-03-01,-20.35034257190488,included_game_day
+2025,113,Massachusetts Minutemen,2025-03-05,-13.568160437740481,included_game_day
+2025,113,Massachusetts Minutemen,2025-03-08,-34.721711281643366,included_game_day
+2025,113,Massachusetts Minutemen,2025-03-12,-42.37842639341201,included_game_day
+2026,113,Massachusetts Minutemen,2025-11-03,-9.0,included_game_day
+2026,113,Massachusetts Minutemen,2025-11-08,7.5,included_game_day
+2026,113,Massachusetts Minutemen,2025-11-13,15.899000000000001,included_game_day
+2026,113,Massachusetts Minutemen,2025-11-16,16.9621,included_game_day
+2026,113,Massachusetts Minutemen,2025-11-21,9.25505,included_game_day
+2026,113,Massachusetts Minutemen,2025-11-22,-0.1263659999999991,included_game_day
+2026,113,Massachusetts Minutemen,2025-11-24,6.034067800000001,included_game_day
+2026,113,Massachusetts Minutemen,2025-12-03,8.87244077183,included_game_day
+2026,113,Massachusetts Minutemen,2025-12-06,18.150956035647,included_game_day
+2026,113,Massachusetts Minutemen,2025-12-10,19.3951446210003,included_game_day
+2026,113,Massachusetts Minutemen,2025-12-13,27.49969743063427,included_game_day
+2026,113,Massachusetts Minutemen,2025-12-20,14.030512729090844,included_game_day
+2026,113,Massachusetts Minutemen,2025-12-30,6.925107853426848,included_game_day
+2026,113,Massachusetts Minutemen,2026-01-03,6.6662795761453975,included_game_day
+2026,113,Massachusetts Minutemen,2026-01-06,4.865512676442472,included_game_day
+2026,113,Massachusetts Minutemen,2026-01-10,1.0155415639400838,included_game_day
+2026,113,Massachusetts Minutemen,2026-01-13,4.351725748908934,included_game_day
+2026,113,Massachusetts Minutemen,2026-01-17,-4.71060197244192,included_game_day
+2026,113,Massachusetts Minutemen,2026-01-20,-4.861752985678456,included_game_day
+2026,113,Massachusetts Minutemen,2026-01-23,-0.23130578715276862,included_game_day
+2026,113,Massachusetts Minutemen,2026-01-27,9.935485792838163,included_game_day
+2026,113,Massachusetts Minutemen,2026-01-31,3.485743853376638,included_game_day
+2026,113,Massachusetts Minutemen,2026-02-03,0.46708261860872646,included_game_day
+2026,113,Massachusetts Minutemen,2026-02-07,-2.648993181019608,included_game_day
+2026,113,Massachusetts Minutemen,2026-02-13,1.8181629708712554,included_game_day
+2026,113,Massachusetts Minutemen,2026-02-17,-0.5839448486547036,included_game_day
+2026,113,Massachusetts Minutemen,2026-02-21,-9.553889703874447,included_game_day
+2026,113,Massachusetts Minutemen,2026-02-24,-15.354170058721468,included_game_day
+2026,113,Massachusetts Minutemen,2026-02-28,-31.67622230902109,included_game_day
+2026,113,Massachusetts Minutemen,2026-03-03,-22.210018151385917,included_game_day
+2026,113,Massachusetts Minutemen,2026-03-12,-8.564940248166875,included_game_day
+2026,113,Massachusetts Minutemen,2026-03-13,-13.591010128031062,included_game_day
+2027,113,Massachusetts Minutemen,2026-11-02,14.0,included_game_day
+2027,113,Massachusetts Minutemen,2026-11-06,-1.0999999999999996,included_game_day
+2027,113,Massachusetts Minutemen,2026-11-11,6.889,included_game_day
+2027,113,Massachusetts Minutemen,2026-11-17,-5.4705,included_game_day
+2027,113,Massachusetts Minutemen,2026-11-21,21.849245,included_game_day

@@ -1,0 +1,1034 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1989,253,Southern Utah,1988-11-25,17.0,included_game_day
+1989,253,Southern Utah,1988-11-26,26.6,included_game_day
+1989,253,Southern Utah,1988-11-28,15.940000000000001,included_game_day
+1989,253,Southern Utah,1988-12-03,26.546,included_game_day
+1989,253,Southern Utah,1988-12-05,-4.212600000000002,included_game_day
+1989,253,Southern Utah,1988-12-07,-15.58877,included_game_day
+1989,253,Southern Utah,1988-12-09,-25.308692999999998,included_game_day
+1989,253,Southern Utah,1988-12-10,-37.3126237,included_game_day
+1989,253,Southern Utah,1988-12-19,-61.120905716100005,included_game_day
+1989,253,Southern Utah,1988-12-20,-113.2519069869065,included_game_day
+1989,253,Southern Utah,1988-12-22,-111.1483483825366,included_game_day
+1989,253,Southern Utah,1988-12-27,-95.67245647428294,included_game_day
+1989,253,Southern Utah,1988-12-29,-100.94050306045501,included_game_day
+1989,253,Southern Utah,1988-12-31,-84.83002879440951,included_game_day
+1989,253,Southern Utah,1989-01-02,-60.53922671520275,included_game_day
+1989,253,Southern Utah,1989-01-03,-9.108482690109923,included_game_day
+1989,253,Southern Utah,1989-01-07,-19.749339641049122,included_game_day
+1989,253,Southern Utah,1989-01-16,-18.21045231550349,included_game_day
+1989,253,Southern Utah,1989-01-24,-39.546476619050004,included_game_day
+1989,253,Southern Utah,1989-01-28,-53.29642608435178,included_game_day
+1989,253,Southern Utah,1989-01-30,-57.26460474116483,included_game_day
+1989,253,Southern Utah,1989-01-31,-68.7506887826355,included_game_day
+1989,253,Southern Utah,1989-02-06,-75.7209884480646,included_game_day
+1989,253,Southern Utah,1989-02-09,-84.48048190372279,included_game_day
+1989,253,Southern Utah,1989-02-11,-82.43967484722731,included_game_day
+1989,253,Southern Utah,1989-02-20,-82.0916874223017,included_game_day
+1990,253,Southern Utah,1989-11-27,2.0,included_game_day
+1990,253,Southern Utah,1989-12-02,11.8,included_game_day
+1990,253,Southern Utah,1989-12-08,-0.5013159999999992,included_game_day
+1990,253,Southern Utah,1989-12-09,14.7338748,included_game_day
+1990,253,Southern Utah,1989-12-16,-0.5496740091000003,included_game_day
+1990,253,Southern Utah,1989-12-19,14.25747108556,included_game_day
+1990,253,Southern Utah,1989-12-23,12.61562306955015,included_game_day
+1990,253,Southern Utah,1989-12-28,-2.7619874569699654,included_game_day
+1990,253,Southern Utah,1989-12-30,-1.0021215979156688,included_game_day
+1990,253,Southern Utah,1990-01-04,-16.28848492632554,included_game_day
+1990,253,Southern Utah,1990-01-09,-53.603676707202155,included_game_day
+1990,253,Southern Utah,1990-01-13,-48.198868466430405,included_game_day
+1990,253,Southern Utah,1990-01-18,-60.83026456245108,included_game_day
+1990,253,Southern Utah,1990-01-27,-70.22602750958576,included_game_day
+1990,253,Southern Utah,1990-01-29,-63.6693175723698,included_game_day
+1990,253,Southern Utah,1990-02-08,-58.385692839205475,included_game_day
+1990,253,Southern Utah,1990-02-12,-61.78480558882042,included_game_day
+1990,253,Southern Utah,1990-02-15,-64.9996101320308,included_game_day
+1990,253,Southern Utah,1990-02-17,-66.13064885963858,included_game_day
+1990,253,Southern Utah,1990-02-22,-54.86716771447895,included_game_day
+1990,253,Southern Utah,1990-02-24,-32.54843789066801,included_game_day
+1990,253,Southern Utah,1990-02-27,-33.679830382724056,included_game_day
+1990,253,Southern Utah,1990-03-01,-26.725543595714132,included_game_day
+1990,253,Southern Utah,1990-03-03,-45.80214303376708,included_game_day
+1991,253,Southern Utah,1990-11-24,42.0,included_game_day
+1991,253,Southern Utah,1990-11-26,40.3,included_game_day
+1991,253,Southern Utah,1990-11-29,22.339999999999996,included_game_day
+1991,253,Southern Utah,1990-12-01,12.123999999999997,included_game_day
+1991,253,Southern Utah,1990-12-08,22.355342999999998,included_game_day
+1991,253,Southern Utah,1990-12-15,41.544295691,included_game_day
+1991,253,Southern Utah,1990-12-19,54.7547688219,included_game_day
+1991,253,Southern Utah,1990-12-21,27.68374672671,included_game_day
+1991,253,Southern Utah,1990-12-27,24.815514214731973,included_game_day
+1991,253,Southern Utah,1990-12-30,21.375963308531077,included_game_day
+1991,253,Southern Utah,1991-01-02,40.13852460422939,included_game_day
+1991,253,Southern Utah,1991-01-05,32.20798112845633,included_game_day
+1991,253,Southern Utah,1991-01-07,37.80887696369555,included_game_day
+1991,253,Southern Utah,1991-01-19,24.330376356753675,included_game_day
+1991,253,Southern Utah,1991-01-24,5.759986514862842,included_game_day
+1991,253,Southern Utah,1991-01-26,4.432040630194324,included_game_day
+1991,253,Southern Utah,1991-01-30,30.777972454776467,included_game_day
+1991,253,Southern Utah,1991-02-02,20.7100724958908,included_game_day
+1991,253,Southern Utah,1991-02-06,23.47800174135441,included_game_day
+1991,253,Southern Utah,1991-02-09,13.918259799811363,included_game_day
+1991,253,Southern Utah,1991-02-17,1.410155175503526,included_game_day
+1991,253,Southern Utah,1991-02-19,-0.7127541387735898,included_game_day
+1991,253,Southern Utah,1991-02-23,6.8190658576973,included_game_day
+1991,253,Southern Utah,1991-02-27,-0.7128716277723504,included_game_day
+1991,253,Southern Utah,1991-03-01,8.065778117951329,included_game_day
+1992,253,Southern Utah,1991-11-22,20.0,included_game_day
+1992,253,Southern Utah,1991-11-27,15.76,included_game_day
+1992,253,Southern Utah,1991-11-30,10.924,included_game_day
+1992,253,Southern Utah,1991-12-05,41.783699999999996,included_game_day
+1992,253,Southern Utah,1991-12-07,40.83501,included_game_day
+1992,253,Southern Utah,1991-12-09,48.182019,included_game_day
+1992,253,Southern Utah,1991-12-14,54.4468271,included_game_day
+1992,253,Southern Utah,1991-12-16,65.67093021,included_game_day
+1992,253,Southern Utah,1991-12-21,50.51756692927,included_game_day
+1992,253,Southern Utah,1991-12-28,60.743731939856,included_game_day
+1992,253,Southern Utah,1992-01-02,47.17758353424442,included_game_day
+1992,253,Southern Utah,1992-01-11,48.399581909971204,included_game_day
+1992,253,Southern Utah,1992-01-18,53.5732272882947,included_game_day
+1992,253,Southern Utah,1992-01-22,40.09103820689976,included_game_day
+1992,253,Southern Utah,1992-01-27,50.018107554343295,included_game_day
+1992,253,Southern Utah,1992-02-01,53.969951911952165,included_game_day
+1992,253,Southern Utah,1992-02-04,27.42832688172631,included_game_day
+1992,253,Southern Utah,1992-02-10,14.649688726880527,included_game_day
+1992,253,Southern Utah,1992-02-11,-7.506703603417957,included_game_day
+1992,253,Southern Utah,1992-02-18,2.6612736430167185,included_game_day
+1992,253,Southern Utah,1992-02-22,-5.350677981821482,included_game_day
+1992,253,Southern Utah,1992-02-24,-2.7661882872733106,included_game_day
+1992,253,Southern Utah,1992-02-29,4.278641147261293,included_game_day
+1992,253,Southern Utah,1992-03-03,21.15613557207604,included_game_day
+1993,253,Southern Utah,1992-12-01,8.0,included_game_day
+1993,253,Southern Utah,1992-12-11,-34.4399,included_game_day
+1993,253,Southern Utah,1992-12-12,-40.292552,included_game_day
+1993,253,Southern Utah,1992-12-15,-44.3346768,included_game_day
+1993,253,Southern Utah,1992-12-19,-17.688509119999996,included_game_day
+1993,253,Southern Utah,1992-12-21,-12.839278207999996,included_game_day
+1993,253,Southern Utah,1992-12-29,-6.525060387199996,included_game_day
+1993,253,Southern Utah,1992-12-30,-7.104879074080197,included_game_day
+1993,253,Southern Utah,1993-01-02,-3.4906571842074774,included_game_day
+1993,253,Southern Utah,1993-01-05,-10.318630941241345,included_game_day
+1993,253,Southern Utah,1993-01-09,6.858394261410581,included_game_day
+1993,253,Southern Utah,1993-01-18,-14.647824603775174,included_game_day
+1993,253,Southern Utah,1993-01-20,-26.401787569338328,included_game_day
+1993,253,Southern Utah,1993-01-28,-22.29685473326352,included_game_day
+1993,253,Southern Utah,1993-01-30,-0.8043891171073128,included_game_day
+1993,253,Southern Utah,1993-02-06,12.928420303127519,included_game_day
+1993,253,Southern Utah,1993-02-08,6.489923673779865,included_game_day
+1993,253,Southern Utah,1993-02-13,0.8537642800400524,included_game_day
+1993,253,Southern Utah,1993-02-17,9.284526571544117,included_game_day
+1993,253,Southern Utah,1993-02-20,7.509707090885339,included_game_day
+1993,253,Southern Utah,1993-02-22,-5.256948805190925,included_game_day
+1993,253,Southern Utah,1993-02-24,-10.40013880011032,included_game_day
+1993,253,Southern Utah,1993-03-03,-23.208622656472166,included_game_day
+1994,253,Southern Utah,1993-12-03,-17.67,included_game_day
+1994,253,Southern Utah,1993-12-04,-14.873000000000001,included_game_day
+1994,253,Southern Utah,1993-12-06,-8.640170000000001,included_game_day
+1994,253,Southern Utah,1993-12-11,-9.649053000000002,included_game_day
+1994,253,Southern Utah,1993-12-20,-10.984147700000001,included_game_day
+1994,253,Southern Utah,1993-12-22,-21.658673522,included_game_day
+1994,253,Southern Utah,1993-12-28,-11.2926611698,included_game_day
+1994,253,Southern Utah,1993-12-30,-7.43609533282,included_game_day
+1994,253,Southern Utah,1994-01-03,-3.7194124875963523,included_game_day
+1994,253,Southern Utah,1994-01-05,4.493664384728939,included_game_day
+1994,253,Southern Utah,1994-01-08,-13.25016074170311,included_game_day
+1994,253,Southern Utah,1994-01-10,-22.821297595147712,included_game_day
+1994,253,Southern Utah,1994-01-18,-23.06691525751794,included_game_day
+1994,253,Southern Utah,1994-01-22,-28.724376653425992,included_game_day
+1994,253,Southern Utah,1994-01-29,-21.21039255692478,included_game_day
+1994,253,Southern Utah,1994-02-01,-10.122793301698955,included_game_day
+1994,253,Southern Utah,1994-02-05,7.46689589050051,included_game_day
+1994,253,Southern Utah,1994-02-12,3.8886566117690915,included_game_day
+1994,253,Southern Utah,1994-02-19,-8.207595046965501,included_game_day
+1994,253,Southern Utah,1994-02-24,-3.889429827914582,included_game_day
+1994,253,Southern Utah,1994-02-26,-2.623241380874915,included_game_day
+1994,253,Southern Utah,1994-03-02,-6.0421276532528125,included_game_day
+1994,253,Southern Utah,1994-03-05,-9.974972143216311,included_game_day
+1995,253,Southern Utah,1994-11-28,31.0,included_game_day
+1995,253,Southern Utah,1994-12-05,29.9,included_game_day
+1995,253,Southern Utah,1994-12-09,16.4167468,included_game_day
+1995,253,Southern Utah,1994-12-10,84.58067212,included_game_day
+1995,253,Southern Utah,1994-12-15,58.706849362,included_game_day
+1995,253,Southern Utah,1994-12-17,44.2483644258,included_game_day
+1995,253,Southern Utah,1994-12-20,37.54033334122,included_game_day
+1995,253,Southern Utah,1994-12-28,39.781590518498,included_game_day
+1995,253,Southern Utah,1995-01-03,31.4131513208427,included_game_day
+1995,253,Southern Utah,1995-01-07,18.53964854009743,included_game_day
+1995,253,Southern Utah,1995-01-09,1.1615795585344486,included_game_day
+1995,253,Southern Utah,1995-01-17,-1.8845941339341046,included_game_day
+1995,253,Southern Utah,1995-01-19,-0.2522309278631276,included_game_day
+1995,253,Southern Utah,1995-01-24,1.4752480580163558,included_game_day
+1995,253,Southern Utah,1995-01-28,1.1023868319386425,included_game_day
+1995,253,Southern Utah,1995-01-30,-6.677874846991571,included_game_day
+1995,253,Southern Utah,1995-02-11,3.1769432681156626,included_game_day
+1995,253,Southern Utah,1995-02-18,18.111350068281936,included_game_day
+1995,253,Southern Utah,1995-02-25,14.546258509556885,included_game_day
+1995,253,Southern Utah,1995-03-01,9.752319364237438,included_game_day
+1995,253,Southern Utah,1995-03-04,29.72908594780867,included_game_day
+1995,253,Southern Utah,1995-03-06,18.100340501821126,included_game_day
+1995,253,Southern Utah,1995-03-10,15.797344145031087,included_game_day
+1995,253,Southern Utah,1995-03-11,3.221581499456253,included_game_day
+1996,253,Southern Utah,1995-11-26,-10.0,included_game_day
+1996,253,Southern Utah,1995-11-28,-9.7,included_game_day
+1996,253,Southern Utah,1995-12-02,-23.53,included_game_day
+1996,253,Southern Utah,1995-12-09,-8.272680000000001,included_game_day
+1996,253,Southern Utah,1995-12-12,-1.2004871800000014,included_game_day
+1996,253,Southern Utah,1995-12-16,-28.762670124000003,included_game_day
+1996,253,Southern Utah,1995-12-19,-10.555493630600004,included_game_day
+1996,253,Southern Utah,1995-12-23,9.046742951459997,included_game_day
+1996,253,Southern Utah,1995-12-30,3.9971321292139974,included_game_day
+1996,253,Southern Utah,1996-01-03,6.663563957023758,included_game_day
+1996,253,Southern Utah,1996-01-06,-1.6082220816994273,included_game_day
+1996,253,Southern Utah,1996-01-12,9.282008247149488,included_game_day
+1996,253,Southern Utah,1996-01-16,12.32636939747381,included_game_day
+1996,253,Southern Utah,1996-01-20,13.07631287623962,included_game_day
+1996,253,Southern Utah,1996-01-27,3.1675888486463037,included_game_day
+1996,253,Southern Utah,1996-01-30,-1.7797622332733471,included_game_day
+1996,253,Southern Utah,1996-02-06,-6.781061700655894,included_game_day
+1996,253,Southern Utah,1996-02-10,-27.805273443941402,included_game_day
+1996,253,Southern Utah,1996-02-14,-56.005941334677956,included_game_day
+1996,253,Southern Utah,1996-02-17,-40.17570424376915,included_game_day
+1996,253,Southern Utah,1996-02-22,-61.5115145710421,included_game_day
+1996,253,Southern Utah,1996-02-24,-53.19169337948708,included_game_day
+1996,253,Southern Utah,1996-03-01,-52.9565840843358,included_game_day
+1996,253,Southern Utah,1996-03-02,-48.371744729474614,included_game_day
+1997,253,Southern Utah,1996-11-23,21.0,included_game_day
+1997,253,Southern Utah,1996-11-26,-0.6999999999999993,included_game_day
+1997,253,Southern Utah,1996-12-04,-14.54,included_game_day
+1997,253,Southern Utah,1996-12-06,-11.355559999999999,included_game_day
+1997,253,Southern Utah,1996-12-07,-19.1431646,included_game_day
+1997,253,Southern Utah,1996-12-16,-27.20995474,included_game_day
+1997,253,Southern Utah,1996-12-23,-34.768300950118004,included_game_day
+1997,253,Southern Utah,1996-12-28,-56.6616335762082,included_game_day
+1997,253,Southern Utah,1996-12-31,-80.44647875858738,included_game_day
+1997,253,Southern Utah,1997-01-02,-72.8632464281138,included_game_day
+1997,253,Southern Utah,1997-01-04,-81.69048199401384,included_game_day
+1997,253,Southern Utah,1997-01-08,-97.69968569926587,included_game_day
+1997,253,Southern Utah,1997-01-13,-91.62232764537023,included_game_day
+1997,253,Southern Utah,1997-01-20,-88.19974542216724,included_game_day
+1997,253,Southern Utah,1997-01-22,-70.31738856207855,included_game_day
+1997,253,Southern Utah,1997-01-28,-55.72975708636976,included_game_day
+1997,253,Southern Utah,1997-02-07,-52.552084464925755,included_game_day
+1997,253,Southern Utah,1997-02-17,-43.709292238132136,included_game_day
+1997,253,Southern Utah,1997-02-19,-48.91486216959632,included_game_day
+1997,253,Southern Utah,1997-02-22,-53.443996461543215,included_game_day
+1997,253,Southern Utah,1997-02-25,-60.562852232284584,included_game_day
+1997,253,Southern Utah,1997-03-04,-69.17852581936702,included_game_day
+1998,253,Southern Utah,1997-11-15,-13.0,included_game_day
+1998,253,Southern Utah,1997-11-18,-12.7,included_game_day
+1998,253,Southern Utah,1997-11-22,-22.38,included_game_day
+1998,253,Southern Utah,1997-11-25,-34.042,included_game_day
+1998,253,Southern Utah,1997-11-29,-55.0878,included_game_day
+1998,253,Southern Utah,1997-12-01,-53.50882,included_game_day
+1998,253,Southern Utah,1997-12-06,-54.4900882,included_game_day
+1998,253,Southern Utah,1997-12-13,-75.92100398,included_game_day
+1998,253,Southern Utah,1997-12-20,-99.25161405242,included_game_day
+1998,253,Southern Utah,1997-12-30,-101.39541403587724,included_game_day
+1998,253,Southern Utah,1998-01-08,-105.3138651545151,included_game_day
+1998,253,Southern Utah,1998-01-10,-91.17844228383254,included_game_day
+1998,253,Southern Utah,1998-01-15,-96.37420497655043,included_game_day
+1998,253,Southern Utah,1998-01-17,-121.81088663141085,included_game_day
+1998,253,Southern Utah,1998-01-22,-131.85805588911555,included_game_day
+1998,253,Southern Utah,1998-01-24,-112.47774858278902,included_game_day
+1998,253,Southern Utah,1998-01-28,-109.62779318634095,included_game_day
+1998,253,Southern Utah,1998-02-05,-110.82358059772687,included_game_day
+1998,253,Southern Utah,1998-02-07,-104.63648812035966,included_game_day
+1998,253,Southern Utah,1998-02-12,-91.51076827019156,included_game_day
+1998,253,Southern Utah,1998-02-14,-94.93698930341084,included_game_day
+1998,253,Southern Utah,1998-02-19,-97.73037387324212,included_game_day
+1998,253,Southern Utah,1998-02-21,-87.84766446036912,included_game_day
+1998,253,Southern Utah,1998-02-23,-88.99267186336128,included_game_day
+1998,253,Southern Utah,1998-03-01,-85.908677785755,included_game_day
+1999,253,Southern Utah,1998-11-13,-9.0,included_game_day
+1999,253,Southern Utah,1998-11-19,-1.0999999999999996,included_game_day
+1999,253,Southern Utah,1998-11-25,-12.123,included_game_day
+1999,253,Southern Utah,1998-11-27,-17.72028,included_game_day
+1999,253,Southern Utah,1998-11-28,-22.720831999999998,included_game_day
+1999,253,Southern Utah,1998-12-03,-12.159504499999999,included_game_day
+1999,253,Southern Utah,1998-12-07,-4.013252881999998,included_game_day
+1999,253,Southern Utah,1998-12-11,-7.561783427799998,included_game_day
+1999,253,Southern Utah,1998-12-12,-14.399879386319999,included_game_day
+1999,253,Southern Utah,1998-12-28,-30.12210305982314,included_game_day
+1999,253,Southern Utah,1999-01-02,-44.66998598362866,included_game_day
+1999,253,Southern Utah,1999-01-04,-68.79106597157296,included_game_day
+1999,253,Southern Utah,1999-01-09,-58.7388310690783,included_game_day
+1999,253,Southern Utah,1999-01-11,-52.06000946798649,included_game_day
+1999,253,Southern Utah,1999-01-14,-56.12619474002178,included_game_day
+1999,253,Southern Utah,1999-01-16,-63.671351228030616,included_game_day
+1999,253,Southern Utah,1999-01-21,-57.99727016912321,included_game_day
+1999,253,Southern Utah,1999-01-23,-70.33627815839682,included_game_day
+1999,253,Southern Utah,1999-01-28,-77.72170135162804,included_game_day
+1999,253,Southern Utah,1999-01-30,-80.71057976078714,included_game_day
+1999,253,Southern Utah,1999-02-06,-89.3453153487275,included_game_day
+1999,253,Southern Utah,1999-02-11,-76.0221415715047,included_game_day
+1999,253,Southern Utah,1999-02-13,-69.22394005618476,included_game_day
+1999,253,Southern Utah,1999-02-18,-53.59121981125823,included_game_day
+1999,253,Southern Utah,1999-02-20,-45.302260938970264,included_game_day
+1999,253,Southern Utah,1999-02-28,-61.33391520949395,included_game_day
+2000,253,Southern Utah,1999-11-22,-4.0,included_game_day
+2000,253,Southern Utah,1999-11-24,-28.6,included_game_day
+2000,253,Southern Utah,1999-11-29,-20.35,included_game_day
+2000,253,Southern Utah,1999-12-02,-23.581400000000002,included_game_day
+2000,253,Southern Utah,1999-12-04,-34.00929,included_game_day
+2000,253,Southern Utah,1999-12-09,-33.148361,included_game_day
+2000,253,Southern Utah,1999-12-11,-30.147111080000002,included_game_day
+2000,253,Southern Utah,1999-12-18,-36.88093481999,included_game_day
+2000,253,Southern Utah,1999-12-21,-46.176318940991,included_game_day
+2000,253,Southern Utah,2000-01-01,-47.4589020112227,included_game_day
+2000,253,Southern Utah,2000-01-06,-43.070938791009006,included_game_day
+2000,253,Southern Utah,2000-01-08,-29.839709157706764,included_game_day
+2000,253,Southern Utah,2000-01-11,-31.488430822606148,included_game_day
+2000,253,Southern Utah,2000-01-20,-25.38953862494676,included_game_day
+2000,253,Southern Utah,2000-01-22,-8.759116810159753,included_game_day
+2000,253,Southern Utah,2000-01-27,6.395661690174936,included_game_day
+2000,253,Southern Utah,2000-01-29,21.418196904262885,included_game_day
+2000,253,Southern Utah,2000-02-03,16.435548495812554,included_game_day
+2000,253,Southern Utah,2000-02-05,0.3703652536930129,included_game_day
+2000,253,Southern Utah,2000-02-10,4.519200178384012,included_game_day
+2000,253,Southern Utah,2000-02-12,4.27878809220458,included_game_day
+2000,253,Southern Utah,2000-02-17,-18.16171695398227,included_game_day
+2000,253,Southern Utah,2000-02-24,-36.765120196740796,included_game_day
+2000,253,Southern Utah,2000-02-26,-15.933191868915884,included_game_day
+2000,253,Southern Utah,2000-03-05,-11.8991072959052,included_game_day
+2000,253,Southern Utah,2000-03-06,5.06544306159725,included_game_day
+2000,253,Southern Utah,2000-03-07,-3.1897211467171314,included_game_day
+2001,253,Southern Utah,2000-11-17,-18.4,included_game_day
+2001,253,Southern Utah,2000-11-20,-10.559999999999999,included_game_day
+2001,253,Southern Utah,2000-11-25,5.1960000000000015,included_game_day
+2001,253,Southern Utah,2000-11-30,11.776400000000002,included_game_day
+2001,253,Southern Utah,2000-12-02,-5.622762309999999,included_game_day
+2001,253,Southern Utah,2000-12-06,2.8239376710000013,included_game_day
+2001,253,Southern Utah,2000-12-09,7.228372853900002,included_game_day
+2001,253,Southern Utah,2000-12-14,6.7525006791000015,included_game_day
+2001,253,Southern Utah,2000-12-22,20.16071240538308,included_game_day
+2001,253,Southern Utah,2000-12-30,23.273592834024694,included_game_day
+2001,253,Southern Utah,2001-01-04,18.219644914111687,included_game_day
+2001,253,Southern Utah,2001-01-06,18.23944224060893,included_game_day
+2001,253,Southern Utah,2001-01-11,24.72433533782467,included_game_day
+2001,253,Southern Utah,2001-01-13,19.22422181088249,included_game_day
+2001,253,Southern Utah,2001-01-18,19.602866522590446,included_game_day
+2001,253,Southern Utah,2001-01-20,23.433405402078428,included_game_day
+2001,253,Southern Utah,2001-01-25,26.458606534825996,included_game_day
+2001,253,Southern Utah,2001-02-01,28.089583919598343,included_game_day
+2001,253,Southern Utah,2001-02-03,29.442824938243795,included_game_day
+2001,253,Southern Utah,2001-02-08,30.40499233670564,included_game_day
+2001,253,Southern Utah,2001-02-10,32.16241116634383,included_game_day
+2001,253,Southern Utah,2001-02-15,50.92910604387537,included_game_day
+2001,253,Southern Utah,2001-02-17,53.80433139313277,included_game_day
+2001,253,Southern Utah,2001-02-24,53.125256107535854,included_game_day
+2001,253,Southern Utah,2001-03-04,51.73708468620547,included_game_day
+2001,253,Southern Utah,2001-03-05,48.3622017793725,included_game_day
+2001,253,Southern Utah,2001-03-06,51.36887196096942,included_game_day
+2001,253,Southern Utah,2001-03-15,61.70889365618465,included_game_day
+2002,253,Southern Utah Thunderbirds,2001-11-20,-13.2,included_game_day
+2002,253,Southern Utah Thunderbirds,2001-11-24,-10.649999999999999,included_game_day
+2002,253,Southern Utah Thunderbirds,2001-11-30,-16.47923,included_game_day
+2002,253,Southern Utah Thunderbirds,2001-12-03,-24.119007,included_game_day
+2002,253,Southern Utah Thunderbirds,2001-12-08,-29.8159646,included_game_day
+2002,253,Southern Utah Thunderbirds,2001-12-10,-13.27609584,included_game_day
+2002,253,Southern Utah Thunderbirds,2001-12-15,-27.760171202000002,included_game_day
+2002,253,Southern Utah Thunderbirds,2001-12-18,-42.2224970228,included_game_day
+2002,253,Southern Utah Thunderbirds,2001-12-22,-40.796175507739996,included_game_day
+2002,253,Southern Utah Thunderbirds,2001-12-29,-50.01190754119075,included_game_day
+2002,253,Southern Utah Thunderbirds,2002-01-03,-55.22380631686126,included_game_day
+2002,253,Southern Utah Thunderbirds,2002-01-05,-47.235761805092785,included_game_day
+2002,253,Southern Utah Thunderbirds,2002-01-10,-23.114440205239532,included_game_day
+2002,253,Southern Utah Thunderbirds,2002-01-12,-22.23091385609025,included_game_day
+2002,253,Southern Utah Thunderbirds,2002-01-19,-15.554146057818171,included_game_day
+2002,253,Southern Utah Thunderbirds,2002-01-24,-4.6183456631363065,included_game_day
+2002,253,Southern Utah Thunderbirds,2002-01-26,3.8708431654039845,included_game_day
+2002,253,Southern Utah Thunderbirds,2002-01-31,-24.67468909945361,included_game_day
+2002,253,Southern Utah Thunderbirds,2002-02-02,-16.604916134324235,included_game_day
+2002,253,Southern Utah Thunderbirds,2002-02-07,-29.499958681732778,included_game_day
+2002,253,Southern Utah Thunderbirds,2002-02-09,-21.698909427888182,included_game_day
+2002,253,Southern Utah Thunderbirds,2002-02-16,-11.864105337715941,included_game_day
+2002,253,Southern Utah Thunderbirds,2002-02-21,-15.955335288072803,included_game_day
+2002,253,Southern Utah Thunderbirds,2002-02-23,-3.1418887214018305,included_game_day
+2002,253,Southern Utah Thunderbirds,2002-03-03,-19.86878915531763,included_game_day
+2003,253,Southern Utah Thunderbirds,2002-11-22,-11.0,included_game_day
+2003,253,Southern Utah Thunderbirds,2002-11-25,-12.4,included_game_day
+2003,253,Southern Utah Thunderbirds,2002-11-30,-11.129999999999999,included_game_day
+2003,253,Southern Utah Thunderbirds,2002-12-04,-3.9779099999999987,included_game_day
+2003,253,Southern Utah Thunderbirds,2002-12-07,-9.429068999999998,included_game_day
+2003,253,Southern Utah Thunderbirds,2002-12-14,-29.538440289999997,included_game_day
+2003,253,Southern Utah Thunderbirds,2002-12-21,-13.122447891999997,included_game_day
+2003,253,Southern Utah Thunderbirds,2002-12-28,-36.04883204891429,included_game_day
+2003,253,Southern Utah Thunderbirds,2002-12-30,-50.94955176549486,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-01-04,-57.95509159077384,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-01-09,-34.39982303034303,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-01-11,-37.914585897743336,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-01-16,-60.91143115816869,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-01-18,-66.87364860938015,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-01-25,-73.13898228675116,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-01-30,-73.91540862870532,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-02-01,-71.31363835249502,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-02-06,-90.08696464549499,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-02-08,-87.04293495557675,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-02-13,-88.51969431957606,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-02-15,-86.24097506483241,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-02-22,-71.1460662063471,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-02-27,-77.87586999599904,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-03-01,-81.81632887722509,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-03-09,-58.96869598220592,included_game_day
+2003,253,Southern Utah Thunderbirds,2003-03-10,-52.062426591577946,included_game_day
+2004,253,Southern Utah Thunderbirds,2003-11-21,-31.0,included_game_day
+2004,253,Southern Utah Thunderbirds,2003-11-28,-11.148,included_game_day
+2004,253,Southern Utah Thunderbirds,2003-12-02,-27.9332,included_game_day
+2004,253,Southern Utah Thunderbirds,2003-12-06,-37.1327115,included_game_day
+2004,253,Southern Utah Thunderbirds,2003-12-13,-47.73004495,included_game_day
+2004,253,Southern Utah Thunderbirds,2003-12-20,-44.782574521,included_game_day
+2004,253,Southern Utah Thunderbirds,2003-12-22,-60.08581255536,included_game_day
+2004,253,Southern Utah Thunderbirds,2003-12-29,-75.8689277492991,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-01-02,-77.20533367828419,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-01-05,-80.37181932980398,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-01-08,-78.28523241950342,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-01-10,-84.14083362210029,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-01-15,-73.9351873863334,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-01-17,-56.89367854374143,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-01-22,-68.3601100984317,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-01-24,-65.59411011104993,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-01-29,-52.47925914055479,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-02-05,-41.37868352463526,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-02-07,-41.90467321644886,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-02-12,-55.40613962098917,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-02-14,-90.94343360880472,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-02-19,-88.39626887241819,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-02-21,-63.98716531088564,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-02-26,-65.9145899276918,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-02-28,-67.00283916969822,included_game_day
+2004,253,Southern Utah Thunderbirds,2004-03-07,-70.92772025093714,included_game_day
+2005,253,Southern Utah Thunderbirds,2004-11-22,-5.638,included_game_day
+2005,253,Southern Utah Thunderbirds,2004-11-27,-8.6942,included_game_day
+2005,253,Southern Utah Thunderbirds,2004-11-30,-23.59068,included_game_day
+2005,253,Southern Utah Thunderbirds,2004-12-02,-32.520232,included_game_day
+2005,253,Southern Utah Thunderbirds,2004-12-08,-21.872114349,included_game_day
+2005,253,Southern Utah Thunderbirds,2004-12-11,-15.6808362238,included_game_day
+2005,253,Southern Utah Thunderbirds,2004-12-18,8.937989475279998,included_game_day
+2005,253,Southern Utah Thunderbirds,2004-12-20,21.815267086581997,included_game_day
+2005,253,Southern Utah Thunderbirds,2004-12-28,-4.665676515063343,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-01-04,1.1730336127392462,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-01-06,-7.848018052808108,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-01-13,-8.313498828114872,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-01-15,-41.37545746242334,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-01-20,-36.49572623744859,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-01-22,-54.91426392493389,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-01-27,-71.05677613618309,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-01-29,-63.46998873830356,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-01-31,-62.80986362974798,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-02-03,-71.9821652460256,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-02-05,-81.84827112992359,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-02-10,-77.33404359803417,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-02-12,-77.29259558278483,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-02-17,-74.24354963178577,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-02-19,-90.06679461956253,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-02-26,-78.7649701268422,included_game_day
+2005,253,Southern Utah Thunderbirds,2005-03-05,-83.21101515458626,included_game_day
+2006,253,Southern Utah Thunderbirds,2005-11-18,-10.0,included_game_day
+2006,253,Southern Utah Thunderbirds,2005-11-19,-19.6,included_game_day
+2006,253,Southern Utah Thunderbirds,2005-11-20,-23.0,included_game_day
+2006,253,Southern Utah Thunderbirds,2005-11-23,-37.7,included_game_day
+2006,253,Southern Utah Thunderbirds,2005-11-26,-55.900000000000006,included_game_day
+2006,253,Southern Utah Thunderbirds,2005-11-29,-31.987000000000005,included_game_day
+2006,253,Southern Utah Thunderbirds,2005-12-03,-45.9479046,included_game_day
+2006,253,Southern Utah Thunderbirds,2005-12-10,-53.801095734,included_game_day
+2006,253,Southern Utah Thunderbirds,2005-12-17,-59.14563627366,included_game_day
+2006,253,Southern Utah Thunderbirds,2005-12-20,-69.650493849374,included_game_day
+2006,253,Southern Utah Thunderbirds,2005-12-22,-71.24348852962302,included_game_day
+2006,253,Southern Utah Thunderbirds,2005-12-31,-73.71276814266923,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-01-02,-39.270165943771055,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-01-04,-43.372074497298584,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-01-07,-37.6477259899958,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-01-09,-33.31859382670058,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-01-14,-39.65891542522665,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-01-19,-32.50224130472245,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-01-21,-17.289193478572017,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-01-28,-11.180327465775605,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-02-02,-37.60982099796816,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-02-04,-41.9016125015164,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-02-09,-45.708090488457536,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-02-13,-48.33949095904554,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-02-16,-40.55918923035796,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-02-18,-56.50308594505234,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-02-23,-65.64438764701137,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-02-25,-39.13246003593112,included_game_day
+2006,253,Southern Utah Thunderbirds,2006-03-05,-43.30325594512907,included_game_day
+2007,253,Southern Utah Thunderbirds,2006-11-10,6.0,included_game_day
+2007,253,Southern Utah Thunderbirds,2006-11-14,13.3,included_game_day
+2007,253,Southern Utah Thunderbirds,2006-11-18,4.77,included_game_day
+2007,253,Southern Utah Thunderbirds,2006-11-22,15.56955,included_game_day
+2007,253,Southern Utah Thunderbirds,2006-11-24,-0.061825000000000685,included_game_day
+2007,253,Southern Utah Thunderbirds,2006-11-27,-1.1007725000000015,included_game_day
+2007,253,Southern Utah Thunderbirds,2006-11-29,6.702604549999999,included_game_day
+2007,253,Southern Utah Thunderbirds,2006-12-02,25.237040395,included_game_day
+2007,253,Southern Utah Thunderbirds,2006-12-04,14.871707055500002,included_game_day
+2007,253,Southern Utah Thunderbirds,2006-12-09,21.453239328360002,included_game_day
+2007,253,Southern Utah Thunderbirds,2006-12-19,19.343712154547703,included_game_day
+2007,253,Southern Utah Thunderbirds,2006-12-22,11.92078731223558,included_game_day
+2007,253,Southern Utah Thunderbirds,2006-12-28,22.799077927001186,included_game_day
+2007,253,Southern Utah Thunderbirds,2007-01-06,10.800808184399171,included_game_day
+2007,253,Southern Utah Thunderbirds,2007-01-11,3.922045654609674,included_game_day
+2007,253,Southern Utah Thunderbirds,2007-01-13,14.979882541628408,included_game_day
+2007,253,Southern Utah Thunderbirds,2007-01-18,8.09534201233597,included_game_day
+2007,253,Southern Utah Thunderbirds,2007-01-20,9.854340398378444,included_game_day
+2007,253,Southern Utah Thunderbirds,2007-01-25,-4.110745175263244,included_game_day
+2007,253,Southern Utah Thunderbirds,2007-01-27,8.13686638781323,included_game_day
+2007,253,Southern Utah Thunderbirds,2007-02-03,3.634375101243446,included_game_day
+2007,253,Southern Utah Thunderbirds,2007-02-08,-10.76943308552227,included_game_day
+2007,253,Southern Utah Thunderbirds,2007-02-10,-24.91666265008951,included_game_day
+2007,253,Southern Utah Thunderbirds,2007-02-15,-28.163393413519515,included_game_day
+2007,253,Southern Utah Thunderbirds,2007-02-17,-27.03202673550069,included_game_day
+2007,253,Southern Utah Thunderbirds,2007-02-22,-48.62714427916538,included_game_day
+2007,253,Southern Utah Thunderbirds,2007-02-24,-58.27317726895605,included_game_day
+2007,253,Southern Utah Thunderbirds,2007-03-04,-63.146001630377036,included_game_day
+2008,253,Southern Utah Thunderbirds,2007-11-09,-8.0,included_game_day
+2008,253,Southern Utah Thunderbirds,2007-11-14,-3.0,included_game_day
+2008,253,Southern Utah Thunderbirds,2007-11-17,-19.3,included_game_day
+2008,253,Southern Utah Thunderbirds,2007-11-20,-27.912,included_game_day
+2008,253,Southern Utah Thunderbirds,2007-11-24,-31.2818,included_game_day
+2008,253,Southern Utah Thunderbirds,2007-11-28,-22.914977999999998,included_game_day
+2008,253,Southern Utah Thunderbirds,2007-12-06,-30.18062406,included_game_day
+2008,253,Southern Utah Thunderbirds,2007-12-08,-14.94713446268,included_game_day
+2008,253,Southern Utah Thunderbirds,2007-12-15,-22.284862755297,included_game_day
+2008,253,Southern Utah Thunderbirds,2007-12-17,-51.4472344679293,included_game_day
+2008,253,Southern Utah Thunderbirds,2007-12-21,-47.94529868408946,included_game_day
+2008,253,Southern Utah Thunderbirds,2007-12-29,-38.394905080773334,included_game_day
+2008,253,Southern Utah Thunderbirds,2008-01-03,-30.226119654568347,included_game_day
+2008,253,Southern Utah Thunderbirds,2008-01-05,-43.39933288527145,included_game_day
+2008,253,Southern Utah Thunderbirds,2008-01-12,-44.98274672788324,included_game_day
+2008,253,Southern Utah Thunderbirds,2008-01-17,-58.96440820855147,included_game_day
+2008,253,Southern Utah Thunderbirds,2008-01-24,-60.07372099656106,included_game_day
+2008,253,Southern Utah Thunderbirds,2008-01-26,-55.12092901106101,included_game_day
+2008,253,Southern Utah Thunderbirds,2008-01-31,-60.88508046560823,included_game_day
+2008,253,Southern Utah Thunderbirds,2008-02-02,-60.00018742230613,included_game_day
+2008,253,Southern Utah Thunderbirds,2008-02-09,-59.89269741068969,included_game_day
+2008,253,Southern Utah Thunderbirds,2008-02-14,-58.755858703968556,included_game_day
+2008,253,Southern Utah Thunderbirds,2008-02-16,-46.640801244460135,included_game_day
+2008,253,Southern Utah Thunderbirds,2008-02-19,-40.31266476090778,included_game_day
+2008,253,Southern Utah Thunderbirds,2008-02-21,-40.2601017600355,included_game_day
+2008,253,Southern Utah Thunderbirds,2008-02-28,-26.438684584318732,included_game_day
+2008,253,Southern Utah Thunderbirds,2008-03-01,-19.417856610209185,included_game_day
+2008,253,Southern Utah Thunderbirds,2008-03-09,-24.801194230921546,included_game_day
+2009,253,Southern Utah Thunderbirds,2008-11-20,-7.26,included_game_day
+2009,253,Southern Utah Thunderbirds,2008-11-22,-3.1340000000000003,included_game_day
+2009,253,Southern Utah Thunderbirds,2008-11-29,-3.6110100000000003,included_game_day
+2009,253,Southern Utah Thunderbirds,2008-12-02,8.744468,included_game_day
+2009,253,Southern Utah Thunderbirds,2008-12-04,18.454937639999997,included_game_day
+2009,253,Southern Utah Thunderbirds,2008-12-06,15.194105775999997,included_game_day
+2009,253,Southern Utah Thunderbirds,2008-12-13,3.604095953069997,included_game_day
+2009,253,Southern Utah Thunderbirds,2008-12-17,0.7788054008806977,included_game_day
+2009,253,Southern Utah Thunderbirds,2008-12-20,-1.9755507911480716,included_game_day
+2009,253,Southern Utah Thunderbirds,2008-12-23,-5.606919689953134,included_game_day
+2009,253,Southern Utah Thunderbirds,2008-12-27,8.592004539414926,included_game_day
+2009,253,Southern Utah Thunderbirds,2008-12-31,-1.9611544176231117,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-01-02,-2.83810300520281,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-01-10,12.26948654774214,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-01-15,-11.154433424309406,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-01-17,-10.331758371867647,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-01-22,-35.778406745504455,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-01-24,-38.45189192518569,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-01-29,-52.47594633154538,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-01-31,-57.57423367198115,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-02-07,-50.91416499109489,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-02-12,-50.4759771048689,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-02-14,-25.29541650956858,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-02-19,-39.977975197730856,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-02-21,-34.20083156658311,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-02-26,-37.98077638071918,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-02-28,-51.786918399847,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-03-08,-42.48197534276021,included_game_day
+2009,253,Southern Utah Thunderbirds,2009-03-09,-40.94519756923556,included_game_day
+2010,253,Southern Utah Thunderbirds,2009-11-14,-14.0,included_game_day
+2010,253,Southern Utah Thunderbirds,2009-11-15,-31.8,included_game_day
+2010,253,Southern Utah Thunderbirds,2009-11-17,-22.5,included_game_day
+2010,253,Southern Utah Thunderbirds,2009-11-25,-36.74136,included_game_day
+2010,253,Southern Utah Thunderbirds,2009-11-28,-66.805024,included_game_day
+2010,253,Southern Utah Thunderbirds,2009-12-03,-66.02773141,included_game_day
+2010,253,Southern Utah Thunderbirds,2009-12-05,-72.629130876,included_game_day
+2010,253,Southern Utah Thunderbirds,2009-12-12,-79.9677714024,included_game_day
+2010,253,Southern Utah Thunderbirds,2009-12-15,-90.38369207843151,included_game_day
+2010,253,Southern Utah Thunderbirds,2009-12-21,-73.70496081378505,included_game_day
+2010,253,Southern Utah Thunderbirds,2009-12-29,-90.77761941519151,included_game_day
+2010,253,Southern Utah Thunderbirds,2010-01-02,-84.64468357766802,included_game_day
+2010,253,Southern Utah Thunderbirds,2010-01-07,-77.20685775871118,included_game_day
+2010,253,Southern Utah Thunderbirds,2010-01-09,-84.04186089747441,included_game_day
+2010,253,Southern Utah Thunderbirds,2010-01-14,-85.15267370232301,included_game_day
+2010,253,Southern Utah Thunderbirds,2010-01-16,-116.48204921081839,included_game_day
+2010,253,Southern Utah Thunderbirds,2010-01-21,-122.42684034288995,included_game_day
+2010,253,Southern Utah Thunderbirds,2010-01-23,-132.8024601039522,included_game_day
+2010,253,Southern Utah Thunderbirds,2010-01-30,-115.35102665876175,included_game_day
+2010,253,Southern Utah Thunderbirds,2010-02-04,-127.15083904635067,included_game_day
+2010,253,Southern Utah Thunderbirds,2010-02-06,-135.84369803014553,included_game_day
+2010,253,Southern Utah Thunderbirds,2010-02-11,-136.14791332437406,included_game_day
+2010,253,Southern Utah Thunderbirds,2010-02-13,-137.66291347500004,included_game_day
+2010,253,Southern Utah Thunderbirds,2010-02-18,-141.1580857753848,included_game_day
+2010,253,Southern Utah Thunderbirds,2010-02-20,-133.6351248142237,included_game_day
+2010,253,Southern Utah Thunderbirds,2010-02-25,-140.7164435210732,included_game_day
+2010,253,Southern Utah Thunderbirds,2010-02-27,-140.30275835806404,included_game_day
+2011,253,Southern Utah Thunderbirds,2010-11-17,11.32,included_game_day
+2011,253,Southern Utah Thunderbirds,2010-11-20,-5.062000000000001,included_game_day
+2011,253,Southern Utah Thunderbirds,2010-11-24,-26.7378,included_game_day
+2011,253,Southern Utah Thunderbirds,2010-11-26,-43.33398,included_game_day
+2011,253,Southern Utah Thunderbirds,2010-11-27,-40.320682,included_game_day
+2011,253,Southern Utah Thunderbirds,2010-12-02,-45.3692199,included_game_day
+2011,253,Southern Utah Thunderbirds,2010-12-04,-46.28719947,included_game_day
+2011,253,Southern Utah Thunderbirds,2010-12-11,-52.995492387,included_game_day
+2011,253,Southern Utah Thunderbirds,2010-12-18,-57.8324641614943,included_game_day
+2011,253,Southern Utah Thunderbirds,2010-12-21,-59.87261706964638,included_game_day
+2011,253,Southern Utah Thunderbirds,2010-12-30,-46.901283931703794,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-01-01,-51.53410236252756,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-01-08,-56.50222534456542,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-01-13,-64.24780225879971,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-01-15,-58.856388230985154,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-01-20,-43.58899654103793,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-01-22,-68.07651038498574,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-01-27,-72.14015638868413,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-01-29,-74.44091579592558,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-02-02,-74.27898557950772,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-02-05,-75.6701217745922,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-02-10,-69.31030216061185,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-02-12,-64.57484227348704,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-02-17,-39.27316610806147,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-02-19,-39.86805597488223,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-02-24,-20.426242906540768,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-02-26,-27.745120704649665,included_game_day
+2011,253,Southern Utah Thunderbirds,2011-03-05,-32.600222943136785,included_game_day
+2012,253,Southern Utah Thunderbirds,2011-11-11,1.0,included_game_day
+2012,253,Southern Utah Thunderbirds,2011-11-12,-28.2,included_game_day
+2012,253,Southern Utah Thunderbirds,2011-11-13,-8.5,included_game_day
+2012,253,Southern Utah Thunderbirds,2011-11-19,-7.99,included_game_day
+2012,253,Southern Utah Thunderbirds,2011-11-26,-16.01381,included_game_day
+2012,253,Southern Utah Thunderbirds,2011-12-03,-13.65885269,included_game_day
+2012,253,Southern Utah Thunderbirds,2011-12-10,-28.91748433921,included_game_day
+2012,253,Southern Utah Thunderbirds,2011-12-20,-34.32947315265975,included_game_day
+2012,253,Southern Utah Thunderbirds,2011-12-22,-35.312802268459066,included_game_day
+2012,253,Southern Utah Thunderbirds,2011-12-28,-26.862082744654728,included_game_day
+2012,253,Southern Utah Thunderbirds,2011-12-30,-9.833945497717906,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-01-03,-32.37101259968999,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-01-05,-31.680175624114696,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-01-07,-28.256179787690975,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-01-12,-16.72472838979556,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-01-14,2.0325235129122063,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-01-19,-11.438268703774147,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-01-21,-15.392614926575622,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-01-26,-10.886443615941683,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-01-28,-18.2473809433151,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-02-02,-31.37893966533095,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-02-04,-24.18490628474701,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-02-09,-9.752019053838335,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-02-11,-26.8765940830848,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-02-15,-28.041557776929377,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-02-18,-32.799476690009776,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-02-25,-27.494577299624343,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-03-04,-18.484531512803503,included_game_day
+2012,253,Southern Utah Thunderbirds,2012-03-05,-20.189970923666877,included_game_day
+2013,253,Southern Utah Thunderbirds,2012-11-09,-35.0,included_game_day
+2013,253,Southern Utah Thunderbirds,2012-11-16,-43.3,included_game_day
+2013,253,Southern Utah Thunderbirds,2012-11-17,-82.872,included_game_day
+2013,253,Southern Utah Thunderbirds,2012-11-18,-90.55199999999999,included_game_day
+2013,253,Southern Utah Thunderbirds,2012-11-29,-89.1298939,included_game_day
+2013,253,Southern Utah Thunderbirds,2012-12-04,-98.037835651,included_game_day
+2013,253,Southern Utah Thunderbirds,2012-12-17,-84.35144216206,included_game_day
+2013,253,Southern Utah Thunderbirds,2012-12-21,-95.45142369705826,included_game_day
+2013,253,Southern Utah Thunderbirds,2012-12-29,-92.06412299837484,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-01-05,-75.84856660189179,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-01-07,-72.97987692883322,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-01-10,-68.89743126329563,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-01-12,-74.57522256019739,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-01-17,-69.51682470302863,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-01-21,-72.80773348180976,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-01-24,-61.124590810335306,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-01-26,-53.595322266479286,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-01-31,-42.25131801418063,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-02-02,-39.46571448845778,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-02-07,-41.626353905953636,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-02-09,-45.152932602326686,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-02-14,-68.05729582404656,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-02-16,-81.15515101682153,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-02-23,-77.49537232785036,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-02-28,-84.62642669122492,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-03-04,-89.43971710498711,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-03-07,-87.59303312008495,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-03-09,-87.53918718563963,included_game_day
+2013,253,Southern Utah Thunderbirds,2013-03-14,-100.49611043808338,included_game_day
+2014,253,Southern Utah Thunderbirds,2013-11-12,-29.0,included_game_day
+2014,253,Southern Utah Thunderbirds,2013-11-18,-48.001999999999995,included_game_day
+2014,253,Southern Utah Thunderbirds,2013-11-23,-64.53479999999999,included_game_day
+2014,253,Southern Utah Thunderbirds,2013-12-01,-81.45267190999999,included_game_day
+2014,253,Southern Utah Thunderbirds,2013-12-03,-101.98520071899999,included_game_day
+2014,253,Southern Utah Thunderbirds,2013-12-14,-114.42660346979,included_game_day
+2014,253,Southern Utah Thunderbirds,2013-12-18,-131.404055893635,included_game_day
+2014,253,Southern Utah Thunderbirds,2013-12-21,-128.73145663513148,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-01-02,-123.74664730685377,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-01-04,-144.03910020515616,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-01-11,-168.3337607659269,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-01-13,-191.50708086255412,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-01-16,-186.19537392502858,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-01-18,-171.57888245622118,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-01-23,-164.02971434362524,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-01-25,-153.17165913021353,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-01-30,-151.1752426125666,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-02-01,-145.74942806658495,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-02-08,-139.24635844313815,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-02-10,-137.23905743416873,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-02-13,-144.29705986020343,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-02-15,-147.01374532940744,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-02-20,-147.91420799321355,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-02-22,-148.44162645737572,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-02-27,-143.1011132371595,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-03-01,-155.30623784869303,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-03-06,-139.13018900613594,included_game_day
+2014,253,Southern Utah Thunderbirds,2014-03-08,-158.1902541450797,included_game_day
+2015,253,Southern Utah Thunderbirds,2014-11-14,-27.0,included_game_day
+2015,253,Southern Utah Thunderbirds,2014-11-16,-34.3,included_game_day
+2015,253,Southern Utah Thunderbirds,2014-11-22,-45.41,included_game_day
+2015,253,Southern Utah Thunderbirds,2014-11-26,-50.869,included_game_day
+2015,253,Southern Utah Thunderbirds,2014-11-30,-43.090379999999996,included_game_day
+2015,253,Southern Utah Thunderbirds,2014-12-14,-51.716719819999994,included_game_day
+2015,253,Southern Utah Thunderbirds,2014-12-19,-56.457164178393995,included_game_day
+2015,253,Southern Utah Thunderbirds,2014-12-22,-68.27732172530148,included_game_day
+2015,253,Southern Utah Thunderbirds,2014-12-23,-61.95333187128667,included_game_day
+2015,253,Southern Utah Thunderbirds,2014-12-27,-85.8000070862211,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-01-01,-83.15410918582667,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-01-03,-89.37359220737156,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-01-10,-83.11985083872626,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-01-15,-82.09421394499542,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-01-17,-69.56312394268433,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-01-22,-82.93009013061634,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-01-24,-73.27291504165443,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-01-31,-94.07099946090804,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-02-05,-99.9449091403068,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-02-07,-99.22091867197678,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-02-12,-82.31461653978792,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-02-14,-73.89638340731021,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-02-19,-71.49280993513882,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-02-21,-67.75378217388294,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-02-26,-73.26927288358871,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-02-28,-66.7360810514453,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-03-05,-59.15226735887559,included_game_day
+2015,253,Southern Utah Thunderbirds,2015-03-07,-73.50126255706498,included_game_day
+2016,253,Southern Utah Thunderbirds,2015-11-13,-8.0,included_game_day
+2016,253,Southern Utah Thunderbirds,2015-11-18,-24.3,included_game_day
+2016,253,Southern Utah Thunderbirds,2015-11-21,-33.046,included_game_day
+2016,253,Southern Utah Thunderbirds,2015-11-24,-46.1864,included_game_day
+2016,253,Southern Utah Thunderbirds,2015-11-28,-49.73496,included_game_day
+2016,253,Southern Utah Thunderbirds,2015-12-05,-34.349699,included_game_day
+2016,253,Southern Utah Thunderbirds,2015-12-16,-74.789324885372,included_game_day
+2016,253,Southern Utah Thunderbirds,2015-12-19,-83.3858596448018,included_game_day
+2016,253,Southern Utah Thunderbirds,2015-12-22,-96.51974732473518,included_game_day
+2016,253,Southern Utah Thunderbirds,2015-12-31,-82.93812852970046,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-01-02,-98.19117379848606,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-01-09,-114.28627079983627,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-01-14,-128.3079700448159,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-01-16,-112.89606050142217,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-01-21,-123.03561399865103,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-01-23,-129.3233774242355,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-01-28,-137.98245634117964,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-01-30,-144.93386204204685,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-02-04,-161.46352114768803,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-02-06,-162.03154447551282,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-02-11,-176.03908685492624,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-02-13,-165.21381883467245,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-02-18,-152.3548656228864,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-02-20,-161.48821268065825,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-02-27,-145.4196951673158,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-03-03,-141.08948864221455,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-03-05,-129.80190540147942,included_game_day
+2016,253,Southern Utah Thunderbirds,2016-03-08,-123.52632247991778,included_game_day
+2017,253,Southern Utah Thunderbirds,2016-11-11,-11.0,included_game_day
+2017,253,Southern Utah Thunderbirds,2016-11-14,-21.3,included_game_day
+2017,253,Southern Utah Thunderbirds,2016-11-21,-34.573260000000005,included_game_day
+2017,253,Southern Utah Thunderbirds,2016-11-23,-43.219480000000004,included_game_day
+2017,253,Southern Utah Thunderbirds,2016-11-30,-46.9312746,included_game_day
+2017,253,Southern Utah Thunderbirds,2016-12-03,-43.566918157,included_game_day
+2017,253,Southern Utah Thunderbirds,2016-12-08,-43.9908158709,included_game_day
+2017,253,Southern Utah Thunderbirds,2016-12-10,-55.775300828396,included_game_day
+2017,253,Southern Utah Thunderbirds,2016-12-17,-74.3497610507444,included_game_day
+2017,253,Southern Utah Thunderbirds,2016-12-19,-82.53531327704457,included_game_day
+2017,253,Southern Utah Thunderbirds,2016-12-21,-82.39319207246442,included_game_day
+2017,253,Southern Utah Thunderbirds,2016-12-31,-67.56640816293785,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-01-05,-55.57599762163983,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-01-07,-81.07335804556419,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-01-12,-89.90186914828287,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-01-14,-93.92090245337984,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-01-19,-99.0002407965354,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-01-21,-101.62000276216797,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-01-26,-95.60052582415493,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-01-28,-114.67557037311143,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-02-02,-113.59355394495165,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-02-04,-137.18954073121995,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-02-09,-144.01563114296025,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-02-11,-140.8533647664781,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-02-18,-122.48041430537643,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-02-23,-117.33789698592734,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-02-25,-117.64507019130158,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-03-02,-122.45222241804626,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-03-04,-124.36677811620474,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-03-07,-110.68160475173381,included_game_day
+2017,253,Southern Utah Thunderbirds,2017-03-09,-121.10151791445129,included_game_day
+2018,253,Southern Utah Thunderbirds,2017-11-10,-14.0,included_game_day
+2018,253,Southern Utah Thunderbirds,2017-11-12,-30.6,included_game_day
+2018,253,Southern Utah Thunderbirds,2017-11-16,-20.54,included_game_day
+2018,253,Southern Utah Thunderbirds,2017-11-25,-23.233143,included_game_day
+2018,253,Southern Utah Thunderbirds,2017-11-29,-16.218889599999997,included_game_day
+2018,253,Southern Utah Thunderbirds,2017-12-06,-20.117467212719998,included_game_day
+2018,253,Southern Utah Thunderbirds,2017-12-09,-26.920654923678,included_game_day
+2018,253,Southern Utah Thunderbirds,2017-12-16,-18.4177718655352,included_game_day
+2018,253,Southern Utah Thunderbirds,2017-12-19,-36.434826763590294,included_game_day
+2018,253,Southern Utah Thunderbirds,2017-12-28,-45.28794020940407,included_game_day
+2018,253,Southern Utah Thunderbirds,2017-12-30,-70.93653824545376,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-01-04,-77.77290930347229,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-01-06,-82.78630366439394,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-01-13,-82.94869599022408,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-01-18,-78.14425372059401,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-01-20,-68.8845161649127,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-01-25,-74.97213465934968,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-01-27,-73.89713813096384,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-02-01,-77.73536737039447,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-02-03,-74.09443547416198,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-02-10,-66.19295137082202,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-02-15,-67.15185287659956,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-02-17,-69.42434795531658,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-02-22,-70.23767205732129,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-02-24,-70.83200286474565,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-03-01,-79.87432004614439,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-03-03,-67.08643388941397,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-03-06,-53.46153797243946,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-03-08,-31.593718638752573,included_game_day
+2018,253,Southern Utah Thunderbirds,2018-03-09,-35.831034370341364,included_game_day
+2019,253,Southern Utah Thunderbirds,2018-11-10,10.0,included_game_day
+2019,253,Southern Utah Thunderbirds,2018-11-18,15.712,included_game_day
+2019,253,Southern Utah Thunderbirds,2018-11-23,15.51816,included_game_day
+2019,253,Southern Utah Thunderbirds,2018-12-05,1.642417235,included_game_day
+2019,253,Southern Utah Thunderbirds,2018-12-08,-2.73100876347,included_game_day
+2019,253,Southern Utah Thunderbirds,2018-12-15,2.4765340718736004,included_game_day
+2019,253,Southern Utah Thunderbirds,2018-12-21,-37.0319761926702,included_game_day
+2019,253,Southern Utah Thunderbirds,2018-12-29,-74.07169943333577,included_game_day
+2019,253,Southern Utah Thunderbirds,2018-12-31,-80.59889766359984,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-01-03,-93.93730581700142,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-01-05,-72.45311707598832,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-01-12,-71.93237610035055,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-01-17,-59.79677258767981,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-01-19,-57.15552220485428,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-01-24,-60.06475487256763,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-01-28,-61.27571574392314,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-02-02,-61.32810915644906,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-02-04,-53.88335637148155,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-02-07,-38.45281015236869,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-02-09,-40.733404498544516,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-02-14,-47.64298099237077,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-02-16,-55.01613787045419,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-02-21,-39.97999258694806,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-02-23,-48.17149353799068,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-03-02,-52.21304294373636,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-03-04,-52.50097704202709,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-03-07,-64.06904490265593,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-03-13,-54.84691084485751,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-03-14,-28.51944504434989,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-03-15,-41.104179491709665,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-03-22,-29.848062164530234,included_game_day
+2019,253,Southern Utah Thunderbirds,2019-03-25,-35.48350600764747,included_game_day
+2020,253,Southern Utah Thunderbirds,2019-11-09,1.7999999999999998,included_game_day
+2020,253,Southern Utah Thunderbirds,2019-11-13,0.48999999999999977,included_game_day
+2020,253,Southern Utah Thunderbirds,2019-11-18,-8.717799999999999,included_game_day
+2020,253,Southern Utah Thunderbirds,2019-11-23,16.25159,included_game_day
+2020,253,Southern Utah Thunderbirds,2019-11-24,5.968151600000001,included_game_day
+2020,253,Southern Utah Thunderbirds,2019-12-01,-4.74394206,included_game_day
+2020,253,Southern Utah Thunderbirds,2019-12-07,-10.098479068700001,included_game_day
+2020,253,Southern Utah Thunderbirds,2019-12-14,-9.763003767100003,included_game_day
+2020,253,Southern Utah Thunderbirds,2019-12-19,8.595737471517797,included_game_day
+2020,253,Southern Utah Thunderbirds,2019-12-30,14.258982304080906,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-01-02,4.749640081628552,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-01-04,5.349080011772214,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-01-09,19.827529899108512,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-01-16,8.891752916277886,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-01-18,29.64045495617485,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-01-25,26.38454472965945,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-01-27,48.06078874561136,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-01-30,24.837836500101037,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-02-01,17.557450470366064,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-02-06,10.130536034843415,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-02-08,33.5773743196641,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-02-13,13.661768564790556,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-02-15,-2.4269088697730226,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-02-20,4.927613709087366,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-02-22,-10.373175202610058,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-02-27,-28.019671960242576,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-02-29,-8.49848858712392,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-03-05,-16.830225331179726,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-03-07,-2.58609322549437,included_game_day
+2020,253,Southern Utah Thunderbirds,2020-03-11,-10.0875086906826,included_game_day
+2021,253,Southern Utah Thunderbirds,2020-11-25,1.0,included_game_day
+2021,253,Southern Utah Thunderbirds,2020-12-03,-2.1500000000000004,included_game_day
+2021,253,Southern Utah Thunderbirds,2020-12-05,-4.67,included_game_day
+2021,253,Southern Utah Thunderbirds,2020-12-09,7.116999999999999,included_game_day
+2021,253,Southern Utah Thunderbirds,2020-12-17,10.35938723,included_game_day
+2021,253,Southern Utah Thunderbirds,2021-01-07,2.380726617874952,included_game_day
+2021,253,Southern Utah Thunderbirds,2021-01-09,6.997798128174914,included_game_day
+2021,253,Southern Utah Thunderbirds,2021-01-14,-2.250918153642578,included_game_day
+2021,253,Southern Utah Thunderbirds,2021-01-16,7.3501088209034275,included_game_day
+2021,253,Southern Utah Thunderbirds,2021-01-21,-12.025469391507302,included_game_day
+2021,253,Southern Utah Thunderbirds,2021-01-23,-4.525931961435886,included_game_day
+2021,253,Southern Utah Thunderbirds,2021-02-18,10.009054121067237,included_game_day
+2021,253,Southern Utah Thunderbirds,2021-02-20,22.637042987069734,included_game_day
+2021,253,Southern Utah Thunderbirds,2021-02-24,13.55748241644783,included_game_day
+2021,253,Southern Utah Thunderbirds,2021-02-26,37.293833959950305,included_game_day
+2021,253,Southern Utah Thunderbirds,2021-03-04,47.49454067726936,included_game_day
+2021,253,Southern Utah Thunderbirds,2021-03-06,64.6551060511246,included_game_day
+2021,253,Southern Utah Thunderbirds,2021-03-11,64.34964567601831,included_game_day
+2021,253,Southern Utah Thunderbirds,2021-03-12,51.52057781100667,included_game_day
+2022,253,Southern Utah Thunderbirds,2021-11-12,-7.1,included_game_day
+2022,253,Southern Utah Thunderbirds,2021-11-15,-20.490000000000002,included_game_day
+2022,253,Southern Utah Thunderbirds,2021-11-18,-23.398000000000003,included_game_day
+2022,253,Southern Utah Thunderbirds,2021-11-23,-17.113740000000004,included_game_day
+2022,253,Southern Utah Thunderbirds,2021-11-24,-3.4928960000000036,included_game_day
+2022,253,Southern Utah Thunderbirds,2021-12-02,12.801824099999996,included_game_day
+2022,253,Southern Utah Thunderbirds,2021-12-04,10.862858639999997,included_game_day
+2022,253,Southern Utah Thunderbirds,2021-12-08,15.955638916499996,included_game_day
+2022,253,Southern Utah Thunderbirds,2021-12-18,-14.819676532148474,included_game_day
+2022,253,Southern Utah Thunderbirds,2021-12-22,7.3862421001451,included_game_day
+2022,253,Southern Utah Thunderbirds,2021-12-30,10.97332620249059,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-01-01,-5.358951143155277,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-01-17,-2.1304668487299185,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-01-22,-5.8664021028895466,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-01-24,-14.173886126495683,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-01-27,-13.396670505894853,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-01-31,-13.916134130365325,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-02-03,-7.487074358711093,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-02-05,2.5511849877017276,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-02-07,-7.400558068285781,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-02-12,11.938620345137197,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-02-14,8.16426449079287,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-02-19,2.1668777267121175,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-02-21,28.738808268739263,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-02-24,27.95357718924298,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-03-01,14.65183728111736,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-03-03,16.840009520031153,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-03-05,28.56924533071212,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-03-10,11.643241117849868,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-03-16,15.156011674026006,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-03-22,32.61817551908521,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-03-26,38.59452240816016,included_game_day
+2022,253,Southern Utah Thunderbirds,2022-03-28,22.918821372043944,included_game_day
+2023,253,Southern Utah Thunderbirds,2022-11-07,-5.0,included_game_day
+2023,253,Southern Utah Thunderbirds,2022-11-18,-2.907,included_game_day
+2023,253,Southern Utah Thunderbirds,2022-11-25,-16.466476999999998,included_game_day
+2023,253,Southern Utah Thunderbirds,2022-11-26,-12.896602299999998,included_game_day
+2023,253,Southern Utah Thunderbirds,2022-11-30,-20.049894744099998,included_game_day
+2023,253,Southern Utah Thunderbirds,2022-12-03,-5.7989835626899975,included_game_day
+2023,253,Southern Utah Thunderbirds,2022-12-10,-1.1197790300719976,included_game_day
+2023,253,Southern Utah Thunderbirds,2022-12-17,-4.455761719357199,included_game_day
+2023,253,Southern Utah Thunderbirds,2022-12-21,-2.692374330508507,included_game_day
+2023,253,Southern Utah Thunderbirds,2022-12-28,7.273515444526124,included_game_day
+2023,253,Southern Utah Thunderbirds,2022-12-31,4.639290382275611,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-01-05,1.477940233777781,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-01-07,5.1643460766959155,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-01-12,18.383801651361303,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-01-14,25.37596520401845,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-01-19,51.69006446336104,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-01-21,32.69354180964362,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-01-26,45.420481369951034,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-02-01,47.657101759958856,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-02-04,35.961564084997704,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-02-09,37.10334701874986,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-02-11,35.19115234669263,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-02-17,36.2310998758069,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-02-23,43.43843209107363,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-02-25,41.13721368786081,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-03-01,28.10347263322062,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-03-03,32.43055863185897,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-03-09,30.907323194510234,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-03-10,38.3157730223951,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-03-11,19.14697350974576,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-03-18,34.135044548134125,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-03-20,28.063917852123296,included_game_day
+2023,253,Southern Utah Thunderbirds,2023-03-21,27.231282036971034,included_game_day
+2024,253,Southern Utah Thunderbirds,2023-11-06,2.0,included_game_day
+2024,253,Southern Utah Thunderbirds,2023-11-14,-4.45,included_game_day
+2024,253,Southern Utah Thunderbirds,2023-11-21,-14.501999999999999,included_game_day
+2024,253,Southern Utah Thunderbirds,2023-11-22,-8.220353,included_game_day
+2024,253,Southern Utah Thunderbirds,2023-11-29,-34.926247700000005,included_game_day
+2024,253,Southern Utah Thunderbirds,2023-12-02,-35.75478299,included_game_day
+2024,253,Southern Utah Thunderbirds,2023-12-05,-25.5168861631,included_game_day
+2024,253,Southern Utah Thunderbirds,2023-12-09,-20.79080437325,included_game_day
+2024,253,Southern Utah Thunderbirds,2023-12-16,-19.990234335223,included_game_day
+2024,253,Southern Utah Thunderbirds,2023-12-19,-19.0217098766507,included_game_day
+2024,253,Southern Utah Thunderbirds,2023-12-22,-21.35692606798644,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-01-04,-36.136477022929526,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-01-06,-50.174495099286545,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-01-13,-48.28850416139107,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-01-18,-40.31198399381142,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-01-20,-38.786462225993674,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-01-25,-30.82103494582485,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-01-27,-10.938625928561564,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-02-01,-22.473980241353804,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-02-03,-11.747697886844284,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-02-08,-18.025892948366643,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-02-10,-33.20135051314092,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-02-15,-39.64782130998378,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-02-17,-40.28755770990334,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-02-22,-35.78367483646261,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-02-29,-47.42098200172392,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-03-02,-46.12157152284779,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-03-07,-68.86392238700708,included_game_day
+2024,253,Southern Utah Thunderbirds,2024-03-09,-64.74000649301476,included_game_day
+2025,253,Southern Utah Thunderbirds,2024-11-09,1.6,included_game_day
+2025,253,Southern Utah Thunderbirds,2024-11-16,4.23,included_game_day
+2025,253,Southern Utah Thunderbirds,2024-11-19,5.751600000000001,included_game_day
+2025,253,Southern Utah Thunderbirds,2024-11-22,10.78546,included_game_day
+2025,253,Southern Utah Thunderbirds,2024-11-23,21.101584000000003,included_game_day
+2025,253,Southern Utah Thunderbirds,2024-11-26,-13.489160919999996,included_game_day
+2025,253,Southern Utah Thunderbirds,2024-11-30,-5.260992527999996,included_game_day
+2025,253,Southern Utah Thunderbirds,2024-12-07,-31.169012307699994,included_game_day
+2025,253,Southern Utah Thunderbirds,2024-12-16,-31.079556847247574,included_game_day
+2025,253,Southern Utah Thunderbirds,2024-12-18,-31.908077597642816,included_game_day
+2025,253,Southern Utah Thunderbirds,2024-12-21,-41.447865763931134,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-01-04,-39.262393728314265,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-01-09,-54.360354186676965,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-01-11,-48.15248823909817,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-01-18,-64.2321350589892,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-01-23,-68.38288440401078,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-01-25,-82.81798274665668,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-01-30,-74.59269230310741,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-02-01,-87.87024982366427,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-02-06,-72.51109526700169,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-02-08,-88.642887664262,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-02-13,-89.5301702848758,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-02-15,-80.96551101841983,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-02-20,-88.67680581008413,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-02-27,-76.88447825546675,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-03-01,-104.19408602823194,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-03-06,-118.56679143046982,included_game_day
+2025,253,Southern Utah Thunderbirds,2025-03-11,-122.16762516656428,included_game_day
+2026,253,Southern Utah Thunderbirds,2025-11-04,-14.0,included_game_day
+2026,253,Southern Utah Thunderbirds,2025-11-08,-39.8,included_game_day
+2026,253,Southern Utah Thunderbirds,2025-11-15,-40.068,included_game_day
+2026,253,Southern Utah Thunderbirds,2025-11-17,-96.03049999999999,included_game_day
+2026,253,Southern Utah Thunderbirds,2025-11-19,-109.48934999999999,included_game_day
+2026,253,Southern Utah Thunderbirds,2025-11-28,-103.34248498999999,included_game_day
+2026,253,Southern Utah Thunderbirds,2025-11-29,-97.01782935099999,included_game_day
+2026,253,Southern Utah Thunderbirds,2025-12-06,-95.744529838051,included_game_day
+2026,253,Southern Utah Thunderbirds,2025-12-13,-113.6832107297073,included_game_day
+2026,253,Southern Utah Thunderbirds,2025-12-18,-112.48354241478256,included_game_day
+2026,253,Southern Utah Thunderbirds,2025-12-29,-114.90890739070075,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-01-03,-114.89791944073818,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-01-08,-112.50105299784215,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-01-10,-100.03477015981778,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-01-15,-91.99002198578016,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-01-17,-66.96658438373423,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-01-21,-43.403408477662126,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-01-24,-49.50390150775953,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-01-29,-59.40237296327494,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-01-31,-53.65533164549584,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-02-07,-57.817830372012644,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-02-12,-70.33618109722244,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-02-14,-56.50350783269999,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-02-19,-56.16923332518705,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-02-21,-55.261432516753786,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-02-28,-38.8756736970957,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-03-05,-35.701537159820845,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-03-07,-36.643947484443906,included_game_day
+2026,253,Southern Utah Thunderbirds,2026-03-12,-40.303774583818395,included_game_day
+2027,253,Southern Utah Thunderbirds,2026-11-12,-23.237000000000002,included_game_day
+2027,253,Southern Utah Thunderbirds,2026-11-14,-54.6083,included_game_day
+2027,253,Southern Utah Thunderbirds,2026-11-19,-59.68767,included_game_day
+2027,253,Southern Utah Thunderbirds,2026-11-23,-57.6259601,included_game_day

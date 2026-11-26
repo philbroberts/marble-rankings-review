@@ -1,0 +1,1174 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,315,Niagara,1987-12-01,0.8999999999999999,included_game_day
+1988,315,Niagara,1987-12-04,10.5349,included_game_day
+1988,315,Niagara,1987-12-05,-3.125589999999999,included_game_day
+1988,315,Niagara,1987-12-09,-11.845030999999999,included_game_day
+1988,315,Niagara,1987-12-12,-10.998616899999998,included_game_day
+1988,315,Niagara,1987-12-19,-16.24139021,included_game_day
+1988,315,Niagara,1987-12-28,-22.5456786286973,included_game_day
+1988,315,Niagara,1987-12-29,-28.28798451609757,included_game_day
+1988,315,Niagara,1988-01-06,-29.97346285343751,included_game_day
+1988,315,Niagara,1988-01-08,-23.37096674757152,included_game_day
+1988,315,Niagara,1988-01-14,-19.737113524570827,included_game_day
+1988,315,Niagara,1988-01-16,-21.316308882977655,included_game_day
+1988,315,Niagara,1988-01-21,-29.915107985419596,included_game_day
+1988,315,Niagara,1988-01-23,-19.43764764934721,included_game_day
+1988,315,Niagara,1988-01-27,-13.587928221486324,included_game_day
+1988,315,Niagara,1988-01-30,-16.105461960574576,included_game_day
+1988,315,Niagara,1988-02-04,-19.147486215569586,included_game_day
+1988,315,Niagara,1988-02-06,-13.790081009623078,included_game_day
+1988,315,Niagara,1988-02-09,-31.33708472004998,included_game_day
+1988,315,Niagara,1988-02-13,-30.374687688391504,included_game_day
+1988,315,Niagara,1988-02-16,-37.316151085416834,included_game_day
+1988,315,Niagara,1988-02-20,-31.21100392743547,included_game_day
+1988,315,Niagara,1988-02-23,-29.806005349061774,included_game_day
+1988,315,Niagara,1988-02-25,-25.133849652362336,included_game_day
+1988,315,Niagara,1988-02-27,-20.41705442504261,included_game_day
+1988,315,Niagara,1988-03-01,-21.97275078495214,included_game_day
+1988,315,Niagara,1988-03-05,-12.710727470577469,included_game_day
+1988,315,Niagara,1988-03-09,-3.741235482436787,included_game_day
+1988,315,Niagara,1988-03-10,-11.425101279053605,included_game_day
+1988,315,Niagara,1988-03-11,-16.04370501071065,included_game_day
+1989,315,Niagara,1988-11-25,-33.0,included_game_day
+1989,315,Niagara,1988-11-26,-21.7,included_game_day
+1989,315,Niagara,1988-11-30,-18.32,included_game_day
+1989,315,Niagara,1988-12-05,-13.57239,included_game_day
+1989,315,Niagara,1988-12-10,-22.161743,included_game_day
+1989,315,Niagara,1988-12-13,-21.5389567,included_game_day
+1989,315,Niagara,1988-12-23,-12.019721567,included_game_day
+1989,315,Niagara,1988-12-27,-31.94245939356412,included_game_day
+1989,315,Niagara,1988-12-29,-49.96355935946151,included_game_day
+1989,315,Niagara,1989-01-05,-37.824520760536345,included_game_day
+1989,315,Niagara,1989-01-07,-36.03642512604967,included_game_day
+1989,315,Niagara,1989-01-12,-47.62827109254819,included_game_day
+1989,315,Niagara,1989-01-14,-48.61933448416263,included_game_day
+1989,315,Niagara,1989-01-17,-41.99295155448112,included_game_day
+1989,315,Niagara,1989-01-19,-48.206453002895934,included_game_day
+1989,315,Niagara,1989-01-21,-59.97518556676968,included_game_day
+1989,315,Niagara,1989-01-26,-52.10649506485767,included_game_day
+1989,315,Niagara,1989-01-28,-51.27931053577646,included_game_day
+1989,315,Niagara,1989-02-02,-65.65106654985111,included_game_day
+1989,315,Niagara,1989-02-04,-60.00246047900934,included_game_day
+1989,315,Niagara,1989-02-09,-72.79647150975174,included_game_day
+1989,315,Niagara,1989-02-11,-86.65952006423807,included_game_day
+1989,315,Niagara,1989-02-16,-80.7087038267897,included_game_day
+1989,315,Niagara,1989-02-18,-69.1631301311357,included_game_day
+1989,315,Niagara,1989-02-22,-82.55703451074241,included_game_day
+1989,315,Niagara,1989-02-23,-60.373142667771624,included_game_day
+1989,315,Niagara,1989-03-04,-66.34694649682221,included_game_day
+1989,315,Niagara,1989-03-09,-93.12005086594301,included_game_day
+1990,315,Niagara,1989-11-29,-13.4,included_game_day
+1990,315,Niagara,1989-12-02,-21.46,included_game_day
+1990,315,Niagara,1989-12-08,-34.504000000000005,included_game_day
+1990,315,Niagara,1989-12-10,-36.898459,included_game_day
+1990,315,Niagara,1989-12-13,-44.370541700000004,included_game_day
+1990,315,Niagara,1989-12-16,-58.846473260260005,included_game_day
+1990,315,Niagara,1989-12-21,-39.818713817234006,included_game_day
+1990,315,Niagara,1989-12-23,-60.5158823150106,included_game_day
+1990,315,Niagara,1989-12-27,-66.27869734212554,included_game_day
+1990,315,Niagara,1989-12-28,-71.79233898867881,included_game_day
+1990,315,Niagara,1989-12-30,-91.61125246600093,included_game_day
+1990,315,Niagara,1990-01-04,-85.20119638793857,included_game_day
+1990,315,Niagara,1990-01-06,-78.34369724120553,included_game_day
+1990,315,Niagara,1990-01-11,-77.27014340734354,included_game_day
+1990,315,Niagara,1990-01-13,-79.79806541152601,included_game_day
+1990,315,Niagara,1990-01-17,-84.11687902036157,included_game_day
+1990,315,Niagara,1990-01-25,-90.15214418581337,included_game_day
+1990,315,Niagara,1990-01-27,-85.83293686821636,included_game_day
+1990,315,Niagara,1990-01-30,-84.20318780261074,included_game_day
+1990,315,Niagara,1990-02-01,-84.65937358947967,included_game_day
+1990,315,Niagara,1990-02-03,-82.61938877936419,included_game_day
+1990,315,Niagara,1990-02-08,-70.70451683484467,included_game_day
+1990,315,Niagara,1990-02-10,-77.10287578519846,included_game_day
+1990,315,Niagara,1990-02-12,-84.13214610282989,included_game_day
+1990,315,Niagara,1990-02-17,-68.15355436917184,included_game_day
+1990,315,Niagara,1990-02-23,-80.15298727471256,included_game_day
+1990,315,Niagara,1990-02-25,-96.12946675240313,included_game_day
+1990,315,Niagara,1990-03-02,-96.64988754041394,included_game_day
+1991,315,Niagara,1990-11-23,-15.0,included_game_day
+1991,315,Niagara,1990-11-26,4.5,included_game_day
+1991,315,Niagara,1990-11-30,-9.77,included_game_day
+1991,315,Niagara,1990-12-04,-21.6408,included_game_day
+1991,315,Niagara,1990-12-07,-48.2278263,included_game_day
+1991,315,Niagara,1990-12-08,-75.72222138,included_game_day
+1991,315,Niagara,1990-12-11,-68.40419424199999,included_game_day
+1991,315,Niagara,1990-12-22,-50.64358816679999,included_game_day
+1991,315,Niagara,1990-12-27,-48.069678221919986,included_game_day
+1991,315,Niagara,1991-01-05,-50.308716155844344,included_game_day
+1991,315,Niagara,1991-01-08,-47.394812880869324,included_game_day
+1991,315,Niagara,1991-01-10,-51.09581204192782,included_game_day
+1991,315,Niagara,1991-01-12,-45.088681111144126,included_game_day
+1991,315,Niagara,1991-01-15,-43.99038118436339,included_game_day
+1991,315,Niagara,1991-01-17,-44.76301400620604,included_game_day
+1991,315,Niagara,1991-01-19,-43.23494069305404,included_game_day
+1991,315,Niagara,1991-01-24,-47.25264698581634,included_game_day
+1991,315,Niagara,1991-01-26,-52.668649085952666,included_game_day
+1991,315,Niagara,1991-01-29,-45.27791944197401,included_game_day
+1991,315,Niagara,1991-01-31,-50.90283212397877,included_game_day
+1991,315,Niagara,1991-02-07,-49.57299548558879,included_game_day
+1991,315,Niagara,1991-02-09,-45.85145534993245,included_game_day
+1991,315,Niagara,1991-02-12,-54.57509647249716,included_game_day
+1991,315,Niagara,1991-02-14,-51.85405193285349,included_game_day
+1991,315,Niagara,1991-02-16,-52.927591106089295,included_game_day
+1991,315,Niagara,1991-02-19,-47.62965542178453,included_game_day
+1991,315,Niagara,1991-02-23,-42.55635398974033,included_game_day
+1991,315,Niagara,1991-03-01,-52.62612909603543,included_game_day
+1992,315,Niagara,1991-11-23,-6.0,included_game_day
+1992,315,Niagara,1991-11-26,9.8,included_game_day
+1992,315,Niagara,1991-12-04,-3.0564999999999998,included_game_day
+1992,315,Niagara,1991-12-07,-3.2449500000000002,included_game_day
+1992,315,Niagara,1991-12-13,-12.266831,included_game_day
+1992,315,Niagara,1991-12-21,-23.324830808999998,included_game_day
+1992,315,Niagara,1991-12-23,-26.197298927899997,included_game_day
+1992,315,Niagara,1991-12-29,-8.489166401033849,included_game_day
+1992,315,Niagara,1991-12-30,-12.137492772822664,included_game_day
+1992,315,Niagara,1992-01-02,9.634420321767802,included_game_day
+1992,315,Niagara,1992-01-05,6.5104243463797715,included_game_day
+1992,315,Niagara,1992-01-11,23.527221475276882,included_game_day
+1992,315,Niagara,1992-01-13,5.623321200949299,included_game_day
+1992,315,Niagara,1992-01-17,26.37980048997711,included_game_day
+1992,315,Niagara,1992-01-19,21.078444218460515,included_game_day
+1992,315,Niagara,1992-01-22,9.022196238955944,included_game_day
+1992,315,Niagara,1992-01-25,2.121046416159718,included_game_day
+1992,315,Niagara,1992-01-27,-7.737990073774201,included_game_day
+1992,315,Niagara,1992-02-01,-9.54084457453779,included_game_day
+1992,315,Niagara,1992-02-07,-5.09105496328113,included_game_day
+1992,315,Niagara,1992-02-09,-0.2619320377880383,included_game_day
+1992,315,Niagara,1992-02-13,8.401007883701148,included_game_day
+1992,315,Niagara,1992-02-18,10.92212130588676,included_game_day
+1992,315,Niagara,1992-02-21,-9.052318781066399,included_game_day
+1992,315,Niagara,1992-02-23,-20.455525431481163,included_game_day
+1992,315,Niagara,1992-02-27,-1.3946958366341597,included_game_day
+1992,315,Niagara,1992-02-29,3.4940592252224567,included_game_day
+1992,315,Niagara,1992-03-07,-19.59493672529225,included_game_day
+1993,315,Niagara,1992-12-05,-2.88,included_game_day
+1993,315,Niagara,1992-12-12,0.5657059999999996,included_game_day
+1993,315,Niagara,1992-12-19,12.962492569799998,included_game_day
+1993,315,Niagara,1992-12-21,8.21575491282,included_game_day
+1993,315,Niagara,1992-12-23,36.773941021538,included_game_day
+1993,315,Niagara,1993-01-02,46.162537805017024,included_game_day
+1993,315,Niagara,1993-01-05,50.291851678224376,included_game_day
+1993,315,Niagara,1993-01-07,62.17604998750322,included_game_day
+1993,315,Niagara,1993-01-09,65.94190259361497,included_game_day
+1993,315,Niagara,1993-01-12,59.254608789014824,included_game_day
+1993,315,Niagara,1993-01-14,73.08651733923084,included_game_day
+1993,315,Niagara,1993-01-19,75.52197279547241,included_game_day
+1993,315,Niagara,1993-01-21,72.7681598437748,included_game_day
+1993,315,Niagara,1993-01-23,67.37436838448586,included_game_day
+1993,315,Niagara,1993-01-26,51.1331945118572,included_game_day
+1993,315,Niagara,1993-01-30,59.37780161022304,included_game_day
+1993,315,Niagara,1993-02-02,60.21728568968172,included_game_day
+1993,315,Niagara,1993-02-05,68.55151225463952,included_game_day
+1993,315,Niagara,1993-02-07,67.5615056030658,included_game_day
+1993,315,Niagara,1993-02-11,63.134665364894914,included_game_day
+1993,315,Niagara,1993-02-13,64.72268568206098,included_game_day
+1993,315,Niagara,1993-02-17,72.3030276886929,included_game_day
+1993,315,Niagara,1993-02-20,64.36811207316086,included_game_day
+1993,315,Niagara,1993-02-24,59.34660651035941,included_game_day
+1993,315,Niagara,1993-02-27,59.70730627091206,included_game_day
+1993,315,Niagara,1993-03-01,47.50323735506609,included_game_day
+1993,315,Niagara,1993-03-05,61.0430118039573,included_game_day
+1993,315,Niagara,1993-03-06,56.276643229357255,included_game_day
+1993,315,Niagara,1993-03-07,56.13692679553089,included_game_day
+1993,315,Niagara,1993-03-17,49.571853994049945,included_game_day
+1994,315,Niagara,1993-12-01,-29.8,included_game_day
+1994,315,Niagara,1993-12-03,-32.12,included_game_day
+1994,315,Niagara,1993-12-04,-26.281,included_game_day
+1994,315,Niagara,1993-12-07,-34.0729,included_game_day
+1994,315,Niagara,1993-12-09,-46.313109999999995,included_game_day
+1994,315,Niagara,1993-12-18,-60.246158369999996,included_game_day
+1994,315,Niagara,1993-12-22,-66.89688153521,included_game_day
+1994,315,Niagara,1993-12-29,-62.498940146489,included_game_day
+1994,315,Niagara,1994-01-06,-62.1047599604194,included_game_day
+1994,315,Niagara,1994-01-08,-58.888248662282706,included_game_day
+1994,315,Niagara,1994-01-13,-73.58619126800806,included_game_day
+1994,315,Niagara,1994-01-15,-73.32175985625796,included_game_day
+1994,315,Niagara,1994-01-17,-69.70043169924271,included_game_day
+1994,315,Niagara,1994-01-19,-61.220150780812105,included_game_day
+1994,315,Niagara,1994-01-22,-68.09142869454854,included_game_day
+1994,315,Niagara,1994-01-24,-79.64436196717273,included_game_day
+1994,315,Niagara,1994-01-27,-88.51891566523257,included_game_day
+1994,315,Niagara,1994-01-29,-85.18620593166537,included_game_day
+1994,315,Niagara,1994-02-05,-82.91128744076481,included_game_day
+1994,315,Niagara,1994-02-10,-94.36092946725385,included_game_day
+1994,315,Niagara,1994-02-12,-82.177465741587,included_game_day
+1994,315,Niagara,1994-02-16,-88.65458317667196,included_game_day
+1994,315,Niagara,1994-02-19,-69.58246762271077,included_game_day
+1994,315,Niagara,1994-02-21,-62.39616342362012,included_game_day
+1994,315,Niagara,1994-02-25,-70.72271408568302,included_game_day
+1994,315,Niagara,1994-02-27,-97.26730500294387,included_game_day
+1994,315,Niagara,1994-03-05,-94.9322959150673,included_game_day
+1995,315,Niagara,1994-11-25,-11.0,included_game_day
+1995,315,Niagara,1994-11-26,-13.8,included_game_day
+1995,315,Niagara,1994-12-03,-45.168000000000006,included_game_day
+1995,315,Niagara,1994-12-07,-51.04820000000001,included_game_day
+1995,315,Niagara,1994-12-10,-60.31343900000001,included_game_day
+1995,315,Niagara,1994-12-12,-72.2450417,included_game_day
+1995,315,Niagara,1994-12-17,-61.36075926,included_game_day
+1995,315,Niagara,1994-12-20,-73.7451982915,included_game_day
+1995,315,Niagara,1994-12-22,-89.31813036235,included_game_day
+1995,315,Niagara,1994-12-28,-79.784751718145,included_game_day
+1995,315,Niagara,1995-01-05,-73.07310515685302,included_game_day
+1995,315,Niagara,1995-01-07,-71.70620793847861,included_game_day
+1995,315,Niagara,1995-01-09,-73.91546579808781,included_game_day
+1995,315,Niagara,1995-01-12,-84.20635640939372,included_game_day
+1995,315,Niagara,1995-01-14,-97.17204152572009,included_game_day
+1995,315,Niagara,1995-01-16,-109.60781807997319,included_game_day
+1995,315,Niagara,1995-01-20,-111.23215583553674,included_game_day
+1995,315,Niagara,1995-01-22,-111.86355163070857,included_game_day
+1995,315,Niagara,1995-01-28,-121.3755196034569,included_game_day
+1995,315,Niagara,1995-01-31,-124.74325801427855,included_game_day
+1995,315,Niagara,1995-02-03,-122.48376077151832,included_game_day
+1995,315,Niagara,1995-02-05,-131.4219347135862,included_game_day
+1995,315,Niagara,1995-02-11,-101.95361395350473,included_game_day
+1995,315,Niagara,1995-02-14,-104.17415700525459,included_game_day
+1995,315,Niagara,1995-02-17,-114.89798015361315,included_game_day
+1995,315,Niagara,1995-02-19,-117.71615764859132,included_game_day
+1995,315,Niagara,1995-02-22,-125.15859118853054,included_game_day
+1995,315,Niagara,1995-02-26,-115.65816307686758,included_game_day
+1995,315,Niagara,1995-03-04,-118.88880362962303,included_game_day
+1996,315,Niagara,1995-11-24,-13.0,included_game_day
+1996,315,Niagara,1995-11-25,3.6000000000000014,included_game_day
+1996,315,Niagara,1995-12-01,-3.5399999999999983,included_game_day
+1996,315,Niagara,1995-12-02,-2.6271099999999983,included_game_day
+1996,315,Niagara,1995-12-05,-29.975399,included_game_day
+1996,315,Niagara,1995-12-07,-20.9845591,included_game_day
+1996,315,Niagara,1995-12-09,-21.22662219,included_game_day
+1996,315,Niagara,1995-12-21,-29.359365269999998,included_game_day
+1996,315,Niagara,1995-12-28,-32.1298991029,included_game_day
+1996,315,Niagara,1995-12-30,-36.236832332950996,included_game_day
+1996,315,Niagara,1996-01-03,-27.360149840478705,included_game_day
+1996,315,Niagara,1996-01-07,-11.328398499833352,included_game_day
+1996,315,Niagara,1996-01-13,-8.991018338523128,included_game_day
+1996,315,Niagara,1996-01-19,-7.957070499105849,included_game_day
+1996,315,Niagara,1996-01-21,-14.23004180486545,included_game_day
+1996,315,Niagara,1996-01-26,-17.92143537565558,included_game_day
+1996,315,Niagara,1996-01-30,-11.222079745336409,included_game_day
+1996,315,Niagara,1996-02-02,-23.89118813686882,included_game_day
+1996,315,Niagara,1996-02-04,-43.18023547421729,included_game_day
+1996,315,Niagara,1996-02-08,-36.87214329365055,included_game_day
+1996,315,Niagara,1996-02-10,-37.23790880254709,included_game_day
+1996,315,Niagara,1996-02-13,-22.926451449473213,included_game_day
+1996,315,Niagara,1996-02-17,-37.027550238146944,included_game_day
+1996,315,Niagara,1996-02-19,-41.19542897430466,included_game_day
+1996,315,Niagara,1996-02-23,-37.72683713330535,included_game_day
+1996,315,Niagara,1996-02-25,-30.93431181835599,included_game_day
+1996,315,Niagara,1996-03-02,-16.948485852221552,included_game_day
+1996,315,Niagara,1996-03-03,-34.064860781552454,included_game_day
+1997,315,Niagara,1996-11-23,17.0,included_game_day
+1997,315,Niagara,1996-11-25,20.9,included_game_day
+1997,315,Niagara,1996-11-30,19.049999999999997,included_game_day
+1997,315,Niagara,1996-12-05,16.706258699999996,included_game_day
+1997,315,Niagara,1996-12-07,25.422832829999997,included_game_day
+1997,315,Niagara,1996-12-14,-2.468688153000002,included_game_day
+1997,315,Niagara,1996-12-18,0.19262262229999738,included_game_day
+1997,315,Niagara,1996-12-21,-17.731967178448002,included_game_day
+1997,315,Niagara,1997-01-02,-10.128695301684413,included_game_day
+1997,315,Niagara,1997-01-04,-7.830379251667551,included_game_day
+1997,315,Niagara,1997-01-09,-47.3222408901081,included_game_day
+1997,315,Niagara,1997-01-12,-46.51855835232212,included_game_day
+1997,315,Niagara,1997-01-14,-65.10195693124012,included_game_day
+1997,315,Niagara,1997-01-18,-72.36362858707707,included_game_day
+1997,315,Niagara,1997-01-21,-74.58167038274756,included_game_day
+1997,315,Niagara,1997-01-24,-87.93162604019936,included_game_day
+1997,315,Niagara,1997-01-26,-66.67018799553517,included_game_day
+1997,315,Niagara,1997-01-31,-50.81488950178566,included_game_day
+1997,315,Niagara,1997-02-02,-65.4364614788649,included_game_day
+1997,315,Niagara,1997-02-05,-61.09068163776487,included_game_day
+1997,315,Niagara,1997-02-08,-73.52946649809505,included_game_day
+1997,315,Niagara,1997-02-10,-72.3991910923227,included_game_day
+1997,315,Niagara,1997-02-13,-82.33968180763031,included_game_day
+1997,315,Niagara,1997-02-16,-78.87653809053757,included_game_day
+1997,315,Niagara,1997-02-21,-72.35392440744087,included_game_day
+1997,315,Niagara,1997-02-23,-76.9253456863882,included_game_day
+1997,315,Niagara,1997-03-01,-56.822615938880546,included_game_day
+1997,315,Niagara,1997-03-02,-58.56387924807332,included_game_day
+1998,315,Niagara,1997-11-25,18.3017,included_game_day
+1998,315,Niagara,1997-11-29,10.34153,included_game_day
+1998,315,Niagara,1997-12-04,-4.857263,included_game_day
+1998,315,Niagara,1997-12-06,-17.38699594,included_game_day
+1998,315,Niagara,1997-12-10,7.617925014000001,included_game_day
+1998,315,Niagara,1997-12-13,0.5052821755400005,included_game_day
+1998,315,Niagara,1997-12-20,-4.889992901404,included_game_day
+1998,315,Niagara,1997-12-26,25.865878418058102,included_game_day
+1998,315,Niagara,1997-12-27,21.28727370692637,included_game_day
+1998,315,Niagara,1998-01-03,25.997867890570006,included_game_day
+1998,315,Niagara,1998-01-07,40.289114862196826,included_game_day
+1998,315,Niagara,1998-01-10,21.743556348280578,included_game_day
+1998,315,Niagara,1998-01-13,7.601386913953297,included_game_day
+1998,315,Niagara,1998-01-17,0.016932582578872868,included_game_day
+1998,315,Niagara,1998-01-19,8.36719343769034,included_game_day
+1998,315,Niagara,1998-01-23,22.514458362874798,included_game_day
+1998,315,Niagara,1998-01-25,-0.24358187805985665,included_game_day
+1998,315,Niagara,1998-01-28,10.85111558724638,included_game_day
+1998,315,Niagara,1998-01-31,10.988410673215098,included_game_day
+1998,315,Niagara,1998-02-02,7.950321913973527,included_game_day
+1998,315,Niagara,1998-02-06,7.862218580797496,included_game_day
+1998,315,Niagara,1998-02-08,3.1759208589377304,included_game_day
+1998,315,Niagara,1998-02-13,20.09906395486738,included_game_day
+1998,315,Niagara,1998-02-15,22.31631249941618,included_game_day
+1998,315,Niagara,1998-02-20,36.01413537482566,included_game_day
+1998,315,Niagara,1998-02-22,42.24693024581893,included_game_day
+1998,315,Niagara,1998-02-28,33.83851658055003,included_game_day
+1999,315,Niagara,1998-11-12,19.0,included_game_day
+1999,315,Niagara,1998-11-16,6.1,included_game_day
+1999,315,Niagara,1998-11-21,0.6899999999999995,included_game_day
+1999,315,Niagara,1998-11-30,6.2449,included_game_day
+1999,315,Niagara,1998-12-04,12.40973,included_game_day
+1999,315,Niagara,1998-12-06,24.13468082,included_game_day
+1999,315,Niagara,1998-12-12,7.935968991999999,included_game_day
+1999,315,Niagara,1998-12-23,5.360592426190539,included_game_day
+1999,315,Niagara,1998-12-29,-0.8345627658285144,included_game_day
+1999,315,Niagara,1998-12-30,5.534270941874561,included_game_day
+1999,315,Niagara,1999-01-02,17.875024516654427,included_game_day
+1999,315,Niagara,1999-01-04,-10.27197432673686,included_game_day
+1999,315,Niagara,1999-01-06,3.7144275207430013,included_game_day
+1999,315,Niagara,1999-01-10,-6.6307454148529885,included_game_day
+1999,315,Niagara,1999-01-12,-4.573057967171662,included_game_day
+1999,315,Niagara,1999-01-16,-1.7023818927284688,included_game_day
+1999,315,Niagara,1999-01-18,6.372311476837674,included_game_day
+1999,315,Niagara,1999-01-21,12.796269729886891,included_game_day
+1999,315,Niagara,1999-01-23,8.975985382514574,included_game_day
+1999,315,Niagara,1999-01-30,8.824421862462996,included_game_day
+1999,315,Niagara,1999-02-01,-2.6046541316212544,included_game_day
+1999,315,Niagara,1999-02-06,0.4498765407893819,included_game_day
+1999,315,Niagara,1999-02-08,12.312577700922457,included_game_day
+1999,315,Niagara,1999-02-13,6.70921338474814,included_game_day
+1999,315,Niagara,1999-02-15,6.701324259156804,included_game_day
+1999,315,Niagara,1999-02-18,-15.985161305669726,included_game_day
+1999,315,Niagara,1999-02-20,7.213999338296853,included_game_day
+1999,315,Niagara,1999-02-27,6.745375035909458,included_game_day
+1999,315,Niagara,1999-02-28,-3.7473173450404573,included_game_day
+2000,315,Niagara,1999-11-19,5.0,included_game_day
+2000,315,Niagara,1999-11-28,11.6228,included_game_day
+2000,315,Niagara,1999-12-02,17.91912,included_game_day
+2000,315,Niagara,1999-12-05,18.634134,included_game_day
+2000,315,Niagara,1999-12-08,18.77592028,included_game_day
+2000,315,Niagara,1999-12-11,7.190599451999999,included_game_day
+2000,315,Niagara,1999-12-14,9.188605506799998,included_game_day
+2000,315,Niagara,1999-12-19,8.853546690119998,included_game_day
+2000,315,Niagara,1999-12-28,-19.953005407668,included_game_day
+2000,315,Niagara,2000-01-02,-24.16436213161837,included_game_day
+2000,315,Niagara,2000-01-08,-20.59429014601514,included_game_day
+2000,315,Niagara,2000-01-10,-11.2163907209608,included_game_day
+2000,315,Niagara,2000-01-14,-11.946490183502227,included_game_day
+2000,315,Niagara,2000-01-17,-27.195528045697436,included_game_day
+2000,315,Niagara,2000-01-21,-23.288007573447118,included_game_day
+2000,315,Niagara,2000-01-23,-24.40987368323647,included_game_day
+2000,315,Niagara,2000-01-29,-10.792893300577571,included_game_day
+2000,315,Niagara,2000-01-31,-32.4506199864408,included_game_day
+2000,315,Niagara,2000-02-04,-31.809484182367914,included_game_day
+2000,315,Niagara,2000-02-06,-36.554956456695976,included_game_day
+2000,315,Niagara,2000-02-11,-35.08541327255988,included_game_day
+2000,315,Niagara,2000-02-13,-34.1470936348009,included_game_day
+2000,315,Niagara,2000-02-15,-34.885867076336794,included_game_day
+2000,315,Niagara,2000-02-18,-34.265806706991214,included_game_day
+2000,315,Niagara,2000-02-20,-35.955725957510225,included_game_day
+2000,315,Niagara,2000-02-25,-36.78264695701665,included_game_day
+2000,315,Niagara,2000-02-27,-46.260966297990876,included_game_day
+2000,315,Niagara,2000-03-03,-21.375909317961344,included_game_day
+2000,315,Niagara,2000-03-05,-12.543261951269708,included_game_day
+2001,315,Niagara,2000-11-17,7.0,included_game_day
+2001,315,Niagara,2000-11-21,10.7,included_game_day
+2001,315,Niagara,2000-11-25,-18.813,included_game_day
+2001,315,Niagara,2000-11-27,-2.5916999999999994,included_game_day
+2001,315,Niagara,2000-12-02,-12.332529999999998,included_game_day
+2001,315,Niagara,2000-12-04,-13.911785450999998,included_game_day
+2001,315,Niagara,2000-12-07,-4.310730905899998,included_game_day
+2001,315,Niagara,2000-12-09,-11.735952815309998,included_game_day
+2001,315,Niagara,2000-12-21,-22.458634861778997,included_game_day
+2001,315,Niagara,2000-12-28,-22.36274776567083,included_game_day
+2001,315,Niagara,2000-12-30,-35.488032237799324,included_game_day
+2001,315,Niagara,2001-01-03,-27.48450559048613,included_game_day
+2001,315,Niagara,2001-01-05,-28.829935310878557,included_game_day
+2001,315,Niagara,2001-01-07,-6.337248316183121,included_game_day
+2001,315,Niagara,2001-01-10,-14.171829666132465,included_game_day
+2001,315,Niagara,2001-01-13,-9.016092196436736,included_game_day
+2001,315,Niagara,2001-01-15,-8.992366760313754,included_game_day
+2001,315,Niagara,2001-01-20,-15.153179720119578,included_game_day
+2001,315,Niagara,2001-01-25,-16.044366919928603,included_game_day
+2001,315,Niagara,2001-01-27,0.551835291814232,included_game_day
+2001,315,Niagara,2001-02-02,9.85979086381058,included_game_day
+2001,315,Niagara,2001-02-08,14.954859847358676,included_game_day
+2001,315,Niagara,2001-02-10,4.597516090470789,included_game_day
+2001,315,Niagara,2001-02-16,13.750539545233607,included_game_day
+2001,315,Niagara,2001-02-18,3.1896141417964206,included_game_day
+2001,315,Niagara,2001-02-21,-14.102468897029164,included_game_day
+2001,315,Niagara,2001-02-24,1.1260760435426818,included_game_day
+2001,315,Niagara,2001-03-03,2.709887058359369,included_game_day
+2002,315,Niagara Purple Eagles,2001-11-17,-18.0,included_game_day
+2002,315,Niagara Purple Eagles,2001-11-19,-18.2,included_game_day
+2002,315,Niagara Purple Eagles,2001-11-24,-26.72,included_game_day
+2002,315,Niagara Purple Eagles,2001-11-30,-26.387,included_game_day
+2002,315,Niagara Purple Eagles,2001-12-06,-9.72633592,included_game_day
+2002,315,Niagara Purple Eagles,2001-12-08,-21.546487555,included_game_day
+2002,315,Niagara Purple Eagles,2001-12-11,-29.1675136495,included_game_day
+2002,315,Niagara Purple Eagles,2001-12-20,-27.382513131259998,included_game_day
+2002,315,Niagara Purple Eagles,2001-12-21,-4.325604133788996,included_game_day
+2002,315,Niagara Purple Eagles,2001-12-29,-7.352691272185847,included_game_day
+2002,315,Niagara Purple Eagles,2002-01-02,-6.60144256087058,included_game_day
+2002,315,Niagara Purple Eagles,2002-01-05,6.138123795821145,included_game_day
+2002,315,Niagara Purple Eagles,2002-01-07,-26.003157126166556,included_game_day
+2002,315,Niagara Purple Eagles,2002-01-12,-26.91981367040383,included_game_day
+2002,315,Niagara Purple Eagles,2002-01-17,-28.289454148403813,included_game_day
+2002,315,Niagara Purple Eagles,2002-01-19,-26.50113262307561,included_game_day
+2002,315,Niagara Purple Eagles,2002-01-24,-27.437858628649025,included_game_day
+2002,315,Niagara Purple Eagles,2002-01-26,-27.048894225272146,included_game_day
+2002,315,Niagara Purple Eagles,2002-01-29,-18.416324683330608,included_game_day
+2002,315,Niagara Purple Eagles,2002-02-01,-8.528014524214475,included_game_day
+2002,315,Niagara Purple Eagles,2002-02-03,-14.566893366840821,included_game_day
+2002,315,Niagara Purple Eagles,2002-02-08,-2.1292349005867823,included_game_day
+2002,315,Niagara Purple Eagles,2002-02-16,13.192014043812852,included_game_day
+2002,315,Niagara Purple Eagles,2002-02-20,12.021184766194118,included_game_day
+2002,315,Niagara Purple Eagles,2002-02-23,6.08444852807396,included_game_day
+2002,315,Niagara Purple Eagles,2002-03-02,6.133595054620745,included_game_day
+2002,315,Niagara Purple Eagles,2002-03-04,-10.688016193826801,included_game_day
+2003,315,Niagara Purple Eagles,2002-11-22,-5.0,included_game_day
+2003,315,Niagara Purple Eagles,2002-11-25,-27.4,included_game_day
+2003,315,Niagara Purple Eagles,2002-11-30,-47.459999999999994,included_game_day
+2003,315,Niagara Purple Eagles,2002-12-05,-34.860699999999994,included_game_day
+2003,315,Niagara Purple Eagles,2002-12-07,-47.479114499999994,included_game_day
+2003,315,Niagara Purple Eagles,2002-12-11,-51.30695384999999,included_game_day
+2003,315,Niagara Purple Eagles,2002-12-14,-42.638344874999994,included_game_day
+2003,315,Niagara Purple Eagles,2002-12-21,-23.963365167499994,included_game_day
+2003,315,Niagara Purple Eagles,2002-12-28,-12.879801444424995,included_game_day
+2003,315,Niagara Purple Eagles,2003-01-02,-14.427727630016742,included_game_day
+2003,315,Niagara Purple Eagles,2003-01-04,-1.3945733092194832,included_game_day
+2003,315,Niagara Purple Eagles,2003-01-08,7.129717657349348,included_game_day
+2003,315,Niagara Purple Eagles,2003-01-10,-2.303688482692621,included_game_day
+2003,315,Niagara Purple Eagles,2003-01-14,-6.659703283315005,included_game_day
+2003,315,Niagara Purple Eagles,2003-01-16,3.3323174410687306,included_game_day
+2003,315,Niagara Purple Eagles,2003-01-24,9.37139510929206,included_game_day
+2003,315,Niagara Purple Eagles,2003-01-26,13.026642332820215,included_game_day
+2003,315,Niagara Purple Eagles,2003-01-31,10.975564514772785,included_game_day
+2003,315,Niagara Purple Eagles,2003-02-02,20.650057081882586,included_game_day
+2003,315,Niagara Purple Eagles,2003-02-07,6.389651135570427,included_game_day
+2003,315,Niagara Purple Eagles,2003-02-09,22.34538251344567,included_game_day
+2003,315,Niagara Purple Eagles,2003-02-12,26.105682566127854,included_game_day
+2003,315,Niagara Purple Eagles,2003-02-16,22.092051550896198,included_game_day
+2003,315,Niagara Purple Eagles,2003-02-18,11.207765273254934,included_game_day
+2003,315,Niagara Purple Eagles,2003-02-22,12.666178242932675,included_game_day
+2003,315,Niagara Purple Eagles,2003-02-28,12.809747150010374,included_game_day
+2003,315,Niagara Purple Eagles,2003-03-02,6.09952508902337,included_game_day
+2003,315,Niagara Purple Eagles,2003-03-08,11.967391425597977,included_game_day
+2003,315,Niagara Purple Eagles,2003-03-09,21.431036950016892,included_game_day
+2004,315,Niagara Purple Eagles,2003-11-22,6.0,included_game_day
+2004,315,Niagara Purple Eagles,2003-11-29,20.3815,included_game_day
+2004,315,Niagara Purple Eagles,2003-12-03,23.15845,included_game_day
+2004,315,Niagara Purple Eagles,2003-12-06,30.37577744,included_game_day
+2004,315,Niagara Purple Eagles,2003-12-13,25.323699046,included_game_day
+2004,315,Niagara Purple Eagles,2003-12-17,25.538794551400002,included_game_day
+2004,315,Niagara Purple Eagles,2003-12-20,42.06889732226,included_game_day
+2004,315,Niagara Purple Eagles,2003-12-22,34.622126785443996,included_game_day
+2004,315,Niagara Purple Eagles,2003-12-31,39.4938825205996,included_game_day
+2004,315,Niagara Purple Eagles,2004-01-03,29.353827735388627,included_game_day
+2004,315,Niagara Purple Eagles,2004-01-05,33.758257288539234,included_game_day
+2004,315,Niagara Purple Eagles,2004-01-09,23.37568798373008,included_game_day
+2004,315,Niagara Purple Eagles,2004-01-11,31.749131406472415,included_game_day
+2004,315,Niagara Purple Eagles,2004-01-16,43.83604874952747,included_game_day
+2004,315,Niagara Purple Eagles,2004-01-18,38.805914040088304,included_game_day
+2004,315,Niagara Purple Eagles,2004-01-23,32.4792658165688,included_game_day
+2004,315,Niagara Purple Eagles,2004-01-25,40.056738836011476,included_game_day
+2004,315,Niagara Purple Eagles,2004-01-30,42.171665405997445,included_game_day
+2004,315,Niagara Purple Eagles,2004-02-01,44.19261811756889,included_game_day
+2004,315,Niagara Purple Eagles,2004-02-05,66.89054780261246,included_game_day
+2004,315,Niagara Purple Eagles,2004-02-07,47.1088772083147,included_game_day
+2004,315,Niagara Purple Eagles,2004-02-14,59.29454162977863,included_game_day
+2004,315,Niagara Purple Eagles,2004-02-16,53.83382686016606,included_game_day
+2004,315,Niagara Purple Eagles,2004-02-19,38.56000903934061,included_game_day
+2004,315,Niagara Purple Eagles,2004-02-21,40.81515301845624,included_game_day
+2004,315,Niagara Purple Eagles,2004-02-26,54.76897807468643,included_game_day
+2004,315,Niagara Purple Eagles,2004-02-29,47.20906365759875,included_game_day
+2004,315,Niagara Purple Eagles,2004-03-06,51.85481356969226,included_game_day
+2004,315,Niagara Purple Eagles,2004-03-07,46.50833279578568,included_game_day
+2004,315,Niagara Purple Eagles,2004-03-08,52.31460833812127,included_game_day
+2004,315,Niagara Purple Eagles,2004-03-17,55.4541863562191,included_game_day
+2004,315,Niagara Purple Eagles,2004-03-19,47.34416047208638,included_game_day
+2005,315,Niagara Purple Eagles,2004-11-16,-2.0,included_game_day
+2005,315,Niagara Purple Eagles,2004-11-20,1.9,included_game_day
+2005,315,Niagara Purple Eagles,2004-11-22,19.419999999999998,included_game_day
+2005,315,Niagara Purple Eagles,2004-11-27,36.218,included_game_day
+2005,315,Niagara Purple Eagles,2004-12-01,38.989136,included_game_day
+2005,315,Niagara Purple Eagles,2004-12-05,24.235956800000004,included_game_day
+2005,315,Niagara Purple Eagles,2004-12-08,53.470298839,included_game_day
+2005,315,Niagara Purple Eagles,2004-12-11,48.4385913061,included_game_day
+2005,315,Niagara Purple Eagles,2004-12-20,76.05063392009001,included_game_day
+2005,315,Niagara Purple Eagles,2004-12-22,72.78819850719101,included_game_day
+2005,315,Niagara Purple Eagles,2004-12-30,73.63068144014258,included_game_day
+2005,315,Niagara Purple Eagles,2005-01-06,73.80876951360982,included_game_day
+2005,315,Niagara Purple Eagles,2005-01-08,62.77030089786595,included_game_day
+2005,315,Niagara Purple Eagles,2005-01-13,52.980760564721464,included_game_day
+2005,315,Niagara Purple Eagles,2005-01-15,48.374723381440035,included_game_day
+2005,315,Niagara Purple Eagles,2005-01-20,45.6990136441331,included_game_day
+2005,315,Niagara Purple Eagles,2005-01-22,41.34332824750478,included_game_day
+2005,315,Niagara Purple Eagles,2005-01-27,44.47571435256371,included_game_day
+2005,315,Niagara Purple Eagles,2005-01-30,37.42029186979681,included_game_day
+2005,315,Niagara Purple Eagles,2005-02-05,39.358723136575506,included_game_day
+2005,315,Niagara Purple Eagles,2005-02-07,37.19451874093632,included_game_day
+2005,315,Niagara Purple Eagles,2005-02-10,20.33158192381448,included_game_day
+2005,315,Niagara Purple Eagles,2005-02-12,27.077131408174566,included_game_day
+2005,315,Niagara Purple Eagles,2005-02-16,29.51211435750421,included_game_day
+2005,315,Niagara Purple Eagles,2005-02-19,31.414436915490157,included_game_day
+2005,315,Niagara Purple Eagles,2005-02-24,37.47136797000391,included_game_day
+2005,315,Niagara Purple Eagles,2005-02-26,29.94631667897109,included_game_day
+2005,315,Niagara Purple Eagles,2005-03-06,28.373635172836426,included_game_day
+2005,315,Niagara Purple Eagles,2005-03-07,46.25392734911293,included_game_day
+2005,315,Niagara Purple Eagles,2005-03-17,42.47523810214718,included_game_day
+2006,315,Niagara Purple Eagles,2005-11-18,18.0,included_game_day
+2006,315,Niagara Purple Eagles,2005-11-21,27.8,included_game_day
+2006,315,Niagara Purple Eagles,2005-11-26,25.86646,included_game_day
+2006,315,Niagara Purple Eagles,2005-11-30,21.414973,included_game_day
+2006,315,Niagara Purple Eagles,2005-12-03,7.4900200959999985,included_game_day
+2006,315,Niagara Purple Eagles,2005-12-09,2.495609565399999,included_game_day
+2006,315,Niagara Purple Eagles,2005-12-11,-4.682128424340002,included_game_day
+2006,315,Niagara Purple Eagles,2005-12-21,-17.834809337624,included_game_day
+2006,315,Niagara Purple Eagles,2005-12-30,-14.005244490668401,included_game_day
+2006,315,Niagara Purple Eagles,2005-12-31,-26.614442085547076,included_game_day
+2006,315,Niagara Purple Eagles,2006-01-06,-33.653512364868625,included_game_day
+2006,315,Niagara Purple Eagles,2006-01-08,-44.13199316880047,included_game_day
+2006,315,Niagara Purple Eagles,2006-01-12,-42.36988969596891,included_game_day
+2006,315,Niagara Purple Eagles,2006-01-14,-36.147193623330445,included_game_day
+2006,315,Niagara Purple Eagles,2006-01-17,-23.08370320730634,included_game_day
+2006,315,Niagara Purple Eagles,2006-01-20,-31.635753260929093,included_game_day
+2006,315,Niagara Purple Eagles,2006-01-22,-48.95928626416253,included_game_day
+2006,315,Niagara Purple Eagles,2006-01-27,-42.75925642237877,included_game_day
+2006,315,Niagara Purple Eagles,2006-01-29,-27.540546703952984,included_game_day
+2006,315,Niagara Purple Eagles,2006-02-03,-3.270476869445311,included_game_day
+2006,315,Niagara Purple Eagles,2006-02-05,-8.067836397563589,included_game_day
+2006,315,Niagara Purple Eagles,2006-02-08,-10.394021509654728,included_game_day
+2006,315,Niagara Purple Eagles,2006-02-11,-0.3900056803771168,included_game_day
+2006,315,Niagara Purple Eagles,2006-02-13,-3.6543905575626288,included_game_day
+2006,315,Niagara Purple Eagles,2006-02-18,-5.736786480688009,included_game_day
+2006,315,Niagara Purple Eagles,2006-02-23,-16.51689602966195,included_game_day
+2006,315,Niagara Purple Eagles,2006-02-25,-13.992374535403554,included_game_day
+2006,315,Niagara Purple Eagles,2006-03-03,-12.911201439242692,included_game_day
+2006,315,Niagara Purple Eagles,2006-03-04,-28.71504382492082,included_game_day
+2007,315,Niagara Purple Eagles,2006-11-16,-12.1,included_game_day
+2007,315,Niagara Purple Eagles,2006-11-18,-25.189999999999998,included_game_day
+2007,315,Niagara Purple Eagles,2006-11-25,-38.159,included_game_day
+2007,315,Niagara Purple Eagles,2006-11-29,-22.0227,included_game_day
+2007,315,Niagara Purple Eagles,2006-12-02,-30.042435,included_game_day
+2007,315,Niagara Purple Eagles,2006-12-06,-35.712038681,included_game_day
+2007,315,Niagara Purple Eagles,2006-12-09,-54.3087111963,included_game_day
+2007,315,Niagara Purple Eagles,2006-12-16,-52.7536702772011,included_game_day
+2007,315,Niagara Purple Eagles,2006-12-19,-31.21792761495379,included_game_day
+2007,315,Niagara Purple Eagles,2006-12-23,-21.161370068144763,included_game_day
+2007,315,Niagara Purple Eagles,2006-12-28,-45.24579384190109,included_game_day
+2007,315,Niagara Purple Eagles,2006-12-29,-35.34736051020827,included_game_day
+2007,315,Niagara Purple Eagles,2006-12-30,-24.731825702013538,included_game_day
+2007,315,Niagara Purple Eagles,2007-01-03,2.0175212165664007,included_game_day
+2007,315,Niagara Purple Eagles,2007-01-05,-9.333561652610195,included_game_day
+2007,315,Niagara Purple Eagles,2007-01-09,-7.939770819203452,included_game_day
+2007,315,Niagara Purple Eagles,2007-01-12,-2.3039714524453503,included_game_day
+2007,315,Niagara Purple Eagles,2007-01-14,-3.071747215913126,included_game_day
+2007,315,Niagara Purple Eagles,2007-01-18,-5.525051549027545,included_game_day
+2007,315,Niagara Purple Eagles,2007-01-20,-18.794645374888397,included_game_day
+2007,315,Niagara Purple Eagles,2007-01-26,-2.9182472326717264,included_game_day
+2007,315,Niagara Purple Eagles,2007-01-28,-16.254263526560386,included_game_day
+2007,315,Niagara Purple Eagles,2007-02-02,-9.409957932456212,included_game_day
+2007,315,Niagara Purple Eagles,2007-02-04,4.13462687425945,included_game_day
+2007,315,Niagara Purple Eagles,2007-02-09,1.2248405145930334,included_game_day
+2007,315,Niagara Purple Eagles,2007-02-11,1.8134077368476405,included_game_day
+2007,315,Niagara Purple Eagles,2007-02-13,1.367640476833139,included_game_day
+2007,315,Niagara Purple Eagles,2007-02-17,3.888180527378611,included_game_day
+2007,315,Niagara Purple Eagles,2007-02-23,1.884505992507843,included_game_day
+2007,315,Niagara Purple Eagles,2007-02-25,5.436157605121761,included_game_day
+2007,315,Niagara Purple Eagles,2007-03-03,21.94849042900921,included_game_day
+2007,315,Niagara Purple Eagles,2007-03-04,32.40134722402405,included_game_day
+2007,315,Niagara Purple Eagles,2007-03-05,32.89180411468144,included_game_day
+2007,315,Niagara Purple Eagles,2007-03-13,37.81161777519286,included_game_day
+2007,315,Niagara Purple Eagles,2007-03-16,19.0812207710416,included_game_day
+2008,315,Niagara Purple Eagles,2007-11-16,1.9000000000000004,included_game_day
+2008,315,Niagara Purple Eagles,2007-11-20,13.836,included_game_day
+2008,315,Niagara Purple Eagles,2007-11-24,15.69018,included_game_day
+2008,315,Niagara Purple Eagles,2007-11-28,15.115844,included_game_day
+2008,315,Niagara Purple Eagles,2007-12-01,9.114977279999998,included_game_day
+2008,315,Niagara Purple Eagles,2007-12-06,18.530138319499997,included_game_day
+2008,315,Niagara Purple Eagles,2007-12-09,13.396742119189998,included_game_day
+2008,315,Niagara Purple Eagles,2007-12-15,21.771147657270998,included_game_day
+2008,315,Niagara Purple Eagles,2007-12-22,26.6432023139039,included_game_day
+2008,315,Niagara Purple Eagles,2007-12-28,46.4383879461682,included_game_day
+2008,315,Niagara Purple Eagles,2007-12-29,45.59374533731654,included_game_day
+2008,315,Niagara Purple Eagles,2008-01-03,47.67865343493829,included_game_day
+2008,315,Niagara Purple Eagles,2008-01-05,54.97708310429191,included_game_day
+2008,315,Niagara Purple Eagles,2008-01-11,38.68214457467715,included_game_day
+2008,315,Niagara Purple Eagles,2008-01-13,46.507685742341586,included_game_day
+2008,315,Niagara Purple Eagles,2008-01-18,24.182664336603217,included_game_day
+2008,315,Niagara Purple Eagles,2008-01-21,6.3364472359370225,included_game_day
+2008,315,Niagara Purple Eagles,2008-01-25,22.454381324663537,included_game_day
+2008,315,Niagara Purple Eagles,2008-01-27,31.727860117837082,included_game_day
+2008,315,Niagara Purple Eagles,2008-02-03,13.827545209545065,included_game_day
+2008,315,Niagara Purple Eagles,2008-02-05,16.625766922904074,included_game_day
+2008,315,Niagara Purple Eagles,2008-02-08,22.378838561484535,included_game_day
+2008,315,Niagara Purple Eagles,2008-02-10,30.91883713177372,included_game_day
+2008,315,Niagara Purple Eagles,2008-02-16,27.384399767158357,included_game_day
+2008,315,Niagara Purple Eagles,2008-02-18,16.924808815475302,included_game_day
+2008,315,Niagara Purple Eagles,2008-02-23,18.99431385921262,included_game_day
+2008,315,Niagara Purple Eagles,2008-02-29,9.970979491306931,included_game_day
+2008,315,Niagara Purple Eagles,2008-03-02,20.896722316325835,included_game_day
+2008,315,Niagara Purple Eagles,2008-03-08,14.61853694111798,included_game_day
+2009,315,Niagara Purple Eagles,2008-11-16,15.5,included_game_day
+2009,315,Niagara Purple Eagles,2008-11-19,6.84,included_game_day
+2009,315,Niagara Purple Eagles,2008-11-22,17.891,included_game_day
+2009,315,Niagara Purple Eagles,2008-11-25,23.499899999999997,included_game_day
+2009,315,Niagara Purple Eagles,2008-11-28,37.790594,included_game_day
+2009,315,Niagara Purple Eagles,2008-11-29,69.4222862,included_game_day
+2009,315,Niagara Purple Eagles,2008-12-03,59.122275280000004,included_game_day
+2009,315,Niagara Purple Eagles,2008-12-07,67.918887653,included_game_day
+2009,315,Niagara Purple Eagles,2008-12-14,81.2425174287,included_game_day
+2009,315,Niagara Purple Eagles,2008-12-18,79.21242095620799,included_game_day
+2009,315,Niagara Purple Eagles,2008-12-23,94.40210879641545,included_game_day
+2009,315,Niagara Purple Eagles,2008-12-29,93.88424424468947,included_game_day
+2009,315,Niagara Purple Eagles,2008-12-30,64.71987158558373,included_game_day
+2009,315,Niagara Purple Eagles,2009-01-03,73.3650768813528,included_game_day
+2009,315,Niagara Purple Eagles,2009-01-05,73.15913013797392,included_game_day
+2009,315,Niagara Purple Eagles,2009-01-09,69.50906608565556,included_game_day
+2009,315,Niagara Purple Eagles,2009-01-11,44.22281929080306,included_game_day
+2009,315,Niagara Purple Eagles,2009-01-15,29.44638500765806,included_game_day
+2009,315,Niagara Purple Eagles,2009-01-17,35.23969289479849,included_game_day
+2009,315,Niagara Purple Eagles,2009-01-24,24.647210810338166,included_game_day
+2009,315,Niagara Purple Eagles,2009-01-26,22.77438161471369,included_game_day
+2009,315,Niagara Purple Eagles,2009-01-31,38.51010385881561,included_game_day
+2009,315,Niagara Purple Eagles,2009-02-02,50.594302157928226,included_game_day
+2009,315,Niagara Purple Eagles,2009-02-06,55.789991009245796,included_game_day
+2009,315,Niagara Purple Eagles,2009-02-08,71.95012285597312,included_game_day
+2009,315,Niagara Purple Eagles,2009-02-12,78.16852714168199,included_game_day
+2009,315,Niagara Purple Eagles,2009-02-14,77.4173366147438,included_game_day
+2009,315,Niagara Purple Eagles,2009-02-18,69.33619493174896,included_game_day
+2009,315,Niagara Purple Eagles,2009-02-20,80.88291878622711,included_game_day
+2009,315,Niagara Purple Eagles,2009-02-27,94.04632389867218,included_game_day
+2009,315,Niagara Purple Eagles,2009-03-01,82.86528544163059,included_game_day
+2009,315,Niagara Purple Eagles,2009-03-07,98.41833232582007,included_game_day
+2009,315,Niagara Purple Eagles,2009-03-08,93.25752541854845,included_game_day
+2009,315,Niagara Purple Eagles,2009-03-09,88.98415846924003,included_game_day
+2009,315,Niagara Purple Eagles,2009-03-17,77.89922169859699,included_game_day
+2010,315,Niagara Purple Eagles,2009-11-13,-1.0,included_game_day
+2010,315,Niagara Purple Eagles,2009-11-17,2.4,included_game_day
+2010,315,Niagara Purple Eagles,2009-11-20,4.9,included_game_day
+2010,315,Niagara Purple Eagles,2009-11-21,23.833,included_game_day
+2010,315,Niagara Purple Eagles,2009-11-22,16.5373,included_game_day
+2010,315,Niagara Purple Eagles,2009-11-25,28.91209,included_game_day
+2010,315,Niagara Purple Eagles,2009-11-29,15.8889304,included_game_day
+2010,315,Niagara Purple Eagles,2009-12-04,37.91821486,included_game_day
+2010,315,Niagara Purple Eagles,2009-12-06,51.4881280955,included_game_day
+2010,315,Niagara Purple Eagles,2009-12-09,36.35185860575,included_game_day
+2010,315,Niagara Purple Eagles,2009-12-13,50.681248778175004,included_game_day
+2010,315,Niagara Purple Eagles,2009-12-22,52.245846493331804,included_game_day
+2010,315,Niagara Purple Eagles,2009-12-28,41.06946483168553,included_game_day
+2010,315,Niagara Purple Eagles,2009-12-29,34.219780309630984,included_game_day
+2010,315,Niagara Purple Eagles,2010-01-02,30.524284171309787,included_game_day
+2010,315,Niagara Purple Eagles,2010-01-04,37.601397398047546,included_game_day
+2010,315,Niagara Purple Eagles,2010-01-09,26.563937971165572,included_game_day
+2010,315,Niagara Purple Eagles,2010-01-11,20.454420867394347,included_game_day
+2010,315,Niagara Purple Eagles,2010-01-16,8.907957316304941,included_game_day
+2010,315,Niagara Purple Eagles,2010-01-18,15.541193984333738,included_game_day
+2010,315,Niagara Purple Eagles,2010-01-22,1.5967065800229339,included_game_day
+2010,315,Niagara Purple Eagles,2010-01-24,-6.90316051876253,included_game_day
+2010,315,Niagara Purple Eagles,2010-01-29,-5.6851369009829495,included_game_day
+2010,315,Niagara Purple Eagles,2010-01-31,6.214348054312397,included_game_day
+2010,315,Niagara Purple Eagles,2010-02-05,13.93307372513263,included_game_day
+2010,315,Niagara Purple Eagles,2010-02-08,5.004798501860556,included_game_day
+2010,315,Niagara Purple Eagles,2010-02-12,24.383807833997263,included_game_day
+2010,315,Niagara Purple Eagles,2010-02-14,24.730138870384696,included_game_day
+2010,315,Niagara Purple Eagles,2010-02-20,33.574434820103306,included_game_day
+2010,315,Niagara Purple Eagles,2010-02-26,33.01435211843713,included_game_day
+2010,315,Niagara Purple Eagles,2010-02-28,32.55307641991653,included_game_day
+2010,315,Niagara Purple Eagles,2010-03-06,36.50700167462944,included_game_day
+2010,315,Niagara Purple Eagles,2010-03-07,33.01665288711435,included_game_day
+2011,315,Niagara Purple Eagles,2010-11-17,-21.19,included_game_day
+2011,315,Niagara Purple Eagles,2010-11-19,-40.337,included_game_day
+2011,315,Niagara Purple Eagles,2010-11-22,-38.873400000000004,included_game_day
+2011,315,Niagara Purple Eagles,2010-11-26,-35.99942,included_game_day
+2011,315,Niagara Purple Eagles,2010-11-27,-45.57175,included_game_day
+2011,315,Niagara Purple Eagles,2010-11-28,-58.276118,included_game_day
+2011,315,Niagara Purple Eagles,2010-12-03,-68.5472803,included_game_day
+2011,315,Niagara Purple Eagles,2010-12-05,-80.1561678556,included_game_day
+2011,315,Niagara Purple Eagles,2010-12-08,-82.92650215004001,included_game_day
+2011,315,Niagara Purple Eagles,2010-12-11,-60.78716360003601,included_game_day
+2011,315,Niagara Purple Eagles,2010-12-19,-56.291471156933206,included_game_day
+2011,315,Niagara Purple Eagles,2010-12-22,-76.82493336990129,included_game_day
+2011,315,Niagara Purple Eagles,2010-12-28,-106.40881084674955,included_game_day
+2011,315,Niagara Purple Eagles,2010-12-30,-106.99754717554728,included_game_day
+2011,315,Niagara Purple Eagles,2011-01-03,-110.48282929141402,included_game_day
+2011,315,Niagara Purple Eagles,2011-01-07,-113.46105233613721,included_game_day
+2011,315,Niagara Purple Eagles,2011-01-09,-91.52180681004046,included_game_day
+2011,315,Niagara Purple Eagles,2011-01-15,-102.6493013019422,included_game_day
+2011,315,Niagara Purple Eagles,2011-01-17,-102.91778230781676,included_game_day
+2011,315,Niagara Purple Eagles,2011-01-21,-92.19231429292857,included_game_day
+2011,315,Niagara Purple Eagles,2011-01-23,-86.08300201594938,included_game_day
+2011,315,Niagara Purple Eagles,2011-01-28,-88.4918338470355,included_game_day
+2011,315,Niagara Purple Eagles,2011-01-30,-79.2099316325427,included_game_day
+2011,315,Niagara Purple Eagles,2011-02-04,-94.70832476752734,included_game_day
+2011,315,Niagara Purple Eagles,2011-02-06,-83.49190091610791,included_game_day
+2011,315,Niagara Purple Eagles,2011-02-11,-70.29419428886175,included_game_day
+2011,315,Niagara Purple Eagles,2011-02-13,-67.99785698772214,included_game_day
+2011,315,Niagara Purple Eagles,2011-02-16,-61.25249849459865,included_game_day
+2011,315,Niagara Purple Eagles,2011-02-19,-58.67921569907148,included_game_day
+2011,315,Niagara Purple Eagles,2011-02-25,-67.35690093700538,included_game_day
+2011,315,Niagara Purple Eagles,2011-02-27,-66.18845452260135,included_game_day
+2011,315,Niagara Purple Eagles,2011-03-04,-82.19119575491558,included_game_day
+2012,315,Niagara Purple Eagles,2011-11-14,5.6,included_game_day
+2012,315,Niagara Purple Eagles,2011-11-17,-20.380000000000003,included_game_day
+2012,315,Niagara Purple Eagles,2011-11-21,-27.826,included_game_day
+2012,315,Niagara Purple Eagles,2011-11-22,-38.425200000000004,included_game_day
+2012,315,Niagara Purple Eagles,2011-11-23,-33.2988,included_game_day
+2012,315,Niagara Purple Eagles,2011-11-28,-29.4552541,included_game_day
+2012,315,Niagara Purple Eagles,2011-12-02,-32.309178934,included_game_day
+2012,315,Niagara Purple Eagles,2011-12-04,-63.0805858206,included_game_day
+2012,315,Niagara Purple Eagles,2011-12-07,-62.57154972398,included_game_day
+2012,315,Niagara Purple Eagles,2011-12-10,-59.457100179982,included_game_day
+2012,315,Niagara Purple Eagles,2011-12-13,-69.4385568553458,included_game_day
+2012,315,Niagara Purple Eagles,2011-12-22,-62.834396226251414,included_game_day
+2012,315,Niagara Purple Eagles,2011-12-28,-53.45195732416606,included_game_day
+2012,315,Niagara Purple Eagles,2011-12-30,-48.12107023431834,included_game_day
+2012,315,Niagara Purple Eagles,2012-01-02,-32.199036513423266,included_game_day
+2012,315,Niagara Purple Eagles,2012-01-06,-29.388819596100383,included_game_day
+2012,315,Niagara Purple Eagles,2012-01-08,-38.72022872741687,included_game_day
+2012,315,Niagara Purple Eagles,2012-01-13,-32.55437322310683,included_game_day
+2012,315,Niagara Purple Eagles,2012-01-15,-19.866199297526073,included_game_day
+2012,315,Niagara Purple Eagles,2012-01-19,-4.447398627508566,included_game_day
+2012,315,Niagara Purple Eagles,2012-01-22,-2.438500359582882,included_game_day
+2012,315,Niagara Purple Eagles,2012-01-27,-14.881761395755074,included_game_day
+2012,315,Niagara Purple Eagles,2012-01-29,-28.216858757886484,included_game_day
+2012,315,Niagara Purple Eagles,2012-02-03,-27.557537617097715,included_game_day
+2012,315,Niagara Purple Eagles,2012-02-05,-22.365137787028935,included_game_day
+2012,315,Niagara Purple Eagles,2012-02-09,-23.01509378825078,included_game_day
+2012,315,Niagara Purple Eagles,2012-02-11,-22.197251331052936,included_game_day
+2012,315,Niagara Purple Eagles,2012-02-15,-32.18269949564383,included_game_day
+2012,315,Niagara Purple Eagles,2012-02-18,-42.077795363388965,included_game_day
+2012,315,Niagara Purple Eagles,2012-02-24,-45.4741296946973,included_game_day
+2012,315,Niagara Purple Eagles,2012-02-26,-53.14608922820671,included_game_day
+2012,315,Niagara Purple Eagles,2012-03-02,-48.429273981650766,included_game_day
+2012,315,Niagara Purple Eagles,2012-03-03,-54.10138826763329,included_game_day
+2013,315,Niagara Purple Eagles,2012-11-09,-16.0,included_game_day
+2013,315,Niagara Purple Eagles,2012-11-13,-0.8000000000000007,included_game_day
+2013,315,Niagara Purple Eagles,2012-11-16,-19.79,included_game_day
+2013,315,Niagara Purple Eagles,2012-11-18,-17.561529999999998,included_game_day
+2013,315,Niagara Purple Eagles,2012-11-24,-19.511376999999996,included_game_day
+2013,315,Niagara Purple Eagles,2012-11-28,-23.722559299999997,included_game_day
+2013,315,Niagara Purple Eagles,2012-12-02,-23.26520797,included_game_day
+2013,315,Niagara Purple Eagles,2012-12-05,-13.832617844999998,included_game_day
+2013,315,Niagara Purple Eagles,2012-12-08,-21.1387901401,included_game_day
+2013,315,Niagara Purple Eagles,2012-12-12,-5.847541478156998,included_game_day
+2013,315,Niagara Purple Eagles,2012-12-16,1.930680107405701,included_game_day
+2013,315,Niagara Purple Eagles,2012-12-21,-7.129034676841469,included_game_day
+2013,315,Niagara Purple Eagles,2013-01-03,7.5703274584297375,included_game_day
+2013,315,Niagara Purple Eagles,2013-01-05,12.25824623485298,included_game_day
+2013,315,Niagara Purple Eagles,2013-01-08,8.72978780145843,included_game_day
+2013,315,Niagara Purple Eagles,2013-01-11,26.90744187248842,included_game_day
+2013,315,Niagara Purple Eagles,2013-01-13,33.78939239116494,included_game_day
+2013,315,Niagara Purple Eagles,2013-01-17,44.03273829458621,included_game_day
+2013,315,Niagara Purple Eagles,2013-01-19,36.90299345979687,included_game_day
+2013,315,Niagara Purple Eagles,2013-01-25,35.585584012926844,included_game_day
+2013,315,Niagara Purple Eagles,2013-01-27,39.61904408828747,included_game_day
+2013,315,Niagara Purple Eagles,2013-01-31,41.45104169858016,included_game_day
+2013,315,Niagara Purple Eagles,2013-02-02,33.99351539576422,included_game_day
+2013,315,Niagara Purple Eagles,2013-02-07,28.656364896589267,included_game_day
+2013,315,Niagara Purple Eagles,2013-02-10,18.282519672682177,included_game_day
+2013,315,Niagara Purple Eagles,2013-02-15,16.206629551243697,included_game_day
+2013,315,Niagara Purple Eagles,2013-02-17,23.520936648800394,included_game_day
+2013,315,Niagara Purple Eagles,2013-02-23,38.561531888928656,included_game_day
+2013,315,Niagara Purple Eagles,2013-02-28,22.34523328653225,included_game_day
+2013,315,Niagara Purple Eagles,2013-03-02,27.295062651552072,included_game_day
+2013,315,Niagara Purple Eagles,2013-03-09,27.830406317520605,included_game_day
+2013,315,Niagara Purple Eagles,2013-03-10,23.262659074084077,included_game_day
+2013,315,Niagara Purple Eagles,2013-03-19,17.65711683176769,included_game_day
+2014,315,Niagara Purple Eagles,2013-11-09,-8.0,included_game_day
+2014,315,Niagara Purple Eagles,2013-11-13,-1.2999999999999998,included_game_day
+2014,315,Niagara Purple Eagles,2013-11-21,-10.885000000000002,included_game_day
+2014,315,Niagara Purple Eagles,2013-11-22,-20.579659,included_game_day
+2014,315,Niagara Purple Eagles,2013-11-23,-18.309419,included_game_day
+2014,315,Niagara Purple Eagles,2013-11-26,-35.2260771,included_game_day
+2014,315,Niagara Purple Eagles,2013-11-30,-38.07690312,included_game_day
+2014,315,Niagara Purple Eagles,2013-12-02,-54.926681383,included_game_day
+2014,315,Niagara Purple Eagles,2013-12-06,-69.71393807460001,included_game_day
+2014,315,Niagara Purple Eagles,2013-12-08,-62.681190451140004,included_game_day
+2014,315,Niagara Purple Eagles,2013-12-11,-48.711958227186,included_game_day
+2014,315,Niagara Purple Eagles,2013-12-21,-44.858545076576505,included_game_day
+2014,315,Niagara Purple Eagles,2013-12-29,-37.79941662959595,included_game_day
+2014,315,Niagara Purple Eagles,2014-01-02,-32.97186545836826,included_game_day
+2014,315,Niagara Purple Eagles,2014-01-04,-53.10610107286434,included_game_day
+2014,315,Niagara Purple Eagles,2014-01-10,-64.85632627127272,included_game_day
+2014,315,Niagara Purple Eagles,2014-01-12,-74.80840395237648,included_game_day
+2014,315,Niagara Purple Eagles,2014-01-16,-66.41403737283822,included_game_day
+2014,315,Niagara Purple Eagles,2014-01-18,-67.8376154863149,included_game_day
+2014,315,Niagara Purple Eagles,2014-01-22,-68.17957244055802,included_game_day
+2014,315,Niagara Purple Eagles,2014-01-24,-61.10226922896234,included_game_day
+2014,315,Niagara Purple Eagles,2014-01-30,-57.056751615832155,included_game_day
+2014,315,Niagara Purple Eagles,2014-02-01,-66.19755274002183,included_game_day
+2014,315,Niagara Purple Eagles,2014-02-07,-56.95567720345013,included_game_day
+2014,315,Niagara Purple Eagles,2014-02-09,-49.65933708978858,included_game_day
+2014,315,Niagara Purple Eagles,2014-02-14,-50.054994082549406,included_game_day
+2014,315,Niagara Purple Eagles,2014-02-16,-53.91410870640144,included_game_day
+2014,315,Niagara Purple Eagles,2014-02-20,-65.14983467100895,included_game_day
+2014,315,Niagara Purple Eagles,2014-02-22,-59.35866254541594,included_game_day
+2014,315,Niagara Purple Eagles,2014-02-28,-83.03989186432071,included_game_day
+2014,315,Niagara Purple Eagles,2014-03-02,-78.32346483308598,included_game_day
+2014,315,Niagara Purple Eagles,2014-03-06,-68.38429948094615,included_game_day
+2014,315,Niagara Purple Eagles,2014-03-08,-71.24392319634457,included_game_day
+2015,315,Niagara Purple Eagles,2014-11-14,-30.0,included_game_day
+2015,315,Niagara Purple Eagles,2014-11-20,-22.79,included_game_day
+2015,315,Niagara Purple Eagles,2014-11-22,-28.2,included_game_day
+2015,315,Niagara Purple Eagles,2014-11-29,-39.11626,included_game_day
+2015,315,Niagara Purple Eagles,2014-12-02,-41.900118,included_game_day
+2015,315,Niagara Purple Eagles,2014-12-06,-54.03122899,included_game_day
+2015,315,Niagara Purple Eagles,2014-12-13,-57.336737676502,included_game_day
+2015,315,Niagara Purple Eagles,2014-12-19,-71.06920805669179,included_game_day
+2015,315,Niagara Purple Eagles,2014-12-23,-72.23998205382952,included_game_day
+2015,315,Niagara Purple Eagles,2014-12-30,-50.40163232858396,included_game_day
+2015,315,Niagara Purple Eagles,2015-01-02,-37.51083739770691,included_game_day
+2015,315,Niagara Purple Eagles,2015-01-04,-53.98770832064859,included_game_day
+2015,315,Niagara Purple Eagles,2015-01-08,-60.27672366647994,included_game_day
+2015,315,Niagara Purple Eagles,2015-01-10,-61.29198605262498,included_game_day
+2015,315,Niagara Purple Eagles,2015-01-13,-72.71455070186855,included_game_day
+2015,315,Niagara Purple Eagles,2015-01-16,-63.46186888645105,included_game_day
+2015,315,Niagara Purple Eagles,2015-01-18,-72.45137661567061,included_game_day
+2015,315,Niagara Purple Eagles,2015-01-23,-71.88663585447567,included_game_day
+2015,315,Niagara Purple Eagles,2015-01-25,-81.89472680811546,included_game_day
+2015,315,Niagara Purple Eagles,2015-01-30,-89.7552107684014,included_game_day
+2015,315,Niagara Purple Eagles,2015-02-01,-77.30344485948041,included_game_day
+2015,315,Niagara Purple Eagles,2015-02-06,-74.60483202902748,included_game_day
+2015,315,Niagara Purple Eagles,2015-02-08,-84.36267506175419,included_game_day
+2015,315,Niagara Purple Eagles,2015-02-13,-91.431233642859,included_game_day
+2015,315,Niagara Purple Eagles,2015-02-15,-92.61731747256705,included_game_day
+2015,315,Niagara Purple Eagles,2015-02-19,-84.38392593230861,included_game_day
+2015,315,Niagara Purple Eagles,2015-02-21,-66.32976014151893,included_game_day
+2015,315,Niagara Purple Eagles,2015-02-24,-44.28788007912497,included_game_day
+2015,315,Niagara Purple Eagles,2015-03-01,-47.057803390687184,included_game_day
+2015,315,Niagara Purple Eagles,2015-03-05,-66.00224071716649,included_game_day
+2016,315,Niagara Purple Eagles,2015-11-13,-14.0,included_game_day
+2016,315,Niagara Purple Eagles,2015-11-15,-20.8,included_game_day
+2016,315,Niagara Purple Eagles,2015-11-18,-12.170000000000002,included_game_day
+2016,315,Niagara Purple Eagles,2015-11-21,-31.358,included_game_day
+2016,315,Niagara Purple Eagles,2015-11-22,-36.4578,included_game_day
+2016,315,Niagara Purple Eagles,2015-11-24,-36.114219999999996,included_game_day
+2016,315,Niagara Purple Eagles,2015-11-28,-55.729198,included_game_day
+2016,315,Niagara Purple Eagles,2015-12-04,-50.76646547,included_game_day
+2016,315,Niagara Purple Eagles,2015-12-06,-60.420302326,included_game_day
+2016,315,Niagara Purple Eagles,2015-12-09,-57.333415281579995,included_game_day
+2016,315,Niagara Purple Eagles,2015-12-12,-57.03473655742199,included_game_day
+2016,315,Niagara Purple Eagles,2015-12-23,-53.28889866128613,included_game_day
+2016,315,Niagara Purple Eagles,2015-12-30,-55.36511546867827,included_game_day
+2016,315,Niagara Purple Eagles,2016-01-02,-56.51592956568976,included_game_day
+2016,315,Niagara Purple Eagles,2016-01-04,-59.7218135284266,included_game_day
+2016,315,Niagara Purple Eagles,2016-01-07,-56.3041664743563,included_game_day
+2016,315,Niagara Purple Eagles,2016-01-09,-54.94608616477993,included_game_day
+2016,315,Niagara Purple Eagles,2016-01-15,-54.13323649482298,included_game_day
+2016,315,Niagara Purple Eagles,2016-01-17,-54.730174800499285,included_game_day
+2016,315,Niagara Purple Eagles,2016-01-22,-63.04858238857145,included_game_day
+2016,315,Niagara Purple Eagles,2016-01-26,-67.22950059799152,included_game_day
+2016,315,Niagara Purple Eagles,2016-01-28,-60.79270041502067,included_game_day
+2016,315,Niagara Purple Eagles,2016-01-30,-74.28008849091161,included_game_day
+2016,315,Niagara Purple Eagles,2016-02-05,-74.69171979714814,included_game_day
+2016,315,Niagara Purple Eagles,2016-02-07,-81.00630991499989,included_game_day
+2016,315,Niagara Purple Eagles,2016-02-12,-86.19140922114852,included_game_day
+2016,315,Niagara Purple Eagles,2016-02-14,-91.73986719076422,included_game_day
+2016,315,Niagara Purple Eagles,2016-02-18,-89.90600171359056,included_game_day
+2016,315,Niagara Purple Eagles,2016-02-20,-98.55565338333352,included_game_day
+2016,315,Niagara Purple Eagles,2016-02-25,-95.46686759361648,included_game_day
+2016,315,Niagara Purple Eagles,2016-02-28,-84.56806029990632,included_game_day
+2016,315,Niagara Purple Eagles,2016-03-03,-85.40244571370441,included_game_day
+2017,315,Niagara Purple Eagles,2016-11-11,-13.0,included_game_day
+2017,315,Niagara Purple Eagles,2016-11-13,-20.3,included_game_day
+2017,315,Niagara Purple Eagles,2016-11-15,-20.47,included_game_day
+2017,315,Niagara Purple Eagles,2016-11-20,-25.883,included_game_day
+2017,315,Niagara Purple Eagles,2016-11-23,-6.562922999999998,included_game_day
+2017,315,Niagara Purple Eagles,2016-11-25,-16.661323,included_game_day
+2017,315,Niagara Purple Eagles,2016-12-02,-22.562350199999997,included_game_day
+2017,315,Niagara Purple Eagles,2016-12-04,2.1588975040000022,included_game_day
+2017,315,Niagara Purple Eagles,2016-12-07,-19.8658810604,included_game_day
+2017,315,Niagara Purple Eagles,2016-12-10,-24.53720830436,included_game_day
+2017,315,Niagara Purple Eagles,2016-12-14,-28.247555603506,included_game_day
+2017,315,Niagara Purple Eagles,2016-12-17,-30.7029535921314,included_game_day
+2017,315,Niagara Purple Eagles,2016-12-21,-19.08502966655817,included_game_day
+2017,315,Niagara Purple Eagles,2017-01-02,-28.005257199913494,included_game_day
+2017,315,Niagara Purple Eagles,2017-01-04,-25.3050334945217,included_game_day
+2017,315,Niagara Purple Eagles,2017-01-08,-30.825351969053372,included_game_day
+2017,315,Niagara Purple Eagles,2017-01-10,-38.588925202437174,included_game_day
+2017,315,Niagara Purple Eagles,2017-01-14,-42.460316916613365,included_game_day
+2017,315,Niagara Purple Eagles,2017-01-16,-56.22109024473193,included_game_day
+2017,315,Niagara Purple Eagles,2017-01-21,-43.17115966983771,included_game_day
+2017,315,Niagara Purple Eagles,2017-01-23,-32.518346987407696,included_game_day
+2017,315,Niagara Purple Eagles,2017-01-26,-39.33580042505341,included_game_day
+2017,315,Niagara Purple Eagles,2017-01-28,-26.12879581345614,included_game_day
+2017,315,Niagara Purple Eagles,2017-02-02,-43.559892986084805,included_game_day
+2017,315,Niagara Purple Eagles,2017-02-04,-47.917943086877045,included_game_day
+2017,315,Niagara Purple Eagles,2017-02-10,-25.052887704465356,included_game_day
+2017,315,Niagara Purple Eagles,2017-02-12,-35.247060891367795,included_game_day
+2017,315,Niagara Purple Eagles,2017-02-16,-39.34054371390516,included_game_day
+2017,315,Niagara Purple Eagles,2017-02-18,-38.58618572044986,included_game_day
+2017,315,Niagara Purple Eagles,2017-02-24,-43.23487961657035,included_game_day
+2017,315,Niagara Purple Eagles,2017-02-26,-47.84436049567733,included_game_day
+2017,315,Niagara Purple Eagles,2017-03-02,-34.13690670342045,included_game_day
+2017,315,Niagara Purple Eagles,2017-03-03,-47.13241756771359,included_game_day
+2018,315,Niagara Purple Eagles,2017-11-10,5.0,included_game_day
+2018,315,Niagara Purple Eagles,2017-11-15,-15.66,included_game_day
+2018,315,Niagara Purple Eagles,2017-11-19,-35.914,included_game_day
+2018,315,Niagara Purple Eagles,2017-11-21,-34.7851,included_game_day
+2018,315,Niagara Purple Eagles,2017-11-24,-20.42756,included_game_day
+2018,315,Niagara Purple Eagles,2017-11-25,-22.23544,included_game_day
+2018,315,Niagara Purple Eagles,2017-11-27,-14.312986,included_game_day
+2018,315,Niagara Purple Eagles,2017-11-29,-34.6194076,included_game_day
+2018,315,Niagara Purple Eagles,2017-12-05,-23.644343120200002,included_game_day
+2018,315,Niagara Purple Eagles,2017-12-10,-34.374897269680005,included_game_day
+2018,315,Niagara Purple Eagles,2017-12-16,-34.784853577702,included_game_day
+2018,315,Niagara Purple Eagles,2017-12-19,-35.3745395036118,included_game_day
+2018,315,Niagara Purple Eagles,2017-12-23,-28.74903341031662,included_game_day
+2018,315,Niagara Purple Eagles,2017-12-29,-31.475693990794475,included_game_day
+2018,315,Niagara Purple Eagles,2017-12-31,-51.7449623203548,included_game_day
+2018,315,Niagara Purple Eagles,2018-01-05,-41.4162141967217,included_game_day
+2018,315,Niagara Purple Eagles,2018-01-07,-26.660063694714765,included_game_day
+2018,315,Niagara Purple Eagles,2018-01-12,-26.940004024228735,included_game_day
+2018,315,Niagara Purple Eagles,2018-01-14,-23.221407217150162,included_game_day
+2018,315,Niagara Purple Eagles,2018-01-18,-16.782277746593152,included_game_day
+2018,315,Niagara Purple Eagles,2018-01-20,-35.53764867485103,included_game_day
+2018,315,Niagara Purple Eagles,2018-01-24,-25.533623863313885,included_game_day
+2018,315,Niagara Purple Eagles,2018-01-27,1.2744061646729143,included_game_day
+2018,315,Niagara Purple Eagles,2018-02-02,-3.2266171386709512,included_game_day
+2018,315,Niagara Purple Eagles,2018-02-04,3.755478291063856,included_game_day
+2018,315,Niagara Purple Eagles,2018-02-08,13.981956485603078,included_game_day
+2018,315,Niagara Purple Eagles,2018-02-10,20.207009573605447,included_game_day
+2018,315,Niagara Purple Eagles,2018-02-16,24.494800259247036,included_game_day
+2018,315,Niagara Purple Eagles,2018-02-18,14.568702205552972,included_game_day
+2018,315,Niagara Purple Eagles,2018-02-21,9.819198242552957,included_game_day
+2018,315,Niagara Purple Eagles,2018-02-23,23.022943534844483,included_game_day
+2018,315,Niagara Purple Eagles,2018-03-03,5.417889444869001,included_game_day
+2018,315,Niagara Purple Eagles,2018-03-14,-5.142969817740884,included_game_day
+2019,315,Niagara Purple Eagles,2018-11-12,7.14,included_game_day
+2019,315,Niagara Purple Eagles,2018-11-14,-1.5539999999999994,included_game_day
+2019,315,Niagara Purple Eagles,2018-11-16,4.6984,included_game_day
+2019,315,Niagara Purple Eagles,2018-11-23,-6.4727999999999986,included_game_day
+2019,315,Niagara Purple Eagles,2018-11-24,-23.31861,included_game_day
+2019,315,Niagara Purple Eagles,2018-11-30,-28.017598,included_game_day
+2019,315,Niagara Purple Eagles,2018-12-03,-13.59361517,included_game_day
+2019,315,Niagara Purple Eagles,2018-12-09,-21.747246870199998,included_game_day
+2019,315,Niagara Purple Eagles,2018-12-16,-20.438035509179997,included_game_day
+2019,315,Niagara Purple Eagles,2018-12-19,-40.964140919664,included_game_day
+2019,315,Niagara Purple Eagles,2018-12-22,-26.185463692149398,included_game_day
+2019,315,Niagara Purple Eagles,2018-12-29,-24.471680441096424,included_game_day
+2019,315,Niagara Purple Eagles,2018-12-31,-33.86709854584396,included_game_day
+2019,315,Niagara Purple Eagles,2019-01-05,-45.941266622428465,included_game_day
+2019,315,Niagara Purple Eagles,2019-01-07,-60.11317793171633,included_game_day
+2019,315,Niagara Purple Eagles,2019-01-11,-56.514814254113816,included_game_day
+2019,315,Niagara Purple Eagles,2019-01-13,-73.75540338694121,included_game_day
+2019,315,Niagara Purple Eagles,2019-01-17,-77.60706362111225,included_game_day
+2019,315,Niagara Purple Eagles,2019-01-19,-67.07412750819681,included_game_day
+2019,315,Niagara Purple Eagles,2019-01-22,-72.49103291538853,included_game_day
+2019,315,Niagara Purple Eagles,2019-01-26,-46.6603497596583,included_game_day
+2019,315,Niagara Purple Eagles,2019-01-30,-40.938892425472694,included_game_day
+2019,315,Niagara Purple Eagles,2019-02-03,-52.74746816397179,included_game_day
+2019,315,Niagara Purple Eagles,2019-02-08,-70.0969211721472,included_game_day
+2019,315,Niagara Purple Eagles,2019-02-10,-66.98074705822542,included_game_day
+2019,315,Niagara Purple Eagles,2019-02-15,-74.1469302450542,included_game_day
+2019,315,Niagara Purple Eagles,2019-02-17,-72.24438037434501,included_game_day
+2019,315,Niagara Purple Eagles,2019-02-22,-80.93994081626246,included_game_day
+2019,315,Niagara Purple Eagles,2019-02-24,-96.30904392535751,included_game_day
+2019,315,Niagara Purple Eagles,2019-02-27,-86.65913810338927,included_game_day
+2019,315,Niagara Purple Eagles,2019-03-03,-91.76384140731275,included_game_day
+2019,315,Niagara Purple Eagles,2019-03-07,-92.60573100658345,included_game_day
+2020,315,Niagara Purple Eagles,2019-11-08,-5.5,included_game_day
+2020,315,Niagara Purple Eagles,2019-11-10,-49.1,included_game_day
+2020,315,Niagara Purple Eagles,2019-11-13,-47.49,included_game_day
+2020,315,Niagara Purple Eagles,2019-11-18,-54.2515,included_game_day
+2020,315,Niagara Purple Eagles,2019-11-27,-71.50124600000001,included_game_day
+2020,315,Niagara Purple Eagles,2019-12-01,-59.71575015700001,included_game_day
+2020,315,Niagara Purple Eagles,2019-12-08,-45.853797259000004,included_game_day
+2020,315,Niagara Purple Eagles,2019-12-14,-45.317943645208004,included_game_day
+2020,315,Niagara Purple Eagles,2019-12-18,-51.69650276010721,included_game_day
+2020,315,Niagara Purple Eagles,2019-12-21,-63.60582300245969,included_game_day
+2020,315,Niagara Purple Eagles,2019-12-28,-62.64152706025562,included_game_day
+2020,315,Niagara Purple Eagles,2020-01-03,-51.29030642306441,included_game_day
+2020,315,Niagara Purple Eagles,2020-01-05,-55.693068592393445,included_game_day
+2020,315,Niagara Purple Eagles,2020-01-10,-56.987582039809105,included_game_day
+2020,315,Niagara Purple Eagles,2020-01-12,-51.57692555375072,included_game_day
+2020,315,Niagara Purple Eagles,2020-01-17,-47.233449812540464,included_game_day
+2020,315,Niagara Purple Eagles,2020-01-19,-47.83716362366129,included_game_day
+2020,315,Niagara Purple Eagles,2020-01-24,-51.51565546422171,included_game_day
+2020,315,Niagara Purple Eagles,2020-01-26,-48.173120505622336,included_game_day
+2020,315,Niagara Purple Eagles,2020-01-31,-72.74476742902232,included_game_day
+2020,315,Niagara Purple Eagles,2020-02-02,-53.25770266543991,included_game_day
+2020,315,Niagara Purple Eagles,2020-02-07,-64.62548153957805,included_game_day
+2020,315,Niagara Purple Eagles,2020-02-09,-70.35992248282659,included_game_day
+2020,315,Niagara Purple Eagles,2020-02-12,-67.22699658627693,included_game_day
+2020,315,Niagara Purple Eagles,2020-02-16,-58.35416104160566,included_game_day
+2020,315,Niagara Purple Eagles,2020-02-21,-57.30700650551361,included_game_day
+2020,315,Niagara Purple Eagles,2020-02-23,-75.41731431263837,included_game_day
+2020,315,Niagara Purple Eagles,2020-02-27,-58.10081263246916,included_game_day
+2020,315,Niagara Purple Eagles,2020-02-29,-44.61129348575431,included_game_day
+2020,315,Niagara Purple Eagles,2020-03-04,-56.972055015152925,included_game_day
+2020,315,Niagara Purple Eagles,2020-03-06,-56.70346508806994,included_game_day
+2020,315,Niagara Purple Eagles,2020-03-10,-56.52298912516693,included_game_day
+2021,315,Niagara Purple Eagles,2020-12-03,-27.2,included_game_day
+2021,315,Niagara Purple Eagles,2020-12-11,-38.04931,included_game_day
+2021,315,Niagara Purple Eagles,2020-12-12,-34.728758,included_game_day
+2021,315,Niagara Purple Eagles,2020-12-18,-23.013963728,included_game_day
+2021,315,Niagara Purple Eagles,2020-12-19,-10.6421283104,included_game_day
+2021,315,Niagara Purple Eagles,2020-12-22,-1.9163722985600007,included_game_day
+2021,315,Niagara Purple Eagles,2021-01-01,2.391726256227999,included_game_day
+2021,315,Niagara Purple Eagles,2021-01-02,21.838205100058396,included_game_day
+2021,315,Niagara Purple Eagles,2021-01-08,4.5450325671839735,included_game_day
+2021,315,Niagara Purple Eagles,2021-01-09,7.710494540884435,included_game_day
+2021,315,Niagara Purple Eagles,2021-01-15,-1.7508749478830765,included_game_day
+2021,315,Niagara Purple Eagles,2021-01-16,-3.319970538897086,included_game_day
+2021,315,Niagara Purple Eagles,2021-01-22,0.6939184003632026,included_game_day
+2021,315,Niagara Purple Eagles,2021-01-23,-8.094970448228567,included_game_day
+2021,315,Niagara Purple Eagles,2021-01-29,-17.29897294461027,included_game_day
+2021,315,Niagara Purple Eagles,2021-01-30,-5.662174941715632,included_game_day
+2021,315,Niagara Purple Eagles,2021-02-20,-3.4357878746283586,included_game_day
+2021,315,Niagara Purple Eagles,2021-02-21,-5.65467822095854,included_game_day
+2021,315,Niagara Purple Eagles,2021-03-11,-0.8165382856123626,included_game_day
+2021,315,Niagara Purple Eagles,2021-03-12,-1.7944852173243087,included_game_day
+2022,315,Niagara Purple Eagles,2021-11-09,0.0,included_game_day
+2022,315,Niagara Purple Eagles,2021-11-12,-7.2,included_game_day
+2022,315,Niagara Purple Eagles,2021-11-19,2.0200000000000005,included_game_day
+2022,315,Niagara Purple Eagles,2021-11-20,-6.028099999999999,included_game_day
+2022,315,Niagara Purple Eagles,2021-11-21,2.7558999999999996,included_game_day
+2022,315,Niagara Purple Eagles,2021-11-29,18.1723624,included_game_day
+2022,315,Niagara Purple Eagles,2021-12-03,10.090809440000001,included_game_day
+2022,315,Niagara Purple Eagles,2021-12-05,-4.2421753632499986,included_game_day
+2022,315,Niagara Purple Eagles,2021-12-08,-6.852189256924999,included_game_day
+2022,315,Niagara Purple Eagles,2021-12-18,-4.365171338820074,included_game_day
+2022,315,Niagara Purple Eagles,2021-12-31,-10.013108795564317,included_game_day
+2022,315,Niagara Purple Eagles,2022-01-09,-1.531458760959712,included_game_day
+2022,315,Niagara Purple Eagles,2022-01-13,1.573417744389122,included_game_day
+2022,315,Niagara Purple Eagles,2022-01-16,-12.4751548941437,included_game_day
+2022,315,Niagara Purple Eagles,2022-01-18,-1.4940154628801672,included_game_day
+2022,315,Niagara Purple Eagles,2022-01-21,-12.015777635196876,included_game_day
+2022,315,Niagara Purple Eagles,2022-01-23,-22.307570519843914,included_game_day
+2022,315,Niagara Purple Eagles,2022-01-28,-23.00846786524207,included_game_day
+2022,315,Niagara Purple Eagles,2022-01-30,-15.109237998337468,included_game_day
+2022,315,Niagara Purple Eagles,2022-02-04,-15.157998548949873,included_game_day
+2022,315,Niagara Purple Eagles,2022-02-06,0.6110719122362926,included_game_day
+2022,315,Niagara Purple Eagles,2022-02-12,-18.204303630210582,included_game_day
+2022,315,Niagara Purple Eagles,2022-02-14,-19.00743846770043,included_game_day
+2022,315,Niagara Purple Eagles,2022-02-19,-6.21066380130412,included_game_day
+2022,315,Niagara Purple Eagles,2022-02-25,-5.797350495038973,included_game_day
+2022,315,Niagara Purple Eagles,2022-02-27,-27.690826242706436,included_game_day
+2022,315,Niagara Purple Eagles,2022-03-03,-5.146200102376945,included_game_day
+2022,315,Niagara Purple Eagles,2022-03-05,24.764913832506277,included_game_day
+2022,315,Niagara Purple Eagles,2022-03-10,17.365608843590085,included_game_day
+2023,315,Niagara Purple Eagles,2022-11-07,-19.0,included_game_day
+2023,315,Niagara Purple Eagles,2022-11-12,-32.1,included_game_day
+2023,315,Niagara Purple Eagles,2022-11-18,-21.26,included_game_day
+2023,315,Niagara Purple Eagles,2022-11-19,-12.862100000000002,included_game_day
+2023,315,Niagara Purple Eagles,2022-11-26,-10.681977400000001,included_game_day
+2023,315,Niagara Purple Eagles,2022-12-02,-26.02687066,included_game_day
+2023,315,Niagara Purple Eagles,2022-12-04,-12.7092913118,included_game_day
+2023,315,Niagara Purple Eagles,2022-12-11,-13.026651391744178,included_game_day
+2023,315,Niagara Purple Eagles,2022-12-18,-22.89858602017906,included_game_day
+2023,315,Niagara Purple Eagles,2022-12-21,-25.099940530390157,included_game_day
+2023,315,Niagara Purple Eagles,2022-12-31,-15.264192332662988,included_game_day
+2023,315,Niagara Purple Eagles,2023-01-02,-14.72417160479185,included_game_day
+2023,315,Niagara Purple Eagles,2023-01-06,-3.7060699637933663,included_game_day
+2023,315,Niagara Purple Eagles,2023-01-08,-14.485792253555125,included_game_day
+2023,315,Niagara Purple Eagles,2023-01-13,-19.4610179719976,included_game_day
+2023,315,Niagara Purple Eagles,2023-01-15,-26.026528400484963,included_game_day
+2023,315,Niagara Purple Eagles,2023-01-20,-22.982658265648514,included_game_day
+2023,315,Niagara Purple Eagles,2023-01-22,-20.288329064594613,included_game_day
+2023,315,Niagara Purple Eagles,2023-01-27,-21.17044936836667,included_game_day
+2023,315,Niagara Purple Eagles,2023-02-03,-24.681449523983375,included_game_day
+2023,315,Niagara Purple Eagles,2023-02-05,-14.564864581053632,included_game_day
+2023,315,Niagara Purple Eagles,2023-02-10,-8.230373734601981,included_game_day
+2023,315,Niagara Purple Eagles,2023-02-12,-20.416770940988087,included_game_day
+2023,315,Niagara Purple Eagles,2023-02-17,-25.296502885241424,included_game_day
+2023,315,Niagara Purple Eagles,2023-02-19,-35.30275493597917,included_game_day
+2023,315,Niagara Purple Eagles,2023-02-24,-28.211000249343634,included_game_day
+2023,315,Niagara Purple Eagles,2023-02-26,-36.372841308960986,included_game_day
+2023,315,Niagara Purple Eagles,2023-03-04,-44.20438719189933,included_game_day
+2023,315,Niagara Purple Eagles,2023-03-09,-36.15514724259231,included_game_day
+2023,315,Niagara Purple Eagles,2023-03-10,-33.07438986414916,included_game_day
+2024,315,Niagara Purple Eagles,2023-11-06,-4.0,included_game_day
+2024,315,Niagara Purple Eagles,2023-11-11,-19.36,included_game_day
+2024,315,Niagara Purple Eagles,2023-11-16,-33.424,included_game_day
+2024,315,Niagara Purple Eagles,2023-11-25,-27.5968,included_game_day
+2024,315,Niagara Purple Eagles,2023-12-01,-34.49377,included_game_day
+2024,315,Niagara Purple Eagles,2023-12-03,-43.6514707,included_game_day
+2024,315,Niagara Purple Eagles,2023-12-06,-74.09118826699999,included_game_day
+2024,315,Niagara Purple Eagles,2023-12-16,-68.777934410771,included_game_day
+2024,315,Niagara Purple Eagles,2023-12-19,-65.88548979669389,included_game_day
+2024,315,Niagara Purple Eagles,2023-12-21,-63.62506965933784,included_game_day
+2024,315,Niagara Purple Eagles,2023-12-29,-56.57191211141459,included_game_day
+2024,315,Niagara Purple Eagles,2024-01-05,-41.89417862136692,included_game_day
+2024,315,Niagara Purple Eagles,2024-01-07,-32.715684823616414,included_game_day
+2024,315,Niagara Purple Eagles,2024-01-12,-4.826469903279783,included_game_day
+2024,315,Niagara Purple Eagles,2024-01-15,-25.137318638100556,included_game_day
+2024,315,Niagara Purple Eagles,2024-01-19,-22.221486284520203,included_game_day
+2024,315,Niagara Purple Eagles,2024-01-21,-5.269095778960992,included_game_day
+2024,315,Niagara Purple Eagles,2024-01-26,-5.343602904084051,included_game_day
+2024,315,Niagara Purple Eagles,2024-01-28,-24.642583058132267,included_game_day
+2024,315,Niagara Purple Eagles,2024-02-02,-10.034104931933825,included_game_day
+2024,315,Niagara Purple Eagles,2024-02-06,-13.859196545636676,included_game_day
+2024,315,Niagara Purple Eagles,2024-02-08,-16.326807461755617,included_game_day
+2024,315,Niagara Purple Eagles,2024-02-16,-6.960360684882403,included_game_day
+2024,315,Niagara Purple Eagles,2024-02-18,12.767412298575664,included_game_day
+2024,315,Niagara Purple Eagles,2024-02-23,-1.9676598236790888,included_game_day
+2024,315,Niagara Purple Eagles,2024-03-01,-13.425657752142033,included_game_day
+2024,315,Niagara Purple Eagles,2024-03-03,-35.90528420485998,included_game_day
+2024,315,Niagara Purple Eagles,2024-03-07,-36.988770622846886,included_game_day
+2024,315,Niagara Purple Eagles,2024-03-09,-32.52220835529788,included_game_day
+2024,315,Niagara Purple Eagles,2024-03-12,-41.88240189979355,included_game_day
+2024,315,Niagara Purple Eagles,2024-03-14,-45.37313273130477,included_game_day
+2025,315,Niagara Purple Eagles,2024-11-07,-30.9,included_game_day
+2025,315,Niagara Purple Eagles,2024-11-10,-32.67,included_game_day
+2025,315,Niagara Purple Eagles,2024-11-19,-36.3865,included_game_day
+2025,315,Niagara Purple Eagles,2024-11-21,-33.57465,included_game_day
+2025,315,Niagara Purple Eagles,2024-11-29,-33.54499627,included_game_day
+2025,315,Niagara Purple Eagles,2024-11-30,-40.982237663,included_game_day
+2025,315,Niagara Purple Eagles,2024-12-01,-34.777073823,included_game_day
+2025,315,Niagara Purple Eagles,2024-12-06,-35.401192478,included_game_day
+2025,315,Niagara Purple Eagles,2024-12-08,-56.71760727364,included_game_day
+2025,315,Niagara Purple Eagles,2024-12-14,-57.188409641275996,included_game_day
+2025,315,Niagara Purple Eagles,2024-12-21,-59.907599202565294,included_game_day
+2025,315,Niagara Purple Eagles,2024-12-29,-45.98940675328056,included_game_day
+2025,315,Niagara Purple Eagles,2025-01-05,-45.72404248682496,included_game_day
+2025,315,Niagara Purple Eagles,2025-01-10,-37.5742870170896,included_game_day
+2025,315,Niagara Purple Eagles,2025-01-12,-50.44043371603625,included_game_day
+2025,315,Niagara Purple Eagles,2025-01-16,-52.907297367202546,included_game_day
+2025,315,Niagara Purple Eagles,2025-01-18,-55.45645461752641,included_game_day
+2025,315,Niagara Purple Eagles,2025-01-23,-55.684840982900404,included_game_day
+2025,315,Niagara Purple Eagles,2025-01-25,-66.83697880792828,included_game_day
+2025,315,Niagara Purple Eagles,2025-01-31,-69.42304447352126,included_game_day
+2025,315,Niagara Purple Eagles,2025-02-06,-64.32518273077072,included_game_day
+2025,315,Niagara Purple Eagles,2025-02-08,-52.11088591639992,included_game_day
+2025,315,Niagara Purple Eagles,2025-02-12,-52.16596794237943,included_game_day
+2025,315,Niagara Purple Eagles,2025-02-14,-54.96531575953093,included_game_day
+2025,315,Niagara Purple Eagles,2025-02-21,-81.05978509021683,included_game_day
+2025,315,Niagara Purple Eagles,2025-02-23,-74.22280562233631,included_game_day
+2025,315,Niagara Purple Eagles,2025-02-28,-75.14621818039637,included_game_day
+2025,315,Niagara Purple Eagles,2025-03-02,-87.66578533307997,included_game_day
+2025,315,Niagara Purple Eagles,2025-03-06,-70.07120789034505,included_game_day
+2025,315,Niagara Purple Eagles,2025-03-08,-65.60606356739196,included_game_day
+2026,315,Niagara Purple Eagles,2025-11-03,-17.0,included_game_day
+2026,315,Niagara Purple Eagles,2025-11-08,-7.800000000000001,included_game_day
+2026,315,Niagara Purple Eagles,2025-11-10,-3.7200000000000006,included_game_day
+2026,315,Niagara Purple Eagles,2025-11-17,-9.038900000000002,included_game_day
+2026,315,Niagara Purple Eagles,2025-11-21,-49.94758,included_game_day
+2026,315,Niagara Purple Eagles,2025-11-22,-58.450686000000005,included_game_day
+2026,315,Niagara Purple Eagles,2025-11-29,-66.9808141,included_game_day
+2026,315,Niagara Purple Eagles,2025-12-05,-84.94032569138,included_game_day
+2026,315,Niagara Purple Eagles,2025-12-07,-107.68773357990199,included_game_day
+2026,315,Niagara Purple Eagles,2025-12-13,-112.51878969278779,included_game_day
+2026,315,Niagara Purple Eagles,2025-12-15,-116.41367832196401,included_game_day
+2026,315,Niagara Purple Eagles,2026-01-02,-110.27903756599737,included_game_day
+2026,315,Niagara Purple Eagles,2026-01-04,-113.42161343956134,included_game_day
+2026,315,Niagara Purple Eagles,2026-01-09,-121.98197488165133,included_game_day
+2026,315,Niagara Purple Eagles,2026-01-11,-123.99304728102861,included_game_day
+2026,315,Niagara Purple Eagles,2026-01-14,-113.35444904683202,included_game_day
+2026,315,Niagara Purple Eagles,2026-01-19,-121.20363048381594,included_game_day
+2026,315,Niagara Purple Eagles,2026-01-22,-108.59627536292678,included_game_day
+2026,315,Niagara Purple Eagles,2026-01-24,-99.80452817910455,included_game_day
+2026,315,Niagara Purple Eagles,2026-01-30,-93.17005751901117,included_game_day
+2026,315,Niagara Purple Eagles,2026-02-01,-97.50577260797223,included_game_day
+2026,315,Niagara Purple Eagles,2026-02-03,-92.03095585738309,included_game_day
+2026,315,Niagara Purple Eagles,2026-02-07,-81.39531450327696,included_game_day
+2026,315,Niagara Purple Eagles,2026-02-13,-92.36424741643485,included_game_day
+2026,315,Niagara Purple Eagles,2026-02-15,-89.10885496458023,included_game_day
+2026,315,Niagara Purple Eagles,2026-02-20,-95.97273501696009,included_game_day
+2026,315,Niagara Purple Eagles,2026-02-22,-103.39928473292946,included_game_day
+2026,315,Niagara Purple Eagles,2026-02-27,-95.38115161567009,included_game_day
+2026,315,Niagara Purple Eagles,2026-03-01,-92.48077100755374,included_game_day
+2027,315,Niagara Purple Eagles,2026-11-02,-42.0,included_game_day
+2027,315,Niagara Purple Eagles,2026-11-07,-46.8,included_game_day
+2027,315,Niagara Purple Eagles,2026-11-12,-49.86,included_game_day
+2027,315,Niagara Purple Eagles,2026-11-15,-58.2576,included_game_day
+2027,315,Niagara Purple Eagles,2026-11-20,-50.05224,included_game_day

@@ -1,0 +1,1263 @@
+﻿season,team_id,team_name,date,daily_closing_marbles,observation_type
+1988,201,Oklahoma,1987-11-28,21.0,included_game_day
+1988,201,Oklahoma,1987-12-01,55.9,included_game_day
+1988,201,Oklahoma,1987-12-05,98.5513,included_game_day
+1988,201,Oklahoma,1987-12-07,127.43627,included_game_day
+1988,201,Oklahoma,1987-12-10,125.441143,included_game_day
+1988,201,Oklahoma,1987-12-12,177.1881987,included_game_day
+1988,201,Oklahoma,1987-12-19,196.35968024,included_game_day
+1988,201,Oklahoma,1987-12-23,229.05310592041,included_game_day
+1988,201,Oklahoma,1987-12-24,258.693196936069,included_game_day
+1988,201,Oklahoma,1987-12-25,238.104235493489,included_game_day
+1988,201,Oklahoma,1987-12-29,259.9466398191401,included_game_day
+1988,201,Oklahoma,1987-12-30,286.79772394446456,included_game_day
+1988,201,Oklahoma,1988-01-04,293.52800344185874,included_game_day
+1988,201,Oklahoma,1988-01-09,291.8898633627912,included_game_day
+1988,201,Oklahoma,1988-01-11,258.7044788987768,included_game_day
+1988,201,Oklahoma,1988-01-16,233.14473792352828,included_game_day
+1988,201,Oklahoma,1988-01-20,229.75618017075564,included_game_day
+1988,201,Oklahoma,1988-01-23,218.24904691443362,included_game_day
+1988,201,Oklahoma,1988-01-27,226.3361921983359,included_game_day
+1988,201,Oklahoma,1988-01-30,220.80590842545774,included_game_day
+1988,201,Oklahoma,1988-02-03,213.816806833769,included_game_day
+1988,201,Oklahoma,1988-02-06,224.20314507323914,included_game_day
+1988,201,Oklahoma,1988-02-09,218.8695144477051,included_game_day
+1988,201,Oklahoma,1988-02-13,220.7558145003111,included_game_day
+1988,201,Oklahoma,1988-02-17,208.6308318406455,included_game_day
+1988,201,Oklahoma,1988-02-20,209.74534470266155,included_game_day
+1988,201,Oklahoma,1988-02-24,202.4957682936356,included_game_day
+1988,201,Oklahoma,1988-02-27,228.38730457526478,included_game_day
+1988,201,Oklahoma,1988-03-03,217.02575131281455,included_game_day
+1988,201,Oklahoma,1988-03-05,210.05185380446517,included_game_day
+1988,201,Oklahoma,1988-03-11,215.36538744126884,included_game_day
+1988,201,Oklahoma,1988-03-12,209.19438036673193,included_game_day
+1988,201,Oklahoma,1988-03-13,205.5462988298874,included_game_day
+1988,201,Oklahoma,1988-03-17,215.61012984536353,included_game_day
+1988,201,Oklahoma,1988-03-19,223.0439194236487,included_game_day
+1988,201,Oklahoma,1988-03-24,225.17421506942253,included_game_day
+1988,201,Oklahoma,1988-03-26,234.66670354632,included_game_day
+1988,201,Oklahoma,1988-04-02,245.50904550357282,included_game_day
+1988,201,Oklahoma,1988-04-04,232.99691897158962,included_game_day
+1989,201,Oklahoma,1988-11-25,4.0,included_game_day
+1989,201,Oklahoma,1988-11-26,6.5,included_game_day
+1989,201,Oklahoma,1988-11-27,-2.0500000000000007,included_game_day
+1989,201,Oklahoma,1988-11-30,11.954999999999998,included_game_day
+1989,201,Oklahoma,1988-12-08,19.45224,included_game_day
+1989,201,Oklahoma,1988-12-10,42.322423973149995,included_game_day
+1989,201,Oklahoma,1988-12-17,67.569081575835,included_game_day
+1989,201,Oklahoma,1988-12-20,119.7000828466415,included_game_day
+1989,201,Oklahoma,1988-12-22,130.17010070922555,included_game_day
+1989,201,Oklahoma,1988-12-29,164.64674955119716,included_game_day
+1989,201,Oklahoma,1988-12-30,187.58280725328612,included_game_day
+1989,201,Oklahoma,1989-01-03,208.74226957389425,included_game_day
+1989,201,Oklahoma,1989-01-07,197.2786415294825,included_game_day
+1989,201,Oklahoma,1989-01-09,189.1622949568712,included_game_day
+1989,201,Oklahoma,1989-01-15,167.6337158560083,included_game_day
+1989,201,Oklahoma,1989-01-18,190.16637922414628,included_game_day
+1989,201,Oklahoma,1989-01-21,183.74154293499888,included_game_day
+1989,201,Oklahoma,1989-01-25,197.61430884861554,included_game_day
+1989,201,Oklahoma,1989-01-30,196.22295113229237,included_game_day
+1989,201,Oklahoma,1989-02-01,194.57934331836887,included_game_day
+1989,201,Oklahoma,1989-02-04,183.02194802126374,included_game_day
+1989,201,Oklahoma,1989-02-06,193.7598027719169,included_game_day
+1989,201,Oklahoma,1989-02-09,194.3461523024612,included_game_day
+1989,201,Oklahoma,1989-02-12,194.5892495855994,included_game_day
+1989,201,Oklahoma,1989-02-15,190.94765312220457,included_game_day
+1989,201,Oklahoma,1989-02-18,192.80258832397578,included_game_day
+1989,201,Oklahoma,1989-02-22,183.83200937371817,included_game_day
+1989,201,Oklahoma,1989-02-25,168.4571929063363,included_game_day
+1989,201,Oklahoma,1989-03-01,161.60542061999402,included_game_day
+1989,201,Oklahoma,1989-03-04,174.4401554420705,included_game_day
+1989,201,Oklahoma,1989-03-10,161.43029525383184,included_game_day
+1989,201,Oklahoma,1989-03-11,156.9040514457596,included_game_day
+1989,201,Oklahoma,1989-03-12,143.42096414303322,included_game_day
+1989,201,Oklahoma,1989-03-16,132.16273408285593,included_game_day
+1989,201,Oklahoma,1989-03-18,172.38472141825994,included_game_day
+1989,201,Oklahoma,1989-03-23,163.2025205201076,included_game_day
+1990,201,Oklahoma,1989-11-29,69.1,included_game_day
+1990,201,Oklahoma,1989-12-09,72.00139999999999,included_game_day
+1990,201,Oklahoma,1989-12-23,89.55885847089999,included_game_day
+1990,201,Oklahoma,1989-12-27,112.52472412232,included_game_day
+1990,201,Oklahoma,1989-12-29,142.58602106155232,included_game_day
+1990,201,Oklahoma,1989-12-30,153.33898938685297,included_game_day
+1990,201,Oklahoma,1990-01-06,147.78942958586765,included_game_day
+1990,201,Oklahoma,1990-01-09,187.71614145622192,included_game_day
+1990,201,Oklahoma,1990-01-13,195.36928700602988,included_game_day
+1990,201,Oklahoma,1990-01-16,169.67501883132738,included_game_day
+1990,201,Oklahoma,1990-01-20,162.26284401406954,included_game_day
+1990,201,Oklahoma,1990-01-24,156.20028951516875,included_game_day
+1990,201,Oklahoma,1990-01-27,160.4705808111717,included_game_day
+1990,201,Oklahoma,1990-01-31,181.53225692038123,included_game_day
+1990,201,Oklahoma,1990-02-03,175.73154177522196,included_game_day
+1990,201,Oklahoma,1990-02-07,169.8826968890538,included_game_day
+1990,201,Oklahoma,1990-02-11,163.0206716101362,included_game_day
+1990,201,Oklahoma,1990-02-13,167.7567854215897,included_game_day
+1990,201,Oklahoma,1990-02-16,169.5532153586808,included_game_day
+1990,201,Oklahoma,1990-02-18,166.98122332326193,included_game_day
+1990,201,Oklahoma,1990-02-21,172.25959534941916,included_game_day
+1990,201,Oklahoma,1990-02-25,181.6224012634919,included_game_day
+1990,201,Oklahoma,1990-02-27,202.16541415373874,included_game_day
+1990,201,Oklahoma,1990-03-03,204.70521524548866,included_game_day
+1990,201,Oklahoma,1990-03-09,193.55345096893905,included_game_day
+1990,201,Oklahoma,1990-03-10,214.27534260821525,included_game_day
+1990,201,Oklahoma,1990-03-11,205.32117357996097,included_game_day
+1990,201,Oklahoma,1990-03-15,195.81787319224532,included_game_day
+1990,201,Oklahoma,1990-03-17,185.80192426590264,included_game_day
+1991,201,Oklahoma,1990-11-14,27.0,included_game_day
+1991,201,Oklahoma,1990-11-16,8.7,included_game_day
+1991,201,Oklahoma,1990-11-28,27.19,included_game_day
+1991,201,Oklahoma,1990-12-04,35.203900000000004,included_game_day
+1991,201,Oklahoma,1990-12-08,67.43831,included_game_day
+1991,201,Oklahoma,1990-12-13,76.2074184,included_game_day
+1991,201,Oklahoma,1990-12-15,118.37839856,included_game_day
+1991,201,Oklahoma,1990-12-22,108.4942621486,included_game_day
+1991,201,Oklahoma,1990-12-28,132.1541400887537,included_game_day
+1991,201,Oklahoma,1990-12-29,137.9495900230814,included_game_day
+1991,201,Oklahoma,1991-01-05,129.10179328652248,included_game_day
+1991,201,Oklahoma,1991-01-08,133.2129218549445,included_game_day
+1991,201,Oklahoma,1991-01-12,143.88633802194437,included_game_day
+1991,201,Oklahoma,1991-01-15,133.41777954355726,included_game_day
+1991,201,Oklahoma,1991-01-19,135.62614288999046,included_game_day
+1991,201,Oklahoma,1991-01-22,122.68385295245126,included_game_day
+1991,201,Oklahoma,1991-01-26,106.93338950524293,included_game_day
+1991,201,Oklahoma,1991-01-30,98.0464101399539,included_game_day
+1991,201,Oklahoma,1991-02-02,100.1624430913215,included_game_day
+1991,201,Oklahoma,1991-02-05,75.81418539059791,included_game_day
+1991,201,Oklahoma,1991-02-09,68.0448565104988,included_game_day
+1991,201,Oklahoma,1991-02-13,79.1106209262151,included_game_day
+1991,201,Oklahoma,1991-02-16,75.73058221379311,included_game_day
+1991,201,Oklahoma,1991-02-20,61.183786774252034,included_game_day
+1991,201,Oklahoma,1991-02-23,52.659085428758445,included_game_day
+1991,201,Oklahoma,1991-02-27,61.11394640445192,included_game_day
+1991,201,Oklahoma,1991-03-02,55.04908962060842,included_game_day
+1991,201,Oklahoma,1991-03-08,58.47573916332046,included_game_day
+1991,201,Oklahoma,1991-03-13,80.76546002326812,included_game_day
+1991,201,Oklahoma,1991-03-18,86.15528845511025,included_game_day
+1991,201,Oklahoma,1991-03-21,96.6242588556334,included_game_day
+1991,201,Oklahoma,1991-03-25,104.66119283480005,included_game_day
+1991,201,Oklahoma,1991-03-27,96.9743718009143,included_game_day
+1992,201,Oklahoma,1991-11-26,4.0,included_game_day
+1992,201,Oklahoma,1991-12-07,27.5341327,included_game_day
+1992,201,Oklahoma,1991-12-10,41.22638163,included_game_day
+1992,201,Oklahoma,1991-12-21,77.201999117,included_game_day
+1992,201,Oklahoma,1991-12-27,85.31680800971,included_game_day
+1992,201,Oklahoma,1991-12-28,86.69342785843,included_game_day
+1992,201,Oklahoma,1991-12-30,91.681415344487,included_game_day
+1992,201,Oklahoma,1991-12-31,103.01684729624418,included_game_day
+1992,201,Oklahoma,1992-01-04,89.74719567934831,included_game_day
+1992,201,Oklahoma,1992-01-11,93.12226183750845,included_game_day
+1992,201,Oklahoma,1992-01-18,130.41438124160143,included_game_day
+1992,201,Oklahoma,1992-01-20,127.99218195988448,included_game_day
+1992,201,Oklahoma,1992-01-27,127.75200758429837,included_game_day
+1992,201,Oklahoma,1992-01-29,131.66380222025293,included_game_day
+1992,201,Oklahoma,1992-02-01,131.24427986102086,included_game_day
+1992,201,Oklahoma,1992-02-05,122.51168075161377,included_game_day
+1992,201,Oklahoma,1992-02-09,112.70663479506108,included_game_day
+1992,201,Oklahoma,1992-02-15,130.40693782677553,included_game_day
+1992,201,Oklahoma,1992-02-19,137.95290181928868,included_game_day
+1992,201,Oklahoma,1992-02-22,142.9719471357822,included_game_day
+1992,201,Oklahoma,1992-02-24,131.2937882593333,included_game_day
+1992,201,Oklahoma,1992-02-29,148.60403898376163,included_game_day
+1992,201,Oklahoma,1992-03-04,163.36508012502844,included_game_day
+1992,201,Oklahoma,1992-03-07,164.22327978651842,included_game_day
+1992,201,Oklahoma,1992-03-13,180.90983951571042,included_game_day
+1992,201,Oklahoma,1992-03-14,163.64358416686832,included_game_day
+1992,201,Oklahoma,1992-03-20,150.19261678583086,included_game_day
+1993,201,Oklahoma,1992-12-03,1.4,included_game_day
+1993,201,Oklahoma,1992-12-05,40.96,included_game_day
+1993,201,Oklahoma,1992-12-08,84.694,included_game_day
+1993,201,Oklahoma,1992-12-10,83.661,included_game_day
+1993,201,Oklahoma,1992-12-12,86.05525322,included_game_day
+1993,201,Oklahoma,1992-12-21,83.667112378,included_game_day
+1993,201,Oklahoma,1992-12-23,92.3028487186,included_game_day
+1993,201,Oklahoma,1992-12-30,93.49207788913,included_game_day
+1993,201,Oklahoma,1993-01-02,105.820461180077,included_game_day
+1993,201,Oklahoma,1993-01-04,110.0811054095475,included_game_day
+1993,201,Oklahoma,1993-01-11,99.46124311531791,included_game_day
+1993,201,Oklahoma,1993-01-14,104.53639092387982,included_game_day
+1993,201,Oklahoma,1993-01-19,87.1878823715879,included_game_day
+1993,201,Oklahoma,1993-01-23,87.42574500504476,included_game_day
+1993,201,Oklahoma,1993-01-27,147.3843940002038,included_game_day
+1993,201,Oklahoma,1993-01-30,156.87600193340705,included_game_day
+1993,201,Oklahoma,1993-02-03,153.19215973132623,included_game_day
+1993,201,Oklahoma,1993-02-06,142.54977569041586,included_game_day
+1993,201,Oklahoma,1993-02-10,145.6501783440157,included_game_day
+1993,201,Oklahoma,1993-02-13,146.18403267495097,included_game_day
+1993,201,Oklahoma,1993-02-17,153.4536844286077,included_game_day
+1993,201,Oklahoma,1993-02-20,137.83406822943599,included_game_day
+1993,201,Oklahoma,1993-02-23,122.05620092016098,included_game_day
+1993,201,Oklahoma,1993-02-27,121.93753191712227,included_game_day
+1993,201,Oklahoma,1993-03-01,128.51020251167358,included_game_day
+1993,201,Oklahoma,1993-03-07,115.98023167787791,included_game_day
+1993,201,Oklahoma,1993-03-12,104.56450092706032,included_game_day
+1993,201,Oklahoma,1993-03-17,100.60947639945087,included_game_day
+1993,201,Oklahoma,1993-03-22,89.65389997042745,included_game_day
+1994,201,Oklahoma,1993-11-28,-1.6643,included_game_day
+1994,201,Oklahoma,1993-12-01,29.502129999999998,included_game_day
+1994,201,Oklahoma,1993-12-04,35.551916999999996,included_game_day
+1994,201,Oklahoma,1993-12-07,42.2455353,included_game_day
+1994,201,Oklahoma,1993-12-18,43.80647447,included_game_day
+1994,201,Oklahoma,1993-12-22,51.519607932,included_game_day
+1994,201,Oklahoma,1993-12-27,38.182926499602004,included_game_day
+1994,201,Oklahoma,1993-12-29,41.194711393821805,included_game_day
+1994,201,Oklahoma,1993-12-30,61.221941515146625,included_game_day
+1994,201,Oklahoma,1994-01-05,83.3559505952463,included_game_day
+1994,201,Oklahoma,1994-01-08,65.76250972888731,included_game_day
+1994,201,Oklahoma,1994-01-10,67.70748251804586,included_game_day
+1994,201,Oklahoma,1994-01-15,79.22664726337725,included_game_day
+1994,201,Oklahoma,1994-01-20,63.83847508513631,included_game_day
+1994,201,Oklahoma,1994-01-26,70.30792487538348,included_game_day
+1994,201,Oklahoma,1994-01-29,77.17255355163155,included_game_day
+1994,201,Oklahoma,1994-02-02,67.49472964496044,included_game_day
+1994,201,Oklahoma,1994-02-05,60.334653003539216,included_game_day
+1994,201,Oklahoma,1994-02-07,52.25184955981653,included_game_day
+1994,201,Oklahoma,1994-02-12,55.063114378354555,included_game_day
+1994,201,Oklahoma,1994-02-14,59.04092895602769,included_game_day
+1994,201,Oklahoma,1994-02-19,47.04668677454709,included_game_day
+1994,201,Oklahoma,1994-02-23,33.08387018748104,included_game_day
+1994,201,Oklahoma,1994-02-26,30.717775452856305,included_game_day
+1994,201,Oklahoma,1994-03-02,33.709324443287365,included_game_day
+1994,201,Oklahoma,1994-03-06,39.71631591924162,included_game_day
+1994,201,Oklahoma,1994-03-11,29.09270204358101,included_game_day
+1994,201,Oklahoma,1994-03-17,19.666691017438286,included_game_day
+1995,201,Oklahoma,1994-11-26,8.0,included_game_day
+1995,201,Oklahoma,1994-11-30,26.2,included_game_day
+1995,201,Oklahoma,1994-12-03,40.745,included_game_day
+1995,201,Oklahoma,1994-12-06,65.37254,included_game_day
+1995,201,Oklahoma,1994-12-10,65.035286,included_game_day
+1995,201,Oklahoma,1994-12-17,69.5663964,included_game_day
+1995,201,Oklahoma,1994-12-19,82.148129223,included_game_day
+1995,201,Oklahoma,1994-12-28,82.49264530706,included_game_day
+1995,201,Oklahoma,1994-12-29,79.2623080461375,included_game_day
+1995,201,Oklahoma,1994-12-30,75.10919774671025,included_game_day
+1995,201,Oklahoma,1995-01-03,76.61273773862023,included_game_day
+1995,201,Oklahoma,1995-01-06,87.63867396932088,included_game_day
+1995,201,Oklahoma,1995-01-07,102.02194124652479,included_game_day
+1995,201,Oklahoma,1995-01-14,111.45593958574523,included_game_day
+1995,201,Oklahoma,1995-01-16,105.50394800641246,included_game_day
+1995,201,Oklahoma,1995-01-18,117.4915613127299,included_game_day
+1995,201,Oklahoma,1995-01-21,140.79066033505705,included_game_day
+1995,201,Oklahoma,1995-01-25,122.67970746008346,included_game_day
+1995,201,Oklahoma,1995-01-28,126.35137249005547,included_game_day
+1995,201,Oklahoma,1995-02-01,121.85349861232146,included_game_day
+1995,201,Oklahoma,1995-02-05,107.72931839685273,included_game_day
+1995,201,Oklahoma,1995-02-08,112.33851803694479,included_game_day
+1995,201,Oklahoma,1995-02-11,104.55627808892154,included_game_day
+1995,201,Oklahoma,1995-02-15,107.74470543490742,included_game_day
+1995,201,Oklahoma,1995-02-18,109.88326816273924,included_game_day
+1995,201,Oklahoma,1995-02-20,118.42723951904401,included_game_day
+1995,201,Oklahoma,1995-02-25,131.26359342694187,included_game_day
+1995,201,Oklahoma,1995-03-01,135.08431948338048,included_game_day
+1995,201,Oklahoma,1995-03-04,130.51377078041423,included_game_day
+1995,201,Oklahoma,1995-03-10,139.2132392150041,included_game_day
+1995,201,Oklahoma,1995-03-11,128.8078580218032,included_game_day
+1995,201,Oklahoma,1995-03-16,113.42761489850817,included_game_day
+1996,201,Oklahoma,1995-11-15,28.0,included_game_day
+1996,201,Oklahoma,1995-11-17,18.9,included_game_day
+1996,201,Oklahoma,1995-11-29,6.045999999999999,included_game_day
+1996,201,Oklahoma,1995-12-06,-4.3948,included_game_day
+1996,201,Oklahoma,1995-12-09,23.73589,included_game_day
+1996,201,Oklahoma,1995-12-16,52.253666839000005,included_game_day
+1996,201,Oklahoma,1995-12-18,49.7805923441,included_game_day
+1996,201,Oklahoma,1995-12-21,81.7161522565097,included_game_day
+1996,201,Oklahoma,1995-12-23,82.99911913085873,included_game_day
+1996,201,Oklahoma,1995-12-29,83.46419467247286,included_game_day
+1996,201,Oklahoma,1995-12-30,71.26269991256261,included_game_day
+1996,201,Oklahoma,1996-01-03,70.11914958414756,included_game_day
+1996,201,Oklahoma,1996-01-09,74.5673354547527,included_game_day
+1996,201,Oklahoma,1996-01-13,89.73514557638441,included_game_day
+1996,201,Oklahoma,1996-01-15,91.21087090233526,included_game_day
+1996,201,Oklahoma,1996-01-20,68.43365269106998,included_game_day
+1996,201,Oklahoma,1996-01-22,71.99740404524259,included_game_day
+1996,201,Oklahoma,1996-01-27,68.15010589543017,included_game_day
+1996,201,Oklahoma,1996-01-31,73.43143984893442,included_game_day
+1996,201,Oklahoma,1996-02-03,104.22947971929979,included_game_day
+1996,201,Oklahoma,1996-02-05,103.06115056349279,included_game_day
+1996,201,Oklahoma,1996-02-10,92.08907554496743,included_game_day
+1996,201,Oklahoma,1996-02-14,76.19873768654719,included_game_day
+1996,201,Oklahoma,1996-02-17,104.99803119293803,included_game_day
+1996,201,Oklahoma,1996-02-21,113.03746599805069,included_game_day
+1996,201,Oklahoma,1996-02-25,112.68537159911537,included_game_day
+1996,201,Oklahoma,1996-02-28,91.49938263393591,included_game_day
+1996,201,Oklahoma,1996-03-02,101.27625916411725,included_game_day
+1996,201,Oklahoma,1996-03-08,90.01727900088339,included_game_day
+1996,201,Oklahoma,1996-03-15,71.0026259756317,included_game_day
+1997,201,Oklahoma,1996-11-23,24.0,included_game_day
+1997,201,Oklahoma,1996-11-27,53.1,included_game_day
+1997,201,Oklahoma,1996-11-30,68.79,included_game_day
+1997,201,Oklahoma,1996-12-04,78.146702,included_game_day
+1997,201,Oklahoma,1996-12-07,97.48703180000001,included_game_day
+1997,201,Oklahoma,1996-12-14,122.80714262000001,included_game_day
+1997,201,Oklahoma,1996-12-21,135.63958264882,included_game_day
+1997,201,Oklahoma,1996-12-23,111.220418671938,included_game_day
+1997,201,Oklahoma,1996-12-27,112.1162649883442,included_game_day
+1997,201,Oklahoma,1996-12-28,102.84741661269977,included_game_day
+1997,201,Oklahoma,1997-01-05,116.84509066887234,included_game_day
+1997,201,Oklahoma,1997-01-11,89.82728534972073,included_game_day
+1997,201,Oklahoma,1997-01-15,79.83973634640034,included_game_day
+1997,201,Oklahoma,1997-01-18,88.64686943238343,included_game_day
+1997,201,Oklahoma,1997-01-22,81.0668715538983,included_game_day
+1997,201,Oklahoma,1997-01-25,83.36668632186984,included_game_day
+1997,201,Oklahoma,1997-01-27,83.2138340223388,included_game_day
+1997,201,Oklahoma,1997-02-01,93.59380731515398,included_game_day
+1997,201,Oklahoma,1997-02-04,84.65621349928055,included_game_day
+1997,201,Oklahoma,1997-02-08,71.74601937804796,included_game_day
+1997,201,Oklahoma,1997-02-12,95.88789204407625,included_game_day
+1997,201,Oklahoma,1997-02-15,86.8436674162208,included_game_day
+1997,201,Oklahoma,1997-02-19,95.57940939183199,included_game_day
+1997,201,Oklahoma,1997-02-22,101.93273210702532,included_game_day
+1997,201,Oklahoma,1997-02-24,108.2295573008094,included_game_day
+1997,201,Oklahoma,1997-03-01,116.19579273010105,included_game_day
+1997,201,Oklahoma,1997-03-06,112.95140053209867,included_game_day
+1997,201,Oklahoma,1997-03-07,122.02044559481237,included_game_day
+1997,201,Oklahoma,1997-03-08,104.94871759108258,included_game_day
+1997,201,Oklahoma,1997-03-14,96.18829717756186,included_game_day
+1998,201,Oklahoma,1997-11-15,10.0,included_game_day
+1998,201,Oklahoma,1997-11-18,23.3,included_game_day
+1998,201,Oklahoma,1997-11-22,30.97,included_game_day
+1998,201,Oklahoma,1997-11-28,17.1044,included_game_day
+1998,201,Oklahoma,1997-11-29,4.008200999999998,included_game_day
+1998,201,Oklahoma,1997-12-06,11.402322199999997,included_game_day
+1998,201,Oklahoma,1997-12-13,5.576122579999997,included_game_day
+1998,201,Oklahoma,1997-12-20,18.1497641359,included_game_day
+1998,201,Oklahoma,1997-12-22,27.33308539151,included_game_day
+1998,201,Oklahoma,1997-12-27,36.56962731798133,included_game_day
+1998,201,Oklahoma,1997-12-28,56.6727099941023,included_game_day
+1998,201,Oklahoma,1998-01-03,55.68863058668099,included_game_day
+1998,201,Oklahoma,1998-01-07,64.67671509904147,included_game_day
+1998,201,Oklahoma,1998-01-10,74.66695115099199,included_game_day
+1998,201,Oklahoma,1998-01-12,77.41670048211918,included_game_day
+1998,201,Oklahoma,1998-01-18,68.31826764254616,included_game_day
+1998,201,Oklahoma,1998-01-21,60.06479720699438,included_game_day
+1998,201,Oklahoma,1998-01-24,62.46124567693664,included_game_day
+1998,201,Oklahoma,1998-01-26,60.34103692942613,included_game_day
+1998,201,Oklahoma,1998-01-31,58.85467389705444,included_game_day
+1998,201,Oklahoma,1998-02-04,51.32543150119711,included_game_day
+1998,201,Oklahoma,1998-02-08,58.584218041182005,included_game_day
+1998,201,Oklahoma,1998-02-14,61.65969396135819,included_game_day
+1998,201,Oklahoma,1998-02-18,64.91635521027177,included_game_day
+1998,201,Oklahoma,1998-02-21,61.90903687172765,included_game_day
+1998,201,Oklahoma,1998-02-23,65.16390457341149,included_game_day
+1998,201,Oklahoma,1998-02-28,97.19427527998178,included_game_day
+1998,201,Oklahoma,1998-03-06,100.796123315324,included_game_day
+1998,201,Oklahoma,1998-03-07,104.6709811700641,included_game_day
+1998,201,Oklahoma,1998-03-08,100.74001016194903,included_game_day
+1998,201,Oklahoma,1998-03-12,89.82963595484009,included_game_day
+1999,201,Oklahoma,1998-11-14,17.0,included_game_day
+1999,201,Oklahoma,1998-11-21,34.924,included_game_day
+1999,201,Oklahoma,1998-11-27,71.7966,included_game_day
+1999,201,Oklahoma,1998-11-28,60.136039999999994,included_game_day
+1999,201,Oklahoma,1998-12-05,84.3071988,included_game_day
+1999,201,Oklahoma,1998-12-12,89.6350987246,included_game_day
+1999,201,Oklahoma,1998-12-17,106.02633375514,included_game_day
+1999,201,Oklahoma,1998-12-22,100.28746636382755,included_game_day
+1999,201,Oklahoma,1998-12-23,99.20817384855314,included_game_day
+1999,201,Oklahoma,1998-12-29,96.46089820048397,included_game_day
+1999,201,Oklahoma,1998-12-30,105.46490449704801,included_game_day
+1999,201,Oklahoma,1999-01-03,104.08383170162065,included_game_day
+1999,201,Oklahoma,1999-01-06,103.52232467825738,included_game_day
+1999,201,Oklahoma,1999-01-09,109.59083246092756,included_game_day
+1999,201,Oklahoma,1999-01-12,121.05642820902308,included_game_day
+1999,201,Oklahoma,1999-01-16,111.53265814285777,included_game_day
+1999,201,Oklahoma,1999-01-20,85.17364069009058,included_game_day
+1999,201,Oklahoma,1999-01-23,73.50706358134362,included_game_day
+1999,201,Oklahoma,1999-01-25,66.19524222223001,included_game_day
+1999,201,Oklahoma,1999-01-30,79.22463184465892,included_game_day
+1999,201,Oklahoma,1999-02-03,69.28042208678079,included_game_day
+1999,201,Oklahoma,1999-02-06,74.28761194099334,included_game_day
+1999,201,Oklahoma,1999-02-10,79.69222035033636,included_game_day
+1999,201,Oklahoma,1999-02-13,96.06221740883049,included_game_day
+1999,201,Oklahoma,1999-02-15,113.92942230305647,included_game_day
+1999,201,Oklahoma,1999-02-20,97.90493894824044,included_game_day
+1999,201,Oklahoma,1999-02-24,87.34302288346538,included_game_day
+1999,201,Oklahoma,1999-02-27,91.97218312828886,included_game_day
+1999,201,Oklahoma,1999-03-05,91.45331296678765,included_game_day
+1999,201,Oklahoma,1999-03-12,94.33451570142867,included_game_day
+1999,201,Oklahoma,1999-03-14,108.84235247865357,included_game_day
+1999,201,Oklahoma,1999-03-19,108.49601259753578,included_game_day
+2000,201,Oklahoma,1999-11-19,15.0,included_game_day
+2000,201,Oklahoma,1999-11-20,33.010000000000005,included_game_day
+2000,201,Oklahoma,1999-11-21,49.93900000000001,included_game_day
+2000,201,Oklahoma,1999-11-26,51.085100000000004,included_game_day
+2000,201,Oklahoma,1999-11-27,55.83659,included_game_day
+2000,201,Oklahoma,1999-12-04,62.403632,included_game_day
+2000,201,Oklahoma,1999-12-07,79.0182418,included_game_day
+2000,201,Oklahoma,1999-12-11,86.024878695,included_game_day
+2000,201,Oklahoma,1999-12-18,111.23612188679999,included_game_day
+2000,201,Oklahoma,1999-12-22,92.54800886603459,included_game_day
+2000,201,Oklahoma,1999-12-29,133.12292287557113,included_game_day
+2000,201,Oklahoma,1999-12-30,130.11294546513332,included_game_day
+2000,201,Oklahoma,2000-01-03,119.11384399936983,included_game_day
+2000,201,Oklahoma,2000-01-08,126.83063835037917,included_game_day
+2000,201,Oklahoma,2000-01-11,145.29015442698434,included_game_day
+2000,201,Oklahoma,2000-01-15,132.4841745228009,included_game_day
+2000,201,Oklahoma,2000-01-19,118.96026326994131,included_game_day
+2000,201,Oklahoma,2000-01-22,121.69806743328041,included_game_day
+2000,201,Oklahoma,2000-01-29,130.27159476377767,included_game_day
+2000,201,Oklahoma,2000-01-31,152.48455219756184,included_game_day
+2000,201,Oklahoma,2000-02-05,149.45786238778305,included_game_day
+2000,201,Oklahoma,2000-02-08,151.6830756314855,included_game_day
+2000,201,Oklahoma,2000-02-12,145.64959981475624,included_game_day
+2000,201,Oklahoma,2000-02-14,142.66362647340236,included_game_day
+2000,201,Oklahoma,2000-02-20,138.97330931548163,included_game_day
+2000,201,Oklahoma,2000-02-23,151.29766222548196,included_game_day
+2000,201,Oklahoma,2000-02-26,169.04895620609636,included_game_day
+2000,201,Oklahoma,2000-03-01,167.4971684158786,included_game_day
+2000,201,Oklahoma,2000-03-04,175.46872165362558,included_game_day
+2000,201,Oklahoma,2000-03-10,172.2498271885406,included_game_day
+2000,201,Oklahoma,2000-03-11,190.92321139458824,included_game_day
+2000,201,Oklahoma,2000-03-12,175.340574135808,included_game_day
+2000,201,Oklahoma,2000-03-16,186.01010511131224,included_game_day
+2000,201,Oklahoma,2000-03-18,173.9632660402171,included_game_day
+2001,201,Oklahoma,2000-11-17,16.0,included_game_day
+2001,201,Oklahoma,2000-11-18,29.1,included_game_day
+2001,201,Oklahoma,2000-11-24,34.34,included_game_day
+2001,201,Oklahoma,2000-11-25,45.816,included_game_day
+2001,201,Oklahoma,2000-11-26,64.73379,included_game_day
+2001,201,Oklahoma,2000-12-02,61.152018,included_game_day
+2001,201,Oklahoma,2000-12-09,73.622192994,included_game_day
+2001,201,Oklahoma,2000-12-16,115.3218632906,included_game_day
+2001,201,Oklahoma,2000-12-20,145.03220135854002,included_game_day
+2001,201,Oklahoma,2000-12-23,150.04024816306642,included_game_day
+2001,201,Oklahoma,2000-12-29,163.93798943631617,included_game_day
+2001,201,Oklahoma,2000-12-30,157.59517515529436,included_game_day
+2001,201,Oklahoma,2001-01-06,138.47045681240195,included_game_day
+2001,201,Oklahoma,2001-01-09,133.94823946670354,included_game_day
+2001,201,Oklahoma,2001-01-13,120.55396532967299,included_game_day
+2001,201,Oklahoma,2001-01-16,110.98056661772071,included_game_day
+2001,201,Oklahoma,2001-01-20,104.81395562315305,included_game_day
+2001,201,Oklahoma,2001-01-24,106.77626945534202,included_game_day
+2001,201,Oklahoma,2001-01-27,108.03947886601598,included_game_day
+2001,201,Oklahoma,2001-01-31,119.66401983587923,included_game_day
+2001,201,Oklahoma,2001-02-03,115.07732775142784,included_game_day
+2001,201,Oklahoma,2001-02-07,109.2189779557884,included_game_day
+2001,201,Oklahoma,2001-02-10,129.89979006002008,included_game_day
+2001,201,Oklahoma,2001-02-14,99.91123928712912,included_game_day
+2001,201,Oklahoma,2001-02-17,114.87400317437834,included_game_day
+2001,201,Oklahoma,2001-02-19,115.71163659549028,included_game_day
+2001,201,Oklahoma,2001-02-24,115.39384722592646,included_game_day
+2001,201,Oklahoma,2001-02-28,126.64291917625873,included_game_day
+2001,201,Oklahoma,2001-03-03,130.82151798252053,included_game_day
+2001,201,Oklahoma,2001-03-09,126.28111049943381,included_game_day
+2001,201,Oklahoma,2001-03-10,135.0820731814794,included_game_day
+2001,201,Oklahoma,2001-03-11,144.1406457697892,included_game_day
+2001,201,Oklahoma,2001-03-16,134.13704697959395,included_game_day
+2002,201,Oklahoma Sooners,2001-11-12,19.0,included_game_day
+2002,201,Oklahoma Sooners,2001-11-14,8.8,included_game_day
+2002,201,Oklahoma Sooners,2001-11-28,22.994,included_game_day
+2002,201,Oklahoma Sooners,2001-11-30,41.5165,included_game_day
+2002,201,Oklahoma Sooners,2001-12-05,41.9238043,included_game_day
+2002,201,Oklahoma Sooners,2001-12-08,39.38843853,included_game_day
+2002,201,Oklahoma Sooners,2001-12-15,70.2935609989,included_game_day
+2002,201,Oklahoma Sooners,2001-12-16,92.84528114801,included_game_day
+2002,201,Oklahoma Sooners,2001-12-18,140.363385572869,included_game_day
+2002,201,Oklahoma Sooners,2001-12-21,149.3130356071821,included_game_day
+2002,201,Oklahoma Sooners,2001-12-29,162.6420495056541,included_game_day
+2002,201,Oklahoma Sooners,2002-01-05,165.36138554683683,included_game_day
+2002,201,Oklahoma Sooners,2002-01-07,161.66126227749243,included_game_day
+2002,201,Oklahoma Sooners,2002-01-12,179.95331622435785,included_game_day
+2002,201,Oklahoma Sooners,2002-01-16,191.2812162011457,included_game_day
+2002,201,Oklahoma Sooners,2002-01-19,180.6151646147492,included_game_day
+2002,201,Oklahoma Sooners,2002-01-21,182.8956732393637,included_game_day
+2002,201,Oklahoma Sooners,2002-01-26,165.9723889214411,included_game_day
+2002,201,Oklahoma Sooners,2002-01-30,158.88339462044223,included_game_day
+2002,201,Oklahoma Sooners,2002-02-02,155.56496922503533,included_game_day
+2002,201,Oklahoma Sooners,2002-02-06,157.1366724030579,included_game_day
+2002,201,Oklahoma Sooners,2002-02-09,143.35502427735693,included_game_day
+2002,201,Oklahoma Sooners,2002-02-16,139.1139945031638,included_game_day
+2002,201,Oklahoma Sooners,2002-02-19,144.4880309780347,included_game_day
+2002,201,Oklahoma Sooners,2002-02-23,153.76232621746902,included_game_day
+2002,201,Oklahoma Sooners,2002-02-26,149.55235612987087,included_game_day
+2002,201,Oklahoma Sooners,2002-03-02,151.71416770903141,included_game_day
+2002,201,Oklahoma Sooners,2002-03-08,146.3553859481778,included_game_day
+2002,201,Oklahoma Sooners,2002-03-09,154.95869530258872,included_game_day
+2002,201,Oklahoma Sooners,2002-03-10,175.75895399180922,included_game_day
+2002,201,Oklahoma Sooners,2002-03-15,168.01235937184444,included_game_day
+2002,201,Oklahoma Sooners,2002-03-17,172.23609035363484,included_game_day
+2002,201,Oklahoma Sooners,2002-03-21,186.6441056753695,included_game_day
+2002,201,Oklahoma Sooners,2002-03-23,184.5969767821211,included_game_day
+2002,201,Oklahoma Sooners,2002-03-30,170.75414512441483,included_game_day
+2003,201,Oklahoma Sooners,2002-11-14,-9.0,included_game_day
+2003,201,Oklahoma Sooners,2002-11-22,10.899999999999999,included_game_day
+2003,201,Oklahoma Sooners,2002-11-23,25.81,included_game_day
+2003,201,Oklahoma Sooners,2002-11-30,32.829,included_game_day
+2003,201,Oklahoma Sooners,2002-12-07,66.41549,included_game_day
+2003,201,Oklahoma Sooners,2002-12-14,74.91603255000001,included_game_day
+2003,201,Oklahoma Sooners,2002-12-21,88.672567771,included_game_day
+2003,201,Oklahoma Sooners,2002-12-28,85.5720030379,included_game_day
+2003,201,Oklahoma Sooners,2002-12-30,102.16242410800001,included_game_day
+2003,201,Oklahoma Sooners,2003-01-04,98.16313030909743,included_game_day
+2003,201,Oklahoma Sooners,2003-01-07,107.63657288888436,included_game_day
+2003,201,Oklahoma Sooners,2003-01-11,116.97606174186791,included_game_day
+2003,201,Oklahoma Sooners,2003-01-13,119.0017167614825,included_game_day
+2003,201,Oklahoma Sooners,2003-01-18,124.71524029460437,included_game_day
+2003,201,Oklahoma Sooners,2003-01-20,124.39042772377843,included_game_day
+2003,201,Oklahoma Sooners,2003-01-25,133.14106929660994,included_game_day
+2003,201,Oklahoma Sooners,2003-01-28,127.76967192791587,included_game_day
+2003,201,Oklahoma Sooners,2003-02-01,128.86545558777726,included_game_day
+2003,201,Oklahoma Sooners,2003-02-08,166.81948816113885,included_game_day
+2003,201,Oklahoma Sooners,2003-02-10,160.8751509469473,included_game_day
+2003,201,Oklahoma Sooners,2003-02-15,163.56175636207064,included_game_day
+2003,201,Oklahoma Sooners,2003-02-19,170.36957859514175,included_game_day
+2003,201,Oklahoma Sooners,2003-02-23,175.92410159731435,included_game_day
+2003,201,Oklahoma Sooners,2003-02-26,154.00568657956796,included_game_day
+2003,201,Oklahoma Sooners,2003-03-01,149.67483515274282,included_game_day
+2003,201,Oklahoma Sooners,2003-03-04,155.8766684509764,included_game_day
+2003,201,Oklahoma Sooners,2003-03-08,147.1400067725593,included_game_day
+2003,201,Oklahoma Sooners,2003-03-14,154.4410396045278,included_game_day
+2003,201,Oklahoma Sooners,2003-03-15,153.08713763208033,included_game_day
+2003,201,Oklahoma Sooners,2003-03-16,147.83201024796185,included_game_day
+2003,201,Oklahoma Sooners,2003-03-20,144.8748634003506,included_game_day
+2003,201,Oklahoma Sooners,2003-03-22,142.28847118323705,included_game_day
+2003,201,Oklahoma Sooners,2003-03-28,144.72095900685423,included_game_day
+2003,201,Oklahoma Sooners,2003-03-30,123.08513616278668,included_game_day
+2004,201,Oklahoma Sooners,2003-11-21,7.0,included_game_day
+2004,201,Oklahoma Sooners,2003-11-22,19.3,included_game_day
+2004,201,Oklahoma Sooners,2003-11-25,24.72,included_game_day
+2004,201,Oklahoma Sooners,2003-12-02,82.61,included_game_day
+2004,201,Oklahoma Sooners,2003-12-06,80.8704145,included_game_day
+2004,201,Oklahoma Sooners,2003-12-11,77.36683916,included_game_day
+2004,201,Oklahoma Sooners,2003-12-13,89.222755244,included_game_day
+2004,201,Oklahoma Sooners,2003-12-20,95.547714884309,included_game_day
+2004,201,Oklahoma Sooners,2003-12-29,89.2241238671958,included_game_day
+2004,201,Oklahoma Sooners,2004-01-03,82.94818276875321,included_game_day
+2004,201,Oklahoma Sooners,2004-01-11,66.70633131119985,included_game_day
+2004,201,Oklahoma Sooners,2004-01-14,53.51551342841077,included_game_day
+2004,201,Oklahoma Sooners,2004-01-17,43.39246333621811,included_game_day
+2004,201,Oklahoma Sooners,2004-01-19,33.202291253524976,included_game_day
+2004,201,Oklahoma Sooners,2004-01-24,44.076895853155285,included_game_day
+2004,201,Oklahoma Sooners,2004-01-28,49.21330322899926,included_game_day
+2004,201,Oklahoma Sooners,2004-02-01,58.086765614787865,included_game_day
+2004,201,Oklahoma Sooners,2004-02-04,81.32463674607168,included_game_day
+2004,201,Oklahoma Sooners,2004-02-08,59.45983831538436,included_game_day
+2004,201,Oklahoma Sooners,2004-02-11,74.9201549897828,included_game_day
+2004,201,Oklahoma Sooners,2004-02-14,75.5717927241693,included_game_day
+2004,201,Oklahoma Sooners,2004-02-16,68.78902712686738,included_game_day
+2004,201,Oklahoma Sooners,2004-02-21,68.1501411774628,included_game_day
+2004,201,Oklahoma Sooners,2004-02-25,63.79925878204503,included_game_day
+2004,201,Oklahoma Sooners,2004-02-29,45.92308799915922,included_game_day
+2004,201,Oklahoma Sooners,2004-03-03,61.52734616377618,included_game_day
+2004,201,Oklahoma Sooners,2004-03-06,54.29924593090948,included_game_day
+2004,201,Oklahoma Sooners,2004-03-11,58.92201542913658,included_game_day
+2004,201,Oklahoma Sooners,2004-03-12,64.74895045408381,included_game_day
+2004,201,Oklahoma Sooners,2004-03-17,67.00398152169421,included_game_day
+2004,201,Oklahoma Sooners,2004-03-22,57.45537253134569,included_game_day
+2005,201,Oklahoma Sooners,2004-11-20,7.0,included_game_day
+2005,201,Oklahoma Sooners,2004-11-26,31.3,included_game_day
+2005,201,Oklahoma Sooners,2004-11-27,35.612571,included_game_day
+2005,201,Oklahoma Sooners,2004-12-01,46.036022,included_game_day
+2005,201,Oklahoma Sooners,2004-12-08,60.5930455,included_game_day
+2005,201,Oklahoma Sooners,2004-12-11,77.29050746,included_game_day
+2005,201,Oklahoma Sooners,2004-12-18,76.54442141034,included_game_day
+2005,201,Oklahoma Sooners,2004-12-23,82.55814820029599,included_game_day
+2005,201,Oklahoma Sooners,2004-12-28,76.98077901233017,included_game_day
+2005,201,Oklahoma Sooners,2004-12-30,118.69783752415115,included_game_day
+2005,201,Oklahoma Sooners,2005-01-02,141.96260925427816,included_game_day
+2005,201,Oklahoma Sooners,2005-01-08,155.7632921018737,included_game_day
+2005,201,Oklahoma Sooners,2005-01-10,161.78227806692402,included_game_day
+2005,201,Oklahoma Sooners,2005-01-15,152.56861729664658,included_game_day
+2005,201,Oklahoma Sooners,2005-01-18,165.96682661103978,included_game_day
+2005,201,Oklahoma Sooners,2005-01-22,163.48597573201351,included_game_day
+2005,201,Oklahoma Sooners,2005-01-24,168.71079114263878,included_game_day
+2005,201,Oklahoma Sooners,2005-01-29,148.0663986597379,included_game_day
+2005,201,Oklahoma Sooners,2005-02-02,142.2083726153158,included_game_day
+2005,201,Oklahoma Sooners,2005-02-05,130.75306905923685,included_game_day
+2005,201,Oklahoma Sooners,2005-02-07,124.42284972273816,included_game_day
+2005,201,Oklahoma Sooners,2005-02-12,111.59878682082841,included_game_day
+2005,201,Oklahoma Sooners,2005-02-16,127.28479392685783,included_game_day
+2005,201,Oklahoma Sooners,2005-02-19,121.61466460681069,included_game_day
+2005,201,Oklahoma Sooners,2005-02-21,129.14374565335527,included_game_day
+2005,201,Oklahoma Sooners,2005-02-26,152.38940429166001,included_game_day
+2005,201,Oklahoma Sooners,2005-02-28,167.1876086745417,included_game_day
+2005,201,Oklahoma Sooners,2005-03-05,181.16545838709342,included_game_day
+2005,201,Oklahoma Sooners,2005-03-11,167.07821153861266,included_game_day
+2005,201,Oklahoma Sooners,2005-03-12,148.46703487945544,included_game_day
+2005,201,Oklahoma Sooners,2005-03-17,152.24572412642118,included_game_day
+2005,201,Oklahoma Sooners,2005-03-19,134.98401457996246,included_game_day
+2006,201,Oklahoma Sooners,2005-11-19,20.2,included_game_day
+2006,201,Oklahoma Sooners,2005-11-23,40.897400000000005,included_game_day
+2006,201,Oklahoma Sooners,2005-11-26,57.64766,included_game_day
+2006,201,Oklahoma Sooners,2005-11-30,62.931894,included_game_day
+2006,201,Oklahoma Sooners,2005-12-03,57.1286954,included_game_day
+2006,201,Oklahoma Sooners,2005-12-10,52.84784926,included_game_day
+2006,201,Oklahoma Sooners,2005-12-17,53.67263007346,included_game_day
+2006,201,Oklahoma Sooners,2005-12-22,26.931737986662,included_game_day
+2006,201,Oklahoma Sooners,2005-12-28,29.44536083688226,included_game_day
+2006,201,Oklahoma Sooners,2005-12-31,41.46071666418902,included_game_day
+2006,201,Oklahoma Sooners,2006-01-03,46.49481489934982,included_game_day
+2006,201,Oklahoma Sooners,2006-01-07,46.440147562298726,included_game_day
+2006,201,Oklahoma Sooners,2006-01-10,40.605875168282175,included_game_day
+2006,201,Oklahoma Sooners,2006-01-14,49.065330475047794,included_game_day
+2006,201,Oklahoma Sooners,2006-01-21,55.29176670189033,included_game_day
+2006,201,Oklahoma Sooners,2006-01-25,78.86355547086995,included_game_day
+2006,201,Oklahoma Sooners,2006-01-28,99.75139691399824,included_game_day
+2006,201,Oklahoma Sooners,2006-02-01,100.68643687522919,included_game_day
+2006,201,Oklahoma Sooners,2006-02-05,109.28712975915022,included_game_day
+2006,201,Oklahoma Sooners,2006-02-08,115.57013475565196,included_game_day
+2006,201,Oklahoma Sooners,2006-02-11,127.40026970391132,included_game_day
+2006,201,Oklahoma Sooners,2006-02-15,117.99898206450798,included_game_day
+2006,201,Oklahoma Sooners,2006-02-18,110.97089137092857,included_game_day
+2006,201,Oklahoma Sooners,2006-02-20,108.3159869665077,included_game_day
+2006,201,Oklahoma Sooners,2006-02-25,101.92582143559589,included_game_day
+2006,201,Oklahoma Sooners,2006-02-27,97.28402915077673,included_game_day
+2006,201,Oklahoma Sooners,2006-03-05,83.50411123548659,included_game_day
+2006,201,Oklahoma Sooners,2006-03-10,69.2290074689282,included_game_day
+2006,201,Oklahoma Sooners,2006-03-16,60.530256880753484,included_game_day
+2007,201,Oklahoma Sooners,2006-11-10,60.0,included_game_day
+2007,201,Oklahoma Sooners,2006-11-16,77.0,included_game_day
+2007,201,Oklahoma Sooners,2006-11-20,63.6188,included_game_day
+2007,201,Oklahoma Sooners,2006-11-21,54.67622,included_game_day
+2007,201,Oklahoma Sooners,2006-12-02,73.85270507999999,included_game_day
+2007,201,Oklahoma Sooners,2006-12-06,55.99695092409999,included_game_day
+2007,201,Oklahoma Sooners,2006-12-09,58.682160050674995,included_game_day
+2007,201,Oklahoma Sooners,2006-12-16,76.5367084955175,included_game_day
+2007,201,Oklahoma Sooners,2006-12-21,87.89492468016576,included_game_day
+2007,201,Oklahoma Sooners,2006-12-28,108.90405385435383,included_game_day
+2007,201,Oklahoma Sooners,2007-01-01,99.25613121783495,included_game_day
+2007,201,Oklahoma Sooners,2007-01-06,85.96143317064889,included_game_day
+2007,201,Oklahoma Sooners,2007-01-10,92.53653205094949,included_game_day
+2007,201,Oklahoma Sooners,2007-01-13,87.70182084297537,included_game_day
+2007,201,Oklahoma Sooners,2007-01-17,100.32065252892936,included_game_day
+2007,201,Oklahoma Sooners,2007-01-20,133.04075796381397,included_game_day
+2007,201,Oklahoma Sooners,2007-01-22,126.21392453381705,included_game_day
+2007,201,Oklahoma Sooners,2007-01-27,126.77143805938833,included_game_day
+2007,201,Oklahoma Sooners,2007-01-30,140.80504246624878,included_game_day
+2007,201,Oklahoma Sooners,2007-02-03,146.3196353225677,included_game_day
+2007,201,Oklahoma Sooners,2007-02-07,142.58884676072893,included_game_day
+2007,201,Oklahoma Sooners,2007-02-10,136.29467002496682,included_game_day
+2007,201,Oklahoma Sooners,2007-02-13,119.51402965575777,included_game_day
+2007,201,Oklahoma Sooners,2007-02-17,116.30603527606806,included_game_day
+2007,201,Oklahoma Sooners,2007-02-20,113.01782835550343,included_game_day
+2007,201,Oklahoma Sooners,2007-02-24,103.41581907644888,included_game_day
+2007,201,Oklahoma Sooners,2007-02-26,113.34596924451819,included_game_day
+2007,201,Oklahoma Sooners,2007-03-03,103.23139274559665,included_game_day
+2007,201,Oklahoma Sooners,2007-03-08,102.29258373996001,included_game_day
+2007,201,Oklahoma Sooners,2007-03-09,101.6020509627316,included_game_day
+2008,201,Oklahoma Sooners,2007-11-08,16.0,included_game_day
+2008,201,Oklahoma Sooners,2007-11-09,44.4,included_game_day
+2008,201,Oklahoma Sooners,2007-11-12,75.46000000000001,included_game_day
+2008,201,Oklahoma Sooners,2007-11-15,61.854000000000006,included_game_day
+2008,201,Oklahoma Sooners,2007-11-16,71.5716,included_game_day
+2008,201,Oklahoma Sooners,2007-11-21,90.94544,included_game_day
+2008,201,Oklahoma Sooners,2007-11-29,80.0179497,included_game_day
+2008,201,Oklahoma Sooners,2007-12-02,103.18149887,included_game_day
+2008,201,Oklahoma Sooners,2007-12-05,115.287376233,included_game_day
+2008,201,Oklahoma Sooners,2007-12-08,99.5163307719,included_game_day
+2008,201,Oklahoma Sooners,2007-12-15,105.74131691551,included_game_day
+2008,201,Oklahoma Sooners,2007-12-20,109.35928732912579,included_game_day
+2008,201,Oklahoma Sooners,2007-12-29,124.77022772528102,included_game_day
+2008,201,Oklahoma Sooners,2008-01-05,115.02929034643768,included_game_day
+2008,201,Oklahoma Sooners,2008-01-07,124.26953087713788,included_game_day
+2008,201,Oklahoma Sooners,2008-01-12,119.2057585367401,included_game_day
+2008,201,Oklahoma Sooners,2008-01-14,100.74420613257871,included_game_day
+2008,201,Oklahoma Sooners,2008-01-26,109.3497310682388,included_game_day
+2008,201,Oklahoma Sooners,2008-01-28,104.76645986822489,included_game_day
+2008,201,Oklahoma Sooners,2008-02-02,102.30885530646478,included_game_day
+2008,201,Oklahoma Sooners,2008-02-06,90.67748576472347,included_game_day
+2008,201,Oklahoma Sooners,2008-02-09,72.73833729740399,included_game_day
+2008,201,Oklahoma Sooners,2008-02-13,77.07256976392463,included_game_day
+2008,201,Oklahoma Sooners,2008-02-16,81.76053009364763,included_game_day
+2008,201,Oklahoma Sooners,2008-02-19,79.52232820636694,included_game_day
+2008,201,Oklahoma Sooners,2008-02-23,73.73491213654444,included_game_day
+2008,201,Oklahoma Sooners,2008-02-27,60.2166464027196,included_game_day
+2008,201,Oklahoma Sooners,2008-03-01,91.92235525029771,included_game_day
+2008,201,Oklahoma Sooners,2008-03-05,108.0901982192446,included_game_day
+2008,201,Oklahoma Sooners,2008-03-08,109.07538267911984,included_game_day
+2008,201,Oklahoma Sooners,2008-03-14,106.7968094590791,included_game_day
+2008,201,Oklahoma Sooners,2008-03-15,83.51981299193649,included_game_day
+2008,201,Oklahoma Sooners,2008-03-21,92.36167016908104,included_game_day
+2008,201,Oklahoma Sooners,2008-03-23,69.50731997272233,included_game_day
+2009,201,Oklahoma Sooners,2008-11-14,26.0,included_game_day
+2009,201,Oklahoma Sooners,2008-11-17,55.43,included_game_day
+2009,201,Oklahoma Sooners,2008-11-18,54.387,included_game_day
+2009,201,Oklahoma Sooners,2008-11-22,50.0483,included_game_day
+2009,201,Oklahoma Sooners,2008-11-26,59.34107,included_game_day
+2009,201,Oklahoma Sooners,2008-11-28,67.416194,included_game_day
+2009,201,Oklahoma Sooners,2008-12-04,63.94142327,included_game_day
+2009,201,Oklahoma Sooners,2008-12-07,86.212664243,included_game_day
+2009,201,Oklahoma Sooners,2008-12-10,98.9753290803,included_game_day
+2009,201,Oklahoma Sooners,2008-12-13,109.24004803225,included_game_day
+2009,201,Oklahoma Sooners,2008-12-20,115.1091801659298,included_game_day
+2009,201,Oklahoma Sooners,2008-12-22,115.04740111357688,included_game_day
+2009,201,Oklahoma Sooners,2008-12-30,106.30881219150054,included_game_day
+2009,201,Oklahoma Sooners,2009-01-03,118.45183148165225,included_game_day
+2009,201,Oklahoma Sooners,2009-01-05,130.90015978053333,included_game_day
+2009,201,Oklahoma Sooners,2009-01-10,143.37964286707074,included_game_day
+2009,201,Oklahoma Sooners,2009-01-12,150.88068585742974,included_game_day
+2009,201,Oklahoma Sooners,2009-01-17,151.33225049359274,included_game_day
+2009,201,Oklahoma Sooners,2009-01-21,153.19046580650627,included_game_day
+2009,201,Oklahoma Sooners,2009-01-24,165.1973353978877,included_game_day
+2009,201,Oklahoma Sooners,2009-01-26,171.23072347947502,included_game_day
+2009,201,Oklahoma Sooners,2009-01-31,169.24632533226753,included_game_day
+2009,201,Oklahoma Sooners,2009-02-04,162.12901435268566,included_game_day
+2009,201,Oklahoma Sooners,2009-02-07,147.6631774871884,included_game_day
+2009,201,Oklahoma Sooners,2009-02-11,157.3765599337429,included_game_day
+2009,201,Oklahoma Sooners,2009-02-14,161.07565229077778,included_game_day
+2009,201,Oklahoma Sooners,2009-02-21,153.3054292858871,included_game_day
+2009,201,Oklahoma Sooners,2009-02-23,142.0955126640924,included_game_day
+2009,201,Oklahoma Sooners,2009-02-28,146.9779459375621,included_game_day
+2009,201,Oklahoma Sooners,2009-03-04,142.13491676709947,included_game_day
+2009,201,Oklahoma Sooners,2009-03-07,139.81049363755258,included_game_day
+2009,201,Oklahoma Sooners,2009-03-12,136.41681996221618,included_game_day
+2009,201,Oklahoma Sooners,2009-03-19,155.49451498545787,included_game_day
+2009,201,Oklahoma Sooners,2009-03-21,159.46236333932734,included_game_day
+2009,201,Oklahoma Sooners,2009-03-27,174.1023228558651,included_game_day
+2009,201,Oklahoma Sooners,2009-03-29,167.3896506428598,included_game_day
+2010,201,Oklahoma Sooners,2009-11-14,21.0,included_game_day
+2010,201,Oklahoma Sooners,2009-11-17,25.747,included_game_day
+2010,201,Oklahoma Sooners,2009-11-21,13.881499999999999,included_game_day
+2010,201,Oklahoma Sooners,2009-11-26,-4.082985000000001,included_game_day
+2010,201,Oklahoma Sooners,2009-11-28,8.4828035,included_game_day
+2010,201,Oklahoma Sooners,2009-12-02,23.406941094,included_game_day
+2010,201,Oklahoma Sooners,2009-12-06,36.515029421600005,included_game_day
+2010,201,Oklahoma Sooners,2009-12-09,52.261765355040005,included_game_day
+2010,201,Oklahoma Sooners,2009-12-12,56.641736493316,included_game_day
+2010,201,Oklahoma Sooners,2009-12-19,53.2206566794771,included_game_day
+2010,201,Oklahoma Sooners,2009-12-21,40.83410962624639,included_game_day
+2010,201,Oklahoma Sooners,2009-12-31,31.206697420490418,included_game_day
+2010,201,Oklahoma Sooners,2010-01-04,49.309215099298925,included_game_day
+2010,201,Oklahoma Sooners,2010-01-09,28.394966322350555,included_game_day
+2010,201,Oklahoma Sooners,2010-01-11,37.90717108908356,included_game_day
+2010,201,Oklahoma Sooners,2010-01-16,51.852828248948164,included_game_day
+2010,201,Oklahoma Sooners,2010-01-19,55.82547856095053,included_game_day
+2010,201,Oklahoma Sooners,2010-01-23,47.81720723100002,included_game_day
+2010,201,Oklahoma Sooners,2010-01-27,49.75897637364338,included_game_day
+2010,201,Oklahoma Sooners,2010-01-30,35.130632330749606,included_game_day
+2010,201,Oklahoma Sooners,2010-02-06,51.738669300879124,included_game_day
+2010,201,Oklahoma Sooners,2010-02-09,47.75207276724335,included_game_day
+2010,201,Oklahoma Sooners,2010-02-13,32.71823436037158,included_game_day
+2010,201,Oklahoma Sooners,2010-02-17,26.755457382483954,included_game_day
+2010,201,Oklahoma Sooners,2010-02-20,20.408500166565997,included_game_day
+2010,201,Oklahoma Sooners,2010-02-22,28.52978119328036,included_game_day
+2010,201,Oklahoma Sooners,2010-02-27,29.15546733955891,included_game_day
+2010,201,Oklahoma Sooners,2010-03-01,31.236780401163585,included_game_day
+2010,201,Oklahoma Sooners,2010-03-06,24.168445072866398,included_game_day
+2010,201,Oklahoma Sooners,2010-03-10,19.016278594969894,included_game_day
+2011,201,Oklahoma Sooners,2010-11-12,17.0,included_game_day
+2011,201,Oklahoma Sooners,2010-11-15,20.3,included_game_day
+2011,201,Oklahoma Sooners,2010-11-18,43.379999999999995,included_game_day
+2011,201,Oklahoma Sooners,2010-11-22,32.605,included_game_day
+2011,201,Oklahoma Sooners,2010-11-23,8.901599999999998,included_game_day
+2011,201,Oklahoma Sooners,2010-12-01,5.062133599999998,included_game_day
+2011,201,Oklahoma Sooners,2010-12-05,-2.184646270000001,included_game_day
+2011,201,Oklahoma Sooners,2010-12-09,6.793528753367998,included_game_day
+2011,201,Oklahoma Sooners,2010-12-11,18.2513556210312,included_game_day
+2011,201,Oklahoma Sooners,2010-12-18,18.22155840126192,included_game_day
+2011,201,Oklahoma Sooners,2010-12-21,18.64964812728833,included_game_day
+2011,201,Oklahoma Sooners,2010-12-30,6.175640623381051,included_game_day
+2011,201,Oklahoma Sooners,2011-01-03,14.513293419906166,included_game_day
+2011,201,Oklahoma Sooners,2011-01-08,1.7612655122780403,included_game_day
+2011,201,Oklahoma Sooners,2011-01-11,1.311168802961415,included_game_day
+2011,201,Oklahoma Sooners,2011-01-15,-0.8854487327181673,included_game_day
+2011,201,Oklahoma Sooners,2011-01-18,2.05996956650585,included_game_day
+2011,201,Oklahoma Sooners,2011-01-22,16.050428229459918,included_game_day
+2011,201,Oklahoma Sooners,2011-01-29,29.04034553034546,included_game_day
+2011,201,Oklahoma Sooners,2011-02-02,38.59125745107982,included_game_day
+2011,201,Oklahoma Sooners,2011-02-05,38.44600109783208,included_game_day
+2011,201,Oklahoma Sooners,2011-02-09,35.839614762434216,included_game_day
+2011,201,Oklahoma Sooners,2011-02-12,26.849681648045138,included_game_day
+2011,201,Oklahoma Sooners,2011-02-16,28.649346190630638,included_game_day
+2011,201,Oklahoma Sooners,2011-02-19,25.261733564905963,included_game_day
+2011,201,Oklahoma Sooners,2011-02-23,20.417587547165738,included_game_day
+2011,201,Oklahoma Sooners,2011-02-26,24.43264621189178,included_game_day
+2011,201,Oklahoma Sooners,2011-03-02,2.6899883994406224,included_game_day
+2011,201,Oklahoma Sooners,2011-03-05,8.028998398940688,included_game_day
+2011,201,Oklahoma Sooners,2011-03-09,30.287327388124893,included_game_day
+2011,201,Oklahoma Sooners,2011-03-10,23.971423128462273,included_game_day
+2012,201,Oklahoma Sooners,2011-11-11,1.0,included_game_day
+2012,201,Oklahoma Sooners,2011-11-18,24.11,included_game_day
+2012,201,Oklahoma Sooners,2011-11-24,38.302099999999996,included_game_day
+2012,201,Oklahoma Sooners,2011-11-26,46.19759,included_game_day
+2012,201,Oklahoma Sooners,2011-11-27,28.640573,included_game_day
+2012,201,Oklahoma Sooners,2011-12-02,49.53790841,included_game_day
+2012,201,Oklahoma Sooners,2011-12-08,59.102198148,included_game_day
+2012,201,Oklahoma Sooners,2011-12-10,71.1875919642,included_game_day
+2012,201,Oklahoma Sooners,2011-12-17,72.949546976424,included_game_day
+2012,201,Oklahoma Sooners,2011-12-21,88.6007773011856,included_game_day
+2012,201,Oklahoma Sooners,2011-12-29,88.1431702511913,included_game_day
+2012,201,Oklahoma Sooners,2011-12-31,94.10289420541373,included_game_day
+2012,201,Oklahoma Sooners,2012-01-03,64.88228030239975,included_game_day
+2012,201,Oklahoma Sooners,2012-01-07,58.65320591876296,included_game_day
+2012,201,Oklahoma Sooners,2012-01-09,51.58684482627135,included_game_day
+2012,201,Oklahoma Sooners,2012-01-14,64.08890987528734,included_game_day
+2012,201,Oklahoma Sooners,2012-01-17,60.76497092211484,included_game_day
+2012,201,Oklahoma Sooners,2012-01-21,53.10713941287006,included_game_day
+2012,201,Oklahoma Sooners,2012-01-24,47.323178870739795,included_game_day
+2012,201,Oklahoma Sooners,2012-01-28,60.20701142404961,included_game_day
+2012,201,Oklahoma Sooners,2012-02-01,50.925881526311755,included_game_day
+2012,201,Oklahoma Sooners,2012-02-04,45.65280480517914,included_game_day
+2012,201,Oklahoma Sooners,2012-02-06,49.14289310997838,included_game_day
+2012,201,Oklahoma Sooners,2012-02-11,23.74110519131868,included_game_day
+2012,201,Oklahoma Sooners,2012-02-14,18.224672751600018,included_game_day
+2012,201,Oklahoma Sooners,2012-02-18,18.476970061337337,included_game_day
+2012,201,Oklahoma Sooners,2012-02-22,32.2442414753212,included_game_day
+2012,201,Oklahoma Sooners,2012-02-25,34.502488786999564,included_game_day
+2012,201,Oklahoma Sooners,2012-02-29,34.56628087474967,included_game_day
+2012,201,Oklahoma Sooners,2012-03-03,33.627362573704886,included_game_day
+2012,201,Oklahoma Sooners,2012-03-07,23.876227932869057,included_game_day
+2013,201,Oklahoma Sooners,2012-11-11,31.0,included_game_day
+2013,201,Oklahoma Sooners,2012-11-16,35.4,included_game_day
+2013,201,Oklahoma Sooners,2012-11-22,38.643,included_game_day
+2013,201,Oklahoma Sooners,2012-11-23,19.15233,included_game_day
+2013,201,Oklahoma Sooners,2012-11-25,25.594814,included_game_day
+2013,201,Oklahoma Sooners,2012-11-28,23.03432291,included_game_day
+2013,201,Oklahoma Sooners,2012-11-30,21.353139118999998,included_game_day
+2013,201,Oklahoma Sooners,2012-12-04,22.322915777099997,included_game_day
+2013,201,Oklahoma Sooners,2012-12-15,34.282274069189995,included_game_day
+2013,201,Oklahoma Sooners,2012-12-18,29.342633226470994,included_game_day
+2013,201,Oklahoma Sooners,2012-12-29,38.414669901321915,included_game_day
+2013,201,Oklahoma Sooners,2012-12-31,53.14517713301595,included_game_day
+2013,201,Oklahoma Sooners,2013-01-05,63.77008445056645,included_game_day
+2013,201,Oklahoma Sooners,2013-01-12,74.1677244764772,included_game_day
+2013,201,Oklahoma Sooners,2013-01-16,79.61643505556204,included_game_day
+2013,201,Oklahoma Sooners,2013-01-19,72.9279997054098,included_game_day
+2013,201,Oklahoma Sooners,2013-01-21,71.42701206193473,included_game_day
+2013,201,Oklahoma Sooners,2013-01-26,69.6498265578832,included_game_day
+2013,201,Oklahoma Sooners,2013-01-30,79.78476458694252,included_game_day
+2013,201,Oklahoma Sooners,2013-02-02,76.36284212431562,included_game_day
+2013,201,Oklahoma Sooners,2013-02-04,61.786702628886914,included_game_day
+2013,201,Oklahoma Sooners,2013-02-09,69.8972523624228,included_game_day
+2013,201,Oklahoma Sooners,2013-02-11,81.62254953459284,included_game_day
+2013,201,Oklahoma Sooners,2013-02-16,84.52838358518851,included_game_day
+2013,201,Oklahoma Sooners,2013-02-20,88.64729395193538,included_game_day
+2013,201,Oklahoma Sooners,2013-02-23,99.83235055103145,included_game_day
+2013,201,Oklahoma Sooners,2013-02-27,87.8376897088588,included_game_day
+2013,201,Oklahoma Sooners,2013-03-02,103.11387324840555,included_game_day
+2013,201,Oklahoma Sooners,2013-03-06,103.47949388073432,included_game_day
+2013,201,Oklahoma Sooners,2013-03-09,85.77290360858392,included_game_day
+2013,201,Oklahoma Sooners,2013-03-14,80.26898806958033,included_game_day
+2013,201,Oklahoma Sooners,2013-03-22,66.95463404837814,included_game_day
+2014,201,Oklahoma Sooners,2013-11-08,9.0,included_game_day
+2014,201,Oklahoma Sooners,2013-11-11,18.1,included_game_day
+2014,201,Oklahoma Sooners,2013-11-13,33.39,included_game_day
+2014,201,Oklahoma Sooners,2013-11-22,32.88138,included_game_day
+2014,201,Oklahoma Sooners,2013-11-23,25.67306,included_game_day
+2014,201,Oklahoma Sooners,2013-11-29,36.864308,included_game_day
+2014,201,Oklahoma Sooners,2013-12-02,46.603960318000006,included_game_day
+2014,201,Oklahoma Sooners,2013-12-05,56.919797602200006,included_game_day
+2014,201,Oklahoma Sooners,2013-12-08,66.37474111344001,included_game_day
+2014,201,Oklahoma Sooners,2013-12-14,66.703771037226,included_game_day
+2014,201,Oklahoma Sooners,2013-12-17,56.767417468371406,included_game_day
+2014,201,Oklahoma Sooners,2013-12-21,68.91000508845427,included_game_day
+2014,201,Oklahoma Sooners,2013-12-30,63.76040776209898,included_game_day
+2014,201,Oklahoma Sooners,2014-01-04,70.21303227261532,included_game_day
+2014,201,Oklahoma Sooners,2014-01-08,62.576071415536084,included_game_day
+2014,201,Oklahoma Sooners,2014-01-11,74.39386354467945,included_game_day
+2014,201,Oklahoma Sooners,2014-01-14,72.26245381099898,included_game_day
+2014,201,Oklahoma Sooners,2014-01-18,77.94670776335555,included_game_day
+2014,201,Oklahoma Sooners,2014-01-22,72.25879525618345,included_game_day
+2014,201,Oklahoma Sooners,2014-01-25,83.27712538360981,included_game_day
+2014,201,Oklahoma Sooners,2014-01-27,99.64129087464049,included_game_day
+2014,201,Oklahoma Sooners,2014-02-01,98.58289262324466,included_game_day
+2014,201,Oklahoma Sooners,2014-02-05,95.89813996637724,included_game_day
+2014,201,Oklahoma Sooners,2014-02-08,105.2531888767721,included_game_day
+2014,201,Oklahoma Sooners,2014-02-12,89.17143519545608,included_game_day
+2014,201,Oklahoma Sooners,2014-02-15,95.58017386990879,included_game_day
+2014,201,Oklahoma Sooners,2014-02-22,105.37959547157512,included_game_day
+2014,201,Oklahoma Sooners,2014-02-24,107.8486804535875,included_game_day
+2014,201,Oklahoma Sooners,2014-03-01,116.00931387694952,included_game_day
+2014,201,Oklahoma Sooners,2014-03-05,119.25588697218556,included_game_day
+2014,201,Oklahoma Sooners,2014-03-08,134.74363067259665,included_game_day
+2014,201,Oklahoma Sooners,2014-03-13,127.31182305275252,included_game_day
+2014,201,Oklahoma Sooners,2014-03-20,120.7354491092384,included_game_day
+2015,201,Oklahoma Sooners,2014-11-16,19.5,included_game_day
+2015,201,Oklahoma Sooners,2014-11-19,21.88,included_game_day
+2015,201,Oklahoma Sooners,2014-11-23,34.891999999999996,included_game_day
+2015,201,Oklahoma Sooners,2014-11-26,48.169799999999995,included_game_day
+2015,201,Oklahoma Sooners,2014-11-27,65.2877,included_game_day
+2015,201,Oklahoma Sooners,2014-11-28,56.589944,included_game_day
+2015,201,Oklahoma Sooners,2014-12-05,65.8006244,included_game_day
+2015,201,Oklahoma Sooners,2014-12-13,84.090029071,included_game_day
+2015,201,Oklahoma Sooners,2014-12-16,104.03768353286401,included_game_day
+2015,201,Oklahoma Sooners,2014-12-20,100.7804292362714,included_game_day
+2015,201,Oklahoma Sooners,2014-12-22,118.38718472863926,included_game_day
+2015,201,Oklahoma Sooners,2014-12-31,121.06149708842491,included_game_day
+2015,201,Oklahoma Sooners,2015-01-03,126.89713814577264,included_game_day
+2015,201,Oklahoma Sooners,2015-01-05,149.85787493986572,included_game_day
+2015,201,Oklahoma Sooners,2015-01-10,131.1698900638406,included_game_day
+2015,201,Oklahoma Sooners,2015-01-13,115.15383660692783,included_game_day
+2015,201,Oklahoma Sooners,2015-01-17,125.9327521636008,included_game_day
+2015,201,Oklahoma Sooners,2015-01-19,120.34245229500536,included_game_day
+2015,201,Oklahoma Sooners,2015-01-24,110.39238123008798,included_game_day
+2015,201,Oklahoma Sooners,2015-01-28,141.56633268912194,included_game_day
+2015,201,Oklahoma Sooners,2015-01-31,146.7698537831071,included_game_day
+2015,201,Oklahoma Sooners,2015-02-03,161.1108569810452,included_game_day
+2015,201,Oklahoma Sooners,2015-02-07,166.38977452257186,included_game_day
+2015,201,Oklahoma Sooners,2015-02-09,170.87776683965558,included_game_day
+2015,201,Oklahoma Sooners,2015-02-14,157.78789213998832,included_game_day
+2015,201,Oklahoma Sooners,2015-02-17,151.45004559345367,included_game_day
+2015,201,Oklahoma Sooners,2015-02-21,140.65207748154,included_game_day
+2015,201,Oklahoma Sooners,2015-02-28,138.34064752784573,included_game_day
+2015,201,Oklahoma Sooners,2015-03-02,133.5206955285711,included_game_day
+2015,201,Oklahoma Sooners,2015-03-07,131.9847165775814,included_game_day
+2015,201,Oklahoma Sooners,2015-03-12,141.15424383057967,included_game_day
+2015,201,Oklahoma Sooners,2015-03-13,139.3361838212528,included_game_day
+2015,201,Oklahoma Sooners,2015-03-20,137.4386356452696,included_game_day
+2015,201,Oklahoma Sooners,2015-03-22,139.21467543493713,included_game_day
+2015,201,Oklahoma Sooners,2015-03-27,135.23468161794233,included_game_day
+2016,201,Oklahoma Sooners,2015-11-17,10.5,included_game_day
+2016,201,Oklahoma Sooners,2015-11-24,36.825,included_game_day
+2016,201,Oklahoma Sooners,2015-11-29,50.64490000000001,included_game_day
+2016,201,Oklahoma Sooners,2015-12-03,82.2535479,included_game_day
+2016,201,Oklahoma Sooners,2015-12-07,107.01455461,included_game_day
+2016,201,Oklahoma Sooners,2015-12-12,117.69910574900001,included_game_day
+2016,201,Oklahoma Sooners,2015-12-19,124.10981286023701,included_game_day
+2016,201,Oklahoma Sooners,2015-12-22,143.09632476305714,included_game_day
+2016,201,Oklahoma Sooners,2015-12-23,140.06820926184702,included_game_day
+2016,201,Oklahoma Sooners,2015-12-25,141.7192304838983,included_game_day
+2016,201,Oklahoma Sooners,2016-01-02,137.16094301024336,included_game_day
+2016,201,Oklahoma Sooners,2016-01-04,139.9245251468962,included_game_day
+2016,201,Oklahoma Sooners,2016-01-09,139.3037316378112,included_game_day
+2016,201,Oklahoma Sooners,2016-01-13,134.40974907983716,included_game_day
+2016,201,Oklahoma Sooners,2016-01-16,136.77468843647708,included_game_day
+2016,201,Oklahoma Sooners,2016-01-18,130.90899903633303,included_game_day
+2016,201,Oklahoma Sooners,2016-01-23,141.25575420547088,included_game_day
+2016,201,Oklahoma Sooners,2016-01-26,155.33705955070684,included_game_day
+2016,201,Oklahoma Sooners,2016-01-30,151.98003508989342,included_game_day
+2016,201,Oklahoma Sooners,2016-02-02,157.33711662560978,included_game_day
+2016,201,Oklahoma Sooners,2016-02-06,139.43682392021603,included_game_day
+2016,201,Oklahoma Sooners,2016-02-08,136.77285502566014,included_game_day
+2016,201,Oklahoma Sooners,2016-02-13,130.46280098894658,included_game_day
+2016,201,Oklahoma Sooners,2016-02-17,126.87510146052904,included_game_day
+2016,201,Oklahoma Sooners,2016-02-20,145.21549753707967,included_game_day
+2016,201,Oklahoma Sooners,2016-02-24,152.39770063094886,included_game_day
+2016,201,Oklahoma Sooners,2016-02-27,136.82410985131193,included_game_day
+2016,201,Oklahoma Sooners,2016-03-01,132.8836075021193,included_game_day
+2016,201,Oklahoma Sooners,2016-03-05,127.7425820902215,included_game_day
+2016,201,Oklahoma Sooners,2016-03-10,128.69322523275326,included_game_day
+2016,201,Oklahoma Sooners,2016-03-11,129.9388769501307,included_game_day
+2016,201,Oklahoma Sooners,2016-03-18,138.8925459245081,included_game_day
+2016,201,Oklahoma Sooners,2016-03-20,139.9395563728551,included_game_day
+2016,201,Oklahoma Sooners,2016-03-24,156.1129049174914,included_game_day
+2016,201,Oklahoma Sooners,2016-03-26,171.73773971110506,included_game_day
+2016,201,Oklahoma Sooners,2016-04-02,131.6946243891817,included_game_day
+2017,201,Oklahoma Sooners,2016-11-13,30.5,included_game_day
+2017,201,Oklahoma Sooners,2016-11-17,45.78,included_game_day
+2017,201,Oklahoma Sooners,2016-11-18,37.421,included_game_day
+2017,201,Oklahoma Sooners,2016-11-20,41.5975,included_game_day
+2017,201,Oklahoma Sooners,2016-11-25,42.8305,included_game_day
+2017,201,Oklahoma Sooners,2016-11-29,52.981211,included_game_day
+2017,201,Oklahoma Sooners,2016-12-03,39.844104650000006,included_game_day
+2017,201,Oklahoma Sooners,2016-12-07,51.20166332110001,included_game_day
+2017,201,Oklahoma Sooners,2016-12-10,52.76938929114001,included_game_day
+2017,201,Oklahoma Sooners,2016-12-17,43.201796202658606,included_game_day
+2017,201,Oklahoma Sooners,2016-12-21,39.49260055015404,included_game_day
+2017,201,Oklahoma Sooners,2016-12-30,18.950514844670735,included_game_day
+2017,201,Oklahoma Sooners,2017-01-03,27.55469307103483,included_game_day
+2017,201,Oklahoma Sooners,2017-01-07,27.333588319375167,included_game_day
+2017,201,Oklahoma Sooners,2017-01-10,26.305931148324525,included_game_day
+2017,201,Oklahoma Sooners,2017-01-14,41.74369381145597,included_game_day
+2017,201,Oklahoma Sooners,2017-01-18,64.0084011763843,included_game_day
+2017,201,Oklahoma Sooners,2017-01-21,61.67758620763681,included_game_day
+2017,201,Oklahoma Sooners,2017-01-23,63.77744220609967,included_game_day
+2017,201,Oklahoma Sooners,2017-01-28,36.40711718437355,included_game_day
+2017,201,Oklahoma Sooners,2017-01-30,41.54070698339524,included_game_day
+2017,201,Oklahoma Sooners,2017-02-04,40.52032982487352,included_game_day
+2017,201,Oklahoma Sooners,2017-02-08,39.853104050084525,included_game_day
+2017,201,Oklahoma Sooners,2017-02-11,34.019260106344845,included_game_day
+2017,201,Oklahoma Sooners,2017-02-14,37.35636941175947,included_game_day
+2017,201,Oklahoma Sooners,2017-02-18,46.79228587173773,included_game_day
+2017,201,Oklahoma Sooners,2017-02-21,52.42237093764853,included_game_day
+2017,201,Oklahoma Sooners,2017-02-25,81.77518119840653,included_game_day
+2017,201,Oklahoma Sooners,2017-02-27,83.14071422094334,included_game_day
+2017,201,Oklahoma Sooners,2017-03-04,83.45354641187733,included_game_day
+2017,201,Oklahoma Sooners,2017-03-08,62.703812164624516,included_game_day
+2018,201,Oklahoma Sooners,2017-11-12,15.4,included_game_day
+2018,201,Oklahoma Sooners,2017-11-15,50.059999999999995,included_game_day
+2018,201,Oklahoma Sooners,2017-11-23,41.867999999999995,included_game_day
+2018,201,Oklahoma Sooners,2017-11-24,57.025476,included_game_day
+2018,201,Oklahoma Sooners,2017-11-26,69.2744239,included_game_day
+2018,201,Oklahoma Sooners,2017-11-30,66.49633301,included_game_day
+2018,201,Oklahoma Sooners,2017-12-04,68.833856989,included_game_day
+2018,201,Oklahoma Sooners,2017-12-08,67.3118318041,included_game_day
+2018,201,Oklahoma Sooners,2017-12-16,83.092879463159,included_game_day
+2018,201,Oklahoma Sooners,2017-12-19,100.9802505168431,included_game_day
+2018,201,Oklahoma Sooners,2017-12-22,123.40228099134846,included_game_day
+2018,201,Oklahoma Sooners,2017-12-30,124.62720784697206,included_game_day
+2018,201,Oklahoma Sooners,2018-01-03,136.47659800083653,included_game_day
+2018,201,Oklahoma Sooners,2018-01-06,127.4674210831379,included_game_day
+2018,201,Oklahoma Sooners,2018-01-09,139.41718569588778,included_game_day
+2018,201,Oklahoma Sooners,2018-01-13,136.87994864670975,included_game_day
+2018,201,Oklahoma Sooners,2018-01-16,116.36136051614479,included_game_day
+2018,201,Oklahoma Sooners,2018-01-20,110.64722267139248,included_game_day
+2018,201,Oklahoma Sooners,2018-01-23,113.91867653700217,included_game_day
+2018,201,Oklahoma Sooners,2018-01-27,105.15730654763064,included_game_day
+2018,201,Oklahoma Sooners,2018-01-30,99.97396088769835,included_game_day
+2018,201,Oklahoma Sooners,2018-02-03,96.49426862824231,included_game_day
+2018,201,Oklahoma Sooners,2018-02-05,96.4270499784621,included_game_day
+2018,201,Oklahoma Sooners,2018-02-10,84.57882783505386,included_game_day
+2018,201,Oklahoma Sooners,2018-02-13,84.17667674781666,included_game_day
+2018,201,Oklahoma Sooners,2018-02-17,68.65036092681983,included_game_day
+2018,201,Oklahoma Sooners,2018-02-19,46.57980546348638,included_game_day
+2018,201,Oklahoma Sooners,2018-02-24,56.174246922625656,included_game_day
+2018,201,Oklahoma Sooners,2018-02-27,39.87469001092355,included_game_day
+2018,201,Oklahoma Sooners,2018-03-02,56.0533628068965,included_game_day
+2018,201,Oklahoma Sooners,2018-03-07,48.81270626312945,included_game_day
+2018,201,Oklahoma Sooners,2018-03-15,47.27751041410303,included_game_day
+2019,201,Oklahoma Sooners,2018-11-09,18.0,included_game_day
+2019,201,Oklahoma Sooners,2018-11-12,39.2,included_game_day
+2019,201,Oklahoma Sooners,2018-11-18,43.050000000000004,included_game_day
+2019,201,Oklahoma Sooners,2018-11-21,45.628,included_game_day
+2019,201,Oklahoma Sooners,2018-11-22,28.14414,included_game_day
+2019,201,Oklahoma Sooners,2018-11-23,39.667688,included_game_day
+2019,201,Oklahoma Sooners,2018-11-27,53.2165372,included_game_day
+2019,201,Oklahoma Sooners,2018-12-04,57.791206724999995,included_game_day
+2019,201,Oklahoma Sooners,2018-12-08,83.53010253149999,included_game_day
+2019,201,Oklahoma Sooners,2018-12-15,83.992044232725,included_game_day
+2019,201,Oklahoma Sooners,2018-12-18,91.48458840199619,included_game_day
+2019,201,Oklahoma Sooners,2018-12-21,100.6198271094491,included_game_day
+2019,201,Oklahoma Sooners,2019-01-02,95.89422270836624,included_game_day
+2019,201,Oklahoma Sooners,2019-01-05,94.45295839519076,included_game_day
+2019,201,Oklahoma Sooners,2019-01-08,94.60064727120002,included_game_day
+2019,201,Oklahoma Sooners,2019-01-12,94.73915741542221,included_game_day
+2019,201,Oklahoma Sooners,2019-01-16,75.11691953710078,included_game_day
+2019,201,Oklahoma Sooners,2019-01-19,75.8439472138516,included_game_day
+2019,201,Oklahoma Sooners,2019-01-23,83.36410573539278,included_game_day
+2019,201,Oklahoma Sooners,2019-01-26,105.7789932419235,included_game_day
+2019,201,Oklahoma Sooners,2019-01-28,72.21909136799437,included_game_day
+2019,201,Oklahoma Sooners,2019-02-02,60.312819955356915,included_game_day
+2019,201,Oklahoma Sooners,2019-02-04,64.46803957269339,included_game_day
+2019,201,Oklahoma Sooners,2019-02-09,55.023782036228894,included_game_day
+2019,201,Oklahoma Sooners,2019-02-11,58.883202653186174,included_game_day
+2019,201,Oklahoma Sooners,2019-02-16,73.05399810161511,included_game_day
+2019,201,Oklahoma Sooners,2019-02-23,75.08738574056105,included_game_day
+2019,201,Oklahoma Sooners,2019-02-25,65.46805042134748,included_game_day
+2019,201,Oklahoma Sooners,2019-03-02,67.1209922739513,included_game_day
+2019,201,Oklahoma Sooners,2019-03-05,81.25665865780803,included_game_day
+2019,201,Oklahoma Sooners,2019-03-09,74.0368692984355,included_game_day
+2019,201,Oklahoma Sooners,2019-03-13,66.6535857954319,included_game_day
+2019,201,Oklahoma Sooners,2019-03-22,89.73242428127315,included_game_day
+2019,201,Oklahoma Sooners,2019-03-24,89.62571752493774,included_game_day
+2020,201,Oklahoma Sooners,2019-11-05,15.0,included_game_day
+2020,201,Oklahoma Sooners,2019-11-09,25.7,included_game_day
+2020,201,Oklahoma Sooners,2019-11-12,33.29,included_game_day
+2020,201,Oklahoma Sooners,2019-11-18,35.6367,included_game_day
+2020,201,Oklahoma Sooners,2019-11-21,48.133971,included_game_day
+2020,201,Oklahoma Sooners,2019-11-25,32.878131,included_game_day
+2020,201,Oklahoma Sooners,2019-11-26,46.31098115,included_game_day
+2020,201,Oklahoma Sooners,2019-12-05,46.9133326162,included_game_day
+2020,201,Oklahoma Sooners,2019-12-14,49.58613088351,included_game_day
+2020,201,Oklahoma Sooners,2019-12-17,43.468368600635564,included_game_day
+2020,201,Oklahoma Sooners,2019-12-21,40.63944030586608,included_game_day
+2020,201,Oklahoma Sooners,2019-12-30,47.06964957596735,included_game_day
+2020,201,Oklahoma Sooners,2020-01-04,47.61641002988795,included_game_day
+2020,201,Oklahoma Sooners,2020-01-08,58.43324503478388,included_game_day
+2020,201,Oklahoma Sooners,2020-01-11,46.533742763113764,included_game_day
+2020,201,Oklahoma Sooners,2020-01-14,39.2975932613534,included_game_day
+2020,201,Oklahoma Sooners,2020-01-18,58.37433251503755,included_game_day
+2020,201,Oklahoma Sooners,2020-01-20,65.24776815148468,included_game_day
+2020,201,Oklahoma Sooners,2020-01-25,67.97706043013437,included_game_day
+2020,201,Oklahoma Sooners,2020-01-29,60.045484363152596,included_game_day
+2020,201,Oklahoma Sooners,2020-02-01,66.67359568603115,included_game_day
+2020,201,Oklahoma Sooners,2020-02-04,66.00402522940232,included_game_day
+2020,201,Oklahoma Sooners,2020-02-08,81.08442587802584,included_game_day
+2020,201,Oklahoma Sooners,2020-02-12,103.28978216405989,included_game_day
+2020,201,Oklahoma Sooners,2020-02-15,95.3158296163229,included_game_day
+2020,201,Oklahoma Sooners,2020-02-18,86.64020924852169,included_game_day
+2020,201,Oklahoma Sooners,2020-02-22,68.893959402661,included_game_day
+2020,201,Oklahoma Sooners,2020-02-25,88.26770700197423,included_game_day
+2020,201,Oklahoma Sooners,2020-02-29,102.76131743026019,included_game_day
+2020,201,Oklahoma Sooners,2020-03-03,95.32049549825254,included_game_day
+2020,201,Oklahoma Sooners,2020-03-07,93.87828025423107,included_game_day
+2021,201,Oklahoma Sooners,2020-12-03,34.269999999999996,included_game_day
+2021,201,Oklahoma Sooners,2020-12-06,40.044419999999995,included_game_day
+2021,201,Oklahoma Sooners,2020-12-09,23.506256999999998,included_game_day
+2021,201,Oklahoma Sooners,2020-12-12,46.464697259999994,included_game_day
+2021,201,Oklahoma Sooners,2020-12-16,50.846034534,included_game_day
+2021,201,Oklahoma Sooners,2020-12-19,52.991252534599994,included_game_day
+2021,201,Oklahoma Sooners,2020-12-22,52.30005897114,included_game_day
+2021,201,Oklahoma Sooners,2021-01-02,53.0723171245847,included_game_day
+2021,201,Oklahoma Sooners,2021-01-06,51.600711469373834,included_game_day
+2021,201,Oklahoma Sooners,2021-01-09,52.497161335845654,included_game_day
+2021,201,Oklahoma Sooners,2021-01-12,79.46196464081648,included_game_day
+2021,201,Oklahoma Sooners,2021-01-19,90.28152886783299,included_game_day
+2021,201,Oklahoma Sooners,2021-01-23,92.39755517635872,included_game_day
+2021,201,Oklahoma Sooners,2021-01-26,95.0934836285947,included_game_day
+2021,201,Oklahoma Sooners,2021-01-30,102.34060315317758,included_game_day
+2021,201,Oklahoma Sooners,2021-02-01,100.93433885534044,included_game_day
+2021,201,Oklahoma Sooners,2021-02-06,88.29263600317616,included_game_day
+2021,201,Oklahoma Sooners,2021-02-13,91.6332662035814,included_game_day
+2021,201,Oklahoma Sooners,2021-02-20,88.07136440162583,included_game_day
+2021,201,Oklahoma Sooners,2021-02-23,71.15567467255458,included_game_day
+2021,201,Oklahoma Sooners,2021-02-27,62.53586580781785,included_game_day
+2021,201,Oklahoma Sooners,2021-03-01,61.640018716028464,included_game_day
+2021,201,Oklahoma Sooners,2021-03-04,54.68762111655775,included_game_day
+2021,201,Oklahoma Sooners,2021-03-10,48.43479143678754,included_game_day
+2021,201,Oklahoma Sooners,2021-03-11,49.23236290835291,included_game_day
+2021,201,Oklahoma Sooners,2021-03-20,52.90836349203809,included_game_day
+2021,201,Oklahoma Sooners,2021-03-22,56.400070283811466,included_game_day
+2022,201,Oklahoma Sooners,2021-11-09,15.0,included_game_day
+2022,201,Oklahoma Sooners,2021-11-12,62.5,included_game_day
+2022,201,Oklahoma Sooners,2021-11-18,63.672,included_game_day
+2022,201,Oklahoma Sooners,2021-11-19,84.3915,included_game_day
+2022,201,Oklahoma Sooners,2021-11-21,77.022399,included_game_day
+2022,201,Oklahoma Sooners,2021-11-24,76.38166989999999,included_game_day
+2022,201,Oklahoma Sooners,2021-11-27,78.16730290999999,included_game_day
+2022,201,Oklahoma Sooners,2021-12-01,84.34875471899998,included_game_day
+2022,201,Oklahoma Sooners,2021-12-07,68.3579940471,included_game_day
+2022,201,Oklahoma Sooners,2021-12-11,91.2185700486767,included_game_day
+2022,201,Oklahoma Sooners,2021-12-19,94.64801731113296,included_game_day
+2022,201,Oklahoma Sooners,2021-12-22,98.04574639657972,included_game_day
+2022,201,Oklahoma Sooners,2022-01-01,93.36342974385646,included_game_day
+2022,201,Oklahoma Sooners,2022-01-04,94.11235735439556,included_game_day
+2022,201,Oklahoma Sooners,2022-01-08,105.43179766709788,included_game_day
+2022,201,Oklahoma Sooners,2022-01-11,95.69140937366546,included_game_day
+2022,201,Oklahoma Sooners,2022-01-15,95.9698017892683,included_game_day
+2022,201,Oklahoma Sooners,2022-01-18,94.25043513128037,included_game_day
+2022,201,Oklahoma Sooners,2022-01-22,82.4718493543055,included_game_day
+2022,201,Oklahoma Sooners,2022-01-26,92.88486044169844,included_game_day
+2022,201,Oklahoma Sooners,2022-01-29,83.41663092389213,included_game_day
+2022,201,Oklahoma Sooners,2022-01-31,71.49604618010707,included_game_day
+2022,201,Oklahoma Sooners,2022-02-05,63.99640803953075,included_game_day
+2022,201,Oklahoma Sooners,2022-02-09,85.65327202425364,included_game_day
+2022,201,Oklahoma Sooners,2022-02-12,93.23102826813776,included_game_day
+2022,201,Oklahoma Sooners,2022-02-15,91.37970252467699,included_game_day
+2022,201,Oklahoma Sooners,2022-02-19,69.63067215889563,included_game_day
+2022,201,Oklahoma Sooners,2022-02-22,57.37526079151538,included_game_day
+2022,201,Oklahoma Sooners,2022-02-26,60.6282910296938,included_game_day
+2022,201,Oklahoma Sooners,2022-03-01,69.1772092789052,included_game_day
+2022,201,Oklahoma Sooners,2022-03-05,78.92215037640975,included_game_day
+2022,201,Oklahoma Sooners,2022-03-10,91.06885106635747,included_game_day
+2022,201,Oklahoma Sooners,2022-03-11,97.96962584695757,included_game_day
+2022,201,Oklahoma Sooners,2022-03-15,109.2032442301773,included_game_day
+2022,201,Oklahoma Sooners,2022-03-20,101.06842566186008,included_game_day
+2023,201,Oklahoma Sooners,2022-11-07,-4.0,included_game_day
+2023,201,Oklahoma Sooners,2022-11-11,1.5999999999999996,included_game_day
+2023,201,Oklahoma Sooners,2022-11-15,18.439999999999998,included_game_day
+2023,201,Oklahoma Sooners,2022-11-18,16.563,included_game_day
+2023,201,Oklahoma Sooners,2022-11-24,29.782628799999998,included_game_day
+2023,201,Oklahoma Sooners,2022-11-25,46.416554319999996,included_game_day
+2023,201,Oklahoma Sooners,2022-11-27,49.51384908799999,included_game_day
+2023,201,Oklahoma Sooners,2022-12-03,43.4212058192,included_game_day
+2023,201,Oklahoma Sooners,2022-12-06,54.53041631198,included_game_day
+2023,201,Oklahoma Sooners,2022-12-10,48.4104196500411,included_game_day
+2023,201,Oklahoma Sooners,2022-12-17,55.45170343481699,included_game_day
+2023,201,Oklahoma Sooners,2022-12-20,67.2983853359371,included_game_day
+2023,201,Oklahoma Sooners,2022-12-31,70.24098613762644,included_game_day
+2023,201,Oklahoma Sooners,2023-01-04,66.59708056386638,included_game_day
+2023,201,Oklahoma Sooners,2023-01-07,79.45866840872797,included_game_day
+2023,201,Oklahoma Sooners,2023-01-10,84.77818218737644,included_game_day
+2023,201,Oklahoma Sooners,2023-01-14,81.15767451689644,included_game_day
+2023,201,Oklahoma Sooners,2023-01-18,67.73789664823505,included_game_day
+2023,201,Oklahoma Sooners,2023-01-21,66.96113754337873,included_game_day
+2023,201,Oklahoma Sooners,2023-01-24,50.922032799459046,included_game_day
+2023,201,Oklahoma Sooners,2023-01-28,84.02998160745963,included_game_day
+2023,201,Oklahoma Sooners,2023-02-01,72.33740404993318,included_game_day
+2023,201,Oklahoma Sooners,2023-02-04,45.764920441642275,included_game_day
+2023,201,Oklahoma Sooners,2023-02-08,47.136448171527334,included_game_day
+2023,201,Oklahoma Sooners,2023-02-11,28.41445854907189,included_game_day
+2023,201,Oklahoma Sooners,2023-02-14,48.30143346777891,included_game_day
+2023,201,Oklahoma Sooners,2023-02-18,58.817747127293984,included_game_day
+2023,201,Oklahoma Sooners,2023-02-21,47.514700571850206,included_game_day
+2023,201,Oklahoma Sooners,2023-02-25,66.72441788877393,included_game_day
+2023,201,Oklahoma Sooners,2023-03-01,58.6203745962354,included_game_day
+2023,201,Oklahoma Sooners,2023-03-04,76.02862832760187,included_game_day
+2023,201,Oklahoma Sooners,2023-03-08,67.71153259699807,included_game_day
+2024,201,Oklahoma Sooners,2023-11-06,27.0,included_game_day
+2024,201,Oklahoma Sooners,2023-11-10,56.0,included_game_day
+2024,201,Oklahoma Sooners,2023-11-14,87.47,included_game_day
+2024,201,Oklahoma Sooners,2023-11-17,95.293,included_game_day
+2024,201,Oklahoma Sooners,2023-11-23,103.962,included_game_day
+2024,201,Oklahoma Sooners,2023-11-24,99.045,included_game_day
+2024,201,Oklahoma Sooners,2023-11-30,101.443917,included_game_day
+2024,201,Oklahoma Sooners,2023-12-05,115.82654035,included_game_day
+2024,201,Oklahoma Sooners,2023-12-09,116.78061884792,included_game_day
+2024,201,Oklahoma Sooners,2023-12-16,133.6199827498147,included_game_day
+2024,201,Oklahoma Sooners,2023-12-20,115.01125428652324,included_game_day
+2024,201,Oklahoma Sooners,2023-12-28,108.4695325384865,included_game_day
+2024,201,Oklahoma Sooners,2023-12-31,108.79197524566148,included_game_day
+2024,201,Oklahoma Sooners,2024-01-06,120.60551927612082,included_game_day
+2024,201,Oklahoma Sooners,2024-01-10,114.28218870119338,included_game_day
+2024,201,Oklahoma Sooners,2024-01-13,102.98566551619679,included_game_day
+2024,201,Oklahoma Sooners,2024-01-17,102.54454629348092,included_game_day
+2024,201,Oklahoma Sooners,2024-01-20,110.9070491242547,included_game_day
+2024,201,Oklahoma Sooners,2024-01-23,89.35119178765994,included_game_day
+2024,201,Oklahoma Sooners,2024-01-27,87.90873367190436,included_game_day
+2024,201,Oklahoma Sooners,2024-01-30,109.62023548479671,included_game_day
+2024,201,Oklahoma Sooners,2024-02-03,97.93223955200328,included_game_day
+2024,201,Oklahoma Sooners,2024-02-06,117.03841022210304,included_game_day
+2024,201,Oklahoma Sooners,2024-02-10,108.05908217747509,included_game_day
+2024,201,Oklahoma Sooners,2024-02-13,96.19287050709409,included_game_day
+2024,201,Oklahoma Sooners,2024-02-17,84.26267426501542,included_game_day
+2024,201,Oklahoma Sooners,2024-02-24,86.49827770157236,included_game_day
+2024,201,Oklahoma Sooners,2024-02-28,83.67332263743793,included_game_day
+2024,201,Oklahoma Sooners,2024-03-02,90.00263216170661,included_game_day
+2024,201,Oklahoma Sooners,2024-03-05,89.4597489167002,included_game_day
+2024,201,Oklahoma Sooners,2024-03-09,81.77339589587696,included_game_day
+2024,201,Oklahoma Sooners,2024-03-13,77.39230244646869,included_game_day
+2025,201,Oklahoma Sooners,2024-11-04,30.0,included_game_day
+2025,201,Oklahoma Sooners,2024-11-11,38.5,included_game_day
+2025,201,Oklahoma Sooners,2024-11-16,50.15,included_game_day
+2025,201,Oklahoma Sooners,2024-11-21,63.69952,included_game_day
+2025,201,Oklahoma Sooners,2024-11-27,64.538448,included_game_day
+2025,201,Oklahoma Sooners,2024-11-28,71.21462722,included_game_day
+2025,201,Oklahoma Sooners,2024-11-29,77.520112035,included_game_day
+2025,201,Oklahoma Sooners,2024-12-03,83.3158208365,included_game_day
+2025,201,Oklahoma Sooners,2024-12-07,74.6439003111,included_game_day
+2025,201,Oklahoma Sooners,2024-12-14,86.322778491192,included_game_day
+2025,201,Oklahoma Sooners,2024-12-18,88.4107318130847,included_game_day
+2025,201,Oklahoma Sooners,2024-12-22,91.57555813718227,included_game_day
+2025,201,Oklahoma Sooners,2024-12-29,91.41817118126721,included_game_day
+2025,201,Oklahoma Sooners,2025-01-04,68.7480304280694,included_game_day
+2025,201,Oklahoma Sooners,2025-01-08,70.36856508008285,included_game_day
+2025,201,Oklahoma Sooners,2025-01-11,69.20866856581263,included_game_day
+2025,201,Oklahoma Sooners,2025-01-15,67.30764815342866,included_game_day
+2025,201,Oklahoma Sooners,2025-01-18,82.60083689118625,included_game_day
+2025,201,Oklahoma Sooners,2025-01-25,89.14862611361448,included_game_day
+2025,201,Oklahoma Sooners,2025-01-28,89.17804172146921,included_game_day
+2025,201,Oklahoma Sooners,2025-02-01,118.93554067187607,included_game_day
+2025,201,Oklahoma Sooners,2025-02-04,103.00885994178407,included_game_day
+2025,201,Oklahoma Sooners,2025-02-08,90.46525563125697,included_game_day
+2025,201,Oklahoma Sooners,2025-02-12,76.79648898016502,included_game_day
+2025,201,Oklahoma Sooners,2025-02-15,67.417970225988,included_game_day
+2025,201,Oklahoma Sooners,2025-02-18,62.712440571884144,included_game_day
+2025,201,Oklahoma Sooners,2025-02-22,72.22227027006407,included_game_day
+2025,201,Oklahoma Sooners,2025-02-26,75.12228050910723,included_game_day
+2025,201,Oklahoma Sooners,2025-03-01,76.7476509830846,included_game_day
+2025,201,Oklahoma Sooners,2025-03-05,96.58901899257992,included_game_day
+2025,201,Oklahoma Sooners,2025-03-08,102.14658283687959,included_game_day
+2025,201,Oklahoma Sooners,2025-03-12,110.89965348732912,included_game_day
+2025,201,Oklahoma Sooners,2025-03-13,114.9954213407271,included_game_day
+2025,201,Oklahoma Sooners,2025-03-21,108.55546857044203,included_game_day
+2026,201,Oklahoma Sooners,2025-11-03,33.0,included_game_day
+2026,201,Oklahoma Sooners,2025-11-08,22.9,included_game_day
+2026,201,Oklahoma Sooners,2025-11-11,37.896,included_game_day
+2026,201,Oklahoma Sooners,2025-11-15,33.9794,included_game_day
+2026,201,Oklahoma Sooners,2025-11-20,47.26566,included_game_day
+2026,201,Oklahoma Sooners,2025-11-23,50.100508,included_game_day
+2026,201,Oklahoma Sooners,2025-11-28,48.9669071,included_game_day
+2026,201,Oklahoma Sooners,2025-12-02,73.2681076421,included_game_day
+2026,201,Oklahoma Sooners,2025-12-06,52.82920249155001,included_game_day
+2026,201,Oklahoma Sooners,2025-12-13,64.71703425801891,included_game_day
+2026,201,Oklahoma Sooners,2025-12-16,66.87797500658243,included_game_day
+2026,201,Oklahoma Sooners,2025-12-22,100.12641338112309,included_game_day
+2026,201,Oklahoma Sooners,2025-12-29,89.57996226081252,included_game_day
+2026,201,Oklahoma Sooners,2026-01-03,98.88236778389597,included_game_day
+2026,201,Oklahoma Sooners,2026-01-07,78.32383454083656,included_game_day
+2026,201,Oklahoma Sooners,2026-01-10,79.98134556665389,included_game_day
+2026,201,Oklahoma Sooners,2026-01-13,67.96067763610397,included_game_day
+2026,201,Oklahoma Sooners,2026-01-17,70.01965460946458,included_game_day
+2026,201,Oklahoma Sooners,2026-01-20,62.692431279954086,included_game_day
+2026,201,Oklahoma Sooners,2026-01-24,65.39961361643768,included_game_day
+2026,201,Oklahoma Sooners,2026-01-27,66.72498866102121,included_game_day
+2026,201,Oklahoma Sooners,2026-01-31,59.615183221886774,included_game_day
+2026,201,Oklahoma Sooners,2026-02-04,52.60029815179113,included_game_day
+2026,201,Oklahoma Sooners,2026-02-07,67.5243035466043,included_game_day
+2026,201,Oklahoma Sooners,2026-02-14,84.10615249525226,included_game_day
+2026,201,Oklahoma Sooners,2026-02-18,69.56416549265003,included_game_day
+2026,201,Oklahoma Sooners,2026-02-21,67.42181292342035,included_game_day
+2026,201,Oklahoma Sooners,2026-02-24,79.19507085434736,included_game_day
+2026,201,Oklahoma Sooners,2026-02-28,96.10555523080222,included_game_day
+2026,201,Oklahoma Sooners,2026-03-03,110.34838379733226,included_game_day
+2026,201,Oklahoma Sooners,2026-03-07,116.36208080552396,included_game_day
+2026,201,Oklahoma Sooners,2026-03-11,118.25116126042505,included_game_day
+2026,201,Oklahoma Sooners,2026-03-12,137.73077290637536,included_game_day
+2026,201,Oklahoma Sooners,2026-03-13,137.3166852571619,included_game_day
+2026,201,Oklahoma Sooners,2026-04-01,131.7796240240763,included_game_day
+2026,201,Oklahoma Sooners,2026-04-04,142.39567224790275,included_game_day
+2026,201,Oklahoma Sooners,2026-04-05,128.9408905306927,included_game_day
+2027,201,Oklahoma Sooners,2026-11-02,-7.0,included_game_day
+2027,201,Oklahoma Sooners,2026-11-06,17.7,included_game_day
+2027,201,Oklahoma Sooners,2026-11-09,22.63,included_game_day
+2027,201,Oklahoma Sooners,2026-11-13,25.845,included_game_day
+2027,201,Oklahoma Sooners,2026-11-18,26.7484,included_game_day
