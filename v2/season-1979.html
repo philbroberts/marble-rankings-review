@@ -177,9 +177,7 @@ body[data-reseeded] .rule-strip span:first-child{display:none}
 </header>
 <section class="intro" aria-labelledby="report-title">
   <div>
-    <p class="eyebrow">Actual minus expected</p>
     <h1 id="report-title">Marble Rankings<span class="period">.</span></h1>
-    <p class="lede">Teams gain marbles when they beat their expected scoring margin.</p>
   </div>
   <div class="season-control">
     <label for="season">Season</label>
@@ -189,15 +187,9 @@ body[data-reseeded] .rule-strip span:first-child{display:none}
     <p id="reseeded-note" class="muted" hidden>Experimental replay from each team's saved balance for this season. It uses results from the same season, so it is retrospective. Result likelihood is unavailable for this view.</p>
   </div>
 </section>
-<div class="rule-strip">
-  <span><strong>0</strong> marbles to start</span>
-  <span><strong>10</strong> marbles per expected point</span>
-  <span>Negative balances allowed</span>
-  <span>Final scores include overtime</span>
-</div>
 <p id="scope" class="scope"></p>
 <details id="historical-source" class="scope" hidden><summary>Historical extension · Sources and coverage</summary><p id="historical-source-note"></p><p>Two documented 1988 Kansas date corrections use school records: Appalachian State December 10 → December 7; the second St. John's game December 29 → December 30. Raw source files are preserved. Historical venue classifications and scores elsewhere remain source-derived. Full source and identity audit: <a href="../docs/history_build.json">history build record</a>.</p></details>
-<aside class="review-example"><p><strong>Michigan St leads with 208.5 marbles.</strong> Against Indiana St, its expected margin was +6.4 points. The final margin was +11, so it gained 4.6 marbles.</p><a class="review-jump" href="#season-overview-title">See how the whole field moved</a></aside>
+<aside class="review-example"><p><strong>Michigan St leads with 208.5 marbles.</strong></p><a class="review-jump" href="#season-overview-title">See how the whole field moved</a></aside>
 
 <main class="workspace">
 <section class="rankings" aria-labelledby="rankings-title">
@@ -219,9 +211,11 @@ body[data-reseeded] .rule-strip span:first-child{display:none}
     <span id="ranking-page-status" aria-live="polite"></span>
     <button type="button" class="secondary" id="ranking-next">Next</button>
   </div>
+  <details><summary>About the rankings</summary>
   <p class="table-note">Select a column heading to sort. Small italic numbers show season rank for each metric.</p>
   <p id="schedule-strength-note" class="table-note">SOS is the average marble balance of opponents at this season snapshot. Each game counts once. A large win can lower an opponent's balance and reduce your SOS.</p>
   <p id="combined-ranking-note" class="table-note">Combined score adds the marble balance and SOS marbles. Shading groups scores into two bands below 100 and five at or above 100, based on this season's distribution.</p>
+  </details>
   <p id="tournament-honors-key" class="table-note" hidden><span class="tournament-honor" aria-hidden="true">●</span> Final Four <span class="tournament-honor is-champion" aria-hidden="true">●</span> Champion · on-court results; hover for title-status notes.</p>
 </section>
 <section id="team-panel" class="team-panel" aria-labelledby="team-name">
@@ -229,12 +223,12 @@ body[data-reseeded] .rule-strip span:first-child{display:none}
     <div><p id="team-context" class="eyebrow"></p><h2 id="team-name" tabindex="-1"></h2><p id="team-games" class="muted"></p><a id="team-seasons-link" href="teams.html">All seasons →</a> &middot; <a id="team-trend-link" href="#season-overview-title">View season trend</a></div>
     <div class="balance"><span class="balance-label">Marble balance</span><strong id="team-balance"></strong></div>
   </div>
-  <p id="team-expectation" class="expectation"></p>
-  <section class="explanation" aria-labelledby="explain-title">
+  <details class="explanation"><summary>Game calculation</summary>
+    <p id="team-expectation" class="expectation"></p>
     <div class="explain-heading"><h3 id="explain-title">Inside a marble transfer</h3><span id="explain-game"></span></div>
     <div id="calculation" class="calculation"></div>
     <p id="batch-note" class="batch-note"></p>
-  </section>
+  </details>
   <div class="history-heading"><div><h3>Game ledger</h3><p>Margins and changes are from this team’s perspective.</p></div><button id="download" type="button" class="secondary">Download CSV</button></div>
   <div id="ledger-distribution" class="ledger-distribution"></div>
   <details class="ledger-key"><summary>How to read the ledger</summary><p id="ledger-legend" class="ledger-legend"><span class="legend-expected" aria-hidden="true"></span> Expected <span class="legend-actual" aria-hidden="true"></span> Final margin (win) <span class="legend-actual is-loss" aria-hidden="true"></span>Game loss <span id="ledger-scale"></span><span class="ledger-bar-keys"><span class="ledger-bar-key"><span class="ledger-bar-swatch gain" aria-hidden="true"></span>Marbles gained</span><span class="ledger-bar-key"><span class="ledger-bar-swatch win-cost" aria-hidden="true"></span>Won, marbles lost</span><span class="ledger-bar-key"><span class="ledger-bar-swatch loss" aria-hidden="true"></span>Lost, marbles lost</span></span></p>
@@ -263,15 +257,14 @@ body[data-reseeded] .rule-strip span:first-child{display:none}
   <details class="trend-sources"><summary>About team colors</summary><p id="trend-source-summary"></p><p>School colors can be shared. A highlighted line retains its team color while other series are dimmed. Colors are display metadata and never affect rankings.</p></details>
 </section>
 <footer>
-  <details><summary>How to read this report</summary>
+  <details><summary>Marble methodology and sources</summary>
     <div class="about">
-      <p>Expected margin = (this team’s marbles − opponent’s marbles) ÷ 10, plus 3 points at home, minus 3 away, or zero at a neutral site. Each point above expectation earns one marble from the opponent; each point below transfers one marble to the opponent. Balances can go negative. Every season starts at zero.</p>
+      <p>Expected margin = (this team’s marbles − opponent’s marbles) ÷ 10, plus 3 points at home, minus 3 away, or zero at a neutral site. Each point above expectation earns one marble from the opponent; each point below transfers one marble to the opponent. Balances can go negative. In the standard view each team starts at zero.</p>
       <p>Only included Division I games affect these rankings. Game counts and records may differ from a team’s official overall schedule. Final scoring includes overtime. Some historical dates use opening-day ratings for every prediction, with transfers applied together; those closing balances are labeled in the ledger.</p>
       <p id="source-note">Source: SportsDataverse’s ESPN-derived results and historical D-I membership. This report reflects the saved data snapshot, including its coverage limits. Pace adjustment and season carryover are not active. Team logos show current provider branding; historical designs may differ.</p>
       <p id="build-note"></p>
     </div>
   </details>
-  <p>Every transfer has two sides. The season’s signed marble balances sum to zero.</p>
 </footer>
 </div>
 <noscript><p class="noscript">Enable JavaScript to use season rankings and team history. All report data are included locally; no network connection is needed.</p></noscript>
@@ -923,7 +916,8 @@ $("history-body").addEventListener("click",event=>{
 });
 function showGame(index){
     selectedGame=index;renderCalculation();
-    const panel=document.querySelector(".explanation"),bounds=panel.getBoundingClientRect();
+    const panel=document.querySelector(".explanation");panel.open=true;
+    const bounds=panel.getBoundingClientRect();
     if(bounds.top<16||bounds.bottom>innerHeight-16){
       panel.scrollIntoView({block:"center",behavior:matchMedia("(prefers-reduced-motion:reduce)").matches?"auto":"smooth"});
     }
