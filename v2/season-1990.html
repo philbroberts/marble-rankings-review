@@ -189,7 +189,7 @@ body[data-reseeded] .rule-strip span:first-child{display:none}
 </section>
 <p id="scope" class="scope"></p>
 <details id="historical-source" class="scope" hidden><summary>Historical extension · Sources and coverage</summary><p id="historical-source-note"></p><p>Two documented 1988 Kansas date corrections use school records: Appalachian State December 10 → December 7; the second St. John's game December 29 → December 30. Raw source files are preserved. Historical venue classifications and scores elsewhere remain source-derived. Full source and identity audit: <a href="../docs/history_build.json">history build record</a>.</p></details>
-<aside class="review-example"><p><strong>UNLV leads with 253.3 marbles.</strong></p><a class="review-jump" href="#season-overview-title">See how the whole field moved</a></aside>
+<aside class="review-example"><p><strong>UNLV leads with 253 marbles.</strong></p><a class="review-jump" href="#season-overview-title">See how the whole field moved</a></aside>
 
 <main class="workspace">
 <section class="rankings" aria-labelledby="rankings-title">
@@ -324,10 +324,12 @@ function replayFromOpeningBalances(){
 if(reseeded)replayFromOpeningBalances();
 
 const teams = Object.values(D.teams).sort((a,b)=>a.rank-b.rank);
-const signedFormat = new Intl.NumberFormat("en-US",{minimumFractionDigits:1,maximumFractionDigits:1,signDisplay:"exceptZero"});
-const preciseFormat = new Intl.NumberFormat("en-US",{minimumFractionDigits:2,maximumFractionDigits:2,signDisplay:"exceptZero"});
+const marbleFormat = new Intl.NumberFormat("en-US",{maximumFractionDigits:0});
+const pointFormat = new Intl.NumberFormat("en-US",{minimumFractionDigits:1,maximumFractionDigits:1});
+const preciseFormat = new Intl.NumberFormat("en-US",{minimumFractionDigits:2,maximumFractionDigits:2});
 const numFormat = new Intl.NumberFormat("en-US");
-const fmt = value => signedFormat.format(Math.abs(value)<0.05?0:value);
+const fmt = value => marbleFormat.format(Math.abs(value)<0.5?0:value);
+const points = value => pointFormat.format(Math.abs(value)<0.05?0:value);
 const precise = value => preciseFormat.format(Math.abs(value)<0.005?0:value);
 const tone = value => value>0.05?"positive":value< -0.05?"negative":"";
 const normalize = value => value.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9]/g,"");
@@ -621,7 +623,6 @@ function rankedCell(label,value,ranks,cls="number"){
   }
   return cell;
 }
-const combinedFormat = new Intl.NumberFormat("en-US", {minimumFractionDigits: 2, maximumFractionDigits: 2});
 const rankingSortButtons = [...document.querySelectorAll("[data-rank-sort]")];
 let rankingSort = {key: "balance", direction: -1};
 const rankingPageSize = 15;
@@ -676,7 +677,7 @@ function renderRankings(){
     if(band!==undefined)row.dataset.combinedBand=band;
     const strength = strengthByTeam.get(team.id);
     row.append(rankedCell(strength === null ? "\u2014" : fmt(strength),strength,sosRanks));
-    row.append(rankedCell(combined === undefined ? "\u2014" : combinedFormat.format(combined),combined,combinedRanks));
+    row.append(rankedCell(combined === undefined ? "\u2014" : fmt(combined),combined,combinedRanks));
     fragment.append(row);
   }
   $("rankings-body").replaceChildren(fragment);
@@ -738,7 +739,7 @@ function ledgerDotPlot(row,limit){
   const barKind=row.change>0?"gain":row.change<0&&row.points_for<row.points_against?"loss":"win-cost";
   const outcome=row.change>0?"Marbles gained":row.change<0?(row.points_for>row.points_against?"Won the game but lost marbles":"Lost the game and marbles"):"No marble change";
   const lost=row.points_for<row.points_against;
-  const label="Expected margin "+precise(row.expected)+" points; final margin "+precise(row.actual)+" points; change "+precise(row.change)+" marbles. "+outcome+". Game result: "+(lost?"loss":"win")+".";
+  const label="Expected margin "+points(row.expected)+" points; final margin "+fmt(row.actual)+" points; change "+fmt(row.change)+" marbles. "+outcome+". Game result: "+(lost?"loss":"win")+".";
   svg.setAttribute("aria-label",label);
   const title=document.createElementNS(ns,"title");title.textContent=label;svg.append(title);
   const shape=(tag,attributes)=>{
@@ -780,8 +781,8 @@ function renderLedgerDistribution(){
     for(const [key,value] of Object.entries(attrs))v.setAttribute(key,value);
     if(text!==undefined)v.textContent=text;return v;
   };
-  const svg=el("svg",{viewBox:"0 0 "+width+" "+height,role:"img","data-domain-low":domainLow,"data-domain-high":domainHigh,"aria-label":n+" game marble changes; box shows the middle half, median "+precise(median)+"; whiskers use 1.5 times the interquartile range; every game is plotted below. Colors indicate non-conference, conference including its tournament, or NCAA tournament; other postseason is separate. All values are marbles. Larger dots indicate opponents above the pregame 75th percentile of all season members’ marble balances."});
-  svg.append(el("title",{},n+" game changes · Q1 "+precise(q1)+" · median "+precise(median)+" · Q3 "+precise(q3)+" marbles. Whiskers: "+precise(lower)+" to "+precise(upper)+". Every game is shown as a point."));
+  const svg=el("svg",{viewBox:"0 0 "+width+" "+height,role:"img","data-domain-low":domainLow,"data-domain-high":domainHigh,"aria-label":n+" game marble changes; box shows the middle half, median "+fmt(median)+"; whiskers use 1.5 times the interquartile range; every game is plotted below. Colors indicate non-conference, conference including its tournament, or NCAA tournament; other postseason is separate. All values are marbles. Larger dots indicate opponents above the pregame 75th percentile of all season members’ marble balances."});
+  svg.append(el("title",{},n+" game changes · Q1 "+fmt(q1)+" · median "+fmt(median)+" · Q3 "+fmt(q3)+" marbles. Whiskers: "+fmt(lower)+" to "+fmt(upper)+". Every game is shown as a point."));
   svg.append(el("text",{x:left,y:9},n+" game"+(n===1?"":"s")+" · marble changes"));
   if(domainLow<=0&&domainHigh>=0)svg.append(el("line",{x1:x(0),x2:x(0),y1:13,y2:66,class:"distribution-zero"}));
   if(n>1){
@@ -801,12 +802,12 @@ function renderLedgerDistribution(){
     const point=el("circle",{cx:px,cy:py,r:radius,class:"distribution-point","data-change":row.change,"data-game":row.game_id,"data-top-quartile":row.opponent_top_quartile});
     const group=distributionGroup(row.phase);
     point.dataset.seasonGroup=group;point.style.setProperty("--point-color",distributionGroups[group].color);
-    point.append(el("title",{},calendarDate(row.date)+" · "+D.teams[row.opponent].name+" · "+phaseLabels[row.phase]+" · "+precise(row.change)+" marbles · opponent pregame balance "+precise(row.opponent_before)+(row.opponent_top_quartile?" · top quartile":" · outside top quartile")+" (above "+precise(row.pregame_quartile_cutoff)+")"));svg.append(point);
+    point.append(el("title",{},calendarDate(row.date)+" · "+D.teams[row.opponent].name+" · "+phaseLabels[row.phase]+" · "+fmt(row.change)+" marbles · opponent pregame balance "+fmt(row.opponent_before)+(row.opponent_top_quartile?" · top quartile":" · outside top quartile")+" (above "+fmt(row.pregame_quartile_cutoff)+")"));svg.append(point);
   });
   svg.append(el("line",{x1:left,x2:right,y1:66,y2:66,class:"distribution-axis"}));
   const rawStep=(domainHigh-domainLow)/5,power=10**Math.floor(Math.log10(rawStep)),unit=rawStep/power;
   const step=(unit<=1?1:unit<=2?2:unit<=5?5:10)*power;
-  const tickFormat=new Intl.NumberFormat("en-US",{maximumFractionDigits:Math.min(8,Math.max(0,-Math.floor(Math.log10(step)))),signDisplay:"exceptZero"});
+  const tickFormat=new Intl.NumberFormat("en-US",{maximumFractionDigits:Math.min(8,Math.max(0,-Math.floor(Math.log10(step))))});
   for(let value=Math.ceil(domainLow/step)*step;value<=domainHigh+step*1e-8;value+=step){
     const tick=Math.abs(value)<step*1e-8?0:value;
     svg.append(el("text",{x:x(tick),y:height-2,"text-anchor":"middle",class:"distribution-tick"},tickFormat.format(tick)));
@@ -841,7 +842,7 @@ function renderTeam(){
   $("team-games").textContent=numFormat.format(team.games)+" included D-I games"+(D.in_progress?" · season in progress":"");
   $("team-balance").textContent=fmt(team.balance);
   $("team-balance").className=tone(team.balance);
-  $("team-expectation").textContent="Neutral-court expectation against a zero-marble team: "+fmt(team.balance/10)+" points.";
+  $("team-expectation").textContent="Neutral-court expectation against a zero-marble team: "+points(team.balance/10)+" points.";
   const limit=Math.max(10,Math.ceil(Math.max(0,...history.flatMap(row=>[Math.abs(row.expected),Math.abs(row.actual)]))/10)*10);
   $("ledger-scale").textContent="· Shared scale −"+limit+" to +"+limit+" points · center line = 0";
   $("ledger-legend").hidden=!history.length;
@@ -881,13 +882,13 @@ function renderTeam(){
     const batch=batchCounts.get(row.update_group)>1?" · Daily batch":"";
     first.append(node("div","game-context",row.venue+" · "+outcome+" "+row.points_for+"–"+row.points_against+overtime+batch));
     const plot=node("td","margin-plot-cell");plot.append(ledgerDotPlot(row,limit));
-    const balance=node("td","number balance-cell");balance.append(node("span","balance-value",fmt(row.after).replace(/^\+/,"")));
+    const balance=node("td","number balance-cell");balance.append(node("span","balance-value",fmt(row.after)));
     if(row.after===peakBalance){
       const marker=node("span","peak-balance","●");
       marker.title="Highest balance in this ledger";marker.setAttribute("role","img");marker.setAttribute("aria-label","Highest balance in this ledger");
       balance.append(marker);
     }
-    tr.append(first,node("td","number",fmt(row.expected)),node("td","number",fmt(row.actual).replace(/\.0$/,"")),plot,
+    tr.append(first,node("td","number",points(row.expected)),node("td","number",fmt(row.actual)),plot,
               node("td","number "+tone(row.change),fmt(row.change)),balance);
     const probability=row.result_tail_probability,likelihood=node("td","number result-likelihood",probability==null?"—":probability<.001?"<0.1%":new Intl.NumberFormat("en-US",{style:"percent",minimumFractionDigits:1,maximumFractionDigits:1}).format(probability));
     likelihood.title=probability==null?"Unavailable: fewer than 1,000 earlier games for the error reference.":"Estimated chance of a margin at least this far "+(row.change>=0?"above":"below")+" expectation, on that side only. Uses "+row.probability_prior_games.toLocaleString("en-US")+" earlier games; opposite team has the same tail estimate. Exploratory, not the chance of this exact score or simply winning.";
