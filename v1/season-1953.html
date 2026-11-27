@@ -204,12 +204,10 @@ body[data-reseeded] .rule-strip span:first-child{display:none}
 </section>
 <section id="team-panel" class="team-panel" aria-labelledby="team-name">
   <div class="team-heading">
-    <div><p id="team-context" class="eyebrow"></p><h2 id="team-name" tabindex="-1"></h2><p id="team-games" class="muted"></p><a id="team-seasons-link" href="teams.html">All seasons →</a></div>
+    <div><p id="team-context" class="eyebrow"></p><h2 id="team-name" tabindex="-1"></h2><p id="team-games" class="muted"></p><a id="team-seasons-link" href="teams.html">All seasons →</a> &middot; <a id="team-trend-link" href="#season-overview-title">View season trend</a></div>
     <div class="balance"><span class="balance-label">Marble balance</span><strong id="team-balance"></strong></div>
   </div>
   <p id="team-expectation" class="expectation"></p>
-  <div class="chart-heading"><h3>Balance through the season</h3><span id="opening-note">Zero is the starting line</span></div>
-  <div id="balance-chart" class="chart"></div>
   <section class="explanation" aria-labelledby="explain-title">
     <div class="explain-heading"><h3 id="explain-title">Inside a marble transfer</h3><span id="explain-game"></span></div>
     <div id="calculation" class="calculation"></div>
@@ -527,7 +525,7 @@ function initializeTrend(){
   document.addEventListener("keydown",event=>{
     if(event.key==="Escape"&&!event.defaultPrevented&&(trendPinned||trendHover))clearTrend();
   });
-  trendReady=true;renderTrend();clearTrend();
+  trendReady=true;renderTrend();syncTrendSelection();
   new ResizeObserver(renderTrend).observe($("season-trend"));
 }
 
@@ -549,7 +547,6 @@ if(reseeded){
   document.body.dataset.reseeded="true";
   $("reseeded-note").hidden=false;
   document.querySelector(".review-example")?.setAttribute("hidden","");
-  $("opening-note").textContent="Starts from the saved season balance";
 }
 $("snapshot").textContent=(D.in_progress?"In progress · ":"")+"Through "+calendarDate(D.as_of,true);
 if(D.historical_extension){
@@ -875,7 +872,6 @@ function renderTeam(){
   $("no-games").hidden=history.length>0;
   $("download").disabled=!history.length;
   document.querySelector(".explanation").hidden=!history.length;
-  renderChart();
   renderLedgerDistribution();
   renderCalculation();
 }
@@ -931,64 +927,12 @@ function renderCalculation(){
     tr.dataset.selected=String(selected);
     tr.setAttribute("aria-current",String(selected));
   }
-  for(const point of $("balance-chart").querySelectorAll("[data-game]")){
-    point.dataset.selected=String(point.dataset.game===row.game_id);
-  }
 }
-function renderChart(){
-  const width=Math.max(270,Math.round($("balance-chart").clientWidth)),height=$("balance-chart").clientHeight;
-  const pad={l:58,r:20,t:history.length?38:18,b:42},plotW=width-pad.l-pad.r,plotH=height-pad.t-pad.b;
-  const opening=openingBalance.get(selectedId);
-  const points=[{game:0,balance:opening,label:"Season start: "+precise(opening)+" marbles",id:""}];
-  history.forEach((row,index)=>{
-    if(index+1<history.length&&history[index+1].update_group===row.update_group)return;
-    points.push({game:index+1,balance:row.after,id:row.game_id,
-      label:calendarDate(row.date,true)+" · after "+(index+1)+" included games · "+precise(row.after)+" marbles"});
-  });
-  let low=Math.min(0,...points.map(p=>p.balance)),high=Math.max(0,...points.map(p=>p.balance));
-  const span=Math.max(20,high-low);low-=span*.12;high+=span*.12;
-  const x=value=>pad.l+(value/Math.max(1,history.length))*plotW;
-  const y=value=>pad.t+(high-value)/(high-low)*plotH;
-  const ns="http://www.w3.org/2000/svg";
-  const svgNode=(tag,attrs={},text)=>{const el=document.createElementNS(ns,tag);for(const [key,value]of Object.entries(attrs))el.setAttribute(key,value);if(text!==undefined)el.textContent=text;return el;};
-  const svg=svgNode("svg",{viewBox:"0 0 "+width+" "+height,role:"img","aria-labelledby":"chart-title chart-desc"});
-  svg.append(svgNode("title",{id:"chart-title"},"Marble balance for "+D.teams[selectedId].name));
-  svg.append(svgNode("desc",{id:"chart-desc"},"Starts at "+precise(opening)+" and ends at "+precise(D.teams[selectedId].balance)+" marbles after "+history.length+" included games. Markers show closing balances; daily batches close together."));
-  for(const section of ledgerSections()){
-    const left=section.start?x(section.start+.5):x(0),right=section.end<history.length?x(section.end+.5):x(history.length);
-    if(section.start){
-      const rule=svgNode("line",{x1:left,x2:left,y1:pad.t,y2:height-pad.b,class:"phase-rule","data-start-index":section.start,"data-phase":section.phase});
-      rule.append(svgNode("title",{},phaseLabels[section.phase]+" starts "+calendarDate(history[section.start].date)+(section.approximate?" · approximate":"")));svg.append(rule);
-    }
-    if(right-left>60)svg.append(svgNode("text",{x:(left+right)/2,y:25,"text-anchor":"middle",class:"phase-label"},phaseShort[section.phase]+(section.approximate?" ≈":"")));
-  }
-  const rawStep=(high-low)/4,power=10**Math.floor(Math.log10(rawStep));
-  const factor=rawStep/power,step=(factor<=1?1:factor<=2?2:factor<=5?5:10)*power;
-  const ticks=[];
-  for(let value=Math.ceil(low/step)*step;value<=high;value+=step)ticks.push(value);
-  if(!ticks.some(t=>Math.abs(t)<1e-8))ticks.push(0);
-  ticks.sort((a,b)=>a-b);
-  for(const value of ticks){
-    svg.append(svgNode("line",{x1:pad.l,x2:width-pad.r,y1:y(value),y2:y(value),class:"grid"+(value===0?" zero":"")}));
-    svg.append(svgNode("text",{x:pad.l-10,y:y(value)+4,"text-anchor":"end"},new Intl.NumberFormat("en-US",{maximumFractionDigits:0}).format(Math.abs(value)<1e-8?0:value)));
-  }
-  const tickCount=Math.min(4,history.length);
-  const xTicks=tickCount?Array.from({length:tickCount+1},(_,i)=>Math.round(i*history.length/tickCount)):[0];
-  for(const tick of new Set(xTicks)){
-    svg.append(svgNode("text",{x:x(tick),y:height-24,"text-anchor":"middle"},tick));
-  }
-  svg.append(svgNode("text",{x:pad.l+plotW/2,y:height-5,"text-anchor":"middle"},"Included games played"));
-  svg.append(svgNode("text",{x:8,y:10},"Marbles"));
-  const path=points.map((point,index)=>(index?"L":"M")+x(point.game).toFixed(2)+" "+y(point.balance).toFixed(2)).join(" ");
-  const last=points[points.length-1];
-  svg.append(svgNode("path",{d:path+" L"+x(last.game)+" "+y(0)+" L"+x(0)+" "+y(0)+" Z",class:"area"}));
-  svg.append(svgNode("path",{d:path,class:"series"}));
-  for(const point of points){
-    const circle=svgNode("circle",{cx:x(point.game),cy:y(point.balance),r:3,class:"point",tabindex:0,"data-game":point.id,"aria-label":point.label});
-    circle.append(svgNode("title",{},point.label));svg.append(circle);
-  }
-  $("balance-chart").replaceChildren(svg);
-}
+$("team-trend-link").addEventListener("click",event=>{
+  event.preventDefault();
+  syncTrendSelection();
+  $("season-overview-title").scrollIntoView({block:"start"});
+});
 $("download").addEventListener("click",()=>{
   const header=["season","team","game_id","date","opponent","venue","points_for","points_against","expected_margin","actual_margin","marble_transfer","balance_before","opponent_balance_before","closing_balance","chronology","one_sided_tail_probability","probability_prior_games"];
   const csvCell=value=>{
@@ -1001,7 +945,7 @@ $("download").addEventListener("click",()=>{
   a.download="marble-"+D.season+"-"+selectedId+(reseeded?"-reseeded":"")+".csv";
   document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);
 });
-new ResizeObserver(()=>{if(history.length||selectedId){renderChart();renderCalculation();renderLedgerDistribution();}}).observe($("balance-chart"));
+new ResizeObserver(renderLedgerDistribution).observe($("ledger-distribution"));
 renderRankings();selectTeam(selectedId);initializeTrend();
 document.body.dataset.reportReady="true";
 })();
